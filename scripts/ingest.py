@@ -9,42 +9,38 @@ import urllib.request
 from datetime import datetime, timedelta
 from typing import List, Dict
 
-# VERIFIED NBA Team YouTube Channel IDs
-# These are the official team channels that post press conferences
+# VERIFIED NBA Team YouTube Channel IDs (from HoopsHype spreadsheet)
 NBA_CHANNELS = {
-    # Eastern Conference
-    "Atlanta Hawks": "UCGwkUTfXBMA4SzlGqmPCqwQ",
-    "Boston Celtics": "UCkT8QtJDEFq01tlxNEyThsQ",
-    "Brooklyn Nets": "UCT0M6pb7PrNdhlVnPcOaQKg",
-    "Charlotte Hornets": "UC7aGNtPAz__rYRDpWQj7gYQ",
-    "Chicago Bulls": "UCwOXdSNEwXw-3KOUKq6xStw",
-    "Cleveland Cavaliers": "UCAdiVHtnQpLNJHEJHGFHuqQ",
-    "Detroit Pistons": "UCTkJd7hWMTv1m15NuwAFPzQ",
-    "Indiana Pacers": "UCv_W6IOt_3bflmrrdyyBX4w",
-    "Miami Heat": "UCOO_3OxHzfGbK5kCzXOy2ZQ",
-    "Milwaukee Bucks": "UCHdDtXwp5ERyGHKg2VuQ94A",
-    "New York Knicks": "UCqkmXLMFVhZ3T5GPK3SfOog",
-    "Orlando Magic": "UC-3RRSKdq_m0njn3S8r6jag",
-    "Philadelphia 76ers": "UC_NHLsOVZQjq8IWCzHg8b3Q",
-    "Toronto Raptors": "UCGwkUTfXBMA4SzlGqmPCmqA",
-    "Washington Wizards": "UCKrwNNfrZnZEGhDFEXYWcMg",
-    
-    # Western Conference
-    "Dallas Mavericks": "UCmIhJr9AT-rkf-IqdFKYaog",
-    "Denver Nuggets": "UC4oN5G9L3HDVIL11vCRjQ0w",
-    "Golden State Warriors": "UCWsUbSAt2WRkDR2BLs_ssLQ",
-    "Houston Rockets": "UCmP4F7vIPRYrINJu-d_04EQ",
-    "LA Clippers": "UCnLdLHJXwO7GDSQKpN9WMCQ",
+    "Atlanta Hawks": "UCpfcwELvR1wtcRJ0UxNXHYw",
+    "Boston Celtics": "UCMfT9dr6xC_RIWoA9hI0meQ",
+    "Brooklyn Nets": "UCL7XnFZqcLjRHiS4xX4_vgA",
+    "Charlotte Hornets": "UCiKXa2hObEziEZFkFx08i9A",
+    "Chicago Bulls": "UCvZi1jVVZ2yq0k5kkjzmuGw",
+    "Cleveland Cavaliers": "UCOdS-I1sYkKWhtTjMUWP_TA",
+    "Dallas Mavericks": "UCZywaCS_y9YOSSAC9z3dIeg",
+    "Denver Nuggets": "UCl8hzdP5wVlhuzNG3WCJa1w",
+    "Detroit Pistons": "UC-z5VCIFLG6tximfWzzlSSQ",
+    "Golden State Warriors": "UCeYc_OjHs3QNxIjti2whKzg",
+    "Houston Rockets": "UCVD7l69MVGFq_wzQvbk9HbQ",
+    "Indiana Pacers": "UCUQDCnAwU-35cOo8WCzg6zA",
+    "LA Clippers": "UCoK6pw3iIVF9WAWnQd3hj-g",
     "Los Angeles Lakers": "UC8CSt-oVqy8pUAoKSApTxQw",
-    "Memphis Grizzlies": "UC4QJKC9ZfXk8BbJq1_bTLag",
-    "Minnesota Timberwolves": "UCJh2ZLuVmKt-pSA3wPFO3LQ",
-    "New Orleans Pelicans": "UC_HJA1fN7BjlBpkLPjCNGLA",
-    "Oklahoma City Thunder": "UC9BLsYvNT3Kd0yI9KAqxMig",
-    "Phoenix Suns": "UCKdLISl-7suZAU3oeL2WFTw",
-    "Portland Trail Blazers": "UCKH_g5NHtq_x7UstbQBpD_A",
-    "Sacramento Kings": "UC-3IZT_-Y1BvNQ2fHj8uLQ",
-    "San Antonio Spurs": "UC_Q7aYKBpzWCzRQzq6D5uFQ",
-    "Utah Jazz": "UCqkdOPwLT_eWpT6rP--2-Tw",
+    "Memphis Grizzlies": "UCCK5EpWKYrAmILfaZThCV-Q",
+    "Miami Heat": "UC8bZbiKoPNRi3taABIaFeBw",
+    "Milwaukee Bucks": "UCRZDEVva3Z8h_Q0VetTgDUA",
+    "Minnesota Timberwolves": "UCXWDN5NKVFgnPt25CMh98Cg",
+    "New Orleans Pelicans": "UCHvG7tf62PwI04ZRfoptRSw",
+    "New York Knicks": "UC0hb8f0OXHEzDrJDUq-YVVw",
+    "Oklahoma City Thunder": "UCpXdQhy6kb5CTD8hKlmOL3w",
+    "Orlando Magic": "UCxHFH-yfbhUrsWY4prPx3oQ",
+    "Philadelphia 76ers": "UC5qJUyng_ezl0TVjVJFqtfQ",
+    "Phoenix Suns": "UCLxlWVVHz2a8SdCfxzVXzQw",
+    "Portland Trail Blazers": "UCTenKHt0h3VjdMvRWP6Lbvw",
+    "Sacramento Kings": "UCSgFigczGdNMilV1K23JgUQ",
+    "San Antonio Spurs": "UCEZHE-0CoHqeL1LGFa2EmQw",
+    "Toronto Raptors": "UCYBFE432C2AmNRDGEXE4uVg",
+    "Utah Jazz": "UCv9iSdeI9IzWfV8yTDsMYWA",
+    "Washington Wizards": "UCT5g1W7HHYiG8wOZEYgYXLw",
 }
 
 # Keywords that indicate press conference content
@@ -67,7 +63,6 @@ PRESS_CONFERENCE_KEYWORDS = [
     'discusses',
     'addresses',
     'shootaround',
-    'practice',
 ]
 
 # Keywords to exclude
@@ -84,6 +79,9 @@ EXCLUDE_KEYWORDS = [
     'hype video',
     'promo',
     'trailer',
+    'dunk',
+    'block',
+    'assist',
 ]
 
 
@@ -123,8 +121,14 @@ def parse_rss_entries(xml_content: str) -> List[Dict]:
                 # Parse ISO format date
                 pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
                 
+                # Clean up HTML entities in title
+                title = title_match.group(1)
+                title = title.replace('&amp;', '&')
+                title = title.replace('&#39;', "'")
+                title = title.replace('&quot;', '"')
+                
                 entries.append({
-                    'title': title_match.group(1).replace('&amp;', '&').replace('&#39;', "'"),
+                    'title': title,
                     'video_id': video_id_match.group(1),
                     'published': pub_date,
                     'url': link_match.group(1) if link_match else f"https://www.youtube.com/watch?v={video_id_match.group(1)}"
