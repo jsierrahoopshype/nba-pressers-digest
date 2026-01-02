@@ -1,0 +1,16 @@
+# Core dependencies
+feedparser>=6.0.0
+youtube-transcript-api>=0.6.0
+yt-dlp>=2024.1.0
+
+# LLM clients (use one or both)
+anthropic>=0.40.0  # Paid, higher quality
+groq>=0.11.0       # Free tier available
+
+# Publishing (optional)
+google-api-python-client>=2.100.0  # YouTube upload
+tweepy>=4.14.0                      # Twitter/X posting
+
+# Utilities
+requests>=2.31.0
+python-dateutil>=2.8.0
