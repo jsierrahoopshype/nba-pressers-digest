@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Score and identify best moments from press conference transcripts using LLM
-Fixed to handle list format from transcribe.py
 """
 
 import os
@@ -114,7 +113,7 @@ def score_transcript_anthropic(client, transcript_data: Dict) -> List[Dict]:
         team=transcript_data.get('team', 'Unknown'),
         person=transcript_data.get('person', 'Unknown'),
         title=transcript_data.get('title', 'Press Conference'),
-        transcript=formatted[:15000]  # Limit length
+        transcript=formatted[:15000]
     )
     
     response = client.messages.create(
@@ -136,7 +135,7 @@ def score_transcript_groq(client, transcript_data: Dict) -> List[Dict]:
         team=transcript_data.get('team', 'Unknown'),
         person=transcript_data.get('person', 'Unknown'),
         title=transcript_data.get('title', 'Press Conference'),
-        transcript=formatted[:12000]  # Groq has lower limits
+        transcript=formatted[:12000]
     )
     
     response = client.chat.completions.create(
@@ -153,7 +152,6 @@ def score_transcript_groq(client, transcript_data: Dict) -> List[Dict]:
 def parse_moments_json(response_text: str) -> List[Dict]:
     """Parse JSON moments from LLM response"""
     
-    # Clean up response - remove markdown code blocks if present
     cleaned = response_text.strip()
     cleaned = re.sub(r'^```json\s*', '', cleaned)
     cleaned = re.sub(r'^```\s*', '', cleaned)
@@ -191,13 +189,11 @@ def validate_moment(moment: Dict, transcript_duration: float) -> bool:
     start = timestamp_to_seconds(moment['start_time'])
     end = timestamp_to_seconds(moment['end_time'])
     
-    # Check valid time range
     if start >= end:
         return False
-    if start < 0 or end > transcript_duration + 10:  # Allow small buffer
+    if start < 0 or end > transcript_duration + 10:
         return False
     
-    # Check clip duration (15-60 seconds)
     duration = end - start
     if duration < 10 or duration > 90:
         return False
@@ -208,15 +204,8 @@ def validate_moment(moment: Dict, transcript_duration: float) -> bool:
 def score_all_transcripts(transcripts: List[Dict]) -> Dict[str, List[Dict]]:
     """
     Score moments for all transcripts
-    
-    Args:
-        transcripts: List of video dicts with transcript data
-    
-    Returns:
-        Dict mapping video_id to list of scored moments
     """
     
-    # Handle empty list
     if not transcripts:
         print("  No transcripts to score")
         return {}
@@ -226,7 +215,6 @@ def score_all_transcripts(transcripts: List[Dict]) -> Dict[str, List[Dict]]:
     
     all_moments = {}
     
-    # Handle list format from transcribe.py
     for video_data in transcripts:
         video_id = video_data.get('video_id', 'unknown')
         title = video_data.get('title', video_id)
@@ -239,20 +227,18 @@ def score_all_transcripts(transcripts: List[Dict]) -> Dict[str, List[Dict]]:
             else:
                 moments = score_transcript_groq(client, video_data)
             
-            # Estimate duration from transcript segments
             transcript_info = video_data.get('transcript', {})
             segments = transcript_info.get('segments', [])
             if segments:
                 last_seg = segments[-1]
                 duration = last_seg.get('start', 0) + last_seg.get('duration', 0)
             else:
-                duration = 3600  # Default 1 hour if unknown
+                duration = 3600
             
             valid_moments = []
             
             for moment in moments:
                 if validate_moment(moment, duration):
-                    # Add metadata
                     moment['video_id'] = video_id
                     moment['team'] = video_data.get('team', '')
                     moment['source_title'] = video_data.get('title', '')
@@ -276,15 +262,12 @@ def score_all_transcripts(transcripts: List[Dict]) -> Dict[str, List[Dict]]:
 def get_top_moments(all_moments: Dict[str, List[Dict]], max_count: int = 12) -> List[Dict]:
     """Get top N moments across all videos, sorted by score"""
     
-    # Flatten all moments
     flat_moments = []
     for video_id, moments in all_moments.items():
         flat_moments.extend(moments)
     
-    # Sort by score (descending)
     flat_moments.sort(key=lambda x: x.get('score', 0), reverse=True)
     
-    # Return top N
     return flat_moments[:max_count]
 
 
@@ -308,7 +291,6 @@ if __name__ == "__main__":
     print(f"Scoring {len(transcripts)} transcripts...")
     all_moments = score_all_transcripts(transcripts)
     
-    # Get top moments
     top_moments = get_top_moments(all_moments, max_count=args.top)
     
     print(f"\n{'='*50}")
@@ -321,7 +303,6 @@ if __name__ == "__main__":
         print(f"   Time: {moment['start_time']} - {moment['end_time']} ({moment['duration']:.0f}s)")
         print()
     
-    # Save all moments
     output_data = {
         'all_moments': all_moments,
         'top_moments': top_moments
