@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
 Fetch YouTube auto-captions for press conference videos
-Updated for youtube-transcript-api >= 1.0.0
+Updated for youtube-transcript-api 1.2.x (instance-based API)
 """
 
 import json
 import os
 from typing import List, Dict, Optional
 from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api.formatters import TextFormatter
 
 
 def get_transcript(video_id: str) -> Optional[Dict]:
@@ -22,19 +21,23 @@ def get_transcript(video_id: str) -> Optional[Dict]:
         Dict with full_text and segments, or None if unavailable
     """
     try:
-        # New API: directly fetch transcript (auto-selects best available)
-        transcript_list = YouTubeTranscriptApi.get_transcript(
-            video_id,
-            languages=['en', 'en-US', 'en-GB']  # Prefer English
-        )
+        # youtube-transcript-api 1.x uses instance-based API
+        ytt_api = YouTubeTranscriptApi()
+        
+        # Try to fetch English transcript
+        try:
+            transcript_list = ytt_api.fetch(video_id, languages=['en', 'en-US', 'en-GB'])
+        except:
+            # Fallback: fetch any available transcript
+            transcript_list = ytt_api.fetch(video_id)
         
         # Format segments with timestamps
         segments = []
         for entry in transcript_list:
             segments.append({
-                'start': entry['start'],
-                'duration': entry.get('duration', 0),
-                'text': entry['text']
+                'start': entry.start,
+                'duration': entry.duration,
+                'text': entry.text
             })
         
         # Create full text
@@ -47,28 +50,8 @@ def get_transcript(video_id: str) -> Optional[Dict]:
         }
         
     except Exception as e:
-        # Try without language preference as fallback
-        try:
-            transcript_list = YouTubeTranscriptApi.get_transcript(video_id)
-            
-            segments = []
-            for entry in transcript_list:
-                segments.append({
-                    'start': entry['start'],
-                    'duration': entry.get('duration', 0),
-                    'text': entry['text']
-                })
-            
-            full_text = ' '.join([s['text'] for s in segments])
-            
-            return {
-                'full_text': full_text,
-                'segments': segments,
-                'word_count': len(full_text.split())
-            }
-        except Exception as e2:
-            print(f"  ⚠️  Error fetching transcript for {video_id}: {str(e2)}")
-            return None
+        print(f"  ⚠️  Error fetching transcript for {video_id}: {str(e)}")
+        return None
 
 
 def process_videos(videos: List[Dict]) -> List[Dict]:
