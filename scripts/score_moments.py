@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Score and identify best moments from press conference transcripts using LLM
+Fixed to handle list format from transcribe.py
 """
 
 import os
@@ -87,14 +88,33 @@ def get_llm_client():
     )
 
 
+def format_transcript_for_scoring(transcript_data: Dict) -> str:
+    """Format transcript segments with timestamps for LLM scoring"""
+    segments = transcript_data.get('transcript', {}).get('segments', [])
+    if not segments:
+        return transcript_data.get('transcript', {}).get('full_text', '')
+    
+    formatted_lines = []
+    for seg in segments:
+        start = seg.get('start', 0)
+        minutes = int(start // 60)
+        seconds = int(start % 60)
+        text = seg.get('text', '')
+        formatted_lines.append(f"[{minutes}:{seconds:02d}] {text}")
+    
+    return '\n'.join(formatted_lines)
+
+
 def score_transcript_anthropic(client, transcript_data: Dict) -> List[Dict]:
     """Score moments using Anthropic Claude"""
+    
+    formatted = format_transcript_for_scoring(transcript_data)
     
     prompt = SCORING_PROMPT.format(
         team=transcript_data.get('team', 'Unknown'),
         person=transcript_data.get('person', 'Unknown'),
         title=transcript_data.get('title', 'Press Conference'),
-        transcript=transcript_data.get('formatted', '')[:15000]  # Limit length
+        transcript=formatted[:15000]  # Limit length
     )
     
     response = client.messages.create(
@@ -110,11 +130,13 @@ def score_transcript_anthropic(client, transcript_data: Dict) -> List[Dict]:
 def score_transcript_groq(client, transcript_data: Dict) -> List[Dict]:
     """Score moments using Groq (free Llama 3.1)"""
     
+    formatted = format_transcript_for_scoring(transcript_data)
+    
     prompt = SCORING_PROMPT.format(
         team=transcript_data.get('team', 'Unknown'),
         person=transcript_data.get('person', 'Unknown'),
         title=transcript_data.get('title', 'Press Conference'),
-        transcript=transcript_data.get('formatted', '')[:12000]  # Groq has lower limits
+        transcript=formatted[:12000]  # Groq has lower limits
     )
     
     response = client.chat.completions.create(
@@ -183,43 +205,59 @@ def validate_moment(moment: Dict, transcript_duration: float) -> bool:
     return True
 
 
-def score_all_transcripts(transcripts: Dict[str, Dict]) -> Dict[str, List[Dict]]:
+def score_all_transcripts(transcripts: List[Dict]) -> Dict[str, List[Dict]]:
     """
     Score moments for all transcripts
     
     Args:
-        transcripts: Dict mapping video_id to transcript data
+        transcripts: List of video dicts with transcript data
     
     Returns:
         Dict mapping video_id to list of scored moments
     """
+    
+    # Handle empty list
+    if not transcripts:
+        print("  No transcripts to score")
+        return {}
     
     provider, client = get_llm_client()
     print(f"Using {provider.upper()} for moment scoring")
     
     all_moments = {}
     
-    for video_id, transcript_data in transcripts.items():
-        print(f"  Scoring: {transcript_data.get('title', video_id)[:50]}...")
+    # Handle list format from transcribe.py
+    for video_data in transcripts:
+        video_id = video_data.get('video_id', 'unknown')
+        title = video_data.get('title', video_id)
+        
+        print(f"  Scoring: {title[:50]}...")
         
         try:
             if provider == 'anthropic':
-                moments = score_transcript_anthropic(client, transcript_data)
+                moments = score_transcript_anthropic(client, video_data)
             else:
-                moments = score_transcript_groq(client, transcript_data)
+                moments = score_transcript_groq(client, video_data)
             
-            # Validate and enrich moments
-            duration = transcript_data.get('duration_seconds', 0)
+            # Estimate duration from transcript segments
+            transcript_info = video_data.get('transcript', {})
+            segments = transcript_info.get('segments', [])
+            if segments:
+                last_seg = segments[-1]
+                duration = last_seg.get('start', 0) + last_seg.get('duration', 0)
+            else:
+                duration = 3600  # Default 1 hour if unknown
+            
             valid_moments = []
             
             for moment in moments:
                 if validate_moment(moment, duration):
                     # Add metadata
                     moment['video_id'] = video_id
-                    moment['team'] = transcript_data.get('team', '')
-                    moment['source_title'] = transcript_data.get('title', '')
-                    moment['source_url'] = transcript_data.get('url', '')
-                    moment['person'] = transcript_data.get('person', '')
+                    moment['team'] = video_data.get('team', '')
+                    moment['source_title'] = video_data.get('title', '')
+                    moment['source_url'] = video_data.get('url', '')
+                    moment['person'] = video_data.get('person', '')
                     moment['start_seconds'] = timestamp_to_seconds(moment['start_time'])
                     moment['end_seconds'] = timestamp_to_seconds(moment['end_time'])
                     moment['duration'] = moment['end_seconds'] - moment['start_seconds']
