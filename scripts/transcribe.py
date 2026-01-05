@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch YouTube auto-captions using yt-dlp (bypasses cloud IP blocks)
+Fetch YouTube transcripts - tries captions first, falls back to Whisper
 """
 
 import json
@@ -15,37 +15,26 @@ from pathlib import Path
 def parse_vtt_to_segments(vtt_content: str) -> List[Dict]:
     """Parse VTT subtitle file to segments with timestamps"""
     segments = []
-    
-    # VTT format: timestamp lines followed by text
-    # 00:00:05.000 --> 00:00:10.000
-    # Text here
-    
     lines = vtt_content.split('\n')
     i = 0
     
     while i < len(lines):
         line = lines[i].strip()
-        
-        # Look for timestamp line
         timestamp_match = re.match(r'(\d{2}:\d{2}:\d{2}\.\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2}\.\d{3})', line)
         
         if timestamp_match:
             start_str = timestamp_match.group(1)
             end_str = timestamp_match.group(2)
-            
-            # Convert to seconds
             start = vtt_timestamp_to_seconds(start_str)
             end = vtt_timestamp_to_seconds(end_str)
             duration = end - start
             
-            # Get text (next non-empty lines until blank or next timestamp)
             i += 1
             text_lines = []
             while i < len(lines):
                 text_line = lines[i].strip()
                 if not text_line or re.match(r'\d{2}:\d{2}:\d{2}\.\d{3}', text_line):
                     break
-                # Remove VTT formatting tags
                 text_line = re.sub(r'<[^>]+>', '', text_line)
                 text_lines.append(text_line)
                 i += 1
@@ -60,9 +49,7 @@ def parse_vtt_to_segments(vtt_content: str) -> List[Dict]:
         else:
             i += 1
     
-    # Merge duplicate/overlapping segments (common in auto-captions)
-    merged = merge_segments(segments)
-    return merged
+    return merge_segments(segments)
 
 
 def merge_segments(segments: List[Dict]) -> List[Dict]:
@@ -74,13 +61,10 @@ def merge_segments(segments: List[Dict]) -> List[Dict]:
     seen_texts = set()
     
     for seg in segments:
-        # Skip exact duplicates
         text_key = seg['text'].strip().lower()
         if text_key in seen_texts:
             continue
         seen_texts.add(text_key)
-        
-        # Add segment
         merged.append(seg)
     
     return merged
@@ -95,72 +79,150 @@ def vtt_timestamp_to_seconds(timestamp: str) -> float:
     return hours * 3600 + minutes * 60 + seconds
 
 
-def get_transcript_ytdlp(video_id: str) -> Optional[Dict]:
-    """
-    Fetch transcript using yt-dlp (more reliable from cloud IPs)
-    """
+def get_captions_ytdlp(video_id: str, tmpdir: str) -> Optional[Dict]:
+    """Try to get existing captions using yt-dlp"""
     url = f"https://www.youtube.com/watch?v={video_id}"
+    output_template = os.path.join(tmpdir, "%(id)s")
     
-    with tempfile.TemporaryDirectory() as tmpdir:
-        output_template = os.path.join(tmpdir, "%(id)s")
+    # Try auto-generated captions first
+    cmd = [
+        "yt-dlp",
+        "--skip-download",
+        "--write-auto-sub",
+        "--sub-lang", "en",
+        "--sub-format", "vtt",
+        "--output", output_template,
+        "--no-warnings",
+        "--quiet",
+        url
+    ]
+    
+    try:
+        subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+        vtt_files = list(Path(tmpdir).glob("*.vtt"))
         
-        # Try to download auto-generated captions
-        cmd = [
-            "yt-dlp",
-            "--skip-download",
-            "--write-auto-sub",
-            "--sub-lang", "en",
-            "--sub-format", "vtt",
-            "--output", output_template,
-            "--no-warnings",
-            "--quiet",
-            url
-        ]
-        
-        try:
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
-            
-            # Look for the subtitle file
+        if not vtt_files:
+            # Try manual captions
+            cmd[3] = "--write-sub"
+            subprocess.run(cmd, capture_output=True, text=True, timeout=30)
             vtt_files = list(Path(tmpdir).glob("*.vtt"))
-            
-            if not vtt_files:
-                # Try without auto-sub (manually uploaded captions)
-                cmd[3] = "--write-sub"
-                result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
-                vtt_files = list(Path(tmpdir).glob("*.vtt"))
-            
-            if not vtt_files:
-                return None
-            
-            # Read and parse VTT file
+        
+        if vtt_files:
             vtt_content = vtt_files[0].read_text(encoding='utf-8')
             segments = parse_vtt_to_segments(vtt_content)
-            
-            if not segments:
-                return None
-            
-            # Create full text
-            full_text = ' '.join([s['text'] for s in segments])
-            
-            return {
-                'full_text': full_text,
-                'segments': segments,
-                'word_count': len(full_text.split())
-            }
-            
-        except subprocess.TimeoutExpired:
-            print(f"  ⚠️  Timeout fetching transcript for {video_id}")
-            return None
-        except Exception as e:
-            print(f"  ⚠️  Error fetching transcript for {video_id}: {str(e)}")
-            return None
+            if segments:
+                full_text = ' '.join([s['text'] for s in segments])
+                return {
+                    'full_text': full_text,
+                    'segments': segments,
+                    'word_count': len(full_text.split()),
+                    'method': 'captions'
+                }
+    except Exception:
+        pass
+    
+    return None
 
 
-def process_videos(videos: List[Dict]) -> List[Dict]:
+def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
+    """Download audio and transcribe with Whisper"""
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    audio_path = os.path.join(tmpdir, f"{video_id}.mp3")
+    
+    # Download audio only
+    cmd = [
+        "yt-dlp",
+        "-x",  # Extract audio
+        "--audio-format", "mp3",
+        "--audio-quality", "5",  # Medium quality (smaller file)
+        "-o", audio_path,
+        "--no-warnings",
+        "--quiet",
+        "--no-playlist",
+        url
+    ]
+    
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        
+        # yt-dlp might add extension
+        if not os.path.exists(audio_path):
+            audio_files = list(Path(tmpdir).glob(f"{video_id}.*"))
+            if audio_files:
+                audio_path = str(audio_files[0])
+        
+        if not os.path.exists(audio_path):
+            print(f"    ⚠️  Failed to download audio")
+            return None
+        
+        # Check file size (skip if too large - over 100MB)
+        file_size = os.path.getsize(audio_path)
+        if file_size > 100 * 1024 * 1024:
+            print(f"    ⚠️  Audio too large ({file_size // 1024 // 1024}MB), skipping")
+            return None
+        
+        # Transcribe with Whisper
+        print(f"    🎙️  Transcribing with Whisper...")
+        
+        import whisper
+        model = whisper.load_model("base")  # Use 'base' for speed, 'small' for accuracy
+        result = model.transcribe(audio_path, language="en")
+        
+        if not result or not result.get('segments'):
+            return None
+        
+        segments = []
+        for seg in result['segments']:
+            segments.append({
+                'start': seg['start'],
+                'duration': seg['end'] - seg['start'],
+                'text': seg['text'].strip()
+            })
+        
+        full_text = result.get('text', '').strip()
+        
+        return {
+            'full_text': full_text,
+            'segments': segments,
+            'word_count': len(full_text.split()),
+            'method': 'whisper'
+        }
+        
+    except ImportError:
+        print(f"    ⚠️  Whisper not installed, skipping audio transcription")
+        return None
+    except subprocess.TimeoutExpired:
+        print(f"    ⚠️  Download timeout")
+        return None
+    except Exception as e:
+        print(f"    ⚠️  Whisper error: {str(e)[:100]}")
+        return None
+
+
+def get_transcript(video_id: str) -> Optional[Dict]:
+    """Get transcript - try captions first, fall back to Whisper"""
+    
+    with tempfile.TemporaryDirectory() as tmpdir:
+        # First try existing captions (fast)
+        result = get_captions_ytdlp(video_id, tmpdir)
+        if result:
+            return result
+        
+        # Fall back to Whisper transcription
+        result = transcribe_with_whisper(video_id, tmpdir)
+        if result:
+            return result
+    
+    return None
+
+
+def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
     """
     Fetch transcripts for a list of videos
+    max_whisper: Maximum number of videos to transcribe with Whisper (to limit runtime)
     """
     results = []
+    whisper_count = 0
     
     for video in videos:
         video_id = video.get('video_id')
@@ -168,16 +230,26 @@ def process_videos(videos: List[Dict]) -> List[Dict]:
         
         print(f"  Fetching transcript: {title[:50]}...")
         
-        transcript = get_transcript_ytdlp(video_id)
-        
-        if transcript:
-            video_with_transcript = {
-                **video,
-                'transcript': transcript
-            }
-            results.append(video_with_transcript)
-            print(f"    ✓ Got {transcript['word_count']} words")
-        else:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            # First try captions
+            transcript = get_captions_ytdlp(video_id, tmpdir)
+            
+            if transcript:
+                video_with_transcript = {**video, 'transcript': transcript}
+                results.append(video_with_transcript)
+                print(f"    ✓ Got {transcript['word_count']} words (captions)")
+                continue
+            
+            # Fall back to Whisper if under limit
+            if whisper_count < max_whisper:
+                transcript = transcribe_with_whisper(video_id, tmpdir)
+                if transcript:
+                    whisper_count += 1
+                    video_with_transcript = {**video, 'transcript': transcript}
+                    results.append(video_with_transcript)
+                    print(f"    ✓ Got {transcript['word_count']} words (whisper) [{whisper_count}/{max_whisper}]")
+                    continue
+            
             print(f"    ✗ No transcript available")
     
     return results
@@ -205,11 +277,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Fetch transcripts for YouTube videos")
     parser.add_argument("--input", type=str, default="data/videos.json", help="Input videos JSON")
     parser.add_argument("--output", type=str, default="data/transcripts.json", help="Output transcripts JSON")
+    parser.add_argument("--max-whisper", type=int, default=10, help="Max videos to transcribe with Whisper")
     
     args = parser.parse_args()
     
     videos = load_videos(args.input)
     print(f"Processing {len(videos)} videos...")
     
-    transcripts = process_videos(videos)
+    transcripts = process_videos(videos, max_whisper=args.max_whisper)
     save_transcripts(transcripts, args.output)
