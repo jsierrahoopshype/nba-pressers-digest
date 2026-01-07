@@ -6,7 +6,7 @@ Ingest new press conference videos from NBA team YouTube channels
 import re
 import json
 import urllib.request
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import List, Dict
 
 # VERIFIED NBA Team YouTube Channel IDs (from HoopsHype spreadsheet)
@@ -176,8 +176,8 @@ def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> Lis
     if channels is None:
         channels = NBA_CHANNELS
     
-    # Calculate cutoff time
-    cutoff = datetime.utcnow() - timedelta(hours=hours_back)
+    # Calculate cutoff time (timezone-aware)
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_back)
     new_videos = []
     
     print(f"Scanning {len(channels)} channels for videos from last {hours_back} hours...")
@@ -189,12 +189,12 @@ def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> Lis
             xml_content = fetch_url(feed_url)
             
             if not xml_content:
-                print(f"  ⚠️  Could not fetch feed for {team}")
+                print(f"  [!] Could not fetch feed for {team}")
                 continue
             
             # Check if we got valid XML
             if '<feed' not in xml_content:
-                print(f"  ⚠️  Invalid feed for {team}")
+                print(f"  [!] Invalid feed for {team}")
                 continue
             
             # Parse entries
@@ -202,8 +202,10 @@ def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> Lis
             team_videos = 0
             
             for entry in entries:
-                # Make timezone-naive for comparison
-                pub_date = entry['published'].replace(tzinfo=None)
+                # Compare timezone-aware datetimes
+                pub_date = entry['published']
+                if pub_date.tzinfo is None:
+                    pub_date = pub_date.replace(tzinfo=timezone.utc)
                 
                 if pub_date < cutoff:
                     continue
@@ -225,10 +227,10 @@ def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> Lis
                 team_videos += 1
             
             if team_videos > 0:
-                print(f"  ✓ {team}: {team_videos} videos")
+                print(f"  [OK] {team}: {team_videos} videos")
                 
         except Exception as e:
-            print(f"  ⚠️  Error with {team}: {str(e)}")
+            print(f"  [!] Error with {team}: {str(e)}")
     
     # Sort by published date (newest first)
     new_videos.sort(key=lambda x: x['published'], reverse=True)
