@@ -1,11 +1,9 @@
 name: NBA Pressers Daily Digest
 
 on:
-  # Run daily at 9:30 AM UTC (4:30 AM ET)
   schedule:
     - cron: '30 9 * * *'
   
-  # Allow manual trigger
   workflow_dispatch:
     inputs:
       hours_back:
@@ -25,6 +23,22 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      
+      - name: Verify dependencies
+        run: |
+          Write-Host "=== Python version ==="
+          python --version
+          Write-Host "=== Checking yt-dlp ==="
+          yt-dlp --version
+          Write-Host "=== Checking ffmpeg ==="
+          ffmpeg -version | Select-Object -First 1
+        shell: powershell
+        continue-on-error: true
+      
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade yt-dlp feedparser youtube-transcript-api anthropic groq google-api-python-client tweepy requests python-dateutil
+        shell: powershell
       
       - name: Create output directories
         run: |
