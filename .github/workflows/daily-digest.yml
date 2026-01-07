@@ -1,9 +1,9 @@
 name: NBA Pressers Daily Digest
 
 on:
-  # Run daily at 10 AM UTC (adjust for your timezone)
+  # Run daily at 9:30 AM UTC (4:30 AM ET)
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '30 9 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
@@ -19,41 +19,30 @@ on:
 
 jobs:
   generate-digest:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     timeout-minutes: 60
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-      
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-      
-      - name: Install Python dependencies
-        run: |
-          pip install -r requirements.txt
-      
       - name: Create output directories
         run: |
-          mkdir -p data output/clips
+          New-Item -ItemType Directory -Force -Path data
+          New-Item -ItemType Directory -Force -Path output\clips
+        shell: pwsh
       
       - name: Stage 1 - Ingest new videos
         run: |
           cd scripts
-          python ingest.py --hours ${{ github.event.inputs.hours_back || '24' }} --output ../data/videos.json
+          python ingest.py --hours ${{ github.event.inputs.hours_back || '24' }} --output ..\data\videos.json
+        shell: pwsh
       
       - name: Stage 2 - Fetch transcripts
         run: |
           cd scripts
-          python transcribe.py --input ../data/videos.json --output ../data/transcripts.json
+          python transcribe.py --input ..\data\videos.json --output ..\data\transcripts.json
+        shell: pwsh
       
       - name: Stage 3 - Score moments
         env:
@@ -61,49 +50,30 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           cd scripts
-          python score_moments.py --input ../data/transcripts.json --output ../data/moments.json --top ${{ github.event.inputs.max_clips || '12' }}
+          python score_moments.py --input ..\data\transcripts.json --output ..\data\moments.json --top ${{ github.event.inputs.max_clips || '12' }}
+        shell: pwsh
       
       - name: Stage 4 - Download and process clips
         run: |
           cd scripts
-          python clip_videos.py --input ../data/moments.json --output-dir ../output/clips --max-clips ${{ github.event.inputs.max_clips || '12' }}
+          python clip_videos.py --input ..\data\moments.json --output-dir ..\output\clips --max-clips ${{ github.event.inputs.max_clips || '12' }}
+        shell: pwsh
+        continue-on-error: true
       
       - name: Stage 5 - Compile digest video
         run: |
           cd scripts
-          python compile_digest.py --input ../output/clips/processed_clips.json --output ../output/digest.mp4
+          python compile_digest.py --input ..\output\clips\processed_clips.json --output ..\output\digest.mp4
+        shell: pwsh
+        continue-on-error: true
       
       - name: Stage 6 - Run QA checks
         id: qa
         run: |
           cd scripts
-          python qa_checks.py --clips ../output/clips/processed_clips.json --video ../output/digest.mp4 --output ../output/qa_report.txt
-          if [ $? -eq 0 ]; then
-            echo "qa_passed=true" >> $GITHUB_OUTPUT
-          else
-            echo "qa_passed=false" >> $GITHUB_OUTPUT
-          fi
+          python qa_checks.py --clips ..\output\clips\processed_clips.json --video ..\output\digest.mp4 --output ..\output\qa_report.txt
+        shell: pwsh
         continue-on-error: true
-      
-      - name: Generate run summary
-        run: |
-          echo "## NBA Pressers Digest - $(date +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          
-          if [ -f output/qa_report.txt ]; then
-            echo "### QA Report" >> $GITHUB_STEP_SUMMARY
-            echo '```' >> $GITHUB_STEP_SUMMARY
-            cat output/qa_report.txt >> $GITHUB_STEP_SUMMARY
-            echo '```' >> $GITHUB_STEP_SUMMARY
-          fi
-          
-          if [ -f output/digest_metadata.json ]; then
-            echo "" >> $GITHUB_STEP_SUMMARY
-            echo "### Metadata" >> $GITHUB_STEP_SUMMARY
-            echo '```json' >> $GITHUB_STEP_SUMMARY
-            cat output/digest_metadata.json >> $GITHUB_STEP_SUMMARY
-            echo '```' >> $GITHUB_STEP_SUMMARY
-          fi
       
       - name: Upload artifacts for review
         uses: actions/upload-artifact@v4
@@ -116,24 +86,10 @@ jobs:
             output/clips/processed_clips.json
             data/
           retention-days: 7
-      
-      # Optional: Auto-publish if QA passes and AUTO_PUBLISH is enabled
-      - name: Auto-publish (if enabled)
-        if: steps.qa.outputs.qa_passed == 'true' && vars.AUTO_PUBLISH == 'true'
-        env:
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-        run: |
-          echo "Auto-publish would run here"
-          # cd scripts
-          # python publish.py --video ../output/digest.mp4 --metadata ../output/digest_metadata.json
+        continue-on-error: true
       
       - name: Notify on failure
         if: failure()
         run: |
-          echo "::error::Digest generation failed. Check the logs for details."
+          Write-Host "::error::Digest generation failed. Check the logs for details."
+        shell: pwsh
