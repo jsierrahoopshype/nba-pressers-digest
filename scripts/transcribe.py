@@ -152,17 +152,17 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
                 audio_path = str(audio_files[0])
         
         if not os.path.exists(audio_path):
-            print(f"    ⚠️  Failed to download audio")
+            print(f"    [!] Failed to download audio")
             return None
         
         # Check file size (skip if too large - over 100MB)
         file_size = os.path.getsize(audio_path)
         if file_size > 100 * 1024 * 1024:
-            print(f"    ⚠️  Audio too large ({file_size // 1024 // 1024}MB), skipping")
+            print(f"    [!] Audio too large ({file_size // 1024 // 1024}MB), skipping")
             return None
         
         # Transcribe with Whisper
-        print(f"    🎙️  Transcribing with Whisper...")
+        print(f"    [MIC] Transcribing with Whisper...")
         
         import whisper
         model = whisper.load_model("base")  # Use 'base' for speed, 'small' for accuracy
@@ -189,13 +189,13 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
         }
         
     except ImportError:
-        print(f"    ⚠️  Whisper not installed, skipping audio transcription")
+        print(f"    [!] Whisper not installed, skipping audio transcription")
         return None
     except subprocess.TimeoutExpired:
-        print(f"    ⚠️  Download timeout")
+        print(f"    [!] Download timeout")
         return None
     except Exception as e:
-        print(f"    ⚠️  Whisper error: {str(e)[:100]}")
+        print(f"    [!] Whisper error: {str(e)[:100]}")
         return None
 
 
@@ -237,7 +237,7 @@ def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
             if transcript:
                 video_with_transcript = {**video, 'transcript': transcript}
                 results.append(video_with_transcript)
-                print(f"    ✓ Got {transcript['word_count']} words (captions)")
+                print(f"    [OK] Got {transcript['word_count']} words (captions)")
                 continue
             
             # Fall back to Whisper if under limit
@@ -247,10 +247,10 @@ def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
                     whisper_count += 1
                     video_with_transcript = {**video, 'transcript': transcript}
                     results.append(video_with_transcript)
-                    print(f"    ✓ Got {transcript['word_count']} words (whisper) [{whisper_count}/{max_whisper}]")
+                    print(f"    [OK] Got {transcript['word_count']} words (whisper) [{whisper_count}/{max_whisper}]")
                     continue
             
-            print(f"    ✗ No transcript available")
+            print(f"    [X] No transcript available")
     
     return results
 
