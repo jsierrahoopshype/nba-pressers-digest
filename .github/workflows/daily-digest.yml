@@ -30,19 +30,19 @@ jobs:
         run: |
           New-Item -ItemType Directory -Force -Path data
           New-Item -ItemType Directory -Force -Path output\clips
-        shell: pwsh
+        shell: powershell
       
       - name: Stage 1 - Ingest new videos
         run: |
           cd scripts
           python ingest.py --hours ${{ github.event.inputs.hours_back || '24' }} --output ..\data\videos.json
-        shell: pwsh
+        shell: powershell
       
       - name: Stage 2 - Fetch transcripts
         run: |
           cd scripts
           python transcribe.py --input ..\data\videos.json --output ..\data\transcripts.json
-        shell: pwsh
+        shell: powershell
       
       - name: Stage 3 - Score moments
         env:
@@ -51,20 +51,20 @@ jobs:
         run: |
           cd scripts
           python score_moments.py --input ..\data\transcripts.json --output ..\data\moments.json --top ${{ github.event.inputs.max_clips || '12' }}
-        shell: pwsh
+        shell: powershell
       
       - name: Stage 4 - Download and process clips
         run: |
           cd scripts
           python clip_videos.py --input ..\data\moments.json --output-dir ..\output\clips --max-clips ${{ github.event.inputs.max_clips || '12' }}
-        shell: pwsh
+        shell: powershell
         continue-on-error: true
       
       - name: Stage 5 - Compile digest video
         run: |
           cd scripts
           python compile_digest.py --input ..\output\clips\processed_clips.json --output ..\output\digest.mp4
-        shell: pwsh
+        shell: powershell
         continue-on-error: true
       
       - name: Stage 6 - Run QA checks
@@ -72,7 +72,7 @@ jobs:
         run: |
           cd scripts
           python qa_checks.py --clips ..\output\clips\processed_clips.json --video ..\output\digest.mp4 --output ..\output\qa_report.txt
-        shell: pwsh
+        shell: powershell
         continue-on-error: true
       
       - name: Upload artifacts for review
@@ -92,4 +92,4 @@ jobs:
         if: failure()
         run: |
           Write-Host "::error::Digest generation failed. Check the logs for details."
-        shell: pwsh
+        shell: powershell
