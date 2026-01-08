@@ -8,8 +8,22 @@ import os
 import subprocess
 import tempfile
 import re
+import sys
 from typing import List, Dict, Optional
 from pathlib import Path
+
+# Fix Windows console encoding
+if sys.platform == 'win32':
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+
+
+def safe_print(text):
+    """Print text safely, replacing problematic characters"""
+    try:
+        print(text)
+    except UnicodeEncodeError:
+        print(text.encode('ascii', errors='replace').decode('ascii'))
 
 
 def parse_vtt_to_segments(vtt_content: str) -> List[Dict]:
@@ -152,17 +166,17 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
                 audio_path = str(audio_files[0])
         
         if not os.path.exists(audio_path):
-            print(f"    [!] Failed to download audio")
+            safe_print(f"    [!] Failed to download audio")
             return None
         
         # Check file size (skip if too large - over 100MB)
         file_size = os.path.getsize(audio_path)
         if file_size > 100 * 1024 * 1024:
-            print(f"    [!] Audio too large ({file_size // 1024 // 1024}MB), skipping")
+            safe_print(f"    [!] Audio too large ({file_size // 1024 // 1024}MB), skipping")
             return None
         
         # Transcribe with Whisper
-        print(f"    [MIC] Transcribing with Whisper...")
+        safe_print(f"    [MIC] Transcribing with Whisper...")
         
         import whisper
         model = whisper.load_model("base")  # Use 'base' for speed, 'small' for accuracy
@@ -189,13 +203,13 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
         }
         
     except ImportError:
-        print(f"    [!] Whisper not installed, skipping audio transcription")
+        safe_print(f"    [!] Whisper not installed, skipping audio transcription")
         return None
     except subprocess.TimeoutExpired:
-        print(f"    [!] Download timeout")
+        safe_print(f"    [!] Download timeout")
         return None
     except Exception as e:
-        print(f"    [!] Whisper error: {str(e)[:100]}")
+        safe_print(f"    [!] Whisper error: {str(e)[:100]}")
         return None
 
 
@@ -228,7 +242,9 @@ def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
         video_id = video.get('video_id')
         title = video.get('title', 'Unknown')
         
-        print(f"  Fetching transcript: {title[:50]}...")
+        # Safely truncate title for display
+        display_title = title[:50]
+        safe_print(f"  Fetching transcript: {display_title}...")
         
         with tempfile.TemporaryDirectory() as tmpdir:
             # First try captions
@@ -237,7 +253,7 @@ def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
             if transcript:
                 video_with_transcript = {**video, 'transcript': transcript}
                 results.append(video_with_transcript)
-                print(f"    [OK] Got {transcript['word_count']} words (captions)")
+                safe_print(f"    [OK] Got {transcript['word_count']} words (captions)")
                 continue
             
             # Fall back to Whisper if under limit
@@ -247,10 +263,10 @@ def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
                     whisper_count += 1
                     video_with_transcript = {**video, 'transcript': transcript}
                     results.append(video_with_transcript)
-                    print(f"    [OK] Got {transcript['word_count']} words (whisper) [{whisper_count}/{max_whisper}]")
+                    safe_print(f"    [OK] Got {transcript['word_count']} words (whisper) [{whisper_count}/{max_whisper}]")
                     continue
             
-            print(f"    [X] No transcript available")
+            safe_print(f"    [X] No transcript available")
     
     return results
 
@@ -259,16 +275,16 @@ def load_videos(filepath: str = "data/videos.json") -> List[Dict]:
     """Load videos from JSON file"""
     if not os.path.exists(filepath):
         return []
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
 def save_transcripts(transcripts: List[Dict], filepath: str = "data/transcripts.json"):
     """Save transcripts to JSON file"""
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
-    with open(filepath, 'w') as f:
-        json.dump(transcripts, f, indent=2)
-    print(f"\nSaved {len(transcripts)} transcripts to {filepath}")
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(transcripts, f, indent=2, ensure_ascii=False)
+    safe_print(f"\nSaved {len(transcripts)} transcripts to {filepath}")
 
 
 if __name__ == "__main__":
@@ -282,7 +298,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     videos = load_videos(args.input)
-    print(f"Processing {len(videos)} videos...")
+    safe_print(f"Processing {len(videos)} videos...")
     
     transcripts = process_videos(videos, max_whisper=args.max_whisper)
     save_transcripts(transcripts, args.output)
