@@ -106,19 +106,25 @@ def get_captions_ytdlp(video_id: str, tmpdir: str) -> Optional[Dict]:
         "--sub-lang", "en",
         "--sub-format", "vtt",
         "--output", output_template,
-        "--no-warnings",
-        "--quiet",
         url
     ]
     
     try:
-        subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
         vtt_files = list(Path(tmpdir).glob("*.vtt"))
         
         if not vtt_files:
             # Try manual captions
-            cmd[3] = "--write-sub"
-            subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+            cmd_manual = [
+                "yt-dlp",
+                "--skip-download",
+                "--write-sub",
+                "--sub-lang", "en",
+                "--sub-format", "vtt",
+                "--output", output_template,
+                url
+            ]
+            result = subprocess.run(cmd_manual, capture_output=True, text=True, timeout=30)
             vtt_files = list(Path(tmpdir).glob("*.vtt"))
         
         if vtt_files:
@@ -132,8 +138,17 @@ def get_captions_ytdlp(video_id: str, tmpdir: str) -> Optional[Dict]:
                     'word_count': len(full_text.split()),
                     'method': 'captions'
                 }
-    except Exception:
-        pass
+            else:
+                safe_print(f"    [!] VTT found but no segments parsed")
+        else:
+            # Log why no captions
+            if result.stderr:
+                err_short = result.stderr[:200].replace('\n', ' ')
+                safe_print(f"    [!] No captions: {err_short}")
+    except subprocess.TimeoutExpired:
+        safe_print(f"    [!] Caption fetch timeout")
+    except Exception as e:
+        safe_print(f"    [!] Caption error: {str(e)[:100]}")
     
     return None
 
@@ -150,8 +165,6 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
         "--audio-format", "mp3",
         "--audio-quality", "5",  # Medium quality (smaller file)
         "-o", audio_path,
-        "--no-warnings",
-        "--quiet",
         "--no-playlist",
         url
     ]
@@ -166,7 +179,11 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
                 audio_path = str(audio_files[0])
         
         if not os.path.exists(audio_path):
-            safe_print(f"    [!] Failed to download audio")
+            if result.stderr:
+                err_short = result.stderr[:300].replace('\n', ' ')
+                safe_print(f"    [!] Failed to download audio: {err_short}")
+            else:
+                safe_print(f"    [!] Failed to download audio (no error message)")
             return None
         
         # Check file size (skip if too large - over 100MB)
