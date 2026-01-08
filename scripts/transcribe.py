@@ -110,7 +110,7 @@ def get_captions_ytdlp(video_id: str, tmpdir: str) -> Optional[Dict]:
     ]
     
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
         vtt_files = list(Path(tmpdir).glob("*.vtt"))
         
         if not vtt_files:
@@ -124,7 +124,7 @@ def get_captions_ytdlp(video_id: str, tmpdir: str) -> Optional[Dict]:
                 "--output", output_template,
                 url
             ]
-            result = subprocess.run(cmd_manual, capture_output=True, text=True, timeout=30)
+            result = subprocess.run(cmd_manual, capture_output=True, text=True, timeout=60)
             vtt_files = list(Path(tmpdir).glob("*.vtt"))
         
         if vtt_files:
@@ -145,6 +145,10 @@ def get_captions_ytdlp(video_id: str, tmpdir: str) -> Optional[Dict]:
             if result.stderr:
                 err_short = result.stderr[:200].replace('\n', ' ')
                 safe_print(f"    [!] No captions: {err_short}")
+            elif result.stdout:
+                # Check stdout for clues
+                if "subtitles" not in result.stdout.lower():
+                    safe_print(f"    [!] No captions available for this video")
     except subprocess.TimeoutExpired:
         safe_print(f"    [!] Caption fetch timeout")
     except Exception as e:
@@ -170,7 +174,7 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
     ]
     
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
         
         # yt-dlp might add extension
         if not os.path.exists(audio_path):
@@ -181,9 +185,9 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
         if not os.path.exists(audio_path):
             if result.stderr:
                 err_short = result.stderr[:300].replace('\n', ' ')
-                safe_print(f"    [!] Failed to download audio: {err_short}")
+                safe_print(f"    [!] Audio download failed: {err_short}")
             else:
-                safe_print(f"    [!] Failed to download audio (no error message)")
+                safe_print(f"    [!] Audio download failed (no error message)")
             return None
         
         # Check file size (skip if too large - over 100MB)
@@ -228,23 +232,6 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
     except Exception as e:
         safe_print(f"    [!] Whisper error: {str(e)[:100]}")
         return None
-
-
-def get_transcript(video_id: str) -> Optional[Dict]:
-    """Get transcript - try captions first, fall back to Whisper"""
-    
-    with tempfile.TemporaryDirectory() as tmpdir:
-        # First try existing captions (fast)
-        result = get_captions_ytdlp(video_id, tmpdir)
-        if result:
-            return result
-        
-        # Fall back to Whisper transcription
-        result = transcribe_with_whisper(video_id, tmpdir)
-        if result:
-            return result
-    
-    return None
 
 
 def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
