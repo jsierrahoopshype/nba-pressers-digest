@@ -5,9 +5,24 @@ Ingest new press conference videos from NBA team YouTube channels
 
 import re
 import json
+import sys
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from typing import List, Dict
+
+# Fix Windows console encoding
+if sys.platform == 'win32':
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+
+
+def safe_print(text):
+    """Print text safely, replacing problematic characters"""
+    try:
+        print(text)
+    except UnicodeEncodeError:
+        print(text.encode('ascii', errors='replace').decode('ascii'))
+
 
 # VERIFIED NBA Team YouTube Channel IDs (from HoopsHype spreadsheet)
 NBA_CHANNELS = {
@@ -180,7 +195,7 @@ def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> Lis
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_back)
     new_videos = []
     
-    print(f"Scanning {len(channels)} channels for videos from last {hours_back} hours...")
+    safe_print(f"Scanning {len(channels)} channels for videos from last {hours_back} hours...")
     
     for team, channel_id in channels.items():
         try:
@@ -189,12 +204,12 @@ def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> Lis
             xml_content = fetch_url(feed_url)
             
             if not xml_content:
-                print(f"  [!] Could not fetch feed for {team}")
+                safe_print(f"  [!] Could not fetch feed for {team}")
                 continue
             
             # Check if we got valid XML
             if '<feed' not in xml_content:
-                print(f"  [!] Invalid feed for {team}")
+                safe_print(f"  [!] Invalid feed for {team}")
                 continue
             
             # Parse entries
@@ -227,10 +242,10 @@ def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> Lis
                 team_videos += 1
             
             if team_videos > 0:
-                print(f"  [OK] {team}: {team_videos} videos")
+                safe_print(f"  [OK] {team}: {team_videos} videos")
                 
         except Exception as e:
-            print(f"  [!] Error with {team}: {str(e)}")
+            safe_print(f"  [!] Error with {team}: {str(e)}")
     
     # Sort by published date (newest first)
     new_videos.sort(key=lambda x: x['published'], reverse=True)
@@ -242,9 +257,9 @@ def save_videos_to_file(videos: List[Dict], filepath: str = "data/videos.json"):
     """Save video list to JSON file"""
     import os
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
-    with open(filepath, 'w') as f:
-        json.dump(videos, f, indent=2)
-    print(f"Saved {len(videos)} videos to {filepath}")
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(videos, f, indent=2, ensure_ascii=False)
+    safe_print(f"Saved {len(videos)} videos to {filepath}")
 
 
 if __name__ == "__main__":
@@ -258,15 +273,15 @@ if __name__ == "__main__":
     
     videos = get_new_videos(hours_back=args.hours)
     
-    print(f"\n{'='*50}")
-    print(f"Found {len(videos)} press conference videos")
-    print(f"{'='*50}")
+    safe_print(f"\n{'='*50}")
+    safe_print(f"Found {len(videos)} press conference videos")
+    safe_print(f"{'='*50}")
     
     for i, video in enumerate(videos[:10], 1):
-        print(f"{i}. [{video['team']}] {video['title']}")
+        safe_print(f"{i}. [{video['team']}] {video['title']}")
     
     if len(videos) > 10:
-        print(f"... and {len(videos) - 10} more")
+        safe_print(f"... and {len(videos) - 10} more")
     
     if args.output:
         save_videos_to_file(videos, args.output)
