@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """
-Ingest new press conference videos from NBA team YouTube channels
+Fetch YouTube transcripts - tries captions first, falls back to Whisper
 """
 
-import re
 import json
+import os
+import subprocess
+import tempfile
+import re
 import sys
-import urllib.request
-from datetime import datetime, timedelta, timezone
-from typing import List, Dict
+from typing import List, Dict, Optional
+from pathlib import Path
 
 # Fix Windows console encoding
 if sys.platform == 'win32':
@@ -24,264 +26,283 @@ def safe_print(text):
         print(text.encode('ascii', errors='replace').decode('ascii'))
 
 
-# VERIFIED NBA Team YouTube Channel IDs (from HoopsHype spreadsheet)
-NBA_CHANNELS = {
-    "Atlanta Hawks": "UCpfcwELvR1wtcRJ0UxNXHYw",
-    "Boston Celtics": "UCMfT9dr6xC_RIWoA9hI0meQ",
-    "Brooklyn Nets": "UCL7XnFZqcLjRHiS4xX4_vgA",
-    "Charlotte Hornets": "UCiKXa2hObEziEZFkFx08i9A",
-    "Chicago Bulls": "UCvZi1jVVZ2yq0k5kkjzmuGw",
-    "Cleveland Cavaliers": "UCOdS-I1sYkKWhtTjMUWP_TA",
-    "Dallas Mavericks": "UCZywaCS_y9YOSSAC9z3dIeg",
-    "Denver Nuggets": "UCl8hzdP5wVlhuzNG3WCJa1w",
-    "Detroit Pistons": "UC-z5VCIFLG6tximfWzzlSSQ",
-    "Golden State Warriors": "UCeYc_OjHs3QNxIjti2whKzg",
-    "Houston Rockets": "UCVD7l69MVGFq_wzQvbk9HbQ",
-    "Indiana Pacers": "UCUQDCnAwU-35cOo8WCzg6zA",
-    "LA Clippers": "UCoK6pw3iIVF9WAWnQd3hj-g",
-    "Los Angeles Lakers": "UC8CSt-oVqy8pUAoKSApTxQw",
-    "Memphis Grizzlies": "UCCK5EpWKYrAmILfaZThCV-Q",
-    "Miami Heat": "UC8bZbiKoPNRi3taABIaFeBw",
-    "Milwaukee Bucks": "UCRZDEVva3Z8h_Q0VetTgDUA",
-    "Minnesota Timberwolves": "UCXWDN5NKVFgnPt25CMh98Cg",
-    "New Orleans Pelicans": "UCHvG7tf62PwI04ZRfoptRSw",
-    "New York Knicks": "UC0hb8f0OXHEzDrJDUq-YVVw",
-    "Oklahoma City Thunder": "UCpXdQhy6kb5CTD8hKlmOL3w",
-    "Orlando Magic": "UCxHFH-yfbhUrsWY4prPx3oQ",
-    "Philadelphia 76ers": "UC5qJUyng_ezl0TVjVJFqtfQ",
-    "Phoenix Suns": "UCLxlWVVHz2a8SdCfxzVXzQw",
-    "Portland Trail Blazers": "UCTenKHt0h3VjdMvRWP6Lbvw",
-    "Sacramento Kings": "UCSgFigczGdNMilV1K23JgUQ",
-    "San Antonio Spurs": "UCEZHE-0CoHqeL1LGFa2EmQw",
-    "Toronto Raptors": "UCYBFE432C2AmNRDGEXE4uVg",
-    "Utah Jazz": "UCv9iSdeI9IzWfV8yTDsMYWA",
-    "Washington Wizards": "UCT5g1W7HHYiG8wOZEYgYXLw",
-}
-
-# Keywords that indicate press conference content
-PRESS_CONFERENCE_KEYWORDS = [
-    'press conference',
-    'postgame',
-    'post-game', 
-    'post game',
-    'pregame',
-    'pre-game',
-    'pre game',
-    'media availability',
-    'interview',
-    'presser',
-    'talks to media',
-    'speaks to media',
-    'talks',
-    'speaks',
-    'reacts',
-    'discusses',
-    'addresses',
-    'shootaround',
-]
-
-# Keywords to exclude
-EXCLUDE_KEYWORDS = [
-    'highlights',
-    'full game',
-    'game recap',
-    'top plays',
-    'best plays',
-    'buzzer beater',
-    'all-access',
-    'behind the scenes',
-    'mix',
-    'hype video',
-    'promo',
-    'trailer',
-    'dunk',
-    'block',
-    'assist',
-]
+def parse_vtt_to_segments(vtt_content: str) -> List[Dict]:
+    """Parse VTT subtitle file to segments with timestamps"""
+    segments = []
+    lines = vtt_content.split('\n')
+    i = 0
+    
+    while i < len(lines):
+        line = lines[i].strip()
+        timestamp_match = re.match(r'(\d{2}:\d{2}:\d{2}\.\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2}\.\d{3})', line)
+        
+        if timestamp_match:
+            start_str = timestamp_match.group(1)
+            end_str = timestamp_match.group(2)
+            start = vtt_timestamp_to_seconds(start_str)
+            end = vtt_timestamp_to_seconds(end_str)
+            duration = end - start
+            
+            i += 1
+            text_lines = []
+            while i < len(lines):
+                text_line = lines[i].strip()
+                if not text_line or re.match(r'\d{2}:\d{2}:\d{2}\.\d{3}', text_line):
+                    break
+                text_line = re.sub(r'<[^>]+>', '', text_line)
+                text_lines.append(text_line)
+                i += 1
+            
+            text = ' '.join(text_lines)
+            if text:
+                segments.append({
+                    'start': start,
+                    'duration': duration,
+                    'text': text
+                })
+        else:
+            i += 1
+    
+    return merge_segments(segments)
 
 
-def fetch_url(url: str, timeout: int = 15) -> str:
-    """Fetch URL content with proper headers"""
+def merge_segments(segments: List[Dict]) -> List[Dict]:
+    """Merge overlapping or duplicate segments"""
+    if not segments:
+        return []
+    
+    merged = []
+    seen_texts = set()
+    
+    for seg in segments:
+        text_key = seg['text'].strip().lower()
+        if text_key in seen_texts:
+            continue
+        seen_texts.add(text_key)
+        merged.append(seg)
+    
+    return merged
+
+
+def vtt_timestamp_to_seconds(timestamp: str) -> float:
+    """Convert VTT timestamp (HH:MM:SS.mmm) to seconds"""
+    parts = timestamp.split(':')
+    hours = int(parts[0])
+    minutes = int(parts[1])
+    seconds = float(parts[2])
+    return hours * 3600 + minutes * 60 + seconds
+
+
+def get_captions_ytdlp(video_id: str, tmpdir: str) -> Optional[Dict]:
+    """Try to get existing captions using yt-dlp"""
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    output_template = os.path.join(tmpdir, "%(id)s")
+    
+    # Try auto-generated captions first
+    cmd = [
+        "yt-dlp",
+        "--skip-download",
+        "--write-auto-sub",
+        "--sub-lang", "en",
+        "--sub-format", "vtt",
+        "--output", output_template,
+        url
+    ]
+    
     try:
-        req = urllib.request.Request(
-            url, 
-            headers={
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-                'Accept': 'application/xml, text/xml, */*',
-            }
-        )
-        with urllib.request.urlopen(req, timeout=timeout) as response:
-            return response.read().decode('utf-8')
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+        vtt_files = list(Path(tmpdir).glob("*.vtt"))
+        
+        if not vtt_files:
+            # Try manual captions
+            cmd_manual = [
+                "yt-dlp",
+                "--skip-download",
+                "--write-sub",
+                "--sub-lang", "en",
+                "--sub-format", "vtt",
+                "--output", output_template,
+                url
+            ]
+            result = subprocess.run(cmd_manual, capture_output=True, text=True, timeout=60)
+            vtt_files = list(Path(tmpdir).glob("*.vtt"))
+        
+        if vtt_files:
+            vtt_content = vtt_files[0].read_text(encoding='utf-8')
+            segments = parse_vtt_to_segments(vtt_content)
+            if segments:
+                full_text = ' '.join([s['text'] for s in segments])
+                return {
+                    'full_text': full_text,
+                    'segments': segments,
+                    'word_count': len(full_text.split()),
+                    'method': 'captions'
+                }
+            else:
+                safe_print(f"    [!] VTT found but no segments parsed")
+        else:
+            # Log why no captions
+            if result.stderr:
+                err_short = result.stderr[:200].replace('\n', ' ')
+                safe_print(f"    [!] No captions: {err_short}")
+            elif result.stdout:
+                # Check stdout for clues
+                if "subtitles" not in result.stdout.lower():
+                    safe_print(f"    [!] No captions available for this video")
+    except subprocess.TimeoutExpired:
+        safe_print(f"    [!] Caption fetch timeout")
     except Exception as e:
+        safe_print(f"    [!] Caption error: {str(e)[:100]}")
+    
+    return None
+
+
+def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
+    """Download audio and transcribe with Whisper"""
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    audio_path = os.path.join(tmpdir, f"{video_id}.mp3")
+    
+    # Download audio only
+    cmd = [
+        "yt-dlp",
+        "-x",  # Extract audio
+        "--audio-format", "mp3",
+        "--audio-quality", "5",  # Medium quality (smaller file)
+        "-o", audio_path,
+        "--no-playlist",
+        url
+    ]
+    
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
+        
+        # yt-dlp might add extension
+        if not os.path.exists(audio_path):
+            audio_files = list(Path(tmpdir).glob(f"{video_id}.*"))
+            if audio_files:
+                audio_path = str(audio_files[0])
+        
+        if not os.path.exists(audio_path):
+            if result.stderr:
+                err_short = result.stderr[:300].replace('\n', ' ')
+                safe_print(f"    [!] Audio download failed: {err_short}")
+            else:
+                safe_print(f"    [!] Audio download failed (no error message)")
+            return None
+        
+        # Check file size (skip if too large - over 100MB)
+        file_size = os.path.getsize(audio_path)
+        if file_size > 100 * 1024 * 1024:
+            safe_print(f"    [!] Audio too large ({file_size // 1024 // 1024}MB), skipping")
+            return None
+        
+        # Transcribe with Whisper
+        safe_print(f"    [MIC] Transcribing with Whisper...")
+        
+        import whisper
+        model = whisper.load_model("base")  # Use 'base' for speed, 'small' for accuracy
+        result = model.transcribe(audio_path, language="en")
+        
+        if not result or not result.get('segments'):
+            return None
+        
+        segments = []
+        for seg in result['segments']:
+            segments.append({
+                'start': seg['start'],
+                'duration': seg['end'] - seg['start'],
+                'text': seg['text'].strip()
+            })
+        
+        full_text = result.get('text', '').strip()
+        
+        return {
+            'full_text': full_text,
+            'segments': segments,
+            'word_count': len(full_text.split()),
+            'method': 'whisper'
+        }
+        
+    except ImportError:
+        safe_print(f"    [!] Whisper not installed, skipping audio transcription")
+        return None
+    except subprocess.TimeoutExpired:
+        safe_print(f"    [!] Download timeout")
+        return None
+    except Exception as e:
+        safe_print(f"    [!] Whisper error: {str(e)[:100]}")
         return None
 
 
-def parse_rss_entries(xml_content: str) -> List[Dict]:
-    """Parse YouTube RSS XML to extract video entries"""
-    entries = []
-    
-    # Find all <entry> blocks
-    entry_pattern = r'<entry>(.*?)</entry>'
-    entries_raw = re.findall(entry_pattern, xml_content, re.DOTALL)
-    
-    for entry_xml in entries_raw:
-        try:
-            title_match = re.search(r'<title>(.*?)</title>', entry_xml)
-            video_id_match = re.search(r'<yt:videoId>(.*?)</yt:videoId>', entry_xml)
-            published_match = re.search(r'<published>(.*?)</published>', entry_xml)
-            link_match = re.search(r'<link rel="alternate" href="([^"]+)"', entry_xml)
-            
-            if title_match and video_id_match and published_match:
-                pub_str = published_match.group(1)
-                # Parse ISO format date
-                pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
-                
-                # Clean up HTML entities in title
-                title = title_match.group(1)
-                title = title.replace('&amp;', '&')
-                title = title.replace('&#39;', "'")
-                title = title.replace('&quot;', '"')
-                
-                entries.append({
-                    'title': title,
-                    'video_id': video_id_match.group(1),
-                    'published': pub_date,
-                    'url': link_match.group(1) if link_match else f"https://www.youtube.com/watch?v={video_id_match.group(1)}"
-                })
-        except Exception:
-            continue
-    
-    return entries
-
-
-def is_press_conference(title: str) -> bool:
-    """Check if video title indicates a press conference"""
-    title_lower = title.lower()
-    
-    # Exclude first
-    for keyword in EXCLUDE_KEYWORDS:
-        if keyword in title_lower:
-            return False
-    
-    # Check for press conference keywords
-    for keyword in PRESS_CONFERENCE_KEYWORDS:
-        if keyword in title_lower:
-            return True
-    
-    return False
-
-
-def extract_person_name(title: str) -> str:
-    """Try to extract the speaker's name from title"""
-    clean_title = re.sub(
-        r'(press conference|postgame|pregame|interview|talks|speaks|on|discusses|addresses|reacts|media availability|shootaround).*', 
-        '', title, flags=re.IGNORECASE
-    )
-    clean_title = clean_title.strip()
-    words = clean_title.split()
-    if len(words) >= 2:
-        return ' '.join(words[:3])
-    return clean_title
-
-
-def get_new_videos(hours_back: int = 24, channels: Dict[str, str] = None) -> List[Dict]:
+def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
     """
-    Fetch new press conference videos from NBA team channels
+    Fetch transcripts for a list of videos
+    max_whisper: Maximum number of videos to transcribe with Whisper (to limit runtime)
     """
-    if channels is None:
-        channels = NBA_CHANNELS
+    results = []
+    whisper_count = 0
     
-    # Calculate cutoff time (timezone-aware)
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_back)
-    new_videos = []
-    
-    safe_print(f"Scanning {len(channels)} channels for videos from last {hours_back} hours...")
-    
-    for team, channel_id in channels.items():
-        try:
-            # Fetch RSS feed
-            feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-            xml_content = fetch_url(feed_url)
+    for video in videos:
+        video_id = video.get('video_id')
+        title = video.get('title', 'Unknown')
+        
+        # Safely truncate title for display
+        display_title = title[:50]
+        safe_print(f"  Fetching transcript: {display_title}...")
+        
+        with tempfile.TemporaryDirectory() as tmpdir:
+            # First try captions
+            transcript = get_captions_ytdlp(video_id, tmpdir)
             
-            if not xml_content:
-                safe_print(f"  [!] Could not fetch feed for {team}")
+            if transcript:
+                video_with_transcript = {**video, 'transcript': transcript}
+                results.append(video_with_transcript)
+                safe_print(f"    [OK] Got {transcript['word_count']} words (captions)")
                 continue
             
-            # Check if we got valid XML
-            if '<feed' not in xml_content:
-                safe_print(f"  [!] Invalid feed for {team}")
-                continue
-            
-            # Parse entries
-            entries = parse_rss_entries(xml_content)
-            team_videos = 0
-            
-            for entry in entries:
-                # Compare timezone-aware datetimes
-                pub_date = entry['published']
-                if pub_date.tzinfo is None:
-                    pub_date = pub_date.replace(tzinfo=timezone.utc)
-                
-                if pub_date < cutoff:
+            # Fall back to Whisper if under limit
+            if whisper_count < max_whisper:
+                transcript = transcribe_with_whisper(video_id, tmpdir)
+                if transcript:
+                    whisper_count += 1
+                    video_with_transcript = {**video, 'transcript': transcript}
+                    results.append(video_with_transcript)
+                    safe_print(f"    [OK] Got {transcript['word_count']} words (whisper) [{whisper_count}/{max_whisper}]")
                     continue
-                
-                if not is_press_conference(entry['title']):
-                    continue
-                
-                video_data = {
-                    'team': team,
-                    'title': entry['title'],
-                    'video_id': entry['video_id'],
-                    'url': entry['url'],
-                    'published': entry['published'].isoformat(),
-                    'channel_id': channel_id,
-                    'person': extract_person_name(entry['title']),
-                }
-                
-                new_videos.append(video_data)
-                team_videos += 1
             
-            if team_videos > 0:
-                safe_print(f"  [OK] {team}: {team_videos} videos")
-                
-        except Exception as e:
-            safe_print(f"  [!] Error with {team}: {str(e)}")
+            safe_print(f"    [X] No transcript available")
     
-    # Sort by published date (newest first)
-    new_videos.sort(key=lambda x: x['published'], reverse=True)
-    
-    return new_videos
+    return results
 
 
-def save_videos_to_file(videos: List[Dict], filepath: str = "data/videos.json"):
-    """Save video list to JSON file"""
-    import os
+def load_videos(filepath: str = "data/videos.json") -> List[Dict]:
+    """Load videos from JSON file"""
+    if not os.path.exists(filepath):
+        return []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def save_transcripts(transcripts: List[Dict], filepath: str = "data/transcripts.json"):
+    """Save transcripts to JSON file"""
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(videos, f, indent=2, ensure_ascii=False)
-    safe_print(f"Saved {len(videos)} videos to {filepath}")
+        json.dump(transcripts, f, indent=2, ensure_ascii=False)
+    safe_print(f"\nSaved {len(transcripts)} transcripts to {filepath}")
 
 
 if __name__ == "__main__":
     import argparse
     
-    parser = argparse.ArgumentParser(description="Ingest NBA press conference videos")
-    parser.add_argument("--hours", type=int, default=24, help="Hours back to search")
-    parser.add_argument("--output", type=str, default="data/videos.json", help="Output file path")
+    parser = argparse.ArgumentParser(description="Fetch transcripts for YouTube videos")
+    parser.add_argument("--input", type=str, default="data/videos.json", help="Input videos JSON")
+    parser.add_argument("--output", type=str, default="data/transcripts.json", help="Output transcripts JSON")
+    parser.add_argument("--max-whisper", type=int, default=10, help="Max videos to transcribe with Whisper")
     
     args = parser.parse_args()
     
-    videos = get_new_videos(hours_back=args.hours)
+    videos = load_videos(args.input)
+    safe_print(f"Processing {len(videos)} videos...")
     
-    safe_print(f"\n{'='*50}")
-    safe_print(f"Found {len(videos)} press conference videos")
-    safe_print(f"{'='*50}")
-    
-    for i, video in enumerate(videos[:10], 1):
-        safe_print(f"{i}. [{video['team']}] {video['title']}")
-    
-    if len(videos) > 10:
-        safe_print(f"... and {len(videos) - 10} more")
-    
-    if args.output:
-        save_videos_to_file(videos, args.output)
+    transcripts = process_videos(videos, max_whisper=args.max_whisper)
+    save_transcripts(transcripts, args.output)
