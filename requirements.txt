@@ -3,9 +3,10 @@ feedparser>=6.0.0
 youtube-transcript-api>=0.6.0
 yt-dlp>=2024.1.0
 
-# LLM clients (use one or both)
-anthropic>=0.40.0  # Paid, higher quality
-groq>=0.11.0       # Free tier available
+# LLM clients (use one or more)
+anthropic>=0.40.0        # Paid, higher quality
+google-generativeai>=0.8.0  # Free tier available (Gemini)
+groq>=0.11.0             # Free tier available
 
 # Publishing (optional)
 google-api-python-client>=2.100.0  # YouTube upload

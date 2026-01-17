@@ -8,12 +8,18 @@ import json
 import re
 from typing import List, Dict, Optional
 
-# Try Anthropic first, fall back to Groq (free)
+# Try Anthropic first, fall back to Gemini or Groq (free)
 try:
     import anthropic
     ANTHROPIC_AVAILABLE = True
 except ImportError:
     ANTHROPIC_AVAILABLE = False
+
+try:
+    import google.generativeai as genai
+    GEMINI_AVAILABLE = True
+except ImportError:
+    GEMINI_AVAILABLE = False
 
 try:
     from groq import Groq
@@ -73,17 +79,22 @@ Return ONLY the JSON array, no other text."""
 
 
 def get_llm_client():
-    """Get available LLM client (Anthropic preferred, Groq as fallback)"""
-    
+    """Get available LLM client (Anthropic preferred, Gemini or Groq as fallback)"""
+
     if ANTHROPIC_AVAILABLE and os.environ.get('ANTHROPIC_API_KEY'):
         return 'anthropic', anthropic.Anthropic()
-    
+
+    gemini_key = os.environ.get('GEMINI_API_KEY') or os.environ.get('GOOGLE_API_KEY')
+    if GEMINI_AVAILABLE and gemini_key:
+        genai.configure(api_key=gemini_key)
+        return 'gemini', genai.GenerativeModel('gemini-1.5-flash')
+
     if GROQ_AVAILABLE and os.environ.get('GROQ_API_KEY'):
         return 'groq', Groq()
-    
+
     raise RuntimeError(
-        "No LLM client available. Set either ANTHROPIC_API_KEY or GROQ_API_KEY. "
-        "Groq is free: https://console.groq.com/keys"
+        "No LLM client available. Set ANTHROPIC_API_KEY, GEMINI_API_KEY, or GROQ_API_KEY. "
+        "Gemini is free: https://aistudio.google.com/apikey"
     )
 
 
@@ -128,24 +139,41 @@ def score_transcript_anthropic(client, transcript_data: Dict) -> List[Dict]:
 
 def score_transcript_groq(client, transcript_data: Dict) -> List[Dict]:
     """Score moments using Groq (free Llama 3.1)"""
-    
+
     formatted = format_transcript_for_scoring(transcript_data)
-    
+
     prompt = SCORING_PROMPT.format(
         team=transcript_data.get('team', 'Unknown'),
         person=transcript_data.get('person', 'Unknown'),
         title=transcript_data.get('title', 'Press Conference'),
         transcript=formatted[:12000]
     )
-    
+
     response = client.chat.completions.create(
         model="llama-3.1-70b-versatile",
         messages=[{"role": "user", "content": prompt}],
         max_tokens=2000,
         temperature=0.3
     )
-    
+
     response_text = response.choices[0].message.content
+    return parse_moments_json(response_text)
+
+
+def score_transcript_gemini(client, transcript_data: Dict) -> List[Dict]:
+    """Score moments using Google Gemini (free)"""
+
+    formatted = format_transcript_for_scoring(transcript_data)
+
+    prompt = SCORING_PROMPT.format(
+        team=transcript_data.get('team', 'Unknown'),
+        person=transcript_data.get('person', 'Unknown'),
+        title=transcript_data.get('title', 'Press Conference'),
+        transcript=formatted[:14000]
+    )
+
+    response = client.generate_content(prompt)
+    response_text = response.text
     return parse_moments_json(response_text)
 
 
@@ -224,6 +252,8 @@ def score_all_transcripts(transcripts: List[Dict]) -> Dict[str, List[Dict]]:
         try:
             if provider == 'anthropic':
                 moments = score_transcript_anthropic(client, video_data)
+            elif provider == 'gemini':
+                moments = score_transcript_gemini(client, video_data)
             else:
                 moments = score_transcript_groq(client, video_data)
             
