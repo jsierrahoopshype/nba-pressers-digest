@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch YouTube transcripts - tries captions first, falls back to Whisper
+Fetch YouTube transcripts - tries youtube-transcript-api first, falls back to yt-dlp captions, then Whisper
 """
 
 import json
@@ -17,6 +17,13 @@ if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
     sys.stderr.reconfigure(encoding='utf-8', errors='replace')
 
+# Try to import youtube-transcript-api (preferred method)
+try:
+    from youtube_transcript_api import YouTubeTranscriptApi
+    YTT_AVAILABLE = True
+except ImportError:
+    YTT_AVAILABLE = False
+
 
 def safe_print(text):
     """Print text safely, replacing problematic characters"""
@@ -24,6 +31,41 @@ def safe_print(text):
         print(text)
     except UnicodeEncodeError:
         print(text.encode('ascii', errors='replace').decode('ascii'))
+
+
+def get_transcript_via_api(video_id: str) -> Optional[Dict]:
+    """
+    Get transcript using youtube-transcript-api (preferred method).
+    Uses the new API syntax: YouTubeTranscriptApi().fetch() instead of .get_transcript()
+    """
+    if not YTT_AVAILABLE:
+        return None
+
+    try:
+        # NEW API syntax - instantiate first, then call fetch()
+        ytt_api = YouTubeTranscriptApi()
+        transcript = ytt_api.fetch(video_id)
+
+        # Convert to our standard format
+        segments = []
+        for snippet in transcript.snippets:
+            segments.append({
+                'start': snippet.start,
+                'duration': snippet.duration,
+                'text': snippet.text
+            })
+
+        full_text = ' '.join([s['text'] for s in segments])
+
+        return {
+            'full_text': full_text,
+            'segments': segments,
+            'word_count': len(full_text.split()),
+            'method': 'youtube-transcript-api'
+        }
+    except Exception as e:
+        safe_print(f"    [!] youtube-transcript-api error: {str(e)[:100]}")
+        return None
 
 
 def parse_vtt_to_segments(vtt_content: str) -> List[Dict]:
@@ -236,31 +278,43 @@ def transcribe_with_whisper(video_id: str, tmpdir: str) -> Optional[Dict]:
 
 def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
     """
-    Fetch transcripts for a list of videos
-    max_whisper: Maximum number of videos to transcribe with Whisper (to limit runtime)
+    Fetch transcripts for a list of videos.
+
+    Priority order:
+    1. youtube-transcript-api (fastest, most reliable)
+    2. yt-dlp captions (fallback)
+    3. Whisper transcription (slowest, limited by max_whisper)
     """
     results = []
     whisper_count = 0
-    
+
     for video in videos:
         video_id = video.get('video_id')
         title = video.get('title', 'Unknown')
-        
+
         # Safely truncate title for display
         display_title = title[:50]
         safe_print(f"  Fetching transcript: {display_title}...")
-        
+
+        # Method 1: Try youtube-transcript-api first (preferred)
+        transcript = get_transcript_via_api(video_id)
+        if transcript:
+            video_with_transcript = {**video, 'transcript': transcript}
+            results.append(video_with_transcript)
+            safe_print(f"    [OK] Got {transcript['word_count']} words (youtube-transcript-api)")
+            continue
+
         with tempfile.TemporaryDirectory() as tmpdir:
-            # First try captions
+            # Method 2: Try yt-dlp captions as fallback
             transcript = get_captions_ytdlp(video_id, tmpdir)
-            
+
             if transcript:
                 video_with_transcript = {**video, 'transcript': transcript}
                 results.append(video_with_transcript)
-                safe_print(f"    [OK] Got {transcript['word_count']} words (captions)")
+                safe_print(f"    [OK] Got {transcript['word_count']} words (yt-dlp captions)")
                 continue
-            
-            # Fall back to Whisper if under limit
+
+            # Method 3: Fall back to Whisper if under limit
             if whisper_count < max_whisper:
                 transcript = transcribe_with_whisper(video_id, tmpdir)
                 if transcript:
@@ -269,10 +323,14 @@ def process_videos(videos: List[Dict], max_whisper: int = 10) -> List[Dict]:
                     results.append(video_with_transcript)
                     safe_print(f"    [OK] Got {transcript['word_count']} words (whisper) [{whisper_count}/{max_whisper}]")
                     continue
-            
+
             safe_print(f"    [X] No transcript available")
-    
+
     return results
+
+
+# Alias for main.py compatibility
+process_transcripts = process_videos
 
 
 def load_videos(filepath: str = "data/videos.json") -> List[Dict]:
