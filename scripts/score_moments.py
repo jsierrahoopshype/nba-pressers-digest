@@ -87,7 +87,7 @@ def get_llm_client():
     gemini_key = os.environ.get('GEMINI_API_KEY') or os.environ.get('GOOGLE_API_KEY')
     if GEMINI_AVAILABLE and gemini_key:
         genai.configure(api_key=gemini_key)
-        return 'gemini', genai.GenerativeModel('gemini-1.5-flash')
+        return 'gemini', genai.GenerativeModel('gemini-2.0-flash')
 
     if GROQ_AVAILABLE and os.environ.get('GROQ_API_KEY'):
         return 'groq', Groq()
