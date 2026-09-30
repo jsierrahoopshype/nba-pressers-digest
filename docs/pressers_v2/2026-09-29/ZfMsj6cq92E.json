@@ -1,0 +1,144 @@
+{
+  "video_id": "ZfMsj6cq92E",
+  "url": "https://www.youtube.com/watch?v=ZfMsj6cq92E",
+  "video_title": "Head Coach Brian Keefe 2026-27 Media Day Press Conference",
+  "channel_team": "Washington Wizards",
+  "published": "2026-09-29T17:10:28Z",
+  "duration_seconds": 1120,
+  "processed_at": "2026-09-30T23:52:20Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Jay Carter",
+    "Henry J. Brown",
+    "Jean Wong",
+    "David Aldridge",
+    "Christy Winters-Scott",
+    "Suleiman",
+    "Mark Selig",
+    "Jeff Zillgitt",
+    "Liam Griffin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "speaker_confidence": "named",
+      "team": "Washington Wizards",
+      "start_seconds": 65,
+      "end_seconds": 78,
+      "gemini_start_seconds": 65,
+      "gemini_end_seconds": 78,
+      "timestamp_source": "gemini-approx",
+      "text": "First of all, Cody Toppert joining us. He was obviously our head coach of the Go-Go last three years, obviously a terrific job there. It is bringing his experience as a head coach, but also tremendous background in player development.",
+      "pull_quote": "Cody Toppert joining us. He was obviously our head coach of the Go-Go",
+      "news_score": 7,
+      "names_mentioned": [
+        "Cody Toppert"
+      ],
+      "news_angle": "Brian Keefe announces Cody Toppert as a new addition to his coaching staff.",
+      "social_post": "Brian Keefe announces that Cody Toppert is joining the Washington Wizards coaching staff, bringing his experience from the Capital City Go-Go and a strong background in player development."
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "speaker_confidence": "named",
+      "team": "Washington Wizards",
+      "start_seconds": 78,
+      "end_seconds": 90,
+      "gemini_start_seconds": 78,
+      "gemini_end_seconds": 90,
+      "timestamp_source": "gemini-approx",
+      "text": "Patrick Ewing is joining us, bringing over 40 plus years of at the highest level of coaching and playing. It has always been a great resource for me and our players.",
+      "pull_quote": "Patrick Ewing is joining us, bringing over 40 plus years of at the highest level",
+      "news_score": 7,
+      "names_mentioned": [
+        "Patrick Ewing"
+      ],
+      "news_angle": "Brian Keefe adds Patrick Ewing to the Washington Wizards coaching staff.",
+      "social_post": "Brian Keefe announces that Patrick Ewing is joining the Washington Wizards coaching staff, bringing over 40 years of experience at the highest level of coaching and playing."
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "speaker_confidence": "named",
+      "team": "Washington Wizards",
+      "start_seconds": 90,
+      "end_seconds": 104,
+      "gemini_start_seconds": 90,
+      "gemini_end_seconds": 104,
+      "timestamp_source": "gemini-approx",
+      "text": "Lastly, Steve Clifford is joining us as a coaching consultant. Obviously been a head coach in this league, is going to be a great sounding board for me and for my staff.",
+      "pull_quote": "Steve Clifford is joining us as a coaching consultant",
+      "news_score": 7,
+      "names_mentioned": [
+        "Steve Clifford"
+      ],
+      "news_angle": "Brian Keefe adds Steve Clifford to the Washington Wizards staff as a coaching consultant.",
+      "social_post": "Brian Keefe announces that Steve Clifford is joining the Washington Wizards as a coaching consultant, serving as a sounding board for the coaching staff."
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "speaker_confidence": "named",
+      "team": "Washington Wizards",
+      "start_seconds": 225,
+      "end_seconds": 235,
+      "gemini_start_seconds": 225,
+      "gemini_end_seconds": 235,
+      "timestamp_source": "gemini-approx",
+      "text": "I didn't get a chance to talk about Chris Middleton coming back, which was a huge signing for us and then obviously adding Deandre Ayton and then Trey Mann too.",
+      "pull_quote": "Chris Middleton coming back, which was a huge signing for us",
+      "news_score": 8,
+      "names_mentioned": [
+        "Chris Middleton",
+        "Deandre Ayton",
+        "Trey Mann"
+      ],
+      "news_angle": "Brian Keefe highlights the additions of Chris Middleton, Deandre Ayton, and Trey Mann.",
+      "social_post": "Brian Keefe calls the return of Chris Middleton a huge signing for the Washington Wizards, while also highlighting the additions of Deandre Ayton and Trey Mann to the roster."
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "speaker_confidence": "named",
+      "team": "Washington Wizards",
+      "start_seconds": 337,
+      "end_seconds": 372,
+      "gemini_start_seconds": 337,
+      "gemini_end_seconds": 372,
+      "timestamp_source": "gemini-approx",
+      "text": "I think that's how we've always wanted to develop this as an organization is that we think for us to be consistent and play at the highest level basketball, you can't just have one decision maker. You need multiple. I think the additions of Trey and Anthony are giving us more of a focal point offensively at the playoff, but AJ is going to be part of that, KeyShawn is going to be part of that. We see the secondary playmaking of Bub and what he's brought. So I think there are multiple guys who can do those things.",
+      "pull_quote": "you can't just have one decision maker. You need multiple.",
+      "news_score": 6,
+      "names_mentioned": [
+        "Trey",
+        "Anthony",
+        "AJ",
+        "KeyShawn",
+        "Bub"
+      ],
+      "news_angle": "Brian Keefe emphasizes the importance of having multiple playmakers on the floor.",
+      "social_post": "Brian Keefe says the Washington Wizards are building a team with multiple playmakers, noting that Trey, Anthony, AJ, KeyShawn, and Bub will all be part of the offensive rotation."
+    },
+    {
+      "rank": 6,
+      "speaker": "Brian Keefe",
+      "speaker_confidence": "named",
+      "team": "Washington Wizards",
+      "start_seconds": 727,
+      "end_seconds": 747,
+      "gemini_start_seconds": 727,
+      "gemini_end_seconds": 747,
+      "timestamp_source": "gemini-approx",
+      "text": "I think what I'm really looking forward to, David, is the is building the shared standards for our guys and what we're going to hold ourselves to. I think that's why I've got into coaching in the first place is you get to build this together. We get to do this as an organization, then we get to do this as a group.",
+      "pull_quote": "building the shared standards for our guys and what we're going to hold ourselves to.",
+      "news_score": 4,
+      "names_mentioned": [],
+      "news_angle": "Brian Keefe discusses his philosophy on building shared standards for the team.",
+      "social_post": "Brian Keefe says his focus as head coach is building shared standards for the Washington Wizards, noting that building the team culture together is why he got into coaching."
+    }
+  ],
+  "caption_status": "blocked"
+}

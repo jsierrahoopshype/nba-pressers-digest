@@ -1,0 +1,36 @@
+{
+  "video_id": "-RVFB1Uu9QM",
+  "url": "https://www.youtube.com/watch?v=-RVFB1Uu9QM",
+  "video_title": "Yaxel Lendeborg's Warriors Media Day Vlog 👋",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-09-30T22:00:05Z",
+  "duration_seconds": 637,
+  "processed_at": "2026-09-30T23:48:51Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Yaxel Lendeborg",
+    "Draymond Green",
+    "Alondes Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Yaxel Lendeborg",
+      "speaker_confidence": "named",
+      "team": "Golden State Warriors",
+      "start_seconds": 12,
+      "end_seconds": 17,
+      "gemini_start_seconds": 12,
+      "gemini_end_seconds": 17,
+      "timestamp_source": "gemini-approx",
+      "text": "I'm going to be the most entertaining playing guy on the floor every night. I'm going to try to bring as many positive vibes as possible.",
+      "pull_quote": "I'm going to be the most entertaining playing guy on the floor every night.",
+      "news_score": 5,
+      "names_mentioned": [],
+      "news_angle": "Yaxel Lendeborg promises to bring energy and positive vibes to the floor.",
+      "social_post": "Yaxel Lendeborg is ready to bring the energy. He says he is going to be the most entertaining player on the floor every night and bring positive vibes to the Warriors."
+    }
+  ],
+  "caption_status": "blocked"
+}

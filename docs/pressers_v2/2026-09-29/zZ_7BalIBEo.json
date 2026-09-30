@@ -1,0 +1,51 @@
+{
+  "video_id": "zZ_7BalIBEo",
+  "url": "https://www.youtube.com/watch?v=zZ_7BalIBEo",
+  "video_title": "2026 Hornets Training Camp Media Availability: Coby White",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-09-29T22:38:36Z",
+  "duration_seconds": 261,
+  "processed_at": "2026-09-30T23:51:42Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Coby White"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coby White",
+      "speaker_confidence": "named",
+      "team": "Charlotte Hornets",
+      "start_seconds": 86,
+      "end_seconds": 118,
+      "gemini_start_seconds": 86,
+      "gemini_end_seconds": 118,
+      "timestamp_source": "gemini-approx",
+      "text": "Most of the time when guys come in a situation like this, the coaches get them the confidence to go out there and lead and which they do, but I think the unique thing about my situation is my teammates give me the confidence to go out there and lead. They give me the confidence to go out there and be myself, but take ownership and really lead and lead the team. So I give a lot of credit to my teammates for allowing me to be myself but also allowing me to lead and they kind of let me do it my way. I am still learning, it is not perfect, nobody is perfect, but I think my teammates a lot for that.",
+      "pull_quote": "my teammates give me the confidence to go out there and lead",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "Coby White says his Hornets teammates give him the confidence to take a leadership role",
+      "social_post": "Coby White says his teammates give him the confidence to take a leadership role, noting that they allow him to be himself and lead the team in his own way."
+    },
+    {
+      "rank": 2,
+      "speaker": "Coby White",
+      "speaker_confidence": "named",
+      "team": "Charlotte Hornets",
+      "start_seconds": 196,
+      "end_seconds": 227,
+      "gemini_start_seconds": 196,
+      "gemini_end_seconds": 227,
+      "timestamp_source": "gemini-approx",
+      "text": "I think all that time invested allow us to kind of transition quickly in the training camp in terms of competing. In terms of playing, it was not a lot of teaching just because of all the time we have already spent together. I think it helps us, but I think in terms of on the court, it allows us to communicate in effective ways in real time and I think that is the major key that we were trying to develop by also getting together this summer is the communication level part of it. So I think like I said, today was a great day, man. We had a really good day. I think we got better today.",
+      "pull_quote": "all that time invested allow us to kind of transition quickly in the training camp",
+      "news_score": 6,
+      "names_mentioned": [],
+      "news_angle": "Coby White says summer workouts helped the Hornets transition quickly into training camp",
+      "social_post": "Coby White says the time the Hornets spent together this summer helped the team transition quickly into training camp, allowing for better communication on the court."
+    }
+  ],
+  "caption_status": "blocked"
+}

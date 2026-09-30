@@ -1,0 +1,72 @@
+{
+  "video_id": "omy0wDmrhxg",
+  "url": "https://www.youtube.com/watch?v=omy0wDmrhxg",
+  "video_title": "Toumani Camara Media Availability | Sept. 29, 2026 | Portland Trail Blazers",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-09-29T23:20:36Z",
+  "duration_seconds": 295,
+  "processed_at": "2026-09-30T23:51:06Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Toumani Camara"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Toumani Camara",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 18,
+      "end_seconds": 27,
+      "gemini_start_seconds": 18,
+      "gemini_end_seconds": 27,
+      "timestamp_source": "gemini-approx",
+      "text": "Just be more consistent in everything I do. Be more efficient, less turnover, better on my threes and take the right one and taking with confidence. I think that's the biggest thing for me.",
+      "pull_quote": "Be more efficient, less turnover, better on my threes and take the right one",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "Toumani Camara aims to improve his shooting efficiency and reduce turnovers this season.",
+      "social_post": "Toumani Camara says his focus for the upcoming season is to be more consistent, efficient, and confident in his three-point shooting."
+    },
+    {
+      "rank": 2,
+      "speaker": "Toumani Camara",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 209,
+      "end_seconds": 231,
+      "gemini_start_seconds": 209,
+      "gemini_end_seconds": 231,
+      "timestamp_source": "gemini-approx",
+      "text": "More open shots. I feel like last year we had Danny that was having the ball most of the time but he's more of a driver. With his shot also improving and my shot in improvement of the season also, I think just how much the defense is going to be focused on Dame and Ja, I think just going to open up so much space for me, Danny and every other guys really to be able to make plays and facilitate.",
+      "pull_quote": "how much the defense is going to be focused on Dame and Ja",
+      "news_score": 7,
+      "names_mentioned": [
+        "Danny",
+        "Dame",
+        "Ja"
+      ],
+      "news_angle": "Toumani Camara expects more open shots due to defensive focus on Damian Lillard and Ja Morant.",
+      "social_post": "Toumani Camara believes the defensive attention on Damian Lillard and Ja Morant will create more open opportunities for the rest of the team this season."
+    },
+    {
+      "rank": 3,
+      "speaker": "Toumani Camara",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 238,
+      "end_seconds": 256,
+      "gemini_start_seconds": 238,
+      "gemini_end_seconds": 256,
+      "timestamp_source": "gemini-approx",
+      "text": "Be a 50 plus win team, make it to the playoffs, have home court advantage and take take care of every game, no matter who we play, whether it's a top tier team or a lower tier team. Just going out there with the same mindset and be consistent as a team.",
+      "pull_quote": "Be a 50 plus win team, make it to the playoffs",
+      "news_score": 8,
+      "names_mentioned": [],
+      "news_angle": "Toumani Camara sets a goal for the Trail Blazers to win 50 games.",
+      "social_post": "Toumani Camara has high expectations for the Portland Trail Blazers this season, stating the team's goal is to win 50 games and secure home-court advantage in the playoffs."
+    }
+  ],
+  "caption_status": "blocked"
+}

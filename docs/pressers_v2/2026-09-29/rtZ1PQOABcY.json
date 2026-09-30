@@ -19,7 +19,13 @@
       "end_seconds": 54,
       "text": "I definitely put on some muscle. I am not sure the exact number but definitely added some muscle around my whole body and my legs, upper body and stuff like that. So it has been a summer of grinding for sure.",
       "news_angle": "Will Richard says he has added significant muscle to his frame this offseason.",
-      "social_post": "Will Richard says he has put in the work this summer to get stronger, adding muscle to his legs and upper body to prepare for the upcoming season."
+      "social_post": "Will Richard says he has put in the work this summer to get stronger, adding muscle to his legs and upper body to prepare for the upcoming season.",
+      "speaker_confidence": "named",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 39,
+      "gemini_end_seconds": 54
     },
     {
       "rank": 2,
@@ -29,7 +35,13 @@
       "end_seconds": 112,
       "text": "Just hungry, going out there trying to compete at a high level every time and missing those guys it definitely everybody has to take a step up because they do so much for our team. So definitely going out with that mindset that we all have to step up to kind of fill that void.",
       "news_angle": "Will Richard says the team must step up to fill the void left by missing teammates.",
-      "social_post": "With teammates missing time, Will Richard says the rest of the roster is ready to step up and fill the void, noting that everyone has to take a step up because of how much those players do for the team."
+      "social_post": "With teammates missing time, Will Richard says the rest of the roster is ready to step up and fill the void, noting that everyone has to take a step up because of how much those players do for the team.",
+      "speaker_confidence": "named",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 58,
+      "gemini_end_seconds": 112
     },
     {
       "rank": 3,
@@ -39,7 +51,13 @@
       "end_seconds": 143,
       "text": "It is special. It just shows how much he cares about the team, the organization in general is bringing everybody together. We were talking about it and that is not normal for a guy to be able to do that and want to do that every year. So just having him be able to do that and us build chemistry and have fun spend some time together before camp was very fun.",
       "news_angle": "Will Richard praises Jimmy for his leadership in bringing the team together.",
-      "social_post": "Will Richard says it is special to have a teammate like Jimmy who cares so much about the organization, noting that it is not normal for a player to put in the effort to bring everyone together every year."
+      "social_post": "Will Richard says it is special to have a teammate like Jimmy who cares so much about the organization, noting that it is not normal for a player to put in the effort to bring everyone together every year.",
+      "speaker_confidence": "named",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 124,
+      "gemini_end_seconds": 143
     },
     {
       "rank": 4,
@@ -49,7 +67,14 @@
       "end_seconds": 236,
       "text": "I say Gators by seven. He says they will smack us but that is just him talking, it is all right.",
       "news_angle": "Will Richard predicts a seven point victory for the Gators over Michigan.",
-      "social_post": "Will Richard is confident in his team, predicting a seven point win for the Gators over Michigan despite what his teammates might say."
+      "social_post": "Will Richard is confident in his team, predicting a seven point win for the Gators over Michigan despite what his teammates might say.",
+      "speaker_confidence": "named",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 221,
+      "gemini_end_seconds": 236
     }
-  ]
+  ],
+  "speakers_backfilled_at": "2026-09-30T23:47:55Z"
 }

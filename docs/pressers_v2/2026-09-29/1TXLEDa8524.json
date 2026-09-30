@@ -14,23 +14,38 @@
   "quotes": [
     {
       "rank": 1,
-      "speaker": "Peyton Watson",
+      "speaker": "Unidentified speaker",
       "team": "Cleveland Cavaliers",
       "start_seconds": 15,
       "end_seconds": 32,
       "text": "Good to meet you Cayden, Demetrius. Good to meet you boy. I am looking forward to interacting with you guys and embracing the city of Cleveland for sure. Let them know.",
-      "news_angle": "Peyton Watson expresses excitement about joining the Cleveland Cavaliers and engaging with the community.",
-      "social_post": "Peyton Watson is ready to get to work and embrace the city of Cleveland. He is looking forward to interacting with the fans and the community this season."
+      "news_angle": "Unidentified speaker expresses excitement about joining the Cleveland Cavaliers and engaging with the community.",
+      "social_post": "Unidentified speaker is ready to get to work and embrace the city of Cleveland. He is looking forward to interacting with the fans and the community this season.",
+      "speaker_confidence": "inferred",
+      "speaker_guess": "Peyton Watson",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 15,
+      "gemini_end_seconds": 32
     },
     {
       "rank": 2,
-      "speaker": "Peyton Watson",
+      "speaker": "Unidentified speaker",
       "team": "Cleveland Cavaliers",
       "start_seconds": 33,
       "end_seconds": 48,
       "text": "The funniest guy on my team is Nae'Qwan Tomlin. Where do I start? This is what I came for. I am on fire, baby. Cooking with gas.",
-      "news_angle": "Peyton Watson identifies Nae'Qwan Tomlin as the funniest player on the Cleveland Cavaliers roster.",
-      "social_post": "Peyton Watson says Nae'Qwan Tomlin is the funniest guy on the Cleveland Cavaliers team."
+      "news_angle": "Unidentified speaker identifies Nae'Qwan Tomlin as the funniest player on the Cleveland Cavaliers roster.",
+      "social_post": "Unidentified speaker says Nae'Qwan Tomlin is the funniest guy on the Cleveland Cavaliers team.",
+      "speaker_confidence": "inferred",
+      "speaker_guess": "Peyton Watson",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 33,
+      "gemini_end_seconds": 48
     }
-  ]
+  ],
+  "speakers_backfilled_at": "2026-09-30T23:47:55Z"
 }

@@ -1,0 +1,70 @@
+{
+  "video_id": "H1Biu63PL3Q",
+  "url": "https://www.youtube.com/watch?v=H1Biu63PL3Q",
+  "video_title": "Ja Morant Media Availability | Sept. 30, 2026 | Portland Trail Blazers",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-09-30T22:59:17Z",
+  "duration_seconds": 355,
+  "processed_at": "2026-09-30T23:48:43Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Ja Morant"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja Morant",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 96,
+      "end_seconds": 131,
+      "gemini_start_seconds": 96,
+      "gemini_end_seconds": 131,
+      "timestamp_source": "gemini-approx",
+      "text": "I feel like we all are our own player. We all have strengths and that is why we here today. Our jobs is just to make sure we continue to play our games but also help each other and getting us in those spots and creating for everybody. Playing alongside those guys is good. I do not have to be so much ball dominant. All those guys can create for them and the teammates. That is a plus. You got four and then you also got Denny that is able to handle the ball as well. That is a good thing for us.",
+      "pull_quote": "I do not have to be so much ball dominant.",
+      "news_score": 7,
+      "names_mentioned": [
+        "Denny"
+      ],
+      "news_angle": "Ja Morant says he will be less ball dominant playing alongside his new teammates.",
+      "social_post": "Ja Morant says he is looking forward to playing in a more balanced offense this season, noting that he does not have to be as ball dominant with his new teammates."
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja Morant",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 213,
+      "end_seconds": 231,
+      "gemini_start_seconds": 213,
+      "gemini_end_seconds": 231,
+      "timestamp_source": "gemini-approx",
+      "text": "I get catch and shoots. I was able to get a lot of catch and shoot threes today which was rare kind of for me. That is a plus and then I am able to just use my speed, create. I get back cuts. It is just unlocking different parts, easier ways for me to be able to score.",
+      "pull_quote": "I was able to get a lot of catch and shoot threes today",
+      "news_score": 6,
+      "names_mentioned": [],
+      "news_angle": "Ja Morant says he is incorporating more catch and shoot opportunities into his game.",
+      "social_post": "Ja Morant says he is working on his catch and shoot game to find easier ways to score this season."
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja Morant",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 244,
+      "end_seconds": 254,
+      "gemini_start_seconds": 244,
+      "gemini_end_seconds": 254,
+      "timestamp_source": "gemini-approx",
+      "text": "I have been this year for me, honestly no disrespect to them, I have looked at every rule book and I do not think they ever apply to me so.",
+      "pull_quote": "I do not think they ever apply to me",
+      "news_score": 5,
+      "names_mentioned": [],
+      "news_angle": "Ja Morant comments on his interpretation of new NBA officiating rules.",
+      "social_post": "Ja Morant says he has studied the new NBA rule book and does not believe the changes apply to his game."
+    }
+  ],
+  "caption_status": "blocked"
+}

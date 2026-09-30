@@ -1,0 +1,72 @@
+{
+  "video_id": "bfGUYvZnbLA",
+  "url": "https://www.youtube.com/watch?v=bfGUYvZnbLA",
+  "video_title": "2026 Hornets Training Camp Media Availability: Brandon Miller",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-09-29T22:42:45Z",
+  "duration_seconds": 247,
+  "processed_at": "2026-09-30T23:51:43Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Brandon Miller"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandon Miller",
+      "speaker_confidence": "named",
+      "team": "Charlotte Hornets",
+      "start_seconds": 39,
+      "end_seconds": 60,
+      "gemini_start_seconds": 39,
+      "gemini_end_seconds": 60,
+      "timestamp_source": "gemini-approx",
+      "text": "I feel like just taking on a more vocal leadership role. I think I did a great job with just executing at the end of games today and then just leading by voice, getting everybody in the right places. I feel like building a bond now will make everything stronger when the season comes and make a lot easier.",
+      "pull_quote": "I feel like just taking on a more vocal leadership role.",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "Brandon Miller is focusing on taking on a more vocal leadership role for the Hornets.",
+      "social_post": "Brandon Miller says he is focusing on taking on a more vocal leadership role this season, noting that building a bond with his teammates now will make everything stronger when the season starts."
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandon Miller",
+      "speaker_confidence": "named",
+      "team": "Charlotte Hornets",
+      "start_seconds": 70,
+      "end_seconds": 97,
+      "gemini_start_seconds": 70,
+      "gemini_end_seconds": 97,
+      "timestamp_source": "gemini-approx",
+      "text": "Just their experience. Naz of course has playoff experience, that's where everyone wants to be. We all have the same goals here and just adding someone like him gives us nothing but confidence and strength. And then of course Kobe been here for a minute, Dennis been around for a minute. You know there's always going to be guys that our younger guys can look up to and ask questions and I feel like they're going to do a great job of mentoring everybody else.",
+      "pull_quote": "Naz of course has playoff experience, that's where everyone wants to be.",
+      "news_score": 6,
+      "names_mentioned": [
+        "Naz",
+        "Kobe",
+        "Dennis"
+      ],
+      "news_angle": "Brandon Miller praises the veteran experience of Naz, Kobe, and Dennis on the Hornets roster.",
+      "social_post": "Brandon Miller is excited about the veteran presence on the Hornets, noting that players like Naz, Kobe, and Dennis bring valuable playoff experience and leadership to the team."
+    },
+    {
+      "rank": 3,
+      "speaker": "Brandon Miller",
+      "speaker_confidence": "named",
+      "team": "Charlotte Hornets",
+      "start_seconds": 173,
+      "end_seconds": 212,
+      "gemini_start_seconds": 173,
+      "gemini_end_seconds": 212,
+      "timestamp_source": "gemini-approx",
+      "text": "I think it all started before that. In the summer, you don't see teams or players on other teams coming in and being in their team state the whole summer. I think that's one thing that we took upon this summer and last summer, everybody being around for most of the summer, just working out, putting in the work, perfecting their craft. And I think that's going to go a long way with bonds, chemistry, knowing who can do what, knowing who is the best defender, knowing everybody's strengths and weaknesses.",
+      "pull_quote": "I think that's going to go a long way with bonds, chemistry.",
+      "news_score": 6,
+      "names_mentioned": [],
+      "news_angle": "Brandon Miller credits the team's chemistry to players spending the entire summer working out together.",
+      "social_post": "Brandon Miller says the Hornets' chemistry is building because the team spent the entire summer working out together, which helped them learn each other's strengths and weaknesses."
+    }
+  ],
+  "caption_status": "blocked"
+}

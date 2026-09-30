@@ -19,7 +19,13 @@
       "end_seconds": 18,
       "text": "Since I got here last year I had more opportunities, more reps. It felt good with the team, the city, the fans, so I feel like it was the obvious choice for me, honestly.",
       "news_angle": "Ousmane Dieng explains his decision to re-sign with the Milwaukee Bucks.",
-      "social_post": "Ousmane Dieng says re-signing with the Milwaukee Bucks was the obvious choice because of the opportunities, the city, and the fans."
+      "social_post": "Ousmane Dieng says re-signing with the Milwaukee Bucks was the obvious choice because of the opportunities, the city, and the fans.",
+      "speaker_confidence": "named",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 3,
+      "gemini_end_seconds": 18
     },
     {
       "rank": 2,
@@ -29,7 +35,13 @@
       "end_seconds": 144,
       "text": "I feel like just find your role. Just do whatever the team needs you to do to win and you will be all right.",
       "news_angle": "Ousmane Dieng shares his advice for younger players on finding their role in the NBA.",
-      "social_post": "Ousmane Dieng shares his advice for younger players, saying you just have to find your role and do whatever the team needs to win."
+      "social_post": "Ousmane Dieng shares his advice for younger players, saying you just have to find your role and do whatever the team needs to win.",
+      "speaker_confidence": "named",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 129,
+      "gemini_end_seconds": 144
     },
     {
       "rank": 3,
@@ -39,7 +51,14 @@
       "end_seconds": 172,
       "text": "Probably the defensive end. He is a really defensive minded coach, so that is great. I feel like that is great for us.",
       "news_angle": "Ousmane Dieng highlights Coach Doc Rivers' focus on defense during training camp.",
-      "social_post": "Ousmane Dieng says Doc Rivers is a really defensive minded coach and that his focus on the defensive end is great for the team."
+      "social_post": "Ousmane Dieng says Doc Rivers is a really defensive minded coach and that his focus on the defensive end is great for the team.",
+      "speaker_confidence": "named",
+      "pull_quote": "",
+      "names_mentioned": [],
+      "timestamp_source": "gemini-approx",
+      "gemini_start_seconds": 157,
+      "gemini_end_seconds": 172
     }
-  ]
+  ],
+  "speakers_backfilled_at": "2026-09-30T23:47:55Z"
 }

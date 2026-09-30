@@ -1,0 +1,71 @@
+{
+  "video_id": "wgERaxfXfkM",
+  "url": "https://www.youtube.com/watch?v=wgERaxfXfkM",
+  "video_title": "Donovan Clingan Media Availability | Sept. 30, 2026 | Portland Trail Blazers",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-09-30T23:09:15Z",
+  "duration_seconds": 255,
+  "processed_at": "2026-09-30T23:48:37Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Donovan Clingan"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Clingan",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 99,
+      "end_seconds": 115,
+      "gemini_start_seconds": 99,
+      "gemini_end_seconds": 115,
+      "timestamp_source": "gemini-approx",
+      "text": "I love the challenge. More pressure on me at the rim to block more shots. More pressure on me to communicate more to the guards, to the wings on the perimeter. And that's got to be more active, more vocal. And I'm ready to accept that challenge.",
+      "pull_quote": "I love the challenge. More pressure on me at the rim to block more shots.",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "Donovan Clingan embraces the defensive challenge of playing in smaller lineups for the Trail Blazers",
+      "social_post": "Donovan Clingan says he is ready for the increased defensive responsibility that comes with playing in smaller lineups. He says he is ready to accept the challenge of being more active and vocal on the perimeter."
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Clingan",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 127,
+      "end_seconds": 142,
+      "gemini_start_seconds": 127,
+      "gemini_end_seconds": 142,
+      "timestamp_source": "gemini-approx",
+      "text": "I feel great. My body, my conditioning, my wind. I mean I feel like I'm rarely asking for subs. I'm able to get up and down possession after possession. I feel I feel really good.",
+      "pull_quote": "I feel like I'm rarely asking for subs.",
+      "news_score": 6,
+      "names_mentioned": [],
+      "news_angle": "Donovan Clingan reports being in excellent physical condition ahead of the season",
+      "social_post": "Donovan Clingan says he feels great and his conditioning has improved, noting that he is rarely asking for subs during practice."
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Clingan",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 200,
+      "end_seconds": 220,
+      "gemini_start_seconds": 200,
+      "gemini_end_seconds": 220,
+      "timestamp_source": "gemini-approx",
+      "text": "I love them. I mean we have a great great group of centers. Before training camp started, I took Brandon and Micah golf and yeah, I mean we're starting to bond and you know it's I feel like we have a really good group and a lot of guys that really get along well together.",
+      "pull_quote": "I feel like we have a really good group and a lot of guys that really get along well together.",
+      "news_score": 5,
+      "names_mentioned": [
+        "Brandon",
+        "Micah"
+      ],
+      "news_angle": "Donovan Clingan praises the chemistry among the Trail Blazers center rotation",
+      "social_post": "Donovan Clingan says the Trail Blazers have a great group of centers and that the team is already bonding well ahead of the season."
+    }
+  ],
+  "caption_status": "blocked"
+}

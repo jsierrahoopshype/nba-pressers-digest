@@ -1,0 +1,87 @@
+{
+  "video_id": "Ubuv6MuJwNE",
+  "url": "https://www.youtube.com/watch?v=Ubuv6MuJwNE",
+  "video_title": "2026 Training Camp Media Availability | Coach J.B. Bickerstaff l 09.30.26",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-09-30T23:38:42Z",
+  "duration_seconds": 515,
+  "processed_at": "2026-09-30T23:48:31Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "speaker_confidence": "named",
+      "team": "Detroit Pistons",
+      "start_seconds": 46,
+      "end_seconds": 70,
+      "gemini_start_seconds": 46,
+      "gemini_end_seconds": 70,
+      "timestamp_source": "gemini-approx",
+      "text": "It opens up so much for our guys' strengths. We don't want to get away from what we were elite at last year. We were good offensively because we dominated the painted area. We expect to continue to do that, but now we have more weapons on the perimeter that we can find that can knock down those shots that create that gravity that hopefully make those driving lanes and cutting lanes even easier.",
+      "pull_quote": "We don't want to get away from what we were elite at last year.",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "J.B. Bickerstaff plans to maintain the team's paint dominance while utilizing new perimeter weapons.",
+      "social_post": "J.B. Bickerstaff says the Pistons will keep their focus on dominating the paint this season, while using new perimeter threats to create more space for the offense."
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "speaker_confidence": "named",
+      "team": "Detroit Pistons",
+      "start_seconds": 93,
+      "end_seconds": 128,
+      "gemini_start_seconds": 93,
+      "gemini_end_seconds": 128,
+      "timestamp_source": "gemini-approx",
+      "text": "I think he's comfortable. He understands who we are, his teammates understand who he is, and he understands what we need. But overall, he's a really good basketball player. And I think that's one of the things people assume, it's all about the offensive stuff with him and the shooting, but he's a heck of a playmaker. He can make his shots, but he moves well without the basketball. And then we found last year that he was good defensively for us too. We allowed him to switch and pick guys up and things like that. So he's a well-rounded basketball player that I think has just settled into who he needs to be when he's with the Detroit Pistons and that's just the best version of himself.",
+      "pull_quote": "He's a well-rounded basketball player that I think has just settled into who he needs to be",
+      "news_score": 8,
+      "names_mentioned": [],
+      "news_angle": "J.B. Bickerstaff praises Kevin Huerter's growth and versatility with the Detroit Pistons.",
+      "social_post": "J.B. Bickerstaff says Kevin Huerter has settled into his role with the Pistons, calling him a well-rounded player who is becoming the best version of himself."
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "speaker_confidence": "named",
+      "team": "Detroit Pistons",
+      "start_seconds": 167,
+      "end_seconds": 210,
+      "gemini_start_seconds": 167,
+      "gemini_end_seconds": 210,
+      "timestamp_source": "gemini-approx",
+      "text": "It's the nature of what we do here in Detroit. Everybody comes in here, no matter their position, no matter their age, no matter their responsibilities in previous locations, our push is for you to be better and do more of what you're capable of. We're not asking guys to come in here and change who they are. But if there's aspects of their game that they have and have grown in, they've got the freedom to go out and do it. We don't put anybody in a box and say, well, in such and such place you did this, so when you come here all you're allowed to do is that. If you can play basketball, we allow you to play basketball, but our expectation is you compete your tail off, you play selfless basketball, and then as your game grows, we allow you to play with that freedom to grow.",
+      "pull_quote": "We're not asking guys to come in here and change who they are.",
+      "news_score": 6,
+      "names_mentioned": [],
+      "news_angle": "J.B. Bickerstaff emphasizes a culture of freedom and growth for all players in Detroit.",
+      "social_post": "J.B. Bickerstaff says the Pistons culture is built on allowing players the freedom to grow their games, rather than putting them in a box based on their past."
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "speaker_confidence": "named",
+      "team": "Detroit Pistons",
+      "start_seconds": 227,
+      "end_seconds": 252,
+      "gemini_start_seconds": 227,
+      "gemini_end_seconds": 252,
+      "timestamp_source": "gemini-approx",
+      "text": "It's great. And that's the thing with Trajan is he's open-minded and willing to have conversations and make decisions that he thinks are best. And I trust him wholeheartedly that he's going to make the right decision for the team. And then my responsibility is to coach the guys that he ultimately brings in here and try to get the most out of them. So I think our relationship of trust and respect for one another, it makes the job easy. There is no bickering and back and forth, there is no points trying to be proven. He does a great job of what his responsibilities are, and then us as coaches try to do our best job with the 15 guys that are here.",
+      "pull_quote": "I trust him wholeheartedly that he's going to make the right decision for the team.",
+      "news_score": 7,
+      "names_mentioned": [
+        "Trajan"
+      ],
+      "news_angle": "J.B. Bickerstaff highlights his strong, trusting relationship with Trajan Langdon.",
+      "social_post": "J.B. Bickerstaff says he has a relationship of total trust and respect with Trajan Langdon, making it easy for them to work together on building the Pistons roster."
+    }
+  ],
+  "caption_status": "blocked"
+}

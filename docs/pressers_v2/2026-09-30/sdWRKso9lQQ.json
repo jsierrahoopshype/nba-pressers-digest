@@ -1,0 +1,34 @@
+{
+  "video_id": "sdWRKso9lQQ",
+  "url": "https://www.youtube.com/watch?v=sdWRKso9lQQ",
+  "video_title": "2026 Hornets Training Camp Media Availability: Grayson Allen",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-09-30T19:35:22Z",
+  "duration_seconds": 125,
+  "processed_at": "2026-09-30T23:50:53Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Grayson Allen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Grayson Allen",
+      "speaker_confidence": "named",
+      "team": "Charlotte Hornets",
+      "start_seconds": 87,
+      "end_seconds": 119,
+      "gemini_start_seconds": 87,
+      "gemini_end_seconds": 119,
+      "timestamp_source": "gemini-approx",
+      "text": "He is great. He is a team guy. His game is trying to make the other guys on the court better, the team better, offensively and defensively. He is an incredibly improved shooter from when I played with him in Utah and he is a great shooter now, a good connector and passer, great screener offensively. Defensively he is physical, can guard multiple positions, so just a really really good teammate and versatile guy to have.",
+      "pull_quote": "He is an incredibly improved shooter from when I played with him in Utah",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "Grayson Allen praises Royce O'Neale as a versatile teammate and improved shooter.",
+      "social_post": "Grayson Allen says Royce O'Neale has become an incredibly improved shooter since their time together in Utah, calling him a great teammate and a versatile player for the Hornets."
+    }
+  ],
+  "caption_status": "blocked"
+}

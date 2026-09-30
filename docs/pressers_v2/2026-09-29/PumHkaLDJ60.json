@@ -1,0 +1,90 @@
+{
+  "video_id": "PumHkaLDJ60",
+  "url": "https://www.youtube.com/watch?v=PumHkaLDJ60",
+  "video_title": "Damian Lillard Media Availability | Sept. 29, 2026 | Portland Trail Blazers",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-09-29T23:05:50Z",
+  "duration_seconds": 413,
+  "processed_at": "2026-09-30T23:51:32Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 81,
+      "end_seconds": 121,
+      "gemini_start_seconds": 81,
+      "gemini_end_seconds": 121,
+      "timestamp_source": "gemini-approx",
+      "text": "When I saw him go down and I saw him walk off the court by himself, Kobe was, I mean his reputation was as a warrior, that's just how he was. So I was kind of like more impressed with how fast he came back. But then when I tore mine and I started to do my homework and do my research and a lot of the, I guess medical people that I I knew I used every resource I had to just get information and I saw that guys who, you know, tear their Achilles in their mid to late 30s when they come back, they take that full 15 to 18 months. They're able to make a full recovery and the people who who don't, they don't make a full recovery.",
+      "pull_quote": "",
+      "news_score": 5,
+      "names_mentioned": [
+        "Kobe"
+      ],
+      "news_angle": "Damian Lillard discusses the recovery process for Achilles injuries in older players.",
+      "social_post": "Damian Lillard reflects on the recovery process for Achilles injuries, noting that players in their mid to late 30s often need 15 to 18 months to make a full recovery."
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 141,
+      "end_seconds": 150,
+      "gemini_start_seconds": 141,
+      "gemini_end_seconds": 150,
+      "timestamp_source": "gemini-approx",
+      "text": "Once I saw that I made my mind up that I was going to not play last year because I knew it was in the best interest of me being able to come back and be the player that I've been.",
+      "pull_quote": "I made my mind up that I was going to not play last year",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "Damian Lillard confirms he sat out last season to ensure a full recovery.",
+      "social_post": "Damian Lillard says he made the decision to sit out last season to ensure he could return as the player he has been."
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 192,
+      "end_seconds": 218,
+      "gemini_start_seconds": 192,
+      "gemini_end_seconds": 218,
+      "timestamp_source": "gemini-approx",
+      "text": "For me it's just being patient. You know, I missed two months and I came back for a week and tore my Achilles. So really, you know, that's those two months plus the last 16 or 17 months is almost been 20 months since I've actually played. That's include when I had a blood clot, you know, up until I came back for the playoffs the year that I got hurt. I didn't play for the final two months.",
+      "pull_quote": "",
+      "news_score": 8,
+      "names_mentioned": [],
+      "news_angle": "Damian Lillard details his long absence from the court due to injury and health issues.",
+      "social_post": "Damian Lillard says it has been almost 20 months since he has actually played, citing his recovery from a blood clot and a torn Achilles."
+    },
+    {
+      "rank": 4,
+      "speaker": "Damian Lillard",
+      "speaker_confidence": "named",
+      "team": "Portland Trail Blazers",
+      "start_seconds": 361,
+      "end_seconds": 391,
+      "gemini_start_seconds": 361,
+      "gemini_end_seconds": 391,
+      "timestamp_source": "gemini-approx",
+      "text": "We've had the conversation not in depth like oh, you know, Dame do you want to start or come off the bench, you know, it hasn't been a conversation. As far as I know, like will Ja will start, I'll start, Danny will I mean that's that's as far as I know, but no I haven't had that conversation with him.",
+      "pull_quote": "As far as I know, like will Ja will start, I'll start",
+      "news_score": 6,
+      "names_mentioned": [
+        "Ja",
+        "Danny"
+      ],
+      "news_angle": "Damian Lillard expects to start alongside Ja and Danny this season.",
+      "social_post": "Damian Lillard says he has not had a conversation about coming off the bench and expects to start alongside Ja and Danny."
+    }
+  ],
+  "caption_status": "blocked"
+}

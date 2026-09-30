@@ -1,0 +1,88 @@
+{
+  "video_id": "j-uvoZmj6jM",
+  "url": "https://www.youtube.com/watch?v=j-uvoZmj6jM",
+  "video_title": "Training Camp Media Availability | September 30, 2026 | OKC Thunder",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-09-30T21:00:28Z",
+  "duration_seconds": 734,
+  "processed_at": "2026-09-30T23:49:18Z",
+  "run_id": "2026-09-30T2347Z-20utc",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Luguentz Dort",
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luguentz Dort",
+      "speaker_confidence": "named",
+      "team": "Oklahoma City Thunder",
+      "start_seconds": 66,
+      "end_seconds": 98,
+      "gemini_start_seconds": 66,
+      "gemini_end_seconds": 98,
+      "timestamp_source": "gemini-approx",
+      "text": "I don't think I've learned anything different. I feel like for you guys it's probably different because you guys aren't around this every single day, but I'm around everybody all day every day. So even last year him being here half the year, I was around him 90% of his life. So he has a lot of good habits that he's formed throughout his career early on, which is really cool to see and he'll have a very long career because of it. And then he's also just really willing to learn, which I think is going to serve him really well just throughout the year and like I said throughout his career.",
+      "pull_quote": "he's also just really willing to learn, which I think is going to serve him really well",
+      "news_score": 6,
+      "names_mentioned": [],
+      "news_angle": "Luguentz Dort praises the work ethic and willingness to learn of a teammate.",
+      "social_post": "Luguentz Dort says a teammate has formed great habits early in his career and is really willing to learn, which will serve him well for a long time."
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "speaker_confidence": "named",
+      "team": "Oklahoma City Thunder",
+      "start_seconds": 184,
+      "end_seconds": 206,
+      "gemini_start_seconds": 184,
+      "gemini_end_seconds": 206,
+      "timestamp_source": "gemini-approx",
+      "text": "Great worker. We have a team full of great workers and he fits that mold. He's very self-sufficient, he's very driven and motivated. He doesn't need anybody to wake him up in the morning to get him to work. So he's ready to go, takes his game very seriously and he puts the horsepower of the work behind everything he does. So great work ethic.",
+      "pull_quote": "he puts the horsepower of the work behind everything he does",
+      "news_score": 6,
+      "names_mentioned": [],
+      "news_angle": "Mark Daigneault praises the work ethic of a player.",
+      "social_post": "Mark Daigneault on a player's work ethic, he is very self-sufficient and driven. He does not need anyone to wake him up in the morning to get him to work, he puts the horsepower of the work behind everything he does."
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "speaker_confidence": "named",
+      "team": "Oklahoma City Thunder",
+      "start_seconds": 335,
+      "end_seconds": 375,
+      "gemini_start_seconds": 335,
+      "gemini_end_seconds": 375,
+      "timestamp_source": "gemini-approx",
+      "text": "We'll see. He's had a great off-season. First of all he had a great playoff run, which I think you can never underestimate the confidence that gives somebody when they are able to perform as well as he did on that stage. And not just offensively, I think everybody's mind goes to offense, but I mean he was guarding Austin Reaves and he can he's to the point now where he's taking on primary matchups for us. So I think he gained a lot of confidence from that and then put a great summer in. Got himself healthy obviously end of the season injury and his body looks great, his game looks tight. He's another guy that kind of knows who he is, he's really caught up to the pitching of the NBA game and he looks great.",
+      "pull_quote": "he's to the point now where he's taking on primary matchups for us",
+      "news_score": 7,
+      "names_mentioned": [
+        "Austin Reaves"
+      ],
+      "news_angle": "Mark Daigneault says a player is now taking on primary defensive matchups.",
+      "social_post": "Mark Daigneault says a player gained a lot of confidence from his playoff run and is now at the point where he is taking on primary defensive matchups for the team."
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "speaker_confidence": "named",
+      "team": "Oklahoma City Thunder",
+      "start_seconds": 624,
+      "end_seconds": 656,
+      "gemini_start_seconds": 624,
+      "gemini_end_seconds": 656,
+      "timestamp_source": "gemini-approx",
+      "text": "Congrats to him on an unbelievable first ballot career. He's obviously one of the giants of the game not only in Oklahoma City but in the history of the league. He brought a particular spirit to the game and fearlessness and competitiveness that made it very easy to gravitate to him and obviously this city did and he reciprocated. He's an unbelievable member of the community even to this day, he's doing great work in the Oklahoma City community and so special player, special guy.",
+      "pull_quote": "he's obviously one of the giants of the game",
+      "news_score": 5,
+      "names_mentioned": [],
+      "news_angle": "Mark Daigneault congratulates Russell Westbrook on his career.",
+      "social_post": "Mark Daigneault congratulates Russell Westbrook on an unbelievable career, calling him one of the giants of the game not only in Oklahoma City but in the history of the league."
+    }
+  ],
+  "caption_status": "blocked"
+}
