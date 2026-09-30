@@ -19,7 +19,17 @@ echo Installing / updating yt-dlp...
 if errorlevel 1 %PY% -m pip install --upgrade --user --disable-pip-version-check --quiet "yt-dlp[default]"
 if errorlevel 1 goto :no_ytdlp
 for /f "delims=" %%v in ('%PY% -m yt_dlp --version') do echo yt-dlp version %%v
+
+rem --- faster-whisper: finds the quote when a video has no captions ---------
+echo Installing / updating faster-whisper (first time can take a few minutes)...
+%PY% -m pip install --upgrade --disable-pip-version-check --quiet faster-whisper
+if errorlevel 1 %PY% -m pip install --upgrade --user --disable-pip-version-check --quiet faster-whisper
+if errorlevel 1 goto :no_whisper
+:whisper_done
 echo.
+
+rem --- The clipper needs caption_align.py next to it -------------------------
+if not exist "%~dp0caption_align.py" goto :no_align
 
 rem --- Check ffmpeg ----------------------------------------------------------
 where ffmpeg >nul 2>nul
@@ -45,6 +55,17 @@ goto :end
 
 :no_ytdlp
 echo [X] Could not install yt-dlp with pip. Check your internet connection and run this file again.
+goto :end
+
+:no_whisper
+echo NOTE: faster-whisper could not be installed. Clips still work for videos with
+echo       YouTube captions; videos without captions will be skipped and listed.
+goto :whisper_done
+
+:no_align
+echo [X] caption_align.py is missing.
+echo     Fix: download caption_align.py from the same GitHub folder as this file
+echo     (pressers_v2/caption_align.py) and put it next to make-presser-clips.bat.
 goto :end
 
 :no_ffmpeg

@@ -1,8 +1,14 @@
 """
 Local presser clipper (Windows-first, runs anywhere with Python + ffmpeg).
 
-Downloads pressers_v2/output/latest_clips.json from GitHub and, for each clip:
-  1. yt-dlp --download-sections grabs only that slice (+2s padding each side)
+Downloads pressers_v2/output/latest_clips.json from GitHub, prints a numbered
+pick-list (news score, speaker, team, angle) and, for each chosen clip:
+  0. finds the REAL start/end of the quote: yt-dlp fetches the video's
+     captions and the quote's first/last words are fuzzy-matched to them;
+     without captions, faster-whisper transcribes +-90s around the given time.
+     A low-confidence match skips the clip (listed at the end) rather than
+     cutting the wrong segment.
+  1. yt-dlp --download-sections grabs only that slice (+0.5s padding each side)
   2. ffmpeg renders a 1080x1920 vertical MP4: blurred-background fill, the
      original frame centred, a speaker/team lower third and burned-in
      captions built from the quote text in short chunks.
@@ -13,7 +19,12 @@ Clips already made (tracked in <out>\\_made.json) are skipped, so running it
 several times a day only renders the new ones. Failed clips are skipped and
 listed at the end.
 
-Normally started by double-clicking make-presser-clips.bat. Options:
+Normally started by double-clicking make-presser-clips.bat, which asks which
+clips to render (Enter = top 10 by news score from the latest run). Options:
+    --all             render every clip in the list
+    --pick 1,3,5-7    render these numbers from the printed list
+    --top N           default selection size (10)
+    --yes             don't ask; use the default selection
     --limit N         only the first N clips
     --team TEXT       only clips whose team contains TEXT (e.g. --team celtics)
     --force           re-render clips that were already made
@@ -35,6 +46,14 @@ import urllib.request
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+try:
+    import caption_align
+except ImportError:
+    print("[X] caption_align.py is missing. Download it from the same GitHub folder as this script "
+          "(pressers_v2/caption_align.py) and put it next to make_presser_clips.py.")
+    sys.exit(2)
+
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
@@ -48,7 +67,10 @@ if os.name == "nt":
 else:
     DEFAULT_OUT = Path.home() / "presser-clips"
 
-PAD_SECS = 2
+PAD_SECS = 0.5
+DEFAULT_TOP = 10
+WHISPER_WINDOW_SECS = 90
+WHISPER_MODEL = "base.en"   # ~140 MB, downloaded once on first use
 OUT_W, OUT_H = 1080, 1920
 VIDEO_ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
 
@@ -117,6 +139,170 @@ def valid_clip(clip: dict) -> str:
     if start < 0 or end <= start or end - start > 180:
         return f"bad time range {start}-{end}"
     return ""
+
+
+# --------------------------------------------------------------------------- #
+# Finding the real start/end of the quote
+# --------------------------------------------------------------------------- #
+
+class LowConfidence(Exception):
+    """The quote couldn't be located reliably; skip rather than mis-cut."""
+
+
+_caption_cache: dict = {}
+_whisper_model = None
+
+
+def fetch_caption_words(video_id: str, ffmpeg: str) -> list:
+    """English captions (manual or auto) as timed words, via yt-dlp. Cached
+    per video. Returns [] when the video has none or the fetch fails."""
+    if video_id in _caption_cache:
+        return _caption_cache[video_id]
+    words = []
+    with tempfile.TemporaryDirectory(prefix="presser_caps_") as tmp:
+        work = Path(tmp)
+        cmd = ytdlp_cmd() + [
+            "--no-playlist", "--quiet", "--no-warnings", "--skip-download",
+            "--write-subs", "--write-auto-subs",
+            "--sub-langs", "en,en-US,en-GB,en-orig,en.*",
+            "--sub-format", "json3/vtt/best",
+            "--ffmpeg-location", ffmpeg,
+            "-o", str(work / "cap.%(ext)s"),
+            f"https://www.youtube.com/watch?v={video_id}",
+        ]
+        try:
+            subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8",
+                           errors="replace", timeout=180)
+        except subprocess.TimeoutExpired:
+            pass
+        # json3 first (auto-captions carry per-word timings), then vtt
+        for path in sorted(work.glob("cap*.json3")) + sorted(work.glob("cap*.vtt")):
+            try:
+                raw = path.read_text(encoding="utf-8", errors="replace")
+                parsed = (caption_align.words_from_json3(raw) if path.suffix == ".json3"
+                          else caption_align.words_from_vtt(raw))
+            except (ValueError, KeyError):
+                continue
+            if len(parsed) > len(words):
+                words = parsed
+    _caption_cache[video_id] = words
+    return words
+
+
+def whisper_words(video_id: str, start: float, end: float, ffmpeg: str) -> list:
+    """faster-whisper word timings for [start-90s, end+90s] of the video."""
+    global _whisper_model
+    try:
+        from faster_whisper import WhisperModel
+    except ImportError:
+        raise LowConfidence("no captions, and faster-whisper isn't installed "
+                            "(run make-presser-clips.bat to install it)")
+    w0 = max(0.0, start - WHISPER_WINDOW_SECS)
+    w1 = end + WHISPER_WINDOW_SECS
+    with tempfile.TemporaryDirectory(prefix="presser_audio_") as tmp:
+        work = Path(tmp)
+        cmd = ytdlp_cmd() + [
+            "--no-playlist", "--no-progress", "--quiet", "--no-warnings",
+            "-f", "bestaudio/best",
+            "--download-sections", f"*{w0:.2f}-{w1:.2f}",
+            "-x", "--audio-format", "m4a",
+            "--ffmpeg-location", ffmpeg,
+            "-o", str(work / "aud.%(ext)s"),
+            f"https://www.youtube.com/watch?v={video_id}",
+        ]
+        res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8",
+                             errors="replace", timeout=900)
+        audio = sorted(p for p in work.glob("aud.*") if p.suffix.lower() not in (".part", ".ytdl"))
+        if res.returncode != 0 or not audio:
+            raise LowConfidence(f"no captions, and the audio download for Whisper failed: "
+                                f"{tail(res.stderr or res.stdout) or 'no file'}")
+        if _whisper_model is None:
+            say(f"    loading Whisper model {WHISPER_MODEL} (first time downloads ~140 MB)...")
+            _whisper_model = WhisperModel(WHISPER_MODEL, device="cpu", compute_type="int8")
+        segments, _info = _whisper_model.transcribe(str(audio[0]), language="en",
+                                                    word_timestamps=True, vad_filter=True)
+        words = []
+        for seg in segments:
+            for w in seg.words or []:
+                for tok in caption_align.norm_words(w.word):
+                    words.append((w0 + w.start, w0 + w.end, tok))
+    return words
+
+
+def locate_quote(clip: dict, ffmpeg: str) -> tuple:
+    """Return (start, end, method, score) for where the quote is actually
+    spoken. Raises LowConfidence when neither captions nor Whisper give a
+    reliable match."""
+    text = clip.get("text") or ""
+    hint = float(clip["start_seconds"])
+    best_score = None
+    words = fetch_caption_words(clip["video_id"], ffmpeg)
+    if words:
+        hit = caption_align.align_quote(text, words, hint_start=hint)
+        if hit and hit["score"] >= caption_align.MIN_ALIGN_SCORE:
+            return hit["start"], hit["end"], "captions", hit["score"]
+        best_score = hit["score"] if hit else 0.0
+        say(f"    captions match too weak ({best_score:.2f}); trying Whisper around {int(hint)}s")
+    else:
+        say("    no captions for this video; trying Whisper")
+    words = whisper_words(clip["video_id"], hint, float(clip["end_seconds"]), ffmpeg)
+    hit = caption_align.align_quote(text, words, hint_start=hint)
+    if hit and hit["score"] >= caption_align.MIN_ALIGN_SCORE:
+        return hit["start"], hit["end"], "whisper", hit["score"]
+    scores = [x for x in (best_score, hit["score"] if hit else None) if x is not None]
+    raise LowConfidence(f"quote not found reliably (best match {max(scores) if scores else 0:.2f}, "
+                        f"need {caption_align.MIN_ALIGN_SCORE})")
+
+
+# --------------------------------------------------------------------------- #
+# Pick-list
+# --------------------------------------------------------------------------- #
+
+def parse_pick(spec: str, n: int) -> list:
+    """"1,3,5-7" -> [1, 3, 5, 6, 7] (1-based, within 1..n)."""
+    out = []
+    for part in re.split(r"[,\s]+", spec.strip()):
+        if not part:
+            continue
+        m = re.fullmatch(r"(\d+)(?:-(\d+))?", part)
+        if not m:
+            raise ValueError(f"not a number or range: {part!r}")
+        a, b = int(m.group(1)), int(m.group(2) or m.group(1))
+        for i in range(min(a, b), max(a, b) + 1):
+            if 1 <= i <= n and i not in out:
+                out.append(i)
+    return out
+
+
+def order_clips(manifest: dict, clips: list) -> tuple:
+    """Latest run first, then by news_score (highest first). Returns
+    (ordered clips, latest_run_id, count of clips from the latest run)."""
+    latest = manifest.get("latest_run_id") or ""
+    if not latest:
+        dated = [c for c in clips if c.get("run_id")]
+        if dated:
+            latest = max(dated, key=lambda c: c.get("processed_at") or "")["run_id"]
+
+    def score(c):
+        try:
+            return int(c.get("news_score"))
+        except (TypeError, ValueError):
+            return 0
+
+    ordered = sorted(clips, key=lambda c: (latest and c.get("run_id") == latest, score(c)), reverse=True)
+    n_latest = sum(1 for c in clips if latest and c.get("run_id") == latest)
+    return ordered, latest, n_latest
+
+
+def print_pick_list(ordered: list, latest: str, done_ids: set) -> None:
+    say(f"{'#':>3}  {'score':>5}  {'':4}  {'speaker':<24} {'team':<22} angle")
+    for i, c in enumerate(ordered, start=1):
+        sc = c.get("news_score")
+        tag = "NEW " if latest and c.get("run_id") == latest else "    "
+        if c.get("clip_id") in done_ids:
+            tag = "done"
+        say(f"{i:>3}  {sc if sc is not None else '-':>5}  {tag}  {(c.get('speaker') or '?')[:24]:<24} "
+            f"{(c.get('team') or '?')[:22]:<22} {(c.get('news_angle') or '')[:70]}")
 
 
 # --------------------------------------------------------------------------- #
@@ -236,12 +422,12 @@ def tail(text: str, n: int = 3) -> str:
     return " | ".join(lines[-n:])[:400]
 
 
-def download_section(clip: dict, dl_start: int, dl_end: int, work: Path, ffmpeg: str) -> Path:
+def download_section(clip: dict, dl_start: float, dl_end: float, work: Path, ffmpeg: str) -> Path:
     url = f"https://www.youtube.com/watch?v={clip['video_id']}"
     cmd = ytdlp_cmd() + [
         "--no-playlist", "--no-progress", "--quiet", "--no-warnings",
         "-f", "bv*[height<=1080]+ba/b[height<=1080]/b",
-        "--download-sections", f"*{dl_start}-{dl_end}",
+        "--download-sections", f"*{dl_start:.2f}-{dl_end:.2f}",
         "--force-keyframes-at-cuts",
         "--merge-output-format", "mp4",
         "--ffmpeg-location", ffmpeg,
@@ -295,6 +481,7 @@ def write_txt(path: Path, clip: dict) -> None:
         f"Speaker: {clip.get('speaker') or ''} ({clip.get('team') or ''})",
         f"Angle: {clip.get('news_angle') or ''}",
         f"Clip: {clip['start_seconds']}s to {clip['end_seconds']}s of {clip.get('video_title') or clip['video_id']}",
+        f"Aligned: {clip.get('_aligned', '')}",
         "",
         f"Quote: \"{(clip.get('text') or '').strip()}\"",
         "",
@@ -302,13 +489,17 @@ def write_txt(path: Path, clip: dict) -> None:
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def make_clip(clip: dict, day_dir: Path, today: str, ffmpeg: str, pad: int) -> Path:
-    start, end = int(clip["start_seconds"]), int(clip["end_seconds"])
-    dl_start = max(0, start - pad)
+def make_clip(clip: dict, day_dir: Path, today: str, ffmpeg: str, pad: float) -> Path:
+    start, end, method, score = locate_quote(clip, ffmpeg)
+    drift = start - float(clip["start_seconds"])
+    say(f"    speech found at {start:.1f}-{end:.1f}s via {method} (score {score:.2f}, "
+        f"{drift:+.1f}s vs manifest)")
+    clip["_aligned"] = f"{start:.1f}s to {end:.1f}s via {method}, score {score:.2f}"
+    dl_start = max(0.0, start - pad)
     dl_end = end + pad
-    speech_start = float(start - dl_start)
+    speech_start = start - dl_start
     speech_end = speech_start + (end - start)
-    clip_len = float(dl_end - dl_start)
+    clip_len = dl_end - dl_start
 
     base = f"{today}_{slug(clip.get('team'), 'team')}_{slug(clip.get('speaker'), 'speaker')}"
     stem = next_free_stem(day_dir, base)
@@ -335,7 +526,11 @@ def main() -> int:
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--team", default="")
     ap.add_argument("--force", action="store_true")
-    ap.add_argument("--pad", type=int, default=PAD_SECS)
+    ap.add_argument("--pad", type=float, default=PAD_SECS)
+    ap.add_argument("--all", action="store_true", help="render every clip in the list")
+    ap.add_argument("--pick", default="", help="numbers from the list, e.g. 1,3,5-7")
+    ap.add_argument("--top", type=int, default=DEFAULT_TOP, help="default selection size")
+    ap.add_argument("--yes", action="store_true", help="don't ask; use the default selection")
     args = ap.parse_args()
 
     ffmpeg = check_tools()
@@ -361,20 +556,58 @@ def main() -> int:
 
     if args.team:
         clips = [c for c in clips if args.team.lower() in str(c.get("team") or "").lower()]
+    for c in clips:
+        c.setdefault("clip_id", f"{c.get('video_id')}_{c.get('start_seconds')}_{c.get('end_seconds')}")
+    done_ids = {cid for cid, rel in registry.items() if (out_root / rel).is_file()}
+
+    ordered, latest, n_latest = order_clips(manifest, clips)
+    if not ordered:
+        say("No clips in the list.")
+        return 0
+    say()
+    print_pick_list(ordered, latest, done_ids)
+    say()
+    default_n = min(args.top, n_latest) if n_latest else min(args.top, len(ordered))
+    default_desc = (f"top {default_n} by news score from the latest run ({latest})" if n_latest
+                    else f"top {default_n} by news score")
+
+    if args.all:
+        chosen = list(range(1, len(ordered) + 1))
+    elif args.pick:
+        chosen = parse_pick(args.pick, len(ordered))
+    elif args.yes or not sys.stdin.isatty():
+        chosen = list(range(1, default_n + 1))
+    else:
+        say(f"Press Enter for the {default_desc},")
+        say("type ALL for every clip, or type numbers like 1,3,5-7:")
+        while True:
+            answer = input("> ").strip()
+            if not answer:
+                chosen = list(range(1, default_n + 1))
+            elif answer.lower() == "all":
+                chosen = list(range(1, len(ordered) + 1))
+            else:
+                try:
+                    chosen = parse_pick(answer, len(ordered))
+                except ValueError as e:
+                    say(f"  {e}. Try again.")
+                    continue
+            break
+
     todo = []
     skipped_done = 0
-    for c in clips:
-        cid = c.get("clip_id") or f"{c.get('video_id')}_{c.get('start_seconds')}_{c.get('end_seconds')}"
-        if not args.force and cid in registry and (out_root / registry[cid]).is_file():
+    for i in chosen:
+        c = ordered[i - 1]
+        if not args.force and c["clip_id"] in done_ids:
             skipped_done += 1
             continue
-        todo.append((cid, c))
+        todo.append((c["clip_id"], c))
     if args.limit > 0:
         todo = todo[:args.limit]
     say(f"{skipped_done} already made, {len(todo)} to render into {day_dir}")
     say()
 
-    made, failures = [], []
+    made, failures, low_conf = [], [], []
     for i, (cid, clip) in enumerate(todo, start=1):
         label = f"{clip.get('speaker') or '?'} ({clip.get('team') or '?'}) {clip.get('video_id')} " \
                 f"@{clip.get('start_seconds')}s"
@@ -386,6 +619,10 @@ def main() -> int:
             continue
         try:
             final = make_clip(clip, day_dir, today, ffmpeg, args.pad)
+        except LowConfidence as e:
+            say(f"    SKIPPED (low confidence): {e}")
+            low_conf.append((label, str(e)))
+            continue
         except Exception as e:
             say(f"    FAILED: {e}")
             failures.append((label, str(e)))
@@ -397,8 +634,14 @@ def main() -> int:
 
     say()
     say("=" * 60)
-    say(f"Done. {len(made)} clip(s) made, {len(failures)} failed, {skipped_done} already made earlier.")
+    say(f"Done. {len(made)} clip(s) made, {len(low_conf)} skipped (low confidence), "
+        f"{len(failures)} failed, {skipped_done} already made earlier.")
     say(f"Folder: {day_dir}")
+    if low_conf:
+        say()
+        say("Skipped because the quote couldn't be located reliably (not cut, to avoid a wrong clip):")
+        for label, reason in low_conf:
+            say(f"  - {label}: {reason}")
     if failures:
         say()
         say("Failed clips:")
@@ -408,7 +651,7 @@ def main() -> int:
             say()
             say("Tip: YouTube blocks some downloads unless yt-dlp has a JavaScript runtime.")
             say("     Install Deno once in PowerShell:  winget install --id DenoLand.Deno -e")
-    return 0 if made or not todo else 1
+    return 0 if made or not todo or low_conf else 1
 
 
 if __name__ == "__main__":
