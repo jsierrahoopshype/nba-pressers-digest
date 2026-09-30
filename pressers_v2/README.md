@@ -16,8 +16,15 @@ availability videos published in the last 48h, sends each one to Gemini
 | GitHub Pages mirror | `docs/pressers_v2/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/ |
 | Slack post | after each run, via `SLACK_WEBHOOK_URL` |
 
-Each quote has: speaker, team, verbatim text, start/end seconds (15-60s clip),
-a one-line news angle and a draft social post.
+Each quote has: speaker, speaker_confidence, team, verbatim text, a pull
+quote, names mentioned, start/end seconds (15-60s clip), a one-line news
+angle and a draft social post. Multi-speaker exchanges also carry
+text_blocks.
+
+Speakers are only named when the video itself identifies them (name graphic,
+introduction, addressed by name). Anything else is "Unidentified speaker" with
+speaker_confidence "inferred", and those quotes are left out of
+latest_clips.json so a guessed name never ends up in a clip's lower third.
 
 ## One-time setup
 
@@ -28,7 +35,9 @@ a one-line news angle and a draft social post.
 2. **GitHub Pages**: Settings → Pages → Source: *Deploy from a branch* →
    Branch `main`, folder `/docs` → Save.
 3. **First run**: Actions → *Pressers v2 (quotes + clips)* → *Run workflow*.
-   The `extra_videos` box takes YouTube URLs to force-process (skips all filters).
+   The `extra_videos` box takes YouTube URLs to process regardless of title,
+   age or length. Videos already processed are skipped unless you tick
+   `force`, which reprocesses them and overwrites their output.
 
 ## Making the vertical clips on Windows
 
