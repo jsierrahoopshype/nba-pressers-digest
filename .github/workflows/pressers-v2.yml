@@ -12,6 +12,11 @@ on:
         description: "Optional: YouTube URLs to also process (one per line or comma-separated)"
         required: false
         type: string
+      force:
+        description: "Reprocess the extra_videos URLs even if already processed (overwrites their output)"
+        required: false
+        type: boolean
+        default: false
 
 # Serialize every run (cron + manual) so two runs never race on the same
 # per-video files. A newer trigger queues behind the current run.
@@ -45,6 +50,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           EXTRA_VIDEOS: ${{ inputs.extra_videos }}
+          FORCE_REPROCESS: ${{ inputs.force }}
           GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
         run: python pressers_v2/presser_extractor.py
 

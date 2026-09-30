@@ -73,8 +73,13 @@ CLIP RULES (each quote becomes a standalone vertical video clip)
 TEXT
 - "text": the VERBATIM words the speaker says between start_seconds and end_seconds, in order. Remove only "uh", "um" and stuttered repeats ("the the"). Do not paraphrase, summarize, reorder or tidy grammar. This text is burned into the clip as captions, so it must match the audio.
 - PLAYER NAMES: use standard NBA reporting spellings (Mikal Bridges not Michael, Karl-Anthony Towns, Scottie Barnes, Jrue Holiday, Donovan Mitchell, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum, Shai Gilgeous-Alexander, Victor Wembanyama). Apply this to all names across the league.
-- "speaker": full name of the person speaking ("Jalen Brunson", "Joe Mazzulla"), identified from on-screen graphics, the video title, or reporters addressing them by name. If you cannot identify them confidently, use "". Never invent a name. Never write "Unknown".
+- "speaker": SPEAKER NAMING RULE. Only name a speaker if THIS VIDEO identifies them by name: an on-screen name graphic or chyron, the speaker being introduced by name, someone addressing them by name, or the video title naming the single person at the podium. Otherwise write exactly "Unidentified speaker". Do NOT guess from voice, appearance, job title, team, or who "usually" does these pressers. A coach being discussed or quoted by podcast hosts is not the speaker; the host is. Never write "Unknown".
+- "speaker_confidence": "named" when the speaker's name comes from one of the in-video sources listed above; "inferred" in every other case (including "Unidentified speaker"). When in doubt, use "inferred".
+- If speaker_confidence is "inferred", do not name or guess the speaker anywhere else either: "news_angle" and "social_post" must not attribute the quote to a named person.
 - "team": the NBA team the speaker belongs to, full name (e.g. "Boston Celtics"). The channel's team is given above; use it unless the speaker is clearly from another team (e.g. an opposing coach). Use "" if unsure.
+- MULTI-SPEAKER EXCHANGES: when two or more people each contribute more than about 5 words to the same answer or exchange inside the clip (a podcast back-and-forth, a reporter follow-up that the player answers), also fill "text_blocks" with one entry per contribution in order: {"speaker": ..., "speaker_confidence": ..., "text": ...}, applying the same SPEAKER NAMING RULE to each block. "text" must still hold the full verbatim transcript of the whole clip, and "speaker" is the person with the longest contribution. Omit "text_blocks" or leave it empty for single-speaker quotes.
+- "pull_quote": the punchiest standalone line from the quote, at most 15 words, copied WORD FOR WORD from "text" (no paraphrasing, no added words or punctuation). Use "" if nothing works on its own.
+- "names_mentioned": every player, coach or executive named INSIDE "text", spelled exactly as it appears in "text". Exclude team names and the speaker's own name.
 
 EDITORIAL FIELDS
 - "news_angle": one line, at most 15 words, stating the news in the quote as a specific headline-style fact that names the player, team or issue. No em-dashes. Example: "Jalen Brunson says his sprained ankle is fine and he will play Friday".
@@ -92,11 +97,18 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
   "quotes": [
     {
       "rank": 1,
-      "speaker": "full name, or empty string",
+      "speaker": "full name identified in the video, or \\"Unidentified speaker\\"",
+      "speaker_confidence": "named or inferred",
       "team": "full NBA team name, or empty string",
       "start_seconds": 83,
       "end_seconds": 121,
       "text": "verbatim words spoken between start_seconds and end_seconds",
+      "pull_quote": "up to 15 words copied verbatim from text, or empty string",
+      "names_mentioned": ["Evan Mobley"],
+      "text_blocks": [
+        {"speaker": "X", "speaker_confidence": "named", "text": "X's verbatim contribution"},
+        {"speaker": "Unidentified speaker", "speaker_confidence": "inferred", "text": "the other person's verbatim contribution"}
+      ],
       "news_angle": "one-line specific news angle",
       "social_post": "draft social post, one idea, no hashtags, no emojis, no em-dashes"
     }
@@ -224,6 +236,10 @@ def parse_extra_videos_env(raw: str) -> list:
     return [t.strip() for t in re.split(r"[,\s]+", raw) if t.strip()]
 
 
+def env_flag(name: str) -> bool:
+    return (os.getenv(name) or "").strip().lower() in ("1", "true", "yes", "on")
+
+
 def load_config() -> dict:
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -281,11 +297,17 @@ def determine_run_slot() -> str:
     return f"manual-{datetime.now(timezone.utc).strftime('%H%M')}"
 
 
+UNIDENTIFIED_SPEAKER = "Unidentified speaker"
+
+
 def is_unknown_speaker(speaker: str) -> bool:
+    """Ported from yt-quotes' _is_unknown_speaker, plus 'Unidentified ...'."""
     if not speaker:
         return True
     lower = speaker.strip().lower()
-    return lower.startswith("unknown") or lower in ("speaker", "n/a", "none")
+    if lower.startswith("unknown") or lower.startswith("unidentified"):
+        return True
+    return lower in ("speaker", "n/a", "none")
 
 
 # --------------------------------------------------------------------------- #
@@ -371,6 +393,23 @@ def find_existing_artifact(video_id: str) -> Path | None:
             if marker.is_file():
                 return marker
     return None
+
+
+def clear_video_markers(video_id: str) -> list:
+    """Force-rerun helper: delete FAILED / ATTEMPTS / SKIPPED markers for one
+    video so it gets a clean slate. The .md/.json are left in place and are
+    overwritten when the rerun succeeds (kept if it fails)."""
+    cleared = []
+    for day_dir in iter_day_dirs():
+        for name in (f"{video_id}.FAILED.txt", f"{video_id}.ATTEMPTS.txt", f"{video_id}.SKIPPED-too-long"):
+            marker = day_dir / name
+            try:
+                if marker.is_file():
+                    marker.unlink()
+                    cleared.append(f"{day_dir.name}/{name}")
+            except OSError:
+                pass
+    return cleared
 
 
 def _attempts_path(day_dir: Path, video_id: str) -> Path:
@@ -616,13 +655,65 @@ def call_gemini_with_retry(client, url, video_title, team, duration_secs,
 # Quote normalisation
 # --------------------------------------------------------------------------- #
 
+def _clean_ws(value) -> str:
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def resolve_speaker(name, confidence) -> tuple[str, str, str]:
+    """Apply the naming rule. Returns (speaker, speaker_confidence, guess).
+
+    Only an explicit "named" confidence keeps the name. Anything else
+    (inferred, missing, legacy output without the field) becomes
+    "Unidentified speaker"; Gemini's guess is kept separately in the JSON
+    for the editor but never rendered or sent to the clipper."""
+    name = _clean_ws(name)
+    confidence = _clean_ws(confidence).lower()
+    if confidence == "named" and not is_unknown_speaker(name):
+        return name, "named", ""
+    guess = "" if is_unknown_speaker(name) else name
+    return UNIDENTIFIED_SPEAKER, "inferred", guess
+
+
+def scrub_guess(text: str, guess: str) -> str:
+    """Replace a guessed speaker name (full name, or a distinctive surname)
+    with "Unidentified speaker" so it can't slip in via news_angle etc."""
+    if not text or not guess or is_unknown_speaker(guess):
+        return text or ""
+    out = re.sub(re.escape(guess), UNIDENTIFIED_SPEAKER, text, flags=re.IGNORECASE)
+    surname = guess.split()[-1]
+    if len(surname) >= 4:
+        out = re.sub(rf"\b{re.escape(surname)}\b", UNIDENTIFIED_SPEAKER, out, flags=re.IGNORECASE)
+    return out
+
+
+def _loose(text: str) -> str:
+    """Lowercase, letters/digits only, single spaces: for verbatim checks."""
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", (text or "").lower())).strip()
+
+
 def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str) -> dict | None:
     """Coerce one raw Gemini quote into the clip schema, enforcing 15-60s."""
     if not isinstance(q, dict):
         return None
-    text = re.sub(r"\s+", " ", str(q.get("text") or q.get("quote") or "")).strip()
+
+    blocks = []
+    for b in q.get("text_blocks") or []:
+        if not isinstance(b, dict) or not _clean_ws(b.get("text")):
+            continue
+        b_speaker, b_conf, b_guess = resolve_speaker(b.get("speaker"), b.get("speaker_confidence"))
+        block = {"speaker": b_speaker, "speaker_confidence": b_conf, "text": _clean_ws(b.get("text"))}
+        if b_guess:
+            block["speaker_guess"] = b_guess
+        blocks.append(block)
+    if len(blocks) < 2:
+        blocks = []
+
+    text = _clean_ws(q.get("text") or q.get("quote"))
+    if not text and blocks:
+        text = " ".join(b["text"] for b in blocks)
     if not text:
         return None
+
     start = timestamp_to_seconds(q.get("start_seconds", q.get("timestamp", 0))) + offset
     end_raw = q.get("end_seconds")
     end = timestamp_to_seconds(end_raw) + offset if end_raw not in (None, "") else 0
@@ -640,20 +731,38 @@ def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str)
         end = duration_secs
         start = max(0, start - shift)
 
-    speaker = str(q.get("speaker") or "").strip()
-    if is_unknown_speaker(speaker):
-        speaker = ""
-    team = str(q.get("team") or "").strip() or channel_team
-    return {
+    speaker, confidence, guess = resolve_speaker(q.get("speaker"), q.get("speaker_confidence"))
+    team = _clean_ws(q.get("team")) or channel_team
+
+    # pull_quote must be verbatim; drop it rather than put invented words in quotes.
+    pull_quote = _clean_ws(q.get("pull_quote")).strip('"\u201c\u201d ')
+    if pull_quote and (_loose(pull_quote) not in _loose(text) or len(pull_quote.split()) > 20):
+        pull_quote = ""
+
+    names = []
+    for n in q.get("names_mentioned") or []:
+        n = _clean_ws(n)
+        if n and n in text and n != speaker and n not in names:
+            names.append(n)
+
+    out = {
         "rank": q.get("rank"),
         "speaker": speaker,
+        "speaker_confidence": confidence,
         "team": team,
         "start_seconds": int(start),
         "end_seconds": int(end),
         "text": text,
-        "news_angle": strip_dashes(re.sub(r"\s+", " ", str(q.get("news_angle") or "")).strip()),
-        "social_post": clean_social_post(re.sub(r"\s+", " ", str(q.get("social_post") or ""))),
+        "pull_quote": pull_quote,
+        "names_mentioned": names,
+        "news_angle": scrub_guess(strip_dashes(_clean_ws(q.get("news_angle"))), guess),
+        "social_post": scrub_guess(clean_social_post(_clean_ws(q.get("social_post"))), guess),
     }
+    if guess:
+        out["speaker_guess"] = guess
+    if blocks:
+        out["text_blocks"] = blocks
+    return out
 
 
 def finalize_quotes(quotes: list) -> list:
@@ -682,41 +791,101 @@ def finalize_quotes(quotes: list) -> list:
 # Output
 # --------------------------------------------------------------------------- #
 
+def md_link(url: str) -> str:
+    """Explicit [url](url) link: kramdown on GitHub Pages doesn't auto-link
+    bare URLs. Only used for URLs this script builds from a validated ID."""
+    return f"[{url}]({url})"
+
+
+def _bold_names(text: str, names: list) -> str:
+    """Ported verbatim from yt-quotes. Wrap every occurrence of each name in
+    **bold**, longest names first so "LeBron James" bolds as one unit.
+    Callers pass already-escaped text and names so the match still lines up."""
+    valid = [n for n in (names or []) if isinstance(n, str) and n.strip()]
+    if not valid or not text:
+        return text or ""
+    sorted_names = sorted(set(valid), key=len, reverse=True)
+    pattern = "|".join(re.escape(n) for n in sorted_names)
+    return re.sub(pattern, lambda m: f"**{m.group(0)}**", text)
+
+
+def _named_speakers(data: dict) -> list:
+    """Speakers confirmed by name in the video, in order. Used for the
+    "Speakers identified" line so a guessed name never reaches the digest."""
+    out = []
+    for q in data.get("quotes", []):
+        entries = [q] + list(q.get("text_blocks") or [])
+        for e in entries:
+            name = e.get("speaker") or ""
+            if e.get("speaker_confidence") == "named" and not is_unknown_speaker(name) and name not in out:
+                out.append(name)
+    return out
+
+
 def to_markdown(video: dict, team: str, data: dict) -> str:
-    """Same layout as yt-quotes: header line with timestamp link, quote body,
-    then the timestamped URL as the LAST line of each quote block. All
-    fetched text is escaped (see md_escape)."""
+    """Port of yt-quotes' to_markdown. Same structure:
+
+        # Title — *Team*
+        Source: <link>
+        _Speakers identified: ..._
+        **N. Speaker (Team) — "pull quote" — summary** [MM:SS](link)
+        Speaker: "quote with **names** bolded"   (or **Speaker:** "..." per block)
+        <timestamped link as the last line>
+
+    Differences from yt-quotes: team in the header, every URL is an explicit
+    markdown link, and all fetched text goes through md_escape (HTML/Liquid)."""
     vid = video["video_id"]
     url = WATCH_URL_TEMPLATE.format(video_id=vid)
     title = data.get("video_title") or video.get("title") or "NBA press conference"
-    lines = [f"# {md_escape(title)} — *{md_escape(team)}*", "", f"Source: {url}", ""]
-    speakers_seen = [s for s in (data.get("speakers_seen") or []) if isinstance(s, str) and s.strip()]
-    if speakers_seen:
-        lines.append(f"_Speakers identified: {md_escape(', '.join(speakers_seen))}_")
+    lines = [
+        f"# {md_escape(title)} — *{md_escape(team)}*",
+        "",
+        f"Source: {md_link(url)}",
+        "",
+    ]
+    named = _named_speakers(data)
+    if named:
+        lines.append(f"_Speakers identified: {md_escape(', '.join(named))}_")
         lines.append("")
     for q in data.get("quotes", []):
-        start, end = q["start_seconds"], q["end_seconds"]
-        ts_link = f"https://www.youtube.com/watch?v={vid}&t={start}s"
-        ts_label = seconds_to_timestamp(start)
-        speaker = md_escape(q.get("speaker") or "")
+        secs = int(q.get("start_seconds") or 0)
+        ts_link = f"https://www.youtube.com/watch?v={vid}&t={secs}s"
+        ts_label = seconds_to_timestamp(secs)
+        rank = q.get("rank", "?")
+        is_named = q.get("speaker_confidence") == "named" and not is_unknown_speaker(q.get("speaker") or "")
+        speaker = md_escape(q.get("speaker")) if is_named else UNIDENTIFIED_SPEAKER
         q_team = md_escape(q.get("team") or "")
-        angle = md_escape(q.get("news_angle") or "")
-        who = f"{speaker} ({q_team})" if speaker and q_team else (speaker or q_team)
-        fragments = [f for f in (who, angle) if f]
+        guess = "" if is_named else (q.get("speaker_guess") or q.get("speaker") or "")
+        summary = md_escape(scrub_guess(q.get("news_angle") or "", guess))
+        excerpt = md_escape(q.get("pull_quote") or "")
+        # Header: **N. Speaker (Team) — "pull quote" — summary** [MM:SS](url).
+        # Team only for a named speaker: an unidentified voice on a team
+        # channel may be a host or reporter, not a team member.
+        fragments = [f"{speaker} ({q_team})" if is_named and q_team else speaker]
+        if excerpt:
+            fragments.append(f'"{excerpt}"')
+        if summary:
+            fragments.append(summary)
         inner = " — ".join(fragments)
-        header = f"**{q['rank']}. {inner}** [{ts_label}]({ts_link})" if inner else \
-                 f"**{q['rank']}.** [{ts_label}]({ts_link})"
-        lines.append(header)
+        lines.append(f"**{rank}. {inner}** [{ts_label}]({ts_link})")
         lines.append("")
-        body = md_escape(q.get("text") or "")
-        lines.append(f"{speaker}: \"{body}\"" if speaker else f"\"{body}\"")
+        names = [md_escape(n) for n in (q.get("names_mentioned") or [])]
+        blocks = q.get("text_blocks") or []
+        if blocks:
+            for j, block in enumerate(blocks):
+                block_named = block.get("speaker_confidence") == "named" and \
+                    not is_unknown_speaker(block.get("speaker") or "")
+                block_speaker = md_escape(block.get("speaker")) if block_named else UNIDENTIFIED_SPEAKER
+                bolded = _bold_names(md_escape(block.get("text") or ""), names)
+                lines.append(f"**{block_speaker}:** \"{bolded}\"")
+                if j < len(blocks) - 1:
+                    lines.append("")  # blank line -> markdown paragraph break
+        else:
+            bolded = _bold_names(md_escape(q.get("text") or ""), names)
+            lines.append(f"{speaker}: \"{bolded}\"")
+        # Timestamped URL as the LAST line of the quote block, as a link.
         lines.append("")
-        lines.append(f"_Clip: {ts_label}-{seconds_to_timestamp(end)} ({end - start}s)_")
-        if q.get("social_post"):
-            lines.append("")
-            lines.append(f"Social: {md_escape(q['social_post'])}")
-        lines.append("")
-        lines.append(ts_link)
+        lines.append(md_link(ts_link))
         lines.append("")
     return "\n".join(lines)
 
@@ -805,6 +974,7 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=window_hours)
     clips = []
+    skipped_unnamed = 0
     for day_dir in iter_day_dirs():
         for js in day_dir.glob("*.json"):
             if not VIDEO_ID_RE.match(js.stem):
@@ -819,6 +989,12 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
                 continue
             vid = js.stem
             for q in data.get("quotes") or []:
+                # The clipper burns "speaker" into a lower third, so only
+                # speakers named in the video itself make it into the
+                # manifest. Legacy JSON without the field is excluded too.
+                if q.get("speaker_confidence") != "named" or is_unknown_speaker(q.get("speaker") or ""):
+                    skipped_unnamed += 1
+                    continue
                 try:
                     start, end = int(q["start_seconds"]), int(q["end_seconds"])
                 except (KeyError, TypeError, ValueError):
@@ -841,8 +1017,13 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
                     "channel_team": data.get("channel_team") or "",
                     "published": data.get("published") or "",
                     "publish_date": day_dir.name,
+                    # Added fields (existing ones above are the clipper's contract).
+                    "speaker_confidence": q.get("speaker_confidence") or "",
+                    "pull_quote": q.get("pull_quote") or "",
                 })
     clips.sort(key=lambda c: (c["published"], -(c["rank"] or 0)), reverse=True)
+    if skipped_unnamed:
+        log(f"[clips] left out {skipped_unnamed} quote(s) without a speaker named in the video")
     return {
         "generated_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "run_slot": run_slot,
@@ -1160,12 +1341,14 @@ def main() -> int:
         return 2
 
     # Step 2: one-offs from EXTRA_VIDEOS (workflow_dispatch). They bypass the
-    # title / age / duration / already-processed filters because they were
-    # explicitly requested; they're re-processed and overwrite prior output.
+    # title / age / duration filters because they were explicitly requested.
+    # Already-processed videos are skipped unless FORCE_REPROCESS is true, in
+    # which case their markers are cleared and their output is overwritten.
     extra_queue, extra_ids = [], set()
     extra_tokens = parse_extra_videos_env(os.getenv("EXTRA_VIDEOS", ""))
+    force = env_flag("FORCE_REPROCESS")
     if extra_tokens:
-        log(f"One-off input: {len(extra_tokens)} token(s) from EXTRA_VIDEOS")
+        log(f"One-off input: {len(extra_tokens)} token(s) from EXTRA_VIDEOS (force={force})")
         ids = []
         for token in extra_tokens:
             vid = extract_one_off_video_id(token)
@@ -1186,6 +1369,15 @@ def main() -> int:
             if not m:
                 log(f"  [oneoff] skip {vid}: no metadata returned (private/deleted/invalid?)")
                 continue
+            existing = find_existing_artifact(vid)
+            if existing and not force:
+                log(f"  [oneoff] skip {vid}: already processed ({existing.parent.name}/{existing.name}); "
+                    "run with force to reprocess")
+                continue
+            if existing:
+                cleared = clear_video_markers(vid)
+                log(f"  [oneoff] force: reprocessing {vid}, overwriting prior output"
+                    + (f" (cleared {', '.join(cleared)})" if cleared else ""))
             team = team_by_channel_id.get(m.get("channel_id")) or m.get("channel_title") or "(one-off)"
             extra_queue.append((team, {
                 "video_id": vid,
