@@ -1,5 +1,5 @@
 {
-  "_comment": "Edit this file to tune the pressers_v2 pipeline without touching code. Channel IDs copied from scripts/ingest.py NBA_CHANNELS.",
+  "_comment": "Edit this file to tune the pressers_v2 pipeline without touching code. Channel IDs verified by pressers_v2/check_channels.py (runs on PRs that change this file).",
   "window_hours": 48,
   "min_duration_seconds": 60,
   "max_duration_secs": 2700,
@@ -87,13 +87,8 @@
     },
     {
       "team": "Detroit Pistons",
-      "channel_id": "UC-z5VCIFLG6tximfWzzlSSQ",
-      "active": true,
-      "handle_candidates": [
-        "@pistons",
-        "@DetroitPistons",
-        "@detroitpistonsofficial"
-      ]
+      "channel_id": "UCtcSBo9EzOtXHxiPhU6RN8A",
+      "active": true
     },
     {
       "team": "Golden State Warriors",
@@ -172,13 +167,8 @@
     },
     {
       "team": "Portland Trail Blazers",
-      "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
-      "active": true,
-      "handle_candidates": [
-        "@trailblazers",
-        "@PortlandTrailBlazers",
-        "@blazers"
-      ]
+      "channel_id": "UCXk66yyzXo7-2M1BMqLhltQ",
+      "active": true
     },
     {
       "team": "Sacramento Kings",
