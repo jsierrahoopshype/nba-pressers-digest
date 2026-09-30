@@ -2,6 +2,7 @@
   "_comment": "Edit this file to tune the pressers_v2 pipeline without touching code. Channel IDs copied from scripts/ingest.py NBA_CHANNELS.",
   "window_hours": 48,
   "min_duration_seconds": 60,
+  "max_duration_secs": 2700,
   "max_videos_per_run": 30,
   "max_videos_per_channel_per_run": 6,
   "recent_uploads_per_channel": 25,
@@ -57,12 +58,20 @@
     {
       "team": "Brooklyn Nets",
       "channel_id": "UCL7XnFZqcLjRHiS4xX4_vgA",
-      "active": true
+      "active": true,
+      "handle_candidates": [
+        "@BrooklynNets",
+        "@nets"
+      ]
     },
     {
       "team": "Charlotte Hornets",
       "channel_id": "UCiKXa2hObEziEZFkFx08i9A",
-      "active": true
+      "active": true,
+      "handle_candidates": [
+        "@hornets",
+        "@CharlotteHornets"
+      ]
     },
     {
       "team": "Chicago Bulls",
@@ -192,7 +201,12 @@
     {
       "team": "Washington Wizards",
       "channel_id": "UCT5g1W7HHYiG8wOZEYgYXLw",
-      "active": true
+      "active": true,
+      "handle_candidates": [
+        "@WashWizards",
+        "@washingtonwizards",
+        "@wizards"
+      ]
     }
   ]
 }
