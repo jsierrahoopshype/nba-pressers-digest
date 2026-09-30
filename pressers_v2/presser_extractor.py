@@ -30,12 +30,15 @@ import sys
 import threading
 import time
 import traceback
+import unicodedata
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
+
+import caption_align
 from google import genai
 from google.genai import types
 
@@ -64,16 +67,16 @@ WHAT TO PICK
 
 CLIP RULES (each quote becomes a standalone vertical video clip)
 - Each quote is ONE contiguous span of a single speaker answering. Never stitch separate passages together.
-- "start_seconds": the second the speaker starts the first word of the quote (not the reporter's question).
-- "end_seconds": the second the speaker finishes the last word of the quote.
-- end_seconds minus start_seconds MUST be between 15 and 60. If a great line is shorter than 15 seconds, extend the span to include the neighbouring sentences of the same answer so the clip makes sense on its own. If the answer runs longer than 60 seconds, pick the strongest self-contained 15-60 second stretch.
+- "timestamp": the start timestamp in MM:SS or H:MM:SS format pointing at the moment the speaker says the first word of the quote (not the reporter's question).
+- "end_timestamp": MM:SS or H:MM:SS of the moment the speaker finishes the last word of the quote.
+- Aim for 15-60 seconds between the two. If a great line is shorter than 15 seconds, include the neighbouring sentences of the same answer so the clip makes sense on its own. If the answer runs longer than 60 seconds, pick the strongest self-contained stretch.
 - Self-contained: a viewer with zero context must understand the clip. Start at the beginning of a sentence and end at the end of a sentence.
-- Timestamps are integers in seconds from the start of the video (or of the slice, see CHUNK CONTEXT if present). Be precise; the clip is cut from these numbers.
+- Timestamps are relative to the start of the video (or of the slice, see CHUNK CONTEXT if present). The "text" must be exactly what is said between the two timestamps.
 
 TEXT
-- "text": the VERBATIM words the speaker says between start_seconds and end_seconds, in order. Remove only "uh", "um" and stuttered repeats ("the the"). Do not paraphrase, summarize, reorder or tidy grammar. This text is burned into the clip as captions, so it must match the audio.
+- "text": the VERBATIM words the speaker says between timestamp and end_timestamp, in order. Remove only "uh", "um" and stuttered repeats ("the the"). Do not paraphrase, summarize, reorder or tidy grammar. This text is burned into the clip as captions, so it must match the audio.
 - PLAYER NAMES: use standard NBA reporting spellings (Mikal Bridges not Michael, Karl-Anthony Towns, Scottie Barnes, Jrue Holiday, Donovan Mitchell, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum, Shai Gilgeous-Alexander, Victor Wembanyama). Apply this to all names across the league.
-- "speaker": SPEAKER NAMING RULE. Only name a speaker if THIS VIDEO identifies them by name: an on-screen name graphic or chyron, the speaker being introduced by name, someone addressing them by name, or the video title naming the single person at the podium. Otherwise write exactly "Unidentified speaker". Do NOT guess from voice, appearance, job title, team, or who "usually" does these pressers. A coach being discussed or quoted by podcast hosts is not the speaker; the host is. Never write "Unknown".
+- "speaker": SPEAKER NAMING RULE. Only name a speaker if THIS VIDEO identifies them by name: an on-screen name graphic or chyron, the speaker being introduced by name, someone addressing them by name, or the video title naming the single person at the podium (e.g. "James Harden Media Availability": James Harden is the podium speaker, so his quotes are "named"; "Coach Nurse" in a title names Nick Nurse). Otherwise write exactly "Unidentified speaker". Do NOT guess from voice, appearance, job title, team, or who "usually" does these pressers. A coach being discussed or quoted by podcast hosts is not the speaker; the host is. Never write "Unknown".
 - "speaker_confidence": "named" when the speaker's name comes from one of the in-video sources listed above; "inferred" in every other case (including "Unidentified speaker"). When in doubt, use "inferred".
 - If speaker_confidence is "inferred", do not name or guess the speaker anywhere else either: "news_angle" and "social_post" must not attribute the quote to a named person.
 - "team": the NBA team the speaker belongs to, full name (e.g. "Boston Celtics"). The channel's team is given above; use it unless the speaker is clearly from another team (e.g. an opposing coach). Use "" if unsure.
@@ -82,6 +85,7 @@ TEXT
 - "names_mentioned": every player, coach or executive named INSIDE "text", spelled exactly as it appears in "text". Exclude team names and the speaker's own name.
 
 EDITORIAL FIELDS
+- "news_score": integer 1-10 for how newsworthy the quote is for an NBA news site. 9-10: injury news, trade or contract news, a public complaint or major admission. 6-8: specific role, rotation or strategy news, strong opinion on a named player or team. 3-5: interesting but soft. 1-2: generic. Be strict; most quotes are 3-6.
 - "news_angle": one line, at most 15 words, stating the news in the quote as a specific headline-style fact that names the player, team or issue. No em-dashes. Example: "Jalen Brunson says his sprained ankle is fine and he will play Friday".
 - "social_post": a draft post for X / Bluesky, at most 240 characters. ONE idea only. Lead with the news, punchy and conversational; it may include a short verbatim phrase from the quote in quotation marks. Rules: NO hashtags, NO emojis, NO em-dashes or en-dashes (use commas or periods), no "BREAKING", no vague clickbait, do not state anything the speaker did not say.
 
@@ -100,9 +104,10 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
       "speaker": "full name identified in the video, or \\"Unidentified speaker\\"",
       "speaker_confidence": "named or inferred",
       "team": "full NBA team name, or empty string",
-      "start_seconds": 83,
-      "end_seconds": 121,
-      "text": "verbatim words spoken between start_seconds and end_seconds",
+      "timestamp": "01:23",
+      "end_timestamp": "02:01",
+      "text": "verbatim words spoken between timestamp and end_timestamp",
+      "news_score": 6,
       "pull_quote": "up to 15 words copied verbatim from text, or empty string",
       "names_mentioned": ["Evan Mobley"],
       "text_blocks": [
@@ -165,6 +170,13 @@ _CAP_ELIGIBLE_FAILURES = frozenset({"failed-timeout", "failed-hallucination", "f
 _spending_cap_hit = threading.Event()
 _transient_overload_hit = threading.Event()
 _deferred_items: list = []
+
+# Identifies the run that processed a video; the clipper's default pick-list
+# is the latest run's clips. Set in main().
+RUN_ID = ""
+# Set once the digest, manifest and Slack payload are on disk. If the
+# watchdog fires after that, the run's work is done and it exits 0.
+_outputs_written = threading.Event()
 
 
 # --------------------------------------------------------------------------- #
@@ -550,8 +562,8 @@ def call_gemini(client, url: str, video_title: str, team: str, duration_secs: in
         parts.append(
             f"CHUNK CONTEXT: this is one slice of a longer video, covering seconds "
             f"{start_offset_secs} through {end_offset_secs} (relative to the original). "
-            f"Return start_seconds / end_seconds relative to the slice (0 = the slice's "
-            f"first second). The pipeline will translate them to absolute times."
+            f"Return timestamps relative to the slice (start at 0:00 = the slice's "
+            f"first second). The pipeline will translate them to absolute timestamps."
         )
     prefixed_prompt = "\n\n".join(parts) + "\n\n" + PROMPT
     video_part = types.Part.from_uri(file_uri=url, mime_type="video/mp4")
@@ -659,16 +671,35 @@ def _clean_ws(value) -> str:
     return re.sub(r"\s+", " ", str(value or "")).strip()
 
 
-def resolve_speaker(name, confidence) -> tuple[str, str, str]:
+def _name_tokens(text: str) -> list:
+    t = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode("ascii").lower()
+    return re.findall(r"[a-z0-9]+", t)
+
+
+def title_names_speaker(title: str, name: str) -> bool:
+    """True when the video title itself names this person: the full name
+    ("James Harden Media Availability") or, for a 2+ word name, a surname
+    of 4+ letters ("Coach Nurse" -> Nick Nurse). Accents and case ignored."""
+    name_toks = _name_tokens(name)
+    title_toks = _name_tokens(title)
+    if not name_toks or not title_toks or is_unknown_speaker(name):
+        return False
+    n = len(name_toks)
+    if any(title_toks[i:i + n] == name_toks for i in range(len(title_toks) - n + 1)):
+        return True
+    return n >= 2 and len(name_toks[-1]) >= 4 and name_toks[-1] in title_toks
+
+
+def resolve_speaker(name, confidence, title: str = "") -> tuple[str, str, str]:
     """Apply the naming rule. Returns (speaker, speaker_confidence, guess).
 
-    Only an explicit "named" confidence keeps the name. Anything else
-    (inferred, missing, legacy output without the field) becomes
-    "Unidentified speaker"; Gemini's guess is kept separately in the JSON
-    for the editor but never rendered or sent to the clipper."""
+    An explicit "named" confidence keeps the name, and so does a name the
+    video title itself contains (single-subject availabilities). Anything
+    else becomes "Unidentified speaker"; Gemini's guess is kept separately in
+    the JSON for the editor but never rendered or sent to the clipper."""
     name = _clean_ws(name)
     confidence = _clean_ws(confidence).lower()
-    if confidence == "named" and not is_unknown_speaker(name):
+    if not is_unknown_speaker(name) and (confidence == "named" or title_names_speaker(title, name)):
         return name, "named", ""
     guess = "" if is_unknown_speaker(name) else name
     return UNIDENTIFIED_SPEAKER, "inferred", guess
@@ -691,8 +722,10 @@ def _loose(text: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", (text or "").lower())).strip()
 
 
-def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str) -> dict | None:
-    """Coerce one raw Gemini quote into the clip schema, enforcing 15-60s."""
+def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str,
+                    title: str = "") -> dict | None:
+    """Coerce one raw Gemini quote into the clip schema. Gemini's times are
+    kept as given (never shifted); caption alignment may replace them later."""
     if not isinstance(q, dict):
         return None
 
@@ -700,7 +733,7 @@ def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str)
     for b in q.get("text_blocks") or []:
         if not isinstance(b, dict) or not _clean_ws(b.get("text")):
             continue
-        b_speaker, b_conf, b_guess = resolve_speaker(b.get("speaker"), b.get("speaker_confidence"))
+        b_speaker, b_conf, b_guess = resolve_speaker(b.get("speaker"), b.get("speaker_confidence"), title)
         block = {"speaker": b_speaker, "speaker_confidence": b_conf, "text": _clean_ws(b.get("text"))}
         if b_guess:
             block["speaker_guess"] = b_guess
@@ -714,24 +747,22 @@ def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str)
     if not text:
         return None
 
-    start = timestamp_to_seconds(q.get("start_seconds", q.get("timestamp", 0))) + offset
-    end_raw = q.get("end_seconds")
+    # MM:SS "timestamp"/"end_timestamp" (yt-quotes style); integer
+    # start_seconds/end_seconds accepted as a fallback.
+    start = timestamp_to_seconds(q.get("timestamp", q.get("start_seconds", 0))) + offset
+    end_raw = q.get("end_timestamp", q.get("end_seconds"))
     end = timestamp_to_seconds(end_raw) + offset if end_raw not in (None, "") else 0
-    if end <= start:
-        est = int(round(len(text.split()) / WORDS_PER_SECOND))
-        end = start + max(MIN_CLIP_SECS, min(MAX_CLIP_SECS, est))
-    length = end - start
-    if length < MIN_CLIP_SECS:
-        end = start + MIN_CLIP_SECS
-    elif length > MAX_CLIP_SECS:
-        end = start + MAX_CLIP_SECS
-    if duration_secs and end > duration_secs:
-        # Keep the clip length by sliding it back from the end of the video.
-        shift = end - duration_secs
-        end = duration_secs
-        start = max(0, start - shift)
+    est = max(MIN_CLIP_SECS, min(MAX_CLIP_SECS, int(round(len(text.split()) / WORDS_PER_SECOND))))
+    # Only the END is repaired when it's missing or absurd. The start is never
+    # moved: sliding it (as the first version did at the end of a video)
+    # pointed links at the wrong moment.
+    if end <= start or end - start > 2 * MAX_CLIP_SECS:
+        end = start + est
+    if duration_secs:
+        start = min(start, max(0, duration_secs - 1))
+        end = min(end, duration_secs)
 
-    speaker, confidence, guess = resolve_speaker(q.get("speaker"), q.get("speaker_confidence"))
+    speaker, confidence, guess = resolve_speaker(q.get("speaker"), q.get("speaker_confidence"), title)
     team = _clean_ws(q.get("team")) or channel_team
 
     # pull_quote must be verbatim; drop it rather than put invented words in quotes.
@@ -752,8 +783,12 @@ def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str)
         "team": team,
         "start_seconds": int(start),
         "end_seconds": int(end),
+        "gemini_start_seconds": int(start),
+        "gemini_end_seconds": int(end),
+        "timestamp_source": "gemini-approx",
         "text": text,
         "pull_quote": pull_quote,
+        "news_score": _news_score(q.get("news_score")),
         "names_mentioned": names,
         "news_angle": scrub_guess(strip_dashes(_clean_ws(q.get("news_angle"))), guess),
         "social_post": scrub_guess(clean_social_post(_clean_ws(q.get("social_post"))), guess),
@@ -763,6 +798,13 @@ def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str)
     if blocks:
         out["text_blocks"] = blocks
     return out
+
+
+def _news_score(value) -> int | None:
+    try:
+        return max(1, min(10, int(round(float(value)))))
+    except (TypeError, ValueError):
+        return None
 
 
 def finalize_quotes(quotes: list) -> list:
@@ -867,7 +909,9 @@ def to_markdown(video: dict, team: str, data: dict) -> str:
         if summary:
             fragments.append(summary)
         inner = " — ".join(fragments)
-        lines.append(f"**{rank}. {inner}** [{ts_label}]({ts_link})")
+        # Times not confirmed against captions are flagged for the editor.
+        approx = "" if q.get("timestamp_source") == "captions" else " (approx.)"
+        lines.append(f"**{rank}. {inner}** [{ts_label}]({ts_link}){approx}")
         lines.append("")
         names = [md_escape(n) for n in (q.get("names_mentioned") or [])]
         blocks = q.get("text_blocks") or []
@@ -967,6 +1011,68 @@ def write_digest_file(date_str: str, output_filename: str, video_ids: list | Non
     return digest_path
 
 
+def _upgrade_quote(q: dict, title: str) -> bool:
+    """Bring one stored quote up to the current speaker rules. Returns True
+    if it changed. Legacy quotes (no speaker_confidence) are judged by the
+    title rule only; inferred quotes whose guess the title names are
+    promoted."""
+    changed = False
+    if "speaker_confidence" not in q:
+        speaker, conf, guess = resolve_speaker(q.get("speaker"), None, title)
+        q["speaker"], q["speaker_confidence"] = speaker, conf
+        if guess:
+            q["speaker_guess"] = guess
+            q["news_angle"] = scrub_guess(q.get("news_angle") or "", guess)
+            q["social_post"] = scrub_guess(q.get("social_post") or "", guess)
+        changed = True
+    elif q.get("speaker_confidence") != "named" and title_names_speaker(title, q.get("speaker_guess") or ""):
+        q["speaker"], q["speaker_confidence"] = q.pop("speaker_guess"), "named"
+        changed = True
+    if changed:
+        q.setdefault("pull_quote", "")
+        q.setdefault("names_mentioned", [])
+        q.setdefault("timestamp_source", "gemini-approx")
+        q.setdefault("gemini_start_seconds", q.get("start_seconds"))
+        q.setdefault("gemini_end_seconds", q.get("end_seconds"))
+    return changed
+
+
+def backfill_legacy_speakers(cutoff: datetime) -> None:
+    """One pass over stored videos inside the manifest window: apply the
+    current speaker rules to quotes written by older versions, then
+    re-render their .md and the day's aggregate digest. No Gemini calls.
+    Idempotent: files already up to date are left untouched."""
+    touched_dates, upgraded, promoted_named = set(), 0, 0
+    for day_dir in iter_day_dirs():
+        for js in day_dir.glob("*.json"):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            pub = parse_iso(data.get("published") or "")
+            processed = parse_iso(data.get("processed_at") or "")
+            if not any(t and t >= cutoff for t in (pub, processed)):
+                continue
+            title = data.get("video_title") or ""
+            changed = [q for q in data.get("quotes") or [] if _upgrade_quote(q, title)]
+            if not changed:
+                continue
+            upgraded += len(changed)
+            promoted_named += sum(1 for q in changed if q["speaker_confidence"] == "named")
+            data["speakers_backfilled_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            atomic_write(js, json.dumps(data, ensure_ascii=False, indent=2))
+            video = {"video_id": js.stem, "title": title}
+            atomic_write(day_dir / f"{js.stem}.md", to_markdown(video, data.get("channel_team") or "", data))
+            touched_dates.add(day_dir.name)
+    for d in sorted(touched_dates):
+        write_digest_file(d, "digest.md", video_ids=None)
+    if upgraded:
+        log(f"[backfill] applied current speaker rules to {upgraded} stored quote(s) "
+            f"({promoted_named} named via video title) across {len(touched_dates)} day(s)")
+
+
 def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
     """Rolling manifest of every clip from videos published OR processed in
     the last window_hours, rebuilt from the per-video JSON on disk so a run
@@ -1020,12 +1126,23 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
                     # Added fields (existing ones above are the clipper's contract).
                     "speaker_confidence": q.get("speaker_confidence") or "",
                     "pull_quote": q.get("pull_quote") or "",
+                    "news_score": q.get("news_score"),
+                    "timestamp_source": q.get("timestamp_source") or "gemini-approx",
+                    "align_score": q.get("align_score"),
+                    "gemini_start_seconds": q.get("gemini_start_seconds", start),
+                    "gemini_end_seconds": q.get("gemini_end_seconds", end),
+                    "run_id": data.get("run_id") or "",
+                    "processed_at": data.get("processed_at") or "",
                 })
     clips.sort(key=lambda c: (c["published"], -(c["rank"] or 0)), reverse=True)
     if skipped_unnamed:
         log(f"[clips] left out {skipped_unnamed} quote(s) without a speaker named in the video")
+    # The clipper's default pick-list is "the most recent run that produced
+    # clips": the run_id of the most recently processed clip.
+    latest = max(clips, key=lambda c: c["processed_at"], default=None)
     return {
         "generated_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "latest_run_id": latest["run_id"] if latest else "",
         "run_slot": run_slot,
         "window_hours": window_hours,
         "count": len(clips),
@@ -1038,6 +1155,82 @@ def write_clip_manifest(manifest: dict) -> None:
     atomic_write(LATEST_CLIPS_PATH, content)
     atomic_write(CLIPS_ARCHIVE_DIR / f"{manifest['generated_at'][:10]}.json", content)
     log(f"[clips] wrote {manifest['count']} clip(s) to {LATEST_CLIPS_PATH.relative_to(ROOT.parent)}")
+
+
+# --------------------------------------------------------------------------- #
+# Caption alignment (cloud). GitHub runner IPs are often blocked by YouTube;
+# after the first block we stop trying for the rest of the run.
+# --------------------------------------------------------------------------- #
+
+_captions_blocked = threading.Event()
+CAPTION_TIMEOUT_SECS = 20
+
+
+class _TimeoutSession(requests.Session):
+    """requests.Session with a default timeout, so a stuck caption fetch
+    can't hang a worker thread (youtube-transcript-api sets none)."""
+
+    def request(self, *args, **kwargs):
+        kwargs.setdefault("timeout", CAPTION_TIMEOUT_SECS)
+        return super().request(*args, **kwargs)
+
+
+def fetch_caption_words(video_id: str) -> tuple[list, str]:
+    """Return ([(start, end, token)], status). status is "ok",
+    "unavailable" (no English track) or "blocked"/"error: ..."."""
+    if _captions_blocked.is_set():
+        return [], "blocked"
+    try:
+        from youtube_transcript_api import YouTubeTranscriptApi
+    except ImportError:
+        return [], "error: youtube-transcript-api not installed"
+    languages = ["en", "en-US", "en-GB"]
+    try:
+        try:
+            api = YouTubeTranscriptApi(http_client=_TimeoutSession())
+            fetched = api.fetch(video_id, languages=languages)
+            segments = [(sn.start, sn.duration, sn.text) for sn in fetched]
+        except TypeError:
+            # pre-1.0 releases: static get_transcript
+            raw = YouTubeTranscriptApi.get_transcript(video_id, languages=languages)
+            segments = [(r["start"], r["duration"], r["text"]) for r in raw]
+    except Exception as e:
+        name = type(e).__name__
+        if name in ("RequestBlocked", "IpBlocked", "TooManyRequests") or "blocked" in str(e).lower():
+            _captions_blocked.set()
+            return [], "blocked"
+        if name in ("NoTranscriptFound", "TranscriptsDisabled", "VideoUnavailable"):
+            return [], "unavailable"
+        if isinstance(e, requests.RequestException):
+            # Network-level failure (proxy, timeout, reset): same as a block
+            # for this run's purposes; don't pay for it on every video.
+            _captions_blocked.set()
+        return [], f"error: {name}"
+    return caption_align.words_from_segments(segments), "ok"
+
+
+def align_to_captions(video_id: str, quotes: list) -> str:
+    """Replace Gemini's times with caption-aligned ones where the match is
+    confident. Each quote gets timestamp_source "captions" or "gemini-approx"
+    and, when aligned, align_score. Returns the caption fetch status."""
+    words, status = fetch_caption_words(video_id)
+    aligned = 0
+    for q in quotes:
+        q["timestamp_source"] = "gemini-approx"
+        if not words:
+            continue
+        hit = caption_align.align_quote(q["text"], words, hint_start=q["gemini_start_seconds"])
+        if hit and hit["score"] >= caption_align.MIN_ALIGN_SCORE:
+            q["start_seconds"] = int(hit["start"])            # floor: never cut the first word
+            q["end_seconds"] = int(math.ceil(hit["end"]))
+            q["timestamp_source"] = "captions"
+            q["align_score"] = hit["score"]
+            aligned += 1
+        elif hit:
+            q["align_score"] = hit["score"]
+    if words:
+        status = f"ok ({aligned}/{len(quotes)} aligned)"
+    return status
 
 
 # --------------------------------------------------------------------------- #
@@ -1100,7 +1293,8 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
                     f"expected {expected_title!r}, got {echoed!r}; skipping chunk")
                 break
             offset = start_off or 0
-            quotes = [normalize_quote(q, offset, duration_secs, team) for q in (data.get("quotes") or [])]
+            quotes = [normalize_quote(q, offset, duration_secs, team, expected_title)
+                      for q in (data.get("quotes") or [])]
             data["quotes"] = [q for q in quotes if q]
             chunk_results.append(data)
             break
@@ -1117,6 +1311,7 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
         "published": video.get("published") or "",
         "duration_seconds": duration_secs,
         "processed_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "run_id": RUN_ID,
         "model": MODEL,
         "speakers_seen": [],
         "quotes": [],
@@ -1129,7 +1324,8 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
                 merged["speakers_seen"].append(s)
         merged["quotes"].extend(d["quotes"])
     merged["quotes"] = finalize_quotes(merged["quotes"])
-    log(f"  {video_id}: {len(merged['quotes'])} quote(s) after normalisation")
+    merged["caption_status"] = align_to_captions(video_id, merged["quotes"])
+    log(f"  {video_id}: {len(merged['quotes'])} quote(s) after normalisation; captions: {merged['caption_status']}")
     write_outputs(video, team, merged)
     return "ok", merged
 
@@ -1174,7 +1370,7 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
                 log(f"    {line}")
             status, data = "failed-other", None
     finally:
-        inner_pool.shutdown(wait=False)
+        inner_pool.shutdown(wait=False, cancel_futures=True)
 
     if status == "ok":
         md_path = day_dir / f"{video_id}.md"
@@ -1222,8 +1418,13 @@ def filter_video(video: dict, config: dict, cutoff: datetime) -> str:
     if video.get("live") in ("live", "upcoming"):
         return f"livestream is {video['live']}"
     min_secs = int(config.get("min_duration_seconds", 60))
-    if int(video.get("duration") or 0) < min_secs:
-        return f"duration {video.get('duration')}s below {min_secs}s minimum"
+    duration = int(video.get("duration") or 0)
+    if duration < min_secs:
+        return f"duration {duration}s below {min_secs}s minimum"
+    max_secs = int(config.get("max_duration_secs", 2700))
+    if max_secs and duration > max_secs:
+        return (f"duration {duration}s over max_duration_secs {max_secs}s (Gemini cost cap; "
+                "pass the URL in extra_videos to process it anyway)")
     return ""
 
 
@@ -1237,19 +1438,29 @@ def title_filter(title: str, config: dict) -> str:
     return ""
 
 
+def _flush_std() -> None:
+    try:
+        sys.stdout.flush()
+        sys.stderr.flush()
+    except Exception:
+        pass
+
+
 def install_script_timeout() -> None:
     if not hasattr(signal, "SIGALRM"):
         log("signal.SIGALRM not available on this platform; script-level timeout disabled")
         return
 
     def _handler(signum, frame):
-        log(f"[timeout] script-level {SCRIPT_TIMEOUT_SECS // 60}min budget exceeded, exiting with partial output")
-        try:
-            sys.stdout.flush()
-            sys.stderr.flush()
-        except Exception:
-            pass
-        os._exit(3)
+        if _outputs_written.is_set():
+            log(f"[timeout] WARNING: {SCRIPT_TIMEOUT_SECS // 60}min watchdog fired after all outputs "
+                "were written (a background thread was still alive); exiting 0")
+            code = 0
+        else:
+            log(f"[timeout] script-level {SCRIPT_TIMEOUT_SECS // 60}min budget exceeded, exiting with partial output")
+            code = 3
+        _flush_std()
+        os._exit(code)
 
     signal.signal(signal.SIGALRM, _handler)
     signal.alarm(SCRIPT_TIMEOUT_SECS)
@@ -1313,9 +1524,12 @@ def main() -> int:
         log(f"ERROR: missing env vars: {', '.join(missing)}")
         return 1
 
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    global RUN_ID
+    started = datetime.now(timezone.utc)
+    today = started.strftime("%Y-%m-%d")
     run_slot = determine_run_slot()
-    log(f"Run slot: {run_slot}")
+    RUN_ID = f"{started:%Y-%m-%dT%H%MZ}-{run_slot}"
+    log(f"Run slot: {run_slot} (run_id {RUN_ID})")
 
     config = load_config()
     window_hours = int(config.get("window_hours", 48))
@@ -1325,10 +1539,13 @@ def main() -> int:
     max_total = int(config.get("max_videos_per_run", 30))
     max_per_channel = int(config.get("max_videos_per_channel_per_run", 6))
 
+    backfill_legacy_speakers(cutoff)
+
     def finish_without_videos() -> int:
         regenerate_index()
         write_clip_manifest(build_clip_manifest(run_slot, window_hours))
         queue_slack_payload({"kind": "no_new_videos", "date_str": today})
+        _outputs_written.set()
         return 0
 
     # Step 1: discover presser candidates per channel.
@@ -1474,10 +1691,18 @@ def main() -> int:
         })
     else:
         queue_slack_payload({"kind": "no_new_videos", "date_str": today})
+    _outputs_written.set()
 
     log(f"Done. {summary}")
     return 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    rc = main()
+    # Exit NOW. A Gemini call abandoned by the per-video timeout can leave a
+    # worker thread blocked on a socket; a normal interpreter exit joins
+    # executor threads and would hang until the watchdog killed the run
+    # (the 2026-09-30 20:16 run: "Done." then exit 3 four minutes later).
+    # Every output file is already written and closed at this point.
+    _flush_std()
+    os._exit(rc)

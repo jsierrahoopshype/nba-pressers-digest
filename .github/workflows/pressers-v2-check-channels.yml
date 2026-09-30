@@ -1,0 +1,29 @@
+name: Pressers v2 channel check
+
+# Verifies every team channel ID in pressers_v2/config.json resolves to an
+# uploads playlist (about 1 YouTube API unit; more only when one is broken).
+on:
+  pull_request:
+    paths:
+      - 'pressers_v2/config.json'
+      - 'pressers_v2/check_channels.py'
+      - '.github/workflows/pressers-v2-check-channels.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - run: pip install -r pressers_v2/requirements.txt
+      - name: Check channel IDs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python pressers_v2/check_channels.py

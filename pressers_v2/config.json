@@ -1,7 +1,8 @@
 {
-  "_comment": "Edit this file to tune the pressers_v2 pipeline without touching code. Channel IDs copied from scripts/ingest.py NBA_CHANNELS.",
+  "_comment": "Edit this file to tune the pressers_v2 pipeline without touching code. Channel IDs verified by pressers_v2/check_channels.py (runs on PRs that change this file).",
   "window_hours": 48,
   "min_duration_seconds": 60,
+  "max_duration_secs": 2700,
   "max_videos_per_run": 30,
   "max_videos_per_channel_per_run": 6,
   "recent_uploads_per_channel": 25,
@@ -56,12 +57,12 @@
     },
     {
       "team": "Brooklyn Nets",
-      "channel_id": "UCL7XnFZqcLjRHiS4xX4_vgA",
+      "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
       "active": true
     },
     {
       "team": "Charlotte Hornets",
-      "channel_id": "UCiKXa2hObEziEZFkFx08i9A",
+      "channel_id": "UCPhFI5lIFnSggz7HgY9UuuQ",
       "active": true
     },
     {
@@ -86,7 +87,7 @@
     },
     {
       "team": "Detroit Pistons",
-      "channel_id": "UC-z5VCIFLG6tximfWzzlSSQ",
+      "channel_id": "UCtcSBo9EzOtXHxiPhU6RN8A",
       "active": true
     },
     {
@@ -166,7 +167,7 @@
     },
     {
       "team": "Portland Trail Blazers",
-      "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
+      "channel_id": "UCXk66yyzXo7-2M1BMqLhltQ",
       "active": true
     },
     {
@@ -191,7 +192,7 @@
     },
     {
       "team": "Washington Wizards",
-      "channel_id": "UCT5g1W7HHYiG8wOZEYgYXLw",
+      "channel_id": "UChvzoBPvORuNGtHTMzjUsIQ",
       "active": true
     }
   ]

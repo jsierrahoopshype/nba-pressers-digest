@@ -17,12 +17,21 @@ availability videos published in the last 48h, sends each one to Gemini
 | Slack post | after each run, via `SLACK_WEBHOOK_URL` |
 
 Each quote has: speaker, speaker_confidence, team, verbatim text, a pull
-quote, names mentioned, start/end seconds (15-60s clip), a one-line news
-angle and a draft social post. Multi-speaker exchanges also carry
+quote, names mentioned, start/end seconds, a news_score (1-10), a one-line
+news angle and a draft social post. Multi-speaker exchanges also carry
 text_blocks.
 
+**Timestamps.** Gemini's times are approximate. After extraction the pipeline
+tries to fetch the video's YouTube captions and fuzzy-match each quote to
+them (`timestamp_source: "captions"`). GitHub's servers are often blocked
+by YouTube; then Gemini's time is kept (`"gemini-approx"`) and the digest
+shows `(approx.)` after the link. The Windows clipper always re-finds the
+quote itself before cutting (see below), so clips are cut on the real words
+either way.
+
 Speakers are only named when the video itself identifies them (name graphic,
-introduction, addressed by name). Anything else is "Unidentified speaker" with
+introduction, addressed by name, or the title naming the podium speaker,
+e.g. "James Harden Media Availability"). Anything else is "Unidentified speaker" with
 speaker_confidence "inferred", and those quotes are left out of
 latest_clips.json so a guessed name never ends up in a clip's lower third.
 
@@ -41,17 +50,29 @@ latest_clips.json so a guessed name never ends up in a clip's lower third.
 
 ## Making the vertical clips on Windows
 
-1. Download `make_presser_clips.py` and `make-presser-clips.bat` from this folder
-   into the same folder on your PC (e.g. `Documents\presser-clips-tool\`).
+1. Download **three** files from this folder into the same folder on your PC
+   (e.g. `Documents\presser-clips-tool\`): `make_presser_clips.py`,
+   `caption_align.py` and `make-presser-clips.bat`.
 2. Double-click `make-presser-clips.bat`.
-   - It installs/updates yt-dlp itself.
+   - It installs/updates yt-dlp and faster-whisper itself. The first time a
+     video has no captions, Whisper downloads its model once (~140 MB).
    - If ffmpeg is missing it stops and tells you the fix:
      `winget install --id Gyan.FFmpeg -e`, then open a new window and run again.
-3. Clips land in `C:\Users\Jorge Sierra\Documents\presser-clips\<YYYY-MM-DD>\` as
+3. It prints a numbered list (number, news score, speaker, team, angle). The
+   latest run's clips are marked NEW and listed first. Press **Enter** for the
+   top 10 by news score from the latest run, type **ALL** for everything, or
+   type numbers like `1,3,5-7`.
+4. For each clip it finds where the quote is really spoken: first from the
+   video's YouTube captions, otherwise with Whisper on the 90 seconds around
+   the given time. It cuts on those words with 0.5s padding. If it can't find
+   the quote confidently it does **not** cut; the clip is listed at the end
+   under "Skipped because the quote couldn't be located reliably".
+5. Clips land in `C:\Users\Jorge Sierra\Documents\presser-clips\<YYYY-MM-DD>\` as
    `<date>_<team>_<speaker>_<n>.mp4` + `.txt` (social post + source URL).
    Already-made clips are skipped on later runs; failures are listed at the end.
 
 Optional flags (add after the .bat name in a terminal):
+`--all`, `--pick 1,3,5-7`, `--top 15`, `--yes` (no question, default pick),
 `--team celtics`, `--limit 5`, `--force`, `--out D:\clips`.
 
 If YouTube downloads fail with "Sign in to confirm" or JavaScript errors,
@@ -60,7 +81,11 @@ install Deno once: `winget install --id DenoLand.Deno -e`.
 ## Tuning
 
 Edit `pressers_v2/config.json`: title keywords (include/exclude), 48h window,
-minimum duration, per-run caps, channel list. No code changes needed.
+minimum duration, `max_duration_secs` (default 2700 = 45 min; longer videos
+are skipped to save Gemini cost, except URLs passed in `extra_videos`),
+per-run caps, channel list. No code changes needed. A PR that changes this
+file runs `check_channels.py`, which fails if any channel ID doesn't resolve
+to the right team's uploads.
 
 ## How it decides what's new
 
