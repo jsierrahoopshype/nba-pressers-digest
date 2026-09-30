@@ -1,0 +1,5 @@
+.env
+.slack_payload.json
+__pycache__/
+*.pyc
+*.tmp
