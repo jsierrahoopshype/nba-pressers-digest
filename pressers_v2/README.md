@@ -16,6 +16,14 @@ availability videos published in the last 48h, sends each one to Gemini
 | GitHub Pages mirror | `docs/pressers_v2/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/ |
 | Slack post | after each run, via `SLACK_WEBHOOK_URL` |
 
+**Content types.** Every video and clip has a `content_type`: `presser`
+(press conferences, availabilities, media day, pre/postgame, shootaround),
+`podcast` (podcasts, shows, livestreams, reaction shows) or `oneoff` (anything
+passed in `extra_videos`). Title keywords in `config.json`
+(`content_type_keywords`, podcast checked first) decide; when no keyword
+matches, Gemini's own `content_type` is used. The digest and Slack post are
+split into Press conferences, Podcasts & shows and One-offs.
+
 Each quote has: speaker, speaker_confidence, team, verbatim text, a pull
 quote, names mentioned, start/end seconds, a news_score (1-10), a one-line
 news angle and a draft social post. Multi-speaker exchanges also carry
@@ -23,9 +31,15 @@ text_blocks.
 
 **Timestamps.** Gemini's times are approximate. After extraction the pipeline
 tries to fetch the video's YouTube captions and fuzzy-match each quote to
-them (`timestamp_source: "captions"`). GitHub's servers are often blocked
-by YouTube; then Gemini's time is kept (`"gemini-approx"`) and the digest
-shows `(approx.)` after the link. The Windows clipper always re-finds the
+them (`timestamp_source: "captions"`). YouTube blocks GitHub's servers
+(`RequestBlocked`, logged per video as `[captions] <id>: ...`), so in practice
+the next step does the work: a **refinement pass** sends Gemini only a
+2-minute window of the video around each first-pass time (then a 6-minute
+window if the quote isn't there) and asks where the quote's first words are
+spoken. An answer inside the window becomes `"gemini-refined"`; otherwise the
+first-pass time stays (`"gemini-approx"`) and the digest shows `(approx.)`.
+Refinement runs after all extraction and stops when the run's 35-minute
+budget is nearly used, so it never costs a video its quotes. The Windows clipper always re-finds the
 quote itself before cutting (see below), so clips are cut on the real words
 either way.
 
@@ -58,16 +72,19 @@ latest_clips.json so a guessed name never ends up in a clip's lower third.
      video has no captions, Whisper downloads its model once (~140 MB).
    - If ffmpeg is missing it stops and tells you the fix:
      `winget install --id Gyan.FFmpeg -e`, then open a new window and run again.
-3. It prints a numbered list (number, news score, speaker, team, angle). The
-   latest run's clips are marked NEW and listed first. Press **Enter** for the
-   top 10 by news score from the latest run, type **ALL** for everything, or
-   type numbers like `1,3,5-7`.
+3. It prints a numbered list grouped into PRESS CONFERENCES, PODCASTS & SHOWS
+   and ONE-OFFS (number, news score, speaker, team, angle); the latest run's
+   clips are marked NEW. Press **Enter** for the top 10 overall by news score
+   from the latest run, **P** / **D** / **O** for the top 10 pressers /
+   podcasts / one-offs, **ALL** for everything, or numbers like `1,3,5-7`.
+   `make-presser-clips.bat P` skips the question and does pressers only.
 4. For each clip it finds where the quote is really spoken: first from the
    video's YouTube captions, otherwise with Whisper on the 90 seconds around
    the given time. It cuts on those words with 0.5s padding. If it can't find
    the quote confidently it does **not** cut; the clip is listed at the end
    under "Skipped because the quote couldn't be located reliably".
-5. Clips land in `C:\Users\Jorge Sierra\Documents\presser-clips\<YYYY-MM-DD>\` as
+5. Clips land in `C:\Users\Jorge Sierra\Documents\presser-clips\<YYYY-MM-DD>\pressers\`
+   (or `\podcasts\`, `\oneoffs\`) as
    `<date>_<team>_<speaker>_<n>.mp4` + `.txt` (social post + source URL).
    Already-made clips are skipped on later runs; failures are listed at the end.
 

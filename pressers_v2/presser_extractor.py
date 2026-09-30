@@ -31,7 +31,7 @@ import threading
 import time
 import traceback
 import unicodedata
-from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed, wait
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -91,6 +91,8 @@ EDITORIAL FIELDS
 
 LANGUAGE: if a quote is not spoken in English, translate "text", "news_angle" and "social_post" to English.
 
+CONTENT TYPE: set "content_type" to "presser" when the video is a press conference, media availability, media day session, pregame/postgame or shootaround interview; "podcast" when it is a podcast, talk show, reaction show or a hosted livestream/broadcast.
+
 HALLUCINATION GUARD: begin your JSON with a "video_title" field that ECHOES BACK EXACTLY the YouTube title supplied above (the line starting with "YouTube title:"). If your analysis does not match that title, the response is rejected.
 
 Return ONLY valid JSON, no surrounding text or markdown fences:
@@ -98,6 +100,7 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
 {
   "video_title": "exact echo of the YouTube title supplied above",
   "speakers_seen": ["names you saw or heard, in order of appearance"],
+  "content_type": "presser or podcast",
   "quotes": [
     {
       "rank": 1,
@@ -174,6 +177,7 @@ _deferred_items: list = []
 # Identifies the run that processed a video; the clipper's default pick-list
 # is the latest run's clips. Set in main().
 RUN_ID = ""
+SCRIPT_START = time.monotonic()       # reset in main(); the 35-min budget counts from here
 # Set once the digest, manifest and Slack payload are on disk. If the
 # watchdog fires after that, the run's work is done and it exits 0.
 _outputs_written = threading.Event()
@@ -263,6 +267,50 @@ def title_keyword_hit(title: str, keywords: list) -> str:
         if kw.lower() in low:
             return kw
     return ""
+
+
+CONTENT_TYPES = ("presser", "podcast", "oneoff")
+CONTENT_TYPE_LABELS = {"presser": "Press conferences", "podcast": "Podcasts & shows", "oneoff": "One-offs"}
+DEFAULT_CONTENT_TYPE_KEYWORDS = {
+    "podcast": ["podcast", "show", "livestream", "live stream", "broadcast", "reaction", "reactions",
+                "roundup", "live"],
+    "presser": ["press conference", "presser", "media availability", "availability", "media day",
+                "postgame", "post-game", "post game", "pregame", "pre-game", "pre game", "shootaround",
+                "practice", "interview", "speaks", "talks", "previews", "introductory"],
+}
+_CONFIG: dict = {}   # set in main(); classification reads its keyword lists
+
+
+def classify_content_type(title: str, is_one_off: bool = False, gemini_value=None,
+                          config: dict | None = None) -> tuple[str, str]:
+    """-> (content_type, source). extra_videos are always "oneoff". Otherwise
+    the config's content_type_keywords decide, checked in order (podcast
+    first, so "Chase Down Podcast Live: Media Day Reactions" is a podcast);
+    whole-word, case-insensitive. No keyword -> Gemini's content_type ->
+    "presser"."""
+    if is_one_off:
+        return "oneoff", "extra_videos"
+    cfg = config if config is not None else _CONFIG
+    keywords = cfg.get("content_type_keywords") or DEFAULT_CONTENT_TYPE_KEYWORDS
+    low = (title or "").lower()
+    for ctype, words in keywords.items():
+        if ctype not in CONTENT_TYPES:
+            continue
+        for kw in words:
+            if re.search(rf"(?<![a-z0-9]){re.escape(kw.lower())}(?![a-z0-9])", low):
+                return ctype, f"keyword: {kw}"
+    g = str(gemini_value or "").strip().lower()
+    if g in ("presser", "podcast"):
+        return g, "gemini"
+    return "presser", "default"
+
+
+def video_content_type(data: dict) -> str:
+    """Stored type, or classify older JSON on the fly from its title."""
+    ctype = data.get("content_type")
+    if ctype in CONTENT_TYPES:
+        return ctype
+    return classify_content_type(data.get("video_title") or "", bool(data.get("is_one_off")))[0]
 
 
 def _normalize_title(title: str) -> str:
@@ -634,33 +682,208 @@ def is_transient_gemini_error(exc: Exception) -> bool:
     return any(p in msg for p in _TRANSIENT_MESSAGE_PATTERNS)
 
 
-def call_gemini_with_retry(client, url, video_title, team, duration_secs,
-                           start_offset_secs=None, end_offset_secs=None) -> tuple[str, object]:
-    """5s/15s/45s/120s/300s backoff. Spending cap -> SpendingCapExhausted
-    immediately. Terminal 503/500 -> TransientServerOverload (deferred)."""
+def gemini_retry(fn, label: str = "main", deadline: float | None = None):
+    """Run fn() with the 5s/15s/45s/120s/300s backoff. Spending cap ->
+    SpendingCapExhausted immediately. Terminal 503/500 ->
+    TransientServerOverload (deferred). With a deadline (time.monotonic()),
+    a backoff that would run past it gives up instead of sleeping."""
     backoffs = [5, 15, 45, 120, 300]
     for attempt, sleep_s in enumerate(backoffs, start=1):
         try:
-            return call_gemini(client, url, video_title, team, duration_secs,
-                               start_offset_secs=start_offset_secs,
-                               end_offset_secs=end_offset_secs)
+            return fn()
         except Exception as e:
             if is_spending_cap_error(e):
-                log(f"  [main] [SPENDING CAP] {e}")
+                log(f"  [{label}] [SPENDING CAP] {e}")
                 raise SpendingCapExhausted(str(e)) from e
             if not is_transient_gemini_error(e):
                 raise
             if _spending_cap_hit.is_set():
                 raise SpendingCapExhausted("spending cap hit by a sibling worker") from e
-            if attempt < len(backoffs):
-                log(f"  [main] transient error on attempt {attempt}/5, sleeping {sleep_s}s: {e}")
+            out_of_time = deadline is not None and time.monotonic() + sleep_s > deadline
+            if attempt < len(backoffs) and not out_of_time:
+                log(f"  [{label}] transient error on attempt {attempt}/5, sleeping {sleep_s}s: {e}")
                 time.sleep(sleep_s)
             else:
-                log(f"  [main] giving up after 5 attempts: {e}")
+                log(f"  [{label}] giving up after {attempt} attempt(s): {e}")
                 if is_deferred_transient_error(e):
-                    log("  [DEFERRED] Gemini server overload after retries; will retry next run")
+                    log(f"  [DEFERRED] Gemini server overload after retries")
                     raise TransientServerOverload(str(e)) from e
                 raise
+
+
+def call_gemini_with_retry(client, url, video_title, team, duration_secs,
+                           start_offset_secs=None, end_offset_secs=None) -> tuple[str, object]:
+    """Extraction call with the shared retry policy (see gemini_retry)."""
+    return gemini_retry(lambda: call_gemini(client, url, video_title, team, duration_secs,
+                                            start_offset_secs=start_offset_secs,
+                                            end_offset_secs=end_offset_secs))
+
+
+# --------------------------------------------------------------------------- #
+# Timestamp refinement: a second, cheap Gemini call on a short window of the
+# video around the first-pass time, for quotes captions couldn't align.
+# --------------------------------------------------------------------------- #
+
+REFINE_WINDOWS = (60, 180)            # +-seconds: first try, then one wider retry
+REFINE_RESERVE_SECS = 4 * 60          # stop refining when this little budget is left
+REFINE_CALL_TIMEOUT_MS = 120_000      # per-call HTTP timeout for the refine client
+REFINE_QUOTE_WORDS = 40
+
+REFINE_PROMPT = """This is a short slice of an NBA video. The slice covers seconds {a} to {b} of the original video.
+
+Find the moment in THIS SLICE where the following quote BEGINS to be spoken (the first words matter most):
+
+"{quote}"
+
+Answer with the time relative to the start of this slice, in MM:SS (00:00 = the first second of the slice).
+If the quote is not spoken anywhere in this slice, answer NOT_FOUND. Do not guess.
+
+Return ONLY JSON: {{"timestamp": "MM:SS"}} or {{"timestamp": "NOT_FOUND"}}"""
+
+_TS_RE = re.compile(r"^\d{1,2}:\d{2}(?::\d{2})?(?:\.\d+)?$|^\d+(?:\.\d+)?$")
+
+
+def parse_refine_answer(raw: str):
+    """-> seconds (float), "NOT_FOUND", or None for anything unusable."""
+    try:
+        data = json.loads(raw or "")
+        ts = data.get("timestamp") if isinstance(data, dict) else None
+    except ValueError:
+        ts = raw
+    ts = str(ts or "").strip().strip('"')
+    if ts.upper().replace(" ", "_") == "NOT_FOUND":
+        return "NOT_FOUND"
+    if not _TS_RE.match(ts):
+        return None
+    parts = [float(x) for x in ts.split(":")]
+    secs = 0.0
+    for x in parts:
+        secs = secs * 60 + x
+    return secs
+
+
+def call_refine(client, url: str, quote_text: str, a: int, b: int) -> str:
+    words = quote_text.split()
+    quote = " ".join(words[:REFINE_QUOTE_WORDS]) + (" ..." if len(words) > REFINE_QUOTE_WORDS else "")
+    part = types.Part.from_uri(file_uri=url, mime_type="video/mp4")
+    part.video_metadata = types.VideoMetadata(start_offset=f"{a}s", end_offset=f"{b}s")
+    response = client.models.generate_content(
+        model=MODEL,
+        contents=[part, REFINE_PROMPT.format(a=a, b=b, quote=quote.replace('"', "'"))],
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json",
+            temperature=0.0,
+            media_resolution=types.MediaResolution.MEDIA_RESOLUTION_LOW,
+        ),
+    )
+    return response.text or ""
+
+
+def refine_quote(client, url: str, duration_secs: int, q: dict, deadline: float,
+                 stats: dict, lock) -> None:
+    """Try +-60s, then (only on NOT_FOUND) +-180s. Accept an answer only if
+    it lands inside the window; otherwise keep the first-pass time."""
+    t = int(q.get("start_seconds") or 0)
+
+    def bump(key, n=1):
+        with lock:
+            stats[key] = stats.get(key, 0) + n
+
+    for half in REFINE_WINDOWS:
+        if time.monotonic() > deadline:
+            bump("skipped_time")
+            return
+        if _spending_cap_hit.is_set() or _transient_overload_hit.is_set():
+            bump("skipped_abort")
+            return
+        a = max(0, t - half)
+        b = t + half
+        if duration_secs:
+            b = min(b, duration_secs)
+        if b - a < 5:
+            break
+        bump("calls")                   # counted when sent, so calls cut off at the deadline still show
+        bump("video_seconds", b - a)
+        try:
+            raw = gemini_retry(lambda: call_refine(client, url, q["text"], a, b), "refine", deadline)
+        except SpendingCapExhausted:
+            _spending_cap_hit.set()
+            bump("errors")
+            return
+        except TransientServerOverload:
+            _transient_overload_hit.set()
+            bump("errors")
+            return
+        except Exception as e:
+            log(f"  [refine] error at {t}s: {type(e).__name__}: {str(e)[:150]}")
+            bump("errors")
+            return
+        ans = parse_refine_answer(raw)
+        if ans == "NOT_FOUND":
+            bump("not_found_60" if half == REFINE_WINDOWS[0] else "not_found_180")
+            continue
+        if ans is None:
+            bump("unusable")
+            return
+        # Asked for slice-relative time; accept an absolute answer only if
+        # that's the only reading that lands inside the window.
+        if 0 <= ans <= b - a:
+            new_start = a + ans
+        elif a <= ans <= b:
+            new_start = ans
+        else:
+            bump("out_of_window")
+            return
+        new_start = int(new_start)
+        delta = new_start - int(q["start_seconds"])
+        q["start_seconds"] = new_start
+        end = int(q["end_seconds"]) + delta
+        q["end_seconds"] = min(end, duration_secs) if duration_secs else end
+        q["timestamp_source"] = "gemini-refined"
+        q["refine_window"] = [a, b]
+        bump("refined")
+        return
+
+
+def make_refine_client(api_key: str, fallback):
+    """Separate client with a per-call HTTP timeout, so one stuck refine
+    call can't hold a worker for the rest of the run."""
+    try:
+        return genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=REFINE_CALL_TIMEOUT_MS))
+    except (AttributeError, TypeError):
+        return fallback
+
+
+def run_refinement(ex, client, results: list, deadline: float) -> dict:
+    """Queue one refine job per not-caption-aligned quote on the executor
+    that ran extraction, wait until the deadline at most, then rewrite the
+    affected videos' .json/.md. Returns the stats dict."""
+    stats, lock = {}, threading.Lock()
+    jobs = []
+    for r in results:
+        for q in r["data"].get("quotes") or []:
+            if q.get("timestamp_source") == "gemini-approx":
+                jobs.append(ex.submit(refine_quote, client, r["video"]["url"],
+                                      int(r["video"].get("duration") or 0), q, deadline, stats, lock))
+    if not jobs:
+        return stats
+    log(f"[refine] {len(jobs)} quote(s) without caption alignment; refining "
+        f"(budget {max(0, int(deadline - time.monotonic()))}s)")
+    done, not_done = wait(jobs, timeout=max(0.0, deadline - time.monotonic()))
+    for fut in not_done:
+        fut.cancel()
+    if not_done:
+        stats["unfinished_at_deadline"] = len(not_done)
+    for r in results:
+        if any(q.get("timestamp_source") == "gemini-refined" for q in r["data"].get("quotes") or []):
+            write_outputs(r["video"], r["team"], r["data"])
+    log(f"[refine] {stats.get('refined', 0)}/{len(jobs)} refined; "
+        f"not found at +-60s: {stats.get('not_found_60', 0)}, still not found at +-180s: "
+        f"{stats.get('not_found_180', 0)}, out of window: {stats.get('out_of_window', 0)}, "
+        f"errors: {stats.get('errors', 0)}, skipped for time: {stats.get('skipped_time', 0)}"
+        f"{', unfinished at deadline: ' + str(len(not_done)) if not_done else ''}. "
+        f"Gemini calls: {stats.get('calls', 0)}, video sent: {stats.get('video_seconds', 0)}s")
+    return stats
 
 
 # --------------------------------------------------------------------------- #
@@ -910,7 +1133,7 @@ def to_markdown(video: dict, team: str, data: dict) -> str:
             fragments.append(summary)
         inner = " — ".join(fragments)
         # Times not confirmed against captions are flagged for the editor.
-        approx = "" if q.get("timestamp_source") == "captions" else " (approx.)"
+        approx = " (approx.)" if q.get("timestamp_source", "gemini-approx") == "gemini-approx" else ""
         lines.append(f"**{rank}. {inner}** [{ts_label}]({ts_link}){approx}")
         lines.append("")
         names = [md_escape(n) for n in (q.get("names_mentioned") or [])]
@@ -979,8 +1202,17 @@ def regenerate_index() -> None:
     (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def _video_type_for_md(md_path: Path) -> str:
+    try:
+        return video_content_type(json.loads(md_path.with_suffix(".json").read_text(encoding="utf-8")))
+    except (OSError, ValueError):
+        return "presser"
+
+
 def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
-    """Concatenate per-video .md files into one digest (yt-quotes format)."""
+    """Concatenate per-video .md files into one digest (yt-quotes format),
+    grouped into Press conferences / Podcasts & shows / One-offs. Empty
+    sections are left out."""
     day_dir = OUTPUT_DIR / date_str
     if not day_dir.is_dir():
         return None
@@ -988,8 +1220,7 @@ def write_digest_file(date_str: str, output_filename: str, video_ids: list | Non
         md_paths = sorted(p for p in day_dir.glob("*.md") if p.is_file() and not p.name.startswith("digest"))
     else:
         md_paths = [day_dir / f"{v}.md" for v in video_ids if (day_dir / f"{v}.md").is_file()]
-    parts = [f"# NBA Pressers — {date_str}", ""]
-    first = True
+    sections = {ctype: [] for ctype in CONTENT_TYPES}
     for md_path in md_paths:
         try:
             content = md_path.read_text(encoding="utf-8").strip()
@@ -998,13 +1229,20 @@ def write_digest_file(date_str: str, output_filename: str, video_ids: list | Non
         if not content or not re.search(r"(?m)^\*\*\d+\.", content):
             continue
         if content.startswith("# "):
-            content = "#" + content
-        if not first:
-            parts.extend(["---", ""])
-        first = False
-        parts.extend([content, ""])
-    if first:
+            content = "##" + content      # video title h1 -> h3, under the h2 section
+        sections[_video_type_for_md(md_path)].append(content)
+    if not any(sections.values()):
         return None
+    parts = [f"# NBA Pressers — {date_str}", ""]
+    for ctype in CONTENT_TYPES:
+        videos = sections[ctype]
+        if not videos:
+            continue
+        parts.extend([f"## {CONTENT_TYPE_LABELS[ctype]}", ""])
+        for i, content in enumerate(videos):
+            if i:
+                parts.extend(["---", ""])
+            parts.extend([content, ""])
     parts.extend(["---", "", DIGEST_CLOSING_LINE, ""])
     digest_path = day_dir / output_filename
     atomic_write(digest_path, "\n".join(parts))
@@ -1133,6 +1371,7 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
                     "gemini_end_seconds": q.get("gemini_end_seconds", end),
                     "run_id": data.get("run_id") or "",
                     "processed_at": data.get("processed_at") or "",
+                    "content_type": video_content_type(data),
                 })
     clips.sort(key=lambda c: (c["published"], -(c["rank"] or 0)), reverse=True)
     if skipped_unnamed:
@@ -1185,6 +1424,7 @@ def caption_error_reason(exc: Exception) -> str:
     body = m.group(1) if m else msg
     line = next((ln.strip() for ln in body.splitlines() if ln.strip()), "")
     line = re.sub(r"\w+://\S+", "<url>", line)
+    line = re.split(r"(?<=\.)\s", line)[0]     # first sentence is the cause
     return f"{type(exc).__name__}: {line[:200]}" if line else type(exc).__name__
 
 
@@ -1345,13 +1585,19 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
                 merged["speakers_seen"].append(s)
         merged["quotes"].extend(d["quotes"])
     merged["quotes"] = finalize_quotes(merged["quotes"])
+    merged["is_one_off"] = bool(video.get("is_one_off"))
+    merged["content_type"], merged["content_type_source"] = classify_content_type(
+        expected_title, merged["is_one_off"], chunk_results[0].get("content_type"))
     merged["caption_status"] = align_to_captions(video_id, merged["quotes"])
-    log(f"  {video_id}: {len(merged['quotes'])} quote(s) after normalisation; captions: {merged['caption_status']}")
+    log(f"  {video_id}: {len(merged['quotes'])} quote(s), {merged['content_type']} "
+        f"({merged['content_type_source']})")
+    log(f"  [captions] {video_id}: {merged['caption_status']}")
     write_outputs(video, team, merged)
     return "ok", merged
 
 
-def process_one_video(client, team: str, video: dict, lock, summary, processed_items) -> None:
+def process_one_video(client, team: str, video: dict, lock, summary, processed_items,
+                      results: list | None = None) -> None:
     video_id = video["video_id"]
     day_dir = video_day_dir(video)
     deferred_record = {"video_id": video_id, "title": video.get("title") or video_id, "channel": team}
@@ -1407,6 +1653,8 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
     with lock:
         summary[status] = summary.get(status, 0) + 1
         if status == "ok" and data:
+            if results is not None:
+                results.append({"video": video, "team": team, "data": data})
             quotes = data.get("quotes") or []
             top = quotes[0] if quotes else {}
             processed_items.append({
@@ -1419,6 +1667,7 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
                 "clip_count": len(quotes),
                 "date": publish_date(video),
                 "is_one_off": bool(video.get("is_one_off")),
+                "content_type": data.get("content_type") or "presser",
             })
         elif status == "deferred-transient":
             _deferred_items.append(deferred_record)
@@ -1545,7 +1794,8 @@ def main() -> int:
         log(f"ERROR: missing env vars: {', '.join(missing)}")
         return 1
 
-    global RUN_ID
+    global RUN_ID, SCRIPT_START
+    SCRIPT_START = time.monotonic()
     started = datetime.now(timezone.utc)
     today = started.strftime("%Y-%m-%d")
     run_slot = determine_run_slot()
@@ -1553,6 +1803,8 @@ def main() -> int:
     log(f"Run slot: {run_slot} (run_id {RUN_ID})")
 
     config = load_config()
+    _CONFIG.clear()
+    _CONFIG.update(config)
     window_hours = int(config.get("window_hours", 48))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=window_hours)
     channels = [c for c in config.get("channels", []) if c.get("active", True)]
@@ -1672,15 +1924,26 @@ def main() -> int:
     summary = {k: 0 for k in ("ok", "too-long", "failed-hallucination", "failed-timeout",
                               "failed-other", "aborted-spending-cap", "deferred-transient")}
     processed_items: list = []
+    results: list = []
     state_lock = threading.Lock()
-    with ThreadPoolExecutor(max_workers=VIDEO_WORKERS) as ex:
-        futures = [ex.submit(process_one_video, client, team, video, state_lock, summary, processed_items)
+    # One executor for extraction and then refinement. Not a `with` block:
+    # its exit would wait for any hung call; we shut down without waiting.
+    ex = ThreadPoolExecutor(max_workers=VIDEO_WORKERS)
+    try:
+        futures = [ex.submit(process_one_video, client, team, video, state_lock, summary,
+                             processed_items, results)
                    for team, video in queued]
         for fut in as_completed(futures):
             try:
                 fut.result()
             except Exception as e:
                 log(f"  unhandled worker exception: {e}")
+        # Step 4b: refine timestamps that captions couldn't confirm, with
+        # whatever is left of the run budget (extraction always comes first).
+        refine_deadline = SCRIPT_START + SCRIPT_TIMEOUT_SECS - REFINE_RESERVE_SECS
+        run_refinement(ex, make_refine_client(gemini_key, client), results, refine_deadline)
+    finally:
+        ex.shutdown(wait=False, cancel_futures=True)
 
     # Step 5: digests, index, clip manifest.
     per_run_filename = f"digest-{run_slot}.md"
