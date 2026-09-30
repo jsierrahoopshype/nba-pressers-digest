@@ -1,0 +1,45 @@
+{
+  "video_id": "uR-3bIOPxDE",
+  "url": "https://www.youtube.com/watch?v=uR-3bIOPxDE",
+  "video_title": "Rui Hachimura Press Conference | LA Clippers Media Day 2026",
+  "channel_team": "LA Clippers",
+  "published": "2026-09-29T14:30:03Z",
+  "duration_seconds": 454,
+  "processed_at": "2026-09-30T18:21:26Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Rui Hachimura"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rui Hachimura",
+      "team": "LA Clippers",
+      "start_seconds": 15,
+      "end_seconds": 59,
+      "text": "Since I got in the league, people talk about this organization and one thing about here is everybody talk about how they take very good care of the players and it is about winning. When we hit the free agency, that is the one thing that I talked to my agents and I was excited to join the team and I am happy to be here. Of course staying in LA, that is going to help me. I talked to Ty Lue and everybody and the players and everybody is nice and I am so happy for that.",
+      "news_angle": "Rui Hachimura says he chose the LA Clippers because of their winning culture and player care.",
+      "social_post": "Rui Hachimura says he chose to join the LA Clippers because of their reputation for taking care of players and their focus on winning. He says he is happy to be in the organization and excited for the season."
+    },
+    {
+      "rank": 2,
+      "speaker": "Rui Hachimura",
+      "team": "LA Clippers",
+      "start_seconds": 306,
+      "end_seconds": 321,
+      "text": "With this team for me, I can be more physical. I can really bring that to the team on the offense, both ends, defensively, offensively and of course my shooting, that is going to help the team too.",
+      "news_angle": "Rui Hachimura plans to bring more physicality and improved shooting to the LA Clippers.",
+      "social_post": "Rui Hachimura says he plans to bring more physicality to the LA Clippers on both ends of the floor this season, while also contributing with his improved shooting ability."
+    },
+    {
+      "rank": 3,
+      "speaker": "Rui Hachimura",
+      "team": "LA Clippers",
+      "start_seconds": 432,
+      "end_seconds": 454,
+      "text": "I keep saying that my physical, that is going to be a very key, offensively, defensively, rebound, everything that I can. The things since I got in the league, I improved a lot so I want to show that this year and of course the shooting.",
+      "news_angle": "Rui Hachimura emphasizes his physical play and improved shooting as keys for the team.",
+      "social_post": "Rui Hachimura says his physical play on both ends of the floor and his improved shooting will be key factors for the LA Clippers this season."
+    }
+  ]
+}

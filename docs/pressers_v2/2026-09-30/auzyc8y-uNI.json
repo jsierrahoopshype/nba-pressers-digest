@@ -1,0 +1,45 @@
+{
+  "video_id": "auzyc8y-uNI",
+  "url": "https://www.youtube.com/watch?v=auzyc8y-uNI",
+  "video_title": "Caleb Wilson: My First Media Day",
+  "channel_team": "Chicago Bulls",
+  "published": "2026-09-30T16:09:20Z",
+  "duration_seconds": 180,
+  "processed_at": "2026-09-30T18:08:11Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Caleb Wilson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Caleb Wilson",
+      "team": "Chicago Bulls",
+      "start_seconds": 35,
+      "end_seconds": 50,
+      "text": "It's been really exciting, you know. Just getting started now, but I'm excited to be here and I feel like it's going to be great for me to kind of see what I have to offer and really excited for the year.",
+      "news_angle": "Caleb Wilson expresses excitement for his first season with the Chicago Bulls.",
+      "social_post": "Caleb Wilson is ready to get to work for his first season with the Chicago Bulls, saying he is excited to see what he has to offer this year."
+    },
+    {
+      "rank": 2,
+      "speaker": "Caleb Wilson",
+      "team": "Chicago Bulls",
+      "start_seconds": 106,
+      "end_seconds": 121,
+      "text": "Kind of feels surreal, you know. But it's here now, so I'm excited for it. You know, training camp starting tomorrow, so it's all just coming at me fast, but I'm really excited to be here and I'm excited to be a Bull. Excited for this year.",
+      "news_angle": "Caleb Wilson shares his excitement as he begins his first training camp with the Bulls.",
+      "social_post": "Training camp starts tomorrow, and Caleb Wilson says it feels surreal to be a Chicago Bull as he prepares for his first season."
+    },
+    {
+      "rank": 3,
+      "speaker": "Caleb Wilson",
+      "team": "Chicago Bulls",
+      "start_seconds": 165,
+      "end_seconds": 180,
+      "text": "In two weeks, I mean, we'll be tipping off and it'll be real. It's my first time getting in an NBA game and playing the United Center and hopefully I'll be here for a really long time, but I know all the nerves and stuff will go away once the ball gets tipped up in there.",
+      "news_angle": "Caleb Wilson looks forward to his first NBA game at the United Center.",
+      "social_post": "Caleb Wilson is looking forward to his first NBA game at the United Center, noting that he expects his nerves to disappear once the ball is tipped."
+    }
+  ]
+}

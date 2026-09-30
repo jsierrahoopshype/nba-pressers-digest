@@ -1,0 +1,36 @@
+{
+  "video_id": "1TXLEDa8524",
+  "url": "https://www.youtube.com/watch?v=1TXLEDa8524",
+  "video_title": "🎤 PWat on the mic for Media Day, presented by @clevelandclinic! #nba #cleveland #cavs #basketball",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-09-29T17:47:38Z",
+  "duration_seconds": 67,
+  "processed_at": "2026-09-30T18:18:50Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Peyton Watson",
+    "Demetrius"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Peyton Watson",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 15,
+      "end_seconds": 32,
+      "text": "Good to meet you Cayden, Demetrius. Good to meet you boy. I am looking forward to interacting with you guys and embracing the city of Cleveland for sure. Let them know.",
+      "news_angle": "Peyton Watson expresses excitement about joining the Cleveland Cavaliers and engaging with the community.",
+      "social_post": "Peyton Watson is ready to get to work and embrace the city of Cleveland. He is looking forward to interacting with the fans and the community this season."
+    },
+    {
+      "rank": 2,
+      "speaker": "Peyton Watson",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 33,
+      "end_seconds": 48,
+      "text": "The funniest guy on my team is Nae'Qwan Tomlin. Where do I start? This is what I came for. I am on fire, baby. Cooking with gas.",
+      "news_angle": "Peyton Watson identifies Nae'Qwan Tomlin as the funniest player on the Cleveland Cavaliers roster.",
+      "social_post": "Peyton Watson says Nae'Qwan Tomlin is the funniest guy on the Cleveland Cavaliers team."
+    }
+  ]
+}

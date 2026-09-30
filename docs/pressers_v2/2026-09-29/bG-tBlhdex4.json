@@ -1,0 +1,88 @@
+{
+  "video_id": "bG-tBlhdex4",
+  "url": "https://www.youtube.com/watch?v=bG-tBlhdex4",
+  "video_title": "Training Camp Media Availability (9/29/26) | LA Clippers",
+  "channel_team": "LA Clippers",
+  "published": "2026-09-29T22:27:41Z",
+  "duration_seconds": 1327,
+  "processed_at": "2026-09-30T18:09:24Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Darius Garland",
+    "Kei",
+    "Baba"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "team": "LA Clippers",
+      "start_seconds": 102,
+      "end_seconds": 134,
+      "text": "The summer Darius Garland had was unbelievable. As a max player, a guy who has been an All-Star in this league, to be all summer just getting the rehab with Maggie and those guys, on his toe, just getting putting the work in on his body, getting stronger, lifting every single day, it is very uncommon. So to see him do that this summer just shows you his approach and how serious he is about this season.",
+      "news_angle": "Tyronn Lue praises Darius Garland for his dedicated rehab and conditioning work this summer.",
+      "social_post": "Tyronn Lue says Darius Garland is taking his preparation for this season very seriously, noting that his work ethic in rehab this summer was very uncommon for a player of his status."
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "team": "LA Clippers",
+      "start_seconds": 201,
+      "end_seconds": 231,
+      "text": "One, no excuses. Control what you can control. We cannot control injuries. We cannot control a lot of things right now off the court, but we can control coming out playing hard every single night, competing. And our main goal is to make the playoffs. That has got to be our mindset every single day, is to win games and try to make the playoffs, no matter who is playing, no matter what people are saying on the outside, we have got to believe it.",
+      "news_angle": "Tyronn Lue sets the goal for the Clippers to make the playoffs this season.",
+      "social_post": "Tyronn Lue says the Clippers main goal this season is to make the playoffs, emphasizing that the team must focus on competing hard every night regardless of any outside noise or injuries."
+    },
+    {
+      "rank": 3,
+      "speaker": "Darius Garland",
+      "team": "LA Clippers",
+      "start_seconds": 810,
+      "end_seconds": 841,
+      "text": "I am super excited about the basketball side. With the group that we have really, it is a lot of new guys. Bringing Kei in, that is the fifth pick, Baba in, then we got the vets that can really help us and really learn from. So I am super excited about that, then myself coming in, being back healthy, getting the reps in early throughout the entire summer instead of coming in like last year with like three, four months left in the season.",
+      "news_angle": "Darius Garland is excited about the new Clippers roster and his own health status.",
+      "social_post": "Darius Garland says he is excited to be back healthy and to have a full summer of training with the new Clippers roster, noting that the veteran players on the team will be a great resource for learning."
+    },
+    {
+      "rank": 4,
+      "speaker": "Kei",
+      "team": "LA Clippers",
+      "start_seconds": 1305,
+      "end_seconds": 1327,
+      "text": "There is going to be a lot riding on Darius Garland's shoulders, but we are all here to support him and push him through that and he is capable of it. He is a hell of a basketball player and I think he has battled some tough injuries and been through a lot in his short span in the league.",
+      "news_angle": "Kei expresses confidence in Darius Garland's ability to handle the pressure this season.",
+      "social_post": "Kei says the Clippers are ready to support Darius Garland, noting that he is a talented player who is fully capable of handling the expectations placed upon him this season."
+    },
+    {
+      "rank": 5,
+      "speaker": "Kei",
+      "team": "LA Clippers",
+      "start_seconds": 1310,
+      "end_seconds": 1327,
+      "text": "Darius Garland has the ability to control the whole room. By the way he acts, his attitude, the way he controls and stuff every single day, people feed off of it and he knows that and he has been carrying himself and he is already taking steps from when I was with him in Cleveland in a positive direction.",
+      "news_angle": "Kei highlights Darius Garland's leadership and positive growth as a player.",
+      "social_post": "Kei says Darius Garland has a natural ability to control the team's energy, noting that he has already seen positive growth in Garland's leadership since their time together in Cleveland."
+    },
+    {
+      "rank": 6,
+      "speaker": "Baba",
+      "team": "LA Clippers",
+      "start_seconds": 1304,
+      "end_seconds": 1327,
+      "text": "I am still learning like from a lot of, you know, a lot of like a great like point guard right now. I am still figure out how I can like how I can help to the how like how I can help to the team. You know like like you said like a lot of great point guard right now on the team on the roster, so I am still learning from them.",
+      "news_angle": "Baba is focused on learning from the veteran point guards on the Clippers roster.",
+      "social_post": "Baba says he is focused on learning from the veteran point guards on the Clippers roster to figure out how he can best contribute to the team's success this season."
+    },
+    {
+      "rank": 7,
+      "speaker": "Baba",
+      "team": "LA Clippers",
+      "start_seconds": 1312,
+      "end_seconds": 1327,
+      "text": "I just want to win. You know, I don't want to I don't want to lose. I am a very competitive guy. So, you know, like I say, I still figure out how I can contribute to the win, you know, but I just want to win.",
+      "news_angle": "Baba emphasizes his competitive nature and desire to win.",
+      "social_post": "Baba says he is a very competitive player who is solely focused on finding ways to contribute to winning games for the Clippers this season."
+    }
+  ]
+}

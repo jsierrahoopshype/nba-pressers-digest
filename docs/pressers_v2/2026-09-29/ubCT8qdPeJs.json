@@ -1,0 +1,45 @@
+{
+  "video_id": "ubCT8qdPeJs",
+  "url": "https://www.youtube.com/watch?v=ubCT8qdPeJs",
+  "video_title": "Jericho Sims Media Availability | 09.29.26",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-09-29T22:32:48Z",
+  "duration_seconds": 216,
+  "processed_at": "2026-09-30T18:08:19Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Jericho Sims"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jericho Sims",
+      "team": "Milwaukee Bucks",
+      "start_seconds": 144,
+      "end_seconds": 196,
+      "text": "That is one thing I can add to the team. The system is a little bit different, so I think there is going to be more opportunities for me for example to pass and really to dish it to the guys and see what I can do.",
+      "news_angle": "Jericho Sims expects to have more playmaking opportunities in the new team system.",
+      "social_post": "Jericho Sims says the new system will give him more opportunities to showcase his playmaking, adding that he expects to be able to pass and dish to his teammates more often this season."
+    },
+    {
+      "rank": 2,
+      "speaker": "Jericho Sims",
+      "team": "Milwaukee Bucks",
+      "start_seconds": 157,
+      "end_seconds": 216,
+      "text": "I think the four and four no dribble, five on five no dribble, with him he was actually the one passing it to us, so I think that was pretty different. Just seeing how we can get open without dribbling the ball and that really makes us have to be creative.",
+      "news_angle": "Jericho Sims highlights the creative no-dribble drills implemented by coach Doc Rivers.",
+      "social_post": "Jericho Sims says the team has been working on no-dribble drills in practice, noting that it forces players to be more creative to get open and find scoring opportunities."
+    },
+    {
+      "rank": 3,
+      "speaker": "Jericho Sims",
+      "team": "Milwaukee Bucks",
+      "start_seconds": 201,
+      "end_seconds": 216,
+      "text": "I think just his activity. He is a mountain of a guy, so it is going to be hard for guys to come in there and score on our basket, so I think the rim protection is especially.",
+      "news_angle": "Jericho Sims praises the rim protection skills of his new teammate.",
+      "social_post": "Jericho Sims is impressed by the rim protection of his new teammate, calling him a mountain of a guy who makes it difficult for opponents to score inside."
+    }
+  ]
+}
