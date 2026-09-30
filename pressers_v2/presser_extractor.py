@@ -1175,11 +1175,29 @@ class _TimeoutSession(requests.Session):
         return super().request(*args, **kwargs)
 
 
+def caption_error_reason(exc: Exception) -> str:
+    """One line, no URLs: exception class + the library's stated cause.
+    youtube-transcript-api messages are multi-paragraph ("... This is most
+    likely caused by:\n\n<cause>"); proxies can put credentials in URLs,
+    so every URL is replaced with <url>."""
+    msg = str(exc) or ""
+    m = re.search(r"most likely caused by:\s*(.+)", msg, flags=re.S)
+    body = m.group(1) if m else msg
+    line = next((ln.strip() for ln in body.splitlines() if ln.strip()), "")
+    line = re.sub(r"\w+://\S+", "<url>", line)
+    return f"{type(exc).__name__}: {line[:200]}" if line else type(exc).__name__
+
+
+_caption_block_reason = ""
+
+
 def fetch_caption_words(video_id: str) -> tuple[list, str]:
     """Return ([(start, end, token)], status). status is "ok",
-    "unavailable" (no English track) or "blocked"/"error: ..."."""
+    "unavailable: <reason>", "blocked: <reason>" or "error: <reason>".
+    After the first block the rest of the run is skipped with the same reason."""
+    global _caption_block_reason
     if _captions_blocked.is_set():
-        return [], "blocked"
+        return [], f"skipped (blocked earlier this run: {_caption_block_reason})"
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
     except ImportError:
@@ -1196,16 +1214,19 @@ def fetch_caption_words(video_id: str) -> tuple[list, str]:
             segments = [(r["start"], r["duration"], r["text"]) for r in raw]
     except Exception as e:
         name = type(e).__name__
+        reason = caption_error_reason(e)
         if name in ("RequestBlocked", "IpBlocked", "TooManyRequests") or "blocked" in str(e).lower():
+            _caption_block_reason = reason
             _captions_blocked.set()
-            return [], "blocked"
+            return [], f"blocked: {reason}"
         if name in ("NoTranscriptFound", "TranscriptsDisabled", "VideoUnavailable"):
-            return [], "unavailable"
+            return [], f"unavailable: {reason}"
         if isinstance(e, requests.RequestException):
             # Network-level failure (proxy, timeout, reset): same as a block
             # for this run's purposes; don't pay for it on every video.
+            _caption_block_reason = reason
             _captions_blocked.set()
-        return [], f"error: {name}"
+        return [], f"error: {reason}"
     return caption_align.words_from_segments(segments), "ok"
 
 
