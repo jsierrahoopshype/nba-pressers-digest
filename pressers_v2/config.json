@@ -57,21 +57,13 @@
     },
     {
       "team": "Brooklyn Nets",
-      "channel_id": "UCL7XnFZqcLjRHiS4xX4_vgA",
-      "active": true,
-      "handle_candidates": [
-        "@BrooklynNets",
-        "@nets"
-      ]
+      "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
+      "active": true
     },
     {
       "team": "Charlotte Hornets",
-      "channel_id": "UCiKXa2hObEziEZFkFx08i9A",
-      "active": true,
-      "handle_candidates": [
-        "@hornets",
-        "@CharlotteHornets"
-      ]
+      "channel_id": "UCPhFI5lIFnSggz7HgY9UuuQ",
+      "active": true
     },
     {
       "team": "Chicago Bulls",
@@ -96,7 +88,12 @@
     {
       "team": "Detroit Pistons",
       "channel_id": "UC-z5VCIFLG6tximfWzzlSSQ",
-      "active": true
+      "active": true,
+      "handle_candidates": [
+        "@pistons",
+        "@DetroitPistons",
+        "@detroitpistonsofficial"
+      ]
     },
     {
       "team": "Golden State Warriors",
@@ -176,7 +173,12 @@
     {
       "team": "Portland Trail Blazers",
       "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
-      "active": true
+      "active": true,
+      "handle_candidates": [
+        "@trailblazers",
+        "@PortlandTrailBlazers",
+        "@blazers"
+      ]
     },
     {
       "team": "Sacramento Kings",
@@ -200,13 +202,8 @@
     },
     {
       "team": "Washington Wizards",
-      "channel_id": "UCT5g1W7HHYiG8wOZEYgYXLw",
-      "active": true,
-      "handle_candidates": [
-        "@WashWizards",
-        "@washingtonwizards",
-        "@wizards"
-      ]
+      "channel_id": "UChvzoBPvORuNGtHTMzjUsIQ",
+      "active": true
     }
   ]
 }

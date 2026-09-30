@@ -28,6 +28,11 @@ def channel_rows(ids: list, key: str) -> dict:
     return out
 
 
+def team_nickname(team: str) -> str:
+    """"Portland Trail Blazers" -> "Blazers", "Philadelphia 76ers" -> "76ers"."""
+    return team.split()[-1]
+
+
 def describe(item: dict) -> str:
     uploads = item.get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads", "")
     snip = item.get("snippet", {})
@@ -45,11 +50,24 @@ def main() -> int:
     try:
         rows = channel_rows([c["channel_id"] for c in channels], key)
         broken = []
+        seen_ids = {}
         for c in channels:
             item = rows.get(c["channel_id"])
-            ok = bool(item and item.get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads"))
-            print(f"[{'OK ' if ok else 'BAD'}] {c['team']:<24} " + (describe(item) if item else c["channel_id"] + "  (not found)"))
-            if not ok:
+            has_uploads = bool(item and item.get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads"))
+            # An ID can exist and still be the wrong channel (e.g. another
+            # team's), so the channel title must contain the team nickname.
+            title = (item or {}).get("snippet", {}).get("title", "").lower()
+            nickname = team_nickname(c["team"]).lower()
+            status = "OK "
+            if not has_uploads:
+                status = "BAD"
+            elif nickname not in title:
+                status = "WRONG CHANNEL"
+            elif c["channel_id"] in seen_ids:
+                status = f"DUPLICATE of {seen_ids[c['channel_id']]}"
+            seen_ids.setdefault(c["channel_id"], c["team"])
+            print(f"[{status}] {c['team']:<24} " + (describe(item) if item else c["channel_id"] + "  (not found)"))
+            if status != "OK ":
                 broken.append(c)
         for c in broken:
             print(f"\n--- candidates for {c['team']} ---")
