@@ -1,0 +1,41 @@
+{
+  "video_id": "ck6tYJSZ81Y",
+  "url": "https://www.youtube.com/watch?v=ck6tYJSZ81Y",
+  "video_title": "De'Anthony Melton Previews Warriors 2026-27 Season | Media Day",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-09-29T01:48:31Z",
+  "duration_seconds": 526,
+  "processed_at": "2026-09-30T20:05:39Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "De'Anthony Melton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "De'Anthony Melton",
+      "speaker_confidence": "named",
+      "team": "Golden State Warriors",
+      "start_seconds": 324,
+      "end_seconds": 372,
+      "text": "Frank, I think he is going to add an interesting piece for us. I think his expertise in terms of the defensive scheme and just his experience throughout the league is important. I think he is going to provide what we need to really take our defense to the next level. And I think for us, and other players probably can speak for it, we want to go for a top three defense in this league. So some would say we want to go for the best defense in the league, but I think ultimately just starting trying to get top three week after week and I think it is just weeks will start to add up and as long as we aim for that, I think we will be in a good position.",
+      "pull_quote": "we want to go for a top three defense in this league",
+      "names_mentioned": [],
+      "news_angle": "De'Anthony Melton says the Warriors are aiming for a top three defense this season.",
+      "social_post": "De'Anthony Melton says the Warriors are focused on becoming a top three defense this season, adding that Frank Vogel's expertise will help them take their defensive play to the next level."
+    },
+    {
+      "rank": 2,
+      "speaker": "De'Anthony Melton",
+      "speaker_confidence": "named",
+      "team": "Golden State Warriors",
+      "start_seconds": 494,
+      "end_seconds": 526,
+      "text": "Jax is he a big kid, man. He a big kid, 1000%. I be joking with him. To me, online was telling me he is 26 years old. So to hear that he only 23 is crazy to me, but yeah, no he a big he a big boy and for me that is somebody I like to guard. So I have been bumping and pushing him around just because just to see how he reacts to it nowadays, but he definitely is strong and going downhill he is massive for sure.",
+      "pull_quote": "he definitely is strong and going downhill he is massive for sure",
+      "names_mentioned": [],
+      "news_angle": "De'Anthony Melton praises Jaxson Hayes' strength and size.",
+      "social_post": "De'Anthony Melton says Jaxson Hayes is a big, strong player who is massive when going downhill."
+    }
+  ]
+}

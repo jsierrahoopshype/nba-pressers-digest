@@ -1,0 +1,69 @@
+{
+  "video_id": "Xn1kdVNI-aY",
+  "url": "https://www.youtube.com/watch?v=Xn1kdVNI-aY",
+  "video_title": "2026-27 Media Day Press Conference 🎙️ | VJ Edgecombe",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-09-28T22:25:12Z",
+  "duration_seconds": 618,
+  "processed_at": "2026-09-30T20:08:14Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "VJ Edgecombe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "VJ Edgecombe",
+      "speaker_confidence": "named",
+      "team": "Philadelphia 76ers",
+      "start_seconds": 122,
+      "end_seconds": 143,
+      "text": "I have been countless reps shooting the ball. I say that is important, especially now with the team that we have now. Just trying to pick my spaces, pick my times, but I have been working on my game. Shooting, finishing, dribbling, everything. I have just been trying to get better.",
+      "pull_quote": "I have been working on my game. Shooting, finishing, dribbling, everything.",
+      "names_mentioned": [],
+      "news_angle": "VJ Edgecombe is focusing on improving his shooting, finishing, and dribbling this offseason.",
+      "social_post": "VJ Edgecombe says he is focusing on his all-around game this offseason, specifically working on his shooting, finishing, and dribbling to get better."
+    },
+    {
+      "rank": 2,
+      "speaker": "VJ Edgecombe",
+      "speaker_confidence": "named",
+      "team": "Philadelphia 76ers",
+      "start_seconds": 436,
+      "end_seconds": 460,
+      "text": "I take pride in playing defense. I just find it fun when it is kind of hard for the opposing team to score. I find that I find that kind of fun. I enjoy I enjoy playing defense and I feel like it gets me going, it gets me hype, and also just gets the team going also.",
+      "pull_quote": "I take pride in playing defense. I just find it fun",
+      "names_mentioned": [],
+      "news_angle": "VJ Edgecombe says he takes pride in playing defense and finds it fun.",
+      "social_post": "VJ Edgecombe says he takes pride in playing defense and finds it fun when it is hard for the opposing team to score."
+    },
+    {
+      "rank": 3,
+      "speaker": "VJ Edgecombe",
+      "speaker_confidence": "named",
+      "team": "Philadelphia 76ers",
+      "start_seconds": 584,
+      "end_seconds": 618,
+      "text": "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat, me, Tyrese, Jalen, Joel. And then LeBron came and obviously I do not have LeBron James number. So I cannot say go add LeBron to a group chat. Plus, if I had his number, I would not randomly add LeBron to a group chat. You get what I am saying? So I told Tyrese to do it. I asked Tyrese if we could do it.",
+      "pull_quote": "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "news_angle": "VJ Edgecombe initiated a group chat with his new teammates but did not have LeBron James' number.",
+      "social_post": "VJ Edgecombe says he started a group chat with his new teammates but did not have LeBron James' number to add him to it."
+    },
+    {
+      "rank": 4,
+      "speaker": "VJ Edgecombe",
+      "speaker_confidence": "named",
+      "team": "Philadelphia 76ers",
+      "start_seconds": 599,
+      "end_seconds": 618,
+      "text": "First of all, the NBA you get really tired. So when I was able to take some weeks off and like you say reflect on on the season, I was first of all I was really tired. I do not know if that is normal, but yeah.",
+      "pull_quote": "First of all, the NBA you get really tired.",
+      "names_mentioned": [],
+      "news_angle": "VJ Edgecombe admits he was surprised by how tired he was after his rookie season.",
+      "social_post": "VJ Edgecombe says he was surprised by how tired he was after his rookie season in the NBA."
+    }
+  ]
+}

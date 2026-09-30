@@ -1,0 +1,39 @@
+{
+  "video_id": "aWTtqoCkcdw",
+  "url": "https://www.youtube.com/watch?v=aWTtqoCkcdw",
+  "video_title": "Jaylin Williams and the squad take over Media Day 🎥",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-09-29T01:12:59Z",
+  "duration_seconds": 67,
+  "processed_at": "2026-09-30T20:05:32Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Jaylin Williams",
+    "Cason Wallace",
+    "Kenrich Williams",
+    "Luguentz Dort",
+    "Jalen Williams",
+    "Shai Gilgeous-Alexander",
+    "Chet Holmgren",
+    "Aaron Wiggins",
+    "Isaiah Joe",
+    "Alex Caruso"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenrich Williams",
+      "speaker_confidence": "named",
+      "team": "Oklahoma City Thunder",
+      "start_seconds": 11,
+      "end_seconds": 32,
+      "text": "With media day, it is my fifth season, fifth media day. I am excited for it. I think everybody is excited for media day, being back around each other. I am super excited. But I got my rookie here, B. Going to have a great year. Miss you guys. See you guys very soon. Let's do it.",
+      "pull_quote": "I am excited for it. I think everybody is excited for media day",
+      "names_mentioned": [
+        "B"
+      ],
+      "news_angle": "Kenrich Williams expresses excitement for his fifth season with the Oklahoma City Thunder.",
+      "social_post": "Kenrich Williams is ready for his fifth season with the Thunder. He says he is excited for media day and being back around the team."
+    }
+  ]
+}

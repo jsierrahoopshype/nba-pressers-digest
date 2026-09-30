@@ -1,0 +1,44 @@
+{
+  "video_id": "J5unk3vEQmk",
+  "url": "https://www.youtube.com/watch?v=J5unk3vEQmk",
+  "video_title": "Cavs Training Camp | James Harden Media Availability | 09.30.2026",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-09-30T18:46:47Z",
+  "duration_seconds": 359,
+  "processed_at": "2026-09-30T19:52:07Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "James Harden"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "James Harden",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 118,
+      "end_seconds": 154,
+      "text": "Mario has been looking good for this past few weeks. Today he looked really good. Peyton has looked good so putting everything together obviously it is going to take some time but we are in the right direction. They will definitely help us. Definitely going to help us.",
+      "pull_quote": "we are in the right direction",
+      "names_mentioned": [
+        "Mario",
+        "Peyton"
+      ],
+      "news_angle": "James Harden says teammates Mario and Peyton are looking good in training camp.",
+      "social_post": "James Harden says Mario and Peyton have been looking good in training camp, and he believes the team is moving in the right direction."
+    },
+    {
+      "rank": 2,
+      "speaker": "James Harden",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 299,
+      "end_seconds": 359,
+      "text": "I think it is confidence. As a young player he was probably trying to find himself, find what works, what does not work. What probably made him confident in that situation as far as his team was not the direction the team was trying to go so he had to come overseas and find himself and I think who he is now as a player fits with the NBA is now. Big strong guard who can get downhill, can shoot it, can pass it, who is very versatile. So he has been playing all summer, he looks really good and hopefully that can translate all year long to what we need.",
+      "pull_quote": "who he is now as a player fits with the NBA is now",
+      "names_mentioned": [],
+      "news_angle": "James Harden praises the growth and versatility of a young teammate.",
+      "social_post": "James Harden says a young teammate has grown into a versatile, big strong guard who fits perfectly in the modern NBA."
+    }
+  ]
+}

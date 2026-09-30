@@ -1,0 +1,80 @@
+{
+  "video_id": "HxgrFOnSFX0",
+  "url": "https://www.youtube.com/watch?v=HxgrFOnSFX0",
+  "video_title": "CJ Huntley Media Day 2026 Press Availability",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-09-29T00:24:57Z",
+  "duration_seconds": 231,
+  "processed_at": "2026-09-30T20:06:18Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "CJ Huntley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "CJ Huntley",
+      "speaker_confidence": "named",
+      "team": "Phoenix Suns",
+      "start_seconds": 33,
+      "end_seconds": 71,
+      "text": "I feel it was a learning experience for me. Starting on a two-way and then being with the Valley Suns for a little bit and then being back on a two-way. I really just put my head down and work once that happened. I did not try to make excuses or doubt my ability or what not. I just went the next day, worked, and I decided to stay with the Valley Suns. I actually flew out the next day the next G-League game to Sacramento to play with them. So, I just really took it as a learning opportunity and just put my head down and worked and they congratulated me late March with another two-way, so it was great.",
+      "pull_quote": "I really just put my head down and work once that happened.",
+      "names_mentioned": [],
+      "news_angle": "CJ Huntley describes his experience navigating between two-way contracts and the G-League last season.",
+      "social_post": "CJ Huntley reflects on his journey between two-way contracts and the G-League last season, saying he just put his head down and worked."
+    },
+    {
+      "rank": 2,
+      "speaker": "CJ Huntley",
+      "speaker_confidence": "named",
+      "team": "Phoenix Suns",
+      "start_seconds": 129,
+      "end_seconds": 162,
+      "text": "I am approaching the same way I approach every day. Just to put my head down and work, do the things that I can do, do the things I know I am capable of doing, that I have been working on this past off-season, and just controlling the things I can control. I would say mostly my just getting in the weight room really has been the main factor. Also my shooting, outside shooting. I feel I have been working coming back after practice, just to get more shots up and keep working on my game each and every day.",
+      "pull_quote": "I am approaching the same way I approach every day.",
+      "names_mentioned": [],
+      "news_angle": "CJ Huntley focuses on weight room work and shooting improvement for the upcoming season.",
+      "social_post": "CJ Huntley says he is focused on his weight room work and outside shooting to improve his game this season."
+    },
+    {
+      "rank": 3,
+      "speaker": "CJ Huntley",
+      "speaker_confidence": "named",
+      "team": "Phoenix Suns",
+      "start_seconds": 210,
+      "end_seconds": 231,
+      "text": "I just learned the pace of the game, the physicality of the game. Really just those two things. Just seeing those guys, seeing my teammates go out there and play the hardest they do each and every day, each every game, trying to just take away those few things that I can do to go out here and do the same.",
+      "pull_quote": "I just learned the pace of the game, the physicality of the game.",
+      "names_mentioned": [],
+      "news_angle": "CJ Huntley highlights pace and physicality as key lessons from his NBA game experience.",
+      "social_post": "CJ Huntley says the biggest lessons from his NBA experience have been learning the pace and physicality of the game."
+    },
+    {
+      "rank": 4,
+      "speaker": "CJ Huntley",
+      "speaker_confidence": "named",
+      "team": "Phoenix Suns",
+      "start_seconds": 171,
+      "end_seconds": 231,
+      "text": "I feel it is a great advantage because they are actually here with us right now, coming with us, been working out with us. So having them here at the same time as the Valley Suns season starts, there is no difference or anything. Everything is the same I have already learned it. So being able to teach those other guys that are coming in on the Valley Suns the same ways that we do here with the Suns will be good.",
+      "pull_quote": "I feel it is a great advantage because they are actually here with us.",
+      "names_mentioned": [],
+      "news_angle": "CJ Huntley notes the advantage of alignment between the Phoenix Suns and Valley Suns coaching staffs.",
+      "social_post": "CJ Huntley says the alignment between the Phoenix Suns and Valley Suns coaching staffs is a major advantage for player development."
+    },
+    {
+      "rank": 5,
+      "speaker": "CJ Huntley",
+      "speaker_confidence": "named",
+      "team": "Phoenix Suns",
+      "start_seconds": 216,
+      "end_seconds": 231,
+      "text": "I feel it was always been motivation ever since I was undrafted. I feel it has been motivation, had a chip on my shoulder. So just having that as well, that is always going to be my motivation to just keep proving myself each day and each out.",
+      "pull_quote": "I feel it was always been motivation ever since I was undrafted.",
+      "names_mentioned": [],
+      "news_angle": "CJ Huntley uses his undrafted status as ongoing motivation to prove himself.",
+      "social_post": "CJ Huntley says being undrafted has given him a chip on his shoulder and serves as constant motivation to prove himself."
+    }
+  ]
+}

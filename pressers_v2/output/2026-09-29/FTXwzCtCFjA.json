@@ -1,0 +1,69 @@
+{
+  "video_id": "FTXwzCtCFjA",
+  "url": "https://www.youtube.com/watch?v=FTXwzCtCFjA",
+  "video_title": "Gary Payton II Previews Warriors 2026-27 Season | Media Day",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-09-29T02:08:43Z",
+  "duration_seconds": 502,
+  "processed_at": "2026-09-30T20:05:28Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Gary Payton II"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Gary Payton II",
+      "speaker_confidence": "named",
+      "team": "Golden State Warriors",
+      "start_seconds": 46,
+      "end_seconds": 96,
+      "text": "He is good. Good kid, good size. He is going to help us on both ends quite a lot. I think he will be good with Dray and stuff. So it is going to be he is going to have a good year.",
+      "pull_quote": "He is going to help us on both ends quite a lot.",
+      "names_mentioned": [
+        "Dray"
+      ],
+      "news_angle": "Gary Payton II expects a strong season from teammate Trayce Jackson-Davis.",
+      "social_post": "Gary Payton II is high on Trayce Jackson-Davis heading into the season. He says the young big man is going to have a good year and help the Warriors on both ends of the floor."
+    },
+    {
+      "rank": 2,
+      "speaker": "Gary Payton II",
+      "speaker_confidence": "named",
+      "team": "Golden State Warriors",
+      "start_seconds": 306,
+      "end_seconds": 323,
+      "text": "It was a no-brainer. I had some few other options, but at this point in time it is just it is home and it is going to have to take a lot more to leave. A lot more to leave, so it was easy decision to come back.",
+      "pull_quote": "It was a no-brainer. I had some few other options, but at this point in time",
+      "names_mentioned": [],
+      "news_angle": "Gary Payton II says returning to the Warriors was an easy decision.",
+      "social_post": "Gary Payton II says returning to the Warriors was a no-brainer. He had other options, but he says it is home and it would take a lot for him to leave."
+    },
+    {
+      "rank": 3,
+      "speaker": "Gary Payton II",
+      "speaker_confidence": "named",
+      "team": "Golden State Warriors",
+      "start_seconds": 424,
+      "end_seconds": 460,
+      "text": "He is going to get thrown in the fire. I am pretty sure of it. Best way to see that is just throw him in the fire. He is going to have some times where he is going to have to switch on some guys, but he is going to learn as we go. He is going to learn that he is going to have to guard almost every position.",
+      "pull_quote": "He is going to get thrown in the fire. I am pretty sure of it.",
+      "names_mentioned": [],
+      "news_angle": "Gary Payton II says the team will throw Brandon Podziemski into the fire this season.",
+      "social_post": "Gary Payton II says the Warriors plan to throw Brandon Podziemski into the fire this season. He expects the young guard to learn on the fly while taking on tough defensive assignments."
+    },
+    {
+      "rank": 4,
+      "speaker": "Gary Payton II",
+      "speaker_confidence": "named",
+      "team": "Golden State Warriors",
+      "start_seconds": 465,
+      "end_seconds": 502,
+      "text": "He is going to help me get my my foot speed back and just for those shiftier guys, help me just stay patient and kind of let them make the turnovers themselves and funnel those to our our guys down there. But it is good to have be on my side for sure in this year.",
+      "pull_quote": "He is going to help me get my my foot speed back",
+      "names_mentioned": [],
+      "news_angle": "Gary Payton II says Brandon Podziemski will help him improve his defensive foot speed.",
+      "social_post": "Gary Payton II says Brandon Podziemski is helping him get his foot speed back in practice. He says the young guard is helping him stay patient on defense and force turnovers."
+    }
+  ]
+}

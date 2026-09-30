@@ -1,0 +1,57 @@
+{
+  "video_id": "ux2EgEkaRjw",
+  "url": "https://www.youtube.com/watch?v=ux2EgEkaRjw",
+  "video_title": "Taylor Jenkins Media Availability | 09.30.26",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-09-30T19:11:41Z",
+  "duration_seconds": 608,
+  "processed_at": "2026-09-30T19:47:41Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "speaker_confidence": "named",
+      "team": "Milwaukee Bucks",
+      "start_seconds": 107,
+      "end_seconds": 167,
+      "text": "Right now we are kind of randomizing it. We are mixing it up. We are looking at certain guard combinations, certain guard big combinations. We have a lot of depth. We have some difficult decisions to make for sure. As I look ahead to the five preseason games, I could foresee myself having different starting lineups and trying things out just so I get a better feel. And day by day, we are just trying to collect as much information as possible, try to identify how can we get some good chemistry not just for our starting lineup, how we sub and what our bench unit look like, how those combinations look like, because historically, I am not a one unit versus two unit kind of coach. I try to blend the roster so we develop connectivity all the way up and down the roster.",
+      "pull_quote": "I could foresee myself having different starting lineups and trying things out",
+      "names_mentioned": [],
+      "news_angle": "Taylor Jenkins plans to experiment with various starting lineups during the five preseason games.",
+      "social_post": "Taylor Jenkins says he plans to experiment with different starting lineups during the five preseason games to build chemistry and evaluate the depth of the roster."
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "speaker_confidence": "named",
+      "team": "Milwaukee Bucks",
+      "start_seconds": 330,
+      "end_seconds": 378,
+      "text": "Not accounting preseason, probably 11, maybe stuck a 12 in there, but that was maybe just by the game flow. But design wise, probably 11. So we are having those internal conversations now as a coaching staff. Historically, I want to develop depth early in the season, so I want to play more guys. You got to earn it. It is not just given to you. But are we playing an eight man, nine man rotation right out the gate? That is not my MO. I want to develop depth, I want to develop chemistry, because as you know over 82 game season, things come in a lot of different shapes and forms that require you to change your rotations.",
+      "pull_quote": "I want to develop depth early in the season, so I want to play more guys",
+      "names_mentioned": [],
+      "news_angle": "Taylor Jenkins intends to utilize a deep rotation of at least 11 players this season.",
+      "social_post": "Taylor Jenkins says he plans to utilize a deep rotation of at least 11 players this season to build chemistry and prepare for the long 82 game schedule."
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "speaker_confidence": "named",
+      "team": "Milwaukee Bucks",
+      "start_seconds": 542,
+      "end_seconds": 602,
+      "text": "Cormac has been in our system already for a year. Obviously had the Summer League exposure with a new coaching staff. He embodies a lot of the characteristics we stand for from competitiveness. He plays the right way. What he can do on the offensive side, going to challenge him to even become more of a great shooter for us. But a lot of the intangibles we talk about, I think that can impact winning over the course of a season. So whether he is developing that with us or with the Herd, I know he can fit that mold. And the same thing with Cam, he is really impressed me a lot with his physicality, his on ball defense, his help defense, and then growing a more of a playmaker on offense.",
+      "pull_quote": "Cormac has been in our system already for a year",
+      "names_mentioned": [
+        "Cormac",
+        "Cam"
+      ],
+      "news_angle": "Taylor Jenkins praises the development and potential impact of Cormac and Cam.",
+      "social_post": "Taylor Jenkins is impressed with the development of Cormac and Cam, highlighting their physicality, defensive skills, and potential to impact winning this season."
+    }
+  ]
+}

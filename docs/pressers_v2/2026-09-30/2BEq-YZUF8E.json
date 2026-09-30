@@ -1,0 +1,60 @@
+{
+  "video_id": "2BEq-YZUF8E",
+  "url": "https://www.youtube.com/watch?v=2BEq-YZUF8E",
+  "video_title": "Cavs Training Camp | Donovan Mitchell Media Availability | 09.30.2026",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-09-30T18:46:36Z",
+  "duration_seconds": 817,
+  "processed_at": "2026-09-30T19:57:23Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Donovan Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Mitchell",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 207,
+      "end_seconds": 237,
+      "text": "The biggest thing for myself is continue to be a good leader. Making the conference finals for my first time in my whole career, obviously it is a step in the right direction. So double down on the habits, understand the details are so small, the margins are so small, and really paying attention to every little thing, every little rebound, defensive stop, turnover, shot, anything. I think that is what is next for myself and the group.",
+      "pull_quote": "The biggest thing for myself is continue to be a good leader.",
+      "names_mentioned": [],
+      "news_angle": "Donovan Mitchell says he is focused on leadership and attention to detail after his first conference finals appearance.",
+      "social_post": "Donovan Mitchell says he is focused on leadership and attention to detail after his first conference finals appearance. The biggest thing for myself is continue to be a good leader."
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Mitchell",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 250,
+      "end_seconds": 282,
+      "text": "Mario is talented. He is strong, very strong, gets downhill, can defend, can hold his own in the paint, and also make plays. You saw today what he was able to do in practice, being able to get downhill, being able to knock down shots. He is really good and a big piece for us for sure.",
+      "pull_quote": "He is really good and a big piece for us for sure.",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "news_angle": "Donovan Mitchell praises Mario for his strength and ability to make plays.",
+      "social_post": "Donovan Mitchell praises Mario for his strength and ability to make plays. He is really good and a big piece for us for sure."
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Mitchell",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 546,
+      "end_seconds": 583,
+      "text": "I think the biggest thing is our length, our versatility. Adding a guy like Peyton changes us in a major way. Obviously you have Jaylen Tyson on the perimeter as well, even Mario. Just our size, our athleticism, being able to implement different coverages, different schemes, I think will definitely be able to help us come down the stretch, not be so one track minded defensively.",
+      "pull_quote": "Adding a guy like Peyton changes us in a major way.",
+      "names_mentioned": [
+        "Peyton",
+        "Jaylen Tyson",
+        "Mario"
+      ],
+      "news_angle": "Donovan Mitchell says adding Peyton and Jaylen Tyson improves the team's defensive versatility.",
+      "social_post": "Donovan Mitchell says adding Peyton and Jaylen Tyson improves the team's defensive versatility. Adding a guy like Peyton changes us in a major way."
+    }
+  ]
+}

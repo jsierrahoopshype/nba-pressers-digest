@@ -1,0 +1,235 @@
+{
+  "video_id": "3uAGh_yRyqg",
+  "url": "https://www.youtube.com/watch?v=3uAGh_yRyqg",
+  "video_title": "Every Nets Player Press Conference from Media Day 2026",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-09-28T22:17:58Z",
+  "duration_seconds": 6735,
+  "processed_at": "2026-09-30T20:12:50Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Julius Randle",
+    "Mike",
+    "Yegor",
+    "Day'Ron",
+    "Mikal Bridges",
+    "Cam Thomas",
+    "Nic Claxton",
+    "Day'Ron Sharpe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Julius Randle",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 129,
+      "end_seconds": 182,
+      "text": "I think it starts tomorrow with training camp and we just build from there. We stack days, continue to improve, come in with the right focus every single day and for me, when I do that, when I've done that in my career, the teams that I've been a part of that have done that in their career, the results always follow. So I think it's that, I think we have great leadership in the coaching staff with Jordi and everybody else. So we have the talent and I think it's really just about the mindset and you know, not just coming in every single day, but coming in with intention and purpose.",
+      "pull_quote": "I think it starts tomorrow with training camp and we just build from there.",
+      "names_mentioned": [
+        "Jordi"
+      ],
+      "news_angle": "Julius Randle emphasizes the importance of mindset and intentionality for the Nets as they begin training camp.",
+      "social_post": "Julius Randle says the Nets are focused on stacking days and coming in with intention as they start training camp tomorrow. He believes the results will follow if they maintain that mindset."
+    },
+    {
+      "rank": 2,
+      "speaker": "Mikal Bridges",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 6710,
+      "end_seconds": 6735,
+      "text": "I mean just watching film. You know watching constant film on you know what we went over today, watching it two, three, four times just to try to get the grasp of it and then just coming in the next day like it's nothing. Like if we go over it again, I got it just like that. I feel like that's just a big separator when it comes to that and before even before I came here, like I've just been about that, right. I feel like as a point guard you need to know everything on the floor what's going on and that's what I take pride in.",
+      "pull_quote": "I feel like as a point guard you need to know everything on the floor",
+      "names_mentioned": [],
+      "news_angle": "Mikal Bridges emphasizes the importance of film study and basketball IQ for his role.",
+      "social_post": "Mikal Bridges says watching constant film is a big separator for him. He takes pride in knowing everything that is going on on the floor as a point guard."
+    },
+    {
+      "rank": 3,
+      "speaker": "Julius Randle",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 248,
+      "end_seconds": 288,
+      "text": "I think it'll be great just because our play styles I feel like mesh with each other very well. Obviously we both can score the ball but you know like I said, like you said, I can I can create in multiple ways with how I what how I attack the basket, the rim, how I can get into the paint and a guy like that that's so elite at like you said cutting, catching and shooting, all those opportunities like players that I've played like that with that play with that play style in the past have been great for me.",
+      "pull_quote": "I feel like mesh with each other very well.",
+      "names_mentioned": [],
+      "news_angle": "Julius Randle believes his play style will mesh well with his new teammates.",
+      "social_post": "Julius Randle is excited to play with his new teammates, saying their play styles will mesh well together. He believes his ability to create and attack the rim will complement their elite cutting and shooting."
+    },
+    {
+      "rank": 4,
+      "speaker": "Mikal Bridges",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 6720,
+      "end_seconds": 6735,
+      "text": "Man at the end of the day we just trying to win. We just trying to win. All the accolades will come behind it as long as you win.",
+      "pull_quote": "All the accolades will come behind it as long as you win.",
+      "names_mentioned": [],
+      "news_angle": "Mikal Bridges prioritizes team success over individual accolades for his rookie season.",
+      "social_post": "Mikal Bridges says the goal for the Nets is just to win. He believes all the accolades will come behind it as long as they win."
+    },
+    {
+      "rank": 5,
+      "speaker": "Julius Randle",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 852,
+      "end_seconds": 910,
+      "text": "I think just even being back here now, I have a greater appreciation for it. Extremely happy basketball wise like this is a great place to be, a great team to build culture here and all of that stuff. So the basketball will take care of itself and then just living wise man, like I think I have a greater appreciation living here like my oldest son is back at his old school, all his buddies that he was you know, really close with for when we lived here the last two years like they face timed like every single day.",
+      "pull_quote": "I think just even being back here now, I have a greater appreciation for it.",
+      "names_mentioned": [],
+      "news_angle": "Julius Randle expresses his happiness and appreciation for returning to New York.",
+      "social_post": "Julius Randle is happy to be back in New York and feels a greater appreciation for the city. He says the basketball culture is great and his family is settling in well, with his son reconnecting with old friends."
+    },
+    {
+      "rank": 6,
+      "speaker": "Mikal Bridges",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 6713,
+      "end_seconds": 6735,
+      "text": "That's just something that I've been consistently trying to work on even before you know I got drafted. Um just because I've had people in my corner that's helped me with that stuff like you know Ronjon Rondo and Donovan Mitchell and Damian Lillard. They're always talking about habits, building a routine, sticking to your schedule, right. Um just staying consistent with it because as long as you're consistent off the court, you're going to be consistent on the court as well if you do the same work.",
+      "pull_quote": "as long as you're consistent off the court, you're going to be consistent on the court",
+      "names_mentioned": [
+        "Ronjon Rondo",
+        "Donovan Mitchell",
+        "Damian Lillard"
+      ],
+      "news_angle": "Mikal Bridges credits veteran mentors for teaching him the importance of consistent habits.",
+      "social_post": "Mikal Bridges says he learned the importance of building a routine and consistent habits from Ronjon Rondo, Donovan Mitchell, and Damian Lillard."
+    },
+    {
+      "rank": 7,
+      "speaker": "Mike",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 1703,
+      "end_seconds": 1731,
+      "text": "I'm excited. I think Julius is going to be a huge boost for us. You know he's been a part of a lot of winning situations. You know, adding Keon, adding Mo, but I think the biggest difference will be the the young guys coming back for year two. I think they've all put in the work necessary to make a huge jump.",
+      "pull_quote": "I think Julius is going to be a huge boost for us.",
+      "names_mentioned": [
+        "Julius",
+        "Keon",
+        "Mo"
+      ],
+      "news_angle": "Mike expects Julius Randle to provide a winning boost to the Nets while highlighting the growth of young players.",
+      "social_post": "Mike is excited about the upcoming season and believes Julius Randle will be a huge boost for the team. He also expects the young players to make a significant jump in their second year."
+    },
+    {
+      "rank": 8,
+      "speaker": "Mikal Bridges",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 6719,
+      "end_seconds": 6735,
+      "text": "I mean just trying to figure out, you know balance the time. You know you you get in, you do your work and then you have the rest of the day to yourself. So just prioritizing that and and using that time wisely to you know take care of your body, watch more film. Um I have more time to do what I love, so you know I'm I'm loving it out here.",
+      "pull_quote": "prioritizing that and and using that time wisely to you know take care of your body",
+      "names_mentioned": [],
+      "news_angle": "Mikal Bridges discusses balancing his time and prioritizing body care and film study.",
+      "social_post": "Mikal Bridges says he is loving his time in the NBA and is focused on prioritizing his time to take care of his body and watch more film."
+    },
+    {
+      "rank": 9,
+      "speaker": "Mike",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 1815,
+      "end_seconds": 1847,
+      "text": "I never was a dude who played basketball for a big contract or for the money. So for me, I'm just excited to play with these guys and be in Brooklyn and build this organization as one of the leaders. So I've voiced that I would love to be in Brooklyn, you know what I mean and that I'm enjoying playing with these guys and I think we'll be a lot a lot better this year.",
+      "pull_quote": "I'm just excited to play with these guys and be in Brooklyn",
+      "names_mentioned": [],
+      "news_angle": "Mike expresses his desire to remain in Brooklyn and build the organization.",
+      "social_post": "Mike says he is not focused on his contract and is just excited to play in Brooklyn. He wants to help lead the organization and believes the team will be much better this year."
+    },
+    {
+      "rank": 10,
+      "speaker": "Mikal Bridges",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 6716,
+      "end_seconds": 6735,
+      "text": "I feel like that's just the most important part when it comes to this thing. You know this there's a lot of stuff coming coming coming from being an NBA player and now I've asked, you know a lot of people like like I said before, Rondo, Dame and and Don. Like it it requires a lot, but as long as you keep the main thing the main thing and have fun with it, I mean you're going to enjoy every single moment of it.",
+      "pull_quote": "as long as you keep the main thing the main thing and have fun with it",
+      "names_mentioned": [
+        "Rondo",
+        "Dame",
+        "Don"
+      ],
+      "news_angle": "Mikal Bridges emphasizes having fun and keeping focus as key to navigating NBA life.",
+      "social_post": "Mikal Bridges says the most important part of being an NBA player is keeping the main thing the main thing and having fun with it."
+    },
+    {
+      "rank": 11,
+      "speaker": "Yegor",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 2730,
+      "end_seconds": 2752,
+      "text": "The main priority for the summer, getting stronger, living in the lifting room, but also playing, you know, in the aspects of my game, not just shooting, but a lot more to it, right? That comes to my final goal of a player that I'm trying to be.",
+      "pull_quote": "The main priority for the summer, getting stronger",
+      "names_mentioned": [],
+      "news_angle": "Yegor focuses on getting stronger and developing all aspects of his game this summer.",
+      "social_post": "Yegor says his main priority this summer has been getting stronger in the weight room and developing all aspects of his game to reach his potential."
+    },
+    {
+      "rank": 12,
+      "speaker": "Cam Thomas",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 6717,
+      "end_seconds": 6735,
+      "text": "I think all aspects, you know kind of to be able to join, join back with Jordy who's someone you know that I've had history with. Um and I mean just the opportunity to be in Brooklyn, you know a lot of young guys, um trying to build towards something too. So um able to to spread my wings a little bit here as well.",
+      "pull_quote": "trying to build towards something too. So um able to to spread my wings a little bit here",
+      "names_mentioned": [
+        "Jordy"
+      ],
+      "news_angle": "Cam Thomas expresses excitement about joining the Nets and reuniting with a former teammate.",
+      "social_post": "Cam Thomas is excited to join the Nets and reunite with a former teammate. He says he is looking forward to the opportunity to spread his wings in Brooklyn."
+    },
+    {
+      "rank": 13,
+      "speaker": "Yegor",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 2924,
+      "end_seconds": 2956,
+      "text": "I think it might be because of, you know, obviously a role on the court. I think last season it was a lot more of the ball, kind of catching shoot type of plays, while at BYU I was 80% of the game I was with the ball in my hands, right? And um, you know, and last season it was harder for me, but I think this year what I'm emphasizing on is getting to the lane.",
+      "pull_quote": "what I'm emphasizing on is getting to the lane.",
+      "names_mentioned": [],
+      "news_angle": "Yegor plans to emphasize getting to the lane this season to expand his offensive role.",
+      "social_post": "Yegor says he is focusing on getting to the lane this season, a shift from his catch and shoot role last year. He says he is adjusting to his role and wants to be more aggressive."
+    },
+    {
+      "rank": 14,
+      "speaker": "Cam Thomas",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 6707,
+      "end_seconds": 6735,
+      "text": "Yeah, that's the goal from from day one, you know we said we our goal is to get 50 wins. So we're going to have to go in there with the mentality that we're going to get 50 wins and that's through the guys with years leading that. Um most of us came from winning situations, so we know what it takes and that's just what we're going to do.",
+      "pull_quote": "our goal is to get 50 wins",
+      "names_mentioned": [],
+      "news_angle": "Cam Thomas states the Nets' goal is to reach 50 wins this season.",
+      "social_post": "Cam Thomas says the Nets have set a goal of 50 wins this season. He believes the team has the experience to make it happen."
+    },
+    {
+      "rank": 15,
+      "speaker": "Day'Ron",
+      "speaker_confidence": "named",
+      "team": "Brooklyn Nets",
+      "start_seconds": 4112,
+      "end_seconds": 4140,
+      "text": "I feel like I vision my role, you know, just like being a longer tenured guy and like kind of know what to expect going into the season. Being with Jordi for the last two years, um you know, just doing my thing as usual, um you know, not really like stressing about whether starting or not, coming off the bench or not, you know, just when I do get opportunity wherever it is, you know, like I always tell you, like I'm just going to do my thing.",
+      "pull_quote": "",
+      "names_mentioned": [
+        "Jordi"
+      ],
+      "news_angle": "Day'Ron is focused on playing hard and contributing regardless of his role.",
+      "social_post": "Day'Ron says he is not stressing about his role, whether he starts or comes off the bench. He is focused on doing his thing and helping the team win whenever he gets the opportunity."
+    }
+  ]
+}

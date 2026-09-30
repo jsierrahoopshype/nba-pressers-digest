@@ -1,0 +1,160 @@
+{
+  "video_id": "gwxm0d41t7Q",
+  "url": "https://www.youtube.com/watch?v=gwxm0d41t7Q",
+  "video_title": "2026 Media Day Press Conferences | LA Clippers",
+  "channel_team": "LA Clippers",
+  "published": "2026-09-28T23:55:08Z",
+  "duration_seconds": 3949,
+  "processed_at": "2026-09-30T20:07:23Z",
+  "model": "gemini-3.1-flash-lite",
+  "speakers_seen": [
+    "Trent Redden",
+    "Tyronn Lue",
+    "John Gibson",
+    "Darius Garland",
+    "Brandon Ingram",
+    "Ivica Zubac",
+    "Keaton",
+    "Kobe Brown"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trent Redden",
+      "speaker_confidence": "named",
+      "team": "Los Angeles Clippers",
+      "start_seconds": 212,
+      "end_seconds": 251,
+      "text": "The penalties we are facing are significant and we will comply with them. It will go hand in hand with our mandate to our fans to work to build their confidence as we go through the NBA's mandates and penalties this season. Personally, Ty and I are going to miss Al and Steve immensely. We wouldn't be here if it weren't for them and they have led us through a lot of different times.",
+      "pull_quote": "The penalties we are facing are significant and we will comply with them.",
+      "names_mentioned": [
+        "Ty",
+        "Al",
+        "Steve"
+      ],
+      "news_angle": "Trent Redden says the Clippers will comply with significant NBA penalties this season.",
+      "social_post": "Trent Redden says the penalties the Clippers are facing are significant and the organization will comply with them this season."
+    },
+    {
+      "rank": 2,
+      "speaker": "Kobe Brown",
+      "speaker_confidence": "named",
+      "team": "LA Clippers",
+      "start_seconds": 3617,
+      "end_seconds": 3641,
+      "text": "The first part with my body, I think that I have put on some more weight and muscle too. So that has kind of been a big thing for me is I was lifting super hard throughout the summer. The strength coaches they have me on a great plan getting in here four times a week getting lifts in to get stronger and be prepared for this season. So I feel like I have done a really good job there.",
+      "pull_quote": "I have put on some more weight and muscle too",
+      "names_mentioned": [],
+      "news_angle": "Kobe Brown focused on adding weight and muscle during the offseason.",
+      "social_post": "Kobe Brown says he has been working hard in the weight room this summer, adding that he has put on some more weight and muscle to be prepared for the upcoming season."
+    },
+    {
+      "rank": 3,
+      "speaker": "Darius Garland",
+      "speaker_confidence": "named",
+      "team": "Los Angeles Clippers",
+      "start_seconds": 2123,
+      "end_seconds": 2163,
+      "text": "My entire summer has been basketball. Nothing has really stopped my my summer. My main thing is to come in here and win games, so that's what that's my main focus and try to get better every day, get these guys better every day, so that's my main focus. Basketball, basketball, win games.",
+      "pull_quote": "My main thing is to come in here and win games",
+      "names_mentioned": [],
+      "news_angle": "Darius Garland says his main focus this season is winning games.",
+      "social_post": "Darius Garland says his main focus this season is winning games and getting better every day."
+    },
+    {
+      "rank": 4,
+      "speaker": "Kobe Brown",
+      "speaker_confidence": "named",
+      "team": "LA Clippers",
+      "start_seconds": 3644,
+      "end_seconds": 3666,
+      "text": "With Ty, he is one of the most chill coaches I have ever been around. It is kind of crazy, but he is super cool. He sees the game super well and it is fun just to listen to him and learn a lot from him and talk to him. I am just looking forward to continuing to watch film with him and get better.",
+      "pull_quote": "",
+      "names_mentioned": [
+        "Ty"
+      ],
+      "news_angle": "Kobe Brown praises Ty Lue for his coaching style and basketball IQ.",
+      "social_post": "Kobe Brown says Ty Lue is one of the most chill coaches he has ever been around, adding that he is looking forward to continuing to watch film with him and get better."
+    },
+    {
+      "rank": 5,
+      "speaker": "Brandon Ingram",
+      "speaker_confidence": "named",
+      "team": "Los Angeles Clippers",
+      "start_seconds": 3900,
+      "end_seconds": 3949,
+      "text": "I'm doing well in my recovery. I'm coming along. I've been in the facility for a little over a month now, just recovering, getting on the court a little bit, and getting stronger, and getting stronger in my legs so I can return back safely. I've been dealing with some pain throughout the year with the Raptors and especially coming down crunch time with the Raptors.",
+      "pull_quote": "I'm doing well in my recovery. I'm coming along.",
+      "names_mentioned": [],
+      "news_angle": "Brandon Ingram says he is recovering well from an Achilles injury.",
+      "social_post": "Brandon Ingram says he is recovering well from his Achilles injury and is focused on getting stronger to return safely."
+    },
+    {
+      "rank": 6,
+      "speaker": "Kobe Brown",
+      "speaker_confidence": "named",
+      "team": "LA Clippers",
+      "start_seconds": 3731,
+      "end_seconds": 3755,
+      "text": "I am just going to do my best to stay mentally focused, not worried about all the outside noise or whatever that comes along with it. Obviously there is pressure, you are going to be nervous for the games that are coming up. It is the first time in the NBA, so just going in there with the right mindset, not worrying about good or bad games but just continuing to get better each day.",
+      "pull_quote": "I am just going to do my best to stay mentally focused",
+      "names_mentioned": [],
+      "news_angle": "Kobe Brown is focused on maintaining his mental approach during his first NBA season.",
+      "social_post": "Kobe Brown says he is focused on staying mentally locked in during his first NBA season, adding that he is not worried about outside noise and just wants to continue to get better each day."
+    },
+    {
+      "rank": 7,
+      "speaker": "Ivica Zubac",
+      "speaker_confidence": "named",
+      "team": "Los Angeles Clippers",
+      "start_seconds": 3922,
+      "end_seconds": 3949,
+      "text": "With the way the team's built now, I definitely see myself playing in the paint a ton more, posting up, being a low post scoring threat, and basing my game around that a lot more than just staying on the perimeter.",
+      "pull_quote": "I definitely see myself playing in the paint a ton more",
+      "names_mentioned": [],
+      "news_angle": "Ivica Zubac plans to play more in the paint and post up this season.",
+      "social_post": "Ivica Zubac says he plans to play more in the paint and be a low post scoring threat this season."
+    },
+    {
+      "rank": 8,
+      "speaker": "Kobe Brown",
+      "speaker_confidence": "named",
+      "team": "LA Clippers",
+      "start_seconds": 3834,
+      "end_seconds": 3858,
+      "text": "I think the biggest thing is just having fun with it. I feel like it is more of an opportunity than more of a I have to do it. Seeing as opportunity to get out there and do the schedule release video, go do meet and greets, things like that. It is just fun to be able to do that and then get to know the fans well and all that. It has been a blast being able to do that.",
+      "pull_quote": "I think the biggest thing is just having fun with it",
+      "names_mentioned": [],
+      "news_angle": "Kobe Brown embraces the off-court opportunities that come with being a top draft pick.",
+      "social_post": "Kobe Brown says he is having fun with the off-court responsibilities that come with being a top draft pick, adding that he sees it as an opportunity to get to know the fans."
+    },
+    {
+      "rank": 9,
+      "speaker": "Keaton",
+      "speaker_confidence": "named",
+      "team": "Los Angeles Clippers",
+      "start_seconds": 3909,
+      "end_seconds": 3949,
+      "text": "I think I've just continued to I think the main thing first is just the defensive side of the ball, just wanting to get better there, and learning our scheme and coverages and and all that. But offensively, I've worked a lot in the pick and roll game and just working with you know our different bigs that we have.",
+      "pull_quote": "I think the main thing first is just the defensive side of the ball",
+      "names_mentioned": [],
+      "news_angle": "Keaton says he is focused on improving his defense and pick and roll play.",
+      "social_post": "Keaton says he is focused on improving his defense and pick and roll game this season."
+    },
+    {
+      "rank": 10,
+      "speaker": "Kobe Brown",
+      "speaker_confidence": "named",
+      "team": "LA Clippers",
+      "start_seconds": 3921,
+      "end_seconds": 3949,
+      "text": "It will definitely be a lot of fun. In pick-up we kind of have that already going on where I will be ball handler but then someone else will get it and so I will run and be a second action guy. I think it will all become a lot easier as I get more comfortable, but I am excited to be able to do that and be able to play alongside DG who is going to have the ball in his hands a lot.",
+      "pull_quote": "I am excited to be able to do that and be able to play alongside DG",
+      "names_mentioned": [
+        "DG"
+      ],
+      "news_angle": "Kobe Brown looks forward to playing multiple positions alongside the team's primary ball handlers.",
+      "social_post": "Kobe Brown says he is excited to play multiple roles on the court, adding that he is looking forward to playing alongside DG."
+    }
+  ]
+}

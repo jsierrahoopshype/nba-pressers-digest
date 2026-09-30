@@ -5,7 +5,7 @@
   "channel_team": "Cleveland Cavaliers",
   "published": "2026-09-30T14:16:12Z",
   "duration_seconds": 3268,
-  "processed_at": "2026-09-30T18:08:33Z",
+  "processed_at": "2026-09-30T19:54:02Z",
   "model": "gemini-3.1-flash-lite",
   "speakers_seen": [
     "Justin Rowan",
@@ -13,58 +13,52 @@
     "J.B. Bickerstaff",
     "Donovan Mitchell",
     "Evan Mobley",
-    "Jarrett Allen"
+    "Jalen Tyson"
   ],
   "quotes": [
     {
       "rank": 1,
       "speaker": "J.B. Bickerstaff",
+      "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
       "start_seconds": 740,
-      "end_seconds": 794,
-      "text": "There is a lot more stuff in coach's offense where we want to rebound, push and get out. We see this just watching him play and being around the guys is rebound, push, get out and now we're into transition a lot faster. He can snatch it really high off the glass and get out and run and now we have our guards sprinting down the lane and now we're making plays out of that.",
-      "news_angle": "J.B. Bickerstaff says Evan Mobley's rebounding and transition play will speed up the Cavaliers offense.",
-      "social_post": "J.B. Bickerstaff says Evan Mobley's ability to grab rebounds and push the ball will make the Cavaliers a much faster team in transition this season."
+      "end_seconds": 799,
+      "text": "There is a lot more stuff in coach's offense where we want to rebound, push and get out. We see this just watching him play and being around the guys is rebound, push, get out. And now we are into transition a lot faster. He can snatch it really high off the glass and get out and run and now we have our guards sprinting down the lane and now we are making plays out of that. The thing that we saw in Denver a lot, which he has gotten really good at is he becomes the ball screener and he slips out of it and he makes plays out of that.",
+      "pull_quote": "He can snatch it really high off the glass and get out and run",
+      "names_mentioned": [],
+      "news_angle": "J.B. Bickerstaff highlights Evan Mobley's improved transition play and ball screening ability.",
+      "social_post": "J.B. Bickerstaff is excited about Evan Mobley's growth, noting his ability to grab rebounds and push the pace in transition, as well as his improved ball screening."
     },
     {
       "rank": 2,
-      "speaker": "J.B. Bickerstaff",
+      "speaker": "Donovan Mitchell",
+      "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
-      "start_seconds": 802,
-      "end_seconds": 839,
-      "text": "The thing that we saw in Denver a lot which he's gotten really good at is he becomes the ball screener and he slips out of it and he makes plays out of that. I think we do a really nice job as a coaching staff of how do we get better at his decision making and so he innately makes really good decisions. We want to put him in even more of those decision making positions.",
-      "news_angle": "J.B. Bickerstaff plans to utilize Evan Mobley as a ball screener to improve his decision-making.",
-      "social_post": "J.B. Bickerstaff says Evan Mobley has become a great ball screener and the team plans to put him in more positions to make decisions this season."
+      "start_seconds": 2409,
+      "end_seconds": 2465,
+      "text": "This is probably the most time I have spent with my teammates outside of the actual season in my career. Just from training camp, from OTAs, from being in New York at the open and working out there and then going to Phoenix for James's birthday and working out there. And the crazy part is none of us went to Summer League. So like the fact that we are still spending time that guys coming out for my wedding, right guys came to Louisville, right like there is so many different things and so many different parts and the fact that when you have a guy like James, you know looking back at it, it is pretty wild that halfway through the year we just made a complete flip to the offense, flip the change everything.",
+      "pull_quote": "This is probably the most time I have spent with my teammates outside of the actual season",
+      "names_mentioned": [
+        "James"
+      ],
+      "news_angle": "Donovan Mitchell emphasizes the increased team bonding during this offseason.",
+      "social_post": "Donovan Mitchell says this is the most time he has spent with his teammates outside of the season, from training together to attending each other's weddings."
     },
     {
       "rank": 3,
-      "speaker": "Donovan Mitchell",
+      "speaker": "Jalen Tyson",
+      "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
-      "start_seconds": 2409,
-      "end_seconds": 2467,
-      "text": "This is probably the most time I've spent with my teammates outside of the actual season in my career just from training camp from OTAs from being in New York at the open and working out there and then going to Phoenix for James's birthday and working out there. The crazy part is none of us went to Summer League so the fact that we're still spending time that guys are coming out for my wedding right guys came to Louisville there's so many different things and so many different parts.",
-      "news_angle": "Donovan Mitchell says the team has spent more time together this offseason than any other in his career.",
-      "social_post": "Donovan Mitchell says the Cavaliers have spent more time together this offseason than any other team he has been on in his career."
-    },
-    {
-      "rank": 4,
-      "speaker": "Evan Mobley",
-      "team": "Cleveland Cavaliers",
-      "start_seconds": 3230,
+      "start_seconds": 3225,
       "end_seconds": 3268,
-      "text": "I was drafted and then I was 6'6\" 190. I remember looking like a child even in Summer League. Although I was super talented and I get my ways and all that but I wasn't really like physique in NBA and now I'm coming back at 6'9\" 260. So that definitely adds to the versatility the team can use.",
-      "news_angle": "Evan Mobley has gained significant weight and height since being drafted.",
-      "social_post": "Evan Mobley says he has grown to 6'9\" and 260 pounds since being drafted, adding that his new physique will help his versatility on the court."
-    },
-    {
-      "rank": 5,
-      "speaker": "Jarrett Allen",
-      "team": "Cleveland Cavaliers",
-      "start_seconds": 3245,
-      "end_seconds": 3268,
-      "text": "Honestly I thought there was more to unlock. I didn't know we were such a great pick and roll duo and you know you know me I'm not looking at that. I just felt like there were little things that we could tweak to make the pick and roll even better and I'm sure he felt the same way.",
-      "news_angle": "Jarrett Allen believes there is more potential to unlock in his pick and roll partnership with Donovan Mitchell.",
-      "social_post": "Jarrett Allen says he believes there is more potential to unlock in his pick and roll partnership with Donovan Mitchell after working on small tweaks this offseason."
+      "text": "The second thing is I was drafted, a man at 6-6 190. You know, I remember looking like a child, even in Summer League, although I was, you know, super talented, but I get my ways and all that, but I wasn't really like physique in NBA and now I am coming back at 6-9 260. So that definitely adds to the versatility the team can use, that Kenny can use, obviously my teammates, spoke about, spoke about, James and you know, it is very useful that they have these, you know, type of players that can help them on a court with multiple things, screen for them, get open for them and all that stuff.",
+      "pull_quote": "I am coming back at 6-9 260. So that definitely adds to the versatility",
+      "names_mentioned": [
+        "Kenny",
+        "James"
+      ],
+      "news_angle": "Jalen Tyson discusses his physical transformation and increased versatility.",
+      "social_post": "Jalen Tyson is coming into the season with a new physique, moving from 190 to 260 pounds, which he believes will add a new layer of versatility to the team."
     }
   ]
 }
