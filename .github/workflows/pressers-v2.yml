@@ -1,0 +1,100 @@
+name: Pressers v2 (quotes + clips)
+
+# Additive pipeline. Does not touch scripts/ or daily-digest.yml.
+on:
+  schedule:
+    - cron: '15 6 * * *'   # 06:15 UTC: after overnight postgame pressers (8:15 Madrid summer)
+    - cron: '15 14 * * *'  # 14:15 UTC: morning shootaround / practice availabilities
+    - cron: '15 20 * * *'  # 20:15 UTC: afternoon availabilities + early pregame
+  workflow_dispatch:
+    inputs:
+      extra_videos:
+        description: "Optional: YouTube URLs to also process (one per line or comma-separated)"
+        required: false
+        type: string
+
+# Serialize every run (cron + manual) so two runs never race on the same
+# per-video files. A newer trigger queues behind the current run.
+concurrency:
+  group: pressers-v2
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    # 50 min outer cap = 35 min in-script SIGALRM budget + setup + push + Slack.
+    timeout-minutes: 50
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r pressers_v2/requirements.txt
+
+      - name: Run presser extractor
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          EXTRA_VIDEOS: ${{ inputs.extra_videos }}
+          GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
+        run: python pressers_v2/presser_extractor.py
+
+      - name: Mirror output into docs/ for GitHub Pages
+        if: always()
+        run: |
+          mkdir -p docs/pressers_v2
+          if [ -d pressers_v2/output ]; then
+            rsync -a --delete pressers_v2/output/ docs/pressers_v2/
+          fi
+          if [ ! -f docs/index.md ]; then
+            printf '# NBA pressers digest\n\nSee the [pressers v2 archive](pressers_v2/) of processed press conferences.\n' > docs/index.md
+          fi
+
+      - name: Commit and push
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add pressers_v2/output docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Pressers v2 run: $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          # Up to 4 push attempts. On rejection, rebase onto the remote tip,
+          # resolving any conflict in favour of this run's files (-X theirs
+          # = the commit being replayed, i.e. ours, during a rebase).
+          max_retries=4
+          attempt=0
+          until git push origin "HEAD:${GITHUB_REF_NAME}"; do
+            attempt=$((attempt + 1))
+            if [ "$attempt" -gt "$max_retries" ]; then
+              echo "::error::Push failed after $max_retries retries; this run's output was not saved."
+              exit 1
+            fi
+            sleep_s=$((attempt * 5))
+            echo "Push rejected; retry ${attempt}/${max_retries} after git pull --rebase -X theirs (sleep ${sleep_s}s)"
+            sleep "$sleep_s"
+            if ! git pull --rebase -X theirs origin "${GITHUB_REF_NAME}"; then
+              git rebase --abort || true
+              echo "Rebase failed; will retry."
+            fi
+          done
+          echo "Pushed."
+
+      # Slack goes LAST, after the push, so the linked digest is live.
+      - name: Post Slack notification
+        if: always() && hashFiles('pressers_v2/.slack_payload.json') != ''
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python pressers_v2/slack_notify.py pressers_v2/.slack_payload.json

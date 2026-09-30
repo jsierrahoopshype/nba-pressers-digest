@@ -1,0 +1,198 @@
+{
+  "_comment": "Edit this file to tune the pressers_v2 pipeline without touching code. Channel IDs copied from scripts/ingest.py NBA_CHANNELS.",
+  "window_hours": 48,
+  "min_duration_seconds": 60,
+  "max_videos_per_run": 30,
+  "max_videos_per_channel_per_run": 6,
+  "recent_uploads_per_channel": 25,
+  "include_title_keywords": [
+    "press conference",
+    "presser",
+    "postgame",
+    "post-game",
+    "post game",
+    "pregame",
+    "pre-game",
+    "pre game",
+    "media availability",
+    "availability",
+    "media session",
+    "media day",
+    "talks to the media",
+    "talks to media",
+    "speaks to the media",
+    "speaks to media",
+    "speaks with the media",
+    "exit interview",
+    "introductory"
+  ],
+  "exclude_title_keywords": [
+    "highlights",
+    "full game",
+    "game recap",
+    "top plays",
+    "best plays",
+    "mic'd up",
+    "micd up",
+    "#shorts",
+    "all-access",
+    "behind the scenes",
+    "hype video",
+    "trailer",
+    "promo",
+    "every basket",
+    "every dunk"
+  ],
+  "channels": [
+    {
+      "team": "Atlanta Hawks",
+      "channel_id": "UCpfcwELvR1wtcRJ0UxNXHYw",
+      "active": true
+    },
+    {
+      "team": "Boston Celtics",
+      "channel_id": "UCMfT9dr6xC_RIWoA9hI0meQ",
+      "active": true
+    },
+    {
+      "team": "Brooklyn Nets",
+      "channel_id": "UCL7XnFZqcLjRHiS4xX4_vgA",
+      "active": true
+    },
+    {
+      "team": "Charlotte Hornets",
+      "channel_id": "UCiKXa2hObEziEZFkFx08i9A",
+      "active": true
+    },
+    {
+      "team": "Chicago Bulls",
+      "channel_id": "UCvZi1jVVZ2yq0k5kkjzmuGw",
+      "active": true
+    },
+    {
+      "team": "Cleveland Cavaliers",
+      "channel_id": "UCOdS-I1sYkKWhtTjMUWP_TA",
+      "active": true
+    },
+    {
+      "team": "Dallas Mavericks",
+      "channel_id": "UCZywaCS_y9YOSSAC9z3dIeg",
+      "active": true
+    },
+    {
+      "team": "Denver Nuggets",
+      "channel_id": "UCl8hzdP5wVlhuzNG3WCJa1w",
+      "active": true
+    },
+    {
+      "team": "Detroit Pistons",
+      "channel_id": "UC-z5VCIFLG6tximfWzzlSSQ",
+      "active": true
+    },
+    {
+      "team": "Golden State Warriors",
+      "channel_id": "UCeYc_OjHs3QNxIjti2whKzg",
+      "active": true
+    },
+    {
+      "team": "Houston Rockets",
+      "channel_id": "UCVD7l69MVGFq_wzQvbk9HbQ",
+      "active": true
+    },
+    {
+      "team": "Indiana Pacers",
+      "channel_id": "UCUQDCnAwU-35cOo8WCzg6zA",
+      "active": true
+    },
+    {
+      "team": "LA Clippers",
+      "channel_id": "UCoK6pw3iIVF9WAWnQd3hj-g",
+      "active": true
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "channel_id": "UC8CSt-oVqy8pUAoKSApTxQw",
+      "active": true
+    },
+    {
+      "team": "Memphis Grizzlies",
+      "channel_id": "UCCK5EpWKYrAmILfaZThCV-Q",
+      "active": true
+    },
+    {
+      "team": "Miami Heat",
+      "channel_id": "UC8bZbiKoPNRi3taABIaFeBw",
+      "active": true
+    },
+    {
+      "team": "Milwaukee Bucks",
+      "channel_id": "UCRZDEVva3Z8h_Q0VetTgDUA",
+      "active": true
+    },
+    {
+      "team": "Minnesota Timberwolves",
+      "channel_id": "UCXWDN5NKVFgnPt25CMh98Cg",
+      "active": true
+    },
+    {
+      "team": "New Orleans Pelicans",
+      "channel_id": "UCHvG7tf62PwI04ZRfoptRSw",
+      "active": true
+    },
+    {
+      "team": "New York Knicks",
+      "channel_id": "UC0hb8f0OXHEzDrJDUq-YVVw",
+      "active": true
+    },
+    {
+      "team": "Oklahoma City Thunder",
+      "channel_id": "UCpXdQhy6kb5CTD8hKlmOL3w",
+      "active": true
+    },
+    {
+      "team": "Orlando Magic",
+      "channel_id": "UCxHFH-yfbhUrsWY4prPx3oQ",
+      "active": true
+    },
+    {
+      "team": "Philadelphia 76ers",
+      "channel_id": "UC5qJUyng_ezl0TVjVJFqtfQ",
+      "active": true
+    },
+    {
+      "team": "Phoenix Suns",
+      "channel_id": "UCLxlWVVHz2a8SdCfxzVXzQw",
+      "active": true
+    },
+    {
+      "team": "Portland Trail Blazers",
+      "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
+      "active": true
+    },
+    {
+      "team": "Sacramento Kings",
+      "channel_id": "UCSgFigczGdNMilV1K23JgUQ",
+      "active": true
+    },
+    {
+      "team": "San Antonio Spurs",
+      "channel_id": "UCEZHE-0CoHqeL1LGFa2EmQw",
+      "active": true
+    },
+    {
+      "team": "Toronto Raptors",
+      "channel_id": "UCYBFE432C2AmNRDGEXE4uVg",
+      "active": true
+    },
+    {
+      "team": "Utah Jazz",
+      "channel_id": "UCv9iSdeI9IzWfV8yTDsMYWA",
+      "active": true
+    },
+    {
+      "team": "Washington Wizards",
+      "channel_id": "UCT5g1W7HHYiG8wOZEYgYXLw",
+      "active": true
+    }
+  ]
+}
