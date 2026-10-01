@@ -1,38 +1,51 @@
 """
-Local presser clipper (Windows-first, runs anywhere with Python + ffmpeg).
+NBA presser clip maker (Windows and macOS; anything with Python + ffmpeg).
 
-Downloads pressers_v2/output/latest_clips.json from GitHub, prints a numbered
-pick-list (news score, speaker, team, angle) and, for each chosen clip:
+Reads the clip list (pressers_v2/output/latest_clips.json on GitHub, public,
+no account needed), shows a numbered pick-list for the latest cloud run and,
+for each chosen quote:
   0. finds the REAL start/end of the quote: yt-dlp fetches the video's
      captions and the quote's first/last words are fuzzy-matched to them;
      without captions, faster-whisper transcribes +-90s around the given time.
      A low-confidence match skips the clip (listed at the end) rather than
      cutting the wrong segment.
-  1. yt-dlp --download-sections grabs only that slice (+0.5s padding each side)
-  2. ffmpeg renders a 1080x1920 vertical MP4: blurred-background fill, the
-     original frame centred, a speaker/team lower third and burned-in
-     captions built from the quote text in short chunks.
-  3. Saves <out>\\<YYYY-MM-DD>\\<pressers|podcasts|oneoffs>\\
-     <date>_<team>_<speaker>_<n>.mp4 plus a matching .txt with the social post
-     and source URL.
+  1. yt-dlp --download-sections grabs only that slice (+0.5s padding), ONCE
+  2. ffmpeg renders each chosen format from that one download:
+       vertical  1080x1920  (Reels, TikTok, Shorts)
+       youtube   1920x1080  (X, YouTube, Facebook)
+       square    1080x1080  (Instagram/Facebook feed)
+     Each has its own layout: the original frame fitted with a blurred fill,
+     a speaker/team lower third and burned-in captions placed for that shape
+     (outside the picture for vertical and square, in the top-left corner and
+     along the bottom edge for YouTube).
+  3. Saves <out>/<video date>/<pressers|podcasts|oneoffs>/
+     <date>_<team>_<speaker>_<videoid>-<start>s_<format>.mp4, plus one .txt per
+     quote with the draft social post and the source link.
 
-Clips already made (tracked in <out>\\_made.json) are skipped, so running it
-several times a day only renders the new ones. Failed clips are skipped and
-listed at the end.
+Names depend only on the quote, so a clip that already exists in the folder
+(also a shared Google Drive / OneDrive / Dropbox folder somebody else fills)
+is never rendered again, per format. Files are written under a temporary
+name and renamed when complete, so nobody sees half-written clips.
 
-Normally started by double-clicking make-presser-clips.bat, which asks which
-clips to render (Enter = top 10 by news score from the latest run). Options:
-    P / D / O         (bare argument) top 10 pressers / podcasts / one-offs
-    --type TYPE       same, as presser / podcast / oneoff
-    --all             render every clip in the list
-    --pick 1,3,5-7    render these numbers from the printed list
-    --top N           default selection size (10)
-    --yes             don't ask; use the default selection
-    --limit N         only the first N clips
-    --team TEXT       only clips whose team contains TEXT (e.g. --team celtics)
-    --force           re-render clips that were already made
-    --manifest X      use a local file or another URL instead of GitHub
-    --out DIR         output root (default: Documents\\presser-clips)
+Settings (save folder, default formats) come from settings.json next to this
+file, written by the installer. Without it: <home>/Documents/presser-clips and
+all three formats.
+
+    (no options)       interactive pick-list
+    --url URL          clip the one quote at this timestamped YouTube link
+    --formats VYS      formats: any of V (vertical) Y (youtube) S (square)
+    --yes              don't ask; top --top clips by news score, default formats
+    --pick 1,3,5-7     these numbers from the printed list
+    --all              every clip from the last 48 hours
+    --type TYPE        top clips of one type: presser / podcast / oneoff
+                       (or bare P / D / O)
+    --top N            default selection size (10)
+    --team TEXT        only clips whose team contains TEXT
+    --limit N          only the first N clips
+    --force            render again even when the file exists
+    --out DIR          save folder (overrides settings.json)
+    --manifest X       a local file or another URL instead of GitHub
+    --settings FILE    another settings.json
 """
 
 import argparse
@@ -45,55 +58,166 @@ import sys
 import tempfile
 import time
 import unicodedata
+import urllib.error
 import urllib.request
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
 try:
     import caption_align
 except ImportError:
-    print("[X] caption_align.py is missing. Download it from the same GitHub folder as this script "
-          "(pressers_v2/caption_align.py) and put it next to make_presser_clips.py.")
+    print("[X] caption_align.py is missing. Run the installer again (it downloads it next to "
+          "make_presser_clips.py).")
     sys.exit(2)
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
-MANIFEST_URL = (
-    "https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/"
-    "main/pressers_v2/output/latest_clips.json"
-)
-if os.name == "nt":
-    DEFAULT_OUT = Path(r"C:\Users\Jorge Sierra\Documents\presser-clips")
-else:
-    DEFAULT_OUT = Path.home() / "presser-clips"
+REPO_RAW = "https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/main/pressers_v2"
+MANIFEST_URL = f"{REPO_RAW}/output/latest_clips.json"
+SETTINGS_PATH = HERE / "settings.json"
 
 PAD_SECS = 0.5
 DEFAULT_TOP = 10
 WHISPER_WINDOW_SECS = 90
 WHISPER_MODEL = "base.en"   # ~140 MB, downloaded once on first use
-OUT_W, OUT_H = 1080, 1920
 VIDEO_ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
+DAY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+URL_LOOKBACK_DAYS = 10      # how far back --url looks for a quote no longer in the 48h list
+STALE_PARTIAL_SECS = 6 * 3600
 
-# Layout (16:9 source scaled to 1080x608 sits at y=656..1264).
-LOWER_THIRD_X, LOWER_THIRD_Y = 60, 1235      # bottom-left anchor, inside the frame
-CAPTION_TOP_Y = 1310                          # captions start just under the frame
-CAPTION_MAX_WORDS = 6
-CAPTION_MAX_CHARS = 32
+# --------------------------------------------------------------------------- #
+# Formats and their layouts
+# --------------------------------------------------------------------------- #
+# box = where the original 16:9 frame sits (x, y, w, h); the rest is blurred
+# fill. Lower third ("lt") and captions ("cap") are positioned per shape:
+#   vertical: frame in the middle, lower third just above it, captions just
+#             below it (clear of the bottom ~370px that Reels/TikTok cover).
+#   square:   frame slightly above centre, lower third in the top band,
+#             captions in the bottom band.
+#   youtube:  the frame fills the picture; compact lower third in the top-left
+#             corner, captions along the bottom edge (where podium and
+#             shoulders are, not faces).
+FORMATS = {
+    "vertical": {"letter": "v", "size": (1080, 1920), "box": (0, 656, 1080, 608),
+                 "label": "Vertical 9:16 (Instagram Reels, TikTok, YouTube Shorts)",
+                 "lt_pos": (60, 612), "lt_align": 1, "lt_size": 48, "lt_team_size": 32,
+                 "cap_align": 8, "cap_margin_v": 1300, "cap_margin_lr": 70, "cap_size": 64,
+                 "cap_outline": 5, "cap_shadow": 0, "cap_chars": 30, "cap_words": 6},
+    "youtube": {"letter": "y", "size": (1920, 1080), "box": (0, 0, 1920, 1080),
+                "label": "YouTube 16:9 (X, YouTube, Facebook)",
+                "lt_pos": (56, 52), "lt_align": 7, "lt_size": 40, "lt_team_size": 28,
+                "cap_align": 2, "cap_margin_v": 56, "cap_margin_lr": 240, "cap_size": 56,
+                "cap_outline": 4, "cap_shadow": 1, "cap_chars": 42, "cap_words": 8},
+    "square": {"letter": "s", "size": (1080, 1080), "box": (0, 196, 1080, 608),
+               "label": "Square 1:1 (Instagram and Facebook feed)",
+               "lt_pos": (50, 160), "lt_align": 1, "lt_size": 40, "lt_team_size": 28,
+               "cap_align": 8, "cap_margin_v": 832, "cap_margin_lr": 60, "cap_size": 54,
+               "cap_outline": 4, "cap_shadow": 0, "cap_chars": 32, "cap_words": 6},
+}
+FORMAT_ORDER = ("vertical", "youtube", "square")
+LT_BOX_PAD = 14     # BorderStyle 3 box padding around the lower third
 
 
 def say(msg: str = "") -> None:
     print(msg, flush=True)
 
 
+def parse_formats(text: str, default: list) -> list:
+    """'' -> default; letters V/Y/S in any order or combination ("VS",
+    "v, y"), full names, or ALL. Returns names in FORMAT_ORDER."""
+    t = (text or "").strip().lower()
+    if not t:
+        return list(default)
+    if t in ("all", "a"):
+        return list(FORMAT_ORDER)
+    chosen = set()
+    for token in re.split(r"[\s,+/]+", t):
+        if not token:
+            continue
+        if token in FORMATS:
+            chosen.add(token)
+            continue
+        for ch in token:
+            match = [f for f in FORMATS if FORMATS[f]["letter"] == ch]
+            if not match:
+                raise ValueError(f"'{ch.upper()}' isn't a format; use V, Y and/or S")
+            chosen.add(match[0])
+    if not chosen:
+        raise ValueError("no format given")
+    return [f for f in FORMAT_ORDER if f in chosen]
+
+
+def format_letters(formats: list) -> str:
+    return "".join(FORMATS[f]["letter"].upper() for f in formats)
+
+
 # --------------------------------------------------------------------------- #
-# Tool checks
+# Settings + tool discovery
 # --------------------------------------------------------------------------- #
 
-def find_ffmpeg() -> str | None:
-    return shutil.which("ffmpeg")
+def default_out_dir() -> Path:
+    return Path.home() / "Documents" / "presser-clips"
+
+
+def load_settings(path: Path = SETTINGS_PATH) -> dict:
+    try:
+        data = json.loads(Path(path).read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except (OSError, ValueError):
+        return {}
+
+
+def settings_formats(settings: dict) -> list:
+    raw = settings.get("formats")
+    if isinstance(raw, list):
+        fm = [f for f in FORMAT_ORDER if f in raw]
+        if fm:
+            return fm
+    return list(FORMAT_ORDER)
+
+
+def tool_dirs(settings: dict | None = None) -> list:
+    """Folders that may hold ffmpeg / deno even when PATH hasn't caught up
+    (winget and Homebrew installs, deno from pip inside the app's venv)."""
+    dirs = []
+    ff = (settings or {}).get("ffmpeg") or ""
+    if ff and Path(ff).is_file():
+        dirs.append(Path(ff).parent)
+    dirs.append(Path(sys.executable).parent)      # venv Scripts/ or bin/: deno, yt-dlp
+    if os.name == "nt":
+        local = os.environ.get("LOCALAPPDATA")
+        if local:
+            dirs.append(Path(local) / "Microsoft" / "WinGet" / "Links")
+    else:
+        dirs += [Path("/opt/homebrew/bin"), Path("/usr/local/bin")]
+    dirs.append(Path.home() / ".deno" / "bin")
+    return [d for d in dirs if d.is_dir()]
+
+
+def prepare_path(settings: dict | None = None) -> None:
+    """Put the tool folders first on PATH for this process and its children
+    (yt-dlp looks up ffmpeg and deno on PATH)."""
+    current = os.environ.get("PATH", "")
+    extra = [str(d) for d in tool_dirs(settings) if str(d) not in current.split(os.pathsep)]
+    if extra:
+        os.environ["PATH"] = os.pathsep.join(extra + [current])
+
+
+def find_ffmpeg(settings: dict | None = None) -> str | None:
+    prepare_path(settings)
+    found = shutil.which("ffmpeg")
+    if found:
+        return found
+    local = os.environ.get("LOCALAPPDATA")
+    if os.name == "nt" and local:
+        hits = sorted((Path(local) / "Microsoft" / "WinGet" / "Packages").glob("Gyan.FFmpeg*/*/bin/ffmpeg.exe"))
+        if hits:
+            return str(hits[-1])
+    return None
 
 
 def ytdlp_cmd() -> list:
@@ -101,33 +225,52 @@ def ytdlp_cmd() -> list:
     return [sys.executable, "-m", "yt_dlp"]
 
 
-def check_tools() -> str | None:
-    ffmpeg = find_ffmpeg()
+def fix_hint() -> str:
+    if os.name == "nt":
+        return "Fix: run install-presser-clips.bat again (it repairs the setup)."
+    if sys.platform == "darwin":
+        return "Fix: run install-presser-clips-mac.command again (it repairs the setup)."
+    return "Fix: install ffmpeg and yt-dlp."
+
+
+def check_tools(settings: dict | None = None) -> str | None:
+    ffmpeg = find_ffmpeg(settings)
     if not ffmpeg:
-        say("[X] ffmpeg is not installed (or not on PATH).")
-        say("    Fix: open PowerShell and run:")
-        say("        winget install --id Gyan.FFmpeg -e")
-        say("    Then close this window, open a new one and run the clipper again.")
+        say("[X] ffmpeg was not found.")
+        say("    " + fix_hint())
         return None
     try:
         subprocess.run(ytdlp_cmd() + ["--version"], check=True, capture_output=True, timeout=60)
     except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
         say("[X] yt-dlp is not installed for this Python.")
-        say(f"    Fix: {Path(sys.executable).name} -m pip install --upgrade \"yt-dlp[default]\"")
+        say("    " + fix_hint())
         return None
     return ffmpeg
 
 
 # --------------------------------------------------------------------------- #
-# Manifest
+# Clip list
 # --------------------------------------------------------------------------- #
+
+def _ssl_context():
+    try:
+        import ssl
+        import certifi
+        return ssl.create_default_context(cafile=certifi.where())
+    except Exception:
+        return None
+
+
+def fetch_json(url: str, timeout: int = 30):
+    url = url + ("&" if "?" in url else "?") + f"nocache={int(time.time())}"
+    req = urllib.request.Request(url, headers={"User-Agent": "nba-presser-clips/2.0"})
+    with urllib.request.urlopen(req, timeout=timeout, context=_ssl_context()) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
 
 def load_manifest(source: str) -> dict:
     if re.match(r"^https?://", source):
-        url = source + ("&" if "?" in source else "?") + f"nocache={int(time.time())}"
-        req = urllib.request.Request(url, headers={"User-Agent": "presser-clipper/1.0"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return json.loads(resp.read().decode("utf-8"))
+        return fetch_json(source)
     return json.loads(Path(source).read_text(encoding="utf-8"))
 
 
@@ -142,6 +285,107 @@ def valid_clip(clip: dict) -> str:
     if start < 0 or end <= start or end - start > 180:
         return f"bad time range {start}-{end}"
     return ""
+
+
+# --------------------------------------------------------------------------- #
+# A pasted YouTube link -> the digest quote it points at
+# --------------------------------------------------------------------------- #
+
+YT_ID_RE = re.compile(r"(?:youtube\.com/(?:watch\?(?:[^#\s]*&)?v=|shorts/|live/|embed/)|youtu\.be/)"
+                      r"([A-Za-z0-9_-]{11})")
+YT_T_RE = re.compile(r"[?&#](?:t|start)=((?:\d+h)?(?:\d+m)?\d+s?|(?:\d+h)?\d+m|\d+h)(?=$|[&#\s])")
+
+
+def parse_youtube_url(text: str) -> tuple:
+    """(video_id, seconds or None), or (None, None) if it isn't a YouTube link."""
+    t = (text or "").strip().strip('"').strip("'")
+    m = YT_ID_RE.search(t)
+    if not m:
+        return None, None
+    secs = None
+    tm = YT_T_RE.search(t)
+    if tm:
+        parts = re.fullmatch(r"(?:(\d+)h)?(?:(\d+)m)?(?:(\d+)s?)?", tm.group(1))
+        if parts:
+            h, mi, s = (int(x or 0) for x in parts.groups())
+            secs = h * 3600 + mi * 60 + s
+    return m.group(1), secs
+
+
+def nearest_clip(clips: list, video_id: str, secs: int, tolerance: int = 5) -> dict | None:
+    same = [c for c in clips if c.get("video_id") == video_id]
+    try:
+        best = min(same, key=lambda c: abs(int(c.get("start_seconds") or 0) - secs))
+    except ValueError:
+        return None
+    return best if abs(int(best.get("start_seconds") or 0) - secs) <= tolerance else None
+
+
+def _quote_text(q: dict) -> str:
+    blocks = q.get("text_blocks") or []
+    if blocks:
+        return " ".join(str(b.get("text") or "").strip() for b in blocks if isinstance(b, dict)).strip()
+    return str(q.get("quote") or "").strip()
+
+
+def clip_from_video_json(data: dict, day: str, video_id: str, secs: int, tolerance: int = 5) -> dict | None:
+    """Build a clip-list entry from a stored per-video JSON (for quotes no
+    longer in the 48-hour list, or whose speaker isn't named)."""
+    best, best_gap = None, None
+    for q in data.get("quotes") or []:
+        try:
+            start = int(q.get("start_seconds"))
+        except (TypeError, ValueError):
+            continue
+        gap = abs(start - secs)
+        if gap <= tolerance and (best_gap is None or gap < best_gap):
+            best, best_gap = q, gap
+    if not best:
+        return None
+    start = int(best["start_seconds"])
+    try:
+        end = int(best.get("end_seconds"))
+    except (TypeError, ValueError):
+        end = start + 15
+    speaker = str(best.get("speaker") or "").strip()
+    if re.match(r"(?i)^(unidentified|unknown)\b", speaker) or speaker.lower() in ("", "speaker", "reporter"):
+        speaker = ""
+    return {
+        "clip_id": f"{video_id}_{start}_{end}", "video_id": video_id,
+        "clip_url": f"https://www.youtube.com/watch?v={video_id}&t={start}s",
+        "start_seconds": start, "end_seconds": end, "speaker": speaker,
+        "team": best.get("team") or data.get("channel_team") or "",
+        "text": _quote_text(best), "news_angle": best.get("summary_phrase") or "",
+        "social_post": best.get("social_post") or "", "news_score": best.get("news_score"),
+        "video_title": data.get("video_title") or "", "publish_date": day,
+        "content_type": data.get("content_type") or "presser",
+    }
+
+
+def find_quote_for_url(url: str, clips: list, fetch=fetch_json) -> tuple:
+    """(clip, message). Looks in the clip list first, then in the stored
+    per-video JSON of the last URL_LOOKBACK_DAYS days."""
+    video_id, secs = parse_youtube_url(url)
+    if not video_id:
+        return None, "that isn't a YouTube link"
+    if secs is None:
+        return None, "the link has no timestamp; copy the link at the end of a quote in the digest (it ends in &t=...s)"
+    hit = nearest_clip(clips, video_id, secs)
+    if hit:
+        return hit, ""
+    today = date.today()
+    for back in range(URL_LOOKBACK_DAYS + 1):
+        day = (today - timedelta(days=back)).isoformat()
+        try:
+            data = fetch(f"{REPO_RAW}/output/{day}/{video_id}.json")
+        except (urllib.error.URLError, OSError, ValueError):
+            continue
+        if isinstance(data, dict):
+            clip = clip_from_video_json(data, day, video_id, secs)
+            if clip:
+                return clip, ""
+            return None, f"no digest quote starts near {secs}s in that video"
+    return None, "that video isn't in the digests of the last few days"
 
 
 # --------------------------------------------------------------------------- #
@@ -199,7 +443,7 @@ def whisper_words(video_id: str, start: float, end: float, ffmpeg: str) -> list:
         from faster_whisper import WhisperModel
     except ImportError:
         raise LowConfidence("no captions, and faster-whisper isn't installed "
-                            "(run make-presser-clips.bat to install it)")
+                            "(run the installer again to add it)")
     w0 = max(0.0, start - WHISPER_WINDOW_SECS)
     w1 = end + WHISPER_WINDOW_SECS
     with tempfile.TemporaryDirectory(prefix="presser_audio_") as tmp:
@@ -321,23 +565,22 @@ def default_selection(ordered: list, latest: str, top: int, ctype: str | None = 
     return sorted(i for i, _ in best)
 
 
-def print_pick_list(ordered: list, latest: str, done_ids: set) -> None:
+def print_pick_list(ordered: list, out_root: Path) -> None:
     current = None
     for i, c in enumerate(ordered, start=1):
         if clip_type(c) != current:
             current = clip_type(c)
             say(f"\n  {TYPE_LABELS[current]}")
-            say(f"{'#':>3}  {'score':>5}  {'':4}  {'speaker':<24} {'team':<22} angle")
+            say(f"{'#':>3}  {'score':>5}  {'made':<4}  {'speaker':<24} {'team':<22} angle")
         sc = c.get("news_score")
-        tag = "NEW " if latest and c.get("run_id") == latest else "    "
-        if c.get("clip_id") in done_ids:
-            tag = "done"
-        say(f"{i:>3}  {sc if sc is not None else '-':>5}  {tag}  {(c.get('speaker') or '?')[:24]:<24} "
+        made = format_letters(made_formats(out_root, c)) if not valid_clip(c) else ""
+        say(f"{i:>3}  {sc if sc is not None else '-':>5}  {made:<4}  {(c.get('speaker') or '?')[:24]:<24} "
             f"{(c.get('team') or '?')[:22]:<22} {(c.get('news_angle') or '')[:70]}")
 
 
 # --------------------------------------------------------------------------- #
-# Naming + registry
+# Naming: one fixed name per quote and format, so anyone filling the same
+# (shared) folder skips what already exists.
 # --------------------------------------------------------------------------- #
 
 def slug(text: str, fallback: str) -> str:
@@ -346,24 +589,64 @@ def slug(text: str, fallback: str) -> str:
     return s[:40].strip("-") or fallback
 
 
-def load_registry(path: Path) -> dict:
+def clip_day(clip: dict) -> str:
+    for value in (clip.get("publish_date"), str(clip.get("published") or "")[:10]):
+        if value and DAY_RE.match(str(value)):
+            return str(value)
+    return date.today().isoformat()
+
+
+def clip_dir(out_root: Path, clip: dict) -> Path:
+    return out_root / clip_day(clip) / TYPE_FOLDERS[clip_type(clip)]
+
+
+def clip_base(clip: dict) -> str:
+    return (f"{clip_day(clip)}_{slug(clip.get('team'), 'team')}_{slug(clip.get('speaker'), 'speaker')}_"
+            f"{clip['video_id']}-{int(clip['start_seconds'])}s")
+
+
+def output_path(out_root: Path, clip: dict, fmt: str) -> Path:
+    return clip_dir(out_root, clip) / f"{clip_base(clip)}_{fmt}.mp4"
+
+
+def made_formats(out_root: Path, clip: dict) -> list:
+    out = []
+    for fmt in FORMAT_ORDER:
+        try:
+            if output_path(out_root, clip, fmt).stat().st_size > 0:
+                out.append(fmt)
+        except OSError:
+            pass
+    return out
+
+
+def publish_file(tmp_file: Path, final: Path) -> bool:
+    """Copy a finished file into the (possibly shared) folder under a
+    temporary name, then rename it, so a half-written clip never appears
+    under its real name. False if somebody else finished it first."""
+    final.parent.mkdir(parents=True, exist_ok=True)
+    part = final.with_name(final.name + ".partial")
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
-    except (OSError, ValueError):
-        return {}
+        shutil.copyfile(tmp_file, part)
+        if final.exists():
+            return False
+        os.replace(part, final)
+        return True
+    finally:
+        try:
+            part.unlink()
+        except OSError:
+            pass
 
 
-def save_registry(path: Path, registry: dict) -> None:
-    tmp = path.with_suffix(".tmp")
-    tmp.write_text(json.dumps(registry, indent=2), encoding="utf-8")
-    tmp.replace(path)
-
-
-def next_free_stem(day_dir: Path, base: str) -> str:
-    n = 1
-    while (day_dir / f"{base}_{n}.mp4").exists() or (day_dir / f"{base}_{n}.txt").exists():
-        n += 1
-    return f"{base}_{n}"
+def clean_stale_partials(folder: Path) -> None:
+    """Leftovers of a run that crashed hours ago (never a render in progress)."""
+    try:
+        for p in folder.glob("*.partial"):
+            if time.time() - p.stat().st_mtime > STALE_PARTIAL_SECS:
+                p.unlink()
+    except OSError:
+        pass
 
 
 # --------------------------------------------------------------------------- #
@@ -384,14 +667,14 @@ def ass_time(secs: float) -> str:
     return f"{h}:{m:02d}:{s:05.2f}"
 
 
-def caption_chunks(text: str) -> list:
-    """Split the quote into short on-screen chunks (<= ~6 words / 32 chars),
-    breaking early at sentence ends so chunks read naturally."""
+def caption_chunks(text: str, max_words: int = 6, max_chars: int = 32) -> list:
+    """Split the quote into short on-screen chunks, breaking early at
+    sentence ends so chunks read naturally."""
     words = (text or "").split()
     chunks, cur = [], []
     for w in words:
         candidate = " ".join(cur + [w])
-        if cur and (len(cur) >= CAPTION_MAX_WORDS or len(candidate) > CAPTION_MAX_CHARS):
+        if cur and (len(cur) >= max_words or len(candidate) > max_chars):
             chunks.append(" ".join(cur))
             cur = []
         cur.append(w)
@@ -403,18 +686,21 @@ def caption_chunks(text: str) -> list:
     return chunks
 
 
-def build_ass(clip: dict, speech_start: float, speech_end: float, clip_len: float) -> str:
+def build_ass(clip: dict, speech_start: float, speech_end: float, clip_len: float,
+              fmt: str = "vertical") -> str:
+    L = FORMATS[fmt]
+    w, h = L["size"]
     header = f"""[Script Info]
 ScriptType: v4.00+
-PlayResX: {OUT_W}
-PlayResY: {OUT_H}
+PlayResX: {w}
+PlayResY: {h}
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Caption,Arial,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,70,70,{CAPTION_TOP_Y},1
-Style: Lower,Arial,44,&H00FFFFFF,&H00FFFFFF,&H40000000,&H40000000,-1,0,0,0,100,100,0,0,3,14,0,1,60,60,60,1
+Style: Caption,Arial,{L['cap_size']},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,{L['cap_outline']},{L['cap_shadow']},{L['cap_align']},{L['cap_margin_lr']},{L['cap_margin_lr']},{L['cap_margin_v']},1
+Style: Lower,Arial,{L['lt_size']},&H00FFFFFF,&H00FFFFFF,&H40000000,&H40000000,-1,0,0,0,100,100,0,0,3,{LT_BOX_PAD},0,{L['lt_align']},60,60,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -424,14 +710,15 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     team = ass_text(clip.get("team") or "")
     if speaker or team:
         if speaker and team:
-            lt = f"{speaker.upper()}\\N{{\\fs32\\b0}}{team}"
+            lt = f"{speaker.upper()}\\N{{\\fs{L['lt_team_size']}\\b0}}{team}"
         else:
             lt = (speaker or team).upper()
+        x, y = L["lt_pos"]
         events.append(
             f"Dialogue: 1,{ass_time(0)},{ass_time(clip_len)},Lower,,0,0,0,,"
-            f"{{\\an1\\pos({LOWER_THIRD_X},{LOWER_THIRD_Y})}}{lt}"
+            f"{{\\an{L['lt_align']}\\pos({x},{y})}}{lt}"
         )
-    chunks = caption_chunks(clip.get("text") or "")
+    chunks = caption_chunks(clip.get("text") or "", L["cap_words"], L["cap_chars"])
     total_chars = sum(len(c) for c in chunks) or 1
     span = max(1.0, speech_end - speech_start)
     t = speech_start
@@ -472,22 +759,28 @@ def download_section(clip: dict, dl_start: float, dl_end: float, work: Path, ffm
     return files[0]
 
 
-def render_vertical(src: Path, ass_name: str, out_tmp: Path, work: Path, ffmpeg: str) -> None:
+def filter_graph(fmt: str, ass_name: str) -> str:
     # Background: cheap blur (downscale, box blur, upscale) of the same frame,
-    # darkened a touch. Foreground: the original frame fitted to 1080 wide.
-    filt = (
+    # darkened a touch. Foreground: the original frame fitted inside the
+    # format's box, never cropped.
+    w, h = FORMATS[fmt]["size"]
+    bx, by, bw, bh = FORMATS[fmt]["box"]
+    return (
         "[0:v]split=2[bg][fg];"
-        f"[bg]scale={OUT_W // 4}:{OUT_H // 4}:force_original_aspect_ratio=increase,"
-        f"crop={OUT_W // 4}:{OUT_H // 4},boxblur=12:3,scale={OUT_W}:{OUT_H},"
+        f"[bg]scale={w // 4}:{h // 4}:force_original_aspect_ratio=increase,"
+        f"crop={w // 4}:{h // 4},boxblur=12:3,scale={w}:{h},"
         "eq=brightness=-0.10[bgb];"
-        f"[fg]scale={OUT_W}:{OUT_H}:force_original_aspect_ratio=decrease[fgs];"
-        "[bgb][fgs]overlay=(W-w)/2:(H-h)/2,"
+        f"[fg]scale={bw}:{bh}:force_original_aspect_ratio=decrease[fgs];"
+        f"[bgb][fgs]overlay={bx}+({bw}-w)/2:{by}+({bh}-h)/2,"
         f"ass={ass_name},setsar=1,format=yuv420p[v]"
     )
+
+
+def render_format(src: Path, fmt: str, ass_name: str, out_tmp: Path, work: Path, ffmpeg: str) -> None:
     cmd = [
         ffmpeg, "-y", "-hide_banner", "-loglevel", "error",
         "-i", str(src),
-        "-filter_complex", filt,
+        "-filter_complex", filter_graph(fmt, ass_name),
         "-map", "[v]", "-map", "0:a?",
         "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", "30",
         "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
@@ -502,14 +795,14 @@ def render_vertical(src: Path, ass_name: str, out_tmp: Path, work: Path, ffmpeg:
         raise RuntimeError(f"ffmpeg failed: {tail(res.stderr) or 'no output'}")
 
 
-def write_txt(path: Path, clip: dict) -> None:
+def txt_content(clip: dict) -> str:
     lines = [
         (clip.get("social_post") or "").strip(),
         "",
         f"Source: {clip.get('clip_url') or 'https://www.youtube.com/watch?v=' + clip['video_id']}",
         "",
         "---",
-        f"Speaker: {clip.get('speaker') or ''} ({clip.get('team') or ''})",
+        f"Speaker: {clip.get('speaker') or '(not named in the video)'} ({clip.get('team') or ''})",
         f"Angle: {clip.get('news_angle') or ''}",
         f"Clip: {clip['start_seconds']}s to {clip['end_seconds']}s of {clip.get('video_title') or clip['video_id']}",
         f"Aligned: {clip.get('_aligned', '')}",
@@ -517,14 +810,23 @@ def write_txt(path: Path, clip: dict) -> None:
         f"Quote: \"{(clip.get('text') or '').strip()}\"",
         "",
     ]
-    path.write_text("\n".join(lines), encoding="utf-8")
+    return "\n".join(lines)
 
 
-def make_clip(clip: dict, day_dir: Path, today: str, ffmpeg: str, pad: float) -> Path:
+def make_clip(clip: dict, out_root: Path, formats: list, ffmpeg: str, pad: float = PAD_SECS,
+              force: bool = False) -> tuple:
+    """Render the chosen formats of one quote from a single download.
+    Returns (paths made, formats that already existed)."""
+    folder = clip_dir(out_root, clip)
+    clean_stale_partials(folder)
+    existing = [] if force else [f for f in formats if f in made_formats(out_root, clip)]
+    todo = [f for f in formats if f not in existing]
+    if not todo:
+        return [], existing
     start, end, method, score = locate_quote(clip, ffmpeg)
     drift = start - float(clip["start_seconds"])
     say(f"    speech found at {start:.1f}-{end:.1f}s via {method} (score {score:.2f}, "
-        f"{drift:+.1f}s vs manifest)")
+        f"{drift:+.1f}s vs the digest)")
     clip["_aligned"] = f"{start:.1f}s to {end:.1f}s via {method}, score {score:.2f}"
     dl_start = max(0.0, start - pad)
     dl_end = end + pad
@@ -532,127 +834,61 @@ def make_clip(clip: dict, day_dir: Path, today: str, ffmpeg: str, pad: float) ->
     speech_end = speech_start + (end - start)
     clip_len = dl_end - dl_start
 
-    base = f"{today}_{slug(clip.get('team'), 'team')}_{slug(clip.get('speaker'), 'speaker')}"
-    day_dir = day_dir / TYPE_FOLDERS[clip_type(clip)]
-    day_dir.mkdir(parents=True, exist_ok=True)
-    stem = next_free_stem(day_dir, base)
+    made = []
     with tempfile.TemporaryDirectory(prefix="presser_") as tmp:
         work = Path(tmp)
-        src = download_section(clip, dl_start, dl_end, work, ffmpeg)
-        (work / "captions.ass").write_text(build_ass(clip, speech_start, speech_end, clip_len), encoding="utf-8")
-        out_tmp = work / "out.mp4"
-        render_vertical(src, "captions.ass", out_tmp, work, ffmpeg)
-        final = day_dir / f"{stem}.mp4"
-        shutil.move(str(out_tmp), str(final))
-    write_txt(day_dir / f"{stem}.txt", clip)
-    return final
+        src = download_section(clip, dl_start, dl_end, work, ffmpeg)     # once for every format
+        for fmt in todo:
+            final = output_path(out_root, clip, fmt)
+            if final.exists() and not force:
+                existing.append(fmt)          # somebody else made it meanwhile
+                continue
+            ass_name = f"captions_{fmt}.ass"
+            (work / ass_name).write_text(build_ass(clip, speech_start, speech_end, clip_len, fmt),
+                                         encoding="utf-8")
+            out_tmp = work / f"out_{fmt}.mp4"
+            render_format(src, fmt, ass_name, out_tmp, work, ffmpeg)
+            if force and final.exists():
+                final.unlink()
+            if publish_file(out_tmp, final):
+                made.append(final)
+                say(f"    saved {final.name}")
+            else:
+                existing.append(fmt)
+        txt = folder / f"{clip_base(clip)}.txt"
+        if made and not txt.exists():
+            (work / "post.txt").write_text(txt_content(clip), encoding="utf-8")
+            publish_file(work / "post.txt", txt)
+    return made, existing
 
 
 # --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
 
-def main() -> int:
-    ap = argparse.ArgumentParser(description="Make vertical presser clips from latest_clips.json")
-    ap.add_argument("--manifest", default=MANIFEST_URL)
-    ap.add_argument("--out", default=str(DEFAULT_OUT))
-    ap.add_argument("--limit", type=int, default=0)
-    ap.add_argument("--team", default="")
-    ap.add_argument("--force", action="store_true")
-    ap.add_argument("--pad", type=float, default=PAD_SECS)
-    ap.add_argument("--all", action="store_true", help="render every clip in the list")
-    ap.add_argument("--pick", default="", help="numbers from the list, e.g. 1,3,5-7")
-    ap.add_argument("--top", type=int, default=DEFAULT_TOP, help="default selection size")
-    ap.add_argument("--yes", action="store_true", help="don't ask; use the default selection")
-    ap.add_argument("--type", choices=CONTENT_TYPES, help="default selection from one type only")
-    ap.add_argument("type_letter", nargs="?", default="",
-                    help="P = pressers, D = podcasts, O = one-offs (same as --type)")
-    args = ap.parse_args()
-    if args.type_letter:
-        letter = args.type_letter.strip().lower()[:1]
-        if letter not in TYPE_LETTERS:
-            ap.error("type must be P (pressers), D (podcasts) or O (one-offs)")
-        args.type = TYPE_LETTERS[letter]
-
-    ffmpeg = check_tools()
-    if not ffmpeg:
-        return 2
-
-    say("Downloading clip list...")
+def ask(prompt: str) -> str:
     try:
-        manifest = load_manifest(args.manifest)
-    except Exception as e:
-        say(f"[X] Could not load the clip list: {e}")
-        return 2
-    clips = manifest.get("clips") or []
-    say(f"Clip list generated {manifest.get('generated_at', '?')}: {len(clips)} clip(s) from the last "
-        f"{manifest.get('window_hours', 48)}h.")
+        return input(prompt)
+    except EOFError:
+        return ""
 
-    out_root = Path(args.out)
-    today = date.today().isoformat()
-    day_dir = out_root / today
-    day_dir.mkdir(parents=True, exist_ok=True)
-    registry_path = out_root / "_made.json"
-    registry = load_registry(registry_path)
 
-    if args.team:
-        clips = [c for c in clips if args.team.lower() in str(c.get("team") or "").lower()]
-    for c in clips:
-        c.setdefault("clip_id", f"{c.get('video_id')}_{c.get('start_seconds')}_{c.get('end_seconds')}")
-    done_ids = {cid for cid, rel in registry.items() if (out_root / rel).is_file()}
-
-    ordered, latest, n_latest = order_clips(manifest, clips)
-    if not ordered:
-        say("No clips in the list.")
-        return 0
+def ask_formats(default: list) -> list:
     say()
-    print_pick_list(ordered, latest, done_ids)
-    say()
-    if args.all:
-        chosen = list(range(1, len(ordered) + 1))
-    elif args.pick:
-        chosen = parse_pick(args.pick, len(ordered))
-    elif args.type or args.yes or not sys.stdin.isatty():
-        chosen = default_selection(ordered, latest, args.top, args.type)
-    else:
-        say(f"Enter = top {args.top} overall by news score from the latest run"
-            + (f" ({latest})" if n_latest else ""))
-        say(f"P = top {args.top} pressers, D = top {args.top} podcasts, O = top {args.top} one-offs")
-        say("ALL = every clip, or type numbers like 1,3,5-7")
-        while True:
-            answer = input("> ").strip()
-            if not answer:
-                chosen = default_selection(ordered, latest, args.top)
-            elif answer.lower() == "all":
-                chosen = list(range(1, len(ordered) + 1))
-            elif answer.lower() in TYPE_LETTERS:
-                chosen = default_selection(ordered, latest, args.top, TYPE_LETTERS[answer.lower()])
-                if not chosen:
-                    say("  No clips of that type. Try again.")
-                    continue
-            else:
-                try:
-                    chosen = parse_pick(answer, len(ordered))
-                except ValueError as e:
-                    say(f"  {e}. Try again.")
-                    continue
-            break
+    say("Which formats?")
+    for f in FORMAT_ORDER:
+        say(f"  {FORMATS[f]['letter'].upper()} = {FORMATS[f]['label']}")
+    say(f"Press Enter for {format_letters(default)}, or type letters (e.g. VS):")
+    while True:
+        try:
+            return parse_formats(ask("> "), default)
+        except ValueError as e:
+            say(f"  {e}. Try again.")
 
-    todo = []
-    skipped_done = 0
-    for i in chosen:
-        c = ordered[i - 1]
-        if not args.force and c["clip_id"] in done_ids:
-            skipped_done += 1
-            continue
-        todo.append((c["clip_id"], c))
-    if args.limit > 0:
-        todo = todo[:args.limit]
-    say(f"{skipped_done} already made, {len(todo)} to render into {day_dir}")
-    say()
 
-    made, failures, low_conf = [], [], []
-    for i, (cid, clip) in enumerate(todo, start=1):
+def render_all(todo: list, out_root: Path, formats: list, ffmpeg: str, pad: float, force: bool) -> int:
+    made, failures, low_conf, already = [], [], [], 0
+    for i, clip in enumerate(todo, start=1):
         label = f"{clip.get('speaker') or '?'} ({clip.get('team') or '?'}) {clip.get('video_id')} " \
                 f"@{clip.get('start_seconds')}s"
         say(f"[{i}/{len(todo)}] {label}")
@@ -662,7 +898,7 @@ def main() -> int:
             failures.append((label, problem))
             continue
         try:
-            final = make_clip(clip, day_dir, today, ffmpeg, args.pad)
+            new, existing = make_clip(clip, out_root, formats, ffmpeg, pad, force)
         except LowConfidence as e:
             say(f"    SKIPPED (low confidence): {e}")
             low_conf.append((label, str(e)))
@@ -671,16 +907,16 @@ def main() -> int:
             say(f"    FAILED: {e}")
             failures.append((label, str(e)))
             continue
-        registry[cid] = str(final.relative_to(out_root))
-        save_registry(registry_path, registry)
-        made.append(final)
-        say(f"    saved {final.name}")
+        if existing:
+            already += len(existing)
+            say(f"    already in the folder: {', '.join(existing)}")
+        made += new
 
     say()
     say("=" * 60)
-    say(f"Done. {len(made)} clip(s) made, {len(low_conf)} skipped (low confidence), "
-        f"{len(failures)} failed, {skipped_done} already made earlier.")
-    say(f"Folder: {day_dir}")
+    say(f"Done. {len(made)} clip file(s) made, {already} already in the folder, "
+        f"{len(low_conf)} quote(s) skipped (low confidence), {len(failures)} failed.")
+    say(f"Folder: {out_root}")
     if low_conf:
         say()
         say("Skipped because the quote couldn't be located reliably (not cut, to avoid a wrong clip):")
@@ -688,14 +924,149 @@ def main() -> int:
             say(f"  - {label}: {reason}")
     if failures:
         say()
-        say("Failed clips:")
+        say("Failed:")
         for label, reason in failures:
             say(f"  - {label}: {reason}")
         if any("Sign in" in r or "JavaScript" in r or "js runtime" in r.lower() for _, r in failures):
             say()
-            say("Tip: YouTube blocks some downloads unless yt-dlp has a JavaScript runtime.")
-            say("     Install Deno once in PowerShell:  winget install --id DenoLand.Deno -e")
-    return 0 if made or not todo or low_conf else 1
+            say("Tip: YouTube refused the download. " + fix_hint())
+    return 0 if made or not todo or low_conf or not failures else 1
+
+
+def main(argv: list | None = None) -> int:
+    ap = argparse.ArgumentParser(description="Make presser clips (vertical, YouTube, square) from the digest")
+    ap.add_argument("--manifest", default=MANIFEST_URL)
+    ap.add_argument("--settings", default=str(SETTINGS_PATH))
+    ap.add_argument("--out", default="")
+    ap.add_argument("--formats", default="", help="V, Y and/or S (default: from settings, else all three)")
+    ap.add_argument("--url", default="", help="clip the quote at this timestamped YouTube link")
+    ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--team", default="")
+    ap.add_argument("--force", action="store_true")
+    ap.add_argument("--pad", type=float, default=PAD_SECS)
+    ap.add_argument("--all", action="store_true", help="every clip from the last 48 hours")
+    ap.add_argument("--pick", default="", help="numbers from the list, e.g. 1,3,5-7")
+    ap.add_argument("--top", type=int, default=DEFAULT_TOP, help="default selection size")
+    ap.add_argument("--yes", action="store_true", help="don't ask; use the default selection")
+    ap.add_argument("--type", choices=CONTENT_TYPES, help="default selection from one type only")
+    ap.add_argument("type_letter", nargs="?", default="",
+                    help="P = pressers, D = podcasts, O = one-offs (same as --type)")
+    args = ap.parse_args(argv)
+    if args.type_letter:
+        letter = args.type_letter.strip().lower()[:1]
+        if letter not in TYPE_LETTERS:
+            ap.error("type must be P (pressers), D (podcasts) or O (one-offs)")
+        args.type = TYPE_LETTERS[letter]
+
+    settings = load_settings(Path(args.settings))
+    out_root = Path(os.path.expanduser(args.out or settings.get("out_dir") or str(default_out_dir())))
+    default_formats = settings_formats(settings)
+    try:
+        fixed_formats = parse_formats(args.formats, default_formats) if args.formats else None
+    except ValueError as e:
+        ap.error(str(e))
+    interactive = sys.stdin.isatty() and not (args.yes or args.all or args.pick or args.type or args.url)
+
+    ffmpeg = check_tools(settings)
+    if not ffmpeg:
+        return 2
+
+    say("Downloading the clip list...")
+    try:
+        manifest = load_manifest(args.manifest)
+    except Exception as e:
+        say(f"[X] Could not load the clip list: {e}")
+        return 2
+    clips = manifest.get("clips") or []
+    for c in clips:
+        c.setdefault("clip_id", f"{c.get('video_id')}_{c.get('start_seconds')}_{c.get('end_seconds')}")
+    say(f"Clip list updated {manifest.get('generated_at', '?')}: {len(clips)} quote(s) from the last "
+        f"{manifest.get('window_hours', 48)} hours. Saving to: {out_root}")
+
+    if args.url:
+        clip, why = find_quote_for_url(args.url, clips)
+        if not clip:
+            say(f"[X] Can't clip that link: {why}.")
+            return 1
+        return render_all([clip], out_root, fixed_formats or default_formats, ffmpeg, args.pad, args.force)
+
+    if args.team:
+        clips = [c for c in clips if args.team.lower() in str(c.get("team") or "").lower()]
+    ordered, latest, n_latest = order_clips(manifest, clips)
+
+    if not interactive:
+        if args.all:
+            chosen = ordered
+        elif args.pick:
+            chosen = [ordered[i - 1] for i in parse_pick(args.pick, len(ordered))]
+        else:
+            chosen = [ordered[i - 1] for i in default_selection(ordered, latest, args.top, args.type)]
+        if args.limit > 0:
+            chosen = chosen[:args.limit]
+        formats = fixed_formats or default_formats
+        say(f"{len(chosen)} quote(s) chosen; formats: {', '.join(formats)}")
+        return render_all(chosen, out_root, formats, ffmpeg, args.pad, args.force)
+
+    # Interactive: the latest run's quotes first; MORE shows the whole 48 hours.
+    view = [c for c in ordered if latest and c.get("run_id") == latest] or ordered
+    showing_all = len(view) == len(ordered)
+    while True:
+        if not view:
+            say("No clips in the list right now.")
+        else:
+            say()
+            say("Quotes from the latest cloud run" if not showing_all else
+                f"All quotes from the last {manifest.get('window_hours', 48)} hours")
+            print_pick_list(view, out_root)
+        say()
+        say(f"Enter = top {args.top} by score   P / D / O = top {args.top} pressers / podcasts / one-offs")
+        say("Numbers = those quotes (e.g. 1,3,5-7)   ALL = every quote above"
+            + ("" if showing_all else "   MORE = show the last 48 hours"))
+        say("Or paste a timestamped YouTube link from the digest to clip that one quote.   Q = quit")
+        answer = ask("> ").strip()
+        low = answer.lower()
+        chosen = []
+        if low in ("q", "quit", "exit"):
+            return 0
+        if low == "more" and not showing_all:
+            view, showing_all = ordered, True
+            continue
+        if parse_youtube_url(answer)[0]:
+            clip, why = find_quote_for_url(answer, clips)
+            if not clip:
+                say(f"  Can't clip that link: {why}.")
+                continue
+            say(f"  Found: {clip.get('speaker') or 'speaker not named'} ({clip.get('team') or '?'}): "
+                f"{(clip.get('news_angle') or clip.get('text') or '')[:90]}")
+            chosen = [clip]
+        elif not view:
+            continue
+        elif not answer:
+            chosen = [view[i - 1] for i in default_selection(view, latest, args.top)]
+        elif low == "all":
+            chosen = list(view)
+        elif low in TYPE_LETTERS:
+            nums = default_selection(view, latest, args.top, TYPE_LETTERS[low])
+            chosen = [view[i - 1] for i in nums if clip_type(view[i - 1]) == TYPE_LETTERS[low]]
+            if not chosen:
+                say("  No quotes of that type in this list.")
+                continue
+        else:
+            try:
+                chosen = [view[i - 1] for i in parse_pick(answer, len(view))]
+            except ValueError as e:
+                say(f"  {e}. Try again.")
+                continue
+            if not chosen:
+                say("  Those numbers aren't on the list. Try again.")
+                continue
+        break
+
+    if args.limit > 0:
+        chosen = chosen[:args.limit]
+    formats = fixed_formats or ask_formats(default_formats)
+    say(f"\n{len(chosen)} quote(s), formats: {', '.join(formats)}\n")
+    return render_all(chosen, out_root, formats, ffmpeg, args.pad, args.force)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,3 @@
+# Served as downloads by GitHub Pages: keep the exact bytes.
+*.bat -text
+*.zip binary

@@ -39,21 +39,44 @@ class PcJobTests(unittest.TestCase):
             self.assertEqual(times, ["06:45 UTC", "14:45 UTC", "20:45 UTC"])
 
     def test_run_renders_top_clips_from_public_manifest_without_token(self):
+        import make_presser_clips as mc
         calls = []
-        old_run, old_which = job.subprocess.run, job.shutil.which
+        old_run, old_find = job.subprocess.run, mc.find_ffmpeg
         job.subprocess.run = lambda cmd, **kw: (calls.append(cmd),
                                                 types.SimpleNamespace(returncode=0, stdout="Done. 2 clip(s) made",
                                                                       stderr=""))[1]
-        job.shutil.which = lambda name: "/usr/bin/ffmpeg"
+        mc.find_ffmpeg = lambda settings=None: "/usr/bin/ffmpeg"
         try:
             self.assertEqual(job.run_job(), 0)
         finally:
-            job.subprocess.run, job.shutil.which = old_run, old_which
+            job.subprocess.run, mc.find_ffmpeg = old_run, old_find
         cmd = calls[0]
         self.assertIn("--yes", cmd)
         self.assertEqual(cmd[cmd.index("--top") + 1], "10")
+        # no settings.json next to the job = the older Windows install: vertical only, as before
+        self.assertEqual(cmd[cmd.index("--formats") + 1], "vertical")
+        self.assertEqual(cmd[cmd.index("--out") + 1], str(Path(os.environ["NBA_PC_HOME"]) / "Documents" / "presser-clips"))
         self.assertTrue(cmd[cmd.index("--manifest") + 1].startswith("https://raw.githubusercontent.com/"))
         self.assertIn("Done. 2 clip(s) made", job.LOG_PATH.read_text(encoding="utf-8"))
+
+    def test_only_new_skips_a_run_it_already_rendered(self):
+        import make_presser_clips as mc
+        calls = []
+        old_run, old_find, old_load = job.subprocess.run, mc.find_ffmpeg, mc.load_manifest
+        job.subprocess.run = lambda cmd, **kw: (calls.append(cmd),
+                                                types.SimpleNamespace(returncode=0, stdout="", stderr=""))[1]
+        mc.find_ffmpeg = lambda settings=None: "/usr/bin/ffmpeg"
+        mc.load_manifest = lambda src: {"latest_run_id": "2026-10-01T1418Z-1415"}
+        try:
+            job.STATE_PATH.unlink(missing_ok=True)
+            job.run_job(only_new=True)
+            job.run_job(only_new=True)            # same cloud run: nothing to do
+            mc.load_manifest = lambda src: {"latest_run_id": "2026-10-01T2018Z-2015"}
+            job.run_job(only_new=True)
+        finally:
+            job.subprocess.run, mc.find_ffmpeg, mc.load_manifest = old_run, old_find, old_load
+        self.assertEqual(len(calls), 2)
+        self.assertEqual(job.STATE_PATH.read_text(encoding="utf-8"), "2026-10-01T2018Z-2015")
 
     def test_job_has_no_github_write_path(self):
         src = (HERE.parent / "presser_pc_job.py").read_text(encoding="utf-8")

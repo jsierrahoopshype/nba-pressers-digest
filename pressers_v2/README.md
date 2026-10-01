@@ -56,52 +56,57 @@ only lists quotes whose speaker is named.
    age or length. Videos already processed are skipped unless you tick
    `force`, which reprocesses them and overwrites their output.
 
-## Making the vertical clips on Windows
+## Making clips (Windows and Mac)
 
-1. Download **three** files from this folder into the same folder on your PC
-   (e.g. `Documents\presser-clips-tool\`): `make_presser_clips.py`,
-   `caption_align.py` and `make-presser-clips.bat`.
-2. Double-click `make-presser-clips.bat`.
-   - It installs/updates yt-dlp and faster-whisper itself. The first time a
-     video has no captions, Whisper downloads its model once (~140 MB).
-   - If ffmpeg is missing it stops and tells you the fix:
-     `winget install --id Gyan.FFmpeg -e`, then open a new window and run again.
-3. It prints a numbered list grouped into PRESS CONFERENCES, PODCASTS & SHOWS
-   and ONE-OFFS (number, news score, speaker, team, angle); the latest run's
-   clips are marked NEW. Press **Enter** for the top 10 overall by news score
-   from the latest run, **P** / **D** / **O** for the top 10 pressers /
-   podcasts / one-offs, **ALL** for everything, or numbers like `1,3,5-7`.
-   `make-presser-clips.bat P` skips the question and does pressers only.
-4. For each clip it finds where the quote is really spoken: first from the
-   video's YouTube captions, otherwise with Whisper on the 90 seconds around
-   the given time. It cuts on those words with 0.5s padding. If it can't find
-   the quote confidently it does **not** cut; the clip is listed at the end
-   under "Skipped because the quote couldn't be located reliably".
-5. Clips land in `C:\Users\Jorge Sierra\Documents\presser-clips\<YYYY-MM-DD>\pressers\`
-   (or `\podcasts\`, `\oneoffs\`) as
-   `<date>_<team>_<speaker>_<n>.mp4` + `.txt` (social post + source URL).
-   Already-made clips are skipped on later runs; failures are listed at the end.
+Plain-English guide for anyone making clips: [CLIPS-GUIDE.md](CLIPS-GUIDE.md).
 
-Optional flags (add after the .bat name in a terminal):
-`--all`, `--pick 1,3,5-7`, `--top 15`, `--yes` (no question, default pick),
-`--team celtics`, `--limit 5`, `--force`, `--out D:\clips`.
+**Install** (no GitHub account or token): Windows
+[install-presser-clips.bat](https://jsierrahoopshype.github.io/nba-pressers-digest/presser-clips/install-presser-clips.bat),
+Mac [install-presser-clips-mac.zip](https://jsierrahoopshype.github.io/nba-pressers-digest/presser-clips/install-presser-clips-mac.zip)
+(the .command inside). The installer sets up Python (winget / Homebrew),
+ffmpeg, a private venv with yt-dlp, deno and faster-whisper, downloads the
+app into `%LOCALAPPDATA%\NBA Presser Clips` or
+`~/Library/Application Support/NBA Presser Clips`, and asks: save folder
+(default `<home>/Documents/presser-clips`; shared Drive/OneDrive/Dropbox
+folders work), default formats (Enter = all three) and automatic mode (Y/N,
+default N). Answers go to `settings.json` in the app folder. It also puts an
+**NBA Presser Clips** shortcut on the desktop. Re-running it updates and asks
+again. The Pages copies in `docs/presser-clips/` are rebuilt with
+`python pressers_v2/tools/build_installers.py` (a test checks they match).
 
-If YouTube downloads fail with "Sign in to confirm" or JavaScript errors,
-install Deno once: `winget install --id DenoLand.Deno -e`.
+**On demand.** The shortcut refreshes the app files from `main`, then shows
+the latest run's quotes grouped Press conferences / Podcasts & shows /
+One-offs (number, score, formats already made, speaker, team, angle).
+Enter = top 10, numbers like `1,3,5-7`, P / D / O, MORE (whole 48 hours), or
+paste a timestamped YouTube link from the digest to clip that one quote.
+Then it asks for formats: Enter = the defaults, or any of V / Y / S.
 
-## Unattended PC job (optional)
+**Formats.** `vertical` 1080x1920, `youtube` 1920x1080, `square` 1080x1080,
+each rendered from one download of the segment. The frame is never cropped
+(fitted, blurred fill). Vertical and square put the lower third and the
+captions in the bands outside the picture; YouTube puts a compact lower third
+top-left and captions along the bottom edge.
 
-Renders clips on your PC by itself, 30 minutes after each cloud run (06:45,
-14:45, 20:45 UTC), only while the PC is on and you're logged in, with no
-window: the top 10 clips by news score go to
-`Documents\presser-clips\<date>\pressers|podcasts|oneoffs\`, each cut
-aligned on the video's captions locally (Whisper as fallback). It only reads
-the public clip list; it writes nothing to GitHub and needs no token. Log:
-`Documents\presser-clips\pc-job-log.txt`.
+**Cuts.** For each quote the clipper finds where it's really spoken (YouTube
+captions via yt-dlp, else Whisper on the 90 seconds around it) and cuts with
+0.5s padding. A low-confidence match is skipped, not cut.
 
-Install: download `install-presser-pc-job.bat` from this folder and
-double-click it. Each run downloads the latest clipper files from `main`
-first. To remove it: `schtasks /delete /tn "NBA Pressers PC Job" /f`.
+**Files.** `<folder>/<video date>/pressers|podcasts|oneoffs/<date>_<team>_<speaker>_<videoid>-<start>s_<format>.mp4`
+plus one `.txt` per quote (draft post, source link, quote). Names depend only
+on the quote, so an existing file is never rendered again (per format), also
+when several people share the folder. Each file is written as `.partial` and
+renamed when complete.
+
+**Automatic mode.** Task Scheduler (Windows) or launchd (Mac) starts
+`presser_pc_job.py --only-new` every 30 minutes while you're logged in; it
+renders the top 10 in the default formats only when the clip list shows a new
+cloud run. Log: `auto-log.txt` in the app folder. Nothing is written to
+GitHub.
+
+**Older Windows tools.** `make-presser-clips.bat` and the earlier
+`install-presser-pc-job.bat` job still work (the job keeps rendering vertical
+clips into `Documents\presser-clips`); the new installer offers to remove
+that older scheduled task because it replaces it.
 
 ## Tuning
 
