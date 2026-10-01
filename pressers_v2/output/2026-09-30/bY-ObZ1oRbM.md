@@ -10,14 +10,20 @@ Micah Nori: "You can do a lot of different things now. What I mean by that is yo
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=101s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=101s)
 
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=101&q=1)</small>
+
 **2. Micah Nori — "getting Rob back was so important to us in my opinion" — Micah Nori emphasizes the importance of Robert Williams III returning to the team's defensive rotation.** [02:47](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s)
 
 Micah Nori: "Yeah, very much so. And I think that is why **Rob**, getting back **Rob** and I have said it many times, getting **Rob** back was so important to us in my opinion is because not only is **Donovan** a really good drop defender, so is **Rob**. So and then when you add **Hartenstein** as he continues to grow, **Brandon Carlson** is another there is an athletic guy that to me if we can protect the rim and these guys can do it in different ways. Some of those guys are more verticalities and then like **Rob** is more of a shot blocker and and **Donovan** is more of a verticality guy. So it is just but yes, absolutely, a drop guy."
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s)
 
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=167&q=2)</small>
+
 **3. Micah Nori — "we can see those combinations" — Micah Nori explains the team's strategy of keeping key players together during training camp scrimmages.** [05:01](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s)
 
 Micah Nori: "We kind of tried to do is keep those eight nine guys on the same team. A lot of times what you will have is your starting five and then like the back of centers on the other team. So like literally **Rob**, **Donovan**, **Scoot**, **Dane**, **Drew**, **Ja**, all those guys are playing on the on the same team right now so we can see those combinations."
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s)
+
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=301&q=3)</small>

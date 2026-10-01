@@ -2,8 +2,9 @@
 setlocal EnableExtensions
 title NBA Presser Clips - installer
 rem Installs NBA Presser Clips for the current Windows user: Python (if
-rem missing), ffmpeg, the app and a desktop shortcut, then asks four setup
-rem questions. Safe to run again: it updates everything and asks again.
+rem missing), ffmpeg, the app, the "Clip it" link handler and a desktop
+rem shortcut, then asks three setup questions. Safe to run again: it
+rem updates everything and asks again.
 rem No GitHub account or token needed; no administrator rights needed.
 set "APP=%LOCALAPPDATA%\NBA Presser Clips"
 set "RAW=https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/main/pressers_v2"
@@ -31,20 +32,25 @@ rem --- 2. The app files -------------------------------------------------------
 if not exist "%APP%" mkdir "%APP%"
 if not exist "%APP%" goto :no_app
 echo Downloading the app into %APP% ...
-for %%F in (make_presser_clips.py caption_align.py presser_pc_job.py presser_clips_setup.py run-presser-clips.bat) do (
+for %%F in (caption_align.py reframe.py make_presser_clips.py presser_clips_setup.py run-presser-clips.bat) do (
   curl.exe -fsSL --max-time 120 -o "%APP%\%%F.new" "%RAW%/%%F"
   if errorlevel 1 goto :dl_fail
   move /y "%APP%\%%F.new" "%APP%\%%F" >nul
 )
+rem The face-detection model (YuNet, MIT licence) for the speaker-following crop
+if not exist "%APP%\models" mkdir "%APP%\models"
+curl.exe -fsSL --max-time 120 -o "%APP%\models\face_detection_yunet_2023mar.onnx.new" "%RAW%/models/face_detection_yunet_2023mar.onnx"
+if errorlevel 1 goto :dl_fail
+move /y "%APP%\models\face_detection_yunet_2023mar.onnx.new" "%APP%\models\face_detection_yunet_2023mar.onnx" >nul
 echo.
 
-rem --- 3. A private Python environment with yt-dlp, deno, faster-whisper -------
+rem --- 3. A private Python environment: yt-dlp, deno, OpenCV, faster-whisper --
 set "VPY=%APP%\venv\Scripts\python.exe"
 if not exist "%VPY%" "%PY%" -m venv "%APP%\venv"
 if not exist "%VPY%" goto :venv_fail
-echo Installing yt-dlp, deno and faster-whisper (the first time takes a few minutes)...
+echo Installing yt-dlp, deno, OpenCV and faster-whisper (the first time takes a few minutes)...
 "%VPY%" -m pip install --upgrade --disable-pip-version-check --quiet pip
-"%VPY%" -m pip install --upgrade --disable-pip-version-check --quiet "yt-dlp[default]" certifi deno
+"%VPY%" -m pip install --upgrade --disable-pip-version-check --quiet "yt-dlp[default]" certifi deno opencv-python-headless
 if errorlevel 1 goto :pip_fail
 "%VPY%" -m pip install --upgrade --disable-pip-version-check --quiet faster-whisper
 if errorlevel 1 echo NOTE: faster-whisper could not be installed. Videos without YouTube captions will be skipped.
@@ -65,7 +71,7 @@ if errorlevel 1 (
 )
 echo.
 
-rem --- 5. The four questions, desktop shortcut, automatic mode ----------------
+rem --- 5. The three questions, Clip it links, desktop shortcut ----------------
 "%VPY%" "%APP%\presser_clips_setup.py" --setup
 if errorlevel 1 goto :setup_fail
 goto :end

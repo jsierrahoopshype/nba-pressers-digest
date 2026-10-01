@@ -10,11 +10,15 @@ Unidentified speaker: "The summer Darius Garland had was unbelievable. As a max 
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=102s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=102s)
 
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=102&q=1)</small>
+
 **2. Unidentified speaker — Unidentified speaker sets the goal for the Clippers to make the playoffs this season.** [03:21](https://www.youtube.com/watch?v=bG-tBlhdex4&t=201s)
 
 Unidentified speaker: "One, no excuses. Control what you can control. We cannot control injuries. We cannot control a lot of things right now off the court, but we can control coming out playing hard every single night, competing. And our main goal is to make the playoffs. That has got to be our mindset every single day, is to win games and try to make the playoffs, no matter who is playing, no matter what people are saying on the outside, we have got to believe it."
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=201s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=201s)
+
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=201&q=2)</small>
 
 **3. Unidentified speaker — Unidentified speaker is excited about the new Clippers roster and his own health status.** [13:30](https://www.youtube.com/watch?v=bG-tBlhdex4&t=810s)
 
@@ -22,11 +26,15 @@ Unidentified speaker: "I am super excited about the basketball side. With the gr
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=810s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=810s)
 
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=810&q=3)</small>
+
 **4. Unidentified speaker — Unidentified speaker expresses confidence in Darius Garland's ability to handle the pressure this season.** [21:45](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1305s)
 
 Unidentified speaker: "There is going to be a lot riding on Darius Garland's shoulders, but we are all here to support him and push him through that and he is capable of it. He is a hell of a basketball player and I think he has battled some tough injuries and been through a lot in his short span in the league."
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1305s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1305s)
+
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1305&q=4)</small>
 
 **5. Unidentified speaker — Unidentified speaker highlights Darius Garland's leadership and positive growth as a player.** [21:50](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1310s)
 
@@ -34,14 +42,20 @@ Unidentified speaker: "Darius Garland has the ability to control the whole room.
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1310s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1310s)
 
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1310&q=5)</small>
+
 **6. Unidentified speaker — Unidentified speaker is focused on learning from the veteran point guards on the Clippers roster.** [21:44](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1304s)
 
 Unidentified speaker: "I am still learning like from a lot of, you know, a lot of like a great like point guard right now. I am still figure out how I can like how I can help to the how like how I can help to the team. You know like like you said like a lot of great point guard right now on the team on the roster, so I am still learning from them."
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1304s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1304s)
 
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1304&q=6)</small>
+
 **7. Unidentified speaker — Unidentified speaker emphasizes his competitive nature and desire to win.** [21:52](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1312s)
 
 Unidentified speaker: "I just want to win. You know, I don't want to I don't want to lose. I am a very competitive guy. So, you know, like I say, I still figure out how I can contribute to the win, you know, but I just want to win."
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1312s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1312s)
+
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1312&q=7)</small>

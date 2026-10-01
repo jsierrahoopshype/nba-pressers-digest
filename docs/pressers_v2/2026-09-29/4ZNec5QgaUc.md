@@ -10,8 +10,12 @@ Unidentified speaker: "**Kyle Filipowski** had one of the more interesting quote
 
 [https://www.youtube.com/watch?v=4ZNec5QgaUc&t=923s](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=923s)
 
+<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=923&q=1)</small>
+
 **2. Unidentified speaker — "maturity was mentioned five, six, seven times from different guys today when talking about Bryce Sensabaugh" — Bryce Sensabaugh is praised by teammates for his work ethic and maturity.** [24:54](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s)
 
 Unidentified speaker: "**Bryce** had a quote about he is 19, hasn't actually played an NBA game yet, but he fits right in with their open gym runs in the summer and just how much they admire his work ethic. The maturity I think maturity was mentioned five, six, seven times from different guys today when talking about **Bryce Sensabaugh**, how he approaches the game, how hungry he is to learn. Those are the traits that you want when you are starting your career and those are the traits that the Jazz want to see from him when they are relying on him to be a big piece of this team's future."
 
 [https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s)
+
+<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=1494&q=2)</small>

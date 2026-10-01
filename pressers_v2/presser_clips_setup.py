@@ -1,18 +1,24 @@
 """
-Setup, self-update and automatic mode for NBA Presser Clips (Windows, macOS).
+Setup and self-update for NBA Presser Clips (Windows, macOS).
 
 The installers (install-presser-clips.bat, install-presser-clips-mac.command)
 put Python, ffmpeg and a private Python environment in place, download the
 app files into the app folder, then call this script:
 
-    python presser_clips_setup.py --setup         the four questions, settings.json,
-                                                  desktop shortcut, automatic mode on/off
-    python presser_clips_setup.py --update        refresh the app's .py files from GitHub
-    python presser_clips_setup.py --auto          update, then make clips if a new cloud run
-                                                  is out (what automatic mode runs)
+    python presser_clips_setup.py --setup         the three questions, settings.json,
+                                                  "Clip it" links, desktop shortcut
+    python presser_clips_setup.py --update        refresh the app files from GitHub (and add
+                                                  any Python package a new version needs)
+    python presser_clips_setup.py --auto          what the retired automatic mode's scheduled
+                                                  task still runs: switches it off for good
     python presser_clips_setup.py --find-ffmpeg   exit 0 = found with subtitles support,
                                                   1 = not found, 3 = found without subtitles
     python presser_clips_setup.py --find-deno     exit 0 = found
+
+"Clip it" links (presserclips://clip?...) are registered for the current
+user only: on Windows under HKEY_CURRENT_USER (no administrator rights), on
+macOS as a small app in ~/Applications that declares the link type
+(CFBundleURLTypes) and opens Terminal to show progress.
 
 App folder: %LOCALAPPDATA%\\NBA Presser Clips (Windows) or
 ~/Library/Application Support/NBA Presser Clips (macOS). Nothing here needs
@@ -20,17 +26,19 @@ a GitHub account or token: every download is a public file.
 """
 
 import argparse
+import hashlib
 import json
 import os
+import plistlib
 import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import urllib.request
 import uuid
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
-from xml.sax.saxutils import escape as xml_escape
 
 APP_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(APP_DIR))
@@ -38,11 +46,17 @@ sys.path.insert(0, str(APP_DIR))
 import make_presser_clips as mc  # noqa: E402
 
 APP_NAME = "NBA Presser Clips"
-UPDATE_FILES = ["make_presser_clips.py", "caption_align.py", "presser_pc_job.py", "presser_clips_setup.py"]
-TASK_NAME = "NBA Presser Clips (auto)"
-OLD_TASK_NAME = "NBA Pressers PC Job"          # the earlier Windows-only PC job
+MODEL_FILE = "models/face_detection_yunet_2023mar.onnx"
+MODEL_SHA256 = "8f2383e4dd3cfbb4553ea8718107fc0423210dc964f9f4280604804ed2552fa4"
+# dependencies first, so a new make_presser_clips.py never lands without them
+UPDATE_FILES = ["caption_align.py", "reframe.py", MODEL_FILE, "make_presser_clips.py", "presser_clips_setup.py"]
+PIP_PACKAGES = {"cv2": "opencv-python-headless"}       # import name -> pip name (face tracking)
+TASK_NAME = "NBA Presser Clips (auto)"                  # the retired automatic mode
+OLD_TASK_NAME = "NBA Pressers PC Job"                   # the earlier Windows-only PC job
 LAUNCHD_LABEL = "com.hoopshype.nba-presser-clips"
-AUTO_INTERVAL_MIN = 30                          # checks for a new cloud run this often
+MAC_APP_ID = "com.hoopshype.nba-presser-clips.link"
+LSREGISTER = ("/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework"
+              "/Support/lsregister")
 IS_WINDOWS = os.name == "nt"
 IS_MAC = sys.platform == "darwin"
 
@@ -58,24 +72,42 @@ def ask(prompt: str) -> str:
         return ""
 
 
+def _run_quiet(cmd: list, timeout: int = 120) -> subprocess.CompletedProcess:
+    return subprocess.run(cmd, capture_output=True, text=True, errors="replace", timeout=timeout)
+
+
 # --------------------------------------------------------------------------- #
 # Self-update
 # --------------------------------------------------------------------------- #
 
+def _valid_download(name: str, body: bytes) -> bool:
+    if name.endswith(".py"):
+        compile(body.decode("utf-8"), name, "exec")
+        return True
+    if name == MODEL_FILE:
+        return hashlib.sha256(body).hexdigest() == MODEL_SHA256
+    return bool(body)
+
+
 def update(quiet: bool = True) -> int:
     """Download the latest app files; replace each one only if it downloaded
-    completely and compiles. Offline or GitHub down: keep the current ones."""
+    completely and is valid (Python that compiles; the face model with its
+    known checksum). Offline or GitHub down: keep the current ones. Then
+    add any package a new version needs and make sure the retired automatic
+    mode is off."""
     changed = 0
     for name in UPDATE_FILES:
         target = APP_DIR / name
-        tmp = APP_DIR / (name + ".new")
+        tmp = target.with_name(target.name + ".new")
         try:
-            req = urllib.request.Request(f"{mc.REPO_RAW}/{name}", headers={"User-Agent": "nba-presser-clips/2.0"})
-            with urllib.request.urlopen(req, timeout=30, context=mc._ssl_context()) as resp:
+            req = urllib.request.Request(f"{mc.REPO_RAW}/{name}", headers={"User-Agent": "nba-presser-clips/3.0"})
+            with urllib.request.urlopen(req, timeout=60, context=mc._ssl_context()) as resp:
                 body = resp.read()
-            compile(body.decode("utf-8"), name, "exec")
+            if not _valid_download(name, body):
+                raise ValueError("failed the integrity check")
             if target.is_file() and target.read_bytes() == body:
                 continue
+            target.parent.mkdir(parents=True, exist_ok=True)
             tmp.write_bytes(body)                       # closed before the move
             mc.with_retry(os.replace, str(tmp), str(target))
             changed += 1
@@ -86,7 +118,23 @@ def update(quiet: bool = True) -> int:
             mc.remove_file(tmp)
     if changed and not quiet:
         say(f"  updated {changed} file(s)")
+    ensure_packages()
+    if mc.load_settings(APP_DIR / "settings.json").get("auto_run"):
+        disable_auto()
     return changed
+
+
+def ensure_packages() -> None:
+    """pip-install what a newer version needs (e.g. OpenCV for face tracking)
+    into this app's own Python environment, once."""
+    for module, package in PIP_PACKAGES.items():
+        if _run_quiet([sys.executable, "-c", f"import {module}"], timeout=120).returncode == 0:
+            continue
+        say(f"Installing {package} for face tracking (one time, about a minute)...")
+        res = _run_quiet([sys.executable, "-m", "pip", "install", "--disable-pip-version-check", "--quiet",
+                          package], timeout=900)
+        if res.returncode != 0:
+            say("  could not install it now; clips use a centred crop until it works")
 
 
 # --------------------------------------------------------------------------- #
@@ -122,7 +170,7 @@ def find_deno_cmd() -> int:
 
 
 # --------------------------------------------------------------------------- #
-# The four questions
+# The three questions
 # --------------------------------------------------------------------------- #
 
 def clean_folder_answer(answer: str) -> str:
@@ -183,9 +231,9 @@ def ask_keep_days(current) -> int:
     default = mc.keep_days({"out_dir": "x", "keep_days": current} if current is not None
                            else {"out_dir": "x"})
     say()
-    say("2) Delete files in the clips folder older than how many days?")
+    say("2) Delete clips in the clips folder older than how many days?")
     say(f"   Press Enter for {default}, or type a number (0 = never delete).")
-    say("   This also clears the saved post text and temporary files on this computer.")
+    say("   Each quote's folder goes as a whole; temporary files on this computer too.")
     while True:
         a = ask("   > ").strip()
         if not a:
@@ -208,17 +256,6 @@ def ask_formats(current: list | None) -> list:
             return mc.parse_formats(ask("   > "), default)
         except ValueError as e:
             say(f"   {e}. Try again.")
-
-
-def ask_yes_no(question: str, default: bool) -> bool:
-    hint = "Y/n" if default else "y/N"
-    while True:
-        a = ask(f"{question} [{hint}] > ").strip().lower()
-        if not a:
-            return default
-        if a[0] in "yn":
-            return a[0] == "y"
-        say("   Please answer Y or N.")
 
 
 # --------------------------------------------------------------------------- #
@@ -246,117 +283,122 @@ def make_desktop_shortcut() -> str:
     return str(target)
 
 
+
 # --------------------------------------------------------------------------- #
-# Automatic mode
+# "Clip it" links: presserclips://clip?v=..&t=..&q=..
 # --------------------------------------------------------------------------- #
 
-def write_windows_task(xml_path: Path, vbs_path: Path, bat_path: Path) -> None:
-    """Every 30 minutes while you're logged in: a hidden check for a new cloud
-    run (the job exits at once when there's nothing new)."""
-    start = (datetime.now(timezone.utc) + timedelta(minutes=5)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    xml = f"""<?xml version="1.0" encoding="UTF-16"?>
-<Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
-  <RegistrationInfo>
-    <Description>NBA Presser Clips: makes the top clips after each new cloud run (checks every {AUTO_INTERVAL_MIN} minutes).</Description>
-  </RegistrationInfo>
-  <Triggers>
-    <TimeTrigger>
-      <Repetition>
-        <Interval>PT{AUTO_INTERVAL_MIN}M</Interval>
-        <StopAtDurationEnd>false</StopAtDurationEnd>
-      </Repetition>
-      <StartBoundary>{start}</StartBoundary>
-      <Enabled>true</Enabled>
-    </TimeTrigger>
-  </Triggers>
-  <Principals>
-    <Principal id="Author">
-      <LogonType>InteractiveToken</LogonType>
-      <RunLevel>LeastPrivilege</RunLevel>
-    </Principal>
-  </Principals>
-  <Settings>
-    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>
-    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
-    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
-    <StartWhenAvailable>true</StartWhenAvailable>
-    <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
-    <WakeToRun>false</WakeToRun>
-    <ExecutionTimeLimit>PT3H</ExecutionTimeLimit>
-    <Enabled>true</Enabled>
-  </Settings>
-  <Actions Context="Author">
-    <Exec>
-      <Command>wscript.exe</Command>
-      <Arguments>//B //Nologo "{xml_escape(str(vbs_path))}"</Arguments>
-    </Exec>
-  </Actions>
-</Task>
-"""
-    xml_path.write_text(xml, encoding="utf-16")
-    # UTF-16 (with BOM): Windows Script Host reads anything else as ANSI, which
-    # would garble a Windows user name with accents (José) in the path. newline=""
-    # keeps the \r\n as written (no \r\r\n on Windows).
-    vbs_path.write_text('Set sh = CreateObject("WScript.Shell")\r\n'
-                        f'sh.Run """{bat_path}"" --auto", 0, True\r\n', encoding="utf-16", newline="")
+def link_command(python: Path, tool: Path) -> str:
+    """What Windows runs for a presserclips: link. A console Python, so the
+    progress shows in a window that closes by itself. The tool accepts
+    nothing but "--link <one link>" in this mode."""
+    return f'"{python}" "{tool}" --link "%1"'
 
 
-def launchd_plist(python: str) -> str:
-    log = APP_DIR / "auto-launchd.log"
-    return f"""<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-  <key>Label</key><string>{LAUNCHD_LABEL}</string>
-  <key>ProgramArguments</key>
-  <array>
-    <string>{xml_escape(python)}</string>
-    <string>{xml_escape(str(APP_DIR / 'presser_clips_setup.py'))}</string>
-    <string>--auto</string>
-  </array>
-  <key>StartInterval</key><integer>{AUTO_INTERVAL_MIN * 60}</integer>
-  <key>RunAtLoad</key><false/>
-  <key>StandardOutPath</key><string>{xml_escape(str(log))}</string>
-  <key>StandardErrorPath</key><string>{xml_escape(str(log))}</string>
-</dict>
-</plist>
+def register_link_windows() -> str:
+    import winreg
+    base = rf"Software\Classes\{mc.LINK_SCHEME}"
+    with winreg.CreateKey(winreg.HKEY_CURRENT_USER, base) as k:
+        winreg.SetValueEx(k, "", 0, winreg.REG_SZ, "URL:NBA Presser Clips link")
+        winreg.SetValueEx(k, "URL Protocol", 0, winreg.REG_SZ, "")
+    with winreg.CreateKey(winreg.HKEY_CURRENT_USER, base + r"\shell\open\command") as k:
+        winreg.SetValueEx(k, "", 0, winreg.REG_SZ,
+                          link_command(Path(sys.executable), APP_DIR / "make_presser_clips.py"))
+    return "registered for this Windows user"
+
+
+MAC_HANDLER = """on open location theURL
+	set appDir to (POSIX path of (path to home folder)) & "Library/Application Support/NBA Presser Clips"
+	set py to appDir & "/venv/bin/python"
+	set tool to appDir & "/make_presser_clips.py"
+	set cmd to "clear; " & quoted form of py & " " & quoted form of tool & " --link " & quoted form of theURL & "; exit"
+	tell application "Terminal"
+		activate
+		do script cmd
+	end tell
+end open location
+
+on run
+	display dialog "NBA Presser Clips makes a clip when you click Clip it in the digest. To choose clips from a list, use NBA Presser Clips on your Desktop." buttons {"OK"} default button 1
+end run
 """
 
 
-def _run_quiet(cmd: list) -> subprocess.CompletedProcess:
-    return subprocess.run(cmd, capture_output=True, text=True, errors="replace", timeout=120)
+def mac_bundle_path() -> Path:
+    return Path.home() / "Applications" / f"{APP_NAME}.app"
 
 
-def set_auto(enabled: bool) -> str:
+def add_url_type(info: dict) -> dict:
+    info["CFBundleIdentifier"] = MAC_APP_ID
+    info["CFBundleName"] = APP_NAME
+    info["CFBundleURLTypes"] = [{"CFBundleURLName": f"{APP_NAME} link",
+                                 "CFBundleURLSchemes": [mc.LINK_SCHEME]}]
+    return info
+
+
+def register_link_mac() -> str:
+    """A small AppleScript app in ~/Applications that declares the
+    presserclips: link type; a click opens Terminal running the tool (the
+    link is passed as one shell-quoted argument)."""
+    bundle = mac_bundle_path()
+    bundle.parent.mkdir(parents=True, exist_ok=True)
+    mc.remove_tree(bundle)
+    with tempfile.TemporaryDirectory() as tmp:
+        script = Path(tmp) / "handler.applescript"
+        script.write_text(MAC_HANDLER, encoding="utf-8")
+        res = _run_quiet(["osacompile", "-o", str(bundle), str(script)])
+        if res.returncode != 0:
+            raise RuntimeError((res.stderr or "osacompile failed").strip()[-300:])
+    plist = bundle / "Contents" / "Info.plist"
+    with open(plist, "rb") as f:
+        info = plistlib.load(f)
+    with open(plist, "wb") as f:
+        plistlib.dump(add_url_type(info), f)
+    _run_quiet(["codesign", "--force", "--deep", "--sign", "-", str(bundle)])   # re-sign after the edit
+    if Path(LSREGISTER).exists():
+        _run_quiet([LSREGISTER, "-f", str(bundle)])
+    return f"registered ({bundle})"
+
+
+def register_link() -> str:
     if IS_WINDOWS:
-        if not enabled:
-            _run_quiet(["schtasks", "/Delete", "/TN", TASK_NAME, "/F"])
-            return "off"
-        xml_path, vbs = APP_DIR / "auto-task.xml", APP_DIR / "run-hidden.vbs"
-        write_windows_task(xml_path, vbs, APP_DIR / "run-presser-clips.bat")
-        res = _run_quiet(["schtasks", "/Create", "/TN", TASK_NAME, "/XML", str(xml_path), "/F"])
-        if res.returncode != 0:
-            raise RuntimeError((res.stderr or res.stdout or "schtasks failed").strip()[-300:])
-        return f"on (Task Scheduler: \"{TASK_NAME}\", checks every {AUTO_INTERVAL_MIN} minutes)"
+        return register_link_windows()
     if IS_MAC:
-        agents = Path.home() / "Library" / "LaunchAgents"
-        plist = agents / f"{LAUNCHD_LABEL}.plist"
-        if plist.exists():
-            _run_quiet(["launchctl", "unload", "-w", str(plist)])
-        if not enabled:
-            mc.remove_file(plist)
-            return "off"
-        agents.mkdir(parents=True, exist_ok=True)
-        plist.write_text(launchd_plist(sys.executable), encoding="utf-8")
-        res = _run_quiet(["launchctl", "load", "-w", str(plist)])
-        if res.returncode != 0:
-            raise RuntimeError((res.stderr or res.stdout or "launchctl failed").strip()[-300:])
-        return f"on (checks every {AUTO_INTERVAL_MIN} minutes while you're logged in)"
+        return register_link_mac()
     return "not available on this system"
 
 
-def old_windows_task_exists() -> bool:
-    return IS_WINDOWS and _run_quiet(["schtasks", "/Query", "/TN", OLD_TASK_NAME]).returncode == 0
+# --------------------------------------------------------------------------- #
+# Automatic mode: retired. Switch it off wherever an earlier version set it up.
+# --------------------------------------------------------------------------- #
+
+def disable_auto() -> str:
+    removed = []
+    if IS_WINDOWS:
+        for name in (TASK_NAME, OLD_TASK_NAME):
+            if _run_quiet(["schtasks", "/Query", "/TN", name]).returncode == 0:
+                _run_quiet(["schtasks", "/Delete", "/TN", name, "/F"])
+                removed.append(name)
+    elif IS_MAC:
+        plist = Path.home() / "Library" / "LaunchAgents" / f"{LAUNCHD_LABEL}.plist"
+        if plist.exists():
+            _run_quiet(["launchctl", "unload", "-w", str(plist)])
+            mc.remove_file(plist)
+            removed.append(LAUNCHD_LABEL)
+    settings_path = APP_DIR / "settings.json"
+    settings = mc.load_settings(settings_path)
+    if settings.get("auto_run"):
+        settings["auto_run"] = False
+        save_settings(settings_path, settings)
+    if removed:
+        mc.log_line("setup-log.txt", f"automatic mode switched off: removed {', '.join(removed)}")
+    return ", ".join(removed)
+
+
+def save_settings(path: Path, settings: dict) -> None:
+    tmp = path.with_name(path.name + ".tmp")
+    tmp.write_text(json.dumps(settings, indent=2), encoding="utf-8")
+    mc.with_retry(os.replace, str(tmp), str(path))
 
 
 # --------------------------------------------------------------------------- #
@@ -368,64 +410,58 @@ def setup() -> int:
     current = mc.load_settings(settings_path)
     say()
     say("=" * 60)
-    say(f"  {APP_NAME}: four quick questions")
+    say(f"  {APP_NAME}: three quick questions")
     say("=" * 60)
     say()
     out_dir = ask_folder(current.get("out_dir"))
     days = ask_keep_days(current.get("keep_days"))
     formats = ask_formats(mc.settings_formats(current) if current else None)
-    say()
-    say("4) Make clips automatically after each cloud run?")
-    say("   (the top 10 quotes by news score, in your default formats, while this computer is on)")
-    auto = ask_yes_no("  ", bool(current.get("auto_run", False)))
 
     settings = {
         "out_dir": str(out_dir),
         "keep_days": days,
         "formats": formats,
-        "auto_run": auto,
+        "auto_run": False,
         "ffmpeg": mc.find_ffmpeg(current) or "",
         "installed_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
     }
-    tmp = settings_path.with_name("settings.json.tmp")
-    tmp.write_text(json.dumps(settings, indent=2), encoding="utf-8")
-    mc.with_retry(os.replace, str(tmp), str(settings_path))
+    save_settings(settings_path, settings)
 
     say()
+    try:
+        links = register_link()
+    except Exception as e:
+        links = f"could not be registered ({e})"
     try:
         shortcut = make_desktop_shortcut()
     except Exception as e:
         shortcut = f"could not be created ({e})"
-    try:
-        auto_state = set_auto(auto)
-    except Exception as e:
-        auto_state = f"could not be set up ({e})"
-    if old_windows_task_exists():
-        say(f"Found the older automatic job \"{OLD_TASK_NAME}\". This app replaces it.")
-        if ask_yes_no("   Remove the old one?", True):
-            _run_quiet(["schtasks", "/Delete", "/TN", OLD_TASK_NAME, "/F"])
-            say("   removed.")
+    retired = disable_auto()
 
     say()
     say("=" * 60)
     say("  All set.")
     say(f"  Clips are saved in: {out_dir}")
-    say(f"  Cleanup:            {'never' if not days else f'files older than {days} days are deleted'}")
-    say(f"  Post text and logs: {mc.app_dir()}")
+    say(f"  Cleanup:            {'never' if not days else f'quote folders older than {days} days are deleted'}")
     say(f"  Default formats:    {', '.join(formats)}")
-    say(f"  Automatic mode:     {auto_state}")
+    say(f"  Clip it links:      {links}")
     say(f"  Desktop shortcut:   {shortcut}")
+    if retired:
+        say(f"  Automatic mode:     switched off (removed {retired})")
+    say(f"  Logs:               {mc.app_dir() / 'logs'}")
     say("=" * 60)
-    say("To make clips, double-click \"NBA Presser Clips\" on your desktop.")
+    say("Click \"Clip it\" under any quote in the digest to make that clip.")
+    say("Or double-click \"NBA Presser Clips\" on your desktop to pick from a list.")
     say("To change these answers later, run the installer again.")
     return 0
 
 
 def auto() -> int:
-    """Automatic mode: refresh the code, then hand over to the job (a fresh
-    process, so it runs the updated files)."""
+    """The retired automatic mode's scheduled task lands here: switch it off
+    for good (and refresh the app files while at it)."""
     update(quiet=True)
-    return subprocess.run([sys.executable, str(APP_DIR / "presser_pc_job.py"), "--scheduled", "--only-new"]).returncode
+    disable_auto()
+    return 0
 
 
 def main() -> int:

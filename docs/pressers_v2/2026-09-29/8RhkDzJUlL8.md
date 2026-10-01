@@ -10,14 +10,20 @@ Moses Moody: "My first thought on the ground was I know this is going to be a go
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=207s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=207s)
 
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=207&q=1)</small>
+
 **2. Moses Moody — "watching somebody be able to stay patient and ambitious at the same time." — Moses Moody praises Stephen Curry for his commitment to the Warriors organization.** [08:15](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s)
 
 Moses Moody: "It is cool to see somebody at the that has done as much as he has done that wants to do as much as he wants to do, but just watching somebody be able to stay patient and ambitious at the same time. It is a lot of stuff like him like that with him. Just being able to be like free and contained and like that type of thing. So just having the discipline and focus and commitment to stay with an organization for as long as he has is cool to see."
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s)
 
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=495&q=2)</small>
+
 **3. Moses Moody — "this is probably the most insecure I ever felt when it comes" — Moses Moody discusses the emotional insecurity of dealing with a patellar tendon injury.** [10:46](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s)
 
 Moses Moody: "I feel like I am a pretty secure person normally, but then like this is probably the most insecure I ever felt when it comes because whenever somebody say I got a patellar tendon injury I am oh I am everything you say I am putting extra weight, I am curious, I want to learn about it, emotion is attached to it some. So that is just an interesting observation I had just feeling that feeling insecure about something in a some yeah just you you follow the stories and all, but and then and then that is funny too because now when you have a injury like that then everybody that has had it like will always tell you like oh I had it too and that is just kind of a connection and something that you might have been with you might have known somebody for a long time but never known that about the injury and stuff."
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s)
+
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=646&q=3)</small>

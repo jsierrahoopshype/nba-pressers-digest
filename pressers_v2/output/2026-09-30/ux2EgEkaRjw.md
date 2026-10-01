@@ -10,14 +10,20 @@ Taylor Jenkins: "Right now we are kind of randomizing it. We are mixing it up. W
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=107s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=107s)
 
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=107&q=1)</small>
+
 **2. Taylor Jenkins — "I want to develop depth early in the season, so I want to play more guys" — Taylor Jenkins intends to utilize a deep rotation of at least 11 players this season.** [05:30](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s)
 
 Taylor Jenkins: "Not accounting preseason, probably 11, maybe stuck a 12 in there, but that was maybe just by the game flow. But design wise, probably 11. So we are having those internal conversations now as a coaching staff. Historically, I want to develop depth early in the season, so I want to play more guys. You got to earn it. It is not just given to you. But are we playing an eight man, nine man rotation right out the gate? That is not my MO. I want to develop depth, I want to develop chemistry, because as you know over 82 game season, things come in a lot of different shapes and forms that require you to change your rotations."
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s)
 
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=330&q=2)</small>
+
 **3. Taylor Jenkins — "Cormac has been in our system already for a year" — Taylor Jenkins praises the development and potential impact of Cormac and Cam.** [09:02](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s)
 
 Taylor Jenkins: "**Cormac** has been in our system already for a year. Obviously had the Summer League exposure with a new coaching staff. He embodies a lot of the characteristics we stand for from competitiveness. He plays the right way. What he can do on the offensive side, going to challenge him to even become more of a great shooter for us. But a lot of the intangibles we talk about, I think that can impact winning over the course of a season. So whether he is developing that with us or with the Herd, I know he can fit that mold. And the same thing with **Cam**, he is really impressed me a lot with his physicality, his on ball defense, his help defense, and then growing a more of a playmaker on offense."
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s)
+
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=542&q=3)</small>

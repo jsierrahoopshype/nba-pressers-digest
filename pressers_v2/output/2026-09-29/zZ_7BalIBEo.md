@@ -10,8 +10,12 @@ Coby White: "Most of the time when guys come in a situation like this, the coach
 
 [https://www.youtube.com/watch?v=zZ_7BalIBEo&t=86s](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=86s)
 
+<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=86&q=1)</small>
+
 **2. Coby White — "all that time invested allow us to kind of transition quickly in the training camp" — Coby White says summer workouts helped the Hornets transition quickly into training camp** [03:16](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s)
 
 Coby White: "I think all that time invested allow us to kind of transition quickly in the training camp in terms of competing. In terms of playing, it was not a lot of teaching just because of all the time we have already spent together. I think it helps us, but I think in terms of on the court, it allows us to communicate in effective ways in real time and I think that is the major key that we were trying to develop by also getting together this summer is the communication level part of it. So I think like I said, today was a great day, man. We had a really good day. I think we got better today."
 
 [https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s)
+
+<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=196&q=2)</small>

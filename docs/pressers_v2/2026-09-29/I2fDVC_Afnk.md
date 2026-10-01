@@ -10,11 +10,15 @@ Steve Kerr: "Mike called me last night to tell me the news. It was surprising, b
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=104s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=104s)
 
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=104&q=1)</small>
+
 **2. Steve Kerr — Steve Kerr says he will wait two weeks before deciding on the starting lineup.** [03:26](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s)
 
 Steve Kerr: "I've got an idea in my head of what we're going to be doing. As I said, I like the way this team fits together. We have some really good versatility and some new additions that I think can complement the group. But we owe it to ourselves as a staff and as a team to give these guys a couple of weeks before we even start thinking about starting lineups and definitely before we say anything about it."
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s)
+
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=206&q=2)</small>
 
 **3. Steve Kerr — Steve Kerr plans to use the entire roster and two-way players this season.** [04:56](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s)
 
@@ -22,11 +26,15 @@ Steve Kerr: "We added guys this year who I think are going to give us a lot of d
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s)
 
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=296&q=3)</small>
+
 **4. Steve Kerr — Steve Kerr says the team must improve efficiency and reduce turnovers this season.** [08:35](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s)
 
 Steve Kerr: "We have to reimagine our team this year. We can't be 28th in turnovers. We have to be more efficient. We have to win the possession battle. We have to win the game in the margins. Draymond is one of the smartest basketball players I've ever been around, and he and I had really good discussions this summer about not only reimagining our team, but reimagining the way he plays, and so we're on the same page with that."
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s)
+
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=515&q=4)</small>
 
 **5. Steve Kerr — Steve Kerr calls the addition of Frank Vogel to the coaching staff a coup.** [16:54](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s)
 
@@ -34,11 +42,15 @@ Steve Kerr: "Adding Frank Vogel was a coup for us. He's one of the great defensi
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s)
 
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1014&q=5)</small>
+
 **6. Steve Kerr — Steve Kerr says the team signed Brandon Williams to provide speed and quickness.** [21:38](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s)
 
 Steve Kerr: "One of the reasons frankly we signed Brandon Williams, we felt like we needed some speed, quickness to break down the defense, particularly in the games that Steph misses."
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s)
+
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1298&q=6)</small>
 
 **7. Steve Kerr — Steve Kerr says the team is changing its practice and teaching methods.** [26:33](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s)
 
@@ -46,8 +58,12 @@ Steve Kerr: "I don't think it necessarily means more timeouts. I think it means 
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s)
 
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1593&q=7)</small>
+
 **8. Steve Kerr — Steve Kerr says he allows Steph Curry and Draymond Green six turnovers combined.** [27:53](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s)
 
 Steve Kerr: "My main punishment this year is I've always told Steph and Draymond that they're allowed to commit five or six between the two of them, and I've told them that in front of the team because I always believed that they were the ones handling the ball the most. Our team was built in such a way that I literally told everybody, all you guys have to take care of the ball, they're allowed to turn it over six times."
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s)
+
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1673&q=8)</small>

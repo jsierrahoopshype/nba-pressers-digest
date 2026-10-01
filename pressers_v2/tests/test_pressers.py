@@ -31,9 +31,25 @@ def unwrap_links(md: str) -> str:
     return LINK_WRAP_RE.sub(r"\1", md)
 
 
+def strip_clip_links(test, md: str) -> str:
+    """Remove the "Clip it" line (and the blank line before it) that follows
+    each quote block's timestamped URL; it must sit exactly there."""
+    lines, out = md.split("\n"), []
+    for line in lines:
+        if pe.CLIP_LINK_LINE_RE.match(line):
+            test.assertEqual(out[-1], "")
+            test.assertRegex(out[-2], r"^\[https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}&t=\d+s\]")
+            out.pop()
+            continue
+        out.append(line)
+    return "\n".join(out)
+
+
 def assert_only_link_wrappers_differ(test, ours: str, theirs: str) -> None:
     """Line by line: every line that differs is theirs with its bare URL
-    wrapped as [url](url); nothing else may change."""
+    wrapped as [url](url), plus the "Clip it" line after each quote block;
+    nothing else may change."""
+    ours = strip_clip_links(test, ours)
     a, b = ours.split("\n"), theirs.split("\n")
     test.assertEqual(len(a), len(b))
     for mine, ref in zip(a, b):
@@ -116,6 +132,13 @@ class FormatParityTests(unittest.TestCase):
         assert_only_link_wrappers_differ(self, ours, expected)
         # Source line + one timestamped URL per quote block are now links
         self.assertEqual(len(LINK_WRAP_RE.findall(ours)), 1 + len(data["quotes"]))
+        # one "Clip it" link per quote block, with the block's video, second and number
+        clip_lines = [l for l in ours.split("\n") if pe.CLIP_LINK_LINE_RE.match(l)]
+        self.assertEqual(len(clip_lines), len(data["quotes"]))
+        q1 = data["quotes"][0]
+        self.assertEqual(clip_lines[0], pe.clip_link_line("6sbyI-n2yh0", ytq.timestamp_to_seconds(q1["timestamp"]),
+                                                          q1["rank"]))
+        self.assertEqual(pe.add_clip_links(ours), ours)                      # idempotent
         self.assertIn("\nSource: [https://www.youtube.com/watch?v=6sbyI-n2yh0]"
                       "(https://www.youtube.com/watch?v=6sbyI-n2yh0)\n", ours)
 

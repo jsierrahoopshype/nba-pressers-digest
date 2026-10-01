@@ -24,8 +24,9 @@ RAW = "https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/ma
 CHECKS = [(f"{PAGES}/install-presser-clips.bat", ROOT / "docs/presser-clips/install-presser-clips.bat"),
           (f"{PAGES}/install-presser-clips-mac.zip", ROOT / "docs/presser-clips/install-presser-clips-mac.zip")] + [
          (f"{RAW}/{name}", ROOT / "pressers_v2" / name)
-         for name in ("presser_clips_setup.py", "make_presser_clips.py", "presser_pc_job.py",
-                      "caption_align.py", "run-presser-clips.bat", "run-presser-clips-mac.command")]
+         for name in ("presser_clips_setup.py", "make_presser_clips.py", "reframe.py", "caption_align.py",
+                      "models/face_detection_yunet_2023mar.onnx", "presser_pc_job.py",
+                      "run-presser-clips.bat", "run-presser-clips-mac.command")]
 
 
 def fetch(url: str) -> bytes:

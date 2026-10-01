@@ -10,11 +10,15 @@ Aaron Gordon: "I guess it was just doing some reading, doing some writing, doing
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=104s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=104s)
 
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=104&q=1)</small>
+
 **2. Aaron Gordon — Aaron Gordon praises Jamal Murray as an all-time great bucket getter.** [03:47](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=227s)
 
 Aaron Gordon: "I have been watching Jamal both Cali because I have been watching him since I was like young, you know, 10 years old. Him and my brother used to battle and he was that dude. Jamal Murray was that dude and he still is. All time great, all time bucket getter. When things get stymie, he is going to be able to score for us."
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=227s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=227s)
+
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=227&q=2)</small>
 
 **3. Jamal Murray — Jamal Murray expresses gratitude for remaining with the Denver Nuggets for 11 years.** [07:23](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=443s)
 
@@ -22,11 +26,15 @@ Jamal Murray: "I have been blessed and grateful to be with the same team that dr
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=443s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=443s)
 
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=443&q=3)</small>
+
 **4. Aaron Gordon — Aaron Gordon dismisses trade rumors as noise and focuses on winning.** [08:44](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=524s)
 
 Aaron Gordon: "Like you said, it is a business, you know, and Denver Nuggets basketball is in the business of winning. So you can't let that affect you. It is just static, it is just noise. We come, we do our job and we do it to the best of our abilities and we win."
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=524s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=524s)
+
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=524&q=4)</small>
 
 **5. Jamal Murray — Jamal Murray emphasizes the importance of loving the game and avoiding regrets.** [10:02](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=602s)
 
@@ -34,14 +42,20 @@ Jamal Murray: "We love the game. I think it starts with there, you know, you lov
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=602s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=602s)
 
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=602&q=5)</small>
+
 **6. Aaron Gordon — Aaron Gordon identifies the Denver Nuggets as a team of underdogs and dark horses.** [10:43](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=643s)
 
 Aaron Gordon: "We got a lot of underdogs on this team. We got a lot of dark horses on this team, people that have counted us out and underrated us for our entire career and we like hunting."
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=643s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=643s)
 
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=643&q=6)</small>
+
 **7. Aaron Gordon — Aaron Gordon adjusts his routine to include more warm-up and cool-down time.** [15:48](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=948s)
 
 Aaron Gordon: "Now I am growing to be a man and now I have a bunch of tricks in the trade. I need to be here much earlier and stay much later and I need to invest a lot more time warming up and a lot more time cooling down."
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=948s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=948s)
+
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=948&q=7)</small>

@@ -10,8 +10,12 @@ Jordan Ott: "Shane last year just we got to get to translate, you know, it's 27t
 
 [https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=218s](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=218s)
 
+<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=218&q=1)</small>
+
 **2. Jordan Ott — "He's going to continue to average over 25 points a game like he's done his whole life." — Jordan Ott expects his star player to continue averaging over 25 points per game.** [06:17](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s)
 
 Jordan Ott: "I'm not going to go down that path. The ball is going to be in his hands. He's going to playmake. If there's two on the ball, he can't shoot. It's really hard to shoot with two or three guys on you. That's probably not ideal for anyone to shoot it over two or three guys. He's going to continue to make the right play. He's going to continue to average over 25 points a game like he's done his whole life. But if the game calls for him to be a passer, he's going to be a passer. He's a basketball player. He's a high level basketball player that he's shown that he can do it whatever the game calls for."
 
 [https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s)
+
+<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=377&q=2)</small>

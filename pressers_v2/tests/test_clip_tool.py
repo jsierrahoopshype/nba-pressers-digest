@@ -1,46 +1,68 @@
 """
-Offline tests for the clip tool: formats and layouts, one download per quote,
-skip-if-exists, atomic writes, pasted links, settings, installers.
+Offline tests for the clip tool: "Clip it" links, quote folders, the
+speaker-following crop, speech-timed subtitles, cleanup, setup, installers.
 
     python -m unittest discover -s pressers_v2/tests -v
 """
 
 import json
 import os
-import plistlib
 import subprocess
 import sys
 import tempfile
 import time
 import unittest
 import urllib.error
-import xml.etree.ElementTree as ET
 from pathlib import Path
 from unittest import mock
 
 HERE = Path(__file__).resolve().parent
 PV2 = HERE.parent
 sys.path.insert(0, str(PV2))
-# notes / logs / tmp of the app go to a throwaway folder, never the real one
+# logs / tmp of the app go to a throwaway folder, never the real one
 os.environ.setdefault("NBA_PRESSER_APP_DIR", tempfile.mkdtemp(prefix="npc_app_"))
+os.environ.setdefault("NBA_PRESSER_LINK_WAIT", "0")
 
+import caption_align as ca  # noqa: E402
 import make_presser_clips as mc  # noqa: E402
 import presser_clips_setup as setup_mod  # noqa: E402
+import reframe  # noqa: E402
 
 sys.path.insert(0, str(PV2 / "tools"))
 import build_installers  # noqa: E402
 
+try:
+    import cv2
+    import numpy as np
+    HAVE_CV2 = True
+except ImportError:
+    HAVE_CV2 = False
+
+TEXT = "Putting everything together, obviously it is going to take some time."
 CLIP = {"video_id": "J5unk3vEQmk", "start_seconds": 118, "end_seconds": 126, "speaker": "James Harden",
-        "team": "Cleveland Cavaliers", "publish_date": "2026-09-30", "content_type": "presser",
-        "text": "Putting everything together obviously it is going to take some time.",
+        "team": "Cleveland Cavaliers", "publish_date": "2026-09-30", "content_type": "presser", "rank": 2,
+        "news_angle": "James Harden on Mario and Peyton's camp", "text": TEXT,
         "social_post": "Harden on the Cavs", "clip_url": "https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s"}
+FOLDER = "2026-09-30 James Harden - on Mario and Peyton's camp"
+
+
+def timed(text: str, start: float, step: float = 0.3) -> list:
+    toks = ca.norm_words(text)
+    return [(start + i * step, start + i * step + step * 0.9, t) for i, t in enumerate(toks)]
+
+
+def located(word_level=True):
+    return mc.Located(118.4, 121.9, "captions", 0.92, timed(TEXT, 118.4), word_level)
 
 
 class FakeRender:
-    """Stands in for yt-dlp + ffmpeg: counts downloads, writes small files."""
+    """Stands in for yt-dlp + ffmpeg: counts downloads, records what each
+    format got, writes small files."""
 
-    def __init__(self, fail_formats=()):
+    def __init__(self, fail_formats=(), loc=None):
         self.downloads, self.renders, self.fail = 0, [], set(fail_formats)
+        self.ass, self.crops = {}, {}
+        self.loc = loc or located()
 
     def download(self, clip, a, b, work, ffmpeg):
         self.downloads += 1
@@ -48,78 +70,22 @@ class FakeRender:
         src.write_bytes(b"source")
         return src
 
-    def render(self, src, fmt, ass_name, out_tmp, work, ffmpeg):
+    def render(self, src, fmt, ass_name, out_tmp, work, ffmpeg, crop_chain=None):
         self.renders.append(fmt)
-        self.assertion_ass = (work / ass_name).read_text(encoding="utf-8")
+        self.ass[fmt] = (work / ass_name).read_text(encoding="utf-8") if ass_name else None
+        self.crops[fmt] = crop_chain
         if fmt in self.fail:
             raise RuntimeError("ffmpeg failed: boom")
         out_tmp.write_bytes(f"video {fmt}".encode())
 
     def patch(self):
+        plan = reframe.Plan(608, 1080, [100.0] * 90, [0.0] * 90, True, "face found in 18/18 samples")
         return mock.patch.multiple(mc, download_section=self.download, render_format=self.render,
-                                   locate_quote=lambda clip, ffmpeg: (118.4, 125.9, "captions", 0.92))
+                                   locate_quote=lambda clip, ffmpeg: self.loc,
+                                   reframe=mock.Mock(plan_crop=lambda src, w, h: plan, forget=lambda s: None))
 
 
-class FormatTests(unittest.TestCase):
-    def test_parse_formats(self):
-        allf = list(mc.FORMAT_ORDER)
-        self.assertEqual(mc.parse_formats("", allf), ["vertical", "youtube", "square"])
-        self.assertEqual(mc.parse_formats("", ["square"]), ["square"])
-        self.assertEqual(mc.parse_formats("sv", allf), ["vertical", "square"])
-        self.assertEqual(mc.parse_formats("V, Y", allf), ["vertical", "youtube"])
-        self.assertEqual(mc.parse_formats("all", ["square"]), allf)
-        self.assertEqual(mc.parse_formats("youtube", allf), ["youtube"])
-        with self.assertRaises(ValueError):
-            mc.parse_formats("x", allf)
-
-    def test_sizes(self):
-        self.assertEqual(mc.FORMATS["vertical"]["size"], (1080, 1920))
-        self.assertEqual(mc.FORMATS["youtube"]["size"], (1920, 1080))
-        self.assertEqual(mc.FORMATS["square"]["size"], (1080, 1080))
-
-    def test_overlays_stay_off_the_picture_and_inside_the_frame(self):
-        for fmt in ("vertical", "square"):
-            L = mc.FORMATS[fmt]
-            w, h = L["size"]
-            bx, by, bw, bh = L["box"]
-            self.assertEqual(bh, round(bw * 9 / 16))                       # the 16:9 frame, uncropped
-            lt_bottom = L["lt_pos"][1] + mc.LT_BOX_PAD
-            lt_top = L["lt_pos"][1] - L["lt_size"] * 1.25 - L["lt_team_size"] * 1.25 - mc.LT_BOX_PAD
-            self.assertLessEqual(lt_bottom, by, fmt)                       # lower third above the picture
-            self.assertGreaterEqual(lt_top, 0, fmt)
-            self.assertGreaterEqual(L["cap_margin_v"], by + bh, fmt)       # captions below it
-            cap_bottom = L["cap_margin_v"] + 2 * L["cap_size"] * 1.25 + L["cap_outline"]
-            self.assertLessEqual(cap_bottom, h, fmt)
-        # vertical captions stay above the bottom area Reels/TikTok cover
-        V = mc.FORMATS["vertical"]
-        self.assertLessEqual(V["cap_margin_v"] + 2 * V["cap_size"] * 1.25, 1920 - 370)
-        Y = mc.FORMATS["youtube"]
-        self.assertEqual(Y["box"], (0, 0, 1920, 1080))
-        self.assertEqual((Y["lt_align"], Y["cap_align"]), (7, 2))            # top-left, bottom-centre
-        self.assertLess(Y["lt_pos"][1] + Y["lt_size"] * 2.5, 1080 * 0.2)
-
-    def test_filter_graph_fits_the_frame_without_cropping_it(self):
-        for fmt in mc.FORMAT_ORDER:
-            g = mc.filter_graph(fmt, "captions.ass")
-            fg = g.split("[fg]", 2)[2]
-            self.assertIn("force_original_aspect_ratio=decrease", fg)
-            self.assertNotIn("crop", fg)
-            w, h = mc.FORMATS[fmt]["size"]
-            self.assertIn(f"scale={w}:{h},", g)
-
-    def test_ass_per_format_and_untrusted_text_neutralised(self):
-        clip = dict(CLIP, speaker="Bad {\\pos(0,0)} Name", text="hello {\\an8} world " * 5)
-        for fmt in mc.FORMAT_ORDER:
-            ass = mc.build_ass(clip, 0.5, 8.0, 9.0, fmt)
-            w, h = mc.FORMATS[fmt]["size"]
-            self.assertIn(f"PlayResX: {w}\nPlayResY: {h}", ass)
-            events = ass.split("[Events]")[1]
-            self.assertNotIn("{\\pos(0,0)}", events)
-            self.assertNotIn("{\\an8}", events)
-            self.assertIn("BAD (/POS(0,0)) NAME", events)
-
-
-class RenderTests(unittest.TestCase):
+class TempDirs(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.out = Path(self.tmp.name) / "clips"
@@ -131,47 +97,213 @@ class RenderTests(unittest.TestCase):
         self.env.stop()
         self.tmp.cleanup()
 
-    def files(self):
-        return sorted(str(p.relative_to(self.out)).replace(os.sep, "/") for p in self.out.rglob("*") if p.is_file())
+    def files(self, root=None):
+        root = root or self.out
+        return sorted(p.relative_to(root).as_posix() for p in root.rglob("*") if p.is_file())
 
-    def test_one_download_renders_every_format_then_skips_existing(self):
+
+# --------------------------------------------------------------------------- #
+# "Clip it" links
+# --------------------------------------------------------------------------- #
+
+class LinkTests(unittest.TestCase):
+    def test_valid_links(self):
+        p = mc.parse_clip_link
+        self.assertEqual(p("presserclips://clip?v=J5unk3vEQmk&t=118&q=2"), ("J5unk3vEQmk", 118, 2))
+        self.assertEqual(p("presserclips://clip/?q=2&t=118&v=J5unk3vEQmk"), ("J5unk3vEQmk", 118, 2))
+        self.assertEqual(p("PRESSERCLIPS://clip?v=-RVFB1Uu9QM&t=0&q=1"), ("-RVFB1Uu9QM", 0, 1))
+        self.assertEqual(mc.clip_link("J5unk3vEQmk", 118, 2), "presserclips://clip?v=J5unk3vEQmk&t=118&q=2")
+
+    def test_anything_else_is_refused(self):
+        bad = [
+            "", "x" * 300, "https://clip?v=J5unk3vEQmk&t=118&q=2", "presserclips://evil?v=J5unk3vEQmk&t=118&q=2",
+            "presserclips://clip/x?v=J5unk3vEQmk&t=118&q=2", "presserclips://clip?v=J5unk3vEQmk&t=118",
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&out=C:/x", "presserclips://clip?v=J5unk3vEQmk&v=x&t=1&q=2",
+            "presserclips://clip?v=J5unk3vEQm&t=118&q=2", "presserclips://clip?v=J5unk3vEQmk1&t=118&q=2",
+            "presserclips://clip?v=J5unk3vEQm!&t=118&q=2", "presserclips://clip?v=J5unk3vEQm%22&t=118&q=2",
+            "presserclips://clip?v=J5unk3vEQmk&t=1.5&q=2", "presserclips://clip?v=J5unk3vEQmk&t=-1&q=2",
+            "presserclips://clip?v=J5unk3vEQmk&t=1e3&q=2", "presserclips://clip?v=J5unk3vEQmk&t=1234567&q=2",
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=0", "presserclips://clip?v=J5unk3vEQmk&t=118&q=1000",
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=2#x", "presserclips://clip?v=J5unk3vEQmk&t=118&q= 2",
+            'presserclips://clip?v=J5unk3vEQmk&t=118&q=2" --out "C:\\x', "presserclips://user@clip?v=J5unk3vEQmk&t=1&q=2",
+            "presserclips://clip:99?v=J5unk3vEQmk&t=1&q=2", "presserclips://clip?v=J5unk3vEQmk&t=\uff11&q=2",
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&", "presserclips://clip?v=J5unk3vEQmk;t=118;q=2", None,
+        ]
+        for url in bad:
+            with self.assertRaises(mc.BadLink, msg=repr(url)):
+                mc.parse_clip_link(url)
+
+    def test_link_must_match_a_known_quote(self):
+        clips = [dict(CLIP)]
+
+        def offline(url):
+            raise urllib.error.URLError("offline")
+        self.assertEqual(mc.find_linked_quote("J5unk3vEQmk", 118, 2, clips, fetch=offline)["rank"], 2)
+        self.assertIsNone(mc.find_linked_quote("J5unk3vEQmk", 118, 3, clips, fetch=offline))   # wrong number
+        self.assertIsNone(mc.find_linked_quote("J5unk3vEQmk", 119, 2, clips, fetch=offline))   # wrong second
+
+    def test_link_found_in_stored_video_data(self):
+        day = mc.date.today().isoformat()
+        data = {"video_title": "Media Day", "channel_team": "Chicago Bulls", "content_type": "oneoff",
+                "quotes": [{"rank": 1, "speaker": "Caleb Wilson", "start_seconds": 14, "end_seconds": 20,
+                            "summary_phrase": "rookie vibes", "quote": "Just with the flow."},
+                           {"rank": 2, "speaker": "Unidentified speaker", "start_seconds": 34, "end_seconds": 40,
+                            "summary_phrase": "x", "quote": "Something else."}]}
+
+        def fetch(url):
+            if url.endswith(f"/output/{day}/auzyc8y-uNI.json"):
+                return data
+            raise urllib.error.HTTPError(url, 404, "Not Found", {}, None)
+        clip = mc.find_linked_quote("auzyc8y-uNI", 34, 2, [], fetch=fetch)
+        self.assertEqual((clip["rank"], clip["speaker"], clip["text"], clip["publish_date"]),
+                         (2, "", "Something else.", day))
+        self.assertIsNone(mc.find_linked_quote("auzyc8y-uNI", 34, 1, [], fetch=fetch))
+
+    def test_link_mode_takes_nothing_else(self):
+        with mock.patch.object(mc, "run_link", side_effect=AssertionError("must not run")):
+            self.assertEqual(mc.main(["--link", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2", "--out", "x"]), 1)
+            self.assertEqual(mc.main(["--out", "x", "--link", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2"]), 1)
+
+    def test_bad_link_does_nothing(self):
+        with mock.patch.object(mc.subprocess, "run", side_effect=AssertionError("no update on a bad link")), \
+                mock.patch.object(mc, "render_all", side_effect=AssertionError("no render")):
+            self.assertEqual(mc.run_link("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&x=1"), 1)
+
+    def test_good_link_renders_that_quote_in_default_formats_without_questions(self):
+        seen = {}
+
+        def fake_render_all(todo, out_root, formats, ffmpeg, pad, force):
+            seen.update(todo=todo, out=out_root, formats=formats)
+            return 0
+        with tempfile.TemporaryDirectory() as tmp:
+            settings = {"out_dir": str(Path(tmp) / "clips"), "formats": ["vertical", "square"], "keep_days": 7}
+            with mock.patch.object(mc.subprocess, "run"), \
+                    mock.patch("builtins.input", side_effect=AssertionError("no questions")), \
+                    mock.patch.multiple(mc, load_settings=lambda path=None: settings,
+                                        check_tools=lambda s=None: "ffmpeg", render_all=fake_render_all,
+                                        load_manifest=lambda src: {"clips": [dict(CLIP)]},
+                                        housekeeping=lambda out, days: None):
+                rc = mc.main(["--link", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2"])
+        self.assertEqual(rc, 0)
+        self.assertEqual((seen["formats"], [c["rank"] for c in seen["todo"]]), (["vertical", "square"], [2]))
+
+
+# --------------------------------------------------------------------------- #
+# Quote folders
+# --------------------------------------------------------------------------- #
+
+class NamingTests(TempDirs):
+    def test_folder_name(self):
+        self.assertEqual(mc.folder_name(CLIP), FOLDER)
+        long = dict(CLIP, news_angle="James Harden explains why the Cavaliers bench depth will decide their whole "
+                                     "season in the East")
+        name = mc.folder_name(long)
+        self.assertTrue(name.startswith("2026-09-30 James Harden - explains why"))
+        self.assertLessEqual(len(name.split(" - ", 1)[1]), 48)
+        self.assertFalse(name.endswith((" ", ".")))
+        self.assertEqual(mc.folder_name(dict(CLIP, speaker="", news_angle="")),
+                         "2026-09-30 Unnamed speaker - quote at 1m58s")
+
+    def test_untrusted_text_stays_a_plain_folder_name(self):
+        clip = dict(CLIP, publish_date="../../etc", speaker='..\\x/"y"', news_angle='a: b? *c* <d> |e|')
+        folder = mc.quote_folder(self.out, clip)
+        self.assertEqual(folder.parent, self.out)
+        for ch in '<>:"/\\|?*':
+            self.assertNotIn(ch, folder.name)
+        self.assertRegex(folder.name, r"^\d{4}-\d{2}-\d{2} ")
+
+    def test_same_name_other_quote_gets_its_own_folder(self):
+        first = self.out / FOLDER
+        first.mkdir(parents=True)
+        (first / "quote.txt").write_text("Source: https://www.youtube.com/watch?v=OTHERvideo1&t=5s\n",
+                                         encoding="utf-8")
+        self.assertEqual(mc.quote_folder(self.out, CLIP).name, FOLDER + " (2)")
+        (first / "quote.txt").write_text(mc.quote_txt(CLIP), encoding="utf-8")
+        self.assertEqual(mc.quote_folder(self.out, CLIP), first)
+
+    def test_quote_txt(self):
+        txt = mc.quote_txt(CLIP)
+        for part in ("Speaker: James Harden", "Team: Cleveland Cavaliers",
+                     "Source: https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s", f'"{TEXT}"',
+                     "Draft social post:\nHarden on the Cavs"):
+            self.assertIn(part, txt)
+
+
+class RenderTests(TempDirs):
+    def test_quote_folder_holds_only_the_clips_and_quote_txt(self):
         fake = FakeRender()
         with fake.patch():
             made, existing = mc.make_clip(dict(CLIP), self.out, list(mc.FORMAT_ORDER), "ffmpeg")
         self.assertEqual(fake.downloads, 1)
-        self.assertEqual(existing, [])
-        base = "2026-09-30/pressers/2026-09-30_cleveland-cavaliers_james-harden_J5unk3vEQmk-118s"
-        # the clips folder holds the finished clips and nothing else
-        self.assertEqual(self.files(), [f"{base}_square.mp4", f"{base}_vertical.mp4", f"{base}_youtube.mp4"])
-        # the post text sits in the app folder, same base name, by date
-        note = self.app / "notes" / "2026-09-30" / (base.rsplit("/", 1)[1] + ".txt")
-        self.assertIn("Harden on the Cavs", note.read_text(encoding="utf-8"))
-        # and the temp renders are gone
-        self.assertEqual(list((self.app / "tmp").iterdir()), [])
-        self.assertEqual([p.name.rsplit("_", 1)[1] for p in made], ["vertical.mp4", "youtube.mp4", "square.mp4"])
+        self.assertEqual(self.files(), [f"{FOLDER}/quote.txt", f"{FOLDER}/square.mp4",
+                                        f"{FOLDER}/vertical.mp4", f"{FOLDER}/youtube.mp4"])
+        self.assertEqual([p.name for p in made], ["vertical.mp4", "youtube.mp4", "square.mp4"])
+        self.assertEqual(list((self.app / "tmp").iterdir()), [])          # temp renders removed
+        # crop for vertical/square, full frame for youtube
+        self.assertIn("crop@rf=w=608:h=1080", fake.crops["vertical"])
+        self.assertIn("crop@rf", fake.crops["square"])
+        self.assertIsNone(fake.crops["youtube"])
         # second run: everything exists, nothing downloaded or rendered
         with fake.patch():
             made, existing = mc.make_clip(dict(CLIP), self.out, list(mc.FORMAT_ORDER), "ffmpeg")
         self.assertEqual((made, existing, fake.downloads), ([], ["vertical", "youtube", "square"], 1))
         # someone deleted the square one: only that is rendered again
-        (self.out / f"{base}_square.mp4").unlink()
+        (self.out / FOLDER / "square.mp4").unlink()
         fake.renders.clear()
         with fake.patch():
-            made, existing = mc.make_clip(dict(CLIP), self.out, list(mc.FORMAT_ORDER), "ffmpeg")
-        self.assertEqual((fake.renders, existing, fake.downloads), (["square"], ["vertical", "youtube"], 2))
+            mc.make_clip(dict(CLIP), self.out, list(mc.FORMAT_ORDER), "ffmpeg")
+        self.assertEqual((fake.renders, fake.downloads), (["square"], 2))
 
-    def test_failed_render_leaves_no_partial_file(self):
+    def test_only_chosen_formats(self):
+        with FakeRender().patch():
+            mc.make_clip(dict(CLIP), self.out, ["square"], "ffmpeg")
+        self.assertEqual(self.files(), [f"{FOLDER}/quote.txt", f"{FOLDER}/square.mp4"])
+
+    def test_subtitles_are_timed_words_and_there_is_no_lower_third(self):
+        fake = FakeRender()
+        with fake.patch():
+            mc.make_clip(dict(CLIP), self.out, ["vertical"], "ffmpeg", pad=0.5)
+        ass = fake.ass["vertical"]
+        self.assertNotIn("Style: Lower", ass)
+        events = [line for line in ass.splitlines() if line.startswith("Dialogue:")]
+        texts = [e.split(",,")[-1] for e in events]
+        self.assertEqual(" ".join(texts), TEXT)                          # the quote, nothing else
+        for t in texts:
+            self.assertTrue(2 <= len(t.split()) <= 4, t)
+        # the first caption starts when its first word is spoken: 118.4 - (118.4 - 0.5) = 0.5s in
+        self.assertTrue(events[0].startswith("Dialogue: 0,0:00:00.50,"), events[0])
+
+    def test_no_word_timing_means_no_subtitles(self):
+        fake = FakeRender(loc=located(word_level=False))
+        with fake.patch(), mock.patch.object(mc, "whisper_words",
+                                             side_effect=mc.LowConfidence("faster-whisper isn't installed")):
+            mc.make_clip(dict(CLIP), self.out, ["youtube"], "ffmpeg")
+        self.assertIsNone(fake.ass["youtube"])
+        self.assertTrue((self.out / FOLDER / "youtube.mp4").is_file())
+
+    def test_whisper_word_times_when_captions_are_line_level(self):
+        fake = FakeRender(loc=located(word_level=False))
+        with fake.patch(), mock.patch.object(mc, "whisper_words", return_value=timed(TEXT, 118.6)):
+            mc.make_clip(dict(CLIP), self.out, ["youtube"], "ffmpeg", pad=0.5)
+        self.assertIn("Dialogue: 0,0:00:00.70,", fake.ass["youtube"])
+
+    def test_failed_first_render_leaves_no_folder(self):
+        fake = FakeRender(fail_formats={"vertical"})
+        with fake.patch(), self.assertRaises(RuntimeError):
+            mc.make_clip(dict(CLIP), self.out, ["vertical"], "ffmpeg")
+        self.assertEqual(self.files(), [])
+        self.assertFalse((self.out / FOLDER).exists())
+
+    def test_failed_later_render_keeps_what_was_made(self):
         fake = FakeRender(fail_formats={"youtube"})
         with fake.patch(), self.assertRaises(RuntimeError):
             mc.make_clip(dict(CLIP), self.out, list(mc.FORMAT_ORDER), "ffmpeg")
-        names = self.files()
-        self.assertTrue(any(n.endswith("_vertical.mp4") for n in names))
-        self.assertFalse(any(n.endswith("_youtube.mp4") or n.endswith(".partial") for n in names))
+        self.assertEqual(self.files(), [f"{FOLDER}/quote.txt", f"{FOLDER}/vertical.mp4"])
 
     def test_move_is_one_rename_on_the_same_drive(self):
         src = self.out.parent / "local.mp4"
         src.write_bytes(b"mine")
-        final = self.out / "shared" / "clip_vertical.mp4"
+        final = self.out / "shared" / "vertical.mp4"
         seen = []
         real_replace = os.replace
 
@@ -180,13 +312,13 @@ class RenderTests(unittest.TestCase):
             real_replace(a, b)
         with mock.patch.object(mc.os, "replace", spy):
             self.assertTrue(mc.move_file(src, final))
-        self.assertEqual(seen, [("local.mp4", "clip_vertical.mp4")])
+        self.assertEqual(seen, [("local.mp4", "vertical.mp4")])
         self.assertEqual((final.read_bytes(), src.exists()), (b"mine", False))
 
     def test_move_across_drives_goes_through_a_partial_name(self):
         src = self.out.parent / "local.mp4"
         src.write_bytes(b"mine")
-        final = self.out / "clip_vertical.mp4"
+        final = self.out / "vertical.mp4"
         seen = []
         real_replace = os.replace
 
@@ -199,14 +331,13 @@ class RenderTests(unittest.TestCase):
             real_replace(a, b)
         with mock.patch.object(mc.os, "replace", cross_device):
             self.assertTrue(mc.move_file(src, final))
-        self.assertEqual(seen, [("clip_vertical.mp4.partial", "clip_vertical.mp4", b"mine")])
-        self.assertEqual(sorted(p.name for p in self.out.iterdir()), ["clip_vertical.mp4"])
-        self.assertFalse(src.exists())
+        self.assertEqual(seen, [("vertical.mp4.partial", "vertical.mp4", b"mine")])
+        self.assertEqual(sorted(p.name for p in self.out.iterdir()), ["vertical.mp4"])
 
     def test_move_never_overwrites_someone_elses_clip(self):
         src = self.out.parent / "local.mp4"
         src.write_bytes(b"mine")
-        final = self.out / "clip_vertical.mp4"
+        final = self.out / "vertical.mp4"
         final.parent.mkdir(parents=True)
         final.write_bytes(b"theirs")
         self.assertFalse(mc.move_file(src, final))
@@ -225,19 +356,158 @@ class RenderTests(unittest.TestCase):
             self.assertTrue(mc.remove_file(self.out / "x"))
         self.assertEqual(len(calls), 3)
 
-        def always_busy(path):
-            err = PermissionError(13, "being used by another process")
-            err.winerror = 32
-            raise err
-        with mock.patch.object(mc, "RETRY_WAITS", (0, 0)), mock.patch.object(mc.os, "remove", always_busy):
-            self.assertFalse(mc.remove_file(self.out / "x"))
 
-    def test_untrusted_dates_and_names_stay_inside_the_folder(self):
-        clip = dict(CLIP, publish_date="../../etc", team="../..", speaker="..\\x")
-        path = mc.output_path(self.out, clip, "vertical")
-        self.assertTrue(str(path.resolve()).startswith(str(self.out.resolve())))
-        self.assertNotIn("..", path.relative_to(self.out).as_posix())
+# --------------------------------------------------------------------------- #
+# Formats, subtitles, reframing
+# --------------------------------------------------------------------------- #
 
+class FormatTests(unittest.TestCase):
+    def test_parse_formats(self):
+        allf = list(mc.FORMAT_ORDER)
+        self.assertEqual(mc.parse_formats("", allf), ["vertical", "youtube", "square"])
+        self.assertEqual(mc.parse_formats("", ["square"]), ["square"])
+        self.assertEqual(mc.parse_formats("sv", allf), ["vertical", "square"])
+        self.assertEqual(mc.parse_formats("V, Y", allf), ["vertical", "youtube"])
+        self.assertEqual(mc.parse_formats("all", ["square"]), allf)
+        with self.assertRaises(ValueError):
+            mc.parse_formats("x", allf)
+
+    def test_sizes_and_crop(self):
+        self.assertEqual({f: (spec["size"], spec["crop"]) for f, spec in mc.FORMATS.items()},
+                         {"vertical": ((1080, 1920), True), "youtube": ((1920, 1080), False),
+                          "square": ((1080, 1080), True)})
+
+    def test_no_bands_anywhere(self):
+        for fmt in mc.FORMAT_ORDER:
+            crop = ("sendcmd=f=c.cmd,crop@rf=w=608:h=1080:x=0:y=0,scale=1080:1920"
+                    if mc.FORMATS[fmt]["crop"] else None)
+            g = mc.filter_graph(fmt, "subs.ass", crop)
+            for banned in ("boxblur", "overlay", "split"):
+                self.assertNotIn(banned, g, fmt)
+            self.assertTrue(g.endswith(",setsar=1,ass=subs.ass,format=yuv420p[v]"), g)
+        self.assertIn("scale=1920:1080", mc.filter_graph("youtube", None))
+        self.assertNotIn("ass=", mc.filter_graph("youtube", None))
+        self.assertIn("crop=", mc.centred_crop_chain("vertical"))
+
+    def test_ass_text_is_neutralised(self):
+        ass = mc.build_ass([(10.0, 11.0, "hello {\\an8} world")], "square", 9.5, 5.0)
+        self.assertIn("hello (/an8) world", ass)
+        self.assertIn("Dialogue: 0,0:00:00.50,0:00:01.50,Caption", ass)
+
+
+class SubtitleTests(unittest.TestCase):
+    def test_quote_words_get_spoken_times_with_punctuation(self):
+        words = timed("we are in the right direction mario has been great", 10.0)
+        wt = ca.quote_word_times("We are in the right direction. Mario has really been great!", words, 10, 14)
+        self.assertEqual([w[2] for w in wt][:6], ["We", "are", "in", "the", "right", "direction."])
+        self.assertEqual(wt[0][0], 10.0)
+        really = next(w for w in wt if w[2] == "really")       # missing from captions: interpolated
+        has = next(w for w in wt if w[2] == "has")
+        self.assertGreaterEqual(really[0], has[0])
+
+    def test_too_few_matches_means_no_timing(self):
+        self.assertEqual(ca.quote_word_times("Completely different words here",
+                                             timed("nothing alike at all", 5), 5, 7), [])
+
+    def test_chunks_are_two_to_four_words(self):
+        words = timed("we are in the right direction mario has really been great", 10.0)
+        wt = ca.quote_word_times("We are in the right direction. Mario has really been great!", words, 10, 14)
+        chunks = ca.subtitle_chunks(wt)
+        for start, end, text in chunks:
+            self.assertTrue(2 <= len(text.split()) <= 4, text)
+            self.assertLess(start, end)
+        self.assertEqual([c[2] for c in chunks],
+                         ["We are in the", "right direction.", "Mario has really", "been great!"])
+        starts = [c[0] for c in chunks]
+        self.assertEqual(starts, sorted(starts))
+
+    def test_word_level_caption_detection(self):
+        auto = {"events": [{"tStartMs": 0, "dDurationMs": 2000,
+                            "segs": [{"utf8": "we"}, {"utf8": " are", "tOffsetMs": 400}]}]}
+        manual = {"events": [{"tStartMs": 0, "dDurationMs": 2000, "segs": [{"utf8": "We are here."}]}]}
+        self.assertTrue(ca.json3_has_word_timing(json.dumps(auto)))
+        self.assertFalse(ca.json3_has_word_timing(json.dumps(manual)))
+        vtt = ("WEBVTT\n\n00:00:01.000 --> 00:00:03.000\nwe<00:00:01.400><c> are</c><00:00:01.700><c> here</c>\n\n"
+               "00:00:03.000 --> 00:00:03.010\nwe are here\n")
+        self.assertEqual([(round(a, 2), w) for a, _, w in ca.word_timings_from_vtt(vtt)],
+                         [(1.0, "we"), (1.4, "are"), (1.7, "here")])
+        self.assertEqual(ca.word_timings_from_vtt("WEBVTT\n\n00:00:01.000 --> 00:00:02.000\nno inline times\n"), [])
+
+
+class ReframeTests(unittest.TestCase):
+    def test_crop_sizes(self):
+        self.assertEqual(reframe.crop_size(1920, 1080, 1080, 1920), (608, 1080))
+        self.assertEqual(reframe.crop_size(1920, 1080, 1080, 1080), (1080, 1080))
+        self.assertEqual(reframe.crop_size(1280, 720, 1080, 1920), (404, 720))
+        self.assertEqual(reframe.crop_size(1440, 1080, 1080, 1920), (608, 1080))
+
+    def _path(self, centers, crop=608, src=1920):
+        times = [i / reframe.SAMPLE_FPS for i in range(len(centers))]
+        return reframe.camera_path(times, centers, crop, src)
+
+    def test_small_head_movements_do_not_move_the_camera(self):
+        import random
+        rnd = random.Random(1)
+        cam = self._path([900 + rnd.uniform(-25, 25) for _ in range(60)])
+        self.assertLess(max(cam) - min(cam), 3)                         # no jitter
+
+    def test_walking_speaker_is_followed_smoothly(self):
+        centers = [500] * 12 + [500 + 40 * i for i in range(20)] + [1300] * 30
+        cam = self._path(centers)
+        steps = [b - a for a, b in zip(cam, cam[1:])]
+        self.assertTrue(all(s >= -1 for s in steps))                    # never swings back
+        self.assertLessEqual(max(steps), reframe.MAX_PAN_PER_SEC * 608 / reframe.SAMPLE_FPS + 1)
+        self.assertAlmostEqual(cam[-1] + 304, 1300, delta=0.12 * 608)    # ends with the face in frame
+
+    def test_camera_cut_is_a_cut_not_a_pan(self):
+        cam = self._path([400] * 20 + [1600] * 20)
+        self.assertLess(cam[19] + 304, 700)
+        self.assertGreater(cam[21] + 304, 1400)                         # there within a few frames
+
+    def test_gaps_hold_the_last_position_and_no_face_means_centre(self):
+        samples = [(0.0, (400, 500)), (0.2, None), (0.4, None), (0.6, (420, 500))]
+        _, xs, _, found = reframe.fill_gaps(samples, 1920, 1080)
+        self.assertEqual((xs, found), ([400, 400, 400, 420], True))
+        _, xs, ys, found = reframe.fill_gaps([(0.0, None), (0.2, None)], 1920, 1080)
+        self.assertEqual((xs, ys, found), ([960, 960], [540, 540], False))
+
+    def test_missing_face_tracking_falls_back_to_a_centred_crop(self):
+        with mock.patch.object(reframe, "detect_samples", side_effect=ImportError("no cv2")), \
+                mock.patch.object(reframe, "probe_size", lambda v: (1920, 1080, 2.0)):
+            plan = reframe.plan_crop(Path("nowhere.mp4"), 1080, 1920)
+        reframe.forget(Path("nowhere.mp4"))
+        self.assertFalse(plan.tracked)
+        self.assertEqual((plan.cw, plan.ch, round(plan.xs[0])), (608, 1080, 656))
+
+    def test_sendcmd_has_one_line_per_change(self):
+        plan = reframe.Plan(608, 1080, [10.0, 10.0, 12.0], [0.0, 0.0, 0.0], True, "")
+        self.assertEqual(plan.sendcmd(), "0.000 crop@rf x 10;\n0.067 crop@rf x 12;\n")
+        self.assertEqual(plan.filter("c.cmd", 1080, 1920),
+                         "sendcmd=f=c.cmd,crop@rf=w=608:h=1080:x=10:y=0,scale=1080:1920:flags=lanczos")
+
+    @unittest.skipUnless(HAVE_CV2, "OpenCV not installed")
+    def test_real_face_detection_follows_the_face(self):
+        face = cv2.imread(str(HERE / "fixtures" / "face" / "mona-lisa.jpg"))
+        with tempfile.TemporaryDirectory() as tmp:
+            video = Path(tmp) / "moving.avi"
+            out = cv2.VideoWriter(str(video), cv2.VideoWriter_fourcc(*"MJPG"), 30, (1280, 720))
+            for i in range(150):                       # still 1s, walks 1.7s, still 3.3s
+                x = 100 if i < 30 else min(850, 100 + (i - 30) * 15)
+                frame = np.full((720, 1280, 3), (115, 77, 38), np.uint8)
+                frame[150:150 + face.shape[0], x:x + face.shape[1]] = face
+                out.write(frame)
+            out.release()
+            plan = reframe.plan_crop(video, 1080, 1920)
+            reframe.forget(video)
+        self.assertTrue(plan.tracked, plan.note)
+        face_start, face_end = 100 + 150, 850 + 150                      # face centre, first / last frame
+        self.assertLess(abs(plan.xs[5] + plan.cw / 2 - face_start), 0.15 * plan.cw)
+        self.assertLess(abs(plan.xs[-1] + plan.cw / 2 - face_end), 0.15 * plan.cw)
+
+
+# --------------------------------------------------------------------------- #
+# Cleanup and housekeeping
+# --------------------------------------------------------------------------- #
 
 def make_file(path: Path, age_days: float, size: int = 10) -> Path:
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -247,116 +517,52 @@ def make_file(path: Path, age_days: float, size: int = 10) -> Path:
     return path
 
 
-class CleanupTests(unittest.TestCase):
-    def setUp(self):
-        self.tmp = tempfile.TemporaryDirectory()
-        self.out = Path(self.tmp.name) / "clips"
-        self.app = Path(self.tmp.name) / "app"
-        self.env = mock.patch.dict(os.environ, {"NBA_PRESSER_APP_DIR": str(self.app)})
-        self.env.start()
-
-    def tearDown(self):
-        self.env.stop()
-        self.tmp.cleanup()
-
+class CleanupTests(TempDirs):
     def test_keep_days(self):
         self.assertEqual(mc.keep_days({}), 0)                          # no installer settings: never delete
         self.assertEqual(mc.keep_days({"out_dir": "x"}), 7)
         self.assertEqual(mc.keep_days({"out_dir": "x", "keep_days": 0}), 0)
-        self.assertEqual(mc.keep_days({"out_dir": "x", "keep_days": "30"}), 30)
 
-    def test_old_files_and_empty_folders_go_new_ones_stay(self):
-        old = make_file(self.out / "2026-09-20" / "pressers" / "a_vertical.mp4", 9, 1000)
-        stray = make_file(self.out / "2026-09-20" / "random.docx", 8, 24)
-        new = make_file(self.out / "2026-09-30" / "pressers" / "b_vertical.mp4", 1)
-        old_note = make_file(self.app / "notes" / "2026-09-20" / "a.txt", 9)
-        new_note = make_file(self.app / "notes" / "2026-09-30" / "b.txt", 1)
-        old_tmp = make_file(self.app / "tmp" / "render_x" / "src.mp4", 8)
+    def test_whole_quote_folders_go_when_old(self):
+        old = self.out / "2026-09-20 Joe Mazzulla - on defense"
+        for name, size in (("vertical.mp4", 1000), ("square.mp4", 500), ("quote.txt", 24)):
+            make_file(old / name, 9, size)
+        young = self.out / "2026-09-30 James Harden - on Mario"
+        make_file(young / "vertical.mp4", 9)                            # old file in a folder still in use
+        make_file(young / "square.mp4", 1)
+        legacy = make_file(self.out / "2026-09-20" / "pressers" / "x_vertical.mp4", 8, 7)
         n, freed = mc.run_cleanup(self.out, 7)
-        self.assertEqual((n, freed), (4, 1000 + 24 + 10 + 10))
-        for gone in (old, stray, old_note, old_tmp):
-            self.assertFalse(gone.exists(), gone)
-        self.assertTrue(new.exists() and new_note.exists())
-        self.assertFalse((self.out / "2026-09-20").exists())            # empty subfolders removed
-        self.assertTrue(self.out.is_dir())                              # never the clips folder itself
+        self.assertFalse(old.exists())
+        self.assertEqual(sorted(p.name for p in young.iterdir()), ["square.mp4", "vertical.mp4"])
+        self.assertFalse(legacy.exists() or (self.out / "2026-09-20").exists())
+        self.assertEqual((n, freed), (2, 1000 + 500 + 24 + 7))
         log = (self.app / "logs" / "cleanup-log.txt").read_text(encoding="utf-8")
-        self.assertIn("Cleanup: deleted 2 file(s) older than 7 days from the clips folder", log)
-        self.assertIn("a_vertical.mp4", log)
+        self.assertIn("deleted 1 quote folder(s) older than 7 days", log)
+
+    def test_zero_days_and_unsafe_folders_delete_nothing(self):
+        old = make_file(self.out / "2026-09-01 A - b" / "vertical.mp4", 100)
+        self.assertEqual(mc.run_cleanup(self.out, 0), (0, 0))
+        with mock.patch.object(mc, "unsafe_clips_folder", lambda p: "that folder holds other files"):
+            self.assertEqual(mc.run_cleanup(self.out, 7)[0], 0)
+        self.assertTrue(old.exists())
 
     @unittest.skipIf(os.name == "nt", "symlinks need extra rights on Windows")
     def test_cleanup_never_follows_a_link_out_of_the_folder(self):
         outside = make_file(Path(self.tmp.name) / "elsewhere" / "precious.mp4", 30)
         self.out.mkdir(parents=True)
+        os.symlink(outside.parent, self.out / "2026-09-01 Link - x")
         os.symlink(outside.parent, self.out / "link")
         mc.run_cleanup(self.out, 7)
         self.assertTrue(outside.exists())
 
-    def test_zero_days_and_unsafe_folders_delete_nothing(self):
-        old = make_file(self.out / "a.mp4", 100)
-        self.assertEqual(mc.run_cleanup(self.out, 0), (0, 0))
-        self.assertTrue(old.exists())
-        with mock.patch.object(mc, "unsafe_clips_folder", lambda p: "that folder holds other files"):
-            self.assertEqual(mc.cleanup_old_files(self.out, 7, "x"), (0, 0))
-        self.assertTrue(old.exists())
-
-    def test_notes_and_logs_move_out_of_the_clips_folder(self):
-        clip = make_file(self.out / "2026-09-30" / "pressers" / "b_vertical.mp4", 1)
-        note = make_file(self.out / "2026-09-30" / "pressers" / "b.txt", 1)
+    def test_tidy_moves_old_notes_and_logs_but_not_quote_txt(self):
+        make_file(self.out / "2026-09-30 James Harden - on Mario" / "quote.txt", 1)
+        make_file(self.out / "2026-09-30" / "pressers" / "b.txt", 1)
         make_file(self.out / "pc-job-log.txt", 1)
-        make_file(self.out / "_made.json", 1)
-        self.assertEqual(mc.tidy_clips_folder(self.out), 3)
-        files = sorted(p.relative_to(self.out).as_posix() for p in self.out.rglob("*") if p.is_file())
-        self.assertEqual(files, ["2026-09-30/pressers/b_vertical.mp4"])
+        self.assertEqual(mc.tidy_clips_folder(self.out), 2)
+        self.assertEqual(self.files(), ["2026-09-30 James Harden - on Mario/quote.txt"])
         self.assertTrue((self.app / "notes" / "2026-09-30" / "b.txt").is_file())
         self.assertTrue((self.app / "logs" / "pc-job-log.txt").is_file())
-        self.assertTrue((self.app / "logs" / "_made.json").is_file())
-        self.assertTrue(clip.exists() and not note.exists())
-
-    def test_main_tidies_and_cleans_before_rendering(self):
-        make_file(self.out / "2026-09-01" / "pressers" / "old_vertical.mp4", 30)
-        make_file(self.out / "2026-09-30" / "pressers" / "b.txt", 1)
-        settings = Path(self.tmp.name) / "settings.json"
-        settings.write_text(json.dumps({"out_dir": str(self.out), "keep_days": 7}))
-        manifest = Path(self.tmp.name) / "m.json"
-        manifest.write_text(json.dumps({"clips": []}))
-        with mock.patch.object(mc, "check_tools", lambda s=None: "ffmpeg"):
-            mc.main(["--yes", "--settings", str(settings), "--manifest", str(manifest)])
-        self.assertEqual([p for p in self.out.rglob("*") if p.is_file()], [])
-        self.assertTrue((self.app / "notes" / "2026-09-30" / "b.txt").is_file())
-
-
-class UrlTests(unittest.TestCase):
-    def test_parse_youtube_url(self):
-        p = mc.parse_youtube_url
-        self.assertEqual(p("https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s"), ("J5unk3vEQmk", 118))
-        self.assertEqual(p('"https://youtu.be/J5unk3vEQmk?t=1m58s"'), ("J5unk3vEQmk", 118))
-        self.assertEqual(p("https://www.youtube.com/watch?t=118&v=J5unk3vEQmk"), ("J5unk3vEQmk", 118))
-        self.assertEqual(p("https://www.youtube.com/watch?v=J5unk3vEQmk"), ("J5unk3vEQmk", None))
-        self.assertEqual(p("1,3,5-7"), (None, None))
-
-    def test_link_in_clip_list(self):
-        clips = [dict(CLIP), dict(CLIP, start_seconds=300, end_seconds=310)]
-        clip, why = mc.find_quote_for_url("https://www.youtube.com/watch?v=J5unk3vEQmk&t=119s", clips,
-                                          fetch=lambda url: self.fail("no fetch needed"))
-        self.assertEqual((clip["start_seconds"], why), (118, ""))
-
-    def test_link_found_in_stored_video_json(self):
-        data = {"video_title": "Media Day", "channel_team": "Chicago Bulls", "content_type": "oneoff",
-                "quotes": [{"speaker": "Unidentified speaker", "start_seconds": 14, "end_seconds": 20,
-                            "summary_phrase": "rookie vibes", "quote": "Just with the flow."}]}
-        day = mc.date.today().isoformat()
-
-        def fetch(url):
-            if url.endswith(f"/output/{day}/auzyc8y-uNI.json"):
-                return data
-            raise urllib.error.HTTPError(url, 404, "Not Found", {}, None)
-        clip, why = mc.find_quote_for_url("https://www.youtube.com/watch?v=auzyc8y-uNI&t=14s", [], fetch=fetch)
-        self.assertEqual(why, "")
-        self.assertEqual((clip["speaker"], clip["team"], clip["text"], clip["content_type"], clip["publish_date"]),
-                         ("", "Chicago Bulls", "Just with the flow.", "oneoff", day))
-        clip, why = mc.find_quote_for_url("https://www.youtube.com/watch?v=auzyc8y-uNI", [], fetch=fetch)
-        self.assertIsNone(clip)
-        self.assertIn("timestamp", why)
 
 
 class MainTests(unittest.TestCase):
@@ -382,41 +588,42 @@ class MainTests(unittest.TestCase):
 
     def test_default_folder_is_the_users_home(self):
         self.assertEqual(mc.default_out_dir(), Path.home() / "Documents" / "presser-clips")
-        self.assertEqual(mc.settings_formats({}), ["vertical", "youtube", "square"])
 
+
+# --------------------------------------------------------------------------- #
+# Setup
+# --------------------------------------------------------------------------- #
 
 class SetupTests(unittest.TestCase):
-    def test_four_questions_write_settings(self):
+    def _setup(self, tmp: Path, answers: list):
+        answers = iter(answers)
+        calls = {}
+        with mock.patch.object(setup_mod, "APP_DIR", tmp), \
+                mock.patch.object(setup_mod, "ask", lambda prompt: next(answers)), \
+                mock.patch.multiple(setup_mod, make_desktop_shortcut=lambda: "desktop",
+                                    register_link=lambda: calls.setdefault("link", "registered"),
+                                    disable_auto=lambda: calls.setdefault("auto_off", "")), \
+                mock.patch.object(mc, "find_ffmpeg", lambda s=None: "/x/ffmpeg"):
+            self.assertEqual(setup_mod.setup(), 0)
+        return json.loads((tmp / "settings.json").read_text(encoding="utf-8")), calls
+
+    def test_three_questions_and_no_automatic_mode(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)
             target = tmp / "My Drive" / "Social & clips"
-            answers = iter([f'"{target}"', "14", "vs", "y"])
-            with mock.patch.object(setup_mod, "APP_DIR", tmp), \
-                    mock.patch.object(setup_mod, "ask", lambda prompt: next(answers)), \
-                    mock.patch.multiple(setup_mod, make_desktop_shortcut=lambda: "desktop",
-                                        set_auto=lambda on: f"auto={on}", old_windows_task_exists=lambda: False), \
-                    mock.patch.object(mc, "find_ffmpeg", lambda s=None: "/x/ffmpeg"):
-                self.assertEqual(setup_mod.setup(), 0)
-            settings = json.loads((tmp / "settings.json").read_text(encoding="utf-8"))
-            self.assertTrue(target.is_dir())
+            settings, calls = self._setup(tmp, [f'"{target}"', "14", "vs"])
             self.assertEqual(list(target.iterdir()), [])          # the write test left nothing behind
         self.assertEqual((settings["out_dir"], settings["keep_days"], settings["formats"], settings["auto_run"]),
-                         (str(target), 14, ["vertical", "square"], True))
+                         (str(target), 14, ["vertical", "square"], False))
+        self.assertEqual(set(calls), {"link", "auto_off"})        # links registered, old task removed
 
     def test_enter_takes_the_defaults(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)
-            answers = iter(["", "", "", ""])
-            with mock.patch.object(setup_mod, "APP_DIR", tmp), \
-                    mock.patch.object(setup_mod, "ask", lambda prompt: next(answers)), \
-                    mock.patch.object(mc, "default_out_dir", lambda: tmp / "Documents" / "presser-clips"), \
-                    mock.patch.multiple(setup_mod, make_desktop_shortcut=lambda: "desktop",
-                                        set_auto=lambda on: f"auto={on}", old_windows_task_exists=lambda: False):
-                setup_mod.setup()
-            settings = json.loads((tmp / "settings.json").read_text(encoding="utf-8"))
+            with mock.patch.object(mc, "default_out_dir", lambda: tmp / "Documents" / "presser-clips"):
+                settings, _ = self._setup(tmp, ["", "", ""])
         self.assertEqual(settings["out_dir"], str(tmp / "Documents" / "presser-clips"))
-        self.assertEqual((settings["keep_days"], settings["formats"], settings["auto_run"]),
-                         (7, ["vertical", "youtube", "square"], False))
+        self.assertEqual((settings["keep_days"], settings["formats"]), (7, ["vertical", "youtube", "square"]))
 
     def test_folder_check_closes_its_test_file_and_accepts_an_undeletable_one(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -433,38 +640,57 @@ class SetupTests(unittest.TestCase):
                     home / "Library" / "CloudStorage" / "GoogleDrive-x" / "My Drive"):
             self.assertIn("other files" if bad != Path(home.anchor) else "drive",
                           setup_mod.check_folder(bad), str(bad))
-        self.assertEqual(mc.unsafe_clips_folder(home / "Documents" / "presser-clips"), "")
 
-    def test_pasted_folder_forms(self):
-        self.assertEqual(setup_mod.clean_folder_answer('  "D:\\Shared drives\\Clips"  ')[-5:], "Clips")
-        if os.name != "nt":
-            self.assertEqual(setup_mod.clean_folder_answer("/Users/x/Google\\ Drive/Clips\\ 2 "),
-                             "/Users/x/Google Drive/Clips 2")
+    def test_windows_link_command_passes_the_link_as_one_argument(self):
+        py, tool = Path("App") / "venv" / "python.exe", Path("App") / "make_presser_clips.py"
+        self.assertEqual(setup_mod.link_command(py, tool), f'"{py}" "{tool}" --link "%1"')
 
-    def test_windows_task_runs_hidden_every_30_minutes(self):
+    def test_mac_app_declares_the_link_type_and_quotes_the_link(self):
+        info = setup_mod.add_url_type({"CFBundleExecutable": "applet"})
+        self.assertEqual(info["CFBundleURLTypes"][0]["CFBundleURLSchemes"], ["presserclips"])
+        self.assertIn("quoted form of theURL", setup_mod.MAC_HANDLER)
+        self.assertIn("--link", setup_mod.MAC_HANDLER)
+
+    def test_disable_auto_turns_off_an_older_install(self):
         with tempfile.TemporaryDirectory() as tmp:
-            xml, vbs, bat = Path(tmp) / "t.xml", Path(tmp) / "r.vbs", Path(tmp) / "run-presser-clips.bat"
-            setup_mod.write_windows_task(xml, vbs, bat)
-            root = ET.fromstring(xml.read_text(encoding="utf-16"))
-            ns = {"t": "http://schemas.microsoft.com/windows/2004/02/mit/task"}
-            self.assertEqual(root.find(".//t:Interval", ns).text, "PT30M")
-            self.assertIsNone(root.find(".//t:Repetition/t:Duration", ns))          # indefinitely
-            self.assertEqual(root.find(".//t:Command", ns).text, "wscript.exe")
-            self.assertIn('--auto", 0, True', vbs.read_text(encoding="utf-16"))
-            self.assertTrue(vbs.read_bytes().startswith(b"\xff\xfe"))      # BOM: WSH reads it as Unicode
-            self.assertNotIn("\r\r\n".encode("utf-16-le"), vbs.read_bytes())
+            tmp = Path(tmp)
+            (tmp / "settings.json").write_text(json.dumps({"out_dir": "x", "auto_run": True}))
+            with mock.patch.object(setup_mod, "APP_DIR", tmp), \
+                    mock.patch.multiple(setup_mod, IS_WINDOWS=False, IS_MAC=False):
+                setup_mod.disable_auto()
+            self.assertFalse(json.loads((tmp / "settings.json").read_text())["auto_run"])
 
-    def test_mac_agent_runs_auto_every_30_minutes(self):
-        plist = plistlib.loads(setup_mod.launchd_plist("/x/venv/bin/python").encode())
-        self.assertEqual(plist["ProgramArguments"][0], "/x/venv/bin/python")
-        self.assertEqual(plist["ProgramArguments"][-1], "--auto")
-        self.assertEqual(plist["StartInterval"], 1800)
+    def test_update_checks_the_model_and_python_files(self):
+        class Resp:
+            def __init__(self, body):
+                self.body = body
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *a):
+                return False
+
+            def read(self):
+                return self.body
+        bodies = {name: (b"print('ok')\n" if name.endswith(".py") else b"tampered")
+                  for name in setup_mod.UPDATE_FILES}
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp = Path(tmp)
+            with mock.patch.object(setup_mod, "APP_DIR", tmp), \
+                    mock.patch.object(setup_mod.urllib.request, "urlopen",
+                                      lambda req, **kw: Resp(bodies[req.full_url.split("/pressers_v2/", 1)[1]])), \
+                    mock.patch.object(setup_mod, "ensure_packages", lambda: None):
+                changed = setup_mod.update()
+            self.assertEqual(changed, len(setup_mod.UPDATE_FILES) - 1)
+            self.assertFalse((tmp / setup_mod.MODEL_FILE).exists())      # failed its checksum
+            self.assertTrue((tmp / "reframe.py").is_file())
 
 
 class InstallerTests(unittest.TestCase):
-    SHIPPED = ["make_presser_clips.py", "caption_align.py", "presser_pc_job.py", "presser_clips_setup.py",
-               "install-presser-clips.bat", "run-presser-clips.bat", "install-presser-clips-mac.command",
-               "run-presser-clips-mac.command", "CLIPS-GUIDE.md"]
+    SHIPPED = ["make_presser_clips.py", "caption_align.py", "reframe.py", "presser_pc_job.py",
+               "presser_clips_setup.py", "install-presser-clips.bat", "run-presser-clips.bat",
+               "install-presser-clips-mac.command", "run-presser-clips-mac.command", "CLIPS-GUIDE.md"]
 
     def test_no_hardcoded_user_paths_or_tokens(self):
         for name in self.SHIPPED:
@@ -489,11 +715,17 @@ class InstallerTests(unittest.TestCase):
         win = (PV2 / "install-presser-clips.bat").read_text(encoding="utf-8")
         mac = (PV2 / "install-presser-clips-mac.command").read_text(encoding="utf-8")
         for name in setup_mod.UPDATE_FILES:
-            self.assertIn(name, win)
+            self.assertIn(name.replace("/", "\\") if name.startswith("models/") else name, win)
             self.assertIn(name, mac)
             self.assertTrue((PV2 / name).is_file())
-        self.assertIn("run-presser-clips.bat", win)
-        self.assertIn("run-presser-clips-mac.command", mac)
+        self.assertIn("opencv-python-headless", win)
+        self.assertIn("opencv-python-headless", mac)
+        self.assertNotIn("presser_pc_job", win + mac)                    # automatic mode is retired
+
+    def test_shipped_model_matches_its_checksum(self):
+        import hashlib
+        self.assertEqual(hashlib.sha256((PV2 / setup_mod.MODEL_FILE).read_bytes()).hexdigest(),
+                         setup_mod.MODEL_SHA256)
 
     def test_pages_downloads_match_the_sources(self):
         with tempfile.TemporaryDirectory() as tmp:

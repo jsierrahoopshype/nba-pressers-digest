@@ -10,11 +10,15 @@ VJ Edgecombe: "I have been countless reps shooting the ball. I say that is impor
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=122s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=122s)
 
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=122&q=1)</small>
+
 **2. VJ Edgecombe — "I take pride in playing defense. I just find it fun" — VJ Edgecombe says he takes pride in playing defense and finds it fun.** [07:16](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=436s)
 
 VJ Edgecombe: "I take pride in playing defense. I just find it fun when it is kind of hard for the opposing team to score. I find that I find that kind of fun. I enjoy I enjoy playing defense and I feel like it gets me going, it gets me hype, and also just gets the team going also."
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=436s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=436s)
+
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=436&q=2)</small>
 
 **3. VJ Edgecombe — "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat" — VJ Edgecombe initiated a group chat with his new teammates but did not have LeBron James' number.** [09:44](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=584s)
 
@@ -22,8 +26,12 @@ VJ Edgecombe: "I told Tyrese first, initially, before LeBron got there. I was li
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=584s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=584s)
 
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=584&q=3)</small>
+
 **4. VJ Edgecombe — "First of all, the NBA you get really tired." — VJ Edgecombe admits he was surprised by how tired he was after his rookie season.** [09:59](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=599s)
 
 VJ Edgecombe: "First of all, the NBA you get really tired. So when I was able to take some weeks off and like you say reflect on on the season, I was first of all I was really tired. I do not know if that is normal, but yeah."
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=599s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=599s)
+
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=599&q=4)</small>

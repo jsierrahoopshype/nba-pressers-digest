@@ -10,11 +10,15 @@ Unidentified speaker: "I've always just whether I know what I'm doing or not, I'
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=53s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=53s)
 
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=53&q=1)</small>
+
 **2. Unidentified speaker — Unidentified speaker praises Jalen Williams for his work ethic during the offseason.** [05:04](https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s)
 
 Unidentified speaker: "He's driving across LA to come play with us up at the new PA gym, driving across LA to use the track at UCLA. He's a grinder. I mean, we saw it last year, but where you really get to see it and notice it from guys is when you get into the off-season and he's very intentional about his work and it was great to be in the gym with him and get that work in."
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s)
+
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=304&q=2)</small>
 
 **3. Unidentified speaker — Unidentified speaker says the Thunder players arrived at training camp in great shape.** [10:14](https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s)
 
@@ -22,11 +26,15 @@ Unidentified speaker: "The fall was good. The guys did a really good job in the 
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s)
 
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=614&q=3)</small>
+
 **4. Unidentified speaker — Unidentified speaker emphasizes the importance of processing speed in the modern NBA.** [10:53](https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s)
 
 Unidentified speaker: "It's a dynamic game and the game's only getting faster with the pace of play, not only up and down the floor but in the half court. And so your ability to pace with that on offense and pace with it on defense is critical and the faster you're moving, the faster you have to think. And so it's absolutely a huge part of the game at this point, always has been, but certainly more so because the pace is increased."
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s)
+
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=653&q=4)</small>
 
 **5. Unidentified speaker — Unidentified speaker credits Shai Gilgeous-Alexander for his growth as a leader.** [18:10](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s)
 
@@ -34,8 +42,12 @@ Unidentified speaker: "He's one of those guys, I give him a lot of credit becaus
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s)
 
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1090&q=5)</small>
+
 **6. Unidentified speaker — Unidentified speaker confirms several players are limited at the start of training camp.** [18:27](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s)
 
 Unidentified speaker: "Sam mentioned in his media that those guys are limited in camp. That's true. It is good to have them out here participating in what they're participating in, but they are limited."
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s)
+
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1107&q=6)</small>

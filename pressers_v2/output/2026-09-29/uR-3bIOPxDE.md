@@ -10,14 +10,20 @@ Rui Hachimura: "Since I got in the league, people talk about this organization a
 
 [https://www.youtube.com/watch?v=uR-3bIOPxDE&t=15s](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=15s)
 
+<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=15&q=1)</small>
+
 **2. Rui Hachimura — Rui Hachimura plans to bring more physicality and improved shooting to the LA Clippers.** [05:06](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=306s)
 
 Rui Hachimura: "With this team for me, I can be more physical. I can really bring that to the team on the offense, both ends, defensively, offensively and of course my shooting, that is going to help the team too."
 
 [https://www.youtube.com/watch?v=uR-3bIOPxDE&t=306s](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=306s)
 
+<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=306&q=2)</small>
+
 **3. Rui Hachimura — Rui Hachimura emphasizes his physical play and improved shooting as keys for the team.** [07:12](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=432s)
 
 Rui Hachimura: "I keep saying that my physical, that is going to be a very key, offensively, defensively, rebound, everything that I can. The things since I got in the league, I improved a lot so I want to show that this year and of course the shooting."
 
 [https://www.youtube.com/watch?v=uR-3bIOPxDE&t=432s](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=432s)
+
+<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=432&q=3)</small>

@@ -4,3 +4,4 @@
 install-presser-clips.bat -text
 run-presser-clips.bat -text
 *.command text eol=lf
+*.onnx binary

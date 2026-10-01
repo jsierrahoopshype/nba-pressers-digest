@@ -10,8 +10,12 @@ Nick Nurse: "Well, what I would like to do first, like you said, first of all, h
 
 [https://www.youtube.com/watch?v=7y4NqLYvDog&t=48s](https://www.youtube.com/watch?v=7y4NqLYvDog&t=48s)
 
+<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=48&q=1)</small>
+
 **2. Nick Nurse — Nick Nurse emphasizes winning the possession battle over high-paced play.** [12:57](https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s)
 
 Nick Nurse: "We offensive rebound more than they do. We turn them over more than we turn it over. Those kind of things rather than let's play, let's shoot for 135 possessions. And as long as we can get 135 possessions and they have, we don't want them having 138. We're not trying to get more just for the sake of more. I think we want to play good basketball and more is definitely important. One of the things I talked about today, winning the possession battle, how are we going to do it? But it's not, it's not, it's not as long as you do it, and the more you do it in each particular game, as you know, we talk about it a lot, you look down and say, you know, we turned them over 18 times, we crashed the glass 13 times, we end up with 103 shots and they had 81. You're going to win those games, most of the time."
 
 [https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s](https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s)
+
+<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=777&q=2)</small>
