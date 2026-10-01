@@ -16,38 +16,32 @@ availability videos published in the last 48h, sends each one to Gemini
 | GitHub Pages mirror | `docs/pressers_v2/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/ |
 | Slack post | after each run, via `SLACK_WEBHOOK_URL` |
 
-**Content types.** Every video and clip has a `content_type`: `presser`
-(press conferences, availabilities, media day, pre/postgame, shootaround),
-`podcast` (podcasts, shows, livestreams, reaction shows) or `oneoff` (anything
-passed in `extra_videos`). Title keywords in `config.json`
-(`content_type_keywords`, podcast checked first) decide; when no keyword
-matches, Gemini's own `content_type` is used. The digest and Slack post are
-split into Press conferences, Podcasts & shows and One-offs.
+**Same extraction and format as hoopshype-yt-quotes.** Quotes are extracted
+by yt-quotes' own code, vendored byte for byte in `ytq_vendor.py` (same
+prompt, Gemini config, MM:SS timestamps, chunking, quote splitter and
+markdown renderer). The only change is one appended prompt rule: a speaker
+is named only if the video or its title identifies them; otherwise
+"Unidentified speaker". To pick up a newer yt-quotes version, run
+`python pressers_v2/tools/vendor_ytq.py <path to hoopshype-yt-quotes>`.
 
-Each quote has: speaker, speaker_confidence, team, verbatim text, a pull
-quote, names mentioned, start/end seconds, a news_score (1-10), a one-line
-news angle and a draft social post. Multi-speaker exchanges also carry
-text_blocks.
+**Digest.** Titled "NBA Pressers — <date>", split into **Press conferences**,
+**Podcasts & shows** and **One-offs** (empty sections skipped). Inside each
+section every video and quote block is exactly yt-quotes' output.
 
-**Timestamps.** Gemini's times are approximate. After extraction the pipeline
-tries to fetch the video's YouTube captions and fuzzy-match each quote to
-them (`timestamp_source: "captions"`). YouTube blocks GitHub's servers
-(`RequestBlocked`, logged per video as `[captions] <id>: ...`), so in practice
-the next step does the work: a **refinement pass** sends Gemini only a
-2-minute window of the video around each first-pass time (then a 6-minute
-window if the quote isn't there) and asks where the quote's first words are
-spoken. An answer inside the window becomes `"gemini-refined"`; otherwise the
-first-pass time stays (`"gemini-approx"`) and the digest shows `(approx.)`.
-Refinement runs after all extraction and stops when the run's 35-minute
-budget is nearly used, so it never costs a video its quotes. The Windows clipper always re-finds the
-quote itself before cutting (see below), so clips are cut on the real words
-either way.
+**Content types.** `presser` (press conferences, availabilities, media day,
+pre/postgame, shootaround), `podcast` (podcasts, shows, livestreams, reaction
+shows) or `oneoff` (anything passed in `extra_videos`, whatever its content).
+Title keywords in `config.json` (`content_type_keywords`, podcast checked
+first) decide; when none matches, the clip-field call's `content_type` is used.
+The same three groups drive the digest, the Slack post, the clip folders and
+the clipper's pick-list.
 
-Speakers are only named when the video itself identifies them (name graphic,
-introduction, addressed by name, or the title naming the podium speaker,
-e.g. "James Harden Media Availability"). Anything else is "Unidentified speaker" with
-speaker_confidence "inferred", and those quotes are left out of
-latest_clips.json so a guessed name never ends up in a clip's lower third.
+**Clip fields.** One text-only Gemini call per video (no video input) reads
+the extracted quotes and returns speaker_confidence, news_score (1-10), a
+draft social post and the video's content_type. A clip's end time is its
+start + the speech duration estimated from the word count (2.6 words/s).
+`latest_clips.json` keeps its original fields (plus a few added ones) and
+only lists quotes whose speaker is named.
 
 ## One-time setup
 
@@ -97,29 +91,17 @@ install Deno once: `winget install --id DenoLand.Deno -e`.
 
 ## Unattended PC job (optional)
 
-YouTube blocks GitHub's servers from reading captions, but not your PC. The PC
-job runs on its own 30 minutes after each cloud run (06:45, 14:45, 20:45 UTC,
-only while the PC is on and you're logged in, no window), and:
+Renders clips on your PC by itself, 30 minutes after each cloud run (06:45,
+14:45, 20:45 UTC), only while the PC is on and you're logged in, with no
+window: the top 10 clips by news score go to
+`Documents\presser-clips\<date>\pressers|podcasts|oneoffs\`, each cut
+aligned on the video's captions locally (Whisper as fallback). It only reads
+the public clip list; it writes nothing to GitHub and needs no token. Log:
+`Documents\presser-clips\pc-job-log.txt`.
 
-1. fetches captions with yt-dlp for every quote that isn't caption-aligned and
-   finds its exact start/end (`timestamp_source: "captions-pc"`);
-2. commits the corrected times to this repo through the GitHub API (the
-   video's .json/.md, the day digests, `latest_clips.json`, and the `docs/`
-   mirror). A file that changed on GitHub meanwhile is re-read and retried
-   once, then skipped and logged. The cloud never overwrites a `captions-pc`
-   time;
-3. writes `output/pc_alignment_report.json`: Gemini time vs real time per
-   quote, plus median / p90 difference per cloud run;
-4. renders the top 10 clips by news score into
-   `Documents\presser-clips\<date>\pressers|podcasts|oneoffs\`;
-5. logs to `Documents\presser-clips\pc-job-log.txt`.
-
-Install: download `install-presser-pc-job.bat` from this folder, double-click
-it, paste a fine-grained GitHub token when asked (repository: only
-nba-pressers-digest; permissions: Contents read & write, Actions read). The
-token is stored in `%USERPROFILE%\.nba-pressers\token`, never in the repo.
-Each run downloads the latest job/clipper files from `main` first. To remove
-it: `schtasks /delete /tn "NBA Pressers PC Job" /f`.
+Install: download `install-presser-pc-job.bat` from this folder and
+double-click it. Each run downloads the latest clipper files from `main`
+first. To remove it: `schtasks /delete /tn "NBA Pressers PC Job" /f`.
 
 ## Tuning
 

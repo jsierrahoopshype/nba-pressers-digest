@@ -1,8 +1,8 @@
 @echo off
 setlocal
-rem NBA pressers PC job. Task Scheduler starts this hidden (run-hidden.vbs),
-rem 30 minutes after each pressers-v2 cloud run. Double-click to run it by
-rem hand and watch the output. Log: Documents\presser-clips\pc-job-log.txt
+rem NBA pressers PC job: renders the top clips locally. Task Scheduler starts
+rem this hidden (run-hidden.vbs), 30 minutes after each pressers-v2 cloud run.
+rem Double-click to run it by hand. Log: Documents\presser-clips\pc-job-log.txt
 set "WORK=%USERPROFILE%\Documents\nba-pressers-digest-pc"
 set "RAW=https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/main/pressers_v2"
 set "LOGF=%USERPROFILE%\Documents\presser-clips\pc-job-log.txt"
@@ -13,15 +13,13 @@ where py >nul 2>nul && set "PY=py -3"
 if not defined PY where python >nul 2>nul && set "PY=python"
 if not defined PY goto :no_python
 
-rem Self-update: latest Python files from main. A failed download keeps the
+rem Self-update: latest clipper files from main. A failed download keeps the
 rem previous copy. This .bat itself is only updated by the installer.
-for %%F in (presser_pc_job.py make_presser_clips.py caption_align.py presser_extractor.py requirements.txt) do (
+for %%F in (presser_pc_job.py make_presser_clips.py caption_align.py) do (
   curl.exe -fsSL --max-time 60 -o "%%F.new" "%RAW%/%%F" && move /y "%%F.new" "%%F" >nul
   if exist "%%F.new" del "%%F.new"
 )
 
-rem New packages, if requirements.txt gained any (fast no-op otherwise).
-%PY% -m pip install --disable-pip-version-check --quiet -r requirements.txt >nul 2>nul
 %PY% presser_pc_job.py %*
 exit /b %errorlevel%
 

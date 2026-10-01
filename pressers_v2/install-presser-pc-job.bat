@@ -1,8 +1,8 @@
 @echo off
 setlocal
 title Install NBA presser PC job
-rem One-time setup for the unattended PC job. Safe to run again (updates files,
-rem keeps your token unless you choose to replace it, re-registers the task).
+rem One-time setup for the unattended PC job (local clip rendering only).
+rem Safe to run again: updates the files and re-registers the task.
 set "WORK=%USERPROFILE%\Documents\nba-pressers-digest-pc"
 set "RAW=https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/main/pressers_v2"
 set "TASK=NBA Pressers PC Job"
@@ -22,7 +22,7 @@ where curl.exe >nul 2>nul || goto :no_curl
 if not exist "%WORK%" mkdir "%WORK%"
 cd /d "%WORK%" || goto :no_work
 echo Downloading the job files into %WORK% ...
-for %%F in (presser_pc_job.py make_presser_clips.py caption_align.py presser_extractor.py requirements.txt run-presser-pc-job.bat) do (
+for %%F in (presser_pc_job.py make_presser_clips.py caption_align.py run-presser-pc-job.bat) do (
   curl.exe -fsSL --max-time 60 -o "%%F.new" "%RAW%/%%F"
   if errorlevel 1 goto :dl_fail
   move /y "%%F.new" "%%F" >nul
@@ -30,10 +30,10 @@ for %%F in (presser_pc_job.py make_presser_clips.py caption_align.py presser_ext
 echo.
 
 rem --- Python packages ------------------------------------------------------------
-echo Installing Python packages: pipeline requirements, yt-dlp, faster-whisper.
+echo Installing Python packages: yt-dlp and faster-whisper.
 echo (The first time can take a few minutes.)
-%PY% -m pip install --upgrade --disable-pip-version-check --quiet -r requirements.txt "yt-dlp[default]" faster-whisper
-if errorlevel 1 %PY% -m pip install --upgrade --user --disable-pip-version-check --quiet -r requirements.txt "yt-dlp[default]" faster-whisper
+%PY% -m pip install --upgrade --disable-pip-version-check --quiet "yt-dlp[default]" faster-whisper
+if errorlevel 1 %PY% -m pip install --upgrade --user --disable-pip-version-check --quiet "yt-dlp[default]" faster-whisper
 if errorlevel 1 goto :pip_fail
 echo.
 
@@ -46,22 +46,13 @@ where deno >nul 2>nul || (
 )
 where wscript.exe >nul 2>nul || goto :no_wscript
 
-rem --- GitHub token (stored outside the repo folder) ------------------------------------
+rem --- No GitHub token is needed any more ---------------------------------------------
 if exist "%USERPROFILE%\.nba-pressers\token" (
-  choice /c KR /m "A GitHub token is already saved. K = keep it, R = replace it"
-  if errorlevel 2 goto :ask_token
-  goto :token_ok
+  echo NOTE: a GitHub token from an earlier version is saved in %USERPROFILE%\.nba-pressers\
+  echo       It is no longer used. You can delete that folder and revoke the token at
+  echo       https://github.com/settings/personal-access-tokens
+  echo.
 )
-:ask_token
-echo.
-echo Create the token at https://github.com/settings/personal-access-tokens/new
-echo   - Repository access: Only select repositories, nba-pressers-digest
-echo   - Permissions: Contents = Read and write, Actions = Read-only
-echo.
-%PY% presser_pc_job.py --setup-token
-if errorlevel 1 goto :token_fail
-:token_ok
-echo.
 
 rem --- Task Scheduler ------------------------------------------------------------------
 %PY% presser_pc_job.py --write-task-xml "%WORK%\task.xml" --vbs "%WORK%\run-hidden.vbs"
@@ -114,10 +105,6 @@ goto :end
 :no_wscript
 echo [X] Windows Script Host (wscript.exe) is missing; it runs the job without a window.
 echo     Fix: Settings, System, Optional features, View features, add "VBSCRIPT", then run this again.
-goto :end
-
-:token_fail
-echo [X] The token was not saved. Run this installer again and paste a valid token.
 goto :end
 
 :task_fail

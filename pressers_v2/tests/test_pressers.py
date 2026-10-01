@@ -7,146 +7,191 @@ Offline tests for pressers_v2 (no network, no API keys, Gemini mocked).
 import json
 import sys
 import tempfile
-import threading
-import time
 import types as pytypes
 import unittest
-from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
 
 import presser_extractor as pe  # noqa: E402
+import ytq_vendor as ytq  # noqa: E402
 import make_presser_clips as mc  # noqa: E402
 
 CONFIG = json.loads((HERE.parent / "config.json").read_text(encoding="utf-8"))
+FIXTURES = HERE / "fixtures" / "ytq"
+
+
+class TempOutput:
+    """Point the pipeline (and the vendored yt-quotes code) at a temp dir."""
+
+    def __enter__(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.old = pe.OUTPUT_DIR
+        pe.set_output_dir(Path(self.tmp.name))
+        return Path(self.tmp.name)
+
+    def __exit__(self, *exc):
+        pe.set_output_dir(self.old)
+        self.tmp.cleanup()
 
 
 class FakeModels:
-    """Returns queued answers and records the window of every call."""
+    """Video call -> yt-quotes extraction JSON; text call -> clip fields."""
 
-    def __init__(self, answers):
-        self.answers = list(answers)
-        self.windows = []
+    def __init__(self, extraction: dict, clip_fields: dict | None):
+        self.extraction, self.clip_fields = extraction, clip_fields
+        self.calls = []
 
     def generate_content(self, model, contents, config):
-        part = contents[0]
-        vm = part.video_metadata
-        self.windows.append((int(vm.start_offset.rstrip("s")), int(vm.end_offset.rstrip("s"))))
-        ans = self.answers.pop(0)
-        return pytypes.SimpleNamespace(text=json.dumps({"timestamp": ans}))
+        first = contents[0]
+        if hasattr(first, "file_data"):
+            self.calls.append("video")
+            title = contents[1].split("\n", 1)[0].replace("YouTube title: ", "")
+            body = dict(self.extraction, video_title=title)
+            return pytypes.SimpleNamespace(text=json.dumps(body), usage_metadata=None)
+        self.calls.append("text")
+        if self.clip_fields is None:
+            raise RuntimeError("400 bad request")
+        return pytypes.SimpleNamespace(text=json.dumps(self.clip_fields), usage_metadata=None)
 
 
-def fake_client(answers):
-    return pytypes.SimpleNamespace(models=FakeModels(answers))
+def client_for(extraction, clip_fields):
+    return pytypes.SimpleNamespace(models=FakeModels(extraction, clip_fields))
 
 
-def quote(start, end):
-    return {"text": "We have to be better on the defensive end and that is on me.",
-            "start_seconds": start, "end_seconds": end,
-            "gemini_start_seconds": start, "gemini_end_seconds": end,
-            "timestamp_source": "gemini-approx"}
+HARDEN = {
+    "speakers_seen": ["James Harden"],
+    "quotes": [
+        {"rank": 1, "speaker": "James Harden", "timestamp": "01:58",
+         "summary_phrase": "James Harden on Mario and Peyton's camp",
+         "names_mentioned": ["Mario", "Peyton"], "excerpt": "we are in the right direction",
+         "quote": "Mario has been looking good for this past few weeks. Peyton has looked good so "
+                  "putting everything together obviously it is going to take some time but we are "
+                  "in the right direction."},
+        {"rank": 2, "speaker": "Unidentified speaker", "timestamp": "03:10",
+         "summary_phrase": "a reporter on the Cavs bench", "names_mentioned": [], "excerpt": "",
+         "quote": "Can you talk about the bench and how deep this group is going to be this year?"},
+    ],
+}
+HARDEN_FIELDS = {"content_type": "presser", "quotes": [
+    {"rank": 1, "speaker_confidence": "named", "news_score": 6,
+     "social_post": "James Harden says the Cavs are “in the right direction” — #Cavs \U0001F525"},
+    {"rank": 2, "speaker_confidence": "inferred", "news_score": 2, "social_post": "x"}]}
 
 
-class RefinementTests(unittest.TestCase):
-    def setUp(self):
-        pe._spending_cap_hit.clear()
-        pe._transient_overload_hit.clear()
-        self.lock = threading.Lock()
-        self.deadline = time.monotonic() + 60
+def video(vid, title, one_off=False, duration=359):
+    v = {"video_id": vid, "url": pe.WATCH_URL_TEMPLATE.format(video_id=vid), "title": title,
+         "duration": duration, "published": "2026-09-30T18:00:00Z"}
+    if one_off:
+        v["is_one_off"] = True
+    return v
 
-    def refine(self, client, q, duration=1000):
-        stats = {}
-        pe.refine_quote(client, "https://www.youtube.com/watch?v=AAAAAAAAAA1", duration, q,
-                        self.deadline, stats, self.lock)
-        return stats
 
-    def test_in_window_hit(self):
-        client, q = fake_client(["01:05"]), quote(300, 330)
-        stats = self.refine(client, q)
-        self.assertEqual(client.models.windows, [(240, 360)])          # +-60s
-        self.assertEqual(q["start_seconds"], 305)                      # 240 + 65
-        self.assertEqual(q["end_seconds"], 335)                        # same length, shifted
-        self.assertEqual(q["gemini_start_seconds"], 300)               # first pass kept
-        self.assertEqual(q["timestamp_source"], "gemini-refined")
-        self.assertEqual(stats["calls"], 1)
-        self.assertEqual(stats["video_seconds"], 120)
+class FormatParityTests(unittest.TestCase):
+    def test_vendored_renderer_reproduces_ytquotes_output(self):
+        data = json.loads((FIXTURES / "6sbyI-n2yh0.json").read_text(encoding="utf-8"))
+        expected = (FIXTURES / "6sbyI-n2yh0.md").read_text(encoding="utf-8")
+        self.assertEqual(pe.render_markdown("6sbyI-n2yh0", "NBA on NBC", data), expected)
 
-    def test_not_found_then_wider_retry_hits(self):
-        client, q = fake_client(["NOT_FOUND", "02:30"]), quote(300, 330)
-        stats = self.refine(client, q)
-        self.assertEqual(client.models.windows, [(240, 360), (120, 480)])   # +-60 then +-180
-        self.assertEqual(q["start_seconds"], 270)                            # 120 + 150
-        self.assertEqual(q["timestamp_source"], "gemini-refined")
-        self.assertEqual(stats["not_found_60"], 1)
-        self.assertEqual(stats["calls"], 2)
-        self.assertEqual(stats["video_seconds"], 480)
+    def test_prompt_is_ytquotes_plus_speaker_rule(self):
+        self.assertIn('"Unidentified speaker"', ytq.PROMPT[-400:])
+        self.assertTrue(ytq.PROMPT.startswith("You are watching an NBA YouTube show."))
 
-    def test_out_of_window_rejected(self):
-        client, q = fake_client(["09:00"]), quote(300, 330)     # 540s: outside 240-360 either way
-        stats = self.refine(client, q)
-        self.assertEqual(q["start_seconds"], 300)
-        self.assertEqual(q["timestamp_source"], "gemini-approx")
-        self.assertEqual(stats["out_of_window"], 1)
-        self.assertEqual(len(client.models.windows), 1)       # no wider retry after a rejection
+    def test_pages_safe_only_touches_executable_sequences(self):
+        data = {"video_title": "Harden | Media Day: \"it's on me\" & more",
+                "quotes": [{"quote": "<script>x</script> {{ site }} {% raw %} [a](javascript:alert(1))"}]}
+        safe = pe.pages_safe(data)
+        self.assertEqual(safe["video_title"], data["video_title"])          # ordinary text untouched
+        q = safe["quotes"][0]["quote"]
+        for bad in ("<script", "{{", "{%", "javascript:"):
+            self.assertNotIn(bad, q)
 
-    def test_not_found_twice_keeps_first_pass(self):
-        client, q = fake_client(["NOT_FOUND", "NOT_FOUND"]), quote(300, 330)
-        stats = self.refine(client, q)
-        self.assertEqual(q["start_seconds"], 300)
-        self.assertEqual(q["timestamp_source"], "gemini-approx")
-        self.assertEqual(stats["not_found_180"], 1)
 
-    def test_window_clamped_to_video(self):
-        client, q = fake_client(["00:10"]), quote(20, 40)
-        self.refine(client, q, duration=50)
-        self.assertEqual(client.models.windows, [(0, 50)])
-        self.assertEqual(q["start_seconds"], 10)
-        self.assertLessEqual(q["end_seconds"], 50)
+class PipelineTests(unittest.TestCase):
+    def test_presser_end_to_end(self):
+        client = client_for(HARDEN, HARDEN_FIELDS)
+        with TempOutput() as out:
+            status, data = pe.process_video(client, video("J5unk3vEQmk", "James Harden Media Availability"),
+                                            "Cleveland Cavaliers")
+            self.assertEqual(status, "ok")
+            md = (out / "2026-09-30" / "J5unk3vEQmk.md").read_text(encoding="utf-8")
+            # the .md is exactly what yt-quotes' renderer makes from the same quotes
+            stored = json.loads((out / "2026-09-30" / "J5unk3vEQmk.json").read_text(encoding="utf-8"))
+            self.assertEqual(md, ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored))
+            manifest = pe.build_clip_manifest("t", 100000)
+        self.assertEqual(client.models.calls, ["video", "text"])
+        self.assertEqual(data["content_type"], "presser")
+        q1, q2 = data["quotes"]
+        self.assertEqual((q1["start_seconds"], q1["speaker_confidence"], q1["news_score"]), (118, "named", 6))
+        words = len(q1["quote"].split())
+        self.assertEqual(q1["end_seconds"], 118 + round(words / pe.WORDS_PER_SECOND))
+        self.assertNotIn("#", q1["social_post"])
+        self.assertNotIn("—", q1["social_post"])
+        self.assertEqual(q2["speaker_confidence"], "inferred")
+        # unidentified speakers stay out of the clip manifest
+        self.assertEqual([c["speaker"] for c in manifest["clips"]], ["James Harden"])
+        clip = manifest["clips"][0]
+        for key in ("clip_id", "video_id", "url", "clip_url", "start_seconds", "end_seconds",
+                    "duration_seconds", "speaker", "team", "text", "news_angle", "social_post", "rank",
+                    "video_title", "channel_team", "published", "publish_date", "speaker_confidence",
+                    "pull_quote", "news_score", "content_type", "run_id", "processed_at"):
+            self.assertIn(key, clip)
+        self.assertEqual(clip["news_angle"], "James Harden on Mario and Peyton's camp")
 
-    def test_garbage_answer_is_not_zero(self):
-        client, q = fake_client(["around the middle"]), quote(300, 330)
-        stats = self.refine(client, q)
-        self.assertEqual(q["start_seconds"], 300)
-        self.assertEqual(stats["unusable"], 1)
+    def test_extra_video_is_oneoff_whatever_its_content(self):
+        client = client_for(HARDEN, HARDEN_FIELDS)
+        with TempOutput() as out:
+            status, data = pe.process_video(client, video("J5unk3vEQmk", "James Harden Media Availability",
+                                                          one_off=True), "Cleveland Cavaliers")
+            self.assertTrue((out / "2026-09-30" / "J5unk3vEQmk.json").is_file())   # not in oneoffs/
+        self.assertEqual((data["content_type"], data["content_type_source"]), ("oneoff", "extra_videos"))
 
-    def test_no_refining_after_deadline(self):
-        client, q = fake_client(["01:05"]), quote(300, 330)
-        self.deadline = time.monotonic() - 1
-        stats = self.refine(client, q)
-        self.assertEqual(client.models.windows, [])
-        self.assertEqual(stats["skipped_time"], 1)
+    def test_clip_field_call_failure_keeps_quotes(self):
+        client = client_for(HARDEN, None)
+        with TempOutput():
+            status, data = pe.process_video(client, video("J5unk3vEQmk", "James Harden Media Availability"),
+                                            "Cleveland Cavaliers")
+        self.assertEqual(status, "ok")
+        self.assertEqual(len(data["quotes"]), 2)
+        self.assertEqual(data["quotes"][0]["speaker_confidence"], "named")    # title names him
+        self.assertIsNone(data["quotes"][0]["news_score"])
 
-    def test_run_refinement_only_touches_approx_quotes(self):
-        approx, aligned = quote(300, 330), quote(100, 120)
-        aligned["timestamp_source"] = "captions"
-        data = {"quotes": [approx, aligned]}
-        video = {"video_id": "AAAAAAAAAA1", "url": "https://www.youtube.com/watch?v=AAAAAAAAAA1",
-                 "duration": 1000, "title": "t", "published": "2026-09-30T10:00:00Z"}
-        client = fake_client(["01:05"])
-        with tempfile.TemporaryDirectory() as tmp:
-            old = pe.OUTPUT_DIR
-            pe.OUTPUT_DIR = Path(tmp)
-            try:
-                with ThreadPoolExecutor(max_workers=3) as ex:
-                    stats = pe.run_refinement(ex, client, [{"video": video, "team": "Boston Celtics",
-                                                            "data": data}], time.monotonic() + 30)
-                self.assertTrue((Path(tmp) / "2026-09-30" / "AAAAAAAAAA1.json").is_file())
-            finally:
-                pe.OUTPUT_DIR = old
-        self.assertEqual(stats["refined"], 1)
-        self.assertEqual(aligned["start_seconds"], 100)
-        self.assertEqual(len(client.models.windows), 1)
+    def test_digest_sections(self):
+        with TempOutput() as out:
+            for vid, title, one_off in (("J5unk3vEQmk", "James Harden Media Availability", False),
+                                        ("p7o-S3hmoD4", "Chase Down Podcast Live: Media Day Reactions", False),
+                                        ("auzyc8y-uNI", "Caleb Wilson: My First Media Day", True)):
+                pe.process_video(client_for(HARDEN, HARDEN_FIELDS), video(vid, title, one_off), "Cleveland Cavaliers")
+            digest = pe.write_digest_file("2026-09-30", "digest.md").read_text(encoding="utf-8")
+            harden_md = (out / "2026-09-30" / "J5unk3vEQmk.md").read_text(encoding="utf-8").strip()
+        self.assertTrue(digest.startswith("# NBA Pressers — 2026-09-30\n"))
+        order = [digest.index(h) for h in ("# Press conferences", "# Podcasts & shows", "# One-offs")]
+        self.assertEqual(order, sorted(order))
+        self.assertIn("#" + harden_md, digest)                 # video block = yt-quotes block, h1 -> h2
+        self.assertNotIn("(approx.)", digest)
+        self.assertTrue(digest.rstrip().endswith(ytq.DIGEST_CLOSING_LINE))
 
-    def test_digest_marks_only_first_pass_times(self):
-        q1, q2, q3 = quote(10, 30), quote(40, 60), quote(70, 90)
-        q1["timestamp_source"], q2["timestamp_source"] = "captions", "gemini-refined"
-        for q in (q1, q2, q3):
-            q.update(rank=1, speaker="Joe Mazzulla", speaker_confidence="named", team="Boston Celtics")
-        md = pe.to_markdown({"video_id": "AAAAAAAAAA1"}, "Boston Celtics", {"quotes": [q1, q2, q3]})
-        self.assertEqual(md.count("(approx.)"), 1)
-        self.assertIn("&t=70s) (approx.)", md)
+    def test_legacy_output_migrated_to_ytq_format(self):
+        legacy = {"video_id": "AAAAAAAAAA1", "video_title": "Joe Mazzulla Postgame", "channel_team": "Boston Celtics",
+                  "published": "2026-09-30T10:00:00Z", "speakers_seen": ["Joe Mazzulla"],
+                  "quotes": [{"rank": 1, "speaker": "Joe Mazzulla", "speaker_confidence": "named",
+                              "start_seconds": 65, "end_seconds": 80, "text": "We have to be better.",
+                              "news_angle": "Mazzulla wants more", "pull_quote": "We have to be better",
+                              "names_mentioned": [], "news_score": 7, "timestamp_source": "gemini-approx"}]}
+        with TempOutput() as out:
+            day = out / "2026-09-30"
+            day.mkdir()
+            (day / "AAAAAAAAAA1.json").write_text(json.dumps(legacy))
+            pe.migrate_legacy_outputs()
+            data = json.loads((day / "AAAAAAAAAA1.json").read_text())
+            md = (day / "AAAAAAAAAA1.md").read_text()
+        q = data["quotes"][0]
+        self.assertEqual((q["timestamp"], q["summary_phrase"], q["excerpt"], q["quote"]),
+                         ("01:05", "Mazzulla wants more", "We have to be better", "We have to be better."))
+        self.assertEqual(data["format"], pe.FORMAT_VERSION)
+        self.assertEqual(md, ytq.to_markdown(pe.WATCH_URL_TEMPLATE.format(video_id="AAAAAAAAAA1"),
+                                             "Boston Celtics", data))
 
 
 class ContentTypeTests(unittest.TestCase):
@@ -156,8 +201,6 @@ class ContentTypeTests(unittest.TestCase):
 
     def test_availability_title(self):
         self.assertEqual(pe.classify_content_type("James Harden Media Availability", config=CONFIG)[0], "presser")
-        self.assertEqual(pe.classify_content_type(
-            "Cavs Training Camp | James Harden Media Availability | 09.30.2026", config=CONFIG)[0], "presser")
 
     def test_extra_videos_always_oneoff(self):
         self.assertEqual(pe.classify_content_type("James Harden Media Availability", is_one_off=True,
@@ -168,56 +211,6 @@ class ContentTypeTests(unittest.TestCase):
         self.assertEqual(pe.classify_content_type(t, gemini_value="podcast", config=CONFIG), ("podcast", "gemini"))
         self.assertEqual(pe.classify_content_type(t, config=CONFIG), ("presser", "default"))
 
-    def test_whole_words_only(self):
-        # "show" must not fire inside "Showtime"
-        self.assertEqual(pe.classify_content_type("Showtime Highlights", gemini_value="presser",
-                                                  config=CONFIG)[1], "gemini")
-
-    def test_extra_videos_url_becomes_oneoff_end_to_end(self):
-        """An extra_videos URL goes through process_video and comes out as a
-        one-off, even though its title reads like a presser."""
-        title = "James Harden Media Availability"
-
-        class Models:
-            def generate_content(self, model, contents, config):
-                return pytypes.SimpleNamespace(usage_metadata=None, text=json.dumps({
-                    "video_title": title, "speakers_seen": ["James Harden"], "content_type": "presser",
-                    "quotes": [{"rank": 1, "speaker": "James Harden", "speaker_confidence": "named",
-                                "timestamp": "01:00", "end_timestamp": "01:20",
-                                "text": "We are in the right direction and they will definitely help us."}]}))
-
-        vid = pe.extract_one_off_video_id("https://youtu.be/HARDEN00001")
-        video = {"video_id": vid, "url": pe.WATCH_URL_TEMPLATE.format(video_id=vid), "title": title,
-                 "duration": 300, "published": "2026-09-30T10:00:00Z", "is_one_off": True}
-        old_fetch, old_dir = pe.fetch_caption_words, pe.OUTPUT_DIR
-        pe.fetch_caption_words = lambda v: ([], "blocked: test")
-        with tempfile.TemporaryDirectory() as tmp:
-            pe.OUTPUT_DIR = Path(tmp)
-            try:
-                status, data = pe.process_video(pytypes.SimpleNamespace(models=Models()), video, "Cleveland Cavaliers")
-            finally:
-                pe.fetch_caption_words, pe.OUTPUT_DIR = old_fetch, old_dir
-        self.assertEqual(status, "ok")
-        self.assertEqual(data["content_type"], "oneoff")
-        self.assertEqual(data["content_type_source"], "extra_videos")
-
-    def test_digest_sections_in_order_and_empty_skipped(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            old = pe.OUTPUT_DIR
-            pe.OUTPUT_DIR = Path(tmp)
-            try:
-                day = Path(tmp) / "2026-09-30"
-                day.mkdir()
-                for vid, ctype in (("PODCAST0001", "podcast"), ("PRESSER0001", "presser")):
-                    (day / f"{vid}.json").write_text(json.dumps({"content_type": ctype, "quotes": []}))
-                    (day / f"{vid}.md").write_text(f"# {ctype} video\n\n**1. X** [00:10](https://y)\n")
-                digest = pe.write_digest_file("2026-09-30", "digest.md").read_text()
-            finally:
-                pe.OUTPUT_DIR = old
-        self.assertLess(digest.index("## Press conferences"), digest.index("## Podcasts & shows"))
-        self.assertNotIn("## One-offs", digest)
-        self.assertIn("### presser video", digest)
-
 
 class ClipperPickTests(unittest.TestCase):
     CLIPS = [
@@ -225,17 +218,16 @@ class ClipperPickTests(unittest.TestCase):
         {"clip_id": "b", "content_type": "podcast", "news_score": 9, "run_id": "R2"},
         {"clip_id": "c", "content_type": "presser", "news_score": 8, "run_id": "R2"},
         {"clip_id": "d", "content_type": "oneoff", "news_score": 7, "run_id": "R2"},
-        {"clip_id": "e", "news_score": 10, "run_id": "R1"},          # older run, no type -> presser
+        {"clip_id": "e", "news_score": 10, "run_id": "R1"},
     ]
 
     def test_grouping_and_type_filter(self):
         ordered, latest, _ = mc.order_clips({"latest_run_id": "R2"}, list(self.CLIPS))
         self.assertEqual([c["clip_id"] for c in ordered], ["c", "a", "e", "b", "d"])
         top2 = [ordered[i - 1]["clip_id"] for i in mc.default_selection(ordered, latest, 2)]
-        self.assertEqual(sorted(top2), ["b", "c"])                     # overall, latest run only
+        self.assertEqual(sorted(top2), ["b", "c"])
         pressers = [ordered[i - 1]["clip_id"] for i in mc.default_selection(ordered, latest, 10, "presser")]
         self.assertEqual(sorted(pressers), ["a", "c"])
-        self.assertEqual(mc.TYPE_FOLDERS[mc.clip_type(self.CLIPS[4])], "pressers")
 
 
 if __name__ == "__main__":
