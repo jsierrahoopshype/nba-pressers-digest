@@ -5,7 +5,7 @@ The installers (install-presser-clips.bat, install-presser-clips-mac.command)
 put Python, ffmpeg and a private Python environment in place, download the
 app files into the app folder, then call this script:
 
-    python presser_clips_setup.py --setup         the three questions, settings.json,
+    python presser_clips_setup.py --setup         the four questions, settings.json,
                                                   desktop shortcut, automatic mode on/off
     python presser_clips_setup.py --update        refresh the app's .py files from GitHub
     python presser_clips_setup.py --auto          update, then make clips if a new cloud run
@@ -26,8 +26,8 @@ import re
 import shutil
 import subprocess
 import sys
-import tempfile
 import urllib.request
+import uuid
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
@@ -76,17 +76,14 @@ def update(quiet: bool = True) -> int:
             compile(body.decode("utf-8"), name, "exec")
             if target.is_file() and target.read_bytes() == body:
                 continue
-            tmp.write_bytes(body)
-            os.replace(tmp, target)
+            tmp.write_bytes(body)                       # closed before the move
+            mc.with_retry(os.replace, str(tmp), str(target))
             changed += 1
         except Exception as e:
             if not quiet:
                 say(f"  (could not update {name}: {type(e).__name__}; keeping the current copy)")
         finally:
-            try:
-                tmp.unlink()
-            except OSError:
-                pass
+            mc.remove_file(tmp)
     if changed and not quiet:
         say(f"  updated {changed} file(s)")
     return changed
@@ -125,7 +122,7 @@ def find_deno_cmd() -> int:
 
 
 # --------------------------------------------------------------------------- #
-# The three questions
+# The four questions
 # --------------------------------------------------------------------------- #
 
 def clean_folder_answer(answer: str) -> str:
@@ -138,23 +135,41 @@ def clean_folder_answer(answer: str) -> str:
 
 
 def check_folder(path: Path) -> str:
-    """'' if clips can be written there, otherwise why not."""
+    """'' if clips can be written there, otherwise why not. Writes a test
+    file with a unique name, CLOSES it, then deletes it (retrying: on
+    Windows an antivirus or sync client can hold a brand-new file for a
+    moment). If the write worked but the delete keeps failing, the folder is
+    accepted with a warning."""
     if not path.is_absolute():
         return "please give the full folder path"
+    unsafe = mc.unsafe_clips_folder(path)
+    if unsafe:
+        return (f"{unsafe}, and files older than the limit get deleted there. "
+                "Pick or create a folder just for clips, e.g. ...\\presser-clips")
     try:
         path.mkdir(parents=True, exist_ok=True)
-        probe = Path(tempfile.mkstemp(prefix=".write-test-", dir=str(path))[1])
-        probe.unlink()
+    except OSError as e:
+        return f"can't create it ({e.strerror or type(e).__name__})"
+    probe = path / f".nba-presser-clips-write-test-{os.getpid()}-{uuid.uuid4().hex[:8]}.tmp"
+    try:
+        with open(probe, "wb") as f:
+            f.write(b"ok")
     except OSError as e:
         return f"can't write there ({e.strerror or type(e).__name__})"
+    if not mc.remove_file(probe):
+        say(f"   Note: the folder works, but the test file {probe.name} couldn't be deleted yet")
+        say("   (another program is holding it). Delete it by hand if it's still there later.")
     return ""
 
 
 def ask_folder(current: str | None) -> Path:
     default = Path(current) if current else mc.default_out_dir()
     say("1) Where should the clips be saved?")
+    say("   IMPORTANT: use a folder ONLY for these clips. Anything in it older than the")
+    say("   limit you choose next is deleted automatically, whoever put it there.")
     say(f"   Press Enter for: {default}")
-    say("   Or paste any folder (a shared Google Drive, OneDrive or Dropbox folder works too).")
+    say("   Or paste a folder (a shared Google Drive, OneDrive or Dropbox folder works too,")
+    say("   as long as it's a folder just for these clips).")
     while True:
         answer = clean_folder_answer(ask("   > "))
         path = Path(answer) if answer else default
@@ -164,10 +179,26 @@ def ask_folder(current: str | None) -> Path:
         say(f"   {problem}. Try again.")
 
 
+def ask_keep_days(current) -> int:
+    default = mc.keep_days({"out_dir": "x", "keep_days": current} if current is not None
+                           else {"out_dir": "x"})
+    say()
+    say("2) Delete files in the clips folder older than how many days?")
+    say(f"   Press Enter for {default}, or type a number (0 = never delete).")
+    say("   This also clears the saved post text and temporary files on this computer.")
+    while True:
+        a = ask("   > ").strip()
+        if not a:
+            return default
+        if a.isdigit() and int(a) <= 3650:
+            return int(a)
+        say("   Please type a whole number of days, like 7 (or 0 for never).")
+
+
 def ask_formats(current: list | None) -> list:
     default = current or list(mc.FORMAT_ORDER)
     say()
-    say("2) Which formats should be made by default? (you can still choose each time)")
+    say("3) Which formats should be made by default? (you can still choose each time)")
     for f in mc.FORMAT_ORDER:
         say(f"   {mc.FORMATS[f]['letter'].upper()} = {mc.FORMATS[f]['label']}")
     say(f"   Press Enter for {'all three' if len(default) == 3 else mc.format_letters(default)}, "
@@ -310,10 +341,7 @@ def set_auto(enabled: bool) -> str:
         if plist.exists():
             _run_quiet(["launchctl", "unload", "-w", str(plist)])
         if not enabled:
-            try:
-                plist.unlink()
-            except OSError:
-                pass
+            mc.remove_file(plist)
             return "off"
         agents.mkdir(parents=True, exist_ok=True)
         plist.write_text(launchd_plist(sys.executable), encoding="utf-8")
@@ -337,18 +365,20 @@ def setup() -> int:
     current = mc.load_settings(settings_path)
     say()
     say("=" * 60)
-    say(f"  {APP_NAME}: three quick questions")
+    say(f"  {APP_NAME}: four quick questions")
     say("=" * 60)
     say()
     out_dir = ask_folder(current.get("out_dir"))
+    days = ask_keep_days(current.get("keep_days"))
     formats = ask_formats(mc.settings_formats(current) if current else None)
     say()
-    say("3) Make clips automatically after each cloud run?")
+    say("4) Make clips automatically after each cloud run?")
     say("   (the top 10 quotes by news score, in your default formats, while this computer is on)")
     auto = ask_yes_no("  ", bool(current.get("auto_run", False)))
 
     settings = {
         "out_dir": str(out_dir),
+        "keep_days": days,
         "formats": formats,
         "auto_run": auto,
         "ffmpeg": mc.find_ffmpeg(current) or "",
@@ -356,7 +386,7 @@ def setup() -> int:
     }
     tmp = settings_path.with_name("settings.json.tmp")
     tmp.write_text(json.dumps(settings, indent=2), encoding="utf-8")
-    os.replace(tmp, settings_path)
+    mc.with_retry(os.replace, str(tmp), str(settings_path))
 
     say()
     try:
@@ -377,6 +407,8 @@ def setup() -> int:
     say("=" * 60)
     say("  All set.")
     say(f"  Clips are saved in: {out_dir}")
+    say(f"  Cleanup:            {'never' if not days else f'files older than {days} days are deleted'}")
+    say(f"  Post text and logs: {mc.app_dir()}")
     say(f"  Default formats:    {', '.join(formats)}")
     say(f"  Automatic mode:     {auto_state}")
     say(f"  Desktop shortcut:   {shortcut}")

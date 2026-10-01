@@ -1,7 +1,7 @@
 #!/bin/bash
 # NBA Presser Clips installer for macOS. Double-click it, or run it in
 # Terminal. Installs Homebrew (if missing), ffmpeg, Python, the app and a
-# desktop launcher, then asks three setup questions. Safe to run again: it
+# desktop launcher, then asks four setup questions. Safe to run again: it
 # updates everything and asks again. No GitHub account or token needed.
 set -u
 APP="$HOME/Library/Application Support/NBA Presser Clips"
@@ -77,7 +77,7 @@ if ! "$VPY" "$APP/presser_clips_setup.py" --find-deno >/dev/null; then
 fi
 echo
 
-# 6. The three questions, desktop launcher, automatic mode
+# 6. The four questions, desktop launcher, automatic mode
 "$VPY" "$APP/presser_clips_setup.py" --setup || fail "Setup did not finish. Run the installer again."
 echo
 read -r -p "Press Return to close this window." _

@@ -2,7 +2,7 @@
 setlocal EnableExtensions
 title NBA Presser Clips - installer
 rem Installs NBA Presser Clips for the current Windows user: Python (if
-rem missing), ffmpeg, the app and a desktop shortcut, then asks three setup
+rem missing), ffmpeg, the app and a desktop shortcut, then asks four setup
 rem questions. Safe to run again: it updates everything and asks again.
 rem No GitHub account or token needed; no administrator rights needed.
 set "APP=%LOCALAPPDATA%\NBA Presser Clips"
@@ -65,7 +65,7 @@ if errorlevel 1 (
 )
 echo.
 
-rem --- 5. The three questions, desktop shortcut, automatic mode ---------------
+rem --- 5. The four questions, desktop shortcut, automatic mode ----------------
 "%VPY%" "%APP%\presser_clips_setup.py" --setup
 if errorlevel 1 goto :setup_fail
 goto :end

@@ -18,18 +18,28 @@ for each chosen quote:
      a speaker/team lower third and burned-in captions placed for that shape
      (outside the picture for vertical and square, in the top-left corner and
      along the bottom edge for YouTube).
-  3. Saves <out>/<video date>/<pressers|podcasts|oneoffs>/
-     <date>_<team>_<speaker>_<videoid>-<start>s_<format>.mp4, plus one .txt per
-     quote with the draft social post and the source link.
+  3. Saves <clips folder>/<video date>/<pressers|podcasts|oneoffs>/
+     <date>_<team>_<speaker>_<videoid>-<start>s_<format>.mp4. The draft
+     social post + source link go to <app folder>/notes/<date>/ with the
+     same base name, so the clips folder holds nothing but finished clips.
 
 Names depend only on the quote, so a clip that already exists in the folder
 (also a shared Google Drive / OneDrive / Dropbox folder somebody else fills)
-is never rendered again, per format. Files are written under a temporary
-name and renamed when complete, so nobody sees half-written clips.
+is never rendered again, per format. Clips are rendered into
+<app folder>/tmp and moved into the clips folder when complete (one rename
+on the same drive; otherwise copied under a .partial name and renamed), so
+nobody sees half-written clips.
 
-Settings (save folder, default formats) come from settings.json next to this
-file, written by the installer. Without it: <home>/Documents/presser-clips and
-all three formats.
+Every run deletes files older than keep_days (settings, default 7, 0 = never)
+from the clips folder and from <app folder>/notes and /tmp, then removes
+empty subfolders. The clips folder must be used for clips only.
+
+App folder: %LOCALAPPDATA%\\NBA Presser Clips (Windows),
+~/Library/Application Support/NBA Presser Clips (macOS).
+
+Settings (clips folder, keep_days, default formats) come from settings.json
+next to this file, written by the installer. Without it:
+<home>/Documents/presser-clips, all three formats and no cleanup.
 
     (no options)       interactive pick-list
     --url URL          clip the one quote at this timestamped YouTube link
@@ -46,6 +56,7 @@ all three formats.
     --out DIR          save folder (overrides settings.json)
     --manifest X       a local file or another URL instead of GitHub
     --settings FILE    another settings.json
+    --no-cleanup       skip the old-file cleanup (the automatic job does it itself)
 """
 
 import argparse
@@ -58,6 +69,7 @@ import sys
 import tempfile
 import time
 import unicodedata
+import uuid
 import urllib.error
 import urllib.request
 from datetime import date, timedelta
@@ -88,6 +100,8 @@ VIDEO_ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
 DAY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 URL_LOOKBACK_DAYS = 10      # how far back --url looks for a quote no longer in the 48h list
 STALE_PARTIAL_SECS = 6 * 3600
+DEFAULT_KEEP_DAYS = 7
+APP_NAME = "NBA Presser Clips"
 
 # --------------------------------------------------------------------------- #
 # Formats and their layouts
@@ -158,6 +172,258 @@ def format_letters(formats: list) -> str:
 # --------------------------------------------------------------------------- #
 # Settings + tool discovery
 # --------------------------------------------------------------------------- #
+
+def app_dir() -> Path:
+    """Per-user local folder for notes, logs and temp renders (never the
+    clips folder). NBA_PRESSER_APP_DIR overrides it (tests)."""
+    env = os.environ.get("NBA_PRESSER_APP_DIR")
+    if env:
+        return Path(env)
+    if os.name == "nt":
+        base = Path(os.environ.get("LOCALAPPDATA") or Path.home() / "AppData" / "Local")
+    elif sys.platform == "darwin":
+        base = Path.home() / "Library" / "Application Support"
+    else:
+        base = Path(os.environ.get("XDG_DATA_HOME") or Path.home() / ".local" / "share")
+    return base / APP_NAME
+
+
+def app_subdir(name: str) -> Path:
+    d = app_dir() / name
+    d.mkdir(parents=True, exist_ok=True)
+    return d
+
+
+# --------------------------------------------------------------------------- #
+# File operations that survive Windows: another process (antivirus, the
+# Google Drive / OneDrive client, Explorer's preview) often holds a new file
+# for a moment, and Windows then refuses to move or delete it (WinError 32,
+# sometimes 5). Every move/delete goes through these helpers, which retry a
+# few times with short waits. Files are always closed before they're moved.
+# --------------------------------------------------------------------------- #
+
+RETRY_WAITS = (0.1, 0.25, 0.5, 1.0, 2.0)
+
+
+def _is_busy(e: OSError) -> bool:
+    return getattr(e, "winerror", None) in (5, 32, 33) or isinstance(e, PermissionError)
+
+
+def with_retry(fn, *args):
+    for wait in RETRY_WAITS:
+        try:
+            return fn(*args)
+        except FileNotFoundError:
+            raise
+        except OSError as e:
+            if not _is_busy(e):
+                raise
+            time.sleep(wait)
+    return fn(*args)
+
+
+def remove_file(path: Path) -> bool:
+    """Delete a file; True when it's gone (or was never there)."""
+    try:
+        with_retry(os.remove, str(path))
+    except FileNotFoundError:
+        pass
+    except OSError:
+        return False
+    return True
+
+
+def remove_tree(path: Path) -> None:
+    """Best-effort removal of a work folder (retries, never raises)."""
+    for wait in RETRY_WAITS + (None,):
+        try:
+            shutil.rmtree(path)
+            return
+        except FileNotFoundError:
+            return
+        except OSError:
+            if wait is None:
+                return
+            time.sleep(wait)
+
+
+def move_file(src: Path, final: Path) -> bool:
+    """Move a finished (closed) file to its final name without anyone ever
+    seeing it half-written: one rename when both are on the same drive;
+    across drives (e.g. C: to a Google Drive G:), copy under a .partial name
+    and rename that. False if the final file appeared in the meantime
+    (someone else made it); the source is removed either way."""
+    final.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        if final.exists():
+            return False
+        try:
+            with_retry(os.replace, str(src), str(final))
+            return True
+        except OSError as e:
+            if getattr(e, "winerror", None) != 17 and getattr(e, "errno", None) != 18:
+                raise                       # 17 / EXDEV: different drive
+        part = final.with_name(final.name + ".partial")
+        try:
+            with_retry(shutil.copyfile, str(src), str(part))
+            if final.exists():
+                return False
+            with_retry(os.replace, str(part), str(final))
+            return True
+        finally:
+            remove_file(part)
+    finally:
+        remove_file(src)
+
+
+class WorkDir:
+    """A scratch folder under <app folder>/tmp, removed on exit (retrying on
+    Windows locks, never failing the clip because cleanup didn't work)."""
+
+    def __init__(self, prefix: str):
+        self.prefix = prefix
+
+    def __enter__(self) -> Path:
+        self.path = Path(tempfile.mkdtemp(prefix=self.prefix, dir=str(app_subdir("tmp"))))
+        return self.path
+
+    def __exit__(self, *exc):
+        remove_tree(self.path)
+
+
+# --------------------------------------------------------------------------- #
+# Housekeeping: the clips folder holds finished clips only
+# --------------------------------------------------------------------------- #
+
+def log_line(name: str, msg: str) -> None:
+    try:
+        with (app_subdir("logs") / name).open("a", encoding="utf-8") as f:
+            f.write(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] {msg}\n")
+    except OSError:
+        pass
+
+
+def human_size(n: int) -> str:
+    for unit in ("bytes", "KB", "MB", "GB"):
+        if n < 1024 or unit == "GB":
+            return f"{n:.0f} {unit}" if unit == "bytes" else f"{n:.1f} {unit}"
+        n /= 1024
+    return f"{n:.1f} GB"
+
+
+def unsafe_clips_folder(path: Path) -> str:
+    """Why a folder must not be the clips folder (cleanup deletes everything
+    old in it), or ''. Catches the obvious mistakes: a drive root, the home
+    folder, Documents, Desktop, Downloads."""
+    try:
+        p = path.expanduser().resolve()
+    except OSError:
+        p = path
+    home = Path.home().resolve()
+    if p == Path(p.anchor):
+        return "that's a whole drive"
+    risky = {home, home / "Documents", home / "Desktop", home / "Downloads",
+             home / "OneDrive", home / "Dropbox", home / "Google Drive", home / "My Drive"}
+    if p in risky or p.name.lower() in ("my drive", "shared drives", "onedrive", "dropbox"):
+        return "that folder holds other files"
+    return ""
+
+
+def cleanup_old_files(root: Path, days: int, label: str) -> tuple:
+    """Delete every file under root last modified more than `days` days ago,
+    then the empty subfolders (never root itself). Returns (files, bytes)."""
+    if days <= 0 or not root.is_dir() or unsafe_clips_folder(root):
+        return 0, 0
+    cutoff = time.time() - days * 86400
+    count = freed = 0
+    walked = []
+    for dirpath, dirnames, filenames in os.walk(root):
+        # never follow a symlinked folder or a Windows junction out of the clips folder
+        dirnames[:] = [d for d in dirnames if not os.path.islink(os.path.join(dirpath, d))
+                       and not getattr(os.path, "isjunction", lambda _: False)(os.path.join(dirpath, d))]
+        walked.append(dirpath)
+        for name in filenames:
+            path = Path(dirpath) / name
+            try:
+                st = path.stat()
+            except OSError:
+                continue
+            if st.st_mtime < cutoff and remove_file(path):
+                count += 1
+                freed += st.st_size
+                log_line("cleanup-log.txt", f"deleted {path} ({human_size(st.st_size)})")
+    for dirpath in reversed(walked):                    # deepest first
+        if Path(dirpath) != root:
+            try:
+                os.rmdir(dirpath)                       # only succeeds when empty
+            except OSError:
+                pass
+    if count:
+        msg = f"Cleanup: deleted {count} file(s) older than {days} days from {label}, freed {human_size(freed)}."
+        say(msg)
+        log_line("cleanup-log.txt", msg)
+    return count, freed
+
+
+def run_cleanup(out_root: Path, days: int) -> tuple:
+    total = [0, 0]
+    for root, label in ((out_root, f"the clips folder ({out_root})"),
+                        (app_dir() / "notes", "the notes folder"), (app_dir() / "tmp", "the temp folder")):
+        n, b = cleanup_old_files(root, days, label)
+        total[0] += n
+        total[1] += b
+    return tuple(total)
+
+
+def tidy_clips_folder(out_root: Path) -> int:
+    """Move what isn't a clip out of the clips folder (from earlier versions):
+    .txt notes -> <app>/notes/<date>/, logs and the old _made.json ->
+    <app>/logs/. Returns how many files moved."""
+    if not out_root.is_dir() or unsafe_clips_folder(out_root):
+        return 0
+    moved = 0
+    for path in list(out_root.rglob("*")):
+        if not path.is_file():
+            continue
+        rel = path.relative_to(out_root)
+        name = path.name.lower()
+        if len(rel.parts) == 1 and (name.startswith("pc-job-log") or name == "_made.json"):
+            dest_dir = app_subdir("logs")
+        elif path.suffix.lower() == ".txt":
+            day = rel.parts[0] if len(rel.parts) > 1 and DAY_RE.match(rel.parts[0]) else "older"
+            dest_dir = app_subdir("notes") / day
+        else:
+            continue
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        dest = dest_dir / path.name
+        try:
+            if dest.exists():
+                if dest.read_bytes() == path.read_bytes():
+                    remove_file(path)
+                    moved += 1
+                    continue
+                dest = dest_dir / f"{path.stem}-{uuid.uuid4().hex[:6]}{path.suffix}"
+            with_retry(shutil.move, str(path), str(dest))
+            moved += 1
+        except OSError:
+            continue
+    if moved:
+        say(f"Moved {moved} note/log file(s) out of the clips folder into {app_dir()}.")
+        log_line("cleanup-log.txt", f"moved {moved} note/log file(s) from {out_root} to {app_dir()}")
+    return moved
+
+
+def keep_days(settings: dict) -> int:
+    """Days to keep files; 0 = never delete. Only an install made by the
+    installer (which warns that the folder is for clips only) cleans up:
+    without settings.json nothing is ever deleted."""
+    if not settings.get("out_dir"):
+        return 0
+    try:
+        return max(0, int(settings.get("keep_days", DEFAULT_KEEP_DAYS)))
+    except (TypeError, ValueError):
+        return DEFAULT_KEEP_DAYS
+
 
 def default_out_dir() -> Path:
     return Path.home() / "Documents" / "presser-clips"
@@ -406,8 +672,7 @@ def fetch_caption_words(video_id: str, ffmpeg: str) -> list:
     if video_id in _caption_cache:
         return _caption_cache[video_id]
     words = []
-    with tempfile.TemporaryDirectory(prefix="presser_caps_") as tmp:
-        work = Path(tmp)
+    with WorkDir("caps_") as work:
         cmd = ytdlp_cmd() + [
             "--no-playlist", "--quiet", "--no-warnings", "--skip-download",
             "--write-subs", "--write-auto-subs",
@@ -446,8 +711,7 @@ def whisper_words(video_id: str, start: float, end: float, ffmpeg: str) -> list:
                             "(run the installer again to add it)")
     w0 = max(0.0, start - WHISPER_WINDOW_SECS)
     w1 = end + WHISPER_WINDOW_SECS
-    with tempfile.TemporaryDirectory(prefix="presser_audio_") as tmp:
-        work = Path(tmp)
+    with WorkDir("audio_") as work:
         cmd = ytdlp_cmd() + [
             "--no-playlist", "--no-progress", "--quiet", "--no-warnings",
             "-f", "bestaudio/best",
@@ -620,31 +884,17 @@ def made_formats(out_root: Path, clip: dict) -> list:
     return out
 
 
-def publish_file(tmp_file: Path, final: Path) -> bool:
-    """Copy a finished file into the (possibly shared) folder under a
-    temporary name, then rename it, so a half-written clip never appears
-    under its real name. False if somebody else finished it first."""
-    final.parent.mkdir(parents=True, exist_ok=True)
-    part = final.with_name(final.name + ".partial")
-    try:
-        shutil.copyfile(tmp_file, part)
-        if final.exists():
-            return False
-        os.replace(part, final)
-        return True
-    finally:
-        try:
-            part.unlink()
-        except OSError:
-            pass
+def note_path(clip: dict) -> Path:
+    """Draft post + source link for a quote: <app folder>/notes/<date>/<base>.txt"""
+    return app_dir() / "notes" / clip_day(clip) / f"{clip_base(clip)}.txt"
 
 
 def clean_stale_partials(folder: Path) -> None:
-    """Leftovers of a run that crashed hours ago (never a render in progress)."""
+    """Leftovers of a copy that crashed hours ago (never one in progress)."""
     try:
         for p in folder.glob("*.partial"):
             if time.time() - p.stat().st_mtime > STALE_PARTIAL_SECS:
-                p.unlink()
+                remove_file(p)
     except OSError:
         pass
 
@@ -835,8 +1085,7 @@ def make_clip(clip: dict, out_root: Path, formats: list, ffmpeg: str, pad: float
     clip_len = dl_end - dl_start
 
     made = []
-    with tempfile.TemporaryDirectory(prefix="presser_") as tmp:
-        work = Path(tmp)
+    with WorkDir("render_") as work:
         src = download_section(clip, dl_start, dl_end, work, ffmpeg)     # once for every format
         for fmt in todo:
             final = output_path(out_root, clip, fmt)
@@ -847,24 +1096,34 @@ def make_clip(clip: dict, out_root: Path, formats: list, ffmpeg: str, pad: float
             (work / ass_name).write_text(build_ass(clip, speech_start, speech_end, clip_len, fmt),
                                          encoding="utf-8")
             out_tmp = work / f"out_{fmt}.mp4"
-            render_format(src, fmt, ass_name, out_tmp, work, ffmpeg)
-            if force and final.exists():
-                final.unlink()
-            if publish_file(out_tmp, final):
+            render_format(src, fmt, ass_name, out_tmp, work, ffmpeg)    # ffmpeg has exited: file closed
+            if force and final.exists() and not remove_file(final):
+                raise RuntimeError(f"can't replace {final.name}: it's open in another program")
+            if move_file(out_tmp, final):
                 made.append(final)
                 say(f"    saved {final.name}")
             else:
                 existing.append(fmt)
-        txt = folder / f"{clip_base(clip)}.txt"
-        if made and not txt.exists():
-            (work / "post.txt").write_text(txt_content(clip), encoding="utf-8")
-            publish_file(work / "post.txt", txt)
+    note = note_path(clip)
+    if made and not note.exists():
+        note.parent.mkdir(parents=True, exist_ok=True)
+        note.write_text(txt_content(clip), encoding="utf-8")
     return made, existing
 
 
 # --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
+
+def housekeeping(out_root: Path, days: int) -> None:
+    """Every run: move notes/logs out of the clips folder, then delete files
+    older than `days` there and in the app's notes/tmp folders. Never fatal."""
+    try:
+        tidy_clips_folder(out_root)
+        run_cleanup(out_root, days)
+    except Exception as e:
+        say(f"(cleanup skipped: {type(e).__name__}: {e})")
+
 
 def ask(prompt: str) -> str:
     try:
@@ -916,7 +1175,8 @@ def render_all(todo: list, out_root: Path, formats: list, ffmpeg: str, pad: floa
     say("=" * 60)
     say(f"Done. {len(made)} clip file(s) made, {already} already in the folder, "
         f"{len(low_conf)} quote(s) skipped (low confidence), {len(failures)} failed.")
-    say(f"Folder: {out_root}")
+    say(f"Clips folder: {out_root}")
+    say(f"Post text (draft posts + source links): {app_dir() / 'notes'}")
     if low_conf:
         say()
         say("Skipped because the quote couldn't be located reliably (not cut, to avoid a wrong clip):")
@@ -949,6 +1209,7 @@ def main(argv: list | None = None) -> int:
     ap.add_argument("--top", type=int, default=DEFAULT_TOP, help="default selection size")
     ap.add_argument("--yes", action="store_true", help="don't ask; use the default selection")
     ap.add_argument("--type", choices=CONTENT_TYPES, help="default selection from one type only")
+    ap.add_argument("--no-cleanup", action="store_true", help="skip the old-file cleanup")
     ap.add_argument("type_letter", nargs="?", default="",
                     help="P = pressers, D = podcasts, O = one-offs (same as --type)")
     args = ap.parse_args(argv)
@@ -966,6 +1227,9 @@ def main(argv: list | None = None) -> int:
     except ValueError as e:
         ap.error(str(e))
     interactive = sys.stdin.isatty() and not (args.yes or args.all or args.pick or args.type or args.url)
+
+    if not args.no_cleanup:
+        housekeeping(out_root, keep_days(settings))
 
     ffmpeg = check_tools(settings)
     if not ffmpeg:

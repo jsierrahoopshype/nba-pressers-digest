@@ -11,6 +11,7 @@ import plistlib
 import subprocess
 import sys
 import tempfile
+import time
 import unittest
 import urllib.error
 import xml.etree.ElementTree as ET
@@ -20,6 +21,8 @@ from unittest import mock
 HERE = Path(__file__).resolve().parent
 PV2 = HERE.parent
 sys.path.insert(0, str(PV2))
+# notes / logs / tmp of the app go to a throwaway folder, never the real one
+os.environ.setdefault("NBA_PRESSER_APP_DIR", tempfile.mkdtemp(prefix="npc_app_"))
 
 import make_presser_clips as mc  # noqa: E402
 import presser_clips_setup as setup_mod  # noqa: E402
@@ -119,9 +122,13 @@ class FormatTests(unittest.TestCase):
 class RenderTests(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
-        self.out = Path(self.tmp.name)
+        self.out = Path(self.tmp.name) / "clips"
+        self.app = Path(self.tmp.name) / "app"
+        self.env = mock.patch.dict(os.environ, {"NBA_PRESSER_APP_DIR": str(self.app)})
+        self.env.start()
 
     def tearDown(self):
+        self.env.stop()
         self.tmp.cleanup()
 
     def files(self):
@@ -134,8 +141,13 @@ class RenderTests(unittest.TestCase):
         self.assertEqual(fake.downloads, 1)
         self.assertEqual(existing, [])
         base = "2026-09-30/pressers/2026-09-30_cleveland-cavaliers_james-harden_J5unk3vEQmk-118s"
-        self.assertEqual(self.files(), [f"{base}.txt", f"{base}_square.mp4", f"{base}_vertical.mp4",
-                                        f"{base}_youtube.mp4"])
+        # the clips folder holds the finished clips and nothing else
+        self.assertEqual(self.files(), [f"{base}_square.mp4", f"{base}_vertical.mp4", f"{base}_youtube.mp4"])
+        # the post text sits in the app folder, same base name, by date
+        note = self.app / "notes" / "2026-09-30" / (base.rsplit("/", 1)[1] + ".txt")
+        self.assertIn("Harden on the Cavs", note.read_text(encoding="utf-8"))
+        # and the temp renders are gone
+        self.assertEqual(list((self.app / "tmp").iterdir()), [])
         self.assertEqual([p.name.rsplit("_", 1)[1] for p in made], ["vertical.mp4", "youtube.mp4", "square.mp4"])
         # second run: everything exists, nothing downloaded or rendered
         with fake.patch():
@@ -156,29 +168,161 @@ class RenderTests(unittest.TestCase):
         self.assertTrue(any(n.endswith("_vertical.mp4") for n in names))
         self.assertFalse(any(n.endswith("_youtube.mp4") or n.endswith(".partial") for n in names))
 
-    def test_publish_is_rename_and_never_overwrites_someone_elses_clip(self):
-        src = self.out / "local.mp4"
+    def test_move_is_one_rename_on_the_same_drive(self):
+        src = self.out.parent / "local.mp4"
         src.write_bytes(b"mine")
         final = self.out / "shared" / "clip_vertical.mp4"
         seen = []
         real_replace = os.replace
 
         def spy(a, b):
-            seen.append((Path(a).name, Path(b).name, Path(a).read_bytes()))
+            seen.append((Path(a).name, Path(b).name))
             real_replace(a, b)
         with mock.patch.object(mc.os, "replace", spy):
-            self.assertTrue(mc.publish_file(src, final))
+            self.assertTrue(mc.move_file(src, final))
+        self.assertEqual(seen, [("local.mp4", "clip_vertical.mp4")])
+        self.assertEqual((final.read_bytes(), src.exists()), (b"mine", False))
+
+    def test_move_across_drives_goes_through_a_partial_name(self):
+        src = self.out.parent / "local.mp4"
+        src.write_bytes(b"mine")
+        final = self.out / "clip_vertical.mp4"
+        seen = []
+        real_replace = os.replace
+
+        def cross_device(a, b):
+            if Path(a) == src:
+                err = OSError(18, "Invalid cross-device link")
+                err.winerror = 17
+                raise err
+            seen.append((Path(a).name, Path(b).name, Path(a).read_bytes()))
+            real_replace(a, b)
+        with mock.patch.object(mc.os, "replace", cross_device):
+            self.assertTrue(mc.move_file(src, final))
         self.assertEqual(seen, [("clip_vertical.mp4.partial", "clip_vertical.mp4", b"mine")])
+        self.assertEqual(sorted(p.name for p in self.out.iterdir()), ["clip_vertical.mp4"])
+        self.assertFalse(src.exists())
+
+    def test_move_never_overwrites_someone_elses_clip(self):
+        src = self.out.parent / "local.mp4"
+        src.write_bytes(b"mine")
+        final = self.out / "clip_vertical.mp4"
+        final.parent.mkdir(parents=True)
         final.write_bytes(b"theirs")
-        self.assertFalse(mc.publish_file(src, final))
-        self.assertEqual(final.read_bytes(), b"theirs")
-        self.assertEqual([p.name for p in final.parent.iterdir()], ["clip_vertical.mp4"])
+        self.assertFalse(mc.move_file(src, final))
+        self.assertEqual((final.read_bytes(), src.exists()), (b"theirs", False))
+
+    def test_busy_file_is_retried(self):
+        calls = []
+
+        def flaky(path):
+            calls.append(path)
+            if len(calls) < 3:
+                err = PermissionError(13, "being used by another process")
+                err.winerror = 32
+                raise err
+        with mock.patch.object(mc, "RETRY_WAITS", (0, 0, 0)), mock.patch.object(mc.os, "remove", flaky):
+            self.assertTrue(mc.remove_file(self.out / "x"))
+        self.assertEqual(len(calls), 3)
+
+        def always_busy(path):
+            err = PermissionError(13, "being used by another process")
+            err.winerror = 32
+            raise err
+        with mock.patch.object(mc, "RETRY_WAITS", (0, 0)), mock.patch.object(mc.os, "remove", always_busy):
+            self.assertFalse(mc.remove_file(self.out / "x"))
 
     def test_untrusted_dates_and_names_stay_inside_the_folder(self):
         clip = dict(CLIP, publish_date="../../etc", team="../..", speaker="..\\x")
         path = mc.output_path(self.out, clip, "vertical")
         self.assertTrue(str(path.resolve()).startswith(str(self.out.resolve())))
         self.assertNotIn("..", path.relative_to(self.out).as_posix())
+
+
+def make_file(path: Path, age_days: float, size: int = 10) -> Path:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_bytes(b"x" * size)
+    t = time.time() - age_days * 86400
+    os.utime(path, (t, t))
+    return path
+
+
+class CleanupTests(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.out = Path(self.tmp.name) / "clips"
+        self.app = Path(self.tmp.name) / "app"
+        self.env = mock.patch.dict(os.environ, {"NBA_PRESSER_APP_DIR": str(self.app)})
+        self.env.start()
+
+    def tearDown(self):
+        self.env.stop()
+        self.tmp.cleanup()
+
+    def test_keep_days(self):
+        self.assertEqual(mc.keep_days({}), 0)                          # no installer settings: never delete
+        self.assertEqual(mc.keep_days({"out_dir": "x"}), 7)
+        self.assertEqual(mc.keep_days({"out_dir": "x", "keep_days": 0}), 0)
+        self.assertEqual(mc.keep_days({"out_dir": "x", "keep_days": "30"}), 30)
+
+    def test_old_files_and_empty_folders_go_new_ones_stay(self):
+        old = make_file(self.out / "2026-09-20" / "pressers" / "a_vertical.mp4", 9, 1000)
+        stray = make_file(self.out / "2026-09-20" / "random.docx", 8, 24)
+        new = make_file(self.out / "2026-09-30" / "pressers" / "b_vertical.mp4", 1)
+        old_note = make_file(self.app / "notes" / "2026-09-20" / "a.txt", 9)
+        new_note = make_file(self.app / "notes" / "2026-09-30" / "b.txt", 1)
+        old_tmp = make_file(self.app / "tmp" / "render_x" / "src.mp4", 8)
+        n, freed = mc.run_cleanup(self.out, 7)
+        self.assertEqual((n, freed), (4, 1000 + 24 + 10 + 10))
+        for gone in (old, stray, old_note, old_tmp):
+            self.assertFalse(gone.exists(), gone)
+        self.assertTrue(new.exists() and new_note.exists())
+        self.assertFalse((self.out / "2026-09-20").exists())            # empty subfolders removed
+        self.assertTrue(self.out.is_dir())                              # never the clips folder itself
+        log = (self.app / "logs" / "cleanup-log.txt").read_text(encoding="utf-8")
+        self.assertIn("Cleanup: deleted 2 file(s) older than 7 days from the clips folder", log)
+        self.assertIn("a_vertical.mp4", log)
+
+    @unittest.skipIf(os.name == "nt", "symlinks need extra rights on Windows")
+    def test_cleanup_never_follows_a_link_out_of_the_folder(self):
+        outside = make_file(Path(self.tmp.name) / "elsewhere" / "precious.mp4", 30)
+        self.out.mkdir(parents=True)
+        os.symlink(outside.parent, self.out / "link")
+        mc.run_cleanup(self.out, 7)
+        self.assertTrue(outside.exists())
+
+    def test_zero_days_and_unsafe_folders_delete_nothing(self):
+        old = make_file(self.out / "a.mp4", 100)
+        self.assertEqual(mc.run_cleanup(self.out, 0), (0, 0))
+        self.assertTrue(old.exists())
+        with mock.patch.object(mc, "unsafe_clips_folder", lambda p: "that folder holds other files"):
+            self.assertEqual(mc.cleanup_old_files(self.out, 7, "x"), (0, 0))
+        self.assertTrue(old.exists())
+
+    def test_notes_and_logs_move_out_of_the_clips_folder(self):
+        clip = make_file(self.out / "2026-09-30" / "pressers" / "b_vertical.mp4", 1)
+        note = make_file(self.out / "2026-09-30" / "pressers" / "b.txt", 1)
+        make_file(self.out / "pc-job-log.txt", 1)
+        make_file(self.out / "_made.json", 1)
+        self.assertEqual(mc.tidy_clips_folder(self.out), 3)
+        files = sorted(p.relative_to(self.out).as_posix() for p in self.out.rglob("*") if p.is_file())
+        self.assertEqual(files, ["2026-09-30/pressers/b_vertical.mp4"])
+        self.assertTrue((self.app / "notes" / "2026-09-30" / "b.txt").is_file())
+        self.assertTrue((self.app / "logs" / "pc-job-log.txt").is_file())
+        self.assertTrue((self.app / "logs" / "_made.json").is_file())
+        self.assertTrue(clip.exists() and not note.exists())
+
+    def test_main_tidies_and_cleans_before_rendering(self):
+        make_file(self.out / "2026-09-01" / "pressers" / "old_vertical.mp4", 30)
+        make_file(self.out / "2026-09-30" / "pressers" / "b.txt", 1)
+        settings = Path(self.tmp.name) / "settings.json"
+        settings.write_text(json.dumps({"out_dir": str(self.out), "keep_days": 7}))
+        manifest = Path(self.tmp.name) / "m.json"
+        manifest.write_text(json.dumps({"clips": []}))
+        with mock.patch.object(mc, "check_tools", lambda s=None: "ffmpeg"):
+            mc.main(["--yes", "--settings", str(settings), "--manifest", str(manifest)])
+        self.assertEqual([p for p in self.out.rglob("*") if p.is_file()], [])
+        self.assertTrue((self.app / "notes" / "2026-09-30" / "b.txt").is_file())
 
 
 class UrlTests(unittest.TestCase):
@@ -242,11 +386,11 @@ class MainTests(unittest.TestCase):
 
 
 class SetupTests(unittest.TestCase):
-    def test_three_questions_write_settings(self):
+    def test_four_questions_write_settings(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)
             target = tmp / "My Drive" / "Social & clips"
-            answers = iter([f'"{target}"', "vs", "y"])
+            answers = iter([f'"{target}"', "14", "vs", "y"])
             with mock.patch.object(setup_mod, "APP_DIR", tmp), \
                     mock.patch.object(setup_mod, "ask", lambda prompt: next(answers)), \
                     mock.patch.multiple(setup_mod, make_desktop_shortcut=lambda: "desktop",
@@ -255,13 +399,14 @@ class SetupTests(unittest.TestCase):
                 self.assertEqual(setup_mod.setup(), 0)
             settings = json.loads((tmp / "settings.json").read_text())
             self.assertTrue(target.is_dir())
-        self.assertEqual((settings["out_dir"], settings["formats"], settings["auto_run"]),
-                         (str(target), ["vertical", "square"], True))
+            self.assertEqual(list(target.iterdir()), [])          # the write test left nothing behind
+        self.assertEqual((settings["out_dir"], settings["keep_days"], settings["formats"], settings["auto_run"]),
+                         (str(target), 14, ["vertical", "square"], True))
 
     def test_enter_takes_the_defaults(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)
-            answers = iter(["", "", ""])
+            answers = iter(["", "", "", ""])
             with mock.patch.object(setup_mod, "APP_DIR", tmp), \
                     mock.patch.object(setup_mod, "ask", lambda prompt: next(answers)), \
                     mock.patch.object(mc, "default_out_dir", lambda: tmp / "Documents" / "presser-clips"), \
@@ -270,7 +415,25 @@ class SetupTests(unittest.TestCase):
                 setup_mod.setup()
             settings = json.loads((tmp / "settings.json").read_text())
         self.assertEqual(settings["out_dir"], str(tmp / "Documents" / "presser-clips"))
-        self.assertEqual((settings["formats"], settings["auto_run"]), (["vertical", "youtube", "square"], False))
+        self.assertEqual((settings["keep_days"], settings["formats"], settings["auto_run"]),
+                         (7, ["vertical", "youtube", "square"], False))
+
+    def test_folder_check_closes_its_test_file_and_accepts_an_undeletable_one(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            folder = Path(tmp) / "C presser-clips ñ"
+            self.assertEqual(setup_mod.check_folder(folder), "")
+            self.assertEqual(list(folder.iterdir()), [])
+            with mock.patch.object(mc, "remove_file", lambda p: False):    # delete keeps failing
+                self.assertEqual(setup_mod.check_folder(folder), "")
+            self.assertNotEqual(setup_mod.check_folder(Path("relative/clips")), "")
+
+    def test_folders_with_other_files_are_refused(self):
+        home = Path.home()
+        for bad in (home, home / "Documents", home / "Desktop", Path(home.anchor),
+                    home / "Library" / "CloudStorage" / "GoogleDrive-x" / "My Drive"):
+            self.assertIn("other files" if bad != Path(home.anchor) else "drive",
+                          setup_mod.check_folder(bad), str(bad))
+        self.assertEqual(mc.unsafe_clips_folder(home / "Documents" / "presser-clips"), "")
 
     def test_pasted_folder_forms(self):
         self.assertEqual(setup_mod.clean_folder_answer('  "D:\\Shared drives\\Clips"  ')[-5:], "Clips")

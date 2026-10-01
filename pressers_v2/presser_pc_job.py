@@ -11,6 +11,9 @@ Two ways it gets installed:
     Scheduler runs it 30 minutes after each cloud run and it renders vertical
     clips into <home>\\Documents\\presser-clips, as before.
 
+Every run first tidies the clips folder (notes and logs move to the app
+folder) and deletes files older than keep_days (default 7).
+
 Each run renders the top 10 quotes by news_score from the latest clip list
 (clips already in the folder are skipped). Before each cut the clipper aligns
 the quote on the video's captions locally (or Whisper), so cuts are exact.
@@ -40,6 +43,8 @@ FALLBACK_CRON_UTC = ["06:15", "14:15", "20:15"]   # used only if the workflow ca
 DELAY_AFTER_CRON_MIN = 30
 
 APP_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(APP_DIR))
+import make_presser_clips as mc  # noqa: E402
 SETTINGS_PATH = APP_DIR / "settings.json"
 TOP_CLIPS = 10
 LOG_MAX_BYTES = 2_000_000
@@ -59,18 +64,20 @@ if SETTINGS.get("out_dir"):
     # installed by install-presser-clips (any computer)
     WORK = APP_DIR
     CLIPS_ROOT = Path(SETTINGS["out_dir"])
-    LOG_PATH = APP_DIR / "auto-log.txt"     # per computer, never in a shared clips folder
     FORMATS = ",".join(f for f in SETTINGS.get("formats") or [] if f in ("vertical", "youtube", "square")) \
         or "vertical,youtube,square"
 else:
     # the older Windows install-presser-pc-job.bat layout: vertical only, as before
     WORK = HOME / "Documents" / "nba-pressers-digest-pc"
     CLIPS_ROOT = HOME / "Documents" / "presser-clips"
-    LOG_PATH = CLIPS_ROOT / "pc-job-log.txt"
     FORMATS = "vertical"
 STATE_PATH = WORK / "last-auto-run.txt"
+# Logs live in the per-user app folder (never in the clips folder, which may
+# be shared): %LOCALAPPDATA%\\NBA Presser Clips\\logs or
+# ~/Library/Application Support/NBA Presser Clips/logs.
+LOG_PATH = mc.app_dir() / "logs" / "pc-job-log.txt"
+KEEP_DAYS = mc.keep_days(SETTINGS)
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 
 def log(msg: str) -> None:
@@ -82,7 +89,7 @@ def log(msg: str) -> None:
     try:
         LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
         if LOG_PATH.is_file() and LOG_PATH.stat().st_size > LOG_MAX_BYTES:
-            LOG_PATH.replace(LOG_PATH.with_suffix(".old.txt"))
+            mc.with_retry(os.replace, str(LOG_PATH), str(LOG_PATH.with_suffix(".old.txt")))
         with LOG_PATH.open("a", encoding="utf-8") as f:
             f.write(line + "\n")
     except OSError:
@@ -179,10 +186,7 @@ class Lock:
         return self
 
     def __exit__(self, *exc):
-        try:
-            self.path.unlink()
-        except OSError:
-            pass
+        mc.remove_file(self.path)
 
 
 def latest_run_id(mc) -> str:
@@ -193,8 +197,22 @@ def latest_run_id(mc) -> str:
         return ""
 
 
+def housekeeping() -> None:
+    """Every run, new cloud run or not: notes/logs out of the clips folder,
+    then delete files older than KEEP_DAYS (clips folder, notes, tmp)."""
+    try:
+        moved = mc.tidy_clips_folder(CLIPS_ROOT)
+        if moved:
+            log(f"Moved {moved} note/log file(s) out of {CLIPS_ROOT} into {mc.app_dir()}")
+        n, freed = mc.run_cleanup(CLIPS_ROOT, KEEP_DAYS)
+        if n:
+            log(f"Cleanup: deleted {n} file(s) older than {KEEP_DAYS} days, freed {mc.human_size(freed)}")
+    except Exception as e:
+        log(f"[!] cleanup skipped: {type(e).__name__}: {e}")
+
+
 def run_job(only_new: bool = False) -> int:
-    import make_presser_clips as mc
+    housekeeping()
     run_id = ""
     if only_new:
         run_id = latest_run_id(mc)
@@ -210,7 +228,7 @@ def run_job(only_new: bool = False) -> int:
         log("[X] ffmpeg not found. Fix: run the installer again (it repairs the setup).")
         return 2
     cmd = [sys.executable, str(Path(mc.__file__).resolve()), "--yes", "--top", str(TOP_CLIPS),
-           "--out", str(CLIPS_ROOT), "--formats", FORMATS, "--manifest", mc.MANIFEST_URL]
+           "--out", str(CLIPS_ROOT), "--formats", FORMATS, "--manifest", mc.MANIFEST_URL, "--no-cleanup"]
     log(f"Rendering the top {TOP_CLIPS} clips by news score ({FORMATS}) into {CLIPS_ROOT}...")
     res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace",
                          stdin=subprocess.DEVNULL, timeout=3 * 3600)

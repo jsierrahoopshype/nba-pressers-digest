@@ -68,8 +68,9 @@ ffmpeg, a private venv with yt-dlp, deno and faster-whisper, downloads the
 app into `%LOCALAPPDATA%\NBA Presser Clips` or
 `~/Library/Application Support/NBA Presser Clips`, and asks: save folder
 (default `<home>/Documents/presser-clips`; shared Drive/OneDrive/Dropbox
-folders work), default formats (Enter = all three) and automatic mode (Y/N,
-default N). Answers go to `settings.json` in the app folder. It also puts an
+folders work, as long as the folder is used only for clips), days to keep
+files (Enter = 7, 0 = never), default formats (Enter = all three) and
+automatic mode (Y/N, default N). Answers go to `settings.json` in the app folder. It also puts an
 **NBA Presser Clips** shortcut on the desktop. Re-running it updates and asks
 again. The Pages copies in `docs/presser-clips/` are rebuilt with
 `python pressers_v2/tools/build_installers.py` (a test checks they match).
@@ -91,17 +92,37 @@ top-left and captions along the bottom edge.
 captions via yt-dlp, else Whisper on the 90 seconds around it) and cuts with
 0.5s padding. A low-confidence match is skipped, not cut.
 
-**Files.** `<folder>/<video date>/pressers|podcasts|oneoffs/<date>_<team>_<speaker>_<videoid>-<start>s_<format>.mp4`
-plus one `.txt` per quote (draft post, source link, quote). Names depend only
-on the quote, so an existing file is never rendered again (per format), also
-when several people share the folder. Each file is written as `.partial` and
-renamed when complete.
+**Files.** The clips folder holds finished clips only:
+`<folder>/<video date>/pressers|podcasts|oneoffs/<date>_<team>_<speaker>_<videoid>-<start>s_<format>.mp4`.
+Everything else lives in the per-user app folder (`%LOCALAPPDATA%\NBA Presser Clips`
+or `~/Library/Application Support/NBA Presser Clips`): the post text in
+`notes/<date>/<same base name>.txt`, logs in `logs/`, renders in `tmp/`.
+Names depend only on the quote, so an existing file is never rendered again
+(per format), also when several people share the folder. A finished render
+moves into the clips folder in one rename (same drive) or via a `.partial`
+copy that's renamed (another drive, e.g. Google Drive G:). Every move and
+delete retries when Windows reports the file as busy (WinError 32/5). Notes
+and logs left in the clips folder by earlier versions are moved to the app
+folder on the next run.
+
+**Cleanup.** Every run (shortcut or automatic) deletes files older than
+`keep_days` (install question, default 7, 0 = never) from the clips folder,
+`notes/` and `tmp/`, removes empty subfolders, and prints/logs what it freed
+(`logs/cleanup-log.txt`). The installer refuses folders that obviously hold
+other files (a drive root, home, Documents, Desktop, Downloads, a Drive /
+OneDrive / Dropbox root). Without an installer `settings.json` nothing is
+deleted.
 
 **Automatic mode.** Task Scheduler (Windows) or launchd (Mac) starts
 `presser_pc_job.py --only-new` every 30 minutes while you're logged in; it
-renders the top 10 in the default formats only when the clip list shows a new
-cloud run. Log: `auto-log.txt` in the app folder. Nothing is written to
-GitHub.
+cleans up, then renders the top 10 in the default formats only when the clip
+list shows a new cloud run. Log: `logs/pc-job-log.txt` in the app folder.
+Nothing is written to GitHub.
+
+**Windows CI.** `pressers-v2-tests.yml` also runs on `windows-latest`: the
+installer's folder check, a real ffmpeg render moved into `C:\` from the
+app folder on `D:`, the cleanup, the setup questions with typed answers, and
+the whole test suite.
 
 **Older Windows tools.** `make-presser-clips.bat` and the earlier
 `install-presser-pc-job.bat` job still work (the job keeps rendering vertical
