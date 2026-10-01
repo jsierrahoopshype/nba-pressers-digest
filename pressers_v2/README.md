@@ -95,6 +95,32 @@ Optional flags (add after the .bat name in a terminal):
 If YouTube downloads fail with "Sign in to confirm" or JavaScript errors,
 install Deno once: `winget install --id DenoLand.Deno -e`.
 
+## Unattended PC job (optional)
+
+YouTube blocks GitHub's servers from reading captions, but not your PC. The PC
+job runs on its own 30 minutes after each cloud run (06:45, 14:45, 20:45 UTC,
+only while the PC is on and you're logged in, no window), and:
+
+1. fetches captions with yt-dlp for every quote that isn't caption-aligned and
+   finds its exact start/end (`timestamp_source: "captions-pc"`);
+2. commits the corrected times to this repo through the GitHub API (the
+   video's .json/.md, the day digests, `latest_clips.json`, and the `docs/`
+   mirror). A file that changed on GitHub meanwhile is re-read and retried
+   once, then skipped and logged. The cloud never overwrites a `captions-pc`
+   time;
+3. writes `output/pc_alignment_report.json`: Gemini time vs real time per
+   quote, plus median / p90 difference per cloud run;
+4. renders the top 10 clips by news score into
+   `Documents\presser-clips\<date>\pressers|podcasts|oneoffs\`;
+5. logs to `Documents\presser-clips\pc-job-log.txt`.
+
+Install: download `install-presser-pc-job.bat` from this folder, double-click
+it, paste a fine-grained GitHub token when asked (repository: only
+nba-pressers-digest; permissions: Contents read & write, Actions read). The
+token is stored in `%USERPROFILE%\.nba-pressers\token`, never in the repo.
+Each run downloads the latest job/clipper files from `main` first. To remove
+it: `schtasks /delete /tn "NBA Pressers PC Job" /f`.
+
 ## Tuning
 
 Edit `pressers_v2/config.json`: title keywords (include/exclude), 48h window,
