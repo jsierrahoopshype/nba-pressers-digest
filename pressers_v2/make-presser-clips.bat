@@ -1,6 +1,8 @@
 @echo off
 setlocal
 title NBA presser clip maker
+rem Usage: double-click, or run  make-presser-clips.bat P  (pressers only),
+rem        D (podcasts & shows only), O (one-offs only). Any other flags pass through.
 cd /d "%~dp0"
 echo ============================================
 echo   NBA presser clip maker

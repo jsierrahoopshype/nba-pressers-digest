@@ -12,8 +12,9 @@ pick-list (news score, speaker, team, angle) and, for each chosen clip:
   2. ffmpeg renders a 1080x1920 vertical MP4: blurred-background fill, the
      original frame centred, a speaker/team lower third and burned-in
      captions built from the quote text in short chunks.
-  3. Saves <out>\\<YYYY-MM-DD>\\<date>_<team>_<speaker>_<n>.mp4 plus a
-     matching .txt with the social post and source URL.
+  3. Saves <out>\\<YYYY-MM-DD>\\<pressers|podcasts|oneoffs>\\
+     <date>_<team>_<speaker>_<n>.mp4 plus a matching .txt with the social post
+     and source URL.
 
 Clips already made (tracked in <out>\\_made.json) are skipped, so running it
 several times a day only renders the new ones. Failed clips are skipped and
@@ -21,6 +22,8 @@ listed at the end.
 
 Normally started by double-clicking make-presser-clips.bat, which asks which
 clips to render (Enter = top 10 by news score from the latest run). Options:
+    P / D / O         (bare argument) top 10 pressers / podcasts / one-offs
+    --type TYPE       same, as presser / podcast / oneoff
     --all             render every clip in the list
     --pick 1,3,5-7    render these numbers from the printed list
     --top N           default selection size (10)
@@ -274,29 +277,57 @@ def parse_pick(spec: str, n: int) -> list:
     return out
 
 
+CONTENT_TYPES = ("presser", "podcast", "oneoff")
+TYPE_LABELS = {"presser": "PRESS CONFERENCES", "podcast": "PODCASTS & SHOWS", "oneoff": "ONE-OFFS"}
+TYPE_FOLDERS = {"presser": "pressers", "podcast": "podcasts", "oneoff": "oneoffs"}
+TYPE_LETTERS = {"p": "presser", "d": "podcast", "o": "oneoff"}
+
+
+def clip_type(c: dict) -> str:
+    t = c.get("content_type")
+    return t if t in CONTENT_TYPES else "presser"   # clips from before content types
+
+
+def _score(c: dict) -> int:
+    try:
+        return int(c.get("news_score"))
+    except (TypeError, ValueError):
+        return 0
+
+
 def order_clips(manifest: dict, clips: list) -> tuple:
-    """Latest run first, then by news_score (highest first). Returns
+    """Grouped by type (pressers, podcasts, one-offs); inside each group the
+    latest run first, then news_score (highest first). Returns
     (ordered clips, latest_run_id, count of clips from the latest run)."""
     latest = manifest.get("latest_run_id") or ""
     if not latest:
         dated = [c for c in clips if c.get("run_id")]
         if dated:
             latest = max(dated, key=lambda c: c.get("processed_at") or "")["run_id"]
-
-    def score(c):
-        try:
-            return int(c.get("news_score"))
-        except (TypeError, ValueError):
-            return 0
-
-    ordered = sorted(clips, key=lambda c: (latest and c.get("run_id") == latest, score(c)), reverse=True)
+    ordered = sorted(clips, key=lambda c: (CONTENT_TYPES.index(clip_type(c)),
+                                           not (latest and c.get("run_id") == latest), -_score(c)))
     n_latest = sum(1 for c in clips if latest and c.get("run_id") == latest)
     return ordered, latest, n_latest
 
 
+def default_selection(ordered: list, latest: str, top: int, ctype: str | None = None) -> list:
+    """1-based list numbers of the top N by news_score from the latest run
+    (overall, or only one content type). Falls back to all clips when the
+    latest run has none of that type."""
+    pool = [(i, c) for i, c in enumerate(ordered, start=1) if ctype is None or clip_type(c) == ctype]
+    recent = [(i, c) for i, c in pool if latest and c.get("run_id") == latest]
+    pool = recent or pool
+    best = sorted(pool, key=lambda ic: -_score(ic[1]))[:top]
+    return sorted(i for i, _ in best)
+
+
 def print_pick_list(ordered: list, latest: str, done_ids: set) -> None:
-    say(f"{'#':>3}  {'score':>5}  {'':4}  {'speaker':<24} {'team':<22} angle")
+    current = None
     for i, c in enumerate(ordered, start=1):
+        if clip_type(c) != current:
+            current = clip_type(c)
+            say(f"\n  {TYPE_LABELS[current]}")
+            say(f"{'#':>3}  {'score':>5}  {'':4}  {'speaker':<24} {'team':<22} angle")
         sc = c.get("news_score")
         tag = "NEW " if latest and c.get("run_id") == latest else "    "
         if c.get("clip_id") in done_ids:
@@ -502,6 +533,8 @@ def make_clip(clip: dict, day_dir: Path, today: str, ffmpeg: str, pad: float) ->
     clip_len = dl_end - dl_start
 
     base = f"{today}_{slug(clip.get('team'), 'team')}_{slug(clip.get('speaker'), 'speaker')}"
+    day_dir = day_dir / TYPE_FOLDERS[clip_type(clip)]
+    day_dir.mkdir(parents=True, exist_ok=True)
     stem = next_free_stem(day_dir, base)
     with tempfile.TemporaryDirectory(prefix="presser_") as tmp:
         work = Path(tmp)
@@ -531,7 +564,15 @@ def main() -> int:
     ap.add_argument("--pick", default="", help="numbers from the list, e.g. 1,3,5-7")
     ap.add_argument("--top", type=int, default=DEFAULT_TOP, help="default selection size")
     ap.add_argument("--yes", action="store_true", help="don't ask; use the default selection")
+    ap.add_argument("--type", choices=CONTENT_TYPES, help="default selection from one type only")
+    ap.add_argument("type_letter", nargs="?", default="",
+                    help="P = pressers, D = podcasts, O = one-offs (same as --type)")
     args = ap.parse_args()
+    if args.type_letter:
+        letter = args.type_letter.strip().lower()[:1]
+        if letter not in TYPE_LETTERS:
+            ap.error("type must be P (pressers), D (podcasts) or O (one-offs)")
+        args.type = TYPE_LETTERS[letter]
 
     ffmpeg = check_tools()
     if not ffmpeg:
@@ -567,25 +608,28 @@ def main() -> int:
     say()
     print_pick_list(ordered, latest, done_ids)
     say()
-    default_n = min(args.top, n_latest) if n_latest else min(args.top, len(ordered))
-    default_desc = (f"top {default_n} by news score from the latest run ({latest})" if n_latest
-                    else f"top {default_n} by news score")
-
     if args.all:
         chosen = list(range(1, len(ordered) + 1))
     elif args.pick:
         chosen = parse_pick(args.pick, len(ordered))
-    elif args.yes or not sys.stdin.isatty():
-        chosen = list(range(1, default_n + 1))
+    elif args.type or args.yes or not sys.stdin.isatty():
+        chosen = default_selection(ordered, latest, args.top, args.type)
     else:
-        say(f"Press Enter for the {default_desc},")
-        say("type ALL for every clip, or type numbers like 1,3,5-7:")
+        say(f"Enter = top {args.top} overall by news score from the latest run"
+            + (f" ({latest})" if n_latest else ""))
+        say(f"P = top {args.top} pressers, D = top {args.top} podcasts, O = top {args.top} one-offs")
+        say("ALL = every clip, or type numbers like 1,3,5-7")
         while True:
             answer = input("> ").strip()
             if not answer:
-                chosen = list(range(1, default_n + 1))
+                chosen = default_selection(ordered, latest, args.top)
             elif answer.lower() == "all":
                 chosen = list(range(1, len(ordered) + 1))
+            elif answer.lower() in TYPE_LETTERS:
+                chosen = default_selection(ordered, latest, args.top, TYPE_LETTERS[answer.lower()])
+                if not chosen:
+                    say("  No clips of that type. Try again.")
+                    continue
             else:
                 try:
                     chosen = parse_pick(answer, len(ordered))

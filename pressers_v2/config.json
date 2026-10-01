@@ -44,6 +44,40 @@
     "every basket",
     "every dunk"
   ],
+  "content_type_keywords": {
+    "_comment": "Checked in order, whole words, first match wins. podcast is listed first so a title like 'Chase Down Podcast Live: Media Day Reactions' counts as a podcast even though it says 'media day'. Titles with no match fall back to Gemini's content_type. extra_videos are always 'oneoff'.",
+    "podcast": [
+      "podcast",
+      "show",
+      "livestream",
+      "live stream",
+      "broadcast",
+      "reaction",
+      "reactions",
+      "roundup",
+      "live"
+    ],
+    "presser": [
+      "press conference",
+      "presser",
+      "media availability",
+      "availability",
+      "media day",
+      "postgame",
+      "post-game",
+      "post game",
+      "pregame",
+      "pre-game",
+      "pre game",
+      "shootaround",
+      "practice",
+      "interview",
+      "speaks",
+      "talks",
+      "previews",
+      "introductory"
+    ]
+  },
   "channels": [
     {
       "team": "Atlanta Hawks",

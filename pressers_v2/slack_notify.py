@@ -107,7 +107,7 @@ def post_digest(payload: dict) -> bool:
                 lines.append(f"• {slack_escape(dv.get('title') or dv['video_id'])} "
                              f"({slack_escape(dv.get('channel') or '')}): {url}")
     n = len(items)
-    summary = f"Processed {n} presser{'s' if n != 1 else ''}"
+    summary = f"Processed {n} video{'s' if n != 1 else ''}"
     if one_off_count:
         summary += f" ({n - one_off_count} from team channels, {one_off_count} one-off)"
     lines.append(summary + f". {clip_count} clip(s) in the 48h manifest.")
@@ -115,19 +115,35 @@ def post_digest(payload: dict) -> bool:
         lines.append(digest_link(d, run_slot))
     lines.append(f"Clip manifest: {manifest_raw_url()}")
 
-    for it in items:
-        title = slack_escape(it.get("title") or it.get("video_id") or "")
-        channel = slack_escape(it.get("channel") or "")
-        speaker = slack_escape((it.get("speaker") or "").strip())
-        quote = slack_escape(_truncate(it.get("top_quote") or ""))
-        post = slack_escape(_truncate(it.get("social_post") or "", 280))
+    # Same grouping and order as the digest; empty groups are skipped.
+    groups = [("presser", "Press conferences"), ("podcast", "Podcasts & shows"), ("oneoff", "One-offs")]
+    known = {g for g, _ in groups}
+    ordered = []
+    for ctype, label in groups:
+        members = [it for it in items if (it.get("content_type") if it.get("content_type") in known
+                                          else "presser") == ctype]
+        if members:
+            ordered.append((label, members))
+    for label, members in ordered:
         lines.append("")
-        lines.append(f"🎙️ *{title}* ({channel}), {int(it.get('clip_count') or 0)} clip(s)")
-        if quote:
-            lines.append(f'Top quote: "{quote}"' + (f" ({speaker})" if speaker else ""))
-        if post:
-            lines.append(f"Draft post: {post}")
+        lines.append(f"*{label}* ({len(members)})")
+        for it in members:
+            lines.extend(_item_lines(it))
     return _post({"text": "\n".join(lines)})
+
+
+def _item_lines(it: dict) -> list:
+    title = slack_escape(it.get("title") or it.get("video_id") or "")
+    channel = slack_escape(it.get("channel") or "")
+    speaker = slack_escape((it.get("speaker") or "").strip())
+    quote = slack_escape(_truncate(it.get("top_quote") or ""))
+    post = slack_escape(_truncate(it.get("social_post") or "", 280))
+    lines = ["", f"🎙️ *{title}* ({channel}), {int(it.get('clip_count') or 0)} clip(s)"]
+    if quote:
+        lines.append(f'Top quote: "{quote}"' + (f" ({speaker})" if speaker else ""))
+    if post:
+        lines.append(f"Draft post: {post}")
+    return lines
 
 
 def main() -> int:

@@ -1,0 +1,24 @@
+name: Pressers v2 tests
+
+# Offline unit tests (Gemini mocked, no network, no secrets).
+on:
+  pull_request:
+    paths:
+      - 'pressers_v2/**'
+      - '.github/workflows/pressers-v2-tests.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - run: pip install -r pressers_v2/requirements.txt
+      - run: python -m unittest discover -s pressers_v2/tests -v
