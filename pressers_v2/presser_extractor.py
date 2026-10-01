@@ -1,28 +1,29 @@
 """
-NBA pressers v2 — press-conference quotes + clip manifest.
+NBA pressers v2: press-conference quotes + clip manifest.
 
-Polls the 30 NBA team YouTube channels via the YouTube Data API v3, keeps
-only press conference / postgame / pregame / media availability videos
-published in the last 48h, sends each one to Gemini and saves:
+Polls the 30 NBA team YouTube channels via the YouTube Data API, keeps
+press conference / postgame / pregame / media availability videos from the
+last 48h, and extracts quotes with hoopshype-yt-quotes' own code (vendored
+byte for byte in ytq_vendor.py: same prompt, config, MM:SS timestamps,
+chunking, splitter and markdown renderer). The only prompt change is the
+appended speaker-naming rule.
 
-  pressers_v2/output/<publish-date>/<video_id>.md / .json   per-video quotes
-  pressers_v2/output/<publish-date>/digest.md               aggregate digest
-  pressers_v2/output/<publish-date>/digest-<slot>.md        this run's digest
-  pressers_v2/output/latest_clips.json                      rolling clip manifest
-  pressers_v2/output/clips/<run-date>.json                  dated manifest copy
+On top of that, one text-only Gemini call per video (no video input)
+derives the clip fields: speaker_confidence, news_score, social_post and
+the video's content_type. End time = start + estimated speech duration.
 
-Approach mirrors jsierrahoopshype/hoopshype-yt-quotes (quote_extractor.py):
-same Gemini model, same 5-step retry, 503/500 deferral, spending-cap abort,
-long-video chunking, hallucination title guard, filesystem-as-database
-"already processed" check, and Slack payload posted after git push.
+Outputs (pressers_v2/output/):
+  <publish-date>/<video_id>.md / .json   yt-quotes format (+ clip fields in the JSON)
+  <publish-date>/digest.md, digest-<slot>.md
+                                         sections: Press conferences /
+                                         Podcasts & shows / One-offs
+  latest_clips.json, clips/<date>.json   clip manifest (named speakers only)
 
 Usage (from repo root):
     python pressers_v2/presser_extractor.py
 """
 
-import html
 import json
-import math
 import os
 import re
 import signal
@@ -31,206 +32,81 @@ import threading
 import time
 import traceback
 import unicodedata
-from difflib import SequenceMatcher
-from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed, wait
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
-
-import caption_align
 from google import genai
 from google.genai import types
 
+import ytq_vendor as ytq
 
 load_dotenv()
 
-MODEL = "gemini-3.1-flash-lite"
+MODEL = ytq.MODEL
 ROOT = Path(__file__).resolve().parent
-OUTPUT_DIR = ROOT / "output"
+OUTPUT_DIR = ytq.OUTPUT_DIR                       # pressers_v2/output (same object yt-quotes code writes to)
 CONFIG_PATH = ROOT / "config.json"
 LATEST_CLIPS_PATH = OUTPUT_DIR / "latest_clips.json"
 CLIPS_ARCHIVE_DIR = OUTPUT_DIR / "clips"
 SLACK_PAYLOAD_PATH = ROOT / ".slack_payload.json"
 WATCH_URL_TEMPLATE = "https://www.youtube.com/watch?v={video_id}"
 YT_API_BASE = "https://www.googleapis.com/youtube/v3"
+FORMAT_VERSION = "ytq-1"
 
 VIDEO_ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
 DAY_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
-PROMPT = """You are watching a video from an NBA team's official YouTube channel: a press conference, postgame or pregame media availability, practice/shootaround availability, or similar media session. Extract the quotes a news desk would clip into short vertical social videos and write up as news.
-
-WHAT TO PICK
-- Prefer quotes with news: injury updates and timelines, lineup or rotation changes, minutes restrictions, trade or free-agency comments, contract talk, criticism of teammates, officials or opponents, admissions of mistakes, bold predictions, strong opinions, emotional moments, memorable one-liners, specific praise that says something new about a player.
-- Skip: generic cliches ("we just have to execute", "credit to them", "one game at a time"), play-by-play recaps with no insight, reporters' questions, PR staff intros, dead air.
-- How many: 2-6 quotes for a video under 10 minutes, up to 10 for 10-30 minutes, up to 15 for longer videos. Hard cap: 15 per request. Do not pad with weak quotes. Return an empty array only when nothing is newsworthy.
-
-CLIP RULES (each quote becomes a standalone vertical video clip)
-- Each quote is ONE contiguous span of a single speaker answering. Never stitch separate passages together.
-- "timestamp": the start timestamp in MM:SS or H:MM:SS format pointing at the moment the speaker says the first word of the quote (not the reporter's question).
-- "end_timestamp": MM:SS or H:MM:SS of the moment the speaker finishes the last word of the quote.
-- Aim for 15-60 seconds between the two. If a great line is shorter than 15 seconds, include the neighbouring sentences of the same answer so the clip makes sense on its own. If the answer runs longer than 60 seconds, pick the strongest self-contained stretch.
-- Self-contained: a viewer with zero context must understand the clip. Start at the beginning of a sentence and end at the end of a sentence.
-- Timestamps are relative to the start of the video (or of the slice, see CHUNK CONTEXT if present). The "text" must be exactly what is said between the two timestamps.
-
-TEXT
-- "text": the VERBATIM words the speaker says between timestamp and end_timestamp, in order. Remove only "uh", "um" and stuttered repeats ("the the"). Do not paraphrase, summarize, reorder or tidy grammar. This text is burned into the clip as captions, so it must match the audio.
-- PLAYER NAMES: use standard NBA reporting spellings (Mikal Bridges not Michael, Karl-Anthony Towns, Scottie Barnes, Jrue Holiday, Donovan Mitchell, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum, Shai Gilgeous-Alexander, Victor Wembanyama). Apply this to all names across the league.
-- "speaker": SPEAKER NAMING RULE. Only name a speaker if THIS VIDEO identifies them by name: an on-screen name graphic or chyron, the speaker being introduced by name, someone addressing them by name, or the video title naming the single person at the podium (e.g. "James Harden Media Availability": James Harden is the podium speaker, so his quotes are "named"; "Coach Nurse" in a title names Nick Nurse). Otherwise write exactly "Unidentified speaker". Do NOT guess from voice, appearance, job title, team, or who "usually" does these pressers. A coach being discussed or quoted by podcast hosts is not the speaker; the host is. Never write "Unknown".
-- "speaker_confidence": "named" when the speaker's name comes from one of the in-video sources listed above; "inferred" in every other case (including "Unidentified speaker"). When in doubt, use "inferred".
-- If speaker_confidence is "inferred", do not name or guess the speaker anywhere else either: "news_angle" and "social_post" must not attribute the quote to a named person.
-- "team": the NBA team the speaker belongs to, full name (e.g. "Boston Celtics"). The channel's team is given above; use it unless the speaker is clearly from another team (e.g. an opposing coach). Use "" if unsure.
-- MULTI-SPEAKER EXCHANGES: when two or more people each contribute more than about 5 words to the same answer or exchange inside the clip (a podcast back-and-forth, a reporter follow-up that the player answers), also fill "text_blocks" with one entry per contribution in order: {"speaker": ..., "speaker_confidence": ..., "text": ...}, applying the same SPEAKER NAMING RULE to each block. "text" must still hold the full verbatim transcript of the whole clip, and "speaker" is the person with the longest contribution. Omit "text_blocks" or leave it empty for single-speaker quotes.
-- "pull_quote": the punchiest standalone line from the quote, at most 15 words, copied WORD FOR WORD from "text" (no paraphrasing, no added words or punctuation). Use "" if nothing works on its own.
-- "names_mentioned": every player, coach or executive named INSIDE "text", spelled exactly as it appears in "text". Exclude team names and the speaker's own name.
-
-EDITORIAL FIELDS
-- "news_score": integer 1-10 for how newsworthy the quote is for an NBA news site. 9-10: injury news, trade or contract news, a public complaint or major admission. 6-8: specific role, rotation or strategy news, strong opinion on a named player or team. 3-5: interesting but soft. 1-2: generic. Be strict; most quotes are 3-6.
-- "news_angle": one line, at most 15 words, stating the news in the quote as a specific headline-style fact that names the player, team or issue. No em-dashes. Example: "Jalen Brunson says his sprained ankle is fine and he will play Friday".
-- "social_post": a draft post for X / Bluesky, at most 240 characters. ONE idea only. Lead with the news, punchy and conversational; it may include a short verbatim phrase from the quote in quotation marks. Rules: NO hashtags, NO emojis, NO em-dashes or en-dashes (use commas or periods), no "BREAKING", no vague clickbait, do not state anything the speaker did not say.
-
-LANGUAGE: if a quote is not spoken in English, translate "text", "news_angle" and "social_post" to English.
-
-CONTENT TYPE: set "content_type" to "presser" when the video is a press conference, media availability, media day session, pregame/postgame or shootaround interview; "podcast" when it is a podcast, talk show, reaction show or a hosted livestream/broadcast.
-
-HALLUCINATION GUARD: begin your JSON with a "video_title" field that ECHOES BACK EXACTLY the YouTube title supplied above (the line starting with "YouTube title:"). If your analysis does not match that title, the response is rejected.
-
-Return ONLY valid JSON, no surrounding text or markdown fences:
-
-{
-  "video_title": "exact echo of the YouTube title supplied above",
-  "speakers_seen": ["names you saw or heard, in order of appearance"],
-  "content_type": "presser or podcast",
-  "quotes": [
-    {
-      "rank": 1,
-      "speaker": "full name identified in the video, or \\"Unidentified speaker\\"",
-      "speaker_confidence": "named or inferred",
-      "team": "full NBA team name, or empty string",
-      "timestamp": "01:23",
-      "end_timestamp": "02:01",
-      "text": "verbatim words spoken between timestamp and end_timestamp",
-      "news_score": 6,
-      "pull_quote": "up to 15 words copied verbatim from text, or empty string",
-      "names_mentioned": ["Evan Mobley"],
-      "text_blocks": [
-        {"speaker": "X", "speaker_confidence": "named", "text": "X's verbatim contribution"},
-        {"speaker": "Unidentified speaker", "speaker_confidence": "inferred", "text": "the other person's verbatim contribution"}
-      ],
-      "news_angle": "one-line specific news angle",
-      "social_post": "draft social post, one idea, no hashtags, no emojis, no em-dashes"
-    }
-  ]
-}"""
-
-MIN_CLIP_SECS = 15
-MAX_CLIP_SECS = 60
-MAX_QUOTES_PER_VIDEO = 15
-# Rough speaking rate used only when Gemini omits/garbles end_seconds.
-WORDS_PER_SECOND = 2.6
-
-DIGEST_CLOSING_LINE = (
-    '<a href="https://www.youtube.com/feed/subscriptions" target="_blank" '
-    'rel="noopener">CHECK OTHER YOUTUBE VIDEOS HERE</a>'
-)
-VIDEO_WORKERS = 3                     # concurrent process_video calls across the queue
+VIDEO_WORKERS = 3                     # concurrent videos
 PER_VIDEO_TIMEOUT_SECS = 12 * 60      # hard upper bound per video
 SCRIPT_TIMEOUT_SECS = 35 * 60         # hard wall-clock budget for the whole run
-
-# Long-video chunking (same scheme as yt-quotes): videos longer than
-# CHUNK_DURATION_SECS are sent as 60-min slices via VideoMetadata offsets.
-CHUNK_DURATION_SECS = 60 * 60
-MAX_CHUNKS = 4
-
-_TRANSIENT_MESSAGE_PATTERNS = (
-    "UNAVAILABLE",
-    "RESOURCE_EXHAUSTED",
-    "INTERNAL",
-    "SERVER DISCONNECTED",
-    "CONNECTION RESET",
-    "CONNECTION ABORTED",
-    "READ TIMED OUT",
-    "REMOTE END CLOSED CONNECTION",
-    "READERROR",
-    "REMOTEPROTOCOLERROR",
-    "CONNECTERROR",
-    "READTIMEOUT",
-    "CONNECTTIMEOUT",
-)
-
-_SPENDING_CAP_PATTERNS = (
-    "SPENDING CAP",
-    "EXCEEDED YOUR CURRENT QUOTA",
-    "QUOTA EXCEEDED",
-)
-
-HALLUCINATION_OVERLAP_THRESHOLD = 0.70  # strictly greater; 0.70 itself is rejected
+WORDS_PER_SECOND = 2.6                # clip end = start + words / this
+MIN_CLIP_SECS = 5
 
 RETRY_CAP = 2  # after this many cap-eligible failures, write FAILED.txt
 _CAP_ELIGIBLE_FAILURES = frozenset({"failed-timeout", "failed-hallucination", "failed-other"})
 
-# Process-wide abort flags, same semantics as yt-quotes.
+# Process-wide abort flags (same semantics as yt-quotes' main loop).
 _spending_cap_hit = threading.Event()
 _transient_overload_hit = threading.Event()
 _deferred_items: list = []
 
-# Identifies the run that processed a video; the clipper's default pick-list
-# is the latest run's clips. Set in main().
 RUN_ID = ""
-SCRIPT_START = time.monotonic()       # reset in main(); the 35-min budget counts from here
 # Set once the digest, manifest and Slack payload are on disk. If the
 # watchdog fires after that, the run's work is done and it exits 0.
 _outputs_written = threading.Event()
+_stats = {"extract_calls": 0, "video_seconds": 0, "text_calls": 0}
+_stats_lock = threading.Lock()
+
+UNIDENTIFIED_SPEAKER = "Unidentified speaker"
+
+CONTENT_TYPES = ("presser", "podcast", "oneoff")
+CONTENT_TYPE_LABELS = {"presser": "Press conferences", "podcast": "Podcasts & shows", "oneoff": "One-offs"}
+DEFAULT_CONTENT_TYPE_KEYWORDS = {
+    "podcast": ["podcast", "show", "livestream", "live stream", "broadcast", "reaction", "reactions",
+                "roundup", "live"],
+    "presser": ["press conference", "presser", "media availability", "availability", "media day",
+                "postgame", "post-game", "post game", "pregame", "pre-game", "pre game", "shootaround",
+                "practice", "interview", "speaks", "talks", "previews", "introductory"],
+}
+_CONFIG: dict = {}   # set in main(); classification reads its keyword lists
 
 
 # --------------------------------------------------------------------------- #
 # Small utilities
 # --------------------------------------------------------------------------- #
 
-def log(msg: str) -> None:
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
+log = ytq.log
 
 
-def timestamp_to_seconds(ts) -> int:
-    """Accepts 83, 83.4, "83", "1:23" or "0:01:23". Returns 0 on garbage."""
-    if isinstance(ts, (int, float)) and not isinstance(ts, bool):
-        return max(0, int(round(ts)))
-    parts = str(ts or "").strip().split(":")
-    try:
-        nums = [float(p) for p in parts]
-    except ValueError:
-        return 0
-    if len(nums) == 3:
-        total = nums[0] * 3600 + nums[1] * 60 + nums[2]
-    elif len(nums) == 2:
-        total = nums[0] * 60 + nums[1]
-    else:
-        total = nums[0] if nums else 0
-    return max(0, int(round(total)))
-
-
-def seconds_to_timestamp(secs: int) -> str:
-    secs = max(0, int(secs or 0))
-    hours, rem = divmod(secs, 3600)
-    mins, s = divmod(rem, 60)
-    if hours:
-        return f"{hours}:{mins:02d}:{s:02d}"
-    return f"{mins:02d}:{s:02d}"
-
-
-def compute_chunks(duration_secs: int) -> list | None:
-    if duration_secs is None or duration_secs <= 0:
-        return [(None, None)]
-    if duration_secs <= CHUNK_DURATION_SECS:
-        return [(None, None)]
-    if duration_secs > CHUNK_DURATION_SECS * MAX_CHUNKS:
-        return None
-    n_chunks = math.ceil(duration_secs / CHUNK_DURATION_SECS)
-    return [
-        (i * CHUNK_DURATION_SECS, min((i + 1) * CHUNK_DURATION_SECS, duration_secs))
-        for i in range(n_chunks)
-    ]
+def set_output_dir(path: Path) -> None:
+    """Point both this module and the vendored yt-quotes code at one folder."""
+    global OUTPUT_DIR, LATEST_CLIPS_PATH, CLIPS_ARCHIVE_DIR
+    OUTPUT_DIR = ytq.OUTPUT_DIR = Path(path)
+    LATEST_CLIPS_PATH = OUTPUT_DIR / "latest_clips.json"
+    CLIPS_ARCHIVE_DIR = OUTPUT_DIR / "clips"
 
 
 def video_id_from_url(url: str) -> str:
@@ -270,16 +146,76 @@ def title_keyword_hit(title: str, keywords: list) -> str:
     return ""
 
 
-CONTENT_TYPES = ("presser", "podcast", "oneoff")
-CONTENT_TYPE_LABELS = {"presser": "Press conferences", "podcast": "Podcasts & shows", "oneoff": "One-offs"}
-DEFAULT_CONTENT_TYPE_KEYWORDS = {
-    "podcast": ["podcast", "show", "livestream", "live stream", "broadcast", "reaction", "reactions",
-                "roundup", "live"],
-    "presser": ["press conference", "presser", "media availability", "availability", "media day",
-                "postgame", "post-game", "post game", "pregame", "pre-game", "pre game", "shootaround",
-                "practice", "interview", "speaks", "talks", "previews", "introductory"],
-}
-_CONFIG: dict = {}   # set in main(); classification reads its keyword lists
+def parse_iso(iso: str) -> datetime | None:
+    if not iso:
+        return None
+    try:
+        return datetime.fromisoformat(str(iso).replace("Z", "+00:00")).astimezone(timezone.utc)
+    except (ValueError, TypeError):
+        return None
+
+
+def publish_date(video: dict) -> str:
+    return ytq._publish_date(video)
+
+
+def video_day_dir(video: dict) -> Path:
+    return OUTPUT_DIR / publish_date(video)
+
+
+def determine_run_slot() -> str:
+    """digest-06utc.md for scheduled runs, digest-manual-HHMM.md otherwise."""
+    event_name = (os.getenv("GITHUB_EVENT_NAME") or "").strip()
+    schedule = (os.getenv("GITHUB_EVENT_SCHEDULE") or "").strip()
+    if event_name == "schedule" and schedule:
+        m = re.match(r"^\s*\S+\s+(\d{1,2})\s+", schedule)
+        if m:
+            return f"{int(m.group(1)) % 24:02d}utc"
+    return f"manual-{datetime.now(timezone.utc).strftime('%H%M')}"
+
+
+def atomic_write(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(path.name + ".tmp")
+    try:
+        tmp.write_text(content, encoding="utf-8")
+        tmp.replace(path)
+    except Exception:
+        try:
+            tmp.unlink(missing_ok=True)
+        except Exception:
+            pass
+        raise
+
+
+# --------------------------------------------------------------------------- #
+# Speakers, content types, social posts
+# --------------------------------------------------------------------------- #
+
+def is_unidentified(speaker: str) -> bool:
+    """No usable name: yt-quotes' own unknown check, plus our
+    "Unidentified speaker" label from the appended prompt rule."""
+    s = (speaker or "").strip()
+    return ytq._is_unknown_speaker(s) or s.lower().startswith("unidentified")
+
+
+def _name_tokens(text: str) -> list:
+    t = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode("ascii").lower()
+    return re.findall(r"[a-z0-9]+", t)
+
+
+def title_names_speaker(title: str, name: str) -> bool:
+    """True when the video title itself names this person: the full name
+    ("James Harden Media Availability") or, for a 2+ word name, a surname
+    of 4+ letters ("Coach Nurse" -> Nick Nurse). Accents and case ignored."""
+    name_toks = _name_tokens(name)
+    title_toks = _name_tokens(title)
+    if not name_toks or not title_toks or is_unidentified(name):
+        return False
+    n = len(name_toks)
+    if any(title_toks[i:i + n] == name_toks for i in range(len(title_toks) - n + 1)):
+        return True
+    return n >= 2 and len(name_toks[-1]) >= 4 and name_toks[-1] in title_toks
 
 
 def classify_content_type(title: str, is_one_off: bool = False, gemini_value=None,
@@ -307,125 +243,67 @@ def classify_content_type(title: str, is_one_off: bool = False, gemini_value=Non
 
 
 def video_content_type(data: dict) -> str:
-    """Stored type, or classify older JSON on the fly from its title."""
     ctype = data.get("content_type")
     if ctype in CONTENT_TYPES:
         return ctype
     return classify_content_type(data.get("video_title") or "", bool(data.get("is_one_off")))[0]
 
 
-def _normalize_title(title: str) -> str:
-    if not title:
-        return ""
-    stripped = re.sub(r"[^a-z0-9\s]+", " ", title.lower())
-    return re.sub(r"\s+", " ", stripped).strip()
-
-
-def title_word_overlap(expected: str, got: str) -> float:
-    exp_words = set(_normalize_title(expected).split())
-    if not exp_words:
-        return 1.0
-    got_words = set(_normalize_title(got).split())
-    return len(exp_words & got_words) / len(exp_words)
-
-
-def parse_iso(iso: str) -> datetime | None:
-    if not iso:
-        return None
-    try:
-        return datetime.fromisoformat(str(iso).replace("Z", "+00:00")).astimezone(timezone.utc)
-    except (ValueError, TypeError):
-        return None
-
-
-def publish_date(video: dict) -> str:
-    dt = parse_iso(video.get("published") or "")
-    return (dt or datetime.now(timezone.utc)).strftime("%Y-%m-%d")
-
-
-def video_day_dir(video: dict) -> Path:
-    return OUTPUT_DIR / publish_date(video)
-
-
-def determine_run_slot() -> str:
-    """digest-06utc.md for scheduled runs, digest-manual-HHMM.md otherwise."""
-    event_name = (os.getenv("GITHUB_EVENT_NAME") or "").strip()
-    schedule = (os.getenv("GITHUB_EVENT_SCHEDULE") or "").strip()
-    if event_name == "schedule" and schedule:
-        m = re.match(r"^\s*\S+\s+(\d{1,2})\s+", schedule)
-        if m:
-            return f"{int(m.group(1)) % 24:02d}utc"
-    return f"manual-{datetime.now(timezone.utc).strftime('%H%M')}"
-
-
-UNIDENTIFIED_SPEAKER = "Unidentified speaker"
-
-
-def is_unknown_speaker(speaker: str) -> bool:
-    """Ported from yt-quotes' _is_unknown_speaker, plus 'Unidentified ...'."""
-    if not speaker:
-        return True
-    lower = speaker.strip().lower()
-    if lower.startswith("unknown") or lower.startswith("unidentified"):
-        return True
-    return lower in ("speaker", "n/a", "none")
-
-
-# --------------------------------------------------------------------------- #
-# Text safety. Everything that came from YouTube or Gemini is untrusted:
-# it is rendered by Jekyll/kramdown on GitHub Pages (raw HTML passes through,
-# Liquid tags execute) and by Slack (<!channel>, <url|label> are live syntax).
-# --------------------------------------------------------------------------- #
-
-_MD_ENTITY_MAP = {
-    "{": "&#123;",   # Liquid {{ }} / {% %} would execute or break the Pages build
-    "}": "&#125;",
-    "[": "&#91;",    # no smuggled [label](javascript:...) links
-    "]": "&#93;",
-    "*": "&#42;",    # keep our own **bold** markup intact
-    "`": "&#96;",
-    "|": "&#124;",
-}
-
-
-def md_escape(text: str) -> str:
-    """Escape untrusted text for markdown that GitHub Pages renders to HTML."""
-    out = html.escape(str(text or ""), quote=False)  # & < > (no attributes, so quotes stay readable)
-    for ch, ent in _MD_ENTITY_MAP.items():
-        out = out.replace(ch, ent)
-    # Collapse newlines so fetched text can't start a new markdown block.
-    return re.sub(r"\s*[\r\n]+\s*", " ", out).strip()
-
-
-_EMOJI_RE = re.compile(
-    "["
-    "\U0001F000-\U0001FAFF"
-    "\U00002600-\U000027BF"
-    "\U0001F900-\U0001F9FF"
-    "\U00002B00-\U00002BFF"
-    "️‍"
-    "]+"
-)
+_EMOJI_RE = re.compile("[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U00002B00-\U00002BFF\uFE0F\u200D]+")
 
 
 def strip_dashes(text: str) -> str:
-    """Replace em/en dashes (and spaced hyphens used as dashes) with commas."""
-    out = re.sub(r"\s*[—–‒―]\s*", ", ", text or "")
+    out = re.sub(r"\s*[\u2014\u2013\u2012\u2015]\s*", ", ", text or "")
     out = re.sub(r"\s+-{1,2}\s+", ", ", out)
     out = re.sub(r",\s*([,.!?])", r"\1", out)
     return re.sub(r"\s{2,}", " ", out).strip(" ,")
 
 
 def clean_social_post(text: str) -> str:
-    """Enforce the house rules even if Gemini ignores them."""
+    """House rules even if Gemini ignores them: no emojis, hashtags, dashes."""
     out = _EMOJI_RE.sub("", text or "")
-    out = re.sub(r"#(\w)", r"\1", out)   # drop hashtag markers, keep the word
+    out = re.sub(r"#(\w)", r"\1", out)
     out = strip_dashes(out)
     return re.sub(r"\s{2,}", " ", out).strip()
 
 
 # --------------------------------------------------------------------------- #
-# State: filesystem-as-database (same rules as yt-quotes)
+# Pages safety. yt-quotes renders fetched text as-is; GitHub Pages runs it
+# through Liquid and kramdown (raw HTML passes). Only the sequences that can
+# execute are neutralised, so ordinary quotes render byte-identical to
+# yt-quotes.
+# --------------------------------------------------------------------------- #
+
+_PAGES_UNSAFE = [
+    (re.compile(r"<"), "&lt;"),
+    (re.compile(r">"), "&gt;"),
+    (re.compile(r"\{\{"), "&#123;&#123;"),
+    (re.compile(r"\{%"), "&#123;%"),
+    (re.compile(r"\}\}"), "&#125;&#125;"),
+    (re.compile(r"%\}"), "%&#125;"),
+    (re.compile(r"(?i)javascript:"), "javascript&#58;"),
+]
+
+
+def pages_safe(value):
+    if isinstance(value, str):
+        for rx, rep in _PAGES_UNSAFE:
+            value = rx.sub(rep, value)
+        return value
+    if isinstance(value, list):
+        return [pages_safe(v) for v in value]
+    if isinstance(value, dict):
+        return {k: pages_safe(v) for k, v in value.items()}
+    return value
+
+
+def render_markdown(video_id: str, channel_name: str, data: dict) -> str:
+    """yt-quotes' to_markdown, unchanged, on a Pages-safe copy of the data."""
+    return ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=video_id), channel_name, pages_safe(data))
+
+
+# --------------------------------------------------------------------------- #
+# State: filesystem-as-database
 # --------------------------------------------------------------------------- #
 
 def iter_day_dirs() -> list:
@@ -598,431 +476,108 @@ def hydrate_video_metadata(video_ids: list, api_key: str) -> dict:
 
 
 # --------------------------------------------------------------------------- #
-# Gemini (same call shape + retry policy as yt-quotes)
+# Gemini: call counting, shared retry, text-only clip-field call
 # --------------------------------------------------------------------------- #
 
-def call_gemini(client, url: str, video_title: str, team: str, duration_secs: int,
-                start_offset_secs: int | None = None,
-                end_offset_secs: int | None = None) -> tuple[str, object]:
-    parts = [f"YouTube title: {video_title}", f"Channel team: {team}"]
-    if duration_secs:
-        parts.append(f"Video length: {duration_secs} seconds.")
-    if start_offset_secs is not None and end_offset_secs is not None:
-        parts.append(
-            f"CHUNK CONTEXT: this is one slice of a longer video, covering seconds "
-            f"{start_offset_secs} through {end_offset_secs} (relative to the original). "
-            f"Return timestamps relative to the slice (start at 0:00 = the slice's "
-            f"first second). The pipeline will translate them to absolute timestamps."
-        )
-    prefixed_prompt = "\n\n".join(parts) + "\n\n" + PROMPT
-    video_part = types.Part.from_uri(file_uri=url, mime_type="video/mp4")
-    if start_offset_secs is not None or end_offset_secs is not None:
-        start_str = f"{start_offset_secs or 0}s"
-        end_str = f"{end_offset_secs}s" if end_offset_secs is not None else None
-        try:
-            video_part.video_metadata = types.VideoMetadata(start_offset=start_str, end_offset=end_str)
-        except (AttributeError, TypeError):
-            log(f"  [chunk] WARN: types.VideoMetadata unavailable in this SDK; "
-                f"falling back to whole-video for offsets ({start_str}, {end_str})")
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=[video_part, prefixed_prompt],
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            temperature=0.3,
-            media_resolution=types.MediaResolution.MEDIA_RESOLUTION_LOW,
-        ),
-    )
-    return (response.text or ""), response.usage_metadata
+def _count_gemini_calls(client) -> None:
+    """Wrap client.models.generate_content to count calls and seconds of
+    video sent (for the run summary line). Behaviour is unchanged."""
+    models = client.models
+    original = models.generate_content
 
+    def counted(*args, **kwargs):
+        contents = kwargs.get("contents") or (args[1] if len(args) > 1 else [])
+        part = contents[0] if contents else None
+        is_video = getattr(getattr(part, "file_data", None), "file_uri", None) is not None
+        with _stats_lock:
+            if is_video:
+                _stats["extract_calls"] += 1
+                vm = getattr(part, "video_metadata", None)
+                secs = None
+                if vm is not None and vm.start_offset is not None and vm.end_offset is not None:
+                    secs = int(float(vm.end_offset.rstrip("s")) - float(vm.start_offset.rstrip("s")))
+                _stats["video_seconds"] += secs if secs is not None else getattr(_tl, "duration", 0)
+            else:
+                _stats["text_calls"] += 1
+        return original(*args, **kwargs)
 
-def gemini_error_status(exc: Exception) -> int | None:
-    code = getattr(exc, "code", None) or getattr(exc, "status_code", None)
-    if isinstance(code, int):
-        return code
-    m = re.search(r"\b(4\d\d|5\d\d)\b", str(exc))
-    return int(m.group(1)) if m else None
-
-
-def is_token_limit_error(exc: Exception) -> bool:
-    msg = str(exc).lower()
-    return "token" in msg and ("limit" in msg or "exceed" in msg or "too" in msg)
-
-
-class SpendingCapExhausted(Exception):
-    """429 caused by a project spending cap / daily quota; abort the queue."""
-
-
-class TransientServerOverload(Exception):
-    """503/500 that survived all retries; defer the video to the next run."""
-
-
-def is_spending_cap_error(exc: Exception) -> bool:
-    msg = str(exc).upper()
-    return any(p in msg for p in _SPENDING_CAP_PATTERNS)
-
-
-def is_deferred_transient_error(exc: Exception) -> bool:
-    if gemini_error_status(exc) in (500, 503):
-        return True
-    msg = str(exc).upper()
-    return "UNAVAILABLE" in msg or "500 INTERNAL" in msg
-
-
-def is_transient_gemini_error(exc: Exception) -> bool:
-    if gemini_error_status(exc) in (429, 500, 503):
-        return True
     try:
-        import httpx
-        if isinstance(exc, (httpx.ReadError, httpx.RemoteProtocolError, httpx.ConnectError,
-                            httpx.ReadTimeout, httpx.ConnectTimeout)):
-            return True
-    except ImportError:
+        models.generate_content = counted
+    except AttributeError:
         pass
-    msg = str(exc).upper()
-    return any(p in msg for p in _TRANSIENT_MESSAGE_PATTERNS)
 
 
-def gemini_retry(fn, label: str = "main", deadline: float | None = None):
-    """Run fn() with the 5s/15s/45s/120s/300s backoff. Spending cap ->
-    SpendingCapExhausted immediately. Terminal 503/500 ->
-    TransientServerOverload (deferred). With a deadline (time.monotonic()),
-    a backoff that would run past it gives up instead of sleeping."""
+_tl = threading.local()   # per-thread: duration of the video being extracted
+
+
+def with_retry(fn, label: str):
+    """Same backoff and error classes as yt-quotes' call_gemini_with_retry."""
     backoffs = [5, 15, 45, 120, 300]
     for attempt, sleep_s in enumerate(backoffs, start=1):
         try:
             return fn()
         except Exception as e:
-            if is_spending_cap_error(e):
-                log(f"  [{label}] [SPENDING CAP] {e}")
-                raise SpendingCapExhausted(str(e)) from e
-            if not is_transient_gemini_error(e):
+            if ytq._is_spending_cap_error(e):
+                raise ytq.SpendingCapExhausted(str(e)) from e
+            if not ytq._is_transient_gemini_error(e):
                 raise
-            if _spending_cap_hit.is_set():
-                raise SpendingCapExhausted("spending cap hit by a sibling worker") from e
-            out_of_time = deadline is not None and time.monotonic() + sleep_s > deadline
-            if attempt < len(backoffs) and not out_of_time:
+            if attempt < len(backoffs):
                 log(f"  [{label}] transient error on attempt {attempt}/5, sleeping {sleep_s}s: {e}")
                 time.sleep(sleep_s)
             else:
-                log(f"  [{label}] giving up after {attempt} attempt(s): {e}")
-                if is_deferred_transient_error(e):
-                    log(f"  [DEFERRED] Gemini server overload after retries")
-                    raise TransientServerOverload(str(e)) from e
+                if ytq._is_deferred_transient_error(e):
+                    raise ytq.TransientServerOverload(str(e)) from e
                 raise
 
 
-def call_gemini_with_retry(client, url, video_title, team, duration_secs,
-                           start_offset_secs=None, end_offset_secs=None) -> tuple[str, object]:
-    """Extraction call with the shared retry policy (see gemini_retry)."""
-    return gemini_retry(lambda: call_gemini(client, url, video_title, team, duration_secs,
-                                            start_offset_secs=start_offset_secs,
-                                            end_offset_secs=end_offset_secs))
+CLIP_FIELDS_PROMPT = """You are given quotes already extracted from an NBA video (text only, no video). For each quote, return:
+- "rank": the same rank you were given.
+- "speaker_confidence": "named" only if the speaker was identified by name in the video or in the video title (the extractor only names speakers it saw identified; "speakers_seen" lists them). "inferred" if the speaker is "Unidentified speaker", empty, or the name looks like a guess.
+- "news_score": integer 1-10 for how newsworthy the quote is for an NBA news site. 9-10: injury news, trade or contract news, a public complaint or major admission. 6-8: specific role, rotation or strategy news, a strong opinion on a named player or team. 3-5: interesting but soft. 1-2: generic. Be strict; most quotes are 3-6.
+- "social_post": a draft post for X / Bluesky, at most 240 characters. ONE idea; lead with the news, punchy and conversational; may include a short verbatim phrase in quotation marks. NO hashtags, NO emojis, NO em-dashes or en-dashes, no "BREAKING", nothing the speaker did not say.
+
+Also return the video's "content_type": "presser" for a press conference, media availability, media day session, pregame/postgame or shootaround interview; "podcast" for a podcast, talk show, reaction show or hosted livestream/broadcast.
+
+Return ONLY JSON: {"content_type": "presser", "quotes": [{"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_post": "..."}]}"""
 
 
-# --------------------------------------------------------------------------- #
-# Timestamp refinement: a second, cheap Gemini call on a short window of the
-# video around the first-pass time, for quotes captions couldn't align.
-# --------------------------------------------------------------------------- #
-
-REFINE_WINDOWS = (60, 180)            # +-seconds: first try, then one wider retry
-REFINE_RESERVE_SECS = 4 * 60          # stop refining when this little budget is left
-REFINE_CALL_TIMEOUT_MS = 120_000      # per-call HTTP timeout for the refine client
-REFINE_QUOTE_WORDS = 40
-
-REFINE_PROMPT = """This is a short slice of an NBA video. The slice covers seconds {a} to {b} of the original video.
-
-Find the moment in THIS SLICE where the following quote BEGINS to be spoken (the first words matter most):
-
-"{quote}"
-
-Answer with the time relative to the start of this slice, in MM:SS (00:00 = the first second of the slice).
-If the quote is not spoken anywhere in this slice, answer NOT_FOUND. Do not guess.
-
-Return ONLY JSON: {{"timestamp": "MM:SS"}} or {{"timestamp": "NOT_FOUND"}}"""
-
-_TS_RE = re.compile(r"^\d{1,2}:\d{2}(?::\d{2})?(?:\.\d+)?$|^\d+(?:\.\d+)?$")
-
-
-def parse_refine_answer(raw: str):
-    """-> seconds (float), "NOT_FOUND", or None for anything unusable."""
-    try:
-        data = json.loads(raw or "")
-        ts = data.get("timestamp") if isinstance(data, dict) else None
-    except ValueError:
-        ts = raw
-    ts = str(ts or "").strip().strip('"')
-    if ts.upper().replace(" ", "_") == "NOT_FOUND":
-        return "NOT_FOUND"
-    if not _TS_RE.match(ts):
-        return None
-    parts = [float(x) for x in ts.split(":")]
-    secs = 0.0
-    for x in parts:
-        secs = secs * 60 + x
-    return secs
-
-
-def call_refine(client, url: str, quote_text: str, a: int, b: int) -> str:
-    words = quote_text.split()
-    quote = " ".join(words[:REFINE_QUOTE_WORDS]) + (" ..." if len(words) > REFINE_QUOTE_WORDS else "")
-    part = types.Part.from_uri(file_uri=url, mime_type="video/mp4")
-    part.video_metadata = types.VideoMetadata(start_offset=f"{a}s", end_offset=f"{b}s")
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=[part, REFINE_PROMPT.format(a=a, b=b, quote=quote.replace('"', "'"))],
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            temperature=0.0,
-            media_resolution=types.MediaResolution.MEDIA_RESOLUTION_LOW,
-        ),
-    )
-    return response.text or ""
-
-
-def refine_quote(client, url: str, duration_secs: int, q: dict, deadline: float,
-                 stats: dict, lock) -> None:
-    """Try +-60s, then (only on NOT_FOUND) +-180s. Accept an answer only if
-    it lands inside the window; otherwise keep the first-pass time."""
-    t = int(q.get("start_seconds") or 0)
-
-    def bump(key, n=1):
-        with lock:
-            stats[key] = stats.get(key, 0) + n
-
-    for half in REFINE_WINDOWS:
-        if time.monotonic() > deadline:
-            bump("skipped_time")
-            return
-        if _spending_cap_hit.is_set() or _transient_overload_hit.is_set():
-            bump("skipped_abort")
-            return
-        a = max(0, t - half)
-        b = t + half
-        if duration_secs:
-            b = min(b, duration_secs)
-        if b - a < 5:
-            break
-        bump("calls")                   # counted when sent, so calls cut off at the deadline still show
-        bump("video_seconds", b - a)
-        try:
-            raw = gemini_retry(lambda: call_refine(client, url, q["text"], a, b), "refine", deadline)
-        except SpendingCapExhausted:
-            _spending_cap_hit.set()
-            bump("errors")
-            return
-        except TransientServerOverload:
-            _transient_overload_hit.set()
-            bump("errors")
-            return
-        except Exception as e:
-            log(f"  [refine] error at {t}s: {type(e).__name__}: {str(e)[:150]}")
-            bump("errors")
-            return
-        ans = parse_refine_answer(raw)
-        if ans == "NOT_FOUND":
-            bump("not_found_60" if half == REFINE_WINDOWS[0] else "not_found_180")
-            continue
-        if ans is None:
-            bump("unusable")
-            return
-        # Asked for slice-relative time; accept an absolute answer only if
-        # that's the only reading that lands inside the window.
-        if 0 <= ans <= b - a:
-            new_start = a + ans
-        elif a <= ans <= b:
-            new_start = ans
-        else:
-            bump("out_of_window")
-            return
-        new_start = int(new_start)
-        delta = new_start - int(q["start_seconds"])
-        q["start_seconds"] = new_start
-        end = int(q["end_seconds"]) + delta
-        q["end_seconds"] = min(end, duration_secs) if duration_secs else end
-        q["timestamp_source"] = "gemini-refined"
-        q["refine_window"] = [a, b]
-        bump("refined")
-        return
-
-
-def make_refine_client(api_key: str, fallback):
-    """Separate client with a per-call HTTP timeout, so one stuck refine
-    call can't hold a worker for the rest of the run."""
-    try:
-        return genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=REFINE_CALL_TIMEOUT_MS))
-    except (AttributeError, TypeError):
-        return fallback
-
-
-def run_refinement(ex, client, results: list, deadline: float) -> dict:
-    """Queue one refine job per not-caption-aligned quote on the executor
-    that ran extraction, wait until the deadline at most, then rewrite the
-    affected videos' .json/.md. Returns the stats dict."""
-    stats, lock = {}, threading.Lock()
-    jobs = []
-    for r in results:
-        for q in r["data"].get("quotes") or []:
-            if q.get("timestamp_source") == "gemini-approx":
-                jobs.append(ex.submit(refine_quote, client, r["video"]["url"],
-                                      int(r["video"].get("duration") or 0), q, deadline, stats, lock))
-    if not jobs:
-        return stats
-    log(f"[refine] {len(jobs)} quote(s) without caption alignment; refining "
-        f"(budget {max(0, int(deadline - time.monotonic()))}s)")
-    done, not_done = wait(jobs, timeout=max(0.0, deadline - time.monotonic()))
-    for fut in not_done:
-        fut.cancel()
-    if not_done:
-        stats["unfinished_at_deadline"] = len(not_done)
-    for r in results:
-        if any(q.get("timestamp_source") == "gemini-refined" for q in r["data"].get("quotes") or []):
-            write_outputs(r["video"], r["team"], r["data"])
-    log(f"[refine] {stats.get('refined', 0)}/{len(jobs)} refined; "
-        f"not found at +-60s: {stats.get('not_found_60', 0)}, still not found at +-180s: "
-        f"{stats.get('not_found_180', 0)}, out of window: {stats.get('out_of_window', 0)}, "
-        f"unusable answer: {stats.get('unusable', 0)}, errors: {stats.get('errors', 0)}, "
-        f"skipped for time: {stats.get('skipped_time', 0)}"
-        f"{', unfinished at deadline: ' + str(len(not_done)) if not_done else ''}. "
-        f"Gemini calls: {stats.get('calls', 0)}, video sent: {stats.get('video_seconds', 0)}s")
-    return stats
-
-
-# --------------------------------------------------------------------------- #
-# Quote normalisation
-# --------------------------------------------------------------------------- #
-
-def _clean_ws(value) -> str:
-    return re.sub(r"\s+", " ", str(value or "")).strip()
-
-
-def _name_tokens(text: str) -> list:
-    t = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode("ascii").lower()
-    return re.findall(r"[a-z0-9]+", t)
-
-
-def title_names_speaker(title: str, name: str) -> bool:
-    """True when the video title itself names this person: the full name
-    ("James Harden Media Availability") or, for a 2+ word name, a surname
-    of 4+ letters ("Coach Nurse" -> Nick Nurse). Accents and case ignored."""
-    name_toks = _name_tokens(name)
-    title_toks = _name_tokens(title)
-    if not name_toks or not title_toks or is_unknown_speaker(name):
-        return False
-    n = len(name_toks)
-    if any(title_toks[i:i + n] == name_toks for i in range(len(title_toks) - n + 1)):
-        return True
-    return n >= 2 and len(name_toks[-1]) >= 4 and name_toks[-1] in title_toks
-
-
-def resolve_speaker(name, confidence, title: str = "") -> tuple[str, str, str]:
-    """Apply the naming rule. Returns (speaker, speaker_confidence, guess).
-
-    An explicit "named" confidence keeps the name, and so does a name the
-    video title itself contains (single-subject availabilities). Anything
-    else becomes "Unidentified speaker"; Gemini's guess is kept separately in
-    the JSON for the editor but never rendered or sent to the clipper."""
-    name = _clean_ws(name)
-    confidence = _clean_ws(confidence).lower()
-    if not is_unknown_speaker(name) and (confidence == "named" or title_names_speaker(title, name)):
-        return name, "named", ""
-    guess = "" if is_unknown_speaker(name) else name
-    return UNIDENTIFIED_SPEAKER, "inferred", guess
-
-
-def scrub_guess(text: str, guess: str) -> str:
-    """Replace a guessed speaker name (full name, or a distinctive surname)
-    with "Unidentified speaker" so it can't slip in via news_angle etc."""
-    if not text or not guess or is_unknown_speaker(guess):
-        return text or ""
-    out = re.sub(re.escape(guess), UNIDENTIFIED_SPEAKER, text, flags=re.IGNORECASE)
-    surname = guess.split()[-1]
-    if len(surname) >= 4:
-        out = re.sub(rf"\b{re.escape(surname)}\b", UNIDENTIFIED_SPEAKER, out, flags=re.IGNORECASE)
-    return out
-
-
-def _loose(text: str) -> str:
-    """Lowercase, letters/digits only, single spaces: for verbatim checks."""
-    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", (text or "").lower())).strip()
-
-
-def normalize_quote(q: dict, offset: int, duration_secs: int, channel_team: str,
-                    title: str = "") -> dict | None:
-    """Coerce one raw Gemini quote into the clip schema. Gemini's times are
-    kept as given (never shifted); caption alignment may replace them later."""
-    if not isinstance(q, dict):
-        return None
-
-    blocks = []
-    for b in q.get("text_blocks") or []:
-        if not isinstance(b, dict) or not _clean_ws(b.get("text")):
-            continue
-        b_speaker, b_conf, b_guess = resolve_speaker(b.get("speaker"), b.get("speaker_confidence"), title)
-        block = {"speaker": b_speaker, "speaker_confidence": b_conf, "text": _clean_ws(b.get("text"))}
-        if b_guess:
-            block["speaker_guess"] = b_guess
-        blocks.append(block)
-    if len(blocks) < 2:
-        blocks = []
-
-    text = _clean_ws(q.get("text") or q.get("quote"))
-    if not text and blocks:
-        text = " ".join(b["text"] for b in blocks)
-    if not text:
-        return None
-
-    # MM:SS "timestamp"/"end_timestamp" (yt-quotes style); integer
-    # start_seconds/end_seconds accepted as a fallback.
-    start = timestamp_to_seconds(q.get("timestamp", q.get("start_seconds", 0))) + offset
-    end_raw = q.get("end_timestamp", q.get("end_seconds"))
-    end = timestamp_to_seconds(end_raw) + offset if end_raw not in (None, "") else 0
-    est = max(MIN_CLIP_SECS, min(MAX_CLIP_SECS, int(round(len(text.split()) / WORDS_PER_SECOND))))
-    # Only the END is repaired when it's missing or absurd. The start is never
-    # moved: sliding it (as the first version did at the end of a video)
-    # pointed links at the wrong moment.
-    if end <= start or end - start > 2 * MAX_CLIP_SECS:
-        end = start + est
-    if duration_secs:
-        start = min(start, max(0, duration_secs - 1))
-        end = min(end, duration_secs)
-
-    speaker, confidence, guess = resolve_speaker(q.get("speaker"), q.get("speaker_confidence"), title)
-    team = _clean_ws(q.get("team")) or channel_team
-
-    # pull_quote must be verbatim; drop it rather than put invented words in quotes.
-    pull_quote = _clean_ws(q.get("pull_quote")).strip('"\u201c\u201d ')
-    if pull_quote and (_loose(pull_quote) not in _loose(text) or len(pull_quote.split()) > 20):
-        pull_quote = ""
-
-    names = []
-    for n in q.get("names_mentioned") or []:
-        n = _clean_ws(n)
-        if n and n in text and n != speaker and n not in names:
-            names.append(n)
-
-    out = {
-        "rank": q.get("rank"),
-        "speaker": speaker,
-        "speaker_confidence": confidence,
-        "team": team,
-        "start_seconds": int(start),
-        "end_seconds": int(end),
-        "gemini_start_seconds": int(start),
-        "gemini_end_seconds": int(end),
-        "timestamp_source": "gemini-approx",
-        "text": text,
-        "pull_quote": pull_quote,
-        "news_score": _news_score(q.get("news_score")),
-        "names_mentioned": names,
-        "news_angle": scrub_guess(strip_dashes(_clean_ws(q.get("news_angle"))), guess),
-        "social_post": scrub_guess(clean_social_post(_clean_ws(q.get("social_post"))), guess),
+def derive_clip_fields(client, data: dict, team: str) -> dict:
+    """One text-only call over the extracted quotes. Returns
+    {"content_type": ..., "by_rank": {rank: {...}}}; {} on any failure
+    (the video keeps its quotes; clip fields fall back to defaults)."""
+    quotes = data.get("quotes") or []
+    if not quotes:
+        return {}
+    payload = {
+        "video_title": data.get("video_title") or "",
+        "channel": team,
+        "speakers_seen": data.get("speakers_seen") or [],
+        "quotes": [{"rank": q.get("rank"), "speaker": q.get("speaker") or "",
+                    "speakers": q.get("speakers") or [],
+                    "summary_phrase": q.get("summary_phrase") or "",
+                    "text": " ".join(ytq._canonical_quote_text(q).split()[:220])} for q in quotes],
     }
-    if guess:
-        out["speaker_guess"] = guess
-    if blocks:
-        out["text_blocks"] = blocks
-    return out
+    try:
+        response = with_retry(lambda: client.models.generate_content(
+            model=MODEL,
+            contents=[CLIP_FIELDS_PROMPT, json.dumps(payload, ensure_ascii=False)],
+            config=types.GenerateContentConfig(response_mime_type="application/json", temperature=0.3),
+        ), "clip-fields")
+        parsed = json.loads(response.text or "")
+    except ytq.SpendingCapExhausted as e:
+        _spending_cap_hit.set()
+        log(f"  [clip-fields] [SPENDING CAP] {e}; using defaults")
+        return {}
+    except Exception as e:
+        log(f"  [clip-fields] failed ({type(e).__name__}: {str(e)[:150]}); using defaults")
+        return {}
+    if not isinstance(parsed, dict):
+        return {}
+    by_rank = {}
+    for item in parsed.get("quotes") or []:
+        if isinstance(item, dict) and item.get("rank") is not None:
+            by_rank[item["rank"]] = item
+    return {"content_type": parsed.get("content_type"), "by_rank": by_rank}
 
 
 def _news_score(value) -> int | None:
@@ -1032,612 +587,77 @@ def _news_score(value) -> int | None:
         return None
 
 
-def finalize_quotes(quotes: list) -> list:
-    """Dedupe (same text or same start), order by rank, renumber, cap."""
-    def rank_key(q):
-        try:
-            return int(q.get("rank"))
-        except (TypeError, ValueError):
-            return 10_000
-    ordered = sorted(quotes, key=rank_key)
-    seen_text, seen_start, out = set(), set(), []
-    for q in ordered:
-        key = q["text"].lower()
-        if key in seen_text or q["start_seconds"] in seen_start:
-            continue
-        seen_text.add(key)
-        seen_start.add(q["start_seconds"])
-        out.append(q)
-    out = out[:MAX_QUOTES_PER_VIDEO]
-    for i, q in enumerate(out, start=1):
-        q["rank"] = i
-    return out
-
-
-# --------------------------------------------------------------------------- #
-# Output
-# --------------------------------------------------------------------------- #
-
-def md_link(url: str) -> str:
-    """Explicit [url](url) link: kramdown on GitHub Pages doesn't auto-link
-    bare URLs. Only used for URLs this script builds from a validated ID."""
-    return f"[{url}]({url})"
-
-
-def _bold_names(text: str, names: list) -> str:
-    """Ported verbatim from yt-quotes. Wrap every occurrence of each name in
-    **bold**, longest names first so "LeBron James" bolds as one unit.
-    Callers pass already-escaped text and names so the match still lines up."""
-    valid = [n for n in (names or []) if isinstance(n, str) and n.strip()]
-    if not valid or not text:
-        return text or ""
-    sorted_names = sorted(set(valid), key=len, reverse=True)
-    pattern = "|".join(re.escape(n) for n in sorted_names)
-    return re.sub(pattern, lambda m: f"**{m.group(0)}**", text)
-
-
-def _named_speakers(data: dict) -> list:
-    """Speakers confirmed by name in the video, in order. Used for the
-    "Speakers identified" line so a guessed name never reaches the digest."""
-    out = []
-    for q in data.get("quotes", []):
-        entries = [q] + list(q.get("text_blocks") or [])
-        for e in entries:
-            name = e.get("speaker") or ""
-            if e.get("speaker_confidence") == "named" and not is_unknown_speaker(name) and name not in out:
-                out.append(name)
-    return out
-
-
-def to_markdown(video: dict, team: str, data: dict) -> str:
-    """Port of yt-quotes' to_markdown. Same structure:
-
-        # Title — *Team*
-        Source: <link>
-        _Speakers identified: ..._
-        **N. Speaker (Team) — "pull quote" — summary** [MM:SS](link)
-        Speaker: "quote with **names** bolded"   (or **Speaker:** "..." per block)
-        <timestamped link as the last line>
-
-    Differences from yt-quotes: team in the header, every URL is an explicit
-    markdown link, and all fetched text goes through md_escape (HTML/Liquid)."""
-    vid = video["video_id"]
-    url = WATCH_URL_TEMPLATE.format(video_id=vid)
-    title = data.get("video_title") or video.get("title") or "NBA press conference"
-    lines = [
-        f"# {md_escape(title)} — *{md_escape(team)}*",
-        "",
-        f"Source: {md_link(url)}",
-        "",
-    ]
-    named = _named_speakers(data)
-    if named:
-        lines.append(f"_Speakers identified: {md_escape(', '.join(named))}_")
-        lines.append("")
-    for q in data.get("quotes", []):
-        secs = int(q.get("start_seconds") or 0)
-        ts_link = f"https://www.youtube.com/watch?v={vid}&t={secs}s"
-        ts_label = seconds_to_timestamp(secs)
-        rank = q.get("rank", "?")
-        is_named = q.get("speaker_confidence") == "named" and not is_unknown_speaker(q.get("speaker") or "")
-        speaker = md_escape(q.get("speaker")) if is_named else UNIDENTIFIED_SPEAKER
-        q_team = md_escape(q.get("team") or "")
-        guess = "" if is_named else (q.get("speaker_guess") or q.get("speaker") or "")
-        summary = md_escape(scrub_guess(q.get("news_angle") or "", guess))
-        excerpt = md_escape(q.get("pull_quote") or "")
-        # Header: **N. Speaker (Team) — "pull quote" — summary** [MM:SS](url).
-        # Team only for a named speaker: an unidentified voice on a team
-        # channel may be a host or reporter, not a team member.
-        fragments = [f"{speaker} ({q_team})" if is_named and q_team else speaker]
-        if excerpt:
-            fragments.append(f'"{excerpt}"')
-        if summary:
-            fragments.append(summary)
-        inner = " — ".join(fragments)
-        # Times not confirmed against captions are flagged for the editor.
-        approx = " (approx.)" if q.get("timestamp_source", "gemini-approx") == "gemini-approx" else ""
-        lines.append(f"**{rank}. {inner}** [{ts_label}]({ts_link}){approx}")
-        lines.append("")
-        names = [md_escape(n) for n in (q.get("names_mentioned") or [])]
-        blocks = q.get("text_blocks") or []
-        if blocks:
-            for j, block in enumerate(blocks):
-                block_named = block.get("speaker_confidence") == "named" and \
-                    not is_unknown_speaker(block.get("speaker") or "")
-                block_speaker = md_escape(block.get("speaker")) if block_named else UNIDENTIFIED_SPEAKER
-                bolded = _bold_names(md_escape(block.get("text") or ""), names)
-                lines.append(f"**{block_speaker}:** \"{bolded}\"")
-                if j < len(blocks) - 1:
-                    lines.append("")  # blank line -> markdown paragraph break
+def apply_clip_fields(data: dict, derived: dict, team: str, duration_secs: int) -> None:
+    """Add clip fields to each quote dict. The yt-quotes fields themselves
+    (timestamp, speaker, quote, text_blocks, ...) are left untouched."""
+    title = data.get("video_title") or ""
+    seen = set(data.get("speakers_seen") or [])
+    by_rank = derived.get("by_rank") or {}
+    for q in data.get("quotes") or []:
+        text = ytq._canonical_quote_text(q)
+        start = ytq.timestamp_to_seconds(q.get("timestamp") or "0:00")
+        end = start + max(MIN_CLIP_SECS, int(round(ytq._word_count(text) / WORDS_PER_SECOND)))
+        if duration_secs:
+            end = min(end, max(duration_secs, start + 1))
+        d = by_rank.get(q.get("rank"), {})
+        speaker = q.get("speaker") or ""
+        if is_unidentified(speaker):
+            conf = "inferred"
+        elif str(d.get("speaker_confidence") or "").lower() == "named" or title_names_speaker(title, speaker):
+            conf = "named"
+        elif not d:
+            # No clip-field answer: trust the extractor's own rule when the
+            # name is among the speakers it saw identified.
+            conf = "named" if speaker in seen else "inferred"
         else:
-            bolded = _bold_names(md_escape(q.get("text") or ""), names)
-            lines.append(f"{speaker}: \"{bolded}\"")
-        # Timestamped URL as the LAST line of the quote block, as a link.
-        lines.append("")
-        lines.append(md_link(ts_link))
-        lines.append("")
-    return "\n".join(lines)
-
-
-def atomic_write(path: Path, content: str) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    tmp = path.with_name(path.name + ".tmp")
-    try:
-        tmp.write_text(content, encoding="utf-8")
-        tmp.replace(path)
-    except Exception:
-        try:
-            tmp.unlink(missing_ok=True)
-        except Exception:
-            pass
-        raise
-
-
-PC_SOURCE = "captions-pc"
-_PC_FIELDS = ("start_seconds", "end_seconds", "timestamp_source", "align_score", "pc_aligned_at")
-
-
-def preserve_pc_alignments(old: dict, new: dict) -> int:
-    """Quotes the PC job aligned on real captions (timestamp_source
-    "captions-pc") are never overwritten by the cloud. When a video is
-    re-processed, each such quote's times are carried onto the matching new
-    quote (same words, fuzzy); if no new quote matches, the old quote is
-    kept as is. Returns how many were preserved."""
-    old_pc = [q for q in old.get("quotes") or [] if q.get("timestamp_source") == PC_SOURCE]
-    if not old_pc:
-        return 0
-    new_quotes = new.setdefault("quotes", [])
-    for oq in old_pc:
-        target = caption_align.norm_words(oq.get("text") or "")
-        best, best_ratio = None, 0.0
-        for nq in new_quotes:
-            if nq.get("timestamp_source") == PC_SOURCE:
-                continue
-            ratio = SequenceMatcher(None, target, caption_align.norm_words(nq.get("text") or ""),
-                                    autojunk=False).ratio()
-            if ratio > best_ratio:
-                best, best_ratio = nq, ratio
-        if best is not None and best_ratio >= 0.8:
-            for f in _PC_FIELDS:
-                if f in oq:
-                    best[f] = oq[f]
-        else:
-            new_quotes.append(dict(oq))
-    for i, q in enumerate(new_quotes, start=1):
-        q["rank"] = i
-    return len(old_pc)
-
-
-def write_outputs(video: dict, team: str, data: dict) -> Path:
-    day_dir = video_day_dir(video)
-    md_path = day_dir / f"{video['video_id']}.md"
-    json_path = day_dir / f"{video['video_id']}.json"
-    if json_path.is_file():
-        try:
-            old = json.loads(json_path.read_text(encoding="utf-8"))
-        except (OSError, ValueError):
-            old = {}
-        if old is not data and preserve_pc_alignments(old, data):
-            log(f"  [captions-pc] {video['video_id']}: kept PC-aligned times from the existing file")
-    md_content = to_markdown(video, team, data)
-    if not md_content:
-        raise ValueError(f"to_markdown produced empty content for {video['video_id']}")
-    atomic_write(json_path, json.dumps(data, ensure_ascii=False, indent=2))
-    atomic_write(md_path, md_content)
-    return md_path
-
-
-def regenerate_index() -> None:
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    rows = []
-    for day_dir in iter_day_dirs():
-        digest = day_dir / "digest.md"
-        try:
-            if digest.is_file() and digest.stat().st_size > 0:
-                rows.append(day_dir.name)
-        except OSError:
-            pass
-    lines = ["# NBA pressers v2 — index", "",
-             "Clip manifest: [latest_clips.json](latest_clips.json)", ""]
-    if not rows:
-        lines.append("_No videos processed yet._")
-    else:
-        lines.extend(f"- [{d}]({d}/digest.md)" for d in rows)
-    (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
-
-
-def _video_type_for_md(md_path: Path) -> str:
-    try:
-        return video_content_type(json.loads(md_path.with_suffix(".json").read_text(encoding="utf-8")))
-    except (OSError, ValueError):
-        return "presser"
-
-
-def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
-    """Concatenate per-video .md files into one digest (yt-quotes format),
-    grouped into Press conferences / Podcasts & shows / One-offs. Empty
-    sections are left out."""
-    day_dir = OUTPUT_DIR / date_str
-    if not day_dir.is_dir():
-        return None
-    if video_ids is None:
-        md_paths = sorted(p for p in day_dir.glob("*.md") if p.is_file() and not p.name.startswith("digest"))
-    else:
-        md_paths = [day_dir / f"{v}.md" for v in video_ids if (day_dir / f"{v}.md").is_file()]
-    sections = {ctype: [] for ctype in CONTENT_TYPES}
-    for md_path in md_paths:
-        try:
-            content = md_path.read_text(encoding="utf-8").strip()
-        except Exception:
-            continue
-        if not content or not re.search(r"(?m)^\*\*\d+\.", content):
-            continue
-        if content.startswith("# "):
-            content = "##" + content      # video title h1 -> h3, under the h2 section
-        sections[_video_type_for_md(md_path)].append(content)
-    if not any(sections.values()):
-        return None
-    parts = [f"# NBA Pressers — {date_str}", ""]
-    for ctype in CONTENT_TYPES:
-        videos = sections[ctype]
-        if not videos:
-            continue
-        parts.extend([f"## {CONTENT_TYPE_LABELS[ctype]}", ""])
-        for i, content in enumerate(videos):
-            if i:
-                parts.extend(["---", ""])
-            parts.extend([content, ""])
-    parts.extend(["---", "", DIGEST_CLOSING_LINE, ""])
-    digest_path = day_dir / output_filename
-    atomic_write(digest_path, "\n".join(parts))
-    return digest_path
-
-
-def _upgrade_quote(q: dict, title: str) -> bool:
-    """Bring one stored quote up to the current speaker rules. Returns True
-    if it changed. Legacy quotes (no speaker_confidence) are judged by the
-    title rule only; inferred quotes whose guess the title names are
-    promoted."""
-    changed = False
-    if "speaker_confidence" not in q:
-        speaker, conf, guess = resolve_speaker(q.get("speaker"), None, title)
-        q["speaker"], q["speaker_confidence"] = speaker, conf
-        if guess:
-            q["speaker_guess"] = guess
-            q["news_angle"] = scrub_guess(q.get("news_angle") or "", guess)
-            q["social_post"] = scrub_guess(q.get("social_post") or "", guess)
-        changed = True
-    elif q.get("speaker_confidence") != "named" and title_names_speaker(title, q.get("speaker_guess") or ""):
-        q["speaker"], q["speaker_confidence"] = q.pop("speaker_guess"), "named"
-        changed = True
-    if changed:
-        q.setdefault("pull_quote", "")
-        q.setdefault("names_mentioned", [])
-        q.setdefault("timestamp_source", "gemini-approx")
-        q.setdefault("gemini_start_seconds", q.get("start_seconds"))
-        q.setdefault("gemini_end_seconds", q.get("end_seconds"))
-    return changed
-
-
-def backfill_legacy_speakers(cutoff: datetime) -> None:
-    """One pass over stored videos inside the manifest window: apply the
-    current speaker rules to quotes written by older versions, then
-    re-render their .md and the day's aggregate digest. No Gemini calls.
-    Idempotent: files already up to date are left untouched."""
-    touched_dates, upgraded, promoted_named = set(), 0, 0
-    for day_dir in iter_day_dirs():
-        for js in day_dir.glob("*.json"):
-            if not VIDEO_ID_RE.match(js.stem):
-                continue
-            try:
-                data = json.loads(js.read_text(encoding="utf-8"))
-            except (OSError, ValueError):
-                continue
-            pub = parse_iso(data.get("published") or "")
-            processed = parse_iso(data.get("processed_at") or "")
-            if not any(t and t >= cutoff for t in (pub, processed)):
-                continue
-            title = data.get("video_title") or ""
-            changed = [q for q in data.get("quotes") or [] if _upgrade_quote(q, title)]
-            if not changed:
-                continue
-            upgraded += len(changed)
-            promoted_named += sum(1 for q in changed if q["speaker_confidence"] == "named")
-            data["speakers_backfilled_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            atomic_write(js, json.dumps(data, ensure_ascii=False, indent=2))
-            video = {"video_id": js.stem, "title": title}
-            atomic_write(day_dir / f"{js.stem}.md", to_markdown(video, data.get("channel_team") or "", data))
-            touched_dates.add(day_dir.name)
-    for d in sorted(touched_dates):
-        write_digest_file(d, "digest.md", video_ids=None)
-    if upgraded:
-        log(f"[backfill] applied current speaker rules to {upgraded} stored quote(s) "
-            f"({promoted_named} named via video title) across {len(touched_dates)} day(s)")
-
-
-def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
-    """Rolling manifest of every clip from videos published OR processed in
-    the last window_hours, rebuilt from the per-video JSON on disk so a run
-    that finds nothing new still leaves the recent clips available."""
-    now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(hours=window_hours)
-    clips = []
-    skipped_unnamed = 0
-    for day_dir in iter_day_dirs():
-        for js in day_dir.glob("*.json"):
-            if not VIDEO_ID_RE.match(js.stem):
-                continue
-            try:
-                data = json.loads(js.read_text(encoding="utf-8"))
-            except (OSError, ValueError):
-                continue
-            pub = parse_iso(data.get("published") or "")
-            processed = parse_iso(data.get("processed_at") or "")
-            if not any(t and t >= cutoff for t in (pub, processed)):
-                continue
-            vid = js.stem
-            for q in data.get("quotes") or []:
-                # The clipper burns "speaker" into a lower third, so only
-                # speakers named in the video itself make it into the
-                # manifest. Legacy JSON without the field is excluded too.
-                if q.get("speaker_confidence") != "named" or is_unknown_speaker(q.get("speaker") or ""):
-                    skipped_unnamed += 1
-                    continue
-                try:
-                    start, end = int(q["start_seconds"]), int(q["end_seconds"])
-                except (KeyError, TypeError, ValueError):
-                    continue
-                clips.append({
-                    "clip_id": f"{vid}_{start}_{end}",
-                    "video_id": vid,
-                    "url": WATCH_URL_TEMPLATE.format(video_id=vid),
-                    "clip_url": f"https://www.youtube.com/watch?v={vid}&t={start}s",
-                    "start_seconds": start,
-                    "end_seconds": end,
-                    "duration_seconds": end - start,
-                    "speaker": q.get("speaker") or "",
-                    "team": q.get("team") or data.get("channel_team") or "",
-                    "text": q.get("text") or "",
-                    "news_angle": q.get("news_angle") or "",
-                    "social_post": q.get("social_post") or "",
-                    "rank": q.get("rank"),
-                    "video_title": data.get("video_title") or "",
-                    "channel_team": data.get("channel_team") or "",
-                    "published": data.get("published") or "",
-                    "publish_date": day_dir.name,
-                    # Added fields (existing ones above are the clipper's contract).
-                    "speaker_confidence": q.get("speaker_confidence") or "",
-                    "pull_quote": q.get("pull_quote") or "",
-                    "news_score": q.get("news_score"),
-                    "timestamp_source": q.get("timestamp_source") or "gemini-approx",
-                    "align_score": q.get("align_score"),
-                    "gemini_start_seconds": q.get("gemini_start_seconds", start),
-                    "gemini_end_seconds": q.get("gemini_end_seconds", end),
-                    "run_id": data.get("run_id") or "",
-                    "processed_at": data.get("processed_at") or "",
-                    "content_type": video_content_type(data),
-                })
-    clips.sort(key=lambda c: (c["published"], -(c["rank"] or 0)), reverse=True)
-    if skipped_unnamed:
-        log(f"[clips] left out {skipped_unnamed} quote(s) without a speaker named in the video")
-    # The clipper's default pick-list is "the most recent run that produced
-    # clips": the run_id of the most recently processed clip.
-    latest = max(clips, key=lambda c: c["processed_at"], default=None)
-    return {
-        "generated_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "latest_run_id": latest["run_id"] if latest else "",
-        "run_slot": run_slot,
-        "window_hours": window_hours,
-        "count": len(clips),
-        "clips": clips,
-    }
-
-
-def write_clip_manifest(manifest: dict) -> None:
-    content = json.dumps(manifest, ensure_ascii=False, indent=2) + "\n"
-    atomic_write(LATEST_CLIPS_PATH, content)
-    atomic_write(CLIPS_ARCHIVE_DIR / f"{manifest['generated_at'][:10]}.json", content)
-    log(f"[clips] wrote {manifest['count']} clip(s) to {LATEST_CLIPS_PATH.relative_to(ROOT.parent)}")
+            conf = "inferred"
+        q.update({
+            "start_seconds": start,
+            "end_seconds": end,
+            "speaker_confidence": conf,
+            "news_score": _news_score(d.get("news_score")),
+            "social_post": clean_social_post(" ".join(str(d.get("social_post") or "").split())),
+            "team": team,
+        })
 
 
 # --------------------------------------------------------------------------- #
-# Caption alignment (cloud). GitHub runner IPs are often blocked by YouTube;
-# after the first block we stop trying for the rest of the run.
-# --------------------------------------------------------------------------- #
-
-_captions_blocked = threading.Event()
-CAPTION_TIMEOUT_SECS = 20
-
-
-class _TimeoutSession(requests.Session):
-    """requests.Session with a default timeout, so a stuck caption fetch
-    can't hang a worker thread (youtube-transcript-api sets none)."""
-
-    def request(self, *args, **kwargs):
-        kwargs.setdefault("timeout", CAPTION_TIMEOUT_SECS)
-        return super().request(*args, **kwargs)
-
-
-def caption_error_reason(exc: Exception) -> str:
-    """One line, no URLs: exception class + the library's stated cause.
-    youtube-transcript-api messages are multi-paragraph ("... This is most
-    likely caused by:\n\n<cause>"); proxies can put credentials in URLs,
-    so every URL is replaced with <url>."""
-    msg = str(exc) or ""
-    m = re.search(r"most likely caused by:\s*(.+)", msg, flags=re.S)
-    body = m.group(1) if m else msg
-    line = next((ln.strip() for ln in body.splitlines() if ln.strip()), "")
-    line = re.sub(r"\w+://\S+", "<url>", line)
-    line = re.split(r"(?<=\.)\s", line)[0]     # first sentence is the cause
-    return f"{type(exc).__name__}: {line[:200]}" if line else type(exc).__name__
-
-
-_caption_block_reason = ""
-
-
-def fetch_caption_words(video_id: str) -> tuple[list, str]:
-    """Return ([(start, end, token)], status). status is "ok",
-    "unavailable: <reason>", "blocked: <reason>" or "error: <reason>".
-    After the first block the rest of the run is skipped with the same reason."""
-    global _caption_block_reason
-    if _captions_blocked.is_set():
-        return [], f"skipped (blocked earlier this run: {_caption_block_reason})"
-    try:
-        from youtube_transcript_api import YouTubeTranscriptApi
-    except ImportError:
-        return [], "error: youtube-transcript-api not installed"
-    languages = ["en", "en-US", "en-GB"]
-    try:
-        try:
-            api = YouTubeTranscriptApi(http_client=_TimeoutSession())
-            fetched = api.fetch(video_id, languages=languages)
-            segments = [(sn.start, sn.duration, sn.text) for sn in fetched]
-        except TypeError:
-            # pre-1.0 releases: static get_transcript
-            raw = YouTubeTranscriptApi.get_transcript(video_id, languages=languages)
-            segments = [(r["start"], r["duration"], r["text"]) for r in raw]
-    except Exception as e:
-        name = type(e).__name__
-        reason = caption_error_reason(e)
-        if name in ("RequestBlocked", "IpBlocked", "TooManyRequests") or "blocked" in str(e).lower():
-            _caption_block_reason = reason
-            _captions_blocked.set()
-            return [], f"blocked: {reason}"
-        if name in ("NoTranscriptFound", "TranscriptsDisabled", "VideoUnavailable"):
-            return [], f"unavailable: {reason}"
-        if isinstance(e, requests.RequestException):
-            # Network-level failure (proxy, timeout, reset): same as a block
-            # for this run's purposes; don't pay for it on every video.
-            _caption_block_reason = reason
-            _captions_blocked.set()
-        return [], f"error: {reason}"
-    return caption_align.words_from_segments(segments), "ok"
-
-
-def align_to_captions(video_id: str, quotes: list) -> str:
-    """Replace Gemini's times with caption-aligned ones where the match is
-    confident. Each quote gets timestamp_source "captions" or "gemini-approx"
-    and, when aligned, align_score. Returns the caption fetch status."""
-    words, status = fetch_caption_words(video_id)
-    aligned = 0
-    for q in quotes:
-        q["timestamp_source"] = "gemini-approx"
-        if not words:
-            continue
-        hit = caption_align.align_quote(q["text"], words, hint_start=q["gemini_start_seconds"])
-        if hit and hit["score"] >= caption_align.MIN_ALIGN_SCORE:
-            q["start_seconds"] = int(hit["start"])            # floor: never cut the first word
-            q["end_seconds"] = int(math.ceil(hit["end"]))
-            q["timestamp_source"] = "captions"
-            q["align_score"] = hit["score"]
-            aligned += 1
-        elif hit:
-            q["align_score"] = hit["score"]
-    if words:
-        status = f"ok ({aligned}/{len(quotes)} aligned)"
-    return status
-
-
-# --------------------------------------------------------------------------- #
-# Per-video processing
+# Per-video processing: yt-quotes' process_video, then the clip fields
 # --------------------------------------------------------------------------- #
 
 def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
-    url = video["url"]
-    video_id = video["video_id"]
-    day_dir = video_day_dir(video)
-    day_dir.mkdir(parents=True, exist_ok=True)
-    expected_title = video.get("title") or ""
-    duration_secs = int(video.get("duration") or 0)
-    log(f"  [meta] {video_id} publish={publish_date(video)} title={expected_title!r} duration={duration_secs}s")
+    """Run the vendored yt-quotes process_video (it writes the .json/.md),
+    then add clip fields + content type and rewrite the .json/.md."""
+    is_one_off = bool(video.get("is_one_off"))
+    # yt-quotes routes its one-offs to output/oneoffs/; pressers keeps every
+    # video in output/<date>/ and marks one-offs with content_type instead.
+    ytq_video = {k: v for k, v in video.items() if k != "is_one_off"}
+    _tl.duration = int(video.get("duration") or 0)
+    status, data = ytq.process_video(client, ytq_video, team, [], [])
+    if status != "ok" or not data:
+        return status, data
 
-    chunks = compute_chunks(duration_secs)
-    if chunks is None:
-        log(f"  too-long on {video_id}: {duration_secs}s exceeds {MAX_CHUNKS}h chunking cap")
-        (day_dir / f"{video_id}.SKIPPED-too-long").write_text("", encoding="utf-8")
-        return "too-long", None
-
-    n_chunks = len(chunks)
-    chunk_results: list = []
-    hallucinated = 0
-    for i, (start_off, end_off) in enumerate(chunks):
-        chunk_label = f"chunk {i + 1}/{n_chunks}"
-        if start_off is not None:
-            log(f"  [{chunk_label}] processing {video_id} from {start_off}s to {end_off}s")
-        attempts_parse = 0
-        while True:
-            try:
-                raw_text, _usage = call_gemini_with_retry(
-                    client, url, expected_title, team, duration_secs,
-                    start_offset_secs=start_off, end_offset_secs=end_off,
-                )
-            except (TransientServerOverload, SpendingCapExhausted):
-                raise
-            except Exception as e:
-                if gemini_error_status(e) == 400 or is_token_limit_error(e):
-                    log(f"  [{chunk_label}] token-limit / 400 on {video_id}: {e}; skipping chunk")
-                else:
-                    log(f"  [{chunk_label}] unexpected Gemini error on {video_id}: {e}; skipping chunk")
-                break
-            try:
-                data = json.loads(raw_text)
-            except json.JSONDecodeError as e:
-                attempts_parse += 1
-                log(f"  [{chunk_label}] malformed JSON (attempt {attempts_parse}): {e}")
-                if attempts_parse >= 2:
-                    break
-                continue
-            if not isinstance(data, dict):
-                log(f"  [{chunk_label}] JSON was not an object; skipping chunk")
-                break
-            echoed = (data.get("video_title") or "").strip()
-            overlap = title_word_overlap(expected_title, echoed)
-            if overlap <= HALLUCINATION_OVERLAP_THRESHOLD:
-                hallucinated += 1
-                log(f"  [{chunk_label}] [hallucination] title mismatch (overlap {overlap:.0%}): "
-                    f"expected {expected_title!r}, got {echoed!r}; skipping chunk")
-                break
-            offset = start_off or 0
-            quotes = [normalize_quote(q, offset, duration_secs, team, expected_title)
-                      for q in (data.get("quotes") or [])]
-            data["quotes"] = [q for q in quotes if q]
-            chunk_results.append(data)
-            break
-
-    if not chunk_results:
-        log(f"  all {n_chunks} chunk(s) failed for {video_id}")
-        return ("failed-hallucination" if hallucinated == n_chunks else "failed-other"), None
-
-    merged = {
-        "video_id": video_id,
-        "url": url,
-        "video_title": (chunk_results[0].get("video_title") or expected_title).strip(),
+    derived = derive_clip_fields(client, data, team)
+    apply_clip_fields(data, derived, team, int(video.get("duration") or 0))
+    data["content_type"], data["content_type_source"] = classify_content_type(
+        data.get("video_title") or video.get("title") or "", is_one_off, derived.get("content_type"))
+    data.update({
+        "format": FORMAT_VERSION,
+        "video_id": video["video_id"],
+        "url": WATCH_URL_TEMPLATE.format(video_id=video["video_id"]),
         "channel_team": team,
         "published": video.get("published") or "",
-        "duration_seconds": duration_secs,
+        "duration_seconds": int(video.get("duration") or 0),
         "processed_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "run_id": RUN_ID,
-        "model": MODEL,
-        "speakers_seen": [],
-        "quotes": [],
-    }
-    seen = set()
-    for d in chunk_results:
-        for s in d.get("speakers_seen") or []:
-            if isinstance(s, str) and s.strip() and s not in seen:
-                seen.add(s)
-                merged["speakers_seen"].append(s)
-        merged["quotes"].extend(d["quotes"])
-    merged["quotes"] = finalize_quotes(merged["quotes"])
-    merged["is_one_off"] = bool(video.get("is_one_off"))
-    merged["content_type"], merged["content_type_source"] = classify_content_type(
-        expected_title, merged["is_one_off"], chunk_results[0].get("content_type"))
-    merged["caption_status"] = align_to_captions(video_id, merged["quotes"])
-    log(f"  {video_id}: {len(merged['quotes'])} quote(s), {merged['content_type']} "
-        f"({merged['content_type_source']})")
-    log(f"  [captions] {video_id}: {merged['caption_status']}")
-    write_outputs(video, team, merged)
-    return "ok", merged
+        "is_one_off": is_one_off,
+    })
+    day_dir = video_day_dir(video)
+    atomic_write(day_dir / f"{video['video_id']}.json", json.dumps(data, ensure_ascii=False, indent=2))
+    atomic_write(day_dir / f"{video['video_id']}.md", render_markdown(video["video_id"], team, data))
+    log(f"  {video['video_id']}: {len(data.get('quotes') or [])} quote(s), {data['content_type']} "
+        f"({data['content_type_source']})")
+    return "ok", data
 
 
 def process_one_video(client, team: str, video: dict, lock, summary, processed_items,
@@ -1659,7 +679,7 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
         return
 
     log(f"  -> {video_id} [{team}{' / one-off' if video.get('is_one_off') else ''}]: {video['title'][:80]}")
-    inner_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"vid-{video_id}")
+    inner_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"vid{video_id}")
     future = inner_pool.submit(process_video, client, video, team)
     try:
         try:
@@ -1667,11 +687,11 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
         except FuturesTimeoutError:
             log(f"  [timeout] video {video_id} exceeded {PER_VIDEO_TIMEOUT_SECS // 60}min, abandoning")
             status, data = "failed-timeout", None
-        except SpendingCapExhausted as e:
+        except ytq.SpendingCapExhausted as e:
             _spending_cap_hit.set()
             log(f"  [SPENDING CAP] {video_id}: {e} — aborting remaining queue this run")
             status, data = "aborted-spending-cap", None
-        except TransientServerOverload as e:
+        except ytq.TransientServerOverload as e:
             _transient_overload_hit.set()
             log(f"  [DEFERRED] {video_id}: Gemini overload after retries ({e}) — deferring rest of queue")
             status, data = "deferred-transient", None
@@ -1705,8 +725,8 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
                 "video_id": video_id,
                 "title": data.get("video_title") or video.get("title") or video_id,
                 "channel": team,
-                "top_quote": top.get("text", ""),
-                "speaker": top.get("speaker", ""),
+                "top_quote": ytq._canonical_quote_text(top) if top else "",
+                "speaker": "" if is_unidentified(top.get("speaker") or "") else top.get("speaker", ""),
                 "social_post": top.get("social_post", ""),
                 "clip_count": len(quotes),
                 "date": publish_date(video),
@@ -1715,6 +735,227 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
             })
         elif status == "deferred-transient":
             _deferred_items.append(deferred_record)
+
+
+# --------------------------------------------------------------------------- #
+# Outputs: digests (three sections), index, clip manifest, legacy migration
+# --------------------------------------------------------------------------- #
+
+def _video_type_for_md(md_path: Path) -> str:
+    try:
+        return video_content_type(json.loads(md_path.with_suffix(".json").read_text(encoding="utf-8")))
+    except (OSError, ValueError):
+        return "presser"
+
+
+def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
+    """yt-quotes' digest, grouped into Press conferences / Podcasts & shows /
+    One-offs (empty sections skipped). Each video block is the per-video .md
+    exactly as yt-quotes' write_digest_file includes it (h1 demoted to h2,
+    "---" between videos, closing link at the end)."""
+    day_dir = OUTPUT_DIR / date_str
+    if not day_dir.is_dir():
+        return None
+    if video_ids is None:
+        md_paths = sorted(p for p in day_dir.glob("*.md") if p.is_file() and not p.name.startswith("digest"))
+    else:
+        md_paths = [day_dir / f"{v}.md" for v in video_ids if (day_dir / f"{v}.md").is_file()]
+    sections = {ctype: [] for ctype in CONTENT_TYPES}
+    for md_path in md_paths:
+        try:
+            content = md_path.read_text(encoding="utf-8").strip()
+        except Exception:
+            continue
+        if not content or not re.search(r'(?m)^\*\*\d+\.', content):
+            continue
+        if content.startswith("# "):
+            content = "#" + content  # demote h1 to h2 (as yt-quotes does)
+        sections[_video_type_for_md(md_path)].append(content)
+    if not any(sections.values()):
+        return None
+    parts = [f"# NBA Pressers — {date_str}", ""]
+    first_section = True
+    for ctype in CONTENT_TYPES:
+        videos = sections[ctype]
+        if not videos:
+            continue
+        if not first_section:
+            parts.extend(["---", ""])
+        first_section = False
+        parts.extend([f"# {CONTENT_TYPE_LABELS[ctype]}", ""])
+        for i, content in enumerate(videos):
+            if i:
+                parts.extend(["---", ""])
+            parts.extend([content, ""])
+    parts.extend(["---", "", ytq.DIGEST_CLOSING_LINE, ""])
+    digest_path = day_dir / output_filename
+    atomic_write(digest_path, "\n".join(parts))
+    return digest_path
+
+
+def regenerate_index() -> None:
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    rows = []
+    for day_dir in iter_day_dirs():
+        digest = day_dir / "digest.md"
+        try:
+            if digest.is_file() and digest.stat().st_size > 0:
+                rows.append(day_dir.name)
+        except OSError:
+            pass
+    lines = ["# NBA Pressers — index", "", "Clip manifest: [latest_clips.json](latest_clips.json)", ""]
+    if not rows:
+        lines.append("_No videos processed yet._")
+    else:
+        lines.extend(f"- [{d}]({d}/digest.md)" for d in rows)
+    (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def _legacy_to_ytq(q: dict) -> dict:
+    """Quote in the old pressers shape -> yt-quotes shape (+ clip fields)."""
+    start = int(q.get("start_seconds") or 0)
+    out = {
+        "rank": q.get("rank"),
+        "speaker": q.get("speaker") or "",
+        "timestamp": ytq._seconds_to_timestamp(start),
+        "summary_phrase": q.get("news_angle") or "",
+        "names_mentioned": q.get("names_mentioned") or [],
+        "excerpt": q.get("pull_quote") or "",
+        "quote": q.get("text") or "",
+    }
+    blocks = [{"speaker": b.get("speaker") or "", "text": b.get("text") or ""}
+              for b in (q.get("text_blocks") or []) if isinstance(b, dict)]
+    if blocks:
+        out["quote"] = ""
+        out["text_blocks"] = blocks
+        out["speakers"] = [b["speaker"] for b in blocks]
+    for key in ("start_seconds", "end_seconds", "speaker_confidence", "news_score", "social_post", "team"):
+        if key in q:
+            out[key] = q[key]
+    return out
+
+
+def migrate_legacy_outputs() -> None:
+    """Convert videos stored in the earlier pressers format to the yt-quotes
+    format and re-render their .md, so every digest reads the same. No
+    Gemini calls; idempotent (files already in the new format are skipped)."""
+    touched = set()
+    for day_dir in iter_day_dirs():
+        for js in day_dir.glob("*.json"):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            if data.get("format") == FORMAT_VERSION or not isinstance(data, dict):
+                continue
+            quotes = data.get("quotes") or []
+            if quotes and "timestamp" not in quotes[0]:
+                data["quotes"] = [_legacy_to_ytq(q) for q in quotes]
+            team = data.get("channel_team") or ""
+            for q in data["quotes"]:
+                q.setdefault("team", team)
+                if "speaker_confidence" not in q:
+                    sp = q.get("speaker") or ""
+                    q["speaker_confidence"] = ("named" if not is_unidentified(sp) and
+                                               title_names_speaker(data.get("video_title") or "", sp)
+                                               else "inferred")
+                if "start_seconds" not in q:
+                    q["start_seconds"] = ytq.timestamp_to_seconds(q.get("timestamp") or "0:00")
+                if "end_seconds" not in q:
+                    words = ytq._word_count(ytq._canonical_quote_text(q))
+                    q["end_seconds"] = q["start_seconds"] + max(MIN_CLIP_SECS, int(round(words / WORDS_PER_SECOND)))
+            data["format"] = FORMAT_VERSION
+            data.setdefault("video_id", js.stem)
+            atomic_write(js, json.dumps(data, ensure_ascii=False, indent=2))
+            atomic_write(day_dir / f"{js.stem}.md", render_markdown(js.stem, team, data))
+            touched.add(day_dir.name)
+    for d in sorted(touched):
+        write_digest_file(d, "digest.md", video_ids=None)
+    if touched:
+        log(f"[migrate] converted older pressers output to the yt-quotes format in {len(touched)} day folder(s)")
+
+
+def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
+    """Rolling manifest of every clip from videos published OR processed in
+    the last window_hours, rebuilt from the per-video JSON on disk. Only
+    quotes whose speaker is named in the video make it in (the clipper burns
+    the speaker into a lower third). Field set is a superset of the
+    original manifest so older clippers keep working."""
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=window_hours)
+    clips, skipped_unnamed = [], 0
+    for day_dir in iter_day_dirs():
+        for js in day_dir.glob("*.json"):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            pub = parse_iso(data.get("published") or "")
+            processed = parse_iso(data.get("processed_at") or "")
+            if not any(t and t >= cutoff for t in (pub, processed)):
+                continue
+            vid = js.stem
+            for q in data.get("quotes") or []:
+                speaker = q.get("speaker") or ""
+                if q.get("speaker_confidence") != "named" or is_unidentified(speaker):
+                    skipped_unnamed += 1
+                    continue
+                try:
+                    start, end = int(q["start_seconds"]), int(q["end_seconds"])
+                except (KeyError, TypeError, ValueError):
+                    continue
+                clips.append({
+                    "clip_id": f"{vid}_{start}_{end}",
+                    "video_id": vid,
+                    "url": WATCH_URL_TEMPLATE.format(video_id=vid),
+                    "clip_url": f"https://www.youtube.com/watch?v={vid}&t={start}s",
+                    "start_seconds": start,
+                    "end_seconds": end,
+                    "duration_seconds": end - start,
+                    "speaker": speaker,
+                    "team": q.get("team") or data.get("channel_team") or "",
+                    "text": ytq._canonical_quote_text(q),
+                    "news_angle": q.get("summary_phrase") or "",
+                    "social_post": q.get("social_post") or "",
+                    "rank": q.get("rank"),
+                    "video_title": data.get("video_title") or "",
+                    "channel_team": data.get("channel_team") or "",
+                    "published": data.get("published") or "",
+                    "publish_date": day_dir.name,
+                    "speaker_confidence": "named",
+                    "pull_quote": q.get("excerpt") or "",
+                    "news_score": q.get("news_score"),
+                    "timestamp_source": "gemini",
+                    "align_score": None,
+                    "gemini_start_seconds": start,
+                    "gemini_end_seconds": end,
+                    "run_id": data.get("run_id") or "",
+                    "processed_at": data.get("processed_at") or "",
+                    "content_type": video_content_type(data),
+                })
+    clips.sort(key=lambda c: (c["published"], -(c["rank"] or 0)), reverse=True)
+    if skipped_unnamed:
+        log(f"[clips] left out {skipped_unnamed} quote(s) without a speaker named in the video")
+    latest = max(clips, key=lambda c: c["processed_at"], default=None)
+    return {
+        "generated_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "latest_run_id": latest["run_id"] if latest else "",
+        "run_slot": run_slot,
+        "window_hours": window_hours,
+        "count": len(clips),
+        "clips": clips,
+    }
+
+
+def write_clip_manifest(manifest: dict) -> None:
+    content = json.dumps(manifest, ensure_ascii=False, indent=2) + "\n"
+    atomic_write(LATEST_CLIPS_PATH, content)
+    atomic_write(CLIPS_ARCHIVE_DIR / f"{manifest['generated_at'][:10]}.json", content)
+    log(f"[clips] wrote {manifest['count']} clip(s) to latest_clips.json")
 
 
 # --------------------------------------------------------------------------- #
@@ -1838,8 +1079,7 @@ def main() -> int:
         log(f"ERROR: missing env vars: {', '.join(missing)}")
         return 1
 
-    global RUN_ID, SCRIPT_START
-    SCRIPT_START = time.monotonic()
+    global RUN_ID
     started = datetime.now(timezone.utc)
     today = started.strftime("%Y-%m-%d")
     run_slot = determine_run_slot()
@@ -1856,7 +1096,7 @@ def main() -> int:
     max_total = int(config.get("max_videos_per_run", 30))
     max_per_channel = int(config.get("max_videos_per_channel_per_run", 6))
 
-    backfill_legacy_speakers(cutoff)
+    migrate_legacy_outputs()
 
     def finish_without_videos() -> int:
         regenerate_index()
@@ -1969,9 +1209,9 @@ def main() -> int:
                               "failed-other", "aborted-spending-cap", "deferred-transient")}
     processed_items: list = []
     results: list = []
+    _count_gemini_calls(client)
     state_lock = threading.Lock()
-    # One executor for extraction and then refinement. Not a `with` block:
-    # its exit would wait for any hung call; we shut down without waiting.
+    # Not a `with` block: its exit would wait for any hung call.
     ex = ThreadPoolExecutor(max_workers=VIDEO_WORKERS)
     try:
         futures = [ex.submit(process_one_video, client, team, video, state_lock, summary,
@@ -1982,12 +1222,10 @@ def main() -> int:
                 fut.result()
             except Exception as e:
                 log(f"  unhandled worker exception: {e}")
-        # Step 4b: refine timestamps that captions couldn't confirm, with
-        # whatever is left of the run budget (extraction always comes first).
-        refine_deadline = SCRIPT_START + SCRIPT_TIMEOUT_SECS - REFINE_RESERVE_SECS
-        run_refinement(ex, make_refine_client(gemini_key, client), results, refine_deadline)
     finally:
         ex.shutdown(wait=False, cancel_futures=True)
+    log(f"Gemini calls: {_stats['extract_calls']} extraction ({_stats['video_seconds']}s of video sent), "
+        f"{_stats['text_calls']} text-only (quote splitter + clip fields)")
 
     # Step 5: digests, index, clip manifest.
     per_run_filename = f"digest-{run_slot}.md"
