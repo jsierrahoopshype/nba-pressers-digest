@@ -866,6 +866,95 @@ def write_outputs(video: dict, channel_name: str, data: dict, raw_text: str) -> 
     return md_path
 
 
+def write_digest_file(
+    date_str: str,
+    track: str,
+    output_filename: str,
+    video_ids: list | None = None,
+) -> Path | None:
+    """Concatenate per-video <video_id>.md files into a single digest file.
+
+    track="rotation" -> output/<date>/<output_filename>
+    track="oneoff"   -> output/oneoffs/<date>/<output_filename>
+
+    video_ids=None: include every per-video .md in the folder (the
+    aggregate digest). Files whose names start with "digest" are excluded
+    so the function doesn't recursively pull its own prior output back in.
+
+    video_ids=[...]: include ONLY those video_ids, in the given order.
+    Used for per-run digests where the content should reflect only the
+    videos that this specific run processed.
+
+    Returns the path to the written digest, or None if there's nothing to
+    publish (folder missing, no per-video .md to include, all candidates
+    quoteless). The closing CHECK OTHER YOUTUBE PODCASTS HERE link is
+    appended to every digest under a horizontal rule.
+    """
+    if track == "oneoff":
+        day_dir = OUTPUT_DIR / "oneoffs" / date_str
+    else:
+        day_dir = OUTPUT_DIR / date_str
+    if not day_dir.is_dir():
+        return None
+
+    if video_ids is None:
+        video_md_paths = sorted(
+            p for p in day_dir.glob("*.md")
+            if p.is_file() and not p.name.startswith("digest")
+        )
+    else:
+        video_md_paths = []
+        for vid in video_ids:
+            p = day_dir / f"{vid}.md"
+            if p.is_file():
+                video_md_paths.append(p)
+    if not video_md_paths:
+        return None
+
+    parts = [f"# HoopsHype YT Quotes — {date_str}", ""]
+    first = True
+    for md_path in video_md_paths:
+        try:
+            content = md_path.read_text(encoding="utf-8").strip()
+        except Exception:
+            continue
+        if not content:
+            continue
+        # Skip videos that processed cleanly but produced zero quotes.
+        # Quote headers start with "**<n>. " in the rendered markdown.
+        if not re.search(r'(?m)^\*\*\d+\.', content):
+            continue
+        if content.startswith("# "):
+            content = "#" + content  # demote h1 to h2
+        if not first:
+            parts.append("---")
+            parts.append("")
+        first = False
+        parts.append(content)
+        parts.append("")
+
+    if first:
+        return None
+
+    parts.append("---")
+    parts.append("")
+    parts.append(DIGEST_CLOSING_LINE)
+    parts.append("")
+
+    digest_path = day_dir / output_filename
+    tmp = digest_path.with_name(digest_path.name + ".tmp")
+    try:
+        tmp.write_text("\n".join(parts), encoding="utf-8")
+        tmp.replace(digest_path)
+    except Exception:
+        try:
+            tmp.unlink(missing_ok=True)
+        except Exception:
+            pass
+        raise
+    return digest_path
+
+
 def _reporter_gate_check(merged: dict, require_speakers: list) -> str | None:
     """Returns None when at least one required reporter is present in the
     Gemini output; returns a comma-joined display of the required list

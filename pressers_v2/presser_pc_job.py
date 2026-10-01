@@ -1,21 +1,30 @@
 """
-Unattended PC job for NBA pressers v2: renders clips locally.
+Automatic clip job for NBA Presser Clips: renders the top clips locally.
 
-Windows Task Scheduler runs it (via run-presser-pc-job.bat) 30 minutes after
-each pressers-v2 cloud run. Each run renders the top 10 clips by news_score
-from the latest clip list into Documents\\presser-clips\\<date>\\pressers|
-podcasts|oneoffs\\ (clips already rendered are skipped). Before each cut the
-clipper aligns the quote on the video's captions locally (or Whisper), so
-cuts are exact. Nothing is written to GitHub and no token is needed.
+Two ways it gets installed:
+  * install-presser-clips.bat / install-presser-clips-mac.command (any
+    computer): settings.json sits next to this file. Clips go to the folder
+    and formats chosen at install; the scheduler (Task Scheduler on Windows,
+    launchd on macOS) starts it every 30 minutes with --only-new, so it only
+    works when a new cloud run is out.
+  * the older install-presser-pc-job.bat (Windows): no settings.json; Task
+    Scheduler runs it 30 minutes after each cloud run and it renders vertical
+    clips into <home>\\Documents\\presser-clips, as before.
+
+Each run renders the top 10 quotes by news_score from the latest clip list
+(clips already in the folder are skipped). Before each cut the clipper aligns
+the quote on the video's captions locally (or Whisper), so cuts are exact.
+Nothing is written to GitHub and no token is needed.
 
     python presser_pc_job.py                         normal run
-    python presser_pc_job.py --write-task-xml FILE   scheduler definition (installer)
+    python presser_pc_job.py --only-new              skip unless a new cloud run is out
+    python presser_pc_job.py --write-task-xml FILE   scheduler definition (older installer)
 """
 
 import argparse
+import json
 import os
 import re
-import shutil
 import subprocess
 import sys
 import time
@@ -30,12 +39,36 @@ WORKFLOW_RAW_URL = ("https://raw.githubusercontent.com/jsierrahoopshype/nba-pres
 FALLBACK_CRON_UTC = ["06:15", "14:15", "20:15"]   # used only if the workflow can't be read
 DELAY_AFTER_CRON_MIN = 30
 
-HOME = Path(os.environ.get("NBA_PC_HOME") or os.environ.get("USERPROFILE") or Path.home())
-WORK = HOME / "Documents" / "nba-pressers-digest-pc"
-CLIPS_ROOT = HOME / "Documents" / "presser-clips"
-LOG_PATH = CLIPS_ROOT / "pc-job-log.txt"
+APP_DIR = Path(__file__).resolve().parent
+SETTINGS_PATH = APP_DIR / "settings.json"
 TOP_CLIPS = 10
 LOG_MAX_BYTES = 2_000_000
+
+
+def _load_settings() -> dict:
+    try:
+        data = json.loads(SETTINGS_PATH.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except (OSError, ValueError):
+        return {}
+
+
+SETTINGS = _load_settings()
+HOME = Path(os.environ.get("NBA_PC_HOME") or os.environ.get("USERPROFILE") or Path.home())
+if SETTINGS.get("out_dir"):
+    # installed by install-presser-clips (any computer)
+    WORK = APP_DIR
+    CLIPS_ROOT = Path(SETTINGS["out_dir"])
+    LOG_PATH = APP_DIR / "auto-log.txt"     # per computer, never in a shared clips folder
+    FORMATS = ",".join(f for f in SETTINGS.get("formats") or [] if f in ("vertical", "youtube", "square")) \
+        or "vertical,youtube,square"
+else:
+    # the older Windows install-presser-pc-job.bat layout: vertical only, as before
+    WORK = HOME / "Documents" / "nba-pressers-digest-pc"
+    CLIPS_ROOT = HOME / "Documents" / "presser-clips"
+    LOG_PATH = CLIPS_ROOT / "pc-job-log.txt"
+    FORMATS = "vertical"
+STATE_PATH = WORK / "last-auto-run.txt"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
@@ -141,7 +174,7 @@ class Lock:
     def __enter__(self):
         self.path.parent.mkdir(parents=True, exist_ok=True)
         if self.path.exists() and time.time() - self.path.stat().st_mtime < 3 * 3600:
-            raise RuntimeError("another PC job run is still going (lock file is fresh)")
+            raise RuntimeError("another clip job run is still going (lock file is fresh)")
         self.path.write_text(str(os.getpid()), encoding="utf-8")
         return self
 
@@ -152,16 +185,33 @@ class Lock:
             pass
 
 
-def run_job() -> int:
-    log("=" * 60)
-    log("PC job starting")
-    if not shutil.which("ffmpeg"):
-        log("[X] ffmpeg not found. Fix: winget install --id Gyan.FFmpeg -e  (then log out and back in)")
-        return 2
+def latest_run_id(mc) -> str:
+    """The clip list's latest run, or '' if it can't be read right now."""
+    try:
+        return str(mc.load_manifest(mc.MANIFEST_URL).get("latest_run_id") or "")
+    except Exception:
+        return ""
+
+
+def run_job(only_new: bool = False) -> int:
     import make_presser_clips as mc
+    run_id = ""
+    if only_new:
+        run_id = latest_run_id(mc)
+        try:
+            last = STATE_PATH.read_text(encoding="utf-8").strip()
+        except OSError:
+            last = ""
+        if not run_id or run_id == last:
+            return 0          # nothing new (or offline): stay quiet, no log line every 30 minutes
+    log("=" * 60)
+    log("Clip job starting" + (f" for cloud run {run_id}" if run_id else ""))
+    if not mc.find_ffmpeg(SETTINGS):
+        log("[X] ffmpeg not found. Fix: run the installer again (it repairs the setup).")
+        return 2
     cmd = [sys.executable, str(Path(mc.__file__).resolve()), "--yes", "--top", str(TOP_CLIPS),
-           "--out", str(CLIPS_ROOT), "--manifest", mc.MANIFEST_URL]
-    log(f"Rendering top {TOP_CLIPS} clips by news score (each cut aligned on captions locally)...")
+           "--out", str(CLIPS_ROOT), "--formats", FORMATS, "--manifest", mc.MANIFEST_URL]
+    log(f"Rendering the top {TOP_CLIPS} clips by news score ({FORMATS}) into {CLIPS_ROOT}...")
     res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace",
                          stdin=subprocess.DEVNULL, timeout=3 * 3600)
     for line in (res.stdout or "").splitlines():
@@ -169,7 +219,13 @@ def run_job() -> int:
             log(f"  clipper | {line.rstrip()}")
     if res.returncode not in (0, None):
         log(f"[!] clipper exited with {res.returncode}: {(res.stderr or '').strip()[-300:]}")
-    log("PC job finished")
+    elif run_id:
+        try:
+            STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
+            STATE_PATH.write_text(run_id, encoding="utf-8")
+        except OSError:
+            pass
+    log("Clip job finished")
     return 0
 
 
@@ -177,7 +233,8 @@ def main() -> int:
     ap = argparse.ArgumentParser(description="NBA pressers PC job")
     ap.add_argument("--write-task-xml", metavar="FILE")
     ap.add_argument("--vbs", metavar="FILE", help="launcher .vbs the task should run")
-    ap.add_argument("--scheduled", action="store_true", help="started by Task Scheduler")
+    ap.add_argument("--scheduled", action="store_true", help="started by the scheduler")
+    ap.add_argument("--only-new", action="store_true", help="skip unless a new cloud run is out")
     args = ap.parse_args()
     if args.write_task_xml:
         times = write_task_xml(Path(args.write_task_xml), Path(args.vbs or WORK / "run-hidden.vbs"))
@@ -185,12 +242,12 @@ def main() -> int:
         return 0
     try:
         with Lock(WORK / ".pc-job.lock"):
-            return run_job()
+            return run_job(only_new=args.only_new)
     except RuntimeError as e:
         log(f"[!] {e}; exiting")
         return 0
     except Exception as e:
-        log(f"[X] PC job crashed: {type(e).__name__}: {e}")
+        log(f"[X] Clip job crashed: {type(e).__name__}: {e}")
         for line in traceback.format_exc().splitlines():
             log(f"    {line}")
         return 1

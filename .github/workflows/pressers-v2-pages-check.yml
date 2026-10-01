@@ -1,0 +1,33 @@
+name: Pressers v2 Pages link check
+
+# Fetches a published digest page and checks its YouTube URLs are <a> links.
+# Runs once when this file lands on main (waiting for Pages to deploy) and
+# on demand. Read-only: no secrets, no writes.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/pressers-v2-pages-check.yml'
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Digest page to check'
+        required: false
+        default: 'https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/2026-09-30/digest-manual-1118.html'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Check live page
+        env:
+          PAGE_URL: ${{ github.event.inputs.url || 'https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/2026-09-30/digest-manual-1118.html' }}
+        run: python pressers_v2/tools/check_pages_links.py "$PAGE_URL" --wait-secs 1200

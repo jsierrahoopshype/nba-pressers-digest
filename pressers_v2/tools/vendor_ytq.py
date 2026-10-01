@@ -3,7 +3,8 @@ Regenerate pressers_v2/ytq_vendor.py from hoopshype-yt-quotes.
 
 Copies, byte for byte and in source order, the extraction + rendering code
 of quote_extractor.py (process_video, its chunking, retries, splitter,
-write_outputs, to_markdown, _bold_names, _is_unknown_speaker and everything
+write_outputs, to_markdown, write_digest_file (used by the format-proof test),
+_bold_names, _is_unknown_speaker and everything
 they depend on), then appends the pressers speaker rule to PROMPT.
 
     python pressers_v2/tools/vendor_ytq.py /path/to/hoopshype-yt-quotes
@@ -14,7 +15,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-ROOTS = ["process_video", "write_outputs", "to_markdown"]
+ROOTS = ["process_video", "write_outputs", "to_markdown", "write_digest_file"]
 EXTRA = ["DIGEST_CLOSING_LINE"]
 OUT = Path(__file__).resolve().parent.parent / "ytq_vendor.py"
 
