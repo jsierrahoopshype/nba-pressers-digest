@@ -1,6 +1,6 @@
 # Yaxel Lendeborg's Warriors Media Day Vlog 👋 — *Golden State Warriors*
 
-Source: https://www.youtube.com/watch?v=-RVFB1Uu9QM
+Source: [https://www.youtube.com/watch?v=-RVFB1Uu9QM](https://www.youtube.com/watch?v=-RVFB1Uu9QM)
 
 _Speakers identified: Yaxel Lendeborg, Draymond Green, Alondes Williams_
 
@@ -8,4 +8,4 @@ _Speakers identified: Yaxel Lendeborg, Draymond Green, Alondes Williams_
 
 Yaxel Lendeborg: "I'm going to be the most entertaining playing guy on the floor every night. I'm going to try to bring as many positive vibes as possible."
 
-https://www.youtube.com/watch?v=-RVFB1Uu9QM&t=12s
+[https://www.youtube.com/watch?v=-RVFB1Uu9QM&t=12s](https://www.youtube.com/watch?v=-RVFB1Uu9QM&t=12s)

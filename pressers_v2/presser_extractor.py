@@ -297,9 +297,25 @@ def pages_safe(value):
     return value
 
 
+# kramdown (GitHub Pages) doesn't autolink bare URLs the way GitHub's file
+# view does, so the "Source:" line and the timestamped URL that closes each
+# quote block are wrapped as [url](url): same visible text, now clickable.
+# Only whole lines holding exactly a YouTube watch URL match, so running it
+# twice changes nothing.
+_BARE_SOURCE_RE = re.compile(r"(?m)^Source: (https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11})$")
+_BARE_TS_URL_RE = re.compile(r"(?m)^(https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}(?:&t=\d+s)?)$")
+
+
+def link_bare_urls(md: str) -> str:
+    md = _BARE_SOURCE_RE.sub(r"Source: [\1](\1)", md)
+    return _BARE_TS_URL_RE.sub(r"[\1](\1)", md)
+
+
 def render_markdown(video_id: str, channel_name: str, data: dict) -> str:
-    """yt-quotes' to_markdown, unchanged, on a Pages-safe copy of the data."""
-    return ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=video_id), channel_name, pages_safe(data))
+    """yt-quotes' to_markdown, unchanged, on a Pages-safe copy of the data,
+    with its bare YouTube URLs turned into links (see link_bare_urls)."""
+    return link_bare_urls(
+        ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=video_id), channel_name, pages_safe(data)))
 
 
 # --------------------------------------------------------------------------- #
@@ -877,6 +893,24 @@ def migrate_legacy_outputs() -> None:
         log(f"[migrate] converted older pressers output to the yt-quotes format in {len(touched)} day folder(s)")
 
 
+def relink_stored_markdown() -> None:
+    """Apply link_bare_urls to every stored per-video .md and digest (written
+    before links were added). Text-only and idempotent; no Gemini calls."""
+    changed = 0
+    for day_dir in iter_day_dirs():
+        for md in day_dir.glob("*.md"):
+            try:
+                text = md.read_text(encoding="utf-8")
+            except OSError:
+                continue
+            linked = link_bare_urls(text)
+            if linked != text:
+                atomic_write(md, linked)
+                changed += 1
+    if changed:
+        log(f"[relink] made the bare YouTube URLs clickable in {changed} stored markdown file(s)")
+
+
 def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
     """Rolling manifest of every clip from videos published OR processed in
     the last window_hours, rebuilt from the per-video JSON on disk. Only
@@ -1097,6 +1131,7 @@ def main() -> int:
     max_per_channel = int(config.get("max_videos_per_channel_per_run", 6))
 
     migrate_legacy_outputs()
+    relink_stored_markdown()
 
     def finish_without_videos() -> int:
         regenerate_index()

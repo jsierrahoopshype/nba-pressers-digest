@@ -2,7 +2,7 @@
 
 ## Caleb Wilson: My First Media Day — *Chicago Bulls*
 
-Source: https://www.youtube.com/watch?v=auzyc8y-uNI
+Source: [https://www.youtube.com/watch?v=auzyc8y-uNI](https://www.youtube.com/watch?v=auzyc8y-uNI)
 
 _Speakers identified: Caleb Wilson_
 
@@ -14,7 +14,7 @@ _Clip: 00:35-00:50 (15s)_
 
 Social: Caleb Wilson is ready to get to work for his first season with the Chicago Bulls, saying he is excited to see what he has to offer this year.
 
-https://www.youtube.com/watch?v=auzyc8y-uNI&t=35s
+[https://www.youtube.com/watch?v=auzyc8y-uNI&t=35s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=35s)
 
 **2. Caleb Wilson (Chicago Bulls) — Caleb Wilson shares his excitement as he begins his first training camp with the Bulls.** [01:46](https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s)
 
@@ -24,7 +24,7 @@ _Clip: 01:46-02:01 (15s)_
 
 Social: Training camp starts tomorrow, and Caleb Wilson says it feels surreal to be a Chicago Bull as he prepares for his first season.
 
-https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s
+[https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s)
 
 **3. Caleb Wilson (Chicago Bulls) — Caleb Wilson looks forward to his first NBA game at the United Center.** [02:45](https://www.youtube.com/watch?v=auzyc8y-uNI&t=165s)
 
@@ -34,13 +34,13 @@ _Clip: 02:45-03:00 (15s)_
 
 Social: Caleb Wilson is looking forward to his first NBA game at the United Center, noting that he expects his nerves to disappear once the ball is tipped.
 
-https://www.youtube.com/watch?v=auzyc8y-uNI&t=165s
+[https://www.youtube.com/watch?v=auzyc8y-uNI&t=165s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=165s)
 
 ---
 
 ## Chase Down Podcast Live, presented by fubo: Media Day Reactions! — *Cleveland Cavaliers*
 
-Source: https://www.youtube.com/watch?v=p7o-S3hmoD4
+Source: [https://www.youtube.com/watch?v=p7o-S3hmoD4](https://www.youtube.com/watch?v=p7o-S3hmoD4)
 
 _Speakers identified: Justin Rowan, Carter Rodriguez, J.B. Bickerstaff, Donovan Mitchell, Evan Mobley, Jarrett Allen_
 
@@ -52,7 +52,7 @@ _Clip: 12:20-13:14 (54s)_
 
 Social: J.B. Bickerstaff says Evan Mobley's ability to grab rebounds and push the ball will make the Cavaliers a much faster team in transition this season.
 
-https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
 
 **2. J.B. Bickerstaff (Cleveland Cavaliers) — J.B. Bickerstaff plans to utilize Evan Mobley as a ball screener to improve his decision-making.** [13:22](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=802s)
 
@@ -62,7 +62,7 @@ _Clip: 13:22-13:59 (37s)_
 
 Social: J.B. Bickerstaff says Evan Mobley has become a great ball screener and the team plans to put him in more positions to make decisions this season.
 
-https://www.youtube.com/watch?v=p7o-S3hmoD4&t=802s
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=802s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=802s)
 
 **3. Donovan Mitchell (Cleveland Cavaliers) — Donovan Mitchell says the team has spent more time together this offseason than any other in his career.** [40:09](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
@@ -72,7 +72,7 @@ _Clip: 40:09-41:07 (58s)_
 
 Social: Donovan Mitchell says the Cavaliers have spent more time together this offseason than any other team he has been on in his career.
 
-https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
 **4. Evan Mobley (Cleveland Cavaliers) — Evan Mobley has gained significant weight and height since being drafted.** [53:50](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3230s)
 
@@ -82,7 +82,7 @@ _Clip: 53:50-54:28 (38s)_
 
 Social: Evan Mobley says he has grown to 6'9" and 260 pounds since being drafted, adding that his new physique will help his versatility on the court.
 
-https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3230s
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3230s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3230s)
 
 **5. Jarrett Allen (Cleveland Cavaliers) — Jarrett Allen believes there is more potential to unlock in his pick and roll partnership with Donovan Mitchell.** [54:05](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3245s)
 
@@ -92,7 +92,7 @@ _Clip: 54:05-54:28 (23s)_
 
 Social: Jarrett Allen says he believes there is more potential to unlock in his pick and roll partnership with Donovan Mitchell after working on small tweaks this offseason.
 
-https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3245s
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3245s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3245s)
 
 ---
 

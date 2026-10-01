@@ -5,6 +5,7 @@ Offline tests for pressers_v2 (no network, no API keys, Gemini mocked).
 """
 
 import json
+import re
 import sys
 import tempfile
 import types as pytypes
@@ -20,6 +21,25 @@ import make_presser_clips as mc  # noqa: E402
 
 CONFIG = json.loads((HERE.parent / "config.json").read_text(encoding="utf-8"))
 FIXTURES = HERE / "fixtures" / "ytq"
+
+# The link wrappers render_markdown adds for GitHub Pages: [url](url).
+LINK_WRAP_RE = re.compile(r"\[(https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}(?:&t=\d+s)?)\]\(\1\)")
+SECTION_HEADERS = {"# Press conferences", "# Podcasts & shows", "# One-offs"}
+
+
+def unwrap_links(md: str) -> str:
+    return LINK_WRAP_RE.sub(r"\1", md)
+
+
+def assert_only_link_wrappers_differ(test, ours: str, theirs: str) -> None:
+    """Line by line: every line that differs is theirs with its bare URL
+    wrapped as [url](url); nothing else may change."""
+    a, b = ours.split("\n"), theirs.split("\n")
+    test.assertEqual(len(a), len(b))
+    for mine, ref in zip(a, b):
+        if mine != ref:
+            test.assertIn(ref.replace("Source: ", ""), mine)
+            test.assertEqual(unwrap_links(mine), ref)
 
 
 class TempOutput:
@@ -92,7 +112,51 @@ class FormatParityTests(unittest.TestCase):
     def test_vendored_renderer_reproduces_ytquotes_output(self):
         data = json.loads((FIXTURES / "6sbyI-n2yh0.json").read_text(encoding="utf-8"))
         expected = (FIXTURES / "6sbyI-n2yh0.md").read_text(encoding="utf-8")
-        self.assertEqual(pe.render_markdown("6sbyI-n2yh0", "NBA on NBC", data), expected)
+        ours = pe.render_markdown("6sbyI-n2yh0", "NBA on NBC", data)
+        assert_only_link_wrappers_differ(self, ours, expected)
+        # Source line + one timestamped URL per quote block are now links
+        self.assertEqual(len(LINK_WRAP_RE.findall(ours)), 1 + len(data["quotes"]))
+        self.assertIn("\nSource: [https://www.youtube.com/watch?v=6sbyI-n2yh0]"
+                      "(https://www.youtube.com/watch?v=6sbyI-n2yh0)\n", ours)
+
+    def test_digest_differs_from_ytquotes_only_in_title_sections_and_links(self):
+        """Our digest vs yt-quotes' own write_digest_file over yt-quotes'
+        own per-video .md: only the page title, the section headers and the
+        link wrappers may differ."""
+        vids = (("J5unk3vEQmk", "James Harden Media Availability", False),
+                ("p7o-S3hmoD4", "Chase Down Podcast Live: Media Day Reactions", False),
+                ("auzyc8y-uNI", "Caleb Wilson: My First Media Day", True))
+        with TempOutput() as out:
+            for vid, title, one_off in vids:
+                pe.process_video(client_for(HARDEN, HARDEN_FIELDS), video(vid, title, one_off),
+                                 "Cleveland Cavaliers")
+            ours = pe.write_digest_file("2026-09-30", "digest.md").read_text(encoding="utf-8")
+            # yt-quotes' side: its to_markdown per video, its write_digest_file
+            ref_root = out / "ytq"
+            ytq.OUTPUT_DIR = ref_root
+            try:
+                (ref_root / "2026-09-30").mkdir(parents=True)
+                for vid, _, _ in vids:
+                    stored = json.loads((out / "2026-09-30" / f"{vid}.json").read_text(encoding="utf-8"))
+                    (ref_root / "2026-09-30" / f"{vid}.md").write_text(
+                        ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored), encoding="utf-8")
+                theirs = ytq.write_digest_file("2026-09-30", "rotation", "digest.md",
+                                               [v for v, _, _ in vids]).read_text(encoding="utf-8")
+            finally:
+                ytq.OUTPUT_DIR = out
+        a = ours.split("\n")
+        self.assertEqual(a[0], "# NBA Pressers — 2026-09-30")
+        a[0] = "# HoopsHype YT Quotes — 2026-09-30"
+        kept = []
+        for i, line in enumerate(a):
+            if line in SECTION_HEADERS:
+                self.assertEqual(a[i + 1], "")
+                continue
+            if i and a[i - 1] in SECTION_HEADERS:
+                continue      # the blank line after a section header
+            kept.append(line)
+        self.assertEqual(sum(1 for line in a if line in SECTION_HEADERS), 3)
+        assert_only_link_wrappers_differ(self, "\n".join(kept), theirs)
 
     def test_prompt_is_ytquotes_plus_speaker_rule(self):
         self.assertIn('"Unidentified speaker"', ytq.PROMPT[-400:])
@@ -118,7 +182,7 @@ class PipelineTests(unittest.TestCase):
             md = (out / "2026-09-30" / "J5unk3vEQmk.md").read_text(encoding="utf-8")
             # the .md is exactly what yt-quotes' renderer makes from the same quotes
             stored = json.loads((out / "2026-09-30" / "J5unk3vEQmk.json").read_text(encoding="utf-8"))
-            self.assertEqual(md, ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored))
+            assert_only_link_wrappers_differ(self, md, ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored))
             manifest = pe.build_clip_manifest("t", 100000)
         self.assertEqual(client.models.calls, ["video", "text"])
         self.assertEqual(data["content_type"], "presser")
@@ -190,8 +254,25 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual((q["timestamp"], q["summary_phrase"], q["excerpt"], q["quote"]),
                          ("01:05", "Mazzulla wants more", "We have to be better", "We have to be better."))
         self.assertEqual(data["format"], pe.FORMAT_VERSION)
-        self.assertEqual(md, ytq.to_markdown(pe.WATCH_URL_TEMPLATE.format(video_id="AAAAAAAAAA1"),
-                                             "Boston Celtics", data))
+        assert_only_link_wrappers_differ(self, md, ytq.to_markdown(
+            pe.WATCH_URL_TEMPLATE.format(video_id="AAAAAAAAAA1"), "Boston Celtics", data))
+
+    def test_relink_makes_stored_bare_urls_clickable_once(self):
+        bare = ytq.to_markdown(pe.WATCH_URL_TEMPLATE.format(video_id="J5unk3vEQmk"), "Cleveland Cavaliers",
+                               dict(HARDEN, video_title="James Harden Media Availability"))
+        with TempOutput() as out:
+            day = out / "2026-09-30"
+            day.mkdir()
+            (day / "J5unk3vEQmk.md").write_text(bare, encoding="utf-8")
+            (day / "digest-manual-1118.md").write_text("# NBA Pressers — 2026-09-30\n\n#" + bare, encoding="utf-8")
+            pe.relink_stored_markdown()
+            once = {p.name: p.read_text(encoding="utf-8") for p in day.glob("*.md")}
+            pe.relink_stored_markdown()
+            twice = {p.name: p.read_text(encoding="utf-8") for p in day.glob("*.md")}
+        self.assertEqual(once, twice)
+        assert_only_link_wrappers_differ(self, once["J5unk3vEQmk.md"], bare)
+        self.assertIn("\n[https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s]"
+                      "(https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s)\n", once["digest-manual-1118.md"])
 
 
 class ContentTypeTests(unittest.TestCase):
