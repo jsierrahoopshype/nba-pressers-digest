@@ -112,7 +112,15 @@ lines. No word-level timing: no subtitles.
 
 **Cuts.** For each quote the clipper finds where it's really spoken (captions
 via yt-dlp, else Whisper on the 90 seconds around it) and cuts with 0.5s
-padding. A low-confidence match is skipped, not cut.
+padding. A low-confidence match is skipped, not cut. Captions: `yt-dlp -J`
+lists the tracks once, then ONE English track at a time is downloaded from
+that saved info (speech-recognition `en-orig`, then `en`, then manual
+English), retrying when YouTube answers 429; a failure isn't cached, and
+whenever captions aren't used the exact reason is shown and logged
+(`logs/clips-log.txt`). Whisper runs on pinned `faster-whisper==1.2.1` +
+`av==18.1.0` (PyAV 19 removed an argument faster-whisper still passes);
+the installer installs them and every update brings existing installs to
+those versions.
 
 **Files.** One folder per quote in the clips folder:
 `<YYYY-MM-DD> <Speaker> - <short angle>/` holding `vertical.mp4`,

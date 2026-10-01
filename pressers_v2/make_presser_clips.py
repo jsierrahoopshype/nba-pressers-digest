@@ -750,87 +750,152 @@ _caption_cache: dict = {}
 _whisper_model = None
 
 
+CAPTION_RETRY_WAITS = (4, 12)     # YouTube often answers caption files with 429 Too Many Requests
+CAPTION_TRACKS_TO_TRY = 3
+
+
+def caption_tracks(info: dict) -> list:
+    """English caption tracks in the order to try: YouTube's speech-recognition
+    track (en-orig, then en: per-word times), then manual English tracks."""
+    auto = info.get("automatic_captions") or {}
+    manual = {k: v for k, v in (info.get("subtitles") or {}).items() if k != "live_chat"}
+    order = [("auto", lang) for lang in ("en-orig", "en") if auto.get(lang)]
+    order += [("manual", lang) for lang in sorted(manual, key=lambda x: (x != "en", x))
+              if (lang == "en" or lang.startswith("en-")) and manual.get(lang)]
+    return order
+
+
+def _run_ytdlp(args: list, timeout: int = 180) -> subprocess.CompletedProcess:
+    try:
+        return subprocess.run(ytdlp_cmd() + args, capture_output=True, text=True, encoding="utf-8",
+                              errors="replace", timeout=timeout, stdin=subprocess.DEVNULL)
+    except subprocess.TimeoutExpired:
+        return subprocess.CompletedProcess(args, 1, "", f"yt-dlp timed out after {timeout}s")
+
+
+def ytdlp_problem(output: str) -> str:
+    """The informative lines of a failed yt-dlp run: its errors and the
+    "info failed to download" warning that carries the first error (yt-dlp
+    then re-fetches the page, and the original error scrolls away)."""
+    lines = [ln.strip() for ln in (output or "").splitlines() if ln.strip()]
+    keep = [ln for ln in lines if ln.startswith("ERROR") or "failed to download" in ln or "HTTP Error" in ln]
+    text = " | ".join(dict.fromkeys(keep or lines[-3:]))
+    if "JavaScript runtime" in (output or "") or "JS runtime" in (output or ""):
+        text += " | yt-dlp found no JavaScript runtime (deno): run the installer again"
+    return text[:500]
+
+
+def _parse_caption_file(path: Path) -> tuple:
+    """(words, word_level) from a json3 or vtt file."""
+    raw = path.read_text(encoding="utf-8", errors="replace")
+    if path.suffix == ".json3":
+        words = caption_align.words_from_json3(raw)
+        return words, bool(words) and caption_align.json3_has_word_timing(raw)
+    timed = caption_align.word_timings_from_vtt(raw)
+    return (timed, True) if timed else (caption_align.words_from_vtt(raw), False)
+
+
 def fetch_caption_words(video_id: str, ffmpeg: str) -> tuple:
-    """English captions via yt-dlp as (timed words, word_level). Word-level
-    means real per-word times (YouTube's speech-recognition captions, json3
-    or WebVTT with inline times); manual captions only time whole lines.
-    Prefers word-level. Cached per video; ([], False) when there are none."""
+    """English captions as (timed words, word_level, reason). Reads the
+    video's caption list once (yt-dlp -J), then downloads ONE track at a
+    time (from that saved info, so the page isn't fetched again), retrying
+    when YouTube answers 429. reason says exactly why no captions came back
+    ("" on success). Only successes are cached."""
     if video_id in _caption_cache:
         return _caption_cache[video_id]
-    best, best_level = [], []
+    url = f"https://www.youtube.com/watch?v={video_id}"
     with WorkDir("caps_") as work:
-        cmd = ytdlp_cmd() + [
-            "--no-playlist", "--quiet", "--no-warnings", "--skip-download",
-            "--write-subs", "--write-auto-subs",
-            "--sub-langs", "en,en-US,en-GB,en-orig,en.*",
-            "--sub-format", "json3/vtt/best",
-            "--ffmpeg-location", ffmpeg,
-            "-o", str(work / "cap.%(ext)s"),
-            f"https://www.youtube.com/watch?v={video_id}",
-        ]
+        res = _run_ytdlp(["--no-playlist", "--skip-download", "--no-progress", "-J", url])
         try:
-            subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8",
-                           errors="replace", timeout=180)
-        except subprocess.TimeoutExpired:
-            pass
-        for path in sorted(work.glob("cap*.json3")) + sorted(work.glob("cap*.vtt")):
-            try:
-                raw = path.read_text(encoding="utf-8", errors="replace")
-                if path.suffix == ".json3":
-                    parsed = caption_align.words_from_json3(raw)
-                    word_level = parsed if caption_align.json3_has_word_timing(raw) else []
-                else:
-                    parsed = caption_align.words_from_vtt(raw)
-                    word_level = caption_align.word_timings_from_vtt(raw)
-            except (ValueError, KeyError):
-                continue
-            if len(word_level) > len(best_level):
-                best_level = word_level
-            if len(parsed) > len(best):
-                best = parsed
-    result = (best_level, True) if best_level else (best, False)
-    _caption_cache[video_id] = result
-    return result
+            info = json.loads(res.stdout or "")
+        except ValueError:
+            info = None
+        if not isinstance(info, dict):
+            return [], False, (f"yt-dlp couldn't read the video (exit {res.returncode}): "
+                               f"{ytdlp_problem(res.stderr) or 'no output'}")
+        tracks = caption_tracks(info)
+        if not tracks:
+            langs = sorted(set(info.get("subtitles") or {}) | set(info.get("automatic_captions") or {}))
+            return [], False, ("the video has no English captions"
+                               + (f" (tracks: {', '.join(langs[:8])}{'...' if len(langs) > 8 else ''})"
+                                  if langs else " (no caption tracks at all)"))
+        info_path = work / "info.json"
+        info_path.write_text(json.dumps(info), encoding="utf-8")
+        problems = []
+        for kind, lang in tracks[:CAPTION_TRACKS_TO_TRY]:
+            for attempt, wait in enumerate((0,) + CAPTION_RETRY_WAITS):
+                if wait:
+                    say(f"    YouTube is throttling caption downloads; retrying {kind} {lang} in {wait}s")
+                    time.sleep(wait)
+                for old in work.glob("cap*"):
+                    remove_file(old)
+                res = _run_ytdlp(["--load-info-json", str(info_path), "--skip-download", "--no-progress",
+                                  "--write-auto-subs" if kind == "auto" else "--write-subs",
+                                  "--sub-langs", re.escape(lang), "--sub-format", "json3/vtt/best",
+                                  "--ffmpeg-location", ffmpeg, "-o", str(work / "cap.%(ext)s")])
+                files = sorted(work.glob("cap*.json3")) + sorted(work.glob("cap*.vtt"))
+                if files:
+                    try:
+                        words, word_level = _parse_caption_file(files[0])
+                    except (ValueError, KeyError, TypeError) as e:
+                        problems.append(f"{kind} {lang}: unreadable {files[0].suffix} ({type(e).__name__})")
+                        break
+                    if words:
+                        result = (words, word_level, "")
+                        _caption_cache[video_id] = result
+                        say(f"    captions: {kind} {lang} track, {len(words)} words"
+                            + (", word timings" if word_level else ", line timings only"))
+                        return result
+                    problems.append(f"{kind} {lang}: the track is empty")
+                    break
+                output = (res.stderr or "") + "\n" + (res.stdout or "")
+                err = ytdlp_problem(output) or f"no file written (exit {res.returncode})"
+                if ("429" in output or "Too Many Requests" in output) and attempt < len(CAPTION_RETRY_WAITS):
+                    continue
+                problems.append(f"{kind} {lang}: {err}")
+                break
+        return [], False, "; ".join(problems)
+
+
+def transcribe_words(audio: Path, offset: float = 0.0) -> list:
+    """faster-whisper word timings [(start, end, token)] for an audio file,
+    shifted by offset seconds."""
+    global _whisper_model
+    from faster_whisper import WhisperModel
+    if _whisper_model is None:
+        say(f"    loading Whisper model {WHISPER_MODEL} (first time downloads ~140 MB)...")
+        _whisper_model = WhisperModel(WHISPER_MODEL, device="cpu", compute_type="int8")
+    segments, _info = _whisper_model.transcribe(str(audio), language="en",
+                                                word_timestamps=True, vad_filter=True)
+    words = []
+    for seg in segments:
+        for w in seg.words or []:
+            for tok in caption_align.norm_words(w.word):
+                words.append((offset + w.start, offset + w.end, tok))
+    return words
 
 
 def whisper_words(video_id: str, start: float, end: float, ffmpeg: str,
                   window: float = WHISPER_WINDOW_SECS) -> list:
     """faster-whisper word timings for [start-window, end+window] of the video."""
-    global _whisper_model
-    try:
-        from faster_whisper import WhisperModel
-    except ImportError:
-        raise LowConfidence("no usable captions, and faster-whisper isn't installed "
-                            "(run the installer again to add it)")
+    import importlib.util
+    if importlib.util.find_spec("faster_whisper") is None:
+        raise LowConfidence("faster-whisper isn't installed (run the installer again to add it)")
     w0 = max(0.0, start - window)
     w1 = end + window
     with WorkDir("audio_") as work:
-        cmd = ytdlp_cmd() + [
-            "--no-playlist", "--no-progress", "--quiet", "--no-warnings",
-            "-f", "bestaudio/best",
-            "--download-sections", f"*{w0:.2f}-{w1:.2f}",
-            "-x", "--audio-format", "m4a",
-            "--ffmpeg-location", ffmpeg,
-            "-o", str(work / "aud.%(ext)s"),
-            f"https://www.youtube.com/watch?v={video_id}",
-        ]
-        res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8",
-                             errors="replace", timeout=900)
+        res = _run_ytdlp(["--no-playlist", "--no-progress", "--quiet", "--no-warnings",
+                          "-f", "bestaudio/best",
+                          "--download-sections", f"*{w0:.2f}-{w1:.2f}",
+                          "-x", "--audio-format", "m4a",
+                          "--ffmpeg-location", ffmpeg,
+                          "-o", str(work / "aud.%(ext)s"),
+                          f"https://www.youtube.com/watch?v={video_id}"], timeout=900)
         audio = sorted(p for p in work.glob("aud.*") if p.suffix.lower() not in (".part", ".ytdl"))
         if res.returncode != 0 or not audio:
             raise LowConfidence(f"the audio download for Whisper failed: "
                                 f"{tail(res.stderr or res.stdout) or 'no file'}")
-        if _whisper_model is None:
-            say(f"    loading Whisper model {WHISPER_MODEL} (first time downloads ~140 MB)...")
-            _whisper_model = WhisperModel(WHISPER_MODEL, device="cpu", compute_type="int8")
-        segments, _info = _whisper_model.transcribe(str(audio[0]), language="en",
-                                                    word_timestamps=True, vad_filter=True)
-        words = []
-        for seg in segments:
-            for w in seg.words or []:
-                for tok in caption_align.norm_words(w.word):
-                    words.append((w0 + w.start, w0 + w.end, tok))
-    return words
+        return transcribe_words(audio[0], w0)
 
 
 def locate_quote(clip: dict, ffmpeg: str) -> Located:
@@ -839,15 +904,15 @@ def locate_quote(clip: dict, ffmpeg: str) -> Located:
     text = clip.get("text") or ""
     hint = float(clip["start_seconds"])
     best_score = None
-    words, word_level = fetch_caption_words(clip["video_id"], ffmpeg)
+    words, word_level, reason = fetch_caption_words(clip["video_id"], ffmpeg)
     if words:
         hit = caption_align.align_quote(text, words, hint_start=hint)
         if hit and hit["score"] >= caption_align.MIN_ALIGN_SCORE:
             return Located(hit["start"], hit["end"], "captions", hit["score"], words, word_level)
         best_score = hit["score"] if hit else 0.0
-        say(f"    captions match too weak ({best_score:.2f}); trying Whisper around {int(hint)}s")
-    else:
-        say("    no captions for this video; trying Whisper")
+        reason = f"the quote matches the captions too weakly ({best_score:.2f}, need {caption_align.MIN_ALIGN_SCORE})"
+    say(f"    captions not used: {reason}; trying Whisper around {int(hint)}s")
+    log_line("clips-log.txt", f"{clip['video_id']} @{int(hint)}s: captions not used: {reason}")
     words = whisper_words(clip["video_id"], hint, float(clip["end_seconds"]), ffmpeg)
     hit = caption_align.align_quote(text, words, hint_start=hint)
     if hit and hit["score"] >= caption_align.MIN_ALIGN_SCORE:
@@ -1248,9 +1313,7 @@ def make_clip(clip: dict, out_root: Path, formats: list, ffmpeg: str, pad: float
 # --------------------------------------------------------------------------- #
 
 LINK_SCHEME = "presserclips"
-# the window stays open longer after a problem; NBA_PRESSER_LINK_WAIT overrides (tests)
-_wait = os.environ.get("NBA_PRESSER_LINK_WAIT", "")
-LINK_CLOSE_SECS = {True: int(_wait), False: int(_wait)} if _wait.isdigit() else {True: 5, False: 60}
+LINK_CLOSE_SECS = {True: 5, False: 60}     # the window stays open longer after a problem
 _LINK_RULES = {"v": VIDEO_ID_RE, "t": re.compile(r"^\d{1,6}$"), "q": re.compile(r"^[1-9]\d{0,2}$")}
 
 
@@ -1356,7 +1419,8 @@ def run_link(url: str) -> int:
 
 
 def link_close(rc: int) -> int:
-    wait = LINK_CLOSE_SECS[rc == 0]
+    override = os.environ.get("NBA_PRESSER_LINK_WAIT", "")        # tests
+    wait = int(override) if override.isdigit() else LINK_CLOSE_SECS[rc == 0]
     say(f"\nThis window closes in {wait} seconds.")
     try:
         time.sleep(wait)

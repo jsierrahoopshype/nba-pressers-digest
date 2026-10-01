@@ -14,6 +14,7 @@ app files into the app folder, then call this script:
     python presser_clips_setup.py --find-ffmpeg   exit 0 = found with subtitles support,
                                                   1 = not found, 3 = found without subtitles
     python presser_clips_setup.py --find-deno     exit 0 = found
+    python presser_clips_setup.py --pins          the pinned pip packages (faster-whisper, PyAV)
 
 "Clip it" links (presserclips://clip?...) are registered for the current
 user only: on Windows under HKEY_CURRENT_USER (no administrator rights), on
@@ -35,6 +36,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import time
 import urllib.request
 import uuid
 from datetime import datetime, timezone
@@ -51,6 +53,12 @@ MODEL_SHA256 = "8f2383e4dd3cfbb4553ea8718107fc0423210dc964f9f4280604804ed2552fa4
 # dependencies first, so a new make_presser_clips.py never lands without them
 UPDATE_FILES = ["caption_align.py", "reframe.py", MODEL_FILE, "make_presser_clips.py", "presser_clips_setup.py"]
 PIP_PACKAGES = {"cv2": "opencv-python-headless"}       # import name -> pip name (face tracking)
+# Exact versions for the Whisper fallback. PyAV 19 removed the
+# metadata_errors argument that faster-whisper 1.2.1 (the latest) still
+# passes to av.open(), so every transcription crashed with
+# "open() got an unexpected keyword argument 'metadata_errors'".
+PINNED = {"faster-whisper": "1.2.1", "av": "18.1.0"}
+PIN_RETRY_SECS = 24 * 3600      # after a failed pip attempt, wait a day before trying again
 TASK_NAME = "NBA Presser Clips (auto)"                  # the retired automatic mode
 OLD_TASK_NAME = "NBA Pressers PC Job"                   # the earlier Windows-only PC job
 LAUNCHD_LABEL = "com.hoopshype.nba-presser-clips"
@@ -135,6 +143,55 @@ def ensure_packages() -> None:
                           package], timeout=900)
         if res.returncode != 0:
             say("  could not install it now; clips use a centred crop until it works")
+    ensure_pins()
+
+
+def pip_specs() -> list:
+    return [f"{name}=={version}" for name, version in PINNED.items()]
+
+
+def installed_versions() -> dict:
+    """{distribution: version or None} for the pinned packages, read in a
+    fresh process so a just-finished upgrade is seen."""
+    code = ("import importlib.metadata as m, json\n"
+            "out = {}\n"
+            f"for d in {list(PINNED)!r}:\n"
+            "    try:\n        out[d] = m.version(d)\n"
+            "    except m.PackageNotFoundError:\n        out[d] = None\n"
+            "print(json.dumps(out))")
+    res = _run_quiet([sys.executable, "-c", code], timeout=120)
+    try:
+        return json.loads(res.stdout.strip().splitlines()[-1])
+    except (ValueError, IndexError):
+        return {d: None for d in PINNED}
+
+
+def ensure_pins() -> bool:
+    """Bring faster-whisper / PyAV to the pinned versions (existing installs
+    get the fix on their next run). A failed attempt is retried after a day,
+    so a blocked pip doesn't slow every click. True when the pins hold."""
+    have = installed_versions()
+    if all(have.get(d) == v for d, v in PINNED.items()):
+        return True
+    marker = mc.app_dir() / "logs" / "pip-pins-failed.txt"
+    try:
+        if time.time() - marker.stat().st_mtime < PIN_RETRY_SECS:
+            return False
+    except OSError:
+        pass
+    wrong = ", ".join(f"{d} {have.get(d) or 'missing'} -> {v}" for d, v in PINNED.items() if have.get(d) != v)
+    say(f"Updating the Whisper fallback ({wrong}); one time, about a minute...")
+    res = _run_quiet([sys.executable, "-m", "pip", "install", "--disable-pip-version-check", "--quiet",
+                      *pip_specs()], timeout=1800)
+    if res.returncode == 0:
+        mc.remove_file(marker)
+        mc.log_line("setup-log.txt", f"pinned {', '.join(pip_specs())} (was: {wrong})")
+        return True
+    marker.parent.mkdir(parents=True, exist_ok=True)
+    marker.write_text((res.stderr or res.stdout or "")[-2000:], encoding="utf-8")
+    mc.log_line("setup-log.txt", f"pip could not install {', '.join(pip_specs())}: {(res.stderr or '')[-300:]}")
+    say("  could not update it now; videos without usable captions may be skipped")
+    return False
 
 
 # --------------------------------------------------------------------------- #
@@ -472,6 +529,7 @@ def main() -> int:
     g.add_argument("--auto", action="store_true")
     g.add_argument("--find-ffmpeg", action="store_true")
     g.add_argument("--find-deno", action="store_true")
+    g.add_argument("--pins", action="store_true", help="print the pinned pip packages (installers, CI)")
     args = ap.parse_args()
     if args.setup:
         return setup()
@@ -480,6 +538,9 @@ def main() -> int:
         return 0
     if args.auto:
         return auto()
+    if args.pins:
+        print(" ".join(pip_specs()))
+        return 0
     if args.find_ffmpeg:
         return find_ffmpeg_cmd()
     return find_deno_cmd()

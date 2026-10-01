@@ -52,7 +52,8 @@ echo Installing yt-dlp, deno, OpenCV and faster-whisper (the first time takes a 
 "%VPY%" -m pip install --upgrade --disable-pip-version-check --quiet pip
 "%VPY%" -m pip install --upgrade --disable-pip-version-check --quiet "yt-dlp[default]" certifi deno opencv-python-headless
 if errorlevel 1 goto :pip_fail
-"%VPY%" -m pip install --upgrade --disable-pip-version-check --quiet faster-whisper
+rem faster-whisper / PyAV pinned: PyAV 19 broke faster-whisper (keep in step with PINNED in presser_clips_setup.py)
+"%VPY%" -m pip install --disable-pip-version-check --quiet "faster-whisper==1.2.1" "av==18.1.0"
 if errorlevel 1 echo NOTE: faster-whisper could not be installed. Videos without YouTube captions will be skipped.
 echo.
 
