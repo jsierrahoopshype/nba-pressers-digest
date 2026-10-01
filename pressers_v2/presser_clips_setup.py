@@ -294,8 +294,11 @@ def write_windows_task(xml_path: Path, vbs_path: Path, bat_path: Path) -> None:
 </Task>
 """
     xml_path.write_text(xml, encoding="utf-16")
+    # UTF-16 (with BOM): Windows Script Host reads anything else as ANSI, which
+    # would garble a Windows user name with accents (José) in the path. newline=""
+    # keeps the \r\n as written (no \r\r\n on Windows).
     vbs_path.write_text('Set sh = CreateObject("WScript.Shell")\r\n'
-                        f'sh.Run """{bat_path}"" --auto", 0, True\r\n', encoding="utf-8")
+                        f'sh.Run """{bat_path}"" --auto", 0, True\r\n', encoding="utf-16", newline="")
 
 
 def launchd_plist(python: str) -> str:

@@ -397,7 +397,7 @@ class SetupTests(unittest.TestCase):
                                         set_auto=lambda on: f"auto={on}", old_windows_task_exists=lambda: False), \
                     mock.patch.object(mc, "find_ffmpeg", lambda s=None: "/x/ffmpeg"):
                 self.assertEqual(setup_mod.setup(), 0)
-            settings = json.loads((tmp / "settings.json").read_text())
+            settings = json.loads((tmp / "settings.json").read_text(encoding="utf-8"))
             self.assertTrue(target.is_dir())
             self.assertEqual(list(target.iterdir()), [])          # the write test left nothing behind
         self.assertEqual((settings["out_dir"], settings["keep_days"], settings["formats"], settings["auto_run"]),
@@ -413,7 +413,7 @@ class SetupTests(unittest.TestCase):
                     mock.patch.multiple(setup_mod, make_desktop_shortcut=lambda: "desktop",
                                         set_auto=lambda on: f"auto={on}", old_windows_task_exists=lambda: False):
                 setup_mod.setup()
-            settings = json.loads((tmp / "settings.json").read_text())
+            settings = json.loads((tmp / "settings.json").read_text(encoding="utf-8"))
         self.assertEqual(settings["out_dir"], str(tmp / "Documents" / "presser-clips"))
         self.assertEqual((settings["keep_days"], settings["formats"], settings["auto_run"]),
                          (7, ["vertical", "youtube", "square"], False))
@@ -450,7 +450,9 @@ class SetupTests(unittest.TestCase):
             self.assertEqual(root.find(".//t:Interval", ns).text, "PT30M")
             self.assertIsNone(root.find(".//t:Repetition/t:Duration", ns))          # indefinitely
             self.assertEqual(root.find(".//t:Command", ns).text, "wscript.exe")
-            self.assertIn('--auto", 0, True', vbs.read_text())
+            self.assertIn('--auto", 0, True', vbs.read_text(encoding="utf-16"))
+            self.assertTrue(vbs.read_bytes().startswith(b"\xff\xfe"))      # BOM: WSH reads it as Unicode
+            self.assertNotIn("\r\r\n".encode("utf-16-le"), vbs.read_bytes())
 
     def test_mac_agent_runs_auto_every_30_minutes(self):
         plist = plistlib.loads(setup_mod.launchd_plist("/x/venv/bin/python").encode())

@@ -36,7 +36,7 @@ class PcJobTests(unittest.TestCase):
             self.assertEqual(starts, ["06:45:00Z", "14:45:00Z", "20:45:00Z"])
             self.assertEqual(root.find(".//t:StartWhenAvailable", ns).text, "false")
             self.assertEqual(root.find(".//t:Command", ns).text, "wscript.exe")
-            self.assertIn(", 0, True", vbs.read_text())
+            self.assertIn(", 0, True", vbs.read_text(encoding="utf-8"))
             self.assertEqual(times, ["06:45 UTC", "14:45 UTC", "20:45 UTC"])
 
     def test_run_renders_top_clips_from_public_manifest_without_token(self):

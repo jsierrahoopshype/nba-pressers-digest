@@ -248,8 +248,8 @@ class PipelineTests(unittest.TestCase):
             day.mkdir()
             (day / "AAAAAAAAAA1.json").write_text(json.dumps(legacy))
             pe.migrate_legacy_outputs()
-            data = json.loads((day / "AAAAAAAAAA1.json").read_text())
-            md = (day / "AAAAAAAAAA1.md").read_text()
+            data = json.loads((day / "AAAAAAAAAA1.json").read_text(encoding="utf-8"))
+            md = (day / "AAAAAAAAAA1.md").read_text(encoding="utf-8")
         q = data["quotes"][0]
         self.assertEqual((q["timestamp"], q["summary_phrase"], q["excerpt"], q["quote"]),
                          ("01:05", "Mazzulla wants more", "We have to be better", "We have to be better."))
