@@ -15,6 +15,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
 os.environ["NBA_PC_HOME"] = tempfile.mkdtemp(prefix="pcjob_home_")   # before importing the job
+os.environ.setdefault("NBA_PRESSER_APP_DIR", tempfile.mkdtemp(prefix="npc_app_"))
 
 import presser_pc_job as job  # noqa: E402
 
@@ -35,7 +36,7 @@ class PcJobTests(unittest.TestCase):
             self.assertEqual(starts, ["06:45:00Z", "14:45:00Z", "20:45:00Z"])
             self.assertEqual(root.find(".//t:StartWhenAvailable", ns).text, "false")
             self.assertEqual(root.find(".//t:Command", ns).text, "wscript.exe")
-            self.assertIn(", 0, True", vbs.read_text())
+            self.assertIn(", 0, True", vbs.read_text(encoding="utf-8"))
             self.assertEqual(times, ["06:45 UTC", "14:45 UTC", "20:45 UTC"])
 
     def test_run_renders_top_clips_from_public_manifest_without_token(self):
@@ -77,6 +78,10 @@ class PcJobTests(unittest.TestCase):
             job.subprocess.run, mc.find_ffmpeg, mc.load_manifest = old_run, old_find, old_load
         self.assertEqual(len(calls), 2)
         self.assertEqual(job.STATE_PATH.read_text(encoding="utf-8"), "2026-10-01T2018Z-2015")
+
+    def test_log_lives_in_the_app_folder_and_old_installs_never_delete(self):
+        self.assertEqual(job.LOG_PATH, Path(os.environ["NBA_PRESSER_APP_DIR"]) / "logs" / "pc-job-log.txt")
+        self.assertEqual(job.KEEP_DAYS, 0)          # no installer settings.json: cleanup stays off
 
     def test_job_has_no_github_write_path(self):
         src = (HERE.parent / "presser_pc_job.py").read_text(encoding="utf-8")
