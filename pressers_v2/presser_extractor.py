@@ -31,6 +31,7 @@ import threading
 import time
 import traceback
 import unicodedata
+from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed, wait
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -880,7 +881,8 @@ def run_refinement(ex, client, results: list, deadline: float) -> dict:
     log(f"[refine] {stats.get('refined', 0)}/{len(jobs)} refined; "
         f"not found at +-60s: {stats.get('not_found_60', 0)}, still not found at +-180s: "
         f"{stats.get('not_found_180', 0)}, out of window: {stats.get('out_of_window', 0)}, "
-        f"errors: {stats.get('errors', 0)}, skipped for time: {stats.get('skipped_time', 0)}"
+        f"unusable answer: {stats.get('unusable', 0)}, errors: {stats.get('errors', 0)}, "
+        f"skipped for time: {stats.get('skipped_time', 0)}"
         f"{', unfinished at deadline: ' + str(len(not_done)) if not_done else ''}. "
         f"Gemini calls: {stats.get('calls', 0)}, video sent: {stats.get('video_seconds', 0)}s")
     return stats
@@ -1171,10 +1173,52 @@ def atomic_write(path: Path, content: str) -> None:
         raise
 
 
+PC_SOURCE = "captions-pc"
+_PC_FIELDS = ("start_seconds", "end_seconds", "timestamp_source", "align_score", "pc_aligned_at")
+
+
+def preserve_pc_alignments(old: dict, new: dict) -> int:
+    """Quotes the PC job aligned on real captions (timestamp_source
+    "captions-pc") are never overwritten by the cloud. When a video is
+    re-processed, each such quote's times are carried onto the matching new
+    quote (same words, fuzzy); if no new quote matches, the old quote is
+    kept as is. Returns how many were preserved."""
+    old_pc = [q for q in old.get("quotes") or [] if q.get("timestamp_source") == PC_SOURCE]
+    if not old_pc:
+        return 0
+    new_quotes = new.setdefault("quotes", [])
+    for oq in old_pc:
+        target = caption_align.norm_words(oq.get("text") or "")
+        best, best_ratio = None, 0.0
+        for nq in new_quotes:
+            if nq.get("timestamp_source") == PC_SOURCE:
+                continue
+            ratio = SequenceMatcher(None, target, caption_align.norm_words(nq.get("text") or ""),
+                                    autojunk=False).ratio()
+            if ratio > best_ratio:
+                best, best_ratio = nq, ratio
+        if best is not None and best_ratio >= 0.8:
+            for f in _PC_FIELDS:
+                if f in oq:
+                    best[f] = oq[f]
+        else:
+            new_quotes.append(dict(oq))
+    for i, q in enumerate(new_quotes, start=1):
+        q["rank"] = i
+    return len(old_pc)
+
+
 def write_outputs(video: dict, team: str, data: dict) -> Path:
     day_dir = video_day_dir(video)
     md_path = day_dir / f"{video['video_id']}.md"
     json_path = day_dir / f"{video['video_id']}.json"
+    if json_path.is_file():
+        try:
+            old = json.loads(json_path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            old = {}
+        if old is not data and preserve_pc_alignments(old, data):
+            log(f"  [captions-pc] {video['video_id']}: kept PC-aligned times from the existing file")
     md_content = to_markdown(video, team, data)
     if not md_content:
         raise ValueError(f"to_markdown produced empty content for {video['video_id']}")
