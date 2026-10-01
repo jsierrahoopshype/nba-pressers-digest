@@ -1,0 +1,87 @@
+{
+  "video_title": "2026 Hornets Training Camp Media Availability: Hannes Steinbach",
+  "speakers_seen": [
+    "Hannes Steinbach"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "00:09",
+      "summary_phrase": "Hannes Steinbach on his first NBA training camp experience",
+      "names_mentioned": [],
+      "excerpt": "the first two days of practice were pretty intense",
+      "quote": "It has been really fun. We had a dinner the first night as a team, which was really cool, just talking to everybody, having the group around. The first two days of practice were pretty intense. That was good too, just getting to play again, getting a real practice setting, and today was a lighter day, so it was good as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Hannes Steinbach says his first NBA training camp experience has been really fun and intense as the team builds chemistry.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 2,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "00:35",
+      "summary_phrase": "Steinbach adjusting to NBA physicality and speed",
+      "names_mentioned": [
+        "Musa"
+      ],
+      "excerpt": "I think physicality and speed, especially playing against a guy like Musa, he is very physical",
+      "quote": "I think physicality and speed, especially playing against a guy like Musa, he is very physical, very fast for his size, so just adjusting to that and being able to play against that and showing against that.",
+      "verbatim_original_language": "",
+      "start_seconds": 35,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Hannes Steinbach is focused on adjusting to the physicality and speed of the NBA game while matching up against teammates like Musa.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 3,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "01:12",
+      "summary_phrase": "Hannes Steinbach on the addition of Dennis Schroder",
+      "names_mentioned": [
+        "Dennis Schroder"
+      ],
+      "excerpt": "it is great to have him here, just having somebody to talk German to is nice",
+      "quote": "It is great to have him here, just having somebody to talk German to is nice, and just having this experience on the court, and also his tips off the court are very helpful.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Hannes Steinbach says having Dennis Schroder on the roster is great for his transition as he provides helpful tips on and off the court.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 4,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "01:44",
+      "summary_phrase": "Steinbach's focus on playing physical and earning rotation minutes",
+      "names_mentioned": [],
+      "excerpt": "playing physical, playing hard, playing the right way, running the floor, making the right plays",
+      "quote": "I think just playing physical, playing hard, playing the right way, running the floor, making the right plays, giving my body up for the team, so just making the right plays to get in the rotation.",
+      "verbatim_original_language": "",
+      "start_seconds": 104,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Hannes Steinbach outlines his path to earning rotation minutes by playing physical and making the right plays for the team.",
+      "team": "Charlotte Hornets"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "6VCWGKD2xks",
+  "url": "https://www.youtube.com/watch?v=6VCWGKD2xks",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-01T18:58:56Z",
+  "duration_seconds": 121,
+  "processed_at": "2026-10-01T19:32:44Z",
+  "run_id": "2026-10-01T1930Z-14utc",
+  "is_one_off": false
+}
