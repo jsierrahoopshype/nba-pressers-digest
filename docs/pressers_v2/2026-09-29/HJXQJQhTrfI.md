@@ -10,11 +10,15 @@ Unidentified speaker: "I think he may be the biggest addition in the NBA off-sea
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=134s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=134s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=134&q=1)</small>
+
 **2. Unidentified speaker — Unidentified speaker discusses his adjustment period after joining the Milwaukee Bucks** [1:04:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s)
 
 Unidentified speaker: "I think first and foremost it's like set a foundation, you know, if you know what I was coming into. Um, you know, obviously I spent, you know, such a long time on one organization, so coming over to the next is an adjustment period. So I'm well acclimated and I'm just ready to get to it."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s)
+
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3844&q=2)</small>
 
 **3. Unidentified speaker — Unidentified speaker says he embraces the pressure of playing for his home state team.** [2:00:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s)
 
@@ -22,11 +26,15 @@ Unidentified speaker: "I like pressure. That's what makes me. I decommitted from
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7231&q=3)</small>
+
 **4. Unidentified speaker — Unidentified speaker notes the lack of tanking rules makes this an unusual and competitive NBA season.** [03:30](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s)
 
 Unidentified speaker: "This is such an unusual year in the NBA. It's the first time maybe ever that there's no tanking rules. So there's no reason for anybody to try not to win games. So that's a really a unique thing to think about. The East, if we all did our little straw poll of who were going to be the top eight teams in the East, I will bet that there would be a lot of diversity in terms of who we would pick."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s)
+
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=210&q=4)</small>
 
 **5. Unidentified speaker — Unidentified speaker emphasizes that the team is focused on the work required to win** [1:05:30](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s)
 
@@ -34,11 +42,15 @@ Unidentified speaker: "I think that's been the sentiment, you know, pretty much 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3930&q=5)</small>
+
 **6. Unidentified speaker — Unidentified speaker discusses his trade to Milwaukee and his experience acclimating to the city.** [2:02:03](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s)
 
 Unidentified speaker: "I was told that you are not really in the NBA until you get traded. So this is I guess my welcome to the NBA, welcome to Milwaukee. I've been doing my best to get acclimated within the community, go around town, go to different restaurants, meet different people. Every time I take my dog on a walk, I get people walking down saying go Bucks, go Bucks. So I feel a lot of love here and I really appreciate the city embracing myself, Tyler, Khalil and Cass."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s)
+
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7323&q=6)</small>
 
 **7. Unidentified speaker — Unidentified speaker reflects on the success of the Giannis Antetokounmpo era and the team's championship history.** [05:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s)
 
@@ -46,11 +58,15 @@ Unidentified speaker: "Obviously, a huge blessing to have a guy like Giannis in 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=331&q=7)</small>
+
 **8. Unidentified speaker — Unidentified speaker identifies consistency and efficiency as his main goals for the season** [1:12:09](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s)
 
 Unidentified speaker: "I think the biggest thing for me is just being consistent, um, on both ends of the floor and just taking everything to the next level, honestly. Efficiency, both sides of the ball, limiting my turnovers. Um, but yeah, I think if I just continue what I've been doing and just doing it more consistently, then that should that should do it."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s)
+
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4329&q=8)</small>
 
 **9. Unidentified speaker — Unidentified speaker expresses excitement for the upcoming season and the opportunity to establish the team's identity.** [2:03:53](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s)
 
@@ -58,11 +74,15 @@ Unidentified speaker: "It is another opportunity for myself and for us as a team
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7433&q=9)</small>
+
 **10. Unidentified speaker — Unidentified speaker praises Gary Trent Jr. as an elite shooter and key playoff contributor.** [20:33](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s)
 
 Unidentified speaker: "I think that when you look at Gary Trent Jr. and what he's done for us in the last two seasons, he's an elite shooter. I think one of five or six players to really shoot the amount of threes and make the amount of threes he has as a reserve over the last couple years. Only 27 years old, was big for us in playoff moments. So there's a big belief in Gary for what we think matters."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s)
+
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1233&q=10)</small>
 
 **11. Unidentified speaker — Unidentified speaker says his knee feels great after dealing with injuries last season** [1:15:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s)
 
@@ -70,11 +90,15 @@ Unidentified speaker: "I'm I'm really excited. Like you said, I was dealing with
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4531&q=11)</small>
+
 **12. Unidentified speaker — Unidentified speaker reflects on the departure of a former teammate and looking forward to the new team.** [2:05:21](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s)
 
 Unidentified speaker: "Obviously a great guy, great teammate, great player. Did so much for the city and the organization, so it was sad to see him go. But it is also something that is out of my control, you know, and so it is just how it is now and all we can do is look forward to who we have here, what we can do, what we can build."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s)
+
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7521&q=12)</small>
 
 **13. Unidentified speaker — Unidentified speaker is described as a teacher who focuses on player development.** [22:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s)
 
@@ -82,14 +106,20 @@ Unidentified speaker: "I know when you talk to players, again, not just basketba
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1324&q=13)</small>
+
 **14. Unidentified speaker — Unidentified speaker says he is looking forward to the freedom to hoop with his new team** [1:17:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s)
 
 Unidentified speaker: "I mean, you know, just having the freedom to you know, go hoop and play with the rest of this team and you know, shock a lot of people. I mean, I feel like me, I feel like I transition, I guess the most smoothly just because you know where I'm from and it's just kind of like the area of where I'm from. So it is it wasn't like a big change for me."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s)
 
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4624&q=14)</small>
+
 **15. Unidentified speaker — Unidentified speaker reflects on reaching his 10th season in the NBA.** [2:07:01](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s)
 
 Unidentified speaker: "Well, this is my 10th year in the NBA and it is such a blessing. You know, I think back to growing up and wanting to be able to play 10 years. It is one of the things I wrote down when I was a kid. When they talk about writing down affirmations and what you want. And doing something for a decade, you get to learn a lot about yourself."
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s)
+
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7621&q=15)</small>

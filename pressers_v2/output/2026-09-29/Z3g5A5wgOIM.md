@@ -10,11 +10,15 @@ Charles Lee: "The flexibility comes with, you know, I think this group allows yo
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=66s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=66s)
 
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=66&q=1)</small>
+
 **2. Charles Lee — "he brings a lot of NBA corporate knowledge" — Charles Lee praises Dennis Schroder for his leadership and ability to impact the Hornets' offense.** [01:58](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s)
 
 Charles Lee: "I'm so glad to be reunited with Dennis. It's been fun watching his career from afar. He's just gotten better and better, I think every team he's gone to. He's grown as a as a leader, a professional. He's impacted a ton of regular season and playoff games and so we're excited to have him. I think that he brings a lot of NBA corporate knowledge. Defensively, there's a competitive spirit to him that I absolutely love and then offensively, as fast as we want to play, he's like a blur, you give him the ball with the ball in his hands. I also think that he's going to help us be able to touch the paint a little bit more, get to the rim and and create some some better shots down the stretch."
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s)
+
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=118&q=2)</small>
 
 **3. Charles Lee — "most teams like you see a lot of success when that team can learn how to gel" — Charles Lee emphasizes the importance of team chemistry for the Hornets' deep roster.** [03:58](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s)
 
@@ -22,8 +26,12 @@ Charles Lee: "I think we have a very deep talented roster, but most teams, like 
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s)
 
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=238&q=3)</small>
+
 **4. Charles Lee — "I look forward to him trying to expand his game a little bit, maybe shoot the three" — Charles Lee wants PJ Washington to expand his offensive game by shooting more threes.** [04:17](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s)
 
 Charles Lee: "I thought we got to see last year in some of his stints that he had with the Hornets, but also, he I thought he did a great job of helping impact winning with our with the Swarm as well and led them to a a championship. But I've seen a guy that grows continuously defensively. He knows he's got to work on that area and and figure out like what is his paint presence going to be like. Obviously being an undersized big, but this year I look forward to him trying to expand his game a little bit, maybe shoot the three a little bit more. He's already shown in the G League and and games with us, he's great on the glass. He's just got a knack for scoring and knowing where the ball is and and creating extra possessions for your team."
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s)
+
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=257&q=4)</small>

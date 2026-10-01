@@ -10,8 +10,12 @@ Bogoljub Marković: "Many more people, video guys, coaches, more loud, more talk
 
 [https://www.youtube.com/watch?v=eLZoNxBUWso&t=18s](https://www.youtube.com/watch?v=eLZoNxBUWso&t=18s)
 
+<small>[Clip it](presserclips://clip?v=eLZoNxBUWso&t=18&q=1)</small>
+
 **2. Bogoljub Marković — "try to make the practice as hard as possible, so the games are easier" — Bogoljub Marković says the team is focused on making practices harder than games.** [02:56](https://www.youtube.com/watch?v=eLZoNxBUWso&t=176s)
 
 Bogoljub Marković: "The toughness, the energy we have, the most important thing is to try to make the practice as hard as possible, so the games are easier than practice and to push each other and that is the main thing."
 
 [https://www.youtube.com/watch?v=eLZoNxBUWso&t=176s](https://www.youtube.com/watch?v=eLZoNxBUWso&t=176s)
+
+<small>[Clip it](presserclips://clip?v=eLZoNxBUWso&t=176&q=2)</small>

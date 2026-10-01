@@ -10,14 +10,20 @@ Bryson Graham: "Internally, we know that it is a season of growth and developmen
 
 [https://www.youtube.com/watch?v=POC_ahnYHUk&t=499s](https://www.youtube.com/watch?v=POC_ahnYHUk&t=499s)
 
+<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=499&q=1)</small>
+
 **2. Tiago Splitter — "every day he is showing us why he is the number four pick" — Tiago Splitter says Caleb Wilson is showing why he was a top four pick.** [09:05](https://www.youtube.com/watch?v=POC_ahnYHUk&t=545s)
 
 Tiago Splitter: "Just like everybody in this room are excited about **Caleb**, we are the same way. That is he is a number four pick and every day he is showing us why he is the number four pick and and also it is really hard to to put him a floor or a ceiling to be honest. He is going to work, we are going to work with him, we are going to help him to be the best player he can be. What is that going to be, I don't know and the future is going to tell."
 
 [https://www.youtube.com/watch?v=POC_ahnYHUk&t=545s](https://www.youtube.com/watch?v=POC_ahnYHUk&t=545s)
 
+<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=545&q=2)</small>
+
 **3. Bryson Graham — "it is better to develop with a more competent roster" — Bryson Graham says the team used cap space to build a more competent roster.** [20:02](https://www.youtube.com/watch?v=POC_ahnYHUk&t=1202s)
 
 Bryson Graham: "We had a lot of cap space. We had to fill that space I think appropriately where because of the new rules, you were to raise the floor a little bit, right? But not mortgage the future and which is really important and like **Tiago** said, as you are developing, you know now, I think it is it is better to develop with a more competent roster. I think that is really, really important as well. So, yeah, did we did we check every box? To your point, **Will**, like you said, being an off-ramp and stuff like that, the market has changed. I think everyone is understand understands that, but we are still not out of that game."
 
 [https://www.youtube.com/watch?v=POC_ahnYHUk&t=1202s](https://www.youtube.com/watch?v=POC_ahnYHUk&t=1202s)
+
+<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=1202&q=3)</small>

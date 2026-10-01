@@ -10,11 +10,15 @@ Brandon Ingram: "I am doing well in my recovery. I am coming along. I have been 
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=19s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=19s)
 
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=19&q=1)</small>
+
 **2. Brandon Ingram — Brandon Ingram will have limited participation in training camp while recovering from surgery.** [03:37](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=217s)
 
 Brandon Ingram: "I think that is more of a training question, a training staff question. My recovery has been going good. I feel good about the spot that I am in right now, recovering from this surgery. I won't be participating in training camp much, but I will be out there a little bit. So I think it is a week by week thing, just trying to see and figure out when I will be returning to play."
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=217s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=217s)
+
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=217&q=2)</small>
 
 **3. Brandon Ingram — Brandon Ingram reflects on the long trade process and his excitement to play for Ty Lue.** [05:31](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=331s)
 
@@ -22,14 +26,20 @@ Brandon Ingram: "It was way different. It probably was the longest time in histo
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=331s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=331s)
 
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=331&q=3)</small>
+
 **4. Brandon Ingram — Brandon Ingram believes his best years are still ahead of him.** [06:41](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=401s)
 
 Brandon Ingram: "I think my best years are ahead of me. I have learned a lot being in the league, playing with some really really good players, learning from some really really good players. So I just want to come out here and compete, show that I am a winning basketball player, and be on the floor as much as I can to do what I love to do."
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=401s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=401s)
 
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=401&q=4)</small>
+
 **5. Brandon Ingram — Brandon Ingram aims to adapt to Ty Lue's vision and earn a voice in the locker room.** [06:43](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=403s)
 
 Brandon Ingram: "I want to adapt to his vision. I want to be able to be all over the basketball floor and do everything, do some of everything. That is my game, being able to do everything on the basketball floor. And I think what I have to do is stack days, be consistent, come in with the right attitude every single day and let my actions speak and then I gain a voice in the locker room."
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=403s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=403s)
+
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=403&q=5)</small>

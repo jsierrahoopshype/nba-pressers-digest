@@ -1,12 +1,14 @@
 #!/bin/bash
 # NBA Presser Clips installer for macOS. Double-click it, or run it in
-# Terminal. Installs Homebrew (if missing), ffmpeg, Python, the app and a
-# desktop launcher, then asks four setup questions. Safe to run again: it
-# updates everything and asks again. No GitHub account or token needed.
+# Terminal. Installs Homebrew (if missing), ffmpeg, Python, the app, the
+# "Clip it" link handler and a desktop launcher, then asks three setup
+# questions. Safe to run again: it updates everything and asks again. No
+# GitHub account or token needed.
 set -u
 APP="$HOME/Library/Application Support/NBA Presser Clips"
 RAW="https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/main/pressers_v2"
-FILES="make_presser_clips.py caption_align.py presser_pc_job.py presser_clips_setup.py run-presser-clips-mac.command"
+FILES="caption_align.py reframe.py make_presser_clips.py presser_clips_setup.py run-presser-clips-mac.command"
+MODEL="models/face_detection_yunet_2023mar.onnx"   # face detection (YuNet, MIT licence)
 
 fail() {
   echo
@@ -55,16 +57,20 @@ for f in $FILES; do
     || fail "Download of $f failed. Check your internet connection and run this again."
   mv -f "$APP/$f.new" "$APP/$f"
 done
+mkdir -p "$APP/models"
+curl -fsSL --max-time 120 -o "$APP/$MODEL.new" "$RAW/$MODEL" \
+  || fail "Download of the face model failed. Check your internet connection and run this again."
+mv -f "$APP/$MODEL.new" "$APP/$MODEL"
 chmod 755 "$APP/run-presser-clips-mac.command"
 
-# 4. A private Python environment with yt-dlp, deno, faster-whisper
+# 4. A private Python environment: yt-dlp, deno, OpenCV, faster-whisper
 VPY="$APP/venv/bin/python"
 if [ ! -x "$VPY" ]; then
   "$PY" -m venv "$APP/venv" || fail "Could not create the Python environment."
 fi
-echo "Installing yt-dlp, deno and faster-whisper (the first time takes a few minutes)..."
+echo "Installing yt-dlp, deno, OpenCV and faster-whisper (the first time takes a few minutes)..."
 "$VPY" -m pip install --upgrade --disable-pip-version-check --quiet pip
-"$VPY" -m pip install --upgrade --disable-pip-version-check --quiet "yt-dlp[default]" certifi deno \
+"$VPY" -m pip install --upgrade --disable-pip-version-check --quiet "yt-dlp[default]" certifi deno opencv-python-headless \
   || fail "pip could not install yt-dlp. Check your internet connection and run this again."
 "$VPY" -m pip install --upgrade --disable-pip-version-check --quiet faster-whisper \
   || echo "NOTE: faster-whisper could not be installed. Videos without YouTube captions will be skipped."
@@ -77,7 +83,7 @@ if ! "$VPY" "$APP/presser_clips_setup.py" --find-deno >/dev/null; then
 fi
 echo
 
-# 6. The four questions, desktop launcher, automatic mode
+# 6. The three questions, Clip it links, desktop launcher
 "$VPY" "$APP/presser_clips_setup.py" --setup || fail "Setup did not finish. Run the installer again."
 echo
 read -r -p "Press Return to close this window." _

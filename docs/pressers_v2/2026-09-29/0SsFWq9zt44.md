@@ -10,11 +10,15 @@ Khris Middleton: "Defense is always the number one thing that gets the coaches g
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=85s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=85s)
 
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=85&q=1)</small>
+
 **2. Khris Middleton — "Knowing that you have two seven footers back there just in case" — Khris Middleton highlights the defensive impact of having two seven footers protecting the rim for the Washington Wizards.** [02:45](https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s)
 
 Khris Middleton: "Still guard your man and knowing that you have two seven footers back there just in case. That is just the way I like to think of it. Knowing that once guys realize there is two seven footers, they hopefully they don't want to go there down there as much, but as long as we make our job tough on them, it will make the bigs shot easier in the paint."
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s)
+
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=165&q=2)</small>
 
 **3. Khris Middleton — "I think it is just being myself" — Khris Middleton describes his approach to mentoring younger teammates on the Washington Wizards roster.** [03:12](https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s)
 
@@ -22,8 +26,12 @@ Khris Middleton: "I think it is just being myself. I think the guys know behind 
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s)
 
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=192&q=3)</small>
+
 **4. Khris Middleton — "It was a lot of the stuff I saw last year" — Khris Middleton explains the factors that influenced his decision to return to the Washington Wizards.** [04:53](https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s)
 
 Khris Middleton: "It was a lot of the stuff I saw last year. Just the daily habits, the way they the organization was ran from top to bottom. Then once I got in the locker room being around those guys, even though they are young and some of them may be inexperienced, but knowing that they want to reach the top at some point, so hopefully I can help them get there. And then when you look around and you see the roster, you see the additions that they added."
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s)
+
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=293&q=4)</small>

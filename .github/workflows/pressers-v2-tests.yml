@@ -1,8 +1,9 @@
 name: Pressers v2 tests
 
-# Offline unit tests (Gemini mocked, no network, no secrets), on Linux and on
-# a real Windows filesystem (the clip tool's file moves, deletes and folder
-# check behave differently there).
+# Offline unit tests (Gemini mocked, no network, no secrets) on Linux, on a
+# real Windows filesystem (the clip tool's file moves, deletes, folder check
+# and link registration behave differently there) and on macOS (the "Clip it"
+# link app).
 on:
   pull_request:
     paths:
@@ -23,7 +24,7 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
-      - run: pip install -r pressers_v2/requirements.txt
+      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless
       - run: python -m unittest discover -s pressers_v2/tests -v
 
   windows:
@@ -36,23 +37,56 @@ jobs:
           python-version: '3.11'
       - name: Install ffmpeg
         run: choco install ffmpeg -y --no-progress
-      - run: pip install -r pressers_v2/requirements.txt
-      - name: Windows filesystem checks (folder check, render and move, cleanup)
+      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless
+      - name: Windows filesystem checks (folder check, render with face crop, move, cleanup, link registration)
         env:
           REQUIRE_FFMPEG: '1'
         run: python -m unittest discover -s pressers_v2/tests -p test_windows_fs.py -v
       - name: Installer setup step with typed answers (C:\presser-clips-ci-setup)
         shell: bash
         run: |
-          printf 'C:\\presser-clips-ci-setup\n7\nVS\nN\n' | python pressers_v2/presser_clips_setup.py --setup
+          printf 'C:\\presser-clips-ci-setup\n7\nVS\n' | python pressers_v2/presser_clips_setup.py --setup
           python - <<'EOF'
-          import json, os
+          import json, os, winreg
           s = json.load(open("pressers_v2/settings.json", encoding="utf-8"))
           print(s)
           assert s["out_dir"].lower() == r"c:\presser-clips-ci-setup", s
           assert (s["keep_days"], s["formats"], s["auto_run"]) == (7, ["vertical", "square"], False), s
           assert os.listdir(r"C:\presser-clips-ci-setup") == [], "the folder check left a file behind"
+          with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Software\Classes\presserclips\shell\open\command") as k:
+              cmd = winreg.QueryValueEx(k, "")[0]
+          print("presserclips: ->", cmd)
+          assert cmd.endswith('make_presser_clips.py" --link "%1"'), cmd
           EOF
           rm pressers_v2/settings.json   # the unit tests expect no installed settings
       - name: Full test suite on Windows
+        run: python -m unittest discover -s pressers_v2/tests -v
+
+  macos:
+    runs-on: macos-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless
+      - name: '"Clip it" link app, built and registered the way the installer does it'
+        run: |
+          python - <<'EOF'
+          import plistlib, subprocess, sys
+          sys.path.insert(0, "pressers_v2")
+          import presser_clips_setup as s
+          print(s.register_link_mac())
+          app = s.mac_bundle_path()
+          info = plistlib.load(open(app / "Contents" / "Info.plist", "rb"))
+          print(info["CFBundleIdentifier"], info["CFBundleURLTypes"])
+          assert info["CFBundleURLTypes"][0]["CFBundleURLSchemes"] == ["presserclips"], info
+          r = subprocess.run(["codesign", "--verify", "--deep", "--strict", str(app)], capture_output=True, text=True)
+          assert r.returncode == 0, r.stderr
+          r = subprocess.run(["osadecompile", str(app / "Contents" / "Resources" / "Scripts" / "main.scpt")],
+                             capture_output=True, text=True)
+          assert "quoted form of theURL" in r.stdout, r.stdout + r.stderr
+          EOF
+      - name: Unit tests on macOS
         run: python -m unittest discover -s pressers_v2/tests -v

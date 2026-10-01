@@ -10,14 +10,20 @@ Ousmane Dieng: "Since I got here last year I had more opportunities, more reps. 
 
 [https://www.youtube.com/watch?v=h7jjReBB8gA&t=3s](https://www.youtube.com/watch?v=h7jjReBB8gA&t=3s)
 
+<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=3&q=1)</small>
+
 **2. Ousmane Dieng — Ousmane Dieng shares his advice for younger players on finding their role in the NBA.** [02:09](https://www.youtube.com/watch?v=h7jjReBB8gA&t=129s)
 
 Ousmane Dieng: "I feel like just find your role. Just do whatever the team needs you to do to win and you will be all right."
 
 [https://www.youtube.com/watch?v=h7jjReBB8gA&t=129s](https://www.youtube.com/watch?v=h7jjReBB8gA&t=129s)
 
+<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=129&q=2)</small>
+
 **3. Ousmane Dieng — Ousmane Dieng highlights Coach Doc Rivers' focus on defense during training camp.** [02:37](https://www.youtube.com/watch?v=h7jjReBB8gA&t=157s)
 
 Ousmane Dieng: "Probably the defensive end. He is a really defensive minded coach, so that is great. I feel like that is great for us."
 
 [https://www.youtube.com/watch?v=h7jjReBB8gA&t=157s](https://www.youtube.com/watch?v=h7jjReBB8gA&t=157s)
+
+<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=157&q=3)</small>

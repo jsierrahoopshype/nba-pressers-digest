@@ -10,11 +10,15 @@ Taylor Jenkins: "Competitive tone was the biggest focus. I thought our guys brou
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=4s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=4s)
 
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=4&q=1)</small>
+
 **2. Taylor Jenkins — Taylor Jenkins stresses defensive identity and discipline for the upcoming season** [01:48](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s)
 
 Taylor Jenkins: "I'm probably defensive minded at heart, so when I get an opportunity to be laced up, I got basketball shoes on, I still got fire inside of me. So defensively, I told them that's got to be something that we have to have pride in, individually for sure, but collectively. How we want to play on offense, on selfishness, aggressive and discipline, we got to do that on the defensive side as well, but that's got to be our main stay. So when I can get up there and mix it up and obviously when I get on the guys and try to correct behaviors and build new habits, I want to be able to demonstrate that as well."
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s)
+
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=108&q=2)</small>
 
 **3. Taylor Jenkins — Taylor Jenkins praises assistant coach for his mentorship and impact** [05:48](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s)
 
@@ -22,8 +26,12 @@ Taylor Jenkins: "He's meant so much to me. He's a big brother to me. He's a big 
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s)
 
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=348&q=3)</small>
+
 **4. Taylor Jenkins — Taylor Jenkins plans to utilize pick and roll and collective movement as offensive triggers** [07:41](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s)
 
 Taylor Jenkins: "It's definitely going to be a part of it. Our processes, how we're going to create advantage through numbers and space initially, but one of our main triggers is going to be pick and roll. We've got some elite pick and roll ball handlers. I think the combination with some of our bigs, hopefully we can use that to our advantage to create advantages. But how we move off the ball, how we have five guys engaged in every single possession, my time in Memphis we lean into that very heavily. Dosed pick and rolls into it, but to make the point that our collective movement has to be the separating factor for us. It can't just be two guys trying to create an advantage and the other guys are just bystanders."
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s)
+
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=461&q=4)</small>

@@ -195,3 +195,135 @@ def align_quote(text: str, words: list, hint_start: float | None = None,
                               "score": round(score, 3), "head": round(hf, 3),
                               "tail": round(tf, 3), "coverage": round(cov, 3)})
     return best[1] if best else None
+
+
+# --------------------------------------------------------------------------- #
+# Word-level timing (for subtitles that appear exactly when words are said)
+# --------------------------------------------------------------------------- #
+
+def json3_has_word_timing(data) -> bool:
+    """True for YouTube's speech-recognition captions, whose json3 events
+    carry a time offset for every word. Manual captions only time whole
+    lines, which is not precise enough for word-timed subtitles."""
+    if isinstance(data, (str, bytes)):
+        data = json.loads(data)
+    return any("tOffsetMs" in s for ev in data.get("events") or [] for s in (ev.get("segs") or [])[1:])
+
+
+_VTT_WORD_TS = re.compile(r"<(\d+):(\d{2}):(\d{2})\.(\d{3})>")
+
+
+def word_timings_from_vtt(text: str) -> list:
+    """Word-level timings from auto-caption WebVTT, where each word carries
+    an inline <00:00:01.234> timestamp. [] when the file has none."""
+    if not _VTT_WORD_TS.search(text or ""):
+        return []
+    out, seen_until = [], -1.0
+    for block in re.split(r"\n\s*\n", text):
+        m = re.search(_VTT_TIME + r"\s*-->\s*" + _VTT_TIME, block)
+        if not m:
+            continue
+        cue_start = _vtt_secs(re.match(_VTT_TIME, m.group(0)))
+        body = block[m.end():]
+        for line in body.splitlines():
+            if not _VTT_WORD_TS.search(line):
+                continue                      # the repeated previous line has no inline times
+            pieces = re.split(r"(<\d+:\d{2}:\d{2}\.\d{3}>)", line)
+            t = cue_start
+            for piece in pieces:
+                tm = _VTT_WORD_TS.fullmatch(piece)
+                if tm:
+                    t = _vtt_secs(tm)
+                    continue
+                for tok in norm_words(re.sub(r"<[^>]+>", "", piece)):
+                    if t > seen_until:
+                        out.append([t, None, tok])
+            seen_until = max(seen_until, t)
+    out.sort(key=lambda w: w[0])
+    for i, w in enumerate(out):
+        nxt = out[i + 1][0] if i + 1 < len(out) else w[0] + 0.4
+        w[1] = max(w[0] + 0.05, min(nxt, w[0] + 1.2))
+    return [tuple(w) for w in out]
+
+
+def quote_word_times(text: str, words: list, t0: float, t1: float, min_match: float = 0.6) -> list:
+    """Time every word of the quote text (with its punctuation and capitals)
+    from word-level timings [(start, end, token)] around [t0, t1]. Words the
+    captions missed get times interpolated between their neighbours.
+    Returns [(start, end, display_word)], or [] when too few words match."""
+    display = (text or "").split()
+    if not display:
+        return []
+    needle, owner = [], []
+    for i, w in enumerate(display):
+        for tok in norm_words(w):
+            needle.append(tok)
+            owner.append(i)
+    hay = [w for w in words if t0 - 1.0 <= w[0] <= t1 + 1.0]
+    if not needle or not hay:
+        return []
+    sm = SequenceMatcher(None, needle, [w[2] for w in hay], autojunk=False)
+    times = [None] * len(display)
+    matched = 0
+    for b in sm.get_matching_blocks():
+        for k in range(b.size):
+            i = owner[b.a + k]
+            s, e = hay[b.b + k][0], hay[b.b + k][1]
+            matched += 1
+            times[i] = (s, e) if times[i] is None else (min(times[i][0], s), max(times[i][1], e))
+    if matched / len(needle) < min_match:
+        return []
+    # interpolate the words the captions didn't have
+    known = [i for i, t in enumerate(times) if t]
+    for i in range(len(display)):
+        if times[i]:
+            continue
+        before = max((k for k in known if k < i), default=None)
+        after = min((k for k in known if k > i), default=None)
+        if before is None:
+            a, b = max(t0, times[after][0] - 0.3 * (after - i)), times[after][0]
+            span_from, span_n = a, after
+        elif after is None:
+            a, b = times[before][1], times[before][1] + 0.3 * (i - before)
+            span_from, span_n = a, i - before
+        else:
+            a, b = times[before][1], times[after][0]
+            span_from, span_n = a, after - before
+        pos = (i - (before if before is not None else 0)) or 1
+        step = max(0.05, (b - span_from) / max(1, span_n))
+        s = span_from + step * (pos - 1 if before is None else pos - 1)
+        times[i] = (s, s + step)
+    return [(round(times[i][0], 3), round(max(times[i][1], times[i][0] + 0.05), 3), display[i])
+            for i in range(len(display))]
+
+
+def subtitle_chunks(word_times: list, max_words: int = 4, min_words: int = 2, max_chars: int = 26) -> list:
+    """Group timed words into 2-4 word captions, breaking after punctuation.
+    Each caption shows from its first word's start until just after its last
+    word (or until the next caption). Returns [(start, end, text)]."""
+    groups, cur = [], []
+    for w in word_times:
+        text = " ".join(x[2] for x in cur + [w])
+        if cur and (len(cur) >= max_words or len(text) > max_chars):
+            groups.append(cur)
+            cur = []
+        cur.append(w)
+        if len(cur) >= min_words and re.search(r"[.,!?;:]$", w[2]):
+            groups.append(cur)
+            cur = []
+    if cur:
+        if len(cur) < min_words and groups:
+            if len(groups[-1]) < max_words:
+                groups[-1].extend(cur)                    # "right direction" + "now"
+                cur = []
+            elif len(groups[-1]) > min_words:
+                cur.insert(0, groups[-1].pop())           # 4 + 1 -> 3 + 2
+        if cur:
+            groups.append(cur)
+    out = []
+    for k, g in enumerate(groups):
+        start, end = g[0][0], g[-1][1]
+        nxt = groups[k + 1][0][0] if k + 1 < len(groups) else None
+        end = min(end + 0.25, nxt) if nxt is not None else end + 0.4
+        out.append((round(start, 3), round(max(end, start + 0.3), 3), " ".join(x[2] for x in g)))
+    return out

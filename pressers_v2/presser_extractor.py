@@ -311,11 +311,45 @@ def link_bare_urls(md: str) -> str:
     return _BARE_TS_URL_RE.sub(r"[\1](\1)", md)
 
 
+# "Clip it": after the timestamped URL that closes each quote block, a small
+# link in the presserclips: scheme the clip tool's installer registers. A
+# click renders that quote (video id, start second, quote number) on the
+# reader's computer. Built from the block's own header number and URL, so
+# it also works on stored files; a block that already has one is skipped.
+_QUOTE_HEADER_RE = re.compile(r"^\*\*(\d+)\.")
+_TS_LINK_LINE_RE = re.compile(r"^\[https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})&t=(\d+)s\]"
+                              r"\(https://www\.youtube\.com/watch\?v=\1&t=\2s\)$")
+CLIP_LINK_LINE_RE = re.compile(r"^<small>\[Clip it\]\(presserclips://clip\?v=[A-Za-z0-9_-]{11}&t=\d+&q=\d+\)</small>$")
+
+
+def clip_link_line(video_id: str, secs: int, rank: int) -> str:
+    return f"<small>[Clip it](presserclips://clip?v={video_id}&t={int(secs)}&q={int(rank)})</small>"
+
+
+def add_clip_links(md: str) -> str:
+    lines = md.split("\n")
+    out, rank = [], None
+    for i, line in enumerate(lines):
+        out.append(line)
+        m = _QUOTE_HEADER_RE.match(line)
+        if m:
+            rank = int(m.group(1))
+            continue
+        t = _TS_LINK_LINE_RE.match(line)
+        if t and rank is not None:
+            has_one = i + 2 < len(lines) and lines[i + 1] == "" and CLIP_LINK_LINE_RE.match(lines[i + 2])
+            if not has_one:
+                out.extend(["", clip_link_line(t.group(1), int(t.group(2)), rank)])
+            rank = None
+    return "\n".join(out)
+
+
 def render_markdown(video_id: str, channel_name: str, data: dict) -> str:
     """yt-quotes' to_markdown, unchanged, on a Pages-safe copy of the data,
-    with its bare YouTube URLs turned into links (see link_bare_urls)."""
-    return link_bare_urls(
-        ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=video_id), channel_name, pages_safe(data)))
+    with its bare YouTube URLs turned into links (see link_bare_urls) and a
+    "Clip it" link after each quote block (see add_clip_links)."""
+    return add_clip_links(link_bare_urls(
+        ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=video_id), channel_name, pages_safe(data))))
 
 
 # --------------------------------------------------------------------------- #
@@ -894,8 +928,9 @@ def migrate_legacy_outputs() -> None:
 
 
 def relink_stored_markdown() -> None:
-    """Apply link_bare_urls to every stored per-video .md and digest (written
-    before links were added). Text-only and idempotent; no Gemini calls."""
+    """Apply link_bare_urls and add_clip_links to every stored per-video .md
+    and digest (written before those links existed). Text-only and
+    idempotent; no Gemini calls."""
     changed = 0
     for day_dir in iter_day_dirs():
         for md in day_dir.glob("*.md"):
@@ -903,12 +938,12 @@ def relink_stored_markdown() -> None:
                 text = md.read_text(encoding="utf-8")
             except OSError:
                 continue
-            linked = link_bare_urls(text)
+            linked = add_clip_links(link_bare_urls(text))
             if linked != text:
                 atomic_write(md, linked)
                 changed += 1
     if changed:
-        log(f"[relink] made the bare YouTube URLs clickable in {changed} stored markdown file(s)")
+        log(f"[relink] updated the links in {changed} stored markdown file(s)")
 
 
 def build_clip_manifest(run_slot: str, window_hours: int) -> dict:

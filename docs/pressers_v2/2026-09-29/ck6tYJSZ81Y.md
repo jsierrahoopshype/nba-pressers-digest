@@ -10,8 +10,12 @@ De'Anthony Melton: "Frank, I think he is going to add an interesting piece for u
 
 [https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=324s](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=324s)
 
+<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=324&q=1)</small>
+
 **2. De'Anthony Melton — "he definitely is strong and going downhill he is massive for sure" — De'Anthony Melton praises Jaxson Hayes' strength and size.** [08:14](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s)
 
 De'Anthony Melton: "Jax is he a big kid, man. He a big kid, 1000%. I be joking with him. To me, online was telling me he is 26 years old. So to hear that he only 23 is crazy to me, but yeah, no he a big he a big boy and for me that is somebody I like to guard. So I have been bumping and pushing him around just because just to see how he reacts to it nowadays, but he definitely is strong and going downhill he is massive for sure."
 
 [https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s)
+
+<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=494&q=2)</small>

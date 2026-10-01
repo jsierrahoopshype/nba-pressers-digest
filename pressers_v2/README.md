@@ -64,70 +64,86 @@ Plain-English guide for anyone making clips: [CLIPS-GUIDE.md](CLIPS-GUIDE.md).
 [install-presser-clips.bat](https://jsierrahoopshype.github.io/nba-pressers-digest/presser-clips/install-presser-clips.bat),
 Mac [install-presser-clips-mac.zip](https://jsierrahoopshype.github.io/nba-pressers-digest/presser-clips/install-presser-clips-mac.zip)
 (the .command inside). The installer sets up Python (winget / Homebrew),
-ffmpeg, a private venv with yt-dlp, deno and faster-whisper, downloads the
+ffmpeg, a private venv (yt-dlp, deno, OpenCV, faster-whisper), downloads the
 app into `%LOCALAPPDATA%\NBA Presser Clips` or
-`~/Library/Application Support/NBA Presser Clips`, and asks: save folder
-(default `<home>/Documents/presser-clips`; shared Drive/OneDrive/Dropbox
-folders work, as long as the folder is used only for clips), days to keep
-files (Enter = 7, 0 = never), default formats (Enter = all three) and
-automatic mode (Y/N, default N). Answers go to `settings.json` in the app folder. It also puts an
-**NBA Presser Clips** shortcut on the desktop. Re-running it updates and asks
+`~/Library/Application Support/NBA Presser Clips`, and asks three questions:
+clips folder (default `<home>/Documents/presser-clips`; a shared Drive /
+OneDrive / Dropbox folder works if it's used only for clips), days to keep
+clips (Enter = 7, 0 = never) and default formats (Enter = all three).
+Answers go to `settings.json` in the app folder. It registers the "Clip it"
+link type, puts an **NBA Presser Clips** shortcut on the desktop and switches
+off the automatic mode of earlier versions. Re-running it updates and asks
 again. The Pages copies in `docs/presser-clips/` are rebuilt with
 `python pressers_v2/tools/build_installers.py` (a test checks they match).
 
-**On demand.** The shortcut refreshes the app files from `main`, then shows
-the latest run's quotes grouped Press conferences / Podcasts & shows /
-One-offs (number, score, formats already made, speaker, team, angle).
-Enter = top 10, numbers like `1,3,5-7`, P / D / O, MORE (whole 48 hours), or
-paste a timestamped YouTube link from the digest to clip that one quote.
-Then it asks for formats: Enter = the defaults, or any of V / Y / S.
+**Clip it.** Every quote block in the digest (Pages) ends with a small
+`Clip it` link: `presserclips://clip?v=<video id>&t=<start second>&q=<quote number>`.
+The installer registers that link type for the current user only: Windows
+under `HKCU\Software\Classes\presserclips` (no admin), running
+`<venv>\python.exe make_presser_clips.py --link "%1"` in a console window;
+macOS as `~/Applications/NBA Presser Clips.app` (an AppleScript app whose
+`CFBundleURLTypes` declares the scheme) that opens Terminal with the link as
+one shell-quoted argument. The tool accepts nothing but `--link <one link>`
+in that mode and checks the link strictly: exactly `v`, `t`, `q`; an 11-char
+`[A-Za-z0-9_-]` video id; whole seconds; a quote number that exists for that
+video at that second (48-hour clip list, then the stored per-video data).
+Anything else is refused and logged. A good link renders that quote in the
+default formats, shows progress and closes the window.
 
-**Formats.** `vertical` 1080x1920, `youtube` 1920x1080, `square` 1080x1080,
-each rendered from one download of the segment. The frame is never cropped
-(fitted, blurred fill). Vertical and square put the lower third and the
-captions in the bands outside the picture; YouTube puts a compact lower third
-top-left and captions along the bottom edge.
+**Desktop shortcut** (fallback): the pick-list of the latest run's quotes,
+grouped Press conferences / Podcasts & shows / One-offs; Enter = top 10,
+numbers, P / D / O, MORE (48 hours) or a pasted timestamped YouTube link; then
+formats (Enter = defaults, or V / Y / S).
 
-**Cuts.** For each quote the clipper finds where it's really spoken (YouTube
-captions via yt-dlp, else Whisper on the 90 seconds around it) and cuts with
-0.5s padding. A low-confidence match is skipped, not cut.
+**Formats.** `vertical` 1080x1920 and `square` 1080x1080 are crops of the
+source that follow the speaker (`reframe.py`): OpenCV's YuNet face detector
+(`models/`, MIT) samples ~6 frames/s, the biggest face near the previous
+position is the speaker, gaps hold the last position (centre if no face),
+and a "lazy camera" pans only when the face leaves a dead zone, at a capped
+speed with eased motion, cutting rather than panning when the source cuts
+to another shot. The per-frame crop goes to ffmpeg through `sendcmd`.
+`youtube` 1920x1080 is the full frame. Best source up to 1080p, one download
+per quote for all formats. No bands, no lower third.
 
-**Files.** The clips folder holds finished clips only:
-`<folder>/<video date>/pressers|podcasts|oneoffs/<date>_<team>_<speaker>_<videoid>-<start>s_<format>.mp4`.
-Everything else lives in the per-user app folder (`%LOCALAPPDATA%\NBA Presser Clips`
-or `~/Library/Application Support/NBA Presser Clips`): the post text in
-`notes/<date>/<same base name>.txt`, logs in `logs/`, renders in `tmp/`.
-Names depend only on the quote, so an existing file is never rendered again
-(per format), also when several people share the folder. A finished render
-moves into the clips folder in one rename (same drive) or via a `.partial`
-copy that's renamed (another drive, e.g. Google Drive G:). Every move and
-delete retries when Windows reports the file as busy (WinError 32/5). Notes
-and logs left in the clips folder by earlier versions are moved to the app
-folder on the next run.
+**Subtitles** show 2-4 words at a time exactly when they're spoken: the
+quote's own words timed by YouTube's speech-recognition captions (json3 /
+WebVTT word timings), or by faster-whisper when the captions only time whole
+lines. No word-level timing: no subtitles.
 
-**Cleanup.** Every run (shortcut or automatic) deletes files older than
-`keep_days` (install question, default 7, 0 = never) from the clips folder,
-`notes/` and `tmp/`, removes empty subfolders, and prints/logs what it freed
+**Cuts.** For each quote the clipper finds where it's really spoken (captions
+via yt-dlp, else Whisper on the 90 seconds around it) and cuts with 0.5s
+padding. A low-confidence match is skipped, not cut.
+
+**Files.** One folder per quote in the clips folder:
+`<YYYY-MM-DD> <Speaker> - <short angle>/` holding `vertical.mp4`,
+`youtube.mp4`, `square.mp4` (the chosen formats) and `quote.txt` (speaker,
+team, the quote, source link with timestamp, draft post). Nothing else goes
+in the clips folder: logs (`logs/`) and renders (`tmp/`) stay in the app
+folder. A format that already exists in the quote's folder is never
+rendered again, also when several people share the folder. A finished
+render moves into place in one rename (same drive) or via a `.partial` copy
+that's renamed (another drive, e.g. Google Drive G:); every move and delete
+retries when Windows reports the file as busy (WinError 32/5).
+
+**Cleanup.** Every run deletes quote folders whose newest file is older than
+`keep_days` (whole folders), plus old leftovers of earlier layouts and old
+files in the app's `tmp/`, and prints/logs what it freed
 (`logs/cleanup-log.txt`). The installer refuses folders that obviously hold
 other files (a drive root, home, Documents, Desktop, Downloads, a Drive /
 OneDrive / Dropbox root). Without an installer `settings.json` nothing is
 deleted.
 
-**Automatic mode.** Task Scheduler (Windows) or launchd (Mac) starts
-`presser_pc_job.py --only-new` every 30 minutes while you're logged in; it
-cleans up, then renders the top 10 in the default formats only when the clip
-list shows a new cloud run. Log: `logs/pc-job-log.txt` in the app folder.
-Nothing is written to GitHub.
+**Automatic mode** is retired. Installs that had it get it removed: the
+scheduled task's next run (`presser_clips_setup.py --auto`, or the older
+`presser_pc_job.py` job) unregisters itself, and so do the next update and
+the installer.
 
-**Windows CI.** `pressers-v2-tests.yml` also runs on `windows-latest`: the
-installer's folder check, a real ffmpeg render moved into `C:\` from the
-app folder on `D:`, the cleanup, the setup questions with typed answers, and
-the whole test suite.
-
-**Older Windows tools.** `make-presser-clips.bat` and the earlier
-`install-presser-pc-job.bat` job still work (the job keeps rendering vertical
-clips into `Documents\presser-clips`); the new installer offers to remove
-that older scheduled task because it replaces it.
+**CI.** `pressers-v2-tests.yml` runs the tests on Linux, on `windows-latest`
+(folder check, a real ffmpeg render with the face crop moved into `C:\`
+from the app folder on `D:`, the cleanup, the setup questions, the
+`presserclips:` registration and the registered command refusing bad or
+tampered links) and on `macos-latest` (the link app built, signed and
+declaring the scheme).
 
 ## Tuning
 

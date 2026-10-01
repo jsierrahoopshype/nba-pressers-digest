@@ -10,11 +10,15 @@ DeMar DeRozan: "It definitely had to be a mutual thing. You never want to go som
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=83s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=83s)
 
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=83&q=1)</small>
+
 **2. DeMar DeRozan — DeMar DeRozan says his only goal with the Nuggets is to win.** [03:50](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s)
 
 DeMar DeRozan: "My mindset is to win, go out there and compete, be myself, go out there, help this team whatever way possible to win, compete. At the end of the day, I love basketball, still basketball at the end of the day. So me going out there, do whatever, whatever I need to do to win, that's all I care about."
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s)
+
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=230&q=2)</small>
 
 **3. DeMar DeRozan — DeMar DeRozan says he is ready to serve as a playmaker for the Nuggets.** [05:04](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s)
 
@@ -22,11 +26,15 @@ DeMar DeRozan: "My whole career I've had the ball in my hand, had to initiate of
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s)
 
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=304&q=3)</small>
+
 **4. DeMar DeRozan — DeMar DeRozan reflects on entering his 18th NBA season.** [06:45](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s)
 
 DeMar DeRozan: "I'll be the first to tell you, I know how cliché it may sound, and I remember when I used to hear it when I was young from the older older guys, like don't take these moments for granted. Because before you know, you look up and like that you you'll be 15, 16, 17. You couldn't tell me five years ago, you know, would it feel like me saying I'm going into my 18th year. So you can't take these moments for granted. It fly by. This is a new season, another year for everybody that was in the league before. It's a privilege, it's an honor to be able to play this long, but most people don't get to play this long. So don't take these moments for granted."
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s)
+
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=405&q=4)</small>
 
 **5. DeMar DeRozan — DeMar DeRozan says he is ready to make any sacrifices needed to help the Nuggets.** [08:21](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s)
 
@@ -34,11 +42,15 @@ DeMar DeRozan: "Everything is a sacrifice. You play long enough, you're going to
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s)
 
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=501&q=5)</small>
+
 **6. DeMar DeRozan — DeMar DeRozan says he wants to make the Nuggets' offense more unstoppable.** [10:32](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s)
 
 DeMar DeRozan: "Changing up and adding to their dynamic that's already there to make it more deadly, whether I'm out there with them, whatever it may be to try to make things easier on them or vice versa easier on me. So just adding to what they already have that's dominant to just trying to make it more unstoppable was a part of me even coming here."
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s)
+
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=632&q=6)</small>
 
 **7. DeMar DeRozan — DeMar DeRozan says he is focused on enjoying the remainder of his NBA career.** [12:21](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s)
 
@@ -46,8 +58,12 @@ DeMar DeRozan: "These next couple years, however long I choose to play, is about
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s)
 
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=741&q=7)</small>
+
 **8. DeMar DeRozan — DeMar DeRozan credits his health and discipline for his long NBA career.** [14:09](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s)
 
 DeMar DeRozan: "One, luck. I've been fortunate to be healthy throughout my career. And two, just the discipline that I put into my career. I always I just appreciate the game so much that I always wanted to do whatever I could to make sure I was available to play. I always wanted to play every opportunity that I had and I never wanted to miss games. Just my love and passion just pushed me to drive myself to take care of my body, take care of myself and treat my whole body as a priority so I could be out there and play."
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s)
+
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=849&q=8)</small>

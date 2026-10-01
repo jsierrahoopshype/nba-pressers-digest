@@ -10,14 +10,20 @@ Duncan Robinson: "We got a lot of guys that can shoot, which is really exciting.
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=92s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=92s)
 
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=92&q=1)</small>
+
 **2. Duncan Robinson — Duncan Robinson praises the energy and charisma John Collins brings to the Detroit Pistons.** [02:06](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s)
 
 Duncan Robinson: "Just his energy, just the way he shows up every single day. Super charismatic, fun and easy to be around, which in this league is really a breath of fresh air, especially come January, February, to have somebody in the building who breathes life into other people is a huge, huge addition. So obviously that's before he even steps on the court, right? And then obviously he's super talented and proving that over and over again throughout his career. So excited to have him for sure."
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s)
 
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=126&q=2)</small>
+
 **3. Duncan Robinson — "Despite his size, he's really comfortable getting shots off in and around the paint." — Duncan Robinson praises the skill and rim protection of rookie Corey.** [03:30](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s)
 
 Duncan Robinson: "He's been great to be around. He's super tough, just with how he approaches fearless, creative like you said, super skilled and scoring in different ways. Despite his size, he's really comfortable getting shots off in and around the paint. I think that's something that's pretty unique, especially for a young player. Not a lot of true rim protection in college, right? So to come and adjust really seamlessly so far in runs and practice has been really fun to see. And he's just an awesome kid."
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s)
+
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=210&q=3)</small>

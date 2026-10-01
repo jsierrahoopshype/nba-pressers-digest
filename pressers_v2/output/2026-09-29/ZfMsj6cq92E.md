@@ -10,11 +10,15 @@ Brian Keefe: "First of all, **Cody Toppert** joining us. He was obviously our he
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=65s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=65s)
 
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=65&q=1)</small>
+
 **2. Brian Keefe — "Patrick Ewing is joining us, bringing over 40 plus years of at the highest level" — Brian Keefe adds Patrick Ewing to the Washington Wizards coaching staff.** [01:18](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=78s)
 
 Brian Keefe: "**Patrick Ewing** is joining us, bringing over 40 plus years of at the highest level of coaching and playing. It has always been a great resource for me and our players."
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=78s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=78s)
+
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=78&q=2)</small>
 
 **3. Brian Keefe — "Steve Clifford is joining us as a coaching consultant" — Brian Keefe adds Steve Clifford to the Washington Wizards staff as a coaching consultant.** [01:30](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=90s)
 
@@ -22,11 +26,15 @@ Brian Keefe: "Lastly, **Steve Clifford** is joining us as a coaching consultant.
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=90s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=90s)
 
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=90&q=3)</small>
+
 **4. Brian Keefe — "Chris Middleton coming back, which was a huge signing for us" — Brian Keefe highlights the additions of Chris Middleton, Deandre Ayton, and Trey Mann.** [03:45](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=225s)
 
 Brian Keefe: "I didn't get a chance to talk about **Chris Middleton** coming back, which was a huge signing for us and then obviously adding **Deandre Ayton** and then **Trey Mann** too."
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=225s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=225s)
+
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=225&q=4)</small>
 
 **5. Brian Keefe — "you can't just have one decision maker. You need multiple." — Brian Keefe emphasizes the importance of having multiple playmakers on the floor.** [05:37](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=337s)
 
@@ -34,8 +42,12 @@ Brian Keefe: "I think that's how we've always wanted to develop this as an organ
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=337s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=337s)
 
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=337&q=5)</small>
+
 **6. Brian Keefe — "building the shared standards for our guys and what we're going to hold ourselves to." — Brian Keefe discusses his philosophy on building shared standards for the team.** [12:07](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=727s)
 
 Brian Keefe: "I think what I'm really looking forward to, David, is the is building the shared standards for our guys and what we're going to hold ourselves to. I think that's why I've got into coaching in the first place is you get to build this together. We get to do this as an organization, then we get to do this as a group."
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=727s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=727s)
+
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=727&q=6)</small>
