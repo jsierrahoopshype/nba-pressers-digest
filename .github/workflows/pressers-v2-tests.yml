@@ -1,9 +1,10 @@
 name: Pressers v2 tests
 
-# Offline unit tests (Gemini mocked, no network, no secrets) on Linux, on a
-# real Windows filesystem (the clip tool's file moves, deletes, folder check
-# and link registration behave differently there) and on macOS (the "Clip it"
-# link app).
+# Offline unit tests (Gemini mocked, no secrets) on Linux, on a real Windows
+# filesystem (the clip tool's file moves, deletes, folder check and link
+# registration behave differently there) and on macOS (the "Clip it" link
+# app). The Windows job also runs the Whisper fallback for real: the pinned
+# faster-whisper / PyAV with the base.en model on generated speech.
 on:
   pull_request:
     paths:
@@ -24,20 +25,27 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
-      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless
+      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless yt-dlp
       - run: python -m unittest discover -s pressers_v2/tests -v
 
   windows:
     runs-on: windows-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
+          python-version: '3.12'      # what the installer puts on a PC without Python
       - name: Install ffmpeg
         run: choco install ffmpeg -y --no-progress
-      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless
+      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless yt-dlp
+      - name: Pinned Whisper fallback (faster-whisper + PyAV, as the installer pins them)
+        shell: bash
+        run: pip install $(python pressers_v2/presser_clips_setup.py --pins)
+      - name: Whisper fallback for real (base.en model, Windows speech, pinned PyAV)
+        env:
+          REQUIRE_WHISPER: '1'
+        run: python -m unittest discover -s pressers_v2/tests -p test_whisper_real.py -v
       - name: Windows filesystem checks (folder check, render with face crop, move, cleanup, link registration)
         env:
           REQUIRE_FFMPEG: '1'
@@ -70,7 +78,7 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
-      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless
+      - run: pip install -r pressers_v2/requirements.txt opencv-python-headless yt-dlp
       - name: '"Clip it" link app, built and registered the way the installer does it'
         run: |
           python - <<'EOF'
