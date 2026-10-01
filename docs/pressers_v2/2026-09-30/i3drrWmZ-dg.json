@@ -15,41 +15,38 @@
     {
       "rank": 1,
       "speaker": "Tolu Smith",
-      "speaker_confidence": "named",
-      "team": "Detroit Pistons",
-      "start_seconds": 57,
-      "end_seconds": 83,
-      "gemini_start_seconds": 57,
-      "gemini_end_seconds": 83,
-      "timestamp_source": "gemini-approx",
-      "text": "We switched it up a little bit so it is a nice thing. It has been working for me. I think it is something I will stick with. Conversations with Freddy V. I am naturally a lefty. I write with my left hand, I throw a football with my left so it was just a matter of time I think.",
-      "pull_quote": "I am naturally a lefty. I write with my left hand",
-      "news_score": 7,
+      "timestamp": "00:57",
+      "summary_phrase": "Tolu Smith is switching to shooting free throws left-handed this season.",
       "names_mentioned": [
         "Freddy V"
       ],
-      "news_angle": "Tolu Smith is switching to shooting free throws left-handed this season.",
-      "social_post": "Tolu Smith says he is switching to shooting free throws left-handed this season, noting that he is naturally a lefty and it was just a matter of time."
+      "excerpt": "I am naturally a lefty. I write with my left hand",
+      "quote": "We switched it up a little bit so it is a nice thing. It has been working for me. I think it is something I will stick with. Conversations with Freddy V. I am naturally a lefty. I write with my left hand, I throw a football with my left so it was just a matter of time I think.",
+      "start_seconds": 57,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tolu Smith says he is switching to shooting free throws left-handed this season, noting that he is naturally a lefty and it was just a matter of time.",
+      "team": "Detroit Pistons"
     },
     {
       "rank": 2,
       "speaker": "Tolu Smith",
-      "speaker_confidence": "named",
-      "team": "Detroit Pistons",
-      "start_seconds": 120,
-      "end_seconds": 142,
-      "gemini_start_seconds": 120,
-      "gemini_end_seconds": 142,
-      "timestamp_source": "gemini-approx",
-      "text": "Me and B-Ball we are always in the gym. He is always talking to me, telling me things. You know he has been in the league for a little bit now so I always get me little gems and hitting tips to stay ready. Little things that little nuances that he has that allows him to stay ready.",
-      "pull_quote": "Me and B-Ball we are always in the gym.",
-      "news_score": 6,
+      "timestamp": "02:00",
+      "summary_phrase": "Tolu Smith credits Paul Reed for mentoring him during training camp.",
       "names_mentioned": [
         "B-Ball"
       ],
-      "news_angle": "Tolu Smith credits Paul Reed for mentoring him during training camp.",
-      "social_post": "Tolu Smith says he and Paul Reed are always in the gym together, and that Reed has been providing him with tips and nuances to help him stay ready."
+      "excerpt": "Me and B-Ball we are always in the gym.",
+      "quote": "Me and B-Ball we are always in the gym. He is always talking to me, telling me things. You know he has been in the league for a little bit now so I always get me little gems and hitting tips to stay ready. Little things that little nuances that he has that allows him to stay ready.",
+      "start_seconds": 120,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tolu Smith says he and Paul Reed are always in the gym together, and that Reed has been providing him with tips and nuances to help him stay ready.",
+      "team": "Detroit Pistons"
     }
   ],
-  "caption_status": "blocked"
+  "caption_status": "blocked",
+  "format": "ytq-1"
 }

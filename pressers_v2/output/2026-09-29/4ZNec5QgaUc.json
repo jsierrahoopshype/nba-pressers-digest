@@ -15,12 +15,8 @@
     {
       "rank": 1,
       "speaker": "Unidentified speaker",
-      "speaker_confidence": "inferred",
-      "team": "Utah Jazz",
-      "start_seconds": 923,
-      "end_seconds": 977,
-      "text": "Kyle Filipowski had one of the more interesting quotes about the center rotation, just talking about how each of them provides such different skill sets that it is kind of a committee approach. You have Nurk who is a great playmaker, great on the defensive glass, great screen setter. Flip is also a great passer as well. Jackson Hayes talked about getting up for lobs, bringing that athleticism onto the floor, and Mo Bamba talked about his shooting, but also his experience as a defensive anchor which he was tasked with doing as a rookie for the Magic. He had a lot of great quotes about just kind of carrying that, his time with Jeff Van Gundy and with the Clippers and how much he absorbed defensively that he is trying to bring to this young team.",
-      "pull_quote": "each of them provides such different skill sets that it is kind of a committee approach",
+      "timestamp": "15:23",
+      "summary_phrase": "Utah Jazz center rotation will be a committee approach with diverse skill sets.",
       "names_mentioned": [
         "Kyle Filipowski",
         "Nurk",
@@ -29,24 +25,31 @@
         "Mo Bamba",
         "Jeff Van Gundy"
       ],
-      "news_angle": "Utah Jazz center rotation will be a committee approach with diverse skill sets.",
-      "social_post": "The Utah Jazz center rotation will be a committee approach this season, with each player bringing different skill sets to the floor, according to Kyle Filipowski."
+      "excerpt": "each of them provides such different skill sets that it is kind of a committee approach",
+      "quote": "Kyle Filipowski had one of the more interesting quotes about the center rotation, just talking about how each of them provides such different skill sets that it is kind of a committee approach. You have Nurk who is a great playmaker, great on the defensive glass, great screen setter. Flip is also a great passer as well. Jackson Hayes talked about getting up for lobs, bringing that athleticism onto the floor, and Mo Bamba talked about his shooting, but also his experience as a defensive anchor which he was tasked with doing as a rookie for the Magic. He had a lot of great quotes about just kind of carrying that, his time with Jeff Van Gundy and with the Clippers and how much he absorbed defensively that he is trying to bring to this young team.",
+      "start_seconds": 923,
+      "end_seconds": 977,
+      "speaker_confidence": "inferred",
+      "social_post": "The Utah Jazz center rotation will be a committee approach this season, with each player bringing different skill sets to the floor, according to Kyle Filipowski.",
+      "team": "Utah Jazz"
     },
     {
       "rank": 2,
       "speaker": "Unidentified speaker",
-      "speaker_confidence": "inferred",
-      "team": "Utah Jazz",
-      "start_seconds": 1494,
-      "end_seconds": 1554,
-      "text": "Bryce had a quote about he is 19, hasn't actually played an NBA game yet, but he fits right in with their open gym runs in the summer and just how much they admire his work ethic. The maturity I think maturity was mentioned five, six, seven times from different guys today when talking about Bryce Sensabaugh, how he approaches the game, how hungry he is to learn. Those are the traits that you want when you are starting your career and those are the traits that the Jazz want to see from him when they are relying on him to be a big piece of this team's future.",
-      "pull_quote": "maturity was mentioned five, six, seven times from different guys today when talking about Bryce Sensabaugh",
+      "timestamp": "24:54",
+      "summary_phrase": "Bryce Sensabaugh is praised by teammates for his work ethic and maturity.",
       "names_mentioned": [
         "Bryce",
         "Bryce Sensabaugh"
       ],
-      "news_angle": "Bryce Sensabaugh is praised by teammates for his work ethic and maturity.",
-      "social_post": "Bryce Sensabaugh is already making an impression on his teammates, with many highlighting his maturity and work ethic during the team's open gym sessions this summer."
+      "excerpt": "maturity was mentioned five, six, seven times from different guys today when talking about Bryce Sensabaugh",
+      "quote": "Bryce had a quote about he is 19, hasn't actually played an NBA game yet, but he fits right in with their open gym runs in the summer and just how much they admire his work ethic. The maturity I think maturity was mentioned five, six, seven times from different guys today when talking about Bryce Sensabaugh, how he approaches the game, how hungry he is to learn. Those are the traits that you want when you are starting your career and those are the traits that the Jazz want to see from him when they are relying on him to be a big piece of this team's future.",
+      "start_seconds": 1494,
+      "end_seconds": 1554,
+      "speaker_confidence": "inferred",
+      "social_post": "Bryce Sensabaugh is already making an impression on his teammates, with many highlighting his maturity and work ethic during the team's open gym sessions this summer.",
+      "team": "Utah Jazz"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

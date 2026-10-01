@@ -1,4 +1,4 @@
-# NBA pressers v2 — index
+# NBA Pressers — index
 
 Clip manifest: [latest_clips.json](latest_clips.json)
 

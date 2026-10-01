@@ -14,35 +14,32 @@
     {
       "rank": 1,
       "speaker": "Nick Nurse",
-      "team": "Philadelphia 76ers",
+      "timestamp": "00:48",
+      "summary_phrase": "Nick Nurse plans to wait a few weeks before defining specific player roles.",
+      "names_mentioned": [],
+      "excerpt": "",
+      "quote": "Well, what I would like to do first, like you said, first of all, he's very versatile, right? I'm not wondering. I got an idea, as I do with every guy, like what their role should be, even bullet points underneath it. But I kind of want to see the group for a couple weeks before I start really trying to narrow that down. I want to collaborate with each player on that to see. I think that's one thing we need to do is clearly define roles for everybody, but I think that's not yet. I think we need to see more action and then I think that'll clear up the vision of it a little bit.",
       "start_seconds": 48,
       "end_seconds": 108,
-      "text": "Well, what I would like to do first, like you said, first of all, he's very versatile, right? I'm not wondering. I got an idea, as I do with every guy, like what their role should be, even bullet points underneath it. But I kind of want to see the group for a couple weeks before I start really trying to narrow that down. I want to collaborate with each player on that to see. I think that's one thing we need to do is clearly define roles for everybody, but I think that's not yet. I think we need to see more action and then I think that'll clear up the vision of it a little bit.",
-      "news_angle": "Nick Nurse plans to wait a few weeks before defining specific player roles.",
-      "social_post": "Nick Nurse says he has ideas for player roles but wants to see the group in action for a few weeks before finalizing anything. He plans to collaborate with each player to clearly define their roles for the season.",
       "speaker_confidence": "named",
-      "pull_quote": "",
-      "names_mentioned": [],
-      "timestamp_source": "gemini-approx",
-      "gemini_start_seconds": 48,
-      "gemini_end_seconds": 108
+      "social_post": "Nick Nurse says he has ideas for player roles but wants to see the group in action for a few weeks before finalizing anything. He plans to collaborate with each player to clearly define their roles for the season.",
+      "team": "Philadelphia 76ers"
     },
     {
       "rank": 2,
       "speaker": "Nick Nurse",
-      "team": "Philadelphia 76ers",
+      "timestamp": "12:57",
+      "summary_phrase": "Nick Nurse emphasizes winning the possession battle over high-paced play.",
+      "names_mentioned": [],
+      "excerpt": "",
+      "quote": "We offensive rebound more than they do. We turn them over more than we turn it over. Those kind of things rather than let's play, let's shoot for 135 possessions. And as long as we can get 135 possessions and they have, we don't want them having 138. We're not trying to get more just for the sake of more. I think we want to play good basketball and more is definitely important. One of the things I talked about today, winning the possession battle, how are we going to do it? But it's not, it's not, it's not as long as you do it, and the more you do it in each particular game, as you know, we talk about it a lot, you look down and say, you know, we turned them over 18 times, we crashed the glass 13 times, we end up with 103 shots and they had 81. You're going to win those games, most of the time.",
       "start_seconds": 777,
       "end_seconds": 821,
-      "text": "We offensive rebound more than they do. We turn them over more than we turn it over. Those kind of things rather than let's play, let's shoot for 135 possessions. And as long as we can get 135 possessions and they have, we don't want them having 138. We're not trying to get more just for the sake of more. I think we want to play good basketball and more is definitely important. One of the things I talked about today, winning the possession battle, how are we going to do it? But it's not, it's not, it's not as long as you do it, and the more you do it in each particular game, as you know, we talk about it a lot, you look down and say, you know, we turned them over 18 times, we crashed the glass 13 times, we end up with 103 shots and they had 81. You're going to win those games, most of the time.",
-      "news_angle": "Nick Nurse emphasizes winning the possession battle over high-paced play.",
-      "social_post": "Nick Nurse says the goal is to win the possession battle by crashing the glass and forcing turnovers, rather than just playing at a high pace. He believes winning the possession battle is the key to winning most games.",
       "speaker_confidence": "named",
-      "pull_quote": "",
-      "names_mentioned": [],
-      "timestamp_source": "gemini-approx",
-      "gemini_start_seconds": 777,
-      "gemini_end_seconds": 821
+      "social_post": "Nick Nurse says the goal is to win the possession battle by crashing the glass and forcing turnovers, rather than just playing at a high pace. He believes winning the possession battle is the key to winning most games.",
+      "team": "Philadelphia 76ers"
     }
   ],
-  "speakers_backfilled_at": "2026-09-30T23:47:55Z"
+  "speakers_backfilled_at": "2026-09-30T23:47:55Z",
+  "format": "ytq-1"
 }

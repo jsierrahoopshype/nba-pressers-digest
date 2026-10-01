@@ -14,57 +14,62 @@
     {
       "rank": 1,
       "speaker": "Duop Reath",
-      "speaker_confidence": "named",
-      "team": "Phoenix Suns",
+      "timestamp": "00:33",
+      "summary_phrase": "Duop Reath discusses how his experience in different basketball systems has helped him adapt.",
+      "names_mentioned": [],
+      "excerpt": "it just required me to adapt and to just adjust to whatever the system really needed",
+      "quote": "I feel like the biggest thing that I learned is just how every country, every team, the style of basketball, the role that I'm playing, it's always different and it just required me to adapt and to just adjust to whatever the system really needed me to help the team win.",
       "start_seconds": 33,
       "end_seconds": 56,
-      "text": "I feel like the biggest thing that I learned is just how every country, every team, the style of basketball, the role that I'm playing, it's always different and it just required me to adapt and to just adjust to whatever the system really needed me to help the team win.",
-      "pull_quote": "it just required me to adapt and to just adjust to whatever the system really needed",
-      "names_mentioned": [],
-      "news_angle": "Duop Reath discusses how his experience in different basketball systems has helped him adapt.",
-      "social_post": "Duop Reath says his journey through different basketball systems has taught him how to adapt and adjust to whatever his team needs to win."
+      "speaker_confidence": "named",
+      "social_post": "Duop Reath says his journey through different basketball systems has taught him how to adapt and adjust to whatever his team needs to win.",
+      "team": "Phoenix Suns"
     },
     {
       "rank": 2,
       "speaker": "Duop Reath",
-      "speaker_confidence": "named",
-      "team": "Phoenix Suns",
+      "timestamp": "01:58",
+      "summary_phrase": "Duop Reath praises the character and talent of his new Phoenix Suns teammates.",
+      "names_mentioned": [],
+      "excerpt": "when you have those two combined, you can do some special things on the basketball court",
+      "quote": "The guys that we have in the locker room are great human beings, but the biggest thing, they're good basketball players as well. So when you have those two combined, you can do some special things on the basketball court. Most teams that win, usually they have great locker room presence and the guys are well connected.",
       "start_seconds": 118,
       "end_seconds": 143,
-      "text": "The guys that we have in the locker room are great human beings, but the biggest thing, they're good basketball players as well. So when you have those two combined, you can do some special things on the basketball court. Most teams that win, usually they have great locker room presence and the guys are well connected.",
-      "pull_quote": "when you have those two combined, you can do some special things on the basketball court",
-      "names_mentioned": [],
-      "news_angle": "Duop Reath praises the character and talent of his new Phoenix Suns teammates.",
-      "social_post": "Duop Reath says the Phoenix Suns have a great combination of good human beings and talented basketball players, which is essential for winning."
+      "speaker_confidence": "named",
+      "social_post": "Duop Reath says the Phoenix Suns have a great combination of good human beings and talented basketball players, which is essential for winning.",
+      "team": "Phoenix Suns"
     },
     {
       "rank": 3,
       "speaker": "Duop Reath",
-      "speaker_confidence": "named",
-      "team": "Phoenix Suns",
+      "timestamp": "03:57",
+      "summary_phrase": "Duop Reath promises to bring a high level of competition to the Phoenix Suns.",
+      "names_mentioned": [],
+      "excerpt": "I'm just going to compete. Let's go out there and play hard",
+      "quote": "It's going to compete. I'm just going to compete. Let's go out there and play hard, you know. You're going to see it every night. It's going to compete, going to be cheering my teammates on, going to be a good teammate, just do whatever we can to help the team win.",
       "start_seconds": 237,
       "end_seconds": 252,
-      "text": "It's going to compete. I'm just going to compete. Let's go out there and play hard, you know. You're going to see it every night. It's going to compete, going to be cheering my teammates on, going to be a good teammate, just do whatever we can to help the team win.",
-      "pull_quote": "I'm just going to compete. Let's go out there and play hard",
-      "names_mentioned": [],
-      "news_angle": "Duop Reath promises to bring a high level of competition to the Phoenix Suns.",
-      "social_post": "Duop Reath says his goal is to compete and play hard every single night to help the Phoenix Suns win."
+      "speaker_confidence": "named",
+      "social_post": "Duop Reath says his goal is to compete and play hard every single night to help the Phoenix Suns win.",
+      "team": "Phoenix Suns"
     },
     {
       "rank": 4,
       "speaker": "Duop Reath",
-      "speaker_confidence": "named",
-      "team": "Phoenix Suns",
-      "start_seconds": 310,
-      "end_seconds": 346,
-      "text": "Most of those guys, there was some experience there. So just seeing those guys there, they've played in the league for for a while, especially guys like Rob and DA as well. Just learning from those guys, things that I've seen was just being consistent every night, just trying to just play hard every night. I definitely want to make sure that I just bring that here and also lead by example as well.",
-      "pull_quote": "just seeing those guys there, they've played in the league for for a while",
+      "timestamp": "05:10",
+      "summary_phrase": "Duop Reath credits his former teammates for teaching him the importance of consistency.",
       "names_mentioned": [
         "Rob",
         "DA"
       ],
-      "news_angle": "Duop Reath credits his former teammates for teaching him the importance of consistency.",
-      "social_post": "Duop Reath says he learned the importance of being consistent and playing hard every night from his experienced former teammates."
+      "excerpt": "just seeing those guys there, they've played in the league for for a while",
+      "quote": "Most of those guys, there was some experience there. So just seeing those guys there, they've played in the league for for a while, especially guys like Rob and DA as well. Just learning from those guys, things that I've seen was just being consistent every night, just trying to just play hard every night. I definitely want to make sure that I just bring that here and also lead by example as well.",
+      "start_seconds": 310,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "social_post": "Duop Reath says he learned the importance of being consistent and playing hard every night from his experienced former teammates.",
+      "team": "Phoenix Suns"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

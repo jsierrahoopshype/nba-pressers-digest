@@ -15,61 +15,56 @@
     {
       "rank": 1,
       "speaker": "Gui Santos",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
+      "timestamp": "02:24",
+      "summary_phrase": "Gui Santos aims to reduce turnovers and improve his fit within the Warriors system.",
+      "names_mentioned": [],
+      "excerpt": "I am going to be the same Gui that brings in energy every night.",
+      "quote": "I was turning the ball over more than I should and this year I am just trying to fit in the system and the things that he wanted me to do. Doesn't matter what is that paper, I will do it the best way that I can. I am going to be the same Gui that brings in energy every night. So I probably just take care of the ball and make sure that we got the same good things from last year and the bad things we just move forward and keep doing it better.",
       "start_seconds": 144,
       "end_seconds": 187,
-      "gemini_start_seconds": 144,
-      "gemini_end_seconds": 187,
-      "timestamp_source": "gemini-approx",
-      "text": "I was turning the ball over more than I should and this year I am just trying to fit in the system and the things that he wanted me to do. Doesn't matter what is that paper, I will do it the best way that I can. I am going to be the same Gui that brings in energy every night. So I probably just take care of the ball and make sure that we got the same good things from last year and the bad things we just move forward and keep doing it better.",
-      "pull_quote": "I am going to be the same Gui that brings in energy every night.",
+      "speaker_confidence": "named",
       "news_score": 7,
-      "names_mentioned": [],
-      "news_angle": "Gui Santos aims to reduce turnovers and improve his fit within the Warriors system.",
-      "social_post": "Gui Santos says he is focused on reducing his turnovers and bringing consistent energy to the Warriors this season. He is committed to doing whatever the coaching staff needs to help the team succeed."
+      "social_post": "Gui Santos says he is focused on reducing his turnovers and bringing consistent energy to the Warriors this season. He is committed to doing whatever the coaching staff needs to help the team succeed.",
+      "team": "Golden State Warriors"
     },
     {
       "rank": 2,
       "speaker": "Gui Santos",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
-      "start_seconds": 206,
-      "end_seconds": 261,
-      "gemini_start_seconds": 206,
-      "gemini_end_seconds": 261,
-      "timestamp_source": "gemini-approx",
-      "text": "For me, it doesn't really make any difference if you start a game or just start in the bench because by the end of the day, if you help your team to win that's what really matters. So for me, that's a good thing. Now we got Yax, like a big forward, a guy that can help us a lot and he is ready to help right now. He won a championship last year, he came for the Summer League, we won the Summer League championship. So of course I am just happy to have more guys that can help us like George, we got George, we got Bill, there is a guy that you know, really good too that can help us. So for me, about the expectations or just starting the game or don't start the game, for me that's not going to change nothing. As soon as Steve call my name and I step on the court, I will bring the best that I can.",
-      "pull_quote": "if you help your team to win that's what really matters.",
-      "news_score": 6,
+      "timestamp": "03:26",
+      "summary_phrase": "Gui Santos says he is comfortable coming off the bench as long as he helps the team win.",
       "names_mentioned": [
         "Yax",
         "George",
         "Bill",
         "Steve"
       ],
-      "news_angle": "Gui Santos says he is comfortable coming off the bench as long as he helps the team win.",
-      "social_post": "Gui Santos says he is not worried about his starting status. He is focused on helping the team win and is ready to contribute whenever Steve Kerr calls his name."
+      "excerpt": "if you help your team to win that's what really matters.",
+      "quote": "For me, it doesn't really make any difference if you start a game or just start in the bench because by the end of the day, if you help your team to win that's what really matters. So for me, that's a good thing. Now we got Yax, like a big forward, a guy that can help us a lot and he is ready to help right now. He won a championship last year, he came for the Summer League, we won the Summer League championship. So of course I am just happy to have more guys that can help us like George, we got George, we got Bill, there is a guy that you know, really good too that can help us. So for me, about the expectations or just starting the game or don't start the game, for me that's not going to change nothing. As soon as Steve call my name and I step on the court, I will bring the best that I can.",
+      "start_seconds": 206,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Gui Santos says he is not worried about his starting status. He is focused on helping the team win and is ready to contribute whenever Steve Kerr calls his name.",
+      "team": "Golden State Warriors"
     },
     {
       "rank": 3,
       "speaker": "Gui Santos",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
-      "start_seconds": 271,
-      "end_seconds": 312,
-      "gemini_start_seconds": 271,
-      "gemini_end_seconds": 312,
-      "timestamp_source": "gemini-approx",
-      "text": "I think play more under control. A lot of times I was trying to rush it a little bit last year and that's when I was turning the ball over, when I was committing a lot of mistakes. And this year, after being watching Jimmy for almost two years, I know that for me, if I play under control, every time I step into the paint, use the two feet to take the next decision. So for me, I think it's just play under control, watching Jimmy, watching these guys, how they do it, it's really what takes you to the next level.",
-      "pull_quote": "if I play under control, every time I step into the paint, use the two feet",
-      "news_score": 7,
+      "timestamp": "04:31",
+      "summary_phrase": "Gui Santos credits watching Jimmy for his improved focus on playing under control.",
       "names_mentioned": [
         "Jimmy"
       ],
-      "news_angle": "Gui Santos credits watching Jimmy for his improved focus on playing under control.",
-      "social_post": "Gui Santos says he has been studying Jimmy to improve his decision making and ball control. He is focused on playing with more composure when attacking the paint this season."
+      "excerpt": "if I play under control, every time I step into the paint, use the two feet",
+      "quote": "I think play more under control. A lot of times I was trying to rush it a little bit last year and that's when I was turning the ball over, when I was committing a lot of mistakes. And this year, after being watching Jimmy for almost two years, I know that for me, if I play under control, every time I step into the paint, use the two feet to take the next decision. So for me, I think it's just play under control, watching Jimmy, watching these guys, how they do it, it's really what takes you to the next level.",
+      "start_seconds": 271,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Gui Santos says he has been studying Jimmy to improve his decision making and ball control. He is focused on playing with more composure when attacking the paint this season.",
+      "team": "Golden State Warriors"
     }
   ],
-  "caption_status": "blocked"
+  "caption_status": "blocked",
+  "format": "ytq-1"
 }

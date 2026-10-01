@@ -14,28 +14,31 @@
     {
       "rank": 1,
       "speaker": "Nick Nurse",
-      "speaker_confidence": "named",
-      "team": "Philadelphia 76ers",
+      "timestamp": "05:14",
+      "summary_phrase": "Nick Nurse praises the vision and passing ability of a new player in training camp.",
+      "names_mentioned": [],
+      "excerpt": "I have been super impressed with his vision and his passing and his offensive creation.",
+      "quote": "I have been super impressed with his vision and his passing and his offensive creation. He is really really talented but the vision is like I think really special. He is seeing things really early from from distance right in delivering passes. So that is great. I was super impressed with him yesterday his compete level and his fight level and he he was really holding his own everywhere. And I mean we are doing mostly defense now so he does not get to show all that flashy offense that he has. So he I was super impressed with him yesterday and his compete level.",
       "start_seconds": 314,
       "end_seconds": 355,
-      "text": "I have been super impressed with his vision and his passing and his offensive creation. He is really really talented but the vision is like I think really special. He is seeing things really early from from distance right in delivering passes. So that is great. I was super impressed with him yesterday his compete level and his fight level and he he was really holding his own everywhere. And I mean we are doing mostly defense now so he does not get to show all that flashy offense that he has. So he I was super impressed with him yesterday and his compete level.",
-      "pull_quote": "I have been super impressed with his vision and his passing and his offensive creation.",
-      "names_mentioned": [],
-      "news_angle": "Nick Nurse praises the vision and passing ability of a new player in training camp.",
-      "social_post": "Nick Nurse is impressed with the vision and passing ability of a new player during training camp, noting that he is seeing things really early from distance."
+      "speaker_confidence": "named",
+      "social_post": "Nick Nurse is impressed with the vision and passing ability of a new player during training camp, noting that he is seeing things really early from distance.",
+      "team": "Philadelphia 76ers"
     },
     {
       "rank": 2,
       "speaker": "Nick Nurse",
-      "speaker_confidence": "named",
-      "team": "Philadelphia 76ers",
+      "timestamp": "06:13",
+      "summary_phrase": "Nick Nurse plans to implement more defensive schemes due to increased roster depth and athleticism.",
+      "names_mentioned": [],
+      "excerpt": "I think now we have got a little bit more depth size athleticism",
+      "quote": "Recently I do not feel like I have been able to get into my bag of defensive stuff nearly as much as I have been like to and I think now we have got a little bit more depth size athleticism and it may take us a minute but I think I am I am most excited about that. Right that I think we just have the capabilities to understand it execute it change on the fly do multiple things even if it is once or twice and get back to normal and all that kind of stuff that would probably be the biggest thing.",
       "start_seconds": 373,
       "end_seconds": 413,
-      "text": "Recently I do not feel like I have been able to get into my bag of defensive stuff nearly as much as I have been like to and I think now we have got a little bit more depth size athleticism and it may take us a minute but I think I am I am most excited about that. Right that I think we just have the capabilities to understand it execute it change on the fly do multiple things even if it is once or twice and get back to normal and all that kind of stuff that would probably be the biggest thing.",
-      "pull_quote": "I think now we have got a little bit more depth size athleticism",
-      "names_mentioned": [],
-      "news_angle": "Nick Nurse plans to implement more defensive schemes due to increased roster depth and athleticism.",
-      "social_post": "Nick Nurse says he is excited to implement more defensive schemes this season, citing the team's increased depth, size, and athleticism."
+      "speaker_confidence": "named",
+      "social_post": "Nick Nurse says he is excited to implement more defensive schemes this season, citing the team's increased depth, size, and athleticism.",
+      "team": "Philadelphia 76ers"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

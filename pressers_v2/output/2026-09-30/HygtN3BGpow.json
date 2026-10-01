@@ -14,33 +14,36 @@
     {
       "rank": 1,
       "speaker": "Kenny Atkinson",
-      "speaker_confidence": "named",
-      "team": "Cleveland Cavaliers",
-      "start_seconds": 125,
-      "end_seconds": 160,
-      "text": "You saw Mario today, he was really good. He adds skill, intelligence, and you know Mario is getting a lot stronger since we saw him in the NBA, so he can post up, so that is good. And then, Peyton, you see his defense and athleticism and you know, just raises our talent, talent levels.",
-      "pull_quote": "Mario is getting a lot stronger since we saw him in the NBA",
+      "timestamp": "02:05",
+      "summary_phrase": "Kenny Atkinson praises the improved strength and skill of Mario and the athleticism of Peyton.",
       "names_mentioned": [
         "Mario",
         "Peyton"
       ],
-      "news_angle": "Kenny Atkinson praises the improved strength and skill of Mario and the athleticism of Peyton.",
-      "social_post": "Kenny Atkinson is impressed with the development of Mario and Peyton at training camp, noting that Mario is much stronger and Peyton brings a high level of athleticism to the team."
+      "excerpt": "Mario is getting a lot stronger since we saw him in the NBA",
+      "quote": "You saw Mario today, he was really good. He adds skill, intelligence, and you know Mario is getting a lot stronger since we saw him in the NBA, so he can post up, so that is good. And then, Peyton, you see his defense and athleticism and you know, just raises our talent, talent levels.",
+      "start_seconds": 125,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "social_post": "Kenny Atkinson is impressed with the development of Mario and Peyton at training camp, noting that Mario is much stronger and Peyton brings a high level of athleticism to the team.",
+      "team": "Cleveland Cavaliers"
     },
     {
       "rank": 2,
       "speaker": "Kenny Atkinson",
-      "speaker_confidence": "named",
-      "team": "Cleveland Cavaliers",
-      "start_seconds": 253,
-      "end_seconds": 305,
-      "text": "I wish we had Jose as our third point guard. You know, Jose plays with our staff, our video guys and he is incredible, like he has such control. I know he is not a player anymore, but I still love watching him play. He brings obviously his FIBA experience, world experience. Jose is just like when he was a player, he is a connector of people. He knows how to connect with the coaches, he knows how to connect with the front office, and obviously the players respect him.",
-      "pull_quote": "Jose is just like when he was a player, he is a connector of people",
+      "timestamp": "04:13",
+      "summary_phrase": "Kenny Atkinson praises Jose for his leadership and ability to connect with the organization.",
       "names_mentioned": [
         "Jose"
       ],
-      "news_angle": "Kenny Atkinson praises Jose for his leadership and ability to connect with the organization.",
-      "social_post": "Kenny Atkinson shares his admiration for Jose, calling him a true connector of people who brings invaluable experience to the organization."
+      "excerpt": "Jose is just like when he was a player, he is a connector of people",
+      "quote": "I wish we had Jose as our third point guard. You know, Jose plays with our staff, our video guys and he is incredible, like he has such control. I know he is not a player anymore, but I still love watching him play. He brings obviously his FIBA experience, world experience. Jose is just like when he was a player, he is a connector of people. He knows how to connect with the coaches, he knows how to connect with the front office, and obviously the players respect him.",
+      "start_seconds": 253,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "social_post": "Kenny Atkinson shares his admiration for Jose, calling him a true connector of people who brings invaluable experience to the organization.",
+      "team": "Cleveland Cavaliers"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

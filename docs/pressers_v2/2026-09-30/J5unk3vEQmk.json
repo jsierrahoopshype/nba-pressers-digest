@@ -1,13 +1,5 @@
 {
-  "video_id": "J5unk3vEQmk",
-  "url": "https://www.youtube.com/watch?v=J5unk3vEQmk",
   "video_title": "Cavs Training Camp | James Harden Media Availability | 09.30.2026",
-  "channel_team": "Cleveland Cavaliers",
-  "published": "2026-09-30T18:46:47Z",
-  "duration_seconds": 359,
-  "processed_at": "2026-10-01T10:52:42Z",
-  "run_id": "2026-10-01T1049Z-manual-1049",
-  "model": "gemini-3.1-flash-lite",
   "speakers_seen": [
     "James Harden"
   ],
@@ -15,70 +7,116 @@
     {
       "rank": 1,
       "speaker": "James Harden",
+      "timestamp": "00:19",
+      "summary_phrase": "James Harden on the team's championship aspirations",
+      "names_mentioned": [],
+      "excerpt": "Every year I feel like that. I'm sure everybody else in the league feel like that as well.",
+      "quote": "Every year I feel like that. I'm sure everybody else in the league feel like that as well. There's a lot of steps that goes into it, but we definitely like our chances.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 32,
       "speaker_confidence": "named",
-      "team": "Cleveland Cavaliers",
-      "start_seconds": 98,
-      "end_seconds": 113,
-      "gemini_start_seconds": 79,
-      "gemini_end_seconds": 94,
-      "timestamp_source": "gemini-refined",
-      "text": "Mario has been looking good for this past few weeks. Today he looked really good. Payton has looked good, so trying to put everything together. Obviously it is going to take some time, but we are in the right direction.",
-      "pull_quote": "Mario has been looking good for this past few weeks.",
-      "news_score": 6,
-      "names_mentioned": [
-        "Mario",
-        "Payton"
-      ],
-      "news_angle": "James Harden says Mario and Payton have been looking good in training camp.",
-      "social_post": "James Harden says Mario and Payton have been looking good in training camp, and the team is moving in the right direction.",
-      "refine_window": [
-        19,
-        139
-      ]
+      "news_score": 4,
+      "social_post": "James Harden says the Cavs have championship aspirations this season. He notes there are a lot of steps to take but says he likes their chances.",
+      "team": "Cleveland Cavaliers"
     },
     {
       "rank": 2,
       "speaker": "James Harden",
+      "timestamp": "01:18",
+      "summary_phrase": "James Harden on the development of Mario and Payne",
+      "names_mentioned": [
+        "Mario",
+        "Payne"
+      ],
+      "excerpt": "Mario has been looking good for this past few weeks. Today he looked really good.",
+      "quote": "Mario has been looking good for this past few weeks. Today he looked really good. Payne has looked good, so trying to put everything together. Obviously it's going to take some time, but we're in the right direction.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 93,
       "speaker_confidence": "named",
-      "team": "Cleveland Cavaliers",
-      "start_seconds": 256,
-      "end_seconds": 283,
-      "gemini_start_seconds": 218,
-      "gemini_end_seconds": 245,
-      "timestamp_source": "gemini-refined",
-      "text": "I think it is confidence. As a young player he was probably trying to find himself, find what works, what doesn't work. What made him confident in that situation as far as his team, wasn't the direction the team was trying to go. So he had to come overseas and find himself, and I think who he is now as a player fits with the NBA is now. Big strong guard who can get downhill, can shoot it, can pass it, was very versatile.",
-      "pull_quote": "I think who he is now as a player fits with the NBA is now.",
-      "news_score": 7,
-      "names_mentioned": [],
-      "news_angle": "James Harden praises a young player for his development and versatility.",
-      "social_post": "James Harden says a young player on the team has developed into a versatile guard who fits the modern NBA.",
-      "refine_window": [
-        158,
-        278
-      ]
+      "news_score": 5,
+      "social_post": "James Harden likes what he has seen from Mario and Payne in training camp. He says the team is moving in the right direction but acknowledges it will take time to put everything together.",
+      "team": "Cleveland Cavaliers"
     },
     {
       "rank": 3,
       "speaker": "James Harden",
+      "timestamp": "01:54",
+      "summary_phrase": "James Harden on his leadership and mentorship role",
+      "names_mentioned": [],
+      "excerpt": "Whatever is needed help. Whoever needs help, whether it's vocal, whether it's me teaching, on the court helping.",
+      "quote": "Whatever is needed help. Whoever needs help, whether it's vocal, whether it's me teaching, on the court helping, off the court, just whatever. I think you know I can sense of who needs help at certain times and then sometimes I think less is more, so I might just back up a little bit and let them go through the experience.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 137,
       "speaker_confidence": "named",
-      "team": "Cleveland Cavaliers",
-      "start_seconds": 278,
-      "end_seconds": 318,
-      "gemini_start_seconds": 278,
-      "gemini_end_seconds": 318,
-      "timestamp_source": "gemini-approx",
-      "text": "I was just trying to build a relationship with Jaylen because he does have the skills and the tools to make a lot of money in this league. I think he just needs a little guidance at some times to what can get him over the top. So anything where I can see I can help him at, I try to be there for him. So I think first for me is just building a relationship and then some times where he gets out of pocket a little bit, I can reel him back in. I can reel him back in. But I think he had a little experience last year and then this year we are going to need him and count on him to play more minutes.",
-      "pull_quote": "we are going to need him and count on him to play more minutes.",
-      "news_score": 8,
+      "news_score": 4,
+      "social_post": "James Harden on his leadership style. He says he tries to sense when teammates need help but notes that sometimes less is more and he prefers to let them go through the experience.",
+      "team": "Cleveland Cavaliers"
+    },
+    {
+      "rank": 4,
+      "speaker": "James Harden",
+      "timestamp": "02:39",
+      "summary_phrase": "James Harden on his desire to play in Europe or Spain",
+      "names_mentioned": [],
+      "excerpt": "I would love to. Spain is one of the most beautiful places in the world.",
+      "quote": "I would love to. Spain is one of the most beautiful places in the world. I've been here, fortunately I've been to Barcelona, to Madrid, and those places are amazing as well. So every time I come here the experience is how it should be. Love it here.",
+      "text_blocks": [],
+      "start_seconds": 159,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "James Harden says he would love to play in Spain one day. He calls the country one of the most beautiful places in the world.",
+      "team": "Cleveland Cavaliers"
+    },
+    {
+      "rank": 5,
+      "speaker": "James Harden",
+      "timestamp": "03:37",
+      "summary_phrase": "James Harden on the evolution of Mario as a player",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "excerpt": "I think it's confidence. I think as a young player he was probably trying to find himself.",
+      "quote": "I think it's confidence. I think as a young player he was probably trying to find himself, find what works, what doesn't work. What probably made him confident in that situation as far as his team, wasn't the direction the team was trying to go, so he had to come overseas and find himself. And I think who he is now as a player fits with the NBA is now, big strong guard who can get downhill, can shoot it, can pass it, was very versatile.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "James Harden believes Mario has found his confidence. He says Mario is now a big strong guard who fits the modern NBA because he can get downhill, shoot, and pass.",
+      "team": "Cleveland Cavaliers"
+    },
+    {
+      "rank": 6,
+      "speaker": "James Harden",
+      "timestamp": "04:36",
+      "summary_phrase": "James Harden on building a relationship with Jaylen",
       "names_mentioned": [
         "Jaylen"
       ],
-      "news_angle": "James Harden says Jaylen will be counted on for more minutes this season.",
-      "social_post": "James Harden says he is mentoring Jaylen and expects him to play more minutes this season."
+      "excerpt": "I was just trying to build a relationship with Jaylen because he does have the skills.",
+      "quote": "I was just trying to build a relationship with Jaylen because he does have the skills and the tools to make a lot of money in this league and I think he just needs a little guidance at some times to what can get him over the top. So anything where I can see I can help him at, I try to be there for him.",
+      "text_blocks": [],
+      "start_seconds": 276,
+      "end_seconds": 301,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "James Harden is taking a mentorship role with Jaylen. Harden says he is trying to provide the guidance needed to help Jaylen reach his full potential and make a lot of money in the league.",
+      "team": "Cleveland Cavaliers"
     }
   ],
-  "is_one_off": true,
   "content_type": "oneoff",
   "content_type_source": "extra_videos",
-  "caption_status": "skipped (blocked earlier this run: RequestBlocked: YouTube is blocking requests from your IP.)"
+  "format": "ytq-1",
+  "video_id": "J5unk3vEQmk",
+  "url": "https://www.youtube.com/watch?v=J5unk3vEQmk",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-09-30T18:46:47Z",
+  "duration_seconds": 359,
+  "processed_at": "2026-10-01T11:19:16Z",
+  "run_id": "2026-10-01T1118Z-manual-1118",
+  "is_one_off": true
 }

@@ -14,31 +14,34 @@
     {
       "rank": 1,
       "speaker": "Georges Niang",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
-      "start_seconds": 205,
-      "end_seconds": 246,
-      "text": "So I have my Senegalese passport. I was planning on playing for them this summer. Unfortunately I had to get a job before I committed to doing that. Previously I committed to them and thought I was, but I am looking forward to playing for them this summer. I know I have said that for the past five summers, but this upcoming summer, as long as health isn't a problem, I will be playing for Senegal. My dad was born and raised in Senegal and I have a good relationship with Ghana, the head coach and Mack Tar, the GM. So I am super excited about that opportunity.",
-      "pull_quote": "this upcoming summer, as long as health isn't a problem, I will be playing for Senegal",
+      "timestamp": "03:25",
+      "summary_phrase": "Georges Niang plans to play for the Senegal national team this summer if healthy.",
       "names_mentioned": [
         "Ghana",
         "Mack Tar"
       ],
-      "news_angle": "Georges Niang plans to play for the Senegal national team this summer if healthy.",
-      "social_post": "Georges Niang says he plans to play for the Senegal national team this summer, as long as his health is not a problem. He has a strong connection to the country through his father."
+      "excerpt": "this upcoming summer, as long as health isn't a problem, I will be playing for Senegal",
+      "quote": "So I have my Senegalese passport. I was planning on playing for them this summer. Unfortunately I had to get a job before I committed to doing that. Previously I committed to them and thought I was, but I am looking forward to playing for them this summer. I know I have said that for the past five summers, but this upcoming summer, as long as health isn't a problem, I will be playing for Senegal. My dad was born and raised in Senegal and I have a good relationship with Ghana, the head coach and Mack Tar, the GM. So I am super excited about that opportunity.",
+      "start_seconds": 205,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "social_post": "Georges Niang says he plans to play for the Senegal national team this summer, as long as his health is not a problem. He has a strong connection to the country through his father.",
+      "team": "Golden State Warriors"
     },
     {
       "rank": 2,
       "speaker": "Georges Niang",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
+      "timestamp": "09:06",
+      "summary_phrase": "Georges Niang praises Stephen Curry as the best shooter ever and a complete player.",
+      "names_mentioned": [],
+      "excerpt": "Shooting three pointers is one aspect of his game that he is extremely elite at",
+      "quote": "Have you ever watched him workout? It is like real discouraging. I thought I was really good and then I watch him and I am like there is a lot of work to do. I think watching someone like that, you will never or I don't think I will ever see someone on my own two eyes that is going to be that special. Shooting three pointers is one aspect of his game that he is extremely elite at, probably the best ever to do it, but there is so many other things that he does on the basketball court.",
       "start_seconds": 546,
       "end_seconds": 590,
-      "text": "Have you ever watched him workout? It is like real discouraging. I thought I was really good and then I watch him and I am like there is a lot of work to do. I think watching someone like that, you will never or I don't think I will ever see someone on my own two eyes that is going to be that special. Shooting three pointers is one aspect of his game that he is extremely elite at, probably the best ever to do it, but there is so many other things that he does on the basketball court.",
-      "pull_quote": "Shooting three pointers is one aspect of his game that he is extremely elite at",
-      "names_mentioned": [],
-      "news_angle": "Georges Niang praises Stephen Curry as the best shooter ever and a complete player.",
-      "social_post": "Georges Niang says watching Stephen Curry work out is discouraging because it shows how much work he still has to do. He calls Curry the best shooter ever, but notes that shooting is only one part of his elite game."
+      "speaker_confidence": "named",
+      "social_post": "Georges Niang says watching Stephen Curry work out is discouraging because it shows how much work he still has to do. He calls Curry the best shooter ever, but notes that shooting is only one part of his elite game.",
+      "team": "Golden State Warriors"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

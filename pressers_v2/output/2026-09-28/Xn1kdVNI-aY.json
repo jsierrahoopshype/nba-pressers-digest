@@ -14,56 +14,61 @@
     {
       "rank": 1,
       "speaker": "VJ Edgecombe",
-      "speaker_confidence": "named",
-      "team": "Philadelphia 76ers",
+      "timestamp": "02:02",
+      "summary_phrase": "VJ Edgecombe is focusing on improving his shooting, finishing, and dribbling this offseason.",
+      "names_mentioned": [],
+      "excerpt": "I have been working on my game. Shooting, finishing, dribbling, everything.",
+      "quote": "I have been countless reps shooting the ball. I say that is important, especially now with the team that we have now. Just trying to pick my spaces, pick my times, but I have been working on my game. Shooting, finishing, dribbling, everything. I have just been trying to get better.",
       "start_seconds": 122,
       "end_seconds": 143,
-      "text": "I have been countless reps shooting the ball. I say that is important, especially now with the team that we have now. Just trying to pick my spaces, pick my times, but I have been working on my game. Shooting, finishing, dribbling, everything. I have just been trying to get better.",
-      "pull_quote": "I have been working on my game. Shooting, finishing, dribbling, everything.",
-      "names_mentioned": [],
-      "news_angle": "VJ Edgecombe is focusing on improving his shooting, finishing, and dribbling this offseason.",
-      "social_post": "VJ Edgecombe says he is focusing on his all-around game this offseason, specifically working on his shooting, finishing, and dribbling to get better."
+      "speaker_confidence": "named",
+      "social_post": "VJ Edgecombe says he is focusing on his all-around game this offseason, specifically working on his shooting, finishing, and dribbling to get better.",
+      "team": "Philadelphia 76ers"
     },
     {
       "rank": 2,
       "speaker": "VJ Edgecombe",
-      "speaker_confidence": "named",
-      "team": "Philadelphia 76ers",
+      "timestamp": "07:16",
+      "summary_phrase": "VJ Edgecombe says he takes pride in playing defense and finds it fun.",
+      "names_mentioned": [],
+      "excerpt": "I take pride in playing defense. I just find it fun",
+      "quote": "I take pride in playing defense. I just find it fun when it is kind of hard for the opposing team to score. I find that I find that kind of fun. I enjoy I enjoy playing defense and I feel like it gets me going, it gets me hype, and also just gets the team going also.",
       "start_seconds": 436,
       "end_seconds": 460,
-      "text": "I take pride in playing defense. I just find it fun when it is kind of hard for the opposing team to score. I find that I find that kind of fun. I enjoy I enjoy playing defense and I feel like it gets me going, it gets me hype, and also just gets the team going also.",
-      "pull_quote": "I take pride in playing defense. I just find it fun",
-      "names_mentioned": [],
-      "news_angle": "VJ Edgecombe says he takes pride in playing defense and finds it fun.",
-      "social_post": "VJ Edgecombe says he takes pride in playing defense and finds it fun when it is hard for the opposing team to score."
+      "speaker_confidence": "named",
+      "social_post": "VJ Edgecombe says he takes pride in playing defense and finds it fun when it is hard for the opposing team to score.",
+      "team": "Philadelphia 76ers"
     },
     {
       "rank": 3,
       "speaker": "VJ Edgecombe",
-      "speaker_confidence": "named",
-      "team": "Philadelphia 76ers",
-      "start_seconds": 584,
-      "end_seconds": 618,
-      "text": "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat, me, Tyrese, Jalen, Joel. And then LeBron came and obviously I do not have LeBron James number. So I cannot say go add LeBron to a group chat. Plus, if I had his number, I would not randomly add LeBron to a group chat. You get what I am saying? So I told Tyrese to do it. I asked Tyrese if we could do it.",
-      "pull_quote": "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat",
+      "timestamp": "09:44",
+      "summary_phrase": "VJ Edgecombe initiated a group chat with his new teammates but did not have LeBron James' number.",
       "names_mentioned": [
         "LeBron James"
       ],
-      "news_angle": "VJ Edgecombe initiated a group chat with his new teammates but did not have LeBron James' number.",
-      "social_post": "VJ Edgecombe says he started a group chat with his new teammates but did not have LeBron James' number to add him to it."
+      "excerpt": "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat",
+      "quote": "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat, me, Tyrese, Jalen, Joel. And then LeBron came and obviously I do not have LeBron James number. So I cannot say go add LeBron to a group chat. Plus, if I had his number, I would not randomly add LeBron to a group chat. You get what I am saying? So I told Tyrese to do it. I asked Tyrese if we could do it.",
+      "start_seconds": 584,
+      "end_seconds": 618,
+      "speaker_confidence": "named",
+      "social_post": "VJ Edgecombe says he started a group chat with his new teammates but did not have LeBron James' number to add him to it.",
+      "team": "Philadelphia 76ers"
     },
     {
       "rank": 4,
       "speaker": "VJ Edgecombe",
-      "speaker_confidence": "named",
-      "team": "Philadelphia 76ers",
+      "timestamp": "09:59",
+      "summary_phrase": "VJ Edgecombe admits he was surprised by how tired he was after his rookie season.",
+      "names_mentioned": [],
+      "excerpt": "First of all, the NBA you get really tired.",
+      "quote": "First of all, the NBA you get really tired. So when I was able to take some weeks off and like you say reflect on on the season, I was first of all I was really tired. I do not know if that is normal, but yeah.",
       "start_seconds": 599,
       "end_seconds": 618,
-      "text": "First of all, the NBA you get really tired. So when I was able to take some weeks off and like you say reflect on on the season, I was first of all I was really tired. I do not know if that is normal, but yeah.",
-      "pull_quote": "First of all, the NBA you get really tired.",
-      "names_mentioned": [],
-      "news_angle": "VJ Edgecombe admits he was surprised by how tired he was after his rookie season.",
-      "social_post": "VJ Edgecombe says he was surprised by how tired he was after his rookie season in the NBA."
+      "speaker_confidence": "named",
+      "social_post": "VJ Edgecombe says he was surprised by how tired he was after his rookie season in the NBA.",
+      "team": "Philadelphia 76ers"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

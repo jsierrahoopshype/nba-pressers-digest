@@ -15,55 +15,43 @@
     {
       "rank": 1,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
+      "timestamp": "01:41",
+      "summary_phrase": "Micah Nori discusses defensive strategies including switching, trapping, and zone coverage to protect non-shooters.",
+      "names_mentioned": [],
+      "excerpt": "There is a lot of different things that you can do to help protect those guys.",
+      "quote": "You can do a lot of different things now. What I mean by that is you obviously can switch and then when you can and then you can switch and then you can go back and double team or hit. You could also try to hide guys. When I mean by hide guys you can protect guys and maybe there is someone out on the floor that is a non-shooter or someone who is just not an offensive player so you can move guys around in that guard and then you avoid the switch and you just get under those type of things. The other things you can do is trap guys, get the ball, you can even go some zone. So there is a lot of different things that you can do to help protect those guys. It is just kind of like how long can you do it before all of a sudden you are putting two on the basketball and then they are killing you.",
       "start_seconds": 101,
       "end_seconds": 142,
-      "gemini_start_seconds": 101,
-      "gemini_end_seconds": 142,
-      "timestamp_source": "gemini-approx",
-      "text": "You can do a lot of different things now. What I mean by that is you obviously can switch and then when you can and then you can switch and then you can go back and double team or hit. You could also try to hide guys. When I mean by hide guys you can protect guys and maybe there is someone out on the floor that is a non-shooter or someone who is just not an offensive player so you can move guys around in that guard and then you avoid the switch and you just get under those type of things. The other things you can do is trap guys, get the ball, you can even go some zone. So there is a lot of different things that you can do to help protect those guys. It is just kind of like how long can you do it before all of a sudden you are putting two on the basketball and then they are killing you.",
-      "pull_quote": "There is a lot of different things that you can do to help protect those guys.",
+      "speaker_confidence": "named",
       "news_score": 7,
-      "names_mentioned": [],
-      "news_angle": "Micah Nori discusses defensive strategies including switching, trapping, and zone coverage to protect non-shooters.",
-      "social_post": "Micah Nori breaks down the defensive versatility the team is working on, noting that they can switch, trap, or play zone to protect non-shooters on the floor."
+      "social_post": "Micah Nori breaks down the defensive versatility the team is working on, noting that they can switch, trap, or play zone to protect non-shooters on the floor.",
+      "team": "Portland Trail Blazers"
     },
     {
       "rank": 2,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
-      "start_seconds": 167,
-      "end_seconds": 196,
-      "gemini_start_seconds": 167,
-      "gemini_end_seconds": 196,
-      "timestamp_source": "gemini-approx",
-      "text": "Yeah, very much so. And I think that is why Rob, getting back Rob and I have said it many times, getting Rob back was so important to us in my opinion is because not only is Donovan a really good drop defender, so is Rob. So and then when you add Hartenstein as he continues to grow, Brandon Carlson is another there is an athletic guy that to me if we can protect the rim and these guys can do it in different ways. Some of those guys are more verticalities and then like Rob is more of a shot blocker and and Donovan is more of a verticality guy. So it is just but yes, absolutely, a drop guy.",
-      "pull_quote": "getting Rob back was so important to us in my opinion",
-      "news_score": 8,
+      "timestamp": "02:47",
+      "summary_phrase": "Micah Nori emphasizes the importance of Robert Williams III returning to the team's defensive rotation.",
       "names_mentioned": [
         "Rob",
         "Donovan",
         "Hartenstein",
         "Brandon Carlson"
       ],
-      "news_angle": "Micah Nori emphasizes the importance of Robert Williams III returning to the team's defensive rotation.",
-      "social_post": "Micah Nori says getting Robert Williams III back is vital for the team, noting his importance as a drop defender alongside Donovan Clingan and Isaiah Hartenstein."
+      "excerpt": "getting Rob back was so important to us in my opinion",
+      "quote": "Yeah, very much so. And I think that is why Rob, getting back Rob and I have said it many times, getting Rob back was so important to us in my opinion is because not only is Donovan a really good drop defender, so is Rob. So and then when you add Hartenstein as he continues to grow, Brandon Carlson is another there is an athletic guy that to me if we can protect the rim and these guys can do it in different ways. Some of those guys are more verticalities and then like Rob is more of a shot blocker and and Donovan is more of a verticality guy. So it is just but yes, absolutely, a drop guy.",
+      "start_seconds": 167,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Micah Nori says getting Robert Williams III back is vital for the team, noting his importance as a drop defender alongside Donovan Clingan and Isaiah Hartenstein.",
+      "team": "Portland Trail Blazers"
     },
     {
       "rank": 3,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
-      "start_seconds": 301,
-      "end_seconds": 319,
-      "gemini_start_seconds": 301,
-      "gemini_end_seconds": 319,
-      "timestamp_source": "gemini-approx",
-      "text": "We kind of tried to do is keep those eight nine guys on the same team. A lot of times what you will have is your starting five and then like the back of centers on the other team. So like literally Rob, Donovan, Scoot, Dane, Drew, Ja, all those guys are playing on the on the same team right now so we can see those combinations.",
-      "pull_quote": "we can see those combinations",
-      "news_score": 6,
+      "timestamp": "05:01",
+      "summary_phrase": "Micah Nori explains the team's strategy of keeping key players together during training camp scrimmages.",
       "names_mentioned": [
         "Rob",
         "Donovan",
@@ -72,9 +60,16 @@
         "Drew",
         "Ja"
       ],
-      "news_angle": "Micah Nori explains the team's strategy of keeping key players together during training camp scrimmages.",
-      "social_post": "Micah Nori explains that the coaching staff is keeping their core rotation players together during training camp scrimmages to build chemistry and test specific lineups."
+      "excerpt": "we can see those combinations",
+      "quote": "We kind of tried to do is keep those eight nine guys on the same team. A lot of times what you will have is your starting five and then like the back of centers on the other team. So like literally Rob, Donovan, Scoot, Dane, Drew, Ja, all those guys are playing on the on the same team right now so we can see those combinations.",
+      "start_seconds": 301,
+      "end_seconds": 319,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori explains that the coaching staff is keeping their core rotation players together during training camp scrimmages to build chemistry and test specific lineups.",
+      "team": "Portland Trail Blazers"
     }
   ],
-  "caption_status": "blocked"
+  "caption_status": "blocked",
+  "format": "ytq-1"
 }

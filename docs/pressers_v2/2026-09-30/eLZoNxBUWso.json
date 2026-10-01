@@ -14,28 +14,31 @@
     {
       "rank": 1,
       "speaker": "Bogoljub Marković",
-      "speaker_confidence": "named",
-      "team": "Milwaukee Bucks",
+      "timestamp": "00:18",
+      "summary_phrase": "Bogoljub Marković says the NBA training camp is more intense than he expected.",
+      "names_mentioned": [],
+      "excerpt": "I knew I was going to learn many stuff, but not this much.",
+      "quote": "Many more people, video guys, coaches, more loud, more talking, basically everything. I knew I was going to learn many stuff, but not this much. Plain simple, yeah. Just what the coaches want, what the standards are set, what teammates do, what they like to do before, after practice, during practice, it is basically everything I can my mind can pick up on.",
       "start_seconds": 18,
       "end_seconds": 49,
-      "text": "Many more people, video guys, coaches, more loud, more talking, basically everything. I knew I was going to learn many stuff, but not this much. Plain simple, yeah. Just what the coaches want, what the standards are set, what teammates do, what they like to do before, after practice, during practice, it is basically everything I can my mind can pick up on.",
-      "pull_quote": "I knew I was going to learn many stuff, but not this much.",
-      "names_mentioned": [],
-      "news_angle": "Bogoljub Marković says the NBA training camp is more intense than he expected.",
-      "social_post": "Bogoljub Marković says the NBA training camp is more intense than he expected, noting there are many more people, more coaches, and more talking than he was used to."
+      "speaker_confidence": "named",
+      "social_post": "Bogoljub Marković says the NBA training camp is more intense than he expected, noting there are many more people, more coaches, and more talking than he was used to.",
+      "team": "Milwaukee Bucks"
     },
     {
       "rank": 2,
       "speaker": "Bogoljub Marković",
-      "speaker_confidence": "named",
-      "team": "Milwaukee Bucks",
+      "timestamp": "02:56",
+      "summary_phrase": "Bogoljub Marković says the team is focused on making practices harder than games.",
+      "names_mentioned": [],
+      "excerpt": "try to make the practice as hard as possible, so the games are easier",
+      "quote": "The toughness, the energy we have, the most important thing is to try to make the practice as hard as possible, so the games are easier than practice and to push each other and that is the main thing.",
       "start_seconds": 176,
       "end_seconds": 191,
-      "text": "The toughness, the energy we have, the most important thing is to try to make the practice as hard as possible, so the games are easier than practice and to push each other and that is the main thing.",
-      "pull_quote": "try to make the practice as hard as possible, so the games are easier",
-      "names_mentioned": [],
-      "news_angle": "Bogoljub Marković says the team is focused on making practices harder than games.",
-      "social_post": "Bogoljub Marković says the team is focused on making practices harder than games, noting that the most important thing is to push each other."
+      "speaker_confidence": "named",
+      "social_post": "Bogoljub Marković says the team is focused on making practices harder than games, noting that the most important thing is to push each other.",
+      "team": "Milwaukee Bucks"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

@@ -15,20 +15,19 @@
     {
       "rank": 1,
       "speaker": "Grayson Allen",
-      "speaker_confidence": "named",
-      "team": "Charlotte Hornets",
+      "timestamp": "01:27",
+      "summary_phrase": "Grayson Allen praises Royce O'Neale as a versatile teammate and improved shooter.",
+      "names_mentioned": [],
+      "excerpt": "He is an incredibly improved shooter from when I played with him in Utah",
+      "quote": "He is great. He is a team guy. His game is trying to make the other guys on the court better, the team better, offensively and defensively. He is an incredibly improved shooter from when I played with him in Utah and he is a great shooter now, a good connector and passer, great screener offensively. Defensively he is physical, can guard multiple positions, so just a really really good teammate and versatile guy to have.",
       "start_seconds": 87,
       "end_seconds": 119,
-      "gemini_start_seconds": 87,
-      "gemini_end_seconds": 119,
-      "timestamp_source": "gemini-approx",
-      "text": "He is great. He is a team guy. His game is trying to make the other guys on the court better, the team better, offensively and defensively. He is an incredibly improved shooter from when I played with him in Utah and he is a great shooter now, a good connector and passer, great screener offensively. Defensively he is physical, can guard multiple positions, so just a really really good teammate and versatile guy to have.",
-      "pull_quote": "He is an incredibly improved shooter from when I played with him in Utah",
+      "speaker_confidence": "named",
       "news_score": 7,
-      "names_mentioned": [],
-      "news_angle": "Grayson Allen praises Royce O'Neale as a versatile teammate and improved shooter.",
-      "social_post": "Grayson Allen says Royce O'Neale has become an incredibly improved shooter since their time together in Utah, calling him a great teammate and a versatile player for the Hornets."
+      "social_post": "Grayson Allen says Royce O'Neale has become an incredibly improved shooter since their time together in Utah, calling him a great teammate and a versatile player for the Hornets.",
+      "team": "Charlotte Hornets"
     }
   ],
-  "caption_status": "blocked"
+  "caption_status": "blocked",
+  "format": "ytq-1"
 }

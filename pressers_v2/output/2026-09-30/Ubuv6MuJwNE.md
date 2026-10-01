@@ -1,29 +1,29 @@
-# 2026 Training Camp Media Availability &#124; Coach J.B. Bickerstaff l 09.30.26 — *Detroit Pistons*
+# 2026 Training Camp Media Availability | Coach J.B. Bickerstaff l 09.30.26 — *Detroit Pistons*
 
-Source: [https://www.youtube.com/watch?v=Ubuv6MuJwNE](https://www.youtube.com/watch?v=Ubuv6MuJwNE)
+Source: https://www.youtube.com/watch?v=Ubuv6MuJwNE
 
 _Speakers identified: J.B. Bickerstaff_
 
-**1. J.B. Bickerstaff (Detroit Pistons) — "We don't want to get away from what we were elite at last year." — J.B. Bickerstaff plans to maintain the team's paint dominance while utilizing new perimeter weapons.** [00:46](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s) (approx.)
+**1. J.B. Bickerstaff — "We don't want to get away from what we were elite at last year." — J.B. Bickerstaff plans to maintain the team's paint dominance while utilizing new perimeter weapons.** [00:46](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s)
 
 J.B. Bickerstaff: "It opens up so much for our guys' strengths. We don't want to get away from what we were elite at last year. We were good offensively because we dominated the painted area. We expect to continue to do that, but now we have more weapons on the perimeter that we can find that can knock down those shots that create that gravity that hopefully make those driving lanes and cutting lanes even easier."
 
-[https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s)
+https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s
 
-**2. J.B. Bickerstaff (Detroit Pistons) — "He's a well-rounded basketball player that I think has just settled into who he needs to be" — J.B. Bickerstaff praises Kevin Huerter's growth and versatility with the Detroit Pistons.** [01:33](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s) (approx.)
+**2. J.B. Bickerstaff — "He's a well-rounded basketball player that I think has just settled into who he needs to be" — J.B. Bickerstaff praises Kevin Huerter's growth and versatility with the Detroit Pistons.** [01:33](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s)
 
 J.B. Bickerstaff: "I think he's comfortable. He understands who we are, his teammates understand who he is, and he understands what we need. But overall, he's a really good basketball player. And I think that's one of the things people assume, it's all about the offensive stuff with him and the shooting, but he's a heck of a playmaker. He can make his shots, but he moves well without the basketball. And then we found last year that he was good defensively for us too. We allowed him to switch and pick guys up and things like that. So he's a well-rounded basketball player that I think has just settled into who he needs to be when he's with the Detroit Pistons and that's just the best version of himself."
 
-[https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s)
+https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s
 
-**3. J.B. Bickerstaff (Detroit Pistons) — "We're not asking guys to come in here and change who they are." — J.B. Bickerstaff emphasizes a culture of freedom and growth for all players in Detroit.** [02:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s) (approx.)
+**3. J.B. Bickerstaff — "We're not asking guys to come in here and change who they are." — J.B. Bickerstaff emphasizes a culture of freedom and growth for all players in Detroit.** [02:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s)
 
 J.B. Bickerstaff: "It's the nature of what we do here in Detroit. Everybody comes in here, no matter their position, no matter their age, no matter their responsibilities in previous locations, our push is for you to be better and do more of what you're capable of. We're not asking guys to come in here and change who they are. But if there's aspects of their game that they have and have grown in, they've got the freedom to go out and do it. We don't put anybody in a box and say, well, in such and such place you did this, so when you come here all you're allowed to do is that. If you can play basketball, we allow you to play basketball, but our expectation is you compete your tail off, you play selfless basketball, and then as your game grows, we allow you to play with that freedom to grow."
 
-[https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s)
+https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s
 
-**4. J.B. Bickerstaff (Detroit Pistons) — "I trust him wholeheartedly that he's going to make the right decision for the team." — J.B. Bickerstaff highlights his strong, trusting relationship with Trajan Langdon.** [03:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s) (approx.)
+**4. J.B. Bickerstaff — "I trust him wholeheartedly that he's going to make the right decision for the team." — J.B. Bickerstaff highlights his strong, trusting relationship with Trajan Langdon.** [03:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s)
 
 J.B. Bickerstaff: "It's great. And that's the thing with **Trajan** is he's open-minded and willing to have conversations and make decisions that he thinks are best. And I trust him wholeheartedly that he's going to make the right decision for the team. And then my responsibility is to coach the guys that he ultimately brings in here and try to get the most out of them. So I think our relationship of trust and respect for one another, it makes the job easy. There is no bickering and back and forth, there is no points trying to be proven. He does a great job of what his responsibilities are, and then us as coaches try to do our best job with the 15 guys that are here."
 
-[https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s)
+https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s

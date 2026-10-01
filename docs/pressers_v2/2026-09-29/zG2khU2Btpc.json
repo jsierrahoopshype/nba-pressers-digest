@@ -14,35 +14,32 @@
     {
       "rank": 1,
       "speaker": "Dillon Brooks",
-      "team": "Phoenix Suns",
+      "timestamp": "03:35",
+      "summary_phrase": "Dillon Brooks wants his teammate to be more aggressive with his three-point shooting.",
+      "names_mentioned": [],
+      "excerpt": "",
+      "quote": "He shot the ball 40 percent, been top five in the NBA in three-point percentage, so we need him to shoot more and not to be so humble about it.",
       "start_seconds": 215,
       "end_seconds": 233,
-      "text": "He shot the ball 40 percent, been top five in the NBA in three-point percentage, so we need him to shoot more and not to be so humble about it.",
-      "news_angle": "Dillon Brooks wants his teammate to be more aggressive with his three-point shooting.",
-      "social_post": "Dillon Brooks wants his teammate to be more aggressive from behind the arc, saying he needs to shoot more and not be so humble about his ability.",
       "speaker_confidence": "named",
-      "pull_quote": "",
-      "names_mentioned": [],
-      "timestamp_source": "gemini-approx",
-      "gemini_start_seconds": 215,
-      "gemini_end_seconds": 233
+      "social_post": "Dillon Brooks wants his teammate to be more aggressive from behind the arc, saying he needs to shoot more and not be so humble about his ability.",
+      "team": "Phoenix Suns"
     },
     {
       "rank": 2,
       "speaker": "Dillon Brooks",
-      "team": "Phoenix Suns",
+      "timestamp": "08:23",
+      "summary_phrase": "Dillon Brooks says the team is focused on fixing fourth-quarter execution issues from last season.",
+      "names_mentioned": [],
+      "excerpt": "",
+      "quote": "There are games last year where we should have won but we gave up plays in the fourth quarter, lost possessions. So those are the games that we are going to fix up because if we get those games back and we are able to get past those little humps where it is like, oh we got to learn from it, we just fix it.",
       "start_seconds": 503,
       "end_seconds": 528,
-      "text": "There are games last year where we should have won but we gave up plays in the fourth quarter, lost possessions. So those are the games that we are going to fix up because if we get those games back and we are able to get past those little humps where it is like, oh we got to learn from it, we just fix it.",
-      "news_angle": "Dillon Brooks says the team is focused on fixing fourth-quarter execution issues from last season.",
-      "social_post": "Dillon Brooks says the team is focused on fixing fourth-quarter execution issues from last season to avoid losing games they should have won.",
       "speaker_confidence": "named",
-      "pull_quote": "",
-      "names_mentioned": [],
-      "timestamp_source": "gemini-approx",
-      "gemini_start_seconds": 503,
-      "gemini_end_seconds": 528
+      "social_post": "Dillon Brooks says the team is focused on fixing fourth-quarter execution issues from last season to avoid losing games they should have won.",
+      "team": "Phoenix Suns"
     }
   ],
-  "speakers_backfilled_at": "2026-09-30T23:47:55Z"
+  "speakers_backfilled_at": "2026-09-30T23:47:55Z",
+  "format": "ytq-1"
 }

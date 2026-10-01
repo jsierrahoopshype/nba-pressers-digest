@@ -14,41 +14,45 @@
     {
       "rank": 1,
       "speaker": "Moses Moody",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
+      "timestamp": "03:27",
+      "summary_phrase": "Moses Moody reflects on his injury as a positive opportunity for growth.",
+      "names_mentioned": [],
+      "excerpt": "I know this is going to be a good thing at some point.",
+      "quote": "My first thought on the ground was I know this is going to be a good thing at some point. I am going to say I am happy this happened. So what is the point of being upset about it right now? I am going to be happy that it happened. But then the next step is I got to make it a good thing. So whatever time it allowed me to have, do something with that time that I could I will be happy that I had the time to do. And then on the basketball court, being able to slow down and train my movements and body and a bunch of stuff that I would that might normally get passed up because I got so many other things to work on, I can really slow down and go step by step and I feel like I have done that.",
       "start_seconds": 207,
       "end_seconds": 253,
-      "text": "My first thought on the ground was I know this is going to be a good thing at some point. I am going to say I am happy this happened. So what is the point of being upset about it right now? I am going to be happy that it happened. But then the next step is I got to make it a good thing. So whatever time it allowed me to have, do something with that time that I could I will be happy that I had the time to do. And then on the basketball court, being able to slow down and train my movements and body and a bunch of stuff that I would that might normally get passed up because I got so many other things to work on, I can really slow down and go step by step and I feel like I have done that.",
-      "pull_quote": "I know this is going to be a good thing at some point.",
-      "names_mentioned": [],
-      "news_angle": "Moses Moody reflects on his injury as a positive opportunity for growth.",
-      "social_post": "Moses Moody says he is choosing to look at his injury as a positive, using the time to focus on his development and training, I know this is going to be a good thing at some point."
+      "speaker_confidence": "named",
+      "social_post": "Moses Moody says he is choosing to look at his injury as a positive, using the time to focus on his development and training, I know this is going to be a good thing at some point.",
+      "team": "Golden State Warriors"
     },
     {
       "rank": 2,
       "speaker": "Moses Moody",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
+      "timestamp": "08:15",
+      "summary_phrase": "Moses Moody praises Stephen Curry for his commitment to the Warriors organization.",
+      "names_mentioned": [],
+      "excerpt": "watching somebody be able to stay patient and ambitious at the same time.",
+      "quote": "It is cool to see somebody at the that has done as much as he has done that wants to do as much as he wants to do, but just watching somebody be able to stay patient and ambitious at the same time. It is a lot of stuff like him like that with him. Just being able to be like free and contained and like that type of thing. So just having the discipline and focus and commitment to stay with an organization for as long as he has is cool to see.",
       "start_seconds": 495,
       "end_seconds": 545,
-      "text": "It is cool to see somebody at the that has done as much as he has done that wants to do as much as he wants to do, but just watching somebody be able to stay patient and ambitious at the same time. It is a lot of stuff like him like that with him. Just being able to be like free and contained and like that type of thing. So just having the discipline and focus and commitment to stay with an organization for as long as he has is cool to see.",
-      "pull_quote": "watching somebody be able to stay patient and ambitious at the same time.",
-      "names_mentioned": [],
-      "news_angle": "Moses Moody praises Stephen Curry for his commitment to the Warriors organization.",
-      "social_post": "Moses Moody says it is cool to see Stephen Curry's dedication to the Warriors, noting that he is watching somebody be able to stay patient and ambitious at the same time."
+      "speaker_confidence": "named",
+      "social_post": "Moses Moody says it is cool to see Stephen Curry's dedication to the Warriors, noting that he is watching somebody be able to stay patient and ambitious at the same time.",
+      "team": "Golden State Warriors"
     },
     {
       "rank": 3,
       "speaker": "Moses Moody",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
+      "timestamp": "10:46",
+      "summary_phrase": "Moses Moody discusses the emotional insecurity of dealing with a patellar tendon injury.",
+      "names_mentioned": [],
+      "excerpt": "this is probably the most insecure I ever felt when it comes",
+      "quote": "I feel like I am a pretty secure person normally, but then like this is probably the most insecure I ever felt when it comes because whenever somebody say I got a patellar tendon injury I am oh I am everything you say I am putting extra weight, I am curious, I want to learn about it, emotion is attached to it some. So that is just an interesting observation I had just feeling that feeling insecure about something in a some yeah just you you follow the stories and all, but and then and then that is funny too because now when you have a injury like that then everybody that has had it like will always tell you like oh I had it too and that is just kind of a connection and something that you might have been with you might have known somebody for a long time but never known that about the injury and stuff.",
       "start_seconds": 646,
       "end_seconds": 705,
-      "text": "I feel like I am a pretty secure person normally, but then like this is probably the most insecure I ever felt when it comes because whenever somebody say I got a patellar tendon injury I am oh I am everything you say I am putting extra weight, I am curious, I want to learn about it, emotion is attached to it some. So that is just an interesting observation I had just feeling that feeling insecure about something in a some yeah just you you follow the stories and all, but and then and then that is funny too because now when you have a injury like that then everybody that has had it like will always tell you like oh I had it too and that is just kind of a connection and something that you might have been with you might have known somebody for a long time but never known that about the injury and stuff.",
-      "pull_quote": "this is probably the most insecure I ever felt when it comes",
-      "names_mentioned": [],
-      "news_angle": "Moses Moody discusses the emotional insecurity of dealing with a patellar tendon injury.",
-      "social_post": "Moses Moody opens up about the emotional toll of his injury, saying this is probably the most insecure I ever felt when it comes to dealing with a patellar tendon injury."
+      "speaker_confidence": "named",
+      "social_post": "Moses Moody opens up about the emotional toll of his injury, saying this is probably the most insecure I ever felt when it comes to dealing with a patellar tendon injury.",
+      "team": "Golden State Warriors"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

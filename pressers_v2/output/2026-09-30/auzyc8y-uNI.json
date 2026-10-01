@@ -1,62 +1,107 @@
 {
-  "video_id": "auzyc8y-uNI",
-  "url": "https://www.youtube.com/watch?v=auzyc8y-uNI",
   "video_title": "Caleb Wilson: My First Media Day",
-  "channel_team": "Chicago Bulls",
-  "published": "2026-09-30T16:09:20Z",
-  "duration_seconds": 180,
-  "processed_at": "2026-10-01T10:50:17Z",
-  "run_id": "2026-10-01T1049Z-manual-1049",
-  "model": "gemini-3.1-flash-lite",
   "speakers_seen": [
-    "Caleb Wilson"
+    "Caleb Wilson",
+    "Matas Buzelis"
   ],
   "quotes": [
     {
       "rank": 1,
       "speaker": "Caleb Wilson",
+      "speakers": [
+        "Caleb Wilson",
+        "Matas Buzelis"
+      ],
+      "timestamp": "00:14",
+      "summary_phrase": "Caleb Wilson and Matas Buzelis discuss their upcoming rookie season expectations",
+      "names_mentioned": [
+        "Matas Buzelis",
+        "Caleb Wilson"
+      ],
+      "excerpt": "I don't know, I'm just going to like sit back and vibe. Just with the flow.",
+      "text_blocks": [
+        {
+          "speaker": "Caleb Wilson",
+          "text": "Is this aura maxing?"
+        },
+        {
+          "speaker": "Matas Buzelis",
+          "text": "Yeah, I think so."
+        },
+        {
+          "speaker": "Caleb Wilson",
+          "text": "What's your salary this year? You just go."
+        },
+        {
+          "speaker": "Matas Buzelis",
+          "text": "I don't know, I'm just going to like sit back and vibe. Just with the flow."
+        }
+      ],
+      "start_seconds": 14,
+      "end_seconds": 26,
       "speaker_confidence": "named",
-      "team": "Chicago Bulls",
-      "start_seconds": 72,
-      "end_seconds": 82,
-      "gemini_start_seconds": 66,
-      "gemini_end_seconds": 76,
-      "timestamp_source": "gemini-refined",
-      "text": "It kind of feels surreal, you know. But it's here now, so I'm excited for it. You know, training camp starting tomorrow, so it's all just coming at me fast, but I'm really excited to be here and excited to be a Bull. Excited for this year.",
-      "pull_quote": "I'm really excited to be here and excited to be a Bull.",
-      "news_score": 5,
-      "names_mentioned": [],
-      "news_angle": "Caleb Wilson expresses excitement for his first NBA training camp with the Chicago Bulls.",
-      "social_post": "Caleb Wilson is ready for his first NBA training camp with the Chicago Bulls. He says it feels surreal to be here and he is excited to be a Bull.",
-      "refine_window": [
-        6,
-        126
-      ]
+      "news_score": 3,
+      "social_post": "Caleb Wilson and Matas Buzelis are keeping it light at Bulls media day as they prepare for their rookie season. Wilson says he is just going to sit back and vibe with the flow.",
+      "team": "Chicago Bulls"
     },
     {
       "rank": 2,
       "speaker": "Caleb Wilson",
-      "speaker_confidence": "named",
-      "team": "Chicago Bulls",
-      "start_seconds": 134,
-      "end_seconds": 144,
-      "gemini_start_seconds": 134,
-      "gemini_end_seconds": 144,
-      "timestamp_source": "gemini-refined",
-      "text": "In two weeks, I mean, we'll be tipping off and it'll be real. It's my first time getting in an NBA game and playing in the United Center and hopefully I'll be here for a really long time. But I know all the nerves and stuff will go away once the ball gets tipped up in there.",
-      "pull_quote": "It's my first time getting in an NBA game and playing in the United Center",
-      "news_score": 6,
+      "timestamp": "00:34",
+      "summary_phrase": "Caleb Wilson on his excitement for his rookie season with the Bulls",
       "names_mentioned": [],
-      "news_angle": "Caleb Wilson discusses his anticipation for his first NBA game at the United Center.",
+      "excerpt": "I'm excited to be here and I feel like it's going to be great for me.",
+      "quote": "It's been really exciting. Just getting started now, but I'm excited to be here and I feel like it's going to be great for me to kind of see what I have to offer and really excited for the year.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Caleb Wilson says he is excited to get started with the Bulls and see what he has to offer during his rookie season.",
+      "team": "Chicago Bulls"
+    },
+    {
+      "rank": 3,
+      "speaker": "Caleb Wilson",
+      "timestamp": "01:06",
+      "summary_phrase": "Caleb Wilson on the surreal feeling of starting his NBA career",
+      "names_mentioned": [],
+      "excerpt": "It kind of feels surreal, but it's here now, so I'm excited for it.",
+      "quote": "It kind of feels surreal, but it's here now, so I'm excited for it. Training camp starting tomorrow, so it's all just coming at me fast, but I'm really excited to be here and excited to be a Bull.",
+      "verbatim_original_language": "",
+      "start_seconds": 66,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "It is all coming fast for Caleb Wilson as training camp begins. He says the start of his NBA career feels surreal but he is ready to be a Bull.",
+      "team": "Chicago Bulls"
+    },
+    {
+      "rank": 4,
+      "speaker": "Caleb Wilson",
+      "timestamp": "02:14",
+      "summary_phrase": "Caleb Wilson on his upcoming NBA debut at the United Center",
+      "names_mentioned": [],
+      "excerpt": "It's my first time getting in an NBA game and playing in the United Center.",
+      "quote": "In two weeks, we'll be tipping off and it'll be real. It's my first time getting in an NBA game and playing in the United Center and hopefully I'll be here for a really long time. I know all the nerves and stuff will go away once the ball gets tipped up in there.",
+      "verbatim_original_language": "",
+      "start_seconds": 134,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 4,
       "social_post": "Caleb Wilson is looking forward to his first NBA game at the United Center in two weeks. He says he knows the nerves will go away once the ball gets tipped up.",
-      "refine_window": [
-        74,
-        180
-      ]
+      "team": "Chicago Bulls"
     }
   ],
-  "is_one_off": true,
   "content_type": "oneoff",
   "content_type_source": "extra_videos",
-  "caption_status": "blocked: RequestBlocked: YouTube is blocking requests from your IP."
+  "format": "ytq-1",
+  "video_id": "auzyc8y-uNI",
+  "url": "https://www.youtube.com/watch?v=auzyc8y-uNI",
+  "channel_team": "Chicago Bulls",
+  "published": "2026-09-30T16:09:20Z",
+  "duration_seconds": 180,
+  "processed_at": "2026-10-01T11:19:13Z",
+  "run_id": "2026-10-01T1118Z-manual-1118",
+  "is_one_off": true
 }

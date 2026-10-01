@@ -15,86 +15,60 @@
     {
       "rank": 1,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
+      "timestamp": "01:32",
+      "summary_phrase": "Micah Nori details defensive versatility and switching strategies for the team",
+      "names_mentioned": [],
+      "excerpt": "",
+      "quote": "You can do a lot of different things now. When I mean by that is you obviously can switch and then when you can then you can switch and then you can go back and double team or hit. You can also try to hide guys. When I mean by hide guys, you can protect guys and maybe there is someone out on the floor that is a non-shooter or someone just not an offensive player. So you can move guys around in that guard and then you avoid the switching and you just get under those type of things. The other things you can do is trap guys, get the ball. You can even go some zone. So there is a lot of different things that you can do to help protect those guys.",
       "start_seconds": 92,
       "end_seconds": 138,
-      "gemini_start_seconds": 76,
-      "gemini_end_seconds": 122,
-      "timestamp_source": "gemini-refined",
-      "text": "You can do a lot of different things now. When I mean by that is you obviously can switch and then when you can then you can switch and then you can go back and double team or hit. You can also try to hide guys. When I mean by hide guys, you can protect guys and maybe there is someone out on the floor that is a non-shooter or someone just not an offensive player. So you can move guys around in that guard and then you avoid the switching and you just get under those type of things. The other things you can do is trap guys, get the ball. You can even go some zone. So there is a lot of different things that you can do to help protect those guys.",
-      "pull_quote": "",
+      "speaker_confidence": "named",
       "news_score": 7,
-      "names_mentioned": [],
-      "news_angle": "Micah Nori details defensive versatility and switching strategies for the team",
       "social_post": "Micah Nori discusses the defensive versatility of the team, noting that they can switch, trap, or use zone coverage to protect players on the floor.",
-      "refine_window": [
-        16,
-        136
-      ]
+      "team": "Portland Trail Blazers"
     },
     {
       "rank": 2,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
-      "start_seconds": 146,
-      "end_seconds": 174,
-      "gemini_start_seconds": 142,
-      "gemini_end_seconds": 170,
-      "timestamp_source": "gemini-refined",
-      "text": "Getting back Rob and I have said it many times, getting Rob back was so important to us in my opinion is because not only is Donovan a really good drop defender, so is Rob. So and then when you add Hartenstein as he continues to grow, Brandon Carlson is another that is an athletic guy that to me if we can protect the rim and these guys can do it in different ways. Some of those guys are more verticalities and then like Rob is more of a shop blocker and and Donovan is more of a verticality guy. So it just but yes, absolutely a drop guy.",
-      "pull_quote": "Getting Rob back was so important to us in my opinion.",
-      "news_score": 8,
+      "timestamp": "02:26",
+      "summary_phrase": "Micah Nori emphasizes the importance of Rob Williams and Donovan Clingan as drop defenders",
       "names_mentioned": [
         "Rob",
         "Donovan",
         "Hartenstein",
         "Brandon Carlson"
       ],
-      "news_angle": "Micah Nori emphasizes the importance of Rob Williams and Donovan Clingan as drop defenders",
+      "excerpt": "Getting Rob back was so important to us in my opinion.",
+      "quote": "Getting back Rob and I have said it many times, getting Rob back was so important to us in my opinion is because not only is Donovan a really good drop defender, so is Rob. So and then when you add Hartenstein as he continues to grow, Brandon Carlson is another that is an athletic guy that to me if we can protect the rim and these guys can do it in different ways. Some of those guys are more verticalities and then like Rob is more of a shop blocker and and Donovan is more of a verticality guy. So it just but yes, absolutely a drop guy.",
+      "start_seconds": 146,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 8,
       "social_post": "Micah Nori highlights the importance of getting Rob Williams back, noting that both he and Donovan Clingan are effective drop defenders.",
-      "refine_window": [
-        82,
-        202
-      ]
+      "team": "Portland Trail Blazers"
     },
     {
       "rank": 3,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
-      "start_seconds": 187,
-      "end_seconds": 215,
-      "gemini_start_seconds": 186,
-      "gemini_end_seconds": 214,
-      "timestamp_source": "gemini-refined",
-      "text": "He can play four because he shoots it well enough. That is why I think that he can slide over to the four and he moves his feet well enough that defensively he can play there. So I think that is the one good thing with both he and Micah Potter is that I can foresee them both playing as backup fours and fives. The other thing too is they are not starting and that is no knock, that is no big deal, but my point is they are probably going to be playing against backup fours and fives and I think they both are again versatile enough to play both spots.",
-      "pull_quote": "He can play four because he shoots it well enough.",
-      "news_score": 7,
+      "timestamp": "03:07",
+      "summary_phrase": "Micah Nori discusses the versatility of players who can play both power forward and center",
       "names_mentioned": [
         "Micah Potter"
       ],
-      "news_angle": "Micah Nori discusses the versatility of players who can play both power forward and center",
+      "excerpt": "He can play four because he shoots it well enough.",
+      "quote": "He can play four because he shoots it well enough. That is why I think that he can slide over to the four and he moves his feet well enough that defensively he can play there. So I think that is the one good thing with both he and Micah Potter is that I can foresee them both playing as backup fours and fives. The other thing too is they are not starting and that is no knock, that is no big deal, but my point is they are probably going to be playing against backup fours and fives and I think they both are again versatile enough to play both spots.",
+      "start_seconds": 187,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 7,
       "social_post": "Micah Nori explains that certain players can slide over to the four because they shoot well enough and have the defensive mobility to play both forward and center spots.",
-      "refine_window": [
-        126,
-        246
-      ]
+      "team": "Portland Trail Blazers"
     },
     {
       "rank": 4,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
-      "start_seconds": 272,
-      "end_seconds": 312,
-      "gemini_start_seconds": 272,
-      "gemini_end_seconds": 312,
-      "timestamp_source": "gemini-approx",
-      "text": "The one thing we have done and I am going to say our staff and everybody that we kind of tried to do is keep those eight nine guys on the same team. A lot of times what you will have is your starting five and then like the backup centers on the other team. So literally Rob, Donovan, Scoot, Dame, Drew, Ja all those guys are playing on the same team right now so we can see those combinations. I am just trying to stay as open-minded as possible. Yeah, you would hope that your starting lineup and you like we talked about being small, this is it it could be Ja and Dame and those guys. But when you sit there and add and that is a great thing for us to have when you Scoot has been very good, so has Drew been very good and so I think when you look at that, that is kind of how we do it.",
-      "pull_quote": "I am just trying to stay as open-minded as possible.",
-      "news_score": 7,
+      "timestamp": "04:32",
+      "summary_phrase": "Micah Nori explains the team's strategy of keeping core players together during training camp scrimmages",
       "names_mentioned": [
         "Rob",
         "Donovan",
@@ -103,35 +77,36 @@
         "Drew",
         "Ja"
       ],
-      "news_angle": "Micah Nori explains the team's strategy of keeping core players together during training camp scrimmages",
-      "social_post": "Micah Nori says the staff is keeping core players together during training camp to test various combinations and stay open-minded about the rotation."
+      "excerpt": "I am just trying to stay as open-minded as possible.",
+      "quote": "The one thing we have done and I am going to say our staff and everybody that we kind of tried to do is keep those eight nine guys on the same team. A lot of times what you will have is your starting five and then like the backup centers on the other team. So literally Rob, Donovan, Scoot, Dame, Drew, Ja all those guys are playing on the same team right now so we can see those combinations. I am just trying to stay as open-minded as possible. Yeah, you would hope that your starting lineup and you like we talked about being small, this is it it could be Ja and Dame and those guys. But when you sit there and add and that is a great thing for us to have when you Scoot has been very good, so has Drew been very good and so I think when you look at that, that is kind of how we do it.",
+      "start_seconds": 272,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Micah Nori says the staff is keeping core players together during training camp to test various combinations and stay open-minded about the rotation.",
+      "team": "Portland Trail Blazers"
     },
     {
       "rank": 5,
       "speaker": "Micah Nori",
-      "speaker_confidence": "named",
-      "team": "Portland Trail Blazers",
-      "start_seconds": 367,
-      "end_seconds": 403,
-      "gemini_start_seconds": 367,
-      "gemini_end_seconds": 403,
-      "timestamp_source": "gemini-refined",
-      "text": "To me, I mean it is easy to say this standing here but like I would rather finish the game than start a game, number one. And I think if you ask Drew Holiday, I think he would agree with me even we have had those talks. And I think that what what we don't want is just because Drew may not care about starting that all of a sudden you say, okay, well Drew will handle it the best so don't start him. But other than hearing your name called, I mean who cares? I would rather play when the when it counts and at the end of the game. So to me, that is why is important as far as I go starting lineup, yeah, this that whatever. I am not worried about the six to four basket, I am more worried about the 112 110 bucket quite honestly.",
-      "pull_quote": "I would rather finish the game than start a game.",
-      "news_score": 8,
+      "timestamp": "06:07",
+      "summary_phrase": "Micah Nori emphasizes the importance of closing games over starting lineups",
       "names_mentioned": [
         "Drew Holiday"
       ],
-      "news_angle": "Micah Nori emphasizes the importance of closing games over starting lineups",
+      "excerpt": "I would rather finish the game than start a game.",
+      "quote": "To me, I mean it is easy to say this standing here but like I would rather finish the game than start a game, number one. And I think if you ask Drew Holiday, I think he would agree with me even we have had those talks. And I think that what what we don't want is just because Drew may not care about starting that all of a sudden you say, okay, well Drew will handle it the best so don't start him. But other than hearing your name called, I mean who cares? I would rather play when the when it counts and at the end of the game. So to me, that is why is important as far as I go starting lineup, yeah, this that whatever. I am not worried about the six to four basket, I am more worried about the 112 110 bucket quite honestly.",
+      "start_seconds": 367,
+      "end_seconds": 403,
+      "speaker_confidence": "named",
+      "news_score": 8,
       "social_post": "Micah Nori shares his philosophy on lineups, stating he values finishing games over starting them and is more focused on winning outcomes than specific rotation roles.",
-      "refine_window": [
-        307,
-        427
-      ]
+      "team": "Portland Trail Blazers"
     }
   ],
   "is_one_off": false,
   "content_type": "presser",
   "content_type_source": "keyword: media availability",
-  "caption_status": "skipped (blocked earlier this run: RequestBlocked: YouTube is blocking requests from your IP.)"
+  "caption_status": "skipped (blocked earlier this run: RequestBlocked: YouTube is blocking requests from your IP.)",
+  "format": "ytq-1"
 }

@@ -17,20 +17,19 @@
     {
       "rank": 1,
       "speaker": "Yaxel Lendeborg",
-      "speaker_confidence": "named",
-      "team": "Golden State Warriors",
+      "timestamp": "00:12",
+      "summary_phrase": "Yaxel Lendeborg promises to bring energy and positive vibes to the floor.",
+      "names_mentioned": [],
+      "excerpt": "I'm going to be the most entertaining playing guy on the floor every night.",
+      "quote": "I'm going to be the most entertaining playing guy on the floor every night. I'm going to try to bring as many positive vibes as possible.",
       "start_seconds": 12,
       "end_seconds": 17,
-      "gemini_start_seconds": 12,
-      "gemini_end_seconds": 17,
-      "timestamp_source": "gemini-approx",
-      "text": "I'm going to be the most entertaining playing guy on the floor every night. I'm going to try to bring as many positive vibes as possible.",
-      "pull_quote": "I'm going to be the most entertaining playing guy on the floor every night.",
+      "speaker_confidence": "named",
       "news_score": 5,
-      "names_mentioned": [],
-      "news_angle": "Yaxel Lendeborg promises to bring energy and positive vibes to the floor.",
-      "social_post": "Yaxel Lendeborg is ready to bring the energy. He says he is going to be the most entertaining player on the floor every night and bring positive vibes to the Warriors."
+      "social_post": "Yaxel Lendeborg is ready to bring the energy. He says he is going to be the most entertaining player on the floor every night and bring positive vibes to the Warriors.",
+      "team": "Golden State Warriors"
     }
   ],
-  "caption_status": "blocked"
+  "caption_status": "blocked",
+  "format": "ytq-1"
 }

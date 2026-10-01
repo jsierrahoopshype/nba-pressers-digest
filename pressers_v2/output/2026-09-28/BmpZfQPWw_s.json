@@ -14,44 +14,48 @@
     {
       "rank": 1,
       "speaker": "Koa Peat",
-      "speaker_confidence": "named",
-      "team": "Phoenix Suns",
+      "timestamp": "03:25",
+      "summary_phrase": "Koa Peat expresses excitement about his upcoming debut with the Phoenix Suns.",
+      "names_mentioned": [],
+      "excerpt": "I am feeling blessed for this opportunity to go out there tomorrow and play basketball",
+      "quote": "I am feeling good. I am feeling blessed for this opportunity to go out there tomorrow and play basketball and to put the Phoenix Suns on my chest. I am super excited to go out there, play my game and help my team win.",
       "start_seconds": 205,
       "end_seconds": 230,
-      "text": "I am feeling good. I am feeling blessed for this opportunity to go out there tomorrow and play basketball and to put the Phoenix Suns on my chest. I am super excited to go out there, play my game and help my team win.",
-      "pull_quote": "I am feeling blessed for this opportunity to go out there tomorrow and play basketball",
-      "names_mentioned": [],
-      "news_angle": "Koa Peat expresses excitement about his upcoming debut with the Phoenix Suns.",
-      "social_post": "Koa Peat says he is feeling blessed for the opportunity to go out there tomorrow and play basketball for the Phoenix Suns."
+      "speaker_confidence": "named",
+      "social_post": "Koa Peat says he is feeling blessed for the opportunity to go out there tomorrow and play basketball for the Phoenix Suns.",
+      "team": "Phoenix Suns"
     },
     {
       "rank": 2,
       "speaker": "Koa Peat",
-      "speaker_confidence": "named",
-      "team": "Phoenix Suns",
+      "timestamp": "05:50",
+      "summary_phrase": "Koa Peat discusses the strong bond he has formed with his young teammates.",
+      "names_mentioned": [],
+      "excerpt": "those are my guys and I am ready to go to war with them",
+      "quote": "We got a real good bond. Talking to them, joking with them in the locker room after workouts, you know, just staying there for like an extra 30 minutes and just chopping it up with them. It has been good, you know. We got a little group chat too going with all of us. So, you know, those are my guys and I am ready to go to war with them.",
       "start_seconds": 350,
       "end_seconds": 406,
-      "text": "We got a real good bond. Talking to them, joking with them in the locker room after workouts, you know, just staying there for like an extra 30 minutes and just chopping it up with them. It has been good, you know. We got a little group chat too going with all of us. So, you know, those are my guys and I am ready to go to war with them.",
-      "pull_quote": "those are my guys and I am ready to go to war with them",
-      "names_mentioned": [],
-      "news_angle": "Koa Peat discusses the strong bond he has formed with his young teammates.",
-      "social_post": "Koa Peat says he has a real good bond with his teammates and is ready to go to war with them."
+      "speaker_confidence": "named",
+      "social_post": "Koa Peat says he has a real good bond with his teammates and is ready to go to war with them.",
+      "team": "Phoenix Suns"
     },
     {
       "rank": 3,
       "speaker": "Koa Peat",
-      "speaker_confidence": "named",
-      "team": "Phoenix Suns",
-      "start_seconds": 375,
-      "end_seconds": 406,
-      "text": "Miles Bridges is always giving me little tips, just little things like my drive line, like just bumping guys. And then Dylan Brooks, I have been talking to him a little bit, you know, just off the court. He is a real chill guy, obviously. On the court, he is a competitor, but off the court, he is one of the best guys. He is a locker room guy, super cool and, you know, to a guy at his level, he does not have to talk to me, but him being there, talking to me, being there for me, means a lot to me.",
-      "pull_quote": "Miles Bridges is always giving me little tips, just little things like my drive line",
+      "timestamp": "06:15",
+      "summary_phrase": "Koa Peat credits Miles Bridges and Dylan Brooks for providing him with veteran mentorship.",
       "names_mentioned": [
         "Miles Bridges",
         "Dylan Brooks"
       ],
-      "news_angle": "Koa Peat credits Miles Bridges and Dylan Brooks for providing him with veteran mentorship.",
-      "social_post": "Koa Peat says Miles Bridges and Dylan Brooks have been great mentors, sharing tips and advice as he adjusts to the NBA."
+      "excerpt": "Miles Bridges is always giving me little tips, just little things like my drive line",
+      "quote": "Miles Bridges is always giving me little tips, just little things like my drive line, like just bumping guys. And then Dylan Brooks, I have been talking to him a little bit, you know, just off the court. He is a real chill guy, obviously. On the court, he is a competitor, but off the court, he is one of the best guys. He is a locker room guy, super cool and, you know, to a guy at his level, he does not have to talk to me, but him being there, talking to me, being there for me, means a lot to me.",
+      "start_seconds": 375,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "social_post": "Koa Peat says Miles Bridges and Dylan Brooks have been great mentors, sharing tips and advice as he adjusts to the NBA.",
+      "team": "Phoenix Suns"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

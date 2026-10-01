@@ -15,37 +15,34 @@
     {
       "rank": 1,
       "speaker": "J.B. Bickerstaff",
-      "speaker_confidence": "named",
-      "team": "Detroit Pistons",
+      "timestamp": "06:31",
+      "summary_phrase": "J.B. Bickerstaff says Kevin Knox is prioritizing full health to ensure he can play at full speed.",
+      "names_mentioned": [],
+      "excerpt": "Talent doesn't matter if you can't get on the floor",
+      "quote": "The most important thing is that he is healthy. Talent doesn't matter if you can't get on the floor, you can't do it at full speed. So I think he is taking the time to get 100% healthy. We have always got to be highly aware of what these guys are doing to make sure that they can play all 82 games or whatever it may be to the best of their abilities. So we always take that into consideration, but we know his talent level and if he is healthy, we know he can have a huge impact on the team.",
       "start_seconds": 391,
       "end_seconds": 420,
-      "gemini_start_seconds": 391,
-      "gemini_end_seconds": 420,
-      "timestamp_source": "gemini-approx",
-      "text": "The most important thing is that he is healthy. Talent doesn't matter if you can't get on the floor, you can't do it at full speed. So I think he is taking the time to get 100% healthy. We have always got to be highly aware of what these guys are doing to make sure that they can play all 82 games or whatever it may be to the best of their abilities. So we always take that into consideration, but we know his talent level and if he is healthy, we know he can have a huge impact on the team.",
-      "pull_quote": "Talent doesn't matter if you can't get on the floor",
+      "speaker_confidence": "named",
       "news_score": 9,
-      "names_mentioned": [],
-      "news_angle": "J.B. Bickerstaff says Kevin Knox is prioritizing full health to ensure he can play at full speed.",
-      "social_post": "J.B. Bickerstaff on Kevin Knox's injury recovery. Talent doesn't matter if you can't get on the floor, you can't do it at full speed. So I think he is taking the time to get 100% healthy."
+      "social_post": "J.B. Bickerstaff on Kevin Knox's injury recovery. Talent doesn't matter if you can't get on the floor, you can't do it at full speed. So I think he is taking the time to get 100% healthy.",
+      "team": "Detroit Pistons"
     },
     {
       "rank": 2,
       "speaker": "J.B. Bickerstaff",
-      "speaker_confidence": "named",
-      "team": "Detroit Pistons",
+      "timestamp": "07:16",
+      "summary_phrase": "J.B. Bickerstaff is exploring small-ball lineups with John Collins at the five.",
+      "names_mentioned": [],
+      "excerpt": "there are lineups that we can play with him at the five",
+      "quote": "We will do what the versatility allows us to do and there are lineups that we can play with him at the five and being able to play in that type of spacing. So we are here to explore all of it, see what works best for the entire group and then we will put that on the floor.",
       "start_seconds": 436,
       "end_seconds": 458,
-      "gemini_start_seconds": 436,
-      "gemini_end_seconds": 458,
-      "timestamp_source": "gemini-approx",
-      "text": "We will do what the versatility allows us to do and there are lineups that we can play with him at the five and being able to play in that type of spacing. So we are here to explore all of it, see what works best for the entire group and then we will put that on the floor.",
-      "pull_quote": "there are lineups that we can play with him at the five",
+      "speaker_confidence": "named",
       "news_score": 7,
-      "names_mentioned": [],
-      "news_angle": "J.B. Bickerstaff is exploring small-ball lineups with John Collins at the five.",
-      "social_post": "J.B. Bickerstaff says the Pistons are exploring lineups with John Collins at the five to take advantage of his spacing."
+      "social_post": "J.B. Bickerstaff says the Pistons are exploring lineups with John Collins at the five to take advantage of his spacing.",
+      "team": "Detroit Pistons"
     }
   ],
-  "caption_status": "blocked"
+  "caption_status": "blocked",
+  "format": "ytq-1"
 }

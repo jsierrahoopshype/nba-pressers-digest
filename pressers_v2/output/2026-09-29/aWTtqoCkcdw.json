@@ -23,17 +23,19 @@
     {
       "rank": 1,
       "speaker": "Kenrich Williams",
-      "speaker_confidence": "named",
-      "team": "Oklahoma City Thunder",
-      "start_seconds": 11,
-      "end_seconds": 32,
-      "text": "With media day, it is my fifth season, fifth media day. I am excited for it. I think everybody is excited for media day, being back around each other. I am super excited. But I got my rookie here, B. Going to have a great year. Miss you guys. See you guys very soon. Let's do it.",
-      "pull_quote": "I am excited for it. I think everybody is excited for media day",
+      "timestamp": "00:11",
+      "summary_phrase": "Kenrich Williams expresses excitement for his fifth season with the Oklahoma City Thunder.",
       "names_mentioned": [
         "B"
       ],
-      "news_angle": "Kenrich Williams expresses excitement for his fifth season with the Oklahoma City Thunder.",
-      "social_post": "Kenrich Williams is ready for his fifth season with the Thunder. He says he is excited for media day and being back around the team."
+      "excerpt": "I am excited for it. I think everybody is excited for media day",
+      "quote": "With media day, it is my fifth season, fifth media day. I am excited for it. I think everybody is excited for media day, being back around each other. I am super excited. But I got my rookie here, B. Going to have a great year. Miss you guys. See you guys very soon. Let's do it.",
+      "start_seconds": 11,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "social_post": "Kenrich Williams is ready for his fifth season with the Thunder. He says he is excited for media day and being back around the team.",
+      "team": "Oklahoma City Thunder"
     }
-  ]
+  ],
+  "format": "ytq-1"
 }

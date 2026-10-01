@@ -15,37 +15,34 @@
     {
       "rank": 1,
       "speaker": "Royce O'Neale",
-      "speaker_confidence": "named",
-      "team": "Charlotte Hornets",
+      "timestamp": "00:44",
+      "summary_phrase": "Royce O'Neale praises the development of his teammate Grayson Allen.",
+      "names_mentioned": [],
+      "excerpt": "His decision making, playmaking has all taken the next step.",
+      "quote": "He has grown a lot. I think coming in he was drafted when he was in Utah. We got a year and a half together. Going to Phoenix, we were together for two and a half years and then being traded here. But I think just over time his shooting has gotten a lot better. His decision making, playmaking has all taken the next step. Last year that was an underrated part of his games. I think just each year he keeps getting better and better and keep building on everything that he has.",
       "start_seconds": 44,
       "end_seconds": 73,
-      "gemini_start_seconds": 44,
-      "gemini_end_seconds": 73,
-      "timestamp_source": "gemini-approx",
-      "text": "He has grown a lot. I think coming in he was drafted when he was in Utah. We got a year and a half together. Going to Phoenix, we were together for two and a half years and then being traded here. But I think just over time his shooting has gotten a lot better. His decision making, playmaking has all taken the next step. Last year that was an underrated part of his games. I think just each year he keeps getting better and better and keep building on everything that he has.",
-      "pull_quote": "His decision making, playmaking has all taken the next step.",
+      "speaker_confidence": "named",
       "news_score": 7,
-      "names_mentioned": [],
-      "news_angle": "Royce O'Neale praises the development of his teammate Grayson Allen.",
-      "social_post": "Royce O'Neale says Grayson Allen has taken a major step forward in his game, noting that his decision making and playmaking have improved significantly over the years."
+      "social_post": "Royce O'Neale says Grayson Allen has taken a major step forward in his game, noting that his decision making and playmaking have improved significantly over the years.",
+      "team": "Charlotte Hornets"
     },
     {
       "rank": 2,
       "speaker": "Royce O'Neale",
-      "speaker_confidence": "named",
-      "team": "Charlotte Hornets",
+      "timestamp": "01:45",
+      "summary_phrase": "Royce O'Neale discusses the team's focus on simulating high-pressure game situations during training camp.",
+      "names_mentioned": [],
+      "excerpt": "Want to treat it like it is a real game in training camp",
+      "quote": "It is big time. Going into the season there is going to be a lot of adversity every game. Want to treat it like it is a real game in training camp and I think those small little things that coaches trying to implement, make distractions, keeping us focused, staying locked in and really focusing on ourselves and not worried about the outside.",
       "start_seconds": 105,
       "end_seconds": 126,
-      "gemini_start_seconds": 105,
-      "gemini_end_seconds": 126,
-      "timestamp_source": "gemini-approx",
-      "text": "It is big time. Going into the season there is going to be a lot of adversity every game. Want to treat it like it is a real game in training camp and I think those small little things that coaches trying to implement, make distractions, keeping us focused, staying locked in and really focusing on ourselves and not worried about the outside.",
-      "pull_quote": "Want to treat it like it is a real game in training camp",
+      "speaker_confidence": "named",
       "news_score": 6,
-      "names_mentioned": [],
-      "news_angle": "Royce O'Neale discusses the team's focus on simulating high-pressure game situations during training camp.",
-      "social_post": "Royce O'Neale says the team is using training camp to simulate end of game situations, focusing on staying locked in and ignoring outside distractions to prepare for the adversity of the regular season."
+      "social_post": "Royce O'Neale says the team is using training camp to simulate end of game situations, focusing on staying locked in and ignoring outside distractions to prepare for the adversity of the regular season.",
+      "team": "Charlotte Hornets"
     }
   ],
-  "caption_status": "blocked"
+  "caption_status": "blocked",
+  "format": "ytq-1"
 }
