@@ -1,6 +1,8 @@
 # NBA Pressers — 2026-09-30
 
-## Yaxel Lendeborg's Warriors Media Day Vlog 👋 — *Golden State Warriors*
+## Press conferences
+
+### Yaxel Lendeborg's Warriors Media Day Vlog 👋 — *Golden State Warriors*
 
 Source: [https://www.youtube.com/watch?v=-RVFB1Uu9QM](https://www.youtube.com/watch?v=-RVFB1Uu9QM)
 
@@ -14,33 +16,7 @@ Yaxel Lendeborg: "I'm going to be the most entertaining playing guy on the floor
 
 ---
 
-## Cavs Training Camp &#124; Donovan Mitchell Media Availability &#124; 09.30.2026 — *Cleveland Cavaliers*
-
-Source: [https://www.youtube.com/watch?v=2BEq-YZUF8E](https://www.youtube.com/watch?v=2BEq-YZUF8E)
-
-_Speakers identified: Donovan Mitchell_
-
-**1. Donovan Mitchell (Cleveland Cavaliers) — "The biggest thing for myself is continue to be a good leader." — Donovan Mitchell says he is focused on leadership and attention to detail after his first conference finals appearance.** [03:27](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=207s)
-
-Donovan Mitchell: "The biggest thing for myself is continue to be a good leader. Making the conference finals for my first time in my whole career, obviously it is a step in the right direction. So double down on the habits, understand the details are so small, the margins are so small, and really paying attention to every little thing, every little rebound, defensive stop, turnover, shot, anything. I think that is what is next for myself and the group."
-
-[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=207s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=207s)
-
-**2. Donovan Mitchell (Cleveland Cavaliers) — "He is really good and a big piece for us for sure." — Donovan Mitchell praises Mario for his strength and ability to make plays.** [04:10](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=250s)
-
-Donovan Mitchell: "**Mario** is talented. He is strong, very strong, gets downhill, can defend, can hold his own in the paint, and also make plays. You saw today what he was able to do in practice, being able to get downhill, being able to knock down shots. He is really good and a big piece for us for sure."
-
-[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=250s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=250s)
-
-**3. Donovan Mitchell (Cleveland Cavaliers) — "Adding a guy like Peyton changes us in a major way." — Donovan Mitchell says adding Peyton and Jaylen Tyson improves the team's defensive versatility.** [09:06](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=546s)
-
-Donovan Mitchell: "I think the biggest thing is our length, our versatility. Adding a guy like **Peyton** changes us in a major way. Obviously you have **Jaylen Tyson** on the perimeter as well, even **Mario**. Just our size, our athleticism, being able to implement different coverages, different schemes, I think will definitely be able to help us come down the stretch, not be so one track minded defensively."
-
-[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=546s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=546s)
-
----
-
-## 2026-27 Training Camp Media Availability 🎙️ &#124; Coach Nurse — *Philadelphia 76ers*
+### 2026-27 Training Camp Media Availability 🎙️ &#124; Coach Nurse — *Philadelphia 76ers*
 
 Source: [https://www.youtube.com/watch?v=5y8bZQ2S9dw](https://www.youtube.com/watch?v=5y8bZQ2S9dw)
 
@@ -60,7 +36,7 @@ Nick Nurse: "Recently I do not feel like I have been able to get into my bag of 
 
 ---
 
-## Thumbs Up For Baylor's Scheierman's 3rd Media Day 👍 — *Boston Celtics*
+### Thumbs Up For Baylor's Scheierman's 3rd Media Day 👍 — *Boston Celtics*
 
 Source: [https://www.youtube.com/watch?v=CiGFQ-Y20gQ](https://www.youtube.com/watch?v=CiGFQ-Y20gQ)
 
@@ -86,7 +62,7 @@ Baylor Scheierman: "I don't know. I think maybe a little bit. But at the same ti
 
 ---
 
-## Training Camp Media Availability (9/30/26) &#124; LA Clippers — *LA Clippers*
+### Training Camp Media Availability (9/30/26) &#124; LA Clippers — *LA Clippers*
 
 Source: [https://www.youtube.com/watch?v=CsuRUASq1GM](https://www.youtube.com/watch?v=CsuRUASq1GM)
 
@@ -112,7 +88,7 @@ Terance Mann: "One thing I learned about **Keaton** that he processes things ver
 
 ---
 
-## Pete Nance Media Availability &#124; 09.30.26 — *Milwaukee Bucks*
+### Pete Nance Media Availability &#124; 09.30.26 — *Milwaukee Bucks*
 
 Source: [https://www.youtube.com/watch?v=FDELf-YtVVE](https://www.youtube.com/watch?v=FDELf-YtVVE)
 
@@ -138,7 +114,7 @@ Pete Nance: "I think just a lot more competitive. You know, I think we have got 
 
 ---
 
-## Denver Nuggets Training Camp Day Two &#124; Practice Media Availability — *Denver Nuggets*
+### Denver Nuggets Training Camp Day Two &#124; Practice Media Availability — *Denver Nuggets*
 
 Source: [https://www.youtube.com/watch?v=GiW_DtkHs9U](https://www.youtube.com/watch?v=GiW_DtkHs9U)
 
@@ -188,7 +164,7 @@ Marvin Bagley III: "I'm getting it, I'm picking it up. You know, that was part o
 
 ---
 
-## Ja Morant Media Availability &#124; Sept. 30, 2026 &#124; Portland Trail Blazers — *Portland Trail Blazers*
+### Ja Morant Media Availability &#124; Sept. 30, 2026 &#124; Portland Trail Blazers — *Portland Trail Blazers*
 
 Source: [https://www.youtube.com/watch?v=H1Biu63PL3Q](https://www.youtube.com/watch?v=H1Biu63PL3Q)
 
@@ -214,7 +190,7 @@ Ja Morant: "I have been this year for me, honestly no disrespect to them, I have
 
 ---
 
-## Cavs Training Camp &#124; Kenny Atkinson Media Availability &#124; 09.30.2026 — *Cleveland Cavaliers*
+### Cavs Training Camp &#124; Kenny Atkinson Media Availability &#124; 09.30.2026 — *Cleveland Cavaliers*
 
 Source: [https://www.youtube.com/watch?v=HygtN3BGpow](https://www.youtube.com/watch?v=HygtN3BGpow)
 
@@ -234,7 +210,7 @@ Kenny Atkinson: "I wish we had **Jose** as our third point guard. You know, **Jo
 
 ---
 
-## Oso Ighodaro Training Camp Media Availability &#124; Phoenix Suns &#124; 9-30-26 — *Phoenix Suns*
+### Oso Ighodaro Training Camp Media Availability &#124; Phoenix Suns &#124; 9-30-26 — *Phoenix Suns*
 
 Source: [https://www.youtube.com/watch?v=IlnsxRILmyU](https://www.youtube.com/watch?v=IlnsxRILmyU)
 
@@ -266,27 +242,7 @@ Oso Ighodaro: "It is almost more competitive because we are not so focused on br
 
 ---
 
-## Cavs Training Camp &#124; James Harden Media Availability &#124; 09.30.2026 — *Cleveland Cavaliers*
-
-Source: [https://www.youtube.com/watch?v=J5unk3vEQmk](https://www.youtube.com/watch?v=J5unk3vEQmk)
-
-_Speakers identified: James Harden_
-
-**1. James Harden (Cleveland Cavaliers) — "we are in the right direction" — James Harden says teammates Mario and Peyton are looking good in training camp.** [01:58](https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s)
-
-James Harden: "**Mario** has been looking good for this past few weeks. Today he looked really good. **Peyton** has looked good so putting everything together obviously it is going to take some time but we are in the right direction. They will definitely help us. Definitely going to help us."
-
-[https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s)
-
-**2. James Harden (Cleveland Cavaliers) — "who he is now as a player fits with the NBA is now" — James Harden praises the growth and versatility of a young teammate.** [04:59](https://www.youtube.com/watch?v=J5unk3vEQmk&t=299s)
-
-James Harden: "I think it is confidence. As a young player he was probably trying to find himself, find what works, what does not work. What probably made him confident in that situation as far as his team was not the direction the team was trying to go so he had to come overseas and find himself and I think who he is now as a player fits with the NBA is now. Big strong guard who can get downhill, can shoot it, can pass it, who is very versatile. So he has been playing all summer, he looks really good and hopefully that can translate all year long to what we need."
-
-[https://www.youtube.com/watch?v=J5unk3vEQmk&t=299s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=299s)
-
----
-
-## Head Coach Jordan Ott Training Camp Media Availability &#124; Phoenix Suns &#124; 9-30-26 — *Phoenix Suns*
+### Head Coach Jordan Ott Training Camp Media Availability &#124; Phoenix Suns &#124; 9-30-26 — *Phoenix Suns*
 
 Source: [https://www.youtube.com/watch?v=KB7Jy-QZ0Yc](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc)
 
@@ -306,7 +262,7 @@ Jordan Ott: "I'm not going to go down that path. The ball is going to be in his 
 
 ---
 
-## Mike Conley's First Media Day As A Celtic ☘️ — *Boston Celtics*
+### Mike Conley's First Media Day As A Celtic ☘️ — *Boston Celtics*
 
 Source: [https://www.youtube.com/watch?v=Lb8mtRB7PCs](https://www.youtube.com/watch?v=Lb8mtRB7PCs)
 
@@ -338,7 +294,7 @@ Mike Conley: "**Joe**'s great. He honestly, he just keeps you engaged and on you
 
 ---
 
-## 2026 Hornets Training Camp Media Availability: Coach Charles Lee — *Charlotte Hornets*
+### 2026 Hornets Training Camp Media Availability: Coach Charles Lee — *Charlotte Hornets*
 
 Source: [https://www.youtube.com/watch?v=NK8otOPzrAw](https://www.youtube.com/watch?v=NK8otOPzrAw)
 
@@ -364,7 +320,7 @@ Charles Lee: "It was perfect at the end of the practice, just like at the end of
 
 ---
 
-## Catching Up With Jayson Tatum at Media Day 🗣️ — *Boston Celtics*
+### Catching Up With Jayson Tatum at Media Day 🗣️ — *Boston Celtics*
 
 Source: [https://www.youtube.com/watch?v=SnBE7ajrbhw](https://www.youtube.com/watch?v=SnBE7ajrbhw)
 
@@ -390,7 +346,7 @@ Jayson Tatum: "I spent obviously a lot of time on the bench, right? And sitting 
 
 ---
 
-## 2026 Training Camp Media Availability &#124; Coach J.B. Bickerstaff l 09.30.26 — *Detroit Pistons*
+### 2026 Training Camp Media Availability &#124; Coach J.B. Bickerstaff l 09.30.26 — *Detroit Pistons*
 
 Source: [https://www.youtube.com/watch?v=Ubuv6MuJwNE](https://www.youtube.com/watch?v=Ubuv6MuJwNE)
 
@@ -422,7 +378,7 @@ J.B. Bickerstaff: "It's great. And that's the thing with **Trajan** is he's open
 
 ---
 
-## 2026-27 Training Camp Media Availability 🎙️ &#124; Tyrese Maxey — *Philadelphia 76ers*
+### 2026-27 Training Camp Media Availability 🎙️ &#124; Tyrese Maxey — *Philadelphia 76ers*
 
 Source: [https://www.youtube.com/watch?v=_eFAZb37nTI](https://www.youtube.com/watch?v=_eFAZb37nTI)
 
@@ -454,27 +410,7 @@ Tyrese Maxey: "It unlocks everything. It unlocks like me being a catch and shoot
 
 ---
 
-## Caleb Wilson: My First Media Day — *Chicago Bulls*
-
-Source: [https://www.youtube.com/watch?v=auzyc8y-uNI](https://www.youtube.com/watch?v=auzyc8y-uNI)
-
-_Speakers identified: Caleb Wilson_
-
-**1. Caleb Wilson (Chicago Bulls) — "I'm really excited to be here and excited to be a Bull." — Caleb Wilson expresses excitement for his first training camp with the Chicago Bulls.** [01:46](https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s)
-
-Caleb Wilson: "Kind of feels surreal, you know. But it's here now, so I'm excited for it. You know, training camp starting tomorrow, so it's all just coming at me fast, but I'm really excited to be here and excited to be a Bull. Excited for this year."
-
-[https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s)
-
-**2. Caleb Wilson (Chicago Bulls) — "It's my first time getting in the NBA game and playing the United Center" — Caleb Wilson discusses his upcoming first NBA game at the United Center.** [02:31](https://www.youtube.com/watch?v=auzyc8y-uNI&t=151s)
-
-Caleb Wilson: "In two weeks, I mean, we'll be tipping off and it'll be real. It's my first time getting in the NBA game and playing the United Center and hopefully I'll be here for a really long time, but I know all the nerves and stuff will go away once the ball gets tipped up in there."
-
-[https://www.youtube.com/watch?v=auzyc8y-uNI&t=151s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=151s)
-
----
-
-## Micah Nori Media Availability &#124; 2026 Training Camp, Day 2 &#124; Portland Trail Blazers — *Portland Trail Blazers*
+### Micah Nori Media Availability &#124; 2026 Training Camp, Day 2 &#124; Portland Trail Blazers — *Portland Trail Blazers*
 
 Source: [https://www.youtube.com/watch?v=bY-ObZ1oRbM](https://www.youtube.com/watch?v=bY-ObZ1oRbM)
 
@@ -500,7 +436,7 @@ Micah Nori: "We kind of tried to do is keep those eight nine guys on the same te
 
 ---
 
-## 2026 Hornets Training Camp Media Availability: Royce O'Neale — *Charlotte Hornets*
+### 2026 Hornets Training Camp Media Availability: Royce O'Neale — *Charlotte Hornets*
 
 Source: [https://www.youtube.com/watch?v=dTIqV_ofEAU](https://www.youtube.com/watch?v=dTIqV_ofEAU)
 
@@ -520,7 +456,7 @@ Royce O'Neale: "It is big time. Going into the season there is going to be a lot
 
 ---
 
-## Bogoljub Marković Media Availability &#124; 09.30.26 — *Milwaukee Bucks*
+### Bogoljub Marković Media Availability &#124; 09.30.26 — *Milwaukee Bucks*
 
 Source: [https://www.youtube.com/watch?v=eLZoNxBUWso](https://www.youtube.com/watch?v=eLZoNxBUWso)
 
@@ -540,7 +476,7 @@ Bogoljub Marković: "The toughness, the energy we have, the most important thing
 
 ---
 
-## 2026 Training Camp Media Availability &#124; Tolu Smith l 09.30.26 — *Detroit Pistons*
+### 2026 Training Camp Media Availability &#124; Tolu Smith l 09.30.26 — *Detroit Pistons*
 
 Source: [https://www.youtube.com/watch?v=i3drrWmZ-dg](https://www.youtube.com/watch?v=i3drrWmZ-dg)
 
@@ -560,7 +496,7 @@ Tolu Smith: "Me and **B-Ball** we are always in the gym. He is always talking to
 
 ---
 
-## Training Camp Media Availability &#124; September 30, 2026 &#124; OKC Thunder — *Oklahoma City Thunder*
+### Training Camp Media Availability &#124; September 30, 2026 &#124; OKC Thunder — *Oklahoma City Thunder*
 
 Source: [https://www.youtube.com/watch?v=j-uvoZmj6jM](https://www.youtube.com/watch?v=j-uvoZmj6jM)
 
@@ -592,7 +528,7 @@ Mark Daigneault: "Congrats to him on an unbelievable first ballot career. He's o
 
 ---
 
-## Devin Booker Training Camp Media Availability &#124; Phoenix Suns &#124; 9-30-26 — *Phoenix Suns*
+### Devin Booker Training Camp Media Availability &#124; Phoenix Suns &#124; 9-30-26 — *Phoenix Suns*
 
 Source: [https://www.youtube.com/watch?v=k01uKx8LAdg](https://www.youtube.com/watch?v=k01uKx8LAdg)
 
@@ -630,33 +566,7 @@ Devin Booker: "Taking pride on that end, especially coming into the league, I ha
 
 ---
 
-## Chase Down Podcast Live, presented by fubo: Media Day Reactions! — *Cleveland Cavaliers*
-
-Source: [https://www.youtube.com/watch?v=p7o-S3hmoD4](https://www.youtube.com/watch?v=p7o-S3hmoD4)
-
-_Speakers identified: J.B. Bickerstaff, Donovan Mitchell, Jalen Tyson_
-
-**1. J.B. Bickerstaff (Cleveland Cavaliers) — "He can snatch it really high off the glass and get out and run" — J.B. Bickerstaff highlights Evan Mobley's improved transition play and ball screening ability.** [12:20](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
-
-J.B. Bickerstaff: "There is a lot more stuff in coach's offense where we want to rebound, push and get out. We see this just watching him play and being around the guys is rebound, push, get out. And now we are into transition a lot faster. He can snatch it really high off the glass and get out and run and now we have our guards sprinting down the lane and now we are making plays out of that. The thing that we saw in Denver a lot, which he has gotten really good at is he becomes the ball screener and he slips out of it and he makes plays out of that."
-
-[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
-
-**2. Donovan Mitchell (Cleveland Cavaliers) — "This is probably the most time I have spent with my teammates outside of the actual season" — Donovan Mitchell emphasizes the increased team bonding during this offseason.** [40:09](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
-
-Donovan Mitchell: "This is probably the most time I have spent with my teammates outside of the actual season in my career. Just from training camp, from OTAs, from being in New York at the open and working out there and then going to Phoenix for **James**'s birthday and working out there. And the crazy part is none of us went to Summer League. So like the fact that we are still spending time that guys coming out for my wedding, right guys came to Louisville, right like there is so many different things and so many different parts and the fact that when you have a guy like **James**, you know looking back at it, it is pretty wild that halfway through the year we just made a complete flip to the offense, flip the change everything."
-
-[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
-
-**3. Jalen Tyson (Cleveland Cavaliers) — "I am coming back at 6-9 260. So that definitely adds to the versatility" — Jalen Tyson discusses his physical transformation and increased versatility.** [53:45](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
-
-Jalen Tyson: "The second thing is I was drafted, a man at 6-6 190. You know, I remember looking like a child, even in Summer League, although I was, you know, super talented, but I get my ways and all that, but I wasn't really like physique in NBA and now I am coming back at 6-9 260. So that definitely adds to the versatility the team can use, that **Kenny** can use, obviously my teammates, spoke about, spoke about, **James** and you know, it is very useful that they have these, you know, type of players that can help them on a court with multiple things, screen for them, get open for them and all that stuff."
-
-[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
-
----
-
-## 2026 Hornets Training Camp Media Availability: Grayson Allen — *Charlotte Hornets*
+### 2026 Hornets Training Camp Media Availability: Grayson Allen — *Charlotte Hornets*
 
 Source: [https://www.youtube.com/watch?v=sdWRKso9lQQ](https://www.youtube.com/watch?v=sdWRKso9lQQ)
 
@@ -670,7 +580,7 @@ Grayson Allen: "He is great. He is a team guy. His game is trying to make the ot
 
 ---
 
-## Taylor Jenkins Media Availability &#124; 09.30.26 — *Milwaukee Bucks*
+### Taylor Jenkins Media Availability &#124; 09.30.26 — *Milwaukee Bucks*
 
 Source: [https://www.youtube.com/watch?v=ux2EgEkaRjw](https://www.youtube.com/watch?v=ux2EgEkaRjw)
 
@@ -696,7 +606,7 @@ Taylor Jenkins: "**Cormac** has been in our system already for a year. Obviously
 
 ---
 
-## Donovan Clingan Media Availability &#124; Sept. 30, 2026 &#124; Portland Trail Blazers — *Portland Trail Blazers*
+### Donovan Clingan Media Availability &#124; Sept. 30, 2026 &#124; Portland Trail Blazers — *Portland Trail Blazers*
 
 Source: [https://www.youtube.com/watch?v=wgERaxfXfkM](https://www.youtube.com/watch?v=wgERaxfXfkM)
 
@@ -719,6 +629,116 @@ Donovan Clingan: "I feel great. My body, my conditioning, my wind. I mean I feel
 Donovan Clingan: "I love them. I mean we have a great great group of centers. Before training camp started, I took **Brandon** and **Micah** golf and yeah, I mean we're starting to bond and you know it's I feel like we have a really good group and a lot of guys that really get along well together."
 
 [https://www.youtube.com/watch?v=wgERaxfXfkM&t=200s](https://www.youtube.com/watch?v=wgERaxfXfkM&t=200s)
+
+## Podcasts & shows
+
+### Chase Down Podcast Live, presented by fubo: Media Day Reactions! — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=p7o-S3hmoD4](https://www.youtube.com/watch?v=p7o-S3hmoD4)
+
+_Speakers identified: J.B. Bickerstaff, Donovan Mitchell, Jalen Tyson_
+
+**1. J.B. Bickerstaff (Cleveland Cavaliers) — "He can snatch it really high off the glass and get out and run" — J.B. Bickerstaff highlights Evan Mobley's improved transition play and ball screening ability.** [12:20](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
+
+J.B. Bickerstaff: "There is a lot more stuff in coach's offense where we want to rebound, push and get out. We see this just watching him play and being around the guys is rebound, push, get out. And now we are into transition a lot faster. He can snatch it really high off the glass and get out and run and now we have our guards sprinting down the lane and now we are making plays out of that. The thing that we saw in Denver a lot, which he has gotten really good at is he becomes the ball screener and he slips out of it and he makes plays out of that."
+
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
+
+**2. Donovan Mitchell (Cleveland Cavaliers) — "This is probably the most time I have spent with my teammates outside of the actual season" — Donovan Mitchell emphasizes the increased team bonding during this offseason.** [40:09](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
+
+Donovan Mitchell: "This is probably the most time I have spent with my teammates outside of the actual season in my career. Just from training camp, from OTAs, from being in New York at the open and working out there and then going to Phoenix for **James**'s birthday and working out there. And the crazy part is none of us went to Summer League. So like the fact that we are still spending time that guys coming out for my wedding, right guys came to Louisville, right like there is so many different things and so many different parts and the fact that when you have a guy like **James**, you know looking back at it, it is pretty wild that halfway through the year we just made a complete flip to the offense, flip the change everything."
+
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
+
+**3. Jalen Tyson (Cleveland Cavaliers) — "I am coming back at 6-9 260. So that definitely adds to the versatility" — Jalen Tyson discusses his physical transformation and increased versatility.** [53:45](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
+
+Jalen Tyson: "The second thing is I was drafted, a man at 6-6 190. You know, I remember looking like a child, even in Summer League, although I was, you know, super talented, but I get my ways and all that, but I wasn't really like physique in NBA and now I am coming back at 6-9 260. So that definitely adds to the versatility the team can use, that **Kenny** can use, obviously my teammates, spoke about, spoke about, **James** and you know, it is very useful that they have these, you know, type of players that can help them on a court with multiple things, screen for them, get open for them and all that stuff."
+
+[https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
+
+## One-offs
+
+### Cavs Training Camp &#124; Donovan Mitchell Media Availability &#124; 09.30.2026 — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=2BEq-YZUF8E](https://www.youtube.com/watch?v=2BEq-YZUF8E)
+
+_Speakers identified: Donovan Mitchell_
+
+**1. Donovan Mitchell (Cleveland Cavaliers) — "The biggest thing for myself is continue to be a good leader." — Donovan Mitchell says he is focused on leadership and attention to detail after his first conference finals appearance.** [02:14](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=134s)
+
+Donovan Mitchell: "The biggest thing for myself is continue to be a good leader. Understand that making the conference finals for my first time in my whole career, obviously it is a step in the right direction. So double down on the habits, understand the details are so small, the margins are so small and really paying attention to every little thing, every little rebound, defensive stop, turnover, shot, anything. I think that is what is next for myself and the group."
+
+[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=134s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=134s)
+
+**2. Donovan Mitchell (Cleveland Cavaliers) — "He is a big piece for us for sure." — Donovan Mitchell praises Mario's strength and playmaking ability during training camp.** [02:50](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=170s)
+
+Donovan Mitchell: "**Mario** is talented. He is strong, very strong, gets downhill, can defend, can hold his own in the paint and also make plays. You saw today what he was able to do in practice, being able to get downhill, being able to knock down shots. He is a big piece for us for sure."
+
+[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=170s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=170s)
+
+**3. Donovan Mitchell (Cleveland Cavaliers) — "I think Michael Jordan for sure." — Donovan Mitchell names Michael Jordan as the greatest player of all time.** [04:26](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=266s)
+
+Donovan Mitchell: "At all time, I think **Michael Jordan**. I think **Michael Jordan** for sure."
+
+[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=266s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=266s)
+
+**4. Donovan Mitchell (Cleveland Cavaliers) — "Adding a guy like Peyton changes us in a major way." — Donovan Mitchell believes the additions of Peyton and Jaylen Tyson will improve the Cavaliers' defensive versatility.** [05:52](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=352s)
+
+Donovan Mitchell: "The biggest thing is our length, our versatility. Adding a guy like **Peyton** changes us in a major way. Obviously you have **Jaylen Tyson** on the perimeter as well, even **Mario**. Just our size, our athleticism, being able to implement different coverages, different schemes, I think will definitely be able to help us come down the stretch. Not be so one track minded defensively and obviously having **Evan** and **Jaylen**, they do their thing back there for us as always and they lead us. But I think with the addition of **Peyton** and **Jaylen Tyson**, I think those two are going to elevate us from the perimeter spot."
+
+[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=352s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=352s)
+
+**5. Donovan Mitchell (Cleveland Cavaliers) — "I am not saying he is going to come out and shoot 40 percent." — Donovan Mitchell discusses his mentorship of Nate and his progress in shooting and defense.** [08:58](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=538s)
+
+Donovan Mitchell: "Him and I talked a lot this summer. I have sent him a lot of grabs that kind of show different things about where he was in his career compared to other guys in the league and there were some things that were motivating and some things that were like you are doing a really good job here. Understanding you got to have that relationship and build on that. I think for him, he came into camp one of our best defenders naturally obviously, but I think he is taking that to another level. His shooting, his confidence in his shooting is obviously huge and I am not saying he is going to come out and shoot 40 percent. I told him we are not expecting you to come out and shoot 40 percent this year, that takes time and progression. But just to see how much time and effort he is put into his jump shooting is definitely an improvement."
+
+[https://www.youtube.com/watch?v=2BEq-YZUF8E&t=538s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=538s)
+
+---
+
+### Cavs Training Camp &#124; James Harden Media Availability &#124; 09.30.2026 — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=J5unk3vEQmk](https://www.youtube.com/watch?v=J5unk3vEQmk)
+
+_Speakers identified: James Harden_
+
+**1. James Harden (Cleveland Cavaliers) — "Mario has been looking good for this past few weeks." — James Harden says Mario and Payton have been looking good in training camp.** [01:38](https://www.youtube.com/watch?v=J5unk3vEQmk&t=98s)
+
+James Harden: "**Mario** has been looking good for this past few weeks. Today he looked really good. **Payton** has looked good, so trying to put everything together. Obviously it is going to take some time, but we are in the right direction."
+
+[https://www.youtube.com/watch?v=J5unk3vEQmk&t=98s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=98s)
+
+**2. James Harden (Cleveland Cavaliers) — "I think who he is now as a player fits with the NBA is now." — James Harden praises a young player for his development and versatility.** [04:16](https://www.youtube.com/watch?v=J5unk3vEQmk&t=256s)
+
+James Harden: "I think it is confidence. As a young player he was probably trying to find himself, find what works, what doesn't work. What made him confident in that situation as far as his team, wasn't the direction the team was trying to go. So he had to come overseas and find himself, and I think who he is now as a player fits with the NBA is now. Big strong guard who can get downhill, can shoot it, can pass it, was very versatile."
+
+[https://www.youtube.com/watch?v=J5unk3vEQmk&t=256s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=256s)
+
+**3. James Harden (Cleveland Cavaliers) — "we are going to need him and count on him to play more minutes." — James Harden says Jaylen will be counted on for more minutes this season.** [04:38](https://www.youtube.com/watch?v=J5unk3vEQmk&t=278s) (approx.)
+
+James Harden: "I was just trying to build a relationship with **Jaylen** because he does have the skills and the tools to make a lot of money in this league. I think he just needs a little guidance at some times to what can get him over the top. So anything where I can see I can help him at, I try to be there for him. So I think first for me is just building a relationship and then some times where he gets out of pocket a little bit, I can reel him back in. I can reel him back in. But I think he had a little experience last year and then this year we are going to need him and count on him to play more minutes."
+
+[https://www.youtube.com/watch?v=J5unk3vEQmk&t=278s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=278s)
+
+---
+
+### Caleb Wilson: My First Media Day — *Chicago Bulls*
+
+Source: [https://www.youtube.com/watch?v=auzyc8y-uNI](https://www.youtube.com/watch?v=auzyc8y-uNI)
+
+_Speakers identified: Caleb Wilson_
+
+**1. Caleb Wilson (Chicago Bulls) — "I'm really excited to be here and excited to be a Bull." — Caleb Wilson expresses excitement for his first NBA training camp with the Chicago Bulls.** [01:12](https://www.youtube.com/watch?v=auzyc8y-uNI&t=72s)
+
+Caleb Wilson: "It kind of feels surreal, you know. But it's here now, so I'm excited for it. You know, training camp starting tomorrow, so it's all just coming at me fast, but I'm really excited to be here and excited to be a Bull. Excited for this year."
+
+[https://www.youtube.com/watch?v=auzyc8y-uNI&t=72s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=72s)
+
+**2. Caleb Wilson (Chicago Bulls) — "It's my first time getting in an NBA game and playing in the United Center" — Caleb Wilson discusses his anticipation for his first NBA game at the United Center.** [02:14](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
+
+Caleb Wilson: "In two weeks, I mean, we'll be tipping off and it'll be real. It's my first time getting in an NBA game and playing in the United Center and hopefully I'll be here for a really long time. But I know all the nerves and stuff will go away once the ball gets tipped up in there."
+
+[https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
 
 ---
 

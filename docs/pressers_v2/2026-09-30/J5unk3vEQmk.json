@@ -5,7 +5,8 @@
   "channel_team": "Cleveland Cavaliers",
   "published": "2026-09-30T18:46:47Z",
   "duration_seconds": 359,
-  "processed_at": "2026-09-30T19:52:07Z",
+  "processed_at": "2026-10-01T10:52:42Z",
+  "run_id": "2026-10-01T1049Z-manual-1049",
   "model": "gemini-3.1-flash-lite",
   "speakers_seen": [
     "James Harden"
@@ -16,29 +17,68 @@
       "speaker": "James Harden",
       "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
-      "start_seconds": 118,
-      "end_seconds": 154,
-      "text": "Mario has been looking good for this past few weeks. Today he looked really good. Peyton has looked good so putting everything together obviously it is going to take some time but we are in the right direction. They will definitely help us. Definitely going to help us.",
-      "pull_quote": "we are in the right direction",
+      "start_seconds": 98,
+      "end_seconds": 113,
+      "gemini_start_seconds": 79,
+      "gemini_end_seconds": 94,
+      "timestamp_source": "gemini-refined",
+      "text": "Mario has been looking good for this past few weeks. Today he looked really good. Payton has looked good, so trying to put everything together. Obviously it is going to take some time, but we are in the right direction.",
+      "pull_quote": "Mario has been looking good for this past few weeks.",
+      "news_score": 6,
       "names_mentioned": [
         "Mario",
-        "Peyton"
+        "Payton"
       ],
-      "news_angle": "James Harden says teammates Mario and Peyton are looking good in training camp.",
-      "social_post": "James Harden says Mario and Peyton have been looking good in training camp, and he believes the team is moving in the right direction."
+      "news_angle": "James Harden says Mario and Payton have been looking good in training camp.",
+      "social_post": "James Harden says Mario and Payton have been looking good in training camp, and the team is moving in the right direction.",
+      "refine_window": [
+        19,
+        139
+      ]
     },
     {
       "rank": 2,
       "speaker": "James Harden",
       "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
-      "start_seconds": 299,
-      "end_seconds": 359,
-      "text": "I think it is confidence. As a young player he was probably trying to find himself, find what works, what does not work. What probably made him confident in that situation as far as his team was not the direction the team was trying to go so he had to come overseas and find himself and I think who he is now as a player fits with the NBA is now. Big strong guard who can get downhill, can shoot it, can pass it, who is very versatile. So he has been playing all summer, he looks really good and hopefully that can translate all year long to what we need.",
-      "pull_quote": "who he is now as a player fits with the NBA is now",
+      "start_seconds": 256,
+      "end_seconds": 283,
+      "gemini_start_seconds": 218,
+      "gemini_end_seconds": 245,
+      "timestamp_source": "gemini-refined",
+      "text": "I think it is confidence. As a young player he was probably trying to find himself, find what works, what doesn't work. What made him confident in that situation as far as his team, wasn't the direction the team was trying to go. So he had to come overseas and find himself, and I think who he is now as a player fits with the NBA is now. Big strong guard who can get downhill, can shoot it, can pass it, was very versatile.",
+      "pull_quote": "I think who he is now as a player fits with the NBA is now.",
+      "news_score": 7,
       "names_mentioned": [],
-      "news_angle": "James Harden praises the growth and versatility of a young teammate.",
-      "social_post": "James Harden says a young teammate has grown into a versatile, big strong guard who fits perfectly in the modern NBA."
+      "news_angle": "James Harden praises a young player for his development and versatility.",
+      "social_post": "James Harden says a young player on the team has developed into a versatile guard who fits the modern NBA.",
+      "refine_window": [
+        158,
+        278
+      ]
+    },
+    {
+      "rank": 3,
+      "speaker": "James Harden",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 278,
+      "end_seconds": 318,
+      "gemini_start_seconds": 278,
+      "gemini_end_seconds": 318,
+      "timestamp_source": "gemini-approx",
+      "text": "I was just trying to build a relationship with Jaylen because he does have the skills and the tools to make a lot of money in this league. I think he just needs a little guidance at some times to what can get him over the top. So anything where I can see I can help him at, I try to be there for him. So I think first for me is just building a relationship and then some times where he gets out of pocket a little bit, I can reel him back in. I can reel him back in. But I think he had a little experience last year and then this year we are going to need him and count on him to play more minutes.",
+      "pull_quote": "we are going to need him and count on him to play more minutes.",
+      "news_score": 8,
+      "names_mentioned": [
+        "Jaylen"
+      ],
+      "news_angle": "James Harden says Jaylen will be counted on for more minutes this season.",
+      "social_post": "James Harden says he is mentoring Jaylen and expects him to play more minutes this season."
     }
-  ]
+  ],
+  "is_one_off": true,
+  "content_type": "oneoff",
+  "content_type_source": "extra_videos",
+  "caption_status": "skipped (blocked earlier this run: RequestBlocked: YouTube is blocking requests from your IP.)"
 }

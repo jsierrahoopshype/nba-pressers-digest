@@ -5,7 +5,8 @@
   "channel_team": "Cleveland Cavaliers",
   "published": "2026-09-30T18:46:36Z",
   "duration_seconds": 817,
-  "processed_at": "2026-09-30T19:57:23Z",
+  "processed_at": "2026-10-01T10:50:27Z",
+  "run_id": "2026-10-01T1049Z-manual-1049",
   "model": "gemini-3.1-flash-lite",
   "speakers_seen": [
     "Donovan Mitchell"
@@ -16,45 +17,119 @@
       "speaker": "Donovan Mitchell",
       "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
-      "start_seconds": 207,
-      "end_seconds": 237,
-      "text": "The biggest thing for myself is continue to be a good leader. Making the conference finals for my first time in my whole career, obviously it is a step in the right direction. So double down on the habits, understand the details are so small, the margins are so small, and really paying attention to every little thing, every little rebound, defensive stop, turnover, shot, anything. I think that is what is next for myself and the group.",
+      "start_seconds": 134,
+      "end_seconds": 164,
+      "gemini_start_seconds": 127,
+      "gemini_end_seconds": 157,
+      "timestamp_source": "gemini-refined",
+      "text": "The biggest thing for myself is continue to be a good leader. Understand that making the conference finals for my first time in my whole career, obviously it is a step in the right direction. So double down on the habits, understand the details are so small, the margins are so small and really paying attention to every little thing, every little rebound, defensive stop, turnover, shot, anything. I think that is what is next for myself and the group.",
       "pull_quote": "The biggest thing for myself is continue to be a good leader.",
+      "news_score": 7,
       "names_mentioned": [],
       "news_angle": "Donovan Mitchell says he is focused on leadership and attention to detail after his first conference finals appearance.",
-      "social_post": "Donovan Mitchell says he is focused on leadership and attention to detail after his first conference finals appearance. The biggest thing for myself is continue to be a good leader."
+      "social_post": "Donovan Mitchell says his focus this season is on leadership and attention to detail, after reaching the conference finals for the first time in his career.",
+      "refine_window": [
+        67,
+        187
+      ]
     },
     {
       "rank": 2,
       "speaker": "Donovan Mitchell",
       "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
-      "start_seconds": 250,
-      "end_seconds": 282,
-      "text": "Mario is talented. He is strong, very strong, gets downhill, can defend, can hold his own in the paint, and also make plays. You saw today what he was able to do in practice, being able to get downhill, being able to knock down shots. He is really good and a big piece for us for sure.",
-      "pull_quote": "He is really good and a big piece for us for sure.",
+      "start_seconds": 170,
+      "end_seconds": 204,
+      "gemini_start_seconds": 170,
+      "gemini_end_seconds": 204,
+      "timestamp_source": "gemini-refined",
+      "text": "Mario is talented. He is strong, very strong, gets downhill, can defend, can hold his own in the paint and also make plays. You saw today what he was able to do in practice, being able to get downhill, being able to knock down shots. He is a big piece for us for sure.",
+      "pull_quote": "He is a big piece for us for sure.",
+      "news_score": 6,
       "names_mentioned": [
         "Mario"
       ],
-      "news_angle": "Donovan Mitchell praises Mario for his strength and ability to make plays.",
-      "social_post": "Donovan Mitchell praises Mario for his strength and ability to make plays. He is really good and a big piece for us for sure."
+      "news_angle": "Donovan Mitchell praises Mario's strength and playmaking ability during training camp.",
+      "social_post": "Donovan Mitchell is impressed with Mario during training camp, calling him a strong, talented player who can defend and make plays.",
+      "refine_window": [
+        110,
+        230
+      ]
     },
     {
       "rank": 3,
       "speaker": "Donovan Mitchell",
       "speaker_confidence": "named",
       "team": "Cleveland Cavaliers",
-      "start_seconds": 546,
-      "end_seconds": 583,
-      "text": "I think the biggest thing is our length, our versatility. Adding a guy like Peyton changes us in a major way. Obviously you have Jaylen Tyson on the perimeter as well, even Mario. Just our size, our athleticism, being able to implement different coverages, different schemes, I think will definitely be able to help us come down the stretch, not be so one track minded defensively.",
+      "start_seconds": 266,
+      "end_seconds": 271,
+      "gemini_start_seconds": 223,
+      "gemini_end_seconds": 228,
+      "timestamp_source": "gemini-refined",
+      "text": "At all time, I think Michael Jordan. I think Michael Jordan for sure.",
+      "pull_quote": "I think Michael Jordan for sure.",
+      "news_score": 4,
+      "names_mentioned": [
+        "Michael Jordan"
+      ],
+      "news_angle": "Donovan Mitchell names Michael Jordan as the greatest player of all time.",
+      "social_post": "Donovan Mitchell says Michael Jordan is the greatest player of all time.",
+      "refine_window": [
+        163,
+        283
+      ]
+    },
+    {
+      "rank": 4,
+      "speaker": "Donovan Mitchell",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 352,
+      "end_seconds": 403,
+      "gemini_start_seconds": 346,
+      "gemini_end_seconds": 397,
+      "timestamp_source": "gemini-refined",
+      "text": "The biggest thing is our length, our versatility. Adding a guy like Peyton changes us in a major way. Obviously you have Jaylen Tyson on the perimeter as well, even Mario. Just our size, our athleticism, being able to implement different coverages, different schemes, I think will definitely be able to help us come down the stretch. Not be so one track minded defensively and obviously having Evan and Jaylen, they do their thing back there for us as always and they lead us. But I think with the addition of Peyton and Jaylen Tyson, I think those two are going to elevate us from the perimeter spot.",
       "pull_quote": "Adding a guy like Peyton changes us in a major way.",
+      "news_score": 8,
       "names_mentioned": [
         "Peyton",
         "Jaylen Tyson",
-        "Mario"
+        "Mario",
+        "Evan",
+        "Jaylen"
       ],
-      "news_angle": "Donovan Mitchell says adding Peyton and Jaylen Tyson improves the team's defensive versatility.",
-      "social_post": "Donovan Mitchell says adding Peyton and Jaylen Tyson improves the team's defensive versatility. Adding a guy like Peyton changes us in a major way."
+      "news_angle": "Donovan Mitchell believes the additions of Peyton and Jaylen Tyson will improve the Cavaliers' defensive versatility.",
+      "social_post": "Donovan Mitchell says the additions of Peyton and Jaylen Tyson will elevate the Cavaliers' defense and bring more versatility to the team.",
+      "refine_window": [
+        286,
+        406
+      ]
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Mitchell",
+      "speaker_confidence": "named",
+      "team": "Cleveland Cavaliers",
+      "start_seconds": 538,
+      "end_seconds": 582,
+      "gemini_start_seconds": 538,
+      "gemini_end_seconds": 582,
+      "timestamp_source": "gemini-refined",
+      "text": "Him and I talked a lot this summer. I have sent him a lot of grabs that kind of show different things about where he was in his career compared to other guys in the league and there were some things that were motivating and some things that were like you are doing a really good job here. Understanding you got to have that relationship and build on that. I think for him, he came into camp one of our best defenders naturally obviously, but I think he is taking that to another level. His shooting, his confidence in his shooting is obviously huge and I am not saying he is going to come out and shoot 40 percent. I told him we are not expecting you to come out and shoot 40 percent this year, that takes time and progression. But just to see how much time and effort he is put into his jump shooting is definitely an improvement.",
+      "pull_quote": "I am not saying he is going to come out and shoot 40 percent.",
+      "news_score": 7,
+      "names_mentioned": [],
+      "news_angle": "Donovan Mitchell discusses his mentorship of Nate and his progress in shooting and defense.",
+      "social_post": "Donovan Mitchell says he has been working with Nate on his game, noting that Nate is becoming a better defender and is putting in the work to improve his jump shot.",
+      "refine_window": [
+        478,
+        598
+      ]
     }
-  ]
+  ],
+  "is_one_off": true,
+  "content_type": "oneoff",
+  "content_type_source": "extra_videos",
+  "caption_status": "skipped (blocked earlier this run: RequestBlocked: YouTube is blocking requests from your IP.)"
 }

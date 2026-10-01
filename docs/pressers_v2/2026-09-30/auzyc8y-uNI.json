@@ -5,7 +5,8 @@
   "channel_team": "Chicago Bulls",
   "published": "2026-09-30T16:09:20Z",
   "duration_seconds": 180,
-  "processed_at": "2026-09-30T19:53:47Z",
+  "processed_at": "2026-10-01T10:50:17Z",
+  "run_id": "2026-10-01T1049Z-manual-1049",
   "model": "gemini-3.1-flash-lite",
   "speakers_seen": [
     "Caleb Wilson"
@@ -16,26 +17,46 @@
       "speaker": "Caleb Wilson",
       "speaker_confidence": "named",
       "team": "Chicago Bulls",
-      "start_seconds": 106,
-      "end_seconds": 134,
-      "text": "Kind of feels surreal, you know. But it's here now, so I'm excited for it. You know, training camp starting tomorrow, so it's all just coming at me fast, but I'm really excited to be here and excited to be a Bull. Excited for this year.",
+      "start_seconds": 72,
+      "end_seconds": 82,
+      "gemini_start_seconds": 66,
+      "gemini_end_seconds": 76,
+      "timestamp_source": "gemini-refined",
+      "text": "It kind of feels surreal, you know. But it's here now, so I'm excited for it. You know, training camp starting tomorrow, so it's all just coming at me fast, but I'm really excited to be here and excited to be a Bull. Excited for this year.",
       "pull_quote": "I'm really excited to be here and excited to be a Bull.",
+      "news_score": 5,
       "names_mentioned": [],
-      "news_angle": "Caleb Wilson expresses excitement for his first training camp with the Chicago Bulls.",
-      "social_post": "Caleb Wilson says he is excited to be a Bull as he prepares for his first training camp starting tomorrow."
+      "news_angle": "Caleb Wilson expresses excitement for his first NBA training camp with the Chicago Bulls.",
+      "social_post": "Caleb Wilson is ready for his first NBA training camp with the Chicago Bulls. He says it feels surreal to be here and he is excited to be a Bull.",
+      "refine_window": [
+        6,
+        126
+      ]
     },
     {
       "rank": 2,
       "speaker": "Caleb Wilson",
       "speaker_confidence": "named",
       "team": "Chicago Bulls",
-      "start_seconds": 151,
-      "end_seconds": 180,
-      "text": "In two weeks, I mean, we'll be tipping off and it'll be real. It's my first time getting in the NBA game and playing the United Center and hopefully I'll be here for a really long time, but I know all the nerves and stuff will go away once the ball gets tipped up in there.",
-      "pull_quote": "It's my first time getting in the NBA game and playing the United Center",
+      "start_seconds": 134,
+      "end_seconds": 144,
+      "gemini_start_seconds": 134,
+      "gemini_end_seconds": 144,
+      "timestamp_source": "gemini-refined",
+      "text": "In two weeks, I mean, we'll be tipping off and it'll be real. It's my first time getting in an NBA game and playing in the United Center and hopefully I'll be here for a really long time. But I know all the nerves and stuff will go away once the ball gets tipped up in there.",
+      "pull_quote": "It's my first time getting in an NBA game and playing in the United Center",
+      "news_score": 6,
       "names_mentioned": [],
-      "news_angle": "Caleb Wilson discusses his upcoming first NBA game at the United Center.",
-      "social_post": "Caleb Wilson is looking forward to his first NBA game at the United Center in two weeks, saying he expects his nerves to go away once the ball is tipped."
+      "news_angle": "Caleb Wilson discusses his anticipation for his first NBA game at the United Center.",
+      "social_post": "Caleb Wilson is looking forward to his first NBA game at the United Center in two weeks. He says he knows the nerves will go away once the ball gets tipped up.",
+      "refine_window": [
+        74,
+        180
+      ]
     }
-  ]
+  ],
+  "is_one_off": true,
+  "content_type": "oneoff",
+  "content_type_source": "extra_videos",
+  "caption_status": "blocked: RequestBlocked: YouTube is blocking requests from your IP."
 }
