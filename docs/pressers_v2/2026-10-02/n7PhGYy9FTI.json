@@ -1,0 +1,110 @@
+{
+  "video_title": "2026 Hornets Training Camp Media Availability: Dennis Schröder",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Dennis Schröder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dennis Schröder",
+      "speakers": [
+        "Unidentified speaker",
+        "Dennis Schröder"
+      ],
+      "timestamp": "00:08",
+      "summary_phrase": "Dennis Schröder on reuniting with Charles Lee and Jeff Peterson",
+      "names_mentioned": [
+        "Charles Lee",
+        "Jeff Peterson"
+      ],
+      "excerpt": "Me and Charles Lee go way back, Jeff Peterson go way back from the Atlanta days.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Dennis, we haven't actually got a chance to talk to you since you were traded to the Hornets a couple months ago. Just overall, what has been your reaction coming here, reuniting with Charles Lee and joining this team?"
+        },
+        {
+          "speaker": "Dennis Schröder",
+          "text": "Me and Charles Lee go way back, Jeff Peterson go way back from the Atlanta days, 2013. So, positive, positive energy. Coaching staff is really, really positive about what we try to accomplish. Players took me in really, really easy, made the transition really easy for me on the court. Off the court, we still got to get settled with the family and all, but overall, I'm really happy to be here and it's been amazing."
+        }
+      ],
+      "start_seconds": 8,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dennis Schroder says reuniting with Charles Lee and Jeff Peterson in Charlotte has been a positive experience. He noted the coaching staff is very positive about their goals and his teammates have made his transition easy.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 2,
+      "speaker": "Dennis Schröder",
+      "speakers": [
+        "Unidentified speaker",
+        "Dennis Schröder"
+      ],
+      "timestamp": "01:35",
+      "summary_phrase": "Dennis Schröder on his approach to joining a new team",
+      "names_mentioned": [],
+      "excerpt": "I've been here 14 seasons in the NBA, and really, really grateful to be in the NBA.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "For you, when you've played for a few teams in the NBA, what is the most important thing for you to keep in mind when you're trying to immerse yourself into a new team, new system?"
+        },
+        {
+          "speaker": "Dennis Schröder",
+          "text": "Just be who I am. I've been here 14 seasons in the NBA, and really, really grateful to be in the NBA, of course. But to experience different organizations, different teammates, and I think it's great. I take all the positives from it and try to help the team win basketball games."
+        }
+      ],
+      "start_seconds": 95,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Entering his 14th NBA season, Dennis Schroder says his approach to joining a new team is simple: Just be who I am. He aims to take the positives from his experience across different organizations to help the Hornets win games.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 3,
+      "speaker": "Dennis Schröder",
+      "speakers": [
+        "Unidentified speaker",
+        "Dennis Schröder"
+      ],
+      "timestamp": "02:12",
+      "summary_phrase": "Dennis Schröder on mentoring young Hornets players",
+      "names_mentioned": [
+        "Hannes",
+        "Christian Anderson"
+      ],
+      "excerpt": "Hannes, I mean, he is a hell of a player first of all, got a lot of talent.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Hornets obviously have two rookies that I'm sure you have some familiarity with in Hannes and Christian, both being German. Just what is your background with them, have you talked to them at all, and how cool is it for you to have some of these younger guys that eventually be on that national team, hopefully here in Charlotte with you?"
+        },
+        {
+          "speaker": "Dennis Schröder",
+          "text": "Hannes, I mean, he is a hell of a player first of all, got a lot of talent. It's going to help us I think this season as well and in the future. Didn't have a lot of communication before, but I mean now, I got to know him, talk a little bit German, that's great as well. Christian Anderson, I practiced with him training camp with the national team this past summer, last summer I think. And yeah, so I try to help them have a great season, to fight through it, it's a lot of ups and downs, and yeah, then we go from there."
+        }
+      ],
+      "start_seconds": 132,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dennis Schroder is ready to mentor German rookies Hannes and Christian in Charlotte. He called Hannes a hell of a player and says he plans to help both young guys fight through the ups and downs of their first season.",
+      "team": "Charlotte Hornets"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "n7PhGYy9FTI",
+  "url": "https://www.youtube.com/watch?v=n7PhGYy9FTI",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-02T19:50:13Z",
+  "duration_seconds": 197,
+  "processed_at": "2026-10-02T23:47:12Z",
+  "run_id": "2026-10-02T2346Z-20utc",
+  "is_one_off": false
+}
