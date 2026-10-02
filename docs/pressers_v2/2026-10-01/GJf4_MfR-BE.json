@@ -1,0 +1,91 @@
+{
+  "video_title": "2026-27 Training Camp Media Availability 🎙️ | Coach Nurse | 10.01.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "03:21",
+      "summary_phrase": "Nick Nurse on Buddy Hield's potential as an off-the-bench scorer",
+      "names_mentioned": [
+        "Buddy Hield"
+      ],
+      "excerpt": "he might be a guy to come in and spark that",
+      "quote": "I think Buddy Hield is maybe a prototypical off-the-bench scoring guy. As soon as he comes in, if for whatever reason the shots aren't going in or the offense is out of rhythm, he might be a guy to come in and spark that. He's got a very similar, the deep threes, the off the pin-downs, doesn't need much time. He's been great, it's been interesting to have him. I always say that you never really know these guys until you have them and he's really a good role player. You can tell he's smart, he knows what he's doing, he plays both ends. He'll make the open shot, that's been great to see.",
+      "text_blocks": [],
+      "start_seconds": 201,
+      "end_seconds": 245,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse sees Buddy Hield as a prototypical off the bench scorer for the Sixers. Nurse says Hield is a smart player who knows what he is doing and provides a spark when the offense is out of rhythm.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:14",
+      "summary_phrase": "Nick Nurse on Andre Drummond's rebounding and willingness to take open shots",
+      "names_mentioned": [
+        "Andre Drummond"
+      ],
+      "excerpt": "Andre Drummond just plays really hard rebounds and if they kick one out to him wide open",
+      "quote": "Andre Drummond just plays really hard rebounds and if they kick one out to him wide open, he's going to take it, which is perfect.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 264,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse likes what he sees from Andre Drummond so far in camp, noting that he plays hard on the glass and is willing to take the open shot when it comes to him.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "06:07",
+      "summary_phrase": "Nick Nurse on LeBron James's role as an offense creator",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "I consider LeBron James a great offense creator",
+      "quote": "I consider LeBron James a great offense creator. I don't necessarily mean score, I just mean creator and a table setter. I think that's where I could see, if it isn't bringing it up and starting, it's probably going to be first pass anyway to the wing and then we get into our actions and he's seeing what's there and he's creating offense for others.",
+      "text_blocks": [],
+      "start_seconds": 367,
+      "end_seconds": 392,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nick Nurse views LeBron James as a great offense creator and table setter. Nurse says he sees LeBron operating as a playmaker who initiates actions and creates opportunities for others.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "09:52",
+      "summary_phrase": "Nick Nurse on Mo Bamba's practice status and preseason availability",
+      "names_mentioned": [
+        "Mo Bamba"
+      ],
+      "excerpt": "Mo Bamba is not practicing. I think they got a pretty solid date on Mo Bamba.",
+      "quote": "Mo Bamba is not practicing. I think they got a pretty solid date on Mo Bamba. I just can't quite remember what it is right now. Next couple of days we evaluate. I think he's going to be ready for some couple of the preseason games for sure. That's kind of our goal, I think.",
+      "text_blocks": [],
+      "start_seconds": 592,
+      "end_seconds": 613,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Mo Bamba is currently not practicing. Nick Nurse says the team is evaluating his status but expects Bamba to be ready for some preseason games.",
+      "team": "Philadelphia 76ers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "GJf4_MfR-BE",
+  "url": "https://www.youtube.com/watch?v=GJf4_MfR-BE",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-01T22:12:37Z",
+  "duration_seconds": 732,
+  "processed_at": "2026-10-01T23:53:42Z",
+  "run_id": "2026-10-01T2352Z-20utc",
+  "is_one_off": false
+}
