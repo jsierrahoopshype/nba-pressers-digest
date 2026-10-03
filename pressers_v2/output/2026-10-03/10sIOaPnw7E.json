@@ -1,0 +1,102 @@
+{
+  "video_title": "Koa Peat Fan Fest Media Availability | 10-2-26",
+  "speakers_seen": [
+    "Koa Peat",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Koa Peat",
+      "timestamp": "00:03",
+      "summary_phrase": "Koa Peat on team chemistry and upcoming season debut",
+      "names_mentioned": [],
+      "excerpt": "I feel like it's been gelling great. You guys will see on Monday.",
+      "quote": "I feel like it's been gelling great. You guys will see on Monday.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 8,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Koa Peat says the team chemistry is gelling well ahead of his debut on Monday. He told reporters you guys will see on Monday.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 2,
+      "speaker": "Koa Peat",
+      "timestamp": "00:07",
+      "summary_phrase": "Koa Peat on leaning on veteran teammates for transition advice",
+      "names_mentioned": [
+        "Koa Peat"
+      ],
+      "excerpt": "I talk to him a lot. Being a rookie last year, he's just giving me pointers.",
+      "quote": "I talk to him a lot. Being a rookie last year, he's just giving me pointers here and there, and it's been good.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Koa Peat says he is leaning on his veteran teammates for advice as he navigates his transition to the league. He noted that they are giving him pointers here and there.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 3,
+      "speaker": "Koa Peat",
+      "timestamp": "00:46",
+      "summary_phrase": "Koa Peat on community involvement and giving back",
+      "names_mentioned": [],
+      "excerpt": "Me and my family, it's been something we've done since I was a young kid.",
+      "quote": "I feel like I've made a difference already. Me and my family, it's been something we've done since I was a young kid, is give back to the community. It's something I'm big on, especially being from here. Even if I wasn't from here, I'd still be giving back to the community. It's something that brings me joy to my heart.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Koa Peat discusses the importance of community involvement saying it is something that brings joy to his heart to give back.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 4,
+      "speaker": "Koa Peat",
+      "timestamp": "01:10",
+      "summary_phrase": "Koa Peat on the experience of playing for the Phoenix Suns",
+      "names_mentioned": [],
+      "excerpt": "Today, just being a Sun, actually being on the team and going out in that arena, it's special.",
+      "quote": "I mean for sure. I've played in here a couple of times, but today, just being a Sun, actually being on the team and going out in that arena, it's special.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Koa Peat describes the experience of playing in the arena as a member of the Phoenix Suns as special.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 5,
+      "speaker": "Koa Peat",
+      "timestamp": "01:25",
+      "summary_phrase": "Koa Peat on the advantage of playing in his hometown",
+      "names_mentioned": [],
+      "excerpt": "I think it's a huge advantage, you know, I'm comfortable here.",
+      "quote": "I think it's a huge advantage, you know, I'm comfortable here. Living situation, everything like that, but you know, it kind of just makes on the court stuff easier.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Koa Peat believes playing in his hometown is a huge advantage that makes things on the court easier.",
+      "team": "Phoenix Suns"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "10sIOaPnw7E",
+  "url": "https://www.youtube.com/watch?v=10sIOaPnw7E",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-03T17:52:47Z",
+  "duration_seconds": 93,
+  "processed_at": "2026-10-03T17:56:25Z",
+  "run_id": "2026-10-03T1756Z-14utc",
+  "is_one_off": false
+}

@@ -2,6 +2,7 @@
 
 Clip manifest: [latest_clips.json](latest_clips.json)
 
+- [2026-10-03](2026-10-03/digest.md)
 - [2026-10-02](2026-10-02/digest.md)
 - [2026-10-01](2026-10-01/digest.md)
 - [2026-09-30](2026-09-30/digest.md)
