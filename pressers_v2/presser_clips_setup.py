@@ -28,6 +28,7 @@ a GitHub account or token: every download is a public file.
 
 import argparse
 import hashlib
+import http.client
 import json
 import os
 import plistlib
@@ -37,6 +38,7 @@ import subprocess
 import sys
 import tempfile
 import time
+import urllib.error
 import urllib.request
 import uuid
 from datetime import datetime, timezone
@@ -97,38 +99,77 @@ def _valid_download(name: str, body: bytes) -> bool:
     return bool(body)
 
 
+CORE_FILES = ("make_presser_clips.py", "caption_align.py", "reframe.py", "presser_clips_setup.py")
+UPDATE_TIMEOUTS = (60, 120, 180)        # seconds per attempt: each retry waits longer for GitHub
+UPDATE_RETRY_WAITS = (2, 5)             # pause before the 2nd and 3rd attempt
+UPDATE_WARNING = "Couldn't update, running the previous version; check your internet or rerun the installer."
+
+
+def _download(name: str) -> bytes:
+    """One app file from GitHub, tried up to 3 times with a longer timeout
+    each time when the connection fails or times out. A plain "not found"
+    or other HTTP answer isn't retried."""
+    url = f"{mc.REPO_RAW}/{name}"
+    for attempt, timeout in enumerate(UPDATE_TIMEOUTS):
+        if attempt:
+            time.sleep(UPDATE_RETRY_WAITS[min(attempt - 1, len(UPDATE_RETRY_WAITS) - 1)])
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "nba-presser-clips/3.1"})
+            with urllib.request.urlopen(req, timeout=timeout, context=mc._ssl_context()) as resp:
+                return resp.read()
+        except urllib.error.HTTPError:
+            raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError, http.client.IncompleteRead):
+            if attempt == len(UPDATE_TIMEOUTS) - 1:
+                raise
+    raise RuntimeError("unreachable")
+
+
 def update(quiet: bool = True) -> int:
     """Download the latest app files; replace each one only if it downloaded
     completely and is valid (Python that compiles; the face model with its
-    known checksum). Offline or GitHub down: keep the current ones. Then
-    add any package a new version needs and make sure the retired automatic
-    mode is off."""
-    changed = 0
-    for name in UPDATE_FILES:
-        target = APP_DIR / name
-        tmp = target.with_name(target.name + ".new")
+    known checksum). Offline or GitHub down: keep the current ones, and say
+    so clearly when a core file couldn't be refreshed. Then, whatever
+    happened above, check the pinned packages and make sure the retired
+    automatic mode is off."""
+    changed, failed = 0, []
+    try:
+        for name in UPDATE_FILES:
+            target = APP_DIR / name
+            tmp = target.with_name(target.name + ".new")
+            try:
+                body = _download(name)
+                if not _valid_download(name, body):
+                    raise ValueError("failed the integrity check")
+                if target.is_file() and target.read_bytes() == body:
+                    continue
+                target.parent.mkdir(parents=True, exist_ok=True)
+                tmp.write_bytes(body)                       # closed before the move
+                mc.with_retry(os.replace, str(tmp), str(target))
+                changed += 1
+            except Exception as e:
+                failed.append((name, f"{type(e).__name__}: {e}"[:200]))
+                if not quiet:
+                    say(f"  (could not update {name}: {type(e).__name__}; keeping the current copy)")
+            finally:
+                mc.remove_file(tmp)
+        if changed and not quiet:
+            say(f"  updated {changed} file(s)")
+        core = [(n, why) for n, why in failed if n in CORE_FILES]
+        if core:
+            say(f"[!] {UPDATE_WARNING}")
+            mc.log_line("setup-log.txt", f"update failed for {', '.join(n for n, _ in core)}: "
+                                         + "; ".join(f"{n}: {why}" for n, why in core))
+        elif failed:
+            mc.log_line("setup-log.txt", "update failed for " + "; ".join(f"{n}: {why}" for n, why in failed))
+    finally:
+        # the pins and the automatic-mode switch-off don't depend on the download
         try:
-            req = urllib.request.Request(f"{mc.REPO_RAW}/{name}", headers={"User-Agent": "nba-presser-clips/3.0"})
-            with urllib.request.urlopen(req, timeout=60, context=mc._ssl_context()) as resp:
-                body = resp.read()
-            if not _valid_download(name, body):
-                raise ValueError("failed the integrity check")
-            if target.is_file() and target.read_bytes() == body:
-                continue
-            target.parent.mkdir(parents=True, exist_ok=True)
-            tmp.write_bytes(body)                       # closed before the move
-            mc.with_retry(os.replace, str(tmp), str(target))
-            changed += 1
+            ensure_packages()
         except Exception as e:
-            if not quiet:
-                say(f"  (could not update {name}: {type(e).__name__}; keeping the current copy)")
-        finally:
-            mc.remove_file(tmp)
-    if changed and not quiet:
-        say(f"  updated {changed} file(s)")
-    ensure_packages()
-    if mc.load_settings(APP_DIR / "settings.json").get("auto_run"):
-        disable_auto()
+            mc.log_line("setup-log.txt", f"package check failed: {type(e).__name__}: {e}")
+        if mc.load_settings(APP_DIR / "settings.json").get("auto_run"):
+            disable_auto()
     return changed
 
 

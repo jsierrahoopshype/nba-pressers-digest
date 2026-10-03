@@ -223,3 +223,92 @@ class PinTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class UpdateReliabilityTests(unittest.TestCase):
+    """Self-update: 3 tries per file with longer timeouts, a clear warning
+    when a core file can't be refreshed, pins checked no matter what."""
+
+    class Resp:
+        def __init__(self, body):
+            self.body = body
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *a):
+            return False
+
+        def read(self):
+            return self.body
+
+    def run_update(self, urlopen):
+        said, pins = [], []
+        with tempfile.TemporaryDirectory() as tmp, tempfile.TemporaryDirectory() as app, \
+                mock.patch.dict(os.environ, {"NBA_PRESSER_APP_DIR": app}), \
+                mock.patch.object(setup_mod, "APP_DIR", Path(tmp)), \
+                mock.patch.object(setup_mod, "UPDATE_RETRY_WAITS", (0, 0)), \
+                mock.patch.object(setup_mod.urllib.request, "urlopen", urlopen), \
+                mock.patch.object(setup_mod, "say", said.append), \
+                mock.patch.object(setup_mod, "ensure_packages", lambda: pins.append(True)):
+            changed = setup_mod.update(quiet=False)
+            log_file = Path(app) / "logs" / "setup-log.txt"
+            log = log_file.read_text(encoding="utf-8") if log_file.exists() else ""
+            files = sorted(p.name for p in Path(tmp).rglob("*") if p.is_file())
+        return changed, said, pins, log, files
+
+    @staticmethod
+    def body_for(url: str) -> bytes:
+        name = url.split("/pressers_v2/", 1)[1]
+        if name == setup_mod.MODEL_FILE:
+            return (PV2 / name).read_bytes()
+        return b"print('ok')\n"
+
+    def test_a_flaky_connection_is_retried_with_longer_timeouts(self):
+        calls = {}
+
+        def flaky(req, timeout=None, **kw):
+            n = calls.setdefault(req.full_url, [])
+            n.append(timeout)
+            if len(n) < 3:
+                raise setup_mod.urllib.error.URLError(TimeoutError("timed out"))
+            return self.Resp(self.body_for(req.full_url))
+        changed, said, pins, log, _ = self.run_update(flaky)
+        self.assertEqual(changed, len(setup_mod.UPDATE_FILES))
+        self.assertTrue(all(t == list(setup_mod.UPDATE_TIMEOUTS) for t in calls.values()), calls)
+        self.assertFalse(any(setup_mod.UPDATE_WARNING in s for s in said))
+        self.assertEqual(pins, [True])
+
+    def test_core_file_failure_warns_logs_and_still_checks_the_pins(self):
+        def core_down(req, timeout=None, **kw):
+            if req.full_url.endswith("/make_presser_clips.py"):
+                raise TimeoutError("timed out")
+            return self.Resp(self.body_for(req.full_url))
+        changed, said, pins, log, files = self.run_update(core_down)
+        self.assertIn(f"[!] {setup_mod.UPDATE_WARNING}", said)
+        self.assertIn("update failed for make_presser_clips.py", log)
+        self.assertIn("TimeoutError", log)
+        self.assertNotIn("make_presser_clips.py", files)                  # the previous copy is left alone
+        self.assertEqual(changed, len(setup_mod.UPDATE_FILES) - 1)
+        self.assertEqual(pins, [True])
+
+    def test_everything_offline_still_checks_the_pins(self):
+        attempts = []
+
+        def offline(req, timeout=None, **kw):
+            attempts.append(req.full_url)
+            raise setup_mod.urllib.error.URLError("no internet")
+        changed, said, pins, log, _ = self.run_update(offline)
+        self.assertEqual(changed, 0)
+        self.assertEqual(len(attempts), 3 * len(setup_mod.UPDATE_FILES))
+        self.assertIn(f"[!] {setup_mod.UPDATE_WARNING}", said)
+        self.assertEqual(pins, [True])
+
+    def test_a_missing_file_is_not_retried(self):
+        attempts = []
+
+        def not_found(req, timeout=None, **kw):
+            attempts.append(req.full_url)
+            raise setup_mod.urllib.error.HTTPError(req.full_url, 404, "Not Found", {}, None)
+        self.run_update(not_found)
+        self.assertEqual(len(attempts), len(setup_mod.UPDATE_FILES))
