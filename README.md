@@ -2,6 +2,10 @@
 
 Automated pipeline to create daily video digests of the best moments from NBA team press conferences.
 
+> **Note:** this original pipeline's GitHub Actions workflow (`daily-digest.yml`) has been removed; the
+> scripts in `scripts/` are kept for reference and can still be run by hand. The pipeline that runs today
+> is [`pressers_v2/`](pressers_v2/README.md) (workflow `pressers-v2.yml`).
+
 ## Features
 
 - 📥 **Automatic ingestion** from all 30 NBA team YouTube channels
@@ -95,12 +99,10 @@ Go to Settings → Secrets → Actions and add:
 - `TWITTER_ACCESS_TOKEN`
 - `TWITTER_ACCESS_SECRET`
 
-### 2. Enable workflow
+### 2. Run it
 
-The workflow runs daily at 10 AM UTC. To trigger manually:
-1. Go to Actions tab
-2. Select "NBA Pressers Daily Digest"
-3. Click "Run workflow"
+The scheduled workflow for this pipeline has been removed. Run `python scripts/main.py` by hand
+(see Quick Start), or use the current pipeline in `pressers_v2/`.
 
 ### 3. Review and publish
 
@@ -190,7 +192,7 @@ The pipeline will use the original clip without overlays if this fails.
 nba-pressers-automation/
 ├── .github/
 │   └── workflows/
-│       └── daily-digest.yml    # GitHub Actions workflow
+│       └── pressers-v2*.yml    # GitHub Actions workflows (the current pipeline, pressers_v2/)
 ├── scripts/
 │   ├── main.py                 # Main orchestrator
 │   ├── ingest.py               # RSS feed ingestion

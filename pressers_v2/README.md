@@ -1,6 +1,6 @@
 # Pressers v2: press-conference quotes + clips
 
-Additive pipeline. The original `scripts/` folder and `daily-digest.yml` are untouched.
+The current pipeline. The original `scripts/` folder is kept as is; its workflow (`daily-digest.yml`) has been removed.
 
 Three times a day (06:15, 14:15, 20:15 UTC) GitHub Actions polls the 30 NBA team
 YouTube channels, keeps press conferences / postgame / pregame / media

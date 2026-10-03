@@ -1,6 +1,6 @@
 name: Pressers v2 (quotes + clips)
 
-# Additive pipeline. Does not touch scripts/ or daily-digest.yml.
+# The current pipeline (the original scripts/ pipeline's workflow has been removed).
 on:
   schedule:
     - cron: '15 6 * * *'   # 06:15 UTC: after overnight postgame pressers (8:15 Madrid summer)
