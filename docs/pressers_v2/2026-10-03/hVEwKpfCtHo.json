@@ -1,0 +1,106 @@
+{
+  "video_title": "2026-27 Blue x White Scrimmage Media Availability 🎙️ | Joel Embiid | 10.03.26",
+  "speakers_seen": [
+    "Joel Embiid"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joel Embiid",
+      "timestamp": "00:47",
+      "summary_phrase": "Joel Embiid on his evolving offensive role with new teammates",
+      "names_mentioned": [
+        "LeBron James",
+        "Jalen Brunson"
+      ],
+      "excerpt": "I can do everything on the basketball court, whether I'm at the top of the key, middle, left side.",
+      "quote": "I can do everything on the basketball court, whether I'm at the top of the key, middle, left side, right side, three-point line. So nothing changes. It's just about making sure everybody succeeds at the same time, and that's how we're going to have that success and that's how we're going to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 47,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Joel Embiid says his role remains unchanged despite new teammates. He emphasizes that his focus is on making sure everybody succeeds at the same time to ensure team success.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Joel Embiid",
+      "timestamp": "01:22",
+      "summary_phrase": "Joel Embiid on the team's transition offense and his role",
+      "names_mentioned": [],
+      "excerpt": "if we don't have anything, I'm the trailer guy and some of those times I'm probably going to be",
+      "quote": "If we don't have anything, I'm the trailer guy and some of those times I'm probably going to be the one where it's contesting and running ahead for quick post-up. So I think nothing changes. It's always been the same system, and then we just got more guys that like to play in transition and more ball-handlers, so it makes it a little easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 82,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Joel Embiid notes that the Sixers have more ball handlers and transition players this season, which makes the offensive system easier to execute.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Joel Embiid",
+      "timestamp": "02:20",
+      "summary_phrase": "Joel Embiid on Jalen Brunson's leadership and vocal presence",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "Jalen Brunson has been great. Second year, he's around a lot of great players, great people to learn from.",
+      "quote": "Jalen Brunson has been great. Second year, he's around a lot of great players, great people to learn from. He's been great, doing a great job leading, whether it's by example, with his voice. So, he's been amazing.",
+      "verbatim_original_language": "",
+      "start_seconds": 140,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Joel Embiid is impressed with Jalen Brunson, calling his leadership amazing. Embiid says Brunson has been doing a great job leading both by example and with his voice.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Joel Embiid",
+      "timestamp": "02:45",
+      "summary_phrase": "Joel Embiid on chemistry with Jalen Brunson from the Olympics",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "when you put a bunch of players together that have a high basketball IQ, it's going to be easy",
+      "quote": "Whether we have played together or not, I don't think it was going to matter because at the end of the day when you put a bunch of players together that have a high basketball IQ, it's going to be easy to figure it out. Both want to pass, make the right play, so I think it just helps the whole thing.",
+      "verbatim_original_language": "",
+      "start_seconds": 165,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Joel Embiid believes chemistry with Jalen Brunson will be seamless because they are both high IQ players who want to make the right play.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 5,
+      "speaker": "Joel Embiid",
+      "timestamp": "05:38",
+      "summary_phrase": "Joel Embiid on team sacrifice and efficiency",
+      "names_mentioned": [],
+      "excerpt": "Everybody keeps talking about sacrificing, but I don't really see that sacrificing. It's just being the best version",
+      "quote": "Everybody keeps talking about sacrificing, but I don't really see that sacrificing. It's just being the best version of yourself and I think when you put great players together, the standards you should have for yourself should be being more efficient because obviously you might get less touches, but you might get also more space. So what are you going to do with that space?",
+      "verbatim_original_language": "",
+      "start_seconds": 338,
+      "end_seconds": 363,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Joel Embiid pushes back on the narrative of sacrifice. He says it is about being the best version of yourself and becoming more efficient with the extra space that comes from playing with other great players.",
+      "team": "Philadelphia 76ers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "hVEwKpfCtHo",
+  "url": "https://www.youtube.com/watch?v=hVEwKpfCtHo",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-03T18:13:05Z",
+  "duration_seconds": 452,
+  "processed_at": "2026-10-03T23:03:47Z",
+  "run_id": "2026-10-03T2302Z-20utc",
+  "is_one_off": false
+}

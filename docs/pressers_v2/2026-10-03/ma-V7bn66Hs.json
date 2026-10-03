@@ -1,0 +1,101 @@
+{
+  "video_title": "Luke Kennard Training Camp Media Availability | 10-3-26",
+  "speakers_seen": [
+    "Luke Kennard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luke Kennard",
+      "timestamp": "00:26",
+      "summary_phrase": "Luke Kennard on the Suns' fast-paced offensive identity",
+      "names_mentioned": [],
+      "excerpt": "the way we're playing, the way we play together, the pace, the spacing, it's a fun way",
+      "quote": "The way we're playing, the way we play together, the pace, the spacing, it's a fun way to play. For me, it's just developing that connection with all the guys right now and how we like to play, what shots I like, the shots other guys like, and just a lot of different combinations we're going through right now. For me, it's just being a basketball player, getting a lot of shots up, being ready to shoot, and it's been a lot of fun to learn so far.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Luke Kennard is enjoying the Suns fast pace and spacing during training camp. He says the focus is on developing chemistry with his new teammates and learning their preferred spots on the floor.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 2,
+      "speaker": "Luke Kennard",
+      "timestamp": "01:24",
+      "summary_phrase": "Luke Kennard on finding his role within the Suns' offense",
+      "names_mentioned": [],
+      "excerpt": "finding a spot within this offense and playing off of guys, playing with the ball",
+      "quote": "Obviously, the three-point line, anywhere on the three-point line. I like the corners. I'm good anywhere. Any chance I can get up a shot from the three-point line, it's good. Obviously, a lot of teams are going to try to take that away from me, so finding a spot within this offense and playing off of guys, playing with the ball, more shots off the dribble, whether it's pick-and-roll, playing pitch action with some of the bigs with Man-Man and O. We've been really good at developing that connection, working together, and it's been good.",
+      "text_blocks": [],
+      "start_seconds": 84,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Luke Kennard expects teams to try and take away his three point shots this season. He is working on playing off the ball and creating shots off the dribble in pick and roll and pitch action sets.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 3,
+      "speaker": "Luke Kennard",
+      "timestamp": "02:12",
+      "summary_phrase": "Luke Kennard on the importance of spacing and screening",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "spacing is very, it obviously doesn't show up on like a box score, but being able to space",
+      "quote": "Spacing is very, it obviously doesn't show up on like a box score, but being able to space the floor and allowing guys just an extra, like this much more space, it can change everything in an offense. So I think for me, number one is being a good screener. I learned from some of the greats in the game, like Steph, for example. He's a great screener, and you don't see that a lot, but it's reasons why he gets open because he sets good screens and guys got to help. So I've been working a lot with Book and CG of, you know, when I'm with them, setting good screens, getting to space, getting open shots, and I think for me, just continuing to be that floor spacer for some of those guys to get to their spots and make plays, it can be really big for this offense.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Luke Kennard is studying Steph Curry to improve his screening. He says being a good screener is crucial for floor spacing and helping teammates like Devin Booker and Bradley Beal get to their spots.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 4,
+      "speaker": "Luke Kennard",
+      "timestamp": "03:15",
+      "summary_phrase": "Luke Kennard on his focus on balance, footwork, and speed",
+      "names_mentioned": [],
+      "excerpt": "it's just balance, footwork, and speed. I think obviously it's one of the strengths of my game",
+      "quote": "It's just balance, footwork, and speed. I think obviously it's one of the strengths of my game is to shoot, and teams know that now. Throughout my career, that's kind of what I've done, but the speed of getting a shot off is going to be big for me.",
+      "text_blocks": [],
+      "start_seconds": 195,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Luke Kennard says his focus this training camp is on balance, footwork, and increasing the speed of his shot release to counter how teams defend him.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 5,
+      "speaker": "Luke Kennard",
+      "timestamp": "05:46",
+      "summary_phrase": "Luke Kennard on the Suns' depth and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "we have a deep team. Just being here, seeing guys, and we still have, I mean Mark is out",
+      "quote": "It's a seamless fit, honestly. I'm having so much fun with what we're doing and learning the system, learning the guys, playing with them. It's been a really good camp, and I think this year we're going to have a lot of fun with how we play. The combinations we can throw out there anytime, we have a deep team. Just being here, seeing guys, and we still have, I mean Mark is out, but we have a really deep team which can play to our strengths and it's going to be exciting.",
+      "text_blocks": [],
+      "start_seconds": 346,
+      "end_seconds": 382,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Luke Kennard calls his fit with the Suns a seamless one. He believes the team has significant depth and versatility in the different combinations they can put on the floor.",
+      "team": "Phoenix Suns"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ma-V7bn66Hs",
+  "url": "https://www.youtube.com/watch?v=ma-V7bn66Hs",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-03T20:46:08Z",
+  "duration_seconds": 427,
+  "processed_at": "2026-10-03T23:03:35Z",
+  "run_id": "2026-10-03T2302Z-20utc",
+  "is_one_off": false
+}

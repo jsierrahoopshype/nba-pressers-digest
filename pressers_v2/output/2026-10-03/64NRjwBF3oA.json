@@ -1,0 +1,144 @@
+{
+  "video_title": "Training Camp Media Availability (10/03/26) | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Kawhi Leonard",
+    "Rui Hachimura"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:10",
+      "summary_phrase": "Tyronn Lue on Max Christie and Rui Hachimura's quick development",
+      "names_mentioned": [
+        "Max Christie",
+        "Rui Hachimura"
+      ],
+      "excerpt": "Max and Rui picked up everything pretty well and pretty easy.",
+      "quote": "Max and Rui picked up everything pretty well and pretty easy. I am excited to get those guys on the floor, see the things we can run for them, and see how comfortable they are running those things for them.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyronn Lue is impressed with the early development of Max Christie and Rui Hachimura, saying they picked up the system pretty well and he is excited to see what they can do on the floor.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:32",
+      "summary_phrase": "Tyronn Lue praises Rui Hachimura's offseason work ethic",
+      "names_mentioned": [
+        "Rui Hachimura"
+      ],
+      "excerpt": "This summer was huge growth. Seeing him be in all summer working on his body.",
+      "quote": "This summer was huge growth. Seeing him be in all summer working on his body, working on his toe, and just trying to get ready for the season. When you get a guy that caliber to come in all summer, not go home to Japan, but stay in LA, get his treatment, work on his body, that means a lot right there.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyronn Lue highlights Rui Hachimura's dedication this offseason, noting that Hachimura stayed in LA to work on his body and recovery instead of going home to Japan.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:03",
+      "summary_phrase": "Tyronn Lue on the team's search for a starting center",
+      "names_mentioned": [
+        "Isaiah Hartenstein",
+        "Anthony Davis",
+        "Devin Booker"
+      ],
+      "excerpt": "I think Isaiah is good, but Anthony right now just to be able to get down hill.",
+      "quote": "I think Isaiah is good, but Anthony right now just to be able to get down hill, a speed road that he can attack down hill, get to the basket. Booker still be involved in that as well. We do not quite know right now, but just looking at different ways and different styles to play.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tyronn Lue says the Clippers are still experimenting with their starting center rotation, noting they are looking at different ways and styles to play as they evaluate their options.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "03:48",
+      "summary_phrase": "Kawhi Leonard on his recovery and returning to high-level play",
+      "names_mentioned": [],
+      "excerpt": "Coming off an Achilles injury is tough. I sort of took the year off trying to recover.",
+      "quote": "Coming off an Achilles injury is tough. I sort of took the year off trying to recover and coming back, so it sort of gave me a sense that I can do it again at a very high level.",
+      "text_blocks": [],
+      "start_seconds": 228,
+      "end_seconds": 243,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Kawhi Leonard says he feels confident he can play at a high level again after taking time to recover from his Achilles injury.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 5,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "04:25",
+      "summary_phrase": "Kawhi Leonard on the importance of a full training camp",
+      "names_mentioned": [
+        "Tyronn Lue"
+      ],
+      "excerpt": "I think having a full year to actually get the plays and get the concepts together.",
+      "quote": "I think having a full year to actually get the plays and get the concepts together, it will help me a lot, especially on the court, man. I think I struggled a lot last year with the plays and stuff, and Tyronn Lue was on my butt about it a lot, but I think having a full year to actually get the plays and get the concepts together, it will help me a lot.",
+      "text_blocks": [],
+      "start_seconds": 265,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kawhi Leonard believes having a full training camp will help him significantly this season, admitting he struggled with plays and concepts last year.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 6,
+      "speaker": "Rui Hachimura",
+      "timestamp": "07:10",
+      "summary_phrase": "Rui Hachimura on team bonding during training camp in Hawaii",
+      "names_mentioned": [],
+      "excerpt": "It is almost like team bonding, you know, the players, a lot of new faces.",
+      "quote": "It is almost like team bonding, you know, the players, a lot of new faces, including myself. It is the first year for me, so just hanging out with the players, coaches, stuff, their family members, getting into some practice, we have a game tomorrow, but it has been great. We have been competing.",
+      "text_blocks": [],
+      "start_seconds": 430,
+      "end_seconds": 451,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Rui Hachimura says the team is using training camp to build chemistry with many new faces on the roster, adding that it has been great to get to know the coaches and players.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 7,
+      "speaker": "Rui Hachimura",
+      "timestamp": "07:55",
+      "summary_phrase": "Rui Hachimura on the need to build team chemistry",
+      "names_mentioned": [],
+      "excerpt": "We have to start identifying our team as like what's our, you know, our chemistry.",
+      "quote": "We have to start identifying our team as like what's our, you know, our chemistry. We got to start building more our chemistry and stuff. So, you know, just to for me, I think to play hard, you know, the things that I have to do, you know, that being communicating with the coaches, you know, what they want me to do, stuff on the court.",
+      "text_blocks": [],
+      "start_seconds": 475,
+      "end_seconds": 500,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rui Hachimura emphasizes the importance of building team chemistry early, noting that he is focused on playing hard and communicating with the coaching staff.",
+      "team": "LA Clippers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "64NRjwBF3oA",
+  "url": "https://www.youtube.com/watch?v=64NRjwBF3oA",
+  "channel_team": "LA Clippers",
+  "published": "2026-10-03T21:38:46Z",
+  "duration_seconds": 694,
+  "processed_at": "2026-10-03T23:03:23Z",
+  "run_id": "2026-10-03T2302Z-20utc",
+  "is_one_off": false
+}
