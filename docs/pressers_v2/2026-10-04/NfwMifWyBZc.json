@@ -1,0 +1,109 @@
+{
+  "video_title": "POV: You’re a ball at Warriors Media Day 🏀 | shorts",
+  "speakers_seen": [
+    "Draymond Green",
+    "Andrew Wiggins",
+    "Stephen Curry",
+    "Brandin Podziemski",
+    "Steve Kerr",
+    "Trayce Jackson-Davis",
+    "Moses Moody",
+    "Gary Payton II",
+    "Kevon Looney",
+    "Jonathan Kuminga",
+    "Dario Saric",
+    "Chris Paul",
+    "Klay Thompson",
+    "Cory Joseph",
+    "Loon"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "",
+      "speakers": [
+        "Brandin Podziemski",
+        "Trayce Jackson-Davis"
+      ],
+      "timestamp": "00:48",
+      "summary_phrase": "Brandin Podziemski and Trayce Jackson-Davis discuss their team flow",
+      "names_mentioned": [],
+      "excerpt": "You got to keep it forward, dude. You got to match my drift.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Brandin Podziemski",
+          "text": "You don't like my flow?"
+        },
+        {
+          "speaker": "Trayce Jackson-Davis",
+          "text": "You got to keep it forward, dude. You got to match my drift."
+        },
+        {
+          "speaker": "Brandin Podziemski",
+          "text": "No, you're going like this. That's not even..."
+        },
+        {
+          "speaker": "Trayce Jackson-Davis",
+          "text": "Okay, you just keep... Nevermind, nevermind."
+        },
+        {
+          "speaker": "Brandin Podziemski",
+          "text": "Okay, bet. Alright what's going on?"
+        }
+      ],
+      "start_seconds": 48,
+      "end_seconds": 63,
+      "speaker_confidence": "inferred",
+      "news_score": 2,
+      "social_post": "Brandin Podziemski and Trayce Jackson-Davis share a lighthearted moment during Warriors media day.",
+      "team": "Golden State Warriors"
+    },
+    {
+      "rank": 2,
+      "speaker": "",
+      "speakers": [
+        "Moses Moody",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:00",
+      "summary_phrase": "Moses Moody asks about his sword prop",
+      "names_mentioned": [],
+      "excerpt": "Do you have my sword? You better not have my sword, man.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Moses Moody",
+          "text": "Do you have my sword?"
+        },
+        {
+          "speaker": "Unidentified speaker",
+          "text": "No, I don't have it. We'll look for it."
+        },
+        {
+          "speaker": "Moses Moody",
+          "text": "You better not have my sword, man."
+        }
+      ],
+      "start_seconds": 60,
+      "end_seconds": 68,
+      "speaker_confidence": "inferred",
+      "news_score": 2,
+      "social_post": "Moses Moody is looking for his sword prop during Warriors media day.",
+      "team": "Golden State Warriors"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media day",
+  "format": "ytq-1",
+  "video_id": "NfwMifWyBZc",
+  "url": "https://www.youtube.com/watch?v=NfwMifWyBZc",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-10-04T22:21:32Z",
+  "duration_seconds": 101,
+  "processed_at": "2026-10-04T23:09:06Z",
+  "run_id": "2026-10-04T2308Z-20utc",
+  "is_one_off": false
+}

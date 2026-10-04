@@ -1,0 +1,73 @@
+{
+  "video_title": "Liam McNeeley Practice Media Availability | 10/4/26",
+  "speakers_seen": [
+    "Liam McNeeley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Liam McNeeley",
+      "timestamp": "00:18",
+      "summary_phrase": "Liam McNeeley on his increased aggression and confidence in year two",
+      "names_mentioned": [],
+      "excerpt": "Summer league and this offseason has really helped my confidence. I put a lot of work in.",
+      "quote": "I'd say my aggressiveness and my confidence. Summer league and this offseason has really helped my confidence. I put a lot of work in and that's given me the confidence to be aggressive and hunt for my shot and play make for others. And then just having a year under your belt makes a huge difference because going into your rookie year, you don't know what it takes. You don't know what it's like. Now I feel comfortable.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Liam McNeeley says his second year is defined by a new mindset. He credits summer league and a full offseason for his growth, noting that now he has the confidence to hunt for his shot and playmake for others.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 2,
+      "speaker": "Liam McNeeley",
+      "timestamp": "01:16",
+      "summary_phrase": "Liam McNeeley on learning from veteran teammates Pat, Royce, and Grayson",
+      "names_mentioned": [
+        "Pat",
+        "Royce",
+        "Grayson"
+      ],
+      "excerpt": "Even when we're on different teams, Pat and Royce, Grayson, they're all giving me tips.",
+      "quote": "Off the court everybody is super close. We hang out, we play cards, we watch football. Like I said about training camp, when we're on the court we're going at each other. But even when we're on different teams, Pat and Royce, Grayson, they're all giving me tips. They've all been great vets.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Liam McNeeley credits veterans Pat, Royce, and Grayson for their mentorship. He says the team chemistry is strong off the court, but the intensity remains high during training camp sessions.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 3,
+      "speaker": "Liam McNeeley",
+      "timestamp": "01:51",
+      "summary_phrase": "Liam McNeeley praises Kobe White's leadership during training camp",
+      "names_mentioned": [
+        "Kobe White"
+      ],
+      "excerpt": "Kobe White has been super vocal. I'd say he was a standout for the vocalness.",
+      "quote": "We brought in great leaders. Kobe White has been super vocal. I'd say he was a standout for the vocalness in training camp. We did an obstacle course with the Citadel cadets and he was leading his team. It was impressive.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Liam McNeeley highlights Kobe White as a standout leader during training camp. McNeeley was particularly impressed by White's vocal presence during the team's obstacle course with the Citadel cadets.",
+      "team": "Charlotte Hornets"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "7AePUEmPpVk",
+  "url": "https://www.youtube.com/watch?v=7AePUEmPpVk",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-04T19:42:23Z",
+  "duration_seconds": 140,
+  "processed_at": "2026-10-04T23:09:09Z",
+  "run_id": "2026-10-04T2308Z-20utc",
+  "is_one_off": false
+}
