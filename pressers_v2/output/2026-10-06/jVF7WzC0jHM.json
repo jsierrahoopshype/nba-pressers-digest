@@ -1,0 +1,187 @@
+{
+  "video_title": "Toronto Raptors Media Availability | Practice | October 6, 2026",
+  "speakers_seen": [
+    "Kawhi Leonard",
+    "Scottie Barnes",
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "00:53",
+      "summary_phrase": "Kawhi Leonard on his focus for the upcoming season",
+      "names_mentioned": [],
+      "excerpt": "just trying to make more shots, if I can, raise percentage, three-point percentage, seeing how to expand defensive play",
+      "quote": "It just comes on a night-to-night basis, who we are playing against. I am just trying to make more shots, if I can, raise percentage, three-point percentage, seeing how to expand defensive play, and just help the team win. That is all I am focused on. So it depends on what we are struggling with as a team and I will try to step in and try and carry that load and get us better at that, if that makes sense.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kawhi Leonard says his focus this season is on a night to night basis as he looks to raise his shooting percentages and expand his defensive play to help the team win.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 2,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "01:35",
+      "summary_phrase": "Kawhi Leonard on the maturity of the Raptors' young core",
+      "names_mentioned": [],
+      "excerpt": "they carry themselves like an older team, I would say. Everybody is pretty focused and locked in",
+      "quote": "They carry themselves like an older team, I would say. Everybody is pretty focused and locked in on everyday practices and focused on the assignment. So that wasn't a surprise. They played great last year in the playoffs, but they are a good, mature, and young group.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kawhi Leonard is impressed by the Raptors young core saying they carry themselves like an older team and remain focused and locked in during every practice.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "07:21",
+      "summary_phrase": "Scottie Barnes on the team's spacing and offensive philosophy",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "just being able to find space, that by our operate is the only thing that we are focused on",
+      "quote": "I don't feel like it changes. Just being able to find space, that by our operate is the only thing that we are focused on while we are on the court. So regardless if I am on the floor with Jakob Poeltl or if I am the number five, I don't think it really matters. It is just giving everybody the space that they need to operate.",
+      "text_blocks": [],
+      "start_seconds": 441,
+      "end_seconds": 467,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes says his role does not change based on the lineup and his main focus remains on finding space for everyone to operate on the court.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 4,
+      "speaker": "Scottie Barnes",
+      "timestamp": "08:42",
+      "summary_phrase": "Scottie Barnes on his physical improvement during training camp",
+      "names_mentioned": [],
+      "excerpt": "it is definitely been beneficial, especially like jumping wise, going for rebounds, dunking, just going for blocks",
+      "quote": "It is definitely been beneficial, especially like jumping wise, going for rebounds, dunking, just going for blocks. It feels way more, it feels way better now.",
+      "text_blocks": [],
+      "start_seconds": 522,
+      "end_seconds": 532,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes says his physical improvement during training camp has been beneficial for his verticality when rebounding and going for blocks.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "13:33",
+      "summary_phrase": "Darko Rajakovic on the team's rotation and second unit development",
+      "names_mentioned": [
+        "Jamison",
+        "Bill",
+        "Colin",
+        "Jamal",
+        "Jakob"
+      ],
+      "excerpt": "from the previous year, obviously the consistency with the guys like Jamison and Bill and Colin and Jamal",
+      "quote": "From the previous year, obviously the consistency with the guys like Jamison and Bill and Colin and Jamal and Jakob, those guys are doing a great job. I think in training camp right here when those guys are healthy, I think we know what we can expect from them. And then there is a group of players there from Allen Graves that they are learning every single day, and then Kyle, Elijah still returning from injury, Jaden, the rookie coming in. We have a pretty good feel of guys that can win in the second unit.",
+      "text_blocks": [],
+      "start_seconds": 813,
+      "end_seconds": 850,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says the Raptors have a good feel for the players who can contribute in the second unit as they look to build consistency this season.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "14:38",
+      "summary_phrase": "Darko Rajakovic on the importance of the second unit's impact",
+      "names_mentioned": [
+        "Jamal",
+        "Jakob",
+        "CMB"
+      ],
+      "excerpt": "what really makes the difference in this league is when your second unit guys come in",
+      "quote": "I think what really makes the difference in this league is when your second unit guys come in and just take it to the next level. We have a system with the pace and with the running, and I think all of those guys that fit that mold, like Jamal and Jakob and CMB particularly, I think they will fit that mold that they can come off the bench and just be guys that can take the game to the next level.",
+      "text_blocks": [],
+      "start_seconds": 878,
+      "end_seconds": 910,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says the difference in the NBA is when the second unit can take the game to the next level and he believes his bench has the right players to fit that mold.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "15:53",
+      "summary_phrase": "Darko Rajakovic on the impact of Allen Graves' shooting",
+      "names_mentioned": [
+        "Jamison",
+        "Bill",
+        "Kamai",
+        "Allen Graves"
+      ],
+      "excerpt": "Allen Graves who showed us over the whole summer that he can shoot from three-point line",
+      "quote": "Just Jamison and Bill, Kamai, and also Allen Graves, who showed us over the whole summer that he can shoot from three-point line, but they are so important for us to get more threes.",
+      "text_blocks": [],
+      "start_seconds": 953,
+      "end_seconds": 966,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic emphasizes the importance of perimeter shooting noting that Allen Graves has shown all summer that he can be a reliable three point threat for the team.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "16:18",
+      "summary_phrase": "Darko Rajakovic on the impact of Kawhi Leonard's presence on the floor",
+      "names_mentioned": [
+        "Kawhi"
+      ],
+      "excerpt": "the gravity that he is creating and type of player he is, I think it is going to create",
+      "quote": "Just the gravity that he is creating and type of player he is, I think it is going to create opportunities and spacing for other guys. Kawhi is such a force offensively. We got to provide him space, we got to provide him good screening, we got to put him in positions that he can be himself.",
+      "text_blocks": [],
+      "start_seconds": 978,
+      "end_seconds": 1000,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says the gravity Kawhi Leonard creates offensively will be key to providing spacing and opportunities for the rest of the Raptors roster.",
+      "team": "Toronto Raptors"
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "19:44",
+      "summary_phrase": "Darko Rajakovic on Kyle's evolving role and leadership",
+      "names_mentioned": [
+        "Kyle",
+        "Garrett Temple"
+      ],
+      "excerpt": "Kyle can have a very important role with us this year and in the future",
+      "quote": "I think Kyle can have a very important role with us this year and in the future. His career is changing now, and I am having similar conversations now with him like I had with Garrett Temple two or three years ago. It just like the more you doing the leadership and mentorship and all of those kind of things that are helping the team, it just grows your value.",
+      "text_blocks": [],
+      "start_seconds": 1184,
+      "end_seconds": 1211,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says Kyle is taking on a mentorship role this season noting that the veteran guard is growing his value by focusing on leadership.",
+      "team": "Toronto Raptors"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jVF7WzC0jHM",
+  "url": "https://www.youtube.com/watch?v=jVF7WzC0jHM",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-06T22:14:25Z",
+  "duration_seconds": 1315,
+  "processed_at": "2026-10-06T23:48:46Z",
+  "run_id": "2026-10-06T2348Z-20utc",
+  "is_one_off": false
+}
