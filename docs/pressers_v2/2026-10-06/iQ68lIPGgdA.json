@@ -1,0 +1,103 @@
+{
+  "video_title": "2026 Training Camp Media Availability | Chaz Lanier l 10.06.26",
+  "speakers_seen": [
+    "Chaz Lanier"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chaz Lanier",
+      "timestamp": "00:07",
+      "summary_phrase": "Chaz Lanier on his focus for the upcoming NBA season",
+      "names_mentioned": [],
+      "excerpt": "just trying to continue to work on my game in every aspect and do whatever coach needs",
+      "quote": "Just trying to continue to work on my game in every aspect and do whatever coach needs me to do to get on the floor.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 17,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Chaz Lanier says his focus heading into his second season is simple: work on every aspect of his game and do whatever the coaching staff needs to get on the floor.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 2,
+      "speaker": "Chaz Lanier",
+      "timestamp": "00:24",
+      "summary_phrase": "Chaz Lanier on his defensive mindset and aggressive play",
+      "names_mentioned": [],
+      "excerpt": "be sharp every play, no plays off, be aggressive",
+      "quote": "Just be sharp every play, no plays off, be aggressive. Just like you're aggressive to shoot the ball, be aggressive to make plays on the defensive end, be there for your teammates, but just fly around out there.",
+      "text_blocks": [],
+      "start_seconds": 24,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chaz Lanier is emphasizing a high energy defensive mindset this season. He says the goal is to be sharp every play and fly around on the defensive end just like he does when looking for his shot.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 3,
+      "speaker": "Chaz Lanier",
+      "timestamp": "00:45",
+      "summary_phrase": "Chaz Lanier on the comfort of his second NBA season",
+      "names_mentioned": [],
+      "excerpt": "you definitely for sure settle in a little bit more",
+      "quote": "You definitely for sure settle in a little bit more. You just have the comfort of knowing this is your second year, you kind of know how things go and operate, you know what to expect. So everybody is super excited for this year.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Entering his second NBA season, Chaz Lanier says he feels much more settled. He notes that having the experience of a full year under his belt makes him feel more comfortable with how things operate.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 4,
+      "speaker": "Chaz Lanier",
+      "timestamp": "01:09",
+      "summary_phrase": "Chaz Lanier on learning from veteran teammates",
+      "names_mentioned": [
+        "Isaiah Joe"
+      ],
+      "excerpt": "I'm surrounded by a lot of great shooters",
+      "quote": "I'm surrounded by a lot of great shooters. So every day we're shooting after practice, challenging each other, getting each other better. And as a young player in this league, it is great to have those guys to lean on and pick their brains because they've been through it, been through the fire. So I'm super grateful to have them in my corner.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chaz Lanier is leaning on the veteran shooters on the Pistons roster to help his development. He says he is grateful to pick their brains after practice as he continues to grow as a young player.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 5,
+      "speaker": "Chaz Lanier",
+      "timestamp": "01:37",
+      "summary_phrase": "Chaz Lanier on the potential of teammate Abiola Abiodun",
+      "names_mentioned": [
+        "Abiola Abiodun"
+      ],
+      "excerpt": "you can see, y'all can see, he's a bucket clearly, and he could play",
+      "quote": "Super impressed. You can see, y'all can see, he's a bucket clearly, and he could play. So yeah, everybody's super excited about him.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chaz Lanier is high on teammate Abiola Abiodun. Lanier says he is super impressed with the rookie, calling him a bucket and noting that everyone on the team is excited about what he brings to the floor.",
+      "team": "Detroit Pistons"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "iQ68lIPGgdA",
+  "url": "https://www.youtube.com/watch?v=iQ68lIPGgdA",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-06T19:25:55Z",
+  "duration_seconds": 112,
+  "processed_at": "2026-10-06T19:30:52Z",
+  "run_id": "2026-10-06T1930Z-14utc",
+  "is_one_off": false
+}
