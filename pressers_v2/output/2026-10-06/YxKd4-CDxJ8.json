@@ -1,0 +1,90 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 10.5.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:13",
+      "summary_phrase": "Taylor Jenkins on the team's defensive struggles in preseason opener",
+      "names_mentioned": [],
+      "excerpt": "felt like our defense was really lacking for 48 minutes.",
+      "quote": "I would say definitely far from where we are going to need to be. I told the group just a moment ago, how we started the game, I thought actually our offense, we were getting some good shots. We definitely had some struggled possessions. That is going to be the nature of applying our offense in a game settings against other NBA competition. But felt like our defense was really lacking for 48 minutes. We had spurts of it, we had some good possessions, but too often with no pressure on the ball, no shift help, they were getting downhill. They almost scored 60 points in the paint. We got to do a better job of guarding without fouling. It is the nature of early in the season, everyone is figuring out the physicality, but I thought we gambled a little bit too much as well, and then fast breaks, just lack of communication. So definitely not the competitive edge that we got to have.",
+      "verbatim_original_language": "",
+      "start_seconds": 13,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins was not pleased with the defensive effort in the preseason opener, noting the team allowed nearly 60 points in the paint and lacked a competitive edge for 48 minutes.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:07",
+      "summary_phrase": "Taylor Jenkins on the team's offensive process and ball movement",
+      "names_mentioned": [],
+      "excerpt": "I thought we got great looks. Definitely missed them.",
+      "quote": "I would not say it was consistent enough, but as you said, I thought we got great looks. Definitely missed them. I thought our offensive rebounding was there. We compromised ourselves a couple times and gave them numbers coming back, so I think that hurt us transition-wise. But felt like as the game went on, we had less of the movement off the ball. I think we got to do a better job, it starts with me, getting the guys more organized, reading the situations where the advantages are, comes in time. We will have great examples. There was definitely a couple handfuls of great examples of where we can create the first advantage on offense and still move and maintain, but I felt like we had maybe a little bit too much mental lock, and that is the nature of putting the whole game together.",
+      "verbatim_original_language": "",
+      "start_seconds": 67,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins says the offense lacked consistency in their preseason opener, citing too much mental lock and a need for better off-ball movement as the team continues to get organized.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:12",
+      "summary_phrase": "Taylor Jenkins on the performance of Braden and Nate",
+      "names_mentioned": [
+        "Braden",
+        "Nate"
+      ],
+      "excerpt": "Braden came in, I thought he played well to start, had some good moments there in the fourth.",
+      "quote": "Braden came in, I thought he played well to start, had some good moments there in the fourth quarter. I think you saw with all of our guys against Minnesota just handling pressure. Both those guys handling pressure, the ball at times found Nate trying to create for us. We got to do a better job playing with pace earlier in possessions. But I thought they were making good passes, but then when they got stood up and got caught in a crowd, maybe they made some tough passes out against their defense. Overall, I thought they did a pretty solid job. Braden point of attack defense, can he get more consistent keeping guys in front? A couple possessions there where we let guys get by in pretty easily. Nate playing off the ball a little bit more, I thought his activity was pretty good. I will go back and watch the film, but guys felt ready for the opportunity and this is great learning.",
+      "verbatim_original_language": "",
+      "start_seconds": 132,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins evaluated the play of Braden and Nate after the preseason opener, noting they handled pressure well but need to improve their pace and consistency at the point of attack.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:08",
+      "summary_phrase": "Taylor Jenkins on big man rotations and defensive coverage",
+      "names_mentioned": [
+        "Jericho",
+        "Clell",
+        "Miles"
+      ],
+      "excerpt": "I definitely want to see Clell with Miles a little bit more.",
+      "quote": "Definitely sore now between those three guys. Jericho started at the four, trying to see Clell with different bigs. I definitely want to see Clell with Miles a little bit more. I have enjoyed having two bigs out there, length. I think we got to do a better job protecting the rim. It definitely starts with on-ball and shift help before it even gets to those guys. Overall, I thought our bigs did an okay job with our pick-and-roll coverages. I think there may have been a little bit of confusion, coverages, it starts with me, just our communication and just getting those game reps, so we are consistent on how we are executing in the two coverages that we have right now. Overall, I thought there were good moments. Again, we will have a handful that we will be able to show the guys, and then a couple other ones where we maybe got a little overextended, allowed them to put us in rotations and then we were all compromised because we want to keep those guys near the rim more often than not.",
+      "verbatim_original_language": "",
+      "start_seconds": 188,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins is experimenting with big man rotations, specifically looking to pair Clell with Miles, while emphasizing the need for better communication in pick and roll coverages.",
+      "team": "Milwaukee Bucks"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "YxKd4-CDxJ8",
+  "url": "https://www.youtube.com/watch?v=YxKd4-CDxJ8",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-06T03:11:48Z",
+  "duration_seconds": 276,
+  "processed_at": "2026-10-06T13:19:47Z",
+  "run_id": "2026-10-06T1318Z-06utc",
+  "is_one_off": false
+}
