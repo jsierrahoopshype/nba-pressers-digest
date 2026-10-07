@@ -1,0 +1,89 @@
+{
+  "video_title": "A Day in the Life with Mikel Brown Jr. at NBA Media Day",
+  "speakers_seen": [
+    "Mikel Brown Jr.",
+    "Tyler Bilodeau",
+    "Egor Demin",
+    "Josh"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mikel Brown Jr.",
+      "timestamp": "00:25",
+      "summary_phrase": "Mikel Brown Jr. on his mindset entering his rookie season",
+      "names_mentioned": [],
+      "excerpt": "I really don't look at it as a job, I'm enjoying something that I love to do.",
+      "quote": "I really don't look at it as a job, I'm enjoying something that I love to do. I love to do it and I have fun with it.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mikel Brown Jr. is keeping a grounded mindset heading into his rookie season with the Nets. He says he is just enjoying the process because he loves what he does.",
+      "team": "Brooklyn Nets"
+    },
+    {
+      "rank": 2,
+      "speaker": "Mikel Brown Jr.",
+      "timestamp": "01:30",
+      "summary_phrase": "Mikel Brown Jr. on playing at Barclays Center",
+      "names_mentioned": [],
+      "excerpt": "For it to be Barclays, and then Barclays is considered home for me, it's kind of like...",
+      "quote": "It's kind of a surreal moment just because that was the first time I've ever played in a big arena like that. And for it to be Barclays, and then Barclays is considered home for me, it's kind of like, I can't even put it into words like how I'm blessed.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Stepping onto the court at Barclays Center for the first time was a surreal experience for rookie Mikel Brown Jr. He says playing at his new home arena is a blessing he cannot even put into words.",
+      "team": "Brooklyn Nets"
+    },
+    {
+      "rank": 3,
+      "speaker": "Mikel Brown Jr.",
+      "timestamp": "05:04",
+      "summary_phrase": "Mikel Brown Jr. on staying present during his first media day",
+      "names_mentioned": [],
+      "excerpt": "First media day for me and I got many more to come, but I'm just staying in the moment.",
+      "quote": "Obviously just enjoying the moment. You know, just staying present. First media day for me and I got many more to come, but you know, I'm just staying in the moment, staying present and enjoying it.",
+      "text_blocks": [],
+      "start_seconds": 304,
+      "end_seconds": 318,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Mikel Brown Jr. is focused on staying present during his first NBA media day. The rookie says he is just enjoying the moment as he prepares for the season ahead.",
+      "team": "Brooklyn Nets"
+    },
+    {
+      "rank": 4,
+      "speaker": "Mikel Brown Jr.",
+      "timestamp": "05:28",
+      "summary_phrase": "Mikel Brown Jr. on the importance of film study for rookies",
+      "names_mentioned": [
+        "Mikel Brown Jr.",
+        "Yegor Demin"
+      ],
+      "excerpt": "I feel like as a point guard you need to know everything on the floor what's going on.",
+      "quote": "I feel like as a point guard you need to know everything on the floor what's going on. Even before I came here, I've just been about that, watching constant film on what we went over today, watching it two, three, four times just to try to get the grasp of it. Learn Julius's game, learn Yegor, everybody's game, just to try to put them in the best position to be successful.",
+      "text_blocks": [],
+      "start_seconds": 328,
+      "end_seconds": 356,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mikel Brown Jr. is putting in the work to learn his teammates games. The rookie point guard says he watches film multiple times a day to ensure he can put players like Julius and Egor in the best position to be successful.",
+      "team": "Brooklyn Nets"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media day",
+  "format": "ytq-1",
+  "video_id": "tTRsxlLFKqQ",
+  "url": "https://www.youtube.com/watch?v=tTRsxlLFKqQ",
+  "channel_team": "Brooklyn Nets",
+  "published": "2026-10-07T19:25:11Z",
+  "duration_seconds": 383,
+  "processed_at": "2026-10-07T19:58:14Z",
+  "run_id": "2026-10-07T1957Z-14utc",
+  "is_one_off": false
+}
