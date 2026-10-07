@@ -1,0 +1,37 @@
+{
+  "video_title": "Unfiltered: Deandre Ayton at Media Day",
+  "speakers_seen": [
+    "Deandre Ayton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deandre Ayton",
+      "timestamp": "02:21",
+      "summary_phrase": "Deandre Ayton on the Wizards' branded skinny jeans giveaway",
+      "names_mentioned": [
+        "Deandre Ayton"
+      ],
+      "excerpt": "We will supply you with a pair of Wizards branded skinny jeans made by Deandre Ayton.",
+      "quote": "If you donate yours in 2020, don't worry, we got you. We will supply you with a pair of Wizards branded skinny jeans made by Deandre Ayton. That's what it said.",
+      "verbatim_original_language": "",
+      "start_seconds": 141,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Deandre Ayton says the Wizards are giving away branded skinny jeans and he is ready to supply them. If you donated yours in 2020, he says, don't worry, we got you.",
+      "team": "Washington Wizards"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media day",
+  "format": "ytq-1",
+  "video_id": "BDmUlB2OS-Q",
+  "url": "https://www.youtube.com/watch?v=BDmUlB2OS-Q",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-07T01:38:36Z",
+  "duration_seconds": 304,
+  "processed_at": "2026-10-07T13:25:15Z",
+  "run_id": "2026-10-07T1324Z-06utc",
+  "is_one_off": false
+}
