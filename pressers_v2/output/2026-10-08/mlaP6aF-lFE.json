@@ -1,0 +1,76 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Magic",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:10",
+      "summary_phrase": "Tuomas Iisalo's assessment of the team's performance against Orlando",
+      "names_mentioned": [],
+      "excerpt": "I didn't think we played very well.",
+      "quote": "I didn't think we played very well. I didn't think we played very well and I thought whole time I thought, man, Orlando is playing pretty well. They got a lot of their guys in the lineup, they're moving the ball very fast, they're being physical, and then I checked the scoreboard and it's basically tied, which speaks to what our guys have been able to accomplish in a small amount of time, that even when we are not playing great, we weren't making shots, we find a way to stick around.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo was impressed by his team's resilience against Orlando despite a poor shooting night, saying even when they were not playing great, they found a way to stick around.",
+      "team": "Memphis Grizzlies"
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:17",
+      "summary_phrase": "Tuomas Iisalo on Zach Edey's performance after long layoff",
+      "names_mentioned": [
+        "Zach Edey"
+      ],
+      "excerpt": "Obviously very rusty. You can see that he hasn't played in what are we talking about, nine months.",
+      "quote": "Obviously very rusty. You can see that he hasn't played in what are we talking about, nine months, maybe, hasn't played in in games, but again, the same thing, watching some of the numbers up there and Zach's on the court and our offensive rebounding percentage is 46, and that's when we were shooting like 20% from the field and still in the game, and that's really what he gives.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tuomas Iisalo admitted Zach Edey looked very rusty after his long layoff, but noted that Edey's impact on the glass was immediate, helping the team maintain a 46 percent offensive rebounding rate.",
+      "team": "Memphis Grizzlies"
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "05:10",
+      "summary_phrase": "Tuomas Iisalo on defending perimeter threats like Wendell Carter Jr. and Nikola Vucevic",
+      "names_mentioned": [
+        "Wendell Carter Jr.",
+        "Nikola Vucevic",
+        "Zach Edey",
+        "Wendell Carter Jr.",
+        "Franz Wagner",
+        "Wendell Carter Jr."
+      ],
+      "excerpt": "They have two of the best downhill wings, big, big forward wings in Wagner and Banchero.",
+      "quote": "There's a couple different scenarios how that can happen. It can happen through let's say just spacing in the corner, and that was couple of their first plays. Zach was kind of caught in between stopping the ball handlers, which they, you know, they have two of the best downhill wings, big, big forward wings in Wagner and Banchero in the whole NBA and you put more resources and then you got to make choices with then Wendell Carter Jr. in that situation, how aggressive you want to be because he can also put it on the floor and that's probably his better quality in that situation.",
+      "text_blocks": [],
+      "start_seconds": 310,
+      "end_seconds": 351,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo discussed the defensive challenges of guarding Orlando's frontcourt, noting that facing downhill threats like Wagner and Banchero forces the team to make difficult choices on how aggressive to be with Wendell Carter Jr.",
+      "team": "Memphis Grizzlies"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "mlaP6aF-lFE",
+  "url": "https://www.youtube.com/watch?v=mlaP6aF-lFE",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-10-08T03:41:17Z",
+  "duration_seconds": 450,
+  "processed_at": "2026-10-08T13:31:27Z",
+  "run_id": "2026-10-08T1330Z-06utc",
+  "is_one_off": false
+}

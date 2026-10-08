@@ -1,0 +1,191 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC  VS. MEMPHIS GRIZZLIES | COACH SWEENEY & TRISTAN DA SILVA",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Tristan da Silva"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:05",
+      "summary_phrase": "Coach Sweeney on Orlando's offensive execution and ball movement",
+      "names_mentioned": [
+        "Franz",
+        "Paolo"
+      ],
+      "excerpt": "We talked a lot about trying to sprint into organization going into this game.",
+      "quote": "We talked a lot about trying to sprint into organization going into this game, and I thought we did a really nice job of that, especially in the first half. Throughout the game, we did a good job with really trying to get into our offense and play with great pace throughout a possession. Great ball movement throughout the possession, and I think that showed with 35 assists and 14 turnovers. Great ball movement there, a lot of unselfishness. 12 assists between Franz and Paolo in the first half. Excellent job by those two guys of really drawing two and then making the right play.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney praised the Magic for their unselfish play and ball movement after recording 35 assists in tonight win against the Grizzlies.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:44",
+      "summary_phrase": "Coach Sweeney on team confidence and shot selection",
+      "names_mentioned": [],
+      "excerpt": "If we do a good job with our passing on time and on target, we feel pretty good.",
+      "quote": "We are worried about what we are doing right now. If we do a good job with our passing on time and on target, if we do a good job with our shot prep, we take the right shots, we feel pretty good about the shots we are going to take, and then we will probably make a few of them like we did tonight.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney on the Magic offensive approach: If we do a good job with our passing on time and on target and our shot prep we take the right shots.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:05",
+      "summary_phrase": "Coach Sweeney on team identity and communication",
+      "names_mentioned": [],
+      "excerpt": "We talked about going into this game that we have an identity that we want to build.",
+      "quote": "We talked about going into this game that we have an identity that we want to build upon and really embrace, and being connected was a big piece going into tonight. I thought the players did a great job with that. Obviously on the floor, they did an excellent job throughout the night. We talked about pressure and response. I thought we did a good job when something didn't go our way of really trying to stay together and fix it the next possession.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney says the Magic are focused on building their team identity and staying connected through pressure and response.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:33",
+      "summary_phrase": "Coach Sweeney on Tristan da Silva's shooting and confidence",
+      "names_mentioned": [
+        "Tristan da Silva"
+      ],
+      "excerpt": "We want him to have a shooting conceit, if you will.",
+      "quote": "I thought he did a great job. We want him to have a shooting conceit, if you will. We want him to have a sharp memory if he misses, and a long memory if he makes it. We want him to be a guy who, when he sees the shot, takes it. In general, when in doubt, shoot, stay in doubt always. That's what we want him to do.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney wants Tristan da Silva to have a sharp memory if he misses and a long memory if he makes it. His message to the rookie: When in doubt shoot.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:57",
+      "summary_phrase": "Coach Sweeney on Franz Wagner's playmaking ability",
+      "names_mentioned": [
+        "Franz"
+      ],
+      "excerpt": "He did a great job of initiating offense and initiating advantages and creating advantages.",
+      "quote": "He did a great job of initiating offense and initiating advantages and creating advantages. We talk about creating together, and I thought he did an excellent job of embodying that.",
+      "text_blocks": [],
+      "start_seconds": 117,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney credited Franz Wagner for his ability to initiate the offense and create advantages for the team tonight.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:16",
+      "summary_phrase": "Coach Sweeney on Alex Morales's hustle and contribution",
+      "names_mentioned": [
+        "Alex Morales"
+      ],
+      "excerpt": "We talked to Alex about his role being part of the dirty work.",
+      "quote": "We talked to Alex about his role being part of the dirty work, and he did that throughout the course of the night. He made a lot of winning plays. Obviously, that was a loud one, but he made a lot of invisible plays throughout, doing things to help the team win that maybe didn't show up the way that did. It's nice that he did get that opportunity to capitalize on something because he was working hard going to the boards the entire night.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney praised Alex Morales for doing the dirty work and making winning plays throughout the night.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 7,
+      "speaker": "Tristan da Silva",
+      "timestamp": "03:07",
+      "summary_phrase": "Tristan da Silva on team offensive execution and trust",
+      "names_mentioned": [],
+      "excerpt": "I think everybody played with really good pace.",
+      "quote": "I think everybody played with really good pace. Every time I feel like we attacked early and got to the paint and made the right decisions, whether that's spray out or finishing at the rim, I feel like we really played together well and trusted each other on the offensive end, so that's always a good sign.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tristan da Silva says the Magic played with great pace and trusted each other on the offensive end tonight.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 8,
+      "speaker": "Tristan da Silva",
+      "timestamp": "03:42",
+      "summary_phrase": "Tristan da Silva on coaching staff's impact on his shooting",
+      "names_mentioned": [],
+      "excerpt": "I think the way the coaching staff is really pouring into me to have me shoot those shots.",
+      "quote": "I think the way the coaching staff is really pouring into me to have me shoot those shots and make me realize how important it is that I do shoot those shots to be able to space the floor, I think that's just a credit to how this new staff is coaching and how much they pour into me.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 245,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tristan da Silva credits the coaching staff for encouraging him to shoot more to help space the floor for the Magic.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 9,
+      "speaker": "Tristan da Silva",
+      "timestamp": "04:16",
+      "summary_phrase": "Tristan da Silva on Franz Wagner's playmaking and versatility",
+      "names_mentioned": [
+        "Franz"
+      ],
+      "excerpt": "He's always a guy that the defense has to collapse to.",
+      "quote": "I think the way that he plays and the skill set that he has allows him to be a threat at all times and to attack the paint at all times. Whether that's from long range, from the mid-range, or from short distance, he's always a guy that the defense has to collapse to, and Franz is somebody that's really patient in that paint and makes the right decisions in there. It really makes everybody else's life way easier.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 286,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva on playing with Franz Wagner: He is a threat at all times and his patience in the paint makes everyone else life way easier.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 10,
+      "speaker": "Tristan da Silva",
+      "timestamp": "05:06",
+      "summary_phrase": "Tristan da Silva on areas for team improvement",
+      "names_mentioned": [],
+      "excerpt": "I think our defensive rebounding, I feel like they got a lot of o-boards this game.",
+      "quote": "I think our defensive rebounding, I feel like they got a lot of o-boards this game and then transition defense, I would say. I think those are the two main areas and just making sure that we're all pulling on the same strings and playing basketball together.",
+      "text_blocks": [],
+      "start_seconds": 306,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tristan da Silva identifies defensive rebounding and transition defense as the two main areas the Magic need to improve.",
+      "team": "Orlando Magic"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "kEnEgVueeRA",
+  "url": "https://www.youtube.com/watch?v=kEnEgVueeRA",
+  "channel_team": "Orlando Magic",
+  "published": "2026-10-08T03:55:15Z",
+  "duration_seconds": 364,
+  "processed_at": "2026-10-08T13:31:20Z",
+  "run_id": "2026-10-08T1330Z-06utc",
+  "is_one_off": false
+}

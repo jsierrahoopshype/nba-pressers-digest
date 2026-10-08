@@ -1,0 +1,70 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 10.7.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:09",
+      "summary_phrase": "Taylor Jenkins praises the poise of his young guard",
+      "names_mentioned": [],
+      "excerpt": "It's really encouraging for a young guard to just kind of play with that poise.",
+      "quote": "He's just shown an act in the brief time that we've been with him that he relishes those moments right there. I don't think he gets sped up. He's finding his endurance, he's finding the energy store that he's got to have, especially in those fourth-quarter moments to get downhill, to beat pressure. In the first two games we've seen a lot of pressure, but in the fourth quarter, being able to get by it, being able to score, playmake at times, making the hockey assists, it's really encouraging for a young guard to just kind of play with that poise and to be able to face a lot of different coverages and still be able to beat it and make the correct play more often than not.",
+      "start_seconds": 69,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins is impressed with his young guard's poise in the fourth quarter. He says the player does not get sped up and is consistently making the correct play against pressure.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:02",
+      "summary_phrase": "Taylor Jenkins on the benefits of playing two bigs together",
+      "names_mentioned": [
+        "Kessler",
+        "Miles"
+      ],
+      "excerpt": "I just wanted to get a different look, seeing those two guys together has been on my mind.",
+      "quote": "I just wanted to get a different look, seeing those two guys together has been on my mind as I said, just changing up the rotation and the different combinations over the course of the preseason. Enjoy playing big at times, just a little bit different presence in the paint. Hopefully we can rebound the ball defensively with those two guys. I think Kessler's got a great feel for that, Miles with a couple of blocks. We still got to engage with more activity with those two guys out there.",
+      "start_seconds": 122,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins is experimenting with playing two bigs together to change up the rotation. He says the goal is to establish a different presence in the paint and improve defensive rebounding.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:55",
+      "summary_phrase": "Taylor Jenkins evaluates the performance of Jaime and Tyler",
+      "names_mentioned": [
+        "Jaime",
+        "Tyler"
+      ],
+      "excerpt": "I just really liked how he had an intent of getting downhill tonight a little bit more.",
+      "quote": "I'll start with Jaime there. I just really liked how he had an intent of getting downhill tonight a little bit more. Thought we found some things in some spatial opportunities driving away from the defense. He did a good job there. Certain pick and roll things, I thought Tyler was really good when we started running some of our double actions to kind of alleviate some of the pressure. Obviously, his scoring ability, even playmaking, just as I said, just continue to learn about these guys and our system, what levers we can pull on.",
+      "start_seconds": 175,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins liked the intent Jaime showed getting downhill tonight and praised Tyler for his ability to alleviate pressure during double actions.",
+      "team": "Milwaukee Bucks"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "BnZ4dpFIUE8",
+  "url": "https://www.youtube.com/watch?v=BnZ4dpFIUE8",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-08T03:23:12Z",
+  "duration_seconds": 266,
+  "processed_at": "2026-10-08T13:31:51Z",
+  "run_id": "2026-10-08T1330Z-06utc",
+  "is_one_off": false
+}

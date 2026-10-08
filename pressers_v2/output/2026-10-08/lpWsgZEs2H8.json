@@ -1,0 +1,83 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability | 10-7-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:42",
+      "summary_phrase": "Jordan Ott provides injury update on Miles Bridges' ankle",
+      "names_mentioned": [
+        "Miles"
+      ],
+      "excerpt": "No update, evaluate tomorrow. It didn't look that bad, you know, so we'll take a look.",
+      "quote": "No update, evaluate tomorrow. It didn't look that bad, you know, so we'll take a look when we get home, but some of those things in the preseason suck the wind out of it. He was playing well and our group was, so we think he's in a good place.",
+      "start_seconds": 42,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Jordan Ott says there is no update on Miles Bridges ankle injury yet. The team will evaluate him tomorrow but Ott noted it did not look that bad.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:08",
+      "summary_phrase": "Jordan Ott on the energy of the second unit",
+      "names_mentioned": [],
+      "excerpt": "Just the juice. It's almost, you know, we talk a lot about possession game, that's those guys.",
+      "quote": "Just the juice. It's almost, you know, we talk a lot about possession game, that's those guys. They just feed off of each other. Goody loves to start it. Felt like the very first possession he was in, I think we airballed a shot, he gets the rebound, we score. That's just who he is and what he brings to the team. It can't be duplicated as much as we try. There's only one of him, but I thought that second group when they came in just changed the energy.",
+      "start_seconds": 68,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott praised the energy of the second unit tonight saying they just change the game. He specifically highlighted the impact of Goody on the boards.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:11",
+      "summary_phrase": "Jordan Ott on the performance of the second unit",
+      "names_mentioned": [
+        "Toby"
+      ],
+      "excerpt": "Toby's a tank. He absolutely just goes through you, which we know of him for sure.",
+      "quote": "Tonight it was just those two fives. It was just the five men, so we did a good job of hitting those other guys. Toby's a tank. He absolutely just goes through you, which we know of him for sure. He was so strong. I think those are good reps. We'll take them as good reps. A lot of times we try to get a second guy down there, but when you're going to hit other guys that are coming in to crash, that's why teams are doing it. Wings come in, you can't double team the five, he has one-on-one versus man-man, he got the better of man-man. So I think those reps are great for man-man to get right now early in the season or in the preseason just to see exactly what it takes at this level, it's every possession and it's only going to increase with more teams coming for the offensive glass.",
+      "start_seconds": 131,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott says Toby is a tank and praised his ability to win one on one matchups in the post. He believes these preseason reps are crucial for the team to learn what it takes at this level.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:35",
+      "summary_phrase": "Jordan Ott's overall assessment of the team's preseason performance",
+      "names_mentioned": [],
+      "excerpt": "I think there's a lot of bright spots, especially again in Detroit that first half was fantastic.",
+      "quote": "I think there's a lot of bright spots, especially again in Detroit that first half was fantastic. Going on the road, play like that in the first night. I thought our defensive intensity wasn't good enough to start the game tonight, that's why it was even. But our second unit, that's what they do. They change the game. And then we we really had control and I thought we got some good looks. We'll take a look in the second quarter, we became a little bit more perimeter-oriented because they were switching, but we got to maintain it no matter who's on the court. And then the third quarter just got so choppy. I don't know what is a foul, what is not. I think everyone's kind of guessing at this point, so we'll figure more of that out as the preseason goes along.",
+      "start_seconds": 215,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott says the team needs to maintain their identity regardless of who is on the court. He also noted that the team is still adjusting to how games are being called in the preseason.",
+      "team": "Phoenix Suns"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "lpWsgZEs2H8",
+  "url": "https://www.youtube.com/watch?v=lpWsgZEs2H8",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-08T04:25:33Z",
+  "duration_seconds": 262,
+  "processed_at": "2026-10-08T13:30:59Z",
+  "run_id": "2026-10-08T1330Z-06utc",
+  "is_one_off": false
+}

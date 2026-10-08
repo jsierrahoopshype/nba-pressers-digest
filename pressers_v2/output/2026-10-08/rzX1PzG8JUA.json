@@ -1,0 +1,146 @@
+{
+  "video_title": "Practice Media Availability (10/07/26) | LA Clippers",
+  "speakers_seen": [
+    "Norman Powell",
+    "Tyronn Lue",
+    "Keaton Wallace"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Norman Powell",
+      "timestamp": "00:00",
+      "summary_phrase": "Norman Powell on integrating new talent and team chemistry",
+      "names_mentioned": [
+        "Rui Hachimura"
+      ],
+      "excerpt": "We already know what type of talent Rui is. He's a great shooter, great floor spacer.",
+      "quote": "We already know what type of talent Rui is. He's a great shooter, great floor spacer. He's really good with mismatches as well. I'm just trying to figure out his spots, but the Golden State game was definitely a low sample size of what we can do. It was super cool just being away from LA and playing a game on a cool island like that. It was really good to play against somebody differently than ourselves and our teammates as well, so it was a fun trip.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Norman Powell says the Clippers are still figuring out how to integrate Rui Hachimura into the offense after a small sample size in Hawaii. He calls him a great shooter and floor spacer.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Norman Powell",
+      "timestamp": "00:59",
+      "summary_phrase": "Norman Powell on Keaton Wallace's potential and work ethic",
+      "names_mentioned": [
+        "Keaton Wallace"
+      ],
+      "excerpt": "He has a really bright future. Super scrappy with the ball in his hands.",
+      "quote": "He has a really bright future. Super scrappy with the ball in his hands, super scrappy around the rim, can really shoot at a high level. I was super proud of him just being aggressive during the scrimmage, even though shots didn't fall or anything didn't go really his way. He was still being confident and still being aggressive on the floor, so it was really good to see him just keep his head, don't get too down, don't get too high, and just keep being aggressive because that's what we need him to do, shoot the ball at a high clip.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Norman Powell is high on Keaton Wallace, praising his scrappy play and confidence. Powell says Wallace has a really bright future and the team needs him to keep shooting at a high clip.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "05:25",
+      "summary_phrase": "Tyronn Lue on the challenges of coaching a younger team",
+      "names_mentioned": [],
+      "excerpt": "Having a younger team, trying to play a different style of basketball.",
+      "quote": "Having a younger team, trying to play a different style of basketball. I thought camp was being pretty good. I thought the three weeks before we started camp was really good. I thought today wasn't as good, but they said it kind of tires different with the trip from Hawaii. Just trying to get these guys on the same page, understand what we want to do offensively and defensively, which is different for a lot of guys just being in the league. Just trying to find the right thing to run, find the right thing to do defensively to fit this team.",
+      "text_blocks": [],
+      "start_seconds": 325,
+      "end_seconds": 364,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyronn Lue admits the Clippers are adjusting to a different style of basketball with a younger roster. He says the focus is on getting everyone on the same page offensively and defensively.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "06:45",
+      "summary_phrase": "Tyronn Lue on defensive strategy and committee approach",
+      "names_mentioned": [
+        "Chris Dunn",
+        "Derrick Jones Jr."
+      ],
+      "excerpt": "Not just those two guys, but we got to just do it by committee.",
+      "quote": "Not just those two guys, but we got to just do it by committee. I think changing our coverages, I think being aggressive and blitzing a little bit more to try to force and create turnovers. It's not going to be just those two guys, we all got to do it collectively, and they definitely got to take on the challenge every night of guarding the best players.",
+      "text_blocks": [],
+      "start_seconds": 405,
+      "end_seconds": 431,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tyronn Lue says the Clippers plan to play defense by committee this season. He expects the team to be more aggressive and blitz more to force turnovers.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "07:11",
+      "summary_phrase": "Tyronn Lue on mentoring and player development",
+      "names_mentioned": [
+        "Darius Garland",
+        "Keaton Wallace",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Him and Kawhi Leonard have done a great job of just giving him confidence.",
+      "quote": "Him and Kawhi Leonard have done a great job of just giving him confidence, teaching him different things, how to get open, how to read the pick and rolls and things like that. They've been phenomenal, and so like having him beside Kawhi Leonard has been really good for him, even playing like that second unit, and then like I said, all summer long.",
+      "text_blocks": [],
+      "start_seconds": 431,
+      "end_seconds": 456,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue credits Kawhi Leonard for his mentorship role, noting that Kawhi has done a phenomenal job teaching younger players how to read pick and rolls.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 6,
+      "speaker": "Keaton Wallace",
+      "timestamp": "12:26",
+      "summary_phrase": "Keaton Wallace on adjusting to the NBA and team goals",
+      "names_mentioned": [],
+      "excerpt": "Everyone's wanting to get better. Just keep getting better each day has kind of been our goal.",
+      "quote": "Everyone's wanting to get better. Just keep getting better each day has kind of been our goal, one day at a time, and just getting ready for our next preseason game coming up. We're excited for it, looking to get another opportunity.",
+      "text_blocks": [],
+      "start_seconds": 746,
+      "end_seconds": 762,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Keaton Wallace says the Clippers' primary goal during training camp is just to keep getting better each day as they prepare for the next preseason game.",
+      "team": "LA Clippers"
+    },
+    {
+      "rank": 7,
+      "speaker": "Keaton Wallace",
+      "timestamp": "14:57",
+      "summary_phrase": "Keaton Wallace on learning from veteran leadership",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "Watching him come off ball screens is a lot different than me because how fast he is.",
+      "quote": "Watching him come off ball screens is a lot different than me because how fast he is, but definitely watching how he does it, how he reads the defense, what he's looking for, how he's looking with the big, how the big is getting guarded and everything, and how he just sees the floor. Just trying to learn from him in that way.",
+      "text_blocks": [],
+      "start_seconds": 897,
+      "end_seconds": 921,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Keaton Wallace is studying veteran guards to improve his game, specifically focusing on how they read defenses and navigate ball screens.",
+      "team": "LA Clippers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "rzX1PzG8JUA",
+  "url": "https://www.youtube.com/watch?v=rzX1PzG8JUA",
+  "channel_team": "LA Clippers",
+  "published": "2026-10-08T02:07:40Z",
+  "duration_seconds": 1035,
+  "processed_at": "2026-10-08T13:31:57Z",
+  "run_id": "2026-10-08T1330Z-06utc",
+  "is_one_off": false
+}

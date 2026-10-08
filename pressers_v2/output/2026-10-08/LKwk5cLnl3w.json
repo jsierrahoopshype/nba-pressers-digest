@@ -1,0 +1,139 @@
+{
+  "video_title": "“We're Trying To Get Guys Some Minutes Right Now.” | Chris Finch Postgame Sound | 10.7.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "speakers": [
+        "Chris Finch",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:34",
+      "summary_phrase": "Chris Finch on the second unit's physical struggles",
+      "names_mentioned": [],
+      "excerpt": "we're not helping them right now. We're just trying to get guys some minutes right now.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "The second unit is playing small, second game in a row. Is it literally that they're playing small, or they're not sustaining?"
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "You mean why do we have small players out there? Why is the second unit getting overwhelmed physically? We're not helping them right now. We're just trying to get guys some minutes right now. So I would look at things as first, second, or third unit. I wouldn't read too much into that at this point in time."
+        }
+      ],
+      "start_seconds": 34,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch says not to read too much into the second unit rotations right now as the team is just trying to get guys some minutes.",
+      "team": "Minnesota Timberwolves"
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "speakers": [
+        "Chris Finch",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:06",
+      "summary_phrase": "Chris Finch evaluates the return of an injured player",
+      "names_mentioned": [],
+      "excerpt": "It looks good. I haven't really noticed anything that he hasn't been able to do.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What have you seen from him coming back from the injury stuff at the end of the postseason?"
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "It looks good. I haven't really noticed anything that he hasn't been able to do or anywhere he's been particularly cautious."
+        }
+      ],
+      "start_seconds": 66,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch says an injured player looks good in his return and he has not noticed any limitations or caution in his movement.",
+      "team": "Minnesota Timberwolves"
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "speakers": [
+        "Chris Finch",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:28",
+      "summary_phrase": "Chris Finch on defensive challenges against fast-paced teams",
+      "names_mentioned": [],
+      "excerpt": "that's a team that really plays fast, as you know, not just from end to end.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Luka was battling on defense. What did you see there?"
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "That's a team that really plays fast, as you know, not just from end to end but also in the half court. It was really good. We knew it was coming, but until you see it up close and try to slow them down, we just got caught flat-footed a few times. They're always into another action, another cut, another slip."
+        }
+      ],
+      "start_seconds": 88,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch notes the team got caught flat footed a few times trying to defend a fast paced opponent that is always into another action.",
+      "team": "Minnesota Timberwolves"
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "speakers": [
+        "Chris Finch",
+        "Unidentified speaker"
+      ],
+      "timestamp": "02:10",
+      "summary_phrase": "Chris Finch on the performance of Camara",
+      "names_mentioned": [],
+      "excerpt": "I mean, he struggled to score the ball. I liked the other things that he did.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Camara had a pretty good game the first game. Tonight, he struggled more."
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "I mean, he struggled to score the ball. I liked the other things that he did, really defended well, battled on the boards. I thought he got kicked out from a crowd. The ball has been going for him tonight, but some nights are going to be like that."
+        }
+      ],
+      "start_seconds": 130,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch praised Camara for his defense and rebounding despite a tough shooting night saying some nights are just going to be like that.",
+      "team": "Minnesota Timberwolves"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "LKwk5cLnl3w",
+  "url": "https://www.youtube.com/watch?v=LKwk5cLnl3w",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-08T03:45:30Z",
+  "duration_seconds": 161,
+  "processed_at": "2026-10-08T13:31:24Z",
+  "run_id": "2026-10-08T1330Z-06utc",
+  "is_one_off": false
+}
