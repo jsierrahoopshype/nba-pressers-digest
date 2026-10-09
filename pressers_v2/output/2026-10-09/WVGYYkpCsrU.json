@@ -1,0 +1,96 @@
+{
+  "video_title": "Rick Carlisle, Jarace Walker & Ivica Zubac Media Availability | October 9, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Jarace Walker",
+    "Ivica Zubac"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:45",
+      "summary_phrase": "Rick Carlisle on integrating new personnel like Obi Toppin and Ivica Zubac",
+      "names_mentioned": [
+        "Obi Toppin",
+        "Andrew Nembhard",
+        "Ivica Zubac"
+      ],
+      "excerpt": "We have some significant new personnel with Obi Toppin, Andrew Nembhard practiced today.",
+      "quote": "We have some significant new personnel with Obi Toppin, Andrew Nembhard practiced today. So I think there's a chance that he will be available tomorrow. And Ivica Zubac played five games last year but never played with Tyrese Haliburton, never played with Pascal Siakam. So there's a lot to look at.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle says Andrew Nembhard has a chance to play tomorrow. He also noted the team is still working on integrating new pieces like Ivica Zubac with Tyrese Haliburton and Pascal Siakam.",
+      "team": "Indiana Pacers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jarace Walker",
+      "timestamp": "03:44",
+      "summary_phrase": "Jarace Walker on developing his playmaking and passing skills",
+      "names_mentioned": [
+        "Rick Carlisle"
+      ],
+      "excerpt": "I work on ball-handling drills to passing, like skip passing, behind the back reads, things like that.",
+      "quote": "I work on ball-handling drills to passing, like skip passing, behind the back reads, things like that. But in the game it's more natural, more of a flow, just hitting open man. It's not simple, but I mean just making the right play and just passing to guys who are open.",
+      "text_blocks": [],
+      "start_seconds": 224,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jarace Walker says his focus on playmaking is becoming more natural. He is working on skip passes and behind the back reads to ensure he is just making the right play and hitting the open man.",
+      "team": "Indiana Pacers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Ivica Zubac",
+      "timestamp": "06:06",
+      "summary_phrase": "Ivica Zubac on learning teammate preferences for screens and positioning",
+      "names_mentioned": [],
+      "excerpt": "Just learning a little better what the guys like on the screening, what angles they like.",
+      "quote": "Just learning a little better what the guys like on the screening, what angles they like, what guys want me to hold a little longer, what guys want me to get out faster. When I'm off the ball, when I'm not involved in a screening action, when to be in a dunker, when to get out to the corner, a lot of the possessions I felt like I was kind of in a way.",
+      "text_blocks": [],
+      "start_seconds": 366,
+      "end_seconds": 394,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ivica Zubac is working on his chemistry with Pacers teammates. He says he is learning specific screen angles and positioning preferences to avoid being in the way during offensive possessions.",
+      "team": "Indiana Pacers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Ivica Zubac",
+      "timestamp": "09:05",
+      "summary_phrase": "Ivica Zubac on learning from Tyson Chandler's screen-setting expertise",
+      "names_mentioned": [
+        "Tyson Chandler",
+        "Brook Lopez",
+        "Timofey Mozgov",
+        "DeAndre Jordan"
+      ],
+      "excerpt": "When I was with the Lakers, we signed Tyson Chandler and he was really good with it.",
+      "quote": "When I was with the Lakers, we signed Tyson Chandler and he was really good with it. And he was really focused like from day one when he got to the team, just kind of understanding what other guys like, what kind of angles and what kind of screens. And he helped me a lot like kind of to teach me like to set good screens and what situations you got to use what angle.",
+      "text_blocks": [],
+      "start_seconds": 545,
+      "end_seconds": 574,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ivica Zubac credits Tyson Chandler for teaching him the nuances of screen setting. He says Chandler helped him understand how to read situations and use the right angles to be effective.",
+      "team": "Indiana Pacers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "WVGYYkpCsrU",
+  "url": "https://www.youtube.com/watch?v=WVGYYkpCsrU",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-09T18:56:46Z",
+  "duration_seconds": 614,
+  "processed_at": "2026-10-09T19:32:12Z",
+  "run_id": "2026-10-09T1931Z-14utc",
+  "is_one_off": false
+}
