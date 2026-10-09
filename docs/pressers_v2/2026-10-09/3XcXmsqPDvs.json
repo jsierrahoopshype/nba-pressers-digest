@@ -1,0 +1,69 @@
+{
+  "video_title": "LIVE: Pelicans vs. Heat Postgame Interviews 10/8/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:03",
+      "summary_phrase": "Jamahl Mosley on the Pelicans' selfish play in the first half",
+      "names_mentioned": [],
+      "excerpt": "selfish play, which led to them running out and get easy transition baskets.",
+      "quote": "Selfish play, which led to them running out and get easy transition baskets. I think we have to continue to understand as a unit and as a group that we have to do it together. That's the style of play we need to have on both sides of the ball. And I think when we got down, each one of us wanted to chase it, to think that we could get it on our own. But in situations like that, you have to have a level of poise about you to know that that ball has got to move from side to side and find the right matchup, and then share it and trust the pass.",
+      "text_blocks": [],
+      "start_seconds": 423,
+      "end_seconds": 468,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley was critical of his team's first half performance against the Heat, noting that selfish play led to easy transition baskets. He emphasized that the group needs to trust the pass and maintain poise to succeed.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "08:45",
+      "summary_phrase": "Jamahl Mosley praises Jordan Poole's defensive and offensive growth",
+      "names_mentioned": [
+        "Jordan Poole"
+      ],
+      "excerpt": "Jordan Poole has been working his tail off defensively. He's doing everything that we've asked him to do.",
+      "quote": "Jordan Poole has been working his tail off defensively. He's doing everything that we've asked him to do, both offensively and defensively. Being a playmaker, being poised, being aggressive to score, which he knows he's capable of doing, but also being efficient in that. Then defensively, just being physical, being in the right position in our system. I think those are very big keys.",
+      "text_blocks": [],
+      "start_seconds": 525,
+      "end_seconds": 550,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley praised Jordan Poole for his recent growth, highlighting his effort to be both a playmaker and a physical defender within the team system.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:34",
+      "summary_phrase": "Jamahl Mosley credits the Heat's speed and defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "you got to give Miami a ton of credit. The way that they speed you up.",
+      "quote": "You got to give Miami a ton of credit. The way that they speed you up, grabbing, holding, which, you know, that's their style of basketball. And so, us to be able to get some shots up cleanly says something about our guys being able to do that. Now we just got to make sure we continue to hit home on those things, on the way we can get them, touching the paint to spray it. And that's how some of those turnovers happened. We got in the crowd and tried to make the play in the interior versus it was the perimeter pass that was available.",
+      "text_blocks": [],
+      "start_seconds": 574,
+      "end_seconds": 615,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley credited the Heat for their aggressive defensive style, noting that his team struggled with turnovers when trying to force plays in the interior instead of utilizing the perimeter.",
+      "team": "New Orleans Pelicans"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "3XcXmsqPDvs",
+  "url": "https://www.youtube.com/watch?v=3XcXmsqPDvs",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-09T02:13:16Z",
+  "duration_seconds": 695,
+  "processed_at": "2026-10-09T13:18:34Z",
+  "run_id": "2026-10-09T1317Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,69 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans at Heat Postgame Interview 10/8/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:07",
+      "summary_phrase": "Jamahl Mosley on the team's selfish play in the first half",
+      "names_mentioned": [],
+      "excerpt": "I think we have to continue to understand as a unit and as a group that we have to do it together.",
+      "quote": "Selfish play, which led to them running out and getting easy transition baskets. I think we have to continue to understand as a unit and as a group that we have to do it together. That's the style of play we need to have on both sides of the ball. And I think when we got down, each one of us wanted to chase it, to think that we could get it on our own. But in situations like that, you have to have a level of poise about you to know that that ball has got to move from side to side and find the right matchup and then share it and trust the pass.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley says the team struggled with selfish play in the first half against Miami. He noted that when the team got down, players tried to chase the game individually instead of trusting the pass and moving the ball.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:37",
+      "summary_phrase": "Jamahl Mosley praises Jordan Poole's defensive development and effort",
+      "names_mentioned": [
+        "Jordan Poole"
+      ],
+      "excerpt": "Jordan Poole's been working his tail off defensively. He's doing everything that we've asked him to do.",
+      "quote": "Jordan Poole's been working his tail off defensively. He's doing everything that we've asked him to do, both offensively and defensively. Being a playmaker, being poised, being aggressive to score, which he knows he's capable of doing, but also being efficient in that. Then defensively, just being physical, being in the right position in our system. I think those are very big keys.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley is praising Jordan Poole for his defensive development. Mosley says Poole has been working his tail off and is doing everything asked of him to be physical and in the right position within the system.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:21",
+      "summary_phrase": "Jamahl Mosley on the team's perimeter shooting and Miami's defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "You have to give Miami a ton of credit. The way that they speed you up.",
+      "quote": "You have to give Miami a ton of credit. The way that they speed you up, grabbing, holding, which that's their style of basketball. And so us to be able to get some shots up cleanly says something about our guys being able to do that. Now we just got to make sure we continue to hit home on the way we can get them, touching the paint to spray it. And that's how some of those turnovers happened. We got in the crowd and tried to make the play in the interior versus it was the perimeter pass that was available.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley credits Miami for their aggressive defensive pressure. He noted that the team needs to focus on paint touches to spray the ball out rather than forcing plays into the interior where turnovers occurred.",
+      "team": "New Orleans Pelicans"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ZWjxjrn1n44",
+  "url": "https://www.youtube.com/watch?v=ZWjxjrn1n44",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-09T03:19:24Z",
+  "duration_seconds": 189,
+  "processed_at": "2026-10-09T13:18:29Z",
+  "run_id": "2026-10-09T1317Z-06utc",
+  "is_one_off": false
+}
