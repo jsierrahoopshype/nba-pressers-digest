@@ -1,0 +1,114 @@
+{
+  "video_title": "Training Camp Media Availability | October 9, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Jalen Williams",
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Williams",
+      "timestamp": "00:56",
+      "summary_phrase": "Jalen Williams on adapting to an off-ball role",
+      "names_mentioned": [],
+      "excerpt": "it's easier when you have the best player in the world out there to make the game easier",
+      "quote": "Whatever the team needs me to win, I'm going to do. It's easier when you have the best player in the world out there to make the game easier for you. Whatever I can do to help everyone else, I'll do it.",
+      "start_seconds": 56,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Williams says he is ready to adapt to whatever role the Thunder need him to play this season. He noted that having the best player in the world on the roster makes the game much easier for everyone else.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Williams",
+      "timestamp": "01:15",
+      "summary_phrase": "Jalen Williams on applying college experience to his NBA role",
+      "names_mentioned": [],
+      "excerpt": "I knew where I wanted guys to be and I can use that with my IQ",
+      "quote": "I think just where to be spot-wise off the ball, because I knew when I was on the ball last year, I knew where I wanted guys to be and I can use that with my IQ to be where I need to be when the shots are ready.",
+      "start_seconds": 75,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Williams is using his experience as a primary ball handler to improve his off ball movement. He says he knows exactly where he wants guys to be when he has the ball so he is applying that IQ to his own positioning.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Williams",
+      "timestamp": "02:02",
+      "summary_phrase": "Jalen Williams on Jalen Williams's impact on the team",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "he makes the game easier for everyone and yeah he's just a force out there",
+      "quote": "It's pretty insane. It's fun watching him out there, fun playing with him out there, and he's going to be a huge help to this team. He makes the game easier for everyone and yeah he's just a force out there.",
+      "start_seconds": 122,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jalen Williams calls his teammate a force on the court who makes the game easier for everyone. He says it is fun watching him play and he will be a huge help to the team this year.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "05:03",
+      "summary_phrase": "Mark Daigneault on Jalen Williams's positional versatility",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "he's got great versatility positionally with playing him a lot at the four sometimes even the five",
+      "quote": "He's got great versatility positionally with playing him a lot at the four sometimes even the five. He could cover a lot of different matchups. He plays multiple coverages as he usually ends up guarding like fours sometimes even fives obviously.",
+      "start_seconds": 303,
+      "end_seconds": 319,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mark Daigneault highlights the positional versatility of Jalen Williams. The Thunder coach says Williams is capable of guarding fours and fives and can play multiple defensive coverages.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Daigneault",
+      "timestamp": "06:32",
+      "summary_phrase": "Mark Daigneault on rookies balancing aggression and system play",
+      "names_mentioned": [],
+      "excerpt": "being on a team with veteran players that are doing that makes it a lot easier",
+      "quote": "Being on a team with veteran players that are doing that makes it a lot easier. It stands out if anybody is playing like that on a given possession and I think if everybody was just like hunting shots, it would be more difficult to play like that.",
+      "start_seconds": 392,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault discusses how the Thunder veterans help rookies balance aggression with the team system. He notes that it would be difficult to play the right way if everyone on the floor was just hunting their own shots.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 6,
+      "speaker": "Mark Daigneault",
+      "timestamp": "07:10",
+      "summary_phrase": "Mark Daigneault on the addition of athletic performance director",
+      "names_mentioned": [],
+      "excerpt": "she's got a basketball background she played basketball in college but has been in the NFL since",
+      "quote": "MJ is really talented. She's got a basketball background she played basketball in college but has been in the NFL since. She's got a range of life experiences and has been a great addition so far.",
+      "start_seconds": 430,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mark Daigneault praises the addition of the new athletic performance director. He notes that she brings a unique basketball background from her college playing days and experience from the NFL.",
+      "team": "Oklahoma City Thunder"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "iIQoDJUi8B8",
+  "url": "https://www.youtube.com/watch?v=iIQoDJUi8B8",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-09T20:01:52Z",
+  "duration_seconds": 538,
+  "processed_at": "2026-10-10T00:03:09Z",
+  "run_id": "2026-10-10T0002Z-20utc",
+  "is_one_off": false
+}
