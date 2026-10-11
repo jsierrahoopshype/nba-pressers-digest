@@ -1,0 +1,85 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability | 10-10-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:21",
+      "summary_phrase": "Evaluating player performance in preseason lineup experiments",
+      "names_mentioned": [],
+      "excerpt": "We wanted to see what fit with that lineup.",
+      "quote": "It is good reps. I did not know exactly who they would play, but we wanted to see what fit with that lineup. Obviously, our lineup is not complete there either, but just giving them the reps, get out, start, see what it looks like. Also, back to that second unit, we will take a look at the film. A lot of times, the impact of that position is not always the box score stats. 10 to 15 is a heck of a night, but it does not matter who plays the five. We need 48 minutes of great five-man play.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Suns coach Jordan Ott on preseason lineup experiments: We need 48 minutes of great five man play regardless of who is on the floor. It is about more than just box score stats.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:37",
+      "summary_phrase": "The impact of size on defensive rim protection",
+      "names_mentioned": [
+        "Wembanyama"
+      ],
+      "excerpt": "Size deters rim shots at that position.",
+      "quote": "Size in general, size deters rim shots at that position. He does a great job of that. And then his ability to function on offense as a great screener, I think those two are highlighted every time he is out there. Tonight was more perimeter oriented because he had to guard people on the perimeter, and then offensively we were able to play through him at places tonight because of Wembanyama's presence defensively, consistently in the paint. He is taking steps that way, too.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott highlights the defensive value of size in the paint: Size deters rim shots. He noted that even when forced to guard on the perimeter, having a presence in the paint remains a priority.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:40",
+      "summary_phrase": "Player development and versatility in playmaking roles",
+      "names_mentioned": [],
+      "excerpt": "He has shown playmaking before in his career.",
+      "quote": "He has so much experience on different defenses. Some nights with the big back like that, he was able to move around. And then we have also is really good at playing with those types of movers, and he is taking a step. So, he has shown playmaking before in his career. Definitely last year at the end of last season kind of sticks out in everyone's mind, but he is a really good basketball player. We are lucky to have him.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jordan Ott praised the playmaking versatility of his roster, noting that the team is lucky to have players who can adapt to different defensive looks and move the ball effectively.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:00",
+      "summary_phrase": "Managing player minutes during the preseason schedule",
+      "names_mentioned": [],
+      "excerpt": "It is going to be more like tonight where it is a mix of guys.",
+      "quote": "It is going to be more like tonight where it is a mix of guys and you are going to use the minutes hard with the guys that play. But we will see. It is very fluid. We have a couple days here in between. Get a good practice in on Monday and then see where we are at on Wednesday.",
+      "text_blocks": [],
+      "start_seconds": 360,
+      "end_seconds": 383,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Suns coach Jordan Ott says preseason rotation minutes will remain fluid as the team prepares for upcoming games. We will use the minutes hard with the guys that play.",
+      "team": "Phoenix Suns"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "uPPYR40rG68",
+  "url": "https://www.youtube.com/watch?v=uPPYR40rG68",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-11T06:10:44Z",
+  "duration_seconds": 418,
+  "processed_at": "2026-10-11T12:51:39Z",
+  "run_id": "2026-10-11T1250Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,110 @@
+{
+  "video_title": "Luke Kennard Postgame On-Court Interview after preseason win vs San Antonio Spurs",
+  "speakers_seen": [
+    "Luke Kennard",
+    "Unidentified reporter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luke Kennard",
+      "speakers": [
+        "Luke Kennard",
+        "Unidentified reporter"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Luke Kennard on Suns' offensive movement and team chemistry",
+      "names_mentioned": [
+        "Luke Kennard"
+      ],
+      "excerpt": "When we play fast, when we play together like that, it's a lot of fun.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Obviously knew you were wanting to impact the game with your shooting, but what other areas were you looking to make a difference in?"
+        },
+        {
+          "speaker": "Luke Kennard",
+          "text": "A lot of movement, a lot of chaos on offense. When we play like that, when we play fast, when we play together like that, it's a lot of fun."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Luke Kennard says the Suns are prioritizing pace and movement this season, noting that when the team plays fast and together, it is a lot of fun.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 2,
+      "speaker": "Luke Kennard",
+      "speakers": [
+        "Luke Kennard",
+        "Unidentified reporter"
+      ],
+      "timestamp": "00:22",
+      "summary_phrase": "Luke Kennard on building good habits during preseason",
+      "names_mentioned": [
+        "Luke Kennard"
+      ],
+      "excerpt": "Our intensity, defensive intensity, our chaos on offense, our movement, our freedom, just the way we play together.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Coach said it was important with these exhibition games to just build good habits. What good habits do you think this Suns team found tonight?"
+        },
+        {
+          "speaker": "Luke Kennard",
+          "text": "Our intensity, defensive intensity, our chaos on offense, our movement, our freedom, just the way we play together. That's the way we want to play all year and our habits, they're getting there."
+        }
+      ],
+      "start_seconds": 22,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Luke Kennard says the Suns are focused on building defensive intensity and offensive chaos during the preseason to establish the habits they want to play with all year.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 3,
+      "speaker": "Luke Kennard",
+      "speakers": [
+        "Luke Kennard",
+        "Unidentified reporter"
+      ],
+      "timestamp": "00:49",
+      "summary_phrase": "Luke Kennard on team camaraderie and celebrating success",
+      "names_mentioned": [
+        "Luke Kennard"
+      ],
+      "excerpt": "We love when other people have success. We cheer each other on, we have each other's backs.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How a part of this team do you already feel? I mean these guys celebrating you in this postgame."
+        },
+        {
+          "speaker": "Luke Kennard",
+          "text": "It's a really good group of guys. We love when other people have success. We cheer each other on, we have each other's backs, and we play for one another. It's a lot of fun when we do that."
+        }
+      ],
+      "start_seconds": 49,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Luke Kennard praises the Suns team culture, saying the group loves when other people have success and that they truly play for one another.",
+      "team": "Phoenix Suns"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "u3y4zbTzKis",
+  "url": "https://www.youtube.com/watch?v=u3y4zbTzKis",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-11T05:15:06Z",
+  "duration_seconds": 98,
+  "processed_at": "2026-10-11T12:52:22Z",
+  "run_id": "2026-10-11T1250Z-06utc",
+  "is_one_off": false
+}
