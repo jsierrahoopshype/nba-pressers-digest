@@ -1,0 +1,90 @@
+{
+  "video_title": "Coach Charles Lee Pregame Media Availability | 10/11/26",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:14",
+      "summary_phrase": "Charles Lee on Taylor Jenkins' coaching opportunity in Milwaukee",
+      "names_mentioned": [
+        "Taylor Jenkins"
+      ],
+      "excerpt": "He's a very deserving coach to have another head coaching position.",
+      "quote": "I am very happy for Taylor Jenkins and his opportunity, not only for him, but also for his family. He is a very deserving coach to have another head coaching position. I think that he has earned that opportunity from all the hard work that he has put in. I believe he is the leading wins head coach in Memphis Grizzlies history. He has obviously helped rebuild that program and led them to the playoffs and he has shown the player development mindset that he has to help guys get better and be able to sign longer-term contracts. He has impacted a ton of people, he has impacted a whole organization.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee shares his support for Taylor Jenkins as he pursues new head coaching opportunities, noting that Jenkins has earned the chance through his work in Memphis.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "01:36",
+      "summary_phrase": "Charles Lee on Brandon Clarke's return and rehab progress",
+      "names_mentioned": [
+        "Brandon Clarke"
+      ],
+      "excerpt": "He's a big piece of what we do.",
+      "quote": "He is a big piece of what we do. I am also just happy for Brandon. I think that he has done a great job during his rehab stint, preparing his mind, preparing his body for this opportunity. To have him back out there, to start to see these guys start playing together a little bit more, build some chemistry and cohesion is going to be great. I am excited to have him back out there.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brandon Clarke is a big piece of what we do says Charles Lee. The coach is excited to see Clarke back on the floor as the team works to build chemistry and cohesion.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "02:02",
+      "summary_phrase": "Charles Lee on team consistency and defensive focus",
+      "names_mentioned": [],
+      "excerpt": "We got to be better. And I think that it's another really good opportunity for us.",
+      "quote": "It was a whole team thing. It is a staff thing, it is a team thing. We just got to be better. And I think that it's another really good opportunity for us to come in here today versus a good Bucks team and see where we can get better. I think that defensively we saw the good things that we did because there were a ton of good things, but we got to find that consistency. And that is what the preseason is about. It is a long journey, but you are just trying to continue to stack those days of consistency.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says the Hornets are focused on finding consistency defensively during the preseason, calling it a long journey to stack good days.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "04:51",
+      "summary_phrase": "Charles Lee on Dennis Schroder's professional growth and impact",
+      "names_mentioned": [
+        "Dennis Schroder",
+        "Kobe White"
+      ],
+      "excerpt": "I see the person, the professional, the way that he takes care of his body.",
+      "quote": "It is a holistic view of how much he has grown. I see the person, the professional, the way that he takes care of his body, to be working with the German national team most of the summer and then taking a couple weeks to go back and spend some time with his family and then come to training camp ready to go and tip-top shape. I am so impressed with the professionalism that he has, the communication level. He and I are able to talk about what is going on right now, what is new, what has he done before. I always believe as a coach we can learn from some of the players, especially the really good players and he has done it a long time. So, I trust his input and thoughts and opinions. And then I think that he has just shown to the young guys what it is like to work every day. A teammate has something going on, Kobe White in particular has an event going on and he and his wife get a babysitter, their first couple nights in Charlotte, but it meant that much to him. I see a ton of growth from him as a person, but a professional, and then on the court, I think that his competitive spirit shines through.",
+      "text_blocks": [],
+      "start_seconds": 291,
+      "end_seconds": 376,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee is impressed by the professional growth of Dennis Schroder, noting that he trusts the veteran guard's input and appreciates how he sets an example for the younger players.",
+      "team": "Charlotte Hornets"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "5FVDKuu2iVk",
+  "url": "https://www.youtube.com/watch?v=5FVDKuu2iVk",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-11T22:06:19Z",
+  "duration_seconds": 409,
+  "processed_at": "2026-10-11T23:39:30Z",
+  "run_id": "2026-10-11T2339Z-20utc",
+  "is_one_off": false
+}
