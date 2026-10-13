@@ -1,0 +1,104 @@
+{
+  "video_title": "Hawks vs. Thunder Postgame Press Conference: Zuby Ejiofor",
+  "speakers_seen": [
+    "Zuby Ejiofor"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Zuby Ejiofor",
+      "timestamp": "00:15",
+      "summary_phrase": "Zuby Ejiofor on defending and facing Ousmane Dieng",
+      "names_mentioned": [
+        "Ousmane Dieng"
+      ],
+      "excerpt": "they utilize him a lot more as an offensive hub, you know, this time around.",
+      "quote": "I think they utilize him a lot more as an offensive hub, you know, this time around. Having played with each other for a little while now, he was able to make some reads at the top of the key and we found ourselves in some miscommunication early on, but we were able to clean it up towards the end and come out with a victory.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zuby Ejiofor says the Hawks struggled with early miscommunication against Ousmane Dieng but cleaned it up to secure the win. He noted that OKC is utilizing Dieng much more as an offensive hub this time around.",
+      "team": "Atlanta Hawks"
+    },
+    {
+      "rank": 2,
+      "speaker": "Zuby Ejiofor",
+      "timestamp": "00:55",
+      "summary_phrase": "Zuby Ejiofor on his transition to the NBA game",
+      "names_mentioned": [],
+      "excerpt": "the biggest thing for me is learning. It's all a process and the NBA is all new.",
+      "quote": "The biggest thing for me is learning. It's all a process and the NBA is all new to me. I think I've done a decent job, I could do a little bit better, but that's why I rely on my teammates to teach me and tell me the ways of what to do and what not to do in coverage, offensive sets, and stuff of that nature. They've done a great job in making me feel comfortable and welcome here.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Zuby Ejiofor says he is relying on his teammates to help him learn NBA defensive coverages and offensive sets as he adjusts to the league. He admits it is all a process and he is still learning the ropes.",
+      "team": "Atlanta Hawks"
+    },
+    {
+      "rank": 3,
+      "speaker": "Zuby Ejiofor",
+      "timestamp": "01:42",
+      "summary_phrase": "Zuby Ejiofor on the Hawks' defensive identity",
+      "names_mentioned": [],
+      "excerpt": "getting stops and getting kills and getting on transition, I think we're a great transition team.",
+      "quote": "I think that's the standard we're trying to set each and every night, especially at the defensive end, getting stops and getting kills and getting on transition. I think we're a great transition team once we secure the rebounds. We did a great job, could have done better, but we did a great job in doing that, and once we get kills, we're a really tough team to beat in transition.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zuby Ejiofor says the Hawks are trying to set a defensive standard of getting stops and kills to fuel their transition game. He believes they are a really tough team to beat once they secure rebounds and get out in transition.",
+      "team": "Atlanta Hawks"
+    },
+    {
+      "rank": 4,
+      "speaker": "Zuby Ejiofor",
+      "timestamp": "02:22",
+      "summary_phrase": "Zuby Ejiofor on modeling his game after Aaron Gordon and OG Anunoby",
+      "names_mentioned": [
+        "Aaron Gordon",
+        "OG Anunoby"
+      ],
+      "excerpt": "a great person that I would like to model myself as would be Aaron Gordon or OG Anunoby.",
+      "quote": "A great person that I would like to model myself as would be Aaron Gordon or OG Anunoby, top of player, two-way capable guys. Don't need the ball in their hands necessarily to be able to impact the game, but just specializing in their roles. They know exactly what they bring to the table each and every night, and those are guys that do it on both sides of the ball.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zuby Ejiofor is modeling his game after Aaron Gordon and OG Anunoby. He wants to be a two-way player who does not need the ball in his hands to impact the game and specializes in his role on both sides of the floor.",
+      "team": "Atlanta Hawks"
+    },
+    {
+      "rank": 5,
+      "speaker": "Zuby Ejiofor",
+      "timestamp": "03:00",
+      "summary_phrase": "Zuby Ejiofor on learning from teammates",
+      "names_mentioned": [],
+      "excerpt": "it's a learning process for me, you know, just I think it's important that I learn the game first.",
+      "quote": "It's a learning process for me, you know, just I think it's important that I learn the game first and then go out there and capitalize when my moment is called. But yeah, I think O is doing a great job in taking me on his wing and teaching me the ways. I haven't been here for a little while now, kind of like OG. We're not going to call him OG yet though.",
+      "text_blocks": [],
+      "start_seconds": 180,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Zuby Ejiofor says he is focused on learning the game before his number is called. He credited his teammates for taking him under their wing as he continues his transition to the NBA.",
+      "team": "Atlanta Hawks"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "AL_2BLK3PnI",
+  "url": "https://www.youtube.com/watch?v=AL_2BLK3PnI",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-13T05:10:37Z",
+  "duration_seconds": 243,
+  "processed_at": "2026-10-13T14:13:11Z",
+  "run_id": "2026-10-13T1412Z-06utc",
+  "is_one_off": false
+}
