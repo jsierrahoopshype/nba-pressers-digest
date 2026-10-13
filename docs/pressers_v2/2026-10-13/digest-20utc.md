@@ -2,219 +2,235 @@
 
 # Press conferences
 
-## Head Coach Jordan Ott Practice Media Availability | 10-12-26 — *Phoenix Suns*
+## Myles Turner Media Availability | 10.13.26 — *Milwaukee Bucks*
 
-Source: [https://www.youtube.com/watch?v=HpyeJNVstjQ](https://www.youtube.com/watch?v=HpyeJNVstjQ)
+Source: [https://www.youtube.com/watch?v=_kEhOk8pui4](https://www.youtube.com/watch?v=_kEhOk8pui4)
 
-_Speakers identified: Jordan Ott_
+_Speakers identified: Myles Turner_
 
-**1. Jordan Ott — "the ankle is recovering at a good rate, but that's the one where we're not going to press." — Jordan Ott on Miles Bridges' ankle recovery and playing status** [00:30](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=30s)
+**1. Myles Turner — "I think we're trying to have a steady balance of both." — Myles Turner on the Bucks' ongoing offensive experimentation** [00:24](https://www.youtube.com/watch?v=_kEhOk8pui4&t=24s)
 
-Jordan Ott: "The ankle is recovering at a good rate, but that's the one where we're not going to press. That's the one I'm talking about. We're not going to press on if it's not perfect."
+Myles Turner: "It is definitely a work in progress. I think the biggest thing that we're trying to emulate is that chaos. In the games, it is going to be hectic. The NBA has changed quite a bit. There are some teams that run 100 pick and rolls, and some teams that just play driving kick. I think we're trying to have a steady balance of both. I think for right now, we're still trying to figure out rotations, still trying to figure out who works with who. That is what the preseason is for. I think that it is a good experimentation, experimental process right now, but for me right now, I like that we are able to go out there and just get live reps to see exactly what it may look like."
 
-[https://www.youtube.com/watch?v=HpyeJNVstjQ&t=30s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=30s)
+[https://www.youtube.com/watch?v=_kEhOk8pui4&t=24s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=24s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=30&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=24&q=1)</small>
 
-**2. Jordan Ott — "He knows how to prepare his self, his body and mind for what's about to come." — Jordan Ott on the team's preparation for the upcoming season** [01:13](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=73s)
+**2. Myles Turner — "That is one thing that I think is, you know, great is depth." — Myles Turner on team depth and building chemistry** [00:55](https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s)
 
-Jordan Ott: "He knows how to prepare his self, his body and mind for what's about to come. Marathons are about to come and he's had a great summer, but now it's a fine tuning as we get into the season."
+Myles Turner: "We each all have our unique things about us that make us special. That is one thing that I think is, you know, great is depth. I mean, it was guys getting on the rim like **Jericho**, guys that stretch the floor like me and **Kahlil** ourselves, you know, shot blockers. So now it is again, it is just a matter of seeing, you know, how we work the best together. And that is what these live reps are for. So I personally enjoy getting to know these guys, you know, through practice. Obviously, me and J-Rock have some history, but getting to know **Kahlil**, getting to know what he likes, what he does not like, and just, you know, you said it, it is just reps."
 
-[https://www.youtube.com/watch?v=HpyeJNVstjQ&t=73s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=73s)
+[https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=55&q=2)</small>
 
-**3. Jordan Ott — "his ability to still move in today's league, I think that's different." — Jordan Ott on the unique shooting ability of Kevin Durant** [02:30](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=150s)
+**3. Myles Turner — "I have got the most years on the team, you know, just using my voice." — Myles Turner on his leadership role with the Bucks** [01:56](https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s)
 
-Jordan Ott: "His ability to still move in today's league, I think that's different. Joe Harrison and Kyle Korver did it in a different time period where now it's not as much. It's more like handoffs from a stationary five, before it was a little bit of dribble handoffs but it was a lot of pin downs. So that's a little bit different. He has a very quick release, incredible touch, and that's just one part of his game."
+Myles Turner: "I think since I have been in the league, I have been considered, you know, a leader, you know, from like my fourth or fifth year on. But now, you know, this is I have got the most years on the team, you know, just using my voice, using my experience just to kind of lead the charge, you know, more than anything. You know, there is good things and bad things that come with being a leader, you know what I am saying? I am ready to take on everything that, you know, comes with that. You know, it is going to be great nights, it is going to be bad nights, and everything in between. So, the leadership role is something that, you know, I think has just been I have been tasked with, you know, even since the summertime, just coming here every single day."
 
-[https://www.youtube.com/watch?v=HpyeJNVstjQ&t=150s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=150s)
+[https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=150&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=116&q=3)</small>
 
-**4. Jordan Ott — "He's a confident shooter now, off the bounce and off the catch." — Jordan Ott on Kevin Durant's improved shot selection and confidence** [05:00](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=300s)
+**4. Myles Turner — "I am being asked to crash the glass more than I have been in the past." — Myles Turner on his evolving role in the offense** [02:33](https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s)
 
-Jordan Ott: "He's a confident shooter now, off the bounce and off the catch. He's definitely improved. 12 months he's definitely improved. He was here all summer. A lot of times it was late at night with his brother coming back. He has his own people to come in. He knows that's a part of his game that he could get better at and he did."
+Myles Turner: "I stretch the floor, you know, quite a bit, and I am being asked to crash the glass more than I have been in the past to what not. So that is an emphasis for our entire offense. You are going to see me, you know, playmaking a little bit more as far as, you know, ball top of the key or what not. It is a variance of things, but I think the biggest thing that I really have to take on is just being a leader of the team."
 
-[https://www.youtube.com/watch?v=HpyeJNVstjQ&t=300s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=300s)
+[https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=300&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=153&q=4)</small>
 
-**5. Jordan Ott — "If you just play some time in the NBA, you see how depth matters." — Jordan Ott on the importance of depth in the NBA** [07:22](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=442s)
+**5. Myles Turner — "I love Taylor's intensity. I love the way his his approach, you know, to the game." — Myles Turner on Coach Taylor's intensity and culture** [03:25](https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s)
 
-Jordan Ott: "If you just play some time in the NBA, you see how depth matters. You're going to get your opportunity. We saw it last year. You see it around all sports. It feels like the NFL has a ton of injuries. Everyone's going to get their opportunity. You got to be ready to play. And even though you could be out of the rotation to start, your name's going to be called, then it's are you ready? Are you ready and then can you do it at a high enough level time after time after time?"
+Myles Turner: "I love **Taylor**'s intensity. I love the way his his approach, you know, to the game and to just an everyday process. You know, I think, you know, we can keep on making excuses every single day where a new group, you know, we got this to prove, blah blah blah, but he has been the same every single day, you know, and I think that, you know, as a leader, you know, especially a leader in the charge or what not, that is important, you know, for guys to see, you know, you to know, walk in the walk. So, you know, he is asked me to hold him accountable, and vice versa. And I think that he has got a great direct relationship with us as players, and, you know, I got to compliment his staff as well."
 
-[https://www.youtube.com/watch?v=HpyeJNVstjQ&t=442s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=442s)
+[https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=442&q=5)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=205&q=5)</small>
 
-**6. Jordan Ott — "We don't want to change the player per se, like we want to highlight their greatest skills." — Jordan Ott on balancing player strengths with team system** [09:14](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=554s)
+**6. Myles Turner — "We are trying to, you know, establish who we are, establish our identity." — Myles Turner on the team's culture and future identity** [04:12](https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s)
 
-Jordan Ott: "We don't want to change the player per se, like we want to highlight their greatest skills within the framework of what we how we want to play and the identity of our group. It's a balance, but it's first and foremost learning your players, watching them from afar especially if they've had a career. And then even young guys coming into the system, they still have superpowers that can translate to the NBA."
+Myles Turner: "Yeah, I think the mindset, you know, can be similar, but I I can't I don't think you can directly compare, you know, those rosters, you know what I mean? I think that, you know, you have two different coaching styles, you know what I mean? Obviously, you have two different systems, you know, but as far as the attitude and the approach that you are supposed to bring every single day, I can draw some similarities there. But, you know, yeah, we are trying to, you know, establish who we are, establish our identity, establish what we want to be through the future. So, you know, these are important years for us, you know, I mean, no matter what, you know, happens out on the floor, you know, it is important just to, you know, establish what we want this city and this organization to be for the future."
 
-[https://www.youtube.com/watch?v=HpyeJNVstjQ&t=554s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=554s)
+[https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=554&q=6)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=252&q=6)</small>
+
+**7. Myles Turner — "I am in a very blessed position, bro." — Myles Turner on his perspective as a veteran leader** [05:22](https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s)
+
+Myles Turner: "I was actually just having this conversation, you know, with my my fiance and my family is like, I am in a very blessed position, bro. You know, I have, you know, I signed here, you know, obviously, you know, with those playoff aspirations and you know, trying to, you know, take my career to that next level. But I get to wake up every single day, you know, make a lot of money to play a game, you know what I mean? And, you know, no matter what level you try to scale that to, you know, **Darvin Ham** has such a great quote after practice the other day, you know, I live downtown and you know, I respect the people, you know, who are out there working construction, it is so loud, you know what I mean? But, you know, those guys are literally out there busting concrete for damn near minimum wage, and we are expected to come out here, keep ourselves in shape, and, you know, play basketball, you know, to make the checks that we make. So, I try to keep that perspective no matter where I am at."
+
+[https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s)
+
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=322&q=7)</small>
 
 ---
 
-## Jordan Goodwin Practice Media Availability | 10-12-26 — *Phoenix Suns*
+## Philadelphia 76ers Practice Media Availability 🎙️ | VJ Edgecombe | 10.13.26 — *Philadelphia 76ers*
 
-Source: [https://www.youtube.com/watch?v=Vok5VGGT2OA](https://www.youtube.com/watch?v=Vok5VGGT2OA)
+Source: [https://www.youtube.com/watch?v=bBuuMx3RFek](https://www.youtube.com/watch?v=bBuuMx3RFek)
 
-_Speakers identified: Jordan Goodwin_
+_Speakers identified: VJ Edgecombe_
 
-**1. Jordan Goodwin — "I feel like I'm already on edge when I walk into the arena." — Jordan Goodwin on his high-energy approach to practice and games** [00:05](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=5s)
+**1. VJ Edgecombe — "we just playing unselfish basketball and everyone's just moving, spacing" — VJ Edgecombe on the team's selfless offensive approach** [00:22](https://www.youtube.com/watch?v=bBuuMx3RFek&t=22s)
 
-Jordan Goodwin: "I bring energy. I feel like I'm already on edge when I walk into the arena. Like today in practice, I was on edge, I was hyped up, turned up for no reason today. So I feel like when I walk in the arena, I'm already there."
+VJ Edgecombe: "I think we just playing unselfish. We just playing unselfish basketball and everyone's just moving, spacing and I think that's what it is, man. Just being unselfish, playing with no egos, just having fun, being able, we're all just happy to share the floor with one another."
 
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=5s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=5s)
+[https://www.youtube.com/watch?v=bBuuMx3RFek&t=22s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=22s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=22&q=1)</small>
 
-**2. Jordan Goodwin — "No mask this year for right now, until I get hit." — Jordan Goodwin on the team's lack of masks this season** [00:50](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=50s)
+**2. VJ Edgecombe — "defensively you're going to get Joel Embiid. He's been really good" — VJ Edgecombe praises Joel Embiid's defensive impact** [01:26](https://www.youtube.com/watch?v=bBuuMx3RFek&t=86s)
 
-Jordan Goodwin: "No mask this year for right now, until I get hit. It's going to happen pretty soon, so the mask will be out pretty soon."
+VJ Edgecombe: "He's been great. Like you say, he's on both ends of the floor. Offensively you're going to get **Joel Embiid**, defensively you're going to get **Joel Embiid**. He's been really good, especially defensively. It's been what I've seen the past couple weeks, he's been playing really hard, defending at a high level and just trying to do his best, just protecting the rim and rebounding the ball. He's been great."
 
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=50s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=50s)
+[https://www.youtube.com/watch?v=bBuuMx3RFek&t=86s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=86s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=86&q=2)</small>
 
-**3. Jordan Goodwin — "We got a good group of guys, so the spirit is always high in here." — Jordan Goodwin on the positive team culture and energy** [01:15](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=75s)
+**3. VJ Edgecombe — "I got great rim presence behind me and it just even gives me more confidence" — VJ Edgecombe on the confidence provided by rim protection** [02:11](https://www.youtube.com/watch?v=bBuuMx3RFek&t=131s)
 
-Jordan Goodwin: "We got a good group of guys, so the spirit is always high in here. And it's just not me, we got other guys that's in here. Man-Man, he's always loud, singing, top of his lungs. **Katy Perry**, **Adele**, whatever he's singing in the morning. So it's just good vibes in here."
+VJ Edgecombe: "Most of the time it's going to come down to one-on-one and you have to guard your yard, but I know I got great rim presence behind me and it just even gives me more confidence when it comes to guarding. I got more confidence now that they might not want to go to the rim, so now it becomes a tougher shot, which we're living with."
 
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=75s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=75s)
+[https://www.youtube.com/watch?v=bBuuMx3RFek&t=131s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=131s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=75&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=131&q=3)</small>
 
-**4. Jordan Goodwin — "I think about my sons and who I do it for for a minute." — Jordan Goodwin on his pre-game routine and motivation** [01:54](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=114s)
+**4. VJ Edgecombe — "JB is one of my favorite people in the world" — VJ Edgecombe on his relationship with teammate Jaylen Brown** [03:26](https://www.youtube.com/watch?v=bBuuMx3RFek&t=206s)
 
-Jordan Goodwin: "During that national anthem I pray. I pray during the national anthem. Then like before the pre-game, I just think about my sons and who I do it for for a minute, and that really give me going when I think about them."
+VJ Edgecombe: "JB is one of my favorite people in the world. He's a great person, someone that I talk to every day. He's a leader, he's just **Jaylen Brown**. He's a great person and that's someone that I just have a really good relationship with, even though we just met a few months ago."
 
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=114s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=114s)
+[https://www.youtube.com/watch?v=bBuuMx3RFek&t=206s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=206s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=114&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=206&q=4)</small>
 
-**5. Jordan Goodwin — "We can talk to each other, we hold each other accountable, and it's all love." — Jordan Goodwin on the team's chemistry and accountability** [02:17](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=137s)
+**5. VJ Edgecombe — "his confidence is through the roof. Everyone know he plays with such a swagger" — VJ Edgecombe on Baron Filer's confidence and swagger** [04:21](https://www.youtube.com/watch?v=bBuuMx3RFek&t=261s)
 
-Jordan Goodwin: "We got a good group of guys. We all vibe, like there's no arguments, no nothing. We can talk to each other, we hold each other accountable, and it's all love. But like I said, it's easy when you can come to work and everybody's cool. Everybody want to be here, everybody accepting the roles, everybody understand like it's not their time, their time coming."
+VJ Edgecombe: "His confidence is through the roof. Everyone know he plays with such a swagger. Obviously we've seen him in college and stuff like that, I played against him in high school. He always had that swagger, he always been confident. I'm just happy to see him on the floor, he's playing really well."
 
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=137s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=137s)
+[https://www.youtube.com/watch?v=bBuuMx3RFek&t=261s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=261s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=137&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=261&q=5)</small>
 
-**6. Jordan Goodwin — "Luke, the first day, he said, do we have to actually go all the way in there and crash?" — Jordan Goodwin on Luke Kennard's adjustment to the team** [03:27](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=207s)
+**6. VJ Edgecombe — "I just try to learn, see how they try to manipulate the offensive player" — VJ Edgecombe on learning the nuances of point-of-attack defense** [04:57](https://www.youtube.com/watch?v=bBuuMx3RFek&t=297s)
 
-Jordan Goodwin: "Luke, the first day, he said, do we have to actually go all the way in there and crash? I said, no, you just got to go touch somebody. But I told him, we got on offensive rebounding, it's free range to shoot a three. So you get the rebound, you can fire, and nobody going to say nothing to you. So Luke, he going to fit in. He's a veteran player, he competes. He's actually a really good defender, I don't think people really realize that."
+VJ Edgecombe: "I just try to learn, see how they try to manipulate the offensive player. The point of attack defense is most important, gets the defense rolling, so I just try to make sure I'm locked in defensively where it forces us not to rotate as much as we'd want to."
 
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=207s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=207s)
+[https://www.youtube.com/watch?v=bBuuMx3RFek&t=297s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=297s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=207&q=6)</small>
-
-**7. Jordan Goodwin — "I'm at an all-time high shooting the ball, man." — Jordan Goodwin on his confidence in his shooting ability** [04:02](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=242s)
-
-Jordan Goodwin: "I'm at an all-time high shooting the ball, man. I put the work in the summer again, more shots than I did the last summer before. So just continue to keep seeing the improvements. I am a shooter, I'm going to knock it down you leave me open. That's how I feel. Contested, I'm going to knock it down."
-
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=242s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=242s)
-
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=242&q=7)</small>
-
-**8. Jordan Goodwin — "Ryan is making a huge leap right now, especially on the defensive end." — Jordan Goodwin on Ryan Dunn's defensive growth** [04:29](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=269s)
-
-Jordan Goodwin: "Ryan is making a huge leap right now, especially on the defensive end. His physicality, I think he's starting to use his athleticism with his, it's starting to help him out now. I think he's starting to understand his spots and on offensive end he's being perfect. He's causing, he's making rebounds, getting plays, hitting trays, rebounding."
-
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=269s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=269s)
-
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=269&q=8)</small>
-
-**9. Jordan Goodwin — "I'm going to see the steals first." — Jordan Goodwin on his personal stat priorities** [04:55](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=295s)
-
-Jordan Goodwin: "I'm going to see the steals first. Then I probably look at rebounds, then that plus-minus."
-
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=295s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=295s)
-
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=295&q=9)</small>
-
-**10. Jordan Goodwin — "I'd be Book. He's up there, I think." — Jordan Goodwin on the team's age and veteran presence** [05:39](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=339s)
-
-Jordan Goodwin: "I'd be Book. He's up there, I think. Luke's second oldest. I don't know how old Wop is. I thought he was the oldest. I know he old in the NBA years. He a old dog in the NBA years for sure."
-
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=339s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=339s)
-
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=339&q=10)</small>
-
-**11. Jordan Goodwin — "Luke a shooter, that's a super skill." — Jordan Goodwin on his teammates' unique super skills** [07:32](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=452s)
-
-Jordan Goodwin: "Luke a shooter, that's a super skill. Bouye speed. I want to say sheer recovery time. I feel like he's the only person I've seen that can be late out of position and go make a block somewhere. So I feel like that's his super skill."
-
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=452s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=452s)
-
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=452&q=11)</small>
-
-**12. Jordan Goodwin — "That's why I get a rebound, I take it to the corner sometimes and just see." — Jordan Goodwin on the team's offensive rebounding rule** [08:10](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=490s)
-
-Jordan Goodwin: "That's why I get a rebound, I take it to the corner sometimes and just see. Nobody there, I'm letting it ride."
-
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=490s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=490s)
-
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=490&q=12)</small>
-
-**13. Jordan Goodwin — "I feel like when I came in, I was, my OGs was Greg Monroe, Taj Gibson." — Jordan Goodwin on the evolving definition of a veteran** [08:33](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=513s)
-
-Jordan Goodwin: "I feel like when I came in, I was, my OGs was **Greg Monroe**, **Taj Gibson**, you know what I'm saying? Like those old guys, you know what I'm saying? Those old, like 35, old guys. So like it's changing. It's changing. Like you know what I'm saying? Cole come in and his vet is, it's Book, 30 years old. So it's crazy."
-
-[https://www.youtube.com/watch?v=Vok5VGGT2OA&t=513s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=513s)
-
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=513&q=13)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=297&q=6)</small>
 
 ---
 
-## Collin Gillespie Practice Media Availability | 10-12-26 — *Phoenix Suns*
+## Taylor Jenkins Media Availability | 10.13.26 — *Milwaukee Bucks*
 
-Source: [https://www.youtube.com/watch?v=HtVjTJxTZ5g](https://www.youtube.com/watch?v=HtVjTJxTZ5g)
+Source: [https://www.youtube.com/watch?v=I7Xh_m0EBhI](https://www.youtube.com/watch?v=I7Xh_m0EBhI)
 
-_Speakers identified: Collin Gillespie_
+_Speakers identified: Taylor Jenkins_
 
-**1. Collin Gillespie — "I think it's just his personality, the way he carries himself, how hard he plays." — Collin Gillespie on Kevin Durant's competitive personality and character** [00:09](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=9s)
+**1. Taylor Jenkins — "Tyler is a little under the weather, wasn't here today. Hopefully he heals up and is back tomorrow." — Taylor Jenkins on Tyler Herro and Nate Williams injury updates** [00:04](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=4s)
 
-Collin Gillespie: "I think it's just his personality, the way he carries himself, how hard he plays. I think fans appreciate when people play hard and are competitive on every night, and he is one of those guys. I would say that, but also he is a really good person to be around. Obviously other people from outside don't see it, but when you get to be around him, he is a really good dude and cares a lot about his teammates and is always looking out for people."
+Taylor Jenkins: "Tyler is a little under the weather, wasn't here today. Hopefully he heals up and is back tomorrow. Nate is progressing, a little bit more movement in the half court, but definitely kind of constrained there, but making some positive progress right now."
 
-[https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=9s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=9s)
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=4s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=4s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=4&q=1)</small>
 
-**2. Collin Gillespie — "It is really just reading what the defense gives us. If they are in a drop coverage." — Collin Gillespie on his approach to shooting and reading defenses** [02:03](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=123s)
+**2. Taylor Jenkins — "It's got to be an everyday thing behind closed doors, through the doors, over the doors." — Taylor Jenkins on evaluating defensive effort and team consistency** [00:44](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s)
 
-Collin Gillespie: "It is really just reading what the defense gives us. If they are in a drop coverage, I am going to try and come off and shoot it. Obviously if there is longer defenders, if it is a guy like Wembanyama where he can do a little bit of both, you have to read the situation. But if it is there, I work on it a lot, so I will take it."
+Taylor Jenkins: "I think we got a lot of guys I'm trying to evaluate. I think they're going to get opportunities tomorrow in Game 4, and it's got to be an everyday thing behind closed doors, through the doors, over the doors, in between the doors, all the above. But I think those guys really kind of latching on to the defensive side, on-ball pressure, full court, size, physicality, I want to push those guys even more."
 
-[https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=123s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=123s)
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=123&q=2)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=44&q=2)</small>
 
-**3. Collin Gillespie — "I just told him, I was like, shoot first and ask questions later." — Collin Gillespie on Kevin Durant's shooting efficiency and mindset** [05:09](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=309s)
+**3. Taylor Jenkins — "He's on track making progress. Obviously we're doing everything possible to hopefully be available for opening night." — Taylor Jenkins on Nate Williams' availability for opening night** [01:26](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s)
 
-Collin Gillespie: "I just told him, I was like, shoot first and ask questions later. You shoot 48% from three, which is ridiculous. I just told him, I was like, shoot that. He was like, I am like, shoot first and ask questions after."
+Taylor Jenkins: "Still TBD. He's on track making progress. Obviously we're doing everything possible to hopefully be available for opening night, but I think we'll have a better indication once we get through this week and we get through the weekend and what that final ramp up looks like Monday, Tuesday next week. Our goal is to obviously have him available, but currently right now, it's going well and we'll just see how he responds day to day."
 
-[https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=309s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=309s)
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=309&q=3)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=86&q=3)</small>
 
-**4. Collin Gillespie — "Michael Porter Jr. might be the best tough shot maker and workout shooter I have ever seen." — Collin Gillespie on Michael Porter Jr.'s shot-making ability** [07:16](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=436s)
+**4. Taylor Jenkins — "For a young guy, it's really just studying the league, watching a lot of film." — Taylor Jenkins on preparing young players like Younge Claire** [01:58](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s)
 
-Collin Gillespie: "**Michael Porter Jr.** might be the best tough shot maker and workout shooter I have ever seen in my life."
+Taylor Jenkins: "I don't think there's one way to prepare for an opponent, but with the plethora of information out there, we try to filter it to a simpler approach. It's player tendencies, it's game plan, it's game plan execution and discipline that we're going to ask him and his teammates to go out and do on a night-to-night basis. For a young guy, it's really just studying the league, watching a lot of film. Our staff and our video guys get that to these guys in advance. It's game minutes, it's tendencies of players, guys that maybe matched up with, with our offensive rebounding and our switching."
 
-[https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=436s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=436s)
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=436&q=4)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=118&q=4)</small>
 
-**5. Collin Gillespie — "I have just been able to find ways to play off the ball, catching and shooting." — Collin Gillespie on finding his role and playing off the ball** [07:40](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=460s)
+**5. Taylor Jenkins — "I'll continue to evaluate in the next week or so, obviously the nature of the roster." — Taylor Jenkins on the potential for three-guard lineups** [03:27](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s)
 
-Collin Gillespie: "I have just been able to find ways to play off the ball, catching and shooting, playing get action, pick and roll threes. I think my superpower is shooting and finding ways to get those off."
+Taylor Jenkins: "I'll continue to evaluate in the next week or so, obviously the nature of the roster as you said, trying to play a little bit bigger maybe the next game, just to get a different look there and developing the chemistry. I think it's going to be a work in progress. I don't think it's going to be finalized by opening night. I think there's going to be maybe pockets throughout the game where we're going to have guard lineups and that could happen by script or it could happen just by the nature of what the game reveals to you."
 
-[https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=460s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=460s)
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=460&q=5)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=207&q=5)</small>
+
+**6. Taylor Jenkins — "I love the competitiveness of Jaime, getting him to be more exposed in the starting lineup." — Taylor Jenkins on Jaime's development and defensive growth** [04:41](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s)
+
+Taylor Jenkins: "I love the competitiveness of **Jaime**, getting him to be more exposed in the starting lineup, seek that opportunity, seek those challenges. He and I have had great conversations about wanting to take the next step defensively. He's obviously in the first three matchups taking some difficult matchups and had some good moments and had some learning moments too. Regardless of where he ends up, starting, coming off the bench, I think he can make a significant impact for us, but I really want him to take that next step defensively."
+
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s)
+
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=281&q=6)</small>
+
+**7. Taylor Jenkins — "It's a balance of organic and not formal meetings too." — Taylor Jenkins on the decision-making process with John** [05:41](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s)
+
+Taylor Jenkins: "It's a balance of organic and not formal meetings too. After our games we're having touch base on a lot of different things. Obviously roster being towards the top of that list of course and difficult decision that we're going to have to make here by I think Monday. But then we're also having some formal meetings too. A lot of work was done even during the summer, so we're not just saying, hey, we've only been together for two weeks since camp started. We've done a lot of homework here, we've studied these guys, we're really thinking about what the future has for us and trying to get these important decisions right as best as possible."
+
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s)
+
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=341&q=7)</small>
+
+**8. Taylor Jenkins — "Our real test starts next Wednesday. I stress to them today the level of urgency." — Taylor Jenkins on the team's defensive focus heading into the season** [06:45](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s)
+
+Taylor Jenkins: "Our real test starts next Wednesday. I stress to them today the level of urgency and care factor they got to have even through the last week of preseason and the natural excitement that next Wednesday is going to bring. But we've got a lot to we got to clean up on defensive side and on the offensive side as well. So the rotations, I could see it being open still. It's open competition, should be our mentality all season long and when the guys earn it and are consistently giving us what we need every single night, it starts with me."
+
+[https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s)
+
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=405&q=8)</small>
+
+---
+
+## AJ Green Media Availability | 10.13.26 — *Milwaukee Bucks*
+
+Source: [https://www.youtube.com/watch?v=LIrgn0cbfQE](https://www.youtube.com/watch?v=LIrgn0cbfQE)
+
+_Speakers identified: AJ Green_
+
+**1. AJ Green — "It's a great thing to have that depth and to have multiple guys on a night" — AJ Green on the value of team depth and competition** [00:46](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=46s)
+
+AJ Green: "It's a great thing to have that depth and to have multiple guys on a night that can go out there and impact and help win a game. Because of that as well, it requires even more of the little things that we talk about, like the willingness to communicate, to come together, to get on the same page, because there is so many different lineups and things that could be out there. It's exciting and makes for great competition in practice, going at each other and pushing each other to get better, and that's only going to benefit all of us in the long run regardless of what happens."
+
+[https://www.youtube.com/watch?v=LIrgn0cbfQE&t=46s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=46s)
+
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=46&q=1)</small>
+
+**2. AJ Green — "Taylor does an incredible job with his attention to detail, being intentional about what we're working on" — AJ Green on Taylor Jenkins' attention to detail in practice** [02:25](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s)
+
+AJ Green: "Taylor does an incredible job with his attention to detail, being intentional about what we're working on, the purpose of each drill, what our focus is, and being about the process of it. Results aside, we're going to work on this today. All the drills are structured around that, and can we say from watching film before practice to the end of practice that we improved on that today? And that's our focus one day at a time."
+
+[https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s)
+
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=145&q=2)</small>
+
+**3. AJ Green — "It's so good to practice that way because it really stresses you" — AJ Green on translating practice intensity to game situations** [03:23](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s)
+
+AJ Green: "It's so good to practice that way because it really stresses you, like you're processing, you're thinking physically, your communication, and that's a great thing that we need to work on. The more that we can take it from the practice floor and have that same organized chaos, but then in games, be very organized and intentional and execute well and not maybe get sped up or lack spacing or lack screening and the little things. We got to keep that pace, that fast go-go-go, but then also be slow within it to execute."
+
+[https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s)
+
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=203&q=3)</small>
+
+**4. AJ Green — "How can we be less wrong? The goal is to be right" — AJ Green on the goal of reducing mistakes over time** [04:15](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s)
+
+AJ Green: "I like to see it as how can we be less wrong? The goal is to be right, but it's super hard to be exactly right all the time. So the translation, it's like we're going to make mistakes, but how can we just over time be less wrong and do more of the right stuff and just stack that and stack that and learn throughout it. But it's tough, but like I said, the process, he does such a good job of practice film, this is what we're focused on, and let's just lock in on that today and get better at it."
+
+[https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s)
+
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=255&q=4)</small>
 
 ---
 

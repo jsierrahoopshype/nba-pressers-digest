@@ -1,0 +1,85 @@
+{
+  "video_title": "AJ Green Media Availability | 10.13.26",
+  "speakers_seen": [
+    "AJ Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "AJ Green",
+      "timestamp": "00:46",
+      "summary_phrase": "AJ Green on the value of team depth and competition",
+      "names_mentioned": [],
+      "excerpt": "It's a great thing to have that depth and to have multiple guys on a night",
+      "quote": "It's a great thing to have that depth and to have multiple guys on a night that can go out there and impact and help win a game. Because of that as well, it requires even more of the little things that we talk about, like the willingness to communicate, to come together, to get on the same page, because there is so many different lineups and things that could be out there. It's exciting and makes for great competition in practice, going at each other and pushing each other to get better, and that's only going to benefit all of us in the long run regardless of what happens.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "AJ Green on the Bucks roster depth: It is a great thing to have multiple guys on a night that can go out there and impact and help win a game. It makes for great competition in practice.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 2,
+      "speaker": "AJ Green",
+      "timestamp": "02:25",
+      "summary_phrase": "AJ Green on Taylor Jenkins' attention to detail in practice",
+      "names_mentioned": [
+        "Taylor Jenkins"
+      ],
+      "excerpt": "Taylor does an incredible job with his attention to detail, being intentional about what we're working on",
+      "quote": "Taylor does an incredible job with his attention to detail, being intentional about what we're working on, the purpose of each drill, what our focus is, and being about the process of it. Results aside, we're going to work on this today. All the drills are structured around that, and can we say from watching film before practice to the end of practice that we improved on that today? And that's our focus one day at a time.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "AJ Green praises the coaching staff for their attention to detail in practice, noting that the team is focused on being about the process and improving one day at a time.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 3,
+      "speaker": "AJ Green",
+      "timestamp": "03:23",
+      "summary_phrase": "AJ Green on translating practice intensity to game situations",
+      "names_mentioned": [],
+      "excerpt": "It's so good to practice that way because it really stresses you",
+      "quote": "It's so good to practice that way because it really stresses you, like you're processing, you're thinking physically, your communication, and that's a great thing that we need to work on. The more that we can take it from the practice floor and have that same organized chaos, but then in games, be very organized and intentional and execute well and not maybe get sped up or lack spacing or lack screening and the little things. We got to keep that pace, that fast go-go-go, but then also be slow within it to execute.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "AJ Green on translating practice intensity to game situations: We have to keep that fast go-go-go pace, but then also be slow within it to execute.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 4,
+      "speaker": "AJ Green",
+      "timestamp": "04:15",
+      "summary_phrase": "AJ Green on the goal of reducing mistakes over time",
+      "names_mentioned": [],
+      "excerpt": "How can we be less wrong? The goal is to be right",
+      "quote": "I like to see it as how can we be less wrong? The goal is to be right, but it's super hard to be exactly right all the time. So the translation, it's like we're going to make mistakes, but how can we just over time be less wrong and do more of the right stuff and just stack that and stack that and learn throughout it. But it's tough, but like I said, the process, he does such a good job of practice film, this is what we're focused on, and let's just lock in on that today and get better at it.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 295,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "AJ Green on the team's development philosophy: The goal is to be right, but how can we just over time be less wrong and do more of the right stuff and just stack that?",
+      "team": "Milwaukee Bucks"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "LIrgn0cbfQE",
+  "url": "https://www.youtube.com/watch?v=LIrgn0cbfQE",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-13T21:02:19Z",
+  "duration_seconds": 298,
+  "processed_at": "2026-10-13T23:44:08Z",
+  "run_id": "2026-10-13T2343Z-20utc",
+  "is_one_off": false
+}
