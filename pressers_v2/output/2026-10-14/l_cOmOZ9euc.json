@@ -1,0 +1,91 @@
+{
+  "video_title": "Indiana Pacers Postgame Media Availability (at Thunder) | October 13, 2026",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:00",
+      "summary_phrase": "Rick Carlisle offers condolences to Ortega O'A regarding a personal situation",
+      "names_mentioned": [
+        "Ortega O'A"
+      ],
+      "excerpt": "our collective prayers go out to Ortega O'A. Not sure what happened there, but it looked daunting",
+      "quote": "First of all, our collective prayers go out to Ortega O'A. Not sure what happened there, but it looked like a daunting situation and so, you know, we wish him the best.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 12,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Rick Carlisle sends his well wishes to Ortega O'A after a daunting situation during the game.",
+      "team": "Indiana Pacers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:35",
+      "summary_phrase": "Rick Carlisle praises Tyrese Haliburton's approach and resilience in his return",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "he just came and played his game and he was Tyrese Haliburton",
+      "quote": "Just the approach, you know, coming back in here and being really undaunted by anything that's happened in the past and he just came and played his game and he was Tyrese Haliburton.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle praised Tyrese Haliburton for his resilience in his return to the court saying he was just Tyrese Haliburton.",
+      "team": "Indiana Pacers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:51",
+      "summary_phrase": "Rick Carlisle highlights Avita Zubac's versatility and impact on the team",
+      "names_mentioned": [
+        "Avita Zubac"
+      ],
+      "excerpt": "his screening is something that's going to be a major plus for us",
+      "quote": "He's got great feel, he's got a lot of skill, he's got power, size, his screening is something that's going to be a major plus for us and he's adjusting to a different style of play and a different group of players.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Rick Carlisle says Avita Zubac is adjusting well to the team and expects his screening to be a major plus for the Pacers this season.",
+      "team": "Indiana Pacers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:59",
+      "summary_phrase": "Rick Carlisle discusses Tyrese Haliburton's physical progression during training camp",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "we expected him to get stronger each game",
+      "quote": "If you're looking for a positive progression throughout training camp and as the games have gone forward, this is what we all expected. We expected him to get stronger each game, more better rhythm, better conditioning, all those kinds of things.",
+      "text_blocks": [],
+      "start_seconds": 179,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle says Tyrese Haliburton is showing positive progression throughout training camp and expects him to get stronger each game.",
+      "team": "Indiana Pacers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "l_cOmOZ9euc",
+  "url": "https://www.youtube.com/watch?v=l_cOmOZ9euc",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-14T03:27:37Z",
+  "duration_seconds": 225,
+  "processed_at": "2026-10-14T11:53:08Z",
+  "run_id": "2026-10-14T1152Z-06utc",
+  "is_one_off": false
+}
