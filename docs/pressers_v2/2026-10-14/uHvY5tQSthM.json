@@ -1,0 +1,106 @@
+{
+  "video_title": "LIVE: Pelicans vs. Mavericks Pregame w/ Jamahl Mosley 10/14/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:27",
+      "summary_phrase": "Coach Mosley on team focus for the preseason",
+      "names_mentioned": [],
+      "excerpt": "cleaning up our turnovers, continuing the process of what we've talked about from the beginning of camp",
+      "quote": "I just think cleaning up our turnovers, continuing the process of what we've talked about from the beginning of camp, really hitting home on our defense, making sure our rotations are right. Different lineups, different combination of guys playing together throughout camp, I think that's just so important for this group as we continue to move forward.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says the focus for the Pelicans in the preseason is cleaning up turnovers and continuing to emphasize defensive rotations as the team builds chemistry.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:28",
+      "summary_phrase": "Mosley plans to experiment with starting lineups",
+      "names_mentioned": [],
+      "excerpt": "there was 31 different starting lineups last year. And so these guys need to understand",
+      "quote": "I'm going to change it up tonight. I was thinking about it, there was 31 different starting lineups last year. And so these guys need to understand and we all have to keep seeing that how do these combinations work together. And I think that's so important that guys that originally started need to know what it's like to come off the bench and guys that come off the bench need to know what it's like when you have to start a game.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Expect lineup experimentation tonight. Jamahl Mosley says he wants players to experience both starting and coming off the bench so they understand how different combinations work together.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:08",
+      "summary_phrase": "Mosley praises Benedict Mathurin's competitive edge",
+      "names_mentioned": [
+        "Benedict Mathurin"
+      ],
+      "excerpt": "he's got a competitive dog to him that I love and that we love",
+      "quote": "He's got a competitive dog to him that I love and that we love and that's why he is here. What he brings to the table every single day, not just his ability to score, get downhill, attack the paint, get to the free throw line, those are some great qualities that he has. But he's got the other side which is just that competitive edge and that dog that he brings every single day.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on Benedict Mathurin: He has a competitive dog to him that I love. It is not just his ability to score or attack the paint, it is the edge he brings every single day.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:51",
+      "summary_phrase": "Kyrie Irving's mentorship role for Cooper",
+      "names_mentioned": [
+        "Kyrie Irving",
+        "Cooper"
+      ],
+      "excerpt": "Kyrie is fantastic for Coop and I think his ability to teach him not just the things",
+      "quote": "I think Kyrie is fantastic for Coop and I think his ability to teach him not just the things on the court but also off the court. Like Kyrie's veteran leadership, what he's done for the group and who he is and how he's grown in this league to provide that for these young guys, especially Cooper, I think it's fantastic that he can continue to give back and pour in.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says Kyrie Irving has been fantastic for Cooper, providing veteran leadership and teaching him things both on and off the court.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:38",
+      "summary_phrase": "Mosley's memories of Dwight Powell's work ethic",
+      "names_mentioned": [
+        "Dwight Powell"
+      ],
+      "excerpt": "he was always the first one in the gym, trying to be the last one out",
+      "quote": "I just saw him out there going into a shooting slot and he was making sure he wasn't late. So that's one attribute that he has. He's always on time. He was always the first one in the gym, trying to be the last one out. Perfectionist when it comes to that. I think he's just such a phenomenal teammate and more importantly just a great human being. His work ethic was second to none in so many ways.",
+      "text_blocks": [],
+      "start_seconds": 218,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley reflects on Dwight Powell, calling him a perfectionist whose work ethic was second to none and a phenomenal teammate.",
+      "team": "New Orleans Pelicans"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "uHvY5tQSthM",
+  "url": "https://www.youtube.com/watch?v=uHvY5tQSthM",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-14T22:39:14Z",
+  "duration_seconds": 315,
+  "processed_at": "2026-10-14T23:13:42Z",
+  "run_id": "2026-10-14T2313Z-20utc",
+  "is_one_off": false
+}
