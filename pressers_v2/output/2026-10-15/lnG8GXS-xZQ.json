@@ -1,0 +1,129 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons vs  T'Wolves   10.14.26",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:13",
+      "summary_phrase": "J.B. Bickerstaff on Jalen Duren's aggressive return to the court",
+      "names_mentioned": [
+        "Jalen Duren"
+      ],
+      "excerpt": "I thought he was aggressive. He looked really fast and quick. He was attacking, playing free.",
+      "quote": "I thought he was aggressive. He looked really fast and quick. He was attacking, playing free on both sides of the floor. I thought he did a great job setting the tone for us. And again, it's his first go at it, so I just expect him to continue to get better.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff liked what he saw from Jalen Duren in his return to the court. He said Duren looked fast and aggressive while doing a great job setting the tone for the team.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:42",
+      "summary_phrase": "J.B. Bickerstaff on Jalen Duren's focus on team-first basketball",
+      "names_mentioned": [
+        "Jalen Duren"
+      ],
+      "excerpt": "His focus was on helping the team. As long as all of our guys prioritize team, talent shines.",
+      "quote": "He just did the job. I think that's where his focus was, and his focus was on helping the team. As long as all of our guys prioritize team, their talent will shine through because they're not dealing with the extra stuff. I thought he did a great job of that tonight.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff says Jalen Duren is focused on team first basketball. He believes that when the players prioritize the team, their talent will shine through because they are not dealing with the extra stuff.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:03",
+      "summary_phrase": "J.B. Bickerstaff on Cade Cunningham's elite leadership qualities",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "Cade is an elite leader, not just a basketball player. He sets the tone.",
+      "quote": "Cade is an elite leader, not just a basketball player, but he's an elite leader. He sets the tone. He got everybody involved, but when he plays that way, his guys want to follow him.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff is calling Cade Cunningham an elite leader. He says Cunningham sets the tone for the team and gets everyone involved, making his teammates want to follow him.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:32",
+      "summary_phrase": "J.B. Bickerstaff on his continued pride in the Golden Gophers",
+      "names_mentioned": [
+        "Ben Johnson",
+        "Dawson Garcia"
+      ],
+      "excerpt": "I still have a lot of pride in being a Golden Gopher.",
+      "quote": "I still have a lot of pride in being a Golden Gopher. I try my best to keep up as much as I possibly can. We got two other Gophers on our staff, so we try to do our best to help the guys that play at the University of Minnesota as well. But Nico is a great coach, and I think he's going to do a really good job with them. I kept up with Ben when he was here coaching the team. Dawson Garcia is with our Motor City Cruise club as well, so we pay attention and try to do our best to help them, but I expect good things from them.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "JB Bickerstaff shared his continued support for the Minnesota Golden Gophers program and noted that he keeps up with the team and former players like Dawson Garcia.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:10",
+      "summary_phrase": "J.B. Bickerstaff on the impact of Patrick Beverly and Eric Curry",
+      "names_mentioned": [
+        "Patrick Beverly",
+        "Eric Curry"
+      ],
+      "excerpt": "Their ability to reach guys, their ability to teach guys has been huge for us.",
+      "quote": "A lot. Personality one. Their ability to reach guys, their ability to teach guys has been huge for us. Their want to be a part of something and the way that they sacrifice themselves for the guys to help the team get better, just being a positive spirit every single day, and you're working their tails off.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff praised the impact of Patrick Beverly and Eric Curry on the Pistons staff, highlighting their ability to teach and their willingness to sacrifice for the team.",
+      "team": "Detroit Pistons"
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:32",
+      "summary_phrase": "J.B. Bickerstaff on Dawson Garcia's development and injury recovery",
+      "names_mentioned": [
+        "Dawson Garcia"
+      ],
+      "excerpt": "I think he's got to play. The hard part for him has just been injured so much.",
+      "quote": "I think he's got to play. I think the hard part for him has just been injured so much over the past couple years. So the more he plays, the better opportunities he'll get, and we expect him to keep getting better in our program.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says Dawson Garcia needs more playing time to develop. He noted that injuries have been the biggest hurdle for Garcia over the past few years.",
+      "team": "Detroit Pistons"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "lnG8GXS-xZQ",
+  "url": "https://www.youtube.com/watch?v=lnG8GXS-xZQ",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-15T04:00:08Z",
+  "duration_seconds": 170,
+  "processed_at": "2026-10-15T11:30:32Z",
+  "run_id": "2026-10-15T1129Z-06utc",
+  "is_one_off": false
+}

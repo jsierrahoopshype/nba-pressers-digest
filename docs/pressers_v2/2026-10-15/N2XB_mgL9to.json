@@ -1,0 +1,163 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. LAC 🎙",
+  "speakers_seen": [
+    "Michael Malone",
+    "Trevon Brazile"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Michael Malone",
+      "timestamp": "00:03",
+      "summary_phrase": "Michael Malone provides update on Julian Strawther's left knee injury",
+      "names_mentioned": [
+        "Julian Strawther"
+      ],
+      "excerpt": "Julian Strawther left knee injury, MRI on the morning, hoping for the best to be honest.",
+      "quote": "Julian Strawther left knee injury, MRI on the morning, hoping for the best to be honest. There's no direct information as of right now. Obviously it sucks seeing anybody get hurt, someone that's been working their ass off all summer, so all you can do is hope for the best. But yeah, he's in it right now, I feel bad for him.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Michael Malone says Julian Strawther will undergo an MRI on his left knee tomorrow morning. Malone noted there is no direct information yet but admitted it sucks to see a player who worked so hard all summer go down with an injury.",
+      "team": "Denver Nuggets"
+    },
+    {
+      "rank": 2,
+      "speaker": "Michael Malone",
+      "timestamp": "01:08",
+      "summary_phrase": "Michael Malone praises Trevon Brazile's aggressive play and running",
+      "names_mentioned": [
+        "Trevon Brazile"
+      ],
+      "excerpt": "He ran tonight for the first time, and I'm talking like NBA run where you get on the rim.",
+      "quote": "He ran tonight for the first time, and I'm talking like NBA run where you get on the rim. You're not running 80% because in college you're so talented you can do that. This is the NBA and he ran like an NBA player tonight for the first time. And you can see the impact of this kid when he does it because he's just so bouncy. All these experiences, they all lead to better things for them as they start their young career.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Michael Malone praised Trevon Brazile for his performance tonight, noting he finally ran like an NBA player. Malone highlighted that Brazile's ability to be the aggressor on the floor is key to his impact.",
+      "team": "Denver Nuggets"
+    },
+    {
+      "rank": 3,
+      "speaker": "Michael Malone",
+      "timestamp": "01:44",
+      "summary_phrase": "Michael Malone on Trevon Brazile's development and aggressive play",
+      "names_mentioned": [
+        "Trevon Brazile"
+      ],
+      "excerpt": "Instead of trying to find it, it's like just go do it.",
+      "quote": "Instead of trying to find it, it's like just go do it. I think there was a lot of times where guys think if they get out of the way, good things are going to happen. And sometimes you have to be the aggressor and he was tonight. They have to throw me the ball because I'm running this hard. They trust me, I got to be able to catch and shoot with confidence. If I turn down a shot and I try to drive it again, this is the NBA, turns out to be a poor possession and that's on him.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Michael Malone on Trevon Brazile's development: You have to be the aggressor. If he turns down a shot to drive in the NBA, it often turns into a poor possession. He needs to catch and shoot with confidence.",
+      "team": "Denver Nuggets"
+    },
+    {
+      "rank": 4,
+      "speaker": "Michael Malone",
+      "timestamp": "02:22",
+      "summary_phrase": "Michael Malone addresses Nikola Jokic's early foul trouble",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "If he has four fouls at the half, we're going to be in trouble.",
+      "quote": "He can't foul obviously. If he has four fouls at the half, we're going to be in trouble. But no, I think we have to talk about that with your guys. And it's there's a million different ways, not just him, but just how to wall up properly, not use your hands, all those kind of things.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Michael Malone addressed Nikola Jokic's early foul trouble, emphasizing that the team needs to focus on walling up properly and avoiding the use of hands on defense to keep their star on the floor.",
+      "team": "Denver Nuggets"
+    },
+    {
+      "rank": 5,
+      "speaker": "Trevon Brazile",
+      "timestamp": "02:56",
+      "summary_phrase": "Trevon Brazile on his growth and learning NBA spacing",
+      "names_mentioned": [],
+      "excerpt": "Just learning more about the NBA game, learning from my vets, just learning the spacing.",
+      "quote": "Just learning more about the NBA game, learning from my vets, just learning the spacing, just what goes into playing.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trevon Brazile says he is focused on learning the nuances of the NBA game, specifically spacing and the daily lessons provided by his veteran teammates.",
+      "team": "Denver Nuggets"
+    },
+    {
+      "rank": 6,
+      "speaker": "Trevon Brazile",
+      "timestamp": "03:14",
+      "summary_phrase": "Trevon Brazile on running the floor like an NBA player",
+      "names_mentioned": [
+        "Michael Malone"
+      ],
+      "excerpt": "Just knowing where to run on the floor, not just running around, having a purpose.",
+      "quote": "Just knowing where to run on the floor, not just running around, having a purpose where I'm running at, you know, it's definitely helped. DA has been on me about it every day.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trevon Brazile credits DeAndre Jordan for pushing him to run the floor with purpose. Brazile says he is learning that in the NBA, you cannot just run around, you have to know exactly where to be.",
+      "team": "Denver Nuggets"
+    },
+    {
+      "rank": 7,
+      "speaker": "Trevon Brazile",
+      "timestamp": "04:00",
+      "summary_phrase": "Trevon Brazile on learning to play within the Nuggets system",
+      "names_mentioned": [
+        "Aaron Gordon",
+        "Nikola Jokic"
+      ],
+      "excerpt": "I see Aaron Gordon do it all the time in little backdoor cuts like that.",
+      "quote": "I see Aaron Gordon do it all the time in little backdoor cuts like that, so I was just trying to play how I know Nikola Jokic likes to play and how that first unit plays, so just trying to go in there and fit into the system.",
+      "text_blocks": [],
+      "start_seconds": 240,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trevon Brazile says he is studying Aaron Gordon's movement to better understand how to play with Nikola Jokic and fit into the Nuggets system.",
+      "team": "Denver Nuggets"
+    },
+    {
+      "rank": 8,
+      "speaker": "Trevon Brazile",
+      "timestamp": "04:26",
+      "summary_phrase": "Trevon Brazile on the veteran leadership of DeAndre Jordan",
+      "names_mentioned": [
+        "DeAndre Jordan"
+      ],
+      "excerpt": "He's a leader, he's a vet. He's been there a lot for me.",
+      "quote": "He's a leader, he's a vet. You know, I know for me personally, he's been there a lot for me just, you know, teaching me things on and off the court about this league, so yeah, he's just a veteran presence.",
+      "text_blocks": [],
+      "start_seconds": 266,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trevon Brazile highlights the impact of DeAndre Jordan, calling him a vital veteran presence who has been teaching him the ropes of the league both on and off the court.",
+      "team": "Denver Nuggets"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "N2XB_mgL9to",
+  "url": "https://www.youtube.com/watch?v=N2XB_mgL9to",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-10-15T06:25:39Z",
+  "duration_seconds": 389,
+  "processed_at": "2026-10-15T11:30:22Z",
+  "run_id": "2026-10-15T1129Z-06utc",
+  "is_one_off": false
+}

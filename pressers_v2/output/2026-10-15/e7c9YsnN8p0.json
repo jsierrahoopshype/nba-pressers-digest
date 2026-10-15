@@ -1,0 +1,87 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 10.14.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:19",
+      "summary_phrase": "Taylor Jenkins on young players facing the Bulls' starting unit",
+      "names_mentioned": [],
+      "excerpt": "despite the score, there was definitely some learning moments in that first half",
+      "quote": "Despite the score, there was definitely some learning moments in that first half. Obviously the entire game, but I thought our guys came in with a pretty good mentality to go out and compete. I thought we did a good job early in the game handling their transition and then it just got away from us the rest of the first half. They ended up with 15 points in transition and obviously shot the ball pretty well.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins says the young Bucks had some learning moments against the Bulls but praised their mentality to compete despite the transition defense struggles in the first half.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:21",
+      "summary_phrase": "Taylor Jenkins on Cas's physical play and early fouls",
+      "names_mentioned": [
+        "Cas"
+      ],
+      "excerpt": "that's going to be when Cas is at his greatest is when he's full throttle",
+      "quote": "That's going to be when Cas is at his greatest is when he's full throttle both sides of the floor. We want to establish a physical tone. We still got to make significant gains in that as a team, but that's why I said at the beginning, I love about him, his ability to be aggressive on offense, aggressive on defense. Picks up an early one, just trying to beat a guy to the spot, guy throws his shoulder into him, I think it's a 50-50 call potentially, but doesn't go his way.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins wants Cas to play full throttle on both ends of the floor to set a physical tone for the team even when he gets into early foul trouble.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:41",
+      "summary_phrase": "Taylor Jenkins on Braden's shot selection and aggressive play",
+      "names_mentioned": [
+        "Braden"
+      ],
+      "excerpt": "he's been aggressive looking for a shot, but it hasn't really gone in",
+      "quote": "He's been aggressive looking for a shot, but it hasn't really gone in. So in these early moments, I know he finished well at OKC and tonight. What do I see about his shot selection? He's still playing with a lot of poise. We're stressing to these guys how we can get the ball in the paint, we can blow the free throw line, so he's in attack mode and maybe sometimes he gets sped up a little bit and maybe takes a couple tough ones.",
+      "text_blocks": [],
+      "start_seconds": 221,
+      "end_seconds": 254,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins says Braden is playing with poise and staying in attack mode despite his shots not falling early in the season.",
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "05:20",
+      "summary_phrase": "Taylor Jenkins on the importance of the home opener",
+      "names_mentioned": [],
+      "excerpt": "anytime it's a Bucks game, it's a celebration of our city",
+      "quote": "Anytime it's a Bucks game, it's a celebration of our city, celebration of our people, celebration of our culture, citywide, statewide. So to be able to kick things off, our fans are great. I've known that having lived here before and I know there's a lot of excitement to what we're building here. It's going to take time, but we've got an urgent approach every single day.",
+      "text_blocks": [],
+      "start_seconds": 320,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Taylor Jenkins emphasizes that the home opener is a celebration of the city and culture as the team continues to build with an urgent approach every day.",
+      "team": "Milwaukee Bucks"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "e7c9YsnN8p0",
+  "url": "https://www.youtube.com/watch?v=e7c9YsnN8p0",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-15T03:16:07Z",
+  "duration_seconds": 383,
+  "processed_at": "2026-10-15T11:30:48Z",
+  "run_id": "2026-10-15T1129Z-06utc",
+  "is_one_off": false
+}

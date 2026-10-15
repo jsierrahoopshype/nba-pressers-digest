@@ -1,0 +1,138 @@
+{
+  "video_title": "“[Jaden] Is Unlocking The Offense This Season.” | Anthony Edwards Postgame Sound | 10.14.26",
+  "speakers_seen": [
+    "Anthony Edwards"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Anthony Edwards",
+      "speakers": [
+        "Unidentified speaker",
+        "Anthony Edwards"
+      ],
+      "timestamp": "00:21",
+      "summary_phrase": "Anthony Edwards on Jaden McDaniels' aggressive play and versatility",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "Jaden is one of the best two-way players in the NBA if not the best.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "With Jaden McDaniels coming in tonight, what did you like about what he was doing for you guys in that starting group?"
+        },
+        {
+          "speaker": "Anthony Edwards",
+          "text": "Just being aggressive, exploiting the mismatch. They can't really guard him. They try to put the worst defenders on him. Just trying to give it to him and let him play in space. Jaden is one of the best two-way players in the NBA if not the best. Just him getting more touches and ball screens actions, clear sides, if they put a small guy on him, give it to him in the post. Just him getting more touches, being more involved, I think he going to average 20-25 points easy because he just know how to play the game."
+        }
+      ],
+      "start_seconds": 21,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Anthony Edwards believes Jaden McDaniels can average 20-25 points this season if he gets more touches. Edwards calls him one of the best two-way players in the NBA and says they need to let him initiate more offense.",
+      "team": "Minnesota Timberwolves"
+    },
+    {
+      "rank": 2,
+      "speaker": "Anthony Edwards",
+      "speakers": [
+        "Unidentified speaker",
+        "Anthony Edwards"
+      ],
+      "timestamp": "01:43",
+      "summary_phrase": "Anthony Edwards on Jaden McDaniels' role in initiating offense",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Rudy Gobert"
+      ],
+      "excerpt": "I feel like maybe Jaden got to bring it up more when they are pressuring me and Rudy.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you make sure he gets more touches like when you are physical or the game slows down?"
+        },
+        {
+          "speaker": "Anthony Edwards",
+          "text": "We just can't forget he out there. It is just that simple. They pressuring me and Rudy so it is kind of hard to get into actions. I feel like maybe Jaden got to bring it up more when they are pressuring me and Rudy like that. Just because they try to hide the defenders on Jaden and Jaden, I think we got to let them bring the ball up and initiate our actions."
+        }
+      ],
+      "start_seconds": 103,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anthony Edwards says the Timberwolves need to adjust when teams pressure him and Rudy Gobert. He suggests letting Jaden McDaniels bring the ball up and initiate actions to counter defensive pressure.",
+      "team": "Minnesota Timberwolves"
+    },
+    {
+      "rank": 3,
+      "speaker": "Anthony Edwards",
+      "speakers": [
+        "Unidentified speaker",
+        "Anthony Edwards"
+      ],
+      "timestamp": "02:23",
+      "summary_phrase": "Anthony Edwards on evolving his role with a new point guard",
+      "names_mentioned": [],
+      "excerpt": "I got a point guard now so just playing off of maybe playing off the catch.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Do you feel like that is still something that you can lean into with the same sort of volume you did last year?"
+        },
+        {
+          "speaker": "Anthony Edwards",
+          "text": "It may be a little bit tougher just because I got a point guard now so just playing off of maybe playing off the catch, getting to one-dribble pull-ups. Not hunting them as much. I feel like last year I was hunting them towards the fourth quarter because it was a lot easier, we had bigs on the floor, but I feel like now it is more of a four-out, one-in, so maybe more catching and shoots."
+        }
+      ],
+      "start_seconds": 143,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anthony Edwards expects his role to change this season now that he has a point guard. He says he will be playing more off the catch and focusing on catch and shoots rather than hunting shots like he did last year.",
+      "team": "Minnesota Timberwolves"
+    },
+    {
+      "rank": 4,
+      "speaker": "Anthony Edwards",
+      "speakers": [
+        "Unidentified speaker",
+        "Anthony Edwards"
+      ],
+      "timestamp": "02:58",
+      "summary_phrase": "Anthony Edwards on the importance of early ball movement",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "When Rudy on the court it is just so much easier because he is just pass first.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you guys go about making sure you get the early ball movement in possessions?"
+        },
+        {
+          "speaker": "Anthony Edwards",
+          "text": "We got guys, those guys push the ball, get everybody involved. But I feel like when Rudy on the court it is just so much easier because he is just pass first, getting everybody involved. But I feel like Rudy do a great job of getting everybody involved too."
+        }
+      ],
+      "start_seconds": 178,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Edwards credits Rudy Gobert for his playmaking ability, noting that having him on the court makes it much easier to get everyone involved in the offense.",
+      "team": "Minnesota Timberwolves"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "VVjO-xA2Y9g",
+  "url": "https://www.youtube.com/watch?v=VVjO-xA2Y9g",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-15T04:51:47Z",
+  "duration_seconds": 292,
+  "processed_at": "2026-10-15T11:30:33Z",
+  "run_id": "2026-10-15T1129Z-06utc",
+  "is_one_off": false
+}
