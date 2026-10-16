@@ -1,0 +1,85 @@
+{
+  "video_title": "LIVE: Pelicans vs. Wizards Pregame w/ Jamahl Mosley 10/16/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:44",
+      "summary_phrase": "Jamahl Mosley on player conditioning and game reps in preseason",
+      "names_mentioned": [],
+      "excerpt": "I think you have to get those in game reps. And tonight's going to be one of those nights.",
+      "quote": "The minutes will look similar. I think someone asked me the question the other day, are they where they need to be when it comes to the conditioning and the minute side of it? And I responded no. I think you have to get those in game reps. And tonight's going to be one of those nights you feel the minutes and the game reps. But what we're looking for tonight is continued progress in our process.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 194,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says his players are not yet where they need to be regarding conditioning and minute loads. He notes that tonight is about getting those in game reps to continue their progress.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:19",
+      "summary_phrase": "Jamahl Mosley on team defensive and offensive development",
+      "names_mentioned": [],
+      "excerpt": "We've talked about where we want to be defensively, how we want to play offensively.",
+      "quote": "We've talked about where we want to be defensively, how we want to play offensively. We've seen the progression with these guys over the games and this is a very good test with a very young talented team in Washington. So I think that's where we're going to go with it.",
+      "text_blocks": [],
+      "start_seconds": 199,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley views tonight against the Wizards as a good test for his team to continue their defensive and offensive progression.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:15",
+      "summary_phrase": "Jamahl Mosley on empowering player creativity within the team system",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "These are the best players in the league in the world and you want to have them to be creative.",
+      "quote": "These are the best players in the league in the world and you want to have them to be creative. You want them to use their creativity and there's a reason why you actually have a system in the way you play offensively and defensively so they know the parameters that they're in, but then also how to stretch them a little bit so they can do it within it. You give them a foundation and then you let them create. Like what we've done now is given them a canvas to work with and these guys are going to find a way to do some special things throughout this year.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on his coaching philosophy: You give players a foundation and then let them create. He says he wants to give them a canvas to work with so they can do special things this year.",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:14",
+      "summary_phrase": "Jamahl Mosley on prioritizing process over chasing game results",
+      "names_mentioned": [],
+      "excerpt": "I'm not chasing the results. That's what I think, you know, wins, losses, those are coming one way or the other.",
+      "quote": "I'm not chasing the results. That's what I think, you know, wins, losses, those are coming one way or the other. But is our process right? Because there's going to be nights that our process is fantastic and teams are just going to make a lot of shots. But did we do the things we needed to do? The process looks like are we boxing out? Are we in rotation? Are we in the right spot? Did we force the tough contested two? Great players in this league are going to make a lot of shots, but I'm not chasing that result all the time because for us to be very good and consistent, we have to stick with what we do over time.",
+      "text_blocks": [],
+      "start_seconds": 314,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says he is not chasing results during the preseason. He is focused on the process, specifically boxing out, rotations, and forcing tough contested shots.",
+      "team": "New Orleans Pelicans"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "DbmQjZqmcXw",
+  "url": "https://www.youtube.com/watch?v=DbmQjZqmcXw",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-16T22:22:07Z",
+  "duration_seconds": 384,
+  "processed_at": "2026-10-16T22:51:05Z",
+  "run_id": "2026-10-16T2250Z-20utc",
+  "is_one_off": false
+}

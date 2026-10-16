@@ -1,0 +1,103 @@
+{
+  "video_title": "Dillon Brooks Shootaround Media Availability | 10-16-26",
+  "speakers_seen": [
+    "Dillon Brooks"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dillon Brooks",
+      "timestamp": "00:34",
+      "summary_phrase": "Dillon Brooks on Ryan Dunn's development and confidence",
+      "names_mentioned": [
+        "Ryan Dunn"
+      ],
+      "excerpt": "I see a lot coming from Ryan and I'm intrigued to see his progression",
+      "quote": "I see a lot coming from Ryan and I'm intrigued to see his progression and how he gets better throughout the year. He is more confident, a controlled fast, he is finishing around the rim and he is confident shooting the basketball.",
+      "text_blocks": [],
+      "start_seconds": 34,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks is impressed by Ryan Dunn's growth this season, noting he is playing with more confidence, moving at a controlled pace, and finishing better around the rim.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 2,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:26",
+      "summary_phrase": "Dillon Brooks on what he brings to the Suns",
+      "names_mentioned": [],
+      "excerpt": "The composure and the way he thinks the game.",
+      "quote": "The composure and the way he thinks the game.",
+      "text_blocks": [],
+      "start_seconds": 86,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dillon Brooks says the main things he brings to the Suns are his composure and the way he thinks the game.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 3,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:42",
+      "summary_phrase": "Dillon Brooks on maintaining composure during adversity",
+      "names_mentioned": [],
+      "excerpt": "When adversity is hitting during the game, calls not going your way, shots not falling.",
+      "quote": "When adversity is hitting during the game, calls not going your way, shots not falling, you have to compose yourself and figure out how to bet the game if stuff is not going right.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks on handling adversity: When calls are not going your way and shots are not falling, you have to compose yourself and figure out how to win the game.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 4,
+      "speaker": "Dillon Brooks",
+      "timestamp": "02:20",
+      "summary_phrase": "Dillon Brooks on veteran mentorship in the modern NBA",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "You got to want to do it and do it the right way.",
+      "quote": "You got to want to do it and do it the right way. They teach you at the beginning, choose your vets right because you never know how it is going to go because you are listening to them ultimately. But regardless of the age, regardless of how many years you do, if you are a leader and you want guys to get better on your team, you are going to get them the right information to do that.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dillon Brooks on veteran leadership: If you are a leader and you want guys to get better, you are going to get them the right information regardless of your age or years in the league.",
+      "team": "Phoenix Suns"
+    },
+    {
+      "rank": 5,
+      "speaker": "Dillon Brooks",
+      "timestamp": "03:16",
+      "summary_phrase": "Dillon Brooks on building team chemistry and learning schemes",
+      "names_mentioned": [],
+      "excerpt": "It is good building the chemistry, it is learning different schemes that we do on offensive end together.",
+      "quote": "It is good building the chemistry, it is learning different schemes that we do on offensive end together and then ultimately you see what spots guys like, so it is important to mix that in during the year and keep chiseling.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dillon Brooks says the team is currently focused on building chemistry and learning offensive schemes to see where players are most effective on the floor.",
+      "team": "Phoenix Suns"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "5ajtC2ilkF4",
+  "url": "https://www.youtube.com/watch?v=5ajtC2ilkF4",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-16T19:04:06Z",
+  "duration_seconds": 255,
+  "processed_at": "2026-10-16T22:51:04Z",
+  "run_id": "2026-10-16T2250Z-20utc",
+  "is_one_off": false
+}
