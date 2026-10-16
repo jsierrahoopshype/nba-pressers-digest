@@ -1,0 +1,90 @@
+{
+  "video_title": "Post Game Media Availability | Preseason | October 15, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Chet Holmgren",
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chet Holmgren",
+      "timestamp": "00:16",
+      "summary_phrase": "Chet Holmgren on the team's growing chemistry and preseason progress",
+      "names_mentioned": [],
+      "excerpt": "I think the chemistry is getting better. There's going to be ups and downs in practice and games.",
+      "quote": "I think the chemistry is getting better. There's going to be ups and downs in practice and games, but I think we're really starting to click and I think it's going to be something that will be pretty good throughout the year.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chet Holmgren says the Thunder are starting to click as they build chemistry during the preseason. He believes the team is going to be pretty good throughout the year.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 2,
+      "speaker": "Chet Holmgren",
+      "timestamp": "00:38",
+      "summary_phrase": "Chet Holmgren on facing Houston's rotation players in preseason action",
+      "names_mentioned": [
+        "Fred VanVleet",
+        "Kevin Durant"
+      ],
+      "excerpt": "When I first walked in, I was thinking like, wow, this is crazy and then it's basketball.",
+      "quote": "When I first walked in, I was thinking like, wow, this is crazy and then it's basketball at the end of the day. But it's pretty cool. Still need to get more reps on the defense and offensive side. We're getting there, but it's going to be a journey.",
+      "verbatim_original_language": "",
+      "start_seconds": 38,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Chet Holmgren on his preseason progress and adjusting to the game speed. He says he still needs more reps on both ends of the floor and views the season as a journey.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:06",
+      "summary_phrase": "Mark Daigneault on experimenting with new lineups during preseason games",
+      "names_mentioned": [
+        "Chet Holmgren",
+        "Jalen Williams"
+      ],
+      "excerpt": "A personal goal for me is to try to learn something new in all the preseason games.",
+      "quote": "A personal goal for me is to try to learn something new in all the preseason games. Obviously they're contextual, let's say that. But I thought it was an opportunity with Chet and Jalen out to take a look at that. I don't know how many times we'd take a look at that and we've never worked on it. But it gives us a quick idea of what we would need to work on if we wanted to explore that at some point.",
+      "verbatim_original_language": "",
+      "start_seconds": 66,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mark Daigneault says his goal this preseason is to learn something new in every game. He used the recent absences of Chet Holmgren and Jalen Williams as an opportunity to experiment with new lineups.",
+      "team": "Oklahoma City Thunder"
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:43",
+      "summary_phrase": "Mark Daigneault on team development goals for the preseason period",
+      "names_mentioned": [],
+      "excerpt": "We view the games as just a part of the entire camp. We just want to be better.",
+      "quote": "We view the games as just a part of the entire camp. We just want to be better by the end of it and the start of the season than we are at the beginning. I think we're on track for that. We have a couple more practices and it's different for everybody. Obviously the young guys, it's experience. The more experienced guys, it's conditioning, rhythm, all the stuff that prepare for 82 games. I think we're right on track and we came out of tonight healthy, so that was positive.",
+      "verbatim_original_language": "",
+      "start_seconds": 103,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault says the Thunder are on track with their development goals for the preseason. He emphasized that the focus remains on conditioning and rhythm for the veterans while the young guys gain experience.",
+      "team": "Oklahoma City Thunder"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "K5gy0PCVvUc",
+  "url": "https://www.youtube.com/watch?v=K5gy0PCVvUc",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-16T04:23:25Z",
+  "duration_seconds": 149,
+  "processed_at": "2026-10-16T11:25:30Z",
+  "run_id": "2026-10-16T1125Z-06utc",
+  "is_one_off": false
+}
