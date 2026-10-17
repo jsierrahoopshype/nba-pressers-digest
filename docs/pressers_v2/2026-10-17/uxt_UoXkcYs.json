@@ -1,0 +1,183 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | LeBron James | 10.16.26",
+  "speakers_seen": [
+    "LeBron James",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LeBron James",
+      "timestamp": "00:00",
+      "summary_phrase": "LeBron James on team chemistry and early season progress",
+      "names_mentioned": [],
+      "excerpt": "We're getting there. We're getting there. Obviously we're a couple weeks in, so we're still working out our rhythm.",
+      "quote": "I would say that second quarter was really good. I felt the beginning of the third was really good with our lineup. We're getting there. We're getting there. Obviously we're a couple weeks in, so we're still working out our rhythm, working out our kinks, and it's not going to be perfect. Obviously we're just getting together, so it's not going to be perfect, but we have some things we can build on. We did a lot of good things tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LeBron James says the Sixers are still working out their rhythm early in the season. We are getting there and we have some things we can build on.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "LeBron James"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "LeBron James on building comfort within the starting unit",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "Every day is going to give us an opportunity to get better, and we want to continue to do that.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Specifically within, I know you didn't have Anthony Davis tonight, but specifically when you do have whatever your starting unit is on the court, just how much more comfort do you feel like that group has gained over the last, I guess, three weeks since you guys started camp?"
+        },
+        {
+          "speaker": "LeBron James",
+          "text": "I mean, I think every day is going to give us an opportunity to get better, and we want to continue to do that. We don't want to waste opportunities when we hit the floor. There's some teams in this league obviously that has been together a lot longer than us, so we don't have the advantage of not being able to progress. I think we've done that over three weeks."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 66,
+      "speaker_confidence": "inferred",
+      "news_score": 3,
+      "social_post": "LeBron James on the team's progress after three weeks of camp. We do not want to waste opportunities when we hit the floor.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "LeBron James"
+      ],
+      "timestamp": "01:04",
+      "summary_phrase": "LeBron James on the pick-and-roll chemistry with Tyrese Maxey",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "To be able to put the reps in in practice, to rep it, rep it, and then be able to go from a practice court to a main court to the game court is regression.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What's up with the two-man action? It's kind of looking like it could be you and Tyrese Maxey. There was one play you guys ran pick-and-roll, through the pocket pass to you, finished up an and-one. I know you guys were gelling a lot, but how does that kind of translate from practice to on the court?"
+        },
+        {
+          "speaker": "LeBron James",
+          "text": "I mean, that's you just said it. To be able to put the reps in in practice, to rep it, rep it, and then be able to go from a practice court to a main court to the game court is regression. You know, we want to, we're coming. So it's a good set for us, it's a good movement for us, it's a good note that we can have that in our back pocket whenever we need it. Obviously we know with the 1-5, with him and Joel, what they do, what they can create side pick-and-roll or mid pick-and-roll, so it just gives us another dynamic."
+        }
+      ],
+      "start_seconds": 64,
+      "end_seconds": 127,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "LeBron James says the pick and roll chemistry with Tyrese Maxey is a good dynamic for the Sixers to have in their back pocket.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "LeBron James"
+      ],
+      "timestamp": "02:03",
+      "summary_phrase": "LeBron James on playing without a traditional center",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You guys have played a fair amount of minutes already without like a traditional center like Joel Embiid. I think you and Dean have even split some time there. So how do you think those looks have looked for you guys so far and what do you need to build on with those looks?"
+        },
+        {
+          "speaker": "LeBron James",
+          "text": "I think most importantly for that, I mean, obviously it's a versatile lineup when we're able to do that, to be able to, you know, five on the perimeter, kind of switch a lot of the things that we want to defensively. Most important for us is clean glass. You know, we do that, it's a lineup that we can go to, but it's not we haven't had long enough minutes with it to know good or bad, you know what I'm saying? So for us, we want to continue to work that, but you know, having Joel, Joel has been playing great. Dean, obviously, in terms of ankle, I think tonight a little bit, but he'll be great and there's some lineups that we can go to."
+        }
+      ],
+      "start_seconds": 123,
+      "end_seconds": 193,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_post": "LeBron James on playing small ball without Joel Embiid. It is a versatile lineup but the most important thing for us is clean glass.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 5,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "LeBron James"
+      ],
+      "timestamp": "02:48",
+      "summary_phrase": "LeBron James on defensive rebounding tactics against small-ball lineups",
+      "names_mentioned": [],
+      "excerpt": "You got to get bodies on bodies if you're out there with, you know, what a guy that's really great offensive rebounder.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "When you have those small ball lineups, you talk about rebounding, what changes are you making tactically in terms of, especially because the other team has a good offensive rebounder out there? Do you have to put two on one guy at times?"
+        },
+        {
+          "speaker": "LeBron James",
+          "text": "Yeah, it just depends. It just depends on the team that you're playing. Obviously every personnel is different. You know, the way teams crash, obviously Boston is a team that kind of crashes four, you know, three at most of the time. So you got to get bodies on bodies if you're out there with, you know, what a guy that's really great offensive rebounder. Sometimes you do have to put two on him, especially if you're saying we got the small ball lineup."
+        }
+      ],
+      "start_seconds": 168,
+      "end_seconds": 217,
+      "speaker_confidence": "inferred",
+      "news_score": 3,
+      "social_post": "LeBron James on defensive rebounding in small ball lineups. You have to get bodies on bodies and sometimes you do have to put two on one guy.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 6,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "LeBron James"
+      ],
+      "timestamp": "03:20",
+      "summary_phrase": "LeBron James on Joel Embiid's health and rhythm",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He's one of the best players in the world, so I mean, that's, you know, the sky's the limit for him.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You get excited when you see Joel playing the way he did tonight?"
+        },
+        {
+          "speaker": "LeBron James",
+          "text": "Yeah, I mean, yeah. I mean, yeah. I mean, it's my team. I get excited all my teammates play that way, you know? We get excited for one another. I mean, I know what Joel's capable of. I mean, he's one of the best players in the world, so I mean, that's, you know, the sky's the limit for him and I just think, you know, for him, it's, you know, obviously he's, he's been in all the practices, he's been in everything, so I think the health is, it's showing and he's just, you know, starting to get his rhythm even more and more like just like the rest of us."
+        }
+      ],
+      "start_seconds": 200,
+      "end_seconds": 248,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "LeBron James on Joel Embiid. He is one of the best players in the world and the sky is the limit for him as he continues to get his rhythm.",
+      "team": "Philadelphia 76ers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "uxt_UoXkcYs",
+  "url": "https://www.youtube.com/watch?v=uxt_UoXkcYs",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-17T03:22:05Z",
+  "duration_seconds": 340,
+  "processed_at": "2026-10-17T10:45:41Z",
+  "run_id": "2026-10-17T1044Z-06utc",
+  "is_one_off": false
+}

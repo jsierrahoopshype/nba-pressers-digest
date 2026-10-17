@@ -1,0 +1,101 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe | 10.16.26",
+  "speakers_seen": [
+    "Brian Keefe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe reflects on Washington Wizards' training camp progress",
+      "names_mentioned": [],
+      "excerpt": "I was really pleased with our overall training camp.",
+      "quote": "Tonight was our last preseason game. I was really pleased with our overall training camp. We talked pre-game and in our pre-session media about the intentionality that we've had, the focus on building the right habits, specifically on offensive and defensive ends. I like that some of our chemistry is growing, but now we get to make that next step. We have a couple days of practice to tune up for the opener. I know the guys are excited, but the most important thing is we're pleased with how we're growing.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Wizards head coach Brian Keefe says he is pleased with the team's training camp progress and focus on building the right habits as they prepare for the season opener.",
+      "team": "Washington Wizards"
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:38",
+      "summary_phrase": "Brian Keefe assesses the team's performance against New Orleans",
+      "names_mentioned": [],
+      "excerpt": "I liked how we came out in the third quarter and established how we wanted to play.",
+      "quote": "For them, New Orleans, a little bit of transition for them, but I liked how we came out in the third quarter and established how we wanted to play and we cut the lead pretty quick. We didn't shoot the ball as well as we would like, and those are going to be things that are going to happen. I think those are good growth things. We kept playing through that. I talked about that in the timeouts, but give them credit, they played a good game.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brian Keefe says the Wizards struggled with their shooting against New Orleans but praised the team for continuing to play through the adversity.",
+      "team": "Washington Wizards"
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:05",
+      "summary_phrase": "Brian Keefe praises the return of a veteran player",
+      "names_mentioned": [],
+      "excerpt": "Great to see him back out there, always as plays, plays so solid, makes the right play.",
+      "quote": "Great to see him back out there, always as plays, plays so solid, makes the right play. Such a smart player, it's good to see him back out there.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brian Keefe praised a returning veteran player for his high basketball IQ and ability to consistently make the right play on the court.",
+      "team": "Washington Wizards"
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:30",
+      "summary_phrase": "Brian Keefe provides injury update on AJ",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "AJ's got an ankle sprain and we just took him out of the game for precaution.",
+      "quote": "Probably should mention AJ. AJ's got an ankle sprain and we just took him out of the game for precaution and we'll look at it more when we get more information when we get back.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Wizards coach Brian Keefe says AJ is dealing with an ankle sprain. He was removed from the game as a precaution and the team will evaluate him further.",
+      "team": "Washington Wizards"
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:46",
+      "summary_phrase": "Brian Keefe discusses the development of the team's big men",
+      "names_mentioned": [],
+      "excerpt": "You can see the physicality and size, the protecting the rim, the ability to rebound.",
+      "quote": "You can see the physicality and size, the protecting the rim, the ability to rebound. We want to establish ourselves defensively and they, you can see when when we're on, they're really protecting that rim, that's fueling our transition game. I've been pleased with their development.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe says the development of the Wizards big men in protecting the rim and rebounding has been a key factor in fueling the team's transition game.",
+      "team": "Washington Wizards"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "8gM5vw4dKp4",
+  "url": "https://www.youtube.com/watch?v=8gM5vw4dKp4",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-17T03:38:57Z",
+  "duration_seconds": 123,
+  "processed_at": "2026-10-17T10:45:27Z",
+  "run_id": "2026-10-17T1044Z-06utc",
+  "is_one_off": false
+}

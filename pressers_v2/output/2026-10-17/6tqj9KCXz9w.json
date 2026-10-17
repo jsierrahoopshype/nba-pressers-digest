@@ -1,0 +1,108 @@
+{
+  "video_title": "POSTGAME SOUND: MIAMI HEAT VS. ORLANDO MAGIC | COACH SWEENEY, NIKOLA VUCEVIC & DESMOND BANE",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Nikola Vucevic",
+    "Desmond Bane"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:26",
+      "summary_phrase": "Coach Sweeney provides injury updates on Jace, Noah, and Franz",
+      "names_mentioned": [
+        "Jace",
+        "Noah",
+        "Franz"
+      ],
+      "excerpt": "Jace had some back soreness, Noah had a low right hamstring tightness and Franz had a right shoulder.",
+      "quote": "Jace had some back soreness, Noah had a low right hamstring tightness and Franz had a right shoulder soreness and those guys will be reevaluated.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Coach Sweeney confirms Jace is dealing with back soreness while Noah and Franz are out with hamstring and shoulder issues. All three players will be reevaluated.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 2,
+      "speaker": "Nikola Vucevic",
+      "timestamp": "03:31",
+      "summary_phrase": "Nikola Vucevic on team progress and learning a new system",
+      "names_mentioned": [],
+      "excerpt": "For us the preseason was just to kind of work on our stuff, see where we are.",
+      "quote": "For us the preseason was just to kind of work on our stuff, see where we are and we understand it's a new system for all of us and just got to continue to work on it step by step but there's definitely a lot of positives. There's some negatives as well that's to be expected but we just got to continue to learn from it and improve.",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 237,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nikola Vucevic says the preseason was about working on their stuff and learning a new system. He notes there are positives and negatives to build on as the team improves step by step.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 3,
+      "speaker": "Nikola Vucevic",
+      "timestamp": "04:24",
+      "summary_phrase": "Nikola Vucevic on the impact of the starting five's intensity",
+      "names_mentioned": [],
+      "excerpt": "They come out aggressive, they play fast, and it's important for them to lead the way.",
+      "quote": "They come out aggressive, they play fast, and it's important for them to lead the way and they're very good at that. And I think once also for us coming off the bench, it's important that we continue and keep up that same level of play. But the intensity they use on defensive end, get out and run, really helps us establish the way we want to play.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nikola Vucevic credits the starting five for setting the tone with their defensive intensity and pace, noting it is up to the bench to maintain that level of play.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 4,
+      "speaker": "Desmond Bane",
+      "timestamp": "08:40",
+      "summary_phrase": "Desmond Bane on team defensive performance against Miami",
+      "names_mentioned": [],
+      "excerpt": "We knew they were going to be playing fast and it was like a big guard night.",
+      "quote": "We did some things well, especially on offensive end, but defensively we knew they were going to be playing fast and it was like a big guard the ball type night and I don't think we did great with it. We did okay, good enough to win, but not to our standards so I'm sure coach will have some good film for us and we'll clean it up and be better because of it.",
+      "text_blocks": [],
+      "start_seconds": 520,
+      "end_seconds": 548,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Desmond Bane says the team did not meet their defensive standards against Miami. He expects the coaching staff to use the film to help the team clean up their mistakes.",
+      "team": "Orlando Magic"
+    },
+    {
+      "rank": 5,
+      "speaker": "Desmond Bane",
+      "timestamp": "10:41",
+      "summary_phrase": "Desmond Bane on the impact of injuries to Noah and Jace",
+      "names_mentioned": [
+        "Noah",
+        "Jace"
+      ],
+      "excerpt": "It sucks to see Noah have to exit the game with an injury, Jace as well.",
+      "quote": "It sucks to see Noah have to exit the game with an injury, Jace as well. Those two guys have been playing well and really giving us a lift so it sucks. Hopefully I don't know how bad it is or what's going to come of it but hopefully they don't miss too much time and we can welcome them back.",
+      "text_blocks": [],
+      "start_seconds": 641,
+      "end_seconds": 664,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Desmond Bane reacts to the injuries sustained by Noah and Jace. He says it sucks to see them go down and hopes they do not miss too much time.",
+      "team": "Orlando Magic"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "6tqj9KCXz9w",
+  "url": "https://www.youtube.com/watch?v=6tqj9KCXz9w",
+  "channel_team": "Orlando Magic",
+  "published": "2026-10-17T03:16:22Z",
+  "duration_seconds": 739,
+  "processed_at": "2026-10-17T10:45:49Z",
+  "run_id": "2026-10-17T1044Z-06utc",
+  "is_one_off": false
+}

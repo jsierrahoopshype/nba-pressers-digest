@@ -1,0 +1,120 @@
+{
+  "video_title": "Hornets at Grizzlies: Coach Charles Lee & Hannes Steinbach Postgame Media Availability | 10/16/2026",
+  "speakers_seen": [
+    "Charles Lee",
+    "Hannes Steinbach"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:04",
+      "summary_phrase": "Charles Lee on Hornets' need for faster pace and better execution",
+      "names_mentioned": [],
+      "excerpt": "I would love to see us be able to just play a little bit faster.",
+      "quote": "I would love to see us be able to just play a little bit faster. I think that give Memphis a little bit of credit, they tried to jam our outlets at times, but I do think that we can do a better job of getting up the court, sharing the ball, taking care of the ball. But I also don't want that our offensive struggles take away from our competitive spirit, especially on the defensive end. So we got some things to clean up, but I think there were also some really good moments throughout that game.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says the Hornets need to play faster and improve their execution after the loss to Memphis. He emphasized that offensive struggles should not impact the team's competitive spirit on the defensive end.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "00:33",
+      "summary_phrase": "Charles Lee on the importance of sustained competitive togetherness",
+      "names_mentioned": [],
+      "excerpt": "Biggest thing for this group I think is just to continue to have sustained competitive togetherness.",
+      "quote": "Biggest thing for this group I think is just to continue to have sustained competitive togetherness. I think that we've done it throughout preseason in doses. I just want to see more sustained efforts and I think that's part of having a new group come together, having new guys trying to figure out new positions and stuff. So it's part of the growing process and I'm very excited about where we are. I think we've made a ton of growth and I know that we're not a finished product.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Hornets coach Charles Lee says the biggest goal for his team right now is to maintain sustained competitive togetherness as the new group continues to grow and learn their roles.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:03",
+      "summary_phrase": "Charles Lee on Hannes Steinbach's consistency and work ethic",
+      "names_mentioned": [
+        "Hannes Steinbach"
+      ],
+      "excerpt": "The thing that I love about him is just there's a consistency with his effort.",
+      "quote": "With more reps, young guys take some time and he's going to have some great games, he's going to have some games where he's still trying to figure it out. But the thing that I love about him is just there's a consistency with his effort, there's a consistency with his care factor and the work that he puts in every day. So whenever you have habits like that, you're bound to have some success.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee praised Hannes Steinbach for his consistency and work ethic. Lee noted that while young players will have ups and downs, Steinbach has the right habits to be successful.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 4,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "01:29",
+      "summary_phrase": "Hannes Steinbach on his focus on rebounding and team play",
+      "names_mentioned": [],
+      "excerpt": "I just try to do the right habits, just crash the glass every time.",
+      "quote": "I just try to do the right habits, just crash the glass every time. And my teammates found me on some open shots around the rim, so it just turned out well this game.",
+      "text_blocks": [],
+      "start_seconds": 89,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Hannes Steinbach says his focus is on building good habits and crashing the glass. He credited his teammates for finding him on open shots around the rim.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 5,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "01:44",
+      "summary_phrase": "Hannes Steinbach on adjusting to the physicality of the NBA",
+      "names_mentioned": [
+        "Edi"
+      ],
+      "excerpt": "They're very physical, Edi especially, really tall, really strong.",
+      "quote": "They're very physical, Edi especially, really tall, really strong. So it's been a good time to adjust to that and it's definitely more physical than I ever played, so just getting used to that will help me a little bit more.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Hannes Steinbach is adjusting to the physicality of the NBA. He says the game is definitely more physical than anything he has played before and he is working to get used to that level of contact.",
+      "team": "Charlotte Hornets"
+    },
+    {
+      "rank": 6,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "02:02",
+      "summary_phrase": "Hannes Steinbach on his takeaways from the preseason",
+      "names_mentioned": [],
+      "excerpt": "Just playing physical, letting the game slow down around me a little bit.",
+      "quote": "Just playing physical, letting the game slow down around me a little bit and just doing the right things that we need to win.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Hannes Steinbach says his main takeaways from the preseason are playing with physicality and letting the game slow down around him to make the right plays for the team.",
+      "team": "Charlotte Hornets"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "HjiWdiVgFGw",
+  "url": "https://www.youtube.com/watch?v=HjiWdiVgFGw",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-17T03:06:42Z",
+  "duration_seconds": 130,
+  "processed_at": "2026-10-17T10:45:50Z",
+  "run_id": "2026-10-17T1044Z-06utc",
+  "is_one_off": false
+}
