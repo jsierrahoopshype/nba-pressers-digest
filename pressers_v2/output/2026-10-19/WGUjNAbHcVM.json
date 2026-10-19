@@ -1,0 +1,67 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | Anfernee Simons | 10.19.26",
+  "speakers_seen": [
+    "Anfernee Simons"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Anfernee Simons",
+      "timestamp": "01:02",
+      "summary_phrase": "Anfernee Simons on the importance of unselfishness in team play",
+      "names_mentioned": [],
+      "excerpt": "A lot of the turnovers we had were unselfish turnovers and that's a great sign.",
+      "quote": "Just the unselfishness. A lot of the turnovers we had were unselfish turnovers and that's a great sign. You know, knowing that you can encourage players that are regarded as high-level players to be unselfish and require them to, hey, play that game a little bit more. And so I think that was encouraging and obviously just finding, just by observing and watching to see where I can fit in with all the guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 62,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anfernee Simons says the 76ers are focused on unselfish play. He noted that many of their recent turnovers were unselfish ones, which he views as a positive sign for the team chemistry.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Anfernee Simons",
+      "timestamp": "02:16",
+      "summary_phrase": "Anfernee Simons on the benefits of having two ball-handlers",
+      "names_mentioned": [],
+      "excerpt": "Being able to have two ball-handlers out there is always great.",
+      "quote": "Both of us can play on-ball and off-ball and I think that's what's going to help both of us. If LP is running the point for a long time and he needs a break, I'm able to step in and be able to run offense a little bit and get us in the right sets. So, being able to have two ball-handlers out there is always great, especially nowadays where guys are picking up full each and every possession.",
+      "verbatim_original_language": "",
+      "start_seconds": 136,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anfernee Simons likes the flexibility of having two ball handlers in the lineup. He says being able to play on and off the ball with LP will help them manage the offense and handle full court pressure.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Anfernee Simons",
+      "timestamp": "02:57",
+      "summary_phrase": "Anfernee Simons on adjusting to the team's defensive terminology",
+      "names_mentioned": [],
+      "excerpt": "Most of the time the adjustment is the call, just the terminology.",
+      "quote": "It hasn't been, I mean, it's pretty familiar with what I'm used to, so it hasn't been that much of an adjustment. Most of the time the adjustment is the call, just the terminology. And once you get the terminology, then you kind of understand, because most teams run through the same things defensively, but some teams might do something a little bit differently, but for the most part, it's all the same.",
+      "verbatim_original_language": "",
+      "start_seconds": 177,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Adjusting to a new defensive system has been smooth for Anfernee Simons. He says the concepts are familiar and the only real challenge is learning the new terminology.",
+      "team": "Philadelphia 76ers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "WGUjNAbHcVM",
+  "url": "https://www.youtube.com/watch?v=WGUjNAbHcVM",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-19T18:54:06Z",
+  "duration_seconds": 203,
+  "processed_at": "2026-10-19T19:53:54Z",
+  "run_id": "2026-10-19T1953Z-14utc",
+  "is_one_off": false
+}

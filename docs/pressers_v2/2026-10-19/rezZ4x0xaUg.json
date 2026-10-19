@@ -1,0 +1,113 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | Coach Nurse | 10.19.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:04",
+      "summary_phrase": "Nick Nurse confirms Joel Embiid, Paul George, and Caleb Martin missed practice",
+      "names_mentioned": [
+        "Joel Embiid",
+        "Paul George",
+        "Caleb Martin"
+      ],
+      "excerpt": "You shouldn't make any judgments by those jerseys.",
+      "quote": "Joel Embiid was not a full participant today. He was not at all. You shouldn't make any judgments by those jerseys. Paul George didn't practice. And Caleb Martin did that.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Nick Nurse confirms Joel Embiid, Paul George, and Caleb Martin all missed practice today. Nurse noted that Embiid was not a participant at all.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:39",
+      "summary_phrase": "Nick Nurse on the team's readiness for the season opener",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I feel good about the work we've put in, the focus these guys have had.",
+      "quote": "It's hard to know until we get there tomorrow. You don't really get a ton of other than some minutes and some conditioning. You don't get a read of much of anything in the preseason. I feel good about the work we've put in, the focus these guys have had. Obviously, I feel great that Joel Embiid is ready to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 39,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse says he feels good about the work the team has put in during the preseason, adding he feels great that Joel Embiid is ready to go for the season opener.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:13",
+      "summary_phrase": "Nick Nurse evaluates the team's chemistry and early season progress",
+      "names_mentioned": [],
+      "excerpt": "I think the intent is great. I think the ball we're looking up, I think we're looking to move it.",
+      "quote": "I think there's obviously some really high moments where it looks like, wow, these guys really got a good feel. And I think there's some lower moments where you think, oh man, these guys haven't played together at all. There's some good signs, there's certainly some rough edges. But my thought is this: I think the intent is great. I think the ball we're looking up, I think we're looking to move it. Is it a little mistimed and out of rhythm? Yeah, and that should be expected. The quicker we can gather more minutes, grab some more reps, I think those things will smooth themselves out.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse admits the Sixers have some rough edges and mistimed rhythm as the team learns to play together, but says the intent and ball movement are in a good place.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:41",
+      "summary_phrase": "Nick Nurse discusses the pros and cons of specific defensive lineups",
+      "names_mentioned": [
+        "Towns",
+        "Hart"
+      ],
+      "excerpt": "Allows you to switch a little more in the screen and rolls.",
+      "quote": "The pros are it allows you to switch a little more in the screen and rolls. That's a big one. Allows you to get back to the pick and pop game a little bit or take it out. We can play a couple more coverages with that. The cons are can Towns pass over the four? Can he rebound over the four? Can he post up over the four? Can he shoot over the four? Can Hart become a perimeter crasher with the five trying to figure out where he is?",
+      "verbatim_original_language": "",
+      "start_seconds": 281,
+      "end_seconds": 316,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse breaks down the defensive trade-offs of his current lineups, noting that while they allow for more switching, they create challenges regarding rebounding and size against teams like the Knicks.",
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "05:42",
+      "summary_phrase": "Nick Nurse on the importance of limiting offensive rebounds against the Knicks",
+      "names_mentioned": [
+        "Josh Hart",
+        "OG",
+        "Bridges",
+        "Clarkson"
+      ],
+      "excerpt": "They cannot just be collecting a ton of offensive rebounds, kicking them out and hitting threes.",
+      "quote": "Josh Hart is not the only one. It's obviously one of their major strengths. It's at the top of the list of what needs to go well tomorrow. They cannot just be collecting a ton of offensive rebounds, kicking them out and hitting threes. It's Hart, it's OG, it's Bridges, it's Deuce, it's Clarkson. They've done a good job. I think their role guys have excelled. That's a major strength of theirs to win those extra possessions, and that makes a difference in a close game.",
+      "verbatim_original_language": "",
+      "start_seconds": 342,
+      "end_seconds": 375,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Limiting offensive rebounds is at the top of the list for the Sixers tomorrow. Nick Nurse says the Knicks winning extra possessions is a major strength that makes a difference in close games.",
+      "team": "Philadelphia 76ers"
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "rezZ4x0xaUg",
+  "url": "https://www.youtube.com/watch?v=rezZ4x0xaUg",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-19T18:59:14Z",
+  "duration_seconds": 411,
+  "processed_at": "2026-10-19T19:53:41Z",
+  "run_id": "2026-10-19T1953Z-14utc",
+  "is_one_off": false
+}
