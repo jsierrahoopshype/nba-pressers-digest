@@ -1,0 +1,172 @@
+{
+ "_comment": "2026-27 team channels and head coaches for speaker resolution (structured_quotes.py). Head coaches checked on 2026-10-20 against the teams' own press-conference titles and NBA.com / ESPN / RealGM coach listings. Edit when a coach changes.",
+ "season": "2026-27",
+ "nicknames": {
+  "Book": "Devin Booker",
+  "Dame": "Damian Lillard",
+  "Ant": "Anthony Edwards",
+  "SGA": "Shai Gilgeous-Alexander",
+  "Wemby": "Victor Wembanyama",
+  "KAT": "Karl-Anthony Towns",
+  "JJJ": "Jaren Jackson Jr.",
+  "Zu": "Ivica Zubac",
+  "Joker": "Nikola Jokić",
+  "CP3": "Chris Paul",
+  "AD": "Anthony Davis",
+  "Bron": "LeBron James",
+  "Spida": "Donovan Mitchell",
+  "Scoot": "Scoot Henderson"
+ },
+ "teams": {
+  "ATL": {
+   "team": "Atlanta Hawks",
+   "channel_id": "UCpfcwELvR1wtcRJ0UxNXHYw",
+   "head_coach": "Quin Snyder"
+  },
+  "BKN": {
+   "team": "Brooklyn Nets",
+   "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
+   "head_coach": "Jordi Fernández"
+  },
+  "BOS": {
+   "team": "Boston Celtics",
+   "channel_id": "UCMfT9dr6xC_RIWoA9hI0meQ",
+   "head_coach": "Joe Mazzulla"
+  },
+  "CHA": {
+   "team": "Charlotte Hornets",
+   "channel_id": "UCPhFI5lIFnSggz7HgY9UuuQ",
+   "head_coach": "Charles Lee"
+  },
+  "CHI": {
+   "team": "Chicago Bulls",
+   "channel_id": "UCvZi1jVVZ2yq0k5kkjzmuGw",
+   "head_coach": "Tiago Splitter"
+  },
+  "CLE": {
+   "team": "Cleveland Cavaliers",
+   "channel_id": "UCOdS-I1sYkKWhtTjMUWP_TA",
+   "head_coach": "Kenny Atkinson"
+  },
+  "DAL": {
+   "team": "Dallas Mavericks",
+   "channel_id": "UCZywaCS_y9YOSSAC9z3dIeg",
+   "head_coach": "Dusty May"
+  },
+  "DEN": {
+   "team": "Denver Nuggets",
+   "channel_id": "UCl8hzdP5wVlhuzNG3WCJa1w",
+   "head_coach": "David Adelman"
+  },
+  "DET": {
+   "team": "Detroit Pistons",
+   "channel_id": "UCtcSBo9EzOtXHxiPhU6RN8A",
+   "head_coach": "J.B. Bickerstaff"
+  },
+  "GSW": {
+   "team": "Golden State Warriors",
+   "channel_id": "UCeYc_OjHs3QNxIjti2whKzg",
+   "head_coach": "Steve Kerr"
+  },
+  "HOU": {
+   "team": "Houston Rockets",
+   "channel_id": "UCVD7l69MVGFq_wzQvbk9HbQ",
+   "head_coach": "Ime Udoka"
+  },
+  "IND": {
+   "team": "Indiana Pacers",
+   "channel_id": "UCUQDCnAwU-35cOo8WCzg6zA",
+   "head_coach": "Rick Carlisle"
+  },
+  "LAC": {
+   "team": "LA Clippers",
+   "channel_id": "UCoK6pw3iIVF9WAWnQd3hj-g",
+   "head_coach": "Tyronn Lue"
+  },
+  "LAL": {
+   "team": "Los Angeles Lakers",
+   "channel_id": "UC8CSt-oVqy8pUAoKSApTxQw",
+   "head_coach": "JJ Redick"
+  },
+  "MEM": {
+   "team": "Memphis Grizzlies",
+   "channel_id": "UCCK5EpWKYrAmILfaZThCV-Q",
+   "head_coach": "Tuomas Iisalo"
+  },
+  "MIA": {
+   "team": "Miami Heat",
+   "channel_id": "UC8bZbiKoPNRi3taABIaFeBw",
+   "head_coach": "Erik Spoelstra"
+  },
+  "MIL": {
+   "team": "Milwaukee Bucks",
+   "channel_id": "UCRZDEVva3Z8h_Q0VetTgDUA",
+   "head_coach": "Taylor Jenkins"
+  },
+  "MIN": {
+   "team": "Minnesota Timberwolves",
+   "channel_id": "UCXWDN5NKVFgnPt25CMh98Cg",
+   "head_coach": "Chris Finch"
+  },
+  "NOP": {
+   "team": "New Orleans Pelicans",
+   "channel_id": "UCHvG7tf62PwI04ZRfoptRSw",
+   "head_coach": "Jamahl Mosley"
+  },
+  "NYK": {
+   "team": "New York Knicks",
+   "channel_id": "UC0hb8f0OXHEzDrJDUq-YVVw",
+   "head_coach": "Mike Brown"
+  },
+  "OKC": {
+   "team": "Oklahoma City Thunder",
+   "channel_id": "UCpXdQhy6kb5CTD8hKlmOL3w",
+   "head_coach": "Mark Daigneault"
+  },
+  "ORL": {
+   "team": "Orlando Magic",
+   "channel_id": "UCxHFH-yfbhUrsWY4prPx3oQ",
+   "head_coach": "Sean Sweeney"
+  },
+  "PHI": {
+   "team": "Philadelphia 76ers",
+   "channel_id": "UC5qJUyng_ezl0TVjVJFqtfQ",
+   "head_coach": "Nick Nurse"
+  },
+  "PHX": {
+   "team": "Phoenix Suns",
+   "channel_id": "UCLxlWVVHz2a8SdCfxzVXzQw",
+   "head_coach": "Jordan Ott"
+  },
+  "POR": {
+   "team": "Portland Trail Blazers",
+   "channel_id": "UCXk66yyzXo7-2M1BMqLhltQ",
+   "head_coach": "Micah Nori"
+  },
+  "SAC": {
+   "team": "Sacramento Kings",
+   "channel_id": "UCSgFigczGdNMilV1K23JgUQ",
+   "head_coach": "Doug Christie"
+  },
+  "SAS": {
+   "team": "San Antonio Spurs",
+   "channel_id": "UCEZHE-0CoHqeL1LGFa2EmQw",
+   "head_coach": "Mitch Johnson"
+  },
+  "TOR": {
+   "team": "Toronto Raptors",
+   "channel_id": "UCYBFE432C2AmNRDGEXE4uVg",
+   "head_coach": "Darko Rajaković"
+  },
+  "UTA": {
+   "team": "Utah Jazz",
+   "channel_id": "UCv9iSdeI9IzWfV8yTDsMYWA",
+   "head_coach": "Will Hardy"
+  },
+  "WAS": {
+   "team": "Washington Wizards",
+   "channel_id": "UChvzoBPvORuNGtHTMzjUsIQ",
+   "head_coach": "Brian Keefe"
+  }
+ }
+}

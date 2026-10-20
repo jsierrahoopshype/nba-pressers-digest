@@ -163,7 +163,9 @@ class Model:
         for r in view:
             k = sq.name_key(r["speaker"]["name"])
             self.by_speaker.setdefault(k, []).append(r)
-            if (r["speaker"]["role"] == "player" and " " in k) or media.players.get(r["speaker"]["name"]):
+            # Unresolved speakers (speakers.py) get no player page.
+            if r["speaker"].get("resolved", True) and (
+                    (r["speaker"]["role"] == "player" and " " in k) or media.players.get(r["speaker"]["name"])):
                 player_keys.add(k)
             for s in r["subjects"]:
                 sk = sq.name_key(s)

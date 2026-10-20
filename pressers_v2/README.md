@@ -90,6 +90,22 @@ Slack or the run schedule:
   short id of `STRUCTURED_FIELDS_PROMPT`: when the prompt changes, the stored
   videos are asked again and a video whose records change gets one new snapshot.
   `data/history/processed-videos.json` lists the videos already read.
+- **Speakers and subjects** (`speakers.py`, mapping in `teams_2026_27.json`:
+  each team's channel and 2026-27 head coach, plus a short nickname list; edit it
+  when a coach changes). The speaker's team is the video's channel. A coach, a
+  lone surname or "Coach X" becomes that team's head coach only when it fits;
+  an assistant the title names keeps his name; anything else is
+  `"resolved": false`. Players resolve against the channel team's roster:
+  every known player the team's channel named this season (title or named
+  speaker), plus nba-headshots' July list until another team's channel names
+  them; exact, suffix-insensitive, a short first name, or a misspelling one
+  roster player clearly fits ("Chris Dunn" -> Kris Dunn). Subjects get the
+  same roster fixes, and a lone first name or nickname only when exactly one
+  roster player fits. Unresolved speakers are never best, get no player page
+  and are left out of the public JSON. Records carry `speaker_rules` (an id of
+  the rules + mapping): when it changes, stored videos are rebuilt from their
+  cached fields (no Gemini call) and one new snapshot is appended per changed
+  video.
 - **Verbatim check:** for new videos the workflow tries the YouTube captions
   (youtube-transcript-api) and drops a quote that doesn't align with them
   (`caption_align.py`). Runners YouTube blocks give up after 3 failures;

@@ -144,7 +144,8 @@ class RecordTests(unittest.TestCase):
         self.assertEqual(counts["unnamed"], 1)
         r1, r3 = recs
         self.assertEqual(r1["fields_source"], "rules-fallback")
-        self.assertEqual(r1["speaker"], {"name": "Jane Doe", "role": "player"})
+        self.assertEqual(r1["speaker"], {"name": "Jane Doe", "role": "player", "team": "CLE",
+                                         "resolved": True, "how": "title"})   # the title names her
         self.assertEqual(r1["subjects"], ["John Roe"])
         self.assertEqual(r1["teams"], ["CLE"])
         self.assertEqual(r1["topics"], ["contracts"])
