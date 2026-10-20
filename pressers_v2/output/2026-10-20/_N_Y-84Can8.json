@@ -1,0 +1,423 @@
+{
+  "video_title": "Shootaround Media Availability + One on One with Kenrich Williams | October 20, 2025 | OKC Thunder",
+  "speakers_seen": [
+    "Nick Gallo",
+    "Kenrich Williams",
+    "Cason Wallace"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenrich Williams",
+      "speakers": [],
+      "timestamp": "00:20",
+      "summary_phrase": "Kenrich Williams on the excitement of starting a new season",
+      "names_mentioned": [],
+      "excerpt": "It's like every kid on Christmas, it's like the first day of school.",
+      "quote": "It's fun, it's exciting. It's like every kid on Christmas, it's like the first day of school, getting out there and being able to play and compete. This is what we worked hard for all summer, so we're ready to put everything to work.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kenrich Williams on the start of the season: It is like every kid on Christmas, it is like the first day of school, getting out there and being able to play and compete.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams discusses his excitement for the start of the new NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenrich Williams",
+      "speakers": [],
+      "timestamp": "00:52",
+      "summary_phrase": "Kenrich Williams on the team's focus on game planning",
+      "names_mentioned": [],
+      "excerpt": "We've got a chance to set the tone for how the season's going to go.",
+      "quote": "Pretty much just understanding the game plan, what the game plan is, knowing we've got a chance to set the tone for how the season's going to go. We'll have any control of how the season's going to go, just go out there and compete.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenrich Williams says the Thunder are focused on setting the tone early: We have control of how the season is going to go, just go out there and compete.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams explains the importance of following the team game plan as the season begins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenrich Williams",
+      "speakers": [],
+      "timestamp": "01:27",
+      "summary_phrase": "Kenrich Williams on offensive ball movement and team trust",
+      "names_mentioned": [],
+      "excerpt": "We're going to have to share the ball, we're going to have to touch the paint on offense.",
+      "quote": "We're going to have to share the ball, we're going to have to touch the paint on offense, trust each other, just stick to the game plan offensively, be aggressive, and just play freely.",
+      "verbatim_original_language": "",
+      "start_seconds": 87,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenrich Williams on the offensive approach for the Thunder: We are going to have to share the ball, touch the paint, trust each other, and just play freely.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams outlines the offensive strategy of sharing the ball and trusting teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenrich Williams",
+      "speakers": [],
+      "timestamp": "01:54",
+      "summary_phrase": "Kenrich Williams on defensive pride and protecting the paint",
+      "names_mentioned": [],
+      "excerpt": "Take pride in our one-on-one defense, take pride in protecting the paint and helping each other.",
+      "quote": "They've got good players, good guards over there, so we're just going to have to take pride in our one-on-one defense, take pride in protecting the paint and helping each other. That's the most important part.",
+      "verbatim_original_language": "",
+      "start_seconds": 114,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenrich Williams on defensive priorities: We are just going to have to take pride in our one on one defense, take pride in protecting the paint and helping each other.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams emphasizes the need for defensive pride and protecting the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenrich Williams",
+      "speakers": [],
+      "timestamp": "02:24",
+      "summary_phrase": "Kenrich Williams on his personal growth and faith",
+      "names_mentioned": [],
+      "excerpt": "Once you have that, you can't be stopped. You got that feeling and your mindset.",
+      "quote": "I would say more confidence, more belief. I feel like I got more faith in God, and once you have that, you can't be stopped. You got that feeling and your mindset, and you can go out there and do anything. I've been through it in nine years, every scenario, so you can build off that and know I'm ready for whatever.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kenrich Williams on his growth entering his ninth season: I would say more confidence, more belief. I feel like I got more faith in God, and once you have that, you cannot be stopped.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams reflects on his personal growth and mindset after nine years in the league.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "03:20",
+      "summary_phrase": "Cason Wallace on his long-term commitment to the Thunder",
+      "names_mentioned": [],
+      "excerpt": "Excited to get that deal done and be in this organization for the years to come.",
+      "quote": "It felt great, just excited to get that deal done and be in this organization for the years to come. So, excited to get back on the court today.",
+      "verbatim_original_language": "",
+      "start_seconds": 200,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Cason Wallace on his new deal with the Thunder: It felt great, just excited to get that deal done and be in this organization for the years to come.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Cason Wallace expresses excitement about his new contract and remaining with the Thunder organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "03:56",
+      "summary_phrase": "Cason Wallace on the relief of finalizing his contract",
+      "names_mentioned": [],
+      "excerpt": "It's huge just knowing that I can just relax now. I was up tight a little bit.",
+      "quote": "It's huge just knowing that I can just relax now. I was up tight a little bit during the process, but now that it's over, it's a breath of fresh air.",
+      "verbatim_original_language": "",
+      "start_seconds": 236,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Cason Wallace on finalizing his contract: It is huge just knowing that I can just relax now. I was up tight a little bit during the process, but now that it is over, it is a breath of fresh air.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Cason Wallace describes the relief of finalizing his contract negotiations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "04:17",
+      "summary_phrase": "Cason Wallace on maintaining his mindset despite new responsibilities",
+      "names_mentioned": [],
+      "excerpt": "I've always been somebody that steps up to the challenge, and it's just another challenge.",
+      "quote": "It doesn't change. I've always been somebody that steps up to the challenge, and it's just another challenge, and I'm a competitor.",
+      "verbatim_original_language": "",
+      "start_seconds": 257,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on his mindset: It does not change. I have always been somebody that steps up to the challenge, and it is just another challenge, and I am a competitor.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Cason Wallace discusses maintaining his competitive mindset despite his new contract status.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "04:28",
+      "summary_phrase": "Cason Wallace on the team's attitude toward Lambos",
+      "names_mentioned": [],
+      "excerpt": "They don't even like Lambos for real, so I'm not really worried about them.",
+      "quote": "They don't even like Lambos for real, so I'm not really worried about them.",
+      "verbatim_original_language": "",
+      "start_seconds": 268,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on his teammates' taste in cars: They do not even like Lambos for real, so I am not really worried about them.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Cason Wallace makes a lighthearted comment about his teammates' lack of interest in Lamborghinis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "04:47",
+      "summary_phrase": "Cason Wallace on the team's competitive mindset for the season",
+      "names_mentioned": [],
+      "excerpt": "Just coming in here with a mindset ready to win, compete together for a whole 48-minute game.",
+      "quote": "We faced them a lot last year, so just coming in here with a mindset ready to win, compete together for a whole 48-minute game.",
+      "verbatim_original_language": "",
+      "start_seconds": 287,
+      "end_seconds": 297,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on the team's goals: Coming in here with a mindset ready to win, compete together for a whole 48 minute game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Cason Wallace discusses the team's competitive mindset heading into the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "05:07",
+      "summary_phrase": "Cason Wallace on the talent of teammate Ajay Mitchell",
+      "names_mentioned": [
+        "Ajay Mitchell"
+      ],
+      "excerpt": "He's a great competitor, he's fitting right in with us, so ready to see him out there.",
+      "quote": "He's a great competitor, he's fitting right in with us, so ready to see him out there.",
+      "verbatim_original_language": "",
+      "start_seconds": 307,
+      "end_seconds": 314,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on teammate Ajay Mitchell: He is a great competitor, he is fitting right in with us, so ready to see him out there.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ajay Mitchell"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cason Wallace praises the competitive nature of his teammate Ajay Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "05:57",
+      "summary_phrase": "Cason Wallace on the team's depth and competitive nature",
+      "names_mentioned": [],
+      "excerpt": "We got two more competitors out there with us. They're going to come out and play.",
+      "quote": "We got two more competitors out there with us. They're going to come out and play as hard as they can and do everything we can to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 357,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on the Thunder's depth: We got two more competitors out there with us. They are going to come out and play as hard as they can and do everything we can to win.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Cason Wallace comments on the depth and competitive nature of the Thunder roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "06:16",
+      "summary_phrase": "Cason Wallace on the team's consistent principles",
+      "names_mentioned": [],
+      "excerpt": "Our main principles are the same, go out there, compete, whole 48-minute game.",
+      "quote": "Our main principles are the same, go out there, compete, whole 48-minute game, and go out there and do whatever it takes to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 376,
+      "end_seconds": 385,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on team principles: Our main principles are the same, go out there, compete, whole 48 minute game, and go out there and do whatever it takes to win.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Cason Wallace states that the team's core principles remain consistent for the new season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "06:35",
+      "summary_phrase": "Cason Wallace on the message for youth in his community",
+      "names_mentioned": [],
+      "excerpt": "Keep your head up, grind, and don't be denied.",
+      "quote": "So that anybody can do it, keep your head up, grind, and don't be denied.",
+      "verbatim_original_language": "",
+      "start_seconds": 395,
+      "end_seconds": 401,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace shares a message for the youth: Anybody can do it, keep your head up, grind, and do not be denied.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Cason Wallace shares an encouraging message for youth in his community.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "_N_Y-84Can8",
+  "url": "https://www.youtube.com/watch?v=_N_Y-84Can8",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-20T19:54:01Z",
+  "duration_seconds": 405,
+  "processed_at": "2026-10-20T23:12:15Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

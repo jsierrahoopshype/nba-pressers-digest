@@ -1,0 +1,154 @@
+{
+  "video_title": "Rick Carlisle, Tyrese Haliburton & Pascal Siakam Media Availability | October 20, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Tyrese Haliburton",
+    "Pascal Siakam"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:48",
+      "summary_phrase": "Rick Carlisle on the impact of adding Pascal Siakam",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "once we got him back on the floor with our main guys that things would go well",
+      "quote": "Pascal Siakam is an experienced player. He has a great feel for the game and so we knew that once we got him back on the floor with our main guys that things would go well. I know he is looking forward to tomorrow as well and it will be here before we know it.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle says Pascal Siakam has a great feel for the game and expects the team to perform well with him back on the floor with the main group.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle discusses the impact of Pascal Siakam returning to the floor with the team's core players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "04:42",
+      "summary_phrase": "Tyrese Haliburton on team continuity and roster stability",
+      "names_mentioned": [
+        "Pascal Siakam",
+        "Kelly Olynyk"
+      ],
+      "excerpt": "our core is our core, same group. We have had the same coaching staff for a long time",
+      "quote": "Our core is our core, same group. We have had the same coaching staff for a long time now, so I think our principles are our principles and we are understanding of that and that has been really good. I think it is hard when you have a lot of roster turnover, when you have a lot of coaching turnover, it is hard to sustain success. Fortunately for us, we have kept the same group together for the most part. Obviously we are missing two key pieces from our championship run, but we are filling those in pretty well. I think Pascal Siakam has been really good for us and Kelly Olynyk has been really good for us.",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton credits the Pacers success to continuity and keeping the same core together. He notes that while they are missing two pieces from their championship run, the new additions are fitting in well.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Pascal Siakam",
+          "Kelly Olynyk"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Haliburton reflects on the importance of roster continuity and the contributions of Pascal Siakam and Kelly Olynyk.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "08:03",
+      "summary_phrase": "Tyrese Haliburton on facing Ben Simmons",
+      "names_mentioned": [
+        "Ben Simmons"
+      ],
+      "excerpt": "I know how fierce of a competitor he is and we have definitely had our battles",
+      "quote": "I am excited. I did not get to play against Ben Simmons last year like everybody else. I know how fierce of a competitor he is and we have definitely had our battles in here in the summer and in training camp and things like that. So, I look forward to being back on the floor with him.",
+      "text_blocks": [],
+      "start_seconds": 483,
+      "end_seconds": 505,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyrese Haliburton says he is excited to face Ben Simmons after missing their matchups last season. He calls Simmons a fierce competitor.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ben Simmons"
+        ],
+        "teams": [
+          "IND",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton expresses his excitement about playing against Ben Simmons after missing their matchups last season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Pascal Siakam",
+      "timestamp": "14:28",
+      "summary_phrase": "Pascal Siakam on Kelly Olynyk's fit with the team",
+      "names_mentioned": [
+        "Kelly Olynyk"
+      ],
+      "excerpt": "the intangibles and the things that he does well fits with what we do",
+      "quote": "Kelly Olynyk has been a great fit. The intangibles and the things that he does well fits with what we do. His length, athleticism, he can guard, he can knock down the shot, he can also handle. He has all those tools and he is a great person. Hanging out and being around him, he has been awesome.",
+      "text_blocks": [],
+      "start_seconds": 868,
+      "end_seconds": 890,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Pascal Siakam praises Kelly Olynyk as a great fit for the Pacers, highlighting his length, shooting ability, and versatility as key tools for the team.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kelly Olynyk"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pascal Siakam describes how Kelly Olynyk fits into the team's system and his positive impact on the group.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "41RkOr25bHE",
+  "url": "https://www.youtube.com/watch?v=41RkOr25bHE",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-20T18:44:08Z",
+  "duration_seconds": 938,
+  "processed_at": "2026-10-20T23:12:15Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

@@ -1,0 +1,229 @@
+{
+  "video_title": "Post Game Press Conference l Jalen Duren l Pistons vs  Celtics   10.20.26 #NBA",
+  "speakers_seen": [
+    "Jalen Duren"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Duren",
+      "timestamp": "00:17",
+      "summary_phrase": "Jalen Duren on the importance of team depth and roles",
+      "names_mentioned": [
+        "Joe",
+        "Herter"
+      ],
+      "excerpt": "having a deep team, guys who can come in, make plays, automatically cut, guys who know their role",
+      "quote": "That's what makes us a team. Having a deep team, guys who can come in, make plays, automatically cut, guys who know their role, guys who play their role to the best of their abilities. That's how we get wins like this and that's how we become successful.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Duren on the Pistons depth: Having guys who know their role and play it to the best of their abilities is how we get wins and how we become successful.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jalen Duren discusses the importance of team depth and role players following a game against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Duren",
+      "timestamp": "00:47",
+      "summary_phrase": "Jalen Duren on the team's gritty culture and identity",
+      "names_mentioned": [],
+      "excerpt": "we're a team who is known to be gritty, known to get it out the mud",
+      "quote": "I don't like satisfied because we're definitely not satisfied. I think the comeback just embodied the culture and what we're trying to build here. We're a team who is known to be gritty, known to get it out the mud, known to never quit, and that's our identity. Even the guys who are new here are embodying that and that's why we were able to have the outcome we had.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Duren says the Pistons are not satisfied after their comeback win: We are a team known to be gritty, known to get it out the mud, known to never quit, and that is our identity.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jalen Duren reflects on the team's gritty culture and identity after a comeback victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Duren",
+      "timestamp": "01:41",
+      "summary_phrase": "Jalen Duren on Jevon Carter's energy and professionalism",
+      "names_mentioned": [
+        "Jevon"
+      ],
+      "excerpt": "Jevon is a pro's pro. Every game, you never know how many minutes he's going to get",
+      "quote": "Jevon is a pro's pro. Every game, you never know how many minutes he's going to get, but every time his number is called, he's ready. He's ready to do whatever we need him to do, whether it's knockdown shots, get stops, guard the other team's best player. He's always there with energy and that's him every day. He's a positive person, he comes in to practice, he's a guy who can make everybody laugh and he just kind of brings the team together.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Duren praises Jevon Carter as a pros pro: Every time his number is called, he is ready. He is always there with energy and that is him every day.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jevon Carter"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Duren praises teammate Jevon Carter for his professionalism and energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Duren",
+      "timestamp": "02:23",
+      "summary_phrase": "Jalen Duren on defensive rebounding and boxing out Mitchell Robinson",
+      "names_mentioned": [
+        "Mitchell Robinson"
+      ],
+      "excerpt": "Mitchell Robinson has made his name in this league battling on the old boards",
+      "quote": "That was the emphasis, especially for their bigs, not only their bigs but their wings too and their smaller players. They're known to crash from the corners and anytime a shot goes up. Obviously, Mitchell Robinson has made his name in this league battling on the old boards. So my mindset tonight was, whether I get it or not, I just got to keep him off and I tried to do it to the best of my abilities and we came out with a good outcome.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Duren on his defensive focus against Mitchell Robinson: My mindset tonight was, whether I get the rebound or not, I just have to keep him off the glass.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mitchell Robinson"
+        ],
+        "teams": [
+          "DET",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Duren explains his defensive strategy for boxing out Mitchell Robinson during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Duren",
+      "timestamp": "03:00",
+      "summary_phrase": "Jalen Duren on the NBA's new opening night atmosphere",
+      "names_mentioned": [],
+      "excerpt": "it felt like a playoff game, just with all the t-shirts and just all the energy",
+      "quote": "I think it was great. I think it was great, great energy, especially how the setup was coming in, like college game day football or whatever, having the fans all around us and just having the hype. It felt like a playoff game, just with all the t-shirts and just all the energy. It was amazing. I love these type of atmospheres.",
+      "text_blocks": [],
+      "start_seconds": 180,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jalen Duren on the opening night atmosphere: It felt like a playoff game, just with all the t-shirts and all the energy. I love these type of atmospheres.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jalen Duren shares his thoughts on the atmosphere during the NBA opening night game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jalen Duren",
+      "timestamp": "03:36",
+      "summary_phrase": "Jalen Duren on the team's resilience after falling behind",
+      "names_mentioned": [],
+      "excerpt": "we're not the team to hang our heads. We've seen the bottom",
+      "quote": "We're not the team to hang our heads. We've seen the bottom. A lot of guys are new here, but we've seen the bottom. So we're not afraid of it and you know, we fight. That's the identity of our team. We've built everything we have so far off of being gritty, being dogs, and kind of just attacking everybody that comes in front of us. So I'll never say we were scared or like worried or anything. We knew that we had to pick it up and play our brand of basketball to get back in it and thankfully we did.",
+      "text_blocks": [],
+      "start_seconds": 216,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Duren on the Pistons resilience: We are not the team to hang our heads. We have seen the bottom, so we are not afraid of it and we fight.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jalen Duren discusses the team's resilience and refusal to give up after falling behind in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jalen Duren",
+      "timestamp": "04:55",
+      "summary_phrase": "Jalen Duren on AT's work ethic and growth",
+      "names_mentioned": [
+        "AT"
+      ],
+      "excerpt": "AT been working his tail off, man. He's a gym rat. He's a guy who just consistently wants",
+      "quote": "AT been working his tail off, man. He's a gym rat. He's a guy who just consistently wants to get better. He's a guy who loves the game, so I'm not surprised about his progression and I think he'll only continue to get better. He does so much for us that might not even show up on the stat sheet, but he's so, so valuable for our team because we put him in so many different positions and have him guard so many different positions and do different things on offense and he never complains. He just picks it up and goes with it, so he's a hell of a teammate and I'm glad to be his running mate.",
+      "text_blocks": [],
+      "start_seconds": 295,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Duren on his teammate AT: He does so much for us that might not even show up on the stat sheet, but he is so valuable for our team because he never complains.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ausar Thompson"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Duren commends Ausar Thompson for his work ethic and versatility on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "NANaBCJtpeo",
+  "url": "https://www.youtube.com/watch?v=NANaBCJtpeo",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-20T22:51:41Z",
+  "duration_seconds": 333,
+  "processed_at": "2026-10-20T23:11:26Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

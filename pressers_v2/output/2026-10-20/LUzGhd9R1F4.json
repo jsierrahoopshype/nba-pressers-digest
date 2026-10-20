@@ -1,0 +1,171 @@
+{
+  "video_title": "Taylor Jenkins Media Availability | 10.20.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:27",
+      "summary_phrase": "Taylor Jenkins on the Grizzlies' ongoing team-building process",
+      "names_mentioned": [],
+      "excerpt": "we're laying our foundation and to encapsulate it all, it's still a settling foundation.",
+      "quote": "we're laying our foundation and to encapsulate it all, it's still a settling foundation. It's not fully set. It's going to take an entire calendar year to go through all the things, first time together, first off-season, first preseason camp, first regular season and beyond. I like the direction we're going and I think our guys understand what we're trying to build here. They're understanding and learning our habits, but as I've emphasized with them, we're in a learning phase, but we got to establish quicker rather than later.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins says the Grizzlies are still in a learning phase as they lay their foundation. He notes it will take a full calendar year to get through all the new processes and habits as they build for the future.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the ongoing process of building the team foundation during his media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:53",
+      "summary_phrase": "Taylor Jenkins discusses the decision to move on from Scoot Henderson",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "as we thought through the lens of what we're building here and going forward, it was a very difficult decision.",
+      "quote": "very difficult decision. I think Scoot had been great for us. He added a lot to the group. He's a talented player. He's going to get an opportunity somewhere else and be able to contribute for them, but as we thought through the lens of what we're building here and going forward, and the young core of guards that we have, the excitement we have for them, creating pathways for them, it was a very difficult decision, but one that we believe is going to be in the best interest of the team moving forward.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Taylor Jenkins calls the decision to move on from Scoot Henderson very difficult but necessary to create pathways for the team's young core of guards. He believes the move is in the best interest of the team moving forward.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "MIL",
+          "MEM"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Taylor Jenkins explains the difficult decision to move on from Scoot Henderson to prioritize the development of other young guards.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:27",
+      "summary_phrase": "Taylor Jenkins on the development of young guards",
+      "names_mentioned": [
+        "Scoot Henderson",
+        "Braidon"
+      ],
+      "excerpt": "I just love their competitive fire. I love what they can provide on both sides of the floor.",
+      "quote": "I just love their competitive fire. I love what they can provide on both sides of the floor. They both have to grow as playmakers. Obviously, Scoot has more experience than those guys, but what I've seen in a short amount of time, the poise in both of those guys, they attack the game differently. Braidon, I think even getting opportunities on the ball early in his career is very important for us to see who he can become. I think both those guys carry an edge on the defensive side of the floor. They're going to learn the personnel, they're going to learn tendencies and game plan and figuring out how to be disciplined night in and night out.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins is impressed by the competitive fire and defensive edge of his young guards. He emphasizes that while they have room to grow as playmakers, their poise and defensive potential are key for the team.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson",
+          "Braidon"
+        ],
+        "teams": [
+          "MIL",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates the development and competitive fire of his young guards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:43",
+      "summary_phrase": "Taylor Jenkins on the Grizzlies' offensive and defensive systems",
+      "names_mentioned": [],
+      "excerpt": "we're trying to complicate things but also just have a very clear and simple intent.",
+      "quote": "I think we still have a lot to learn, honestly. I'm trying to keep it really simple with these guys, how we compete together, get better. That's a driving force behind everything that we do. Learning our offensive system, defensive systems, we're trying to complicate things but also just have a very clear and simple intent on what we're trying to do. What is our basketball philosophy on defense? What's that on offense? How we create the different structures? I think our guys are adapting well to that. We're making progress.",
+      "text_blocks": [],
+      "start_seconds": 223,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Taylor Jenkins says the focus for the Grizzlies right now is keeping things simple while learning new offensive and defensive systems. He notes the team is making progress in adapting to the new philosophy.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's progress in learning and adapting to his offensive and defensive systems.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "06:02",
+      "summary_phrase": "Taylor Jenkins on the importance of consistency in training camp",
+      "names_mentioned": [],
+      "excerpt": "I've always been a teacher of the long game, trying to just stay consistent with your day-to-day approach.",
+      "quote": "I've always been a teacher of the long game, trying to just stay consistent with your day-to-day approach. Our guys, as I was just mentioned, like their response has been great every single day. They're learning new terminology, new coaches, new practice design, new daily schedule, how we actually integrate everything on a week basis. So for me, it's, are we capturing the right behaviors early on, being consistent in that, irrespective of what the record might be, 10, 20 games into the season.",
+      "text_blocks": [],
+      "start_seconds": 362,
+      "end_seconds": 394,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Taylor Jenkins is focused on the long game and consistency in training camp. He says the priority is capturing the right behaviors early on regardless of what the record looks like early in the season.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins emphasizes the importance of maintaining a consistent day-to-day approach during training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "LUzGhd9R1F4",
+  "url": "https://www.youtube.com/watch?v=LUzGhd9R1F4",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-20T20:33:45Z",
+  "duration_seconds": 528,
+  "processed_at": "2026-10-20T23:11:58Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

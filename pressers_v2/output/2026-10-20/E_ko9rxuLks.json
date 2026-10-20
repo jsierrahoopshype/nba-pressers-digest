@@ -1,0 +1,147 @@
+{
+  "video_title": "Micah Nori Media Availability | Oct. 20, 2026 | Portland Trail Blazers",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:06",
+      "summary_phrase": "Micah Nori on the Phoenix Suns' roster additions and physicality",
+      "names_mentioned": [
+        "Bridges",
+        "Luke Kennard"
+      ],
+      "excerpt": "they went with some more physicality when they added Bridges to their group",
+      "quote": "They provided a lot of challenges. Number one, they had a very nice pickup and they went with some more physicality when they added Bridges to their group. And then also they added some shooting with Luke Kennard. I was fortunate enough to coach Luke in Detroit and he is one of those guys as well. Every time he let it go, you think it is going in and he has pretty much proven that. I think he has led the three-point percentage in the NBA the last couple years for sure.",
+      "start_seconds": 6,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori praises the Suns' recent additions, noting that adding Mikal Bridges brought needed physicality while Luke Kennard remains one of the most reliable shooters in the NBA.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mikal Bridges",
+          "Luke Kennard"
+        ],
+        "teams": [
+          "POR",
+          "PHX",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the challenges posed by the Phoenix Suns roster additions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "01:06",
+      "summary_phrase": "Micah Nori on Scoot Henderson's future with the Trail Blazers",
+      "names_mentioned": [
+        "Scoot"
+      ],
+      "excerpt": "I envision Scoot being a Portland Trail Blazer for a long time",
+      "quote": "At the end of the day, Scoot knows we love him. Scoot knows that he has a huge role on this team, and I envision Scoot being a Portland Trail Blazer for a long time. It is just one of those things that the two sides couldn't come together for an extension, but that doesn't mean much. He is still, even if he gets to the point where he is a restricted free agent, we have the opportunity to match. It gives us another year to see Scoot's body of work.",
+      "start_seconds": 66,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Micah Nori says the Blazers still envision Scoot Henderson as a long-term piece despite failing to reach an extension. Nori emphasized that the team retains the ability to match any offer in restricted free agency.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Micah Nori addresses Scoot Henderson's contract situation and his future with the Trail Blazers.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "01:48",
+      "summary_phrase": "Micah Nori on Scoot Henderson's character and professional demeanor",
+      "names_mentioned": [
+        "Scoot"
+      ],
+      "excerpt": "Scoot is a better person than he is even a player",
+      "quote": "Scoot is phenomenal. Scoot said his whole life, even when he was younger and some guys were getting recruited and maybe they weren't giving him calls early on, they just stayed true to himself, controls what he can control, and doesn't worry about all the outside variables. If you didn't know the obvious of it, that he didn't sign an extension, you would not be able to tell with his demeanor or his work ethic. He is a better person than he is even a player.",
+      "start_seconds": 108,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Nori says Scoot Henderson's demeanor and work ethic have remained unchanged despite his contract situation, adding that Henderson is a better person than he is a player.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori praises Scoot Henderson's character and work ethic following his contract extension status.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "03:08",
+      "summary_phrase": "Micah Nori on Scoot Henderson's impact on the floor",
+      "names_mentioned": [
+        "Scoot"
+      ],
+      "excerpt": "when he does play, the game changes and it changes the flow going into the floor",
+      "quote": "I obviously knew about him just through the draft processes and all that. But just even being in the West, you play Portland 20 times in the last five years and he has obviously been around that long. But we have missed Scoot quite a bit, meaning he has been with his hamstring, unfortunately. There have been some other times where he has had some injuries. But I do know that when he does play, the game changes and it changes the flow going into the floor and he is a dynamic guard.",
+      "start_seconds": 188,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Nori says Scoot Henderson is a dynamic guard who changes the flow of the game when he is on the floor, noting that the team has missed his presence during his recent injury absences.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori discusses the impact of Scoot Henderson's play and his recent injury history.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "E_ko9rxuLks",
+  "url": "https://www.youtube.com/watch?v=E_ko9rxuLks",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-20T20:26:57Z",
+  "duration_seconds": 235,
+  "processed_at": "2026-10-20T23:11:57Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

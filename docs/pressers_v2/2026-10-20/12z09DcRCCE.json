@@ -1,0 +1,245 @@
+{
+  "video_title": "Scoot Henderson Media Availability | Oct. 20, 2026 | Portland Trail Blazers",
+  "speakers_seen": [
+    "Scoot Henderson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:04",
+      "summary_phrase": "Scoot Henderson on handling contract extension news and team expectations",
+      "names_mentioned": [],
+      "excerpt": "Man above doesn't make any mistakes. I'm just going to keep playing my best ball.",
+      "quote": "It is what it is. Man above doesn't make any mistakes. I'm just going to keep playing my best ball.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 12,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scoot Henderson on his contract situation and the business side of the NBA: It is what it is. Man above doesn't make any mistakes. I'm just going to keep playing my best ball.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Scoot Henderson is asked about his reaction to ongoing contract extension news.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:15",
+      "summary_phrase": "Scoot Henderson on maintaining gratitude through career challenges",
+      "names_mentioned": [],
+      "excerpt": "You can't just be grateful when things are going your way. You got to be grateful through it all.",
+      "quote": "You can't just be grateful when things are going your way. You got to be grateful through it all. You got to appreciate everything that's going on in your life.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson on maintaining perspective during his career: You can't just be grateful when things are going your way. You got to be grateful through it all.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson discusses his personal philosophy on maintaining gratitude during difficult times in his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:28",
+      "summary_phrase": "Scoot Henderson on front office communication regarding contract status",
+      "names_mentioned": [],
+      "excerpt": "That they believe in me.",
+      "quote": "That they believe in me.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson says the Blazers front office has made it clear that they believe in him.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Scoot Henderson describes his feelings regarding the front office's belief in him during contract discussions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:40",
+      "summary_phrase": "Scoot Henderson on trusting his representation with contract negotiations",
+      "names_mentioned": [],
+      "excerpt": "I usually just let them handle it, the business side of it.",
+      "quote": "I usually just let them handle it, the business side of it, and like I said, just keep coming out here and playing my best basketball, being the person I am, and let my game do the talking.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson on contract negotiations: I usually just let them handle it, the business side of it, and just keep coming out here and playing my best basketball and let my game do the talking.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Scoot Henderson explains that he leaves contract negotiations to his representatives to focus on his performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scoot Henderson",
+      "timestamp": "01:06",
+      "summary_phrase": "Scoot Henderson on his mother's advice regarding career patience",
+      "names_mentioned": [],
+      "excerpt": "When it's my time, this and that and my mom was like, 'Don't worry, the man above got you.'",
+      "quote": "I was talking to my mom yesterday. It was important in my career where a lot of my peers were getting offers, this and that, and we were young, so it didn't really matter when I look back at it. But I was just like, 'When is my time?' and my mom was like, 'Don't worry, the man above got you.' I kind of take that with anything in my life.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson reflects on his mother's advice about patience as he navigates his early career: Don't worry, the man above got you.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson shares advice his mother gave him regarding patience while waiting for his career opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Scoot Henderson",
+      "timestamp": "01:36",
+      "summary_phrase": "Scoot Henderson on his current career satisfaction and health",
+      "names_mentioned": [],
+      "excerpt": "I'm grateful for the life I'm living, for the people that I got around me.",
+      "quote": "I'm grateful for the life I'm living, for the people that I got around me, for the team, for the organization, and right now I'm healthy, so that's as much as I can ask for.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson on his current status: I'm grateful for the life I'm living, for the people that I got around me, for the team, for the organization, and right now I'm healthy, so that's as much as I can ask for.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Scoot Henderson expresses gratitude for his current health and his support system within the organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Scoot Henderson",
+      "timestamp": "01:53",
+      "summary_phrase": "Scoot Henderson on his mindset for the upcoming season",
+      "names_mentioned": [],
+      "excerpt": "Just me going out there and believing in myself, playing hard the whole time I'm out there.",
+      "quote": "Just me going out there and believing in myself, playing hard the whole time I'm out there and having fun doing it.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson on his mindset for the upcoming season: Just me going out there and believing in myself, playing hard the whole time I'm out there and having fun doing it.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson describes his personal mindset and goals heading into the upcoming NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Scoot Henderson",
+      "timestamp": "02:07",
+      "summary_phrase": "Scoot Henderson on handling external pressure throughout his career",
+      "names_mentioned": [],
+      "excerpt": "It's been pressure since I got in the league, it's been pressure since before I got in the league.",
+      "quote": "It's been pressure since I got in the league, it's been pressure since before I got in the league. For me, it's just having that belief in myself and going out there and having that camaraderie with the team and letting all of us win, helping us win. That's the biggest mission.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 147,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson on dealing with expectations: It's been pressure since I got in the league. For me, it's just having that belief in myself and going out there and having that camaraderie with the team and helping us win.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scoot Henderson discusses how he manages external pressure by focusing on team camaraderie and winning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "12z09DcRCCE",
+  "url": "https://www.youtube.com/watch?v=12z09DcRCCE",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-20T20:06:55Z",
+  "duration_seconds": 147,
+  "processed_at": "2026-10-20T23:12:04Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

@@ -1,0 +1,458 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Practice | October 20, 2026",
+  "speakers_seen": [
+    "Scottie Barnes",
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scottie Barnes",
+      "timestamp": "00:16",
+      "summary_phrase": "Scottie Barnes on team excitement and defensive focus",
+      "names_mentioned": [],
+      "excerpt": "play defense is our main priority, win games.",
+      "quote": "I think we are pretty excited as a team. We are ready to get the show on the road. We put in a lot of work this summer and we just want to go out there, execute, play hard, play defense is our main priority, and win games.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes says the Raptors are ready to get the show on the road after a long summer of work. The team is prioritizing defense and execution as they head into the new season.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses the team's excitement and focus on defensive intensity heading into the new season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scottie Barnes",
+      "timestamp": "01:49",
+      "summary_phrase": "Scottie Barnes on championship expectations and building consistency",
+      "names_mentioned": [],
+      "excerpt": "we have the highest level of expectation and we want to win a championship here.",
+      "quote": "I think we have the highest level of expectation and we want to win a championship here and that is our expectation every time we step on the floor. But it is about how can we build upon that through our every game. You just cannot get there overnight, you have to go through the season and focus on these games first in order to get to the playoffs and in order to get to the championship.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes on the Raptors championship goals: We have the highest level of expectation and we want to win a championship here. But he notes you cannot get there overnight and the focus remains on the daily grind.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes shares his championship expectations and the importance of maintaining consistency throughout the long season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "02:34",
+      "summary_phrase": "Scottie Barnes on team identity and aggressive playstyle",
+      "names_mentioned": [],
+      "excerpt": "that was our main identity and we was trying to focus on how can we be aggressive.",
+      "quote": "That was our main identity and we was trying to focus on how can we be aggressive. I think we set a tone every time we stepped out there on the floor. Our pace was different. I do not think we was really guarding how we should and then all of a sudden you see us start playing faster, moving the ball more, getting tons of assists, then we start being super aggressive, denying, trying to get steals every play, being physical, borderline fouling.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Scottie Barnes reflects on the Raptors identity: We started being super aggressive, denying, trying to get steals every play, being physical, borderline fouling. The team is looking to maintain that intensity.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes reflects on the team's aggressive identity and the shift toward faster play and ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scottie Barnes",
+      "timestamp": "04:47",
+      "summary_phrase": "Scottie Barnes on balancing pressure and smart play",
+      "names_mentioned": [],
+      "excerpt": "we are going to continue to pressure, but I think we are going to be smart with it.",
+      "quote": "I think that we are going to continue to pressure, but I think we are going to be smart with it as well. A lot of times we are pressuring, we are gambling, and then it kind of teams get easy buckets off that. After watching film, we just had to be smart in those situations where okay, sometimes it is great to pick up, let's set the tone, let's guard, but sometimes teams just are scoring off that with these and we are just gambling. So we are just trying to be smart, when do we want to gamble, how can we be handsy in situations where we are just guarding the ball or just trying to keep the ball in front of us, rather than just trying to get out the play and make bad decisions as a team.",
+      "text_blocks": [],
+      "start_seconds": 287,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Scottie Barnes admits the Raptors gambled too much on defense last season. The goal now is to be smart with pressure rather than just gambling and giving up easy buckets.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains the need to balance aggressive defensive pressure with smarter decision-making to avoid giving up easy baskets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "timestamp": "07:56",
+      "summary_phrase": "Scottie Barnes on confidence and development of teammates",
+      "names_mentioned": [],
+      "excerpt": "I think he is being more confident in attacking downhill and being ready to shoot the shot.",
+      "quote": "I think he is being more confident in attacking downhill and being ready to shoot the shot. He shoots with confidence, you know, I think it is going to go in and the whole team believes in him.",
+      "text_blocks": [],
+      "start_seconds": 476,
+      "end_seconds": 491,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes is seeing growth in a teammate: He is being more confident in attacking downhill and being ready to shoot the shot. The whole team believes in him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes praises an unnamed teammate's increased confidence in attacking the rim and shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Scottie Barnes",
+      "timestamp": "08:52",
+      "summary_phrase": "Scottie Barnes on mental preparation for the season",
+      "names_mentioned": [],
+      "excerpt": "just staying as mentally locked in as possible because it is a long season.",
+      "quote": "It is a lot more serious, a lot more focused. Obviously want to get back there and the preparation has already been started, like we have been locked in all summer. So just staying as mentally locked in as possible because it is a long season. So trying to stay as locked in as possible to get to that position that we were in last year and obviously go further than what we were.",
+      "text_blocks": [],
+      "start_seconds": 532,
+      "end_seconds": 560,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes says the team is locked in and focused on a deep run: We want to get back there and the preparation has already been started. We are trying to stay as mentally locked in as possible.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses the team's mental preparation and focus after a productive summer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Scottie Barnes",
+      "timestamp": "09:21",
+      "summary_phrase": "Scottie Barnes on embracing increased responsibility",
+      "names_mentioned": [],
+      "excerpt": "obviously I have been improving this summer, you know, this is a lot of work put into.",
+      "quote": "Obviously I have been improving this summer, you know, this is a lot of work put into what what I have become over this course of a couple months. Obviously I know the plan that Darko and the rest of the coaching staff have for me with the what my teammates expect from me and you know, that is just very high expectations and I pride myself in you know, being able to you know, have that type of expectation on me.",
+      "text_blocks": [],
+      "start_seconds": 561,
+      "end_seconds": 593,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on his development: I pride myself in being able to have that type of expectation on me. He says he has put in a lot of work over the last few months to prepare for his role.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes talks about his personal improvement and embracing the high expectations set by the coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Scottie Barnes",
+      "timestamp": "12:00",
+      "summary_phrase": "Scottie Barnes on defensive philosophy and ball pressure",
+      "names_mentioned": [],
+      "excerpt": "I feel like when I pressure the ball, that is my best defense.",
+      "quote": "I feel like when I pressure the ball, that is my best defense. Like when I give space, that is when I typically get beat. But I feel like me using my hands and and my active my activity and my you know, energy on ball is something that especially like when I am guarding like the five or the four, you know, it kind of because we already have the one and two being guarded by top defenders in the league. So you know, making that help for everybody on the court is going to be very crucial in creating more turnovers, more transition, more fast break opportunities and stuff like that. So me just doing my part in in our defense is going to be very, very huge.",
+      "text_blocks": [],
+      "start_seconds": 720,
+      "end_seconds": 770,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Scottie Barnes says his best defense is pressuring the ball. He believes his activity on the perimeter helps create turnovers and transition opportunities for the entire Raptors squad.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains his role in the team's defensive scheme, specifically his focus on ball pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Scottie Barnes",
+      "timestamp": "13:40",
+      "summary_phrase": "Scottie Barnes on playing with new teammates",
+      "names_mentioned": [],
+      "excerpt": "he is just a really, he is a really good player. Obviously his game is not like flashy.",
+      "quote": "He is just a really, he is a really good player. Obviously his game is not like flashy, he is not a highlight player. It is just damn near just like me when I came in, you know, just doing all the dirty work, wanting to get better, always listening, always asking questions. His hands are really good, he is a high IQ guy, long arms, like he has all the intangibles to be a really good defender. But obviously, you know, me still trying to learn it, but still trying to teach him and got a lot of help from Scott and why on you know, just defensive, you know, defensive instinct. Like he has it, obviously it is not as easy, you know, being a a really good defender in this league. We have a lot of good players, um, but you know, as much help that we can give him, the better for the team.",
+      "text_blocks": [],
+      "start_seconds": 820,
+      "end_seconds": 881,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes praises a new teammate for his high IQ and defensive intangibles, noting that he reminds him of himself when he first entered the league.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes evaluates the defensive potential and work ethic of a new teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "18:41",
+      "summary_phrase": "Darko Rajakovic on team excitement for the season opener",
+      "names_mentioned": [],
+      "excerpt": "opening night is end of training camp. Obviously we are really excited to finally start playing.",
+      "quote": "Opening night is end of training camp. Obviously we are really excited to finally start playing official games and get into the season. It has been a long time, we put a lot of work in and we are extremely excited to to start the season. So butterflies are there and excitement is there and we are looking forward to it.",
+      "text_blocks": [],
+      "start_seconds": 1121,
+      "end_seconds": 1144,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darko Rajakovic says the Raptors are feeling the excitement and butterflies ahead of opening night. The team is ready to transition from training camp to official games.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic expresses excitement for the upcoming season opener following the conclusion of training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "19:18",
+      "summary_phrase": "Darko Rajakovic on player development and expectations",
+      "names_mentioned": [],
+      "excerpt": "because I know what kind of character he is and I see him every day.",
+      "quote": "Because I know what kind of character he is and I see him every day, the way he works, you know, he he is improving and that is all we we are looking for it. We want to see him thriving from game one to game two. We cover the week and then continue focusing on the process. It is something that he did exceptionally well this this past season and we believe that he is ready for the next step.",
+      "text_blocks": [],
+      "start_seconds": 1158,
+      "end_seconds": 1189,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on player development: We want to see him thriving from game one to game two. The coach believes the player is ready for the next step after a strong offseason.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses his belief in a player's character and their readiness to take the next step in their development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "20:52",
+      "summary_phrase": "Darko Rajakovic on team approach and staying present",
+      "names_mentioned": [],
+      "excerpt": "our approach inside the team is is not really changing. We got to focus on",
+      "quote": "Our approach inside the team is is not really changing. We got to focus on, you know, what's most important thing and to take care of business one day at the time. So, you know, we had a meeting today and Scotty was great. We had conversation about preparation and everything and Scotty said the most important thing is present today. Let's take care of today. You know, and and that that's our mindset, you know, so we are going to take it one game at a time, we are going to prepare one game at a time, we are going to compete one position at a time.",
+      "text_blocks": [],
+      "start_seconds": 1252,
+      "end_seconds": 1294,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic shares the Raptors team mindset: Scottie said the most important thing is present today. We are going to take it one game at a time and compete one position at a time.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic highlights the team's day-to-day mindset and mentions a conversation with Scottie Barnes about staying present.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "24:40",
+      "summary_phrase": "Darko Rajakovic on defensive intensity and league trends",
+      "names_mentioned": [],
+      "excerpt": "there is much more full court pressure, there is much more on ball aggressiveness.",
+      "quote": "We got to do it more. There is no way back. I think the whole league is going that direction. I am watching other teams around the league and in the preseason there is much more full court pressure, there is much more on ball aggressiveness and that is a staple of our defense. We got to really dominate the in that area and we got to take it to to another level. For us, our identity really starts on defense, like how how aggressive we are going to be, how how we are going to be guarding the ball, how we are going to be covering for each other.",
+      "text_blocks": [],
+      "start_seconds": 1480,
+      "end_seconds": 1522,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Darko Rajakovic says the whole NBA is trending toward more full court pressure. He wants the Raptors to dominate in that area as it is the staple of their defensive identity.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic emphasizes the importance of defensive intensity and full-court pressure as the team's core identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "25:40",
+      "summary_phrase": "Darko Rajakovic on coaching philosophy and player development",
+      "names_mentioned": [],
+      "excerpt": "everything that we do on a coaching part is trying to develop those segments of the game.",
+      "quote": "Everything that we do on a coaching part is trying to develop those segments of the game so we can be better conditions, so we can be more intentional, so we can cover ground on offense and defense and our front office is doing great job of continue to draft and build players that fit in into that system. That process is not over, not on the coaching side, not on the front office side. This is a process that we are we are in the middle of it and we are going to continue to build on that.",
+      "text_blocks": [],
+      "start_seconds": 1540,
+      "end_seconds": 1578,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic on the Raptors rebuilding process: Our front office is doing a great job of drafting and building players that fit into that system. We are in the middle of it and we are going to continue to build.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic describes the ongoing collaborative process between the coaching staff and front office in building the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "27:53",
+      "summary_phrase": "Darko Rajakovic on player impact and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "when you have the right person, when you have the right personality, you know, I think he",
+      "quote": "When you have the right person, when you have the right personality, you know, I think he embraces everything that we have over here as a team and I think that that he is taking it to another level. I think his presence in the locker room, his veteran presence at this point and everything that he achieved in his career, his voice is very well heard, you know, so I think he is embracing what we have and by embracing all of that it is taking us to another level.",
+      "text_blocks": [],
+      "start_seconds": 1673,
+      "end_seconds": 1708,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic praises a veteran player for his impact on the locker room: His voice is very well heard and he is taking us to another level.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the positive impact of a veteran player's presence and voice within the locker room.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "28:31",
+      "summary_phrase": "Darko Rajakovic on offensive improvement and team growth",
+      "names_mentioned": [],
+      "excerpt": "with the same work that we put in in our defense, being very intentional how we want",
+      "quote": "With the same work that we put in in our defense, being very intentional how we want to play on offense. Obviously adding talent, the the way we had all the off season work that guys put in in their individual development, I think it is going to help our overall defense together. So it is a it is a process, it is something that we got to work on. For team offensively, you need more time for a team offensively to gel than on defensive end.",
+      "text_blocks": [],
+      "start_seconds": 1711,
+      "end_seconds": 1744,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic notes that the Raptors offense will need more time to gel than the defense. He emphasizes that individual development work over the summer will help the team overall.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the team's offensive growth and the time required for the unit to gel compared to the defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "fVwpDNX_ufE",
+  "url": "https://www.youtube.com/watch?v=fVwpDNX_ufE",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-20T20:47:26Z",
+  "duration_seconds": 1877,
+  "processed_at": "2026-10-20T23:11:54Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

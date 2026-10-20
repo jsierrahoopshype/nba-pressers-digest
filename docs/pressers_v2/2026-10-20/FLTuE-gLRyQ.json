@@ -1,0 +1,237 @@
+{
+  "video_title": "Oso Ighodaro Practice Media Availability | 10-20-26",
+  "speakers_seen": [
+    "Oso Ighodaro",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Oso Ighodaro",
+      "speakers": [
+        "Oso Ighodaro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:08",
+      "summary_phrase": "Oso Ighodaro on his long-term commitment to the Phoenix Suns",
+      "names_mentioned": [],
+      "excerpt": "Obviously just having belief from the organization and Matt means a lot to me.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Congrats on the extension, man. Talk us through what it's like that long-term commitment here."
+        },
+        {
+          "speaker": "Oso Ighodaro",
+          "text": "It means a lot. Obviously just having belief from the organization and Matt means a lot to me. I'm excited to keep getting better and keep contributing to winning."
+        }
+      ],
+      "start_seconds": 8,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Oso Ighodaro says he feels the belief from the Suns organization after signing his extension. He says it means a lot to him to keep getting better and keep contributing to winning.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Matt Ishbia"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Oso Ighodaro discusses his feelings regarding his recent contract extension with the Phoenix Suns.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Oso Ighodaro",
+      "speakers": [
+        "Oso Ighodaro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:29",
+      "summary_phrase": "Oso Ighodaro on his trust in the Suns' current direction",
+      "names_mentioned": [
+        "JO",
+        "Book"
+      ],
+      "excerpt": "I just believe in the way we're doing things. I love playing for JO.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What about this franchise made you want to commit here long-term and just stay with the Suns?"
+        },
+        {
+          "speaker": "Oso Ighodaro",
+          "text": "I just believe in the way we're doing things. I love playing for JO. I love playing with Book obviously, and you're coaching the best players. It's two things that are extremely important to the situation that you're playing in. So I believe in what we're building, and I'm excited for the future."
+        }
+      ],
+      "start_seconds": 29,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Oso Ighodaro on why he committed long term to Phoenix. He says he believes in the way the team is doing things and loves playing for the coaching staff and alongside Devin Booker.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike Budenholzer",
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Oso Ighodaro explains his reasons for committing to the Phoenix Suns long-term.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Oso Ighodaro",
+      "speakers": [
+        "Oso Ighodaro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:26",
+      "summary_phrase": "Oso Ighodaro on the versatility of teammate Bol Bol",
+      "names_mentioned": [
+        "Miles",
+        "Jalen",
+        "Devin"
+      ],
+      "excerpt": "Miles definitely brings a different dynamic with his athleticism and force to the rim.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "When you look at having someone like Miles, they can get in the paint, the goal is no different than Jalen and Devin. How do you find that balance?"
+        },
+        {
+          "speaker": "Oso Ighodaro",
+          "text": "With that group, there are five playmakers out there. Everyone is just running to space, and we have a lot of good, high-IQ players on this team. Knowing where to cut and find space and attacking the rim are all strengths of ours. So Miles definitely brings a different dynamic with his athleticism and force to the rim. I love playing with him."
+        }
+      ],
+      "start_seconds": 86,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Oso Ighodaro praises the versatility of his teammates. He says having five playmakers on the floor allows them to find space and attack the rim effectively.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Bridges",
+          "Jalen Bridges",
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Oso Ighodaro discusses the offensive versatility and playmaking ability of his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Oso Ighodaro",
+      "speakers": [
+        "Oso Ighodaro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "02:19",
+      "summary_phrase": "Oso Ighodaro on the evolution of NBA play styles",
+      "names_mentioned": [],
+      "excerpt": "Everyone is trying to play faster, everyone is trying to pressure the ball and lengthen possessions.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What are one or two things about the league that have changed a fair bit that you've noticed in the last two years?"
+        },
+        {
+          "speaker": "Oso Ighodaro",
+          "text": "Everyone is trying to play faster, everyone is trying to pressure the ball and lengthen possessions for the other team. Those are big emphasis. Getting to the rim, pressuring the ball, and running, I think are big emphasis that have changed over the last couple years."
+        }
+      ],
+      "start_seconds": 139,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Oso Ighodaro notes that the NBA is trending toward faster play. He says teams are emphasizing pressuring the ball and lengthening possessions for the opposition.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Oso Ighodaro describes the tactical changes he has observed in the NBA over the last two years.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Oso Ighodaro",
+      "speakers": [
+        "Oso Ighodaro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "03:03",
+      "summary_phrase": "Oso Ighodaro on the impact of aggressive play on ball movement",
+      "names_mentioned": [],
+      "excerpt": "If we can force teams into making that move the ball side-to-side, it's an advantage for us.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How much do pick-up points help you as an anchor when they're more aggressive?"
+        },
+        {
+          "speaker": "Oso Ighodaro",
+          "text": "It lengthens the possession. If we can force teams into making that move the ball side-to-side, and getting the ball into someone's hands who's not their primary playmaker, it's an advantage for us."
+        }
+      ],
+      "start_seconds": 183,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Oso Ighodaro explains the defensive strategy of aggressive pick up points. He says forcing teams to move the ball to non primary playmakers creates a clear advantage for the Suns defense.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Oso Ighodaro explains how aggressive defensive pressure helps the team as an anchor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "FLTuE-gLRyQ",
+  "url": "https://www.youtube.com/watch?v=FLTuE-gLRyQ",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-20T21:22:29Z",
+  "duration_seconds": 384,
+  "processed_at": "2026-10-20T23:11:42Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}

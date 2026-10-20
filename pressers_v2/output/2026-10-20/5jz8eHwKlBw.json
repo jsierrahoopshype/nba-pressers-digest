@@ -1,0 +1,499 @@
+{
+  "video_title": "ORLANDO MAGIC ALL ACCESS: TRAINING CAMP AND MEDIA DAY",
+  "speakers_seen": [
+    "Jalen Suggs",
+    "Franz Wagner",
+    "Jase Richardson",
+    "Jamal Cain",
+    "Noah Penda",
+    "Sean Sweeney",
+    "Tristan da Silva",
+    "Paolo Banchero",
+    "Wendell Carter, Jr.",
+    "Chris Algieri",
+    "Nikola Vučević",
+    "Desmond Bane"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Suggs",
+      "timestamp": "00:10",
+      "summary_phrase": "Jalen Suggs on the importance of learning from playoff losses",
+      "names_mentioned": [],
+      "excerpt": "I think for me, it was important to go through the process of losing and losing like that.",
+      "quote": "I think for me, it was important to go through the process of losing and losing like that. I think it fueled a lot of the fire that I had throughout the offseason and leading into this year. I think building great habits was one of the big things that it taught me, so that come time of adversity and fatigue, you are able to fall back on those things and simplify, and you're still playing great basketball because you've created such great habits throughout the offseason and throughout the regular season.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Suggs says the pain of last season's playoff exit fueled his offseason work. He is focused on building habits that allow the team to simplify and execute when fatigue sets in.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jalen Suggs reflects on how losing in the playoffs fueled his motivation and helped him build better habits during the offseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Franz Wagner",
+      "timestamp": "00:56",
+      "summary_phrase": "Franz Wagner on the team's frustration after their playoff exit",
+      "names_mentioned": [],
+      "excerpt": "I think we're all frustrated about that result and really eager to turn that page.",
+      "quote": "I think we're all frustrated about that result and really eager to turn that page and hopefully reach a regional level as a group. We definitely got the talent to do it, we just got to put it together.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Franz Wagner says the Magic are frustrated by how last season ended but are eager to turn the page. He believes the group has the talent to reach a new level this year.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner discusses the team's collective frustration following their playoff exit and their desire to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jase Richardson",
+      "timestamp": "02:29",
+      "summary_phrase": "Jase Richardson discusses the physics of moon gravity",
+      "names_mentioned": [],
+      "excerpt": "Moon surface gravity is 1/6 of Earth's. I mean you can jump six times higher.",
+      "quote": "Moon surface gravity is 1/6 of Earth's. I mean you can jump six times higher.",
+      "text_blocks": [],
+      "start_seconds": 149,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_post": "Jase Richardson is out here doing the math on moon gravity.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jase Richardson makes a comment about the physics of moon gravity during the team's media day.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Suggs",
+      "timestamp": "03:13",
+      "summary_phrase": "Jalen Suggs on his decision to embrace a bald look",
+      "names_mentioned": [],
+      "excerpt": "I think it was time to embrace the baldy.",
+      "quote": "I think it was time to embrace the baldy. There are so many prevalent bald figures out there in the community and in society, and I think it was time for me to go on ahead and join that community and fully embrace it.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_post": "Jalen Suggs has officially joined the bald community.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jalen Suggs explains his decision to shave his head and embrace a bald look.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nikola Vučević",
+      "timestamp": "06:32",
+      "summary_phrase": "Nikola Vučević on the team's mindset during training camp",
+      "names_mentioned": [],
+      "excerpt": "We know what we can do and how far we can go.",
+      "quote": "We know what we can do and how far we can go. So yeah, just training camp, use it as a kind of to get ready for the season. The games are here in a couple weeks.",
+      "text_blocks": [],
+      "start_seconds": 392,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Nikola Vucevic says the team is using training camp to get ready for the season opener in a couple of weeks.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Nikola Vučević discusses the team's mindset as they prepare for the upcoming season during training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Sean Sweeney",
+      "timestamp": "07:29",
+      "summary_phrase": "Sean Sweeney on the importance of communication during drills",
+      "names_mentioned": [],
+      "excerpt": "Make sure you do a great job at talking when you play.",
+      "quote": "Make sure you do a great job at talking when you play. Six shirts. There is one, there is two, there is three, there is four, there is five, there is six. Coaching, what I look for through it is as a general rule, keep playing until the whistle stops.",
+      "text_blocks": [],
+      "start_seconds": 449,
+      "end_seconds": 468,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sean Sweeney on his expectations for training camp drills: keep playing until the whistle stops.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Sean Sweeney instructs players on the importance of communication and playing through the whistle during practice drills.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Franz Wagner",
+      "timestamp": "08:03",
+      "summary_phrase": "Franz Wagner on the team's focus during training camp",
+      "names_mentioned": [],
+      "excerpt": "We worked pretty hard, very intentional, I would say. Focused more on on the defensive side.",
+      "quote": "We worked pretty hard, very intentional, I would say. Focused more on on the defensive side and I think it was intentional, not too long, very organized, you know, every every drill set of yesterday, every drill was scheduled to the second pretty much and it's running to the next drill, it's jogging to the water bottles, you know, when you get a little break, so I'm excited to see what he has in store for us later and tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 483,
+      "end_seconds": 514,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Franz Wagner says the Magic are emphasizing defense in training camp. He noted the sessions are highly organized and intentional.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner describes the organized and defensive-focused nature of the team's training camp sessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Sean Sweeney",
+      "timestamp": "08:31",
+      "summary_phrase": "Sean Sweeney on the team's approach to improvement",
+      "names_mentioned": [],
+      "excerpt": "The way we're approaching things is what we need to do today, where we're at.",
+      "quote": "The way we're approaching things is what we need to do today, where we're at, how did we do with it, and then what do we need to improve on later tonight or tomorrow or whatever it may be next. And for us, we're just a continuation and try to elevate in terms of what we've been doing as a group. We've done a good job of trying to set high standards for ourselves and lay down expectations for all each other and live up to that and elevate it.",
+      "text_blocks": [],
+      "start_seconds": 511,
+      "end_seconds": 546,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sean Sweeney says the Magic are focused on setting high standards and elevating their performance as a group this season.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Sean Sweeney explains the team's approach to continuous improvement and setting high standards for the group.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tristan da Silva",
+      "timestamp": "09:25",
+      "summary_phrase": "Tristan da Silva on learning from last season's finish",
+      "names_mentioned": [],
+      "excerpt": "It's all like referring back to the end of last season and how much we were lacking.",
+      "quote": "It's all like referring back to the end of last season and how much we were lacking the ability to finish it out, to seal it, and it's not over till it's over. So that's also a big part of what I've learned is never to take things for granted and just, you know, it's not over till the buzzer sounds.",
+      "text_blocks": [],
+      "start_seconds": 565,
+      "end_seconds": 588,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva says the team is still learning from last season's finish. He says the biggest lesson is that it is not over until the buzzer sounds.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva discusses the lessons learned from the team's inability to finish games strong last season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Paolo Banchero",
+      "timestamp": "10:02",
+      "summary_phrase": "Paolo Banchero on his focus on personal growth",
+      "names_mentioned": [],
+      "excerpt": "More than anything, challenge myself physically, mentally, put myself in situations where I kind of had to find.",
+      "quote": "More than anything, challenge myself physically, mentally, put myself in situations where I kind of had to find, find some, dig deep, do some different things that I didn't or haven't normally done in terms of workouts and recovery. So just trying to find new ways to be better, but also just really push myself to try and get to that next level.",
+      "text_blocks": [],
+      "start_seconds": 602,
+      "end_seconds": 626,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Paolo Banchero says he is challenging himself physically and mentally this offseason to find new ways to reach the next level.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paolo Banchero talks about his efforts to push himself physically and mentally to reach a higher level of performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamal Cain",
+      "timestamp": "10:33",
+      "summary_phrase": "Jamal Cain on his mentality regarding roster spots",
+      "names_mentioned": [],
+      "excerpt": "Trying to win an opportunity battle. I feel like I still have a lot to prove.",
+      "quote": "Trying to win an opportunity battle. I feel like I still have a lot to prove, so I'm coming in with the mentality that I still have to prove myself and just trying to come in with the right mentality and the right mindset to try and help us, you know, have a great start.",
+      "text_blocks": [],
+      "start_seconds": 633,
+      "end_seconds": 654,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Cain says he is coming into training camp with a mentality to prove himself and win an opportunity.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jamal Cain discusses his mindset as he competes for a roster spot during training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Desmond Bane",
+      "timestamp": "11:21",
+      "summary_phrase": "Desmond Bane on the coaching staff's consistent message",
+      "names_mentioned": [],
+      "excerpt": "They all bring something different, you know, but the nice thing is they all share the same message.",
+      "quote": "They all bring something different, you know, but the nice thing is they all share the same message. So you can go and speak to any of them and they're going to have the same words to tell you, same, you know, way they want things to be done. So I think they've done a good job as a staff as a whole, having guys locked in and knowing what we're supposed to do.",
+      "text_blocks": [],
+      "start_seconds": 681,
+      "end_seconds": 709,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Desmond Bane praises the coaching staff for sharing a consistent message that keeps the players locked in.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Desmond Bane comments on the consistency of the message provided by the coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Wendell Carter, Jr.",
+      "timestamp": "11:59",
+      "summary_phrase": "Wendell Carter, Jr. on the new coaching staff",
+      "names_mentioned": [],
+      "excerpt": "I had great conversation with them throughout the summer. I'm excited just to go to war.",
+      "quote": "I had great conversation with them throughout the summer. I got on the court with them throughout the summer, you know, most of the guys have been here in the last two or three weeks, so I'm excited just to go to war with these guys, you know, going against other teams in the East, you know, East is somewhat loaded this year, so you know, I'm excited man. I'm just ready to get going.",
+      "text_blocks": [],
+      "start_seconds": 719,
+      "end_seconds": 748,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Wendell Carter Jr. says he is excited to go to war with this group in a loaded Eastern Conference.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Wendell Carter, Jr. expresses excitement about working with the new coaching staff and the upcoming season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Chris Algieri",
+      "timestamp": "12:44",
+      "summary_phrase": "Chris Algieri on his championship fight against Ruslan Provodnikov",
+      "names_mentioned": [
+        "Ruslan Provodnikov"
+      ],
+      "excerpt": "That was for the WBO Super Lightweight Championship of the world. I was fighting Ruslan Provodnikov.",
+      "quote": "That was for the WBO Super Lightweight Championship of the world. I was fighting Ruslan Provodnikov, who was the boogeyman of the division at the time. He was called the Siberian Rocky. I was 19-0, I was a ticket seller in New York. We had the fight at Barclays Center for HBO. I was a 20 to 1 underdog when it first was announced.",
+      "text_blocks": [],
+      "start_seconds": 764,
+      "end_seconds": 789,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_post": "Chris Algieri reflects on his underdog victory against Ruslan Provodnikov.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ruslan Provodnikov"
+        ],
+        "teams": [],
+        "topics": [],
+        "context": "Chris Algieri recounts his experience fighting Ruslan Provodnikov for the WBO Super Lightweight Championship.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Nikola Vučević",
+      "timestamp": "20:31",
+      "summary_phrase": "Nikola Vučević on the team's performance against Miami",
+      "names_mentioned": [],
+      "excerpt": "Once we took care of the transition defense a little bit, we were able to establish our style.",
+      "quote": "Once we took care of the transition defense a little bit, we were able to establish our style of play. I think early in the game, we played more at their pace and we couldn't really do our stuff offensively because that we kept getting the ball out of net and so I think once we took care of that, it was much better. Obviously offensively it was a really good game for us. I think defensively there's still room to grow.",
+      "text_blocks": [],
+      "start_seconds": 1231,
+      "end_seconds": 1263,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nikola Vucevic says the key to success against Miami was cleaning up transition defense to establish their own pace.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHI",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Nikola Vučević analyzes the team's performance against Miami, noting improvements in transition defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Desmond Bane",
+      "timestamp": "21:25",
+      "summary_phrase": "Desmond Bane on the team's identity",
+      "names_mentioned": [],
+      "excerpt": "I think we have an identity, both on offensive and defensive side of the ball.",
+      "quote": "I think we have an identity, both on offensive and defensive side of the ball. We got a chance to be a really good team.",
+      "text_blocks": [],
+      "start_seconds": 1285,
+      "end_seconds": 1295,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Desmond Bane says the team has a clear identity on both ends of the floor and has a chance to be a really good team.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Desmond Bane shares his confidence in the team's identity and potential for the upcoming season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Desmond Bane",
+      "timestamp": "21:45",
+      "summary_phrase": "Desmond Bane on the benefits of the team's summer together",
+      "names_mentioned": [],
+      "excerpt": "I think our group being together is a benefit for us.",
+      "quote": "I think our group being together is a benefit for us. Us having such a long time together this summer, you know, multiple touch points in August, everybody was here in September, so it kind of feels like we've been rolling for a little while now and we and we feel very prepared.",
+      "text_blocks": [],
+      "start_seconds": 1305,
+      "end_seconds": 1325,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Desmond Bane says the team feels prepared because of the significant time they spent together throughout the summer.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Desmond Bane highlights the benefits of the team spending significant time together during the offseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media day",
+  "format": "ytq-1",
+  "video_id": "5jz8eHwKlBw",
+  "url": "https://www.youtube.com/watch?v=5jz8eHwKlBw",
+  "channel_team": "Orlando Magic",
+  "published": "2026-10-20T22:45:14Z",
+  "duration_seconds": 1327,
+  "processed_at": "2026-10-20T23:11:45Z",
+  "run_id": "2026-10-20T2310Z-20utc",
+  "is_one_off": false
+}
