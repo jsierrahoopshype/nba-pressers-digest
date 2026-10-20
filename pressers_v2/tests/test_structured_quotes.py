@@ -36,7 +36,8 @@ def stored_video(vid="AAAAAAAAAAA", title="Cavs Practice | Jane Doe Media Availa
                  "text_blocks": [{"speaker": "Reporter", "text": "What about the bench?"},
                                  {"speaker": "Jane Doe", "text": "We just have to keep working, one game at a time."}],
                  "structured": {"speaker_role": "player", "subjects": [], "teams": ["CLE"], "topics": [],
-                                "context": "Jane Doe after practice.", "best": True}},
+                                "context": "Jane Doe after practice.", "best": True,
+                                "prompt": pe.STRUCTURED_PROMPT_ID}},
             ]}
 
 
@@ -100,7 +101,7 @@ class ExtractionTests(unittest.TestCase):
         q1, q2 = data["quotes"]
         self.assertEqual(q1["structured"], {"speaker_role": "player", "subjects": ["Mario Hezonja"], "teams": ["CLE", "NYK"],
                                             "topics": ["teammates", "injuries"], "context": "James Harden, asked about camp.",
-                                            "best": True})
+                                            "best": True, "prompt": pe.STRUCTURED_PROMPT_ID})
         self.assertNotIn("structured", q2)                                # no answer for that rank
 
     def test_news_score_and_social_post_independent_of_third_call(self):
@@ -197,6 +198,51 @@ class RecordTests(unittest.TestCase):
             g3 = sq.GeminiFields(pytypes.SimpleNamespace(models=Models(False)), cache)
             g3.fill(list(sq.iter_stored_videos(out)))
             self.assertEqual((g3.stats["calls"], g3.stats["cached"]), (0, 1))
+
+    def test_at_most_one_best_and_only_about_someone(self):
+        f = {1: {"best": True, "subjects": ["A B"]}, 2: {"best": True, "subjects": ["C D"]},
+             3: {"best": True, "subjects": []}, 4: {"best": False, "subjects": ["E F"]}}
+        pe.one_best(f, {1: 5, 2: 8, 3: 10, 4: 9})
+        self.assertEqual([r for r, x in f.items() if x["best"]], [2])     # 3 has no subject
+        none = {1: {"best": True, "subjects": []}}
+        pe.one_best(none, {1: 9})
+        self.assertFalse(none[1]["best"])
+        data = stored_video()
+        data["quotes"][2]["structured"].update(best=True, subjects=["John Roe"], prompt=pe.STRUCTURED_PROMPT_ID)
+        data["quotes"][2]["text_blocks"][1]["text"] = "I believe John Roe deserves a max contract and I told the front office that."
+        recs = sq.records_for_video(data, sq.Players())
+        self.assertEqual(sum(r["best"] for r in recs), 1)                  # two candidates, one kept
+        self.assertTrue(recs[0]["best"])                                    # the higher news score
+
+    def test_new_prompt_appends_one_new_snapshot(self):
+        import types as pytypes
+        answer = {"quotes": [{"rank": 1, "speaker_role": "player", "subjects": ["John Roe"], "teams": ["CLE"],
+                              "topics": [], "context": "Jane Doe at practice.", "best": False}]}
+
+        class Models:
+            n = 0
+
+            def generate_content(self, model, contents, config):
+                Models.n += 1
+                return pytypes.SimpleNamespace(text=json.dumps(answer), usage_metadata=None)
+
+        with tempfile.TemporaryDirectory() as tmp:
+            out, hist, cache = Path(tmp) / "out", Path(tmp) / "hist", Path(tmp) / "f.json"
+            write_video(out, stored_video())
+            sq.update_history(out, hist)                                    # first build: rules fallback, no client
+            first = sq.read_history("2026-27", hist)
+            self.assertEqual({r["fields_source"] for r in first[:1]}, {"rules-fallback"})
+            g = sq.GeminiFields(pytypes.SimpleNamespace(models=Models()), cache)
+            c = sq.update_history(out, hist, gemini=g)                       # re-asked: one new snapshot
+            self.assertEqual(c["videos_refreshed"], 1)
+            lines = sq.read_history("2026-27", hist)
+            self.assertEqual(lines[:len(first)], first)                     # nothing rewritten
+            view = sq.current_view(lines)
+            self.assertEqual({r["fields_source"] for r in view}, {"gemini-backfill", "gemini"})
+            self.assertTrue(all(r["fields_prompt"] == pe.STRUCTURED_PROMPT_ID for r in view))
+            n = len(lines)
+            c2 = sq.update_history(out, hist, gemini=sq.GeminiFields(pytypes.SimpleNamespace(models=Models()), cache))
+            self.assertEqual((c2.get("videos_refreshed", 0), len(sq.read_history("2026-27", hist))), (0, n))
 
     def test_podcasts_are_left_out(self):
         counts = {}
