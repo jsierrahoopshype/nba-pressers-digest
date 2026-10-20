@@ -18,8 +18,7 @@ on:
     workflows: ["Pressers v2 (quotes + clips)"]
     types: [completed]
   push:
-    # TEMPORARY: the PR branch, to run the Gemini backfill before the merge. Removed before merging.
-    branches: [main, claude/zen-volta-eqkplv]
+    branches: [main]
     paths:
       - 'pressers_v2/structured_quotes.py'
       - 'pressers_v2/pressers_site.py'

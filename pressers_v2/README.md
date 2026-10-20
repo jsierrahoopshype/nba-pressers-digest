@@ -76,6 +76,9 @@ Slack or the run schedule:
   nba-headshots player list and title, subjects from the names mentioned,
   topics from keywords, context from the summary phrase, best = news score 7+).
   A title naming the speaker as GM / president / owner always makes them exec.
+  The 2026-27 history was first built this way from all 339 stored videos on
+  2026-10-20 (316 structured-fields calls, one per press conference, none
+  failed: every record is `gemini-backfill`).
   `best` is never true for under 15 words, a question or a stock phrase.
   Records are **appended** to `data/history/<season>.jsonl`; a reprocessed
   video appends a new snapshot (readers keep the latest per video).
