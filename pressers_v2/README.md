@@ -16,8 +16,6 @@ availability videos published in the last 48h, sends each one to Gemini
 | GitHub Pages mirror | `docs/pressers_v2/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/ |
 | Slack post | after each run, via `SLACK_WEBHOOK_URL` |
 | Structured quote history (presser quotes only) | `data/history/<season>.jsonl` (separate workflow, see below) |
-| Public JSON of the season's best quotes | `docs/pressers/api/best-quotes.json` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers/api/best-quotes.json |
-| Pressers section preview pages | `docs/pressers/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers/ |
 
 **Same extraction and format as hoopshype-yt-quotes.** Quotes are extracted
 by yt-quotes' own code, vendored byte for byte in `ytq_vendor.py` (same
@@ -46,7 +44,14 @@ start + the speech duration estimated from the word count (2.6 words/s).
 `latest_clips.json` keeps its original fields (plus a few added ones) and
 only lists quotes whose speaker is named.
 
-## Structured quotes and the Pressers section (preview)
+## Structured quotes (internal; the public Pressers section is shelved)
+
+The public Pressers section is taken down: no preview pages and no public
+best-quotes JSON are built or published (`docs/pressers/` is gone, so those
+URLs return 404). The structured history below keeps being written, for
+internal use only. `pressers_site.py` and `section_assets/` stay in the repo,
+unused, and `structured_quotes.py --public-json <path>` can still write the
+JSON for a local check; the workflow never does either.
 
 A third Gemini call per video (text only, same model and key, its own prompt
 `STRUCTURED_FIELDS_PROMPT`; the clip-fields call is unchanged, so news_score and
@@ -110,9 +115,9 @@ Slack or the run schedule:
   (youtube-transcript-api) and drops a quote that doesn't align with them
   (`caption_align.py`). Runners YouTube blocks give up after 3 failures;
   then `transcript_check` is `unavailable` and the quote is kept.
-- `docs/pressers/api/best-quotes.json`: the current season's best quotes
-  (records + `url` with the timestamp), read by hoopshype-quotes-lab.
-- `pressers_site.py` builds the preview pages: `/pressers/` (the latest day's
+- (Shelved, not run) `docs/pressers/api/best-quotes.json`: the current
+  season's best quotes, once read by hoopshype-quotes-lab (its feed is off).
+- (Shelved, not run) `pressers_site.py` built the preview pages: `/pressers/` (the latest day's
   pressers, the best quotes of the last 7 days, players and teams),
   `/pressers/players/<slug>/`, `/pressers/teams/<abbr>/` and `/pressers/teams/`.
   Each quote shows speaker, who it's about, topic tags, date and a **Watch**
