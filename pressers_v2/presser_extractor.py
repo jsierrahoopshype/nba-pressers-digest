@@ -10,7 +10,9 @@ appended speaker-naming rule.
 
 On top of that, one text-only Gemini call per video (no video input)
 derives the clip fields: speaker_confidence, news_score, social_post and
-the video's content_type. End time = start + estimated speech duration.
+the video's content_type, plus the structured-record fields (role,
+subjects, teams, topics, context, best) that structured_quotes.py reads.
+End time = start + estimated speech duration.
 
 Outputs (pressers_v2/output/):
   <publish-date>/<video_id>.md / .json   yt-quotes format (+ clip fields in the JSON)
@@ -590,6 +592,24 @@ Also return the video's "content_type": "presser" for a press conference, media 
 
 Return ONLY JSON: {"content_type": "presser", "quotes": [{"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_post": "..."}]}"""
 
+# Appended to CLIP_FIELDS_PROMPT (same call, no extra Gemini call): the
+# fields of the structured quote records (structured_quotes.py). The
+# instructions above are left exactly as they were.
+STRUCTURED_FIELDS_PROMPT = """
+
+ALSO add these fields to each quote object (they feed a structured quotes archive):
+- "speaker_role": "player", "coach" or "exec" (front office, owner, team president). Judge from the video title, speakers_seen and what the speaker says.
+- "subjects": full names of the people the quote is ABOUT (a teammate, an opponent, a coach), never the speaker. Use the full name when the video or title makes it clear. [] when the quote is about no person in particular.
+- "teams": three-letter abbreviations (LAL, BOS, NYK...) of the NBA teams the quote is about, plus the speaker's own team (the channel).
+- "topics": 0 to 2 values, ONLY from this list: "contracts", "injuries", "trades", "teammates", "coaching decisions". Only when the quote is clearly about it; [] otherwise.
+- "context": ONE plain sentence, at most 30 words, that a reader needs to understand the quote (who is speaking, on what occasion, what they were asked or reacting to). No opinion, no quotation marks, nothing the video does not say.
+- "best": true only for the few quotes worth reading on their own: a real claim, a piece of news or a clear opinion. false for filler, cliches and stock phrases ("we just have to keep working", "one game at a time", "credit to them"), game recaps and questions. Most quotes are false; usually 0 to 2 per video.
+
+The JSON then looks like: {"content_type": "presser", "quotes": [{"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_post": "...", "speaker_role": "player", "subjects": ["Evan Mobley"], "teams": ["CLE"], "topics": ["teammates"], "context": "...", "best": false}]}"""
+
+STRUCTURED_ROLES = ("player", "coach", "exec")
+STRUCTURED_TOPICS = ("contracts", "injuries", "trades", "teammates", "coaching decisions")
+
 
 def derive_clip_fields(client, data: dict, team: str) -> dict:
     """One text-only call over the extracted quotes. Returns
@@ -610,7 +630,7 @@ def derive_clip_fields(client, data: dict, team: str) -> dict:
     try:
         response = with_retry(lambda: client.models.generate_content(
             model=MODEL,
-            contents=[CLIP_FIELDS_PROMPT, json.dumps(payload, ensure_ascii=False)],
+            contents=[CLIP_FIELDS_PROMPT + STRUCTURED_FIELDS_PROMPT, json.dumps(payload, ensure_ascii=False)],
             config=types.GenerateContentConfig(response_mime_type="application/json", temperature=0.3),
         ), "clip-fields")
         parsed = json.loads(response.text or "")
@@ -637,9 +657,48 @@ def _news_score(value) -> int | None:
         return None
 
 
+def _str_list(value, limit: int = 12) -> list:
+    out = []
+    for v in value if isinstance(value, list) else []:
+        s = " ".join(str(v or "").split())
+        if s and s not in out:
+            out.append(s)
+    return out[:limit]
+
+
+def structured_fields(d: dict, speaker: str) -> dict | None:
+    """The structured-record fields of one clip-fields answer, cleaned up:
+    role from a fixed list, subjects without the speaker, uppercase team
+    abbreviations, 0-2 topics from STRUCTURED_TOPICS, one context sentence,
+    a real boolean for best. None when the answer has none of them (an
+    older answer, or the call failed)."""
+    keys = ("speaker_role", "subjects", "teams", "topics", "context", "best")
+    if not isinstance(d, dict) or not any(k in d for k in keys):
+        return None
+    role = str(d.get("speaker_role") or "").strip().lower()
+    role = {"executive": "exec", "front office": "exec", "owner": "exec", "head coach": "coach"}.get(role, role)
+    sp = " ".join(_name_tokens(speaker))
+    subjects = [s for s in _str_list(d.get("subjects")) if " ".join(_name_tokens(s)) != sp]
+    teams = [t.upper() for t in _str_list(d.get("teams")) if re.fullmatch(r"[A-Za-z]{2,4}", t)]
+    topics = [t for t in (s.lower() for s in _str_list(d.get("topics"))) if t in STRUCTURED_TOPICS][:2]
+    best = d.get("best")
+    if isinstance(best, str):
+        best = best.strip().lower() == "true"
+    return {
+        "speaker_role": role if role in STRUCTURED_ROLES else "",
+        "subjects": subjects,
+        "teams": teams,
+        "topics": topics,
+        "context": strip_dashes(" ".join(str(d.get("context") or "").split()))[:300],
+        "best": best is True,
+    }
+
+
 def apply_clip_fields(data: dict, derived: dict, team: str, duration_secs: int) -> None:
     """Add clip fields to each quote dict. The yt-quotes fields themselves
-    (timestamp, speaker, quote, text_blocks, ...) are left untouched."""
+    (timestamp, speaker, quote, text_blocks, ...) are left untouched. The
+    structured-record fields go under "structured" (read only by
+    structured_quotes.py)."""
     title = data.get("video_title") or ""
     seen = set(data.get("speakers_seen") or [])
     by_rank = derived.get("by_rank") or {}
@@ -669,6 +728,9 @@ def apply_clip_fields(data: dict, derived: dict, team: str, duration_secs: int) 
             "social_post": clean_social_post(" ".join(str(d.get("social_post") or "").split())),
             "team": team,
         })
+        structured = structured_fields(d, speaker)
+        if structured is not None:
+            q["structured"] = structured
 
 
 # --------------------------------------------------------------------------- #
