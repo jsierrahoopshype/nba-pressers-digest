@@ -79,7 +79,8 @@ Slack or the run schedule:
   A title naming the speaker as GM / president / owner always makes them exec.
   The 2026-27 history was first built this way from all 339 stored videos on
   2026-10-20 (316 structured-fields calls, one per press conference, none
-  failed: every record is `gemini-backfill`).
+  failed: every record is `gemini-backfill`), and asked again the same day with
+  the one-best-per-presser prompt (317 calls, none failed; 96 best quotes).
   `best`: at most one per press conference, only for real news or a strong
   opinion about a named person (never without a subject), and never for under
   15 words, a question or a stock phrase; zero is fine.
