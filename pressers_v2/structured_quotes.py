@@ -3,10 +3,15 @@ Structured presser quotes: one record per quote, an append-only history per
 season, and the public JSON of the season's best quotes.
 
 Reads the per-video JSON the extractor already writes
-(pressers_v2/output/<date>/<video_id>.json). No Gemini calls: the record
-fields come from the "structured" block the extractor's existing clip-fields
-call adds to each quote. Videos processed before that block existed get the
-same fields from what is stored (backfill, "fields_source": "backfill").
+(pressers_v2/output/<date>/<video_id>.json). The record fields (role,
+subjects, teams, topics, context, best) come from the extractor's third
+Gemini call (the "structured" block in each quote, "fields_source":
+"gemini"). With --gemini, a video that has no such block (processed before
+the call existed, or the call failed) gets the same call here, before its
+records are written ("gemini-backfill"; answers kept in
+data/structured-fields.json, by video and quote rank). Only when that call
+fails too are the fields derived by rules from what is stored
+("rules-fallback").
 
 Only press conferences and media availabilities (content_type "presser"),
 and only quotes whose speaker is named in the video.
@@ -18,6 +23,7 @@ Outputs (repo root):
                                        extracted_at); readers keep the
                                        latest snapshot per video.
   data/history/processed-videos.json   video_id -> processed_at already read
+  data/structured-fields.json          --gemini answers for stored videos
   docs/pressers/api/best-quotes.json   the current season's best quotes
 
 Transcript check: for new videos, when YouTube captions can be fetched
@@ -26,7 +32,7 @@ Transcript check: for new videos, when YouTube captions can be fetched
 "transcript_check": "unavailable" and the quote is kept.
 
 Usage (from repo root):
-    python pressers_v2/structured_quotes.py [--headshots <nba-headshots checkout>]
+    python pressers_v2/structured_quotes.py [--headshots <nba-headshots checkout>] [--gemini]
 """
 
 import argparse
@@ -37,6 +43,8 @@ import re
 import sys
 import threading
 import unicodedata
+from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -50,6 +58,8 @@ import ytq_vendor as ytq  # noqa: E402
 REPO = ROOT.parent
 HISTORY_DIR = REPO / "data" / "history"
 PROCESSED_PATH = HISTORY_DIR / "processed-videos.json"
+FIELDS_CACHE = REPO / "data" / "structured-fields.json"
+GEMINI_WORKERS = 4
 PUBLIC_JSON = REPO / "docs" / "pressers" / "api" / "best-quotes.json"
 PUBLIC_URL = "https://jsierrahoopshype.github.io/nba-pressers-digest/pressers/api/best-quotes.json"
 
@@ -57,7 +67,7 @@ TOPICS = pe.STRUCTURED_TOPICS
 ROLES = pe.STRUCTURED_ROLES
 SEASON_START_MONTH = 7          # July 1 opens the next season (offseason news belongs to it)
 BEST_MIN_WORDS = 15
-BACKFILL_BEST_SCORE = 7         # backfill: best = news_score 7+ (plus the filler checks)
+BACKFILL_BEST_SCORE = 7         # rules fallback: best = news_score 7+ (plus the filler checks)
 TRANSCRIPT_TIMEOUT_SECS = 20
 TRANSCRIPT_MAX_FETCHES = 40     # per run
 TRANSCRIPT_GIVE_UP_AFTER = 3    # consecutive failed fetches (blocked runner) -> stop trying
@@ -371,12 +381,21 @@ def speaker_text(q: dict, speaker: str) -> str:
     return " ".join((q.get("quote") or "").split())
 
 
+def exec_by_title(title: str, speaker: str) -> bool:
+    """The title names this speaker and calls someone GM / president / owner
+    ("Magic President Jeff Weltman Media Day"): an executive, whatever else
+    said."""
+    return bool(EXEC_TITLE_RE.search(title or "")) and pe.title_names_speaker(title or "", speaker)
+
+
 def backfill_fields(q: dict, data: dict, speaker: str, text: str, team: str, players: Players) -> dict:
-    """Record fields for a quote stored before the clip-fields call returned
-    them: role, subjects, teams, topics, context and best from the stored
-    title, names, summary phrase and news score."""
+    """Rules fallback, only when the structured-fields call failed: role,
+    subjects, teams, topics, context and best from the stored title, names,
+    summary phrase and news score."""
     title = data.get("video_title") or ""
-    if players.get(speaker) or " " not in TITLE_WORDS.sub("", speaker) and not TITLE_WORDS.match(speaker):
+    if exec_by_title(title, speaker):
+        role = "exec"
+    elif players.get(speaker) or " " not in TITLE_WORDS.sub("", speaker) and not TITLE_WORDS.match(speaker):
         role = "player"   # in the player list, or a lone first name (staff are named by surname)
     elif EXEC_TITLE_RE.search(title) and pe.title_names_speaker(title, speaker):
         role = "exec"
@@ -407,9 +426,72 @@ def backfill_fields(q: dict, data: dict, speaker: str, text: str, team: str, pla
             "context": context, "best": best}
 
 
+def needs_fields(data: dict) -> bool:
+    """A press conference with named quotes but no "structured" block."""
+    return pe.video_content_type(data) == "presser" and any(
+        q.get("speaker_confidence") == "named" and not pe.is_unidentified(q.get("speaker") or "")
+        and not isinstance(q.get("structured"), dict) for q in data.get("quotes") or [])
+
+
+class GeminiFields:
+    """The extractor's structured-fields call for stored videos, its answers
+    cached in data/structured-fields.json ({video_id: {processed_at, by_rank}}).
+    A failed call is not cached, so the next run tries again."""
+
+    def __init__(self, client=None, cache_path: Path | None = None):
+        self.client, self.path = client, Path(cache_path or FIELDS_CACHE)
+        try:
+            self.cache = json.loads(self.path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            self.cache = {}
+        self.stats = {"calls": 0, "videos_ok": 0, "videos_failed": 0, "cached": 0}
+        self._lock = threading.Lock()
+        if client is not None:
+            models, original = client.models, client.models.generate_content
+
+            def counted(*a, **k):   # every attempt, retries included
+                with self._lock:
+                    self.stats["calls"] += 1
+                return original(*a, **k)
+            try:
+                models.generate_content = counted
+            except AttributeError:
+                pass
+
+    def by_rank(self, data: dict) -> dict | None:
+        e = self.cache.get(data.get("video_id") or "")
+        if e and e.get("processed_at") == (data.get("processed_at") or ""):
+            return {int(k): v for k, v in (e.get("by_rank") or {}).items()}
+        return None
+
+    def fill(self, videos: list) -> None:
+        todo = [d for d in videos if needs_fields(d) and self.by_rank(d) is None]
+        self.stats["cached"] = sum(1 for d in videos if needs_fields(d)) - len(todo)
+        if self.client is None or not todo:
+            return
+
+        def one(data):
+            if pe._spending_cap_hit.is_set():
+                return data, None
+            return data, pe.derive_structured_fields(self.client, data, data.get("channel_team") or "")
+
+        with ThreadPoolExecutor(max_workers=GEMINI_WORKERS) as pool:
+            for data, got in pool.map(one, todo):
+                if got:
+                    self.cache[data["video_id"]] = {"processed_at": data.get("processed_at") or "",
+                                                    "by_rank": {str(k): v for k, v in sorted(got.items())}}
+                    self.stats["videos_ok"] += 1
+                else:
+                    self.stats["videos_failed"] += 1
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        pe.atomic_write(self.path, json.dumps(dict(sorted(self.cache.items())), ensure_ascii=False, indent=1) + "\n")
+
+
 def records_for_video(data: dict, players: Players, transcripts: Transcripts | None = None,
-                      counts: dict | None = None, known: dict | None = None) -> list:
-    """Records for one stored video (press conferences only, named speakers only)."""
+                      counts: dict | None = None, known: dict | None = None, fields: dict | None = None) -> list:
+    """Records for one stored video (press conferences only, named speakers
+    only). fields: {rank: structured fields} from GeminiFields, for quotes
+    without their own "structured" block."""
     counts = counts if counts is not None else {}
     vid = data.get("video_id") or ""
     if pe.video_content_type(data) != "presser" or not pe.VIDEO_ID_RE.match(vid):
@@ -442,13 +524,20 @@ def records_for_video(data: dict, players: Players, transcripts: Transcripts | N
             counts["transcript_mismatch"] = counts.get("transcript_mismatch", 0) + 1
             continue
         s = q.get("structured")
-        source = "gemini" if isinstance(s, dict) else "backfill"
-        if source == "backfill":
+        source = "gemini"
+        if not isinstance(s, dict):
+            s = (fields or {}).get(q.get("rank"))
+            source = "gemini-backfill"
+        if not isinstance(s, dict):
             s = backfill_fields(q, data, speaker, text, team, players)
+            source = "rules-fallback"
+        counts[source] = counts.get(source, 0) + 1
         p = players.get(speaker)
         role = s.get("speaker_role") or ("player" if p else "coach")
-        if p and role != "player" and source == "backfill":
+        if p and role != "player" and source == "rules-fallback" and not exec_by_title(data.get("video_title"), speaker):
             role = "player"
+        if exec_by_title(data.get("video_title"), speaker):
+            role = "exec"
         teams = []
         for t in ([team] if team else []) + list(s.get("teams") or []):
             a = team_abbr(t)
@@ -541,7 +630,8 @@ def current_view(records: list) -> list:
 
 
 def update_history(output_dir: Path | None = None, history_dir: Path | None = None,
-                   players: Players | None = None, transcripts: Transcripts | None = None) -> dict:
+                   players: Players | None = None, transcripts: Transcripts | None = None,
+                   gemini: GeminiFields | None = None) -> dict:
     """Append the records of every stored video not read yet (or reprocessed
     since). Returns counts."""
     history_dir = Path(history_dir or HISTORY_DIR)
@@ -556,13 +646,15 @@ def update_history(output_dir: Path | None = None, history_dir: Path | None = No
     new_lines = {}
     videos = list(iter_stored_videos(output_dir))
     known = known_speakers(videos)
-    for data in videos:
+    new = [d for d in videos if not (d["video_id"] in processed and processed[d["video_id"]] >= (d.get("processed_at") or ""))]
+    if gemini is not None:
+        gemini.fill(new)   # the structured-fields call for the videos about to be read
+    for data in new:
         vid = data["video_id"]
         stamp = data.get("processed_at") or ""
-        if vid in processed and processed[vid] >= stamp:
-            continue
         counts["videos_read"] += 1
-        recs = records_for_video(data, players, transcripts, counts, known)
+        recs = records_for_video(data, players, transcripts, counts, known,
+                                 gemini.by_rank(data) if gemini is not None else None)
         for r in recs:
             new_lines.setdefault(r["season"], []).append(r)
         processed[vid] = stamp
@@ -612,11 +704,21 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--headshots", help="nba-headshots checkout (players_all.json) for roles and full names")
     ap.add_argument("--no-transcripts", action="store_true", help="skip the caption check")
+    ap.add_argument("--gemini", action="store_true",
+                    help="run the structured-fields call (GEMINI_API_KEY) for videos that have no answer yet")
     args = ap.parse_args(argv)
     pe._CONFIG.update(pe.load_config())   # title keywords for the content type of older videos
     players = Players(args.headshots)
     transcripts = Transcripts(enabled=not args.no_transcripts)
-    counts = update_history(players=players, transcripts=transcripts)
+    client = None
+    if args.gemini:
+        key = os.getenv("GEMINI_API_KEY")
+        if key:
+            client = pe.genai.Client(api_key=key)
+        else:
+            print("[structured] GEMINI_API_KEY is not set: no structured-fields calls, rules fallback only")
+    gemini = GeminiFields(client)
+    counts = update_history(players=players, transcripts=transcripts, gemini=gemini)
     season = current_season()
     view = current_view(read_history(season))
     write_public_json(view, season)
@@ -626,7 +728,15 @@ def main(argv=None) -> int:
     print(f"[structured] skipped: unnamed speaker {counts.get('unnamed', 0)}, not a presser "
           f"{counts.get('not_presser_videos', 0)} video(s), transcript mismatch {counts.get('transcript_mismatch', 0)}; "
           f"captions fetched {transcripts.stats['fetched']}, unavailable {transcripts.stats['unavailable']}")
-    print(f"[structured] {season}: {len(view)} quotes, {best} best -> {PUBLIC_JSON.relative_to(REPO)}")
+    g = gemini.stats
+    print(f"[structured] structured-fields calls: {g['calls']} (videos answered {g['videos_ok']}, failed {g['videos_failed']}, "
+          f"already cached {g['cached']}); records by source: gemini {counts.get('gemini', 0)}, "
+          f"gemini-backfill {counts.get('gemini-backfill', 0)}, rules-fallback {counts.get('rules-fallback', 0)}")
+    src = {}
+    for r in view:
+        src[r["fields_source"]] = src.get(r["fields_source"], 0) + 1
+    print(f"[structured] {season}: {len(view)} quotes, {best} best -> {PUBLIC_JSON.relative_to(REPO)}; "
+          f"by source {dict(sorted(src.items()))}; roles {dict(sorted(Counter(r['speaker']['role'] for r in view).items()))}")
     return 0
 
 

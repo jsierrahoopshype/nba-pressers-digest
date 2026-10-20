@@ -19,14 +19,7 @@ sys.path.insert(0, str(HERE))
 import presser_extractor as pe  # noqa: E402
 import pressers_site as ps  # noqa: E402
 import structured_quotes as sq  # noqa: E402
-from test_pressers import HARDEN, TempOutput, client_for, video  # noqa: E402
-
-STRUCTURED = {"content_type": "presser", "quotes": [
-    {"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_post": "James Harden likes the camp.",
-     "speaker_role": "Player", "subjects": ["Mario Hezonja", "James Harden", "Mario Hezonja"], "teams": ["cle", "NYK", "toolong"],
-     "topics": ["teammates", "weather", "injuries", "trades"], "context": "James Harden — asked about camp.", "best": "true"},
-    {"rank": 2, "speaker_confidence": "inferred", "news_score": 2, "social_post": "x"}]}
-
+from test_pressers import HARDEN, TempOutput, video  # noqa: E402
 
 def stored_video(vid="AAAAAAAAAAA", title="Cavs Practice | Jane Doe Media Availability", quotes=None,
                  processed="2026-10-19T19:53:42Z", published="2026-10-19T18:59:17Z", ctype="presser"):
@@ -53,25 +46,79 @@ def write_video(base: Path, data: dict, day="2026-10-19"):
     (d / f"{data['video_id']}.json").write_text(json.dumps(data), encoding="utf-8")
 
 
+class RoutedModels:
+    """Video call -> extraction; text calls routed by prompt: clip fields or
+    structured fields (None = that call fails). Records every call's prompt."""
+
+    def __init__(self, extraction, clip_fields, structured):
+        self.extraction, self.clip_fields, self.structured = extraction, clip_fields, structured
+        self.calls, self.prompts = [], []
+
+    def generate_content(self, model, contents, config):
+        import types as pytypes
+        first = contents[0]
+        if hasattr(first, "file_data"):
+            self.calls.append("video")
+            title = contents[1].split("\n", 1)[0].replace("YouTube title: ", "")
+            return pytypes.SimpleNamespace(text=json.dumps(dict(self.extraction, video_title=title)), usage_metadata=None)
+        self.prompts.append(first)
+        kind = "structured" if first == pe.STRUCTURED_FIELDS_PROMPT else "clip"
+        self.calls.append(kind)
+        body = self.structured if kind == "structured" else self.clip_fields
+        if body is None:
+            raise RuntimeError("400 bad request")
+        return pytypes.SimpleNamespace(text=json.dumps(body), usage_metadata=None)
+
+
+def routed(clip_fields, structured):
+    import types as pytypes
+    return pytypes.SimpleNamespace(models=RoutedModels(HARDEN, clip_fields, structured))
+
+
+CLIP_ONLY = {"content_type": "presser", "quotes": [
+    {"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_post": "James Harden likes the camp."},
+    {"rank": 2, "speaker_confidence": "inferred", "news_score": 2, "social_post": "x"}]}
+STRUCTURED_ONLY = {"quotes": [
+    {"rank": 1, "speaker_role": "Player", "subjects": ["Mario Hezonja", "James Harden", "Mario Hezonja"],
+     "teams": ["cle", "NYK", "toolong"], "topics": ["teammates", "weather", "injuries", "trades"],
+     "context": "James Harden — asked about camp.", "best": "true"}]}
+
+
 class ExtractionTests(unittest.TestCase):
-    def test_same_call_extended_prompt_keeps_original_text(self):
+    def run_video(self, structured, vid="aaaaaaaaaaa"):
+        client = routed(CLIP_ONLY, structured)
         with TempOutput():
-            client = client_for(HARDEN, STRUCTURED)
-            status, data = pe.process_video(client, video("aaaaaaaaaaa", "James Harden Media Availability"), "Cleveland Cavaliers")
+            status, data = pe.process_video(client, video(vid, "James Harden Media Availability"), "Cleveland Cavaliers")
         self.assertEqual(status, "ok")
-        self.assertEqual(client.models.calls, ["video", "text"])   # no extra Gemini call
+        return client.models, data
+
+    def test_third_call_separate_from_clip_fields(self):
+        models, data = self.run_video(STRUCTURED_ONLY)
+        self.assertEqual(models.calls, ["video", "clip", "structured"])
+        self.assertEqual(models.prompts[0], pe.CLIP_FIELDS_PROMPT)        # call 2 sends its prompt unchanged
+        self.assertNotIn("speaker_role", pe.CLIP_FIELDS_PROMPT)
         q1, q2 = data["quotes"]
         self.assertEqual(q1["structured"], {"speaker_role": "player", "subjects": ["Mario Hezonja"], "teams": ["CLE", "NYK"],
                                             "topics": ["teammates", "injuries"], "context": "James Harden, asked about camp.",
                                             "best": True})
-        self.assertNotIn("structured", q2)       # an answer without the new fields adds nothing
-        self.assertEqual(q1["news_score"], 6)    # the existing clip fields are unchanged
-        self.assertTrue(pe.STRUCTURED_FIELDS_PROMPT.startswith("\n\nALSO"))
+        self.assertNotIn("structured", q2)                                # no answer for that rank
 
-    def test_failed_text_call_adds_no_structured_block(self):
-        with TempOutput():
-            _, data = pe.process_video(client_for(HARDEN, None), video("bbbbbbbbbbb", "James Harden Media Availability"), "Cleveland Cavaliers")
-        self.assertTrue(all("structured" not in q for q in data["quotes"]))
+    def test_news_score_and_social_post_independent_of_third_call(self):
+        _, with3 = self.run_video(STRUCTURED_ONLY, "ccccccccccc")
+        _, failed3 = self.run_video(None, "ddddddddddd")
+        keys = ("news_score", "social_post", "speaker_confidence", "start_seconds", "end_seconds")
+        self.assertEqual([[q[k] for k in keys] for q in with3["quotes"]], [[q[k] for k in keys] for q in failed3["quotes"]])
+        self.assertTrue(all("structured" not in q for q in failed3["quotes"]))   # a failed call stores nothing
+
+    def test_exec_roles(self):
+        for said in ("General Manager", "GM", "President", "executive", "Owner", "front office"):
+            self.assertEqual(pe.structured_fields({"speaker_role": said}, "X")["speaker_role"], "exec", said)
+        self.assertEqual(pe.structured_fields({"speaker_role": "Head Coach"}, "X")["speaker_role"], "coach")
+        self.assertTrue(sq.exec_by_title("Magic President Jeff Weltman Media Day", "Jeff Weltman"))
+        self.assertFalse(sq.exec_by_title("Jeff Weltman Media Day", "Jeff Weltman"))
+        data = stored_video(title="Cavs GM Jane Doe Press Conference")
+        recs = sq.records_for_video(data, sq.Players())
+        self.assertEqual({r["speaker"]["role"] for r in recs}, {"exec"})   # Gemini said player; the title wins
 
 
 class RecordTests(unittest.TestCase):
@@ -95,7 +142,7 @@ class RecordTests(unittest.TestCase):
         self.assertEqual(len(recs), 2)
         self.assertEqual(counts["unnamed"], 1)
         r1, r3 = recs
-        self.assertEqual(r1["fields_source"], "backfill")
+        self.assertEqual(r1["fields_source"], "rules-fallback")
         self.assertEqual(r1["speaker"], {"name": "Jane Doe", "role": "player"})
         self.assertEqual(r1["subjects"], ["John Roe"])
         self.assertEqual(r1["teams"], ["CLE"])
@@ -111,6 +158,45 @@ class RecordTests(unittest.TestCase):
         for key in ("id", "video_id", "video_title", "published_at", "start_seconds", "speaker", "subjects",
                     "teams", "topics", "quote", "context", "best"):
             self.assertIn(key, r1)
+
+    def test_gemini_backfill_cache_and_fallback(self):
+        import types as pytypes
+        answer = {"quotes": [{"rank": 1, "speaker_role": "GM", "subjects": ["John Roe"], "teams": ["CLE"],
+                              "topics": ["contracts"], "context": "Jane Doe at practice.", "best": True}]}
+
+        class Models:
+            def __init__(self, fail):
+                self.fail, self.n = fail, 0
+
+            def generate_content(self, model, contents, config):
+                self.n += 1
+                self.prompt = contents[0]
+                if self.fail:
+                    raise RuntimeError("400 bad request")
+                return pytypes.SimpleNamespace(text=json.dumps(answer), usage_metadata=None)
+
+        with tempfile.TemporaryDirectory() as tmp:
+            out, hist, cache = Path(tmp) / "out", Path(tmp) / "hist", Path(tmp) / "fields.json"
+            write_video(out, stored_video())
+            failing = pytypes.SimpleNamespace(models=Models(True))
+            g = sq.GeminiFields(failing, cache)
+            sq.update_history(out, hist, gemini=g)
+            self.assertEqual((g.stats["calls"], g.stats["videos_failed"], g.stats["videos_ok"]), (1, 1, 0))
+            recs = sq.read_history("2026-27", hist)
+            self.assertEqual([r["fields_source"] for r in recs], ["rules-fallback", "gemini"])
+            self.assertFalse(cache.exists() and json.loads(cache.read_text())) # failures aren't cached
+            # Fresh history, working call: Gemini's fields, cached; a second run makes no call.
+            hist2 = Path(tmp) / "hist2"
+            ok = pytypes.SimpleNamespace(models=Models(False))
+            g2 = sq.GeminiFields(ok, cache)
+            sq.update_history(out, hist2, gemini=g2)
+            self.assertEqual(ok.models.prompt, pe.STRUCTURED_FIELDS_PROMPT)
+            r1 = sq.read_history("2026-27", hist2)[0]
+            self.assertEqual((r1["fields_source"], r1["speaker"]["role"], r1["subjects"], r1["context"]),
+                             ("gemini-backfill", "exec", ["John Roe"], "Jane Doe at practice."))
+            g3 = sq.GeminiFields(pytypes.SimpleNamespace(models=Models(False)), cache)
+            g3.fill(list(sq.iter_stored_videos(out)))
+            self.assertEqual((g3.stats["calls"], g3.stats["cached"]), (0, 1))
 
     def test_podcasts_are_left_out(self):
         counts = {}
@@ -182,9 +268,12 @@ def fake_view(n_quotes=6):
 
 
 def fake_headshots(base: Path) -> Path:
-    """A made-up nba-headshots checkout: two players, no images."""
+    """A made-up nba-headshots checkout: two players, one face image."""
     meta = base / "players" / "metadata"
     meta.mkdir(parents=True, exist_ok=True)
+    faces = base.joinpath(*ps.HEAD_DIR)
+    faces.mkdir(parents=True, exist_ok=True)
+    (faces / "1-jane-doe.webp").write_bytes(b"RIFF")
     (meta / "players_all.json").write_text(json.dumps({"players": [
         {"full_name": "Jane Doe", "slug": "jane-doe", "team_abbrev": "CLE", "active": True, "headshot": {"filename": "1-jane-doe.png"}},
         {"full_name": "John Roe", "slug": "john-roe", "team_abbrev": "CLE", "active": True, "headshot": {"filename": "2-john-roe.png"}},
@@ -211,7 +300,7 @@ class SiteTests(unittest.TestCase):
                 self.assertIn(f'<link rel="canonical" href="https://hoopsmatic.com/pressers/{path}">', page)
                 self.assertIn(f'<meta property="og:url" content="https://hoopsmatic.com/pressers/{path}">', page)
                 self.assertIn("og:image", page)
-                self.assertNotIn("github.io", page)
+                self.assertNotIn("github.io/nba-pressers-digest", page)   # canonical/og stay on hoopsmatic.com
                 # Nothing from YouTube loads with the page: only links to it and the click-to-load script.
                 self.assertNotRegex(page, r"<(iframe|img|script)[^>]+(youtube|ytimg)")
                 self.assertIn("Anything wrong? Email us at", page)
@@ -231,6 +320,9 @@ class SiteTests(unittest.TestCase):
             sitemap = (out / "sitemap.xml").read_text(encoding="utf-8")
             self.assertIn("<loc>https://hoopsmatic.com/pressers/players/jane-doe/</loc><lastmod>2026-10-14</lastmod>", sitemap)
             self.assertTrue((out / "assets" / "watch.js").is_file())
+            # Faces are linked from nba-headshots' GitHub Pages, never copied.
+            self.assertIn('<img src="https://jsierrahoopshype.github.io/nba-headshots/players/headshots/head-uniform/1-jane-doe.webp"', player)
+            self.assertFalse((out / "img").exists())
 
     def test_player_pages_need_five_quotes_to_be_eligible(self):
         with tempfile.TemporaryDirectory() as tmp:

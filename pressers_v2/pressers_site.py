@@ -10,7 +10,8 @@ docs/pressers/ and meant to be served at https://hoopsmatic.com/pressers/.
 Every quote shows the speaker, who it's about, topic tags, the date and a
 "Watch" link: a click loads the youtube-nocookie player at the quote's
 second; nothing loads from YouTube before that. Headshots are the
-nba-headshots head-uniform crop, copied into the site (only the ones used).
+nba-headshots head-uniform crop, linked from the nba-headshots GitHub
+Pages site (not copied into this repo).
 
 SEO: canonical, og:url and the sitemap use https://hoopsmatic.com/pressers/...
 Each page has its own title, description and share image (og/<key>.png,
@@ -53,6 +54,9 @@ BEST_SHOWN = 24
 LIST_ROWS = 30
 VISIBLE_PER_PRESSER = 3          # quotes shown per presser; the rest sit under "More"
 HEAD_DIR = ("players", "headshots", "head-uniform")
+# Faces and logos are not copied into this repo: pages link to the nba-headshots GitHub Pages
+# files (the checkout is only read to know which files exist, and for the share images).
+HEADSHOTS_PAGES = "https://jsierrahoopshype.github.io/nba-headshots/"
 HEAD480_DIR = ("players", "headshots", "head-uniform-480")
 ROLE_WORD = {"player": "player", "coach": "coach", "exec": "executive"}
 TOPIC_LABEL = {t: t[0].upper() + t[1:] for t in sq.TOPICS}
@@ -130,6 +134,9 @@ class Media:
             return None
         f = self.dir.joinpath(*(HEAD480_DIR if big else HEAD_DIR), stem + ".webp")
         return f if f.is_file() else None
+
+    def url(self, f: Path) -> str:
+        return HEADSHOTS_PAGES + f.relative_to(self.dir).as_posix()
 
     def logo(self, abbr: str) -> Path | None:
         tid = self.logo_ids.get(abbr)
@@ -255,10 +262,9 @@ class Renderer:
     def face(self, path: str, name: str, size: str = "md") -> str:
         f = self.M.media.face(name)
         if f:
-            fid = f.stem
-            self.used_faces[fid] = f
+            self.used_faces[f.stem] = f
             px = {"md": 44, "xl": 112}.get(size, 28)
-            return (f'<span class="pic face {size}"><img src="{rel_link(path, "pressers/img/" + fid + ".webp")}" '
+            return (f'<span class="pic face {size}"><img src="{self.M.media.url(f)}" '
                     f'alt="" width="{px}" height="{px}" loading="lazy"></span>')
         return f'<span class="pic face {size}" aria-hidden="true">{esc(initials(name))}</span>'
 
@@ -267,7 +273,7 @@ class Renderer:
         cls = f"pic logo {size}".strip()
         if f:
             self.used_logos[abbr] = f
-            return f'<span class="{cls}"><img src="{rel_link(path, "pressers/img/logos/" + abbr + ".svg")}" alt="" loading="lazy"></span>'
+            return f'<span class="{cls}"><img src="{self.M.media.url(f)}" alt="" loading="lazy"></span>'
         return f'<span class="{cls} ph" aria-hidden="true">{esc(abbr)}</span>'
 
     def person(self, path: str, name: str, cls: str = "") -> str:
@@ -535,7 +541,8 @@ def build_site(view: list, season: str, media: Media, out_dir: Path | None = Non
     pages += [player_page(R, k) for k in sorted(M.slug, key=lambda k: M.slug[k])]
     pages += [team_page(R, a) for a in sorted(M.by_team) if a in sq.TEAM_BY_ABBR]
 
-    # Rebuild the page folders from scratch (api/ and og/ are kept: og images are reused).
+    # Rebuild the page folders from scratch (api/ and og/ are kept: og images are reused;
+    # img/ is only removed, from builds that still copied faces).
     for sub in ("players", "teams", "img", "assets"):
         shutil.rmtree(out / sub, ignore_errors=True)
     (out / "assets" / "fonts").mkdir(parents=True, exist_ok=True)
@@ -577,11 +584,6 @@ def build_site(view: list, season: str, media: Media, out_dir: Path | None = Non
         if f.stem not in keys:
             f.unlink()
 
-    (out / "img" / "logos").mkdir(parents=True, exist_ok=True)
-    for fid, f in sorted(R.used_faces.items()):
-        shutil.copyfile(f, out / "img" / f"{fid}.webp")
-    for abbr, f in sorted(R.used_logos.items()):
-        shutil.copyfile(f, out / "img" / "logos" / f"{abbr}.svg")
     summary.update(faces=len(R.used_faces), logos=len(R.used_logos),
                    players=len(M.slug), teams=len([a for a in M.by_team if a in sq.TEAM_BY_ABBR]))
 

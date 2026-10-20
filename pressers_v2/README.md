@@ -48,13 +48,15 @@ only lists quotes whose speaker is named.
 
 ## Structured quotes and the Pressers section (preview)
 
-The clip-fields call above also returns, per quote, the fields of a structured
-record (same call, no extra Gemini call; its earlier instructions are unchanged,
-the new ones are appended as `STRUCTURED_FIELDS_PROMPT`): `speaker_role`
-(player / coach / exec), `subjects` (who the quote is about, never the speaker),
-`teams`, `topics` (0-2 of contracts, injuries, trades, teammates, coaching
-decisions), `context` (one plain sentence) and `best`. They are stored under
-`structured` in each quote of the per-video JSON; nothing else reads them.
+A third Gemini call per video (text only, same model and key, its own prompt
+`STRUCTURED_FIELDS_PROMPT`; the clip-fields call is unchanged, so news_score and
+social_post come out exactly as before) returns, per quote, the fields of a
+structured record: `speaker_role` (player / coach / exec; GMs, presidents,
+owners and other executives are always exec), `subjects` (who the quote is
+about, never the speaker), `teams`, `topics` (0-2 of contracts, injuries,
+trades, teammates, coaching decisions), `context` (one plain sentence) and
+`best`. They are stored under `structured` in each quote of the per-video
+JSON; nothing else reads them. A failed call stores nothing.
 
 The **Pressers section** workflow (`pressers-section.yml`) runs after every
 Pressers v2 run (and on demand). It never touches the digest, the clip list,
@@ -66,10 +68,14 @@ Slack or the run schedule:
   never changes), `video_id`, `video_title`, `published_at`, `start_seconds`,
   `speaker {name, role}`, `subjects`, `teams`, `topics`, `quote` (the speaker's
   own words only), `context`, `best`, plus `date` (New York), `season`,
-  `news_score`, `fields_source` (`gemini`, or `backfill` for videos processed
-  before the fields existed: role from the nba-headshots player list, subjects
-  from the names mentioned, topics from keywords, context from the summary
-  phrase, best = news score 7+), `transcript_check` and `extracted_at`.
+  `news_score`, `fields_source`, `transcript_check` and `extracted_at`.
+  `fields_source`: `gemini` (the extractor's third call), `gemini-backfill`
+  (the same call made by this step, `--gemini`, for videos stored without the
+  fields or whose call failed; answers kept in `data/structured-fields.json`)
+  or `rules-fallback` (only when that call failed too: role from the
+  nba-headshots player list and title, subjects from the names mentioned,
+  topics from keywords, context from the summary phrase, best = news score 7+).
+  A title naming the speaker as GM / president / owner always makes them exec.
   `best` is never true for under 15 words, a question or a stock phrase.
   Records are **appended** to `data/history/<season>.jsonl`; a reprocessed
   video appends a new snapshot (readers keep the latest per video).
@@ -87,8 +93,8 @@ Slack or the run schedule:
   link; a click loads the youtube-nocookie player at the quote's second
   (`section_assets/watch.js`), nothing loads from YouTube before that.
   Polymarket tracker look (`section_assets/pressers.css`, DM Sans / JetBrains
-  Mono served from the site), nba-headshots head-uniform faces copied into
-  `docs/pressers/img/`. Canonical, `og:url`, share images and the sitemap
+  Mono served from the site), nba-headshots head-uniform faces and team logos
+  linked from the nba-headshots GitHub Pages site (not copied into this repo). Canonical, `og:url`, share images and the sitemap
   (`docs/pressers/sitemap.xml`) use `https://hoopsmatic.com/pressers/...`.
   Each page has its own title and 1200x630 share image (`og/`, re-rendered
   only when its content changes). `PRESSERS_PREVIEW: "true"` in the workflow
