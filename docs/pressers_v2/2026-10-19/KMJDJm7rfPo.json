@@ -1,0 +1,168 @@
+{
+  "video_title": "Taylor Jenkins Media Availability | 10.19.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:08",
+      "summary_phrase": "Nate's status for the season opener and his recent progress",
+      "names_mentioned": [
+        "Nate"
+      ],
+      "excerpt": "Nate went through everything today. Obviously we had contact today. We'll see how he responds tomorrow.",
+      "quote": "Nate went through everything today. Obviously we had contact today. We'll see how he responds tomorrow, but made good progress over the weekend and looked good out there today. Just getting his timing back, but overall he looked like he was moving pretty well.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Taylor Jenkins says Nate went through everything in practice today and made good progress. The team will see how he responds tomorrow as he works on getting his timing back for the season opener.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Taylor Jenkins provides an update on Nate's health status and his participation in practice ahead of the season opener.",
+        "best": true
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:50",
+      "summary_phrase": "Long-term development plans for Nate and potential G League assignment",
+      "names_mentioned": [
+        "Nate"
+      ],
+      "excerpt": "Nothing's been decided in terms of what his long-range plan is over the course of the season.",
+      "quote": "Nothing's been decided in terms of what his long-range plan is over the course of the season. It's every development opportunity possible, if that's in the rotation with the Bucks, if it's a possibility with the G League. We haven't even approached that one right now because he's doing a great job right now. Obviously I thought he was doing a really good job early in camp and preseason, and we'll figure it out once the hurt gets going with other guys that are on our roster too. But right now I want him thinking about carving out a rotational spot for us.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins says no decision has been made on a potential G League assignment for Nate. The focus right now is on him carving out a rotational spot with the Bucks.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the potential development path for Nate, including the possibility of a G League assignment or a rotation spot.",
+        "best": false
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:56",
+      "summary_phrase": "Approach to game planning and scouting for the Washington Wizards",
+      "names_mentioned": [],
+      "excerpt": "We're always trying to install our base foundation, defensively, offensively, and then once we start really diving.",
+      "quote": "We're always trying to install our base foundation, defensively, offensively, and then once we start really diving into the scouting plans, how teams are going to guard us, how we need to guard them, we'll always have stuff in our tool belt. So we're just incrementally adding our adjustments, whether that's game plan personnel designations, that's coverages, whether it's pick and rolls, off balls, isolation post-ups. Every team is going to present a different challenge, and their players are going to present a different challenge.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Taylor Jenkins discusses the team approach to scouting and game planning as they prepare for the Washington Wizards and look to add incremental adjustments to their base foundation.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Washington Wizards"
+        ],
+        "teams": [
+          "MIL",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins explains the team's approach to installing their systems and preparing scouting plans for upcoming opponents.",
+        "best": false
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:26",
+      "summary_phrase": "Evaluating player roles and rotation decisions for the upcoming season",
+      "names_mentioned": [],
+      "excerpt": "There's an experience level that factors into my decisions. I think he's been doing some really good things.",
+      "quote": "There's an experience level that factors into my decisions. I think he's been doing some really good things. A lot of guys are adapting. I feel like the last couple of days he's had really good progress in adapting to our offensive system and the accountability he's got to have on the defensive side. This is a big year for him, big year for us, and I've loved his leadership so far, about the right things, his day-to-day approach.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins says he is looking for accountability on the defensive side and leadership from his players as they adapt to the offensive system ahead of a big year for the team.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins discusses the factors influencing his rotation decisions and praises a player's recent progress and leadership.",
+        "best": false
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:48",
+      "summary_phrase": "Reflecting on the difficult decision to part ways with Pete",
+      "names_mentioned": [
+        "Pete"
+      ],
+      "excerpt": "The decision with Pete is extremely difficult. He's meant so much to this organization.",
+      "quote": "The decision with Pete is extremely difficult. He's meant so much to this organization beyond my time since I got here last spring. He fits our culture, I think he fits our style of play, just an unfortunate part of the circumstances just with where our roster's at right now. I think we've had great conversations with him directly about how much he means to us and how much we want him to be a part of what we're doing and what we're building here.",
+      "text_blocks": [],
+      "start_seconds": 288,
+      "end_seconds": 321,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Taylor Jenkins calls the decision to part ways with Pete extremely difficult, noting that he fits the culture and style of play but was a casualty of the current roster circumstances.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pete"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins addresses the difficult decision to part ways with Pete due to roster circumstances.",
+        "best": true
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "KMJDJm7rfPo",
+  "url": "https://www.youtube.com/watch?v=KMJDJm7rfPo",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-19T23:41:04Z",
+  "duration_seconds": 445,
+  "processed_at": "2026-10-20T11:37:57Z",
+  "run_id": "2026-10-20T1137Z-06utc",
+  "is_one_off": false
+}
