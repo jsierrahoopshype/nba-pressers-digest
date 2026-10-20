@@ -1,0 +1,107 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | Kentavious Caldwell-Pope | 10.20.26",
+  "speakers_seen": [
+    "Kentavious Caldwell-Pope"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kentavious Caldwell-Pope",
+      "timestamp": "01:53",
+      "summary_phrase": "Kentavious Caldwell-Pope on building championship habits for a new team",
+      "names_mentioned": [],
+      "excerpt": "We got to know everybody, tendency what they do on the court, off the court, hang out with each other.",
+      "quote": "We got to know everybody first. We got to know everybody, tendency what they do on the court, off the court, hang out with each other. Like I said, just get to know each other, build that chemistry. I think that's the first thing that goes into building a championship team.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kentavious Caldwell-Pope on the 76ers building chemistry: We got to know everybody, tendency what they do on the court, off the court, hang out with each other. Just get to know each other, build that chemistry.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kentavious Caldwell-Pope discusses the process of building team chemistry and championship habits with his new teammates during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kentavious Caldwell-Pope",
+      "timestamp": "02:57",
+      "summary_phrase": "Kentavious Caldwell-Pope on LeBron James' evolution as a team leader",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He's just more being that team leader, slowing the pace down, also just getting everybody in their same position.",
+      "quote": "I think it helped the change. For him, it's just more being that team leader, slowing the pace down, also just getting everybody in their same position. I think he's still been LeBron, just doing it in a different way.",
+      "text_blocks": [],
+      "start_seconds": 177,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kentavious Caldwell-Pope on LeBron James: He is still being LeBron, just doing it in a different way. It is more being that team leader, slowing the pace down, and getting everybody in their same position.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kentavious Caldwell-Pope reflects on how LeBron James has evolved his leadership style and approach to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kentavious Caldwell-Pope",
+      "timestamp": "04:51",
+      "summary_phrase": "Kentavious Caldwell-Pope on the team's selflessness and ball movement",
+      "names_mentioned": [],
+      "excerpt": "It's all our selfishness, our willingness to pass the ball, find the open guy.",
+      "quote": "It's all our selfishness, our willingness to pass the ball, find the open guy. I think that's been the biggest emphasis for us, just hitting the open guy and just being able to play with each other.",
+      "text_blocks": [],
+      "start_seconds": 291,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kentavious Caldwell-Pope says the biggest emphasis for the team is our selfishness, our willingness to pass the ball, find the open guy. Just hitting the open guy and just being able to play with each other.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kentavious Caldwell-Pope explains the team's focus on selflessness and ball movement during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ntNAYK1wLlc",
+  "url": "https://www.youtube.com/watch?v=ntNAYK1wLlc",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-20T17:37:35Z",
+  "duration_seconds": 309,
+  "processed_at": "2026-10-20T18:27:37Z",
+  "run_id": "2026-10-20T1827Z-14utc",
+  "is_one_off": false
+}

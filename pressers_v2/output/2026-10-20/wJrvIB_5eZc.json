@@ -1,0 +1,185 @@
+{
+  "video_title": "Cavs Practice | Kenny Atkinson Media Availability | 10.20.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:16",
+      "summary_phrase": "Kenny Atkinson on team conditioning and fatigue management",
+      "names_mentioned": [],
+      "excerpt": "how quickly do we get fatigued, how long can we sustain, that's a big part of it",
+      "quote": "I would say conditioning. How quickly do we get fatigued, how long can we sustain, that's a big part of it. And then look at the connection, how's the team connecting. And then as it gets later, as it gets closer, we've really tilted towards execution, special situations. This past week we've been judging that, putting our guys in those situations, trying to get ready.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson says the Cavs are focusing on conditioning and fatigue management as they transition into late-stage preparation for the season.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's focus on conditioning and execution during practice sessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:46",
+      "summary_phrase": "Kenny Atkinson on the value of a continuous learning organization",
+      "names_mentioned": [],
+      "excerpt": "we're a continuous learning organization, who can we learn from",
+      "quote": "We're a continuous learning organization, who can we learn from. It's great about the coaches, our Coaches Association. We compete, but we're really close colleagues, we share. When we're not competing, we're a pretty tight-knit group.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kenny Atkinson discusses the collaborative nature of the NBA coaching fraternity and the value of being a continuous learning organization.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson describes the collaborative nature of the NBA coaching community.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:12",
+      "summary_phrase": "Kenny Atkinson on the rotation status of a missing player",
+      "names_mentioned": [],
+      "excerpt": "I had him pegged in as a rotation player",
+      "quote": "I had him pegged in as a rotation player. So he's going to be in the rotation, just he earned that with his play all summer.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kenny Atkinson confirms a player has earned a spot in the rotation after a strong summer performance.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson confirms that a specific player has earned a spot in the team's rotation based on summer performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:32",
+      "summary_phrase": "Kenny Atkinson on the importance of character in team building",
+      "names_mentioned": [],
+      "excerpt": "everyone they bring into this program is extremely coachable, high character",
+      "quote": "Everyone they bring into this program is extremely coachable, high character. They fit in the locker room. So I've been blessed since I've been here to the type of people they bring in. The player, the system fit, that's great, but maybe more importantly the characters they bring in.",
+      "text_blocks": [],
+      "start_seconds": 272,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson emphasizes that high character and coachability are the most important traits the organization looks for when bringing in new players.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the character and coachability of the players brought into the organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:47",
+      "summary_phrase": "Kenny Atkinson on the team's internal belief in taking steps",
+      "names_mentioned": [],
+      "excerpt": "the belief is we're good enough to take another step",
+      "quote": "Internally, that's the belief. The belief is we're good enough to take another step. Our job and our internal belief is we're not enough, we want more. So we just have a belief about it, belief in this group.",
+      "text_blocks": [],
+      "start_seconds": 347,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson says the internal belief within the Cavaliers is that the group is good enough to take another step forward this season.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson speaks about the team's internal belief and ambition to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:36",
+      "summary_phrase": "Kenny Atkinson on replacing injured players in the rotation",
+      "names_mentioned": [],
+      "excerpt": "I think best player, and then we have to work around that",
+      "quote": "I think best player, and then we have to work around that, kind of find out who you are. But we're lucky, we have really good depth in my opinion and we just go down the line. Our two-ways are playing great, they're going to help us.",
+      "text_blocks": [],
+      "start_seconds": 396,
+      "end_seconds": 414,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the team will rely on their depth to handle injuries, noting that their two-way players are playing great and will help the team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson explains how the team plans to utilize their depth to compensate for injured players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "wJrvIB_5eZc",
+  "url": "https://www.youtube.com/watch?v=wJrvIB_5eZc",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-20T18:10:21Z",
+  "duration_seconds": 454,
+  "processed_at": "2026-10-20T18:27:38Z",
+  "run_id": "2026-10-20T1827Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,184 @@
+{
+  "video_title": "Cavs Practice | James Harden Media Availability | 10.20.2026",
+  "speakers_seen": [
+    "James Harden"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "James Harden",
+      "timestamp": "00:18",
+      "summary_phrase": "James Harden on the intricacies of being an elite screen setter",
+      "names_mentioned": [],
+      "excerpt": "There's going to be times where Evan comes up and hits the bottom of the screen.",
+      "quote": "There's so much that goes into being an elite screener. Knowing who has the basketball, knowing who is guarding the ball, and basically trying to create an advantage. There's going to be times where Evan comes up and hits the bottom of the screen and so he wants to get out a little faster so he can be able to get to the rim. And there's going to be times where he actually has to instead of physical screening, hold the screen. So just communicating with him on those type of situations so he can see and understand them when they appear. I think that helps our offense a lot just because I'm able to get downhill, he's able to get the ball in the pocket, or we got lob or we got kickout opportunities.",
+      "verbatim_original_language": "",
+      "start_seconds": 18,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "James Harden says there is so much that goes into being an elite screener. He is focused on communicating with Evan Mobley to create advantages and open up the offense for the Cavs.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden discusses the technical aspects of screen setting and his chemistry with Evan Mobley during practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "James Harden",
+      "timestamp": "01:23",
+      "summary_phrase": "James Harden on Evan Mobley's unique athleticism and pace",
+      "names_mentioned": [
+        "Evan Mobley"
+      ],
+      "excerpt": "He has the athleticism and the pace to create an advantage or create separation.",
+      "quote": "I think just his athleticism, but it's his pace. He has the athleticism and the pace to create an advantage or create separation running into a basketball, into a ball screen. And once you got separation, then everything is available. Instead of a good screen, I can shoot it behind the screen. Now his man is trailing the play, now I can hit the ball in the pocket. So I think just his pace is what separates him from a lot of bigs in this league.",
+      "verbatim_original_language": "",
+      "start_seconds": 83,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "James Harden believes Evan Mobley's pace is what separates him from other bigs in the league. He says that pace creates separation and makes everything available for the offense.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden explains how Evan Mobley's unique pace and athleticism create offensive advantages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "James Harden",
+      "timestamp": "02:46",
+      "summary_phrase": "James Harden on building Evan Mobley's confidence for the season",
+      "names_mentioned": [
+        "Evan Mobley"
+      ],
+      "excerpt": "I think just ultimate confidence. He works extremely hard, he's focused, he wants to be great.",
+      "quote": "I think just ultimate confidence. He works extremely hard, he's focused, he wants to be great, which is the first mindset. So just building that confidence and making sure it's continuous, night in and night out. And of course, shots aren't going to be made every single night, but I think the overall mindset of dominating the game is the most important thing, which he's capable of doing on both ends at a high level. So I think building that confidence and keeping that confidence where it needs to be is going to be beneficial for our team.",
+      "verbatim_original_language": "",
+      "start_seconds": 166,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "James Harden is focused on building Evan Mobley's confidence for the upcoming season. He says the most important thing is maintaining the mindset of dominating the game on both ends of the floor.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden talks about the importance of building Evan Mobley's confidence to help him dominate on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "James Harden",
+      "timestamp": "03:24",
+      "summary_phrase": "James Harden on the importance of off-court chemistry with teammates",
+      "names_mentioned": [
+        "Evan Mobley"
+      ],
+      "excerpt": "I think off the court is the most important. Just hanging out, going to dinners.",
+      "quote": "I think off the court is the most important. Just hanging out, going to dinners, just small things like that, understanding each other. It translates, it's much easier to communicate on the court. Obviously we're both talented, so the communication helps anybody. And for him, he helps me on the defensive end, making communicating and having my back, and then offensively, just trying to get him as many easy points as possible because we do that, then our team is a lot better. It helps Jay, it helps Don, it helps our entire team.",
+      "verbatim_original_language": "",
+      "start_seconds": 204,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "James Harden emphasizes that off court chemistry is the most important factor for the team. He says hanging out and going to dinners makes it much easier to communicate on the court.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley",
+          "Jay",
+          "Don"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden highlights the importance of off-court chemistry and communication with his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "James Harden",
+      "timestamp": "04:11",
+      "summary_phrase": "James Harden on helping Evan Mobley find his role",
+      "names_mentioned": [
+        "Evan Mobley"
+      ],
+      "excerpt": "He has a dynamic that we were missing this last year.",
+      "quote": "I can only imagine how difficult it is for him having this thing here and then going overseas and killing, finding himself, and then having to find a role on the team. So I think pouring more into him, trying to help him figure out his role and where he's comfortable at, because he is very, very good and he's skilled and he can help us. And he has a dynamic that we were missing this last year. Getting downhill, being able to shoot, being able to pass the basketball, physicality at his size. So just trying to figure out and help him get a little bit more comfortable because I know how difficult it can be.",
+      "verbatim_original_language": "",
+      "start_seconds": 251,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "James Harden is working to help Evan Mobley find his role on the team. He says Mobley brings a dynamic they were missing last year including physicality and the ability to get downhill.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden discusses the challenge of helping Evan Mobley define his role within the team's offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "rvqmGJkSHYI",
+  "url": "https://www.youtube.com/watch?v=rvqmGJkSHYI",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-20T18:12:08Z",
+  "duration_seconds": 378,
+  "processed_at": "2026-10-20T18:27:39Z",
+  "run_id": "2026-10-20T1827Z-14utc",
+  "is_one_off": false
+}
