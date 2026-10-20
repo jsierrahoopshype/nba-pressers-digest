@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r pressers_v2/requirements.txt
-      - name: Known people (exact names): nba-headshots player list, quotes-lab people list
+      - name: Known people (exact names) from the nba-headshots player list and the quotes-lab people list
         run: |
           git clone -q --depth 1 --filter=blob:none --sparse https://github.com/jsierrahoopshype/nba-headshots "$RUNNER_TEMP/headshots"
           git -C "$RUNNER_TEMP/headshots" sparse-checkout set --no-cone /players/metadata/players_all.json
