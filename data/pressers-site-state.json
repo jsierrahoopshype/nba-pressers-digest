@@ -1,7 +1,7 @@
 {
  "og": {
-  "index": "245780f9db613c489226bb507f5e92899f0f277f",
-  "player-aaron-gordon": "9cfb09335850703f20058b8126de3a5bd6a8798f",
+  "index": "505d9c5b122a99412713b97be28e29a486ccb22e",
+  "player-aaron-gordon": "5dddf5ec92d6627b80d5b66b6accd27cff0c57e6",
   "player-aaron-nesmith": "b679174f604f648617270d051e718a14a8cee396",
   "player-aday-mara": "ca3aea7e492f3f0d673719be7bfb55e98a38d69d",
   "player-adem-bona": "72770e829d7f5125fb9f6d5960f174a15b1d9e7e",
@@ -10,16 +10,16 @@
   "player-aj-johnson": "cb664a3c7c4aafcb77258ff5d6f8bf9df67aea9a",
   "player-al-horford": "3edd7dba8fdc90e5daa52ae0896bc4eb3e9eff53",
   "player-alex-caruso": "d6b2e12a26de4eccdb6e8e7c9a651f57224b54dc",
-  "player-alex-morales": "e5d1099af58479f6adda0c959bf8bd75b01565c3",
+  "player-alex-morales": "f12af2c1ab8ad9e1330240cd04ece23f3fbff12b",
   "player-alex-sarr": "f42fccc71b7e5b9f9c47c669fdf21faf55627d4a",
-  "player-allen-graves": "f716ce3ae441ced005f1e96de06dbc7fb070ee9f",
+  "player-allen-graves": "1e8fea57962df2a60d1bb5ecc01ef962819a5c8a",
   "player-alperen-sengun": "34bc136d642af724dd2649899d4f8466679d2e14",
-  "player-alpha-diallo": "ee990af75e406f95a41e6c6b7ad10fecf2af8afb",
+  "player-alpha-diallo": "25e78368901998dcfb34d40c0cdfa6f283a67dbb",
   "player-amir-coffey": "215b4c1e44586d181406458d3862065c9252ea84",
   "player-andre-drummond": "62df61a50ce6d72551f4c6f5d55441960b14aae9",
-  "player-andre-miller": "c939b33fa20f744080e8fea47a8c821ffe0a9557",
+  "player-andre-miller": "facc019fdcc09222a5558e72031160c91e671201",
   "player-andrew-nembhard": "43a2ec92c4a0278bb022355cbcfc324b36b8dda2",
-  "player-andrew-wiggins": "71921ebec7e1ff6404151157dbcebd6178aff9fc",
+  "player-andrew-wiggins": "536e6bdf4ffc8e017f1864f1a521397600b7d587",
   "player-anfernee-simons": "cefd8b89961429c07a8efddd4ae4f6154f258317",
   "player-anthony-davis": "8050db671b34d183ea3bbd84918ef57bea701ae9",
   "player-anthony-edwards": "2fd8e8fe85c77b1e793c14e4f53952c21c5a3265",
@@ -32,13 +32,13 @@
   "player-bennedict-mathurin": "1066af1ca9e8e2c09d15bf9d565cccc5f4a61876",
   "player-bennett-stirtz": "ec7488d0feca5df30ee111cad4456ad29c10288c",
   "player-bilal-coulibaly": "1fa4558416fab75c0370b1bb0bc427260baffe9f",
-  "player-blake-griffin": "3bf7f9c6e2318d35565899bc7c51b5ceccd2212a",
+  "player-blake-griffin": "49b094593ec06484fb648b771b9c4eb1760518a6",
   "player-bogoljub-markovi": "99617907459d4a3a5430f875da2b09d1dbf965b9",
   "player-bol-bol": "3032fe690092909a858d0847842bf1e2e4d7527a",
   "player-bones-hyland": "cf0e29ca6f49a4e12d6a515fa72a3e9d94acb992",
   "player-braden-smith": "4228b33be2bad4134d462e02ccd7111ab5626d92",
   "player-bradley-beal": "e22c73798969cf61b918d87a5c46f9290ad9f2b0",
-  "player-branden-carlson": "4c3a87b352a07094390ed4d6456079522eb8477f",
+  "player-branden-carlson": "917db44c587c0fa770d2950d125d25375319cc22",
   "player-brandin-podziemski": "6464e4f02e7f67fa9c628d294de7a10afef4c64f",
   "player-brandon-boston": "a95e4af9a7d5506265589a5b536524d52a8f5be9",
   "player-brandon-clarke": "4c4dc4adc1c0da7adac0d3b1efdeec167ab9d190",
@@ -49,8 +49,8 @@
   "player-bronny-james": "870c78972f2822abff10d2afce83b2ecce5f887a",
   "player-brook-lopez": "db9fb962008c0887132c9c757c37617ed4c337f1",
   "player-brooks-barnhizer": "bc71b33eb8547167a46fb4aea7baad377866c032",
-  "player-bruce-brown": "e89a98cb2a1527c666c109f7919fc118dbff8cc1",
-  "player-bryce-hopkins": "3733cfed3accbced124eff5a4ded882cdfcb12dd",
+  "player-bruce-brown": "3de295728349e3964e8837423bc0c90e3a18063e",
+  "player-bryce-hopkins": "6227ea62cdfb2b7fe90c0dc8ee3d95e9ca614ba3",
   "player-bub-carrington": "fc20a773f529ddcb33b2d0fc842458b7eaee7add",
   "player-buddy-hield": "8f5f04fbb4f7198ecdeff0dea981d896a17f7c1f",
   "player-cade-cunningham": "5263a428bb3e67b7121d7511cc3e738565b25e6d",
@@ -58,10 +58,10 @@
   "player-caleb-martin": "68613e519cd264a96bbb996a776243e564408531",
   "player-caleb-wilson": "e79beb02289f9e0c8d16886b46e1a7311a00e7a3",
   "player-cam-christie": "64fad49309005f54f3a60be9cdbb4da681c1c494",
-  "player-cam-thomas": "8bc1fe18e5f8c109941c4ade3ba246b677c507e5",
-  "player-cam-whitmore": "0ed5c10473fa9ac802403ad773abcc081642c101",
+  "player-cam-thomas": "646785ed0b84f2e1f32759f75442ca486ca39a9b",
+  "player-cam-whitmore": "7d467bf499a0c12cd62f53bb88e1bf7d8b10b5cf",
   "player-cameron-carr": "422897758ad24930631c862bf42f6310984ee691",
-  "player-cameron-johnson": "7248200c22a66dd7329da2bac3e9579e6dd583ab",
+  "player-cameron-johnson": "06798d464463be6907bc65ed1d075a245ccb96eb",
   "player-caris-levert": "4ff594886057e909d7266301c246aa6dc13d5241",
   "player-carter-bryant": "f35fab6bbbbf87da0bee5ea90503bc889a5a4c1d",
   "player-cason-wallace": "b86f5a31e0a7d726bfc2b51c452199fed79a90e4",
@@ -70,11 +70,10 @@
   "player-chaz-lanier": "400a506423e14d8c6b220996f9710b8efbf899e9",
   "player-chet-holmgren": "1337e05f0012d67a9c87e28fe1a4eabe52c76fa2",
   "player-chris-boucher": "093740916a6a08b530e817c2634ef147b6ee4dc1",
-  "player-chris-dunn": "3011a08a75d915fb4aa3995d406449e36bfc2ea5",
   "player-chris-livingston": "b7dceb4cce4bd8f9a95e66f3e92c7e73d4bacde5",
   "player-chris-youngblood": "863cd2a0031a59877528a340df605d3e7a410d51",
-  "player-christian-anderson": "230992ca3a10c1fb2d7e727f29362a8da90e1bf0",
-  "player-christian-braun": "725c22484a6de00f3e577d5b20fed1469b21e666",
+  "player-christian-anderson": "adce0b2da541b1ab06fed92e16eeca80ff540b20",
+  "player-christian-braun": "e667af5e0af4da01a8c1c9f1937ebfde0850dc0e",
   "player-christian-wood": "778c833177c13984d5f0bdba0b6a03d602d3520f",
   "player-cj-huntley": "76cd5878c1394fc5df0ef269660dc43adb80ff52",
   "player-cj-mccollum": "c748953b5dbf31e984db83437ab521c07be1dd3d",
@@ -83,29 +82,28 @@
   "player-corey-kispert": "3523610d5c4548fbb5b658124425b451c143beda",
   "player-cormac-ryan": "09a30367299116fa7b80890745589b9d98d99933",
   "player-craig-porter-jr": "cdb06df6b132f488aede2d56ffb62715d424ac50",
-  "player-damian-lillard": "30878c68bfa28027f2affb69653dc1261037ad53",
+  "player-damian-lillard": "062d3b50d7879f2fc456863f459d6551b9d3b1a2",
   "player-danny-green": "c241062fece057339b432782fb9e42886e987ab6",
   "player-darius-garland": "76e4ace97882a3cf8b6cb000affa72e55b86bd67",
   "player-daron-holmes-ii": "359c1889da188c257b02bb87a1409fc77ef85676",
-  "player-dayron-sharpe": "f94bc73b85097648231a9fc4ff5627b4c4ebea4d",
   "player-dean-wade": "906dcb674fd069516503063171ce083a2bdf756e",
-  "player-deandre-ayton": "66be73f348913efb4a67d22ad3c2f5e6df05a9ab",
+  "player-deandre-ayton": "f78fbb3ba56e2bed5ecee5dbbaab413d53f8490f",
   "player-deandre-jordan": "257bfbe1b5e252c3380b259092f06b2a22d8bfda",
   "player-deanthony-melton": "2243f9bddbb927eaa144228e2b1e6676ce4459c3",
-  "player-demar-derozan": "13ab239bebb5b595144e004f9557070cf94af2af",
+  "player-demar-derozan": "3be3d310515b257117f6f2389e082c96e85c6438",
   "player-deni-avdija": "7bcb2c42f46e040cfbffe502e54ce0dd2068a257",
-  "player-dennis-schrder": "1f822c64d19d022c1ca528e169be5bec319e789f",
+  "player-dennis-schrder": "eca136a723e711523b80be2122979057fe5ab087",
   "player-dennis-smith-jr": "e50a8618e24eddd7665b31145c305237c3e48338",
   "player-derrick-jones-jr": "ac20e363ab50196b4b0b7e3298b3edd14b4b77cc",
   "player-desmond-bane": "3ef2a8af7e7c73ae868c1d47468edf61d7adfdd8",
-  "player-devin-booker": "710cc9316187ce1d4bbe422c17e58a52b1f67d31",
+  "player-devin-booker": "733554d55f3a7f7a524e5f92f4a37ed276d051b9",
   "player-devin-vassell": "8bc2dcd2f76e42c4797544db4114d17444fad1a6",
   "player-dewayne-dedmon": "10e98d4ac0aa265d437225cc5421faa8502776e8",
   "player-dillon-brooks": "03e8d9deef5f7188c2417955891f09716fb08074",
   "player-dillon-jones": "7c25652af0b3b00ecaa501693e6c9a2349e6b77e",
   "player-domantas-sabonis": "fe3af6d0537b1d36ba73dd1e9d78d40ba283266d",
-  "player-donovan-clingan": "478642f1fba83601323642715c2c1326dcfd24b1",
-  "player-donovan-mitchell": "95e0e5f47f8d812bb2b05e9de0c8ef1b00206548",
+  "player-donovan-clingan": "d712c4d4ad8139e7b106a7c4ab22a45d1ffd4a92",
+  "player-donovan-mitchell": "0a497b96aeb4d391eebd1d5eae07fd1f223f780f",
   "player-draymond-green": "b6400b799b7228bc2ec1949058d0b1affe3e50dd",
   "player-drew-eubanks": "234d25d86fdcf38db7cf1b59b7b083f0fe28703a",
   "player-drew-timme": "c06c1fcbd3426382f2c56af6b32362911c92716f",
@@ -116,31 +114,31 @@
   "player-dylan-windler": "6b273c50515b2196017551b40155ab690ee843f5",
   "player-egor-dmin": "f89e45e6afb18f569d82521c0898d367e5bb9901",
   "player-ej-liddell": "84881ca435756b979f7b98c79b000ea0999641fe",
-  "player-evan-mobley": "b7408fb317d427318f6b06c77b0a9aa32b973152",
+  "player-evan-mobley": "ceb42798a9a1cef5fc7e5facb871b81e3290562d",
   "player-felix-okpara": "319ab4753a5df914b9013dd4fc40ef8e0e7b17be",
-  "player-franz-wagner": "c18a08964c4be8cb67e991fd133216ddb20191e8",
+  "player-franz-wagner": "078c1a45c66de893bb3c593547e4080e411123b4",
   "player-fred-vanvleet": "75a0a7c326946e5fea1fbdf35dec09d0d0cf4efc",
   "player-gary-payton": "f681abe6b3e6fc184b484aea431e442eaa1dad28",
   "player-gary-trent-jr": "2779f985a895111cf69c782f6e86667b80b61f5f",
   "player-georges-niang": "562683d89af206828d28260b11ee28cfa80b5ff1",
   "player-giannis-antetokounmpo": "d96f1c22112758eb907176a4a1959f3839a26280",
-  "player-gradey-dick": "f868a3ba527ba0eab7fb7c955cffd7f824674713",
+  "player-gradey-dick": "59613f3f771815edc2c1d0b318c4a079defd74ee",
   "player-grant-williams": "2db3a96c8af80ee97b9d226a7362a36fd82150d1",
   "player-grayson-allen": "5e133916f3483bbf3255652e48cd6e15cadbf8da",
   "player-greg-monroe": "980d9b44a3b5386e2b8ec45668b0743198c1471f",
   "player-guerschon-yabusele": "5f036d5ff3b83bf438131e6a2588fdc40d67dbeb",
   "player-gui-santos": "70851d79b419ecfd1cda19036d250a59415f3cb5",
-  "player-hannes-steinbach": "e70b3fc5b8bc7d27e9edaaefcf6ea1020705f7d9",
+  "player-hannes-steinbach": "b445f9eb24909b838aa4b742e49a8ca0d56d6a8b",
   "player-harrison-barnes": "180283197e99483cdce439055d84331944f99a28",
   "player-hunter-tyson": "cbb052ecb772ea4235bc2873884bd6c6853b631c",
   "player-immanuel-quickley": "70e58a47dfcb7e719bf0cd977f3c62702235cafb",
   "player-isaac-okoro": "4244bd0501700722a627c3cf130ba86b989bfa3e",
   "player-isaiah-collier": "6be1b6239a2eeda0721f339fc68f32da5c8f7021",
-  "player-isaiah-hartenstein": "768ba0ef1eb8b93b50d94957b4d0e7189d7ba0f5",
+  "player-isaiah-hartenstein": "d0b87f17000a8bc1817939b422fa536b0835296d",
   "player-isaiah-joe": "f409956204bc56b4f002a43472bf52c0abb8ad53",
   "player-isiah-thomas": "5a30fa06bdb82400a0daea09e2e97eed25eaba50",
-  "player-ivica-zubac": "ae1e34c75e39f13ac6b82150da34ed0eda66986e",
-  "player-ja-morant": "687ad42500942e091a1e0135f9258170e36831c1",
+  "player-ivica-zubac": "b3941d8a7764c9841391cea81c183177ec7ddef7",
+  "player-ja-morant": "493bea0b4b1059a64efc9839f3a6a2d7fc469add",
   "player-jabari-smith-jr": "dce6e4e2de9b6dba7d7ed8e97825cc430daf170c",
   "player-jabari-walker": "f4d7a1700401d8e8a76013c272d2029a6b0ad7fc",
   "player-jaden-ivey": "25aa0917b0945b27644f87882bcb7b2d647ec426",
@@ -148,33 +146,33 @@
   "player-jae-crowder": "ac8d81331daddf5e9ba48e1c4651e7d81e2c43f6",
   "player-jaime-jaquez-jr": "57792ddc13df33701d22404d782c66450c106646",
   "player-jake-laravia": "7f018db12ddce4854f4b3a7e7af43a36e75d6ac5",
-  "player-jakob-poeltl": "e5c59d02a0bd58a5faa9cbd295b06c09c42fd5a8",
+  "player-jakob-poeltl": "4556575f085bac55647854881c6347c8a093c1f4",
   "player-jalen-bridges": "c5a0ed00f2f258cbe7bfab5b6a1661547e614c86",
-  "player-jalen-brunson": "021f73f012cbb03ecc2e91f6b58e4077ef2e1815",
+  "player-jalen-brunson": "c9df26c1e8e0be5d924128ad7336df54fa23884b",
   "player-jalen-duren": "f6df4f1891faee624e2d301af66d5450534bea33",
-  "player-jalen-green": "b278f6870848513a1ee4f9dfe3446b28830b9ac0",
-  "player-jalen-mcdaniels": "17f78af9d26a0b07a00e400524fa1cfefca7eb4f",
+  "player-jalen-green": "8d6eeead3b32cb3b70dd24688fc9c2a5248fddea",
+  "player-jalen-mcdaniels": "fb48857c7e7b28c205b150aa171078d9f182fca0",
   "player-jalen-smith": "a6f0e1b218ade9e6d0dab12bad8aef715834b6bb",
-  "player-jalen-suggs": "5bf7179e8bbe52b6dd602131f04acf7d454a35e0",
+  "player-jalen-suggs": "90369933a6c6685b06ff8a77012cb971f5a53c0e",
   "player-jalen-williams": "ae90442f9bc49aca00a81ea9358504ac59544a82",
-  "player-jamal-murray": "48982f489dbcdf07e69e175e877301e6cce3994f",
-  "player-jamal-shead": "f18d7ba9397e206359d603f91293addb8f6b1c38",
-  "player-james-harden": "faa7e6b788521369d5bd297ee822887526a7e38f",
+  "player-jamal-murray": "596559b3b79bb8ffb942dcc6599b266412965399",
+  "player-jamal-shead": "8f59e691571fa7f0010c9e537ed14ada92b67990",
+  "player-james-harden": "abad70618d7a9ef7a69e9d3520504950d8e1a794",
   "player-james-johnson": "103219441d9ac148c25293313194f3fd5f72e53b",
   "player-james-jones": "67365f575b77789b86e645ee6b853885c55ba2f4",
-  "player-james-wiseman": "e622483545e71ef09a407b7ed9a3426d6ebf7d53",
+  "player-james-wiseman": "d5801a1cefbc0e8b2804db736ae56aff183b20ba",
   "player-jarace-walker": "1bf0c632ee54034e576e589f7c61c3b9f1c5c797",
   "player-jared-mccain": "b220c2755ee94c6cb7793aeb3c3e56e5dfacab7f",
-  "player-jaren-jackson-jr": "8f003606467c81df773ac859a3e53f52d495c251",
+  "player-jaren-jackson-jr": "b63fa3e7a03e4296928bd7e05eeaaff29649f3be",
   "player-jarred-vanderbilt": "4d02b4cc990c7e5a8c2898185dc8d3aa22c5cf77",
-  "player-jarrett-allen": "ddf4ac26592dfb1d02e2622ca3b0e20ebf90f291",
-  "player-jarrett-jack": "cb0fadf2fb8ef686c8221b2d37f26dd5e958d2ba",
-  "player-jase-richardson": "477a5b966ea0cc82355e0d6f97c02058c0d8129a",
+  "player-jarrett-allen": "59d49169fb4fe0a7d726104bd9ccd24b57851aaf",
+  "player-jarrett-jack": "d3c5f3d83e13486c45ef8f344e475a2f4a7749ac",
+  "player-jase-richardson": "983c2f8727e3d2ab6235e0beef66cf114c356b29",
   "player-jaxson-hayes": "12cdd0f99f5482b08599c95f50e2e59e6e2b20c4",
   "player-jaylen-brown": "8d740bbed9014cb141f6d9d3295a7d9fe757ac9f",
   "player-jaylen-nowell": "6ecd609601ca13c7124f211c510663101d8c948b",
   "player-jaylin-williams": "1dcd69b8d2ccb3968309b638400a986a1ff1454c",
-  "player-jaylon-tyson": "348b230dbfd5ce99dd4f2399093bdc1e5df0de60",
+  "player-jaylon-tyson": "ed2a1714521c6655655e035458757e773a6b04de",
   "player-jayson-tatum": "e25c75802df95e7f76629a9c6bfa125fec9e4ebc",
   "player-jeremiah-fears": "51660d1671f142b5e2a3671d185e903c43eda3c3",
   "player-jeremiah-robinson-earl": "68daee8b93b365b579c6578d891f90f8fb7ed1bf",
@@ -191,7 +189,7 @@
   "player-jonathan-isaac": "140abc3e0b4309a25d9cacf4a64c1cf4101165c1",
   "player-jordan-clarkson": "f56d0cde2983e670660899d2d6eded26956c572d",
   "player-jordan-goodwin": "b1474f8d9547701f86d1152ccd9bca836ab749a4",
-  "player-jordan-poole": "c5347f011e9205a48e33f63653172b29b4e48648",
+  "player-jordan-poole": "0555b518791aaf50d815f94da38d2a18bd4f3508",
   "player-jose-calderon": "e7bf751e0a644435d00ef809e1e362358fe0f645",
   "player-josh-dix": "c2b35c6126c9f9a8b9d1eb23f3de85be40af4d82",
   "player-josh-giddey": "c5b7583619c24cc8b37b35304f27d8d0c97dac02",
@@ -200,16 +198,16 @@
   "player-jrue-holiday": "bae7a3c0fb11d06678b5c06fdc73f9942b6c1928",
   "player-julian-champagnie": "6e27f6e5628029249f185f2eec062478957cb93a",
   "player-julian-reese": "73fd965d89cad458f980aefd9267612df19ebdc7",
-  "player-julian-strawther": "de1859bcc273c56f0cd92b72965917e0d252638f",
+  "player-julian-strawther": "e679e578abc0c73d245e33b347881ef8d8ae0130",
   "player-julius-randle": "670440877399c4e5799855e6e40f8c73fc0e9425",
   "player-justin-champagnie": "b614940e561d36e7321b1abc24e1c13a8989fa76",
   "player-justin-edwards": "ba805a71c8766e76206789b52af95596876854fb",
   "player-kai-jones": "84cab2418b8d3d183413b087cc7ba354a8a43c2b",
   "player-kam-jones": "7f98d31767bd9fc5a2b387a2836e9e12d246e79e",
-  "player-karl-anthony-towns": "6df6460aea870967634500340656707032ee9fdd",
+  "player-karl-anthony-towns": "dfaf68e792ee12b06264e5fbe773c12c8d72ace3",
   "player-kasparas-jakuionis": "3fe101b488432116d6fde2de36b775ca9cbeb17d",
-  "player-kawhi-leonard": "f8c8ecd69b933188c9d28adfcb92d562b0b3498c",
-  "player-keaton-wagler": "2e2517a0e5d3916a0bce8acc1c2106bc5a33f9a4",
+  "player-kawhi-leonard": "db80a11219a42d2fee35d6c525e804840275684e",
+  "player-keaton-wagler": "408f34dbd3d2662e4d60111161d10664953b9217",
   "player-keaton-wallace": "cb8d5d229b0b3eb91b0a2a875274e88fbd56dd10",
   "player-keldon-johnson": "35772760129834d3ce1abc8a0f8415af5e877cd0",
   "player-kelel-ware": "9ecd179f46df6e42ddf699b4e46e71bffd3f9d8f",
@@ -220,7 +218,7 @@
   "player-kentavious-caldwell-pope": "f62ed5b39d148ddffac6cb3ddb22a0cc2e8cc0bd",
   "player-keon-ellis": "0ab5ab3c94c9048323c042d5606f1e0726aac674",
   "player-keon-johnson": "f24cb4e2c92c246e582a9fbbc4a63d4d5623d9dd",
-  "player-kevin-durant": "1fb109092fbd1757af827142c8f5cd7bd7904333",
+  "player-kevin-durant": "e35ffcc5c95cea6fd55c3d286dd1f0100dfc2408",
   "player-kevin-garnett": "3002e29a6bca0179b85a2a400324bd6c5e80774f",
   "player-kevin-huerter": "7509ab4539ce7cbcbcb830c04d67ff5d1a34437e",
   "player-kevin-knox-ii": "9be3d935ab631c9ac262751a347fd3dc5ce2afbb",
@@ -228,24 +226,24 @@
   "player-kevon-looney": "5de0198c8d38f0a5f47249fa9099407ef82e15d8",
   "player-keyonte-george": "0aefdcf76fb1a5ce01877ddf7555499a7e55ae4d",
   "player-khalifa-diop": "e96bd2a0324bb3c9aa7ad05f67d6836889df478e",
-  "player-khaman-maluach": "8f2176b9a906f234b88c40f4fbe507c35cf8b9eb",
-  "player-khris-middleton": "00de5ac750c43772968e265656e8f3eb2a578abc",
+  "player-khaman-maluach": "9a98d48bae9be8aa82f213fe0b49d156234ccd23",
+  "player-khris-middleton": "23ff6bb36106a4e1a4fc47cf355a7cb8b1f56f6b",
   "player-koa-peat": "2ecbd70aad58fac3090ff6e74210063b51aa504e",
   "player-kobe-brown": "645d041f4ba5a4dfda70fa108841144af040815d",
   "player-kobe-bryant": "247c37b241f3be23d83f70914867fdfc208a2a4a",
   "player-kobe-bufkin": "06f33416b7c4a3e9a9bd56be8f76b2d2813a6c1d",
-  "player-kris-dunn": "6a7a8f8d0611771ddfe8c0fa932f6e88e82119c9",
+  "player-kris-dunn": "e8b3998aee6e2441903a343e1dde89a00f5244be",
   "player-kyle-filipowski": "63abef308ca75e0492450022ec807098c6b7f7e0",
   "player-kyle-korver": "5562a01d7eb26e1562ce20a8f914a5c167d42551",
   "player-kyle-kuzma": "0f7fedd1b083297b662d9beae730adbacc711b92",
   "player-kyrie-irving": "291333db696c8abb38d58a3ffd6208ef27596c59",
   "player-kyshawn-george": "fffa4e8fdd0a06165eb010fc48dff5d1f46191af",
-  "player-labaron-philon": "d65fb13a9b2a45ea788eefc0855c6ff71c5accd0",
+  "player-labaron-philon": "80e3ecf9e5f509a720328e89a78a667ca234dc61",
   "player-lamelo-ball": "031740e4e9dcedb058c0db025ccdbeafc322db28",
   "player-larry-nance-jr": "60913283aa18e9565e001b9d3c527abeb04fc4f0",
-  "player-lauri-markkanen": "baa0c21178cd55f8b591ee5b4de4044c61559eae",
-  "player-lebron-james": "9a096c4ef6cce1abd1e444563122a022982410b5",
-  "player-liam-mcneeley": "514013c5f11a75bc2dc124b9e44a6e2ad5e451a1",
+  "player-lauri-markkanen": "55c71f6a6524e337db16eeebbe81970bf603ab81",
+  "player-lebron-james": "a20a2004294481fc29513863beca5d11e6aca867",
+  "player-liam-mcneeley": "831958506a78a4d0975945340a15c5445a84ed54",
   "player-luguentz-dort": "f773894247dfa6de660a65c996dbaab3e7c13a84",
   "player-luka-doni": "8696fe4706b301b908046cc6ef2aa1e344d4fe00",
   "player-luka-garza": "cbfe1f1045c6a070ace35da44b88b99a1fe4ae19",
@@ -253,7 +251,7 @@
   "player-malik-beasley": "6687c23c1fdbd1563d34ddf4ca25f0fafd3e553e",
   "player-mario-hezonja": "2f998ddd9ae06985952dca3b3a14a2126115e986",
   "player-mark-williams": "d1466d3869824b6bc10c8b97e4092001bd1b8a08",
-  "player-marvin-bagley-iii": "98724a371e675039be0b00c68ee6f98efa08e6a3",
+  "player-marvin-bagley-iii": "522ef7b29fe9f274c2a2510080a34f9aa64c6454",
   "player-matisse-thybulle": "2b678cc9cb780d80d3b7416943bb1db2dce6f718",
   "player-max-christie": "34fb13a043739cef84685daefdc3090128de9b12",
   "player-max-strus": "093c9584715f1eca8c7104bdd3646ffcb287361f",
@@ -261,12 +259,13 @@
   "player-micah-potter": "b25ac446915c733629361f277a98cbe19874f037",
   "player-michael-ajayi": "e33ee42da6aff79ee2d496229002dad70cf9cb36",
   "player-michael-porter-jr": "8711e74aedf673224105248dc54cf6b26c2e631e",
-  "player-mikal-bridges": "7685b22946658445c850b76c0cb5dbca9175749d",
+  "player-mikal-bridges": "7a128844b6da07f538a77be1829351517b21ca99",
   "player-mike-conley": "d2b6b0420a46580782809f004ab6fb65b143f436",
-  "player-mikel-brown-jr": "690fc27c1fcb47b0763e4b7b99dd4e0aafce8c19",
+  "player-mikel-brown-jr": "f78feb2e41b26cf69df7cdb88c21c3809f093847",
+  "player-mikel-brown-jr-2": "690fc27c1fcb47b0763e4b7b99dd4e0aafce8c19",
   "player-miles-bridges": "589e09734a175bd266d16bce09eba69f1099e1a3",
   "player-miles-mcbride": "9082b3b7481638876d94fcef96f433222f75a89b",
-  "player-mitchell-robinson": "2db6b89232d3be66fe35ec299ffc0d4d3e8273e1",
+  "player-mitchell-robinson": "f383ecdfc418373f6d6b665f033179903f5f833c",
   "player-mo-bamba": "2eba96479339dec9ad165f1bbb82fd1d9500a278",
   "player-monte-morris": "ad6b330f77f1a3451b3c0b040c6cb06af1185503",
   "player-moritz-wagner": "11024761f58b8ce437c3fa466369e4f87c096b0f",
@@ -277,18 +276,18 @@
   "player-nate-williams": "d1bd9e63d8599e7178166891af049a9fd2740c93",
   "player-naz-reid": "40eac4cdb84aeca8ebb3d69e666689f395174e89",
   "player-nick-smith-jr": "27f661403285153c591d072f83c4b0351935dee5",
-  "player-nikola-joki": "b2da68cea0b6061f38977b84d2cbd31e4c7c9ee6",
+  "player-nikola-joki": "873e925c8a49ac063c3ea1897369d846d88d4eec",
   "player-nikola-vuevi": "f521029d2bb56244a7ab5d1aa757a712189c3a8f",
-  "player-noah-penda": "adbfa64e13387bf8556af794aa4107422d5bedac",
+  "player-noah-penda": "d44b314e4f128618415107a9145320fa64e3791a",
   "player-norman-powell": "b6f8c68c79b20617874ce608a55a908fc8be893c",
   "player-obi-toppin": "377fcfda39eb35fcf3ed0fa15f5cd963b5ced45d",
   "player-ochai-agbaji": "e1eb324cb8dcd054e84edd88f138b9772b96b772",
-  "player-og-anunoby": "032bc5a845a044cb674df6e294b9966802ab1c37",
+  "player-og-anunoby": "ce35d1fc9874dcc58d108c95382cdce8194d4715",
   "player-onyeka-okongwu": "40f47c7a298302bf084da281f2135e4bebe28b84",
   "player-oso-ighodaro": "c8fd0474e5448264ef9f87a06ef853b8f7f3a6f1",
-  "player-otto-porter-jr": "b5d7f6e1d830a11930c9893424c22166ca5b20df",
+  "player-otto-porter-jr": "619640f917bef230f0f24d96db54d624bebbf803",
   "player-ousmane-dieng": "053e89f08cdc8982d5f27218bda9e024adab0a30",
-  "player-paolo-banchero": "c7796e29c3fe4830f2f6be8bbd2a215e9335342c",
+  "player-paolo-banchero": "ae47e35b0ca4c07d2769622b374eb881279d9d56",
   "player-pascal-siakam": "15eb511fb053610e8c0128a29458320e13b11a65",
   "player-pat-connaughton": "6386a7e282958ea375f06511e4f31ac7308c3b5d",
   "player-patrick-ewing": "c37e310eace4e8639329e9c5e64447d953ed3ae2",
@@ -296,71 +295,71 @@
   "player-paul-reed": "17582f6ea50031da1d1657a3283a5d85bd21281b",
   "player-payton-pritchard": "db0f7b39b2444adc9249e7aae3ad47cfae601aea",
   "player-pete-nance": "e4c0c989cc0b202483781cb8dfb1fa991f16bbf8",
-  "player-peyton-watson": "c2ec9221678f4ceb3a81055b5ec51cd7bceba269",
+  "player-peyton-watson": "2fff78e4599dc8964b3fcae94d48b92623605a22",
   "player-pj-hall": "10b1088352e7b02f8bb06cbab45796ad94caf06f",
   "player-quentin-grimes": "a193e00f025442e485f8ecb2de46c22fbbad387a",
   "player-quenton-jackson": "e20e497c08ddb98ec47cb45102c681cde2c6e61a",
   "player-rajon-rondo": "51d87fbbee4c55b200e3ea89e0427f32ad693d98",
   "player-rasheed-wallace": "9746c00883633f9fd8dbd5296ae07e38a498e0ff",
-  "player-rasheer-fleming": "ba235769349d878bc4654fb423bca4ece513fffd",
+  "player-rasheer-fleming": "070556c3e946f2e59f05e423f266a3280340c345",
   "player-rayan-rupert": "592ed7494c00b3dc1b96fe9d9f70f07aba1eefe5",
   "player-rj-barrett": "2f1221425566034043974f5781eb23d56d79ed9c",
-  "player-robert-williams-iii": "24ece708ec79afa0acd46d1601f9a5489a348723",
+  "player-robert-williams-iii": "b2cf5edf9904524773d7a63515b18c7389ba1005",
   "player-ronald-holland-ii": "b270ce947a702ec7a3d9b0f803d0b1932aa4b9fb",
   "player-royce-oneale": "14466166212b0bb835c95afb1eef8c0293bff5b2",
   "player-rudy-gobert": "3c569fe38231064d0f741110e7d8ae9bef61203b",
   "player-rui-hachimura": "bb01f618d92aea121967718ba924584e397e4091",
   "player-russell-westbrook": "f3c44df2fe7a11ef1aec722f9a54d97b52b13325",
   "player-ryan-dunn": "e2f373369ed19c40ef869216571ab7709b77b10c",
-  "player-ryan-nembhard": "fab9162641220fe4504621f75376aa4baa1b779e",
+  "player-ryan-nembhard": "7c1bacebce064c8c9b7805b7965a7b01ba4c7485",
   "player-ryan-rollins": "62f1c8a49058b6f887e6664cabd8188968d6b8e0",
-  "player-sam-merrill": "6de44a339d219034bcc74d427ccf0687e536642c",
+  "player-sam-merrill": "b46b7a4b2e3dae8aa88779c8515c91339550a7e5",
   "player-sandro-mamukelashvili": "a6ace3c26e6f832ad53eeb72b33c7e20cc186c02",
   "player-scoot-henderson": "b0590bc936e804256e3d810a9cc157ce44f839cb",
-  "player-scottie-barnes": "0b8d4404f34a6a6fc92d596f6db19ce1d9dfc0de",
+  "player-scottie-barnes": "25429d80df3045f8c94b8253dfd7957b589ac336",
   "player-shaedon-sharpe": "3d1f850281cc6c24733ae2bff37905f0e523a03a",
   "player-shai-gilgeous-alexander": "767a03a5e0728d3abd16d0a5cc8fdf65a82f2722",
   "player-sidy-cissoko": "b8f1ee23725905e1da7c0d4fd582ecb8de69efa6",
   "player-simone-fontecchio": "2d233051ddda5351ee81208c09ded884d05c9e9b",
-  "player-spencer-jones": "b2cccf56f18dfc6277dd25d05594a9cb5c33efb8",
+  "player-spencer-jones": "84fad173bc836e6a929c161565b09d1a3fbf7823",
   "player-stephen-curry": "665d5eab29b2ef0ea5952a31342b88ead48c6276",
   "player-stephon-castle": "5d14a6f0a0151988e865b5e90ab2cc183311e813",
   "player-steve-kerr": "793a456bb929ae5888ec6061c57121b590228b26",
   "player-steve-nash": "a3d8dff84a480e636933ee300e71c17cbea77d54",
   "player-taj-gibson": "0655bd7fb376525bb47c7fd586553672a775d682",
   "player-tarris-reed-jr": "81dd00eac15537c36b93b906601b30e0d80d84d8",
-  "player-taurean-prince": "8e890ed24d5106b5ee80faa8627f5475bdf4ba8a",
+  "player-taurean-prince": "4053127a429ab00235e860cf19f9c9054b07d85c",
   "player-terance-mann": "2a399629b27ffb5409bd402fc9d5d06cff50ed12",
   "player-terrence-shannon-jr": "a9dc13a9f0b312c3c6933c77608b89bc37ca7c1f",
-  "player-thomas-bryant": "04c1973c0ecf6f011786332440fb7582a49a984e",
+  "player-thomas-bryant": "a78c1826dd6db1b8c5a1acd9c74ab0855faf8a4c",
   "player-tiago-splitter": "03b33491082a7778b0d7b0f285fd3e0d390cd9f5",
   "player-tidjane-salan": "6735aefd26e4cfb5a9918fc50999e7b6de22aef0",
   "player-tim-duncan": "4825668978d27a34b1ec09bd2da39469bf73aaa9",
-  "player-tim-hardaway-jr": "32f1b52d2e04747c86644a0e9c3a0376dccfb809",
+  "player-tim-hardaway-jr": "638af25acee093c3cef73ada12e7d981e27d4a81",
   "player-tj-mcconnell": "3ae8bf7b828e6ba752924ee3326939328e758d34",
   "player-tobias-harris": "5a75fe41370e2e57a4b4ab63eb3d8f6f16e5637a",
   "player-tolu-smith": "8ee81b92b38dda6e11155061d2d555512c893870",
-  "player-toumani-camara": "d69b5bf8e73223c7cbc8d2d8b608f3a99659dcba",
+  "player-toumani-camara": "c6bf5a4fe7e32534fe22c876f54b8c7c34a2ae5a",
   "player-trae-young": "8e958220bdc762cd3c4a0b985c6f5047d952c8d1",
   "player-trayce-jackson-davis": "0a85e4aa0342c41a40f9ffdf130203eeacb373a2",
   "player-tre-johnson": "100b9feda081352ae80970df42b09ea4146d6140",
-  "player-tre-mann": "b894ccf682657b1752e63892b96033f064d702cc",
-  "player-trevon-brazile": "a9b7a8ca2374f7fa49b1c1c4c433183653a47d3b",
+  "player-tre-mann": "395377aef4d4b03d2eb65f6ba775eafac2eec84e",
+  "player-trevon-brazile": "d2bb01b7f474701ba8772936066a1994c08e013b",
   "player-trey-lyles": "cdfe8fc9716dbbd4ee03c2459b1ab473aeb9de50",
   "player-trey-murphy-iii": "68920d2d1c31fa38950a82b18a2431bcbf69b640",
-  "player-tristan-da-silva": "5b2211e5f3fed04a7b4cabe09fc91ccdde378171",
+  "player-tristan-da-silva": "4d8e55b51f3d71b5ab35b88fa1898b64ecdf3320",
   "player-ty-jerome": "e1f65cdf25786014205044347dce8cc721255992",
   "player-tyler-herro": "381e38ff3453e481a8d1f75fb33f3de7eeac9bca",
   "player-tyler-smith": "fe4e828662b84bc2f3f0c2bfcb78ab873e7b2d87",
   "player-tyrese-haliburton": "05392aade73f014e5327f4ef85bcc2cc8a8a2dc3",
   "player-tyrese-martin": "36ae9e2517ab9407bd318667f251dfdce5973a12",
-  "player-tyrese-maxey": "10f1262aef8cb09677de352746f512882bb20324",
-  "player-tyronn-lue": "99beec182e935739c8aa391072a3f6c03ec733b7",
+  "player-tyrese-maxey": "0166f0e65b6becf36c97d963eb166c9a7e20d94a",
+  "player-tyronn-lue": "ebe84adc0471e62992d44243891ec715c4917c64",
   "player-tyson-chandler": "2f86fd6c2e3dfa61098b6c9be6646093b0ebee4d",
-  "player-tyus-jones": "54268d80df4a237db265357d963e2d623a180622",
+  "player-tyus-jones": "e566ec0fb02d90a87c06ee1594e97d6b90f8869a",
   "player-victor-wembanyama": "d196186f2810c69a754f07c5d36994f83a6bf3cc",
   "player-vince-carter": "c52cb2f580a87c758c18cef85797521b0ac94bd4",
-  "player-vj-edgecombe": "95c9a2e87108c0b2e3616717c1c5b6c8427dcccd",
+  "player-vj-edgecombe": "0e0e3f1bc794d1eadc313e3b2340c1dd120d696e",
   "player-walker-kessler": "44ed27d15736d604c76d456b01252257c7335d4c",
   "player-wendell-carter-jr": "2abab2a6e135306b1e94a48e684eef4812b12b18",
   "player-will-richard": "06e7a17e0d714e8b36e7bc47992d90531726e52e",
@@ -371,47 +370,47 @@
   "player-zach-lavine": "9d865b2826953365cfe290a06170ebba346aad17",
   "player-zion-williamson": "854400b8daf49baed4c0bbd1724d12134397aed1",
   "player-zuby-ejiofor": "8ecdd99380d0592c51ab3e142a34be87b1f0bc7d",
-  "team-atl": "705ea58452de493c51167c108701bb7cef5d7ddd",
-  "team-bkn": "c104409267642e3540e720b44d58a414cbc64470",
+  "team-atl": "3e594bce4b46b83dc62f9fa1f172e62482775719",
+  "team-bkn": "3d18d94cacbaa7fa16eeb130d1c072d18b5ddb7c",
   "team-bos": "60ec79d78760678a500c5028dd11bf4289603fe3",
-  "team-cha": "4f84b602ea866e6304f14674f0d69942d6063418",
-  "team-chi": "f563f8b411ee7804f6c74012ad69fba608286dcd",
-  "team-cle": "fa2b67676e378e95cfc3c2baf6cbd5bb8f7f90ac",
+  "team-cha": "563b4831564f80b218b48197d20b643f5fcb3312",
+  "team-chi": "f1b887c6bcff641a67ef0218190f777372933e30",
+  "team-cle": "7aab3bede7b9c8722a81ced24f36c60407f9d709",
   "team-dal": "7fc48287a2d12cfedd40c9e68020d344c6ffd3e9",
-  "team-den": "ad3996063ca1475075932baa4dfa240b6b120184",
-  "team-det": "79ab4e873cbfe68cc081f8e846a44607558cb974",
-  "team-gsw": "57454c8e9d40de3e0449f811de5626308f5d21fc",
-  "team-hou": "acb9e9604e9f3c8866578e7791931aa6b76ab677",
-  "team-ind": "5bfe3d42b49c53fd5307c4e268450f15ccd20d7f",
-  "team-lac": "2e8b463052d90a661ce3bbdee721c6bcab42b546",
-  "team-lal": "b640f056f86f2a93de3644c89bde2ee8b31002f4",
-  "team-mem": "349335ad1a85b94c3cb366bfa09821c1b9e75440",
-  "team-mia": "22b4a55b3620d456f691ceb9a99f584e34eee0ed",
+  "team-den": "d67470ef2c0c8f9361984d7195961858596507b5",
+  "team-det": "0ae6f23e7642e5f8b687e04961c15526335ba04b",
+  "team-gsw": "bdbd80173dfc6c4d68fbd461d8ee1d40df22d3a5",
+  "team-hou": "f5928fd6e22da676c1f2a2177f26c1b376617b0f",
+  "team-ind": "20d9f2fea210c8d6c391806eaad6a82e702980f3",
+  "team-lac": "9b1beb6595e3f0f8ba9b53afaacf559ea837d207",
+  "team-lal": "159200ffa2871e646bf60addfa247c15408c77dd",
+  "team-mem": "86d1c5ad01bbe08d3eac521e228683cf7c40adc9",
+  "team-mia": "c29ee8205786eaa6cd023769a7ca50110820a102",
   "team-mil": "229286a4f21da13f37847a172242bb927222b800",
   "team-min": "8b478661d6078d52f5d53c80ebb068db87050749",
   "team-nop": "4e8d99bc569d1563f75894afe12f84f3868a0ab8",
-  "team-nyk": "fddd28e24e93e086ce61c066f95acdbec845324a",
-  "team-okc": "63fcf73d064151d20451203d99ff602189f4f0ac",
-  "team-orl": "eec9adcc23989189a2cb9837ed0fd093963b518e",
-  "team-phi": "50ef7aff3552a447f41153ec585ba0c289a915ca",
-  "team-phx": "c170e85be4ea5f6457676e439ce55e197d6bd766",
-  "team-por": "dc61fa51208dae60b79399ccdded4797b6cde382",
+  "team-nyk": "fba68bc4f6f806a485617fb92e0f00b5ebad7872",
+  "team-okc": "a5f6947c143c9c6d4e7acceb7e779904ce6563a9",
+  "team-orl": "e69a909c0405ce71be95eae2c796fedced848917",
+  "team-phi": "338279488501d13661a0a0920d769dd16710d48d",
+  "team-phx": "ed32ff2a0d8f6be1b1257a1b4ee1035855c74576",
+  "team-por": "c7fc6370061b923303555cb96dc4e71b5a2cdaf9",
   "team-sac": "46c1a9b016b474de5c584cda116eac5afa13ed5c",
   "team-sas": "f90a6899df7ea2e38caa3341ed4442e522c785b6",
-  "team-tor": "e3eb95b72f4362b9de6ea9b96710b7b268d10582",
-  "team-uta": "edd84f339bb8a61c410a969dcf7603aecb741572",
-  "team-was": "5c8e11b87fbb407c33c66b8a750c8d006be6d9bf",
+  "team-tor": "36dbf5e48f41ff8913fc0ff5b6f84f875bbfbb14",
+  "team-uta": "72cb1e651b387d4f1eca46895dc07b25b8bef301",
+  "team-was": "39912321b9f3b6061ab2aa6e317d28b262f2fc4e",
   "teams": "d2c9b36d4239f6b8f6a8dd867c89dfd643f3b018"
  },
  "pages": {
   "pressers/": {
    "eligible": true,
-   "hash": "245780f9db613c489226bb507f5e92899f0f277f",
+   "hash": "505d9c5b122a99412713b97be28e29a486ccb22e",
    "lastmod": "2026-10-20"
   },
   "pressers/players/aaron-gordon/": {
    "eligible": true,
-   "hash": "9cfb09335850703f20058b8126de3a5bd6a8798f",
+   "hash": "5dddf5ec92d6627b80d5b66b6accd27cff0c57e6",
    "lastmod": "2026-10-20"
   },
   "pressers/players/aaron-nesmith/": {
@@ -456,7 +455,7 @@
   },
   "pressers/players/alex-morales/": {
    "eligible": false,
-   "hash": "e5d1099af58479f6adda0c959bf8bd75b01565c3",
+   "hash": "f12af2c1ab8ad9e1330240cd04ece23f3fbff12b",
    "lastmod": "2026-10-20"
   },
   "pressers/players/alex-sarr/": {
@@ -466,7 +465,7 @@
   },
   "pressers/players/allen-graves/": {
    "eligible": false,
-   "hash": "f716ce3ae441ced005f1e96de06dbc7fb070ee9f",
+   "hash": "1e8fea57962df2a60d1bb5ecc01ef962819a5c8a",
    "lastmod": "2026-10-20"
   },
   "pressers/players/alperen-sengun/": {
@@ -476,7 +475,7 @@
   },
   "pressers/players/alpha-diallo/": {
    "eligible": true,
-   "hash": "ee990af75e406f95a41e6c6b7ad10fecf2af8afb",
+   "hash": "25e78368901998dcfb34d40c0cdfa6f283a67dbb",
    "lastmod": "2026-10-20"
   },
   "pressers/players/amir-coffey/": {
@@ -491,7 +490,7 @@
   },
   "pressers/players/andre-miller/": {
    "eligible": false,
-   "hash": "c939b33fa20f744080e8fea47a8c821ffe0a9557",
+   "hash": "facc019fdcc09222a5558e72031160c91e671201",
    "lastmod": "2026-10-20"
   },
   "pressers/players/andrew-nembhard/": {
@@ -501,7 +500,7 @@
   },
   "pressers/players/andrew-wiggins/": {
    "eligible": false,
-   "hash": "71921ebec7e1ff6404151157dbcebd6178aff9fc",
+   "hash": "536e6bdf4ffc8e017f1864f1a521397600b7d587",
    "lastmod": "2026-10-20"
   },
   "pressers/players/anfernee-simons/": {
@@ -566,7 +565,7 @@
   },
   "pressers/players/blake-griffin/": {
    "eligible": false,
-   "hash": "3bf7f9c6e2318d35565899bc7c51b5ceccd2212a",
+   "hash": "49b094593ec06484fb648b771b9c4eb1760518a6",
    "lastmod": "2026-10-20"
   },
   "pressers/players/bogoljub-markovi/": {
@@ -596,7 +595,7 @@
   },
   "pressers/players/branden-carlson/": {
    "eligible": true,
-   "hash": "4c3a87b352a07094390ed4d6456079522eb8477f",
+   "hash": "917db44c587c0fa770d2950d125d25375319cc22",
    "lastmod": "2026-10-20"
   },
   "pressers/players/brandin-podziemski/": {
@@ -651,12 +650,12 @@
   },
   "pressers/players/bruce-brown/": {
    "eligible": false,
-   "hash": "e89a98cb2a1527c666c109f7919fc118dbff8cc1",
+   "hash": "3de295728349e3964e8837423bc0c90e3a18063e",
    "lastmod": "2026-10-20"
   },
   "pressers/players/bryce-hopkins/": {
    "eligible": true,
-   "hash": "3733cfed3accbced124eff5a4ded882cdfcb12dd",
+   "hash": "6227ea62cdfb2b7fe90c0dc8ee3d95e9ca614ba3",
    "lastmod": "2026-10-20"
   },
   "pressers/players/bub-carrington/": {
@@ -696,12 +695,12 @@
   },
   "pressers/players/cam-thomas/": {
    "eligible": false,
-   "hash": "8bc1fe18e5f8c109941c4ade3ba246b677c507e5",
+   "hash": "646785ed0b84f2e1f32759f75442ca486ca39a9b",
    "lastmod": "2026-10-20"
   },
   "pressers/players/cam-whitmore/": {
    "eligible": true,
-   "hash": "0ed5c10473fa9ac802403ad773abcc081642c101",
+   "hash": "7d467bf499a0c12cd62f53bb88e1bf7d8b10b5cf",
    "lastmod": "2026-10-20"
   },
   "pressers/players/cameron-carr/": {
@@ -711,7 +710,7 @@
   },
   "pressers/players/cameron-johnson/": {
    "eligible": true,
-   "hash": "7248200c22a66dd7329da2bac3e9579e6dd583ab",
+   "hash": "06798d464463be6907bc65ed1d075a245ccb96eb",
    "lastmod": "2026-10-20"
   },
   "pressers/players/caris-levert/": {
@@ -754,11 +753,6 @@
    "hash": "093740916a6a08b530e817c2634ef147b6ee4dc1",
    "lastmod": "2026-10-20"
   },
-  "pressers/players/chris-dunn/": {
-   "eligible": true,
-   "hash": "3011a08a75d915fb4aa3995d406449e36bfc2ea5",
-   "lastmod": "2026-10-20"
-  },
   "pressers/players/chris-livingston/": {
    "eligible": false,
    "hash": "b7dceb4cce4bd8f9a95e66f3e92c7e73d4bacde5",
@@ -771,12 +765,12 @@
   },
   "pressers/players/christian-anderson/": {
    "eligible": true,
-   "hash": "230992ca3a10c1fb2d7e727f29362a8da90e1bf0",
+   "hash": "adce0b2da541b1ab06fed92e16eeca80ff540b20",
    "lastmod": "2026-10-20"
   },
   "pressers/players/christian-braun/": {
    "eligible": true,
-   "hash": "725c22484a6de00f3e577d5b20fed1469b21e666",
+   "hash": "e667af5e0af4da01a8c1c9f1937ebfde0850dc0e",
    "lastmod": "2026-10-20"
   },
   "pressers/players/christian-wood/": {
@@ -821,7 +815,7 @@
   },
   "pressers/players/damian-lillard/": {
    "eligible": true,
-   "hash": "30878c68bfa28027f2affb69653dc1261037ad53",
+   "hash": "062d3b50d7879f2fc456863f459d6551b9d3b1a2",
    "lastmod": "2026-10-20"
   },
   "pressers/players/danny-green/": {
@@ -839,11 +833,6 @@
    "hash": "359c1889da188c257b02bb87a1409fc77ef85676",
    "lastmod": "2026-10-20"
   },
-  "pressers/players/dayron-sharpe/": {
-   "eligible": false,
-   "hash": "f94bc73b85097648231a9fc4ff5627b4c4ebea4d",
-   "lastmod": "2026-10-20"
-  },
   "pressers/players/dean-wade/": {
    "eligible": true,
    "hash": "906dcb674fd069516503063171ce083a2bdf756e",
@@ -851,7 +840,7 @@
   },
   "pressers/players/deandre-ayton/": {
    "eligible": true,
-   "hash": "66be73f348913efb4a67d22ad3c2f5e6df05a9ab",
+   "hash": "f78fbb3ba56e2bed5ecee5dbbaab413d53f8490f",
    "lastmod": "2026-10-20"
   },
   "pressers/players/deandre-jordan/": {
@@ -866,7 +855,7 @@
   },
   "pressers/players/demar-derozan/": {
    "eligible": true,
-   "hash": "13ab239bebb5b595144e004f9557070cf94af2af",
+   "hash": "3be3d310515b257117f6f2389e082c96e85c6438",
    "lastmod": "2026-10-20"
   },
   "pressers/players/deni-avdija/": {
@@ -876,7 +865,7 @@
   },
   "pressers/players/dennis-schrder/": {
    "eligible": true,
-   "hash": "1f822c64d19d022c1ca528e169be5bec319e789f",
+   "hash": "eca136a723e711523b80be2122979057fe5ab087",
    "lastmod": "2026-10-20"
   },
   "pressers/players/dennis-smith-jr/": {
@@ -896,7 +885,7 @@
   },
   "pressers/players/devin-booker/": {
    "eligible": true,
-   "hash": "710cc9316187ce1d4bbe422c17e58a52b1f67d31",
+   "hash": "733554d55f3a7f7a524e5f92f4a37ed276d051b9",
    "lastmod": "2026-10-20"
   },
   "pressers/players/devin-vassell/": {
@@ -926,12 +915,12 @@
   },
   "pressers/players/donovan-clingan/": {
    "eligible": true,
-   "hash": "478642f1fba83601323642715c2c1326dcfd24b1",
+   "hash": "d712c4d4ad8139e7b106a7c4ab22a45d1ffd4a92",
    "lastmod": "2026-10-20"
   },
   "pressers/players/donovan-mitchell/": {
    "eligible": true,
-   "hash": "95e0e5f47f8d812bb2b05e9de0c8ef1b00206548",
+   "hash": "0a497b96aeb4d391eebd1d5eae07fd1f223f780f",
    "lastmod": "2026-10-20"
   },
   "pressers/players/draymond-green/": {
@@ -986,7 +975,7 @@
   },
   "pressers/players/evan-mobley/": {
    "eligible": true,
-   "hash": "b7408fb317d427318f6b06c77b0a9aa32b973152",
+   "hash": "ceb42798a9a1cef5fc7e5facb871b81e3290562d",
    "lastmod": "2026-10-20"
   },
   "pressers/players/felix-okpara/": {
@@ -996,7 +985,7 @@
   },
   "pressers/players/franz-wagner/": {
    "eligible": true,
-   "hash": "c18a08964c4be8cb67e991fd133216ddb20191e8",
+   "hash": "078c1a45c66de893bb3c593547e4080e411123b4",
    "lastmod": "2026-10-20"
   },
   "pressers/players/fred-vanvleet/": {
@@ -1026,7 +1015,7 @@
   },
   "pressers/players/gradey-dick/": {
    "eligible": true,
-   "hash": "f868a3ba527ba0eab7fb7c955cffd7f824674713",
+   "hash": "59613f3f771815edc2c1d0b318c4a079defd74ee",
    "lastmod": "2026-10-20"
   },
   "pressers/players/grant-williams/": {
@@ -1056,7 +1045,7 @@
   },
   "pressers/players/hannes-steinbach/": {
    "eligible": true,
-   "hash": "e70b3fc5b8bc7d27e9edaaefcf6ea1020705f7d9",
+   "hash": "b445f9eb24909b838aa4b742e49a8ca0d56d6a8b",
    "lastmod": "2026-10-20"
   },
   "pressers/players/harrison-barnes/": {
@@ -1086,7 +1075,7 @@
   },
   "pressers/players/isaiah-hartenstein/": {
    "eligible": true,
-   "hash": "768ba0ef1eb8b93b50d94957b4d0e7189d7ba0f5",
+   "hash": "d0b87f17000a8bc1817939b422fa536b0835296d",
    "lastmod": "2026-10-20"
   },
   "pressers/players/isaiah-joe/": {
@@ -1101,12 +1090,12 @@
   },
   "pressers/players/ivica-zubac/": {
    "eligible": true,
-   "hash": "ae1e34c75e39f13ac6b82150da34ed0eda66986e",
+   "hash": "b3941d8a7764c9841391cea81c183177ec7ddef7",
    "lastmod": "2026-10-20"
   },
   "pressers/players/ja-morant/": {
    "eligible": true,
-   "hash": "687ad42500942e091a1e0135f9258170e36831c1",
+   "hash": "493bea0b4b1059a64efc9839f3a6a2d7fc469add",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jabari-smith-jr/": {
@@ -1146,7 +1135,7 @@
   },
   "pressers/players/jakob-poeltl/": {
    "eligible": true,
-   "hash": "e5c59d02a0bd58a5faa9cbd295b06c09c42fd5a8",
+   "hash": "4556575f085bac55647854881c6347c8a093c1f4",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jalen-bridges/": {
@@ -1156,7 +1145,7 @@
   },
   "pressers/players/jalen-brunson/": {
    "eligible": true,
-   "hash": "021f73f012cbb03ecc2e91f6b58e4077ef2e1815",
+   "hash": "c9df26c1e8e0be5d924128ad7336df54fa23884b",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jalen-duren/": {
@@ -1166,12 +1155,12 @@
   },
   "pressers/players/jalen-green/": {
    "eligible": true,
-   "hash": "b278f6870848513a1ee4f9dfe3446b28830b9ac0",
+   "hash": "8d6eeead3b32cb3b70dd24688fc9c2a5248fddea",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jalen-mcdaniels/": {
    "eligible": false,
-   "hash": "17f78af9d26a0b07a00e400524fa1cfefca7eb4f",
+   "hash": "fb48857c7e7b28c205b150aa171078d9f182fca0",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jalen-smith/": {
@@ -1181,7 +1170,7 @@
   },
   "pressers/players/jalen-suggs/": {
    "eligible": true,
-   "hash": "5bf7179e8bbe52b6dd602131f04acf7d454a35e0",
+   "hash": "90369933a6c6685b06ff8a77012cb971f5a53c0e",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jalen-williams/": {
@@ -1191,17 +1180,17 @@
   },
   "pressers/players/jamal-murray/": {
    "eligible": true,
-   "hash": "48982f489dbcdf07e69e175e877301e6cce3994f",
+   "hash": "596559b3b79bb8ffb942dcc6599b266412965399",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jamal-shead/": {
    "eligible": false,
-   "hash": "f18d7ba9397e206359d603f91293addb8f6b1c38",
-   "lastmod": "2026-10-06"
+   "hash": "8f59e691571fa7f0010c9e537ed14ada92b67990",
+   "lastmod": "2026-10-20"
   },
   "pressers/players/james-harden/": {
    "eligible": true,
-   "hash": "faa7e6b788521369d5bd297ee822887526a7e38f",
+   "hash": "abad70618d7a9ef7a69e9d3520504950d8e1a794",
    "lastmod": "2026-10-20"
   },
   "pressers/players/james-johnson/": {
@@ -1216,7 +1205,7 @@
   },
   "pressers/players/james-wiseman/": {
    "eligible": false,
-   "hash": "e622483545e71ef09a407b7ed9a3426d6ebf7d53",
+   "hash": "d5801a1cefbc0e8b2804db736ae56aff183b20ba",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jarace-walker/": {
@@ -1231,7 +1220,7 @@
   },
   "pressers/players/jaren-jackson-jr/": {
    "eligible": false,
-   "hash": "8f003606467c81df773ac859a3e53f52d495c251",
+   "hash": "b63fa3e7a03e4296928bd7e05eeaaff29649f3be",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jarred-vanderbilt/": {
@@ -1241,17 +1230,17 @@
   },
   "pressers/players/jarrett-allen/": {
    "eligible": true,
-   "hash": "ddf4ac26592dfb1d02e2622ca3b0e20ebf90f291",
+   "hash": "59d49169fb4fe0a7d726104bd9ccd24b57851aaf",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jarrett-jack/": {
    "eligible": true,
-   "hash": "cb0fadf2fb8ef686c8221b2d37f26dd5e958d2ba",
+   "hash": "d3c5f3d83e13486c45ef8f344e475a2f4a7749ac",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jase-richardson/": {
    "eligible": true,
-   "hash": "477a5b966ea0cc82355e0d6f97c02058c0d8129a",
+   "hash": "983c2f8727e3d2ab6235e0beef66cf114c356b29",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jaxson-hayes/": {
@@ -1275,8 +1264,8 @@
    "lastmod": "2026-10-20"
   },
   "pressers/players/jaylon-tyson/": {
-   "eligible": false,
-   "hash": "348b230dbfd5ce99dd4f2399093bdc1e5df0de60",
+   "eligible": true,
+   "hash": "ed2a1714521c6655655e035458757e773a6b04de",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jayson-tatum/": {
@@ -1361,7 +1350,7 @@
   },
   "pressers/players/jordan-poole/": {
    "eligible": false,
-   "hash": "c5347f011e9205a48e33f63653172b29b4e48648",
+   "hash": "0555b518791aaf50d815f94da38d2a18bd4f3508",
    "lastmod": "2026-10-20"
   },
   "pressers/players/jose-calderon/": {
@@ -1406,7 +1395,7 @@
   },
   "pressers/players/julian-strawther/": {
    "eligible": true,
-   "hash": "de1859bcc273c56f0cd92b72965917e0d252638f",
+   "hash": "e679e578abc0c73d245e33b347881ef8d8ae0130",
    "lastmod": "2026-10-20"
   },
   "pressers/players/julius-randle/": {
@@ -1436,7 +1425,7 @@
   },
   "pressers/players/karl-anthony-towns/": {
    "eligible": false,
-   "hash": "6df6460aea870967634500340656707032ee9fdd",
+   "hash": "dfaf68e792ee12b06264e5fbe773c12c8d72ace3",
    "lastmod": "2026-10-20"
   },
   "pressers/players/kasparas-jakuionis/": {
@@ -1446,12 +1435,12 @@
   },
   "pressers/players/kawhi-leonard/": {
    "eligible": true,
-   "hash": "f8c8ecd69b933188c9d28adfcb92d562b0b3498c",
+   "hash": "db80a11219a42d2fee35d6c525e804840275684e",
    "lastmod": "2026-10-20"
   },
   "pressers/players/keaton-wagler/": {
-   "eligible": true,
-   "hash": "2e2517a0e5d3916a0bce8acc1c2106bc5a33f9a4",
+   "eligible": false,
+   "hash": "408f34dbd3d2662e4d60111161d10664953b9217",
    "lastmod": "2026-10-20"
   },
   "pressers/players/keaton-wallace/": {
@@ -1506,7 +1495,7 @@
   },
   "pressers/players/kevin-durant/": {
    "eligible": true,
-   "hash": "1fb109092fbd1757af827142c8f5cd7bd7904333",
+   "hash": "e35ffcc5c95cea6fd55c3d286dd1f0100dfc2408",
    "lastmod": "2026-10-20"
   },
   "pressers/players/kevin-garnett/": {
@@ -1546,12 +1535,12 @@
   },
   "pressers/players/khaman-maluach/": {
    "eligible": true,
-   "hash": "8f2176b9a906f234b88c40f4fbe507c35cf8b9eb",
+   "hash": "9a98d48bae9be8aa82f213fe0b49d156234ccd23",
    "lastmod": "2026-10-20"
   },
   "pressers/players/khris-middleton/": {
-   "eligible": false,
-   "hash": "00de5ac750c43772968e265656e8f3eb2a578abc",
+   "eligible": true,
+   "hash": "23ff6bb36106a4e1a4fc47cf355a7cb8b1f56f6b",
    "lastmod": "2026-10-20"
   },
   "pressers/players/koa-peat/": {
@@ -1575,8 +1564,8 @@
    "lastmod": "2026-10-20"
   },
   "pressers/players/kris-dunn/": {
-   "eligible": false,
-   "hash": "6a7a8f8d0611771ddfe8c0fa932f6e88e82119c9",
+   "eligible": true,
+   "hash": "e8b3998aee6e2441903a343e1dde89a00f5244be",
    "lastmod": "2026-10-20"
   },
   "pressers/players/kyle-filipowski/": {
@@ -1606,7 +1595,7 @@
   },
   "pressers/players/labaron-philon/": {
    "eligible": true,
-   "hash": "d65fb13a9b2a45ea788eefc0855c6ff71c5accd0",
+   "hash": "80e3ecf9e5f509a720328e89a78a667ca234dc61",
    "lastmod": "2026-10-20"
   },
   "pressers/players/lamelo-ball/": {
@@ -1621,17 +1610,17 @@
   },
   "pressers/players/lauri-markkanen/": {
    "eligible": false,
-   "hash": "baa0c21178cd55f8b591ee5b4de4044c61559eae",
+   "hash": "55c71f6a6524e337db16eeebbe81970bf603ab81",
    "lastmod": "2026-10-20"
   },
   "pressers/players/lebron-james/": {
    "eligible": true,
-   "hash": "9a096c4ef6cce1abd1e444563122a022982410b5",
+   "hash": "a20a2004294481fc29513863beca5d11e6aca867",
    "lastmod": "2026-10-20"
   },
   "pressers/players/liam-mcneeley/": {
    "eligible": true,
-   "hash": "514013c5f11a75bc2dc124b9e44a6e2ad5e451a1",
+   "hash": "831958506a78a4d0975945340a15c5445a84ed54",
    "lastmod": "2026-10-20"
   },
   "pressers/players/luguentz-dort/": {
@@ -1671,7 +1660,7 @@
   },
   "pressers/players/marvin-bagley-iii/": {
    "eligible": true,
-   "hash": "98724a371e675039be0b00c68ee6f98efa08e6a3",
+   "hash": "522ef7b29fe9f274c2a2510080a34f9aa64c6454",
    "lastmod": "2026-10-20"
   },
   "pressers/players/matisse-thybulle/": {
@@ -1711,7 +1700,7 @@
   },
   "pressers/players/mikal-bridges/": {
    "eligible": true,
-   "hash": "7685b22946658445c850b76c0cb5dbca9175749d",
+   "hash": "7a128844b6da07f538a77be1829351517b21ca99",
    "lastmod": "2026-10-20"
   },
   "pressers/players/mike-conley/": {
@@ -1719,9 +1708,14 @@
    "hash": "d2b6b0420a46580782809f004ab6fb65b143f436",
    "lastmod": "2026-10-20"
   },
-  "pressers/players/mikel-brown-jr/": {
+  "pressers/players/mikel-brown-jr-2/": {
    "eligible": false,
    "hash": "690fc27c1fcb47b0763e4b7b99dd4e0aafce8c19",
+   "lastmod": "2026-10-07"
+  },
+  "pressers/players/mikel-brown-jr/": {
+   "eligible": true,
+   "hash": "f78feb2e41b26cf69df7cdb88c21c3809f093847",
    "lastmod": "2026-10-20"
   },
   "pressers/players/miles-bridges/": {
@@ -1736,7 +1730,7 @@
   },
   "pressers/players/mitchell-robinson/": {
    "eligible": false,
-   "hash": "2db6b89232d3be66fe35ec299ffc0d4d3e8273e1",
+   "hash": "f383ecdfc418373f6d6b665f033179903f5f833c",
    "lastmod": "2026-10-20"
   },
   "pressers/players/mo-bamba/": {
@@ -1791,7 +1785,7 @@
   },
   "pressers/players/nikola-joki/": {
    "eligible": true,
-   "hash": "b2da68cea0b6061f38977b84d2cbd31e4c7c9ee6",
+   "hash": "873e925c8a49ac063c3ea1897369d846d88d4eec",
    "lastmod": "2026-10-20"
   },
   "pressers/players/nikola-vuevi/": {
@@ -1801,8 +1795,8 @@
   },
   "pressers/players/noah-penda/": {
    "eligible": false,
-   "hash": "adbfa64e13387bf8556af794aa4107422d5bedac",
-   "lastmod": "2026-10-16"
+   "hash": "d44b314e4f128618415107a9145320fa64e3791a",
+   "lastmod": "2026-10-20"
   },
   "pressers/players/norman-powell/": {
    "eligible": true,
@@ -1821,7 +1815,7 @@
   },
   "pressers/players/og-anunoby/": {
    "eligible": false,
-   "hash": "032bc5a845a044cb674df6e294b9966802ab1c37",
+   "hash": "ce35d1fc9874dcc58d108c95382cdce8194d4715",
    "lastmod": "2026-10-20"
   },
   "pressers/players/onyeka-okongwu/": {
@@ -1836,7 +1830,7 @@
   },
   "pressers/players/otto-porter-jr/": {
    "eligible": false,
-   "hash": "b5d7f6e1d830a11930c9893424c22166ca5b20df",
+   "hash": "619640f917bef230f0f24d96db54d624bebbf803",
    "lastmod": "2026-10-20"
   },
   "pressers/players/ousmane-dieng/": {
@@ -1846,7 +1840,7 @@
   },
   "pressers/players/paolo-banchero/": {
    "eligible": true,
-   "hash": "c7796e29c3fe4830f2f6be8bbd2a215e9335342c",
+   "hash": "ae47e35b0ca4c07d2769622b374eb881279d9d56",
    "lastmod": "2026-10-20"
   },
   "pressers/players/pascal-siakam/": {
@@ -1886,7 +1880,7 @@
   },
   "pressers/players/peyton-watson/": {
    "eligible": true,
-   "hash": "c2ec9221678f4ceb3a81055b5ec51cd7bceba269",
+   "hash": "2fff78e4599dc8964b3fcae94d48b92623605a22",
    "lastmod": "2026-10-20"
   },
   "pressers/players/pj-hall/": {
@@ -1916,7 +1910,7 @@
   },
   "pressers/players/rasheer-fleming/": {
    "eligible": false,
-   "hash": "ba235769349d878bc4654fb423bca4ece513fffd",
+   "hash": "070556c3e946f2e59f05e423f266a3280340c345",
    "lastmod": "2026-10-20"
   },
   "pressers/players/rayan-rupert/": {
@@ -1931,7 +1925,7 @@
   },
   "pressers/players/robert-williams-iii/": {
    "eligible": true,
-   "hash": "24ece708ec79afa0acd46d1601f9a5489a348723",
+   "hash": "b2cf5edf9904524773d7a63515b18c7389ba1005",
    "lastmod": "2026-10-20"
   },
   "pressers/players/ronald-holland-ii/": {
@@ -1966,8 +1960,8 @@
   },
   "pressers/players/ryan-nembhard/": {
    "eligible": false,
-   "hash": "fab9162641220fe4504621f75376aa4baa1b779e",
-   "lastmod": "2026-10-09"
+   "hash": "7c1bacebce064c8c9b7805b7965a7b01ba4c7485",
+   "lastmod": "2026-10-20"
   },
   "pressers/players/ryan-rollins/": {
    "eligible": true,
@@ -1976,7 +1970,7 @@
   },
   "pressers/players/sam-merrill/": {
    "eligible": true,
-   "hash": "6de44a339d219034bcc74d427ccf0687e536642c",
+   "hash": "b46b7a4b2e3dae8aa88779c8515c91339550a7e5",
    "lastmod": "2026-10-20"
   },
   "pressers/players/sandro-mamukelashvili/": {
@@ -1991,7 +1985,7 @@
   },
   "pressers/players/scottie-barnes/": {
    "eligible": true,
-   "hash": "0b8d4404f34a6a6fc92d596f6db19ce1d9dfc0de",
+   "hash": "25429d80df3045f8c94b8253dfd7957b589ac336",
    "lastmod": "2026-10-20"
   },
   "pressers/players/shaedon-sharpe/": {
@@ -2016,7 +2010,7 @@
   },
   "pressers/players/spencer-jones/": {
    "eligible": true,
-   "hash": "b2cccf56f18dfc6277dd25d05594a9cb5c33efb8",
+   "hash": "84fad173bc836e6a929c161565b09d1a3fbf7823",
    "lastmod": "2026-10-20"
   },
   "pressers/players/stephen-curry/": {
@@ -2051,7 +2045,7 @@
   },
   "pressers/players/taurean-prince/": {
    "eligible": true,
-   "hash": "8e890ed24d5106b5ee80faa8627f5475bdf4ba8a",
+   "hash": "4053127a429ab00235e860cf19f9c9054b07d85c",
    "lastmod": "2026-10-20"
   },
   "pressers/players/terance-mann/": {
@@ -2066,7 +2060,7 @@
   },
   "pressers/players/thomas-bryant/": {
    "eligible": false,
-   "hash": "04c1973c0ecf6f011786332440fb7582a49a984e",
+   "hash": "a78c1826dd6db1b8c5a1acd9c74ab0855faf8a4c",
    "lastmod": "2026-10-20"
   },
   "pressers/players/tiago-splitter/": {
@@ -2086,7 +2080,7 @@
   },
   "pressers/players/tim-hardaway-jr/": {
    "eligible": false,
-   "hash": "32f1b52d2e04747c86644a0e9c3a0376dccfb809",
+   "hash": "638af25acee093c3cef73ada12e7d981e27d4a81",
    "lastmod": "2026-10-20"
   },
   "pressers/players/tj-mcconnell/": {
@@ -2106,7 +2100,7 @@
   },
   "pressers/players/toumani-camara/": {
    "eligible": true,
-   "hash": "d69b5bf8e73223c7cbc8d2d8b608f3a99659dcba",
+   "hash": "c6bf5a4fe7e32534fe22c876f54b8c7c34a2ae5a",
    "lastmod": "2026-10-20"
   },
   "pressers/players/trae-young/": {
@@ -2126,12 +2120,12 @@
   },
   "pressers/players/tre-mann/": {
    "eligible": false,
-   "hash": "b894ccf682657b1752e63892b96033f064d702cc",
+   "hash": "395377aef4d4b03d2eb65f6ba775eafac2eec84e",
    "lastmod": "2026-10-20"
   },
   "pressers/players/trevon-brazile/": {
    "eligible": true,
-   "hash": "a9b7a8ca2374f7fa49b1c1c4c433183653a47d3b",
+   "hash": "d2bb01b7f474701ba8772936066a1994c08e013b",
    "lastmod": "2026-10-20"
   },
   "pressers/players/trey-lyles/": {
@@ -2146,7 +2140,7 @@
   },
   "pressers/players/tristan-da-silva/": {
    "eligible": true,
-   "hash": "5b2211e5f3fed04a7b4cabe09fc91ccdde378171",
+   "hash": "4d8e55b51f3d71b5ab35b88fa1898b64ecdf3320",
    "lastmod": "2026-10-20"
   },
   "pressers/players/ty-jerome/": {
@@ -2176,12 +2170,12 @@
   },
   "pressers/players/tyrese-maxey/": {
    "eligible": true,
-   "hash": "10f1262aef8cb09677de352746f512882bb20324",
+   "hash": "0166f0e65b6becf36c97d963eb166c9a7e20d94a",
    "lastmod": "2026-10-20"
   },
   "pressers/players/tyronn-lue/": {
    "eligible": true,
-   "hash": "99beec182e935739c8aa391072a3f6c03ec733b7",
+   "hash": "ebe84adc0471e62992d44243891ec715c4917c64",
    "lastmod": "2026-10-20"
   },
   "pressers/players/tyson-chandler/": {
@@ -2191,7 +2185,7 @@
   },
   "pressers/players/tyus-jones/": {
    "eligible": true,
-   "hash": "54268d80df4a237db265357d963e2d623a180622",
+   "hash": "e566ec0fb02d90a87c06ee1594e97d6b90f8869a",
    "lastmod": "2026-10-20"
   },
   "pressers/players/victor-wembanyama/": {
@@ -2206,7 +2200,7 @@
   },
   "pressers/players/vj-edgecombe/": {
    "eligible": true,
-   "hash": "95c9a2e87108c0b2e3616717c1c5b6c8427dcccd",
+   "hash": "0e0e3f1bc794d1eadc313e3b2340c1dd120d696e",
    "lastmod": "2026-10-20"
   },
   "pressers/players/walker-kessler/": {
@@ -2266,12 +2260,12 @@
   },
   "pressers/teams/atl/": {
    "eligible": true,
-   "hash": "705ea58452de493c51167c108701bb7cef5d7ddd",
+   "hash": "3e594bce4b46b83dc62f9fa1f172e62482775719",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/bkn/": {
    "eligible": true,
-   "hash": "c104409267642e3540e720b44d58a414cbc64470",
+   "hash": "3d18d94cacbaa7fa16eeb130d1c072d18b5ddb7c",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/bos/": {
@@ -2281,17 +2275,17 @@
   },
   "pressers/teams/cha/": {
    "eligible": true,
-   "hash": "4f84b602ea866e6304f14674f0d69942d6063418",
+   "hash": "563b4831564f80b218b48197d20b643f5fcb3312",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/chi/": {
    "eligible": true,
-   "hash": "f563f8b411ee7804f6c74012ad69fba608286dcd",
+   "hash": "f1b887c6bcff641a67ef0218190f777372933e30",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/cle/": {
    "eligible": true,
-   "hash": "fa2b67676e378e95cfc3c2baf6cbd5bb8f7f90ac",
+   "hash": "7aab3bede7b9c8722a81ced24f36c60407f9d709",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/dal/": {
@@ -2301,47 +2295,47 @@
   },
   "pressers/teams/den/": {
    "eligible": true,
-   "hash": "ad3996063ca1475075932baa4dfa240b6b120184",
+   "hash": "d67470ef2c0c8f9361984d7195961858596507b5",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/det/": {
    "eligible": true,
-   "hash": "79ab4e873cbfe68cc081f8e846a44607558cb974",
+   "hash": "0ae6f23e7642e5f8b687e04961c15526335ba04b",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/gsw/": {
    "eligible": true,
-   "hash": "57454c8e9d40de3e0449f811de5626308f5d21fc",
+   "hash": "bdbd80173dfc6c4d68fbd461d8ee1d40df22d3a5",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/hou/": {
    "eligible": false,
-   "hash": "acb9e9604e9f3c8866578e7791931aa6b76ab677",
-   "lastmod": "2026-10-17"
+   "hash": "f5928fd6e22da676c1f2a2177f26c1b376617b0f",
+   "lastmod": "2026-10-20"
   },
   "pressers/teams/ind/": {
    "eligible": true,
-   "hash": "5bfe3d42b49c53fd5307c4e268450f15ccd20d7f",
+   "hash": "20d9f2fea210c8d6c391806eaad6a82e702980f3",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/lac/": {
    "eligible": true,
-   "hash": "2e8b463052d90a661ce3bbdee721c6bcab42b546",
+   "hash": "9b1beb6595e3f0f8ba9b53afaacf559ea837d207",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/lal/": {
    "eligible": true,
-   "hash": "b640f056f86f2a93de3644c89bde2ee8b31002f4",
+   "hash": "159200ffa2871e646bf60addfa247c15408c77dd",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/mem/": {
    "eligible": true,
-   "hash": "349335ad1a85b94c3cb366bfa09821c1b9e75440",
+   "hash": "86d1c5ad01bbe08d3eac521e228683cf7c40adc9",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/mia/": {
    "eligible": true,
-   "hash": "22b4a55b3620d456f691ceb9a99f584e34eee0ed",
+   "hash": "c29ee8205786eaa6cd023769a7ca50110820a102",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/mil/": {
@@ -2361,32 +2355,32 @@
   },
   "pressers/teams/nyk/": {
    "eligible": true,
-   "hash": "fddd28e24e93e086ce61c066f95acdbec845324a",
+   "hash": "fba68bc4f6f806a485617fb92e0f00b5ebad7872",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/okc/": {
    "eligible": true,
-   "hash": "63fcf73d064151d20451203d99ff602189f4f0ac",
+   "hash": "a5f6947c143c9c6d4e7acceb7e779904ce6563a9",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/orl/": {
    "eligible": true,
-   "hash": "eec9adcc23989189a2cb9837ed0fd093963b518e",
+   "hash": "e69a909c0405ce71be95eae2c796fedced848917",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/phi/": {
    "eligible": true,
-   "hash": "50ef7aff3552a447f41153ec585ba0c289a915ca",
+   "hash": "338279488501d13661a0a0920d769dd16710d48d",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/phx/": {
    "eligible": true,
-   "hash": "c170e85be4ea5f6457676e439ce55e197d6bd766",
+   "hash": "ed32ff2a0d8f6be1b1257a1b4ee1035855c74576",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/por/": {
    "eligible": true,
-   "hash": "dc61fa51208dae60b79399ccdded4797b6cde382",
+   "hash": "c7fc6370061b923303555cb96dc4e71b5a2cdaf9",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/sac/": {
@@ -2401,18 +2395,18 @@
   },
   "pressers/teams/tor/": {
    "eligible": true,
-   "hash": "e3eb95b72f4362b9de6ea9b96710b7b268d10582",
+   "hash": "36dbf5e48f41ff8913fc0ff5b6f84f875bbfbb14",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/uta/": {
    "eligible": true,
-   "hash": "edd84f339bb8a61c410a969dcf7603aecb741572",
+   "hash": "72cb1e651b387d4f1eca46895dc07b25b8bef301",
    "lastmod": "2026-10-20"
   },
   "pressers/teams/was/": {
    "eligible": true,
-   "hash": "5c8e11b87fbb407c33c66b8a750c8d006be6d9bf",
-   "lastmod": "2026-10-19"
+   "hash": "39912321b9f3b6061ab2aa6e317d28b262f2fc4e",
+   "lastmod": "2026-10-20"
   }
  }
 }

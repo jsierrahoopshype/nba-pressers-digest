@@ -3,7 +3,7 @@
  "source": "NBA team press conferences and media availabilities (nba-pressers-digest)",
  "url": "https://jsierrahoopshype.github.io/nba-pressers-digest/pressers/api/best-quotes.json",
  "updated": "2026-10-19T23:41:04Z",
- "count": 96,
+ "count": 95,
  "quotes": [
   {
    "best": true,
@@ -17,11 +17,15 @@
    "published_at": "2026-10-19T23:41:04Z",
    "quote": "Nate went through everything today. Obviously we had contact today. We'll see how he responds tomorrow, but made good progress over the weekend and looked good out there today. Just getting his timing back, but overall he looked like he was moving pretty well.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Taylor Jenkins",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "MIL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 8,
    "subjects": [
     "Nate Ament"
@@ -49,11 +53,15 @@
    "published_at": "2026-10-19T23:31:36Z",
    "quote": "he's a great shot blocker, rebounder. He brings the pick and pop to the new era of a big, being able to shoot, being able to roll and still finish at the rim. So you have two of those bigs that can do that, so I feel like it's able to space the floor a little more. I'm agile a little bit more, being able to move at the four if needed.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Kel'el Ware",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "MIL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 206,
    "subjects": [
     "Miles"
@@ -81,11 +89,15 @@
    "published_at": "2026-10-19T22:38:48Z",
    "quote": "I think everybody kind of goes through it. If he had questions for me, I'd answer, but for the most part, I think Scoot knows that he can control what he can control. And from there, which is the basketball stuff, the effort, what he puts in, how he performs on the court, and from there he kind of leaves everything else to everything else.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Jrue Holiday",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 135,
    "subjects": [
     "Scoot Henderson"
@@ -113,11 +125,15 @@
    "published_at": "2026-10-19T22:20:33Z",
    "quote": "He's good. We saw him today this morning. He still has those symptoms with the headaches. He's had one before and he said it's following that course. So hopefully he will be okay, but still not 100% right. He's got one heck of a big fat lip and obviously with the concussion symptoms and that, but he'll be okay.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 18,
    "subjects": [
     "Brandon"
@@ -145,11 +161,15 @@
    "published_at": "2026-10-19T18:59:14Z",
    "quote": "Joel Embiid was not a full participant today. He was not at all. You shouldn't make any judgments by those jerseys. Paul George didn't practice. And Caleb Martin did that.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Nick Nurse",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 4,
    "subjects": [
     "Joel Embiid",
@@ -179,11 +199,15 @@
    "published_at": "2026-10-19T18:58:01Z",
    "quote": "He can play both positions. He played point well and he can play two. Expect him to be a versatile guy that can play both of those positions. At times he's even played some three when we've gone really, really small. He's still a young player but he has a pretty good amount of experience and he's ready for being a full-time roster guy and being ready at all times.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Rick Carlisle",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "IND"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 5,
    "subjects": [
     "Andrew Nembhard"
@@ -211,11 +235,15 @@
    "published_at": "2026-10-19T00:33:54Z",
    "quote": "It was more so just an X-ray and knock on wood, nothing was broke. And we have four days for it to heal, and so we figured, why risk it? Just there is a little bit of swelling and even from dribbling to just normal contact, it's good to give him a little bit of a rest when you have those chances to do so.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 87,
    "subjects": [
     "Scoot Henderson"
@@ -243,11 +271,15 @@
    "published_at": "2026-10-18T20:37:11Z",
    "quote": "We haven't decided that yet. We have the week to go and I think the first two games will keep the group together, as a, you know, because I think we're still looking at it. Are we playing a nine-man rotation, 10-man rotation, and then like I said, kind of a fake 11-man rotation where if the first half doesn't work out, is there somebody that you say, why don't we change it up and play them in the third quarter? A small amount of minutes, but just rotate them in. I think that's where we're at. All those guys, Trevon Brazile's obviously been more of a highlight thing, he's played really well. He also has played the most minutes with the best players, but I think Bryce has shown signs, Cam Whitmore shown signs, so you can't be scared to throw those guys out there as we're looking for a rotation.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Adelman",
-    "role": "coach"
+    "how": "head coach",
+    "name": "David Adelman",
+    "resolved": true,
+    "role": "coach",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 736,
    "subjects": [
     "Trevon Brazile",
@@ -277,11 +309,15 @@
    "published_at": "2026-10-18T19:07:01Z",
    "quote": "He loves to coach, he loves basketball, he loves competing, loves being around it. I do not know how many people, if I am being honest, are humble enough to go in the Hall of Fame in September and then taking an assistant coaching job in May or June, but he is one of them. He is a unique original guy and that is just the latest example of it. He will add tremendous value to them. Mitch, I give Mitch a lot of credit. It takes a lot of humility to add somebody with that pedigree.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Mark Daigneault",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "OKC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 555,
    "subjects": [
     "Billy Donovan"
@@ -307,11 +343,15 @@
    "published_at": "2026-10-17T23:26:29Z",
    "quote": "Out of everybody, I think Chet is going to be the one to make the biggest jump this year. I'm calling it right now. He's had a great training camp. He's gotten better, stronger, and he's always been one of those guys you can count on, even with his age. He's going to be really good this year and he's going to help us out a lot this year, especially having more responsibility.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Kenrich Williams",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "OKC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 370,
    "subjects": [
     "Chet Holmgren"
@@ -339,11 +379,15 @@
    "published_at": "2026-10-17T21:51:43Z",
    "quote": "We hope the other two guys are back, Luke and also are back opening night. Right now, we've tried to get close to a rotation there in the first half and early part of the third, knowing that hopefully we get Luke and also back so that changes it again. We're trying to bring Miles out, that's kind of been the thing that we've messed around with, Miles out to bring him back with the second unit. I like that at times, so again, it's so small sample size in the preseason.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Jordan Ott",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 123,
    "subjects": [
     "Luke Kennard"
@@ -372,16 +416,20 @@
    "published_at": "2026-10-17T21:05:35Z",
    "quote": "It is actually helped us, I think, because now you get a chance to see different combinations, what works well together, and what you need to do. After those first two games, we kind of see what we need to do. So that is what we are going to do opening night. Having 15 guaranteed contracts, it is a tough debate between Cam Whitmore, Blake Griffin, and Grady Dick, and just glad to have Cam Whitmore back.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Tyronn Lue",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "LAC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 639,
    "subjects": [
     "Cam Whitmore",
     "Blake Griffin",
-    "Grady Dick"
+    "Gradey Dick"
    ],
    "teams": [
     "LAC",
@@ -408,14 +456,18 @@
    "published_at": "2026-10-17T05:54:22Z",
    "quote": "I thought they were good in the first half. Cam allows us to have multiple options with DeRozan out there. I was very impressed with the group in the fourth quarter. We wanted Tias and Marvin to get a long run because Marvin hasn't played, he's been hurt, and Tias needed to play more minutes. I thought those guys were really good.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Adelman",
-    "role": "coach"
+    "how": "head coach",
+    "name": "David Adelman",
+    "resolved": true,
+    "role": "coach",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 153,
    "subjects": [
-    "Cam",
+    "Cam Whitmore",
     "DeMar DeRozan",
     "Tias",
     "Marvin Bagley III"
@@ -443,11 +495,15 @@
    "published_at": "2026-10-17T03:45:07Z",
    "quote": "Oh, I love that he shot it. Gosh, I love it. And they look good. He's putting so much work in off the court with Sham. Every day after practice, he's just done a heck of a job, and I think he continues to trust it. He knows it's going to have a chance to go in, and that's why we've got to continue to celebrate that for him because he's been putting that work in.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Jamahl Mosley",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "NOP"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 164,
    "subjects": [
     "Zion Williamson"
@@ -473,11 +529,15 @@
    "published_at": "2026-10-17T03:38:57Z",
    "quote": "Probably should mention AJ. AJ's got an ankle sprain and we just took him out of the game for precaution and we'll look at it more when we get more information when we get back.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Brian Keefe",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "WAS"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 90,
    "subjects": [
     "AJ Dybantsa"
@@ -505,11 +565,15 @@
    "published_at": "2026-10-17T03:36:55Z",
    "quote": "He rolled his ankle and just not major concern but just cautious because preseason game.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Nick Nurse",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 21,
    "subjects": [
     "Dean Wade"
@@ -537,11 +601,15 @@
    "published_at": "2026-10-17T03:16:22Z",
    "quote": "Jace had some back soreness, Noah had a low right hamstring tightness and Franz had a right shoulder soreness and those guys will be reevaluated.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Sweeney",
-    "role": "coach"
+    "how": "head coach",
+    "name": "Sean Sweeney",
+    "resolved": true,
+    "role": "coach",
+    "team": "ORL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 26,
    "subjects": [
     "Jace",
@@ -571,11 +639,15 @@
    "published_at": "2026-10-16T18:38:21Z",
    "quote": "Our relationship has grown. My understanding of his game. And I think it was helped by maybe even Kobe and Weems and Gansey just trying to explain to me what type of player he is and who he is. And before he got here, he won games. And our staff just pushing me, like, 'Man, this guy has got a lot of unique characteristics.' And I don't know when it switched, but I am going to embrace this. I would say this, he is going to be in the rotation. He is going to help us win games.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Kenny Atkinson",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "CLE"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 457,
    "subjects": [
     "Craig Porter Jr."
@@ -603,11 +675,15 @@
    "published_at": "2026-10-16T04:23:25Z",
    "quote": "A personal goal for me is to try to learn something new in all the preseason games. Obviously they're contextual, let's say that. But I thought it was an opportunity with Chet and Jalen out to take a look at that. I don't know how many times we'd take a look at that and we've never worked on it. But it gives us a quick idea of what we would need to work on if we wanted to explore that at some point.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Mark Daigneault",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "OKC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 66,
    "subjects": [
     "Chet Holmgren",
@@ -636,11 +712,15 @@
    "published_at": "2026-10-15T18:27:36Z",
    "quote": "We're all healthy. A lot of guys are pretty healthy. I think that's that's different. And then preseason, last year, it was kind of hard to get Paul George in. He was going through a little bit of things. Joel Embiid was going through some stuff. So our first five has been pretty healthy and we've been out there pretty much every day and that helps.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Tyrese Maxey",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 66,
    "subjects": [
     "Paul George",
@@ -659,38 +739,6 @@
   },
   {
    "best": true,
-   "context": "Michael Malone provides an update on Julian Strawther following his left knee injury.",
-   "date": "2026-10-15",
-   "extracted_at": "2026-10-15T11:30:22Z",
-   "fields_prompt": "47544341",
-   "fields_source": "gemini-backfill",
-   "id": "pq-068bb5d7866c",
-   "news_score": 9,
-   "published_at": "2026-10-15T06:25:39Z",
-   "quote": "Julian Strawther left knee injury, MRI on the morning, hoping for the best to be honest. There's no direct information as of right now. Obviously it sucks seeing anybody get hurt, someone that's been working their ass off all summer, so all you can do is hope for the best. But yeah, he's in it right now, I feel bad for him.",
-   "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
-   "speaker": {
-    "name": "Michael Malone",
-    "role": "coach"
-   },
-   "start_seconds": 3,
-   "subjects": [
-    "Julian Strawther"
-   ],
-   "teams": [
-    "DEN"
-   ],
-   "topics": [
-    "injuries"
-   ],
-   "transcript_check": "unavailable",
-   "video_id": "N2XB_mgL9to",
-   "video_title": "Full Denver Nuggets Postgame Media Availability vs. LAC 🎙",
-   "url": "https://www.youtube.com/watch?v=N2XB_mgL9to&t=3s"
-  },
-  {
-   "best": true,
    "context": "Ayo Dosunmu praises Rudy Gobert's offensive development and his performance in the pick and roll during the preseason.",
    "date": "2026-10-15",
    "extracted_at": "2026-10-15T11:30:23Z",
@@ -701,11 +749,15 @@
    "published_at": "2026-10-15T05:06:25Z",
    "quote": "He's been doing great this preseason, just trying to encourage him to take that momentum into the regular season. He's someone who's very vital for us on both ends, of course, especially in that pick and roll. When they're blitzing, we have to hit him in the pocket. Him being able to make those passes, he threw a great dump down pass. He understands that, he made his free throws today. I think that's very important for him.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Ayo Dosunmu",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "MIN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 218,
    "subjects": [
     "Rudy Gobert"
@@ -733,11 +785,15 @@
    "published_at": "2026-10-14T20:50:32Z",
    "quote": "I don't care if the shot is going to fall or not. He is a great shooter, I want him to to shoot the ball. I promise him this morning, first time when I see him that he does not take open shot, I'm going to sit him on the bench. So it's going to be simple as that. He is a great shooter, he has a great feel for the game, and yesterday was a typical rookie game playing for the first time in in front of home crowd.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Darko Rajaković",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "TOR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 1047,
    "subjects": [
     "Gradey Dick"
@@ -765,11 +821,15 @@
    "published_at": "2026-10-14T03:38:16Z",
    "quote": "I thought that was a competitive game all the way throughout, even into the fourth quarter. That can be hit or miss in the preseason, but both teams came to play. Shout out to Halliburton, he looks great. I mentioned that before the game, but obviously that is a long road back for him and there is a history with us because it happened in that series. So it is happy to see him out there number one and in that form number two, he looks tremendous.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Mark Daigneault",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "OKC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 452,
    "subjects": [
     "Tyrese Haliburton"
@@ -796,11 +856,15 @@
    "published_at": "2026-10-14T00:22:49Z",
    "quote": "I'll start with AG. He took the whole summer to really work on his body. He rehabbed mentally, physically, because that was his biggest thing last year is being injured. I think he's done a very good job of this now. He's not missing as many practices, he's been locked in, he's been involved. With Cam Johnson, me and him we go back before this, so I stay at his place sometimes when we go back to Arizona over the summer. I've been able to see his workouts, so he's always locked in, he's always doing the right things, he eats the right way, he's going to Pilates. He's doing the stuff he needs to do to get ready.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "DaRon Holmes II",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 277,
    "subjects": [
     "Aaron Gordon",
@@ -829,11 +893,15 @@
    "published_at": "2026-10-13T23:52:12Z",
    "quote": "He is been increasing, he is been ramped up and he is doing a lot more. So just seeing him on the floor, that is a good sign. This is going to still take some time, it is going to be a while, but just seeing him on the floor, being able to do certain things, it has been good to see.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Tyronn Lue",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "LAC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 830,
    "subjects": [
     "Brandon Boston"
@@ -861,11 +929,15 @@
    "published_at": "2026-10-13T21:04:19Z",
    "quote": "Tyler is a little under the weather, wasn't here today. Hopefully he heals up and is back tomorrow. Nate is progressing, a little bit more movement in the half court, but definitely kind of constrained there, but making some positive progress right now.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Taylor Jenkins",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "MIL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 4,
    "subjects": [
     "Tyler Herro",
@@ -894,11 +966,15 @@
    "published_at": "2026-10-13T19:48:10Z",
    "quote": "There is no timeline. He just has some soreness that he's dealing with. Giving him some real decent time off to see if that will progress it quickly. There's no timeline, just hoping it gets a little better and he feels a little better and can get back out there fairly shortly.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Nick Nurse",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 64,
    "subjects": [
     "Paul George"
@@ -926,11 +1002,15 @@
    "published_at": "2026-10-13T19:45:03Z",
    "quote": "He looked great. Coming off screens, shooting the ball, getting into the lane, pull-ups. He is a very confident high-level shot maker. And then you put some body like me or Tyrese, guys that can get him the ball, it is really special just because he gets his shot off so quick. It is crazy. He made a lot of threes today and it was just coming off real quick actions. Having guys like that on my team, guys that can really shoot the ball, it is really helpful as a guard.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Labaron Philon",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 192,
    "subjects": [
     "Anthony"
@@ -958,11 +1038,15 @@
    "published_at": "2026-10-13T00:39:58Z",
    "quote": "Ryan is making a huge leap right now, especially on the defensive end. His physicality, I think he's starting to use his athleticism with his, it's starting to help him out now. I think he's starting to understand his spots and on offensive end he's being perfect. He's causing, he's making rebounds, getting plays, hitting trays, rebounding.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Jordan Goodwin",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 269,
    "subjects": [
     "Ryan Dunn"
@@ -990,11 +1074,15 @@
    "published_at": "2026-10-13T00:39:17Z",
    "quote": "The ankle is recovering at a good rate, but that's the one where we're not going to press. That's the one I'm talking about. We're not going to press on if it's not perfect.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Jordan Ott",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 30,
    "subjects": [
     "Miles Bridges"
@@ -1022,11 +1110,15 @@
    "published_at": "2026-10-12T23:27:08Z",
    "quote": "The other thing we've kind of changed up a little bit from last year is instead of him going two stints, like start the game, play nine minutes, sit, then come back and finish quarters, we kind of gone to that three stints for him. And I think that served him well because I think it keeps him fresh throughout the obviously throughout the first half. He's been very good. He's trying defensively. I mean not that he was ever not trying, but I think he is trying to do the right thing.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 85,
    "subjects": [
     "Scoot Henderson"
@@ -1054,11 +1146,15 @@
    "published_at": "2026-10-11T22:06:19Z",
    "quote": "He is a big piece of what we do. I am also just happy for Brandon. I think that he has done a great job during his rehab stint, preparing his mind, preparing his body for this opportunity. To have him back out there, to start to see these guys start playing together a little bit more, build some chemistry and cohesion is going to be great. I am excited to have him back out there.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Charles Lee",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "CHA"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 96,
    "subjects": [
     "Brandon Clarke"
@@ -1087,11 +1183,15 @@
    "published_at": "2026-10-11T06:07:56Z",
    "quote": "I remember at the just talking about this game earlier this morning, from the Chicago game, we wanted to start the game out today with more energy, more defensive intensity, more aggressiveness on the offensive end. I thought Jalen kind of led us out there today and he kind of set the tone for the entire game and guys just kind of followed what he did. I love the way that he was aggressive tonight and obviously we're going to need that going forward. Me and him, we have a good connection just talking with each other, ways that we can play off of each other, and I think he did a really good job of just setting that tone for us tonight.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Luke Kennard",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 67,
    "subjects": [
     "Jalen Green"
@@ -1119,11 +1219,15 @@
    "published_at": "2026-10-11T05:50:04Z",
    "quote": "I don't know any details. I just believe I think there's one time, I don't know if it was a contest or rotation, but he stepped on I believe it was Devin's foot. And so hopefully he's okay, but yeah, I'm not quite sure.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Mitch Johnson",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "SAS"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 71,
    "subjects": [
     "Devin Vassell"
@@ -1151,11 +1255,15 @@
    "published_at": "2026-10-11T03:51:54Z",
    "quote": "He's feeling better, but he's not ready to play. He just needs to go through a practice and contact before he's available for a game.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Darko Rajaković",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "TOR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 109,
    "subjects": [
     "Immanuel Quickley"
@@ -1183,11 +1291,15 @@
    "published_at": "2026-10-11T02:34:22Z",
    "quote": "Our center position, we have got some options there with James Wiseman, Obi Toppin, Jalen Smith and Larry Nance Jr. Obi Toppin is a natural four-man and Larry Nance Jr. can play some four if needed. So, there is some good possibilities there.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Rick Carlisle",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "IND"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 155,
    "subjects": [
     "James Wiseman",
@@ -1218,11 +1330,15 @@
    "published_at": "2026-10-10T20:30:18Z",
    "quote": "Still evaluating. I think in the next day or so, I said 48 hours, so hopefully in the next day or so more clarity.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Taylor Jenkins",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "MIL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 3,
    "subjects": [
     "Nate Ament"
@@ -1250,11 +1366,15 @@
    "published_at": "2026-10-09T21:46:03Z",
    "quote": "To me, he put it together. Scoot always been super athletic, super fast, great finisher, great driver, great shooter, and I feel like now mentally he just put it all together. How can he affect the team defensively, how scrappy he could get, and offensively make the right play every time. I think there's no one time this summer where I'm like, 'You should have done this, Scoot.' Every time he drive and making a decision, it's the right one and it's the one that we need for the team.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Toumani Camara",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 258,
    "subjects": [
     "Scoot Henderson"
@@ -1282,11 +1402,15 @@
    "published_at": "2026-10-09T21:19:43Z",
    "quote": "X-rays negative, looked like in pretty good shape, obviously it's the preseason so we'll be smart, but worried about anything serious.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Jordan Ott",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 6,
    "subjects": [
     "Miles Bridges"
@@ -1314,11 +1438,15 @@
    "published_at": "2026-10-09T20:59:53Z",
    "quote": "We mixed the groups today for the first time. So we got to see Demar with the first unit, we slid Aaron and CB to the second unit. The guy that stood out to me is Ryan Nemhard. Ryan Nemhard had a great day. Picking people up full, competing. He can run a team. He's been a good, not to say surprise, but he does some things I didn't realize he can do at his size. So he had a great day. It was super competitive. We actually the first scrimmage was a tie, the second one tie, they went to overtime. Jamal and Nicole's team won.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Adelman",
-    "role": "coach"
+    "how": "head coach",
+    "name": "David Adelman",
+    "resolved": true,
+    "role": "coach",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 654,
    "subjects": [
     "Ryan Nembhard",
@@ -1349,11 +1477,15 @@
    "published_at": "2026-10-09T18:56:46Z",
    "quote": "We have some significant new personnel with Obi Toppin, Andrew Nembhard practiced today. So I think there's a chance that he will be available tomorrow. And Ivica Zubac played five games last year but never played with Tyrese Haliburton, never played with Pascal Siakam. So there's a lot to look at.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Rick Carlisle",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "IND"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 45,
    "subjects": [
     "Obi Toppin",
@@ -1385,11 +1517,15 @@
    "published_at": "2026-10-09T16:55:31Z",
    "quote": "It is definitely his physically has grown, tremendous amount of work, I think he has put on 10 to 12 pounds muscle-wise. That just speaks to the work we talked about in my opening speech to the season was the investment each one of these guys made, and he was one of those guys. I talked about you are going to see physically these guys look different on the court, and he is one of those guys for sure.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Brian Keefe",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "WAS"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 266,
    "subjects": [
     "Alex Sarr"
@@ -1415,11 +1551,15 @@
    "published_at": "2026-10-09T04:04:03Z",
    "quote": "He fits on any basketball team on the planet. You have to have guys like that in order to win, but he could play for any basketball team on the planet and he would fit right in.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "LeBron James",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 163,
    "subjects": [
     "Dean Wade"
@@ -1446,11 +1586,15 @@
    "published_at": "2026-10-09T03:55:26Z",
    "quote": "I thought he was very good. Joel got like 23, 22, 23 minutes there, almost 24. That was good to see. I think again, getting him out there, I thought he ran the floor pretty well. I think that he just needs to get some rust off and get out there and get playing, which was which was great to see. I mean, obviously, he'd play a lot better than that. He'd be the first one to say that, but I also was I'm extremely happy that he was out there with the group and I thought he was playing very hard, which was which was great to see.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Nick Nurse",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 61,
    "subjects": [
     "Joel Embiid"
@@ -1478,11 +1622,15 @@
    "published_at": "2026-10-09T03:31:42Z",
    "quote": "It's not like we hadn't done it before. In practice, of course, we worked on it. Yeah, that worked out.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Victor Wembanyama",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "SAS"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 392,
    "subjects": [
     "Dylan Harper"
@@ -1508,11 +1656,15 @@
    "published_at": "2026-10-08T21:51:36Z",
    "quote": "It made it easier for me just in a way of not trying to worry about focusing on getting everybody involved. That's the player I am. I get players involved, I get my teammates involved just as a player as I am. But I feel like focusing on attacking the basket, Chauncey Billups wants me to attack the basket, go to score. I think that just helps me get in that position of get downhill, find my open, find my teammates.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Scoot Henderson",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 110,
    "subjects": [
     "Chauncey Billups"
@@ -1540,15 +1692,19 @@
    "published_at": "2026-10-08T05:28:07Z",
    "quote": "Some of it depends on if it's off of a rebound. If it's a rebound, we've told our guys basically one through four, if any of those guys get it to push. If the five-man gets it, they're looking for Ja. Now that also means that if the five is looking for Ja, but Dame is open or Danny is open on a throw-ahead, kick it up to them of course. On a make, the clock is moving, it's the same way. If Ja or Dame are right there, they can grab it, they both know what we're trying to do.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 289,
    "subjects": [
     "Ja Morant",
-    "Dame"
+    "Damian Lillard"
    ],
    "teams": [
     "POR"
@@ -1573,11 +1729,15 @@
    "published_at": "2026-10-08T04:25:33Z",
    "quote": "No update, evaluate tomorrow. It didn't look that bad, you know, so we'll take a look when we get home, but some of those things in the preseason suck the wind out of it. He was playing well and our group was, so we think he's in a good place.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Jordan Ott",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 42,
    "subjects": [
     "Miles Bridges"
@@ -1605,11 +1765,15 @@
    "published_at": "2026-10-08T03:23:12Z",
    "quote": "I just wanted to get a different look, seeing those two guys together has been on my mind as I said, just changing up the rotation and the different combinations over the course of the preseason. Enjoy playing big at times, just a little bit different presence in the paint. Hopefully we can rebound the ball defensively with those two guys. I think Kessler's got a great feel for that, Miles with a couple of blocks. We still got to engage with more activity with those two guys out there.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Taylor Jenkins",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "MIL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 122,
    "subjects": [
     "Walker Kessler",
@@ -1638,11 +1802,15 @@
    "published_at": "2026-10-07T22:45:52Z",
    "quote": "I think he has a lot of intangibles that can help our team right away. We are still in training camp, all of those games they they are now for a first of us evaluating all the options that we have. And I think that he is absolutely competing for for a spot on in rotation right away. And you know me, I am not shying away from throwing rookies out there on the court. I love to see, you know, you cannot learn how to swim until you get jumping in the water. You got you got to throw those guys in the water and like, you know, slowly teach them how to swim.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Darko Rajaković",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "TOR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 1171,
    "subjects": [
     "Kyle Filipowski"
@@ -1670,11 +1838,15 @@
    "published_at": "2026-10-07T20:31:03Z",
    "quote": "The plan is definitely for him to play in the preseason. It's just one of those things that we'll always be cautious of is how he's feeling. Going from a summer workout to an NBA game, regardless if it's a preseason game, you want to be aware of his body and the work that he's putting in and making sure that we're safe and that he's feeling okay. But the plan is definitely for him to play in the preseason.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "J.B. Bickerstaff",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "DET"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 105,
    "subjects": [
     "Jaden Ivey"
@@ -1700,11 +1872,15 @@
    "published_at": "2026-10-07T19:20:10Z",
    "quote": "They were screaming the whole game for him. Anytime Donovan specifically did anything, made a shot or whatever, the kids were going crazy. I don't know if I should say this, but Donovan was a little under the weather and he very could have easily just not played, but I think he wanted to for that reason and that's a really cool thing.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Sam Merrill",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "CLE"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 50,
    "subjects": [
     "Donovan Mitchell"
@@ -1732,11 +1908,15 @@
    "published_at": "2026-10-07T19:13:35Z",
    "quote": "A lot of discussion who works best with who, feeling that, collaborating with the players on what they like. And then you also have to consider minute stints where each guy is, so you have to match that. Does Evan function better in longer stints? Does J.A. function better in longer stints? Because that does how you combo, how you combine them, that plays a role in it too.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Kenny Atkinson",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "CLE"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 319,
    "subjects": [
     "Evan Mobley",
@@ -1765,11 +1945,15 @@
    "published_at": "2026-10-07T19:13:28Z",
    "quote": "It's super tough. It's tough for anybody, but we were super excited by what we'd seen. He was really active and athletic and really coachable and really engaged. We were really excited about what he could bring to the team, so that's always a bigger blow for him personally, but certainly a blow for the team, especially this early on. Seeing a guy that had a trajectory heading that way, which he'll get back to, but it just delays him for now.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Nick Nurse",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 54,
    "subjects": [
     "Joel Embiid"
@@ -1797,11 +1981,15 @@
    "published_at": "2026-10-07T16:30:34Z",
    "quote": "Marvin's killing. He's been killing all camp, he's been killing all summer, and we expect him to have, you know, just continue to be himself and play his game. He has a wonderful opportunity here, and he's going to help us very much lift that second unit and be big when Joker's off the floor.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Aaron Gordon",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 395,
    "subjects": [
     "Marvin Bagley III",
@@ -1830,11 +2018,15 @@
    "published_at": "2026-10-06T23:18:42Z",
    "quote": "We just talked to Rui about being more assertive, being more aggressive, being able to use him different ways than just standing in the corner. You got to be able to post up, come off pin-downs, come off screens, and we are going to play through him a lot. I am just running different things to see what he can do, what he is comfortable doing, and then we will just go from there.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Tyronn Lue",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "LAC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 70,
    "subjects": [
     "Rui Hachimura"
@@ -1862,11 +2054,15 @@
    "published_at": "2026-10-06T22:14:25Z",
    "quote": "From the previous year, obviously the consistency with the guys like Jamison and Bill and Colin and Jamal and Jakob, those guys are doing a great job. I think in training camp right here when those guys are healthy, I think we know what we can expect from them. And then there is a group of players there from Allen Graves that they are learning every single day, and then Kyle, Elijah still returning from injury, Jaden, the rookie coming in. We have a pretty good feel of guys that can win in the second unit.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Darko Rajakovic",
-    "role": "coach"
+    "how": "head coach",
+    "name": "Darko Rajaković",
+    "resolved": true,
+    "role": "coach",
+    "team": "TOR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 813,
    "subjects": [
     "Kyle",
@@ -1895,11 +2091,15 @@
    "published_at": "2026-10-06T22:08:07Z",
    "quote": "Unfortunately Kobe suffered an injury during training camp, competition level was high, and I think that he is obviously in good spirits and understands that every day is just going to be important for him as he continues to work through his rehab process.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Charles Lee",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "CHA"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 49,
    "subjects": [
     "Kobe Bufkin"
@@ -1927,11 +2127,15 @@
    "published_at": "2026-10-06T21:45:02Z",
    "quote": "I wanted to watch him in this system a little bit more. Ryan, with the ding and some of the fouls, maybe just did not get the rhythm that we were hoping. Hopefully the next opportunity we get more of what we are hoping to see. Scoot as well, willing moving the ball, but also can be great with the ball in his hands. When there were opportunities in dead-ball situations, I wanted to get the ball in Tyler Herro's hands, see him handle pressure, how we are going to have to calibrate when teams pick him up full court and are trying to pressure him even in the half court to deny his catch. That was something I wanted to lean in, knowing that Ryan, Scoot, even challenging Brain to be guys that bring the ball up the floor, but I do not want Tyler just to be a guy that is playing off the ball.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Taylor Jenkins",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "MIL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 158,
    "subjects": [
     "Tyler Herro"
@@ -1959,11 +2163,15 @@
    "published_at": "2026-10-06T19:19:55Z",
    "quote": "It's a game, how it goes. Obviously we need him healthy. He's a big part of our team, new piece, big part. You know, so we'll have to just adjust to him not being here and then adjust to him getting back. But it's throughout the year, I'm sure that there will be more, like more days like that. So we'll just have to figure it out.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Julian Champagnie",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "SAS"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 384,
    "subjects": [
     "Tobias Harris"
@@ -1991,11 +2199,15 @@
    "published_at": "2026-10-06T04:04:50Z",
    "quote": "We're trying to experiment with different things. We obviously want Asar to have the ball in his hands. We believe like if he takes a jump, our team is going to take a jump. In order to do that, he's got to get that exposure. So trying to find the right lineups to play out there with him and around him, I think that group had a lot of space, a lot of shooting with good size as well. But I just felt like we need to give him more of those opportunities, going to be the lead dog out there with the ball in his hands so that he continues to take those steps.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "J.B. Bickerstaff",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "DET"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 144,
    "subjects": [
     "Asar"
@@ -2023,11 +2235,15 @@
    "published_at": "2026-10-06T03:28:11Z",
    "quote": "He was really good last year. Top 10 defensive center. We go into all of it. He was great last year, love where he's headed, and then we love where my man's going. In these types of situations, we get to see both.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Jordan Ott",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 96,
    "subjects": [
     "Oso Ighodaro"
@@ -2055,11 +2271,15 @@
    "published_at": "2026-10-06T02:47:29Z",
    "quote": "Andre Drummond is such a great guy, such a great communicator. I hope it is nothing too severe. I guess they are going to get some second imaging and stuff like that, but Andre Drummond has been a joy to have. He has been great in the locker room, so it sucks to see a guy like that go down.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Jaylen Brown",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 147,
    "subjects": [
     "Andre Drummond"
@@ -2087,11 +2307,15 @@
    "published_at": "2026-10-05T23:05:15Z",
    "quote": "He has done nothing in this camp to deter not wanting him on the floor. So he is not playing himself out of that position. He is literally right there. And I think like I said, any coach, when you have the luxury of putting a guy on the floor that is going to get you extra possessions, that is going to do all the dirty things that like the rebounding, the screening, and do things without the ball is a better way to put it, and he is willing to do them.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 194,
    "subjects": [
     "Scoot Henderson"
@@ -2119,11 +2343,15 @@
    "published_at": "2026-10-05T16:23:05Z",
    "quote": "I am going to rotate that spot, I will get different key opportunities. And I thought, you know, with Markkanen and Jackson, why wait? Welcome to the NBA, man. These are two former All-Stars, former Defensive Player of the Year.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Adelman",
-    "role": "coach"
+    "how": "head coach",
+    "name": "David Adelman",
+    "resolved": true,
+    "role": "coach",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 887,
    "subjects": [
     "Lauri Markkanen",
@@ -2154,11 +2382,15 @@
    "published_at": "2026-10-05T08:07:45Z",
    "quote": "I just saw him come off by itself and he kind of hobbled off and went off, so that's never good to see when it's a non-contact play. We'll get back, get the testing done, and see what's going on.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Tyronn Lue",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "LAC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 77,
    "subjects": [
     "Max Christie"
@@ -2187,11 +2419,15 @@
    "published_at": "2026-10-04T03:47:41Z",
    "quote": "He played with a lot of force, unfortunately he bumped his knee, so he was a little bit cautious how much we were going to play him, especially in the second half. We didn't put him in the game there at all, but it was great seeing the force that he played with, that he was going downhill, playmaking in those situations. He was great.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Darko Rajakovic",
-    "role": "coach"
+    "how": "head coach",
+    "name": "Darko Rajaković",
+    "resolved": true,
+    "role": "coach",
+    "team": "TOR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 126,
    "subjects": [
     "Scottie Barnes"
@@ -2219,11 +2455,15 @@
    "published_at": "2026-10-03T21:38:46Z",
    "quote": "I think Isaiah is good, but Anthony right now just to be able to get down hill, a speed road that he can attack down hill, get to the basket. Booker still be involved in that as well. We do not quite know right now, but just looking at different ways and different styles to play.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Tyronn Lue",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "LAC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 123,
    "subjects": [
     "Isaiah Hartenstein",
@@ -2253,11 +2493,15 @@
    "published_at": "2026-10-03T20:46:08Z",
    "quote": "It's a seamless fit, honestly. I'm having so much fun with what we're doing and learning the system, learning the guys, playing with them. It's been a really good camp, and I think this year we're going to have a lot of fun with how we play. The combinations we can throw out there anytime, we have a deep team. Just being here, seeing guys, and we still have, I mean Mark is out, but we have a really deep team which can play to our strengths and it's going to be exciting.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Luke Kennard",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 346,
    "subjects": [
     "Mark Williams"
@@ -2285,11 +2529,15 @@
    "published_at": "2026-10-03T18:16:27Z",
    "quote": "The reps are basically just picked up from 2024 during the Olympics. We had some chemistry, we played a lot of minutes and he started a lot of games for us that summer. But the difference between 2024 and now is he is just so much more healthier. He has not missed a practice, he has been in damn near everything that we have done, and pretty much they have had to sit him out at times even when he wanted to keep going. So, obviously you see him tonight, how much he played tonight, so it has been good.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "LeBron James",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 302,
    "subjects": [
     "Joel Embiid"
@@ -2318,11 +2566,15 @@
    "published_at": "2026-10-03T13:20:17Z",
    "quote": "He told me straight up, he told me I had a great year. Obviously playoffs didn't go how I wanted. And me and him kind of, he gave it to me to figure out what he wanted me to work on. He said, 'Man, I love everything about what you brought to the table.' I told him, this is like a couple days after the playoff series, I took a couple days to really evaluate my season, evaluate how I thought it went. And obviously, I thought the regular season went great, but in the playoffs, I think the mental aspect took a toll on me. Being able to handle the ups and downs and not playing as much as I was used to in the regular season, I think that's something that really took a toll on me and affected my performance and ultimately affected the team.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Jaylon Tyson",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "CLE"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 148,
    "subjects": [
     "Kenny Atkinson"
@@ -2350,11 +2602,15 @@
    "published_at": "2026-10-02T22:07:40Z",
    "quote": "Just the belief from Joe, from Coach Billups, it just felt right to me. And when we had to make a decision, it just felt right. With the lineup of guys that we had to play with, for me to be able to shine to make them look better, I just felt like it was a great opportunity all around for a whole organization and teammate standpoint.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Branden Carlson",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 60,
    "subjects": [
     "Joe Cronin",
@@ -2381,11 +2637,15 @@
    "published_at": "2026-10-02T19:53:43Z",
    "quote": "We are obviously excited to have him back. Again, like I said yesterday, our expectation was that he was always going to be back, and we were planning accordingly. But to get it done, to get him in the building, to start the process of getting him back on the court with the group, it is great for us. We know how much he means to us, how important he has been for the past couple years and how important he is going to be for us moving forward in the future. So, that is our guy, he has been our guy, we are happy to have him back.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "J.B. Bickerstaff",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "DET"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 6,
    "subjects": [
     "JD"
@@ -2413,11 +2673,15 @@
    "published_at": "2026-10-01T22:15:21Z",
    "quote": "I feel bad for Scoot because we've missed him quite a bit with the injuries. But the one thing that I see with Scoot when I've seen is he kind of would get himself in trouble when he ends up playing in a little bit of a crowd and playing a little bit too fast for himself. But at the end of the day, I have seen nothing since I've been here, and I'm not just saying this, but it's been good Scoot. It really has been, just at both ends of the floor asking him to be aggressive defensively, get into the ball, blow some things up, and he's trying to do that.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 134,
    "subjects": [
     "Scoot Henderson"
@@ -2445,11 +2709,15 @@
    "published_at": "2026-10-01T22:12:37Z",
    "quote": "Mo Bamba is not practicing. I think they got a pretty solid date on Mo Bamba. I just can't quite remember what it is right now. Next couple of days we evaluate. I think he's going to be ready for some couple of the preseason games for sure. That's kind of our goal, I think.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Nick Nurse",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHI"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 592,
    "subjects": [
     "Mo Bamba"
@@ -2477,11 +2745,15 @@
    "published_at": "2026-10-01T21:49:29Z",
    "quote": "I was just training. I got a call maybe a week before that said it might be a possibility. Obviously with what they had going on over in Detroit, they had signed a few guys, so just doing the math, you knew something was going on. But coming here, I was super excited. I played many battles against Taylor in Memphis when I was in Brooklyn and Indiana. We had a couple overtime games, a lot of good battles, so I was really looking forward to playing for him as opposed to playing against him.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Caris LeVert",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "MIL"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 15,
    "subjects": [
     "Taylor Jenkins"
@@ -2513,11 +2785,15 @@
    "published_at": "2026-10-01T21:42:56Z",
    "quote": "When something that is God-given to you that has helped you be a professional basketball player is taken away from you, it's a big deal. And when you run in transition, you're not dunking the ball, you're laying the ball up with athletes that are trailing you, it changes things. So I think getting that back is key.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Adelman",
-    "role": "coach"
+    "how": "head coach",
+    "name": "David Adelman",
+    "resolved": true,
+    "role": "coach",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 54,
    "subjects": [
     "Christian Braun"
@@ -2545,11 +2821,15 @@
    "published_at": "2026-10-01T21:26:38Z",
    "quote": "We got plenty of time before opening night. I think we'll do what's right by him always, obviously. If there's time that's needed for a ramp-up, we'll give him that time for a ramp-up. We'll see what he looks like when he gets here, but knowing Cade Cunningham, he's working his tail off no matter where he is, so that when he gets here, he'll be prepared for what we need him to do.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "J.B. Bickerstaff",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "DET"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 73,
    "subjects": [
     "Cade Cunningham"
@@ -2577,11 +2857,15 @@
    "published_at": "2026-10-01T19:23:44Z",
    "quote": "I experienced it when I was in Golden State. We won in 17 and 18. We lost Kevin Durant after that and it was funny because the outside world was like, oh my gosh, the world's going to crash now because KD is that special of a player. When we won in 22, nobody did anything extra special. We had a young player and Jordan Poole step up. We had Andrew Wiggins probably have his best year since being drafted, come in and step up. And a guy that not a lot of people remember, Otto Porter, stepped up. So everybody else just did a little bit more to try to balance out what we had missing from KD. It's no different here. We're not expecting Andre to come in and be Mitch or impact the game in a lot of different ways that Mitch did. Hey, just be yourself, but everybody else has to step up and box out a little bit harder and come across earlier to help stop the penetration sooner.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Brown",
-    "role": "coach"
+    "how": "head coach",
+    "name": "Mike Brown",
+    "resolved": true,
+    "role": "coach",
+    "team": "NYK"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 975,
    "subjects": [
     "Kevin Durant",
@@ -2615,11 +2899,15 @@
    "published_at": "2026-10-01T19:22:51Z",
    "quote": "Those guys help us become more versatile. We can only play the two bigs together for so long, so those lineups, I mean, watching Peyton today, he could easily play the four. Obviously, Mario can play the four and the three. It just gives you more versatility when you have one big on the floor. We love playing our two bigs together, we love that because they're in our top five best players, top four best players, but yeah, Peyton, Mario, those guys give us more versatility.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Kenny Atkinson",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "CLE"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 255,
    "subjects": [
     "Peyton Watson",
@@ -2648,11 +2936,15 @@
    "published_at": "2026-10-01T18:59:25Z",
    "quote": "I haven't talked to him in a few weeks, but I talk to Hunter Tyson a good bit. We talk all the time. We've gone through some similar situations in our professional career, but he's been great to lean on. But I spent a lot of time with coach this summer because my first six weeks, you can't really do anything after your surgery. So they were like, 'Go somewhere that you're comfortable,' before you come back to Charlotte. And so I was also in Clemson doing my rehab there and I was spending a lot of time with coach and a couple of the guys that were still around that I played with. And so it was awesome to be able to, when I heard, I called coach and told him what to happen. And I might have messed his golf round up, I probably caught him in the middle of a round, but he was like, 'Dude, come on up, get here tomorrow.' And so it's so nice to have a school that's welcoming back with open arms, taking care of me.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "PJ Hall",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "CHA"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 118,
    "subjects": [
     "Hunter Tyson"
@@ -2680,11 +2972,15 @@
    "published_at": "2026-10-01T18:59:24Z",
    "quote": "Honestly, I just wanted to get on the court. Mark told me that you have to get better at this if you want to get on the court, and I'm a competitor and I wanted to do whatever it took to get on the court. I was down in the G League and back to here and not playing in the G the next morning, so I finally just said I got to figure something out and luckily I did and I just wanted it.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Jaylin Williams",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "OKC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 545,
    "subjects": [
     "Mark Daigneault"
@@ -2712,11 +3008,15 @@
    "published_at": "2026-10-01T13:12:11Z",
    "quote": "It just shows how locked in to the team, to the city, to everything he is. He could have easily waited and signed for more, right? That's how it worked. And he didn't. He shows that this is enough. He's not looking for more money, he's not looking for more incentives. He's looking to have a team that trusts him and being on the team that he trusts.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Jarrett Allen",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "CLE"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 724,
    "subjects": [
     "Donovan Mitchell"
@@ -2744,11 +3044,15 @@
    "published_at": "2026-10-01T13:01:03Z",
    "quote": "Donovan's always been 100% committed here. I remember when he signed his last extension, when everyone thought he was going to leave and there was questions about it, like that whole season I would make jokes about it to him because we can joke about that stuff. He'd always be like, 'Is it not obvious?' He felt like it was pretty clear that he was committed to Cleveland and he's shown that again with this new extension. He really, really wants to be in Cleveland, loves it here, I love it here, and really wants to win at the highest level.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Sam Merrill",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "CLE"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 561,
    "subjects": [
     "Donovan Mitchell"
@@ -2776,11 +3080,15 @@
    "published_at": "2026-10-01T02:29:58Z",
    "quote": "To me, I mean it is easy to say this standing here but like I would rather finish the game than start a game, number one. And I think if you ask Drew Holiday, I think he would agree with me even we have had those talks. And I think that what what we don't want is just because Drew may not care about starting that all of a sudden you say, okay, well Drew will handle it the best so don't start him. But other than hearing your name called, I mean who cares? I would rather play when the when it counts and at the end of the game. So to me, that is why is important as far as I go starting lineup, yeah, this that whatever. I am not worried about the six to four basket, I am more worried about the 112 110 bucket quite honestly.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 367,
    "subjects": [
     "Jrue Holiday"
@@ -2808,11 +3116,15 @@
    "published_at": "2026-09-30T23:35:44Z",
    "quote": "As a five right now. I was really impressed with Spencer as a four last year. I think the four spot, TB is really talented, he's got a chance. I want to keep him there and get him comfortable with that spot. In a pinch obviously he could do it, but he's a traditional five to me.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
-    "name": "Coach Adelman",
-    "role": "coach"
+    "how": "head coach",
+    "name": "David Adelman",
+    "resolved": true,
+    "role": "coach",
+    "team": "DEN"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 152,
    "subjects": [
     "Thomas Bryant"
@@ -2838,17 +3150,21 @@
    "published_at": "2026-09-30T23:33:30Z",
    "quote": "Yeah, very much so. And I think that is why Rob, getting back Rob and I have said it many times, getting Rob back was so important to us in my opinion is because not only is Donovan a really good drop defender, so is Rob. So and then when you add Hartenstein as he continues to grow, Brandon Carlson is another there is an athletic guy that to me if we can protect the rim and these guys can do it in different ways. Some of those guys are more verticalities and then like Rob is more of a shot blocker and and Donovan is more of a verticality guy. So it is just but yes, absolutely, a drop guy.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Micah Nori",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "POR"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 167,
    "subjects": [
     "Robert Williams III",
     "Donovan Clingan",
     "Isaiah Hartenstein",
-    "Brandon Carlson"
+    "Branden Carlson"
    ],
    "teams": [
     "POR"
@@ -2873,11 +3189,15 @@
    "published_at": "2026-09-30T21:00:28Z",
    "quote": "We'll see. He's had a great off-season. First of all he had a great playoff run, which I think you can never underestimate the confidence that gives somebody when they are able to perform as well as he did on that stage. And not just offensively, I think everybody's mind goes to offense, but I mean he was guarding Austin Reaves and he can he's to the point now where he's taking on primary matchups for us. So I think he gained a lot of confidence from that and then put a great summer in. Got himself healthy obviously end of the season injury and his body looks great, his game looks tight. He's another guy that kind of knows who he is, he's really caught up to the pitching of the NBA game and he looks great.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Mark Daigneault",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "OKC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 335,
    "subjects": [
     "Austin Reaves"
@@ -2904,11 +3224,15 @@
    "published_at": "2026-09-29T23:01:01Z",
    "quote": "I thought we got to see last year in some of his stints that he had with the Hornets, but also, he I thought he did a great job of helping impact winning with our with the Swarm as well and led them to a a championship. But I've seen a guy that grows continuously defensively. He knows he's got to work on that area and and figure out like what is his paint presence going to be like. Obviously being an undersized big, but this year I look forward to him trying to expand his game a little bit, maybe shoot the three a little bit more. He's already shown in the G League and and games with us, he's great on the glass. He's just got a knack for scoring and knowing where the ball is and and creating extra possessions for your team.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Charles Lee",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "CHA"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 257,
    "subjects": [
     "PJ Washington"
@@ -2934,14 +3258,18 @@
    "published_at": "2026-09-29T21:22:14Z",
    "quote": "He's going to have the ball more. I think we saw that as the season progressed, he got more comfortable in our system and his system, but it's just make the right read. It's not shoot, pass, do, it's just make the right read. Make the right play, continuously put yourself in a threatening position, which again we're going to continue to stress the paint, he can get there. And then when a defender comes, make the right play, when the defender doesn't come, go ahead and be aggressive. So, it's just the evolution of his time in the NBA.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Jordan Ott",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "PHX"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 524,
    "subjects": [
-    "Jaylen Green"
+    "Jalen Green"
    ],
    "teams": [
     "PHX"
@@ -2966,11 +3294,15 @@
    "published_at": "2026-09-29T20:38:58Z",
    "quote": "It was mutual. It was definitely a mutual energy coming from both ways. You know obviously have a great group here. Got guys like Cade, Jalen, previously before trying to build a great group of guys. And you know when I got that call from Trey, I was delighted to hear from it and I said you know let us start something. You guys are trying to do something that I agree with in my soul and that increases me basketball wise. So, it kind of came together very fast as you said, but you know to me that is a good sign.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "John Collins",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "DET"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 215,
    "subjects": [
     "Cade Cunningham",
@@ -2998,11 +3330,15 @@
    "published_at": "2026-09-29T20:29:23Z",
    "quote": "The most important thing is that he is healthy. Talent doesn't matter if you can't get on the floor, you can't do it at full speed. So I think he is taking the time to get 100% healthy. We have always got to be highly aware of what these guys are doing to make sure that they can play all 82 games or whatever it may be to the best of their abilities. So we always take that into consideration, but we know his talent level and if he is healthy, we know he can have a huge impact on the team.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "J.B. Bickerstaff",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "DET"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 391,
    "subjects": [
     "Kevin Knox II"
@@ -3030,14 +3366,18 @@
    "published_at": "2026-09-29T17:10:28Z",
    "quote": "I didn't get a chance to talk about Chris Middleton coming back, which was a huge signing for us and then obviously adding Deandre Ayton and then Trey Mann too.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Brian Keefe",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "WAS"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 225,
    "subjects": [
-    "Chris Middleton",
+    "Khris Middleton",
     "Deandre Ayton",
     "Tre Mann"
    ],
@@ -3064,11 +3404,15 @@
    "published_at": "2026-09-29T14:30:03Z",
    "quote": "Since I got in the league, people talk about this organization and one thing about here is everybody talk about how they take very good care of the players and it is about winning. When we hit the free agency, that is the one thing that I talked to my agents and I was excited to join the team and I am happy to be here. Of course staying in LA, that is going to help me. I talked to Ty Lue and everybody and the players and everybody is nice and I am so happy for that.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "roster",
     "name": "Rui Hachimura",
-    "role": "player"
+    "resolved": true,
+    "role": "player",
+    "team": "LAC"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 15,
    "subjects": [
     "Tyronn Lue"
@@ -3094,11 +3438,15 @@
    "published_at": "2026-09-29T04:28:04Z",
    "quote": "Mike called me last night to tell me the news. It was surprising, but this is all part of the season, the health of the team. Things happen, so you just roll with it and keep moving forward. We don't really know what it means. I know Mike addressed the issue, so I don't have a whole lot of information for you, but we're going to get going with camp and fully expect him to be with us at some point. There's not a whole lot to report at this time.",
    "season": "2026-27",
-   "snapshot_at": "2026-10-20T13:11:27Z",
+   "snapshot_at": "2026-10-20T14:23:53Z",
    "speaker": {
+    "how": "head coach",
     "name": "Steve Kerr",
-    "role": "coach"
+    "resolved": true,
+    "role": "coach",
+    "team": "GSW"
    },
+   "speaker_rules": "420770d1",
    "start_seconds": 104,
    "subjects": [
     "Kevon Looney"
