@@ -1,6 +1,7 @@
 """
-Structured presser quotes: one record per quote, an append-only history per
-season, and the public JSON of the season's best quotes.
+Structured presser quotes: one record per quote and an append-only history
+per season, for internal use. (The public best-quotes JSON is shelved: written
+only with --public-json, which the workflow does not pass.)
 
 Reads the per-video JSON the extractor already writes
 (pressers_v2/output/<date>/<video_id>.json). The record fields (role,
@@ -24,7 +25,7 @@ Outputs (repo root):
                                        latest snapshot per video.
   data/history/processed-videos.json   video_id -> processed_at already read
   data/structured-fields.json          --gemini answers for stored videos
-  docs/pressers/api/best-quotes.json   the current season's best quotes
+  --public-json <path>                 only when asked: the season's best quotes
 
 Transcript check: for new videos, when YouTube captions can be fetched
 (youtube-transcript-api, optional), each quote is aligned against them
@@ -785,6 +786,7 @@ def main(argv=None) -> int:
     ap.add_argument("--no-transcripts", action="store_true", help="skip the caption check")
     ap.add_argument("--gemini", action="store_true",
                     help="run the structured-fields call (GEMINI_API_KEY) for videos that have no answer yet")
+    ap.add_argument("--public-json", help="also write the best-quotes JSON here (shelved: the workflow never passes it)")
     args = ap.parse_args(argv)
     pe._CONFIG.update(pe.load_config())   # title keywords for the content type of older videos
     players = Players(args.headshots)
@@ -800,7 +802,8 @@ def main(argv=None) -> int:
     counts = update_history(players=players, transcripts=transcripts, gemini=gemini)
     season = current_season()
     view = current_view(read_history(season))
-    write_public_json(view, season)
+    if args.public_json:
+        write_public_json(view, season, args.public_json)
     best = sum(1 for r in view if r.get("best"))
     print(f"[structured] players list: {len(players.by_key)} names; videos read: {counts['videos_read']} "
           f"(re-asked with prompt {pe.STRUCTURED_PROMPT_ID} and changed: {counts.get('videos_refreshed', 0)}); "
@@ -815,7 +818,7 @@ def main(argv=None) -> int:
     src = {}
     for r in view:
         src[r["fields_source"]] = src.get(r["fields_source"], 0) + 1
-    print(f"[structured] {season}: {len(view)} quotes, {best} best -> {PUBLIC_JSON.relative_to(REPO)}; "
+    print(f"[structured] {season}: {len(view)} quotes, {best} best (internal history only); "
           f"by source {dict(sorted(src.items()))}; roles {dict(sorted(Counter(r['speaker']['role'] for r in view).items()))}")
     return 0
 

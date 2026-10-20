@@ -1,14 +1,13 @@
-name: Pressers section (structured quotes + preview pages)
+name: Pressers section (structured quotes, internal history only)
 
 # Runs after every "Pressers v2 (quotes + clips)" run (and on its own schedule), on its own: that
 # workflow, its schedule, the digest, the clip list and Slack are unchanged.
-# Reads the per-video JSON the run committed and writes only:
+# Reads the per-video JSON the run committed and writes only (internal, nothing public):
 #   data/history/<season>.jsonl          append-only structured quote records
 #   data/history/processed-videos.json   which stored videos were read
 #   data/structured-fields.json          structured-fields answers for stored videos
-#   data/pressers-site-state.json        page hashes + lastmod (sitemap)
-#   docs/pressers/                       preview pages (GitHub Pages), the public
-#                                        best-quotes JSON (docs/pressers/api/)
+# The public Pressers section is shelved: no preview pages and no public
+# best-quotes JSON are built (docs/pressers/ was deleted; those URLs are 404).
 # Gemini (GEMINI_API_KEY, same model): only the structured-fields call, and only
 # for new videos stored without its answer (processed before the call existed,
 # or the extractor's call failed). YouTube captions are tried for new videos only
@@ -29,8 +28,6 @@ on:
       - 'pressers_v2/structured_quotes.py'
       - 'pressers_v2/speakers.py'
       - 'pressers_v2/teams_2026_27.json'
-      - 'pressers_v2/pressers_site.py'
-      - 'pressers_v2/section_assets/**'
       - '.github/workflows/pressers-section.yml'
   workflow_dispatch:
 
@@ -41,10 +38,6 @@ concurrency:
 
 permissions:
   contents: write
-
-env:
-  # Preview: every page gets noindex. "false" lets eligible pages be indexed.
-  PRESSERS_PREVIEW: "true"
 
 jobs:
   build:
@@ -65,18 +58,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r pressers_v2/requirements.txt pillow youtube-transcript-api
 
-      - name: Get the headshots (metadata, head-uniform images, team list and logos)
+      - name: Get the headshots metadata (player list for roles and full names)
         run: |
           git clone -q --depth 1 --filter=blob:none --sparse https://github.com/jsierrahoopshype/nba-headshots "$RUNNER_TEMP/headshots"
-          git -C "$RUNNER_TEMP/headshots" sparse-checkout set --no-cone /players/metadata/players_all.json /players/headshots/head-uniform/ /players/headshots/head-uniform-480/ /teams/metadata/ /teams/logos/current/svg/
+          git -C "$RUNNER_TEMP/headshots" sparse-checkout set --no-cone /players/metadata/players_all.json /teams/metadata/
 
-      - name: Structured quotes (history + public best-quotes JSON)
+      - name: Structured quotes (internal history only; no public JSON)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python pressers_v2/structured_quotes.py --headshots "$RUNNER_TEMP/headshots" --gemini
-
-      - name: Pressers pages (preview)
-        run: python pressers_v2/pressers_site.py --headshots "$RUNNER_TEMP/headshots"
 
       - name: Commit and push
         env:
@@ -84,13 +74,13 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A data docs/pressers
+          git add -A data
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
           git commit -m "Pressers section: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # Same retry as the Pressers v2 run. Only data/ and docs/pressers/ are ours,
+          # Same retry as the Pressers v2 run. Only these data/ files are ours,
           # which that run never writes, so a rebase has nothing to conflict on.
           max_retries=4
           attempt=0
