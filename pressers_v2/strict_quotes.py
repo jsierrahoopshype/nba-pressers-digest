@@ -171,11 +171,12 @@ def difference(quote: str, heard: str) -> str:
         return "transcription empty"
     sm = difflib.SequenceMatcher(None, q, h, autojunk=False)
     run = sm.find_longest_match(0, len(q), 0, len(h)).size
+    diffs = []
     for op, i1, i2, j1, j2 in sm.get_opcodes():
-        if op != "equal":
-            return (f"{run}/{len(q)} quote words in one run; quote has '{' '.join(q[max(0, i1 - 3):i2 + 2])}' "
-                    f"where the clip has '{' '.join(h[max(0, j1 - 3):j2 + 2])}'")
-    return f"{run}/{len(q)}"
+        if op == "equal" or (op == "insert" and i1 in (0, len(q))):
+            continue  # clip words before the quote starts or after it ends
+        diffs.append(f"quote '{' '.join(q[max(0, i1 - 3):min(len(q), i2 + 2)])}' / clip '{' '.join(h[max(0, j1 - 3):min(len(h), j2 + 2)])}'")
+    return f"{run}/{len(q)} quote words in one run; {len(diffs)} differences, first: " + "; ".join(diffs[:3]) if diffs else f"{run}/{len(q)}"
 
 
 def descriptions(video_ids: list, api_key: str) -> dict:
