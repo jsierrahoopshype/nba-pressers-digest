@@ -27,6 +27,8 @@ on:
     branches: [main]
     paths:
       - 'pressers_v2/structured_quotes.py'
+      - 'pressers_v2/speakers.py'
+      - 'pressers_v2/teams_2026_27.json'
       - 'pressers_v2/pressers_site.py'
       - 'pressers_v2/section_assets/**'
       - '.github/workflows/pressers-section.yml'

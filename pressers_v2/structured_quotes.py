@@ -53,6 +53,7 @@ sys.path.insert(0, str(ROOT))
 
 import caption_align  # noqa: E402
 import presser_extractor as pe  # noqa: E402
+import speakers as spk  # noqa: E402
 import ytq_vendor as ytq  # noqa: E402
 
 REPO = ROOT.parent
@@ -295,6 +296,20 @@ def resolve_name(name: str, teams: list, players: "Players", known: dict | None 
     return name
 
 
+def title_names_full(title: str, name: str) -> bool:
+    """The title contains this full name (accents, case, punctuation and
+    suffixes ignored)."""
+    t, k = name_key(title or "").split(), name_key(name or "").split()
+    return len(k) >= 2 and any(t[i:i + len(k)] == k for i in range(len(t) - len(k) + 1))
+
+
+def make_resolver(players: "Players", videos: list, mapping: dict | None = None) -> "spk.Resolver":
+    """Speaker/subject resolver for these stored videos (speakers.py)."""
+    mapping = mapping or spk.load_mapping()
+    rosters = spk.Rosters(players, videos, name_key, team_abbr)
+    return spk.Resolver(mapping, players, rosters, name_key, title_names_full)
+
+
 # --------------------------------------------------------------------------- #
 # Transcripts (optional): YouTube captions, for the verbatim check
 # --------------------------------------------------------------------------- #
@@ -496,10 +511,13 @@ class GeminiFields:
 
 
 def records_for_video(data: dict, players: Players, transcripts: Transcripts | None = None,
-                      counts: dict | None = None, known: dict | None = None, fields: dict | None = None) -> list:
+                      counts: dict | None = None, known: dict | None = None, fields: dict | None = None,
+                      resolver: "spk.Resolver | None" = None) -> list:
     """Records for one stored video (press conferences only, named speakers
     only). fields: {rank: structured fields} from GeminiFields, for quotes
-    without their own "structured" block."""
+    without their own "structured" block. resolver: speakers.Resolver (team
+    rosters and head coaches); built from this video alone when not given."""
+    resolver = resolver or make_resolver(players, [data])
     counts = counts if counts is not None else {}
     vid = data.get("video_id") or ""
     if pe.video_content_type(data) != "presser" or not pe.VIDEO_ID_RE.match(vid):
@@ -519,7 +537,7 @@ def records_for_video(data: dict, players: Players, transcripts: Transcripts | N
             counts["unnamed"] = counts.get("unnamed", 0) + 1
             continue
         text = speaker_text(q, raw_speaker)
-        speaker = resolve_name(raw_speaker, ctx_teams, players, known)
+        speaker = raw_speaker
         if word_count(text) < 4:
             counts["empty"] = counts.get("empty", 0) + 1
             continue
@@ -546,14 +564,21 @@ def records_for_video(data: dict, players: Players, transcripts: Transcripts | N
             role = "player"
         if exec_by_title(data.get("video_title"), speaker):
             role = "exec"
+        # The speaker's team is the channel; coaches resolve to its head coach only
+        # when they fit, players against its roster (speakers.py).
+        who = resolver.speaker(raw_speaker, role, team, data.get("video_title") or "", date)
+        speaker, role = who["name"], who["role"]
+        if not who["resolved"]:
+            counts["speaker_unresolved"] = counts.get("speaker_unresolved", 0) + 1
         teams = []
         for t in ([team] if team else []) + list(s.get("teams") or []):
             a = team_abbr(t)
             if a and a not in teams:
                 teams.append(a)
         subjects = []
+        sub_teams = ctx_teams + [t for t in teams if t not in ctx_teams]
         for n in s.get("subjects") or []:
-            full = resolve_name(n, ctx_teams, players, known)
+            full = resolver.subject(resolve_name(n, ctx_teams, players, known), sub_teams, date)
             if name_key(full) != name_key(speaker) and full not in subjects:
                 subjects.append(full)
         out.append({
@@ -564,16 +589,18 @@ def records_for_video(data: dict, players: Players, transcripts: Transcripts | N
             "date": date,
             "season": season_of(date),
             "start_seconds": start,
-            "speaker": {"name": speaker, "role": role if role in ROLES else "coach"},
+            "speaker": {"name": speaker, "role": role if role in ROLES else "coach", "team": team,
+                        "resolved": who["resolved"], "how": who["how"]},
             "subjects": subjects,
             "teams": teams,
             "topics": [t for t in s.get("topics") or [] if t in TOPICS][:2],
             "quote": text,
             "context": s.get("context") or "",
-            "best": bool(s.get("best")) and best_ok(text) and bool(subjects),
+            "best": bool(s.get("best")) and best_ok(text) and bool(subjects) and who["resolved"],
             "news_score": q.get("news_score"),
             "fields_source": source,
             "fields_prompt": pe.STRUCTURED_PROMPT_ID if source != "rules-fallback" else "",
+            "speaker_rules": resolver.id,
             "transcript_check": check,
             "extracted_at": data.get("processed_at") or "",
         })
@@ -663,6 +690,7 @@ def update_history(output_dir: Path | None = None, history_dir: Path | None = No
     new_lines = {}
     videos = list(iter_stored_videos(output_dir))
     known = known_speakers(videos)
+    resolver = make_resolver(players, videos)
     new = [d for d in videos if not (d["video_id"] in processed and processed[d["video_id"]] >= (d.get("processed_at") or ""))]
     # Videos already in the history whose fields came from another prompt (or the
     # rules fallback): asked again only when the call can be made, and a new
@@ -671,11 +699,24 @@ def update_history(output_dir: Path | None = None, history_dir: Path | None = No
     for season in seasons_in(history_dir):
         for r in current_view(read_history(season, history_dir)):
             latest.setdefault(r["video_id"], []).append(r)
+    # Also rebuilt: videos whose records came from other speaker rules (or another
+    # mapping), when their fields are at hand without a call (stored block or cache).
+    new_ids = {d["video_id"] for d in new}
+    can_call = gemini is not None and gemini.client is not None
+
+    def fields_at_hand(d):
+        return not needs_fields(d) or (gemini is not None and gemini.by_rank(d) is not None)
+
     stale = []
-    if gemini is not None and gemini.client is not None:
-        new_ids = {d["video_id"] for d in new}
-        stale = [d for d in videos if d["video_id"] not in new_ids and d["video_id"] in latest
-                 and any(r.get("fields_prompt") != pe.STRUCTURED_PROMPT_ID for r in latest[d["video_id"]])]
+    for d in videos:
+        old = latest.get(d["video_id"])
+        if d["video_id"] in new_ids or not old:
+            continue
+        if any(r.get("fields_prompt") != pe.STRUCTURED_PROMPT_ID for r in old):
+            if can_call:
+                stale.append(d)
+        elif any(r.get("speaker_rules") != resolver.id for r in old) and fields_at_hand(d):
+            stale.append(d)
     if gemini is not None:
         gemini.fill(new + stale)   # the structured-fields call for the videos about to be read
     snapshot_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -685,7 +726,7 @@ def update_history(output_dir: Path | None = None, history_dir: Path | None = No
         stamp = data.get("processed_at") or ""
         counts["videos_read"] += 1
         recs = records_for_video(data, players, transcripts if data in new else None, counts, known,
-                                 gemini.by_rank(data) if gemini is not None else None)
+                                 gemini.by_rank(data) if gemini is not None else None, resolver)
         if data in stale:
             old = sorted((strip(r) for r in latest[vid]), key=lambda r: r["id"])
             if sorted((strip(r) for r in recs), key=lambda r: r["id"]) == old:
@@ -719,7 +760,8 @@ def current_season(history_dir: Path | None = None) -> str:
 
 
 def public_payload(view: list, season: str) -> dict:
-    best = [dict(r, url=watch_url(r["video_id"], r["start_seconds"])) for r in view if r.get("best")]
+    best = [dict(r, url=watch_url(r["video_id"], r["start_seconds"])) for r in view
+            if r.get("best") and r.get("speaker", {}).get("resolved", True)]
     return {
         "season": season,
         "source": "NBA team press conferences and media availabilities (nba-pressers-digest)",
