@@ -29,6 +29,7 @@ Usage (from repo root, GEMINI_API_KEY and YOUTUBE_API_KEY set):
 """
 
 import argparse
+import difflib
 import json
 import os
 import re
@@ -162,6 +163,21 @@ def transcribe(client, video_id: str, lo: int, hi: int) -> str:
     return resp.text or ""
 
 
+def difference(quote: str, heard: str) -> str:
+    """Where the quote and the transcription part ways, for the dry-run report (public video words
+    only): the longest run of the quote found word for word, then the first words that differ."""
+    q, h = tokens(quote), tokens(heard)
+    if not h:
+        return "transcription empty"
+    sm = difflib.SequenceMatcher(None, q, h, autojunk=False)
+    run = sm.find_longest_match(0, len(q), 0, len(h)).size
+    for op, i1, i2, j1, j2 in sm.get_opcodes():
+        if op != "equal":
+            return (f"{run}/{len(q)} quote words in one run; quote has '{' '.join(q[max(0, i1 - 3):i2 + 2])}' "
+                    f"where the clip has '{' '.join(h[max(0, j1 - 3):j2 + 2])}'")
+    return f"{run}/{len(q)}"
+
+
 def descriptions(video_ids: list, api_key: str) -> dict:
     out = {}
     ids = list(dict.fromkeys(video_ids))
@@ -247,7 +263,10 @@ def dry_run(limit: int | None = None, known: set | None = None) -> dict:
             return rec, None, f"transcription call failed ({type(e).__name__})"
         with lock:
             calls["n"] += 1
-        return rec, text, "" if contains(tokens(text), tokens(rec["quote"])) else "words differ from the transcription"
+        ok = contains(tokens(text), tokens(rec["quote"]))
+        rec["_check"] = "match" if ok else difference(rec["quote"], text)
+        rec["_heard_words"] = len(tokens(text))
+        return rec, text, "" if ok else "words differ from the transcription"
 
     survivors = []
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
@@ -260,7 +279,7 @@ def dry_run(limit: int | None = None, known: set | None = None) -> dict:
     for why, _, _ in dropped:
         reasons[why] = reasons.get(why, 0) + 1
     return {"counts": counts, "candidates": len(cands), "after_name_rules": len(pending), "gemini": calls,
-            "dropped": reasons, "survivors": survivors}
+            "dropped": reasons, "survivors": survivors, "checked": pending}
 
 
 def main(argv=None) -> int:
@@ -280,6 +299,10 @@ def main(argv=None) -> int:
           f"(failed {r['gemini']['failed']}); survivors {len(r['survivors'])}")
     for why, n in sorted(r["dropped"].items(), key=lambda x: -x[1]):
         print(f"[strict]   dropped: {why}: {n}")
+    print("[strict] VERBATIM CHECK, every quote that passed the name rules (speaker | subjects | link | result)")
+    for v in r["checked"]:
+        print(f"[strict]   {v['speaker']} | {', '.join(v['subjects'])} | {v['url']} | clip {v.get('_heard_words', 0)} words | {v.get('_check', 'call failed')}")
+        print(f"[strict]     quote: “{v['quote']}”")
     print("[strict] SURVIVORS (speaker | subjects | video link | quote | context)")
     for i, s in enumerate(sorted(r["survivors"], key=lambda s: (s["date"], s["video_id"], s["start_seconds"])), 1):
         print(f"[strict] {i}. {s['speaker']} | {', '.join(s['subjects'])} | {s['url']} | {s['date']} | "
