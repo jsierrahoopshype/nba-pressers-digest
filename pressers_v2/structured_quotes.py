@@ -426,11 +426,18 @@ def backfill_fields(q: dict, data: dict, speaker: str, text: str, team: str, pla
             "context": context, "best": best}
 
 
+def current_block(q: dict) -> dict | None:
+    """The quote's own "structured" block, if the current prompt made it."""
+    s = q.get("structured")
+    return s if isinstance(s, dict) and s.get("prompt") == pe.STRUCTURED_PROMPT_ID else None
+
+
 def needs_fields(data: dict) -> bool:
-    """A press conference with named quotes but no "structured" block."""
+    """A press conference with named quotes but no "structured" block from
+    the current prompt."""
     return pe.video_content_type(data) == "presser" and any(
         q.get("speaker_confidence") == "named" and not pe.is_unidentified(q.get("speaker") or "")
-        and not isinstance(q.get("structured"), dict) for q in data.get("quotes") or [])
+        and current_block(q) is None for q in data.get("quotes") or [])
 
 
 class GeminiFields:
@@ -460,7 +467,7 @@ class GeminiFields:
 
     def by_rank(self, data: dict) -> dict | None:
         e = self.cache.get(data.get("video_id") or "")
-        if e and e.get("processed_at") == (data.get("processed_at") or ""):
+        if e and e.get("processed_at") == (data.get("processed_at") or "") and e.get("prompt") == pe.STRUCTURED_PROMPT_ID:
             return {int(k): v for k, v in (e.get("by_rank") or {}).items()}
         return None
 
@@ -479,6 +486,7 @@ class GeminiFields:
             for data, got in pool.map(one, todo):
                 if got:
                     self.cache[data["video_id"]] = {"processed_at": data.get("processed_at") or "",
+                                                    "prompt": pe.STRUCTURED_PROMPT_ID,
                                                     "by_rank": {str(k): v for k, v in sorted(got.items())}}
                     self.stats["videos_ok"] += 1
                 else:
@@ -523,7 +531,7 @@ def records_for_video(data: dict, players: Players, transcripts: Transcripts | N
         if check == "mismatch":
             counts["transcript_mismatch"] = counts.get("transcript_mismatch", 0) + 1
             continue
-        s = q.get("structured")
+        s = current_block(q)
         source = "gemini"
         if not isinstance(s, dict):
             s = (fields or {}).get(q.get("rank"))
@@ -562,12 +570,18 @@ def records_for_video(data: dict, players: Players, transcripts: Transcripts | N
             "topics": [t for t in s.get("topics") or [] if t in TOPICS][:2],
             "quote": text,
             "context": s.get("context") or "",
-            "best": bool(s.get("best")) and best_ok(text),
+            "best": bool(s.get("best")) and best_ok(text) and bool(subjects),
             "news_score": q.get("news_score"),
             "fields_source": source,
+            "fields_prompt": pe.STRUCTURED_PROMPT_ID if source != "rules-fallback" else "",
             "transcript_check": check,
             "extracted_at": data.get("processed_at") or "",
         })
+    # At most one best quote per press conference (rules fallback included).
+    picks = [r for r in out if r["best"]]
+    keep = min(picks, key=lambda r: (-(r.get("news_score") or 0), r["start_seconds"]))["id"] if picks else None
+    for r in out:
+        r["best"] = r["id"] == keep
     return out
 
 
@@ -612,15 +626,18 @@ def read_history(season: str, history_dir: Path | None = None) -> list:
 
 
 def current_view(records: list) -> list:
-    """The latest snapshot of each video (highest extracted_at), one record
-    per id, newest first."""
+    """The latest snapshot of each video (highest extracted_at, then
+    snapshot_at: a re-asked video appends a later snapshot), one record per
+    id, newest first."""
+    snap = lambda r: (r.get("extracted_at", ""), r.get("snapshot_at", ""))  # noqa: E731
     latest = {}
     for r in records:
         v = r.get("video_id")
-        latest[v] = max(latest.get(v, ""), r.get("extracted_at", ""))
+        latest[v] = max(latest.get(v, ("", "")), snap(r))
+    # Newest line first: on a tie (two snapshots in the same second) the later one wins.
     seen, out = set(), []
-    for r in records:
-        if r.get("extracted_at", "") != latest.get(r.get("video_id")) or r["id"] in seen:
+    for r in reversed(records):
+        if snap(r) != latest.get(r.get("video_id")) or r["id"] in seen:
             continue
         seen.add(r["id"])
         out.append(r)
@@ -647,15 +664,35 @@ def update_history(output_dir: Path | None = None, history_dir: Path | None = No
     videos = list(iter_stored_videos(output_dir))
     known = known_speakers(videos)
     new = [d for d in videos if not (d["video_id"] in processed and processed[d["video_id"]] >= (d.get("processed_at") or ""))]
+    # Videos already in the history whose fields came from another prompt (or the
+    # rules fallback): asked again only when the call can be made, and a new
+    # snapshot is appended only when their records actually change.
+    latest = {}
+    for season in seasons_in(history_dir):
+        for r in current_view(read_history(season, history_dir)):
+            latest.setdefault(r["video_id"], []).append(r)
+    stale = []
+    if gemini is not None and gemini.client is not None:
+        new_ids = {d["video_id"] for d in new}
+        stale = [d for d in videos if d["video_id"] not in new_ids and d["video_id"] in latest
+                 and any(r.get("fields_prompt") != pe.STRUCTURED_PROMPT_ID for r in latest[d["video_id"]])]
     if gemini is not None:
-        gemini.fill(new)   # the structured-fields call for the videos about to be read
-    for data in new:
+        gemini.fill(new + stale)   # the structured-fields call for the videos about to be read
+    snapshot_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    strip = lambda r: {k: v for k, v in r.items() if k != "snapshot_at"}  # noqa: E731
+    for data in new + stale:
         vid = data["video_id"]
         stamp = data.get("processed_at") or ""
         counts["videos_read"] += 1
-        recs = records_for_video(data, players, transcripts, counts, known,
+        recs = records_for_video(data, players, transcripts if data in new else None, counts, known,
                                  gemini.by_rank(data) if gemini is not None else None)
+        if data in stale:
+            old = sorted((strip(r) for r in latest[vid]), key=lambda r: r["id"])
+            if sorted((strip(r) for r in recs), key=lambda r: r["id"]) == old:
+                continue
+            counts["videos_refreshed"] = counts.get("videos_refreshed", 0) + 1
         for r in recs:
+            r["snapshot_at"] = snapshot_at
             new_lines.setdefault(r["season"], []).append(r)
         processed[vid] = stamp
     for season, recs in sorted(new_lines.items()):
@@ -723,7 +760,8 @@ def main(argv=None) -> int:
     view = current_view(read_history(season))
     write_public_json(view, season)
     best = sum(1 for r in view if r.get("best"))
-    print(f"[structured] players list: {len(players.by_key)} names; videos read: {counts['videos_read']}; "
+    print(f"[structured] players list: {len(players.by_key)} names; videos read: {counts['videos_read']} "
+          f"(re-asked with prompt {pe.STRUCTURED_PROMPT_ID} and changed: {counts.get('videos_refreshed', 0)}); "
           f"records appended: {counts['records_appended']}")
     print(f"[structured] skipped: unnamed speaker {counts.get('unnamed', 0)}, not a presser "
           f"{counts.get('not_presser_videos', 0)} video(s), transcript mismatch {counts.get('transcript_mismatch', 0)}; "

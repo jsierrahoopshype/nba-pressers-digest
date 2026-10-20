@@ -645,9 +645,13 @@ STRUCTURED_FIELDS_PROMPT = """You are given quotes already extracted from an NBA
 - "teams": three-letter abbreviations (LAL, BOS, NYK...) of the NBA teams the quote is about, plus the speaker's own team (the channel).
 - "topics": 0 to 2 values, ONLY from this list: "contracts", "injuries", "trades", "teammates", "coaching decisions". Only when the quote is clearly about it; [] otherwise.
 - "context": ONE plain sentence, at most 30 words, that a reader needs to understand the quote (who is speaking, on what occasion, what they were asked or reacting to). No opinion, no quotation marks, nothing the quotes or title do not say.
-- "best": true only for the few quotes worth reading on their own: a real claim, a piece of news or a clear opinion. false for filler, cliches and stock phrases ("we just have to keep working", "one game at a time", "credit to them"), game recaps and questions. Most quotes are false; usually 0 to 2 per video.
+- "best": true for AT MOST ONE quote in the whole video, and only when that quote is real news (an injury, a contract, a trade, a role or lineup change, a decision) or a strong opinion about a named person (that person goes in "subjects"). false for everything else: filler, cliches and stock phrases ("we just have to keep working", "one game at a time", "credit to them"), mild praise, game recaps and questions. Zero best quotes in a video is fine and common.
 
 Return ONLY JSON: {"quotes": [{"rank": 1, "speaker_role": "player", "subjects": ["Evan Mobley"], "teams": ["CLE"], "topics": ["teammates"], "context": "...", "best": false}]}"""
+
+# Short id of the prompt, stored with every answer: a changed prompt makes
+# structured_quotes.py ask again for the stored videos (a new history snapshot).
+STRUCTURED_PROMPT_ID = __import__("hashlib").sha1(STRUCTURED_FIELDS_PROMPT.encode("utf-8")).hexdigest()[:8]
 
 STRUCTURED_ROLES = ("player", "coach", "exec")
 STRUCTURED_TOPICS = ("contracts", "injuries", "trades", "teammates", "coaching decisions")
@@ -730,8 +734,20 @@ def derive_structured_fields(client, data: dict, team: str) -> dict | None:
         if isinstance(item, dict) and item.get("rank") in speakers:
             f = structured_fields(item, speakers[item["rank"]])
             if f is not None:
+                f["prompt"] = STRUCTURED_PROMPT_ID
                 out[item["rank"]] = f
+    one_best(out, {q.get("rank"): q.get("news_score") for q in quotes})
     return out if out else None
+
+
+def one_best(by_rank: dict, scores: dict) -> None:
+    """At most one best quote per video, and never one about no named person:
+    the model's picks without subjects are dropped, then the highest news
+    score (earliest rank on a tie) keeps the flag."""
+    picks = [r for r, f in by_rank.items() if f.get("best") and f.get("subjects")]
+    keep = min(picks, key=lambda r: (-(scores.get(r) or 0), r)) if picks else None
+    for r, f in by_rank.items():
+        f["best"] = r == keep
 
 
 def apply_structured_fields(data: dict, by_rank: dict | None) -> None:

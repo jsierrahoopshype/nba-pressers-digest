@@ -59,7 +59,8 @@ trades, teammates, coaching decisions), `context` (one plain sentence) and
 JSON; nothing else reads them. A failed call stores nothing.
 
 The **Pressers section** workflow (`pressers-section.yml`) runs after every
-Pressers v2 run (and on demand). It never touches the digest, the clip list,
+Pressers v2 run, ~50 minutes after each Pressers v2 slot as a safety net, and
+on demand. It never touches the digest, the clip list,
 Slack or the run schedule:
 
 - `structured_quotes.py` turns every stored **press conference / media
@@ -79,9 +80,14 @@ Slack or the run schedule:
   The 2026-27 history was first built this way from all 339 stored videos on
   2026-10-20 (316 structured-fields calls, one per press conference, none
   failed: every record is `gemini-backfill`).
-  `best` is never true for under 15 words, a question or a stock phrase.
+  `best`: at most one per press conference, only for real news or a strong
+  opinion about a named person (never without a subject), and never for under
+  15 words, a question or a stock phrase; zero is fine.
   Records are **appended** to `data/history/<season>.jsonl`; a reprocessed
-  video appends a new snapshot (readers keep the latest per video).
+  video appends a new snapshot (readers keep the latest per video, by
+  `extracted_at` then `snapshot_at`). Every answer carries `fields_prompt`, a
+  short id of `STRUCTURED_FIELDS_PROMPT`: when the prompt changes, the stored
+  videos are asked again and a video whose records change gets one new snapshot.
   `data/history/processed-videos.json` lists the videos already read.
 - **Verbatim check:** for new videos the workflow tries the YouTube captions
   (youtube-transcript-api) and drops a quote that doesn't align with them

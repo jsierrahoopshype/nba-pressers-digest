@@ -1,6 +1,6 @@
 name: Pressers section (structured quotes + preview pages)
 
-# Runs after every "Pressers v2 (quotes + clips)" run, on its own: that
+# Runs after every "Pressers v2 (quotes + clips)" run (and on its own schedule), on its own: that
 # workflow, its schedule, the digest, the clip list and Slack are unchanged.
 # Reads the per-video JSON the run committed and writes only:
 #   data/history/<season>.jsonl          append-only structured quote records
@@ -17,8 +17,15 @@ on:
   workflow_run:
     workflows: ["Pressers v2 (quotes + clips)"]
     types: [completed]
+  # Safety net: workflow_run did not fire after the 2026-10-20 11:37 run. ~50 min
+  # after each Pressers v2 slot (06:15, 14:15, 20:15 UTC); a no-op when nothing is new.
+  schedule:
+    - cron: '7 7 * * *'
+    - cron: '7 15 * * *'
+    - cron: '7 21 * * *'
   push:
-    branches: [main]
+    # TEMPORARY: the PR branch, to re-run the Gemini backfill before the merge. Removed before merging.
+    branches: [main, claude/zen-volta-eqkplv]
     paths:
       - 'pressers_v2/structured_quotes.py'
       - 'pressers_v2/pressers_site.py'
