@@ -15,6 +15,9 @@ availability videos published in the last 48h, sends each one to Gemini
 | Dated copy of the manifest | `pressers_v2/output/clips/<date>.json` |
 | GitHub Pages mirror | `docs/pressers_v2/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/ |
 | Slack post | after each run, via `SLACK_WEBHOOK_URL` |
+| Structured quote history (presser quotes only) | `data/history/<season>.jsonl` (separate workflow, see below) |
+| Public JSON of the season's best quotes | `docs/pressers/api/best-quotes.json` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers/api/best-quotes.json |
+| Pressers section preview pages | `docs/pressers/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers/ |
 
 **Same extraction and format as hoopshype-yt-quotes.** Quotes are extracted
 by yt-quotes' own code, vendored byte for byte in `ytq_vendor.py` (same
@@ -42,6 +45,65 @@ draft social post and the video's content_type. A clip's end time is its
 start + the speech duration estimated from the word count (2.6 words/s).
 `latest_clips.json` keeps its original fields (plus a few added ones) and
 only lists quotes whose speaker is named.
+
+## Structured quotes and the Pressers section (preview)
+
+A third Gemini call per video (text only, same model and key, its own prompt
+`STRUCTURED_FIELDS_PROMPT`; the clip-fields call is unchanged, so news_score and
+social_post come out exactly as before) returns, per quote, the fields of a
+structured record: `speaker_role` (player / coach / exec; GMs, presidents,
+owners and other executives are always exec), `subjects` (who the quote is
+about, never the speaker), `teams`, `topics` (0-2 of contracts, injuries,
+trades, teammates, coaching decisions), `context` (one plain sentence) and
+`best`. They are stored under `structured` in each quote of the per-video
+JSON; nothing else reads them. A failed call stores nothing.
+
+The **Pressers section** workflow (`pressers-section.yml`) runs after every
+Pressers v2 run (and on demand). It never touches the digest, the clip list,
+Slack or the run schedule:
+
+- `structured_quotes.py` turns every stored **press conference / media
+  availability** video (not podcasts or one-offs) into one record per quote
+  with a named speaker: `id` (hash of the video and the quote's words, so it
+  never changes), `video_id`, `video_title`, `published_at`, `start_seconds`,
+  `speaker {name, role}`, `subjects`, `teams`, `topics`, `quote` (the speaker's
+  own words only), `context`, `best`, plus `date` (New York), `season`,
+  `news_score`, `fields_source`, `transcript_check` and `extracted_at`.
+  `fields_source`: `gemini` (the extractor's third call), `gemini-backfill`
+  (the same call made by this step, `--gemini`, for videos stored without the
+  fields or whose call failed; answers kept in `data/structured-fields.json`)
+  or `rules-fallback` (only when that call failed too: role from the
+  nba-headshots player list and title, subjects from the names mentioned,
+  topics from keywords, context from the summary phrase, best = news score 7+).
+  A title naming the speaker as GM / president / owner always makes them exec.
+  The 2026-27 history was first built this way from all 339 stored videos on
+  2026-10-20 (316 structured-fields calls, one per press conference, none
+  failed: every record is `gemini-backfill`).
+  `best` is never true for under 15 words, a question or a stock phrase.
+  Records are **appended** to `data/history/<season>.jsonl`; a reprocessed
+  video appends a new snapshot (readers keep the latest per video).
+  `data/history/processed-videos.json` lists the videos already read.
+- **Verbatim check:** for new videos the workflow tries the YouTube captions
+  (youtube-transcript-api) and drops a quote that doesn't align with them
+  (`caption_align.py`). Runners YouTube blocks give up after 3 failures;
+  then `transcript_check` is `unavailable` and the quote is kept.
+- `docs/pressers/api/best-quotes.json`: the current season's best quotes
+  (records + `url` with the timestamp), read by hoopshype-quotes-lab.
+- `pressers_site.py` builds the preview pages: `/pressers/` (the latest day's
+  pressers, the best quotes of the last 7 days, players and teams),
+  `/pressers/players/<slug>/`, `/pressers/teams/<abbr>/` and `/pressers/teams/`.
+  Each quote shows speaker, who it's about, topic tags, date and a **Watch**
+  link; a click loads the youtube-nocookie player at the quote's second
+  (`section_assets/watch.js`), nothing loads from YouTube before that.
+  Polymarket tracker look (`section_assets/pressers.css`, DM Sans / JetBrains
+  Mono served from the site), nba-headshots head-uniform faces and team logos
+  linked from the nba-headshots GitHub Pages site (not copied into this repo). Canonical, `og:url`, share images and the sitemap
+  (`docs/pressers/sitemap.xml`) use `https://hoopsmatic.com/pressers/...`.
+  Each page has its own title and 1200x630 share image (`og/`, re-rendered
+  only when its content changes). `PRESSERS_PREVIEW: "true"` in the workflow
+  puts noindex on every page; with it off, player and team pages are
+  indexable from 5 quotes. `data/pressers-site-state.json` keeps each URL's
+  content hash and lastmod, so lastmod moves only when that page's quotes do.
 
 ## One-time setup
 

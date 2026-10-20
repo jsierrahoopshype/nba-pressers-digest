@@ -207,7 +207,7 @@ class PipelineTests(unittest.TestCase):
             stored = json.loads((out / "2026-09-30" / "J5unk3vEQmk.json").read_text(encoding="utf-8"))
             assert_only_link_wrappers_differ(self, md, ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored))
             manifest = pe.build_clip_manifest("t", 100000)
-        self.assertEqual(client.models.calls, ["video", "text"])
+        self.assertEqual(client.models.calls, ["video", "text", "text"])   # extraction, clip fields, structured fields
         self.assertEqual(data["content_type"], "presser")
         q1, q2 = data["quotes"]
         self.assertEqual((q1["start_seconds"], q1["speaker_confidence"], q1["news_score"]), (118, "named", 6))

@@ -1,7 +1,7 @@
 """
 Fuzzy-align a quote's text to timed words (YouTube captions or Whisper).
 
-Used by presser_extractor.py (cloud, youtube-transcript-api captions) and by
+Used by structured_quotes.py (cloud, youtube-transcript-api captions) and by
 make_presser_clips.py (local, yt-dlp captions or faster-whisper words).
 Pure standard library so it runs anywhere.
 

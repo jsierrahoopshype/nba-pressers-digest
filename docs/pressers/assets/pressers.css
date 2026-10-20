@@ -1,0 +1,126 @@
+/* HoopsMatic NBA pressers: shared stylesheet.
+   Tokens and components from the NBA Polymarket tracker (jsierrahoopshype/nba-polymarket,
+   docs/styles.css): light surfaces, 12px panels, DM Sans for words, JetBrains Mono for
+   figures, a big entity header. No eyebrows: no small uppercase kicker or label line above
+   or beside a title. Mobile first: base rules are the phone layout, the min-width query
+   widens things for desktop. Fonts are served from this site (OFL). */
+@font-face{font-family:'DM Sans';font-weight:400;font-display:swap;src:url(fonts/dm-sans-latin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD}
+@font-face{font-family:'DM Sans';font-weight:400;font-display:swap;src:url(fonts/dm-sans-latin-ext-400-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'DM Sans';font-weight:500;font-display:swap;src:url(fonts/dm-sans-latin-500-normal.woff2) format('woff2')}
+@font-face{font-family:'DM Sans';font-weight:600;font-display:swap;src:url(fonts/dm-sans-latin-600-normal.woff2) format('woff2')}
+@font-face{font-family:'DM Sans';font-weight:700;font-display:swap;src:url(fonts/dm-sans-latin-700-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD}
+@font-face{font-family:'DM Sans';font-weight:700;font-display:swap;src:url(fonts/dm-sans-latin-ext-700-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'JetBrains Mono';font-weight:500;font-display:swap;src:url(fonts/jetbrains-mono-latin-500-normal.woff2) format('woff2')}
+
+:root{
+  --bg:#f5f5f7;--surface:#fff;--surface-hover:#f0f0f2;--border:#d1d1d6;
+  --text:#1d1d1f;--text-secondary:#6e6e73;--accent:#3b82f6;--accent-dim:rgba(59,130,246,.15);
+  --green:#1d8a40;--green-dim:rgba(52,199,89,.16);--red:#d12c2c;
+  --mono:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'DM Sans',-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg);
+  color:var(--text);line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1100px;margin:0 auto;padding:1rem 1rem 3rem}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.mono{font-family:var(--mono)}
+
+/* The section's own tabs */
+.tm-tabs{display:flex;gap:.25rem;margin-bottom:1rem;flex-wrap:wrap}
+.tm-tabs a{font-size:.8125rem;font-weight:600;padding:.25rem .75rem;border-radius:999px;color:var(--text-secondary)}
+.tm-tabs a:hover{background:rgba(127,127,127,.12);text-decoration:none}
+.tm-tabs a.on{background:var(--accent-dim);color:var(--accent)}
+
+/* Page header */
+.hdr{margin-bottom:1rem}
+.hdr h1{font-size:1.35rem;font-weight:700;letter-spacing:-.03em;line-height:1.2}
+.subtitle{color:var(--text-secondary);font-size:.85rem;margin-top:.35rem;max-width:60rem}
+
+/* Entity header: player or team */
+.ehead{display:flex;align-items:center;gap:.9rem;border-bottom:1px solid var(--border);padding-bottom:1rem;margin-bottom:1rem}
+.ehead h1{font-size:1.4rem;font-weight:700;letter-spacing:-.02em;line-height:1.2}
+.ehead .subtitle{margin-top:.2rem}
+
+/* Headshot circle or team logo, with initials when there is none */
+.pic{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden;
+  width:28px;height:28px;vertical-align:middle;font-family:var(--mono);font-weight:600;
+  font-size:.6rem;color:var(--text-secondary);letter-spacing:.02em}
+.pic img{width:100%;height:100%;display:block}
+.face{border-radius:50%;background:var(--surface-hover)}
+.face img{object-fit:cover;object-position:center top}
+.logo{border-radius:6px}
+.logo img{object-fit:contain}
+.logo.ph{background:var(--surface-hover)}
+.pic.md{width:44px;height:44px;font-size:.75rem}
+.pic.xl{width:76px;height:76px;font-size:1.25rem}
+.logo.xl{border-radius:16px}
+
+/* Blocks and panels */
+.block{margin-bottom:1.5rem}
+.block-head{display:flex;align-items:baseline;justify-content:space-between;gap:.75rem;margin-bottom:.6rem;flex-wrap:wrap}
+.block-head h2{font-size:.95rem;font-weight:700;letter-spacing:-.01em}
+.block-head .ct{font-family:var(--mono);font-size:.72rem;color:var(--text-secondary)}
+.section{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:.9rem 1rem;margin-bottom:1rem}
+.section h2{font-size:.95rem;font-weight:700;letter-spacing:-.01em;margin-bottom:.4rem}
+.grid2{display:grid;grid-template-columns:1fr;gap:0 1rem;align-items:start}
+.msg{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:1.25rem;font-size:.875rem;color:var(--text-secondary)}
+
+/* Ranked rows: image, name, figure */
+.rows{display:flex;flex-direction:column}
+.row{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:.6rem;padding:.45rem 0;border-bottom:1px solid var(--border);font-size:.86rem}
+.row:last-child{border-bottom:none}
+.row .nm{min-width:0;font-weight:600;overflow-wrap:anywhere}
+.row .nm a{color:var(--text)}
+.row .nm a:hover{color:var(--accent)}
+.row .nm small{display:block;font-weight:500;font-size:.74rem;color:var(--text-secondary)}
+.row .v{font-family:var(--mono);font-weight:600;text-align:right;white-space:nowrap}
+
+/* One presser (a video) and its quotes */
+.presser{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:.8rem .85rem;margin-bottom:.75rem}
+.presser-head{display:flex;align-items:center;gap:.6rem;margin-bottom:.6rem}
+.presser-head h3{font-size:.92rem;font-weight:700;line-height:1.3;overflow-wrap:anywhere}
+.presser-head .meta{font-family:var(--mono);font-size:.7rem;color:var(--text-secondary)}
+.presser details{margin-top:.5rem}
+.presser summary{cursor:pointer;font-size:.8rem;font-weight:600;color:var(--accent)}
+.presser .cards{margin-top:.5rem}
+
+/* Quote cards */
+.cards{display:flex;flex-direction:column;gap:.5rem}
+.qc{position:relative;background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:.75rem .85rem}
+.presser .qc{border-color:var(--surface-hover);background:var(--bg)}
+.qc.best{border-color:var(--accent)}
+.qc .top{display:flex;align-items:center;gap:.6rem}
+.qc .who{min-width:0}
+.qc .who .nm{font-weight:700;font-size:.92rem;line-height:1.25;color:var(--text)}
+.qc .who a.nm:hover{color:var(--accent)}
+.qc .who .role{display:block;font-size:.76rem;color:var(--text-secondary)}
+.qc .ctx{font-size:.8rem;color:var(--text-secondary);margin-top:.55rem}
+.qc blockquote{font-size:.95rem;line-height:1.5;margin-top:.4rem;overflow-wrap:anywhere}
+.qc .about{font-size:.8rem;margin-top:.45rem;color:var(--text-secondary)}
+.qc .about a{color:var(--text);font-weight:600}
+.qc .about a:hover{color:var(--accent)}
+.qc .tags{display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.5rem}
+.tag{font-size:.7rem;font-weight:600;padding:.12rem .55rem;border-radius:999px;background:var(--accent-dim);color:var(--accent)}
+.qc .foot-row{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.5rem;margin-top:.6rem}
+.qc .qm{font-family:var(--mono);font-size:.7rem;color:var(--text-secondary);min-width:0;overflow-wrap:anywhere}
+.watch{display:inline-flex;align-items:center;gap:.35rem;font:inherit;font-size:.8rem;font-weight:600;
+  padding:.36rem .8rem;border:1px solid var(--accent);border-radius:8px;background:var(--surface);color:var(--accent);cursor:pointer}
+.watch:hover{background:var(--accent);color:#fff;text-decoration:none}
+.player{position:relative;width:100%;aspect-ratio:16/9;margin-top:.6rem;border-radius:8px;overflow:hidden;background:#000}
+.player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+
+.note{font-size:.8rem;color:var(--text-secondary);margin-top:1rem;max-width:64ch}
+.foot{font-family:var(--mono);font-size:.68rem;color:var(--text-secondary);margin-top:1.5rem;line-height:1.7}
+
+@media (min-width:861px){
+  .wrap{padding:1.5rem 1.5rem 4rem}
+  .hdr h1{font-size:1.6rem}
+  .ehead{gap:1.25rem}
+  .ehead h1{font-size:2rem}
+  .pic.xl{width:112px;height:112px;font-size:1.6rem}
+  .logo.xl{border-radius:20px}
+  .grid2{grid-template-columns:1fr 1fr}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
