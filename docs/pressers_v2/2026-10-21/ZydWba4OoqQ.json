@@ -1,0 +1,161 @@
+{
+  "video_title": "Chet Holmgren on tonight's mindset | Postgame Media | October 20, 2026",
+  "speakers_seen": [
+    "Chet Holmgren"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chet Holmgren",
+      "timestamp": "00:30",
+      "summary_phrase": "Chet Holmgren on managing emotions and staying objective after losses",
+      "names_mentioned": [],
+      "excerpt": "the first thing you have to do is remove the emotions from it. The emotions don't really help you.",
+      "quote": "I feel like the first thing you have to do is remove the emotions from it. It is the same thing when we had a different outcome the year before. The emotions don't really help you. You have to be able to look at things objectively and look at the facts, and that is what tells you where and how you need to improve. That was the first thing I tried to do, just remove the emotions from it and then look at the tangible things.",
+      "text_blocks": [],
+      "start_seconds": 30,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chet Holmgren says the key to moving past a tough loss is to remove the emotions and look at the facts. He emphasizes the need to look at tangible things to see where the team needs to improve.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren discusses his approach to analyzing game performance objectively after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chet Holmgren",
+      "timestamp": "01:06",
+      "summary_phrase": "Chet Holmgren on maintaining team-first focus during Victor Wembanyama matchup",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "you can easily get too emotional with this matchup, but I don't think you've ever gotten too emotional.",
+      "quote": "I feel like there is a balance between letting the game tell you what to do and telling the game what to do and making the game fit around. I don't think I have quite found the perfect balance of that. I don't think you ever do. But again, I think the perfect balance is being aggressive and then just reading, trying to make the right reads out there. That is just what I try to do. Will I ever be perfect at it? No. Will I ever be perfect at it? Probably not. But I just try to get better and better at that.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chet Holmgren on his offensive approach. He says he is still searching for the perfect balance between letting the game tell him what to do and dictating the action himself.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren explains his process for balancing individual aggression with making the right reads during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chet Holmgren",
+      "timestamp": "02:20",
+      "summary_phrase": "Chet Holmgren on team defensive effort against Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "we pride ourselves on playing together and for each other, and I feel like we did a great job.",
+      "quote": "I think we did a great job of keying in on what the coaches gave us and then going out there and not only making it tough on him, but tough on everybody else as a team. We pride ourselves on playing together and for each other, and I feel like we did a great job of that, especially on the defensive end, and it made things easier for us on the other end as well.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chet Holmgren credits the Thunder defensive effort for making things difficult on Victor Wembanyama and the rest of the Spurs. He says the team prides itself on playing together and for each other.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "OKC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren reflects on the team defensive effort against Victor Wembanyama and the importance of playing together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chet Holmgren",
+      "timestamp": "03:32",
+      "summary_phrase": "Chet Holmgren on team response to physical play and officiating",
+      "names_mentioned": [],
+      "excerpt": "anything that you're not willing to reciprocate is an advantage for the other team.",
+      "quote": "At the end of the day, I feel like anything that you're not willing to reciprocate is an advantage for the other team. So if they want to play physical, we have to match that, and the refs are going to do their job in keeping that within the guidelines. I think in the end, they got it done on that play.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chet Holmgren on dealing with physical play. He says anything you are not willing to reciprocate becomes an advantage for the opponent, so the team has to match that physicality.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren discusses the importance of matching the opponent's physical play during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chet Holmgren",
+      "timestamp": "05:32",
+      "summary_phrase": "Chet Holmgren on self-evaluation and areas for improvement",
+      "names_mentioned": [],
+      "excerpt": "when I'm at my worst, I'm focused too much on what I've done well and not what I need to improve.",
+      "quote": "I feel like when I'm at my worst, I'm focused too much on what I've done well and not what I need to improve on. So coming out of the game, my first initial reaction is looking at where I can be better. I feel like I was aggressive tonight and made a lot of the right plays, but I could also be better in that area, so that is more of what I'm focused on.",
+      "text_blocks": [],
+      "start_seconds": 332,
+      "end_seconds": 359,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chet Holmgren says he is at his worst when he focuses too much on what he did well. His postgame priority is always looking at where he can be better.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren evaluates his own performance and explains his focus on areas for improvement after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ZydWba4OoqQ",
+  "url": "https://www.youtube.com/watch?v=ZydWba4OoqQ",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-21T06:30:26Z",
+  "duration_seconds": 359,
+  "processed_at": "2026-10-21T11:50:20Z",
+  "run_id": "2026-10-21T1149Z-06utc",
+  "is_one_off": false
+}

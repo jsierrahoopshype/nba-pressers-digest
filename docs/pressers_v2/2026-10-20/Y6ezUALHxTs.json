@@ -1,0 +1,189 @@
+{
+  "video_title": "Post Game Press Conference l Javonte Green l Pistons vs  Celtics   10.20.26 #NBA",
+  "speakers_seen": [
+    "Javonte Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Javonte Green",
+      "timestamp": "00:00",
+      "summary_phrase": "Javonte Green on the Pistons' resilience and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "it stems from last year as well, just being out of our DBR, like anything could be anybody on any night",
+      "quote": "It stems from last year as well, just being out of our DBR, like anything could be anybody on any night and just staying ready and just trusting about with confidence and also having the trust my teammates have in me to make that pass for me to make good shots.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Javonte Green says the Pistons' team chemistry is built on trust and staying ready, noting that anyone can step up on any given night.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Javonte Green discusses the team chemistry and trust among teammates following the game against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Javonte Green",
+      "timestamp": "00:52",
+      "summary_phrase": "Javonte Green on the importance of teammate trust",
+      "names_mentioned": [],
+      "excerpt": "it is a blessing, you know, just getting, you know, just them from growing up, just having the trust",
+      "quote": "It is a blessing, you know, it is a blessing, you know, just getting, you know, just them from growing up, just having the trust you can count on somebody. A lot of people word is your bond, you know, just going out there and leading by example is always something I always been taught. So, I mean, I guess it is very comforting too, you know, to have that trust in your teammates and for them to have that trust in you as well.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Javonte Green emphasizes the importance of trust within the Pistons roster, calling it a blessing to have teammates who rely on each other.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Javonte Green reflects on the importance of building trust and leading by example with his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Javonte Green",
+      "timestamp": "01:32",
+      "summary_phrase": "Javonte Green on the Pistons' lack of energy in the third quarter",
+      "names_mentioned": [],
+      "excerpt": "I guess we was lacking energy, you know, we wasn't, you know, playing as hard as we know",
+      "quote": "I guess we was lacking energy, you know, we wasn't, you know, playing as hard as we know we can play on the defensive end and I feel like they were like too comfortable. So I feel like when we stepped that stepped the tone up, I feel like everything else will fall in place. You know, it is the way just our style of style of play, you know, we play our way, I know everything else will fall in place and for us, and probably first beginning of the third quarter we wasn't playing Detroit basketball.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Javonte Green admits the Pistons lacked energy in the third quarter against the Celtics, saying they were not playing Detroit basketball.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Javonte Green explains the team's lack of defensive energy during the third quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Javonte Green",
+      "timestamp": "02:14",
+      "summary_phrase": "Javonte Green on the team's adjustment to new faces",
+      "names_mentioned": [],
+      "excerpt": "I want to say any major differences, coming out, obviously we got new faces",
+      "quote": "I want to say any major differences, coming out, obviously we got new faces and them them guys just getting adjusted to, you know, Detroit basketball as well. I mean, I don't think it is no difference. I mean, I think by I don't want to put a day on it, but, you know, once everything gets down to the nitty-gritty, I think you will be running like a smooth or machine.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Javonte Green says the Pistons are still adjusting to new faces but believes the team will be running like a smooth machine once they get into the nitty gritty.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Javonte Green discusses how new players are adjusting to the team's style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Javonte Green",
+      "timestamp": "02:50",
+      "summary_phrase": "Javonte Green on the energy of the Detroit crowd",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "just to go out there in front of Detroit, like the fans in Detroit, you know, just bringing here",
+      "quote": "I guess it is a blessing, man. I think, you know, just to go out there in front of Detroit, like the fans in Detroit, you know, just bringing here to start this season is is great and I feel like they they showed out today. And um, like I think what Cade said before the game, we are going to need them all year and sitting in that once they let see they gave the rock and, you know, it is it is hard for us to, you know, slow down.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Javonte Green praised the Detroit crowd for showing out, echoing Cade Cunningham's sentiment that the team will need the fans all year long.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Javonte Green praises the Detroit crowd and references comments made by Cade Cunningham regarding the fans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Javonte Green",
+      "timestamp": "03:28",
+      "summary_phrase": "Javonte Green on his role and the origin of his nickname",
+      "names_mentioned": [],
+      "excerpt": "my role is, you know, tonight, you know, just going out there and changing the energy of the game",
+      "quote": "I guess, you know, my role is, you know, tonight, you know, just going out there and changing the energy of the game and just being prepared to do whatever it takes to help my team win. And I feel like that is that is what I brought tonight and the nickname Woo, nobody knows where it came from. And I'm sorry, but we've been asking the same question for, I'll say six years now. Nobody knows, my mom doesn't know, my grandma doesn't know, nobody knows where it came from. I wish I had an answer for you.",
+      "text_blocks": [],
+      "start_seconds": 208,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Javonte Green says his role is to change the energy of the game, and he still has no idea where his nickname Woo came from after six years.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Javonte Green describes his role in changing the game energy and explains that the origin of his nickname is unknown.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "Y6ezUALHxTs",
+  "url": "https://www.youtube.com/watch?v=Y6ezUALHxTs",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-20T23:47:19Z",
+  "duration_seconds": 241,
+  "processed_at": "2026-10-21T11:50:44Z",
+  "run_id": "2026-10-21T1149Z-06utc",
+  "is_one_off": false
+}

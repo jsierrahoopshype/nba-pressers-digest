@@ -1,0 +1,196 @@
+{
+  "video_title": "Shai Gilgeous-Alexander and Jared McCain | Postgame Media | October 20, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander",
+    "Jared McCain"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jared McCain",
+      "timestamp": "00:57",
+      "summary_phrase": "Jared McCain on his ability to find open spots on the floor",
+      "names_mentioned": [
+        "Mark Daigneault"
+      ],
+      "excerpt": "I've always been able to just find gaps, find windows",
+      "quote": "Since I was younger, I've always been able to just find gaps, find windows, whether it's an offensive rebound, just trying to find an open spot for someone to see me with. Even if it's a broken play, I feel like it's still live always, so being able to take those shots, I take them with confidence.",
+      "text_blocks": [],
+      "start_seconds": 57,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jared McCain on his offensive mindset: Since I was younger I have always been able to find gaps and windows. Even if it is a broken play I feel like it is still live always so being able to take those shots I take them with confidence.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain discusses his offensive approach and ability to find open spots on the floor during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:14",
+      "summary_phrase": "Shai Gilgeous-Alexander on Chet Holmgren's impact and aggressive play",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "When he's aggressive, when he's confident, when he's out there playing his game, he makes your basketball team better.",
+      "quote": "Chet is an All-NBA talent on both ends of the floor, and when he's himself, your team is better. It's as simple as that. If he was on any other team in the NBA, it'd be the same thing. When he's aggressive, when he's confident, when he's out there playing his game, he makes your basketball team better. It's no coincidence. He played better and we had a good night tonight.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander on Chet Holmgren: Chet is an All-NBA talent on both ends of the floor and when he is himself your team is better. It is no coincidence. He played better and we had a good night tonight.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander praises Chet Holmgren's impact and aggressive play following the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jared McCain",
+      "timestamp": "03:07",
+      "summary_phrase": "Jared McCain on playing alongside Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "Playing with a back-to-back MVP is something special.",
+      "quote": "When I first came, I was a little nervous, I didn't know how he was going to be, but he's a great person, a great guy. Being able to play next to him and just space the floor for him whenever he gets in trouble, whenever he needs it, I'm right there. It's awesome playing with all these guys, and playing with a back-to-back MVP is something special.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jared McCain on playing with Shai Gilgeous-Alexander: Being able to play next to him and just space the floor for him whenever he gets in trouble is awesome. Playing with a back-to-back MVP is something special.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jared McCain describes his experience playing alongside Shai Gilgeous-Alexander after joining the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:06",
+      "summary_phrase": "Shai Gilgeous-Alexander on his approach to taking tough shots",
+      "names_mentioned": [],
+      "excerpt": "I just go out there and trust my work.",
+      "quote": "I just go out there and trust my work. I don't see a tough shot or a good shot. Ultimately, it just comes down to me playing in my comfort zone. That's how I attack out there. If I feel like there's a shot that I can take and make, I'm going to step into it with utmost confidence, and if it's a shot I don't think I can make, I won't step into it.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander on his shot selection: I just go out there and trust my work. I do not see a tough shot or a good shot. Ultimately it just comes down to me playing in my comfort zone.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains his mindset and confidence when choosing which shots to take during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "05:02",
+      "summary_phrase": "Shai Gilgeous-Alexander on the importance of the season opener",
+      "names_mentioned": [],
+      "excerpt": "You can have an awful first game of the season and end your season amazingly.",
+      "quote": "This game doesn't really mean that much. The first game of the season, you can have an awful first game of the season and end your season amazingly. It doesn't mean anything really. It just means we used the opportunity tonight to get better against a really good team, and we did so. That's what you try to accomplish every night in an 82-game season.",
+      "text_blocks": [],
+      "start_seconds": 302,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander on the season opener: This game does not really mean that much. You can have an awful first game of the season and end your season amazingly. It just means we used the opportunity tonight to get better.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander shares his perspective on the significance of the season opener in the context of an 82-game season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jared McCain",
+      "timestamp": "06:03",
+      "summary_phrase": "Jared McCain on his development as a floor spacer",
+      "names_mentioned": [],
+      "excerpt": "I've always been good at just kind of finding a window, making sure I'm open.",
+      "quote": "Since I was younger, I've played up with my brother and a lot of my friends, and so I wasn't taking all the shots. I've always been good at just kind of finding a window, making sure I'm open so they could see me as the ball handler. That's half the battle, just finding the window, finding a gap to get off the shot. I don't have the longest wingspan or I'm not the tallest, so I got to be able to find a little extra space sometimes to get the shot off.",
+      "text_blocks": [],
+      "start_seconds": 363,
+      "end_seconds": 399,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jared McCain on his development: I do not have the longest wingspan or I am not the tallest so I have to be able to find a little extra space sometimes to get the shot off. That is half the battle.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain discusses his development as a floor spacer and how he creates shooting opportunities despite his physical limitations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "frS_STUoZug",
+  "url": "https://www.youtube.com/watch?v=frS_STUoZug",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-21T06:30:10Z",
+  "duration_seconds": 414,
+  "processed_at": "2026-10-21T11:50:32Z",
+  "run_id": "2026-10-21T1149Z-06utc",
+  "is_one_off": false
+}

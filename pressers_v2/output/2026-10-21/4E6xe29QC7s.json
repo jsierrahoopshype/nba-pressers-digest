@@ -1,0 +1,322 @@
+{
+  "video_title": "Coach Daigneault on tonight's collective effort | Postgame Media | October 20, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:00",
+      "summary_phrase": "Mark Daigneault on the team's collective defensive effort",
+      "names_mentioned": [],
+      "excerpt": "It was every guy that went in the game, we played 11 guys in the first half.",
+      "quote": "I thought we were really, really good on that end tonight and intentional on offense. It was every guy that went in the game, we played 11 guys in the first half, everybody was ready to play, everybody contributed. It was a great collective effort for 48 minutes. We knew in the second half they'd make runs and they'd come back, and I thought we weathered the storm well, recentered when appropriate. It was a great team win.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault praised the Thunder collective effort in tonight's win, noting that playing 11 guys in the first half showed that everyone was ready to contribute for the full 48 minutes.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the team's collective defensive and offensive performance following the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:31",
+      "summary_phrase": "Mark Daigneault on Shai Gilgeous-Alexander's poise and playmaking",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "It's his poise and his ability to answer the call that allows you to come on the road.",
+      "quote": "I thought he was really good. It's his poise and his ability to answer the call that allows you to come on the road and perform like that. He sets a great tone for us as he always has, and we were able to evolve a little bit as this team evolves. We got him in a lot of different spots tonight, which we've been emphasizing in the preseason, and that looked good. So, I thought he played obviously a brilliant game.",
+      "verbatim_original_language": "",
+      "start_seconds": 31,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault on Shai Gilgeous-Alexander's performance: It is his poise and ability to answer the call that allows the team to perform on the road. He sets a great tone for us as he always has.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault praises Shai Gilgeous-Alexander for his poise and playmaking ability during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:15",
+      "summary_phrase": "Mark Daigneault on learning from past playoff losses",
+      "names_mentioned": [],
+      "excerpt": "I think our collective understanding of the opponent like evolves over time.",
+      "quote": "I think our collective understanding of the opponent like evolves over time. We played Denver in the playoffs and we had played that core of a team for six years. Every time you play them, you develop a philosophy against that team. Last year was the first year that San Antonio was on the scene the way they were, and intact. They had young players, rookie players that were highly impactful. It takes time to learn the opponent, and we try to take the lessons from last season. It wasn't like a direct response to the playoff series, but that's what you do. The league doesn't change very much, especially the core guys on the best teams. We learned a little more tonight, they learned a little more about us. It's ongoing when you're playing these teams in the West.",
+      "verbatim_original_language": "",
+      "start_seconds": 75,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault on the team's approach to opponents: It takes time to learn the opponent. We try to take the lessons from last season. It is ongoing when you are playing these teams in the West.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "DEN",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault explains the process of learning opponents and applying lessons from previous playoff series.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:10",
+      "summary_phrase": "Mark Daigneault on the defensive plan against Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "Chet Holmgren"
+      ],
+      "excerpt": "I thought Chet did a great job on him, I thought Mara did a great job on him.",
+      "quote": "There's always a variance to it. I thought he missed shots that he can normally make from the floor. I thought Chet did a great job on him, I thought Mara did a great job on him in the possessions he had him, and I thought we collectively had the right amount of response to him. There's been times where we could get a little jumpy with him and we overhelp and give up something clean. There's other times where we've left him on an island. I thought tonight we had the perfect balance of providing help, putting him in a crowd, discipline on the ball, but not hemorrhaging in other parts of the floor.",
+      "verbatim_original_language": "",
+      "start_seconds": 130,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mark Daigneault on the defensive plan against Victor Wembanyama: We had the perfect balance of providing help, putting him in a crowd, and discipline on the ball, but not hemorrhaging in other parts of the floor.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama",
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault describes the defensive strategy used to contain Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:55",
+      "summary_phrase": "Mark Daigneault on the defensive rotation against Wembanyama",
+      "names_mentioned": [
+        "Chet Holmgren",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "We weren't intentional about the minute-for-minute thing. We had that rotation set going into the game tonight.",
+      "quote": "Chet's a great defender and a great competitor. We weren't intentional about the minute-for-minute thing. We had that rotation set going into the game tonight, regardless of what they did with Wembanyama, and we didn't deviate from it. He did a great job on him, and then the three-guard lineup that they started with is a big change when you're preparing for them. It gave us the chance to look at some things that we didn't really look at last year, mainly because they didn't play that very much. There's a little bit of everything, but he's always up for the challenge, that's nothing new with him. I was happy for him with how he played tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 175,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault says the Thunder stuck to their planned rotation against the Spurs tonight regardless of Wembanyama's presence, noting Chet Holmgren did a great job on the defensive end.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chet Holmgren",
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "OKC",
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault explains that the team stuck to a pre-planned rotation for Chet Holmgren regardless of the matchup against Victor Wembanyama.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:58",
+      "summary_phrase": "Mark Daigneault on the team's offensive intentionality",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "I thought we played with really good intentionality all night.",
+      "quote": "I thought we played with really good intentionality all night. I thought we understood how we wanted to attack them. We had some stretches of possessions where we were up against the shot clock a few times where we stagnated a little bit. We can learn from those when we go against a defense like this, but all in all, I thought our intentions tonight were really good on the offensive end.",
+      "verbatim_original_language": "",
+      "start_seconds": 238,
+      "end_seconds": 266,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mark Daigneault felt the Thunder played with good intentionality on offense tonight, though he noted some stretches where they stagnated against the shot clock.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault evaluates the team's offensive intentionality and execution throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Mark Daigneault",
+      "timestamp": "04:35",
+      "summary_phrase": "Mark Daigneault on the defensive cross-matching against Steph Curry",
+      "names_mentioned": [
+        "Steph Curry"
+      ],
+      "excerpt": "Castle, I give him credit, he made some shots in the second half after starting slow from three.",
+      "quote": "Castle, I give him credit, he made some shots in the second half after starting slow from three, and that's hard to do. It takes mental toughness to keep shooting the ball like that. They're going to learn as they continue to do that, and we'll continue to learn them in the touchpoints we get. Like I said, that was like a low-volume lineup for them last year. They found kind of a groove doing it a different way, and so we have to learn it too. We have to learn the opponents every time we touch them. It's not just the San Antonio thing, it's every team in the league. We're trying to learn the league and evolve our understanding of our opponents.",
+      "verbatim_original_language": "",
+      "start_seconds": 275,
+      "end_seconds": 323,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault on Stephon Castle: It takes mental toughness to keep shooting the ball like that after starting slow. They are going to learn as they continue to do that.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephon Castle"
+        ],
+        "teams": [
+          "OKC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the challenge of defending Stephon Castle and learning opponent tendencies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Mark Daigneault",
+      "timestamp": "05:27",
+      "summary_phrase": "Mark Daigneault on the team's readiness to start the season",
+      "names_mentioned": [],
+      "excerpt": "Everybody was ready to compete tonight, top to bottom there's no one you could ask about any guy.",
+      "quote": "Everybody was ready to compete tonight, top to bottom there's no one you could ask about any guy and the answer is that we were ready to rock. Guys were excited to play. It's been a long time since we played, first game of the season is always exciting. Now it's about starting the process of improving. We have 81 more games, it's a marathon. We got to learn from this one, then put it behind us and go out, try to be a little bit better in our next game, and continue that process throughout the whole season as we always do.",
+      "verbatim_original_language": "",
+      "start_seconds": 327,
+      "end_seconds": 367,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mark Daigneault on the start of the season: Everybody was ready to compete tonight. Now it is about starting the process of improving. We have 81 more games, it is a marathon.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault reflects on the team's readiness for the season opener and the long-term process of improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Mark Daigneault",
+      "timestamp": "06:14",
+      "summary_phrase": "Mark Daigneault on the rookie's NBA debut",
+      "names_mentioned": [],
+      "excerpt": "He was awesome, great poise, great impact.",
+      "quote": "He was awesome, great poise, great impact. He had probably one of the stretches of the game, it's a critical thing there when he blocked the shot and then went down and finished down the other end. He didn't seem overwhelmed by the atmosphere of the game. I'm not really surprised with how he's performed in preseason. I think he's proven to be a very impactful player. His minutes weren't high tonight, but his impact was. Clearly somebody we trust to put him in that game, and we're only going to trust him more after seeing how he performed in such a high-level game.",
+      "verbatim_original_language": "",
+      "start_seconds": 374,
+      "end_seconds": 414,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault on the rookie's debut: He was awesome, great poise, great impact. He did not seem overwhelmed by the atmosphere. Clearly somebody we trust to put in that game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault comments on the impressive performance of a rookie player during his NBA debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Mark Daigneault",
+      "timestamp": "06:55",
+      "summary_phrase": "Mark Daigneault on Jeremy McCain's shooting and shot selection",
+      "names_mentioned": [
+        "Jeremy McCain"
+      ],
+      "excerpt": "It's one thing to be a really good shooter, it's another thing to be able to find volume shots.",
+      "quote": "I think that's been what's been most impressive to me about him is, not just the accuracy of the shooting, but it's one thing to be a really good shooter, it's another thing to be able to find volume shots that are also high quality, and he always ends up like open. In the Houston preseason game, he goes 0-for-8 from three, and I'm impressed that he can find eight of them in a short stretch of minutes like that. And I'm also impressed that like he's shooting the next shot really without any conscience of what's already happened. He's got unbelievable confidence. So you combine the skill, the accuracy of the shot, the confidence to shoot them, and then his ability to find them, and he's a weapon as we saw tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 415,
+      "end_seconds": 466,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault on Jeremy McCain: He has unbelievable confidence. You combine the skill, the accuracy of the shot, the confidence to shoot them, and his ability to find them, and he is a weapon.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremy McCain"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault highlights the shooting confidence and shot selection of Jeremy McCain.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "4E6xe29QC7s",
+  "url": "https://www.youtube.com/watch?v=4E6xe29QC7s",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-21T06:32:55Z",
+  "duration_seconds": 467,
+  "processed_at": "2026-10-21T11:50:25Z",
+  "run_id": "2026-10-21T1149Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,167 @@
+{
+  "video_title": "Jalen Williams speaking on tonight's win | Postgame Media | October 20, 2026",
+  "speakers_seen": [
+    "Jalen Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Williams",
+      "timestamp": "00:11",
+      "summary_phrase": "Jalen Williams on the team's defensive identity",
+      "names_mentioned": [],
+      "excerpt": "I feel like our defense definitely carried us over the hump",
+      "quote": "I thought defensively we were really good. I feel like offense probably takes everybody a little bit to get a groove and know where we are all going, but I think our defense definitely carried us over the hump and then we were able to generate good looks because of it. That's been our identity since I've been here and we'll continue to do that, but that was definitely defensively a really good start.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Williams says the Thunder defense is the team identity and it carried them through tonight. He noted that while the offense is still finding its groove, the defensive intensity remains the constant.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams discusses the team's defensive performance and identity following their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Williams",
+      "timestamp": "00:50",
+      "summary_phrase": "Jalen Williams on maintaining composure in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "not panicking. They hadn't really shot the ball well",
+      "quote": "Probably just poise, not panicking. They hadn't really shot the ball well, they missed some shots that they usually make, so we kind of knew throughout the game they'll hit a couple. Just stay steadfast through the whole entire thing and I thought we did a good job of that. We kept playing the right way too. It's easy to, especially early, it's easy to drift away from the plan when teams go on runs and I thought we did a good job of staying the course.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Williams credits poise for the Thunder holding steady during opponent runs. He emphasized the importance of not panicking and staying the course when shots are not falling.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams explains how the team maintained composure during the fourth quarter to secure the win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Williams",
+      "timestamp": "01:21",
+      "summary_phrase": "Jalen Williams on the scuffle involving Fox and Chet Holmgren",
+      "names_mentioned": [
+        "Fox",
+        "Chet Holmgren"
+      ],
+      "excerpt": "Just be there for my teammate.",
+      "quote": "Just be there for my teammate. That's it. I didn't really like the play and I just ran in there. If anybody's ever been in a scuffle, there's really not a lot of thinking to it. It's just make sure I have my guys back in there and you know, NBA scuffles, you just grab whoever is close and just push. So, cost me $2,500 though, so.",
+      "verbatim_original_language": "",
+      "start_seconds": 81,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jalen Williams on the scuffle involving Chet Holmgren and De'Aaron Fox: It was just about having his teammate's back. Williams joked that the moment cost him 2500 dollars.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Aaron Fox",
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC",
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Williams explains his reaction to an on-court scuffle involving Chet Holmgren and De'Aaron Fox.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Williams",
+      "timestamp": "02:34",
+      "summary_phrase": "Jalen Williams on the team's collective experience and trust",
+      "names_mentioned": [],
+      "excerpt": "Our group is pretty battle-tested.",
+      "quote": "Our group is pretty battle-tested. Obviously we got some new pieces, but for the most part we've had guys that have made pretty deep playoff runs and obviously a lot of our team was a part of the team that won. So, I would just say it's battle-test. We trust each other to make the right plays, we trust each other if we mess up to have each other's back. That's just built over years of playing with each other and it kind of just shines through whenever we get in these kind of tough spots.",
+      "verbatim_original_language": "",
+      "start_seconds": 154,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Williams says this Thunder group is battle tested. He believes the trust built over years of playing together is what allows the team to handle tough spots in games.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams reflects on the team's collective experience and trust built through previous playoff runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Williams",
+      "timestamp": "03:19",
+      "summary_phrase": "Jalen Williams on his defensive focus and offensive adjustment",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "I think defensively I'm great. That's where I hang my hat on.",
+      "quote": "I think defensively I'm great. That's where I hang my hat on. I think offensively is again, having a new team, new lineups, new everything. A lot of our guys were in and out a lot of last year. So, it's just learning how to play with everybody. I'm trying to still pick my spots and figure out what my spots even are because I basically didn't play for a whole year. I feel like me and Shai were playing off the ball a little more today just trying to literally on the fly figure stuff out. It's something that we'll look at and just continue to try and get better at every day.",
+      "verbatim_original_language": "",
+      "start_seconds": 199,
+      "end_seconds": 243,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jalen Williams says he is still figuring out his offensive spots while playing off the ball more with Shai Gilgeous Alexander. He noted the team is literally figuring out new lineups on the fly.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams discusses his personal defensive focus and the process of adjusting to new offensive lineups with Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ppsCvuQJw6w",
+  "url": "https://www.youtube.com/watch?v=ppsCvuQJw6w",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-21T06:30:18Z",
+  "duration_seconds": 267,
+  "processed_at": "2026-10-21T11:50:18Z",
+  "run_id": "2026-10-21T1149Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,359 @@
+{
+  "video_title": "Practice Media Availability (10/20/26) | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:17",
+      "summary_phrase": "Tyronn Lue on Isaiah Hartenstein's potential as a starter",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "I think his pace and speed and his ability to beat bigs down the floor is huge",
+      "quote": "I am very confident. I think his pace and speed and his ability to beat bigs down the floor is huge for us. And his ability to roll and get to the rim and let DG and those guys get downhill in pick and rolls and become a lob threat and then also being able to kick out for threes. We know we got to protect him a little bit against bigger centers that post a lot, but overall, I think he has shown that he is ready for that and we will see how it goes.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyronn Lue says he is very confident in Isaiah Hartenstein as a starter noting his pace and ability to beat bigs down the floor. Lue adds that while they need to protect him against post-heavy centers he has shown he is ready for the role.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue discusses his confidence in Isaiah Hartenstein as a potential starter for the team.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:43",
+      "summary_phrase": "Tyronn Lue on what makes Isaiah Hartenstein a good rebounder",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "his athletic ability being able to jump over guys and pursue the basketball",
+      "quote": "The combination of his motor, he is always around the ball every single time. He does a good job of getting good position, but his athletic ability being able to jump over guys and pursue the basketball, I mean we are looking for him to get some more over the top.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyronn Lue credits Isaiah Hartenstein's rebounding success to his motor and athletic ability saying he is always around the ball and does a good job of getting good position.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue explains the physical attributes that make Isaiah Hartenstein an effective rebounder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:15",
+      "summary_phrase": "Tyronn Lue on his coaching philosophy regarding player challenges",
+      "names_mentioned": [],
+      "excerpt": "just tell them what I need from them",
+      "quote": "I just tell them what I need from them. First day of camp, when we got to Hawaii, we went over each player's roles and what we expected of guys, but a few guys that I believe more, they got to be able to do more.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue on his coaching philosophy regarding player expectations. Lue says he clearly defined roles at the start of camp but notes that for the guys he believes in more they have to be able to do more.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue describes his philosophy regarding setting player roles and expectations during training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:35",
+      "summary_phrase": "Tyronn Lue on the versatility of his point guards",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "he is going to have a little bit of both",
+      "quote": "Just seeing how he played in college. He started playing off the ball and then they really took off when he was on the ball. So he is going to have a little bit of both. I think with his size he can play some two, but we know he is a point guard. Just having him to be able to do both, handle the ball when we need him to, come off screens when we need him to, just gives us a different look and moves him around a little bit so defenses just can't lock in on him.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue discusses the versatility of his point guards saying he wants them to be able to handle the ball and come off screens to keep defenses from locking in on them.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue discusses the versatility of his point guards and how he plans to utilize them on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:27",
+      "summary_phrase": "Tyronn Lue's confidence in the young point guard's development",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "we can trust him with the basketball",
+      "quote": "We can trust him with the basketball. I know he is young but his confidence never wavers. He had one turnover the whole preseason and he played the most minutes on the team. So we can trust him with the basketball. He can make plays, he can make shots and he just got to continue to just keep maturing, keep building and he is going to be fine.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyronn Lue praises his young point guard for his maturity and ball security noting he had only one turnover during the entire preseason while playing the most minutes on the team.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue expresses his trust in a young point guard's development and performance during the preseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:56",
+      "summary_phrase": "Tyronn Lue on implementing new offensive schemes",
+      "names_mentioned": [],
+      "excerpt": "putting in a lot of stuff early offensively",
+      "quote": "We are putting in a lot of stuff early offensively, just kind of see what works for this team and what will stick. We scrapped a lot of it already, but just kind of see what works for this team. We got some new players, got guys in new positions and so just trying to see what works and they have done a good job of picking up all the stuff and now going into game one, kind of see how it works and what we need to add and what we need to get better at.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue says the Clippers are still experimenting with offensive schemes heading into game one as they integrate new players and adjust to guys playing in new positions.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue talks about the process of implementing and testing new offensive schemes ahead of the regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyronn Lue",
+      "timestamp": "03:39",
+      "summary_phrase": "Tyronn Lue on the benefits of playing a bigger lineup",
+      "names_mentioned": [
+        "Brook Lopez",
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "gives the opportunity to have size on the floor to rebound the basketball",
+      "quote": "I think just size gives the opportunity to have size on the floor to rebound the basketball. I think it is good, even like Brook and Baba a little bit together, just having size to be able to help rebound the basketball since we are so small.",
+      "text_blocks": [],
+      "start_seconds": 219,
+      "end_seconds": 237,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue explains the benefit of playing a bigger lineup saying it gives the team a better opportunity to rebound the basketball which is a focus since the roster is relatively small.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue explains the strategic benefits of playing a bigger lineup to improve the team's rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyronn Lue",
+      "timestamp": "04:06",
+      "summary_phrase": "Tyronn Lue on the team's approach to late-clock three-pointers",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "he has worked on it and he has been shooting it well",
+      "quote": "He has worked on it and he has been shooting it well. Just not coming down with 19 on the clock and trailing threes. But if we get to the second, third action he pops with 7-8 seconds on the clock, he can definitely shoot it or if we run some action and he spots up in a three and it swings, swings to him, like definitely take those shots. So he has worked on it, our players are confident in it, I talk stuff to him late, they are confident in it as well, but not the early ones.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue outlines the team's approach to three-point shooting saying he wants players to avoid early clock shots but encourages them to take the shot if they get to their spots later in the possession.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue clarifies the team's approach and discipline regarding when players should take three-point shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tyronn Lue",
+      "timestamp": "04:38",
+      "summary_phrase": "Tyronn Lue on the keys to efficient scoring",
+      "names_mentioned": [
+        "Rui Hachimura"
+      ],
+      "excerpt": "to be able to score three levels",
+      "quote": "To be able to score three levels. Mid-range is very elite, three-point shot is very elite, but also being able to attack the basket and get to the rim. So when you are a three-level scorer, that helps you be efficient.",
+      "text_blocks": [],
+      "start_seconds": 278,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue breaks down the keys to efficient scoring saying a player must be able to score at all three levels including the mid-range the three-point line and attacking the rim.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue outlines the importance of three-level scoring for offensive efficiency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Tyronn Lue",
+      "timestamp": "05:08",
+      "summary_phrase": "Tyronn Lue on the keys to efficient pull-up shooting",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "just knowing where his spot is and getting to a spot on the floor",
+      "quote": "Just getting to his spots. He is 6'8\" so he can shoot over top of anybody, but just knowing where his spot is and getting to a spot on the floor. A lot like Kawhi in every regard, just being able to work, get to a spot, raise up and take his shots.",
+      "text_blocks": [],
+      "start_seconds": 308,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue compares a player's ability to get to their spots and shoot over defenders to Kawhi Leonard saying it is all about knowing where the spot is and raising up to take the shot.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue compares a player's ability to get to their spots and shoot to the style of Kawhi Leonard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Tyronn Lue",
+      "timestamp": "05:23",
+      "summary_phrase": "Tyronn Lue on Ben Simmons' return to health",
+      "names_mentioned": [
+        "Ben Simmons",
+        "Woody"
+      ],
+      "excerpt": "he looked very healthy",
+      "quote": "You can see that he put in the work. How he played in transition, he was attacking the basket, getting to the free-throw line, making plays and to come back and being healthy the way he was, he looked very healthy. And me talking to Woody just checking on Ben and seeing how he was doing, it is just sad to see because he put in all that work to get back, all the hard work it takes to get on the floor and so you never want to see that happen to any players, but me having Ben, you never want to see it happen to a guy like that.",
+      "text_blocks": [],
+      "start_seconds": 323,
+      "end_seconds": 359,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Tyronn Lue reacts to the latest injury news regarding Ben Simmons saying it is sad to see after all the hard work Simmons put in to get back on the floor.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ben Simmons"
+        ],
+        "teams": [
+          "LAC",
+          "BKN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyronn Lue reacts to Ben Simmons suffering an injury after working hard to return to the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "vvLXKvR_VL8",
+  "url": "https://www.youtube.com/watch?v=vvLXKvR_VL8",
+  "channel_team": "LA Clippers",
+  "published": "2026-10-21T00:45:24Z",
+  "duration_seconds": 359,
+  "processed_at": "2026-10-21T11:50:43Z",
+  "run_id": "2026-10-21T1149Z-06utc",
+  "is_one_off": false
+}

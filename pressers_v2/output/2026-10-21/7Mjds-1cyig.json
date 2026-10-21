@@ -1,0 +1,298 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 10.20.26",
+  "speakers_seen": [
+    "Coach Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "01:09",
+      "summary_phrase": "Coach Nurse on the team's collective intent and early chemistry",
+      "names_mentioned": [],
+      "excerpt": "I think the intent of what everybody is doing has been there.",
+      "quote": "It is encouraging. I think I mentioned this a bunch pregame. I think the intent of what everybody is doing has been there. It is hard to judge anything in the preseason, but the passing was a little sloppy and lots of turnovers and all the rhythm and timing was not there, but they were looking ahead.",
+      "verbatim_original_language": "",
+      "start_seconds": 69,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse says the Sixers showed good intent in their preseason opener despite some sloppy passing and timing issues. He noted the team is still working through early chemistry.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse discusses the team's overall chemistry and performance during the preseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "01:30",
+      "summary_phrase": "Coach Nurse praises Joel Embiid's decision-making and reading of defenses",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I thought Joel was magnificent tonight in making the right play.",
+      "quote": "I thought Joel was magnificent tonight in making the right play. He just kept making the right play depending on what was there and that is really all we are asking to do, hit the open man and read the defense.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse praised Joel Embiid for his decision making against the defense tonight. Nurse said the goal is simple for Embiid: hit the open man and read the defense.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse praises Joel Embiid for his decision-making and ability to read opposing defenses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "01:54",
+      "summary_phrase": "Coach Nurse explains the tactical options during late-game blitzes",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "Joel Embiid"
+      ],
+      "excerpt": "One of them is to hit the short roller there which is what Joel is going into.",
+      "quote": "Normally you have a couple options on a blitz there at the top. One of them is to hit the short roller there which is what Joel is going into. That is usually a pretty good option because that is the guy that just made the blitz, so that guy should be free. They started rotating a little bit on some of that, but I thought he just got to a spot. It is important that they complete that pass and then you just got to read the four-on-three situation and I think two in a row, Tyrese Maxey snuck behind them and Joel hit him.",
+      "verbatim_original_language": "",
+      "start_seconds": 114,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse broke down the late game blitz strategy, highlighting the connection between Joel Embiid and Tyrese Maxey. Nurse says the key is reading the four on three situation.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Nick Nurse explains the tactical execution of late-game blitzes involving Joel Embiid and Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "02:31",
+      "summary_phrase": "Coach Nurse on the importance of hitting open three-pointers",
+      "names_mentioned": [],
+      "excerpt": "I thought we were generating a bunch of wide open threes and just nobody could throw one in.",
+      "quote": "Those were incredibly huge tonight because I thought we were generating a bunch of wide open threes and just nobody could throw one in. Those guys kind of broke through on that and moved the scoreboard for us. It is one of those things, if you are again making the right reads and it is a kick-out catch-and-shoot three, you are going to have to keep taking them all night whether you are making them or not.",
+      "verbatim_original_language": "",
+      "start_seconds": 151,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse emphasized the importance of continuing to take open threes even when shots are not falling. He says the team must keep making the right reads regardless of the result.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse discusses the importance of maintaining confidence in shooting open three-pointers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "03:03",
+      "summary_phrase": "Coach Nurse on the defensive versatility of using four players on Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid",
+        "Jalen Brunson"
+      ],
+      "excerpt": "It gives you some versatility to to play some other coverages.",
+      "quote": "I think we talked about that yesterday or the day before about it is common to put a four-man on Joel because there are so many pick-and-rolls with him and Jalen Brunson. It gives you some versatility to play some other coverages. It was good. I mean, Hart obviously stepped in and nailed a couple right in a row to make you pay for the adjustment you make, but over the long haul it was very good for us I think.",
+      "verbatim_original_language": "",
+      "start_seconds": 183,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse discussed the defensive adjustment of putting a four man on Joel Embiid to handle pick and rolls. He noted it provides versatility but acknowledged the risk of leaving shooters open.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "Jalen Brunson",
+          "Josh Hart"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Nick Nurse discusses defensive adjustments used against Joel Embiid and Jalen Brunson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "03:36",
+      "summary_phrase": "Coach Nurse on the team's defensive connectivity and Tyrese Maxey's speed",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "LeBron James"
+      ],
+      "excerpt": "Whenever Tyrese darts into a lane and steals one I am not that surprised.",
+      "quote": "I think our guys were doing pretty good as far as being connected. Whenever Tyrese darts into a lane and steals one I am not that surprised because he has just got a burst of speed to make those kind of plays. It was really close, it looked like it was going down to the last possession and all of a sudden he gets a breakaway layup to put us up six.",
+      "verbatim_original_language": "",
+      "start_seconds": 216,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse says he is not surprised by Tyrese Maxey's defensive impact. He praised Maxey for his burst of speed that allowed him to secure a key breakaway layup late in the game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse comments on the team's defensive connectivity and Tyrese Maxey's speed.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "04:41",
+      "summary_phrase": "Coach Nurse on the team's decision-making process during offensive sets",
+      "names_mentioned": [
+        "Joel Embiid",
+        "LeBron James",
+        "Tyrese Maxey"
+      ],
+      "excerpt": "We are getting into some actions, we make the next read and the guys are just trying.",
+      "quote": "We are getting into some actions, we make the next read and the guys are just trying to read where the ball is supposed to go. I think we are just making good decisions and I think you could throw that around to just about everybody. Obviously I thought Joel made some huge ones, LeBron made some big ones, but I think Tyrese made a couple as well. Again, just keep trying to make the right play.",
+      "verbatim_original_language": "",
+      "start_seconds": 281,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse credited the team for making good decisions across the board. He highlighted Joel Embiid and Tyrese Maxey for their ability to consistently make the right play.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "LeBron James",
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse evaluates the decision-making of his players during offensive sets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "05:24",
+      "summary_phrase": "Coach Nurse on the team's mental preparation and focus",
+      "names_mentioned": [],
+      "excerpt": "I think our focus has been really good and the intent and all that stuff that we have done.",
+      "quote": "I think our focus has been really good and the intent and all that stuff that we have done has been really excellent as far as our mental prep and these guys trying to speed that along as best they can because they get it. It is like eight or nine new guys here and listen, it is one game. I am really happy to come over and get a win.",
+      "verbatim_original_language": "",
+      "start_seconds": 324,
+      "end_seconds": 351,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse is happy with the team's focus and mental preparation. With eight or nine new players on the roster, he says the group is working hard to speed up their integration.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse reflects on the team's mental preparation and focus following a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "06:15",
+      "summary_phrase": "Coach Nurse credits defensive rebounding for the team's offensive flow",
+      "names_mentioned": [],
+      "excerpt": "Probably our defensive rebounding, if that makes any sense, gave him a chance to play.",
+      "quote": "Probably our defensive rebounding, if that makes any sense, gave him a chance to play not necessarily in transition or in break, but in transition people moving up the floor and he is able to hit some gaps as everything is kind of moving. He had a nice run of the ball finding him, him making tough moves to the basket, ran a couple plays for him, a little bit of a combination of those things.",
+      "verbatim_original_language": "",
+      "start_seconds": 375,
+      "end_seconds": 404,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse says defensive rebounding was the catalyst for the team's offensive flow tonight. He noted it allowed them to attack gaps in transition and find rhythm.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse explains how defensive rebounding contributed to the team's offensive flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "7Mjds-1cyig",
+  "url": "https://www.youtube.com/watch?v=7Mjds-1cyig",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-21T03:17:56Z",
+  "duration_seconds": 442,
+  "processed_at": "2026-10-21T11:50:38Z",
+  "run_id": "2026-10-21T1149Z-06utc",
+  "is_one_off": false
+}
