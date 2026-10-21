@@ -1,0 +1,242 @@
+{
+  "video_title": "LIVE: Pelicans vs. Pacers Pregame w/ Jamahl Mosley 10/21/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:25",
+      "summary_phrase": "Jamahl Mosley on the importance of a fast start",
+      "names_mentioned": [],
+      "excerpt": "our starters in the game have to come out and hit first.",
+      "quote": "It's huge. Our starters in the game have to come out and hit first. There's got to be a level of physicality, a level of toughness that we possess night in and night out, but tonight, obviously going against a very good Indiana basketball team, that's going to be very key for us.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says the Pelicans starters must prioritize physicality and hit first against a tough Pacers team tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Pelicans head coach Jamahl Mosley discusses the importance of his team starting with physicality against the Indiana Pacers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:48",
+      "summary_phrase": "Jamahl Mosley on coaching against Rick Carlisle",
+      "names_mentioned": [
+        "Rick Carlisle"
+      ],
+      "excerpt": "going up against Rick and many times over the years but just being under his mentorship",
+      "quote": "I think it's great. Going up against Rick and many times over the years but just being under his mentorship for all those years, the respect that I have for him and what he's taught me in this game is huge. So, obviously no better opponent to go up against than him tonight.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley shares his respect for Rick Carlisle ahead of tonight's matchup, citing his years of mentorship under him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rick Carlisle"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on his mentorship under Rick Carlisle ahead of their matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:04",
+      "summary_phrase": "Jamahl Mosley on the interconnectedness of NBA coaching circles",
+      "names_mentioned": [
+        "Rick Carlisle",
+        "Joe",
+        "Mike Brown"
+      ],
+      "excerpt": "it's a small circle when it comes down to it. And you always touch on the coaching circles",
+      "quote": "It's a small circle when it comes down to it. And you always touch on the coaching circles, and I think that's great because what this game has done for all of us, it keeps us connected, it keeps us together, it keeps us sharing ideas, stealing ideas. But just the reality is that it's great to be around such a great group of coaches for all the years that I've been in it. Carlisle being with Joe and then Sham being with Carlisle and myself out there and Carlisle being with Mike Brown and all these coaches that have all been together, I think that's really great for the game that we continue to share ideas and uplift our coaches in the organization.",
+      "text_blocks": [],
+      "start_seconds": 244,
+      "end_seconds": 292,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley reflects on the interconnected nature of NBA coaching circles and the value of sharing ideas across organizations.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rick Carlisle",
+          "Joe Mazzulla",
+          "Mike Brown"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the interconnected nature of NBA coaching circles and his professional relationships with other coaches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:14",
+      "summary_phrase": "Jamahl Mosley on the team's offensive identity",
+      "names_mentioned": [],
+      "excerpt": "it had a superpower in its ability to get downhill, attack the basket, get to the free throw line.",
+      "quote": "The thing about this team is from last year, it had a superpower in its ability to get downhill, attack the basket, get to the free throw line. Pour into that more. And then with those paint touches, how do we find those threes where guys are open, making the on-time, on-target pass, and when you're open, letting it fly. That's what we've talked about with our guys because you don't want to stop that basketball, you want to make the quick decisions. So it's about playing fast, but not playing reckless. It's more about recognition than reckless.",
+      "text_blocks": [],
+      "start_seconds": 314,
+      "end_seconds": 352,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley wants the Pelicans to lean into their superpower of getting downhill and attacking the basket while focusing on playing fast but not reckless.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the offensive identity and decision-making process he wants his team to implement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:14",
+      "summary_phrase": "Jamahl Mosley on Haliburton's resilience and playstyle",
+      "names_mentioned": [
+        "Haliburton"
+      ],
+      "excerpt": "your heart breaks for him and the what he's put in the work, you know because you know him",
+      "quote": "Your heart breaks for him and the what he's put in the work, you know because you know him for years just for his journey and what he's been through and the way he was playing. He was playing at such an elite, elite level at that moment, fearless. And so that's what happened in that moment, your heart breaks for him and you see what Oklahoma City was able to go on and do, but you also know the style of play that Haliburton is able to perform on any given night.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley discusses Tyrese Haliburton's resilience, noting his heart breaks for what the guard has been through in his career.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "NOP",
+          "IND",
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley expresses sympathy for Tyrese Haliburton regarding his past injury and discusses his resilience.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:26",
+      "summary_phrase": "Jamahl Mosley on Haliburton's confidence and floor generalship",
+      "names_mentioned": [
+        "Haliburton"
+      ],
+      "excerpt": "the same confidence, the same swagger, the same amount of talking that he does",
+      "quote": "The same confidence, the same swagger, the same amount of talking that he does, getting his teammates involved, his ability to push the ball up and down the floor, throw aheads, attacking the rim, but just being that floor general night in and night out. That speed that he looked like he did not miss a step. And obviously his shot, knocking three-point shots down at a high clip and stepping into them quickly with confidence.",
+      "text_blocks": [],
+      "start_seconds": 446,
+      "end_seconds": 475,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley praises Tyrese Haliburton's return to form, noting he looks like he did not miss a step with his confidence and floor generalship.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the confidence and playmaking abilities of Tyrese Haliburton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "08:07",
+      "summary_phrase": "Jamahl Mosley on team defense against bigs",
+      "names_mentioned": [
+        "Zubac"
+      ],
+      "excerpt": "it's never just that one person's responsibility. With them shooting as many threes as they do",
+      "quote": "It's never just that one person's responsibility. With them shooting as many threes as they do, and I'm not going to say Misi and Z got to get all the rebounds, our guards got to get in there and help too. So it's a five-man job to get the job done on any great player.",
+      "text_blocks": [],
+      "start_seconds": 487,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley emphasizes that rebounding against the Pacers is a five-man job and not just the responsibility of the bigs.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Yves Missi",
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes that rebounding and defense against the Pacers is a collective team responsibility.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "bBu0HJ2P70c",
+  "url": "https://www.youtube.com/watch?v=bBu0HJ2P70c",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-21T22:26:25Z",
+  "duration_seconds": 560,
+  "processed_at": "2026-10-21T23:18:30Z",
+  "run_id": "2026-10-21T2317Z-20utc",
+  "is_one_off": false
+}
