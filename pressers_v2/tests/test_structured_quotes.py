@@ -353,7 +353,7 @@ class SiteTests(unittest.TestCase):
                 self.assertIn("Anything wrong? Email us at", page)
                 foot = re.search(r"<footer[^>]*>(.*)</footer>", page, re.S).group(1)
                 self.assertEqual(re.sub(r"<[^>]+>", "", foot),
-                                 "Anything wrong? Email us at hoopshype@hoopshype.comFor business inquiries, contact us at ads@hoopshype.com")
+                                 "Anything wrong? Email us at hoopsmatic@hoopsmatic.comFor business inquiries, contact us at ads@hoopsmatic.com")
             self.assertIn('data-v="CCCCCCCCCCC" data-t="61"', player)
             self.assertIn("Watch at 1:01", player)
             titles = {re.search(r"<title>(.*?)</title>", p).group(1) for p in (idx, player, team)}
