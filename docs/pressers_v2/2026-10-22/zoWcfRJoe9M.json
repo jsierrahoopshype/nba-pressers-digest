@@ -1,0 +1,222 @@
+{
+  "video_title": "“They Have That Connectivity Already.” | Chris Finch Postgame Sound | 10.21.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:09",
+      "summary_phrase": "Anthony Edwards' offensive rhythm and playmaking in the season opener",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "LaMelo Ball"
+      ],
+      "excerpt": "he got enough good clean looks to be able to get himself into a rhythm",
+      "quote": "100 percent. He got enough good clean looks to be able to get himself into a rhythm. And then when he was on the ball, I thought he played really decisive there too. Particularly in that first half, the ball was flying around. It wasn't just Anthony Edwards that LaMelo Ball was really creating great energy for, but it was everybody who was benefiting from it. We missed a lot of wide-open shots, and I kept looking at it like, how we only have 10 assists at halftime?",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch on Anthony Edwards after the season opener: He got enough good clean looks to get into a rhythm and was really decisive on the ball. The ball was flying around in the first half.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch discusses Anthony Edwards' offensive rhythm and playmaking during the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "01:44",
+      "summary_phrase": "Jonathan Kuminga's performance and defensive impact",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "I personally thought Jonathan Kuminga was phenomenal",
+      "quote": "I personally thought Jonathan Kuminga was phenomenal. In my mind, there was a lot of really good performances, but his sticks out just as being able to take the honest matchup and fight him all the time. And then offensively, I thought he was a quick and clever decision-maker for us too.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch praised Jonathan Kuminga for his performance against Giannis Antetokounmpo: I thought he was phenomenal. He was able to take the honest matchup and fight him all the time.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises Jonathan Kuminga's performance and defensive impact following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "02:26",
+      "summary_phrase": "Minnesota's increased three-point volume in the new offense",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "LaMelo Ball",
+        "Rudy Gobert"
+      ],
+      "excerpt": "we've not intentionally talked about upping our three-point volume",
+      "quote": "We've not intentionally talked about upping our three-point volume. We've had to do that generally, but we figured it would be a benefit of how we could play. Most of them came in the good flow, or even the self-generated ones were Anthony Edwards when he was on a roll, or LaMelo Ball getting off Rudy Gobert's screens.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch says the Timberwolves are not intentionally trying to increase their three point volume: We figured it would be a benefit of how we could play.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards",
+          "LaMelo Ball",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the team's three-point volume and offensive flow in the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "04:15",
+      "summary_phrase": "Anthony Edwards' ability to thrive in big moments",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "he always thrived and lived for and embraced the moments",
+      "quote": "With Anthony Edwards' mindset and abilities, he always thrived and lived for and embraced the moments. Opening night is always going to be a moment. Christmas Day is always going to be a moment. Playoffs are full of all kinds of moments, and he's always going to meet that. That's one thing we learned about him early on.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Chris Finch on Anthony Edwards: With his mindset and abilities he always thrived and lived for and embraced the moments. That is one thing we learned about him early on.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch reflects on Anthony Edwards' ability to perform in high-pressure moments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "05:39",
+      "summary_phrase": "Jonathan Kuminga's defensive effort against Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Jonathan Kuminga",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "he didn't give him any easy catches when he was down and around his operating area",
+      "quote": "He got up in him. He fought him. He didn't give him any easy catches when he was down and around his operating area. He met him high, cut down his runway, and wasn't afraid to put his body on him continually, including on the glass. Obviously Giannis Antetokounmpo had a big night, but you've got to keep fighting. Next time down, Giannis might spin off him and get a dunk. Next time down, he's right back in the fight.",
+      "text_blocks": [],
+      "start_seconds": 339,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Finch on Kuminga vs Giannis: He got up in him and fought. He met him high and cut down his runway and was not afraid to put his body on him continually.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga",
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIN",
+          "GSW",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Chris Finch details Jonathan Kuminga's defensive effort while guarding Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "06:34",
+      "summary_phrase": "Terrence Shannon Jr.'s development as a primary ball-handler",
+      "names_mentioned": [
+        "Terrence Shannon Jr.",
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "he's very effective with the ball in his hands",
+      "quote": "We learned last year, and silly me for not figuring it out sooner, but he's very effective with the ball in his hands. He's basically a point guard for us in that way. It puts a lot of pressure on the defense early, and he's just a better top-of-the-floor player than he is coming out of the corners. He played on the ball a lot in college, so I think he feels natural that way too, especially with Isaiah Hartenstein on the floor.",
+      "text_blocks": [],
+      "start_seconds": 394,
+      "end_seconds": 426,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch on Terrence Shannon Jr: He is very effective with the ball in his hands. He is basically a point guard for us in that way. He is a better top of the floor player than he is coming out of the corners.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Terrence Shannon Jr.",
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses Terrence Shannon Jr.'s development and effectiveness as a primary ball-handler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "zoWcfRJoe9M",
+  "url": "https://www.youtube.com/watch?v=zoWcfRJoe9M",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-22T04:49:10Z",
+  "duration_seconds": 485,
+  "processed_at": "2026-10-22T11:54:27Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,166 @@
+{
+  "video_title": "Myles Turner Postgame Press Conference | 10.21.26",
+  "speakers_seen": [
+    "Myles Turner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Myles Turner",
+      "timestamp": "00:00",
+      "summary_phrase": "Myles Turner on the team's defensive performance and foul trouble",
+      "names_mentioned": [],
+      "excerpt": "you can't win any basketball game if the other team is living at the bonus",
+      "quote": "Overall, I think our biggest problem tonight on the defensive side of the board was fouls. I really think we played a pretty solid defensive game for the most part. I like the way our guys are rotating, I like the fighting competitiveness that we had. But you can't win any basketball game if the other team is living at the bonus for four quarters in a row. And you have two of their better players getting to the line, you're going to play. It's hard. It kills our momentum, we can't really get out and run like we'd like to, and you have to tip your cap to them. They found ways to manipulate the game.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Myles Turner says the team's defensive effort was solid tonight but the game was lost at the charity stripe. You cannot win when the opponent is living at the bonus for four quarters because it kills all momentum.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner discusses the team's defensive performance and the impact of foul trouble following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Myles Turner",
+      "timestamp": "01:26",
+      "summary_phrase": "Myles Turner on Anthony Edwards' balanced offensive performance",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "he did a little bit of everything, you know. It wasn't just all isolation situations",
+      "quote": "He had a balanced attack, you know. I think he did a little bit of everything, you know. It wasn't just all isolation situations. I think that obviously got some of our bigs in foul trouble. He scored off the pick and roll, pick and pops, hit a couple jumpers. I mean, he had a pretty balanced game, but again, I think half of his points were from the free throw line. So, if you're able to contest and you know, keep him off the free throw line, it's a completely different game.",
+      "text_blocks": [],
+      "start_seconds": 86,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Myles Turner on defending Anthony Edwards. He notes that while Edwards had a balanced attack, half his points came from the free throw line. Turner believes the game would have been different if they kept him off the line.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIL",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Myles Turner analyzes Anthony Edwards' offensive performance and his ability to draw fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Myles Turner",
+      "timestamp": "02:03",
+      "summary_phrase": "Myles Turner on the team's progress and long-term development",
+      "names_mentioned": [],
+      "excerpt": "we're a younger group, we're a newer group that's trying to learn the cadence of the NBA",
+      "quote": "My message to the team after the game was, fellas, from the first preseason game to where we're at now, we've gotten a lot better. And one of the things I hate that people say, but it's true, is oh, it's a long season, it's a long season. Yes, it's the first game, but if you keep looking at it, hey, it's a long season. You feel like, okay, we'll get there eventually. But that's not really our mindset. Obviously, we're building, and we want to get better every single night. But I think we took a step in the right direction tonight. Obviously, we would have liked to win, and the scoreboard will reflect that, but as a group, I think we played good basketball tonight. So you clean up the margins, and you know, you look at your wounds and you get ready to go.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Myles Turner says the team is focused on getting better every night rather than leaning on the long season excuse. He believes they took a step in the right direction despite the loss.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner reflects on the team's development and progress since the start of the preseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Myles Turner",
+      "timestamp": "03:06",
+      "summary_phrase": "Myles Turner on the team's improved transition defense",
+      "names_mentioned": [
+        "Tyler"
+      ],
+      "excerpt": "I love our transition defense, you know. This, we knew this is the number one transition team",
+      "quote": "I love our transition defense, you know. This, we knew this is the number one transition team in preseason, at least. That was a big problem for us at the beginning of preseason was, you know, guys getting out and running against us, so we did a better job there. I'm truly think we defensively, we had a good game outside of the fouls. And there were a couple offensive rebounds, but I mean, I think it was a pretty much a balanced attack in all phases. You know, some guys didn't really shoot the ball super well, but you know, Jaime got a great first instruction, Tyler obviously got going. I think that, you know, it's going to be somebody's night every other night, you know.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Myles Turner praised the team's improved transition defense against a fast opponent. He says the group is learning to adjust and that different players will step up on different nights.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaime Jaquez Jr.",
+          "Tyler Herro"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner evaluates the team's transition defense and individual offensive contributions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Myles Turner",
+      "timestamp": "03:52",
+      "summary_phrase": "Myles Turner on the team's need to prioritize the margins",
+      "names_mentioned": [],
+      "excerpt": "we're a younger group, we're a newer group that's trying to learn the cadence of the NBA",
+      "quote": "We're a younger group, we're a newer group that's trying to learn the cadence of the NBA. And just as a whole, I think that we got to prioritize the margins game, because that's where you, that's where you win. And that's Taylor's philosophy, you know, that extra offensive rebounds, you know, the getting to the free throw line, the getting the other free throw lines. So margins will be very important for us.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Myles Turner says this young group is focused on winning the margins. He emphasizes that prioritizing things like offensive rebounds and free throw attempts is key to the team's philosophy.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor Jenkins"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner explains the team's focus on winning the margins as part of the coach's philosophy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "UKtCNu-aqYY",
+  "url": "https://www.youtube.com/watch?v=UKtCNu-aqYY",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-22T02:33:15Z",
+  "duration_seconds": 303,
+  "processed_at": "2026-10-22T11:56:02Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

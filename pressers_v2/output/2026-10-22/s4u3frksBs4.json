@@ -1,0 +1,164 @@
+{
+  "video_title": "Ja Morant Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026",
+  "speakers_seen": [
+    "Ja Morant"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja Morant",
+      "timestamp": "00:25",
+      "summary_phrase": "Ja Morant on the importance of a strong team start",
+      "names_mentioned": [],
+      "excerpt": "You only get one chance at a first impression.",
+      "quote": "Just being ready. You only get one chance at a first impression, and that was our message to each other before we ran out of the tunnel, to make sure we leave a good message and start off on the right foot. Obviously the starters, we put a lot of pressure on ourselves to start the game right for the team. For us to be able to do that and execute on both ends was big time.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant on the Blazers fast start: We put a lot of pressure on ourselves to start the game right for the team. For us to be able to do that and execute on both ends was big time.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant discusses the team's emphasis on starting the game with high energy and focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja Morant",
+      "timestamp": "01:05",
+      "summary_phrase": "Ja Morant on the impact of Damian Lillard's return",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "A guy hasn't played in 18 months and he come out and delivered the way he did.",
+      "quote": "I think it's from the start, when he walked out for the little speech and you heard how loud the gym got. Me and DC were talking, we felt like we were probably into it as well. It's crazy. Obviously I feel like that's the most mind-blowing thing for me today was a guy hasn't played in 18 months and he come out and delivered the way he did for us. Special.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ja Morant on Damian Lillard returning after 18 months: It is the most mind blowing thing for me today. A guy has not played in 18 months and he came out and delivered the way he did for us. Special.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant reacts to Damian Lillard returning to the court after an 18-month absence.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja Morant",
+      "timestamp": "01:50",
+      "summary_phrase": "Ja Morant on his rebounding and defensive positioning",
+      "names_mentioned": [],
+      "excerpt": "Knowing that three-point shots lead to long rebounds.",
+      "quote": "I feel like a lot goes into it, obviously knowing that three-point shots lead to long rebounds. And then obviously reading your man. We obviously trying to focus on not giving up old boards and my man don't crash, I get a free run to go help somebody out or go grab the rebound.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ja Morant breaks down his defensive rebounding approach: Knowing that three point shots lead to long rebounds and reading your man. If my man does not crash I get a free run to go help somebody out or go grab the rebound.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant explains his approach to defensive positioning and rebounding during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ja Morant",
+      "timestamp": "02:27",
+      "summary_phrase": "Ja Morant on the team's physical chemistry and sparring",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "Me and Dame been talking and I feel like we got the best sparring partners in the association.",
+      "quote": "It's very important. Obviously I wasn't even surprised about us doing it. That's why I laughed when you said them trying to be physical with us because me and Dame been talking and I feel like we got the best sparring partners in the association. We going against Tsunami, you going against Drew, you going against Scoop, obviously the presence at the rim and down the line. We get the rep with those guys either guarding us or on the same team every day. We not going to face too many people like that.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant on the team's physical edge: I feel like we have the best sparring partners in the association. We get the reps with those guys either guarding us or on the same team every day. We are not going to face too many people like that.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant discusses the team's physical chemistry and the intensity of their practice sessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ja Morant",
+      "timestamp": "03:41",
+      "summary_phrase": "Ja Morant on the team's guard-heavy rotation",
+      "names_mentioned": [],
+      "excerpt": "It's a release. Obviously one guard out there, you want him to bring the ball up.",
+      "quote": "It's a release. Obviously one guard out there, you want him to bring the ball up, put guys in position, run a play. We have multiple guys that can do that for us. So off the rebound, off the outlet, whoever got it can push. The way our offense is built, the system works for everybody, no matter what spot you are on the floor. We always can get into something for that guy. I think it's a plus. It's obviously tougher for defenses to guard.",
+      "text_blocks": [],
+      "start_seconds": 221,
+      "end_seconds": 254,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant on the Blazers guard heavy rotation: We have multiple guys that can bring the ball up and run a play. The way our offense is built the system works for everybody. It is obviously tougher for defenses to guard.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant explains the benefits of the team's guard-heavy rotation and offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "s4u3frksBs4",
+  "url": "https://www.youtube.com/watch?v=s4u3frksBs4",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-22T05:49:46Z",
+  "duration_seconds": 262,
+  "processed_at": "2026-10-22T11:54:03Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

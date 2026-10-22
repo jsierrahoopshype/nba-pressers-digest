@@ -1,0 +1,119 @@
+{
+  "video_title": "Damian Lillard Postgame Interview | Portland Trail Blazers 124, Phoenix Suns 83 | Oct. 21, 2026",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:16",
+      "summary_phrase": "Damian Lillard on the Trail Blazers' strong season-opening performance",
+      "names_mentioned": [],
+      "excerpt": "It was a great way to start this chapter for our team.",
+      "quote": "It was a great way to start this chapter for our team. We came out and everything that our coach has been preaching for the last month or two, everything we talked about on film, the tendencies, what they wanted us to do, we came out on point on defense and that allowed us to get out and run offensively. We shared the ball, we played together and our minds were right tonight and that's how we were able to jump out and it wasn't necessary for us to be out there in the fourth.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Damian Lillard says the Trail Blazers were on point defensively in their season opener. He credited the team for following the coaching staff's game plan to jump out to an early lead.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Damian Lillard discusses the team performance and defensive execution in the season-opening win against the Phoenix Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:50",
+      "summary_phrase": "Damian Lillard credits team preparation for the season-opening win",
+      "names_mentioned": [
+        "Chris Durning",
+        "Eric Maynor",
+        "Sim Aaron",
+        "Hank Hibler"
+      ],
+      "excerpt": "I give a lot of credit to all the people that invested their time.",
+      "quote": "I give a lot of credit to all the people that invested their time, late nights, early mornings, Chris Durning, Eric Maynor, Sim Aaron, Hank Hibler. I mean everybody that took the time when I was trying to be here before practice, 6:00 a.m., whatever the case may be, we did the work. The preparation was there. So once it came time to do what I've always done, it was just a matter of if my body would be there for me and we checked every box and I was ready to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Damian Lillard credits his early season performance to the preparation and extra work put in with his support staff. He says we checked every box and I was ready to go.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Durning",
+          "Eric Maynor",
+          "Sim Aaron",
+          "Hank Hibler"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard credits specific staff members for their assistance in his preparation and recovery process leading up to the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "timestamp": "02:10",
+      "summary_phrase": "Damian Lillard on the importance of support from former teammates",
+      "names_mentioned": [
+        "ET",
+        "Myers"
+      ],
+      "excerpt": "Both guys are true friends of mine, not just former teammates.",
+      "quote": "I love Myers, I love ET. Both guys are true friends of mine, not just former teammates. So for them to come out and support, I think that speaks to the kind of culture that we've had over all the years in Portland, that we actually had real bonds. We care about each other and they're part of the family, so to see them come out and show support, that means a lot to me and I was happy to see them get love shown to them in the middle of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 130,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Damian Lillard reflects on the culture in Portland after former teammates Meyers Leonard and Evan Turner attended the game. He says it speaks to the real bonds and family atmosphere they built over the years.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Meyers Leonard",
+          "Evan Turner"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard reflects on the support shown by former teammates Meyers Leonard and Evan Turner during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "UDMiaOIamcw",
+  "url": "https://www.youtube.com/watch?v=UDMiaOIamcw",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-22T04:57:15Z",
+  "duration_seconds": 185,
+  "processed_at": "2026-10-22T11:54:05Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

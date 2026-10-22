@@ -1,0 +1,446 @@
+{
+  "video_title": "Jamahl Mosley on season opener, roster rotations | Pelicans vs Pacers Postgame Interview 10/21/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:03",
+      "summary_phrase": "Jamahl Mosley on the team's fourth-quarter defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "you give a team like this 27 fast break points, and it's what we talked about",
+      "quote": "It wasn't. That was the fourth, that was the start of it, that's what was most glaring, but there were other pieces throughout the game. Taking care of the basketball, you give a team like this 27 fast break points, and it's what we talked about, we can't have that happen. So, us being able to take care of the basketball, the pick and roll coverage with Siakam and Haliburton down the stretch, our line of communication, we've got to continue to get better there. But again, that's an elite two-man combo, we've got to be better in how we handle it and in that line of communication.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on the Pelicans defensive struggles against the Pacers: Giving up 27 fast break points is not sustainable. We have to be better in our line of communication and handling elite two-man combos down the stretch.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Jamahl Mosley discusses the defensive challenges the team faced against the Pacers in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:42",
+      "summary_phrase": "Jamahl Mosley praises Eve's defensive impact and versatility",
+      "names_mentioned": [
+        "Eve"
+      ],
+      "excerpt": "Everything that we're talking about him being and doing was exactly what he showed tonight",
+      "quote": "I thought Eve was incredible. I thought he was absolutely incredible. Everything that we're talking about him being and doing was exactly what he showed tonight. Being able to protect the rim, being able to get out in transition, in the pick and roll, covering for others, covering for guys as the low man. He did a lot of very good things for us tonight. His energy and his effort is exactly what we're going to continue to need from him on a nightly basis.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley was impressed with Eve in the season opener: I thought Eve was absolutely incredible. Everything we talked about him being and doing was exactly what he showed tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley praises the defensive performance and rim protection of Eve following the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:12",
+      "summary_phrase": "Mosley on the rotation and defensive aggression with Fears and Murray",
+      "names_mentioned": [
+        "Fears",
+        "Jante Murray"
+      ],
+      "excerpt": "those two guys are guys that can pick up full court, change the dynamic of the game",
+      "quote": "I think you have the head of the snake. Those two guys are guys that can pick up full court, change the dynamic of the game. They started out hot, it became the fouls that turned up a lot of it, and that's what happened in the fourth quarter as well. We have to understand the level of aggression we can play with, but then also when they get in that bonus, how we can be smart in our positioning and the details of where we are there.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the defensive aggression of Fears and Murray: Those two guys are guys that can pick up full court and change the dynamic of the game, but we have to be smart with our positioning when they get in the bonus.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Fears",
+          "Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Jamahl Mosley explains the defensive aggression and positioning required for Fears and Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:17",
+      "summary_phrase": "Mosley on Herb's defensive impact and physicality",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb came in the game and changed the game with his defensive effort, his defensive energy",
+      "quote": "Herb came in the game and changed the game with his defensive effort, his defensive energy, his toughness, his physicality. I think those are big keys, and I think taking note of that is a very big key for us.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley credits Herb for shifting the momentum: Herb came in the game and changed the game with his defensive effort, his defensive energy, his toughness, and his physicality.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley highlights the impact of Herb's defensive energy and physicality off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:43",
+      "summary_phrase": "Mosley on Zion and Trey's need for better paint spacing",
+      "names_mentioned": [
+        "Zion",
+        "Trey",
+        "Duboc"
+      ],
+      "excerpt": "finding the open man, creating the right space necessary when so we have an outlet for them",
+      "quote": "There are opportunities for us to spray when we get down in the paint when there's three in there. Duboc did a great job of being vertical at the rim. They did a very good job down there, so finding the open man, creating the right space necessary when so we have an outlet for them when they get into the paint. So, I think we'll just have to go back and look at the film and see exactly what it looks like for our spacing, for the decision making.",
+      "text_blocks": [],
+      "start_seconds": 163,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says the Pelicans need to improve their spacing when Zion and Trey attack the paint: We have to find the open man and create the right space necessary so we have an outlet when they get into the paint.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion",
+          "Trey",
+          "Duboc"
+        ],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Jamahl Mosley addresses the need for better spacing when Zion and Trey drive into the paint against rim protectors like Duboc.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:29",
+      "summary_phrase": "Mosley on team defensive communication and accountability",
+      "names_mentioned": [],
+      "excerpt": "the guys are buying into how hard they need to play, how they have to communicate",
+      "quote": "For the most part, I think we did a pretty good job. For the most part, and then there was the small breakdowns, but in games like this, you see a three-point game, those are the small things that you have to make sure you have tightened up. And so as we go back and look at the film tomorrow, being able to see how we can clean some of those things up, but the guys are buying into how hard they need to play, how they have to communicate with one another, and this is game one, but being able to understand as we move forward how we can continue to improve and be better and continue to hold each other accountable in that regard.",
+      "text_blocks": [],
+      "start_seconds": 209,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on the team's defensive buy-in: The guys are buying into how hard they need to play and how they have to communicate with one another. It is game one, but we have to continue to hold each other accountable.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley reflects on the team's defensive communication and accountability in the first game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:07",
+      "summary_phrase": "Mosley on Zion's confidence and rim attacking",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "I think his confidence level in his shot, but his confidence level in getting to the rim",
+      "quote": "I thought he was great. I thought he was really good tonight. I think his confidence level in his shot, but his confidence level in getting to the rim, trying to attack the basket downhill, which is one thing we know he's capable of doing. And early on being able to sit down and guard, being able to sit and make sure guys didn't get into the paint early. Again, what cost us in this game was the turnovers, the late transition baskets, and then our lines of communication down the stretch, which we will clean up moving forward.",
+      "text_blocks": [],
+      "start_seconds": 247,
+      "end_seconds": 285,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Zion's performance: I thought he was really good tonight. His confidence level in his shot and his ability to attack the basket downhill is something we know he is capable of doing.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley evaluates Zion's confidence and performance attacking the rim during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:38",
+      "summary_phrase": "Mosley on defensive adjustments to high pick-and-roll",
+      "names_mentioned": [
+        "Siakam",
+        "Halley Burton"
+      ],
+      "excerpt": "our ability to get over or under the screen, you know, at some of those times",
+      "quote": "I think I go back to the communication. They went to the one-four high pick and roll a ton, and our ability to get over or under the screen, you know, at some of those times you're going to have to live with Siakam taking a tough contested two, the rejects that Halley Burton had getting down the lane, so it was too easy of a basket. So, those are things we'll find on film, clean up, understand exactly how physical we can be in those moments so we can get the switch and now make it a tough two versus a straight line drive to the rim.",
+      "text_blocks": [],
+      "start_seconds": 278,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on defensive adjustments: We have to understand exactly how physical we can be in those moments so we can get the switch and make it a tough two versus a straight line drive to the rim.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Jamahl Mosley discusses defensive adjustments needed to better handle the high pick-and-roll used by the Pacers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:27",
+      "summary_phrase": "Mosley on Murray's leadership and protecting teammates",
+      "names_mentioned": [
+        "Murray",
+        "Queen",
+        "Holly Burton"
+      ],
+      "excerpt": "He's a true leader. He's a born leader",
+      "quote": "He's a true leader. He's a born leader, and I think that says a lot about him and who he is and what he wants to protect our guys. And I think for us, it has to be that night in and night out. You know, we talk about representing this city, and there's a toughness and a grit to this city, and that's who we have to be every time we step on this floor, regardless of the circumstances, regardless who is the opponent, we have to do what we do with a level of toughness, physicality, grit, and resilience night in and night out.",
+      "text_blocks": [],
+      "start_seconds": 327,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on Dejounte Murray: He is a born leader. We talk about representing this city, and there is a toughness and a grit to this city, and that is who we have to be every time we step on this floor.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley praises Murray for his leadership and embodiment of the team's grit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:00",
+      "summary_phrase": "Mosley on Herb Johnson's professionalism and defensive role",
+      "names_mentioned": [
+        "Herb Johnson"
+      ],
+      "excerpt": "Herb is the ultimate pro, and those conversations that we have understanding that the minutes",
+      "quote": "Herb is the ultimate pro, and those conversations that we have understanding that the minutes and how he plays is he's asking what he needs to do night in and night out. He's going to be a doggish defender, night in and night out, stepping into his shot, knocking it down when need be. But he is the ultimate pro, and he is actually a coach's dream to be able to communicate at a high level with him for what he sees, how he understands the game, and what he knows is going on within the game.",
+      "text_blocks": [],
+      "start_seconds": 360,
+      "end_seconds": 397,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley calls Herb Johnson the ultimate pro: He is going to be a doggish defender night in and night out. He is actually a coach's dream to be able to communicate at a high level with him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Johnson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley describes Herb Johnson as the ultimate professional and a coach's dream.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:48",
+      "summary_phrase": "Mosley on team-first, committee-based offensive approach",
+      "names_mentioned": [
+        "Z",
+        "Hally Burton"
+      ],
+      "excerpt": "we've always talked about it being done by committee",
+      "quote": "That's a great question. With us, we've always talked about it being done by committee. And some nights it's going to be one, some nights it's going to be another, because the matchups will change, and how we get them into those situations will determine exactly how where they're being matched up against. You know, Z had a big on him, and then we try to put Hally Burton in the pick and roll with the switch. They did a great job of getting back over it, but it is not just a responsibility of the one-four, or two-four, whoever it is, whoever has that ball in their hands, you are now the playmaker to make everyone else around you better, whether you get the shot or you distribute it to somebody on the perimeter to now make the next play.",
+      "text_blocks": [],
+      "start_seconds": 408,
+      "end_seconds": 462,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on the offensive approach: We have always talked about it being done by committee. Whoever has that ball in their hands, you are now the playmaker to make everyone else around you better.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Jamahl Mosley explains the team's offensive philosophy of playing by committee and making the right reads.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:35",
+      "summary_phrase": "Mosley on individual player responsibility in the team system",
+      "names_mentioned": [
+        "Z"
+      ],
+      "excerpt": "it's about playing the right way with each other because everybody can have an opportunity",
+      "quote": "I think there's an opportunity for each guy to establish how they can help us get the result that we're looking for within games if we're playing the right way. Because I think even if it's Z getting the ball at the end of the game, his job as an responsibility to this team is if he gets downhill and somebody's there, he's spraying it out, so now we have a knockdown three. So, whatever it looks like, it's about playing the right way with each other because everybody can have an opportunity in that.",
+      "text_blocks": [],
+      "start_seconds": 455,
+      "end_seconds": 492,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on team system: It is about playing the right way with each other because everybody can have an opportunity in that. If Zion gets downhill and somebody is there, he is spraying it out for a knockdown three.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley discusses individual responsibility within the team's offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "08:06",
+      "summary_phrase": "Mosley on Deek's response and defensive growth",
+      "names_mentioned": [
+        "Deek",
+        "Zubac"
+      ],
+      "excerpt": "I love how he responded, and I think he did a very good job of just connecting",
+      "quote": "I love how he responded, and I think he did a very good job of just connecting the dots. 10 rebounds, I thought he was big there. 10 points, 10 rebounds, did a good job on Zubac in moments, and I think he's just as he continues to grow and he's continued to get better, he's going to be a piece that just going to connect us as a group.",
+      "text_blocks": [],
+      "start_seconds": 486,
+      "end_seconds": 510,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Deek's growth: I love how he responded. 10 points, 10 rebounds, he did a good job on Zubac in moments, and he is going to be a piece that is just going to connect us as a group.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Deek",
+          "Zubac"
+        ],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley comments on Deek's growth and his defensive effort against Zubac.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "KHZ64CSP3Ec",
+  "url": "https://www.youtube.com/watch?v=KHZ64CSP3Ec",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-22T04:40:47Z",
+  "duration_seconds": 510,
+  "processed_at": "2026-10-22T11:54:43Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

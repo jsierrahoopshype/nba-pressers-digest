@@ -1,0 +1,177 @@
+{
+  "video_title": "Hornets at Nets: Brandon Miller Postgame Media Availability | 10/21/2026",
+  "speakers_seen": [],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandon Miller",
+      "timestamp": "00:00",
+      "summary_phrase": "Brandon Miller on the Hornets' season-opening win against the Nets",
+      "names_mentioned": [],
+      "excerpt": "It felt pretty good, just being back out there with the guys, of course.",
+      "quote": "It felt pretty good, just being back out there with the guys, of course. Of course the season kicker just started off. I think everybody is excited for NBA basketball around the world. So just being out there competing at the highest level is always the fun part. Then of course we got the win on top of that, which secured us at 1-0. It's always a good record to start off with, first game, getting all the wrinkles and kinks out.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller on the Hornets starting the season 1-0 after their win over the Nets. He says it felt good to be back out there competing at the highest level.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Brandon Miller reflects on the Hornets' season-opening victory against the Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandon Miller",
+      "speakers": [
+        "Brandon Miller",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:28",
+      "summary_phrase": "Brandon Miller on the impact of new coaching staff and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "They're coaching the young guys in the timeouts, on the court, or wherever they can help.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What are you seeing from those new guys stepping in and your system gelling?"
+        },
+        {
+          "speaker": "Brandon Miller",
+          "text": "Definitely. I think just being the vets that they are, they're coaching the young guys in the timeouts, on the court, or wherever they can help. They're always wanting to help. I think that's an advantage for us, having guys like that that's been around where we want to be in playoffs, in finals. So just having guys like that, I think we'll use that to our advantage."
+        }
+      ],
+      "start_seconds": 28,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brandon Miller says the Hornets are using their veteran additions to their advantage. He notes that the new guys are coaching the younger players on the court and in timeouts to help the team reach the playoffs and finals.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Miller discusses the impact of veteran teammates on the younger players during his postgame availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brandon Miller",
+      "speakers": [
+        "Brandon Miller",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:54",
+      "summary_phrase": "Brandon Miller on his role and expectations for the Hornets",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "I'm always telling we're going to be a playoff team.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What does Coach Lee ask of you to do for the team?"
+        },
+        {
+          "speaker": "Brandon Miller",
+          "text": "I think the team asks me to be Brandon Miller. Whether that's being a two-way, guarding everybody on the floor, or scoring the basketball, or just getting everybody in action or getting everybody involved. I feel like we do a great job of playing with the pass, playing with each other. Sometimes I'm not really needed, but I'm still there to help out as much as I can and just make all the winning plays. I'm always telling we're going to be a playoff team. That's just always where I stand with what this team is going to be. Our goal is of course the playoffs and we're going to do everything that we can to get there."
+        }
+      ],
+      "start_seconds": 54,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Brandon Miller is setting high expectations for the Hornets this season. He says the team goal is the playoffs and he is confident they will get there by making winning plays and playing for each other.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Charles Lee"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Brandon Miller explains his role within the team and his expectations for the season under head coach Charles Lee.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brandon Miller",
+      "speakers": [
+        "Brandon Miller",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:45",
+      "summary_phrase": "Brandon Miller on the team's resilience without key players",
+      "names_mentioned": [
+        "Connor"
+      ],
+      "excerpt": "I think the way that we fight against adversity.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What does it say about this team that you guys won without Connor?"
+        },
+        {
+          "speaker": "Brandon Miller",
+          "text": "I think the way that we fight against adversity. Obviously we had a little adversity going into the second half. I think we just came together as a team and just talked about what we need to focus on, and I feel like that's how we run. We focused on the controllables, and that's what gave us the win tonight."
+        }
+      ],
+      "start_seconds": 105,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller credits the Hornets' ability to fight against adversity for their win over the Nets. He says the team focused on the controllables during the second half to secure the victory.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Connor"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller addresses how the team handled adversity during the game while playing without teammate Connor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "v3UCvgrcscU",
+  "url": "https://www.youtube.com/watch?v=v3UCvgrcscU",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-22T03:09:05Z",
+  "duration_seconds": 130,
+  "processed_at": "2026-10-22T11:55:39Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,345 @@
+{
+  "video_title": "Rick Carlisle & Tyrese Haliburton on Ty's Return and Win Over Pelicans | Postgame Media Availability",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Tyrese Haliburton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:00",
+      "summary_phrase": "Rick Carlisle on the Pacers' second-half intensity and defensive effort",
+      "names_mentioned": [],
+      "excerpt": "Our guys did a great job in the second half of being combative and fighting.",
+      "quote": "It is great to win. Our guys did a great job in the second half of being combative and fighting, and fighting a lot harder than we did in the first half, particularly the second quarter, which was well below standard from the standpoint of intensity and passion to compete. The first half, we had 35 percent of the loose balls, we were getting out-rebounded 30 to 15. That just shows that you are not playing hard enough. We had a pretty animated discussion about it at halftime. The second half, we got 58 percent of the loose balls, and then the game turned.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle says the Pacers had a pretty animated discussion at halftime after a first half that was well below standard. The team responded by winning the loose ball battle in the second half to secure the win.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the Pacers' second-half intensity and defensive adjustments during their postgame media availability after defeating the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:28",
+      "summary_phrase": "Rick Carlisle praises Tyrese Haliburton's return and impact on the game",
+      "names_mentioned": [
+        "Tyrese Haliburton",
+        "Pascal Siakam",
+        "Obi Toppin",
+        "Quentin Jackson"
+      ],
+      "excerpt": "Tyrese played extremely well. First time he's played over 30 minutes in 16 and a half months.",
+      "quote": "Really happy for our guys. Tyrese played extremely well. First time he's played over 30 minutes in 16 and a half months. Pascal was great, Obi kept us in the game when we were struggling. I thought the hero of the game was Quentin Jackson, who came in and immediately there was a four-point swing in the second half, and then he earned his way into crunch time. That is what we need. We just need guys playing their hearts out, because anything less is not going to get us there.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle praised Quentin Jackson for his impact in the win over the Pelicans. Carlisle noted that Jackson earned his way into crunch time and provided the spark the team needed.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton",
+          "Pascal Siakam",
+          "Obi Toppin",
+          "Quentin Jackson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle praises the performances of several players including Tyrese Haliburton and Quentin Jackson following the team's victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:20",
+      "summary_phrase": "Rick Carlisle on Pascal Siakam's leadership and competitive presence",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "That kind of competitive presence, leadership and belief is something that just bleeds out to everyone.",
+      "quote": "He made huge plays throughout the game, but particularly down the stretch. The one where he went in and it was kind of like an air dunk was something else, and then the left-handed finish and the foul and one. That kind of competitive presence, leadership and belief is something that just bleeds out to everyone. It is huge to have him back. You cannot take Pascal Siakam for granted. The guy had 30 points and was another hero in the second half.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle on Pascal Siakam after his 30 point performance. You cannot take Siakam for granted as his competitive presence and leadership bleed out to everyone on the team.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle highlights the leadership and competitive impact of Pascal Siakam during the game's final stretch.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:45",
+      "summary_phrase": "Rick Carlisle on the challenges of managing rotations without McConnell and Nembhard",
+      "names_mentioned": [
+        "T.J. McConnell",
+        "Andrew Nembhard",
+        "Drew",
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "It is tricky right now with our rotation because we don't have McConnell, we don't have Nembhard.",
+      "quote": "It is tricky right now with our rotation because we don't have McConnell, we don't have Nembhard. And so we are plugging and playing with mixing and matching with certain guys. We wanted to keep one of our main point guards as the point guard the whole game. So it limited the time that Drew and Ty could play together. So they were obviously playing to start the game, finish the half, start the half, finish the game, and that was big.",
+      "text_blocks": [],
+      "start_seconds": 225,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle says managing the Pacers rotation is tricky right now without T.J. McConnell and Andrew Nembhard. The team is currently mixing and matching to keep a main point guard on the floor at all times.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "T.J. McConnell",
+          "Andrew Nembhard",
+          "Drew Sheppard",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle explains the challenges of managing the team's rotation due to the absences of T.J. McConnell and Andrew Nembhard.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speakers": [
+        "Unidentified speaker",
+        "Tyrese Haliburton"
+      ],
+      "timestamp": "05:13",
+      "summary_phrase": "Tyrese Haliburton on the emotional significance of his return to play",
+      "names_mentioned": [
+        "Jeremiah",
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "I didn't think I was going to cry, you know, I I really did it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Tyrese, we could see you almost on the verge of tears in your postgame chat with Jeremiah. What did this all mean to you and how did it affect everyone?"
+        },
+        {
+          "speaker": "Tyrese Haliburton",
+          "text": "Yeah, I don't think there's been a point where I've had moments in private, especially early when it was hard. I thought that this moment would just feel like super emotional for me and I didn't think I was going to cry, you know, I I really did it. But I think it all just hit me kind of there when talking to Jeremiah and, you know, seeing all those like Pacer fans in the arena. We haven't won here in five years or whatever. And to see all those Pacer fans here in New Orleans for this means a lot to me and this organization, this city means a lot. It just means a lot for me to, you know, be back doing what I love."
+        }
+      ],
+      "start_seconds": 313,
+      "end_seconds": 373,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton on his emotional return to the court. It meant a lot to see Pacer fans in New Orleans and to be back doing what he loves after a difficult recovery process.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton reflects on the emotional significance of his return to the court and the support from fans in New Orleans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "06:13",
+      "summary_phrase": "Tyrese Haliburton on finding perspective and appreciation during his recovery",
+      "names_mentioned": [],
+      "excerpt": "Perspective is everything and as the game was going on I was struggling a little bit.",
+      "quote": "I think just an appreciation, man. Perspective is everything and as the game was going on I was struggling a little bit. I was tired and just not playing well, we weren't playing well. I think I was kind of sitting there in a moment and I think what got me going again was just like I've had those moments before where it's kind of like, oh, I need this game to get done, I need to breathe so I can get to tomorrow, next game, whatever. But in that moment I just kind of took a step back when I was on the bench there and I was just like, man, I'm back playing, you know? I'm back here and I just want to live in the moment as much as I can.",
+      "text_blocks": [],
+      "start_seconds": 373,
+      "end_seconds": 425,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Haliburton reflects on his return to play. During the game he had to take a step back and remind himself to just live in the moment because he is finally back on the court.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton describes his mindset and appreciation for being back in the game after struggling with fatigue during his return.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "07:18",
+      "summary_phrase": "Tyrese Haliburton on the team's need for improvement after a sloppy start",
+      "names_mentioned": [],
+      "excerpt": "We got a lot to build on. We got a lot.",
+      "quote": "We got a lot to build on. We got a lot. I thought in the first half we were sloppy. I turned the ball over a lot. I pride myself in taking care of the ball, I got to do a better job of that. We got to do a better job rebounding, team rebounding, especially against a team like that, really big, physical. We all got to come in all five, got to help rebound. And then defensively, we had 50-50 balls, you know, giving those up and I thought defensively, it's really hard for us to be the potent, high fast-paced offense if you're not getting stops.",
+      "text_blocks": [],
+      "start_seconds": 438,
+      "end_seconds": 480,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton says the Pacers have a lot to build on after a sloppy start against the Pelicans. He noted that the team must do a better job of taking care of the ball and rebounding as a unit.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton discusses areas where the team needs to improve, specifically citing turnovers and rebounding after a sloppy first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "08:34",
+      "summary_phrase": "Tyrese Haliburton on the importance of team composure and patience",
+      "names_mentioned": [
+        "Deonte"
+      ],
+      "excerpt": "The thing that's made me feel most like normal is falling and our whole team not panicking.",
+      "quote": "The thing that's made me feel most like normal is falling and our whole team not panicking. You know, I think that's made me feel the most normal. So, I think I just on the ground, I just needed to breathe a little bit. I'm not going to lie, I was tired as hell. But talking with Deonte and like obviously the other guys who have went through this, you know, everybody's been big on just like give yourself some grace. It's going to take some time to get your win back. You can do all the sprinting, track workouts, hard workouts you want, there's nothing like game shape.",
+      "text_blocks": [],
+      "start_seconds": 514,
+      "end_seconds": 556,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Haliburton says he is working on getting his wind back after returning to action. He noted that while he did hard workouts during recovery there is nothing like game shape.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Deonte Murray"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyrese Haliburton talks about the physical challenge of returning to game shape and the advice he received from others regarding his recovery.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "10:01",
+      "summary_phrase": "Tyrese Haliburton on defining success and his goals for the season",
+      "names_mentioned": [
+        "Weber"
+      ],
+      "excerpt": "My goal is to be aggressive for four quarters and play the right way.",
+      "quote": "My high school coach, Coach Weber, texted me tonight and said, 'How are you going to grade success tonight? What are you going to do to grade that?' Is it winning? Is it scoring a certain number of points? And I told him my goal is to be aggressive for four quarters and play the right way. And that when stuff gets hard, don't give up. You know, kind of just try to figure it out. I look at tonight as a success for sure. Obviously we won. I feel like I have a lot to get better at. The biggest thing for me is just getting my wind back.",
+      "text_blocks": [],
+      "start_seconds": 601,
+      "end_seconds": 643,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Haliburton defines his success tonight by his aggression and playing the right way. His main goal moving forward is to continue getting his wind back and improving his conditioning.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton explains how he defines success and his personal goals for his performance following his return to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "10:59",
+      "summary_phrase": "Tyrese Haliburton on the support from Triple H and Deonte Murray",
+      "names_mentioned": [
+        "Deonte Murray",
+        "Triple H"
+      ],
+      "excerpt": "Probably nobody other than I would say the two people that have checked on me the most... Deonte Murray and Triple H.",
+      "quote": "Probably nobody other than I would say the two people that have checked on me the most outside of like my family have been Deonte Murray and Triple H. You know, and Triple H has checked on me a lot. So, I think you guys know I'm a big wrestling fan, so just wanted to give a little ode to him and obviously he did the hype video for my socials today. So, he's been a really good friend for me, good partner for me with the WWE. I'm a die-hard fan, so it just means a lot.",
+      "text_blocks": [],
+      "start_seconds": 659,
+      "end_seconds": 697,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyrese Haliburton credits Triple H and Deonte Murray for their support during his recovery. Haliburton is a die hard wrestling fan and appreciated the hype video Triple H made for his return.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Deonte Murray",
+          "Triple H"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton expresses gratitude for the support he received from Deonte Murray and Triple H during his time away from the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "wQ83Tmn0MQE",
+  "url": "https://www.youtube.com/watch?v=wQ83Tmn0MQE",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-22T04:00:12Z",
+  "duration_seconds": 697,
+  "processed_at": "2026-10-22T11:55:14Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

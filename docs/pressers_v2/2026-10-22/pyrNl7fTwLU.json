@@ -1,0 +1,228 @@
+{
+  "video_title": "\"We'll get back to work tomorrow\" | Coach Hardy speaks to the media after Memphis 🎥",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "00:11",
+      "summary_phrase": "Will Hardy on the importance of possession games in the NBA",
+      "names_mentioned": [],
+      "excerpt": "the possession game is huge in our league now. They got 17 more shots than we did",
+      "quote": "We talked about pregame, the possession game is huge in our league now. They got 17 more shots than we did, you can almost end the discussion there.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Will Hardy says the possession battle was the deciding factor against Memphis. The Jazz gave up 17 more shots than the Grizzlies, and Hardy says you can almost end the discussion there.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses the impact of the possession battle in the team's loss to Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "00:54",
+      "summary_phrase": "Will Hardy on Ty Jerome's performance against the Jazz",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "Ty Jerome had a big night, made 12 two-point baskets. I don't think our guards did",
+      "quote": "I think Ty Jerome had a big night, made 12 two-point baskets. I don't think our guards did a good enough job of squaring the ball back up and contesting with their length.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Will Hardy credited Ty Jerome for his big night against the Jazz. Hardy noted that his guards failed to square the ball up and use their length to contest Jerome's 12 two-point baskets.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "UTA",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Will Hardy evaluates the defensive performance of his guards against Ty Jerome.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "01:20",
+      "summary_phrase": "Will Hardy on the challenge of maintaining focus for 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "The best players, the best teams are the ones that can focus for longer",
+      "quote": "It's a 48-minute game and the best players, the best teams are the ones that can focus for longer. Sometimes when your offense gets a little bit disjointed, as much as coaches don't want it to be that way, that can lead to your brain getting a little bit scrambled in general in terms of what's important.",
+      "verbatim_original_language": "",
+      "start_seconds": 80,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Will Hardy on the challenge of maintaining focus for 48 minutes. He says when the offense gets disjointed, it can lead to a players brain getting a little bit scrambled in terms of what is important.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy reflects on the difficulty of maintaining focus throughout a full 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "02:13",
+      "summary_phrase": "Will Hardy on Walker Kessler's defensive impact",
+      "names_mentioned": [
+        "Walker Kessler"
+      ],
+      "excerpt": "his defense is standing out. He's super active, length, pursuing, his conditioning is so much better",
+      "quote": "I think his defense is standing out. He's super active, length, pursuing, his conditioning is so much better than it was last year. He worked hard this summer on his body. I thought Ace had a good all-around game tonight. That's what we want from him. We want Ace to be a player who can impact winning on two sides of the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Will Hardy praised Walker Kessler for his defensive impact and improved conditioning. Hardy says Kessler is super active and the team wants him to be a player who can impact winning on both sides of the ball.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Walker Kessler"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy praises the defensive activity and improved conditioning of Walker Kessler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Will Hardy",
+      "timestamp": "02:38",
+      "summary_phrase": "Will Hardy on Darren's NBA debut",
+      "names_mentioned": [
+        "Darren"
+      ],
+      "excerpt": "he had some moments early that were nice, but we've got to continue to improve execution",
+      "quote": "He had some moments early that were nice, but we've got to continue to improve execution. I think there's a lot going on. He's a rookie and being your first NBA game, I recognize there's a lot of emotions that go with that.",
+      "verbatim_original_language": "",
+      "start_seconds": 158,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Will Hardy on the NBA debut of his rookie. He acknowledged the emotions that come with a first game but emphasized that the team must continue to improve their execution.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darren"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy comments on the performance of a rookie player during his first NBA game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Will Hardy",
+      "timestamp": "05:12",
+      "summary_phrase": "Will Hardy on the team's transition defense",
+      "names_mentioned": [],
+      "excerpt": "I thought their guards disrupted ours. I think it's something we're going to see a lot",
+      "quote": "I thought their guards disrupted ours. I think it's something we're going to see a lot this year, so it's a good learning moment for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 312,
+      "end_seconds": 322,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Will Hardy says the pressure from Memphis guards was a good learning moment. He expects to see that kind of defensive disruption often this season.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Will Hardy addresses the team's struggles with transition defense against the opponent's guards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Will Hardy",
+      "timestamp": "05:31",
+      "summary_phrase": "Will Hardy on Jaren Jackson Jr.'s offensive impact",
+      "names_mentioned": [
+        "Jaren Jackson Jr."
+      ],
+      "excerpt": "Jaren had some nice moments, but I do think that some of those offensive fouls are",
+      "quote": "I thought Jaren had some nice moments, but I do think that some of those offensive fouls are playing in a crowd. Teams are going to show him a second body. He's earned that respect. He's a heck of a player, especially when you guard him one-on-one.",
+      "verbatim_original_language": "",
+      "start_seconds": 331,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Will Hardy on Jaren Jackson Jr. drawing extra attention. Hardy says Jackson has earned the respect of teams showing him a second body, but noted that playing in a crowd is leading to offensive fouls.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaren Jackson Jr."
+        ],
+        "teams": [
+          "UTA",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Will Hardy analyzes the offensive play of Jaren Jackson Jr. and how teams are defending him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: speaks",
+  "format": "ytq-1",
+  "video_id": "pyrNl7fTwLU",
+  "url": "https://www.youtube.com/watch?v=pyrNl7fTwLU",
+  "channel_team": "Utah Jazz",
+  "published": "2026-10-22T03:11:48Z",
+  "duration_seconds": 380,
+  "processed_at": "2026-10-22T11:55:40Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

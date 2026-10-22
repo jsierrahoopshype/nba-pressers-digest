@@ -1,0 +1,188 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Jazz",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:22",
+      "summary_phrase": "Ty Jerome's impact on the Grizzlies' offensive flow and spacing",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "Ty Jerome is obviously one of those focal points that we go through.",
+      "quote": "The way the offense is built right now is we have a few focal points that we go through and Ty Jerome is obviously one of those. I thought he did a good job today of being aggressive initially then getting off of it if he didn't have the chance and trusting that the ball will find him and come back. I think he did a great job with that. Every game we are going against a thinking opponent so I think the logical consequence of this is teams will put more resources into stopping him and that will then in turn open up opportunities for the other players.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo says the Grizzlies offense is built around Ty Jerome as a focal point and expects opponents to start throwing more resources at him to slow him down",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Tuomas Iisalo discusses Ty Jerome's role as a focal point in the Grizzlies' offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "04:08",
+      "summary_phrase": "The Grizzlies' bench unit provides a unique, high-pressure offensive style",
+      "names_mentioned": [
+        "Jeremy",
+        "GG",
+        "Scotty",
+        "QP",
+        "Cam Spencer"
+      ],
+      "excerpt": "They bring a very different type of style into it. You have five shooters out there.",
+      "quote": "They bring a very different type of style into it. You have five shooters out there, you have a ton of downhill pressure. Everybody can shoot, but also we have Jeremy, GG, Scotty able to put tremendous downhill pressure and then you got QP at the five stretching the floor and Cam Spencer, one of the best shooters in the league. It is really difficult decisions for the other team what they need to do in that situation.",
+      "text_blocks": [],
+      "start_seconds": 248,
+      "end_seconds": 278,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo breaks down the Grizzlies bench unit, noting that their combination of five shooters and downhill pressure creates difficult decisions for opposing defenses",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremy",
+          "GG Jackson",
+          "Scotty Pippen Jr.",
+          "Cam Spencer"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo explains the offensive style and spacing provided by the Grizzlies' bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "05:53",
+      "summary_phrase": "Cam Spencer's debut performance and his value to the team",
+      "names_mentioned": [
+        "Cam Spencer"
+      ],
+      "excerpt": "I thought he did a great job with the rebounding. He had 11 rebounds, he had five assists.",
+      "quote": "Typical Cam Spencer night. He shot two for 15 and plus 32. I thought he did a great job with the rebounding. He had 11 rebounds, he had five assists. His defense on Markkanen was very impressive. These are the things that I talk about with him that it is easy to forget the kid is 19. The kid is 19 and he is making big-time plays offensively and defensively that takes other guys 10 years in the league to figure those out.",
+      "text_blocks": [],
+      "start_seconds": 353,
+      "end_seconds": 385,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo praised Cam Spencer after a unique stat line of 2 for 15 shooting but a plus 32 rating, highlighting his rebounding and defensive work on Lauri Markkanen",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Spencer",
+          "Lauri Markkanen"
+        ],
+        "teams": [
+          "MEM",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo praises Cam Spencer's performance and defensive effort against Lauri Markkanen.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "06:37",
+      "summary_phrase": "Lauri Markkanen's unique skill set as an elite offensive player",
+      "names_mentioned": [
+        "Lauri Markkanen"
+      ],
+      "excerpt": "Maybe the best off-ball mover and movement shooter out of all the four men in Markkanen.",
+      "quote": "Going against one of the best four men in the world, maybe the best off-ball mover and movement shooter out of all the four men in Markkanen. Did a great job with him playing two positions, playing both the four and five, handling, screening. He just does it all and that is why it is a great performance to build on because we want to be a team that doesn't need to make shots to win and he is a player that epitomizes that.",
+      "text_blocks": [],
+      "start_seconds": 397,
+      "end_seconds": 429,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo calls Lauri Markkanen one of the best four men in the world and says the Grizzlies want to be a team that does not need to make shots to win",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Lauri Markkanen"
+        ],
+        "teams": [
+          "MEM",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the unique offensive challenges posed by Lauri Markkanen.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "12:02",
+      "summary_phrase": "Ty Jerome's potential as a starting point guard in the NBA",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "It says a lot about his ability for this type of offensive explosions that it is there.",
+      "quote": "The numbers are essentially the same. They are just a lot smaller, the game sample and the minutes are a lot smaller. It says a lot about his ability for this type of offensive explosions that it is there. The challenge is obviously to sustain it and to do it night after night in a role that he really hasn't been in before in the NBA as a starting point guard.",
+      "text_blocks": [],
+      "start_seconds": 722,
+      "end_seconds": 749,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo says the challenge for Ty Jerome is sustaining his offensive production while adjusting to a starting point guard role he has not held before in the NBA",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo evaluates Ty Jerome's ability to sustain production while transitioning into a starting point guard role.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "SiyhPWjgWYM",
+  "url": "https://www.youtube.com/watch?v=SiyhPWjgWYM",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-10-22T03:39:35Z",
+  "duration_seconds": 767,
+  "processed_at": "2026-10-22T11:55:34Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

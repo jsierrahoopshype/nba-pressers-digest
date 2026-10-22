@@ -1,0 +1,216 @@
+{
+  "video_title": "Damian Lillard Postgame Interview | Trail Blazers 124, Suns 83 | Oct. 21, 2026",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:10",
+      "summary_phrase": "Damian Lillard on his deep connection with Portland fans",
+      "names_mentioned": [],
+      "excerpt": "there is no secret the relationship between myself and our fans and the city of Portland",
+      "quote": "It was a lot of love, you know. The fans showed a lot of love. I think there is no secret the relationship between myself and our fans and the city of Portland. So, you know, that is how it is.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Damian Lillard on the reception from Portland fans: It is no secret the relationship between myself and our fans and the city of Portland. It was a lot of love.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard discusses his relationship with the Portland fans after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:38",
+      "summary_phrase": "Damian Lillard on returning from injury and embracing his team",
+      "names_mentioned": [],
+      "excerpt": "coming back off a major injury, getting back healthy and making it to this day",
+      "quote": "It felt different just because it is a different time. I have had a lot of different experiences in the last few years of my career and coming back off a major injury, getting back healthy and making it to this day, being a part of a really good team at a different time for the Trail Blazers than my last stint with the team, it just felt great to be embraced and welcomed.",
+      "verbatim_original_language": "",
+      "start_seconds": 38,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Damian Lillard says returning from his major injury to a new look Trail Blazers team felt different. He says it felt great to be embraced and welcomed back.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Damian Lillard reflects on returning to the Trail Blazers after recovering from a major injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "timestamp": "01:30",
+      "summary_phrase": "Damian Lillard on his approach to the season's expectations",
+      "names_mentioned": [],
+      "excerpt": "I saw a lot of build up type stuff around me coming back and countdowns",
+      "quote": "I saw a lot of build up type stuff around me coming back and countdowns and stuff like that and usually I will dismiss it to be honest. I will just focus on doing the job and I think this time around I just lived in it. I did not celebrate myself, but I accepted what it was and I enjoyed that.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Damian Lillard says he usually dismisses the hype around his return, but this time he decided to just live in it and enjoy the moment.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard explains how he approached the media hype surrounding his return to the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Damian Lillard",
+      "timestamp": "03:33",
+      "summary_phrase": "Damian Lillard on representing his family and community",
+      "names_mentioned": [],
+      "excerpt": "I take a lot of pride in knowing that I am the person that people will see",
+      "quote": "Over the course of my career, one thing that I have always referenced and one thing that I always had on my mind and on my heart is how I represent the kind of people that I come from, starting with my grandparents and to my parents and to my aunties and uncles and my cousins. I take a lot of pride in knowing that I am the person that people will see my behavior and see how I handle struggles and see how I handle criticism and see how I handle success.",
+      "verbatim_original_language": "",
+      "start_seconds": 213,
+      "end_seconds": 249,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Damian Lillard reflects on his career and the importance of representing his family and community through how he handles both success and criticism.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard discusses the importance of representing his family and community throughout his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Damian Lillard",
+      "timestamp": "05:32",
+      "summary_phrase": "Damian Lillard on the importance of collective team effort",
+      "names_mentioned": [],
+      "excerpt": "part of setting the tone is understanding that it is going to be collective",
+      "quote": "Part of setting the tone is understanding that it is going to be collective. It is a different situation. It is not like situations I have been in the past where I had to come out here and I had to step in a different way and kind of dominate situations and impose myself in different ways.",
+      "verbatim_original_language": "",
+      "start_seconds": 332,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Damian Lillard says his role with the Trail Blazers has changed. He notes that he no longer needs to dominate situations alone because the team approach is now collective.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard explains that the team's success will rely on a collective effort rather than individual dominance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Damian Lillard",
+      "timestamp": "07:55",
+      "summary_phrase": "Damian Lillard on his current stage of his NBA career",
+      "names_mentioned": [],
+      "excerpt": "I think I am in a more seasoned stage of my career",
+      "quote": "I think I am in a more seasoned stage of my career. I would say less emotional about everything that comes with being in this league and being a player in this league, but that is really it. I am not an old man. I am a live body. I take care of myself, I train properly, I live my life in a way that I do good for myself.",
+      "verbatim_original_language": "",
+      "start_seconds": 475,
+      "end_seconds": 502,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Damian Lillard describes himself as being in a more seasoned stage of his career, noting he is less emotional about the league and remains a live body who trains properly.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard reflects on his current physical and mental state at this stage of his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Damian Lillard",
+      "timestamp": "09:02",
+      "summary_phrase": "Damian Lillard on Coach Micah's first head coaching opportunity",
+      "names_mentioned": [
+        "Micah"
+      ],
+      "excerpt": "Coach Micah getting this opportunity, his first opportunity as a head coach, it has been a long time",
+      "quote": "Coach Micah getting this opportunity, his first opportunity as a head coach, it has been a long time coming for him. He is a coach that we all really do love. The way that our September went, the way training camp, the preseason and how he communicates with the team, the energy that he is created in our building, he has the locker room.",
+      "verbatim_original_language": "",
+      "start_seconds": 542,
+      "end_seconds": 567,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Damian Lillard is backing new head coach Micah, saying it has been a long time coming for him and that he has the locker room.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Micah"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Damian Lillard praises head coach Micah for his leadership and the energy he has brought to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Q04YL_dyleg",
+  "url": "https://www.youtube.com/watch?v=Q04YL_dyleg",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-22T06:02:24Z",
+  "duration_seconds": 736,
+  "processed_at": "2026-10-22T11:53:53Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,173 @@
+{
+  "video_title": "Kawhi Leornard | Post Game vs Bulls | October 21, 2026",
+  "speakers_seen": [
+    "Kawhi Leonard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "01:18",
+      "summary_phrase": "Kawhi Leonard on his need for more game reps",
+      "names_mentioned": [],
+      "excerpt": "I just need more reps to learn plays and, I said this before, this is where you get better.",
+      "quote": "I haven't got a chance to play a lot in training camp, so any minutes I could get or continue to play. The goal was to try to get 23, 24 minutes tonight and I just need more reps to learn plays and, I said this before, this is where you get better. You get better on the floor and trying things and shooting the ball when you open. You can't wait till practice and shoot 100 shots. You need game reps, so that's what I was looking for. Even on the defensive end, just being able to make calls on the fly instinctively.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kawhi Leonard says he is focused on stacking game reps to get back into rhythm. He noted that you cannot replicate game speed in practice and he needs the floor time to learn plays and build chemistry.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Kawhi Leonard discusses his need for increased game minutes to improve his conditioning and rhythm after limited training camp participation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "02:04",
+      "summary_phrase": "Kawhi Leonard on his approach to medical recovery and performance",
+      "names_mentioned": [],
+      "excerpt": "You can't rush greatness. Whenever the medical thinks I could push forward and I'm feeling great, that's when that time will come.",
+      "quote": "I don't put targets. You can't rush greatness. Whenever the medical thinks I could push forward and I'm feeling great, whatever numbers they're looking at, then that's when that time will come. I'm just happy to be out there and try to do the best I can with my minutes.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kawhi Leonard on his recovery process. He says he is not setting any specific targets for his workload because you cannot rush greatness and he is deferring to the medical staff on when to push forward.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kawhi Leonard explains his approach to his medical recovery and his reliance on team staff to determine when he can increase his workload.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "03:49",
+      "summary_phrase": "Kawhi Leonard on the defensive versatility of Alex Caruso",
+      "names_mentioned": [
+        "Alex Caruso"
+      ],
+      "excerpt": "He can guard one through five. He's very physical, can slide his feet quickly and he's super focused and athletic.",
+      "quote": "He's been great. He can guard one through five. Going against him last year, he's a tough matchup. He's very physical, can slide his feet quickly and he's super focused and athletic. He just keep getting better. You see him knocking down the threes, taking threes, and I think he's got a high ceiling.",
+      "text_blocks": [],
+      "start_seconds": 229,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kawhi Leonard praised Alex Caruso for his defensive versatility. He noted that Caruso can guard one through five and believes the guard has a high ceiling as he continues to improve his perimeter shooting.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alex Caruso"
+        ],
+        "teams": [
+          "TOR",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Kawhi Leonard praises the defensive versatility and physical play of opponent Alex Caruso following the game against the Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "05:13",
+      "summary_phrase": "Kawhi Leonard on Immanuel Quickley's playmaking ability",
+      "names_mentioned": [
+        "Immanuel Quickley"
+      ],
+      "excerpt": "He's a fast-paced point guard, can dribble, making decisions on the fly, communicating very well defensively.",
+      "quote": "He's a fast-paced point guard, can dribble, making decisions on the fly, communicating very well defensively when we're running back in transition. Obviously can shoot the ball and he played great, he led us tonight.",
+      "text_blocks": [],
+      "start_seconds": 313,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kawhi Leonard credited Immanuel Quickley for leading the team tonight. He highlighted Quickley for his fast pace, decision making on the fly, and his vocal communication on the defensive end.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kawhi Leonard highlights the playmaking and communication skills of his teammate Immanuel Quickley after a strong performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "05:38",
+      "summary_phrase": "Kawhi Leonard on the importance of playing with Jakob Poeltl",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "He's a big that feels like he cares about setting screens and getting his guys open.",
+      "quote": "He's a big that feels like he cares about setting screens and getting his guys open who's dribbling the ball. He has great touch around the rim. Whenever he can run down the floor and get a deep seal, I'll be looking for him. He can make a basket, shoot floaters, layups, dunk the ball, so I like playing with him.",
+      "text_blocks": [],
+      "start_seconds": 338,
+      "end_seconds": 361,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kawhi Leonard says he enjoys playing with Jakob Poeltl because of the big man's willingness to set screens and his soft touch around the rim. He added that he is actively looking for Poeltl when he gets deep seals.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kawhi Leonard describes the benefits of playing alongside Jakob Poeltl and his effectiveness as a screener and finisher.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "7igSR2zSTsE",
+  "url": "https://www.youtube.com/watch?v=7igSR2zSTsE",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-22T03:56:00Z",
+  "duration_seconds": 460,
+  "processed_at": "2026-10-22T11:55:17Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

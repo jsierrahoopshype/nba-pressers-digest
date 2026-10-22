@@ -1,0 +1,316 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs Bulls | October 21, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:07",
+      "summary_phrase": "Defensive strategy against the Chicago Bulls' young core",
+      "names_mentioned": [
+        "RJ"
+      ],
+      "excerpt": "we really try to keep them playing in half court and that started in that first quarter",
+      "quote": "We put a lot of work in and guys were ready to go out there and really compete. We managed to keep this very talented young team of Bulls, we really try to keep them playing in half court and that started in that first quarter. I thought we did a really good job. I thought that RJ did a really good job defensively on Josh Giddey to start the game and all the guys from there, we created a lot of steals. We did a good job defensively during the whole night.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic praised the Raptors defensive effort against Chicago, specifically highlighting RJ Barrett for doing a really good job defensively on Josh Giddey to start the game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett",
+          "Josh Giddey"
+        ],
+        "teams": [
+          "TOR",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's defensive performance against the Chicago Bulls after their game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:54",
+      "summary_phrase": "Focus on limiting turnovers and transition opportunities for Chicago",
+      "names_mentioned": [],
+      "excerpt": "Chicago Bulls is the team that if they create a lot of steals, that really fuels their offense",
+      "quote": "Chicago Bulls is the team that if they create a lot of steals, that really fuels their offense. So being strong with the ball, making sure that we are getting shots every possession and not turning over was emphasis going into the game.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Raptors coach Darko Rajakovic says the key to beating the Bulls was being strong with the ball and avoiding turnovers to prevent Chicago from fueling their offense with steals.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the game plan for limiting turnovers against the Chicago Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:12",
+      "summary_phrase": "Kawhi Leonard's aggressive debut and long-term integration",
+      "names_mentioned": [
+        "Kawhi"
+      ],
+      "excerpt": "he was aggressive as we need him to be",
+      "quote": "It's great. I thought that he was really dialed in. He was aggressive as we need him to be. I thought he played first game over here. Obviously, this is going to be process and I believe that with every game he's going to be rising his level.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Darko Rajakovic on Kawhi Leonard debut: He was aggressive as we need him to be. It is going to be a process and I believe that with every game he is going to be rising his level.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates Kawhi Leonard's performance in his debut game for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:45",
+      "summary_phrase": "Kawhi Leonard's shooting efficiency and physical conditioning process",
+      "names_mentioned": [
+        "Kawhi"
+      ],
+      "excerpt": "he's still building his capacity to play",
+      "quote": "I thought that the shots that he was getting were really good shots. He's still building his capacity to play. I really love the fact there that he asked to play more minutes in the fourth quarter just to to get his legs under him. So that's just part of the process, but every minute that he spends on the court, that capacity is going to just go up.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kawhi Leonard is building his capacity to play, says Darko Rajakovic. The coach noted that Leonard specifically asked to play more minutes in the fourth quarter to get his legs under him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses Kawhi Leonard's physical conditioning and his request for more playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:35",
+      "summary_phrase": "Rookie development and Allen's rebounding performance",
+      "names_mentioned": [
+        "Allen"
+      ],
+      "excerpt": "I thought that Allen was great. I think he was really trying to rebound the ball",
+      "quote": "I thought that Allen was great. I think he was really trying to rebound the ball and go after it every single time. I think that that's super important and for him is understanding that every minute that he spends on the court is super valuable. That he's just going to continue learning the league, learning team tendencies, the speed of the game, getting his conditioning right. I thought that he did a great job tonight.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic liked what he saw from his rookie tonight, noting that Allen was really trying to rebound the ball and go after it every single time.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises the rookie's rebounding performance and his ongoing development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:04",
+      "summary_phrase": "RJ's defensive technique and pick-and-roll coverage",
+      "names_mentioned": [
+        "RJ"
+      ],
+      "excerpt": "he did a really good job in pick and rolls, mixing it up",
+      "quote": "I thought that he did a really good job with a point of attack where he was picking him up, making every dribble hard. I thought that he did a really good job in pick and rolls, mixing it up and not giving him every time that the same look. He didn't get beat, he stayed down on his shot fakes when he was around the rim. I think he did a really good job.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic praised RJ Barrett for his defensive versatility against the Bulls, noting he did a really good job in pick and rolls by mixing it up and not giving the offense the same look.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic breaks down the specific defensive techniques used by RJ Barrett during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:35",
+      "summary_phrase": "Trusting the team's shooters on open looks",
+      "names_mentioned": [],
+      "excerpt": "he's a great shooter, we believe in his shot",
+      "quote": "He's a great shooter, we believe in his shot. He's putting a lot of work into that, so we definitely want him to shoot all of those open shots.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic says the team has full confidence in their shooters, stating he definitely wants them to shoot all of those open shots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic expresses confidence in a player's shooting ability during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:50",
+      "summary_phrase": "Maintaining offensive flow and aggressive tempo",
+      "names_mentioned": [],
+      "excerpt": "we got to be aggressive, but we got to also be very efficient with that aggressiveness",
+      "quote": "I thought that for majority of the game, I thought that we did a really good job of just being aggressive, getting quickly into our actions and not allowing ball to to stick. So that's going to be very important for us that we got to be aggressive, but we got to also be very efficient with that aggressiveness.",
+      "text_blocks": [],
+      "start_seconds": 230,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Offensive flow is the priority for the Raptors. Darko Rajakovic says it is important to be aggressive, get quickly into actions, and not allow the ball to stick.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the importance of maintaining offensive flow and aggressiveness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:15",
+      "summary_phrase": "Emmanuel's playmaking and communication on the floor",
+      "names_mentioned": [
+        "Emmanuel"
+      ],
+      "excerpt": "he did a great job of communicating with teammates, getting us organized",
+      "quote": "Seven assists, no turnovers. I would disagree with referees, I thought that he took a charge there, but that's my personal opinion. I'm going to keep it for myself. But I thought that he did a great job of communicating with teammates, getting us organized. He was aggressive, he took shots that he was supposed to take, so I thought that he played really well.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 280,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic praised his point guard for a clean game with seven assists and zero turnovers, noting he did a great job of communicating and getting the team organized.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Emmanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the playmaking and leadership of his point guard after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:48",
+      "summary_phrase": "The importance of force and aggressiveness in player performance",
+      "names_mentioned": [],
+      "excerpt": "he is unique player and when he plays with a lot of force, that's the recipe for his success",
+      "quote": "He is unique player and when he plays with a lot of force, that's the recipe for his success. When he does that on defensive end, it translates to every part of his game. We need him to be same force, same aggressiveness on offensive side with his roles, with his drives. He needs to be a player who's going to be finishing above the rim and playing with force. So I thought that he played really well tonight and I expect him just to continue getting better.",
+      "text_blocks": [],
+      "start_seconds": 288,
+      "end_seconds": 322,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says the recipe for success for one of his players is playing with force, adding that when he plays with force on the defensive end, it translates to every part of his game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the importance of playing with force and aggressiveness for a specific player's success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "BLnIe1WJHyc",
+  "url": "https://www.youtube.com/watch?v=BLnIe1WJHyc",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-22T03:56:13Z",
+  "duration_seconds": 352,
+  "processed_at": "2026-10-22T11:55:04Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

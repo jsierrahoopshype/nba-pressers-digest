@@ -1,0 +1,274 @@
+{
+  "video_title": "Hawks vs. Magic Postgame Press Conference: Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:20",
+      "summary_phrase": "Quin Snyder on Orlando Magic's physical play and third quarter",
+      "names_mentioned": [],
+      "excerpt": "give Orlando credit, they really drive the ball and you know, physical drives where you've got to be disciplined.",
+      "quote": "Well the third quarter, give Orlando credit, they really drive the ball and you know, physical drives where you've got to be disciplined. And you know, that third quarter, we put them on the line and when that happens, the rhythm of the game obviously changes, the pace changes. I really thought we did a good job of working our way out of that. During that stretch, we had a couple really good defensive possessions.",
+      "start_seconds": 20,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder on the Hawks third quarter struggles against Orlando: When you put them on the line, the rhythm of the game obviously changes and the pace changes.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the Atlanta Hawks' performance against the Orlando Magic and the impact of the third quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:57",
+      "summary_phrase": "Quin Snyder on the impact of fouls and rebounding",
+      "names_mentioned": [],
+      "excerpt": "the fouls that really hurt us, coming up with like loose ball rebounds and getting hits.",
+      "quote": "The fouls that really hurt us, coming up with like loose ball rebounds and getting hits and those things when you do get a stop and then picking up a foul in those situations, I think it's just something we need to be more conscious of getting bodies on people in the rim when shots are taken.",
+      "start_seconds": 57,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder says the Hawks need to be more conscious of getting bodies on people at the rim when shots are taken to avoid costly fouls on loose ball rebounds.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains the need for better discipline regarding rebounding and avoiding fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:38",
+      "summary_phrase": "Quin Snyder on team balance and depth",
+      "names_mentioned": [],
+      "excerpt": "depth and versatility is something that our guys need to embrace and I think they have.",
+      "quote": "We had like half our team with four or five fouls, so it's a good thing there were some other guys that were willing to take shots. I think that's got to be, depth and versatility is something that our guys need to embrace and I think they have.",
+      "start_seconds": 98,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder on the Hawks bench depth: We had half our team with four or five fouls, so it is a good thing there were other guys willing to take shots. Depth and versatility is something our guys need to embrace.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the importance of team depth and versatility while players were in foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:26",
+      "summary_phrase": "Quin Snyder on team efficiency and ball movement",
+      "names_mentioned": [],
+      "excerpt": "I was disappointed with how we started both halves. We didn't share the ball, we didn't run.",
+      "quote": "I was disappointed with how we started both halves. We didn't share the ball, we didn't run. We just weren't efficient. I shouldn't say we didn't share the ball, but we didn't pass the ball ahead, we didn't make the extra pass, we just weren't as locked in.",
+      "start_seconds": 146,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder was disappointed with the Hawks start to both halves, noting the team was not efficient and failed to make the extra pass.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder expresses disappointment with the team's lack of efficiency and ball movement at the start of both halves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:57",
+      "summary_phrase": "Quin Snyder on defensive breakdowns in the first quarter",
+      "names_mentioned": [],
+      "excerpt": "we made about as many breakdowns as we could have in the first quarter.",
+      "quote": "We made about as many breakdowns as we could have in the first quarter. We decided to like break down on everything. It's like we were making a teaching edit, whether it was a rotation or missed blockout. It's early in the year, so you're going to have some of that, but us communicating, that's what you need to have until your habits kind of come together like that.",
+      "start_seconds": 177,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder on the Hawks first quarter defensive lapses: We made about as many breakdowns as we could have. It is like we were making a teaching edit.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder addresses defensive communication and execution breakdowns during the first quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Quin Snyder",
+      "timestamp": "03:36",
+      "summary_phrase": "Quin Snyder on defensive rotations and player performance",
+      "names_mentioned": [
+        "Paolo Banchero",
+        "Wagner"
+      ],
+      "excerpt": "we're not used to being in rotations doubling. Banchero does that to you, Wagner did it on his drives.",
+      "quote": "We're not used to being in rotations doubling. Banchero does that to you, Wagner did it on his drives, but especially Paolo, he was really good. So efficient. I just think they're a really, really good team.",
+      "start_seconds": 216,
+      "end_seconds": 230,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder praised Paolo Banchero and Franz Wagner after the loss, saying Banchero was really good and efficient against the Hawks defensive rotations.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paolo Banchero",
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ATL",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the defensive challenges posed by Paolo Banchero and Franz Wagner.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:07",
+      "summary_phrase": "Quin Snyder on Aaron Holiday's defensive performance",
+      "names_mentioned": [
+        "Aaron Holiday"
+      ],
+      "excerpt": "he was solid defensively and obviously on the offensive end, he's got a good feel.",
+      "quote": "He was solid defensively and obviously on the offensive end, he's got a good feel, whether it's rising up and we want, we want him and other guys also in a kill to be aggressive early in the shot clock from the three-point line.",
+      "start_seconds": 247,
+      "end_seconds": 264,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Quin Snyder on Aaron Holiday: He was solid defensively and has a good feel on the offensive end.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Holiday"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder evaluates Aaron Holiday's defensive performance and offensive role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Quin Snyder",
+      "timestamp": "05:11",
+      "summary_phrase": "Quin Snyder on Jalen Johnson's first game",
+      "names_mentioned": [
+        "Jalen Johnson",
+        "Kingston"
+      ],
+      "excerpt": "I thought he did some really good things, particularly in the first half.",
+      "quote": "I thought he did some really good things, particularly in the first half. He turned up the pressure defensively and we went on a couple runs during that time where we forced a couple turnovers. He got himself in trouble a little bit a couple times and that's frankly to be expected. The great thing about Kingston is he'll absorb all that and he'll watch it on film and the next time he goes out he'll be mindful of it again and he's going to keep getting better.",
+      "start_seconds": 311,
+      "end_seconds": 345,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder on Jalen Johnson: I thought he did some really good things. He turned up the pressure defensively and we went on a couple runs during that time.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder assesses Jalen Johnson's performance in his first game of the season.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Quin Snyder",
+      "timestamp": "06:03",
+      "summary_phrase": "Quin Snyder on Jalen Johnson's foul trouble",
+      "names_mentioned": [
+        "Jalen Johnson"
+      ],
+      "excerpt": "I don't think his fouls were a function of him being physical.",
+      "quote": "I don't think his fouls were a function of him being physical. I thought that was true. Ironically, I think for our group, had we been more physical in certain situations, we might not have got ourselves in positions where we did foul, had we helped each other more, had we been a little more disciplined.",
+      "start_seconds": 363,
+      "end_seconds": 385,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Quin Snyder says Jalen Johnson's foul trouble was not a result of being too physical, but rather a lack of discipline and help defense.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses Jalen Johnson's foul trouble and the team's overall defensive discipline.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "RsXCByNk76k",
+  "url": "https://www.youtube.com/watch?v=RsXCByNk76k",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-22T02:41:31Z",
+  "duration_seconds": 426,
+  "processed_at": "2026-10-22T11:55:57Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

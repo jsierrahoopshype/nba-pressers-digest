@@ -1,0 +1,331 @@
+{
+  "video_title": "“I Just Wanna Win As A Team.” | Anthony Edwards Postgame Sound | 10.21.26",
+  "speakers_seen": [
+    "Anthony Edwards"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Anthony Edwards",
+      "timestamp": "00:06",
+      "summary_phrase": "Anthony Edwards on D'Angelo Russell's role in team success",
+      "names_mentioned": [
+        "D'Angelo Russell"
+      ],
+      "excerpt": "D'Angelo Russell got everybody involved as he always do, and he put us in the right positions.",
+      "quote": "D'Angelo Russell got everybody involved as he always do, and he put us in the right positions, and we made shots.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 14,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Edwards credits D'Angelo Russell for his playmaking and putting teammates in the right positions to make shots.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "D'Angelo Russell"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Edwards discusses D'Angelo Russell's playmaking ability during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Anthony Edwards",
+      "timestamp": "00:23",
+      "summary_phrase": "Anthony Edwards on how teammates simplify his offensive role",
+      "names_mentioned": [
+        "D'Angelo Russell",
+        "Taurean Prince",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I don't have the ball up every time anymore. When D'Angelo Russell go out, I got Taurean Prince, I got Jaden McDaniels.",
+      "quote": "I don't have the ball up every time anymore. When D'Angelo Russell go out, I got Taurean Prince, I got Jaden McDaniels. They bring the ball up, so it makes my job a lot easier now.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Edwards says his job is much easier now that teammates like Taurean Prince and Jaden McDaniels are bringing the ball up the court.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "D'Angelo Russell",
+          "Taurean Prince",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Edwards explains how having multiple ball handlers on the floor simplifies his offensive role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Anthony Edwards",
+      "timestamp": "00:42",
+      "summary_phrase": "Anthony Edwards on Chris Finch's rotation strategy",
+      "names_mentioned": [
+        "Chris Finch"
+      ],
+      "excerpt": "I think Chris Finch did that on purpose. I think it was smart.",
+      "quote": "I think Chris Finch did that on purpose. I think it was smart, because I'm so used to him being in the game. I just run to the corner, but when he go out the game, I got to go get the ball and get back to what I used to do.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anthony Edwards praises Chris Finch for his rotation strategy, noting that playing without D'Angelo Russell forces him to be more aggressive and get back to his old habits.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Finch"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Anthony Edwards reacts to Chris Finch's rotation strategy and how it impacts his own offensive responsibilities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Anthony Edwards",
+      "timestamp": "00:56",
+      "summary_phrase": "Anthony Edwards on Tim Connelly's acquisition of Jaden McDaniels",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Tim Connelly"
+      ],
+      "excerpt": "I think Tim Connelly did a great job of going to get him and I'm happy he's here.",
+      "quote": "Jaden McDaniels played phenomenal tonight. Everybody know I was the biggest advocate to go get him. It meant a lot for me to go get him, and I think Tim Connelly did a great job of going to get him and I'm happy he's here, because he's a great player.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Edwards says he was the biggest advocate for the team to acquire Jaden McDaniels and is happy to see him playing phenomenal basketball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "Tim Connelly"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Edwards praises Jaden McDaniels' performance and credits Tim Connelly for acquiring him.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Anthony Edwards",
+      "timestamp": "01:15",
+      "summary_phrase": "Anthony Edwards on the team's defensive switching scheme",
+      "names_mentioned": [],
+      "excerpt": "They never been a blitzing team. They always just show or switch.",
+      "quote": "They never been a blitzing team. They always just show or switch. They usually switch one through five and they got the personnel to switch one through five, so I knew what it was going to be.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Edwards on the defensive scheme against their opponent, noting he expected them to switch one through five because they have the personnel for it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Anthony Edwards describes the defensive switching scheme used by the opposing team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Anthony Edwards",
+      "timestamp": "01:40",
+      "summary_phrase": "Anthony Edwards on personal motivation from his family",
+      "names_mentioned": [],
+      "excerpt": "My wife sent me a picture of my daughter watching the game, staying up past her bedtime.",
+      "quote": "My wife sent me a picture of my daughter watching the game, staying up past her bedtime, so yeah, it meant a little more to me.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anthony Edwards shares that seeing a picture of his daughter staying up past her bedtime to watch the game gave him extra motivation tonight.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Anthony Edwards shares how seeing his daughter watch the game provided extra personal motivation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Anthony Edwards",
+      "timestamp": "02:18",
+      "summary_phrase": "Anthony Edwards on his focus on team success over individual accolades",
+      "names_mentioned": [],
+      "excerpt": "That's not really a goal of mine. I just want to win as a team.",
+      "quote": "That's not really a goal of mine. I just want to win as a team.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anthony Edwards says individual accolades are not a goal of his, stating I just want to win as a team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Anthony Edwards clarifies that his primary focus is on team success rather than individual accolades.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Anthony Edwards",
+      "timestamp": "02:39",
+      "summary_phrase": "Anthony Edwards on responding to trash talk from opposing benches",
+      "names_mentioned": [],
+      "excerpt": "A player on their bench was talking trash at one of the dead ball situations.",
+      "quote": "A player on their bench was talking trash at one of the dead ball situations, and I think it kind of crunk me up, because he was talking pretty crazy. When I started talking to him, he didn't really have too much more to say, and I don't really like that. If you're going to talk, keep talking. Don't get quiet.",
+      "text_blocks": [],
+      "start_seconds": 159,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Edwards says he was fueled by trash talk from an opposing bench player, adding that he does not like when players get quiet after talking crazy.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Anthony Edwards discusses how trash talk from an opposing player motivated him during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Anthony Edwards",
+      "timestamp": "03:52",
+      "summary_phrase": "Anthony Edwards on the need for D'Angelo Russell to be aggressive",
+      "names_mentioned": [
+        "D'Angelo Russell"
+      ],
+      "excerpt": "We need him to be ultra-aggressive at all times because every team knows that he can pass.",
+      "quote": "We need him to be ultra-aggressive at all times because every team knows that he can pass. So if they know you can pass, they're expecting pass. So we need him to go score every time. Any chance he want to score, go score. Anytime he want to pass, go pass. That's why I'm like, we're trying to give you the ball every time you're in the game. Don't get tired. We need you in the best shape ever because we're trying to give you that and let you create and we play off of you.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 269,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Anthony Edwards says the Timberwolves need D'Angelo Russell to be ultra-aggressive as a scorer, telling him to go score every time he has the chance.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "D'Angelo Russell"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Edwards explains why he wants D'Angelo Russell to be more aggressive as a scorer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Anthony Edwards",
+      "timestamp": "04:43",
+      "summary_phrase": "Anthony Edwards on his development as a shooter under Chris Finch",
+      "names_mentioned": [
+        "Chris Finch"
+      ],
+      "excerpt": "I give all credit to Chris Finch, my coach. He don't let me take a day off.",
+      "quote": "I give all credit to Chris Finch, my coach. He don't let me take a day off. He don't let me take a lazy shot, nothing. He's always on me, so I appreciate him and I love him, and that's who I give all my credit to.",
+      "text_blocks": [],
+      "start_seconds": 283,
+      "end_seconds": 301,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Edwards credits Chris Finch for his development, saying the coach does not let him take a day off or take a lazy shot.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Finch"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Anthony Edwards credits Chris Finch for his development and high standards in practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "9tlpBbitgnA",
+  "url": "https://www.youtube.com/watch?v=9tlpBbitgnA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-22T04:49:13Z",
+  "duration_seconds": 325,
+  "processed_at": "2026-10-22T11:54:27Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,326 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Bulls | October 21, 2026",
+  "speakers_seen": [
+    "Scottie Barnes",
+    "Kawhi Leonard",
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scottie Barnes",
+      "timestamp": "00:11",
+      "summary_phrase": "Scottie Barnes on the offensive impact of Kawhi Leonard and himself",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "I feel like it's going to open up a lot for everybody, not just myself.",
+      "quote": "They are great players, so especially with Kawhi shooting, and his shooting, Scotty's aggressiveness, everybody, I feel like it's going to open up a lot for everybody, not just myself.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes believes the offensive aggression from himself and Kawhi Leonard will open up the floor for the entire Raptors roster.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes discusses how the offensive presence of his teammates creates space for the rest of the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scottie Barnes",
+      "timestamp": "01:00",
+      "summary_phrase": "Scottie Barnes compares team ball movement to a music ensemble",
+      "names_mentioned": [],
+      "excerpt": "Honestly, it's kind of like a music ensemble. Sometimes it's a solo of a percussionist.",
+      "quote": "Honestly, it's kind of like a music ensemble. Sometimes it's a solo of a percussionist, sometimes it's like the whole band, and you really can't stop it in the middle of the song to be like, 'All right, it's your turn.' You just got to kind of feel where the game is going.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes compares the Raptors ball movement to a music ensemble where you just have to feel where the game is going.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes uses a music ensemble analogy to describe the team's ball movement philosophy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "03:36",
+      "summary_phrase": "Scottie Barnes praises rookie Gradey Dick's debut performance",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "I love what Gradey brought, especially everybody sees the scoring and the dunks.",
+      "quote": "I love what Gradey brought, especially everybody sees the scoring and the dunks, but there's like plays that affect winning so much and Gradey did a great job of that. His offensive reading and his hustle, I already know he's going to make shots because that's who he is, he can shoot the ball. And then he's a great teammate, he's a connector, he does everything right and he's a great person as well.",
+      "text_blocks": [],
+      "start_seconds": 216,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Scottie Barnes is impressed with Gradey Dick's debut, noting that beyond the scoring, his hustle and ability to be a connector are what really affect winning.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes praises rookie Gradey Dick for his contributions to winning plays and his overall impact on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "05:55",
+      "summary_phrase": "Kawhi Leonard on his need for more game reps",
+      "names_mentioned": [],
+      "excerpt": "I haven't got a chance to play a lot in training camp, so any minutes I could get.",
+      "quote": "I haven't got a chance to play a lot in training camp, so any minutes I could get or continue to play, I know we were blowing them out, but the goal was to try to get 23, 24 minutes tonight, and I just need more reps to learn plays and I said this before, this is where you get better.",
+      "text_blocks": [],
+      "start_seconds": 355,
+      "end_seconds": 378,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kawhi Leonard says he is prioritizing game reps to learn the playbook and get back into rhythm after a limited training camp.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Kawhi Leonard explains his need for increased playing time to regain conditioning and learn team plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "06:47",
+      "summary_phrase": "Kawhi Leonard on not setting a timeline for his return to form",
+      "names_mentioned": [],
+      "excerpt": "No, I don't, I don't put targets. You can't rush greatness.",
+      "quote": "No, I don't, I don't put targets. You can't rush greatness. Whenever the medical thinks I could push forward and I feeling great, whatever numbers they're looking at or they're looking at, then that's when that time will come.",
+      "text_blocks": [],
+      "start_seconds": 407,
+      "end_seconds": 422,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Kawhi Leonard is not setting a timeline for his return to full form, saying you cannot rush greatness and he will wait for the medical staff to give the green light.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kawhi Leonard discusses his recovery process and why he is not setting specific timelines for his return to peak form.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kawhi Leonard",
+      "timestamp": "08:34",
+      "summary_phrase": "Kawhi Leonard praises Colin Murray-Boyles' defensive versatility",
+      "names_mentioned": [
+        "Colin Murray-Boyles"
+      ],
+      "excerpt": "He's been great, like switching, he could guard one through five.",
+      "quote": "He's been great, like switching, he could guard one through five. Going against him last year, he's a tough matchup, he's very physical, could slide his feet quickly, and just super focused and athletic, and he just keeps getting better.",
+      "text_blocks": [],
+      "start_seconds": 514,
+      "end_seconds": 529,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kawhi Leonard praises Colin Murray-Boyles for his defensive versatility, noting he can guard one through five and is a tough physical matchup.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Colin Murray-Boyles"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kawhi Leonard highlights the defensive versatility and physical growth of his teammate Colin Murray-Boyles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "12:18",
+      "summary_phrase": "Darko Rajakovic on the team's defensive effort and transition focus",
+      "names_mentioned": [
+        "RJ Barrett",
+        "Josh Giddey"
+      ],
+      "excerpt": "We really tried to keep them playing in half court and that started in that first quarter.",
+      "quote": "We put a lot of work in and guys were ready to go out there and really compete. We managed to keep this very talented young team of Bulls, we really tried to keep them playing in half court and that started in that first quarter. I thought we did a really good job. I thought that RJ did a really good job defensively on Josh Giddey to start the game.",
+      "text_blocks": [],
+      "start_seconds": 738,
+      "end_seconds": 765,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic credits the team defensive effort for keeping the Bulls out of transition, specifically highlighting RJ Barrett's work on Josh Giddey.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett",
+          "Josh Giddey"
+        ],
+        "teams": [
+          "TOR",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the team's defensive performance against the Bulls and highlights RJ Barrett's individual effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "13:23",
+      "summary_phrase": "Darko Rajakovic on Kawhi Leonard's performance and conditioning",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "I thought that he was really dialed in, he was aggressive as we need him to be.",
+      "quote": "I thought that he was really dialed in, he was aggressive as we need him to be. I thought that he played first game over here. Obviously this is going to be process and I believe that with every game he's going to be rising his level.",
+      "text_blocks": [],
+      "start_seconds": 803,
+      "end_seconds": 821,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says Kawhi Leonard was dialed in and aggressive in his debut, adding that he expects Leonard to continue rising his level as the season progresses.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on Kawhi Leonard's aggressive play and conditioning during his first game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "14:46",
+      "summary_phrase": "Darko Rajakovic on Gradey Dick's rebounding and learning curve",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "I thought that Allen was great, I think he was really trying to rebound the ball.",
+      "quote": "I thought that Allen was great, I think he was really trying to rebound the ball and go after it every single time. I think that that's super important and for him is understanding that every minute that he spends on the court is super valuable, that he's just going to continue learning the league, learning teams' tendencies, the speed of the game, getting his conditioning right.",
+      "text_blocks": [],
+      "start_seconds": 886,
+      "end_seconds": 912,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic emphasizes the importance of Gradey Dick focusing on rebounding and learning the speed of the NBA game as he continues his development.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the development of Gradey Dick and the importance of his rebounding effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "17:36",
+      "summary_phrase": "Darko Rajakovic on championship aspirations",
+      "names_mentioned": [],
+      "excerpt": "I got no comments about championship aspirations. We are here game one of regular season.",
+      "quote": "I got no comments about championship aspirations. We are here game one of regular season. We are here to to put the work in, we are here to maximize the talent of this team and we are here to fight to win every single night, every single game.",
+      "text_blocks": [],
+      "start_seconds": 1056,
+      "end_seconds": 1074,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic is keeping expectations grounded after game one, stating he has no comments on championship aspirations and is focused on winning every single night.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic declines to comment on championship expectations, focusing instead on the team's daily work ethic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Ope6MirPuNA",
+  "url": "https://www.youtube.com/watch?v=Ope6MirPuNA",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-22T04:01:23Z",
+  "duration_seconds": 1083,
+  "processed_at": "2026-10-22T11:55:07Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

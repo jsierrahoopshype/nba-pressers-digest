@@ -1,0 +1,172 @@
+{
+  "video_title": "Ty Jerome Press Conference | Grizzlies vs. Jazz",
+  "speakers_seen": [
+    "Ty Jerome"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ty Jerome",
+      "timestamp": "00:45",
+      "summary_phrase": "Ty Jerome on the Grizzlies' deep and fast-paced team identity",
+      "names_mentioned": [],
+      "excerpt": "we got a deep team, and we're going to play fast, play in waves",
+      "quote": "That's who we are as a group. We're going to play 10 tonight, sometimes 11. We got a deep team, and we're going to play fast, play in waves and everyone's going to contribute every night. That's who we are. Today was a real good example of our identity and who we want to be, and we got to continue to build on that.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ty Jerome on the Grizzlies identity: We are going to play 10 or 11 guys every night. We have a deep team and we are going to play fast and in waves.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome discusses the Grizzlies team identity and their strategy of playing a deep rotation at a fast pace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ty Jerome",
+      "timestamp": "01:31",
+      "summary_phrase": "Ty Jerome on his confidence in shooting against drop coverage",
+      "names_mentioned": [],
+      "excerpt": "they were playing most of my ball screens like in a drop and weren't really sending extra help",
+      "quote": "The game tells you what to do. They were playing most of my ball screens like in a drop and weren't really sending extra help, and those are shots that I shoot every day. If teams are going to play us like that, I'm confident in those shots. Basketball tells you what to do: shoot, pass, dribble. It's a simple game.",
+      "text_blocks": [],
+      "start_seconds": 91,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ty Jerome on facing drop coverage: If teams are going to play us like that I am confident in those shots. Basketball tells you what to do shoot pass dribble. It is a simple game.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Ty Jerome explains his decision-making process when shooting against the Jazz defensive drop coverage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ty Jerome",
+      "timestamp": "02:13",
+      "summary_phrase": "Ty Jerome on the Grizzlies' defensive effort against the Jazz",
+      "names_mentioned": [
+        "J. Wells",
+        "Scotty"
+      ],
+      "excerpt": "the way we guarded and frustrated them started with J. Wells, Scotty did a really good job",
+      "quote": "That's a really good offensive team and they scored 103 points. Obviously there's some stuff we can clean up defensively, but the way we guarded and frustrated them started with J. Wells. Scotty did a really good job on the ball. Obviously, Zach and Booze in the paint, everyone was pretty good defensively tonight and that's where we want to hang our hat on moving forward.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ty Jerome credits the Grizzlies defensive effort against Utah to J. Wells and Scotty on the ball and Zach and Booze in the paint. He says that is where they want to hang their hat.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "J. Wells",
+          "Scotty Pippen Jr.",
+          "Zach Edey",
+          "Brandon Clarke"
+        ],
+        "teams": [
+          "MEM",
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ty Jerome praises the defensive performance of his teammates following the victory over the Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ty Jerome",
+      "timestamp": "03:02",
+      "summary_phrase": "Ty Jerome on the need to eliminate mental lapses defensively",
+      "names_mentioned": [
+        "Tomas"
+      ],
+      "excerpt": "we stop getting back on defense for a second, stuff like that can't happen",
+      "quote": "Mid to late third quarter, we stop getting back on defense for a second, stuff like that can't happen, especially as we continue to play against really good teams. Mental lapses, stuff like that, we probably fouled too much tonight. There's definitely some more things we can clean up, but I'm sure Tomas will have a ton of stuff we can clean up. He's good at that.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ty Jerome says the Grizzlies need to clean up mental lapses and fouling. He noted that in the third quarter they stopped getting back on defense and that cannot happen against good teams.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tomas"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ty Jerome reflects on defensive lapses during the game and notes that the coaching staff will address these areas for improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ty Jerome",
+      "timestamp": "05:17",
+      "summary_phrase": "Ty Jerome on maintaining the Grizzlies' identity throughout the season",
+      "names_mentioned": [],
+      "excerpt": "continue to play with our identity, our pace",
+      "quote": "Continue to play with our identity, our pace. I don't have to look at the stat sheet to tell you that's what won us the game tonight. That team might have more fire power on paper, but the way we play, how we want to play fast together, play hard on defense, crash the glass on offense, all those things, that's what we're going to pride ourselves on and that's what's going to win us ball games.",
+      "text_blocks": [],
+      "start_seconds": 317,
+      "end_seconds": 347,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ty Jerome says the Grizzlies identity of playing fast and hard on defense is what wins them games regardless of how much firepower the opponent has on paper.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome emphasizes the importance of maintaining the team's established identity and pace to secure future wins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "mXypHSkNcaM",
+  "url": "https://www.youtube.com/watch?v=mXypHSkNcaM",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-10-22T06:26:53Z",
+  "duration_seconds": 353,
+  "processed_at": "2026-10-22T11:53:50Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

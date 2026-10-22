@@ -1,0 +1,137 @@
+{
+  "video_title": "Kyle Kuzma Postgame Press Conference | 10.21.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Kyle Kuzma"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Kyle Kuzma on team chemistry and competitive consistency",
+      "names_mentioned": [],
+      "excerpt": "we just committed, competed for three and a half quarters for most of the game.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Are we going to compete? Let's see, right? And I know there was that big run in the fourth, but in terms of that competition and bringing, I mean, this looked like a different team from the one in Indy. Do you look at it in total like that? Like this is the sixth game together and the night, more connected?"
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "Yeah, we just committed, competed for three and a half quarters for most of the game. We were in a great spot, but in this league, you have to play 48 and there's a lot of positives to take out tonight and I think we're going to watch the film and also look at a lot of the negatives that we had as well."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyle Kuzma says the team competed for most of the night but emphasized that in this league you have to play 48 minutes to get the job done.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma discusses the team's competitive consistency and overall performance following their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "00:37",
+      "summary_phrase": "Kyle Kuzma on defensive breakdowns in the paint and free throws",
+      "names_mentioned": [],
+      "excerpt": "the biggest thing is just the paint and the free throws.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You try to defend the paint, three-point line, it's hard. But 70 points in the paint and then I think they had 43 free throws."
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "That's how you lose, exactly. The biggest thing is just the paint and the free throws. Obviously we knew about the two guys that had about 23 of them. So, you know, just got to be a little bit better and think about our shell defense a little bit more in certain instances because they didn't hit threes either, just like us. But we got to make that in-game switch to understand that in real time."
+        }
+      ],
+      "start_seconds": 37,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kyle Kuzma points to defensive discipline as the culprit for the loss noting that giving up 70 points in the paint and 43 free throws is how you lose games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma analyzes the defensive breakdowns regarding points in the paint and free throw discrepancies during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "01:11",
+      "summary_phrase": "Kyle Kuzma on offensive spacing and playmaking movement",
+      "names_mentioned": [],
+      "excerpt": "we had some movement, we had some good plays.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "I know the game opened with you finding a cutter and a dunk and offensively you guys found each other and that spacing looked a little more consistent. What were you seeing offensively? I mean, I think five guys in double figures, it looked like the offense at least there was some playmaking movement."
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "We had some movement, we had some good plays. And then I think for most of the game we had some good plays outside of probably the last five, four minutes of how we're trying to play desperation ball and then a little bit in the third quarter as well when they made that little run. So, I think it's a lot of positives and we just got to stay with it. It's a long season and everybody just bought into that."
+        }
+      ],
+      "start_seconds": 71,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyle Kuzma liked the offensive movement and playmaking he saw for most of the game but noted the team fell into playing desperation ball during key stretches.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma evaluates the team's offensive spacing and playmaking movement throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "Sfjcsdl37QA",
+  "url": "https://www.youtube.com/watch?v=Sfjcsdl37QA",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-22T02:31:05Z",
+  "duration_seconds": 125,
+  "processed_at": "2026-10-22T11:55:56Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

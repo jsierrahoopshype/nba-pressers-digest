@@ -1,0 +1,169 @@
+{
+  "video_title": "“I Gotta Find A Way To Help Us Win.” | Jonathan Kuminga Postgame Sound | 10.21.26",
+  "speakers_seen": [
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "00:10",
+      "summary_phrase": "Jonathan Kuminga on his defensive approach against Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "I am not going out there and stopping everything he is bringing towards me",
+      "quote": "Just a little experience with playing against him. I am not going out there and stopping everything he is bringing towards me, but knowing certain things he loves to do, and obviously we played against him a lot when I was with the Warriors and I watched him. I had a moment where I guarded him, so just knowing him, I am not going out there and stopping everything, but just trying to make his life a little harder. He is one of the best players here, but just make his life harder.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jonathan Kuminga says his defensive approach against Giannis Antetokounmpo is about knowing his tendencies from his Warriors days and trying to make his life harder",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIN",
+          "GSW",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses his defensive strategy for guarding Giannis Antetokounmpo during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "00:56",
+      "summary_phrase": "Jonathan Kuminga on the mental challenge of guarding elite players",
+      "names_mentioned": [],
+      "excerpt": "I cannot put my head down and I want to keep going",
+      "quote": "That is what we are here for. I know he is going to have his moment, but I cannot put my head down and I want to keep going. I think it is a challenge to guard him, and I live up to a lot of challenges, and I feel like it is my challenge to go out there and try to challenge him and make his life harder, no matter even if he is scoring 50 or whatever. Anything he is doing, I won't give up because we are trying to win these games and we are trying to establish something over here.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jonathan Kuminga on the challenge of guarding elite scorers like Giannis Antetokounmpo: I cannot put my head down and I want to keep going",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIN",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga reflects on the mental challenge of defending elite players like Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:42",
+      "summary_phrase": "Jonathan Kuminga on playing alongside Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "They are going to throw two to three people at him, you just got to give him the lane",
+      "quote": "They are going to throw two to three people at him, you just got to give him the lane. Once he is open, just give him the ball. He is going to find you, and when he finds you, just be ready to make a play for somebody else or shoot or just make a play. Playing smart, just being around him, you got to pay attention all the time because they are going to trap him, and very impressive how he is used to seeing two or three people and he was making good plays and passes.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jonathan Kuminga on playing with Anthony Edwards: You have to pay attention all the time because teams are going to trap him and he is making good plays and passes",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga explains his approach to playing alongside Anthony Edwards when opponents double-team him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "02:29",
+      "summary_phrase": "Jonathan Kuminga on his evolving offensive role with the Timberwolves",
+      "names_mentioned": [],
+      "excerpt": "My role is just do everything that matters on the floor",
+      "quote": "It is pretty much just doing everything. Whatever comes towards my way, that is what I got to do. If it is only passing the ball or pushing, getting the paint and making plays, I don't have a specific role I could come in and tell you this is my role, but my role is just do everything that matters on the floor. Even the little things that nobody is going to see that is just going to help my teammates and us win, I think that is my role.",
+      "text_blocks": [],
+      "start_seconds": 149,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jonathan Kuminga on his role with the Timberwolves: I do not have a specific role I could come in and tell you, but my role is just do everything that matters on the floor",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga describes his evolving and versatile role within the Timberwolves offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "03:16",
+      "summary_phrase": "Jonathan Kuminga on his experience and readiness for the season",
+      "names_mentioned": [],
+      "excerpt": "I am in my sixth year so I know how things goes",
+      "quote": "This is my sixth year, so I know how things goes. I have been around for a minute now, so I just got to stay ready, keep my knees warm, and when I go out there I got to find a way to help us winning. When I go out, support my teammates and just be ready whenever my name gets called, just do the same thing again.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 222,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Entering his sixth season, Jonathan Kuminga says his mindset is simple: I just have to stay ready and find a way to help us win",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga speaks about his mindset entering his sixth NBA season and his commitment to helping the team win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "MAqlI1GRoj8",
+  "url": "https://www.youtube.com/watch?v=MAqlI1GRoj8",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-22T04:49:22Z",
+  "duration_seconds": 262,
+  "processed_at": "2026-10-22T11:54:07Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

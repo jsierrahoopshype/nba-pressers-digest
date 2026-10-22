@@ -1,0 +1,106 @@
+{
+  "video_title": "Hornets at Nets: Ryan Kalkbrenner Postgame Media Availability | 10/21/2026",
+  "speakers_seen": [
+    "Ryan Kalkbrenner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ryan Kalkbrenner",
+      "timestamp": "00:04",
+      "summary_phrase": "Ryan Kalkbrenner on Hornets' preseason focus and team energy",
+      "names_mentioned": [],
+      "excerpt": "we had a lot of stuff that we wanted to clean up, so the biggest thing for us",
+      "quote": "Going through the preseason, we had a lot of stuff that we wanted to clean up, so the biggest thing for us was just doing what we do and focusing on our game and trying to do the things that we wanted to do. We brought great energy tonight. It wasn't always perfect, but we were really competitive with everything we did, so that's all you can ask for, even if not everything is going perfect.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ryan Kalkbrenner on the Hornets preseason approach: We had a lot of stuff to clean up, so the biggest thing was just doing what we do and focusing on our game. We brought great energy tonight.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Ryan Kalkbrenner discusses the team's preseason focus and energy following the game against the Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ryan Kalkbrenner",
+      "timestamp": "00:35",
+      "summary_phrase": "Kalkbrenner on Hornets' fourth quarter execution and hustle",
+      "names_mentioned": [],
+      "excerpt": "I think that was just our mentality the whole game and I think when you do the right things",
+      "quote": "I think that was just our mentality the whole game and I think when you do the right things, you get rewarded for it eventually, even if the ball doesn't always bounce your way. So we stayed with it and we got some good bounces because we were hustling and being in the right places toward the end of the game.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kalkbrenner credits the Hornets late game success to hustle: We stayed with it and we got some good bounces because we were hustling and being in the right places toward the end of the game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Ryan Kalkbrenner explains the Hornets' mentality and hustle during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ryan Kalkbrenner",
+      "timestamp": "00:54",
+      "summary_phrase": "Ryan Kalkbrenner on the impact of Naz Reid",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "he's someone we love having down on the court. He does so many things",
+      "quote": "He's a great player. He's someone we love having down on the court. He does so many things: guards well, shoots the ball well, post up, gets downhill, all that. He's a great teammate to have too. I'm looking forward to spending the year with him. He's going to be a great add to our team.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ryan Kalkbrenner on playing alongside Naz Reid: He does so many things, guards well, shoots the ball well, post up, gets downhill. He is going to be a great add to our team.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Kalkbrenner shares his thoughts on the impact and skills of his new teammate Naz Reid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "chvI37ub1t4",
+  "url": "https://www.youtube.com/watch?v=chvI37ub1t4",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-22T03:15:11Z",
+  "duration_seconds": 69,
+  "processed_at": "2026-10-22T11:55:27Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

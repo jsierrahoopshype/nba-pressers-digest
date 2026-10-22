@@ -1,0 +1,222 @@
+{
+  "video_title": "Dejounte Murray on season opener, leadership role | Pelicans vs Pacers Postgame Interview 10/21/26",
+  "speakers_seen": [
+    "Dejounte Murray"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dejounte Murray",
+      "timestamp": "00:32",
+      "summary_phrase": "Dejounte Murray on the team's defensive identity and growth",
+      "names_mentioned": [],
+      "excerpt": "that's the identity we're going to continue to preach, you know you got to guard at high level",
+      "quote": "I think we started a little slow, then obviously we picked it up. But that's the identity we're going to continue to preach, you know you got to guard at high level and then just take care of the little things.",
+      "start_seconds": 32,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dejounte Murray says the Pelicans defensive identity is a work in progress after a slow start. He emphasizes that the team must guard at a high level and take care of the little things to be successful.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray discusses the team's defensive identity and the need to maintain high-level effort following the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dejounte Murray",
+      "timestamp": "00:56",
+      "summary_phrase": "Dejounte Murray emphasizes team unity after a tough loss",
+      "names_mentioned": [],
+      "excerpt": "it goes your way, it doesn't go your way, we got to stay together as one",
+      "quote": "The main thing I'm going to continue to say is stay together. It goes your way, it doesn't go your way, we got to stay together as one. And that's really it. Long season. I'm just upset because we gave this one away. I wanted this one bad, but it's the NBA, you got to flush it and get ready for this road trip.",
+      "start_seconds": 56,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dejounte Murray is frustrated after the Pelicans loss to the Pacers. He says the team gave the game away and needs to flush the result quickly to prepare for the upcoming road trip.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray speaks about the importance of team unity and moving on after a difficult loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dejounte Murray",
+      "timestamp": "01:21",
+      "summary_phrase": "Dejounte Murray explains why the team gave the game away",
+      "names_mentioned": [],
+      "excerpt": "I really feel we gave the game away, you know stupid fouls, knowing that they were in",
+      "quote": "I really feel we gave the game away, you know stupid fouls, knowing that they were in the bonus and were the ticky tack fouls. There's a lot of things. You don't just lose the game because of one thing, but I really feel we controlled this game the whole game.",
+      "start_seconds": 81,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dejounte Murray points to stupid fouls and poor discipline as the reason the Pelicans let the game slip away. He believes they controlled the game but failed to execute in the closing moments.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray reflects on the team's performance and the specific errors that led to losing a game they felt they controlled.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dejounte Murray",
+      "timestamp": "02:42",
+      "summary_phrase": "Dejounte Murray on Zion Williamson's shooting confidence",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "once he start taking them and guys start coming closer to him, it makes his game even easier",
+      "quote": "I think once he realized when he start taking them and guys start coming closer to him, it makes his game even easier because he's just a real talent just going to the basket. The way he's able to first step get by guys and go finish at the rim. So he's got to take them and he will take them.",
+      "start_seconds": 162,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Dejounte Murray wants to see Zion Williamson keep shooting from the perimeter. He believes that if Zion takes those shots, it will open up the floor and make his drives to the basket even easier.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray discusses Zion Williamson's shooting confidence and how it impacts his ability to drive to the basket.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dejounte Murray",
+      "timestamp": "03:30",
+      "summary_phrase": "Dejounte Murray on protecting teammates during on-court altercations",
+      "names_mentioned": [
+        "Harrison Barnes",
+        "Keldon Johnson"
+      ],
+      "excerpt": "I always got my brothers back but you got to understand the game",
+      "quote": "I always got my brothers back but you got to understand the game. I think Harrison Barnes is a hell of a player, smart player, and you got to stay in the moment though. You got to protect yourself, respect is earned obviously, but at the same time if you pay attention to the game, that was like a momentum thing, it got them celebrating.",
+      "start_seconds": 210,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dejounte Murray discusses the importance of staying composed during on-court altercations. He notes that while he always has his teammates back, players must understand the game and avoid giving the opponent momentum.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Harrison Barnes"
+        ],
+        "teams": [
+          "NOP",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray comments on the importance of maintaining composure during on-court altercations and mentions Harrison Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dejounte Murray",
+      "timestamp": "06:18",
+      "summary_phrase": "Dejounte Murray on Jeremiah Robinson-Earl's energy and scrap",
+      "names_mentioned": [
+        "Jeremiah Robinson-Earl",
+        "Ja Morant"
+      ],
+      "excerpt": "he's a tough one, I love him, I love just seeing him smile every day",
+      "quote": "He's a tough one, I love him, I love just seeing him smile every day. Basketball don't define us, I just want to throw that out there. Like his energy is high and it's contagious in the right way. But like I told him, you going to learn, even in the starting lineup, everything's about to change fast. Scout reports, game plans on you, and there's a gift and the curse with that.",
+      "start_seconds": 378,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dejounte Murray praises the energy Jeremiah Robinson-Earl brings to the Pelicans. He warns that as Robinson-Earl gets more time in the starting lineup, he will have to adjust to being a focal point of opposing scouting reports.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray praises the energy of Jeremiah Robinson-Earl and discusses the challenges of moving into a starting lineup role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Dejounte Murray",
+      "timestamp": "08:31",
+      "summary_phrase": "Dejounte Murray on Willie Green's coaching style",
+      "names_mentioned": [
+        "Willie Green"
+      ],
+      "excerpt": "he's a great human being, great coach, passionate coach",
+      "quote": "I always rock with Moes. He's a great human being, great coach, passionate coach. He's another one that's always smiling, but he could hit that switch and get real serious, which I respect a lot. And I'm just pissed off that we didn't get the win. I wanted that win for us, the fans, and obviously him, but we'll get it sooner or later.",
+      "start_seconds": 511,
+      "end_seconds": 536,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dejounte Murray expresses his support for Willie Green, calling him a passionate coach who knows how to flip the switch when it is time to get serious.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Willie Green"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Dejounte Murray shares his thoughts on head coach Willie Green's personality and coaching style after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "eoFSlB7p2_g",
+  "url": "https://www.youtube.com/watch?v=eoFSlB7p2_g",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-22T04:40:47Z",
+  "duration_seconds": 541,
+  "processed_at": "2026-10-22T11:54:44Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

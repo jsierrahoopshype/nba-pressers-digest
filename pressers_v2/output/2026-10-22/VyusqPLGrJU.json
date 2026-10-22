@@ -1,0 +1,204 @@
+{
+  "video_title": "“I Think We Are Gonna Be Everything.” | LaMelo Ball Postgame Sound | 10.21.26",
+  "speakers_seen": [
+    "LaMelo Ball"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:24",
+      "summary_phrase": "LaMelo Ball on the team's physical approach and foul trouble",
+      "names_mentioned": [],
+      "excerpt": "It was physical for real, but it was calling a lot of fouls on us.",
+      "quote": "I thought it was physical for real, but it was calling a lot of fouls on us, so we had to tone it back a little. I think that was just good for the rest of the game.",
+      "text_blocks": [],
+      "start_seconds": 24,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on the physical nature of the game and the impact of early foul trouble: It was calling a lot of fouls on us so we had to tone it back a little.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the physical nature of the game and the impact of foul calls on the team's defensive approach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:43",
+      "summary_phrase": "LaMelo Ball on team chemistry and collective effort",
+      "names_mentioned": [],
+      "excerpt": "I definitely think we help each other a lot, just the whole team.",
+      "quote": "I definitely think we help each other a lot, just the whole team. We have a lot of players on the team just going at each other for real, so it's great basketball and it only gets you better.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "LaMelo Ball on the team chemistry in Minnesota: We have a lot of players on the team just going at each other for real so it is great basketball and it only gets you better.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball reflects on the team's chemistry and how internal competition during practice improves their collective performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:11",
+      "summary_phrase": "LaMelo Ball on the impact of having a weapon like Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "Having that in your pocket and just on your team, we got to get it going.",
+      "quote": "It's amazing. You see it firsthand, you see how he can score the ball. There's just so much he can do, so having that in your pocket and just on your team, we got to get it going.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball on playing alongside Anthony Edwards: It is amazing. You see it firsthand you see how he can score the ball. There is just so much he can do.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball praises the scoring ability and versatility of his teammate Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:46",
+      "summary_phrase": "LaMelo Ball on the team's potential for high three-point volume",
+      "names_mentioned": [],
+      "excerpt": "I think we are going to be everything. Whatever we need, I feel like we can do it.",
+      "quote": "I think we are going to be everything. Whatever we need, I feel like we can do it, so whatever the game calls for, I feel like we are going to try to make it work.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on the versatility of the roster: I think we are going to be everything. Whatever we need I feel like we can do it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball expresses confidence in the team's ability to adapt to any situation during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:58",
+      "summary_phrase": "LaMelo Ball on Jaden McDaniels' defensive capabilities",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I love Jaden McDaniels. Jaden knows how to play basketball. I tell him that every day.",
+      "quote": "I love Jaden McDaniels. Jaden knows how to play basketball. I tell him that every day. Whenever you see me and you on the court, just try to get in the action because you know how to play basketball.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on his confidence in Jaden McDaniels: I love Jaden McDaniels. Jaden knows how to play basketball. I tell him that every day.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball shares his appreciation for Jaden McDaniels' basketball IQ and his role on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "LaMelo Ball",
+      "timestamp": "02:14",
+      "summary_phrase": "LaMelo Ball on Jaden McDaniels' defensive performance against Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "Jaden did a great job. He was there for sure, making him work.",
+      "quote": "He was there for sure, like you just said, making him work. He got a little foul, maybe just being frustrated from him playing up so high, so I feel like Jaden did a great job.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball praises Jaden McDaniels for his defensive effort against Giannis Antetokounmpo: He was there for sure making him work. I feel like Jaden did a great job.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIN",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball commends Jaden McDaniels for his defensive effort while guarding Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "VyusqPLGrJU",
+  "url": "https://www.youtube.com/watch?v=VyusqPLGrJU",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-22T04:49:19Z",
+  "duration_seconds": 158,
+  "processed_at": "2026-10-22T11:54:12Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}

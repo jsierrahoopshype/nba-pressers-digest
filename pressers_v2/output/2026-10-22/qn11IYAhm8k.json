@@ -1,0 +1,256 @@
+{
+  "video_title": "“I Love The Place I’m At, I Love Minnesota.” | Jaden McDaniels Postgame Sound | 10.21.26",
+  "speakers_seen": [
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:05",
+      "summary_phrase": "Jaden McDaniels on the team's selfless, ball-moving offensive philosophy",
+      "names_mentioned": [],
+      "excerpt": "not caring who scores or who makes the play, just everyone being selfless",
+      "quote": "Just playing for each other, seeing the ball move, not caring who scores or who makes the play, just everyone being selfless for real.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 14,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaden McDaniels on the Timberwolves offensive philosophy: Just playing for each other, seeing the ball move, not caring who scores or who makes the play, just everyone being selfless for real.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses the team's offensive philosophy of selfless ball movement and sharing the scoring load.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:21",
+      "summary_phrase": "Jaden McDaniels praises Jalen Williams' defensive impact and energy",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "it was good to see just the energy, the fight, and making, knocking down open shots",
+      "quote": "He did amazing. I didn't know he played defense like that for real. You know, he always scoring on us, so it was good to see just the energy, the fight, and making, knocking down open shots too. So, we just had a great game.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaden McDaniels on Jalen Williams: I did not know he played defense like that for real. You know, he always scoring on us, so it was good to see just the energy, the fight, and making, knocking down open shots too.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "MIN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels praises the defensive effort and energy shown by Jalen Williams during their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:45",
+      "summary_phrase": "Jaden McDaniels on embracing physicality and maintaining team identity",
+      "names_mentioned": [],
+      "excerpt": "just knowing the teams are going to try to be physical with us and then embracing the physicality",
+      "quote": "Just knowing the teams are going to try to be physical with us and then embracing the physicality. And being physical with us, we be physical too. It's just something the coach always tells us and just not going away from our game while being physical too.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaden McDaniels on the team approach to physicality: Knowing the teams are going to try to be physical with us and then embracing the physicality. And being physical with us, we be physical too.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains the team's focus on embracing physicality as instructed by their coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:08",
+      "summary_phrase": "Jaden McDaniels defines the team's selfless passing and ball movement",
+      "names_mentioned": [],
+      "excerpt": "if you get the ball, there's one more man open to you like an extra extra pass",
+      "quote": "If you get the ball, there's one more man open to you like an extra extra pass kind of thing to make sure you do that. Or even like a layup and then being the passing back to me kind of thing. So, just not mad, not caring who scores, just all having fun together.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jaden McDaniels on the team ball movement: If you get the ball, there is one more man open to you like an extra extra pass kind of thing to make sure you do that. Just not mad, not caring who scores, just all having fun together.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels describes the team's commitment to making the extra pass to ensure high-quality shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:31",
+      "summary_phrase": "Jaden McDaniels on the team's commitment to shooting and practice",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "LaMelo Ball"
+      ],
+      "excerpt": "we got a bunch of good shooters. We always putting in our work on the threes",
+      "quote": "I don't know to be honest, I didn't even know we shot 53s, but we got a bunch of good shooters. We always putting in our work on the threes after practice, before, or on our own time. So, I don't think we're bad shooters at all. It just seems like with Anthony Edwards and LaMelo Ball, they shot 30s on the 50-year. But again, it worked, they were making the shots, so I mean, we can't be mad at it. That's what they were giving, they take it.",
+      "text_blocks": [],
+      "start_seconds": 91,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaden McDaniels on the team shooting: We got a bunch of good shooters. We always putting in our work on the threes after practice, before, or on our own time. So, I do not think we are bad shooters at all.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses the team's shooting performance and the work put in by teammates Anthony Edwards and LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:12",
+      "summary_phrase": "Jaden McDaniels on his contract extension and love for Minnesota",
+      "names_mentioned": [],
+      "excerpt": "I just love the place I'm at, I love Minnesota, like the fans, the atmosphere",
+      "quote": "I just love the place I'm at, I love Minnesota, like the fans, the atmosphere, just everything. Being here for seven years already, I mean, it's just a no-brainer adding another year. You know, it's not going to matter or anything about it. I'm actually super excited to stay here and just continue to wear this jersey.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Jaden McDaniels on his commitment to the Timberwolves: I love the place I am at, I love Minnesota. Being here for seven years already, it is just a no-brainer adding another year. I am actually super excited to stay here.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Jaden McDaniels expresses his happiness regarding his recent contract extension and his commitment to the Minnesota Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:36",
+      "summary_phrase": "Jaden McDaniels on team chemistry and long-term potential",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "LaMelo Ball"
+      ],
+      "excerpt": "me and Anthony Edwards and LaMelo Ball already been together for seven years",
+      "quote": "Me and Anthony Edwards and LaMelo Ball already been together for seven years, so we just add another pieces to help us. And I feel like yeah, it's a we got at least three, four more years together, so we going to live it up to the full.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaden McDaniels on the core group: Me and Anthony Edwards and LaMelo Ball already been together for seven years. I feel like we got at least three, four more years together, so we going to live it up to the full.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels reflects on the long-term chemistry and future potential of playing alongside Anthony Edwards and LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "03:05",
+      "summary_phrase": "Jaden McDaniels on learning from the pain of losing",
+      "names_mentioned": [],
+      "excerpt": "having that losing feeling, like that's not a good feeling to have",
+      "quote": "For sure, just learning like having that losing feeling, like that's not a good feeling to have. So being able to turn it around, like six years in a row making the playoffs, is a great feeling.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaden McDaniels on the team growth: Learning like having that losing feeling, that is not a good feeling to have. So being able to turn it around, like six years in a row making the playoffs, is a great feeling.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses how past losing experiences have motivated the team to maintain their current playoff streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "qn11IYAhm8k",
+  "url": "https://www.youtube.com/watch?v=qn11IYAhm8k",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-22T04:49:16Z",
+  "duration_seconds": 200,
+  "processed_at": "2026-10-22T11:54:22Z",
+  "run_id": "2026-10-22T1153Z-06utc",
+  "is_one_off": false
+}
