@@ -1,0 +1,79 @@
+{
+  "video_title": "Shooters Shoot: C.J. Miles at Jazz Media Day | ALL ACCESS",
+  "speakers_seen": [
+    "C.J. Miles",
+    "Keyonte George",
+    "Lauri Markkanen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "C.J. Miles",
+      "timestamp": "00:25",
+      "summary_phrase": "C.J. Miles on his transition from NBA player to photographer",
+      "names_mentioned": [],
+      "excerpt": "I bought my first camera while I was playing in Utah, and I was just playing around with it.",
+      "quote": "I bought my first camera while I was playing in Utah, and I was just playing around with it. Like most young people, I fell off, and then I just slowly started coming back to it. Next thing you know, I was full in it, carrying around a bag with three cameras in it. My big love for it though is just naturally, I am a storyteller. That is everything I do from poetry, music, writing with that. So that is what brought me back.",
+      "verbatim_original_language": "",
+      "start_seconds": 25,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "CJ Miles reflects on his post-playing career transition into photography, noting that his natural desire to be a storyteller is what brought him back to the craft.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Former player C.J. Miles discusses his transition from playing in the NBA to pursuing photography as a storyteller.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "C.J. Miles",
+      "timestamp": "01:55",
+      "summary_phrase": "C.J. Miles on his return to the Utah Jazz organization",
+      "names_mentioned": [],
+      "excerpt": "It was almost like being drafted again by the Jazz, right?",
+      "quote": "After I retired and started doing some other things around basketball and just figuring out the route of that, being able to do some broadcast and some things of that nature, and them being one of the people that really took me in, it was almost like being drafted again by the Jazz, right? Being able to start over and start this second journey with the team that I started everything with. The guys in the broadcasting studio, they have taken me in and taught me a lot of things, and being able to do basketball stuff around, my relation to Keyonte being here, and being able to be around and be a resource has been really fun for me.",
+      "verbatim_original_language": "",
+      "start_seconds": 115,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "CJ Miles says returning to the Jazz organization to work in broadcasting feels like being drafted all over again. He is also embracing his role as a resource for young players like Keyonte George.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keyonte George"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "C.J. Miles reflects on his return to the Utah Jazz organization in a broadcasting role and his relationship with current player Keyonte George.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media day",
+  "format": "ytq-1",
+  "video_id": "u3nNuDGedfQ",
+  "url": "https://www.youtube.com/watch?v=u3nNuDGedfQ",
+  "channel_team": "Utah Jazz",
+  "published": "2026-10-22T22:51:50Z",
+  "duration_seconds": 162,
+  "processed_at": "2026-10-22T23:22:18Z",
+  "run_id": "2026-10-22T2322Z-20utc",
+  "is_one_off": false
+}

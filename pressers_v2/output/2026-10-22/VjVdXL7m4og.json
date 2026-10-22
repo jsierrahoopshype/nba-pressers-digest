@@ -1,0 +1,563 @@
+{
+  "video_title": "Brandon Miller Extension Press Conference | 10/22/26",
+  "speakers_seen": [
+    "Sam Farber",
+    "Jeff Peterson",
+    "Charles Lee",
+    "Brandon Miller"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jeff Peterson",
+      "timestamp": "02:08",
+      "summary_phrase": "Jeff Peterson on the priority of extending Brandon Miller long-term",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "keeping Brandon here long-term was certainly a priority of ours",
+      "quote": "I have said continuously that keeping Brandon here long-term was certainly a priority of ours. Even though the negotiation went to the last hour and probably a little bit longer than Brandon and I wanted it to go, I am just happy that we were able to get it done and again show the level of commitment that we have to Brandon, not only in the short-term but the long-term as well.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Jeff Peterson confirms that locking up Brandon Miller long term was a top priority for the Hornets organization. He admits the negotiations went down to the wire but is happy to show their commitment to Miller for the future.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Jeff Peterson discusses the successful negotiation of Brandon Miller's long-term contract extension.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jeff Peterson",
+      "timestamp": "02:43",
+      "summary_phrase": "Jeff Peterson highlights Brandon Miller's work ethic and drive",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "his work ethic, his drive, his determination, and desire to continue to elevate himself",
+      "quote": "Brandon is everyone knows how talented of a player he is, but I do want to paint the scene beyond the picture of what he is able to show that the public does not get to see all the time. His work ethic, his drive, his determination, and desire to continue to elevate himself and be the best version of himself is something that we really appreciate and we take serious.",
+      "text_blocks": [],
+      "start_seconds": 163,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jeff Peterson on Brandon Miller: His work ethic, drive, and desire to elevate himself is something we take very seriously. There is a lot more to him than what the public gets to see.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jeff Peterson praises the work ethic and drive of Brandon Miller beyond what the public sees.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "04:18",
+      "summary_phrase": "Charles Lee praises Brandon Miller as a phenomenal person",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "it is exciting to be able to celebrate such a phenomenal basketball player",
+      "quote": "It is exciting to be able to celebrate such a phenomenal basketball player, but like Jeff hit on so many things, just a phenomenal person and human being, which is why I think so many of his teammates are here. Credit to his family and friends that have helped build this young man up to who he is today as a player and as a man.",
+      "text_blocks": [],
+      "start_seconds": 258,
+      "end_seconds": 283,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee praises Brandon Miller not just as a player but as a phenomenal human being, noting that his teammates showing up for his extension presser speaks volumes about his character.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee commends Brandon Miller for his character and personality during the press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "05:01",
+      "summary_phrase": "Charles Lee on Brandon Miller's growth and daily improvement",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "he is truly obsessed with daily improvement",
+      "quote": "This contract not only shows the short-term significance of what we are trying to do with our team and commitment to Brandon, but it is a long-term thing as well. He is truly obsessed with daily improvement. I think we got to see a ton of his growth last night, even versus a win versus the Nets. What he brings on both ends of the floor, the vocal leadership continues to grow.",
+      "text_blocks": [],
+      "start_seconds": 301,
+      "end_seconds": 329,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Charles Lee says Brandon Miller is obsessed with daily improvement. He highlights Miller's growth as a vocal leader and his impact on both ends of the floor for the Hornets.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA",
+          "BKN"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Charles Lee discusses Brandon Miller's growth and performance following a recent win against the Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brandon Miller",
+      "timestamp": "06:03",
+      "summary_phrase": "Brandon Miller credits Jeff Peterson and Charles Lee for his development",
+      "names_mentioned": [
+        "Jeff Peterson",
+        "Charles Lee"
+      ],
+      "excerpt": "I tell my hat off to JP every day",
+      "quote": "I tell my hat off to JP every day. I talk to him like one of the guys on my team. And of course Charles, of course, appreciate you just for believing in me, trusting me to be who I am today. And then I think another thanks I can give out to is all my teammates of course. It starts from day one in the summer of everybody coming in and working.",
+      "text_blocks": [],
+      "start_seconds": 363,
+      "end_seconds": 391,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller credits his development to the trust shown by Jeff Peterson and Charles Lee, while also thanking his teammates for the work they have put in since the summer.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeff Peterson",
+          "Charles Lee"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller expresses gratitude toward Jeff Peterson, Charles Lee, and his teammates for their support.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brandon Miller",
+      "timestamp": "06:53",
+      "summary_phrase": "Brandon Miller on overcoming adversity with his sister's support",
+      "names_mentioned": [],
+      "excerpt": "I feel like I have fought a lot of adversity",
+      "quote": "I feel like I have fought a lot of adversity, and I think one person that I lean on the most would be my sister. Without her, I feel like I would not be here to this day. So just having a person like that always behind me, having my back, that is all I can ask for.",
+      "text_blocks": [],
+      "start_seconds": 413,
+      "end_seconds": 435,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller opens up about the adversity he has faced, crediting his sister as his biggest support system: Without her I feel like I would not be here to this day.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller speaks about the personal adversity he has overcome with the support of his sister.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Brandon Miller",
+      "timestamp": "08:04",
+      "summary_phrase": "Brandon Miller on controlling the controllables in his career",
+      "names_mentioned": [
+        "Jeff Peterson"
+      ],
+      "excerpt": "the main thing is just controlling the controllables",
+      "quote": "I left it to the people in charge of course, my agency and Jeff Peterson. I feel like I had the easy part which is just playing basketball and focus on the things that I can focus on. And then the main thing is just controlling the controllables. Whether the outcome is, I am still blessed to be here playing the game that I love to play.",
+      "text_blocks": [],
+      "start_seconds": 484,
+      "end_seconds": 510,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller on his contract negotiations: I left it to the people in charge. I feel like I had the easy part which is just playing basketball and focusing on controlling the controllables.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeff Peterson"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Brandon Miller explains his approach to the contract negotiation process by focusing on playing basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Brandon Miller",
+      "timestamp": "08:50",
+      "summary_phrase": "Brandon Miller on the importance of daily consistency",
+      "names_mentioned": [],
+      "excerpt": "one thing that we preach every day is just daily consistency",
+      "quote": "One thing that we preach every day is just daily consistency, and that was one thing that was easy to show and easy to see. So having guys like that, it kind of makes the job a lot easier.",
+      "text_blocks": [],
+      "start_seconds": 530,
+      "end_seconds": 545,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller says the team preaches daily consistency, noting that having teammates who buy into that mindset makes his job much easier.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller discusses the importance of daily consistency within the team environment.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jeff Peterson",
+      "timestamp": "09:27",
+      "summary_phrase": "Jeff Peterson on identifying Brandon Miller's potential early",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "players do not come along very often of his caliber",
+      "quote": "Watching him play in college, players do not come along very often of his caliber in terms of just again the talent and the work ethic and drive. So of course I was not with the Hornets at the time when he got drafted, but you knew at that point that he was going to be a special player in this league one day.",
+      "text_blocks": [],
+      "start_seconds": 567,
+      "end_seconds": 592,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jeff Peterson on Brandon Miller: Watching him play in college, you knew at that point that he was going to be a special player in this league one day.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jeff Peterson reflects on recognizing Brandon Miller's potential as a special player during his college career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Brandon Miller",
+      "timestamp": "10:08",
+      "summary_phrase": "Brandon Miller on the team's goal of becoming a playoff contender",
+      "names_mentioned": [],
+      "excerpt": "our goal is of course playoffs",
+      "quote": "Our goal is of course playoffs. We want to be known as a playoff team. Of course we want to win as many games as we can. We know what our identity is and then we know what it takes to get there. I think adding pieces, the new pieces that we have, players that have been around where we want to go, I think that is going to also give us an advantage in the long run.",
+      "text_blocks": [],
+      "start_seconds": 608,
+      "end_seconds": 638,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Brandon Miller is setting the bar high for the Hornets: Our goal is of course playoffs. We want to be known as a playoff team.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller outlines the team's objective to become a consistent playoff contender this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Brandon Miller",
+      "timestamp": "11:19",
+      "summary_phrase": "Brandon Miller on the importance of family support",
+      "names_mentioned": [],
+      "excerpt": "the first people that I called was of course my family",
+      "quote": "The first people that I called was of course my family, just to let them know the situation that was going on. Obviously they are going to be happy long as I am happy. So I think that is the beauty about having a family like the Millers of course. Whatever the case may be, as long as I am happy then the world is fine with them.",
+      "text_blocks": [],
+      "start_seconds": 679,
+      "end_seconds": 705,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller says his family is happy as long as he is happy, highlighting the importance of the support system he has in place.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller describes sharing the news of his contract extension with his family.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Brandon Miller",
+      "timestamp": "12:50",
+      "summary_phrase": "Brandon Miller on his leadership role and daily consistency",
+      "names_mentioned": [],
+      "excerpt": "it all started from my rookie year which is just getting on the people about getting back on defense",
+      "quote": "It all started from my rookie year which is just getting on the people about getting back on defense. Small things like that. I think players want to hear that. I think everybody in this room likes to learn and get better at what they do on the daily. So just hearing that coming from a young guy, you do not have no choice but to respect it.",
+      "text_blocks": [],
+      "start_seconds": 770,
+      "end_seconds": 796,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller on his leadership style: Just hearing that coming from a young guy, you do not have no choice but to respect it.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller discusses his development as a vocal leader who holds teammates accountable on defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Brandon Miller",
+      "timestamp": "13:38",
+      "summary_phrase": "Brandon Miller on his teammates' support and team culture",
+      "names_mentioned": [],
+      "excerpt": "I feel like it was my birthday on the plane again",
+      "quote": "I feel like it was my birthday on the plane again. You do not really see teams do things like that for each other, having cupcakes, balloons, cakes, whatever the case may be. I think just acknowledging each other's achievements, I think that is something that we do on the daily. After last night game we came in this morning and acknowledge everything that we did great, but we also going to watch everything that we do bad and we are going to learn off of that.",
+      "text_blocks": [],
+      "start_seconds": 818,
+      "end_seconds": 851,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller praises the Hornets team culture, noting that the team celebrates each other's achievements and holds each other accountable after every game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Miller highlights the team's culture of celebrating individual and collective achievements.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Brandon Miller",
+      "timestamp": "14:26",
+      "summary_phrase": "Brandon Miller on his evolving relationship with Charles Lee",
+      "names_mentioned": [
+        "Charles Lee"
+      ],
+      "excerpt": "whole lot stronger than what it was before we got here",
+      "quote": "Whole lot stronger than what it was before we got here. I think when Charles first got here, we were just new pups trying to figure it out. I think we kind of built a relationship where we can talk to each other like we are friends, like we are going back and forth off the court. And all our conversations are not just about basketball, it is about how is the family doing, inviting me over for dinner, stuff like that.",
+      "text_blocks": [],
+      "start_seconds": 866,
+      "end_seconds": 898,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller describes his evolving relationship with coach Charles Lee: We can talk to each other like we are friends. All our conversations are not just about basketball.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Charles Lee"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller describes the evolution of his personal relationship with head coach Charles Lee.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Jeff Peterson",
+      "timestamp": "15:39",
+      "summary_phrase": "Jeff Peterson on Brandon Miller's growth and character",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "my personal philosophy, I always want to try to leave something in a better place than I found it",
+      "quote": "My personal philosophy, I always want to try to leave something in a better place than I found it. With Brandon specifically, again just watching his growth and maturation, not only on the court but again off the court as well since the time I have been here has been very impressive. It is no secret he has been through some adversity throughout his life, but because of his tremendous support system and the work that he has done on himself as well has been very encouraging.",
+      "text_blocks": [],
+      "start_seconds": 939,
+      "end_seconds": 972,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jeff Peterson says watching Brandon Miller's growth and maturation on and off the court has been very impressive.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jeff Peterson discusses his philosophy on leadership and his observations of Brandon Miller's personal growth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Charles Lee",
+      "timestamp": "16:19",
+      "summary_phrase": "Charles Lee on Brandon Miller's development as a cornerstone player",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "it is like at the backbone of our organization, backbone of our culture",
+      "quote": "Player development on the court and actually like we take a holistic view. It is like at the backbone of our organization, backbone of our culture. So it is important for us to see like what are the areas that we can find that Brandon is really strong in and continue to emphasize those while also finding growth opportunities. To watch a guy go from a pretty gifted dynamic versatile scorer to now being like a consistent elite two-way player is pretty special.",
+      "text_blocks": [],
+      "start_seconds": 979,
+      "end_seconds": 1011,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Charles Lee on Brandon Miller's development: To watch a guy go from a gifted dynamic scorer to now being a consistent elite two-way player is pretty special.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee explains the organization's holistic approach to developing Brandon Miller into an elite two-way player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Brandon Miller",
+      "timestamp": "19:11",
+      "summary_phrase": "Brandon Miller on the importance of fan energy",
+      "names_mentioned": [],
+      "excerpt": "I feel like we need the same energy, but we understand it is the first game",
+      "quote": "I feel like we need the same energy, but we understand it is the first game. But at the same time we are going to need the same energy every game. Just having fans there, cheering us on, louder than my rookie year where we were not so good, I think it shows a lot of growth from the Charlotte fan base. So I encourage them to keep showing up for us as we play for them.",
+      "text_blocks": [],
+      "start_seconds": 1151,
+      "end_seconds": 1181,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller calls on Hornets fans to keep the energy high: We are going to need the same energy every game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller encourages Charlotte fans to maintain high energy and support throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Charles Lee",
+      "timestamp": "18:01",
+      "summary_phrase": "Charles Lee on Brandon Miller's unique personality and competitive nature",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "his personality, like to watch the joy that he brings to everyone",
+      "quote": "His personality, like to watch the joy that he brings to everyone, the silliness that he has while also being able to flip the switch when it is game time and get down and get dirty and get competitive is what is pretty special. The fact that he has a growth mindset, there is never a moment like he has got this great humility about him where he can admit I was wrong, I did this wrong, I can get better here.",
+      "text_blocks": [],
+      "start_seconds": 1081,
+      "end_seconds": 1113,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee on Brandon Miller: The fact that he has a growth mindset, there is never a moment where he has got this great humility about him where he can admit I was wrong.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee describes Brandon Miller's unique personality and his ability to balance joy with competitiveness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "VjVdXL7m4og",
+  "url": "https://www.youtube.com/watch?v=VjVdXL7m4og",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-22T19:56:52Z",
+  "duration_seconds": 1235,
+  "processed_at": "2026-10-22T23:22:31Z",
+  "run_id": "2026-10-22T2322Z-20utc",
+  "is_one_off": false
+}

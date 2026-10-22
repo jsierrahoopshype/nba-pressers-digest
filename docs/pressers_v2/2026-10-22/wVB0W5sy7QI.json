@@ -1,0 +1,191 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Practice | October 22, 2026",
+  "speakers_seen": [
+    "Scottie Barnes",
+    "Darko Rajaković"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scottie Barnes",
+      "timestamp": "00:11",
+      "summary_phrase": "Scottie Barnes on how defensive principles help new teammates fit in",
+      "names_mentioned": [],
+      "excerpt": "I think all of our defensive principles, I think he fits in right well.",
+      "quote": "I think all of our defensive principles, I think he fits in right well. He's great at getting steals, attacking the ball, and him rebounding is a monster. I think that helps him fit in pretty easy with us.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes likes how the new additions are fitting into the Raptors defensive scheme, noting that their ability to get steals and rebound makes them a natural fit for the team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes discusses how the defensive principles of the team help new players integrate into the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scottie Barnes",
+      "timestamp": "05:57",
+      "summary_phrase": "Scottie Barnes on his progress toward leading the league in steals",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "I think I did a good job starting off with three. Right now I'm not leading, Kawhi got four.",
+      "quote": "I think I did a good job starting off with three. Right now I'm not leading, Kawhi got four. I definitely think being competitive with my teammates, because we all play defense and everybody is getting steals, is definitely going to help me reach that goal, but I'm happy with the first game.",
+      "text_blocks": [],
+      "start_seconds": 357,
+      "end_seconds": 377,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes is chasing the league lead in steals this season. He says he is happy with his start but is already keeping an eye on the competition.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes reflects on his performance in the season opener and his goal of leading the league in steals.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "06:31",
+      "summary_phrase": "Scottie Barnes on the team's defensive trust and rotation",
+      "names_mentioned": [],
+      "excerpt": "Whoever is on the ball, you want to be comfortable enough to know that everybody else behind you got your back.",
+      "quote": "Whoever is on the ball, you want to be comfortable enough to know that everybody else behind you got your back. We play really aggressive and it's okay to get beat. You're going to get beat sometimes, but knowing that you got four people behind you that's going to rotate and help you is definitely going to give you more confidence on the ball.",
+      "text_blocks": [],
+      "start_seconds": 391,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes on the Raptors defensive philosophy: We play really aggressive and it is okay to get beat because you know you have four people behind you that are going to rotate and help.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains the importance of defensive trust and rotation among teammates during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajaković",
+      "timestamp": "10:03",
+      "summary_phrase": "Darko Rajaković on areas for improvement after the season opener",
+      "names_mentioned": [],
+      "excerpt": "The film showed us some of the parts of our game that we need to improve.",
+      "quote": "The film showed us some of the parts of our game that we need to improve and get better at, from transition defense, from rebounding, from our focus and energy levels that we need to sustain over the course of the game, offensive spacing, some decision making, paint touches. There is a lot for us to learn.",
+      "text_blocks": [],
+      "start_seconds": 603,
+      "end_seconds": 625,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic says the Raptors have plenty to work on after their season opener, specifically highlighting transition defense, rebounding, and sustained energy levels as key areas for improvement.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajaković identifies specific areas for improvement following the team's season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajaković",
+      "timestamp": "11:16",
+      "summary_phrase": "Darko Rajaković on the balance between thinking and reacting in games",
+      "names_mentioned": [],
+      "excerpt": "Game happens at such speed that you don't have time to think. You're not supposed to think.",
+      "quote": "Game happens at such speed that you don't have time to think. You're not supposed to think in a game. You want to react in a game and you want your instincts and muscle memory to take over. So I always tell players, when the moment the referee throws that ball, forget about everything I told you. Muscle memory is going to take over and your instincts are going to take over.",
+      "text_blocks": [],
+      "start_seconds": 676,
+      "end_seconds": 704,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic wants his players to stop thinking on the court. He tells them that once the game starts, you are not supposed to think, you want to react and let your instincts and muscle memory take over.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajaković explains his philosophy on why players should rely on instincts and muscle memory rather than overthinking during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajaković",
+      "timestamp": "14:09",
+      "summary_phrase": "Darko Rajaković on the importance of defensive aggressiveness and support",
+      "names_mentioned": [],
+      "excerpt": "For our team, aggressiveness is very important. We got to understand there are four players behind in defense.",
+      "quote": "For our team, aggressiveness is very important. And as we learning how to be aggressive and not to get beat, we got to understand there are four players behind in defense that are your support that gives you extra confidence to be aggressive. I really believe that it's really hard to play against defenses like that.",
+      "text_blocks": [],
+      "start_seconds": 849,
+      "end_seconds": 871,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic emphasizes the importance of defensive aggressiveness, noting that knowing you have four teammates behind you for support gives players the confidence to play with high intensity.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajaković emphasizes the importance of defensive aggressiveness and team support.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "wVB0W5sy7QI",
+  "url": "https://www.youtube.com/watch?v=wVB0W5sy7QI",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-22T21:56:49Z",
+  "duration_seconds": 1090,
+  "processed_at": "2026-10-22T23:22:29Z",
+  "run_id": "2026-10-22T2322Z-20utc",
+  "is_one_off": false
+}
