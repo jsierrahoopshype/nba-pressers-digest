@@ -61,8 +61,8 @@ HEAD480_DIR = ("players", "headshots", "head-uniform-480")
 ROLE_WORD = {"player": "player", "coach": "coach", "exec": "executive"}
 TOPIC_LABEL = {t: t[0].upper() + t[1:] for t in sq.TOPICS}
 FOOTER = ('<footer data-hm-footer class="foot"><p>Anything wrong? Email us at '
-          '<a href="mailto:hoopshype@hoopshype.com">hoopshype@hoopshype.com</a></p>'
-          '<p>For business inquiries, contact us at <a href="mailto:ads@hoopshype.com">ads@hoopshype.com</a></p></footer>')
+          '<a href="mailto:hoopsmatic@hoopsmatic.com">hoopsmatic@hoopsmatic.com</a></p>'
+          '<p>For business inquiries, contact us at <a href="mailto:ads@hoopsmatic.com">ads@hoopsmatic.com</a></p></footer>')
 TEAM_COLORS = {
     "ATL": "#E03A3E", "BOS": "#007A33", "BKN": "#000000", "CHA": "#1D1160", "CHI": "#CE1141", "CLE": "#860038",
     "DAL": "#00538C", "DEN": "#0E2240", "DET": "#C8102E", "GSW": "#1D428A", "HOU": "#CE1141", "IND": "#002D62",
