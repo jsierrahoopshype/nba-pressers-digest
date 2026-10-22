@@ -1,0 +1,160 @@
+{
+  "video_title": "Anthony Davis on his DEBUT with the Washington Wizards | 10.21.26 Media Availability",
+  "speakers_seen": [
+    "Anthony Davis"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Anthony Davis",
+      "timestamp": "01:34",
+      "summary_phrase": "Anthony Davis on the team's chemistry and communication",
+      "names_mentioned": [
+        "Anthony Davis",
+        "AJ"
+      ],
+      "excerpt": "having that dialogue through the course of the game is really good for us.",
+      "quote": "It was fun. But that's a good sign of a good team that no matter who the star players are, if you're number one on the team, you're number 15, we're able to go to each other and have those type of moments and that realness of, 'Hey, you're not doing this, you're not doing that,' and it kind of sparks us. Even before the third quarter, I think we came out and was a little flat, a lot of missed shots and called timeout and Bub came to me tonight and was like, 'You have one more gear, can I see it?' And then it just kind of happens. So, having that dialogue through the course of the game is really good for us.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anthony Davis says the Wizards have a great culture of accountability, noting that rookie Bub Carrington challenged him during the game by asking, You have one more gear, can I see it?",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bub Carrington"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Davis discusses the team chemistry and communication during his debut with the Washington Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Anthony Davis",
+      "timestamp": "03:57",
+      "summary_phrase": "Anthony Davis on the Wizards' committee approach to ball-handling",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Trey",
+        "Bub",
+        "Keeshawn",
+        "Alex"
+      ],
+      "excerpt": "as long as we can get it up the floor and get into our offense, doesn't matter.",
+      "quote": "It doesn't matter. As long as we can get it up the floor and get into our offense, doesn't matter who we bring it up. It's obviously a luxury to have six, maybe seven guys on our team that can handle the ball and bring it up the floor. We know they're going to try to pressure Trey, and there's Alex, myself, Keeshawn, where he can get off the ball and kick it to us and we can kind of bring it up. It's a luxury to have that, but as long as we can get the ball up in a respectable amount of time and get into our offense, it doesn't matter who brings it up.",
+      "text_blocks": [],
+      "start_seconds": 237,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Davis highlights the Wizards depth, calling it a luxury to have six or seven players who can handle the ball and bring it up the floor to initiate the offense.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Murphy III",
+          "Alex Sarr",
+          "Kyshawn George"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis explains the Wizards' approach to having multiple ball-handlers on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Anthony Davis",
+      "timestamp": "04:51",
+      "summary_phrase": "Anthony Davis on playing with a chip on his shoulder",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Ted Leonsis"
+      ],
+      "excerpt": "I'm just happy to be here, happy to be playing basketball again.",
+      "quote": "I'm just happy to be here, happy to be playing basketball again. The outside noise, whatever they're saying, doesn't matter to me. My job is to play basketball and that's what I'm trying to do.",
+      "text_blocks": [],
+      "start_seconds": 291,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anthony Davis says he is ignoring the outside noise regarding his move to Washington, stating his only focus is to play basketball.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis reflects on his mindset and ignoring outside criticism during his debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Anthony Davis",
+      "timestamp": "07:42",
+      "summary_phrase": "Anthony Davis on the impact of playing alongside Trey",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Trey",
+        "DA",
+        "Alex",
+        "Keeshawn"
+      ],
+      "excerpt": "he draws the crowd. Every play, two on the ball with him, and he was making the right passes.",
+      "quote": "He draws the crowd. Every play, two on the ball with him, and he was making the right passes. I think DA benefited a lot from it, myself, Alex, with some lobs, Keeshawn. So, anytime you put two on the ball with a guy who can pass like that and has a very high IQ in Trey, he's going to pick them apart. It's our job to get in the right places to get him outlets and then we just play from there.",
+      "text_blocks": [],
+      "start_seconds": 462,
+      "end_seconds": 494,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anthony Davis praises Trey for his high basketball IQ, noting that his ability to draw double teams and make the right passes is creating easy opportunities for the rest of the team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Murphy III",
+          "Deandre Ayton",
+          "Alex Sarr",
+          "Kyshawn George"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Davis describes the impact of playing alongside Trey Murphy III and his playmaking ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "cdaiCWn4YZk",
+  "url": "https://www.youtube.com/watch?v=cdaiCWn4YZk",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-22T16:04:37Z",
+  "duration_seconds": 497,
+  "processed_at": "2026-10-22T18:31:22Z",
+  "run_id": "2026-10-22T1830Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,629 @@
+{
+  "video_title": "LIVE: Pelicans vs. Pacers Postgame Interviews 10/21/2026",
+  "speakers_seen": [
+    "Jamahl Mosley",
+    "Zion Williamson",
+    "Dejounte Murray"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:52",
+      "summary_phrase": "Jamahl Mosley on the team's defensive lapses and transition defense",
+      "names_mentioned": [
+        "Siakam",
+        "Haliburton"
+      ],
+      "excerpt": "You give a team like this 27 fast break points, and it's what we talked about.",
+      "quote": "It wasn't. That was the fourth, that was the start of it, that's what was most glaring, but there were other pieces throughout the game. Taking care of the basketball, you give a team like this 27 fast break points, and it's what we talked about, we can't have that happen. So, us being able to take care of the basketball, the pick and roll coverage with Siakam and Haliburton down the stretch, our line of communication, we've got to continue to get better there. But again, that's an elite two-man combo, we've got to be better on how we handle it and the line of communication.",
+      "text_blocks": [],
+      "start_seconds": 412,
+      "end_seconds": 453,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on the defensive lapses against the Pacers: You give a team like this 27 fast break points and it is what we talked about, we cannot have that happen.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's defensive struggles and transition defense against the Pacers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:24",
+      "summary_phrase": "Jamahl Mosley praises Eve's defensive performance and versatility",
+      "names_mentioned": [
+        "Eve"
+      ],
+      "excerpt": "I thought Eve was incredible. Everything that we're talking about him being and doing was exactly that.",
+      "quote": "I thought Eve was incredible. I thought he was absolutely incredible. Everything that we're talking about him being and doing was exactly what he showed tonight. Being able to protect the rim, being able to get out in transition, in the pick and roll, covering for others, covering for guys as the low man. He did a lot of very good things for us tonight. His energy and his effort is exactly what we're going to continue to need from him on a nightly basis.",
+      "text_blocks": [],
+      "start_seconds": 444,
+      "end_seconds": 477,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Eve: I thought he was absolutely incredible. Everything that we are talking about him being and doing was exactly what he showed tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the defensive performance and versatility of Eve following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:54",
+      "summary_phrase": "Jamahl Mosley on the defensive challenges of starting Fears and Murray",
+      "names_mentioned": [
+        "Fears",
+        "Murray"
+      ],
+      "excerpt": "Those two guys are guys that can pick up full court, change the dynamic of the game.",
+      "quote": "I think you have the head of the snake. Those two guys are guys that can pick up full court, change the dynamic of the game. They started out hot, it became the fouls that turned up a lot of it, and that's what happened in the fourth quarter as well. We have to understand the level of aggression we can play with, but then also when they get in that bonus, how we can be smart in our positioning and the details of where we are there.",
+      "text_blocks": [],
+      "start_seconds": 474,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on the starting backcourt: You have the head of the snake. Those two guys are guys that can pick up full court, change the dynamic of the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Fears",
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the defensive challenges and aggression levels when starting Fears and Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "08:18",
+      "summary_phrase": "Jamahl Mosley on the importance of turnover battle and free throws",
+      "names_mentioned": [],
+      "excerpt": "It's those small things and then the free throws down the stretch.",
+      "quote": "They had nine offensive rebounds for 17 second chance points. We had 27 second chance opportunities. So, I think you get there, but then that's where it goes from the turnover battle. We turned over 15 times for 16 points, they turned over 12 for 16 points. So, it's those small things and then the free throws down the stretch. It was more that they ended up in the bonus faster than we needed them to be. So, I think we can be better there.",
+      "text_blocks": [],
+      "start_seconds": 498,
+      "end_seconds": 531,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the loss: It was more that they ended up in the bonus faster than we needed them to be. So, I think we can be better there.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley analyzes the impact of turnovers and free throws on the game's outcome.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:00",
+      "summary_phrase": "Jamahl Mosley credits Herb Jones for his defensive impact",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb came in the game and changed the game with his defensive effort, his defensive energy.",
+      "quote": "Herb came in the game and changed the game with his defensive effort, his defensive energy, his toughness, his physicality. I think those are big keys, and taking note of that is a very big key for us.",
+      "text_blocks": [],
+      "start_seconds": 540,
+      "end_seconds": 555,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Herb Jones: Herb came in the game and changed the game with his defensive effort, his defensive energy, his toughness, his physicality.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley credits Herb Jones for his defensive impact and energy during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:25",
+      "summary_phrase": "Jamahl Mosley on Zion and Trey's need for better spacing",
+      "names_mentioned": [
+        "Zion",
+        "Trey",
+        "Zubac"
+      ],
+      "excerpt": "There are opportunities for us to spray when we get down in the paint.",
+      "quote": "That's the beauty of film. You go back, you watch it, you clean up some things that you can do. There are opportunities for us to spray when we get down in the paint when there's three in there. Zubac did a great job of being vertical at the rim, they did a very good job down there. So, finding the open man, creating the right space necessary when so we have an outlet for them when they get into the paint. So, I think we'll just have to go back and look at the film and see exactly what it looks like for our spacing for the decision making.",
+      "text_blocks": [],
+      "start_seconds": 565,
+      "end_seconds": 607,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on spacing: There are opportunities for us to spray when we get down in the paint when there is three in there. We will have to go back and look at the film.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Trey Murphy III",
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the need for better spacing and decision-making for Zion Williamson and Trey Murphy III.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "10:11",
+      "summary_phrase": "Jamahl Mosley on the team's defensive communication and accountability",
+      "names_mentioned": [],
+      "excerpt": "The guys are buying into how hard they need to play, how they have to communicate.",
+      "quote": "For the most part, I think we did a pretty good job. And then there was the small breakdowns, but in games like this, you see a three-point game, those are the small things that you have to make sure you have tightened up. And so as we go back and look at the film tomorrow, being able to see how we can clean some of those things up. But the guys are buying into how hard they need to play, how they have to communicate with one another, and this is game one, but being able to understand as we move forward, how we can continue to improve and be better and continue to hold each other accountable in that regard.",
+      "text_blocks": [],
+      "start_seconds": 611,
+      "end_seconds": 658,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on team accountability: The guys are buying into how hard they need to play, how they have to communicate with one another.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on the team's defensive communication and accountability after their first game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "10:49",
+      "summary_phrase": "Jamahl Mosley on Zion's confidence and shot selection",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "I thought his confidence level in his shot, but his confidence level in getting to the rim.",
+      "quote": "I thought he was great. I thought he was really good tonight. I thought his confidence level in his shot, but his confidence level in getting to the rim, trying to attack the basket downhill, which is one thing we know he's capable of doing. And then early on, being able to sit down and guard, being able to sit and make sure guys didn't get into the paint early. Again, what cost us in this game was the turnovers, the late transition baskets, and then our lines of communication down the stretch, which we will clean up moving forward.",
+      "text_blocks": [],
+      "start_seconds": 649,
+      "end_seconds": 687,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Zion Williamson: I thought his confidence level in his shot, but his confidence level in getting to the rim, trying to attack the basket downhill, was great.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates Zion Williamson's confidence, shot selection, and defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "12:09",
+      "summary_phrase": "Jamahl Mosley on Murray's leadership and toughness",
+      "names_mentioned": [
+        "Murray"
+      ],
+      "excerpt": "He's a true leader. He's a born leader.",
+      "quote": "He's a true leader. He's a born leader. And I think that says a lot about him and who he is and what he wants to protect our guys. And I think for us, it has to be that night in and night out. We talk about representing this city, and there's a toughness and a grit to this city, and that's who we have to be every time we step on this floor, regardless of the circumstances, regardless who is the opponent. We have to do what we do with a level of toughness, physicality, grit, and resilience night in and night out.",
+      "text_blocks": [],
+      "start_seconds": 729,
+      "end_seconds": 769,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on Dejounte Murray: He is a true leader. He is a born leader. We have to do what we do with a level of toughness, physicality, grit, and resilience night in and night out.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the leadership and toughness displayed by Dejounte Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "12:42",
+      "summary_phrase": "Jamahl Mosley on Herb Jones' role and professionalism",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb is the ultimate pro.",
+      "quote": "Herb is the ultimate pro. And those conversations that we have, understanding that the minutes and how he plays is he's asking what he needs to do night in and night out. He's going to be a doggish defender night in and night out, stepping into a shot, knocking it down when need be. But he, he's the ultimate pro and he's actually a coach's dream to be to be able to communicate at a high level with him for what he sees, how he understands the game, and what he knows is going on within the game.",
+      "text_blocks": [],
+      "start_seconds": 762,
+      "end_seconds": 800,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Herb Jones: Herb is the ultimate pro. He is actually a coach's dream to be able to communicate at a high level with him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley describes Herb Jones as the ultimate professional and a coach's dream.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "13:30",
+      "summary_phrase": "Jamahl Mosley on the team's committee-based approach",
+      "names_mentioned": [
+        "Z"
+      ],
+      "excerpt": "We've always talked about it being done by committee.",
+      "quote": "That's a great question. That is a really good question. And with us, we've always talked about it being done by committee. And some nights it's going to be one, some nights it's going to be another, because the matchups will change. And how we get them into those situations will determine exactly how we're being matched up against. You know, Z had a big on him and then we try to put Haliburton in the pick and roll with the switch. They did a great job of getting back over it, but it is not just the responsibility of the one four or two four, whoever it is. Whoever has that ball in their hands, you are now the playmaker to make everyone else around you better, whether you get the shot or you distribute it to somebody on the perimeter to now make the next play. But that's the beauty of this group, because we have a lot of guys that can do that.",
+      "text_blocks": [],
+      "start_seconds": 810,
+      "end_seconds": 874,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the team's offensive approach: We have always talked about it being done by committee. Whoever has that ball in their hands, you are now the playmaker.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "NOP",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the team's committee-based approach to playmaking and defensive matchups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "14:17",
+      "summary_phrase": "Jamahl Mosley on the team's need to play the right way",
+      "names_mentioned": [
+        "Z"
+      ],
+      "excerpt": "It's about playing the right way with each other.",
+      "quote": "I think there's an opportunity for each guy to establish how they can help us get the result that we're looking for within games if we're playing the right way. Because I think even if it's Z getting the ball at the end of the game, his job and responsibility to this team is if he gets down hill and then somebody's there, he's spraying it out so now we have a knockdown three. So whatever it looks like, it's about playing the right way with each other, because everybody can have an opportunity in that.",
+      "text_blocks": [],
+      "start_seconds": 857,
+      "end_seconds": 894,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on team play: It is about playing the right way with each other, because everybody can have an opportunity in that.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the importance of playing the right way and making the extra pass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "14:49",
+      "summary_phrase": "Jamahl Mosley on D.Q.'s performance and growth",
+      "names_mentioned": [
+        "D.Q.",
+        "Zubac"
+      ],
+      "excerpt": "I love how he responded. And I think he did a very good job of just connecting the dots.",
+      "quote": "I love how he responded. And I think he did a very good job of just connecting the dots. 10 rebounds, I thought he was big there. 10 points, 10 rebounds, did a good job on Zubac in moments. And I think he's just as he continues to grow and he's continues to get better, he's going to be a piece that just can connect us as a group.",
+      "text_blocks": [],
+      "start_seconds": 889,
+      "end_seconds": 916,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on D.Q.: I love how he responded. I think he did a very good job of just connecting the dots.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "D.Q.",
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the growth and performance of D.Q. in his matchup against Zubac.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Zion Williamson",
+      "timestamp": "19:08",
+      "summary_phrase": "Zion Williamson on the team's missed execution and turnovers",
+      "names_mentioned": [],
+      "excerpt": "Just down the line, we didn't execute. The turnovers throughout the game caught up to us.",
+      "quote": "You know, we gave ourselves a chance. We gave ourselves a chance to win. We just down the line, we didn't execute. The turnovers throughout the game caught up to us. Their transition points as well, I want to say they had 27. Like 25, 27 transition points. Um, and then late in the game, uh, we just got to execute. Like, I got to get the shots we want, just like they got the shots they want. We just got to get the shots we want, at least get the shot off, and we just can't turn it over.",
+      "text_blocks": [],
+      "start_seconds": 1148,
+      "end_seconds": 1186,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Zion Williamson on the loss: We gave ourselves a chance to win. We just down the line, we didn't execute. The turnovers throughout the game caught up to us.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson discusses the team's missed execution and turnovers in the final moments of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Zion Williamson",
+      "timestamp": "19:46",
+      "summary_phrase": "Zion Williamson on his confidence and team trust",
+      "names_mentioned": [
+        "Sham",
+        "RG",
+        "Coach Mos"
+      ],
+      "excerpt": "I spoke on Sham and RG earlier. You know, those guys, even Coach Mos, you know, they trust me.",
+      "quote": "I told you it was going to fall. Uh, no, it's a, it was a, it was a good feeling though. Uh, like I, I spoke on Sham and RG earlier. You know, those guys, uh, even Coach Mos, you know, they trust me. They, uh, we've been putting in a lot of work. They trust me to shoot it and even on like, I think one of the first ones I passed up, they was like, don't do that again. Like shoot it. And, you know, it means a lot, uh, especially, you know, seeing your work pay off. Uh, individually that's cool, but I really wanted to start off with a dub.",
+      "text_blocks": [],
+      "start_seconds": 1186,
+      "end_seconds": 1230,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Zion Williamson on his shot: I told you it was going to fall. It was a good feeling though. They trust me to shoot it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamahl Mosley"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson talks about his confidence in shooting and the trust he receives from his coaches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Zion Williamson",
+      "timestamp": "20:33",
+      "summary_phrase": "Zion Williamson on the team's need to overcome late-game hurdles",
+      "names_mentioned": [],
+      "excerpt": "It's hard to win in this league, so if we want to win, that's a hurdle we just gotta get over.",
+      "quote": "I feel like we are right there. Like we're going to make that turn, but it's tough saying and when, respectfully, I felt like we've dealt with that the past two, three years. And I've said it before, I'll say it again, it's hard to win in this league, so if we want to win, that's a hurdle we just gotta get over.",
+      "text_blocks": [],
+      "start_seconds": 1233,
+      "end_seconds": 1257,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Zion Williamson on closing games: I feel like we are right there. It is hard to win in this league, so if we want to win, that is a hurdle we just gotta get over.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson addresses the team's ongoing struggle to overcome late-game hurdles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Zion Williamson",
+      "timestamp": "21:14",
+      "summary_phrase": "Zion Williamson on his relationship with Jeremiah and team energy",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "As long as I'm out there with you, you good, man. Do whatever, get in people's head.",
+      "quote": "Yeah, he going to hold, he going to stand his ground. And, uh, I told him, I said, as long as I'm out there with you, you good, man. Do whatever, get in people's head, talk shit, whatever it is, I'm going to be right there with you. Like, I'm going to protect you. So, you know, that's just the energy he brings to the game and not just to the game, that's just who he is as a person. Like, he's a competitor, uh, who just wants to win. So, you know, I said it before, I'll say it again, I'm glad he's with us.",
+      "text_blocks": [],
+      "start_seconds": 1274,
+      "end_seconds": 1315,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson on his teammate: I told him, I said, as long as I'm out there with you, you good, man. I'm going to protect you.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson discusses his supportive relationship with teammate Jeremiah and the energy he brings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Zion Williamson",
+      "timestamp": "22:56",
+      "summary_phrase": "Zion Williamson on the team's 'who's night is it' mentality",
+      "names_mentioned": [],
+      "excerpt": "I think the mindset we have is more of a, you know, kind of who's night is it?",
+      "quote": "Based off the conversations we've had as a team, um, I think the mindset we have is more of a, you know, kind of who's night is it? Because we got a lot of guys who can go get it. Um, and we just kind are going to go off that until we find something that works. I think when we find something that works, we'll stick with it.",
+      "text_blocks": [],
+      "start_seconds": 1376,
+      "end_seconds": 1403,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson on the team mindset: I think the mindset we have is more of a kind of who is night is it? Because we got a lot of guys who can go get it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson explains the team's mindset of identifying who has the hot hand during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Dejounte Murray",
+      "timestamp": "33:18",
+      "summary_phrase": "Dejounte Murray on the team's defensive identity and growth",
+      "names_mentioned": [],
+      "excerpt": "We started off a little slow, uh, then obviously, you know, we picked it up.",
+      "quote": "I think we started off a little slow, uh, then obviously, you know, we picked it up. Uh, but you know, that's that's the identity we're going to continue to preach. Uh, you know, you got to guard at a high level and then, uh, just take care of the little things.",
+      "text_blocks": [],
+      "start_seconds": 1998,
+      "end_seconds": 2018,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dejounte Murray on defensive identity: You got to guard at a high level and then just take care of the little things.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray discusses the team's defensive identity and the need for consistency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Dejounte Murray",
+      "timestamp": "34:45",
+      "summary_phrase": "Dejounte Murray on the team's chemistry and coaching staff",
+      "names_mentioned": [
+        "Mos"
+      ],
+      "excerpt": "We got a lot of great options to go to that we work on, you know, every day.",
+      "quote": "In camp, uh, really starting in open gym when we all got here, guys got here early. Uh, but you know, translating to camp to preseason, you know, obviously, you know, I was only able to play one game. Uh, but just seeing the guys go out there and really buy in to the game plan and and just, you know, playing hard and executing and just trying to do what we're trying to do here. Uh, it was impressive. You know, and I think that top four that we had in preseason will translate to, you know, the regular season. Because you do got a great coaching staff and a bunch of guys that is just willing to learn and understand what we're trying to do. So, you just got to can't get bored of, you know, doing the right things over and over.",
+      "text_blocks": [],
+      "start_seconds": 2085,
+      "end_seconds": 2141,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dejounte Murray on the team: You just got to can't get bored of doing the right things over and over.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray reflects on the team's chemistry and the coaching staff's influence during training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "F-UNDeIGqEE",
+  "url": "https://www.youtube.com/watch?v=F-UNDeIGqEE",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-22T17:24:21Z",
+  "duration_seconds": 2540,
+  "processed_at": "2026-10-22T18:31:09Z",
+  "run_id": "2026-10-22T1830Z-14utc",
+  "is_one_off": false
+}

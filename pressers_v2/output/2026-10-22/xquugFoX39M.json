@@ -1,0 +1,187 @@
+{
+  "video_title": "Shootaround Media Availability with Isaiah Hartenstein | October 22, 2025 | OKC Thunder",
+  "speakers_seen": [
+    "Isaiah Hartenstein"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "00:20",
+      "summary_phrase": "Isaiah Hartenstein on the defensive versatility of the Thunder roster",
+      "names_mentioned": [
+        "Chet Holmgren",
+        "Jalen Williams"
+      ],
+      "excerpt": "We have a lot of great defenders on our team. We have a lot of different looks.",
+      "quote": "I think it is just our preparation. We have a lot of great defenders on our team. We have a lot of different looks that we can give you. Throughout the game, with Chet, me, Jalen Williams, putting different guys on them, I think we just have multiple defenders.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein credits the Thunder defensive versatility to their preparation and depth, noting they have multiple defenders to throw at opponents throughout the game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Isaiah Hartenstein discusses the defensive versatility and preparation of the Thunder roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "01:11",
+      "summary_phrase": "Isaiah Hartenstein on the importance of defensive discipline against Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "He is so smart, he will punish you if you are not disciplined in those aspects.",
+      "quote": "It is just being disciplined. A guy like that who is so smart, he will punish you if you are not disciplined in those aspects. We played him a lot of times, we have a lot of respect for him, and so we just want to go in there and do what we need to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Isaiah Hartenstein on facing Nikola Jokic: It is just being disciplined. A guy like that who is so smart, he will punish you if you are not disciplined in those aspects.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "OKC",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein explains the defensive discipline required to play against Nikola Jokic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "01:36",
+      "summary_phrase": "Isaiah Hartenstein on the evolution of NBA frontcourt skill sets",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "It is not just finding a guy that can shoot. You have to be able to create.",
+      "quote": "It is getting more skilled. Now it is getting back to where it is not just finding a guy that can shoot. You have to be able to play inside, you have to be able to create action. We are getting back to playing more double bigs. You have to be big, but you have to be skilled.",
+      "verbatim_original_language": "",
+      "start_seconds": 96,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein says the NBA is shifting back to double big lineups, but emphasizes that you have to be big and skilled to create action.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein shares his perspective on the evolution of skill sets for NBA frontcourt players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "02:00",
+      "summary_phrase": "Isaiah Hartenstein on the reality of Golden State's small-ball era",
+      "names_mentioned": [
+        "Kevin Durant",
+        "Draymond Green",
+        "Andre Iguodala"
+      ],
+      "excerpt": "We were trying to copy the small ball from Golden State where it really wasn't small ball.",
+      "quote": "We were trying to copy the small ball from Golden State where it really wasn't small ball. You had Kevin Durant that was 6'11, you had Draymond Green that was 6'9, Andre Iguodala. Now we are just getting back to you have to be big, but you have to be skilled.",
+      "verbatim_original_language": "",
+      "start_seconds": 120,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein reflects on the small ball era, noting that teams were trying to copy Golden State, but those teams actually had size with guys like Kevin Durant and Draymond Green.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Durant",
+          "Draymond Green",
+          "Andre Iguodala"
+        ],
+        "teams": [
+          "OKC",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein comments on the historical influence of the Golden State Warriors small-ball era.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "04:29",
+      "summary_phrase": "Isaiah Hartenstein on the necessity of versatility in double-big lineups",
+      "names_mentioned": [
+        "Chet Holmgren",
+        "Jalen Williams",
+        "Draymond Green",
+        "Kevin Durant"
+      ],
+      "excerpt": "You cannot just play two big guys that cannot move at all or cannot create action.",
+      "quote": "You have to be able to do multiple things. You cannot just play two big guys that cannot move at all or cannot create action. That is what makes the stuff look clunky, so you have to have a mixture. All of our bigs can do a lot of different things. If it goes from Chet, Jalen Williams, I, me, Kevin Durant was not big no more, he is a guard, but back in the day, Kevin Durant could do a lot of different things too.",
+      "verbatim_original_language": "",
+      "start_seconds": 269,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein explains that modern double big lineups only work if the players can move and create action, otherwise the offense looks clunky.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren",
+          "Jalen Williams",
+          "Kevin Durant"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein explains the necessity of skill and mobility in modern double-big lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "xquugFoX39M",
+  "url": "https://www.youtube.com/watch?v=xquugFoX39M",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-22T18:14:54Z",
+  "duration_seconds": 344,
+  "processed_at": "2026-10-22T18:30:45Z",
+  "run_id": "2026-10-22T1830Z-14utc",
+  "is_one_off": false
+}

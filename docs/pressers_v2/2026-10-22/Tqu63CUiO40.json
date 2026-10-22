@@ -1,0 +1,354 @@
+{
+  "video_title": "Cavs Shootaround | Donovan Mitchell & Jarrett Allen Media Availability | 10.22.2026",
+  "speakers_seen": [
+    "Donovan Mitchell",
+    "Jarrett Allen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "00:04",
+      "summary_phrase": "Donovan Mitchell on the team's intensity and attention to detail",
+      "names_mentioned": [],
+      "excerpt": "the attention to detail, coming in and being like, all right, we're coming in, scout with us",
+      "quote": "I think there's an intensity. Obviously, everybody's excited, but the attention to detail, coming in and being like, all right, we're coming in, scout with us the scout, whether it's our own principles, right? Like you see it in practice, you see it in intra-squad scrimmages, stuff like that is kind of like, okay, guys are ready to go. And obviously, we're not going to be perfect tonight, it's the first game of the season, there's going to be things we're going to have to clean up regardless, win or lose.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Mitchell says the Cavs are focused on internal growth rather than external noise. He notes that while the team is ready for opening night, they know they will not be perfect right out of the gate.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell discusses the team's intensity and attention to detail during practice ahead of the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "00:42",
+      "summary_phrase": "Donovan Mitchell on the team being overlooked coming into the season",
+      "names_mentioned": [],
+      "excerpt": "I think there's definitely a quietness about us, but at the end of the day, who cares?",
+      "quote": "I don't think we're talked about, if that's what you mean. I think there's definitely a quietness about us, but at the end of the day, who cares? Let's just go out there and hoop and let the work take care of itself.",
+      "verbatim_original_language": "",
+      "start_seconds": 42,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Donovan Mitchell on the lack of media attention surrounding the Cavs this season. He says he does not care about the narrative and prefers to let the work take care of itself.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell addresses the perception that the team is being overlooked by the media heading into the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "01:01",
+      "summary_phrase": "Donovan Mitchell on the team's internal motivation to succeed",
+      "names_mentioned": [],
+      "excerpt": "for us it's more of the internal stuff, what fire we have within ourselves",
+      "quote": "I don't think it's something that we've talked about and been like, man, we can't wait. At the end of the day, that's external. For us it's more of the internal stuff, what fire we have within ourselves, making it to the conference finals and getting swept. That's an internal thing. Yeah, it happened external, but that's more of it than, oh man, we're not the talk of ESPN. We're not the talk of, you know, whatever. I think that's more so like, hey, we just have a fire of, we want to get back to that and more and farther.",
+      "verbatim_original_language": "",
+      "start_seconds": 61,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Donovan Mitchell says the Cavs are fueled by the memory of getting swept in the conference finals. He emphasizes that the team has an internal fire to get back to that stage and go even further.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell explains that the team's motivation comes from internal goals rather than external media attention.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "01:30",
+      "summary_phrase": "Donovan Mitchell on the talent and leadership of the Philadelphia 76ers",
+      "names_mentioned": [],
+      "excerpt": "They got a lot of talent. They can attack you from many different ways.",
+      "quote": "They got a lot of talent. They can attack you from many different ways. A lot of leadership, championship leadership over there. And so for us, just continue to do what we do and understand that who we're guarding, guarding first, understand first and understand schemes and go out there and execute what we've been working on all summer.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Mitchell on facing the 76ers. He acknowledges their talent and championship leadership, noting that the Cavs must focus on executing their defensive schemes to start the season strong.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell evaluates the talent and leadership of the Philadelphia 76ers ahead of their matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "01:52",
+      "summary_phrase": "Donovan Mitchell on the motivation of playing against LeBron James",
+      "names_mentioned": [
+        "LeBron James",
+        "Jaylen Brown",
+        "Dean Wade"
+      ],
+      "excerpt": "What better way than the coming to Philly and win on opening night in their place?",
+      "quote": "I don't know about anything more. I think because you've been doing it for 10 years, it becomes normal. But I think for me, what better way than the coming to Philly and win on opening night in their place? I think that's more of the the the motivation. It'll be loud, it'll be exciting, and I think that as a competitor, you enjoy that. You got LeBron, you got Jaylen Brown, you got Max, you got Embiid. You got a lot of guys over there. You got your old my old teammate Dean Wade, right? So there's a lot of things that kind of get you going for for tonight that are exciting.",
+      "verbatim_original_language": "",
+      "start_seconds": 112,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Mitchell says the motivation for opening night is simply the challenge of winning in a tough environment. He is looking forward to the energy of playing in Philadelphia.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Jaylen Brown",
+          "Tyrese Maxey",
+          "Joel Embiid",
+          "Dean Wade"
+        ],
+        "teams": [
+          "CLE",
+          "PHI",
+          "LAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell discusses his excitement and motivation for playing against various high-profile opponents on opening night.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "02:40",
+      "summary_phrase": "Donovan Mitchell on the feeling of opening night",
+      "names_mentioned": [],
+      "excerpt": "It's like your first day at school. The feeling, the butterflies, the adrenaline never fades.",
+      "quote": "It's like your first day at school. As I've gone throughout the years in this league, the feeling, the butterflies, the adrenaline never fades. You can always tell when it's the night before the first game. No matter how much sleep you get the days before, you always know that that time is coming. And even now in shootaround, you feel the energy, you feel all that. For me, it's just like the first day of school. You get out there, excited to get to it and go from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 160,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Donovan Mitchell compares the feeling of opening night to the first day of school. He says the butterflies and adrenaline never fade no matter how many years he has been in the league.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell describes the feeling of excitement and adrenaline on the day of the first game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "03:26",
+      "summary_phrase": "Donovan Mitchell on the importance of treating every game seriously",
+      "names_mentioned": [],
+      "excerpt": "understanding that every night is a night. Every night is a night.",
+      "quote": "I wouldn't say that. I think understanding that every night is a night. Every night is a night. And that's no disrespect to teams in the past or anything like that, but I think understanding that, hey, there's a lot of talent from top to bottom. So understanding like, hey, this is equally as important as the playoffs. But if you want to be a playoff team that goes far and succeeds, you have to treat the regular season as such anyway. So I don't think this year we come in and be like, oh man, here they got to rally around. I think it's just been that way mentally.",
+      "verbatim_original_language": "",
+      "start_seconds": 206,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Mitchell emphasizes that the Cavs are approaching the regular season with a playoff mindset. He says that to be a team that succeeds in the postseason, you have to treat every regular season game with the same level of importance.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell emphasizes the importance of maintaining a high level of focus and intensity throughout the entire regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jarrett Allen",
+      "speakers": [],
+      "timestamp": "04:15",
+      "summary_phrase": "Jarrett Allen on managing his knee injury",
+      "names_mentioned": [],
+      "excerpt": "just trying to be precautious about my knees, you know, year 10",
+      "quote": "Just trying to be precautious about my knees, you know, year 10. So sometimes they're sore, sometimes they're not. We just want to be in the best position to make sure I'm healthy. It's just trying to deal with what tendinopathy they call it. I don't know, it's like whatever it is, just trying to figure out and just go forward.",
+      "verbatim_original_language": "",
+      "start_seconds": 255,
+      "end_seconds": 278,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Jarrett Allen says he is being precautious with his knees as he deals with tendinopathy. He is focused on managing the soreness to ensure he stays healthy throughout the season.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jarrett Allen explains his approach to managing knee tendinopathy to ensure he remains healthy for the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jarrett Allen",
+      "speakers": [],
+      "timestamp": "05:25",
+      "summary_phrase": "Jarrett Allen on his treatment and recovery plan",
+      "names_mentioned": [],
+      "excerpt": "bunch of treatment in the training room and in the weight room",
+      "quote": "Bunch of treatment in the training room and in the weight room just trying to make sure that my tendons are stronger, all the muscles are around it are stronger, just trying to make sure my body is in better form than it is in my whole career.",
+      "verbatim_original_language": "",
+      "start_seconds": 325,
+      "end_seconds": 343,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jarrett Allen is putting in significant work in the training and weight rooms to strengthen his tendons and muscles. He says he is trying to get his body into the best form of his career.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jarrett Allen details the treatment and strength training routine he is using to recover and improve his physical condition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jarrett Allen",
+      "speakers": [],
+      "timestamp": "05:56",
+      "summary_phrase": "Jarrett Allen on the team's underdog mentality",
+      "names_mentioned": [],
+      "excerpt": "We're always in after-thought, let's be honest. That's just how Cleveland sports are.",
+      "quote": "We're always in after-thought, let's be honest. That's just how Cleveland sports are. Nobody puts Cleveland at the top of the pedestal. But we know what we're capable of. We know we're going to go in there and fight to our best ability, no matter how anybody looks at us.",
+      "verbatim_original_language": "",
+      "start_seconds": 356,
+      "end_seconds": 375,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jarrett Allen says the Cavs are used to being an afterthought in the national conversation. He notes that the team knows what they are capable of and plans to fight regardless of how they are perceived.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jarrett Allen reflects on the team's underdog mentality and how they handle being overlooked by the public.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jarrett Allen",
+      "speakers": [],
+      "timestamp": "06:16",
+      "summary_phrase": "Jarrett Allen on the team's focus on practice",
+      "names_mentioned": [
+        "James",
+        "Kenny"
+      ],
+      "excerpt": "I think it starts in practice, just trying to make sure everything is as crisp as possible",
+      "quote": "I think it starts in practice, just trying to make sure everything is as crisp as possible. James is calling out guys that need to be in certain position, Kenny's calling out everybody to be in certain position. Just trying to get things tight in practice so that in the game there's no question about what we need to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 376,
+      "end_seconds": 399,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jarrett Allen credits the coaching staff for keeping the team focused in practice. He says the goal is to get everything crisp so there is no confusion about positioning once the games begin.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Borrego",
+          "Kenny Atkinson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jarrett Allen discusses how the coaching staff is emphasizing crisp execution and positioning during practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Tqu63CUiO40",
+  "url": "https://www.youtube.com/watch?v=Tqu63CUiO40",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-22T16:33:29Z",
+  "duration_seconds": 441,
+  "processed_at": "2026-10-22T18:31:05Z",
+  "run_id": "2026-10-22T1830Z-14utc",
+  "is_one_off": false
+}

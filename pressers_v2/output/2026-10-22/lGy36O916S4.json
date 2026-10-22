@@ -1,0 +1,178 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe | 10.21.26",
+  "speakers_seen": [
+    "Brian Keefe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:35",
+      "summary_phrase": "Brian Keefe on Anthony Davis's dominant performance in the third quarter",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "He really settled us in the third quarter. He was able to establish himself deep in the paint.",
+      "quote": "He really settled us in the third quarter. He was able to establish himself deep in the paint. Obviously he was scoring around the rim, was drawing tons of free throw attempts, getting people in foul trouble. We needed that steady presence. We played him a little bit longer in his rotation and he just gave us that confidence leading in the fourth quarter and then obviously we stepped up in the fourth.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe praised Anthony Davis for his third quarter performance saying he really settled the team in and provided a steady presence that gave them confidence heading into the fourth quarter.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses Anthony Davis's performance during the third quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:07",
+      "summary_phrase": "Brian Keefe on Deandre Ayton's impact and physicality off the bench",
+      "names_mentioned": [
+        "Deandre Ayton"
+      ],
+      "excerpt": "He came in and impacted the game right away. You could feel him with his physicality, his size.",
+      "quote": "He has been terrific. His energy has been terrific around the building since we have got him. It is contagious, you can feel him. This guy is a really good player. He came in and impacted the game right away. You could feel him with his physicality, his size. Obviously you saw some of the offensive rebounding and then the defensive presence he brings at the rim. He was terrific tonight.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe on Deandre Ayton after his strong performance off the bench saying his energy is contagious and you can really feel his physicality and size on both ends of the floor.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Deandre Ayton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brian Keefe praises the energy and physical impact Deandre Ayton provided off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:04",
+      "summary_phrase": "Brian Keefe on Bob Carrington's consistent floor game",
+      "names_mentioned": [
+        "Bob Carrington"
+      ],
+      "excerpt": "Bob Carrington shows up every night. Bob Carrington has never missed a game.",
+      "quote": "Bob Carrington has had an up and down first two years in the league and even an up and down preseason. But maybe he might have played his best quarter of basketball in that second quarter. He stepped up when we needed a secondary ball-handler. He obviously made a couple shots and I thought he just played a great floor game tonight. But that is what Bob Carrington does. Bob Carrington shows up every night. Bob Carrington has never missed a game. So you can always hang your hat on Bob Carrington, that is what he was doing tonight.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe highlighted Bob Carrington for his floor game tonight noting that while he has had an up and down start to his career you can always hang your hat on him because he shows up every night.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bob Carrington"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe reflects on Bob Carrington's consistent work ethic and his performance in the second quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "04:24",
+      "summary_phrase": "Brian Keefe on Trey's playmaking ability and low turnover count",
+      "names_mentioned": [
+        "Trey"
+      ],
+      "excerpt": "He knows how to get us organized. He has been doing this a long time.",
+      "quote": "He is pretty good. He knows how to get us organized. He has been doing this a long time. He settles you down. There were 13 assists, right, is that what it was? Just makes the right play, gives energy to people. I think that is one of the things people do not realize about him. Two things: his passing ability but his competitiveness, and those things stood out tonight.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe praised his floor general for his 13 assist performance saying he knows how to get the team organized and that his passing ability and competitiveness really stood out tonight.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe highlights the playmaking ability and competitiveness shown by Trey during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "06:19",
+      "summary_phrase": "Brian Keefe on Anthony Davis's team-first mentality",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "One thing about Anthony Davis, he is a team guy. It is all about the team.",
+      "quote": "He has embraced everything as soon as he came into our building. He is a very giving person, wants to share all the knowledge he has. And one thing about Anthony Davis, he is a team guy. It is all about the team. And that stuff carries over to everybody.",
+      "text_blocks": [],
+      "start_seconds": 379,
+      "end_seconds": 398,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe says Anthony Davis has fully embraced the team culture since arriving noting that he is a very giving person and a team guy whose mentality carries over to everyone else.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brian Keefe comments on Anthony Davis's team-first mentality and his influence on the rest of the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "lGy36O916S4",
+  "url": "https://www.youtube.com/watch?v=lGy36O916S4",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-22T16:06:22Z",
+  "duration_seconds": 454,
+  "processed_at": "2026-10-22T18:31:09Z",
+  "run_id": "2026-10-22T1830Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,498 @@
+{
+  "video_title": "POSTGAME SOUND: ATLANTA HAWKS VS. ORLANDO MAGIC | COACH SWEENEY, WENDELL CARTER JR. & PAOLO BANCHERO",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Wendell Carter Jr.",
+    "Paolo Banchero"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:05",
+      "summary_phrase": "Coach Sweeney on Atlanta's three-point shooting and execution",
+      "names_mentioned": [],
+      "excerpt": "the three-point shooting for Atlanta in the second half, you know, they were eight for 20",
+      "quote": "the three-point shooting for Atlanta in the second half, you know, they were eight for 20 and then the fourth quarter, we had a tough time shooting it, but I think just in general, we can improve a lot on our execution, especially in that second half.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney says the Magic need to improve their execution after a tough second half against Atlanta. We can improve a lot on our execution especially in that second half.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's defensive execution and three-point shooting struggles against Atlanta.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:42",
+      "summary_phrase": "Coach Sweeney on defensive improvements needed after first game",
+      "names_mentioned": [],
+      "excerpt": "defensively, I think we can do a much better job than we did tonight",
+      "quote": "defensively, I think we can do a much better job than we did tonight and we will do a much better job than we did tonight. And then, you know, both sides of the ball, there's always things to improve upon, but definitely after the first game, we've got a lot of teachable and learnable things.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney on the defensive performance tonight: Defensively I think we can do a much better job than we did tonight and we will do a much better job than we did tonight.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney reflects on the need for defensive improvement following the team's first game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:35",
+      "summary_phrase": "Coach Sweeney on Shai Gilgeous-Alexander's impact and free throw attempts",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "he got to the free throw line so many times, I think he had like 13 free throws",
+      "quote": "he got to the free throw line so many times, I think he had like 13 free throws and that was an issue for us with him. But he's a great player in a lot of ways. He's obviously made a jump last year and looks like he's continued along that path.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney on Shai Gilgeous-Alexander: He got to the free throw line so many times and that was an issue for us. He is a great player in a lot of ways.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "ORL",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney comments on the challenge of defending Shai Gilgeous-Alexander and his ability to draw fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:27",
+      "summary_phrase": "Coach Sweeney on Paolo Banchero's aggressiveness and potential",
+      "names_mentioned": [
+        "Paolo Banchero"
+      ],
+      "excerpt": "I love his aggressiveness. I thought he did a great job really trying to put pressure on the defense",
+      "quote": "I love his aggressiveness. I thought he did a great job really trying to put pressure on the defense and I think he can be even better. He did a great job of drawing the defense, attacking, finishing, obviously shot it very well, got to the free throw line a lot, so did a great job there and can keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney on Paolo Banchero: I love his aggressiveness. I thought he did a great job really trying to put pressure on the defense and I think he can be even better.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paolo Banchero"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises Paolo Banchero's aggressiveness and his ability to put pressure on the opposing defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Sweeney",
+      "timestamp": "03:17",
+      "summary_phrase": "Coach Sweeney on managing Paolo Banchero's minutes and bench depth",
+      "names_mentioned": [
+        "Paolo Banchero",
+        "Tristan",
+        "Jamal",
+        "Jason"
+      ],
+      "excerpt": "we would like to keep Paolo under 40 minutes probably if I had to guess",
+      "quote": "we would like to keep Paolo under 40 minutes probably if I had to guess, but just in general, I think a lot of guys did a good job in a number of areas. I like the energy that Goga brought in the second half at times, I thought Tristan did a pretty nice job throughout, Jamal gave us a boost there in that third quarter and I thought Jason in the second half settled down a little bit and did a better job with his ball pressure, his point of attack defense and attacking on offense too.",
+      "text_blocks": [],
+      "start_seconds": 197,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney says the team would like to keep Paolo Banchero under 40 minutes per game if possible.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paolo Banchero",
+          "Goga Bitadze",
+          "Tristan da Silva",
+          "Jamal Shead",
+          "Jason Preston"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Sweeney discusses managing Paolo Banchero's minutes and evaluates the performance of bench players.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Wendell Carter Jr.",
+      "timestamp": "03:56",
+      "summary_phrase": "Wendell Carter Jr. on free throws and defensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "sent them to the free throw line a little too much",
+      "quote": "sent them to the free throw line a little too much from myself fouling a three-point shooter. We had some crucial calls down the stretch that we could have easily avoided by just being in the stance and being ready. I think clean up the old boards, you know, understanding especially late in games, teams are going to crash just to get themselves more opportunities, so we clean that up, I think give ourselves a better chance especially late in game.",
+      "text_blocks": [],
+      "start_seconds": 236,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Wendell Carter Jr. on defensive mistakes: We had some crucial calls down the stretch that we could have easily avoided by just being in the stance and being ready.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Wendell Carter Jr. discusses his personal foul trouble and the team's need to improve defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Wendell Carter Jr.",
+      "timestamp": "05:31",
+      "summary_phrase": "Wendell Carter Jr. on defensive focus and turnovers",
+      "names_mentioned": [
+        "CJ",
+        "Nikil"
+      ],
+      "excerpt": "we lost focus of taking out the three-point line, you know, guys like CJ, Nikil",
+      "quote": "we lost focus of taking out the three-point line, you know, guys like CJ, Nikil, those guys are hunting threes and we weren't doing a really good job of that early on. And then we locked into it, you know, towards the end of the second, most of the third, and then some little parts of the fourth, they were able to get free and be able to get open looks. So, definitely a lot of things we can build off of, but you know, we did it in this game, so it's not like we can't do it, it's not like we're not capable.",
+      "text_blocks": [],
+      "start_seconds": 331,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Wendell Carter Jr. says the team lost focus on the perimeter: We lost focus of taking out the three-point line and we were not doing a really good job of that early on.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ McCollum",
+          "Nickeil Alexander-Walker"
+        ],
+        "teams": [
+          "ORL",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Wendell Carter Jr. analyzes the team's defensive lapses in guarding the three-point line against specific opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Wendell Carter Jr.",
+      "timestamp": "09:21",
+      "summary_phrase": "Wendell Carter Jr. on new offensive habits and turnovers",
+      "names_mentioned": [],
+      "excerpt": "the new offense requires us to get up the court quickly, which means you got to be in shape",
+      "quote": "the new offense requires us to get up the court quickly, which means you got to be in shape and knowing where to be when guys drive the ball. So, I think it's definitely is some of the reason why we have the 20 turnovers, but you know, a lot of them is stuff that we can fix easily for sure.",
+      "text_blocks": [],
+      "start_seconds": 561,
+      "end_seconds": 584,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Wendell Carter Jr. on the team's 20 turnovers: The new offense requires us to get up the court quickly which means you have to be in shape. A lot of them is stuff that we can fix easily for sure.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Wendell Carter Jr. explains that the team's high turnover count is related to adapting to a new, faster-paced offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Paolo Banchero",
+      "timestamp": "10:53",
+      "summary_phrase": "Paolo Banchero on turnovers and guarding the perimeter",
+      "names_mentioned": [],
+      "excerpt": "turnovers were big and I think just guarding the three-point line",
+      "quote": "turnovers were big and I think just guarding the three-point line, you know, they made some some big shots.",
+      "text_blocks": [],
+      "start_seconds": 653,
+      "end_seconds": 660,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paolo Banchero on the loss: Turnovers were big and I think just guarding the three-point line, they made some big shots.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paolo Banchero identifies turnovers and perimeter defense as the primary reasons for the team's struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Paolo Banchero",
+      "timestamp": "11:11",
+      "summary_phrase": "Paolo Banchero on defensive stops and ball movement",
+      "names_mentioned": [],
+      "excerpt": "just getting stops. The ball was moving on offense",
+      "quote": "just getting stops. The ball was moving on offense, but yeah, just really started with stops.",
+      "text_blocks": [],
+      "start_seconds": 671,
+      "end_seconds": 677,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Paolo Banchero says the key to the game was defensive stops: The ball was moving on offense, but yeah, just really started with stops.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paolo Banchero emphasizes the importance of defensive stops to fuel the team's offensive ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Paolo Banchero",
+      "timestamp": "12:04",
+      "summary_phrase": "Paolo Banchero on addressing recurring issues from preseason",
+      "names_mentioned": [],
+      "excerpt": "some of the stuff that killed us tonight, it's been a common theme throughout the preseason",
+      "quote": "some of the stuff that killed us tonight, it's been a common theme throughout the preseason, so into regular season now, so we just got to clean that up and address it and just get better.",
+      "text_blocks": [],
+      "start_seconds": 724,
+      "end_seconds": 738,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Paolo Banchero says the team's struggles tonight were a recurring theme from the preseason: Some of the stuff that killed us tonight, it has been a common theme throughout the preseason.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paolo Banchero notes that the issues causing the loss were recurring problems observed throughout the preseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Paolo Banchero",
+      "timestamp": "12:54",
+      "summary_phrase": "Paolo Banchero on Jalen Johnson's post-game comments",
+      "names_mentioned": [
+        "Jalen Johnson"
+      ],
+      "excerpt": "he wanted to wait till the clock is zero to say something to me",
+      "quote": "he wanted to wait till the clock is zero to say something to me, so you know, I just wanted to hear what he said, but it is what it is, game one.",
+      "text_blocks": [],
+      "start_seconds": 774,
+      "end_seconds": 787,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Paolo Banchero on his interaction with Jalen Johnson: He wanted to wait till the clock is zero to say something to me, so I just wanted to hear what he said, but it is what it is.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ORL",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Paolo Banchero reacts to a post-game interaction with Jalen Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Paolo Banchero",
+      "timestamp": "13:54",
+      "summary_phrase": "Paolo Banchero on offensive pacing and team growth",
+      "names_mentioned": [],
+      "excerpt": "there were times where we did maybe get a little stagnant or weren't playing with the pace",
+      "quote": "there were times where we did maybe get a little stagnant or weren't playing with the pace that we we would like, so you know, that's something that we can continue to get better at and build as the year goes on.",
+      "text_blocks": [],
+      "start_seconds": 834,
+      "end_seconds": 850,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paolo Banchero on the offense: There were times where we did maybe get a little stagnant or were not playing with the pace that we would like.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paolo Banchero discusses the need for better offensive pacing and continued team growth throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Paolo Banchero",
+      "timestamp": "14:29",
+      "summary_phrase": "Paolo Banchero on his decisiveness and coaching influence",
+      "names_mentioned": [],
+      "excerpt": "coaches worked a lot with me just on how he wants me to play on offense",
+      "quote": "coaches worked a lot with me just on how he wants me to play on offense and how the offense is structured and where I'm able to find my opportunities and so, just going to keep building on it as the year goes on.",
+      "text_blocks": [],
+      "start_seconds": 869,
+      "end_seconds": 886,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paolo Banchero on his development: Coaches worked a lot with me just on how he wants me to play on offense and how the offense is structured.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Paolo Banchero credits the coaching staff for helping him understand his role and opportunities within the new offensive structure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Paolo Banchero",
+      "timestamp": "15:49",
+      "summary_phrase": "Paolo Banchero on his approach to drawing fouls",
+      "names_mentioned": [],
+      "excerpt": "just going to finish rather than looking for the foul",
+      "quote": "just going to finish rather than looking for the foul, I think that's something I've gotten better at over my career is like not searching for the foul, more so just going to score and a lot of times that that causes the defense to have to foul me.",
+      "text_blocks": [],
+      "start_seconds": 949,
+      "end_seconds": 968,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paolo Banchero on his approach to drawing fouls: I have gotten better at not searching for the foul, more so just going to score and a lot of times that causes the defense to have to foul me.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paolo Banchero explains his shift in mindset to focus on scoring rather than hunting for fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Paolo Banchero",
+      "timestamp": "16:20",
+      "summary_phrase": "Paolo Banchero on team talent and aggressive play",
+      "names_mentioned": [
+        "Tristan",
+        "Wendell"
+      ],
+      "excerpt": "we got a lot of talented players on this team and we want everybody to be aggressive",
+      "quote": "we got a lot of talented players on this team and we want everybody to be aggressive and look for their shots within the flow of the offense. So, just going to need everyone but you know, Tristan, Wendell and all the other guys as well to you know, continue to be aggressive, continue to put pressure on the defense when they're in the game and just continue to play team basketball.",
+      "text_blocks": [],
+      "start_seconds": 980,
+      "end_seconds": 1008,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paolo Banchero on team identity: We have a lot of talented players on this team and we want everybody to be aggressive and look for their shots within the flow of the offense.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tristan da Silva",
+          "Wendell Carter Jr."
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Paolo Banchero encourages his teammates to maintain aggressiveness and play team basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "PvIlY5xaKEg",
+  "url": "https://www.youtube.com/watch?v=PvIlY5xaKEg",
+  "channel_team": "Orlando Magic",
+  "published": "2026-10-22T17:54:42Z",
+  "duration_seconds": 1015,
+  "processed_at": "2026-10-22T18:30:55Z",
+  "run_id": "2026-10-22T1830Z-14utc",
+  "is_one_off": false
+}

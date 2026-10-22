@@ -1,0 +1,329 @@
+{
+  "video_title": "Trae Young On The Wizards Performance in Game 1 | 10.21.26 Media Availability",
+  "speakers_seen": [
+    "Trae Young"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trae Young",
+      "timestamp": "00:01",
+      "summary_phrase": "Trae Young on the Wizards' offensive struggles in the preseason",
+      "names_mentioned": [],
+      "excerpt": "our struggle even in the preseason was our offense",
+      "quote": "I think we finally settled in. Our offense, to be honest, our struggle even in the preseason was our offense and I think we started out that way tonight. That starts with me being the point guard and making sure we get good shots. I think we were getting good shots, we just weren't executing fast enough and making the right plays and making shots. In the fourth quarter when you make some shots, you get the crowd going, you feed off that energy for sure, and that's what we did.",
+      "verbatim_original_language": "",
+      "start_seconds": 1,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young says the Wizards offense struggled early in the game because they were not executing fast enough. He believes the team finally settled in during the fourth quarter to secure the win.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the team's offensive execution and rhythm during their season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trae Young",
+      "timestamp": "00:43",
+      "summary_phrase": "Trae Young on his mindset during high-pressure fourth-quarter moments",
+      "names_mentioned": [],
+      "excerpt": "those are what makes the great players great",
+      "quote": "Being in those moments for so many times, understanding what those moments are, those are what makes the great players great. I've known that since I was a kid. For me, I always know when the fourth quarter comes, I got to be ready to make sure I get my team a great shot each and every time down the court.",
+      "verbatim_original_language": "",
+      "start_seconds": 43,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trae Young on his late game mindset. He says he has understood what it takes to be a great player since he was a kid and always stays ready to get his team a great shot in the fourth quarter.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young describes his personal approach to managing high-pressure situations in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trae Young",
+      "timestamp": "01:19",
+      "summary_phrase": "Trae Young on Deandre Ayton's impressive performance and MVP potential",
+      "names_mentioned": [
+        "Deandre Ayton"
+      ],
+      "excerpt": "I want to help him get the MVP",
+      "quote": "I told people earlier this week I wasn't surprised. Seeing what Deandre Ayton has been looking like in the offseason, in workouts, preseason with the guys, his mentality, his conversations around the team, I knew he was going to be ready. I wasn't surprised by what he did tonight. I don't want to put too much pressure on him, but for me, having a guy like that, I want to help him get the MVP. If we continue to win games, he's going to be in the conversation, so I'm not surprised by the way he played. He's a top 75 player for a reason.",
+      "verbatim_original_language": "",
+      "start_seconds": 79,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Trae Young is already backing Deandre Ayton for MVP. He says he is not surprised by Ayton's performance and wants to help him reach that level if the team continues to win games.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Deandre Ayton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young praises Deandre Ayton's performance and discusses his potential to be an MVP candidate.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trae Young",
+      "timestamp": "02:14",
+      "summary_phrase": "Trae Young on reducing turnovers and controlling the game",
+      "names_mentioned": [],
+      "excerpt": "playing more under control",
+      "quote": "I told you I wasn't going to be turning it over like that. Playing more under control, I used that to feel out my teammates, have my teammates feel me out too, and just understand how I'm going to get them the ball and how fast I like to push it and play. I knew I wasn't going to turn the ball over as much. This is just one game, I got to continue to do that, but at the same time, I know how to play under control. I just got to go out there and do it like I did tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 134,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young says he is focused on playing more under control and reducing his turnovers. He notes that while this was just one game, he knows how to play the right way and just needs to execute.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young reflects on his ball security and his effort to play more under control.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trae Young",
+      "timestamp": "02:56",
+      "summary_phrase": "Trae Young on the team's communication and chemistry during huddles",
+      "names_mentioned": [
+        "BK",
+        "Deandre Ayton",
+        "Chris",
+        "DA"
+      ],
+      "excerpt": "in that huddle we were continuing to talk to each other",
+      "quote": "It was important for us. I know some people may have been worried after the first three quarters and how we were looking, but in that huddle we were continuing to talk to each other. BK was talking, keeping guys up. Obviously me, Deandre Ayton, Chris, DA, all the guys who have been in the game for a long time, we understand how long the game is. We've done so many great things in practice that we just had to stick to what we've been working on. We knew it was going to show up, and I think that's the best part, that we ended up with a win. That's the main thing that matters.",
+      "verbatim_original_language": "",
+      "start_seconds": 176,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trae Young credits the team communication in the huddle for keeping the Wizards focused during a tough start. He says the veterans kept everyone up and they stuck to what they worked on in practice.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Deandre Ayton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young highlights the importance of team communication and chemistry during the game huddles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trae Young",
+      "timestamp": "03:41",
+      "summary_phrase": "Trae Young on Deandre Ayton's selfless attitude and impact",
+      "names_mentioned": [
+        "Deandre Ayton",
+        "DA"
+      ],
+      "excerpt": "DA is definitely making the ultimate sacrifice",
+      "quote": "DA is definitely making the ultimate sacrifice, obviously coming off the bench. He was the number one pick in my class and he has so much talent. You see what he does when he gets on the court. It's very selfless of him, the way he's carried himself and his attitude and his energy. Not everybody can do that. I believe that's why he's going to continue to have an impact for our team and have an impact in this game for as many years as he wants to because of his mindset and his selflessness for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 221,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Trae Young praises Deandre Ayton for his selfless attitude in coming off the bench. He says Ayton's mindset and energy are why he will continue to have a major impact for the team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Deandre Ayton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young commends Deandre Ayton for his selfless attitude in accepting a bench role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Trae Young",
+      "timestamp": "04:27",
+      "summary_phrase": "Trae Young on Justin Champagnie's positive impact and winning mentality",
+      "names_mentioned": [
+        "Justin Champagnie",
+        "JC"
+      ],
+      "excerpt": "I know JC is a winning player",
+      "quote": "I know JC is a winning player and I know what he brings to our team. Coming off the bench and playing in spot minutes, I know it can be frustrating for him, but his attitude and his positivity when he's on the bench and when he comes into the game, obviously making the impact he does, just like DA and his selflessness, not everybody can have that type of impact and that type of mentality to be able to come in and make that type of impact for us. I think JC is going to have many nights like this for us and we need him to have it for us to win a lot of games.",
+      "verbatim_original_language": "",
+      "start_seconds": 267,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young highlights Justin Champagnie as a winning player. He says even with spot minutes, Champagnie brings a positive attitude and impact that the team needs to win games.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young praises Justin Champagnie for his positive impact and winning mentality off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trae Young",
+      "timestamp": "05:07",
+      "summary_phrase": "Trae Young on the team's collective chip on their shoulder",
+      "names_mentioned": [
+        "Ted Leonsis",
+        "Deandre Ayton"
+      ],
+      "excerpt": "I think that's one through fifteen",
+      "quote": "I think that's one through fifteen. I think a lot of the guys have heard how the Wizards have been perceived over the past few years and a lot of them are young guys and very confident in themselves, and they know the work that they put in. They don't necessarily like how they've been talked about either. It's not just Deandre Ayton, it's not just me, or DA, who's a former number one pick, it's everybody. It can be a good and bad thing for us. If we use it the right way, continue to do things together and not separate ourselves like we've been doing this preseason and building that chemistry, I feel like we can use that in a positive way. It's not just one person motivated, it's everybody.",
+      "verbatim_original_language": "",
+      "start_seconds": 307,
+      "end_seconds": 358,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young says the entire Wizards roster is motivated by how they have been perceived over the past few years. He believes they can use that chip on their shoulder to build chemistry and win.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Deandre Ayton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the collective motivation of the team to prove critics wrong.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Trae Young",
+      "timestamp": "06:12",
+      "summary_phrase": "Trae Young on the team's defensive focus and offensive versatility",
+      "names_mentioned": [],
+      "excerpt": "our defense has been the problem for me and teams in the past",
+      "quote": "I'm not even focused on any of the offenses I've been a part of in the past. For me, I just understand this team is so dynamic and we can do so many different things, diverse, and we can just play different styles. I think that's the complicated thing right now is we don't necessarily want to overstep the next person. We're still trying to figure it out, like the main styles we want to play and when different groups are in there, how we want to play. To be honest, that hasn't necessarily been a problem as the offense for me. Our defense has been the problem for me and teams in the past and to be honest, we've been really good so far and we just got to keep that going and then figure out the offense as it comes.",
+      "verbatim_original_language": "",
+      "start_seconds": 372,
+      "end_seconds": 427,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young says the Wizards are still figuring out their offensive identity but are pleased with their defensive progress so far. He notes the team is dynamic and capable of playing different styles.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young explains the team's focus on defensive improvement and offensive versatility.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Trae Young",
+      "timestamp": "06:56",
+      "summary_phrase": "Trae Young on building chemistry with Deandre Ayton",
+      "names_mentioned": [
+        "Deandre Ayton"
+      ],
+      "excerpt": "the chemistry between me and him is only going to get better",
+      "quote": "It has felt like forever playing a regular season game. Five games in a season isn't normal for me, especially just for one team. It has felt like forever, but I think the chemistry between me and him is only going to get better. As the games go, we're going to continue to figure out where we both need the ball to be successful. He's going to have nights like tonight where he's got it going and I got to continue to find a way to get him the ball, and so does everybody else. There's going to be nights where maybe it's flipped, he may not have it going and we got to pick him up and get his back. That's just what makes a great team. That's all I care about is just focusing on how to make our team win.",
+      "verbatim_original_language": "",
+      "start_seconds": 416,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young says his chemistry with Deandre Ayton is only going to improve. He emphasizes that on a great team, players have to pick each other up depending on who has it going on any given night.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Deandre Ayton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young talks about the ongoing process of building on-court chemistry with Deandre Ayton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ROioNe79ie8",
+  "url": "https://www.youtube.com/watch?v=ROioNe79ie8",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-22T12:00:02Z",
+  "duration_seconds": 524,
+  "processed_at": "2026-10-22T18:31:30Z",
+  "run_id": "2026-10-22T1830Z-14utc",
+  "is_one_off": false
+}
