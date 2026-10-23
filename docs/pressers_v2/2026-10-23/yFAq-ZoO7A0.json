@@ -1,0 +1,129 @@
+{
+  "video_title": "Dillon Brooks Practice Media Availability | 10-23-26",
+  "speakers_seen": [
+    "Dillon Brooks"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dillon Brooks",
+      "timestamp": "00:24",
+      "summary_phrase": "Dillon Brooks on team communication and energy after opening loss",
+      "names_mentioned": [],
+      "excerpt": "Communication, energy, and togetherness. Feel like we were spread out, away from each other, weren't talking as much.",
+      "quote": "Communication, energy, and togetherness. Feel like we were spread out, away from each other, weren't talking as much. We weren't stopping the bleeding, so it's not good that it's the first game, but overall it's not like Game 50 where we're in a predicament or whatever the seeding or whatever it is. It's good for us to get slapped in the mouth like that from that team and we're going to learn from it.",
+      "text_blocks": [],
+      "start_seconds": 24,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks says the team needs to improve their communication and energy after their opening loss. He noted it is good to get slapped in the mouth early in the season to learn from it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks discusses the team's lack of communication and energy following their opening game loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:15",
+      "summary_phrase": "Dillon Brooks on the learning curve for a young starting big",
+      "names_mentioned": [],
+      "excerpt": "Being a starting big in the NBA, especially at his age, is very unheard of.",
+      "quote": "It's the little things and he's learning on the fly. Being a starting big in the NBA, especially at his age, is very unheard of. A lot of greats were put in that position, so we have that same trust in him to learn at that speed and his work in the summer, how he built his body, is going to propel him to get to that point. But we're going to need his mind a little bit more for these next games so we can get a routine.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks expressed confidence in their young starting big man but emphasized that he needs to sharpen his mental approach to help the team establish a routine for the upcoming games.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dillon Brooks discusses the challenges and learning curve for a young teammate playing the starting center position.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:56",
+      "summary_phrase": "Dillon Brooks takes ownership of team's defensive communication",
+      "names_mentioned": [],
+      "excerpt": "I take that ownership on myself for lack of communication on my end, being that defensive anchor.",
+      "quote": "There's times for scramble, there's times for rotations. That starts from the beginning of the game and I take that ownership on myself for lack of communication on my end, being that defensive anchor on our team. So I take that whole game on the chin and be better for the next 81.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks is taking full ownership for the team defensive struggles in the opener. He says he needs to be better as the defensive anchor and communicate more effectively for the next 81 games.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks takes personal responsibility for the team's defensive communication struggles during his media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dillon Brooks",
+      "timestamp": "02:26",
+      "summary_phrase": "Dillon Brooks on improving defensive rebounding and boxing out",
+      "names_mentioned": [],
+      "excerpt": "That's how the great offensive rebounding teams get their offensive rebounds, giving guys in scrambling positions.",
+      "quote": "That's how the great offensive rebounding teams get their offensive rebounds, giving guys in scrambling positions, not on their man, and then we're looking around and they can't box out or they stop in quicksand. So that's one thing that we have to improve on and I think we will as a group.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dillon Brooks identified defensive rebounding and boxing out as key areas for improvement. He noted that the team is currently getting caught in scrambling positions and needs to stop playing in quicksand.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks explains the need for the team to improve their defensive rebounding and boxing out techniques.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "yFAq-ZoO7A0",
+  "url": "https://www.youtube.com/watch?v=yFAq-ZoO7A0",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-23T21:47:13Z",
+  "duration_seconds": 221,
+  "processed_at": "2026-10-23T23:08:19Z",
+  "run_id": "2026-10-23T2307Z-20utc",
+  "is_one_off": false
+}

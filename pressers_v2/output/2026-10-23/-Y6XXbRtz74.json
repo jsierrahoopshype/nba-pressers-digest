@@ -1,0 +1,251 @@
+{
+  "video_title": "Head Coach Jordan Ott Practice Media Availability | 10-23-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:09",
+      "summary_phrase": "Luke and Okogie injury updates and recovery outlook",
+      "names_mentioned": [
+        "Luke",
+        "Okogie"
+      ],
+      "excerpt": "He's an oblique strain. He'll be out for sure tomorrow, but we hope it's more day-to-day.",
+      "quote": "Luke practiced today. It's the same normal path, trending in the right direction for sure. Okogie, pretty good report overall, back. He's an oblique strain. He'll be out for sure tomorrow, but we hope it's more day-to-day than long-term. I think we avoided something serious.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Suns coach Jordan Ott says Josh Okogie is out tomorrow with an oblique strain but the team hopes it is day to day and they avoided something serious. Luke is trending in the right direction.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luke",
+          "Josh Okogie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jordan Ott provides injury updates on Luke and Josh Okogie during a practice media availability.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:48",
+      "summary_phrase": "Devin Booker's lack of three-point attempts in recent game",
+      "names_mentioned": [
+        "Devin"
+      ],
+      "excerpt": "Some of that's their coverage for sure. They dropped the big so far back.",
+      "quote": "Some of that's their coverage for sure. They dropped the big so far back, they're just trying to funnel everything in. Some of it's our ball movement that didn't get it moving where he did have a closeout situation to get the catch and shoot. Some of it was just us. We didn't have enough force playing out of transition to where he could get some space, and Kamara's pretty good.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jordan Ott on Devin Booker's lack of three point attempts: It was a mix of the opponent's defensive coverage, poor ball movement, and a lack of force in transition.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the reasons behind Devin Booker's limited three-point attempts in the team's recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:32",
+      "summary_phrase": "Finding high-quality shots regardless of who has the ball",
+      "names_mentioned": [],
+      "excerpt": "It's all about finding high-quality looks, no matter who has the ball.",
+      "quote": "It's all about finding high-quality looks, no matter who has the ball. Make the right play. It was just that start that obviously was not us, and we addressed that today.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott says the Suns focused on finding high quality looks regardless of who has the ball after a slow start in their last game.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the team's offensive philosophy regarding shot selection and ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:48",
+      "summary_phrase": "Addressing the team's defensive rebounding and transition struggles",
+      "names_mentioned": [],
+      "excerpt": "We weren't able to turn rebounds or steals into points like we need to against those guys.",
+      "quote": "They're always a good half-court defense. We weren't able to turn rebounds or steals into points like we need to against those guys. Didn't get enough offensive rebounds. They start there. Your half-court against those guys, they're good. That's a good defensive team. We didn't use the advantage of pick-and-roll to our best. We try to think it's just that one pick-and-roll, and sometimes it's maybe a pass that gets to another closeout, just to move them a little bit more than what we were able to do.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott says the Suns failed to turn rebounds or steals into points against a tough defensive team and need to move the ball better to create more closeout opportunities.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott analyzes the team's struggles with defensive rebounding and execution in the half-court offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:52",
+      "summary_phrase": "Team's lack of physicality and rebounding opportunities",
+      "names_mentioned": [],
+      "excerpt": "To disrupt you need to put your hands on them. We couldn't get our hands on them.",
+      "quote": "Our standards are different. The physicality they had, we normally have. To disrupt you need to put your hands on them. We couldn't get our hands on them because we were in closeouts. And again, credit to them, they move it. They had multiple guys out there that just pass to the open teammate. They were able to put us in closeouts, but still, we can guard the ball better at times.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott on the Suns defensive struggles: Our standards are different. The physicality they had we normally have. We need to do a better job of guarding the ball.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott addresses the team's lack of physicality and defensive performance in their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:36",
+      "summary_phrase": "Appreciation for the Phoenix basketball fan base knowledge",
+      "names_mentioned": [],
+      "excerpt": "We appreciate the basketball knowledge of this fan base and the city enjoyment of sports.",
+      "quote": "We appreciate the basketball knowledge of this fan base and the city enjoyment of sports and competition in general. I've been other places, it's not like that every place. You don't really feel it until you're there for a long extended period of time. So, we definitely felt it. We know that they enjoy our style of play, and it's up to us to go out and do it again.",
+      "text_blocks": [],
+      "start_seconds": 276,
+      "end_seconds": 303,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jordan Ott praises the Phoenix fan base and their basketball knowledge: I have been other places and it is not like that every place. We definitely felt it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott shares his appreciation for the Phoenix fan base and their basketball knowledge.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:14",
+      "summary_phrase": "Assessing Cam's readiness and role in the rotation",
+      "names_mentioned": [
+        "Cam"
+      ],
+      "excerpt": "He's going to have a handful of plays he wants back and he could do better.",
+      "quote": "That's the NBA. We talk about opportunity, being ready for your opportunity. You never know when it's going to come, and there'll be great reps. I think you look back at the film even the other night, he's going to have a handful of plays he wants back and he could do better, but there's also a lot of things that he brings with his size that we need. And now it'll probably be more of those possessions that we need because of our injuries.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says Cam will see more opportunities in the rotation due to current injuries and the team needs the size he brings to the floor.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Johnson"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses Cam Johnson's readiness and his increased role in the rotation due to team injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "07:11",
+      "summary_phrase": "Team response to the first game loss",
+      "names_mentioned": [],
+      "excerpt": "This group wants to be in the gym, so they were obviously in the gym.",
+      "quote": "This group wants to be in the gym, so they were obviously in the gym. It's one game. It's unfortunate it's the first game, so it sticks with you for sure. That's not who we are. We're all wired to that that feels uncomfortable, not happy about it. So acknowledge it, move on to the next one, just don't let it happen again. That's our approach.",
+      "text_blocks": [],
+      "start_seconds": 431,
+      "end_seconds": 456,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott on the team's response to the season opening loss: That is not who we are. We are all wired to where that feels uncomfortable and we are not happy about it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott describes the team's mindset and response following their loss in the first game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-Y6XXbRtz74",
+  "url": "https://www.youtube.com/watch?v=-Y6XXbRtz74",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-23T21:52:17Z",
+  "duration_seconds": 470,
+  "processed_at": "2026-10-23T23:08:21Z",
+  "run_id": "2026-10-23T2307Z-20utc",
+  "is_one_off": false
+}

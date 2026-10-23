@@ -1,0 +1,146 @@
+{
+  "video_title": "Dillon Brooks Practice Media Availability | 10-23-26",
+  "speakers_seen": [
+    "Dillon Brooks"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dillon Brooks",
+      "timestamp": "00:07",
+      "summary_phrase": "Dillon Brooks on the team's slow start against Portland",
+      "names_mentioned": [],
+      "excerpt": "just got to impose our will in the first six minutes of the game like that.",
+      "quote": "Something that we can't have throughout the season. I think for us, we just got to impose our will in the first six minutes of the game like that. A lot of balls didn't go our way, a lot of calls didn't go our way, which is part of it. But I think the way that Portland just used their force against us, and everything they were doing was just moving and clicking. I think for us, we just got a little stagnant and wasn't imposing our will like how we should. That's something that we talked about on film and broke it down, but it's something that we got to do for the rest of the season.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks says the team needs to do a better job of imposing their will early in games after a stagnant start against Portland. He noted the team has already reviewed the film to address the lack of force.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks discusses the team's slow start and lack of intensity in their recent game against Portland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dillon Brooks",
+      "timestamp": "00:42",
+      "summary_phrase": "Dillon Brooks on managing player injuries and team depth",
+      "names_mentioned": [
+        "Kennard",
+        "Luke"
+      ],
+      "excerpt": "it's just wishing them best but the next guys got to step up and play.",
+      "quote": "It's part of the game. You don't want to have it obviously with Kennard, Oso, and Luke, but it's part of the game, part of the season. It's just wishing them best but the next guys got to step up and play for those guys that are down. And just when your time gets called, be ready to go out and play.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Dillon Brooks addresses the injuries to Kennard, Oso, and Luke. He says it is part of the season and the next guys up have to be ready to step up when their time is called.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luke Kennard",
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Dillon Brooks addresses the injuries to teammates Luke Kennard and Oso Ighodaro and the need for other players to step up.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:17",
+      "summary_phrase": "Dillon Brooks on defensive struggles and rebounding issues",
+      "names_mentioned": [
+        "Clingan"
+      ],
+      "excerpt": "I think we didn't impose our will on ball. I felt like we weren't aggressive.",
+      "quote": "I just think we didn't impose our will on ball. I felt like we weren't aggressive as we should be. And then I think offensive rebounding was tough. I mean, give credit to Clingan, he's a great offensive rebounder, he's tall. But we could have done a better job helping, come on, getting bodies on them out. And then I think the biggest thing for that is just being able to compete all the time for 48 minutes.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks on the defensive struggles against Portland. He admits the team was not aggressive enough on the ball and failed to put bodies on Clingan to stop the offensive rebounding.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Clingan"
+        ],
+        "teams": [
+          "PHX",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks explains the team's defensive and rebounding struggles against Donovan Clingan and the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:46",
+      "summary_phrase": "Dillon Brooks on learning from early season adversity",
+      "names_mentioned": [],
+      "excerpt": "I'd rather have this now than have it late in the season where we're fighting for wins.",
+      "quote": "It's the first game. We have 81 of these left. It's a long season, we're going to have ups and downs. We didn't expect to have it this early in the season, but it's kind of a blessing to understand what we can't do. I'd rather have this now than have it late in the season where we're fighting for wins or trying to be in the playoffs. So I think it's a big thing for us to understand what went wrong, how do we combat this, and get ready to play Golden State.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dillon Brooks views the early season loss as a blessing in disguise. He says he would rather have these struggles now than late in the season while fighting for playoff positioning.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks reflects on the team's first loss of the season and looks ahead to their upcoming game against Golden State.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "v3u0pU87_44",
+  "url": "https://www.youtube.com/watch?v=v3u0pU87_44",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-23T21:49:05Z",
+  "duration_seconds": 172,
+  "processed_at": "2026-10-23T23:08:19Z",
+  "run_id": "2026-10-23T2307Z-20utc",
+  "is_one_off": false
+}
