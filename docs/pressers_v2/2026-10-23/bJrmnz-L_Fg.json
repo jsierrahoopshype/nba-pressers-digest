@@ -1,0 +1,289 @@
+{
+  "video_title": "Cavs at 76ers | Kenny Atkinson Post Game | 10.22.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:11",
+      "summary_phrase": "Kenny Atkinson on the 76ers' increased pressure and physicality",
+      "names_mentioned": [],
+      "excerpt": "they upped their pressure and physicality. It was pretty clear. We did not handle it well.",
+      "quote": "They upped their pressure and physicality. It was pretty clear. We did not handle it well. 15 turnovers. Then the possession game just tilts the other way and puts you in a hole.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the Cavs failed to handle the 76ers physicality and pressure tonight. He noted that the team struggled with 15 turnovers and ultimately said the culprit of the loss was their offense.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Head coach Kenny Atkinson discusses the team's struggles with the 76ers' defensive pressure and physicality during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:35",
+      "summary_phrase": "Kenny Atkinson on the team's resilience after the 76ers' run",
+      "names_mentioned": [
+        "Donovan"
+      ],
+      "excerpt": "they punched us and then I felt like we resisted in the third quarter.",
+      "quote": "They punched us and then I felt like we resisted in the third quarter. Had a little bit of a lead there and then again they kept coming at us, pressuring us, turning it over, but we stayed with it. Donovan has those two free throws, I think it cuts it to a one-possession game. Obviously we got to do a better job handling pressure.",
+      "verbatim_original_language": "",
+      "start_seconds": 35,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson on the Cavs resilience in a hostile road environment. He noted that while they struggled with pressure in the second half, the team stayed with it and gave themselves a chance to win late.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the team's resilience and Donovan Mitchell's free throws during a tough road game against the 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:11",
+      "summary_phrase": "Kenny Atkinson on the team's performance in a hostile environment",
+      "names_mentioned": [],
+      "excerpt": "on the road, hostile crowd, we gave ourselves a chance, despite what happened in the second half.",
+      "quote": "On the road, hostile crowd, we gave ourselves a chance, despite what happened in the second half, because it was really a tale of two halves. Completely different. You knew from the first 30 seconds of that second half that they upped their physicality and then upped their pressure. We were having trouble getting it in, getting it across half court.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson says the second half against Philadelphia felt like a playoff game. He believes facing this kind of adversity early in the season is a positive experience for his veteran team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson describes the contrast between the two halves of the game and the difficulty of playing in a hostile road environment.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:49",
+      "summary_phrase": "Kenny Atkinson blames offensive struggles for the loss",
+      "names_mentioned": [],
+      "excerpt": "I will not blame it on our defense. I think the culprit of this one was our offense.",
+      "quote": "I will not blame it on our defense. I think the culprit of this one was our offense and again, not being able to handle the pressure and physicality. When you start those live-ball turnovers, especially a team that is as fast as they are, so I will not blame it on our defense. I think the culprit of this one was our offense.",
+      "verbatim_original_language": "",
+      "start_seconds": 169,
+      "end_seconds": 194,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson on how to beat defensive pressure. He says the team tried to do too much individually instead of moving the ball. You cannot go into pressure, you have to go away from it.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson identifies the team's offensive struggles and inability to handle pressure as the primary reason for the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:25",
+      "summary_phrase": "Kenny Atkinson on the value of early season adversity",
+      "names_mentioned": [],
+      "excerpt": "these are great experiences. This is how you build character, how you build resilience.",
+      "quote": "These are great experiences. This is how you build character, how you build resilience. How you figure things out. So I look at it as a positive. We got a veteran team, we will bounce back and get ready for Brooklyn, but I look at these as great, when you have to face adversity like tonight, that second half is like a playoff game, playoff atmosphere.",
+      "verbatim_original_language": "",
+      "start_seconds": 205,
+      "end_seconds": 230,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson is impressed with Peyton Watson. He says Watson provides defensive playmaking and energy, and the team will figure out how he fits into the offense as they move forward.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson views the challenging road loss as a positive experience for building team character and resilience early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:18",
+      "summary_phrase": "Kenny Atkinson evaluates Evan Mobley's performance",
+      "names_mentioned": [
+        "Don",
+        "James"
+      ],
+      "excerpt": "he got us, we needed someone else to get a bucket. There were heavy denials on Don and James.",
+      "quote": "He got us, we needed someone else to get a bucket. There were heavy denials on Don and James and I thought he was good.",
+      "verbatim_original_language": "",
+      "start_seconds": 258,
+      "end_seconds": 268,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson on the Philly crowd. He says the atmosphere was like a game seven, noting that the fans went bonkers once the 76ers turned the game around in the second half.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Evan Mobley",
+          "Donovan Mitchell",
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson evaluates Evan Mobley's performance in a game where Donovan Mitchell and James Harden faced heavy defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:43",
+      "summary_phrase": "Kenny Atkinson on the need for better ball movement against pressure",
+      "names_mentioned": [
+        "Danny"
+      ],
+      "excerpt": "when teams pressure like that, that is the time you got to move it.",
+      "quote": "That is a great, Danny. Let's add that last piece. I am sure when I go back and see the tape because I felt it live, I felt like we tried to do it by ourselves. When teams pressure like that, that is the time you got to move it. Then you get them running around and chasing you. But if you try to beat them with the dribble, try to beat them with one-on-one basketball, that is just not the way to be a pressure. You cannot go into pressure, you got to go away from pressure.",
+      "verbatim_original_language": "",
+      "start_seconds": 283,
+      "end_seconds": 321,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains the need for better ball movement rather than individual play when facing intense defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:43",
+      "summary_phrase": "Kenny Atkinson praises Peyton Watson's defensive impact",
+      "names_mentioned": [
+        "Peyton"
+      ],
+      "excerpt": "he is so good. Even he had like two or three rim protections.",
+      "quote": "He is so good. Even he had like two or three rim protections. I think a block. He just gives you defensive playmaking. We will figure the offense out with him. We will figure where he fits, but his defensive mindset, his energy, how hard he plays, I am really, really impressed.",
+      "verbatim_original_language": "",
+      "start_seconds": 343,
+      "end_seconds": 363,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the defensive impact and energy brought by Peyton Watson during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:35",
+      "summary_phrase": "Kenny Atkinson on the 76ers' home-court atmosphere",
+      "names_mentioned": [
+        "Danny"
+      ],
+      "excerpt": "it was typical of Philly. They booed them in the first half and then when they turned it around.",
+      "quote": "I say this with a lot of respect, it was typical of Philly. They booed them in the first half and then when they turned it around, they went bonkers. I told Danny that was a like game seven atmosphere, which is great for our guys. First game of the year, you got to go through that, got to fight that adversity. Good experience for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 395,
+      "end_seconds": 420,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson describes the intense atmosphere of the Philadelphia crowd and its value as a learning experience for his players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "bJrmnz-L_Fg",
+  "url": "https://www.youtube.com/watch?v=bJrmnz-L_Fg",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-23T13:25:18Z",
+  "duration_seconds": 433,
+  "processed_at": "2026-10-23T18:17:47Z",
+  "run_id": "2026-10-23T1817Z-14utc",
+  "is_one_off": false
+}
