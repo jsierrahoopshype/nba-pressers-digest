@@ -1,0 +1,240 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 10.22.26",
+  "speakers_seen": [
+    "VJ Edgecombe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:20",
+      "summary_phrase": "VJ Edgecombe on the team's poor first-half performance",
+      "names_mentioned": [],
+      "excerpt": "We just know that was not us in that first half. Too many silly turnovers, careless turnovers.",
+      "quote": "We just know that was not us in that first half. Too many silly turnovers, careless turnovers, wasn't rebounding, wasn't playing defense for real. But like I say, we know that we're going to face a lot of adversity this year, and that was one of them, and it's all about how we respond. That was the main thing when we were in the locker room, how we're going to respond to being down 30 points, 29 points.",
+      "text_blocks": [],
+      "start_seconds": 20,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on the Sixers falling behind by 29 points in the first half: We just know that was not us. Too many silly turnovers, careless turnovers, wasn't rebounding, wasn't playing defense for real.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses the team's poor first-half performance and their need to respond to adversity after trailing by 30 points.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "01:23",
+      "summary_phrase": "VJ Edgecombe on the Philadelphia crowd's support during the comeback",
+      "names_mentioned": [],
+      "excerpt": "Shout out to them for not leaving after halftime, you know, after when you're down 25 points.",
+      "quote": "It was great. I'm going to be honest, I think that's the loudest I've ever heard. It was great. Shout out to them for not leaving after halftime, you know, after when you're down 25 points. So, that's big time, and I love how the fans supported us tonight and they helped us. They helped us win that game.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "VJ Edgecombe praised the Philadelphia crowd for staying through the halftime deficit: I think that is the loudest I have ever heard. Shout out to them for not leaving after halftime.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe praises the Philadelphia crowd for their support during the team's comeback victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "02:47",
+      "summary_phrase": "VJ Edgecombe on the team's need for more chemistry",
+      "names_mentioned": [],
+      "excerpt": "I think we need a little more time together for me to for us to point exactly.",
+      "quote": "To be honest, I need more time. I think we need a little more time together for me to for us to point exactly what the roles are. You know, I say we got a team full of great players, and anyone can go off at any given night. So, we all just going to buy in to what coaches have us doing, trust each other, share the rock, play with some fun, and I think like I say, the roles, to be honest, I don't know.",
+      "text_blocks": [],
+      "start_seconds": 167,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "VJ Edgecombe admits the Sixers are still figuring out their identity: I need more time. I think we need a little more time together for us to point exactly what the roles are.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "VJ Edgecombe explains that the team needs more time to establish specific roles and chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "03:40",
+      "summary_phrase": "VJ Edgecombe on the team's second-half offensive execution",
+      "names_mentioned": [
+        "Joel Embiid",
+        "Evan Mobley"
+      ],
+      "excerpt": "We were getting down, we were running, hitting Joel in the trailer.",
+      "quote": "I think we were great. Obviously first half, like I say, we just had a lot of turnovers that kind of slowed us down, slow down our pace. I don't know if you could see like in the second half our pace picked up. We were getting down, we were running, hitting Joel in the trailer. So, like I say, we obviously we're going to try to find mismatches as much as possible, but at the end of the day, I say we got a lot of great players that can do it all on the floor and I think I think we'll be good.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on the second half offensive surge: Our pace picked up. We were getting down, we were running, hitting Joel in the trailer. We obviously are going to try to find mismatches as much as possible.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses the team's improved offensive pace and execution in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "04:35",
+      "summary_phrase": "VJ Edgecombe on LeBron James' leadership and impact",
+      "names_mentioned": [
+        "LeBron James",
+        "JB",
+        "Reese",
+        "Joe",
+        "KCP"
+      ],
+      "excerpt": "He's a leader. He's been in a situation like that before.",
+      "quote": "He's a leader. He's been in a situation like that before. He was just vocal the whole time. He was vocal the whole time and he like I say, obviously he kind of willed us, you know, him, JB, Reese, Joe, you know, we just kind of willed each other, everyone kind of willed each other, KCP and we just tried to bona. I say we all made everyone came in and made some big plays. We just trying to will each other, just keep playing with confidence and we know if we get stops, we can score.",
+      "text_blocks": [],
+      "start_seconds": 275,
+      "end_seconds": 313,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on the veteran leadership during the comeback: LeBron was vocal the whole time and he kind of willed us. We just tried to will each other, just keep playing with confidence and we know if we get stops, we can score.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Jalen Brunson",
+          "Cam Reese",
+          "Joe Ingles",
+          "Kentavious Caldwell-Pope"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe highlights the leadership and contributions of his teammates during the comeback win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "06:37",
+      "summary_phrase": "VJ Edgecombe on Tyrese Maxey's defensive effort against James Harden",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "James Harden",
+        "Mitchell"
+      ],
+      "excerpt": "I was impressed. I was impressed. I didn't know he guard like that.",
+      "quote": "I was impressed. I was impressed. I didn't know he guard like that. He accepted the challenge and then he came down on the offensive and scored. Show a little bit of two-way. I don't know if he really a two-way though, but he played really great defense. Even when Harden came out, he came to me like, VJ, I got Mitchell. I'm like, all right, let's rock. Like, he acts he he wanted that challenge and he conquered that for sure.",
+      "text_blocks": [],
+      "start_seconds": 397,
+      "end_seconds": 429,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "VJ Edgecombe was impressed by Tyrese Maxey locking in on defense: I did not know he guard like that. He accepted the challenge and then he came down on the offensive end and scored. He wanted that challenge and he conquered that for sure.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey",
+          "James Harden",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe praises Tyrese Maxey for his defensive effort against James Harden and Donovan Mitchell.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "07:36",
+      "summary_phrase": "VJ Edgecombe on maintaining focus throughout the long season",
+      "names_mentioned": [],
+      "excerpt": "We don't want to fight back from down 29 every game.",
+      "quote": "We don't want to fight back from down 29 every game. We know we got to be better. Like I say, it's just game two of 82 and we got 80 more games to go, but we know it's one game at a time. You know, we not looking forward to All-Star break or end of the season, March, you know, we so focused on next game, Milwaukee, that it don't matter on any given night, any team can come any team can come out hot.",
+      "text_blocks": [],
+      "start_seconds": 456,
+      "end_seconds": 489,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on the team mindset after a comeback win: We do not want to fight back from down 29 every game. We know we have to be better. It is just game two of 82 and we have 80 more games to go.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe emphasizes the team's focus on the upcoming game against Milwaukee rather than the long-term schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "KvYLc8U4vrY",
+  "url": "https://www.youtube.com/watch?v=KvYLc8U4vrY",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-23T05:32:50Z",
+  "duration_seconds": 502,
+  "processed_at": "2026-10-23T11:40:39Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}

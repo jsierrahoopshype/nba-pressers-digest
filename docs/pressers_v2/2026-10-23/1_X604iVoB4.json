@@ -1,0 +1,285 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. OKC 🎙",
+  "speakers_seen": [
+    "Coach Adelman"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:08",
+      "summary_phrase": "Coach Adelman on the impact of turnovers and poor spacing",
+      "names_mentioned": [],
+      "excerpt": "we did not space well either for each other. I think sometimes we have a bad shooting night",
+      "quote": "Turnovers, obviously. We did not space well either for each other. I think sometimes we have a bad shooting night, the guys try to do things on their own instead of playing with the pass, and that leads to mistakes. The 21 points is not crazy off the 22, but that's what costs you in this game, especially a game where both teams had a really bad night offensively. It was going to come down to details, and the turnovers were a big deal because they shot 13 more field goal attempts.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman says the Nuggets loss to OKC came down to details and turnovers. He noted that when the team has a bad shooting night, players try to do too much on their own instead of playing with the pass.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's offensive struggles and high turnover count following a loss to the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:44",
+      "summary_phrase": "Coach Adelman on the impact of missing key shooters",
+      "names_mentioned": [
+        "Christian Braun",
+        "Julian Strawther"
+      ],
+      "excerpt": "if your best shooters aren't playing, obviously that's a big deal.",
+      "quote": "If your best shooters aren't playing, obviously that's a big deal. And obviously guys like Christian Braun and Julian Strawther are guys that we go to, but that's not an excuse to not make the extra pass. Over-dribbling leads to turnovers, leads to run-outs, and we only gave up 10 fast-break points. I thought the tagging up on the offensive rebound was why we stayed in the game with the 28 second-chance points, so it seemed like that was our only good offense tonight.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman on the Nuggets offensive struggles: If your best shooters aren't playing, that is a big deal. He emphasized that over-dribbling leads to turnovers and run-outs.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun",
+          "Julian Strawther"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Adelman addresses the impact of missing key shooters and the resulting offensive execution issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:27",
+      "summary_phrase": "Coach Adelman on Christian Braun's defensive effort",
+      "names_mentioned": [
+        "Christian Braun",
+        "Jamal Murray",
+        "Nikola Jokic"
+      ],
+      "excerpt": "Christian just sustained his effort throughout, just like Jamal and Nikola were throwing bodies at him as well.",
+      "quote": "Christian just sustained his effort throughout, just like Jamal and Nikola were throwing bodies at him as well. It was Christian's matchup. He did a good job. It was a night not for the stars, to be honest. Nobody had it going tonight on either side of the ball, and I thought our turnovers in the second half and then they finally made a few shots as opposed to us not making shots, they spread the lead out and the game seemed like it was over about five minutes to go.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman praised Christian Braun for his defensive effort against OKC, noting that it was a night where nobody on either side of the ball really had it going.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun",
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman praises Christian Braun's defensive effort and discusses the team's overall lack of offensive rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:04",
+      "summary_phrase": "Coach Adelman on the need for others to step up",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamal Murray"
+      ],
+      "excerpt": "the other guys have to step up. If there's that many bodies being brought to them",
+      "quote": "The other guys have to step up. If there's that many bodies being brought to them, the attention that they get, other people have to step up and make shots, and we trust these guys to do that. It doesn't matter who's out or who's in in the sense of trust. You have to let guys be themselves, and the open man wins in the NBA, especially against this team. If you turn down open shots, you drive it back into their defense, and this is the best defense in the league.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman says the Nuggets need others to step up when stars face heavy defensive attention. He stressed that the open man wins in the NBA and turning down open shots plays right into the hands of the league's best defenses.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Coach Adelman explains the need for role players to step up and take open shots against the Thunder defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:40",
+      "summary_phrase": "Coach Adelman on Aaron Gordon's impact and rotation challenges",
+      "names_mentioned": [
+        "Aaron Gordon"
+      ],
+      "excerpt": "Aaron was great. I thought we had the lead in the first half because of him.",
+      "quote": "Aaron was great. I thought we had the lead in the first half because of him. His shot looks so fluid again this year. He just allows us to play the way we want to play, and I'm trying my best here, we're pulling him in, pulling him out with the minutes stuff. It's hard for him to keep your rhythm when your coach is trying to keep your minutes at a certain place, but Aaron's impact is always huge, and we get all three of those guys playing well, we'll be fine.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman says Aaron Gordon's impact is huge, but admits it is hard for him to keep his rhythm while the team manages his minutes. He believes the team will be fine once their core players are all clicking.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Gordon"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses Aaron Gordon's performance and the difficulty of managing his minutes while maintaining rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Adelman",
+      "timestamp": "03:10",
+      "summary_phrase": "Coach Adelman on Tre Mann's performance",
+      "names_mentioned": [
+        "Tre Mann",
+        "Chet Holmgren"
+      ],
+      "excerpt": "Tre Mann did exactly what he's supposed to do. And I actually thought he turned down shots.",
+      "quote": "Tre Mann did exactly what he's supposed to do. And I actually thought he turned down shots. I'd love to see him shoot four or five threes a game. He's got a really nice release. His rebounding impact is enormous. He's just got special skills that contest in the corner on Chet was incredible. So we're going to need him, we're short-handed right now, and for a young kid to come in here, OKC, rookie year, first game, national TV, all that stuff, he didn't seem phased by it.",
+      "text_blocks": [],
+      "start_seconds": 190,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman was impressed by Tre Mann's poise on national TV, noting his rebounding impact is enormous. He wants to see Mann shoot more threes, saying he has a really nice release.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tre Mann",
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "DEN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Coach Adelman evaluates Tre Mann's performance and his defensive impact against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coach Adelman",
+      "timestamp": "03:43",
+      "summary_phrase": "Coach Adelman on Kentavious Caldwell-Pope's injury status",
+      "names_mentioned": [
+        "Kentavious Caldwell-Pope"
+      ],
+      "excerpt": "I don't know. I talked to Steve, I think he felt discomfort in a few ways",
+      "quote": "I don't know. I talked to Steve, I think he felt discomfort in a few ways with the ankle. It was too bad, because to your point, those guys have finally found a rhythm playing together, and now I was throwing lineups out there that literally had not played together even through training camp. That happens sometimes when you have injuries, but I think Kentavious Caldwell-Pope will be okay.",
+      "text_blocks": [],
+      "start_seconds": 223,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Coach Adelman provided an update on Kentavious Caldwell-Pope, who left the game with ankle discomfort. He says he believes KCP will be okay, but noted the team is currently forced to use lineups that have not played together.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kentavious Caldwell-Pope"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Adelman provides an update on Kentavious Caldwell-Pope's ankle injury and the resulting lineup adjustments.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Coach Adelman",
+      "timestamp": "04:06",
+      "summary_phrase": "Coach Adelman on the bench performance without Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Marvin Bagley III",
+        "DeRozan"
+      ],
+      "excerpt": "I just thought the defense really held up. Alpha out there, impacting the ball",
+      "quote": "I just thought the defense really held up. Alpha out there, impacting the ball, we just did it in a different way. I thought Marvin Bagley III ran the floor really well, and again, like I said, because another guy went out, we're going to have to keep changing the rotation a little bit. New guys will play with each other, and then DeRozan does what he does, he's 13 points. I was happy with those guys, especially them being with so many new people in a game like this.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman praised the Nuggets bench for their defensive effort against OKC, specifically highlighting Marvin Bagley III for running the floor well while the team navigates a shifting rotation due to injuries.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Marvin Bagley III",
+          "DeMar DeRozan"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses the bench unit's defensive performance and rotation changes in the absence of Nikola Jokic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "1_X604iVoB4",
+  "url": "https://www.youtube.com/watch?v=1_X604iVoB4",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-10-23T05:04:57Z",
+  "duration_seconds": 291,
+  "processed_at": "2026-10-23T11:40:43Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}

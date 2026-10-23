@@ -1,0 +1,240 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 10.22.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:05",
+      "summary_phrase": "Tyrese Maxey's growth in confidence and maturity",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "he seemed to take a level of confidence or maturity jump",
+      "quote": "Tyrese Maxey has been very impressive. I think the big thing is he seemed to take a level of confidence or maturity jump. It just felt like he feels so sure of what he can do, which is a big step. The way he is approaching things and the way he feels out there on the court, and again, the biggest thing is the growth over the couple years has been really noticeable on the offensive end, but it is equally as much on the defensive end. He is out there battling, and especially when it is time to really knuckle down and get a stop, he is out there really playing.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse on Tyrese Maxey's development: The growth is noticeable on the offensive end, but it is equally as much on the defensive end. He is out there battling, and especially when it is time to really knuckle down and get a stop.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the growth and maturity of Tyrese Maxey during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:23",
+      "summary_phrase": "Second half defensive adjustments and transition offense",
+      "names_mentioned": [],
+      "excerpt": "we get some stops, gives us a chance to move",
+      "quote": "That was part of one of our problems in the first half. Everything we were doing was along the perimeter. We get some stops, gives us a chance to move. The defense wasn't set and moving while we were able to do that. I was asking everybody to crack the paint in the first half and we just couldn't click on to that, but they obviously did the second and they obviously benefited by the defensive part of it too.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on the Sixers' first-half struggles: I was asking everybody to crack the paint in the first half and we just couldn't click on to that, but they obviously did the second and they obviously benefited by the defensive part of it too.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse explains the defensive adjustments made to improve transition offense during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:50",
+      "summary_phrase": "Jaylen Brown's physical impact and rebounding",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "we need the physicality and he is a very physical player",
+      "quote": "Jaylen Brown was physically for him making those kind of plays we desperately need that. Just get the ball, use your physicality to get yourself to your spot and score. Crashing into some people on rebounds down at the other end and coming away with them and all that kind of stuff is we need the physicality and he is a very physical player. We need him to provide that. It was really on display there especially for that run.",
+      "text_blocks": [],
+      "start_seconds": 290,
+      "end_seconds": 321,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse praises Jaylen Brown's physicality: We desperately need that. Just get the ball, use your physicality to get yourself to your spot and score. Crashing into some people on rebounds down at the other end and coming away with them.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse highlights the physical impact and rebounding contributions of Jaylen Brown.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "05:33",
+      "summary_phrase": "Jaylen Brown's defensive impact on game flow",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "James"
+      ],
+      "excerpt": "he came out and he totally changed the game",
+      "quote": "He came out and he totally changed the game. He is out there doing that and the rest of the guys are in the back watching and then all of a sudden they start saying I am in, I will be in on this too. He provides not only the physical effort to start it but just a spark that got everybody emotionally going.",
+      "text_blocks": [],
+      "start_seconds": 333,
+      "end_seconds": 358,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on Jaylen Brown's impact: He came out and he totally changed the game. He provides not only the physical effort to start it but just a spark that got everybody emotionally going.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse describes how Jaylen Brown provided an emotional spark to the team through his defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "08:25",
+      "summary_phrase": "Jaylen Brown's hustle on loose balls and rebounds",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "Joe"
+      ],
+      "excerpt": "there is some rebounds or loose balls and he is coming away with a lot of that stuff",
+      "quote": "There is some rebounds or loose balls and he is coming away with a lot of that stuff. It is down there and you are wondering who is going to get it and all of a sudden Joe is ripping it out there and going up the side with it and there we go. It seemed like there was about seven of those where it could have been anybody's ball down there and he is coming away with it.",
+      "text_blocks": [],
+      "start_seconds": 505,
+      "end_seconds": 535,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse on Jaylen Brown's hustle: There is some rebounds or loose balls and he is coming away with a lot of that stuff. It seemed like there was about seven of those where it could have been anybody's ball and he is coming away with it.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse praises Jaylen Brown for his hustle on loose balls and contested rebounds.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Nurse",
+      "timestamp": "09:52",
+      "summary_phrase": "Adjusting to mid pick-and-roll coverage",
+      "names_mentioned": [],
+      "excerpt": "we were having a lot of trouble with the mid pick-and-roll coverage",
+      "quote": "We were having a lot of trouble with the mid pick-and-roll coverage. So we were trying to do whatever we had to do to make them do something other than that. It is tough. You got two big strong skilled guards coming down the lane with two big rollers at the rim. It is not easy. So we just wanted to do whatever we needed to do match-up wise to try to maneuver that a little bit differently.",
+      "text_blocks": [],
+      "start_seconds": 592,
+      "end_seconds": 622,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse on defensive adjustments: We were having a lot of trouble with the mid pick-and-roll coverage. We just wanted to do whatever we needed to do match-up wise to try to maneuver that a little bit differently.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse explains the team's tactical adjustments to defend the opponent's mid pick-and-roll coverage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Nurse",
+      "timestamp": "10:44",
+      "summary_phrase": "Managing rotation targets for LeBron and Joel",
+      "names_mentioned": [
+        "LeBron",
+        "Joel"
+      ],
+      "excerpt": "we hit our targets almost exactly with LeBron and Joel",
+      "quote": "We hit our targets almost exactly with LeBron and Joel. So I think that is consider that a small W. Obviously Tyrese gets up there a little bit, we like to get that down and Jaylen 37, maybe one and a half minutes more than we want to do. So pretty happy with it and I thought that the group when both LeBron and Joel went out, that group played awesome.",
+      "text_blocks": [],
+      "start_seconds": 644,
+      "end_seconds": 671,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse on managing player minutes: We hit our targets almost exactly with LeBron and Joel. So I think that is consider that a small W. I thought that the group when both LeBron and Joel went out, that group played awesome.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James",
+          "Joel Embiid",
+          "Tyrese Maxey",
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse evaluates the team's success in managing player rotation minutes for key players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "g-iriObBTUk",
+  "url": "https://www.youtube.com/watch?v=g-iriObBTUk",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-23T04:42:21Z",
+  "duration_seconds": 716,
+  "processed_at": "2026-10-23T11:40:56Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,272 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Tyrese Maxey | 10.22.26",
+  "speakers_seen": [
+    "Tyrese Maxey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "00:09",
+      "summary_phrase": "Tyrese Maxey on the 76ers' second-half turnaround against the Pacers",
+      "names_mentioned": [],
+      "excerpt": "You stop turning the ball over, play tougher. They were just way, way, way tougher than us first half.",
+      "quote": "You stop turning the ball over, play tougher. They were just way, way, way tougher than us first half. Took the ball from us, they were just punking us honestly, and we did a good job of playing better the second half.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyrese Maxey on the 76ers second half turnaround against the Pacers: They were just way, way, way tougher than us first half. Took the ball from us, they were just punking us honestly, and we did a good job of playing better the second half.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey discusses the 76ers' second-half turnaround after being outplayed by the Pacers in the first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "00:27",
+      "summary_phrase": "Tyrese Maxey on the team's competitive nature and resilience",
+      "names_mentioned": [],
+      "excerpt": "This is a very competitive group. My only message that I had, I said, 'Well, it's time to see what we made of.'",
+      "quote": "It was definitely disappointing our performance, disappointing that we turned the ball over, disappointing that we give up layups and dunks. I think I said it last game, this is a very competitive group. My only message that I had, I said, 'Well, it's time to see what we made of.' We're going to be some front-runners and give in and only be happy when stuff is good, or when stuff is bad, we're going to fight and be resilient. We did that.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Maxey on the 76ers competitive nature: My only message that I had, I said, Well, it is time to see what we made of. We are going to be some front-runners and give in or when stuff is bad, we are going to fight and be resilient.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey reflects on the team's competitive nature and their response to a disappointing performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "01:23",
+      "summary_phrase": "Tyrese Maxey on defending LeBron James in the fourth quarter",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He was just orchestrating, man. He was orchestrating the offense and I just felt like I needed it.",
+      "quote": "He was just orchestrating, man. He was orchestrating the offense and I just felt like I needed it. We needed it. We need that spark and we did a good job of it and it kind of went out when our way for it.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Maxey on defending LeBron James in the fourth quarter: He was just orchestrating, man. He was orchestrating the offense and I just felt like I needed it. We needed it. We need that spark.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey describes the challenge of defending LeBron James during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "02:08",
+      "summary_phrase": "Tyrese Maxey on the team's focus on winning loose balls",
+      "names_mentioned": [],
+      "excerpt": "The names don't matter. We all trying to win. So we see a loose ball on the floor, it's first one to it.",
+      "quote": "The names don't matter. We all trying to win. So we see a loose ball on the floor, it's first one to it. We did a couple drills in training camp that kind of led to that, and I think it kind of carried over to the first two games of the season.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyrese Maxey on the 76ers focus on loose balls: The names don't matter. We all trying to win. So we see a loose ball on the floor, it is first one to it.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey explains the team's focus on hustle plays and loose balls following training camp drills.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "02:28",
+      "summary_phrase": "Tyrese Maxey on the versatility and impact of Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He brings a just a different dynamic for our team, offensively and defensively.",
+      "quote": "He brings a just a different dynamic for our team, offensively and defensively. It's a wrinkle that we could throw in there at any given moment. He can guard bigs, he can guard guards. Like tonight, I told him, 'Listen, I'm going to guard James, but third and fourth quarter, early on, I need you to score the ball, like be really aggressive.' And he did that, and that's easy for him, that's what he does.",
+      "text_blocks": [],
+      "start_seconds": 148,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tyrese Maxey on Joel Embiid: He brings a different dynamic for our team, offensively and defensively. It is a wrinkle that we could throw in there at any given moment. He can guard bigs, he can guard guards.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid",
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey discusses the versatility Joel Embiid brings to the team and their interaction during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "03:04",
+      "summary_phrase": "Tyrese Maxey on his communication and chemistry with Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He's played a lot of basketball. So he's seen a lot of scenarios.",
+      "quote": "He's played a lot of basketball. So he's seen a lot of scenarios. So it's like I always will go up to him and ask him what he sees, or he'll ask me what I see, and we just kind of piggyback off of each other, trying to lead our lead this group and be kind of like quarterbacks out there on the on the court.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Maxey on his chemistry with Joel Embiid: I always will go up to him and ask him what he sees, or he will ask me what I see, and we just kind of piggyback off of each other, trying to lead this group.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey talks about the communication and chemistry he shares with Joel Embiid on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "04:23",
+      "summary_phrase": "Tyrese Maxey on the team's unselfishness and aggressive play",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "The biggest thing is we've been unselfish. Sometimes too unselfish.",
+      "quote": "The biggest thing is we've been unselfish. Sometimes too unselfish. And we talked to each other about that, like Joel has been on everybody about just playing your games. But it's a good thing. It's a good thing. Like we're okay with I hate saying we're okay with some of those turnovers, because then it costs us in the first half, and then we were all just extremely aggressive in the in the second half, looking for our shot, looking for each other's shot, and that's good for us.",
+      "text_blocks": [],
+      "start_seconds": 263,
+      "end_seconds": 297,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Maxey on the 76ers playing style: The biggest thing is we have been unselfish. Sometimes too unselfish. We were all just extremely aggressive in the second half, looking for our shot, looking for each other's shot.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey addresses the team's balance between being unselfish and playing aggressively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "05:08",
+      "summary_phrase": "Tyrese Maxey on the team's competitive culture and lack of egos",
+      "names_mentioned": [
+        "LeBron James",
+        "Joel Embiid",
+        "Kentavious Caldwell-Pope"
+      ],
+      "excerpt": "It's a lot of competitive guys in here. We don't have big-time names on the back of the jerseys.",
+      "quote": "It's a lot of competitive guys in here. We don't have big-time names on the back of the jerseys, but not like big-time egos when it comes to competing. So it's like, you know, you say something like that, Joel will say something, and we all take it with a grain of salt because at the end of the day, LeBron not telling you something, he's the greatest of all times, or he tell you something that that you ain't trying to hear, or Joe, or Joel, or myself, or you know, Kentavious Caldwell-Pope, Dean, like all these guys have been competitive and play at a high level. So we just respect each other and we go out there and try to compete with each other.",
+      "text_blocks": [],
+      "start_seconds": 308,
+      "end_seconds": 356,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Maxey on the 76ers locker room culture: We don't have big-time names on the back of the jerseys, but not like big-time egos when it comes to competing. We just respect each other and we go out there and try to compete.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid",
+          "LeBron James",
+          "Kentavious Caldwell-Pope"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey discusses the competitive culture and lack of egos among his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "1wCCujf3L20",
+  "url": "https://www.youtube.com/watch?v=1wCCujf3L20",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-23T05:34:17Z",
+  "duration_seconds": 395,
+  "processed_at": "2026-10-23T11:40:27Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}

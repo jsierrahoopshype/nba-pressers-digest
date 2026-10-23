@@ -1,0 +1,172 @@
+{
+  "video_title": "Jalen Williams Checks In Post-Dub | Postgame Media | October 22, 2026",
+  "speakers_seen": [
+    "Jalen Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Williams",
+      "timestamp": "00:15",
+      "summary_phrase": "Jalen Williams on the team's defensive intensity and rebounding",
+      "names_mentioned": [],
+      "excerpt": "scheme wise we were doing a really good job, we just weren't rebounding well.",
+      "quote": "I thought we were good all night, even the beginning of the game. I think halftime was 44-48 or something like that, we were down four. But scheme wise we were doing a really good job, we just weren't rebounding well. Once that kicked in, it got a little bit of energy into the game and then that's when turnovers and stuff started happening. You know, first home game too, so the crowd is really involved, so that gives you a little more juice.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Williams credits the Thunder defensive scheme for their success against the Nuggets, noting that rebounding was the key to unlocking their transition game and energy.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams discusses the team's defensive intensity and rebounding performance during their first home game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Williams",
+      "timestamp": "00:52",
+      "summary_phrase": "Jalen Williams on the chemistry with Chet Holmgren and Jalen Williams",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "it's a beautiful thing to have him, a die in there, heart, J-Will, those guys that make plays",
+      "quote": "It starts with Chet. I feel like it was a broken play or something happened, but just scrambling around, it's a beautiful thing to have him, a die in there, heart, J-Will, those guys that make plays at the rim. So Chet made a good play and then once Cason Wallace cut across the court I knew he was about to throw it, and he threw a good pass.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jalen Williams highlights the chemistry with Chet Holmgren and Cason Wallace, calling it a beautiful thing to have teammates who make high-level plays at the rim.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren",
+          "Jaylin Williams",
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Williams describes the chemistry and defensive effort of his teammates during a scramble play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Williams",
+      "timestamp": "01:26",
+      "summary_phrase": "Jalen Williams on Shai Gilgeous-Alexander's decision-making",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "he's a smart man. The last minute of the game, it's probably only bad stuff can happen.",
+      "quote": "He's a smart man. The last minute of the game, it's probably only bad stuff can happen with that. So I think it just speaks to how well he can keep stuff in perspective. He walked in the locker room and he said, 'I'll just restart.' So there you go. He said I got 80 games left, what he said. So, yeah.",
+      "verbatim_original_language": "",
+      "start_seconds": 86,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander is keeping things in perspective after a tough night, telling teammates he will just restart because he has 80 games left to play.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams reflects on Shai Gilgeous-Alexander's mindset and decision-making following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Williams",
+      "timestamp": "02:00",
+      "summary_phrase": "Jalen Williams on the difficulty of maintaining high-level scoring consistency",
+      "names_mentioned": [],
+      "excerpt": "it's extremely difficult, that's why there's only one person that's done it.",
+      "quote": "It's extremely difficult, that's why there's only one person that's done it. I think honestly, if you don't play basketball, you probably don't even realize how crazy that is. People in video games don't do that. So as somebody that had 20 tonight, to know what it took to do that and then to do that for 141 games, it's very impressive. That one will be untouched for a while.",
+      "verbatim_original_language": "",
+      "start_seconds": 120,
+      "end_seconds": 147,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jalen Williams says the scoring consistency required to match Shai Gilgeous-Alexander is extremely difficult, adding that the streak will likely be untouched for a while.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams comments on the difficulty of maintaining high-level scoring consistency in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Williams",
+      "timestamp": "02:51",
+      "summary_phrase": "Jalen Williams on his role and playing off Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "my role doesn't really change, I kind of do a little bit of everything.",
+      "quote": "For me it's not really an adjustment. I grew up playing the one, I was at college playing the one. When I got here everything else was new, so I'm just back to doing what I normally do. But my role doesn't really change, I kind of do a little bit of everything. It makes his job easier. I think what we learned in the Indiana series was just him having to bring the ball up the whole game is exhausting. He exerts himself on defense too, he's in the right spots, he's playing defense, so with him bringing up the ball and fighting pressure and then having to try and score off the first action, it's just a lot. So having him off the ball, I think it opens up a lot of gaps because teams don't want to leave him, and at the same time he's good at reading it.",
+      "verbatim_original_language": "",
+      "start_seconds": 171,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jalen Williams explains the shift in playing off the ball to help Shai Gilgeous-Alexander, noting that bringing the ball up the court all game is exhausting for a primary scorer.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Williams explains his role and the benefits of playing off the ball to help Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ejXanIBlO0s",
+  "url": "https://www.youtube.com/watch?v=ejXanIBlO0s",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-23T05:50:34Z",
+  "duration_seconds": 298,
+  "processed_at": "2026-10-23T11:40:09Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}

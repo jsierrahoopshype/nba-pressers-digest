@@ -1,0 +1,290 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Joel Embiid | 10.22.26",
+  "speakers_seen": [
+    "Joel Embiid"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joel Embiid",
+      "timestamp": "00:03",
+      "summary_phrase": "Joel Embiid on the 76ers' second-half turnaround against the opponent",
+      "names_mentioned": [],
+      "excerpt": "we just figured out, you know. And then they were also hot, you know, from everywhere",
+      "quote": "Not turning the ball over in the first half. We had, I think, 15 of them. So, yeah, we just figured out, you know. And then they were also hot, you know, from everywhere in the first half and, you know, we played better defense and we were able to get in transition, get a few baskets, and yeah, that's what prompted the run.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Joel Embiid on the 76ers second half turnaround against the opponent: We just figured out that we needed to stop turning the ball over and play better defense to get in transition.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid explains the reasons behind the 76ers' second-half turnaround during a postgame media session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joel Embiid",
+      "timestamp": "01:28",
+      "summary_phrase": "Joel Embiid on finding his rhythm and chemistry with James Harden",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "still trying to figure out my spots. It almost feels like, you know, I haven't been healthy",
+      "quote": "Just rhythm. I think first game, a little off. First half today, you know, just still trying to figure out my spots. It almost feels like, you know, I haven't been healthy so long that I forgot how to play basketball, and, you know, where I'm extremely successful on the floor. So, still getting back and, you know, trying to find that rhythm. And, you know, by the second half, got to my spot, made a few shots. And, yeah, from there. And as far as the other thing, yeah, me and James are great. We talked all night.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Joel Embiid on his chemistry with James Harden: Me and James are great. We talked all night.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid discusses his efforts to regain his rhythm and his relationship with teammate James Harden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joel Embiid",
+      "timestamp": "02:36",
+      "summary_phrase": "Joel Embiid on the 76ers' ability to overcome adversity and win",
+      "names_mentioned": [],
+      "excerpt": "we got the talent, you know. I would like for us to not be in that position",
+      "quote": "No, that hasn't happened. No, you know, she's to anybody that's been here. But in the past, a lot of people would have just laid down and trying to move on to the next one. But yeah, I think, yeah, we got the talent, you know. I would like for us to not be in that position again in first place, so we don't have to do it, you know, every night, because that takes a lot of energy.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Joel Embiid says the 76ers have the talent to overcome adversity but admits he would like for the team to not be in a position where they have to fight back every single night.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid reflects on the team's ability to overcome deficits and avoid falling behind in games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joel Embiid",
+      "timestamp": "04:00",
+      "summary_phrase": "Joel Embiid on Tyrese Maxey's growth as a two-way player",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "what does it mean to you to see Tyrese really kind of take that next step",
+      "quote": "It's been great. Obviously, when you look at our team, we got a bunch of 6-6, 6-7 guys, you know, as far as the height. And Tyrese is kind of like the small guy out there, and usually those guys get picked, you know, consistently. And to have, you know, to look at our team and be like, who you going to pick on? There's nobody. And he's sticking our lip, he's sticking our step. A job that he did today picking up full court, I mean, credit, you know, to him. He's, you know, every single year it's been like that. He's getting better.",
+      "text_blocks": [],
+      "start_seconds": 240,
+      "end_seconds": 280,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Joel Embiid praises Tyrese Maxey for his defensive growth: When you look at our team, who you going to pick on? There is nobody. He is sticking our lip, he is sticking our step.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid praises Tyrese Maxey for his defensive effort and growth as a player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joel Embiid",
+      "timestamp": "06:03",
+      "summary_phrase": "Joel Embiid on the importance of veteran leadership during halftime adjustments",
+      "names_mentioned": [],
+      "excerpt": "that's a good thing about having a veteran team, you know, you just understand how the game",
+      "quote": "We didn't really talk about a lot of halftime. We just we just knew what we had to do. Taking care of the ball, that was one. And two, just be a little bit more aggressive on defense. And that's what we did. So, you know, that's a good thing about having a veteran team, you know, you just understand how the game is going and what you have to do, and you go from there.",
+      "text_blocks": [],
+      "start_seconds": 363,
+      "end_seconds": 392,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Joel Embiid credits the 76ers veteran team for their ability to understand what needs to be done during halftime adjustments.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid highlights the importance of veteran leadership in making halftime adjustments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joel Embiid",
+      "timestamp": "06:58",
+      "summary_phrase": "Joel Embiid on his ongoing progress with rebounding and positioning",
+      "names_mentioned": [],
+      "excerpt": "I feel like I just forgot the feel of like rebounding and positioning",
+      "quote": "I don't know. I think it's still a work in progress. One thing that I feel like I lost, you know, last, you know, three years that I haven't been healthy is like the, you know, I feel like I just forgot the feel of like rebounding and positioning. So that's something that I'm working on to, you know, it goes back to everything really, basketball related for me. Missing so much time that it's taking me a while to kind of, you know, put myself out there and be like, okay, this is what you know, this is what you do and this is what you used to doing and get comfortable and get back to it.",
+      "text_blocks": [],
+      "start_seconds": 418,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Joel Embiid admits he is still working to regain his feel for rebounding and positioning after missing so much time due to injury.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Joel Embiid discusses his ongoing process of regaining his feel for rebounding and positioning after missing time due to injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Joel Embiid",
+      "timestamp": "09:33",
+      "summary_phrase": "Joel Embiid on his status for the upcoming back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "I'm not playing both games. I'm playing one of them. I don't know. They're going to tell me",
+      "quote": "I'm not playing both games. I'm playing one of them. I don't know. They're going to tell me. So, yeah, but, yeah, feel good. So, whatever they tell me, I do it. And then, if I don't agree with it, I might fight it, but I might not win. So, yeah, I kind of give them the freedom to do whatever they wanted.",
+      "text_blocks": [],
+      "start_seconds": 573,
+      "end_seconds": 597,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Joel Embiid confirms his status for upcoming back-to-back games: I am not playing both games. I am playing one of them.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Joel Embiid confirms he will not play in both games of the upcoming back-to-back set.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Joel Embiid",
+      "timestamp": "10:06",
+      "summary_phrase": "Joel Embiid on Tyrese Maxey's development and potential",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I told him before the season, I think he should be a 50-40-90 guy",
+      "quote": "No, I just who he is. He's done it at least the last two or three years. He's taking a leap every single year. I told him before the season, I think he should be a 50-40-90 guy. So, not impressed. I see the work that he's put in all these years, and I will take the credit and say that I was the first one that saw it in him. So, yeah, I'm not impressed. That's what he does. That's what he puts the work in and he shows up and, you know, he does it.",
+      "text_blocks": [],
+      "start_seconds": 606,
+      "end_seconds": 643,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Joel Embiid on Tyrese Maxey: I told him before the season I think he should be a 50-40-90 guy. I am not impressed because I see the work he puts in.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid discusses the consistent development of Tyrese Maxey and his high expectations for his teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Joel Embiid",
+      "timestamp": "11:06",
+      "summary_phrase": "Joel Embiid on Tyrese Maxey's leadership potential for the 76ers",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "from the moment that he's worked in here, I just felt like, like I you know I said",
+      "quote": "Veej has been great. I kind of put it on him a little bit, you know, early on this summer and, you know, I talked to him and I had a conversation and I told him I was like, I know we have a bunch of new guys coming in, veteran guys, but, you know, from the moment that he's worked in here, I just felt like, like I you know I said last year, you know, he's the future of this team. And and then he has all the qualities to be a leader and, you know, and but it starts now. It doesn't matter who's around and I all of us saw I feel like that's something that he can do and he's been doing a great job just being vocal and getting guys together.",
+      "text_blocks": [],
+      "start_seconds": 666,
+      "end_seconds": 719,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Joel Embiid on Tyrese Maxey: He is the future of this team. He has all the qualities to be a leader and it starts now.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid talks about encouraging Tyrese Maxey to step into a leadership role for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "c9vyUi71B1U",
+  "url": "https://www.youtube.com/watch?v=c9vyUi71B1U",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-23T05:31:20Z",
+  "duration_seconds": 732,
+  "processed_at": "2026-10-23T11:40:46Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}

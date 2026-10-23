@@ -1,0 +1,214 @@
+{
+  "video_title": "Shai Gilgeous-Alexander on Home Opener Win | Postgame Media | October 22, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:17",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's defensive identity and disruption",
+      "names_mentioned": [],
+      "excerpt": "Part of who we are as a group, as a unit, is disruption, getting into the ball.",
+      "quote": "Part of who we are as a group, as a unit, is disruption, getting into the ball, trying to take players and teams out of their comfort zone. Obviously in the last few years we've seen that group quite a time in their action, so it's a little bit of familiarity as well. Obviously tonight shots weren't falling for us, there's no secret, and we knew going into halftime that if we wanted to win this game it was going to have to be on that end, and we did so.",
+      "verbatim_original_language": "",
+      "start_seconds": 17,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder identity is built on disruption and taking teams out of their comfort zone. Even when shots are not falling, he says the team knows winning has to happen on the defensive end.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the team's defensive identity and their ability to win despite poor shooting during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:09",
+      "summary_phrase": "Shai Gilgeous-Alexander on his decision to sub himself out",
+      "names_mentioned": [],
+      "excerpt": "I was going to go out there, and then I saw that they had subbed, so I was just like we should sub too.",
+      "quote": "I was going to go out there, and then I saw that they had subbed, so I was just like we should sub too. I feel like you always treat the game with respect. God willing I have many more games to start another streak, so it's not the end of the world.",
+      "verbatim_original_language": "",
+      "start_seconds": 69,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander on subbing himself out of the game. He says you have to treat the game with respect and that he is not worried about his streak ending because God willing he has many more games to start another one.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains his decision to sub himself out of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:24",
+      "summary_phrase": "Shai Gilgeous-Alexander on his defensive effort and career blocks",
+      "names_mentioned": [
+        "John Wall"
+      ],
+      "excerpt": "I think those things just come when you just get wound up in the game and you attack on both ends.",
+      "quote": "I think those things just come when you just get wound up in the game and you attack on both ends and try to be the best player you can be. Obviously I've been able to play a lot of minutes in my career so far, so I've gotten an opportunity to go out there and do so and chase these things and achieve these things. So just the same as every other record, it's cool, but it comes with when you approach it the right way.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on his defensive milestones. He says chasing records is cool but it only happens when you approach the game the right way and play hard on both ends.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander reflects on his defensive effort and achieving career milestones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "03:15",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's defensive culture and mindset",
+      "names_mentioned": [],
+      "excerpt": "We want to win. It's nothing more, nothing less than that.",
+      "quote": "We want to win. It's nothing more, nothing less than that. We want to win, and the better we are on that end of the floor, the better our chances, and we all know that. We are coming into the building every day with that mindset, and we wear that every day.",
+      "verbatim_original_language": "",
+      "start_seconds": 195,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder come into the building every day with a winning mindset. He believes the better they are on the defensive end, the better their chances of winning.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander describes the team's defensive culture and winning mindset.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "03:45",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's offensive diversity",
+      "names_mentioned": [],
+      "excerpt": "We've emphasized that as a group, try to be a little bit more diverse.",
+      "quote": "We've emphasized that as a group, try to be a little bit more diverse. We have a ton of runway to continue to do so and try to get better at that and get better as a group offensively.",
+      "verbatim_original_language": "",
+      "start_seconds": 225,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder have emphasized being more diverse offensively this season and believes the team still has a ton of runway to get better in that area.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the team's emphasis on offensive diversity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:21",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's ability to win despite poor shooting",
+      "names_mentioned": [],
+      "excerpt": "We knew we were capable of winning games when we don't make shots.",
+      "quote": "We didn't surprise ourselves tonight. We've won like this before. We knew we were capable of winning this game. We know we're capable of winning games when we don't make shots. So tonight was just another night, and it was a different challenge and we had to go attack the challenge and get a dub and we did so.",
+      "verbatim_original_language": "",
+      "start_seconds": 261,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder were not surprised by their win despite poor shooting. He notes that the team knows they are capable of winning games even when shots are not falling.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains that the team was not surprised by their ability to win despite poor shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:56",
+      "summary_phrase": "Shai Gilgeous-Alexander on the impact of having Dub back",
+      "names_mentioned": [],
+      "excerpt": "Having a guy like that that could just go get four points in 20 seconds is game changing.",
+      "quote": "He was great. Even last game, he wasn't great all night, but there was a certain period of time where he had like two layups in a row and it kind of settled things. Having a guy like that that could just go get four points in 20 seconds is game changing, especially late in the games and against the better teams. Tonight he was what felt like the only guy going all night. He's going to continue to get back to himself and get better and better with each game like the rest of us. We're all just lucky to have a guy like that out there with us.",
+      "verbatim_original_language": "",
+      "start_seconds": 296,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Shai Gilgeous-Alexander praises Jalen Williams for his impact on the floor. He says having a guy who can go get four points in 20 seconds is game changing and that the team is lucky to have him.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander praises Jalen Williams for his impact on the game and his return to form.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "kvP7YclxHxw",
+  "url": "https://www.youtube.com/watch?v=kvP7YclxHxw",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-23T05:40:01Z",
+  "duration_seconds": 333,
+  "processed_at": "2026-10-23T11:40:22Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}

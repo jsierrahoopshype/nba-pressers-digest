@@ -1,0 +1,282 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Jaylen Brown | 10.22.26",
+  "speakers_seen": [
+    "Jaylen Brown"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaylen Brown",
+      "timestamp": "00:13",
+      "summary_phrase": "Jaylen Brown on the team's slow start and need for resilience",
+      "names_mentioned": [],
+      "excerpt": "I think that was outplaying us in the first half. We were watching the game too much.",
+      "quote": "We just need to play harder. I think that was outplaying us in the first half. We were watching the game too much, looking around, waiting for somebody else to do it. We just had to hit first. We came out, and I think that was just a testament of our resiliency of this group, so it's a good sign, but we got a lot of work on.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaylen Brown on the Sixers slow start against the Celtics. We were watching the game too much waiting for somebody else to do it. We just had to hit first.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown discusses the team's slow start and the need for greater resilience during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaylen Brown",
+      "timestamp": "00:36",
+      "summary_phrase": "Jaylen Brown on his evolving role and building trust with teammates",
+      "names_mentioned": [],
+      "excerpt": "I'm still figuring it out. It's going to take some time, just trying to earn trust.",
+      "quote": "I'm still figuring it out. It's going to take some time, just trying to earn trust from my teammates, earn trust from my coaching staff in those moments, and continue to build up. I feel like I'm one of the most, you know, I feel like I can make plays for my team. I'm a winning player, so whatever it takes for us to win, that's what I'm willing to do.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylen Brown on his role with the Sixers. I am still figuring it out. It is going to take some time just trying to earn trust from my teammates and coaching staff.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Brown reflects on his evolving role and the process of building trust with his new teammates and coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaylen Brown",
+      "timestamp": "01:04",
+      "summary_phrase": "Jaylen Brown on responding to adversity after a 30-point deficit",
+      "names_mentioned": [],
+      "excerpt": "It's a great opportunity for us to respond to adversity. There's going to be ups and downs.",
+      "quote": "It's a great opportunity for us to respond to adversity. There's going to be ups and downs all year long. How we respond is going to be 80% of the battle, so it's a good sign that we came out. Being down 30, we could have been pointing fingers, but we got after it, so I like that.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaylen Brown on overcoming a 30 point deficit. Being down 30 we could have been pointing fingers but we got after it. How we respond is going to be 80 percent of the battle.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown comments on the team's ability to respond to adversity after overcoming a 30-point deficit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaylen Brown",
+      "timestamp": "01:23",
+      "summary_phrase": "Jaylen Brown on the defensive chemistry with Tyrese Maxey",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "That's what we're going to be pushing each other on both ends. I love to see it.",
+      "quote": "That's what we're going to be pushing each other on both ends. On offense and defense, I love to see it, and he's been great for us early. Tyrese Maxey has been great.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylen Brown on his chemistry with Tyrese Maxey. That is what we are going to be pushing each other on both ends. On offense and defense I love to see it and he has been great for us early.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Brown praises the early defensive chemistry and performance of Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaylen Brown",
+      "timestamp": "02:08",
+      "summary_phrase": "Jaylen Brown on navigating leadership roles within the team",
+      "names_mentioned": [],
+      "excerpt": "You're picking and choosing your spots when to say something.",
+      "quote": "You're picking and choosing your spots when to say something. The only thing I said was like it's a great opportunity to respond, and that's what we did.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylen Brown on his leadership approach. You are picking and choosing your spots when to say something. The only thing I said was it is a great opportunity to respond and that is what we did.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown explains his approach to navigating leadership roles and knowing when to speak up during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaylen Brown",
+      "timestamp": "02:23",
+      "summary_phrase": "Jaylen Brown on the importance of momentum and playing with pace",
+      "names_mentioned": [],
+      "excerpt": "We had a lot of energy, a lot of momentum plays that we made in the second half.",
+      "quote": "We had a lot of energy, a lot of momentum plays that we made in the second half. I felt like we was the harder playing team. First half, we wasn't the harder playing team, so that was the teller of the game, and we executed a lot better. We knocked down some shots, played with a little bit more pace, our spacing was a little bit better, and we was able to get easier baskets.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaylen Brown on the difference in the second half. We felt like we were the harder playing team. First half we were not the harder playing team so that was the teller of the game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown analyzes how the team improved their energy, pace, and execution in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jaylen Brown",
+      "timestamp": "03:42",
+      "summary_phrase": "Jaylen Brown on the turning point in the third quarter",
+      "names_mentioned": [
+        "Maxey"
+      ],
+      "excerpt": "Maxey took it to the corner, hit a three, came down, got a stop.",
+      "quote": "I think the start of the third quarter. Came out, Maxey took it to the corner, hit a three, came down, got a stop, came down, I think we got an and-one or another three. We scored nine straight points to start the third, and I think that shifted the game.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylen Brown identifies the turning point against Boston. We scored nine straight points to start the third and I think that shifted the game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown identifies the start of the third quarter as the turning point in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jaylen Brown",
+      "timestamp": "03:59",
+      "summary_phrase": "Jaylen Brown on Tyrese Maxey's rebounding and tenacity",
+      "names_mentioned": [
+        "Maxey",
+        "VJ"
+      ],
+      "excerpt": "I'm going to be pushing Maxey and VJ and myself to be more disciplined on defense.",
+      "quote": "Maxey great. His rebounding, excellent. His tenacity, guarding guys, being able to pick up full court, that's what we're going to need all season long. So I'm going to be pushing Maxey and VJ and myself to be more disciplined on defense, make plays, get out and run.",
+      "text_blocks": [],
+      "start_seconds": 239,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylen Brown praises Tyrese Maxey. His rebounding is excellent. His tenacity guarding guys and being able to pick up full court is what we are going to need all season long.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey",
+          "VJ"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Brown highlights the defensive tenacity and rebounding of Tyrese Maxey and VJ.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jaylen Brown",
+      "timestamp": "04:21",
+      "summary_phrase": "Jaylen Brown on the necessity of playing hard every night",
+      "names_mentioned": [],
+      "excerpt": "We got to be the harder playing team every single night regardless of the talent.",
+      "quote": "We got to be the harder playing team every single night regardless of the talent that we got on the floor, because it's the NBA. You can get your ass kicked if you don't. So I think we came out, played harder in that second half, and we was able to make up for the deficit, but we can't expect that every time.",
+      "text_blocks": [],
+      "start_seconds": 261,
+      "end_seconds": 285,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaylen Brown on the reality of the NBA. We have to be the harder playing team every single night regardless of the talent we have on the floor because you can get your ass kicked if you do not.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown emphasizes the necessity of playing hard every night to avoid being defeated in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "bGQZS77sC54",
+  "url": "https://www.youtube.com/watch?v=bGQZS77sC54",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-23T05:34:55Z",
+  "duration_seconds": 320,
+  "processed_at": "2026-10-23T11:40:27Z",
+  "run_id": "2026-10-23T1139Z-06utc",
+  "is_one_off": false
+}
