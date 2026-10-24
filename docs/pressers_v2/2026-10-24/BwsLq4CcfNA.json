@@ -1,0 +1,310 @@
+{
+  "video_title": "Cavs Shootaround | Mario Hezonja & Peyton Watson Media Availability | 10.24.2026",
+  "speakers_seen": [
+    "Mario Hezonja",
+    "Peyton Watson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mario Hezonja",
+      "timestamp": "00:08",
+      "summary_phrase": "Mario Hezonja on the unique atmosphere of playing in Cleveland",
+      "names_mentioned": [],
+      "excerpt": "My favorite moment was the announcer always like the way he pronounced Cavaliers and then they would run out",
+      "quote": "My favorite moment was the announcer always like the way he pronounced Cavaliers and then they would run out because that's not how we do it in Europe. You just come out and then that's what it is, you warm up. So for me, I always remember that moment. It's like, wow, the fire burst out there, so that's pretty cool.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mario Hezonja reflects on his first impressions of the Cleveland atmosphere, noting that the pregame fire and player introductions are a stark contrast to the routine he was used to in Europe.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja reflects on his initial impressions of the atmosphere and pre-game introductions at Cleveland home games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mario Hezonja",
+      "timestamp": "01:03",
+      "summary_phrase": "Mario Hezonja on his seamless integration into the Cavaliers organization",
+      "names_mentioned": [],
+      "excerpt": "It's much easier than I thought thanks to my teammates and the staff",
+      "quote": "It's much easier than I thought thanks to my teammates and the staff and pretty much everybody in the whole organization. From the top to the last person, since day one they embraced me with open arms. They know the basketball player that I am, but also get to know the person that I am, so it's definitely been super great, very welcoming.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mario Hezonja says his transition to the Cavaliers has been seamless, crediting the organization and his teammates for welcoming him with open arms since day one.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja discusses how well he has been welcomed by his teammates and the organization since joining the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mario Hezonja",
+      "timestamp": "02:13",
+      "summary_phrase": "Mario Hezonja on the need for better ball security and defensive consistency",
+      "names_mentioned": [
+        "Kenny"
+      ],
+      "excerpt": "Take care of the ball, how we want to attack. I think the defensively we were pretty solid",
+      "quote": "Take care of the ball, how we want to attack. I think the defensively we were pretty solid but once Philly started to turn up things, we should have definitely be how we were in the first half. Because in NBA you have a 30, 40, 20 point lead, it just doesn't matter anything really because here the game is so fast. In Europe you might struggle to come back from that large lead, but here it's just like you got to treat it as a 10 point lead.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Mario Hezonja on the Cavs blowing a lead against Philly, noting that in the NBA you have to treat a 20 point lead like a 10 point lead because the game is so fast.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja discusses the need for better ball security and defensive consistency following a game against Philadelphia.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mario Hezonja",
+      "timestamp": "03:02",
+      "summary_phrase": "Mario Hezonja on the importance of reading game situations on the court",
+      "names_mentioned": [
+        "James",
+        "Donovan"
+      ],
+      "excerpt": "At the end of the day, it's five of us on a on a court and you need to read those situations",
+      "quote": "At the end of the day, it's five of us on a on a court and you need to read those situations and need to figure out because if they obviously five on five people will struggle with us, but once they start to cross match and everything is that we need to react on that. So a lot of it is on us on a court to figure out.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mario Hezonja emphasizes the need for better on court communication, saying players must be able to read situations and react when opponents start to cross match.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja explains the importance of players reading defensive cross-match situations on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mario Hezonja",
+      "timestamp": "06:06",
+      "summary_phrase": "Mario Hezonja on Donovan's role as a teammate and leader",
+      "names_mentioned": [
+        "Donovan",
+        "James",
+        "Evan",
+        "Jared"
+      ],
+      "excerpt": "Donovan is been extraordinary a teammate and extraordinary a human being with me",
+      "quote": "Donovan is been extraordinary a teammate and extraordinary a human being with me. First of all, we go way way back. So he was super supportive of that because I see him and I tell him you're not supposed to bring up the ball against the pressure because we need you in the last quarter. We need you in playoffs. We need you in game 80, game 60. So having somebody like me that can help, as I said for the first day I'm here to to help you.",
+      "text_blocks": [],
+      "start_seconds": 366,
+      "end_seconds": 400,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Mario Hezonja says he is taking pressure off Donovan Mitchell by handling ball duties, telling his teammate he needs to be fresh for the playoffs and the final quarter.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mario Hezonja discusses his relationship with Donovan Mitchell and his role in supporting him on the court.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Peyton Watson",
+      "timestamp": "08:30",
+      "summary_phrase": "Peyton Watson on the excitement of playing in front of home fans",
+      "names_mentioned": [],
+      "excerpt": "It'll be great to play in front of our fans for the first first real regular season game",
+      "quote": "It'll be great to play in front of our fans for the first first real regular season game. Their energy is going to be contagious, we're going to feed off of them, and we're just looking forward to putting on a great show and putting out a great product for them this season.",
+      "text_blocks": [],
+      "start_seconds": 510,
+      "end_seconds": 530,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Peyton Watson says the team is ready to feed off the energy of the home crowd for their first regular season game at home.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson shares his excitement about playing the first regular season home game in front of the fans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Peyton Watson",
+      "timestamp": "09:39",
+      "summary_phrase": "Peyton Watson on learning from the team's first game loss",
+      "names_mentioned": [],
+      "excerpt": "Just knowing the level that we can reach. Obviously we played at a super high level",
+      "quote": "Just knowing the level that we can reach. Obviously we played at a super high level in the first half of that game and we didn't finish strong and that's something that obviously we need to work on. So it was good to have that test game one of the season, felt like a playoff game.",
+      "text_blocks": [],
+      "start_seconds": 579,
+      "end_seconds": 601,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Peyton Watson reflects on the opening loss, saying it was a good test that felt like a playoff game and highlighted the need to finish games stronger.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson discusses the lessons learned from the team's performance in their first game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Peyton Watson",
+      "timestamp": "10:18",
+      "summary_phrase": "Peyton Watson on the team's need to maintain intensity throughout the game",
+      "names_mentioned": [
+        "Billy",
+        "Mario"
+      ],
+      "excerpt": "There's always a sense of urgency and hunger that that team comes in with",
+      "quote": "There's always a sense of urgency and hunger that that team comes in with and I think that we didn't match that. Like we had to come into that second half with a chip on our shoulder like we need to double this lead instead of temper it. And I think that it was just a good learning experience for us all, and we figured out some ways that we can sustain those leads moving forward.",
+      "text_blocks": [],
+      "start_seconds": 618,
+      "end_seconds": 647,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Peyton Watson admits the team failed to match the intensity of their opponent in the second half, saying they need to learn how to sustain leads rather than tempering them.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson explains the team's need to maintain intensity and urgency throughout the entire game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Peyton Watson",
+      "timestamp": "11:13",
+      "summary_phrase": "Peyton Watson on the psychological and physical aspects of the team's performance",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "excerpt": "I think a majority of it was psychological and then just effort",
+      "quote": "I think a majority of it was psychological and then just effort. I think that they were really successful in scoring in transition, but I think that we were really really good in the half court defensively. So I think that that's something that takes a little bit of mindfulness but also just the effort. And I think that there were certain things that we could have done to take them out of their comfort zone that we didn't really implement.",
+      "text_blocks": [],
+      "start_seconds": 673,
+      "end_seconds": 704,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Peyton Watson attributes the defensive struggles against Philly to a lack of mindfulness and effort in transition, noting they failed to take the opponent out of their comfort zone.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson analyzes the psychological and effort-based factors that contributed to the team's defensive struggles in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Peyton Watson",
+      "timestamp": "12:01",
+      "summary_phrase": "Peyton Watson on the learning process during the regular season",
+      "names_mentioned": [],
+      "excerpt": "The regular season is kind of us practicing our execution for where we want to go",
+      "quote": "The regular season is kind of us practicing our execution for where we want to go down the line. So it's good to face adversity and face challenges. You wouldn't want your first adversity to be in the playoffs because then you wouldn't know how to handle it or respond to it. So I think that all these all these games, good or bad, are going to be, you know, learning lessons and it's going to make us a more complete team moving forward.",
+      "text_blocks": [],
+      "start_seconds": 721,
+      "end_seconds": 753,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Peyton Watson views early season adversity as a positive, noting that facing challenges now will make the team more complete by the time they reach the playoffs.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson discusses how facing early-season adversity serves as a learning experience for the team's long-term development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "BwsLq4CcfNA",
+  "url": "https://www.youtube.com/watch?v=BwsLq4CcfNA",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-24T16:37:46Z",
+  "duration_seconds": 839,
+  "processed_at": "2026-10-24T17:25:33Z",
+  "run_id": "2026-10-24T1724Z-14utc",
+  "is_one_off": false
+}
