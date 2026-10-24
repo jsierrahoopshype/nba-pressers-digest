@@ -1,0 +1,216 @@
+{
+  "video_title": "Practice Media Availability with Ajay Mitchell | October 24, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Ajay Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "00:13",
+      "summary_phrase": "Ajay Mitchell on the Thunder's defensive identity and game plan",
+      "names_mentioned": [],
+      "excerpt": "We know defense is our identity. We're going to win games down that end.",
+      "quote": "I think just sticking to our game plan and then just being ourselves. We know defense is our identity. We're going to win games down that end. So no matter if shots are going or not, just making sure we're focused on that. I think we did a good job.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ajay Mitchell says the Thunder identity remains rooted in defense. We know defense is our identity. We are going to win games down that end.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell discusses the Thunder's defensive identity and commitment to the game plan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "00:37",
+      "summary_phrase": "Ajay Mitchell on his personal defensive growth and learning process",
+      "names_mentioned": [],
+      "excerpt": "I keep learning from the guys on the team, watching film too, and just getting stronger, faster.",
+      "quote": "I felt great. I mean, I keep learning from the guys on the team, watching film too, and just getting stronger, faster, and just learning on that end. So felt great out there.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ajay Mitchell on his defensive development. I keep learning from the guys on the team, watching film too, and just getting stronger, faster, and just learning on that end.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell describes his personal defensive development and learning process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "01:06",
+      "summary_phrase": "Ajay Mitchell on the team's confidence in their shooting process",
+      "names_mentioned": [],
+      "excerpt": "Our whole team in general, we know we're going to make shots.",
+      "quote": "I mean, felt great. You know, just like I said, worked on it all summer, and our whole team in general, we know we're going to make shots. And so just sticking with our process of taking the right shots, taking good shots, and just reading the game. So for me, it's just keeping that same mentality, being aggressive on both ends, and not worry if a miss or a make, just being ready for the next play.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ajay Mitchell on the Thunder shooting process. We know we are going to make shots. So just sticking with our process of taking the right shots, taking good shots, and just reading the game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell explains the team's confidence in their shooting process and offensive mentality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "01:39",
+      "summary_phrase": "Ajay Mitchell on Jalen Williams' shooting confidence and balance",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "He's a great shooter. I think his balance, the way he's able to run fast but then be able to get his shot up.",
+      "quote": "He's definitely not. I mean, he's a great shooter. I think his balance, the way he's able to run fast but then be able to get his shot up and then being able to be on balance every single time, I think that's that's pretty impressive. And I mean, no matter if he's making it or not, he's going to take his shots, and it's pretty impressive to see just the confidence he has.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ajay Mitchell on Jalen Williams. I think his balance, the way he is able to run fast but then be able to get his shot up and then being able to be on balance every single time, I think that is pretty impressive.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ajay Mitchell praises the shooting mechanics and confidence of his teammate Jalen Williams.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "02:09",
+      "summary_phrase": "Ajay Mitchell on team-wide confidence and work ethic",
+      "names_mentioned": [],
+      "excerpt": "Every guy on our team is confident. They trust their work.",
+      "quote": "I would say so. I mean, I think every guy on our team is confident. They trust their work. We have guys that are incredible workers, and so that helps with confidence. When you know you put the work in, when you go out there, you know you don't have to worry about nothing else but just doing what you're supposed to do.",
+      "text_blocks": [],
+      "start_seconds": 129,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ajay Mitchell on the team culture. Every guy on our team is confident. They trust their work. We have guys that are incredible workers, and so that helps with confidence.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell reflects on the work ethic and confidence shared by his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "02:50",
+      "summary_phrase": "Ajay Mitchell on the team's defensive mindset and energy",
+      "names_mentioned": [],
+      "excerpt": "We really buy into defense and when it comes down to that stretch, we're able to create turnovers.",
+      "quote": "I think it's the mindset that every guy on our team has. We really buy into defense and when it comes down to that stretch, we're able to create turnovers and it brings a lot of energy. When we're aggressive on that end, our offense is flowing. So I think we know that and we're always focused on that, making sure we put defense first and we do what we're supposed to do, and that brings a synergy throughout the whole game and especially that third quarter, I think that really helped and that fourth.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ajay Mitchell explains the Thunder offensive flow. When we are aggressive on that end, our offense is flowing. We are always focused on that, making sure we put defense first.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell explains how the team's defensive mindset fuels their overall energy and offensive flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "03:49",
+      "summary_phrase": "Ajay Mitchell on the excitement of guarding elite players",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "Those are really, really good players, like great players.",
+      "quote": "Excitement. I mean, those are really, really good players, like great players. And so for me, being able to guard those guys and match up against those guys, I know I'm not especially be able to stop them every single play, but being able to just just match up against those guys, learn how to guard them, and then just be able to compete against those guys. They've been in the league for a while, they're great players, and for me, it's just fun being able to compete against them.",
+      "text_blocks": [],
+      "start_seconds": 229,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ajay Mitchell on the challenge of guarding elite players. It is fun being able to compete against them. I know I am not especially be able to stop them every single play, but being able to just match up against those guys.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell shares his excitement about the challenge of guarding elite players in the league.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "e6FMZbRL6rg",
+  "url": "https://www.youtube.com/watch?v=e6FMZbRL6rg",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-24T19:01:38Z",
+  "duration_seconds": 259,
+  "processed_at": "2026-10-24T22:28:26Z",
+  "run_id": "2026-10-24T2228Z-20utc",
+  "is_one_off": false
+}

@@ -1,0 +1,403 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | Adem Bona | 10.24.26",
+  "speakers_seen": [
+    "Adem Bona"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Adem Bona",
+      "timestamp": "00:10",
+      "summary_phrase": "Adem Bona on his slow start to the season",
+      "names_mentioned": [],
+      "excerpt": "I was out for a little bit so it's just getting back to myself.",
+      "quote": "I was out for a little bit so it's just getting back to myself. It's a little bit of a slow start because, like you said, I haven't been able to get much chance to play in the preseason until now. Yeah, it's just getting better every day and ramping up every day.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Adem Bona says he is working to get back to himself after a slow start to the season due to missing preseason time. He says he is just getting better and ramping up every day.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Adem Bona discusses his slow start to the season due to missing time during the preseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Adem Bona",
+      "timestamp": "00:39",
+      "summary_phrase": "LeBron James' expectations for Adem Bona on the floor",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He just wants me to do my job: set screens, space the floor, run the floor.",
+      "quote": "He just wants me to do my job: set screens, space the floor, run the floor, protect the rim, rebound the ball.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Adem Bona shares what is expected of him on the floor. He says LeBron James wants him to do his job by setting screens, spacing the floor, running the floor, protecting the rim, and rebounding the ball.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Adem Bona explains the specific on-court responsibilities expected of him by teammate LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Adem Bona",
+      "timestamp": "00:54",
+      "summary_phrase": "Adem Bona on LeBron James' leadership and impact",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He's been amazing, I mean, he's testing it defensively and offensively.",
+      "quote": "He's been amazing, I mean, he's testing it defensively and offensively. I saw that last game, just leading the team, pressing the ball, picking up full court. I think he's been awesome leading the team and also just dragging everyone with him with his performance.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Adem Bona praises LeBron James for his leadership. Bona says LeBron has been amazing, noting his defensive intensity and how he is leading the team by picking up full court.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Adem Bona praises the leadership and defensive intensity displayed by LeBron James during recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Adem Bona",
+      "timestamp": "01:12",
+      "summary_phrase": "Adem Bona on LeBron James' consistent leadership style",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He's always been like that, I mean, from year one he's been vocal.",
+      "quote": "He's always been like that, I mean, from year one he's been vocal, trying to bring guys along with him. I don't think he was less of a leader like my first year. I think he's always been like that.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Adem Bona says LeBron James has always been a vocal leader who tries to bring guys along with him, noting that he has been that way since his first year.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Adem Bona reflects on the consistent vocal leadership style LeBron James has maintained throughout his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Adem Bona",
+      "timestamp": "01:42",
+      "summary_phrase": "Adem Bona on team focus after two games",
+      "names_mentioned": [],
+      "excerpt": "I think we just got to focus on what we do to be able to start the game better.",
+      "quote": "I think we just got to focus on what we do to be able to start the game better, and do what we do best. We'll go out there, play hard, and I think everything's going to go the ball for us, we'll do our job.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Adem Bona says the team needs to focus on how they start games. He believes if they go out there and play hard, everything will fall into place.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona discusses the team's need to improve their focus and execution at the start of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Adem Bona",
+      "timestamp": "01:57",
+      "summary_phrase": "Adem Bona on his defensive role and responsibilities",
+      "names_mentioned": [],
+      "excerpt": "I think my role has always been the same, you know, defensively when I go out there.",
+      "quote": "I think my role has always been the same, you know, defensively when I go out there to be able to switch, to be able to play hard on the pick and roll. I don't think there's any change that has been made.",
+      "text_blocks": [],
+      "start_seconds": 117,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Adem Bona says his defensive role has not changed. He is focused on being able to switch and play hard on the pick and roll.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona clarifies that his defensive role and responsibilities have remained consistent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Adem Bona",
+      "timestamp": "02:18",
+      "summary_phrase": "Adem Bona on catching up with team systems",
+      "names_mentioned": [],
+      "excerpt": "I just got to catch up with the things that we do with the time I missed.",
+      "quote": "I don't think there is any pressure, it's just like I just got to catch up with the things that we do with the time I missed. It's always like that, missing time, you're just going to have to catch up with what has been done before when you weren't there.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Adem Bona says there is no pressure as he works to catch up with team systems after missing time during the preseason.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona explains the process of catching up with team systems after missing practice time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Adem Bona",
+      "timestamp": "02:42",
+      "summary_phrase": "Adem Bona on the defensive potential of the team",
+      "names_mentioned": [],
+      "excerpt": "I think defensively we could be really good because there's a lot of diversity.",
+      "quote": "I think defensively we could be really good because there's a lot of diversity, a lot of guys that could be interchanged. We could play different defensive style with different guys, so it's really amazing that we can adjust to whatever is thrown at us.",
+      "text_blocks": [],
+      "start_seconds": 162,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Adem Bona believes the team has high defensive potential because of their versatility. He says they can play different defensive styles because they have guys that can be interchanged.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona discusses the defensive versatility and potential of the team's current roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Adem Bona",
+      "timestamp": "03:09",
+      "summary_phrase": "Adem Bona on the importance of team rebounding",
+      "names_mentioned": [],
+      "excerpt": "We just have to attack the ball, defensively by defending, rebound as a team.",
+      "quote": "We just have to attack the ball, defensively by defending, rebound as a team. Offensively, attack the board, we can just have just one guy running down. So I think we just got to focus on the little things, focus on getting the defensive rebound and push because it kind of helps our fast break.",
+      "text_blocks": [],
+      "start_seconds": 189,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Adem Bona emphasizes the importance of team rebounding. He says they need to focus on the little things, like securing the defensive rebound to help their fast break.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona emphasizes the importance of team rebounding and how it fuels the team's fast break.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Adem Bona",
+      "timestamp": "03:45",
+      "summary_phrase": "Adem Bona on staying ready for increased playing time",
+      "names_mentioned": [],
+      "excerpt": "I just have to be the same match, you never know what's going to happen.",
+      "quote": "I just have to be the same match, you never know what's going to happen. I don't know what's happening, so it's just stay ready for it. I just stay ready for either starting or coming off the bench, so it doesn't change anything, I just stay ready.",
+      "text_blocks": [],
+      "start_seconds": 225,
+      "end_seconds": 243,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Adem Bona says he is staying ready for whatever his role requires. He notes that he prepares the same way whether he is starting or coming off the bench.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona discusses his mindset regarding staying ready for playing time regardless of his role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Adem Bona",
+      "timestamp": "04:05",
+      "summary_phrase": "Adem Bona on his personal and team goals",
+      "names_mentioned": [],
+      "excerpt": "I do set goals for myself, long-term, short-term.",
+      "quote": "I do set goals for myself, long-term, short-term. For this season, it's to be a huge impact on the team, cover a huge role on the team, coming off the bench, supporting the team as much as I could.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Adem Bona outlines his goals for the season, stating he wants to have a huge impact on the team and support them as much as he can while coming off the bench.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona outlines his personal goals for the season, focusing on making a significant impact off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Adem Bona",
+      "timestamp": "04:24",
+      "summary_phrase": "Adem Bona on readiness for extended minutes",
+      "names_mentioned": [],
+      "excerpt": "You have to set yourself up for success, you can't just prepare for the little things.",
+      "quote": "You have to set yourself up for success, you can't just prepare for the little things. You have to set yourself up for the big time, for when when things get bigger, so you can just, you can just prepare for 10 minutes, you know, you never know. So I stay ready every time, whenever my number is called, I'm going to go out there and do my job.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Adem Bona says he prepares for the big moments even when he is only playing limited minutes. He says he stays ready every time so that when his number is called he can do his job.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Adem Bona explains his approach to preparing for extended minutes and being ready when called upon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Adem Bona",
+      "timestamp": "04:48",
+      "summary_phrase": "Adem Bona on playing with Jaylen Brown and LeBron James",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "LeBron James"
+      ],
+      "excerpt": "It's just been awesome, I mean, defensively as a team we just have to do better.",
+      "quote": "It's just been awesome, I mean, defensively as a team we just have to do better at rebounding the ball. But playing with those guys, it just requires more, you know, more attention to details. Playing with guys like that, they're really good players, championship-caliber players, so just playing with them is just, it's just a way to get better.",
+      "text_blocks": [],
+      "start_seconds": 288,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Adem Bona says playing with championship caliber players like Jaylen Brown and LeBron James requires more attention to detail and is a way for him to get better.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown",
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "BOS",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Adem Bona discusses the benefits of playing alongside high-level teammates like Jaylen Brown and LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "0KplEsaQZaU",
+  "url": "https://www.youtube.com/watch?v=0KplEsaQZaU",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-24T17:57:13Z",
+  "duration_seconds": 316,
+  "processed_at": "2026-10-24T22:28:33Z",
+  "run_id": "2026-10-24T2228Z-20utc",
+  "is_one_off": false
+}
