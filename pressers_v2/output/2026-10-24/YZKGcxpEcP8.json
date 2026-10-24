@@ -1,0 +1,103 @@
+{
+  "video_title": "Hornets vs Hawks: Moussa Diabate Postgame Media Availability | 10/23/2026",
+  "speakers_seen": [
+    "Moussa Diabate"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:11",
+      "summary_phrase": "Moussa Diabate on the Hornets' lack of energy against the Hawks",
+      "names_mentioned": [],
+      "excerpt": "I think our energy wasn't right from the start of the game.",
+      "quote": "I think the energy. I think our energy wasn't right from the start of the game. Yeah, I mean, we are our energy. After that, I mean, nothing else matter, right? I think when you don't have a good rhythm, you're not playing with energy, physicality, I mean, whatever else that follows after that, it's just it's just part of it. That's just the result of our actions.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Moussa Diabate says the Hornets lacked energy from the start against the Hawks. He noted that when you are not playing with energy and physicality, the result is just a consequence of those actions.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate discusses the team's lack of energy and poor rhythm during their loss to the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:46",
+      "summary_phrase": "Moussa Diabate on maintaining a next-game mindset after a loss",
+      "names_mentioned": [
+        "Charles Lee"
+      ],
+      "excerpt": "I think at the end of the day, it's a basketball game, it's only the beginning of the season.",
+      "quote": "I mean, you know, have a next mindset. I think at the end of the day, it's a basketball game, it's only the beginning of the season, and you know, I mean, trying to adapt, trying to get better, right? I think that's the most important part. I think that you know, we obviously didn't play our best today, but tomorrow we're going to adjust and come back tomorrow and fix what we haven't done today. I think that's the most important part.",
+      "verbatim_original_language": "",
+      "start_seconds": 46,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Moussa Diabate is keeping a next game mindset after the loss to Atlanta. He says the team will adjust and look to fix their mistakes in practice tomorrow.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate reflects on the need to maintain a next-game mindset and improve after a disappointing performance early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Moussa Diabate",
+      "timestamp": "01:38",
+      "summary_phrase": "Moussa Diabate on the importance of setting the tone at home",
+      "names_mentioned": [],
+      "excerpt": "Especially, you know, home game, we trying to set the tone, right? I think that's the most important part.",
+      "quote": "I don't feel good, right? I don't think that's something that you want to happen to you, right? And like I said, it still comes back to the beginning. So for me, yeah, I mean, there's not much to say except that you know, we got to be better, especially, you know, home game, we trying to set the tone, right? I think that's the most important part.",
+      "verbatim_original_language": "",
+      "start_seconds": 98,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Moussa Diabate says the Hornets need to be better at home. He emphasized that the team is trying to set the tone early in games but failed to do so against the Hawks.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate expresses frustration with the loss and emphasizes the importance of setting a better tone during home games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "YZKGcxpEcP8",
+  "url": "https://www.youtube.com/watch?v=YZKGcxpEcP8",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-24T02:08:31Z",
+  "duration_seconds": 119,
+  "processed_at": "2026-10-24T11:03:14Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

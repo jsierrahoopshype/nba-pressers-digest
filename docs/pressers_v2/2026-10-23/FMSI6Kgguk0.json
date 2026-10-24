@@ -1,0 +1,262 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 10.23.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:07",
+      "summary_phrase": "Taylor Jenkins on defensive struggles and transition defense",
+      "names_mentioned": [],
+      "excerpt": "Second and third quarter you give up 85 points, transition D, can't keep guys in front of us.",
+      "quote": "Second and third quarter you give up 85 points, transition D, can't keep guys in front of us, rotations, 62 points in the paint, teams are averaging almost 70 points in the paint. Our defense is impacting us. We got to commit on the defensive side with our ability to tag up offensively, not leave them. They do a great job kicking the ball ahead, so we got to do a better job earlier in possessions.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Taylor Jenkins is calling out his team's defensive effort after giving up 85 points in two quarters. He says they must commit on the defensive side and stop letting teams get 60 plus points in the paint.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's defensive struggles and transition defense after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:55",
+      "summary_phrase": "Taylor Jenkins on the defensive strategy against Caleb Wilson",
+      "names_mentioned": [
+        "Caleb Wilson",
+        "Trey Jones",
+        "Norman Powell"
+      ],
+      "excerpt": "It's not about one individual player, we just got to collectively stop them.",
+      "quote": "It's not about one individual player, we just got to collectively stop them. I thought Trey Jones did a great job getting downhill. They put a lot of pressure on you. Norman Powell, dynamic offensive scorer, getting downhill, spraying it out. Obviously Caleb Wilson, dynamic big, makes it tough when they get downhill, shooting 30 free throws and again 60-plus points in the paint, so we got to clean that up.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins says the defensive struggles are a collective issue rather than one player. He noted the team needs to clean up transition defense and stop allowing opponents to get downhill so easily.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Jones",
+          "Norman Powell",
+          "Caleb Wilson"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates the defensive strategy used against specific opposing players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:36",
+      "summary_phrase": "Taylor Jenkins on team confidence despite missed free throws",
+      "names_mentioned": [],
+      "excerpt": "I've got the ultimate confidence in our guys when they step up there.",
+      "quote": "I've got the ultimate confidence in our guys. I know we missed a lot, but that's not something that's going to be a concern. Obviously you want those in a close game like this, but I've got the ultimate confidence in our guys when they step up there. Just fortunate that we had too many of those from a number of different guys, but they're beating themselves up. I just tell them keep your head up, we got to keep working on this stuff.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Despite a rough night at the charity stripe, Taylor Jenkins says he has the ultimate confidence in his guys. He told the team to keep their heads up and keep working on their free throws.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins addresses the team's missed free throws and expresses confidence in his players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:12",
+      "summary_phrase": "Taylor Jenkins on the performance of Jaime Jaquez Jr., Kyle Kuzma, and Tyler Herro",
+      "names_mentioned": [
+        "Jaime Jaquez Jr.",
+        "Kyle Kuzma",
+        "Tyler Herro"
+      ],
+      "excerpt": "Jaime Jaquez Jr. with rebounding, initiating the break for us, Kyle Kuzma attacking in space.",
+      "quote": "Jaime Jaquez Jr. with rebounding, initiating the break for us, Kyle Kuzma attacking in space, getting downhill, playmaking, and then I thought Tyler Herro just played a really good feel game, when to attack, when to play off. I thought we did a much better job attacking space and finding him and his teammates out on the perimeter like when we touch the paint. That was a big emphasis every single night, but especially coming out of halftime, I thought he really benefited from that.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins praised the individual contributions of Jaime Jaquez Jr., Kyle Kuzma, and Tyler Herro, noting that Herro played a really good feel game and benefited from the team's emphasis on attacking space.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaime Jaquez Jr.",
+          "Kyle Kuzma",
+          "Tyler Herro"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins praises the individual performances of three specific players during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:54",
+      "summary_phrase": "Taylor Jenkins on the team's need for better communication and defensive focus",
+      "names_mentioned": [],
+      "excerpt": "It's the communication, it's the ability to on-ball defense with the shift help and rotating.",
+      "quote": "It's the communication, it's the ability to on-ball defense with the shift help and rotating. I told them the fact that it's early and stuff, we can't be using that as an excuse. The urgency is there, we know what we're talking about, we just got to apply it. We'll take our trip to Philadelphia, great challenge tomorrow, but just continue to prioritize these simple things.",
+      "text_blocks": [],
+      "start_seconds": 174,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins says his team cannot use it being early in the season as an excuse for defensive lapses. He is demanding better communication and urgency as they head into a challenge against Philadelphia.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins emphasizes the need for better communication and defensive focus ahead of the next game against Philadelphia.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:42",
+      "summary_phrase": "Taylor Jenkins on late-game execution and turnovers",
+      "names_mentioned": [],
+      "excerpt": "Just taking care of the ball a little bit, coming up with some loose balls.",
+      "quote": "Just taking care of the ball a little bit, coming up with some loose balls, a couple offensive rebounds kind of hurt us. And then a little organization, that starts with me. But when we're at our best, these guys need to be playing fast and free and kind of self-organizing out there. So when we're trying to get a couple buckets late, when we were down seven or something, trying to preserve a timeout, and we have a turnover there.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins took responsibility for late game execution issues, including turnovers and a lack of organization. He says the team needs to be better at self-organizing when playing fast and free.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins analyzes the team's late-game execution and turnover issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:42",
+      "summary_phrase": "Taylor Jenkins on Ryan's on-ball pressure and shooting development",
+      "names_mentioned": [
+        "Ryan"
+      ],
+      "excerpt": "I think just his on-ball pressure is being great for us, taking tough challenges every single night.",
+      "quote": "I think just his on-ball pressure is being great for us, taking tough challenges every single night. He got up eight threes, I thought they were pretty good looks. Most of them were off the ball with our movement, those will come in time. Getting downhill, seven rebounds, six assists, he's impacting the game in so many different ways. He may not get tons of steals, but he's creating some havoc, he's creating some disruption on the defensive side.",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins is happy with the impact Ryan is making beyond the box score. He says his on-ball pressure is great and he is creating havoc and disruption on the defensive side.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates the defensive impact and offensive development of a player named Ryan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "05:36",
+      "summary_phrase": "Taylor Jenkins on the team's effort and 50/50 ball execution",
+      "names_mentioned": [
+        "Jaylen Smith"
+      ],
+      "excerpt": "Couple of the timely offensive rebounds, Jaylen Smith had some big ones.",
+      "quote": "Couple of the timely offensive rebounds, Jaylen Smith had some big ones, other guys attacking. We just got to continue building out. I told the guys, when we get them in the halfcourt, any team that we get in the halfcourt and we're making them take perimeter jump shots and getting great contest, let's not let the other team sneak by us and get a second-chance opportunity, lead to a foul or kickout or just kind of disrupt our ability to get out and run.",
+      "text_blocks": [],
+      "start_seconds": 336,
+      "end_seconds": 369,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins says the team needs to focus on finishing defensive possessions. He stressed that they cannot let teams sneak by for second chance opportunities after forcing them into perimeter jump shots.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Smith"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the importance of rebounding and defensive execution in the halfcourt.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "FMSI6Kgguk0",
+  "url": "https://www.youtube.com/watch?v=FMSI6Kgguk0",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-23T23:32:04Z",
+  "duration_seconds": 392,
+  "processed_at": "2026-10-24T11:03:41Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

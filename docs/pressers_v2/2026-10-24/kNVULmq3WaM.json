@@ -1,0 +1,270 @@
+{
+  "video_title": "Scottie Barnes | Post Game at Wizards | October 23, 2026",
+  "speakers_seen": [
+    "Scottie Barnes"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scottie Barnes",
+      "timestamp": "00:13",
+      "summary_phrase": "Scottie Barnes on the team's defensive focus against the Wizards",
+      "names_mentioned": [],
+      "excerpt": "Just knowing that we got to rebound, so that was one of our main emphasis.",
+      "quote": "Pretty good team. Just knowing that we got to rebound, so that was one of our main emphasis. They are a fast team. They got a lot of guys that can get out on the break. They shoot the ball really well, so try to maintain them in transition, even though, you know, we are going to give up some, but how can we continue to limit them? Those are one or two main points of emphasis.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on the Raptors defensive focus against the Wizards: We knew we had to rebound and limit their transition game. They are a fast team that shoots the ball well so we had to stay disciplined.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses the team's defensive strategy and focus on limiting transition opportunities against the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scottie Barnes",
+      "timestamp": "01:11",
+      "summary_phrase": "Scottie Barnes on his aggressive play in the fourth quarter",
+      "names_mentioned": [
+        "AD"
+      ],
+      "excerpt": "I think I was being aggressive the whole night.",
+      "quote": "I think I was being aggressive the whole night. They were really playing back with AD. I am going to be aggressive and take those threes, take the shots that they give me. So, I was just being aggressive the whole night.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes on his fourth quarter mindset: I was being aggressive the whole night. They were playing back so I was going to take those threes and take the shots that they give me.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains his mindset regarding his aggressive offensive play during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "01:36",
+      "summary_phrase": "Scottie Barnes on Collin's performance and defensive impact",
+      "names_mentioned": [
+        "Collin"
+      ],
+      "excerpt": "Especially that third quarter, I think he kind of changed the game for us.",
+      "quote": "Collin, he played amazing. Especially that third quarter, I think he kind of changed the game for us. They were coming back, but we still kind of needed that boost, and him defensively was just incredible. We had to take him out because of foul trouble. I wanted him to stay in, but obviously you got to play the foul game with what the refs are calling. He is amazing. He was amazing last year, and he is just going to continue to keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Scottie Barnes praised Collin for his defensive impact against Washington: He played amazing and kind of changed the game for us in the third quarter. He is just going to continue to keep getting better.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Collin Sexton"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes praises his teammate's defensive impact and performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scottie Barnes",
+      "timestamp": "02:08",
+      "summary_phrase": "Scottie Barnes on Washington's transition offense and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "They were handsome shots, they were getting to the free throw line, and they were running in transition.",
+      "quote": "They were handsome shots, they were getting to the free throw line, and they were running in transition. We said we wanted to limit that. We were turning the ball over, it was creating fast-break points for them, running down in transitions. We were kind of loose on our switches too, that's something that we needed to tighten up, get more into the ball, and if we are not getting screened, just be ready to guard the ball. That was kind of what was messing us up. They were getting lobs, free layups, and we weren't protecting the paint. Once we cleaned that up, we did a better job.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes on the Raptors defensive lapses: We were turning the ball over and were loose on our switches. We needed to tighten up and protect the paint. Once we cleaned that up we did a better job.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes analyzes the defensive lapses and transition points allowed to the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "timestamp": "02:45",
+      "summary_phrase": "Scottie Barnes on RJ Barrett's role as a primary ball-handler",
+      "names_mentioned": [
+        "RJ"
+      ],
+      "excerpt": "We needed that, for him to be able to get downhill, take over.",
+      "quote": "We needed that, for him to be able to get downhill, take over, and play within the offense, but being able to have to be like the primarily ball-handler, we needed that. Being able to get downhill, draw fouls, get those floaters, get to his spots, we needed those minutes.",
+      "text_blocks": [],
+      "start_seconds": 165,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Scottie Barnes on RJ Barrett taking on primary ball-handling duties: We needed that for him to be able to get downhill, take over, and play within the offense. We needed those minutes.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes discusses the importance of RJ Barrett's role as a primary ball-handler for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Scottie Barnes",
+      "timestamp": "03:32",
+      "summary_phrase": "Scottie Barnes on Justin Champagnie's development and skill set",
+      "names_mentioned": [
+        "Justin Champagnie"
+      ],
+      "excerpt": "I think he is pretty solid. Rebounds the ball at an extremely high rate.",
+      "quote": "I think he is pretty solid. Rebounds the ball at an extremely high rate, can rebound, run the floor, shoot threes, can crash really, really hard, gives a good effort on defense. I love Justin. Funny guy. Yeah, he is a good player.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on Justin Champagnie: I think he is pretty solid. He rebounds the ball at an extremely high rate, runs the floor, and gives a good effort on defense. He is a good player.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes evaluates the skill set and development of his teammate Justin Champagnie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Scottie Barnes",
+      "timestamp": "04:03",
+      "summary_phrase": "Scottie Barnes on the team's defensive versatility and switching",
+      "names_mentioned": [
+        "Collin",
+        "Kawhi"
+      ],
+      "excerpt": "We got a lot of guys that can interchange on this team.",
+      "quote": "We got a lot of guys that can interchange on this team. Primarily, obviously, you know we got me, Collin, and Kawhi there that can be able to switch, and we just got to throughout the game just find the game plan and, you know, we go along with it. But we are going to be all over the floor, that's what we are going to do. We guard multiple positions, we guard anybody out there on the floor. That's how we play.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Scottie Barnes on the Raptors defensive identity: We have a lot of guys that can interchange. We are going to be all over the floor. We guard multiple positions and we guard anybody out there.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Collin Sexton",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes describes the team's defensive versatility and switching capabilities involving himself and his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Scottie Barnes",
+      "timestamp": "04:37",
+      "summary_phrase": "Scottie Barnes on the differences between the Wizards and Raptors",
+      "names_mentioned": [
+        "Trey Young"
+      ],
+      "excerpt": "They got two very tall guys out there, and then they got a playmaker with Trey Young.",
+      "quote": "I want to say they are kind of identical to us. They play different. Obviously, they got two very tall guys out there, and then they got a playmaker with Trey Young that can be able to score the ball, get downhill. Obviously, it is going to demand attention to get downhill, throw those lobs. They got a different team. They got some shooters out there. I think we play two totally different styles, but I think we both play fast.",
+      "text_blocks": [],
+      "start_seconds": 277,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes compares the Raptors and Wizards: I think we play two totally different styles but we both play fast. They have tall guys and a playmaker in Trey Young that demands attention.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes compares the playing styles of the Raptors and the Wizards while noting the impact of Trae Young.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "kNVULmq3WaM",
+  "url": "https://www.youtube.com/watch?v=kNVULmq3WaM",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-24T03:28:55Z",
+  "duration_seconds": 310,
+  "processed_at": "2026-10-24T11:02:51Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,293 @@
+{
+  "video_title": "Rick Carlisle, Andrew Nembhard & Tyrese Haliburton Media Availability | October 23, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Andrew Nembhard",
+    "Tyrese Haliburton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:02",
+      "summary_phrase": "Rick Carlisle on the Pacers' poor first-half performance and attitude",
+      "names_mentioned": [],
+      "excerpt": "It just simply comes down to an attitude and a disposition.",
+      "quote": "If you look at these stats from the first and second half, someone walked off the street and didn't see the game, they would have wondered what in the world happened at halftime. You give up 77 in one half and 44 in the next. It just simply comes down to an attitude and a disposition. In two straight games, we haven't had it the way we've needed to have it in the first half. So, get down 37 points at home with this kind of crowd and you get booed, it's not okay. We all own it, starting with me. I didn't have these guys ready to play the way they needed to be ready to play.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Rick Carlisle takes accountability for the Pacers slow starts and poor defensive effort. He says it comes down to attitude and disposition after falling behind early in back to back games. We all own it starting with me.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle addresses the media regarding the team's poor first-half performance and his responsibility for the lack of readiness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:37",
+      "summary_phrase": "Rick Carlisle on the team's defensive breakdowns and lack of execution",
+      "names_mentioned": [],
+      "excerpt": "They are going harder and we did not execute and have the approach that we needed.",
+      "quote": "I watched the first six minutes and they are going harder and we did not execute and have the approach that we needed. Our offensive game has to be a ball-sharing game and a movement game and there was a lot of dribbling and a lot of attempts at one-on-one. The reasons why these things happen don't matter to fans that pay good money to come and watch this team play. We have to be a lot better and a lot more consistent than this.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle is calling out his team for poor execution and too much one on one play. He says the reasons for the struggles do not matter to the fans and the team needs to be much more consistent.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the team's lack of execution and poor offensive approach during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:37",
+      "summary_phrase": "Rick Carlisle on Andrew Nembhard's performance and team expectations",
+      "names_mentioned": [
+        "Andrew Nembhard",
+        "Quenton Jackson"
+      ],
+      "excerpt": "He's a guy that we really like because of the edge he played with.",
+      "quote": "He's a guy that we really like because of the edge he played with. We just need everybody to be playing like Nembhard. Let's just put it that way. There may have been one other guy that was a plus in the game. Quenton Jackson. Well, there you go. It's two hard-playing guys. It pretty much tells the story of the kind of approach you got to have. Every game in the NBA now, games are going to be confrontational. We've had multiple confrontations in both of the first two games and it's going to continue to be like this in the league. It's very, very competitive.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle wants the rest of the Pacers roster to match the edge Andrew Nembhard and Quenton Jackson are playing with. He notes that every game in the NBA is going to be confrontational and competitive.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Andrew Nembhard",
+          "Quenton Jackson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle praises Andrew Nembhard and Quenton Jackson for their effort and intensity during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Andrew Nembhard",
+      "timestamp": "06:36",
+      "summary_phrase": "Andrew Nembhard on the team's lack of defensive readiness",
+      "names_mentioned": [],
+      "excerpt": "I'm just not ready enough, not coming with the right demeanor to compete and be physical.",
+      "quote": "I'm just not ready enough, not coming with the right demeanor to compete and be physical on that side of the floor to start the game, especially this first half.",
+      "text_blocks": [],
+      "start_seconds": 396,
+      "end_seconds": 408,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Andrew Nembhard admits he has not been ready enough to start games. He says he needs to bring the right demeanor to compete and be physical on the defensive end from the opening tip.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Andrew Nembhard reflects on his own lack of defensive readiness and physical demeanor at the start of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "08:18",
+      "summary_phrase": "Tyrese Haliburton on the team's poor performance and need for film study",
+      "names_mentioned": [],
+      "excerpt": "It's definitely not ideal, but that's what the NBA is. It's not all fairy tales and sunshine.",
+      "quote": "It's definitely not ideal, but that's what the NBA is. It's not all fairy tales and sunshine, it's all part of it. These are one of those games where you got to really look at the film, see where we can get better. If you pay too much attention to the one half, positively or negatively, things can kind of mess with your brain a little bit. So, I think we just got to go watch the film, understand these past two games, we have not been the tone-setters, we've responded.",
+      "text_blocks": [],
+      "start_seconds": 498,
+      "end_seconds": 533,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Haliburton says the Pacers have not been tone setters in their first two games. He believes the team needs to watch the film and understand how to respond better after falling behind early.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton discusses the need for the team to review film and improve after a difficult loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "10:24",
+      "summary_phrase": "Tyrese Haliburton on the team's struggles in transition and defensive effort",
+      "names_mentioned": [],
+      "excerpt": "It's hard to run when you're taking the ball out of the net the whole game.",
+      "quote": "It's hard to run when you're taking the ball out of the net the whole game. They are 44 points in the first quarter, it's really hard to play in transition when you're just getting scored on play after play after play. I would caution worrying about us offensively because of our personnel and who we are. I think the biggest thing is if we're able to get stops, then we can run a little bit more, play our style of basketball a little bit more. So we got to do a better job on that end.",
+      "text_blocks": [],
+      "start_seconds": 624,
+      "end_seconds": 661,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton says the Pacers offensive struggles are tied to their defensive effort. He says it is hard to play in transition when you are taking the ball out of the net play after play.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton explains how defensive struggles and allowing points prevent the team from playing their preferred transition style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "11:34",
+      "summary_phrase": "Tyrese Haliburton on the team's turnovers and need for composure",
+      "names_mentioned": [
+        "Aaron Nesmith"
+      ],
+      "excerpt": "For lack of a better term, just dumb shit. Just doing a lot of dumb shit out there.",
+      "quote": "For lack of a better term, just dumb shit. Just doing a lot of dumb shit out there to be honest. I had three turnovers, the one to Aaron I kind of just like threw out of bounds. It wasn't like we were playing too fast or anything. I mean honestly, sorry for my language there, but that's really what it is. We just got to calm down, just play the right way. I think in that second half when we just kind of settled in a little bit, we got good shots.",
+      "text_blocks": [],
+      "start_seconds": 694,
+      "end_seconds": 730,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyrese Haliburton was blunt about the Pacers turnovers and lack of composure. He said the team was just doing a lot of dumb shit out there and needs to calm down and play the right way.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton criticizes the team's decision-making and his own turnovers during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "13:04",
+      "summary_phrase": "Tyrese Haliburton on the team's player-led culture and coaching",
+      "names_mentioned": [
+        "Rick Carlisle"
+      ],
+      "excerpt": "We in the past and I think currently are such a group that is led player-wise.",
+      "quote": "We in the past and I think currently are such a group that is led player-wise. Now don't get me wrong, Rick Carlisle is the best coach in the NBA and we have a great staff, but I think we do a great job as players kind of managing runs. Obviously, coach calls a lot of timeouts and things like that, but I think we do a good job of like, when it gets a little crazy, hey, let's figure this out right now, let's run this offensively, let's get a stop defensively.",
+      "text_blocks": [],
+      "start_seconds": 784,
+      "end_seconds": 820,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Haliburton says the Pacers are a player led group. He praises Rick Carlisle as the best coach in the NBA but emphasizes that the players take responsibility for managing runs and figuring things out on the floor.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rick Carlisle"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyrese Haliburton discusses the player-led culture of the team while praising Rick Carlisle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "14:38",
+      "summary_phrase": "Tyrese Haliburton on the team's need for aggression and defensive intensity",
+      "names_mentioned": [
+        "Cooper Flagg",
+        "Andrew Nembhard",
+        "Aaron Nesmith"
+      ],
+      "excerpt": "I hope Cooper's okay, first and foremost. I don't think anybody wants to see him hurt.",
+      "quote": "I hope Cooper's okay, first and foremost. I don't think anybody wants to see him hurt or anything. I think Andrew Nembhard was just trying to play hard and make a hard foul or make a play on the ball. So it's just unfortunate. I hope Cooper's okay. I understand those guys responding the way they did and I think our team responded the right way as well. So I don't think anybody wants to see anybody get hurt by any means, but we got to do a better job of just playing with aggression and disposition from the start. I thought Quenton Jackson and Slaw and Aaron and our second group came in and played the right way. Our first group got to do a much better job.",
+      "text_blocks": [],
+      "start_seconds": 878,
+      "end_seconds": 924,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton addressed the physical play involving Cooper Flagg and Andrew Nembhard. He says Nembhard was just trying to make a play on the ball and hopes Flagg is okay.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cooper Flagg",
+          "Andrew Nembhard",
+          "Quenton Jackson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Tyrese Haliburton addresses a hard foul involving Andrew Nembhard and expresses concern for an injured opponent.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QvVhneQWbcE",
+  "url": "https://www.youtube.com/watch?v=QvVhneQWbcE",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-24T05:34:11Z",
+  "duration_seconds": 924,
+  "processed_at": "2026-10-24T11:02:19Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

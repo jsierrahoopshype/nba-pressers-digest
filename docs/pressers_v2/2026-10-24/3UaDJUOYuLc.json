@@ -1,0 +1,236 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons vs  Heat   10.23.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:15",
+      "summary_phrase": "Pistons' depth and versatility as offensive weapons",
+      "names_mentioned": [],
+      "excerpt": "we have so many people that can be used as weapons that we can just take what the defense gives us",
+      "quote": "I think that's where we can create trouble. We have so many people that can be used as weapons that we can just take what the defense gives us, and we don't have to try to over-manipulate things. As long as we just keep making the simple play, defense wants to leave guys open, certain spots, just get them the ball. It's a really simple game, as crazy as it sounds, but throwing the ball to the open man is a killer for a defense.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff on the Pistons offensive philosophy: We have so many people that can be used as weapons that we can just take what the defense gives us. Throwing the ball to the open man is a killer for a defense.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the offensive philosophy of the Pistons regarding ball movement and utilizing open teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:54",
+      "summary_phrase": "Pistons' emphasis on three-point shooting and floor spacing",
+      "names_mentioned": [
+        "Trajan Langdon"
+      ],
+      "excerpt": "that was a point of emphasis over the summer to be able to make some of those decisions",
+      "quote": "That was a point of emphasis over the summer to be able to make some of those decisions that helped find that space. We knew, and we're still finding our way defensively. I don't think we've been our best that way yet. But last year, when you looked at it, when we made over 10 threes or 12 threes, what our record was in games. Trajan and those guys did a great job of addressing it, but it just makes us hard to guard when we got guys who can attack the paint and not settle and then have those guys as kick-outs, teams have tough decisions to make.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Bickerstaff says the Pistons focus on three-point shooting was a major summer emphasis. He believes having guys who can attack the paint and kick out to shooters makes the team much harder to guard.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trajan Langdon"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains the team's focus on three-point shooting and floor spacing following offseason roster additions by the front office.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:34",
+      "summary_phrase": "Cade Cunningham and Jaden Ivey's leadership and impact",
+      "names_mentioned": [
+        "Cade Cunningham",
+        "Jaden Ivey"
+      ],
+      "excerpt": "those two guys both got us off to a great start",
+      "quote": "I thought that was really important. It's our start, and those two guys both got us off to a great start. Coming in this building, understanding that they were coming off a loss and the energy that they were going to play with, for us to come out and exceed that, I thought their leadership in those moments were great. They set the tone for the rest of the team and the guys that followed.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff praised the leadership of Cade Cunningham and Jaden Ivey in their win against the Heat, noting that the duo set the tone for the rest of the team from the start.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham",
+          "Jaden Ivey"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff praises the leadership and tone-setting performance of Cade Cunningham and Jaden Ivey during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:12",
+      "summary_phrase": "Pistons' 18-man depth and mental engagement",
+      "names_mentioned": [],
+      "excerpt": "we believe we're 18 deep and guys who can help us play",
+      "quote": "We believe we're 18 deep and guys who can help us play. What's been phenomenal for us since we've been here is the guys always stay ready, and they're mentally engaged in the game, no matter what their role is at the time. That allows them to be ready to go when their number is called. They do all the work behind the scenes that nobody sees, so that when they get these opportunities, they can be successful.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bickerstaff on the Pistons depth: We believe we are 18 deep. What has been phenomenal is that guys always stay ready and they are mentally engaged in the game no matter what their role is.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff comments on the depth of the Pistons roster and the mental engagement of the players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:46",
+      "summary_phrase": "Paul Reed's elite versatility and impact on both ends",
+      "names_mentioned": [
+        "Paul Reed"
+      ],
+      "excerpt": "he's elite when he's active defensively, when he's active offensively crashing the boards, running the floor",
+      "quote": "That's who Paul Reed is. That's where we want him to be. He's elite when he's active defensively, when he's active offensively crashing the boards, running the floor. He's an elite one-on-one defender, he can be disruptive on that end of the floor, so I thought he did a great job of it tonight.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff on Paul Reed: He is elite when he is active defensively and crashing the boards. He is an elite one-on-one defender and can be disruptive on that end of the floor.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paul Reed"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff evaluates the performance and defensive versatility of Paul Reed following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:16",
+      "summary_phrase": "Paul Reed's unique playstyle and work ethic",
+      "names_mentioned": [
+        "Paul Reed"
+      ],
+      "excerpt": "there's no person I've ever been around that works harder on his game than Paul Reed",
+      "quote": "He plays like to his own beat, and I think that's hard for opponents to catch a rhythm when he is doing that. There's no person I've ever been around that works harder on his game than Paul Reed. You're seeing that work pay off, and that's like, we talk about each guy has a role of leadership for this team, and he leads by example and by his work ethic, and it's paying off for him.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Bickerstaff says Paul Reed plays to his own beat, which makes it hard for opponents to catch a rhythm. He added that he has never been around anyone who works harder on his game than Reed.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paul Reed"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff highlights the unique playstyle and work ethic of Paul Reed.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:56",
+      "summary_phrase": "Pistons' fast-paced tempo and offensive execution",
+      "names_mentioned": [
+        "Davion Mitchell",
+        "Bam Adebayo",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "they are playing fast, make or miss",
+      "quote": "They are playing fast, make or miss. I think Davion Mitchell does a great job of creating that tempo for them, even off made baskets. And then obviously they've got so many guys that can handle the ball and push. Bam can obviously do it, Giannis can do it, and that puts your defense in tough predicaments. So yeah, they definitely were playing faster, attacking the middle of the floor, the dribble drive stuff that they've kind of been doing, but you can definitely feel the tempo.",
+      "text_blocks": [],
+      "start_seconds": 236,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Bickerstaff on the Heat pace: They are playing fast, make or miss. Davion Mitchell does a great job of creating that tempo for them, and it puts your defense in tough predicaments.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Davion Mitchell",
+          "Bam Adebayo",
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "DET",
+          "MIA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff analyzes the fast-paced offensive tempo and playmaking abilities of the opposing team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "3UaDJUOYuLc",
+  "url": "https://www.youtube.com/watch?v=3UaDJUOYuLc",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-24T03:06:00Z",
+  "duration_seconds": 265,
+  "processed_at": "2026-10-24T11:03:07Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

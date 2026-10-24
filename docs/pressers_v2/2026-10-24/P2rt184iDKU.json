@@ -1,0 +1,112 @@
+{
+  "video_title": "Jaime Jaquez jr. Postgame Press Conference | 10.23.26",
+  "speakers_seen": [
+    "Jaime Jaquez Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:15",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's defensive shortcomings",
+      "names_mentioned": [],
+      "excerpt": "defensively we got to be a lot better",
+      "quote": "I think defensively we got to be a lot better. We are actually putting a lot of points on the board, which is a positive for us. We just got to understand defensively that's what it's going to take to win. Once we got those leads, we got to maintain them and then push them. So, take it as a learning experience, quick turnaround, got another one tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaime Jaquez Jr. says the Bucks need to improve defensively despite their offensive production. He notes that the team must learn how to maintain leads after failing to close out tonight.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses the team's defensive performance and the need to maintain leads after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:27",
+      "summary_phrase": "Jaime Jaquez Jr. praises Nate Ament's performance",
+      "names_mentioned": [
+        "Nate Ament"
+      ],
+      "excerpt": "he had a great performance, really proud of him",
+      "quote": "Nate Ament had a great performance, really proud of him. I definitely know he's capable of a game like that when he's able to get out and get space and knock down threes. He's really hard to stop.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaime Jaquez Jr. praised Nate Ament for his performance tonight. Jaquez says he is proud of Ament and knows he is capable of big games when he gets space to knock down threes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nate Ament"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaime Jaquez Jr. praises the performance of his teammate Nate Ament following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:52",
+      "summary_phrase": "Jaime Jaquez Jr. on Kasparas Jakucionis's development",
+      "names_mentioned": [
+        "Kasparas Jakucionis"
+      ],
+      "excerpt": "he's just gotten so much better from year one to year two",
+      "quote": "Kasparas Jakucionis has been playing down the stretch. He's just gotten so much better from year one to year two. He's sound, always makes the right play, does the little things that you need to win games. I'm really proud of how he's developed in this league and just continue to grow.",
+      "text_blocks": [],
+      "start_seconds": 112,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaime Jaquez Jr. is impressed with the growth of Kasparas Jakucionis. He says Jakucionis has gotten so much better from year one to year two and consistently makes the right plays to help the team win.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kasparas Jakucionis"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaime Jaquez Jr. reflects on the development and growth of his teammate Kasparas Jakucionis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "P2rt184iDKU",
+  "url": "https://www.youtube.com/watch?v=P2rt184iDKU",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-24T00:17:01Z",
+  "duration_seconds": 147,
+  "processed_at": "2026-10-24T11:03:23Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

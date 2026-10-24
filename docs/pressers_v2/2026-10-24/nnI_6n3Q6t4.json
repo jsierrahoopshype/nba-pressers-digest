@@ -1,0 +1,226 @@
+{
+  "video_title": "Hornets vs Hawks: Coach Charles Lee Postgame Media Availability | 10/23/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:00",
+      "summary_phrase": "Charles Lee on Charlotte's learning experience after a tough loss",
+      "names_mentioned": [],
+      "excerpt": "when things aren't going your way, what is your focus going to be?",
+      "quote": "I think it was a good learning experience for our entire group tonight. When things aren't going your way, what is your focus going to be? Are we going to look for excuses, are we going to look for people to bail us out of those tough times, or are we going to band together and try to figure it out on our own? I actually thought that there were some quality looks that we got in there. There were some lapses defensively in terms of offensive rebounds potentially during that stretch, guys getting back cut and stuff like that. I felt like a lot of self-inflicted wounds, and then on top of that, a good learning opportunity for us to realize that there's things that we can control in those moments.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee says the Hornets loss to the Hawks was a learning experience. He pointed to self-inflicted wounds and defensive lapses as key areas where the team needs to improve their focus.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Head coach Charles Lee reflects on the team's performance and learning experience following a loss to the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "00:40",
+      "summary_phrase": "Charles Lee on Atlanta's physical defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "number one is their physicality. They got a bunch of really pesky, physical, on-ball defenders",
+      "quote": "Number one is their physicality. They got a bunch of really pesky, physical, on-ball defenders and you got to be able to, I think, physically be able to to deal with it. But then also the mental aspect. I thought that versus the Nets, we were able to to wear down a couple of their creators. They're going to hit some shots, they're high-volume shooters, they're good players, and you got to have that kind of mental maturity to understand that all those punches, all those grabs and holds, it actually wears them down and at the end of the game, they're able to miss some shots.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee credits the Hawks for their physicality on defense. He notes that the Hornets need to develop the mental maturity to handle the grabs and holds that come with a physical opponent.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "ATL",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the physical defensive pressure applied by the Atlanta Hawks and the mental maturity required to handle it.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:30",
+      "summary_phrase": "Charles Lee on Charlotte's high turnover rate",
+      "names_mentioned": [],
+      "excerpt": "a lot of ball turnovers in particular tonight. What do you attribute that to?",
+      "quote": "A lot of ball turnovers in particular tonight. What do you attribute that to? Some of it is us, not doing what we do or being in the spots that we're used to being in. A lot of times when you're doing things that you shouldn't be doing, at positions that either the ball handler is not familiar with or you as a screener, I think it creates some indecision. And then there was a couple that are just a little too casual. So, I think a lot of those two areas that I just talked about are a little bit just like us needing to look inward and figure out how we can be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Charles Lee attributes the Hornets high turnover rate to indecision and being too casual. He says the team needs to look inward and focus on being in the right spots on the floor.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee addresses the high number of turnovers committed by his team during the game against Atlanta.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "02:05",
+      "summary_phrase": "Charles Lee on shot selection and team confidence",
+      "names_mentioned": [
+        "Brandon Miller",
+        "Naz Reid",
+        "Dennis Schroder"
+      ],
+      "excerpt": "we want to create the best uncontested shot that we can get",
+      "quote": "Our biggest thing is less about the volume of what our shot profile looks like and more so, we want to create the best uncontested shot that we can get. And so if it ends up being a catch and shoot three for Brandon Miller or Naz Reid or Dennis Schroder and it's a wide-open shot, you got to let it fly with confidence. If it's a layup under the basket, you got to take that. So a lot of it is just what is the shot quality that we're trying to create and we're looking for the best uncontested shot and sometimes it ends up being the three.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee says the Hornets offensive goal is to create the best uncontested shot possible. He wants players like Brandon Miller and Naz Reid to let it fly with confidence when they are open.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller",
+          "Naz Reid",
+          "Dennis Schroder"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee explains the team's offensive philosophy regarding shot selection and creating high-quality, uncontested opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "02:47",
+      "summary_phrase": "Charles Lee on team pride and learning systems",
+      "names_mentioned": [
+        "Kobe White",
+        "Con Knipple"
+      ],
+      "excerpt": "we can't make excuses for who is on the floor, who is off the floor",
+      "quote": "We can't make excuses for who is on the floor, who is off the floor. I think that is just on us as a group to take a little bit more pride in every possession, value the ball, and again, just do what we do, be in the positions that we need to be in. And some of this is like we're still trying to learn each other and figure out offensive systems and where to be, and I think that our group is going to continue to get better. That's all they've shown that they've done.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee emphasizes that the Hornets cannot make excuses regarding their roster. He says the group needs to take more pride in every possession as they continue to learn the offensive system.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the importance of team accountability and the ongoing process of learning offensive systems.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Charles Lee",
+      "timestamp": "03:18",
+      "summary_phrase": "Charles Lee on Brandon Miller's recent performance",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "Brandon is focused a ton on just playing the right way",
+      "quote": "I think that Brandon is focused a ton on just playing the right way. I think that he's taken some quality looks. Some things early in the year, you're just trying to find your legs, your rhythm and stuff like that. I have the utmost confidence that some of these shots that he's taken, he's going to continue to knock down at a higher clip as we just keep going throughout the year.",
+      "verbatim_original_language": "",
+      "start_seconds": 198,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says he has the utmost confidence in Brandon Miller. He believes Miller is focused on playing the right way and will start knocking down shots at a higher clip as he finds his rhythm.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee expresses confidence in Brandon Miller finding his rhythm and shooting consistency as the season progresses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Charles Lee",
+      "timestamp": "03:48",
+      "summary_phrase": "Charles Lee on crowd boos and team accountability",
+      "names_mentioned": [],
+      "excerpt": "if you hear boos, like you got to be able to play better basketball",
+      "quote": "I told the group like, this is great for us. At home, on the road, if you hear boos, like you got to be able to play better basketball. That's not something that we can control. They are fans, they are entitled and if we're not playing good basketball, I think they know they understand the game and so we totally respect it and we just got to play better.",
+      "verbatim_original_language": "",
+      "start_seconds": 228,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee on hearing boos from the crowd: If we are not playing good basketball, we have to be able to play better. He says the team respects the fans and understands they are entitled to their reaction.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee reacts to fans booing the team and emphasizes the need for the players to focus on improving their performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "nnI_6n3Q6t4",
+  "url": "https://www.youtube.com/watch?v=nnI_6n3Q6t4",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-24T02:19:22Z",
+  "duration_seconds": 276,
+  "processed_at": "2026-10-24T11:03:13Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

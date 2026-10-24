@@ -1,0 +1,133 @@
+{
+  "video_title": "Hawks vs. Hornets Postgame Press Conference: Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:07",
+      "summary_phrase": "Quin Snyder on the importance of maintaining team identity",
+      "names_mentioned": [],
+      "excerpt": "it's more about how we play and I think it's important for us to keep that focus",
+      "quote": "We've been in this business and as a player or coach long enough, you're on both sides of those things. I think for us, it's more about how we play and I think it's important for us to keep that focus. We obviously won the game the way we did because we play a certain way and that's what we need to take from it as much as anything.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder says the Hawks focus remains on maintaining their identity after a win. He noted that the team won because they play a certain way and they need to keep that focus moving forward.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the importance of maintaining the team's identity following a victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:42",
+      "summary_phrase": "Quin Snyder on the impact of Clint Capela's play",
+      "names_mentioned": [
+        "Clint Capela"
+      ],
+      "excerpt": "he just finds so many ways to impact the game",
+      "quote": "He just finds so many ways to impact the game, whether it's on the offensive glass, obviously defensively making plays. Anytime he generates possessions for your team, the more possessions the better. He does that at an elite level. Playing through him and his ability to give people advantages is a special player.",
+      "verbatim_original_language": "",
+      "start_seconds": 42,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder praised Clint Capela for his elite impact on the game. Snyder highlighted Capela's ability to generate extra possessions through offensive rebounding and his role in creating advantages for teammates.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Clint Capela"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder praises Clint Capela for his ability to impact the game through rebounding and defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:34",
+      "summary_phrase": "Quin Snyder on developing the team's core identity",
+      "names_mentioned": [],
+      "excerpt": "we're trying to develop an identity and that identity is defending, running and sharing the ball",
+      "quote": "We're trying to develop an identity and that identity is defending, running and sharing the ball. When those three things happen, particularly in that sequence when you get stops and we can get out and convert, our ability to convert in transition and take advantage of the stops or creating some steals, that fuels runs.",
+      "verbatim_original_language": "",
+      "start_seconds": 94,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder defined the Hawks identity as defending, running, and sharing the ball. He emphasized that getting stops is the key to fueling their transition game and converting those opportunities into runs.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains the core components of the team's identity which include defending, running, and sharing the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:22",
+      "summary_phrase": "Quin Snyder on the difficulty of officiating in the NBA",
+      "names_mentioned": [],
+      "excerpt": "to be an official in the NBA may be the hardest job",
+      "quote": "To be an official in the NBA may be the hardest job. Some people say it's coaching, but those guys, understanding the level of detail that goes into it, and the way the game is right now, there's a few calls that are hard, whether it's the new points of emphasis. So you try to speak to them in a way that you can actually describe what you're seeing on the court, and sometimes you're more demonstrative than others, and that's part of the job too.",
+      "verbatim_original_language": "",
+      "start_seconds": 142,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder shared his perspective on officiating, calling it perhaps the hardest job in the NBA. He noted that he tries to communicate with officials about what he sees on the court despite the difficulty of the job.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder shares his perspective on the challenges faced by NBA officials and how he communicates with them during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "FHVBZeEDLzs",
+  "url": "https://www.youtube.com/watch?v=FHVBZeEDLzs",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-24T01:56:07Z",
+  "duration_seconds": 215,
+  "processed_at": "2026-10-24T11:03:26Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,199 @@
+{
+  "video_title": "LIVE: Pelicans vs. Jazz Postgame Interviews 10/23/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:40",
+      "summary_phrase": "Jamahl Mosley provides injury update on Eve's left knee",
+      "names_mentioned": [],
+      "excerpt": "It's a left knee injury right now, so we're going to get a look at it tomorrow",
+      "quote": "It's a left knee injury right now, so we're going to get a look at it tomorrow in Denver.",
+      "text_blocks": [],
+      "start_seconds": 400,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Jamahl Mosley says the team will evaluate a left knee injury for Eve tomorrow in Denver.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley provides an injury update on a player following the game against the Utah Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:57",
+      "summary_phrase": "Jamahl Mosley on team's rebounding and second-chance points",
+      "names_mentioned": [],
+      "excerpt": "We got to make sure we're cleaning up the glass. Their ability to get second-chance opportunities",
+      "quote": "The effort and the fight. They kicked our tails early on in the game on the boards. They had a lot of second-chance opportunity and at those points there was still a 10-point game in a lot of those moments. We got to make sure we're cleaning up the glass. Their ability to get second-chance opportunities in that early part of the game was the difference maker in those moments.",
+      "text_blocks": [],
+      "start_seconds": 417,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley points to rebounding as the difference maker against the Jazz, noting the team got their tails kicked on the boards early.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's struggles with rebounding and allowing second-chance points against the Utah Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:27",
+      "summary_phrase": "Jamahl Mosley on Dejounte Murray and Carlo Macovich's defensive impact",
+      "names_mentioned": [
+        "Dejounte Murray",
+        "Carlo Macovich"
+      ],
+      "excerpt": "Their defense was on point, being up at the level of the screen, attacking the basketball",
+      "quote": "Their defense was on point, being up at the level of the screen, attacking the basketball, helping us finish out the possessions down that back stretch. But then the things that hit you are the turnovers. We have 15 for 27 points. Those are giving away baskets. The ability to finish possessions is going to continue to be huge for us. They had 14 offensive rebounds and I think that's a big key for what this game was in a one-point game.",
+      "text_blocks": [],
+      "start_seconds": 447,
+      "end_seconds": 479,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley highlights turnovers and defensive rebounding as the primary issues, noting the team gave up 27 points off 15 turnovers.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray",
+          "Carlo Macovich"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates the defensive performance of Dejounte Murray and Carlo Macovich while noting issues with turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "08:09",
+      "summary_phrase": "Jamahl Mosley on finishing possessions and transition defense",
+      "names_mentioned": [],
+      "excerpt": "Our defense isn't done until you secure the board. And then you're able to get out",
+      "quote": "Just make sure we're cleaning up the finishing the possession out. Our defense isn't done until you secure the board. And then you're able to get out and run and that's what happened to spark the run. We were able to secure the boards and get out and run and finish on the break or get the foul on the break in a couple scenarios. So I think that's very key for us that we got to finish possessions out in order to give ourselves an opportunity.",
+      "text_blocks": [],
+      "start_seconds": 489,
+      "end_seconds": 522,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley emphasizes that the defensive possession is not over until the rebound is secured, which allowed the team to get out and run.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the importance of securing defensive rebounds to transition into an effective offensive attack.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "08:38",
+      "summary_phrase": "Jamahl Mosley on final possession and Triple-J's defensive play",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "I didn't want them to set their defense. That was the initial action",
+      "quote": "I didn't want them to set their defense. That was the initial action. And then as it got to about 4.4 on the clock, Dejounte was turning the corner and in that moment I'm thinking about clipping and calling a timeout to give us a little bit of time in that last moment to get a shot. But again, then Triple-J stepped up and was able to contest it high and late, which made it a tougher shot than we needed to be.",
+      "text_blocks": [],
+      "start_seconds": 518,
+      "end_seconds": 550,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley explains his thought process on the final possession, crediting Triple J for a high and late contest that made the final shot difficult.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray",
+          "Jaren Jackson Jr."
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley reflects on his decision-making during the final possession of the game and the defensive effort by Jaren Jackson Jr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:18",
+      "summary_phrase": "Jamahl Mosley on preparing for the upcoming Denver game",
+      "names_mentioned": [],
+      "excerpt": "We've got to bounce right back and take the lessons from this one",
+      "quote": "We've got to bounce right back and take the lessons from this one. Obviously got a very good Denver team that we've got to make sure we know how we're guarding, who we're guarding, finishing possessions out, do it all without fouling down the stretch. I think those were big keys in the end of the game, just us being able to defend without fouling when the game is on the line.",
+      "text_blocks": [],
+      "start_seconds": 558,
+      "end_seconds": 586,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Looking ahead to Denver, Jamahl Mosley says the key for the team is to defend without fouling when the game is on the line.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's preparation and focus areas for their upcoming game against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "AM0eA0T-sQU",
+  "url": "https://www.youtube.com/watch?v=AM0eA0T-sQU",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-24T04:27:01Z",
+  "duration_seconds": 770,
+  "processed_at": "2026-10-24T11:02:42Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

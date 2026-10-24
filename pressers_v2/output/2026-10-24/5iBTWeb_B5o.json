@@ -1,0 +1,237 @@
+{
+  "video_title": "“We Want To See Each Other Win.” | Rudy Gobert Postgame Sound | 10.23.26",
+  "speakers_seen": [
+    "Rudy Gobert"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:38",
+      "summary_phrase": "Rudy Gobert on the team's competitive training camp environment",
+      "names_mentioned": [],
+      "excerpt": "Iron sharpens iron. We are making each other better.",
+      "quote": "It was very competitive. Iron sharpens iron. We are making each other better, wanting to see each other get better, getting ready to handle adversity.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rudy Gobert on the Timberwolves training camp intensity: It was very competitive. Iron sharpens iron. We are making each other better, wanting to see each other get better, getting ready to handle adversity.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses the competitive nature of the team's training camp during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rudy Gobert",
+      "timestamp": "01:14",
+      "summary_phrase": "Rudy Gobert on the team's physical defensive identity",
+      "names_mentioned": [],
+      "excerpt": "We know that's what teams are going to bring to us.",
+      "quote": "We played some teams that were already physical, Indiana and New York, and we know that's what teams are going to bring to us. They are going to try to be very physical with Ant, with Melo, with me on the boards and everything. So, I am very proud of the guys, very proud of the way we came out.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rudy Gobert says the team is prepared for the physical defensive challenges they face: We played some teams that were already physical and we know that is what teams are going to bring to us.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "IND",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert reflects on the team's physical defensive performance against Indiana and New York while mentioning teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rudy Gobert",
+      "timestamp": "01:49",
+      "summary_phrase": "Rudy Gobert on Anthony Edwards' maturity and growth",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "That's the best I've seen him. I understand his role on the court but also off the court.",
+      "quote": "Year to year, that's the best I've seen him. I understand his role on the court but also off the court, the way he works, the way he takes care of his body. I am really proud of him. He is really embracing the challenge of being someone that's not just good at putting the ball in the basket, but someone that can be much more than that.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Rudy Gobert on Anthony Edwards: Year to year, that is the best I have seen him. He is really embracing the challenge of being someone that is not just good at putting the ball in the basket, but someone that can be much more than that.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert praises the maturity and professional growth of Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rudy Gobert",
+      "timestamp": "02:32",
+      "summary_phrase": "Rudy Gobert on LaMelo Ball's impact and unselfish play",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "When you have somebody like him that defends a lot but is also willing to make the simple play.",
+      "quote": "We thought that was what LaMelo could bring to the table for us and that's contagious. When you have somebody like him that defends a lot but is also willing to make the simple play, it's contagious. The ball gets moving and we know guys that when they get the ball, even if they swing the ball, you might come back to them, so they are not in a rush to put the ball on the rim. They are just eager to make the right play and stay aggressive but within the concept that we try to play with.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rudy Gobert praises LaMelo Ball for his unselfish play: When you have somebody like him that defends a lot but is also willing to make the simple play, it is contagious.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert discusses the unselfish play and defensive impact brought by LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rudy Gobert",
+      "timestamp": "03:14",
+      "summary_phrase": "Rudy Gobert on Jalen McDaniels' defensive versatility",
+      "names_mentioned": [
+        "Jalen McDaniels"
+      ],
+      "excerpt": "He's been smart. He's been helping me keep his composure.",
+      "quote": "He's been smart. He's been helping me keep his composure and letting him know that I'm there with him, that I'm behind him. He's done a great job. He's guarding Giannis the first night and then he guarded some very big guards tonight, very skilled guys. He's done a great job. Those are big challenges and like I told him, you can impact the game in a lot of ways. If he scores on top of that, that's amazing, but he can guard great wings and he can guard like strong power forwards too and then offensively, just bring us a lot of pace, offensive rebounds, all these little things that he can do to make us a better team.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rudy Gobert on Jalen McDaniels defensive versatility: He has done a great job. He is guarding Giannis the first night and then he guarded some very big guards tonight. He can impact the game in a lot of ways.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen McDaniels",
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIN",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert highlights the defensive versatility and contributions of Jalen McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Rudy Gobert",
+      "timestamp": "04:24",
+      "summary_phrase": "Rudy Gobert on maintaining emotional balance throughout the season",
+      "names_mentioned": [],
+      "excerpt": "You can't be too high or too low. You can't be too happy after a good game.",
+      "quote": "That's maturity and I keep telling him, you can't be too high or too low. You can't be too happy after a good game and you can't be too sad after a bad game. We have 80 more and then playoffs start, so we have a lot of games and mistakes are part of the game. You can't let mistakes take you out of what you can bring to the team and for him, it's really his energy. Tonight he was great. He did a great job. We all make mistakes, but he impacted the game and changed the game on both ends for us just with his energy.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 306,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rudy Gobert on maintaining emotional balance: You cannot be too high or too low. You cannot be too happy after a good game and you cannot be too sad after a bad game. We have 80 more and then playoffs start.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert offers advice on maintaining emotional balance throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Rudy Gobert",
+      "timestamp": "05:11",
+      "summary_phrase": "Rudy Gobert on the team's collective defensive chemistry",
+      "names_mentioned": [],
+      "excerpt": "These are great care factors and we can see it. It's what we need to win.",
+      "quote": "These are great care factors and we can see it. It's what we need to win, regardless of what happens offensively. We value every possession defensively and with that mindset, it might be great.",
+      "text_blocks": [],
+      "start_seconds": 311,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rudy Gobert on the Timberwolves defensive identity: These are great care factors and we can see it. It is what we need to win, regardless of what happens offensively. We value every possession defensively.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert emphasizes the importance of defensive chemistry and effort for the team's success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "5iBTWeb_B5o",
+  "url": "https://www.youtube.com/watch?v=5iBTWeb_B5o",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-24T08:38:29Z",
+  "duration_seconds": 340,
+  "processed_at": "2026-10-24T11:02:00Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,214 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game at Wizards | October 23, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "RJ Barrett",
+    "Scottie Barnes"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:06",
+      "summary_phrase": "Darko Rajakovic on the team's defensive effort and rebounding",
+      "names_mentioned": [],
+      "excerpt": "I thought we had moments of the game that we played really well defensively.",
+      "quote": "I thought it was a great win. I thought we had moments of the game that we played really well defensively. We had opportunity to make even bigger lead in the second quarter. We did not take care of the ball particularly well in that stretch there, so the game became more of an equal game. But when you are shooting 20 percent from the three-point line, definitely the fight and finding the way to get a win tonight was very, very important. I thought we rebounded the ball really well, which was big emphasis going against three seven-footers out there and a very athletic team. So I am really pleased with the outcome of the game.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic praised the Raptors for finding a way to win despite shooting 20 percent from three. He noted the team rebounded well against a big Wizards frontcourt to secure the victory.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Darko Rajakovic reflects on the team's performance and rebounding efforts following their victory against the Washington Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:59",
+      "summary_phrase": "Darko Rajakovic on defending Anthony Davis",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Scottie Barnes",
+        "Jakob Poeltl",
+        "Cade Cunningham",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "You cannot give him any daylight. You got to make it really hard from every catch.",
+      "quote": "Guys like that, you cannot give him any daylight. You got to make it really hard from every catch, from every fight for a position, to bring physicality to him. And I think Scottie, Jakob, and CB, they all did a good job on him. Kawhi, when he was on him, they all did a good job on him.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on the defensive plan against Anthony Davis: You cannot give him any daylight. You have to make it really hard from every catch and bring physicality to him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis",
+          "Scottie Barnes",
+          "Jakob Poeltl",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the defensive strategy used to contain Anthony Davis during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:24",
+      "summary_phrase": "Darko Rajakovic on the team's defensive versatility and accolades",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Jakob Poeltl",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Scottie Barnes is going to be first all-defensive team in the NBA this year.",
+      "quote": "Scottie Barnes is going to be first all-defensive team in the NBA this year. Jakob Poeltl is going to be in the third team and Kawhi Leonard is going to be in the second team. So we are going to have three players in three teams defensive this year. So that tells you a lot about their versatility and what those guys can do on the court for us.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Darko Rajakovic is making bold predictions for his players: Scottie Barnes will be on the first all-defensive team, Kawhi Leonard on the second, and Jakob Poeltl on the third.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Jakob Poeltl",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic predicts that Scottie Barnes, Jakob Poeltl, and Kawhi Leonard will earn All-Defensive team honors this season.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "RJ Barrett",
+      "timestamp": "05:19",
+      "summary_phrase": "RJ Barrett on the team's gritty win against the Wizards",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "It was nasty. It was a nasty one. Couldn't make any shots, but we just hung tough.",
+      "quote": "It was nasty. It was a nasty one. Couldn't make any shots, but we just hung tough, played defense, fought the line in the first. Felt like we figured it out a little more in the second half. But grit and toughness, man. Got to be able to win those games when when the shots aren't falling and things aren't going your way.",
+      "text_blocks": [],
+      "start_seconds": 319,
+      "end_seconds": 343,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett on the gritty win over Washington: It was nasty. We could not make any shots, but we just hung tough and played defense. You have to be able to win those games when the shots are not falling.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "RJ Barrett describes the team's gritty performance in their win against the Washington Wizards despite struggling with their shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "timestamp": "09:09",
+      "summary_phrase": "Scottie Barnes on the team's rebounding and transition defense",
+      "names_mentioned": [],
+      "excerpt": "Just knowing that we got to rebound, so that was one of our main emphasis.",
+      "quote": "Pretty good team. Just knowing that we got to rebound, so that was one of our main emphasis. They are a fast team, they got a lot of guys that can get out on the break. They shoot the ball really well, so try to maintain them in transition, even though, you know, we are going to give up some, but how can we continue to limit them? Those are one or two main points of emphasis.",
+      "text_blocks": [],
+      "start_seconds": 549,
+      "end_seconds": 579,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes says the main emphasis for the Raptors against the Wizards was rebounding and limiting the opponent in transition.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains the team's focus on rebounding and transition defense against the Washington Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Scottie Barnes",
+      "timestamp": "10:31",
+      "summary_phrase": "Scottie Barnes on RJ Barrett's performance",
+      "names_mentioned": [
+        "RJ Barrett"
+      ],
+      "excerpt": "RJ played amazing, especially that third quarter, I think he kind of changed the game for us.",
+      "quote": "RJ played amazing, especially that third quarter, I think he kind of changed the game for us. They were coming back, but we still kind of needed that boost, and him defensively was just incredible. We had to take him out because of foul trouble. Kind of wanted him to stay in, but obviously you got to play the foul game with what the refs were calling. He is amazing, he was amazing last year, and he is just going to continue to keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 631,
+      "end_seconds": 664,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes credits RJ Barrett for changing the game in the third quarter: He was amazing, and he is just going to continue to keep getting better.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes praises RJ Barrett for his impactful play and defensive effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4lMmtTFpb5E",
+  "url": "https://www.youtube.com/watch?v=4lMmtTFpb5E",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-24T04:53:19Z",
+  "duration_seconds": 845,
+  "processed_at": "2026-10-24T11:02:34Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

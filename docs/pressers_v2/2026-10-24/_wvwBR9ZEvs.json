@@ -1,0 +1,215 @@
+{
+  "video_title": "“The Ball Movement Has Been Contagious.” | Chris Finch Postgame Sound | 10.23.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:11",
+      "summary_phrase": "Jaden McDaniels, Anthony Edwards, and Nickeil Alexander-Walker's impact on rebounding",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Anthony Edwards",
+        "Nickeil Alexander-Walker"
+      ],
+      "excerpt": "it starts with Jaden, Anthony, and Nickeil, those guys just getting back in the play and rebounding",
+      "quote": "It starts with Jaden, Anthony, and Nickeil, those guys just getting back in the play and rebounding the ball in the air. We have been harping on it. Obviously, it is easier to rebound when you play really good first-shot defense and you can force them into shots where you are not in rotations and stuff like that. That has been key to it as well, being able to be in good help spots and then go pursue the ball. It is the pursuit of the ball on both ends of the floor. We were one of the worst teams in terms of watching rebounds last year and not actually pursuing the ball, and this year we have been able to switch our mentality to be more of a pursuit team.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says the Timberwolves have shifted their mentality to become a pursuit team on the glass. He credits Jaden McDaniels, Anthony Edwards, and Nickeil Alexander-Walker for leading the effort to actually pursue the ball this season.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels",
+          "Anthony Edwards",
+          "Nickeil Alexander-Walker"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the team's improved rebounding effort following a postgame win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "01:43",
+      "summary_phrase": "Anthony Edwards' playmaking and the team's high-assist approach",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "Nickeil Alexander-Walker"
+      ],
+      "excerpt": "Anthony was great early. We have been able to create distance in the game when Anthony started",
+      "quote": "Anthony was great early. Both games we have played, we have been able to create distance in the game when Anthony started finding people out of two-on-the-ball situations. Miami, they tried similar things and he was able to get stuff for his teammates. Maybe he did not get the assist, but he started the chain reaction. Nickeil was phenomenal getting to his spots and making the right play, and it is contagious now. We felt like we could be a high-assist team. In the Miami game, I felt like we should have had more assists, but we missed a lot of the open shots that we created for ourselves.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch says the team's ball movement is becoming contagious. He noted that Anthony Edwards is successfully starting chain reactions by finding teammates out of two on the ball situations.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards",
+          "Nickeil Alexander-Walker"
+        ],
+        "teams": [
+          "MIN",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains how Anthony Edwards and Nickeil Alexander-Walker facilitated the team's high-assist offensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "02:36",
+      "summary_phrase": "Mike Conley's influence as a playmaker and team leader",
+      "names_mentioned": [
+        "Mike Conley"
+      ],
+      "excerpt": "when you have a point guard like Mike Conley, everything kind of spreads from that",
+      "quote": "When you have a point guard like Mike Conley, everything kind of spreads from that. He is looking to get people involved. Everybody came in and really did a great job. They played their part and contributed to the effort. I thought TJ, that second unit was really good. They obviously found a rhythm and they got a lot of easy baskets.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch credits Mike Conley for setting the tone for the Timberwolves offense. He says everything spreads from the veteran point guard who is constantly looking to get people involved.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mike Conley",
+          "TJ Warren"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch highlights the playmaking influence of Mike Conley and the contribution of the second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "03:30",
+      "summary_phrase": "Anthony Edwards' growth as a leader on and off the court",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "it has been one of the transformations of our team is his leadership",
+      "quote": "It has been one of the transformations of our team is his leadership. He has got an incredible personality. When you are around him, he is a guy that people just naturally gravitate to. He has got a really infectious relationship with his teammates, and now he is learning how to put it all together with the messaging, the approach, the lead by example, and holding his teammates accountable and holding himself accountable. It has been really fun to watch him mature and everybody maturing alongside of him too.",
+      "text_blocks": [],
+      "start_seconds": 210,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says Anthony Edwards is maturing as a leader. He highlighted that Edwards is now putting it all together with his messaging, leading by example, and holding both himself and his teammates accountable.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch reflects on the growth and maturation of Anthony Edwards as a leader for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "04:19",
+      "summary_phrase": "Anthony Edwards' offensive decision-making and commitment to attacking the rim",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "I was proud of Anthony in particular because I know he was frustrated that he didn't connect",
+      "quote": "I was proud of Anthony in particular because I know he was frustrated that he did not connect on his open looks, but he kept making the right play. He changed up his game. He was not making shots from outside, he started going to the hoop. He did not necessarily get rewarded with the whistle as much as we would have liked, but he was getting downhill, putting pressure on the defense. Over time, I think it wears itself out. We shot 33 free throws and shot them well. I really thought he played a good offensive game with the way he mixed up what was being given to him.",
+      "text_blocks": [],
+      "start_seconds": 259,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch praised Anthony Edwards for his offensive decision making. Even when his outside shot was not falling, Edwards kept making the right play by getting downhill and putting pressure on the defense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises Anthony Edwards for his offensive decision-making and ability to adapt when his outside shot was not falling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "05:19",
+      "summary_phrase": "Naz Reid's consistency and defensive development",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "feels like he is kind of settling into that to a consistency",
+      "quote": "Feels like he is kind of settling into that to a consistency. I think that is what we have preached to him. For you, it is all about consistency. The next step for you is not doing more, it is doing the things you can do more often. He is showing that and I have been very pleased with his defense. He has come leaps and bounds defensively, from his routes to his competitiveness to his contain to his not fouling, and it is making a big difference out there.",
+      "text_blocks": [],
+      "start_seconds": 319,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says Naz Reid is finding consistency. He noted that Reid has come leaps and bounds defensively, specifically citing his routes, competitiveness, and ability to avoid fouling.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the improvements in consistency and defensive play shown by Naz Reid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "_wvwBR9ZEvs",
+  "url": "https://www.youtube.com/watch?v=_wvwBR9ZEvs",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-24T02:00:49Z",
+  "duration_seconds": 378,
+  "processed_at": "2026-10-24T11:03:26Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,165 @@
+{
+  "video_title": "Dejounte Murray | Pelicans vs Jazz Postgame Interview 10/23/26",
+  "speakers_seen": [
+    "Dejounte Murray"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dejounte Murray",
+      "timestamp": "00:15",
+      "summary_phrase": "Dejounte Murray on the Pelicans' team resilience and defensive identity",
+      "names_mentioned": [],
+      "excerpt": "It's great to compete. We preach being aggressive and guarding, being physical, the physicality of the game.",
+      "quote": "It's great to compete. We preach being aggressive and guarding, being physical, the physicality of the game. But I think for us the players, you'll never see me say nothing about my coaches, like never. We are on the floor and I think it's just unacceptable, back-to-back games for teams to be in the bonus with almost nine minutes in the fourth quarter. Any team in the league, if they're watching this, that's what they're preaching to their teams when they got us on the schedule. So we got to be physical, we got to be smart, discipline, one through five, and whoever is on the floor, we got to be real disciplined.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Dejounte Murray says it is unacceptable for the Pelicans to be in the bonus with nine minutes left in the fourth quarter. He is calling for more discipline from the team to avoid giving opponents easy free throws.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray discusses the team's defensive discipline and issues with foul trouble during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dejounte Murray",
+      "timestamp": "01:38",
+      "summary_phrase": "Dejounte Murray on his role as a playmaker and team leader",
+      "names_mentioned": [],
+      "excerpt": "It's a challenge of balance, being that guy that try to get guys the ball.",
+      "quote": "It's a challenge of balance, being that guy that try to get guys the ball. I feel like I'm just trying to show guys the way when getting them open shots, just knowing that's the way that we want to play. If I come out just selfish, it's a way of the game, you just got to react to the game. Sometimes you're going to come out hot because the game gives you that, but I just try to come out getting guys involved. But I still got to be aggressive more, but at the end of the day, for me as an individual, I'll be better. I hit the shot, then we win, but it's the other things, the little things that we got to execute.",
+      "text_blocks": [],
+      "start_seconds": 98,
+      "end_seconds": 147,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dejounte Murray on finding his rhythm with the Pelicans. He says he is trying to balance getting teammates involved while still being aggressive himself, noting that he needs to execute the little things better.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray reflects on balancing his playmaking responsibilities with his need to remain aggressive on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dejounte Murray",
+      "timestamp": "02:20",
+      "summary_phrase": "Dejounte Murray evaluates the bench contributions of Naji Marshall and Yves Missi",
+      "names_mentioned": [
+        "Naji Marshall",
+        "Yves Missi"
+      ],
+      "excerpt": "Saddiq's a monster. Real familiar with him. I trust him, he puts the work in.",
+      "quote": "Saddiq's a monster. Real familiar with him. I trust him, he puts the work in. We need him just to stay focused, keep going, being him. And you know, Carlo, you got to be ready, it's the NBA. We are praying for Eve, but it's always next man up. You know, be ready, it's the NBA, this is how it goes. So he's got to stay ready, he works hard. I think Carlo will be ready.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dejounte Murray emphasizes the next man up mentality for the Pelicans bench. He says he trusts his teammates to stay ready and put the work in when their number is called.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Saddiq Bey",
+          "Yves Missi"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dejounte Murray comments on the contributions and readiness of his teammates following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dejounte Murray",
+      "timestamp": "02:53",
+      "summary_phrase": "Dejounte Murray on the final possession and team accountability",
+      "names_mentioned": [],
+      "excerpt": "I got to make the shot. I feel like I got to make the shot.",
+      "quote": "I got to make the shot. I feel like I got to make the shot. Coach tried to put it on him, but we could have been better in a lot of ways. I make the shot, then we ain't even talking about nothing. And that's really that.",
+      "text_blocks": [],
+      "start_seconds": 173,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dejounte Murray takes accountability for the final possession loss. He says he has to make that shot and that if he had converted, the team would not be having these conversations.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray takes personal responsibility for missing a shot during the final possession of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dejounte Murray",
+      "timestamp": "03:11",
+      "summary_phrase": "Dejounte Murray on the importance of the upcoming game against the Nuggets",
+      "names_mentioned": [
+        "Dejounte"
+      ],
+      "excerpt": "It's a great thing, but it's a must-win. I think the guys need to know that.",
+      "quote": "It's a great thing, but it's a must-win. I think the guys need to know that. Me and Dejounte were just talking about in the locker room, get everybody on board, but it's a must-win. Like it's a must-win. If you can split on the road, that's great in this league and head back home, but first is getting to Denver, get some rest and ready to go get a win tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dejounte Murray is already looking ahead to the next game against Denver. He says the team needs to treat it as a must win to split their road trip before heading back home.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Dejounte Murray emphasizes the importance of winning the upcoming road game against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "-jcMvRWqpbU",
+  "url": "https://www.youtube.com/watch?v=-jcMvRWqpbU",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-24T05:10:01Z",
+  "duration_seconds": 223,
+  "processed_at": "2026-10-24T11:02:24Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

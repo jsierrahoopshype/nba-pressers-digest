@@ -1,0 +1,195 @@
+{
+  "video_title": "Tyler Herro Postgame Press Conference | 10.23.26",
+  "speakers_seen": [
+    "Tyler Herro"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:16",
+      "summary_phrase": "Tyler Herro on the emotional significance of the Bucks season opener",
+      "names_mentioned": [],
+      "excerpt": "It was just a great moment to be able to soak it in, have a lot of family and friends here.",
+      "quote": "It felt great. Obviously, we wanted to get a win, but just coming in today, I feel like it's a big day for Milwaukee. The Bucks season opener, my first time being back and playing in this uniform on that court in front of those fans. It was just a great moment to be able to soak it in, have a lot of family and friends here. It was exciting to be able to get that opportunity. I just wanted to be ready for it, and obviously, we got to do some better things on both sides of the ball to make sure we can squeeze out wins like that at the end.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyler Herro reflects on his Bucks debut and the emotional significance of the season opener in Milwaukee. He says it was a great moment to soak in but emphasizes the team needs to improve execution to close out tight games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro reflects on his experience playing his first game for the Milwaukee Bucks during the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "timestamp": "01:14",
+      "summary_phrase": "Tyler Herro on the team's late-game execution and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "Anytime you get to the free throw line at the end of games, it's a plus for the team.",
+      "quote": "It's the moments of truth at the end of the game. We missed a couple of free throws, had a couple of bunnies go in and out, and then obviously we got to be able to get stops on the other end. They had a couple of easy ones and got to the line. Anytime you get to the free throw line at the end of games, it's a plus for the team that's getting to the line. Overall, I think just like the first game, our first three and a half quarters or so, I thought we played well. We're a young team, guys are learning, guys are getting new experiences, and I think this will continue to get better.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyler Herro identifies late game execution and defensive discipline as the primary areas for growth after the Bucks loss. He notes the team missed key free throws and allowed too many easy opportunities at the line.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses the team's late-game execution and defensive struggles following the season opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyler Herro",
+      "timestamp": "02:05",
+      "summary_phrase": "Tyler Herro on the importance of small details in close games",
+      "names_mentioned": [],
+      "excerpt": "It's about the little things, the small details that are going to help us squeeze out wins.",
+      "quote": "I think we're going to be in a lot of games all season. It's about the little things, the small details that are going to help us squeeze out wins. Games are going to be back and forth, teams are going to go on runs, we're going to go on runs. It's about being able to do the little things in the moments of truth, whether it's 50-50 balls, being able to not foul on defense. Every time we foul, they shoot free throws, and then we got to set our offense, they set their defense, so it becomes harder to score and create advantages. The more we can get stops at the end of games, run out in transition, I think we'll be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyler Herro believes the Bucks will be in many close games this season. He stresses that winning will come down to the little things like winning 50-50 balls and avoiding unnecessary fouls to keep the transition game alive.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro explains the importance of focusing on small details and defensive discipline to win close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyler Herro",
+      "timestamp": "02:47",
+      "summary_phrase": "Tyler Herro on the dynamic impact of his teammate",
+      "names_mentioned": [],
+      "excerpt": "He's a dynamic player. He's able to get downhill, get in the paint for us, create for others.",
+      "quote": "He's a dynamic player. He's able to get downhill, get in the paint for us, create for others. He's a great player.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyler Herro praises a teammate for his ability to get downhill and create for others, calling him a dynamic player.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyler Herro praises the playmaking abilities of an unnamed teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyler Herro",
+      "timestamp": "03:03",
+      "summary_phrase": "Tyler Herro on the potential of Caleb Wilson",
+      "names_mentioned": [
+        "Caleb Wilson"
+      ],
+      "excerpt": "He's a talent. Young talent. He's going to be very good in this league for sure.",
+      "quote": "He's a talent. Young talent. He's going to be very good in this league for sure. He's athletic, freak of nature. He's going to be very good.",
+      "verbatim_original_language": "",
+      "start_seconds": 183,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyler Herro is high on the potential of Caleb Wilson, describing the young talent as a freak of nature who is going to be very good in this league.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Caleb Wilson"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyler Herro discusses the athletic potential and future outlook for teammate Caleb Wilson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyler Herro",
+      "timestamp": "03:16",
+      "summary_phrase": "Tyler Herro on the growth and work ethic of Casper Ware",
+      "names_mentioned": [
+        "Casper Ware"
+      ],
+      "excerpt": "He's a hard worker at the end of the day, so he wants to learn, he wants to get better.",
+      "quote": "He's a hard worker at the end of the day, so he wants to learn, he wants to get better. This guy's the limit for him. He's a very smart player. He's someone that I trust with the ball at the end of the game, so I can see why coach does as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 196,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyler Herro expresses his trust in Casper Ware, citing his work ethic and intelligence. Herro says he understands why the coaching staff trusts Ware with the ball in crunch time.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Casper Ware"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyler Herro highlights the work ethic and basketball IQ of teammate Casper Ware.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "tac_h3VHCFA",
+  "url": "https://www.youtube.com/watch?v=tac_h3VHCFA",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-23T23:37:21Z",
+  "duration_seconds": 223,
+  "processed_at": "2026-10-24T11:03:38Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

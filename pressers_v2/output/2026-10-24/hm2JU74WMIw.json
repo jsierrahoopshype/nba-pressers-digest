@@ -1,0 +1,130 @@
+{
+  "video_title": "Hornets vs Hawks: Sion James Postgame Media Availability | 10/23/2026",
+  "speakers_seen": [
+    "Sion James"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sion James",
+      "timestamp": "00:12",
+      "summary_phrase": "Sion James on Atlanta's physical and aggressive defensive strategy",
+      "names_mentioned": [],
+      "excerpt": "They were being physical, they were being aggressive, and they were picking us up really high.",
+      "quote": "They were being physical, they were being aggressive, and they were picking us up really high and trying to keep us on the sidelines. They were keeping some of their better defenders on the ball. It's honestly the staples of how they usually play and we just didn't respond well to it.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Sion James says the Hornets struggled to respond to the Hawks physical defensive pressure tonight. He noted that Atlanta was picking them up high and staying aggressive on the ball throughout the game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Sion James discusses the physical defensive pressure applied by the Atlanta Hawks during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sion James",
+      "timestamp": "00:36",
+      "summary_phrase": "Sion James explains the team's poor decision-making and live-ball turnovers",
+      "names_mentioned": [],
+      "excerpt": "We were just making the wrong decisions with the ball. We were putting ourselves in positions.",
+      "quote": "We were just making the wrong decisions with the ball. We were putting ourselves in positions that we didn't need to be in. We were driving into traffic sometimes or just driving with no kind of outlet and when that was the case, there's just nowhere to go with the ball. Live-ball turnovers hurt because they turn into quick baskets for them.",
+      "verbatim_original_language": "",
+      "start_seconds": 36,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Sion James points to poor decision making and live ball turnovers as the primary reason for the Hornets loss. He admitted the team was driving into traffic without outlets and giving up too many quick baskets.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Sion James explains the team's struggles with decision-making and turnovers during their loss to the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Sion James",
+      "timestamp": "01:22",
+      "summary_phrase": "Sion James on the team's mindset following a tough loss",
+      "names_mentioned": [],
+      "excerpt": "Whether we were by 47 or by one, we lost the game. It's one loss.",
+      "quote": "It's a great learning opportunity. Coach is super positive, so I'm not surprised that he said that. It doesn't always feel like that, but at the end of the day, whether we were by 47 or by one, we lost the game. It's one loss on our record. Whether we'd won or we lost, we got to show back up here at 6:00 and go be better than we were today regardless.",
+      "verbatim_original_language": "",
+      "start_seconds": 82,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Sion James says the Hornets are treating tonight as a learning opportunity. He emphasized that regardless of the margin of defeat the team has to show up and be better tomorrow.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Sion James reflects on the team's mindset and the need to improve following their loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Sion James",
+      "timestamp": "02:14",
+      "summary_phrase": "Sion James attributes turnovers to poor execution rather than timeouts",
+      "names_mentioned": [],
+      "excerpt": "It wasn't really a timeout or no timeout theme, it was just we weren't executing.",
+      "quote": "It wasn't really a timeout or no timeout theme, it was just we weren't executing. We weren't executing whether there was a timeout called or not. That's just on us as players to do our job. Coach is putting us in positions we got to be in, and we just got to do a better job of executing.",
+      "verbatim_original_language": "",
+      "start_seconds": 134,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sion James says the Hornets turnover issues were not about coaching or timeouts but rather a failure to execute. He noted that the players have to do a better job of executing the positions the coach puts them in.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Sion James addresses the team's lack of execution and responsibility for turnovers regardless of coaching timeouts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "hm2JU74WMIw",
+  "url": "https://www.youtube.com/watch?v=hm2JU74WMIw",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-24T02:14:03Z",
+  "duration_seconds": 153,
+  "processed_at": "2026-10-24T11:03:13Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

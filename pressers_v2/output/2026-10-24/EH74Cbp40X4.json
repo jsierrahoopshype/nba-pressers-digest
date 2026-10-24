@@ -1,0 +1,183 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Warriors",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:08",
+      "summary_phrase": "Tuomas Iisalo praises Ziaire Williams' defensive impact and hustle",
+      "names_mentioned": [
+        "Ziaire Williams"
+      ],
+      "excerpt": "got to really tip my hat to Ziaire Williams in the end who basically got every loose ball",
+      "quote": "Got to really tip my hat to Ziaire Williams in the end who basically got every loose ball, every rebound, just an enormous presence and just great to see him back out there.",
+      "start_seconds": 68,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo praised Ziaire Williams for his defensive impact against the Warriors, noting that he was an enormous presence who basically got every loose ball and every rebound.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ziaire Williams"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Head coach Tuomas Iisalo praises Ziaire Williams for his hustle and defensive contributions during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:29",
+      "summary_phrase": "Tuomas Iisalo discusses Cam Spencer's rookie performance and shooting",
+      "names_mentioned": [
+        "Cam Spencer"
+      ],
+      "excerpt": "He was the one right from the get-go. Him not knocking down shots in a couple games",
+      "quote": "He was the one right from the get-go. Him not knocking down shots in a couple games led to them giving him a little bit of open space and he obviously started, I think going three for three and was feeling good and overall high-level rookie matchup.",
+      "start_seconds": 89,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo on Cam Spencer after his performance against the Warriors: He was the one right from the get-go and it was an overall high-level rookie matchup.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Spencer"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the performance of rookie Cam Spencer and his shooting rhythm during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:48",
+      "summary_phrase": "Tuomas Iisalo on Cam Spencer's relentless motor and conditioning",
+      "names_mentioned": [
+        "Cam Spencer"
+      ],
+      "excerpt": "no matter which role he's in and in transition and he's relentless, it doesn't really seem like",
+      "quote": "No matter which role he's in and in transition and he's relentless, it doesn't really seem like he had our highest minutes tonight and seems to be able to push through it without any sign of fatigue.",
+      "start_seconds": 108,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tuomas Iisalo highlighted the conditioning of Cam Spencer, noting that he is relentless in transition and shows no signs of fatigue even when playing heavy minutes.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Spencer"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo comments on Cam Spencer's high motor and ability to maintain energy throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:32",
+      "summary_phrase": "Tuomas Iisalo evaluates Ziaire Williams' defensive versatility against Steph Curry",
+      "names_mentioned": [
+        "Ziaire Williams",
+        "Steph Curry",
+        "E.K.",
+        "Green",
+        "Peyton",
+        "Horford"
+      ],
+      "excerpt": "He was able to do it and against very different type of matchups. He was on E.K.",
+      "quote": "He was able to do it and against very different type of matchups. He was on E.K., then he was on Green, he was on Peyton, I think he was on Horford and found a way to impact the game against all of these guys. There's always an adjustment period in the beginning of a game against Curry because he's so explosive and needs so little space to get his shot off.",
+      "start_seconds": 152,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo credited Ziaire Williams for his defensive versatility, noting he found a way to impact the game while matched up against several different types of players.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ziaire Williams",
+          "Stephen Curry",
+          "Draymond Green",
+          "Gary Payton II",
+          "Al Horford"
+        ],
+        "teams": [
+          "MEM",
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo evaluates Ziaire Williams' defensive versatility while guarding various opponents including Stephen Curry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:42",
+      "summary_phrase": "Tuomas Iisalo on Ty Jerome's role as a primary handler",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "He plays as a primary handler for us and as a starting primary, which he has never",
+      "quote": "He plays as a primary handler for us and as a starting primary, which he has never played before in his career. He's been explosive off the bench, especially in Cleveland a couple years ago and last year he was very good for us, but in the right player, he finds the right situation, good things can happen.",
+      "start_seconds": 222,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo discussed Ty Jerome taking on a new role as a primary handler, saying that in the right situation, good things can happen for him.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "MEM",
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo discusses the transition of Ty Jerome into a primary ball-handling role for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "EH74Cbp40X4",
+  "url": "https://www.youtube.com/watch?v=EH74Cbp40X4",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-10-24T05:16:57Z",
+  "duration_seconds": 263,
+  "processed_at": "2026-10-24T11:02:11Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

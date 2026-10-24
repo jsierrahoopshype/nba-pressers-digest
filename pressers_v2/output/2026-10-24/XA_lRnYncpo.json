@@ -1,0 +1,282 @@
+{
+  "video_title": "RJ Barrett | Post Game at Wizards | October 23, 2026",
+  "speakers_seen": [
+    "RJ Barrett"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:06",
+      "summary_phrase": "RJ Barrett on the Raptors' gritty win against the Wizards",
+      "names_mentioned": [],
+      "excerpt": "It was a nasty one. Couldn't make any shots, but we just hung tough, played defense.",
+      "quote": "It was a nasty one. It was a nasty one. Couldn't make any shots, but we just hung tough, played defense. Found the line in the first, so I think we figured it out a little more in the second half, but grit and toughness, man. Got to be able to win those games when the shots aren't falling and things aren't going your way.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett on the Raptors grinding out a win against the Wizards despite a poor shooting night: It was a nasty one. Got to be able to win those games when the shots aren't falling and things aren't going your way.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the Raptors' gritty victory over the Wizards after struggling with shooting efficiency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:31",
+      "summary_phrase": "RJ Barrett on defending Trae Young and drawing fouls",
+      "names_mentioned": [
+        "Trae Young"
+      ],
+      "excerpt": "He's been in the league a while. He's going to get them calls, man.",
+      "quote": "He's been in the league a while. He's going to get them calls, man. He's really good at it. As a person that gets foul calls, he got it for sure. So I'm just trying to like, hey, get my hands out the way.",
+      "text_blocks": [],
+      "start_seconds": 31,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett on defending Trae Young and navigating his ability to draw fouls: He is really good at it. As a person that gets foul calls he got it for sure. So I am just trying to get my hands out the way.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "TOR",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "RJ Barrett comments on the challenge of defending Trae Young and his ability to draw fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:55",
+      "summary_phrase": "RJ Barrett on the Raptors' defensive strategy against Anthony Davis",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Anthony Davis"
+      ],
+      "excerpt": "Just really trying to make his catch as tough, be physical.",
+      "quote": "Scottie started on him, and we got some action. Just really trying to make his catch as tough, be physical. Yeah, just try to make him uncomfortable as much as possible, I'd say. He's obviously a great player, so great defense from us tonight. We'll see them a bunch more times, but I think we did a good job tonight.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett on the Raptors defensive strategy against Anthony Davis: Just really trying to make his catch as tough, be physical. Just try to make him uncomfortable as much as possible.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "TOR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "RJ Barrett explains the defensive strategy used by the Raptors to contain Anthony Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "RJ Barrett",
+      "timestamp": "01:36",
+      "summary_phrase": "RJ Barrett on his willingness to step up when needed",
+      "names_mentioned": [],
+      "excerpt": "You know me, I'm there when you need me.",
+      "quote": "You know me, I'm there when you need me.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "RJ Barrett on his role with the team: You know me, I am there when you need me.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett briefly comments on his readiness to contribute when the team needs him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "RJ Barrett",
+      "timestamp": "01:49",
+      "summary_phrase": "RJ Barrett on embracing the grind of non-pretty wins",
+      "names_mentioned": [],
+      "excerpt": "My game's not pretty, so you know, I think for us, the game was nasty.",
+      "quote": "My game's not pretty, so you know, I think for us, the game was nasty, like we said, but at the same time, the way we play defense and stuff, it's almost in our favor when it's like that. So, good teams, they figure out how to win when things are going their way, when it's not. So if we want to be a good team, we got to continue to win games like this.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett says the Raptors are embracing the grind of ugly wins: My game is not pretty, so I think for us, the game was nasty, but the way we play defense is almost in our favor when it is like that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett reflects on the team's ability to win ugly games through defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:34",
+      "summary_phrase": "RJ Barrett on maintaining defensive intensity without fouling",
+      "names_mentioned": [],
+      "excerpt": "We're going to play the same way the whole time.",
+      "quote": "We're going to play the same way the whole time. We're fouling a lot, we'll watch some film, adjust, but we won two games, so I don't think we need to change too much in that regard.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett on the team's high foul count: We are fouling a lot, we will watch some film, adjust, but we won two games, so I do not think we need to change too much in that regard.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the team's approach to managing foul trouble while maintaining defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:53",
+      "summary_phrase": "RJ Barrett on the high level of competition in the East",
+      "names_mentioned": [],
+      "excerpt": "The East is, I think, probably the best I've seen.",
+      "quote": "Just about every night. The East is, I think, probably the best I've seen and I don't even know since I've been here.",
+      "text_blocks": [],
+      "start_seconds": 173,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "RJ Barrett on the state of the Eastern Conference: The East is probably the best I have seen since I have been here.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett shares his perspective on the high level of competition within the Eastern Conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "RJ Barrett",
+      "timestamp": "03:12",
+      "summary_phrase": "RJ Barrett on the team's defensive identity",
+      "names_mentioned": [],
+      "excerpt": "It makes it hard on the other team, making it hard on the opponents.",
+      "quote": "It makes it hard on the other team, making it hard on the opponents. Try to take them out of their stuff, make them uncomfortable as much as possible, and it's a team effort for sure.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "RJ Barrett on the Raptors defensive identity: It makes it hard on the other team, making it hard on the opponents. Try to take them out of their stuff, make them uncomfortable as much as possible.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett describes the Raptors' defensive identity and the importance of collective effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "RJ Barrett",
+      "timestamp": "03:31",
+      "summary_phrase": "RJ Barrett on the impact of Collin Sexton's play",
+      "names_mentioned": [
+        "Collin Sexton"
+      ],
+      "excerpt": "He's just active, he's just all over the place offensively, defensively.",
+      "quote": "We had a big stretch where we went on a run and he got like three steals in the third. So he's just active, he's just all over the place offensively, defensively. He's doing a lot out there for us.",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett praises Collin Sexton's defensive impact: He had a big stretch where he went on a run and he got like three steals in the third. He is just active, he is just all over the place offensively, defensively.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Collin Sexton"
+        ],
+        "teams": [
+          "TOR",
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "RJ Barrett praises the defensive impact and energy provided by teammate Collin Sexton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "XA_lRnYncpo",
+  "url": "https://www.youtube.com/watch?v=XA_lRnYncpo",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-24T03:12:37Z",
+  "duration_seconds": 227,
+  "processed_at": "2026-10-24T11:03:04Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

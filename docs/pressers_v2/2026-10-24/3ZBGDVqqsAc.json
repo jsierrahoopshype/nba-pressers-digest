@@ -1,0 +1,231 @@
+{
+  "video_title": "“This Team Wants To Compete.” | Ayo Dosunmu Postgame Sound | 10.23.26",
+  "speakers_seen": [
+    "Ayo Dosunmu",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [],
+      "timestamp": "00:12",
+      "summary_phrase": "Ayo Dosunmu on the team's competitive mindset during training camp",
+      "names_mentioned": [],
+      "excerpt": "Just being competitive, I think that was the emphasis for us this whole training camp.",
+      "quote": "Just being competitive, I think that was the emphasis for us this whole training camp and just being competitive, standing up the ball, standing up our man above the three-point line. We understand we may lack in size, so we have to make up for that with grit and playing hard and playing together, and I think we did a pretty good job of it tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ayo Dosunmu says the team is leaning into grit to compensate for a lack of size this season. We understand we may lack in size so we have to make up for that with grit and playing hard and playing together.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the team's emphasis on competitiveness and defensive intensity during training camp following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [],
+      "timestamp": "00:40",
+      "summary_phrase": "Ayo Dosunmu on how intense training camp prepared the team",
+      "names_mentioned": [],
+      "excerpt": "It definitely got us right physically as a team.",
+      "quote": "It definitely got us right physically as a team. We were going at it for a month straight, competing. No one wants to lose, everyone playing hard, making it hard on each other. So now it's easier in the game, and that's what training camp is for. That's why you always want to have a bunch of competitors competing, getting ready for the season, and now it makes the game easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ayo Dosunmu credits an intense training camp for the team's readiness. We were going at it for a month straight competing and now it makes the game easier.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains how the intensity of training camp prepared the team physically for the regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [],
+      "timestamp": "01:10",
+      "summary_phrase": "Ayo Dosunmu on the team's shared goal to win",
+      "names_mentioned": [
+        "LaMelo"
+      ],
+      "excerpt": "At the end of the day, everyone on this team, this organization is to win.",
+      "quote": "Of course, we want to just play the game the right way. At the end of the day, everyone on this team, this organization is to win. In order for us to do that, we have to practice good habits and demonstrate good habits each night in, night out. We can't wait for the playoffs just to say okay, we're going to turn it on. Everyone has the right mindset. We want to get the win, we want to have fun, we want to compete, and while we're competing hard, we want to play together. And when we do that, you will see we are very connected.",
+      "verbatim_original_language": "",
+      "start_seconds": 70,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ayo Dosunmu emphasizes that the team is focused on building good habits early. We cannot wait for the playoffs just to say okay we are going to turn it on.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the importance of maintaining good habits and a winning mindset throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [],
+      "timestamp": "01:48",
+      "summary_phrase": "Ayo Dosunmu on the team's shared age and competitive culture",
+      "names_mentioned": [],
+      "excerpt": "We got a bunch of competitors for one, we all about the same age.",
+      "quote": "We got a bunch of competitors for one, we all about the same age and like I said, we all have one common goal. We all want to win, we all want to do whatever it takes to help this organization win, and that's just our main goal. So each and every night, we want to compete, we want to win, but while we're doing so, we want to have fun doing it. The more and more we do that, the more and more we continue to demonstrate championship habits, the better team we will be.",
+      "verbatim_original_language": "",
+      "start_seconds": 108,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ayo Dosunmu on the team culture. We have a bunch of competitors and we all have one common goal. We all want to do whatever it takes to help this organization win.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu describes the shared goals and competitive culture among the younger players on the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [],
+      "timestamp": "02:37",
+      "summary_phrase": "Ayo Dosunmu on mentoring and developing his teammate's potential",
+      "names_mentioned": [],
+      "excerpt": "I'm on him because I understand his potential and how great he can be.",
+      "quote": "His talent is great, his one factor, want to be great is there. So I'm on him because I understand his potential and how great he can be. I understand how we're going to need him, so I'm trying to give him just tips every chance I can get to help him become the best player he can be because the sky is the limit for him. He listens, he wants to be great, so each and every game I'm trying to do whatever I can to help him.",
+      "verbatim_original_language": "",
+      "start_seconds": 157,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ayo Dosunmu is taking a mentorship role with his teammates. I am on him because I understand his potential and how great he can be. The sky is the limit for him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu talks about mentoring a younger teammate and pushing him to reach his full potential.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [],
+      "timestamp": "03:20",
+      "summary_phrase": "Ayo Dosunmu on the team's depth and playing the right way",
+      "names_mentioned": [
+        "Ant",
+        "LaMelo"
+      ],
+      "excerpt": "Every time we play the right way, we generate a good shot.",
+      "quote": "We want to show it each and every night. We want to play the right way, and I think every time we play the right way, we generate a good shot, whether we make it or miss it. That's how you play the game the right way, and the game rewards you. Ant will shoot his shots tonight, LaMelo will probably shoot his shots tonight, but we want to be a team that when Ant is healthy, we can win. When Ant, he don't have to score 50, we can win. We know how great he is, we know how great LaMelo is, but at the end of the day, we want to go out there together and do whatever it takes to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 200,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ayo Dosunmu wants the team to be less reliant on individual scoring outbursts. We want to be a team that when Ant is healthy we can win. He does not have to score 50.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu discusses the team's offensive philosophy and the roles of Anthony Edwards and LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [],
+      "timestamp": "04:01",
+      "summary_phrase": "Ayo Dosunmu on the team's physical and frustrating defensive style",
+      "names_mentioned": [
+        "Franz"
+      ],
+      "excerpt": "Each and every time when you physical, when you playing hard, not giving no shot up.",
+      "quote": "Each and every time when you physical, when you playing hard, not giving no shot up, it can make them a little frustrated. So I understand where they came from, but like I said, we trying to come in, have fun, take care our business and get up out of here.",
+      "verbatim_original_language": "",
+      "start_seconds": 241,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ayo Dosunmu on the team's defensive identity. When you are physical and playing hard it can make the opponent a little frustrated.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu reflects on the team's physical defensive style and its impact on opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "3ZBGDVqqsAc",
+  "url": "https://www.youtube.com/watch?v=3ZBGDVqqsAc",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-24T08:40:02Z",
+  "duration_seconds": 263,
+  "processed_at": "2026-10-24T11:02:01Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

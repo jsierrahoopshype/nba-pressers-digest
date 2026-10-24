@@ -1,0 +1,609 @@
+{
+  "video_title": "Media Availability: Trae Young, Justin Champagnie, and Head Coach Brian Keefe | 10.23.26",
+  "speakers_seen": [
+    "Trae Young",
+    "Justin Champagnie",
+    "Brian Keefe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trae Young",
+      "timestamp": "00:48",
+      "summary_phrase": "Trae Young on DeAndre's screening and J.C.'s versatility",
+      "names_mentioned": [
+        "DeAndre"
+      ],
+      "excerpt": "DeAndre is a great screener. He's been a great screener his whole career.",
+      "quote": "DeAndre is a great screener. He's been a great screener his whole career, and being able to get my defender off me by screening. And obviously J.C. is a winning player. He can do everything. He can knock down shots, he is in the pick and roll, he had some pick and rolls tonight and some layups later in the game that were very key for us to stick around in the game.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young on his teammates: DeAndre is a great screener and JC is a winning player who can do everything. He can knock down shots and is key for us in the pick and roll.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeAndre Hunter",
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "WAS",
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young discusses the contributions of his teammates during a post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trae Young",
+      "timestamp": "01:42",
+      "summary_phrase": "Trae Young on the team's need to maintain intensity",
+      "names_mentioned": [],
+      "excerpt": "It's a long game. We can learn from the first quarter to the second and continue.",
+      "quote": "It's a long game. Just reminding these guys that it's a long game, and we didn't start out the way we wanted to, and their physicality really got to us. Just understanding that it's a long game. We can learn from the first quarter to the second and continue into the fourth, and I think that's just what I was preaching the whole time. It's a long game, and we're still in it. We just got to figure out how to fight and match that intensity and make some shots.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young on the Wizards early struggles: It is a long game. We did not start out the way we wanted to and their physicality really got to us. We just have to figure out how to fight and match that intensity.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young reflects on the team's need to maintain intensity throughout the duration of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trae Young",
+      "timestamp": "02:19",
+      "summary_phrase": "Trae Young on Alex Sarr's slow offensive start",
+      "names_mentioned": [
+        "Alex Sarr"
+      ],
+      "excerpt": "It's two games, bro. Don't sweat it. He's going to have his games where he has really good nights.",
+      "quote": "It's two games, bro. Don't sweat it. He's going to have his games where he has really good nights, and other guys who have great nights right now may not have that night. It's only one basketball out there, and we have really good players, and it's not just one or two of us. It's seven, eight, nine, ten of us out there that are really good and can all make an impact on any given night, and that's what makes this team special. So Alex will have his time for sure. I'm not worried about it.",
+      "text_blocks": [],
+      "start_seconds": 139,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trae Young on Alex Sarr's slow start: It is two games, bro. Don't sweat it. He is going to have his games where he has really good nights. I am not worried about it.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alex Sarr"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young addresses questions regarding Alex Sarr's slow offensive start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trae Young",
+      "timestamp": "02:56",
+      "summary_phrase": "Trae Young on learning from physical defensive teams",
+      "names_mentioned": [],
+      "excerpt": "This is a very physical team. We can learn from this. We can learn from just being stronger.",
+      "quote": "This is a very physical team. We can learn from this. We can learn from just being stronger with it. I was sloppy later in the game, especially in that fourth, late. That's not a good example I want to set. I thought I was doing pretty good, and I think our team, we can just learn from this. This is just a learning experience. It's game two. I don't want to overemphasize that, but that is what we're at right now, and we got a long season ahead of us.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young on the loss: This is a very physical team. We can learn from this. I was sloppy later in the game, especially in that fourth. That is not a good example I want to set.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the team's need to learn from physical defensive opponents early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trae Young",
+      "timestamp": "03:40",
+      "summary_phrase": "Trae Young on the team's growth and chemistry",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "This team we played tonight was in the playoffs last year and then they had Kawhi Leonard.",
+      "quote": "For sure. I think obviously even the teams we played were a lot different. This team we played tonight was in the playoffs last year and then they had Kawhi Leonard. So that's not a team that doesn't have experience of playing in big and high-level games, and so that's a good test for us, and I'm glad we had it now, and we can learn from it and get better.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trae Young on facing playoff-caliber teams: This team we played tonight was in the playoffs last year and had Kawhi Leonard. That is a good test for us and I am glad we had it now.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "WAS",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Trae Young comments on the challenge of playing against experienced, playoff-caliber teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trae Young",
+      "timestamp": "05:13",
+      "summary_phrase": "Trae Young on building team chemistry over time",
+      "names_mentioned": [],
+      "excerpt": "Chemistry is like trust. It's built over time.",
+      "quote": "Chemistry is like trust. It's built over time. We've had a great summer, we've had a great summer, great preseason, and this is just the start of the season for us, and I think we have great chemistry off the court, and now it's just trying to figure out how we can continue to get better on the court. We have great moments and great spurts throughout the game, but this is figuring out how to continue to have it consistently throughout the game is what we're striving to have.",
+      "text_blocks": [],
+      "start_seconds": 313,
+      "end_seconds": 348,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trae Young on team chemistry: Chemistry is like trust. It is built over time. We have great chemistry off the court, and now it is just trying to figure out how we can continue to get better on the court.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young explains how the team is working to build chemistry and consistency on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Justin Champagnie",
+      "timestamp": "05:54",
+      "summary_phrase": "Justin Champagnie on Trae Young's leadership",
+      "names_mentioned": [
+        "Trae"
+      ],
+      "excerpt": "Trae has been in a lot of those games before so he knows how to carry himself.",
+      "quote": "Trae has been in a lot of those games before so he knows how to carry himself, but what I really appreciate most is how he tried to keep all of us on the same page and on the same court. We're all young, we're still figuring out, still trying to figure out each other, and having a vet like that to help us pull it all together is very crucial for us.",
+      "text_blocks": [],
+      "start_seconds": 354,
+      "end_seconds": 382,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Justin Champagnie on Trae Young's leadership: Trae has been in a lot of those games before so he knows how to carry himself. Having a vet like that to help us pull it all together is very crucial for us.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Justin Champagnie discusses the leadership Trae Young provides to the younger players on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Justin Champagnie",
+      "timestamp": "06:37",
+      "summary_phrase": "Justin Champagnie on his role and energy",
+      "names_mentioned": [],
+      "excerpt": "I just like to stay in my role, stick to my role, do my job, shoot open threes.",
+      "quote": "I just like to stay in my role, stick to my role, do my job, shoot open threes, rebound, defend, and just be a dog. I try to come in the game and bring energy, and I feel like my energy is what, you know, I feed off of and what my teammates feed off of, and that allows me to be so impactful and so impactful out there.",
+      "text_blocks": [],
+      "start_seconds": 397,
+      "end_seconds": 424,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Justin Champagnie on his role: I just like to stay in my role, stick to my role, do my job, shoot open threes, rebound, defend, and just be a dog.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Justin Champagnie describes his role and the energy he aims to bring to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Justin Champagnie",
+      "timestamp": "07:05",
+      "summary_phrase": "Justin Champagnie on the need for early physicality",
+      "names_mentioned": [],
+      "excerpt": "We should have came into the game a little bit more physical, kind of match that energy.",
+      "quote": "I think the physicality. I think we should have came into the game a little bit more physical, kind of match that energy from the jump. But you know, it's still a learning curve for us. We're still trying to figure it out. But after the game, we all knew it like that was that's what cost us the game in the beginning. We didn't match the physicality from the jump, and then we tried to bring it on later on, and then it just didn't go our way.",
+      "text_blocks": [],
+      "start_seconds": 425,
+      "end_seconds": 459,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Justin Champagnie on the loss: We should have come into the game a little bit more physical, kind of match that energy from the jump. That is what cost us the game in the beginning.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Justin Champagnie reflects on the team's failure to match the opponent's physicality from the start of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Justin Champagnie",
+      "timestamp": "07:54",
+      "summary_phrase": "Justin Champagnie on learning from the opponent's physicality",
+      "names_mentioned": [],
+      "excerpt": "The biggest thing that they do that we can pick off of is just be physical.",
+      "quote": "I think though the biggest the biggest thing that they do that we can pick off of is just be physical. Like just put your hands on people because that's what they do. But other than that, I think that we just got to just be more locked in from the jump, that's really it.",
+      "text_blocks": [],
+      "start_seconds": 474,
+      "end_seconds": 495,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Justin Champagnie on what the team can learn: The biggest thing that they do that we can pick off of is just be physical. Just put your hands on people because that is what they do.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Justin Champagnie discusses what the team can learn from the physical style of their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Justin Champagnie",
+      "timestamp": "08:21",
+      "summary_phrase": "Justin Champagnie defining his role as a glue guy",
+      "names_mentioned": [],
+      "excerpt": "A glue guy. Somebody that can come in and play with any lineup and then just make something happen.",
+      "quote": "A glue guy. Somebody that can come in and play with any lineup and then just make something happen.",
+      "text_blocks": [],
+      "start_seconds": 501,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Justin Champagnie on his identity: A glue guy. Somebody that can come in and play with any lineup and then just make something happen.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Justin Champagnie defines his role on the team as a versatile glue guy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Brian Keefe",
+      "timestamp": "09:30",
+      "summary_phrase": "Brian Keefe on the team's competitive response",
+      "names_mentioned": [],
+      "excerpt": "Loved our competitive response. We probably didn't love the start that we, you know, we had.",
+      "quote": "Loved our competitive response. We probably didn't love the start that we, you know, we had in the first, but loved our bounce back. A good team that we played tonight, you know, they're physical. I thought they did some stuff to disrupt us, but there's a lot to learn. We'll take a look at the film and get ready for tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 570,
+      "end_seconds": 594,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on the Wizards response: Loved our competitive response. We probably did not love the start that we had in the first, but loved our bounce back.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe reacts to the team's competitive response after a slow start to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Brian Keefe",
+      "timestamp": "10:26",
+      "summary_phrase": "Brian Keefe on improving spacing and decisiveness",
+      "names_mentioned": [],
+      "excerpt": "Us getting into our actions quicker, our spacing and then just delivering the ball and being decisive.",
+      "quote": "Us getting into our actions quicker, our spacing and then just delivering the ball and being decisive. I thought when we did that, you know, stuff was wide open, we got great shots. But really, it always starts with our defense. The thing that held us back a little bit in the seconds half was we rebounded really well in the first half, didn't rebound as well, because when we rebound, we can get on transition, you can see we're pretty good in transition.",
+      "text_blocks": [],
+      "start_seconds": 626,
+      "end_seconds": 658,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe on offensive execution: Us getting into our actions quicker, our spacing and then just delivering the ball and being decisive. It always starts with our defense.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe outlines the areas for improvement regarding spacing, decisiveness, and defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Brian Keefe",
+      "timestamp": "11:04",
+      "summary_phrase": "Brian Keefe on Kyshawn George's turnovers and growth",
+      "names_mentioned": [
+        "Kyshawn George"
+      ],
+      "excerpt": "We're playing in crowds a little bit too much. You know, this is kind of what they do.",
+      "quote": "The same things as some of the others, just you know, we're playing in crowds a little bit too much. You know, this is kind of what they do. So this is this is a good lesson for us. We're going to learn a lot from this game, but he'll bounce back.",
+      "text_blocks": [],
+      "start_seconds": 664,
+      "end_seconds": 684,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on Kyshawn George: We are playing in crowds a little bit too much. This is a good lesson for us. We are going to learn a lot from this game, but he will bounce back.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyshawn George"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses Kyshawn George's turnovers and the learning process for the young player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Brian Keefe",
+      "timestamp": "11:26",
+      "summary_phrase": "Brian Keefe on team shooting and defensive resilience",
+      "names_mentioned": [],
+      "excerpt": "You're not always going to shoot the ball well, but we were able to keep ourselves in the game.",
+      "quote": "That's the thing that I think was really good is that you're not always going to shoot the ball well, but we were able to keep ourselves in the game. And that was when we because we when we got ourselves solid on defense, got stops, got on transition, you know, we're going to make shots. I believe that we got a good good shooting team, but you're going to have to battle through games like that, and that's part of the deal.",
+      "text_blocks": [],
+      "start_seconds": 686,
+      "end_seconds": 718,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on shooting struggles: You are not always going to shoot the ball well, but we were able to keep ourselves in the game. I believe that we got a good shooting team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the importance of maintaining defensive resilience when shots are not falling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Brian Keefe",
+      "timestamp": "12:01",
+      "summary_phrase": "Brian Keefe on the importance of free throws",
+      "names_mentioned": [],
+      "excerpt": "We can establish ourselves at the free throw line. I think that's a huge positive.",
+      "quote": "We can establish ourselves at the free throw line. I think that's a huge positive. I think we had 35 free throws tonight. Like that gets us the chance to set our defense. So when things aren't going well, getting to the line, settling the team down, that can help stop runs. We saw that tonight. This is a new team. We're going to go through some growth here early in the season, that's part of it, and you know, we'll get better from it.",
+      "text_blocks": [],
+      "start_seconds": 721,
+      "end_seconds": 754,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe on free throws: We can establish ourselves at the free throw line. I think that is a huge positive. We had 35 free throws tonight. That gets us the chance to set our defense.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe highlights the importance of getting to the free-throw line to settle the team down.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Brian Keefe",
+      "timestamp": "12:30",
+      "summary_phrase": "Brian Keefe on Kyshawn George and Bilal Coulibaly's chemistry",
+      "names_mentioned": [
+        "Kyshawn George",
+        "Bilal Coulibaly"
+      ],
+      "excerpt": "When they got us into offense quickly, we made good decisions. It was really good.",
+      "quote": "When they got us into offense quickly, we made good decisions. It was really good. We have good size when they're out there together because that really helps us defensively. They're going to continue to grow in that role.",
+      "text_blocks": [],
+      "start_seconds": 750,
+      "end_seconds": 765,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on Kyshawn George and Bilal Coulibaly: We have good size when they are out there together because that really helps us defensively. They are going to continue to grow in that role.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyshawn George",
+          "Bilal Coulibaly"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brian Keefe discusses the growing chemistry and defensive impact of Kyshawn George and Bilal Coulibaly playing together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Brian Keefe",
+      "timestamp": "12:46",
+      "summary_phrase": "Brian Keefe on second-half rebounding struggles",
+      "names_mentioned": [],
+      "excerpt": "They were crashing. They're one of these teams who crashes, this is something we emphasized.",
+      "quote": "They were crashing. They're one of these teams who crashes, this is something we emphasized. First half we did terrific. You know, we were, you know, when you sometimes playing from a deficit like we were, sometimes you can lose a little bit of energy in certain areas. That was the one area that we lost energy in, finishing possessions.",
+      "text_blocks": [],
+      "start_seconds": 766,
+      "end_seconds": 789,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on rebounding: They were crashing. Sometimes playing from a deficit like we were, sometimes you can lose a little bit of energy in certain areas. That was the one area that we lost energy in.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains the team's struggles with rebounding in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Brian Keefe",
+      "timestamp": "13:15",
+      "summary_phrase": "Brian Keefe on Bub Carrington's energy and impact",
+      "names_mentioned": [
+        "Bub Carrington"
+      ],
+      "excerpt": "He's been terrific. He's always ready to compete, ready to play, brings energy every day.",
+      "quote": "He's been terrific. He's always ready to compete, ready to play, brings energy every day, every day in our gym and always brings it during the game. He's changed the games for us. I think he's really stepped into and done a nice job early in the season.",
+      "text_blocks": [],
+      "start_seconds": 795,
+      "end_seconds": 813,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe on Bub Carrington: He has been terrific. He is always ready to compete, ready to play, brings energy every day. He has changed the games for us.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bub Carrington"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe praises the energy and impact Bub Carrington has brought to the team early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Brian Keefe",
+      "timestamp": "13:41",
+      "summary_phrase": "Brian Keefe on Alex Sarr's defensive contributions",
+      "names_mentioned": [
+        "Alex Sarr",
+        "Trae Young",
+        "Trae Johnson"
+      ],
+      "excerpt": "I thought Alex did a good job of, you know, you can see what Alex does on the defensive.",
+      "quote": "I thought Alex did a good job of, you know, you can see what Alex does on the defensive. You know, when we made the run, he gets a rebound, he brings in the break, he kicks it out to Trae for a Trae Johnson for a three. The shots are going to come. This is the chemistry stuff that we're learning about our team. We're playing, we got some new players, we're learning how to play together, that's the early stuff that we're working through, but I liked his impact in the game when he was in there.",
+      "text_blocks": [],
+      "start_seconds": 821,
+      "end_seconds": 859,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe on Alex Sarr: I thought Alex did a good job. You can see what Alex does on the defensive end. The shots are going to come. This is the chemistry stuff that we are learning about our team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alex Sarr",
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brian Keefe evaluates Alex Sarr's defensive contributions and his chemistry with teammates on the floor.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "gSgPqVw6ICk",
+  "url": "https://www.youtube.com/watch?v=gSgPqVw6ICk",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-24T04:16:55Z",
+  "duration_seconds": 897,
+  "processed_at": "2026-10-24T11:02:53Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,133 @@
+{
+  "video_title": "“My Mindset Is Focused On The Next Play.” | Joan Beringer Postgame Sound | 10.23.26",
+  "speakers_seen": [
+    "Joan Beringer"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joan Beringer",
+      "timestamp": "00:09",
+      "summary_phrase": "Joan Beringer on Minnesota's rebounding success against big teams",
+      "names_mentioned": [],
+      "excerpt": "as a team, just always go for the rebounds. I think the key is the energy",
+      "quote": "I think just crush every time, as a team, just always go for the rebounds. I think the key is the energy and just be consistent, always, every time go for the rebounds.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Joan Beringer says the key to Minnesota's rebounding success is simple: crush every time as a team and maintain consistent energy.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer discusses the team's rebounding strategy following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joan Beringer",
+      "timestamp": "00:26",
+      "summary_phrase": "Joan Beringer on the impact of intense training camp scrimmages",
+      "names_mentioned": [],
+      "excerpt": "we went very hard against each other, so it's you can see now in the games",
+      "quote": "We went very hard against each other, so it's you can see now in the games, it's just payoffs, so it's it's great.",
+      "verbatim_original_language": "",
+      "start_seconds": 26,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Joan Beringer credits the intensity of Minnesota's training camp scrimmages for the team's current performance, saying the hard work is paying off in games.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer reflects on how the intensity of training camp scrimmages has benefited the team's performance in games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joan Beringer",
+      "timestamp": "01:07",
+      "summary_phrase": "Joan Beringer on managing personal expectations and maintaining focus",
+      "names_mentioned": [],
+      "excerpt": "I just try to not be focused in the every game. The past is past",
+      "quote": "I just try to not be focused in the every game. The past is past, so you just have to be focused on the next and it's what I try to try to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 67,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Joan Beringer on his mental approach to the season: I try not to focus on every game individually, the past is the past and I am just focused on the next play.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer explains his mental approach to moving past previous games and focusing on the next play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joan Beringer",
+      "timestamp": "01:46",
+      "summary_phrase": "Joan Beringer on his relationship with teammate Joe Ingles",
+      "names_mentioned": [
+        "Joe Ingles"
+      ],
+      "excerpt": "he's like a big brother for me, you know. He push me every time",
+      "quote": "I love playing with Joe Ingles, honestly. He's like a big brother for me, you know. He push me every time and when I don't play well, he's not like he's going to say, 'Yeah, you have to wake up.' You have to wake up and I love this type of energy, push me when I'm not the best version of myself.",
+      "verbatim_original_language": "",
+      "start_seconds": 106,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Joan Beringer calls Joe Ingles a big brother figure on the team, saying he appreciates how Ingles pushes him to be the best version of himself.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joe Ingles"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joan Beringer describes his relationship with teammate Joe Ingles and how Ingles motivates him to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "yBbmtpp7C_Q",
+  "url": "https://www.youtube.com/watch?v=yBbmtpp7C_Q",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-24T08:40:06Z",
+  "duration_seconds": 140,
+  "processed_at": "2026-10-24T11:01:56Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

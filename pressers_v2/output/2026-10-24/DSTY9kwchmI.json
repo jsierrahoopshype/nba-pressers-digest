@@ -1,0 +1,178 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs Jazz Postgame Interview 10/23/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:00",
+      "summary_phrase": "Jamahl Mosley provides injury update on Pelicans player's left knee",
+      "names_mentioned": [
+        "Jamahl Mosley"
+      ],
+      "excerpt": "it's a left knee injury right now, so we're going to get a look at it tomorrow",
+      "quote": "It's a left knee injury right now, so we're going to get a look at it tomorrow in Denver.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 7,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Jamahl Mosley says a Pelicans player is dealing with a left knee injury and will be evaluated tomorrow in Denver.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley provides an update on a Pelicans player who suffered a left knee injury during the game against the Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:17",
+      "summary_phrase": "Jamahl Mosley critiques Pelicans' rebounding and second-chance points allowed",
+      "names_mentioned": [
+        "Jamahl Mosley"
+      ],
+      "excerpt": "they kicked our tails early on in the game on the boards, they had a lot of",
+      "quote": "The effort and the fight. They kicked our tails early on in the game on the boards. They had a lot of second-chance opportunity and at those points there was still a 10-point game in a lot of those moments. But we got to make sure we're cleaning up the glass. Their ability to get the second-chance opportunities in that early part of the game was the difference maker in those moments.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley says the Pelicans were dominated on the boards early against the Jazz, noting that second chance opportunities were the difference maker in the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's struggles with rebounding and allowing second-chance points during the loss to the Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:47",
+      "summary_phrase": "Jamahl Mosley praises defensive impact of Dejounte Murray and Carlo Macovic",
+      "names_mentioned": [
+        "Dejounte Murray",
+        "Carlo Macovic"
+      ],
+      "excerpt": "their defense was on point, being up at the level of the screen, attacking the basketball",
+      "quote": "Their defense was on point, being up at the level of the screen, attacking the basketball, helping us finish out the possessions down that back stretch. But then the things that hit you are the turnovers. We had 15 for 27 points. Those are giving away baskets. The ability to finish possessions is going to continue to be huge for us. They had 14 offensive rebounds and I think that's a big key for what this game was in a one-point game.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley praised the defensive impact of Dejounte Murray and Carlo Macovic but pointed to 15 turnovers leading to 27 points as a major reason for the loss.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray",
+          "Carlo Macovic"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates the defensive performance of Dejounte Murray and Carlo Macovic while noting the impact of turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:25",
+      "summary_phrase": "Jamahl Mosley emphasizes finishing defensive possessions to spark transition offense",
+      "names_mentioned": [
+        "Jamahl Mosley"
+      ],
+      "excerpt": "our defense isn't done until you secure the board, and then you're able to get out",
+      "quote": "Our defense isn't done until you secure the board, and then you're able to get out and run. And that's what happened to spark the run. We were able to secure the boards and get out and run and finish on the break or get the foul on the break in a couple scenarios. So I think that's very key for us, that we got to finish possessions out in order to give ourselves an opportunity.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley emphasizes that the Pelicans defense is not done until they secure the rebound, which is the key to sparking their transition offense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the importance of securing defensive rebounds to facilitate the team's transition offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:58",
+      "summary_phrase": "Jamahl Mosley explains final play call and Dejounte Murray's contested shot",
+      "names_mentioned": [
+        "Dejounte Murray",
+        "Sadik"
+      ],
+      "excerpt": "I didn't want them to set their defense. That was the initial action",
+      "quote": "What it was, was I didn't want them to set their defense. That was the initial action. And then as it got to about 4.4 on the clock, Dejounte was turning the corner and in that moment I'm thinking about clipping and calling a timeout to give us a little bit of time in that last moment to get a shot. But again, then Triple J stepped up and was able to contest it high and late, which made it a tougher shot than we needed to be. But I thought he had turned the corner because what we were running, putting Sadik in the action, they end up switching it, crowding the paint, and us getting a tough shot at the end.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley breaks down the final play, noting that a high contest from Triple J made for a tougher shot than the Pelicans wanted at the end of the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray",
+          "Sadik Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley breaks down the final play call and the defensive pressure faced by Dejounte Murray at the end of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "DSTY9kwchmI",
+  "url": "https://www.youtube.com/watch?v=DSTY9kwchmI",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-24T05:09:57Z",
+  "duration_seconds": 180,
+  "processed_at": "2026-10-24T11:02:27Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}

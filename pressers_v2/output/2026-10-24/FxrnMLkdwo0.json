@@ -1,0 +1,263 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at Wizards | October 23, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:06",
+      "summary_phrase": "Darko Rajakovic on the Raptors' defensive performance and rebounding",
+      "names_mentioned": [],
+      "excerpt": "I thought we had moments of the game that we played really well defensively.",
+      "quote": "I thought it was a great win. I thought we had moments of the game that we played really well defensively. We had opportunity to make even bigger lead in the second quarter. We did not take care of the ball particularly well in that stretch there, so the game became more equal. But when you are shooting 20 percent from the three-point line, definitely the fight and finding the way to get a win tonight was very, very important. I thought we rebounded the ball really well, which was big emphasis going against three seven-footers out there and very athletic team. I am really pleased with the outcome of the game.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic was pleased with the Raptors' resilience in a win over the Wizards despite shooting only 20 percent from three. He noted that finding a way to win while struggling from deep was very important.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the team's defensive performance and rebounding efforts following a win against the Washington Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:59",
+      "summary_phrase": "Defensive strategy for guarding elite offensive players",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Jakob Poeltl",
+        "Christian Koloko",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "You got to make it really hard from every catch, from every fight for a position.",
+      "quote": "Guys like that, you just cannot give him any daylight. You got to make it really hard from every catch, from every fight for a position to bring physicality to him. I think Scottie, Jakob, Christian, they all did, Kawhi when he was on him, they all did good job on him.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on defending elite scorers: You cannot give them any daylight. You have to make it hard from every catch and bring physicality to them.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Jakob Poeltl",
+          "Christian Koloko",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the defensive strategy used to guard an elite offensive player during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:25",
+      "summary_phrase": "Utilizing the team's versatile wings for defensive matchups",
+      "names_mentioned": [],
+      "excerpt": "We have very versatile wings that are capable to guard multiple positions.",
+      "quote": "We got to use what we have and we have very versatile wings that are capable to guard multiple positions and that is our advantage. There are still areas for us that we got to improve and get better of controlling screeners, of not allowing any slips, but I thought it was a great team win tonight.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic says the Raptors' defensive advantage lies in their versatile wings who are capable of guarding multiple positions.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the team's defensive advantage provided by their versatile wings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:03",
+      "summary_phrase": "Scottie Barnes' development and court vision",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "He has such a good field for the game. He is in the right spot.",
+      "quote": "He has such a good field for the game. He is in the right spot. He is doing all the right things. When it is his time to attack, he does a really good job of getting to the rim and playmaking from there, scoring and playmaking. He loves those moments. He embraces those moments and I thought he was great in fourth quarter for us.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic praised Scottie Barnes for his late-game impact: He loves those moments. He embraces those moments and I thought he was great in the fourth quarter for us.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises Scottie Barnes for his court vision and decision-making in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:35",
+      "summary_phrase": "Evaluating team defensive progress early in the season",
+      "names_mentioned": [],
+      "excerpt": "In order to to analyze any kind of numbers, you got to play some 15-20 games.",
+      "quote": "In order to analyze any kind of numbers, you got to play some 15-20 games in the season. You got to see different opponents, different teams, play home games, road games before you can make any conclusion. Anything I would tell you right now would be lying to you and I think you are a very decent man, I don't want to lie to you.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darko Rajakovic says it is too early to analyze defensive stats: In order to analyze any kind of numbers you have to play 15 to 20 games. Anything I would tell you right now would be lying to you.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains why it is too early in the season to draw conclusions from defensive statistics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:21",
+      "summary_phrase": "Defensive accolades for Scottie Barnes, Jakob Poeltl, and Kawhi Leonard",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Jakob Poeltl",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Scottie Barnes is going to be first all-defensive team in the NBA this year.",
+      "quote": "Scottie Barnes is going to be first all-defensive team in the NBA this year. Jakob Poeltl is going to be in the third team and Kawhi Leonard is going to be in the second team. So we are going to have three players in three teams defensively this year. So that tells you a lot about their versatility and what those guys can do on the court for us.",
+      "text_blocks": [],
+      "start_seconds": 201,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Darko Rajakovic is setting high expectations for his team: Scottie Barnes is going to be first all-defensive team, Jakob Poeltl third team, and Kawhi Leonard second team this year.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Jakob Poeltl",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic predicts defensive accolades for three of his players based on their versatility.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:02",
+      "summary_phrase": "Focusing on the immediate game rather than future playoff goals",
+      "names_mentioned": [],
+      "excerpt": "We are playing a game against Minnesota and that is the only thing that we are thinking about.",
+      "quote": "We are playing in 48 hours, we are playing a game against Minnesota and that is the only thing that we are thinking about. We don't think about playoffs and nine months from now and to be honest with you I am not even thinking about Minnesota, I am thinking how to use this film from the game tonight for us to get better. So that is up to you, media, to live in the future, we like to live in the present.",
+      "text_blocks": [],
+      "start_seconds": 242,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darko Rajakovic on the team's mindset: It is up to the media to live in the future. We like to live in the present.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic emphasizes the team's focus on immediate improvement rather than long-term goals or future opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:41",
+      "summary_phrase": "Scottie Barnes' offensive versatility and impact",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "I thought that his offensive game tonight was so versatile.",
+      "quote": "He has been so good taking it to the rim, playmaking, ball in his hands, him setting screens. I thought that his offensive game tonight was so versatile. I love every three that he took, I love how he tagged down hill, I love how he got even uphill DHOs, I love how he was pushing ball in transition. He was everywhere and he was also rebounding defensively and got five offensive boards. That is huge for us.",
+      "text_blocks": [],
+      "start_seconds": 281,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on Scottie Barnes' offensive versatility: I love every three that he took, I love how he tagged downhill, I love how he was pushing the ball in transition. He was everywhere.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic highlights the offensive versatility and rebounding impact of Scottie Barnes in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "FxrnMLkdwo0",
+  "url": "https://www.youtube.com/watch?v=FxrnMLkdwo0",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-24T03:14:22Z",
+  "duration_seconds": 316,
+  "processed_at": "2026-10-24T11:03:00Z",
+  "run_id": "2026-10-24T1101Z-06utc",
+  "is_one_off": false
+}
