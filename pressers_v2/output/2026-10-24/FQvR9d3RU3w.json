@@ -1,0 +1,284 @@
+{
+  "video_title": "LIVE: Pelicans vs. Nuggets Pregame w/ Jamahl Mosley 10/24/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "01:47",
+      "summary_phrase": "Jamahl Mosley provides an update on Eve's injury status",
+      "names_mentioned": [
+        "Eve"
+      ],
+      "excerpt": "It's a way better diagnosis than it could have been, and that's what we're celebrating right now.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Let's start with the update on Eve if you will, if you don't mind. Have you seen him? What are his spirits like? Is this a better diagnosis than maybe what it could have been?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "It's a way better diagnosis than it could have been, and that's what we're celebrating right now. We don't have all of the information now. We're going to have him re-evaluated when we get back to New Orleans, have our doctors take a look at him so then we can be able to give more of a structure of what's going on with him."
+        }
+      ],
+      "start_seconds": 107,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Jamahl Mosley says the injury diagnosis for Eve is a way better diagnosis than it could have been. The team plans to have him re-evaluated upon returning to New Orleans to determine the next steps.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley provides an update on the injury status of a player named Eve.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "02:16",
+      "summary_phrase": "Jamahl Mosley on the team's reaction to Eve's injury",
+      "names_mentioned": [
+        "Eve"
+      ],
+      "excerpt": "When we talk about it being bigger than the game of basketball, that's real.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Have you been able to see him or talk to him or anything?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Oh yeah, he was in our film session this morning. The guys rallied around him. That was the first thing that we announced was that it wasn't what we had thought it was. It was better news, and that's what we did at halftime. And I tell these guys, when we talk about it being bigger than the game of basketball, that's real. A guy goes down in one play, and that changes a lot of things. But again, so for us as a group and as a unit and as a staff and organization, us caring about these guys and what they are doing in their life is very important. And I think that's big for us to to us to rally around him."
+        }
+      ],
+      "start_seconds": 136,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley says the Pelicans are rallying around Eve following his injury. He emphasized that the team culture is about more than basketball and supporting players through life events.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley discusses how the team is rallying around Eve following his injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "02:52",
+      "summary_phrase": "Jamahl Mosley on the team's committee approach to replacing Eve",
+      "names_mentioned": [
+        "Eve"
+      ],
+      "excerpt": "It's by committee, and I think that's what is so big about this group.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Who, what kind of guys have to sort of step up in his absence and and how do they do it?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "It's by committee, and I think that's what is so big about this group that it's going to be by committee night in and night out. We're going to have to do that. I mean, we have a talented roster, and it's even more talented when it's tied together because guys are going to have to step in, step up in big moments, and then just small pieces from each one being able to give a little bit more than they did the night before. And on any given night, it can be anybody's number called."
+        }
+      ],
+      "start_seconds": 172,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "With Eve sidelined, Jamahl Mosley says the Pelicans will rely on a committee approach to fill the void. He noted that the roster is talented and will need everyone to step up in big moments.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains that the team will use a committee approach to replace the production of the injured Eve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "03:49",
+      "summary_phrase": "Jamahl Mosley on DeMar DeRozan's impact on the Nuggets",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamal Murray",
+        "DeMar DeRozan"
+      ],
+      "excerpt": "He's a long-time official scorer that and he finds ways will get the job done.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Though Jokic and Murray get all the headlines really for the Denver Nuggets, but they've added DeMar DeRozan in the off season. What does he bring to them?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I wouldn't give him underrated. I would give him he's a he's a a long-time official scorer that and he finds ways will get the job done, gets us to the free throw line. He creates such a problem. And you know, I know when when Joker is off the floor, you know, they're looking to fill that void and and DeMar is a guy that can fill that void for them. He fills it up quick, but just being able to play off of him in that second line is going to be huge."
+        }
+      ],
+      "start_seconds": 229,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on facing DeMar DeRozan and the Nuggets. He says DeRozan creates a major problem for defenses and is a key piece for Denver when Nikola Jokic is off the floor.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray",
+          "DeMar DeRozan"
+        ],
+        "teams": [
+          "DEN",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates the impact of DeMar DeRozan on the Denver Nuggets roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "04:27",
+      "summary_phrase": "Jamahl Mosley defines what makes a good basketball possession",
+      "names_mentioned": [],
+      "excerpt": "Offensively, I really think it's the pace in which you playing, get the ball over half court.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you kind of define what a good possession is for you? What is what is it that makes a possession good on either end of the floor for you?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Offensively, I really think it's the pace in which you playing, get the ball over half court by 21. Then the ball gets from side to side of the floor, you make the defense have to shift. And then you're looking for the best available shot. You go from good to great. You love to get some uncontested shots, knock down three or get into the rim is beautiful. But if you get a mid-range shot 7-6-5 on the shot clock, that's a good shot. That's a good possession, especially if everybody's touched it and it's moved side to side. Defensively, do you make teams uncomfortable right away? And that's part of picking up full court, disrupting them. Now they're starting their offense and their first pass is maybe made at 15. And now from there, you've got a tight paint, you make them move the ball around the perimeter, not touching the paint, and then it's whatever shot they get up is contested and then the finishing the possession off with the rebound is what you like to have happen."
+        }
+      ],
+      "start_seconds": 267,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley breaks down his philosophy on a good possession. He prioritizes pace, moving the ball side to side to force defensive shifts, and making the opponent uncomfortable by disrupting their offense early.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley defines his coaching philosophy regarding what constitutes a good offensive and defensive possession.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "06:04",
+      "summary_phrase": "Jamahl Mosley on the importance of a 'must-win' mentality",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "There's a big difference, and we showed the film this morning and we talked about the things.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We heard Dejounte after the game last night use the phrase 'must win' for tonight. I'll ask you because you know the group better than anybody, the psyche, the difference of going home 0 and 3 and 1 and 2."
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "There's a big difference, and we showed the film this morning and we talked about the things that we've done right, but also what we need to clean up. And so they're a little recognizing exactly what needs to be done. And that's why you talk about a must win and what you know you can do because it's all controllables. There's so many controllables within our game. And had it been something where, you know, they just beat us in a certain area, then we can look at that. But it's the controllables of the finishing the possession, fouling early in the clock. Now you're in the bonus at 8:30 in the fourth quarter in the past two games. So I love our physicality, I will always keep the physicality, now we've got to do it with with a sense of of of intelligence and how we're going to go about doing it."
+        }
+      ],
+      "start_seconds": 364,
+      "end_seconds": 439,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jamahl Mosley agrees with the must win mentality for tonight. He says the team is focused on cleaning up controllables like fouling early in the clock and maintaining physicality with more intelligence.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reacts to Dejounte Murray calling the upcoming game a must-win scenario.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "FQvR9d3RU3w",
+  "url": "https://www.youtube.com/watch?v=FQvR9d3RU3w",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-24T23:39:57Z",
+  "duration_seconds": 460,
+  "processed_at": "2026-10-25T11:32:38Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

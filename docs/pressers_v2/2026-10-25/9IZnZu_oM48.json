@@ -1,0 +1,302 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability | Phoenix Suns | 10-24-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:17",
+      "summary_phrase": "Devin Booker's aggressive performance in the home opener",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "You could just feel it building. I really felt in the third quarter.",
+      "quote": "You could just feel it building. I really felt in the third quarter. First half, it was clunky, couldn't ever really catch a rhythm. These games are tough. You expect it to go a certain way and then realize how hard they play, they still continue to play their style. At halftime, we needed someone to dig us out of the mud, and that's what he did in the third quarter. You could just feel it rising as the quarter progressed, and yeah, the third quarter was fantastic, and then he brought us home.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott on Devin Booker taking over in the third quarter: At halftime we needed someone to dig us out of the mud and that is what he did. You could just feel it rising as the quarter progressed.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Jordan Ott discusses Devin Booker's performance during the third quarter of the team's home opener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:58",
+      "summary_phrase": "Colin Gillespie's floor game and shooting ability",
+      "names_mentioned": [
+        "Colin Gillespie"
+      ],
+      "excerpt": "He plays such an overall great floor game every single night.",
+      "quote": "He plays such an overall great floor game every single night. Then his ability to always make the right play, and sometimes the right play is to shoot the basketball. So, it's pretty simple. He's one of the best shooters in the league. Every time he shoots it, we think it's going to go in, and we'll continue to challenge him to shoot it more.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott is challenging Colin Gillespie to shoot more: He is one of the best shooters in the league. Every time he shoots it we think it is going to go in.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Colin Gillespie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Ott praises Colin Gillespie's floor game and shooting ability following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:40",
+      "summary_phrase": "Defensive rebounding and transition offense connection",
+      "names_mentioned": [],
+      "excerpt": "It's all connected. The end of defensive possession into the offense.",
+      "quote": "It's all connected. The end of defensive possession into the offense. We've talked a lot about the speed of which we start our offensive possession is really from the end of the defensive possession. We know that they're crashing, they obviously were going to the glass, and then once we were able to clear the glass, then we got to run. A lot of that selfless running, go ahead and get ahead of the play, and we practiced some kicking the ball ahead. So, ball moves faster with the pass a lot of times than the dribble.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott on the Suns transition offense: The speed of which we start our offensive possession is really from the end of the defensive possession. Ball moves faster with the pass a lot of times than the dribble.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the connection between defensive rebounding and transition offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:44",
+      "summary_phrase": "Managing Luke Kennard's return to the court",
+      "names_mentioned": [
+        "Luke Kennard"
+      ],
+      "excerpt": "He just hasn't played in a while, so we're going to be smart with that.",
+      "quote": "He just hasn't played in a while, so we're going to be smart with that. But every minute, every second he was on the court, we felt his impact. He's a really elite basketball player. High IQ, the way he moves, especially offensively, and then when the ball finds him, it always feels good when it leaves his hands.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jordan Ott on managing Luke Kennard: He just has not played in a while so we are going to be smart with that. But every minute he was on the court we felt his impact.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luke Kennard"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Ott discusses managing Luke Kennard's return to the court after his absence.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:08",
+      "summary_phrase": "First-half frustrations regarding rebounding and rhythm",
+      "names_mentioned": [],
+      "excerpt": "The glass. I mean, I think that's a big key.",
+      "quote": "The glass. I mean, I think that's a big key. The glass and then we just need to find a rhythm. We got to work our way through it. It's not going to feel great every single night. This is the NBA, it's incredibly tough to win no matter who's playing on the other team. Give them credit, they played super hard, and we knew they would. That's what they do, no matter who's out there. It just doesn't feel quite in rhythm on both sides of the ball in that first half, and we were able to kind of find it there in the third quarter.",
+      "text_blocks": [],
+      "start_seconds": 188,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott on the Suns early season struggles: It is not going to feel great every single night. This is the NBA, it is incredibly tough to win no matter who is playing on the other team.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott reflects on the team's first-half struggles with rebounding and offensive rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:39",
+      "summary_phrase": "Defensive breakdowns and the challenge of modern offensive schemes",
+      "names_mentioned": [],
+      "excerpt": "They're one of the best at doing it. They obviously have done it for a handful of years.",
+      "quote": "They're one of the best at doing it. They obviously have done it for a handful of years. And then the way the league is played right now is if you do make that sacrificial cut to the rim and you have enough passing on the perimeter, that you can find some of those. I think it was similar to the start of last year. As the season progresses and you build out more and more of your defensive coverages, that's something that we've hit a lot because we've seen it coming through the league. But these guys test you. I know Oklahoma City is running more of it, Denver for sure, that's another one. So, we're not going to run away from it, that'll be something that we definitely hit again this week.",
+      "text_blocks": [],
+      "start_seconds": 219,
+      "end_seconds": 271,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott on defensive schemes: As the season progresses and you build out more and more of your defensive coverages, that is something that we have hit a lot because we have seen it coming through the league.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "OKC",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the challenge of defending modern offensive schemes and perimeter passing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:52",
+      "summary_phrase": "Adjusting to injuries and small-ball lineups",
+      "names_mentioned": [
+        "Mark"
+      ],
+      "excerpt": "We originally planned to try to get two bigs on the floor at one time.",
+      "quote": "We originally planned to try to get two bigs on the floor at one time. Then with the Mark injury and some of our added size at the wing, we knew that this could be a possibility. But I'm not sure we quite had it drawn up that it's the second game of the year we wouldn't have those two. So, that's the NBA, and we're going to have to find solutions a little bit on the fly. The nice that we have shootarounds, so that helps us. Ryan I thought was fantastic in his minutes, the athleticism, the pop he brings on both sides, it does make it hard for other teams to guard him like that on our offense and then defensively he's all over the place.",
+      "text_blocks": [],
+      "start_seconds": 292,
+      "end_seconds": 342,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jordan Ott on adjusting to the Mark injury: We originally planned to try to get two bigs on the floor at one time. That is the NBA and we are going to have to find solutions a little bit on the fly.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Dunn"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Ott discusses adjusting the rotation due to injuries and the impact of Ryan Dunn's play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:05",
+      "summary_phrase": "Man-Man's role in spacing the floor",
+      "names_mentioned": [
+        "Man-Man"
+      ],
+      "excerpt": "Man-Man's ability to space the floor is there.",
+      "quote": "Man-Man's ability to space the floor is there. When he gets the opportunity and he feels good, he can let it go. But he has added a game to where we can pitch the ball to him and play, especially with how teams are pressuring in today's league. You have to play through the five, similar to their split game. That's just another thing that we need to quickly add to our group. Man-Man's been on it for months, and I think you can see it. Even the play with him and CG is similar to the play that Oso and CG. So, that's going to need to continue to be what we do with our fives, play through them and then also space the floor because of our bigger wings and how we can screen, take advantage of some of our size of just trying to get into the paint just with some of that split action.",
+      "text_blocks": [],
+      "start_seconds": 365,
+      "end_seconds": 426,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott on the evolution of Man-Man: You have to play through the five. That is just another thing that we need to quickly add to our group. Man-Man has been on it for months.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Man-Man",
+          "Colin Gillespie",
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Ott explains the role of the team's centers in spacing the floor and executing split actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jordan Ott",
+      "timestamp": "07:12",
+      "summary_phrase": "Man-Man's resilience and ongoing development",
+      "names_mentioned": [
+        "Man-Man"
+      ],
+      "excerpt": "He's only going to continue to get better.",
+      "quote": "First off, just the resilience to just keep coming back to work, you know, he's got that already. So, he's only going to continue to get better and then not run from it. Every night's going to be different. Tonight's split game was a little bit different, our prep into this game was a little bit different because we didn't know who they were playing. It's never going to stop in this league. The next night's a really good team, the end of the week's a really good team. He's going to continue to progress because he's about the right stuff. We're going to continue to put him in the environments and try to prepare him the best he can, but nothing replaces what he just has to go through each night, the physicality, the environment, the communication piece when it's super loud.",
+      "text_blocks": [],
+      "start_seconds": 432,
+      "end_seconds": 487,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott on Man-Man's development: Nothing replaces what he just has to go through each night, the physicality, the environment, the communication piece when it is super loud.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Man-Man"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Ott discusses the development and resilience of Man-Man as he adapts to the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "9IZnZu_oM48",
+  "url": "https://www.youtube.com/watch?v=9IZnZu_oM48",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-25T05:34:57Z",
+  "duration_seconds": 487,
+  "processed_at": "2026-10-25T11:31:00Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

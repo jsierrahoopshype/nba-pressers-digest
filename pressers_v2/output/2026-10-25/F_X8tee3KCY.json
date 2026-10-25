@@ -1,0 +1,145 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 10.24.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:00",
+      "summary_phrase": "Taylor Jenkins on the late-game execution of Joel Embiid, Tyrese Maxey, and Jaylen Brown",
+      "names_mentioned": [
+        "Joel Embiid",
+        "Tyrese Maxey",
+        "Jaylen Brown"
+      ],
+      "excerpt": "It was Joel Embiid or Tyrese Maxey or Jaylen Brown down the stretch where one of those guys",
+      "quote": "It just felt like it was one of those games where it was Joel Embiid or Tyrese Maxey or Jaylen Brown down the stretch where one of those guys or two of them together just hit a bucket, got a rebound, made a stop down the stretch. That's what those guys can do. How difficult it was though to just see them be able to do that time and again down the stretch. They're proving great players.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins on the late game execution of Embiid, Maxey, and Brown: They are proving great players by making plays down the stretch.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "Tyrese Maxey",
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the late-game performance of opposing players following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:27",
+      "summary_phrase": "Taylor Jenkins praises team's competitive effort despite the 16-point deficit",
+      "names_mentioned": [],
+      "excerpt": "We had tremendous effort, 48 minutes, obviously didn't make the plays down the stretch.",
+      "quote": "We had tremendous effort, 48 minutes, obviously didn't make the plays down the stretch. They went on runs, we went on runs. I thought what we talked about this morning, what we needed to apply tonight, our guys did it beautifully. Obviously they made some big-time shots. A number of their guys made a bunch of threes. We won the transition battle, we won the paint battle. We just didn't come up in a couple clutch moments. Obviously our turnovers definitely hurt us, but man, competitive spirit was awesome.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins says the team's competitive spirit was awesome despite the loss: We won the transition battle and the paint battle but turnovers hurt us.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins reflects on his team's competitive effort and execution during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:27",
+      "summary_phrase": "Taylor Jenkins discusses the team's offensive process and shot selection",
+      "names_mentioned": [],
+      "excerpt": "We prioritized getting to the paint, big stark difference when we touch the paint.",
+      "quote": "We prioritized getting to the paint, big stark difference when we touch the paint and when we don't touch the paint. I thought we were getting that. The playmaking was there, we could have racked up a whole lot more assists. First two games we were knocking down a lot of threes. I thought we had the rhythm early in the game, just those shots definitely weren't falling, but the style of play offensively and defensively, this was more a reflection of what we want to do.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 87,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins on the offensive process: We prioritized getting to the paint and the style of play tonight was a reflection of what we want to do.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates the team's offensive process and shot selection after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:15",
+      "summary_phrase": "Taylor Jenkins on Nate's debut and his development needs",
+      "names_mentioned": [
+        "Nate"
+      ],
+      "excerpt": "Great environment for Nate to get his first opportunity. I thought he was having a heck of a summer.",
+      "quote": "Great environment for Nate to get his first opportunity. I thought he was having a heck of a summer, heck of a preseason, injury got in the way a little bit. Had been playing in play groups, doing everything possible, playing well. I thought it was a great opportunity on the second night of a back-to-back with certain matchups and it was a great learning opportunity for him, how he can be better in some of those foul situations, rebounding in particular. I thought his off-ball defense was great. Just got to continue to play with confidence on the offensive side. We know what he's capable of and I just wanted to see it pretty early here in the season.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 135,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins on Nate's debut: It was a great learning opportunity for him. He needs to be better in foul situations and rebounding but his off ball defense was great.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Taylor Jenkins discusses the debut performance and development areas for a player named Nate.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "F_X8tee3KCY",
+  "url": "https://www.youtube.com/watch?v=F_X8tee3KCY",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-25T02:30:08Z",
+  "duration_seconds": 179,
+  "processed_at": "2026-10-25T11:32:10Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

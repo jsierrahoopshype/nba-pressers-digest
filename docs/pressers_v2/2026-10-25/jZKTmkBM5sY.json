@@ -1,0 +1,236 @@
+{
+  "video_title": "Cavs vs Nets | Kenny Atkinson Post Game | 10.24.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:14",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' turnover issues against the Nets",
+      "names_mentioned": [],
+      "excerpt": "concerning for us was the eight turnovers. I think eight turnovers, four missed free throws, I think.",
+      "quote": "concerning for us was the eight turnovers. I think eight turnovers, four missed free throws, I think.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson says the Cavaliers are still working through early season conditioning. He told the team they have to fight through the fatigue as they continue to find their rhythm.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's turnover issues following the game against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:35",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' current conditioning level",
+      "names_mentioned": [],
+      "excerpt": "we're not in elite condition right now, which is kind of normal.",
+      "quote": "I think part of this too is we're not in elite condition right now, which is kind of normal. Second game, getting your rhythm, we're not there. I told the guys in the timeout we got to fight through the fatigue. I thought we had moments of fatigue.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the team needs more playmaking beyond Donovan Mitchell and James. He emphasized that players need to move the ball to the next open man to handle defensive pressure.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson addresses the team's current physical conditioning level early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "speakers": [
+        "Kenny Atkinson",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:09",
+      "summary_phrase": "Kenny Atkinson on the impact of defensive pressure on the team",
+      "names_mentioned": [
+        "Donovan Mitchell",
+        "James"
+      ],
+      "excerpt": "I'm just going to keep preaching to the guys move it to the next open man.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Pressure obviously had a big impact on Thursday and pressure had an impact in the fourth quarter against tonight. Why do you think that's something that's so difficult for this team to manage right now?"
+        },
+        {
+          "speaker": "Kenny Atkinson",
+          "text": "Teams are athletic and they're forcing us to put it on the ground. I'm just going to keep preaching to the guys move it to the next open man. I know that sounds simplistic, move it to the open man. Guys got to make plays, other guys got to make plays besides Donovan and James. But again, it's the eight turnovers that kind of sticks in your crawl a little bit."
+        }
+      ],
+      "start_seconds": 69,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson praised Jarrett Allen for his rim protection against the Nets. He noted that Allen affects winning and was crucial in saving plays throughout the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell",
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains how the team needs to handle defensive pressure and distribute the ball beyond their primary playmakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:00",
+      "summary_phrase": "Kenny Atkinson on using losses as teaching moments for the team",
+      "names_mentioned": [],
+      "excerpt": "these are the best teaching moments and execution to close out games, situational basketball, all that.",
+      "quote": "These are the best teaching moments and execution to close out games, situational basketball, all that. It's great. We got a ton from the Philly game, we'll have a ton from tonight. Give them credit, they hit some really tough shots. We missed some coverages, I'd say probably two coverages there that was mix-ups, but otherwise they were hitting in your face jumpers.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the Cavaliers need to be more aggressive on switches when defending great shooters. He called the defensive lapses a learning lesson from the game against the Nets.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on using game losses as opportunities for teaching situational basketball and execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:04",
+      "summary_phrase": "Kenny Atkinson on Jarrett Allen's impact and rim protection",
+      "names_mentioned": [
+        "Jarrett Allen"
+      ],
+      "excerpt": "I don't know how many plays he made at the rim tonight, saved us.",
+      "quote": "Especially tonight where they were blitzing, so we had to get him in the pocket a lot. I don't know how many plays he made at the rim tonight, saved us. We had a slip, a drive, and he comes along, he blocks it or gets a rim protection. Value is incredible. It's why when he plays, we win a lot, usually. He affects winning. He was good tonight.",
+      "text_blocks": [],
+      "start_seconds": 244,
+      "end_seconds": 271,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson says the Cavaliers can get overzealous hunting for mismatches. He wants the team to find a better balance between targeting specific defenders and moving the ball in the flow of the offense.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jarrett Allen"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the rim protection and overall impact of Jarrett Allen during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:47",
+      "summary_phrase": "Kenny Atkinson on defensive switch aggression against great shooters",
+      "names_mentioned": [
+        "Demon"
+      ],
+      "excerpt": "I didn't feel like we were aggressive enough on our switches.",
+      "quote": "I didn't feel like we were aggressive enough on our switches. Demon comes off, and we switch. Switch is fine, but when you're going against great shooters, you got to be more aggressive with your switches. I think that's a learning lesson from this game.",
+      "text_blocks": [],
+      "start_seconds": 287,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson critiques the team's lack of aggression on defensive switches against shooters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:30",
+      "summary_phrase": "Kenny Atkinson on avoiding over-dribbling while hunting for mismatches",
+      "names_mentioned": [],
+      "excerpt": "we hunt the mismatch a lot, every team does that in the NBA, but sometimes we can get overzealous.",
+      "quote": "We hunt the mismatch a lot, every team does that in the NBA, but sometimes we can get overzealous with that in flow. Because sometimes when you hunt the mismatch you end up dribbling, over-dribbling. Sometimes end of game I think you got to ping it around and do it that way. So we just got to find that balance. We're very good at finding mismatches, we have a lot of experience at it, but sometimes it's we can get overzealous with that.",
+      "text_blocks": [],
+      "start_seconds": 330,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the need for better balance when hunting for mismatches to avoid over-dribbling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "jZKTmkBM5sY",
+  "url": "https://www.youtube.com/watch?v=jZKTmkBM5sY",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-25T02:52:26Z",
+  "duration_seconds": 485,
+  "processed_at": "2026-10-25T11:32:01Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

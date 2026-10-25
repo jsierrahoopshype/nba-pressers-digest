@@ -1,0 +1,197 @@
+{
+  "video_title": "Hornets vs Heat: Naz Reid Postgame Media Availability | 10/24/2026",
+  "speakers_seen": [
+    "Naz Reid"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Naz Reid",
+      "timestamp": "00:16",
+      "summary_phrase": "Naz Reid on the Hornets' resilience and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "I said that since day one, before the season even started. It's how you respond.",
+      "quote": "The resiliency. I said that since day one, before the season even started. It's how you respond. Having that resiliency to go out and do what we did last night, lay an egg, and then tonight, compete at the highest level and go out there and produce, make plays happen, be together, help each other off the ball, on the floor, diving on the floor, making big plays. That shows the resiliency, getting the crowd involved. That's going to be huge come playoff time.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Naz Reid credits the Hornets resilience for their bounce back win saying the team showed the ability to compete at the highest level after a tough loss the night before",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Naz Reid discusses the team's resilience following a poor performance in the previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Naz Reid",
+      "timestamp": "01:11",
+      "summary_phrase": "Naz Reid on defensive adjustments against Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "We just got smarter about the plays that we were making on him and our positioning.",
+      "quote": "Nothing in particular. We just got smarter about the plays that we were making on him and our positioning on the defensive side so we wouldn't foul him and trying to get as much deflections or tips or contests as we can.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Naz Reid on the defensive approach against Giannis Antetokounmpo saying the team just got smarter about their positioning to avoid fouling and focus on deflections and contests",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "CHA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Naz Reid explains the defensive adjustments made to limit Giannis Antetokounmpo without fouling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Naz Reid",
+      "timestamp": "01:38",
+      "summary_phrase": "Naz Reid on his work ethic and fan appreciation",
+      "names_mentioned": [],
+      "excerpt": "You're going to love how much work that I put in.",
+      "quote": "Since day one, I got said before, I mean, you're going to love how much work that I put in. You're going to love the resiliency, the grit, the grind, the effort that I bring to the table and that's just who I am and how I made my mark and how I got to this point today. I definitely heard the appreciation from all the fans, but like I said, that's just me and who I am.",
+      "text_blocks": [],
+      "start_seconds": 98,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Naz Reid reflects on his work ethic and the grit he brings to the floor saying that is just who I am and how I made my mark",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid reflects on his personal work ethic and his appreciation for the fans' support.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Naz Reid",
+      "timestamp": "02:08",
+      "summary_phrase": "Naz Reid on the contributions of teammates",
+      "names_mentioned": [
+        "Musa",
+        "Ryan",
+        "Brenner"
+      ],
+      "excerpt": "They play big. Tonight even Musa had foul trouble, found a way to stay on the floor.",
+      "quote": "They play big. Tonight even Musa had foul trouble, found a way to stay on the floor. Ryan, big time block coming down the stretch. I mean, he's huge. I can't compliment them guys enough. It's huge to have a seven-footer and an energy bunny in Ryan and then a moose in Musa. To have those two guys on the floor is huge for us.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Naz Reid praises his teammates for their impact against the Heat highlighting the contributions of Ryan and Musa in the paint",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Musa",
+          "Ryan"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Naz Reid praises the contributions of his teammates Musa and Ryan during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Naz Reid",
+      "timestamp": "02:50",
+      "summary_phrase": "Naz Reid on the value of veteran leadership",
+      "names_mentioned": [],
+      "excerpt": "We've been in enough of those situations in our past and knowing how to keep our composure.",
+      "quote": "We've been in enough of those situations in our past and knowing how to keep our composure, knowing some of the defensive tendencies of the other teams or offensive tendencies, whatever the case may be, and just understanding time and situation. Possessions matter. Be strong with the ball, trying not to manipulate the offense too much, but get our best interest or our best shot, whatever the case may be, and just understanding and the confidence that you instill in your teammates is huge.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Naz Reid emphasizes the importance of veteran leadership and composure in late game situations noting that understanding time and situation is key to winning",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid talks about the importance of veteran leadership and understanding game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Naz Reid",
+      "timestamp": "03:40",
+      "summary_phrase": "Naz Reid on maintaining composure in late-game situations",
+      "names_mentioned": [],
+      "excerpt": "It's how you respond. That's really what it comes down to.",
+      "quote": "I was kind of laughing, just because like, I've been in enough of those positions to know like, it's how you respond. That's really what it comes down to. So I'm zero-zero, I'm telling everybody zero-zero, game just starting now. Last five minutes, what are you going to do about it? I've been here before. How can I help my team, help us, or help myself rally over the heat and get the big victory? And it was kind of just me telling them like, look, the game is really just starting right now, so how are you going to handle that?",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Naz Reid shares his mindset during crunch time telling his teammates the game is really just starting right now when it comes down to the final five minutes",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Naz Reid describes his mindset during late-game situations to help his team secure a victory against the Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "dEHRPn02tE8",
+  "url": "https://www.youtube.com/watch?v=dEHRPn02tE8",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-25T02:16:38Z",
+  "duration_seconds": 295,
+  "processed_at": "2026-10-25T11:32:18Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

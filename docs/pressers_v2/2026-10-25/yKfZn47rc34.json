@@ -1,0 +1,337 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 10.24.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:47",
+      "summary_phrase": "Nick Nurse provides injury update on Jabarri Rice",
+      "names_mentioned": [
+        "Jabarri Rice"
+      ],
+      "excerpt": "tweaked his left knee. So that's that. We're going to check him out.",
+      "quote": "Jabarri Rice tweaked his left knee. So that's that. We're going to check him out.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Nick Nurse says Jabarri Rice tweaked his left knee and the team is currently evaluating him.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jabarri Rice"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Nick Nurse provides an injury update on Jabarri Rice after he tweaked his knee during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:06",
+      "summary_phrase": "Nick Nurse critiques team's transition defense and rebounding",
+      "names_mentioned": [],
+      "excerpt": "a lot of transition buckets and also the defensive rebounding. A lot of second chance points.",
+      "quote": "There are probably a couple things that we're not completely thrilled with tonight. There were a lot of transition buckets and also the defensive rebounding. A lot of second chance points as well. It wasn't very good. They play incredibly fast and they crash everybody. We kind of knew that going in. We play a lot of guys to keep a lot of high energy in there to keep doing those things. I guess we kind of made up for it in some other areas. We turned them over a lot and we didn't turn it over.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse was not thrilled with the Sixers transition defense and defensive rebounding tonight noting that the team allowed too many second chance points.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's defensive struggles with transition defense and rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:11",
+      "summary_phrase": "Nick Nurse evaluates Dean's debut performance",
+      "names_mentioned": [
+        "Dean",
+        "Ant"
+      ],
+      "excerpt": "Dean gives us some nice options. Both him and Ant are still trying to figure it out.",
+      "quote": "Dean is good. I think both him and Ant are still trying to figure it out, but I think Dean gives us some nice options. I really liked the little segment when we had him and Jabarri in together. It was really going and really good, and then right away Jabarri tweaked his knee. That gave us a little versatility to play him at some five, which I liked. Again, pretty solid. I don't think he was moving maybe as well as he would like to or can move tonight, but he played a solid game.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse liked the versatility Dean provided in his debut especially when playing at the five spot but noted he is still adjusting to the system.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dean",
+          "Ant",
+          "Jabarri Rice"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nick Nurse evaluates the debut performance of Dean and his chemistry with Jabarri Rice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:51",
+      "summary_phrase": "Nick Nurse on KCP's impact on the bench unit",
+      "names_mentioned": [
+        "KCP",
+        "Hero"
+      ],
+      "excerpt": "He really sprints the floor, gives us some spacing in transition, can knock down that three.",
+      "quote": "KCP is a two-way player. He really sprints the floor, gives us some spacing in transition, can knock down that three. He kind of came in to take Hero. Hero was kind of going there a little bit and he came in and did a nice job and then we started matching them. Hero came out and when Hero came back in, KCP came back in. So that was a big lift defensively. He's done that a couple games now, giving us a huge lift defensively.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse praised KCP for providing a huge lift defensively and acting as a two way player for the bench unit.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "KCP",
+          "Hero"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse praises KCP for his defensive impact and his role in matching up against Hero.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "03:29",
+      "summary_phrase": "Nick Nurse on Jaylen Brown's role in an up-tempo system",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "I would like him to crack the paint even more in transition.",
+      "quote": "Jaylen Brown is obviously very good. He is a skill one-on-one player, but if he can do it when they're on the move a little bit rather than into the teeth of a set defense, I think that can open up even more things for him. I would like him to crack the paint even more in transition because I think that's just going to get him to the free throw line, it's going to get him to the front of the rim, there will start being some kick-outs available, and I think we're just trying to learn him in this role a little bit, and he's trying to learn it a little bit too.",
+      "text_blocks": [],
+      "start_seconds": 209,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse wants Jaylen Brown to attack the paint more in transition to open up the floor and get to the free throw line.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses how Jaylen Brown can improve his offensive effectiveness in an up-tempo system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Nurse",
+      "timestamp": "05:06",
+      "summary_phrase": "Nick Nurse on VJ's rebounding and defensive value",
+      "names_mentioned": [
+        "VJ"
+      ],
+      "excerpt": "We really need it because there's a lot of times when guys are attached blocking out.",
+      "quote": "We really need it because there's a lot of times when guys are attached blocking out and the ball's bouncing out to the guy that's being blocked out and somebody needs to come flying in from the outside to grab those. That's been VJ a couple games in a row, but we really are going to need his defensive rebounding for sure.",
+      "text_blocks": [],
+      "start_seconds": 306,
+      "end_seconds": 330,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse says the team really needs VJ to continue providing value on the defensive glass.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "VJ"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse highlights the importance of VJ's contribution to defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Nurse",
+      "timestamp": "05:42",
+      "summary_phrase": "Nick Nurse on KCP's three-point shooting volume",
+      "names_mentioned": [
+        "KCP",
+        "Tyrese",
+        "Jabarri",
+        "Jaylen"
+      ],
+      "excerpt": "He's a good shooter and I think it's not going to be that way every night.",
+      "quote": "KCP is a good shooter and I think it's not going to be that way every night, but tonight, depending on how teams are playing, he's probably going to have some looks. They're going to be pulled off to try to plug some of the lanes for Tyrese, Jabarri, Jaylen, those guys. So he's probably going to get some opportunities. I like the confidence. There was no hesitation, so that's the way he can make them.",
+      "text_blocks": [],
+      "start_seconds": 342,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse likes the confidence KCP is showing from behind the arc noting that he will continue to get open looks as teams focus on other stars.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "KCP",
+          "Tyrese",
+          "Jabarri Rice",
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse comments on KCP's shooting confidence and his role in spacing the floor for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nick Nurse",
+      "timestamp": "06:22",
+      "summary_phrase": "Nick Nurse on Jaylen Brown's plus-minus and defensive impact",
+      "names_mentioned": [
+        "Jaylen"
+      ],
+      "excerpt": "It seems like when he gets going offensively, it also translates to the other end.",
+      "quote": "For me, it seems like when he gets going offensively, it also translates to the other end where he's going and knocking the ball away, playing really sticky defense and physical defense. I think that's probably why he's doing two-way actions. He's getting stops, he's scoring, he's getting stops and all of a sudden he's a part of creating some of those runs.",
+      "text_blocks": [],
+      "start_seconds": 382,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse notes that Jaylen Brown tends to play better defense when he is finding his rhythm on the offensive end.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse explains how Jaylen Brown's offensive rhythm helps fuel his defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Nick Nurse",
+      "timestamp": "07:19",
+      "summary_phrase": "Nick Nurse on team offensive organization without LeBron James",
+      "names_mentioned": [
+        "LeBron"
+      ],
+      "excerpt": "I thought there was a dozen possessions where I wasn't real happy with what we did.",
+      "quote": "I thought there was a dozen possessions where I wasn't real happy with what we came down the floor and thought we were going to do. But there was a lot of good ones, especially in the second half again where we at least come down and we're organized and we run an action and we just run the next action, run the next action and then make the right play. So the organization is taking a bit of time. We were totally unorganized in the first half the other night, right? So again, it's just we're trying to learn things that we got to polish quick. We spend a good chunk of the morning just trying to get ourselves organized on the offensive end.",
+      "text_blocks": [],
+      "start_seconds": 439,
+      "end_seconds": 487,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse admits the team is still working on offensive organization saying they are trying to learn things they have to polish quick.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's ongoing process of improving offensive organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Nick Nurse",
+      "timestamp": "08:36",
+      "summary_phrase": "Nick Nurse on the team's second-quarter defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "We certainly weren't happy about that second quarter. You come out and you kind of jump on them.",
+      "quote": "We certainly weren't happy about that second quarter. You come out and you kind of jump on them real quick and then you got to keep your focus and don't think it's going to be that easy and of course it isn't. That's a high volume three-shooting, crashing team that's going to keep running fresh bodies in there and I thought we comboed it again a little bit. I thought the offensive shots got a little worse and we missed. Anytime we didn't finish at the rim, it was a bucket the other way. Transition started to suffer because it probably started with the offense not being as crisp and finished as good as we want.",
+      "text_blocks": [],
+      "start_seconds": 516,
+      "end_seconds": 561,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse says the Sixers second quarter struggles were a result of poor offensive execution leading to transition opportunities for the opponent.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse reflects on the team's defensive lapses during the second quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "yKfZn47rc34",
+  "url": "https://www.youtube.com/watch?v=yKfZn47rc34",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-25T03:59:56Z",
+  "duration_seconds": 590,
+  "processed_at": "2026-10-25T11:31:27Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

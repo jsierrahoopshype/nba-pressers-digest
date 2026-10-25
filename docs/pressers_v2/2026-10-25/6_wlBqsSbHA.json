@@ -1,0 +1,81 @@
+{
+  "video_title": "Nate Ament Postgame Press Conference | 10.24.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Nate Ament"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nate Ament",
+      "timestamp": "00:18",
+      "summary_phrase": "Nate Ament on the frustration of recovering from injury",
+      "names_mentioned": [],
+      "excerpt": "it's never good as a basketball player to sit and watch your teammates play and struggle",
+      "quote": "They've been frustrating just because it's never good as a basketball player to sit and watch your teammates play and struggle and fight and you're not able to fight alongside them. So I was frustrating, but it was the medical staff here and the team I got around me super good to get me back 200%, so they did a great job.",
+      "verbatim_original_language": "",
+      "start_seconds": 18,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nate Ament opens up about the mental toll of being sidelined, saying it is never good to sit and watch your teammates struggle while you are unable to fight alongside them.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Nate Ament discusses his frustration while sidelined with an injury and praises the Milwaukee Bucks medical staff for his recovery.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nate Ament",
+      "timestamp": "01:13",
+      "summary_phrase": "Nate Ament on the challenge of guarding Jaylen Brown",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "I wanted to guard Jaylen Brown, I wanted that challenge and he bring it to me",
+      "quote": "I tried to challenge myself on the floor to guard one of their better players and I wanted to guard Jaylen Brown. I wanted that challenge and he bring it to me every single play. So there's a level of respect that comes with that and he's definitely coming at the rookie and I respect that. So I think just learning to be more smart in my fouls.",
+      "verbatim_original_language": "",
+      "start_seconds": 73,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nate Ament says he specifically asked for the challenge of guarding Jaylen Brown, noting that Brown was definitely coming at the rookie all night.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "MIL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Nate Ament reflects on the challenge of guarding Jaylen Brown during the game and his need to improve his defensive discipline.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "6_wlBqsSbHA",
+  "url": "https://www.youtube.com/watch?v=6_wlBqsSbHA",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-25T02:46:58Z",
+  "duration_seconds": 102,
+  "processed_at": "2026-10-25T11:31:59Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,227 @@
+{
+  "video_title": "Hawks vs. Rockets Postgame Press Conference: Aaron Wiggins and Jalen Johnson after 121-144 Loss",
+  "speakers_seen": [
+    "Jalen Johnson",
+    "Aaron Wiggins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Johnson",
+      "speakers": [
+        "Unidentified speaker",
+        "Jalen Johnson"
+      ],
+      "timestamp": "00:12",
+      "summary_phrase": "Jalen Johnson on Rockets' offensive rebounding and transition dominance",
+      "names_mentioned": [],
+      "excerpt": "the main thing was their second chance points. We gave up a lot of offensive rebounds",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What was it that the Rockets were able to do, especially in that first half, that gave them the lead?"
+        },
+        {
+          "speaker": "Jalen Johnson",
+          "text": "The main thing was their second chance points. We gave up a lot of offensive rebounds and we felt that. Obviously, when we don't get those stops and get those rebounds and get out in transition, they were hurting us on the offensive glass. That was a big part of it."
+        }
+      ],
+      "start_seconds": 12,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jalen Johnson identified second chance points and offensive rebounding as the primary reasons the Rockets dominated the Hawks in the first half of their loss.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson discusses the defensive struggles and transition points allowed to the Houston Rockets during the first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Johnson",
+      "speakers": [
+        "Unidentified speaker",
+        "Jalen Johnson"
+      ],
+      "timestamp": "00:51",
+      "summary_phrase": "Jalen Johnson on Hawks' fourth-quarter adjustments and team trust",
+      "names_mentioned": [],
+      "excerpt": "we kind of course corrected. We were able to limit their second chance points, get out in transition",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What were you guys able to do to string together the points and stops?"
+        },
+        {
+          "speaker": "Jalen Johnson",
+          "text": "We kind of course corrected. In the third quarter we gave up a couple more offensive rebounds, but after that moment we kind of locked in and were able to limit their second chance points, get out in transition, find some open shots and just trust each other."
+        }
+      ],
+      "start_seconds": 51,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Johnson says the Hawks were able to course correct in the second half by locking in on the glass and trusting each other to find open shots.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson explains how the team adjusted defensively in the second half to limit second-chance points.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Aaron Wiggins",
+      "speakers": [
+        "Unidentified speaker",
+        "Aaron Wiggins"
+      ],
+      "timestamp": "01:50",
+      "summary_phrase": "Aaron Wiggins on Coach Snyder's system and team ball movement",
+      "names_mentioned": [
+        "Snyder"
+      ],
+      "excerpt": "the way that our team is going to be good is moving the ball",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you think Coach Snyder and the coaching staff have put you in the best positions to succeed?"
+        },
+        {
+          "speaker": "Aaron Wiggins",
+          "text": "It's just the system. The way that we're going to be successful and the way that our team is going to be good is moving the ball. Our guys are smart players and they're able to find me when I'm open and we all trust each other. Just making the right plays within the team, and I think this system puts us all in the best situation."
+        }
+      ],
+      "start_seconds": 110,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Aaron Wiggins credits the Hawks system and team ball movement for his success saying the way the team will be good is by moving the ball and making the right plays.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Quin Snyder"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Aaron Wiggins discusses how the offensive system implemented by Quin Snyder emphasizes ball movement and team play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Johnson",
+      "speakers": [
+        "Unidentified speaker",
+        "Jalen Johnson"
+      ],
+      "timestamp": "02:23",
+      "summary_phrase": "Jalen Johnson on team progress and learning from game film",
+      "names_mentioned": [
+        "Snyder"
+      ],
+      "excerpt": "we're not going to overreact to anything. There's a lot of things we don't do well",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Coach Snyder was talking about the team being a work in progress. What do you need to do to get that progress going?"
+        },
+        {
+          "speaker": "Jalen Johnson",
+          "text": "It's game three. We're not going to overreact to anything. There's a lot of things we don't do well so far in these three games and there's a lot of things that we can improve on. Taking it game by game, continuing to try to get better, learn from the film that we watch. There's nothing to overreact over, but we still have a lot of room to grow and everybody's hungry to keep growing."
+        }
+      ],
+      "start_seconds": 143,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Johnson says the Hawks are not going to overreact to their early season struggles noting there is still a lot of room to grow after three games.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Quin Snyder"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson reacts to Quin Snyder calling the team a work in progress early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Johnson",
+      "speakers": [
+        "Unidentified speaker",
+        "Jalen Johnson"
+      ],
+      "timestamp": "03:06",
+      "summary_phrase": "Jalen Johnson on the need for better execution and pace",
+      "names_mentioned": [],
+      "excerpt": "we've just got to do a better job between our guys just playing the right way",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What about the Rockets challenged you all offensively?"
+        },
+        {
+          "speaker": "Jalen Johnson",
+          "text": "I don't know if there was something that necessarily challenged us offensively. We've just got to do a better job between our guys just playing the right way and playing our style. That first half and even a little bit in that second half, we were just a little slow and not playing the pace that we want to play at. We've just got to do a better job executing going into the game."
+        }
+      ],
+      "start_seconds": 186,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Johnson says the Hawks were playing too slow against the Rockets and need to do a better job executing their own style of play.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson reflects on the team's lack of pace and execution during their loss to the Houston Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "1jlz1EPvf24",
+  "url": "https://www.youtube.com/watch?v=1jlz1EPvf24",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-25T03:54:11Z",
+  "duration_seconds": 222,
+  "processed_at": "2026-10-25T11:31:33Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

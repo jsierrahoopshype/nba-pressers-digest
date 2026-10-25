@@ -1,0 +1,73 @@
+{
+  "video_title": "Jaime Jaquez jr. Postgame Press Conference | 10.24.26",
+  "speakers_seen": [
+    "Jaime Jaquez Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:00",
+      "summary_phrase": "Jaime Jaquez Jr. on maintaining competitive spirit throughout the game",
+      "names_mentioned": [],
+      "excerpt": "the game only ends when the timer hits zero. So just continue to stay in the fight",
+      "quote": "One of the things we've been working on is just getting our competitive spirit right. Going into these games, knowing that the game only ends when the timer hits zero. So just continue to stay in the fight no matter what. I think that's gotten a lot better, but now it's just how do we do that and play smarter at the same time. We had a lot of opportunities to take the lead, maintain it, so costly turnovers. I know myself down the stretch had some pretty bad turnovers. Just got to figure out how to limit those. And once we do that, I think we're going to be in a really good spot.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaime Jaquez Jr. says the Bucks are focused on improving their competitive spirit and playing smarter. He admitted to costly late game turnovers and emphasized the need to limit those mistakes to start winning.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses the team's need to maintain a competitive spirit and reduce turnovers during late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:52",
+      "summary_phrase": "Jaime Jaquez Jr. on learning from early season late-game situations",
+      "names_mentioned": [],
+      "excerpt": "you still got to balance that with knowing that there's 79 more games",
+      "quote": "For the most part, you just got to stay the course. It's frustrating to drop your first three, but you still got to balance that with knowing that there's 79 more games. So hopefully you just take these and continue to grow. I think we've been growing from the first game even to now, and now it's just got to translate to wins.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Despite an 0-3 start to the season, Jaime Jaquez Jr. remains optimistic about the team. He says the group has to stay the course and that the focus is on making sure their growth translates to wins over the next 79 games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. reflects on the team's 0-3 start to the season and the importance of continuing to grow over the remaining games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "SjFkCWoS2R4",
+  "url": "https://www.youtube.com/watch?v=SjFkCWoS2R4",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-25T02:45:59Z",
+  "duration_seconds": 97,
+  "processed_at": "2026-10-25T11:32:06Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

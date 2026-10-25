@@ -1,0 +1,337 @@
+{
+  "video_title": "Devin Booker Postgame Media Availability | Phoenix Suns | 10-24-26",
+  "speakers_seen": [
+    "Devin Booker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Devin Booker",
+      "timestamp": "00:20",
+      "summary_phrase": "Devin Booker on team transition and fast-paced play",
+      "names_mentioned": [
+        "Goody",
+        "Colin"
+      ],
+      "excerpt": "We were just getting stops and playing fast. I think the group with Goody and Colin",
+      "quote": "We were just getting stops and playing fast. I think the group with Goody and Colin, we were able to secure rebounds and get out in transition. I think the first one that got me started, I threw it to Goody, he drove and found me for a catch and shoot, and then just finding the flow after that.",
+      "text_blocks": [],
+      "start_seconds": 20,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker on the Suns transition game: We were just getting stops and playing fast. The group with Goody and Colin was able to secure rebounds and get out in transition.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Josh Okogie",
+          "Collin Gillespie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Booker discusses the success of the lineup featuring Josh Okogie and Collin Gillespie in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Devin Booker",
+      "timestamp": "00:52",
+      "summary_phrase": "Devin Booker on areas for improvement and defensive focus",
+      "names_mentioned": [],
+      "excerpt": "We still have some things to clean up. Obviously, any win in this league, you don't take lightly.",
+      "quote": "We still have some things to clean up. Obviously, any win in this league, you don't take lightly. We understand the situation at hand with the missing players, but it's definitely a win that we needed. The concerning part is obviously the rebounding portion. We just have to get hits. I think we're playing decent defense, but if we can limit teams to one shot, that's going to be for our best.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Devin Booker says the Suns need to clean up their defensive rebounding: The concerning part is obviously the rebounding portion. We just have to get hits. If we can limit teams to one shot that is going to be for our best.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker reflects on the team's need to improve defensive rebounding despite securing a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Devin Booker",
+      "timestamp": "01:34",
+      "summary_phrase": "Devin Booker on defensive rebounding and team reputation",
+      "names_mentioned": [],
+      "excerpt": "Once you have a reputation where teams can get offensive rebounds on you, everyone's going to start crashing.",
+      "quote": "Once we secure the ball, we're dangerous. The part we got to clean up is getting that first rebound. Once you have a reputation where teams can get offensive rebounds on you, everyone's going to start crashing on us. So, I think we just need to nip it in the bud, maybe take some defensive fouls, and just kind of set the tone early that it's not going to be one of those second-chance points games.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker on defensive rebounding: Once you have a reputation where teams can get offensive rebounds on you everyone is going to start crashing on us. We need to nip it in the bud.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker explains the importance of securing defensive rebounds to prevent opponents from getting second-chance points.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Devin Booker",
+      "timestamp": "02:11",
+      "summary_phrase": "Devin Booker on defensive communication and rim protection",
+      "names_mentioned": [],
+      "excerpt": "Just communication, getting on the same page. I think that tandem between the two players on the back side",
+      "quote": "Just communication, getting on the same page. I think that tandem between the two players on the back side, that relationship is really important, especially if we're gearing up man-to-man to be that rim presence to go block everything. We got burned on strong-side corner a couple of times today, and that's definitely a no-no. It's definitely a chemistry in the field that we have to get to.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker on defensive communication: We got burned on strong side corner a couple of times today and that is definitely a no-no. It is definitely a chemistry in the field that we have to get to.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker emphasizes the need for better communication and chemistry on the defensive end.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Devin Booker",
+      "timestamp": "02:41",
+      "summary_phrase": "Devin Booker on defensive focus and scheme",
+      "names_mentioned": [],
+      "excerpt": "A little bit of both. Sometimes scheme-based, also just knowing who's on that back side.",
+      "quote": "A little bit of both. Sometimes scheme-based, also just knowing who's on that back side and who you're helping off of too, so it's personnel-based. It sounds simple, but every night is different, and the more you talk, the better we'll be.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Devin Booker on defensive scheme: It sounds simple but every night is different and the more you talk the better we will be.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker discusses the balance between defensive scheme and personnel-based decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Devin Booker",
+      "timestamp": "03:28",
+      "summary_phrase": "Devin Booker on defending mid-range and transition",
+      "names_mentioned": [],
+      "excerpt": "If they're going to put two on the ball, get off it quick and we should be playing advantage basketball.",
+      "quote": "I think we did good. I think it was a loop three on one. I think the spacing was right, everybody was alert for it. I always say, if they're going to put two on the ball, get off it quick and we should be playing advantage basketball on the back side. I have to look back, but from what I remember, I think we did good a few times.",
+      "text_blocks": [],
+      "start_seconds": 208,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker on handling double teams: If they are going to put two on the ball get off it quick and we should be playing advantage basketball on the back side.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker evaluates the team's performance in handling defensive spacing and double teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Devin Booker",
+      "timestamp": "04:03",
+      "summary_phrase": "Devin Booker on small-ball lineups and rebounding",
+      "names_mentioned": [],
+      "excerpt": "It's going to be a learning curve for us, but I think we had some good spots in that.",
+      "quote": "It's going to be a learning curve for us, but I think we had some good spots in that. Back to the rebounding part, we know if we're undersized, teams are going to try to crash on us. So even when we run those small-ball lineups, just even more of an emphasis to get the rebound, and we can be dangerous with five guards in transition.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 268,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker on small ball lineups: We know if we are undersized teams are going to try to crash on us. Even when we run those small ball lineups just even more of an emphasis to get the rebound.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker addresses the challenges and requirements of playing small-ball lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Devin Booker",
+      "timestamp": "04:43",
+      "summary_phrase": "Devin Booker on being more assertive offensively",
+      "names_mentioned": [],
+      "excerpt": "I don't want to go into the game saying, 'I'm going to force it tonight,' but it's definitely in my head",
+      "quote": "I don't want to go into the game saying, 'I'm going to force it tonight,' but it's definitely in my head to be more assertive.",
+      "text_blocks": [],
+      "start_seconds": 283,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker on his offensive approach: I do not want to go into the game saying I am going to force it tonight but it is definitely in my head to be more assertive.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker comments on his mindset regarding being more assertive on the offensive end.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Devin Booker",
+      "timestamp": "05:15",
+      "summary_phrase": "Devin Booker on Larry Fitzgerald and Phoenix legends",
+      "names_mentioned": [
+        "Larry Fitzgerald",
+        "Alvin Adams",
+        "Charles Barkley"
+      ],
+      "excerpt": "It's nice to have the alumni in here. It says about about a franchise when guys come back.",
+      "quote": "It's nice to have the alumni in here. It says about about a franchise when guys come back and show up. Phoenix is always a destination that everybody that I run into says is the favorite city that they've played in, and I completely understand that. Larry has been the guy that I've followed since I got here. Nobody in basketball, nobody in another sport, I was looking at him as the man to follow. He's an example in the community, he was high respected by everybody, and he performed at a high level. He checked all the boxes for me, and his friendship is something that holds weight to me.",
+      "text_blocks": [],
+      "start_seconds": 315,
+      "end_seconds": 358,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Devin Booker on Larry Fitzgerald: Larry has been the guy that I have followed since I got here. He checked all the boxes for me and his friendship is something that holds weight to me.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Larry Fitzgerald"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker shares his admiration for Larry Fitzgerald and the importance of alumni presence in Phoenix.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Devin Booker",
+      "timestamp": "06:18",
+      "summary_phrase": "Devin Booker on the second unit's chemistry",
+      "names_mentioned": [
+        "Colin"
+      ],
+      "excerpt": "Right now, they have more of a chemistry than that our first group.",
+      "quote": "Right now, they have more of a chemistry than that our first group. Typically, that's how teams are. You play against those guys every day in practice and they know each other like white on rice, man. I've been guarding Colin, and having Goody pick me up for a long time now. I know how special of a players they are, and every time we can share the court together, I always enjoy that. You can feel the crowd get involved, the ball's hopping around, and the defense is a high level. Us as the first unit, I think need to learn from them in a way, and the type that they play, everybody sacrifices in those groups and you see the result that you get out of it.",
+      "text_blocks": [],
+      "start_seconds": 378,
+      "end_seconds": 428,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Devin Booker admits the Suns second unit currently has better chemistry than the starters: Right now they have more of a chemistry than our first group. Us as the first unit I think need to learn from them.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Collin Gillespie",
+          "Josh Okogie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Booker praises the chemistry of the second unit and suggests the starters can learn from their style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Devin Booker",
+      "timestamp": "07:16",
+      "summary_phrase": "Devin Booker on the team's potential",
+      "names_mentioned": [],
+      "excerpt": "I say the talent level, just the pure ability to play basketball, that athleticism, the shooting.",
+      "quote": "I say the talent level, just the pure ability to play basketball, that athleticism, the shooting. We have the pieces. Still, like I said, we still obviously it's early, we have some learning to do, just all around, to be completely honest. I can't even think that far ahead. We're going to take it one day at a time.",
+      "text_blocks": [],
+      "start_seconds": 436,
+      "end_seconds": 459,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker on the Suns potential: We have the pieces. Still it is early and we have some learning to do just all around to be completely honest.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker assesses the team's current talent level and the need for continued growth early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "oWA3DrMyiAU",
+  "url": "https://www.youtube.com/watch?v=oWA3DrMyiAU",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-25T05:30:45Z",
+  "duration_seconds": 508,
+  "processed_at": "2026-10-25T11:31:16Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

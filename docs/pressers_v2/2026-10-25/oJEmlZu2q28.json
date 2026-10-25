@@ -1,0 +1,272 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. NOP 🎙",
+  "speakers_seen": [
+    "Nikola Jokic",
+    "Trevon Brazile",
+    "Coach Adelman"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nikola Jokic",
+      "timestamp": "00:06",
+      "summary_phrase": "Nikola Jokic praises Trevon Brazile's impact as an X-factor",
+      "names_mentioned": [
+        "Trevon Brazile"
+      ],
+      "excerpt": "he was definitely a X-factor for us tonight",
+      "quote": "He was really good. Both ends of the floor, he scored some big points and he had a couple good defensive rebounds and a couple big blocks. So he was definitely a X-factor for us tonight.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nikola Jokic says Trevon Brazile was an X-factor for the Nuggets tonight, highlighting his impact on both ends of the floor with big points and key defensive plays.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trevon Brazile"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Jokic discusses the performance of Trevon Brazile following the Nuggets game against the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nikola Jokic",
+      "timestamp": "01:04",
+      "summary_phrase": "Nikola Jokic criticizes fans for booing the team",
+      "names_mentioned": [],
+      "excerpt": "I think those fans who boo us, they don't need to come anymore",
+      "quote": "I'm actually so glad that you mentioned that because we get booed the first home game and I think those fans who boo us, they don't need to come anymore because if you guys follow us, you know that we never quit and we came back from much worse or similar situations. So if they ask me, they are not welcome anymore.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Nikola Jokic did not hold back on fans who booed the team during the home opener, saying those fans do not need to come back because the team never quits.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reacts to home fans booing the team during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nikola Jokic",
+      "timestamp": "01:39",
+      "summary_phrase": "Nikola Jokic on Jamal Murray's ability to take over",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "he just need to see one go in and he can go crazy",
+      "quote": "Even when he has a not good game, he just need to see one go in and he can go crazy in the next couple possessions. He had a really good energy through whole the game. He was the only one speaking in the huddle. He was always pushing guys to believe and even when we were down 16, he said we can win this.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nikola Jokic praised Jamal Murray for his leadership during the comeback win, noting that Murray kept the team believing even when they were down by 16 points.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Jokic describes Jamal Murray's ability to impact the game and his leadership in the huddle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trevon Brazile",
+      "timestamp": "05:46",
+      "summary_phrase": "Trevon Brazile on his role and commitment to intensity",
+      "names_mentioned": [],
+      "excerpt": "you can expect that out of me every night as far as hustle, intensity",
+      "quote": "You seen it tonight, I'm ready to play. You can expect that out of me every night as far as hustle, intensity, doing things that don't involve the ball in my hands.",
+      "text_blocks": [],
+      "start_seconds": 346,
+      "end_seconds": 358,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trevon Brazile says fans can expect hustle and intensity from him every night, emphasizing his commitment to doing the little things that do not involve the ball in his hands.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Trevon Brazile explains his approach to his role and his commitment to playing with intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Adelman",
+      "timestamp": "08:50",
+      "summary_phrase": "Coach Adelman on the importance of veterans trusting a rookie",
+      "names_mentioned": [],
+      "excerpt": "the biggest compliment you can give a guy that's a rookie in our league is that the veterans trust him",
+      "quote": "The biggest compliment you can give a guy that's a rookie in our league is that the veterans on his team trust him and they have a comfort level with him out there with them in a moment like that.",
+      "text_blocks": [],
+      "start_seconds": 530,
+      "end_seconds": 545,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman says the biggest compliment for a rookie is earning the trust of the veterans on the team during high-pressure moments.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trevon Brazile"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Adelman comments on the importance of veteran players trusting a rookie like Trevon Brazile.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Adelman",
+      "timestamp": "10:08",
+      "summary_phrase": "Coach Adelman credits the bench unit for sparking the comeback",
+      "names_mentioned": [
+        "Marvin Bagley",
+        "Trevon Brazile"
+      ],
+      "excerpt": "I thought that unit brought us some juice and energy",
+      "quote": "I think the most underrated part of this game was the start of the fourth quarter. I thought that unit brought us some juice and energy. Marvin Bagley, Trevon Brazile and those guys, they got stops. We got Jamal the ball in tight spots and he found TB on the backside for a three. I thought that group got us really going.",
+      "text_blocks": [],
+      "start_seconds": 608,
+      "end_seconds": 632,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman credited the bench unit, specifically Marvin Bagley and Trevon Brazile, for bringing the necessary energy to spark the fourth-quarter comeback.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Marvin Bagley",
+          "Trevon Brazile",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman credits the bench unit for sparking the team's comeback in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coach Adelman",
+      "timestamp": "11:27",
+      "summary_phrase": "Coach Adelman on Jamal Murray's positive energy and leadership",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "sometimes his frustration energy is positive for everybody else because he says what he actually thinks",
+      "quote": "Jamal's energy was great throughout the night. Sometimes his frustration energy is positive for everybody else because he says what he actually thinks and when you do that, guys believe what you're saying. They know it's not good, it's real.",
+      "text_blocks": [],
+      "start_seconds": 687,
+      "end_seconds": 702,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman says Jamal Murray's frustration can actually be a positive for the team because his teammates know he is being real and honest about the situation.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman explains how Jamal Murray's vocal leadership and energy influence the rest of the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Coach Adelman",
+      "timestamp": "14:54",
+      "summary_phrase": "Coach Adelman on Trevon Brazile's defensive rebounding and athleticism",
+      "names_mentioned": [
+        "Trevon Brazile",
+        "Zion Williamson"
+      ],
+      "excerpt": "he's short up the defensive rebound too",
+      "quote": "He's short up the defensive rebound too. If you're going to be up like we were against a team that athletic and they're crashing everybody, you got to be really special to win two-on-ones on the rebound. You are going up in traffic with crashing bodies with Zion Williamson in the mix and Murphy and all these guys. His closeouts are very unique, his two-foot jump is Olympic-like.",
+      "text_blocks": [],
+      "start_seconds": 894,
+      "end_seconds": 920,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman praised Trevon Brazile for his unique athleticism, noting that his two-foot jump is Olympic-like and crucial for rebounding in traffic against athletic teams.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trevon Brazile",
+          "Zion Williamson",
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "DEN",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Adelman praises Trevon Brazile's rebounding and athleticism while playing against the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "oJEmlZu2q28",
+  "url": "https://www.youtube.com/watch?v=oJEmlZu2q28",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-10-25T06:14:46Z",
+  "duration_seconds": 961,
+  "processed_at": "2026-10-25T11:31:02Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

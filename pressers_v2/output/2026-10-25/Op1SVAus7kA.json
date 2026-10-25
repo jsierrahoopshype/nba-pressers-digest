@@ -1,0 +1,165 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Dean Wade | 10.24.26",
+  "speakers_seen": [
+    "Dean Wade"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dean Wade",
+      "timestamp": "00:06",
+      "summary_phrase": "Dean Wade on the importance of VJ Edgecombe's energy and defense",
+      "names_mentioned": [
+        "VJ Edgecombe"
+      ],
+      "excerpt": "the energy he brings and the defensive force he plays with is so important to a team",
+      "quote": "He is so important to our team. Before the season, when everything happened, they were asking who is going to sacrifice. I think everyone was like, I think VJ is going to have to do it. But the energy he brings and the defensive force he plays with is so important to a team. I think he is probably one of the keys to our team and I do not even know if he realizes it, how important he is for us. He brings so much energy in offensive rebounding and defense. He is everywhere. I told him, your box score stats might not show up how important you really are to this team, but you are just, you cannot stay, the NBA is full of highs and lows and you just have to stay here.",
+      "start_seconds": 6,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dean Wade says VJ Edgecombe is a key to the 76ers success because of his energy and defense. Wade noted that while the box score might not show it, Edgecombe is vital to the team identity.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "VJ Edgecombe"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dean Wade discusses the impact of VJ Edgecombe on the team during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dean Wade",
+      "timestamp": "01:52",
+      "summary_phrase": "Dean Wade on his ankle injury and recovery",
+      "names_mentioned": [],
+      "excerpt": "me and the training staff have had a few days to get together and grind out",
+      "quote": "I am feeling good, a little sore, but feeling good. Me and the training staff have had a few days to get together and grind out some real treatment times and so I am feeling good. It was a kind of an awkward fall. I do not really know how I was shooting free throws after that because I am pretty sure VJ got fouled and he kind of got pushed into me, so I do not know, but I am feeling good.",
+      "start_seconds": 112,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dean Wade says he is feeling good after his recent ankle injury. Wade described the incident as an awkward fall after being bumped during a free throw sequence.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Dean Wade provides an update on his ankle injury and recovery process following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dean Wade",
+      "timestamp": "03:08",
+      "summary_phrase": "Dean Wade on the 76ers' athletic and high-IQ roster",
+      "names_mentioned": [],
+      "excerpt": "from the top to the bottom this team is athletic, big, and they know the game",
+      "quote": "From the top to the bottom this team is athletic, big, and they know the game, a very high IQ team. We have a lot of vets on this team, so you saw, especially these first couple games, we start off kind of slow in the game and then all of a sudden the switch kind of gets flipped and we are in passing lanes, we are being super physical and we are kind of hard to deal with when we are super engaged, super physical, flying around on the defensive end. We are a tough team to play against.",
+      "start_seconds": 188,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dean Wade on the 76ers defensive identity: When the team is engaged and physical, they are hard to deal with. Wade highlighted the high IQ and athleticism of the roster as key factors in their ability to flip the switch.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Dean Wade describes the athletic and high basketball IQ characteristics of the current Philadelphia 76ers roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dean Wade",
+      "timestamp": "03:55",
+      "summary_phrase": "Dean Wade on Jabari Smith Jr.'s impact and versatility",
+      "names_mentioned": [
+        "Jabari Smith Jr."
+      ],
+      "excerpt": "playing with Jabari, he makes everyone's life really easy",
+      "quote": "Playing with Jabari, he makes everyone's life really easy. He is super vocal on the defensive end, on the offensive end he is running into screens, he is playing hard. When the shot goes up, he is one of the hardest people to box out. He will do anything to get to the ball. On the defensive end, playing with him, we can switch one through five. He is a high IQ basketball player, he knows the game and he sees different actions, and him communicating makes everyone's life really easy on the defensive end.",
+      "start_seconds": 235,
+      "end_seconds": 272,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dean Wade says playing with Jabari Smith Jr. makes life easy for the rest of the team. Wade praised Smith for his vocal leadership and defensive versatility, noting the team can switch one through five with him on the floor.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jabari Smith Jr."
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dean Wade explains how playing alongside Jabari Smith Jr. improves the team's defensive and offensive execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dean Wade",
+      "timestamp": "05:25",
+      "summary_phrase": "Dean Wade on the team's unselfish culture and character",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "nobody cares who is scoring, we have so much firepower",
+      "quote": "I think it is the character of the guys we have. There are so many superstars on this team that could bring their ego in and want more shots, want to be more involved, but everyone we got is super bought in with swinging the ball, getting the ball moving, everyone gets touches, everyone feeling engaged. You do not see that a lot, especially with multiple superstars on one team. It makes everyone's job so much easier when everyone is bought in like this and the ball is swinging, nobody really cares who is scoring. We have so much firepower, we are a hard team to deal with.",
+      "start_seconds": 325,
+      "end_seconds": 367,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Dean Wade credits the 76ers unselfish culture for their early success. Wade says despite having multiple superstars, nobody cares who is scoring and everyone is bought into moving the ball.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Dean Wade discusses the unselfish culture and team-first mentality of the Philadelphia 76ers roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Op1SVAus7kA",
+  "url": "https://www.youtube.com/watch?v=Op1SVAus7kA",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-25T03:56:26Z",
+  "duration_seconds": 406,
+  "processed_at": "2026-10-25T11:31:30Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

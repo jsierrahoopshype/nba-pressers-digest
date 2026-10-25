@@ -1,0 +1,253 @@
+{
+  "video_title": "Drew Timme Shootaround Media Availability | 10-24-26",
+  "speakers_seen": [
+    "Drew Timme"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Drew Timme",
+      "timestamp": "00:10",
+      "summary_phrase": "Drew Timme on why he chose the Phoenix Suns",
+      "names_mentioned": [],
+      "excerpt": "I just love their style of play, just their movement, the coaches have been great.",
+      "quote": "I just love their style of play, just their movement, the coaches have been great. The trust that they give the players from what I've seen and stuff, it's a great spot. It's a team that wants to win and needs to win, and I just want to be able to help that any way possible.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Drew Timme on joining the Suns: I just love their style of play, their movement, and the trust they give players. It is a team that wants to win and needs to win, and I just want to be able to help that any way possible.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Drew Timme explains his decision to sign with the Phoenix Suns during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Drew Timme",
+      "timestamp": "00:35",
+      "summary_phrase": "Drew Timme on his role as a plug-and-play player",
+      "names_mentioned": [],
+      "excerpt": "I can just be a plug and play kind of guy.",
+      "quote": "I can just be a plug and play kind of guy. I've been around the league a little bit and pretty experienced, so filling any gap that needs to be filled and any role I can, whether it's the four or five, maybe a little pressure release and stuff like that, be a connector, so just anything in that role.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Drew Timme describes his role with the Suns as a plug and play guy. He says he is ready to fill any gap, whether it is the four or five, or acting as a connector to help the team.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Drew Timme discusses his versatility and willingness to fill various roles for the Phoenix Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Drew Timme",
+      "timestamp": "01:05",
+      "summary_phrase": "Drew Timme on learning from Devin Booker and Luka Doncic",
+      "names_mentioned": [
+        "Devin Booker",
+        "Luka Doncic"
+      ],
+      "excerpt": "Just seeing how their daily habits and how they approach the game is great to learn from.",
+      "quote": "Just seeing how their daily habits and how they approach the game is great to learn from. Obviously, you got guys like Booker and even like Luka I was with last year. Just seeing how their daily habits and how they approach the game is great to learn from. When you're a guy who's on the fringe and really trying to establish himself, it's watching guys like that.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Drew Timme says he is focused on learning from the daily habits of stars like Devin Booker and Luka Doncic as he tries to establish himself in the league.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Drew Timme discusses learning from the daily habits of Devin Booker and his former teammate Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Drew Timme",
+      "timestamp": "01:45",
+      "summary_phrase": "Drew Timme on his value as an undersized player",
+      "names_mentioned": [],
+      "excerpt": "I'm an undersized white guy. I don't pass the eye test, I would say.",
+      "quote": "I'm an undersized white guy. I don't pass the eye test, I would say. But I know how to hoop and play and make people better, and I think that's a skill that's undervalued and something that maybe doesn't always show up in the stat sheet, but something that's impactful when you really have to be around to see it.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Drew Timme on his game: I am an undersized guy. I do not pass the eye test, but I know how to hoop and make people better. That is a skill that is undervalued and impactful.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Drew Timme reflects on his playing style and his ability to impact the game beyond the stat sheet.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Drew Timme",
+      "timestamp": "02:21",
+      "summary_phrase": "Drew Timme on his adjustment to the Suns",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "It's tough coming to a new spot this quickly and already in season.",
+      "quote": "Obviously Luka, we were together in LA last year. And then also has been great. He's been in my ear constantly helping me with the plays, the terminology and stuff, and it's great because it's tough coming to a new spot this quickly and already in season, and I didn't get a camp with them obviously. So he's been great, especially now that he's a frontcourt guy, it's great to have that.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Drew Timme credits his adjustment to the Suns to the help he has received learning the terminology and plays on the fly after joining the team mid season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Drew Timme discusses how Luka Doncic is helping him adjust to the Phoenix Suns' terminology and plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Drew Timme",
+      "timestamp": "02:51",
+      "summary_phrase": "Drew Timme on Coach Budenholzer's coaching style",
+      "names_mentioned": [],
+      "excerpt": "He's a super good dude, love his energy and stuff.",
+      "quote": "He's a super good dude, love his energy and stuff. You just feel that trust that he already has, you know, it's really reassuring as a player. It's nice when your coach trusts you, like we have plays and stuff, but like you got to be you too and make plays how you see it, and that's just great to feel as a player.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Drew Timme on Coach Budenholzer: He is a super good dude. It is really reassuring as a player to feel that trust, where you have plays but you also have the freedom to be you and make plays how you see it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Drew Timme shares his positive impressions of head coach Mike Budenholzer and his coaching style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Drew Timme",
+      "timestamp": "03:24",
+      "summary_phrase": "Drew Timme on his career growth and shooting confidence",
+      "names_mentioned": [],
+      "excerpt": "I've shot, obviously not on high attempts, but I shot pretty good last year.",
+      "quote": "I've shot, obviously not on high attempts, but I shot pretty good last year. Just trying to continue to build in that, the confidence, the reps, and the growth in that, especially my shooting. I think that's something that could really help kind of establish myself more in this league, but also just being an everyday guy and being a guy that can fix any problem or plug and play anywhere.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Drew Timme says he is working to build confidence in his shooting to help establish himself in the league while continuing to be an everyday guy who can plug and play anywhere.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Drew Timme discusses his focus on improving his shooting and establishing himself as a reliable player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Drew Timme",
+      "timestamp": "04:16",
+      "summary_phrase": "Drew Timme on his ability to read and react",
+      "names_mentioned": [],
+      "excerpt": "Personally, that's what I'm probably best at is just reading and reacting based off what the defense presents.",
+      "quote": "Personally, that's what I'm probably best at is just reading and reacting based off what the defense presents. Obviously, did that a bunch in high school and then against Gonzaga, obviously Coach a few really trusts, especially his bigs to make plays and reads and stuff. So I mean, I feel really comfortable with that and just how can I get easy shots for other guys or easy buckets, make people's lives easier.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Drew Timme says his biggest strength is reading and reacting to what the defense presents to create easy shots and make his teammates lives easier.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Drew Timme describes his strength in reading and reacting to defensive schemes on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QYwzUvBT_zA",
+  "url": "https://www.youtube.com/watch?v=QYwzUvBT_zA",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-25T01:33:32Z",
+  "duration_seconds": 286,
+  "processed_at": "2026-10-25T11:32:31Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

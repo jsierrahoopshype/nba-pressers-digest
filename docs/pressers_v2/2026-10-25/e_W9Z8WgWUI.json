@@ -1,0 +1,159 @@
+{
+  "video_title": "Devin Booker Postgame On-Court Interview after breaking Suns home opener record",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Devin Booker",
+    "Cameron Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Devin Booker",
+      "speakers": [
+        "Unidentified speaker",
+        "Devin Booker"
+      ],
+      "timestamp": "00:18",
+      "summary_phrase": "Devin Booker on breaking Suns home opener scoring record",
+      "names_mentioned": [
+        "Charles Barkley",
+        "Eddie Johnson"
+      ],
+      "excerpt": "Those are some legendary names. I've done a lot for this franchise, but at the end of the day, it's just another win.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Looking at your game tonight, you set a franchise record for most points scored in a home opener. You passed Charles Barkley, also Eddie Johnson. I know we always talk about milestones with you, but what does that mean?"
+        },
+        {
+          "speaker": "Devin Booker",
+          "text": "Those are some legendary names. I've done a lot for this franchise, but at the end of the day, it's just another win. We needed a bounce-back win from the other night, so gets that forward."
+        }
+      ],
+      "start_seconds": 18,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker on setting the Suns home opener scoring record: I have done a lot for this franchise, but at the end of the day, it is just another win. We needed a bounce-back win.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Charles Barkley",
+          "Eddie Johnson"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker reacts to breaking the Suns franchise record for points in a home opener previously held by Charles Barkley and Eddie Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Devin Booker",
+      "speakers": [
+        "Unidentified speaker",
+        "Devin Booker",
+        "Cameron Johnson"
+      ],
+      "timestamp": "00:43",
+      "summary_phrase": "Devin Booker and Cameron Johnson on team offensive chemistry",
+      "names_mentioned": [
+        "Devin Booker",
+        "Cameron Johnson"
+      ],
+      "excerpt": "That's 15, that's our leader. Get him up!",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Book came out firing. How did he set the tone for you guys offensively? And I mean, you got going in the third quarter too, Cam."
+        },
+        {
+          "speaker": "Cameron Johnson",
+          "text": "That's 15, that's our leader. Get him up!"
+        },
+        {
+          "speaker": "Devin Booker",
+          "text": "Get him up!"
+        }
+      ],
+      "start_seconds": 43,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cameron Johnson on Devin Booker setting the tone for the Suns offense: Book came out firing. That is 15, that is our leader.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cameron Johnson"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Booker praises Cameron Johnson's offensive performance during an on-court postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Devin Booker",
+      "speakers": [
+        "Unidentified speaker",
+        "Devin Booker"
+      ],
+      "timestamp": "00:54",
+      "summary_phrase": "Devin Booker on building team identity and overcoming early season struggles",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "The first game of the season was embarrassing for us, and we wore that.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We also talked about just this team's ability to respond, coming out, turning things around. Coach talks about building habits and creating more of those. What habits do you think that you guys built on tonight?"
+        },
+        {
+          "speaker": "Devin Booker",
+          "text": "Really what we built our identity on last year. To be completely honest, the first game of the season was embarrassing for us, and we wore that. We wore it for a few days, we had to sit with it. I kind of still feel it after this win, so going into OKC, that's going to be our next challenge and we take off tomorrow."
+        }
+      ],
+      "start_seconds": 54,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker says the Suns season opener was embarrassing and the team is still feeling it despite the bounce-back win. We wore that for a few days, we had to sit with it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Devin Booker discusses the team's need to build better habits and respond to their previous loss before the upcoming game against Oklahoma City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "e_W9Z8WgWUI",
+  "url": "https://www.youtube.com/watch?v=e_W9Z8WgWUI",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-25T04:56:24Z",
+  "duration_seconds": 91,
+  "processed_at": "2026-10-25T11:31:08Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

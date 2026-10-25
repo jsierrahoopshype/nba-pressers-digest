@@ -1,0 +1,158 @@
+{
+  "video_title": "Shawn Marion Media Availability | Phoenix Suns | 10-24-26",
+  "speakers_seen": [
+    "Shawn Marion"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shawn Marion",
+      "timestamp": "01:25",
+      "summary_phrase": "Shawn Marion on the current Phoenix Suns roster",
+      "names_mentioned": [],
+      "excerpt": "I think they're young, they're athletic. Hopefully they can have a better turnaround tonight than they did.",
+      "quote": "I think they're young, they're athletic. Hopefully they can have a better turnaround tonight than they did the first night. But listen, I think they got a few new pieces on the team. I think it's all about just getting together collectively and making it happen.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shawn Marion on the current Suns roster: I think they are young and athletic. It is all about getting together collectively and making it happen.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Shawn Marion discusses the current Phoenix Suns roster and their need to improve after their first game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shawn Marion",
+      "timestamp": "01:43",
+      "summary_phrase": "Shawn Marion on the importance of actions over words",
+      "names_mentioned": [],
+      "excerpt": "Sometimes nothing needs to be said. Just got to go out there and do it.",
+      "quote": "Sometimes nothing needs to be said. Just got to go out there and do it. Actions speak louder than words. This generation is a little different than us, but with that being said, I think we're more than you can say you can show them. You can see where they was lacking that and hopefully that's enough motivation to self-correct.",
+      "verbatim_original_language": "",
+      "start_seconds": 103,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Shawn Marion on the current generation of players: Actions speak louder than words. You can see where they were lacking and hopefully that is enough motivation to self-correct.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Shawn Marion comments on the difference between his generation and current players regarding motivation and performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shawn Marion",
+      "timestamp": "02:44",
+      "summary_phrase": "Shawn Marion on Devin Booker turning 30",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "Big Book, big 30 baby. Man, he make me feel old right now.",
+      "quote": "Big Book, big 30 baby. Man, he make me feel old right now. Every birthday is a milestone. I celebrate my life like my birthday every day. 30 is a big number. It's interesting because my number was 31, so 30 was big but I made my 31st even better because that was my number. It's going to be awesome to see what he's done and just not turning 30 is crazy. He's finishing his second deal and getting ready to go on his third. Yeah, that's serious.",
+      "verbatim_original_language": "",
+      "start_seconds": 164,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shawn Marion on Devin Booker turning 30: It is crazy. He is finishing his second deal and getting ready to go on his third. That is serious.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Shawn Marion reflects on Devin Booker turning 30 and his career progression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shawn Marion",
+      "timestamp": "04:13",
+      "summary_phrase": "Shawn Marion on the evolution of NBA playstyles",
+      "names_mentioned": [],
+      "excerpt": "It's a high-pace, octane game now. Everybody's, what everybody we saying now, it's a make-or-miss league now.",
+      "quote": "It's a high-pace, octane game now. Everybody's, what everybody we saying now, it's a make-or-miss league now. You're making your shots, you're going to win. You're missing them, you're going to lose. But I like to see some teams that actually do a few little nuances in there and share the ball, share the wealth a little bit more.",
+      "verbatim_original_language": "",
+      "start_seconds": 253,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shawn Marion on the modern NBA: It is a high pace octane game now. It is a make or miss league. You are making your shots you are going to win. You are missing them you are going to lose.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Shawn Marion shares his thoughts on the high-paced nature of the modern NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shawn Marion",
+      "timestamp": "05:30",
+      "summary_phrase": "Shawn Marion on how he would fit in today's NBA",
+      "names_mentioned": [],
+      "excerpt": "I think I can play in every era personally, but definitely it would be a lot more tailored.",
+      "quote": "I think I can play in every era personally, but definitely it would be a lot more tailored to me because of how fast it is and me being able to go 1 through 5. I was able to do it at a time with real power forwards and real centers. Not now, because all the guys don't post up. Everything is now face guard, which catered to me easily. So I probably would have way more steals now, way more blocks, and make way more rebounds.",
+      "verbatim_original_language": "",
+      "start_seconds": 330,
+      "end_seconds": 363,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shawn Marion believes he would thrive in today's NBA: It would be a lot more tailored to me because of how fast it is. I probably would have way more steals now, way more blocks, and make way more rebounds.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Shawn Marion explains how his versatile playing style would fit into the current NBA era.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ODaynm-vR9I",
+  "url": "https://www.youtube.com/watch?v=ODaynm-vR9I",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-25T05:37:53Z",
+  "duration_seconds": 427,
+  "processed_at": "2026-10-25T11:31:00Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

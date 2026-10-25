@@ -1,0 +1,271 @@
+{
+  "video_title": "Khaman Maluach Shootaround Media Availability | 10-24-26",
+  "speakers_seen": [
+    "Khaman Maluach"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Khaman Maluach",
+      "timestamp": "00:20",
+      "summary_phrase": "Khaman Maluach on learning to defend Draymond Green",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "It's a learning point. It's better for me to learn in the beginning of the season.",
+      "quote": "It's different. Draymond Green is really experienced, a lot of IQ, a lot of passing. It's a different personnel from what I was supposed to do against Clingan and what I'm supposed to do against Draymond. To me, it all comes down to a learning point. It's better for me to learn in the beginning of the season so that by postseason, or by the end of the season, I know how to play whether it's a small guy or a big guy.",
+      "text_blocks": [],
+      "start_seconds": 20,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Khaman Maluach on the challenge of defending Draymond Green: It is a learning point for me to understand how to play against different personnel, whether it is a small guy or a big guy, so I am ready by the postseason.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green"
+        ],
+        "teams": [
+          "PHX",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach discusses the challenges of defending Draymond Green and his focus on learning early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Khaman Maluach",
+      "timestamp": "01:02",
+      "summary_phrase": "Khaman Maluach on teammates wanting him to speed up his development",
+      "names_mentioned": [],
+      "excerpt": "I love the fact that everybody wants me to fasten up the process.",
+      "quote": "I think it's valid to be able to want more. I love the fact that everybody wants me to fasten up the process. I don't mind it because now I'm learning a lot from different people, from my teammates, from my coaches. It's good for me. There's a lot of learning for me and I like it.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Khaman Maluach says he welcomes the pressure from teammates and coaches to speed up his development, noting that he loves the fact that everyone wants him to fasten up the process.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Khaman Maluach reacts to the expectation from his teammates and coaches for him to accelerate his development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Khaman Maluach",
+      "timestamp": "01:34",
+      "summary_phrase": "Khaman Maluach on learning from game film as a team",
+      "names_mentioned": [],
+      "excerpt": "We watch film together as a team and we pass that right now.",
+      "quote": "We watch film together as a team and we pass that right now. Same way I don't go too much ahead of myself is the same way I don't look too back. At the same point, I can't let that slide like it's nothing. Today I'm really focused on this game and we're going to use the fuel from last game to really play hard this game and not let it happen for the rest of the season.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Khaman Maluach says the Suns are using the fuel from their last game to play hard and ensure they do not let those mistakes happen for the rest of the season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach explains how the team uses film study to process previous games and prepare for the current one.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Khaman Maluach",
+      "timestamp": "02:13",
+      "summary_phrase": "Khaman Maluach on team depth and stepping up for teammates",
+      "names_mentioned": [],
+      "excerpt": "It shows the depth of our team, being able to have somebody like drop step up.",
+      "quote": "I think there's a lot of versatility. It shows the depth of our team, being able to have somebody like drop step up when other guys are out. It's just like we have a man down and we both got to stand up for other guys and we got to really execute and be really good at our job so that other guys get to relax.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Khaman Maluach highlights the versatility and depth of the Suns roster, noting that when guys are out, the rest of the team has to step up and execute to allow others to relax.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Khaman Maluach discusses the importance of team depth and stepping up when teammates are unavailable.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Khaman Maluach",
+      "timestamp": "02:52",
+      "summary_phrase": "Khaman Maluach on maintaining his approach regardless of lineup changes",
+      "names_mentioned": [],
+      "excerpt": "It's the same approach for me. It don't matter whether others are out or whether he's playing.",
+      "quote": "It's the same approach for me. It don't matter whether others are out or whether he's playing. It's just we both have the same approach. We are good players, we are there for our team, we are great teammates and we are going to do whatever it takes to win. It's not like, oh, others are out now, let me take a bunch of shots or bad shots. It's still the same learning process for me and it's still the same development process.",
+      "text_blocks": [],
+      "start_seconds": 172,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Khaman Maluach on his approach during lineup changes: It does not matter who is playing, I am still focused on the same learning and development process to help the team win.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach explains that his approach to the game remains consistent regardless of lineup changes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Khaman Maluach",
+      "timestamp": "03:37",
+      "summary_phrase": "Khaman Maluach on his development and putting in the work",
+      "names_mentioned": [],
+      "excerpt": "It's just a matter of reps. I put in the reps this summer.",
+      "quote": "I don't think there's really anything that's changed, whether it's my form or footwork. It's just a matter of reps. I put in the reps this summer. I've been putting up shots for the past couple years and it just keeps on getting better and better.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Khaman Maluach says his recent improvement is not about changing his form or footwork, but simply a matter of the reps he has been putting in over the past couple of years.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach attributes his ongoing improvement to the repetition of his shooting form and footwork.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Khaman Maluach",
+      "timestamp": "04:06",
+      "summary_phrase": "Khaman Maluach on defensive growth and reading the game",
+      "names_mentioned": [],
+      "excerpt": "It's just being able to know who's on the court right now.",
+      "quote": "It's just being able to know who's on the court right now and being able to read like what I should do at certain moments or tendencies of guys. It's early in the season, we're really two games into the season, but deep in the season, through 40, 50 games, we'll know tendencies of guys and I got to be smart enough to know that while I'm on court.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Khaman Maluach says his defensive growth is about learning player tendencies, noting that while it is early in the season, he needs to be smart enough to read the game as he gets more experience.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach discusses the importance of learning opponent tendencies as the season progresses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Khaman Maluach",
+      "timestamp": "05:00",
+      "summary_phrase": "Khaman Maluach on gaining experience through G League and practice",
+      "names_mentioned": [],
+      "excerpt": "I've been getting reps last year. I've got reps in practice, I've got reps in a couple games.",
+      "quote": "I think I've been getting reps. It doesn't matter. I've been getting reps last year. I've got reps in practice, I've got reps in a couple games. I've got reps in the G League Summer League, so all that combined just comes into one part and it helps me throughout this whole process.",
+      "text_blocks": [],
+      "start_seconds": 300,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Khaman Maluach credits his development to the accumulation of reps across practice, G League, and Summer League play.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach reflects on how his experience across practice, G League, and Summer League contributes to his development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Khaman Maluach",
+      "timestamp": "05:16",
+      "summary_phrase": "Khaman Maluach on absorbing lessons from previous game",
+      "names_mentioned": [],
+      "excerpt": "We've obviously learned a lot from it and we absorb all that.",
+      "quote": "We've obviously learned a lot from it and we absorb all that. We had to look at it differently. At the same time, as I say, we have to flush it and forget about it, but not really let it slide and be like, oh, it's okay to beat us by 40. The next time we play them, we just won't walk through there and be like, we're good with it. It's not going to be like that.",
+      "text_blocks": [],
+      "start_seconds": 316,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Khaman Maluach on the team's mindset after a tough loss: We have to flush it and forget about it, but we cannot let it slide. The next time we play them, it is not going to be like that.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach discusses the team's mindset following a significant loss and their focus on improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "bLIhrDaxhuo",
+  "url": "https://www.youtube.com/watch?v=bLIhrDaxhuo",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-25T01:32:40Z",
+  "duration_seconds": 363,
+  "processed_at": "2026-10-25T11:32:34Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

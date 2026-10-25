@@ -1,0 +1,263 @@
+{
+  "video_title": "Hornets vs Heat: Coach Charles Lee Postgame Media Availability | 10/24/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:51",
+      "summary_phrase": "Charlotte Hornets' veteran leadership during clutch time",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "one of our veterans stood up and said, 'Hey guys, it's 0-0 at this point.'",
+      "quote": "It got to 100-100 and one of our veterans stood up and said, 'Hey guys, it's 0-0 at this point.' It gave a calm and a confidence to the group, and Naz is also the guy that then at the end of the game, over the ball, you need activity, read his eyes. He gets two or three deflections right there and it messes up their whole ability to then get an E3 play. So, just really impressed with the whole group from start to finish.",
+      "start_seconds": 51,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee praised his veteran leadership for keeping the team calm during a tied game against the Heat, noting that a veteran reminded the group it was 0-0 when the score hit 100-100.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHA",
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Charles Lee discusses the team's composure and defensive effort during the closing minutes of the game against the Miami Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "01:33",
+      "summary_phrase": "Dennis Schroder's defensive intensity and impact",
+      "names_mentioned": [
+        "Dennis Schroder",
+        "Grayson Allen",
+        "Naz Reid"
+      ],
+      "excerpt": "Dennis is his intensity defensively, being able to break the paint, hit a couple threes today.",
+      "quote": "Grayson, Naz, and Dennis came up with big plays. I thought Dennis is his intensity defensively, being able to break the paint, hit a couple threes today. His energy, he's just earned so much respect from our guys for how hard he plays. I was really impressed with what he gave us in his headiness. He's a calming factor.",
+      "start_seconds": 93,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says Dennis Schroder has earned the respect of his teammates through his defensive intensity and energy, calling him a calming factor for the Hornets.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dennis Schroder",
+          "Grayson Allen",
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee praises the defensive intensity and energy provided by Dennis Schroder, Grayson Allen, and Naz Reid during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:54",
+      "summary_phrase": "Grayson Allen's stabilizing role off the bench",
+      "names_mentioned": [
+        "Grayson Allen",
+        "Thompson"
+      ],
+      "excerpt": "Grayson, he comes off the bench, stabilizes that second unit group a lot of times.",
+      "quote": "Grayson, he comes off the bench, stabilizes that second unit group a lot of times and his ability to drive and score. But I also think that his defense at times on Thompson, the multiple efforts, the multiple low contest to then get to a high contest was great.",
+      "start_seconds": 114,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee credits Grayson Allen for stabilizing the second unit, highlighting his ability to drive, score, and provide multiple defensive efforts against Thompson.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Grayson Allen",
+          "Thompson"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee highlights the stabilizing impact of Grayson Allen off the bench and his defensive effort against Thompson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "02:11",
+      "summary_phrase": "Naz Reid's defensive versatility against Bam Adebayo and Josh Richardson",
+      "names_mentioned": [
+        "Naz Reid",
+        "Bam Adebayo",
+        "Portis"
+      ],
+      "excerpt": "Naz, he came up with big plays when we needed them. He guarded Bam Adebayo.",
+      "quote": "Naz, he came up with big plays when we needed them. He guarded Bam Adebayo, which is a tough cover. The physicality there, being in different coverages between Bam Adebayo and Portis, I can't say enough about how versatile he is.",
+      "start_seconds": 131,
+      "end_seconds": 147,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee praised Naz Reid for his defensive versatility, specifically highlighting his ability to guard Bam Adebayo and handle different coverages throughout the game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid",
+          "Bam Adebayo",
+          "Bobby Portis"
+        ],
+        "teams": [
+          "CHA",
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee commends Naz Reid for his defensive versatility while guarding Bam Adebayo and Bobby Portis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "02:42",
+      "summary_phrase": "Brandon Miller's leadership and offensive creation",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "though he may be struggling offensively, he creates so many good things for us on the offensive end.",
+      "quote": "That's why you never overreact to shooting numbers or shooting slumps or one-game sample sizes. That guy has a body of work that is very impressive. And you know, though he may be struggling offensively, he creates so many good things for us on the offensive end. I thought his defense today was much improved. That steal he gets on Larson at a crucial moment, I just think that's just who he is. That's the type of consistent competitor he is. He wants to be an elite two-way player and he showcased it today.",
+      "start_seconds": 162,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee is not worried about Brandon Miller's shooting slump, emphasizing that Miller remains an elite two-way competitor who creates opportunities even when his shots are not falling.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller",
+          "Larson"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee defends Brandon Miller's overall contribution and defensive growth despite his recent offensive struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Charles Lee",
+      "timestamp": "03:17",
+      "summary_phrase": "Defensive strategy to contain Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "We knew that we were going to need all five guys that were on the court.",
+      "quote": "Credit to the primary defenders that guarded him, but also credit to the collective group. We knew that we were going to need all five guys that were on the court to be watching him, to be shifting, to be active. At times you got to force him to throw it out and just sell out on your contest to Thompson or Mitchell or whomever it is. And I thought that our guys did it. They trusted each other.",
+      "start_seconds": 197,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee credited the Hornets' collective defensive effort for containing Giannis Antetokounmpo, noting that the team had to sell out on contests and trust each other to force the ball out of his hands.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo",
+          "Thompson",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CHA",
+          "MIL",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Charles Lee explains the team's collective defensive strategy used to contain Giannis Antetokounmpo and other opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Charles Lee",
+      "timestamp": "04:01",
+      "summary_phrase": "Ryan Kalkbrenner's growth and defensive instincts",
+      "names_mentioned": [
+        "Ryan Kalkbrenner",
+        "Bam Adebayo",
+        "Adebayo"
+      ],
+      "excerpt": "He's continued to just grow, find his physicality, find his spots on the floor.",
+      "quote": "He's continued to just grow, find his physicality, find his spots on the floor. At one point he came over to me and was like, 'Coach, was that too much help on Bam Adebayo's drive?' And I think he dumped it off to Adebayo and I was like, 'Ryan, you just keep trusting your instincts.' And really, it's the weak side that's got to be a bit better. And so, those guys in the next timeout, they're talking to each other, 'Hey, there's a stagger going on, we could be better, we'll have your back.' But I love what Ryan is giving us. I feel like again, the physicality that he brings on the defensive but also offensively, setting some of those screens, he comes up with a few of those rebounds or he wears down the other team even when he doesn't come up with them.",
+      "start_seconds": 241,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee says rookie Ryan Kalkbrenner is continuing to grow and find his physicality, encouraging the big man to keep trusting his defensive instincts on the floor.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Kalkbrenner",
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "CHA",
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee discusses the development of Ryan Kalkbrenner and his communication with the coaching staff regarding defensive rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "11oGmQ5ACL8",
+  "url": "https://www.youtube.com/watch?v=11oGmQ5ACL8",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-25T02:20:53Z",
+  "duration_seconds": 323,
+  "processed_at": "2026-10-25T11:32:16Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

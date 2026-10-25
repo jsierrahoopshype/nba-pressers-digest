@@ -1,0 +1,142 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs Nuggets Postgame Interview 10/24/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:06",
+      "summary_phrase": "Jamahl Mosley on defensive lapses and turnovers against the Nuggets",
+      "names_mentioned": [],
+      "excerpt": "we have to go back and look at the film, see exactly what it was",
+      "quote": "We didn't take care of the basketball. They went on a run, they got out early, got some easy threes, got some shots off. Again, we're defending without fouling down the stretch, those are some similarities. But again, you have to go back and look at the film, see exactly what it was, but it was them turning up their pressure, turning up their heat, made some big shots down the stretch, and again, allowing them to get us a couple costly turnovers to not let us get the shots that we needed.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says the Pelicans loss to the Nuggets came down to self-inflicted wounds as they failed to take care of the basketball and allowed costly turnovers down the stretch.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's turnovers and defensive struggles during the postgame press conference following the loss to the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:40",
+      "summary_phrase": "Jamahl Mosley praises team ball movement and Jamal Murray's performance",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Joker"
+      ],
+      "excerpt": "we were playing excellent basketball. I think we had 22 assists on 29 field goals",
+      "quote": "We were playing excellent basketball. I think we had 22 assists on 29 field goals in the first half, and I talked about us being able to share it, move it, continue to trust it. Again, some shots didn't fall down the stretch, but that can't impact how we're going to defend. Hats off to Jamal Murray and the way he played and Joker doing the things that they did. But again, a lot of that was some self-inflicted wounds that we'll have to clean up and continue to focus on and how we continue to get better there.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Despite the loss, Jamahl Mosley praised the team ball movement in the first half noting they had 22 assists on 29 field goals while crediting Jamal Murray and Nikola Jokic for their performance.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley comments on the team's ball movement and praises the performance of Jamal Murray and Nikola Jokic after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:16",
+      "summary_phrase": "Jamahl Mosley praises DeAndre Jordan's impact and leadership",
+      "names_mentioned": [
+        "DeAndre Jordan"
+      ],
+      "excerpt": "you can't say enough about that that man. What he means to this team",
+      "quote": "You can't say enough about that man. What he means to this team, his presence on not just on the court but in the locker room, the example he sets, the way he takes care of his body, the way his spirit is always up. He's a competitor, he's a winner, and he wants to do those things. So for his ability to come in and start tonight against his old team says a lot about him.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley praised DeAndre Jordan for his leadership and presence in the locker room after the veteran started against his former team tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "DeAndre Jordan"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley praises DeAndre Jordan for his leadership and performance in the starting lineup against his former team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:43",
+      "summary_phrase": "Jamahl Mosley on team mental resilience and focus on details",
+      "names_mentioned": [],
+      "excerpt": "you're going to win some games, you're going to lose some games",
+      "quote": "It's the NBA. You're going to win some games, you're going to lose some games, and so you got to understand if you're focusing on the right things and if you're pulling yourself together as a unit. That's what these guys will continue to focus on doing, and can we find the details within these games? Because there's a common theme in these moments: how do we do better without fouling? How do we take care of the basketball? How do we finish out possessions with the rebound? I think those are big keys and the small details of a game that we can control, not necessarily what the opponent is doing.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says the Pelicans must focus on the small details to improve including defending without fouling, taking care of the basketball, and finishing possessions with rebounds.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the importance of focusing on small details like rebounding and limiting fouls to improve the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "-8K0QbyEXBY",
+  "url": "https://www.youtube.com/watch?v=-8K0QbyEXBY",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-25T04:49:44Z",
+  "duration_seconds": 135,
+  "processed_at": "2026-10-25T11:31:11Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

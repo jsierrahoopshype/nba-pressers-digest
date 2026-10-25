@@ -1,0 +1,174 @@
+{
+  "video_title": "LIVE: Pelicans vs. Nuggets Postgame Interviews 10/24/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:11",
+      "summary_phrase": "Jamahl Mosley on the team's fourth quarter defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "it was them turning up their pressure turning up their heat made some big shots down the stretch",
+      "quote": "We didn't take care of the basketball. They went on a run. They got out early, got some easy threes, got some shots off. Again, with defending without fouling down the stretch, those are some similarities. But again, you have to go back and look at the film, see exactly what it was, but it was them turning up their pressure, turning up their heat, made some big shots down the stretch, and again, allowing them to get us a couple costly turnovers to not let us get the shots that we needed.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 371,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says the Pelicans fourth quarter struggles came down to self inflicted wounds and failing to take care of the basketball against the Nuggets pressure.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's defensive struggles and turnovers during the fourth quarter of the loss to the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:45",
+      "summary_phrase": "Jamahl Mosley on the team's first half ball movement",
+      "names_mentioned": [],
+      "excerpt": "we were playing excellent basketball. I think we had 22 assists on 29 field goals in the first half",
+      "quote": "We were playing excellent basketball. I think we had 22 assists on 29 field goals in the first half. And I talked about us being able to share it, move it, continue to trust it. Again, some shots didn't fall down the stretch, but that can impact how we're going to defend.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 405,
+      "end_seconds": 425,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley praised the team for playing excellent basketball in the first half noting they had 22 assists on 29 field goals before the offense stalled late.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on the team's ball movement and assist numbers during the first half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:01",
+      "summary_phrase": "Jamahl Mosley praises Jamal Murray and Nikola Jokic's performance",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Jokic"
+      ],
+      "excerpt": "hats off to Jamal Murray and the way he played and Jokic doing the things that they did",
+      "quote": "Hats off to Jamal Murray and the way he played and Jokic doing the things that they did. But again, a lot of that was some self-inflicted wounds that we'll have to clean up and continue to focus on and how we continue to get better there.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 421,
+      "end_seconds": 439,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley gave credit to Jamal Murray and Nikola Jokic for their performance tonight but emphasized that the Pelicans loss was largely due to their own mistakes.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley credits Jamal Murray and Nikola Jokic for their performance while noting the team's own mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:21",
+      "summary_phrase": "Jamahl Mosley on DeAndre Jordan's impact and leadership",
+      "names_mentioned": [
+        "DeAndre Jordan"
+      ],
+      "excerpt": "you can't say enough about that man. What he means to this team, his presence on the court",
+      "quote": "You can't say enough about that man. What he means to this team, his presence on not just on the court, but in the locker room, the example he sets, the way he takes care of his body, the way he's his spirit is always up. He's a competitor, he's a winner, and he wants to do those things. So for his ability to come in and start tonight against his old team, says a lot about him.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 441,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley praised DeAndre Jordan for his leadership and impact on the locker room after the veteran started against his former team.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "DeAndre Jordan"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley praises the leadership and impact of DeAndre Jordan following his performance against his former team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:48",
+      "summary_phrase": "Jamahl Mosley on the team's mental approach to the season",
+      "names_mentioned": [],
+      "excerpt": "you understand that you're going to win some games you're going to lose some games",
+      "quote": "It's the NBA. You understand that you're going to win some games, you're going to lose some games. And so you got to understand, if you're focusing on the right things and if you're pulling yourself together as a unit, and that's what these guys will continue to focus on doing. And can we find the details within these game? Because there's a common theme in these moments. How do we do better without fouling? How do we take care of the basketball? How do we finish out possessions with the rebound? I think those are big keys to the small details of the game that that we can control, not necessarily what the opponent is doing.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 468,
+      "end_seconds": 513,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says the Pelicans need to focus on the small details like defending without fouling and finishing possessions with rebounds to improve.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the team's mental approach and focus on small details like rebounding and fouling for the remainder of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "l71aDC2e7VY",
+  "url": "https://www.youtube.com/watch?v=l71aDC2e7VY",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-25T04:17:05Z",
+  "duration_seconds": 529,
+  "processed_at": "2026-10-25T11:31:22Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

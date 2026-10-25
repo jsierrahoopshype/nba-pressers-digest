@@ -1,0 +1,174 @@
+{
+  "video_title": "Hornets vs Heat: Brandon Miller Postgame Media Availability | 10/24/2026",
+  "speakers_seen": [
+    "Brandon Miller"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandon Miller",
+      "timestamp": "00:23",
+      "summary_phrase": "Brandon Miller on the Hornets' team resilience and fighting spirit",
+      "names_mentioned": [],
+      "excerpt": "we still have to play Hornets DNA basketball at the end of the day",
+      "quote": "I would say just the fight that we have. Obviously every game is not going to be perfect, whether we are down 20 or we are up 20. We still have to play Hornets DNA basketball at the end of the day. I think just our mindset and how we think about other teams going on runs, it is how we are going to respond to it. I think the NBA has to fight a little bit of adversity and I think tonight showed what Hornets basketball is really made of.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller says the Hornets are focused on playing their brand of basketball regardless of the score, noting that the team has to fight through adversity to show what they are really made of.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller discusses the team's resilience and mindset during their postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandon Miller",
+      "timestamp": "01:13",
+      "summary_phrase": "Brandon Miller on maintaining focus and limiting turnovers",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "start this half just like how we start the first half",
+      "quote": "I think like Naz was saying, it was just 100-100, 0-0. Start this half just like how we start the first half. Of course we can up our physicality a little bit more and just play smarter, limit the turnovers, limit the bad possessions, and then we will win a basketball game.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller references advice from teammate Naz Reid regarding maintaining focus and limiting turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brandon Miller",
+      "timestamp": "01:53",
+      "summary_phrase": "Brandon Miller on his offensive progression and decision making",
+      "names_mentioned": [],
+      "excerpt": "seeing some easy ones go through the rim first, trying not to force it",
+      "quote": "I think like you said, just the small things. Seeing some easy ones go through the rim first, trying not to force it. I feel like I try to make every right play, whatever the case may be, and I think that is going to put us in the best position to win a basketball game.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller on his offensive approach, saying he is focused on the small things and trying not to force shots, aiming to make the right play to put the team in the best position to win.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller reflects on his offensive progression and decision-making process during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brandon Miller",
+      "timestamp": "02:16",
+      "summary_phrase": "Brandon Miller on the leadership of veteran teammates",
+      "names_mentioned": [
+        "Grayson Allen",
+        "Naz Reid",
+        "Dennis Schroder"
+      ],
+      "excerpt": "they are a big piece of what we are building here",
+      "quote": "I think they are a big piece of what we are building here. Those are guys that have obviously been to the playoffs, been to places that we want to be. And of course they know our goals and they are not going to do nothing but help us and steer us to the right direction of making the playoffs or being all about winning basketball is all we ask for and that is what they bring.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller credits the veteran presence on the Hornets roster for helping steer the team in the right direction, noting that their playoff experience is a big piece of what the team is building.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Miller discusses the importance of veteran leadership in helping the team reach their goal of making the playoffs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brandon Miller",
+      "timestamp": "03:02",
+      "summary_phrase": "Brandon Miller on the team's response to early season losses",
+      "names_mentioned": [
+        "Naz Reid",
+        "Grayson Allen",
+        "Dennis Schroder"
+      ],
+      "excerpt": "I applaud the guys just for bouncing back off a loss like that",
+      "quote": "I think just the response. Obviously yesterday was not our basketball game, it was not our night. I think just coming in today, it was a different kind of mindset. I applaud the guys just for bouncing back off a loss like that. It is easy to get discouraged with losses like that, but I think we have those vets like Naz, Grayson, Dennis, everybody just around just having the positive mindset of how we are going to respond from losing last night and coming in here and putting it together on the floor tonight.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller praises the Hornets for their mindset after a tough loss, noting that veterans like Naz, Grayson, and Dennis were key in keeping the team positive and ready to bounce back.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naz Reid",
+          "Grayson Allen",
+          "Dennis Schroder"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Miller praises his veteran teammates for their positive mindset following a recent loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "AelqPO1DA4I",
+  "url": "https://www.youtube.com/watch?v=AelqPO1DA4I",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-25T02:11:44Z",
+  "duration_seconds": 226,
+  "processed_at": "2026-10-25T11:32:21Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

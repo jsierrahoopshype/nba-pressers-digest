@@ -1,0 +1,202 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keesh and Anthony Davis | 10.24.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Anthony Davis"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on the Wizards' second-half defensive adjustments",
+      "names_mentioned": [],
+      "excerpt": "I'm really pleased with that defensive effort in the second half.",
+      "quote": "Terrific third quarter by us coming out establishing our defense, hitting our transition defense set, and then the ball movement and passing that we had. We had 11 assists on 12 made baskets, so the defense and the passing was great. I'm really pleased with that defensive effort in the second half.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe was pleased with the Wizards defensive effort in the second half, noting the team had 11 assists on 12 made baskets during their strong third quarter push.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the defensive adjustments and ball movement his team displayed during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:46",
+      "summary_phrase": "Brian Keefe on Justin Champagnie's impact and versatility",
+      "names_mentioned": [
+        "Justin Champagnie"
+      ],
+      "excerpt": "He just kind of has a lens and fits in and does a lot of little things.",
+      "quote": "Justin Champagnie just does winning plays. He just kind of has a lens and fits in and does a lot of little things that aren't little, they're big things. His rebounding, his cutting, the secondary playmaking, his defensive energy. It's a good start for the year.",
+      "verbatim_original_language": "",
+      "start_seconds": 46,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe praised Justin Champagnie for his versatility, highlighting his rebounding, cutting, and secondary playmaking as big contributions that do not go unnoticed.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brian Keefe praises Justin Champagnie for his versatility and ability to make winning plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:37",
+      "summary_phrase": "Brian Keefe on the developmental mindset for young defenders",
+      "names_mentioned": [],
+      "excerpt": "It starts with a mindset, I think that's probably the most important thing.",
+      "quote": "I've had some young teams in the past, I've never believed that young guys can't defend, so we believe our guys are going to do that. Obviously, you have to go through some of the stuff in the NBA and there's some learning process to that, but it starts with a mindset, I think that's probably the most important thing, and then you're always working on schemes, coverages, communication stuff.",
+      "verbatim_original_language": "",
+      "start_seconds": 97,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe says he does not believe young players cannot defend, emphasizing that defensive success starts with a mindset and constant work on communication and schemes.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains his philosophy on developing defensive mindsets and schemes with a young roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:57",
+      "summary_phrase": "Brian Keefe on the depth and contributions of the roster",
+      "names_mentioned": [
+        "Will Riley"
+      ],
+      "excerpt": "Different guys are stepping up in different moments, and that's what good teams do.",
+      "quote": "We've talked about the depth of our roster, guys being able to step up. Will Riley got in the mix tonight, I thought that was great. Different guys are stepping up in different moments, and that's what good teams do. We're learning that about our team, what works, what lineups, what combinations.",
+      "verbatim_original_language": "",
+      "start_seconds": 177,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe is encouraged by the depth of the Wizards roster, noting that different players are stepping up in different moments as the team learns which lineups work best.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Will Riley"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Brian Keefe discusses the depth of the roster and the contributions of various players including Will Riley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Anthony Davis",
+      "timestamp": "05:25",
+      "summary_phrase": "Anthony Davis on Justin Champagnie's intangible contributions",
+      "names_mentioned": [
+        "Justin Champagnie"
+      ],
+      "excerpt": "Justin just always in the right place at the right time doing the little things.",
+      "quote": "He comes in and just do the intangibles. Justin just always in the right place at the right time doing the little things. So, it's good to have him on the floor. He can obviously space the floor with his shooting ability, he rebound extremely well for a guard, and he makes the right plays.",
+      "verbatim_original_language": "",
+      "start_seconds": 325,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Davis says Justin Champagnie is always in the right place at the right time, adding that his ability to space the floor and rebound well for a guard makes him a valuable asset.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Davis comments on the intangible contributions and floor spacing provided by teammate Justin Champagnie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Anthony Davis",
+      "timestamp": "06:30",
+      "summary_phrase": "Anthony Davis on the team's reaction to a big dunk",
+      "names_mentioned": [],
+      "excerpt": "That was a big dunk.",
+      "quote": "That was a big dunk. When we have plays, obviously we got a lot of athletic guys and you get plays like that, you know, JC had a reverse dunk in the second half, so those are momentum plays for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 390,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anthony Davis says the team thrives on momentum plays, specifically pointing to the reverse dunk by Justin Champagnie as a key spark for the Wizards in the second half.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis describes how momentum-shifting plays like dunks from teammates impact the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "sXOD2Tcutao",
+  "url": "https://www.youtube.com/watch?v=sXOD2Tcutao",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-25T03:48:59Z",
+  "duration_seconds": 443,
+  "processed_at": "2026-10-25T11:31:46Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,148 @@
+{
+  "video_title": "Hawks vs. Rockets Postgame Press Conference: Quin Snyder after 121-114 Loss",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:22",
+      "summary_phrase": "Quin Snyder on the importance of offensive rebounding against the Rockets",
+      "names_mentioned": [],
+      "excerpt": "we know how important the defensive boards are for us to get out and go.",
+      "quote": "We know how important the defensive boards are for us to get out and go. The best way to attack them is in space. They are so big and they are spread out, and when you get in the half court, it is harder. You have to take those shots. We can look at them and see how contested they were, but a lot of times that is the best shot you are going to get in a possession. When we got on the offensive glass, we were able to get another one of those shots that we can rebound.",
+      "text_blocks": [],
+      "start_seconds": 82,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder on the Hawks offensive rebounding strategy against the Rockets: The best way to attack them is in space and when you get in the half court it is harder. We have to take those shots.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the team's strategy regarding offensive rebounding and transition play following the loss to the Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:10",
+      "summary_phrase": "Quin Snyder on defensive breakdowns against Jabari Smith Jr. and Dillon Brooks",
+      "names_mentioned": [
+        "Jabari Smith Jr.",
+        "Dillon Brooks"
+      ],
+      "excerpt": "Shepherd and Bogie's threes, those were some breakdowns we got to clean up.",
+      "quote": "Shepherd and Bogie's threes, those were some breakdowns we got to clean up and those guys are really good shooters, we know that. Someone might have a hot night, but we got to limit their attempts. We are more solid there and rebound, I think the offense becomes easier. I thought we got some good stuff at the rim too, we just were not able to finish.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder says the Hawks need to clean up defensive breakdowns on shooters like Shepherd and Brooks. We have to limit their attempts.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jabari Smith Jr.",
+          "Dillon Brooks"
+        ],
+        "teams": [
+          "ATL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Quin Snyder addresses defensive lapses against specific Rockets players during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "03:06",
+      "summary_phrase": "Quin Snyder on Aaron Holiday's impact off the bench",
+      "names_mentioned": [
+        "Aaron Holiday"
+      ],
+      "excerpt": "He was having a tough shooting night and he stayed with it and eventually shots fall.",
+      "quote": "We knew him as a player, that is one of the reasons that we were pleased to be able to have him join our team. I thought the thing tonight that we had not seen was that he was having a tough shooting night and he stayed with it and eventually shots fall. And really that is the challenge mentally, when you are not making shots, what else can you do? Can you get stops? Get some stuff easier? Sometimes when you do that, you kind of get thrown into the game.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder on Aaron Holiday staying with it despite a tough shooting night: The challenge mentally is when you are not making shots what else can you do. Can you get stops.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Holiday"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder evaluates Aaron Holiday's performance and mental approach during a difficult shooting night.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:30",
+      "summary_phrase": "Quin Snyder on Dyson Daniels' defensive performance against Kevin Durant",
+      "names_mentioned": [
+        "Dyson Daniels",
+        "Kevin Durant",
+        "Munir Shepherd",
+        "Lou Williams"
+      ],
+      "excerpt": "I thought Dyson did a good job. That is always the question, do you have him on the ball?",
+      "quote": "I thought Dyson did a good job. That is always the question, do you have him on the ball? Do you have him on Munir Shepherd? He is handling. You cannot put him on everybody. Those matchup questions, you have got other guys in the league too that can guard the ball. We are not always going to have them in at the same time and we got Lou as well. So some of those matchups for us, I thought we did a pretty good job. We were solid in the situations.",
+      "text_blocks": [],
+      "start_seconds": 270,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder on the defensive rotation and Dyson Daniels: You cannot put him on everybody. Those matchup questions, you have got other guys in the league too that can guard the ball.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dyson Daniels",
+          "Kevin Durant"
+        ],
+        "teams": [
+          "ATL",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the defensive matchups and the performance of Dyson Daniels against high-level opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "TUBiuPjsyA8",
+  "url": "https://www.youtube.com/watch?v=TUBiuPjsyA8",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-25T03:54:05Z",
+  "duration_seconds": 351,
+  "processed_at": "2026-10-25T11:31:41Z",
+  "run_id": "2026-10-25T1130Z-06utc",
+  "is_one_off": false
+}
