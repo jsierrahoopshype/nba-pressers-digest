@@ -1,0 +1,116 @@
+{
+  "video_title": "GM Sam Presti Media Availability | October 26, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Sam Presti"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sam Presti",
+      "timestamp": "00:13",
+      "summary_phrase": "Jalen Williams' injury update and outlook",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "He's got a fractured fibula, dislocated ankle on the left side.",
+      "quote": "I want to talk about Jalen. I was with him last night and this morning. He's in great spirits and is extremely optimistic about the situation. What he's dealing with is he's got a fractured fibula, dislocated ankle on the left side. This is an injury that generally we see more in football players. I've spent a lot of time speaking to different doctors, his agents, us, his family, and it's a surgical situation. That's the way you deal with this type of injury, and we'll have a timeline for everybody once we get through the surgery. I can't really give you that right now because it would be inappropriate. We've got to see where we are after that's done.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 10,
+      "social_post": "Thunder GM Sam Presti confirms Jalen Williams will undergo surgery for a fractured fibula and dislocated ankle. Presti says the team will provide a recovery timeline once the procedure is complete.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Sam Presti provides a medical update on Jalen Williams following a fractured fibula and dislocated ankle.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sam Presti",
+      "timestamp": "01:27",
+      "summary_phrase": "Cason Wallace's injury and upcoming surgery",
+      "names_mentioned": [
+        "Cason Wallace"
+      ],
+      "excerpt": "He is a left labral tear in his shoulder. Again, that's going to be a surgical situation.",
+      "quote": "We also got some tough news on Cason Wallace last night. He is a left labral tear in his shoulder. Again, that's going to be a surgical situation as well. Timeline, we're going to have to get to that again once we have the surgery. We're going through the process right now to determine next steps. Same thing with Cason, as everybody knows, he's a total warrior and probably would have gone back in the game if we let him.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 10,
+      "social_post": "Cason Wallace is set for surgery after suffering a left labral tear in his shoulder. Sam Presti says the team is currently determining the next steps for his recovery.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Sam Presti announces that Cason Wallace suffered a left labral tear in his shoulder and will require surgery.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Sam Presti",
+      "timestamp": "19:33",
+      "summary_phrase": "Sam Presti on potential Russell Westbrook return",
+      "names_mentioned": [
+        "Russell Westbrook"
+      ],
+      "excerpt": "I haven't thought about anything relative to the roster spot.",
+      "quote": "I haven't thought about anything relative to the roster spot. I understand the question. All I'm really focused on right now is players, getting them the right support, and then helping everybody with our group realize that we have a tremendous challenge in front of us, but it's what we do. This is what we signed up for, and it's what we represent. So, we have to come together and keep grinding, which I think we will do. I know we will do.",
+      "text_blocks": [],
+      "start_seconds": 1173,
+      "end_seconds": 1205,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sam Presti says he has not considered any roster moves following the recent injuries to Jalen Williams and Cason Wallace, noting his focus is entirely on supporting the current group.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Russell Westbrook"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Sam Presti addresses a question regarding a potential roster move involving Russell Westbrook.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "dOoEc_scEP8",
+  "url": "https://www.youtube.com/watch?v=dOoEc_scEP8",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-26T22:34:43Z",
+  "duration_seconds": 1926,
+  "processed_at": "2026-10-26T23:52:24Z",
+  "run_id": "2026-10-26T2351Z-20utc",
+  "is_one_off": false
+}

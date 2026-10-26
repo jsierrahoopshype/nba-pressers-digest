@@ -1,0 +1,285 @@
+{
+  "video_title": "Coach Charles Lee Pregame Media Availability | 10/26/26",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:13",
+      "summary_phrase": "Charles Lee on Ryan Colkbrener's development and defensive impact",
+      "names_mentioned": [
+        "Ryan Colkbrener"
+      ],
+      "excerpt": "he earned the guys' trust around the basket with how great his hands were as well",
+      "quote": "It is funny, especially at the beginning of his rookie season last year, he showed glimpses of what he is doing now. There were some moments to start the season last year, he was one of the best bigs at protecting the rim. He had one of the best field goal percentages because everything was a dunk. I think that he earned the guys' trust around the basket with how great his hands were as well. Then he got himself back together towards the end of the season, and I think right now we are just seeing a little bit more sustained effort, sustained physicality from him. He has found his comfort level, he has found what works best for him and his routines and his process to properly mentally and physically prepare him for the games.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says Ryan Colkbrener is showing more sustained effort and physicality this season after finding his comfort level and routine",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Kalkbrenner"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Charles Lee discusses the development and defensive impact of Ryan Kalkbrenner during his rookie season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "01:22",
+      "summary_phrase": "Update on injured Hornets players' rehabilitation progress",
+      "names_mentioned": [
+        "Kon",
+        "Kobe",
+        "Grant Williams"
+      ],
+      "excerpt": "all three of those guys that you just mentioned have had positive steps in their rehab process",
+      "quote": "No timeline as far as I know right now. All three of those guys that you just mentioned have had positive steps in their rehab process. Some are further along than others, but I hope during this road trip or after the road trip we get a little bit more information, but all three are making positive steps in all their rehab plans.",
+      "text_blocks": [],
+      "start_seconds": 82,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "No specific timeline yet for the injured Hornets players but Charles Lee says all three are making positive steps in their rehab process",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Charles Lee provides an update on the rehabilitation progress of three injured Hornets players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "02:05",
+      "summary_phrase": "Mentorship and lack of cliques within the Hornets roster",
+      "names_mentioned": [
+        "Christian",
+        "Naz",
+        "Dennis",
+        "Kon"
+      ],
+      "excerpt": "there's no real cliques so it's like everyone tries to take these young guys under their wings",
+      "quote": "I have seen the relationships continue to develop, the mentorship. The cool thing about our group, I will say, is that there is no real cliques so it is like everyone tries to take these young guys under their wings. I think about a guy like Christian, I have noticed Naz talking to him in the huddles, I have noticed Dennis trying to talk to him in the huddles, I have seen Kon talk to him. I think that they all just want to elevate each other, that they are all just trying to share some knowledge with the young fellows.",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee praises the Hornets locker room culture noting there are no real cliques and veterans are actively mentoring the young players",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian",
+          "Naz",
+          "Dennis",
+          "Kon"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Charles Lee describes the mentorship dynamics and lack of cliques within the Hornets roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "03:35",
+      "summary_phrase": "Coaching Christian and managing early career mistakes",
+      "names_mentioned": [
+        "Christian"
+      ],
+      "excerpt": "mistakes are going to happen, we can coach those mistakes in the timeout",
+      "quote": "Christian has been thrown into the deep end to begin the season due to the depleted backcourt. Mistakes are going to happen, we can coach those mistakes in the timeout, we can coach those mistakes at halftime, we can coach him the next day. I want him to set a standard for himself for how competitive he is and just really coming in and being a dog. He is a smart player, he is a very skilled player offensively. We have seen throughout training camp and practices and games how disruptive he can be defensively and like keep it simple. Do those things, do them at a high competitive level, and all the other stuff is going to come for him because he is so smart, he works so hard.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Charles Lee on Christian being thrown into the deep end early this season: I want him to set a standard for himself and just really come in and be a dog",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Charles Lee discusses managing the early career mistakes of Christian while he plays increased minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "04:24",
+      "summary_phrase": "Hornets' need for free-throw line discipline against Washington",
+      "names_mentioned": [],
+      "excerpt": "the free throw line, I think that this team, they have great personnel that's able to be crafty",
+      "quote": "The free throw line. I think that this team, they have great personnel that is able to be crafty. Young being one of those guys, Davis being one of those guys. They have been around, they understand how to put you in compromising situations and so you have got to have great discipline and understand that they are going to get a couple calls that you might disagree with, but you only have so much energy during a game. I hope that we do not waste it on things like that. I hope we really just lock in and focus on the competitive spirit and each other during the game.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 306,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee emphasizes the need for defensive discipline against Washington to avoid wasting energy on officiating frustrations",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Young",
+          "Davis"
+        ],
+        "teams": [
+          "CHA",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Coach Charles Lee discusses the need for defensive discipline against Washington players who draw fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Charles Lee",
+      "timestamp": "05:18",
+      "summary_phrase": "Team-oriented approach to the Alex Sarr and Moussa Diabate matchup",
+      "names_mentioned": [
+        "Alex Sarr",
+        "Moussa Diabate"
+      ],
+      "excerpt": "both players are really going to rely on the team around them",
+      "quote": "I think that both players are really going to rely on the team around them. Obviously, they might draw the individual matchup, but it is a team game ultimately out there and so I think that they are familiar with each other's games. Moussa brings obviously great energy offensively and versatility defensively, so just mixing up our coverages on a guy like Sarr is going to be important, which will also then dictate a little bit of how their offense is able to run with him as a screener or him as a spacer.",
+      "text_blocks": [],
+      "start_seconds": 318,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says the Hornets will rely on team defense and mixing up coverages to handle Alex Sarr and Moussa Diabate",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alex Sarr",
+          "Moussa Diabate"
+        ],
+        "teams": [
+          "CHA",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Coach Charles Lee explains the team-oriented defensive approach for the matchup against Alex Sarr and Moussa Diabate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Charles Lee",
+      "timestamp": "05:58",
+      "summary_phrase": "Benefits of rotating younger players due to veteran injuries",
+      "names_mentioned": [
+        "Kon",
+        "Kobe",
+        "Grant Williams"
+      ],
+      "excerpt": "it helps me for sure get to learn them a little bit more",
+      "quote": "It helps me for sure get to learn them a little bit more, put them in some positions like you said that they may not have been in or they were going to be in, they are just not doing it for larger stints of the game. And so I think it has been great. The other cool part about it too is their teammates get to see how good they are now that they are new players on our team. There is a trust level that is gained and earned, and then their interactions now the new guys they get to learn and now they get to come to the huddle and ask a question.",
+      "text_blocks": [],
+      "start_seconds": 358,
+      "end_seconds": 403,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee says the current injury situation has been beneficial for building trust and allowing younger players to earn more minutes",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Charles Lee discusses the benefits of rotating younger players into larger roles due to veteran injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Charles Lee",
+      "timestamp": "07:00",
+      "summary_phrase": "Focus on finding the best shot over three-point volume",
+      "names_mentioned": [
+        "Grayson",
+        "Naz"
+      ],
+      "excerpt": "our goal is to find the best uncontested shot we can",
+      "quote": "Good for those guys, I know they work really hard. That is not our focal point is to be the leaders in three-point attempts. Our goal is to find the best uncontested shot we can and those guys are really good shooters and they are going to continue taking the right ones.",
+      "text_blocks": [],
+      "start_seconds": 420,
+      "end_seconds": 440,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Charles Lee clarifies that the Hornets are focused on finding the best uncontested shot rather than prioritizing high three point volume",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Coach Charles Lee clarifies that the team's offensive goal is finding the best shot rather than prioritizing three-point volume.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "hfBbISBZpQA",
+  "url": "https://www.youtube.com/watch?v=hfBbISBZpQA",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-26T22:28:55Z",
+  "duration_seconds": 459,
+  "processed_at": "2026-10-26T23:52:24Z",
+  "run_id": "2026-10-26T2351Z-20utc",
+  "is_one_off": false
+}
