@@ -1,0 +1,289 @@
+{
+  "video_title": "“This Team Does A Good Job Of Feeding Off Each Other.” | LaMelo Ball Postgame Sound | 10.25.26",
+  "speakers_seen": [
+    "LaMelo Ball",
+    "Unidentified reporter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:06",
+      "summary_phrase": "LaMelo Ball on the high energy at Target Center",
+      "names_mentioned": [],
+      "excerpt": "It felt great, energy was high, vibes were high, we got the fans, so most importantly.",
+      "quote": "It felt great, energy was high, vibes were high, we got the fans, so most importantly.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 12,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "LaMelo Ball on the atmosphere at Target Center: It felt great, energy was high, vibes were high, we got the fans, so most importantly.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the atmosphere at Target Center following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:20",
+      "summary_phrase": "LaMelo Ball on his confidence and team success",
+      "names_mentioned": [],
+      "excerpt": "I feel like I'm always feeling myself, but as long as we winning, I'm feeling myself more.",
+      "quote": "I feel like I'm always feeling myself, but as long as we winning, I'm feeling myself more.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on his confidence: I feel like I am always feeling myself, but as long as we winning, I am feeling myself more.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball reflects on his personal confidence and the team's winning performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:30",
+      "summary_phrase": "LaMelo Ball on maintaining rhythm despite early foul trouble",
+      "names_mentioned": [],
+      "excerpt": "Always just keep a rhythm. I know the game, it's a long game, you know how it goes.",
+      "quote": "Always just keep a rhythm. I know the game, it's a long game, you know how it goes. Two fouls, obviously going to be out, but it's always two halves every basketball game, so throw away the first half, second half, make an impact.",
+      "verbatim_original_language": "",
+      "start_seconds": 30,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on managing foul trouble: Always just keep a rhythm. I know the game, it is a long game. Throw away the first half, second half, make an impact.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains his mindset for maintaining rhythm after dealing with early foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:54",
+      "summary_phrase": "LaMelo Ball on the team's collective defensive effort",
+      "names_mentioned": [],
+      "excerpt": "Just feeding off of one another. We all moving around out there, everybody playing for one another.",
+      "quote": "Just feeding off of one another. We all moving around out there, everybody playing for one another, so that's how you do it.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball on the team defensive philosophy: Just feeding off of one another. We all moving around out there, everybody playing for one another, so that is how you do it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball describes the team's collective defensive effort and chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:05",
+      "summary_phrase": "LaMelo Ball on the talent and versatility of TJ",
+      "names_mentioned": [
+        "TJ"
+      ],
+      "excerpt": "TJ got a whole lot of talent. He's amazing. He can drive like no other.",
+      "quote": "TJ got a whole lot of talent. He's amazing. He can drive like no other. His left is super strong, get to the rack, shoot the three. I love how TJ plays. He can get to it too, so yeah, he's a very good player.",
+      "verbatim_original_language": "",
+      "start_seconds": 65,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "LaMelo Ball on teammate TJ: TJ got a whole lot of talent. He is amazing. He can drive like no other. His left is super strong, get to the rack, shoot the three. I love how TJ plays.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "TJ"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball praises the versatility and offensive skills of his teammate TJ.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:42",
+      "summary_phrase": "LaMelo Ball on teaching teammates to keep their heads up",
+      "names_mentioned": [],
+      "excerpt": "I actually try to hit them in the head a couple times in the first day.",
+      "quote": "I actually try to hit them in the head a couple times in the first day. You know, you get hit in the head one time, you always know how your head up. That's how I was as a kid, you don't want to get hit in the head.",
+      "verbatim_original_language": "",
+      "start_seconds": 102,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "LaMelo Ball on his unique way of teaching teammates to keep their heads up: I actually try to hit them in the head a couple times in the first day. You know, you get hit in the head one time, you always know how your head up.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball jokes about his method for teaching teammates to stay alert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:52",
+      "summary_phrase": "LaMelo Ball on Scotty Barnes' shooting performance",
+      "names_mentioned": [
+        "Scotty Barnes",
+        "Jaden"
+      ],
+      "excerpt": "It's a lot of defenders on this team that can switch, so yeah.",
+      "quote": "I mean, who was on him? We got Jaden and his, yeah, that's what I'm saying. It's a lot of defenders on this team that can switch, so yeah.",
+      "verbatim_original_language": "",
+      "start_seconds": 112,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball on the team defensive versatility: It is a lot of defenders on this team that can switch.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN",
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball comments on the team's defensive ability to switch while discussing Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "LaMelo Ball",
+      "timestamp": "02:26",
+      "summary_phrase": "LaMelo Ball on his relationship with Coach Finch",
+      "names_mentioned": [
+        "Coach Finch",
+        "Zel"
+      ],
+      "excerpt": "It has been great. I love Finch, man. He's a great dude.",
+      "quote": "It has been great. I love Finch, man. He's a great dude. He used to coach my brothers, so me and Zel be talking about him a little, but he's a great dude, love him.",
+      "verbatim_original_language": "",
+      "start_seconds": 146,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on his relationship with Coach Finch: It has been great. I love Finch, man. He is a great dude. He used to coach my brothers, so me and Zel be talking about him a little.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Finch"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "LaMelo Ball discusses his positive relationship with head coach Chris Finch.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "LaMelo Ball",
+      "timestamp": "02:47",
+      "summary_phrase": "LaMelo Ball on the benefits of the team's defensive system",
+      "names_mentioned": [],
+      "excerpt": "They give great hints and just tell you what to do before the game.",
+      "quote": "They give great hints and just tell you what to do before the game, so kind of make it easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on the coaching staff: They give great hints and just tell you what to do before the game, so kind of make it easier.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "LaMelo Ball explains how the coaching staff makes defensive execution easier for the players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "jSsUm6OtBiw",
+  "url": "https://www.youtube.com/watch?v=jSsUm6OtBiw",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-26T03:27:07Z",
+  "duration_seconds": 205,
+  "processed_at": "2026-10-26T13:04:17Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

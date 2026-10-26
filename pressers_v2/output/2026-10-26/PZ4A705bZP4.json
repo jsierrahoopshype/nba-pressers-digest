@@ -1,0 +1,137 @@
+{
+  "video_title": "Immanuel Quickley | Post Game at Timberwolves | October 25, 2026",
+  "speakers_seen": [
+    "Immanuel Quickley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:03",
+      "summary_phrase": "Immanuel Quickley on defensive struggles against the Timberwolves",
+      "names_mentioned": [],
+      "excerpt": "our defense was the main thing. I got to be better on the ball.",
+      "quote": "Our defense was the main thing. I got to be better on the ball. Rotations were flying around, but our defense was the main thing, especially on the road against a good team. Your defense got to travel with you, regardless of how your offense is going.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Immanuel Quickley says the Raptors defensive effort was the main issue against Minnesota. He noted that your defense has to travel with you regardless of how the offense is performing.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the team's defensive performance following a game against the Minnesota Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:21",
+      "summary_phrase": "Quickley on the turning point in the second quarter",
+      "names_mentioned": [],
+      "excerpt": "you got to make it into a defensive game when you playing them.",
+      "quote": "The defense. This is a really good offensive team and you got to make it into a defensive game when you playing them. So, the defense really picked up for us.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Immanuel Quickley credits the Raptors second quarter turnaround to a shift in defensive intensity. He emphasized that against a high powered offensive team like the Timberwolves you have to make it a defensive game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley explains the importance of defensive intensity when playing against a high-scoring team like the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:37",
+      "summary_phrase": "Quickley praises the development of Jakob Poeltl and Ochai Agbaji",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Ochai Agbaji"
+      ],
+      "excerpt": "just the way he's willing to do all the little stuff. Same with Jakob.",
+      "quote": "Ochai Agbaji, just the way he's willing to do all the little stuff. Same with Jakob Poeltl. Just willing to do all the little stuff to help our team win. Obviously it's early right now, but just good habits. That stuff builds through a season, it builds through a career, so really proud of those guys.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Immanuel Quickley is impressed with the early season habits of Ochai Agbaji and Jakob Poeltl. He says he is proud of the way both players are willing to do the little things to help the team win.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ochai Agbaji",
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley praises teammates Ochai Agbaji and Jakob Poeltl for their effort and willingness to do the little things to help the team win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "01:06",
+      "summary_phrase": "Quickley on maintaining team balance throughout the season",
+      "names_mentioned": [],
+      "excerpt": "you got to find a way to be kind of even-keel throughout the season.",
+      "quote": "It's easy to be up when you winning, easy to be down when you losing, but you got to kind of find a way to be kind of even-keel throughout the season. You got to find a way to learn from the wins just like you learn from the losses, and kind of never get too high, never too low.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Immanuel Quickley on the importance of maintaining an even keel throughout the long NBA season. He says the team must learn from wins just as they do from losses and never get too high or too low.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley reflects on the importance of maintaining a consistent mindset throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "PZ4A705bZP4",
+  "url": "https://www.youtube.com/watch?v=PZ4A705bZP4",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-26T02:54:31Z",
+  "duration_seconds": 113,
+  "processed_at": "2026-10-26T13:04:34Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

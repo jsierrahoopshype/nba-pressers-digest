@@ -1,0 +1,315 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. NEW YORK KNICKS | COACH SWEENEY, ANTHONY BLACK & FRANZ WAGNER",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Anthony Black",
+    "Franz Wagner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:00",
+      "summary_phrase": "Coach Sweeney on the team's toughness and resilience",
+      "names_mentioned": [],
+      "excerpt": "I thought the toughness and the resolve was great.",
+      "quote": "I thought the toughness and the resolve was great. We didn't start the game very well shooting it, but we stuck with it and over the course of the 48 minutes, I thought we did a great job with continuing to play the right way, being aggressive with balance. Throughout, I thought we saw a lot of competitiveness, we saw a lot of toughness, and we stayed together throughout.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney praised the Magic for their resilience after a slow start against the Knicks, noting that the team stayed together and maintained their toughness throughout the 48 minutes.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's overall performance and resilience during their game against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:33",
+      "summary_phrase": "Coach Sweeney on Anthony Black's aggressive play in the fourth quarter",
+      "names_mentioned": [
+        "Anthony Black"
+      ],
+      "excerpt": "I thought he did a great job of really attacking and then making good decisions.",
+      "quote": "I thought his aggressiveness was great. I thought he did a great job of really attacking and then making good decisions. Early, it felt like he was trying to probe and find avenues to attack in the second half really, but in the fourth quarter, he saw the space, took the space, and then made the right play.",
+      "verbatim_original_language": "",
+      "start_seconds": 33,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney liked Anthony Black's aggressiveness in the fourth quarter, saying he saw the space, took the space, and made the right plays to help close out the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Black"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney evaluates Anthony Black's aggressive play and decision-making in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:02",
+      "summary_phrase": "Coach Sweeney on Anthony Black's impact and return to the lineup",
+      "names_mentioned": [
+        "Anthony Black"
+      ],
+      "excerpt": "I thought Anthony definitely brought a spark.",
+      "quote": "I thought Anthony definitely brought a spark. It was good to see him out there, the guys are all excited that he was back. I thought the way he played on both ends was aggressive on offense, made the right play, and then defensively really tried to attack the play, use his instincts, and trust his teaching, and did a great job.",
+      "verbatim_original_language": "",
+      "start_seconds": 62,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney says Anthony Black brought a much needed spark to the lineup, impacting the game on both ends of the floor with his defensive instincts and offensive aggression.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Black"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney comments on the impact of Anthony Black returning to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Anthony Black",
+      "timestamp": "02:17",
+      "summary_phrase": "Anthony Black on the team's comeback after an early deficit",
+      "names_mentioned": [],
+      "excerpt": "We kept our poise, kept playing, turned our physicality up, our defense, and we were able to make runs.",
+      "quote": "I would say just the fact that we went down early, I think it was 12-0, and we kept our poise, kept playing, turned our physicality up, our defense, and we were able to make runs, slowly catch up, and then in the second half take the lead and hold on to it to the end of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 137,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Black credits the Magic's poise for their comeback win, noting that after falling behind 12-0 early, the team turned up their physicality and defense to take control.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black describes how the team maintained their composure after falling behind early in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Anthony Black",
+      "timestamp": "03:08",
+      "summary_phrase": "Anthony Black on the significance of the team's first win",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "He deserves to have that moment, get his first win at MSG against the defending champs.",
+      "quote": "It means a lot to us. He supported a lot into us since he showed up, as individuals and as a team, and he deserves to have that moment, get his first win at MSG against the defending champs and we celebrated it and we are trying to get back to work now.",
+      "verbatim_original_language": "",
+      "start_seconds": 188,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anthony Black says getting the first win of the season against the defending champs at MSG means a lot to the team and was a special moment for the coaching staff.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Anthony Black discusses the significance of securing the team's first win of the season against the defending champions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Anthony Black",
+      "timestamp": "03:32",
+      "summary_phrase": "Anthony Black on the team's message to him during the game",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "Stay with it, stay aggressive, keep trusting yourself and make the right plays.",
+      "quote": "A good job of sticking with it. You could say the game wasn't really going his way for a majority of it, but on the bench our talk to him was stay with it, stay aggressive, keep trusting yourself and make the right plays because we believe in you and we are going to need you if we are going to win the game. He turned it up in the fourth quarter, got to the rim, got to the free throw line and yeah, he just played really well, 13 rebounds, 23 points and yeah, he just impacted the game on both ends. Did a really good job guarding Jalen Brunson too when he was. So, great player, will us the victory down the stretch for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 212,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Black highlights the team's trust in their teammates, noting that even when shots were not falling, the message was to stay aggressive and keep trusting the process.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "ORL",
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Black reflects on the team's support during a difficult game and praises a teammate's performance while defending Jalen Brunson.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Franz Wagner",
+      "timestamp": "04:14",
+      "summary_phrase": "Franz Wagner on the team's performance in the closing stretches",
+      "names_mentioned": [],
+      "excerpt": "I thought we played the stretches really well together.",
+      "quote": "I thought we played the stretches really well together, kept getting into the paint and making good passes. Obviously, we shot it pretty well from three tonight, but I thought we created good looks, especially in stretches of the game. Not all parts of the game, but I'm sure we'll watch it tomorrow.",
+      "verbatim_original_language": "",
+      "start_seconds": 254,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Franz Wagner says the Magic played well in stretches against New York, emphasizing the importance of getting into the paint and creating good looks for one another.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner shares his thoughts on the team's offensive execution and ball movement in the closing stretches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Franz Wagner",
+      "timestamp": "04:41",
+      "summary_phrase": "Franz Wagner on his own aggressiveness and team ball movement",
+      "names_mentioned": [],
+      "excerpt": "I was pretty aggressive, I was just making bad reads out there first three quarters.",
+      "quote": "I was pretty aggressive, I was just making bad reads out there first three quarters. Obviously, they, a lot of their defense is making sure we don't get into the paint, and I think I was making it a little too easy on them to do that. I thought my teammates though in that in those stretches, I thought they did a way better job of moving the ball and getting good looks for the team and I think the game is also, there's a rhythm to it, so once you get into a rhythm a little bit, some of those stuff seemed a little easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 281,
+      "end_seconds": 322,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Franz Wagner admits he made some bad reads early against the Knicks defense, but credited his teammates for moving the ball well and finding a rhythm as the game progressed.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Franz Wagner reflects on his own performance and the role his teammates played in improving ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Franz Wagner",
+      "timestamp": "05:26",
+      "summary_phrase": "Franz Wagner on the importance of the team's first win",
+      "names_mentioned": [],
+      "excerpt": "We had a tough, tough start to the season, obviously a lot of new things for our team.",
+      "quote": "It's big time for us. We had a tough, tough start to the season, obviously a lot of new things for our team and obviously they're defending champions, so I'm sure they looked at the at this game the same way we did of really needing a win, so feels good to get our first one of the season.",
+      "verbatim_original_language": "",
+      "start_seconds": 326,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Franz Wagner calls the win over the defending champions big time for the Magic, noting that it feels good to finally get the first victory of the season after a tough start.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Franz Wagner explains why the team's first win of the season against the defending champions is particularly meaningful.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Franz Wagner",
+      "timestamp": "06:43",
+      "summary_phrase": "Franz Wagner on the impact of a teammate's return",
+      "names_mentioned": [],
+      "excerpt": "He was amazing. Obviously shooting, shooting it really well today, that's not easy to come in.",
+      "quote": "He was amazing. Obviously shooting, shooting it really well today, that's not easy to come in, plus 21 in 26 minutes, that's pretty elite. I think he was one of those one of those guys in those stretches where I wasn't playing well, I thought early in the first three quarters I thought he was really aggressive making making good plays for himself and others and just playing good basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 403,
+      "end_seconds": 430,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Franz Wagner called Anthony Black's return to the lineup elite, noting that his ability to be aggressive and make plays for himself and others was key to the win.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Franz Wagner praises the performance of a teammate who recently returned to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "VGWhMFsQl2I",
+  "url": "https://www.youtube.com/watch?v=VGWhMFsQl2I",
+  "channel_team": "Orlando Magic",
+  "published": "2026-10-26T03:16:47Z",
+  "duration_seconds": 439,
+  "processed_at": "2026-10-26T13:04:26Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

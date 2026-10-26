@@ -1,0 +1,352 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 10.25.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:06",
+      "summary_phrase": "Nick Nurse on poor rebounding and offensive execution against the opponent",
+      "names_mentioned": [],
+      "excerpt": "the rebounding was a huge factor. I think we just didn't execute offensively very well",
+      "quote": "I think obviously that never helps, but I think the rebounding was a huge factor. I think we just didn't execute offensively very well for good stretches of the game. We had a really slow start, that could probably pin it on that. I thought we fought really hard from there, once we started getting into the game, but it just wasn't very pretty on three-point shooting, free-throw shooting, and offensive execution.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse says the Sixers rebounding was a huge factor in their loss and admitted the team did not execute offensively for good stretches of the game",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's poor rebounding and offensive execution following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:53",
+      "summary_phrase": "Nick Nurse on Tyrese Maxey's shot selection and traffic issues",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "when it comes to him, I think there's some more vault up and shoot threes",
+      "quote": "I got to look at it a little bit. I think that when it comes to him, I think there's some more vault up and shoot threes. He obviously had a lot of traffic in there tonight, and I think he got to some good spots down there and just didn't get them in. He had a number of close-up finishes that normally would go.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on Tyrese Maxey after a tough shooting night: He got to some good spots and just did not get them in",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse evaluates Tyrese Maxey's shot selection and performance in traffic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:25",
+      "summary_phrase": "Nick Nurse praises Mo Bamba's impact and performance",
+      "names_mentioned": [
+        "Mo Bamba"
+      ],
+      "excerpt": "I'm really happy with him. That's the first game he's impacted",
+      "quote": "I'm really happy with him. I was really happy with the way he played. That's the first game he's impacted, and I'm really happy with the way he played.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse was happy with Mo Bamba's performance tonight noting that it was the first game he really impacted",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mo Bamba"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nick Nurse praises Mo Bamba for his impact during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:55",
+      "summary_phrase": "Nick Nurse on the need for team-wide rebounding effort",
+      "names_mentioned": [],
+      "excerpt": "we've got to do it by committee. I mean, I think if you're missing some of your size",
+      "quote": "We've got to do it by committee. I think if you're missing some of your size and all that, obviously it becomes a problem and all five guys got to get to rebound. I look at the numbers there and the defensive rebounding from just across the board, no matter position, just aren't good enough. So it's like everybody's got to chip in with a few more.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse says the Sixers rebounding must be a committee effort: The defensive rebounding across the board just is not good enough",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse emphasizes the need for a collective team effort on defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:35",
+      "summary_phrase": "Nick Nurse on offensive flow and spacing issues",
+      "names_mentioned": [],
+      "excerpt": "I didn't think we got into a very good flow offensively. We were felt like we were disorganized",
+      "quote": "I didn't think we got into a very good flow offensively. I didn't think we even up the floor. We felt like we were disorganized a little bit and a lot of guys moving position, a couple guys coming back, and it felt that way and we just weren't able to get much flow in the offense.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse felt the Sixers offense was disorganized and lacked flow tonight due to guys moving positions and players returning to the lineup",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse explains the team's lack of offensive flow and spacing issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Nurse",
+      "timestamp": "03:17",
+      "summary_phrase": "Nick Nurse on the team's defensive struggles early in the season",
+      "names_mentioned": [],
+      "excerpt": "it's normal that defense starts out ahead in early in the season",
+      "quote": "It's normal that defense starts out ahead in early in the season. We just got to get a little bit better feel for each other out there. I just didn't think we were nearly as our execution as far as getting to the right spots, doing things with pace, making correct reads. Tonight was difficult.",
+      "text_blocks": [],
+      "start_seconds": 197,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on early season defensive struggles: We just have to get a better feel for each other out there",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse comments on the team's defensive struggles early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:18",
+      "summary_phrase": "Nick Nurse on offensive execution and passing",
+      "names_mentioned": [],
+      "excerpt": "I thought we had some advanced passes, I thought we had some pocket passes",
+      "quote": "I thought we had some advanced passes, I thought we had some pocket passes that would have made the offense more fluid, and for whatever reason we just didn't quite make them tonight. But I wouldn't say for the most part the intent of making the right play and passing ahead and throwing to the next action has been excellent.",
+      "text_blocks": [],
+      "start_seconds": 258,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse says the intent to make the right pass has been excellent even if the execution was lacking tonight",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses missed opportunities in offensive execution and passing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:59",
+      "summary_phrase": "Nick Nurse on the challenge of rotating players in the frontcourt",
+      "names_mentioned": [
+        "Jabari",
+        "Dean",
+        "LeBron",
+        "Bamba"
+      ],
+      "excerpt": "it's been a little bit of a concern that we've had to bring a bunch of different people",
+      "quote": "It's been a little bit of a concern that we've had to bring a bunch of different people in. It hasn't really solidified. One night or last night it was Jabari playing some five, Dean's been there, LeBron's been there, Bamba's been there. It's a work in progress a little bit. I hope it settles down a little, but we need to make sure we are able to do other things.",
+      "text_blocks": [],
+      "start_seconds": 299,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nick Nurse admits the frontcourt rotation is a work in progress: It has been a concern that we have had to bring a bunch of different people in",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jabari Smith Jr.",
+          "Dean Wade",
+          "LeBron James",
+          "Mo Bamba"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse addresses the challenge of rotating different players at the center position.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Nick Nurse",
+      "timestamp": "06:40",
+      "summary_phrase": "Nick Nurse on LeBron James playing center and team spacing",
+      "names_mentioned": [
+        "LeBron"
+      ],
+      "excerpt": "we were asking for a lot more cutting. He's an unbelievable passer and I thought we stood",
+      "quote": "I can recall some timeouts where we'd hit him out there on the perimeter and we were asking for a lot more cutting. He's an unbelievable passer and I thought we stood and watched him a little bit and they just kind of shrunk their defense and shrunk the paint on us and we need multiple cutters, at least two when he's got the ball.",
+      "text_blocks": [],
+      "start_seconds": 400,
+      "end_seconds": 425,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse on LeBron James at center: We stood and watched him a little bit and we need multiple cutters when he has the ball",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the need for better off-ball movement when LeBron James is playing center.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Nick Nurse",
+      "timestamp": "07:25",
+      "summary_phrase": "Nick Nurse on the positive contributions of LeBron James",
+      "names_mentioned": [
+        "LeBron"
+      ],
+      "excerpt": "he's scrapping and he's battling. I think he did an excellent job in his stretches",
+      "quote": "He's scrapping and he's battling. I think he did an excellent job in his stretches of kind of making sure we were pretty good organized on offense. He's probably going to get some kick-out shots and he was able to stick one of them which was a pretty big basket.",
+      "text_blocks": [],
+      "start_seconds": 445,
+      "end_seconds": 464,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse praises LeBron James for his effort and organization on offense tonight",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nick Nurse highlights the positive contributions of LeBron James during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Nick Nurse",
+      "timestamp": "07:54",
+      "summary_phrase": "Nick Nurse on Simmons' lack of training camp time",
+      "names_mentioned": [
+        "Simmons"
+      ],
+      "excerpt": "he didn't get any training camp time at all. Played a really great game there",
+      "quote": "He didn't get any training camp time at all. Played a really great game there and it's hard to not play in training camp and in any preseason games and then you get into the incredibly intense part of it. It takes a toll, but I really like him. I think he's going to be an explosive scorer for us and we'll get there with him for sure.",
+      "text_blocks": [],
+      "start_seconds": 474,
+      "end_seconds": 500,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nick Nurse on Simmons missing training camp: It takes a toll but I really like him and I think he is going to be an explosive scorer for us",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ben Simmons"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the physical toll on Ben Simmons due to missing training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "n2EKSW2OZmI",
+  "url": "https://www.youtube.com/watch?v=n2EKSW2OZmI",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-26T04:13:37Z",
+  "duration_seconds": 519,
+  "processed_at": "2026-10-26T13:04:00Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

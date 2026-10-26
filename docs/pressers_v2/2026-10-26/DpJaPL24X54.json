@@ -1,0 +1,182 @@
+{
+  "video_title": "I just committed fully. I think it was the ABA jerseys.\" 😂 Tyrese Haliburton in Postgame Interview",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Tyrese Haliburton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyrese Haliburton",
+      "speakers": [
+        "Unidentified speaker",
+        "Tyrese Haliburton"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Tyrese Haliburton on Indiana Pacers' performance and areas for improvement",
+      "names_mentioned": [],
+      "excerpt": "I think the story of our year so far has been turnovers and keeping teams off the free throw line.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "I enjoyed your press conference on Friday. You said it's not all sunshine and fairy tales and rainbows. How did you think this team responded to that disappointment from Friday here tonight?"
+        },
+        {
+          "speaker": "Tyrese Haliburton",
+          "text": "I thought the first half was a little rough for us. I think the story of our year so far has been turnovers and keeping teams off the free throw line. We weren't able to do that in the first half, I think that's why it was so close. We finished the first half better and the second half was really good. I thought of taking care of the ball, getting stops, finishing with a rebound, being able to run. You can see what our offense can do, but we have to stay at it for four quarters. There's lots to improve on, I think we're getting better."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton says the Pacers need to focus on turnovers and defensive rebounding to be consistent, noting that while the offense is potent, they have to stay at it for four quarters.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton discusses the team's performance and areas for improvement following a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyrese Haliburton",
+      "speakers": [
+        "Unidentified speaker",
+        "Tyrese Haliburton"
+      ],
+      "timestamp": "00:38",
+      "summary_phrase": "Tyrese Haliburton explains his mindset during his highlight dunk",
+      "names_mentioned": [],
+      "excerpt": "Sometimes you have to just commit to the bit. I didn't know I was going to do it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Sometimes you just need one play and it feels like you just take off. Was it the dunk where you passed to yourself? What were you thinking in that moment?"
+        },
+        {
+          "speaker": "Tyrese Haliburton",
+          "text": "Sometimes you have to just commit to the bit. I didn't know I was going to do it, but then I was like I should do it. It's like I got to decide if I'm going to do it or not. You can't think about it because otherwise you'll mess it up. I just committed fully. I think it was the ABA jerseys. I feel like Dr. J or something. Let's not stop, y'all. Don't take me to Dr. J."
+        }
+      ],
+      "start_seconds": 38,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyrese Haliburton on his highlight dunk: You cannot think about it or you will mess it up. I just committed fully.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton describes his mindset during a highlight dunk play in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyrese Haliburton",
+      "speakers": [
+        "Unidentified speaker",
+        "Tyrese Haliburton"
+      ],
+      "timestamp": "01:10",
+      "summary_phrase": "Tyrese Haliburton on his chemistry with Pascal Siakam",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "Obviously such an elite running mate for me and a guy who has really helped me throughout my career.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Your tenth assist was to Pascal Siakam. He's done such a great job, but how nice is it as you come back to have him right alongside you?"
+        },
+        {
+          "speaker": "Tyrese Haliburton",
+          "text": "Obviously such an elite running mate for me and a guy who has really helped me throughout my career. I feel like we're just getting in rhythm right now. He's continuing to do what he does. He's one of the most consistent guys in the NBA and I think he's held in high regard for a reason. He's going to continue to do what he does, I just got to join alongside him and we can get back to doing what we do."
+        }
+      ],
+      "start_seconds": 70,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton calls Pascal Siakam an elite running mate and one of the most consistent players in the NBA as the two continue to build their rhythm together.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Haliburton reflects on his chemistry and playing alongside teammate Pascal Siakam.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyrese Haliburton",
+      "speakers": [
+        "Unidentified speaker",
+        "Tyrese Haliburton"
+      ],
+      "timestamp": "01:37",
+      "summary_phrase": "Tyrese Haliburton confirms he will play in back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "I'm going to play. Of course I'm going to play. There's been no conversation about it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Rick said before the game there's no hard minutes limit. Didn't know for sure about the second half of the back-to-back. Do you have any idea about tomorrow?"
+        },
+        {
+          "speaker": "Tyrese Haliburton",
+          "text": "I'm going to play. Of course I'm going to play. There's been no conversation about it. But I need to play through being tired right now. It's going to help me as the season goes on. We're in Wisconsin, man. You know I ain't going to miss playing in Wisconsin."
+        }
+      ],
+      "start_seconds": 97,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Tyrese Haliburton confirms he will play in tomorrow's back to back game. He says he needs to play through being tired to help him as the season goes on.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton confirms his intention to play in the upcoming back-to-back game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "DpJaPL24X54",
+  "url": "https://www.youtube.com/watch?v=DpJaPL24X54",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-26T00:47:44Z",
+  "duration_seconds": 120,
+  "processed_at": "2026-10-26T13:04:49Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

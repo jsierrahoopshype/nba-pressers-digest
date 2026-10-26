@@ -1,0 +1,203 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game at Timberwolves | October 25, 2026",
+  "speakers_seen": [
+    "Immanuel Quickley",
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:03",
+      "summary_phrase": "Immanuel Quickley on defensive struggles against the Timberwolves",
+      "names_mentioned": [],
+      "excerpt": "Our defense was the main thing. I got to be better on the ball.",
+      "quote": "Our defense was the main thing. I got to be better on the ball. Rotations were flying around, but our defense was the main thing, especially on the road against a good team. Your defense has to travel with you regardless of how your offense is going.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Immanuel Quickley says the Raptors defensive effort needs to improve on the road after the loss to Minnesota. Quickley noted that defense has to travel with you regardless of how the offense is going.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the team defensive performance following a road loss to the Minnesota Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:47",
+      "summary_phrase": "Immanuel Quickley praises the growth of Agbaji and Walter",
+      "names_mentioned": [
+        "Ochai Agbaji",
+        "Jacobe Walter"
+      ],
+      "excerpt": "Just the way he's willing to do all the little stuff. Same with Jacobe.",
+      "quote": "Ochai Agbaji, just the way he's willing to do all the little stuff. Same with Jacobe Walter. Just willing to do all the little stuff to help our team win. Obviously it's early right now, but just good habits. That stuff builds through a season and it builds through a career, so really proud of those guys.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Immanuel Quickley is impressed with the early habits of Ochai Agbaji and Jacobe Walter. Quickley says he is proud of the way both players are willing to do the little stuff to help the team win.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ochai Agbaji",
+          "Jacobe Walter"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley praises teammates Ochai Agbaji and Jacobe Walter for their work ethic and habits early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:48",
+      "summary_phrase": "Darko Rajakovic on the challenge of playing without Kawhi Leonard",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "It's a great opportunity for everybody else to step up.",
+      "quote": "It's part of the game. It's not the first time that happened in my career, and definitely it's not the last one. You got to be ready for those situations and adjust and try to maximize the opportunity for the other guys in that situation. Obviously, he's a big part of what we do over here and missing him was big on us, but it's a great opportunity for everybody else to step up.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on playing without Kawhi Leonard. The Raptors coach says it is a great opportunity for other players to step up when a key piece is missing from the lineup.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic addresses the challenge of playing without Kawhi Leonard during the post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:26",
+      "summary_phrase": "Darko Rajakovic dismisses defensive adjustments against Scottie Barnes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "I don't think they did anything to be honest with you that they got him off the game.",
+      "quote": "I don't think they did anything to be honest with you that they got him off the game. He just missed his shots. All the shots that he took in the game, I thought they were good shots and this is not going to happen again to Scottie. Scottie is going to make those shots next time.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic is not concerned about Scottie Barnes after a tough shooting night. The coach says Barnes just missed his shots and expects him to make them next time.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic defends Scottie Barnes after he struggled with his shooting performance against the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:49",
+      "summary_phrase": "Darko Rajakovic evaluates Immanuel Quickley's performance",
+      "names_mentioned": [
+        "Immanuel Quickley"
+      ],
+      "excerpt": "He was himself, he was aggressive.",
+      "quote": "Immanuel Quickley started the game, he missed a couple of shots there. After that, he was himself, he was aggressive. We continued looking for him at the three-point line. He continued doing a good job of getting open and getting shots off. I thought he did a good job tonight.",
+      "text_blocks": [],
+      "start_seconds": 169,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic liked the aggression from Immanuel Quickley tonight. The coach noted that after a slow start, Quickley was himself and continued to do a good job of getting open.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the performance of Immanuel Quickley following the game against Minnesota.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:11",
+      "summary_phrase": "Darko Rajakovic on learning from early season losses",
+      "names_mentioned": [],
+      "excerpt": "It's a great opportunity for us to learn to to watch film.",
+      "quote": "It's a game three of the season. It's a great opportunity for us to learn to to watch film, to see what are the areas that we can improve. Tonight we kept that team to nine offensive rebounds, we had 14, we turned them over 23 times. We did some good stuff, we just did not make shots. When you shoot 38% from the field and 26% from the three-point line, it's hard to overcome that.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic says the Raptors are focused on learning from early season losses. Despite the poor shooting performance, Rajakovic pointed to the team winning the turnover battle and limiting offensive rebounds as positives.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the team's performance and the need to improve after a loss in the third game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Msem7-DfRIw",
+  "url": "https://www.youtube.com/watch?v=Msem7-DfRIw",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-26T03:04:16Z",
+  "duration_seconds": 241,
+  "processed_at": "2026-10-26T13:04:26Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,208 @@
+{
+  "video_title": "Rick Carlisle, Jay Huff, Pascal Siakam & Tyrese Haliburton on Win Over Nets | Postgame Media",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Jay Huff",
+    "Pascal Siakam",
+    "Tyrese Haliburton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:05",
+      "summary_phrase": "Rick Carlisle on the impact of bench centers Jalen Smith and Andrew Nembhard",
+      "names_mentioned": [
+        "Jalen Smith",
+        "Andrew Nembhard"
+      ],
+      "excerpt": "all of a sudden, when Z goes down with the ankle, these guys are called to duty.",
+      "quote": "It's important to mention that our two centers off the bench, all of a sudden, when Z goes down with the ankle, these guys are called to duty. Both Huff and Nance really did a terrific job of being ready and doing what was necessary. Jay protected the rim, he got rebounds, he hit some shots. Nance was very solid, he hit a three and made some really nice plays around the rim.",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle praised the performance of Jay Huff and Larry Nance Jr filling in at center after the injury to Z. He noted both players did a terrific job of being ready and doing what was necessary to help the team.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Smith",
+          "Andrew Nembhard",
+          "Jay Huff",
+          "Larry Nance Jr."
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle discusses the performance of bench players who stepped up after an injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:16",
+      "summary_phrase": "Rick Carlisle on Jay Huff's impressive dunk and return to form",
+      "names_mentioned": [
+        "Jay Huff"
+      ],
+      "excerpt": "that's the first off two feet dunk I think I've seen him have in the NBA.",
+      "quote": "I had forgotten about that. Thanks for reminding me. It was awesome. I don't mind stuff like that, as long as he makes it. But listen, there's a statement to be read there, and that is that he's back. He's back, and that's the first off two feet dunk I think I've seen him have in the NBA. So that's a very strong statement, and it was a momentum play, too.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle says Jay Huff is back after a momentum shifting dunk against the Nets. Carlisle called the play a very strong statement and noted it was the first off two feet dunk he has seen from Huff in the NBA.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jay Huff"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle reacts to a highlight dunk by Jay Huff during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "04:26",
+      "summary_phrase": "Rick Carlisle provides update on Z's ankle injury status",
+      "names_mentioned": [],
+      "excerpt": "X-rays were negative for a fracture. He's got some swelling. Pretty unlikely he'll play tomorrow night.",
+      "quote": "X-rays were negative for a fracture. He's got some swelling. Pretty unlikely he'll play tomorrow night, but we'll see. Hopefully it'll be a day-to-day thing, but you never know. Maybe he'll feel a lot better in the morning. It's hard to say. I think it's probably unlikely, but I talked to him after the game and he said I'll be all right.",
+      "text_blocks": [],
+      "start_seconds": 266,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Rick Carlisle provided an update on Z following his ankle injury. X-rays were negative for a fracture, but Carlisle says it is unlikely he will play tomorrow night and the team is treating it as day to day.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle provides an injury update on a player who left the game with an ankle issue.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jay Huff",
+      "timestamp": "06:22",
+      "summary_phrase": "Jay Huff on building chemistry with Tyrese Haliburton",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "it takes some time to figure out teammates that you haven't played with before.",
+      "quote": "It takes some time to figure out teammates that you haven't played with before, but overall, he's pretty easy to play with. Trying to figure out what I can do to help him, and what will help me, help him help me, help me help him, whatever. It's all to help work together.",
+      "text_blocks": [],
+      "start_seconds": 382,
+      "end_seconds": 402,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jay Huff on building chemistry with Tyrese Haliburton. Huff says it takes time to figure out new teammates but noted that Haliburton is pretty easy to play with.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jay Huff discusses the process of building chemistry with his new teammate Tyrese Haliburton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "09:02",
+      "summary_phrase": "Tyrese Haliburton on how injuries provide perspective on playing the game",
+      "names_mentioned": [],
+      "excerpt": "I think injury gives you more perspective. I think trauma gives you more perspective on life.",
+      "quote": "I think injury gives you more perspective. I think trauma gives you more perspective on life, and my perspective is sitting out that long, I just want to appreciate the game every day. I appreciate what I get to do. I love playing the game of basketball, so I'm just trying to take advantage, just loving every minute, and I'm back on the floor, the good, the bad, and the other out.",
+      "text_blocks": [],
+      "start_seconds": 542,
+      "end_seconds": 570,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyrese Haliburton says his time away from the court due to injury gave him more perspective on life. He says he is just trying to take advantage and appreciate every minute he gets to play the game of basketball.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyrese Haliburton reflects on how his past injury experience has changed his perspective on playing basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "10:31",
+      "summary_phrase": "Tyrese Haliburton on managing physical fatigue during the season",
+      "names_mentioned": [],
+      "excerpt": "I feel it in my legs. I think that's the biggest thing.",
+      "quote": "I feel it in my legs. I think that's the biggest thing. I spend a lot of time working and do a lot of track workouts and cardio stuff, but nothing can compare to real NBA competition. There's times where I'm feeling gassed up there sometimes, but I don't think it's as much my heart and my cardio there, I think it's just my legs, getting my legs there.",
+      "text_blocks": [],
+      "start_seconds": 631,
+      "end_seconds": 658,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyrese Haliburton says he is still working on getting his legs under him during the season. He noted that while he does plenty of cardio work, nothing compares to the physical demand of real NBA competition.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton describes how he manages physical fatigue and leg soreness during the NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "eqGp4eVcQH4",
+  "url": "https://www.youtube.com/watch?v=eqGp4eVcQH4",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-26T01:52:14Z",
+  "duration_seconds": 733,
+  "processed_at": "2026-10-26T13:04:57Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

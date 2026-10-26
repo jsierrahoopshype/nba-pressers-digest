@@ -1,0 +1,75 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons vs  76ers  10.25.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:12",
+      "summary_phrase": "J.B. Bickerstaff on the team's need for consistent, high-level basketball",
+      "names_mentioned": [],
+      "excerpt": "We just want to be playing good basketball, and that's got to be consistent for us.",
+      "quote": "We just want to be playing good basketball, and that's got to be consistent for us. I don't know if we played our best basketball yet, and I think that's going to take some time for us to see the matchups, the pairings, all those things, the execution of things at full speed. But as long as we compete the way we do, as long as we play Pistons basketball, the way that we do, we'll give ourselves a chance any night.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says the Pistons are still searching for consistency as they learn their rotations and pairings. He believes the team will be competitive as long as they continue to play with the right level of effort.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the team's need for consistency and time to develop better execution after their game against the 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:42",
+      "summary_phrase": "J.B. Bickerstaff praises rookie's maturity and poise in NBA debut",
+      "names_mentioned": [],
+      "excerpt": "He plays with a maturity and poise that's well beyond his years.",
+      "quote": "We love him. Obviously, he plays with a maturity and poise that's well beyond his years. His ability to finish, getting in the paint, that's on me. I should have given him a longer run, but just working through those rotations, but we trust him to go out and be who he is and help us win.",
+      "verbatim_original_language": "",
+      "start_seconds": 42,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff praised his rookie for playing with maturity and poise beyond his years. Bickerstaff admitted he should have given the rookie more minutes in his debut and says the team trusts him to help them win.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "J.B. Bickerstaff praises a rookie player's maturity and poise while reflecting on his own rotation decisions during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "PqqxNslqNs4",
+  "url": "https://www.youtube.com/watch?v=PqqxNslqNs4",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-26T02:36:40Z",
+  "duration_seconds": 64,
+  "processed_at": "2026-10-26T13:04:33Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

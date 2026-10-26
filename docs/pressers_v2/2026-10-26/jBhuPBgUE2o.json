@@ -1,0 +1,143 @@
+{
+  "video_title": "Rudy Gobert Postgame On Court Interview | 10.25.26",
+  "speakers_seen": [
+    "Rudy Gobert",
+    "Sean Dorcellus"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sean Dorcellus",
+      "speakers": [
+        "Sean Dorcellus",
+        "Rudy Gobert"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Rudy Gobert on Timberwolves' strong start and team mindset",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "We really wanted to start the right way, especially at home, so proud of the guys.",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "Rudy Gobert, you started the night as the man on the microphone, addressing this home crowd. You ended it with another dominant win. How does it feel to bring the show back in front of the Target Center fans?"
+        },
+        {
+          "speaker": "Rudy Gobert",
+          "text": "Feels great. We really wanted to start the right way, especially at home, so proud of the guys, proud of the mindset, and let's get another one tomorrow."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rudy Gobert on the Timberwolves home opener win: We really wanted to start the right way, especially at home, so proud of the guys, proud of the mindset, and let's get another one tomorrow.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert reacts to a question from Sean Dorcellus about the team's home opening win and their mindset.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sean Dorcellus",
+      "speakers": [
+        "Sean Dorcellus",
+        "Rudy Gobert"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "Rudy Gobert on team's high expectations and collective mindset",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "We competing on both ends. We ready, you can feel that guys are really trying to play the right way.",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "You mentioned in those opening remarks, you've got high expectations. What's impressed you the most about what you guys have been able to accomplish so far?"
+        },
+        {
+          "speaker": "Rudy Gobert",
+          "text": "I think the mindset. We competing on both ends. We ready, you can feel that guys are really trying to play the right way, trying to impact winning the right way. We make mistakes with our style of the game, but even through the mistakes, we stay composed and stay together."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rudy Gobert credits the Timberwolves early success to their collective focus: We competing on both ends. We ready, you can feel that guys are really trying to play the right way, trying to impact winning the right way.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert explains to Sean Dorcellus what has impressed him most about the team's performance during their undefeated start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Sean Dorcellus",
+      "speakers": [
+        "Sean Dorcellus",
+        "Rudy Gobert"
+      ],
+      "timestamp": "00:44",
+      "summary_phrase": "Rudy Gobert on maintaining the Timberwolves' winning momentum",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "One game at a time. Keep putting the work, keep taking care of ourselves and keep getting better.",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "The first 3-0 start for the Wolves since 2019. You've led by over 20 points in each of these games. How do you keep this thing going?"
+        },
+        {
+          "speaker": "Rudy Gobert",
+          "text": "We got 79 more. So, one game at a time. Keep putting the work, keep taking care of ourselves and keep getting better, game after game."
+        }
+      ],
+      "start_seconds": 44,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "After a 3-0 start, Rudy Gobert is keeping the Timberwolves grounded: We got 79 more. So, one game at a time. Keep putting the work, keep taking care of ourselves and keep getting better, game after game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses with Sean Dorcellus how the team plans to maintain their winning momentum throughout the remainder of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "jBhuPBgUE2o",
+  "url": "https://www.youtube.com/watch?v=jBhuPBgUE2o",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-26T03:44:05Z",
+  "duration_seconds": 74,
+  "processed_at": "2026-10-26T13:03:52Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

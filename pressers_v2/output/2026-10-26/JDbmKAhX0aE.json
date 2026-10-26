@@ -1,0 +1,151 @@
+{
+  "video_title": "Cade Postgame Interview  l  Pistons at 76ers  l 10.25.26 #NBA",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Cade Cunningham"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cade Cunningham",
+      "speakers": [
+        "Unidentified speaker",
+        "Cade Cunningham"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Cade Cunningham on the Pistons' strong start to the season",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "We're not getting ahead of ourselves. The togetherness is there. We got a great system.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Cade, 3-0 to start the season, 3 Eastern Conference wins. What impressed you most about the way that this team has started the season?"
+        },
+        {
+          "speaker": "Cade Cunningham",
+          "text": "We just stay steady. We're not getting ahead of ourselves. The togetherness is there. We got a great system. We got the best coach in the league, so just trying to execute best we can and play together."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Cade Cunningham credits the Pistons early success to team chemistry and coaching saying we just stay steady and we are not getting ahead of ourselves",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Cade Cunningham discusses the team's undefeated start to the season and their collective mindset.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cade Cunningham",
+      "speakers": [
+        "Unidentified speaker",
+        "Cade Cunningham"
+      ],
+      "timestamp": "00:21",
+      "summary_phrase": "Cade Cunningham on team depth and stepping up in key moments",
+      "names_mentioned": [
+        "Cade Cunningham",
+        "JD",
+        "AT"
+      ],
+      "excerpt": "Everybody had to step up, you know, bring a little extra intensity, a little extra effort.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You looked comfortable out there really taking opportunities as they came to you. You weren't forcing anything. What was working for you out there?"
+        },
+        {
+          "speaker": "Cade Cunningham",
+          "text": "Just being aggressive. Obviously missing two huge parts of our team, JD and AT, so everybody had to step up, you know, bring a little extra intensity, a little extra effort, and we did a great job of that."
+        }
+      ],
+      "start_seconds": 21,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Cade Cunningham says the Pistons are leaning on collective effort while missing key players JD and AT noting that everyone had to step up and bring extra intensity",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Duren",
+          "Ausar Thompson"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Cade Cunningham explains how the team is adjusting to the absences of Jalen Duren and Ausar Thompson.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cade Cunningham",
+      "speakers": [
+        "Unidentified speaker",
+        "Cade Cunningham"
+      ],
+      "timestamp": "00:38",
+      "summary_phrase": "Cade Cunningham on maintaining momentum heading into the New York game",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "We're just trying to stack days, getting better and better each day.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We got New York on Tuesday, obviously the reigning NBA champions. How do you take a win like this, use it as motivation going into New York, another tough environment?"
+        },
+        {
+          "speaker": "Cade Cunningham",
+          "text": "We're just trying to stack days, getting better and better each day. Today was a great one, we got to put it behind us, we're already onto the next one and trying to prepare and get the job done out there."
+        }
+      ],
+      "start_seconds": 38,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Looking ahead to a matchup against the reigning champion Knicks Cade Cunningham says the Pistons are focused on stacking days and getting better each day",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Cade Cunningham addresses the upcoming game against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "JDbmKAhX0aE",
+  "url": "https://www.youtube.com/watch?v=JDbmKAhX0aE",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-26T02:29:14Z",
+  "duration_seconds": 60,
+  "processed_at": "2026-10-26T13:04:39Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

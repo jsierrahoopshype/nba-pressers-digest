@@ -1,0 +1,218 @@
+{
+  "video_title": "“Passing The Ball Got Us To Break Their Pressure.” | Chris Finch Postgame Sound | 10.25.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:32",
+      "summary_phrase": "Chris Finch on managing LaMelo Ball's playing time",
+      "names_mentioned": [
+        "LaMelo"
+      ],
+      "excerpt": "I didn't want to foul out my own guy",
+      "quote": "Listen, he barely played. He wasn't in a rhythm and if he was going to add anything to the game, it was going to happen then and there and try to play him into a rhythm. Just roll the dice if you will, but I didn't want to foul out my own guy.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch on managing LaMelo Ball's minutes tonight: I wanted to try to play him into a rhythm and just roll the dice, but I did not want to foul out my own guy.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses his decision to manage LaMelo Ball's minutes during the game to help him find a rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "01:51",
+      "summary_phrase": "Chris Finch on the defensive growth of Jaden McDaniels",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "TJ"
+      ],
+      "excerpt": "There's been great growth there. It really has been.",
+      "quote": "There's been great growth there. It really has been. His contain, his routes, he's not fouling. He used to be a high-foul guy. The only missing piece for him right now is rebounding at a better level, and that'd be exactly what that lineup needs.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch sees great growth in Jaden McDaniels defensive discipline but says the missing piece for him right now is rebounding at a better level.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates the defensive progress and rebounding needs of Jaden McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "02:18",
+      "summary_phrase": "Chris Finch on breaking intense ball pressure",
+      "names_mentioned": [
+        "Barnes"
+      ],
+      "excerpt": "We wanted to play quick, just pick a side and go",
+      "quote": "We wanted to play quick, just pick a side and go, not try to be too cute at that point in time. We knew that they were going to be physical, that's how they play. They're very, very good defense in that regard and you just got to drive them, you got to use their pressure against them, and then definitely play with the pass and try to put them in rotation a bit.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "To beat physical ball pressure, Chris Finch says the key is to drive, use their pressure against them, and play with the pass to put the defense in rotation.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the team strategy for handling intense defensive pressure from their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "03:05",
+      "summary_phrase": "Chris Finch on Jonathan Kuminga's rapid development",
+      "names_mentioned": [
+        "Kuminga"
+      ],
+      "excerpt": "He's doing everything we asked him to do",
+      "quote": "He's doing everything we asked him to do or everything he said he wanted to do when he came here about guarding, defending, hustle plays, all that kind of stuff, rebounding at a good clip. And then he's just really letting the ball come to him and he's trusting his offense and his teammates and he's just playing within the flow.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch on Jonathan Kuminga: He is doing everything we asked him to do regarding defense and hustle, and he is really letting the ball come to him and playing within the flow.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch praises the development and team-oriented play of Jonathan Kuminga.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:40",
+      "summary_phrase": "Chris Finch on the defensive effort against Scottie Barnes",
+      "names_mentioned": [
+        "Scottie",
+        "JK",
+        "Jaden",
+        "Trey"
+      ],
+      "excerpt": "Great defense by all those guys that took the matchup",
+      "quote": "Obviously great defense by all those guys that took the matchup. He's a heck of a player. I think JK started it, Jaden was on him a bit, Trey, I thought he did a really good job on him, just kind of not letting him get to his spots, and at that point in time he's got so much size and skill that it's hard to stop him, but yeah, it's a heck of an effort by our guys.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch praised the team effort on Scottie Barnes, noting that JK, Jaden, and Trey did a great job of not letting him get to his spots.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Jonathan Kuminga",
+          "Jaden McDaniels",
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the defensive effort put forth by his players to contain Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "04:35",
+      "summary_phrase": "Chris Finch on the quick chemistry of new players",
+      "names_mentioned": [
+        "Rudy",
+        "Kuminga",
+        "LaMelo"
+      ],
+      "excerpt": "I think LaMelo can gel with anybody",
+      "quote": "I think LaMelo can gel with anybody, he has so much skill and ability to read the floor. Passing obviously is elite. I think defensively those guys have done a good job of reading Rudy quickly. JK has really done a great job of kind of playing off of and around Rudy. A lot of his decision-making has been quick, that allows him to kind of read the next line of defense, which is where you can find Rudy the best.",
+      "text_blocks": [],
+      "start_seconds": 275,
+      "end_seconds": 306,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch says LaMelo Ball can gel with anybody because his passing is elite, and notes that JK has done a great job playing off of and around Rudy Gobert.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball",
+          "Rudy Gobert",
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch talks about how new players are building chemistry and learning to play with Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "E-LU2i7VLko",
+  "url": "https://www.youtube.com/watch?v=E-LU2i7VLko",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-26T02:28:09Z",
+  "duration_seconds": 385,
+  "processed_at": "2026-10-26T13:04:50Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,288 @@
+{
+  "video_title": "“My Goal Is To Stay Dominant On The Defensive End.” | Rudy Gobert Postgame Sound | 10.25.26",
+  "speakers_seen": [
+    "Rudy Gobert",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:04",
+      "summary_phrase": "Rudy Gobert on the Timberwolves' defensive mindset and team goals",
+      "names_mentioned": [],
+      "excerpt": "our mindset is we put a second defensive unit in, and we are not going to let up.",
+      "quote": "We still have a lot of work to do, a lot of room to grow, but our mindset is we put a second defensive unit in, and we are not going to let up.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 17,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rudy Gobert says the Timberwolves are focused on maintaining defensive intensity regardless of the opponent. We are not going to let up.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses the team's defensive mindset and the need for continued growth after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:13",
+      "summary_phrase": "Rudy Gobert on frustrating opponents with defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "you give the other team the most problems you can, and then you live with the results.",
+      "quote": "You give the other team the most problems you can, and then you live with the results. So we are not going to focus on how they feel, but we are going to do our job.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rudy Gobert on the defensive mindset in Minnesota. We are not going to focus on how they feel but we are going to do our job.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert explains his approach to defensive intensity and focusing on team execution rather than opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:38",
+      "summary_phrase": "Rudy Gobert on Jaden McDaniels' defensive growth",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "Jaden McDaniels is getting better and better. For him, it is really about just being locked in.",
+      "quote": "Jaden McDaniels is getting better and better. For him, it is really about just being locked in on the game plan and staying away from fouling, and he has been much better at that.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rudy Gobert sees growth in Jaden McDaniels defensive discipline. He is really about just being locked in on the game plan and staying away from fouling.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert praises the defensive development and discipline of teammate Jaden McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rudy Gobert",
+      "timestamp": "01:00",
+      "summary_phrase": "Rudy Gobert on the impact of Naz Reid and Nickeil Alexander-Walker",
+      "names_mentioned": [
+        "Naz Reid",
+        "Nickeil Alexander-Walker"
+      ],
+      "excerpt": "Naz Reid and Nickeil Alexander-Walker are both impacting the game in tremendous ways for us.",
+      "quote": "Naz Reid and Nickeil Alexander-Walker are both impacting the game in tremendous ways for us. Naz has been the best sixth man in the league for many years and is a starter-caliber player. Nickeil is the same way; he is going to come in and bring some pace and some aggression, and he can do that on both ends.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Rudy Gobert calls Naz Reid the best sixth man in the league. He also praised Nickeil Alexander Walker for bringing pace and aggression to the Timberwolves rotation.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naz Reid",
+          "Nickeil Alexander-Walker"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert highlights the significant contributions and impact of teammates Naz Reid and Nickeil Alexander-Walker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rudy Gobert",
+      "timestamp": "01:44",
+      "summary_phrase": "Rudy Gobert on maintaining his role and defensive dominance",
+      "names_mentioned": [],
+      "excerpt": "my role is to be who I am, be the best in the world at what I do.",
+      "quote": "My role is to be who I am, be the best in the world at what I do, and then offensively, just continue to dominate. I dominate in my own way, running, my screening, my offensive rebounding, and of course, punishing teams on the basket.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rudy Gobert on his offensive role. My role is to be who I am, be the best in the world at what I do, and then offensively, just continue to dominate.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert describes his personal role and offensive contributions to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Rudy Gobert",
+      "timestamp": "02:18",
+      "summary_phrase": "Rudy Gobert on the team's trash-talking culture",
+      "names_mentioned": [],
+      "excerpt": "we don't want to be too much on the talk, but talk is cheap, and guys are talking now.",
+      "quote": "We don't want to be too much on the talk, but talk is cheap, and guys are talking now. And I think, I mean, Anthony Edwards and some other guys, they get going by talking, so I think that's a good thing, as long as we act.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rudy Gobert says Anthony Edwards and others get going by talking trash. He thinks it is a good thing as long as the team backs it up with action.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert discusses the team's culture regarding trash-talking and its effect on players like Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Rudy Gobert",
+      "timestamp": "03:22",
+      "summary_phrase": "Rudy Gobert on the importance of humility and focus",
+      "names_mentioned": [],
+      "excerpt": "I always have the more humble approach in terms of when it comes to the game.",
+      "quote": "I always have the more humble approach in terms of when it comes to the game. I believe in the basketball gods. I always feel like when you talk too much, they bite you back, so everyone is different, but as long as we don't lose focus and we stay locked in on what we need to do, I don't mind the talking.",
+      "text_blocks": [],
+      "start_seconds": 202,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rudy Gobert believes in the basketball gods when it comes to trash talking. I always feel like when you talk too much, they bite you back.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert shares his perspective on maintaining humility and focus despite the team's tendency to talk trash.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Rudy Gobert",
+      "timestamp": "03:44",
+      "summary_phrase": "Rudy Gobert on the team's consistent defensive energy",
+      "names_mentioned": [],
+      "excerpt": "the energy was great. We are coming in every day putting in work, doing it with joy.",
+      "quote": "The energy was great. We are coming in every day putting in work, doing it with joy, doing it with purpose. We have much bigger goals for this year, so it is just how it is supposed to go.",
+      "text_blocks": [],
+      "start_seconds": 224,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Rudy Gobert says the Timberwolves are approaching the season with joy and purpose. We have much bigger goals for this year.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert reflects on the team's daily energy and their long-term goals for the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Rudy Gobert",
+      "timestamp": "04:58",
+      "summary_phrase": "Rudy Gobert on building chemistry with LaMelo Ball",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "for me, I just try to make his life easy, getting open in space for him.",
+      "quote": "For me, I just try to make his life easy, getting open in space for him, whether it is with my screen or with my positioning. I don't think we have the lob yet this season, but it is going to come. He is looking for me, and I feel like the defense is also respecting his passing a lot, so that opens up a lot of shots for the shooters.",
+      "text_blocks": [],
+      "start_seconds": 298,
+      "end_seconds": 325,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rudy Gobert on building chemistry with LaMelo Ball. I just try to make his life easy, getting open in space for him, whether it is with my screen or with my positioning.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert discusses his chemistry and playmaking connection with LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ACViNPQMb3E",
+  "url": "https://www.youtube.com/watch?v=ACViNPQMb3E",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-26T03:38:32Z",
+  "duration_seconds": 357,
+  "processed_at": "2026-10-26T13:04:07Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

@@ -1,0 +1,178 @@
+{
+  "video_title": "Hear from Coach Daigneault, SGA, and Alex Caruso | Postgame Media | October 25, 2026",
+  "speakers_seen": [
+    "Mark Daigneault",
+    "Shai Gilgeous-Alexander",
+    "Alex Caruso"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:43",
+      "summary_phrase": "Mark Daigneault on team resilience after a difficult loss",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "it's good to get around each other when you get through some tough situations.",
+      "quote": "I think we are planning on coming in tomorrow and I am holding that because I think it's good to get around each other when you get through some tough situations. So we will come in, we will regroup tomorrow and see where we are at, see how Jalen is doing obviously, and that's all I thought about to this point.",
+      "verbatim_original_language": "",
+      "start_seconds": 43,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Mark Daigneault says the Thunder will regroup tomorrow to assess the status of Jalen Williams after his injury. The team is planning to get together to navigate the situation.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Mark Daigneault discusses the team's plan to regroup following a loss and mentions checking on the status of Jalen Williams.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "03:15",
+      "summary_phrase": "Shai Gilgeous-Alexander on handling adversity and team depth",
+      "names_mentioned": [],
+      "excerpt": "you got to play the hands you're dealt in life.",
+      "quote": "You got to play the hands you're dealt in life. It is what it is. It sucks, but it's part of the game. We have a team for a reason. We have guys that are ready to step in place and make a difference out there on the floor, hold the fort down till those guys come back.",
+      "verbatim_original_language": "",
+      "start_seconds": 195,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder dealing with injuries: We have a team for a reason. We have guys that are ready to step in place and make a difference out there on the floor and hold the fort down till those guys come back.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses how the team handles adversity and relies on their depth when players are sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:06",
+      "summary_phrase": "Shai Gilgeous-Alexander on Jalen Williams' resilience and recovery",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "I have no doubt in my mind he'll be back and he'll be better than he was before.",
+      "quote": "One of our biggest strengths is us as a unit and us as a team. It helps us when we're fully whole and it helps us when we're not fully whole. It'll be no different. It's been in the past. We got guys going down now with big injuries and we'll figure out a way to keep pushing forward, keep getting better and hold the fort down till those guys come back. I have no doubt in my mind he'll be back and he'll be better than he was before.",
+      "verbatim_original_language": "",
+      "start_seconds": 246,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander remains confident in Jalen Williams recovery: I have no doubt in my mind he will be back and he will be better than he was before.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Shai Gilgeous-Alexander expresses confidence in Jalen Williams' recovery and the team's ability to push forward despite injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Alex Caruso",
+      "timestamp": "05:14",
+      "summary_phrase": "Alex Caruso on supporting teammates through injury adversity",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "it's just about being there for him and then being professional when it comes to playing basketball.",
+      "quote": "There's no getting around feeling bad for Jalen, feeling sorry for him. All the emotions that come with somebody getting stretchered off the court that's your teammate and that's been through all the things that he's been through and the adversity he's been through to work and get back and then have something else kind of freak happen to, it stings. For us at this point, it's just about being there for him and then being professional when it comes to playing basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 314,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Alex Caruso on the emotional toll of seeing Jalen Williams stretchered off: It stings. For us at this point it is just about being there for him and then being professional when it comes to playing basketball.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Alex Caruso reacts to seeing his teammate Jalen Williams get stretchered off the court during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Alex Caruso",
+      "timestamp": "07:06",
+      "summary_phrase": "Alex Caruso on Jalen Williams' character and resilience",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "at a certain point, you can't be a victim anymore and you have to take the adversity head on.",
+      "quote": "Jalen is a resilient human being. He has great parents, comes from a great family of hard work and love and putting your best forward at all times. The couple years I've been here getting to know his mom and dad, I know that they raised their children right and I think those characteristics are instilled in him as a person. At a certain point, you can't be a victim anymore and you have to take the adversity head on and kind of fight back and he's continued to do that and I know he'll continue to do it moving forward.",
+      "verbatim_original_language": "",
+      "start_seconds": 426,
+      "end_seconds": 465,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Alex Caruso praises the character of Jalen Williams: At a certain point you cannot be a victim anymore and you have to take the adversity head on and fight back and he has continued to do that.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Alex Caruso praises the character and resilience of his teammate Jalen Williams following his injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Wv-CHgd-hX8",
+  "url": "https://www.youtube.com/watch?v=Wv-CHgd-hX8",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-26T03:34:07Z",
+  "duration_seconds": 469,
+  "processed_at": "2026-10-26T13:04:14Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

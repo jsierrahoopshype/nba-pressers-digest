@@ -1,0 +1,108 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Kings",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:02",
+      "summary_phrase": "Tuomas Iisalo on Grizzlies' growth in closing out tight games",
+      "names_mentioned": [],
+      "excerpt": "It's one of the things we've done more than a year ago, play these time and score games",
+      "quote": "Huge, huge. Not just this game, but also Golden State and Utah, preserving that lead. I thought we played very smart. It's one of the things we've done more than a year ago, play these time and score games in the preseason and simulate different situations, and we've run into a lot of them and that has really paid off that investment. Guys look very poised again down the stretch. We know what we're doing, we're getting the ball to the spots that we want, and the good part is that whenever we face difficulties like this, we get to solve them.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo credits the Grizzlies' ability to close out tight games to preseason simulations. He says the team is playing very smart and looks poised down the stretch because they know what they are doing.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "GSW",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the team's improved ability to close out tight games compared to previous seasons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:22",
+      "summary_phrase": "Tuomas Iisalo on Grizzlies' offensive rebounding and turnover management",
+      "names_mentioned": [],
+      "excerpt": "We talked about it pregame about the turnovers. We had a huge turnover percentage last game",
+      "quote": "Unbelievable. We talked about it pregame about the turnovers. We had a huge turnover percentage last game. I think today we were 12%, so really took care of the ball and offensive rebounding 42%. Both numbers would be, I think, league leading at this point. To have that in an individual game, it compensates for some of the not knocking down shots or I thought we missed a couple of bunnies and didn't have our best shooting game from the outside, but otherwise, I thought we did a lot of things to win the game.",
+      "text_blocks": [],
+      "start_seconds": 82,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo praised the Grizzlies for their ball security and rebounding against the Kings. He noted that their 12 percent turnover rate and 42 percent offensive rebounding helped compensate for a rough shooting night.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo praises the team's performance in turnover management and offensive rebounding during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:56",
+      "summary_phrase": "Tuomas Iisalo on the development and confidence of Scotty Pippen Jr.",
+      "names_mentioned": [
+        "Scotty Pippen Jr."
+      ],
+      "excerpt": "The confidence that he's playing with is incredible. He feels that confidence also from coaching staff",
+      "quote": "The shape he showed up to camp in, he has put a hell of a lot of hard work in this last spring and this summer. Already a year ago, to come back from that calf injury, it really already started a year ago and he's put himself in a great situation. The confidence that he's playing with is incredible. He feels that confidence also from coaching staff, but especially from his teammates. And those teammates at the same time, what is really important and has been in all three games so far, they are working for him to get better opportunities.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo says the confidence Scotty Pippen Jr. is playing with is incredible. He credited Pippen for his hard work over the summer and noted that his teammates are actively working to get him better opportunities.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scotty Pippen Jr."
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tuomas Iisalo comments on the physical development and growing confidence of Scotty Pippen Jr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "XW--0aUP0WE",
+  "url": "https://www.youtube.com/watch?v=XW--0aUP0WE",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-10-26T04:06:30Z",
+  "duration_seconds": 210,
+  "processed_at": "2026-10-26T13:03:51Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

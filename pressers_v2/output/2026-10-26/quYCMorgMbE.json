@@ -1,0 +1,175 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at Timberwolves | October 25, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:09",
+      "summary_phrase": "Darko Rajakovic on managing Kawhi Leonard's absence during games",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "It's always you got to be ready for those situations and adjust and try to maximize the opportunity",
+      "quote": "It's a part of the game. It's not the first time that happened in my career, and definitely it's not the last one. It's always you got to be ready for those situations and adjust and try to maximize the opportunity for the other guys in that situation. Obviously, he's a big part of what we do over here and missing him was a big on us, but it's a great opportunity for everybody else to step up.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic on playing without Kawhi Leonard: It is a part of the game. It is not the first time that happened in my career and definitely it is not the last one. You have to be ready for those situations and adjust.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic discusses how the team manages the game when Kawhi Leonard is unavailable.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:42",
+      "summary_phrase": "Darko Rajakovic on Scotty Barnes' performance against Minnesota",
+      "names_mentioned": [
+        "Scotty Barnes"
+      ],
+      "excerpt": "I don't think they did anything to be honest with you that they got him off the game",
+      "quote": "I don't think they did anything to be honest with you that they got him off the game. He just missed his shots. All the shots that he took in the game, I thought they were good shots. And this is not going to happen again to Scotty. Scotty is going to make those shots next time. So I didn't see anything special that they did to him to get him off the balance.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says Scottie Barnes missing shots against Minnesota was not about the defense. I do not think they did anything to get him off the game. He just missed his shots. Scotty is going to make those shots next time.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic defends Scottie Barnes performance after he struggled to make shots against the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:04",
+      "summary_phrase": "Darko Rajakovic evaluates Jacob's performance and aggression",
+      "names_mentioned": [
+        "Jacob"
+      ],
+      "excerpt": "He was himself, he was aggressive, we continued looking for him at the three-point line",
+      "quote": "Jacob, he started the game, he missed a couple of shots. After that, he was himself, he was aggressive, we continued looking for him at the three-point line. He continued doing a good job of getting open and then getting shots off. I thought he did a good job tonight.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic on Jacob's performance: He started the game, he missed a couple of shots. After that, he was himself, he was aggressive. I thought he did a good job tonight.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the performance and aggression of Jakob Poeltl during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:26",
+      "summary_phrase": "Darko Rajakovic on team growth and shooting struggles",
+      "names_mentioned": [],
+      "excerpt": "We did some good stuff, we just did not make shots",
+      "quote": "It's a game three of the season. It's a great opportunity for us to learn, to watch film, to see what are the areas that we can improve. Tonight we kept the team to nine offensive rebounds, we had 14, we turned them over 23 times. We did some good stuff, we just did not make shots. When you shoot 38% from the field and 26% from three-point line, it's hard to overcome that.",
+      "text_blocks": [],
+      "start_seconds": 86,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on the Raptors shooting struggles: We did some good stuff, we just did not make shots. When you shoot 38 percent from the field and 26 percent from three point line, it is hard to overcome that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the team's shooting struggles and overall performance in the third game of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:01",
+      "summary_phrase": "Darko Rajakovic on Kawhi Leonard's injury status",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "He's going to go through further testing tomorrow and we will know more after that",
+      "quote": "He's going to go through further testing tomorrow and we will know more after that.",
+      "text_blocks": [],
+      "start_seconds": 121,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Darko Rajakovic provides a brief update on Kawhi Leonard: He is going to go through further testing tomorrow and we will know more after that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic provides an update on the medical status of Kawhi Leonard following the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "quYCMorgMbE",
+  "url": "https://www.youtube.com/watch?v=quYCMorgMbE",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-26T02:54:53Z",
+  "duration_seconds": 133,
+  "processed_at": "2026-10-26T13:04:27Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}

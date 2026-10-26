@@ -1,0 +1,151 @@
+{
+  "video_title": "Post Game Press Conference l Daniss Jenkins l Pistons vs  76ers  10.25.26 #NBA",
+  "speakers_seen": [
+    "Daniss Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "00:13",
+      "summary_phrase": "Daniss Jenkins on the offensive value of Jalen Duren",
+      "names_mentioned": [
+        "Jalen Duren"
+      ],
+      "excerpt": "He's everything. I always know should they overplay him or if he get a screen, that's an advantage.",
+      "quote": "He's everything. I always know should they overplay him or if he get a screen, that's an advantage. It's called an easy screen for him, that's an advantage. He's probably the best shooter I've ever played with or I've ever seen. So, that's humbly speaking, but the results are there. He's a great shooter. So, playing with people like him, Cade Cunningham, Isaiah Stewart, even Cade off the ball, for me, it's made my job a lot easier. All I got to do is go in there, keep the defense honest, and still be aggressive at the same time.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Daniss Jenkins is high on Jalen Duren, calling him the best shooter he has ever played with or seen. Jenkins says playing alongside Duren and Cade Cunningham has made his job much easier.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Duren",
+          "Cade Cunningham",
+          "Isaiah Stewart"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Daniss Jenkins discusses how playing alongside teammates like Jalen Duren and Cade Cunningham makes his role on the floor easier.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "00:52",
+      "summary_phrase": "Daniss Jenkins on his mentality entering the starting lineup",
+      "names_mentioned": [
+        "Cade Cunningham",
+        "Daniss Jenkins"
+      ],
+      "excerpt": "I hear all the noise. I know I got expectations. I got my own expectations.",
+      "quote": "For me, I hear all the noise. I know I got expectations. I got my own expectations. And Cade Cunningham is a dog. That's one thing he is. He won't back down from nothing. He going to come in and get the job done each and every night.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Daniss Jenkins says he is blocking out the noise as he adjusts to the starting lineup and praised Cade Cunningham, saying he is a dog who will not back down from anything.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins comments on his own expectations and praises the competitive mentality of teammate Cade Cunningham.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "01:11",
+      "summary_phrase": "Daniss Jenkins on his rebounding performance against the 76ers",
+      "names_mentioned": [
+        "Jalen Duren",
+        "Daniss Jenkins",
+        "Ausar Thompson"
+      ],
+      "excerpt": "Big dog, dog status, man. Got a heart of a lion. Put my nose in there.",
+      "quote": "Big dog, dog status, man. Got a heart of a lion. Put my nose in there, try to get the job done. I know we thin, so we all got to come in and rebound, but that's really what it is.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Daniss Jenkins on his rebounding effort against the 76ers: I have the heart of a lion and I know we are thin, so we all have to come in and rebound.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins describes his rebounding effort during the game against the 76ers while noting the team's current roster depth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "01:30",
+      "summary_phrase": "Daniss Jenkins on the potential of teammate Ron Holland",
+      "names_mentioned": [
+        "Ron Holland"
+      ],
+      "excerpt": "His ability to be so comfortable, the way that he handles the ball, man, it just allows him.",
+      "quote": "His ability to be so comfortable, the way that he handles the ball, man, it just allows him to have success when he does get his opportunity because he has that ball on a string. There's a lot you can do when you got the handle tight like that and his feel for the game. He's stepping in, he's not nervous. He made a cut out of a play that to me, nobody really made. It was just a smart play for him. Just his feel for the game, man, and him being able to be comfortable and just be him. That's the biggest thing I can say. He work hard as well.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Daniss Jenkins is impressed by Ron Holland, highlighting his ball handling and high feel for the game. Jenkins says Holland is playing with confidence and is not nervous when he gets his opportunity.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ron Holland"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Daniss Jenkins praises the ball-handling skills and high basketball IQ displayed by teammate Ron Holland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "_mRGLLx4Lek",
+  "url": "https://www.youtube.com/watch?v=_mRGLLx4Lek",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-26T02:40:29Z",
+  "duration_seconds": 182,
+  "processed_at": "2026-10-26T13:04:37Z",
+  "run_id": "2026-10-26T1303Z-06utc",
+  "is_one_off": false
+}
