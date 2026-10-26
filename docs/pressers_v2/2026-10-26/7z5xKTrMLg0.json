@@ -1,0 +1,167 @@
+{
+  "video_title": "Grayson Allen Shootaround Media Availability | 10/26/26",
+  "speakers_seen": [
+    "Grayson Allen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Grayson Allen",
+      "timestamp": "00:12",
+      "summary_phrase": "Grayson Allen on the team's response to early season losses",
+      "names_mentioned": [],
+      "excerpt": "two good responses during that game, first response being the response to the night before getting blown out",
+      "quote": "two good responses during that game, first response being the response to the night before getting blown out, and coming out with energy and executing right and playing great to start the game, and then responding to the run that they went on. They hit some big shots, they had some tough drives, we missed some shots. Sometimes runs like those happen. It would have been nice to not let it get back to being tied, but it was good to respond to that and close out with a win.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Grayson Allen on the Hornets bouncing back from a blowout loss: It was good to respond to that and close out with a win.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Grayson Allen discusses the team's ability to respond to adversity during a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Grayson Allen",
+      "timestamp": "00:59",
+      "summary_phrase": "Grayson Allen on his clutch fourth-quarter foul-drawing play",
+      "names_mentioned": [],
+      "excerpt": "knew the only spot I was going to be able to get off a shot was right in the pocket",
+      "quote": "shot clock was winding down. I knew the only spot I was going to be able to get off a shot was right in the pocket there coming off the screen. So I knew I was shooting it from the time I took the first dribble and he was a little too aggressive, so I got the foul. Didn't see the ball go in and just heard the crowd's reaction.",
+      "verbatim_original_language": "",
+      "start_seconds": 59,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Grayson Allen breaks down his clutch foul drawing play: I knew the only spot I was going to be able to get off a shot was right in the pocket there coming off the screen.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Grayson Allen explains his thought process during a late-game play where he drew a foul.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Grayson Allen",
+      "timestamp": "01:50",
+      "summary_phrase": "Grayson Allen on the team's defensive execution and rebounding",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "everything has to be perfect coverage-wise defensively, offensively, spacing, matchups, getting to spots that you want",
+      "quote": "we executed our coverages. On their side out-of-bounds play, we had a couple guys make good plays. Naz got two deflections on the ball just to throw them off a little bit. The margins are really small in the games, so everything has to be perfect coverage-wise defensively, offensively, spacing, matchups, getting to spots that you want. So I felt like we executed really well. Guys made some shots offensively, we made some free throws, but then really executing defensively, our switching and out-of-bounds plays and getting some stops too to keep them out of it.",
+      "verbatim_original_language": "",
+      "start_seconds": 110,
+      "end_seconds": 147,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Grayson Allen emphasizes the importance of defensive focus: The margins are really small in the games, so everything has to be perfect coverage wise defensively, offensively, spacing, matchups.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Grayson Allen highlights the team's defensive execution and individual contributions from teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Grayson Allen",
+      "timestamp": "02:46",
+      "summary_phrase": "Grayson Allen on the challenge of facing the new-look Wizards",
+      "names_mentioned": [
+        "Trae Young",
+        "Anthony Davis",
+        "Khris Middleton"
+      ],
+      "excerpt": "they play with a good amount of pace, they have guys that put pressure on the defense",
+      "quote": "they play with a good amount of pace, they have guys that put pressure on the defense and draw fouls. They have a couple guys that are shooters. They are a very talented team. Early in the season, it is hard to tell exactly how everything is coming together for them, but they are good. Trae Young and Anthony Davis are both proven to be very good players, so with them it is going to be a tough matchup.",
+      "verbatim_original_language": "",
+      "start_seconds": 166,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Grayson Allen on the challenge of facing the Wizards: They play with a good amount of pace, they have guys that put pressure on the defense and draw fouls.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trae Young",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "CHA",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Grayson Allen previews the upcoming matchup against the Washington Wizards and their key players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Grayson Allen",
+      "timestamp": "03:26",
+      "summary_phrase": "Grayson Allen on the importance of rebounding against the Wizards",
+      "names_mentioned": [],
+      "excerpt": "rebounding is going to be a big key for us tonight",
+      "quote": "they are good on the offensive boards and they play three bigs throughout the game and they are all good on the offensive boards, so rebounding is going to be a big key for us tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 206,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Grayson Allen identifies the key to tonight's game against Washington: They are good on the offensive boards and they play three bigs throughout the game, so rebounding is going to be a big key for us.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Grayson Allen identifies rebounding as a critical factor for success in the game against the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "7z5xKTrMLg0",
+  "url": "https://www.youtube.com/watch?v=7z5xKTrMLg0",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-26T18:13:02Z",
+  "duration_seconds": 218,
+  "processed_at": "2026-10-26T19:55:24Z",
+  "run_id": "2026-10-26T1954Z-14utc",
+  "is_one_off": false
+}

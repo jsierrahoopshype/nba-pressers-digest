@@ -1,0 +1,158 @@
+{
+  "video_title": "AJ Green Media Availability | 10.26.26",
+  "speakers_seen": [
+    "AJ Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "AJ Green",
+      "timestamp": "00:09",
+      "summary_phrase": "AJ Green on maintaining process-oriented focus despite early season results",
+      "names_mentioned": [],
+      "excerpt": "I think our focus should still be on the same thing. Are we improving game to game?",
+      "quote": "That's huge. I think that has to be our entire focus the whole year. And even if we were winning those games, the result was what we wanted, I think our focus should still be on the same thing. Are we improving game to game? Are we watching film and taking what we're talking about and applying it? We've been doing that, so we got to keep doing that and trust that the results will come.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "AJ Green says the Bucks are focused on process over results early in the season. He believes if they keep improving game to game and applying film study, the results will come.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "AJ Green discusses the importance of maintaining a process-oriented focus throughout the season regardless of game results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "AJ Green",
+      "timestamp": "00:57",
+      "summary_phrase": "AJ Green on the need for collective defensive effort against Philadelphia",
+      "names_mentioned": [],
+      "excerpt": "We're going to have to to guard as a unit and guard inside out, protect the paint.",
+      "quote": "We're going to have to to guard as a unit and guard inside out, protect the paint and just fly around, cover for each other and do that for 48 minutes. They were good stretches last game where we were, but obviously Philadelphia's got great players, great one-on-one players too, so they stress that even more and they made some shots. But just have to put our identity in, being willing to care and and compete defensively all five, whoever's out there every night.",
+      "verbatim_original_language": "",
+      "start_seconds": 57,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "AJ Green emphasizes that the Bucks must guard as a unit and compete defensively for 48 minutes to handle Philadelphia. He says they need to put their identity in and be willing to care defensively.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "AJ Green explains the defensive strategy required for the Milwaukee Bucks to compete against the Philadelphia 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "AJ Green",
+      "timestamp": "02:05",
+      "summary_phrase": "AJ Green on limiting opponent shots and winning the margins",
+      "names_mentioned": [],
+      "excerpt": "Only give up one shot, limit offensive rebounds.",
+      "quote": "Only give up one shot, limit offensive rebounds. Yeah, like you said, I think Philadelphia won the margins games against us, took like 10 more shots or something and obviously we turned it over a lot as well. So I think we'll be able to score with teams. Like you said, it's just getting stops and one shot and then when we do get stops, we can play with great pace and it can be any guy to put pressure offensively, so we need those stops because it's going to feed our offense.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "AJ Green points to rebounding and turnovers as the key margins for the Bucks. He notes that getting stops is essential to feeding their offense and playing with great pace.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "AJ Green emphasizes the need to limit opponent offensive rebounds and turnovers to improve the team's chances against Philadelphia.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "AJ Green",
+      "timestamp": "03:16",
+      "summary_phrase": "AJ Green on reducing turnovers through better spacing and ball movement",
+      "names_mentioned": [],
+      "excerpt": "I think there's certain turnovers that will happen within the game that you can be okay with.",
+      "quote": "I think there's certain turnovers that will happen within the game that you can be okay with. I think it's just the turnovers that may come from lack of spacing, lack of organization, maybe not moving the ball, making the extra one, driving the drive, things like that where we maybe don't have the advantage and maybe try to force it, that we'll learn from and grow. And obviously everything is magnified in the fourth quarter, so we'll learn through that too and continue to work and get organized, execute.",
+      "verbatim_original_language": "",
+      "start_seconds": 196,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "AJ Green says the Bucks need to cut down on turnovers caused by poor spacing and lack of organization. He admits that everything is magnified in the fourth quarter and they need to continue to work on executing.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "AJ Green addresses the team's turnover issues and the need for better spacing and ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "AJ Green",
+      "timestamp": "04:14",
+      "summary_phrase": "AJ Green on the team's need to improve free throw shooting",
+      "names_mentioned": [
+        "Giannis"
+      ],
+      "excerpt": "The good thing is we're getting there, you know. Keep getting there and getting to the line.",
+      "quote": "Just got to make them. We practice them. Just got to make them in games. I mean, the good thing is we're getting there, you know. Keep getting there and getting to the line. Just got to make them.",
+      "verbatim_original_language": "",
+      "start_seconds": 254,
+      "end_seconds": 269,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "On the team's free throw struggles, AJ Green keeps it simple. He says the team is getting to the line enough, they just have to make them in games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "AJ Green comments on the team's need to improve their free throw shooting performance during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "p2zMFEYXdVI",
+  "url": "https://www.youtube.com/watch?v=p2zMFEYXdVI",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-26T17:18:36Z",
+  "duration_seconds": 294,
+  "processed_at": "2026-10-26T19:55:18Z",
+  "run_id": "2026-10-26T1954Z-14utc",
+  "is_one_off": false
+}

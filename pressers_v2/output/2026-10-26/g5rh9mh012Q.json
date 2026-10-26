@@ -1,0 +1,356 @@
+{
+  "video_title": "Cavs Shootaround | Sam Merrill & Jaylon Tyson Media Availability | 10.26.2026",
+  "speakers_seen": [
+    "Sam Merrill",
+    "Jaylon Tyson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sam Merrill",
+      "timestamp": "00:07",
+      "summary_phrase": "Sam Merrill on the team's ongoing process of building mental toughness",
+      "names_mentioned": [],
+      "excerpt": "It's an ongoing process of just trying to continue to grow your mentality.",
+      "quote": "It's an ongoing process of just trying to continue to grow your mentality. Part of it's the conditioning, especially early in the season, getting into real game shape. It's impossible to fully simulate that during training camp, but it's a mentality that we continue to talk about and there's a lot of communication in halftimes, in huddles, and practices. So, it's just about taking that next step.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sam Merrill says the Cavs are focused on building mental toughness and conditioning early in the season to help close out games better.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill discusses the team's ongoing process of building mental toughness and conditioning early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sam Merrill",
+      "timestamp": "00:50",
+      "summary_phrase": "Sam Merrill on Jaylon Tyson's growth and maturity",
+      "names_mentioned": [
+        "Jaylon Tyson"
+      ],
+      "excerpt": "Me and Jaylon have gone pretty close and we've talked a lot about stuff like that.",
+      "quote": "Me and Jaylon have gone pretty close and we've talked a lot about stuff like that, going through the ups and downs of a season, of a game. I do feel like he's definitely -- actually he's extremely immature and he hasn't grown at all. No, he's continuing to get better and I love his mindset right now.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Sam Merrill on rookie Jaylon Tyson: He is continuing to get better and I love his mindset right now.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylon Tyson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Sam Merrill comments on the growth and maturity of his teammate Jaylon Tyson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Sam Merrill",
+      "timestamp": "01:33",
+      "summary_phrase": "Sam Merrill on the importance of maintaining leads and closing out games",
+      "names_mentioned": [],
+      "excerpt": "It's about trying to really lock in and make big-time winning plays.",
+      "quote": "It's about trying to really lock in and make big-time winning plays that can either extend a lead or finish a game off. For sure, the number one thing is we got to keep up our pace. Our first halves, our pace and shot quality has been really good and then we've slowed down the second half, so that's definitely an important part of it.",
+      "verbatim_original_language": "",
+      "start_seconds": 93,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Sam Merrill notes a trend for the Cavs: Our first halves have been really good but we have slowed down in the second half. We need to keep up our pace.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill explains the importance of maintaining pace and shot quality to close out games effectively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Sam Merrill",
+      "timestamp": "03:07",
+      "summary_phrase": "Sam Merrill on the team's defensive improvements",
+      "names_mentioned": [],
+      "excerpt": "Our half-court defense in Game 1 was really good the whole game.",
+      "quote": "Our half-court defense in Game 1 was really good the whole game. Our shot quality and the shots we were trying to force in Game 2 were really good too. So, I think trying to just keep that focus on protecting the paint, trying to limit our straight-line drives, which has been a lot better, and being physical in a more compact area, I think it's been good for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 187,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sam Merrill says the Cavs defensive focus is on protecting the paint and limiting straight-line drives.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill reflects on the team's defensive improvements regarding paint protection and physical play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "03:49",
+      "summary_phrase": "Jaylon Tyson on his relationship with Sam Merrill",
+      "names_mentioned": [
+        "Sam Merrill"
+      ],
+      "excerpt": "I love Sam Merrill. That's like a brother to me.",
+      "quote": "I love Sam Merrill. That's like a brother to me and I think he's one of the best shooters in the NBA.",
+      "verbatim_original_language": "",
+      "start_seconds": 229,
+      "end_seconds": 237,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jaylon Tyson on teammate Sam Merrill: That is like a brother to me and I think he is one of the best shooters in the NBA.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Sam Merrill"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylon Tyson expresses his appreciation for his teammate Sam Merrill.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "04:19",
+      "summary_phrase": "Jaylon Tyson on the team's need to focus on finishing games",
+      "names_mentioned": [],
+      "excerpt": "The most important thing is not playing the score.",
+      "quote": "The most important thing is not playing the score. I think at half, we've been up both times, but finishing games is going to be key for the longevity of this year and this season. I think that's the thing that we got to hone in on. If we can just not play the score, just keep playing the same way, because I think our first half, we have one of the best first halves in the NBA in the last two games, honestly. But if we can put two halves together, 48 minutes together, the same consistency, we're going to be a really, really good team.",
+      "verbatim_original_language": "",
+      "start_seconds": 259,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylon Tyson says the Cavs need to stop playing the score and focus on putting 48 minutes together to maintain their strong first-half momentum.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jaylon Tyson discusses the team's need to maintain consistency and finish games strong.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "05:05",
+      "summary_phrase": "Jaylon Tyson on his defensive mindset against elite players",
+      "names_mentioned": [],
+      "excerpt": "Our job is just make his job as difficult as possible and then we'll live with the results.",
+      "quote": "I think it's just another opportunity to go out there and make his job as difficult as possible. Obviously, he's a really good player, he's on the ball in his hands a lot, but our job is just make his job as difficult as possible and then we'll live with the results.",
+      "verbatim_original_language": "",
+      "start_seconds": 305,
+      "end_seconds": 325,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylon Tyson on defending elite players: Our job is just make his job as difficult as possible and then we will live with the results.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jaylon Tyson talks about his defensive mindset when facing elite ball-dominant players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "05:31",
+      "summary_phrase": "Jaylon Tyson on his role as a pressure release for teammates",
+      "names_mentioned": [],
+      "excerpt": "I could definitely be a pressure release for those guys.",
+      "quote": "I could definitely be a pressure release for those guys, you know. Obviously, they got to have the ball in their hands and we, I think this is things that we're working on right now where we're going to get them the ball, but I think I could be a pressure release for them and I just want them to know that I'm a tool in their back pocket if they need it.",
+      "verbatim_original_language": "",
+      "start_seconds": 331,
+      "end_seconds": 359,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylon Tyson on his role: I could definitely be a pressure release for those guys. I want them to know that I am a tool in their back pocket if they need it.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jaylon Tyson describes his potential role as a pressure release for his teammates on offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "06:09",
+      "summary_phrase": "Jaylon Tyson on defending ball-dominant players",
+      "names_mentioned": [],
+      "excerpt": "It starts with the individual defense, you know, not they're a heavy ISO team.",
+      "quote": "It starts with the individual defense, you know, not they're a heavy ISO team. So, we're going to have to be able to guard the ISO and also have our teammates going to have to have each other's back, you know. Scouting report is going to be huge. I think if we use our IQ and play scouting report, we're going to have good success.",
+      "verbatim_original_language": "",
+      "start_seconds": 369,
+      "end_seconds": 394,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylon Tyson on defensive strategy: It starts with individual defense. We are going to have to be able to guard the ISO and have each other's back.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jaylon Tyson emphasizes the importance of individual defense and following the scouting report against ISO-heavy teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "06:50",
+      "summary_phrase": "Jaylon Tyson on building team chemistry and communication",
+      "names_mentioned": [],
+      "excerpt": "I think it's a balance. Everybody learns different ways, right?",
+      "quote": "I think it's a balance. Everybody learns different ways, right? Person A and Person B, maybe Person A likes to get yelled at, Person B doesn't, so I think that's something that we got to kind of learn about each other. Eventually, there will be some yelling because obviously we all want to win and we all got the same goal, but the thing about this group is we're all selfless and we all got the same same goal.",
+      "verbatim_original_language": "",
+      "start_seconds": 410,
+      "end_seconds": 440,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jaylon Tyson on team chemistry: We have to learn how each other operates. The thing about this group is we are all selfless and we all have the same goal.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jaylon Tyson discusses the balance of communication and team chemistry within the group.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "07:33",
+      "summary_phrase": "Jaylon Tyson on the team's underdog mentality",
+      "names_mentioned": [],
+      "excerpt": "We got to figure out ways to win and figure out ways to to keep that the leads.",
+      "quote": "We got to figure out ways to win and figure out ways to to keep that the leads, you know. We got a really talented team, but we got to continue to have that same mindset of underdog, you know. We got to keep having that and that's what got us the leads in the first place in the first half of both games.",
+      "verbatim_original_language": "",
+      "start_seconds": 453,
+      "end_seconds": 478,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylon Tyson says the Cavs must maintain an underdog mentality to hold onto leads: We have a really talented team but we have to keep having that mindset.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jaylon Tyson explains the importance of maintaining an underdog mentality to hold onto leads.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jaylon Tyson",
+      "timestamp": "08:17",
+      "summary_phrase": "Jaylon Tyson on the team's defensive progress",
+      "names_mentioned": [],
+      "excerpt": "We're protecting our paint. I think that's something that we're doing really well.",
+      "quote": "We're protecting our paint. I think that's something that we're doing really well and I think the team defense is getting better. I think that has to do with us learning each other, learning concepts. Once everybody else kind of learns each other and how we operate defensively, I think that's something that's going to keep going up and up.",
+      "verbatim_original_language": "",
+      "start_seconds": 497,
+      "end_seconds": 520,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylon Tyson on defensive growth: We are protecting our paint and team defense is getting better as we learn each other and the concepts.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jaylon Tyson comments on the team's progress in paint protection and learning defensive concepts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "g5rh9mh012Q",
+  "url": "https://www.youtube.com/watch?v=g5rh9mh012Q",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-26T16:07:56Z",
+  "duration_seconds": 526,
+  "processed_at": "2026-10-26T19:55:24Z",
+  "run_id": "2026-10-26T1954Z-14utc",
+  "is_one_off": false
+}
