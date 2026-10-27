@@ -113,6 +113,14 @@ class LinkTests(unittest.TestCase):
         self.assertEqual(p("presserclips://clip/?q=2&t=118&v=J5unk3vEQmk"), ("J5unk3vEQmk", 118, 2))
         self.assertEqual(p("PRESSERCLIPS://clip?v=-RVFB1Uu9QM&t=0&q=1"), ("-RVFB1Uu9QM", 0, 1))
         self.assertEqual(mc.clip_link("J5unk3vEQmk", 118, 2), "presserclips://clip?v=J5unk3vEQmk&t=118&q=2")
+        # "Send to Slack": the same link plus slack=1
+        self.assertEqual(p("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1"), ("J5unk3vEQmk", 118, 2))
+        self.assertEqual(mc.parse_clip_link_opts("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1"),
+                         ("J5unk3vEQmk", 118, 2, True))
+        self.assertEqual(mc.parse_clip_link_opts("presserclips://clip?v=J5unk3vEQmk&t=118&q=2"),
+                         ("J5unk3vEQmk", 118, 2, False))
+        self.assertEqual(mc.clip_link("J5unk3vEQmk", 118, 2, slack=True),
+                         "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1")
 
     def test_anything_else_is_refused(self):
         bad = [
@@ -128,6 +136,10 @@ class LinkTests(unittest.TestCase):
             'presserclips://clip?v=J5unk3vEQmk&t=118&q=2" --out "C:\\x', "presserclips://user@clip?v=J5unk3vEQmk&t=1&q=2",
             "presserclips://clip:99?v=J5unk3vEQmk&t=1&q=2", "presserclips://clip?v=J5unk3vEQmk&t=\uff11&q=2",
             "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&", "presserclips://clip?v=J5unk3vEQmk;t=118;q=2", None,
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=0", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=",
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1&slack=1",
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=yes", "presserclips://clip?v=J5unk3vEQmk&t=118&slack=1",
+            "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1&channel=general",
         ]
         for url in bad:
             with self.assertRaises(mc.BadLink, msg=repr(url)):
@@ -186,6 +198,97 @@ class LinkTests(unittest.TestCase):
                 rc = mc.main(["--link", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2"])
         self.assertEqual(rc, 0)
         self.assertEqual((seen["formats"], [c["rank"] for c in seen["todo"]]), (["vertical", "square"], [2]))
+
+
+class SendToSlackTests(TempDirs):
+    def make_files(self, *formats):
+        folder = self.out / FOLDER
+        folder.mkdir(parents=True)
+        (folder / mc.QUOTE_FILE).write_text(mc.quote_txt(CLIP), encoding="utf-8")
+        for fmt in formats:
+            (folder / f"{fmt}.mp4").write_bytes(f"video {fmt}".encode())
+        return folder
+
+    def fake_worker(self, finish=None):
+        posts, uploads = [], []
+
+        def post(url, payload):
+            posts.append((url, payload))
+            if url.endswith("/start"):
+                return {"ok": True, "send_id": "a" * 32,
+                        "uploads": [{"format": f["format"], "upload_url": f"https://files.slack.com/up/{f['format']}"}
+                                    for f in payload["files"]]}
+            if finish:
+                raise finish
+            return {"ok": True, "channel": "#socialmedia"}
+        return posts, uploads, post, lambda url, path: uploads.append((url, path.name))
+
+    def test_sends_the_default_formats_that_were_made_as_one_message(self):
+        self.make_files("vertical", "youtube", "square")
+        posts, uploads, post, upload = self.fake_worker()
+        where = mc.send_to_slack(CLIP, self.out, ["vertical", "square"], "J5unk3vEQmk", 118, 2,
+                                 post=post, upload=upload)
+        self.assertEqual(where, "#socialmedia")
+        self.assertEqual(posts[0], (f"{mc.SLACK_SEND_URL}/start", {
+            "v": "J5unk3vEQmk", "t": 118, "q": 2,
+            "files": [{"format": "vertical", "size": 14}, {"format": "square", "size": 12}]}))
+        self.assertEqual(posts[1], (f"{mc.SLACK_SEND_URL}/finish", {"send_id": "a" * 32}))
+        self.assertEqual(uploads, [("https://files.slack.com/up/vertical", "vertical.mp4"),
+                                   ("https://files.slack.com/up/square", "square.mp4")])
+        self.assertEqual(mc.SLACK_SEND_URL, "https://hh-slack-video-poster.thejorgesierra.workers.dev/send-clip")
+
+    def test_nothing_made_nothing_sent(self):
+        posts, _, post, upload = self.fake_worker()
+        with self.assertRaisesRegex(mc.SlackSendError, "no finished clip"):
+            mc.send_to_slack(CLIP, self.out, ["vertical"], "J5unk3vEQmk", 118, 2, post=post, upload=upload)
+        self.assertEqual(posts, [])
+
+    def test_too_big_is_refused_before_contacting_the_worker(self):
+        self.make_files("vertical")
+        posts, _, post, upload = self.fake_worker()
+        with mock.patch.object(mc, "SLACK_MAX_BYTES", 5), \
+                self.assertRaisesRegex(mc.SlackSendError, "over Slack sending"):
+            mc.send_to_slack(CLIP, self.out, ["vertical"], "J5unk3vEQmk", 118, 2, post=post, upload=upload)
+        self.assertEqual(posts, [])
+
+    def test_upload_only_goes_to_slack(self):
+        folder = self.make_files("vertical")
+        for url in ("http://files.slack.com/x", "https://evil.example/x", "https://slack.com.evil.example/x"):
+            with self.assertRaisesRegex(mc.SlackSendError, "unexpected upload address"):
+                mc._upload_file(url, folder / "vertical.mp4")
+
+    def test_send_to_slack_link_makes_then_sends_and_shows_the_result(self):
+        self.make_files("vertical")
+        sent = []
+        settings = {"out_dir": str(self.out), "formats": ["vertical"], "keep_days": 7}
+
+        def run(link, send):
+            with mock.patch.object(mc.subprocess, "run"), \
+                    mock.patch("builtins.input", side_effect=AssertionError("no questions")), \
+                    mock.patch.multiple(mc, load_settings=lambda path=None: settings,
+                                        check_tools=lambda s=None: "ffmpeg", render_all=lambda *a: 0,
+                                        load_manifest=lambda src: {"clips": [dict(CLIP)]},
+                                        housekeeping=lambda out, days: None, send_to_slack=send), \
+                    mock.patch.object(mc, "say") as say:
+                rc = mc.main(["--link", link])
+            return rc, " ".join(str(c.args[0]) for c in say.call_args_list if c.args)
+
+        def ok(clip, out_root, formats, v, t, q):
+            sent.append((clip["rank"], formats, v, t, q))
+            return "#socialmedia"
+        rc, shown = run("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1", ok)
+        self.assertEqual((rc, sent), (0, [(2, ["vertical"], "J5unk3vEQmk", 118, 2)]))
+        self.assertIn("Sent to #socialmedia.", shown)
+
+        def refused(*a):
+            raise mc.SlackSendError("The limit of 30 clips an hour to Slack has been reached. Try again in 5 minutes.")
+        rc, shown = run("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1", refused)
+        self.assertEqual(rc, 1)
+        self.assertIn("[X] Not sent to Slack: The limit of 30 clips an hour", shown)
+        self.assertNotIn("minutes..", shown)
+
+        rc, _ = run("presserclips://clip?v=J5unk3vEQmk&t=118&q=2", AssertionError)   # plain Clip it: no send
+        self.assertEqual(rc, 0)
 
 
 # --------------------------------------------------------------------------- #

@@ -182,6 +182,19 @@ video at that second (48-hour clip list, then the stored per-video data).
 Anything else is refused and logged. A good link renders that quote in the
 default formats, shows progress and closes the window.
 
+**Send to Slack.** Next to each `Clip it` link the digest has `Send to Slack`:
+the same link plus `&slack=1` (the only extra the tool accepts, and only with the
+value `1`). The tool makes the clip exactly as for `Clip it` (or finds it in the
+folder), then sends the default formats as one message to #socialmedia through
+the hh-slack-video-poster Worker (`/send-clip`, no key): the Worker hands out
+one-time Slack upload addresses, the tool uploads the MP4s straight to Slack
+(`*.slack.com` only), and the Worker shares them with a message it writes itself
+from this repo's published quote data. The Worker refuses quotes that aren't in
+the last 10 days' data, posts only to #socialmedia, caps files at 150 MB, 30
+sends an hour and one send per quote per 12 hours. The window shows "Sent to
+#socialmedia" or the plain-English reason. Older digests get the link on the
+next run (`relink_stored_markdown` upgrades `Clip it`-only lines).
+
 **Desktop shortcut** (fallback): the pick-list of the latest run's quotes,
 grouped Press conferences / Podcasts & shows / One-offs; Enter = top 10,
 numbers, P / D / O, MORE (48 hours) or a pasted timestamped YouTube link; then

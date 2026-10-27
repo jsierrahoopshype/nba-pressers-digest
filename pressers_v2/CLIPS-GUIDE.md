@@ -33,6 +33,8 @@ Open the digest. Under every quote, after the timestamped YouTube link, there is
 
 **From a list instead:** double-click **NBA Presser Clips** on your desktop. It lists the latest digest's quotes with a number, news score, speaker, team and angle. Press Enter for the top 10, type numbers like `1,3,5-7`, P / D / O for the top press conferences, podcasts or one-offs, MORE for the last 48 hours, or paste a timestamped YouTube link from the digest. Then choose formats.
 
+**Send to Slack.** Next to every **Clip it** link there is a **Send to Slack** link. It does the same as Clip it (or uses the clip if it's already in the folder), then sends your default formats to the **#socialmedia** Slack channel in one message, with the speaker, the quote and the YouTube link. The window shows **Sent to #socialmedia**, or why it wasn't sent (for example: the quote was already sent in the last 12 hours, or the limit of 30 sends an hour was reached). It always goes to #socialmedia, nowhere else. If the window says "That isn't a valid clip link" the first time, click any **Clip it** link once (that updates the app), then try again.
+
 ## 3. Which format for which platform
 
 | Letter | Format | Size | Use it for |

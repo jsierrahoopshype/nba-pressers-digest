@@ -327,20 +327,27 @@ def link_bare_urls(md: str) -> str:
 # "Clip it": after the timestamped URL that closes each quote block, a small
 # link in the presserclips: scheme the clip tool's installer registers. A
 # click renders that quote (video id, start second, quote number) on the
-# reader's computer. Built from the block's own header number and URL, so
-# it also works on stored files; a block that already has one is skipped.
+# reader's computer. "Send to Slack" next to it is the same link plus
+# slack=1: the tool makes the clip (or finds it made), then sends it to
+# #socialmedia. Built from the block's own header number and URL, so it also
+# works on stored files; a block that already has the line is skipped, and an
+# older "Clip it"-only line is brought up to date.
 _QUOTE_HEADER_RE = re.compile(r"^\*\*(\d+)\.")
 _TS_LINK_LINE_RE = re.compile(r"^\[https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})&t=(\d+)s\]"
                               r"\(https://www\.youtube\.com/watch\?v=\1&t=\2s\)$")
-CLIP_LINK_LINE_RE = re.compile(r"^<small>\[Clip it\]\(presserclips://clip\?v=[A-Za-z0-9_-]{11}&t=\d+&q=\d+\)</small>$")
+CLIP_LINK_LINE_RE = re.compile(r"^<small>\[Clip it\]\(presserclips://clip\?v=([A-Za-z0-9_-]{11})&t=(\d+)&q=(\d+)\)"
+                               r" · \[Send to Slack\]\(presserclips://clip\?v=\1&t=\2&q=\3&slack=1\)</small>$")
+OLD_CLIP_LINK_LINE_RE = re.compile(r"^<small>\[Clip it\]\(presserclips://clip\?v=([A-Za-z0-9_-]{11})&t=(\d+)&q=(\d+)\)</small>$")
 
 
 def clip_link_line(video_id: str, secs: int, rank: int) -> str:
-    return f"<small>[Clip it](presserclips://clip?v={video_id}&t={int(secs)}&q={int(rank)})</small>"
+    link = f"presserclips://clip?v={video_id}&t={int(secs)}&q={int(rank)}"
+    return f"<small>[Clip it]({link}) · [Send to Slack]({link}&slack=1)</small>"
 
 
 def add_clip_links(md: str) -> str:
-    lines = md.split("\n")
+    lines = [OLD_CLIP_LINK_LINE_RE.sub(lambda m: clip_link_line(m[1], int(m[2]), int(m[3])), line)
+             for line in md.split("\n")]
     out, rank = [], None
     for i, line in enumerate(lines):
         out.append(line)

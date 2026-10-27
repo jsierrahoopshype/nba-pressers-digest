@@ -124,6 +124,19 @@ def video(vid, title, one_off=False, duration=359):
     return v
 
 
+class ClipLinkUpgradeTests(unittest.TestCase):
+    def test_older_clip_it_only_line_gets_send_to_slack(self):
+        url = "https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=52s"
+        old = (f"**1. Kenny Atkinson — \"x\"** [00:52]({url})\n\nKenny Atkinson: \"x\"\n\n[{url}]({url})\n\n"
+               "<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=52&q=1)</small>\n\n---\n")
+        new = pe.add_clip_links(old)
+        self.assertIn("<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=52&q=1) · "
+                      "[Send to Slack](presserclips://clip?v=3EYEd9Lgvgc&t=52&q=1&slack=1)</small>\n", new)
+        self.assertEqual(new.count("[Clip it]"), 1)
+        self.assertEqual(pe.add_clip_links(new), new)                        # idempotent
+        self.assertEqual(new.replace(" · [Send to Slack](presserclips://clip?v=3EYEd9Lgvgc&t=52&q=1&slack=1)", ""), old)
+
+
 class FormatParityTests(unittest.TestCase):
     def test_vendored_renderer_reproduces_ytquotes_output(self):
         data = json.loads((FIXTURES / "6sbyI-n2yh0.json").read_text(encoding="utf-8"))
@@ -139,6 +152,8 @@ class FormatParityTests(unittest.TestCase):
         self.assertEqual(clip_lines[0], pe.clip_link_line("6sbyI-n2yh0", ytq.timestamp_to_seconds(q1["timestamp"]),
                                                           q1["rank"]))
         self.assertEqual(pe.add_clip_links(ours), ours)                      # idempotent
+        self.assertIn(" · [Send to Slack](presserclips://clip?v=6sbyI-n2yh0&t=", clip_lines[0])
+        self.assertTrue(clip_lines[0].endswith(f"&q={q1['rank']}&slack=1)</small>"))
         self.assertIn("\nSource: [https://www.youtube.com/watch?v=6sbyI-n2yh0]"
                       "(https://www.youtube.com/watch?v=6sbyI-n2yh0)\n", ours)
 
