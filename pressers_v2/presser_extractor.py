@@ -168,8 +168,16 @@ def video_day_dir(video: dict) -> Path:
     return OUTPUT_DIR / publish_date(video)
 
 
+OVERNIGHT_SLOT = "overnight"   # the hourly overnight triggers all share this slot
+
+
 def determine_run_slot() -> str:
-    """digest-06utc.md for scheduled runs, digest-manual-HHMM.md otherwise."""
+    """digest-14utc.md for scheduled runs, digest-manual-HHMM.md otherwise.
+    PRESSERS_RUN_SLOT (set by the workflow) wins when present: the overnight
+    cron fires every hour 01-10 UTC and all those runs share one slot."""
+    explicit = re.sub(r"[^A-Za-z0-9_-]", "", os.getenv("PRESSERS_RUN_SLOT") or "")
+    if explicit:
+        return explicit
     event_name = (os.getenv("GITHUB_EVENT_NAME") or "").strip()
     schedule = (os.getenv("GITHUB_EVENT_SCHEDULE") or "").strip()
     if event_name == "schedule" and schedule:
@@ -926,6 +934,24 @@ def _video_type_for_md(md_path: Path) -> str:
         return "presser"
 
 
+def videos_with_run_id(day_dir: Path, run_id: str) -> list:
+    """Video ids in day_dir whose stored JSON carries this run_id (the
+    overnight slot shares one run_id across its hourly runs)."""
+    out = []
+    if not run_id or not day_dir.is_dir():
+        return out
+    for js in sorted(day_dir.glob("*.json")):
+        if not VIDEO_ID_RE.match(js.stem):
+            continue
+        try:
+            data = json.loads(js.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        if data.get("run_id") == run_id:
+            out.append(js.stem)
+    return out
+
+
 def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
     """yt-quotes' digest, grouped into Press conferences / Podcasts & shows /
     One-offs (empty sections skipped). Each video block is the per-video .md
@@ -1280,7 +1306,13 @@ def main() -> int:
     started = datetime.now(timezone.utc)
     today = started.strftime("%Y-%m-%d")
     run_slot = determine_run_slot()
-    RUN_ID = f"{started:%Y-%m-%dT%H%MZ}-{run_slot}"
+    if run_slot == OVERNIGHT_SLOT:
+        # One run_id per night, shared by every hourly overnight run, so the
+        # clip tool's "latest run" view and digest-overnight.md cover the
+        # whole night rather than the last hourly batch.
+        RUN_ID = f"{started:%Y-%m-%d}-{run_slot}"
+    else:
+        RUN_ID = f"{started:%Y-%m-%dT%H%MZ}-{run_slot}"
     log(f"Run slot: {run_slot} (run_id {RUN_ID})")
 
     config = load_config()
@@ -1296,10 +1328,18 @@ def main() -> int:
     migrate_legacy_outputs()
     relink_stored_markdown()
 
+    def queue_no_new_videos() -> None:
+        # The overnight drip runs ten times a night; most of those find
+        # nothing new, and ten "No new press conferences" posts are noise.
+        if run_slot == OVERNIGHT_SLOT:
+            log("Overnight slot: nothing new, skipping the Slack post.")
+            return
+        queue_slack_payload({"kind": "no_new_videos", "date_str": today})
+
     def finish_without_videos() -> int:
         regenerate_index()
         write_clip_manifest(build_clip_manifest(run_slot, window_hours))
-        queue_slack_payload({"kind": "no_new_videos", "date_str": today})
+        queue_no_new_videos()
         _outputs_written.set()
         return 0
 
@@ -1430,6 +1470,10 @@ def main() -> int:
     digest_dates = []
     for pd in sorted({it["date"] for it in processed_items if it.get("date")}):
         run_ids = [it["video_id"] for it in processed_items if it.get("date") == pd]
+        if run_slot == OVERNIGHT_SLOT:
+            # digest-overnight.md accumulates: every video stored tonight
+            # (same shared run_id), not just this hourly batch.
+            run_ids = videos_with_run_id(OUTPUT_DIR / pd, RUN_ID) or run_ids
         run_path = write_digest_file(pd, per_run_filename, video_ids=run_ids)
         write_digest_file(pd, "digest.md", video_ids=None)
         if run_path is not None:
@@ -1454,7 +1498,7 @@ def main() -> int:
             "deferred_videos": list(_deferred_items),
         })
     else:
-        queue_slack_payload({"kind": "no_new_videos", "date_str": today})
+        queue_no_new_videos()
     _outputs_written.set()
 
     log(f"Done. {summary}")

@@ -3,7 +3,15 @@ name: Pressers v2 (quotes + clips)
 # The current pipeline (the original scripts/ pipeline's workflow has been removed).
 on:
   schedule:
-    - cron: '15 6 * * *'   # 06:15 UTC: after overnight postgame pressers (8:15 Madrid summer)
+    # Overnight drip, one trigger every hour 01:23-10:23 UTC (9 PM-6 AM ET
+    # in winter). GitHub starts scheduled runs 2-7 hours late on this repo
+    # (the old single 06:15 trigger landed at 11:00-13:00 UTC, i.e. 7-9 AM
+    # ET), so a single overnight trigger never caught postgame pressers in
+    # time. Ten triggers give a steady stream of runs through the night; each
+    # one only processes videos not yet on disk, so Gemini spend is unchanged.
+    # All of them share the "overnight" slot (one digest-overnight.md, one
+    # run_id per night, no "no new videos" Slack posts).
+    - cron: '23 1-10 * * *'
     - cron: '15 14 * * *'  # 14:15 UTC: morning shootaround / practice availabilities
     - cron: '15 20 * * *'  # 20:15 UTC: afternoon availabilities + early pregame
   workflow_dispatch:
@@ -52,6 +60,10 @@ jobs:
           EXTRA_VIDEOS: ${{ inputs.extra_videos }}
           FORCE_REPROCESS: ${{ inputs.force }}
           GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
+          # Names the slot for the hourly overnight triggers (the hour field
+          # "1-10" is a range, so the HHutc naming can't apply). Empty for
+          # the two daytime crons and manual runs, which keep their old names.
+          PRESSERS_RUN_SLOT: ${{ github.event.schedule == '23 1-10 * * *' && 'overnight' || '' }}
         run: python pressers_v2/presser_extractor.py
 
       - name: Mirror output into docs/ for GitHub Pages
