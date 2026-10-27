@@ -10,7 +10,7 @@ Sam Merrill: "He's been really good for us so far. Big, athletic, puts a ton of 
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=5s](https://www.youtube.com/watch?v=F--B8zrim0o&t=5s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=5&q=1) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=5&q=1&slack=1)</small>
 
 **2. Sam Merrill — "I've definitely worked on since I've been in the NBA on having a slightly quicker release." — Sam Merrill on his shooting form and quick release** [00:58](https://www.youtube.com/watch?v=F--B8zrim0o&t=58s)
 
@@ -18,7 +18,7 @@ Sam Merrill: "My form has always been pretty natural. Growing up playing, that's
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=58s](https://www.youtube.com/watch?v=F--B8zrim0o&t=58s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=58&q=2) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=58&q=2&slack=1)</small>
 
 **3. Sam Merrill — "Obviously a big addition for us. We're going to miss Max. I personally am going to miss Max." — Sam Merrill on Payton Pritchard's addition to the team** [01:36](https://www.youtube.com/watch?v=F--B8zrim0o&t=96s)
 
@@ -26,7 +26,7 @@ Sam Merrill: "Payton is obviously a big addition for us. We're going to miss Max
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=96s](https://www.youtube.com/watch?v=F--B8zrim0o&t=96s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=96&q=3) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=96&q=3&slack=1)</small>
 
 **4. Sam Merrill — "There was a lot of good throughout that season dealing with resiliency and injuries." — Sam Merrill on learning from last season's playoff series** [02:08](https://www.youtube.com/watch?v=F--B8zrim0o&t=128s)
 
@@ -34,7 +34,7 @@ Sam Merrill: "There was a lot of good throughout that season dealing with resili
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=128s](https://www.youtube.com/watch?v=F--B8zrim0o&t=128s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=128&q=4)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=128&q=4) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=128&q=4&slack=1)</small>
 
 **5. Sam Merrill — "Those guys can help us. Mario playing in a bunch of big games over here." — Sam Merrill on the impact of new teammates** [03:23](https://www.youtube.com/watch?v=F--B8zrim0o&t=203s)
 
@@ -42,7 +42,7 @@ Sam Merrill: "Those guys can help us. Like I said before, Mario playing in a bun
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=203s](https://www.youtube.com/watch?v=F--B8zrim0o&t=203s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=203&q=5)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=203&q=5) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=203&q=5&slack=1)</small>
 
 **6. Sam Merrill — "I've always been interested in European basketball just because I always figured that was where I was going." — Sam Merrill on his interest in European basketball** [03:52](https://www.youtube.com/watch?v=F--B8zrim0o&t=232s)
 
@@ -50,7 +50,7 @@ Sam Merrill: "I've always been interested in European basketball just because I 
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=232s](https://www.youtube.com/watch?v=F--B8zrim0o&t=232s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=232&q=6)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=232&q=6) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=232&q=6&slack=1)</small>
 
 **7. Sam Merrill — "Super long, super athletic. There's been a couple times where I've tried to get to a shot." — Sam Merrill on Payton Pritchard's shooting and athleticism** [05:27](https://www.youtube.com/watch?v=F--B8zrim0o&t=327s)
 
@@ -58,7 +58,7 @@ Sam Merrill: "Super long, super athletic. There's been a couple times where I've
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=327s](https://www.youtube.com/watch?v=F--B8zrim0o&t=327s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=327&q=7)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=327&q=7) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=327&q=7&slack=1)</small>
 
 **8. Sam Merrill — "Maybe you feel like you don't have to get out and pressure as much." — Sam Merrill on the team's defensive potential with new roster** [06:07](https://www.youtube.com/watch?v=F--B8zrim0o&t=367s)
 
@@ -66,7 +66,7 @@ Sam Merrill: "Last year we really tried to force a lot of turnovers and deflecti
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=367s](https://www.youtube.com/watch?v=F--B8zrim0o&t=367s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=367&q=8)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=367&q=8) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=367&q=8&slack=1)</small>
 
 **9. Sam Merrill — "He's definitely improved as a roll man, hitting the short roll lobs to Evan and whatnot." — Sam Merrill on Jarrett Allen's playmaking ability** [07:22](https://www.youtube.com/watch?v=F--B8zrim0o&t=442s)
 
@@ -74,7 +74,7 @@ Sam Merrill: "He's definitely improved as a roll man, hitting the short roll lob
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=442s](https://www.youtube.com/watch?v=F--B8zrim0o&t=442s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=442&q=9)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=442&q=9) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=442&q=9&slack=1)</small>
 
 **10. Sam Merrill — "I generally guard the point guard no matter what, but yeah, I think it's the more versatility." — Sam Merrill on his defensive role and versatility** [08:26](https://www.youtube.com/watch?v=F--B8zrim0o&t=506s)
 
@@ -82,7 +82,7 @@ Sam Merrill: "I generally guard the point guard no matter what, but yeah, I thin
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=506s](https://www.youtube.com/watch?v=F--B8zrim0o&t=506s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=506&q=10)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=506&q=10) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=506&q=10&slack=1)</small>
 
 **11. Sam Merrill — "Donovan's always been 100% committed here. I remember when he signed his last extension." — Sam Merrill on Donovan Mitchell's commitment to Cleveland** [09:21](https://www.youtube.com/watch?v=F--B8zrim0o&t=561s)
 
@@ -90,7 +90,7 @@ Sam Merrill: "Donovan's always been 100% committed here. I remember when he sign
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=561s](https://www.youtube.com/watch?v=F--B8zrim0o&t=561s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=561&q=11)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=561&q=11) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=561&q=11&slack=1)</small>
 
 **12. Sam Merrill — "I think that's just the nature of the league and the discussion around it." — Sam Merrill on the nature of NBA trade rumors** [10:36](https://www.youtube.com/watch?v=F--B8zrim0o&t=636s)
 
@@ -98,7 +98,7 @@ Sam Merrill: "I think that's just the nature of the league and the discussion ar
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=636s](https://www.youtube.com/watch?v=F--B8zrim0o&t=636s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=636&q=12)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=636&q=12) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=636&q=12&slack=1)</small>
 
 **13. Sam Merrill — "I'm most excited to hang out with Jared. He was actually mad at me." — Sam Merrill on team bonding during training camp** [12:06](https://www.youtube.com/watch?v=F--B8zrim0o&t=726s)
 
@@ -106,7 +106,7 @@ Sam Merrill: "I'm most excited to hang out with **Jared**. He was actually mad a
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=726s](https://www.youtube.com/watch?v=F--B8zrim0o&t=726s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=726&q=13)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=726&q=13) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=726&q=13&slack=1)</small>
 
 **14. Sam Merrill — "He can really shoot it. And then you combine that with the confidence that he had." — Sam Merrill on Malik Beasley's potential impact** [12:52](https://www.youtube.com/watch?v=F--B8zrim0o&t=772s)
 
@@ -114,7 +114,7 @@ Sam Merrill: "He can really shoot it. And then you combine that with the confide
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=772s](https://www.youtube.com/watch?v=F--B8zrim0o&t=772s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=772&q=14)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=772&q=14) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=772&q=14&slack=1)</small>
 
 **15. Sam Merrill — "The first thing, the most important thing is showing up. All these guys are the first ones." — Sam Merrill on the team's leadership dynamics** [13:31](https://www.youtube.com/watch?v=F--B8zrim0o&t=811s)
 
@@ -122,7 +122,7 @@ Sam Merrill: "I think there's different ways to do it. I think the number one th
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=811s](https://www.youtube.com/watch?v=F--B8zrim0o&t=811s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=811&q=15)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=811&q=15) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=811&q=15&slack=1)</small>
 
 **16. Sam Merrill — "For me, it's just incrementally getting better at everything that I do." — Sam Merrill on his personal goals for the season** [14:35](https://www.youtube.com/watch?v=F--B8zrim0o&t=875s)
 
@@ -130,7 +130,7 @@ Sam Merrill: "For me, it's just incrementally getting better at everything that 
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=875s](https://www.youtube.com/watch?v=F--B8zrim0o&t=875s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=875&q=16)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=875&q=16) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=875&q=16&slack=1)</small>
 
 **17. Sam Merrill — "I've tried to figure out what NBA Europe is and I can't quite figure out what it is." — Sam Merrill on the potential of NBA Europe** [15:25](https://www.youtube.com/watch?v=F--B8zrim0o&t=925s)
 
@@ -138,4 +138,4 @@ Sam Merrill: "I honestly, I've tried to figure out what NBA Europe is and I can'
 
 [https://www.youtube.com/watch?v=F--B8zrim0o&t=925s](https://www.youtube.com/watch?v=F--B8zrim0o&t=925s)
 
-<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=925&q=17)</small>
+<small>[Clip it](presserclips://clip?v=F--B8zrim0o&t=925&q=17) · [Send to Slack](presserclips://clip?v=F--B8zrim0o&t=925&q=17&slack=1)</small>

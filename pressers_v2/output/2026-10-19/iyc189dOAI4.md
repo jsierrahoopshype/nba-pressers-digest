@@ -10,7 +10,7 @@ Robert Williams III: "I'm in a good spot. Been trusting the trainers. I give the
 
 [https://www.youtube.com/watch?v=iyc189dOAI4&t=12s](https://www.youtube.com/watch?v=iyc189dOAI4&t=12s)
 
-<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=12&q=1) · [Send to Slack](presserclips://clip?v=iyc189dOAI4&t=12&q=1&slack=1)</small>
 
 **2. Robert Williams III — "I feel like we got a long way to go, obviously, but I feel like we're hungry." — Robert Williams III on the team's progress and hunger** [01:25](https://www.youtube.com/watch?v=iyc189dOAI4&t=85s)
 
@@ -18,7 +18,7 @@ Robert Williams III: "I feel like we got a long way to go, obviously, but I feel
 
 [https://www.youtube.com/watch?v=iyc189dOAI4&t=85s](https://www.youtube.com/watch?v=iyc189dOAI4&t=85s)
 
-<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=85&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=85&q=2) · [Send to Slack](presserclips://clip?v=iyc189dOAI4&t=85&q=2&slack=1)</small>
 
 **3. Robert Williams III — "Whatever the coverage is, whether you mess it up, whether it's a veer, and it shouldn't have been." — Robert Williams III on defensive communication and accountability** [01:57](https://www.youtube.com/watch?v=iyc189dOAI4&t=117s)
 
@@ -26,7 +26,7 @@ Robert Williams III: "Whatever the coverage is, whether you mess it up, whether 
 
 [https://www.youtube.com/watch?v=iyc189dOAI4&t=117s](https://www.youtube.com/watch?v=iyc189dOAI4&t=117s)
 
-<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=117&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=117&q=3) · [Send to Slack](presserclips://clip?v=iyc189dOAI4&t=117&q=3&slack=1)</small>
 
 **4. Robert Williams III — "Hanson was a baby, he's still a baby, but you know he's a baby when he got here." — Robert Williams III on the development of teammate** [02:35](https://www.youtube.com/watch?v=iyc189dOAI4&t=155s)
 
@@ -34,7 +34,7 @@ Robert Williams III: "**Hanson** was a baby, he's still a baby, but you know he'
 
 [https://www.youtube.com/watch?v=iyc189dOAI4&t=155s](https://www.youtube.com/watch?v=iyc189dOAI4&t=155s)
 
-<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=155&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=155&q=4) · [Send to Slack](presserclips://clip?v=iyc189dOAI4&t=155&q=4&slack=1)</small>
 
 **5. Robert Williams III — "The only selfish person on this team is Shaden. No, I'm talking, I'm talking." — Robert Williams III on the team's culture of sacrifice** [02:58](https://www.youtube.com/watch?v=iyc189dOAI4&t=178s)
 
@@ -42,4 +42,4 @@ Robert Williams III: "The only selfish person on this team is **Shaden**. No, I'
 
 [https://www.youtube.com/watch?v=iyc189dOAI4&t=178s](https://www.youtube.com/watch?v=iyc189dOAI4&t=178s)
 
-<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=178&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iyc189dOAI4&t=178&q=5) · [Send to Slack](presserclips://clip?v=iyc189dOAI4&t=178&q=5&slack=1)</small>

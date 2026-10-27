@@ -14,7 +14,7 @@ Micah Nori: "You can do a lot of different things now. When I mean by that is yo
 
 [https://www.youtube.com/watch?v=HQwN13-FLDA&t=92s](https://www.youtube.com/watch?v=HQwN13-FLDA&t=92s)
 
-<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=92&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=92&q=1) · [Send to Slack](presserclips://clip?v=HQwN13-FLDA&t=92&q=1&slack=1)</small>
 
 **2. Micah Nori (Portland Trail Blazers) — "Getting Rob back was so important to us in my opinion." — Micah Nori emphasizes the importance of Rob Williams and Donovan Clingan as drop defenders** [02:26](https://www.youtube.com/watch?v=HQwN13-FLDA&t=146s)
 
@@ -22,7 +22,7 @@ Micah Nori: "Getting back **Rob** and I have said it many times, getting **Rob**
 
 [https://www.youtube.com/watch?v=HQwN13-FLDA&t=146s](https://www.youtube.com/watch?v=HQwN13-FLDA&t=146s)
 
-<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=146&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=146&q=2) · [Send to Slack](presserclips://clip?v=HQwN13-FLDA&t=146&q=2&slack=1)</small>
 
 **3. Micah Nori (Portland Trail Blazers) — "He can play four because he shoots it well enough." — Micah Nori discusses the versatility of players who can play both power forward and center** [03:07](https://www.youtube.com/watch?v=HQwN13-FLDA&t=187s)
 
@@ -30,7 +30,7 @@ Micah Nori: "He can play four because he shoots it well enough. That is why I th
 
 [https://www.youtube.com/watch?v=HQwN13-FLDA&t=187s](https://www.youtube.com/watch?v=HQwN13-FLDA&t=187s)
 
-<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=187&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=187&q=3) · [Send to Slack](presserclips://clip?v=HQwN13-FLDA&t=187&q=3&slack=1)</small>
 
 **4. Micah Nori (Portland Trail Blazers) — "I am just trying to stay as open-minded as possible." — Micah Nori explains the team's strategy of keeping core players together during training camp scrimmages** [04:32](https://www.youtube.com/watch?v=HQwN13-FLDA&t=272s) (approx.)
 
@@ -38,7 +38,7 @@ Micah Nori: "The one thing we have done and I am going to say our staff and ever
 
 [https://www.youtube.com/watch?v=HQwN13-FLDA&t=272s](https://www.youtube.com/watch?v=HQwN13-FLDA&t=272s)
 
-<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=272&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=272&q=4) · [Send to Slack](presserclips://clip?v=HQwN13-FLDA&t=272&q=4&slack=1)</small>
 
 **5. Micah Nori (Portland Trail Blazers) — "I would rather finish the game than start a game." — Micah Nori emphasizes the importance of closing games over starting lineups** [06:07](https://www.youtube.com/watch?v=HQwN13-FLDA&t=367s)
 
@@ -46,7 +46,7 @@ Micah Nori: "To me, I mean it is easy to say this standing here but like I would
 
 [https://www.youtube.com/watch?v=HQwN13-FLDA&t=367s](https://www.youtube.com/watch?v=HQwN13-FLDA&t=367s)
 
-<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=367&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HQwN13-FLDA&t=367&q=5) · [Send to Slack](presserclips://clip?v=HQwN13-FLDA&t=367&q=5&slack=1)</small>
 
 ---
 

@@ -10,7 +10,7 @@ Micah Nori: "He's good. We saw him today this morning. He still has those sympto
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=18s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=18s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=18&q=1) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=18&q=1&slack=1)</small>
 
 **2. Micah Nori — "Chris Youngblood with his Achilles. He should be, he practiced a little bit today." — Injury updates on Chris Youngblood and Mica** [00:44](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=44s)
 
@@ -18,7 +18,7 @@ Micah Nori: "The only other one I think is **Chris Youngblood** with his Achille
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=44s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=44s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=44&q=2) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=44&q=2&slack=1)</small>
 
 **3. Micah Nori — "I like how Rob put it yesterday. He said we need to f-ing rebound." — The team's focus on collective rebounding effort** [01:22](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=82s)
 
@@ -26,7 +26,7 @@ Micah Nori: "I like how **Rob** put it yesterday. He said we need to f-ing rebou
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=82s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=82s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=82&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=82&q=3) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=82&q=3&slack=1)</small>
 
 **4. Micah Nori — "every drill is a passing drill. There's no difference now, every drill ends with a rebound." — Implementing rebounding drills and finishing possessions** [02:27](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=147s)
 
@@ -34,7 +34,7 @@ Micah Nori: "They say back in the day every drill is a passing drill. So you wan
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=147s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=147s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=147&q=4) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=147&q=4&slack=1)</small>
 
 **5. Micah Nori — "they played together so they see what it looks like full speed all the combinations." — The benefits of playing live scrimmages for team chemistry** [03:39](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=219s)
 
@@ -42,7 +42,7 @@ Micah Nori: "I think the one thing that we've done a good job of is playing and 
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=219s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=219s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=219&q=5)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=219&q=5) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=219&q=5&slack=1)</small>
 
 **6. Micah Nori — "Dale and Greg are our main strength conditioning guys and they've done a really good job." — City's defensive versatility and physical conditioning** [04:27](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=267s)
 
@@ -50,7 +50,7 @@ Micah Nori: "**Dale** and **Greg** are our main strength conditioning guys and t
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=267s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=267s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=267&q=6)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=267&q=6) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=267&q=6&slack=1)</small>
 
 **7. Micah Nori — "he works very hard with John Townson and the PD guys and the one thing about City's shot." — Expanding City's offensive role and shooting development** [05:16](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=316s)
 
@@ -58,7 +58,7 @@ Micah Nori: "He works very hard with **John Townson** and the PD guys and the on
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=316s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=316s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=316&q=7)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=316&q=7) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=316&q=7&slack=1)</small>
 
 **8. Micah Nori — "the fact the camaraderie and just that, I mean, there's no fakeness about it." — The team's genuine camaraderie and lack of cliques** [06:06](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=366s)
 
@@ -66,7 +66,7 @@ Micah Nori: "I think the fact the camaraderie and just that, I mean, there's no 
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=366s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=366s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=366&q=8)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=366&q=8) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=366&q=8&slack=1)</small>
 
 **9. Micah Nori — "I think it helps players stay engaged number one in the timeouts and helps them to lock in." — The strategic value of using ATOs for player engagement** [07:03](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=423s)
 
@@ -74,7 +74,7 @@ Micah Nori: "I think it helps players stay engaged number one in the timeouts an
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=423s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=423s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=423&q=9)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=423&q=9) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=423&q=9&slack=1)</small>
 
 **10. Micah Nori — "brutal truths is the one thing I learned from Chris Finch and what I mean by that." — Emphasizing sacrifice and collective responsibility within the team** [08:00](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=480s)
 
@@ -82,7 +82,7 @@ Micah Nori: "Brutal truths is the one thing I learned from **Chris Finch** and w
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=480s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=480s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=480&q=10)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=480&q=10) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=480&q=10&slack=1)</small>
 
 **11. Micah Nori — "I think that, um, I think for sure we will go, uh, 10 deep. Absolutely." — The team's plan to utilize a 10-man rotation** [09:28](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=568s)
 
@@ -90,4 +90,4 @@ Micah Nori: "I think that, um, I think for sure we will go, uh, 10 deep. Absolut
 
 [https://www.youtube.com/watch?v=4ISPaY8LRj4&t=568s](https://www.youtube.com/watch?v=4ISPaY8LRj4&t=568s)
 
-<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=568&q=11)</small>
+<small>[Clip it](presserclips://clip?v=4ISPaY8LRj4&t=568&q=11) · [Send to Slack](presserclips://clip?v=4ISPaY8LRj4&t=568&q=11&slack=1)</small>

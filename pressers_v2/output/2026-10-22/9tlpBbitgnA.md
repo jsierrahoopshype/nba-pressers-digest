@@ -10,7 +10,7 @@ Anthony Edwards: "**D'Angelo Russell** got everybody involved as he always do, a
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=6s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=6s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=6&q=1) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=6&q=1&slack=1)</small>
 
 **2. Anthony Edwards — "I don't have the ball up every time anymore. When D'Angelo Russell go out, I got Taurean Prince, I got Jaden McDaniels." — Anthony Edwards on how teammates simplify his offensive role** [00:23](https://www.youtube.com/watch?v=9tlpBbitgnA&t=23s)
 
@@ -18,7 +18,7 @@ Anthony Edwards: "I don't have the ball up every time anymore. When **D'Angelo R
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=23s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=23s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=23&q=2)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=23&q=2) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=23&q=2&slack=1)</small>
 
 **3. Anthony Edwards — "I think Chris Finch did that on purpose. I think it was smart." — Anthony Edwards on Chris Finch's rotation strategy** [00:42](https://www.youtube.com/watch?v=9tlpBbitgnA&t=42s)
 
@@ -26,7 +26,7 @@ Anthony Edwards: "I think **Chris Finch** did that on purpose. I think it was sm
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=42s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=42s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=42&q=3)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=42&q=3) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=42&q=3&slack=1)</small>
 
 **4. Anthony Edwards — "I think Tim Connelly did a great job of going to get him and I'm happy he's here." — Anthony Edwards on Tim Connelly's acquisition of Jaden McDaniels** [00:56](https://www.youtube.com/watch?v=9tlpBbitgnA&t=56s)
 
@@ -34,7 +34,7 @@ Anthony Edwards: "**Jaden McDaniels** played phenomenal tonight. Everybody know 
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=56s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=56s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=56&q=4)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=56&q=4) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=56&q=4&slack=1)</small>
 
 **5. Anthony Edwards — "They never been a blitzing team. They always just show or switch." — Anthony Edwards on the team's defensive switching scheme** [01:15](https://www.youtube.com/watch?v=9tlpBbitgnA&t=75s)
 
@@ -42,7 +42,7 @@ Anthony Edwards: "They never been a blitzing team. They always just show or swit
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=75s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=75s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=75&q=5)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=75&q=5) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=75&q=5&slack=1)</small>
 
 **6. Anthony Edwards — "My wife sent me a picture of my daughter watching the game, staying up past her bedtime." — Anthony Edwards on personal motivation from his family** [01:40](https://www.youtube.com/watch?v=9tlpBbitgnA&t=100s)
 
@@ -50,7 +50,7 @@ Anthony Edwards: "My wife sent me a picture of my daughter watching the game, st
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=100s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=100s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=100&q=6)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=100&q=6) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=100&q=6&slack=1)</small>
 
 **7. Anthony Edwards — "That's not really a goal of mine. I just want to win as a team." — Anthony Edwards on his focus on team success over individual accolades** [02:18](https://www.youtube.com/watch?v=9tlpBbitgnA&t=138s)
 
@@ -58,7 +58,7 @@ Anthony Edwards: "That's not really a goal of mine. I just want to win as a team
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=138s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=138s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=138&q=7)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=138&q=7) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=138&q=7&slack=1)</small>
 
 **8. Anthony Edwards — "A player on their bench was talking trash at one of the dead ball situations." — Anthony Edwards on responding to trash talk from opposing benches** [02:39](https://www.youtube.com/watch?v=9tlpBbitgnA&t=159s)
 
@@ -66,7 +66,7 @@ Anthony Edwards: "A player on their bench was talking trash at one of the dead b
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=159s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=159s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=159&q=8)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=159&q=8) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=159&q=8&slack=1)</small>
 
 **9. Anthony Edwards — "We need him to be ultra-aggressive at all times because every team knows that he can pass." — Anthony Edwards on the need for D'Angelo Russell to be aggressive** [03:52](https://www.youtube.com/watch?v=9tlpBbitgnA&t=232s)
 
@@ -74,7 +74,7 @@ Anthony Edwards: "We need him to be ultra-aggressive at all times because every 
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=232s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=232s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=232&q=9)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=232&q=9) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=232&q=9&slack=1)</small>
 
 **10. Anthony Edwards — "I give all credit to Chris Finch, my coach. He don't let me take a day off." — Anthony Edwards on his development as a shooter under Chris Finch** [04:43](https://www.youtube.com/watch?v=9tlpBbitgnA&t=283s)
 
@@ -82,4 +82,4 @@ Anthony Edwards: "I give all credit to **Chris Finch**, my coach. He don't let m
 
 [https://www.youtube.com/watch?v=9tlpBbitgnA&t=283s](https://www.youtube.com/watch?v=9tlpBbitgnA&t=283s)
 
-<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=283&q=10)</small>
+<small>[Clip it](presserclips://clip?v=9tlpBbitgnA&t=283&q=10) · [Send to Slack](presserclips://clip?v=9tlpBbitgnA&t=283&q=10&slack=1)</small>

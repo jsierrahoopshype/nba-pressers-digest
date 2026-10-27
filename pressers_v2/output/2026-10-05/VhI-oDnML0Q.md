@@ -10,7 +10,7 @@ Charles Lee: "We're excited to be able to get a preseason game under our belt. T
 
 [https://www.youtube.com/watch?v=VhI-oDnML0Q&t=1s](https://www.youtube.com/watch?v=VhI-oDnML0Q&t=1s)
 
-<small>[Clip it](presserclips://clip?v=VhI-oDnML0Q&t=1&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VhI-oDnML0Q&t=1&q=1) · [Send to Slack](presserclips://clip?v=VhI-oDnML0Q&t=1&q=1&slack=1)</small>
 
 **2. Charles Lee — "Especially your main players have to realize you're going to get touched as part of the game" — Charles Lee on teaching players to handle increased physical defensive play** [00:50](https://www.youtube.com/watch?v=VhI-oDnML0Q&t=50s)
 
@@ -18,7 +18,7 @@ Charles Lee: "Our guys are just way more aware of it now. Early on, when you're 
 
 [https://www.youtube.com/watch?v=VhI-oDnML0Q&t=50s](https://www.youtube.com/watch?v=VhI-oDnML0Q&t=50s)
 
-<small>[Clip it](presserclips://clip?v=VhI-oDnML0Q&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VhI-oDnML0Q&t=50&q=2) · [Send to Slack](presserclips://clip?v=VhI-oDnML0Q&t=50&q=2&slack=1)</small>
 
 **3. Charles Lee — "It's all an opportunity to keep learning about our group, keep learning combinations" — Charles Lee on the importance of preseason for learning team combinations** [01:40](https://www.youtube.com/watch?v=VhI-oDnML0Q&t=100s)
 
@@ -26,4 +26,4 @@ Charles Lee: "Every day is important. Practice days are extremely important. The
 
 [https://www.youtube.com/watch?v=VhI-oDnML0Q&t=100s](https://www.youtube.com/watch?v=VhI-oDnML0Q&t=100s)
 
-<small>[Clip it](presserclips://clip?v=VhI-oDnML0Q&t=100&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VhI-oDnML0Q&t=100&q=3) · [Send to Slack](presserclips://clip?v=VhI-oDnML0Q&t=100&q=3&slack=1)</small>

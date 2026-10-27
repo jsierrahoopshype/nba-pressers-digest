@@ -10,7 +10,7 @@ Sam Merrill: "It's an ongoing process of just trying to continue to grow your me
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=7s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=7s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=7&q=1) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=7&q=1&slack=1)</small>
 
 **2. Sam Merrill — "Me and Jaylon have gone pretty close and we've talked a lot about stuff like that." — Sam Merrill on Jaylon Tyson's growth and maturity** [00:50](https://www.youtube.com/watch?v=g5rh9mh012Q&t=50s)
 
@@ -18,7 +18,7 @@ Sam Merrill: "Me and Jaylon have gone pretty close and we've talked a lot about 
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=50s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=50s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=50&q=2) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=50&q=2&slack=1)</small>
 
 **3. Sam Merrill — "It's about trying to really lock in and make big-time winning plays." — Sam Merrill on the importance of maintaining leads and closing out games** [01:33](https://www.youtube.com/watch?v=g5rh9mh012Q&t=93s)
 
@@ -26,7 +26,7 @@ Sam Merrill: "It's about trying to really lock in and make big-time winning play
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=93s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=93s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=93&q=3)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=93&q=3) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=93&q=3&slack=1)</small>
 
 **4. Sam Merrill — "Our half-court defense in Game 1 was really good the whole game." — Sam Merrill on the team's defensive improvements** [03:07](https://www.youtube.com/watch?v=g5rh9mh012Q&t=187s)
 
@@ -34,7 +34,7 @@ Sam Merrill: "Our half-court defense in Game 1 was really good the whole game. O
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=187s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=187s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=187&q=4)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=187&q=4) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=187&q=4&slack=1)</small>
 
 **5. Jaylon Tyson — "I love Sam Merrill. That's like a brother to me." — Jaylon Tyson on his relationship with Sam Merrill** [03:49](https://www.youtube.com/watch?v=g5rh9mh012Q&t=229s)
 
@@ -42,7 +42,7 @@ Jaylon Tyson: "I love **Sam Merrill**. That's like a brother to me and I think h
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=229s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=229s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=229&q=5)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=229&q=5) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=229&q=5&slack=1)</small>
 
 **6. Jaylon Tyson — "The most important thing is not playing the score." — Jaylon Tyson on the team's need to focus on finishing games** [04:19](https://www.youtube.com/watch?v=g5rh9mh012Q&t=259s)
 
@@ -50,7 +50,7 @@ Jaylon Tyson: "The most important thing is not playing the score. I think at hal
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=259s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=259s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=259&q=6)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=259&q=6) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=259&q=6&slack=1)</small>
 
 **7. Jaylon Tyson — "Our job is just make his job as difficult as possible and then we'll live with the results." — Jaylon Tyson on his defensive mindset against elite players** [05:05](https://www.youtube.com/watch?v=g5rh9mh012Q&t=305s)
 
@@ -58,7 +58,7 @@ Jaylon Tyson: "I think it's just another opportunity to go out there and make hi
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=305s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=305s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=305&q=7)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=305&q=7) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=305&q=7&slack=1)</small>
 
 **8. Jaylon Tyson — "I could definitely be a pressure release for those guys." — Jaylon Tyson on his role as a pressure release for teammates** [05:31](https://www.youtube.com/watch?v=g5rh9mh012Q&t=331s)
 
@@ -66,7 +66,7 @@ Jaylon Tyson: "I could definitely be a pressure release for those guys, you know
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=331s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=331s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=331&q=8)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=331&q=8) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=331&q=8&slack=1)</small>
 
 **9. Jaylon Tyson — "It starts with the individual defense, you know, not they're a heavy ISO team." — Jaylon Tyson on defending ball-dominant players** [06:09](https://www.youtube.com/watch?v=g5rh9mh012Q&t=369s)
 
@@ -74,7 +74,7 @@ Jaylon Tyson: "It starts with the individual defense, you know, not they're a he
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=369s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=369s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=369&q=9)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=369&q=9) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=369&q=9&slack=1)</small>
 
 **10. Jaylon Tyson — "I think it's a balance. Everybody learns different ways, right?" — Jaylon Tyson on building team chemistry and communication** [06:50](https://www.youtube.com/watch?v=g5rh9mh012Q&t=410s)
 
@@ -82,7 +82,7 @@ Jaylon Tyson: "I think it's a balance. Everybody learns different ways, right? P
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=410s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=410s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=410&q=10)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=410&q=10) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=410&q=10&slack=1)</small>
 
 **11. Jaylon Tyson — "We got to figure out ways to win and figure out ways to to keep that the leads." — Jaylon Tyson on the team's underdog mentality** [07:33](https://www.youtube.com/watch?v=g5rh9mh012Q&t=453s)
 
@@ -90,7 +90,7 @@ Jaylon Tyson: "We got to figure out ways to win and figure out ways to to keep t
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=453s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=453s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=453&q=11)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=453&q=11) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=453&q=11&slack=1)</small>
 
 **12. Jaylon Tyson — "We're protecting our paint. I think that's something that we're doing really well." — Jaylon Tyson on the team's defensive progress** [08:17](https://www.youtube.com/watch?v=g5rh9mh012Q&t=497s)
 
@@ -98,4 +98,4 @@ Jaylon Tyson: "We're protecting our paint. I think that's something that we're d
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=497s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=497s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=497&q=12)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=497&q=12) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=497&q=12&slack=1)</small>

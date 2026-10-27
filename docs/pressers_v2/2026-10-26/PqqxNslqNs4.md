@@ -10,7 +10,7 @@ J.B. Bickerstaff: "We just want to be playing good basketball, and that's got to
 
 [https://www.youtube.com/watch?v=PqqxNslqNs4&t=12s](https://www.youtube.com/watch?v=PqqxNslqNs4&t=12s)
 
-<small>[Clip it](presserclips://clip?v=PqqxNslqNs4&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PqqxNslqNs4&t=12&q=1) · [Send to Slack](presserclips://clip?v=PqqxNslqNs4&t=12&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "He plays with a maturity and poise that's well beyond his years." — J.B. Bickerstaff praises rookie's maturity and poise in NBA debut** [00:42](https://www.youtube.com/watch?v=PqqxNslqNs4&t=42s)
 
@@ -18,4 +18,4 @@ J.B. Bickerstaff: "We love him. Obviously, he plays with a maturity and poise th
 
 [https://www.youtube.com/watch?v=PqqxNslqNs4&t=42s](https://www.youtube.com/watch?v=PqqxNslqNs4&t=42s)
 
-<small>[Clip it](presserclips://clip?v=PqqxNslqNs4&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PqqxNslqNs4&t=42&q=2) · [Send to Slack](presserclips://clip?v=PqqxNslqNs4&t=42&q=2&slack=1)</small>

@@ -10,7 +10,7 @@ Brandon Miller: "I would just say the comfortability, just finding what I like t
 
 [https://www.youtube.com/watch?v=M7FHj0znMrY&t=21s](https://www.youtube.com/watch?v=M7FHj0znMrY&t=21s)
 
-<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=21&q=1)</small>
+<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=21&q=1) · [Send to Slack](presserclips://clip?v=M7FHj0znMrY&t=21&q=1&slack=1)</small>
 
 **2. Brandon Miller — "we hit him in the post a lot, usually more than likely most teams won't help off of me" — Brandon Miller on playing in a two-man game with Naz Reid** [00:50](https://www.youtube.com/watch?v=M7FHj0znMrY&t=50s)
 
@@ -18,7 +18,7 @@ Brandon Miller: "A lot of different sources to go to with me and Naz. I feel lik
 
 [https://www.youtube.com/watch?v=M7FHj0znMrY&t=50s](https://www.youtube.com/watch?v=M7FHj0znMrY&t=50s)
 
-<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=50&q=2) · [Send to Slack](presserclips://clip?v=M7FHj0znMrY&t=50&q=2&slack=1)</small>
 
 **3. Brandon Miller — "when we play fast it makes teams switch up their coverages more than likely other times" — Brandon Miller on the team's fast-paced offensive execution** [01:34](https://www.youtube.com/watch?v=M7FHj0znMrY&t=94s)
 
@@ -26,7 +26,7 @@ Brandon Miller: "I think just playing to our strengths. Obviously we are going t
 
 [https://www.youtube.com/watch?v=M7FHj0znMrY&t=94s](https://www.youtube.com/watch?v=M7FHj0znMrY&t=94s)
 
-<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=94&q=3)</small>
+<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=94&q=3) · [Send to Slack](presserclips://clip?v=M7FHj0znMrY&t=94&q=3&slack=1)</small>
 
 **4. Brandon Miller — "he guards everybody's best player, great defender, great full-court defender" — Brandon Miller on Scoot Henderson's growth as a point guard** [02:12](https://www.youtube.com/watch?v=M7FHj0znMrY&t=132s)
 
@@ -34,7 +34,7 @@ Brandon Miller: "As a point guard now we trust him just to bring the ball up the
 
 [https://www.youtube.com/watch?v=M7FHj0znMrY&t=132s](https://www.youtube.com/watch?v=M7FHj0znMrY&t=132s)
 
-<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=132&q=4)</small>
+<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=132&q=4) · [Send to Slack](presserclips://clip?v=M7FHj0znMrY&t=132&q=4&slack=1)</small>
 
 **5. Brandon Miller — "having guys like Grayson, Royse, Lee, people that has been around before, it helps us as young guys" — Brandon Miller on the team's chemistry with new additions** [02:52](https://www.youtube.com/watch?v=M7FHj0znMrY&t=172s)
 
@@ -42,7 +42,7 @@ Brandon Miller: "The connection is there. We have been together since the summer
 
 [https://www.youtube.com/watch?v=M7FHj0znMrY&t=172s](https://www.youtube.com/watch?v=M7FHj0znMrY&t=172s)
 
-<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=172&q=5)</small>
+<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=172&q=5) · [Send to Slack](presserclips://clip?v=M7FHj0znMrY&t=172&q=5&slack=1)</small>
 
 **6. Brandon Miller — "he is more of a better shooter than me on the three-point line" — Brandon Miller on Royse O'Neal's shooting and veteran presence** [03:35](https://www.youtube.com/watch?v=M7FHj0znMrY&t=215s)
 
@@ -50,7 +50,7 @@ Brandon Miller: "I think he is more of a better shooter than me on the three-poi
 
 [https://www.youtube.com/watch?v=M7FHj0znMrY&t=215s](https://www.youtube.com/watch?v=M7FHj0znMrY&t=215s)
 
-<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=215&q=6)</small>
+<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=215&q=6) · [Send to Slack](presserclips://clip?v=M7FHj0znMrY&t=215&q=6&slack=1)</small>
 
 **7. Brandon Miller — "having that kind of space is going to give me more room to work" — Brandon Miller on exploiting mismatches and spacing** [04:32](https://www.youtube.com/watch?v=M7FHj0znMrY&t=272s)
 
@@ -58,4 +58,4 @@ Brandon Miller: "Taking advantage of smaller defenders, slower defenders. I thin
 
 [https://www.youtube.com/watch?v=M7FHj0znMrY&t=272s](https://www.youtube.com/watch?v=M7FHj0znMrY&t=272s)
 
-<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=272&q=7)</small>
+<small>[Clip it](presserclips://clip?v=M7FHj0znMrY&t=272&q=7) · [Send to Slack](presserclips://clip?v=M7FHj0znMrY&t=272&q=7&slack=1)</small>

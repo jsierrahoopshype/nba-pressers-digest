@@ -10,7 +10,7 @@ Jamahl Mosley: "The minutes will look similar. I think someone asked me the ques
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=164s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=164s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=164&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=164&q=1) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=164&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "We've talked about where we want to be defensively, how we want to play offensively." — Jamahl Mosley on team defensive and offensive development** [03:19](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=199s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "We've talked about where we want to be defensively, how we want 
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=199s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=199s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=199&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=199&q=2) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=199&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "These are the best players in the league in the world and you want to have them to be creative." — Jamahl Mosley on empowering player creativity within the team system** [04:15](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=255s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "These are the best players in the league in the world and you wa
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=255s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=255s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=255&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=255&q=3) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=255&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "I'm not chasing the results. That's what I think, you know, wins, losses, those are coming one way or the other." — Jamahl Mosley on prioritizing process over chasing game results** [05:14](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=314s)
 
@@ -34,4 +34,4 @@ Jamahl Mosley: "I'm not chasing the results. That's what I think, you know, wins
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=314s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=314s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=314&q=4)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=314&q=4) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=314&q=4&slack=1)</small>

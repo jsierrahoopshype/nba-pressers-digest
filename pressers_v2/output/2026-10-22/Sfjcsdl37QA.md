@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Kyle Kuzma_
 
 [https://www.youtube.com/watch?v=Sfjcsdl37QA&t=0s](https://www.youtube.com/watch?v=Sfjcsdl37QA&t=0s)
 
-<small>[Clip it](presserclips://clip?v=Sfjcsdl37QA&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Sfjcsdl37QA&t=0&q=1) · [Send to Slack](presserclips://clip?v=Sfjcsdl37QA&t=0&q=1&slack=1)</small>
 
 **2. Kyle Kuzma — "the biggest thing is just the paint and the free throws." — Kyle Kuzma on defensive breakdowns in the paint and free throws** [00:37](https://www.youtube.com/watch?v=Sfjcsdl37QA&t=37s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Kyle Kuzma_
 
 [https://www.youtube.com/watch?v=Sfjcsdl37QA&t=37s](https://www.youtube.com/watch?v=Sfjcsdl37QA&t=37s)
 
-<small>[Clip it](presserclips://clip?v=Sfjcsdl37QA&t=37&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Sfjcsdl37QA&t=37&q=2) · [Send to Slack](presserclips://clip?v=Sfjcsdl37QA&t=37&q=2&slack=1)</small>
 
 **3. Kyle Kuzma — "we had some movement, we had some good plays." — Kyle Kuzma on offensive spacing and playmaking movement** [01:11](https://www.youtube.com/watch?v=Sfjcsdl37QA&t=71s)
 
@@ -32,4 +32,4 @@ _Speakers identified: Unidentified speaker, Kyle Kuzma_
 
 [https://www.youtube.com/watch?v=Sfjcsdl37QA&t=71s](https://www.youtube.com/watch?v=Sfjcsdl37QA&t=71s)
 
-<small>[Clip it](presserclips://clip?v=Sfjcsdl37QA&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Sfjcsdl37QA&t=71&q=3) · [Send to Slack](presserclips://clip?v=Sfjcsdl37QA&t=71&q=3&slack=1)</small>

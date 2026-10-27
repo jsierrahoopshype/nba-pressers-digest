@@ -10,7 +10,7 @@ Tyronn Lue: "Just his demeanor, I think. He doesn't get rattled. He can miss sho
 
 [https://www.youtube.com/watch?v=DaJGsGs6XMk&t=25s](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=25s)
 
-<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=25&q=1) · [Send to Slack](presserclips://clip?v=DaJGsGs6XMk&t=25&q=1&slack=1)</small>
 
 **2. Tyronn Lue — "it's been Darius, Max, Rui, D.J., and Isaiah" — Tyronn Lue on the team's initial starting five** [00:50](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=50s)
 
@@ -18,7 +18,7 @@ Tyronn Lue: "To start it's been Darius, Max, Rui, D.J., and Isaiah."
 
 [https://www.youtube.com/watch?v=DaJGsGs6XMk&t=50s](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=50s)
 
-<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=50&q=2) · [Send to Slack](presserclips://clip?v=DaJGsGs6XMk&t=50&q=2&slack=1)</small>
 
 **3. Kobe Brown — "I've been trying to guard Darius every time I can" — Kobe Brown on his defensive focus during training camp** [02:34](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=154s)
 
@@ -26,7 +26,7 @@ Kobe Brown: "It's all just effort on that side of the ball, the one-two, and tha
 
 [https://www.youtube.com/watch?v=DaJGsGs6XMk&t=154s](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=154s)
 
-<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=154&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=154&q=3) · [Send to Slack](presserclips://clip?v=DaJGsGs6XMk&t=154&q=3&slack=1)</small>
 
 **4. Kobe Brown — "he's pushed all of us, he's always working hard, getting up extra shots" — Kobe Brown on the team's point guard play** [03:16](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=196s)
 
@@ -34,7 +34,7 @@ Kobe Brown: "He's been really good. He's pushed all of us, I'd say. He's always 
 
 [https://www.youtube.com/watch?v=DaJGsGs6XMk&t=196s](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=196s)
 
-<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=196&q=4)</small>
+<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=196&q=4) · [Send to Slack](presserclips://clip?v=DaJGsGs6XMk&t=196&q=4&slack=1)</small>
 
 **5. Bones Hyland — "I feel like we're iron sharpening iron right now, going against each other every single day" — Bones Hyland on the intensity of training camp** [06:15](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=375s)
 
@@ -42,7 +42,7 @@ Bones Hyland: "It's been great. I feel like we're iron sharpening iron right now
 
 [https://www.youtube.com/watch?v=DaJGsGs6XMk&t=375s](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=375s)
 
-<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=375&q=5)</small>
+<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=375&q=5) · [Send to Slack](presserclips://clip?v=DaJGsGs6XMk&t=375&q=5&slack=1)</small>
 
 **6. Bones Hyland — "knowing kind of a next-man-up mentality with whoever it is" — Bones Hyland on the team's next-man-up mentality** [07:15](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=435s)
 
@@ -50,4 +50,4 @@ Bones Hyland: "I think it's just knowing kind of a next-man-up mentality with wh
 
 [https://www.youtube.com/watch?v=DaJGsGs6XMk&t=435s](https://www.youtube.com/watch?v=DaJGsGs6XMk&t=435s)
 
-<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=435&q=6)</small>
+<small>[Clip it](presserclips://clip?v=DaJGsGs6XMk&t=435&q=6) · [Send to Slack](presserclips://clip?v=DaJGsGs6XMk&t=435&q=6&slack=1)</small>

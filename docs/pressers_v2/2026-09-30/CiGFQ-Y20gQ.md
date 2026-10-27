@@ -10,7 +10,7 @@ Baylor Scheierman: "I just think I have continued to improve my body, my explosi
 
 [https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=77s](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=77s)
 
-<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=77&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=77&q=1) · [Send to Slack](presserclips://clip?v=CiGFQ-Y20gQ&t=77&q=1&slack=1)</small>
 
 **2. Baylor Scheierman — "nutrition has been a big part of it as well" — Baylor Scheierman credits consistent nutrition and training for his physical transformation.** [01:55](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=115s)
 
@@ -18,7 +18,7 @@ Baylor Scheierman: "I think it is really just consistency with it and then also 
 
 [https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=115s](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=115s)
 
-<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=115&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=115&q=2) · [Send to Slack](presserclips://clip?v=CiGFQ-Y20gQ&t=115&q=2&slack=1)</small>
 
 **3. Baylor Scheierman — "I have the ultimate confidence in myself" — Baylor Scheierman remains focused on daily improvement and his confidence in impacting winning.** [08:34](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=514s)
 
@@ -26,4 +26,4 @@ Baylor Scheierman: "I don't know. I think maybe a little bit. But at the same ti
 
 [https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=514s](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=514s)
 
-<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=514&q=3)</small>
+<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=514&q=3) · [Send to Slack](presserclips://clip?v=CiGFQ-Y20gQ&t=514&q=3&slack=1)</small>

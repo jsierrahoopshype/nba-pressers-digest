@@ -10,7 +10,7 @@ Jordan Ott: "**Luka Doncic** is trending in that way. He went through the full p
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=13s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=13s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=13&q=1) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=13&q=1&slack=1)</small>
 
 **2. Jordan Ott — "Their minutes almost depend on our depth. Are we healthy? Are we able to go a little deeper?" — Managing minutes for Booker, Beal, and Durant** [00:35](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=35s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "Their minutes almost depend on our depth. Are we healthy? Are we ab
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=35s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=35s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=35&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=35&q=2) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=35&q=2&slack=1)</small>
 
 **3. Jordan Ott — "We know we need some type of thrust to the rim, whether that's the ball, a roller, a cutter." — The team's offensive emphasis on paint touches** [01:03](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=63s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "We've made an emphasis there, but we've also looked at the numbers 
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=63s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=63s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=63&q=3)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=63&q=3) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=63&q=3&slack=1)</small>
 
 **4. Jordan Ott — "He's a connector on the court, he's a connector off the court." — The impact of a player's extension on team chemistry** [02:17](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=137s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "He's done such a great job of just in the 15 months that I've been 
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=137s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=137s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=137&q=4)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=137&q=4) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=137&q=4&slack=1)</small>
 
 **5. Jordan Ott — "The way you approach your job is to try to go all out all the time." — The team's culture and habits on the court** [03:22](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=202s)
 
@@ -42,7 +42,7 @@ Jordan Ott: "I think it's stuff that you see in a game on the court and it's stu
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=202s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=202s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=202&q=5)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=202&q=5) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=202&q=5&slack=1)</small>
 
 **6. Jordan Ott — "He's almost an experienced young guy at this point. He has NBA experience." — Expectations for a new player's integration** [04:46](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=286s)
 
@@ -50,7 +50,7 @@ Jordan Ott: "He's another one of those connectors. His skill level, he's almost 
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=286s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=286s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=286&q=6)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=286&q=6) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=286&q=6&slack=1)</small>
 
 **7. Jordan Ott — "Elite shooting teams don't necessarily need to touch the paint." — The discrepancy between paint touches and offensive analytics** [06:53](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=413s)
 
@@ -58,7 +58,7 @@ Jordan Ott: "Some teams can get high quality shots and just number of paint touc
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=413s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=413s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=413&q=7)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=413&q=7) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=413&q=7&slack=1)</small>
 
 **8. Jordan Ott — "We found times during the year it would change based on how the defense was guarding." — Adapting offensive movement based on defensive schemes** [08:11](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=491s)
 
@@ -66,4 +66,4 @@ Jordan Ott: "We found times during the year it would change based on how the def
 
 [https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=491s](https://www.youtube.com/watch?v=UHAAm9Wd7QA&t=491s)
 
-<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=491&q=8)</small>
+<small>[Clip it](presserclips://clip?v=UHAAm9Wd7QA&t=491&q=8) · [Send to Slack](presserclips://clip?v=UHAAm9Wd7QA&t=491&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ Micah Nori: "It's exactly what we thought we were going to do was come out and g
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=5s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=5s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=5&q=1) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=5&q=1&slack=1)</small>
 
 **2. Micah Nori — "Jaylen Green and obviously Devin Booker provided a lot of challenges, especially when we do start a little bit small." — Micah Nori on defensive physicality and challenging opposing stars** [00:58](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=58s)
 
@@ -18,7 +18,7 @@ Micah Nori: "I thought all the guys, especially just from the start of the game,
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=58s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=58s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=58&q=2) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=58&q=2&slack=1)</small>
 
 **3. Micah Nori — "I think the one thing that helps Dame is he doesn't have to bring it up and play pick and roll." — Micah Nori on team playmaking and reducing reliance on one player** [01:42](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=102s)
 
@@ -26,7 +26,7 @@ Micah Nori: "I think the one thing that helps **Dame** is he doesn't have to bri
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=102s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=102s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=102&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=102&q=3) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=102&q=3&slack=1)</small>
 
 **4. Micah Nori — "Dame is really good screener and a lot of times with setting the rip screens and that type of stuff." — Micah Nori on Dame's role as a screener in the offense** [02:17](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=137s)
 
@@ -34,7 +34,7 @@ Micah Nori: "I think the one thing that we've done, **Dame** is really good scre
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=137s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=137s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=137&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=137&q=4) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=137&q=4&slack=1)</small>
 
 **5. Micah Nori — "He's competing at the highest level now because he knows that he's on a team that has a chance." — Micah Nori on Ja's competitive growth and defensive impact** [03:13](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=193s)
 
@@ -42,7 +42,7 @@ Micah Nori: "I think it will look like, like we talk about and I know it's just 
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=193s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=193s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=193&q=5)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=193&q=5) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=193&q=5&slack=1)</small>
 
 **6. Micah Nori — "His catch and shoot threes in our practice facility since labor days like 52%." — Micah Nori on Tumani's shooting development and spacing impact** [04:06](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=246s)
 
@@ -50,4 +50,4 @@ Micah Nori: "His catch and shoot threes in our practice facility since labor day
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=246s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=246s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=246&q=6)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=246&q=6) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=246&q=6&slack=1)</small>

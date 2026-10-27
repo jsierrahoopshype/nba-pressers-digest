@@ -10,7 +10,7 @@ Pete Nance: "I have it has been this is my third team, but I would say just like
 
 [https://www.youtube.com/watch?v=FDELf-YtVVE&t=37s](https://www.youtube.com/watch?v=FDELf-YtVVE&t=37s)
 
-<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=37&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=37&q=1) · [Send to Slack](presserclips://clip?v=FDELf-YtVVE&t=37&q=1&slack=1)</small>
 
 **2. Pete Nance — "I think it just helps us think about the game more" — Pete Nance explains how new, constrained practice drills help players think better during games.** [01:55](https://www.youtube.com/watch?v=FDELf-YtVVE&t=115s)
 
@@ -18,7 +18,7 @@ Pete Nance: "Putting us in different situations. A lot of the times we do just, 
 
 [https://www.youtube.com/watch?v=FDELf-YtVVE&t=115s](https://www.youtube.com/watch?v=FDELf-YtVVE&t=115s)
 
-<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=115&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=115&q=2) · [Send to Slack](presserclips://clip?v=FDELf-YtVVE&t=115&q=2&slack=1)</small>
 
 **3. Pete Nance — "I think we have got a young, hungry group" — Pete Nance describes the current Milwaukee Bucks training camp as highly competitive and hungry.** [03:59](https://www.youtube.com/watch?v=FDELf-YtVVE&t=239s)
 
@@ -26,4 +26,4 @@ Pete Nance: "I think just a lot more competitive. You know, I think we have got 
 
 [https://www.youtube.com/watch?v=FDELf-YtVVE&t=239s](https://www.youtube.com/watch?v=FDELf-YtVVE&t=239s)
 
-<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=239&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=239&q=3) · [Send to Slack](presserclips://clip?v=FDELf-YtVVE&t=239&q=3&slack=1)</small>

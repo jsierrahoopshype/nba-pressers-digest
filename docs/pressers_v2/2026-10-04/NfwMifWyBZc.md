@@ -18,7 +18,7 @@ _Speakers identified: Draymond Green, Andrew Wiggins, Stephen Curry, Brandin Pod
 
 [https://www.youtube.com/watch?v=NfwMifWyBZc&t=48s](https://www.youtube.com/watch?v=NfwMifWyBZc&t=48s)
 
-<small>[Clip it](presserclips://clip?v=NfwMifWyBZc&t=48&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NfwMifWyBZc&t=48&q=1) · [Send to Slack](presserclips://clip?v=NfwMifWyBZc&t=48&q=1&slack=1)</small>
 
 **2. "Do you have my sword? You better not have my sword, man." — Moses Moody asks about his sword prop** [01:00](https://www.youtube.com/watch?v=NfwMifWyBZc&t=60s)
 
@@ -30,4 +30,4 @@ _Speakers identified: Draymond Green, Andrew Wiggins, Stephen Curry, Brandin Pod
 
 [https://www.youtube.com/watch?v=NfwMifWyBZc&t=60s](https://www.youtube.com/watch?v=NfwMifWyBZc&t=60s)
 
-<small>[Clip it](presserclips://clip?v=NfwMifWyBZc&t=60&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NfwMifWyBZc&t=60&q=2) · [Send to Slack](presserclips://clip?v=NfwMifWyBZc&t=60&q=2&slack=1)</small>

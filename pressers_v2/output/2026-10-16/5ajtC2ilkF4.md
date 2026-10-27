@@ -10,7 +10,7 @@ Dillon Brooks: "I see a lot coming from Ryan and I'm intrigued to see his progre
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=34s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=34s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=34&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=34&q=1) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=34&q=1&slack=1)</small>
 
 **2. Dillon Brooks — "The composure and the way he thinks the game." — Dillon Brooks on what he brings to the Suns** [01:26](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=86s)
 
@@ -18,7 +18,7 @@ Dillon Brooks: "The composure and the way he thinks the game."
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=86s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=86s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=86&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=86&q=2) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=86&q=2&slack=1)</small>
 
 **3. Dillon Brooks — "When adversity is hitting during the game, calls not going your way, shots not falling." — Dillon Brooks on maintaining composure during adversity** [01:42](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=102s)
 
@@ -26,7 +26,7 @@ Dillon Brooks: "When adversity is hitting during the game, calls not going your 
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=102s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=102s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=102&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=102&q=3) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=102&q=3&slack=1)</small>
 
 **4. Dillon Brooks — "You got to want to do it and do it the right way." — Dillon Brooks on veteran mentorship in the modern NBA** [02:20](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=140s)
 
@@ -34,7 +34,7 @@ Dillon Brooks: "You got to want to do it and do it the right way. They teach you
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=140s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=140s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=140&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=140&q=4) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=140&q=4&slack=1)</small>
 
 **5. Dillon Brooks — "It is good building the chemistry, it is learning different schemes that we do on offensive end together." — Dillon Brooks on building team chemistry and learning schemes** [03:16](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=196s)
 
@@ -42,4 +42,4 @@ Dillon Brooks: "It is good building the chemistry, it is learning different sche
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=196s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=196s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=196&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=196&q=5) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=196&q=5&slack=1)</small>

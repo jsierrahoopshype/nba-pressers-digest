@@ -8,7 +8,7 @@ Taylor Jenkins: "I anticipate working in some of those guys, not sure if it will
 
 [https://www.youtube.com/watch?v=4O5myhxEtJQ&t=13s](https://www.youtube.com/watch?v=4O5myhxEtJQ&t=13s)
 
-<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=13&q=1) · [Send to Slack](presserclips://clip?v=4O5myhxEtJQ&t=13&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "We just got a little pre-exposed to giving up transition too much when we overran our route." — Taylor Jenkins on team rebounding and transition defense improvements** [01:11](https://www.youtube.com/watch?v=4O5myhxEtJQ&t=71s)
 
@@ -16,7 +16,7 @@ Taylor Jenkins: "That is the strength of those guys for sure, in **Jae Crowder**
 
 [https://www.youtube.com/watch?v=4O5myhxEtJQ&t=71s](https://www.youtube.com/watch?v=4O5myhxEtJQ&t=71s)
 
-<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=71&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=71&q=2) · [Send to Slack](presserclips://clip?v=4O5myhxEtJQ&t=71&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "I wanted to get the ball in Tyler Herro's hands, see him handle pressure." — Taylor Jenkins evaluates Tyler Herro's performance and role** [02:38](https://www.youtube.com/watch?v=4O5myhxEtJQ&t=158s)
 
@@ -24,7 +24,7 @@ Taylor Jenkins: "I wanted to watch him in this system a little bit more. **Ryan*
 
 [https://www.youtube.com/watch?v=4O5myhxEtJQ&t=158s](https://www.youtube.com/watch?v=4O5myhxEtJQ&t=158s)
 
-<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=158&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=158&q=3) · [Send to Slack](presserclips://clip?v=4O5myhxEtJQ&t=158&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "We have got a lot of guards, trying to figure out where our wings fit in here." — Taylor Jenkins on roster versatility and three-guard lineups** [03:49](https://www.youtube.com/watch?v=4O5myhxEtJQ&t=229s)
 
@@ -32,4 +32,4 @@ Taylor Jenkins: "I just think when you look at our roster, we have got a lot of 
 
 [https://www.youtube.com/watch?v=4O5myhxEtJQ&t=229s](https://www.youtube.com/watch?v=4O5myhxEtJQ&t=229s)
 
-<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=229&q=4)</small>
+<small>[Clip it](presserclips://clip?v=4O5myhxEtJQ&t=229&q=4) · [Send to Slack](presserclips://clip?v=4O5myhxEtJQ&t=229&q=4&slack=1)</small>

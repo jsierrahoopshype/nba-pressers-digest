@@ -10,7 +10,7 @@ Nick Nurse: "They're going through a good portions of practice and I think that 
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=10s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=10s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=10&q=1) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=10&q=1&slack=1)</small>
 
 **2. Nick Nurse — "I think the plan is again it always is a bit fluid and flexible I think" — Nick Nurse on the team's fluid and flexible offensive strategy** [00:56](https://www.youtube.com/watch?v=-N3Sjzridjs&t=56s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "I think the plan is again it always is a bit fluid and flexible I t
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=56s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=56s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=56&q=2) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=56&q=2&slack=1)</small>
 
 **3. Nick Nurse — "it's pretty obvious that that's helpful because you can just get to so many more things" — Nick Nurse on the importance of offensive sets and team organization** [01:41](https://www.youtube.com/watch?v=-N3Sjzridjs&t=101s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "It's pretty obvious that that's helpful because you can just get to
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=101s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=101s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=101&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=101&q=3) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=101&q=3&slack=1)</small>
 
 **4. Nick Nurse — "we're certainly capable of being a very good defensive team and you're going to have to be" — Nick Nurse on the 76ers' defensive potential and team identity** [02:30](https://www.youtube.com/watch?v=-N3Sjzridjs&t=150s)
 
@@ -34,7 +34,7 @@ Nick Nurse: "We're certainly capable of being a very good defensive team and you
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=150s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=150s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=150&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=150&q=4) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=150&q=4&slack=1)</small>
 
 **5. Nick Nurse — "this is really the only time the first few days out of the block that we get" — Nick Nurse on the impact of the schedule on team development** [03:42](https://www.youtube.com/watch?v=-N3Sjzridjs&t=222s)
 
@@ -42,7 +42,7 @@ Nick Nurse: "It's a little bit because of both of those things and a little bit 
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=222s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=222s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=222&q=5)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=222&q=5) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=222&q=5&slack=1)</small>
 
 **6. Nick Nurse — "the guys have been amazing as far as just attitude and coaching them" — Nick Nurse on the team's positive attitude during training camp** [05:11](https://www.youtube.com/watch?v=-N3Sjzridjs&t=311s)
 
@@ -50,7 +50,7 @@ Nick Nurse: "First of all, it's been a lot of fun. The guys have been amazing as
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=311s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=311s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=311&q=6)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=311&q=6) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=311&q=6&slack=1)</small>
 
 **7. Nick Nurse — "he's figuring out ways to navigate through things differently, shooting gaps, using physicality" — Nick Nurse on Tyrese Maxey's growth and defensive development** [05:54](https://www.youtube.com/watch?v=-N3Sjzridjs&t=354s)
 
@@ -58,7 +58,7 @@ Nick Nurse: "I don't know if I got anything specific other than he just probably
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=354s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=354s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=354&q=7)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=354&q=7) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=354&q=7&slack=1)</small>
 
 **8. Nick Nurse — "we feel I think we feel fairly confident in having a decent package prepared for most situations" — Nick Nurse on the team's confidence in their prepared packages** [07:11](https://www.youtube.com/watch?v=-N3Sjzridjs&t=431s)
 
@@ -66,7 +66,7 @@ Nick Nurse: "I think we're improving just in general, but back to everybody's qu
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=431s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=431s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=431&q=8)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=431&q=8) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=431&q=8&slack=1)</small>
 
 **9. Nick Nurse — "we already experienced it like at Brooklyn like these got full court and those guys were playing" — Nick Nurse on the team's experience with high-intensity opponents** [08:05](https://www.youtube.com/watch?v=-N3Sjzridjs&t=485s)
 
@@ -74,7 +74,7 @@ Nick Nurse: "We've had those discussions and it's fairly simple and we already e
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=485s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=485s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=485&q=9)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=485&q=9) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=485&q=9&slack=1)</small>
 
 **10. Nick Nurse — "you have to play the full 48. You know the silliest thing anybody can think about is" — Nick Nurse on the necessity of playing the full 48 minutes** [08:44](https://www.youtube.com/watch?v=-N3Sjzridjs&t=524s)
 
@@ -82,4 +82,4 @@ Nick Nurse: "You have to play the full 48. You know the silliest thing anybody c
 
 [https://www.youtube.com/watch?v=-N3Sjzridjs&t=524s](https://www.youtube.com/watch?v=-N3Sjzridjs&t=524s)
 
-<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=524&q=10)</small>
+<small>[Clip it](presserclips://clip?v=-N3Sjzridjs&t=524&q=10) · [Send to Slack](presserclips://clip?v=-N3Sjzridjs&t=524&q=10&slack=1)</small>

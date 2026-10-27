@@ -10,7 +10,7 @@ Kawhi Leonard: "I haven't got a chance to play a lot in training camp, so any mi
 
 [https://www.youtube.com/watch?v=7igSR2zSTsE&t=78s](https://www.youtube.com/watch?v=7igSR2zSTsE&t=78s)
 
-<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=78&q=1)</small>
+<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=78&q=1) · [Send to Slack](presserclips://clip?v=7igSR2zSTsE&t=78&q=1&slack=1)</small>
 
 **2. Kawhi Leonard — "You can't rush greatness. Whenever the medical thinks I could push forward and I'm feeling great, that's when that time will come." — Kawhi Leonard on his approach to medical recovery and performance** [02:04](https://www.youtube.com/watch?v=7igSR2zSTsE&t=124s)
 
@@ -18,7 +18,7 @@ Kawhi Leonard: "I don't put targets. You can't rush greatness. Whenever the medi
 
 [https://www.youtube.com/watch?v=7igSR2zSTsE&t=124s](https://www.youtube.com/watch?v=7igSR2zSTsE&t=124s)
 
-<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=124&q=2)</small>
+<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=124&q=2) · [Send to Slack](presserclips://clip?v=7igSR2zSTsE&t=124&q=2&slack=1)</small>
 
 **3. Kawhi Leonard — "He can guard one through five. He's very physical, can slide his feet quickly and he's super focused and athletic." — Kawhi Leonard on the defensive versatility of Alex Caruso** [03:49](https://www.youtube.com/watch?v=7igSR2zSTsE&t=229s)
 
@@ -26,7 +26,7 @@ Kawhi Leonard: "He's been great. He can guard one through five. Going against hi
 
 [https://www.youtube.com/watch?v=7igSR2zSTsE&t=229s](https://www.youtube.com/watch?v=7igSR2zSTsE&t=229s)
 
-<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=229&q=3)</small>
+<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=229&q=3) · [Send to Slack](presserclips://clip?v=7igSR2zSTsE&t=229&q=3&slack=1)</small>
 
 **4. Kawhi Leonard — "He's a fast-paced point guard, can dribble, making decisions on the fly, communicating very well defensively." — Kawhi Leonard on Immanuel Quickley's playmaking ability** [05:13](https://www.youtube.com/watch?v=7igSR2zSTsE&t=313s)
 
@@ -34,7 +34,7 @@ Kawhi Leonard: "He's a fast-paced point guard, can dribble, making decisions on 
 
 [https://www.youtube.com/watch?v=7igSR2zSTsE&t=313s](https://www.youtube.com/watch?v=7igSR2zSTsE&t=313s)
 
-<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=313&q=4)</small>
+<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=313&q=4) · [Send to Slack](presserclips://clip?v=7igSR2zSTsE&t=313&q=4&slack=1)</small>
 
 **5. Kawhi Leonard — "He's a big that feels like he cares about setting screens and getting his guys open." — Kawhi Leonard on the importance of playing with Jakob Poeltl** [05:38](https://www.youtube.com/watch?v=7igSR2zSTsE&t=338s)
 
@@ -42,4 +42,4 @@ Kawhi Leonard: "He's a big that feels like he cares about setting screens and ge
 
 [https://www.youtube.com/watch?v=7igSR2zSTsE&t=338s](https://www.youtube.com/watch?v=7igSR2zSTsE&t=338s)
 
-<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=338&q=5)</small>
+<small>[Clip it](presserclips://clip?v=7igSR2zSTsE&t=338&q=5) · [Send to Slack](presserclips://clip?v=7igSR2zSTsE&t=338&q=5&slack=1)</small>

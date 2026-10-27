@@ -10,7 +10,7 @@ Charles Lee: "I would love to see us be able to just play a little bit faster. I
 
 [https://www.youtube.com/watch?v=HjiWdiVgFGw&t=4s](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=4s)
 
-<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=4&q=1) · [Send to Slack](presserclips://clip?v=HjiWdiVgFGw&t=4&q=1&slack=1)</small>
 
 **2. Charles Lee — "Biggest thing for this group I think is just to continue to have sustained competitive togetherness." — Charles Lee on the importance of sustained competitive togetherness** [00:33](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=33s)
 
@@ -18,7 +18,7 @@ Charles Lee: "Biggest thing for this group I think is just to continue to have s
 
 [https://www.youtube.com/watch?v=HjiWdiVgFGw&t=33s](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=33s)
 
-<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=33&q=2) · [Send to Slack](presserclips://clip?v=HjiWdiVgFGw&t=33&q=2&slack=1)</small>
 
 **3. Charles Lee — "The thing that I love about him is just there's a consistency with his effort." — Charles Lee on Hannes Steinbach's consistency and work ethic** [01:03](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=63s)
 
@@ -26,7 +26,7 @@ Charles Lee: "With more reps, young guys take some time and he's going to have s
 
 [https://www.youtube.com/watch?v=HjiWdiVgFGw&t=63s](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=63s)
 
-<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=63&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=63&q=3) · [Send to Slack](presserclips://clip?v=HjiWdiVgFGw&t=63&q=3&slack=1)</small>
 
 **4. Hannes Steinbach — "I just try to do the right habits, just crash the glass every time." — Hannes Steinbach on his focus on rebounding and team play** [01:29](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=89s)
 
@@ -34,7 +34,7 @@ Hannes Steinbach: "I just try to do the right habits, just crash the glass every
 
 [https://www.youtube.com/watch?v=HjiWdiVgFGw&t=89s](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=89s)
 
-<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=89&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=89&q=4) · [Send to Slack](presserclips://clip?v=HjiWdiVgFGw&t=89&q=4&slack=1)</small>
 
 **5. Hannes Steinbach — "They're very physical, Edi especially, really tall, really strong." — Hannes Steinbach on adjusting to the physicality of the NBA** [01:44](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=104s)
 
@@ -42,7 +42,7 @@ Hannes Steinbach: "They're very physical, **Edi** especially, really tall, reall
 
 [https://www.youtube.com/watch?v=HjiWdiVgFGw&t=104s](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=104s)
 
-<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=104&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=104&q=5) · [Send to Slack](presserclips://clip?v=HjiWdiVgFGw&t=104&q=5&slack=1)</small>
 
 **6. Hannes Steinbach — "Just playing physical, letting the game slow down around me a little bit." — Hannes Steinbach on his takeaways from the preseason** [02:02](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=122s)
 
@@ -50,4 +50,4 @@ Hannes Steinbach: "Just playing physical, letting the game slow down around me a
 
 [https://www.youtube.com/watch?v=HjiWdiVgFGw&t=122s](https://www.youtube.com/watch?v=HjiWdiVgFGw&t=122s)
 
-<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=122&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HjiWdiVgFGw&t=122&q=6) · [Send to Slack](presserclips://clip?v=HjiWdiVgFGw&t=122&q=6&slack=1)</small>

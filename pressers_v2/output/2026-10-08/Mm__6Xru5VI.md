@@ -10,7 +10,7 @@ Ja Morant: "On a scale of 1 to 10, I would say probably a 6.5. Definitely could 
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=5s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=5s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=5&q=1) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=5&q=1&slack=1)</small>
 
 **2. Ja Morant — "I got so much guys on the floor that can do, yeah, like I feel like now it's not like Ja going to score 30." — Ja Morant on adjusting to playing with new teammates in Portland** [00:44](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=44s)
 
@@ -18,7 +18,7 @@ Ja Morant: "I can say it's both. It's playing with new guys and then I got so mu
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=44s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=44s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=44&q=2) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=44&q=2&slack=1)</small>
 
 **3. Ja Morant — "I feel like I'm a natural point guard. I'm not selfish at all, so that's a definitely a tough part." — Ja Morant on the challenge of balancing playmaking and scoring** [01:21](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=81s)
 
@@ -26,7 +26,7 @@ Ja Morant: "It's tough because I feel like I'm a natural point guard. I'm not se
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=81s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=81s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=81&q=3) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=81&q=3&slack=1)</small>
 
 **4. Ja Morant — "I feel like it's just the same joy. I just feel like now being around a new team and these guys, they get to see it." — Ja Morant on bringing joy to his new team environment** [02:10](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=130s)
 
@@ -34,7 +34,7 @@ Ja Morant: "I feel like it's just the same joy. I just feel like now being aroun
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=130s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=130s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=130&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=130&q=4) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=130&q=4&slack=1)</small>
 
 **5. Ja Morant — "Twin, yeah, he ready. He ready for sure. Definitely been opening some eyes and been very impressive since we stepped foot here." — Ja Morant on his impressions of Scoot Henderson's development** [03:22](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=202s)
 
@@ -42,7 +42,7 @@ Ja Morant: "Twin, yeah, he ready. He ready for sure. Definitely been opening som
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=202s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=202s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=202&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=202&q=5) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=202&q=5&slack=1)</small>
 
 **6. Ja Morant — "We constantly talking, communication. Obviously we've been around, played against each other, so we kind of know each other's tendency." — Ja Morant on the importance of communication with Damian Lillard** [04:16](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=256s)
 
@@ -50,7 +50,7 @@ Ja Morant: "We constantly talking, communication. Obviously we've been around, p
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=256s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=256s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=256&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=256&q=6) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=256&q=6&slack=1)</small>
 
 **7. Ja Morant — "With Danny, his ability to be able to get down the floor, get downhill and finish through contact or without contact is extreme plus for us." — Ja Morant on Damian Lillard's playmaking and floor spacing** [04:56](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=296s)
 
@@ -58,7 +58,7 @@ Ja Morant: "With **Danny**, his ability to be able to get down the floor, get do
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=296s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=296s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=296&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=296&q=7) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=296&q=7&slack=1)</small>
 
 **8. Ja Morant — "he has tell me to come get the ball when I'll be trying to give him the ball. Like it's that's crazy for me now." — Ja Morant on the unselfishness of the team's ball handlers** [05:50](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=350s)
 
@@ -66,4 +66,4 @@ Ja Morant: "He's definitely a selfless player. Like even now, like he has tell m
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=350s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=350s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=350&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=350&q=8) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=350&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ CJ Huntley: "I feel it was a learning experience for me. Starting on a two-way a
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=33s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=33s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=33&q=1) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=33&q=1&slack=1)</small>
 
 **2. CJ Huntley — "I am approaching the same way I approach every day." — CJ Huntley focuses on weight room work and shooting improvement for the upcoming season.** [02:09](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=129s)
 
@@ -18,7 +18,7 @@ CJ Huntley: "I am approaching the same way I approach every day. Just to put my 
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=129s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=129s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=129&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=129&q=2) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=129&q=2&slack=1)</small>
 
 **3. CJ Huntley — "I just learned the pace of the game, the physicality of the game." — CJ Huntley highlights pace and physicality as key lessons from his NBA game experience.** [03:30](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=210s)
 
@@ -26,7 +26,7 @@ CJ Huntley: "I just learned the pace of the game, the physicality of the game. R
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=210s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=210s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=210&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=210&q=3) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=210&q=3&slack=1)</small>
 
 **4. CJ Huntley — "I feel it is a great advantage because they are actually here with us." — CJ Huntley notes the advantage of alignment between the Phoenix Suns and Valley Suns coaching staffs.** [02:51](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=171s)
 
@@ -34,7 +34,7 @@ CJ Huntley: "I feel it is a great advantage because they are actually here with 
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=171s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=171s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=171&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=171&q=4) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=171&q=4&slack=1)</small>
 
 **5. CJ Huntley — "I feel it was always been motivation ever since I was undrafted." — CJ Huntley uses his undrafted status as ongoing motivation to prove himself.** [03:36](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=216s)
 
@@ -42,4 +42,4 @@ CJ Huntley: "I feel it was always been motivation ever since I was undrafted. I 
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=216s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=216s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=216&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=216&q=5) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=216&q=5&slack=1)</small>

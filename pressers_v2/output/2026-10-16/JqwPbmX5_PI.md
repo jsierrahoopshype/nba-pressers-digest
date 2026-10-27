@@ -10,7 +10,7 @@ Kenny Atkinson: "It is almost like a two-way street with him. He is not afraid t
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=16s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=16s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=16&q=1) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=16&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "he wants to be perfect. He is almost nervous about or has anxiety about being too perfect." — Kenny Atkinson on coaching Darius Garland to be less perfect** [01:32](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=92s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "I think I probably change a little. I definitely err on the sid
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=92s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=92s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=92&q=2)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=92&q=2) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=92&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "it is a great recruiting tool for players, staff." — Kenny Atkinson on the benefits of the new Cavaliers facility** [02:39](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=159s)
 
@@ -26,7 +26,7 @@ Kenny Atkinson: "First of all, it is a great recruiting tool for players, staff.
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=159s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=159s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=159&q=3)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=159&q=3) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=159&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "Donovan is good with that. Donovan can play with me as the center, obviously." — Kenny Atkinson on the Donovan Mitchell and Jarrett Allen guard-big pairing** [03:34](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=214s)
 
@@ -34,7 +34,7 @@ Kenny Atkinson: "Donovan is good with that. Donovan can play with me as the cent
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=214s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=214s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=214&q=4)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=214&q=4) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=214&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "Evan is already good in the pocket, just more like screening angles and flipping screens." — Kenny Atkinson on Evan Mobley's development with James** [05:01](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=301s)
 
@@ -42,7 +42,7 @@ Kenny Atkinson: "Evan is already good in the pocket, just more like screening an
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=301s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=301s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=301&q=5)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=301&q=5) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=301&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "Evan is nowhere to be found." — Kenny Atkinson on Evan Mobley's defensive recognition** [05:37](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=337s)
 
@@ -50,7 +50,7 @@ Kenny Atkinson: "It is interesting with Evan. He was defensive player of the yea
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=337s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=337s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=337&q=6)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=337&q=6) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=337&q=6&slack=1)</small>
 
 **7. Kenny Atkinson — "our relationship has grown. My understanding of his game." — Kenny Atkinson on the growth of his relationship with Craig Porter Jr.** [07:37](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=457s)
 
@@ -58,4 +58,4 @@ Kenny Atkinson: "Our relationship has grown. My understanding of his game. And I
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=457s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=457s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=457&q=7)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=457&q=7) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=457&q=7&slack=1)</small>

@@ -10,7 +10,7 @@ Trae Young: "I think we finally settled in. Our offense, to be honest, our strug
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=1s](https://www.youtube.com/watch?v=ROioNe79ie8&t=1s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=1&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=1&q=1) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=1&q=1&slack=1)</small>
 
 **2. Trae Young — "those are what makes the great players great" — Trae Young on his mindset during high-pressure fourth-quarter moments** [00:43](https://www.youtube.com/watch?v=ROioNe79ie8&t=43s)
 
@@ -18,7 +18,7 @@ Trae Young: "Being in those moments for so many times, understanding what those 
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=43s](https://www.youtube.com/watch?v=ROioNe79ie8&t=43s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=43&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=43&q=2) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=43&q=2&slack=1)</small>
 
 **3. Trae Young — "I want to help him get the MVP" — Trae Young on Deandre Ayton's impressive performance and MVP potential** [01:19](https://www.youtube.com/watch?v=ROioNe79ie8&t=79s)
 
@@ -26,7 +26,7 @@ Trae Young: "I told people earlier this week I wasn't surprised. Seeing what **D
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=79s](https://www.youtube.com/watch?v=ROioNe79ie8&t=79s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=79&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=79&q=3) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=79&q=3&slack=1)</small>
 
 **4. Trae Young — "playing more under control" — Trae Young on reducing turnovers and controlling the game** [02:14](https://www.youtube.com/watch?v=ROioNe79ie8&t=134s)
 
@@ -34,7 +34,7 @@ Trae Young: "I told you I wasn't going to be turning it over like that. Playing 
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=134s](https://www.youtube.com/watch?v=ROioNe79ie8&t=134s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=134&q=4) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=134&q=4&slack=1)</small>
 
 **5. Trae Young — "in that huddle we were continuing to talk to each other" — Trae Young on the team's communication and chemistry during huddles** [02:56](https://www.youtube.com/watch?v=ROioNe79ie8&t=176s)
 
@@ -42,7 +42,7 @@ Trae Young: "It was important for us. I know some people may have been worried a
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=176s](https://www.youtube.com/watch?v=ROioNe79ie8&t=176s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=176&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=176&q=5) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=176&q=5&slack=1)</small>
 
 **6. Trae Young — "DA is definitely making the ultimate sacrifice" — Trae Young on Deandre Ayton's selfless attitude and impact** [03:41](https://www.youtube.com/watch?v=ROioNe79ie8&t=221s)
 
@@ -50,7 +50,7 @@ Trae Young: "**DA** is definitely making the ultimate sacrifice, obviously comin
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=221s](https://www.youtube.com/watch?v=ROioNe79ie8&t=221s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=221&q=6)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=221&q=6) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=221&q=6&slack=1)</small>
 
 **7. Trae Young — "I know JC is a winning player" — Trae Young on Justin Champagnie's positive impact and winning mentality** [04:27](https://www.youtube.com/watch?v=ROioNe79ie8&t=267s)
 
@@ -58,7 +58,7 @@ Trae Young: "I know **JC** is a winning player and I know what he brings to our 
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=267s](https://www.youtube.com/watch?v=ROioNe79ie8&t=267s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=267&q=7)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=267&q=7) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=267&q=7&slack=1)</small>
 
 **8. Trae Young — "I think that's one through fifteen" — Trae Young on the team's collective chip on their shoulder** [05:07](https://www.youtube.com/watch?v=ROioNe79ie8&t=307s)
 
@@ -66,7 +66,7 @@ Trae Young: "I think that's one through fifteen. I think a lot of the guys have 
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=307s](https://www.youtube.com/watch?v=ROioNe79ie8&t=307s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=307&q=8)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=307&q=8) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=307&q=8&slack=1)</small>
 
 **9. Trae Young — "our defense has been the problem for me and teams in the past" — Trae Young on the team's defensive focus and offensive versatility** [06:12](https://www.youtube.com/watch?v=ROioNe79ie8&t=372s)
 
@@ -74,7 +74,7 @@ Trae Young: "I'm not even focused on any of the offenses I've been a part of in 
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=372s](https://www.youtube.com/watch?v=ROioNe79ie8&t=372s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=372&q=9)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=372&q=9) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=372&q=9&slack=1)</small>
 
 **10. Trae Young — "the chemistry between me and him is only going to get better" — Trae Young on building chemistry with Deandre Ayton** [06:56](https://www.youtube.com/watch?v=ROioNe79ie8&t=416s)
 
@@ -82,4 +82,4 @@ Trae Young: "It has felt like forever playing a regular season game. Five games 
 
 [https://www.youtube.com/watch?v=ROioNe79ie8&t=416s](https://www.youtube.com/watch?v=ROioNe79ie8&t=416s)
 
-<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=416&q=10)</small>
+<small>[Clip it](presserclips://clip?v=ROioNe79ie8&t=416&q=10) · [Send to Slack](presserclips://clip?v=ROioNe79ie8&t=416&q=10&slack=1)</small>

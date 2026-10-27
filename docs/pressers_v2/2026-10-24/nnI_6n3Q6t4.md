@@ -10,7 +10,7 @@ Charles Lee: "I think it was a good learning experience for our entire group ton
 
 [https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=0s](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=0s)
 
-<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=0&q=1) · [Send to Slack](presserclips://clip?v=nnI_6n3Q6t4&t=0&q=1&slack=1)</small>
 
 **2. Charles Lee — "number one is their physicality. They got a bunch of really pesky, physical, on-ball defenders" — Charles Lee on Atlanta's physical defensive pressure** [00:40](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=40s)
 
@@ -18,7 +18,7 @@ Charles Lee: "Number one is their physicality. They got a bunch of really pesky,
 
 [https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=40s](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=40s)
 
-<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=40&q=2)</small>
+<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=40&q=2) · [Send to Slack](presserclips://clip?v=nnI_6n3Q6t4&t=40&q=2&slack=1)</small>
 
 **3. Charles Lee — "a lot of ball turnovers in particular tonight. What do you attribute that to?" — Charles Lee on Charlotte's high turnover rate** [01:30](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=90s)
 
@@ -26,7 +26,7 @@ Charles Lee: "A lot of ball turnovers in particular tonight. What do you attribu
 
 [https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=90s](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=90s)
 
-<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=90&q=3)</small>
+<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=90&q=3) · [Send to Slack](presserclips://clip?v=nnI_6n3Q6t4&t=90&q=3&slack=1)</small>
 
 **4. Charles Lee — "we want to create the best uncontested shot that we can get" — Charles Lee on shot selection and team confidence** [02:05](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=125s)
 
@@ -34,7 +34,7 @@ Charles Lee: "Our biggest thing is less about the volume of what our shot profil
 
 [https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=125s](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=125s)
 
-<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=125&q=4)</small>
+<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=125&q=4) · [Send to Slack](presserclips://clip?v=nnI_6n3Q6t4&t=125&q=4&slack=1)</small>
 
 **5. Charles Lee — "we can't make excuses for who is on the floor, who is off the floor" — Charles Lee on team pride and learning systems** [02:47](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=167s)
 
@@ -42,7 +42,7 @@ Charles Lee: "We can't make excuses for who is on the floor, who is off the floo
 
 [https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=167s](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=167s)
 
-<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=167&q=5)</small>
+<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=167&q=5) · [Send to Slack](presserclips://clip?v=nnI_6n3Q6t4&t=167&q=5&slack=1)</small>
 
 **6. Charles Lee — "Brandon is focused a ton on just playing the right way" — Charles Lee on Brandon Miller's recent performance** [03:18](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=198s)
 
@@ -50,7 +50,7 @@ Charles Lee: "I think that Brandon is focused a ton on just playing the right wa
 
 [https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=198s](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=198s)
 
-<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=198&q=6)</small>
+<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=198&q=6) · [Send to Slack](presserclips://clip?v=nnI_6n3Q6t4&t=198&q=6&slack=1)</small>
 
 **7. Charles Lee — "if you hear boos, like you got to be able to play better basketball" — Charles Lee on crowd boos and team accountability** [03:48](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=228s)
 
@@ -58,4 +58,4 @@ Charles Lee: "I told the group like, this is great for us. At home, on the road,
 
 [https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=228s](https://www.youtube.com/watch?v=nnI_6n3Q6t4&t=228s)
 
-<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=228&q=7)</small>
+<small>[Clip it](presserclips://clip?v=nnI_6n3Q6t4&t=228&q=7) · [Send to Slack](presserclips://clip?v=nnI_6n3Q6t4&t=228&q=7&slack=1)</small>

@@ -10,7 +10,7 @@ Darko Rajakovic: "I thought it was a great win. I thought we had moments of the 
 
 [https://www.youtube.com/watch?v=4lMmtTFpb5E&t=6s](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=6s)
 
-<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=6&q=1) · [Send to Slack](presserclips://clip?v=4lMmtTFpb5E&t=6&q=1&slack=1)</small>
 
 **2. Darko Rajakovic — "You cannot give him any daylight. You got to make it really hard from every catch." — Darko Rajakovic on defending Anthony Davis** [00:59](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=59s)
 
@@ -18,7 +18,7 @@ Darko Rajakovic: "Guys like that, you cannot give him any daylight. You got to m
 
 [https://www.youtube.com/watch?v=4lMmtTFpb5E&t=59s](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=59s)
 
-<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=59&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=59&q=2) · [Send to Slack](presserclips://clip?v=4lMmtTFpb5E&t=59&q=2&slack=1)</small>
 
 **3. Darko Rajakovic — "Scottie Barnes is going to be first all-defensive team in the NBA this year." — Darko Rajakovic on the team's defensive versatility and accolades** [03:24](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=204s)
 
@@ -26,7 +26,7 @@ Darko Rajakovic: "**Scottie Barnes** is going to be first all-defensive team in 
 
 [https://www.youtube.com/watch?v=4lMmtTFpb5E&t=204s](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=204s)
 
-<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=204&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=204&q=3) · [Send to Slack](presserclips://clip?v=4lMmtTFpb5E&t=204&q=3&slack=1)</small>
 
 **4. RJ Barrett — "It was nasty. It was a nasty one. Couldn't make any shots, but we just hung tough." — RJ Barrett on the team's gritty win against the Wizards** [05:19](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=319s)
 
@@ -34,7 +34,7 @@ RJ Barrett: "It was nasty. It was a nasty one. Couldn't make any shots, but we j
 
 [https://www.youtube.com/watch?v=4lMmtTFpb5E&t=319s](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=319s)
 
-<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=319&q=4)</small>
+<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=319&q=4) · [Send to Slack](presserclips://clip?v=4lMmtTFpb5E&t=319&q=4&slack=1)</small>
 
 **5. Scottie Barnes — "Just knowing that we got to rebound, so that was one of our main emphasis." — Scottie Barnes on the team's rebounding and transition defense** [09:09](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=549s)
 
@@ -42,7 +42,7 @@ Scottie Barnes: "Pretty good team. Just knowing that we got to rebound, so that 
 
 [https://www.youtube.com/watch?v=4lMmtTFpb5E&t=549s](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=549s)
 
-<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=549&q=5)</small>
+<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=549&q=5) · [Send to Slack](presserclips://clip?v=4lMmtTFpb5E&t=549&q=5&slack=1)</small>
 
 **6. Scottie Barnes — "RJ played amazing, especially that third quarter, I think he kind of changed the game for us." — Scottie Barnes on RJ Barrett's performance** [10:31](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=631s)
 
@@ -50,4 +50,4 @@ Scottie Barnes: "RJ played amazing, especially that third quarter, I think he ki
 
 [https://www.youtube.com/watch?v=4lMmtTFpb5E&t=631s](https://www.youtube.com/watch?v=4lMmtTFpb5E&t=631s)
 
-<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=631&q=6)</small>
+<small>[Clip it](presserclips://clip?v=4lMmtTFpb5E&t=631&q=6) · [Send to Slack](presserclips://clip?v=4lMmtTFpb5E&t=631&q=6&slack=1)</small>

@@ -14,7 +14,7 @@ Charles Lee: "I think that team is better than where we started. I think we made
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=10s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=10s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=10&q=1) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=10&q=1&slack=1)</small>
 
 **2. Charles Lee — "No matter who is in the lineup, we have a certain way that we want to play." — Charles Lee on improving team execution and reducing turnovers** [01:08](https://www.youtube.com/watch?v=WrGExZ92Y24&t=68s)
 
@@ -22,7 +22,7 @@ Charles Lee: "No matter who is in the lineup, we have a certain way that we want
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=68s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=68s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=68&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=68&q=2) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=68&q=2&slack=1)</small>
 
 **3. Charles Lee — "There's still no timeline on those guys. They're making really good progress." — Charles Lee on status of injured Hornets players** [01:52](https://www.youtube.com/watch?v=WrGExZ92Y24&t=112s)
 
@@ -30,7 +30,7 @@ Charles Lee: "There's still no timeline on those guys. They're making really goo
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=112s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=112s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=112&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=112&q=3) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=112&q=3&slack=1)</small>
 
 **4. Charles Lee — "Love the growth that Christian made. I think just like the rest of our team." — Charles Lee praises Christian Anderson's growth and defensive impact** [02:09](https://www.youtube.com/watch?v=WrGExZ92Y24&t=129s)
 
@@ -38,7 +38,7 @@ Charles Lee: "Love the growth that Christian made. I think just like the rest of
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=129s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=129s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=129&q=4)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=129&q=4) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=129&q=4&slack=1)</small>
 
 **5. Charles Lee — "The intensity of the game goes up, how much longer those guys play during the game." — Charles Lee on the challenge of season opener against Brooklyn** [03:11](https://www.youtube.com/watch?v=WrGExZ92Y24&t=191s)
 
@@ -46,7 +46,7 @@ Charles Lee: "Yeah, it definitely has a little bit of an impact. Like you said, 
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=191s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=191s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=191&q=5)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=191&q=5) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=191&q=5&slack=1)</small>
 
 ---
 
@@ -62,7 +62,7 @@ Spencer Jones: "It's been annoying, been a lot of film, especially because we're
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=69s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=69s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=69&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=69&q=1) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=69&q=1&slack=1)</small>
 
 **2. Spencer Jones — "last year the offensive focus was definitely pick and roll with Jamal, getting him in the post" — Spencer Jones on the Nuggets' offensive identity** [02:37](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=157s)
 
@@ -70,7 +70,7 @@ Spencer Jones: "Last year the offensive focus was definitely pick and roll with 
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=157s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=157s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=157&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=157&q=2) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=157&q=2&slack=1)</small>
 
 **3. Spencer Jones — "Trevon Brazile in terms of he's looking at me in the corners a lot" — Spencer Jones on playing with Trevon Brazile** [04:10](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=250s)
 
@@ -78,7 +78,7 @@ Spencer Jones: "**Trevon Brazile** in terms of he's looking at me in the corners
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=250s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=250s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=250&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=250&q=3) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=250&q=3&slack=1)</small>
 
 **4. Trevon Brazile — "the main thing, playing with Nikola Jokic and Jamal Murray, was seeing the ball earlier" — Trevon Brazile on learning to play with Nikola Jokic and Jamal Murray** [07:20](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=440s)
 
@@ -86,7 +86,7 @@ Trevon Brazile: "I made a lot of mistakes, I knew I was going to go in just tryi
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=440s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=440s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=440&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=440&q=4) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=440&q=4&slack=1)</small>
 
 **5. Coach Adelman — "he's got to learn to find the ball earlier offensively. Getting on the rim is one thing" — Coach Adelman on Trevon Brazile's development** [11:05](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=665s)
 
@@ -94,7 +94,7 @@ Coach Adelman: "He's got to learn to find the ball earlier offensively. Getting 
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=665s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=665s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=665&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=665&q=5) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=665&q=5&slack=1)</small>
 
 **6. Coach Adelman — "we have the week to go and I think the first two games will keep the group together" — Coach Adelman on rotation plans for the season** [12:16](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=736s)
 
@@ -102,7 +102,7 @@ Coach Adelman: "We haven't decided that yet. We have the week to go and I think 
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=736s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=736s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=736&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=736&q=6) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=736&q=6&slack=1)</small>
 
 **7. Coach Adelman — "defensively, it's enormous because you're switching somebody onto the ball that can really guard" — Coach Adelman on Spencer Jones's defensive value** [13:24](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=804s)
 
@@ -110,7 +110,7 @@ Coach Adelman: "Defensively, it's enormous because you're switching somebody ont
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=804s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=804s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=804&q=7)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=804&q=7) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=804&q=7&slack=1)</small>
 
 **8. Coach Adelman — "I think it was tough for him in a way today because we flowed him back in" — Coach Adelman on Spencer Jones's role** [14:05](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=845s)
 
@@ -118,7 +118,7 @@ Coach Adelman: "I actually thought it was tough for him in a way today because w
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=845s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=845s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=845&q=8)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=845&q=8) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=845&q=8&slack=1)</small>
 
 ---
 
@@ -134,7 +134,7 @@ Jared McCain: "Fixing the little things, very minor details that are going to be
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=16s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=16s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=16&q=1) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=16&q=1&slack=1)</small>
 
 **2. Jared McCain — "seeing what players we have on the floor and being able to maximize my abilities" — Jared McCain on maximizing his role and spacing for teammates** [01:02](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=62s)
 
@@ -142,7 +142,7 @@ Jared McCain: "Trying to maximize whatever my position is on the floor. Seeing w
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=62s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=62s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=62&q=2)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=62&q=2) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=62&q=2&slack=1)</small>
 
 **3. Jared McCain — "pretty much that every possession matters, every detail matters" — Jared McCain on the importance of every possession in playoffs** [02:07](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=127s)
 
@@ -150,7 +150,7 @@ Jared McCain: "Pretty much that every possession matters, every detail matters. 
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=127s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=127s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=127&q=3)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=127&q=3) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=127&q=3&slack=1)</small>
 
 **4. Jared McCain — "I feel like I always just have an unwavering confidence" — Jared McCain on his unwavering confidence and playoff experience** [02:48](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=168s)
 
@@ -158,7 +158,7 @@ Jared McCain: "I feel like I always just have an unwavering confidence, no matte
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=168s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=168s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=168&q=4)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=168&q=4) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=168&q=4&slack=1)</small>
 
 **5. Jared McCain — "reading the closeout is huge" — Jared McCain on attacking closeouts and playmaking** [03:40](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=220s)
 
@@ -166,7 +166,7 @@ Jared McCain: "Reading the closeout is huge. This summer was a lot of just makin
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=220s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=220s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=220&q=5)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=220&q=5) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=220&q=5&slack=1)</small>
 
 **6. Jared McCain — "I played up with my brother, I played up like my whole life" — Jared McCain on the source of his confidence** [05:27](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=327s)
 
@@ -174,7 +174,7 @@ Jared McCain: "I played up with my brother, I played up like my whole life. If I
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=327s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=327s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=327&q=6)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=327&q=6) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=327&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "every year is a combination of continuity and things that are consistent and then things that evolve" — Mark Daigneault on team evolution and player development** [06:20](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=380s)
 
@@ -182,7 +182,7 @@ Mark Daigneault: "Every year is a combination of continuity and things that are 
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=380s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=380s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=380&q=7)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=380&q=7) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=380&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "he came into the league as just a very instinctive competitive guy" — Mark Daigneault on player development and defensive instincts** [07:09](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=429s)
 
@@ -190,7 +190,7 @@ Mark Daigneault: "He came into the league as just a very instinctive competitive
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=429s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=429s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=429&q=8)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=429&q=8) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=429&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "we learn from every matchup" — Mark Daigneault on learning from every game** [08:10](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=490s)
 
@@ -198,7 +198,7 @@ Mark Daigneault: "I always am careful to make sure that I am talking about that 
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=490s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=490s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=490&q=9)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=490&q=9) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=490&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "he loves to coach, he loves basketball, he loves competing" — Mark Daigneault on Billy Donovan's coaching transition** [09:15](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=555s)
 
@@ -206,7 +206,7 @@ Mark Daigneault: "He loves to coach, he loves basketball, he loves competing, lo
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=555s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=555s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=555&q=10)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=555&q=10) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=555&q=10&slack=1)</small>
 
 **11. Mark Daigneault — "those guys have an outsized impact on the whole" — Mark Daigneault on the impact of veteran players** [10:27](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=627s)
 
@@ -214,7 +214,7 @@ Mark Daigneault: "Those guys have an outsized impact on the whole and they are h
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=627s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=627s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=627&q=11)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=627&q=11) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=627&q=11&slack=1)</small>
 
 **12. Mark Daigneault — "it is about every single guy learning how to bring their strengths to the team" — Mark Daigneault on team growth and maximizing potential** [12:06](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=726s)
 
@@ -222,7 +222,7 @@ Mark Daigneault: "It is about every single guy learning how to bring their stren
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=726s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=726s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=726&q=12)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=726&q=12) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=726&q=12&slack=1)</small>
 
 ---
 

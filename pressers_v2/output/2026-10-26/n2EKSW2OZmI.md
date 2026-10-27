@@ -10,7 +10,7 @@ Nick Nurse: "I think obviously that never helps, but I think the rebounding was 
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=6s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=6s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=6&q=1) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=6&q=1&slack=1)</small>
 
 **2. Nick Nurse — "when it comes to him, I think there's some more vault up and shoot threes" — Nick Nurse on Tyrese Maxey's shot selection and traffic issues** [00:53](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=53s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "I got to look at it a little bit. I think that when it comes to him
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=53s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=53s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=53&q=2)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=53&q=2) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=53&q=2&slack=1)</small>
 
 **3. Nick Nurse — "I'm really happy with him. That's the first game he's impacted" — Nick Nurse praises Mo Bamba's impact and performance** [01:25](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=85s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "I'm really happy with him. I was really happy with the way he playe
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=85s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=85s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=85&q=3)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=85&q=3) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=85&q=3&slack=1)</small>
 
 **4. Nick Nurse — "we've got to do it by committee. I mean, I think if you're missing some of your size" — Nick Nurse on the need for team-wide rebounding effort** [01:55](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=115s)
 
@@ -34,7 +34,7 @@ Nick Nurse: "We've got to do it by committee. I think if you're missing some of 
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=115s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=115s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=115&q=4)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=115&q=4) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=115&q=4&slack=1)</small>
 
 **5. Nick Nurse — "I didn't think we got into a very good flow offensively. We were felt like we were disorganized" — Nick Nurse on offensive flow and spacing issues** [02:35](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=155s)
 
@@ -42,7 +42,7 @@ Nick Nurse: "I didn't think we got into a very good flow offensively. I didn't t
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=155s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=155s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=155&q=5)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=155&q=5) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=155&q=5&slack=1)</small>
 
 **6. Nick Nurse — "it's normal that defense starts out ahead in early in the season" — Nick Nurse on the team's defensive struggles early in the season** [03:17](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=197s)
 
@@ -50,7 +50,7 @@ Nick Nurse: "It's normal that defense starts out ahead in early in the season. W
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=197s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=197s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=197&q=6)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=197&q=6) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=197&q=6&slack=1)</small>
 
 **7. Nick Nurse — "I thought we had some advanced passes, I thought we had some pocket passes" — Nick Nurse on offensive execution and passing** [04:18](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=258s)
 
@@ -58,7 +58,7 @@ Nick Nurse: "I thought we had some advanced passes, I thought we had some pocket
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=258s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=258s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=258&q=7)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=258&q=7) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=258&q=7&slack=1)</small>
 
 **8. Nick Nurse — "it's been a little bit of a concern that we've had to bring a bunch of different people" — Nick Nurse on the challenge of rotating players in the frontcourt** [04:59](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=299s)
 
@@ -66,7 +66,7 @@ Nick Nurse: "It's been a little bit of a concern that we've had to bring a bunch
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=299s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=299s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=299&q=8)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=299&q=8) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=299&q=8&slack=1)</small>
 
 **9. Nick Nurse — "we were asking for a lot more cutting. He's an unbelievable passer and I thought we stood" — Nick Nurse on LeBron James playing center and team spacing** [06:40](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=400s)
 
@@ -74,7 +74,7 @@ Nick Nurse: "I can recall some timeouts where we'd hit him out there on the peri
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=400s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=400s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=400&q=9)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=400&q=9) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=400&q=9&slack=1)</small>
 
 **10. Nick Nurse — "he's scrapping and he's battling. I think he did an excellent job in his stretches" — Nick Nurse on the positive contributions of LeBron James** [07:25](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=445s)
 
@@ -82,7 +82,7 @@ Nick Nurse: "He's scrapping and he's battling. I think he did an excellent job i
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=445s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=445s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=445&q=10)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=445&q=10) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=445&q=10&slack=1)</small>
 
 **11. Nick Nurse — "he didn't get any training camp time at all. Played a really great game there" — Nick Nurse on Simmons' lack of training camp time** [07:54](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=474s)
 
@@ -90,4 +90,4 @@ Nick Nurse: "He didn't get any training camp time at all. Played a really great 
 
 [https://www.youtube.com/watch?v=n2EKSW2OZmI&t=474s](https://www.youtube.com/watch?v=n2EKSW2OZmI&t=474s)
 
-<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=474&q=11)</small>
+<small>[Clip it](presserclips://clip?v=n2EKSW2OZmI&t=474&q=11) · [Send to Slack](presserclips://clip?v=n2EKSW2OZmI&t=474&q=11&slack=1)</small>

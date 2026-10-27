@@ -10,7 +10,7 @@ Jalen Williams: "It comes back to pretty much our principles and what we have be
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=11s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=11s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=11&q=1) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=11&q=1&slack=1)</small>
 
 **2. Jalen Williams — "it's exactly what we need and he's such a good dude" — Jalen Williams on Ousmane Dieng's impact and development** [00:45](https://www.youtube.com/watch?v=93Sa13UVrrA&t=45s)
 
@@ -18,7 +18,7 @@ Jalen Williams: "It's awesome. It's exactly what we need and he's such a good du
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=45s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=45s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=45&q=2)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=45&q=2) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=45&q=2&slack=1)</small>
 
 **3. Jalen Williams — "it's really a tribute to this culture, being able to come in here and have this confidence" — Jalen Williams on the confidence of the team's young players** [01:05](https://www.youtube.com/watch?v=93Sa13UVrrA&t=65s)
 
@@ -26,7 +26,7 @@ Jalen Williams: "It's amazing. It's really a hard thing to do coming in, especia
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=65s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=65s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=65&q=3)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=65&q=3) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=65&q=3&slack=1)</small>
 
 **4. Jalen Williams — "that's what makes him so special is being able to just beat you in so many different ways" — Jalen Williams on Shai Gilgeous-Alexander's versatile offensive game** [01:37](https://www.youtube.com/watch?v=93Sa13UVrrA&t=97s)
 
@@ -34,7 +34,7 @@ Jalen Williams: "That's what makes him so special is being able to just beat you
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=97s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=97s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=97&q=4)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=97&q=4) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=97&q=4&slack=1)</small>
 
 **5. Jalen Williams — "he really keeps it simple and I really admire that" — Jalen Williams on learning from Shai Gilgeous-Alexander's off-court habits** [02:02](https://www.youtube.com/watch?v=93Sa13UVrrA&t=122s)
 
@@ -42,7 +42,7 @@ Jalen Williams: "For me, it was seeing how he was just in the off-season in gene
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=122s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=122s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=122&q=5)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=122&q=5) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=122&q=5&slack=1)</small>
 
 **6. Jalen Williams — "having someone to relieve that pressure off of him, bringing the ball up, it allows him" — Jalen Williams on the benefits of having secondary ball-handlers** [03:56](https://www.youtube.com/watch?v=93Sa13UVrrA&t=236s)
 
@@ -50,7 +50,7 @@ Jalen Williams: "For him, he's always guarded by the best player and so when he 
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=236s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=236s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=236&q=6)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=236&q=6) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=236&q=6&slack=1)</small>
 
 **7. Jalen Williams — "it's just allowed me to help learn the base principles of what they teach here" — Jalen Williams on learning the Thunder's offensive system** [04:47](https://www.youtube.com/watch?v=93Sa13UVrrA&t=287s)
 
@@ -58,7 +58,7 @@ Jalen Williams: "I learned a lot of the offense of the endings of plays or new p
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=287s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=287s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=287&q=7)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=287&q=7) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=287&q=7&slack=1)</small>
 
 **8. Jalen Williams — "it definitely gives you confidence when you miss a few in a row, your teammates and coaches" — Jalen Williams on the team's supportive culture regarding shot selection** [05:53](https://www.youtube.com/watch?v=93Sa13UVrrA&t=353s)
 
@@ -66,7 +66,7 @@ Jalen Williams: "It's amazing. I thank Mark for allowing me to take those shots 
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=353s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=353s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=353&q=8)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=353&q=8) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=353&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "I thought obviously I thought we were really sharp last night to start the game" — Mark Daigneault on the team's sharp start and player rotation** [06:42](https://www.youtube.com/watch?v=93Sa13UVrrA&t=402s)
 
@@ -74,7 +74,7 @@ Mark Daigneault: "I thought obviously I thought we were really sharp last night 
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=402s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=402s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=402&q=9)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=402&q=9) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=402&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "it's interesting to see how the guys have responded to him" — Mark Daigneault on the team's trust in Jalen Williams' playmaking** [07:25](https://www.youtube.com/watch?v=93Sa13UVrrA&t=445s)
 
@@ -82,7 +82,7 @@ Mark Daigneault: "He's done a great job of that. I think the guys have learned, 
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=445s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=445s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=445&q=10)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=445&q=10) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=445&q=10&slack=1)</small>
 
 **11. Mark Daigneault — "it's a sign of professional effort to get yourself ready to play in the second night" — Mark Daigneault on the rookies' professional approach to back-to-back games** [08:18](https://www.youtube.com/watch?v=93Sa13UVrrA&t=498s)
 
@@ -90,7 +90,7 @@ Mark Daigneault: "I thought, like I said last night, he continues to calibrate a
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=498s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=498s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=498&q=11)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=498&q=11) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=498&q=11&slack=1)</small>
 
 **12. Mark Daigneault — "he's incredibly mature and professional, well beyond his years" — Mark Daigneault on Jalen Williams' maturity and professionalism** [09:03](https://www.youtube.com/watch?v=93Sa13UVrrA&t=543s)
 
@@ -98,7 +98,7 @@ Mark Daigneault: "He's incredibly mature and professional, well beyond his years
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=543s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=543s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=543&q=12)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=543&q=12) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=543&q=12&slack=1)</small>
 
 **13. Mark Daigneault — "he's got an electric motor that really is contagious inside the team" — Mark Daigneault on Jalen Williams' defensive impact** [09:50](https://www.youtube.com/watch?v=93Sa13UVrrA&t=590s)
 
@@ -106,7 +106,7 @@ Mark Daigneault: "He was awesome. It was just great to see him out there playing
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=590s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=590s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=590&q=13)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=590&q=13) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=590&q=13&slack=1)</small>
 
 **14. Mark Daigneault — "the invisible work shows up and he did a lot of invisible work in between" — Mark Daigneault on Jalen Williams' off-season conditioning** [10:26](https://www.youtube.com/watch?v=93Sa13UVrrA&t=626s)
 
@@ -114,4 +114,4 @@ Mark Daigneault: "It's just a testament, the invisible work shows up and he did 
 
 [https://www.youtube.com/watch?v=93Sa13UVrrA&t=626s](https://www.youtube.com/watch?v=93Sa13UVrrA&t=626s)
 
-<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=626&q=14)</small>
+<small>[Clip it](presserclips://clip?v=93Sa13UVrrA&t=626&q=14) · [Send to Slack](presserclips://clip?v=93Sa13UVrrA&t=626&q=14&slack=1)</small>

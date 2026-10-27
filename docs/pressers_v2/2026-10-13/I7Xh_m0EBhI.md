@@ -10,7 +10,7 @@ Taylor Jenkins: "Tyler is a little under the weather, wasn't here today. Hopeful
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=4s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=4s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=4&q=1) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=4&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "It's got to be an everyday thing behind closed doors, through the doors, over the doors." — Taylor Jenkins on evaluating defensive effort and team consistency** [00:44](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I think we got a lot of guys I'm trying to evaluate. I think th
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=44&q=2) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=44&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "He's on track making progress. Obviously we're doing everything possible to hopefully be available for opening night." — Taylor Jenkins on Nate Williams' availability for opening night** [01:26](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "Still TBD. He's on track making progress. Obviously we're doing
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=86&q=3)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=86&q=3) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=86&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "For a young guy, it's really just studying the league, watching a lot of film." — Taylor Jenkins on preparing young players like Younge Claire** [01:58](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s)
 
@@ -34,7 +34,7 @@ Taylor Jenkins: "I don't think there's one way to prepare for an opponent, but w
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=118&q=4)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=118&q=4) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=118&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "I'll continue to evaluate in the next week or so, obviously the nature of the roster." — Taylor Jenkins on the potential for three-guard lineups** [03:27](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s)
 
@@ -42,7 +42,7 @@ Taylor Jenkins: "I'll continue to evaluate in the next week or so, obviously the
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=207&q=5)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=207&q=5) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=207&q=5&slack=1)</small>
 
 **6. Taylor Jenkins — "I love the competitiveness of Jaime, getting him to be more exposed in the starting lineup." — Taylor Jenkins on Jaime's development and defensive growth** [04:41](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s)
 
@@ -50,7 +50,7 @@ Taylor Jenkins: "I love the competitiveness of **Jaime**, getting him to be more
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=281&q=6)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=281&q=6) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=281&q=6&slack=1)</small>
 
 **7. Taylor Jenkins — "It's a balance of organic and not formal meetings too." — Taylor Jenkins on the decision-making process with John** [05:41](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s)
 
@@ -58,7 +58,7 @@ Taylor Jenkins: "It's a balance of organic and not formal meetings too. After ou
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=341&q=7)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=341&q=7) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=341&q=7&slack=1)</small>
 
 **8. Taylor Jenkins — "Our real test starts next Wednesday. I stress to them today the level of urgency." — Taylor Jenkins on the team's defensive focus heading into the season** [06:45](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s)
 
@@ -66,4 +66,4 @@ Taylor Jenkins: "Our real test starts next Wednesday. I stress to them today the
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=405&q=8)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=405&q=8) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=405&q=8&slack=1)</small>

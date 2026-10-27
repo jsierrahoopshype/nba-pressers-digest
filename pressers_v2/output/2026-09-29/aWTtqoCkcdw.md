@@ -10,4 +10,4 @@ Kenrich Williams: "With media day, it is my fifth season, fifth media day. I am 
 
 [https://www.youtube.com/watch?v=aWTtqoCkcdw&t=11s](https://www.youtube.com/watch?v=aWTtqoCkcdw&t=11s)
 
-<small>[Clip it](presserclips://clip?v=aWTtqoCkcdw&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=aWTtqoCkcdw&t=11&q=1) · [Send to Slack](presserclips://clip?v=aWTtqoCkcdw&t=11&q=1&slack=1)</small>

@@ -10,7 +10,7 @@ Coach Adelman: "Tonight was very different. I just actually thought we handled t
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=8s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=8s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=8&q=1) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=8&q=1&slack=1)</small>
 
 **2. Coach Adelman — "If you let guys run untouched, it leads to breakdowns. It leads to people having to be." — Coach Adelman on defensive switching and rotation issues** [01:19](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=79s)
 
@@ -18,7 +18,7 @@ Coach Adelman: "If you're going to switch 1-through-4, like pretty much every te
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=79s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=79s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=79&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=79&q=2) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=79&q=2&slack=1)</small>
 
 **3. Coach Adelman — "Jamal offensively was great. He got to his spots, he kept us in the game." — Coach Adelman on Jamal Murray's offensive performance** [03:49](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=229s)
 
@@ -26,7 +26,7 @@ Coach Adelman: "**Jamal** offensively was great. We put him in the corner over t
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=229s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=229s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=229&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=229&q=3) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=229&q=3&slack=1)</small>
 
 **4. Jamal Murray — "I think we got to be better on our talk, better on our attack." — Jamal Murray on defensive communication and rotation** [07:25](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=445s)
 
@@ -34,7 +34,7 @@ Jamal Murray: "I think we got to be better on our talk, better on our attack. I 
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=445s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=445s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=445&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=445&q=4) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=445&q=4&slack=1)</small>
 
 **5. Jamal Murray — "We got to help him with that. He's not used to Yoke throwing the ball ahead to pass." — Jamal Murray on helping Bryce Hopkins adjust to NBA level** [10:18](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=618s)
 
@@ -42,7 +42,7 @@ Jamal Murray: "We got to help him with that. He's not used to Yoke throwing the 
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=618s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=618s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=618&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=618&q=5) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=618&q=5&slack=1)</small>
 
 **6. Bryce Hopkins — "I feel like we came out flat once again, but I feel like we tried to come out." — Bryce Hopkins on team's slow start and defensive rotation** [15:58](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=958s)
 
@@ -50,7 +50,7 @@ Bryce Hopkins: "I feel like we came out flat once again, but I feel like we trie
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=958s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=958s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=958&q=6)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=958&q=6) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=958&q=6&slack=1)</small>
 
 **7. Bryce Hopkins — "His name speaks for itself. His resume speaks for itself." — Bryce Hopkins on the difficulty of guarding Steph Curry** [16:38](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=998s)
 
@@ -58,7 +58,7 @@ Bryce Hopkins: "I mean, it's **Steph Curry**. I mean, his name speaks for itself
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=998s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=998s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=998&q=7)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=998&q=7) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=998&q=7&slack=1)</small>
 
 **8. Bryce Hopkins — "I feel like it's all has to do with our chemistry. The more games that we play together." — Bryce Hopkins on chemistry with Jamal Murray and Nikola Jokic** [17:04](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=1024s)
 
@@ -66,4 +66,4 @@ Bryce Hopkins: "I feel like it's all has to do with our chemistry. I feel like t
 
 [https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=1024s](https://www.youtube.com/watch?v=ZHRZpi9Z8Qw&t=1024s)
 
-<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=1024&q=8)</small>
+<small>[Clip it](presserclips://clip?v=ZHRZpi9Z8Qw&t=1024&q=8) · [Send to Slack](presserclips://clip?v=ZHRZpi9Z8Qw&t=1024&q=8&slack=1)</small>

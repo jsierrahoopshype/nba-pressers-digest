@@ -10,7 +10,7 @@ Taurean Prince: "It's been good, refreshing, challenging to say the least. Being
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=5s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=5s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=5&q=1) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=5&q=1&slack=1)</small>
 
 **2. Taurean Prince — "It's always good when you know people. I've been around the block a little bit." — Taurean Prince on his relationship with JB Bickerstaff** [00:16](https://www.youtube.com/watch?v=tnwnkhbr53U&t=16s)
 
@@ -18,7 +18,7 @@ Taurean Prince: "It's always good when you know people. I've been around the blo
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=16s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=16s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=16&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=16&q=2) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=16&q=2&slack=1)</small>
 
 **3. Taurean Prince — "Just peak conditioning, just doing things I haven't been asked to do offensively and defensively." — Taurean Prince on the challenges of training camp** [00:32](https://www.youtube.com/watch?v=tnwnkhbr53U&t=32s)
 
@@ -26,7 +26,7 @@ Taurean Prince: "Just peak conditioning, just doing things I haven't been asked 
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=32s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=32s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=32&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=32&q=3) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=32&q=3&slack=1)</small>
 
 **4. Taurean Prince — "It's always good to be able to connect with people, especially in the summertime." — Taurean Prince on building team chemistry during the summer** [00:46](https://www.youtube.com/watch?v=tnwnkhbr53U&t=46s)
 
@@ -34,7 +34,7 @@ Taurean Prince: "It's always good to be able to connect with people, especially 
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=46s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=46s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=46&q=4)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=46&q=4) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=46&q=4&slack=1)</small>
 
 **5. Taurean Prince — "There wasn't really a surprise because of the staffing and everybody that they had over here." — Taurean Prince on the Pistons' recent turnaround** [01:23](https://www.youtube.com/watch?v=tnwnkhbr53U&t=83s)
 
@@ -42,7 +42,7 @@ Taurean Prince: "There wasn't really a surprise because of the staffing and ever
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=83s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=83s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=83&q=5)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=83&q=5) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=83&q=5&slack=1)</small>
 
 **6. Taurean Prince — "That was a very, very hard time, a dark time in my life." — Taurean Prince on his recovery from injury** [01:48](https://www.youtube.com/watch?v=tnwnkhbr53U&t=108s)
 
@@ -50,7 +50,7 @@ Taurean Prince: "That was a very, very hard time, a dark time in my life. People
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=108s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=108s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=108&q=6)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=108&q=6) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=108&q=6&slack=1)</small>
 
 **7. Taurean Prince — "Jared Jack, he was my vet in Atlanta, so I think he is a spokesman on my behalf." — Taurean Prince on joining the Pistons via trade** [02:42](https://www.youtube.com/watch?v=tnwnkhbr53U&t=162s)
 
@@ -58,7 +58,7 @@ Taurean Prince: "I was actually in Miami a few days before I linked up with the 
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=162s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=162s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=162&q=7)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=162&q=7) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=162&q=7&slack=1)</small>
 
 **8. Taurean Prince — "Get stops and go score. Get stops first though." — Taurean Prince on the identity of the Pistons** [03:10](https://www.youtube.com/watch?v=tnwnkhbr53U&t=190s)
 
@@ -66,4 +66,4 @@ Taurean Prince: "Get stops and go score. Get stops first though."
 
 [https://www.youtube.com/watch?v=tnwnkhbr53U&t=190s](https://www.youtube.com/watch?v=tnwnkhbr53U&t=190s)
 
-<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=190&q=8)</small>
+<small>[Clip it](presserclips://clip?v=tnwnkhbr53U&t=190&q=8) · [Send to Slack](presserclips://clip?v=tnwnkhbr53U&t=190&q=8&slack=1)</small>

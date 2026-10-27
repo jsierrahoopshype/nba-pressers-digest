@@ -10,7 +10,7 @@ Miles Bridges: "I'm feeling good. It feels like yesterday I just got traded here
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=13s](https://www.youtube.com/watch?v=DQJklOPVU20&t=13s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=13&q=1) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=13&q=1&slack=1)</small>
 
 **2. Miles Bridges — "If we stay defensive-minded, the offense is going to figure itself out." — Miles Bridges on the Suns' defensive-minded identity** [00:32](https://www.youtube.com/watch?v=DQJklOPVU20&t=32s)
 
@@ -18,7 +18,7 @@ Miles Bridges: "Because we're a versatile group. Of course we hang our hats on d
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=32s](https://www.youtube.com/watch?v=DQJklOPVU20&t=32s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=32&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=32&q=2) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=32&q=2&slack=1)</small>
 
 **3. Miles Bridges — "I haven't picked up full court since Michigan State, but if that's what the team needs" — Miles Bridges on adapting to the Suns' defensive schemes** [01:27](https://www.youtube.com/watch?v=DQJklOPVU20&t=87s)
 
@@ -26,7 +26,7 @@ Miles Bridges: "I'm definitely comfortable. I haven't picked up full court since
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=87s](https://www.youtube.com/watch?v=DQJklOPVU20&t=87s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=87&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=87&q=3) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=87&q=3&slack=1)</small>
 
 **4. Miles Bridges — "Some teams they like to play conservative, but we like to turn people over" — Miles Bridges on the team's emphasis on forcing turnovers** [01:47](https://www.youtube.com/watch?v=DQJklOPVU20&t=107s)
 
@@ -34,7 +34,7 @@ Miles Bridges: "We like to force turnovers. Some teams they like to play conserv
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=107s](https://www.youtube.com/watch?v=DQJklOPVU20&t=107s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=107&q=4)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=107&q=4) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=107&q=4&slack=1)</small>
 
 **5. Miles Bridges — "I feel like the league is the most balanced it's ever been." — Miles Bridges on the competitiveness of the current NBA** [02:01](https://www.youtube.com/watch?v=DQJklOPVU20&t=121s)
 
@@ -42,7 +42,7 @@ Miles Bridges: "I feel like the league is the most balanced it's ever been. Ther
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=121s](https://www.youtube.com/watch?v=DQJklOPVU20&t=121s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=121&q=5)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=121&q=5) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=121&q=5&slack=1)</small>
 
 **6. Miles Bridges — "I used to tell LaMelo I was a better passer, so this is my year to prove it." — Miles Bridges on his goal to improve his passing** [03:21](https://www.youtube.com/watch?v=DQJklOPVU20&t=201s)
 
@@ -50,7 +50,7 @@ Miles Bridges: "Hopefully. I used to tell LaMelo I was a better passer, so this 
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=201s](https://www.youtube.com/watch?v=DQJklOPVU20&t=201s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=201&q=6)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=201&q=6) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=201&q=6&slack=1)</small>
 
 **7. Miles Bridges — "He's a maniac on the floor. He gets loose balls that he's not supposed to get." — Miles Bridges on the impact of playing with a playmaker** [03:34](https://www.youtube.com/watch?v=DQJklOPVU20&t=214s)
 
@@ -58,7 +58,7 @@ Miles Bridges: "He's a maniac on the floor. He gets loose balls that he's not su
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=214s](https://www.youtube.com/watch?v=DQJklOPVU20&t=214s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=214&q=7)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=214&q=7) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=214&q=7&slack=1)</small>
 
 **8. Miles Bridges — "We've been trying to get $250 every time we get an offensive rebound on free throws." — Miles Bridges on the team's focus on offensive rebounding** [05:03](https://www.youtube.com/watch?v=DQJklOPVU20&t=303s)
 
@@ -66,7 +66,7 @@ Miles Bridges: "We've been trying to get $250 every time we get an offensive reb
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=303s](https://www.youtube.com/watch?v=DQJklOPVU20&t=303s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=303&q=8)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=303&q=8) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=303&q=8&slack=1)</small>
 
 **9. Miles Bridges — "They just want us to be physical no matter what. Don't pay attention to the refs." — Miles Bridges on the coaching staff's philosophy on physicality** [05:38](https://www.youtube.com/watch?v=DQJklOPVU20&t=338s)
 
@@ -74,4 +74,4 @@ Miles Bridges: "They just want us to be physical no matter what. Don't pay atten
 
 [https://www.youtube.com/watch?v=DQJklOPVU20&t=338s](https://www.youtube.com/watch?v=DQJklOPVU20&t=338s)
 
-<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=338&q=9)</small>
+<small>[Clip it](presserclips://clip?v=DQJklOPVU20&t=338&q=9) · [Send to Slack](presserclips://clip?v=DQJklOPVU20&t=338&q=9&slack=1)</small>

@@ -10,7 +10,7 @@ Chris Finch: "It starts with Jaden, Anthony, and Nickeil, those guys just gettin
 
 [https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=11s](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=11s)
 
-<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=11&q=1) · [Send to Slack](presserclips://clip?v=_wvwBR9ZEvs&t=11&q=1&slack=1)</small>
 
 **2. Chris Finch — "Anthony was great early. We have been able to create distance in the game when Anthony started" — Anthony Edwards' playmaking and the team's high-assist approach** [01:43](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=103s)
 
@@ -18,7 +18,7 @@ Chris Finch: "Anthony was great early. Both games we have played, we have been a
 
 [https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=103s](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=103s)
 
-<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=103&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=103&q=2) · [Send to Slack](presserclips://clip?v=_wvwBR9ZEvs&t=103&q=2&slack=1)</small>
 
 **3. Chris Finch — "when you have a point guard like Mike Conley, everything kind of spreads from that" — Mike Conley's influence as a playmaker and team leader** [02:36](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=156s)
 
@@ -26,7 +26,7 @@ Chris Finch: "When you have a point guard like **Mike Conley**, everything kind 
 
 [https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=156s](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=156s)
 
-<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=156&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=156&q=3) · [Send to Slack](presserclips://clip?v=_wvwBR9ZEvs&t=156&q=3&slack=1)</small>
 
 **4. Chris Finch — "it has been one of the transformations of our team is his leadership" — Anthony Edwards' growth as a leader on and off the court** [03:30](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=210s)
 
@@ -34,7 +34,7 @@ Chris Finch: "It has been one of the transformations of our team is his leadersh
 
 [https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=210s](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=210s)
 
-<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=210&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=210&q=4) · [Send to Slack](presserclips://clip?v=_wvwBR9ZEvs&t=210&q=4&slack=1)</small>
 
 **5. Chris Finch — "I was proud of Anthony in particular because I know he was frustrated that he didn't connect" — Anthony Edwards' offensive decision-making and commitment to attacking the rim** [04:19](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=259s)
 
@@ -42,7 +42,7 @@ Chris Finch: "I was proud of Anthony in particular because I know he was frustra
 
 [https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=259s](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=259s)
 
-<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=259&q=5)</small>
+<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=259&q=5) · [Send to Slack](presserclips://clip?v=_wvwBR9ZEvs&t=259&q=5&slack=1)</small>
 
 **6. Chris Finch — "feels like he is kind of settling into that to a consistency" — Naz Reid's consistency and defensive development** [05:19](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=319s)
 
@@ -50,4 +50,4 @@ Chris Finch: "Feels like he is kind of settling into that to a consistency. I th
 
 [https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=319s](https://www.youtube.com/watch?v=_wvwBR9ZEvs&t=319s)
 
-<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=319&q=6)</small>
+<small>[Clip it](presserclips://clip?v=_wvwBR9ZEvs&t=319&q=6) · [Send to Slack](presserclips://clip?v=_wvwBR9ZEvs&t=319&q=6&slack=1)</small>

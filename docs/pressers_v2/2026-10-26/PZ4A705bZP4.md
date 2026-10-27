@@ -10,7 +10,7 @@ Immanuel Quickley: "Our defense was the main thing. I got to be better on the ba
 
 [https://www.youtube.com/watch?v=PZ4A705bZP4&t=3s](https://www.youtube.com/watch?v=PZ4A705bZP4&t=3s)
 
-<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=3&q=1) · [Send to Slack](presserclips://clip?v=PZ4A705bZP4&t=3&q=1&slack=1)</small>
 
 **2. Immanuel Quickley — "you got to make it into a defensive game when you playing them." — Quickley on the turning point in the second quarter** [00:21](https://www.youtube.com/watch?v=PZ4A705bZP4&t=21s)
 
@@ -18,7 +18,7 @@ Immanuel Quickley: "The defense. This is a really good offensive team and you go
 
 [https://www.youtube.com/watch?v=PZ4A705bZP4&t=21s](https://www.youtube.com/watch?v=PZ4A705bZP4&t=21s)
 
-<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=21&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=21&q=2) · [Send to Slack](presserclips://clip?v=PZ4A705bZP4&t=21&q=2&slack=1)</small>
 
 **3. Immanuel Quickley — "just the way he's willing to do all the little stuff. Same with Jakob." — Quickley praises the development of Jakob Poeltl and Ochai Agbaji** [00:37](https://www.youtube.com/watch?v=PZ4A705bZP4&t=37s)
 
@@ -26,7 +26,7 @@ Immanuel Quickley: "**Ochai Agbaji**, just the way he's willing to do all the li
 
 [https://www.youtube.com/watch?v=PZ4A705bZP4&t=37s](https://www.youtube.com/watch?v=PZ4A705bZP4&t=37s)
 
-<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=37&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=37&q=3) · [Send to Slack](presserclips://clip?v=PZ4A705bZP4&t=37&q=3&slack=1)</small>
 
 **4. Immanuel Quickley — "you got to find a way to be kind of even-keel throughout the season." — Quickley on maintaining team balance throughout the season** [01:06](https://www.youtube.com/watch?v=PZ4A705bZP4&t=66s)
 
@@ -34,4 +34,4 @@ Immanuel Quickley: "It's easy to be up when you winning, easy to be down when yo
 
 [https://www.youtube.com/watch?v=PZ4A705bZP4&t=66s](https://www.youtube.com/watch?v=PZ4A705bZP4&t=66s)
 
-<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=66&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PZ4A705bZP4&t=66&q=4) · [Send to Slack](presserclips://clip?v=PZ4A705bZP4&t=66&q=4&slack=1)</small>

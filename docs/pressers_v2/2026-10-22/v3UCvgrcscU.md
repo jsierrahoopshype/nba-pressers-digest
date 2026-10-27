@@ -8,7 +8,7 @@ Brandon Miller: "It felt pretty good, just being back out there with the guys, o
 
 [https://www.youtube.com/watch?v=v3UCvgrcscU&t=0s](https://www.youtube.com/watch?v=v3UCvgrcscU&t=0s)
 
-<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=0&q=1) · [Send to Slack](presserclips://clip?v=v3UCvgrcscU&t=0&q=1&slack=1)</small>
 
 **2. Brandon Miller — "They're coaching the young guys in the timeouts, on the court, or wherever they can help." — Brandon Miller on the impact of new coaching staff and team chemistry** [00:28](https://www.youtube.com/watch?v=v3UCvgrcscU&t=28s)
 
@@ -18,7 +18,7 @@ Brandon Miller: "It felt pretty good, just being back out there with the guys, o
 
 [https://www.youtube.com/watch?v=v3UCvgrcscU&t=28s](https://www.youtube.com/watch?v=v3UCvgrcscU&t=28s)
 
-<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=28&q=2)</small>
+<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=28&q=2) · [Send to Slack](presserclips://clip?v=v3UCvgrcscU&t=28&q=2&slack=1)</small>
 
 **3. Brandon Miller — "I'm always telling we're going to be a playoff team." — Brandon Miller on his role and expectations for the Hornets** [00:54](https://www.youtube.com/watch?v=v3UCvgrcscU&t=54s)
 
@@ -28,7 +28,7 @@ Brandon Miller: "It felt pretty good, just being back out there with the guys, o
 
 [https://www.youtube.com/watch?v=v3UCvgrcscU&t=54s](https://www.youtube.com/watch?v=v3UCvgrcscU&t=54s)
 
-<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=54&q=3)</small>
+<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=54&q=3) · [Send to Slack](presserclips://clip?v=v3UCvgrcscU&t=54&q=3&slack=1)</small>
 
 **4. Brandon Miller — "I think the way that we fight against adversity." — Brandon Miller on the team's resilience without key players** [01:45](https://www.youtube.com/watch?v=v3UCvgrcscU&t=105s)
 
@@ -38,4 +38,4 @@ Brandon Miller: "It felt pretty good, just being back out there with the guys, o
 
 [https://www.youtube.com/watch?v=v3UCvgrcscU&t=105s](https://www.youtube.com/watch?v=v3UCvgrcscU&t=105s)
 
-<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=105&q=4)</small>
+<small>[Clip it](presserclips://clip?v=v3UCvgrcscU&t=105&q=4) · [Send to Slack](presserclips://clip?v=v3UCvgrcscU&t=105&q=4&slack=1)</small>

@@ -10,7 +10,7 @@ Darko Rajakovic: "We put a lot of work in and guys were ready to go out there an
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=7s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=7s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=7&q=1) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=7&q=1&slack=1)</small>
 
 **2. Darko Rajakovic — "Chicago Bulls is the team that if they create a lot of steals, that really fuels their offense" — Focus on limiting turnovers and transition opportunities for Chicago** [00:54](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=54s)
 
@@ -18,7 +18,7 @@ Darko Rajakovic: "Chicago Bulls is the team that if they create a lot of steals,
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=54s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=54s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=54&q=2) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=54&q=2&slack=1)</small>
 
 **3. Darko Rajakovic — "he was aggressive as we need him to be" — Kawhi Leonard's aggressive debut and long-term integration** [01:12](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=72s)
 
@@ -26,7 +26,7 @@ Darko Rajakovic: "It's great. I thought that he was really dialed in. He was agg
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=72s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=72s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=72&q=3)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=72&q=3) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=72&q=3&slack=1)</small>
 
 **4. Darko Rajakovic — "he's still building his capacity to play" — Kawhi Leonard's shooting efficiency and physical conditioning process** [01:45](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=105s)
 
@@ -34,7 +34,7 @@ Darko Rajakovic: "I thought that the shots that he was getting were really good 
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=105s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=105s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=105&q=4)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=105&q=4) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=105&q=4&slack=1)</small>
 
 **5. Darko Rajakovic — "I thought that Allen was great. I think he was really trying to rebound the ball" — Rookie development and Allen's rebounding performance** [02:35](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=155s)
 
@@ -42,7 +42,7 @@ Darko Rajakovic: "I thought that **Allen** was great. I think he was really tryi
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=155s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=155s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=155&q=5)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=155&q=5) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=155&q=5&slack=1)</small>
 
 **6. Darko Rajakovic — "he did a really good job in pick and rolls, mixing it up" — RJ's defensive technique and pick-and-roll coverage** [03:04](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=184s)
 
@@ -50,7 +50,7 @@ Darko Rajakovic: "I thought that he did a really good job with a point of attack
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=184s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=184s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=184&q=6)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=184&q=6) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=184&q=6&slack=1)</small>
 
 **7. Darko Rajakovic — "he's a great shooter, we believe in his shot" — Trusting the team's shooters on open looks** [03:35](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=215s)
 
@@ -58,7 +58,7 @@ Darko Rajakovic: "He's a great shooter, we believe in his shot. He's putting a l
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=215s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=215s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=215&q=7)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=215&q=7) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=215&q=7&slack=1)</small>
 
 **8. Darko Rajakovic — "we got to be aggressive, but we got to also be very efficient with that aggressiveness" — Maintaining offensive flow and aggressive tempo** [03:50](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=230s)
 
@@ -66,7 +66,7 @@ Darko Rajakovic: "I thought that for majority of the game, I thought that we did
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=230s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=230s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=230&q=8)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=230&q=8) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=230&q=8&slack=1)</small>
 
 **9. Darko Rajakovic — "he did a great job of communicating with teammates, getting us organized" — Emmanuel's playmaking and communication on the floor** [04:15](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=255s)
 
@@ -74,7 +74,7 @@ Darko Rajakovic: "Seven assists, no turnovers. I would disagree with referees, I
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=255s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=255s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=255&q=9)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=255&q=9) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=255&q=9&slack=1)</small>
 
 **10. Darko Rajakovic — "he is unique player and when he plays with a lot of force, that's the recipe for his success" — The importance of force and aggressiveness in player performance** [04:48](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=288s)
 
@@ -82,4 +82,4 @@ Darko Rajakovic: "He is unique player and when he plays with a lot of force, tha
 
 [https://www.youtube.com/watch?v=BLnIe1WJHyc&t=288s](https://www.youtube.com/watch?v=BLnIe1WJHyc&t=288s)
 
-<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=288&q=10)</small>
+<small>[Clip it](presserclips://clip?v=BLnIe1WJHyc&t=288&q=10) · [Send to Slack](presserclips://clip?v=BLnIe1WJHyc&t=288&q=10&slack=1)</small>

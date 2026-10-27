@@ -10,7 +10,7 @@ Nate Ament: "We definitely been working hard, especially all the energy and care
 
 [https://www.youtube.com/watch?v=BGGnclh38Yo&t=10s](https://www.youtube.com/watch?v=BGGnclh38Yo&t=10s)
 
-<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=10&q=1) · [Send to Slack](presserclips://clip?v=BGGnclh38Yo&t=10&q=1&slack=1)</small>
 
 **2. Nate Ament — "the more you are watching the game and the more you feel the game, the more you can adjust" — Nate Ament on his personal growth and coaching staff influence** [01:04](https://www.youtube.com/watch?v=BGGnclh38Yo&t=64s)
 
@@ -18,7 +18,7 @@ Nate Ament: "The more you are watching the game and the more you feel the game, 
 
 [https://www.youtube.com/watch?v=BGGnclh38Yo&t=64s](https://www.youtube.com/watch?v=BGGnclh38Yo&t=64s)
 
-<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=64&q=2)</small>
+<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=64&q=2) · [Send to Slack](presserclips://clip?v=BGGnclh38Yo&t=64&q=2&slack=1)</small>
 
 **3. Nate Ament — "it is great to have some of the backcourt like Braden, and he is a great teammate" — Nate Ament on his chemistry and future with Braden** [01:45](https://www.youtube.com/watch?v=BGGnclh38Yo&t=105s)
 
@@ -26,7 +26,7 @@ Nate Ament: "Me and **Braden** have talked and we just have big goals and big as
 
 [https://www.youtube.com/watch?v=BGGnclh38Yo&t=105s](https://www.youtube.com/watch?v=BGGnclh38Yo&t=105s)
 
-<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=105&q=3)</small>
+<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=105&q=3) · [Send to Slack](presserclips://clip?v=BGGnclh38Yo&t=105&q=3&slack=1)</small>
 
 **4. Nate Ament — "I think that we just stuck with it for 48 minutes. I think it was less about Xs and Os" — Nate Ament on the team's resilience in closing out games** [02:16](https://www.youtube.com/watch?v=BGGnclh38Yo&t=136s)
 
@@ -34,4 +34,4 @@ Nate Ament: "I think that we just stuck with it for 48 minutes. I think it was l
 
 [https://www.youtube.com/watch?v=BGGnclh38Yo&t=136s](https://www.youtube.com/watch?v=BGGnclh38Yo&t=136s)
 
-<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=136&q=4)</small>
+<small>[Clip it](presserclips://clip?v=BGGnclh38Yo&t=136&q=4) · [Send to Slack](presserclips://clip?v=BGGnclh38Yo&t=136&q=4&slack=1)</small>

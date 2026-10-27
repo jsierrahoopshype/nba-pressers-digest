@@ -10,7 +10,7 @@ Shawn Marion: "I think they're young, they're athletic. Hopefully they can have 
 
 [https://www.youtube.com/watch?v=ODaynm-vR9I&t=85s](https://www.youtube.com/watch?v=ODaynm-vR9I&t=85s)
 
-<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=85&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=85&q=1) · [Send to Slack](presserclips://clip?v=ODaynm-vR9I&t=85&q=1&slack=1)</small>
 
 **2. Shawn Marion — "Sometimes nothing needs to be said. Just got to go out there and do it." — Shawn Marion on the importance of actions over words** [01:43](https://www.youtube.com/watch?v=ODaynm-vR9I&t=103s)
 
@@ -18,7 +18,7 @@ Shawn Marion: "Sometimes nothing needs to be said. Just got to go out there and 
 
 [https://www.youtube.com/watch?v=ODaynm-vR9I&t=103s](https://www.youtube.com/watch?v=ODaynm-vR9I&t=103s)
 
-<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=103&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=103&q=2) · [Send to Slack](presserclips://clip?v=ODaynm-vR9I&t=103&q=2&slack=1)</small>
 
 **3. Shawn Marion — "Big Book, big 30 baby. Man, he make me feel old right now." — Shawn Marion on Devin Booker turning 30** [02:44](https://www.youtube.com/watch?v=ODaynm-vR9I&t=164s)
 
@@ -26,7 +26,7 @@ Shawn Marion: "Big Book, big 30 baby. Man, he make me feel old right now. Every 
 
 [https://www.youtube.com/watch?v=ODaynm-vR9I&t=164s](https://www.youtube.com/watch?v=ODaynm-vR9I&t=164s)
 
-<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=164&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=164&q=3) · [Send to Slack](presserclips://clip?v=ODaynm-vR9I&t=164&q=3&slack=1)</small>
 
 **4. Shawn Marion — "It's a high-pace, octane game now. Everybody's, what everybody we saying now, it's a make-or-miss league now." — Shawn Marion on the evolution of NBA playstyles** [04:13](https://www.youtube.com/watch?v=ODaynm-vR9I&t=253s)
 
@@ -34,7 +34,7 @@ Shawn Marion: "It's a high-pace, octane game now. Everybody's, what everybody we
 
 [https://www.youtube.com/watch?v=ODaynm-vR9I&t=253s](https://www.youtube.com/watch?v=ODaynm-vR9I&t=253s)
 
-<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=253&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=253&q=4) · [Send to Slack](presserclips://clip?v=ODaynm-vR9I&t=253&q=4&slack=1)</small>
 
 **5. Shawn Marion — "I think I can play in every era personally, but definitely it would be a lot more tailored." — Shawn Marion on how he would fit in today's NBA** [05:30](https://www.youtube.com/watch?v=ODaynm-vR9I&t=330s)
 
@@ -42,4 +42,4 @@ Shawn Marion: "I think I can play in every era personally, but definitely it wou
 
 [https://www.youtube.com/watch?v=ODaynm-vR9I&t=330s](https://www.youtube.com/watch?v=ODaynm-vR9I&t=330s)
 
-<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=330&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ODaynm-vR9I&t=330&q=5) · [Send to Slack](presserclips://clip?v=ODaynm-vR9I&t=330&q=5&slack=1)</small>

@@ -10,7 +10,7 @@ Tuomas Iisalo: "I felt that things in the third and the fourth, we had good cont
 
 [https://www.youtube.com/watch?v=j094Tn-TJGM&t=0s](https://www.youtube.com/watch?v=j094Tn-TJGM&t=0s)
 
-<small>[Clip it](presserclips://clip?v=j094Tn-TJGM&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=j094Tn-TJGM&t=0&q=1) · [Send to Slack](presserclips://clip?v=j094Tn-TJGM&t=0&q=1&slack=1)</small>
 
 **2. Tuomas Iisalo — "to get these reps early in the season, with I think we're the fourth youngest team" — Iisalo on the importance of early-season reps for young Grizzlies** [00:54](https://www.youtube.com/watch?v=j094Tn-TJGM&t=54s)
 
@@ -18,7 +18,7 @@ Tuomas Iisalo: "Every one of these games, as hard as it is for the nerves for ev
 
 [https://www.youtube.com/watch?v=j094Tn-TJGM&t=54s](https://www.youtube.com/watch?v=j094Tn-TJGM&t=54s)
 
-<small>[Clip it](presserclips://clip?v=j094Tn-TJGM&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=j094Tn-TJGM&t=54&q=2) · [Send to Slack](presserclips://clip?v=j094Tn-TJGM&t=54&q=2&slack=1)</small>
 
 **3. Tuomas Iisalo — "I personally don't consider it a luxury. I consider it a necessity in this schedule." — Iisalo views roster depth as a necessity for 82-game schedule** [01:11](https://www.youtube.com/watch?v=j094Tn-TJGM&t=71s)
 
@@ -26,4 +26,4 @@ Tuomas Iisalo: "I personally don't consider it a luxury. I consider it a necessi
 
 [https://www.youtube.com/watch?v=j094Tn-TJGM&t=71s](https://www.youtube.com/watch?v=j094Tn-TJGM&t=71s)
 
-<small>[Clip it](presserclips://clip?v=j094Tn-TJGM&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=j094Tn-TJGM&t=71&q=3) · [Send to Slack](presserclips://clip?v=j094Tn-TJGM&t=71&q=3&slack=1)</small>

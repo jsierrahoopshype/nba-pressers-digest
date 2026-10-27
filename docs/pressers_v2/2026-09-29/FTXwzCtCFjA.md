@@ -10,7 +10,7 @@ Gary Payton II: "He is good. Good kid, good size. He is going to help us on both
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=46s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=46s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=46&q=1) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=46&q=1&slack=1)</small>
 
 **2. Gary Payton II — "It was a no-brainer. I had some few other options, but at this point in time" — Gary Payton II says returning to the Warriors was an easy decision.** [05:06](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=306s)
 
@@ -18,7 +18,7 @@ Gary Payton II: "It was a no-brainer. I had some few other options, but at this 
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=306s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=306s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=306&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=306&q=2) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=306&q=2&slack=1)</small>
 
 **3. Gary Payton II — "He is going to get thrown in the fire. I am pretty sure of it." — Gary Payton II says the team will throw Brandon Podziemski into the fire this season.** [07:04](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=424s)
 
@@ -26,7 +26,7 @@ Gary Payton II: "He is going to get thrown in the fire. I am pretty sure of it. 
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=424s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=424s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=424&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=424&q=3) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=424&q=3&slack=1)</small>
 
 **4. Gary Payton II — "He is going to help me get my my foot speed back" — Gary Payton II says Brandon Podziemski will help him improve his defensive foot speed.** [07:45](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=465s)
 
@@ -34,4 +34,4 @@ Gary Payton II: "He is going to help me get my my foot speed back and just for t
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=465s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=465s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=465&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=465&q=4) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=465&q=4&slack=1)</small>

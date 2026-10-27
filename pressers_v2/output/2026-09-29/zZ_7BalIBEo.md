@@ -10,7 +10,7 @@ Coby White: "Most of the time when guys come in a situation like this, the coach
 
 [https://www.youtube.com/watch?v=zZ_7BalIBEo&t=86s](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=86s)
 
-<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=86&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=86&q=1) · [Send to Slack](presserclips://clip?v=zZ_7BalIBEo&t=86&q=1&slack=1)</small>
 
 **2. Coby White — "all that time invested allow us to kind of transition quickly in the training camp" — Coby White says summer workouts helped the Hornets transition quickly into training camp** [03:16](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s)
 
@@ -18,4 +18,4 @@ Coby White: "I think all that time invested allow us to kind of transition quick
 
 [https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s)
 
-<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=196&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=196&q=2) · [Send to Slack](presserclips://clip?v=zZ_7BalIBEo&t=196&q=2&slack=1)</small>

@@ -10,7 +10,7 @@ Jordan Ott: "He's had a great preseason. It starts with the summer, but you don'
 
 [https://www.youtube.com/watch?v=zb1u1EUm4Z0&t=7s](https://www.youtube.com/watch?v=zb1u1EUm4Z0&t=7s)
 
-<small>[Clip it](presserclips://clip?v=zb1u1EUm4Z0&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zb1u1EUm4Z0&t=7&q=1) · [Send to Slack](presserclips://clip?v=zb1u1EUm4Z0&t=7&q=1&slack=1)</small>
 
 **2. Jordan Ott — "Especially at a game like this where they're ultra aggressive, pressure the basketball 94 feet, he had to" — Bol Bol's role and defensive responsibilities in an aggressive system** [01:37](https://www.youtube.com/watch?v=zb1u1EUm4Z0&t=97s)
 
@@ -18,4 +18,4 @@ Jordan Ott: "Especially at a game like this where they're ultra aggressive, pres
 
 [https://www.youtube.com/watch?v=zb1u1EUm4Z0&t=97s](https://www.youtube.com/watch?v=zb1u1EUm4Z0&t=97s)
 
-<small>[Clip it](presserclips://clip?v=zb1u1EUm4Z0&t=97&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zb1u1EUm4Z0&t=97&q=2) · [Send to Slack](presserclips://clip?v=zb1u1EUm4Z0&t=97&q=2&slack=1)</small>

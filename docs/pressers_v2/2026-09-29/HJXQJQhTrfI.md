@@ -10,7 +10,7 @@ Unidentified speaker: "I think he may be the biggest addition in the NBA off-sea
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=134s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=134s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=134&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=134&q=1) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=134&q=1&slack=1)</small>
 
 **2. Unidentified speaker — Unidentified speaker discusses his adjustment period after joining the Milwaukee Bucks** [1:04:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s)
 
@@ -18,7 +18,7 @@ Unidentified speaker: "I think first and foremost it's like set a foundation, yo
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3844&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3844&q=2) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=3844&q=2&slack=1)</small>
 
 **3. Unidentified speaker — Unidentified speaker says he embraces the pressure of playing for his home state team.** [2:00:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s)
 
@@ -26,7 +26,7 @@ Unidentified speaker: "I like pressure. That's what makes me. I decommitted from
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7231&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7231&q=3) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7231&q=3&slack=1)</small>
 
 **4. Unidentified speaker — Unidentified speaker notes the lack of tanking rules makes this an unusual and competitive NBA season.** [03:30](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s)
 
@@ -34,7 +34,7 @@ Unidentified speaker: "This is such an unusual year in the NBA. It's the first t
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=210&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=210&q=4) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=210&q=4&slack=1)</small>
 
 **5. Unidentified speaker — Unidentified speaker emphasizes that the team is focused on the work required to win** [1:05:30](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s)
 
@@ -42,7 +42,7 @@ Unidentified speaker: "I think that's been the sentiment, you know, pretty much 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3930&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3930&q=5) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=3930&q=5&slack=1)</small>
 
 **6. Unidentified speaker — Unidentified speaker discusses his trade to Milwaukee and his experience acclimating to the city.** [2:02:03](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s)
 
@@ -50,7 +50,7 @@ Unidentified speaker: "I was told that you are not really in the NBA until you g
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7323&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7323&q=6) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7323&q=6&slack=1)</small>
 
 **7. Unidentified speaker — Unidentified speaker reflects on the success of the Giannis Antetokounmpo era and the team's championship history.** [05:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s)
 
@@ -58,7 +58,7 @@ Unidentified speaker: "Obviously, a huge blessing to have a guy like Giannis in 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=331&q=7)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=331&q=7) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=331&q=7&slack=1)</small>
 
 **8. Unidentified speaker — Unidentified speaker identifies consistency and efficiency as his main goals for the season** [1:12:09](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s)
 
@@ -66,7 +66,7 @@ Unidentified speaker: "I think the biggest thing for me is just being consistent
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4329&q=8)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4329&q=8) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=4329&q=8&slack=1)</small>
 
 **9. Unidentified speaker — Unidentified speaker expresses excitement for the upcoming season and the opportunity to establish the team's identity.** [2:03:53](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s)
 
@@ -74,7 +74,7 @@ Unidentified speaker: "It is another opportunity for myself and for us as a team
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7433&q=9)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7433&q=9) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7433&q=9&slack=1)</small>
 
 **10. Unidentified speaker — Unidentified speaker praises Gary Trent Jr. as an elite shooter and key playoff contributor.** [20:33](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s)
 
@@ -82,7 +82,7 @@ Unidentified speaker: "I think that when you look at Gary Trent Jr. and what he'
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1233&q=10)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1233&q=10) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=1233&q=10&slack=1)</small>
 
 **11. Unidentified speaker — Unidentified speaker says his knee feels great after dealing with injuries last season** [1:15:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s)
 
@@ -90,7 +90,7 @@ Unidentified speaker: "I'm I'm really excited. Like you said, I was dealing with
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4531&q=11)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4531&q=11) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=4531&q=11&slack=1)</small>
 
 **12. Unidentified speaker — Unidentified speaker reflects on the departure of a former teammate and looking forward to the new team.** [2:05:21](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s)
 
@@ -98,7 +98,7 @@ Unidentified speaker: "Obviously a great guy, great teammate, great player. Did 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7521&q=12)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7521&q=12) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7521&q=12&slack=1)</small>
 
 **13. Unidentified speaker — Unidentified speaker is described as a teacher who focuses on player development.** [22:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s)
 
@@ -106,7 +106,7 @@ Unidentified speaker: "I know when you talk to players, again, not just basketba
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1324&q=13)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1324&q=13) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=1324&q=13&slack=1)</small>
 
 **14. Unidentified speaker — Unidentified speaker says he is looking forward to the freedom to hoop with his new team** [1:17:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s)
 
@@ -114,7 +114,7 @@ Unidentified speaker: "I mean, you know, just having the freedom to you know, go
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4624&q=14)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4624&q=14) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=4624&q=14&slack=1)</small>
 
 **15. Unidentified speaker — Unidentified speaker reflects on reaching his 10th season in the NBA.** [2:07:01](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s)
 
@@ -122,4 +122,4 @@ Unidentified speaker: "Well, this is my 10th year in the NBA and it is such a bl
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7621&q=15)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7621&q=15) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7621&q=15&slack=1)</small>

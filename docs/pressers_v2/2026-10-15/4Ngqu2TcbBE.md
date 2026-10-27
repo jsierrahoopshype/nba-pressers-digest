@@ -10,7 +10,7 @@ Brayden Burries: "Rookie year is everything is a first at some point. First time
 
 [https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=0s](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=0s)
 
-<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=0&q=1) · [Send to Slack](presserclips://clip?v=4Ngqu2TcbBE&t=0&q=1&slack=1)</small>
 
 **2. Brayden Burries — "We actually did pre-draft together. So it was end of April all the way till June." — Brayden Burries on his pre-draft workout relationship with Caleb** [00:54](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=54s)
 
@@ -18,7 +18,7 @@ Brayden Burries: "We actually did pre-draft together. So it was end of April all
 
 [https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=54s](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=54s)
 
-<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=54&q=2) · [Send to Slack](presserclips://clip?v=4Ngqu2TcbBE&t=54&q=2&slack=1)</small>
 
 **3. Brayden Burries — "I just focus on me. Main focus, focusing on other people, other things, that's just wasted energy." — Brayden Burries on ignoring draft position and focusing on improvement** [01:33](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=93s)
 
@@ -26,7 +26,7 @@ Brayden Burries: "I just focus on me. Main focus, focusing on other people, othe
 
 [https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=93s](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=93s)
 
-<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=93&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=93&q=3) · [Send to Slack](presserclips://clip?v=4Ngqu2TcbBE&t=93&q=3&slack=1)</small>
 
 **4. Brayden Burries — "Most of the shots taken are good shots, just missing, not going my way right now." — Brayden Burries on his offensive approach and maintaining shooting confidence** [02:13](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=133s)
 
@@ -34,7 +34,7 @@ Brayden Burries: "Most of the shots taken are good shots, just missing, not goin
 
 [https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=133s](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=133s)
 
-<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=133&q=4)</small>
+<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=133&q=4) · [Send to Slack](presserclips://clip?v=4Ngqu2TcbBE&t=133&q=4&slack=1)</small>
 
 **5. Brayden Burries — "Just stay in the moment, try to take one play at a time." — Brayden Burries on staying poised and focused on the next play** [02:40](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=160s)
 
@@ -42,7 +42,7 @@ Brayden Burries: "Just stay in the moment, try to take one play at a time. Liter
 
 [https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=160s](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=160s)
 
-<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=160&q=5)</small>
+<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=160&q=5) · [Send to Slack](presserclips://clip?v=4Ngqu2TcbBE&t=160&q=5&slack=1)</small>
 
 **6. Brayden Burries — "Whether you make a turnover, bad pass or miss a shot, like just next-play mentality." — Brayden Burries on his next-play mentality for overcoming mistakes** [03:04](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=184s)
 
@@ -50,4 +50,4 @@ Brayden Burries: "Whether you make a turnover, bad pass or miss a shot, like jus
 
 [https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=184s](https://www.youtube.com/watch?v=4Ngqu2TcbBE&t=184s)
 
-<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=184&q=6)</small>
+<small>[Clip it](presserclips://clip?v=4Ngqu2TcbBE&t=184&q=6) · [Send to Slack](presserclips://clip?v=4Ngqu2TcbBE&t=184&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Shai Gilgeous-Alexander: "Part of who we are as a group, as a unit, is disruptio
 
 [https://www.youtube.com/watch?v=kvP7YclxHxw&t=17s](https://www.youtube.com/watch?v=kvP7YclxHxw&t=17s)
 
-<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=17&q=1) · [Send to Slack](presserclips://clip?v=kvP7YclxHxw&t=17&q=1&slack=1)</small>
 
 **2. Shai Gilgeous-Alexander — "I was going to go out there, and then I saw that they had subbed, so I was just like we should sub too." — Shai Gilgeous-Alexander on his decision to sub himself out** [01:09](https://www.youtube.com/watch?v=kvP7YclxHxw&t=69s)
 
@@ -18,7 +18,7 @@ Shai Gilgeous-Alexander: "I was going to go out there, and then I saw that they 
 
 [https://www.youtube.com/watch?v=kvP7YclxHxw&t=69s](https://www.youtube.com/watch?v=kvP7YclxHxw&t=69s)
 
-<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=69&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=69&q=2) · [Send to Slack](presserclips://clip?v=kvP7YclxHxw&t=69&q=2&slack=1)</small>
 
 **3. Shai Gilgeous-Alexander — "I think those things just come when you just get wound up in the game and you attack on both ends." — Shai Gilgeous-Alexander on his defensive effort and career blocks** [02:24](https://www.youtube.com/watch?v=kvP7YclxHxw&t=144s)
 
@@ -26,7 +26,7 @@ Shai Gilgeous-Alexander: "I think those things just come when you just get wound
 
 [https://www.youtube.com/watch?v=kvP7YclxHxw&t=144s](https://www.youtube.com/watch?v=kvP7YclxHxw&t=144s)
 
-<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=144&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=144&q=3) · [Send to Slack](presserclips://clip?v=kvP7YclxHxw&t=144&q=3&slack=1)</small>
 
 **4. Shai Gilgeous-Alexander — "We want to win. It's nothing more, nothing less than that." — Shai Gilgeous-Alexander on the team's defensive culture and mindset** [03:15](https://www.youtube.com/watch?v=kvP7YclxHxw&t=195s)
 
@@ -34,7 +34,7 @@ Shai Gilgeous-Alexander: "We want to win. It's nothing more, nothing less than t
 
 [https://www.youtube.com/watch?v=kvP7YclxHxw&t=195s](https://www.youtube.com/watch?v=kvP7YclxHxw&t=195s)
 
-<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=195&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=195&q=4) · [Send to Slack](presserclips://clip?v=kvP7YclxHxw&t=195&q=4&slack=1)</small>
 
 **5. Shai Gilgeous-Alexander — "We've emphasized that as a group, try to be a little bit more diverse." — Shai Gilgeous-Alexander on the team's offensive diversity** [03:45](https://www.youtube.com/watch?v=kvP7YclxHxw&t=225s)
 
@@ -42,7 +42,7 @@ Shai Gilgeous-Alexander: "We've emphasized that as a group, try to be a little b
 
 [https://www.youtube.com/watch?v=kvP7YclxHxw&t=225s](https://www.youtube.com/watch?v=kvP7YclxHxw&t=225s)
 
-<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=225&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=225&q=5) · [Send to Slack](presserclips://clip?v=kvP7YclxHxw&t=225&q=5&slack=1)</small>
 
 **6. Shai Gilgeous-Alexander — "We knew we were capable of winning games when we don't make shots." — Shai Gilgeous-Alexander on the team's ability to win despite poor shooting** [04:21](https://www.youtube.com/watch?v=kvP7YclxHxw&t=261s)
 
@@ -50,7 +50,7 @@ Shai Gilgeous-Alexander: "We didn't surprise ourselves tonight. We've won like t
 
 [https://www.youtube.com/watch?v=kvP7YclxHxw&t=261s](https://www.youtube.com/watch?v=kvP7YclxHxw&t=261s)
 
-<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=261&q=6)</small>
+<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=261&q=6) · [Send to Slack](presserclips://clip?v=kvP7YclxHxw&t=261&q=6&slack=1)</small>
 
 **7. Shai Gilgeous-Alexander — "Having a guy like that that could just go get four points in 20 seconds is game changing." — Shai Gilgeous-Alexander on the impact of having Dub back** [04:56](https://www.youtube.com/watch?v=kvP7YclxHxw&t=296s)
 
@@ -58,4 +58,4 @@ Shai Gilgeous-Alexander: "He was great. Even last game, he wasn't great all nigh
 
 [https://www.youtube.com/watch?v=kvP7YclxHxw&t=296s](https://www.youtube.com/watch?v=kvP7YclxHxw&t=296s)
 
-<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=296&q=7)</small>
+<small>[Clip it](presserclips://clip?v=kvP7YclxHxw&t=296&q=7) · [Send to Slack](presserclips://clip?v=kvP7YclxHxw&t=296&q=7&slack=1)</small>

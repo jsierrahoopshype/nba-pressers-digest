@@ -10,7 +10,7 @@ Jayson Tatum: "I never had to miss the game of basketball before in my life. And
 
 [https://www.youtube.com/watch?v=SnBE7ajrbhw&t=176s](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=176s)
 
-<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=176&q=1)</small>
+<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=176&q=1) · [Send to Slack](presserclips://clip?v=SnBE7ajrbhw&t=176&q=1&slack=1)</small>
 
 **2. Jayson Tatum — "Anytime you go through something that is traumatic like that, you you can't be the same person" — Jayson Tatum says he is thankful for the lessons learned during his injury recovery.** [04:25](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=265s)
 
@@ -18,7 +18,7 @@ Jayson Tatum: "Anytime you go through something that is traumatic like that, you
 
 [https://www.youtube.com/watch?v=SnBE7ajrbhw&t=265s](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=265s)
 
-<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=265&q=2)</small>
+<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=265&q=2) · [Send to Slack](presserclips://clip?v=SnBE7ajrbhw&t=265&q=2&slack=1)</small>
 
 **3. Jayson Tatum — Jayson Tatum says sitting on the bench last season helped him see the game through the coaches lens.** [05:22](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=322s)
 
@@ -26,4 +26,4 @@ Jayson Tatum: "I spent obviously a lot of time on the bench, right? And sitting 
 
 [https://www.youtube.com/watch?v=SnBE7ajrbhw&t=322s](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=322s)
 
-<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=322&q=3)</small>
+<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=322&q=3) · [Send to Slack](presserclips://clip?v=SnBE7ajrbhw&t=322&q=3&slack=1)</small>

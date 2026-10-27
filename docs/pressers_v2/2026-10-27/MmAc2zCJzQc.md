@@ -10,7 +10,7 @@ Donovan Mitchell: "It's very rare to ride the coattails of a rookie going into a
 
 [https://www.youtube.com/watch?v=MmAc2zCJzQc&t=19s](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=19s)
 
-<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=19&q=1) · [Send to Slack](presserclips://clip?v=MmAc2zCJzQc&t=19&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "His attention to detail defensively, I think was the biggest thing." — Donovan Mitchell praises Emoni Bates' defensive attention to detail** [01:16](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=76s)
 
@@ -18,7 +18,7 @@ Donovan Mitchell: "His attention to detail defensively, I think was the biggest 
 
 [https://www.youtube.com/watch?v=MmAc2zCJzQc&t=76s](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=76s)
 
-<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=76&q=2)</small>
+<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=76&q=2) · [Send to Slack](presserclips://clip?v=MmAc2zCJzQc&t=76&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "I don't get to do what I do, Jarrett doesn't get to that, Evan doesn't get to those big shots without Malik." — Donovan Mitchell on the importance of role players like Emoni Bates** [02:36](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=156s)
 
@@ -26,7 +26,7 @@ Donovan Mitchell: "It's really not about me and Jarrett. I feel like we did what
 
 [https://www.youtube.com/watch?v=MmAc2zCJzQc&t=156s](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=156s)
 
-<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=156&q=3)</small>
+<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=156&q=3) · [Send to Slack](presserclips://clip?v=MmAc2zCJzQc&t=156&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "Payton's a tough cover, and it's easy for when a guy's got it rolling to get discouraged." — Donovan Mitchell on Payton Watson's defensive impact** [04:00](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=240s)
 
@@ -34,7 +34,7 @@ Donovan Mitchell: "Payton's a tough cover, and it's easy for when a guy's got it
 
 [https://www.youtube.com/watch?v=MmAc2zCJzQc&t=240s](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=240s)
 
-<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=240&q=4)</small>
+<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=240&q=4) · [Send to Slack](presserclips://clip?v=MmAc2zCJzQc&t=240&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "Because of the pace and the three-point shooting and like, it's just so different now." — Donovan Mitchell on why playing with a big lead is difficult** [05:50](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=350s)
 
@@ -42,7 +42,7 @@ Donovan Mitchell: "Because of the pace and the three-point shooting and like, it
 
 [https://www.youtube.com/watch?v=MmAc2zCJzQc&t=350s](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=350s)
 
-<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=350&q=5)</small>
+<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=350&q=5) · [Send to Slack](presserclips://clip?v=MmAc2zCJzQc&t=350&q=5&slack=1)</small>
 
 **6. Donovan Mitchell — "I think a lot of that is is being intentional." — Donovan Mitchell on the psychological aspect of maintaining leads** [08:32](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=512s)
 
@@ -50,4 +50,4 @@ Donovan Mitchell: "I think a lot of that is is being intentional. If we go look 
 
 [https://www.youtube.com/watch?v=MmAc2zCJzQc&t=512s](https://www.youtube.com/watch?v=MmAc2zCJzQc&t=512s)
 
-<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=512&q=6)</small>
+<small>[Clip it](presserclips://clip?v=MmAc2zCJzQc&t=512&q=6) · [Send to Slack](presserclips://clip?v=MmAc2zCJzQc&t=512&q=6&slack=1)</small>

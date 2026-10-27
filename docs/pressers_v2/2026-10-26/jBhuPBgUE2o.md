@@ -12,7 +12,7 @@ _Speakers identified: Rudy Gobert, Sean Dorcellus_
 
 [https://www.youtube.com/watch?v=jBhuPBgUE2o&t=0s](https://www.youtube.com/watch?v=jBhuPBgUE2o&t=0s)
 
-<small>[Clip it](presserclips://clip?v=jBhuPBgUE2o&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jBhuPBgUE2o&t=0&q=1) · [Send to Slack](presserclips://clip?v=jBhuPBgUE2o&t=0&q=1&slack=1)</small>
 
 **2. Sean Dorcellus — "We competing on both ends. We ready, you can feel that guys are really trying to play the right way." — Rudy Gobert on team's high expectations and collective mindset** [00:20](https://www.youtube.com/watch?v=jBhuPBgUE2o&t=20s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Rudy Gobert, Sean Dorcellus_
 
 [https://www.youtube.com/watch?v=jBhuPBgUE2o&t=20s](https://www.youtube.com/watch?v=jBhuPBgUE2o&t=20s)
 
-<small>[Clip it](presserclips://clip?v=jBhuPBgUE2o&t=20&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jBhuPBgUE2o&t=20&q=2) · [Send to Slack](presserclips://clip?v=jBhuPBgUE2o&t=20&q=2&slack=1)</small>
 
 **3. Sean Dorcellus — "One game at a time. Keep putting the work, keep taking care of ourselves and keep getting better." — Rudy Gobert on maintaining the Timberwolves' winning momentum** [00:44](https://www.youtube.com/watch?v=jBhuPBgUE2o&t=44s)
 
@@ -32,4 +32,4 @@ _Speakers identified: Rudy Gobert, Sean Dorcellus_
 
 [https://www.youtube.com/watch?v=jBhuPBgUE2o&t=44s](https://www.youtube.com/watch?v=jBhuPBgUE2o&t=44s)
 
-<small>[Clip it](presserclips://clip?v=jBhuPBgUE2o&t=44&q=3)</small>
+<small>[Clip it](presserclips://clip?v=jBhuPBgUE2o&t=44&q=3) · [Send to Slack](presserclips://clip?v=jBhuPBgUE2o&t=44&q=3&slack=1)</small>

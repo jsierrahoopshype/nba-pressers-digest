@@ -1,0 +1,162 @@
+{
+  "video_title": "Ryan Rollins Media Availability | 10.27.26",
+  "speakers_seen": [
+    "Ryan Rollins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ryan Rollins",
+      "timestamp": "00:00",
+      "summary_phrase": "Ryan Rollins on the importance of team energy and winning",
+      "names_mentioned": [],
+      "excerpt": "it just boosts the morale of the team, you have a new energy.",
+      "quote": "It always feels good to get a win. I mean, that's the whole point of playing in games. It just boosts the morale of the team, you have a new energy. It always feels great to win, for sure.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 15,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ryan Rollins on the Bucks' undefeated start: It always feels good to get a win. It just boosts the morale of the team and gives us a new energy.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Ryan Rollins discusses the positive impact of winning on team morale during his media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ryan Rollins",
+      "timestamp": "00:30",
+      "summary_phrase": "Ryan Rollins on adjusting to the Milwaukee Bucks' backcourt rotation",
+      "names_mentioned": [
+        "MarJon Beauchamp",
+        "Malcolm Brogdon"
+      ],
+      "excerpt": "just being ready when my number is called. I think as a player that's the most you can do.",
+      "quote": "Just being ready when my number is called. I think as a player that's the most you can do in that situation. But like you said, it is more the merrier, so MarJon Beauchamp has been playing great, doing a great job when he's in. Malcolm Brogdon too as well. So it's the more that we get acclimated playing together and just with them getting their reps up and just being comfortable in those spots, I mean it's great. I have no complaints with it. It is what it is.",
+      "text_blocks": [],
+      "start_seconds": 30,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ryan Rollins on the Bucks' crowded backcourt rotation: Just being ready when my number is called. It is the more the merrier with guys like MarJon Beauchamp and Malcolm Brogdon playing great.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "MarJon Beauchamp",
+          "Malcolm Brogdon"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Rollins talks about adjusting to the Milwaukee Bucks backcourt rotation and playing alongside his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ryan Rollins",
+      "timestamp": "01:19",
+      "summary_phrase": "Ryan Rollins on finding team identity during the undefeated start",
+      "names_mentioned": [],
+      "excerpt": "continue to find our identity of how we are successful on both ends of the court.",
+      "quote": "It's more for us, just building on what we did last game, continue to find our identity of how we are successful on both ends of the court and just applying that to the next game. I think that's the main thing for us. I mean they are 4-0, but everybody will end up losing at some point I feel like, so.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ryan Rollins says the 4-0 Bucks are still focused on finding their identity: Everybody will end up losing at some point, so we just have to continue to build on what we did last game.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Ryan Rollins reflects on the team's undefeated start and the importance of building a consistent identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ryan Rollins",
+      "timestamp": "01:45",
+      "summary_phrase": "Ryan Rollins on the Bucks' fast-paced defensive identity",
+      "names_mentioned": [],
+      "excerpt": "it's a fast-paced team. I mean we press, I think the more we guard, the more we make it tough.",
+      "quote": "It's a fast-paced team. I mean we press, I think the more we guard, the more we make it tough for the other team to get the easy buckets. And once we get stops, we push with pace, play fast. I think the more we move the ball, the more we kick up, I think that's the better for us. I think we get early shots and just can play with actions where it's not too much of a set, it's just playing through the motion.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ryan Rollins on the Bucks' defensive identity: We press, and the more we guard, the more we make it tough for the other team. Once we get stops, we push with pace.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Ryan Rollins explains the Milwaukee Bucks' fast-paced offensive and defensive strategy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ryan Rollins",
+      "timestamp": "03:02",
+      "summary_phrase": "Ryan Rollins on balancing defensive effort with offensive contribution",
+      "names_mentioned": [],
+      "excerpt": "just giving all the effort that you got when you walk out there.",
+      "quote": "It's just effort, playing hard, just giving all the effort that you got when you walk out there. I think that's the main thing with it. But I mean with the players that usually the top guard on the other team, just try to make it as difficult as possible for them. Every so often they're going to make some tough shots, they're going to have the ball most of the game, they're going to get a lot of opportunities, a lot of stabs at it and all that, but I think the biggest thing for me is just make it as tough as possible for them, try to be a pest, disrupt their rhythm and all that.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ryan Rollins on his defensive role: My biggest thing is just to make it as tough as possible for the top guard on the other team, try to be a pest and disrupt their rhythm.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Ryan Rollins describes his defensive approach to guarding opposing perimeter players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "xXddMuVwrto",
+  "url": "https://www.youtube.com/watch?v=xXddMuVwrto",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T20:43:07Z",
+  "duration_seconds": 292,
+  "processed_at": "2026-10-27T23:46:31Z",
+  "run_id": "2026-10-27T2345Z-20utc",
+  "is_one_off": false
+}

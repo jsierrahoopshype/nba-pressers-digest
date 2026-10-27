@@ -10,7 +10,7 @@ Jaylen Brown: "We just need to play harder. I think that was outplaying us in th
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=13s](https://www.youtube.com/watch?v=bGQZS77sC54&t=13s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=13&q=1) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=13&q=1&slack=1)</small>
 
 **2. Jaylen Brown — "I'm still figuring it out. It's going to take some time, just trying to earn trust." — Jaylen Brown on his evolving role and building trust with teammates** [00:36](https://www.youtube.com/watch?v=bGQZS77sC54&t=36s)
 
@@ -18,7 +18,7 @@ Jaylen Brown: "I'm still figuring it out. It's going to take some time, just try
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=36s](https://www.youtube.com/watch?v=bGQZS77sC54&t=36s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=36&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=36&q=2) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=36&q=2&slack=1)</small>
 
 **3. Jaylen Brown — "It's a great opportunity for us to respond to adversity. There's going to be ups and downs." — Jaylen Brown on responding to adversity after a 30-point deficit** [01:04](https://www.youtube.com/watch?v=bGQZS77sC54&t=64s)
 
@@ -26,7 +26,7 @@ Jaylen Brown: "It's a great opportunity for us to respond to adversity. There's 
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=64s](https://www.youtube.com/watch?v=bGQZS77sC54&t=64s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=64&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=64&q=3) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=64&q=3&slack=1)</small>
 
 **4. Jaylen Brown — "That's what we're going to be pushing each other on both ends. I love to see it." — Jaylen Brown on the defensive chemistry with Tyrese Maxey** [01:23](https://www.youtube.com/watch?v=bGQZS77sC54&t=83s)
 
@@ -34,7 +34,7 @@ Jaylen Brown: "That's what we're going to be pushing each other on both ends. On
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=83s](https://www.youtube.com/watch?v=bGQZS77sC54&t=83s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=83&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=83&q=4) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=83&q=4&slack=1)</small>
 
 **5. Jaylen Brown — "You're picking and choosing your spots when to say something." — Jaylen Brown on navigating leadership roles within the team** [02:08](https://www.youtube.com/watch?v=bGQZS77sC54&t=128s)
 
@@ -42,7 +42,7 @@ Jaylen Brown: "You're picking and choosing your spots when to say something. The
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=128s](https://www.youtube.com/watch?v=bGQZS77sC54&t=128s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=128&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=128&q=5) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=128&q=5&slack=1)</small>
 
 **6. Jaylen Brown — "We had a lot of energy, a lot of momentum plays that we made in the second half." — Jaylen Brown on the importance of momentum and playing with pace** [02:23](https://www.youtube.com/watch?v=bGQZS77sC54&t=143s)
 
@@ -50,7 +50,7 @@ Jaylen Brown: "We had a lot of energy, a lot of momentum plays that we made in t
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=143s](https://www.youtube.com/watch?v=bGQZS77sC54&t=143s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=143&q=6)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=143&q=6) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=143&q=6&slack=1)</small>
 
 **7. Jaylen Brown — "Maxey took it to the corner, hit a three, came down, got a stop." — Jaylen Brown on the turning point in the third quarter** [03:42](https://www.youtube.com/watch?v=bGQZS77sC54&t=222s)
 
@@ -58,7 +58,7 @@ Jaylen Brown: "I think the start of the third quarter. Came out, **Maxey** took 
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=222s](https://www.youtube.com/watch?v=bGQZS77sC54&t=222s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=222&q=7)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=222&q=7) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=222&q=7&slack=1)</small>
 
 **8. Jaylen Brown — "I'm going to be pushing Maxey and VJ and myself to be more disciplined on defense." — Jaylen Brown on Tyrese Maxey's rebounding and tenacity** [03:59](https://www.youtube.com/watch?v=bGQZS77sC54&t=239s)
 
@@ -66,7 +66,7 @@ Jaylen Brown: "**Maxey** great. His rebounding, excellent. His tenacity, guardin
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=239s](https://www.youtube.com/watch?v=bGQZS77sC54&t=239s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=239&q=8)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=239&q=8) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=239&q=8&slack=1)</small>
 
 **9. Jaylen Brown — "We got to be the harder playing team every single night regardless of the talent." — Jaylen Brown on the necessity of playing hard every night** [04:21](https://www.youtube.com/watch?v=bGQZS77sC54&t=261s)
 
@@ -74,4 +74,4 @@ Jaylen Brown: "We got to be the harder playing team every single night regardles
 
 [https://www.youtube.com/watch?v=bGQZS77sC54&t=261s](https://www.youtube.com/watch?v=bGQZS77sC54&t=261s)
 
-<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=261&q=9)</small>
+<small>[Clip it](presserclips://clip?v=bGQZS77sC54&t=261&q=9) · [Send to Slack](presserclips://clip?v=bGQZS77sC54&t=261&q=9&slack=1)</small>

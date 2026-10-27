@@ -10,7 +10,7 @@ Kenny Atkinson: "He leads with actions first of all. He doesn't miss practice, h
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=89s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=89s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=89&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=89&q=1) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=89&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "The goal is always be top 10 in offense and defense that gives you a real chance." — Kenny Atkinson on the team's goal to be a top-five defense** [02:13](https://www.youtube.com/watch?v=NZSlDLmlpno&t=133s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "The goal is always be top 10 in offense and defense that gives 
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=133s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=133s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=133&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=133&q=2) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=133&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "He's just like as a player, he's got a great feel. Certain coaches have a feel for the game." — Kenny Atkinson on Omar Cook's value to the coaching staff** [04:39](https://www.youtube.com/watch?v=NZSlDLmlpno&t=279s)
 
@@ -26,7 +26,7 @@ Kenny Atkinson: "He helps me a lot because he's just like as a player, he's got 
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=279s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=279s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=279&q=3)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=279&q=3) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=279&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "A lot of discussion who works best with who, feeling that, collaborating with the players." — Kenny Atkinson on the process of deciding on starting lineups** [05:19](https://www.youtube.com/watch?v=NZSlDLmlpno&t=319s)
 
@@ -34,7 +34,7 @@ Kenny Atkinson: "A lot of discussion who works best with who, feeling that, coll
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=319s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=319s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=319&q=4)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=319&q=4) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=319&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "When Donovan and Evan, they're kind of the backup point guards for each other." — Kenny Atkinson on the team's backup point guard rotation** [07:04](https://www.youtube.com/watch?v=NZSlDLmlpno&t=424s)
 
@@ -42,7 +42,7 @@ Kenny Atkinson: "When **Donovan** and **Evan**, they're kind of the backup point
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=424s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=424s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=424&q=5)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=424&q=5) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=424&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "I don't see any slippage. There's a shift in the NBA, shifting professional sports." — Kenny Atkinson on the longevity of stars like LeBron, Steph, and KD** [08:37](https://www.youtube.com/watch?v=NZSlDLmlpno&t=517s)
 
@@ -50,4 +50,4 @@ Kenny Atkinson: "I don't see any slippage. There's a shift in the NBA, shifting 
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=517s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=517s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=517&q=6)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=517&q=6) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=517&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Tyler Herro: "It felt great. Obviously, we wanted to get a win, but just coming 
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=16s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=16s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=16&q=1) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=16&q=1&slack=1)</small>
 
 **2. Tyler Herro — "Anytime you get to the free throw line at the end of games, it's a plus for the team." — Tyler Herro on the team's late-game execution and defensive lapses** [01:14](https://www.youtube.com/watch?v=tac_h3VHCFA&t=74s)
 
@@ -18,7 +18,7 @@ Tyler Herro: "It's the moments of truth at the end of the game. We missed a coup
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=74s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=74s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=74&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=74&q=2) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=74&q=2&slack=1)</small>
 
 **3. Tyler Herro — "It's about the little things, the small details that are going to help us squeeze out wins." — Tyler Herro on the importance of small details in close games** [02:05](https://www.youtube.com/watch?v=tac_h3VHCFA&t=125s)
 
@@ -26,7 +26,7 @@ Tyler Herro: "I think we're going to be in a lot of games all season. It's about
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=125s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=125s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=125&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=125&q=3) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=125&q=3&slack=1)</small>
 
 **4. Tyler Herro — "He's a dynamic player. He's able to get downhill, get in the paint for us, create for others." — Tyler Herro on the dynamic impact of his teammate** [02:47](https://www.youtube.com/watch?v=tac_h3VHCFA&t=167s)
 
@@ -34,7 +34,7 @@ Tyler Herro: "He's a dynamic player. He's able to get downhill, get in the paint
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=167s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=167s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=167&q=4)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=167&q=4) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=167&q=4&slack=1)</small>
 
 **5. Tyler Herro — "He's a talent. Young talent. He's going to be very good in this league for sure." — Tyler Herro on the potential of Caleb Wilson** [03:03](https://www.youtube.com/watch?v=tac_h3VHCFA&t=183s)
 
@@ -42,7 +42,7 @@ Tyler Herro: "He's a talent. Young talent. He's going to be very good in this le
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=183s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=183s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=183&q=5)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=183&q=5) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=183&q=5&slack=1)</small>
 
 **6. Tyler Herro — "He's a hard worker at the end of the day, so he wants to learn, he wants to get better." — Tyler Herro on the growth and work ethic of Casper Ware** [03:16](https://www.youtube.com/watch?v=tac_h3VHCFA&t=196s)
 
@@ -50,4 +50,4 @@ Tyler Herro: "He's a hard worker at the end of the day, so he wants to learn, he
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=196s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=196s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=196&q=6)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=196&q=6) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=196&q=6&slack=1)</small>

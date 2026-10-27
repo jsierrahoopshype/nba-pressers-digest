@@ -10,7 +10,7 @@ Brandon Miller: "Just playing to our identity. Obviously we're a team that's goi
 
 [https://www.youtube.com/watch?v=No6HumbfV2g&t=15s](https://www.youtube.com/watch?v=No6HumbfV2g&t=15s)
 
-<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=15&q=1) · [Send to Slack](presserclips://clip?v=No6HumbfV2g&t=15&q=1&slack=1)</small>
 
 **2. Brandon Miller — "Makes me smile every day, man, just to see other NBA guys put all their trust in me." — Brandon Miller on the trust and chemistry with his teammates** [01:13](https://www.youtube.com/watch?v=No6HumbfV2g&t=73s)
 
@@ -18,7 +18,7 @@ Brandon Miller: "Makes me smile every day, man, just to see other NBA guys put a
 
 [https://www.youtube.com/watch?v=No6HumbfV2g&t=73s](https://www.youtube.com/watch?v=No6HumbfV2g&t=73s)
 
-<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=73&q=2) · [Send to Slack](presserclips://clip?v=No6HumbfV2g&t=73&q=2&slack=1)</small>
 
 **3. Brandon Miller — "I think my teammates motivate me a lot and it just builds my confidence." — Brandon Miller on teammate motivation and building confidence** [01:56](https://www.youtube.com/watch?v=No6HumbfV2g&t=116s)
 
@@ -26,7 +26,7 @@ Brandon Miller: "I think my teammates motivate me a lot and it just builds my co
 
 [https://www.youtube.com/watch?v=No6HumbfV2g&t=116s](https://www.youtube.com/watch?v=No6HumbfV2g&t=116s)
 
-<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=116&q=3)</small>
+<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=116&q=3) · [Send to Slack](presserclips://clip?v=No6HumbfV2g&t=116&q=3&slack=1)</small>
 
 **4. Brandon Miller — "It helps me a lot. A guy like that, your eight, coming into a new program." — Brandon Miller on his on-court chemistry with teammate** [02:13](https://www.youtube.com/watch?v=No6HumbfV2g&t=133s)
 
@@ -34,4 +34,4 @@ Brandon Miller: "It helps me a lot. A guy like that, your eight, coming into a n
 
 [https://www.youtube.com/watch?v=No6HumbfV2g&t=133s](https://www.youtube.com/watch?v=No6HumbfV2g&t=133s)
 
-<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=133&q=4)</small>
+<small>[Clip it](presserclips://clip?v=No6HumbfV2g&t=133&q=4) · [Send to Slack](presserclips://clip?v=No6HumbfV2g&t=133&q=4&slack=1)</small>

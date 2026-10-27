@@ -10,7 +10,7 @@ Jamahl Mosley: "It's huge. Our starters in the game have to come out and hit fir
 
 [https://www.youtube.com/watch?v=bBu0HJ2P70c&t=145s](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=145s)
 
-<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=145&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=145&q=1) · [Send to Slack](presserclips://clip?v=bBu0HJ2P70c&t=145&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "going up against Rick and many times over the years but just being under his mentorship" — Jamahl Mosley on coaching against Rick Carlisle** [02:48](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=168s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "I think it's great. Going up against Rick and many times over th
 
 [https://www.youtube.com/watch?v=bBu0HJ2P70c&t=168s](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=168s)
 
-<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=168&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=168&q=2) · [Send to Slack](presserclips://clip?v=bBu0HJ2P70c&t=168&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "it's a small circle when it comes down to it. And you always touch on the coaching circles" — Jamahl Mosley on the interconnectedness of NBA coaching circles** [04:04](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=244s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "It's a small circle when it comes down to it. And you always tou
 
 [https://www.youtube.com/watch?v=bBu0HJ2P70c&t=244s](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=244s)
 
-<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=244&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=244&q=3) · [Send to Slack](presserclips://clip?v=bBu0HJ2P70c&t=244&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "it had a superpower in its ability to get downhill, attack the basket, get to the free throw line." — Jamahl Mosley on the team's offensive identity** [05:14](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=314s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "The thing about this team is from last year, it had a superpower
 
 [https://www.youtube.com/watch?v=bBu0HJ2P70c&t=314s](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=314s)
 
-<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=314&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=314&q=4) · [Send to Slack](presserclips://clip?v=bBu0HJ2P70c&t=314&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "your heart breaks for him and the what he's put in the work, you know because you know him" — Jamahl Mosley on Haliburton's resilience and playstyle** [06:14](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=374s)
 
@@ -42,7 +42,7 @@ Jamahl Mosley: "Your heart breaks for him and the what he's put in the work, you
 
 [https://www.youtube.com/watch?v=bBu0HJ2P70c&t=374s](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=374s)
 
-<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=374&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=374&q=5) · [Send to Slack](presserclips://clip?v=bBu0HJ2P70c&t=374&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "the same confidence, the same swagger, the same amount of talking that he does" — Jamahl Mosley on Haliburton's confidence and floor generalship** [07:26](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=446s)
 
@@ -50,7 +50,7 @@ Jamahl Mosley: "The same confidence, the same swagger, the same amount of talkin
 
 [https://www.youtube.com/watch?v=bBu0HJ2P70c&t=446s](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=446s)
 
-<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=446&q=6)</small>
+<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=446&q=6) · [Send to Slack](presserclips://clip?v=bBu0HJ2P70c&t=446&q=6&slack=1)</small>
 
 **7. Jamahl Mosley — "it's never just that one person's responsibility. With them shooting as many threes as they do" — Jamahl Mosley on team defense against bigs** [08:07](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=487s)
 
@@ -58,4 +58,4 @@ Jamahl Mosley: "It's never just that one person's responsibility. With them shoo
 
 [https://www.youtube.com/watch?v=bBu0HJ2P70c&t=487s](https://www.youtube.com/watch?v=bBu0HJ2P70c&t=487s)
 
-<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=487&q=7)</small>
+<small>[Clip it](presserclips://clip?v=bBu0HJ2P70c&t=487&q=7) · [Send to Slack](presserclips://clip?v=bBu0HJ2P70c&t=487&q=7&slack=1)</small>

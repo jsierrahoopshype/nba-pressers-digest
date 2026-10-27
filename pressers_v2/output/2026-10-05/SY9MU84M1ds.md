@@ -10,7 +10,7 @@ Will Hardy: "It was a good first effort for our group, plenty of stuff to build 
 
 [https://www.youtube.com/watch?v=SY9MU84M1ds&t=11s](https://www.youtube.com/watch?v=SY9MU84M1ds&t=11s)
 
-<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=11&q=1) · [Send to Slack](presserclips://clip?v=SY9MU84M1ds&t=11&q=1&slack=1)</small>
 
 **2. Will Hardy — "I thought they both used their burst to get in the paint." — Will Hardy praises Keyonte George and Isaiah Collier's offensive impact** [00:58](https://www.youtube.com/watch?v=SY9MU84M1ds&t=58s)
 
@@ -18,7 +18,7 @@ Will Hardy: "I thought they both used their burst to get in the paint. They do i
 
 [https://www.youtube.com/watch?v=SY9MU84M1ds&t=58s](https://www.youtube.com/watch?v=SY9MU84M1ds&t=58s)
 
-<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=58&q=2) · [Send to Slack](presserclips://clip?v=SY9MU84M1ds&t=58&q=2&slack=1)</small>
 
 **3. Will Hardy — "They are both picking their spots pretty well." — Will Hardy evaluates the chemistry between Jaren Jackson Jr. and Lauri Markkanen** [01:50](https://www.youtube.com/watch?v=SY9MU84M1ds&t=110s)
 
@@ -26,7 +26,7 @@ Will Hardy: "They are both picking their spots pretty well. It is only one game,
 
 [https://www.youtube.com/watch?v=SY9MU84M1ds&t=110s](https://www.youtube.com/watch?v=SY9MU84M1ds&t=110s)
 
-<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=110&q=3)</small>
+<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=110&q=3) · [Send to Slack](presserclips://clip?v=SY9MU84M1ds&t=110&q=3&slack=1)</small>
 
 **4. Will Hardy — "My job is to give Darren a lot of feedback." — Will Hardy discusses his approach to providing feedback to rookies** [03:02](https://www.youtube.com/watch?v=SY9MU84M1ds&t=182s)
 
@@ -34,7 +34,7 @@ Will Hardy: "My job is to give **Darren** a lot of feedback. I need to pick the 
 
 [https://www.youtube.com/watch?v=SY9MU84M1ds&t=182s](https://www.youtube.com/watch?v=SY9MU84M1ds&t=182s)
 
-<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=182&q=4)</small>
+<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=182&q=4) · [Send to Slack](presserclips://clip?v=SY9MU84M1ds&t=182&q=4&slack=1)</small>
 
 **5. Will Hardy — "Darren has been really humble from the moment that he got to us." — Will Hardy on Darren's growth and poise as a rookie** [04:31](https://www.youtube.com/watch?v=SY9MU84M1ds&t=271s)
 
@@ -42,4 +42,4 @@ Will Hardy: "**Darren** has been really humble from the moment that he got to us
 
 [https://www.youtube.com/watch?v=SY9MU84M1ds&t=271s](https://www.youtube.com/watch?v=SY9MU84M1ds&t=271s)
 
-<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=271&q=5)</small>
+<small>[Clip it](presserclips://clip?v=SY9MU84M1ds&t=271&q=5) · [Send to Slack](presserclips://clip?v=SY9MU84M1ds&t=271&q=5&slack=1)</small>

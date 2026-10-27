@@ -10,7 +10,7 @@ Labaron Philon Jr.: "It has been good, being able to compete against all the guy
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=5s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=5s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=5&q=1) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=5&q=1&slack=1)</small>
 
 **2. Labaron Philon Jr. — "asking questions about LeBron's longevity, he has been playing the game ever since I was born" — Labaron Philon Jr. on learning from LeBron James's longevity** [01:17](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=77s)
 
@@ -18,7 +18,7 @@ Labaron Philon Jr.: "From JB, he made a couple fadeaway tough shots on me and I 
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=77s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=77s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=77&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=77&q=2) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=77&q=2&slack=1)</small>
 
 **3. Labaron Philon Jr. — "it helps a lot knowing the terms and knowing the NBA style offense" — Labaron Philon Jr. on mastering NBA offensive schemes** [02:05](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=125s)
 
@@ -26,7 +26,7 @@ Labaron Philon Jr.: "It helps a lot knowing the terms and knowing the NBA style 
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=125s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=125s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=125&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=125&q=3) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=125&q=3&slack=1)</small>
 
 **4. Labaron Philon Jr. — "you have to be able to move the ball, play unselfish, you have to have that unselfish part" — Labaron Philon Jr. on the responsibilities of an NBA point guard** [03:51](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=231s)
 
@@ -34,7 +34,7 @@ Labaron Philon Jr.: "You have to be able to move the ball, play unselfish, you h
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=231s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=231s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=231&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=231&q=4) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=231&q=4&slack=1)</small>
 
 **5. Labaron Philon Jr. — "the one-on-one talks during practice, when I am making great plays he will pull me to the side" — Labaron Philon Jr. on receiving mentorship from veterans** [04:51](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=291s)
 
@@ -42,7 +42,7 @@ Labaron Philon Jr.: "The one-on-one talks during practice, when I am making grea
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=291s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=291s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=291&q=5)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=291&q=5) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=291&q=5&slack=1)</small>
 
 **6. Labaron Philon Jr. — "I would say my bigs, Ariel, he is a great screener, Bona and B, all those guys" — Labaron Philon Jr. on the development of the team's big men** [07:34](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=454s)
 
@@ -50,7 +50,7 @@ Labaron Philon Jr.: "I would say my bigs, Ariel, he is a great screener, Bona an
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=454s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=454s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=454&q=6)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=454&q=6) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=454&q=6&slack=1)</small>
 
 **7. Labaron Philon Jr. — "defensively he has been really good, two-on-ones, three-on-ones, he has been doing his job stopping guys" — Labaron Philon Jr. on Joel Embiid's two-way impact** [08:16](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=496s)
 
@@ -58,7 +58,7 @@ Labaron Philon Jr.: "Defensively he has been really good, two-on-ones, three-on-
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=496s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=496s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=496&q=7)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=496&q=7) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=496&q=7&slack=1)</small>
 
 **8. Labaron Philon Jr. — "I always been a great passer, having the right guys and the right plays and the right mindset" — Labaron Philon Jr. on his approach to passing and decision-making** [10:04](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=604s)
 
@@ -66,4 +66,4 @@ Labaron Philon Jr.: "I always been a great passer, having the right guys and the
 
 [https://www.youtube.com/watch?v=PnaeGoiTSaY&t=604s](https://www.youtube.com/watch?v=PnaeGoiTSaY&t=604s)
 
-<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=604&q=8)</small>
+<small>[Clip it](presserclips://clip?v=PnaeGoiTSaY&t=604&q=8) · [Send to Slack](presserclips://clip?v=PnaeGoiTSaY&t=604&q=8&slack=1)</small>

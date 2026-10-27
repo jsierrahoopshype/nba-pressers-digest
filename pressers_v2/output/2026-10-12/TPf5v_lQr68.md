@@ -10,7 +10,7 @@ Kentavious Caldwell-Pope: "As a teammate, I can say he's a great teammate. He li
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=35s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=35s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=35&q=1)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=35&q=1) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=35&q=1&slack=1)</small>
 
 **2. Kentavious Caldwell-Pope — "His work ethic is great. He's been listening and applying everything to the court that he sees." — Kentavious Caldwell-Pope on Tyrese Maxey's work ethic** [01:16](https://www.youtube.com/watch?v=TPf5v_lQr68&t=76s)
 
@@ -18,7 +18,7 @@ Kentavious Caldwell-Pope: "His work ethic is great. I'm on the second team with 
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=76s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=76s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=76&q=2)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=76&q=2) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=76&q=2&slack=1)</small>
 
 **3. Kentavious Caldwell-Pope — "Just be patient, keep working hard, keep showing up in practice, whenever your number is called, be ready." — Kentavious Caldwell-Pope's advice to young players** [01:52](https://www.youtube.com/watch?v=TPf5v_lQr68&t=112s)
 
@@ -26,7 +26,7 @@ Kentavious Caldwell-Pope: "What I've always been telling all the young guys: jus
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=112s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=112s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=112&q=3)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=112&q=3) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=112&q=3&slack=1)</small>
 
 **4. Kentavious Caldwell-Pope — "There's a lot of wide open shots out there, especially when you're playing with LeBron, Joel and Maxey." — Kentavious Caldwell-Pope on playing with stars** [02:20](https://www.youtube.com/watch?v=TPf5v_lQr68&t=140s)
 
@@ -34,7 +34,7 @@ Kentavious Caldwell-Pope: "Being ready to shoot. There's a lot of wide open shot
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=140s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=140s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=140&q=4)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=140&q=4) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=140&q=4&slack=1)</small>
 
 **5. Kentavious Caldwell-Pope — "I think his impact is just his presence, his leadership and just being here, speaking." — Kentavious Caldwell-Pope on LeBron James' leadership** [02:55](https://www.youtube.com/watch?v=TPf5v_lQr68&t=175s)
 
@@ -42,7 +42,7 @@ Kentavious Caldwell-Pope: "I think his impact is just his presence, his leadersh
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=175s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=175s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=175&q=5)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=175&q=5) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=175&q=5&slack=1)</small>
 
 **6. Kentavious Caldwell-Pope — "Being from Georgia and being on the same team, I can see his work ethic." — Kentavious Caldwell-Pope on his connection with Joel Embiid** [03:28](https://www.youtube.com/watch?v=TPf5v_lQr68&t=208s)
 
@@ -50,7 +50,7 @@ Kentavious Caldwell-Pope: "It's been great. We talked about this on the way back
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=208s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=208s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=208&q=6)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=208&q=6) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=208&q=6&slack=1)</small>
 
 **7. Kentavious Caldwell-Pope — "I think just our chemistry is going to be the biggest part for us." — Kentavious Caldwell-Pope on team chemistry** [04:05](https://www.youtube.com/watch?v=TPf5v_lQr68&t=245s)
 
@@ -58,7 +58,7 @@ Kentavious Caldwell-Pope: "I think just our chemistry is going to be the biggest
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=245s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=245s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=245&q=7)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=245&q=7) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=245&q=7&slack=1)</small>
 
 **8. Kentavious Caldwell-Pope — "Definitely our rebounding, we got our rebounding in the three games we played so far." — Kentavious Caldwell-Pope on team priorities** [06:07](https://www.youtube.com/watch?v=TPf5v_lQr68&t=367s)
 
@@ -66,4 +66,4 @@ Kentavious Caldwell-Pope: "Definitely our rebounding, we got our rebounding in t
 
 [https://www.youtube.com/watch?v=TPf5v_lQr68&t=367s](https://www.youtube.com/watch?v=TPf5v_lQr68&t=367s)
 
-<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=367&q=8)</small>
+<small>[Clip it](presserclips://clip?v=TPf5v_lQr68&t=367&q=8) · [Send to Slack](presserclips://clip?v=TPf5v_lQr68&t=367&q=8&slack=1)</small>

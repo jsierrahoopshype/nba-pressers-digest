@@ -14,7 +14,7 @@ Javonte Green: "It stems from last year as well, just being out of our DBR, like
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=0s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=0s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=0&q=1) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=0&q=1&slack=1)</small>
 
 **2. Javonte Green — "it is a blessing, you know, just getting, you know, just them from growing up, just having the trust" — Javonte Green on the importance of teammate trust** [00:52](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=52s)
 
@@ -22,7 +22,7 @@ Javonte Green: "It is a blessing, you know, it is a blessing, you know, just get
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=52s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=52s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=52&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=52&q=2) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=52&q=2&slack=1)</small>
 
 **3. Javonte Green — "I guess we was lacking energy, you know, we wasn't, you know, playing as hard as we know" — Javonte Green on the Pistons' lack of energy in the third quarter** [01:32](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=92s)
 
@@ -30,7 +30,7 @@ Javonte Green: "I guess we was lacking energy, you know, we wasn't, you know, pl
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=92s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=92s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=92&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=92&q=3) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=92&q=3&slack=1)</small>
 
 **4. Javonte Green — "I want to say any major differences, coming out, obviously we got new faces" — Javonte Green on the team's adjustment to new faces** [02:14](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=134s)
 
@@ -38,7 +38,7 @@ Javonte Green: "I want to say any major differences, coming out, obviously we go
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=134s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=134s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=134&q=4) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=134&q=4&slack=1)</small>
 
 **5. Javonte Green — "just to go out there in front of Detroit, like the fans in Detroit, you know, just bringing here" — Javonte Green on the energy of the Detroit crowd** [02:50](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=170s)
 
@@ -46,7 +46,7 @@ Javonte Green: "I guess it is a blessing, man. I think, you know, just to go out
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=170s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=170s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=170&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=170&q=5) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=170&q=5&slack=1)</small>
 
 **6. Javonte Green — "my role is, you know, tonight, you know, just going out there and changing the energy of the game" — Javonte Green on his role and the origin of his nickname** [03:28](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=208s)
 
@@ -54,7 +54,7 @@ Javonte Green: "I guess, you know, my role is, you know, tonight, you know, just
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=208s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=208s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=208&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=208&q=6) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=208&q=6&slack=1)</small>
 
 ---
 
@@ -70,7 +70,7 @@ J.B. Bickerstaff: "We got a high-level trust on everybody on our roster. And we 
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=13s](https://www.youtube.com/watch?v=qXBafAvSosU&t=13s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=13&q=1) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=13&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "When we outwork you, we're going to be hard to beat." — J.B. Bickerstaff on the team's defensive intensity and ball movement** [00:55](https://www.youtube.com/watch?v=qXBafAvSosU&t=55s)
 
@@ -78,7 +78,7 @@ J.B. Bickerstaff: "We started defending, and then offensively, we had some guys 
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=55s](https://www.youtube.com/watch?v=qXBafAvSosU&t=55s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=55&q=2)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=55&q=2) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=55&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "These guys are relentless. They never say die." — J.B. Bickerstaff on the team's relentless emotional identity** [01:27](https://www.youtube.com/watch?v=qXBafAvSosU&t=87s)
 
@@ -86,7 +86,7 @@ J.B. Bickerstaff: "These guys are relentless. They never say die. As long as the
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=87s](https://www.youtube.com/watch?v=qXBafAvSosU&t=87s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=87&q=3)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=87&q=3) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=87&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "The only thing that matters is if we play Pistons basketball." — J.B. Bickerstaff on focusing on Pistons basketball over opponent identity** [02:06](https://www.youtube.com/watch?v=qXBafAvSosU&t=126s)
 
@@ -94,7 +94,7 @@ J.B. Bickerstaff: "The opponent doesn't matter. What people say doesn't matter. 
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=126s](https://www.youtube.com/watch?v=qXBafAvSosU&t=126s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=126&q=4)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=126&q=4) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=126&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "Our defense picked up in that half and we feed off of that." — J.B. Bickerstaff on the impact of defensive energy and Jalen Duren** [02:40](https://www.youtube.com/watch?v=qXBafAvSosU&t=160s)
 
@@ -102,7 +102,7 @@ J.B. Bickerstaff: "Our defense picked up in that half and we feed off of that. A
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=160s](https://www.youtube.com/watch?v=qXBafAvSosU&t=160s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=160&q=5)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=160&q=5) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=160&q=5&slack=1)</small>
 
 **6. J.B. Bickerstaff — "You add John, 40 plus percent, Isaiah's 40 plus percent, so obviously you got more options out there." — J.B. Bickerstaff on the team's improved three-point shooting options** [03:16](https://www.youtube.com/watch?v=qXBafAvSosU&t=196s)
 
@@ -110,7 +110,7 @@ J.B. Bickerstaff: "You add **John**, 40 plus percent, **Isaiah**'s 40 plus perce
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=196s](https://www.youtube.com/watch?v=qXBafAvSosU&t=196s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=196&q=6)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=196&q=6) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=196&q=6&slack=1)</small>
 
 **7. J.B. Bickerstaff — "Make us harder to guard." — J.B. Bickerstaff on the tactical value of Jalen Duren's versatility** [03:44](https://www.youtube.com/watch?v=qXBafAvSosU&t=224s)
 
@@ -118,7 +118,7 @@ J.B. Bickerstaff: "Make us harder to guard. The way that they have to play him i
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=224s](https://www.youtube.com/watch?v=qXBafAvSosU&t=224s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=224&q=7)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=224&q=7) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=224&q=7&slack=1)</small>
 
 **8. J.B. Bickerstaff — "Ausar Thompson. That's simple." — J.B. Bickerstaff on targeting Jayson Tatum defensively** [04:30](https://www.youtube.com/watch?v=qXBafAvSosU&t=270s)
 
@@ -126,7 +126,7 @@ J.B. Bickerstaff: "**Ausar Thompson**. That's simple. You get him in one-on-one 
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=270s](https://www.youtube.com/watch?v=qXBafAvSosU&t=270s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=270&q=8)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=270&q=8) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=270&q=8&slack=1)</small>
 
 **9. J.B. Bickerstaff — "I thought it was awesome." — J.B. Bickerstaff on the home-court advantage and crowd energy** [04:48](https://www.youtube.com/watch?v=qXBafAvSosU&t=288s)
 
@@ -134,7 +134,7 @@ J.B. Bickerstaff: "I thought it was awesome. The fact that when we got out there
 
 [https://www.youtube.com/watch?v=qXBafAvSosU&t=288s](https://www.youtube.com/watch?v=qXBafAvSosU&t=288s)
 
-<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=288&q=9)</small>
+<small>[Clip it](presserclips://clip?v=qXBafAvSosU&t=288&q=9) · [Send to Slack](presserclips://clip?v=qXBafAvSosU&t=288&q=9&slack=1)</small>
 
 ---
 

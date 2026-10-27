@@ -14,7 +14,7 @@ Micah Nori: "I think that he's really been efficient. I think that he's really b
 
 [https://www.youtube.com/watch?v=FF86PEV8218&t=57s](https://www.youtube.com/watch?v=FF86PEV8218&t=57s)
 
-<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=57&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=57&q=1) · [Send to Slack](presserclips://clip?v=FF86PEV8218&t=57&q=1&slack=1)</small>
 
 **2. Micah Nori — "Instead of him going two stints, we kind of gone to that three stints for him." — Micah Nori on shifting to three-stint rotations for Scoot Henderson** [01:25](https://www.youtube.com/watch?v=FF86PEV8218&t=85s)
 
@@ -22,7 +22,7 @@ Micah Nori: "The other thing we've kind of changed up a little bit from last yea
 
 [https://www.youtube.com/watch?v=FF86PEV8218&t=85s](https://www.youtube.com/watch?v=FF86PEV8218&t=85s)
 
-<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=85&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=85&q=2) · [Send to Slack](presserclips://clip?v=FF86PEV8218&t=85&q=2&slack=1)</small>
 
 **3. Micah Nori — "I think the one thing, one of the superpowers of this team is the depth." — Micah Nori on the team's depth and small-ball lineups** [02:01](https://www.youtube.com/watch?v=FF86PEV8218&t=121s)
 
@@ -30,7 +30,7 @@ Micah Nori: "I think the one thing, one of the superpowers of this team is the d
 
 [https://www.youtube.com/watch?v=FF86PEV8218&t=121s](https://www.youtube.com/watch?v=FF86PEV8218&t=121s)
 
-<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=121&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=121&q=3) · [Send to Slack](presserclips://clip?v=FF86PEV8218&t=121&q=3&slack=1)</small>
 
 **4. Micah Nori — "I think that's what we're going to see throughout. I think he's going to continue to get better." — Micah Nori on the continued development of Jaquez** [03:16](https://www.youtube.com/watch?v=FF86PEV8218&t=196s)
 
@@ -38,7 +38,7 @@ Micah Nori: "I think **Jaquez**, I think that's what we're going to see througho
 
 [https://www.youtube.com/watch?v=FF86PEV8218&t=196s](https://www.youtube.com/watch?v=FF86PEV8218&t=196s)
 
-<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=196&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=196&q=4) · [Send to Slack](presserclips://clip?v=FF86PEV8218&t=196&q=4&slack=1)</small>
 
 **5. Micah Nori — "I think after his first run, I'm fine with Hansen. I think that he's really competing." — Micah Nori on the play of Hansen during Rob's absence** [04:02](https://www.youtube.com/watch?v=FF86PEV8218&t=242s)
 
@@ -46,7 +46,7 @@ Micah Nori: "I think after his first run, I wasn't, you know, just down the floo
 
 [https://www.youtube.com/watch?v=FF86PEV8218&t=242s](https://www.youtube.com/watch?v=FF86PEV8218&t=242s)
 
-<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=242&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FF86PEV8218&t=242&q=5) · [Send to Slack](presserclips://clip?v=FF86PEV8218&t=242&q=5&slack=1)</small>
 
 ---
 

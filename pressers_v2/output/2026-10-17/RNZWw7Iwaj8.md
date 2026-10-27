@@ -10,7 +10,7 @@ Pascal Siakam: "Obviously, **Tyrese Haliburton** is a big part of what we do, ju
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=8s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=8s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=8&q=1) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=8&q=1&slack=1)</small>
 
 **2. Pascal Siakam — "Him being a great passer, me continuing to learn how to cut, I feel like we will get easy stuff" — Pascal Siakam on developing chemistry with Ivica Zubac** [01:27](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=87s)
 
@@ -18,7 +18,7 @@ Pascal Siakam: "Understanding his positioning, where he's going to be. We had a 
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=87s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=87s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=87&q=2)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=87&q=2) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=87&q=2&slack=1)</small>
 
 **3. Tyrese Haliburton — "I don't take basketball for granted. I don't take the opportunity to be healthy for granted." — Tyrese Haliburton on his appreciation for the Indiana fan base** [05:08](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=308s)
 
@@ -26,7 +26,7 @@ Tyrese Haliburton: "It's special, man. I don't take basketball for granted. I do
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=308s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=308s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=308&q=3)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=308&q=3) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=308&q=3&slack=1)</small>
 
 **4. Tyrese Haliburton — "I think offensively we are who we are, we're going to be one of the best offensive teams" — Tyrese Haliburton on the team's offensive potential and defensive needs** [05:43](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=343s)
 
@@ -34,7 +34,7 @@ Tyrese Haliburton: "I think the more time that goes on, the more we're unlocking
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=343s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=343s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=343&q=4)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=343&q=4) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=343&q=4&slack=1)</small>
 
 **5. Tyrese Haliburton — "Zu is the best rebounder we've ever played with and does a lot of great things there" — Tyrese Haliburton on Ivica Zubac's impact on team rebounding** [06:36](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=396s)
 
@@ -42,7 +42,7 @@ Tyrese Haliburton: "Zu is the best rebounder we've ever played with and does a l
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=396s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=396s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=396&q=5)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=396&q=5) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=396&q=5&slack=1)</small>
 
 **6. Tyrese Haliburton — "He hits people, man. I feel like I can slow down even more because I know he's going to make contact" — Tyrese Haliburton on Ivica Zubac's screening ability** [07:31](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=451s)
 
@@ -50,7 +50,7 @@ Tyrese Haliburton: "He hits people, man. I feel like I can slow down even more b
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=451s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=451s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=451&q=6)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=451&q=6) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=451&q=6&slack=1)</small>
 
 **7. Tyrese Haliburton — "He kind of has a knack like T.J. McConnell of being able to get to the baseline easily" — Tyrese Haliburton on the growth of Braden Smith** [09:22](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=562s)
 
@@ -58,7 +58,7 @@ Tyrese Haliburton: "He's growing every day, just learning who he is as a player.
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=562s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=562s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=562&q=7)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=562&q=7) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=562&q=7&slack=1)</small>
 
 **8. Lloyd Pierce — "Those four guys, Drew, Ty, Pascal and Aaron have had chemistry for a couple years" — Lloyd Pierce on the chemistry between the team's core players** [10:31](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=631s)
 
@@ -66,7 +66,7 @@ Lloyd Pierce: "There is a level of patience that all of them have shown. Pascal 
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=631s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=631s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=631&q=8)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=631&q=8) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=631&q=8&slack=1)</small>
 
 **9. Lloyd Pierce — "Of the fives he's right now the non-shooting five, and so we get different spacing" — Lloyd Pierce on how Ivica Zubac's absence changes team spacing** [12:34](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=754s)
 
@@ -74,4 +74,4 @@ Lloyd Pierce: "Of the fives he's right now the non-shooting five, and so we get 
 
 [https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=754s](https://www.youtube.com/watch?v=RNZWw7Iwaj8&t=754s)
 
-<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=754&q=9)</small>
+<small>[Clip it](presserclips://clip?v=RNZWw7Iwaj8&t=754&q=9) · [Send to Slack](presserclips://clip?v=RNZWw7Iwaj8&t=754&q=9&slack=1)</small>

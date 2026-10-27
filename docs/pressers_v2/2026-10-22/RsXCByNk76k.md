@@ -10,7 +10,7 @@ Quin Snyder: "Well the third quarter, give Orlando credit, they really drive the
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=20s](https://www.youtube.com/watch?v=RsXCByNk76k&t=20s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=20&q=1) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=20&q=1&slack=1)</small>
 
 **2. Quin Snyder — "the fouls that really hurt us, coming up with like loose ball rebounds and getting hits." — Quin Snyder on the impact of fouls and rebounding** [00:57](https://www.youtube.com/watch?v=RsXCByNk76k&t=57s)
 
@@ -18,7 +18,7 @@ Quin Snyder: "The fouls that really hurt us, coming up with like loose ball rebo
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=57s](https://www.youtube.com/watch?v=RsXCByNk76k&t=57s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=57&q=2)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=57&q=2) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=57&q=2&slack=1)</small>
 
 **3. Quin Snyder — "depth and versatility is something that our guys need to embrace and I think they have." — Quin Snyder on team balance and depth** [01:38](https://www.youtube.com/watch?v=RsXCByNk76k&t=98s)
 
@@ -26,7 +26,7 @@ Quin Snyder: "We had like half our team with four or five fouls, so it's a good 
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=98s](https://www.youtube.com/watch?v=RsXCByNk76k&t=98s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=98&q=3)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=98&q=3) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=98&q=3&slack=1)</small>
 
 **4. Quin Snyder — "I was disappointed with how we started both halves. We didn't share the ball, we didn't run." — Quin Snyder on team efficiency and ball movement** [02:26](https://www.youtube.com/watch?v=RsXCByNk76k&t=146s)
 
@@ -34,7 +34,7 @@ Quin Snyder: "I was disappointed with how we started both halves. We didn't shar
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=146s](https://www.youtube.com/watch?v=RsXCByNk76k&t=146s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=146&q=4)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=146&q=4) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=146&q=4&slack=1)</small>
 
 **5. Quin Snyder — "we made about as many breakdowns as we could have in the first quarter." — Quin Snyder on defensive breakdowns in the first quarter** [02:57](https://www.youtube.com/watch?v=RsXCByNk76k&t=177s)
 
@@ -42,7 +42,7 @@ Quin Snyder: "We made about as many breakdowns as we could have in the first qua
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=177s](https://www.youtube.com/watch?v=RsXCByNk76k&t=177s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=177&q=5)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=177&q=5) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=177&q=5&slack=1)</small>
 
 **6. Quin Snyder — "we're not used to being in rotations doubling. Banchero does that to you, Wagner did it on his drives." — Quin Snyder on defensive rotations and player performance** [03:36](https://www.youtube.com/watch?v=RsXCByNk76k&t=216s)
 
@@ -50,7 +50,7 @@ Quin Snyder: "We're not used to being in rotations doubling. Banchero does that 
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=216s](https://www.youtube.com/watch?v=RsXCByNk76k&t=216s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=216&q=6)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=216&q=6) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=216&q=6&slack=1)</small>
 
 **7. Quin Snyder — "he was solid defensively and obviously on the offensive end, he's got a good feel." — Quin Snyder on Aaron Holiday's defensive performance** [04:07](https://www.youtube.com/watch?v=RsXCByNk76k&t=247s)
 
@@ -58,7 +58,7 @@ Quin Snyder: "He was solid defensively and obviously on the offensive end, he's 
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=247s](https://www.youtube.com/watch?v=RsXCByNk76k&t=247s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=247&q=7)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=247&q=7) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=247&q=7&slack=1)</small>
 
 **8. Quin Snyder — "I thought he did some really good things, particularly in the first half." — Quin Snyder on Jalen Johnson's first game** [05:11](https://www.youtube.com/watch?v=RsXCByNk76k&t=311s)
 
@@ -66,7 +66,7 @@ Quin Snyder: "I thought he did some really good things, particularly in the firs
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=311s](https://www.youtube.com/watch?v=RsXCByNk76k&t=311s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=311&q=8)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=311&q=8) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=311&q=8&slack=1)</small>
 
 **9. Quin Snyder — "I don't think his fouls were a function of him being physical." — Quin Snyder on Jalen Johnson's foul trouble** [06:03](https://www.youtube.com/watch?v=RsXCByNk76k&t=363s)
 
@@ -74,4 +74,4 @@ Quin Snyder: "I don't think his fouls were a function of him being physical. I t
 
 [https://www.youtube.com/watch?v=RsXCByNk76k&t=363s](https://www.youtube.com/watch?v=RsXCByNk76k&t=363s)
 
-<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=363&q=9)</small>
+<small>[Clip it](presserclips://clip?v=RsXCByNk76k&t=363&q=9) · [Send to Slack](presserclips://clip?v=RsXCByNk76k&t=363&q=9&slack=1)</small>

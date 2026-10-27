@@ -10,7 +10,7 @@ Tuomas Iisalo: "Cedric's not in an easy spot playing in that we know that the ba
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=23s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=23s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=23&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=23&q=1) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=23&q=1&slack=1)</small>
 
 **2. Tuomas Iisalo — "we also want to get him more involved as others need to adjust playing with him" — Zach Edey's development and offensive role within the team** [00:46](https://www.youtube.com/watch?v=iFSPBqthcSM&t=46s)
 
@@ -18,7 +18,7 @@ Tuomas Iisalo: "Zach's we also want to get him more involved as others need to a
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=46s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=46s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=46&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=46&q=2) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=46&q=2&slack=1)</small>
 
 **3. Tuomas Iisalo — "he's a very mentally extremely strong player with a ton of confidence" — Ty Jerome's resilience and growth as a full-time point guard** [02:22](https://www.youtube.com/watch?v=iFSPBqthcSM&t=142s)
 
@@ -26,7 +26,7 @@ Tuomas Iisalo: "He's a very mentally extremely strong player with a ton of confi
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=142s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=142s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=142&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=142&q=3) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=142&q=3&slack=1)</small>
 
 **4. Tuomas Iisalo — "better to have tired legs and good habits than bad habits and fresh legs" — The team's defensive progress and commitment to rebounding** [03:54](https://www.youtube.com/watch?v=iFSPBqthcSM&t=234s)
 
@@ -34,7 +34,7 @@ Tuomas Iisalo: "The stuff that I said in the locker room and also said to the co
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=234s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=234s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=234&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=234&q=4) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=234&q=4&slack=1)</small>
 
 **5. Tuomas Iisalo — "there are no quick wins. You can only do a lot of damage in the short term" — The team's ongoing development and long-term building process** [05:09](https://www.youtube.com/watch?v=iFSPBqthcSM&t=309s)
 
@@ -42,7 +42,7 @@ Tuomas Iisalo: "There are no illusions, this is preseason. Teams play guys maybe
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=309s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=309s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=309&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=309&q=5) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=309&q=5&slack=1)</small>
 
 **6. Tuomas Iisalo — "I like the fact that we have a ton of handlers even in the first unit" — The effectiveness of two-point guard lineups and team depth** [07:57](https://www.youtube.com/watch?v=iFSPBqthcSM&t=477s)
 
@@ -50,7 +50,7 @@ Tuomas Iisalo: "I like the fact that we have a ton of handlers even in the first
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=477s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=477s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=477&q=6)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=477&q=6) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=477&q=6&slack=1)</small>
 
 **7. Tuomas Iisalo — "we wanted to see him also there together with the starters" — Chris Murray's role and defensive impact in the starting lineup** [09:33](https://www.youtube.com/watch?v=iFSPBqthcSM&t=573s)
 
@@ -58,4 +58,4 @@ Tuomas Iisalo: "We wanted to see him also there together with the starters. We'v
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=573s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=573s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=573&q=7)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=573&q=7) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=573&q=7&slack=1)</small>

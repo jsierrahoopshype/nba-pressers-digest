@@ -10,7 +10,7 @@ Nick Nurse: "I know you usually will have **Jalen McDaniels** and he might be pa
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=0s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=0s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=0&q=1) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=0&q=1&slack=1)</small>
 
 **2. Nick Nurse — "he rolled his ankle and just not major concern but just cautious because preseason game" — Nick Nurse provides injury update on Dean Wade** [00:21](https://www.youtube.com/watch?v=poUKGpx0jYs&t=21s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "He rolled his ankle and just not major concern but just cautious be
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=21s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=21s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=21&q=2)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=21&q=2) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=21&q=2&slack=1)</small>
 
 **3. Nick Nurse — "my favorite number on there is the eight defensive rebounds" — Nick Nurse evaluates Joel Embiid's active performance** [00:36](https://www.youtube.com/watch?v=poUKGpx0jYs&t=36s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "I think that my favorite number on there is the eight defensive reb
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=36s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=36s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=36&q=3)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=36&q=3) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=36&q=3&slack=1)</small>
 
 **4. Nick Nurse — "we want to play fast and I think there has been a little bit of carelessness" — Nick Nurse on balancing fast-paced play with avoiding turnovers** [01:37](https://www.youtube.com/watch?v=poUKGpx0jYs&t=97s)
 
@@ -34,7 +34,7 @@ Nick Nurse: "I think we want to play fast and I think there has been a little bi
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=97s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=97s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=97&q=4)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=97&q=4) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=97&q=4&slack=1)</small>
 
 **5. Nick Nurse — "we'll come down and run a set and then we'll run the same thing and move three pieces" — Nick Nurse on experimenting with starter and bench player combinations** [03:20](https://www.youtube.com/watch?v=poUKGpx0jYs&t=200s)
 
@@ -42,7 +42,7 @@ Nick Nurse: "Not really that yet, but I think I have mentioned several times tha
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=200s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=200s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=200&q=5)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=200&q=5) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=200&q=5&slack=1)</small>
 
 **6. Nick Nurse — "it's still a defensive rebounding and it's finishing our defense by rebounding" — Nick Nurse on defensive rebounding and transition defense** [04:41](https://www.youtube.com/watch?v=poUKGpx0jYs&t=281s)
 
@@ -50,7 +50,7 @@ Nick Nurse: "I certainly think that it's still a defensive rebounding and it's f
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=281s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=281s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=281&q=6)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=281&q=6) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=281&q=6&slack=1)</small>
 
 **7. Nick Nurse — "the pace that we're playing and the passing that's out there and the players there's going to be" — Nick Nurse on team momentum and offensive potential** [06:14](https://www.youtube.com/watch?v=poUKGpx0jYs&t=374s)
 
@@ -58,7 +58,7 @@ Nick Nurse: "I think there's going to be some nice moments. I think that the pac
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=374s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=374s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=374&q=7)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=374&q=7) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=374&q=7&slack=1)</small>
 
 **8. Nick Nurse — "I'm trying to develop some pace just in general" — Nick Nurse on building offensive habits for the regular season** [06:37](https://www.youtube.com/watch?v=poUKGpx0jYs&t=397s)
 
@@ -66,4 +66,4 @@ Nick Nurse: "I'm trying to develop some pace just in general. I think that when 
 
 [https://www.youtube.com/watch?v=poUKGpx0jYs&t=397s](https://www.youtube.com/watch?v=poUKGpx0jYs&t=397s)
 
-<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=397&q=8)</small>
+<small>[Clip it](presserclips://clip?v=poUKGpx0jYs&t=397&q=8) · [Send to Slack](presserclips://clip?v=poUKGpx0jYs&t=397&q=8&slack=1)</small>

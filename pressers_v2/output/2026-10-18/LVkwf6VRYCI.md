@@ -10,7 +10,7 @@ Jared McCain: "Fixing the little things, very minor details that are going to be
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=16s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=16s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=16&q=1) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=16&q=1&slack=1)</small>
 
 **2. Jared McCain — "seeing what players we have on the floor and being able to maximize my abilities" — Jared McCain on maximizing his role and spacing for teammates** [01:02](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=62s)
 
@@ -18,7 +18,7 @@ Jared McCain: "Trying to maximize whatever my position is on the floor. Seeing w
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=62s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=62s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=62&q=2)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=62&q=2) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=62&q=2&slack=1)</small>
 
 **3. Jared McCain — "pretty much that every possession matters, every detail matters" — Jared McCain on the importance of every possession in playoffs** [02:07](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=127s)
 
@@ -26,7 +26,7 @@ Jared McCain: "Pretty much that every possession matters, every detail matters. 
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=127s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=127s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=127&q=3)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=127&q=3) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=127&q=3&slack=1)</small>
 
 **4. Jared McCain — "I feel like I always just have an unwavering confidence" — Jared McCain on his unwavering confidence and playoff experience** [02:48](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=168s)
 
@@ -34,7 +34,7 @@ Jared McCain: "I feel like I always just have an unwavering confidence, no matte
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=168s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=168s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=168&q=4)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=168&q=4) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=168&q=4&slack=1)</small>
 
 **5. Jared McCain — "reading the closeout is huge" — Jared McCain on attacking closeouts and playmaking** [03:40](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=220s)
 
@@ -42,7 +42,7 @@ Jared McCain: "Reading the closeout is huge. This summer was a lot of just makin
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=220s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=220s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=220&q=5)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=220&q=5) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=220&q=5&slack=1)</small>
 
 **6. Jared McCain — "I played up with my brother, I played up like my whole life" — Jared McCain on the source of his confidence** [05:27](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=327s)
 
@@ -50,7 +50,7 @@ Jared McCain: "I played up with my brother, I played up like my whole life. If I
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=327s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=327s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=327&q=6)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=327&q=6) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=327&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "every year is a combination of continuity and things that are consistent and then things that evolve" — Mark Daigneault on team evolution and player development** [06:20](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=380s)
 
@@ -58,7 +58,7 @@ Mark Daigneault: "Every year is a combination of continuity and things that are 
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=380s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=380s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=380&q=7)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=380&q=7) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=380&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "he came into the league as just a very instinctive competitive guy" — Mark Daigneault on player development and defensive instincts** [07:09](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=429s)
 
@@ -66,7 +66,7 @@ Mark Daigneault: "He came into the league as just a very instinctive competitive
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=429s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=429s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=429&q=8)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=429&q=8) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=429&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "we learn from every matchup" — Mark Daigneault on learning from every game** [08:10](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=490s)
 
@@ -74,7 +74,7 @@ Mark Daigneault: "I always am careful to make sure that I am talking about that 
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=490s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=490s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=490&q=9)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=490&q=9) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=490&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "he loves to coach, he loves basketball, he loves competing" — Mark Daigneault on Billy Donovan's coaching transition** [09:15](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=555s)
 
@@ -82,7 +82,7 @@ Mark Daigneault: "He loves to coach, he loves basketball, he loves competing, lo
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=555s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=555s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=555&q=10)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=555&q=10) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=555&q=10&slack=1)</small>
 
 **11. Mark Daigneault — "those guys have an outsized impact on the whole" — Mark Daigneault on the impact of veteran players** [10:27](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=627s)
 
@@ -90,7 +90,7 @@ Mark Daigneault: "Those guys have an outsized impact on the whole and they are h
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=627s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=627s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=627&q=11)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=627&q=11) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=627&q=11&slack=1)</small>
 
 **12. Mark Daigneault — "it is about every single guy learning how to bring their strengths to the team" — Mark Daigneault on team growth and maximizing potential** [12:06](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=726s)
 
@@ -98,4 +98,4 @@ Mark Daigneault: "It is about every single guy learning how to bring their stren
 
 [https://www.youtube.com/watch?v=LVkwf6VRYCI&t=726s](https://www.youtube.com/watch?v=LVkwf6VRYCI&t=726s)
 
-<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=726&q=12)</small>
+<small>[Clip it](presserclips://clip?v=LVkwf6VRYCI&t=726&q=12) · [Send to Slack](presserclips://clip?v=LVkwf6VRYCI&t=726&q=12&slack=1)</small>

@@ -10,7 +10,7 @@ Mario Hezonja: "My favorite moment was the announcer always like the way he pron
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=8s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=8s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=8&q=1) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=8&q=1&slack=1)</small>
 
 **2. Mario Hezonja — "It's much easier than I thought thanks to my teammates and the staff" — Mario Hezonja on his seamless integration into the Cavaliers organization** [01:03](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=63s)
 
@@ -18,7 +18,7 @@ Mario Hezonja: "It's much easier than I thought thanks to my teammates and the s
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=63s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=63s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=63&q=2)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=63&q=2) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=63&q=2&slack=1)</small>
 
 **3. Mario Hezonja — "Take care of the ball, how we want to attack. I think the defensively we were pretty solid" — Mario Hezonja on the need for better ball security and defensive consistency** [02:13](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=133s)
 
@@ -26,7 +26,7 @@ Mario Hezonja: "Take care of the ball, how we want to attack. I think the defens
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=133s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=133s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=133&q=3)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=133&q=3) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=133&q=3&slack=1)</small>
 
 **4. Mario Hezonja — "At the end of the day, it's five of us on a on a court and you need to read those situations" — Mario Hezonja on the importance of reading game situations on the court** [03:02](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=182s)
 
@@ -34,7 +34,7 @@ Mario Hezonja: "At the end of the day, it's five of us on a on a court and you n
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=182s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=182s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=182&q=4)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=182&q=4) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=182&q=4&slack=1)</small>
 
 **5. Mario Hezonja — "Donovan is been extraordinary a teammate and extraordinary a human being with me" — Mario Hezonja on Donovan's role as a teammate and leader** [06:06](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=366s)
 
@@ -42,7 +42,7 @@ Mario Hezonja: "**Donovan** is been extraordinary a teammate and extraordinary a
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=366s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=366s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=366&q=5)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=366&q=5) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=366&q=5&slack=1)</small>
 
 **6. Peyton Watson — "It'll be great to play in front of our fans for the first first real regular season game" — Peyton Watson on the excitement of playing in front of home fans** [08:30](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=510s)
 
@@ -50,7 +50,7 @@ Peyton Watson: "It'll be great to play in front of our fans for the first first 
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=510s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=510s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=510&q=6)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=510&q=6) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=510&q=6&slack=1)</small>
 
 **7. Peyton Watson — "Just knowing the level that we can reach. Obviously we played at a super high level" — Peyton Watson on learning from the team's first game loss** [09:39](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=579s)
 
@@ -58,7 +58,7 @@ Peyton Watson: "Just knowing the level that we can reach. Obviously we played at
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=579s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=579s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=579&q=7)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=579&q=7) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=579&q=7&slack=1)</small>
 
 **8. Peyton Watson — "There's always a sense of urgency and hunger that that team comes in with" — Peyton Watson on the team's need to maintain intensity throughout the game** [10:18](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=618s)
 
@@ -66,7 +66,7 @@ Peyton Watson: "There's always a sense of urgency and hunger that that team come
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=618s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=618s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=618&q=8)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=618&q=8) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=618&q=8&slack=1)</small>
 
 **9. Peyton Watson — "I think a majority of it was psychological and then just effort" — Peyton Watson on the psychological and physical aspects of the team's performance** [11:13](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=673s)
 
@@ -74,7 +74,7 @@ Peyton Watson: "I think a majority of it was psychological and then just effort.
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=673s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=673s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=673&q=9)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=673&q=9) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=673&q=9&slack=1)</small>
 
 **10. Peyton Watson — "The regular season is kind of us practicing our execution for where we want to go" — Peyton Watson on the learning process during the regular season** [12:01](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=721s)
 
@@ -82,4 +82,4 @@ Peyton Watson: "The regular season is kind of us practicing our execution for wh
 
 [https://www.youtube.com/watch?v=BwsLq4CcfNA&t=721s](https://www.youtube.com/watch?v=BwsLq4CcfNA&t=721s)
 
-<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=721&q=10)</small>
+<small>[Clip it](presserclips://clip?v=BwsLq4CcfNA&t=721&q=10) · [Send to Slack](presserclips://clip?v=BwsLq4CcfNA&t=721&q=10&slack=1)</small>

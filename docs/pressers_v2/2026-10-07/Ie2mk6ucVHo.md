@@ -10,7 +10,7 @@ Coach Nurse: "It's certainly important to get all these guys ready to go and I t
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=5s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=5s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=5&q=1) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=5&q=1&slack=1)</small>
 
 **2. Coach Nurse — "it's always a bigger blow for him personally, but certainly a blow for the team" — Coach Nurse on the impact of Joel Embiid's injury** [00:54](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=54s)
 
@@ -18,7 +18,7 @@ Coach Nurse: "It's super tough. It's tough for anybody, but we were super excite
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=54s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=54s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=54&q=2) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=54&q=2&slack=1)</small>
 
 **3. Coach Nurse — "I think it's such an interesting topic, not only across our sport, but I'm sure you guys follow" — Coach Nurse on balancing veteran playing time during preseason** [01:43](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=103s)
 
@@ -26,7 +26,7 @@ Coach Nurse: "I think it's such an interesting topic, not only across our sport,
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=103s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=103s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=103&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=103&q=3) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=103&q=3&slack=1)</small>
 
 **4. Coach Nurse — "Dean would be another candidate, I think he's played some small ball five as well" — Coach Nurse on potential small-ball lineup candidates** [03:39](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=219s)
 
@@ -34,7 +34,7 @@ Coach Nurse: "**Dean** would be another candidate, I think he's played some smal
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=219s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=219s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=219&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=219&q=4) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=219&q=4&slack=1)</small>
 
 **5. Coach Nurse — "all I'm really focused on is getting the players to the practice floor and getting the players" — Coach Nurse on managing external noise during training camp** [04:21](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=261s)
 
@@ -42,7 +42,7 @@ Coach Nurse: "All I'm really focused on is getting the players to the practice f
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=261s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=261s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=261&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=261&q=5) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=261&q=5&slack=1)</small>
 
 **6. Coach Nurse — "it gives you capabilities to do lots more things. All it does is speed up what you" — Coach Nurse on how basketball IQ aids team development** [05:37](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=337s)
 
@@ -50,7 +50,7 @@ Coach Nurse: "It gives you capabilities to do lots more things. All it does is s
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=337s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=337s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=337&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=337&q=6) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=337&q=6&slack=1)</small>
 
 **7. Coach Nurse — "I thought he was always incredibly respectful and genuinely nice to me" — Coach Nurse on his past relationship with LeBron James** [07:17](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=437s)
 
@@ -58,7 +58,7 @@ Coach Nurse: "I thought he was always incredibly respectful and genuinely nice t
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=437s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=437s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=437&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=437&q=7) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=437&q=7&slack=1)</small>
 
 **8. Coach Nurse — "he's been excellent. He's in great shape. He's been on the practice floor. He's worked very hard" — Coach Nurse defends Joel Embiid's work ethic** [08:42](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=522s)
 
@@ -66,4 +66,4 @@ Coach Nurse: "I'm just surprised by what I was told before and what you guys are
 
 [https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=522s](https://www.youtube.com/watch?v=Ie2mk6ucVHo&t=522s)
 
-<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=522&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Ie2mk6ucVHo&t=522&q=8) · [Send to Slack](presserclips://clip?v=Ie2mk6ucVHo&t=522&q=8&slack=1)</small>

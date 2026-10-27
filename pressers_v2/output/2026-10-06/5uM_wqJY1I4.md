@@ -10,7 +10,7 @@ Jaime Jaquez Jr.: "We watched a lot of film today. A lot of things that we need 
 
 [https://www.youtube.com/watch?v=5uM_wqJY1I4&t=19s](https://www.youtube.com/watch?v=5uM_wqJY1I4&t=19s)
 
-<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=19&q=1) · [Send to Slack](presserclips://clip?v=5uM_wqJY1I4&t=19&q=1&slack=1)</small>
 
 **2. Jaime Jaquez Jr. — "Honing into our principles and what our emphasis is when we try to crash" — Jaime Jaquez Jr. on emphasizing rebounding and defensive principles** [01:08](https://www.youtube.com/watch?v=5uM_wqJY1I4&t=68s)
 
@@ -18,7 +18,7 @@ Jaime Jaquez Jr.: "Honing into our principles and what our emphasis is when we t
 
 [https://www.youtube.com/watch?v=5uM_wqJY1I4&t=68s](https://www.youtube.com/watch?v=5uM_wqJY1I4&t=68s)
 
-<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=68&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=68&q=2) · [Send to Slack](presserclips://clip?v=5uM_wqJY1I4&t=68&q=2&slack=1)</small>
 
 **3. Jaime Jaquez Jr. — "We're still just trying to figure out each other's tendencies and what ways they like to drive" — Jaime Jaquez Jr. on team chemistry and learning player tendencies** [01:57](https://www.youtube.com/watch?v=5uM_wqJY1I4&t=117s)
 
@@ -26,7 +26,7 @@ Jaime Jaquez Jr.: "For us, we're just trying to find the best ways to create adv
 
 [https://www.youtube.com/watch?v=5uM_wqJY1I4&t=117s](https://www.youtube.com/watch?v=5uM_wqJY1I4&t=117s)
 
-<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=117&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=117&q=3) · [Send to Slack](presserclips://clip?v=5uM_wqJY1I4&t=117&q=3&slack=1)</small>
 
 **4. Jaime Jaquez Jr. — "It's just about finding guys on time on target. It's still a little new for guys" — Jaime Jaquez Jr. on the importance of finding guys on target** [03:02](https://www.youtube.com/watch?v=5uM_wqJY1I4&t=182s)
 
@@ -34,4 +34,4 @@ Jaime Jaquez Jr.: "It's just about finding guys on time on target. It's still a 
 
 [https://www.youtube.com/watch?v=5uM_wqJY1I4&t=182s](https://www.youtube.com/watch?v=5uM_wqJY1I4&t=182s)
 
-<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=182&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5uM_wqJY1I4&t=182&q=4) · [Send to Slack](presserclips://clip?v=5uM_wqJY1I4&t=182&q=4&slack=1)</small>

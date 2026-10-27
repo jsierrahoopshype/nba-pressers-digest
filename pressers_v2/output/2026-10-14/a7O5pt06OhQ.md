@@ -10,7 +10,7 @@ Daron Holmes II: "For the five, on offense you're the vocal point, so you have t
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=16s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=16s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=16&q=1) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=16&q=1&slack=1)</small>
 
 **2. Daron Holmes II — "our job is to get them open, so setting a great hard screen for them" — Daron Holmes II on the importance of screening for guards** [01:18](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=78s)
 
@@ -18,7 +18,7 @@ Daron Holmes II: "We got guards like **Jamal**, we have guys that can score the 
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=78s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=78s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=78&q=2)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=78&q=2) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=78&q=2&slack=1)</small>
 
 **3. Daron Holmes II — "as a big you should love playing with them and Ryan, even Jamal" — Daron Holmes II on playing with Tyus Jones** [02:02](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=122s)
 
@@ -26,7 +26,7 @@ Daron Holmes II: "**Tyus** is very well, especially pass-first. As a big you sho
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=122s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=122s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=122&q=3)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=122&q=3) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=122&q=3&slack=1)</small>
 
 **4. Daron Holmes II — "he took the whole summer to really work on his body" — Daron Holmes II on the conditioning of Aaron Gordon and Christian Braun** [04:37](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=277s)
 
@@ -34,7 +34,7 @@ Daron Holmes II: "I'll start with **AG**. He took the whole summer to really wor
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=277s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=277s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=277&q=4)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=277&q=4) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=277&q=4&slack=1)</small>
 
 **5. Tyus Jones — "plus-minus is a huge indicator of a bench unit and so we want to make sure" — Tyus Jones on the importance of plus-minus for bench units** [06:00](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=360s)
 
@@ -42,7 +42,7 @@ Tyus Jones: "Plus-minus is a huge indicator of a bench unit and so we want to ma
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=360s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=360s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=360&q=5)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=360&q=5) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=360&q=5&slack=1)</small>
 
 **6. Tyus Jones — "it's a blessing every single time. It's something that I don't take for granted" — Tyus Jones on playing against Trey Lyles** [06:40](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=400s)
 
@@ -50,7 +50,7 @@ Tyus Jones: "It's a blessing every single time. It's something that I don't take
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=400s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=400s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=400&q=6)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=400&q=6) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=400&q=6&slack=1)</small>
 
 **7. Tyus Jones — "there's a handful of teams that are more just dribble-drive based where they're just spreading the floor out" — Tyus Jones on team offensive styles** [07:47](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=467s)
 
@@ -58,7 +58,7 @@ Tyus Jones: "There's a handful of teams that are more just dribble-drive based w
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=467s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=467s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=467&q=7)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=467&q=7) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=467&q=7&slack=1)</small>
 
 **8. Coach Adelman — "I don't want to overload a playbook because you want to simplify things for guys" — Coach Adelman on simplifying the playbook for the bench** [12:44](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=764s)
 
@@ -66,7 +66,7 @@ Coach Adelman: "I don't want to overload a playbook because you want to simplify
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=764s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=764s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=764&q=8)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=764&q=8) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=764&q=8&slack=1)</small>
 
 **9. Coach Adelman — "I think he's attempting to do things defensively different. I thought he struggled a little bit" — Coach Adelman on Julian Strawther's growth** [14:25](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=865s)
 
@@ -74,7 +74,7 @@ Coach Adelman: "I think he's attempting to do things defensively different. I th
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=865s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=865s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=865&q=9)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=865&q=9) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=865&q=9&slack=1)</small>
 
 **10. Coach Adelman — "we had to do it in the playoffs a little bit. You're obviously giving up something" — Coach Adelman on playing Tyus Jones and Jamal Murray together** [15:16](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=916s)
 
@@ -82,4 +82,4 @@ Coach Adelman: "We had to do it in the playoffs a little bit. You're obviously g
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=916s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=916s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=916&q=10)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=916&q=10) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=916&q=10&slack=1)</small>

@@ -14,7 +14,7 @@ Kentavious Caldwell-Pope: "We got to know everybody first. We got to know everyb
 
 [https://www.youtube.com/watch?v=ntNAYK1wLlc&t=113s](https://www.youtube.com/watch?v=ntNAYK1wLlc&t=113s)
 
-<small>[Clip it](presserclips://clip?v=ntNAYK1wLlc&t=113&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ntNAYK1wLlc&t=113&q=1) · [Send to Slack](presserclips://clip?v=ntNAYK1wLlc&t=113&q=1&slack=1)</small>
 
 **2. Kentavious Caldwell-Pope — "He's just more being that team leader, slowing the pace down, also just getting everybody in their same position." — Kentavious Caldwell-Pope on LeBron James' evolution as a team leader** [02:57](https://www.youtube.com/watch?v=ntNAYK1wLlc&t=177s)
 
@@ -22,7 +22,7 @@ Kentavious Caldwell-Pope: "I think it helped the change. For him, it's just more
 
 [https://www.youtube.com/watch?v=ntNAYK1wLlc&t=177s](https://www.youtube.com/watch?v=ntNAYK1wLlc&t=177s)
 
-<small>[Clip it](presserclips://clip?v=ntNAYK1wLlc&t=177&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ntNAYK1wLlc&t=177&q=2) · [Send to Slack](presserclips://clip?v=ntNAYK1wLlc&t=177&q=2&slack=1)</small>
 
 **3. Kentavious Caldwell-Pope — "It's all our selfishness, our willingness to pass the ball, find the open guy." — Kentavious Caldwell-Pope on the team's selflessness and ball movement** [04:51](https://www.youtube.com/watch?v=ntNAYK1wLlc&t=291s)
 
@@ -30,7 +30,7 @@ Kentavious Caldwell-Pope: "It's all our selfishness, our willingness to pass the
 
 [https://www.youtube.com/watch?v=ntNAYK1wLlc&t=291s](https://www.youtube.com/watch?v=ntNAYK1wLlc&t=291s)
 
-<small>[Clip it](presserclips://clip?v=ntNAYK1wLlc&t=291&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ntNAYK1wLlc&t=291&q=3) · [Send to Slack](presserclips://clip?v=ntNAYK1wLlc&t=291&q=3&slack=1)</small>
 
 ---
 
@@ -46,7 +46,7 @@ Kenny Atkinson: "I would say conditioning. How quickly do we get fatigued, how l
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=16s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=16s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=16&q=1) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=16&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "we're a continuous learning organization, who can we learn from" — Kenny Atkinson on the value of a continuous learning organization** [01:46](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=106s)
 
@@ -54,7 +54,7 @@ Kenny Atkinson: "We're a continuous learning organization, who can we learn from
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=106s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=106s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=106&q=2)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=106&q=2) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=106&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "I had him pegged in as a rotation player" — Kenny Atkinson on the rotation status of a missing player** [03:12](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=192s)
 
@@ -62,7 +62,7 @@ Kenny Atkinson: "I had him pegged in as a rotation player. So he's going to be i
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=192s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=192s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=192&q=3)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=192&q=3) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=192&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "everyone they bring into this program is extremely coachable, high character" — Kenny Atkinson on the importance of character in team building** [04:32](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=272s)
 
@@ -70,7 +70,7 @@ Kenny Atkinson: "Everyone they bring into this program is extremely coachable, h
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=272s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=272s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=272&q=4)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=272&q=4) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=272&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "the belief is we're good enough to take another step" — Kenny Atkinson on the team's internal belief in taking steps** [05:47](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=347s)
 
@@ -78,7 +78,7 @@ Kenny Atkinson: "Internally, that's the belief. The belief is we're good enough 
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=347s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=347s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=347&q=5)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=347&q=5) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=347&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "I think best player, and then we have to work around that" — Kenny Atkinson on replacing injured players in the rotation** [06:36](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=396s)
 
@@ -86,7 +86,7 @@ Kenny Atkinson: "I think best player, and then we have to work around that, kind
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=396s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=396s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=396&q=6)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=396&q=6) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=396&q=6&slack=1)</small>
 
 ---
 
@@ -102,7 +102,7 @@ James Harden: "There's so much that goes into being an elite screener. Knowing w
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=18s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=18s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=18&q=1) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=18&q=1&slack=1)</small>
 
 **2. James Harden — "He has the athleticism and the pace to create an advantage or create separation." — James Harden on Evan Mobley's unique athleticism and pace** [01:23](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=83s)
 
@@ -110,7 +110,7 @@ James Harden: "I think just his athleticism, but it's his pace. He has the athle
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=83s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=83s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=83&q=2)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=83&q=2) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=83&q=2&slack=1)</small>
 
 **3. James Harden — "I think just ultimate confidence. He works extremely hard, he's focused, he wants to be great." — James Harden on building Evan Mobley's confidence for the season** [02:46](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=166s)
 
@@ -118,7 +118,7 @@ James Harden: "I think just ultimate confidence. He works extremely hard, he's f
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=166s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=166s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=166&q=3)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=166&q=3) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=166&q=3&slack=1)</small>
 
 **4. James Harden — "I think off the court is the most important. Just hanging out, going to dinners." — James Harden on the importance of off-court chemistry with teammates** [03:24](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=204s)
 
@@ -126,7 +126,7 @@ James Harden: "I think off the court is the most important. Just hanging out, go
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=204s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=204s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=204&q=4)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=204&q=4) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=204&q=4&slack=1)</small>
 
 **5. James Harden — "He has a dynamic that we were missing this last year." — James Harden on helping Evan Mobley find his role** [04:11](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=251s)
 
@@ -134,7 +134,7 @@ James Harden: "I can only imagine how difficult it is for him having this thing 
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=251s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=251s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=251&q=5)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=251&q=5) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=251&q=5&slack=1)</small>
 
 ---
 

@@ -10,7 +10,7 @@ Charles Lee: "The flexibility comes with, you know, I think this group allows yo
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=66s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=66s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=66&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=66&q=1) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=66&q=1&slack=1)</small>
 
 **2. Charles Lee — "he brings a lot of NBA corporate knowledge" — Charles Lee praises Dennis Schroder for his leadership and ability to impact the Hornets' offense.** [01:58](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s)
 
@@ -18,7 +18,7 @@ Charles Lee: "I'm so glad to be reunited with Dennis. It's been fun watching his
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=118&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=118&q=2) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=118&q=2&slack=1)</small>
 
 **3. Charles Lee — "most teams like you see a lot of success when that team can learn how to gel" — Charles Lee emphasizes the importance of team chemistry for the Hornets' deep roster.** [03:58](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s)
 
@@ -26,7 +26,7 @@ Charles Lee: "I think we have a very deep talented roster, but most teams, like 
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=238&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=238&q=3) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=238&q=3&slack=1)</small>
 
 **4. Charles Lee — "I look forward to him trying to expand his game a little bit, maybe shoot the three" — Charles Lee wants PJ Washington to expand his offensive game by shooting more threes.** [04:17](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s)
 
@@ -34,4 +34,4 @@ Charles Lee: "I thought we got to see last year in some of his stints that he ha
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=257&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=257&q=4) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=257&q=4&slack=1)</small>

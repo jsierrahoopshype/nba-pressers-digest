@@ -10,7 +10,7 @@ Nikola Jokic: "He was really good. Both ends of the floor, he scored some big po
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=6s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=6s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=6&q=1) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=6&q=1&slack=1)</small>
 
 **2. Nikola Jokic — "I think those fans who boo us, they don't need to come anymore" — Nikola Jokic criticizes fans for booing the team** [01:04](https://www.youtube.com/watch?v=oJEmlZu2q28&t=64s)
 
@@ -18,7 +18,7 @@ Nikola Jokic: "I'm actually so glad that you mentioned that because we get booed
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=64s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=64s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=64&q=2)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=64&q=2) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=64&q=2&slack=1)</small>
 
 **3. Nikola Jokic — "he just need to see one go in and he can go crazy" — Nikola Jokic on Jamal Murray's ability to take over** [01:39](https://www.youtube.com/watch?v=oJEmlZu2q28&t=99s)
 
@@ -26,7 +26,7 @@ Nikola Jokic: "Even when he has a not good game, he just need to see one go in a
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=99s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=99s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=99&q=3)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=99&q=3) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=99&q=3&slack=1)</small>
 
 **4. Trevon Brazile — "you can expect that out of me every night as far as hustle, intensity" — Trevon Brazile on his role and commitment to intensity** [05:46](https://www.youtube.com/watch?v=oJEmlZu2q28&t=346s)
 
@@ -34,7 +34,7 @@ Trevon Brazile: "You seen it tonight, I'm ready to play. You can expect that out
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=346s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=346s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=346&q=4)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=346&q=4) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=346&q=4&slack=1)</small>
 
 **5. Coach Adelman — "the biggest compliment you can give a guy that's a rookie in our league is that the veterans trust him" — Coach Adelman on the importance of veterans trusting a rookie** [08:50](https://www.youtube.com/watch?v=oJEmlZu2q28&t=530s)
 
@@ -42,7 +42,7 @@ Coach Adelman: "The biggest compliment you can give a guy that's a rookie in our
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=530s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=530s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=530&q=5)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=530&q=5) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=530&q=5&slack=1)</small>
 
 **6. Coach Adelman — "I thought that unit brought us some juice and energy" — Coach Adelman credits the bench unit for sparking the comeback** [10:08](https://www.youtube.com/watch?v=oJEmlZu2q28&t=608s)
 
@@ -50,7 +50,7 @@ Coach Adelman: "I think the most underrated part of this game was the start of t
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=608s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=608s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=608&q=6)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=608&q=6) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=608&q=6&slack=1)</small>
 
 **7. Coach Adelman — "sometimes his frustration energy is positive for everybody else because he says what he actually thinks" — Coach Adelman on Jamal Murray's positive energy and leadership** [11:27](https://www.youtube.com/watch?v=oJEmlZu2q28&t=687s)
 
@@ -58,7 +58,7 @@ Coach Adelman: "Jamal's energy was great throughout the night. Sometimes his fru
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=687s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=687s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=687&q=7)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=687&q=7) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=687&q=7&slack=1)</small>
 
 **8. Coach Adelman — "he's short up the defensive rebound too" — Coach Adelman on Trevon Brazile's defensive rebounding and athleticism** [14:54](https://www.youtube.com/watch?v=oJEmlZu2q28&t=894s)
 
@@ -66,4 +66,4 @@ Coach Adelman: "He's short up the defensive rebound too. If you're going to be u
 
 [https://www.youtube.com/watch?v=oJEmlZu2q28&t=894s](https://www.youtube.com/watch?v=oJEmlZu2q28&t=894s)
 
-<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=894&q=8)</small>
+<small>[Clip it](presserclips://clip?v=oJEmlZu2q28&t=894&q=8) · [Send to Slack](presserclips://clip?v=oJEmlZu2q28&t=894&q=8&slack=1)</small>

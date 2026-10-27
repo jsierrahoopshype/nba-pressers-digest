@@ -10,7 +10,7 @@ Jamahl Mosley: "Our communication down the stretch, just being able to handle si
 
 [https://www.youtube.com/watch?v=5jIuxrh_a0I&t=54s](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=54s)
 
-<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=54&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=54&q=1) · [Send to Slack](presserclips://clip?v=5jIuxrh_a0I&t=54&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "I'd rather have to say whoa than sic 'em." — Jamahl Mosley on managing Jeremiah's aggression and foul trouble** [02:03](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=123s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "It's tricky with young guys because I'd rather have to say whoa 
 
 [https://www.youtube.com/watch?v=5jIuxrh_a0I&t=123s](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=123s)
 
-<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=123&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=123&q=2) · [Send to Slack](presserclips://clip?v=5jIuxrh_a0I&t=123&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "we have a team that gets downhill very well. They touch the paint." — Jamahl Mosley on the Pelicans' offensive identity and paint scoring** [02:44](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=164s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "With the team that we have, and adding a **Benedict** to the gro
 
 [https://www.youtube.com/watch?v=5jIuxrh_a0I&t=164s](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=164s)
 
-<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=164&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=164&q=3) · [Send to Slack](presserclips://clip?v=5jIuxrh_a0I&t=164&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "the team's best defenders are guarding him. And so now taking that challenge on the other way." — Jamahl Mosley on Zion's defensive impact and system trust** [03:10](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=190s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "Just trusting our system, knowing he's so gifted, so talented, s
 
 [https://www.youtube.com/watch?v=5jIuxrh_a0I&t=190s](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=190s)
 
-<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=190&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=190&q=4) · [Send to Slack](presserclips://clip?v=5jIuxrh_a0I&t=190&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "these guys have a lot of length and size on the floor that they can throw out there." — Jamahl Mosley on the Utah Jazz's size and length** [03:55](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=235s)
 
@@ -42,7 +42,7 @@ Jamahl Mosley: "I talked to **Will** about it this summer. I mean, their startin
 
 [https://www.youtube.com/watch?v=5jIuxrh_a0I&t=235s](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=235s)
 
-<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=235&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=235&q=5) · [Send to Slack](presserclips://clip?v=5jIuxrh_a0I&t=235&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "we had those stall out moments, but what one thing that was glaring was some of the turnovers." — Jamahl Mosley on improving ball movement and reducing turnovers** [04:40](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=280s)
 
@@ -50,4 +50,4 @@ Jamahl Mosley: "We had those stall out moments, but what one thing that was glar
 
 [https://www.youtube.com/watch?v=5jIuxrh_a0I&t=280s](https://www.youtube.com/watch?v=5jIuxrh_a0I&t=280s)
 
-<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=280&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5jIuxrh_a0I&t=280&q=6) · [Send to Slack](presserclips://clip?v=5jIuxrh_a0I&t=280&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Evan Mobley: "I think just his presence on the floor really brings us all togeth
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=11s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=11s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=11&q=1) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=11&q=1&slack=1)</small>
 
 **2. Evan Mobley — "we got to know teams' tendencies and what they like to do" — Evan Mobley on fixing defensive lapses against three-point shooting** [00:44](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=44s)
 
@@ -18,7 +18,7 @@ Evan Mobley: "Each game was a little different on how it all happened. This game
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=44s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=44s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=44&q=2) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=44&q=2&slack=1)</small>
 
 **3. Evan Mobley — "it's a good thing that we're facing it right now, because you don't want to face it later" — Evan Mobley on learning from close games early in season** [01:39](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=99s)
 
@@ -26,7 +26,7 @@ Evan Mobley: "I feel like it's a good thing that we're facing it right now, beca
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=99s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=99s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=99&q=3)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=99&q=3) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=99&q=3&slack=1)</small>
 
 **4. Evan Mobley — "it's kind of a feel and also I think we got to figure out our go-to plays" — Evan Mobley on finding go-to players in crunch time** [02:27](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=147s)
 
@@ -34,7 +34,7 @@ Evan Mobley: "It's kind of a feel and also I think we got to figure out our go-t
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=147s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=147s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=147&q=4) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=147&q=4&slack=1)</small>
 
 **5. Evan Mobley — "every single time we step on the floor we're getting more and more comfortable with each other" — Evan Mobley on building chemistry with new teammates** [03:10](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=190s)
 
@@ -42,7 +42,7 @@ Evan Mobley: "It's two games in, so we still got a long season and a lot more ga
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=190s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=190s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=190&q=5)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=190&q=5) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=190&q=5&slack=1)</small>
 
 **6. Evan Mobley — "I think we just all click together" — Evan Mobley on team chemistry and training camp in Spain** [03:47](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=227s)
 
@@ -50,7 +50,7 @@ Evan Mobley: "I think we just all click together. We all have fun and off the co
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=227s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=227s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=227&q=6)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=227&q=6) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=227&q=6&slack=1)</small>
 
 **7. Evan Mobley — "anytime he hits a three, gives us all energy" — Evan Mobley on Jared Allen's perimeter shooting development** [04:45](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=285s)
 
@@ -58,7 +58,7 @@ Evan Mobley: "The team loves it. Anytime he hits a three, gives us all energy. H
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=285s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=285s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=285&q=7)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=285&q=7) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=285&q=7&slack=1)</small>
 
 **8. Evan Mobley — "I'm just out there trying to play winning basketball" — Evan Mobley on playing winning basketball and stepping out of comfort zone** [05:21](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=321s)
 
@@ -66,7 +66,7 @@ Evan Mobley: "Personally, I'm just out there trying to play winning basketball e
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=321s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=321s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=321&q=8)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=321&q=8) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=321&q=8&slack=1)</small>
 
 **9. Evan Mobley — "I think I'm a great playmaker" — Evan Mobley on the effectiveness of the inverting pick and roll** [06:04](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=364s)
 
@@ -74,7 +74,7 @@ Evan Mobley: "I think I'm a great playmaker. I'm also very tall so I can see ove
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=364s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=364s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=364&q=9)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=364&q=9) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=364&q=9&slack=1)</small>
 
 **10. Evan Mobley — "every single year I get more and more confident" — Evan Mobley on his growing confidence in his three-point shot** [06:40](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=400s)
 
@@ -82,4 +82,4 @@ Evan Mobley: "I'm really confident. Every single year I get more and more confid
 
 [https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=400s](https://www.youtube.com/watch?v=NOIUSDBE-3Q&t=400s)
 
-<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=400&q=10)</small>
+<small>[Clip it](presserclips://clip?v=NOIUSDBE-3Q&t=400&q=10) · [Send to Slack](presserclips://clip?v=NOIUSDBE-3Q&t=400&q=10&slack=1)</small>

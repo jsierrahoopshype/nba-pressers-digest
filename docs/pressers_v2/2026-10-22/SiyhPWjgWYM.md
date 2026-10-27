@@ -10,7 +10,7 @@ Tuomas Iisalo: "The way the offense is built right now is we have a few focal po
 
 [https://www.youtube.com/watch?v=SiyhPWjgWYM&t=142s](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=142s)
 
-<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=142&q=1)</small>
+<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=142&q=1) · [Send to Slack](presserclips://clip?v=SiyhPWjgWYM&t=142&q=1&slack=1)</small>
 
 **2. Tuomas Iisalo — "They bring a very different type of style into it. You have five shooters out there." — The Grizzlies' bench unit provides a unique, high-pressure offensive style** [04:08](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=248s)
 
@@ -18,7 +18,7 @@ Tuomas Iisalo: "They bring a very different type of style into it. You have five
 
 [https://www.youtube.com/watch?v=SiyhPWjgWYM&t=248s](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=248s)
 
-<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=248&q=2)</small>
+<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=248&q=2) · [Send to Slack](presserclips://clip?v=SiyhPWjgWYM&t=248&q=2&slack=1)</small>
 
 **3. Tuomas Iisalo — "I thought he did a great job with the rebounding. He had 11 rebounds, he had five assists." — Cam Spencer's debut performance and his value to the team** [05:53](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=353s)
 
@@ -26,7 +26,7 @@ Tuomas Iisalo: "Typical **Cam Spencer** night. He shot two for 15 and plus 32. I
 
 [https://www.youtube.com/watch?v=SiyhPWjgWYM&t=353s](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=353s)
 
-<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=353&q=3)</small>
+<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=353&q=3) · [Send to Slack](presserclips://clip?v=SiyhPWjgWYM&t=353&q=3&slack=1)</small>
 
 **4. Tuomas Iisalo — "Maybe the best off-ball mover and movement shooter out of all the four men in Markkanen." — Lauri Markkanen's unique skill set as an elite offensive player** [06:37](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=397s)
 
@@ -34,7 +34,7 @@ Tuomas Iisalo: "Going against one of the best four men in the world, maybe the b
 
 [https://www.youtube.com/watch?v=SiyhPWjgWYM&t=397s](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=397s)
 
-<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=397&q=4)</small>
+<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=397&q=4) · [Send to Slack](presserclips://clip?v=SiyhPWjgWYM&t=397&q=4&slack=1)</small>
 
 **5. Tuomas Iisalo — "It says a lot about his ability for this type of offensive explosions that it is there." — Ty Jerome's potential as a starting point guard in the NBA** [12:02](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=722s)
 
@@ -42,4 +42,4 @@ Tuomas Iisalo: "The numbers are essentially the same. They are just a lot smalle
 
 [https://www.youtube.com/watch?v=SiyhPWjgWYM&t=722s](https://www.youtube.com/watch?v=SiyhPWjgWYM&t=722s)
 
-<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=722&q=5)</small>
+<small>[Clip it](presserclips://clip?v=SiyhPWjgWYM&t=722&q=5) · [Send to Slack](presserclips://clip?v=SiyhPWjgWYM&t=722&q=5&slack=1)</small>

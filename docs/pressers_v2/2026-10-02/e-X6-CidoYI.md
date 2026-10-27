@@ -10,7 +10,7 @@ Branden Carlson: "I mean there is a lot that went into it. I have to give a shou
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=3s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=3s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=3&q=1) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=3&q=1&slack=1)</small>
 
 **2. Branden Carlson — "I am very confident in both positions." — Branden Carlson feels comfortable playing both the four and five positions** [00:40](https://www.youtube.com/watch?v=e-X6-CidoYI&t=40s)
 
@@ -18,7 +18,7 @@ Branden Carlson: "I have played five the majority of my whole life, but I think 
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=40s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=40s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=40&q=2)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=40&q=2) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=40&q=2&slack=1)</small>
 
 **3. Branden Carlson — "Just the belief from Joe, from Coach Billups, it just felt right to me." — Branden Carlson cites belief from Joe Cronin and Chauncey Billups** [01:00](https://www.youtube.com/watch?v=e-X6-CidoYI&t=60s)
 
@@ -26,7 +26,7 @@ Branden Carlson: "Just the belief from Joe, from Coach Billups, it just felt rig
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=60s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=60s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=60&q=3)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=60&q=3) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=60&q=3&slack=1)</small>
 
 **4. Branden Carlson — "I went on a mission, I was in England for two years." — Branden Carlson describes his two-year mission in England** [01:38](https://www.youtube.com/watch?v=e-X6-CidoYI&t=98s)
 
@@ -34,7 +34,7 @@ Branden Carlson: "Right out of high school for the Church of Jesus Christ of Lat
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=98s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=98s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=98&q=4)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=98&q=4) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=98&q=4&slack=1)</small>
 
 **5. Branden Carlson — "I just missed the competitiveness of it. I love I love just competing." — Branden Carlson missed the competitiveness of basketball during his mission** [03:17](https://www.youtube.com/watch?v=e-X6-CidoYI&t=197s)
 
@@ -42,7 +42,7 @@ Branden Carlson: "I just missed the competitiveness of it. I love I love just co
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=197s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=197s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=197&q=5)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=197&q=5) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=197&q=5&slack=1)</small>
 
 **6. Branden Carlson — "The guys that we have with the coaches and players makes it easy." — Branden Carlson praises the team culture and coaching in Portland** [04:43](https://www.youtube.com/watch?v=e-X6-CidoYI&t=283s)
 
@@ -50,7 +50,7 @@ Branden Carlson: "The guys that we have with the coaches and players makes it ea
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=283s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=283s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=283&q=6)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=283&q=6) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=283&q=6&slack=1)</small>
 
 **7. Branden Carlson — "Step Brothers is probably one. I love Will Ferrell." — Branden Carlson shares his top three comedy movie picks** [05:20](https://www.youtube.com/watch?v=e-X6-CidoYI&t=320s)
 
@@ -58,7 +58,7 @@ Branden Carlson: "Step Brothers is probably one. I love **Will Ferrell**. So two
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=320s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=320s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=320&q=7)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=320&q=7) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=320&q=7&slack=1)</small>
 
 **8. Branden Carlson — "I think I am at the top, but Denny, Denny is a funny guy." — Branden Carlson evaluates the personalities in the Trail Blazers locker room** [06:21](https://www.youtube.com/watch?v=e-X6-CidoYI&t=381s)
 
@@ -66,7 +66,7 @@ Branden Carlson: "I mean I think I am at the top, but Denny, Denny is a funny gu
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=381s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=381s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=381&q=8)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=381&q=8) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=381&q=8&slack=1)</small>
 
 **9. Branden Carlson — "I haven't gone with all three of them. I have gone with Mica." — Branden Carlson discusses his golf outings with teammates** [06:55](https://www.youtube.com/watch?v=e-X6-CidoYI&t=415s)
 
@@ -74,7 +74,7 @@ Branden Carlson: "I haven't gone with all three of them. I have gone with **Mica
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=415s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=415s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=415&q=9)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=415&q=9) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=415&q=9&slack=1)</small>
 
 **10. Branden Carlson — "I am quite a bit more athletic than people give me credit for." — Branden Carlson describes his playing style as a stretch big** [08:13](https://www.youtube.com/watch?v=e-X6-CidoYI&t=493s)
 
@@ -82,4 +82,4 @@ Branden Carlson: "I think a lot of people would say my strength is taking pop an
 
 [https://www.youtube.com/watch?v=e-X6-CidoYI&t=493s](https://www.youtube.com/watch?v=e-X6-CidoYI&t=493s)
 
-<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=493&q=10)</small>
+<small>[Clip it](presserclips://clip?v=e-X6-CidoYI&t=493&q=10) · [Send to Slack](presserclips://clip?v=e-X6-CidoYI&t=493&q=10&slack=1)</small>

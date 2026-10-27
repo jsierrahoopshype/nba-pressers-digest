@@ -10,7 +10,7 @@ Micah Nori: "The one thing we talked about today was that you're disappointed. T
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=21s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=21s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=21&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=21&q=1) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=21&q=1&slack=1)</small>
 
 **2. Micah Nori — "We just got to take care of the ball, not playing crowds, all those things" — Micah Nori emphasizes need for ball security and pace control** [00:48](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=48s)
 
@@ -18,7 +18,7 @@ Micah Nori: "We just got to take care of the ball, not playing crowds, all those
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=48s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=48s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=48&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=48&q=2) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=48&q=2&slack=1)</small>
 
 **3. Micah Nori — "Joth throws it ahead to Denny, Denny just bobbles it out of bounds" — Micah Nori critiques specific turnover play involving Joth and Denny** [01:19](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=79s)
 
@@ -26,7 +26,7 @@ Micah Nori: "The ones at the top of the head like we **Joth** throws it ahead to
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=79s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=79s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=79&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=79&q=3) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=79&q=3&slack=1)</small>
 
 **4. Micah Nori — "literally pausing it and saying, hey, you tried to force feed this pass here" — Micah Nori explains the process of cleaning up team mistakes** [01:54](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=114s)
 
@@ -34,7 +34,7 @@ Micah Nori: "Clean up is like just go back through the film, show them the why. 
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=114s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=114s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=114&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=114&q=4) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=114&q=4&slack=1)</small>
 
 **5. Micah Nori — "Joth gets stripped on a three-on-one, which led to a bucket for them" — Micah Nori analyzes the first rotation and defensive lapses** [02:48](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=168s)
 
@@ -42,7 +42,7 @@ Micah Nori: "I think that we're up 12 to 4. **Joth** gets stripped on a three-on
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=168s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=168s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=168&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=168&q=5) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=168&q=5&slack=1)</small>
 
 **6. Micah Nori — "I thought the starters basically just quit at halftime" — Micah Nori reflects on starters' performance and potential lineup changes** [03:32](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=212s)
 
@@ -50,7 +50,7 @@ Micah Nori: "I thought the starters basically just quit at halftime. And not say
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=212s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=212s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=212&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=212&q=6) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=212&q=6&slack=1)</small>
 
 **7. Micah Nori — "I really liked what Micah Potter, Sohan, those guys, it's City, yeah, they really did a good job" — Micah Nori praises Micah Potter, Sohan, and City for their play** [03:59](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=239s)
 
@@ -58,4 +58,4 @@ Micah Nori: "I really liked what **Micah Potter**, we talked about it last night
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=239s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=239s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=239&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=239&q=7) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=239&q=7&slack=1)</small>

@@ -14,7 +14,7 @@ Taylor Jenkins: "**Nate** went through everything today. Obviously we had contac
 
 [https://www.youtube.com/watch?v=KMJDJm7rfPo&t=8s](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=8s)
 
-<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=8&q=1) · [Send to Slack](presserclips://clip?v=KMJDJm7rfPo&t=8&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "Nothing's been decided in terms of what his long-range plan is over the course of the season." — Long-term development plans for Nate and potential G League assignment** [00:50](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=50s)
 
@@ -22,7 +22,7 @@ Taylor Jenkins: "Nothing's been decided in terms of what his long-range plan is 
 
 [https://www.youtube.com/watch?v=KMJDJm7rfPo&t=50s](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=50s)
 
-<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=50&q=2) · [Send to Slack](presserclips://clip?v=KMJDJm7rfPo&t=50&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "We're always trying to install our base foundation, defensively, offensively, and then once we start really diving." — Approach to game planning and scouting for the Washington Wizards** [01:56](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=116s)
 
@@ -30,7 +30,7 @@ Taylor Jenkins: "We're always trying to install our base foundation, defensively
 
 [https://www.youtube.com/watch?v=KMJDJm7rfPo&t=116s](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=116s)
 
-<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=116&q=3)</small>
+<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=116&q=3) · [Send to Slack](presserclips://clip?v=KMJDJm7rfPo&t=116&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "There's an experience level that factors into my decisions. I think he's been doing some really good things." — Evaluating player roles and rotation decisions for the upcoming season** [03:26](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=206s)
 
@@ -38,7 +38,7 @@ Taylor Jenkins: "There's an experience level that factors into my decisions. I t
 
 [https://www.youtube.com/watch?v=KMJDJm7rfPo&t=206s](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=206s)
 
-<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=206&q=4)</small>
+<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=206&q=4) · [Send to Slack](presserclips://clip?v=KMJDJm7rfPo&t=206&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "The decision with Pete is extremely difficult. He's meant so much to this organization." — Reflecting on the difficult decision to part ways with Pete** [04:48](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=288s)
 
@@ -46,7 +46,7 @@ Taylor Jenkins: "The decision with **Pete** is extremely difficult. He's meant s
 
 [https://www.youtube.com/watch?v=KMJDJm7rfPo&t=288s](https://www.youtube.com/watch?v=KMJDJm7rfPo&t=288s)
 
-<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=288&q=5)</small>
+<small>[Clip it](presserclips://clip?v=KMJDJm7rfPo&t=288&q=5) · [Send to Slack](presserclips://clip?v=KMJDJm7rfPo&t=288&q=5&slack=1)</small>
 
 ---
 

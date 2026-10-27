@@ -10,7 +10,7 @@ Zion Williamson: "Overall thoughts on the game is we gave ourselves a chance to 
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=8s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=8s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=8&q=1) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=8&q=1&slack=1)</small>
 
 **2. Zion Williamson — "those guys even Coach Mo, they trust me. We've been putting in a lot of work" — Zion Williamson on the team's trust in his shooting ability** [00:56](https://www.youtube.com/watch?v=flfWRwyXlB8&t=56s)
 
@@ -18,7 +18,7 @@ Zion Williamson: "It was a good feeling though. Like I spoke on **Sham** and **R
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=56s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=56s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=56&q=2) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=56&q=2&slack=1)</small>
 
 **3. Zion Williamson — "it's hard to win in this league, so if we want to win, that's a hurdle we just got to get over" — Zion Williamson on overcoming the hurdle of winning in the NBA** [01:36](https://www.youtube.com/watch?v=flfWRwyXlB8&t=96s)
 
@@ -26,7 +26,7 @@ Zion Williamson: "I feel like we are right there, like we're going to make that 
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=96s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=96s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=96&q=3) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=96&q=3&slack=1)</small>
 
 **4. Zion Williamson — "he's a competitor who just wants to win, so I'm glad he's with us" — Zion Williamson on Jeremiah Robinson-Earl's competitive spirit** [02:18](https://www.youtube.com/watch?v=flfWRwyXlB8&t=138s)
 
@@ -34,7 +34,7 @@ Zion Williamson: "He's going to stand his ground and I told him, I said as long 
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=138s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=138s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=138&q=4)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=138&q=4) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=138&q=4&slack=1)</small>
 
 **5. Zion Williamson — "if we want to start seeing numbers in the win column, we got to close games" — Zion Williamson on the need to close games to see results** [03:03](https://www.youtube.com/watch?v=flfWRwyXlB8&t=183s)
 
@@ -42,7 +42,7 @@ Zion Williamson: "We've adapted to it, I would say fairly quick. But the reality
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=183s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=183s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=183&q=5)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=183&q=5) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=183&q=5&slack=1)</small>
 
 **6. Zion Williamson — "the mindset we have is more of you know kind of who's night is it" — Zion Williamson on the team's flexible 'who's night is it' mindset** [04:00](https://www.youtube.com/watch?v=flfWRwyXlB8&t=240s)
 
@@ -50,7 +50,7 @@ Zion Williamson: "Based off the conversations we've had as a team, I think it's 
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=240s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=240s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=240&q=6)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=240&q=6) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=240&q=6&slack=1)</small>
 
 **7. Zion Williamson — "he's a dog, like he's not going to back down from nobody, he's going to bring the smoke" — Zion Williamson on Yves Missi's development and physicality** [04:32](https://www.youtube.com/watch?v=flfWRwyXlB8&t=272s)
 
@@ -58,7 +58,7 @@ Zion Williamson: "**Yves Missi** has played hard his whole career. He's in the g
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=272s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=272s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=272&q=7)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=272&q=7) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=272&q=7&slack=1)</small>
 
 **8. Zion Williamson — "when there's something to cheer about, you going to feel the crowd" — Zion Williamson on the New Orleans crowd's energy** [05:12](https://www.youtube.com/watch?v=flfWRwyXlB8&t=312s)
 
@@ -66,7 +66,7 @@ Zion Williamson: "The crowd's always there. Even if it was half that crowd, when
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=312s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=312s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=312&q=8)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=312&q=8) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=312&q=8&slack=1)</small>
 
 **9. Zion Williamson — "now it's just the maturity of time and place, knowing when to do it and when not to" — Zion Williamson on the maturity required for physical play** [05:47](https://www.youtube.com/watch?v=flfWRwyXlB8&t=347s)
 
@@ -74,7 +74,7 @@ Zion Williamson: "I like the physicality we brought. I think now it's just the m
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=347s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=347s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=347&q=9)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=347&q=9) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=347&q=9&slack=1)</small>
 
 **10. Zion Williamson — "I know it's not a walk in the park, so you know for him I'm glad he was able to recover" — Zion Williamson on Tyrese Haliburton's recovery from injury** [06:17](https://www.youtube.com/watch?v=flfWRwyXlB8&t=377s)
 
@@ -82,7 +82,7 @@ Zion Williamson: "You know that was a tough injury he experienced and I kind of 
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=377s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=377s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=377&q=10)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=377&q=10) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=377&q=10&slack=1)</small>
 
 **11. Zion Williamson — "great player, great player for us on this team" — Zion Williamson on Siddiq Bey's impact off the bench** [06:35](https://www.youtube.com/watch?v=flfWRwyXlB8&t=395s)
 
@@ -90,4 +90,4 @@ Zion Williamson: "Great player, great player for us on this team. You know whate
 
 [https://www.youtube.com/watch?v=flfWRwyXlB8&t=395s](https://www.youtube.com/watch?v=flfWRwyXlB8&t=395s)
 
-<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=395&q=11)</small>
+<small>[Clip it](presserclips://clip?v=flfWRwyXlB8&t=395&q=11) · [Send to Slack](presserclips://clip?v=flfWRwyXlB8&t=395&q=11&slack=1)</small>

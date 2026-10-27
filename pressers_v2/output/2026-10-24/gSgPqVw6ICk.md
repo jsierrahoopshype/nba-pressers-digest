@@ -10,7 +10,7 @@ Trae Young: "**DeAndre** is a great screener. He's been a great screener his who
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=48s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=48s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=48&q=1)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=48&q=1) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=48&q=1&slack=1)</small>
 
 **2. Trae Young — "It's a long game. We can learn from the first quarter to the second and continue." — Trae Young on the team's need to maintain intensity** [01:42](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=102s)
 
@@ -18,7 +18,7 @@ Trae Young: "It's a long game. Just reminding these guys that it's a long game, 
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=102s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=102s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=102&q=2)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=102&q=2) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=102&q=2&slack=1)</small>
 
 **3. Trae Young — "It's two games, bro. Don't sweat it. He's going to have his games where he has really good nights." — Trae Young on Alex Sarr's slow offensive start** [02:19](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=139s)
 
@@ -26,7 +26,7 @@ Trae Young: "It's two games, bro. Don't sweat it. He's going to have his games w
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=139s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=139s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=139&q=3)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=139&q=3) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=139&q=3&slack=1)</small>
 
 **4. Trae Young — "This is a very physical team. We can learn from this. We can learn from just being stronger." — Trae Young on learning from physical defensive teams** [02:56](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=176s)
 
@@ -34,7 +34,7 @@ Trae Young: "This is a very physical team. We can learn from this. We can learn 
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=176s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=176s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=176&q=4)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=176&q=4) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=176&q=4&slack=1)</small>
 
 **5. Trae Young — "This team we played tonight was in the playoffs last year and then they had Kawhi Leonard." — Trae Young on the team's growth and chemistry** [03:40](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=220s)
 
@@ -42,7 +42,7 @@ Trae Young: "For sure. I think obviously even the teams we played were a lot dif
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=220s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=220s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=220&q=5)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=220&q=5) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=220&q=5&slack=1)</small>
 
 **6. Trae Young — "Chemistry is like trust. It's built over time." — Trae Young on building team chemistry over time** [05:13](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=313s)
 
@@ -50,7 +50,7 @@ Trae Young: "Chemistry is like trust. It's built over time. We've had a great su
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=313s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=313s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=313&q=6)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=313&q=6) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=313&q=6&slack=1)</small>
 
 **7. Justin Champagnie — "Trae has been in a lot of those games before so he knows how to carry himself." — Justin Champagnie on Trae Young's leadership** [05:54](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=354s)
 
@@ -58,7 +58,7 @@ Justin Champagnie: "**Trae** has been in a lot of those games before so he knows
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=354s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=354s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=354&q=7)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=354&q=7) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=354&q=7&slack=1)</small>
 
 **8. Justin Champagnie — "I just like to stay in my role, stick to my role, do my job, shoot open threes." — Justin Champagnie on his role and energy** [06:37](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=397s)
 
@@ -66,7 +66,7 @@ Justin Champagnie: "I just like to stay in my role, stick to my role, do my job,
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=397s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=397s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=397&q=8)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=397&q=8) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=397&q=8&slack=1)</small>
 
 **9. Justin Champagnie — "We should have came into the game a little bit more physical, kind of match that energy." — Justin Champagnie on the need for early physicality** [07:05](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=425s)
 
@@ -74,7 +74,7 @@ Justin Champagnie: "I think the physicality. I think we should have came into th
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=425s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=425s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=425&q=9)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=425&q=9) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=425&q=9&slack=1)</small>
 
 **10. Justin Champagnie — "The biggest thing that they do that we can pick off of is just be physical." — Justin Champagnie on learning from the opponent's physicality** [07:54](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=474s)
 
@@ -82,7 +82,7 @@ Justin Champagnie: "I think though the biggest the biggest thing that they do th
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=474s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=474s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=474&q=10)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=474&q=10) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=474&q=10&slack=1)</small>
 
 **11. Justin Champagnie — "A glue guy. Somebody that can come in and play with any lineup and then just make something happen." — Justin Champagnie defining his role as a glue guy** [08:21](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=501s)
 
@@ -90,7 +90,7 @@ Justin Champagnie: "A glue guy. Somebody that can come in and play with any line
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=501s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=501s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=501&q=11)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=501&q=11) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=501&q=11&slack=1)</small>
 
 **12. Brian Keefe — "Loved our competitive response. We probably didn't love the start that we, you know, we had." — Brian Keefe on the team's competitive response** [09:30](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=570s)
 
@@ -98,7 +98,7 @@ Brian Keefe: "Loved our competitive response. We probably didn't love the start 
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=570s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=570s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=570&q=12)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=570&q=12) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=570&q=12&slack=1)</small>
 
 **13. Brian Keefe — "Us getting into our actions quicker, our spacing and then just delivering the ball and being decisive." — Brian Keefe on improving spacing and decisiveness** [10:26](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=626s)
 
@@ -106,7 +106,7 @@ Brian Keefe: "Us getting into our actions quicker, our spacing and then just del
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=626s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=626s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=626&q=13)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=626&q=13) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=626&q=13&slack=1)</small>
 
 **14. Brian Keefe — "We're playing in crowds a little bit too much. You know, this is kind of what they do." — Brian Keefe on Kyshawn George's turnovers and growth** [11:04](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=664s)
 
@@ -114,7 +114,7 @@ Brian Keefe: "The same things as some of the others, just you know, we're playin
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=664s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=664s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=664&q=14)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=664&q=14) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=664&q=14&slack=1)</small>
 
 **15. Brian Keefe — "You're not always going to shoot the ball well, but we were able to keep ourselves in the game." — Brian Keefe on team shooting and defensive resilience** [11:26](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=686s)
 
@@ -122,7 +122,7 @@ Brian Keefe: "That's the thing that I think was really good is that you're not a
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=686s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=686s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=686&q=15)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=686&q=15) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=686&q=15&slack=1)</small>
 
 **16. Brian Keefe — "We can establish ourselves at the free throw line. I think that's a huge positive." — Brian Keefe on the importance of free throws** [12:01](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=721s)
 
@@ -130,7 +130,7 @@ Brian Keefe: "We can establish ourselves at the free throw line. I think that's 
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=721s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=721s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=721&q=16)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=721&q=16) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=721&q=16&slack=1)</small>
 
 **17. Brian Keefe — "When they got us into offense quickly, we made good decisions. It was really good." — Brian Keefe on Kyshawn George and Bilal Coulibaly's chemistry** [12:30](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=750s)
 
@@ -138,7 +138,7 @@ Brian Keefe: "When they got us into offense quickly, we made good decisions. It 
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=750s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=750s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=750&q=17)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=750&q=17) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=750&q=17&slack=1)</small>
 
 **18. Brian Keefe — "They were crashing. They're one of these teams who crashes, this is something we emphasized." — Brian Keefe on second-half rebounding struggles** [12:46](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=766s)
 
@@ -146,7 +146,7 @@ Brian Keefe: "They were crashing. They're one of these teams who crashes, this i
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=766s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=766s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=766&q=18)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=766&q=18) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=766&q=18&slack=1)</small>
 
 **19. Brian Keefe — "He's been terrific. He's always ready to compete, ready to play, brings energy every day." — Brian Keefe on Bub Carrington's energy and impact** [13:15](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=795s)
 
@@ -154,7 +154,7 @@ Brian Keefe: "He's been terrific. He's always ready to compete, ready to play, b
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=795s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=795s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=795&q=19)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=795&q=19) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=795&q=19&slack=1)</small>
 
 **20. Brian Keefe — "I thought Alex did a good job of, you know, you can see what Alex does on the defensive." — Brian Keefe on Alex Sarr's defensive contributions** [13:41](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=821s)
 
@@ -162,4 +162,4 @@ Brian Keefe: "I thought Alex did a good job of, you know, you can see what Alex 
 
 [https://www.youtube.com/watch?v=gSgPqVw6ICk&t=821s](https://www.youtube.com/watch?v=gSgPqVw6ICk&t=821s)
 
-<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=821&q=20)</small>
+<small>[Clip it](presserclips://clip?v=gSgPqVw6ICk&t=821&q=20) · [Send to Slack](presserclips://clip?v=gSgPqVw6ICk&t=821&q=20&slack=1)</small>

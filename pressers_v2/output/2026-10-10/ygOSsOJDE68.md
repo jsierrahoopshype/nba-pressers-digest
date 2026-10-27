@@ -10,7 +10,7 @@ Mario Hezonja: "Maybe just the length of the guys because I'm obviously, last ga
 
 [https://www.youtube.com/watch?v=ygOSsOJDE68&t=8s](https://www.youtube.com/watch?v=ygOSsOJDE68&t=8s)
 
-<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=8&q=1) · [Send to Slack](presserclips://clip?v=ygOSsOJDE68&t=8&q=1&slack=1)</small>
 
 **2. Mario Hezonja — "I might be the probably the most experienced one because of the different style of basketball." — Mario Hezonja on his role as an experienced veteran leader** [00:51](https://www.youtube.com/watch?v=ygOSsOJDE68&t=51s)
 
@@ -18,7 +18,7 @@ Mario Hezonja: "I might be the probably the most experienced one because of the 
 
 [https://www.youtube.com/watch?v=ygOSsOJDE68&t=51s](https://www.youtube.com/watch?v=ygOSsOJDE68&t=51s)
 
-<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=51&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=51&q=2) · [Send to Slack](presserclips://clip?v=ygOSsOJDE68&t=51&q=2&slack=1)</small>
 
 **3. Mario Hezonja — "James Harden by far. Incredible intelligence on the court that comes from his experience." — Mario Hezonja on James Harden's mentorship and basketball intelligence** [02:13](https://www.youtube.com/watch?v=ygOSsOJDE68&t=133s)
 
@@ -26,7 +26,7 @@ Mario Hezonja: "**James Harden** by far. Incredible intelligence on the court th
 
 [https://www.youtube.com/watch?v=ygOSsOJDE68&t=133s](https://www.youtube.com/watch?v=ygOSsOJDE68&t=133s)
 
-<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=133&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=133&q=3) · [Send to Slack](presserclips://clip?v=ygOSsOJDE68&t=133&q=3&slack=1)</small>
 
 **4. Mario Hezonja — "I remember him as a 60 point triple double type of player right now." — Mario Hezonja on James Harden's evolution and desire to win** [03:30](https://www.youtube.com/watch?v=ygOSsOJDE68&t=210s)
 
@@ -34,4 +34,4 @@ Mario Hezonja: "Back in the day I was at the twos and he was the two shooting gu
 
 [https://www.youtube.com/watch?v=ygOSsOJDE68&t=210s](https://www.youtube.com/watch?v=ygOSsOJDE68&t=210s)
 
-<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=210&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ygOSsOJDE68&t=210&q=4) · [Send to Slack](presserclips://clip?v=ygOSsOJDE68&t=210&q=4&slack=1)</small>

@@ -10,7 +10,7 @@ Rick Carlisle: "It's important to mention that our two centers off the bench, al
 
 [https://www.youtube.com/watch?v=eqGp4eVcQH4&t=125s](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=125s)
 
-<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=125&q=1)</small>
+<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=125&q=1) · [Send to Slack](presserclips://clip?v=eqGp4eVcQH4&t=125&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "that's the first off two feet dunk I think I've seen him have in the NBA." — Rick Carlisle on Jay Huff's impressive dunk and return to form** [03:16](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=196s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "I had forgotten about that. Thanks for reminding me. It was awes
 
 [https://www.youtube.com/watch?v=eqGp4eVcQH4&t=196s](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=196s)
 
-<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=196&q=2)</small>
+<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=196&q=2) · [Send to Slack](presserclips://clip?v=eqGp4eVcQH4&t=196&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "X-rays were negative for a fracture. He's got some swelling. Pretty unlikely he'll play tomorrow night." — Rick Carlisle provides update on Z's ankle injury status** [04:26](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=266s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "X-rays were negative for a fracture. He's got some swelling. Pre
 
 [https://www.youtube.com/watch?v=eqGp4eVcQH4&t=266s](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=266s)
 
-<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=266&q=3)</small>
+<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=266&q=3) · [Send to Slack](presserclips://clip?v=eqGp4eVcQH4&t=266&q=3&slack=1)</small>
 
 **4. Jay Huff — "it takes some time to figure out teammates that you haven't played with before." — Jay Huff on building chemistry with Tyrese Haliburton** [06:22](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=382s)
 
@@ -34,7 +34,7 @@ Jay Huff: "It takes some time to figure out teammates that you haven't played wi
 
 [https://www.youtube.com/watch?v=eqGp4eVcQH4&t=382s](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=382s)
 
-<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=382&q=4)</small>
+<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=382&q=4) · [Send to Slack](presserclips://clip?v=eqGp4eVcQH4&t=382&q=4&slack=1)</small>
 
 **5. Tyrese Haliburton — "I think injury gives you more perspective. I think trauma gives you more perspective on life." — Tyrese Haliburton on how injuries provide perspective on playing the game** [09:02](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=542s)
 
@@ -42,7 +42,7 @@ Tyrese Haliburton: "I think injury gives you more perspective. I think trauma gi
 
 [https://www.youtube.com/watch?v=eqGp4eVcQH4&t=542s](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=542s)
 
-<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=542&q=5)</small>
+<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=542&q=5) · [Send to Slack](presserclips://clip?v=eqGp4eVcQH4&t=542&q=5&slack=1)</small>
 
 **6. Tyrese Haliburton — "I feel it in my legs. I think that's the biggest thing." — Tyrese Haliburton on managing physical fatigue during the season** [10:31](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=631s)
 
@@ -50,4 +50,4 @@ Tyrese Haliburton: "I feel it in my legs. I think that's the biggest thing. I sp
 
 [https://www.youtube.com/watch?v=eqGp4eVcQH4&t=631s](https://www.youtube.com/watch?v=eqGp4eVcQH4&t=631s)
 
-<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=631&q=6)</small>
+<small>[Clip it](presserclips://clip?v=eqGp4eVcQH4&t=631&q=6) · [Send to Slack](presserclips://clip?v=eqGp4eVcQH4&t=631&q=6&slack=1)</small>

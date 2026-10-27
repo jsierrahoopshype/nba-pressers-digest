@@ -10,7 +10,7 @@ Myles Turner: "It is definitely a work in progress. I think the biggest thing th
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=24s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=24s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=24&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=24&q=1) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=24&q=1&slack=1)</small>
 
 **2. Myles Turner — "That is one thing that I think is, you know, great is depth." — Myles Turner on team depth and building chemistry** [00:55](https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s)
 
@@ -18,7 +18,7 @@ Myles Turner: "We each all have our unique things about us that make us special.
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=55&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=55&q=2) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=55&q=2&slack=1)</small>
 
 **3. Myles Turner — "I have got the most years on the team, you know, just using my voice." — Myles Turner on his leadership role with the Bucks** [01:56](https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s)
 
@@ -26,7 +26,7 @@ Myles Turner: "I think since I have been in the league, I have been considered, 
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=116&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=116&q=3) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=116&q=3&slack=1)</small>
 
 **4. Myles Turner — "I am being asked to crash the glass more than I have been in the past." — Myles Turner on his evolving role in the offense** [02:33](https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s)
 
@@ -34,7 +34,7 @@ Myles Turner: "I stretch the floor, you know, quite a bit, and I am being asked 
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=153&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=153&q=4) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=153&q=4&slack=1)</small>
 
 **5. Myles Turner — "I love Taylor's intensity. I love the way his his approach, you know, to the game." — Myles Turner on Coach Taylor's intensity and culture** [03:25](https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s)
 
@@ -42,7 +42,7 @@ Myles Turner: "I love **Taylor**'s intensity. I love the way his his approach, y
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=205&q=5)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=205&q=5) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=205&q=5&slack=1)</small>
 
 **6. Myles Turner — "We are trying to, you know, establish who we are, establish our identity." — Myles Turner on the team's culture and future identity** [04:12](https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s)
 
@@ -50,7 +50,7 @@ Myles Turner: "Yeah, I think the mindset, you know, can be similar, but I I can'
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=252&q=6)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=252&q=6) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=252&q=6&slack=1)</small>
 
 **7. Myles Turner — "I am in a very blessed position, bro." — Myles Turner on his perspective as a veteran leader** [05:22](https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s)
 
@@ -58,4 +58,4 @@ Myles Turner: "I was actually just having this conversation, you know, with my m
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=322&q=7)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=322&q=7) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=322&q=7&slack=1)</small>

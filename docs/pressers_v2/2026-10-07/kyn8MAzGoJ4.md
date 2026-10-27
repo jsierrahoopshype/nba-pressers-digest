@@ -10,7 +10,7 @@ J.B. Bickerstaff: "When you're scrimmaging or playing against each other, it's a
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=7s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=7s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=7&q=1) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=7&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "we're introducing some new things and new concepts, and it's always expected to be that way" — J.B. Bickerstaff on implementing new concepts during training camp** [00:42](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=42s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "We're introducing some new things and new concepts, and it's 
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=42s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=42s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=42&q=2) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=42&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "he's done a really good job of making small improvements all around" — J.B. Bickerstaff on Jaden Ivey's offseason development** [01:13](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=73s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "He's done a really good job of making small improvements all 
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=73s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=73s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=73&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=73&q=3) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=73&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "the plan is definitely for him to play in the preseason" — J.B. Bickerstaff confirms Jaden Ivey will play in preseason** [01:45](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=105s)
 
@@ -34,7 +34,7 @@ J.B. Bickerstaff: "The plan is definitely for him to play in the preseason. It's
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=105s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=105s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=105&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=105&q=4) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=105&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "the foundation is the foundation and that always stays the same" — J.B. Bickerstaff on maintaining defensive foundation with roster continuity** [02:21](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=141s)
 
@@ -42,4 +42,4 @@ J.B. Bickerstaff: "The foundation is the foundation and that always stays the sa
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=141s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=141s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=141&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=141&q=5) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=141&q=5&slack=1)</small>

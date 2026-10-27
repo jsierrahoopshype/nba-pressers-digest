@@ -10,7 +10,7 @@ Rick Carlisle: "We are going to have to do better with turnovers, we are going t
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=13s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=13s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=13&q=1) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=13&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "Larry Nance Jr. is a knowledgeable veteran player with feel who knows how to play the game." — Rick Carlisle praises Larry Nance Jr.'s veteran presence** [01:33](https://www.youtube.com/watch?v=C3eRB2rh13I&t=93s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "**Larry Nance Jr.** is a knowledgeable veteran player with feel 
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=93s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=93s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=93&q=2)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=93&q=2) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=93&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "Our center position, we have got some options there with James Wiseman, Obi Toppin, Jalen Smith and Larry Nance Jr." — Rick Carlisle discusses depth and flexibility at center position** [02:35](https://www.youtube.com/watch?v=C3eRB2rh13I&t=155s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "Our center position, we have got some options there with **James
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=155s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=155s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=155&q=3)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=155&q=3) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=155&q=3&slack=1)</small>
 
 **4. Rick Carlisle — "It takes a while to get in this kind of condition to play fast at the level we play at." — Rick Carlisle on the adjustment period for new players** [03:09](https://www.youtube.com/watch?v=C3eRB2rh13I&t=189s)
 
@@ -34,7 +34,7 @@ Rick Carlisle: "It is going to be a continuous adjustment for the guys that are 
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=189s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=189s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=189&q=4)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=189&q=4) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=189&q=4&slack=1)</small>
 
 **5. Pascal Siakam — "I was telling him in the game, look at my side a little bit more, do some two-man game." — Pascal Siakam on building chemistry and two-man game** [05:22](https://www.youtube.com/watch?v=C3eRB2rh13I&t=322s)
 
@@ -42,7 +42,7 @@ Pascal Siakam: "I was telling him in the game, look at my side a little bit more
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=322s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=322s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=322&q=5)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=322&q=5) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=322&q=5&slack=1)</small>
 
 **6. Pascal Siakam — "The only way you are going to get minutes is the same thing, by playing defense." — Pascal Siakam emphasizes defense as the key to playing time** [07:30](https://www.youtube.com/watch?v=C3eRB2rh13I&t=450s)
 
@@ -50,7 +50,7 @@ Pascal Siakam: "The only way you are going to get minutes is the same thing, by 
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=450s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=450s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=450&q=6)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=450&q=6) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=450&q=6&slack=1)</small>
 
 **7. Pascal Siakam — "He is a wing defender, can knock down the three, I think he has good energy about him." — Pascal Siakam evaluates the fit of new teammate** [08:38](https://www.youtube.com/watch?v=C3eRB2rh13I&t=518s)
 
@@ -58,7 +58,7 @@ Pascal Siakam: "He is a wing defender, can knock down the three, I think he has 
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=518s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=518s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=518&q=7)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=518&q=7) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=518&q=7&slack=1)</small>
 
 **8. Braden Smith — "They are just telling me to be super aggressive all the time offensively, look for my shot." — Braden Smith on feedback from teammates regarding his play** [09:54](https://www.youtube.com/watch?v=C3eRB2rh13I&t=594s)
 
@@ -66,7 +66,7 @@ Braden Smith: "They are just telling me to be super aggressive all the time offe
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=594s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=594s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=594&q=8)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=594&q=8) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=594&q=8&slack=1)</small>
 
 **9. Braden Smith — "For me it is just doesn't matter if it is playmaking, ball handling, whatever it is." — Braden Smith on learning from veteran teammates** [10:30](https://www.youtube.com/watch?v=C3eRB2rh13I&t=630s)
 
@@ -74,7 +74,7 @@ Braden Smith: "For me it is just doesn't matter if it is playmaking, ball handli
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=630s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=630s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=630&q=9)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=630&q=9) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=630&q=9&slack=1)</small>
 
 **10. Braden Smith — "I honestly think I should have shot the mid-range going baseline, it is the shot I've made a living on." — Braden Smith reflects on missed final shot** [11:06](https://www.youtube.com/watch?v=C3eRB2rh13I&t=666s)
 
@@ -82,4 +82,4 @@ Braden Smith: "I honestly think I should have shot the mid-range going baseline,
 
 [https://www.youtube.com/watch?v=C3eRB2rh13I&t=666s](https://www.youtube.com/watch?v=C3eRB2rh13I&t=666s)
 
-<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=666&q=10)</small>
+<small>[Clip it](presserclips://clip?v=C3eRB2rh13I&t=666&q=10) · [Send to Slack](presserclips://clip?v=C3eRB2rh13I&t=666&q=10&slack=1)</small>

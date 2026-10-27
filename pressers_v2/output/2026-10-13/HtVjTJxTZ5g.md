@@ -10,7 +10,7 @@ Collin Gillespie: "I think it's just his personality, the way he carries himself
 
 [https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=9s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=9s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=9&q=1) · [Send to Slack](presserclips://clip?v=HtVjTJxTZ5g&t=9&q=1&slack=1)</small>
 
 **2. Collin Gillespie — "It is really just reading what the defense gives us. If they are in a drop coverage." — Collin Gillespie on his approach to shooting and reading defenses** [02:03](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=123s)
 
@@ -18,7 +18,7 @@ Collin Gillespie: "It is really just reading what the defense gives us. If they 
 
 [https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=123s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=123s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=123&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=123&q=2) · [Send to Slack](presserclips://clip?v=HtVjTJxTZ5g&t=123&q=2&slack=1)</small>
 
 **3. Collin Gillespie — "I just told him, I was like, shoot first and ask questions later." — Collin Gillespie on Kevin Durant's shooting efficiency and mindset** [05:09](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=309s)
 
@@ -26,7 +26,7 @@ Collin Gillespie: "I just told him, I was like, shoot first and ask questions la
 
 [https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=309s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=309s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=309&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=309&q=3) · [Send to Slack](presserclips://clip?v=HtVjTJxTZ5g&t=309&q=3&slack=1)</small>
 
 **4. Collin Gillespie — "Michael Porter Jr. might be the best tough shot maker and workout shooter I have ever seen." — Collin Gillespie on Michael Porter Jr.'s shot-making ability** [07:16](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=436s)
 
@@ -34,7 +34,7 @@ Collin Gillespie: "**Michael Porter Jr.** might be the best tough shot maker and
 
 [https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=436s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=436s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=436&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=436&q=4) · [Send to Slack](presserclips://clip?v=HtVjTJxTZ5g&t=436&q=4&slack=1)</small>
 
 **5. Collin Gillespie — "I have just been able to find ways to play off the ball, catching and shooting." — Collin Gillespie on finding his role and playing off the ball** [07:40](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=460s)
 
@@ -42,4 +42,4 @@ Collin Gillespie: "I have just been able to find ways to play off the ball, catc
 
 [https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=460s](https://www.youtube.com/watch?v=HtVjTJxTZ5g&t=460s)
 
-<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=460&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HtVjTJxTZ5g&t=460&q=5) · [Send to Slack](presserclips://clip?v=HtVjTJxTZ5g&t=460&q=5&slack=1)</small>

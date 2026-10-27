@@ -10,7 +10,7 @@ Rasheer Fleming: "I think I've been doing really well figuring out what to do wh
 
 [https://www.youtube.com/watch?v=rml3bEa3p-c&t=54s](https://www.youtube.com/watch?v=rml3bEa3p-c&t=54s)
 
-<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=54&q=1)</small>
+<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=54&q=1) · [Send to Slack](presserclips://clip?v=rml3bEa3p-c&t=54&q=1&slack=1)</small>
 
 **2. Rasheer Fleming — "he's so young, but he's a very vocal player" — Rasheer Fleming on the development of teammate Koa Peat** [02:19](https://www.youtube.com/watch?v=rml3bEa3p-c&t=139s)
 
@@ -18,7 +18,7 @@ Rasheer Fleming: "He's such a young player, but he's a very vocal player. So tha
 
 [https://www.youtube.com/watch?v=rml3bEa3p-c&t=139s](https://www.youtube.com/watch?v=rml3bEa3p-c&t=139s)
 
-<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=139&q=2)</small>
+<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=139&q=2) · [Send to Slack](presserclips://clip?v=rml3bEa3p-c&t=139&q=2&slack=1)</small>
 
 **3. Rasheer Fleming — "we both been in his position, so for him to be the only rookie here" — Rasheer Fleming on mentoring rookie teammate Koa Peat** [02:36](https://www.youtube.com/watch?v=rml3bEa3p-c&t=156s)
 
@@ -26,7 +26,7 @@ Rasheer Fleming: "We both been in his position, so for him to be the only rookie
 
 [https://www.youtube.com/watch?v=rml3bEa3p-c&t=156s](https://www.youtube.com/watch?v=rml3bEa3p-c&t=156s)
 
-<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=156&q=3)</small>
+<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=156&q=3) · [Send to Slack](presserclips://clip?v=rml3bEa3p-c&t=156&q=3&slack=1)</small>
 
 **4. Rasheer Fleming — "being like another defensive anchor alongside Kaman" — Rasheer Fleming on his defensive growth and communication** [04:44](https://www.youtube.com/watch?v=rml3bEa3p-c&t=284s)
 
@@ -34,4 +34,4 @@ Rasheer Fleming: "The main thing that I've been seeing as making a real big diff
 
 [https://www.youtube.com/watch?v=rml3bEa3p-c&t=284s](https://www.youtube.com/watch?v=rml3bEa3p-c&t=284s)
 
-<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=284&q=4)</small>
+<small>[Clip it](presserclips://clip?v=rml3bEa3p-c&t=284&q=4) · [Send to Slack](presserclips://clip?v=rml3bEa3p-c&t=284&q=4&slack=1)</small>

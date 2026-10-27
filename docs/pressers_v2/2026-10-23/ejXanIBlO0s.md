@@ -10,7 +10,7 @@ Jalen Williams: "I thought we were good all night, even the beginning of the gam
 
 [https://www.youtube.com/watch?v=ejXanIBlO0s&t=15s](https://www.youtube.com/watch?v=ejXanIBlO0s&t=15s)
 
-<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=15&q=1) · [Send to Slack](presserclips://clip?v=ejXanIBlO0s&t=15&q=1&slack=1)</small>
 
 **2. Jalen Williams — "it's a beautiful thing to have him, a die in there, heart, J-Will, those guys that make plays" — Jalen Williams on the chemistry with Chet Holmgren and Jalen Williams** [00:52](https://www.youtube.com/watch?v=ejXanIBlO0s&t=52s)
 
@@ -18,7 +18,7 @@ Jalen Williams: "It starts with Chet. I feel like it was a broken play or someth
 
 [https://www.youtube.com/watch?v=ejXanIBlO0s&t=52s](https://www.youtube.com/watch?v=ejXanIBlO0s&t=52s)
 
-<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=52&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=52&q=2) · [Send to Slack](presserclips://clip?v=ejXanIBlO0s&t=52&q=2&slack=1)</small>
 
 **3. Jalen Williams — "he's a smart man. The last minute of the game, it's probably only bad stuff can happen." — Jalen Williams on Shai Gilgeous-Alexander's decision-making** [01:26](https://www.youtube.com/watch?v=ejXanIBlO0s&t=86s)
 
@@ -26,7 +26,7 @@ Jalen Williams: "He's a smart man. The last minute of the game, it's probably on
 
 [https://www.youtube.com/watch?v=ejXanIBlO0s&t=86s](https://www.youtube.com/watch?v=ejXanIBlO0s&t=86s)
 
-<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=86&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=86&q=3) · [Send to Slack](presserclips://clip?v=ejXanIBlO0s&t=86&q=3&slack=1)</small>
 
 **4. Jalen Williams — "it's extremely difficult, that's why there's only one person that's done it." — Jalen Williams on the difficulty of maintaining high-level scoring consistency** [02:00](https://www.youtube.com/watch?v=ejXanIBlO0s&t=120s)
 
@@ -34,7 +34,7 @@ Jalen Williams: "It's extremely difficult, that's why there's only one person th
 
 [https://www.youtube.com/watch?v=ejXanIBlO0s&t=120s](https://www.youtube.com/watch?v=ejXanIBlO0s&t=120s)
 
-<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=120&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=120&q=4) · [Send to Slack](presserclips://clip?v=ejXanIBlO0s&t=120&q=4&slack=1)</small>
 
 **5. Jalen Williams — "my role doesn't really change, I kind of do a little bit of everything." — Jalen Williams on his role and playing off Shai Gilgeous-Alexander** [02:51](https://www.youtube.com/watch?v=ejXanIBlO0s&t=171s)
 
@@ -42,4 +42,4 @@ Jalen Williams: "For me it's not really an adjustment. I grew up playing the one
 
 [https://www.youtube.com/watch?v=ejXanIBlO0s&t=171s](https://www.youtube.com/watch?v=ejXanIBlO0s&t=171s)
 
-<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=171&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ejXanIBlO0s&t=171&q=5) · [Send to Slack](presserclips://clip?v=ejXanIBlO0s&t=171&q=5&slack=1)</small>

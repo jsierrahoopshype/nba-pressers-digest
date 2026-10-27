@@ -10,7 +10,7 @@ Jalen Brunson: "Obviously, **Mitch** was near and dear to all our hearts. I thin
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=43s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=43s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=43&q=1)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=43&q=1) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=43&q=1&slack=1)</small>
 
 **2. Jalen Brunson — "I didn't do my normal summer stuff and so it wasn't just my normal summer." — Jalen Brunson on his physical condition and summer routine** [01:18](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=78s)
 
@@ -18,7 +18,7 @@ Jalen Brunson: "I didn't do my normal summer stuff and so it wasn't just my norm
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=78s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=78s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=78&q=2)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=78&q=2) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=78&q=2&slack=1)</small>
 
 **3. Jalen Brunson — "I feel like we can do a lot more, do a lot different things." — Jalen Brunson on the team's offensive potential this season** [03:19](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=199s)
 
@@ -26,7 +26,7 @@ Jalen Brunson: "I feel like we can do a lot more, do a lot different things. I t
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=199s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=199s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=199&q=3)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=199&q=3) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=199&q=3&slack=1)</small>
 
 **4. Jalen Brunson — "it exceeded expectations, honestly. I've always been someone who prepared for the worst and played for the best." — Jalen Brunson on his expectations for the season** [04:03](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=243s)
 
@@ -34,7 +34,7 @@ Jalen Brunson: "It exceeded expectations, honestly. I've always been someone who
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=243s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=243s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=243&q=4)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=243&q=4) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=243&q=4&slack=1)</small>
 
 **5. Coach Brown — "his feet are quicker than what you could imagine. He's really light on his feet." — Coach Brown on Andre's physical attributes and veteran presence** [07:12](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=432s)
 
@@ -42,7 +42,7 @@ Coach Brown: "He's a veteran, he's been there, done that with a few different te
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=432s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=432s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=432&q=5)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=432&q=5) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=432&q=5&slack=1)</small>
 
 **6. Coach Brown — "the 82-game season is about trying to find your way." — Coach Brown on the team's approach to the regular season** [09:02](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=542s)
 
@@ -50,7 +50,7 @@ Coach Brown: "We're not playing at that level for 82 games. We played at a prett
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=542s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=542s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=542&q=6)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=542&q=6) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=542&q=6&slack=1)</small>
 
 **7. Coach Brown — "I didn't know if OG could be as effective as he was in the pick-and-roll game." — Coach Brown on integrating players and team versatility** [10:27](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=627s)
 
@@ -58,7 +58,7 @@ Coach Brown: "Obviously, playing with **Cat** a little bit more than we did. Bei
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=627s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=627s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=627&q=7)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=627&q=7) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=627&q=7&slack=1)</small>
 
 **8. Coach Brown — "I didn't put a ton of pressure on them to get back in the gym in August." — Coach Brown on conditioning and team expectations** [12:53](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=773s)
 
@@ -66,7 +66,7 @@ Coach Brown: "I didn't put a ton of pressure on them to get back in the gym in A
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=773s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=773s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=773&q=8)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=773&q=8) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=773&q=8&slack=1)</small>
 
 **9. Coach Brown — "he's a fantastic human being, fantastic young man." — Coach Brown on his relationship with James Wiseman** [14:05](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=845s)
 
@@ -74,7 +74,7 @@ Coach Brown: "We didn't stay in touch where we call each other or anything like 
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=845s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=845s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=845&q=9)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=845&q=9) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=845&q=9&slack=1)</small>
 
 **10. Coach Brown — "we won in 22, nobody did anything extra special. We had a young player and Jordan Poole step up." — Coach Brown on the team's resilience and player development** [16:15](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=975s)
 
@@ -82,4 +82,4 @@ Coach Brown: "I experienced it when I was in Golden State. We won in 17 and 18. 
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=975s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=975s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=975&q=10)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=975&q=10) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=975&q=10&slack=1)</small>

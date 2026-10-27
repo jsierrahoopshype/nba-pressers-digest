@@ -10,7 +10,7 @@ Kenny Atkinson: "concerning for us was the eight turnovers. I think eight turnov
 
 [https://www.youtube.com/watch?v=jZKTmkBM5sY&t=14s](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=14s)
 
-<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=14&q=1) · [Send to Slack](presserclips://clip?v=jZKTmkBM5sY&t=14&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "we're not in elite condition right now, which is kind of normal." — Kenny Atkinson on the Cavaliers' current conditioning level** [00:35](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=35s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "I think part of this too is we're not in elite condition right 
 
 [https://www.youtube.com/watch?v=jZKTmkBM5sY&t=35s](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=35s)
 
-<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=35&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=35&q=2) · [Send to Slack](presserclips://clip?v=jZKTmkBM5sY&t=35&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "I'm just going to keep preaching to the guys move it to the next open man." — Kenny Atkinson on the impact of defensive pressure on the team** [01:09](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=69s)
 
@@ -28,7 +28,7 @@ Kenny Atkinson: "I think part of this too is we're not in elite condition right 
 
 [https://www.youtube.com/watch?v=jZKTmkBM5sY&t=69s](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=69s)
 
-<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=69&q=3)</small>
+<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=69&q=3) · [Send to Slack](presserclips://clip?v=jZKTmkBM5sY&t=69&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "these are the best teaching moments and execution to close out games, situational basketball, all that." — Kenny Atkinson on using losses as teaching moments for the team** [02:00](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=120s)
 
@@ -36,7 +36,7 @@ Kenny Atkinson: "These are the best teaching moments and execution to close out 
 
 [https://www.youtube.com/watch?v=jZKTmkBM5sY&t=120s](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=120s)
 
-<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=120&q=4)</small>
+<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=120&q=4) · [Send to Slack](presserclips://clip?v=jZKTmkBM5sY&t=120&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "I don't know how many plays he made at the rim tonight, saved us." — Kenny Atkinson on Jarrett Allen's impact and rim protection** [04:04](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=244s)
 
@@ -44,7 +44,7 @@ Kenny Atkinson: "Especially tonight where they were blitzing, so we had to get h
 
 [https://www.youtube.com/watch?v=jZKTmkBM5sY&t=244s](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=244s)
 
-<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=244&q=5)</small>
+<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=244&q=5) · [Send to Slack](presserclips://clip?v=jZKTmkBM5sY&t=244&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "I didn't feel like we were aggressive enough on our switches." — Kenny Atkinson on defensive switch aggression against great shooters** [04:47](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=287s)
 
@@ -52,7 +52,7 @@ Kenny Atkinson: "I didn't feel like we were aggressive enough on our switches. *
 
 [https://www.youtube.com/watch?v=jZKTmkBM5sY&t=287s](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=287s)
 
-<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=287&q=6)</small>
+<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=287&q=6) · [Send to Slack](presserclips://clip?v=jZKTmkBM5sY&t=287&q=6&slack=1)</small>
 
 **7. Kenny Atkinson — "we hunt the mismatch a lot, every team does that in the NBA, but sometimes we can get overzealous." — Kenny Atkinson on avoiding over-dribbling while hunting for mismatches** [05:30](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=330s)
 
@@ -60,4 +60,4 @@ Kenny Atkinson: "We hunt the mismatch a lot, every team does that in the NBA, bu
 
 [https://www.youtube.com/watch?v=jZKTmkBM5sY&t=330s](https://www.youtube.com/watch?v=jZKTmkBM5sY&t=330s)
 
-<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=330&q=7)</small>
+<small>[Clip it](presserclips://clip?v=jZKTmkBM5sY&t=330&q=7) · [Send to Slack](presserclips://clip?v=jZKTmkBM5sY&t=330&q=7&slack=1)</small>

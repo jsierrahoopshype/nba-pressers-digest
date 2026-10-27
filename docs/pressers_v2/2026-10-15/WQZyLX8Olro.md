@@ -10,7 +10,7 @@ Cade Cunningham: "I thought it was amazing. Get to see him back out there having
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=8s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=8s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=8&q=1) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=8&q=1&slack=1)</small>
 
 **2. Cade Cunningham — "Having guys that you can throw it anywhere around the rim and they'll go figure it out." — Cade Cunningham on the benefits of having versatile teammates** [00:30](https://www.youtube.com/watch?v=WQZyLX8Olro&t=30s)
 
@@ -18,7 +18,7 @@ Cade Cunningham: "It makes my job a lot easier. It's fun for me, having guys tha
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=30s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=30s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=30&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=30&q=2) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=30&q=2&slack=1)</small>
 
 **3. Cade Cunningham — "There's a good cohesiveness about the group. We got to play together more." — Cade Cunningham on team cohesion and building chemistry** [00:57](https://www.youtube.com/watch?v=WQZyLX8Olro&t=57s)
 
@@ -26,7 +26,7 @@ Cade Cunningham: "I felt that way coming in. I think there's a good cohesiveness
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=57s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=57s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=57&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=57&q=3) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=57&q=3&slack=1)</small>
 
 **4. Cade Cunningham — "It just keeps us on edge. You can never get too comfortable." — Cade Cunningham on maintaining a competitive edge** [01:23](https://www.youtube.com/watch?v=WQZyLX8Olro&t=83s)
 
@@ -34,7 +34,7 @@ Cade Cunningham: "I think it just keeps us on edge. You can never get too comfor
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=83s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=83s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=83&q=4)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=83&q=4) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=83&q=4&slack=1)</small>
 
 **5. Cade Cunningham — "I love the competition. I know we all love the competition. That's what we grew up loving." — Cade Cunningham on the excitement of early season competition** [01:45](https://www.youtube.com/watch?v=WQZyLX8Olro&t=105s)
 
@@ -42,7 +42,7 @@ Cade Cunningham: "It's a blessing, man. It's a blessing. I love the competition.
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=105s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=105s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=105&q=5)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=105&q=5) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=105&q=5&slack=1)</small>
 
 **6. Cade Cunningham — "It makes us be able to play a better tempo and get us easier shots." — Cade Cunningham on the team's offensive philosophy** [02:14](https://www.youtube.com/watch?v=WQZyLX8Olro&t=134s)
 
@@ -50,7 +50,7 @@ Cade Cunningham: "I think it's good. I feel good about it. I think it makes us b
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=134s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=134s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=134&q=6)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=134&q=6) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=134&q=6&slack=1)</small>
 
 **7. Cade Cunningham — "I still feel like we're a little slept on, man. I still feel like people don't really give us." — Cade Cunningham on the team being overlooked** [02:46](https://www.youtube.com/watch?v=WQZyLX8Olro&t=166s)
 
@@ -58,7 +58,7 @@ Cade Cunningham: "I still feel like we're a little slept on, man. I still feel l
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=166s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=166s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=166&q=7)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=166&q=7) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=166&q=7&slack=1)</small>
 
 **8. Cade Cunningham — "More space allows you to go one-on-one, a lot easier, not as much help." — Cade Cunningham on the impact of floor spacing** [03:23](https://www.youtube.com/watch?v=WQZyLX8Olro&t=203s)
 
@@ -66,7 +66,7 @@ Cade Cunningham: "More space allows you to go one-on-one, a lot easier, not as m
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=203s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=203s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=203&q=8)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=203&q=8) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=203&q=8&slack=1)</small>
 
 **9. Cade Cunningham — "AT is somebody that passes the ball at a super high level, can handle the ball." — Cade Cunningham on the playmaking of his teammates** [04:02](https://www.youtube.com/watch?v=WQZyLX8Olro&t=242s)
 
@@ -74,4 +74,4 @@ Cade Cunningham: "Easier shots, you'll be more efficient that way. AT is somebod
 
 [https://www.youtube.com/watch?v=WQZyLX8Olro&t=242s](https://www.youtube.com/watch?v=WQZyLX8Olro&t=242s)
 
-<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=242&q=9)</small>
+<small>[Clip it](presserclips://clip?v=WQZyLX8Olro&t=242&q=9) · [Send to Slack](presserclips://clip?v=WQZyLX8Olro&t=242&q=9&slack=1)</small>

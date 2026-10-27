@@ -10,7 +10,7 @@ Sam Merrill: "The scrimmage was really cool. 10,000 people there, a bunch of kid
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=18s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=18s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=18&q=1) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=18&q=1&slack=1)</small>
 
 **2. Sam Merrill — "Donovan was a little under the weather and he very could have easily just not played" — Sam Merrill on Donovan Mitchell playing through illness** [00:50](https://www.youtube.com/watch?v=iX3nh5O50U8&t=50s)
 
@@ -18,7 +18,7 @@ Sam Merrill: "They were screaming the whole game for him. Anytime Donovan specif
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=50s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=50s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=50&q=2) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=50&q=2&slack=1)</small>
 
 **3. Sam Merrill — "when you have Donovan is one of the guys that can settle it down a little bit" — Sam Merrill on the value of veteran presence in training camp** [01:21](https://www.youtube.com/watch?v=iX3nh5O50U8&t=81s)
 
@@ -26,7 +26,7 @@ Sam Merrill: "Always having guys that have more experience, have been through a 
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=81s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=81s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=81&q=3) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=81&q=3&slack=1)</small>
 
 **4. Sam Merrill — "Tyrese had a really good week last week. Malik as a rookie had a couple really good days" — Sam Merrill evaluates young players' performance in training camp** [02:01](https://www.youtube.com/watch?v=iX3nh5O50U8&t=121s)
 
@@ -34,7 +34,7 @@ Sam Merrill: "I think we had a lot of guys that played well. I think Tyrese had 
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=121s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=121s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=121&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=121&q=4) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=121&q=4&slack=1)</small>
 
 **5. Sam Merrill — "we definitely want to get back to, you know, being a top five defense" — Sam Merrill on the Cavaliers' defensive identity** [03:17](https://www.youtube.com/watch?v=iX3nh5O50U8&t=197s)
 
@@ -42,7 +42,7 @@ Sam Merrill: "I think we definitely want to get back to, you know, being a top f
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=197s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=197s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=197&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=197&q=5) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=197&q=5&slack=1)</small>
 
 **6. Sam Merrill — "understanding the strengths that we have with Evan and JA, but not putting too much on their plate" — Sam Merrill on utilizing Evan Mobley and Jarrett Allen** [04:08](https://www.youtube.com/watch?v=iX3nh5O50U8&t=248s)
 
@@ -50,7 +50,7 @@ Sam Merrill: "I think it's understanding the strengths that we have with Evan an
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=248s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=248s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=248&q=6)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=248&q=6) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=248&q=6&slack=1)</small>
 
 **7. Sam Merrill — "the guys just love basketball. He was here all preseason playing" — Sam Merrill on Donovan Mitchell's dedication to basketball** [05:04](https://www.youtube.com/watch?v=iX3nh5O50U8&t=304s)
 
@@ -58,7 +58,7 @@ Sam Merrill: "The guys just love basketball. He was here all preseason playing. 
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=304s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=304s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=304&q=7)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=304&q=7) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=304&q=7&slack=1)</small>
 
 **8. Sam Merrill — "bringing some more length and athleticism. He's similar size as him, a little longer, a little more athletic" — Sam Merrill on Payton Pritchard's role in the defense** [06:06](https://www.youtube.com/watch?v=iX3nh5O50U8&t=366s)
 
@@ -66,7 +66,7 @@ Sam Merrill: "I think he could hopefully really help, similar, bringing some mor
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=366s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=366s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=366&q=8)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=366&q=8) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=366&q=8&slack=1)</small>
 
 **9. Sam Merrill — "he's super aggressive. Tries to put a lot of pressure on the rim" — Sam Merrill on Mario Hezonja's aggressive playstyle** [06:40](https://www.youtube.com/watch?v=iX3nh5O50U8&t=400s)
 
@@ -74,4 +74,4 @@ Sam Merrill: "He's super aggressive. Tries to put a lot of pressure on the rim a
 
 [https://www.youtube.com/watch?v=iX3nh5O50U8&t=400s](https://www.youtube.com/watch?v=iX3nh5O50U8&t=400s)
 
-<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=400&q=9)</small>
+<small>[Clip it](presserclips://clip?v=iX3nh5O50U8&t=400&q=9) · [Send to Slack](presserclips://clip?v=iX3nh5O50U8&t=400&q=9&slack=1)</small>

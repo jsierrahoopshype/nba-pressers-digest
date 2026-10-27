@@ -12,7 +12,7 @@ _Speakers identified: Jeremiah Johnson, Tyrese Haliburton_
 
 [https://www.youtube.com/watch?v=DAk-Tt5a0KM&t=0s](https://www.youtube.com/watch?v=DAk-Tt5a0KM&t=0s)
 
-<small>[Clip it](presserclips://clip?v=DAk-Tt5a0KM&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DAk-Tt5a0KM&t=0&q=1) · [Send to Slack](presserclips://clip?v=DAk-Tt5a0KM&t=0&q=1&slack=1)</small>
 
 **2. Tyrese Haliburton — "We're battle tested so we finished this game the right way. Really proud of this group." — Tyrese Haliburton on the Pacers' team chemistry and development** [00:33](https://www.youtube.com/watch?v=DAk-Tt5a0KM&t=33s)
 
@@ -22,4 +22,4 @@ _Speakers identified: Jeremiah Johnson, Tyrese Haliburton_
 
 [https://www.youtube.com/watch?v=DAk-Tt5a0KM&t=33s](https://www.youtube.com/watch?v=DAk-Tt5a0KM&t=33s)
 
-<small>[Clip it](presserclips://clip?v=DAk-Tt5a0KM&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DAk-Tt5a0KM&t=33&q=2) · [Send to Slack](presserclips://clip?v=DAk-Tt5a0KM&t=33&q=2&slack=1)</small>

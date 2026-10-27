@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Devin Booker, Cameron Johnson_
 
 [https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=18s](https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=18s)
 
-<small>[Clip it](presserclips://clip?v=e_W9Z8WgWUI&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=e_W9Z8WgWUI&t=18&q=1) · [Send to Slack](presserclips://clip?v=e_W9Z8WgWUI&t=18&q=1&slack=1)</small>
 
 **2. Devin Booker — "That's 15, that's our leader. Get him up!" — Devin Booker and Cameron Johnson on team offensive chemistry** [00:43](https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=43s)
 
@@ -24,7 +24,7 @@ _Speakers identified: Unidentified speaker, Devin Booker, Cameron Johnson_
 
 [https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=43s](https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=43s)
 
-<small>[Clip it](presserclips://clip?v=e_W9Z8WgWUI&t=43&q=2)</small>
+<small>[Clip it](presserclips://clip?v=e_W9Z8WgWUI&t=43&q=2) · [Send to Slack](presserclips://clip?v=e_W9Z8WgWUI&t=43&q=2&slack=1)</small>
 
 **3. Devin Booker — "The first game of the season was embarrassing for us, and we wore that." — Devin Booker on building team identity and overcoming early season struggles** [00:54](https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=54s)
 
@@ -34,4 +34,4 @@ _Speakers identified: Unidentified speaker, Devin Booker, Cameron Johnson_
 
 [https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=54s](https://www.youtube.com/watch?v=e_W9Z8WgWUI&t=54s)
 
-<small>[Clip it](presserclips://clip?v=e_W9Z8WgWUI&t=54&q=3)</small>
+<small>[Clip it](presserclips://clip?v=e_W9Z8WgWUI&t=54&q=3) · [Send to Slack](presserclips://clip?v=e_W9Z8WgWUI&t=54&q=3&slack=1)</small>

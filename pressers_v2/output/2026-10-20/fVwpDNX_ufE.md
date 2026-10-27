@@ -10,7 +10,7 @@ Scottie Barnes: "I think we are pretty excited as a team. We are ready to get th
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=16s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=16s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=16&q=1) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=16&q=1&slack=1)</small>
 
 **2. Scottie Barnes — "we have the highest level of expectation and we want to win a championship here." — Scottie Barnes on championship expectations and building consistency** [01:49](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=109s)
 
@@ -18,7 +18,7 @@ Scottie Barnes: "I think we have the highest level of expectation and we want to
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=109s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=109s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=109&q=2)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=109&q=2) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=109&q=2&slack=1)</small>
 
 **3. Scottie Barnes — "that was our main identity and we was trying to focus on how can we be aggressive." — Scottie Barnes on team identity and aggressive playstyle** [02:34](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=154s)
 
@@ -26,7 +26,7 @@ Scottie Barnes: "That was our main identity and we was trying to focus on how ca
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=154s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=154s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=154&q=3)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=154&q=3) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=154&q=3&slack=1)</small>
 
 **4. Scottie Barnes — "we are going to continue to pressure, but I think we are going to be smart with it." — Scottie Barnes on balancing pressure and smart play** [04:47](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=287s)
 
@@ -34,7 +34,7 @@ Scottie Barnes: "I think that we are going to continue to pressure, but I think 
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=287s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=287s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=287&q=4)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=287&q=4) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=287&q=4&slack=1)</small>
 
 **5. Scottie Barnes — "I think he is being more confident in attacking downhill and being ready to shoot the shot." — Scottie Barnes on confidence and development of teammates** [07:56](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=476s)
 
@@ -42,7 +42,7 @@ Scottie Barnes: "I think he is being more confident in attacking downhill and be
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=476s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=476s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=476&q=5)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=476&q=5) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=476&q=5&slack=1)</small>
 
 **6. Scottie Barnes — "just staying as mentally locked in as possible because it is a long season." — Scottie Barnes on mental preparation for the season** [08:52](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=532s)
 
@@ -50,7 +50,7 @@ Scottie Barnes: "It is a lot more serious, a lot more focused. Obviously want to
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=532s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=532s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=532&q=6)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=532&q=6) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=532&q=6&slack=1)</small>
 
 **7. Scottie Barnes — "obviously I have been improving this summer, you know, this is a lot of work put into." — Scottie Barnes on embracing increased responsibility** [09:21](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=561s)
 
@@ -58,7 +58,7 @@ Scottie Barnes: "Obviously I have been improving this summer, you know, this is 
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=561s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=561s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=561&q=7)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=561&q=7) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=561&q=7&slack=1)</small>
 
 **8. Scottie Barnes — "I feel like when I pressure the ball, that is my best defense." — Scottie Barnes on defensive philosophy and ball pressure** [12:00](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=720s)
 
@@ -66,7 +66,7 @@ Scottie Barnes: "I feel like when I pressure the ball, that is my best defense. 
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=720s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=720s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=720&q=8)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=720&q=8) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=720&q=8&slack=1)</small>
 
 **9. Scottie Barnes — "he is just a really, he is a really good player. Obviously his game is not like flashy." — Scottie Barnes on playing with new teammates** [13:40](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=820s)
 
@@ -74,7 +74,7 @@ Scottie Barnes: "He is just a really, he is a really good player. Obviously his 
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=820s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=820s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=820&q=9)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=820&q=9) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=820&q=9&slack=1)</small>
 
 **10. Darko Rajakovic — "opening night is end of training camp. Obviously we are really excited to finally start playing." — Darko Rajakovic on team excitement for the season opener** [18:41](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1121s)
 
@@ -82,7 +82,7 @@ Darko Rajakovic: "Opening night is end of training camp. Obviously we are really
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1121s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1121s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1121&q=10)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1121&q=10) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=1121&q=10&slack=1)</small>
 
 **11. Darko Rajakovic — "because I know what kind of character he is and I see him every day." — Darko Rajakovic on player development and expectations** [19:18](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1158s)
 
@@ -90,7 +90,7 @@ Darko Rajakovic: "Because I know what kind of character he is and I see him ever
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1158s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1158s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1158&q=11)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1158&q=11) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=1158&q=11&slack=1)</small>
 
 **12. Darko Rajakovic — "our approach inside the team is is not really changing. We got to focus on" — Darko Rajakovic on team approach and staying present** [20:52](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1252s)
 
@@ -98,7 +98,7 @@ Darko Rajakovic: "Our approach inside the team is is not really changing. We got
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1252s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1252s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1252&q=12)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1252&q=12) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=1252&q=12&slack=1)</small>
 
 **13. Darko Rajakovic — "there is much more full court pressure, there is much more on ball aggressiveness." — Darko Rajakovic on defensive intensity and league trends** [24:40](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1480s)
 
@@ -106,7 +106,7 @@ Darko Rajakovic: "We got to do it more. There is no way back. I think the whole 
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1480s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1480s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1480&q=13)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1480&q=13) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=1480&q=13&slack=1)</small>
 
 **14. Darko Rajakovic — "everything that we do on a coaching part is trying to develop those segments of the game." — Darko Rajakovic on coaching philosophy and player development** [25:40](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1540s)
 
@@ -114,7 +114,7 @@ Darko Rajakovic: "Everything that we do on a coaching part is trying to develop 
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1540s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1540s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1540&q=14)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1540&q=14) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=1540&q=14&slack=1)</small>
 
 **15. Darko Rajakovic — "when you have the right person, when you have the right personality, you know, I think he" — Darko Rajakovic on player impact and team chemistry** [27:53](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1673s)
 
@@ -122,7 +122,7 @@ Darko Rajakovic: "When you have the right person, when you have the right person
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1673s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1673s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1673&q=15)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1673&q=15) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=1673&q=15&slack=1)</small>
 
 **16. Darko Rajakovic — "with the same work that we put in in our defense, being very intentional how we want" — Darko Rajakovic on offensive improvement and team growth** [28:31](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1711s)
 
@@ -130,4 +130,4 @@ Darko Rajakovic: "With the same work that we put in in our defense, being very i
 
 [https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1711s](https://www.youtube.com/watch?v=fVwpDNX_ufE&t=1711s)
 
-<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1711&q=16)</small>
+<small>[Clip it](presserclips://clip?v=fVwpDNX_ufE&t=1711&q=16) · [Send to Slack](presserclips://clip?v=fVwpDNX_ufE&t=1711&q=16&slack=1)</small>

@@ -10,7 +10,7 @@ Craig Porter Jr.: "I want to set the tone and let everybody know I can be the le
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=35s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=35s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=35&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=35&q=1) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=35&q=1&slack=1)</small>
 
 **2. Craig Porter Jr. — "he made his presence felt defensively like he's picking guys up, he's holding guys accountable" — Craig Porter Jr. on learning defensive accountability from Dennis Schroder** [01:05](https://www.youtube.com/watch?v=VE1omWTMOdw&t=65s)
 
@@ -18,7 +18,7 @@ Craig Porter Jr.: "I learned from **Dennis Schroder** last year. He was more of 
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=65s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=65s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=65&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=65&q=2) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=65&q=2&slack=1)</small>
 
 **3. Craig Porter Jr. — "something has to happen for somebody else to get an opportunity" — Craig Porter Jr. on the opportunity following roster changes** [02:18](https://www.youtube.com/watch?v=VE1omWTMOdw&t=138s)
 
@@ -26,7 +26,7 @@ Craig Porter Jr.: "In this job you hate to see guys go, but it's kind of how it 
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=138s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=138s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=138&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=138&q=3) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=138&q=3&slack=1)</small>
 
 **4. Craig Porter Jr. — "what are you going to do when you're put in a position to lead or be that head guy" — Craig Porter Jr. on developing as a vocal leader** [03:00](https://www.youtube.com/watch?v=VE1omWTMOdw&t=180s)
 
@@ -34,7 +34,7 @@ Craig Porter Jr.: "Everybody realizes you can do all the other little things and
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=180s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=180s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=180&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=180&q=4) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=180&q=4&slack=1)</small>
 
 **5. Craig Porter Jr. — "they just making everything that we do intentional" — Craig Porter Jr. on the coaching staff's focus on intentionality** [04:26](https://www.youtube.com/watch?v=VE1omWTMOdw&t=266s)
 
@@ -42,7 +42,7 @@ Craig Porter Jr.: "They just making everything that we do intentional. So if we'
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=266s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=266s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=266&q=5)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=266&q=5) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=266&q=5&slack=1)</small>
 
 **6. Craig Porter Jr. — "it'll give them the same type of understanding of how the NBA is played" — Craig Porter Jr. on the potential benefits of NBA Europe** [05:21](https://www.youtube.com/watch?v=VE1omWTMOdw&t=321s)
 
@@ -50,7 +50,7 @@ Craig Porter Jr.: "I feel like it'll be beneficial for guys. It'll give them the
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=321s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=321s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=321&q=6)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=321&q=6) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=321&q=6&slack=1)</small>
 
 **7. Craig Porter Jr. — "the only way you're going to get on the court is defense" — Craig Porter Jr. on finding his path through defensive effort** [07:17](https://www.youtube.com/watch?v=VE1omWTMOdw&t=437s)
 
@@ -58,7 +58,7 @@ Craig Porter Jr.: "When I came out of college and I was doing a lot of my pre-dr
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=437s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=437s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=437&q=7)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=437&q=7) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=437&q=7&slack=1)</small>
 
 **8. Craig Porter Jr. — "it gives those guys a lot of pressure relief" — Craig Porter Jr. on the importance of backup point guard depth** [08:21](https://www.youtube.com/watch?v=VE1omWTMOdw&t=501s)
 
@@ -66,4 +66,4 @@ Craig Porter Jr.: "I feel like being that backup ball-handler and backup point g
 
 [https://www.youtube.com/watch?v=VE1omWTMOdw&t=501s](https://www.youtube.com/watch?v=VE1omWTMOdw&t=501s)
 
-<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=501&q=8)</small>
+<small>[Clip it](presserclips://clip?v=VE1omWTMOdw&t=501&q=8) · [Send to Slack](presserclips://clip?v=VE1omWTMOdw&t=501&q=8&slack=1)</small>

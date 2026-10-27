@@ -10,7 +10,7 @@ Nick Nurse: "I think it's some good, some bad. I think good to get them out ther
 
 [https://www.youtube.com/watch?v=P-E7-UocupE&t=6s](https://www.youtube.com/watch?v=P-E7-UocupE&t=6s)
 
-<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=6&q=1) · [Send to Slack](presserclips://clip?v=P-E7-UocupE&t=6&q=1&slack=1)</small>
 
 **2. Nick Nurse — "I thought he ran the floor pretty well. He just needs to get some rust off." — Nick Nurse on Joel Embiid's performance and conditioning** [01:01](https://www.youtube.com/watch?v=P-E7-UocupE&t=61s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "I thought he was very good. Joel got like 23, 22, 23 minutes there,
 
 [https://www.youtube.com/watch?v=P-E7-UocupE&t=61s](https://www.youtube.com/watch?v=P-E7-UocupE&t=61s)
 
-<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=61&q=2)</small>
+<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=61&q=2) · [Send to Slack](presserclips://clip?v=P-E7-UocupE&t=61&q=2&slack=1)</small>
 
 **3. Nick Nurse — "They're going to come at you a lot deep, a lot of guys really flying around." — Nick Nurse on the team's defensive intensity and physicality** [01:41](https://www.youtube.com/watch?v=P-E7-UocupE&t=101s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "It is good. I kind of mentioned it in pregame, they're going to com
 
 [https://www.youtube.com/watch?v=P-E7-UocupE&t=101s](https://www.youtube.com/watch?v=P-E7-UocupE&t=101s)
 
-<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=101&q=3)</small>
+<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=101&q=3) · [Send to Slack](presserclips://clip?v=P-E7-UocupE&t=101&q=3&slack=1)</small>
 
 **4. Nick Nurse — "He's a great, great passer and I was certainly on display tonight." — Nick Nurse on LeBron James' role as an offensive creator** [02:19](https://www.youtube.com/watch?v=P-E7-UocupE&t=139s)
 
@@ -34,7 +34,7 @@ Nick Nurse: "He's a great, great passer and I was certainly on display tonight. 
 
 [https://www.youtube.com/watch?v=P-E7-UocupE&t=139s](https://www.youtube.com/watch?v=P-E7-UocupE&t=139s)
 
-<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=139&q=4)</small>
+<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=139&q=4) · [Send to Slack](presserclips://clip?v=P-E7-UocupE&t=139&q=4&slack=1)</small>
 
 **5. Nick Nurse — "In these situations, you just don't go quite as long as normal quite yet." — Nick Nurse on managing player minutes during the preseason** [03:02](https://www.youtube.com/watch?v=P-E7-UocupE&t=182s)
 
@@ -42,7 +42,7 @@ Nick Nurse: "I think that certainly discuss it, and it was going to be first hal
 
 [https://www.youtube.com/watch?v=P-E7-UocupE&t=182s](https://www.youtube.com/watch?v=P-E7-UocupE&t=182s)
 
-<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=182&q=5)</small>
+<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=182&q=5) · [Send to Slack](presserclips://clip?v=P-E7-UocupE&t=182&q=5&slack=1)</small>
 
 **6. Nick Nurse — "That's just a little bit of a connectivity time issue." — Nick Nurse on addressing turnovers and team connectivity** [03:55](https://www.youtube.com/watch?v=P-E7-UocupE&t=235s)
 
@@ -50,7 +50,7 @@ Nick Nurse: "They did a good job of turning us over. I think that's part of what
 
 [https://www.youtube.com/watch?v=P-E7-UocupE&t=235s](https://www.youtube.com/watch?v=P-E7-UocupE&t=235s)
 
-<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=235&q=6)</small>
+<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=235&q=6) · [Send to Slack](presserclips://clip?v=P-E7-UocupE&t=235&q=6&slack=1)</small>
 
 **7. Nick Nurse — "There's a couple things schematically we were doing that probably wouldn't do." — Nick Nurse on defensive performance and schematic experimentation** [04:30](https://www.youtube.com/watch?v=P-E7-UocupE&t=270s)
 
@@ -58,4 +58,4 @@ Nick Nurse: "I felt pretty good early on. I know they scored a bunch right out o
 
 [https://www.youtube.com/watch?v=P-E7-UocupE&t=270s](https://www.youtube.com/watch?v=P-E7-UocupE&t=270s)
 
-<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=270&q=7)</small>
+<small>[Clip it](presserclips://clip?v=P-E7-UocupE&t=270&q=7) · [Send to Slack](presserclips://clip?v=P-E7-UocupE&t=270&q=7&slack=1)</small>

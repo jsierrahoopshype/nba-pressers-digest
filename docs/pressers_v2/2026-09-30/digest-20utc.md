@@ -12,7 +12,7 @@ Micah Nori: "You can do a lot of different things now. What I mean by that is yo
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=101s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=101s)
 
-<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=101&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=101&q=1) · [Send to Slack](presserclips://clip?v=bY-ObZ1oRbM&t=101&q=1&slack=1)</small>
 
 **2. Micah Nori (Portland Trail Blazers) — "getting Rob back was so important to us in my opinion" — Micah Nori emphasizes the importance of Robert Williams III returning to the team's defensive rotation.** [02:47](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s) (approx.)
 
@@ -20,7 +20,7 @@ Micah Nori: "Yeah, very much so. And I think that is why **Rob**, getting back *
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s)
 
-<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=167&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=167&q=2) · [Send to Slack](presserclips://clip?v=bY-ObZ1oRbM&t=167&q=2&slack=1)</small>
 
 **3. Micah Nori (Portland Trail Blazers) — "we can see those combinations" — Micah Nori explains the team's strategy of keeping key players together during training camp scrimmages.** [05:01](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s) (approx.)
 
@@ -28,7 +28,7 @@ Micah Nori: "We kind of tried to do is keep those eight nine guys on the same te
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s)
 
-<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=301&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=301&q=3) · [Send to Slack](presserclips://clip?v=bY-ObZ1oRbM&t=301&q=3&slack=1)</small>
 
 ---
 
@@ -44,7 +44,7 @@ Coach Adelman: "Marvin has special skills. I think for him, he hasn't played mea
 
 [https://www.youtube.com/watch?v=GiW_DtkHs9U&t=69s](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=69s)
 
-<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=69&q=1)</small>
+<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=69&q=1) · [Send to Slack](presserclips://clip?v=GiW_DtkHs9U&t=69&q=1&slack=1)</small>
 
 **2. Coach Adelman (Denver Nuggets) — "I want to keep him there and get him comfortable with that spot." — Coach Adelman clarifies his plan to keep Thomas Bryant at the five position.** [02:32](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=152s) (approx.)
 
@@ -52,7 +52,7 @@ Coach Adelman: "As a five right now. I was really impressed with Spencer as a fo
 
 [https://www.youtube.com/watch?v=GiW_DtkHs9U&t=152s](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=152s)
 
-<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=152&q=2)</small>
+<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=152&q=2) · [Send to Slack](presserclips://clip?v=GiW_DtkHs9U&t=152&q=2&slack=1)</small>
 
 **3. Coach Adelman (Denver Nuggets) — Coach Adelman highlights Alpha Diallo's defensive potential and basketball IQ.** [04:59](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=299s) (approx.)
 
@@ -60,7 +60,7 @@ Coach Adelman: "He can guard. He's got a special skill. He doesn't get screened.
 
 [https://www.youtube.com/watch?v=GiW_DtkHs9U&t=299s](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=299s)
 
-<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=299&q=3)</small>
+<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=299&q=3) · [Send to Slack](presserclips://clip?v=GiW_DtkHs9U&t=299&q=3&slack=1)</small>
 
 **4. Jamal Murray (Denver Nuggets) — "Me and Tyus have a better relationship than we did five summers ago" — Jamal Murray notes his improving chemistry with teammate Tyus Jones.** [08:45](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=525s) (approx.)
 
@@ -68,7 +68,7 @@ Jamal Murray: "Me and Tyus have a better relationship than we did five summers a
 
 [https://www.youtube.com/watch?v=GiW_DtkHs9U&t=525s](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=525s)
 
-<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=525&q=4)</small>
+<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=525&q=4) · [Send to Slack](presserclips://clip?v=GiW_DtkHs9U&t=525&q=4&slack=1)</small>
 
 **5. Marvin Bagley III (Denver Nuggets) — "I think today was better than yesterday overall, just as a team." — Marvin Bagley III sees improvement in the team's transition defense on day two of training camp.** [14:36](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=876s) (approx.)
 
@@ -76,7 +76,7 @@ Marvin Bagley III: "Transition defense, positioning ourselves on when the shots 
 
 [https://www.youtube.com/watch?v=GiW_DtkHs9U&t=876s](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=876s)
 
-<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=876&q=5)</small>
+<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=876&q=5) · [Send to Slack](presserclips://clip?v=GiW_DtkHs9U&t=876&q=5&slack=1)</small>
 
 **6. Marvin Bagley III (Denver Nuggets) — "I can play both. My game is I can shoot the three, make quick decisions in the pick and roll" — Marvin Bagley III expresses comfort playing both the four and five positions.** [16:16](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=976s) (approx.)
 
@@ -84,7 +84,7 @@ Marvin Bagley III: "I can play both. Obviously last few teams I've been on, I've
 
 [https://www.youtube.com/watch?v=GiW_DtkHs9U&t=976s](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=976s)
 
-<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=976&q=6)</small>
+<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=976&q=6) · [Send to Slack](presserclips://clip?v=GiW_DtkHs9U&t=976&q=6&slack=1)</small>
 
 **7. Marvin Bagley III (Denver Nuggets) — Marvin Bagley III arrived early in Denver to acclimate to the team's system.** [17:41](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=1061s) (approx.)
 
@@ -92,7 +92,7 @@ Marvin Bagley III: "I'm getting it, I'm picking it up. You know, that was part o
 
 [https://www.youtube.com/watch?v=GiW_DtkHs9U&t=1061s](https://www.youtube.com/watch?v=GiW_DtkHs9U&t=1061s)
 
-<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=1061&q=7)</small>
+<small>[Clip it](presserclips://clip?v=GiW_DtkHs9U&t=1061&q=7) · [Send to Slack](presserclips://clip?v=GiW_DtkHs9U&t=1061&q=7&slack=1)</small>
 
 ---
 
@@ -108,7 +108,7 @@ J.B. Bickerstaff: "It opens up so much for our guys' strengths. We don't want to
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=46&q=1) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=46&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff (Detroit Pistons) — "He's a well-rounded basketball player that I think has just settled into who he needs to be" — J.B. Bickerstaff praises Kevin Huerter's growth and versatility with the Detroit Pistons.** [01:33](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s) (approx.)
 
@@ -116,7 +116,7 @@ J.B. Bickerstaff: "I think he's comfortable. He understands who we are, his team
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=93&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=93&q=2) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=93&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff (Detroit Pistons) — "We're not asking guys to come in here and change who they are." — J.B. Bickerstaff emphasizes a culture of freedom and growth for all players in Detroit.** [02:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s) (approx.)
 
@@ -124,7 +124,7 @@ J.B. Bickerstaff: "It's the nature of what we do here in Detroit. Everybody come
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=167&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=167&q=3) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=167&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff (Detroit Pistons) — "I trust him wholeheartedly that he's going to make the right decision for the team." — J.B. Bickerstaff highlights his strong, trusting relationship with Trajan Langdon.** [03:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s) (approx.)
 
@@ -132,7 +132,7 @@ J.B. Bickerstaff: "It's great. And that's the thing with **Trajan** is he's open
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=227&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=227&q=4) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=227&q=4&slack=1)</small>
 
 ---
 
@@ -148,7 +148,7 @@ Donovan Clingan: "I love the challenge. More pressure on me at the rim to block 
 
 [https://www.youtube.com/watch?v=wgERaxfXfkM&t=99s](https://www.youtube.com/watch?v=wgERaxfXfkM&t=99s)
 
-<small>[Clip it](presserclips://clip?v=wgERaxfXfkM&t=99&q=1)</small>
+<small>[Clip it](presserclips://clip?v=wgERaxfXfkM&t=99&q=1) · [Send to Slack](presserclips://clip?v=wgERaxfXfkM&t=99&q=1&slack=1)</small>
 
 **2. Donovan Clingan (Portland Trail Blazers) — "I feel like I'm rarely asking for subs." — Donovan Clingan reports being in excellent physical condition ahead of the season** [02:07](https://www.youtube.com/watch?v=wgERaxfXfkM&t=127s) (approx.)
 
@@ -156,7 +156,7 @@ Donovan Clingan: "I feel great. My body, my conditioning, my wind. I mean I feel
 
 [https://www.youtube.com/watch?v=wgERaxfXfkM&t=127s](https://www.youtube.com/watch?v=wgERaxfXfkM&t=127s)
 
-<small>[Clip it](presserclips://clip?v=wgERaxfXfkM&t=127&q=2)</small>
+<small>[Clip it](presserclips://clip?v=wgERaxfXfkM&t=127&q=2) · [Send to Slack](presserclips://clip?v=wgERaxfXfkM&t=127&q=2&slack=1)</small>
 
 **3. Donovan Clingan (Portland Trail Blazers) — "I feel like we have a really good group and a lot of guys that really get along well together." — Donovan Clingan praises the chemistry among the Trail Blazers center rotation** [03:20](https://www.youtube.com/watch?v=wgERaxfXfkM&t=200s) (approx.)
 
@@ -164,7 +164,7 @@ Donovan Clingan: "I love them. I mean we have a great great group of centers. Be
 
 [https://www.youtube.com/watch?v=wgERaxfXfkM&t=200s](https://www.youtube.com/watch?v=wgERaxfXfkM&t=200s)
 
-<small>[Clip it](presserclips://clip?v=wgERaxfXfkM&t=200&q=3)</small>
+<small>[Clip it](presserclips://clip?v=wgERaxfXfkM&t=200&q=3) · [Send to Slack](presserclips://clip?v=wgERaxfXfkM&t=200&q=3&slack=1)</small>
 
 ---
 
@@ -180,7 +180,7 @@ Tolu Smith: "We switched it up a little bit so it is a nice thing. It has been w
 
 [https://www.youtube.com/watch?v=i3drrWmZ-dg&t=57s](https://www.youtube.com/watch?v=i3drrWmZ-dg&t=57s)
 
-<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=57&q=1)</small>
+<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=57&q=1) · [Send to Slack](presserclips://clip?v=i3drrWmZ-dg&t=57&q=1&slack=1)</small>
 
 **2. Tolu Smith (Detroit Pistons) — "Me and B-Ball we are always in the gym." — Tolu Smith credits Paul Reed for mentoring him during training camp.** [02:00](https://www.youtube.com/watch?v=i3drrWmZ-dg&t=120s) (approx.)
 
@@ -188,7 +188,7 @@ Tolu Smith: "Me and **B-Ball** we are always in the gym. He is always talking to
 
 [https://www.youtube.com/watch?v=i3drrWmZ-dg&t=120s](https://www.youtube.com/watch?v=i3drrWmZ-dg&t=120s)
 
-<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=120&q=2)</small>
+<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=120&q=2) · [Send to Slack](presserclips://clip?v=i3drrWmZ-dg&t=120&q=2&slack=1)</small>
 
 ---
 
@@ -204,7 +204,7 @@ Ja Morant: "I feel like we all are our own player. We all have strengths and tha
 
 [https://www.youtube.com/watch?v=H1Biu63PL3Q&t=96s](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=96s)
 
-<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=96&q=1)</small>
+<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=96&q=1) · [Send to Slack](presserclips://clip?v=H1Biu63PL3Q&t=96&q=1&slack=1)</small>
 
 **2. Ja Morant (Portland Trail Blazers) — "I was able to get a lot of catch and shoot threes today" — Ja Morant says he is incorporating more catch and shoot opportunities into his game.** [03:33](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=213s) (approx.)
 
@@ -212,7 +212,7 @@ Ja Morant: "I get catch and shoots. I was able to get a lot of catch and shoot t
 
 [https://www.youtube.com/watch?v=H1Biu63PL3Q&t=213s](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=213s)
 
-<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=213&q=2)</small>
+<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=213&q=2) · [Send to Slack](presserclips://clip?v=H1Biu63PL3Q&t=213&q=2&slack=1)</small>
 
 **3. Ja Morant (Portland Trail Blazers) — "I do not think they ever apply to me" — Ja Morant comments on his interpretation of new NBA officiating rules.** [04:04](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=244s) (approx.)
 
@@ -220,7 +220,7 @@ Ja Morant: "I have been this year for me, honestly no disrespect to them, I have
 
 [https://www.youtube.com/watch?v=H1Biu63PL3Q&t=244s](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=244s)
 
-<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=244&q=3)</small>
+<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=244&q=3) · [Send to Slack](presserclips://clip?v=H1Biu63PL3Q&t=244&q=3&slack=1)</small>
 
 ---
 
@@ -236,7 +236,7 @@ Yaxel Lendeborg: "I'm going to be the most entertaining playing guy on the floor
 
 [https://www.youtube.com/watch?v=-RVFB1Uu9QM&t=12s](https://www.youtube.com/watch?v=-RVFB1Uu9QM&t=12s)
 
-<small>[Clip it](presserclips://clip?v=-RVFB1Uu9QM&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-RVFB1Uu9QM&t=12&q=1) · [Send to Slack](presserclips://clip?v=-RVFB1Uu9QM&t=12&q=1&slack=1)</small>
 
 ---
 
@@ -252,7 +252,7 @@ Oso Ighodaro: "I feel like it is super important. I feel like a lot of people on
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=83s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=83s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=83&q=1)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=83&q=1) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=83&q=1&slack=1)</small>
 
 **2. Oso Ighodaro (Phoenix Suns) — "having more versatile players like that is always an advantage" — Oso Ighodaro praises the defensive versatility of his teammates Ryan, Josh Okogie, and Dillon.** [02:24](https://www.youtube.com/watch?v=IlnsxRILmyU&t=144s) (approx.)
 
@@ -260,7 +260,7 @@ Oso Ighodaro: "It gives me someone that I know I can switch with and we don't lo
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=144s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=144s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=144&q=2)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=144&q=2) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=144&q=2&slack=1)</small>
 
 **3. Oso Ighodaro (Phoenix Suns) — "He doesn't carry himself like a rookie" — Oso Ighodaro praises a rookie teammate for his confidence and defensive contributions.** [03:40](https://www.youtube.com/watch?v=IlnsxRILmyU&t=220s) (approx.)
 
@@ -268,7 +268,7 @@ Oso Ighodaro: "He has been great. He just has a high level of confidence about h
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=220s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=220s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=220&q=3)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=220&q=3) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=220&q=3&slack=1)</small>
 
 **4. Oso Ighodaro (Phoenix Suns) — "now we are just desperate to win" — Oso Ighodaro describes the increased competitiveness of Phoenix Suns training camp scrimmages.** [05:21](https://www.youtube.com/watch?v=IlnsxRILmyU&t=321s) (approx.)
 
@@ -276,7 +276,7 @@ Oso Ighodaro: "It is almost more competitive because we are not so focused on br
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=321s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=321s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=321&q=4)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=321&q=4) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=321&q=4&slack=1)</small>
 
 ---
 
@@ -292,7 +292,7 @@ Jordan Ott: "Shane last year just we got to get to translate, you know, it's 27t
 
 [https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=218s](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=218s)
 
-<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=218&q=1)</small>
+<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=218&q=1) · [Send to Slack](presserclips://clip?v=KB7Jy-QZ0Yc&t=218&q=1&slack=1)</small>
 
 **2. Jordan Ott (Phoenix Suns) — "He's going to continue to average over 25 points a game like he's done his whole life." — Jordan Ott expects his star player to continue averaging over 25 points per game.** [06:17](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s) (approx.)
 
@@ -300,7 +300,7 @@ Jordan Ott: "I'm not going to go down that path. The ball is going to be in his 
 
 [https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s)
 
-<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=377&q=2)</small>
+<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=377&q=2) · [Send to Slack](presserclips://clip?v=KB7Jy-QZ0Yc&t=377&q=2&slack=1)</small>
 
 ---
 
@@ -316,7 +316,7 @@ Luguentz Dort: "I don't think I've learned anything different. I feel like for y
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=66s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=66s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=66&q=1)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=66&q=1) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=66&q=1&slack=1)</small>
 
 **2. Mark Daigneault (Oklahoma City Thunder) — "he puts the horsepower of the work behind everything he does" — Mark Daigneault praises the work ethic of a player.** [03:04](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=184s) (approx.)
 
@@ -324,7 +324,7 @@ Mark Daigneault: "Great worker. We have a team full of great workers and he fits
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=184s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=184s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=184&q=2)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=184&q=2) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=184&q=2&slack=1)</small>
 
 **3. Mark Daigneault (Oklahoma City Thunder) — "he's to the point now where he's taking on primary matchups for us" — Mark Daigneault says a player is now taking on primary defensive matchups.** [05:35](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=335s) (approx.)
 
@@ -332,7 +332,7 @@ Mark Daigneault: "We'll see. He's had a great off-season. First of all he had a 
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=335s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=335s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=335&q=3)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=335&q=3) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=335&q=3&slack=1)</small>
 
 **4. Mark Daigneault (Oklahoma City Thunder) — "he's obviously one of the giants of the game" — Mark Daigneault congratulates Russell Westbrook on his career.** [10:24](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=624s) (approx.)
 
@@ -340,7 +340,7 @@ Mark Daigneault: "Congrats to him on an unbelievable first ballot career. He's o
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=624s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=624s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=624&q=4)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=624&q=4) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=624&q=4&slack=1)</small>
 
 ---
 
@@ -356,7 +356,7 @@ Devin Booker: "I think the game is positioning us well and I even talked about w
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=17s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=17s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=17&q=1) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=17&q=1&slack=1)</small>
 
 **2. Devin Booker (Phoenix Suns) — "He has all the intangibles of being a star" — Devin Booker praises a young teammate for his maturity and work ethic.** [01:42](https://www.youtube.com/watch?v=k01uKx8LAdg&t=102s) (approx.)
 
@@ -364,7 +364,7 @@ Devin Booker: "Way ahead of his age. You cannot say enough about a player like t
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=102s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=102s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=102&q=2)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=102&q=2) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=102&q=2&slack=1)</small>
 
 **3. Devin Booker (Phoenix Suns) — "It is one of my favorites to date" — Devin Booker discusses the inspiration behind his new Nike shoe design.** [03:10](https://www.youtube.com/watch?v=k01uKx8LAdg&t=190s) (approx.)
 
@@ -372,7 +372,7 @@ Devin Booker: "I went to his studio probably three or four years ago during fash
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=190s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=190s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=190&q=3)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=190&q=3) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=190&q=3&slack=1)</small>
 
 **4. Devin Booker (Phoenix Suns) — "I want to assert myself by scoring the ball more" — Devin Booker says he wants to be more aggressive scoring the ball this season.** [04:35](https://www.youtube.com/watch?v=k01uKx8LAdg&t=275s) (approx.)
 
@@ -380,7 +380,7 @@ Devin Booker: "It is a balance that changes game to game. I said at media day I 
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=275s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=275s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=275&q=4)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=275&q=4) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=275&q=4&slack=1)</small>
 
 **5. Devin Booker (Phoenix Suns) — "It takes five people to have a good defensive possession" — Devin Booker emphasizes the importance of communication and team defense.** [07:17](https://www.youtube.com/watch?v=k01uKx8LAdg&t=437s) (approx.)
 
@@ -388,7 +388,7 @@ Devin Booker: "Taking pride on that end, especially coming into the league, I ha
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=437s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=437s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=437&q=5)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=437&q=5) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=437&q=5&slack=1)</small>
 
 ---
 
@@ -404,7 +404,7 @@ Mike Conley: "There was a bunch of reasons, but ultimately I, you know, the cult
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=33s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=33s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=33&q=1) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=33&q=1&slack=1)</small>
 
 **2. Mike Conley (Boston Celtics) — "That fire is never ending, honestly. It's constant." — Mike Conley discusses his motivation to win his first NBA championship.** [04:04](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=244s) (approx.)
 
@@ -412,7 +412,7 @@ Mike Conley: "That fire is never ending, honestly. It's constant. It's in every 
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=244s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=244s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=244&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=244&q=2) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=244&q=2&slack=1)</small>
 
 **3. Mike Conley (Boston Celtics) — Mike Conley addresses his evolving role and continued impact on the court.** [05:06](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=306s) (approx.)
 
@@ -420,7 +420,7 @@ Mike Conley: "There's there's most days I wake up and I sit here and I and I am 
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=306s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=306s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=306&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=306&q=3) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=306&q=3&slack=1)</small>
 
 **4. Mike Conley (Boston Celtics) — "Joe's great. He honestly, he just keeps you engaged and on your toes at all times." — Mike Conley praises Joe Mazzulla's coaching style and intensity.** [08:45](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=525s) (approx.)
 
@@ -428,7 +428,7 @@ Mike Conley: "**Joe**'s great. He honestly, he just keeps you engaged and on you
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=525s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=525s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=525&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=525&q=4) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=525&q=4&slack=1)</small>
 
 ---
 
@@ -444,7 +444,7 @@ Baylor Scheierman: "I just think I have continued to improve my body, my explosi
 
 [https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=77s](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=77s)
 
-<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=77&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=77&q=1) · [Send to Slack](presserclips://clip?v=CiGFQ-Y20gQ&t=77&q=1&slack=1)</small>
 
 **2. Baylor Scheierman (Boston Celtics) — "nutrition has been a big part of it as well" — Baylor Scheierman credits consistent nutrition and training for his physical transformation.** [01:55](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=115s) (approx.)
 
@@ -452,7 +452,7 @@ Baylor Scheierman: "I think it is really just consistency with it and then also 
 
 [https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=115s](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=115s)
 
-<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=115&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=115&q=2) · [Send to Slack](presserclips://clip?v=CiGFQ-Y20gQ&t=115&q=2&slack=1)</small>
 
 **3. Baylor Scheierman (Boston Celtics) — "I have the ultimate confidence in myself" — Baylor Scheierman remains focused on daily improvement and his confidence in impacting winning.** [08:34](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=514s) (approx.)
 
@@ -460,7 +460,7 @@ Baylor Scheierman: "I don't know. I think maybe a little bit. But at the same ti
 
 [https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=514s](https://www.youtube.com/watch?v=CiGFQ-Y20gQ&t=514s)
 
-<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=514&q=3)</small>
+<small>[Clip it](presserclips://clip?v=CiGFQ-Y20gQ&t=514&q=3) · [Send to Slack](presserclips://clip?v=CiGFQ-Y20gQ&t=514&q=3&slack=1)</small>
 
 ---
 
@@ -476,7 +476,7 @@ Jayson Tatum: "I never had to miss the game of basketball before in my life. And
 
 [https://www.youtube.com/watch?v=SnBE7ajrbhw&t=176s](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=176s)
 
-<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=176&q=1)</small>
+<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=176&q=1) · [Send to Slack](presserclips://clip?v=SnBE7ajrbhw&t=176&q=1&slack=1)</small>
 
 **2. Jayson Tatum (Boston Celtics) — "Anytime you go through something that is traumatic like that, you you can't be the same person" — Jayson Tatum says he is thankful for the lessons learned during his injury recovery.** [04:25](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=265s) (approx.)
 
@@ -484,7 +484,7 @@ Jayson Tatum: "Anytime you go through something that is traumatic like that, you
 
 [https://www.youtube.com/watch?v=SnBE7ajrbhw&t=265s](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=265s)
 
-<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=265&q=2)</small>
+<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=265&q=2) · [Send to Slack](presserclips://clip?v=SnBE7ajrbhw&t=265&q=2&slack=1)</small>
 
 **3. Jayson Tatum (Boston Celtics) — Jayson Tatum says sitting on the bench last season helped him see the game through the coaches lens.** [05:22](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=322s) (approx.)
 
@@ -492,7 +492,7 @@ Jayson Tatum: "I spent obviously a lot of time on the bench, right? And sitting 
 
 [https://www.youtube.com/watch?v=SnBE7ajrbhw&t=322s](https://www.youtube.com/watch?v=SnBE7ajrbhw&t=322s)
 
-<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=322&q=3)</small>
+<small>[Clip it](presserclips://clip?v=SnBE7ajrbhw&t=322&q=3) · [Send to Slack](presserclips://clip?v=SnBE7ajrbhw&t=322&q=3&slack=1)</small>
 
 ---
 
@@ -508,7 +508,7 @@ Royce O'Neale: "He has grown a lot. I think coming in he was drafted when he was
 
 [https://www.youtube.com/watch?v=dTIqV_ofEAU&t=44s](https://www.youtube.com/watch?v=dTIqV_ofEAU&t=44s)
 
-<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=44&q=1)</small>
+<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=44&q=1) · [Send to Slack](presserclips://clip?v=dTIqV_ofEAU&t=44&q=1&slack=1)</small>
 
 **2. Royce O'Neale (Charlotte Hornets) — "Want to treat it like it is a real game in training camp" — Royce O'Neale discusses the team's focus on simulating high-pressure game situations during training camp.** [01:45](https://www.youtube.com/watch?v=dTIqV_ofEAU&t=105s) (approx.)
 
@@ -516,7 +516,7 @@ Royce O'Neale: "It is big time. Going into the season there is going to be a lot
 
 [https://www.youtube.com/watch?v=dTIqV_ofEAU&t=105s](https://www.youtube.com/watch?v=dTIqV_ofEAU&t=105s)
 
-<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=105&q=2)</small>
+<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=105&q=2) · [Send to Slack](presserclips://clip?v=dTIqV_ofEAU&t=105&q=2&slack=1)</small>
 
 ---
 
@@ -532,7 +532,7 @@ Charles Lee: "It has been an amazing couple days of practice. I feel like our gu
 
 [https://www.youtube.com/watch?v=NK8otOPzrAw&t=7s](https://www.youtube.com/watch?v=NK8otOPzrAw&t=7s)
 
-<small>[Clip it](presserclips://clip?v=NK8otOPzrAw&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NK8otOPzrAw&t=7&q=1) · [Send to Slack](presserclips://clip?v=NK8otOPzrAw&t=7&q=1&slack=1)</small>
 
 **2. Charles Lee (Charlotte Hornets) — "our coaching staff has done a really good job of finding that balance" — Coach Charles Lee discusses the challenge of balancing conditioning and teaching during training camp.** [01:03](https://www.youtube.com/watch?v=NK8otOPzrAw&t=63s) (approx.)
 
@@ -540,7 +540,7 @@ Charles Lee: "The biggest part of it is not overloading them, I think mentally s
 
 [https://www.youtube.com/watch?v=NK8otOPzrAw&t=63s](https://www.youtube.com/watch?v=NK8otOPzrAw&t=63s)
 
-<small>[Clip it](presserclips://clip?v=NK8otOPzrAw&t=63&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NK8otOPzrAw&t=63&q=2) · [Send to Slack](presserclips://clip?v=NK8otOPzrAw&t=63&q=2&slack=1)</small>
 
 **3. Charles Lee (Charlotte Hornets) — "you got to find a way to focus on the things that we do control" — Coach Charles Lee explains the use of music and noise to simulate game-time focus.** [01:44](https://www.youtube.com/watch?v=NK8otOPzrAw&t=104s) (approx.)
 
@@ -548,7 +548,7 @@ Charles Lee: "It was perfect at the end of the practice, just like at the end of
 
 [https://www.youtube.com/watch?v=NK8otOPzrAw&t=104s](https://www.youtube.com/watch?v=NK8otOPzrAw&t=104s)
 
-<small>[Clip it](presserclips://clip?v=NK8otOPzrAw&t=104&q=3)</small>
+<small>[Clip it](presserclips://clip?v=NK8otOPzrAw&t=104&q=3) · [Send to Slack](presserclips://clip?v=NK8otOPzrAw&t=104&q=3&slack=1)</small>
 
 ---
 
@@ -564,7 +564,7 @@ Grayson Allen: "He is great. He is a team guy. His game is trying to make the ot
 
 [https://www.youtube.com/watch?v=sdWRKso9lQQ&t=87s](https://www.youtube.com/watch?v=sdWRKso9lQQ&t=87s)
 
-<small>[Clip it](presserclips://clip?v=sdWRKso9lQQ&t=87&q=1)</small>
+<small>[Clip it](presserclips://clip?v=sdWRKso9lQQ&t=87&q=1) · [Send to Slack](presserclips://clip?v=sdWRKso9lQQ&t=87&q=1&slack=1)</small>
 
 ---
 
@@ -580,7 +580,7 @@ Tyronn Lue: "We are a smaller team. We are definitely a smaller team in height a
 
 [https://www.youtube.com/watch?v=CsuRUASq1GM&t=79s](https://www.youtube.com/watch?v=CsuRUASq1GM&t=79s)
 
-<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=79&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=79&q=1) · [Send to Slack](presserclips://clip?v=CsuRUASq1GM&t=79&q=1&slack=1)</small>
 
 **2. Kai Jones (LA Clippers) — "Everybody say that we underdog in everything right now but we have the mindset" — Kai Jones believes the Clippers have the right mindset to overcome underdog status.** [06:53](https://www.youtube.com/watch?v=CsuRUASq1GM&t=413s) (approx.)
 
@@ -588,7 +588,7 @@ Kai Jones: "Everybody say that we underdog in everything right now but we have t
 
 [https://www.youtube.com/watch?v=CsuRUASq1GM&t=413s](https://www.youtube.com/watch?v=CsuRUASq1GM&t=413s)
 
-<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=413&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=413&q=2) · [Send to Slack](presserclips://clip?v=CsuRUASq1GM&t=413&q=2&slack=1)</small>
 
 **3. Terance Mann (LA Clippers) — "One thing I learned about Keaton that he processes things very fast." — Terance Mann praises Keaton for his high basketball IQ and fast processing speed.** [11:28](https://www.youtube.com/watch?v=CsuRUASq1GM&t=688s) (approx.)
 
@@ -596,7 +596,7 @@ Terance Mann: "One thing I learned about **Keaton** that he processes things ver
 
 [https://www.youtube.com/watch?v=CsuRUASq1GM&t=688s](https://www.youtube.com/watch?v=CsuRUASq1GM&t=688s)
 
-<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=688&q=3)</small>
+<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=688&q=3) · [Send to Slack](presserclips://clip?v=CsuRUASq1GM&t=688&q=3&slack=1)</small>
 
 ---
 

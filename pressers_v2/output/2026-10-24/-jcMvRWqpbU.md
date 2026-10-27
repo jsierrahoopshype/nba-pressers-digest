@@ -10,7 +10,7 @@ Dejounte Murray: "It's great to compete. We preach being aggressive and guarding
 
 [https://www.youtube.com/watch?v=-jcMvRWqpbU&t=15s](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=15s)
 
-<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=15&q=1) · [Send to Slack](presserclips://clip?v=-jcMvRWqpbU&t=15&q=1&slack=1)</small>
 
 **2. Dejounte Murray — "It's a challenge of balance, being that guy that try to get guys the ball." — Dejounte Murray on his role as a playmaker and team leader** [01:38](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=98s)
 
@@ -18,7 +18,7 @@ Dejounte Murray: "It's a challenge of balance, being that guy that try to get gu
 
 [https://www.youtube.com/watch?v=-jcMvRWqpbU&t=98s](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=98s)
 
-<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=98&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=98&q=2) · [Send to Slack](presserclips://clip?v=-jcMvRWqpbU&t=98&q=2&slack=1)</small>
 
 **3. Dejounte Murray — "Saddiq's a monster. Real familiar with him. I trust him, he puts the work in." — Dejounte Murray evaluates the bench contributions of Naji Marshall and Yves Missi** [02:20](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=140s)
 
@@ -26,7 +26,7 @@ Dejounte Murray: "Saddiq's a monster. Real familiar with him. I trust him, he pu
 
 [https://www.youtube.com/watch?v=-jcMvRWqpbU&t=140s](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=140s)
 
-<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=140&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=140&q=3) · [Send to Slack](presserclips://clip?v=-jcMvRWqpbU&t=140&q=3&slack=1)</small>
 
 **4. Dejounte Murray — "I got to make the shot. I feel like I got to make the shot." — Dejounte Murray on the final possession and team accountability** [02:53](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=173s)
 
@@ -34,7 +34,7 @@ Dejounte Murray: "I got to make the shot. I feel like I got to make the shot. Co
 
 [https://www.youtube.com/watch?v=-jcMvRWqpbU&t=173s](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=173s)
 
-<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=173&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=173&q=4) · [Send to Slack](presserclips://clip?v=-jcMvRWqpbU&t=173&q=4&slack=1)</small>
 
 **5. Dejounte Murray — "It's a great thing, but it's a must-win. I think the guys need to know that." — Dejounte Murray on the importance of the upcoming game against the Nuggets** [03:11](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=191s)
 
@@ -42,4 +42,4 @@ Dejounte Murray: "It's a great thing, but it's a must-win. I think the guys need
 
 [https://www.youtube.com/watch?v=-jcMvRWqpbU&t=191s](https://www.youtube.com/watch?v=-jcMvRWqpbU&t=191s)
 
-<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=191&q=5)</small>
+<small>[Clip it](presserclips://clip?v=-jcMvRWqpbU&t=191&q=5) · [Send to Slack](presserclips://clip?v=-jcMvRWqpbU&t=191&q=5&slack=1)</small>

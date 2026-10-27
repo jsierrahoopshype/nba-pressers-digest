@@ -14,7 +14,7 @@ Caleb Wilson: "It kind of feels surreal, you know. But it's here now, so I'm exc
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=72s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=72s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=72&q=1)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=72&q=1) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=72&q=1&slack=1)</small>
 
 **2. Caleb Wilson (Chicago Bulls) — "It's my first time getting in an NBA game and playing in the United Center" — Caleb Wilson discusses his anticipation for his first NBA game at the United Center.** [02:14](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
 
@@ -22,7 +22,7 @@ Caleb Wilson: "In two weeks, I mean, we'll be tipping off and it'll be real. It'
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=134&q=2)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=134&q=2) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=134&q=2&slack=1)</small>
 
 ---
 
@@ -38,7 +38,7 @@ Donovan Mitchell: "The biggest thing for myself is continue to be a good leader.
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=134s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=134s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=134&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=134&q=1) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=134&q=1&slack=1)</small>
 
 **2. Donovan Mitchell (Cleveland Cavaliers) — "He is a big piece for us for sure." — Donovan Mitchell praises Mario's strength and playmaking ability during training camp.** [02:50](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=170s)
 
@@ -46,7 +46,7 @@ Donovan Mitchell: "**Mario** is talented. He is strong, very strong, gets downhi
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=170s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=170s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=170&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=170&q=2) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=170&q=2&slack=1)</small>
 
 **3. Donovan Mitchell (Cleveland Cavaliers) — "I think Michael Jordan for sure." — Donovan Mitchell names Michael Jordan as the greatest player of all time.** [04:26](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=266s)
 
@@ -54,7 +54,7 @@ Donovan Mitchell: "At all time, I think **Michael Jordan**. I think **Michael Jo
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=266s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=266s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=266&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=266&q=3) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=266&q=3&slack=1)</small>
 
 **4. Donovan Mitchell (Cleveland Cavaliers) — "Adding a guy like Peyton changes us in a major way." — Donovan Mitchell believes the additions of Peyton and Jaylen Tyson will improve the Cavaliers' defensive versatility.** [05:52](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=352s)
 
@@ -62,7 +62,7 @@ Donovan Mitchell: "The biggest thing is our length, our versatility. Adding a gu
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=352s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=352s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=352&q=4)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=352&q=4) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=352&q=4&slack=1)</small>
 
 **5. Donovan Mitchell (Cleveland Cavaliers) — "I am not saying he is going to come out and shoot 40 percent." — Donovan Mitchell discusses his mentorship of Nate and his progress in shooting and defense.** [08:58](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=538s)
 
@@ -70,7 +70,7 @@ Donovan Mitchell: "Him and I talked a lot this summer. I have sent him a lot of 
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=538s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=538s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=538&q=5)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=538&q=5) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=538&q=5&slack=1)</small>
 
 ---
 
@@ -86,7 +86,7 @@ James Harden: "**Mario** has been looking good for this past few weeks. Today he
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=98s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=98s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=98&q=1)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=98&q=1) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=98&q=1&slack=1)</small>
 
 **2. James Harden (Cleveland Cavaliers) — "I think who he is now as a player fits with the NBA is now." — James Harden praises a young player for his development and versatility.** [04:16](https://www.youtube.com/watch?v=J5unk3vEQmk&t=256s)
 
@@ -94,7 +94,7 @@ James Harden: "I think it is confidence. As a young player he was probably tryin
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=256s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=256s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=256&q=2)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=256&q=2) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=256&q=2&slack=1)</small>
 
 **3. James Harden (Cleveland Cavaliers) — "we are going to need him and count on him to play more minutes." — James Harden says Jaylen will be counted on for more minutes this season.** [04:38](https://www.youtube.com/watch?v=J5unk3vEQmk&t=278s) (approx.)
 
@@ -102,7 +102,7 @@ James Harden: "I was just trying to build a relationship with **Jaylen** because
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=278s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=278s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=278&q=3)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=278&q=3) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=278&q=3&slack=1)</small>
 
 ---
 

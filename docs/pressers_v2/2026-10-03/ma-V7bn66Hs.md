@@ -10,7 +10,7 @@ Luke Kennard: "The way we're playing, the way we play together, the pace, the sp
 
 [https://www.youtube.com/watch?v=ma-V7bn66Hs&t=26s](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=26s)
 
-<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=26&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=26&q=1) · [Send to Slack](presserclips://clip?v=ma-V7bn66Hs&t=26&q=1&slack=1)</small>
 
 **2. Luke Kennard — "finding a spot within this offense and playing off of guys, playing with the ball" — Luke Kennard on finding his role within the Suns' offense** [01:24](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=84s)
 
@@ -18,7 +18,7 @@ Luke Kennard: "Obviously, the three-point line, anywhere on the three-point line
 
 [https://www.youtube.com/watch?v=ma-V7bn66Hs&t=84s](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=84s)
 
-<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=84&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=84&q=2) · [Send to Slack](presserclips://clip?v=ma-V7bn66Hs&t=84&q=2&slack=1)</small>
 
 **3. Luke Kennard — "spacing is very, it obviously doesn't show up on like a box score, but being able to space" — Luke Kennard on the importance of spacing and screening** [02:12](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=132s)
 
@@ -26,7 +26,7 @@ Luke Kennard: "Spacing is very, it obviously doesn't show up on like a box score
 
 [https://www.youtube.com/watch?v=ma-V7bn66Hs&t=132s](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=132s)
 
-<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=132&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=132&q=3) · [Send to Slack](presserclips://clip?v=ma-V7bn66Hs&t=132&q=3&slack=1)</small>
 
 **4. Luke Kennard — "it's just balance, footwork, and speed. I think obviously it's one of the strengths of my game" — Luke Kennard on his focus on balance, footwork, and speed** [03:15](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=195s)
 
@@ -34,7 +34,7 @@ Luke Kennard: "It's just balance, footwork, and speed. I think obviously it's on
 
 [https://www.youtube.com/watch?v=ma-V7bn66Hs&t=195s](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=195s)
 
-<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=195&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=195&q=4) · [Send to Slack](presserclips://clip?v=ma-V7bn66Hs&t=195&q=4&slack=1)</small>
 
 **5. Luke Kennard — "we have a deep team. Just being here, seeing guys, and we still have, I mean Mark is out" — Luke Kennard on the Suns' depth and team chemistry** [05:46](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=346s)
 
@@ -42,4 +42,4 @@ Luke Kennard: "It's a seamless fit, honestly. I'm having so much fun with what w
 
 [https://www.youtube.com/watch?v=ma-V7bn66Hs&t=346s](https://www.youtube.com/watch?v=ma-V7bn66Hs&t=346s)
 
-<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=346&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ma-V7bn66Hs&t=346&q=5) · [Send to Slack](presserclips://clip?v=ma-V7bn66Hs&t=346&q=5&slack=1)</small>

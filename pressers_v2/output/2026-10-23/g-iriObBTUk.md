@@ -10,7 +10,7 @@ Nick Nurse: "**Tyrese Maxey** has been very impressive. I think the big thing is
 
 [https://www.youtube.com/watch?v=g-iriObBTUk&t=65s](https://www.youtube.com/watch?v=g-iriObBTUk&t=65s)
 
-<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=65&q=1)</small>
+<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=65&q=1) · [Send to Slack](presserclips://clip?v=g-iriObBTUk&t=65&q=1&slack=1)</small>
 
 **2. Nick Nurse — "we get some stops, gives us a chance to move" — Second half defensive adjustments and transition offense** [02:23](https://www.youtube.com/watch?v=g-iriObBTUk&t=143s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "That was part of one of our problems in the first half. Everything 
 
 [https://www.youtube.com/watch?v=g-iriObBTUk&t=143s](https://www.youtube.com/watch?v=g-iriObBTUk&t=143s)
 
-<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=143&q=2)</small>
+<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=143&q=2) · [Send to Slack](presserclips://clip?v=g-iriObBTUk&t=143&q=2&slack=1)</small>
 
 **3. Nick Nurse — "we need the physicality and he is a very physical player" — Jaylen Brown's physical impact and rebounding** [04:50](https://www.youtube.com/watch?v=g-iriObBTUk&t=290s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "**Jaylen Brown** was physically for him making those kind of plays 
 
 [https://www.youtube.com/watch?v=g-iriObBTUk&t=290s](https://www.youtube.com/watch?v=g-iriObBTUk&t=290s)
 
-<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=290&q=3)</small>
+<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=290&q=3) · [Send to Slack](presserclips://clip?v=g-iriObBTUk&t=290&q=3&slack=1)</small>
 
 **4. Nick Nurse — "he came out and he totally changed the game" — Jaylen Brown's defensive impact on game flow** [05:33](https://www.youtube.com/watch?v=g-iriObBTUk&t=333s)
 
@@ -34,7 +34,7 @@ Nick Nurse: "He came out and he totally changed the game. He is out there doing 
 
 [https://www.youtube.com/watch?v=g-iriObBTUk&t=333s](https://www.youtube.com/watch?v=g-iriObBTUk&t=333s)
 
-<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=333&q=4)</small>
+<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=333&q=4) · [Send to Slack](presserclips://clip?v=g-iriObBTUk&t=333&q=4&slack=1)</small>
 
 **5. Nick Nurse — "there is some rebounds or loose balls and he is coming away with a lot of that stuff" — Jaylen Brown's hustle on loose balls and rebounds** [08:25](https://www.youtube.com/watch?v=g-iriObBTUk&t=505s)
 
@@ -42,7 +42,7 @@ Nick Nurse: "There is some rebounds or loose balls and he is coming away with a 
 
 [https://www.youtube.com/watch?v=g-iriObBTUk&t=505s](https://www.youtube.com/watch?v=g-iriObBTUk&t=505s)
 
-<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=505&q=5)</small>
+<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=505&q=5) · [Send to Slack](presserclips://clip?v=g-iriObBTUk&t=505&q=5&slack=1)</small>
 
 **6. Nick Nurse — "we were having a lot of trouble with the mid pick-and-roll coverage" — Adjusting to mid pick-and-roll coverage** [09:52](https://www.youtube.com/watch?v=g-iriObBTUk&t=592s)
 
@@ -50,7 +50,7 @@ Nick Nurse: "We were having a lot of trouble with the mid pick-and-roll coverage
 
 [https://www.youtube.com/watch?v=g-iriObBTUk&t=592s](https://www.youtube.com/watch?v=g-iriObBTUk&t=592s)
 
-<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=592&q=6)</small>
+<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=592&q=6) · [Send to Slack](presserclips://clip?v=g-iriObBTUk&t=592&q=6&slack=1)</small>
 
 **7. Nick Nurse — "we hit our targets almost exactly with LeBron and Joel" — Managing rotation targets for LeBron and Joel** [10:44](https://www.youtube.com/watch?v=g-iriObBTUk&t=644s)
 
@@ -58,4 +58,4 @@ Nick Nurse: "We hit our targets almost exactly with **LeBron** and **Joel**. So 
 
 [https://www.youtube.com/watch?v=g-iriObBTUk&t=644s](https://www.youtube.com/watch?v=g-iriObBTUk&t=644s)
 
-<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=644&q=7)</small>
+<small>[Clip it](presserclips://clip?v=g-iriObBTUk&t=644&q=7) · [Send to Slack](presserclips://clip?v=g-iriObBTUk&t=644&q=7&slack=1)</small>

@@ -10,7 +10,7 @@ Unidentified speaker: "It feels good to hear that from him. He is an experienced
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=185s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=185s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=185&q=1)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=185&q=1) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=185&q=1&slack=1)</small>
 
 **2. Unidentified speaker — "Last year I was the Big Coof, now I am the Big Spain" — The origin of the nickname Big Spain** [04:07](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=247s)
 
@@ -18,7 +18,7 @@ Unidentified speaker: "Last year I was the Big Coof, now I am the Big Spain, so 
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=247s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=247s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=247&q=2)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=247&q=2) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=247&q=2&slack=1)</small>
 
 **3. Unidentified speaker — "having them in the team, for me the role is way easier" — How veteran teammates have helped the transition to the NBA** [06:30](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=390s)
 
@@ -26,7 +26,7 @@ Unidentified speaker: "Having them in the team, for me the role is way easier to
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=390s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=390s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=390&q=3)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=390&q=3) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=390&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "we shot 65% from three in the first half, that's not realistic" — The team's offensive flow and shooting performance** [08:30](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=510s)
 
@@ -34,7 +34,7 @@ Mark Daigneault: "We were in a good little rhythm. We shot 65% from three in the
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=510s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=510s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=510&q=4)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=510&q=4) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=510&q=4&slack=1)</small>
 
 **5. Mark Daigneault — "one of the things that's been great about this team is just the like-mindedness of all the players" — The team's shared philosophy across veteran and young players** [09:10](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=550s)
 
@@ -42,7 +42,7 @@ Mark Daigneault: "One of the things that's been great about this team is just th
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=550s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=550s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=550&q=5)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=550&q=5) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=550&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "moving off the ball is a little new for him" — Evaluating the rookie's transition to playing off the ball** [10:33](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=633s)
 
@@ -50,7 +50,7 @@ Mark Daigneault: "He is used to having the ball in his hands. He was the highest
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=633s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=633s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=633&q=6)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=633&q=6) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=633&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "he worked really hard from the end of Summer League till he came back to Oklahoma City" — The rookie's physical conditioning and work ethic** [11:21](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=681s)
 
@@ -58,7 +58,7 @@ Mark Daigneault: "He worked really hard from the end of Summer League till he ca
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=681s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=681s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=681&q=7)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=681&q=7) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=681&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "he's quietly gotten a lot better year over year" — The rookie's quiet improvement and understanding of the NBA game** [11:57](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=717s)
 
@@ -66,7 +66,7 @@ Mark Daigneault: "He's quietly gotten a lot better year over year. If you look a
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=717s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=717s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=717&q=8)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=717&q=8) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=717&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "he's a very likable guy" — The rookie's likability and positive impact on teammates** [14:44](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=884s)
 
@@ -74,4 +74,4 @@ Mark Daigneault: "I can't speak for the masses, I certainly can't speak for youn
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=884s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=884s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=884&q=9)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=884&q=9) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=884&q=9&slack=1)</small>

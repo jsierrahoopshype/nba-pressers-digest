@@ -14,7 +14,7 @@ Liam McNeeley: "They are just so consistent every day in practice. They are alwa
 
 [https://www.youtube.com/watch?v=7xzYP1E1uxc&t=29s](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=29s)
 
-<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=29&q=1)</small>
+<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=29&q=1) · [Send to Slack](presserclips://clip?v=7xzYP1E1uxc&t=29&q=1&slack=1)</small>
 
 **2. Liam McNeeley — "The big thing that I was focusing on this off season was my physicality, getting stronger" — Liam McNeeley on his G League development and physical growth** [01:32](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=92s)
 
@@ -22,7 +22,7 @@ Liam McNeeley: "I spent a lot of time in Greensboro in the G League. They were g
 
 [https://www.youtube.com/watch?v=7xzYP1E1uxc&t=92s](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=92s)
 
-<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=92&q=2)</small>
+<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=92&q=2) · [Send to Slack](presserclips://clip?v=7xzYP1E1uxc&t=92&q=2&slack=1)</small>
 
 **3. Liam McNeeley — "They were switching everything and our offense got stagnant which led to the turnovers" — Liam McNeeley on Hornets' offensive struggles against Brooklyn's defensive switching** [02:14](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=134s)
 
@@ -30,7 +30,7 @@ Liam McNeeley: "They were switching everything and our offense got stagnant whic
 
 [https://www.youtube.com/watch?v=7xzYP1E1uxc&t=134s](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=134s)
 
-<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=134&q=3)</small>
+<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=134&q=3) · [Send to Slack](presserclips://clip?v=7xzYP1E1uxc&t=134&q=3&slack=1)</small>
 
 ---
 
@@ -46,7 +46,7 @@ Charles Lee: "Liam has had a really good off-season. He's had a really good trai
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=50s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=50s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=50&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=50&q=1) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=50&q=1&slack=1)</small>
 
 **2. Charles Lee — "That just shows the versatility we have in Naz, the trust that we have in Naz." — Charles Lee on Naz Reid's versatility and playmaking ability** [01:54](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=114s)
 
@@ -54,7 +54,7 @@ Charles Lee: "That just shows the versatility we have in **Naz**, the trust that
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=114s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=114s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=114&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=114&q=2) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=114&q=2&slack=1)</small>
 
 **3. Charles Lee — "We practice it and now you get to be able to come out here to the game and do it." — Charles Lee on using preseason for situational lineup experimentation** [02:42](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=162s)
 
@@ -62,7 +62,7 @@ Charles Lee: "We practice it and now you get to be able to come out here to the 
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=162s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=162s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=162&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=162&q=3) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=162&q=3&slack=1)</small>
 
 **4. Charles Lee — "He's just shown us who he can be, who he is as a defender, guarding multiple positions." — Charles Lee on Michael Ajayi's energetic preseason progress** [03:13](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=193s)
 
@@ -70,7 +70,7 @@ Charles Lee: "Really just excited that he was able to earn an opportunity to pla
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=193s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=193s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=193&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=193&q=4) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=193&q=4&slack=1)</small>
 
 **5. Charles Lee — "These are the cards you're dealt right now with some of the injuries." — Charles Lee on balancing experimentation with player health in preseason** [04:12](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=252s)
 
@@ -78,7 +78,7 @@ Charles Lee: "These are the cards you're dealt right now with some of the injuri
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=252s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=252s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=252&q=5)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=252&q=5) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=252&q=5&slack=1)</small>
 
 **6. Charles Lee — "He takes the coaching so quickly and he picks up things really fast." — Charles Lee on Hannes's rapid learning and defensive potential** [05:04](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=304s)
 
@@ -86,7 +86,7 @@ Charles Lee: "He takes the coaching so quickly and he picks up things really fas
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=304s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=304s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=304&q=6)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=304&q=6) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=304&q=6&slack=1)</small>
 
 ---
 
@@ -102,7 +102,7 @@ Deandre Ayton: "If you donate yours in 2020, don't worry, we got you. We will su
 
 [https://www.youtube.com/watch?v=BDmUlB2OS-Q&t=141s](https://www.youtube.com/watch?v=BDmUlB2OS-Q&t=141s)
 
-<small>[Clip it](presserclips://clip?v=BDmUlB2OS-Q&t=141&q=1)</small>
+<small>[Clip it](presserclips://clip?v=BDmUlB2OS-Q&t=141&q=1) · [Send to Slack](presserclips://clip?v=BDmUlB2OS-Q&t=141&q=1&slack=1)</small>
 
 ---
 
@@ -118,7 +118,7 @@ Unidentified speaker: "It feels good to hear that from him. He is an experienced
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=185s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=185s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=185&q=1)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=185&q=1) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=185&q=1&slack=1)</small>
 
 **2. Unidentified speaker — "Last year I was the Big Coof, now I am the Big Spain" — The origin of the nickname Big Spain** [04:07](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=247s)
 
@@ -126,7 +126,7 @@ Unidentified speaker: "Last year I was the Big Coof, now I am the Big Spain, so 
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=247s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=247s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=247&q=2)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=247&q=2) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=247&q=2&slack=1)</small>
 
 **3. Unidentified speaker — "having them in the team, for me the role is way easier" — How veteran teammates have helped the transition to the NBA** [06:30](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=390s)
 
@@ -134,7 +134,7 @@ Unidentified speaker: "Having them in the team, for me the role is way easier to
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=390s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=390s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=390&q=3)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=390&q=3) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=390&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "we shot 65% from three in the first half, that's not realistic" — The team's offensive flow and shooting performance** [08:30](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=510s)
 
@@ -142,7 +142,7 @@ Mark Daigneault: "We were in a good little rhythm. We shot 65% from three in the
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=510s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=510s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=510&q=4)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=510&q=4) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=510&q=4&slack=1)</small>
 
 **5. Mark Daigneault — "one of the things that's been great about this team is just the like-mindedness of all the players" — The team's shared philosophy across veteran and young players** [09:10](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=550s)
 
@@ -150,7 +150,7 @@ Mark Daigneault: "One of the things that's been great about this team is just th
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=550s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=550s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=550&q=5)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=550&q=5) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=550&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "moving off the ball is a little new for him" — Evaluating the rookie's transition to playing off the ball** [10:33](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=633s)
 
@@ -158,7 +158,7 @@ Mark Daigneault: "He is used to having the ball in his hands. He was the highest
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=633s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=633s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=633&q=6)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=633&q=6) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=633&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "he worked really hard from the end of Summer League till he came back to Oklahoma City" — The rookie's physical conditioning and work ethic** [11:21](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=681s)
 
@@ -166,7 +166,7 @@ Mark Daigneault: "He worked really hard from the end of Summer League till he ca
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=681s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=681s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=681&q=7)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=681&q=7) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=681&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "he's quietly gotten a lot better year over year" — The rookie's quiet improvement and understanding of the NBA game** [11:57](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=717s)
 
@@ -174,7 +174,7 @@ Mark Daigneault: "He's quietly gotten a lot better year over year. If you look a
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=717s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=717s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=717&q=8)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=717&q=8) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=717&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "he's a very likable guy" — The rookie's likability and positive impact on teammates** [14:44](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=884s)
 
@@ -182,7 +182,7 @@ Mark Daigneault: "I can't speak for the masses, I certainly can't speak for youn
 
 [https://www.youtube.com/watch?v=aY5DWYY3ce0&t=884s](https://www.youtube.com/watch?v=aY5DWYY3ce0&t=884s)
 
-<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=884&q=9)</small>
+<small>[Clip it](presserclips://clip?v=aY5DWYY3ce0&t=884&q=9) · [Send to Slack](presserclips://clip?v=aY5DWYY3ce0&t=884&q=9&slack=1)</small>
 
 ---
 

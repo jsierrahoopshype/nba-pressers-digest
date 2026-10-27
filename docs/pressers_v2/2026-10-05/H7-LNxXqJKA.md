@@ -10,7 +10,7 @@ Kasparas Jakučionis: "It's been good. I think everybody excited to start the se
 
 [https://www.youtube.com/watch?v=H7-LNxXqJKA&t=9s](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=9s)
 
-<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=9&q=1) · [Send to Slack](presserclips://clip?v=H7-LNxXqJKA&t=9&q=1&slack=1)</small>
 
 **2. Kasparas Jakučionis — "I feel great, I feel healthy, so I'm just trying to work on my game" — Kasparas Jakučionis on his physical health and preparation** [00:40](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=40s)
 
@@ -18,7 +18,7 @@ Kasparas Jakučionis: "I feel great. I feel healthy, so I'm just trying to work 
 
 [https://www.youtube.com/watch?v=H7-LNxXqJKA&t=40s](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=40s)
 
-<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=40&q=2)</small>
+<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=40&q=2) · [Send to Slack](presserclips://clip?v=H7-LNxXqJKA&t=40&q=2&slack=1)</small>
 
 **3. Kasparas Jakučionis — "I think it's like in both teams that I've been so far, it's been really competitive" — Kasparas Jakučionis on the competitive nature of team practices** [01:11](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=71s)
 
@@ -26,7 +26,7 @@ Kasparas Jakučionis: "I think it's like in both teams that I've been so far, it
 
 [https://www.youtube.com/watch?v=H7-LNxXqJKA&t=71s](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=71s)
 
-<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=71&q=3) · [Send to Slack](presserclips://clip?v=H7-LNxXqJKA&t=71&q=3&slack=1)</small>
 
 **4. Kasparas Jakučionis — "The game of basketball is really about adaptation in real time" — Kasparas Jakučionis on the importance of adaptability in basketball** [01:58](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=118s)
 
@@ -34,7 +34,7 @@ Kasparas Jakučionis: "I really like it. You never know what's going to happen i
 
 [https://www.youtube.com/watch?v=H7-LNxXqJKA&t=118s](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=118s)
 
-<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=118&q=4)</small>
+<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=118&q=4) · [Send to Slack](presserclips://clip?v=H7-LNxXqJKA&t=118&q=4&slack=1)</small>
 
 **5. Kasparas Jakučionis — "I always feel the most comfortable playing pick-and-rolls" — Kasparas Jakučionis on his comfort level with pick-and-roll play** [02:47](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=167s)
 
@@ -42,7 +42,7 @@ Kasparas Jakučionis: "The spacing and the movement is so important for us. Pick
 
 [https://www.youtube.com/watch?v=H7-LNxXqJKA&t=167s](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=167s)
 
-<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=167&q=5)</small>
+<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=167&q=5) · [Send to Slack](presserclips://clip?v=H7-LNxXqJKA&t=167&q=5&slack=1)</small>
 
 **6. Kasparas Jakučionis — "He can be a lob threat, he can shoot threes, he can pop" — Kasparas Jakučionis on the versatility of his teammate** [03:21](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=201s)
 
@@ -50,7 +50,7 @@ Kasparas Jakučionis: "I think he's a very adaptable person too. He can come in 
 
 [https://www.youtube.com/watch?v=H7-LNxXqJKA&t=201s](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=201s)
 
-<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=201&q=6)</small>
+<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=201&q=6) · [Send to Slack](presserclips://clip?v=H7-LNxXqJKA&t=201&q=6&slack=1)</small>
 
 **7. Kasparas Jakučionis — "I feel like you need to play games to figure it out" — Kasparas Jakučionis on the team's need to play games to improve** [04:02](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=242s)
 
@@ -58,4 +58,4 @@ Kasparas Jakučionis: "Obviously I feel like you need to play games to figure it
 
 [https://www.youtube.com/watch?v=H7-LNxXqJKA&t=242s](https://www.youtube.com/watch?v=H7-LNxXqJKA&t=242s)
 
-<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=242&q=7)</small>
+<small>[Clip it](presserclips://clip?v=H7-LNxXqJKA&t=242&q=7) · [Send to Slack](presserclips://clip?v=H7-LNxXqJKA&t=242&q=7&slack=1)</small>

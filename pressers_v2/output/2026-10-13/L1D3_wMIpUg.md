@@ -10,7 +10,7 @@ Quin Snyder: "I think there was young players as a team looking to play together
 
 [https://www.youtube.com/watch?v=L1D3_wMIpUg&t=11s](https://www.youtube.com/watch?v=L1D3_wMIpUg&t=11s)
 
-<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=11&q=1) · [Send to Slack](presserclips://clip?v=L1D3_wMIpUg&t=11&q=1&slack=1)</small>
 
 **2. Quin Snyder — "Mara obviously is a factor at the rim and took us a little while to adjust to that." — Quin Snyder on integrating defensive rim protection** [00:47](https://www.youtube.com/watch?v=L1D3_wMIpUg&t=47s)
 
@@ -18,7 +18,7 @@ Quin Snyder: "**Mara** obviously is a factor at the rim and took us a little whi
 
 [https://www.youtube.com/watch?v=L1D3_wMIpUg&t=47s](https://www.youtube.com/watch?v=L1D3_wMIpUg&t=47s)
 
-<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=47&q=2)</small>
+<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=47&q=2) · [Send to Slack](presserclips://clip?v=L1D3_wMIpUg&t=47&q=2&slack=1)</small>
 
 **3. Quin Snyder — "Kobe had some big offensive rebounds late and A.J. and RayJ kind of finished it off." — Quin Snyder on Kobe Bufkin, A.J. Griffin, and Rayan Rupert** [01:16](https://www.youtube.com/watch?v=L1D3_wMIpUg&t=76s)
 
@@ -26,7 +26,7 @@ Quin Snyder: "**Kobe** had some big offensive rebounds late and **A.J.** and **R
 
 [https://www.youtube.com/watch?v=L1D3_wMIpUg&t=76s](https://www.youtube.com/watch?v=L1D3_wMIpUg&t=76s)
 
-<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=76&q=3)</small>
+<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=76&q=3) · [Send to Slack](presserclips://clip?v=L1D3_wMIpUg&t=76&q=3&slack=1)</small>
 
 **4. Quin Snyder — "he continues to have a feel for what's going on in the game, when to shoot, when to pass." — Quin Snyder on Kobe Bufkin's development and process** [02:16](https://www.youtube.com/watch?v=L1D3_wMIpUg&t=136s)
 
@@ -34,4 +34,4 @@ Quin Snyder: "The word process is one that we felt you saw that over the course 
 
 [https://www.youtube.com/watch?v=L1D3_wMIpUg&t=136s](https://www.youtube.com/watch?v=L1D3_wMIpUg&t=136s)
 
-<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=136&q=4)</small>
+<small>[Clip it](presserclips://clip?v=L1D3_wMIpUg&t=136&q=4) · [Send to Slack](presserclips://clip?v=L1D3_wMIpUg&t=136&q=4&slack=1)</small>

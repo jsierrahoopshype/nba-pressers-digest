@@ -14,7 +14,7 @@ Jordan Ott: "Incredibly emotional to start the game. Before the ball was even ti
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=13s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=13s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=13&q=1) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=13&q=1&slack=1)</small>
 
 **2. Jordan Ott — "It was definitely that right hip, just for sure right hip." — Jordan Ott confirms injury to Josh Okogie's right hip** [01:07](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=67s)
 
@@ -22,7 +22,7 @@ Jordan Ott: "It was definitely that right hip, just for sure right hip. It was t
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=67s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=67s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=67&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=67&q=2) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=67&q=2&slack=1)</small>
 
 **3. Jordan Ott — "When Clingan hits those first two, that gets the energy going and the crowd up." — Jordan Ott on the impact of early shots by Donovan Clingan** [01:22](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=82s)
 
@@ -30,7 +30,7 @@ Jordan Ott: "When Clingan hits those first two, that gets the energy going and t
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=82s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=82s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=82&q=3)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=82&q=3) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=82&q=3&slack=1)</small>
 
 **4. Jordan Ott — "Throwing young guys into the fire, that's what you see. And he'll learn from this." — Jordan Ott evaluates Donovan Clingan's performance in his debut** [03:20](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=200s)
 
@@ -38,7 +38,7 @@ Jordan Ott: "It was probably a tough assessment. Again, throwing young guys into
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=200s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=200s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=200&q=4)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=200&q=4) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=200&q=4&slack=1)</small>
 
 **5. Jordan Ott — "We lost the possession game by eight and they outshoot you." — Jordan Ott addresses Portland's dominance in hustle plays** [04:08](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=248s)
 
@@ -46,7 +46,7 @@ Jordan Ott: "We talked about it. Again, we lost the possession game by eight and
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=248s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=248s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=248&q=5)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=248&q=5) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=248&q=5&slack=1)</small>
 
 ---
 
@@ -62,7 +62,7 @@ Micah Nori: "It's exactly what we thought we were going to do was come out and g
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=5s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=5s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=5&q=1) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=5&q=1&slack=1)</small>
 
 **2. Micah Nori — "Jaylen Green and obviously Devin Booker provided a lot of challenges, especially when we do start a little bit small." — Micah Nori on defensive physicality and challenging opposing stars** [00:58](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=58s)
 
@@ -70,7 +70,7 @@ Micah Nori: "I thought all the guys, especially just from the start of the game,
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=58s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=58s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=58&q=2) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=58&q=2&slack=1)</small>
 
 **3. Micah Nori — "I think the one thing that helps Dame is he doesn't have to bring it up and play pick and roll." — Micah Nori on team playmaking and reducing reliance on one player** [01:42](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=102s)
 
@@ -78,7 +78,7 @@ Micah Nori: "I think the one thing that helps **Dame** is he doesn't have to bri
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=102s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=102s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=102&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=102&q=3) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=102&q=3&slack=1)</small>
 
 **4. Micah Nori — "Dame is really good screener and a lot of times with setting the rip screens and that type of stuff." — Micah Nori on Dame's role as a screener in the offense** [02:17](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=137s)
 
@@ -86,7 +86,7 @@ Micah Nori: "I think the one thing that we've done, **Dame** is really good scre
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=137s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=137s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=137&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=137&q=4) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=137&q=4&slack=1)</small>
 
 **5. Micah Nori — "He's competing at the highest level now because he knows that he's on a team that has a chance." — Micah Nori on Ja's competitive growth and defensive impact** [03:13](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=193s)
 
@@ -94,7 +94,7 @@ Micah Nori: "I think it will look like, like we talk about and I know it's just 
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=193s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=193s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=193&q=5)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=193&q=5) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=193&q=5&slack=1)</small>
 
 **6. Micah Nori — "His catch and shoot threes in our practice facility since labor days like 52%." — Micah Nori on Tumani's shooting development and spacing impact** [04:06](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=246s)
 
@@ -102,7 +102,7 @@ Micah Nori: "His catch and shoot threes in our practice facility since labor day
 
 [https://www.youtube.com/watch?v=-_xxJL3h-1M&t=246s](https://www.youtube.com/watch?v=-_xxJL3h-1M&t=246s)
 
-<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=246&q=6)</small>
+<small>[Clip it](presserclips://clip?v=-_xxJL3h-1M&t=246&q=6) · [Send to Slack](presserclips://clip?v=-_xxJL3h-1M&t=246&q=6&slack=1)</small>
 
 ---
 

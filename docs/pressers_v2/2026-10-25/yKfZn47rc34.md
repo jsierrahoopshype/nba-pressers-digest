@@ -10,7 +10,7 @@ Nick Nurse: "**Jabarri Rice** tweaked his left knee. So that's that. We're going
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=47s](https://www.youtube.com/watch?v=yKfZn47rc34&t=47s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=47&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=47&q=1) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=47&q=1&slack=1)</small>
 
 **2. Nick Nurse — "a lot of transition buckets and also the defensive rebounding. A lot of second chance points." — Nick Nurse critiques team's transition defense and rebounding** [01:06](https://www.youtube.com/watch?v=yKfZn47rc34&t=66s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "There are probably a couple things that we're not completely thrill
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=66s](https://www.youtube.com/watch?v=yKfZn47rc34&t=66s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=66&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=66&q=2) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=66&q=2&slack=1)</small>
 
 **3. Nick Nurse — "Dean gives us some nice options. Both him and Ant are still trying to figure it out." — Nick Nurse evaluates Dean's debut performance** [02:11](https://www.youtube.com/watch?v=yKfZn47rc34&t=131s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "**Dean** is good. I think both him and **Ant** are still trying to 
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=131s](https://www.youtube.com/watch?v=yKfZn47rc34&t=131s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=131&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=131&q=3) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=131&q=3&slack=1)</small>
 
 **4. Nick Nurse — "He really sprints the floor, gives us some spacing in transition, can knock down that three." — Nick Nurse on KCP's impact on the bench unit** [02:51](https://www.youtube.com/watch?v=yKfZn47rc34&t=171s)
 
@@ -34,7 +34,7 @@ Nick Nurse: "**KCP** is a two-way player. He really sprints the floor, gives us 
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=171s](https://www.youtube.com/watch?v=yKfZn47rc34&t=171s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=171&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=171&q=4) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=171&q=4&slack=1)</small>
 
 **5. Nick Nurse — "I would like him to crack the paint even more in transition." — Nick Nurse on Jaylen Brown's role in an up-tempo system** [03:29](https://www.youtube.com/watch?v=yKfZn47rc34&t=209s)
 
@@ -42,7 +42,7 @@ Nick Nurse: "**Jaylen Brown** is obviously very good. He is a skill one-on-one p
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=209s](https://www.youtube.com/watch?v=yKfZn47rc34&t=209s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=209&q=5)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=209&q=5) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=209&q=5&slack=1)</small>
 
 **6. Nick Nurse — "We really need it because there's a lot of times when guys are attached blocking out." — Nick Nurse on VJ's rebounding and defensive value** [05:06](https://www.youtube.com/watch?v=yKfZn47rc34&t=306s)
 
@@ -50,7 +50,7 @@ Nick Nurse: "We really need it because there's a lot of times when guys are atta
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=306s](https://www.youtube.com/watch?v=yKfZn47rc34&t=306s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=306&q=6)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=306&q=6) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=306&q=6&slack=1)</small>
 
 **7. Nick Nurse — "He's a good shooter and I think it's not going to be that way every night." — Nick Nurse on KCP's three-point shooting volume** [05:42](https://www.youtube.com/watch?v=yKfZn47rc34&t=342s)
 
@@ -58,7 +58,7 @@ Nick Nurse: "**KCP** is a good shooter and I think it's not going to be that way
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=342s](https://www.youtube.com/watch?v=yKfZn47rc34&t=342s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=342&q=7)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=342&q=7) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=342&q=7&slack=1)</small>
 
 **8. Nick Nurse — "It seems like when he gets going offensively, it also translates to the other end." — Nick Nurse on Jaylen Brown's plus-minus and defensive impact** [06:22](https://www.youtube.com/watch?v=yKfZn47rc34&t=382s)
 
@@ -66,7 +66,7 @@ Nick Nurse: "For me, it seems like when he gets going offensively, it also trans
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=382s](https://www.youtube.com/watch?v=yKfZn47rc34&t=382s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=382&q=8)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=382&q=8) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=382&q=8&slack=1)</small>
 
 **9. Nick Nurse — "I thought there was a dozen possessions where I wasn't real happy with what we did." — Nick Nurse on team offensive organization without LeBron James** [07:19](https://www.youtube.com/watch?v=yKfZn47rc34&t=439s)
 
@@ -74,7 +74,7 @@ Nick Nurse: "I thought there was a dozen possessions where I wasn't real happy w
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=439s](https://www.youtube.com/watch?v=yKfZn47rc34&t=439s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=439&q=9)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=439&q=9) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=439&q=9&slack=1)</small>
 
 **10. Nick Nurse — "We certainly weren't happy about that second quarter. You come out and you kind of jump on them." — Nick Nurse on the team's second-quarter defensive struggles** [08:36](https://www.youtube.com/watch?v=yKfZn47rc34&t=516s)
 
@@ -82,4 +82,4 @@ Nick Nurse: "We certainly weren't happy about that second quarter. You come out 
 
 [https://www.youtube.com/watch?v=yKfZn47rc34&t=516s](https://www.youtube.com/watch?v=yKfZn47rc34&t=516s)
 
-<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=516&q=10)</small>
+<small>[Clip it](presserclips://clip?v=yKfZn47rc34&t=516&q=10) · [Send to Slack](presserclips://clip?v=yKfZn47rc34&t=516&q=10&slack=1)</small>

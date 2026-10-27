@@ -10,7 +10,7 @@ Royce O'Neale: "He has grown a lot. I think coming in he was drafted when he was
 
 [https://www.youtube.com/watch?v=dTIqV_ofEAU&t=44s](https://www.youtube.com/watch?v=dTIqV_ofEAU&t=44s)
 
-<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=44&q=1)</small>
+<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=44&q=1) · [Send to Slack](presserclips://clip?v=dTIqV_ofEAU&t=44&q=1&slack=1)</small>
 
 **2. Royce O'Neale — "Want to treat it like it is a real game in training camp" — Royce O'Neale discusses the team's focus on simulating high-pressure game situations during training camp.** [01:45](https://www.youtube.com/watch?v=dTIqV_ofEAU&t=105s)
 
@@ -18,4 +18,4 @@ Royce O'Neale: "It is big time. Going into the season there is going to be a lot
 
 [https://www.youtube.com/watch?v=dTIqV_ofEAU&t=105s](https://www.youtube.com/watch?v=dTIqV_ofEAU&t=105s)
 
-<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=105&q=2)</small>
+<small>[Clip it](presserclips://clip?v=dTIqV_ofEAU&t=105&q=2) · [Send to Slack](presserclips://clip?v=dTIqV_ofEAU&t=105&q=2&slack=1)</small>

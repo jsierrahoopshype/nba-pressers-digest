@@ -10,7 +10,7 @@ Brian Keefe: "We came into the game really wanting to focus on getting ourselves
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=0s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=0s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=0&q=1) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=0&q=1&slack=1)</small>
 
 **2. Brian Keefe — "we didn't have enough physicality I thought early, but then we made the shift" — Brian Keefe on the Wizards' defensive intensity and physicality** [01:06](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=66s)
 
@@ -18,7 +18,7 @@ Brian Keefe: "Both teams were scoring. Some of them they were making some contes
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=66s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=66s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=66&q=2)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=66&q=2) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=66&q=2&slack=1)</small>
 
 **3. Brian Keefe — "he's been doing that the same first two games. He did with start with his defense" — Brian Keefe on Kyshawn George's offensive performance** [02:16](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=136s)
 
@@ -26,7 +26,7 @@ Brian Keefe: "He played within his game and he's been doing that the same first 
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=136s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=136s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=136&q=3)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=136&q=3) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=136&q=3&slack=1)</small>
 
 **4. Brian Keefe — "we're always looking to get better as a staff first of all, but yeah, these are we treat" — Brian Keefe on managing preseason lineups and growth** [03:06](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=186s)
 
@@ -34,7 +34,7 @@ Brian Keefe: "We're always looking to get better as a staff first of all, but ye
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=186s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=186s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=186&q=4)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=186&q=4) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=186&q=4&slack=1)</small>
 
 **5. Brian Keefe — "he came in here like that. I think this guy's led the league in assists for a few years" — Brian Keefe on Trae Young's pass-first play style** [03:33](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=213s)
 
@@ -42,7 +42,7 @@ Brian Keefe: "He came in here like that. I think this guy's led the league in as
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=213s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=213s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=213&q=5)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=213&q=5) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=213&q=5&slack=1)</small>
 
 **6. Brian Keefe — "obviously, it gives us that, you know, that spacing for us. Like you have to guard him" — Brian Keefe on Trey Johnson's potential bench role** [04:34](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=274s)
 
@@ -50,7 +50,7 @@ Brian Keefe: "Obviously, it gives us that, you know, that spacing for us. Like y
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=274s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=274s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=274&q=6)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=274&q=6) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=274&q=6&slack=1)</small>
 
 **7. Brian Keefe — "DeAndre's one of the better interior defenders in our league for a long time" — Brian Keefe on DeAndre Ayton's defensive value** [05:39](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=339s)
 
@@ -58,7 +58,7 @@ Brian Keefe: "DeAndre's one of the better interior defenders in our league for a
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=339s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=339s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=339&q=7)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=339&q=7) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=339&q=7&slack=1)</small>
 
 **8. Kyshawn George — "just more durability, being more confident in my body what I could do out there" — Kyshawn George on his offseason physical development** [07:00](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=420s)
 
@@ -66,7 +66,7 @@ Kyshawn George: "Just more durability, being more confident in my body what I co
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=420s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=420s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=420&q=8)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=420&q=8) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=420&q=8&slack=1)</small>
 
 **9. Kyshawn George — "for me it's my efficiency and my turnovers. I try to make the right decision" — Kyshawn George on his focus areas for preseason** [07:38](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=458s)
 
@@ -74,7 +74,7 @@ Kyshawn George: "For me it's my efficiency and my turnovers. I try to make the r
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=458s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=458s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=458&q=9)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=458&q=9) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=458&q=9&slack=1)</small>
 
 **10. Kyshawn George — "at the end of the day it's not about starting, it's about winning games" — Kyshawn George on earning a starting spot** [08:10](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=490s)
 
@@ -82,7 +82,7 @@ Kyshawn George: "Yeah, 100 percent. But I think at the end of the day it's not a
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=490s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=490s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=490&q=10)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=490&q=10) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=490&q=10&slack=1)</small>
 
 **11. Kyshawn George — "they're big bodies, they've been in the league dominating for a reason" — Kyshawn George on the team's physicality and big men** [08:46](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=526s)
 
@@ -90,7 +90,7 @@ Kyshawn George: "They're big bodies, they've been in the league dominating for a
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=526s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=526s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=526&q=11)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=526&q=11) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=526&q=11&slack=1)</small>
 
 **12. Kyshawn George — "I seen this guy work all summer, so I'm really not surprised" — Kyshawn George on Bilal's performance** [09:19](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=559s)
 
@@ -98,7 +98,7 @@ Kyshawn George: "I seen this guy work all summer, so I'm really not surprised. O
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=559s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=559s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=559&q=12)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=559&q=12) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=559&q=12&slack=1)</small>
 
 **13. Kyshawn George — "I think it's building our chemistry. We can see each other like looking for specific types of connections" — Kyshawn George on the team's high turnover rate** [09:41](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=581s)
 
@@ -106,7 +106,7 @@ Kyshawn George: "I think it's building our chemistry. We can see each other like
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=581s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=581s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=581&q=13)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=581&q=13) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=581&q=13&slack=1)</small>
 
 **14. Kyshawn George — "you have to be confident in your abilities and then let it come to you" — Kyshawn George on his evolution as a professional player** [10:30](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=630s)
 
@@ -114,7 +114,7 @@ Kyshawn George: "I think you have to be confident in your abilities and then let
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=630s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=630s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=630&q=14)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=630&q=14) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=630&q=14&slack=1)</small>
 
 **15. Kyshawn George — "it's making them take tough shots and then limiting their possessions to only one" — Kyshawn George on the team's defensive identity** [11:01](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=661s)
 
@@ -122,7 +122,7 @@ Kyshawn George: "It's making them take tough shots and then limiting their posse
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=661s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=661s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=661&q=15)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=661&q=15) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=661&q=15&slack=1)</small>
 
 **16. Kyshawn George — "I don't see it as a difficulty, I see it as an opportunity for me" — Kyshawn George on adjusting to his role** [11:52](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=712s)
 
@@ -130,4 +130,4 @@ Kyshawn George: "I don't see it as a difficulty, I see it as an opportunity for 
 
 [https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=712s](https://www.youtube.com/watch?v=aW-Ml3F0J2Y&t=712s)
 
-<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=712&q=16)</small>
+<small>[Clip it](presserclips://clip?v=aW-Ml3F0J2Y&t=712&q=16) · [Send to Slack](presserclips://clip?v=aW-Ml3F0J2Y&t=712&q=16&slack=1)</small>

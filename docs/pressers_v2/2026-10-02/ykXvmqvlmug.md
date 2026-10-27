@@ -10,7 +10,7 @@ Alex Caruso: "I'm sure like most camps, if not everybody, there's more fouls tha
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=20s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=20s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=20&q=1) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=20&q=1&slack=1)</small>
 
 **2. Alex Caruso — "Kenrich Williams is one of the competitive leaders on this team. Every time he plays, he's trying to win." — Alex Caruso on Kenrich Williams' competitive leadership** [01:20](https://www.youtube.com/watch?v=ykXvmqvlmug&t=80s)
 
@@ -18,7 +18,7 @@ Alex Caruso: "**Kenrich Williams** is one of the competitive leaders on this tea
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=80s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=80s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=80&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=80&q=2) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=80&q=2&slack=1)</small>
 
 **3. Alex Caruso — "Kenrich Williams is a pretty complete basketball player. He was all-defensive team member as well as all-NBA." — Alex Caruso on Kenrich Williams' versatility and defensive impact** [02:48](https://www.youtube.com/watch?v=ykXvmqvlmug&t=168s)
 
@@ -26,7 +26,7 @@ Alex Caruso: "**Kenrich Williams** is a pretty complete basketball player. He wa
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=168s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=168s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=168&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=168&q=3) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=168&q=3&slack=1)</small>
 
 **4. Jalen Williams — "I feel like when I came, I learned the endings of all the plays. Now I can learn the base." — Jalen Williams on his growth and understanding of defensive principles** [04:15](https://www.youtube.com/watch?v=ykXvmqvlmug&t=255s)
 
@@ -34,7 +34,7 @@ Jalen Williams: "I feel like when I came, I learned the endings of all the plays
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=255s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=255s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=255&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=255&q=4) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=255&q=4&slack=1)</small>
 
 **5. Jalen Williams — "We want to play fast, we want to get on run and when we're able to get turnovers and stops." — Jalen Williams on playing with speed on the defensive end** [05:11](https://www.youtube.com/watch?v=ykXvmqvlmug&t=311s)
 
@@ -42,7 +42,7 @@ Jalen Williams: "We want to play fast, we want to get on run and when we're able
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=311s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=311s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=311&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=311&q=5) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=311&q=5&slack=1)</small>
 
 **6. Jalen Williams — "He's a professional on and off the court. He's very vocal out there for me especially." — Jalen Williams on Kenrich Williams' professionalism and vocal leadership** [05:44](https://www.youtube.com/watch?v=ykXvmqvlmug&t=344s)
 
@@ -50,7 +50,7 @@ Jalen Williams: "He's a professional on and off the court. He's very vocal out t
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=344s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=344s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=344&q=6)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=344&q=6) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=344&q=6&slack=1)</small>
 
 **7. Jalen Williams — "Bennett is a really good, just complete. He can read the game really well." — Jalen Williams on the rookies' ability to read the game** [07:52](https://www.youtube.com/watch?v=ykXvmqvlmug&t=472s)
 
@@ -58,7 +58,7 @@ Jalen Williams: "**Bennett** is a really good, just complete. He can read the ga
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=472s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=472s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=472&q=7)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=472&q=7) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=472&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "He's done a great job because he's obviously got limitations because of his size." — Mark Daigneault on Alex Caruso's defensive limitations and competitive motor** [12:08](https://www.youtube.com/watch?v=ykXvmqvlmug&t=728s)
 
@@ -66,7 +66,7 @@ Mark Daigneault: "He's done a great job because he's obviously got limitations b
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=728s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=728s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=728&q=8)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=728&q=8) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=728&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "We just we always look at things on a possession basis. The games are made up of possessions." — Mark Daigneault on the team's possession-based approach to winning** [13:05](https://www.youtube.com/watch?v=ykXvmqvlmug&t=785s)
 
@@ -74,7 +74,7 @@ Mark Daigneault: "We just we always look at things on a possession basis. The ga
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=785s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=785s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=785&q=9)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=785&q=9) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=785&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "A young player that's never been in an NBA camp and never played with this type of speed." — Mark Daigneault on the young players' progress in training camp** [14:13](https://www.youtube.com/watch?v=ykXvmqvlmug&t=853s)
 
@@ -82,7 +82,7 @@ Mark Daigneault: "A young player that's never been in an NBA camp and never play
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=853s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=853s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=853&q=10)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=853&q=10) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=853&q=10&slack=1)</small>
 
 **11. Mark Daigneault — "His processing in pick-and-roll defense is top of the line. There's no one I've been around." — Mark Daigneault on Alex Caruso's elite pick-and-roll defensive processing** [16:05](https://www.youtube.com/watch?v=ykXvmqvlmug&t=965s)
 
@@ -90,4 +90,4 @@ Mark Daigneault: "His processing in pick-and-roll defense is top of the line. Th
 
 [https://www.youtube.com/watch?v=ykXvmqvlmug&t=965s](https://www.youtube.com/watch?v=ykXvmqvlmug&t=965s)
 
-<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=965&q=11)</small>
+<small>[Clip it](presserclips://clip?v=ykXvmqvlmug&t=965&q=11) · [Send to Slack](presserclips://clip?v=ykXvmqvlmug&t=965&q=11&slack=1)</small>

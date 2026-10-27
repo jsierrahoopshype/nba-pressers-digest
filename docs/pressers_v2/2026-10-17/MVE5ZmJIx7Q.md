@@ -10,7 +10,7 @@ Jamahl Mosley: "I loved it. Obviously, we have to find ways to do it when they'r
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=9s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=9s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=9&q=1) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=9&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "Our depth is going to be the key for us this year." — Jamahl Mosley on the importance of team depth this season** [00:39](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=39s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "Our depth is going to be the key for us this year. That is going
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=39s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=39s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=39&q=2)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=39&q=2) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=39&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "These guys are doing a great job of creating space." — Jamahl Mosley on spacing and creating pressure at the rim** [01:12](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=72s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "These guys are doing a great job of creating space. Different li
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=72s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=72s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=72&q=3)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=72&q=3) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=72&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "They're willing to take on the challenges. I think it's very big and how connected they are." — Jamahl Mosley on the team's willingness to accept challenges** [01:45](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=105s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "They're willing to take on the challenges. I think it's very big
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=105s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=105s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=105&q=4)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=105&q=4) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=105&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "When that ball is flowing freely, it's fun to watch." — Jamahl Mosley on the beauty of playing with pace** [02:19](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=139s)
 
@@ -42,7 +42,7 @@ Jamahl Mosley: "We showed a couple clips at halftime of just the beauty of playi
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=139s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=139s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=139&q=5)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=139&q=5) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=139&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "He's putting so much work in off the court with Sham." — Jamahl Mosley on Zion Williamson's work ethic and shooting** [02:44](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=164s)
 
@@ -50,7 +50,7 @@ Jamahl Mosley: "Oh, I love that he shot it. Gosh, I love it. And they look good.
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=164s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=164s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=164&q=6)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=164&q=6) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=164&q=6&slack=1)</small>
 
 **7. Jamahl Mosley — "We want to play smart basketball, execution-wise, be very surgical in what we're doing." — Jamahl Mosley on avoiding a back-and-forth transition game** [03:13](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=193s)
 
@@ -58,7 +58,7 @@ Jamahl Mosley: "We've had a couple lulls. Washington is a team that you can get 
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=193s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=193s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=193&q=7)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=193&q=7) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=193&q=7&slack=1)</small>
 
 **8. Jamahl Mosley — "His command of the floor. We had a meeting this morning and we talked about his ability to command the floor." — Jamahl Mosley on Jeremiah's command of the floor** [05:03](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=303s)
 
@@ -66,7 +66,7 @@ Jamahl Mosley: "His command of the floor. We had a meeting this morning and we t
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=303s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=303s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=303&q=8)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=303&q=8) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=303&q=8&slack=1)</small>
 
 **9. Jamahl Mosley — "I love the energy of the building. I think it's great." — Jamahl Mosley on the energy of the home crowd** [05:26](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=326s)
 
@@ -74,7 +74,7 @@ Jamahl Mosley: "I love the energy. I love the energy of the building. I think it
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=326s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=326s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=326&q=9)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=326&q=9) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=326&q=9&slack=1)</small>
 
 **10. Jamahl Mosley — "There is a balance for when you command the floor and have everybody in their places." — Jamahl Mosley on the balance between scoring and playmaking** [06:21](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=381s)
 
@@ -82,7 +82,7 @@ Jamahl Mosley: "That's the conversation, that's the film we watch. He did a grea
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=381s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=381s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=381&q=10)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=381&q=10) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=381&q=10&slack=1)</small>
 
 **11. Jamahl Mosley — "You continue to preach it. What we're building, you want it to be sustainable." — Jamahl Mosley on maintaining the process throughout the season** [07:26](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=446s)
 
@@ -90,4 +90,4 @@ Jamahl Mosley: "You continue to preach it. I understand it's the preseason and g
 
 [https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=446s](https://www.youtube.com/watch?v=MVE5ZmJIx7Q&t=446s)
 
-<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=446&q=11)</small>
+<small>[Clip it](presserclips://clip?v=MVE5ZmJIx7Q&t=446&q=11) · [Send to Slack](presserclips://clip?v=MVE5ZmJIx7Q&t=446&q=11&slack=1)</small>

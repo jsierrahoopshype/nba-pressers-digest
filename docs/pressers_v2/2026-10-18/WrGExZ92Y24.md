@@ -10,7 +10,7 @@ Charles Lee: "I think that team is better than where we started. I think we made
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=10s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=10s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=10&q=1) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=10&q=1&slack=1)</small>
 
 **2. Charles Lee — "No matter who is in the lineup, we have a certain way that we want to play." — Charles Lee on improving team execution and reducing turnovers** [01:08](https://www.youtube.com/watch?v=WrGExZ92Y24&t=68s)
 
@@ -18,7 +18,7 @@ Charles Lee: "No matter who is in the lineup, we have a certain way that we want
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=68s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=68s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=68&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=68&q=2) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=68&q=2&slack=1)</small>
 
 **3. Charles Lee — "There's still no timeline on those guys. They're making really good progress." — Charles Lee on status of injured Hornets players** [01:52](https://www.youtube.com/watch?v=WrGExZ92Y24&t=112s)
 
@@ -26,7 +26,7 @@ Charles Lee: "There's still no timeline on those guys. They're making really goo
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=112s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=112s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=112&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=112&q=3) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=112&q=3&slack=1)</small>
 
 **4. Charles Lee — "Love the growth that Christian made. I think just like the rest of our team." — Charles Lee praises Christian Anderson's growth and defensive impact** [02:09](https://www.youtube.com/watch?v=WrGExZ92Y24&t=129s)
 
@@ -34,7 +34,7 @@ Charles Lee: "Love the growth that Christian made. I think just like the rest of
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=129s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=129s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=129&q=4)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=129&q=4) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=129&q=4&slack=1)</small>
 
 **5. Charles Lee — "The intensity of the game goes up, how much longer those guys play during the game." — Charles Lee on the challenge of season opener against Brooklyn** [03:11](https://www.youtube.com/watch?v=WrGExZ92Y24&t=191s)
 
@@ -42,4 +42,4 @@ Charles Lee: "Yeah, it definitely has a little bit of an impact. Like you said, 
 
 [https://www.youtube.com/watch?v=WrGExZ92Y24&t=191s](https://www.youtube.com/watch?v=WrGExZ92Y24&t=191s)
 
-<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=191&q=5)</small>
+<small>[Clip it](presserclips://clip?v=WrGExZ92Y24&t=191&q=5) · [Send to Slack](presserclips://clip?v=WrGExZ92Y24&t=191&q=5&slack=1)</small>

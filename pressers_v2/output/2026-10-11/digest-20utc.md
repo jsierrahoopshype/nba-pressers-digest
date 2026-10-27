@@ -14,7 +14,7 @@ Charles Lee: "I am very happy for **Taylor Jenkins** and his opportunity, not on
 
 [https://www.youtube.com/watch?v=5FVDKuu2iVk&t=14s](https://www.youtube.com/watch?v=5FVDKuu2iVk&t=14s)
 
-<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=14&q=1) · [Send to Slack](presserclips://clip?v=5FVDKuu2iVk&t=14&q=1&slack=1)</small>
 
 **2. Charles Lee — "He's a big piece of what we do." — Charles Lee on Brandon Clarke's return and rehab progress** [01:36](https://www.youtube.com/watch?v=5FVDKuu2iVk&t=96s)
 
@@ -22,7 +22,7 @@ Charles Lee: "He is a big piece of what we do. I am also just happy for Brandon.
 
 [https://www.youtube.com/watch?v=5FVDKuu2iVk&t=96s](https://www.youtube.com/watch?v=5FVDKuu2iVk&t=96s)
 
-<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=96&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=96&q=2) · [Send to Slack](presserclips://clip?v=5FVDKuu2iVk&t=96&q=2&slack=1)</small>
 
 **3. Charles Lee — "We got to be better. And I think that it's another really good opportunity for us." — Charles Lee on team consistency and defensive focus** [02:02](https://www.youtube.com/watch?v=5FVDKuu2iVk&t=122s)
 
@@ -30,7 +30,7 @@ Charles Lee: "It was a whole team thing. It is a staff thing, it is a team thing
 
 [https://www.youtube.com/watch?v=5FVDKuu2iVk&t=122s](https://www.youtube.com/watch?v=5FVDKuu2iVk&t=122s)
 
-<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=122&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=122&q=3) · [Send to Slack](presserclips://clip?v=5FVDKuu2iVk&t=122&q=3&slack=1)</small>
 
 **4. Charles Lee — "I see the person, the professional, the way that he takes care of his body." — Charles Lee on Dennis Schroder's professional growth and impact** [04:51](https://www.youtube.com/watch?v=5FVDKuu2iVk&t=291s)
 
@@ -38,7 +38,7 @@ Charles Lee: "It is a holistic view of how much he has grown. I see the person, 
 
 [https://www.youtube.com/watch?v=5FVDKuu2iVk&t=291s](https://www.youtube.com/watch?v=5FVDKuu2iVk&t=291s)
 
-<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=291&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5FVDKuu2iVk&t=291&q=4) · [Send to Slack](presserclips://clip?v=5FVDKuu2iVk&t=291&q=4&slack=1)</small>
 
 ---
 

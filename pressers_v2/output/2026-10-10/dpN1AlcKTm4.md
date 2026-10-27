@@ -10,7 +10,7 @@ Jarrett Allen: "Just learning how to adjust to the league. For me, it's a new le
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=12s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=12s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=12&q=1) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=12&q=1&slack=1)</small>
 
 **2. Jarrett Allen — "I felt like he adjusted very well to what we were doing." — Jarrett Allen on Evan Mobley's integration into the starting lineup** [00:54](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=54s)
 
@@ -18,7 +18,7 @@ Jarrett Allen: "I felt like he adjusted very well to what we were doing. We had 
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=54s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=54s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=54&q=2) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=54&q=2&slack=1)</small>
 
 **3. Jarrett Allen — "His athleticism is going to be huge for us." — Jarrett Allen on Evan Mobley's specific contributions to the team** [01:09](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=69s)
 
@@ -26,7 +26,7 @@ Jarrett Allen: "Switchability, three-point shooting, athleticism. Honestly, his 
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=69s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=69s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=69&q=3)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=69&q=3) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=69&q=3&slack=1)</small>
 
 **4. Jarrett Allen — "He's understood the system, how we play, how the locker room works." — Jarrett Allen on the benefits of Evan Mobley having a full training camp** [01:46](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=106s)
 
@@ -34,7 +34,7 @@ Jarrett Allen: "For me, I had to learn on the fly. You don't know all the plays 
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=106s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=106s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=106&q=4)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=106&q=4) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=106&q=4&slack=1)</small>
 
 **5. Jarrett Allen — "We're able to get his input on a lot of things." — Jarrett Allen on the value of James Harden's input during training camp** [02:11](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=131s)
 
@@ -42,7 +42,7 @@ Jarrett Allen: "It's huge and we're able to get his input on a lot of things. La
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=131s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=131s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=131&q=5)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=131&q=5) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=131&q=5&slack=1)</small>
 
 **6. Jarrett Allen — "He's an excellent pick-and-roll player. You can call him one of the best." — Jarrett Allen on the pick-and-roll chemistry with James Harden** [02:35](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=155s)
 
@@ -50,7 +50,7 @@ Jarrett Allen: "It's super exciting. He's an excellent pick-and-roll player. You
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=155s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=155s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=155&q=6)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=155&q=6) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=155&q=6&slack=1)</small>
 
 **7. Jarrett Allen — "He's a competitor. At the end of the day, he wants to be on the court." — Jarrett Allen on Jaylen Brown's competitive mindset heading into the season** [02:46](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=166s)
 
@@ -58,7 +58,7 @@ Jarrett Allen: "He took a lot of that to heart. He's a competitor. At the end of
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=166s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=166s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=166&q=7)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=166&q=7) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=166&q=7&slack=1)</small>
 
 **8. Jarrett Allen — "I called the screen, you got to listen to me." — Jarrett Allen on holding teammates accountable for defensive breakdowns** [03:30](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=210s)
 
@@ -66,7 +66,7 @@ Jarrett Allen: "The conversations are good. I had the conversation during the ga
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=210s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=210s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=210&q=8)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=210&q=8) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=210&q=8&slack=1)</small>
 
 **9. Jarrett Allen — "Now it's time to actually get on the court when the minutes matter." — Jarrett Allen on the development expectations for Tyrese Haliburton** [04:08](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=248s)
 
@@ -74,4 +74,4 @@ Jarrett Allen: "**Donovan Mitchell** the other day talked about **Tyrese Halibur
 
 [https://www.youtube.com/watch?v=dpN1AlcKTm4&t=248s](https://www.youtube.com/watch?v=dpN1AlcKTm4&t=248s)
 
-<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=248&q=9)</small>
+<small>[Clip it](presserclips://clip?v=dpN1AlcKTm4&t=248&q=9) · [Send to Slack](presserclips://clip?v=dpN1AlcKTm4&t=248&q=9&slack=1)</small>

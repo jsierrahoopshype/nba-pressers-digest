@@ -10,7 +10,7 @@ PJ Hall: "I would just say being around. When we are playing, I make sure I go i
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=3s](https://www.youtube.com/watch?v=1L7svvpfSko&t=3s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=3&q=1) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=3&q=1&slack=1)</small>
 
 **2. PJ Hall — "My mom grew up here and so I still have family down here as well and so I love Charleston." — PJ Hall on his connection to South Carolina and joining the Hornets** [00:33](https://www.youtube.com/watch?v=1L7svvpfSko&t=33s)
 
@@ -18,7 +18,7 @@ PJ Hall: "A lot of the guys keep on saying, 'Yeah man, we are basically home for
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=33s](https://www.youtube.com/watch?v=1L7svvpfSko&t=33s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=33&q=2) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=33&q=2&slack=1)</small>
 
 **3. PJ Hall — "Just continue to grow my versatility, whether it be offensive or defensive, being able to play multiple positions." — PJ Hall on his goals for versatility and system knowledge** [01:21](https://www.youtube.com/watch?v=1L7svvpfSko&t=81s)
 
@@ -26,7 +26,7 @@ PJ Hall: "Just continue to grow my versatility, whether it be offensive or defen
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=81s](https://www.youtube.com/watch?v=1L7svvpfSko&t=81s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=81&q=3) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=81&q=3&slack=1)</small>
 
 **4. PJ Hall — "I talk to Hunter Tyson a good bit. We talk all the time. We've gone through some similar situations." — PJ Hall on his relationship with coach Brad Brownell and Hunter Tyson** [01:58](https://www.youtube.com/watch?v=1L7svvpfSko&t=118s)
 
@@ -34,4 +34,4 @@ PJ Hall: "I haven't talked to him in a few weeks, but I talk to **Hunter Tyson**
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=118s](https://www.youtube.com/watch?v=1L7svvpfSko&t=118s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=118&q=4)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=118&q=4) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=118&q=4&slack=1)</small>

@@ -10,7 +10,7 @@ Coach Sweeney: "the three-point shooting for Atlanta in the second half, you kno
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=5s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=5s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=5&q=1) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=5&q=1&slack=1)</small>
 
 **2. Coach Sweeney — "defensively, I think we can do a much better job than we did tonight" — Coach Sweeney on defensive improvements needed after first game** [00:42](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=42s)
 
@@ -18,7 +18,7 @@ Coach Sweeney: "defensively, I think we can do a much better job than we did ton
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=42s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=42s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=42&q=2) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=42&q=2&slack=1)</small>
 
 **3. Coach Sweeney — "he got to the free throw line so many times, I think he had like 13 free throws" — Coach Sweeney on Shai Gilgeous-Alexander's impact and free throw attempts** [01:35](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=95s)
 
@@ -26,7 +26,7 @@ Coach Sweeney: "he got to the free throw line so many times, I think he had like
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=95s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=95s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=95&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=95&q=3) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=95&q=3&slack=1)</small>
 
 **4. Coach Sweeney — "I love his aggressiveness. I thought he did a great job really trying to put pressure on the defense" — Coach Sweeney on Paolo Banchero's aggressiveness and potential** [02:27](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=147s)
 
@@ -34,7 +34,7 @@ Coach Sweeney: "I love his aggressiveness. I thought he did a great job really t
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=147s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=147s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=147&q=4) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=147&q=4&slack=1)</small>
 
 **5. Coach Sweeney — "we would like to keep Paolo under 40 minutes probably if I had to guess" — Coach Sweeney on managing Paolo Banchero's minutes and bench depth** [03:17](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=197s)
 
@@ -42,7 +42,7 @@ Coach Sweeney: "we would like to keep Paolo under 40 minutes probably if I had t
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=197s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=197s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=197&q=5)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=197&q=5) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=197&q=5&slack=1)</small>
 
 **6. Wendell Carter Jr. — "sent them to the free throw line a little too much" — Wendell Carter Jr. on free throws and defensive rebounding** [03:56](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=236s)
 
@@ -50,7 +50,7 @@ Wendell Carter Jr.: "sent them to the free throw line a little too much from mys
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=236s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=236s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=236&q=6)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=236&q=6) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=236&q=6&slack=1)</small>
 
 **7. Wendell Carter Jr. — "we lost focus of taking out the three-point line, you know, guys like CJ, Nikil" — Wendell Carter Jr. on defensive focus and turnovers** [05:31](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=331s)
 
@@ -58,7 +58,7 @@ Wendell Carter Jr.: "we lost focus of taking out the three-point line, you know,
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=331s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=331s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=331&q=7)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=331&q=7) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=331&q=7&slack=1)</small>
 
 **8. Wendell Carter Jr. — "the new offense requires us to get up the court quickly, which means you got to be in shape" — Wendell Carter Jr. on new offensive habits and turnovers** [09:21](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=561s)
 
@@ -66,7 +66,7 @@ Wendell Carter Jr.: "the new offense requires us to get up the court quickly, wh
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=561s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=561s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=561&q=8)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=561&q=8) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=561&q=8&slack=1)</small>
 
 **9. Paolo Banchero — "turnovers were big and I think just guarding the three-point line" — Paolo Banchero on turnovers and guarding the perimeter** [10:53](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=653s)
 
@@ -74,7 +74,7 @@ Paolo Banchero: "turnovers were big and I think just guarding the three-point li
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=653s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=653s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=653&q=9)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=653&q=9) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=653&q=9&slack=1)</small>
 
 **10. Paolo Banchero — "just getting stops. The ball was moving on offense" — Paolo Banchero on defensive stops and ball movement** [11:11](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=671s)
 
@@ -82,7 +82,7 @@ Paolo Banchero: "just getting stops. The ball was moving on offense, but yeah, j
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=671s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=671s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=671&q=10)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=671&q=10) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=671&q=10&slack=1)</small>
 
 **11. Paolo Banchero — "some of the stuff that killed us tonight, it's been a common theme throughout the preseason" — Paolo Banchero on addressing recurring issues from preseason** [12:04](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=724s)
 
@@ -90,7 +90,7 @@ Paolo Banchero: "some of the stuff that killed us tonight, it's been a common th
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=724s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=724s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=724&q=11)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=724&q=11) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=724&q=11&slack=1)</small>
 
 **12. Paolo Banchero — "he wanted to wait till the clock is zero to say something to me" — Paolo Banchero on Jalen Johnson's post-game comments** [12:54](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=774s)
 
@@ -98,7 +98,7 @@ Paolo Banchero: "he wanted to wait till the clock is zero to say something to me
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=774s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=774s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=774&q=12)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=774&q=12) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=774&q=12&slack=1)</small>
 
 **13. Paolo Banchero — "there were times where we did maybe get a little stagnant or weren't playing with the pace" — Paolo Banchero on offensive pacing and team growth** [13:54](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=834s)
 
@@ -106,7 +106,7 @@ Paolo Banchero: "there were times where we did maybe get a little stagnant or we
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=834s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=834s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=834&q=13)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=834&q=13) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=834&q=13&slack=1)</small>
 
 **14. Paolo Banchero — "coaches worked a lot with me just on how he wants me to play on offense" — Paolo Banchero on his decisiveness and coaching influence** [14:29](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=869s)
 
@@ -114,7 +114,7 @@ Paolo Banchero: "coaches worked a lot with me just on how he wants me to play on
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=869s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=869s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=869&q=14)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=869&q=14) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=869&q=14&slack=1)</small>
 
 **15. Paolo Banchero — "just going to finish rather than looking for the foul" — Paolo Banchero on his approach to drawing fouls** [15:49](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=949s)
 
@@ -122,7 +122,7 @@ Paolo Banchero: "just going to finish rather than looking for the foul, I think 
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=949s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=949s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=949&q=15)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=949&q=15) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=949&q=15&slack=1)</small>
 
 **16. Paolo Banchero — "we got a lot of talented players on this team and we want everybody to be aggressive" — Paolo Banchero on team talent and aggressive play** [16:20](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=980s)
 
@@ -130,4 +130,4 @@ Paolo Banchero: "we got a lot of talented players on this team and we want every
 
 [https://www.youtube.com/watch?v=PvIlY5xaKEg&t=980s](https://www.youtube.com/watch?v=PvIlY5xaKEg&t=980s)
 
-<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=980&q=16)</small>
+<small>[Clip it](presserclips://clip?v=PvIlY5xaKEg&t=980&q=16) · [Send to Slack](presserclips://clip?v=PvIlY5xaKEg&t=980&q=16&slack=1)</small>

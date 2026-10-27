@@ -10,7 +10,7 @@ Naz Reid: "I'm getting a lot more involved into the offenses and also defense. J
 
 [https://www.youtube.com/watch?v=Q72k5_ziZIw&t=16s](https://www.youtube.com/watch?v=Q72k5_ziZIw&t=16s)
 
-<small>[Clip it](presserclips://clip?v=Q72k5_ziZIw&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Q72k5_ziZIw&t=16&q=1) · [Send to Slack](presserclips://clip?v=Q72k5_ziZIw&t=16&q=1&slack=1)</small>
 
 **2. Naz Reid — "It's been tough for me just because I'm trying to get stuff together off the court and on the court." — Naz Reid on his transition to the Charlotte Hornets** [01:26](https://www.youtube.com/watch?v=Q72k5_ziZIw&t=86s)
 
@@ -18,7 +18,7 @@ Naz Reid: "It's been tough for me just because I'm trying to get stuff together 
 
 [https://www.youtube.com/watch?v=Q72k5_ziZIw&t=86s](https://www.youtube.com/watch?v=Q72k5_ziZIw&t=86s)
 
-<small>[Clip it](presserclips://clip?v=Q72k5_ziZIw&t=86&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Q72k5_ziZIw&t=86&q=2) · [Send to Slack](presserclips://clip?v=Q72k5_ziZIw&t=86&q=2&slack=1)</small>
 
 **3. Naz Reid — "His patience, his consistency, and I think his leadership is starting to kind of form." — Naz Reid on Brandon Miller's leadership and growth** [03:33](https://www.youtube.com/watch?v=Q72k5_ziZIw&t=213s)
 
@@ -26,4 +26,4 @@ Naz Reid: "His patience, his consistency, and I think his leadership is starting
 
 [https://www.youtube.com/watch?v=Q72k5_ziZIw&t=213s](https://www.youtube.com/watch?v=Q72k5_ziZIw&t=213s)
 
-<small>[Clip it](presserclips://clip?v=Q72k5_ziZIw&t=213&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Q72k5_ziZIw&t=213&q=3) · [Send to Slack](presserclips://clip?v=Q72k5_ziZIw&t=213&q=3&slack=1)</small>

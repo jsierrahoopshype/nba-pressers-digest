@@ -12,7 +12,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=12s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=12s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=12&q=1) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=12&q=1&slack=1)</small>
 
 **2. Jalen Green — "I don't care who's out there, you know they're going to come out and play hard." — Jalen Green on the team's developing rotation and chemistry** [01:08](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=68s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=68s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=68s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=68&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=68&q=2) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=68&q=2&slack=1)</small>
 
 **3. Jalen Green — "Our stops and getting stops and getting out and running is going to be a big part." — Jalen Green on the team's offensive pace and unselfishness** [01:58](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=118s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=118s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=118s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=118&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=118&q=3) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=118&q=3&slack=1)</small>
 
 **4. Jalen Green — "I think we already are very good at communicating to each other, talking." — Jalen Green on the team's defensive communication and chemistry** [02:46](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=166s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=166s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=166s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=166&q=4)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=166&q=4) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=166&q=4&slack=1)</small>
 
 **5. Jalen Green — "I feel like we're already established like how we going to play." — Jalen Green on team's progress heading into the regular season** [03:33](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=213s)
 
@@ -52,7 +52,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=213s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=213s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=213&q=5)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=213&q=5) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=213&q=5&slack=1)</small>
 
 **6. Jalen Green — "I feel like I've always been able to guard on ball." — Jalen Green on his defensive focus and help-side awareness** [04:19](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=259s)
 
@@ -62,7 +62,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=259s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=259s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=259&q=6)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=259&q=6) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=259&q=6&slack=1)</small>
 
 **7. Jalen Green — "I think he contributes to that a lot." — Jalen Green on developing chemistry with Miles Bridges** [05:09](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=309s)
 
@@ -72,7 +72,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=309s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=309s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=309&q=7)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=309&q=7) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=309&q=7&slack=1)</small>
 
 **8. Jalen Green — "I feel like I've had the ball in my hands my whole career." — Jalen Green on his evolution as a playmaker** [05:45](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=345s)
 
@@ -82,4 +82,4 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=tEt8LE0LrXg&t=345s](https://www.youtube.com/watch?v=tEt8LE0LrXg&t=345s)
 
-<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=345&q=8)</small>
+<small>[Clip it](presserclips://clip?v=tEt8LE0LrXg&t=345&q=8) · [Send to Slack](presserclips://clip?v=tEt8LE0LrXg&t=345&q=8&slack=1)</small>

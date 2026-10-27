@@ -10,7 +10,7 @@ Unidentified speaker: "**Kyle Filipowski** had one of the more interesting quote
 
 [https://www.youtube.com/watch?v=4ZNec5QgaUc&t=923s](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=923s)
 
-<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=923&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=923&q=1) · [Send to Slack](presserclips://clip?v=4ZNec5QgaUc&t=923&q=1&slack=1)</small>
 
 **2. Unidentified speaker — "maturity was mentioned five, six, seven times from different guys today when talking about Bryce Sensabaugh" — Bryce Sensabaugh is praised by teammates for his work ethic and maturity.** [24:54](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s)
 
@@ -18,4 +18,4 @@ Unidentified speaker: "**Bryce** had a quote about he is 19, hasn't actually pla
 
 [https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s)
 
-<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=1494&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=1494&q=2) · [Send to Slack](presserclips://clip?v=4ZNec5QgaUc&t=1494&q=2&slack=1)</small>

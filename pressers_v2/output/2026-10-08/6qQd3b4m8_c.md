@@ -10,7 +10,7 @@ Scoot Henderson: "It feels good. Obviously you look up when I'm younger I'm look
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=16s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=16s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=16&q=1) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=16&q=1&slack=1)</small>
 
 **2. Scoot Henderson — "That's just how we should play with all the players that we have, the depth that we have." — Scoot Henderson on the team's emphasis on ball movement** [01:04](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=64s)
 
@@ -18,7 +18,7 @@ Scoot Henderson: "That's just how we should play with all the players that we ha
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=64s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=64s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=64&q=2)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=64&q=2) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=64&q=2&slack=1)</small>
 
 **3. Scoot Henderson — "Chauncey Billups wants me to attack the basket, go to score." — Scoot Henderson on the team's focus on getting everyone involved** [01:50](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=110s)
 
@@ -26,7 +26,7 @@ Scoot Henderson: "It made it easier for me just in a way of not trying to worry 
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=110s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=110s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=110&q=3)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=110&q=3) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=110&q=3&slack=1)</small>
 
 **4. Scoot Henderson — "I've heard a couple times Damian Lillard talk about Shaedon Sharpe, he's seen a lot of joy out of him." — Scoot Henderson on Shaedon Sharpe's positive energy** [02:27](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=147s)
 
@@ -34,7 +34,7 @@ Scoot Henderson: "I've heard a couple times **Damian Lillard** talk about **Shae
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=147s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=147s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=147&q=4) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=147&q=4&slack=1)</small>
 
 **5. Scoot Henderson — "Damian Lillard has been a great mentor." — Scoot Henderson on the mentorship from teammates** [03:26](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=206s)
 
@@ -42,4 +42,4 @@ Scoot Henderson: "**Damian Lillard** has been a great mentor just him getting he
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=206s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=206s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=206&q=5)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=206&q=5) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=206&q=5&slack=1)</small>

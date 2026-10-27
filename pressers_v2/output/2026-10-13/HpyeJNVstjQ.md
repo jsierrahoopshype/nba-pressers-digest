@@ -10,7 +10,7 @@ Jordan Ott: "The ankle is recovering at a good rate, but that's the one where we
 
 [https://www.youtube.com/watch?v=HpyeJNVstjQ&t=30s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=30s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=30&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=30&q=1) · [Send to Slack](presserclips://clip?v=HpyeJNVstjQ&t=30&q=1&slack=1)</small>
 
 **2. Jordan Ott — "He knows how to prepare his self, his body and mind for what's about to come." — Jordan Ott on the team's preparation for the upcoming season** [01:13](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=73s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "He knows how to prepare his self, his body and mind for what's abou
 
 [https://www.youtube.com/watch?v=HpyeJNVstjQ&t=73s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=73s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=73&q=2) · [Send to Slack](presserclips://clip?v=HpyeJNVstjQ&t=73&q=2&slack=1)</small>
 
 **3. Jordan Ott — "his ability to still move in today's league, I think that's different." — Jordan Ott on the unique shooting ability of Kevin Durant** [02:30](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=150s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "His ability to still move in today's league, I think that's differe
 
 [https://www.youtube.com/watch?v=HpyeJNVstjQ&t=150s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=150s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=150&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=150&q=3) · [Send to Slack](presserclips://clip?v=HpyeJNVstjQ&t=150&q=3&slack=1)</small>
 
 **4. Jordan Ott — "He's a confident shooter now, off the bounce and off the catch." — Jordan Ott on Kevin Durant's improved shot selection and confidence** [05:00](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=300s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "He's a confident shooter now, off the bounce and off the catch. He'
 
 [https://www.youtube.com/watch?v=HpyeJNVstjQ&t=300s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=300s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=300&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=300&q=4) · [Send to Slack](presserclips://clip?v=HpyeJNVstjQ&t=300&q=4&slack=1)</small>
 
 **5. Jordan Ott — "If you just play some time in the NBA, you see how depth matters." — Jordan Ott on the importance of depth in the NBA** [07:22](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=442s)
 
@@ -42,7 +42,7 @@ Jordan Ott: "If you just play some time in the NBA, you see how depth matters. Y
 
 [https://www.youtube.com/watch?v=HpyeJNVstjQ&t=442s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=442s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=442&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=442&q=5) · [Send to Slack](presserclips://clip?v=HpyeJNVstjQ&t=442&q=5&slack=1)</small>
 
 **6. Jordan Ott — "We don't want to change the player per se, like we want to highlight their greatest skills." — Jordan Ott on balancing player strengths with team system** [09:14](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=554s)
 
@@ -50,4 +50,4 @@ Jordan Ott: "We don't want to change the player per se, like we want to highligh
 
 [https://www.youtube.com/watch?v=HpyeJNVstjQ&t=554s](https://www.youtube.com/watch?v=HpyeJNVstjQ&t=554s)
 
-<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=554&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HpyeJNVstjQ&t=554&q=6) · [Send to Slack](presserclips://clip?v=HpyeJNVstjQ&t=554&q=6&slack=1)</small>

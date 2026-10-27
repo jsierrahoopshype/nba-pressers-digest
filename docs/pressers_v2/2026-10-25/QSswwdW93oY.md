@@ -10,7 +10,7 @@ Donovan Mitchell: "I think the biggest thing is one, some are sloppy turnovers, 
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=0s](https://www.youtube.com/watch?v=QSswwdW93oY&t=0s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=0&q=1) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=0&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "he's the X-factor, he's our centerpiece back there, he's doing everything." — Donovan Mitchell on Jarrett Allen's early season impact** [00:26](https://www.youtube.com/watch?v=QSswwdW93oY&t=26s)
 
@@ -18,7 +18,7 @@ Donovan Mitchell: "He's the X-factor, he's our centerpiece back there, he's doin
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=26s](https://www.youtube.com/watch?v=QSswwdW93oY&t=26s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=26&q=2)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=26&q=2) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=26&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "some of it is late game execution, it's a different five, understanding that." — Donovan Mitchell on late game execution and closing out games** [01:04](https://www.youtube.com/watch?v=QSswwdW93oY&t=64s)
 
@@ -26,7 +26,7 @@ Donovan Mitchell: "To even point, I think turnovers, lapses of who we're closing
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=64s](https://www.youtube.com/watch?v=QSswwdW93oY&t=64s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=64&q=3)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=64&q=3) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=64&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "I think there's an unpredictability to it, I think it's just the random." — Donovan Mitchell on the unpredictability of late game defensive pressure** [01:57](https://www.youtube.com/watch?v=QSswwdW93oY&t=117s)
 
@@ -34,7 +34,7 @@ Donovan Mitchell: "I think there's an unpredictability to it, I think it's just 
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=117s](https://www.youtube.com/watch?v=QSswwdW93oY&t=117s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=117&q=4)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=117&q=4) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=117&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "it builds character of a group, you find out what you're made of." — Donovan Mitchell on the value of early season high-pressure games** [03:03](https://www.youtube.com/watch?v=QSswwdW93oY&t=183s)
 
@@ -42,7 +42,7 @@ Donovan Mitchell: "It builds character of a group, you find out what you're made
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=183s](https://www.youtube.com/watch?v=QSswwdW93oY&t=183s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=183&q=5)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=183&q=5) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=183&q=5&slack=1)</small>
 
 **6. Donovan Mitchell — "it's a feel thing, tonight Peyton had a mismatch, we went to that action." — Donovan Mitchell on how the team determines who takes over games** [04:02](https://www.youtube.com/watch?v=QSswwdW93oY&t=242s)
 
@@ -50,7 +50,7 @@ Donovan Mitchell: "It's a feel thing, tonight **Peyton** had a mismatch, we went
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=242s](https://www.youtube.com/watch?v=QSswwdW93oY&t=242s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=242&q=6)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=242&q=6) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=242&q=6&slack=1)</small>
 
 **7. Donovan Mitchell — "when you have a group that wants to win together, I think it's huge." — Donovan Mitchell on the team's chemistry and shared winning mentality** [05:18](https://www.youtube.com/watch?v=QSswwdW93oY&t=318s)
 
@@ -58,7 +58,7 @@ Donovan Mitchell: "When you have a group that wants to win together, I think it'
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=318s](https://www.youtube.com/watch?v=QSswwdW93oY&t=318s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=318&q=7)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=318&q=7) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=318&q=7&slack=1)</small>
 
 **8. Donovan Mitchell — "you can't just show up in April and expect to figure it out." — Donovan Mitchell on the importance of the NBA regular season** [06:23](https://www.youtube.com/watch?v=QSswwdW93oY&t=383s)
 
@@ -66,4 +66,4 @@ Donovan Mitchell: "You can't just show up in April and expect to figure it out. 
 
 [https://www.youtube.com/watch?v=QSswwdW93oY&t=383s](https://www.youtube.com/watch?v=QSswwdW93oY&t=383s)
 
-<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=383&q=8)</small>
+<small>[Clip it](presserclips://clip?v=QSswwdW93oY&t=383&q=8) · [Send to Slack](presserclips://clip?v=QSswwdW93oY&t=383&q=8&slack=1)</small>

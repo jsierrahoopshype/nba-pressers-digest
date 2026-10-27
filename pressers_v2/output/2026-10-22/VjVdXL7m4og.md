@@ -10,7 +10,7 @@ Jeff Peterson: "I have said continuously that keeping Brandon here long-term was
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=128s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=128s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=128&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=128&q=1) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=128&q=1&slack=1)</small>
 
 **2. Jeff Peterson — "his work ethic, his drive, his determination, and desire to continue to elevate himself" — Jeff Peterson highlights Brandon Miller's work ethic and drive** [02:43](https://www.youtube.com/watch?v=VjVdXL7m4og&t=163s)
 
@@ -18,7 +18,7 @@ Jeff Peterson: "Brandon is everyone knows how talented of a player he is, but I 
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=163s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=163s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=163&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=163&q=2) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=163&q=2&slack=1)</small>
 
 **3. Charles Lee — "it is exciting to be able to celebrate such a phenomenal basketball player" — Charles Lee praises Brandon Miller as a phenomenal person** [04:18](https://www.youtube.com/watch?v=VjVdXL7m4og&t=258s)
 
@@ -26,7 +26,7 @@ Charles Lee: "It is exciting to be able to celebrate such a phenomenal basketbal
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=258s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=258s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=258&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=258&q=3) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=258&q=3&slack=1)</small>
 
 **4. Charles Lee — "he is truly obsessed with daily improvement" — Charles Lee on Brandon Miller's growth and daily improvement** [05:01](https://www.youtube.com/watch?v=VjVdXL7m4og&t=301s)
 
@@ -34,7 +34,7 @@ Charles Lee: "This contract not only shows the short-term significance of what w
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=301s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=301s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=301&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=301&q=4) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=301&q=4&slack=1)</small>
 
 **5. Brandon Miller — "I tell my hat off to JP every day" — Brandon Miller credits Jeff Peterson and Charles Lee for his development** [06:03](https://www.youtube.com/watch?v=VjVdXL7m4og&t=363s)
 
@@ -42,7 +42,7 @@ Brandon Miller: "I tell my hat off to JP every day. I talk to him like one of th
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=363s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=363s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=363&q=5)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=363&q=5) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=363&q=5&slack=1)</small>
 
 **6. Brandon Miller — "I feel like I have fought a lot of adversity" — Brandon Miller on overcoming adversity with his sister's support** [06:53](https://www.youtube.com/watch?v=VjVdXL7m4og&t=413s)
 
@@ -50,7 +50,7 @@ Brandon Miller: "I feel like I have fought a lot of adversity, and I think one p
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=413s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=413s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=413&q=6)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=413&q=6) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=413&q=6&slack=1)</small>
 
 **7. Brandon Miller — "the main thing is just controlling the controllables" — Brandon Miller on controlling the controllables in his career** [08:04](https://www.youtube.com/watch?v=VjVdXL7m4og&t=484s)
 
@@ -58,7 +58,7 @@ Brandon Miller: "I left it to the people in charge of course, my agency and **Je
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=484s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=484s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=484&q=7)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=484&q=7) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=484&q=7&slack=1)</small>
 
 **8. Brandon Miller — "one thing that we preach every day is just daily consistency" — Brandon Miller on the importance of daily consistency** [08:50](https://www.youtube.com/watch?v=VjVdXL7m4og&t=530s)
 
@@ -66,7 +66,7 @@ Brandon Miller: "One thing that we preach every day is just daily consistency, a
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=530s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=530s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=530&q=8)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=530&q=8) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=530&q=8&slack=1)</small>
 
 **9. Jeff Peterson — "players do not come along very often of his caliber" — Jeff Peterson on identifying Brandon Miller's potential early** [09:27](https://www.youtube.com/watch?v=VjVdXL7m4og&t=567s)
 
@@ -74,7 +74,7 @@ Jeff Peterson: "Watching him play in college, players do not come along very oft
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=567s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=567s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=567&q=9)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=567&q=9) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=567&q=9&slack=1)</small>
 
 **10. Brandon Miller — "our goal is of course playoffs" — Brandon Miller on the team's goal of becoming a playoff contender** [10:08](https://www.youtube.com/watch?v=VjVdXL7m4og&t=608s)
 
@@ -82,7 +82,7 @@ Brandon Miller: "Our goal is of course playoffs. We want to be known as a playof
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=608s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=608s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=608&q=10)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=608&q=10) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=608&q=10&slack=1)</small>
 
 **11. Brandon Miller — "the first people that I called was of course my family" — Brandon Miller on the importance of family support** [11:19](https://www.youtube.com/watch?v=VjVdXL7m4og&t=679s)
 
@@ -90,7 +90,7 @@ Brandon Miller: "The first people that I called was of course my family, just to
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=679s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=679s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=679&q=11)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=679&q=11) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=679&q=11&slack=1)</small>
 
 **12. Brandon Miller — "it all started from my rookie year which is just getting on the people about getting back on defense" — Brandon Miller on his leadership role and daily consistency** [12:50](https://www.youtube.com/watch?v=VjVdXL7m4og&t=770s)
 
@@ -98,7 +98,7 @@ Brandon Miller: "It all started from my rookie year which is just getting on the
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=770s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=770s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=770&q=12)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=770&q=12) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=770&q=12&slack=1)</small>
 
 **13. Brandon Miller — "I feel like it was my birthday on the plane again" — Brandon Miller on his teammates' support and team culture** [13:38](https://www.youtube.com/watch?v=VjVdXL7m4og&t=818s)
 
@@ -106,7 +106,7 @@ Brandon Miller: "I feel like it was my birthday on the plane again. You do not r
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=818s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=818s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=818&q=13)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=818&q=13) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=818&q=13&slack=1)</small>
 
 **14. Brandon Miller — "whole lot stronger than what it was before we got here" — Brandon Miller on his evolving relationship with Charles Lee** [14:26](https://www.youtube.com/watch?v=VjVdXL7m4og&t=866s)
 
@@ -114,7 +114,7 @@ Brandon Miller: "Whole lot stronger than what it was before we got here. I think
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=866s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=866s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=866&q=14)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=866&q=14) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=866&q=14&slack=1)</small>
 
 **15. Jeff Peterson — "my personal philosophy, I always want to try to leave something in a better place than I found it" — Jeff Peterson on Brandon Miller's growth and character** [15:39](https://www.youtube.com/watch?v=VjVdXL7m4og&t=939s)
 
@@ -122,7 +122,7 @@ Jeff Peterson: "My personal philosophy, I always want to try to leave something 
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=939s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=939s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=939&q=15)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=939&q=15) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=939&q=15&slack=1)</small>
 
 **16. Charles Lee — "it is like at the backbone of our organization, backbone of our culture" — Charles Lee on Brandon Miller's development as a cornerstone player** [16:19](https://www.youtube.com/watch?v=VjVdXL7m4og&t=979s)
 
@@ -130,7 +130,7 @@ Charles Lee: "Player development on the court and actually like we take a holist
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=979s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=979s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=979&q=16)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=979&q=16) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=979&q=16&slack=1)</small>
 
 **17. Brandon Miller — "I feel like we need the same energy, but we understand it is the first game" — Brandon Miller on the importance of fan energy** [19:11](https://www.youtube.com/watch?v=VjVdXL7m4og&t=1151s)
 
@@ -138,7 +138,7 @@ Brandon Miller: "I feel like we need the same energy, but we understand it is th
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=1151s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=1151s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=1151&q=17)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=1151&q=17) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=1151&q=17&slack=1)</small>
 
 **18. Charles Lee — "his personality, like to watch the joy that he brings to everyone" — Charles Lee on Brandon Miller's unique personality and competitive nature** [18:01](https://www.youtube.com/watch?v=VjVdXL7m4og&t=1081s)
 
@@ -146,4 +146,4 @@ Charles Lee: "His personality, like to watch the joy that he brings to everyone,
 
 [https://www.youtube.com/watch?v=VjVdXL7m4og&t=1081s](https://www.youtube.com/watch?v=VjVdXL7m4og&t=1081s)
 
-<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=1081&q=18)</small>
+<small>[Clip it](presserclips://clip?v=VjVdXL7m4og&t=1081&q=18) · [Send to Slack](presserclips://clip?v=VjVdXL7m4og&t=1081&q=18&slack=1)</small>

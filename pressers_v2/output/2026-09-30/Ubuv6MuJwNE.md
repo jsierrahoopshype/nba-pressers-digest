@@ -10,7 +10,7 @@ J.B. Bickerstaff: "It opens up so much for our guys' strengths. We don't want to
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=46s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=46&q=1) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=46&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "He's a well-rounded basketball player that I think has just settled into who he needs to be" — J.B. Bickerstaff praises Kevin Huerter's growth and versatility with the Detroit Pistons.** [01:33](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "I think he's comfortable. He understands who we are, his team
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=93s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=93&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=93&q=2) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=93&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "We're not asking guys to come in here and change who they are." — J.B. Bickerstaff emphasizes a culture of freedom and growth for all players in Detroit.** [02:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "It's the nature of what we do here in Detroit. Everybody come
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=167s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=167&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=167&q=3) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=167&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "I trust him wholeheartedly that he's going to make the right decision for the team." — J.B. Bickerstaff highlights his strong, trusting relationship with Trajan Langdon.** [03:47](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s)
 
@@ -34,4 +34,4 @@ J.B. Bickerstaff: "It's great. And that's the thing with **Trajan** is he's open
 
 [https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s](https://www.youtube.com/watch?v=Ubuv6MuJwNE&t=227s)
 
-<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=227&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Ubuv6MuJwNE&t=227&q=4) · [Send to Slack](presserclips://clip?v=Ubuv6MuJwNE&t=227&q=4&slack=1)</small>

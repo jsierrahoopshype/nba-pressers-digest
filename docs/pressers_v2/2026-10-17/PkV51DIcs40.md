@@ -10,7 +10,7 @@ Will Hardy: "A lot to takeaway from a preseason game. I think our team is contin
 
 [https://www.youtube.com/watch?v=PkV51DIcs40&t=5s](https://www.youtube.com/watch?v=PkV51DIcs40&t=5s)
 
-<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=5&q=1) · [Send to Slack](presserclips://clip?v=PkV51DIcs40&t=5&q=1&slack=1)</small>
 
 **2. Will Hardy — "He's such a calm person that he doesn't get rattled, at least outwardly." — Will Hardy on Keyonte George's playmaking and calm demeanor** [01:21](https://www.youtube.com/watch?v=PkV51DIcs40&t=81s)
 
@@ -18,7 +18,7 @@ Will Hardy: "I thought his playmaking was pretty good tonight. He's such a calm 
 
 [https://www.youtube.com/watch?v=PkV51DIcs40&t=81s](https://www.youtube.com/watch?v=PkV51DIcs40&t=81s)
 
-<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=81&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=81&q=2) · [Send to Slack](presserclips://clip?v=PkV51DIcs40&t=81&q=2&slack=1)</small>
 
 **3. Will Hardy — "We mixed in a couple of different looks throughout preseason, you know, we have to get to know our team." — Will Hardy on defensive growth and scheme variety** [02:29](https://www.youtube.com/watch?v=PkV51DIcs40&t=149s)
 
@@ -26,7 +26,7 @@ Will Hardy: "I think we're getting better. We mixed in a couple of different loo
 
 [https://www.youtube.com/watch?v=PkV51DIcs40&t=149s](https://www.youtube.com/watch?v=PkV51DIcs40&t=149s)
 
-<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=149&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=149&q=3) · [Send to Slack](presserclips://clip?v=PkV51DIcs40&t=149&q=3&slack=1)</small>
 
 **4. Will Hardy — "It's got to be a relief for him just to get out there and play." — Will Hardy on Simone Fontecchio's return to the court** [03:25](https://www.youtube.com/watch?v=PkV51DIcs40&t=205s)
 
@@ -34,7 +34,7 @@ Will Hardy: "I'm just happy for Simone. It's been a long summer, long offseason.
 
 [https://www.youtube.com/watch?v=PkV51DIcs40&t=205s](https://www.youtube.com/watch?v=PkV51DIcs40&t=205s)
 
-<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=205&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=205&q=4) · [Send to Slack](presserclips://clip?v=PkV51DIcs40&t=205&q=4&slack=1)</small>
 
 **5. Will Hardy — "I think Ochai is continuing to show that he has the ability to impact the game on both ends." — Will Hardy on Ochai Agbaji's development and impact** [03:56](https://www.youtube.com/watch?v=PkV51DIcs40&t=236s)
 
@@ -42,4 +42,4 @@ Will Hardy: "Free throws is big for anybody on the offensive side. I think last 
 
 [https://www.youtube.com/watch?v=PkV51DIcs40&t=236s](https://www.youtube.com/watch?v=PkV51DIcs40&t=236s)
 
-<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=236&q=5)</small>
+<small>[Clip it](presserclips://clip?v=PkV51DIcs40&t=236&q=5) · [Send to Slack](presserclips://clip?v=PkV51DIcs40&t=236&q=5&slack=1)</small>

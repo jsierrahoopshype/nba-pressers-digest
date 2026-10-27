@@ -10,7 +10,7 @@ Jordan Ott: "X-rays negative, looked like in pretty good shape, obviously it's t
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=6s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=6s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=6&q=1) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=6&q=1&slack=1)</small>
 
 **2. Jordan Ott — "We need all the reps we can get right now with those two guys." — Developing rotation and confidence in Ryan Dunn and Jalen Bridges** [00:30](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=30s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "We need all the reps we can get right now with those two guys. They
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=30s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=30s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=30&q=2)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=30&q=2) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=30&q=2&slack=1)</small>
 
 **3. Jordan Ott — "Ryan has taken some of those steps where he's more solid on the basketball right now." — Ryan Dunn and Rashier's individual development and on-court progress** [01:22](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=82s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "**Ryan** has taken some of those steps where he's more solid on the
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=82s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=82s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=82&q=3)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=82&q=3) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=82&q=3&slack=1)</small>
 
 **4. Jordan Ott — "We've done a pretty good job of making the right play, some of it is overpassing." — Addressing turnover issues and team rotation strategy** [02:05](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=125s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "We've done a pretty good job of making the right play, some of it i
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=125s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=125s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=125&q=4)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=125&q=4) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=125&q=4&slack=1)</small>
 
 **5. Jordan Ott — "We want him to be more aggressive. We have such team guys and he's one of those." — Developing Josh Okogie's offensive aggression and team role** [03:00](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=180s)
 
@@ -42,7 +42,7 @@ Jordan Ott: "We want him to be more aggressive. We have such team guys and he's 
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=180s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=180s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=180&q=5)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=180&q=5) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=180&q=5&slack=1)</small>
 
 **6. Jordan Ott — "He's a big catalyst to what we can do defensively, it's not only switch but take the ball." — Josh Okogie's defensive impact and areas for improvement** [03:33](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=213s)
 
@@ -50,7 +50,7 @@ Jordan Ott: "He's a big catalyst to what we can do defensively, it's not only sw
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=213s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=213s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=213&q=6)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=213&q=6) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=213&q=6&slack=1)</small>
 
 **7. Jordan Ott — "He's a thinker. He has such speed and he's so strong and fast." — Josh Okogie's high basketball IQ and academic background** [04:02](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=242s)
 
@@ -58,7 +58,7 @@ Jordan Ott: "He's a thinker. He has such speed and he's so strong and fast, at t
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=242s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=242s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=242&q=7)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=242&q=7) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=242&q=7&slack=1)</small>
 
 **8. Jordan Ott — "I just think the depth is real. We have great depth, we got a little bigger." — Evaluating team depth and preseason progress** [04:36](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=276s)
 
@@ -66,7 +66,7 @@ Jordan Ott: "I just think the depth is real. We have great depth, we got a littl
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=276s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=276s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=276&q=8)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=276&q=8) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=276&q=8&slack=1)</small>
 
 **9. Jordan Ott — "I think we're still learning. The summer was great learning, just knowing that we had 88 games." — Coaching growth and the value of preseason games** [05:19](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=319s)
 
@@ -74,7 +74,7 @@ Jordan Ott: "I think we're still learning. The summer was great learning, just k
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=319s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=319s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=319&q=9)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=319&q=9) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=319&q=9&slack=1)</small>
 
 **10. Jordan Ott — "He knows all the reads and he can help teach our group as we progress." — Utilizing Devin Booker's experience and half-court offense** [06:11](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=371s)
 
@@ -82,7 +82,7 @@ Jordan Ott: "He knows all the reads and he can help teach our group as we progre
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=371s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=371s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=371&q=10)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=371&q=10) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=371&q=10&slack=1)</small>
 
 **11. Jordan Ott — "The first option is live, so we try to make that a scoring cut." — Strategic spacing and first-option execution** [07:07](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=427s)
 
@@ -90,7 +90,7 @@ Jordan Ott: "The first option is live, so we try to make that a scoring cut. I t
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=427s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=427s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=427&q=11)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=427&q=11) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=427&q=11&slack=1)</small>
 
 **12. Jordan Ott — "Just take the ones you can get. A lot of times in transitions when he finally has someone." — Managing Devin Booker's three-point shooting and shot selection** [07:26](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=446s)
 
@@ -98,7 +98,7 @@ Jordan Ott: "Just take the ones you can get. A lot of times in transitions when 
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=446s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=446s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=446&q=12)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=446&q=12) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=446&q=12&slack=1)</small>
 
 **13. Jordan Ott — "It's a little bit of both. It's using their experience, obviously you can watch film to see." — Integrating new players and maintaining team system** [10:54](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=654s)
 
@@ -106,4 +106,4 @@ Jordan Ott: "It's a little bit of both. It's using their experience, obviously y
 
 [https://www.youtube.com/watch?v=TCiHRtOmsDo&t=654s](https://www.youtube.com/watch?v=TCiHRtOmsDo&t=654s)
 
-<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=654&q=13)</small>
+<small>[Clip it](presserclips://clip?v=TCiHRtOmsDo&t=654&q=13) · [Send to Slack](presserclips://clip?v=TCiHRtOmsDo&t=654&q=13&slack=1)</small>

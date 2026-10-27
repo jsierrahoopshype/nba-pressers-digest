@@ -10,7 +10,7 @@ Donovan Mitchell: "I think there's more of a maturity. I think understanding tha
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=13s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=13s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=13&q=1) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=13&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "Him speaking in practice, trying to hold guys accountable, has been huge." — Darius Garland's leadership and accountability during team practice** [00:54](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=54s)
 
@@ -18,7 +18,7 @@ Donovan Mitchell: "Him speaking in practice, trying to hold guys accountable, ha
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=54s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=54s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=54&q=2) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=54&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "I told him it's like, listen, it happens to everybody." — Supporting teammates through difficult playoff experiences** [02:07](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=127s)
 
@@ -26,7 +26,7 @@ Donovan Mitchell: "I told him it's like, listen, it happens to everybody. Look a
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=127s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=127s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=127&q=3)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=127&q=3) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=127&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "I think Evan and James can really have a really strong connection." — Developing chemistry between Evan Mobley and James** [03:41](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=221s)
 
@@ -34,7 +34,7 @@ Donovan Mitchell: "I think Evan and **James** can really have a really strong co
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=221s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=221s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=221&q=4)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=221&q=4) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=221&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "I think James is one of, if not the best pick-and-roll handler with big." — Evan Mobley's potential as a pick-and-roll partner** [04:34](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=274s)
 
@@ -42,7 +42,7 @@ Donovan Mitchell: "I think **James** is one of, if not the best pick-and-roll ha
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=274s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=274s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=274&q=5)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=274&q=5) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=274&q=5&slack=1)</small>
 
 **6. Donovan Mitchell — "I don't buy into that, like in those things it's up for opinion, it's up for debate." — Dismissing external GM surveys and player rankings** [06:06](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=366s)
 
@@ -50,7 +50,7 @@ Donovan Mitchell: "I don't buy into that, like in those things it's up for opini
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=366s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=366s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=366&q=6)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=366&q=6) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=366&q=6&slack=1)</small>
 
 **7. Donovan Mitchell — "Everyone talks about the fact that Darius and I were being hounded and Evan was the one." — Addressing the narrative that Evan Mobley's development has plateaued** [07:14](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=434s)
 
@@ -58,4 +58,4 @@ Donovan Mitchell: "Everyone talks about the fact that Darius and I were being ho
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=434s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=434s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=434&q=7)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=434&q=7) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=434&q=7&slack=1)</small>

@@ -12,7 +12,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=G6HL0TBq2q4&t=353s](https://www.youtube.com/watch?v=G6HL0TBq2q4&t=353s)
 
-<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=353&q=1)</small>
+<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=353&q=1) · [Send to Slack](presserclips://clip?v=G6HL0TBq2q4&t=353&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "They've all taken the challenge on and I think they believe that that's what's going to get you over the top." — Jamahl Mosley on team-wide defensive buy-in and communication** [06:26](https://www.youtube.com/watch?v=G6HL0TBq2q4&t=386s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=G6HL0TBq2q4&t=386s](https://www.youtube.com/watch?v=G6HL0TBq2q4&t=386s)
 
-<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=386&q=2)</small>
+<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=386&q=2) · [Send to Slack](presserclips://clip?v=G6HL0TBq2q4&t=386&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "These guys being able to fly around for one another is exactly what we've asked them to do." — Jamahl Mosley on defensive communication and setting the tone** [07:07](https://www.youtube.com/watch?v=G6HL0TBq2q4&t=427s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=G6HL0TBq2q4&t=427s](https://www.youtube.com/watch?v=G6HL0TBq2q4&t=427s)
 
-<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=427&q=3)</small>
+<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=427&q=3) · [Send to Slack](presserclips://clip?v=G6HL0TBq2q4&t=427&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "End of games is going to be so important for us to continue to stay locked in." — Jamahl Mosley on end-of-game decision making and communication** [07:37](https://www.youtube.com/watch?v=G6HL0TBq2q4&t=457s)
 
@@ -42,4 +42,4 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=G6HL0TBq2q4&t=457s](https://www.youtube.com/watch?v=G6HL0TBq2q4&t=457s)
 
-<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=457&q=4)</small>
+<small>[Clip it](presserclips://clip?v=G6HL0TBq2q4&t=457&q=4) · [Send to Slack](presserclips://clip?v=G6HL0TBq2q4&t=457&q=4&slack=1)</small>

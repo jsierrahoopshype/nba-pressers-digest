@@ -10,7 +10,7 @@ Ron Holland II: "When we finally picked things up, I really want to say it was t
 
 [https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=5s](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=5s)
 
-<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=5&q=1) · [Send to Slack](presserclips://clip?v=4c0D8tM_pCQ&t=5&q=1&slack=1)</small>
 
 **2. Ron Holland II — "I just seen AT compare him to Kyrie Irving his handles, and I can agree with that" — Ron Holland II praises teammate's performance and compares him to Kyrie Irving** [00:35](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=35s)
 
@@ -18,7 +18,7 @@ Ron Holland II: "I was excited for him. We seen him this summer how he plays. I 
 
 [https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=35s](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=35s)
 
-<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=35&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=35&q=2) · [Send to Slack](presserclips://clip?v=4c0D8tM_pCQ&t=35&q=2&slack=1)</small>
 
 **3. Ron Holland II — "I went out there and when I was in the gym being intentional about working on pace" — Ron Holland II on his intentional focus on playing with pace** [01:08](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=68s)
 
@@ -26,7 +26,7 @@ Ron Holland II: "I was watching a lot of film this summer and I went out there a
 
 [https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=68s](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=68s)
 
-<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=68&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=68&q=3) · [Send to Slack](presserclips://clip?v=4c0D8tM_pCQ&t=68&q=3&slack=1)</small>
 
 **4. Ron Holland II — "I think his message was wake up defensively, we know who we are" — Ron Holland II on J.B. Bickerstaff's defensive message to the team** [01:38](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=98s)
 
@@ -34,7 +34,7 @@ Ron Holland II: "I think his message was wake up defensively, we know who we are
 
 [https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=98s](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=98s)
 
-<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=98&q=4)</small>
+<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=98&q=4) · [Send to Slack](presserclips://clip?v=4c0D8tM_pCQ&t=98&q=4&slack=1)</small>
 
 **5. Ron Holland II — "he got a taste of what Detroit is about pretty early" — Ron Holland II on the impact of rookie teammate's debut** [02:06](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=126s)
 
@@ -42,4 +42,4 @@ Ron Holland II: "He is active, he is an elite athlete, great character. He got a
 
 [https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=126s](https://www.youtube.com/watch?v=4c0D8tM_pCQ&t=126s)
 
-<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=126&q=5)</small>
+<small>[Clip it](presserclips://clip?v=4c0D8tM_pCQ&t=126&q=5) · [Send to Slack](presserclips://clip?v=4c0D8tM_pCQ&t=126&q=5&slack=1)</small>

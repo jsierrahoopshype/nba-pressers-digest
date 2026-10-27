@@ -10,7 +10,7 @@ Charles Lee: "I love that the group was able to respond after the Wizards went o
 
 [https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=17s](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=17s)
 
-<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=17&q=1) · [Send to Slack](presserclips://clip?v=ZcvsJDQEEmw&t=17&q=1&slack=1)</small>
 
 **2. Charles Lee — "Brandon had a big-time night for us, the thing that was probably most impressive was his wanting of the ball." — Charles Lee on Brandon Miller's growth and clutch performance** [01:02](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=62s)
 
@@ -18,7 +18,7 @@ Charles Lee: "Brandon had a big-time night for us, the thing that was probably m
 
 [https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=62s](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=62s)
 
-<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=62&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=62&q=2) · [Send to Slack](presserclips://clip?v=ZcvsJDQEEmw&t=62&q=2&slack=1)</small>
 
 **3. Charles Lee — "I see Dennis talking to him, I see Naz talking to him, I hear Musa, Grayson, whoever it is." — Charles Lee on Brandon Miller's maturity and team support** [01:38](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=98s)
 
@@ -26,7 +26,7 @@ Charles Lee: "As you get deep into games, you need to know where the ball is goi
 
 [https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=98s](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=98s)
 
-<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=98&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=98&q=3) · [Send to Slack](presserclips://clip?v=ZcvsJDQEEmw&t=98&q=3&slack=1)</small>
 
 **4. Charles Lee — "The thing that I have loved about Tidjane is his mindset and his approach coming into the game." — Charles Lee on Tidjane Salaun's defensive development** [02:35](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=155s)
 
@@ -34,7 +34,7 @@ Charles Lee: "The thing that I have loved about Tidjane is his mindset and his a
 
 [https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=155s](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=155s)
 
-<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=155&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=155&q=4) · [Send to Slack](presserclips://clip?v=ZcvsJDQEEmw&t=155&q=4&slack=1)</small>
 
 **5. Charles Lee — "He is another one of our versatile scorers and so when we are able to utilize him in a lot of different ways." — Charles Lee on Naz Reid's versatility and offensive impact** [03:49](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=229s)
 
@@ -42,4 +42,4 @@ Charles Lee: "He is another one of our versatile scorers and so when we are able
 
 [https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=229s](https://www.youtube.com/watch?v=ZcvsJDQEEmw&t=229s)
 
-<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=229&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ZcvsJDQEEmw&t=229&q=5) · [Send to Slack](presserclips://clip?v=ZcvsJDQEEmw&t=229&q=5&slack=1)</small>

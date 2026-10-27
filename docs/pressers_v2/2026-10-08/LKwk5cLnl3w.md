@@ -12,7 +12,7 @@ _Speakers identified: Chris Finch_
 
 [https://www.youtube.com/watch?v=LKwk5cLnl3w&t=34s](https://www.youtube.com/watch?v=LKwk5cLnl3w&t=34s)
 
-<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=34&q=1)</small>
+<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=34&q=1) · [Send to Slack](presserclips://clip?v=LKwk5cLnl3w&t=34&q=1&slack=1)</small>
 
 **2. Chris Finch — "It looks good. I haven't really noticed anything that he hasn't been able to do." — Chris Finch evaluates the return of an injured player** [01:06](https://www.youtube.com/watch?v=LKwk5cLnl3w&t=66s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Chris Finch_
 
 [https://www.youtube.com/watch?v=LKwk5cLnl3w&t=66s](https://www.youtube.com/watch?v=LKwk5cLnl3w&t=66s)
 
-<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=66&q=2)</small>
+<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=66&q=2) · [Send to Slack](presserclips://clip?v=LKwk5cLnl3w&t=66&q=2&slack=1)</small>
 
 **3. Chris Finch — "that's a team that really plays fast, as you know, not just from end to end." — Chris Finch on defensive challenges against fast-paced teams** [01:28](https://www.youtube.com/watch?v=LKwk5cLnl3w&t=88s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Chris Finch_
 
 [https://www.youtube.com/watch?v=LKwk5cLnl3w&t=88s](https://www.youtube.com/watch?v=LKwk5cLnl3w&t=88s)
 
-<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=88&q=3)</small>
+<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=88&q=3) · [Send to Slack](presserclips://clip?v=LKwk5cLnl3w&t=88&q=3&slack=1)</small>
 
 **4. Chris Finch — "I mean, he struggled to score the ball. I liked the other things that he did." — Chris Finch on the performance of Camara** [02:10](https://www.youtube.com/watch?v=LKwk5cLnl3w&t=130s)
 
@@ -42,4 +42,4 @@ _Speakers identified: Chris Finch_
 
 [https://www.youtube.com/watch?v=LKwk5cLnl3w&t=130s](https://www.youtube.com/watch?v=LKwk5cLnl3w&t=130s)
 
-<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=130&q=4)</small>
+<small>[Clip it](presserclips://clip?v=LKwk5cLnl3w&t=130&q=4) · [Send to Slack](presserclips://clip?v=LKwk5cLnl3w&t=130&q=4&slack=1)</small>

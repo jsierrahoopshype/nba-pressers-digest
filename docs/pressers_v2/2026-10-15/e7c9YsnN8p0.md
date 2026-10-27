@@ -10,7 +10,7 @@ Taylor Jenkins: "Despite the score, there was definitely some learning moments i
 
 [https://www.youtube.com/watch?v=e7c9YsnN8p0&t=19s](https://www.youtube.com/watch?v=e7c9YsnN8p0&t=19s)
 
-<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=19&q=1) · [Send to Slack](presserclips://clip?v=e7c9YsnN8p0&t=19&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "that's going to be when Cas is at his greatest is when he's full throttle" — Taylor Jenkins on Cas's physical play and early fouls** [02:21](https://www.youtube.com/watch?v=e7c9YsnN8p0&t=141s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "That's going to be when **Cas** is at his greatest is when he's
 
 [https://www.youtube.com/watch?v=e7c9YsnN8p0&t=141s](https://www.youtube.com/watch?v=e7c9YsnN8p0&t=141s)
 
-<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=141&q=2)</small>
+<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=141&q=2) · [Send to Slack](presserclips://clip?v=e7c9YsnN8p0&t=141&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "he's been aggressive looking for a shot, but it hasn't really gone in" — Taylor Jenkins on Braden's shot selection and aggressive play** [03:41](https://www.youtube.com/watch?v=e7c9YsnN8p0&t=221s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "He's been aggressive looking for a shot, but it hasn't really g
 
 [https://www.youtube.com/watch?v=e7c9YsnN8p0&t=221s](https://www.youtube.com/watch?v=e7c9YsnN8p0&t=221s)
 
-<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=221&q=3)</small>
+<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=221&q=3) · [Send to Slack](presserclips://clip?v=e7c9YsnN8p0&t=221&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "anytime it's a Bucks game, it's a celebration of our city" — Taylor Jenkins on the importance of the home opener** [05:20](https://www.youtube.com/watch?v=e7c9YsnN8p0&t=320s)
 
@@ -34,4 +34,4 @@ Taylor Jenkins: "Anytime it's a Bucks game, it's a celebration of our city, cele
 
 [https://www.youtube.com/watch?v=e7c9YsnN8p0&t=320s](https://www.youtube.com/watch?v=e7c9YsnN8p0&t=320s)
 
-<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=320&q=4)</small>
+<small>[Clip it](presserclips://clip?v=e7c9YsnN8p0&t=320&q=4) · [Send to Slack](presserclips://clip?v=e7c9YsnN8p0&t=320&q=4&slack=1)</small>

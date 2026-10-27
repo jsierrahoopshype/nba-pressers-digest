@@ -10,7 +10,7 @@ Rick Carlisle: "Didn't play well enough and didn't get enough rebounds to get an
 
 [https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=7s](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=7s)
 
-<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=7&q=1) · [Send to Slack](presserclips://clip?v=CBGJ7IuhjVA&t=7&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "He's got a 20-minute limit. At least as of today, he does." — Rick Carlisle on Aaron Nesmith's 20-minute playing time limit** [00:30](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=30s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "He's got a 20-minute limit. At least as of today, he does."
 
 [https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=30s](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=30s)
 
-<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=30&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=30&q=2) · [Send to Slack](presserclips://clip?v=CBGJ7IuhjVA&t=30&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "We needed better energy in the second half. We didn't move it nearly as well." — Rick Carlisle on lack of energy and ball movement** [01:12](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=72s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "We needed better energy in the second half. We didn't move it ne
 
 [https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=72s](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=72s)
 
-<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=72&q=3)</small>
+<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=72&q=3) · [Send to Slack](presserclips://clip?v=CBGJ7IuhjVA&t=72&q=3&slack=1)</small>
 
 **4. Rick Carlisle — "13 turnovers doesn't seem like that many, but when you get out-rebounded by 13 or 14" — Rick Carlisle on turnovers and rebounding disadvantage** [02:37](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=157s)
 
@@ -34,7 +34,7 @@ Rick Carlisle: "13 turnovers doesn't seem like that many, but when you get out-r
 
 [https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=157s](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=157s)
 
-<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=157&q=4)</small>
+<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=157&q=4) · [Send to Slack](presserclips://clip?v=CBGJ7IuhjVA&t=157&q=4&slack=1)</small>
 
 **5. Rick Carlisle — "Jarace played well. He didn't have a great shooting night, but his energy was good." — Rick Carlisle on Jarace Walker's performance despite shooting struggles** [03:19](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=199s)
 
@@ -42,4 +42,4 @@ Rick Carlisle: "Jarace played well. He didn't have a great shooting night, but h
 
 [https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=199s](https://www.youtube.com/watch?v=CBGJ7IuhjVA&t=199s)
 
-<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=199&q=5)</small>
+<small>[Clip it](presserclips://clip?v=CBGJ7IuhjVA&t=199&q=5) · [Send to Slack](presserclips://clip?v=CBGJ7IuhjVA&t=199&q=5&slack=1)</small>

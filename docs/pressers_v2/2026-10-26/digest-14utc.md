@@ -14,7 +14,7 @@ AJ Green: "That's huge. I think that has to be our entire focus the whole year. 
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=9s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=9s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=9&q=1) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=9&q=1&slack=1)</small>
 
 **2. AJ Green — "We're going to have to to guard as a unit and guard inside out, protect the paint." — AJ Green on the need for collective defensive effort against Philadelphia** [00:57](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=57s)
 
@@ -22,7 +22,7 @@ AJ Green: "We're going to have to to guard as a unit and guard inside out, prote
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=57s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=57s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=57&q=2)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=57&q=2) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=57&q=2&slack=1)</small>
 
 **3. AJ Green — "Only give up one shot, limit offensive rebounds." — AJ Green on limiting opponent shots and winning the margins** [02:05](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=125s)
 
@@ -30,7 +30,7 @@ AJ Green: "Only give up one shot, limit offensive rebounds. Yeah, like you said,
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=125s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=125s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=125&q=3)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=125&q=3) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=125&q=3&slack=1)</small>
 
 **4. AJ Green — "I think there's certain turnovers that will happen within the game that you can be okay with." — AJ Green on reducing turnovers through better spacing and ball movement** [03:16](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=196s)
 
@@ -38,7 +38,7 @@ AJ Green: "I think there's certain turnovers that will happen within the game th
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=196s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=196s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=196&q=4)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=196&q=4) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=196&q=4&slack=1)</small>
 
 **5. AJ Green — "The good thing is we're getting there, you know. Keep getting there and getting to the line." — AJ Green on the team's need to improve free throw shooting** [04:14](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=254s)
 
@@ -46,7 +46,7 @@ AJ Green: "Just got to make them. We practice them. Just got to make them in gam
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=254s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=254s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=254&q=5)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=254&q=5) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=254&q=5&slack=1)</small>
 
 ---
 
@@ -62,7 +62,7 @@ Grayson Allen: "two good responses during that game, first response being the re
 
 [https://www.youtube.com/watch?v=7z5xKTrMLg0&t=12s](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=12s)
 
-<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=12&q=1) · [Send to Slack](presserclips://clip?v=7z5xKTrMLg0&t=12&q=1&slack=1)</small>
 
 **2. Grayson Allen — "knew the only spot I was going to be able to get off a shot was right in the pocket" — Grayson Allen on his clutch fourth-quarter foul-drawing play** [00:59](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=59s)
 
@@ -70,7 +70,7 @@ Grayson Allen: "shot clock was winding down. I knew the only spot I was going to
 
 [https://www.youtube.com/watch?v=7z5xKTrMLg0&t=59s](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=59s)
 
-<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=59&q=2)</small>
+<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=59&q=2) · [Send to Slack](presserclips://clip?v=7z5xKTrMLg0&t=59&q=2&slack=1)</small>
 
 **3. Grayson Allen — "everything has to be perfect coverage-wise defensively, offensively, spacing, matchups, getting to spots that you want" — Grayson Allen on the team's defensive execution and rebounding** [01:50](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=110s)
 
@@ -78,7 +78,7 @@ Grayson Allen: "we executed our coverages. On their side out-of-bounds play, we 
 
 [https://www.youtube.com/watch?v=7z5xKTrMLg0&t=110s](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=110s)
 
-<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=110&q=3)</small>
+<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=110&q=3) · [Send to Slack](presserclips://clip?v=7z5xKTrMLg0&t=110&q=3&slack=1)</small>
 
 **4. Grayson Allen — "they play with a good amount of pace, they have guys that put pressure on the defense" — Grayson Allen on the challenge of facing the new-look Wizards** [02:46](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=166s)
 
@@ -86,7 +86,7 @@ Grayson Allen: "they play with a good amount of pace, they have guys that put pr
 
 [https://www.youtube.com/watch?v=7z5xKTrMLg0&t=166s](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=166s)
 
-<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=166&q=4)</small>
+<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=166&q=4) · [Send to Slack](presserclips://clip?v=7z5xKTrMLg0&t=166&q=4&slack=1)</small>
 
 **5. Grayson Allen — "rebounding is going to be a big key for us tonight" — Grayson Allen on the importance of rebounding against the Wizards** [03:26](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=206s)
 
@@ -94,7 +94,7 @@ Grayson Allen: "they are good on the offensive boards and they play three bigs t
 
 [https://www.youtube.com/watch?v=7z5xKTrMLg0&t=206s](https://www.youtube.com/watch?v=7z5xKTrMLg0&t=206s)
 
-<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=206&q=5)</small>
+<small>[Clip it](presserclips://clip?v=7z5xKTrMLg0&t=206&q=5) · [Send to Slack](presserclips://clip?v=7z5xKTrMLg0&t=206&q=5&slack=1)</small>
 
 ---
 
@@ -110,7 +110,7 @@ Sam Merrill: "It's an ongoing process of just trying to continue to grow your me
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=7s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=7s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=7&q=1) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=7&q=1&slack=1)</small>
 
 **2. Sam Merrill — "Me and Jaylon have gone pretty close and we've talked a lot about stuff like that." — Sam Merrill on Jaylon Tyson's growth and maturity** [00:50](https://www.youtube.com/watch?v=g5rh9mh012Q&t=50s)
 
@@ -118,7 +118,7 @@ Sam Merrill: "Me and Jaylon have gone pretty close and we've talked a lot about 
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=50s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=50s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=50&q=2) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=50&q=2&slack=1)</small>
 
 **3. Sam Merrill — "It's about trying to really lock in and make big-time winning plays." — Sam Merrill on the importance of maintaining leads and closing out games** [01:33](https://www.youtube.com/watch?v=g5rh9mh012Q&t=93s)
 
@@ -126,7 +126,7 @@ Sam Merrill: "It's about trying to really lock in and make big-time winning play
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=93s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=93s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=93&q=3)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=93&q=3) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=93&q=3&slack=1)</small>
 
 **4. Sam Merrill — "Our half-court defense in Game 1 was really good the whole game." — Sam Merrill on the team's defensive improvements** [03:07](https://www.youtube.com/watch?v=g5rh9mh012Q&t=187s)
 
@@ -134,7 +134,7 @@ Sam Merrill: "Our half-court defense in Game 1 was really good the whole game. O
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=187s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=187s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=187&q=4)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=187&q=4) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=187&q=4&slack=1)</small>
 
 **5. Jaylon Tyson — "I love Sam Merrill. That's like a brother to me." — Jaylon Tyson on his relationship with Sam Merrill** [03:49](https://www.youtube.com/watch?v=g5rh9mh012Q&t=229s)
 
@@ -142,7 +142,7 @@ Jaylon Tyson: "I love **Sam Merrill**. That's like a brother to me and I think h
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=229s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=229s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=229&q=5)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=229&q=5) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=229&q=5&slack=1)</small>
 
 **6. Jaylon Tyson — "The most important thing is not playing the score." — Jaylon Tyson on the team's need to focus on finishing games** [04:19](https://www.youtube.com/watch?v=g5rh9mh012Q&t=259s)
 
@@ -150,7 +150,7 @@ Jaylon Tyson: "The most important thing is not playing the score. I think at hal
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=259s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=259s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=259&q=6)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=259&q=6) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=259&q=6&slack=1)</small>
 
 **7. Jaylon Tyson — "Our job is just make his job as difficult as possible and then we'll live with the results." — Jaylon Tyson on his defensive mindset against elite players** [05:05](https://www.youtube.com/watch?v=g5rh9mh012Q&t=305s)
 
@@ -158,7 +158,7 @@ Jaylon Tyson: "I think it's just another opportunity to go out there and make hi
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=305s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=305s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=305&q=7)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=305&q=7) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=305&q=7&slack=1)</small>
 
 **8. Jaylon Tyson — "I could definitely be a pressure release for those guys." — Jaylon Tyson on his role as a pressure release for teammates** [05:31](https://www.youtube.com/watch?v=g5rh9mh012Q&t=331s)
 
@@ -166,7 +166,7 @@ Jaylon Tyson: "I could definitely be a pressure release for those guys, you know
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=331s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=331s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=331&q=8)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=331&q=8) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=331&q=8&slack=1)</small>
 
 **9. Jaylon Tyson — "It starts with the individual defense, you know, not they're a heavy ISO team." — Jaylon Tyson on defending ball-dominant players** [06:09](https://www.youtube.com/watch?v=g5rh9mh012Q&t=369s)
 
@@ -174,7 +174,7 @@ Jaylon Tyson: "It starts with the individual defense, you know, not they're a he
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=369s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=369s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=369&q=9)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=369&q=9) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=369&q=9&slack=1)</small>
 
 **10. Jaylon Tyson — "I think it's a balance. Everybody learns different ways, right?" — Jaylon Tyson on building team chemistry and communication** [06:50](https://www.youtube.com/watch?v=g5rh9mh012Q&t=410s)
 
@@ -182,7 +182,7 @@ Jaylon Tyson: "I think it's a balance. Everybody learns different ways, right? P
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=410s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=410s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=410&q=10)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=410&q=10) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=410&q=10&slack=1)</small>
 
 **11. Jaylon Tyson — "We got to figure out ways to win and figure out ways to to keep that the leads." — Jaylon Tyson on the team's underdog mentality** [07:33](https://www.youtube.com/watch?v=g5rh9mh012Q&t=453s)
 
@@ -190,7 +190,7 @@ Jaylon Tyson: "We got to figure out ways to win and figure out ways to to keep t
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=453s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=453s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=453&q=11)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=453&q=11) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=453&q=11&slack=1)</small>
 
 **12. Jaylon Tyson — "We're protecting our paint. I think that's something that we're doing really well." — Jaylon Tyson on the team's defensive progress** [08:17](https://www.youtube.com/watch?v=g5rh9mh012Q&t=497s)
 
@@ -198,7 +198,7 @@ Jaylon Tyson: "We're protecting our paint. I think that's something that we're d
 
 [https://www.youtube.com/watch?v=g5rh9mh012Q&t=497s](https://www.youtube.com/watch?v=g5rh9mh012Q&t=497s)
 
-<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=497&q=12)</small>
+<small>[Clip it](presserclips://clip?v=g5rh9mh012Q&t=497&q=12) · [Send to Slack](presserclips://clip?v=g5rh9mh012Q&t=497&q=12&slack=1)</small>
 
 ---
 

@@ -10,7 +10,7 @@ Brandon Miller: "When I first found out, it was towards the back end of it. I ha
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=13s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=13s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=13&q=1) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=13&q=1&slack=1)</small>
 
 **2. Brandon Miller — "I try to help however I can. Think buying 500 tickets for breast cancer survivors." — Brandon Miller on supporting breast cancer survivors** [00:56](https://www.youtube.com/watch?v=hZFCDhh40cc&t=56s)
 
@@ -18,7 +18,7 @@ Brandon Miller: "I try to help however I can. Think buying 500 tickets for breas
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=56s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=56s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=56&q=2) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=56&q=2&slack=1)</small>
 
 **3. Brandon Miller — "I always try to bring some kind of positivity. It's never a happy thing." — Brandon Miller on bringing positivity to families fighting cancer** [01:28](https://www.youtube.com/watch?v=hZFCDhh40cc&t=88s)
 
@@ -26,7 +26,7 @@ Brandon Miller: "I always try to bring some kind of positivity. It's never a hap
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=88s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=88s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=88&q=3)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=88&q=3) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=88&q=3&slack=1)</small>
 
 **4. Brandon Miller — "I love to help people. Me and my family love to be involved with other families." — Brandon Miller on his commitment to helping families** [02:08](https://www.youtube.com/watch?v=hZFCDhh40cc&t=128s)
 
@@ -34,7 +34,7 @@ Brandon Miller: "I was really going to do more, a lot more than that, just becau
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=128s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=128s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=128&q=4)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=128&q=4) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=128&q=4&slack=1)</small>
 
 **5. Brandon Miller — "I think it started in my rookie year. I come off the court, I shake everybody's hand." — Brandon Miller on building relationships with fans** [02:48](https://www.youtube.com/watch?v=hZFCDhh40cc&t=168s)
 
@@ -42,7 +42,7 @@ Brandon Miller: "I think it started in my rookie year. I come off the court, I s
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=168s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=168s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=168&q=5)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=168&q=5) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=168&q=5&slack=1)</small>
 
 **6. Brandon Miller — "It's never anything you want to hear, come out of any of your relative's mouth." — Brandon Miller on his mother's cancer diagnosis** [03:34](https://www.youtube.com/watch?v=hZFCDhh40cc&t=214s)
 
@@ -50,7 +50,7 @@ Brandon Miller: "It's never anything you want to hear, come out of any of your r
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=214s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=214s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=214&q=6)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=214&q=6) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=214&q=6&slack=1)</small>
 
 **7. Brandon Miller — "I try to live in today's world instead of the past. Obviously things happen." — Brandon Miller on his support system** [04:25](https://www.youtube.com/watch?v=hZFCDhh40cc&t=265s)
 
@@ -58,7 +58,7 @@ Brandon Miller: "I try to live in today's world instead of the past. Obviously t
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=265s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=265s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=265&q=7)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=265&q=7) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=265&q=7&slack=1)</small>
 
 **8. Brandon Miller — "I wanted to go on the other side, or hope they would brought her on the other side." — Brandon Miller on celebrating his mother** [04:57](https://www.youtube.com/watch?v=hZFCDhh40cc&t=297s)
 
@@ -66,4 +66,4 @@ Brandon Miller: "I wanted to go on the other side, or hope they would brought he
 
 [https://www.youtube.com/watch?v=hZFCDhh40cc&t=297s](https://www.youtube.com/watch?v=hZFCDhh40cc&t=297s)
 
-<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=297&q=8)</small>
+<small>[Clip it](presserclips://clip?v=hZFCDhh40cc&t=297&q=8) · [Send to Slack](presserclips://clip?v=hZFCDhh40cc&t=297&q=8&slack=1)</small>

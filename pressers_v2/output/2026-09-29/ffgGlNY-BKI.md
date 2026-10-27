@@ -10,7 +10,7 @@ Darius Garland: "It is super exciting to have them in the gym. All the rookies, 
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=104s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=104s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=104&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=104&q=1) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=104&q=1&slack=1)</small>
 
 **2. Darius Garland — Darius Garland is back to 100% health after off-season treatment on his toe.** [03:39](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=219s)
 
@@ -18,7 +18,7 @@ Darius Garland: "It meant a lot to me to get healthy. It was like a lingering th
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=219s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=219s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=219&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=219&q=2) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=219&q=2&slack=1)</small>
 
 **3. Darius Garland — Darius Garland is excited to reunite with Max Strus on the Clippers.** [10:07](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=607s)
 
@@ -26,7 +26,7 @@ Darius Garland: "I told Trent, Max is probably one of my favorite teammates I ha
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=607s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=607s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=607&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=607&q=3) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=607&q=3&slack=1)</small>
 
 **4. Darius Garland — Darius Garland and his family donated to the city of Gary following natural disasters.** [13:22](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=802s)
 
@@ -34,4 +34,4 @@ Darius Garland: "I am born and raised in Gary, Indiana. Gary has been through th
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=802s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=802s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=802&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=802&q=4) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=802&q=4&slack=1)</small>

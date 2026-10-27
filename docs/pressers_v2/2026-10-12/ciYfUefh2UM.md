@@ -10,7 +10,7 @@ Jabari Walker: "Obviously the jump shot opens it up. You want to be able to spac
 
 [https://www.youtube.com/watch?v=ciYfUefh2UM&t=12s](https://www.youtube.com/watch?v=ciYfUefh2UM&t=12s)
 
-<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=12&q=1) · [Send to Slack](presserclips://clip?v=ciYfUefh2UM&t=12&q=1&slack=1)</small>
 
 **2. Jabari Walker — "There is a handful of fives in the league where you think about it the night before." — Jabari Walker on the challenge of guarding centers like Mitchell Robinson** [01:22](https://www.youtube.com/watch?v=ciYfUefh2UM&t=82s)
 
@@ -18,7 +18,7 @@ Jabari Walker: "There is a handful of fives in the league where you think about 
 
 [https://www.youtube.com/watch?v=ciYfUefh2UM&t=82s](https://www.youtube.com/watch?v=ciYfUefh2UM&t=82s)
 
-<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=82&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=82&q=2) · [Send to Slack](presserclips://clip?v=ciYfUefh2UM&t=82&q=2&slack=1)</small>
 
 **3. Jabari Walker — "There is certain people when they talk it just makes sense. It is just straight to the point." — Jabari Walker on why he respects LeBron James' leadership** [02:19](https://www.youtube.com/watch?v=ciYfUefh2UM&t=139s)
 
@@ -26,7 +26,7 @@ Jabari Walker: "There is certain people when they talk it just makes sense. It i
 
 [https://www.youtube.com/watch?v=ciYfUefh2UM&t=139s](https://www.youtube.com/watch?v=ciYfUefh2UM&t=139s)
 
-<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=139&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=139&q=3) · [Send to Slack](presserclips://clip?v=ciYfUefh2UM&t=139&q=3&slack=1)</small>
 
 **4. Jabari Walker — "Tyrese is one of the hearts of the team, just the lively energy." — Jabari Walker on the energy and impact of Tyrese Maxey** [02:56](https://www.youtube.com/watch?v=ciYfUefh2UM&t=176s)
 
@@ -34,7 +34,7 @@ Jabari Walker: "Tyrese is one of the hearts of the team, just the lively energy.
 
 [https://www.youtube.com/watch?v=ciYfUefh2UM&t=176s](https://www.youtube.com/watch?v=ciYfUefh2UM&t=176s)
 
-<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=176&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=176&q=4) · [Send to Slack](presserclips://clip?v=ciYfUefh2UM&t=176&q=4&slack=1)</small>
 
 **5. Jabari Walker — "I did not realize he was so vocal. Another guy when he talks you just want to listen." — Jabari Walker on learning from LeBron James' vocal leadership** [04:30](https://www.youtube.com/watch?v=ciYfUefh2UM&t=270s)
 
@@ -42,7 +42,7 @@ Jabari Walker: "I did not realize he was so vocal. Another guy when he talks you
 
 [https://www.youtube.com/watch?v=ciYfUefh2UM&t=270s](https://www.youtube.com/watch?v=ciYfUefh2UM&t=270s)
 
-<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=270&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=270&q=5) · [Send to Slack](presserclips://clip?v=ciYfUefh2UM&t=270&q=5&slack=1)</small>
 
 **6. Jabari Walker — "He always has a solution for everything. That is the way I feel." — Jabari Walker on LeBron James' approach to team film sessions** [05:02](https://www.youtube.com/watch?v=ciYfUefh2UM&t=302s)
 
@@ -50,4 +50,4 @@ Jabari Walker: "Usually when we are watching film, I think we will ask a questio
 
 [https://www.youtube.com/watch?v=ciYfUefh2UM&t=302s](https://www.youtube.com/watch?v=ciYfUefh2UM&t=302s)
 
-<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=302&q=6)</small>
+<small>[Clip it](presserclips://clip?v=ciYfUefh2UM&t=302&q=6) · [Send to Slack](presserclips://clip?v=ciYfUefh2UM&t=302&q=6&slack=1)</small>

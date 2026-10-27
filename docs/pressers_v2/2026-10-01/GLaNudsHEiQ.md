@@ -10,7 +10,7 @@ Ariel Hukporti: "I feel like the ball movement has been quite good and training 
 
 [https://www.youtube.com/watch?v=GLaNudsHEiQ&t=15s](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=15s)
 
-<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=15&q=1) · [Send to Slack](presserclips://clip?v=GLaNudsHEiQ&t=15&q=1&slack=1)</small>
 
 **2. Ariel Hukporti — "We've been playing against each other since we were 14." — Ariel Hukporti on his long-standing rivalry with Joel Embiid** [00:54](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=54s)
 
@@ -18,7 +18,7 @@ Ariel Hukporti: "We've been playing against each other since we were 14. I had *
 
 [https://www.youtube.com/watch?v=GLaNudsHEiQ&t=54s](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=54s)
 
-<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=54&q=2) · [Send to Slack](presserclips://clip?v=GLaNudsHEiQ&t=54&q=2&slack=1)</small>
 
 **3. Ariel Hukporti — "When it comes to an end goal, we're coming together as a team." — Ariel Hukporti on team chemistry and playoff readiness** [01:43](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=103s)
 
@@ -26,7 +26,7 @@ Ariel Hukporti: "When it comes to an end goal, we're coming together as a team a
 
 [https://www.youtube.com/watch?v=GLaNudsHEiQ&t=103s](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=103s)
 
-<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=103&q=3)</small>
+<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=103&q=3) · [Send to Slack](presserclips://clip?v=GLaNudsHEiQ&t=103&q=3&slack=1)</small>
 
 **4. Ariel Hukporti — "It just makes me way better as a defender and I make him better too." — Ariel Hukporti on learning from Joel Embiid's defensive game** [02:19](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=139s)
 
@@ -34,7 +34,7 @@ Ariel Hukporti: "For me personally, it was more about patience. I feel like he h
 
 [https://www.youtube.com/watch?v=GLaNudsHEiQ&t=139s](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=139s)
 
-<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=139&q=4)</small>
+<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=139&q=4) · [Send to Slack](presserclips://clip?v=GLaNudsHEiQ&t=139&q=4&slack=1)</small>
 
 **5. Ariel Hukporti — "Championship mentality, I didn't expect nothing less." — Ariel Hukporti on championship culture and team similarities** [02:54](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=174s)
 
@@ -42,4 +42,4 @@ Ariel Hukporti: "It's obviously a different team. We got obviously more supersta
 
 [https://www.youtube.com/watch?v=GLaNudsHEiQ&t=174s](https://www.youtube.com/watch?v=GLaNudsHEiQ&t=174s)
 
-<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=174&q=5)</small>
+<small>[Clip it](presserclips://clip?v=GLaNudsHEiQ&t=174&q=5) · [Send to Slack](presserclips://clip?v=GLaNudsHEiQ&t=174&q=5&slack=1)</small>

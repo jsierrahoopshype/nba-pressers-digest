@@ -10,7 +10,7 @@ J.B. Bickerstaff: "We are obviously excited to have him back. Again, like I said
 
 [https://www.youtube.com/watch?v=Y0_axSWom54&t=6s](https://www.youtube.com/watch?v=Y0_axSWom54&t=6s)
 
-<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=6&q=1) · [Send to Slack](presserclips://clip?v=Y0_axSWom54&t=6&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "there has never been any bitterness between the group and how we feel about him" — Bickerstaff denies any bitterness regarding JD's contract negotiations** [00:43](https://www.youtube.com/watch?v=Y0_axSWom54&t=43s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "I do not know where that came from. It is negotiation, it is 
 
 [https://www.youtube.com/watch?v=Y0_axSWom54&t=43s](https://www.youtube.com/watch?v=Y0_axSWom54&t=43s)
 
-<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=43&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=43&q=2) · [Send to Slack](presserclips://clip?v=Y0_axSWom54&t=43&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "the most important thing for us was having JD back with us" — Bickerstaff on the importance of JD's return to the team** [01:08](https://www.youtube.com/watch?v=Y0_axSWom54&t=68s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "If you find yourself in these situations and you understand t
 
 [https://www.youtube.com/watch?v=Y0_axSWom54&t=68s](https://www.youtube.com/watch?v=Y0_axSWom54&t=68s)
 
-<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=68&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=68&q=3) · [Send to Slack](presserclips://clip?v=Y0_axSWom54&t=68&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "he was working on his own. You will see when he gets back, he is in great shape" — Bickerstaff on JD's individual preparation during his absence** [02:17](https://www.youtube.com/watch?v=Y0_axSWom54&t=137s)
 
@@ -34,7 +34,7 @@ J.B. Bickerstaff: "In this position, typically, guys find their solitude, so to 
 
 [https://www.youtube.com/watch?v=Y0_axSWom54&t=137s](https://www.youtube.com/watch?v=Y0_axSWom54&t=137s)
 
-<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=137&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=137&q=4) · [Send to Slack](presserclips://clip?v=Y0_axSWom54&t=137&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "he has not reached his ceiling, so there is no reason why we would not expect him" — Bickerstaff expects continued growth from JD this season** [03:08](https://www.youtube.com/watch?v=Y0_axSWom54&t=188s)
 
@@ -42,7 +42,7 @@ J.B. Bickerstaff: "Every year with young guys, you expect growth, and he has not
 
 [https://www.youtube.com/watch?v=Y0_axSWom54&t=188s](https://www.youtube.com/watch?v=Y0_axSWom54&t=188s)
 
-<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=188&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=188&q=5) · [Send to Slack](presserclips://clip?v=Y0_axSWom54&t=188&q=5&slack=1)</small>
 
 **6. J.B. Bickerstaff — "our guys in this group does a great job of making the main thing the main thing" — Bickerstaff emphasizes the team's focus on basketball over outside noise** [03:48](https://www.youtube.com/watch?v=Y0_axSWom54&t=228s)
 
@@ -50,7 +50,7 @@ J.B. Bickerstaff: "Our guys in this group does a great job of making the main th
 
 [https://www.youtube.com/watch?v=Y0_axSWom54&t=228s](https://www.youtube.com/watch?v=Y0_axSWom54&t=228s)
 
-<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=228&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=228&q=6) · [Send to Slack](presserclips://clip?v=Y0_axSWom54&t=228&q=6&slack=1)</small>
 
 **7. J.B. Bickerstaff — "the most important thing that we can do is build genuine relationships" — Bickerstaff on building genuine relationships to navigate difficult times** [04:22](https://www.youtube.com/watch?v=Y0_axSWom54&t=262s)
 
@@ -58,4 +58,4 @@ J.B. Bickerstaff: "It is just consistency. When we first showed up here, we said
 
 [https://www.youtube.com/watch?v=Y0_axSWom54&t=262s](https://www.youtube.com/watch?v=Y0_axSWom54&t=262s)
 
-<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=262&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Y0_axSWom54&t=262&q=7) · [Send to Slack](presserclips://clip?v=Y0_axSWom54&t=262&q=7&slack=1)</small>

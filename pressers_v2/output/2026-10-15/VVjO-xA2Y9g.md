@@ -12,7 +12,7 @@ _Speakers identified: Anthony Edwards_
 
 [https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=21s](https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=21s)
 
-<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=21&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=21&q=1) · [Send to Slack](presserclips://clip?v=VVjO-xA2Y9g&t=21&q=1&slack=1)</small>
 
 **2. Anthony Edwards — "I feel like maybe Jaden got to bring it up more when they are pressuring me and Rudy." — Anthony Edwards on Jaden McDaniels' role in initiating offense** [01:43](https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=103s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Anthony Edwards_
 
 [https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=103s](https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=103s)
 
-<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=103&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=103&q=2) · [Send to Slack](presserclips://clip?v=VVjO-xA2Y9g&t=103&q=2&slack=1)</small>
 
 **3. Anthony Edwards — "I got a point guard now so just playing off of maybe playing off the catch." — Anthony Edwards on evolving his role with a new point guard** [02:23](https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=143s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Anthony Edwards_
 
 [https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=143s](https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=143s)
 
-<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=143&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=143&q=3) · [Send to Slack](presserclips://clip?v=VVjO-xA2Y9g&t=143&q=3&slack=1)</small>
 
 **4. Anthony Edwards — "When Rudy on the court it is just so much easier because he is just pass first." — Anthony Edwards on the importance of early ball movement** [02:58](https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=178s)
 
@@ -42,4 +42,4 @@ _Speakers identified: Anthony Edwards_
 
 [https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=178s](https://www.youtube.com/watch?v=VVjO-xA2Y9g&t=178s)
 
-<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=178&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VVjO-xA2Y9g&t=178&q=4) · [Send to Slack](presserclips://clip?v=VVjO-xA2Y9g&t=178&q=4&slack=1)</small>

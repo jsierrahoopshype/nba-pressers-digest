@@ -10,7 +10,7 @@ Charles Lee: "The little bit of a difference was you had 11 returning guys and n
 
 [https://www.youtube.com/watch?v=t69VSaN4YE0&t=69s](https://www.youtube.com/watch?v=t69VSaN4YE0&t=69s)
 
-<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=69&q=1)</small>
+<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=69&q=1) · [Send to Slack](presserclips://clip?v=t69VSaN4YE0&t=69&q=1&slack=1)</small>
 
 **2. Charles Lee — "He has got an edge. He has got a hunger to him. He is a really smart basketball player" — Charles Lee on the value of veteran leadership and work ethic** [02:08](https://www.youtube.com/watch?v=t69VSaN4YE0&t=128s)
 
@@ -18,7 +18,7 @@ Charles Lee: "It is huge. It is why he has lasted so long in the league because 
 
 [https://www.youtube.com/watch?v=t69VSaN4YE0&t=128s](https://www.youtube.com/watch?v=t69VSaN4YE0&t=128s)
 
-<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=128&q=2)</small>
+<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=128&q=2) · [Send to Slack](presserclips://clip?v=t69VSaN4YE0&t=128&q=2&slack=1)</small>
 
 **3. Charles Lee — "We are just going to continue to try to build on our identity, all the habits" — Charles Lee on goals for the upcoming preseason games** [03:16](https://www.youtube.com/watch?v=t69VSaN4YE0&t=196s)
 
@@ -26,7 +26,7 @@ Charles Lee: "Number one, we are just going to continue to try to build on our i
 
 [https://www.youtube.com/watch?v=t69VSaN4YE0&t=196s](https://www.youtube.com/watch?v=t69VSaN4YE0&t=196s)
 
-<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=196&q=3)</small>
+<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=196&q=3) · [Send to Slack](presserclips://clip?v=t69VSaN4YE0&t=196&q=3&slack=1)</small>
 
 **4. Charles Lee — "Naz has been really exciting. The whole group is really exciting because we have a very deep team" — Charles Lee on the versatility and offensive potential of Naz Reid** [04:00](https://www.youtube.com/watch?v=t69VSaN4YE0&t=240s)
 
@@ -34,4 +34,4 @@ Charles Lee: "**Naz** has been really exciting. The whole group is really exciti
 
 [https://www.youtube.com/watch?v=t69VSaN4YE0&t=240s](https://www.youtube.com/watch?v=t69VSaN4YE0&t=240s)
 
-<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=240&q=4)</small>
+<small>[Clip it](presserclips://clip?v=t69VSaN4YE0&t=240&q=4) · [Send to Slack](presserclips://clip?v=t69VSaN4YE0&t=240&q=4&slack=1)</small>

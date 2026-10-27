@@ -14,7 +14,7 @@ Myles Turner: "It is definitely a work in progress. I think the biggest thing th
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=24s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=24s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=24&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=24&q=1) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=24&q=1&slack=1)</small>
 
 **2. Myles Turner — "That is one thing that I think is, you know, great is depth." — Myles Turner on team depth and building chemistry** [00:55](https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s)
 
@@ -22,7 +22,7 @@ Myles Turner: "We each all have our unique things about us that make us special.
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=55s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=55&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=55&q=2) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=55&q=2&slack=1)</small>
 
 **3. Myles Turner — "I have got the most years on the team, you know, just using my voice." — Myles Turner on his leadership role with the Bucks** [01:56](https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s)
 
@@ -30,7 +30,7 @@ Myles Turner: "I think since I have been in the league, I have been considered, 
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=116s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=116&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=116&q=3) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=116&q=3&slack=1)</small>
 
 **4. Myles Turner — "I am being asked to crash the glass more than I have been in the past." — Myles Turner on his evolving role in the offense** [02:33](https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s)
 
@@ -38,7 +38,7 @@ Myles Turner: "I stretch the floor, you know, quite a bit, and I am being asked 
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=153s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=153&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=153&q=4) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=153&q=4&slack=1)</small>
 
 **5. Myles Turner — "I love Taylor's intensity. I love the way his his approach, you know, to the game." — Myles Turner on Coach Taylor's intensity and culture** [03:25](https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s)
 
@@ -46,7 +46,7 @@ Myles Turner: "I love **Taylor**'s intensity. I love the way his his approach, y
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=205s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=205&q=5)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=205&q=5) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=205&q=5&slack=1)</small>
 
 **6. Myles Turner — "We are trying to, you know, establish who we are, establish our identity." — Myles Turner on the team's culture and future identity** [04:12](https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s)
 
@@ -54,7 +54,7 @@ Myles Turner: "Yeah, I think the mindset, you know, can be similar, but I I can'
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=252s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=252&q=6)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=252&q=6) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=252&q=6&slack=1)</small>
 
 **7. Myles Turner — "I am in a very blessed position, bro." — Myles Turner on his perspective as a veteran leader** [05:22](https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s)
 
@@ -62,7 +62,7 @@ Myles Turner: "I was actually just having this conversation, you know, with my m
 
 [https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s](https://www.youtube.com/watch?v=_kEhOk8pui4&t=322s)
 
-<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=322&q=7)</small>
+<small>[Clip it](presserclips://clip?v=_kEhOk8pui4&t=322&q=7) · [Send to Slack](presserclips://clip?v=_kEhOk8pui4&t=322&q=7&slack=1)</small>
 
 ---
 
@@ -78,7 +78,7 @@ VJ Edgecombe: "I think we just playing unselfish. We just playing unselfish bask
 
 [https://www.youtube.com/watch?v=bBuuMx3RFek&t=22s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=22s)
 
-<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=22&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=22&q=1) · [Send to Slack](presserclips://clip?v=bBuuMx3RFek&t=22&q=1&slack=1)</small>
 
 **2. VJ Edgecombe — "defensively you're going to get Joel Embiid. He's been really good" — VJ Edgecombe praises Joel Embiid's defensive impact** [01:26](https://www.youtube.com/watch?v=bBuuMx3RFek&t=86s)
 
@@ -86,7 +86,7 @@ VJ Edgecombe: "He's been great. Like you say, he's on both ends of the floor. Of
 
 [https://www.youtube.com/watch?v=bBuuMx3RFek&t=86s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=86s)
 
-<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=86&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=86&q=2) · [Send to Slack](presserclips://clip?v=bBuuMx3RFek&t=86&q=2&slack=1)</small>
 
 **3. VJ Edgecombe — "I got great rim presence behind me and it just even gives me more confidence" — VJ Edgecombe on the confidence provided by rim protection** [02:11](https://www.youtube.com/watch?v=bBuuMx3RFek&t=131s)
 
@@ -94,7 +94,7 @@ VJ Edgecombe: "Most of the time it's going to come down to one-on-one and you ha
 
 [https://www.youtube.com/watch?v=bBuuMx3RFek&t=131s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=131s)
 
-<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=131&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=131&q=3) · [Send to Slack](presserclips://clip?v=bBuuMx3RFek&t=131&q=3&slack=1)</small>
 
 **4. VJ Edgecombe — "JB is one of my favorite people in the world" — VJ Edgecombe on his relationship with teammate Jaylen Brown** [03:26](https://www.youtube.com/watch?v=bBuuMx3RFek&t=206s)
 
@@ -102,7 +102,7 @@ VJ Edgecombe: "JB is one of my favorite people in the world. He's a great person
 
 [https://www.youtube.com/watch?v=bBuuMx3RFek&t=206s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=206s)
 
-<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=206&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=206&q=4) · [Send to Slack](presserclips://clip?v=bBuuMx3RFek&t=206&q=4&slack=1)</small>
 
 **5. VJ Edgecombe — "his confidence is through the roof. Everyone know he plays with such a swagger" — VJ Edgecombe on Baron Filer's confidence and swagger** [04:21](https://www.youtube.com/watch?v=bBuuMx3RFek&t=261s)
 
@@ -110,7 +110,7 @@ VJ Edgecombe: "His confidence is through the roof. Everyone know he plays with s
 
 [https://www.youtube.com/watch?v=bBuuMx3RFek&t=261s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=261s)
 
-<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=261&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=261&q=5) · [Send to Slack](presserclips://clip?v=bBuuMx3RFek&t=261&q=5&slack=1)</small>
 
 **6. VJ Edgecombe — "I just try to learn, see how they try to manipulate the offensive player" — VJ Edgecombe on learning the nuances of point-of-attack defense** [04:57](https://www.youtube.com/watch?v=bBuuMx3RFek&t=297s)
 
@@ -118,7 +118,7 @@ VJ Edgecombe: "I just try to learn, see how they try to manipulate the offensive
 
 [https://www.youtube.com/watch?v=bBuuMx3RFek&t=297s](https://www.youtube.com/watch?v=bBuuMx3RFek&t=297s)
 
-<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=297&q=6)</small>
+<small>[Clip it](presserclips://clip?v=bBuuMx3RFek&t=297&q=6) · [Send to Slack](presserclips://clip?v=bBuuMx3RFek&t=297&q=6&slack=1)</small>
 
 ---
 
@@ -134,7 +134,7 @@ Taylor Jenkins: "Tyler is a little under the weather, wasn't here today. Hopeful
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=4s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=4s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=4&q=1) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=4&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "It's got to be an everyday thing behind closed doors, through the doors, over the doors." — Taylor Jenkins on evaluating defensive effort and team consistency** [00:44](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s)
 
@@ -142,7 +142,7 @@ Taylor Jenkins: "I think we got a lot of guys I'm trying to evaluate. I think th
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=44s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=44&q=2) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=44&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "He's on track making progress. Obviously we're doing everything possible to hopefully be available for opening night." — Taylor Jenkins on Nate Williams' availability for opening night** [01:26](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s)
 
@@ -150,7 +150,7 @@ Taylor Jenkins: "Still TBD. He's on track making progress. Obviously we're doing
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=86s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=86&q=3)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=86&q=3) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=86&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "For a young guy, it's really just studying the league, watching a lot of film." — Taylor Jenkins on preparing young players like Younge Claire** [01:58](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s)
 
@@ -158,7 +158,7 @@ Taylor Jenkins: "I don't think there's one way to prepare for an opponent, but w
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=118s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=118&q=4)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=118&q=4) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=118&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "I'll continue to evaluate in the next week or so, obviously the nature of the roster." — Taylor Jenkins on the potential for three-guard lineups** [03:27](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s)
 
@@ -166,7 +166,7 @@ Taylor Jenkins: "I'll continue to evaluate in the next week or so, obviously the
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=207s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=207&q=5)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=207&q=5) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=207&q=5&slack=1)</small>
 
 **6. Taylor Jenkins — "I love the competitiveness of Jaime, getting him to be more exposed in the starting lineup." — Taylor Jenkins on Jaime's development and defensive growth** [04:41](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s)
 
@@ -174,7 +174,7 @@ Taylor Jenkins: "I love the competitiveness of **Jaime**, getting him to be more
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=281s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=281&q=6)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=281&q=6) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=281&q=6&slack=1)</small>
 
 **7. Taylor Jenkins — "It's a balance of organic and not formal meetings too." — Taylor Jenkins on the decision-making process with John** [05:41](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s)
 
@@ -182,7 +182,7 @@ Taylor Jenkins: "It's a balance of organic and not formal meetings too. After ou
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=341s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=341&q=7)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=341&q=7) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=341&q=7&slack=1)</small>
 
 **8. Taylor Jenkins — "Our real test starts next Wednesday. I stress to them today the level of urgency." — Taylor Jenkins on the team's defensive focus heading into the season** [06:45](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s)
 
@@ -190,7 +190,7 @@ Taylor Jenkins: "Our real test starts next Wednesday. I stress to them today the
 
 [https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s](https://www.youtube.com/watch?v=I7Xh_m0EBhI&t=405s)
 
-<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=405&q=8)</small>
+<small>[Clip it](presserclips://clip?v=I7Xh_m0EBhI&t=405&q=8) · [Send to Slack](presserclips://clip?v=I7Xh_m0EBhI&t=405&q=8&slack=1)</small>
 
 ---
 
@@ -206,7 +206,7 @@ AJ Green: "It's a great thing to have that depth and to have multiple guys on a 
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=46s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=46s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=46&q=1) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=46&q=1&slack=1)</small>
 
 **2. AJ Green — "Taylor does an incredible job with his attention to detail, being intentional about what we're working on" — AJ Green on Taylor Jenkins' attention to detail in practice** [02:25](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s)
 
@@ -214,7 +214,7 @@ AJ Green: "Taylor does an incredible job with his attention to detail, being int
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=145&q=2)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=145&q=2) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=145&q=2&slack=1)</small>
 
 **3. AJ Green — "It's so good to practice that way because it really stresses you" — AJ Green on translating practice intensity to game situations** [03:23](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s)
 
@@ -222,7 +222,7 @@ AJ Green: "It's so good to practice that way because it really stresses you, lik
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=203&q=3)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=203&q=3) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=203&q=3&slack=1)</small>
 
 **4. AJ Green — "How can we be less wrong? The goal is to be right" — AJ Green on the goal of reducing mistakes over time** [04:15](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s)
 
@@ -230,7 +230,7 @@ AJ Green: "I like to see it as how can we be less wrong? The goal is to be right
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=255&q=4)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=255&q=4) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=255&q=4&slack=1)</small>
 
 ---
 

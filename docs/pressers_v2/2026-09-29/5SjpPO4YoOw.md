@@ -10,7 +10,7 @@ Jimmy Butler: "I feel great. Rehab in every day. I am to a point now where I get
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=27s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=27s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=27&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=27&q=1) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=27&q=1&slack=1)</small>
 
 **2. Jimmy Butler — "I want to go out there and compete with my guys, with Dray, be Robbin again to Steph's Batman." — Jimmy Butler says he is eager to return to the court and compete with his teammates.** [01:56](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=116s)
 
@@ -18,7 +18,7 @@ Jimmy Butler: "I think it is difficult for me because I do love to play basketba
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=116s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=116s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=116&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=116&q=2) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=116&q=2&slack=1)</small>
 
 **3. Jimmy Butler — Jimmy Butler says he is following the team's rehab plan to ensure he returns at full strength.** [03:33](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=213s)
 
@@ -26,7 +26,7 @@ Jimmy Butler: "That is just me being stubborn and wanting to come back and hoop.
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=213s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=213s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=213&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=213&q=3) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=213&q=3&slack=1)</small>
 
 **4. Jimmy Butler — Jimmy Butler praises teammate Axel for his size, shooting ability and winning mindset.** [04:16](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=256s)
 
@@ -34,7 +34,7 @@ Jimmy Butler: "He is fucking massive. Like he is a a a big human being and he he
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=256s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=256s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=256&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=256&q=4) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=256&q=4&slack=1)</small>
 
 **5. Jimmy Butler — "the potential of this offense is is great just because all the gravity that obviously Steph brings" — Jimmy Butler says the Warriors offense has great potential due to Steph Curry's gravity.** [07:17](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=437s)
 
@@ -42,7 +42,7 @@ Jimmy Butler: "Yes, we do not want to turn the ball over. But I I think you know
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=437s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=437s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=437&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=437&q=5) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=437&q=5&slack=1)</small>
 
 **6. Jimmy Butler — "But if I score a goal, you have to cancel the game." — Jimmy Butler jokingly says he will retire from the NBA if he scores a goal in soccer.** [11:54](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=714s)
 
@@ -50,7 +50,7 @@ Jimmy Butler: "But if I score a goal, you have to cancel the game. I will never 
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=714s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=714s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=714&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=714&q=6) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=714&q=6&slack=1)</small>
 
 **7. Jimmy Butler — "my numbers are staggering, they are off the charts." — Jimmy Butler says his rehab numbers are off the charts and he is ahead of schedule.** [13:47](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=827s)
 
@@ -58,7 +58,7 @@ Jimmy Butler: "I am not one for numbers. I will tell y'all all the threes, free 
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=827s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=827s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=827&q=7)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=827&q=7) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=827&q=7&slack=1)</small>
 
 **8. Jimmy Butler — "I got some new piercings when I was out with my ACL." — Jimmy Butler says he got new ear piercings while recovering from his ACL injury.** [15:03](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=903s)
 
@@ -66,7 +66,7 @@ Jimmy Butler: "Oh I got some new piercings when I was out with my ACL. I had a b
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=903s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=903s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=903&q=8)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=903&q=8) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=903&q=8&slack=1)</small>
 
 **9. Jimmy Butler — "To me it is always going to be about winning. When you win, that contract stuff takes care of itself." — Jimmy Butler says he is focused on winning rather than his contract status.** [14:57](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=897s)
 
@@ -74,7 +74,7 @@ Jimmy Butler: "I have made a couple buckaroos in my in my years in the league. S
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=897s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=897s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=897&q=9)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=897&q=9) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=897&q=9&slack=1)</small>
 
 **10. Jimmy Butler — Jimmy Butler says he will not change his playing style when he returns.** [14:33](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=873s)
 
@@ -82,4 +82,4 @@ Jimmy Butler: "I like one of my favorite athletes of all time is **Chad Ochocinc
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=873s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=873s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=873&q=10)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=873&q=10) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=873&q=10&slack=1)</small>

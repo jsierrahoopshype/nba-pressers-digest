@@ -10,4 +10,4 @@ Quin Snyder: "I think two things. One, when we play the way that we are capable 
 
 [https://www.youtube.com/watch?v=ATbPeuO4xTU&t=5s](https://www.youtube.com/watch?v=ATbPeuO4xTU&t=5s)
 
-<small>[Clip it](presserclips://clip?v=ATbPeuO4xTU&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ATbPeuO4xTU&t=5&q=1) · [Send to Slack](presserclips://clip?v=ATbPeuO4xTU&t=5&q=1&slack=1)</small>

@@ -10,7 +10,7 @@ Jonathan Kuminga: "Just a little experience with playing against him. I am not g
 
 [https://www.youtube.com/watch?v=MAqlI1GRoj8&t=10s](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=10s)
 
-<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=10&q=1) · [Send to Slack](presserclips://clip?v=MAqlI1GRoj8&t=10&q=1&slack=1)</small>
 
 **2. Jonathan Kuminga — "I cannot put my head down and I want to keep going" — Jonathan Kuminga on the mental challenge of guarding elite players** [00:56](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=56s)
 
@@ -18,7 +18,7 @@ Jonathan Kuminga: "That is what we are here for. I know he is going to have his 
 
 [https://www.youtube.com/watch?v=MAqlI1GRoj8&t=56s](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=56s)
 
-<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=56&q=2) · [Send to Slack](presserclips://clip?v=MAqlI1GRoj8&t=56&q=2&slack=1)</small>
 
 **3. Jonathan Kuminga — "They are going to throw two to three people at him, you just got to give him the lane" — Jonathan Kuminga on playing alongside Anthony Edwards** [01:42](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=102s)
 
@@ -26,7 +26,7 @@ Jonathan Kuminga: "They are going to throw two to three people at him, you just 
 
 [https://www.youtube.com/watch?v=MAqlI1GRoj8&t=102s](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=102s)
 
-<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=102&q=3)</small>
+<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=102&q=3) · [Send to Slack](presserclips://clip?v=MAqlI1GRoj8&t=102&q=3&slack=1)</small>
 
 **4. Jonathan Kuminga — "My role is just do everything that matters on the floor" — Jonathan Kuminga on his evolving offensive role with the Timberwolves** [02:29](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=149s)
 
@@ -34,7 +34,7 @@ Jonathan Kuminga: "It is pretty much just doing everything. Whatever comes towar
 
 [https://www.youtube.com/watch?v=MAqlI1GRoj8&t=149s](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=149s)
 
-<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=149&q=4)</small>
+<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=149&q=4) · [Send to Slack](presserclips://clip?v=MAqlI1GRoj8&t=149&q=4&slack=1)</small>
 
 **5. Jonathan Kuminga — "I am in my sixth year so I know how things goes" — Jonathan Kuminga on his experience and readiness for the season** [03:16](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=196s)
 
@@ -42,4 +42,4 @@ Jonathan Kuminga: "This is my sixth year, so I know how things goes. I have been
 
 [https://www.youtube.com/watch?v=MAqlI1GRoj8&t=196s](https://www.youtube.com/watch?v=MAqlI1GRoj8&t=196s)
 
-<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=196&q=5)</small>
+<small>[Clip it](presserclips://clip?v=MAqlI1GRoj8&t=196&q=5) · [Send to Slack](presserclips://clip?v=MAqlI1GRoj8&t=196&q=5&slack=1)</small>

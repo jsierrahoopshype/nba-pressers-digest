@@ -10,7 +10,7 @@ AJ Green: "It's a great thing to have that depth and to have multiple guys on a 
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=46s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=46s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=46&q=1) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=46&q=1&slack=1)</small>
 
 **2. AJ Green — "Taylor does an incredible job with his attention to detail, being intentional about what we're working on" — AJ Green on Taylor Jenkins' attention to detail in practice** [02:25](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s)
 
@@ -18,7 +18,7 @@ AJ Green: "Taylor does an incredible job with his attention to detail, being int
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=145s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=145&q=2)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=145&q=2) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=145&q=2&slack=1)</small>
 
 **3. AJ Green — "It's so good to practice that way because it really stresses you" — AJ Green on translating practice intensity to game situations** [03:23](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s)
 
@@ -26,7 +26,7 @@ AJ Green: "It's so good to practice that way because it really stresses you, lik
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=203s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=203&q=3)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=203&q=3) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=203&q=3&slack=1)</small>
 
 **4. AJ Green — "How can we be less wrong? The goal is to be right" — AJ Green on the goal of reducing mistakes over time** [04:15](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s)
 
@@ -34,4 +34,4 @@ AJ Green: "I like to see it as how can we be less wrong? The goal is to be right
 
 [https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s](https://www.youtube.com/watch?v=LIrgn0cbfQE&t=255s)
 
-<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=255&q=4)</small>
+<small>[Clip it](presserclips://clip?v=LIrgn0cbfQE&t=255&q=4) · [Send to Slack](presserclips://clip?v=LIrgn0cbfQE&t=255&q=4&slack=1)</small>

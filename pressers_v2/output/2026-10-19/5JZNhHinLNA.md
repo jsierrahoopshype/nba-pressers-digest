@@ -10,7 +10,7 @@ Devin Booker: "You see what is going on in the league, the pace of play is faste
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=63s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=63s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=63&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=63&q=1) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=63&q=1&slack=1)</small>
 
 **2. Devin Booker — "continue where we left off in those high stretches that we had when we were playing relentless." — Devin Booker on team identity and continuity** [01:31](https://www.youtube.com/watch?v=5JZNhHinLNA&t=91s)
 
@@ -18,7 +18,7 @@ Devin Booker: "Continue where we left off in those high stretches that we had wh
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=91s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=91s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=91&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=91&q=2) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=91&q=2&slack=1)</small>
 
 **3. Devin Booker — "when the ball goes into the post I feel like a lot of people like to look." — Devin Booker on the team's post-up opportunities** [02:26](https://www.youtube.com/watch?v=5JZNhHinLNA&t=146s)
 
@@ -26,7 +26,7 @@ Devin Booker: "We have that size across the board and when the ball goes into th
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=146s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=146s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=146&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=146&q=3) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=146&q=3&slack=1)</small>
 
 **4. Devin Booker — "I think we were bottom in the league in rim attempts last year somewhere near there." — Devin Booker on improving rim protection and transition defense** [03:19](https://www.youtube.com/watch?v=5JZNhHinLNA&t=199s)
 
@@ -34,7 +34,7 @@ Devin Booker: "I think we were bottom in the league in rim attempts last year so
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=199s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=199s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=199&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=199&q=4) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=199&q=4&slack=1)</small>
 
 **5. Devin Booker — "I think Dame will be an ultimate leader for Ja, the one that he needed around him." — Devin Booker on Damian Lillard's leadership with Ja Morant** [04:50](https://www.youtube.com/watch?v=5JZNhHinLNA&t=290s)
 
@@ -42,7 +42,7 @@ Devin Booker: "I think Dame will be an ultimate leader for Ja, the one that he n
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=290s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=290s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=290&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=290&q=5) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=290&q=5&slack=1)</small>
 
 **6. Devin Booker — "Every time we step on the court together it gets better and better." — Devin Booker on his evolving chemistry with Jaylen Brown** [05:16](https://www.youtube.com/watch?v=5JZNhHinLNA&t=316s)
 
@@ -50,7 +50,7 @@ Devin Booker: "Every time we step on the court together it gets better and bette
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=316s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=316s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=316&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=316&q=6) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=316&q=6&slack=1)</small>
 
 **7. Devin Booker — "I think he realizes that you don't have to make the hero play every time." — Devin Booker on teaching Jaylen Brown to be a lead ball-handler** [05:34](https://www.youtube.com/watch?v=5JZNhHinLNA&t=334s)
 
@@ -58,7 +58,7 @@ Devin Booker: "I think he realizes that you don't have to make the hero play eve
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=334s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=334s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=334&q=7)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=334&q=7) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=334&q=7&slack=1)</small>
 
 **8. Devin Booker — "It was actually tough to see him not in Portland, so I am happy he is home." — Devin Booker on his relationship with Damian Lillard** [06:12](https://www.youtube.com/watch?v=5JZNhHinLNA&t=372s)
 
@@ -66,7 +66,7 @@ Devin Booker: "We developed that relationship at Olympics out in Tokyo. Always h
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=372s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=372s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=372&q=8)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=372&q=8) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=372&q=8&slack=1)</small>
 
 **9. Devin Booker — "If we can be a one or a two seed we could possibly get three people in there." — Devin Booker on the team's potential for a top seed** [06:51](https://www.youtube.com/watch?v=5JZNhHinLNA&t=411s)
 
@@ -74,7 +74,7 @@ Devin Booker: "I think we were on the right route last year, but it is a whole n
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=411s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=411s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=411&q=9)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=411&q=9) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=411&q=9&slack=1)</small>
 
 **10. Devin Booker — "he checks every box to being a professional, so he got what he got and he deserved it." — Devin Booker on his pride in a teammate's professional development** [07:31](https://www.youtube.com/watch?v=5JZNhHinLNA&t=451s)
 
@@ -82,4 +82,4 @@ Devin Booker: "I am super proud of him. Coming into the league, he was a second 
 
 [https://www.youtube.com/watch?v=5JZNhHinLNA&t=451s](https://www.youtube.com/watch?v=5JZNhHinLNA&t=451s)
 
-<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=451&q=10)</small>
+<small>[Clip it](presserclips://clip?v=5JZNhHinLNA&t=451&q=10) · [Send to Slack](presserclips://clip?v=5JZNhHinLNA&t=451&q=10&slack=1)</small>

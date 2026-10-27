@@ -10,7 +10,7 @@ Damian Lillard: "I think defensive rebounding and taking care of the ball. With 
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=4s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=4s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=4&q=1) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=4&q=1&slack=1)</small>
 
 **2. Damian Lillard — "Obviously with us being kind of undersized, it's going to be a group effort." — Damian Lillard on the importance of team rebounding for the guards** [00:44](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=44s)
 
@@ -18,7 +18,7 @@ Damian Lillard: "Obviously with us being kind of undersized, it's going to be a 
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=44s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=44s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=44&q=2) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=44&q=2&slack=1)</small>
 
 **3. Damian Lillard — "I think our ATOs have been great. I told Mike that." — Damian Lillard praises the team's offensive sets and execution** [01:15](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=75s)
 
@@ -26,7 +26,7 @@ Damian Lillard: "I think our ATOs have been great. I told **Mike** that. I think
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=75s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=75s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=75&q=3)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=75&q=3) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=75&q=3&slack=1)</small>
 
 **4. Damian Lillard — "Back in the day when we used to play the Clippers, we used to be like, they're going to run the ATO for JJ Redick." — Damian Lillard on the evolution of ATO plays and team creativity** [02:03](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=123s)
 
@@ -34,7 +34,7 @@ Damian Lillard: "Back in the day when we used to play the Clippers, we used to b
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=123s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=123s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=123&q=4)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=123&q=4) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=123&q=4&slack=1)</small>
 
 **5. Damian Lillard — "I don't feel emotional about it at all." — Damian Lillard on his mindset returning to regular season play** [03:02](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=182s)
 
@@ -42,7 +42,7 @@ Damian Lillard: "I don't feel emotional about it at all. I'm excited. I think wh
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=182s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=182s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=182&q=5)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=182&q=5) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=182&q=5&slack=1)</small>
 
 **6. Damian Lillard — "To me it's a luxury." — Damian Lillard on enjoying playing off the ball with the guard group** [03:58](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=238s)
 
@@ -50,7 +50,7 @@ Damian Lillard: "To me it's a luxury. In the preseason, I think I played right a
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=238s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=238s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=238&q=6)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=238&q=6) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=238&q=6&slack=1)</small>
 
 **7. Damian Lillard — "You're going to see a lot of small ball around the NBA." — Damian Lillard on the versatility of small-ball lineups** [05:03](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=303s)
 
@@ -58,7 +58,7 @@ Damian Lillard: "You're going to see a lot of small ball around the NBA. You're 
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=303s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=303s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=303&q=7)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=303&q=7) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=303&q=7&slack=1)</small>
 
 **8. Damian Lillard — "One thing I respect a lot about Mica is we don't have to guess." — Damian Lillard on the team's commitment to sacrifice for winning** [06:16](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=376s)
 
@@ -66,7 +66,7 @@ Damian Lillard: "One thing I respect a lot about **Mica** is we don't have to gu
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=376s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=376s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=376&q=8)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=376&q=8) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=376&q=8&slack=1)</small>
 
 **9. Damian Lillard — "I know I'm 36 and we've had conversations about I'm not going to be playing 38 minutes per night." — Damian Lillard on managing his workload at age 36** [07:07](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=427s)
 
@@ -74,4 +74,4 @@ Damian Lillard: "I know I'm 36 and we've had conversations about I'm not going t
 
 [https://www.youtube.com/watch?v=oKGbfnZ2I98&t=427s](https://www.youtube.com/watch?v=oKGbfnZ2I98&t=427s)
 
-<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=427&q=9)</small>
+<small>[Clip it](presserclips://clip?v=oKGbfnZ2I98&t=427&q=9) · [Send to Slack](presserclips://clip?v=oKGbfnZ2I98&t=427&q=9&slack=1)</small>

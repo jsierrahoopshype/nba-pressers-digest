@@ -12,7 +12,7 @@ _Speakers identified: Luke Kennard, Unidentified reporter_
 
 [https://www.youtube.com/watch?v=u3y4zbTzKis&t=0s](https://www.youtube.com/watch?v=u3y4zbTzKis&t=0s)
 
-<small>[Clip it](presserclips://clip?v=u3y4zbTzKis&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=u3y4zbTzKis&t=0&q=1) · [Send to Slack](presserclips://clip?v=u3y4zbTzKis&t=0&q=1&slack=1)</small>
 
 **2. Luke Kennard — "Our intensity, defensive intensity, our chaos on offense, our movement, our freedom, just the way we play together." — Luke Kennard on building good habits during preseason** [00:22](https://www.youtube.com/watch?v=u3y4zbTzKis&t=22s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Luke Kennard, Unidentified reporter_
 
 [https://www.youtube.com/watch?v=u3y4zbTzKis&t=22s](https://www.youtube.com/watch?v=u3y4zbTzKis&t=22s)
 
-<small>[Clip it](presserclips://clip?v=u3y4zbTzKis&t=22&q=2)</small>
+<small>[Clip it](presserclips://clip?v=u3y4zbTzKis&t=22&q=2) · [Send to Slack](presserclips://clip?v=u3y4zbTzKis&t=22&q=2&slack=1)</small>
 
 **3. Luke Kennard — "We love when other people have success. We cheer each other on, we have each other's backs." — Luke Kennard on team camaraderie and celebrating success** [00:49](https://www.youtube.com/watch?v=u3y4zbTzKis&t=49s)
 
@@ -32,4 +32,4 @@ _Speakers identified: Luke Kennard, Unidentified reporter_
 
 [https://www.youtube.com/watch?v=u3y4zbTzKis&t=49s](https://www.youtube.com/watch?v=u3y4zbTzKis&t=49s)
 
-<small>[Clip it](presserclips://clip?v=u3y4zbTzKis&t=49&q=3)</small>
+<small>[Clip it](presserclips://clip?v=u3y4zbTzKis&t=49&q=3) · [Send to Slack](presserclips://clip?v=u3y4zbTzKis&t=49&q=3&slack=1)</small>

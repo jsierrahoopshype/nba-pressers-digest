@@ -10,7 +10,7 @@ Kenny Atkinson: "Peyton was all over the place, blocks and blocking threes and t
 
 [https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=52s](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=52s)
 
-<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=52&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=52&q=1) · [Send to Slack](presserclips://clip?v=3EYEd9Lgvgc&t=52&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "No one panics in there. We look at the film, we make the adjustments, make the corrections." — Leadership and composure during the Cavaliers' slow start** [01:38](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=98s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "You play that badly and that poorly in front of your home crowd
 
 [https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=98s](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=98s)
 
-<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=98&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=98&q=2) · [Send to Slack](presserclips://clip?v=3EYEd9Lgvgc&t=98&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "I've been thinking about it since Summer League. It was just a gut feel." — Malik Thomas's emergence as a spark plug off the bench** [02:21](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=141s)
 
@@ -26,7 +26,7 @@ Kenny Atkinson: "I've been thinking about it since Summer League. It's a good qu
 
 [https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=141s](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=141s)
 
-<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=141&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=141&q=3) · [Send to Slack](presserclips://clip?v=3EYEd9Lgvgc&t=141&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "The vets love him because he listens, he's inquisitive. As a rookie, you've got to strike that chord." — Malik Thomas's immediate impact and integration into the locker room** [04:02](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=242s)
 
@@ -34,7 +34,7 @@ Kenny Atkinson: "The vets love him because he listens, he's inquisitive. As a ro
 
 [https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=242s](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=242s)
 
-<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=242&q=4)</small>
+<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=242&q=4) · [Send to Slack](presserclips://clip?v=3EYEd9Lgvgc&t=242&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "There's an awareness that the East is really deep, really deep. There's 12 playoff teams." — The competitive depth of the Eastern Conference playoff race** [06:13](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=373s)
 
@@ -42,4 +42,4 @@ Kenny Atkinson: "There's an awareness that the East is really deep, really deep.
 
 [https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=373s](https://www.youtube.com/watch?v=3EYEd9Lgvgc&t=373s)
 
-<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=373&q=5)</small>
+<small>[Clip it](presserclips://clip?v=3EYEd9Lgvgc&t=373&q=5) · [Send to Slack](presserclips://clip?v=3EYEd9Lgvgc&t=373&q=5&slack=1)</small>

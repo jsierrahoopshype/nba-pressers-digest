@@ -10,7 +10,7 @@ Liam McNeeley: "I'd say my aggressiveness and my confidence. Summer league and t
 
 [https://www.youtube.com/watch?v=7AePUEmPpVk&t=18s](https://www.youtube.com/watch?v=7AePUEmPpVk&t=18s)
 
-<small>[Clip it](presserclips://clip?v=7AePUEmPpVk&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=7AePUEmPpVk&t=18&q=1) · [Send to Slack](presserclips://clip?v=7AePUEmPpVk&t=18&q=1&slack=1)</small>
 
 **2. Liam McNeeley — "Even when we're on different teams, Pat and Royce, Grayson, they're all giving me tips." — Liam McNeeley on learning from veteran teammates Pat, Royce, and Grayson** [01:16](https://www.youtube.com/watch?v=7AePUEmPpVk&t=76s)
 
@@ -18,7 +18,7 @@ Liam McNeeley: "Off the court everybody is super close. We hang out, we play car
 
 [https://www.youtube.com/watch?v=7AePUEmPpVk&t=76s](https://www.youtube.com/watch?v=7AePUEmPpVk&t=76s)
 
-<small>[Clip it](presserclips://clip?v=7AePUEmPpVk&t=76&q=2)</small>
+<small>[Clip it](presserclips://clip?v=7AePUEmPpVk&t=76&q=2) · [Send to Slack](presserclips://clip?v=7AePUEmPpVk&t=76&q=2&slack=1)</small>
 
 **3. Liam McNeeley — "Kobe White has been super vocal. I'd say he was a standout for the vocalness." — Liam McNeeley praises Kobe White's leadership during training camp** [01:51](https://www.youtube.com/watch?v=7AePUEmPpVk&t=111s)
 
@@ -26,4 +26,4 @@ Liam McNeeley: "We brought in great leaders. **Kobe White** has been super vocal
 
 [https://www.youtube.com/watch?v=7AePUEmPpVk&t=111s](https://www.youtube.com/watch?v=7AePUEmPpVk&t=111s)
 
-<small>[Clip it](presserclips://clip?v=7AePUEmPpVk&t=111&q=3)</small>
+<small>[Clip it](presserclips://clip?v=7AePUEmPpVk&t=111&q=3) · [Send to Slack](presserclips://clip?v=7AePUEmPpVk&t=111&q=3&slack=1)</small>

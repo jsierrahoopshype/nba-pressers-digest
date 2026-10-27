@@ -10,7 +10,7 @@ Dejounte Murray: "I think we started a little slow, then obviously we picked it 
 
 [https://www.youtube.com/watch?v=eoFSlB7p2_g&t=32s](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=32s)
 
-<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=32&q=1)</small>
+<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=32&q=1) · [Send to Slack](presserclips://clip?v=eoFSlB7p2_g&t=32&q=1&slack=1)</small>
 
 **2. Dejounte Murray — "it goes your way, it doesn't go your way, we got to stay together as one" — Dejounte Murray emphasizes team unity after a tough loss** [00:56](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=56s)
 
@@ -18,7 +18,7 @@ Dejounte Murray: "The main thing I'm going to continue to say is stay together. 
 
 [https://www.youtube.com/watch?v=eoFSlB7p2_g&t=56s](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=56s)
 
-<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=56&q=2) · [Send to Slack](presserclips://clip?v=eoFSlB7p2_g&t=56&q=2&slack=1)</small>
 
 **3. Dejounte Murray — "I really feel we gave the game away, you know stupid fouls, knowing that they were in" — Dejounte Murray explains why the team gave the game away** [01:21](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=81s)
 
@@ -26,7 +26,7 @@ Dejounte Murray: "I really feel we gave the game away, you know stupid fouls, kn
 
 [https://www.youtube.com/watch?v=eoFSlB7p2_g&t=81s](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=81s)
 
-<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=81&q=3) · [Send to Slack](presserclips://clip?v=eoFSlB7p2_g&t=81&q=3&slack=1)</small>
 
 **4. Dejounte Murray — "once he start taking them and guys start coming closer to him, it makes his game even easier" — Dejounte Murray on Zion Williamson's shooting confidence** [02:42](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=162s)
 
@@ -34,7 +34,7 @@ Dejounte Murray: "I think once he realized when he start taking them and guys st
 
 [https://www.youtube.com/watch?v=eoFSlB7p2_g&t=162s](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=162s)
 
-<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=162&q=4)</small>
+<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=162&q=4) · [Send to Slack](presserclips://clip?v=eoFSlB7p2_g&t=162&q=4&slack=1)</small>
 
 **5. Dejounte Murray — "I always got my brothers back but you got to understand the game" — Dejounte Murray on protecting teammates during on-court altercations** [03:30](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=210s)
 
@@ -42,7 +42,7 @@ Dejounte Murray: "I always got my brothers back but you got to understand the ga
 
 [https://www.youtube.com/watch?v=eoFSlB7p2_g&t=210s](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=210s)
 
-<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=210&q=5)</small>
+<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=210&q=5) · [Send to Slack](presserclips://clip?v=eoFSlB7p2_g&t=210&q=5&slack=1)</small>
 
 **6. Dejounte Murray — "he's a tough one, I love him, I love just seeing him smile every day" — Dejounte Murray on Jeremiah Robinson-Earl's energy and scrap** [06:18](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=378s)
 
@@ -50,7 +50,7 @@ Dejounte Murray: "He's a tough one, I love him, I love just seeing him smile eve
 
 [https://www.youtube.com/watch?v=eoFSlB7p2_g&t=378s](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=378s)
 
-<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=378&q=6)</small>
+<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=378&q=6) · [Send to Slack](presserclips://clip?v=eoFSlB7p2_g&t=378&q=6&slack=1)</small>
 
 **7. Dejounte Murray — "he's a great human being, great coach, passionate coach" — Dejounte Murray on Willie Green's coaching style** [08:31](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=511s)
 
@@ -58,4 +58,4 @@ Dejounte Murray: "I always rock with Moes. He's a great human being, great coach
 
 [https://www.youtube.com/watch?v=eoFSlB7p2_g&t=511s](https://www.youtube.com/watch?v=eoFSlB7p2_g&t=511s)
 
-<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=511&q=7)</small>
+<small>[Clip it](presserclips://clip?v=eoFSlB7p2_g&t=511&q=7) · [Send to Slack](presserclips://clip?v=eoFSlB7p2_g&t=511&q=7&slack=1)</small>

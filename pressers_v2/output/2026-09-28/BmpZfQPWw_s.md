@@ -10,7 +10,7 @@ Koa Peat: "I am feeling good. I am feeling blessed for this opportunity to go ou
 
 [https://www.youtube.com/watch?v=BmpZfQPWw_s&t=205s](https://www.youtube.com/watch?v=BmpZfQPWw_s&t=205s)
 
-<small>[Clip it](presserclips://clip?v=BmpZfQPWw_s&t=205&q=1)</small>
+<small>[Clip it](presserclips://clip?v=BmpZfQPWw_s&t=205&q=1) · [Send to Slack](presserclips://clip?v=BmpZfQPWw_s&t=205&q=1&slack=1)</small>
 
 **2. Koa Peat — "those are my guys and I am ready to go to war with them" — Koa Peat discusses the strong bond he has formed with his young teammates.** [05:50](https://www.youtube.com/watch?v=BmpZfQPWw_s&t=350s)
 
@@ -18,7 +18,7 @@ Koa Peat: "We got a real good bond. Talking to them, joking with them in the loc
 
 [https://www.youtube.com/watch?v=BmpZfQPWw_s&t=350s](https://www.youtube.com/watch?v=BmpZfQPWw_s&t=350s)
 
-<small>[Clip it](presserclips://clip?v=BmpZfQPWw_s&t=350&q=2)</small>
+<small>[Clip it](presserclips://clip?v=BmpZfQPWw_s&t=350&q=2) · [Send to Slack](presserclips://clip?v=BmpZfQPWw_s&t=350&q=2&slack=1)</small>
 
 **3. Koa Peat — "Miles Bridges is always giving me little tips, just little things like my drive line" — Koa Peat credits Miles Bridges and Dylan Brooks for providing him with veteran mentorship.** [06:15](https://www.youtube.com/watch?v=BmpZfQPWw_s&t=375s)
 
@@ -26,4 +26,4 @@ Koa Peat: "**Miles Bridges** is always giving me little tips, just little things
 
 [https://www.youtube.com/watch?v=BmpZfQPWw_s&t=375s](https://www.youtube.com/watch?v=BmpZfQPWw_s&t=375s)
 
-<small>[Clip it](presserclips://clip?v=BmpZfQPWw_s&t=375&q=3)</small>
+<small>[Clip it](presserclips://clip?v=BmpZfQPWw_s&t=375&q=3) · [Send to Slack](presserclips://clip?v=BmpZfQPWw_s&t=375&q=3&slack=1)</small>

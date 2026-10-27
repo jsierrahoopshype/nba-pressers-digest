@@ -14,7 +14,7 @@ Dillon Brooks: "I see a lot coming from Ryan and I'm intrigued to see his progre
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=34s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=34s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=34&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=34&q=1) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=34&q=1&slack=1)</small>
 
 **2. Dillon Brooks — "The composure and the way he thinks the game." — Dillon Brooks on what he brings to the Suns** [01:26](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=86s)
 
@@ -22,7 +22,7 @@ Dillon Brooks: "The composure and the way he thinks the game."
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=86s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=86s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=86&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=86&q=2) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=86&q=2&slack=1)</small>
 
 **3. Dillon Brooks — "When adversity is hitting during the game, calls not going your way, shots not falling." — Dillon Brooks on maintaining composure during adversity** [01:42](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=102s)
 
@@ -30,7 +30,7 @@ Dillon Brooks: "When adversity is hitting during the game, calls not going your 
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=102s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=102s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=102&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=102&q=3) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=102&q=3&slack=1)</small>
 
 **4. Dillon Brooks — "You got to want to do it and do it the right way." — Dillon Brooks on veteran mentorship in the modern NBA** [02:20](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=140s)
 
@@ -38,7 +38,7 @@ Dillon Brooks: "You got to want to do it and do it the right way. They teach you
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=140s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=140s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=140&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=140&q=4) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=140&q=4&slack=1)</small>
 
 **5. Dillon Brooks — "It is good building the chemistry, it is learning different schemes that we do on offensive end together." — Dillon Brooks on building team chemistry and learning schemes** [03:16](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=196s)
 
@@ -46,7 +46,7 @@ Dillon Brooks: "It is good building the chemistry, it is learning different sche
 
 [https://www.youtube.com/watch?v=5ajtC2ilkF4&t=196s](https://www.youtube.com/watch?v=5ajtC2ilkF4&t=196s)
 
-<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=196&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5ajtC2ilkF4&t=196&q=5) · [Send to Slack](presserclips://clip?v=5ajtC2ilkF4&t=196&q=5&slack=1)</small>
 
 ---
 
@@ -62,7 +62,7 @@ Oso Ighodaro: "Me and **Bol Bol** for the team, whatever is asked of us we're go
 
 [https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=15s](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=15s)
 
-<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=15&q=1) · [Send to Slack](presserclips://clip?v=ZtENaXsl0Zo&t=15&q=1&slack=1)</small>
 
 **2. Oso Ighodaro — "That second group has great chemistry. I love playing with them." — Oso Ighodaro on the chemistry of the second unit** [01:38](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=98s)
 
@@ -70,7 +70,7 @@ Oso Ighodaro: "That second group has great chemistry. I love playing with them. 
 
 [https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=98s](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=98s)
 
-<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=98&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=98&q=2) · [Send to Slack](presserclips://clip?v=ZtENaXsl0Zo&t=98&q=2&slack=1)</small>
 
 **3. Oso Ighodaro — "He's always locked in but we were really pushing each other in the weight room this summer." — Oso Ighodaro on Bradley Beal's offseason work ethic** [02:30](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=150s)
 
@@ -78,7 +78,7 @@ Oso Ighodaro: "He's always locked in but we were really pushing each other in th
 
 [https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=150s](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=150s)
 
-<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=150&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=150&q=3) · [Send to Slack](presserclips://clip?v=ZtENaXsl0Zo&t=150&q=3&slack=1)</small>
 
 **4. Oso Ighodaro — "Everyone kind of fanboying over him growing up, just how he carried himself." — Oso Ighodaro on his memories of Kevin Durant** [04:05](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=245s)
 
@@ -86,7 +86,7 @@ Oso Ighodaro: "Everyone kind of fanboying over him growing up, just how he carri
 
 [https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=245s](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=245s)
 
-<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=245&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=245&q=4) · [Send to Slack](presserclips://clip?v=ZtENaXsl0Zo&t=245&q=4&slack=1)</small>
 
 **5. Oso Ighodaro — "Reading how you can impact the game when you don't have the ball." — Oso Ighodaro on his ability to impact the game without the ball** [07:02](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=422s)
 
@@ -94,7 +94,7 @@ Oso Ighodaro: "Reading how you can impact the game when you don't have the ball 
 
 [https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=422s](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=422s)
 
-<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=422&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=422&q=5) · [Send to Slack](presserclips://clip?v=ZtENaXsl0Zo&t=422&q=5&slack=1)</small>
 
 **6. Oso Ighodaro — "Dylan at 30 is the oldest guy on the team." — Oso Ighodaro on Devin Booker being the oldest player on the team** [07:37](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=457s)
 
@@ -102,7 +102,7 @@ Oso Ighodaro: "Dylan at 30 is the oldest guy on the team. It's a big milestone. 
 
 [https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=457s](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=457s)
 
-<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=457&q=6)</small>
+<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=457&q=6) · [Send to Slack](presserclips://clip?v=ZtENaXsl0Zo&t=457&q=6&slack=1)</small>
 
 **7. Oso Ighodaro — "We're talking about it. We'll see what happens in the next couple days." — Oso Ighodaro on ongoing contract extension discussions** [08:55](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=535s)
 
@@ -110,7 +110,7 @@ Oso Ighodaro: "We're talking about it. We'll see what happens in the next couple
 
 [https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=535s](https://www.youtube.com/watch?v=ZtENaXsl0Zo&t=535s)
 
-<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=535&q=7)</small>
+<small>[Clip it](presserclips://clip?v=ZtENaXsl0Zo&t=535&q=7) · [Send to Slack](presserclips://clip?v=ZtENaXsl0Zo&t=535&q=7&slack=1)</small>
 
 ---
 
@@ -126,7 +126,7 @@ Kenny Atkinson: "It is almost like a two-way street with him. He is not afraid t
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=16s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=16s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=16&q=1) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=16&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "he wants to be perfect. He is almost nervous about or has anxiety about being too perfect." — Kenny Atkinson on coaching Darius Garland to be less perfect** [01:32](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=92s)
 
@@ -134,7 +134,7 @@ Kenny Atkinson: "I think I probably change a little. I definitely err on the sid
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=92s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=92s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=92&q=2)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=92&q=2) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=92&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "it is a great recruiting tool for players, staff." — Kenny Atkinson on the benefits of the new Cavaliers facility** [02:39](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=159s)
 
@@ -142,7 +142,7 @@ Kenny Atkinson: "First of all, it is a great recruiting tool for players, staff.
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=159s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=159s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=159&q=3)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=159&q=3) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=159&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "Donovan is good with that. Donovan can play with me as the center, obviously." — Kenny Atkinson on the Donovan Mitchell and Jarrett Allen guard-big pairing** [03:34](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=214s)
 
@@ -150,7 +150,7 @@ Kenny Atkinson: "Donovan is good with that. Donovan can play with me as the cent
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=214s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=214s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=214&q=4)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=214&q=4) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=214&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "Evan is already good in the pocket, just more like screening angles and flipping screens." — Kenny Atkinson on Evan Mobley's development with James** [05:01](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=301s)
 
@@ -158,7 +158,7 @@ Kenny Atkinson: "Evan is already good in the pocket, just more like screening an
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=301s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=301s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=301&q=5)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=301&q=5) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=301&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "Evan is nowhere to be found." — Kenny Atkinson on Evan Mobley's defensive recognition** [05:37](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=337s)
 
@@ -166,7 +166,7 @@ Kenny Atkinson: "It is interesting with Evan. He was defensive player of the yea
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=337s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=337s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=337&q=6)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=337&q=6) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=337&q=6&slack=1)</small>
 
 **7. Kenny Atkinson — "our relationship has grown. My understanding of his game." — Kenny Atkinson on the growth of his relationship with Craig Porter Jr.** [07:37](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=457s)
 
@@ -174,7 +174,7 @@ Kenny Atkinson: "Our relationship has grown. My understanding of his game. And I
 
 [https://www.youtube.com/watch?v=JqwPbmX5_PI&t=457s](https://www.youtube.com/watch?v=JqwPbmX5_PI&t=457s)
 
-<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=457&q=7)</small>
+<small>[Clip it](presserclips://clip?v=JqwPbmX5_PI&t=457&q=7) · [Send to Slack](presserclips://clip?v=JqwPbmX5_PI&t=457&q=7&slack=1)</small>
 
 ---
 
@@ -190,7 +190,7 @@ Donovan Mitchell: "I think there's more of a maturity. I think understanding tha
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=13s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=13s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=13&q=1) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=13&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "Him speaking in practice, trying to hold guys accountable, has been huge." — Darius Garland's leadership and accountability during team practice** [00:54](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=54s)
 
@@ -198,7 +198,7 @@ Donovan Mitchell: "Him speaking in practice, trying to hold guys accountable, ha
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=54s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=54s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=54&q=2) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=54&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "I told him it's like, listen, it happens to everybody." — Supporting teammates through difficult playoff experiences** [02:07](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=127s)
 
@@ -206,7 +206,7 @@ Donovan Mitchell: "I told him it's like, listen, it happens to everybody. Look a
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=127s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=127s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=127&q=3)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=127&q=3) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=127&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "I think Evan and James can really have a really strong connection." — Developing chemistry between Evan Mobley and James** [03:41](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=221s)
 
@@ -214,7 +214,7 @@ Donovan Mitchell: "I think Evan and **James** can really have a really strong co
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=221s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=221s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=221&q=4)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=221&q=4) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=221&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "I think James is one of, if not the best pick-and-roll handler with big." — Evan Mobley's potential as a pick-and-roll partner** [04:34](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=274s)
 
@@ -222,7 +222,7 @@ Donovan Mitchell: "I think **James** is one of, if not the best pick-and-roll ha
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=274s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=274s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=274&q=5)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=274&q=5) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=274&q=5&slack=1)</small>
 
 **6. Donovan Mitchell — "I don't buy into that, like in those things it's up for opinion, it's up for debate." — Dismissing external GM surveys and player rankings** [06:06](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=366s)
 
@@ -230,7 +230,7 @@ Donovan Mitchell: "I don't buy into that, like in those things it's up for opini
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=366s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=366s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=366&q=6)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=366&q=6) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=366&q=6&slack=1)</small>
 
 **7. Donovan Mitchell — "Everyone talks about the fact that Darius and I were being hounded and Evan was the one." — Addressing the narrative that Evan Mobley's development has plateaued** [07:14](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=434s)
 
@@ -238,7 +238,7 @@ Donovan Mitchell: "Everyone talks about the fact that Darius and I were being ho
 
 [https://www.youtube.com/watch?v=nXqfEeTeBKY&t=434s](https://www.youtube.com/watch?v=nXqfEeTeBKY&t=434s)
 
-<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=434&q=7)</small>
+<small>[Clip it](presserclips://clip?v=nXqfEeTeBKY&t=434&q=7) · [Send to Slack](presserclips://clip?v=nXqfEeTeBKY&t=434&q=7&slack=1)</small>
 
 ---
 
@@ -256,7 +256,7 @@ Jamahl Mosley: "The minutes will look similar. I think someone asked me the ques
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=164s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=164s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=164&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=164&q=1) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=164&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "We've talked about where we want to be defensively, how we want to play offensively." — Jamahl Mosley on team defensive and offensive development** [03:19](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=199s)
 
@@ -264,7 +264,7 @@ Jamahl Mosley: "We've talked about where we want to be defensively, how we want 
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=199s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=199s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=199&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=199&q=2) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=199&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "These are the best players in the league in the world and you want to have them to be creative." — Jamahl Mosley on empowering player creativity within the team system** [04:15](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=255s)
 
@@ -272,7 +272,7 @@ Jamahl Mosley: "These are the best players in the league in the world and you wa
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=255s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=255s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=255&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=255&q=3) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=255&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "I'm not chasing the results. That's what I think, you know, wins, losses, those are coming one way or the other." — Jamahl Mosley on prioritizing process over chasing game results** [05:14](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=314s)
 
@@ -280,7 +280,7 @@ Jamahl Mosley: "I'm not chasing the results. That's what I think, you know, wins
 
 [https://www.youtube.com/watch?v=DbmQjZqmcXw&t=314s](https://www.youtube.com/watch?v=DbmQjZqmcXw&t=314s)
 
-<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=314&q=4)</small>
+<small>[Clip it](presserclips://clip?v=DbmQjZqmcXw&t=314&q=4) · [Send to Slack](presserclips://clip?v=DbmQjZqmcXw&t=314&q=4&slack=1)</small>
 
 ---
 

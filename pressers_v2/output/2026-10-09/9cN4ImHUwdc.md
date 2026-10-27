@@ -10,7 +10,7 @@ Taylor Jenkins: "That's a big part of it before you even step in between the lin
 
 [https://www.youtube.com/watch?v=9cN4ImHUwdc&t=9s](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=9s)
 
-<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=9&q=1) · [Send to Slack](presserclips://clip?v=9cN4ImHUwdc&t=9&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "Doesn't get sped up, you know, once it's an opportunity to attack, sees the advantage." — Taylor Jenkins praises player's decision-making and poise in late-game situations** [00:56](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=56s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "Great decision-making. I know he was the beneficiary of some sc
 
 [https://www.youtube.com/watch?v=9cN4ImHUwdc&t=56s](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=56s)
 
-<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=56&q=2) · [Send to Slack](presserclips://clip?v=9cN4ImHUwdc&t=56&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "It's not just impact winning games, it's impact winning behaviors." — Taylor Jenkins on the team's philosophy of 'impact winning' behaviors** [01:45](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=105s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "We start from there. It's compete together, get better, but tri
 
 [https://www.youtube.com/watch?v=9cN4ImHUwdc&t=105s](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=105s)
 
-<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=105&q=3)</small>
+<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=105&q=3) · [Send to Slack](presserclips://clip?v=9cN4ImHUwdc&t=105&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "He's going to be a guy just physical presence, on-ball defense, you know, I think he's got great athleticism." — Taylor Jenkins evaluates the defensive and offensive impact of two young players** [02:49](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=169s)
 
@@ -34,7 +34,7 @@ Taylor Jenkins: "Talking about Cass in particular, obviously ball in his hands a
 
 [https://www.youtube.com/watch?v=9cN4ImHUwdc&t=169s](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=169s)
 
-<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=169&q=4)</small>
+<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=169&q=4) · [Send to Slack](presserclips://clip?v=9cN4ImHUwdc&t=169&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "He's playing a simple game right now. We're going to unlock more in his game both defensively and offensively." — Taylor Jenkins on the development and versatility of a young player** [04:05](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=245s)
 
@@ -42,7 +42,7 @@ Taylor Jenkins: "He's playing a simple game right now. We're going to unlock mor
 
 [https://www.youtube.com/watch?v=9cN4ImHUwdc&t=245s](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=245s)
 
-<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=245&q=5)</small>
+<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=245&q=5) · [Send to Slack](presserclips://clip?v=9cN4ImHUwdc&t=245&q=5&slack=1)</small>
 
 **6. Taylor Jenkins — "We got to improve our just pick-and-roll interactions first and foremost." — Taylor Jenkins on building chemistry and pick-and-roll execution** [05:00](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=300s)
 
@@ -50,7 +50,7 @@ Taylor Jenkins: "One's just going to be chemistry, you know, just that kind of c
 
 [https://www.youtube.com/watch?v=9cN4ImHUwdc&t=300s](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=300s)
 
-<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=300&q=6)</small>
+<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=300&q=6) · [Send to Slack](presserclips://clip?v=9cN4ImHUwdc&t=300&q=6&slack=1)</small>
 
 **7. Taylor Jenkins — "It's a consistent principle of ours. It's a concept within our play." — Taylor Jenkins on the team's conceptual approach to off-ball movement** [06:12](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=372s)
 
@@ -58,4 +58,4 @@ Taylor Jenkins: "I would say it's a consistent principle of ours. It's a concept
 
 [https://www.youtube.com/watch?v=9cN4ImHUwdc&t=372s](https://www.youtube.com/watch?v=9cN4ImHUwdc&t=372s)
 
-<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=372&q=7)</small>
+<small>[Clip it](presserclips://clip?v=9cN4ImHUwdc&t=372&q=7) · [Send to Slack](presserclips://clip?v=9cN4ImHUwdc&t=372&q=7&slack=1)</small>

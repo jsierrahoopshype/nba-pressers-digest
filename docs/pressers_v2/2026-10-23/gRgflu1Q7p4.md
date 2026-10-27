@@ -10,7 +10,7 @@ Chet Holmgren: "I think we did a great job of being aggressive, not only guardin
 
 [https://www.youtube.com/watch?v=gRgflu1Q7p4&t=15s](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=15s)
 
-<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=15&q=1) · [Send to Slack](presserclips://clip?v=gRgflu1Q7p4&t=15&q=1&slack=1)</small>
 
 **2. Chet Holmgren — "I told him he's a better man than me. I would have just been shooting some pull-up threes." — Chet Holmgren on Shai Gilgeous-Alexander's selfless decision to sub out** [00:55](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=55s)
 
@@ -18,7 +18,7 @@ Chet Holmgren: "I asked him, I said you want to shoot some threes right here? An
 
 [https://www.youtube.com/watch?v=gRgflu1Q7p4&t=55s](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=55s)
 
-<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=55&q=2)</small>
+<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=55&q=2) · [Send to Slack](presserclips://clip?v=gRgflu1Q7p4&t=55&q=2&slack=1)</small>
 
 **3. Chet Holmgren — "I don't think people understand how challenging it is. Not only to be talented enough to do it" — Chet Holmgren on the physical and mental endurance of Shai Gilgeous-Alexander** [01:36](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=96s)
 
@@ -26,7 +26,7 @@ Chet Holmgren: "I don't think people understand how challenging it is. Not only 
 
 [https://www.youtube.com/watch?v=gRgflu1Q7p4&t=96s](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=96s)
 
-<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=96&q=3) · [Send to Slack](presserclips://clip?v=gRgflu1Q7p4&t=96&q=3&slack=1)</small>
 
 **4. Chet Holmgren — "I think it's amazing how fluid basketball is and how open-minded and how much of a vision" — Chet Holmgren on the Thunder's evolution and roster construction** [02:27](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=147s)
 
@@ -34,7 +34,7 @@ Chet Holmgren: "I think it's amazing how fluid basketball is and how open-minded
 
 [https://www.youtube.com/watch?v=gRgflu1Q7p4&t=147s](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=147s)
 
-<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=147&q=4) · [Send to Slack](presserclips://clip?v=gRgflu1Q7p4&t=147&q=4&slack=1)</small>
 
 **5. Chet Holmgren — "Me personally, I feel like so much area to improve, so much to clean up." — Chet Holmgren on the team's mindset despite being 2-0** [04:06](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=246s)
 
@@ -42,7 +42,7 @@ Chet Holmgren: "We're 2-0, that's great. Me personally, I feel like so much area
 
 [https://www.youtube.com/watch?v=gRgflu1Q7p4&t=246s](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=246s)
 
-<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=246&q=5)</small>
+<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=246&q=5) · [Send to Slack](presserclips://clip?v=gRgflu1Q7p4&t=246&q=5&slack=1)</small>
 
 **6. Chet Holmgren — "People call me Go-Go Gadget, he's Go-Go Gadget. His arms are like forever." — Chet Holmgren on the defensive impact of Isaiah Hartenstein** [05:07](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=307s)
 
@@ -50,4 +50,4 @@ Chet Holmgren: "People call me Go-Go Gadget, he's Go-Go Gadget. His arms are lik
 
 [https://www.youtube.com/watch?v=gRgflu1Q7p4&t=307s](https://www.youtube.com/watch?v=gRgflu1Q7p4&t=307s)
 
-<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=307&q=6)</small>
+<small>[Clip it](presserclips://clip?v=gRgflu1Q7p4&t=307&q=6) · [Send to Slack](presserclips://clip?v=gRgflu1Q7p4&t=307&q=6&slack=1)</small>

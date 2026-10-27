@@ -10,7 +10,7 @@ J.B. Bickerstaff: "He's patient and he doesn't get sped up. He's not overwhelmed
 
 [https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=8s](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=8s)
 
-<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=8&q=1) · [Send to Slack](presserclips://clip?v=Np4mmoOYCDQ&t=8&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "Our front office has been able to find those diamonds for us." — J.B. Bickerstaff on the front office finding diamonds like Abuka** [01:02](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=62s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "Our front office has been able to find those diamonds for us,
 
 [https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=62s](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=62s)
 
-<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=62&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=62&q=2) · [Send to Slack](presserclips://clip?v=Np4mmoOYCDQ&t=62&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "His ability to play the four or the five, his ability to stretch the floor." — J.B. Bickerstaff discusses John Collins' versatility and defensive impact** [01:35](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=95s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "We're working through some of these things and just trying to
 
 [https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=95s](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=95s)
 
-<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=95&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=95&q=3) · [Send to Slack](presserclips://clip?v=Np4mmoOYCDQ&t=95&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "We believe like if he takes a jump, our team is going to take a jump." — J.B. Bickerstaff on the development of Asar and team growth** [02:24](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=144s)
 
@@ -34,7 +34,7 @@ J.B. Bickerstaff: "We're trying to experiment with different things. We obviousl
 
 [https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=144s](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=144s)
 
-<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=144&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=144&q=4) · [Send to Slack](presserclips://clip?v=Np4mmoOYCDQ&t=144&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "We want him to be aggressive, but it's aggressive to make the right play." — J.B. Bickerstaff on coaching Asar to be more aggressive** [03:15](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=195s)
 
@@ -42,7 +42,7 @@ J.B. Bickerstaff: "He is obviously extremely talented and versatile on both ends
 
 [https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=195s](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=195s)
 
-<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=195&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=195&q=5) · [Send to Slack](presserclips://clip?v=Np4mmoOYCDQ&t=195&q=5&slack=1)</small>
 
 **6. J.B. Bickerstaff — "We weren't very good offensively, to be honest with you. We didn't execute a lot of things." — J.B. Bickerstaff on offensive struggles and team chemistry** [04:03](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=243s)
 
@@ -50,4 +50,4 @@ J.B. Bickerstaff: "We weren't very good offensively, to be honest with you. We d
 
 [https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=243s](https://www.youtube.com/watch?v=Np4mmoOYCDQ&t=243s)
 
-<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=243&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Np4mmoOYCDQ&t=243&q=6) · [Send to Slack](presserclips://clip?v=Np4mmoOYCDQ&t=243&q=6&slack=1)</small>

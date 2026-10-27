@@ -14,7 +14,7 @@ Tuomas Iisalo: "Cedric's not in an easy spot playing in that we know that the ba
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=23s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=23s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=23&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=23&q=1) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=23&q=1&slack=1)</small>
 
 **2. Tuomas Iisalo — "we also want to get him more involved as others need to adjust playing with him" — Zach Edey's development and offensive role within the team** [00:46](https://www.youtube.com/watch?v=iFSPBqthcSM&t=46s)
 
@@ -22,7 +22,7 @@ Tuomas Iisalo: "Zach's we also want to get him more involved as others need to a
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=46s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=46s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=46&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=46&q=2) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=46&q=2&slack=1)</small>
 
 **3. Tuomas Iisalo — "he's a very mentally extremely strong player with a ton of confidence" — Ty Jerome's resilience and growth as a full-time point guard** [02:22](https://www.youtube.com/watch?v=iFSPBqthcSM&t=142s)
 
@@ -30,7 +30,7 @@ Tuomas Iisalo: "He's a very mentally extremely strong player with a ton of confi
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=142s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=142s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=142&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=142&q=3) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=142&q=3&slack=1)</small>
 
 **4. Tuomas Iisalo — "better to have tired legs and good habits than bad habits and fresh legs" — The team's defensive progress and commitment to rebounding** [03:54](https://www.youtube.com/watch?v=iFSPBqthcSM&t=234s)
 
@@ -38,7 +38,7 @@ Tuomas Iisalo: "The stuff that I said in the locker room and also said to the co
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=234s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=234s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=234&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=234&q=4) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=234&q=4&slack=1)</small>
 
 **5. Tuomas Iisalo — "there are no quick wins. You can only do a lot of damage in the short term" — The team's ongoing development and long-term building process** [05:09](https://www.youtube.com/watch?v=iFSPBqthcSM&t=309s)
 
@@ -46,7 +46,7 @@ Tuomas Iisalo: "There are no illusions, this is preseason. Teams play guys maybe
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=309s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=309s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=309&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=309&q=5) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=309&q=5&slack=1)</small>
 
 **6. Tuomas Iisalo — "I like the fact that we have a ton of handlers even in the first unit" — The effectiveness of two-point guard lineups and team depth** [07:57](https://www.youtube.com/watch?v=iFSPBqthcSM&t=477s)
 
@@ -54,7 +54,7 @@ Tuomas Iisalo: "I like the fact that we have a ton of handlers even in the first
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=477s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=477s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=477&q=6)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=477&q=6) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=477&q=6&slack=1)</small>
 
 **7. Tuomas Iisalo — "we wanted to see him also there together with the starters" — Chris Murray's role and defensive impact in the starting lineup** [09:33](https://www.youtube.com/watch?v=iFSPBqthcSM&t=573s)
 
@@ -62,7 +62,7 @@ Tuomas Iisalo: "We wanted to see him also there together with the starters. We'v
 
 [https://www.youtube.com/watch?v=iFSPBqthcSM&t=573s](https://www.youtube.com/watch?v=iFSPBqthcSM&t=573s)
 
-<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=573&q=7)</small>
+<small>[Clip it](presserclips://clip?v=iFSPBqthcSM&t=573&q=7) · [Send to Slack](presserclips://clip?v=iFSPBqthcSM&t=573&q=7&slack=1)</small>
 
 ---
 
@@ -80,7 +80,7 @@ Jamahl Mosley: "Our depth is going to be the key for us this year. That is going
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=522s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=522s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=522&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=522&q=1) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=522&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "They're willing to take on the challenges. I think it's very big and how connected they are." — Jamahl Mosley on the team's willingness to accept challenges** [10:28](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=628s)
 
@@ -88,7 +88,7 @@ Jamahl Mosley: "They're willing to take on the challenges. I think it's very big
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=628s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=628s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=628&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=628&q=2) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=628&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "I love that he shot it. Gosh, I love it. And they look good." — Jamahl Mosley on Zion Williamson's commitment to shooting threes** [11:23](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=683s)
 
@@ -96,7 +96,7 @@ Jamahl Mosley: "I love that he shot it. Gosh, I love it. And they look good. I m
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=683s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=683s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=683&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=683&q=3) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=683&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "His command of the floor. We had a meeting this morning and we talked about his ability." — Jamahl Mosley on Jeremiah Fears' growth as a floor general** [13:45](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=825s)
 
@@ -104,7 +104,7 @@ Jamahl Mosley: "His command of the floor. We had a meeting this morning and we t
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=825s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=825s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=825&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=825&q=4) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=825&q=4&slack=1)</small>
 
 **5. Jeremiah Fears — "Just figuring each other out. I think that's the most important thing, especially with these preseason games." — Jeremiah Fears on building team chemistry during preseason** [22:16](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1336s)
 
@@ -112,7 +112,7 @@ Jeremiah Fears: "I feel like I played pretty, pretty good. I feel like we're com
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1336s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1336s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1336&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1336&q=5) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=1336&q=5&slack=1)</small>
 
 **6. Jeremiah Fears — "Just trying not to overthink it. I think that's the most important thing, trusting the work." — Jeremiah Fears on his thought process as a playmaker** [23:18](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1398s)
 
@@ -120,7 +120,7 @@ Jeremiah Fears: "Just trying not to overthink it. I think that's the most import
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1398s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1398s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1398&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1398&q=6) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=1398&q=6&slack=1)</small>
 
 ---
 

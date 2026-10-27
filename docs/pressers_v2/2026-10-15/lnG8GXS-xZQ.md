@@ -10,7 +10,7 @@ J.B. Bickerstaff: "I thought he was aggressive. He looked really fast and quick.
 
 [https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=13s](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=13s)
 
-<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=13&q=1) · [Send to Slack](presserclips://clip?v=lnG8GXS-xZQ&t=13&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "His focus was on helping the team. As long as all of our guys prioritize team, talent shines." — J.B. Bickerstaff on Jalen Duren's focus on team-first basketball** [00:42](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=42s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "He just did the job. I think that's where his focus was, and 
 
 [https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=42s](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=42s)
 
-<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=42&q=2) · [Send to Slack](presserclips://clip?v=lnG8GXS-xZQ&t=42&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "Cade is an elite leader, not just a basketball player. He sets the tone." — J.B. Bickerstaff on Cade Cunningham's elite leadership qualities** [01:03](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=63s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "Cade is an elite leader, not just a basketball player, but he
 
 [https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=63s](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=63s)
 
-<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=63&q=3)</small>
+<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=63&q=3) · [Send to Slack](presserclips://clip?v=lnG8GXS-xZQ&t=63&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "I still have a lot of pride in being a Golden Gopher." — J.B. Bickerstaff on his continued pride in the Golden Gophers** [01:32](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=92s)
 
@@ -34,7 +34,7 @@ J.B. Bickerstaff: "I still have a lot of pride in being a Golden Gopher. I try m
 
 [https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=92s](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=92s)
 
-<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=92&q=4)</small>
+<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=92&q=4) · [Send to Slack](presserclips://clip?v=lnG8GXS-xZQ&t=92&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "Their ability to reach guys, their ability to teach guys has been huge for us." — J.B. Bickerstaff on the impact of Patrick Beverly and Eric Curry** [02:10](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=130s)
 
@@ -42,7 +42,7 @@ J.B. Bickerstaff: "A lot. Personality one. Their ability to reach guys, their ab
 
 [https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=130s](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=130s)
 
-<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=130&q=5)</small>
+<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=130&q=5) · [Send to Slack](presserclips://clip?v=lnG8GXS-xZQ&t=130&q=5&slack=1)</small>
 
 **6. J.B. Bickerstaff — "I think he's got to play. The hard part for him has just been injured so much." — J.B. Bickerstaff on Dawson Garcia's development and injury recovery** [02:32](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=152s)
 
@@ -50,4 +50,4 @@ J.B. Bickerstaff: "I think he's got to play. I think the hard part for him has j
 
 [https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=152s](https://www.youtube.com/watch?v=lnG8GXS-xZQ&t=152s)
 
-<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=152&q=6)</small>
+<small>[Clip it](presserclips://clip?v=lnG8GXS-xZQ&t=152&q=6) · [Send to Slack](presserclips://clip?v=lnG8GXS-xZQ&t=152&q=6&slack=1)</small>

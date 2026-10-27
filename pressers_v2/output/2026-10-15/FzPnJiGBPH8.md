@@ -10,7 +10,7 @@ Rick Carlisle: "It was great, it was very impressive. There was no hesitation ab
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=9s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=9s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=9&q=1) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=9&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "It gives us the option to go bigger if we need to." — Rick Carlisle on the team's approach to playing bigger lineups** [01:54](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=114s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "I've talked to Larry and Jay about that and they need to approac
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=114s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=114s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=114&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=114&q=2) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=114&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "Generally, big men with great hands also have a great feel for the game." — Rick Carlisle on the high basketball IQ of big men** [02:59](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=179s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "I always felt that he had a great feel for the game. He has grea
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=179s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=179s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=179&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=179&q=3) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=179&q=3&slack=1)</small>
 
 **4. Tyrese Haliburton — "After not playing Game 2, I decided that I'd probably need some more game reps." — Tyrese Haliburton on the decision to play in the preseason** [05:11](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=311s)
 
@@ -34,7 +34,7 @@ Tyrese Haliburton: "Mentally, as I prepared for the season and knowing that was 
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=311s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=311s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=311&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=311&q=4) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=311&q=4&slack=1)</small>
 
 **5. Tyrese Haliburton — "We're just growing our synergy and our relationship every day and it's going to be a fun year." — Tyrese Haliburton on developing chemistry with teammates** [07:14](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=434s)
 
@@ -42,7 +42,7 @@ Tyrese Haliburton: "I feel like as time goes on it will only get better and we'r
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=434s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=434s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=434&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=434&q=5) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=434&q=5&slack=1)</small>
 
 **6. Aaron Nesmith — "It's been fun just getting back in the groove of playing with that unit out there." — Aaron Nesmith on the team's progress and playing together** [10:03](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=603s)
 
@@ -50,7 +50,7 @@ Aaron Nesmith: "It's been a lot of fun honestly. It's been fun just getting back
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=603s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=603s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=603&q=6)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=603&q=6) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=603&q=6&slack=1)</small>
 
 **7. Aaron Nesmith — "I think he's probably the best screener in the NBA." — Aaron Nesmith on the screening ability of teammates** [11:19](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=679s)
 
@@ -58,7 +58,7 @@ Aaron Nesmith: "That's his craft. I think he's probably the best screener in the
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=679s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=679s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=679&q=7)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=679&q=7) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=679&q=7&slack=1)</small>
 
 **8. Aaron Nesmith — "These games matter, the foundation we set matters." — Aaron Nesmith on the importance of maintaining intensity in preseason** [12:31](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=751s)
 
@@ -66,4 +66,4 @@ Aaron Nesmith: "Just making sure we don't lose the grit, the grit and the grind.
 
 [https://www.youtube.com/watch?v=FzPnJiGBPH8&t=751s](https://www.youtube.com/watch?v=FzPnJiGBPH8&t=751s)
 
-<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=751&q=8)</small>
+<small>[Clip it](presserclips://clip?v=FzPnJiGBPH8&t=751&q=8) · [Send to Slack](presserclips://clip?v=FzPnJiGBPH8&t=751&q=8&slack=1)</small>

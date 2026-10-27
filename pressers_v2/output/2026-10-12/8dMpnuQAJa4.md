@@ -10,7 +10,7 @@ Rick Carlisle: "He's experienced player. He's started a lot of games in this lea
 
 [https://www.youtube.com/watch?v=8dMpnuQAJa4&t=26s](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=26s)
 
-<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=26&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=26&q=1) · [Send to Slack](presserclips://clip?v=8dMpnuQAJa4&t=26&q=1&slack=1)</small>
 
 **2. Kelly Oubre Jr. — "I was able to impact the game. I'm still learning, so there's some things that I can get better." — Kelly Oubre Jr. discusses his adjustment to the Pacers' system** [00:58](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=58s)
 
@@ -18,7 +18,7 @@ Kelly Oubre Jr.: "I think I did pretty well. I was able to impact the game. I'm 
 
 [https://www.youtube.com/watch?v=8dMpnuQAJa4&t=58s](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=58s)
 
-<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=58&q=2) · [Send to Slack](presserclips://clip?v=8dMpnuQAJa4&t=58&q=2&slack=1)</small>
 
 **3. Kelly Oubre Jr. — "Just learning the defensive schemes, terminology, being in the right position." — Kelly Oubre Jr. on learning defensive schemes and team nuances** [01:20](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=80s)
 
@@ -26,7 +26,7 @@ Kelly Oubre Jr.: "Just learning the defensive schemes, terminology, being in the
 
 [https://www.youtube.com/watch?v=8dMpnuQAJa4&t=80s](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=80s)
 
-<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=80&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=80&q=3) · [Send to Slack](presserclips://clip?v=8dMpnuQAJa4&t=80&q=3&slack=1)</small>
 
 **4. Kelly Oubre Jr. — "I think we could play faster, but it's one thing about playing fast, but another thing about playing with your head." — Kelly Oubre Jr. on the Pacers' fast-paced playing style** [01:44](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=104s)
 
@@ -34,7 +34,7 @@ Kelly Oubre Jr.: "I love it. I think we could play faster, but it's one thing ab
 
 [https://www.youtube.com/watch?v=8dMpnuQAJa4&t=104s](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=104s)
 
-<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=104&q=4)</small>
+<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=104&q=4) · [Send to Slack](presserclips://clip?v=8dMpnuQAJa4&t=104&q=4&slack=1)</small>
 
 **5. Kelly Oubre Jr. — "I haven't played with somebody as forceful as him just running to him you're going to fall." — Kelly Oubre Jr. praises Zion Williamson's athleticism and agility** [02:10](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=130s)
 
@@ -42,4 +42,4 @@ Kelly Oubre Jr.: "I love it. I haven't played with somebody as forceful as him j
 
 [https://www.youtube.com/watch?v=8dMpnuQAJa4&t=130s](https://www.youtube.com/watch?v=8dMpnuQAJa4&t=130s)
 
-<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=130&q=5)</small>
+<small>[Clip it](presserclips://clip?v=8dMpnuQAJa4&t=130&q=5) · [Send to Slack](presserclips://clip?v=8dMpnuQAJa4&t=130&q=5&slack=1)</small>

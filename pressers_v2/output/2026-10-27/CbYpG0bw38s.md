@@ -10,7 +10,7 @@ Kevin Durant: "He just looks focused, locked in on both ends. It helps that we g
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=46s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=46s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=46&q=1) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=46&q=1&slack=1)</small>
 
 **2. Kevin Durant — "every game we walked into we felt like we could win." — Kevin Durant on the team's established culture of belief** [01:40](https://www.youtube.com/watch?v=CbYpG0bw38s&t=100s)
 
@@ -18,7 +18,7 @@ Kevin Durant: "I was the belief and trust last year. Every game we walked into w
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=100s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=100s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=100&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=100&q=2) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=100&q=2&slack=1)</small>
 
 **3. Kevin Durant — "he's doing a great job getting hands on basketballs on deflections, standing in front of his man." — Kevin Durant on Reed Sheppard's defensive impact and activity** [02:21](https://www.youtube.com/watch?v=CbYpG0bw38s&t=141s)
 
@@ -26,7 +26,7 @@ Kevin Durant: "Reed is standing in front of the ball. Just a steady force on the
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=141s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=141s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=141&q=3)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=141&q=3) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=141&q=3&slack=1)</small>
 
 **4. Kevin Durant — "being this size and that can be able to switch one through five, that adds another dimension." — Kevin Durant on the defensive impact of his length** [02:52](https://www.youtube.com/watch?v=CbYpG0bw38s&t=172s)
 
@@ -34,7 +34,7 @@ Kevin Durant: "Being this size and that can be able to switch one through five, 
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=172s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=172s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=172&q=4)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=172&q=4) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=172&q=4&slack=1)</small>
 
 **5. Kevin Durant — "we're doing a lot of screening actions, a lot of flaring actions, just playing random ball." — Kevin Durant on the team's off-ball movement and screening** [03:39](https://www.youtube.com/watch?v=CbYpG0bw38s&t=219s)
 
@@ -42,7 +42,7 @@ Kevin Durant: "When you got guys that out there that can shoot the basketball, t
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=219s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=219s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=219&q=5)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=219&q=5) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=219&q=5&slack=1)</small>
 
 **6. Kevin Durant — "we know exactly how we're going to guard teams in each possession and then we all go." — Kevin Durant on the team's transition offense philosophy** [04:42](https://www.youtube.com/watch?v=CbYpG0bw38s&t=282s)
 
@@ -50,7 +50,7 @@ Kevin Durant: "We got a good philosophy on the defensive side of the ball, where
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=282s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=282s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=282&q=6)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=282&q=6) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=282&q=6&slack=1)</small>
 
 **7. Kevin Durant — "we don't have to call that play, we just kind of know that all right, if we're sitting." — Kevin Durant on balancing set plays with random basketball** [05:27](https://www.youtube.com/watch?v=CbYpG0bw38s&t=327s)
 
@@ -58,7 +58,7 @@ Kevin Durant: "We've been working on this since training camp to the point where
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=327s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=327s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=327&q=7)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=327&q=7) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=327&q=7&slack=1)</small>
 
 **8. Kevin Durant — "it's a brotherhood, we compete at the highest level against each other." — Kevin Durant on the injury to Ja Morant** [06:33](https://www.youtube.com/watch?v=CbYpG0bw38s&t=393s)
 
@@ -66,4 +66,4 @@ Kevin Durant: "Just feel for him. This is a brotherhood, we compete at the highe
 
 [https://www.youtube.com/watch?v=CbYpG0bw38s&t=393s](https://www.youtube.com/watch?v=CbYpG0bw38s&t=393s)
 
-<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=393&q=8)</small>
+<small>[Clip it](presserclips://clip?v=CbYpG0bw38s&t=393&q=8) · [Send to Slack](presserclips://clip?v=CbYpG0bw38s&t=393&q=8&slack=1)</small>

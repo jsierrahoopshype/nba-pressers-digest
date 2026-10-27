@@ -10,7 +10,7 @@ Charles Lee: "Unfortunately Kobe suffered an injury during training camp, compet
 
 [https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=49s](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=49s)
 
-<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=49&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=49&q=1) · [Send to Slack](presserclips://clip?v=4a4IiMbG0Tg&t=49&q=1&slack=1)</small>
 
 **2. Charles Lee — "Christian and Brandon, same type of thing sustained injuries during practice and their day to day" — Charles Lee on injuries to Brandon Miller and Christian** [01:05](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=65s)
 
@@ -18,7 +18,7 @@ Charles Lee: "**Christian** and **Brandon**, same type of thing sustained injuri
 
 [https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=65s](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=65s)
 
-<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=65&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=65&q=2) · [Send to Slack](presserclips://clip?v=4a4IiMbG0Tg&t=65&q=2&slack=1)</small>
 
 **3. Charles Lee — "Dennis did a great job of taking care of his body throughout the whole off season" — Charles Lee on Dennis Schroder's competitive nature** [02:28](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=148s)
 
@@ -26,7 +26,7 @@ Charles Lee: "Dennis did a great job of taking care of his body throughout the w
 
 [https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=148s](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=148s)
 
-<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=148&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=148&q=3) · [Send to Slack](presserclips://clip?v=4a4IiMbG0Tg&t=148&q=3&slack=1)</small>
 
 **4. Charles Lee — "Moussa crashing that glass relentlessly is something that Hannes hadn't seen in a while" — Charles Lee on the competitive dynamic between Moussa and Hannes** [03:36](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=216s)
 
@@ -34,7 +34,7 @@ Charles Lee: "**Moussa** crashing that glass relentlessly is something that **Ha
 
 [https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=216s](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=216s)
 
-<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=216&q=4)</small>
+<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=216&q=4) · [Send to Slack](presserclips://clip?v=4a4IiMbG0Tg&t=216&q=4&slack=1)</small>
 
 **5. Charles Lee — "I've loved their off seasons. There's been a serious commitment from those guys" — Charles Lee on the development of Liam McNeeley and Tidjane Salaun** [04:37](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=277s)
 
@@ -42,7 +42,7 @@ Charles Lee: "I've loved their off seasons. There's been a serious commitment fr
 
 [https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=277s](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=277s)
 
-<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=277&q=5)</small>
+<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=277&q=5) · [Send to Slack](presserclips://clip?v=4a4IiMbG0Tg&t=277&q=5&slack=1)</small>
 
 **6. Charles Lee — "definitely want our guys continuing to be relentless on the glass" — Charles Lee on team pace and glass dominance** [05:24](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=324s)
 
@@ -50,4 +50,4 @@ Charles Lee: "Definitely want our guys continuing to be relentless on the glass.
 
 [https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=324s](https://www.youtube.com/watch?v=4a4IiMbG0Tg&t=324s)
 
-<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=324&q=6)</small>
+<small>[Clip it](presserclips://clip?v=4a4IiMbG0Tg&t=324&q=6) · [Send to Slack](presserclips://clip?v=4a4IiMbG0Tg&t=324&q=6&slack=1)</small>

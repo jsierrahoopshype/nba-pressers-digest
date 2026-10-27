@@ -10,7 +10,7 @@ Coach Adelman: "I thought he improved last year too. In big moments when there's
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=7s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=7s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=7&q=1) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=7&q=1&slack=1)</small>
 
 **2. Coach Adelman — "We over-teach in the US all this dribble, all this crap that we do. Straight lines are okay." — Over-teaching dribbling skills in the US basketball system** [00:30](https://www.youtube.com/watch?v=e9DDTV27p5I&t=30s)
 
@@ -18,7 +18,7 @@ Coach Adelman: "We over-teach in the US all this dribble, all this crap that we 
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=30s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=30s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=30&q=2)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=30&q=2) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=30&q=2&slack=1)</small>
 
 **3. Coach Adelman — "When something that is God-given to you that has helped you be a professional basketball player is taken" — Christian Braun's physical health and explosive movement** [00:54](https://www.youtube.com/watch?v=e9DDTV27p5I&t=54s)
 
@@ -26,7 +26,7 @@ Coach Adelman: "When something that is God-given to you that has helped you be a
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=54s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=54s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=54&q=3)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=54&q=3) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=54&q=3&slack=1)</small>
 
 **4. Coach Adelman — "He embarrassed our pick-and-roll defense last year. I did not rewatch that tape." — Ryan Nemhard's impact on pick-and-roll defense** [02:20](https://www.youtube.com/watch?v=e9DDTV27p5I&t=140s)
 
@@ -34,7 +34,7 @@ Coach Adelman: "He embarrassed our pick-and-roll defense last year. I did not re
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=140s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=140s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=140&q=4)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=140&q=4) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=140&q=4&slack=1)</small>
 
 **5. Coach Adelman — "The two-way now it's need-based, because there's so much talent out there." — The emergence of a new class of two-way players** [04:30](https://www.youtube.com/watch?v=e9DDTV27p5I&t=270s)
 
@@ -42,7 +42,7 @@ Coach Adelman: "The two-way now it's need-based, because there's so much talent 
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=270s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=270s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=270&q=5)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=270&q=5) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=270&q=5&slack=1)</small>
 
 **6. Cam Johnson — "When you create that contact, don't let them get behind you in a sense where you're keeping everything" — The importance of crashing the offensive glass** [08:14](https://www.youtube.com/watch?v=e9DDTV27p5I&t=494s)
 
@@ -50,7 +50,7 @@ Cam Johnson: "When you create that contact, don't let them get behind you in a s
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=494s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=494s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=494&q=6)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=494&q=6) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=494&q=6&slack=1)</small>
 
 **7. Cam Johnson — "It's decisiveness in our actions and our free flow, understanding where Yoke, where Jamal, where AG, where CB" — Decisiveness and free-flowing movement in the offense** [10:12](https://www.youtube.com/watch?v=e9DDTV27p5I&t=612s)
 
@@ -58,7 +58,7 @@ Cam Johnson: "It's decisiveness in our actions and our free flow, understanding 
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=612s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=612s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=612&q=7)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=612&q=7) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=612&q=7&slack=1)</small>
 
 **8. Cam Johnson — "It's that rebounding principle, it's that crash principle, it's defensive gap principles, rotation principles." — Building the foundation for the upcoming season** [10:47](https://www.youtube.com/watch?v=e9DDTV27p5I&t=647s)
 
@@ -66,7 +66,7 @@ Cam Johnson: "It's that rebounding principle, it's that crash principle, it's de
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=647s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=647s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=647&q=8)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=647&q=8) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=647&q=8&slack=1)</small>
 
 **9. Cam Johnson — "I really like Alpha. You can just see that maturity he has from his professional experience." — Impressions of teammates Alpha, Bryson, and Trayvon** [13:59](https://www.youtube.com/watch?v=e9DDTV27p5I&t=839s)
 
@@ -74,4 +74,4 @@ Cam Johnson: "I really like **Alpha**. You can just see that maturity he has fro
 
 [https://www.youtube.com/watch?v=e9DDTV27p5I&t=839s](https://www.youtube.com/watch?v=e9DDTV27p5I&t=839s)
 
-<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=839&q=9)</small>
+<small>[Clip it](presserclips://clip?v=e9DDTV27p5I&t=839&q=9) · [Send to Slack](presserclips://clip?v=e9DDTV27p5I&t=839&q=9&slack=1)</small>

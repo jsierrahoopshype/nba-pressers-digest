@@ -10,7 +10,7 @@ Kam Jones: "There was a week, probably eight, nine days of just uncertainty. I h
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=28s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=28s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=28&q=1)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=28&q=1) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=28&q=1&slack=1)</small>
 
 **2. Kam Jones — "It's been a lot of fun, just going against those guys, competing, seeing where you stand" — Kam Jones on competing against veteran guards in practice** [01:39](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=99s)
 
@@ -18,7 +18,7 @@ Kam Jones: "It's been a lot of fun, just going against those guys, competing, se
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=99s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=99s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=99&q=2)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=99&q=2) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=99&q=2&slack=1)</small>
 
 **3. Kam Jones — "We need to be a team that have each other's back and plays for one another" — Kam Jones on the importance of team chemistry and trust** [02:49](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=169s)
 
@@ -26,7 +26,7 @@ Kam Jones: "The main thing we just need to be together. We need to compete, just
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=169s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=169s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=169&q=3)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=169&q=3) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=169&q=3&slack=1)</small>
 
 **4. Kam Jones — "Shaka has quoted those words to me plenty of times in my college career" — Kam Jones on the influence of Coach Doc Rivers** [03:10](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=190s)
 
@@ -34,7 +34,7 @@ Kam Jones: "It was kind of funny to me hearing some of the things he says. Doc h
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=190s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=190s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=190&q=4)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=190&q=4) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=190&q=4&slack=1)</small>
 
 **5. Kam Jones — "As important as time on the court with each other is, that time off the court is just as important" — Kam Jones on the value of off-court team bonding** [03:54](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=234s)
 
@@ -42,7 +42,7 @@ Kam Jones: "As important as time on the court with each other is, that time off 
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=234s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=234s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=234&q=5)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=234&q=5) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=234&q=5&slack=1)</small>
 
 **6. Kam Jones — "MT has been great, Verd has been great, all our older guys, Koo, they've been great" — Kam Jones on the veteran leadership of the Bucks** [04:36](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=276s)
 
@@ -50,7 +50,7 @@ Kam Jones: "**MT** has been great, **Verd** has been great, all our older guys, 
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=276s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=276s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=276&q=6)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=276&q=6) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=276&q=6&slack=1)</small>
 
 **7. Kam Jones — "Me and Cormac are very, very fierce competitors anyway, so we were going to do that in the first place" — Kam Jones on the impact of Doc Rivers' competitive expectations** [05:14](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=314s)
 
@@ -58,7 +58,7 @@ Kam Jones: "It just gives you a lot of optimism. Me and **Cormac** are very, ver
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=314s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=314s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=314&q=7)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=314&q=7) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=314&q=7&slack=1)</small>
 
 **8. Kam Jones — "Defense is by far the most important with my situation and where I am" — Kam Jones on his defensive focus and role** [05:44](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=344s)
 
@@ -66,4 +66,4 @@ Kam Jones: "I think it fits very well. I can be a good plug and play guy, handle
 
 [https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=344s](https://www.youtube.com/watch?v=AH8dkPbr0BQ&t=344s)
 
-<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=344&q=8)</small>
+<small>[Clip it](presserclips://clip?v=AH8dkPbr0BQ&t=344&q=8) · [Send to Slack](presserclips://clip?v=AH8dkPbr0BQ&t=344&q=8&slack=1)</small>

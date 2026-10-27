@@ -10,7 +10,7 @@ Adem Bona: "I was out for a little bit so it's just getting back to myself. It's
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=10s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=10s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=10&q=1) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=10&q=1&slack=1)</small>
 
 **2. Adem Bona — "He just wants me to do my job: set screens, space the floor, run the floor." — LeBron James' expectations for Adem Bona on the floor** [00:39](https://www.youtube.com/watch?v=0KplEsaQZaU&t=39s)
 
@@ -18,7 +18,7 @@ Adem Bona: "He just wants me to do my job: set screens, space the floor, run the
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=39s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=39s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=39&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=39&q=2) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=39&q=2&slack=1)</small>
 
 **3. Adem Bona — "He's been amazing, I mean, he's testing it defensively and offensively." — Adem Bona on LeBron James' leadership and impact** [00:54](https://www.youtube.com/watch?v=0KplEsaQZaU&t=54s)
 
@@ -26,7 +26,7 @@ Adem Bona: "He's been amazing, I mean, he's testing it defensively and offensive
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=54s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=54s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=54&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=54&q=3) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=54&q=3&slack=1)</small>
 
 **4. Adem Bona — "He's always been like that, I mean, from year one he's been vocal." — Adem Bona on LeBron James' consistent leadership style** [01:12](https://www.youtube.com/watch?v=0KplEsaQZaU&t=72s)
 
@@ -34,7 +34,7 @@ Adem Bona: "He's always been like that, I mean, from year one he's been vocal, t
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=72s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=72s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=72&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=72&q=4) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=72&q=4&slack=1)</small>
 
 **5. Adem Bona — "I think we just got to focus on what we do to be able to start the game better." — Adem Bona on team focus after two games** [01:42](https://www.youtube.com/watch?v=0KplEsaQZaU&t=102s)
 
@@ -42,7 +42,7 @@ Adem Bona: "I think we just got to focus on what we do to be able to start the g
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=102s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=102s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=102&q=5)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=102&q=5) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=102&q=5&slack=1)</small>
 
 **6. Adem Bona — "I think my role has always been the same, you know, defensively when I go out there." — Adem Bona on his defensive role and responsibilities** [01:57](https://www.youtube.com/watch?v=0KplEsaQZaU&t=117s)
 
@@ -50,7 +50,7 @@ Adem Bona: "I think my role has always been the same, you know, defensively when
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=117s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=117s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=117&q=6)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=117&q=6) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=117&q=6&slack=1)</small>
 
 **7. Adem Bona — "I just got to catch up with the things that we do with the time I missed." — Adem Bona on catching up with team systems** [02:18](https://www.youtube.com/watch?v=0KplEsaQZaU&t=138s)
 
@@ -58,7 +58,7 @@ Adem Bona: "I don't think there is any pressure, it's just like I just got to ca
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=138s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=138s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=138&q=7)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=138&q=7) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=138&q=7&slack=1)</small>
 
 **8. Adem Bona — "I think defensively we could be really good because there's a lot of diversity." — Adem Bona on the defensive potential of the team** [02:42](https://www.youtube.com/watch?v=0KplEsaQZaU&t=162s)
 
@@ -66,7 +66,7 @@ Adem Bona: "I think defensively we could be really good because there's a lot of
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=162s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=162s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=162&q=8)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=162&q=8) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=162&q=8&slack=1)</small>
 
 **9. Adem Bona — "We just have to attack the ball, defensively by defending, rebound as a team." — Adem Bona on the importance of team rebounding** [03:09](https://www.youtube.com/watch?v=0KplEsaQZaU&t=189s)
 
@@ -74,7 +74,7 @@ Adem Bona: "We just have to attack the ball, defensively by defending, rebound a
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=189s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=189s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=189&q=9)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=189&q=9) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=189&q=9&slack=1)</small>
 
 **10. Adem Bona — "I just have to be the same match, you never know what's going to happen." — Adem Bona on staying ready for increased playing time** [03:45](https://www.youtube.com/watch?v=0KplEsaQZaU&t=225s)
 
@@ -82,7 +82,7 @@ Adem Bona: "I just have to be the same match, you never know what's going to hap
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=225s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=225s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=225&q=10)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=225&q=10) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=225&q=10&slack=1)</small>
 
 **11. Adem Bona — "I do set goals for myself, long-term, short-term." — Adem Bona on his personal and team goals** [04:05](https://www.youtube.com/watch?v=0KplEsaQZaU&t=245s)
 
@@ -90,7 +90,7 @@ Adem Bona: "I do set goals for myself, long-term, short-term. For this season, i
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=245s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=245s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=245&q=11)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=245&q=11) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=245&q=11&slack=1)</small>
 
 **12. Adem Bona — "You have to set yourself up for success, you can't just prepare for the little things." — Adem Bona on readiness for extended minutes** [04:24](https://www.youtube.com/watch?v=0KplEsaQZaU&t=264s)
 
@@ -98,7 +98,7 @@ Adem Bona: "You have to set yourself up for success, you can't just prepare for 
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=264s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=264s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=264&q=12)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=264&q=12) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=264&q=12&slack=1)</small>
 
 **13. Adem Bona — "It's just been awesome, I mean, defensively as a team we just have to do better." — Adem Bona on playing with Jaylen Brown and LeBron James** [04:48](https://www.youtube.com/watch?v=0KplEsaQZaU&t=288s)
 
@@ -106,4 +106,4 @@ Adem Bona: "It's just been awesome, I mean, defensively as a team we just have t
 
 [https://www.youtube.com/watch?v=0KplEsaQZaU&t=288s](https://www.youtube.com/watch?v=0KplEsaQZaU&t=288s)
 
-<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=288&q=13)</small>
+<small>[Clip it](presserclips://clip?v=0KplEsaQZaU&t=288&q=13) · [Send to Slack](presserclips://clip?v=0KplEsaQZaU&t=288&q=13&slack=1)</small>

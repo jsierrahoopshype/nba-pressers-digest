@@ -10,7 +10,7 @@ Moussa Diabate: "I think that is just something I am trying to do every time no 
 
 [https://www.youtube.com/watch?v=8diNlUnML2s&t=25s](https://www.youtube.com/watch?v=8diNlUnML2s&t=25s)
 
-<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=25&q=1) · [Send to Slack](presserclips://clip?v=8diNlUnML2s&t=25&q=1&slack=1)</small>
 
 **2. Moussa Diabate — "The main way that I got a chance to get in the rotation was because I was rebounding the ball." — Moussa Diabate on earning his rotation spot through rebounding** [01:09](https://www.youtube.com/watch?v=8diNlUnML2s&t=69s)
 
@@ -18,7 +18,7 @@ Moussa Diabate: "I think that is just something I kind of figured out as we were
 
 [https://www.youtube.com/watch?v=8diNlUnML2s&t=69s](https://www.youtube.com/watch?v=8diNlUnML2s&t=69s)
 
-<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=69&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=69&q=2) · [Send to Slack](presserclips://clip?v=8diNlUnML2s&t=69&q=2&slack=1)</small>
 
 **3. Moussa Diabate — "We all trust him with the ball. That is the whole reason why he got paid." — Moussa Diabate on the team's trust in Brandon Miller** [02:39](https://www.youtube.com/watch?v=8diNlUnML2s&t=159s)
 
@@ -26,7 +26,7 @@ Moussa Diabate: "It is great. I think that we all trust him. We all trust him wi
 
 [https://www.youtube.com/watch?v=8diNlUnML2s&t=159s](https://www.youtube.com/watch?v=8diNlUnML2s&t=159s)
 
-<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=159&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=159&q=3) · [Send to Slack](presserclips://clip?v=8diNlUnML2s&t=159&q=3&slack=1)</small>
 
 **4. Moussa Diabate — "It is all about the habit. No matter who it is, you got to play with that same intensity." — Moussa Diabate on maintaining intensity against star players** [03:35](https://www.youtube.com/watch?v=8diNlUnML2s&t=215s)
 
@@ -34,7 +34,7 @@ Moussa Diabate: "I guess you get this certain excitement of knowing that you are
 
 [https://www.youtube.com/watch?v=8diNlUnML2s&t=215s](https://www.youtube.com/watch?v=8diNlUnML2s&t=215s)
 
-<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=215&q=4)</small>
+<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=215&q=4) · [Send to Slack](presserclips://clip?v=8diNlUnML2s&t=215&q=4&slack=1)</small>
 
 **5. Moussa Diabate — "I always tell him, just play with energy. That is the best way to get noticed by the coaches." — Moussa Diabate on the development of Tidjane Salaün** [04:06](https://www.youtube.com/watch?v=8diNlUnML2s&t=246s)
 
@@ -42,4 +42,4 @@ Moussa Diabate: "I always tell him, just play with energy. That is the best way 
 
 [https://www.youtube.com/watch?v=8diNlUnML2s&t=246s](https://www.youtube.com/watch?v=8diNlUnML2s&t=246s)
 
-<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=246&q=5)</small>
+<small>[Clip it](presserclips://clip?v=8diNlUnML2s&t=246&q=5) · [Send to Slack](presserclips://clip?v=8diNlUnML2s&t=246&q=5&slack=1)</small>

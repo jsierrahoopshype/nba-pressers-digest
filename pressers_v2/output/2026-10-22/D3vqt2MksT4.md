@@ -10,7 +10,7 @@ Micah Nori: "Defense downhill, very good passer as we saw, and even with his lat
 
 [https://www.youtube.com/watch?v=D3vqt2MksT4&t=0s](https://www.youtube.com/watch?v=D3vqt2MksT4&t=0s)
 
-<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=0&q=1) · [Send to Slack](presserclips://clip?v=D3vqt2MksT4&t=0&q=1&slack=1)</small>
 
 **2. Micah Nori — "his catch and shoot threes in our practice facility since Labor Day is like 52 percent" — Micah Nori on Toumani Camara's improved catch-and-shoot three-point shooting** [00:21](https://www.youtube.com/watch?v=D3vqt2MksT4&t=21s)
 
@@ -18,7 +18,7 @@ Micah Nori: "You are talking about guys getting easier looks on their playing of
 
 [https://www.youtube.com/watch?v=D3vqt2MksT4&t=21s](https://www.youtube.com/watch?v=D3vqt2MksT4&t=21s)
 
-<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=21&q=2)</small>
+<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=21&q=2) · [Send to Slack](presserclips://clip?v=D3vqt2MksT4&t=21&q=2&slack=1)</small>
 
 **3. Micah Nori — "the magnitude that which Dame pulls guys when he's off the ball, Toumani and those guys are going to get" — Micah Nori on the impact of Damian Lillard's gravity on teammates** [00:48](https://www.youtube.com/watch?v=D3vqt2MksT4&t=48s)
 
@@ -26,7 +26,7 @@ Micah Nori: "Again, I hate to keep going back to it, but this is what we talked 
 
 [https://www.youtube.com/watch?v=D3vqt2MksT4&t=48s](https://www.youtube.com/watch?v=D3vqt2MksT4&t=48s)
 
-<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=48&q=3)</small>
+<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=48&q=3) · [Send to Slack](presserclips://clip?v=D3vqt2MksT4&t=48&q=3&slack=1)</small>
 
 **4. Micah Nori — "it exceeded them, never in my wildest dreams did I think that we were going to have the start" — Micah Nori on the emotional significance of his first win as head coach** [01:14](https://www.youtube.com/watch?v=D3vqt2MksT4&t=74s)
 
@@ -34,7 +34,7 @@ Micah Nori: "We were waiting 28, 29 years for this moment, Micah. What does it m
 
 [https://www.youtube.com/watch?v=D3vqt2MksT4&t=74s](https://www.youtube.com/watch?v=D3vqt2MksT4&t=74s)
 
-<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=74&q=4)</small>
+<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=74&q=4) · [Send to Slack](presserclips://clip?v=D3vqt2MksT4&t=74&q=4&slack=1)</small>
 
 **5. Micah Nori — "for them to be here and for me to look up and then just my brothers and sisters" — Micah Nori on his family's presence at his coaching debut** [01:48](https://www.youtube.com/watch?v=D3vqt2MksT4&t=108s)
 
@@ -42,7 +42,7 @@ Micah Nori: "With your parents being here and such a big night, it's a chance fo
 
 [https://www.youtube.com/watch?v=D3vqt2MksT4&t=108s](https://www.youtube.com/watch?v=D3vqt2MksT4&t=108s)
 
-<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=108&q=5)</small>
+<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=108&q=5) · [Send to Slack](presserclips://clip?v=D3vqt2MksT4&t=108&q=5&slack=1)</small>
 
 **6. Micah Nori — "Dante was playing in an Arizona Fall League game and my daughter, she's a freshman in South Carolina" — Micah Nori on his family's support and his daughter's absence** [02:48](https://www.youtube.com/watch?v=D3vqt2MksT4&t=168s)
 
@@ -50,7 +50,7 @@ Micah Nori: "You mentioned your nieces and that's why I wondered, I didn't see, 
 
 [https://www.youtube.com/watch?v=D3vqt2MksT4&t=168s](https://www.youtube.com/watch?v=D3vqt2MksT4&t=168s)
 
-<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=168&q=6)</small>
+<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=168&q=6) · [Send to Slack](presserclips://clip?v=D3vqt2MksT4&t=168&q=6&slack=1)</small>
 
 **7. Micah Nori — "to draw it up the way Dame came back and the way he played and the way Ja" — Micah Nori on the team's performance and the quick turnaround** [03:03](https://www.youtube.com/watch?v=D3vqt2MksT4&t=183s)
 
@@ -58,4 +58,4 @@ Micah Nori: "Your clothes look dry, taking you haven't gone in the locker room y
 
 [https://www.youtube.com/watch?v=D3vqt2MksT4&t=183s](https://www.youtube.com/watch?v=D3vqt2MksT4&t=183s)
 
-<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=183&q=7)</small>
+<small>[Clip it](presserclips://clip?v=D3vqt2MksT4&t=183&q=7) · [Send to Slack](presserclips://clip?v=D3vqt2MksT4&t=183&q=7&slack=1)</small>

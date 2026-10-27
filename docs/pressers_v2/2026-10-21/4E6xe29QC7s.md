@@ -10,7 +10,7 @@ Mark Daigneault: "I thought we were really, really good on that end tonight and 
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=0s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=0s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=0&q=1) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=0&q=1&slack=1)</small>
 
 **2. Mark Daigneault — "It's his poise and his ability to answer the call that allows you to come on the road." — Mark Daigneault on Shai Gilgeous-Alexander's poise and playmaking** [00:31](https://www.youtube.com/watch?v=4E6xe29QC7s&t=31s)
 
@@ -18,7 +18,7 @@ Mark Daigneault: "I thought he was really good. It's his poise and his ability t
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=31s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=31s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=31&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=31&q=2) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=31&q=2&slack=1)</small>
 
 **3. Mark Daigneault — "I think our collective understanding of the opponent like evolves over time." — Mark Daigneault on learning from past playoff losses** [01:15](https://www.youtube.com/watch?v=4E6xe29QC7s&t=75s)
 
@@ -26,7 +26,7 @@ Mark Daigneault: "I think our collective understanding of the opponent like evol
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=75s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=75s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=75&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=75&q=3) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=75&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "I thought Chet did a great job on him, I thought Mara did a great job on him." — Mark Daigneault on the defensive plan against Victor Wembanyama** [02:10](https://www.youtube.com/watch?v=4E6xe29QC7s&t=130s)
 
@@ -34,7 +34,7 @@ Mark Daigneault: "There's always a variance to it. I thought he missed shots tha
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=130s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=130s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=130&q=4)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=130&q=4) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=130&q=4&slack=1)</small>
 
 **5. Mark Daigneault — "We weren't intentional about the minute-for-minute thing. We had that rotation set going into the game tonight." — Mark Daigneault on the defensive rotation against Wembanyama** [02:55](https://www.youtube.com/watch?v=4E6xe29QC7s&t=175s)
 
@@ -42,7 +42,7 @@ Mark Daigneault: "Chet's a great defender and a great competitor. We weren't int
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=175s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=175s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=175&q=5)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=175&q=5) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=175&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "I thought we played with really good intentionality all night." — Mark Daigneault on the team's offensive intentionality** [03:58](https://www.youtube.com/watch?v=4E6xe29QC7s&t=238s)
 
@@ -50,7 +50,7 @@ Mark Daigneault: "I thought we played with really good intentionality all night.
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=238s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=238s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=238&q=6)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=238&q=6) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=238&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "Castle, I give him credit, he made some shots in the second half after starting slow from three." — Mark Daigneault on the defensive cross-matching against Steph Curry** [04:35](https://www.youtube.com/watch?v=4E6xe29QC7s&t=275s)
 
@@ -58,7 +58,7 @@ Mark Daigneault: "Castle, I give him credit, he made some shots in the second ha
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=275s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=275s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=275&q=7)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=275&q=7) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=275&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "Everybody was ready to compete tonight, top to bottom there's no one you could ask about any guy." — Mark Daigneault on the team's readiness to start the season** [05:27](https://www.youtube.com/watch?v=4E6xe29QC7s&t=327s)
 
@@ -66,7 +66,7 @@ Mark Daigneault: "Everybody was ready to compete tonight, top to bottom there's 
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=327s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=327s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=327&q=8)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=327&q=8) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=327&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "He was awesome, great poise, great impact." — Mark Daigneault on the rookie's NBA debut** [06:14](https://www.youtube.com/watch?v=4E6xe29QC7s&t=374s)
 
@@ -74,7 +74,7 @@ Mark Daigneault: "He was awesome, great poise, great impact. He had probably one
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=374s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=374s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=374&q=9)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=374&q=9) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=374&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "It's one thing to be a really good shooter, it's another thing to be able to find volume shots." — Mark Daigneault on Jeremy McCain's shooting and shot selection** [06:55](https://www.youtube.com/watch?v=4E6xe29QC7s&t=415s)
 
@@ -82,4 +82,4 @@ Mark Daigneault: "I think that's been what's been most impressive to me about hi
 
 [https://www.youtube.com/watch?v=4E6xe29QC7s&t=415s](https://www.youtube.com/watch?v=4E6xe29QC7s&t=415s)
 
-<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=415&q=10)</small>
+<small>[Clip it](presserclips://clip?v=4E6xe29QC7s&t=415&q=10) · [Send to Slack](presserclips://clip?v=4E6xe29QC7s&t=415&q=10&slack=1)</small>

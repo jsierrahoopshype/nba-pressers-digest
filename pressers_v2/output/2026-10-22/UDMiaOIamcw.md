@@ -10,7 +10,7 @@ Damian Lillard: "It was a great way to start this chapter for our team. We came 
 
 [https://www.youtube.com/watch?v=UDMiaOIamcw&t=16s](https://www.youtube.com/watch?v=UDMiaOIamcw&t=16s)
 
-<small>[Clip it](presserclips://clip?v=UDMiaOIamcw&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UDMiaOIamcw&t=16&q=1) · [Send to Slack](presserclips://clip?v=UDMiaOIamcw&t=16&q=1&slack=1)</small>
 
 **2. Damian Lillard — "I give a lot of credit to all the people that invested their time." — Damian Lillard credits team preparation for the season-opening win** [00:50](https://www.youtube.com/watch?v=UDMiaOIamcw&t=50s)
 
@@ -18,7 +18,7 @@ Damian Lillard: "I give a lot of credit to all the people that invested their ti
 
 [https://www.youtube.com/watch?v=UDMiaOIamcw&t=50s](https://www.youtube.com/watch?v=UDMiaOIamcw&t=50s)
 
-<small>[Clip it](presserclips://clip?v=UDMiaOIamcw&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UDMiaOIamcw&t=50&q=2) · [Send to Slack](presserclips://clip?v=UDMiaOIamcw&t=50&q=2&slack=1)</small>
 
 **3. Damian Lillard — "Both guys are true friends of mine, not just former teammates." — Damian Lillard on the importance of support from former teammates** [02:10](https://www.youtube.com/watch?v=UDMiaOIamcw&t=130s)
 
@@ -26,4 +26,4 @@ Damian Lillard: "I love **Myers**, I love **ET**. Both guys are true friends of 
 
 [https://www.youtube.com/watch?v=UDMiaOIamcw&t=130s](https://www.youtube.com/watch?v=UDMiaOIamcw&t=130s)
 
-<small>[Clip it](presserclips://clip?v=UDMiaOIamcw&t=130&q=3)</small>
+<small>[Clip it](presserclips://clip?v=UDMiaOIamcw&t=130&q=3) · [Send to Slack](presserclips://clip?v=UDMiaOIamcw&t=130&q=3&slack=1)</small>

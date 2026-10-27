@@ -10,7 +10,7 @@ Micah Nori: "The thing that we're trying to do with Scoot is continue to play wi
 
 [https://www.youtube.com/watch?v=WXCkrgOzUWk&t=50s](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=50s)
 
-<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=50&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=50&q=1) · [Send to Slack](presserclips://clip?v=WXCkrgOzUWk&t=50&q=1&slack=1)</small>
 
 **2. Micah Nori — "I kind of look at him as a Russell Westbrook type player" — Micah Nori compares Scoot Henderson's playstyle to Russell Westbrook** [01:26](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=86s)
 
@@ -18,7 +18,7 @@ Micah Nori: "I kind of look at him as a **Russell Westbrook** type player where 
 
 [https://www.youtube.com/watch?v=WXCkrgOzUWk&t=86s](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=86s)
 
-<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=86&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=86&q=2) · [Send to Slack](presserclips://clip?v=WXCkrgOzUWk&t=86&q=2&slack=1)</small>
 
 **3. Micah Nori — "I feel bad for Scoot because we've missed him quite a bit with the injuries" — Micah Nori discusses Scoot Henderson's injury history and development** [02:14](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=134s)
 
@@ -26,7 +26,7 @@ Micah Nori: "I feel bad for Scoot because we've missed him quite a bit with the 
 
 [https://www.youtube.com/watch?v=WXCkrgOzUWk&t=134s](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=134s)
 
-<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=134&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=134&q=3) · [Send to Slack](presserclips://clip?v=WXCkrgOzUWk&t=134&q=3&slack=1)</small>
 
 **4. Micah Nori — "we talked about it on the first day of the slideshow, just brutal truths" — Micah Nori on the importance of brutal truths in coaching** [04:10](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=250s)
 
@@ -34,7 +34,7 @@ Micah Nori: "We talked about it on the first day of the slideshow, just brutal t
 
 [https://www.youtube.com/watch?v=WXCkrgOzUWk&t=250s](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=250s)
 
-<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=250&q=4)</small>
+<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=250&q=4) · [Send to Slack](presserclips://clip?v=WXCkrgOzUWk&t=250&q=4&slack=1)</small>
 
 **5. Micah Nori — "our coaches will coach and I'm not running every single drill" — Micah Nori on his coaching philosophy and staff involvement** [05:08](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=308s)
 
@@ -42,7 +42,7 @@ Micah Nori: "In our practices, our coaches will coach and I'm not running every 
 
 [https://www.youtube.com/watch?v=WXCkrgOzUWk&t=308s](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=308s)
 
-<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=308&q=5)</small>
+<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=308&q=5) · [Send to Slack](presserclips://clip?v=WXCkrgOzUWk&t=308&q=5&slack=1)</small>
 
 **6. Micah Nori — "Quinton Crawford is running the defense and then Jay is doing the offense" — Micah Nori outlines the coaching staff responsibilities** [07:28](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=448s)
 
@@ -50,4 +50,4 @@ Micah Nori: "**Quinton Crawford** is running the defense and then **Jay** is doi
 
 [https://www.youtube.com/watch?v=WXCkrgOzUWk&t=448s](https://www.youtube.com/watch?v=WXCkrgOzUWk&t=448s)
 
-<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=448&q=6)</small>
+<small>[Clip it](presserclips://clip?v=WXCkrgOzUWk&t=448&q=6) · [Send to Slack](presserclips://clip?v=WXCkrgOzUWk&t=448&q=6&slack=1)</small>

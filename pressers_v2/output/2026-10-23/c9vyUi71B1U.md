@@ -10,7 +10,7 @@ Joel Embiid: "Not turning the ball over in the first half. We had, I think, 15 o
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=3s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=3s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=3&q=1) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=3&q=1&slack=1)</small>
 
 **2. Joel Embiid — "still trying to figure out my spots. It almost feels like, you know, I haven't been healthy" — Joel Embiid on finding his rhythm and chemistry with James Harden** [01:28](https://www.youtube.com/watch?v=c9vyUi71B1U&t=88s)
 
@@ -18,7 +18,7 @@ Joel Embiid: "Just rhythm. I think first game, a little off. First half today, y
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=88s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=88s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=88&q=2)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=88&q=2) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=88&q=2&slack=1)</small>
 
 **3. Joel Embiid — "we got the talent, you know. I would like for us to not be in that position" — Joel Embiid on the 76ers' ability to overcome adversity and win** [02:36](https://www.youtube.com/watch?v=c9vyUi71B1U&t=156s)
 
@@ -26,7 +26,7 @@ Joel Embiid: "No, that hasn't happened. No, you know, she's to anybody that's be
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=156s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=156s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=156&q=3)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=156&q=3) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=156&q=3&slack=1)</small>
 
 **4. Joel Embiid — "what does it mean to you to see Tyrese really kind of take that next step" — Joel Embiid on Tyrese Maxey's growth as a two-way player** [04:00](https://www.youtube.com/watch?v=c9vyUi71B1U&t=240s)
 
@@ -34,7 +34,7 @@ Joel Embiid: "It's been great. Obviously, when you look at our team, we got a bu
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=240s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=240s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=240&q=4)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=240&q=4) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=240&q=4&slack=1)</small>
 
 **5. Joel Embiid — "that's a good thing about having a veteran team, you know, you just understand how the game" — Joel Embiid on the importance of veteran leadership during halftime adjustments** [06:03](https://www.youtube.com/watch?v=c9vyUi71B1U&t=363s)
 
@@ -42,7 +42,7 @@ Joel Embiid: "We didn't really talk about a lot of halftime. We just we just kne
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=363s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=363s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=363&q=5)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=363&q=5) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=363&q=5&slack=1)</small>
 
 **6. Joel Embiid — "I feel like I just forgot the feel of like rebounding and positioning" — Joel Embiid on his ongoing progress with rebounding and positioning** [06:58](https://www.youtube.com/watch?v=c9vyUi71B1U&t=418s)
 
@@ -50,7 +50,7 @@ Joel Embiid: "I don't know. I think it's still a work in progress. One thing tha
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=418s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=418s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=418&q=6)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=418&q=6) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=418&q=6&slack=1)</small>
 
 **7. Joel Embiid — "I'm not playing both games. I'm playing one of them. I don't know. They're going to tell me" — Joel Embiid on his status for the upcoming back-to-back games** [09:33](https://www.youtube.com/watch?v=c9vyUi71B1U&t=573s)
 
@@ -58,7 +58,7 @@ Joel Embiid: "I'm not playing both games. I'm playing one of them. I don't know.
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=573s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=573s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=573&q=7)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=573&q=7) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=573&q=7&slack=1)</small>
 
 **8. Joel Embiid — "I told him before the season, I think he should be a 50-40-90 guy" — Joel Embiid on Tyrese Maxey's development and potential** [10:06](https://www.youtube.com/watch?v=c9vyUi71B1U&t=606s)
 
@@ -66,7 +66,7 @@ Joel Embiid: "No, I just who he is. He's done it at least the last two or three 
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=606s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=606s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=606&q=8)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=606&q=8) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=606&q=8&slack=1)</small>
 
 **9. Joel Embiid — "from the moment that he's worked in here, I just felt like, like I you know I said" — Joel Embiid on Tyrese Maxey's leadership potential for the 76ers** [11:06](https://www.youtube.com/watch?v=c9vyUi71B1U&t=666s)
 
@@ -74,4 +74,4 @@ Joel Embiid: "Veej has been great. I kind of put it on him a little bit, you kno
 
 [https://www.youtube.com/watch?v=c9vyUi71B1U&t=666s](https://www.youtube.com/watch?v=c9vyUi71B1U&t=666s)
 
-<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=666&q=9)</small>
+<small>[Clip it](presserclips://clip?v=c9vyUi71B1U&t=666&q=9) · [Send to Slack](presserclips://clip?v=c9vyUi71B1U&t=666&q=9&slack=1)</small>

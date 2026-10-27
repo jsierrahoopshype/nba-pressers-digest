@@ -10,7 +10,7 @@ Duop Reath: "I feel like the biggest thing that I learned is just how every coun
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=33s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=33s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=33&q=1) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=33&q=1&slack=1)</small>
 
 **2. Duop Reath — "when you have those two combined, you can do some special things on the basketball court" — Duop Reath praises the character and talent of his new Phoenix Suns teammates.** [01:58](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=118s)
 
@@ -18,7 +18,7 @@ Duop Reath: "The guys that we have in the locker room are great human beings, bu
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=118s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=118s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=118&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=118&q=2) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=118&q=2&slack=1)</small>
 
 **3. Duop Reath — "I'm just going to compete. Let's go out there and play hard" — Duop Reath promises to bring a high level of competition to the Phoenix Suns.** [03:57](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=237s)
 
@@ -26,7 +26,7 @@ Duop Reath: "It's going to compete. I'm just going to compete. Let's go out ther
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=237s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=237s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=237&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=237&q=3) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=237&q=3&slack=1)</small>
 
 **4. Duop Reath — "just seeing those guys there, they've played in the league for for a while" — Duop Reath credits his former teammates for teaching him the importance of consistency.** [05:10](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=310s)
 
@@ -34,4 +34,4 @@ Duop Reath: "Most of those guys, there was some experience there. So just seeing
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=310s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=310s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=310&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=310&q=4) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=310&q=4&slack=1)</small>

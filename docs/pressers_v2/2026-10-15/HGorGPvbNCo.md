@@ -10,7 +10,7 @@ Tyler Herro: "I think just translating it from practice to the games is what he 
 
 [https://www.youtube.com/watch?v=HGorGPvbNCo&t=17s](https://www.youtube.com/watch?v=HGorGPvbNCo&t=17s)
 
-<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=17&q=1) · [Send to Slack](presserclips://clip?v=HGorGPvbNCo&t=17&q=1&slack=1)</small>
 
 **2. Tyler Herro — "we're a brand new group, new coaching staff, new system, a lot of young guys" — Tyler Herro on the challenges of a new team and system** [01:28](https://www.youtube.com/watch?v=HGorGPvbNCo&t=88s)
 
@@ -18,7 +18,7 @@ Tyler Herro: "There's a lot of components here. We're a brand new group, new coa
 
 [https://www.youtube.com/watch?v=HGorGPvbNCo&t=88s](https://www.youtube.com/watch?v=HGorGPvbNCo&t=88s)
 
-<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=88&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=88&q=2) · [Send to Slack](presserclips://clip?v=HGorGPvbNCo&t=88&q=2&slack=1)</small>
 
 **3. Tyler Herro — "I'm going to have a gravity to my game that is going to open up other things" — Tyler Herro on handling defensive attention and gravity** [03:04](https://www.youtube.com/watch?v=HGorGPvbNCo&t=184s)
 
@@ -26,7 +26,7 @@ Tyler Herro: "I get a lot of attention throughout the past few years. Guys pick 
 
 [https://www.youtube.com/watch?v=HGorGPvbNCo&t=184s](https://www.youtube.com/watch?v=HGorGPvbNCo&t=184s)
 
-<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=184&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=184&q=3) · [Send to Slack](presserclips://clip?v=HGorGPvbNCo&t=184&q=3&slack=1)</small>
 
 **4. Tyler Herro — "he's urgent, he's a guy that wants things done and he wants them done the right way" — Tyler Herro on the coaching style of his new head coach** [04:11](https://www.youtube.com/watch?v=HGorGPvbNCo&t=251s)
 
@@ -34,7 +34,7 @@ Tyler Herro: "He's urgent. He's a guy that wants things done and he wants them d
 
 [https://www.youtube.com/watch?v=HGorGPvbNCo&t=251s](https://www.youtube.com/watch?v=HGorGPvbNCo&t=251s)
 
-<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=251&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=251&q=4) · [Send to Slack](presserclips://clip?v=HGorGPvbNCo&t=251&q=4&slack=1)</small>
 
 **5. Tyler Herro — "you can really tell when a group is connected and that group over there is really connected" — Tyler Herro on the chemistry of his new team** [04:46](https://www.youtube.com/watch?v=HGorGPvbNCo&t=286s)
 
@@ -42,4 +42,4 @@ Tyler Herro: "It's been amazing. I was living in Miami last year, I came up for 
 
 [https://www.youtube.com/watch?v=HGorGPvbNCo&t=286s](https://www.youtube.com/watch?v=HGorGPvbNCo&t=286s)
 
-<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=286&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HGorGPvbNCo&t=286&q=5) · [Send to Slack](presserclips://clip?v=HGorGPvbNCo&t=286&q=5&slack=1)</small>

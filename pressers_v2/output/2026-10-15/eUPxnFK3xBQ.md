@@ -10,7 +10,7 @@ Taylor Jenkins: "I would say working backwards, I doubt everyone gets to regular
 
 [https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=20s](https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=20s)
 
-<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=20&q=1) · [Send to Slack](presserclips://clip?v=eUPxnFK3xBQ&t=20&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "I want to give guys ample sample size to try to build up to a workload" — Taylor Jenkins on balancing player workloads during the preseason** [00:57](https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=57s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I could limit minutes, but I want to give guys ample sample siz
 
 [https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=57s](https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=57s)
 
-<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=57&q=2)</small>
+<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=57&q=2) · [Send to Slack](presserclips://clip?v=eUPxnFK3xBQ&t=57&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "we're going to face pressure regardless of who it's going to be" — Taylor Jenkins on developing players against defensive pressure** [02:49](https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=169s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "We're going to face pressure regardless of who it's going to be
 
 [https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=169s](https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=169s)
 
-<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=169&q=3)</small>
+<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=169&q=3) · [Send to Slack](presserclips://clip?v=eUPxnFK3xBQ&t=169&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "they actually have a cognitive kind of synergy with their teammates" — Taylor Jenkins on building team chemistry and cognitive synergy** [04:53](https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=293s)
 
@@ -34,4 +34,4 @@ Taylor Jenkins: "That's the depths of the layers when you talk about chemistry. 
 
 [https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=293s](https://www.youtube.com/watch?v=eUPxnFK3xBQ&t=293s)
 
-<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=293&q=4)</small>
+<small>[Clip it](presserclips://clip?v=eUPxnFK3xBQ&t=293&q=4) · [Send to Slack](presserclips://clip?v=eUPxnFK3xBQ&t=293&q=4&slack=1)</small>

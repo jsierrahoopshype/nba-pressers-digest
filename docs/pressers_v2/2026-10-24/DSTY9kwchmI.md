@@ -10,7 +10,7 @@ Jamahl Mosley: "It's a left knee injury right now, so we're going to get a look 
 
 [https://www.youtube.com/watch?v=DSTY9kwchmI&t=0s](https://www.youtube.com/watch?v=DSTY9kwchmI&t=0s)
 
-<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=0&q=1) · [Send to Slack](presserclips://clip?v=DSTY9kwchmI&t=0&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "they kicked our tails early on in the game on the boards, they had a lot of" — Jamahl Mosley critiques Pelicans' rebounding and second-chance points allowed** [00:17](https://www.youtube.com/watch?v=DSTY9kwchmI&t=17s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "The effort and the fight. They kicked our tails early on in the 
 
 [https://www.youtube.com/watch?v=DSTY9kwchmI&t=17s](https://www.youtube.com/watch?v=DSTY9kwchmI&t=17s)
 
-<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=17&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=17&q=2) · [Send to Slack](presserclips://clip?v=DSTY9kwchmI&t=17&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "their defense was on point, being up at the level of the screen, attacking the basketball" — Jamahl Mosley praises defensive impact of Dejounte Murray and Carlo Macovic** [00:47](https://www.youtube.com/watch?v=DSTY9kwchmI&t=47s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "Their defense was on point, being up at the level of the screen,
 
 [https://www.youtube.com/watch?v=DSTY9kwchmI&t=47s](https://www.youtube.com/watch?v=DSTY9kwchmI&t=47s)
 
-<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=47&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=47&q=3) · [Send to Slack](presserclips://clip?v=DSTY9kwchmI&t=47&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "our defense isn't done until you secure the board, and then you're able to get out" — Jamahl Mosley emphasizes finishing defensive possessions to spark transition offense** [01:25](https://www.youtube.com/watch?v=DSTY9kwchmI&t=85s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "Our defense isn't done until you secure the board, and then you'
 
 [https://www.youtube.com/watch?v=DSTY9kwchmI&t=85s](https://www.youtube.com/watch?v=DSTY9kwchmI&t=85s)
 
-<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=85&q=4)</small>
+<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=85&q=4) · [Send to Slack](presserclips://clip?v=DSTY9kwchmI&t=85&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "I didn't want them to set their defense. That was the initial action" — Jamahl Mosley explains final play call and Dejounte Murray's contested shot** [01:58](https://www.youtube.com/watch?v=DSTY9kwchmI&t=118s)
 
@@ -42,4 +42,4 @@ Jamahl Mosley: "What it was, was I didn't want them to set their defense. That w
 
 [https://www.youtube.com/watch?v=DSTY9kwchmI&t=118s](https://www.youtube.com/watch?v=DSTY9kwchmI&t=118s)
 
-<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=118&q=5)</small>
+<small>[Clip it](presserclips://clip?v=DSTY9kwchmI&t=118&q=5) · [Send to Slack](presserclips://clip?v=DSTY9kwchmI&t=118&q=5&slack=1)</small>

@@ -10,7 +10,7 @@ Darko Rajaković: "I was really happy how quickly he was making decisions and ma
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=0s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=0s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=0&q=1) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=0&q=1&slack=1)</small>
 
 **2. Darko Rajaković — "Those two guys will be sharing the court quite a bit." — Darko Rajaković on integrating Jakob Poeltl and Chris Boucher** [00:53](https://www.youtube.com/watch?v=D97KC6XvCtM&t=53s)
 
@@ -18,7 +18,7 @@ Darko Rajaković: "Those two guys will be sharing the court quite a bit. Obvious
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=53s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=53s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=53&q=2)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=53&q=2) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=53&q=2&slack=1)</small>
 
 **3. Darko Rajaković — "He needs to shoot a lot of threes, he needs to playmake for us." — Darko Rajaković on RJ Barrett's offensive role and shooting** [01:21](https://www.youtube.com/watch?v=D97KC6XvCtM&t=81s)
 
@@ -26,7 +26,7 @@ Darko Rajaković: "He needs to shoot a lot of threes, he needs to playmake for u
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=81s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=81s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=81&q=3) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=81&q=3&slack=1)</small>
 
 **4. Darko Rajaković — "He's feeling better, but he's not ready to play." — Darko Rajaković on injury status of Immanuel Quickley** [01:49](https://www.youtube.com/watch?v=D97KC6XvCtM&t=109s)
 
@@ -34,7 +34,7 @@ Darko Rajaković: "He's feeling better, but he's not ready to play. He just need
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=109s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=109s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=109&q=4)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=109&q=4) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=109&q=4&slack=1)</small>
 
 **5. RJ Barrett — "Every game is different. Some nights it might be off the dribble, today was a lot of catch and shoots." — RJ Barrett on his offensive versatility and catch-and-shoot role** [02:53](https://www.youtube.com/watch?v=D97KC6XvCtM&t=173s)
 
@@ -42,7 +42,7 @@ RJ Barrett: "Every game is different. Some nights it might be off the dribble, t
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=173s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=173s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=173&q=5)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=173&q=5) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=173&q=5&slack=1)</small>
 
 **6. RJ Barrett — "Always got to remind yourself to stay aggressive, even when you're playing with other great players." — RJ Barrett on maintaining aggression while playing with other stars** [04:02](https://www.youtube.com/watch?v=D97KC6XvCtM&t=242s)
 
@@ -50,7 +50,7 @@ RJ Barrett: "Always got to remind yourself to stay aggressive, even when you're 
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=242s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=242s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=242&q=6)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=242&q=6) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=242&q=6&slack=1)</small>
 
 **7. Scottie Barnes — "Just trying to help the team win and make my shots right now." — Scottie Barnes on his focus and team performance** [05:45](https://www.youtube.com/watch?v=D97KC6XvCtM&t=345s)
 
@@ -58,7 +58,7 @@ Scottie Barnes: "Just trying to work hard, do my best, try to help the team win.
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=345s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=345s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=345&q=7)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=345&q=7) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=345&q=7&slack=1)</small>
 
 **8. Scottie Barnes — "When Kawhi is back in the lineup, that's going to change things a little bit." — Scottie Barnes on the impact of Kawhi Leonard's return** [06:44](https://www.youtube.com/watch?v=D97KC6XvCtM&t=404s)
 
@@ -66,7 +66,7 @@ Scottie Barnes: "When Kawhi is back in the lineup, that's going to change things
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=404s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=404s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=404&q=8)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=404&q=8) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=404&q=8&slack=1)</small>
 
 **9. Scottie Barnes — "I've been fortunate to play with some pretty good players." — Scottie Barnes on his comfort playing with Kawhi Leonard and others** [07:21](https://www.youtube.com/watch?v=D97KC6XvCtM&t=441s)
 
@@ -74,4 +74,4 @@ Scottie Barnes: "I've been fortunate to play with some pretty good players. I've
 
 [https://www.youtube.com/watch?v=D97KC6XvCtM&t=441s](https://www.youtube.com/watch?v=D97KC6XvCtM&t=441s)
 
-<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=441&q=9)</small>
+<small>[Clip it](presserclips://clip?v=D97KC6XvCtM&t=441&q=9) · [Send to Slack](presserclips://clip?v=D97KC6XvCtM&t=441&q=9&slack=1)</small>

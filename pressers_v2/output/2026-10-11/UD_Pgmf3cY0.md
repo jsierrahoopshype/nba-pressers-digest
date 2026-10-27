@@ -12,7 +12,7 @@ _Speakers identified: Luke Kennard, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=10s](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=10s)
 
-<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=10&q=1) · [Send to Slack](presserclips://clip?v=UD_Pgmf3cY0&t=10&q=1&slack=1)</small>
 
 **2. Luke Kennard — "he kind of set the tone for the entire game and guys just kind of followed what he did" — Luke Kennard on Jalen Green's playmaking and leadership** [01:07](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=67s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Luke Kennard, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=67s](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=67s)
 
-<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=67&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=67&q=2) · [Send to Slack](presserclips://clip?v=UD_Pgmf3cY0&t=67&q=2&slack=1)</small>
 
 **3. Luke Kennard — "the way that we're able to play off of each other, but with that, there's got to be a lot of trust" — Luke Kennard on team chemistry and offensive ball movement** [02:19](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=139s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Luke Kennard, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=139s](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=139s)
 
-<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=139&q=3)</small>
+<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=139&q=3) · [Send to Slack](presserclips://clip?v=UD_Pgmf3cY0&t=139&q=3&slack=1)</small>
 
 **4. Luke Kennard — "we have to be smart about when we do tag, when we do crash the boards" — Luke Kennard on adjusting to team defensive rebounding habits** [03:42](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=222s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Luke Kennard, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=222s](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=222s)
 
-<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=222&q=4)</small>
+<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=222&q=4) · [Send to Slack](presserclips://clip?v=UD_Pgmf3cY0&t=222&q=4&slack=1)</small>
 
 **5. Luke Kennard — "the first guys out there, you want to set the tone for the entire night" — Luke Kennard on the impact of preseason starting lineups** [05:01](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=301s)
 
@@ -52,7 +52,7 @@ _Speakers identified: Luke Kennard, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=301s](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=301s)
 
-<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=301&q=5)</small>
+<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=301&q=5) · [Send to Slack](presserclips://clip?v=UD_Pgmf3cY0&t=301&q=5&slack=1)</small>
 
 **6. Luke Kennard — "it's about being professionals and coming in here and finding that role and fitting in" — Luke Kennard on building professional trust with new teammates** [05:57](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=357s)
 
@@ -62,7 +62,7 @@ _Speakers identified: Luke Kennard, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=357s](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=357s)
 
-<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=357&q=6)</small>
+<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=357&q=6) · [Send to Slack](presserclips://clip?v=UD_Pgmf3cY0&t=357&q=6&slack=1)</small>
 
 **7. Luke Kennard — "I really believe that this is a great fit for me and who I am as a player" — Luke Kennard on his fit within the team's offensive system** [06:50](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=410s)
 
@@ -72,4 +72,4 @@ _Speakers identified: Luke Kennard, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=410s](https://www.youtube.com/watch?v=UD_Pgmf3cY0&t=410s)
 
-<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=410&q=7)</small>
+<small>[Clip it](presserclips://clip?v=UD_Pgmf3cY0&t=410&q=7) · [Send to Slack](presserclips://clip?v=UD_Pgmf3cY0&t=410&q=7&slack=1)</small>

@@ -10,7 +10,7 @@ Micah Nori: "I think the first thing from a defensive standpoint, we just want t
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=25s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=25s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=25&q=1) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=25&q=1&slack=1)</small>
 
 **2. Micah Nori — Micah Nori expresses concern about the team's defensive size at the point of attack.** [06:11](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=371s)
 
@@ -18,7 +18,7 @@ Micah Nori: "I think the one thing that I'm a little bit most nervous about is I
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=371s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=371s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=371&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=371&q=2) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=371&q=2&slack=1)</small>
 
 **3. Micah Nori — "I think we definitely have 10 that you feel very, very comfortable" — Micah Nori expects a rotation of 10 to 11 players this season.** [07:51](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=471s)
 
@@ -26,7 +26,7 @@ Micah Nori: "I think right now, I mean we can go I think we definitely have 10 t
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=471s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=471s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=471&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=471&q=3) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=471&q=3&slack=1)</small>
 
 **4. Micah Nori — "the more basketball he plays against NBA caliber players, the better he's going to be" — Micah Nori praises the development of Hanson through increased competition against NBA players.** [08:54](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=534s)
 
@@ -34,4 +34,4 @@ Micah Nori: "I think the more thing with **Hanson** is the more basketball he pl
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=534s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=534s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=534&q=4)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=534&q=4) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=534&q=4&slack=1)</small>

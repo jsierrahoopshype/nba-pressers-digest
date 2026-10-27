@@ -10,7 +10,7 @@ Gui Santos: "I was turning the ball over more than I should and this year I am j
 
 [https://www.youtube.com/watch?v=Mx73pr0DVn0&t=144s](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=144s)
 
-<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=144&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=144&q=1) · [Send to Slack](presserclips://clip?v=Mx73pr0DVn0&t=144&q=1&slack=1)</small>
 
 **2. Gui Santos — "if you help your team to win that's what really matters." — Gui Santos says he is comfortable coming off the bench as long as he helps the team win.** [03:26](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=206s)
 
@@ -18,7 +18,7 @@ Gui Santos: "For me, it doesn't really make any difference if you start a game o
 
 [https://www.youtube.com/watch?v=Mx73pr0DVn0&t=206s](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=206s)
 
-<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=206&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=206&q=2) · [Send to Slack](presserclips://clip?v=Mx73pr0DVn0&t=206&q=2&slack=1)</small>
 
 **3. Gui Santos — "if I play under control, every time I step into the paint, use the two feet" — Gui Santos credits watching Jimmy for his improved focus on playing under control.** [04:31](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=271s)
 
@@ -26,4 +26,4 @@ Gui Santos: "I think play more under control. A lot of times I was trying to rus
 
 [https://www.youtube.com/watch?v=Mx73pr0DVn0&t=271s](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=271s)
 
-<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=271&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=271&q=3) · [Send to Slack](presserclips://clip?v=Mx73pr0DVn0&t=271&q=3&slack=1)</small>

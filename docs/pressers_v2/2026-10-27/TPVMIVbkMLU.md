@@ -10,7 +10,7 @@ Meleek Thomas: "It was an amazing feeling, a blessing and a dream come true. I g
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=9s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=9s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=9&q=1) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=9&q=1&slack=1)</small>
 
 **2. Meleek Thomas — "No advanced knowledge, just going on the fly, staying ready, making sure I had the right tools." — Meleek Thomas on his preparation for NBA rotation** [00:34](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=34s)
 
@@ -18,7 +18,7 @@ Meleek Thomas: "No advanced knowledge, just going on the fly, staying ready, mak
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=34s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=34s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=34&q=2)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=34&q=2) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=34&q=2&slack=1)</small>
 
 **3. Meleek Thomas — "I played very hard for myself and my teammates. I wanted to be there for my teammates defensively." — Meleek Thomas on his defensive focus in rookie debut** [00:58](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=58s)
 
@@ -26,7 +26,7 @@ Meleek Thomas: "I gave it my all. I played very hard for myself and my teammates
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=58s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=58s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=58&q=3)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=58&q=3) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=58&q=3&slack=1)</small>
 
 **4. Meleek Thomas — "We were down for a majority of the game but we never really got rattled." — Meleek Thomas on the team's resilience against adversity** [01:34](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=94s)
 
@@ -34,7 +34,7 @@ Meleek Thomas: "We were down for a majority of the game but we never really got 
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=94s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=94s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=94&q=4)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=94&q=4) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=94&q=4&slack=1)</small>
 
 **5. Meleek Thomas — "Everything that I see off the media or that I hadn't seen, actually by being on the court, it's real." — Meleek Thomas on the reality of playing against NBA stars** [02:29](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=149s)
 
@@ -42,7 +42,7 @@ Meleek Thomas: "What surprised me a little bit is just everything that I see off
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=149s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=149s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=149&q=5)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=149&q=5) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=149&q=5&slack=1)</small>
 
 **6. Meleek Thomas — "Whatever God put you through, if you feel it's bad as a person, then it's for you." — Meleek Thomas on maintaining faith during bench time** [03:05](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=185s)
 
@@ -50,7 +50,7 @@ Meleek Thomas: "Strong in my faith. My motto and my method is, whatever God put 
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=185s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=185s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=185&q=6)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=185&q=6) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=185&q=6&slack=1)</small>
 
 **7. Meleek Thomas — "Been with James in different settings, been with Donovan in different settings, been with the team in different settings." — Meleek Thomas on the mentorship from veteran teammates** [03:53](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=233s)
 
@@ -58,7 +58,7 @@ Meleek Thomas: "Just the preparation that we all had put in through the summer. 
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=233s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=233s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=233&q=7)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=233&q=7) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=233&q=7&slack=1)</small>
 
 **8. Meleek Thomas — "Confidence really don't come from nobody else. It's either you got it or you don't." — Meleek Thomas on his internal confidence and mindset** [04:37](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=277s)
 
@@ -66,7 +66,7 @@ Meleek Thomas: "Confidence really don't come from nobody else. It's either you g
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=277s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=277s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=277&q=8)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=277&q=8) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=277&q=8&slack=1)</small>
 
 **9. Meleek Thomas — "I just wanted to go in there and produce defensive energy." — Meleek Thomas on providing defensive energy to the team** [05:54](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=354s)
 
@@ -74,7 +74,7 @@ Meleek Thomas: "It only takes one. We came out kind of flat a little bit and my 
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=354s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=354s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=354&q=9)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=354&q=9) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=354&q=9&slack=1)</small>
 
 **10. Meleek Thomas — "It means the world to me. I've watched both of their games for so long." — Meleek Thomas on the impact of veteran support** [06:36](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=396s)
 
@@ -82,7 +82,7 @@ Meleek Thomas: "It means the world to me. I've watched both of their games for s
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=396s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=396s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=396&q=10)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=396&q=10) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=396&q=10&slack=1)</small>
 
 **11. Meleek Thomas — "Electric crowd. You just feel the energy. When we were down, I felt the energy." — Meleek Thomas on the energy of the Cleveland crowd** [07:30](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=450s)
 
@@ -90,7 +90,7 @@ Meleek Thomas: "It was everything. Electric crowd. You just feel the energy. Whe
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=450s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=450s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=450&q=11)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=450&q=11) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=450&q=11&slack=1)</small>
 
 **12. Meleek Thomas — "It was on my mind that I was going to be my best version." — Meleek Thomas on his expectation for his rookie performance** [08:17](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=497s)
 
@@ -98,4 +98,4 @@ Meleek Thomas: "It was on my mind that I was going to be my best version and tha
 
 [https://www.youtube.com/watch?v=TPVMIVbkMLU&t=497s](https://www.youtube.com/watch?v=TPVMIVbkMLU&t=497s)
 
-<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=497&q=12)</small>
+<small>[Clip it](presserclips://clip?v=TPVMIVbkMLU&t=497&q=12) · [Send to Slack](presserclips://clip?v=TPVMIVbkMLU&t=497&q=12&slack=1)</small>

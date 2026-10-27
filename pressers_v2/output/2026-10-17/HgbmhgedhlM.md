@@ -10,7 +10,7 @@ Kenrich Williams: "I think just refocusing, knowing that this is the real thing,
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=14s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=14s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=14&q=1) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=14&q=1&slack=1)</small>
 
 **2. Kenrich Williams — "They got potential to to really help out this year for sure." — Kenrich Williams on the potential of the team's younger players** [01:31](https://www.youtube.com/watch?v=HgbmhgedhlM&t=91s)
 
@@ -18,7 +18,7 @@ Kenrich Williams: "It's been good. It's been good. They shown flashes of greatne
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=91s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=91s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=91&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=91&q=2) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=91&q=2&slack=1)</small>
 
 **3. Kenrich Williams — "I don't try to force it at all, it just comes naturally." — Kenrich Williams on his role as a veteran leader for the team** [02:10](https://www.youtube.com/watch?v=HgbmhgedhlM&t=130s)
 
@@ -26,7 +26,7 @@ Kenrich Williams: "I take major pride in that. That's something that I don't try
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=130s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=130s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=130&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=130&q=3) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=130&q=3&slack=1)</small>
 
 **4. Kenrich Williams — "You never want to see anybody go down, whether that's your teammate or the opposing team." — Kenrich Williams on the impact of seeing a teammate go down** [03:09](https://www.youtube.com/watch?v=HgbmhgedhlM&t=189s)
 
@@ -34,7 +34,7 @@ Kenrich Williams: "It sucks. It just gives you a bad feeling. You never want to 
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=189s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=189s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=189&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=189&q=4) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=189&q=4&slack=1)</small>
 
 **5. Kenrich Williams — "He puts the work in this summer. I'm excited to see his growth." — Kenrich Williams on Chet Holmgren's physical and mental growth** [03:52](https://www.youtube.com/watch?v=HgbmhgedhlM&t=232s)
 
@@ -42,7 +42,7 @@ Kenrich Williams: "He just looks good, man. Physically, mentally, looks good. Th
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=232s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=232s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=232&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=232&q=5) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=232&q=5&slack=1)</small>
 
 **6. Kenrich Williams — "He's the ultimate professional, ultimate teammate. He'll give you the shirt off his back." — Kenrich Williams on Chet Holmgren's professional approach to the spotlight** [04:54](https://www.youtube.com/watch?v=HgbmhgedhlM&t=294s)
 
@@ -50,7 +50,7 @@ Kenrich Williams: "It's special. I have no idea what that feels like to be in th
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=294s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=294s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=294&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=294&q=6) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=294&q=6&slack=1)</small>
 
 **7. Kenrich Williams — "Chet is going to be the one to make the biggest jump this year." — Kenrich Williams predicts a big season for Chet Holmgren** [06:10](https://www.youtube.com/watch?v=HgbmhgedhlM&t=370s)
 
@@ -58,7 +58,7 @@ Kenrich Williams: "Out of everybody, I think Chet is going to be the one to make
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=370s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=370s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=370&q=7)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=370&q=7) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=370&q=7&slack=1)</small>
 
 **8. Kenrich Williams — "I always say that I want to retire here in OKC, and that's I mean that." — Kenrich Williams on his desire to retire with the Thunder** [07:12](https://www.youtube.com/watch?v=HgbmhgedhlM&t=432s)
 
@@ -66,7 +66,7 @@ Kenrich Williams: "Definitely grateful to be back. Definitely grateful and appre
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=432s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=432s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=432&q=8)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=432&q=8) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=432&q=8&slack=1)</small>
 
 **9. Kenrich Williams — "I've always been a guy that that just takes what I'm given." — Kenrich Williams on his readiness to contribute regardless of minutes** [08:33](https://www.youtube.com/watch?v=HgbmhgedhlM&t=513s)
 
@@ -74,7 +74,7 @@ Kenrich Williams: "I'm not sure. I've always been a guy that that just takes wha
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=513s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=513s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=513&q=9)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=513&q=9) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=513&q=9&slack=1)</small>
 
 **10. Kenrich Williams — "As a pro, you have to be ready. And that's what I try to at least." — Kenrich Williams on the professional mindset required for the regular season** [09:17](https://www.youtube.com/watch?v=HgbmhgedhlM&t=557s)
 
@@ -82,7 +82,7 @@ Kenrich Williams: "I think pretty much it's stayed the same every year. Coming i
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=557s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=557s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=557&q=10)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=557&q=10) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=557&q=10&slack=1)</small>
 
 **11. Unidentified speaker — "Practice had some pop to it today, for that reason." — Coach on the team's preparation for the 82-game season** [10:50](https://www.youtube.com/watch?v=HgbmhgedhlM&t=650s)
 
@@ -90,7 +90,7 @@ Unidentified speaker: "Yeah, it's good to get like a little flurry of games and 
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=650s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=650s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=650&q=11)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=650&q=11) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=650&q=11&slack=1)</small>
 
 **12. Unidentified speaker — "He definitely got himself in a in a really good spot physically for camp." — Coach on Chet Holmgren's physical conditioning and preseason performance** [12:21](https://www.youtube.com/watch?v=HgbmhgedhlM&t=741s)
 
@@ -98,4 +98,4 @@ Unidentified speaker: "He definitely got himself in a in a really good spot phys
 
 [https://www.youtube.com/watch?v=HgbmhgedhlM&t=741s](https://www.youtube.com/watch?v=HgbmhgedhlM&t=741s)
 
-<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=741&q=12)</small>
+<small>[Clip it](presserclips://clip?v=HgbmhgedhlM&t=741&q=12) · [Send to Slack](presserclips://clip?v=HgbmhgedhlM&t=741&q=12&slack=1)</small>

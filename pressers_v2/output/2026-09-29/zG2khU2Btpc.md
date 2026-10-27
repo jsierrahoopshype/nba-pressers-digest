@@ -10,7 +10,7 @@ Dillon Brooks: "He shot the ball 40 percent, been top five in the NBA in three-p
 
 [https://www.youtube.com/watch?v=zG2khU2Btpc&t=215s](https://www.youtube.com/watch?v=zG2khU2Btpc&t=215s)
 
-<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=215&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=215&q=1) · [Send to Slack](presserclips://clip?v=zG2khU2Btpc&t=215&q=1&slack=1)</small>
 
 **2. Dillon Brooks — Dillon Brooks says the team is focused on fixing fourth-quarter execution issues from last season.** [08:23](https://www.youtube.com/watch?v=zG2khU2Btpc&t=503s)
 
@@ -18,4 +18,4 @@ Dillon Brooks: "There are games last year where we should have won but we gave u
 
 [https://www.youtube.com/watch?v=zG2khU2Btpc&t=503s](https://www.youtube.com/watch?v=zG2khU2Btpc&t=503s)
 
-<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=503&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=503&q=2) · [Send to Slack](presserclips://clip?v=zG2khU2Btpc&t=503&q=2&slack=1)</small>

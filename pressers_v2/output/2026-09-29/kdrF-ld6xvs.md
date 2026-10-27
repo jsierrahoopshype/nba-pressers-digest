@@ -10,7 +10,7 @@ DeMar DeRozan: "It definitely had to be a mutual thing. You never want to go som
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=83s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=83s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=83&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=83&q=1) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=83&q=1&slack=1)</small>
 
 **2. DeMar DeRozan — DeMar DeRozan says his only goal with the Nuggets is to win.** [03:50](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s)
 
@@ -18,7 +18,7 @@ DeMar DeRozan: "My mindset is to win, go out there and compete, be myself, go ou
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=230&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=230&q=2) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=230&q=2&slack=1)</small>
 
 **3. DeMar DeRozan — DeMar DeRozan says he is ready to serve as a playmaker for the Nuggets.** [05:04](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s)
 
@@ -26,7 +26,7 @@ DeMar DeRozan: "My whole career I've had the ball in my hand, had to initiate of
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=304&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=304&q=3) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=304&q=3&slack=1)</small>
 
 **4. DeMar DeRozan — DeMar DeRozan reflects on entering his 18th NBA season.** [06:45](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s)
 
@@ -34,7 +34,7 @@ DeMar DeRozan: "I'll be the first to tell you, I know how cliché it may sound, 
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=405&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=405&q=4) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=405&q=4&slack=1)</small>
 
 **5. DeMar DeRozan — DeMar DeRozan says he is ready to make any sacrifices needed to help the Nuggets.** [08:21](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s)
 
@@ -42,7 +42,7 @@ DeMar DeRozan: "Everything is a sacrifice. You play long enough, you're going to
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=501&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=501&q=5) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=501&q=5&slack=1)</small>
 
 **6. DeMar DeRozan — DeMar DeRozan says he wants to make the Nuggets' offense more unstoppable.** [10:32](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s)
 
@@ -50,7 +50,7 @@ DeMar DeRozan: "Changing up and adding to their dynamic that's already there to 
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=632&q=6)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=632&q=6) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=632&q=6&slack=1)</small>
 
 **7. DeMar DeRozan — DeMar DeRozan says he is focused on enjoying the remainder of his NBA career.** [12:21](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s)
 
@@ -58,7 +58,7 @@ DeMar DeRozan: "These next couple years, however long I choose to play, is about
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=741&q=7)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=741&q=7) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=741&q=7&slack=1)</small>
 
 **8. DeMar DeRozan — DeMar DeRozan credits his health and discipline for his long NBA career.** [14:09](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s)
 
@@ -66,4 +66,4 @@ DeMar DeRozan: "One, luck. I've been fortunate to be healthy throughout my caree
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=849&q=8)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=849&q=8) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=849&q=8&slack=1)</small>

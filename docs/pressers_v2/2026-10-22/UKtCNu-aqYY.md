@@ -10,7 +10,7 @@ Myles Turner: "Overall, I think our biggest problem tonight on the defensive sid
 
 [https://www.youtube.com/watch?v=UKtCNu-aqYY&t=0s](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=0s)
 
-<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=0&q=1) · [Send to Slack](presserclips://clip?v=UKtCNu-aqYY&t=0&q=1&slack=1)</small>
 
 **2. Myles Turner — "he did a little bit of everything, you know. It wasn't just all isolation situations" — Myles Turner on Anthony Edwards' balanced offensive performance** [01:26](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=86s)
 
@@ -18,7 +18,7 @@ Myles Turner: "He had a balanced attack, you know. I think he did a little bit o
 
 [https://www.youtube.com/watch?v=UKtCNu-aqYY&t=86s](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=86s)
 
-<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=86&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=86&q=2) · [Send to Slack](presserclips://clip?v=UKtCNu-aqYY&t=86&q=2&slack=1)</small>
 
 **3. Myles Turner — "we're a younger group, we're a newer group that's trying to learn the cadence of the NBA" — Myles Turner on the team's progress and long-term development** [02:03](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=123s)
 
@@ -26,7 +26,7 @@ Myles Turner: "My message to the team after the game was, fellas, from the first
 
 [https://www.youtube.com/watch?v=UKtCNu-aqYY&t=123s](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=123s)
 
-<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=123&q=3)</small>
+<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=123&q=3) · [Send to Slack](presserclips://clip?v=UKtCNu-aqYY&t=123&q=3&slack=1)</small>
 
 **4. Myles Turner — "I love our transition defense, you know. This, we knew this is the number one transition team" — Myles Turner on the team's improved transition defense** [03:06](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=186s)
 
@@ -34,7 +34,7 @@ Myles Turner: "I love our transition defense, you know. This, we knew this is th
 
 [https://www.youtube.com/watch?v=UKtCNu-aqYY&t=186s](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=186s)
 
-<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=186&q=4)</small>
+<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=186&q=4) · [Send to Slack](presserclips://clip?v=UKtCNu-aqYY&t=186&q=4&slack=1)</small>
 
 **5. Myles Turner — "we're a younger group, we're a newer group that's trying to learn the cadence of the NBA" — Myles Turner on the team's need to prioritize the margins** [03:52](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=232s)
 
@@ -42,4 +42,4 @@ Myles Turner: "We're a younger group, we're a newer group that's trying to learn
 
 [https://www.youtube.com/watch?v=UKtCNu-aqYY&t=232s](https://www.youtube.com/watch?v=UKtCNu-aqYY&t=232s)
 
-<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=232&q=5)</small>
+<small>[Clip it](presserclips://clip?v=UKtCNu-aqYY&t=232&q=5) · [Send to Slack](presserclips://clip?v=UKtCNu-aqYY&t=232&q=5&slack=1)</small>

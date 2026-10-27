@@ -10,7 +10,7 @@ Trent Redden: "The penalties we are facing are significant and we will comply wi
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=212s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=212s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=212&q=1)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=212&q=1) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=212&q=1&slack=1)</small>
 
 **2. Kobe Brown — "I have put on some more weight and muscle too" — Kobe Brown focused on adding weight and muscle during the offseason.** [1:00:17](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3617s)
 
@@ -18,7 +18,7 @@ Kobe Brown: "The first part with my body, I think that I have put on some more w
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3617s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3617s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3617&q=2)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3617&q=2) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3617&q=2&slack=1)</small>
 
 **3. Darius Garland — "My main thing is to come in here and win games" — Darius Garland says his main focus this season is winning games.** [35:23](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=2123s)
 
@@ -26,7 +26,7 @@ Darius Garland: "My entire summer has been basketball. Nothing has really stoppe
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=2123s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=2123s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=2123&q=3)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=2123&q=3) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=2123&q=3&slack=1)</small>
 
 **4. Kobe Brown — Kobe Brown praises Ty Lue for his coaching style and basketball IQ.** [1:00:44](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3644s)
 
@@ -34,7 +34,7 @@ Kobe Brown: "With **Ty**, he is one of the most chill coaches I have ever been a
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3644s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3644s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3644&q=4)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3644&q=4) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3644&q=4&slack=1)</small>
 
 **5. Brandon Ingram — "I'm doing well in my recovery. I'm coming along." — Brandon Ingram says he is recovering well from an Achilles injury.** [1:05:00](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3900s)
 
@@ -42,7 +42,7 @@ Brandon Ingram: "I'm doing well in my recovery. I'm coming along. I've been in t
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3900s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3900s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3900&q=5)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3900&q=5) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3900&q=5&slack=1)</small>
 
 **6. Kobe Brown — "I am just going to do my best to stay mentally focused" — Kobe Brown is focused on maintaining his mental approach during his first NBA season.** [1:02:11](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3731s)
 
@@ -50,7 +50,7 @@ Kobe Brown: "I am just going to do my best to stay mentally focused, not worried
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3731s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3731s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3731&q=6)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3731&q=6) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3731&q=6&slack=1)</small>
 
 **7. Ivica Zubac — "I definitely see myself playing in the paint a ton more" — Ivica Zubac plans to play more in the paint and post up this season.** [1:05:22](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3922s)
 
@@ -58,7 +58,7 @@ Ivica Zubac: "With the way the team's built now, I definitely see myself playing
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3922s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3922s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3922&q=7)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3922&q=7) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3922&q=7&slack=1)</small>
 
 **8. Kobe Brown — "I think the biggest thing is just having fun with it" — Kobe Brown embraces the off-court opportunities that come with being a top draft pick.** [1:03:54](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3834s)
 
@@ -66,7 +66,7 @@ Kobe Brown: "I think the biggest thing is just having fun with it. I feel like i
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3834s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3834s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3834&q=8)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3834&q=8) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3834&q=8&slack=1)</small>
 
 **9. Keaton — "I think the main thing first is just the defensive side of the ball" — Keaton says he is focused on improving his defense and pick and roll play.** [1:05:09](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3909s)
 
@@ -74,7 +74,7 @@ Keaton: "I think I've just continued to I think the main thing first is just the
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3909s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3909s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3909&q=9)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3909&q=9) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3909&q=9&slack=1)</small>
 
 **10. Kobe Brown — "I am excited to be able to do that and be able to play alongside DG" — Kobe Brown looks forward to playing multiple positions alongside the team's primary ball handlers.** [1:05:21](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3921s)
 
@@ -82,4 +82,4 @@ Kobe Brown: "It will definitely be a lot of fun. In pick-up we kind of have that
 
 [https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3921s](https://www.youtube.com/watch?v=gwxm0d41t7Q&t=3921s)
 
-<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3921&q=10)</small>
+<small>[Clip it](presserclips://clip?v=gwxm0d41t7Q&t=3921&q=10) · [Send to Slack](presserclips://clip?v=gwxm0d41t7Q&t=3921&q=10&slack=1)</small>

@@ -10,7 +10,7 @@ Ja Morant: "I feel like we all are our own player. We all have strengths and tha
 
 [https://www.youtube.com/watch?v=H1Biu63PL3Q&t=96s](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=96s)
 
-<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=96&q=1)</small>
+<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=96&q=1) · [Send to Slack](presserclips://clip?v=H1Biu63PL3Q&t=96&q=1&slack=1)</small>
 
 **2. Ja Morant — "I was able to get a lot of catch and shoot threes today" — Ja Morant says he is incorporating more catch and shoot opportunities into his game.** [03:33](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=213s)
 
@@ -18,7 +18,7 @@ Ja Morant: "I get catch and shoots. I was able to get a lot of catch and shoot t
 
 [https://www.youtube.com/watch?v=H1Biu63PL3Q&t=213s](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=213s)
 
-<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=213&q=2)</small>
+<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=213&q=2) · [Send to Slack](presserclips://clip?v=H1Biu63PL3Q&t=213&q=2&slack=1)</small>
 
 **3. Ja Morant — "I do not think they ever apply to me" — Ja Morant comments on his interpretation of new NBA officiating rules.** [04:04](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=244s)
 
@@ -26,4 +26,4 @@ Ja Morant: "I have been this year for me, honestly no disrespect to them, I have
 
 [https://www.youtube.com/watch?v=H1Biu63PL3Q&t=244s](https://www.youtube.com/watch?v=H1Biu63PL3Q&t=244s)
 
-<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=244&q=3)</small>
+<small>[Clip it](presserclips://clip?v=H1Biu63PL3Q&t=244&q=3) · [Send to Slack](presserclips://clip?v=H1Biu63PL3Q&t=244&q=3&slack=1)</small>

@@ -10,7 +10,7 @@ Khaman Maluach: "It's different. **Draymond Green** is really experienced, a lot
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=20s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=20s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=20&q=1) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=20&q=1&slack=1)</small>
 
 **2. Khaman Maluach — "I love the fact that everybody wants me to fasten up the process." — Khaman Maluach on teammates wanting him to speed up his development** [01:02](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=62s)
 
@@ -18,7 +18,7 @@ Khaman Maluach: "I think it's valid to be able to want more. I love the fact tha
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=62s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=62s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=62&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=62&q=2) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=62&q=2&slack=1)</small>
 
 **3. Khaman Maluach — "We watch film together as a team and we pass that right now." — Khaman Maluach on learning from game film as a team** [01:34](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=94s)
 
@@ -26,7 +26,7 @@ Khaman Maluach: "We watch film together as a team and we pass that right now. Sa
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=94s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=94s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=94&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=94&q=3) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=94&q=3&slack=1)</small>
 
 **4. Khaman Maluach — "It shows the depth of our team, being able to have somebody like drop step up." — Khaman Maluach on team depth and stepping up for teammates** [02:13](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=133s)
 
@@ -34,7 +34,7 @@ Khaman Maluach: "I think there's a lot of versatility. It shows the depth of our
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=133s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=133s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=133&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=133&q=4) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=133&q=4&slack=1)</small>
 
 **5. Khaman Maluach — "It's the same approach for me. It don't matter whether others are out or whether he's playing." — Khaman Maluach on maintaining his approach regardless of lineup changes** [02:52](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=172s)
 
@@ -42,7 +42,7 @@ Khaman Maluach: "It's the same approach for me. It don't matter whether others a
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=172s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=172s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=172&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=172&q=5) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=172&q=5&slack=1)</small>
 
 **6. Khaman Maluach — "It's just a matter of reps. I put in the reps this summer." — Khaman Maluach on his development and putting in the work** [03:37](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=217s)
 
@@ -50,7 +50,7 @@ Khaman Maluach: "I don't think there's really anything that's changed, whether i
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=217s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=217s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=217&q=6)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=217&q=6) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=217&q=6&slack=1)</small>
 
 **7. Khaman Maluach — "It's just being able to know who's on the court right now." — Khaman Maluach on defensive growth and reading the game** [04:06](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=246s)
 
@@ -58,7 +58,7 @@ Khaman Maluach: "It's just being able to know who's on the court right now and b
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=246s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=246s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=246&q=7)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=246&q=7) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=246&q=7&slack=1)</small>
 
 **8. Khaman Maluach — "I've been getting reps last year. I've got reps in practice, I've got reps in a couple games." — Khaman Maluach on gaining experience through G League and practice** [05:00](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=300s)
 
@@ -66,7 +66,7 @@ Khaman Maluach: "I think I've been getting reps. It doesn't matter. I've been ge
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=300s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=300s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=300&q=8)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=300&q=8) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=300&q=8&slack=1)</small>
 
 **9. Khaman Maluach — "We've obviously learned a lot from it and we absorb all that." — Khaman Maluach on absorbing lessons from previous game** [05:16](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=316s)
 
@@ -74,4 +74,4 @@ Khaman Maluach: "We've obviously learned a lot from it and we absorb all that. W
 
 [https://www.youtube.com/watch?v=bLIhrDaxhuo&t=316s](https://www.youtube.com/watch?v=bLIhrDaxhuo&t=316s)
 
-<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=316&q=9)</small>
+<small>[Clip it](presserclips://clip?v=bLIhrDaxhuo&t=316&q=9) · [Send to Slack](presserclips://clip?v=bLIhrDaxhuo&t=316&q=9&slack=1)</small>

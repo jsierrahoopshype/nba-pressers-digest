@@ -10,7 +10,7 @@ Cameron Boozer: "For me, I always try to impact the game in other ways, but I th
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=13s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=13s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=13&q=1) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=13&q=1&slack=1)</small>
 
 **2. "When you see guys like that who are guarding, playing as hard as he was playing, getting stops, getting steals." — Cameron Boozer on the team's energy and defensive intensity** [00:37](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=37s)
 
@@ -20,7 +20,7 @@ Cameron Boozer: "For me, I always try to impact the game in other ways, but I th
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=37s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=37s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=37&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=37&q=2) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=37&q=2&slack=1)</small>
 
 **3. Cameron Boozer — "There was definitely some nerves, but a lot of just excitement, obviously my first game." — Cameron Boozer on his NBA debut nerves and excitement** [01:36](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=96s)
 
@@ -28,7 +28,7 @@ Cameron Boozer: "There was definitely some nerves, but a lot of just excitement,
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=96s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=96s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=96&q=3) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=96&q=3&slack=1)</small>
 
 **4. Cameron Boozer — "Those are two great players and being able to match up with both of them in one night." — Cameron Boozer on learning from defensive matchups** [02:11](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=131s)
 
@@ -36,7 +36,7 @@ Cameron Boozer: "Of course I do. Those are two great players and being able to m
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=131s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=131s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=131&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=131&q=4) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=131&q=4&slack=1)</small>
 
 **5. Cameron Boozer — "I'm going to remember this forever for sure." — Cameron Boozer on the lasting memory of his debut** [02:41](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=161s)
 
@@ -44,7 +44,7 @@ Cameron Boozer: "I'm going to use the feeling of being out there. It's the first
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=161s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=161s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=161&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=161&q=5) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=161&q=5&slack=1)</small>
 
 **6. Cameron Boozer — "Tyrese is a fun player to play with, obviously he can get his own shot off." — Cameron Boozer on playing with Tyrese Haliburton** [03:19](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=199s)
 
@@ -52,7 +52,7 @@ Cameron Boozer: "Tyrese is a fun player to play with, obviously he can get his o
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=199s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=199s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=199&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=199&q=6) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=199&q=6&slack=1)</small>
 
 **7. Cameron Boozer — "When two guys come to me, just finding the open man." — Cameron Boozer on his development as a playmaker** [04:02](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=242s)
 
@@ -60,7 +60,7 @@ Cameron Boozer: "When two guys come to me, just finding the open man. Obviously 
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=242s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=242s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=242&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=242&q=7) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=242&q=7&slack=1)</small>
 
 **8. Cameron Boozer — "I think that stretching the third quarter where we had multiple steals and transition layups." — Cameron Boozer on the team's identity and playing hard** [04:44](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=284s)
 
@@ -68,4 +68,4 @@ Cameron Boozer: "I think that stretching the third quarter where we had multiple
 
 [https://www.youtube.com/watch?v=Ndg3o8SagF4&t=284s](https://www.youtube.com/watch?v=Ndg3o8SagF4&t=284s)
 
-<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=284&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Ndg3o8SagF4&t=284&q=8) · [Send to Slack](presserclips://clip?v=Ndg3o8SagF4&t=284&q=8&slack=1)</small>

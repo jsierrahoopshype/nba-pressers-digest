@@ -10,7 +10,7 @@ Spencer Jones: "It's been annoying, been a lot of film, especially because we're
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=69s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=69s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=69&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=69&q=1) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=69&q=1&slack=1)</small>
 
 **2. Spencer Jones — "last year the offensive focus was definitely pick and roll with Jamal, getting him in the post" — Spencer Jones on the Nuggets' offensive identity** [02:37](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=157s)
 
@@ -18,7 +18,7 @@ Spencer Jones: "Last year the offensive focus was definitely pick and roll with 
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=157s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=157s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=157&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=157&q=2) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=157&q=2&slack=1)</small>
 
 **3. Spencer Jones — "Trevon Brazile in terms of he's looking at me in the corners a lot" — Spencer Jones on playing with Trevon Brazile** [04:10](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=250s)
 
@@ -26,7 +26,7 @@ Spencer Jones: "**Trevon Brazile** in terms of he's looking at me in the corners
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=250s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=250s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=250&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=250&q=3) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=250&q=3&slack=1)</small>
 
 **4. Trevon Brazile — "the main thing, playing with Nikola Jokic and Jamal Murray, was seeing the ball earlier" — Trevon Brazile on learning to play with Nikola Jokic and Jamal Murray** [07:20](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=440s)
 
@@ -34,7 +34,7 @@ Trevon Brazile: "I made a lot of mistakes, I knew I was going to go in just tryi
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=440s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=440s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=440&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=440&q=4) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=440&q=4&slack=1)</small>
 
 **5. Coach Adelman — "he's got to learn to find the ball earlier offensively. Getting on the rim is one thing" — Coach Adelman on Trevon Brazile's development** [11:05](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=665s)
 
@@ -42,7 +42,7 @@ Coach Adelman: "He's got to learn to find the ball earlier offensively. Getting 
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=665s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=665s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=665&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=665&q=5) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=665&q=5&slack=1)</small>
 
 **6. Coach Adelman — "we have the week to go and I think the first two games will keep the group together" — Coach Adelman on rotation plans for the season** [12:16](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=736s)
 
@@ -50,7 +50,7 @@ Coach Adelman: "We haven't decided that yet. We have the week to go and I think 
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=736s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=736s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=736&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=736&q=6) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=736&q=6&slack=1)</small>
 
 **7. Coach Adelman — "defensively, it's enormous because you're switching somebody onto the ball that can really guard" — Coach Adelman on Spencer Jones's defensive value** [13:24](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=804s)
 
@@ -58,7 +58,7 @@ Coach Adelman: "Defensively, it's enormous because you're switching somebody ont
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=804s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=804s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=804&q=7)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=804&q=7) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=804&q=7&slack=1)</small>
 
 **8. Coach Adelman — "I think it was tough for him in a way today because we flowed him back in" — Coach Adelman on Spencer Jones's role** [14:05](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=845s)
 
@@ -66,4 +66,4 @@ Coach Adelman: "I actually thought it was tough for him in a way today because w
 
 [https://www.youtube.com/watch?v=HYZ4jHai0A4&t=845s](https://www.youtube.com/watch?v=HYZ4jHai0A4&t=845s)
 
-<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=845&q=8)</small>
+<small>[Clip it](presserclips://clip?v=HYZ4jHai0A4&t=845&q=8) · [Send to Slack](presserclips://clip?v=HYZ4jHai0A4&t=845&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ LeBron James: "We are just trying to build, build on what we have been doing in 
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=3s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=3s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=3&q=1) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=3&q=1&slack=1)</small>
 
 **2. LeBron James — "We are still trying to learn each other on the floor." — LeBron James on the team's ongoing learning process** [00:22](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=22s)
 
@@ -18,7 +18,7 @@ LeBron James: "It is a small sample size. We are still trying to learn each othe
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=22s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=22s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=22&q=2)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=22&q=2) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=22&q=2&slack=1)</small>
 
 **3. LeBron James — "It is always important just to be able to attack offensively before the defense is set." — LeBron James on the importance of early transition offense** [00:55](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=55s)
 
@@ -26,7 +26,7 @@ LeBron James: "It is always important just to be able to attack offensively befo
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=55s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=55s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=55&q=3)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=55&q=3) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=55&q=3&slack=1)</small>
 
 **4. LeBron James — "I was happy to be able to log some minutes with the guys that we have been going at." — LeBron James on playing with new teammates** [01:31](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=91s)
 
@@ -34,7 +34,7 @@ LeBron James: "It felt a little different, obviously wearing a new uniform, but 
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=91s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=91s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=91&q=4)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=91&q=4) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=91&q=4&slack=1)</small>
 
 **5. LeBron James — "Every day is getting better." — LeBron James on adjusting to his new team environment** [02:08](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=128s)
 
@@ -42,7 +42,7 @@ LeBron James: "Every day is getting better. Obviously, I am going to have some d
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=128s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=128s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=128&q=5)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=128&q=5) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=128&q=5&slack=1)</small>
 
 **6. LeBron James — "He fits on any basketball team on the planet." — LeBron James on Dean Wade's versatility** [02:43](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=163s)
 
@@ -50,7 +50,7 @@ LeBron James: "He fits on any basketball team on the planet. You have to have gu
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=163s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=163s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=163&q=6)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=163&q=6) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=163&q=6&slack=1)</small>
 
 **7. LeBron James — "I saw the impact and I saw my name being said and jerseys being worn." — LeBron James on his global impact and Nike tours** [03:25](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=205s)
 
@@ -58,7 +58,7 @@ LeBron James: "I would probably say my first time I went to China on a Nike tour
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=205s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=205s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=205&q=7)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=205&q=7) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=205&q=7&slack=1)</small>
 
 **8. LeBron James — "I thought we played some pretty good ball." — LeBron James on playing against an aggressive team** [04:21](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=261s)
 
@@ -66,7 +66,7 @@ LeBron James: "I thought we played some pretty good ball. Obviously, the unforce
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=261s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=261s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=261&q=8)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=261&q=8) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=261&q=8&slack=1)</small>
 
 **9. LeBron James — "It is definitely an adjustment." — LeBron James on adjusting his personal routine** [04:56](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=296s)
 
@@ -74,4 +74,4 @@ LeBron James: "It is definitely an adjustment. Obviously, I have my routine, but
 
 [https://www.youtube.com/watch?v=mLmZHPY6XvU&t=296s](https://www.youtube.com/watch?v=mLmZHPY6XvU&t=296s)
 
-<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=296&q=9)</small>
+<small>[Clip it](presserclips://clip?v=mLmZHPY6XvU&t=296&q=9) · [Send to Slack](presserclips://clip?v=mLmZHPY6XvU&t=296&q=9&slack=1)</small>

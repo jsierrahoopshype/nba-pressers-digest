@@ -10,7 +10,7 @@ Damian Lillard: "When I saw him go down and I saw him walk off the court by hims
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=81s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=81s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=81&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=81&q=1) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=81&q=1&slack=1)</small>
 
 **2. Damian Lillard — "I made my mind up that I was going to not play last year" — Damian Lillard confirms he sat out last season to ensure a full recovery.** [02:21](https://www.youtube.com/watch?v=PumHkaLDJ60&t=141s)
 
@@ -18,7 +18,7 @@ Damian Lillard: "Once I saw that I made my mind up that I was going to not play 
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=141s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=141s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=141&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=141&q=2) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=141&q=2&slack=1)</small>
 
 **3. Damian Lillard — Damian Lillard details his long absence from the court due to injury and health issues.** [03:12](https://www.youtube.com/watch?v=PumHkaLDJ60&t=192s)
 
@@ -26,7 +26,7 @@ Damian Lillard: "For me it's just being patient. You know, I missed two months a
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=192s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=192s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=192&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=192&q=3) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=192&q=3&slack=1)</small>
 
 **4. Damian Lillard — "As far as I know, like will Ja will start, I'll start" — Damian Lillard expects to start alongside Ja and Danny this season.** [06:01](https://www.youtube.com/watch?v=PumHkaLDJ60&t=361s)
 
@@ -34,4 +34,4 @@ Damian Lillard: "We've had the conversation not in depth like oh, you know, Dame
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=361s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=361s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=361&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=361&q=4) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=361&q=4&slack=1)</small>

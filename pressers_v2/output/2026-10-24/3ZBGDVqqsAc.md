@@ -10,7 +10,7 @@ Ayo Dosunmu: "Just being competitive, I think that was the emphasis for us this 
 
 [https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=12s](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=12s)
 
-<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=12&q=1) · [Send to Slack](presserclips://clip?v=3ZBGDVqqsAc&t=12&q=1&slack=1)</small>
 
 **2. Ayo Dosunmu — "It definitely got us right physically as a team." — Ayo Dosunmu on how intense training camp prepared the team** [00:40](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=40s)
 
@@ -18,7 +18,7 @@ Ayo Dosunmu: "It definitely got us right physically as a team. We were going at 
 
 [https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=40s](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=40s)
 
-<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=40&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=40&q=2) · [Send to Slack](presserclips://clip?v=3ZBGDVqqsAc&t=40&q=2&slack=1)</small>
 
 **3. Ayo Dosunmu — "At the end of the day, everyone on this team, this organization is to win." — Ayo Dosunmu on the team's shared goal to win** [01:10](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=70s)
 
@@ -26,7 +26,7 @@ Ayo Dosunmu: "Of course, we want to just play the game the right way. At the end
 
 [https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=70s](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=70s)
 
-<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=70&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=70&q=3) · [Send to Slack](presserclips://clip?v=3ZBGDVqqsAc&t=70&q=3&slack=1)</small>
 
 **4. Ayo Dosunmu — "We got a bunch of competitors for one, we all about the same age." — Ayo Dosunmu on the team's shared age and competitive culture** [01:48](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=108s)
 
@@ -34,7 +34,7 @@ Ayo Dosunmu: "We got a bunch of competitors for one, we all about the same age a
 
 [https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=108s](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=108s)
 
-<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=108&q=4)</small>
+<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=108&q=4) · [Send to Slack](presserclips://clip?v=3ZBGDVqqsAc&t=108&q=4&slack=1)</small>
 
 **5. Ayo Dosunmu — "I'm on him because I understand his potential and how great he can be." — Ayo Dosunmu on mentoring and developing his teammate's potential** [02:37](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=157s)
 
@@ -42,7 +42,7 @@ Ayo Dosunmu: "His talent is great, his one factor, want to be great is there. So
 
 [https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=157s](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=157s)
 
-<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=157&q=5)</small>
+<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=157&q=5) · [Send to Slack](presserclips://clip?v=3ZBGDVqqsAc&t=157&q=5&slack=1)</small>
 
 **6. Ayo Dosunmu — "Every time we play the right way, we generate a good shot." — Ayo Dosunmu on the team's depth and playing the right way** [03:20](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=200s)
 
@@ -50,7 +50,7 @@ Ayo Dosunmu: "We want to show it each and every night. We want to play the right
 
 [https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=200s](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=200s)
 
-<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=200&q=6)</small>
+<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=200&q=6) · [Send to Slack](presserclips://clip?v=3ZBGDVqqsAc&t=200&q=6&slack=1)</small>
 
 **7. Ayo Dosunmu — "Each and every time when you physical, when you playing hard, not giving no shot up." — Ayo Dosunmu on the team's physical and frustrating defensive style** [04:01](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=241s)
 
@@ -58,4 +58,4 @@ Ayo Dosunmu: "Each and every time when you physical, when you playing hard, not 
 
 [https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=241s](https://www.youtube.com/watch?v=3ZBGDVqqsAc&t=241s)
 
-<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=241&q=7)</small>
+<small>[Clip it](presserclips://clip?v=3ZBGDVqqsAc&t=241&q=7) · [Send to Slack](presserclips://clip?v=3ZBGDVqqsAc&t=241&q=7&slack=1)</small>

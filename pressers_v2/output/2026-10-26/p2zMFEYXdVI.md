@@ -10,7 +10,7 @@ AJ Green: "That's huge. I think that has to be our entire focus the whole year. 
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=9s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=9s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=9&q=1) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=9&q=1&slack=1)</small>
 
 **2. AJ Green — "We're going to have to to guard as a unit and guard inside out, protect the paint." — AJ Green on the need for collective defensive effort against Philadelphia** [00:57](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=57s)
 
@@ -18,7 +18,7 @@ AJ Green: "We're going to have to to guard as a unit and guard inside out, prote
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=57s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=57s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=57&q=2)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=57&q=2) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=57&q=2&slack=1)</small>
 
 **3. AJ Green — "Only give up one shot, limit offensive rebounds." — AJ Green on limiting opponent shots and winning the margins** [02:05](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=125s)
 
@@ -26,7 +26,7 @@ AJ Green: "Only give up one shot, limit offensive rebounds. Yeah, like you said,
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=125s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=125s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=125&q=3)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=125&q=3) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=125&q=3&slack=1)</small>
 
 **4. AJ Green — "I think there's certain turnovers that will happen within the game that you can be okay with." — AJ Green on reducing turnovers through better spacing and ball movement** [03:16](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=196s)
 
@@ -34,7 +34,7 @@ AJ Green: "I think there's certain turnovers that will happen within the game th
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=196s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=196s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=196&q=4)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=196&q=4) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=196&q=4&slack=1)</small>
 
 **5. AJ Green — "The good thing is we're getting there, you know. Keep getting there and getting to the line." — AJ Green on the team's need to improve free throw shooting** [04:14](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=254s)
 
@@ -42,4 +42,4 @@ AJ Green: "Just got to make them. We practice them. Just got to make them in gam
 
 [https://www.youtube.com/watch?v=p2zMFEYXdVI&t=254s](https://www.youtube.com/watch?v=p2zMFEYXdVI&t=254s)
 
-<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=254&q=5)</small>
+<small>[Clip it](presserclips://clip?v=p2zMFEYXdVI&t=254&q=5) · [Send to Slack](presserclips://clip?v=p2zMFEYXdVI&t=254&q=5&slack=1)</small>

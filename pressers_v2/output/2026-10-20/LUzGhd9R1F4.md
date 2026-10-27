@@ -10,7 +10,7 @@ Taylor Jenkins: "we're laying our foundation and to encapsulate it all, it's sti
 
 [https://www.youtube.com/watch?v=LUzGhd9R1F4&t=27s](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=27s)
 
-<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=27&q=1)</small>
+<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=27&q=1) · [Send to Slack](presserclips://clip?v=LUzGhd9R1F4&t=27&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "as we thought through the lens of what we're building here and going forward, it was a very difficult decision." — Taylor Jenkins discusses the decision to move on from Scoot Henderson** [01:53](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=113s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "very difficult decision. I think Scoot had been great for us. H
 
 [https://www.youtube.com/watch?v=LUzGhd9R1F4&t=113s](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=113s)
 
-<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=113&q=2)</small>
+<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=113&q=2) · [Send to Slack](presserclips://clip?v=LUzGhd9R1F4&t=113&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "I just love their competitive fire. I love what they can provide on both sides of the floor." — Taylor Jenkins on the development of young guards** [02:27](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=147s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "I just love their competitive fire. I love what they can provid
 
 [https://www.youtube.com/watch?v=LUzGhd9R1F4&t=147s](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=147s)
 
-<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=147&q=3)</small>
+<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=147&q=3) · [Send to Slack](presserclips://clip?v=LUzGhd9R1F4&t=147&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "we're trying to complicate things but also just have a very clear and simple intent." — Taylor Jenkins on the Grizzlies' offensive and defensive systems** [03:43](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=223s)
 
@@ -34,7 +34,7 @@ Taylor Jenkins: "I think we still have a lot to learn, honestly. I'm trying to k
 
 [https://www.youtube.com/watch?v=LUzGhd9R1F4&t=223s](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=223s)
 
-<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=223&q=4)</small>
+<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=223&q=4) · [Send to Slack](presserclips://clip?v=LUzGhd9R1F4&t=223&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "I've always been a teacher of the long game, trying to just stay consistent with your day-to-day approach." — Taylor Jenkins on the importance of consistency in training camp** [06:02](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=362s)
 
@@ -42,4 +42,4 @@ Taylor Jenkins: "I've always been a teacher of the long game, trying to just sta
 
 [https://www.youtube.com/watch?v=LUzGhd9R1F4&t=362s](https://www.youtube.com/watch?v=LUzGhd9R1F4&t=362s)
 
-<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=362&q=5)</small>
+<small>[Clip it](presserclips://clip?v=LUzGhd9R1F4&t=362&q=5) · [Send to Slack](presserclips://clip?v=LUzGhd9R1F4&t=362&q=5&slack=1)</small>

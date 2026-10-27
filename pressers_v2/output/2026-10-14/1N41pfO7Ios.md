@@ -10,7 +10,7 @@ Gradey Dick: "I just build that confidence to shoot it more. I think that was my
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=17s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=17s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=17&q=1) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=17&q=1&slack=1)</small>
 
 **2. Gradey Dick — "me coming to a new role on this team, still some things I got to learn" — Gradey Dick on learning his new role and team chemistry** [01:13](https://www.youtube.com/watch?v=1N41pfO7Ios&t=73s)
 
@@ -18,7 +18,7 @@ Gradey Dick: "In certain aspects, I'm still getting used to it. Me coming to a n
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=73s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=73s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=73&q=2) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=73&q=2&slack=1)</small>
 
 **3. Gradey Dick — "he's one of the best shot makers, one of the best defenders, one of the best players" — Gradey Dick on the impact of playing with Kawhi Leonard** [01:53](https://www.youtube.com/watch?v=1N41pfO7Ios&t=113s)
 
@@ -26,7 +26,7 @@ Gradey Dick: "It was good. He's one of the best shot makers, one of the best def
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=113s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=113s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=113&q=3)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=113&q=3) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=113&q=3&slack=1)</small>
 
 **4. Gradey Dick — "it's going to be a nightmare for any team if we're all dialed in" — Gradey Dick on the team's defensive potential this season** [03:12](https://www.youtube.com/watch?v=1N41pfO7Ios&t=192s)
 
@@ -34,7 +34,7 @@ Gradey Dick: "I don't think we have a limit to how good we can be. If we're all 
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=192s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=192s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=192&q=4)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=192&q=4) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=192&q=4&slack=1)</small>
 
 **5. Gradey Dick — "me really being who I am and pressure the ball as much as possible" — Gradey Dick on his defensive approach against premier big men** [05:48](https://www.youtube.com/watch?v=1N41pfO7Ios&t=348s)
 
@@ -42,7 +42,7 @@ Gradey Dick: "I just get back to what I am used to. I feel like those first two 
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=348s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=348s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=348&q=5)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=348&q=5) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=348&q=5&slack=1)</small>
 
 **6.** [12:23](https://www.youtube.com/watch?v=1N41pfO7Ios&t=743s)
 
@@ -52,7 +52,7 @@ Gradey Dick: "I just get back to what I am used to. I feel like those first two 
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=743s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=743s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=743&q=6)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=743&q=6) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=743&q=6&slack=1)</small>
 
 **7. Darko Rajaković — "we have our five offensive pillars and we have five defensive pillars" — Darko Rajaković on the team's offensive and defensive pillars** [15:50](https://www.youtube.com/watch?v=1N41pfO7Ios&t=950s)
 
@@ -60,7 +60,7 @@ Darko Rajaković: "We have our five offensive pillars and we have five defensive
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=950s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=950s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=950&q=7)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=950&q=7) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=950&q=7&slack=1)</small>
 
 **8. Darko Rajaković — "we're going to go into the season being flexible as well" — Darko Rajaković on roster flexibility and rotation depth** [16:20](https://www.youtube.com/watch?v=1N41pfO7Ios&t=980s)
 
@@ -68,7 +68,7 @@ Darko Rajaković: "We have two more games, we have a couple more practices under
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=980s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=980s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=980&q=8)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=980&q=8) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=980&q=8&slack=1)</small>
 
 **9. Darko Rajaković — "I promise him this morning, first time when I see him that he does not take open shot" — Darko Rajaković on his expectations for Gradey Dick's shot selection** [17:27](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1047s)
 
@@ -76,7 +76,7 @@ Darko Rajaković: "I don't care if the shot is going to fall or not. He is a gre
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=1047s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1047s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1047&q=9)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1047&q=9) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=1047&q=9&slack=1)</small>
 
 **10. Darko Rajaković — "the better shooting you have, in theory should open up you more space and more paint touches" — Darko Rajaković on the importance of three-point shooting in modern basketball** [18:05](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1085s)
 
@@ -84,4 +84,4 @@ Darko Rajaković: "Any offense, if you're making those three-point shots, it jus
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=1085s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1085s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1085&q=10)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1085&q=10) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=1085&q=10&slack=1)</small>

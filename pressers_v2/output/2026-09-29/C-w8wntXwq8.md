@@ -10,7 +10,7 @@ Unidentified speaker: "I've always just whether I know what I'm doing or not, I'
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=53s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=53s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=53&q=1)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=53&q=1) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=53&q=1&slack=1)</small>
 
 **2. Unidentified speaker — Unidentified speaker praises Jalen Williams for his work ethic during the offseason.** [05:04](https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s)
 
@@ -18,7 +18,7 @@ Unidentified speaker: "He's driving across LA to come play with us up at the new
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=304&q=2)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=304&q=2) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=304&q=2&slack=1)</small>
 
 **3. Unidentified speaker — Unidentified speaker says the Thunder players arrived at training camp in great shape.** [10:14](https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s)
 
@@ -26,7 +26,7 @@ Unidentified speaker: "The fall was good. The guys did a really good job in the 
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=614&q=3)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=614&q=3) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=614&q=3&slack=1)</small>
 
 **4. Unidentified speaker — Unidentified speaker emphasizes the importance of processing speed in the modern NBA.** [10:53](https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s)
 
@@ -34,7 +34,7 @@ Unidentified speaker: "It's a dynamic game and the game's only getting faster wi
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=653&q=4)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=653&q=4) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=653&q=4&slack=1)</small>
 
 **5. Unidentified speaker — Unidentified speaker credits Shai Gilgeous-Alexander for his growth as a leader.** [18:10](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s)
 
@@ -42,7 +42,7 @@ Unidentified speaker: "He's one of those guys, I give him a lot of credit becaus
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1090&q=5)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1090&q=5) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=1090&q=5&slack=1)</small>
 
 **6. Unidentified speaker — Unidentified speaker confirms several players are limited at the start of training camp.** [18:27](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s)
 
@@ -50,4 +50,4 @@ Unidentified speaker: "Sam mentioned in his media that those guys are limited in
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1107&q=6)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1107&q=6) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=1107&q=6&slack=1)</small>

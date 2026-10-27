@@ -10,7 +10,7 @@ RJ Barrett: "Injuries are a part of the game. Obviously we wish everybody could 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=19s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=19s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=19&q=1) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=19&q=1&slack=1)</small>
 
 **2. RJ Barrett — "We've built up a resiliency that way, and just also knowing other teams, like we play Orlando" — RJ Barrett on building team resilience through early season injuries** [01:12](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=72s)
 
@@ -18,7 +18,7 @@ RJ Barrett: "We've already even in years past had some injuries that we have to 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=72s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=72s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=72&q=2)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=72&q=2) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=72&q=2&slack=1)</small>
 
 **3. RJ Barrett — "It's next man up mentality. He started a lot of games for me last year when I was out." — RJ Barrett on the team's next-man-up mentality** [02:36](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=156s)
 
@@ -26,7 +26,7 @@ RJ Barrett: "I don't think he need any help. He didn't look like he needed help 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=156s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=156s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=156&q=3)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=156&q=3) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=156&q=3&slack=1)</small>
 
 **4. RJ Barrett — "You can clean up some of those areas just by playing hard." — RJ Barrett on Gradey Dick's development and hard play** [03:05](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=185s)
 
@@ -34,7 +34,7 @@ RJ Barrett: "He plays hard. That's one way to, there's certain things as a rooki
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=185s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=185s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=185&q=4)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=185&q=4) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=185&q=4&slack=1)</small>
 
 **5. RJ Barrett — "It's the best players in the world, man. So it's very different. It's a completely different pace." — RJ Barrett on the mental challenge of being a young NBA player** [03:32](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=212s)
 
@@ -42,7 +42,7 @@ RJ Barrett: "It's the best players in the world, man. So it's very different. It
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=212s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=212s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=212&q=5)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=212&q=5) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=212&q=5&slack=1)</small>
 
 **6. Scottie Barnes — "We got to hold the fort down for my boy when he come back." — Scottie Barnes on maintaining focus during injury absences** [07:03](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=423s)
 
@@ -50,7 +50,7 @@ Scottie Barnes: "We got to hold the fort down for my boy when he come back. And 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=423s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=423s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=423&q=6)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=423&q=6) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=423&q=6&slack=1)</small>
 
 **7. Scottie Barnes — "Just look back at it. You still go over the tape, see what you could have did." — Scottie Barnes on learning from tough losses** [07:24](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=444s)
 
@@ -58,7 +58,7 @@ Scottie Barnes: "Just look back at it. You still go over the tape, see what you 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=444s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=444s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=444&q=7)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=444&q=7) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=444&q=7&slack=1)</small>
 
 **8. Scottie Barnes — "I feel like all the shots obviously I missed a lot of open shots, my threes wide open." — Scottie Barnes on missed opportunities and defensive impact** [07:52](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=472s)
 
@@ -66,7 +66,7 @@ Scottie Barnes: "I feel like all the shots obviously I missed a lot of open shot
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=472s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=472s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=472&q=8)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=472&q=8) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=472&q=8&slack=1)</small>
 
 **9. Scottie Barnes — "Nothing really changes. We just play within our system and be aggressive out of it." — Scottie Barnes on maintaining offensive system without Kawhi Leonard** [08:33](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=513s)
 
@@ -74,7 +74,7 @@ Scottie Barnes: "Nothing really changes. We just play within our system and be a
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=513s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=513s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=513&q=9)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=513&q=9) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=513&q=9&slack=1)</small>
 
 **10. Darko Rajakovic — "They made a lot of threes, lot of contested threes in the first quarter." — Darko Rajakovic on defensive struggles and first-quarter shooting** [10:14](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=614s)
 
@@ -82,7 +82,7 @@ Darko Rajakovic: "We had a rough start there. They made a lot of threes, lot of 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=614s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=614s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=614&q=10)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=614&q=10) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=614&q=10&slack=1)</small>
 
 **11. Darko Rajakovic — "Always when we're looking at everything that's thrown at us, we look at that as opportunity." — Darko Rajakovic on viewing roster adversity as opportunity** [11:03](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=663s)
 
@@ -90,7 +90,7 @@ Darko Rajakovic: "Always when we're looking at everything that's thrown at us, w
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=663s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=663s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=663&q=11)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=663&q=11) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=663&q=11&slack=1)</small>
 
 **12. Darko Rajakovic — "We're really focusing on guys that are here and definitely there are a lot of opportunities." — Darko Rajakovic on player development and team chemistry** [12:16](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=736s)
 
@@ -98,7 +98,7 @@ Darko Rajakovic: "We're really focusing on guys that are here and definitely the
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=736s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=736s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=736&q=12)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=736&q=12) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=736&q=12&slack=1)</small>
 
 **13. Darko Rajakovic — "I think that he has improved his three ball a lot." — Darko Rajakovic on Scottie Barnes' three-point shooting improvement** [12:59](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=779s)
 
@@ -106,7 +106,7 @@ Darko Rajakovic: "I think that when Scottie is shooting threes, that's good for 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=779s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=779s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=779&q=13)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=779&q=13) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=779&q=13&slack=1)</small>
 
 **14. Darko Rajakovic — "Our second unit, they they get their identity through defense, first and foremost." — Darko Rajakovic on second unit defensive identity** [16:04](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=964s)
 
@@ -114,4 +114,4 @@ Darko Rajakovic: "I think our second unit, they they get their identity through 
 
 [https://www.youtube.com/watch?v=H-Ova8cEqx4&t=964s](https://www.youtube.com/watch?v=H-Ova8cEqx4&t=964s)
 
-<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=964&q=14)</small>
+<small>[Clip it](presserclips://clip?v=H-Ova8cEqx4&t=964&q=14) · [Send to Slack](presserclips://clip?v=H-Ova8cEqx4&t=964&q=14&slack=1)</small>

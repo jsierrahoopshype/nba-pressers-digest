@@ -10,7 +10,7 @@ J.B. Bickerstaff: "He's a good player. He's highly intelligent, he understands t
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=14s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=14s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=14&q=1) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=14&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "being able to have multiple ball-handlers on the floor, multiple guys who can play at the point" — Benefits of playing multiple ball-handlers simultaneously** [00:44](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=44s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "It depends on how teams are playing us, obviously, but being 
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=44s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=44s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=44&q=2) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=44&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "he's done a great job of picking up the things that we've been introducing" — Early training camp assessment of the rookie's development** [01:01](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=61s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "He's done a great job of picking up the things that we've bee
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=61s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=61s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=61&q=3)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=61&q=3) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=61&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "he's got an opportunity to earn minutes through preseason" — How the rookie can earn rotation minutes in preseason** [01:26](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=86s)
 
@@ -34,7 +34,7 @@ J.B. Bickerstaff: "It's difficult obviously with just the amount of guys we have
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=86s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=86s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=86&q=4)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=86&q=4) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=86&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "the gravity that they have, and then that creates openings for everybody else" — Creating floor spacing through gravity and perimeter threats** [02:08](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=128s)
 
@@ -42,7 +42,7 @@ J.B. Bickerstaff: "It's obviously the gravity that they have, and then that crea
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=128s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=128s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=128&q=5)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=128&q=5) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=128&q=5&slack=1)</small>
 
 **6. J.B. Bickerstaff — "he grabs the young guys all the time, and he's having conversations with the young guys" — Veteran leadership and mentorship of younger players** [02:47](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=167s)
 
@@ -50,7 +50,7 @@ J.B. Bickerstaff: "He's a pro, he's a veteran, he's one of our most vocal guys. 
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=167s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=167s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=167&q=6)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=167&q=6) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=167&q=6&slack=1)</small>
 
 **7. J.B. Bickerstaff — "he's enjoyable to be around all the time. He's got a great positive spirit, great energy" — The importance of a positive veteran presence in the locker room** [03:33](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=213s)
 
@@ -58,7 +58,7 @@ J.B. Bickerstaff: "He is that way. He's enjoyable to be around all the time. He'
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=213s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=213s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=213&q=7)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=213&q=7) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=213&q=7&slack=1)</small>
 
 **8. J.B. Bickerstaff — "people are going to have to make an adjustment on how they defend him" — Adjusting defensive schemes to account for mid-range threats** [04:08](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=248s)
 
@@ -66,4 +66,4 @@ J.B. Bickerstaff: "People are going to have to make an adjustment on how they de
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=248s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=248s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=248&q=8)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=248&q=8) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=248&q=8&slack=1)</small>

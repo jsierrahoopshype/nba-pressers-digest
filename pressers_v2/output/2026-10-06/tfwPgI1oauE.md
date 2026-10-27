@@ -10,7 +10,7 @@ Jamahl Mosley: "That's the beauty of it. You get to see where your baseline is, 
 
 [https://www.youtube.com/watch?v=tfwPgI1oauE&t=612s](https://www.youtube.com/watch?v=tfwPgI1oauE&t=612s)
 
-<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=612&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=612&q=1) · [Send to Slack](presserclips://clip?v=tfwPgI1oauE&t=612&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "we have guys that are talented enough, good enough, and then with enough potential in certain areas" — Jamahl Mosley on the talent and potential of the current roster** [10:46](https://www.youtube.com/watch?v=tfwPgI1oauE&t=646s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "The reality is we have guys that are talented enough, good enoug
 
 [https://www.youtube.com/watch?v=tfwPgI1oauE&t=646s](https://www.youtube.com/watch?v=tfwPgI1oauE&t=646s)
 
-<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=646&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=646&q=2) · [Send to Slack](presserclips://clip?v=tfwPgI1oauE&t=646&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "it's done by film, it's done on the court, it's as much practice time as you can get" — Jamahl Mosley on evaluating player fit through film and practice** [11:18](https://www.youtube.com/watch?v=tfwPgI1oauE&t=678s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "I think it's done by film, it's done on the court, it's as much 
 
 [https://www.youtube.com/watch?v=tfwPgI1oauE&t=678s](https://www.youtube.com/watch?v=tfwPgI1oauE&t=678s)
 
-<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=678&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=678&q=3) · [Send to Slack](presserclips://clip?v=tfwPgI1oauE&t=678&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "our focus is playing our brand of basketball and what we've been talking about" — Jamahl Mosley on the team's focus on their brand of basketball** [11:46](https://www.youtube.com/watch?v=tfwPgI1oauE&t=706s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "Our focus is playing our brand of basketball and what we've been
 
 [https://www.youtube.com/watch?v=tfwPgI1oauE&t=706s](https://www.youtube.com/watch?v=tfwPgI1oauE&t=706s)
 
-<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=706&q=4)</small>
+<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=706&q=4) · [Send to Slack](presserclips://clip?v=tfwPgI1oauE&t=706&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "we're going to get the stops to get out and run" — Jamahl Mosley on playing fast versus maintaining defensive discipline** [12:18](https://www.youtube.com/watch?v=tfwPgI1oauE&t=738s)
 
@@ -42,4 +42,4 @@ Jamahl Mosley: "What I think has been a little misconstrued in some ways is that
 
 [https://www.youtube.com/watch?v=tfwPgI1oauE&t=738s](https://www.youtube.com/watch?v=tfwPgI1oauE&t=738s)
 
-<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=738&q=5)</small>
+<small>[Clip it](presserclips://clip?v=tfwPgI1oauE&t=738&q=5) · [Send to Slack](presserclips://clip?v=tfwPgI1oauE&t=738&q=5&slack=1)</small>

@@ -10,7 +10,7 @@ Deni Avdija: "Scoot looks great. Shape-wise, body-wise, he looks strong. He look
 
 [https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=21s](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=21s)
 
-<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=21&q=1)</small>
+<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=21&q=1) · [Send to Slack](presserclips://clip?v=YMA0-ZfSxTY&t=21&q=1&slack=1)</small>
 
 **2. Deni Avdija — "At the end of the day, I'm trying to be a complete player on both ends of the floor." — Deni Avdija on his goal to become a complete two-way player** [01:29](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=89s)
 
@@ -18,7 +18,7 @@ Deni Avdija: "I definitely had a lot of offensive load last year, especially dur
 
 [https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=89s](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=89s)
 
-<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=89&q=2)</small>
+<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=89&q=2) · [Send to Slack](presserclips://clip?v=YMA0-ZfSxTY&t=89&q=2&slack=1)</small>
 
 **3. Deni Avdija — "I'm not shy to shoot. I think I'm a good shooter, I have a good technique." — Deni Avdija on adjusting his offensive game and shot selection** [02:30](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=150s)
 
@@ -26,7 +26,7 @@ Deni Avdija: "I had to figure out my offensive load. I shot a lot off the dribbl
 
 [https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=150s](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=150s)
 
-<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=150&q=3)</small>
+<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=150&q=3) · [Send to Slack](presserclips://clip?v=YMA0-ZfSxTY&t=150&q=3&slack=1)</small>
 
 **4. Deni Avdija — "Each and every one of us got to understand that we got to play a little bit off the ball." — Deni Avdija on team mentality and sharing playmaking duties** [06:11](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=371s)
 
@@ -34,7 +34,7 @@ Deni Avdija: "We all do both. I feel like that's a winning team mentality. Each 
 
 [https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=371s](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=371s)
 
-<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=371&q=4)</small>
+<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=371&q=4) · [Send to Slack](presserclips://clip?v=YMA0-ZfSxTY&t=371&q=4&slack=1)</small>
 
 **5. Deni Avdija — "I think I would leave some surprises for the season. I'm not going to tell you all the secrets." — Deni Avdija on potential surprises for the upcoming season** [07:34](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=454s)
 
@@ -42,4 +42,4 @@ Deni Avdija: "I think I would leave some surprises for the season. I'm not going
 
 [https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=454s](https://www.youtube.com/watch?v=YMA0-ZfSxTY&t=454s)
 
-<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=454&q=5)</small>
+<small>[Clip it](presserclips://clip?v=YMA0-ZfSxTY&t=454&q=5) · [Send to Slack](presserclips://clip?v=YMA0-ZfSxTY&t=454&q=5&slack=1)</small>

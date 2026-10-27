@@ -12,7 +12,7 @@ Moses Moody: "My first thought on the ground was I know this is going to be a go
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=207s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=207s)
 
-<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=207&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=207&q=1) · [Send to Slack](presserclips://clip?v=8RhkDzJUlL8&t=207&q=1&slack=1)</small>
 
 **2. Moses Moody (Golden State Warriors) — "watching somebody be able to stay patient and ambitious at the same time." — Moses Moody praises Stephen Curry for his commitment to the Warriors organization.** [08:15](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s)
 
@@ -20,7 +20,7 @@ Moses Moody: "It is cool to see somebody at the that has done as much as he has 
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s)
 
-<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=495&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=495&q=2) · [Send to Slack](presserclips://clip?v=8RhkDzJUlL8&t=495&q=2&slack=1)</small>
 
 **3. Moses Moody (Golden State Warriors) — "this is probably the most insecure I ever felt when it comes" — Moses Moody discusses the emotional insecurity of dealing with a patellar tendon injury.** [10:46](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s)
 
@@ -28,7 +28,7 @@ Moses Moody: "I feel like I am a pretty secure person normally, but then like th
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s)
 
-<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=646&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=646&q=3) · [Send to Slack](presserclips://clip?v=8RhkDzJUlL8&t=646&q=3&slack=1)</small>
 
 ---
 
@@ -42,7 +42,7 @@ Unidentified speaker: "**Kyle Filipowski** had one of the more interesting quote
 
 [https://www.youtube.com/watch?v=4ZNec5QgaUc&t=923s](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=923s)
 
-<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=923&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=923&q=1) · [Send to Slack](presserclips://clip?v=4ZNec5QgaUc&t=923&q=1&slack=1)</small>
 
 **2. Unidentified speaker — "maturity was mentioned five, six, seven times from different guys today when talking about Bryce Sensabaugh" — Bryce Sensabaugh is praised by teammates for his work ethic and maturity.** [24:54](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s)
 
@@ -50,7 +50,7 @@ Unidentified speaker: "**Bryce** had a quote about he is 19, hasn't actually pla
 
 [https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s](https://www.youtube.com/watch?v=4ZNec5QgaUc&t=1494s)
 
-<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=1494&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4ZNec5QgaUc&t=1494&q=2) · [Send to Slack](presserclips://clip?v=4ZNec5QgaUc&t=1494&q=2&slack=1)</small>
 
 ---
 
@@ -66,7 +66,7 @@ Georges Niang: "So I have my Senegalese passport. I was planning on playing for 
 
 [https://www.youtube.com/watch?v=UWwv8s5JrBg&t=205s](https://www.youtube.com/watch?v=UWwv8s5JrBg&t=205s)
 
-<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=205&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=205&q=1) · [Send to Slack](presserclips://clip?v=UWwv8s5JrBg&t=205&q=1&slack=1)</small>
 
 **2. Georges Niang (Golden State Warriors) — "Shooting three pointers is one aspect of his game that he is extremely elite at" — Georges Niang praises Stephen Curry as the best shooter ever and a complete player.** [09:06](https://www.youtube.com/watch?v=UWwv8s5JrBg&t=546s)
 
@@ -74,7 +74,7 @@ Georges Niang: "Have you ever watched him workout? It is like real discouraging.
 
 [https://www.youtube.com/watch?v=UWwv8s5JrBg&t=546s](https://www.youtube.com/watch?v=UWwv8s5JrBg&t=546s)
 
-<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=546&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=546&q=2) · [Send to Slack](presserclips://clip?v=UWwv8s5JrBg&t=546&q=2&slack=1)</small>
 
 ---
 
@@ -90,7 +90,7 @@ Jimmy Butler: "I feel great. Rehab in every day. I am to a point now where I get
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=27s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=27s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=27&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=27&q=1) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=27&q=1&slack=1)</small>
 
 **2. Jimmy Butler (Golden State Warriors) — "I want to go out there and compete with my guys, with Dray, be Robbin again to Steph's Batman." — Jimmy Butler says he is eager to return to the court and compete with his teammates.** [01:56](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=116s)
 
@@ -98,7 +98,7 @@ Jimmy Butler: "I think it is difficult for me because I do love to play basketba
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=116s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=116s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=116&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=116&q=2) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=116&q=2&slack=1)</small>
 
 **3. Jimmy Butler (Golden State Warriors) — Jimmy Butler says he is following the team's rehab plan to ensure he returns at full strength.** [03:33](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=213s)
 
@@ -106,7 +106,7 @@ Jimmy Butler: "That is just me being stubborn and wanting to come back and hoop.
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=213s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=213s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=213&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=213&q=3) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=213&q=3&slack=1)</small>
 
 **4. Jimmy Butler (Golden State Warriors) — Jimmy Butler praises teammate Axel for his size, shooting ability and winning mindset.** [04:16](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=256s)
 
@@ -114,7 +114,7 @@ Jimmy Butler: "He is fucking massive. Like he is a a a big human being and he he
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=256s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=256s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=256&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=256&q=4) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=256&q=4&slack=1)</small>
 
 **5. Jimmy Butler (Golden State Warriors) — "the potential of this offense is is great just because all the gravity that obviously Steph brings" — Jimmy Butler says the Warriors offense has great potential due to Steph Curry's gravity.** [07:17](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=437s)
 
@@ -122,7 +122,7 @@ Jimmy Butler: "Yes, we do not want to turn the ball over. But I I think you know
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=437s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=437s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=437&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=437&q=5) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=437&q=5&slack=1)</small>
 
 **6. Jimmy Butler (Golden State Warriors) — "But if I score a goal, you have to cancel the game." — Jimmy Butler jokingly says he will retire from the NBA if he scores a goal in soccer.** [11:54](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=714s)
 
@@ -130,7 +130,7 @@ Jimmy Butler: "But if I score a goal, you have to cancel the game. I will never 
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=714s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=714s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=714&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=714&q=6) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=714&q=6&slack=1)</small>
 
 **7. Jimmy Butler (Golden State Warriors) — "my numbers are staggering, they are off the charts." — Jimmy Butler says his rehab numbers are off the charts and he is ahead of schedule.** [13:47](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=827s)
 
@@ -138,7 +138,7 @@ Jimmy Butler: "I am not one for numbers. I will tell y'all all the threes, free 
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=827s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=827s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=827&q=7)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=827&q=7) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=827&q=7&slack=1)</small>
 
 **8. Jimmy Butler (Golden State Warriors) — "I got some new piercings when I was out with my ACL." — Jimmy Butler says he got new ear piercings while recovering from his ACL injury.** [15:03](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=903s)
 
@@ -146,7 +146,7 @@ Jimmy Butler: "Oh I got some new piercings when I was out with my ACL. I had a b
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=903s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=903s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=903&q=8)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=903&q=8) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=903&q=8&slack=1)</small>
 
 **9. Jimmy Butler (Golden State Warriors) — "To me it is always going to be about winning. When you win, that contract stuff takes care of itself." — Jimmy Butler says he is focused on winning rather than his contract status.** [14:57](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=897s)
 
@@ -154,7 +154,7 @@ Jimmy Butler: "I have made a couple buckaroos in my in my years in the league. S
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=897s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=897s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=897&q=9)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=897&q=9) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=897&q=9&slack=1)</small>
 
 **10. Jimmy Butler (Golden State Warriors) — Jimmy Butler says he will not change his playing style when he returns.** [14:33](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=873s)
 
@@ -162,7 +162,7 @@ Jimmy Butler: "I like one of my favorite athletes of all time is **Chad Ochocinc
 
 [https://www.youtube.com/watch?v=5SjpPO4YoOw&t=873s](https://www.youtube.com/watch?v=5SjpPO4YoOw&t=873s)
 
-<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=873&q=10)</small>
+<small>[Clip it](presserclips://clip?v=5SjpPO4YoOw&t=873&q=10) · [Send to Slack](presserclips://clip?v=5SjpPO4YoOw&t=873&q=10&slack=1)</small>
 
 ---
 
@@ -178,7 +178,7 @@ Gary Payton II: "He is good. Good kid, good size. He is going to help us on both
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=46s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=46s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=46&q=1) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=46&q=1&slack=1)</small>
 
 **2. Gary Payton II (Golden State Warriors) — "It was a no-brainer. I had some few other options, but at this point in time" — Gary Payton II says returning to the Warriors was an easy decision.** [05:06](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=306s)
 
@@ -186,7 +186,7 @@ Gary Payton II: "It was a no-brainer. I had some few other options, but at this 
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=306s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=306s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=306&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=306&q=2) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=306&q=2&slack=1)</small>
 
 **3. Gary Payton II (Golden State Warriors) — "He is going to get thrown in the fire. I am pretty sure of it." — Gary Payton II says the team will throw Brandon Podziemski into the fire this season.** [07:04](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=424s)
 
@@ -194,7 +194,7 @@ Gary Payton II: "He is going to get thrown in the fire. I am pretty sure of it. 
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=424s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=424s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=424&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=424&q=3) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=424&q=3&slack=1)</small>
 
 **4. Gary Payton II (Golden State Warriors) — "He is going to help me get my my foot speed back" — Gary Payton II says Brandon Podziemski will help him improve his defensive foot speed.** [07:45](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=465s)
 
@@ -202,7 +202,7 @@ Gary Payton II: "He is going to help me get my my foot speed back and just for t
 
 [https://www.youtube.com/watch?v=FTXwzCtCFjA&t=465s](https://www.youtube.com/watch?v=FTXwzCtCFjA&t=465s)
 
-<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=465&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FTXwzCtCFjA&t=465&q=4) · [Send to Slack](presserclips://clip?v=FTXwzCtCFjA&t=465&q=4&slack=1)</small>
 
 ---
 
@@ -218,7 +218,7 @@ Kenrich Williams: "With media day, it is my fifth season, fifth media day. I am 
 
 [https://www.youtube.com/watch?v=aWTtqoCkcdw&t=11s](https://www.youtube.com/watch?v=aWTtqoCkcdw&t=11s)
 
-<small>[Clip it](presserclips://clip?v=aWTtqoCkcdw&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=aWTtqoCkcdw&t=11&q=1) · [Send to Slack](presserclips://clip?v=aWTtqoCkcdw&t=11&q=1&slack=1)</small>
 
 ---
 
@@ -234,7 +234,7 @@ De'Anthony Melton: "Frank, I think he is going to add an interesting piece for u
 
 [https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=324s](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=324s)
 
-<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=324&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=324&q=1) · [Send to Slack](presserclips://clip?v=ck6tYJSZ81Y&t=324&q=1&slack=1)</small>
 
 **2. De'Anthony Melton (Golden State Warriors) — "he definitely is strong and going downhill he is massive for sure" — De'Anthony Melton praises Jaxson Hayes' strength and size.** [08:14](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s)
 
@@ -242,7 +242,7 @@ De'Anthony Melton: "Jax is he a big kid, man. He a big kid, 1000%. I be joking w
 
 [https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s)
 
-<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=494&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=494&q=2) · [Send to Slack](presserclips://clip?v=ck6tYJSZ81Y&t=494&q=2&slack=1)</small>
 
 ---
 
@@ -258,7 +258,7 @@ Duop Reath: "I feel like the biggest thing that I learned is just how every coun
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=33s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=33s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=33&q=1) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=33&q=1&slack=1)</small>
 
 **2. Duop Reath (Phoenix Suns) — "when you have those two combined, you can do some special things on the basketball court" — Duop Reath praises the character and talent of his new Phoenix Suns teammates.** [01:58](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=118s)
 
@@ -266,7 +266,7 @@ Duop Reath: "The guys that we have in the locker room are great human beings, bu
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=118s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=118s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=118&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=118&q=2) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=118&q=2&slack=1)</small>
 
 **3. Duop Reath (Phoenix Suns) — "I'm just going to compete. Let's go out there and play hard" — Duop Reath promises to bring a high level of competition to the Phoenix Suns.** [03:57](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=237s)
 
@@ -274,7 +274,7 @@ Duop Reath: "It's going to compete. I'm just going to compete. Let's go out ther
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=237s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=237s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=237&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=237&q=3) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=237&q=3&slack=1)</small>
 
 **4. Duop Reath (Phoenix Suns) — "just seeing those guys there, they've played in the league for for a while" — Duop Reath credits his former teammates for teaching him the importance of consistency.** [05:10](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=310s)
 
@@ -282,7 +282,7 @@ Duop Reath: "Most of those guys, there was some experience there. So just seeing
 
 [https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=310s](https://www.youtube.com/watch?v=0K3Aa_kR9rg&t=310s)
 
-<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=310&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0K3Aa_kR9rg&t=310&q=4) · [Send to Slack](presserclips://clip?v=0K3Aa_kR9rg&t=310&q=4&slack=1)</small>
 
 ---
 
@@ -298,7 +298,7 @@ CJ Huntley: "I feel it was a learning experience for me. Starting on a two-way a
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=33s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=33s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=33&q=1) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=33&q=1&slack=1)</small>
 
 **2. CJ Huntley (Phoenix Suns) — "I am approaching the same way I approach every day." — CJ Huntley focuses on weight room work and shooting improvement for the upcoming season.** [02:09](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=129s)
 
@@ -306,7 +306,7 @@ CJ Huntley: "I am approaching the same way I approach every day. Just to put my 
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=129s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=129s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=129&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=129&q=2) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=129&q=2&slack=1)</small>
 
 **3. CJ Huntley (Phoenix Suns) — "I just learned the pace of the game, the physicality of the game." — CJ Huntley highlights pace and physicality as key lessons from his NBA game experience.** [03:30](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=210s)
 
@@ -314,7 +314,7 @@ CJ Huntley: "I just learned the pace of the game, the physicality of the game. R
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=210s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=210s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=210&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=210&q=3) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=210&q=3&slack=1)</small>
 
 **4. CJ Huntley (Phoenix Suns) — "I feel it is a great advantage because they are actually here with us." — CJ Huntley notes the advantage of alignment between the Phoenix Suns and Valley Suns coaching staffs.** [02:51](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=171s)
 
@@ -322,7 +322,7 @@ CJ Huntley: "I feel it is a great advantage because they are actually here with 
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=171s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=171s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=171&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=171&q=4) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=171&q=4&slack=1)</small>
 
 **5. CJ Huntley (Phoenix Suns) — "I feel it was always been motivation ever since I was undrafted." — CJ Huntley uses his undrafted status as ongoing motivation to prove himself.** [03:36](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=216s)
 
@@ -330,7 +330,7 @@ CJ Huntley: "I feel it was always been motivation ever since I was undrafted. I 
 
 [https://www.youtube.com/watch?v=HxgrFOnSFX0&t=216s](https://www.youtube.com/watch?v=HxgrFOnSFX0&t=216s)
 
-<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=216&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HxgrFOnSFX0&t=216&q=5) · [Send to Slack](presserclips://clip?v=HxgrFOnSFX0&t=216&q=5&slack=1)</small>
 
 ---
 
@@ -346,7 +346,7 @@ Jeff Weltman: "We have in the last three years been top 10 in the league in regu
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=139s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=139s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=139&q=1)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=139&q=1) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=139&q=1&slack=1)</small>
 
 **2. Franz Wagner (Orlando Magic) — "I love playing with my brother. We shared a lot of cool memories here in Orlando together." — Franz Wagner discusses the transition to playing without his brother Moritz Wagner in Orlando.** [1:00:33](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3633s)
 
@@ -354,7 +354,7 @@ Franz Wagner: "I think it's a work in progress. I spent three weeks now here in 
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3633s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3633s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3633&q=2)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3633&q=2) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=3633&q=2&slack=1)</small>
 
 **3. Jonathan Isaac (Orlando Magic) — "I love this team, I love this city." — Jonathan Isaac expresses his gratitude and commitment to the Orlando Magic organization.** [2:00:22](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7222s)
 
@@ -362,7 +362,7 @@ Jonathan Isaac: "It means everything. I love this team, I love this city. I feel
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7222s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7222s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7222&q=3)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7222&q=3) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7222&q=3&slack=1)</small>
 
 **4. Jamahl Mosley (Orlando Magic) — "We want to do a great job of teaching first and foremost and establishing the standards." — Jamahl Mosley emphasizes teaching and establishing high standards as the team prepares for the season.** [32:06](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=1926s)
 
@@ -370,7 +370,7 @@ Jamahl Mosley: "We want to do a great job of teaching first and foremost and est
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=1926s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=1926s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=1926&q=4)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=1926&q=4) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=1926&q=4&slack=1)</small>
 
 **5. Jalen Suggs (Orlando Magic) — "I'm feeling strong. I'm doing everything in my power to make sure that I'm healthy." — Jalen Suggs reports that he is healthy and feeling strong heading into the season.** [1:10:36](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4236s)
 
@@ -378,7 +378,7 @@ Jalen Suggs: "I feel amazing. I'm very healthy. It's been a great summer. Like I
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4236s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4236s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4236&q=5)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4236&q=5) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=4236&q=5&slack=1)</small>
 
 **6. Nikola Vucevic (Orlando Magic) — "It's been nice to be back." — Nikola Vucevic discusses his return to Orlando and the transition process.** [2:02:06](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7326s)
 
@@ -386,7 +386,7 @@ Nikola Vucevic: "It feels great. I think I'll be more kind of it'll hit me a lit
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7326s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7326s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7326&q=6)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7326&q=6) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7326&q=6&slack=1)</small>
 
 **7. Jalen Suggs (Orlando Magic) — "I don't really have too many individual goals, but just to showcase that all the intangible." — Jalen Suggs aims to bring his G League contributions to the NBA level this season.** [48:43](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=2923s)
 
@@ -394,7 +394,7 @@ Jalen Suggs: "I don't really have too many individual goals, but just to showcas
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=2923s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=2923s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=2923&q=7)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=2923&q=7) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=2923&q=7&slack=1)</small>
 
 **8. Jett Howard (Orlando Magic) — Jett Howard reflects on his early basketball memories and the impact of having women coaches.** [1:15:44](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4544s)
 
@@ -402,7 +402,7 @@ Jett Howard: "I think with my first memory of basketball, I always go back to my
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4544s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4544s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4544&q=8)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4544&q=8) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=4544&q=8&slack=1)</small>
 
 **9. Paolo Banchero (Orlando Magic) — "I think last season was disappointing on all aspects" — Paolo Banchero reflects on the disappointing previous season and expresses excitement for the new coaching staff.** [2:02:21](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7341s)
 
@@ -410,7 +410,7 @@ Paolo Banchero: "I think last season was disappointing on all aspects, but you k
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7341s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7341s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7341&q=9)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7341&q=9) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7341&q=9&slack=1)</small>
 
 **10. Paolo Banchero (Orlando Magic) — "I worked a lot on just trying to get stronger." — Paolo Banchero focused on strength and his floor game during the offseason.** [57:14](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3434s)
 
@@ -418,7 +418,7 @@ Paolo Banchero: "This summer, you know, I worked a lot on just trying to get str
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3434s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3434s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3434&q=10)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3434&q=10) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=3434&q=10&slack=1)</small>
 
 **11. Wendell Carter Jr. (Orlando Magic) — "I think first staying injury free." — Wendell Carter Jr. emphasizes the importance of staying healthy for the team's success.** [2:02:43](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7363s)
 
@@ -426,7 +426,7 @@ Wendell Carter Jr.: "I think first staying injury free. I think I don't like to 
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7363s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7363s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7363&q=11)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7363&q=11) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7363&q=11&slack=1)</small>
 
 **12. Franz Wagner (Orlando Magic) — "Just being a connector, offensively and defensively, taking pride in guarding for the full possession." — Franz Wagner defines his role as a connector on both ends of the floor.** [1:03:46](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3826s)
 
@@ -434,7 +434,7 @@ Franz Wagner: "Just being a connector, offensively and defensively, taking pride
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3826s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3826s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3826&q=12)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3826&q=12) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=3826&q=12&slack=1)</small>
 
 ---
 

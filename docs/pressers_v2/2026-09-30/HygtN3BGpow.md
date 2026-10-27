@@ -10,7 +10,7 @@ Kenny Atkinson: "You saw **Mario** today, he was really good. He adds skill, int
 
 [https://www.youtube.com/watch?v=HygtN3BGpow&t=125s](https://www.youtube.com/watch?v=HygtN3BGpow&t=125s)
 
-<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=125&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=125&q=1) · [Send to Slack](presserclips://clip?v=HygtN3BGpow&t=125&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "Jose is just like when he was a player, he is a connector of people" — Kenny Atkinson praises Jose for his leadership and ability to connect with the organization.** [04:13](https://www.youtube.com/watch?v=HygtN3BGpow&t=253s)
 
@@ -18,4 +18,4 @@ Kenny Atkinson: "I wish we had **Jose** as our third point guard. You know, **Jo
 
 [https://www.youtube.com/watch?v=HygtN3BGpow&t=253s](https://www.youtube.com/watch?v=HygtN3BGpow&t=253s)
 
-<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=253&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=253&q=2) · [Send to Slack](presserclips://clip?v=HygtN3BGpow&t=253&q=2&slack=1)</small>

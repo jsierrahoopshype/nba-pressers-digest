@@ -10,4 +10,4 @@ Yaxel Lendeborg: "I'm going to be the most entertaining playing guy on the floor
 
 [https://www.youtube.com/watch?v=-RVFB1Uu9QM&t=12s](https://www.youtube.com/watch?v=-RVFB1Uu9QM&t=12s)
 
-<small>[Clip it](presserclips://clip?v=-RVFB1Uu9QM&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-RVFB1Uu9QM&t=12&q=1) · [Send to Slack](presserclips://clip?v=-RVFB1Uu9QM&t=12&q=1&slack=1)</small>

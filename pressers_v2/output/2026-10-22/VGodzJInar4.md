@@ -10,7 +10,7 @@ Immanuel Quickley: "They are great players, so especially with **Kawhi Leonard**
 
 [https://www.youtube.com/watch?v=VGodzJInar4&t=11s](https://www.youtube.com/watch?v=VGodzJInar4&t=11s)
 
-<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=11&q=1) · [Send to Slack](presserclips://clip?v=VGodzJInar4&t=11&q=1&slack=1)</small>
 
 **2. Immanuel Quickley — "It's kind of like a music ensemble. Sometimes it's the solo of a percussionist, sometimes it's the whole band." — Immanuel Quickley on the team's offensive flow and decision-making** [01:00](https://www.youtube.com/watch?v=VGodzJInar4&t=60s)
 
@@ -18,7 +18,7 @@ Immanuel Quickley: "It's kind of like a music ensemble. Sometimes it's the solo 
 
 [https://www.youtube.com/watch?v=VGodzJInar4&t=60s](https://www.youtube.com/watch?v=VGodzJInar4&t=60s)
 
-<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=60&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=60&q=2) · [Send to Slack](presserclips://clip?v=VGodzJInar4&t=60&q=2&slack=1)</small>
 
 **3. Immanuel Quickley — "My IQ for the game is really high and I spend a lot of time watching film." — Immanuel Quickley on his high basketball IQ and film study** [03:07](https://www.youtube.com/watch?v=VGodzJInar4&t=187s)
 
@@ -26,7 +26,7 @@ Immanuel Quickley: "My IQ for the game is really high and I spend a lot of time 
 
 [https://www.youtube.com/watch?v=VGodzJInar4&t=187s](https://www.youtube.com/watch?v=VGodzJInar4&t=187s)
 
-<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=187&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=187&q=3) · [Send to Slack](presserclips://clip?v=VGodzJInar4&t=187&q=3&slack=1)</small>
 
 **4. Immanuel Quickley — "There's plays that affect winning so much and Allen did a great job of that." — Immanuel Quickley on the debut of rookie Allen** [03:36](https://www.youtube.com/watch?v=VGodzJInar4&t=216s)
 
@@ -34,7 +34,7 @@ Immanuel Quickley: "I love what **Allen** brought. Everybody sees the scoring an
 
 [https://www.youtube.com/watch?v=VGodzJInar4&t=216s](https://www.youtube.com/watch?v=VGodzJInar4&t=216s)
 
-<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=216&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=216&q=4) · [Send to Slack](presserclips://clip?v=VGodzJInar4&t=216&q=4&slack=1)</small>
 
 **5. Immanuel Quickley — "This is all our team. It's not just my team or just Scottie's team or just Darko's team." — Immanuel Quickley on team communication and collective accountability** [04:12](https://www.youtube.com/watch?v=VGodzJInar4&t=252s)
 
@@ -42,4 +42,4 @@ Immanuel Quickley: "A lot of it goes to the film and seeing where you can attack
 
 [https://www.youtube.com/watch?v=VGodzJInar4&t=252s](https://www.youtube.com/watch?v=VGodzJInar4&t=252s)
 
-<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=252&q=5)</small>
+<small>[Clip it](presserclips://clip?v=VGodzJInar4&t=252&q=5) · [Send to Slack](presserclips://clip?v=VGodzJInar4&t=252&q=5&slack=1)</small>

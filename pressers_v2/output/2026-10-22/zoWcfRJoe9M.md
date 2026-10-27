@@ -10,7 +10,7 @@ Chris Finch: "100 percent. He got enough good clean looks to be able to get hims
 
 [https://www.youtube.com/watch?v=zoWcfRJoe9M&t=9s](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=9s)
 
-<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=9&q=1) · [Send to Slack](presserclips://clip?v=zoWcfRJoe9M&t=9&q=1&slack=1)</small>
 
 **2. Chris Finch — "I personally thought Jonathan Kuminga was phenomenal" — Jonathan Kuminga's performance and defensive impact** [01:44](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=104s)
 
@@ -18,7 +18,7 @@ Chris Finch: "I personally thought **Jonathan Kuminga** was phenomenal. In my mi
 
 [https://www.youtube.com/watch?v=zoWcfRJoe9M&t=104s](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=104s)
 
-<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=104&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=104&q=2) · [Send to Slack](presserclips://clip?v=zoWcfRJoe9M&t=104&q=2&slack=1)</small>
 
 **3. Chris Finch — "we've not intentionally talked about upping our three-point volume" — Minnesota's increased three-point volume in the new offense** [02:26](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=146s)
 
@@ -26,7 +26,7 @@ Chris Finch: "We've not intentionally talked about upping our three-point volume
 
 [https://www.youtube.com/watch?v=zoWcfRJoe9M&t=146s](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=146s)
 
-<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=146&q=3)</small>
+<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=146&q=3) · [Send to Slack](presserclips://clip?v=zoWcfRJoe9M&t=146&q=3&slack=1)</small>
 
 **4. Chris Finch — "he always thrived and lived for and embraced the moments" — Anthony Edwards' ability to thrive in big moments** [04:15](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=255s)
 
@@ -34,7 +34,7 @@ Chris Finch: "With **Anthony Edwards**' mindset and abilities, he always thrived
 
 [https://www.youtube.com/watch?v=zoWcfRJoe9M&t=255s](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=255s)
 
-<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=255&q=4)</small>
+<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=255&q=4) · [Send to Slack](presserclips://clip?v=zoWcfRJoe9M&t=255&q=4&slack=1)</small>
 
 **5. Chris Finch — "he didn't give him any easy catches when he was down and around his operating area" — Jonathan Kuminga's defensive effort against Giannis Antetokounmpo** [05:39](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=339s)
 
@@ -42,7 +42,7 @@ Chris Finch: "He got up in him. He fought him. He didn't give him any easy catch
 
 [https://www.youtube.com/watch?v=zoWcfRJoe9M&t=339s](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=339s)
 
-<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=339&q=5)</small>
+<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=339&q=5) · [Send to Slack](presserclips://clip?v=zoWcfRJoe9M&t=339&q=5&slack=1)</small>
 
 **6. Chris Finch — "he's very effective with the ball in his hands" — Terrence Shannon Jr.'s development as a primary ball-handler** [06:34](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=394s)
 
@@ -50,4 +50,4 @@ Chris Finch: "We learned last year, and silly me for not figuring it out sooner,
 
 [https://www.youtube.com/watch?v=zoWcfRJoe9M&t=394s](https://www.youtube.com/watch?v=zoWcfRJoe9M&t=394s)
 
-<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=394&q=6)</small>
+<small>[Clip it](presserclips://clip?v=zoWcfRJoe9M&t=394&q=6) · [Send to Slack](presserclips://clip?v=zoWcfRJoe9M&t=394&q=6&slack=1)</small>

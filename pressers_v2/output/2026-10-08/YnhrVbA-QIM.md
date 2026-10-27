@@ -12,7 +12,7 @@ _Speakers identified: Dylan, Tobias Harris_
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=0s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=0s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=0&q=1) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=0&q=1&slack=1)</small>
 
 **2. Dylan — "When he was in Detroit, he used to wear a good amount of Kobes." — Dylan reflects on Tobias Harris's sneaker collection from his Detroit days** [00:17](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=17s)
 
@@ -20,7 +20,7 @@ Dylan: "When he was in Detroit, he used to wear a good amount of **Kobe**s. I al
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=17s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=17s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=17&q=2)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=17&q=2) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=17&q=2&slack=1)</small>
 
 **3. Tobias Harris — "This is the first day of school, you put your best outfit out and then you rock it." — Tobias Harris on the tradition of wearing sneakers on media day** [00:27](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=27s)
 
@@ -28,7 +28,7 @@ Tobias Harris: "This is the first day of school, you put your best outfit out an
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=27s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=27s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=27&q=3)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=27&q=3) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=27&q=3&slack=1)</small>
 
 **4. Dylan — "Not a lot of people know his shoes, but when the big media outlets post it." — Dylan on the social media reaction to his sneaker choice** [00:45](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=45s)
 
@@ -36,7 +36,7 @@ Dylan: "Not a lot of people know his shoes, but when the big media outlets post 
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=45s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=45s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=45&q=4)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=45&q=4) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=45&q=4&slack=1)</small>
 
 **5. Tobias Harris — "My PEs, he wear them, it's an honor, you know, like creating something." — Tobias Harris on the honor of teammates wearing his player editions** [00:56](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=56s)
 
@@ -44,7 +44,7 @@ Tobias Harris: "My PEs, he wear them, it's an honor, you know, like creating som
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=56s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=56s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=56&q=5)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=56&q=5) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=56&q=5&slack=1)</small>
 
 **6. Tobias Harris — "I got a few others that I haven't even brought out the storage unit yet." — Tobias Harris hints at more exclusive sneakers in his collection** [01:26](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=86s)
 
@@ -52,4 +52,4 @@ Tobias Harris: "I got a few others that I haven't even brought out the storage u
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=86s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=86s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=86&q=6)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=86&q=6) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=86&q=6&slack=1)</small>

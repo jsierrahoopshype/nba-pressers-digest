@@ -10,7 +10,7 @@ Anfernee Simons: "I would say just focus on our goals that we got inside this bu
 
 [https://www.youtube.com/watch?v=OWIWxFuMFvk&t=307s](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=307s)
 
-<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=307&q=1)</small>
+<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=307&q=1) · [Send to Slack](presserclips://clip?v=OWIWxFuMFvk&t=307&q=1&slack=1)</small>
 
 **2. Anfernee Simons — Anfernee Simons praises Tyrese Maxey for his athleticism and ability to get downhill.** [06:49](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=409s)
 
@@ -18,7 +18,7 @@ Anfernee Simons: "I said before, Tyrese Maxey is so talented. Obviously, his ath
 
 [https://www.youtube.com/watch?v=OWIWxFuMFvk&t=409s](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=409s)
 
-<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=409&q=2)</small>
+<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=409&q=2) · [Send to Slack](presserclips://clip?v=OWIWxFuMFvk&t=409&q=2&slack=1)</small>
 
 **3. Anfernee Simons — Anfernee Simons highlights the veteran presence and high basketball IQ of a new teammate.** [06:53](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=413s)
 
@@ -26,4 +26,4 @@ Anfernee Simons: "Just his understanding of the game. He has been in so many dif
 
 [https://www.youtube.com/watch?v=OWIWxFuMFvk&t=413s](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=413s)
 
-<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=413&q=3)</small>
+<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=413&q=3) · [Send to Slack](presserclips://clip?v=OWIWxFuMFvk&t=413&q=3&slack=1)</small>

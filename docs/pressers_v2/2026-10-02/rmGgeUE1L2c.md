@@ -10,7 +10,7 @@ Justin Edwards: "Honestly, I am just trying to pick up where I left off and tryi
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=11s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=11s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=11&q=1) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=11&q=1&slack=1)</small>
 
 **2. Justin Edwards — "I have been learning from Kentavious Caldwell-Pope, especially on the defensive end" — Justin Edwards on learning defensive schemes from Kentavious Caldwell-Pope** [00:37](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=37s)
 
@@ -18,7 +18,7 @@ Justin Edwards: "I have been learning from **Kentavious Caldwell-Pope**, especia
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=37s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=37s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=37&q=2)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=37&q=2) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=37&q=2&slack=1)</small>
 
 **3. Justin Edwards — "if I am able to guard him in the post, I feel like I will be able to guard" — Justin Edwards on learning post defense from Joel Embiid** [01:04](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=64s)
 
@@ -26,7 +26,7 @@ Justin Edwards: "I am learning how to guard different players. **Joel Embiid** i
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=64s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=64s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=64&q=3)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=64&q=3) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=64&q=3&slack=1)</small>
 
 **4. Justin Edwards — "it is crazy that I have LeBron James on my team" — Justin Edwards on the surreal experience of playing with LeBron James** [01:44](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=104s)
 
@@ -34,7 +34,7 @@ Justin Edwards: "He is my teammate now, and I am going on my third year. I am no
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=104s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=104s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=104&q=4)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=104&q=4) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=104&q=4&slack=1)</small>
 
 **5. Justin Edwards — "whatever he does the day before, he continues to do it" — Justin Edwards on the consistency and work ethic of LeBron James** [02:12](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=132s)
 
@@ -42,7 +42,7 @@ Justin Edwards: "He is consistent. Whatever he does the day before, he continues
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=132s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=132s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=132&q=5)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=132&q=5) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=132&q=5&slack=1)</small>
 
 **6. Justin Edwards — "Nick Nurse sees little things and he will yell it out" — Justin Edwards on the impact of coach Nick Nurse on his development** [04:15](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=255s)
 
@@ -50,7 +50,7 @@ Justin Edwards: "He is everywhere, especially with me and my jump shot. He sees 
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=255s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=255s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=255&q=6)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=255&q=6) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=255&q=6&slack=1)</small>
 
 **7. Justin Edwards — "Joel Embiid is probably one of the most funniest people on our team" — Justin Edwards on the personality of Joel Embiid** [05:21](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=321s)
 
@@ -58,4 +58,4 @@ Justin Edwards: "I always tell people that **Joel Embiid** is probably one of th
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=321s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=321s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=321&q=7)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=321&q=7) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=321&q=7&slack=1)</small>

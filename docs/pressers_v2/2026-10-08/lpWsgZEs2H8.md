@@ -10,7 +10,7 @@ Jordan Ott: "No update, evaluate tomorrow. It didn't look that bad, you know, so
 
 [https://www.youtube.com/watch?v=lpWsgZEs2H8&t=42s](https://www.youtube.com/watch?v=lpWsgZEs2H8&t=42s)
 
-<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=42&q=1)</small>
+<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=42&q=1) · [Send to Slack](presserclips://clip?v=lpWsgZEs2H8&t=42&q=1&slack=1)</small>
 
 **2. Jordan Ott — "Just the juice. It's almost, you know, we talk a lot about possession game, that's those guys." — Jordan Ott on the energy of the second unit** [01:08](https://www.youtube.com/watch?v=lpWsgZEs2H8&t=68s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "Just the juice. It's almost, you know, we talk a lot about possessi
 
 [https://www.youtube.com/watch?v=lpWsgZEs2H8&t=68s](https://www.youtube.com/watch?v=lpWsgZEs2H8&t=68s)
 
-<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=68&q=2)</small>
+<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=68&q=2) · [Send to Slack](presserclips://clip?v=lpWsgZEs2H8&t=68&q=2&slack=1)</small>
 
 **3. Jordan Ott — "Toby's a tank. He absolutely just goes through you, which we know of him for sure." — Jordan Ott on the performance of the second unit** [02:11](https://www.youtube.com/watch?v=lpWsgZEs2H8&t=131s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "Tonight it was just those two fives. It was just the five men, so w
 
 [https://www.youtube.com/watch?v=lpWsgZEs2H8&t=131s](https://www.youtube.com/watch?v=lpWsgZEs2H8&t=131s)
 
-<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=131&q=3)</small>
+<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=131&q=3) · [Send to Slack](presserclips://clip?v=lpWsgZEs2H8&t=131&q=3&slack=1)</small>
 
 **4. Jordan Ott — "I think there's a lot of bright spots, especially again in Detroit that first half was fantastic." — Jordan Ott's overall assessment of the team's preseason performance** [03:35](https://www.youtube.com/watch?v=lpWsgZEs2H8&t=215s)
 
@@ -34,4 +34,4 @@ Jordan Ott: "I think there's a lot of bright spots, especially again in Detroit 
 
 [https://www.youtube.com/watch?v=lpWsgZEs2H8&t=215s](https://www.youtube.com/watch?v=lpWsgZEs2H8&t=215s)
 
-<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=215&q=4)</small>
+<small>[Clip it](presserclips://clip?v=lpWsgZEs2H8&t=215&q=4) · [Send to Slack](presserclips://clip?v=lpWsgZEs2H8&t=215&q=4&slack=1)</small>

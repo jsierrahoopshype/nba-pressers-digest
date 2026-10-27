@@ -10,7 +10,7 @@ Jaylen Brown: "Everyone just getting acclimated to one another. I'm just getting
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=12s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=12s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=12&q=1) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=12&q=1&slack=1)</small>
 
 **2. Jaylen Brown — "Tyrese just been a great communicator and he's just been leading with his voice early on." — Jaylen Brown praises Tyrese Maxey's leadership and communication skills** [00:41](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=41s)
 
@@ -18,7 +18,7 @@ Jaylen Brown: "Tyrese just been a great communicator and he's just been leading 
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=41s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=41s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=41&q=2)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=41&q=2) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=41&q=2&slack=1)</small>
 
 **3. Jaylen Brown — "identifying what our jobs are, what our roles are, and that we can hold each other accountable too." — Jaylen Brown on establishing team roles and accountability during training camp** [01:15](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=75s)
 
@@ -26,7 +26,7 @@ Jaylen Brown: "Just being on the same page, identifying what our jobs are, what 
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=75s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=75s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=75&q=3)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=75&q=3) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=75&q=3&slack=1)</small>
 
 **4. Jaylen Brown — "we try to establish some spacing, we try to establish what positions on the floor" — Jaylen Brown on finding offensive balance with Joel Embiid and LeBron James** [02:14](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=134s)
 
@@ -34,7 +34,7 @@ Jaylen Brown: "We try to establish some spacing, we try to establish what positi
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=134s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=134s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=134&q=4) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=134&q=4&slack=1)</small>
 
 **5. Jaylen Brown — "Nick has been a guy that he's defensive-minded first, playing hard, non-negotiable." — Jaylen Brown on Nick Nurse's defensive-minded coaching style** [03:34](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=214s)
 
@@ -42,7 +42,7 @@ Jaylen Brown: "Nick has been a guy that he's defensive-minded first, playing har
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=214s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=214s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=214&q=5)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=214&q=5) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=214&q=5&slack=1)</small>
 
 **6. Jaylen Brown — "defensively, I think that's where we really got to make sure we hang our hat on" — Jaylen Brown emphasizes defensive communication as the team's top priority** [04:27](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=267s)
 
@@ -50,7 +50,7 @@ Jaylen Brown: "Defensively, I think that's where we really got to make sure we h
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=267s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=267s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=267&q=6)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=267&q=6) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=267&q=6&slack=1)</small>
 
 **7. Jaylen Brown — "just one pace and then two just, you know, just building some chemistry, different spots on the floor" — Jaylen Brown on building chemistry with LeBron James and Tyrese Maxey** [05:59](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=359s)
 
@@ -58,7 +58,7 @@ Jaylen Brown: "Just one pace and then two just, you know, just building some che
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=359s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=359s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=359&q=7)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=359&q=7) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=359&q=7&slack=1)</small>
 
 **8. Jaylen Brown — "how we handle adversity is what I'm looking forward to because how you respond to those moments" — Jaylen Brown on handling adversity and trusting the process** [06:40](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=400s)
 
@@ -66,7 +66,7 @@ Jaylen Brown: "How we handle adversity is what I'm looking forward to because ho
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=400s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=400s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=400&q=8)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=400&q=8) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=400&q=8&slack=1)</small>
 
 **9. Jaylen Brown — "I prefer to be coached, so being able to have an open relationship" — Jaylen Brown on the importance of an open relationship with his coach** [08:10](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=490s)
 
@@ -74,7 +74,7 @@ Jaylen Brown: "I prefer to be coached, so being able to have an open relationshi
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=490s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=490s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=490&q=9)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=490&q=9) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=490&q=9&slack=1)</small>
 
 **10. Jaylen Brown — "first I got to set my feet, you know, get settled, getting all my stuff moved over" — Jaylen Brown on the challenges of moving to a new city** [09:30](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=570s)
 
@@ -82,7 +82,7 @@ Jaylen Brown: "First I got to set my feet, you know, get settled, getting all my
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=570s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=570s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=570&q=10)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=570&q=10) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=570&q=10&slack=1)</small>
 
 **11. Jaylen Brown — "Tyrese has been a great leader. He's been a great host." — Jaylen Brown on Tyrese Maxey's role as a leader and host** [12:23](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=743s)
 
@@ -90,4 +90,4 @@ Jaylen Brown: "Tyrese has been a great leader. He's been a great host. Obviously
 
 [https://www.youtube.com/watch?v=QhVf1z71Ofg&t=743s](https://www.youtube.com/watch?v=QhVf1z71Ofg&t=743s)
 
-<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=743&q=11)</small>
+<small>[Clip it](presserclips://clip?v=QhVf1z71Ofg&t=743&q=11) · [Send to Slack](presserclips://clip?v=QhVf1z71Ofg&t=743&q=11&slack=1)</small>

@@ -10,7 +10,7 @@ Jaylen Brown: "**Tyrese Maxey** is extremely talented. I am excited to be alongs
 
 [https://www.youtube.com/watch?v=sD0pgpHFoPA&t=24s](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=24s)
 
-<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=24&q=1)</small>
+<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=24&q=1) · [Send to Slack](presserclips://clip?v=sD0pgpHFoPA&t=24&q=1&slack=1)</small>
 
 **2. Jaylen Brown — "I love Tyrese Maxey already. It is one of my favorite people in the world we just met." — Jaylen Brown on his early chemistry with Tyrese Maxey** [00:43](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=43s)
 
@@ -18,7 +18,7 @@ Jaylen Brown: "I love **Tyrese Maxey** already. It is one of my favorite people 
 
 [https://www.youtube.com/watch?v=sD0pgpHFoPA&t=43s](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=43s)
 
-<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=43&q=2)</small>
+<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=43&q=2) · [Send to Slack](presserclips://clip?v=sD0pgpHFoPA&t=43&q=2&slack=1)</small>
 
 **3. Jaylen Brown — "Phil Handy has been great just cleaning things up, polishing things, talking through different coverages." — Jaylen Brown on the impact of assistant coach Phil Handy** [01:19](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=79s)
 
@@ -26,7 +26,7 @@ Jaylen Brown: "**Phil Handy** has been great just cleaning things up, polishing 
 
 [https://www.youtube.com/watch?v=sD0pgpHFoPA&t=79s](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=79s)
 
-<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=79&q=3)</small>
+<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=79&q=3) · [Send to Slack](presserclips://clip?v=sD0pgpHFoPA&t=79&q=3&slack=1)</small>
 
 **4. Jaylen Brown — "Andre Drummond is such a great guy, such a great communicator. I hope it is nothing too severe." — Jaylen Brown on the injury status of Andre Drummond** [02:27](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=147s)
 
@@ -34,7 +34,7 @@ Jaylen Brown: "**Andre Drummond** is such a great guy, such a great communicator
 
 [https://www.youtube.com/watch?v=sD0pgpHFoPA&t=147s](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=147s)
 
-<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=147&q=4) · [Send to Slack](presserclips://clip?v=sD0pgpHFoPA&t=147&q=4&slack=1)</small>
 
 **5. Jaylen Brown — "I have played against Kentavious Caldwell-Pope for a long time and every single one he has been a dog." — Jaylen Brown on the veteran presence of Kentavious Caldwell-Pope** [02:46](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=166s)
 
@@ -42,7 +42,7 @@ Jaylen Brown: "I have played against **Kentavious Caldwell-Pope** for a long tim
 
 [https://www.youtube.com/watch?v=sD0pgpHFoPA&t=166s](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=166s)
 
-<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=166&q=5)</small>
+<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=166&q=5) · [Send to Slack](presserclips://clip?v=sD0pgpHFoPA&t=166&q=5&slack=1)</small>
 
 **6. Jaylen Brown — "We got a lot of guys who have speed and can be guys off the bounce creating an advantage." — Jaylen Brown on the team's offensive pace and spacing** [05:00](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=300s)
 
@@ -50,7 +50,7 @@ Jaylen Brown: "We got a lot of guys who have speed and can be guys off the bounc
 
 [https://www.youtube.com/watch?v=sD0pgpHFoPA&t=300s](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=300s)
 
-<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=300&q=6)</small>
+<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=300&q=6) · [Send to Slack](presserclips://clip?v=sD0pgpHFoPA&t=300&q=6&slack=1)</small>
 
 **7. Jaylen Brown — "Jabari Smith Jr. has been great. He has been awesome. He has been doing his job." — Jaylen Brown on the performance of Jabari Smith Jr.** [05:42](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=342s)
 
@@ -58,4 +58,4 @@ Jaylen Brown: "**Jabari Smith Jr.** has been great. He has been awesome. He has 
 
 [https://www.youtube.com/watch?v=sD0pgpHFoPA&t=342s](https://www.youtube.com/watch?v=sD0pgpHFoPA&t=342s)
 
-<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=342&q=7)</small>
+<small>[Clip it](presserclips://clip?v=sD0pgpHFoPA&t=342&q=7) · [Send to Slack](presserclips://clip?v=sD0pgpHFoPA&t=342&q=7&slack=1)</small>

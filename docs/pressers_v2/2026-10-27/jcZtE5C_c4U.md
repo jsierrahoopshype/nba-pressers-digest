@@ -10,7 +10,7 @@ Brian Keefe: "The first thing is too many offensive rebounds, too many second-ch
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=0s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=0s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=0&q=1) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=0&q=1&slack=1)</small>
 
 **2. Brian Keefe — "Diabate obviously was a big factor" — Brian Keefe on the impact of Diabate and defensive rebounding** [00:27](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=27s)
 
@@ -18,7 +18,7 @@ Brian Keefe: "I think it was multiple things. One guy obviously was a big culpri
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=27s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=27s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=27&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=27&q=2) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=27&q=2&slack=1)</small>
 
 **3. Brian Keefe — "we're just evaluating right now" — Brian Keefe on Justin Champagnie's injury status** [00:55](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=55s)
 
@@ -26,7 +26,7 @@ Brian Keefe: "We're just evaluating right now. That's all the update I have."
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=55s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=55s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=55&q=3)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=55&q=3) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=55&q=3&slack=1)</small>
 
 **4. Brian Keefe — "I think he got hit in the hand but no update yet" — Brian Keefe on Anthony Davis's hand injury** [01:04](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=64s)
 
@@ -34,7 +34,7 @@ Brian Keefe: "I think he got hit in the hand but no update yet."
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=64s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=64s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=64&q=4)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=64&q=4) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=64&q=4&slack=1)</small>
 
 **5. Brian Keefe — "he's just got to work through these things" — Brian Keefe on Keyonte George's foul trouble** [01:49](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=109s)
 
@@ -42,7 +42,7 @@ Brian Keefe: "He's just got to work through these things. This is part of the NB
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=109s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=109s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=109&q=5)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=109&q=5) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=109&q=5&slack=1)</small>
 
 **6. Trae Young — "we can't get off to good starts as far as scoring" — Trae Young on the frustration of losing and offensive struggles** [04:13](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=253s)
 
@@ -50,7 +50,7 @@ Trae Young: "It's frustrating, of course, whenever you're trying to win games an
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=253s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=253s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=253&q=6)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=253&q=6) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=253&q=6&slack=1)</small>
 
 **7. Trae Young — "they're rebounding and they have a guy over there who's really good at it in Diabate" — Trae Young on the team's rebounding struggles** [04:52](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=292s)
 
@@ -58,7 +58,7 @@ Trae Young: "They're rebounding and they have a guy over there who's really good
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=292s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=292s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=292&q=7)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=292&q=7) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=292&q=7&slack=1)</small>
 
 **8. Trae Young — "we've got to figure out this offensive stuff" — Trae Young on the team's need to improve offensively** [05:12](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=312s)
 
@@ -66,7 +66,7 @@ Trae Young: "At times they're deflating, but you've got to figure out how to get
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=312s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=312s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=312&q=8)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=312&q=8) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=312&q=8&slack=1)</small>
 
 **9. Trae Young — "we've got to get to our spots faster" — Trae Young on the team's need for better pace and spacing** [05:45](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=345s)
 
@@ -74,7 +74,7 @@ Trae Young: "We've got to get to our spots faster. We've got to move, play with 
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=345s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=345s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=345&q=9)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=345&q=9) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=345&q=9&slack=1)</small>
 
 **10. Trae Young — "I think it's both, having confidence when you get it and just knowing to knock it down" — Trae Young on the team's shooting confidence and execution** [06:13](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=373s)
 
@@ -82,7 +82,7 @@ Trae Young: "I think it's both, having confidence when you get it and just knowi
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=373s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=373s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=373&q=10)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=373&q=10) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=373&q=10&slack=1)</small>
 
 **11. Trae Young — "me and Anthony Davis have a pretty good relationship" — Trae Young on his chemistry with Anthony Davis** [06:45](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=405s)
 
@@ -90,7 +90,7 @@ Trae Young: "Me and **Anthony Davis** have a pretty good relationship and how we
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=405s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=405s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=405&q=11)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=405&q=11) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=405&q=11&slack=1)</small>
 
 **12. Trae Young — "that's the worst feeling in the world" — Trae Young on supporting his teammate during injury recovery** [07:26](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=446s)
 
@@ -98,4 +98,4 @@ Trae Young: "That's the worst feeling in the world, especially as a point guard 
 
 [https://www.youtube.com/watch?v=jcZtE5C_c4U&t=446s](https://www.youtube.com/watch?v=jcZtE5C_c4U&t=446s)
 
-<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=446&q=12)</small>
+<small>[Clip it](presserclips://clip?v=jcZtE5C_c4U&t=446&q=12) · [Send to Slack](presserclips://clip?v=jcZtE5C_c4U&t=446&q=12&slack=1)</small>

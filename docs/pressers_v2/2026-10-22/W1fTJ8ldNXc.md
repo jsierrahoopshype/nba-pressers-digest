@@ -10,7 +10,7 @@ Taylor Jenkins: "Inability to keep them out of the paint, obviously physicality.
 
 [https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=12s](https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=12s)
 
-<small>[Clip it](presserclips://clip?v=W1fTJ8ldNXc&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=W1fTJ8ldNXc&t=12&q=1) · [Send to Slack](presserclips://clip?v=W1fTJ8ldNXc&t=12&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "giving up 70 points is going to be a really tough recipe, we just got to get better" — Taylor Jenkins on defensive breakdowns and paint points** [01:10](https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=70s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "They were getting downhill quite a bit. Obviously, I thought we
 
 [https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=70s](https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=70s)
 
-<small>[Clip it](presserclips://clip?v=W1fTJ8ldNXc&t=70&q=2)</small>
+<small>[Clip it](presserclips://clip?v=W1fTJ8ldNXc&t=70&q=2) · [Send to Slack](presserclips://clip?v=W1fTJ8ldNXc&t=70&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "his two-way impact is something we're just going to continue stressing for him" — Taylor Jenkins on Braden's NBA debut and two-way impact** [01:55](https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=115s)
 
@@ -26,4 +26,4 @@ Taylor Jenkins: "A lot of good things. The shots were great, but I thought he wa
 
 [https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=115s](https://www.youtube.com/watch?v=W1fTJ8ldNXc&t=115s)
 
-<small>[Clip it](presserclips://clip?v=W1fTJ8ldNXc&t=115&q=3)</small>
+<small>[Clip it](presserclips://clip?v=W1fTJ8ldNXc&t=115&q=3) · [Send to Slack](presserclips://clip?v=W1fTJ8ldNXc&t=115&q=3&slack=1)</small>

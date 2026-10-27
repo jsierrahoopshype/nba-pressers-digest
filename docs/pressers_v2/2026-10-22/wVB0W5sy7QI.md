@@ -10,7 +10,7 @@ Scottie Barnes: "I think all of our defensive principles, I think he fits in rig
 
 [https://www.youtube.com/watch?v=wVB0W5sy7QI&t=11s](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=11s)
 
-<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=11&q=1) · [Send to Slack](presserclips://clip?v=wVB0W5sy7QI&t=11&q=1&slack=1)</small>
 
 **2. Scottie Barnes — "I think I did a good job starting off with three. Right now I'm not leading, Kawhi got four." — Scottie Barnes on his progress toward leading the league in steals** [05:57](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=357s)
 
@@ -18,7 +18,7 @@ Scottie Barnes: "I think I did a good job starting off with three. Right now I'm
 
 [https://www.youtube.com/watch?v=wVB0W5sy7QI&t=357s](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=357s)
 
-<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=357&q=2)</small>
+<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=357&q=2) · [Send to Slack](presserclips://clip?v=wVB0W5sy7QI&t=357&q=2&slack=1)</small>
 
 **3. Scottie Barnes — "Whoever is on the ball, you want to be comfortable enough to know that everybody else behind you got your back." — Scottie Barnes on the team's defensive trust and rotation** [06:31](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=391s)
 
@@ -26,7 +26,7 @@ Scottie Barnes: "Whoever is on the ball, you want to be comfortable enough to kn
 
 [https://www.youtube.com/watch?v=wVB0W5sy7QI&t=391s](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=391s)
 
-<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=391&q=3)</small>
+<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=391&q=3) · [Send to Slack](presserclips://clip?v=wVB0W5sy7QI&t=391&q=3&slack=1)</small>
 
 **4. Darko Rajaković — "The film showed us some of the parts of our game that we need to improve." — Darko Rajaković on areas for improvement after the season opener** [10:03](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=603s)
 
@@ -34,7 +34,7 @@ Darko Rajaković: "The film showed us some of the parts of our game that we need
 
 [https://www.youtube.com/watch?v=wVB0W5sy7QI&t=603s](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=603s)
 
-<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=603&q=4)</small>
+<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=603&q=4) · [Send to Slack](presserclips://clip?v=wVB0W5sy7QI&t=603&q=4&slack=1)</small>
 
 **5. Darko Rajaković — "Game happens at such speed that you don't have time to think. You're not supposed to think." — Darko Rajaković on the balance between thinking and reacting in games** [11:16](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=676s)
 
@@ -42,7 +42,7 @@ Darko Rajaković: "Game happens at such speed that you don't have time to think.
 
 [https://www.youtube.com/watch?v=wVB0W5sy7QI&t=676s](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=676s)
 
-<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=676&q=5)</small>
+<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=676&q=5) · [Send to Slack](presserclips://clip?v=wVB0W5sy7QI&t=676&q=5&slack=1)</small>
 
 **6. Darko Rajaković — "For our team, aggressiveness is very important. We got to understand there are four players behind in defense." — Darko Rajaković on the importance of defensive aggressiveness and support** [14:09](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=849s)
 
@@ -50,4 +50,4 @@ Darko Rajaković: "For our team, aggressiveness is very important. And as we lea
 
 [https://www.youtube.com/watch?v=wVB0W5sy7QI&t=849s](https://www.youtube.com/watch?v=wVB0W5sy7QI&t=849s)
 
-<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=849&q=6)</small>
+<small>[Clip it](presserclips://clip?v=wVB0W5sy7QI&t=849&q=6) · [Send to Slack](presserclips://clip?v=wVB0W5sy7QI&t=849&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Scoot Henderson: "Specifically is finish higher and less turnovers rate that we 
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=20s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=20s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=20&q=1) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=20&q=1&slack=1)</small>
 
 **2. Scoot Henderson — "He finds the open guy, plays the right way, skilled as y'all all know" — Scoot Henderson on chemistry with teammate Josh Hart** [00:44](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=44s)
 
@@ -18,7 +18,7 @@ Scoot Henderson: "It's fun. Very fun. I think we played alongside each other a f
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=44s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=44s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=44&q=2) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=44&q=2&slack=1)</small>
 
 **3. Scoot Henderson — "Knowing him personally more, it's high spirit, high spirit" — Scoot Henderson on the competitive spirit of Charles Bassey** [01:23](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=83s)
 
@@ -26,7 +26,7 @@ Scoot Henderson: "High spirit. I feel like from the outside looking, I'm just as
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=83s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=83s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=83&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=83&q=3) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=83&q=3&slack=1)</small>
 
 **4. Scoot Henderson — "Dylan is great, great aspiring guard because I'm also that" — Scoot Henderson on Dylan Harper's comments regarding his defense** [01:56](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=116s)
 
@@ -34,7 +34,7 @@ Scoot Henderson: "Dylan is great, great aspiring guard because I'm also that, bu
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=116s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=116s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=116&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=116&q=4) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=116&q=4&slack=1)</small>
 
 **5. Scoot Henderson — "I feel like as a team we have a lot online, I feel like we can win" — Scoot Henderson on the importance of the upcoming season** [02:38](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=158s)
 
@@ -42,7 +42,7 @@ Scoot Henderson: "I feel like this season is going to be very important. I feel 
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=158s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=158s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=158&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=158&q=5) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=158&q=5&slack=1)</small>
 
 **6. Scoot Henderson — "Coach Chauncey is huge on that and that's what's going to make us better" — Scoot Henderson on team focus and Coach Chauncey Billups' leadership** [03:10](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=190s)
 
@@ -50,7 +50,7 @@ Scoot Henderson: "Today was another focused day and a day we needed as a team. W
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=190s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=190s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=190&q=6)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=190&q=6) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=190&q=6&slack=1)</small>
 
 **7. Scoot Henderson — "I like Michael Nored's coaching style, he get in your ear, you know what I'm saying" — Scoot Henderson on the coaching style of Michael Nored** [03:49](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=229s)
 
@@ -58,7 +58,7 @@ Scoot Henderson: "I like **Michael Nored**'s coaching style, he get in your ear,
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=229s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=229s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=229&q=7)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=229&q=7) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=229&q=7&slack=1)</small>
 
 **8. Scoot Henderson — "I play my best basketball, that's how I go on about that" — Scoot Henderson on handling contract negotiations** [04:13](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=253s)
 
@@ -66,7 +66,7 @@ Scoot Henderson: "I play my best basketball, that's how I go on about that. I pl
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=253s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=253s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=253&q=8)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=253&q=8) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=253&q=8&slack=1)</small>
 
 **9. Scoot Henderson — "I want the Portland Trail Blazers fans to understand that we got a lot of high energy" — Scoot Henderson on the energy of the 2026 roster** [05:18](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=318s)
 
@@ -74,7 +74,7 @@ Scoot Henderson: "I want the Portland Trail Blazers fans to understand that we g
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=318s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=318s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=318&q=9)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=318&q=9) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=318&q=9&slack=1)</small>
 
 **10. Scoot Henderson — "Amazing, after everything she picked up everybody's slack, my slack, everybody's" — Scoot Henderson on the performance of Maggie** [05:41](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=341s)
 
@@ -82,4 +82,4 @@ Scoot Henderson: "Amazing, after everything she picked up everybody's slack, my 
 
 [https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=341s](https://www.youtube.com/watch?v=ZLHUmuD3bLk&t=341s)
 
-<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=341&q=10)</small>
+<small>[Clip it](presserclips://clip?v=ZLHUmuD3bLk&t=341&q=10) · [Send to Slack](presserclips://clip?v=ZLHUmuD3bLk&t=341&q=10&slack=1)</small>

@@ -10,7 +10,7 @@ Julian Strawther: "It's definitely competitive. A majority of the guys in here a
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=5s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=5s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=5&q=1) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=5&q=1&slack=1)</small>
 
 **2. Julian Strawther — "I feel more natural just on the floor. I feel comfortable out there" — Julian Strawther on his improved confidence and comfort on the floor** [00:23](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=23s)
 
@@ -18,7 +18,7 @@ Julian Strawther: "I think right now just my confidence in my game on both ends 
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=23s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=23s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=23&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=23&q=2) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=23&q=2&slack=1)</small>
 
 **3. Julian Strawther — "I could be a chaotic player, so just trying to be more simple" — Julian Strawther on simplifying his game to increase his effectiveness** [00:54](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=54s)
 
@@ -26,7 +26,7 @@ Julian Strawther: "Just being a smarter player. Obviously I'm known as I could b
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=54s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=54s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=54&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=54&q=3) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=54&q=3&slack=1)</small>
 
 **4. Julian Strawther — "the coaches have seen me as a guy that can be a cog on offense" — Julian Strawther on his development as a playmaker and scorer** [01:17](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=77s)
 
@@ -34,7 +34,7 @@ Julian Strawther: "I feel like you could say 60-65% of the time I've been in the
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=77s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=77s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=77&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=77&q=4) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=77&q=4&slack=1)</small>
 
 **5. Julian Strawther — "having a true point guard in the gym with me all summer and finding me in spots" — Julian Strawther on the mentorship of teammate Tyus Jones** [02:00](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=120s)
 
@@ -42,7 +42,7 @@ Julian Strawther: "Just being a guy that's been around the block, seen a lot of 
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=120s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=120s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=120&q=5)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=120&q=5) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=120&q=5&slack=1)</small>
 
 **6. Julian Strawther — "if I'm out there with the starters, I understand my job is to be a shooter" — Julian Strawther on adapting his role based on team lineups** [02:34](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=154s)
 
@@ -50,7 +50,7 @@ Julian Strawther: "Understanding who I'm on the floor with. Different lineups ca
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=154s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=154s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=154&q=6)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=154&q=6) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=154&q=6&slack=1)</small>
 
 **7. Julian Strawther — "finding ways to replicate Tim's production, the things that he was able to do for us" — Julian Strawther on replicating the production of Tim Hardaway Jr.** [03:13](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=193s)
 
@@ -58,7 +58,7 @@ Julian Strawther: "That's all I've heard all summer is just finding ways to repl
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=193s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=193s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=193&q=7)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=193&q=7) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=193&q=7&slack=1)</small>
 
 **8. Alpha Diallo — "I think as the season goes on, it's going to show just my all-around play" — Alpha Diallo on his all-around game and team role** [05:20](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=320s)
 
@@ -66,7 +66,7 @@ Alpha Diallo: "I think as the season goes on, it's going to show just my all-aro
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=320s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=320s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=320&q=8)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=320&q=8) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=320&q=8&slack=1)</small>
 
 **9. Alpha Diallo — "pressure the ball a lot and move my feet, try to stay between me and the basket" — Alpha Diallo on his defensive approach and consistency across leagues** [06:07](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=367s)
 
@@ -74,7 +74,7 @@ Alpha Diallo: "I think for me it's always been the same, you know, just pressure
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=367s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=367s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=367&q=9)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=367&q=9) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=367&q=9&slack=1)</small>
 
 **10. Alpha Diallo — "a lot of scouting maybe, scouting and then not caring what happens" — Alpha Diallo on the importance of scouting and aggressive defense** [06:45](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=405s)
 
@@ -82,7 +82,7 @@ Alpha Diallo: "I think just a lot of scouting maybe, scouting and then not carin
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=405s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=405s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=405&q=10)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=405&q=10) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=405&q=10&slack=1)</small>
 
 **11. Alpha Diallo — "now that I've been doing it for so long, I think it's just second nature" — Alpha Diallo on his defensive instincts as second nature** [07:17](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=437s)
 
@@ -90,7 +90,7 @@ Alpha Diallo: "I think for me it's like a second nature thing. Now that I've bee
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=437s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=437s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=437&q=11)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=437&q=11) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=437&q=11&slack=1)</small>
 
 **12. Alpha Diallo — "it's a lot of weight room, a lot of strength and conditioning" — Alpha Diallo on the role of strength and conditioning in his defense** [08:13](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=493s)
 
@@ -98,7 +98,7 @@ Alpha Diallo: "It's a lot of weight room, a lot of strength and conditioning. We
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=493s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=493s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=493&q=12)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=493&q=12) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=493&q=12&slack=1)</small>
 
 **13. Coach Adelman — "the guy that stood out to me is Ryan Nemhard. Ryan Nemhard had a great day" — Coach Adelman on Ryan Nemhard's impressive performance in practice** [10:54](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=654s)
 
@@ -106,7 +106,7 @@ Coach Adelman: "We mixed the groups today for the first time. So we got to see *
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=654s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=654s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=654&q=13)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=654&q=13) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=654&q=13&slack=1)</small>
 
 **14. Coach Adelman — "screening. For his size, he just and he gets into people's legs" — Coach Adelman on Ryan Nemhard's defensive screening and court presence** [11:45](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=705s)
 
@@ -114,7 +114,7 @@ Coach Adelman: "Screening. For his size, he just and he gets into people's legs.
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=705s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=705s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=705&q=14)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=705&q=14) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=705&q=14&slack=1)</small>
 
 **15. Coach Adelman — "transition defense, it's not just off misses, not all turnovers, it's after makes too" — Coach Adelman on the need for improved transition defense** [12:05](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=725s)
 
@@ -122,7 +122,7 @@ Coach Adelman: "Transition defense, it's not just off misses, not all turnovers,
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=725s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=725s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=725&q=15)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=725&q=15) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=725&q=15&slack=1)</small>
 
 **16. Coach Adelman — "Julian's getting there. Julian I think is learning. I think Tim helped him" — Coach Adelman on Julian Strawther's development as a screener** [12:31](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=751s)
 
@@ -130,7 +130,7 @@ Coach Adelman: "**Julian**'s getting there. **Julian** I think is learning. I th
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=751s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=751s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=751&q=16)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=751&q=16) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=751&q=16&slack=1)</small>
 
 **17. Coach Adelman — "Demar's going to we're going to get Demar the ball in spots" — Coach Adelman on Demar's role and the need for fundamental footwork** [13:25](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=805s)
 
@@ -138,7 +138,7 @@ Coach Adelman: "For the first unit, they have to react to **Demar** too. **Demar
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=805s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=805s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=805&q=17)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=805&q=17) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=805&q=17&slack=1)</small>
 
 **18. Coach Adelman — "the speed of a Christian Brown setting a pick and roll in a center" — Coach Adelman on the team's transition speed and defensive connectivity** [14:29](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=869s)
 
@@ -146,7 +146,7 @@ Coach Adelman: "The speed of a **Christian Brown** setting a pick and roll in a 
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=869s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=869s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=869&q=18)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=869&q=18) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=869&q=18&slack=1)</small>
 
 **19. Coach Adelman — "I think he's got to get used to playing the dunker a little bit" — Coach Adelman on Alpha's need to adapt to playing the dunker spot** [15:11](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=911s)
 
@@ -154,7 +154,7 @@ Coach Adelman: "I think he's got to get used to playing the dunker a little bit.
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=911s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=911s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=911&q=19)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=911&q=19) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=911&q=19&slack=1)</small>
 
 **20. Coach Adelman — "Chicago will play our guys again, then there'll be a discussion about LA" — Coach Adelman on the team's approach to the remaining preseason games** [16:48](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=1008s)
 
@@ -162,4 +162,4 @@ Coach Adelman: "I think Chicago will play our guys again, then there'll be a dis
 
 [https://www.youtube.com/watch?v=VeIW8pF2_8k&t=1008s](https://www.youtube.com/watch?v=VeIW8pF2_8k&t=1008s)
 
-<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=1008&q=20)</small>
+<small>[Clip it](presserclips://clip?v=VeIW8pF2_8k&t=1008&q=20) · [Send to Slack](presserclips://clip?v=VeIW8pF2_8k&t=1008&q=20&slack=1)</small>

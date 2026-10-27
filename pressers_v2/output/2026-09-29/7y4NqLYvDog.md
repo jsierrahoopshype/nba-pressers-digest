@@ -10,7 +10,7 @@ Nick Nurse: "Well, what I would like to do first, like you said, first of all, h
 
 [https://www.youtube.com/watch?v=7y4NqLYvDog&t=48s](https://www.youtube.com/watch?v=7y4NqLYvDog&t=48s)
 
-<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=48&q=1)</small>
+<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=48&q=1) · [Send to Slack](presserclips://clip?v=7y4NqLYvDog&t=48&q=1&slack=1)</small>
 
 **2. Nick Nurse — Nick Nurse emphasizes winning the possession battle over high-paced play.** [12:57](https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s)
 
@@ -18,4 +18,4 @@ Nick Nurse: "We offensive rebound more than they do. We turn them over more than
 
 [https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s](https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s)
 
-<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=777&q=2)</small>
+<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=777&q=2) · [Send to Slack](presserclips://clip?v=7y4NqLYvDog&t=777&q=2&slack=1)</small>

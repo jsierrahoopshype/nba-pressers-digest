@@ -10,7 +10,7 @@ Brian Keefe: "I thought he was terrific anchoring our defense, his communication
 
 [https://www.youtube.com/watch?v=eQFL6fnYkHc&t=47s](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=47s)
 
-<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=47&q=1)</small>
+<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=47&q=1) · [Send to Slack](presserclips://clip?v=eQFL6fnYkHc&t=47&q=1&slack=1)</small>
 
 **2. Brian Keefe — "The biggest thing I thought with him is he had four steals, his effort on the defensive end" — Alex Sarr's defensive effort and transition scoring ability** [01:12](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=72s)
 
@@ -18,7 +18,7 @@ Brian Keefe: "The biggest thing I thought with him is he had four steals, his ef
 
 [https://www.youtube.com/watch?v=eQFL6fnYkHc&t=72s](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=72s)
 
-<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=72&q=2)</small>
+<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=72&q=2) · [Send to Slack](presserclips://clip?v=eQFL6fnYkHc&t=72&q=2&slack=1)</small>
 
 **3. Brian Keefe — "You could feel his presence on the court, his ability to get into bodies" — Alex Sarr's physical presence and defensive versatility** [01:29](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=89s)
 
@@ -26,7 +26,7 @@ Brian Keefe: "You could feel his presence on the court, his ability to get into 
 
 [https://www.youtube.com/watch?v=eQFL6fnYkHc&t=89s](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=89s)
 
-<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=89&q=3)</small>
+<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=89&q=3) · [Send to Slack](presserclips://clip?v=eQFL6fnYkHc&t=89&q=3&slack=1)</small>
 
 **4. Brian Keefe — "They controlled the game defensively, you saw the rebounding by DeAndre, I think he had nine" — DeAndre Ayton's rebounding and defensive impact** [01:53](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=113s)
 
@@ -34,7 +34,7 @@ Brian Keefe: "They controlled the game defensively, you saw the rebounding by De
 
 [https://www.youtube.com/watch?v=eQFL6fnYkHc&t=113s](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=113s)
 
-<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=113&q=4)</small>
+<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=113&q=4) · [Send to Slack](presserclips://clip?v=eQFL6fnYkHc&t=113&q=4&slack=1)</small>
 
 **5. Brian Keefe — "We got multiple handlers on our team, you can see that with Keyonte, AJ" — Team's depth at point guard and ball-handling rotation** [02:24](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=144s)
 
@@ -42,7 +42,7 @@ Brian Keefe: "We got multiple handlers on our team, you can see that with Keyont
 
 [https://www.youtube.com/watch?v=eQFL6fnYkHc&t=144s](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=144s)
 
-<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=144&q=5)</small>
+<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=144&q=5) · [Send to Slack](presserclips://clip?v=eQFL6fnYkHc&t=144&q=5&slack=1)</small>
 
 **6. Brian Keefe — "Bub has an ability to make shots off the dribble and off the catch" — Bub Carrington's scoring versatility and offensive impact** [03:29](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=209s)
 
@@ -50,7 +50,7 @@ Brian Keefe: "**Bub** has an ability to make shots off the dribble and off the c
 
 [https://www.youtube.com/watch?v=eQFL6fnYkHc&t=209s](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=209s)
 
-<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=209&q=6)</small>
+<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=209&q=6) · [Send to Slack](presserclips://clip?v=eQFL6fnYkHc&t=209&q=6&slack=1)</small>
 
 **7. Brian Keefe — "It is definitely his physically has grown, tremendous amount of work, I think he has put on 10 to 12 pounds" — Alex Sarr's physical development and offseason work** [04:26](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=266s)
 
@@ -58,4 +58,4 @@ Brian Keefe: "It is definitely his physically has grown, tremendous amount of wo
 
 [https://www.youtube.com/watch?v=eQFL6fnYkHc&t=266s](https://www.youtube.com/watch?v=eQFL6fnYkHc&t=266s)
 
-<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=266&q=7)</small>
+<small>[Clip it](presserclips://clip?v=eQFL6fnYkHc&t=266&q=7) · [Send to Slack](presserclips://clip?v=eQFL6fnYkHc&t=266&q=7&slack=1)</small>

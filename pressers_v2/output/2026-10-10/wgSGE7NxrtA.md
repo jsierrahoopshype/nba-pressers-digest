@@ -10,7 +10,7 @@ Kevin Porter Jr.: "I think it's pretty simple, you know, attack space, take what
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=7s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=7s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=7&q=1) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=7&q=1&slack=1)</small>
 
 **2. Kevin Porter Jr. — "I feel like a really good cutter and I know how to space out" — Kevin Porter Jr. on his role as a cutter** [00:39](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=39s)
 
@@ -18,7 +18,7 @@ Kevin Porter Jr.: "If it's not perfect, I feel like a really good cutter and I k
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=39s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=39s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=39&q=2)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=39&q=2) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=39&q=2&slack=1)</small>
 
 **3. Kevin Porter Jr. — "Nate has been improving, kind of getting out his shell" — Kevin Porter Jr. on the development of Nate and Braden** [01:20](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=80s)
 
@@ -26,7 +26,7 @@ Kevin Porter Jr.: "Unfortunately what happened to **Nate**, of course, **Nate**'
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=80s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=80s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=80&q=3)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=80&q=3) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=80&q=3&slack=1)</small>
 
 **4. Kevin Porter Jr. — "I want him to come in here and stay aggressive, not really take a backseat to anything" — Kevin Porter Jr. on mentoring Braden** [01:58](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=118s)
 
@@ -34,7 +34,7 @@ Kevin Porter Jr.: "At the end of the day, everyone comes from being that guy usu
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=118s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=118s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=118&q=4)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=118&q=4) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=118&q=4&slack=1)</small>
 
 **5. Kevin Porter Jr. — "I feel like I'm the strongest I've been" — Kevin Porter Jr. on his health and off-season** [02:36](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=156s)
 
@@ -42,7 +42,7 @@ Kevin Porter Jr.: "I feel like I'm the strongest I've been. I had a unique off-s
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=156s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=156s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=156&q=5)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=156&q=5) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=156&q=5&slack=1)</small>
 
 **6. Kevin Porter Jr. — "I think he's one of the guys each and every practice that sets the tone" — Kevin Porter Jr. on the leadership of Pat Connaughton** [03:03](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=183s)
 
@@ -50,7 +50,7 @@ Kevin Porter Jr.: "**Pat Connaughton**, man, **Pat Connaughton**, I think he's o
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=183s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=183s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=183&q=6)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=183&q=6) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=183&q=6&slack=1)</small>
 
 **7. Kevin Porter Jr. — "We have the blueprint as far as consistency, I think that's the only thing we really need" — Kevin Porter Jr. on the importance of detail and consistency** [03:47](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=227s)
 
@@ -58,7 +58,7 @@ Kevin Porter Jr.: "I think, you know, we have the blueprint as far as consistenc
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=227s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=227s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=227&q=7)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=227&q=7) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=227&q=7&slack=1)</small>
 
 **8. Kevin Porter Jr. — "When you guys have a great group of guys that you can come to work" — Kevin Porter Jr. on team chemistry and off-court bonding** [04:46](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=286s)
 
@@ -66,7 +66,7 @@ Kevin Porter Jr.: "Like I said, it's a team. This this this this league has a lo
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=286s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=286s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=286&q=8)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=286&q=8) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=286&q=8&slack=1)</small>
 
 **9. Kevin Porter Jr. — "I've rebounded, so I know how to rebound" — Kevin Porter Jr. on rebounding and transition defense** [05:36](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=336s)
 
@@ -74,4 +74,4 @@ Kevin Porter Jr.: "Individually, I've rebounded, so I know how to rebound. But I
 
 [https://www.youtube.com/watch?v=wgSGE7NxrtA&t=336s](https://www.youtube.com/watch?v=wgSGE7NxrtA&t=336s)
 
-<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=336&q=9)</small>
+<small>[Clip it](presserclips://clip?v=wgSGE7NxrtA&t=336&q=9) · [Send to Slack](presserclips://clip?v=wgSGE7NxrtA&t=336&q=9&slack=1)</small>

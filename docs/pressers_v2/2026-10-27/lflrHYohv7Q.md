@@ -10,7 +10,7 @@ Isaiah Hartenstein: "The reality is you have two of our starters, but then also 
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=15s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=15s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=15&q=1) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=15&q=1&slack=1)</small>
 
 **2. Isaiah Hartenstein — "doing whatever the team needs to win" — Isaiah Hartenstein on his role and defensive versatility** [01:16](https://www.youtube.com/watch?v=lflrHYohv7Q&t=76s)
 
@@ -18,7 +18,7 @@ Isaiah Hartenstein: "It's just doing whatever the team needs to win and that's s
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=76s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=76s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=76&q=2)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=76&q=2) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=76&q=2&slack=1)</small>
 
 **3. Isaiah Hartenstein — "we just have to go out there and be present" — Isaiah Hartenstein on maintaining presence and perspective during injury struggles** [02:17](https://www.youtube.com/watch?v=lflrHYohv7Q&t=137s)
 
@@ -26,7 +26,7 @@ Isaiah Hartenstein: "We're so close, especially those two guys, and so from a hu
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=137s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=137s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=137&q=3)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=137&q=3) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=137&q=3&slack=1)</small>
 
 **4. Isaiah Hartenstein — "he was in that last year where we were down and he had to take a bigger role" — Isaiah Hartenstein on trusting Jalen Williams to step up** [03:00](https://www.youtube.com/watch?v=lflrHYohv7Q&t=180s)
 
@@ -34,7 +34,7 @@ Isaiah Hartenstein: "The good thing with that is he's been in a situation before
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=180s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=180s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=180&q=4)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=180&q=4) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=180&q=4&slack=1)</small>
 
 **5. Isaiah Hartenstein — "we play for each other every night" — Isaiah Hartenstein on the team's collective pride and bond** [03:26](https://www.youtube.com/watch?v=lflrHYohv7Q&t=206s)
 
@@ -42,7 +42,7 @@ Isaiah Hartenstein: "We play for each other every night, but especially with wha
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=206s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=206s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=206&q=5)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=206&q=5) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=206&q=5&slack=1)</small>
 
 **6. Isaiah Hartenstein — "the coaches did a great job tonight from the coaches' standpoint just putting different looks out there" — Isaiah Hartenstein on the coaching staff's defensive adjustments** [04:36](https://www.youtube.com/watch?v=lflrHYohv7Q&t=276s)
 
@@ -50,7 +50,7 @@ Isaiah Hartenstein: "It's not just us but also the coaches figuring out. A lot o
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=276s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=276s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=276&q=6)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=276&q=6) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=276&q=6&slack=1)</small>
 
 **7. Isaiah Hartenstein — "if you come from Europe and you're a big, I feel like you can pass" — Isaiah Hartenstein on the playmaking growth of his teammates** [05:36](https://www.youtube.com/watch?v=lflrHYohv7Q&t=336s)
 
@@ -58,7 +58,7 @@ Isaiah Hartenstein: "I feel like most if you come from Europe and you're a big, 
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=336s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=336s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=336&q=7)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=336&q=7) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=336&q=7&slack=1)</small>
 
 **8. Isaiah Hartenstein — "they did a great job today just coming out, playing the right way" — Isaiah Hartenstein on the development of younger players** [06:24](https://www.youtube.com/watch?v=lflrHYohv7Q&t=384s)
 
@@ -66,4 +66,4 @@ Isaiah Hartenstein: "They did a great job today just coming out, playing the rig
 
 [https://www.youtube.com/watch?v=lflrHYohv7Q&t=384s](https://www.youtube.com/watch?v=lflrHYohv7Q&t=384s)
 
-<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=384&q=8)</small>
+<small>[Clip it](presserclips://clip?v=lflrHYohv7Q&t=384&q=8) · [Send to Slack](presserclips://clip?v=lflrHYohv7Q&t=384&q=8&slack=1)</small>

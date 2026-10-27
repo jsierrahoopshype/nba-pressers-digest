@@ -10,7 +10,7 @@ Mark Daigneault: "The minutes we got from Josh and Jalen in particular were huge
 
 [https://www.youtube.com/watch?v=qv8idwKmO80&t=13s](https://www.youtube.com/watch?v=qv8idwKmO80&t=13s)
 
-<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=13&q=1) · [Send to Slack](presserclips://clip?v=qv8idwKmO80&t=13&q=1&slack=1)</small>
 
 **2. Mark Daigneault — "We were able to both play zone and maintain a radar on Booker." — Defensive strategy and execution against Devin Booker** [01:04](https://www.youtube.com/watch?v=qv8idwKmO80&t=64s)
 
@@ -18,7 +18,7 @@ Mark Daigneault: "We had a good awareness of their personnel. We were able to bo
 
 [https://www.youtube.com/watch?v=qv8idwKmO80&t=64s](https://www.youtube.com/watch?v=qv8idwKmO80&t=64s)
 
-<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=64&q=2)</small>
+<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=64&q=2) · [Send to Slack](presserclips://clip?v=qv8idwKmO80&t=64&q=2&slack=1)</small>
 
 **3. Mark Daigneault — "He's kind of established that he's a great player and that he's got a really bright future." — Shai Gilgeous-Alexander's growth and future potential as a player** [02:48](https://www.youtube.com/watch?v=qv8idwKmO80&t=168s)
 
@@ -26,7 +26,7 @@ Mark Daigneault: "If you look at his zoom out to his whole trajectory as a playe
 
 [https://www.youtube.com/watch?v=qv8idwKmO80&t=168s](https://www.youtube.com/watch?v=qv8idwKmO80&t=168s)
 
-<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=168&q=3)</small>
+<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=168&q=3) · [Send to Slack](presserclips://clip?v=qv8idwKmO80&t=168&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "The stability that we have in these sorts of situations is a huge reflection of the stability he brings." — Shai Gilgeous-Alexander's leadership and stability in difficult situations** [04:05](https://www.youtube.com/watch?v=qv8idwKmO80&t=245s)
 
@@ -34,7 +34,7 @@ Mark Daigneault: "He's amazing in just about every situation. His ability to emp
 
 [https://www.youtube.com/watch?v=qv8idwKmO80&t=245s](https://www.youtube.com/watch?v=qv8idwKmO80&t=245s)
 
-<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=245&q=4)</small>
+<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=245&q=4) · [Send to Slack](presserclips://clip?v=qv8idwKmO80&t=245&q=4&slack=1)</small>
 
 **5. Mark Daigneault — "All we want is fairness and consistency, and we expect those guys to run the game." — Expectations for officiating fairness and consistency in games** [06:00](https://www.youtube.com/watch?v=qv8idwKmO80&t=360s)
 
@@ -42,7 +42,7 @@ Mark Daigneault: "I thought Tony and the crew tonight did a good job of managing
 
 [https://www.youtube.com/watch?v=qv8idwKmO80&t=360s](https://www.youtube.com/watch?v=qv8idwKmO80&t=360s)
 
-<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=360&q=5)</small>
+<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=360&q=5) · [Send to Slack](presserclips://clip?v=qv8idwKmO80&t=360&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "We take pride in making it difficult on the great players in the NBA." — The team's commitment to making games difficult for star players** [07:37](https://www.youtube.com/watch?v=qv8idwKmO80&t=457s)
 
@@ -50,4 +50,4 @@ Mark Daigneault: "He started on Booker, and I thought he set an important tone t
 
 [https://www.youtube.com/watch?v=qv8idwKmO80&t=457s](https://www.youtube.com/watch?v=qv8idwKmO80&t=457s)
 
-<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=457&q=6)</small>
+<small>[Clip it](presserclips://clip?v=qv8idwKmO80&t=457&q=6) · [Send to Slack](presserclips://clip?v=qv8idwKmO80&t=457&q=6&slack=1)</small>

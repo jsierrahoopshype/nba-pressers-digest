@@ -10,7 +10,7 @@ Jordan Ott: "Incredibly emotional to start the game. Before the ball was even ti
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=13s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=13s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=13&q=1) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=13&q=1&slack=1)</small>
 
 **2. Jordan Ott — "It was definitely that right hip, just for sure right hip." — Jordan Ott confirms injury to Josh Okogie's right hip** [01:07](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=67s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "It was definitely that right hip, just for sure right hip. It was t
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=67s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=67s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=67&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=67&q=2) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=67&q=2&slack=1)</small>
 
 **3. Jordan Ott — "When Clingan hits those first two, that gets the energy going and the crowd up." — Jordan Ott on the impact of early shots by Donovan Clingan** [01:22](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=82s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "When Clingan hits those first two, that gets the energy going and t
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=82s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=82s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=82&q=3)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=82&q=3) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=82&q=3&slack=1)</small>
 
 **4. Jordan Ott — "Throwing young guys into the fire, that's what you see. And he'll learn from this." — Jordan Ott evaluates Donovan Clingan's performance in his debut** [03:20](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=200s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "It was probably a tough assessment. Again, throwing young guys into
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=200s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=200s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=200&q=4)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=200&q=4) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=200&q=4&slack=1)</small>
 
 **5. Jordan Ott — "We lost the possession game by eight and they outshoot you." — Jordan Ott addresses Portland's dominance in hustle plays** [04:08](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=248s)
 
@@ -42,4 +42,4 @@ Jordan Ott: "We talked about it. Again, we lost the possession game by eight and
 
 [https://www.youtube.com/watch?v=jsB0cb0WDOY&t=248s](https://www.youtube.com/watch?v=jsB0cb0WDOY&t=248s)
 
-<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=248&q=5)</small>
+<small>[Clip it](presserclips://clip?v=jsB0cb0WDOY&t=248&q=5) · [Send to Slack](presserclips://clip?v=jsB0cb0WDOY&t=248&q=5&slack=1)</small>

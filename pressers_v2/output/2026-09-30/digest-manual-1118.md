@@ -20,7 +20,7 @@ _Speakers identified: Caleb Wilson, Matas Buzelis_
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=14s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=14s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=14&q=1) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=14&q=1&slack=1)</small>
 
 **2. Caleb Wilson — "I'm excited to be here and I feel like it's going to be great for me." — Caleb Wilson on his excitement for his rookie season with the Bulls** [00:34](https://www.youtube.com/watch?v=auzyc8y-uNI&t=34s)
 
@@ -28,7 +28,7 @@ Caleb Wilson: "It's been really exciting. Just getting started now, but I'm exci
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=34s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=34s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=34&q=2)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=34&q=2) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=34&q=2&slack=1)</small>
 
 **3. Caleb Wilson — "It kind of feels surreal, but it's here now, so I'm excited for it." — Caleb Wilson on the surreal feeling of starting his NBA career** [01:06](https://www.youtube.com/watch?v=auzyc8y-uNI&t=66s)
 
@@ -36,7 +36,7 @@ Caleb Wilson: "It kind of feels surreal, but it's here now, so I'm excited for i
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=66s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=66s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=66&q=3)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=66&q=3) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=66&q=3&slack=1)</small>
 
 **4. Caleb Wilson — "It's my first time getting in an NBA game and playing in the United Center." — Caleb Wilson on his upcoming NBA debut at the United Center** [02:14](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
 
@@ -44,7 +44,7 @@ Caleb Wilson: "In two weeks, we'll be tipping off and it'll be real. It's my fir
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=134&q=4) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=134&q=4&slack=1)</small>
 
 ---
 
@@ -60,7 +60,7 @@ James Harden: "Every year I feel like that. I'm sure everybody else in the leagu
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=19s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=19s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=19&q=1) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=19&q=1&slack=1)</small>
 
 **2. James Harden — "Mario has been looking good for this past few weeks. Today he looked really good." — James Harden on the development of Mario and Payne** [01:18](https://www.youtube.com/watch?v=J5unk3vEQmk&t=78s)
 
@@ -68,7 +68,7 @@ James Harden: "**Mario** has been looking good for this past few weeks. Today he
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=78s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=78s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=78&q=2)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=78&q=2) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=78&q=2&slack=1)</small>
 
 **3. James Harden — "Whatever is needed help. Whoever needs help, whether it's vocal, whether it's me teaching, on the court helping." — James Harden on his leadership and mentorship role** [01:54](https://www.youtube.com/watch?v=J5unk3vEQmk&t=114s)
 
@@ -76,7 +76,7 @@ James Harden: "Whatever is needed help. Whoever needs help, whether it's vocal, 
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=114s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=114s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=114&q=3)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=114&q=3) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=114&q=3&slack=1)</small>
 
 **4. James Harden — "I would love to. Spain is one of the most beautiful places in the world." — James Harden on his desire to play in Europe or Spain** [02:39](https://www.youtube.com/watch?v=J5unk3vEQmk&t=159s)
 
@@ -84,7 +84,7 @@ James Harden: "I would love to. Spain is one of the most beautiful places in the
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=159s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=159s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=159&q=4)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=159&q=4) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=159&q=4&slack=1)</small>
 
 **5. James Harden — "I think it's confidence. I think as a young player he was probably trying to find himself." — James Harden on the evolution of Mario as a player** [03:37](https://www.youtube.com/watch?v=J5unk3vEQmk&t=217s)
 
@@ -92,7 +92,7 @@ James Harden: "I think it's confidence. I think as a young player he was probabl
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=217s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=217s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=217&q=5)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=217&q=5) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=217&q=5&slack=1)</small>
 
 **6. James Harden — "I was just trying to build a relationship with Jaylen because he does have the skills." — James Harden on building a relationship with Jaylen** [04:36](https://www.youtube.com/watch?v=J5unk3vEQmk&t=276s)
 
@@ -100,7 +100,7 @@ James Harden: "I was just trying to build a relationship with **Jaylen** because
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=276s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=276s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=276&q=6)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=276&q=6) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=276&q=6&slack=1)</small>
 
 ---
 
@@ -116,7 +116,7 @@ Donovan Mitchell: "The biggest thing for myself is continue to be a good leader.
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=127s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=127s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=127&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=127&q=1) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=127&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "Mario is strong, very strong, gets downhill, can defend, can hold his own in the paint" — Donovan Mitchell on Mario Hezonja's impact on the Cavaliers** [02:49](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=169s)
 
@@ -124,7 +124,7 @@ Donovan Mitchell: "Mario, I love Mario. He is Croatian and I played with his Cro
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=169s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=169s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=169&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=169&q=2) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=169&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "I think Michael Jordan. I think Michael Jordan for sure." — Donovan Mitchell names Michael Jordan as the greatest player ever** [03:40](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=220s)
 
@@ -132,7 +132,7 @@ Donovan Mitchell: "I think **Michael Jordan**. I think **Michael Jordan** for su
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=220s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=220s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=220&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=220&q=3) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=220&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "adding a guy like Peyton Watson changes us in a major way" — Donovan Mitchell on the defensive potential of the Cavaliers** [05:46](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=346s)
 
@@ -140,7 +140,7 @@ Donovan Mitchell: "I think the biggest thing is our length, our versatility. Add
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=346s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=346s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=346&q=4)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=346&q=4) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=346&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "Na'Qwan and I talked a lot this summer. I have sent him a lot of graphs" — Donovan Mitchell on his mentorship of teammate Na'Qwan Tomlin** [08:56](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=536s)
 
@@ -148,7 +148,7 @@ Donovan Mitchell: "Na'Qwan and I talked a lot this summer. I have sent him a lot
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=536s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=536s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=536&q=5)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=536&q=5) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=536&q=5&slack=1)</small>
 
 ---
 

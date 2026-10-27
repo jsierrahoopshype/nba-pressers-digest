@@ -10,7 +10,7 @@ Oso Ighodaro: "I feel like it is super important. I feel like a lot of people on
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=83s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=83s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=83&q=1)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=83&q=1) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=83&q=1&slack=1)</small>
 
 **2. Oso Ighodaro — "having more versatile players like that is always an advantage" — Oso Ighodaro praises the defensive versatility of his teammates Ryan, Josh Okogie, and Dillon.** [02:24](https://www.youtube.com/watch?v=IlnsxRILmyU&t=144s)
 
@@ -18,7 +18,7 @@ Oso Ighodaro: "It gives me someone that I know I can switch with and we don't lo
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=144s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=144s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=144&q=2)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=144&q=2) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=144&q=2&slack=1)</small>
 
 **3. Oso Ighodaro — "He doesn't carry himself like a rookie" — Oso Ighodaro praises a rookie teammate for his confidence and defensive contributions.** [03:40](https://www.youtube.com/watch?v=IlnsxRILmyU&t=220s)
 
@@ -26,7 +26,7 @@ Oso Ighodaro: "He has been great. He just has a high level of confidence about h
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=220s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=220s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=220&q=3)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=220&q=3) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=220&q=3&slack=1)</small>
 
 **4. Oso Ighodaro — "now we are just desperate to win" — Oso Ighodaro describes the increased competitiveness of Phoenix Suns training camp scrimmages.** [05:21](https://www.youtube.com/watch?v=IlnsxRILmyU&t=321s)
 
@@ -34,4 +34,4 @@ Oso Ighodaro: "It is almost more competitive because we are not so focused on br
 
 [https://www.youtube.com/watch?v=IlnsxRILmyU&t=321s](https://www.youtube.com/watch?v=IlnsxRILmyU&t=321s)
 
-<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=321&q=4)</small>
+<small>[Clip it](presserclips://clip?v=IlnsxRILmyU&t=321&q=4) · [Send to Slack](presserclips://clip?v=IlnsxRILmyU&t=321&q=4&slack=1)</small>

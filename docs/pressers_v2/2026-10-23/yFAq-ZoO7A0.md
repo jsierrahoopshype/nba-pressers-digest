@@ -10,7 +10,7 @@ Dillon Brooks: "Communication, energy, and togetherness. Feel like we were sprea
 
 [https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=24s](https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=24s)
 
-<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=24&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=24&q=1) · [Send to Slack](presserclips://clip?v=yFAq-ZoO7A0&t=24&q=1&slack=1)</small>
 
 **2. Dillon Brooks — "Being a starting big in the NBA, especially at his age, is very unheard of." — Dillon Brooks on the learning curve for a young starting big** [01:15](https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=75s)
 
@@ -18,7 +18,7 @@ Dillon Brooks: "It's the little things and he's learning on the fly. Being a sta
 
 [https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=75s](https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=75s)
 
-<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=75&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=75&q=2) · [Send to Slack](presserclips://clip?v=yFAq-ZoO7A0&t=75&q=2&slack=1)</small>
 
 **3. Dillon Brooks — "I take that ownership on myself for lack of communication on my end, being that defensive anchor." — Dillon Brooks takes ownership of team's defensive communication** [01:56](https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=116s)
 
@@ -26,7 +26,7 @@ Dillon Brooks: "There's times for scramble, there's times for rotations. That st
 
 [https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=116s](https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=116s)
 
-<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=116&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=116&q=3) · [Send to Slack](presserclips://clip?v=yFAq-ZoO7A0&t=116&q=3&slack=1)</small>
 
 **4. Dillon Brooks — "That's how the great offensive rebounding teams get their offensive rebounds, giving guys in scrambling positions." — Dillon Brooks on improving defensive rebounding and boxing out** [02:26](https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=146s)
 
@@ -34,4 +34,4 @@ Dillon Brooks: "That's how the great offensive rebounding teams get their offens
 
 [https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=146s](https://www.youtube.com/watch?v=yFAq-ZoO7A0&t=146s)
 
-<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=146&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yFAq-ZoO7A0&t=146&q=4) · [Send to Slack](presserclips://clip?v=yFAq-ZoO7A0&t=146&q=4&slack=1)</small>

@@ -10,7 +10,7 @@ Nick Nurse: "They did a good majority of stuff in the half court. There was no s
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=6s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=6s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=6&q=1) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=6&q=1&slack=1)</small>
 
 **2. Nick Nurse — "two big additions if they could both come back for sure" — Nick Nurse on the importance of Joel Embiid and Anthony Melton returning** [00:45](https://www.youtube.com/watch?v=W5_lzENw-y4&t=45s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "I think it's important. We know what we got with **Joel Embiid** an
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=45s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=45s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=45&q=2)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=45&q=2) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=45&q=2&slack=1)</small>
 
 **3. Nick Nurse — "he just has some soreness that he's dealing with" — Nick Nurse on the status of Paul George's injury recovery** [01:04](https://www.youtube.com/watch?v=W5_lzENw-y4&t=64s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "There is no timeline. He just has some soreness that he's dealing w
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=64s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=64s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=64&q=3)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=64&q=3) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=64&q=3&slack=1)</small>
 
 **4. Nick Nurse — "there was some moments of really good play and then there was some moments of not very good play" — Nick Nurse on the 76ers' performance in preseason games** [01:40](https://www.youtube.com/watch?v=W5_lzENw-y4&t=100s)
 
@@ -34,7 +34,7 @@ Nick Nurse: "There was some moments of really good play and then there was some 
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=100s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=100s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=100&q=4)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=100&q=4) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=100&q=4&slack=1)</small>
 
 **5. Nick Nurse — "he's had to generate so much by himself" — Nick Nurse on Tyrese Maxey's increased offensive workload** [02:47](https://www.youtube.com/watch?v=W5_lzENw-y4&t=167s)
 
@@ -42,7 +42,7 @@ Nick Nurse: "I think that he's had to generate so much by himself, bringing it u
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=167s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=167s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=167&q=5)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=167&q=5) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=167&q=5&slack=1)</small>
 
 **6. Nick Nurse — "I think Guerschon Yabusele has played outstanding actually" — Nick Nurse on the strong play of Guerschon Yabusele and Andre Drummond** [03:35](https://www.youtube.com/watch?v=W5_lzENw-y4&t=215s)
 
@@ -50,7 +50,7 @@ Nick Nurse: "They've both played pretty good. I think **Guerschon Yabusele** has
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=215s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=215s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=215&q=6)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=215&q=6) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=215&q=6&slack=1)</small>
 
 **7. Nick Nurse — "I envision those three, Paul George, Tyrese Maxey, Anthony Melton, sharing that spot as much as possible" — Nick Nurse on the rotation battle between Guerschon Yabusele and Andre Drummond** [04:25](https://www.youtube.com/watch?v=W5_lzENw-y4&t=265s)
 
@@ -58,7 +58,7 @@ Nick Nurse: "I think they're different players. The competition is who's the gua
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=265s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=265s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=265&q=7)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=265&q=7) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=265&q=7&slack=1)</small>
 
 **8. Nick Nurse — "everybody's got to take care of their guy" — Nick Nurse on the rebounding philosophy for the 76ers** [05:32](https://www.youtube.com/watch?v=W5_lzENw-y4&t=332s)
 
@@ -66,7 +66,7 @@ Nick Nurse: "Everybody's got to take care of their guy and then you make reads o
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=332s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=332s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=332&q=8)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=332&q=8) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=332&q=8&slack=1)</small>
 
 **9. Nick Nurse — "it's harder to rebound out of a zone for sure" — Nick Nurse on the impact of rebounding on zone defense** [06:18](https://www.youtube.com/watch?v=W5_lzENw-y4&t=378s)
 
@@ -74,7 +74,7 @@ Nick Nurse: "It's harder to rebound out of a zone for sure because you're playin
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=378s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=378s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=378&q=9)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=378&q=9) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=378&q=9&slack=1)</small>
 
 **10. Nick Nurse — "we need to play intelligent basketball" — Nick Nurse on the 76ers' identity and team goals** [07:13](https://www.youtube.com/watch?v=W5_lzENw-y4&t=433s)
 
@@ -82,7 +82,7 @@ Nick Nurse: "I think we need to play intelligent basketball. I think we got some
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=433s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=433s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=433&q=10)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=433&q=10) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=433&q=10&slack=1)</small>
 
 **11. Nick Nurse — "I want him to rebound his position and I want him to protect the rim" — Nick Nurse on his expectations for Paul George's defensive role** [08:00](https://www.youtube.com/watch?v=W5_lzENw-y4&t=480s)
 
@@ -90,7 +90,7 @@ Nick Nurse: "I'm always kind of looking for the same from him. I want him to reb
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=480s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=480s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=480&q=11)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=480&q=11) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=480&q=11&slack=1)</small>
 
 **12. Nick Nurse — "the balance would be shifted pretty heavily towards wanting the rotation" — Nick Nurse on balancing a set rotation with emerging players** [09:00](https://www.youtube.com/watch?v=W5_lzENw-y4&t=540s)
 
@@ -98,7 +98,7 @@ Nick Nurse: "The balance would be shifted pretty heavily towards wanting the rot
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=540s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=540s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=540&q=12)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=540&q=12) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=540&q=12&slack=1)</small>
 
 **13. Nick Nurse — "it's early is what I'm observing" — Nick Nurse on the difficulty of defending in scrimmage settings** [10:00](https://www.youtube.com/watch?v=W5_lzENw-y4&t=600s)
 
@@ -106,4 +106,4 @@ Nick Nurse: "It's early is what I'm observing. You obviously see some really goo
 
 [https://www.youtube.com/watch?v=W5_lzENw-y4&t=600s](https://www.youtube.com/watch?v=W5_lzENw-y4&t=600s)
 
-<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=600&q=13)</small>
+<small>[Clip it](presserclips://clip?v=W5_lzENw-y4&t=600&q=13) · [Send to Slack](presserclips://clip?v=W5_lzENw-y4&t=600&q=13&slack=1)</small>

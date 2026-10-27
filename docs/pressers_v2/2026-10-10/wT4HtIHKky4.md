@@ -10,7 +10,7 @@ Cason Wallace: "I feel like I've done a good job with my motor. I feel like that
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=42s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=42s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=42&q=1)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=42&q=1) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=42&q=1&slack=1)</small>
 
 **2. Cason Wallace — "You have to hit that catch and shoot three because the gravity is huge." — Cason Wallace on the importance of hitting catch-and-shoot threes** [02:20](https://www.youtube.com/watch?v=wT4HtIHKky4&t=140s)
 
@@ -18,7 +18,7 @@ Cason Wallace: "It's an everyday thing. I feel like playing on a team like this,
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=140s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=140s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=140&q=2)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=140&q=2) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=140&q=2&slack=1)</small>
 
 **3. Cason Wallace — "Playing with him out there, he makes the game so much easier defensively and offensively." — Cason Wallace on the defensive impact of Shai Gilgeous-Alexander** [03:33](https://www.youtube.com/watch?v=wT4HtIHKky4&t=213s)
 
@@ -26,7 +26,7 @@ Cason Wallace: "I feel like he's gotten so much better since we've gotten here a
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=213s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=213s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=213&q=3)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=213&q=3) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=213&q=3&slack=1)</small>
 
 **4. Cason Wallace — "That's the blueprint. All I got to do is just follow the blueprint." — Cason Wallace on following the OKC defensive blueprint** [04:10](https://www.youtube.com/watch?v=wT4HtIHKky4&t=250s)
 
@@ -34,7 +34,7 @@ Cason Wallace: "That's the blueprint. I feel like you kind of said it, OKC is kn
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=250s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=250s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=250&q=4)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=250&q=4) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=250&q=4&slack=1)</small>
 
 **5. Cason Wallace — "I think my physicality, my speed, and then my hands. I definitely want to continue to work." — Cason Wallace on his defensive strengths and areas for improvement** [04:47](https://www.youtube.com/watch?v=wT4HtIHKky4&t=287s)
 
@@ -42,7 +42,7 @@ Cason Wallace: "I think my physicality, my speed, and then my hands. I definitel
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=287s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=287s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=287&q=5)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=287&q=5) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=287&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "Off the ball is where we first noticed his reliability on that end of the floor." — Mark Daigneault on Cason Wallace's reliability and defensive versatility** [06:26](https://www.youtube.com/watch?v=wT4HtIHKky4&t=386s)
 
@@ -50,7 +50,7 @@ Mark Daigneault: "Off the ball is where we first noticed his reliability on that
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=386s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=386s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=386&q=6)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=386&q=6) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=386&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "When you're undersized, that's where execution becomes premium." — Mark Daigneault on the importance of execution for undersized guards** [08:40](https://www.youtube.com/watch?v=wT4HtIHKky4&t=520s)
 
@@ -58,7 +58,7 @@ Mark Daigneault: "When you're undersized, and he's undersized, **McClain**'s und
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=520s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=520s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=520&q=7)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=520&q=7) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=520&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "We are going to not travel a number of guys just based on the rhythm of preseason." — Mark Daigneault on resting rotation players for the Atlanta game** [11:36](https://www.youtube.com/watch?v=wT4HtIHKky4&t=696s)
 
@@ -66,4 +66,4 @@ Mark Daigneault: "We are going to not travel a number of guys just based on the 
 
 [https://www.youtube.com/watch?v=wT4HtIHKky4&t=696s](https://www.youtube.com/watch?v=wT4HtIHKky4&t=696s)
 
-<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=696&q=8)</small>
+<small>[Clip it](presserclips://clip?v=wT4HtIHKky4&t=696&q=8) · [Send to Slack](presserclips://clip?v=wT4HtIHKky4&t=696&q=8&slack=1)</small>

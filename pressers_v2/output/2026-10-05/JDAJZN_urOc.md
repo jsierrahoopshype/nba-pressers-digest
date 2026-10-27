@@ -10,7 +10,7 @@ Jrue Holiday: "I wasn't joking. I think people see once Scoot get out there he's
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=33s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=33s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=33&q=1) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=33&q=1&slack=1)</small>
 
 **2. Jrue Holiday — "Scoot's been playing really well. Doing a lot of everything, knocking down threes, getting to the paint." — Jrue Holiday evaluates Scoot Henderson's performance in training camp** [01:01](https://www.youtube.com/watch?v=JDAJZN_urOc&t=61s)
 
@@ -18,7 +18,7 @@ Jrue Holiday: "Scoot's been playing really well. Doing a lot of everything, knoc
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=61s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=61s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=61&q=2)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=61&q=2) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=61&q=2&slack=1)</small>
 
 **3. Jrue Holiday — "Dennis Smith Jr. is a crash out. So he's going to play hard, he's going to give you energy." — Jrue Holiday on what Dennis Smith Jr. brings to the team** [01:18](https://www.youtube.com/watch?v=JDAJZN_urOc&t=78s)
 
@@ -26,7 +26,7 @@ Jrue Holiday: "**Dennis Smith Jr.** is a crash out. So he's going to play hard, 
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=78s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=78s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=78&q=3)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=78&q=3) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=78&q=3&slack=1)</small>
 
 **4. Jrue Holiday — "I think it's just containing players, keeping people in front of us, making them not have just one dribble." — Jrue Holiday on the Portland Trail Blazers' defensive identity** [01:31](https://www.youtube.com/watch?v=JDAJZN_urOc&t=91s)
 
@@ -34,7 +34,7 @@ Jrue Holiday: "I think it's just containing players, keeping people in front of 
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=91s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=91s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=91&q=4)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=91&q=4) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=91&q=4&slack=1)</small>
 
 **5. Jrue Holiday — "Jayson Tatum's played well, Young Blood's played well, Scoot Henderson's played well." — Jrue Holiday on standout performers in training camp** [01:49](https://www.youtube.com/watch?v=JDAJZN_urOc&t=109s)
 
@@ -42,7 +42,7 @@ Jrue Holiday: "**Jayson Tatum**'s played well, Young Blood's played well, **Scoo
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=109s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=109s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=109&q=5)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=109&q=5) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=109&q=5&slack=1)</small>
 
 **6. Jrue Holiday — "Sometimes situational, sometimes where we need to pick me up on on defense and a little better energy." — Jrue Holiday on defensive adjustments from last season** [02:44](https://www.youtube.com/watch?v=JDAJZN_urOc&t=164s)
 
@@ -50,7 +50,7 @@ Jrue Holiday: "Sometimes situational, sometimes where we need to pick me up on o
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=164s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=164s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=164&q=6)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=164&q=6) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=164&q=6&slack=1)</small>
 
 **7. Jrue Holiday — "Everybody knows Damian Lillard, everybody knows Scoot Henderson, everybody knows Damian Lillard. We're taking those three, it's a lot of buckets." — Jrue Holiday on the team's offensive philosophy** [03:17](https://www.youtube.com/watch?v=JDAJZN_urOc&t=197s)
 
@@ -58,4 +58,4 @@ Jrue Holiday: "Everybody knows **Damian Lillard**, everybody knows **Scoot Hende
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=197s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=197s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=197&q=7)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=197&q=7) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=197&q=7&slack=1)</small>

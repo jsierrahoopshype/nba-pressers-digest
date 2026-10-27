@@ -10,7 +10,7 @@ Tyrese Maxey: "I think it's still going to take some time. We got a lot of diffe
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=24s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=24s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=24&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=24&q=1) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=24&q=1&slack=1)</small>
 
 **2. Tyrese Maxey — "He's going to get them, they're going to give them to him, so he's just need to shoot." — Tyrese Maxey on Joel Embiid's floor spacing through three-point shooting** [00:48](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=48s)
 
@@ -18,7 +18,7 @@ Tyrese Maxey: "He's going to get them, they're going to give them to him, so he'
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=48s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=48s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=48&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=48&q=2) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=48&q=2&slack=1)</small>
 
 **3. Tyrese Maxey — "See a guy who's 41 still taking charges in preseason games." — Tyrese Maxey on LeBron James taking charges in the preseason** [01:11](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=71s)
 
@@ -26,7 +26,7 @@ Tyrese Maxey: "See a guy who's 41 still taking charges in preseason games. We ha
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=71s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=71s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=71&q=3) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=71&q=3&slack=1)</small>
 
 **4. Labaron Philon Jr. — "It's been great being able to experience my first kind of NBA preseason." — Labaron Philon Jr. on his adjustment to the NBA preseason** [01:48](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=108s)
 
@@ -34,7 +34,7 @@ Labaron Philon Jr.: "It's been great being able to experience my first kind of N
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=108s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=108s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=108&q=4)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=108&q=4) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=108&q=4&slack=1)</small>
 
 **5. Labaron Philon Jr. — "Having the feel of the game, knowing where the defender at at all times." — Labaron Philon Jr. on his development of court vision and playmaking** [03:06](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=186s)
 
@@ -42,7 +42,7 @@ Labaron Philon Jr.: "Having the feel of the game, knowing where the defender at 
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=186s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=186s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=186&q=5)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=186&q=5) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=186&q=5&slack=1)</small>
 
 **6. Labaron Philon Jr. — "First trusting in your work and then second, just being patient, letting the game come to you." — Labaron Philon Jr. on maintaining patience as a rookie guard** [04:08](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=248s)
 
@@ -50,7 +50,7 @@ Labaron Philon Jr.: "First trusting in your work and then second, just being pat
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=248s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=248s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=248&q=6)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=248&q=6) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=248&q=6&slack=1)</small>
 
 **7. Labaron Philon Jr. — "Offensively, I would say really just being able to shoot more catch and shoots." — Labaron Philon Jr. on the 76ers' need for more catch-and-shoot opportunities** [05:35](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=335s)
 
@@ -58,7 +58,7 @@ Labaron Philon Jr.: "Offensively, I would say really just being able to shoot mo
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=335s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=335s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=335&q=7)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=335&q=7) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=335&q=7&slack=1)</small>
 
 **8. Labaron Philon Jr. — "Being able to experience all the things that go on before training camp like summer league." — Labaron Philon Jr. on the importance of training camp experience** [06:23](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=383s)
 
@@ -66,7 +66,7 @@ Labaron Philon Jr.: "Being able to experience all the things that go on before t
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=383s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=383s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=383&q=8)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=383&q=8) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=383&q=8&slack=1)</small>
 
 **9. Labaron Philon Jr. — "Playing against taller and bigger players when I was really young." — Labaron Philon Jr. on learning to play against bigger players** [07:12](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=432s)
 
@@ -74,4 +74,4 @@ Labaron Philon Jr.: "Playing against taller and bigger players when I was really
 
 [https://www.youtube.com/watch?v=3Wpc2QYjEas&t=432s](https://www.youtube.com/watch?v=3Wpc2QYjEas&t=432s)
 
-<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=432&q=9)</small>
+<small>[Clip it](presserclips://clip?v=3Wpc2QYjEas&t=432&q=9) · [Send to Slack](presserclips://clip?v=3Wpc2QYjEas&t=432&q=9&slack=1)</small>

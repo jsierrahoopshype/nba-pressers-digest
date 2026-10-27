@@ -10,4 +10,4 @@ Dwight Powell: "Should have brought the number eight Powell. I have no idea. Thi
 
 [https://www.youtube.com/watch?v=4FXHRNkn1io&t=0s](https://www.youtube.com/watch?v=4FXHRNkn1io&t=0s)
 
-<small>[Clip it](presserclips://clip?v=4FXHRNkn1io&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4FXHRNkn1io&t=0&q=1) · [Send to Slack](presserclips://clip?v=4FXHRNkn1io&t=0&q=1&slack=1)</small>

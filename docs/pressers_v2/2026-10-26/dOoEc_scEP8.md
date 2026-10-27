@@ -10,7 +10,7 @@ Sam Presti: "I want to talk about Jalen. I was with him last night and this morn
 
 [https://www.youtube.com/watch?v=dOoEc_scEP8&t=13s](https://www.youtube.com/watch?v=dOoEc_scEP8&t=13s)
 
-<small>[Clip it](presserclips://clip?v=dOoEc_scEP8&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=dOoEc_scEP8&t=13&q=1) · [Send to Slack](presserclips://clip?v=dOoEc_scEP8&t=13&q=1&slack=1)</small>
 
 **2. Sam Presti — "He is a left labral tear in his shoulder. Again, that's going to be a surgical situation." — Cason Wallace's injury and upcoming surgery** [01:27](https://www.youtube.com/watch?v=dOoEc_scEP8&t=87s)
 
@@ -18,7 +18,7 @@ Sam Presti: "We also got some tough news on **Cason Wallace** last night. He is 
 
 [https://www.youtube.com/watch?v=dOoEc_scEP8&t=87s](https://www.youtube.com/watch?v=dOoEc_scEP8&t=87s)
 
-<small>[Clip it](presserclips://clip?v=dOoEc_scEP8&t=87&q=2)</small>
+<small>[Clip it](presserclips://clip?v=dOoEc_scEP8&t=87&q=2) · [Send to Slack](presserclips://clip?v=dOoEc_scEP8&t=87&q=2&slack=1)</small>
 
 **3. Sam Presti — "I haven't thought about anything relative to the roster spot." — Sam Presti on potential Russell Westbrook return** [19:33](https://www.youtube.com/watch?v=dOoEc_scEP8&t=1173s)
 
@@ -26,4 +26,4 @@ Sam Presti: "I haven't thought about anything relative to the roster spot. I und
 
 [https://www.youtube.com/watch?v=dOoEc_scEP8&t=1173s](https://www.youtube.com/watch?v=dOoEc_scEP8&t=1173s)
 
-<small>[Clip it](presserclips://clip?v=dOoEc_scEP8&t=1173&q=3)</small>
+<small>[Clip it](presserclips://clip?v=dOoEc_scEP8&t=1173&q=3) · [Send to Slack](presserclips://clip?v=dOoEc_scEP8&t=1173&q=3&slack=1)</small>

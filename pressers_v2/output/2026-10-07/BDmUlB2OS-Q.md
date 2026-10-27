@@ -10,4 +10,4 @@ Deandre Ayton: "If you donate yours in 2020, don't worry, we got you. We will su
 
 [https://www.youtube.com/watch?v=BDmUlB2OS-Q&t=141s](https://www.youtube.com/watch?v=BDmUlB2OS-Q&t=141s)
 
-<small>[Clip it](presserclips://clip?v=BDmUlB2OS-Q&t=141&q=1)</small>
+<small>[Clip it](presserclips://clip?v=BDmUlB2OS-Q&t=141&q=1) · [Send to Slack](presserclips://clip?v=BDmUlB2OS-Q&t=141&q=1&slack=1)</small>

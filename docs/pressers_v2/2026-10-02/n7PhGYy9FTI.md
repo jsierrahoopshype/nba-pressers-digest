@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Dennis Schröder_
 
 [https://www.youtube.com/watch?v=n7PhGYy9FTI&t=8s](https://www.youtube.com/watch?v=n7PhGYy9FTI&t=8s)
 
-<small>[Clip it](presserclips://clip?v=n7PhGYy9FTI&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=n7PhGYy9FTI&t=8&q=1) · [Send to Slack](presserclips://clip?v=n7PhGYy9FTI&t=8&q=1&slack=1)</small>
 
 **2. Dennis Schröder — "I've been here 14 seasons in the NBA, and really, really grateful to be in the NBA." — Dennis Schröder on his approach to joining a new team** [01:35](https://www.youtube.com/watch?v=n7PhGYy9FTI&t=95s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Dennis Schröder_
 
 [https://www.youtube.com/watch?v=n7PhGYy9FTI&t=95s](https://www.youtube.com/watch?v=n7PhGYy9FTI&t=95s)
 
-<small>[Clip it](presserclips://clip?v=n7PhGYy9FTI&t=95&q=2)</small>
+<small>[Clip it](presserclips://clip?v=n7PhGYy9FTI&t=95&q=2) · [Send to Slack](presserclips://clip?v=n7PhGYy9FTI&t=95&q=2&slack=1)</small>
 
 **3. Dennis Schröder — "Hannes, I mean, he is a hell of a player first of all, got a lot of talent." — Dennis Schröder on mentoring young Hornets players** [02:12](https://www.youtube.com/watch?v=n7PhGYy9FTI&t=132s)
 
@@ -32,4 +32,4 @@ _Speakers identified: Unidentified speaker, Dennis Schröder_
 
 [https://www.youtube.com/watch?v=n7PhGYy9FTI&t=132s](https://www.youtube.com/watch?v=n7PhGYy9FTI&t=132s)
 
-<small>[Clip it](presserclips://clip?v=n7PhGYy9FTI&t=132&q=3)</small>
+<small>[Clip it](presserclips://clip?v=n7PhGYy9FTI&t=132&q=3) · [Send to Slack](presserclips://clip?v=n7PhGYy9FTI&t=132&q=3&slack=1)</small>

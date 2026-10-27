@@ -10,7 +10,7 @@ Coach Adelman: "They needed conditioning because they didn't get in the first ha
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=11s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=11s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=11&q=1) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=11&q=1&slack=1)</small>
 
 **2. Coach Adelman — "I'd say the confidence to explode more consistently. I've seen it more and more." — Coach Adelman on Bryce Hopkins' growing confidence and athleticism** [01:58](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=118s)
 
@@ -18,7 +18,7 @@ Coach Adelman: "I'd say the confidence to explode more consistently. I think the
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=118s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=118s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=118&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=118&q=2) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=118&q=2&slack=1)</small>
 
 **3. Coach Adelman — "What I'm realizing about Bryce is he plays to his strengths. And the guys that can figure that out early, usually survive." — Coach Adelman on Bryce Hopkins' ability to play to his strengths** [02:41](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=161s)
 
@@ -26,7 +26,7 @@ Coach Adelman: "Bryce is really good. What I'm realizing about Bryce is he plays
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=161s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=161s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=161&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=161&q=3) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=161&q=3&slack=1)</small>
 
 **4. Coach Adelman — "I saw the replay late. I should have challenged that because the initial contact was I thought a foul." — Coach Adelman on Jamal Murray's play and officiating** [05:05](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=305s)
 
@@ -34,7 +34,7 @@ Coach Adelman: "I saw the replay late. I should have challenged that because the
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=305s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=305s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=305&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=305&q=4) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=305&q=4&slack=1)</small>
 
 **5. Bryce Hopkins — "I'd probably say about an eight. I feel already more comfortable out there now." — Bryce Hopkins on his comfort level in training camp** [07:15](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=435s)
 
@@ -42,7 +42,7 @@ Bryce Hopkins: "I'd probably say about an eight. I feel already more comfortable
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=435s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=435s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=435&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=435&q=5) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=435&q=5&slack=1)</small>
 
 **6. Bryce Hopkins — "Big thing for me is I can play different positions, so being able to know the two-spot, three-spot, and four-spot is going to be big for me." — Bryce Hopkins on learning his role and positional versatility** [07:47](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=467s)
 
@@ -50,7 +50,7 @@ Bryce Hopkins: "I feel like the biggest thing is just when we're out there in pr
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=467s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=467s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=467&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=467&q=6) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=467&q=6&slack=1)</small>
 
 **7. Cam Johnson — "A lot of options is what it's like. We've formally put in probably a smaller percentage of the totality of what we run." — Cam Johnson on learning the team's system and options** [10:35](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=635s)
 
@@ -58,7 +58,7 @@ Cam Johnson: "A lot of options is what it's like. We've formally put in probably
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=635s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=635s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=635&q=7)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=635&q=7) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=635&q=7&slack=1)</small>
 
 **8. Cam Johnson — "Getting a better feel for Jokic's role and where he is in the pocket and where our shake-up guys are." — Cam Johnson on learning Jokic's role and slowing down the game** [11:32](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=692s)
 
@@ -66,7 +66,7 @@ Cam Johnson: "Getting a better feel for **Jokic**'s role and where he is in the 
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=692s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=692s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=692&q=8)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=692&q=8) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=692&q=8&slack=1)</small>
 
 **9. Cam Johnson — "He's a problem. He's a problem and he's just playing with confidence, shooting the ball well, attacking." — Cam Johnson on the impact of having Aaron Gordon on the floor** [12:16](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=736s)
 
@@ -74,7 +74,7 @@ Cam Johnson: "He's a problem. He's a problem and he's just playing with confiden
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=736s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=736s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=736&q=9)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=736&q=9) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=736&q=9&slack=1)</small>
 
 **10. Cam Johnson — "My goal is for us to just have a fluid and efficient offense as we can." — Cam Johnson on team offensive efficiency and shot selection** [13:16](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=796s)
 
@@ -82,7 +82,7 @@ Cam Johnson: "My goal is for us to just have a fluid and efficient offense as we
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=796s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=796s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=796&q=10)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=796&q=10) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=796&q=10&slack=1)</small>
 
 **11. Cam Johnson — "I think I got stuck a lot last year where I'd be on the wing or in the corner and I'd feel like I'm pulling my man out of the play." — Cam Johnson on spacing and defensive coverage** [14:35](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=875s)
 
@@ -90,7 +90,7 @@ Cam Johnson: "I think I got stuck a lot last year where I'd be on the wing or in
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=875s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=875s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=875&q=11)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=875&q=11) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=875&q=11&slack=1)</small>
 
 **12. Cam Johnson — "Bryce is a really talented player, and he, you know, he showed his stuff tonight." — Cam Johnson on mentoring Bryce Hopkins** [15:28](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=928s)
 
@@ -98,7 +98,7 @@ Cam Johnson: "Bryce is a really talented player, and he, you know, he showed his
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=928s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=928s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=928&q=12)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=928&q=12) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=928&q=12&slack=1)</small>
 
 **13. Cam Johnson — "I like to play in that. A Carolina has an alumni game every summer." — Cam Johnson on his connection to Caleb and Carolina** [17:02](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=1022s)
 
@@ -106,7 +106,7 @@ Cam Johnson: "I like to play in that. A Carolina has an alumni game every summer
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=1022s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=1022s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=1022&q=13)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=1022&q=13) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=1022&q=13&slack=1)</small>
 
 **14. Cam Johnson — "It is a bit of an oversimplification to an extent. There's things that we're trying to do." — Cam Johnson on improving transition defense** [18:38](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=1118s)
 
@@ -114,4 +114,4 @@ Cam Johnson: "It is a bit of an oversimplification to an extent. There's things 
 
 [https://www.youtube.com/watch?v=5lsLuSZKoPY&t=1118s](https://www.youtube.com/watch?v=5lsLuSZKoPY&t=1118s)
 
-<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=1118&q=14)</small>
+<small>[Clip it](presserclips://clip?v=5lsLuSZKoPY&t=1118&q=14) · [Send to Slack](presserclips://clip?v=5lsLuSZKoPY&t=1118&q=14&slack=1)</small>

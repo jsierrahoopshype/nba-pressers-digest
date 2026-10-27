@@ -10,7 +10,7 @@ Anfernee Simons: "Just the unselfishness. A lot of the turnovers we had were uns
 
 [https://www.youtube.com/watch?v=WGUjNAbHcVM&t=62s](https://www.youtube.com/watch?v=WGUjNAbHcVM&t=62s)
 
-<small>[Clip it](presserclips://clip?v=WGUjNAbHcVM&t=62&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WGUjNAbHcVM&t=62&q=1) · [Send to Slack](presserclips://clip?v=WGUjNAbHcVM&t=62&q=1&slack=1)</small>
 
 **2. Anfernee Simons — "Being able to have two ball-handlers out there is always great." — Anfernee Simons on the benefits of having two ball-handlers** [02:16](https://www.youtube.com/watch?v=WGUjNAbHcVM&t=136s)
 
@@ -18,7 +18,7 @@ Anfernee Simons: "Both of us can play on-ball and off-ball and I think that's wh
 
 [https://www.youtube.com/watch?v=WGUjNAbHcVM&t=136s](https://www.youtube.com/watch?v=WGUjNAbHcVM&t=136s)
 
-<small>[Clip it](presserclips://clip?v=WGUjNAbHcVM&t=136&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WGUjNAbHcVM&t=136&q=2) · [Send to Slack](presserclips://clip?v=WGUjNAbHcVM&t=136&q=2&slack=1)</small>
 
 **3. Anfernee Simons — "Most of the time the adjustment is the call, just the terminology." — Anfernee Simons on adjusting to the team's defensive terminology** [02:57](https://www.youtube.com/watch?v=WGUjNAbHcVM&t=177s)
 
@@ -26,4 +26,4 @@ Anfernee Simons: "It hasn't been, I mean, it's pretty familiar with what I'm use
 
 [https://www.youtube.com/watch?v=WGUjNAbHcVM&t=177s](https://www.youtube.com/watch?v=WGUjNAbHcVM&t=177s)
 
-<small>[Clip it](presserclips://clip?v=WGUjNAbHcVM&t=177&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WGUjNAbHcVM&t=177&q=3) · [Send to Slack](presserclips://clip?v=WGUjNAbHcVM&t=177&q=3&slack=1)</small>

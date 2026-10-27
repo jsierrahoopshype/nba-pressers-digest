@@ -14,7 +14,7 @@ Micah Nori: "The one thing that this team we need to do and focus is the defensi
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=44s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=44s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=44&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=44&q=1) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=44&q=1&slack=1)</small>
 
 **2. Micah Nori — "he brings a lot of intensity. I think that he is working on his shooting" — Micah Nori on the intensity and shooting development of Scoot Henderson** [02:22](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=142s)
 
@@ -22,7 +22,7 @@ Micah Nori: "I think he brings a lot of intensity. I think that he is working on
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=142s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=142s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=142&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=142&q=2) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=142&q=2&slack=1)</small>
 
 **3. Micah Nori — "availability, in my opinion, is a skill. Being available to play and playing hard is a skill" — Micah Nori defines availability and playing hard as essential skills** [02:50](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=170s)
 
@@ -30,7 +30,7 @@ Micah Nori: "Availability, in my opinion, is a skill. Being available to play an
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=170s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=170s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=170&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=170&q=3) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=170&q=3&slack=1)</small>
 
 **4. Micah Nori — "he has done nothing in this camp to deter not wanting him on the floor" — Micah Nori on Scoot Henderson's role and performance in training camp** [03:14](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=194s)
 
@@ -38,7 +38,7 @@ Micah Nori: "He has done nothing in this camp to deter not wanting him on the fl
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=194s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=194s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=194&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=194&q=4) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=194&q=4&slack=1)</small>
 
 **5. Micah Nori — "I think he can get better shooting. A lot of his stuff is that he doesn't miss left or right" — Micah Nori on Scoot Henderson's shooting mechanics and consistency** [03:44](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=224s)
 
@@ -46,7 +46,7 @@ Micah Nori: "I think he can get better shooting. A lot of his stuff is that he d
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=224s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=224s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=224&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=224&q=5) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=224&q=5&slack=1)</small>
 
 **6. Micah Nori — "his numbers have gotten drastically better since he stepped foot as a Portland Trail Blazer" — Micah Nori notes Scoot Henderson's improved numbers since joining the Blazers** [04:30](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=270s)
 
@@ -54,7 +54,7 @@ Micah Nori: "His numbers have gotten drastically better since he stepped foot as
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=270s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=270s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=270&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=270&q=6) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=270&q=6&slack=1)</small>
 
 **7. Micah Nori — "can we be better at what we have put a point of emphasis on? Do we take care of the ball better?" — Micah Nori on team focus areas: ball security and defensive rebounding** [05:21](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=321s)
 
@@ -62,7 +62,7 @@ Micah Nori: "Can we be better at what we have put a point of emphasis on? Do we 
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=321s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=321s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=321&q=7)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=321&q=7) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=321&q=7&slack=1)</small>
 
 **8. Micah Nori — "we want to protect the paint, so we want to be physical up the floor" — Micah Nori on defensive principles: protecting the paint and weak-side help** [07:11](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=431s)
 
@@ -70,7 +70,7 @@ Micah Nori: "We want to protect the paint, so we want to be physical up the floo
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=431s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=431s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=431&q=8)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=431&q=8) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=431&q=8&slack=1)</small>
 
 ---
 
@@ -86,7 +86,7 @@ Jrue Holiday: "I wasn't joking. I think people see once Scoot get out there he's
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=33s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=33s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=33&q=1) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=33&q=1&slack=1)</small>
 
 **2. Jrue Holiday — "Scoot's been playing really well. Doing a lot of everything, knocking down threes, getting to the paint." — Jrue Holiday evaluates Scoot Henderson's performance in training camp** [01:01](https://www.youtube.com/watch?v=JDAJZN_urOc&t=61s)
 
@@ -94,7 +94,7 @@ Jrue Holiday: "Scoot's been playing really well. Doing a lot of everything, knoc
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=61s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=61s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=61&q=2)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=61&q=2) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=61&q=2&slack=1)</small>
 
 **3. Jrue Holiday — "Dennis Smith Jr. is a crash out. So he's going to play hard, he's going to give you energy." — Jrue Holiday on what Dennis Smith Jr. brings to the team** [01:18](https://www.youtube.com/watch?v=JDAJZN_urOc&t=78s)
 
@@ -102,7 +102,7 @@ Jrue Holiday: "**Dennis Smith Jr.** is a crash out. So he's going to play hard, 
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=78s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=78s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=78&q=3)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=78&q=3) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=78&q=3&slack=1)</small>
 
 **4. Jrue Holiday — "I think it's just containing players, keeping people in front of us, making them not have just one dribble." — Jrue Holiday on the Portland Trail Blazers' defensive identity** [01:31](https://www.youtube.com/watch?v=JDAJZN_urOc&t=91s)
 
@@ -110,7 +110,7 @@ Jrue Holiday: "I think it's just containing players, keeping people in front of 
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=91s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=91s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=91&q=4)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=91&q=4) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=91&q=4&slack=1)</small>
 
 **5. Jrue Holiday — "Jayson Tatum's played well, Young Blood's played well, Scoot Henderson's played well." — Jrue Holiday on standout performers in training camp** [01:49](https://www.youtube.com/watch?v=JDAJZN_urOc&t=109s)
 
@@ -118,7 +118,7 @@ Jrue Holiday: "**Jayson Tatum**'s played well, Young Blood's played well, **Scoo
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=109s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=109s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=109&q=5)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=109&q=5) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=109&q=5&slack=1)</small>
 
 **6. Jrue Holiday — "Sometimes situational, sometimes where we need to pick me up on on defense and a little better energy." — Jrue Holiday on defensive adjustments from last season** [02:44](https://www.youtube.com/watch?v=JDAJZN_urOc&t=164s)
 
@@ -126,7 +126,7 @@ Jrue Holiday: "Sometimes situational, sometimes where we need to pick me up on o
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=164s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=164s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=164&q=6)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=164&q=6) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=164&q=6&slack=1)</small>
 
 **7. Jrue Holiday — "Everybody knows Damian Lillard, everybody knows Scoot Henderson, everybody knows Damian Lillard. We're taking those three, it's a lot of buckets." — Jrue Holiday on the team's offensive philosophy** [03:17](https://www.youtube.com/watch?v=JDAJZN_urOc&t=197s)
 
@@ -134,7 +134,7 @@ Jrue Holiday: "Everybody knows **Damian Lillard**, everybody knows **Scoot Hende
 
 [https://www.youtube.com/watch?v=JDAJZN_urOc&t=197s](https://www.youtube.com/watch?v=JDAJZN_urOc&t=197s)
 
-<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=197&q=7)</small>
+<small>[Clip it](presserclips://clip?v=JDAJZN_urOc&t=197&q=7) · [Send to Slack](presserclips://clip?v=JDAJZN_urOc&t=197&q=7&slack=1)</small>
 
 ---
 
@@ -150,7 +150,7 @@ Sidy Cissoko: "I'm still serious. That's always how I'll be playing. I play ever
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=25s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=25s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=25&q=1) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=25&q=1&slack=1)</small>
 
 **2. Sidy Cissoko — "I don't want to be so much aggressive and people get hurt. We trying to save our teammates." — Sidy Cissoko on balancing physical defense with teammate safety** [00:54](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=54s)
 
@@ -158,7 +158,7 @@ Sidy Cissoko: "Most of the time we be on the same team. I'm starting to take it 
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=54s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=54s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=54&q=2) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=54&q=2&slack=1)</small>
 
 **3. Sidy Cissoko — "I'm getting better, I'm still young. I have time to develop." — Sidy Cissoko on his offseason shooting development** [01:26](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=86s)
 
@@ -166,7 +166,7 @@ Sidy Cissoko: "I think the same thing. Trust the coaching staff, trust the work.
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=86s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=86s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=86&q=3)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=86&q=3) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=86&q=3&slack=1)</small>
 
 **4. Sidy Cissoko — "He's athletic, he can shoot the ball, and he's a big guy in the communication too." — Sidy Cissoko on the development and impact of Donovan Clingan** [03:22](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=202s)
 
@@ -174,7 +174,7 @@ Sidy Cissoko: "I would say **Donovan Clingan**. He's athletic, he can shoot the 
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=202s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=202s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=202&q=4)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=202&q=4) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=202&q=4&slack=1)</small>
 
 **5. Sidy Cissoko — "Probably just more have more confidence and trust my work. That's why a coach is for." — Sidy Cissoko on gaining confidence from the coaching staff** [04:23](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=263s)
 
@@ -182,7 +182,7 @@ Sidy Cissoko: "Probably just more have more confidence and trust my work. That's
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=263s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=263s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=263&q=5)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=263&q=5) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=263&q=5&slack=1)</small>
 
 ---
 

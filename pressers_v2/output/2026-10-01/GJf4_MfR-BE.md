@@ -10,7 +10,7 @@ Nick Nurse: "I think **Buddy Hield** is maybe a prototypical off-the-bench scori
 
 [https://www.youtube.com/watch?v=GJf4_MfR-BE&t=201s](https://www.youtube.com/watch?v=GJf4_MfR-BE&t=201s)
 
-<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=201&q=1)</small>
+<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=201&q=1) · [Send to Slack](presserclips://clip?v=GJf4_MfR-BE&t=201&q=1&slack=1)</small>
 
 **2. Nick Nurse — "Andre Drummond just plays really hard rebounds and if they kick one out to him wide open" — Nick Nurse on Andre Drummond's rebounding and willingness to take open shots** [04:14](https://www.youtube.com/watch?v=GJf4_MfR-BE&t=254s)
 
@@ -18,7 +18,7 @@ Nick Nurse: "**Andre Drummond** just plays really hard rebounds and if they kick
 
 [https://www.youtube.com/watch?v=GJf4_MfR-BE&t=254s](https://www.youtube.com/watch?v=GJf4_MfR-BE&t=254s)
 
-<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=254&q=2)</small>
+<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=254&q=2) · [Send to Slack](presserclips://clip?v=GJf4_MfR-BE&t=254&q=2&slack=1)</small>
 
 **3. Nick Nurse — "I consider LeBron James a great offense creator" — Nick Nurse on LeBron James's role as an offense creator** [06:07](https://www.youtube.com/watch?v=GJf4_MfR-BE&t=367s)
 
@@ -26,7 +26,7 @@ Nick Nurse: "I consider **LeBron James** a great offense creator. I don't necess
 
 [https://www.youtube.com/watch?v=GJf4_MfR-BE&t=367s](https://www.youtube.com/watch?v=GJf4_MfR-BE&t=367s)
 
-<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=367&q=3)</small>
+<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=367&q=3) · [Send to Slack](presserclips://clip?v=GJf4_MfR-BE&t=367&q=3&slack=1)</small>
 
 **4. Nick Nurse — "Mo Bamba is not practicing. I think they got a pretty solid date on Mo Bamba." — Nick Nurse on Mo Bamba's practice status and preseason availability** [09:52](https://www.youtube.com/watch?v=GJf4_MfR-BE&t=592s)
 
@@ -34,4 +34,4 @@ Nick Nurse: "**Mo Bamba** is not practicing. I think they got a pretty solid dat
 
 [https://www.youtube.com/watch?v=GJf4_MfR-BE&t=592s](https://www.youtube.com/watch?v=GJf4_MfR-BE&t=592s)
 
-<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=592&q=4)</small>
+<small>[Clip it](presserclips://clip?v=GJf4_MfR-BE&t=592&q=4) · [Send to Slack](presserclips://clip?v=GJf4_MfR-BE&t=592&q=4&slack=1)</small>

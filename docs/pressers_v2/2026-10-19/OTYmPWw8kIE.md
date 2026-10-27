@@ -10,7 +10,7 @@ Kel'el Ware: "getting adjusted to the new guys, the new faces. Still competing w
 
 [https://www.youtube.com/watch?v=OTYmPWw8kIE&t=29s](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=29s)
 
-<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=29&q=1)</small>
+<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=29&q=1) · [Send to Slack](presserclips://clip?v=OTYmPWw8kIE&t=29&q=1&slack=1)</small>
 
 **2. Kel'el Ware — "crashing the way that he wants us to crash, that way we're still not allowing them" — Kel'el Ware on the team's defensive strategy for crashing the boards** [01:20](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=80s)
 
@@ -18,7 +18,7 @@ Kel'el Ware: "crashing the way that he wants us to crash, that way we're still n
 
 [https://www.youtube.com/watch?v=OTYmPWw8kIE&t=80s](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=80s)
 
-<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=80&q=2)</small>
+<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=80&q=2) · [Send to Slack](presserclips://clip?v=OTYmPWw8kIE&t=80&q=2&slack=1)</small>
 
 **3. Kel'el Ware — "I feel like it's pretty much the same system, just more plays involved." — Kel'el Ware on the consistency of the team's offensive system** [01:55](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=115s)
 
@@ -26,7 +26,7 @@ Kel'el Ware: "I feel like it's pretty much the same system, just more plays invo
 
 [https://www.youtube.com/watch?v=OTYmPWw8kIE&t=115s](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=115s)
 
-<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=115&q=3)</small>
+<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=115&q=3) · [Send to Slack](presserclips://clip?v=OTYmPWw8kIE&t=115&q=3&slack=1)</small>
 
 **4. Kel'el Ware — "at the end of the day it all comes down to reading the game, reading the offense" — Kel'el Ware on reading the game and adapting to teammates** [02:43](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=163s)
 
@@ -34,7 +34,7 @@ Kel'el Ware: "at the end of the day it all comes down to reading the game, readi
 
 [https://www.youtube.com/watch?v=OTYmPWw8kIE&t=163s](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=163s)
 
-<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=163&q=4)</small>
+<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=163&q=4) · [Send to Slack](presserclips://clip?v=OTYmPWw8kIE&t=163&q=4&slack=1)</small>
 
 **5. Kel'el Ware — "he's a great shot blocker, rebounder. He brings the pick and pop to the new era" — Kel'el Ware on his on-court chemistry with teammate Miles** [03:26](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=206s)
 
@@ -42,7 +42,7 @@ Kel'el Ware: "he's a great shot blocker, rebounder. He brings the pick and pop t
 
 [https://www.youtube.com/watch?v=OTYmPWw8kIE&t=206s](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=206s)
 
-<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=206&q=5)</small>
+<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=206&q=5) · [Send to Slack](presserclips://clip?v=OTYmPWw8kIE&t=206&q=5&slack=1)</small>
 
 **6. Kel'el Ware — "he goes and he'll go contest the shot and then I'm able to sprint out" — Kel'el Ware on the defensive benefits of playing alongside Miles** [04:02](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=242s)
 
@@ -50,7 +50,7 @@ Kel'el Ware: "he goes and he'll go contest the shot and then I'm able to sprint 
 
 [https://www.youtube.com/watch?v=OTYmPWw8kIE&t=242s](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=242s)
 
-<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=242&q=6)</small>
+<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=242&q=6) · [Send to Slack](presserclips://clip?v=OTYmPWw8kIE&t=242&q=6&slack=1)</small>
 
 **7. Kel'el Ware — "every day working on it, every day just getting different shots up, getting in different situations." — Kel'el Ware on his daily development as a three-point shooter** [04:38](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=278s)
 
@@ -58,4 +58,4 @@ Kel'el Ware: "every day working on it, every day just getting different shots up
 
 [https://www.youtube.com/watch?v=OTYmPWw8kIE&t=278s](https://www.youtube.com/watch?v=OTYmPWw8kIE&t=278s)
 
-<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=278&q=7)</small>
+<small>[Clip it](presserclips://clip?v=OTYmPWw8kIE&t=278&q=7) · [Send to Slack](presserclips://clip?v=OTYmPWw8kIE&t=278&q=7&slack=1)</small>

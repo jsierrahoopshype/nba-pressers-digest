@@ -10,7 +10,7 @@ Moses Moody: "My first thought on the ground was I know this is going to be a go
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=207s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=207s)
 
-<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=207&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=207&q=1) · [Send to Slack](presserclips://clip?v=8RhkDzJUlL8&t=207&q=1&slack=1)</small>
 
 **2. Moses Moody — "watching somebody be able to stay patient and ambitious at the same time." — Moses Moody praises Stephen Curry for his commitment to the Warriors organization.** [08:15](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s)
 
@@ -18,7 +18,7 @@ Moses Moody: "It is cool to see somebody at the that has done as much as he has 
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=495s)
 
-<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=495&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=495&q=2) · [Send to Slack](presserclips://clip?v=8RhkDzJUlL8&t=495&q=2&slack=1)</small>
 
 **3. Moses Moody — "this is probably the most insecure I ever felt when it comes" — Moses Moody discusses the emotional insecurity of dealing with a patellar tendon injury.** [10:46](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s)
 
@@ -26,4 +26,4 @@ Moses Moody: "I feel like I am a pretty secure person normally, but then like th
 
 [https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s](https://www.youtube.com/watch?v=8RhkDzJUlL8&t=646s)
 
-<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=646&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8RhkDzJUlL8&t=646&q=3) · [Send to Slack](presserclips://clip?v=8RhkDzJUlL8&t=646&q=3&slack=1)</small>

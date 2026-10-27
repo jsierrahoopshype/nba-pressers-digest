@@ -10,7 +10,7 @@ Sidy Cissoko: "I'm still serious. That's always how I'll be playing. I play ever
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=25s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=25s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=25&q=1) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=25&q=1&slack=1)</small>
 
 **2. Sidy Cissoko — "I don't want to be so much aggressive and people get hurt. We trying to save our teammates." — Sidy Cissoko on balancing physical defense with teammate safety** [00:54](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=54s)
 
@@ -18,7 +18,7 @@ Sidy Cissoko: "Most of the time we be on the same team. I'm starting to take it 
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=54s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=54s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=54&q=2) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=54&q=2&slack=1)</small>
 
 **3. Sidy Cissoko — "I'm getting better, I'm still young. I have time to develop." — Sidy Cissoko on his offseason shooting development** [01:26](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=86s)
 
@@ -26,7 +26,7 @@ Sidy Cissoko: "I think the same thing. Trust the coaching staff, trust the work.
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=86s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=86s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=86&q=3)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=86&q=3) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=86&q=3&slack=1)</small>
 
 **4. Sidy Cissoko — "He's athletic, he can shoot the ball, and he's a big guy in the communication too." — Sidy Cissoko on the development and impact of Donovan Clingan** [03:22](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=202s)
 
@@ -34,7 +34,7 @@ Sidy Cissoko: "I would say **Donovan Clingan**. He's athletic, he can shoot the 
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=202s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=202s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=202&q=4)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=202&q=4) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=202&q=4&slack=1)</small>
 
 **5. Sidy Cissoko — "Probably just more have more confidence and trust my work. That's why a coach is for." — Sidy Cissoko on gaining confidence from the coaching staff** [04:23](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=263s)
 
@@ -42,4 +42,4 @@ Sidy Cissoko: "Probably just more have more confidence and trust my work. That's
 
 [https://www.youtube.com/watch?v=6w8gOGY2zzo&t=263s](https://www.youtube.com/watch?v=6w8gOGY2zzo&t=263s)
 
-<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=263&q=5)</small>
+<small>[Clip it](presserclips://clip?v=6w8gOGY2zzo&t=263&q=5) · [Send to Slack](presserclips://clip?v=6w8gOGY2zzo&t=263&q=5&slack=1)</small>

@@ -10,7 +10,7 @@ Dean Wade: "It is completely different. You know their tendencies playing agains
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=16s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=16s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=16&q=1) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=16&q=1&slack=1)</small>
 
 **2. Dean Wade — "You will never be more open than open, and so you just have to shoot the ball." — Dean Wade on being encouraged to shoot more by his coaches** [01:27](https://www.youtube.com/watch?v=B37EGC4SMTM&t=87s)
 
@@ -18,7 +18,7 @@ Dean Wade: "I have been told that a lot in my career. You will never be more ope
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=87s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=87s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=87&q=2)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=87&q=2) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=87&q=2&slack=1)</small>
 
 **3. Dean Wade — "We have so many versatile defenders, athletes. We have so many good players that can do different things." — Dean Wade on the versatility of the 76ers roster** [02:41](https://www.youtube.com/watch?v=B37EGC4SMTM&t=161s)
 
@@ -26,7 +26,7 @@ Dean Wade: "It is crazy. We have so many vets on this team who have seen so many
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=161s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=161s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=161&q=3)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=161&q=3) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=161&q=3&slack=1)</small>
 
 **4. Dean Wade — "We have so many great players, so many unstoppable people in transition." — Dean Wade on the 76ers' transition offense potential** [04:12](https://www.youtube.com/watch?v=B37EGC4SMTM&t=252s)
 
@@ -34,7 +34,7 @@ Dean Wade: "We have so many great players, so many unstoppable people in transit
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=252s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=252s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=252&q=4)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=252&q=4) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=252&q=4&slack=1)</small>
 
 **5. Dean Wade — "They never make the wrong decision, they are always making the right decision." — Dean Wade on the decision-making of Tyrese Maxey and Jaylen Brown** [05:51](https://www.youtube.com/watch?v=B37EGC4SMTM&t=351s)
 
@@ -42,7 +42,7 @@ Dean Wade: "They are unbelievable. They are so fast and quick. **Tyrese Maxey**,
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=351s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=351s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=351&q=5)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=351&q=5) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=351&q=5&slack=1)</small>
 
 **6. Dean Wade — "He is no different than what he was when I was in Cleveland." — Dean Wade on his relationship with Mike Gansey** [07:06](https://www.youtube.com/watch?v=B37EGC4SMTM&t=426s)
 
@@ -50,7 +50,7 @@ Dean Wade: "I will not lie, it has not really changed our relationship. We still
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=426s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=426s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=426&q=6)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=426&q=6) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=426&q=6&slack=1)</small>
 
 **7. Dean Wade — "The way they think the game is similar to the way I think the game." — Dean Wade on his defensive alignment with Jaylen Brown and Tyrese Maxey** [08:14](https://www.youtube.com/watch?v=B37EGC4SMTM&t=494s)
 
@@ -58,7 +58,7 @@ Dean Wade: "There is a lot. The past few days, especially with **Jaylen Brown** 
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=494s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=494s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=494&q=7)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=494&q=7) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=494&q=7&slack=1)</small>
 
 **8. Dean Wade — "Not every team has a defender. You need to like, move good enough laterally." — Dean Wade on his defensive development and coaching influences** [09:36](https://www.youtube.com/watch?v=B37EGC4SMTM&t=576s)
 
@@ -66,4 +66,4 @@ Dean Wade: "I think a little bit of both. Kansas State when I was there, I think
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=576s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=576s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=576&q=8)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=576&q=8) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=576&q=8&slack=1)</small>

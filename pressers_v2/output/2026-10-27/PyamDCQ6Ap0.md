@@ -10,7 +10,7 @@ Taylor Jenkins: "First off, I want to shout out our group. The work that they ha
 
 [https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=13s](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=13s)
 
-<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=13&q=1) · [Send to Slack](presserclips://clip?v=PyamDCQ6Ap0&t=13&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "We did a great job flying around to hold them to only 13 made threes." — Taylor Jenkins on the team's defensive effort and forcing turnovers** [02:04](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=124s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I know they still ended up with 14 offensive rebounds, but luck
 
 [https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=124s](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=124s)
 
-<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=124&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=124&q=2) · [Send to Slack](presserclips://clip?v=PyamDCQ6Ap0&t=124&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "He got his hands on 50-50 balls, converted it, and he is great on the defensive side." — Taylor Jenkins on the impact of Jaren Jackson Jr. and Miles Turner** [03:24](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=204s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "**Jaren Jackson Jr.** was huge. I love how he was running the f
 
 [https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=204s](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=204s)
 
-<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=204&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=204&q=3) · [Send to Slack](presserclips://clip?v=PyamDCQ6Ap0&t=204&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "Really good minutes from Braden and Nate. I felt like Nate had a great second half." — Taylor Jenkins on the development of rookies Braden and Nate** [04:18](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=258s)
 
@@ -34,7 +34,7 @@ Taylor Jenkins: "Really good minutes from **Braden** and **Nate**. I felt like *
 
 [https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=258s](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=258s)
 
-<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=258&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=258&q=4) · [Send to Slack](presserclips://clip?v=PyamDCQ6Ap0&t=258&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "He is a playmaker for us. I think he is finding his rhythm on the offensive side." — Taylor Jenkins on Jaren Jackson Jr.'s adjustment to the system** [05:06](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=306s)
 
@@ -42,7 +42,7 @@ Taylor Jenkins: "He has nine rebounds, three offensive rebounds, four assists, f
 
 [https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=306s](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=306s)
 
-<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=306&q=5)</small>
+<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=306&q=5) · [Send to Slack](presserclips://clip?v=PyamDCQ6Ap0&t=306&q=5&slack=1)</small>
 
 **6. Taylor Jenkins — "He has a big tall task every single night guarding point-of-attack defense for us." — Taylor Jenkins on Ryan Rollins' offensive performance and defensive task** [07:37](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=457s)
 
@@ -50,4 +50,4 @@ Taylor Jenkins: "He has a lot of different ways to impact the game. I felt like 
 
 [https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=457s](https://www.youtube.com/watch?v=PyamDCQ6Ap0&t=457s)
 
-<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=457&q=6)</small>
+<small>[Clip it](presserclips://clip?v=PyamDCQ6Ap0&t=457&q=6) · [Send to Slack](presserclips://clip?v=PyamDCQ6Ap0&t=457&q=6&slack=1)</small>

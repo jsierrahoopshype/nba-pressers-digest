@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Charles Lee_
 
 [https://www.youtube.com/watch?v=DjGdOwxix98&t=74s](https://www.youtube.com/watch?v=DjGdOwxix98&t=74s)
 
-<small>[Clip it](presserclips://clip?v=DjGdOwxix98&t=74&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DjGdOwxix98&t=74&q=1) · [Send to Slack](presserclips://clip?v=DjGdOwxix98&t=74&q=1&slack=1)</small>
 
 **2. Charles Lee — "I was really impressed with Naz's activity. I also thought that he really tried to help us." — Charles Lee evaluates Naz Reid's performance against Julius Randle** [1:53](https://www.youtube.com/watch?v=DjGdOwxix98&t=113s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Charles Lee_
 
 [https://www.youtube.com/watch?v=DjGdOwxix98&t=113s](https://www.youtube.com/watch?v=DjGdOwxix98&t=113s)
 
-<small>[Clip it](presserclips://clip?v=DjGdOwxix98&t=113&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DjGdOwxix98&t=113&q=2) · [Send to Slack](presserclips://clip?v=DjGdOwxix98&t=113&q=2&slack=1)</small>
 
 **3. Charles Lee — "he understands what the situation needs. He's not afraid to speak up and say what needs to be said." — Charles Lee on Dennis Smith Jr.'s leadership and communication** [2:29](https://www.youtube.com/watch?v=DjGdOwxix98&t=149s)
 
@@ -32,4 +32,4 @@ _Speakers identified: Unidentified speaker, Charles Lee_
 
 [https://www.youtube.com/watch?v=DjGdOwxix98&t=149s](https://www.youtube.com/watch?v=DjGdOwxix98&t=149s)
 
-<small>[Clip it](presserclips://clip?v=DjGdOwxix98&t=149&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DjGdOwxix98&t=149&q=3) · [Send to Slack](presserclips://clip?v=DjGdOwxix98&t=149&q=3&slack=1)</small>

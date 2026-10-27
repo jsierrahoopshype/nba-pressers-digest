@@ -14,7 +14,7 @@ Kenny Atkinson: "**Peyton Watson** is adapting to what we are doing. He is still
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=71s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=71s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=71&q=1)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=71&q=1) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=71&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "He can do much more damage in the paint, whether it's post-ups or drives." — Kenny Atkinson on Lauri Markkanen's physical and skill transformation** [03:15](https://www.youtube.com/watch?v=aTqiOwy-auc&t=195s)
 
@@ -22,7 +22,7 @@ Kenny Atkinson: "I felt like he was pigeonholed into just being a shooting four-
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=195s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=195s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=195&q=2)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=195&q=2) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=195&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "We've invested heavily into sports science. They lead us." — Kenny Atkinson on the team's emphasis on sports science and conditioning** [06:16](https://www.youtube.com/watch?v=aTqiOwy-auc&t=376s)
 
@@ -30,7 +30,7 @@ Kenny Atkinson: "It's a big part of our strategy for training camp and leading u
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=376s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=376s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=376&q=3)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=376&q=3) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=376&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "He has been one of the better players in camp so far." — Kenny Atkinson on Jalen Tyson's strong start to training camp** [09:04](https://www.youtube.com/watch?v=aTqiOwy-auc&t=544s)
 
@@ -38,7 +38,7 @@ Kenny Atkinson: "**Jalen Tyson** has been one of the better players in camp so f
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=544s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=544s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=544&q=4)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=544&q=4) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=544&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "It was almost by default Evan had to be more of a playmaker." — Kenny Atkinson on Evan Mobley's growth as a playmaker** [15:13](https://www.youtube.com/watch?v=aTqiOwy-auc&t=913s)
 
@@ -46,7 +46,7 @@ Kenny Atkinson: "I think he did take big steps in the playoffs. What happened in
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=913s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=913s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=913&q=5)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=913&q=5) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=913&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "We need more playmakers besides him and Donovan Mitchell." — Kenny Atkinson on the need for more playmakers beyond the stars** [18:25](https://www.youtube.com/watch?v=aTqiOwy-auc&t=1105s)
 
@@ -54,7 +54,7 @@ Kenny Atkinson: "The other thing what I've learned from the playoffs is like we 
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=1105s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=1105s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=1105&q=6)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=1105&q=6) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=1105&q=6&slack=1)</small>
 
 ---
 
@@ -70,7 +70,7 @@ Evan Mobley: "I think everything just has to be upped. I don't think we have to 
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=81s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=81s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=81&q=1)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=81&q=1) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=81&q=1&slack=1)</small>
 
 **2. Evan Mobley — "He's definitely his own leader in his own way as well. He's vocal." — Evan Mobley praises Peyton Watson's impact during training camp** [02:42](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=162s)
 
@@ -78,7 +78,7 @@ Evan Mobley: "He's been great. He's definitely his own leader in his own way as 
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=162s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=162s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=162&q=2)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=162&q=2) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=162&q=2&slack=1)</small>
 
 **3. Evan Mobley — "He's a normal dude just like all of us. I feel that's a big factor." — Evan Mobley on James Harden's personality and leadership** [05:00](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=300s)
 
@@ -86,7 +86,7 @@ Evan Mobley: "Like you said, a legend. It's crazy that I get to play with him an
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=300s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=300s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=300&q=3)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=300&q=3) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=300&q=3&slack=1)</small>
 
 **4. Evan Mobley — "I'm definitely going to still maintain my defensive game for the most part." — Evan Mobley's focus on maintaining defensive dominance while improving offensively** [08:22](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=502s)
 
@@ -94,7 +94,7 @@ Evan Mobley: "I'm definitely going to still maintain my defensive game for the m
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=502s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=502s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=502&q=4)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=502&q=4) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=502&q=4&slack=1)</small>
 
 **5. Evan Mobley — "I got to simplify my game just like how I was just talking about with Kevin Garnett." — Evan Mobley's goals for simplifying his offensive game** [13:11](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=791s)
 
@@ -102,7 +102,7 @@ Evan Mobley: "I think offensively, I got to simplify my game just like how I was
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=791s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=791s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=791&q=5)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=791&q=5) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=791&q=5&slack=1)</small>
 
 **6. Evan Mobley — "The most together teams are the ones that are winning the championship recently." — Evan Mobley on the importance of team chemistry for winning championships** [13:58](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=838s)
 
@@ -110,7 +110,7 @@ Evan Mobley: "I think it's both, on-court and off-court. I feel the most togethe
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=838s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=838s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=838&q=6)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=838&q=6) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=838&q=6&slack=1)</small>
 
 ---
 
@@ -126,7 +126,7 @@ Peyton Watson: "Obviously I would say just the organization and how well-run it 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=37s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=37s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=37&q=1)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=37&q=1) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=37&q=1&slack=1)</small>
 
 **2. Peyton Watson — "I want to be really versatile for this team and provide that punch and that young energy." — Peyton Watson on his defensive role and versatility for the Cavaliers** [01:28](https://www.youtube.com/watch?v=AzHL3xEuInw&t=88s)
 
@@ -134,7 +134,7 @@ Peyton Watson: "I want to be really versatile for this team and provide that pun
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=88s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=88s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=88&q=2)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=88&q=2) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=88&q=2&slack=1)</small>
 
 **3. Peyton Watson — "I think that I really have all the tools to affect the game on both sides." — Peyton Watson on his potential as an elite two-way player** [02:42](https://www.youtube.com/watch?v=AzHL3xEuInw&t=162s)
 
@@ -142,7 +142,7 @@ Peyton Watson: "I think the upside is the greatest, just being an extremely elit
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=162s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=162s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=162&q=3)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=162&q=3) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=162&q=3&slack=1)</small>
 
 **4. Peyton Watson — "It is amazing just knowing in the back of my head that I can play aggressively." — Peyton Watson on the defensive impact of playing with Evan Mobley and Jarrett Allen** [03:33](https://www.youtube.com/watch?v=AzHL3xEuInw&t=213s)
 
@@ -150,7 +150,7 @@ Peyton Watson: "It is amazing just knowing in the back of my head that I can pla
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=213s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=213s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=213&q=4)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=213&q=4) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=213&q=4&slack=1)</small>
 
 **5. Peyton Watson — "I think just to make them uncomfortable as possible, to disrupt a little bit." — Peyton Watson on his defensive approach against elite offensive players** [04:38](https://www.youtube.com/watch?v=AzHL3xEuInw&t=278s)
 
@@ -158,7 +158,7 @@ Peyton Watson: "I think just to make them uncomfortable as possible, to disrupt 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=278s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=278s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=278&q=5)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=278&q=5) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=278&q=5&slack=1)</small>
 
 **6. Peyton Watson — "It just takes a lot of mental toughness. I think it takes a lot of resilience." — Peyton Watson on the mental toughness needed to compete for a championship** [05:50](https://www.youtube.com/watch?v=AzHL3xEuInw&t=350s)
 
@@ -166,7 +166,7 @@ Peyton Watson: "It just takes a lot of mental toughness. I think it takes a lot 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=350s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=350s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=350&q=6)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=350&q=6) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=350&q=6&slack=1)</small>
 
 **7. Peyton Watson — "That is music to my ears when I hear that I am going to be able to." — Peyton Watson on taking the pressure off Donovan Mitchell and Darius Garland** [07:10](https://www.youtube.com/watch?v=AzHL3xEuInw&t=430s)
 
@@ -174,7 +174,7 @@ Peyton Watson: "I think a lot of the pressure is on those guys. They are getting
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=430s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=430s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=430&q=7)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=430&q=7) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=430&q=7&slack=1)</small>
 
 **8. Peyton Watson — "It definitely taught me a lot about my positioning, how to cut, where to be." — Peyton Watson on what he learned playing alongside Nikola Jokic** [08:22](https://www.youtube.com/watch?v=AzHL3xEuInw&t=502s)
 
@@ -182,7 +182,7 @@ Peyton Watson: "It definitely taught me a lot about my positioning, how to cut, 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=502s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=502s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=502&q=8)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=502&q=8) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=502&q=8&slack=1)</small>
 
 **9. Peyton Watson — "I was a restricted free agent and I think a lot of people misconstrue that." — Peyton Watson on the trade rumors involving the Lakers and Clippers** [10:00](https://www.youtube.com/watch?v=AzHL3xEuInw&t=600s)
 
@@ -190,7 +190,7 @@ Peyton Watson: "I mean, I think in general, the Lakers have a big social media f
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=600s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=600s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=600&q=9)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=600&q=9) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=600&q=9&slack=1)</small>
 
 **10. Peyton Watson — "I think it starts on the defensive end. I think that we have guys who can score." — Peyton Watson on why the Cavaliers can reach the top of the East** [11:08](https://www.youtube.com/watch?v=AzHL3xEuInw&t=668s)
 
@@ -198,7 +198,7 @@ Peyton Watson: "I think it starts on the defensive end. I think that we have guy
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=668s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=668s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=668&q=10)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=668&q=10) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=668&q=10&slack=1)</small>
 
 **11. Peyton Watson — "There are a lot of great, great teams in the East and a lot of great talent." — Peyton Watson on the competitive landscape of the Eastern Conference** [11:52](https://www.youtube.com/watch?v=AzHL3xEuInw&t=712s)
 
@@ -206,7 +206,7 @@ Peyton Watson: "It is really hard to say because you never know what the teams e
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=712s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=712s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=712&q=11)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=712&q=11) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=712&q=11&slack=1)</small>
 
 **12. Peyton Watson — "I think definitely just working on continuing to shoot the ball at an elite level." — Peyton Watson on his focus on three-point shooting and physical development** [12:57](https://www.youtube.com/watch?v=AzHL3xEuInw&t=777s)
 
@@ -214,7 +214,7 @@ Peyton Watson: "I think definitely just working on continuing to shoot the ball 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=777s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=777s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=777&q=12)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=777&q=12) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=777&q=12&slack=1)</small>
 
 **13. Peyton Watson — "We got some amazing guys on the team. Every individual presents their own unique personality." — Peyton Watson on the team culture and personality of the Cavaliers** [13:57](https://www.youtube.com/watch?v=AzHL3xEuInw&t=837s)
 
@@ -222,7 +222,7 @@ Peyton Watson: "We got some amazing guys on the team. Every individual presents 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=837s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=837s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=837&q=13)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=837&q=13) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=837&q=13&slack=1)</small>
 
 ---
 
@@ -238,7 +238,7 @@ Justin Edwards: "Honestly, I am just trying to pick up where I left off and tryi
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=11s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=11s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=11&q=1) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=11&q=1&slack=1)</small>
 
 **2. Justin Edwards — "I have been learning from Kentavious Caldwell-Pope, especially on the defensive end" — Justin Edwards on learning defensive schemes from Kentavious Caldwell-Pope** [00:37](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=37s)
 
@@ -246,7 +246,7 @@ Justin Edwards: "I have been learning from **Kentavious Caldwell-Pope**, especia
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=37s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=37s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=37&q=2)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=37&q=2) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=37&q=2&slack=1)</small>
 
 **3. Justin Edwards — "if I am able to guard him in the post, I feel like I will be able to guard" — Justin Edwards on learning post defense from Joel Embiid** [01:04](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=64s)
 
@@ -254,7 +254,7 @@ Justin Edwards: "I am learning how to guard different players. **Joel Embiid** i
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=64s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=64s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=64&q=3)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=64&q=3) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=64&q=3&slack=1)</small>
 
 **4. Justin Edwards — "it is crazy that I have LeBron James on my team" — Justin Edwards on the surreal experience of playing with LeBron James** [01:44](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=104s)
 
@@ -262,7 +262,7 @@ Justin Edwards: "He is my teammate now, and I am going on my third year. I am no
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=104s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=104s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=104&q=4)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=104&q=4) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=104&q=4&slack=1)</small>
 
 **5. Justin Edwards — "whatever he does the day before, he continues to do it" — Justin Edwards on the consistency and work ethic of LeBron James** [02:12](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=132s)
 
@@ -270,7 +270,7 @@ Justin Edwards: "He is consistent. Whatever he does the day before, he continues
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=132s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=132s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=132&q=5)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=132&q=5) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=132&q=5&slack=1)</small>
 
 **6. Justin Edwards — "Nick Nurse sees little things and he will yell it out" — Justin Edwards on the impact of coach Nick Nurse on his development** [04:15](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=255s)
 
@@ -278,7 +278,7 @@ Justin Edwards: "He is everywhere, especially with me and my jump shot. He sees 
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=255s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=255s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=255&q=6)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=255&q=6) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=255&q=6&slack=1)</small>
 
 **7. Justin Edwards — "Joel Embiid is probably one of the most funniest people on our team" — Justin Edwards on the personality of Joel Embiid** [05:21](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=321s)
 
@@ -286,7 +286,7 @@ Justin Edwards: "I always tell people that **Joel Embiid** is probably one of th
 
 [https://www.youtube.com/watch?v=rmGgeUE1L2c&t=321s](https://www.youtube.com/watch?v=rmGgeUE1L2c&t=321s)
 
-<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=321&q=7)</small>
+<small>[Clip it](presserclips://clip?v=rmGgeUE1L2c&t=321&q=7) · [Send to Slack](presserclips://clip?v=rmGgeUE1L2c&t=321&q=7&slack=1)</small>
 
 ---
 

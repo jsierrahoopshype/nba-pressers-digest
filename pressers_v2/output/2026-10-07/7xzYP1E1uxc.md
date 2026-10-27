@@ -10,7 +10,7 @@ Liam McNeeley: "They are just so consistent every day in practice. They are alwa
 
 [https://www.youtube.com/watch?v=7xzYP1E1uxc&t=29s](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=29s)
 
-<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=29&q=1)</small>
+<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=29&q=1) · [Send to Slack](presserclips://clip?v=7xzYP1E1uxc&t=29&q=1&slack=1)</small>
 
 **2. Liam McNeeley — "The big thing that I was focusing on this off season was my physicality, getting stronger" — Liam McNeeley on his G League development and physical growth** [01:32](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=92s)
 
@@ -18,7 +18,7 @@ Liam McNeeley: "I spent a lot of time in Greensboro in the G League. They were g
 
 [https://www.youtube.com/watch?v=7xzYP1E1uxc&t=92s](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=92s)
 
-<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=92&q=2)</small>
+<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=92&q=2) · [Send to Slack](presserclips://clip?v=7xzYP1E1uxc&t=92&q=2&slack=1)</small>
 
 **3. Liam McNeeley — "They were switching everything and our offense got stagnant which led to the turnovers" — Liam McNeeley on Hornets' offensive struggles against Brooklyn's defensive switching** [02:14](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=134s)
 
@@ -26,4 +26,4 @@ Liam McNeeley: "They were switching everything and our offense got stagnant whic
 
 [https://www.youtube.com/watch?v=7xzYP1E1uxc&t=134s](https://www.youtube.com/watch?v=7xzYP1E1uxc&t=134s)
 
-<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=134&q=3)</small>
+<small>[Clip it](presserclips://clip?v=7xzYP1E1uxc&t=134&q=3) · [Send to Slack](presserclips://clip?v=7xzYP1E1uxc&t=134&q=3&slack=1)</small>

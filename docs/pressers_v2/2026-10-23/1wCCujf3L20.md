@@ -10,7 +10,7 @@ Tyrese Maxey: "You stop turning the ball over, play tougher. They were just way,
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=9s](https://www.youtube.com/watch?v=1wCCujf3L20&t=9s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=9&q=1) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=9&q=1&slack=1)</small>
 
 **2. Tyrese Maxey — "This is a very competitive group. My only message that I had, I said, 'Well, it's time to see what we made of.'" — Tyrese Maxey on the team's competitive nature and resilience** [00:27](https://www.youtube.com/watch?v=1wCCujf3L20&t=27s)
 
@@ -18,7 +18,7 @@ Tyrese Maxey: "It was definitely disappointing our performance, disappointing th
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=27s](https://www.youtube.com/watch?v=1wCCujf3L20&t=27s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=27&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=27&q=2) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=27&q=2&slack=1)</small>
 
 **3. Tyrese Maxey — "He was just orchestrating, man. He was orchestrating the offense and I just felt like I needed it." — Tyrese Maxey on defending LeBron James in the fourth quarter** [01:23](https://www.youtube.com/watch?v=1wCCujf3L20&t=83s)
 
@@ -26,7 +26,7 @@ Tyrese Maxey: "He was just orchestrating, man. He was orchestrating the offense 
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=83s](https://www.youtube.com/watch?v=1wCCujf3L20&t=83s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=83&q=3)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=83&q=3) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=83&q=3&slack=1)</small>
 
 **4. Tyrese Maxey — "The names don't matter. We all trying to win. So we see a loose ball on the floor, it's first one to it." — Tyrese Maxey on the team's focus on winning loose balls** [02:08](https://www.youtube.com/watch?v=1wCCujf3L20&t=128s)
 
@@ -34,7 +34,7 @@ Tyrese Maxey: "The names don't matter. We all trying to win. So we see a loose b
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=128s](https://www.youtube.com/watch?v=1wCCujf3L20&t=128s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=128&q=4)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=128&q=4) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=128&q=4&slack=1)</small>
 
 **5. Tyrese Maxey — "He brings a just a different dynamic for our team, offensively and defensively." — Tyrese Maxey on the versatility and impact of Joel Embiid** [02:28](https://www.youtube.com/watch?v=1wCCujf3L20&t=148s)
 
@@ -42,7 +42,7 @@ Tyrese Maxey: "He brings a just a different dynamic for our team, offensively an
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=148s](https://www.youtube.com/watch?v=1wCCujf3L20&t=148s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=148&q=5)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=148&q=5) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=148&q=5&slack=1)</small>
 
 **6. Tyrese Maxey — "He's played a lot of basketball. So he's seen a lot of scenarios." — Tyrese Maxey on his communication and chemistry with Joel Embiid** [03:04](https://www.youtube.com/watch?v=1wCCujf3L20&t=184s)
 
@@ -50,7 +50,7 @@ Tyrese Maxey: "He's played a lot of basketball. So he's seen a lot of scenarios.
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=184s](https://www.youtube.com/watch?v=1wCCujf3L20&t=184s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=184&q=6)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=184&q=6) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=184&q=6&slack=1)</small>
 
 **7. Tyrese Maxey — "The biggest thing is we've been unselfish. Sometimes too unselfish." — Tyrese Maxey on the team's unselfishness and aggressive play** [04:23](https://www.youtube.com/watch?v=1wCCujf3L20&t=263s)
 
@@ -58,7 +58,7 @@ Tyrese Maxey: "The biggest thing is we've been unselfish. Sometimes too unselfis
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=263s](https://www.youtube.com/watch?v=1wCCujf3L20&t=263s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=263&q=7)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=263&q=7) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=263&q=7&slack=1)</small>
 
 **8. Tyrese Maxey — "It's a lot of competitive guys in here. We don't have big-time names on the back of the jerseys." — Tyrese Maxey on the team's competitive culture and lack of egos** [05:08](https://www.youtube.com/watch?v=1wCCujf3L20&t=308s)
 
@@ -66,4 +66,4 @@ Tyrese Maxey: "It's a lot of competitive guys in here. We don't have big-time na
 
 [https://www.youtube.com/watch?v=1wCCujf3L20&t=308s](https://www.youtube.com/watch?v=1wCCujf3L20&t=308s)
 
-<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=308&q=8)</small>
+<small>[Clip it](presserclips://clip?v=1wCCujf3L20&t=308&q=8) · [Send to Slack](presserclips://clip?v=1wCCujf3L20&t=308&q=8&slack=1)</small>

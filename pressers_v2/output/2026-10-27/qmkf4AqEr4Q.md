@@ -10,7 +10,7 @@ Ajay Mitchell: "Being able to change pace, I think it's really important. Ever s
 
 [https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=19s](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=19s)
 
-<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=19&q=1) · [Send to Slack](presserclips://clip?v=qmkf4AqEr4Q&t=19&q=1&slack=1)</small>
 
 **2. Ajay Mitchell — "It's great to have bigs like that that are able to be tough, rebound, and do all the little things." — Ajay Mitchell on the impact of skilled big men on the team** [01:02](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=62s)
 
@@ -18,7 +18,7 @@ Ajay Mitchell: "It's huge. Shout out to them. They've always done a great job at
 
 [https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=62s](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=62s)
 
-<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=62&q=2)</small>
+<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=62&q=2) · [Send to Slack](presserclips://clip?v=qmkf4AqEr4Q&t=62&q=2&slack=1)</small>
 
 **3. Ajay Mitchell — "I heard a couple congrats, I was like, oh, that's pretty cool." — Ajay Mitchell on his reaction to scoring a career high** [01:36](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=96s)
 
@@ -26,7 +26,7 @@ Ajay Mitchell: "When I got back to the bench, I heard a couple congrats, I was l
 
 [https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=96s](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=96s)
 
-<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=96&q=3) · [Send to Slack](presserclips://clip?v=qmkf4AqEr4Q&t=96&q=3&slack=1)</small>
 
 **4. Ajay Mitchell — "We kind of felt like we had to do that for them." — Ajay Mitchell on the team's mental approach after injuries** [02:24](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=144s)
 
@@ -34,7 +34,7 @@ Ajay Mitchell: "It's tough for all of us. It just didn't feel real. But I mean, 
 
 [https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=144s](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=144s)
 
-<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=144&q=4)</small>
+<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=144&q=4) · [Send to Slack](presserclips://clip?v=qmkf4AqEr4Q&t=144&q=4&slack=1)</small>
 
 **5. Ajay Mitchell — "I want to do whatever the team needs me to do to win." — Ajay Mitchell on his role and team-first mentality** [03:33](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=213s)
 
@@ -42,7 +42,7 @@ Ajay Mitchell: "I always looked at it as I want to do whatever the team needs me
 
 [https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=213s](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=213s)
 
-<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=213&q=5)</small>
+<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=213&q=5) · [Send to Slack](presserclips://clip?v=qmkf4AqEr4Q&t=213&q=5&slack=1)</small>
 
 **6. Ajay Mitchell — "Shai is very easy to be on the court with." — Ajay Mitchell on the ease of playing with Shai Gilgeous-Alexander** [04:37](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=277s)
 
@@ -50,7 +50,7 @@ Ajay Mitchell: "**Shai** is very easy to be on the court with and just try to fi
 
 [https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=277s](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=277s)
 
-<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=277&q=6)</small>
+<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=277&q=6) · [Send to Slack](presserclips://clip?v=qmkf4AqEr4Q&t=277&q=6&slack=1)</small>
 
 **7. Ajay Mitchell — "I knew I just had to be myself and be aggressive." — Ajay Mitchell on maintaining aggression despite roster changes** [05:22](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=322s)
 
@@ -58,4 +58,4 @@ Ajay Mitchell: "I knew I just had to be myself and be aggressive. I think we hav
 
 [https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=322s](https://www.youtube.com/watch?v=qmkf4AqEr4Q&t=322s)
 
-<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=322&q=7)</small>
+<small>[Clip it](presserclips://clip?v=qmkf4AqEr4Q&t=322&q=7) · [Send to Slack](presserclips://clip?v=qmkf4AqEr4Q&t=322&q=7&slack=1)</small>

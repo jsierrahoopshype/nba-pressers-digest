@@ -10,7 +10,7 @@ Naz Reid: "The resiliency. I said that since day one, before the season even sta
 
 [https://www.youtube.com/watch?v=dEHRPn02tE8&t=16s](https://www.youtube.com/watch?v=dEHRPn02tE8&t=16s)
 
-<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=16&q=1) · [Send to Slack](presserclips://clip?v=dEHRPn02tE8&t=16&q=1&slack=1)</small>
 
 **2. Naz Reid — "We just got smarter about the plays that we were making on him and our positioning." — Naz Reid on defensive adjustments against Giannis Antetokounmpo** [01:11](https://www.youtube.com/watch?v=dEHRPn02tE8&t=71s)
 
@@ -18,7 +18,7 @@ Naz Reid: "Nothing in particular. We just got smarter about the plays that we we
 
 [https://www.youtube.com/watch?v=dEHRPn02tE8&t=71s](https://www.youtube.com/watch?v=dEHRPn02tE8&t=71s)
 
-<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=71&q=2)</small>
+<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=71&q=2) · [Send to Slack](presserclips://clip?v=dEHRPn02tE8&t=71&q=2&slack=1)</small>
 
 **3. Naz Reid — "You're going to love how much work that I put in." — Naz Reid on his work ethic and fan appreciation** [01:38](https://www.youtube.com/watch?v=dEHRPn02tE8&t=98s)
 
@@ -26,7 +26,7 @@ Naz Reid: "Since day one, I got said before, I mean, you're going to love how mu
 
 [https://www.youtube.com/watch?v=dEHRPn02tE8&t=98s](https://www.youtube.com/watch?v=dEHRPn02tE8&t=98s)
 
-<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=98&q=3)</small>
+<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=98&q=3) · [Send to Slack](presserclips://clip?v=dEHRPn02tE8&t=98&q=3&slack=1)</small>
 
 **4. Naz Reid — "They play big. Tonight even Musa had foul trouble, found a way to stay on the floor." — Naz Reid on the contributions of teammates** [02:08](https://www.youtube.com/watch?v=dEHRPn02tE8&t=128s)
 
@@ -34,7 +34,7 @@ Naz Reid: "They play big. Tonight even **Musa** had foul trouble, found a way to
 
 [https://www.youtube.com/watch?v=dEHRPn02tE8&t=128s](https://www.youtube.com/watch?v=dEHRPn02tE8&t=128s)
 
-<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=128&q=4)</small>
+<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=128&q=4) · [Send to Slack](presserclips://clip?v=dEHRPn02tE8&t=128&q=4&slack=1)</small>
 
 **5. Naz Reid — "We've been in enough of those situations in our past and knowing how to keep our composure." — Naz Reid on the value of veteran leadership** [02:50](https://www.youtube.com/watch?v=dEHRPn02tE8&t=170s)
 
@@ -42,7 +42,7 @@ Naz Reid: "We've been in enough of those situations in our past and knowing how 
 
 [https://www.youtube.com/watch?v=dEHRPn02tE8&t=170s](https://www.youtube.com/watch?v=dEHRPn02tE8&t=170s)
 
-<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=170&q=5)</small>
+<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=170&q=5) · [Send to Slack](presserclips://clip?v=dEHRPn02tE8&t=170&q=5&slack=1)</small>
 
 **6. Naz Reid — "It's how you respond. That's really what it comes down to." — Naz Reid on maintaining composure in late-game situations** [03:40](https://www.youtube.com/watch?v=dEHRPn02tE8&t=220s)
 
@@ -50,4 +50,4 @@ Naz Reid: "I was kind of laughing, just because like, I've been in enough of tho
 
 [https://www.youtube.com/watch?v=dEHRPn02tE8&t=220s](https://www.youtube.com/watch?v=dEHRPn02tE8&t=220s)
 
-<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=220&q=6)</small>
+<small>[Clip it](presserclips://clip?v=dEHRPn02tE8&t=220&q=6) · [Send to Slack](presserclips://clip?v=dEHRPn02tE8&t=220&q=6&slack=1)</small>

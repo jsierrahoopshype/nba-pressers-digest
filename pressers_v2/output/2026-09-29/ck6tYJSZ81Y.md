@@ -10,7 +10,7 @@ De'Anthony Melton: "Frank, I think he is going to add an interesting piece for u
 
 [https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=324s](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=324s)
 
-<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=324&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=324&q=1) · [Send to Slack](presserclips://clip?v=ck6tYJSZ81Y&t=324&q=1&slack=1)</small>
 
 **2. De'Anthony Melton — "he definitely is strong and going downhill he is massive for sure" — De'Anthony Melton praises Jaxson Hayes' strength and size.** [08:14](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s)
 
@@ -18,4 +18,4 @@ De'Anthony Melton: "Jax is he a big kid, man. He a big kid, 1000%. I be joking w
 
 [https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s](https://www.youtube.com/watch?v=ck6tYJSZ81Y&t=494s)
 
-<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=494&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ck6tYJSZ81Y&t=494&q=2) · [Send to Slack](presserclips://clip?v=ck6tYJSZ81Y&t=494&q=2&slack=1)</small>

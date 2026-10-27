@@ -10,7 +10,7 @@ Jarrett Jack: "Our young group, that last group coming in, playing Pistons baske
 
 [https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=5s](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=5s)
 
-<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=5&q=1) · [Send to Slack](presserclips://clip?v=Wv9MfPC3OkA&t=5&q=1&slack=1)</small>
 
 **2. Jarrett Jack — "a lot of the talk during halftime was we know we're better than this" — Jarrett Jack on the team's self-accountability during halftime** [00:50](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=50s)
 
@@ -18,7 +18,7 @@ Jarrett Jack: "A lot of the talk during halftime was we know we're better than t
 
 [https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=50s](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=50s)
 
-<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=50&q=2) · [Send to Slack](presserclips://clip?v=Wv9MfPC3OkA&t=50&q=2&slack=1)</small>
 
 **3. Jarrett Jack — "we're constantly saying everybody's kind of showcasing their ability for their opportunity" — Jarrett Jack on the team's depth and player opportunities** [01:27](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=87s)
 
@@ -26,7 +26,7 @@ Jarrett Jack: "We're constantly saying everybody's showcasing their ability for 
 
 [https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=87s](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=87s)
 
-<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=87&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=87&q=3) · [Send to Slack](presserclips://clip?v=Wv9MfPC3OkA&t=87&q=3&slack=1)</small>
 
 **4. Jarrett Jack — "that was something that was really concentrated this summer coming back into this year" — Jarrett Jack on Cade Cunningham's three-point shooting improvement** [02:11](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=131s)
 
@@ -34,7 +34,7 @@ Jarrett Jack: "That was something that was really concentrated this summer comin
 
 [https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=131s](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=131s)
 
-<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=131&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=131&q=4) · [Send to Slack](presserclips://clip?v=Wv9MfPC3OkA&t=131&q=4&slack=1)</small>
 
 **5. Jarrett Jack — "we're still rounding him into game shape. I think that's probably the biggest marker for us" — Jarrett Jack on Cade Cunningham's development and game shape** [02:51](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=171s)
 
@@ -42,7 +42,7 @@ Jarrett Jack: "He looked really fluid, fast, athletic. We're still rounding him 
 
 [https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=171s](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=171s)
 
-<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=171&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=171&q=5) · [Send to Slack](presserclips://clip?v=Wv9MfPC3OkA&t=171&q=5&slack=1)</small>
 
 **6. Jarrett Jack — "at his age, it seems like very few things can shake him" — Jarrett Jack on Abuka's poise and basketball IQ** [03:36](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=216s)
 
@@ -50,7 +50,7 @@ Jarrett Jack: "He has a very even-keeled personality about him on his own, and t
 
 [https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=216s](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=216s)
 
-<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=216&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=216&q=6) · [Send to Slack](presserclips://clip?v=Wv9MfPC3OkA&t=216&q=6&slack=1)</small>
 
 **7. Jarrett Jack — "the first time we got to see Hark in our building this summer, all of us looked at each other and said he fits" — Jarrett Jack on Elijah's fit with the team's identity** [04:40](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=280s)
 
@@ -58,4 +58,4 @@ Jarrett Jack: "The first time we got to see Hark in our building this summer, al
 
 [https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=280s](https://www.youtube.com/watch?v=Wv9MfPC3OkA&t=280s)
 
-<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=280&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Wv9MfPC3OkA&t=280&q=7) · [Send to Slack](presserclips://clip?v=Wv9MfPC3OkA&t=280&q=7&slack=1)</small>

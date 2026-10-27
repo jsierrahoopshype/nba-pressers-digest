@@ -10,7 +10,7 @@ Keaton Wagler: "I think the main thing first is just the defensive side of the b
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=100s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=100s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=100&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=100&q=1) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=100&q=1&slack=1)</small>
 
 **2. Keaton Wagler — Keaton Wagler has gained weight and muscle through a dedicated summer lifting program.** [03:58](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=238s)
 
@@ -18,7 +18,7 @@ Keaton Wagler: "I've put on some more weight and muscle too. So that's kind of b
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=238s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=238s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=238&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=238&q=2) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=238&q=2&slack=1)</small>
 
 **3. Keaton Wagler — Keaton Wagler is focused on maintaining a strong mental approach to handle rookie pressure.** [05:52](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=352s)
 
@@ -26,7 +26,7 @@ Keaton Wagler: "I'm just going to do my best to stay mentally focused, not worri
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=352s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=352s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=352&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=352&q=3) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=352&q=3&slack=1)</small>
 
 **4. Keaton Wagler — Keaton Wagler expects to play multiple roles and handle the ball alongside teammates.** [07:38](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=458s)
 
@@ -34,4 +34,4 @@ Keaton Wagler: "It'll definitely be a lot of fun. Kind of in pickup, we kind of 
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=458s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=458s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=458&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=458&q=4) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=458&q=4&slack=1)</small>

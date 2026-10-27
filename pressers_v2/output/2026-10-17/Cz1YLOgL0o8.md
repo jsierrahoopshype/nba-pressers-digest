@@ -10,7 +10,7 @@ Jamahl Mosley: "Our depth is going to be the key for us this year. That is going
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=522s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=522s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=522&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=522&q=1) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=522&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "They're willing to take on the challenges. I think it's very big and how connected they are." — Jamahl Mosley on the team's willingness to accept challenges** [10:28](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=628s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "They're willing to take on the challenges. I think it's very big
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=628s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=628s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=628&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=628&q=2) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=628&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "I love that he shot it. Gosh, I love it. And they look good." — Jamahl Mosley on Zion Williamson's commitment to shooting threes** [11:23](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=683s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "I love that he shot it. Gosh, I love it. And they look good. I m
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=683s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=683s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=683&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=683&q=3) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=683&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "His command of the floor. We had a meeting this morning and we talked about his ability." — Jamahl Mosley on Jeremiah Fears' growth as a floor general** [13:45](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=825s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "His command of the floor. We had a meeting this morning and we t
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=825s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=825s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=825&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=825&q=4) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=825&q=4&slack=1)</small>
 
 **5. Jeremiah Fears — "Just figuring each other out. I think that's the most important thing, especially with these preseason games." — Jeremiah Fears on building team chemistry during preseason** [22:16](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1336s)
 
@@ -42,7 +42,7 @@ Jeremiah Fears: "I feel like I played pretty, pretty good. I feel like we're com
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1336s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1336s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1336&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1336&q=5) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=1336&q=5&slack=1)</small>
 
 **6. Jeremiah Fears — "Just trying not to overthink it. I think that's the most important thing, trusting the work." — Jeremiah Fears on his thought process as a playmaker** [23:18](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1398s)
 
@@ -50,4 +50,4 @@ Jeremiah Fears: "Just trying not to overthink it. I think that's the most import
 
 [https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1398s](https://www.youtube.com/watch?v=Cz1YLOgL0o8&t=1398s)
 
-<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1398&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Cz1YLOgL0o8&t=1398&q=6) · [Send to Slack](presserclips://clip?v=Cz1YLOgL0o8&t=1398&q=6&slack=1)</small>

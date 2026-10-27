@@ -10,7 +10,7 @@ Taylor Jenkins: "That was a huge key coming into the game. Last year they were t
 
 [https://www.youtube.com/watch?v=jVRg4bSWDQY&t=13s](https://www.youtube.com/watch?v=jVRg4bSWDQY&t=13s)
 
-<small>[Clip it](presserclips://clip?v=jVRg4bSWDQY&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jVRg4bSWDQY&t=13&q=1) · [Send to Slack](presserclips://clip?v=jVRg4bSWDQY&t=13&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "the block shots are awesome, but can he just be a presence that deters?" — Taylor Jenkins praises Miles Bridges' defensive impact and rim protection** [01:08](https://www.youtube.com/watch?v=jVRg4bSWDQY&t=68s)
 
@@ -18,4 +18,4 @@ Taylor Jenkins: "I love what I am seeing out of **Miles**. His care factor on th
 
 [https://www.youtube.com/watch?v=jVRg4bSWDQY&t=68s](https://www.youtube.com/watch?v=jVRg4bSWDQY&t=68s)
 
-<small>[Clip it](presserclips://clip?v=jVRg4bSWDQY&t=68&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jVRg4bSWDQY&t=68&q=2) · [Send to Slack](presserclips://clip?v=jVRg4bSWDQY&t=68&q=2&slack=1)</small>

@@ -10,7 +10,7 @@ VJ Edgecombe: "We just know that was not us in that first half. Too many silly t
 
 [https://www.youtube.com/watch?v=KvYLc8U4vrY&t=20s](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=20s)
 
-<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=20&q=1) · [Send to Slack](presserclips://clip?v=KvYLc8U4vrY&t=20&q=1&slack=1)</small>
 
 **2. VJ Edgecombe — "Shout out to them for not leaving after halftime, you know, after when you're down 25 points." — VJ Edgecombe on the Philadelphia crowd's support during the comeback** [01:23](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=83s)
 
@@ -18,7 +18,7 @@ VJ Edgecombe: "It was great. I'm going to be honest, I think that's the loudest 
 
 [https://www.youtube.com/watch?v=KvYLc8U4vrY&t=83s](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=83s)
 
-<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=83&q=2)</small>
+<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=83&q=2) · [Send to Slack](presserclips://clip?v=KvYLc8U4vrY&t=83&q=2&slack=1)</small>
 
 **3. VJ Edgecombe — "I think we need a little more time together for me to for us to point exactly." — VJ Edgecombe on the team's need for more chemistry** [02:47](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=167s)
 
@@ -26,7 +26,7 @@ VJ Edgecombe: "To be honest, I need more time. I think we need a little more tim
 
 [https://www.youtube.com/watch?v=KvYLc8U4vrY&t=167s](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=167s)
 
-<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=167&q=3)</small>
+<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=167&q=3) · [Send to Slack](presserclips://clip?v=KvYLc8U4vrY&t=167&q=3&slack=1)</small>
 
 **4. VJ Edgecombe — "We were getting down, we were running, hitting Joel in the trailer." — VJ Edgecombe on the team's second-half offensive execution** [03:40](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=220s)
 
@@ -34,7 +34,7 @@ VJ Edgecombe: "I think we were great. Obviously first half, like I say, we just 
 
 [https://www.youtube.com/watch?v=KvYLc8U4vrY&t=220s](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=220s)
 
-<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=220&q=4)</small>
+<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=220&q=4) · [Send to Slack](presserclips://clip?v=KvYLc8U4vrY&t=220&q=4&slack=1)</small>
 
 **5. VJ Edgecombe — "He's a leader. He's been in a situation like that before." — VJ Edgecombe on LeBron James' leadership and impact** [04:35](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=275s)
 
@@ -42,7 +42,7 @@ VJ Edgecombe: "He's a leader. He's been in a situation like that before. He was 
 
 [https://www.youtube.com/watch?v=KvYLc8U4vrY&t=275s](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=275s)
 
-<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=275&q=5)</small>
+<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=275&q=5) · [Send to Slack](presserclips://clip?v=KvYLc8U4vrY&t=275&q=5&slack=1)</small>
 
 **6. VJ Edgecombe — "I was impressed. I was impressed. I didn't know he guard like that." — VJ Edgecombe on Tyrese Maxey's defensive effort against James Harden** [06:37](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=397s)
 
@@ -50,7 +50,7 @@ VJ Edgecombe: "I was impressed. I was impressed. I didn't know he guard like tha
 
 [https://www.youtube.com/watch?v=KvYLc8U4vrY&t=397s](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=397s)
 
-<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=397&q=6)</small>
+<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=397&q=6) · [Send to Slack](presserclips://clip?v=KvYLc8U4vrY&t=397&q=6&slack=1)</small>
 
 **7. VJ Edgecombe — "We don't want to fight back from down 29 every game." — VJ Edgecombe on maintaining focus throughout the long season** [07:36](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=456s)
 
@@ -58,4 +58,4 @@ VJ Edgecombe: "We don't want to fight back from down 29 every game. We know we g
 
 [https://www.youtube.com/watch?v=KvYLc8U4vrY&t=456s](https://www.youtube.com/watch?v=KvYLc8U4vrY&t=456s)
 
-<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=456&q=7)</small>
+<small>[Clip it](presserclips://clip?v=KvYLc8U4vrY&t=456&q=7) · [Send to Slack](presserclips://clip?v=KvYLc8U4vrY&t=456&q=7&slack=1)</small>

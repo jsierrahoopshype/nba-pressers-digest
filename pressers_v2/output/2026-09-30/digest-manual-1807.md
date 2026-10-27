@@ -16,7 +16,7 @@ Social: Caleb Wilson is ready to get to work for his first season with the Chica
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=35s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=35s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=35&q=1)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=35&q=1) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=35&q=1&slack=1)</small>
 
 **2. Caleb Wilson (Chicago Bulls) — Caleb Wilson shares his excitement as he begins his first training camp with the Bulls.** [01:46](https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s)
 
@@ -28,7 +28,7 @@ Social: Training camp starts tomorrow, and Caleb Wilson says it feels surreal to
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=106&q=2)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=106&q=2) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=106&q=2&slack=1)</small>
 
 **3. Caleb Wilson (Chicago Bulls) — Caleb Wilson looks forward to his first NBA game at the United Center.** [02:45](https://www.youtube.com/watch?v=auzyc8y-uNI&t=165s)
 
@@ -40,7 +40,7 @@ Social: Caleb Wilson is looking forward to his first NBA game at the United Cent
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=165s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=165s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=165&q=3)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=165&q=3) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=165&q=3&slack=1)</small>
 
 ---
 
@@ -60,7 +60,7 @@ Social: J.B. Bickerstaff says Evan Mobley's ability to grab rebounds and push th
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff (Cleveland Cavaliers) — J.B. Bickerstaff plans to utilize Evan Mobley as a ball screener to improve his decision-making.** [13:22](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=802s)
 
@@ -72,7 +72,7 @@ Social: J.B. Bickerstaff says Evan Mobley has become a great ball screener and t
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=802s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=802s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=802&q=2)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=802&q=2) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=802&q=2&slack=1)</small>
 
 **3. Donovan Mitchell (Cleveland Cavaliers) — Donovan Mitchell says the team has spent more time together this offseason than any other in his career.** [40:09](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
@@ -84,7 +84,7 @@ Social: Donovan Mitchell says the Cavaliers have spent more time together this o
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=3)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=3) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=3&slack=1)</small>
 
 **4. Evan Mobley (Cleveland Cavaliers) — Evan Mobley has gained significant weight and height since being drafted.** [53:50](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3230s)
 
@@ -96,7 +96,7 @@ Social: Evan Mobley says he has grown to 6'9" and 260 pounds since being drafted
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3230s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3230s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3230&q=4)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3230&q=4) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=3230&q=4&slack=1)</small>
 
 **5. Jarrett Allen (Cleveland Cavaliers) — Jarrett Allen believes there is more potential to unlock in his pick and roll partnership with Donovan Mitchell.** [54:05](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3245s)
 
@@ -108,7 +108,7 @@ Social: Jarrett Allen says he believes there is more potential to unlock in his 
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3245s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3245s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3245&q=5)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3245&q=5) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=3245&q=5&slack=1)</small>
 
 ---
 

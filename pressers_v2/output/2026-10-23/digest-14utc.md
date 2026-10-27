@@ -14,7 +14,7 @@ Kenny Atkinson: "They upped their pressure and physicality. It was pretty clear.
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=11s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=11s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=11&q=1) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=11&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "they punched us and then I felt like we resisted in the third quarter." — Kenny Atkinson on the team's resilience after the 76ers' run** [00:35](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=35s)
 
@@ -22,7 +22,7 @@ Kenny Atkinson: "They punched us and then I felt like we resisted in the third q
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=35s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=35s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=35&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=35&q=2) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=35&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "on the road, hostile crowd, we gave ourselves a chance, despite what happened in the second half." — Kenny Atkinson on the team's performance in a hostile environment** [01:11](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=71s)
 
@@ -30,7 +30,7 @@ Kenny Atkinson: "On the road, hostile crowd, we gave ourselves a chance, despite
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=71s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=71s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=71&q=3) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=71&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "I will not blame it on our defense. I think the culprit of this one was our offense." — Kenny Atkinson blames offensive struggles for the loss** [02:49](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=169s)
 
@@ -38,7 +38,7 @@ Kenny Atkinson: "I will not blame it on our defense. I think the culprit of this
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=169s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=169s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=169&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=169&q=4) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=169&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "these are great experiences. This is how you build character, how you build resilience." — Kenny Atkinson on the value of early season adversity** [03:25](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=205s)
 
@@ -46,7 +46,7 @@ Kenny Atkinson: "These are great experiences. This is how you build character, h
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=205s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=205s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=205&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=205&q=5) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=205&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "he got us, we needed someone else to get a bucket. There were heavy denials on Don and James." — Kenny Atkinson evaluates Evan Mobley's performance** [04:18](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=258s)
 
@@ -54,7 +54,7 @@ Kenny Atkinson: "He got us, we needed someone else to get a bucket. There were h
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=258s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=258s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=258&q=6)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=258&q=6) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=258&q=6&slack=1)</small>
 
 **7. Kenny Atkinson — "when teams pressure like that, that is the time you got to move it." — Kenny Atkinson on the need for better ball movement against pressure** [04:43](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=283s)
 
@@ -62,7 +62,7 @@ Kenny Atkinson: "That is a great, **Danny**. Let's add that last piece. I am sur
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=283s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=283s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=283&q=7)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=283&q=7) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=283&q=7&slack=1)</small>
 
 **8. Kenny Atkinson — "he is so good. Even he had like two or three rim protections." — Kenny Atkinson praises Peyton Watson's defensive impact** [05:43](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=343s)
 
@@ -70,7 +70,7 @@ Kenny Atkinson: "He is so good. Even he had like two or three rim protections. I
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=343s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=343s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=343&q=8)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=343&q=8) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=343&q=8&slack=1)</small>
 
 **9. Kenny Atkinson — "it was typical of Philly. They booed them in the first half and then when they turned it around." — Kenny Atkinson on the 76ers' home-court atmosphere** [06:35](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=395s)
 
@@ -78,7 +78,7 @@ Kenny Atkinson: "I say this with a lot of respect, it was typical of Philly. The
 
 [https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=395s](https://www.youtube.com/watch?v=bJrmnz-L_Fg&t=395s)
 
-<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=395&q=9)</small>
+<small>[Clip it](presserclips://clip?v=bJrmnz-L_Fg&t=395&q=9) · [Send to Slack](presserclips://clip?v=bJrmnz-L_Fg&t=395&q=9&slack=1)</small>
 
 ---
 

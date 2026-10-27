@@ -10,7 +10,7 @@ Trevon Brazile: "I felt great. It was good to get out there and get a run agains
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=9s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=9s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=9&q=1) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=9&q=1&slack=1)</small>
 
 **2. Trevon Brazile — "the pace is a lot faster than I anticipated" — Trevon Brazile on the fast pace and physicality of his first NBA game** [00:28](https://www.youtube.com/watch?v=3twcSbEc2LU&t=28s)
 
@@ -18,7 +18,7 @@ Trevon Brazile: "The pace is a lot faster than I anticipated. I knew it was goin
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=28s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=28s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=28&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=28&q=2) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=28&q=2&slack=1)</small>
 
 **3. Trevon Brazile — "me being able to hit an open shot, my rim protection, a lot of defensive stuff" — Trevon Brazile on the defensive skills needed to earn a rotation spot** [01:16](https://www.youtube.com/watch?v=3twcSbEc2LU&t=76s)
 
@@ -26,7 +26,7 @@ Trevon Brazile: "Me being able to hit an open shot, my rim protection, a lot of 
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=76s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=76s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=76&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=76&q=3) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=76&q=3&slack=1)</small>
 
 **4. Trevon Brazile — "I am just being where my feet are at, learning from the vets, Nikola especially, AG" — Trevon Brazile on learning from the Nuggets' veteran leadership** [01:55](https://www.youtube.com/watch?v=3twcSbEc2LU&t=115s)
 
@@ -34,7 +34,7 @@ Trevon Brazile: "I am just being where my feet are at, learning from the vets, *
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=115s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=115s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=115&q=4)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=115&q=4) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=115&q=4&slack=1)</small>
 
 **5. Trevon Brazile — "I would say probably monster dunk" — Trevon Brazile chooses a monster dunk over a monster block** [02:15](https://www.youtube.com/watch?v=3twcSbEc2LU&t=135s)
 
@@ -42,7 +42,7 @@ Trevon Brazile: "I would say probably monster dunk."
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=135s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=135s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=135&q=5)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=135&q=5) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=135&q=5&slack=1)</small>
 
 **6. Trevon Brazile — "he is the best player in the world" — Trevon Brazile on Nikola Jokic's dominance** [03:10](https://www.youtube.com/watch?v=3twcSbEc2LU&t=190s)
 
@@ -50,7 +50,7 @@ Trevon Brazile: "He is the best player in the world, so it is crazy to sit and w
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=190s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=190s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=190&q=6)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=190&q=6) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=190&q=6&slack=1)</small>
 
 **7. Trevon Brazile — "I could just see how dominant he is" — Trevon Brazile confirms his belief in Nikola Jokic's status** [03:31](https://www.youtube.com/watch?v=3twcSbEc2LU&t=211s)
 
@@ -58,7 +58,7 @@ Trevon Brazile: "I could just see how dominant he is. When you see it on TV, it 
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=211s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=211s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=211&q=7)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=211&q=7) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=211&q=7&slack=1)</small>
 
 **8. Trevon Brazile — "he is just always talking, giving us learning points" — Trevon Brazile on the veteran leadership of Tyus Jones** [04:29](https://www.youtube.com/watch?v=3twcSbEc2LU&t=269s)
 
@@ -66,7 +66,7 @@ Trevon Brazile: "He is just always talking, giving us learning points. Me and **
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=269s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=269s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=269&q=8)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=269&q=8) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=269&q=8&slack=1)</small>
 
 **9. Julian Strawther — "I am just a natural scorer, so being put in them playmaking situations, I am thinking score first" — Julian Strawther on transitioning from scorer to playmaker** [06:00](https://www.youtube.com/watch?v=3twcSbEc2LU&t=360s)
 
@@ -74,7 +74,7 @@ Julian Strawther: "I am just a natural scorer, so being put in them playmaking s
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=360s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=360s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=360&q=9)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=360&q=9) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=360&q=9&slack=1)</small>
 
 **10. Julian Strawther — "understanding who is helping from where and what guys they are helping off of" — Julian Strawther on reading the defense while handling the ball** [06:32](https://www.youtube.com/watch?v=3twcSbEc2LU&t=392s)
 
@@ -82,7 +82,7 @@ Julian Strawther: "It is reading, you know, help side and low man and understand
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=392s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=392s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=392&q=10)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=392&q=10) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=392&q=10&slack=1)</small>
 
 **11. Julian Strawther — "I think he is more than an athlete" — Julian Strawther on Trevon Brazile's versatility** [07:16](https://www.youtube.com/watch?v=3twcSbEc2LU&t=436s)
 
@@ -90,7 +90,7 @@ Julian Strawther: "With **Trevon**, I think he is more than an athlete, and he i
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=436s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=436s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=436&q=11)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=436&q=11) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=436&q=11&slack=1)</small>
 
 **12. Julian Strawther — "it is easy to play with these guys and guys are finding each other in their spots" — Julian Strawther on the connectivity of the second unit** [07:38](https://www.youtube.com/watch?v=3twcSbEc2LU&t=458s)
 
@@ -98,7 +98,7 @@ Julian Strawther: "It is easy to play with these guys and guys are finding each 
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=458s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=458s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=458&q=12)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=458&q=12) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=458&q=12&slack=1)</small>
 
 **13. Julian Strawther — "I used to play with the Raptors on 2K just so I could wear the Camo jerseys" — Julian Strawther on playing with Nikola Jokic** [08:18](https://www.youtube.com/watch?v=3twcSbEc2LU&t=498s)
 
@@ -106,7 +106,7 @@ Julian Strawther: "Playing with a guy that scored at the highest level, 26,000 p
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=498s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=498s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=498&q=13)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=498&q=13) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=498&q=13&slack=1)</small>
 
 **14. Julian Strawther — "I played with Andrew Nembhard at school and Ryan used to come down and visit Andrew" — Julian Strawther on his connection with Andrew Nembhard and Ryan** [08:46](https://www.youtube.com/watch?v=3twcSbEc2LU&t=526s)
 
@@ -114,7 +114,7 @@ Julian Strawther: "I played with **Andrew Nembhard** at school and **Ryan** used
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=526s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=526s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=526&q=14)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=526&q=14) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=526&q=14&slack=1)</small>
 
 **15. Coach Adelman — "the second unit was pretty good, they run on stunts transition" — Coach Adelman on the second unit's transition play** [10:35](https://www.youtube.com/watch?v=3twcSbEc2LU&t=635s)
 
@@ -122,7 +122,7 @@ Coach Adelman: "The second unit was pretty good, they run on stunts transition, 
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=635s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=635s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=635&q=15)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=635&q=15) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=635&q=15&slack=1)</small>
 
 **16. Coach Adelman — "seeing him get a bucket, just stuff like that is cool" — Coach Adelman on Manuel Miller's performance** [11:11](https://www.youtube.com/watch?v=3twcSbEc2LU&t=671s)
 
@@ -130,7 +130,7 @@ Coach Adelman: "Even a few minutes of opportunity, **Manuel Miller**, seeing him
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=671s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=671s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=671&q=16)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=671&q=16) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=671&q=16&slack=1)</small>
 
 **17. Coach Adelman — "the dunk obviously, just to the explosion" — Coach Adelman on Christian Braun's explosive play** [12:21](https://www.youtube.com/watch?v=3twcSbEc2LU&t=741s)
 
@@ -138,7 +138,7 @@ Coach Adelman: "The dunk obviously, just to the explosion. But early in the game
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=741s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=741s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=741&q=17)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=741&q=17) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=741&q=17&slack=1)</small>
 
 **18. Coach Adelman — "Tias got the three in the corner the one time, Aaron got two" — Coach Adelman on the importance of jump defense** [13:34](https://www.youtube.com/watch?v=3twcSbEc2LU&t=814s)
 
@@ -146,7 +146,7 @@ Coach Adelman: "**Tias** got the three in the corner the one time, **Aaron** got
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=814s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=814s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=814&q=18)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=814&q=18) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=814&q=18&slack=1)</small>
 
 **19. Coach Adelman — "I am going to rotate that spot, I will get different key opportunities" — Coach Adelman on the rotation of the starting lineup** [14:47](https://www.youtube.com/watch?v=3twcSbEc2LU&t=887s)
 
@@ -154,7 +154,7 @@ Coach Adelman: "I am going to rotate that spot, I will get different key opportu
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=887s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=887s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=887&q=19)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=887&q=19) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=887&q=19&slack=1)</small>
 
 **20. Coach Adelman — "this is a work in progress for me" — Coach Adelman on the development of Jamal Murray** [17:22](https://www.youtube.com/watch?v=3twcSbEc2LU&t=1042s)
 
@@ -162,4 +162,4 @@ Coach Adelman: "With **Jamal**, this is a work in progress for me. I used to pla
 
 [https://www.youtube.com/watch?v=3twcSbEc2LU&t=1042s](https://www.youtube.com/watch?v=3twcSbEc2LU&t=1042s)
 
-<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=1042&q=20)</small>
+<small>[Clip it](presserclips://clip?v=3twcSbEc2LU&t=1042&q=20) · [Send to Slack](presserclips://clip?v=3twcSbEc2LU&t=1042&q=20&slack=1)</small>

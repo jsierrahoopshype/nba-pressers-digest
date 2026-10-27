@@ -10,7 +10,7 @@ Will Hardy: "I got a lift from a bunch of people, in particular the two Joshs an
 
 [https://www.youtube.com/watch?v=vxAcf2IboJw&t=14s](https://www.youtube.com/watch?v=vxAcf2IboJw&t=14s)
 
-<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=14&q=1) · [Send to Slack](presserclips://clip?v=vxAcf2IboJw&t=14&q=1&slack=1)</small>
 
 **2. Will Hardy — "his rim protection was great. I think he had four blocks" — Will Hardy evaluates Mo Bamba's rim protection and offensive contributions** [01:12](https://www.youtube.com/watch?v=vxAcf2IboJw&t=72s)
 
@@ -18,7 +18,7 @@ Will Hardy: "I thought Mo was terrific. His rim protection was great. I think he
 
 [https://www.youtube.com/watch?v=vxAcf2IboJw&t=72s](https://www.youtube.com/watch?v=vxAcf2IboJw&t=72s)
 
-<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=72&q=2)</small>
+<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=72&q=2) · [Send to Slack](presserclips://clip?v=vxAcf2IboJw&t=72&q=2&slack=1)</small>
 
 **3. Will Hardy — "certainly we were trying to encourage their aggressiveness to to look to shoot, especially playing against drop" — Will Hardy discusses encouraging aggressive shooting against drop coverage** [02:13](https://www.youtube.com/watch?v=vxAcf2IboJw&t=133s)
 
@@ -26,7 +26,7 @@ Will Hardy: "It's a combination. They're intelligent players and they understand
 
 [https://www.youtube.com/watch?v=vxAcf2IboJw&t=133s](https://www.youtube.com/watch?v=vxAcf2IboJw&t=133s)
 
-<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=133&q=3)</small>
+<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=133&q=3) · [Send to Slack](presserclips://clip?v=vxAcf2IboJw&t=133&q=3&slack=1)</small>
 
 **4. Will Hardy — "we did a better job connecting to the ball" — Will Hardy on the team's improved focus on physical play** [03:29](https://www.youtube.com/watch?v=vxAcf2IboJw&t=209s)
 
@@ -34,7 +34,7 @@ Will Hardy: "I thought we did a better job connecting to the ball. It was a big 
 
 [https://www.youtube.com/watch?v=vxAcf2IboJw&t=209s](https://www.youtube.com/watch?v=vxAcf2IboJw&t=209s)
 
-<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=209&q=4)</small>
+<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=209&q=4) · [Send to Slack](presserclips://clip?v=vxAcf2IboJw&t=209&q=4&slack=1)</small>
 
 **5. Will Hardy — "it won't be the last one you miss" — Will Hardy's advice to a rookie after missing a clutch shot** [04:34](https://www.youtube.com/watch?v=vxAcf2IboJw&t=274s)
 
@@ -42,7 +42,7 @@ Will Hardy: "It won't be the last one you miss. We want **Darren** to continue t
 
 [https://www.youtube.com/watch?v=vxAcf2IboJw&t=274s](https://www.youtube.com/watch?v=vxAcf2IboJw&t=274s)
 
-<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=274&q=5)</small>
+<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=274&q=5) · [Send to Slack](presserclips://clip?v=vxAcf2IboJw&t=274&q=5&slack=1)</small>
 
 **6. Will Hardy — "number one, his relentlessness and number two, his ability to cover ground" — Will Hardy on the importance of relentless rebounding** [05:35](https://www.youtube.com/watch?v=vxAcf2IboJw&t=335s)
 
@@ -50,4 +50,4 @@ Will Hardy: "Number one, his relentlessness and number two, his ability to cover
 
 [https://www.youtube.com/watch?v=vxAcf2IboJw&t=335s](https://www.youtube.com/watch?v=vxAcf2IboJw&t=335s)
 
-<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=335&q=6)</small>
+<small>[Clip it](presserclips://clip?v=vxAcf2IboJw&t=335&q=6) · [Send to Slack](presserclips://clip?v=vxAcf2IboJw&t=335&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Georges Niang: "So I have my Senegalese passport. I was planning on playing for 
 
 [https://www.youtube.com/watch?v=UWwv8s5JrBg&t=205s](https://www.youtube.com/watch?v=UWwv8s5JrBg&t=205s)
 
-<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=205&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=205&q=1) · [Send to Slack](presserclips://clip?v=UWwv8s5JrBg&t=205&q=1&slack=1)</small>
 
 **2. Georges Niang — "Shooting three pointers is one aspect of his game that he is extremely elite at" — Georges Niang praises Stephen Curry as the best shooter ever and a complete player.** [09:06](https://www.youtube.com/watch?v=UWwv8s5JrBg&t=546s)
 
@@ -18,4 +18,4 @@ Georges Niang: "Have you ever watched him workout? It is like real discouraging.
 
 [https://www.youtube.com/watch?v=UWwv8s5JrBg&t=546s](https://www.youtube.com/watch?v=UWwv8s5JrBg&t=546s)
 
-<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=546&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UWwv8s5JrBg&t=546&q=2) · [Send to Slack](presserclips://clip?v=UWwv8s5JrBg&t=546&q=2&slack=1)</small>

@@ -10,7 +10,7 @@ Donovan Mitchell: "I think there's an intensity. Obviously, everybody's excited,
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=4s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=4s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=4&q=1) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=4&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "I think there's definitely a quietness about us, but at the end of the day, who cares?" — Donovan Mitchell on the team being overlooked coming into the season** [00:42](https://www.youtube.com/watch?v=Tqu63CUiO40&t=42s)
 
@@ -18,7 +18,7 @@ Donovan Mitchell: "I don't think we're talked about, if that's what you mean. I 
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=42s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=42s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=42&q=2) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=42&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "for us it's more of the internal stuff, what fire we have within ourselves" — Donovan Mitchell on the team's internal motivation to succeed** [01:01](https://www.youtube.com/watch?v=Tqu63CUiO40&t=61s)
 
@@ -26,7 +26,7 @@ Donovan Mitchell: "I don't think it's something that we've talked about and been
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=61s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=61s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=61&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=61&q=3) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=61&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "They got a lot of talent. They can attack you from many different ways." — Donovan Mitchell on the talent and leadership of the Philadelphia 76ers** [01:30](https://www.youtube.com/watch?v=Tqu63CUiO40&t=90s)
 
@@ -34,7 +34,7 @@ Donovan Mitchell: "They got a lot of talent. They can attack you from many diffe
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=90s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=90s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=90&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=90&q=4) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=90&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "What better way than the coming to Philly and win on opening night in their place?" — Donovan Mitchell on the motivation of playing against LeBron James** [01:52](https://www.youtube.com/watch?v=Tqu63CUiO40&t=112s)
 
@@ -42,7 +42,7 @@ Donovan Mitchell: "I don't know about anything more. I think because you've been
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=112s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=112s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=112&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=112&q=5) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=112&q=5&slack=1)</small>
 
 **6. Donovan Mitchell — "It's like your first day at school. The feeling, the butterflies, the adrenaline never fades." — Donovan Mitchell on the feeling of opening night** [02:40](https://www.youtube.com/watch?v=Tqu63CUiO40&t=160s)
 
@@ -50,7 +50,7 @@ Donovan Mitchell: "It's like your first day at school. As I've gone throughout t
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=160s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=160s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=160&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=160&q=6) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=160&q=6&slack=1)</small>
 
 **7. Donovan Mitchell — "understanding that every night is a night. Every night is a night." — Donovan Mitchell on the importance of treating every game seriously** [03:26](https://www.youtube.com/watch?v=Tqu63CUiO40&t=206s)
 
@@ -58,7 +58,7 @@ Donovan Mitchell: "I wouldn't say that. I think understanding that every night i
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=206s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=206s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=206&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=206&q=7) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=206&q=7&slack=1)</small>
 
 **8. Jarrett Allen — "just trying to be precautious about my knees, you know, year 10" — Jarrett Allen on managing his knee injury** [04:15](https://www.youtube.com/watch?v=Tqu63CUiO40&t=255s)
 
@@ -66,7 +66,7 @@ Jarrett Allen: "Just trying to be precautious about my knees, you know, year 10.
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=255s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=255s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=255&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=255&q=8) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=255&q=8&slack=1)</small>
 
 **9. Jarrett Allen — "bunch of treatment in the training room and in the weight room" — Jarrett Allen on his treatment and recovery plan** [05:25](https://www.youtube.com/watch?v=Tqu63CUiO40&t=325s)
 
@@ -74,7 +74,7 @@ Jarrett Allen: "Bunch of treatment in the training room and in the weight room j
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=325s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=325s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=325&q=9)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=325&q=9) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=325&q=9&slack=1)</small>
 
 **10. Jarrett Allen — "We're always in after-thought, let's be honest. That's just how Cleveland sports are." — Jarrett Allen on the team's underdog mentality** [05:56](https://www.youtube.com/watch?v=Tqu63CUiO40&t=356s)
 
@@ -82,7 +82,7 @@ Jarrett Allen: "We're always in after-thought, let's be honest. That's just how 
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=356s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=356s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=356&q=10)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=356&q=10) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=356&q=10&slack=1)</small>
 
 **11. Jarrett Allen — "I think it starts in practice, just trying to make sure everything is as crisp as possible" — Jarrett Allen on the team's focus on practice** [06:16](https://www.youtube.com/watch?v=Tqu63CUiO40&t=376s)
 
@@ -90,4 +90,4 @@ Jarrett Allen: "I think it starts in practice, just trying to make sure everythi
 
 [https://www.youtube.com/watch?v=Tqu63CUiO40&t=376s](https://www.youtube.com/watch?v=Tqu63CUiO40&t=376s)
 
-<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=376&q=11)</small>
+<small>[Clip it](presserclips://clip?v=Tqu63CUiO40&t=376&q=11) · [Send to Slack](presserclips://clip?v=Tqu63CUiO40&t=376&q=11&slack=1)</small>

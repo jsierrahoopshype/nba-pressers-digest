@@ -10,7 +10,7 @@ Caris LeVert: "I was just training. I got a call maybe a week before that said i
 
 [https://www.youtube.com/watch?v=xMkx6loh-Mw&t=15s](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=15s)
 
-<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=15&q=1) · [Send to Slack](presserclips://clip?v=xMkx6loh-Mw&t=15&q=1&slack=1)</small>
 
 **2. Caris LeVert — "As human beings, it's part of the business, but you definitely feel a certain type of way." — Caris LeVert on the business of NBA trades** [01:05](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=65s)
 
@@ -18,7 +18,7 @@ Caris LeVert: "As human beings, it's part of the business, but you definitely fe
 
 [https://www.youtube.com/watch?v=xMkx6loh-Mw&t=65s](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=65s)
 
-<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=65&q=2)</small>
+<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=65&q=2) · [Send to Slack](presserclips://clip?v=xMkx6loh-Mw&t=65&q=2&slack=1)</small>
 
 **3. Caris LeVert — "It's taking one day at a time. Get one percent better every day." — Caris LeVert's advice to young players on development** [02:04](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=124s)
 
@@ -26,7 +26,7 @@ Caris LeVert: "It's taking one day at a time. Get one percent better every day. 
 
 [https://www.youtube.com/watch?v=xMkx6loh-Mw&t=124s](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=124s)
 
-<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=124&q=3)</small>
+<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=124&q=3) · [Send to Slack](presserclips://clip?v=xMkx6loh-Mw&t=124&q=3&slack=1)</small>
 
 **4. Caris LeVert — "Braden, his team was very good, so I think he is very ready to come and contribute." — Caris LeVert's evaluation of rookies Braden and Nate** [02:26](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=146s)
 
@@ -34,7 +34,7 @@ Caris LeVert: "Both of them have done a great job. They both played at a high le
 
 [https://www.youtube.com/watch?v=xMkx6loh-Mw&t=146s](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=146s)
 
-<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=146&q=4)</small>
+<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=146&q=4) · [Send to Slack](presserclips://clip?v=xMkx6loh-Mw&t=146&q=4&slack=1)</small>
 
 **5. Caris LeVert — "Defensively, I think that's going to be our identity, pressuring, playing hard, playing competitive." — Caris LeVert on the team's emerging defensive identity** [02:57](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=177s)
 
@@ -42,7 +42,7 @@ Caris LeVert: "Defensively, I think that's going to be our identity, pressuring,
 
 [https://www.youtube.com/watch?v=xMkx6loh-Mw&t=177s](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=177s)
 
-<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=177&q=5)</small>
+<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=177&q=5) · [Send to Slack](presserclips://clip?v=xMkx6loh-Mw&t=177&q=5&slack=1)</small>
 
 **6. Caris LeVert — "I think that's where the NBA is going nowadays. You kind of see a lot of teams doing it." — Caris LeVert on the NBA's modern player development approach** [04:08](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=248s)
 
@@ -50,7 +50,7 @@ Caris LeVert: "I think that's where the NBA is going nowadays. You kind of see a
 
 [https://www.youtube.com/watch?v=xMkx6loh-Mw&t=248s](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=248s)
 
-<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=248&q=6)</small>
+<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=248&q=6) · [Send to Slack](presserclips://clip?v=xMkx6loh-Mw&t=248&q=6&slack=1)</small>
 
 **7. Caris LeVert — "As a player, you kind of have to take ownership of your own development." — Caris LeVert on taking ownership of personal development** [05:06](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=306s)
 
@@ -58,4 +58,4 @@ Caris LeVert: "As a player, you kind of have to take ownership of your own devel
 
 [https://www.youtube.com/watch?v=xMkx6loh-Mw&t=306s](https://www.youtube.com/watch?v=xMkx6loh-Mw&t=306s)
 
-<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=306&q=7)</small>
+<small>[Clip it](presserclips://clip?v=xMkx6loh-Mw&t=306&q=7) · [Send to Slack](presserclips://clip?v=xMkx6loh-Mw&t=306&q=7&slack=1)</small>

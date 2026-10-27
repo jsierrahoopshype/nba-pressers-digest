@@ -10,7 +10,7 @@ Tyronn Lue: "Like we talked about before, his confidence doesn't waver. Same fac
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=13s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=13s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=13&q=1) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=13&q=1&slack=1)</small>
 
 **2. Tyronn Lue — "He did a great job. I talked to him two days ago and asked him could he average 18 points." — Tyronn Lue praises Kobe Brown's offensive versatility and scoring impact** [00:37](https://www.youtube.com/watch?v=PoJviv7SlZM&t=37s)
 
@@ -18,7 +18,7 @@ Tyronn Lue: "He did a great job. I talked to him two days ago and asked him coul
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=37s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=37s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=37&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=37&q=2) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=37&q=2&slack=1)</small>
 
 **3. Tyronn Lue — "I just saw him come off by itself and he kind of hobbled off and went off." — Tyronn Lue addresses Max Christie's early game injury** [01:17](https://www.youtube.com/watch?v=PoJviv7SlZM&t=77s)
 
@@ -26,7 +26,7 @@ Tyronn Lue: "I just saw him come off by itself and he kind of hobbled off and we
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=77s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=77s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=77&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=77&q=3) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=77&q=3&slack=1)</small>
 
 **4. Tyronn Lue — "I think that pressure kind of sped us up and took us out of the offense." — Tyronn Lue on team's offensive struggles and defensive pressure** [02:04](https://www.youtube.com/watch?v=PoJviv7SlZM&t=124s)
 
@@ -34,7 +34,7 @@ Tyronn Lue: "We didn't do the things we worked on, but I think that pressure kin
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=124s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=124s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=124&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=124&q=4) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=124&q=4&slack=1)</small>
 
 **5. Kobe Brown — "my teammates were saying to me, 'Keep shooting it, no matter if it makes or misses.'" — Kobe Brown on maintaining confidence despite early shooting struggles** [03:37](https://www.youtube.com/watch?v=PoJviv7SlZM&t=217s)
 
@@ -42,7 +42,7 @@ Kobe Brown: "My teammates were saying to me, 'Keep shooting it, no matter if it 
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=217s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=217s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=217&q=5)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=217&q=5) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=217&q=5&slack=1)</small>
 
 **6. Kobe Brown — "they want to see other people succeed and that's what it's been throughout the whole summer." — Kobe Brown on the team's supportive culture and collective success** [04:36](https://www.youtube.com/watch?v=PoJviv7SlZM&t=276s)
 
@@ -50,7 +50,7 @@ Kobe Brown: "They're great, they're all great teammates, great people, and they 
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=276s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=276s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=276&q=6)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=276&q=6) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=276&q=6&slack=1)</small>
 
 **7. Amir Coffey — "this is a new system for me, a new team, a lot of new faces." — Amir Coffey on adjusting to a new system and team environment** [06:46](https://www.youtube.com/watch?v=PoJviv7SlZM&t=406s)
 
@@ -58,7 +58,7 @@ Amir Coffey: "This is a new system for me, a new team, a lot of new faces, coach
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=406s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=406s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=406&q=7)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=406&q=7) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=406&q=7&slack=1)</small>
 
 **8. Amir Coffey — "they've been communicating, I've been communicating with them, how much they want me to be aggressive." — Amir Coffey on his role and coaching staff's expectations for aggression** [08:34](https://www.youtube.com/watch?v=PoJviv7SlZM&t=514s)
 
@@ -66,7 +66,7 @@ Amir Coffey: "With the new team and **Tyronn Lue**, the coaching stuff, they've 
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=514s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=514s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=514&q=8)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=514&q=8) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=514&q=8&slack=1)</small>
 
 **9. Amir Coffey — "this is my eighth year, I've been in the playoffs many times." — Amir Coffey on utilizing his veteran experience with the Clippers** [09:24](https://www.youtube.com/watch?v=PoJviv7SlZM&t=564s)
 
@@ -74,7 +74,7 @@ Amir Coffey: "This is my eighth year, I've been in the playoffs many times and t
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=564s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=564s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=564&q=9)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=564&q=9) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=564&q=9&slack=1)</small>
 
 **10. Amir Coffey — "I like the how we both move the ball, you know, quick." — Amir Coffey on the team's fast-paced offensive system** [10:04](https://www.youtube.com/watch?v=PoJviv7SlZM&t=604s)
 
@@ -82,4 +82,4 @@ Amir Coffey: "I like the how we both move the ball, you know, quick. Especially 
 
 [https://www.youtube.com/watch?v=PoJviv7SlZM&t=604s](https://www.youtube.com/watch?v=PoJviv7SlZM&t=604s)
 
-<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=604&q=10)</small>
+<small>[Clip it](presserclips://clip?v=PoJviv7SlZM&t=604&q=10) · [Send to Slack](presserclips://clip?v=PoJviv7SlZM&t=604&q=10&slack=1)</small>

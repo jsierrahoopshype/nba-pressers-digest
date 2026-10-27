@@ -10,7 +10,7 @@ Micah Nori: "They provided a lot of challenges. Number one, they had a very nice
 
 [https://www.youtube.com/watch?v=E_ko9rxuLks&t=6s](https://www.youtube.com/watch?v=E_ko9rxuLks&t=6s)
 
-<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=6&q=1) · [Send to Slack](presserclips://clip?v=E_ko9rxuLks&t=6&q=1&slack=1)</small>
 
 **2. Micah Nori — "I envision Scoot being a Portland Trail Blazer for a long time" — Micah Nori on Scoot Henderson's future with the Trail Blazers** [01:06](https://www.youtube.com/watch?v=E_ko9rxuLks&t=66s)
 
@@ -18,7 +18,7 @@ Micah Nori: "At the end of the day, **Scoot** knows we love him. **Scoot** knows
 
 [https://www.youtube.com/watch?v=E_ko9rxuLks&t=66s](https://www.youtube.com/watch?v=E_ko9rxuLks&t=66s)
 
-<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=66&q=2)</small>
+<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=66&q=2) · [Send to Slack](presserclips://clip?v=E_ko9rxuLks&t=66&q=2&slack=1)</small>
 
 **3. Micah Nori — "Scoot is a better person than he is even a player" — Micah Nori on Scoot Henderson's character and professional demeanor** [01:48](https://www.youtube.com/watch?v=E_ko9rxuLks&t=108s)
 
@@ -26,7 +26,7 @@ Micah Nori: "**Scoot** is phenomenal. **Scoot** said his whole life, even when h
 
 [https://www.youtube.com/watch?v=E_ko9rxuLks&t=108s](https://www.youtube.com/watch?v=E_ko9rxuLks&t=108s)
 
-<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=108&q=3)</small>
+<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=108&q=3) · [Send to Slack](presserclips://clip?v=E_ko9rxuLks&t=108&q=3&slack=1)</small>
 
 **4. Micah Nori — "when he does play, the game changes and it changes the flow going into the floor" — Micah Nori on Scoot Henderson's impact on the floor** [03:08](https://www.youtube.com/watch?v=E_ko9rxuLks&t=188s)
 
@@ -34,4 +34,4 @@ Micah Nori: "I obviously knew about him just through the draft processes and all
 
 [https://www.youtube.com/watch?v=E_ko9rxuLks&t=188s](https://www.youtube.com/watch?v=E_ko9rxuLks&t=188s)
 
-<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=188&q=4)</small>
+<small>[Clip it](presserclips://clip?v=E_ko9rxuLks&t=188&q=4) · [Send to Slack](presserclips://clip?v=E_ko9rxuLks&t=188&q=4&slack=1)</small>

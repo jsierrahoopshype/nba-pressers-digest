@@ -10,7 +10,7 @@ Jordan Ott: "You could just feel it building. I really felt in the third quarter
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=17s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=17s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=17&q=1) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=17&q=1&slack=1)</small>
 
 **2. Jordan Ott — "He plays such an overall great floor game every single night." — Colin Gillespie's floor game and shooting ability** [00:58](https://www.youtube.com/watch?v=9IZnZu_oM48&t=58s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "He plays such an overall great floor game every single night. Then 
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=58s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=58s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=58&q=2) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=58&q=2&slack=1)</small>
 
 **3. Jordan Ott — "It's all connected. The end of defensive possession into the offense." — Defensive rebounding and transition offense connection** [01:40](https://www.youtube.com/watch?v=9IZnZu_oM48&t=100s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "It's all connected. The end of defensive possession into the offens
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=100s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=100s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=100&q=3)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=100&q=3) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=100&q=3&slack=1)</small>
 
 **4. Jordan Ott — "He just hasn't played in a while, so we're going to be smart with that." — Managing Luke Kennard's return to the court** [02:44](https://www.youtube.com/watch?v=9IZnZu_oM48&t=164s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "He just hasn't played in a while, so we're going to be smart with t
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=164s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=164s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=164&q=4)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=164&q=4) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=164&q=4&slack=1)</small>
 
 **5. Jordan Ott — "The glass. I mean, I think that's a big key." — First-half frustrations regarding rebounding and rhythm** [03:08](https://www.youtube.com/watch?v=9IZnZu_oM48&t=188s)
 
@@ -42,7 +42,7 @@ Jordan Ott: "The glass. I mean, I think that's a big key. The glass and then we 
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=188s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=188s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=188&q=5)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=188&q=5) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=188&q=5&slack=1)</small>
 
 **6. Jordan Ott — "They're one of the best at doing it. They obviously have done it for a handful of years." — Defensive breakdowns and the challenge of modern offensive schemes** [03:39](https://www.youtube.com/watch?v=9IZnZu_oM48&t=219s)
 
@@ -50,7 +50,7 @@ Jordan Ott: "They're one of the best at doing it. They obviously have done it fo
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=219s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=219s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=219&q=6)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=219&q=6) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=219&q=6&slack=1)</small>
 
 **7. Jordan Ott — "We originally planned to try to get two bigs on the floor at one time." — Adjusting to injuries and small-ball lineups** [04:52](https://www.youtube.com/watch?v=9IZnZu_oM48&t=292s)
 
@@ -58,7 +58,7 @@ Jordan Ott: "We originally planned to try to get two bigs on the floor at one ti
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=292s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=292s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=292&q=7)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=292&q=7) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=292&q=7&slack=1)</small>
 
 **8. Jordan Ott — "Man-Man's ability to space the floor is there." — Man-Man's role in spacing the floor** [06:05](https://www.youtube.com/watch?v=9IZnZu_oM48&t=365s)
 
@@ -66,7 +66,7 @@ Jordan Ott: "**Man-Man**'s ability to space the floor is there. When he gets the
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=365s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=365s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=365&q=8)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=365&q=8) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=365&q=8&slack=1)</small>
 
 **9. Jordan Ott — "He's only going to continue to get better." — Man-Man's resilience and ongoing development** [07:12](https://www.youtube.com/watch?v=9IZnZu_oM48&t=432s)
 
@@ -74,4 +74,4 @@ Jordan Ott: "First off, just the resilience to just keep coming back to work, yo
 
 [https://www.youtube.com/watch?v=9IZnZu_oM48&t=432s](https://www.youtube.com/watch?v=9IZnZu_oM48&t=432s)
 
-<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=432&q=9)</small>
+<small>[Clip it](presserclips://clip?v=9IZnZu_oM48&t=432&q=9) · [Send to Slack](presserclips://clip?v=9IZnZu_oM48&t=432&q=9&slack=1)</small>

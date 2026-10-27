@@ -10,7 +10,7 @@ Taylor Jenkins: "It just felt like it was one of those games where it was **Joel
 
 [https://www.youtube.com/watch?v=F_X8tee3KCY&t=0s](https://www.youtube.com/watch?v=F_X8tee3KCY&t=0s)
 
-<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=0&q=1) · [Send to Slack](presserclips://clip?v=F_X8tee3KCY&t=0&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "We had tremendous effort, 48 minutes, obviously didn't make the plays down the stretch." — Taylor Jenkins praises team's competitive effort despite the 16-point deficit** [00:27](https://www.youtube.com/watch?v=F_X8tee3KCY&t=27s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "We had tremendous effort, 48 minutes, obviously didn't make the
 
 [https://www.youtube.com/watch?v=F_X8tee3KCY&t=27s](https://www.youtube.com/watch?v=F_X8tee3KCY&t=27s)
 
-<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=27&q=2)</small>
+<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=27&q=2) · [Send to Slack](presserclips://clip?v=F_X8tee3KCY&t=27&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "We prioritized getting to the paint, big stark difference when we touch the paint." — Taylor Jenkins discusses the team's offensive process and shot selection** [01:27](https://www.youtube.com/watch?v=F_X8tee3KCY&t=87s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "We prioritized getting to the paint, big stark difference when 
 
 [https://www.youtube.com/watch?v=F_X8tee3KCY&t=87s](https://www.youtube.com/watch?v=F_X8tee3KCY&t=87s)
 
-<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=87&q=3)</small>
+<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=87&q=3) · [Send to Slack](presserclips://clip?v=F_X8tee3KCY&t=87&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "Great environment for Nate to get his first opportunity. I thought he was having a heck of a summer." — Taylor Jenkins on Nate's debut and his development needs** [02:15](https://www.youtube.com/watch?v=F_X8tee3KCY&t=135s)
 
@@ -34,4 +34,4 @@ Taylor Jenkins: "Great environment for **Nate** to get his first opportunity. I 
 
 [https://www.youtube.com/watch?v=F_X8tee3KCY&t=135s](https://www.youtube.com/watch?v=F_X8tee3KCY&t=135s)
 
-<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=135&q=4)</small>
+<small>[Clip it](presserclips://clip?v=F_X8tee3KCY&t=135&q=4) · [Send to Slack](presserclips://clip?v=F_X8tee3KCY&t=135&q=4&slack=1)</small>

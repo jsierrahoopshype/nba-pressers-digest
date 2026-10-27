@@ -12,7 +12,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=FQvR9d3RU3w&t=107s](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=107s)
 
-<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=107&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=107&q=1) · [Send to Slack](presserclips://clip?v=FQvR9d3RU3w&t=107&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "When we talk about it being bigger than the game of basketball, that's real." — Jamahl Mosley on the team's reaction to Eve's injury** [02:16](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=136s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=FQvR9d3RU3w&t=136s](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=136s)
 
-<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=136&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=136&q=2) · [Send to Slack](presserclips://clip?v=FQvR9d3RU3w&t=136&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "It's by committee, and I think that's what is so big about this group." — Jamahl Mosley on the team's committee approach to replacing Eve** [02:52](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=172s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=FQvR9d3RU3w&t=172s](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=172s)
 
-<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=172&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=172&q=3) · [Send to Slack](presserclips://clip?v=FQvR9d3RU3w&t=172&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "He's a long-time official scorer that and he finds ways will get the job done." — Jamahl Mosley on DeMar DeRozan's impact on the Nuggets** [03:49](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=229s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=FQvR9d3RU3w&t=229s](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=229s)
 
-<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=229&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=229&q=4) · [Send to Slack](presserclips://clip?v=FQvR9d3RU3w&t=229&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "Offensively, I really think it's the pace in which you playing, get the ball over half court." — Jamahl Mosley defines what makes a good basketball possession** [04:27](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=267s)
 
@@ -52,7 +52,7 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=FQvR9d3RU3w&t=267s](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=267s)
 
-<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=267&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=267&q=5) · [Send to Slack](presserclips://clip?v=FQvR9d3RU3w&t=267&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "There's a big difference, and we showed the film this morning and we talked about the things." — Jamahl Mosley on the importance of a 'must-win' mentality** [06:04](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=364s)
 
@@ -62,4 +62,4 @@ _Speakers identified: Jamahl Mosley_
 
 [https://www.youtube.com/watch?v=FQvR9d3RU3w&t=364s](https://www.youtube.com/watch?v=FQvR9d3RU3w&t=364s)
 
-<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=364&q=6)</small>
+<small>[Clip it](presserclips://clip?v=FQvR9d3RU3w&t=364&q=6) · [Send to Slack](presserclips://clip?v=FQvR9d3RU3w&t=364&q=6&slack=1)</small>

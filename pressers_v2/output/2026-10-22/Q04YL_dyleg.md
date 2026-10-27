@@ -10,7 +10,7 @@ Damian Lillard: "It was a lot of love, you know. The fans showed a lot of love. 
 
 [https://www.youtube.com/watch?v=Q04YL_dyleg&t=10s](https://www.youtube.com/watch?v=Q04YL_dyleg&t=10s)
 
-<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=10&q=1) · [Send to Slack](presserclips://clip?v=Q04YL_dyleg&t=10&q=1&slack=1)</small>
 
 **2. Damian Lillard — "coming back off a major injury, getting back healthy and making it to this day" — Damian Lillard on returning from injury and embracing his team** [00:38](https://www.youtube.com/watch?v=Q04YL_dyleg&t=38s)
 
@@ -18,7 +18,7 @@ Damian Lillard: "It felt different just because it is a different time. I have h
 
 [https://www.youtube.com/watch?v=Q04YL_dyleg&t=38s](https://www.youtube.com/watch?v=Q04YL_dyleg&t=38s)
 
-<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=38&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=38&q=2) · [Send to Slack](presserclips://clip?v=Q04YL_dyleg&t=38&q=2&slack=1)</small>
 
 **3. Damian Lillard — "I saw a lot of build up type stuff around me coming back and countdowns" — Damian Lillard on his approach to the season's expectations** [01:30](https://www.youtube.com/watch?v=Q04YL_dyleg&t=90s)
 
@@ -26,7 +26,7 @@ Damian Lillard: "I saw a lot of build up type stuff around me coming back and co
 
 [https://www.youtube.com/watch?v=Q04YL_dyleg&t=90s](https://www.youtube.com/watch?v=Q04YL_dyleg&t=90s)
 
-<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=90&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=90&q=3) · [Send to Slack](presserclips://clip?v=Q04YL_dyleg&t=90&q=3&slack=1)</small>
 
 **4. Damian Lillard — "I take a lot of pride in knowing that I am the person that people will see" — Damian Lillard on representing his family and community** [03:33](https://www.youtube.com/watch?v=Q04YL_dyleg&t=213s)
 
@@ -34,7 +34,7 @@ Damian Lillard: "Over the course of my career, one thing that I have always refe
 
 [https://www.youtube.com/watch?v=Q04YL_dyleg&t=213s](https://www.youtube.com/watch?v=Q04YL_dyleg&t=213s)
 
-<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=213&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=213&q=4) · [Send to Slack](presserclips://clip?v=Q04YL_dyleg&t=213&q=4&slack=1)</small>
 
 **5. Damian Lillard — "part of setting the tone is understanding that it is going to be collective" — Damian Lillard on the importance of collective team effort** [05:32](https://www.youtube.com/watch?v=Q04YL_dyleg&t=332s)
 
@@ -42,7 +42,7 @@ Damian Lillard: "Part of setting the tone is understanding that it is going to b
 
 [https://www.youtube.com/watch?v=Q04YL_dyleg&t=332s](https://www.youtube.com/watch?v=Q04YL_dyleg&t=332s)
 
-<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=332&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=332&q=5) · [Send to Slack](presserclips://clip?v=Q04YL_dyleg&t=332&q=5&slack=1)</small>
 
 **6. Damian Lillard — "I think I am in a more seasoned stage of my career" — Damian Lillard on his current stage of his NBA career** [07:55](https://www.youtube.com/watch?v=Q04YL_dyleg&t=475s)
 
@@ -50,7 +50,7 @@ Damian Lillard: "I think I am in a more seasoned stage of my career. I would say
 
 [https://www.youtube.com/watch?v=Q04YL_dyleg&t=475s](https://www.youtube.com/watch?v=Q04YL_dyleg&t=475s)
 
-<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=475&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=475&q=6) · [Send to Slack](presserclips://clip?v=Q04YL_dyleg&t=475&q=6&slack=1)</small>
 
 **7. Damian Lillard — "Coach Micah getting this opportunity, his first opportunity as a head coach, it has been a long time" — Damian Lillard on Coach Micah's first head coaching opportunity** [09:02](https://www.youtube.com/watch?v=Q04YL_dyleg&t=542s)
 
@@ -58,4 +58,4 @@ Damian Lillard: "Coach **Micah** getting this opportunity, his first opportunity
 
 [https://www.youtube.com/watch?v=Q04YL_dyleg&t=542s](https://www.youtube.com/watch?v=Q04YL_dyleg&t=542s)
 
-<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=542&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Q04YL_dyleg&t=542&q=7) · [Send to Slack](presserclips://clip?v=Q04YL_dyleg&t=542&q=7&slack=1)</small>

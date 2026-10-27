@@ -10,7 +10,7 @@ Tyronn Lue: "We are a smaller team. We are definitely a smaller team in height a
 
 [https://www.youtube.com/watch?v=CsuRUASq1GM&t=79s](https://www.youtube.com/watch?v=CsuRUASq1GM&t=79s)
 
-<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=79&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=79&q=1) · [Send to Slack](presserclips://clip?v=CsuRUASq1GM&t=79&q=1&slack=1)</small>
 
 **2. Kai Jones — "Everybody say that we underdog in everything right now but we have the mindset" — Kai Jones believes the Clippers have the right mindset to overcome underdog status.** [06:53](https://www.youtube.com/watch?v=CsuRUASq1GM&t=413s)
 
@@ -18,7 +18,7 @@ Kai Jones: "Everybody say that we underdog in everything right now but we have t
 
 [https://www.youtube.com/watch?v=CsuRUASq1GM&t=413s](https://www.youtube.com/watch?v=CsuRUASq1GM&t=413s)
 
-<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=413&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=413&q=2) · [Send to Slack](presserclips://clip?v=CsuRUASq1GM&t=413&q=2&slack=1)</small>
 
 **3. Terance Mann — "One thing I learned about Keaton that he processes things very fast." — Terance Mann praises Keaton for his high basketball IQ and fast processing speed.** [11:28](https://www.youtube.com/watch?v=CsuRUASq1GM&t=688s)
 
@@ -26,4 +26,4 @@ Terance Mann: "One thing I learned about **Keaton** that he processes things ver
 
 [https://www.youtube.com/watch?v=CsuRUASq1GM&t=688s](https://www.youtube.com/watch?v=CsuRUASq1GM&t=688s)
 
-<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=688&q=3)</small>
+<small>[Clip it](presserclips://clip?v=CsuRUASq1GM&t=688&q=3) · [Send to Slack](presserclips://clip?v=CsuRUASq1GM&t=688&q=3&slack=1)</small>

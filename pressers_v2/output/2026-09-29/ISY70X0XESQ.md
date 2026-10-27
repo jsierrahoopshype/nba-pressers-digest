@@ -10,7 +10,7 @@ Jalen Green: "I think just the pacing and just being able to read the game a lit
 
 [https://www.youtube.com/watch?v=ISY70X0XESQ&t=107s](https://www.youtube.com/watch?v=ISY70X0XESQ&t=107s)
 
-<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=107&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=107&q=1) · [Send to Slack](presserclips://clip?v=ISY70X0XESQ&t=107&q=1&slack=1)</small>
 
 **2. Jalen Green — Jalen Green expects his partnership with Devin Booker to create more scoring opportunities.** [03:57](https://www.youtube.com/watch?v=ISY70X0XESQ&t=237s)
 
@@ -18,7 +18,7 @@ Jalen Green: "He brings a lot of attention and I feel like I bring a lot of atte
 
 [https://www.youtube.com/watch?v=ISY70X0XESQ&t=237s](https://www.youtube.com/watch?v=ISY70X0XESQ&t=237s)
 
-<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=237&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=237&q=2) · [Send to Slack](presserclips://clip?v=ISY70X0XESQ&t=237&q=2&slack=1)</small>
 
 **3. Jalen Green — Jalen Green praises his teammate for his work ethic and continued development.** [07:00](https://www.youtube.com/watch?v=ISY70X0XESQ&t=420s)
 
@@ -26,4 +26,4 @@ Jalen Green: "You seen a little bit of sheer last year. Just him coming in getti
 
 [https://www.youtube.com/watch?v=ISY70X0XESQ&t=420s](https://www.youtube.com/watch?v=ISY70X0XESQ&t=420s)
 
-<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=420&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=420&q=3) · [Send to Slack](presserclips://clip?v=ISY70X0XESQ&t=420&q=3&slack=1)</small>

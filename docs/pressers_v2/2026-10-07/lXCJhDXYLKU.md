@@ -10,7 +10,7 @@ Coach Adelman: "It was better. It wasn't perfect by any means, but much better. 
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=2s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=2s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=2&q=1)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=2&q=1) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=2&q=1&slack=1)</small>
 
 **2. Coach Adelman — "His gift of picking up the ball and defending is obvious. So really proud of him." — Coach Adelman praises Marvin Bagley III's debut performance and defensive effort** [00:33](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=33s)
 
@@ -18,7 +18,7 @@ Coach Adelman: "He was awesome. He was great tonight. You have to survive in thi
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=33s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=33s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=33&q=2) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=33&q=2&slack=1)</small>
 
 **3. Coach Adelman — "It was just good to see them making the right play for each other." — Coach Adelman on Jamal Murray's impact on offensive flow and execution** [01:02](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=62s)
 
@@ -26,7 +26,7 @@ Coach Adelman: "Last game without Jamal and this game with him, I thought the lo
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=62s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=62s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=62&q=3)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=62&q=3) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=62&q=3&slack=1)</small>
 
 **4. Coach Adelman — "Alpha stood out. He guarded their best players. He did things other guys weren't doing tonight." — Coach Adelman highlights Alpha's defensive contributions and competitive spirit** [02:34](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=154s)
 
@@ -34,7 +34,7 @@ Coach Adelman: "I'd say **Alpha**. **Alpha** stood out. He guarded their best pl
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=154s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=154s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=154&q=4)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=154&q=4) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=154&q=4&slack=1)</small>
 
 **5. Marvin Bagley III — "First of all, I just want to thank Jesus. Without him, I wouldn't be here." — Marvin Bagley III on his aggressive approach and team chemistry** [03:00](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=180s)
 
@@ -42,7 +42,7 @@ Marvin Bagley III: "First of all, I just want to thank **Jesus**. Without him, I
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=180s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=180s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=180&q=5)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=180&q=5) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=180&q=5&slack=1)</small>
 
 **6. Marvin Bagley III — "I've been talking to AG a lot about just the system, how things are done here." — Marvin Bagley III on learning the Nuggets' system from AG** [03:37](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=217s)
 
@@ -50,7 +50,7 @@ Marvin Bagley III: "I've been talking to **AG** a lot about just the system, how
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=217s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=217s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=217&q=6)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=217&q=6) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=217&q=6&slack=1)</small>
 
 **7. Marvin Bagley III — "I work on that in the summertime, making plays out of the top of the key." — Marvin Bagley III on developing his playmaking from the top of the key** [04:18](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=258s)
 
@@ -58,7 +58,7 @@ Marvin Bagley III: "I love it. I work on that in the summertime, making plays ou
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=258s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=258s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=258&q=7)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=258&q=7) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=258&q=7&slack=1)</small>
 
 **8. Aaron Gordon — "I think we're still lacking on defensive bit. Stuff slow, not quite in the right positions." — Aaron Gordon on defensive focus and individual responsibility** [05:18](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=318s)
 
@@ -66,7 +66,7 @@ Aaron Gordon: "I feel good. I think we're still lacking on defensive bit. Stuff 
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=318s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=318s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=318&q=8)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=318&q=8) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=318&q=8&slack=1)</small>
 
 **9. Aaron Gordon — "Our offense is second to none, I believe. Defensively, we got to pick it up." — Aaron Gordon on preseason chemistry and defensive improvement** [05:32](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=332s)
 
@@ -74,7 +74,7 @@ Aaron Gordon: "This is what preseason is for, ironing out some things, knocking 
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=332s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=332s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=332&q=9)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=332&q=9) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=332&q=9&slack=1)</small>
 
 **10. Aaron Gordon — "Marvin's killing. He's been killing all camp, he's been killing all summer." — Aaron Gordon on Marvin Bagley III's performance and team fit** [06:35](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=395s)
 
@@ -82,7 +82,7 @@ Aaron Gordon: "Marvin's killing. He's been killing all camp, he's been killing a
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=395s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=395s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=395&q=10)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=395&q=10) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=395&q=10&slack=1)</small>
 
 **11. Julian Strawther — "Right now, it's just focused on getting acclimated, playing with the guys." — Julian Strawther on adjusting to the team and getting acclimated** [06:54](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=414s)
 
@@ -90,7 +90,7 @@ Julian Strawther: "I felt pretty good, but right now, it's just focused on getti
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=414s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=414s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=414&q=11)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=414&q=11) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=414&q=11&slack=1)</small>
 
 **12. Julian Strawther — "Just how new it is, all the guys, the system, the plays, everything." — Julian Strawther on the challenge of learning a new system** [07:11](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=431s)
 
@@ -98,7 +98,7 @@ Julian Strawther: "Just how new it is, all the guys, the system, the plays, ever
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=431s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=431s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=431&q=12)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=431&q=12) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=431&q=12&slack=1)</small>
 
 **13. Julian Strawther — "We got a lot of like-minded guys in the locker room. It's easy to play with each other." — Julian Strawther on team chemistry and locker room dynamics** [07:26](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=446s)
 
@@ -106,7 +106,7 @@ Julian Strawther: "We got a lot of like-minded guys in the locker room. It's eas
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=446s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=446s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=446&q=13)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=446&q=13) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=446&q=13&slack=1)</small>
 
 **14. Julian Strawther — "That week in Boulder was big time for us, being around each other." — Julian Strawther on the importance of road trips for team bonding** [07:43](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=463s)
 
@@ -114,4 +114,4 @@ Julian Strawther: "That week in Boulder was big time for us, being around each o
 
 [https://www.youtube.com/watch?v=lXCJhDXYLKU&t=463s](https://www.youtube.com/watch?v=lXCJhDXYLKU&t=463s)
 
-<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=463&q=14)</small>
+<small>[Clip it](presserclips://clip?v=lXCJhDXYLKU&t=463&q=14) · [Send to Slack](presserclips://clip?v=lXCJhDXYLKU&t=463&q=14&slack=1)</small>

@@ -10,7 +10,7 @@ Kennedy Chandler: "Just them giving me opportunity. I know there was only like 1
 
 [https://www.youtube.com/watch?v=CyjwVRuMLXo&t=22s](https://www.youtube.com/watch?v=CyjwVRuMLXo&t=22s)
 
-<small>[Clip it](presserclips://clip?v=CyjwVRuMLXo&t=22&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CyjwVRuMLXo&t=22&q=1) · [Send to Slack](presserclips://clip?v=CyjwVRuMLXo&t=22&q=1&slack=1)</small>
 
 **2. Kennedy Chandler — "I want them to see like them last 10 games that I had with Utah wasn't just a surprise." — Kennedy Chandler aims to prove his late-season performance with Utah was not a fluke.** [00:58](https://www.youtube.com/watch?v=CyjwVRuMLXo&t=58s)
 
@@ -18,4 +18,4 @@ Kennedy Chandler: "Ever since I have been here it has been good vibes. The chemi
 
 [https://www.youtube.com/watch?v=CyjwVRuMLXo&t=58s](https://www.youtube.com/watch?v=CyjwVRuMLXo&t=58s)
 
-<small>[Clip it](presserclips://clip?v=CyjwVRuMLXo&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CyjwVRuMLXo&t=58&q=2) · [Send to Slack](presserclips://clip?v=CyjwVRuMLXo&t=58&q=2&slack=1)</small>

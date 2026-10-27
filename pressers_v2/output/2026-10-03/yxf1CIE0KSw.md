@@ -10,7 +10,7 @@ Khaman Maluach: "It's been great so far. We got a couple new players, we getting
 
 [https://www.youtube.com/watch?v=yxf1CIE0KSw&t=0s](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=0s)
 
-<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=0&q=1) · [Send to Slack](presserclips://clip?v=yxf1CIE0KSw&t=0&q=1&slack=1)</small>
 
 **2. Khaman Maluach — "It's not guaranteed for any of us to start and it don't really matter." — Khaman Maluach on roster competition and team-first mentality** [00:20](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=20s)
 
@@ -18,7 +18,7 @@ Khaman Maluach: "It's going great because we both getting each other better. It'
 
 [https://www.youtube.com/watch?v=yxf1CIE0KSw&t=20s](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=20s)
 
-<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=20&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=20&q=2) · [Send to Slack](presserclips://clip?v=yxf1CIE0KSw&t=20&q=2&slack=1)</small>
 
 **3. Khaman Maluach — "We have a nice young core, so it's been great to see everybody's development." — Khaman Maluach on the development of the Suns' young core** [01:08](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=68s)
 
@@ -26,7 +26,7 @@ Khaman Maluach: "It's just how we've gotten better from time to time, especially
 
 [https://www.youtube.com/watch?v=yxf1CIE0KSw&t=68s](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=68s)
 
-<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=68&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=68&q=3) · [Send to Slack](presserclips://clip?v=yxf1CIE0KSw&t=68&q=3&slack=1)</small>
 
 **4. Khaman Maluach — "My body has changed, credit to our strength and conditioning team." — Khaman Maluach on physical growth and strength training benefits** [01:34](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=94s)
 
@@ -34,7 +34,7 @@ Khaman Maluach: "The game has slowed down a little bit for me. My body has chang
 
 [https://www.youtube.com/watch?v=yxf1CIE0KSw&t=94s](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=94s)
 
-<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=94&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=94&q=4) · [Send to Slack](presserclips://clip?v=yxf1CIE0KSw&t=94&q=4&slack=1)</small>
 
 **5. Khaman Maluach — "The other rookies who were there with me last year and me too, we got to help." — Khaman Maluach on mentoring rookie teammate** [02:11](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=131s)
 
@@ -42,7 +42,7 @@ Khaman Maluach: "Me and my rookie year was easier because I had **Rasheed**, I h
 
 [https://www.youtube.com/watch?v=yxf1CIE0KSw&t=131s](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=131s)
 
-<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=131&q=5)</small>
+<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=131&q=5) · [Send to Slack](presserclips://clip?v=yxf1CIE0KSw&t=131&q=5&slack=1)</small>
 
 **6. Khaman Maluach — "It's really good, really great to represent Africa that we have people from different countries." — Khaman Maluach on representing Africa in the NBA** [03:11](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=191s)
 
@@ -50,7 +50,7 @@ Khaman Maluach: "It's really good, really great to represent Africa that we have
 
 [https://www.youtube.com/watch?v=yxf1CIE0KSw&t=191s](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=191s)
 
-<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=191&q=6)</small>
+<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=191&q=6) · [Send to Slack](presserclips://clip?v=yxf1CIE0KSw&t=191&q=6&slack=1)</small>
 
 **7. Khaman Maluach — "The Suns really welcomed me when I came here as an 18-year-old." — Khaman Maluach on his transition to the NBA** [03:51](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=231s)
 
@@ -58,4 +58,4 @@ Khaman Maluach: "It's been great for me. The Suns really welcomed me when I came
 
 [https://www.youtube.com/watch?v=yxf1CIE0KSw&t=231s](https://www.youtube.com/watch?v=yxf1CIE0KSw&t=231s)
 
-<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=231&q=7)</small>
+<small>[Clip it](presserclips://clip?v=yxf1CIE0KSw&t=231&q=7) · [Send to Slack](presserclips://clip?v=yxf1CIE0KSw&t=231&q=7&slack=1)</small>

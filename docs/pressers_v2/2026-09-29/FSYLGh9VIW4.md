@@ -10,7 +10,7 @@ Unidentified speaker: "Last season we talked about actually when we were here ar
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=202s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=202s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=202&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=202&q=1) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=202&q=1&slack=1)</small>
 
 **2. Unidentified speaker — Unidentified speaker explains why he wanted to join the Phoenix Suns** [1:00:01](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3601s)
 
@@ -18,7 +18,7 @@ Unidentified speaker: "I remember playing against them and I am like this team i
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3601s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3601s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3601&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3601&q=2) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3601&q=2&slack=1)</small>
 
 **3. Unidentified speaker — Unidentified speaker credits the front office and coaching staff for their work in player development and retention.** [05:10](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=310s)
 
@@ -26,7 +26,7 @@ Unidentified speaker: "They worked their butts off to get us better. And the way
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=310s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=310s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=310&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=310&q=3) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=310&q=3&slack=1)</small>
 
 **4. Unidentified speaker — Unidentified speaker defines the Suns way as a unique set of standards** [1:04:00](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3840s)
 
@@ -34,7 +34,7 @@ Unidentified speaker: "The Suns way is just the way we do things. We do things d
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3840s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3840s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3840&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3840&q=4) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3840&q=4&slack=1)</small>
 
 **5. Unidentified speaker — Unidentified speaker says Steve Nash personally mentored him during his summer workouts.** [36:35](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=2195s)
 
@@ -42,7 +42,7 @@ Unidentified speaker: "I was in there with Steve. Steve sat down and stayed with
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=2195s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=2195s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=2195&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=2195&q=5) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=2195&q=5&slack=1)</small>
 
 **6. Unidentified speaker — Unidentified speaker explains the team's offseason roster moves** [1:05:11](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3911s)
 
@@ -50,7 +50,7 @@ Unidentified speaker: "We were we felt like there was an opportunity for athleti
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3911s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3911s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3911&q=6)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3911&q=6) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3911&q=6&slack=1)</small>
 
 **7. Unidentified speaker — Unidentified speaker says he is adjusting well to life in Phoenix after his trade.** [1:05:02](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3902s)
 
@@ -58,7 +58,7 @@ Unidentified speaker: "The city has been greeting me very well. It's easier to g
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3902s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3902s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3902&q=7)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3902&q=7) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3902&q=7&slack=1)</small>
 
 **8. Unidentified speaker — Unidentified speaker emphasizes the importance of depth in the modern NBA** [1:07:29](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4049s)
 
@@ -66,7 +66,7 @@ Unidentified speaker: "I think the NBA has transformed where play hard and the g
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4049s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4049s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4049&q=8)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4049&q=8) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4049&q=8&slack=1)</small>
 
 **9. Unidentified speaker — Unidentified speaker reflects on his decision to return to Michigan State instead of entering the NBA draft.** [1:08:25](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4105s)
 
@@ -74,7 +74,7 @@ Unidentified speaker: "I just thought I wasn't ready for the NBA. My mom wanted 
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4105s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4105s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4105&q=9)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4105&q=9) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4105&q=9&slack=1)</small>
 
 **10. Unidentified speaker — Unidentified speaker believes the new roster additions will fit in well** [1:12:03](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4323s)
 
@@ -82,7 +82,7 @@ Unidentified speaker: "I see it gelling really well. The competitiveness is all 
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4323s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4323s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4323&q=10)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4323&q=10) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4323&q=10&slack=1)</small>
 
 **11. Unidentified speaker — Unidentified speaker says his primary goal is winning as many games as possible.** [1:27:18](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5238s)
 
@@ -90,7 +90,7 @@ Unidentified speaker: "Just win as many games as possible. That's the state of m
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5238s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5238s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5238&q=11)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5238&q=11) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=5238&q=11&slack=1)</small>
 
 **12. Unidentified speaker — Unidentified speaker highlights the team's improved versatility and depth** [1:14:07](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4447s)
 
@@ -98,7 +98,7 @@ Unidentified speaker: "I think versatility for sure. You need as many tools and 
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4447s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4447s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4447&q=12)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4447&q=12) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4447&q=12&slack=1)</small>
 
 **13. Unidentified speaker — Unidentified speaker says he is feeling better than ever heading into training camp.** [1:30:16](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5416s)
 
@@ -106,4 +106,4 @@ Unidentified speaker: "The gym time's always consistent. I think I learn new thi
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5416s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5416s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5416&q=13)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5416&q=13) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=5416&q=13&slack=1)</small>

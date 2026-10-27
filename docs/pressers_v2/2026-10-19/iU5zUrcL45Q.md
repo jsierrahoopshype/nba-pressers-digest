@@ -10,7 +10,7 @@ Rick Carlisle: "He can play both positions. He played point well and he can play
 
 [https://www.youtube.com/watch?v=iU5zUrcL45Q&t=5s](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=5s)
 
-<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=5&q=1) · [Send to Slack](presserclips://clip?v=iU5zUrcL45Q&t=5&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "New Orleans presents a lot of difficult challenges with their high-level players." — Rick Carlisle on the challenge of playing New Orleans** [01:20](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=80s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "New Orleans presents a lot of difficult challenges with their hi
 
 [https://www.youtube.com/watch?v=iU5zUrcL45Q&t=80s](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=80s)
 
-<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=80&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=80&q=2) · [Send to Slack](presserclips://clip?v=iU5zUrcL45Q&t=80&q=2&slack=1)</small>
 
 **3. Andrew Nembhard — "The biggest thing that he helps us with is the defensive rebounds." — Andrew Nembhard on the defensive impact of the new center** [05:15](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=315s)
 
@@ -26,7 +26,7 @@ Andrew Nembhard: "We're just working on him getting up to touch. He's always bee
 
 [https://www.youtube.com/watch?v=iU5zUrcL45Q&t=315s](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=315s)
 
-<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=315&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=315&q=3) · [Send to Slack](presserclips://clip?v=iU5zUrcL45Q&t=315&q=3&slack=1)</small>
 
 **4. Quenton Jackson — "Get us in a flow, get us in offense, make sure everybody get touches." — Quenton Jackson on his role as a second-unit point guard** [07:42](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=462s)
 
@@ -34,7 +34,7 @@ Quenton Jackson: "Get us in a flow, get us in offense, make sure everybody get t
 
 [https://www.youtube.com/watch?v=iU5zUrcL45Q&t=462s](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=462s)
 
-<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=462&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=462&q=4) · [Send to Slack](presserclips://clip?v=iU5zUrcL45Q&t=462&q=4&slack=1)</small>
 
 **5. Larry Nance Jr. — "This team is all about process and speed." — Larry Nance Jr. on the team's focus on process and speed** [10:04](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=604s)
 
@@ -42,7 +42,7 @@ Larry Nance Jr.: "This team is all about process and speed. I think that's somet
 
 [https://www.youtube.com/watch?v=iU5zUrcL45Q&t=604s](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=604s)
 
-<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=604&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=604&q=5) · [Send to Slack](presserclips://clip?v=iU5zUrcL45Q&t=604&q=5&slack=1)</small>
 
 **6. Larry Nance Jr. — "I wouldn't say it's more so like specific team, but it's specific position." — Larry Nance Jr. on his positional versatility in the NBA** [10:32](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=632s)
 
@@ -50,7 +50,7 @@ Larry Nance Jr.: "I wouldn't say it's more so like specific team, but it's speci
 
 [https://www.youtube.com/watch?v=iU5zUrcL45Q&t=632s](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=632s)
 
-<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=632&q=6)</small>
+<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=632&q=6) · [Send to Slack](presserclips://clip?v=iU5zUrcL45Q&t=632&q=6&slack=1)</small>
 
 **7. Larry Nance Jr. — "A lot of places talk about culture, but this is a culture." — Larry Nance Jr. on the Pacers' organizational culture** [12:20](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=740s)
 
@@ -58,4 +58,4 @@ Larry Nance Jr.: "A lot of places talk about culture, but this is a culture. The
 
 [https://www.youtube.com/watch?v=iU5zUrcL45Q&t=740s](https://www.youtube.com/watch?v=iU5zUrcL45Q&t=740s)
 
-<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=740&q=7)</small>
+<small>[Clip it](presserclips://clip?v=iU5zUrcL45Q&t=740&q=7) · [Send to Slack](presserclips://clip?v=iU5zUrcL45Q&t=740&q=7&slack=1)</small>

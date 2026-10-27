@@ -10,7 +10,7 @@ Brian Keefe: "Tonight was our last preseason game. I was really pleased with our
 
 [https://www.youtube.com/watch?v=8gM5vw4dKp4&t=0s](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=0s)
 
-<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=0&q=1) · [Send to Slack](presserclips://clip?v=8gM5vw4dKp4&t=0&q=1&slack=1)</small>
 
 **2. Brian Keefe — "I liked how we came out in the third quarter and established how we wanted to play." — Brian Keefe assesses the team's performance against New Orleans** [00:38](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=38s)
 
@@ -18,7 +18,7 @@ Brian Keefe: "For them, New Orleans, a little bit of transition for them, but I 
 
 [https://www.youtube.com/watch?v=8gM5vw4dKp4&t=38s](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=38s)
 
-<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=38&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=38&q=2) · [Send to Slack](presserclips://clip?v=8gM5vw4dKp4&t=38&q=2&slack=1)</small>
 
 **3. Brian Keefe — "Great to see him back out there, always as plays, plays so solid, makes the right play." — Brian Keefe praises the return of a veteran player** [01:05](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=65s)
 
@@ -26,7 +26,7 @@ Brian Keefe: "Great to see him back out there, always as plays, plays so solid, 
 
 [https://www.youtube.com/watch?v=8gM5vw4dKp4&t=65s](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=65s)
 
-<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=65&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=65&q=3) · [Send to Slack](presserclips://clip?v=8gM5vw4dKp4&t=65&q=3&slack=1)</small>
 
 **4. Brian Keefe — "AJ's got an ankle sprain and we just took him out of the game for precaution." — Brian Keefe provides injury update on AJ** [01:30](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=90s)
 
@@ -34,7 +34,7 @@ Brian Keefe: "Probably should mention **AJ**. **AJ**'s got an ankle sprain and w
 
 [https://www.youtube.com/watch?v=8gM5vw4dKp4&t=90s](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=90s)
 
-<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=90&q=4)</small>
+<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=90&q=4) · [Send to Slack](presserclips://clip?v=8gM5vw4dKp4&t=90&q=4&slack=1)</small>
 
 **5. Brian Keefe — "You can see the physicality and size, the protecting the rim, the ability to rebound." — Brian Keefe discusses the development of the team's big men** [01:46](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=106s)
 
@@ -42,4 +42,4 @@ Brian Keefe: "You can see the physicality and size, the protecting the rim, the 
 
 [https://www.youtube.com/watch?v=8gM5vw4dKp4&t=106s](https://www.youtube.com/watch?v=8gM5vw4dKp4&t=106s)
 
-<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=106&q=5)</small>
+<small>[Clip it](presserclips://clip?v=8gM5vw4dKp4&t=106&q=5) · [Send to Slack](presserclips://clip?v=8gM5vw4dKp4&t=106&q=5&slack=1)</small>

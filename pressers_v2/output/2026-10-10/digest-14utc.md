@@ -14,7 +14,7 @@ Cormac Ryan: "It's been great. It's been great. We've had a really competitive c
 
 [https://www.youtube.com/watch?v=yBxSfvwjGF8&t=3s](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=3s)
 
-<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=3&q=1) · [Send to Slack](presserclips://clip?v=yBxSfvwjGF8&t=3&q=1&slack=1)</small>
 
 **2. Cormac Ryan — "I'm not too worried about what type of deal I'm on. I'm just worried about impacting winning." — Cormac Ryan on his commitment to winning regardless of contract** [00:59](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=59s)
 
@@ -22,7 +22,7 @@ Cormac Ryan: "For me, the hunger and the effort doesn't waver. I was unsigned la
 
 [https://www.youtube.com/watch?v=yBxSfvwjGF8&t=59s](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=59s)
 
-<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=59&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=59&q=2) · [Send to Slack](presserclips://clip?v=yBxSfvwjGF8&t=59&q=2&slack=1)</small>
 
 **3. Cormac Ryan — "I'm a guy who can really guard the ball and pick up and help us get stops." — Cormac Ryan on his role and impact on the Bucks** [01:30](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=90s)
 
@@ -30,7 +30,7 @@ Cormac Ryan: "For me, it starts with effort and energy, competitiveness, so comi
 
 [https://www.youtube.com/watch?v=yBxSfvwjGF8&t=90s](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=90s)
 
-<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=90&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=90&q=3) · [Send to Slack](presserclips://clip?v=yBxSfvwjGF8&t=90&q=3&slack=1)</small>
 
 **4. Cormac Ryan — "We've got guys at all different stages of their career. Everyone brings something different." — Cormac Ryan on the depth and chemistry of the Bucks** [02:12](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=132s)
 
@@ -38,7 +38,7 @@ Cormac Ryan: "It's great. We get to push each other every day. We've got guys at
 
 [https://www.youtube.com/watch?v=yBxSfvwjGF8&t=132s](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=132s)
 
-<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=132&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=132&q=4) · [Send to Slack](presserclips://clip?v=yBxSfvwjGF8&t=132&q=4&slack=1)</small>
 
 **5. Cormac Ryan — "It's a great test in the preseason to start executing in late-game situations." — Cormac Ryan on executing in late-game situations** [02:41](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=161s)
 
@@ -46,7 +46,7 @@ Cormac Ryan: "I think we were proud of the way we pulled out the win. That was a
 
 [https://www.youtube.com/watch?v=yBxSfvwjGF8&t=161s](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=161s)
 
-<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=161&q=5)</small>
+<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=161&q=5) · [Send to Slack](presserclips://clip?v=yBxSfvwjGF8&t=161&q=5&slack=1)</small>
 
 **6. Cormac Ryan — "We're hungry, we're competitive. I think we have a chip on our shoulder." — Cormac Ryan on the team's resilience and chemistry** [03:18](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=198s)
 
@@ -54,7 +54,7 @@ Cormac Ryan: "I think we just learned that we're hungry, we're competitive. I th
 
 [https://www.youtube.com/watch?v=yBxSfvwjGF8&t=198s](https://www.youtube.com/watch?v=yBxSfvwjGF8&t=198s)
 
-<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=198&q=6)</small>
+<small>[Clip it](presserclips://clip?v=yBxSfvwjGF8&t=198&q=6) · [Send to Slack](presserclips://clip?v=yBxSfvwjGF8&t=198&q=6&slack=1)</small>
 
 ---
 

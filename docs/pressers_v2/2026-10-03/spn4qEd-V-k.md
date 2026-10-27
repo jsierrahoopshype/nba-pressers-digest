@@ -10,7 +10,7 @@ Jordan Ott: "We talked about today, our competitive advantage is we have great d
 
 [https://www.youtube.com/watch?v=spn4qEd-V-k&t=46s](https://www.youtube.com/watch?v=spn4qEd-V-k&t=46s)
 
-<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=46&q=1) · [Send to Slack](presserclips://clip?v=spn4qEd-V-k&t=46&q=1&slack=1)</small>
 
 **2. Jordan Ott — "I think we have multiple options to guard some of those bigger wings" — Jordan Ott on Mikal Bridges' defensive versatility and physicality** [02:35](https://www.youtube.com/watch?v=spn4qEd-V-k&t=155s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "I think we have multiple options to guard some of those bigger wing
 
 [https://www.youtube.com/watch?v=spn4qEd-V-k&t=155s](https://www.youtube.com/watch?v=spn4qEd-V-k&t=155s)
 
-<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=155&q=2)</small>
+<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=155&q=2) · [Send to Slack](presserclips://clip?v=spn4qEd-V-k&t=155&q=2&slack=1)</small>
 
 **3. Jordan Ott — "he just has to know when to take that chance" — Jordan Ott on Rashir's defensive instincts and decision-making** [02:52](https://www.youtube.com/watch?v=spn4qEd-V-k&t=172s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "He just has to know when to take that chance. He knows some of the 
 
 [https://www.youtube.com/watch?v=spn4qEd-V-k&t=172s](https://www.youtube.com/watch?v=spn4qEd-V-k&t=172s)
 
-<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=172&q=3)</small>
+<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=172&q=3) · [Send to Slack](presserclips://clip?v=spn4qEd-V-k&t=172&q=3&slack=1)</small>
 
 **4. Jordan Ott — "there are very few movement shooters in the NBA. It feels like they are going away" — Jordan Ott on Luka Doncic's unique movement and playmaking abilities** [05:52](https://www.youtube.com/watch?v=spn4qEd-V-k&t=352s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "There are very few movement shooters in the NBA. It feels like they
 
 [https://www.youtube.com/watch?v=spn4qEd-V-k&t=352s](https://www.youtube.com/watch?v=spn4qEd-V-k&t=352s)
 
-<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=352&q=4)</small>
+<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=352&q=4) · [Send to Slack](presserclips://clip?v=spn4qEd-V-k&t=352&q=4&slack=1)</small>
 
 **5. Jordan Ott — "we will keep trying to make that a play after play to where we stay out of neutral" — Jordan Ott on the team's offensive spacing and screening partnerships** [07:45](https://www.youtube.com/watch?v=spn4qEd-V-k&t=465s)
 
@@ -42,4 +42,4 @@ Jordan Ott: "We will keep trying to make that a play after play to where we stay
 
 [https://www.youtube.com/watch?v=spn4qEd-V-k&t=465s](https://www.youtube.com/watch?v=spn4qEd-V-k&t=465s)
 
-<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=465&q=5)</small>
+<small>[Clip it](presserclips://clip?v=spn4qEd-V-k&t=465&q=5) · [Send to Slack](presserclips://clip?v=spn4qEd-V-k&t=465&q=5&slack=1)</small>

@@ -10,7 +10,7 @@ Ryan Rollins: "It was new, so it was a lot of learning, learning growth and just
 
 [https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=20s](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=20s)
 
-<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=20&q=1) · [Send to Slack](presserclips://clip?v=Ebmn9l9cWa0&t=20&q=1&slack=1)</small>
 
 **2. Ryan Rollins — "I think the more they do that, we play together, we find chemistry, camaraderie grows." — Ryan Rollins on building team chemistry through competitive practices** [01:01](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=61s)
 
@@ -18,7 +18,7 @@ Ryan Rollins: "I'm just finding a fire and I think it starts with the starting g
 
 [https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=61s](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=61s)
 
-<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=61&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=61&q=2) · [Send to Slack](presserclips://clip?v=Ebmn9l9cWa0&t=61&q=2&slack=1)</small>
 
 **3. Ryan Rollins — "it's a lot more responsibility than I had in the past few years for sure." — Ryan Rollins on accepting increased responsibility in his new role** [01:36](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=96s)
 
@@ -26,7 +26,7 @@ Ryan Rollins: "It's a lot more responsibility than I had in the past few years f
 
 [https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=96s](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=96s)
 
-<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=96&q=3) · [Send to Slack](presserclips://clip?v=Ebmn9l9cWa0&t=96&q=3&slack=1)</small>
 
 **4. Ryan Rollins — "I work, so I trust my work, so I'm excited for it and I'm accepting that challenge." — Ryan Rollins on his confidence in handling increased team responsibilities** [02:13](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=133s)
 
@@ -34,7 +34,7 @@ Ryan Rollins: "Confidence, I think that's the main thing, just accepting that an
 
 [https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=133s](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=133s)
 
-<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=133&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=133&q=4) · [Send to Slack](presserclips://clip?v=Ebmn9l9cWa0&t=133&q=4&slack=1)</small>
 
 **5. Ryan Rollins — "we have a lot of guards like the different combinations mean is different among the guards" — Ryan Rollins on the value of having multiple guards on the roster** [03:17](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=197s)
 
@@ -42,7 +42,7 @@ Ryan Rollins: "I think the one thing that excites me the most is that we have a 
 
 [https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=197s](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=197s)
 
-<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=197&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=197&q=5) · [Send to Slack](presserclips://clip?v=Ebmn9l9cWa0&t=197&q=5&slack=1)</small>
 
 **6. Ryan Rollins — "we both are, you know, three-level scorers that can playmake." — Ryan Rollins on his backcourt chemistry with Tyler Smith** [03:52](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=232s)
 
@@ -50,4 +50,4 @@ Ryan Rollins: "I think we both are, you know, three-level scorers that can playm
 
 [https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=232s](https://www.youtube.com/watch?v=Ebmn9l9cWa0&t=232s)
 
-<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=232&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Ebmn9l9cWa0&t=232&q=6) · [Send to Slack](presserclips://clip?v=Ebmn9l9cWa0&t=232&q=6&slack=1)</small>

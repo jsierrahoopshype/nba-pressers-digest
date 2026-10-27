@@ -10,7 +10,7 @@ Devin Booker: "We were just getting stops and playing fast. I think the group wi
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=20s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=20s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=20&q=1)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=20&q=1) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=20&q=1&slack=1)</small>
 
 **2. Devin Booker — "We still have some things to clean up. Obviously, any win in this league, you don't take lightly." — Devin Booker on areas for improvement and defensive focus** [00:52](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=52s)
 
@@ -18,7 +18,7 @@ Devin Booker: "We still have some things to clean up. Obviously, any win in this
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=52s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=52s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=52&q=2)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=52&q=2) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=52&q=2&slack=1)</small>
 
 **3. Devin Booker — "Once you have a reputation where teams can get offensive rebounds on you, everyone's going to start crashing." — Devin Booker on defensive rebounding and team reputation** [01:34](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=94s)
 
@@ -26,7 +26,7 @@ Devin Booker: "Once we secure the ball, we're dangerous. The part we got to clea
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=94s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=94s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=94&q=3)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=94&q=3) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=94&q=3&slack=1)</small>
 
 **4. Devin Booker — "Just communication, getting on the same page. I think that tandem between the two players on the back side" — Devin Booker on defensive communication and rim protection** [02:11](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=131s)
 
@@ -34,7 +34,7 @@ Devin Booker: "Just communication, getting on the same page. I think that tandem
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=131s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=131s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=131&q=4)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=131&q=4) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=131&q=4&slack=1)</small>
 
 **5. Devin Booker — "A little bit of both. Sometimes scheme-based, also just knowing who's on that back side." — Devin Booker on defensive focus and scheme** [02:41](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=161s)
 
@@ -42,7 +42,7 @@ Devin Booker: "A little bit of both. Sometimes scheme-based, also just knowing w
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=161s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=161s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=161&q=5)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=161&q=5) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=161&q=5&slack=1)</small>
 
 **6. Devin Booker — "If they're going to put two on the ball, get off it quick and we should be playing advantage basketball." — Devin Booker on defending mid-range and transition** [03:28](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=208s)
 
@@ -50,7 +50,7 @@ Devin Booker: "I think we did good. I think it was a loop three on one. I think 
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=208s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=208s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=208&q=6)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=208&q=6) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=208&q=6&slack=1)</small>
 
 **7. Devin Booker — "It's going to be a learning curve for us, but I think we had some good spots in that." — Devin Booker on small-ball lineups and rebounding** [04:03](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=243s)
 
@@ -58,7 +58,7 @@ Devin Booker: "It's going to be a learning curve for us, but I think we had some
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=243s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=243s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=243&q=7)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=243&q=7) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=243&q=7&slack=1)</small>
 
 **8. Devin Booker — "I don't want to go into the game saying, 'I'm going to force it tonight,' but it's definitely in my head" — Devin Booker on being more assertive offensively** [04:43](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=283s)
 
@@ -66,7 +66,7 @@ Devin Booker: "I don't want to go into the game saying, 'I'm going to force it t
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=283s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=283s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=283&q=8)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=283&q=8) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=283&q=8&slack=1)</small>
 
 **9. Devin Booker — "It's nice to have the alumni in here. It says about about a franchise when guys come back." — Devin Booker on Larry Fitzgerald and Phoenix legends** [05:15](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=315s)
 
@@ -74,7 +74,7 @@ Devin Booker: "It's nice to have the alumni in here. It says about about a franc
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=315s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=315s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=315&q=9)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=315&q=9) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=315&q=9&slack=1)</small>
 
 **10. Devin Booker — "Right now, they have more of a chemistry than that our first group." — Devin Booker on the second unit's chemistry** [06:18](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=378s)
 
@@ -82,7 +82,7 @@ Devin Booker: "Right now, they have more of a chemistry than that our first grou
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=378s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=378s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=378&q=10)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=378&q=10) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=378&q=10&slack=1)</small>
 
 **11. Devin Booker — "I say the talent level, just the pure ability to play basketball, that athleticism, the shooting." — Devin Booker on the team's potential** [07:16](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=436s)
 
@@ -90,4 +90,4 @@ Devin Booker: "I say the talent level, just the pure ability to play basketball,
 
 [https://www.youtube.com/watch?v=oWA3DrMyiAU&t=436s](https://www.youtube.com/watch?v=oWA3DrMyiAU&t=436s)
 
-<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=436&q=11)</small>
+<small>[Clip it](presserclips://clip?v=oWA3DrMyiAU&t=436&q=11) · [Send to Slack](presserclips://clip?v=oWA3DrMyiAU&t=436&q=11&slack=1)</small>

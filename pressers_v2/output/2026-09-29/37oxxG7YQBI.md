@@ -10,7 +10,7 @@ Unidentified speaker: "It has been years since we have had I would say right now
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=12s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=12s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=12&q=1) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=12&q=1&slack=1)</small>
 
 **2. Unidentified speaker — Unidentified speaker welcomes Dave Joerger to the coaching staff, citing his impressive offensive schemes in Memphis.** [02:04](https://www.youtube.com/watch?v=37oxxG7YQBI&t=124s)
 
@@ -18,7 +18,7 @@ Unidentified speaker: "He will help me with the offense. You know, Dave is a hea
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=124s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=124s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=124&q=2)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=124&q=2) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=124&q=2&slack=1)</small>
 
 **3. Unidentified speaker — Unidentified speaker explains the plan to transition DeRon Holmes II to the power forward position.** [08:42](https://www.youtube.com/watch?v=37oxxG7YQBI&t=522s)
 
@@ -26,7 +26,7 @@ Unidentified speaker: "I think for DeRon it is just to try to find a way to be a
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=522s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=522s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=522&q=3)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=522&q=3) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=522&q=3&slack=1)</small>
 
 **4. Unidentified speaker — Unidentified speaker explains the team's decision to hold training camp in Puerto Rico.** [15:03](https://www.youtube.com/watch?v=37oxxG7YQBI&t=903s)
 
@@ -34,7 +34,7 @@ Unidentified speaker: "We were going to go to LA, but I figured let us do someth
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=903s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=903s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=903&q=4)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=903&q=4) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=903&q=4&slack=1)</small>
 
 **5. Unidentified speaker — Unidentified speaker expects the game to be easier with the Nuggets due to less pressure.** [19:08](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1148s)
 
@@ -42,7 +42,7 @@ Unidentified speaker: "Everything is just going to be easier for me to be honest
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=1148s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1148s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1148&q=5)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1148&q=5) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=1148&q=5&slack=1)</small>
 
 **6. Unidentified speaker — Unidentified speaker notes Coach Adelman's unexpected intensity during practice.** [19:17](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1157s)
 
@@ -50,4 +50,4 @@ Unidentified speaker: "He is a little bit more intense than I expected. You know
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=1157s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1157s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1157&q=6)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1157&q=6) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=1157&q=6&slack=1)</small>

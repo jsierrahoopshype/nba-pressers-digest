@@ -10,7 +10,7 @@ Shai Gilgeous-Alexander: "This league is about winning games, and that's all tha
 
 [https://www.youtube.com/watch?v=JQSTLmACqqM&t=22s](https://www.youtube.com/watch?v=JQSTLmACqqM&t=22s)
 
-<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=22&q=1)</small>
+<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=22&q=1) · [Send to Slack](presserclips://clip?v=JQSTLmACqqM&t=22&q=1&slack=1)</small>
 
 **2. Shai Gilgeous-Alexander — "Whatever we need from him, he provides at a high level." — Shai Gilgeous-Alexander on AJ Mitchell's versatility and impact** [01:04](https://www.youtube.com/watch?v=JQSTLmACqqM&t=64s)
 
@@ -18,7 +18,7 @@ Shai Gilgeous-Alexander: "**AJ Mitchell** has proven what he can do in this leag
 
 [https://www.youtube.com/watch?v=JQSTLmACqqM&t=64s](https://www.youtube.com/watch?v=JQSTLmACqqM&t=64s)
 
-<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=64&q=2)</small>
+<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=64&q=2) · [Send to Slack](presserclips://clip?v=JQSTLmACqqM&t=64&q=2&slack=1)</small>
 
 **3. Shai Gilgeous-Alexander — "These are the cards we were dealt, and we can either feel bad for ourselves or get better." — Shai Gilgeous-Alexander on the team's mindset following recent injuries** [01:51](https://www.youtube.com/watch?v=JQSTLmACqqM&t=111s)
 
@@ -26,7 +26,7 @@ Shai Gilgeous-Alexander: "We had a team meeting this morning, but it wasn't anyt
 
 [https://www.youtube.com/watch?v=JQSTLmACqqM&t=111s](https://www.youtube.com/watch?v=JQSTLmACqqM&t=111s)
 
-<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=111&q=3)</small>
+<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=111&q=3) · [Send to Slack](presserclips://clip?v=JQSTLmACqqM&t=111&q=3&slack=1)</small>
 
 **4. Shai Gilgeous-Alexander — "He has had a tough year and a half with injuries." — Shai Gilgeous-Alexander on supporting teammate Isaiah Hartenstein** [02:27](https://www.youtube.com/watch?v=JQSTLmACqqM&t=147s)
 
@@ -34,7 +34,7 @@ Shai Gilgeous-Alexander: "It is pretty crazy. Obviously, more than anything, I j
 
 [https://www.youtube.com/watch?v=JQSTLmACqqM&t=147s](https://www.youtube.com/watch?v=JQSTLmACqqM&t=147s)
 
-<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=147&q=4) · [Send to Slack](presserclips://clip?v=JQSTLmACqqM&t=147&q=4&slack=1)</small>
 
 **5. Shai Gilgeous-Alexander — "Those guys are going to be thrown into the fire, and ultimately they will get better." — Shai Gilgeous-Alexander on the development of younger Thunder players** [04:34](https://www.youtube.com/watch?v=JQSTLmACqqM&t=274s)
 
@@ -42,4 +42,4 @@ Shai Gilgeous-Alexander: "We don't really have a choice. Those guys are going to
 
 [https://www.youtube.com/watch?v=JQSTLmACqqM&t=274s](https://www.youtube.com/watch?v=JQSTLmACqqM&t=274s)
 
-<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=274&q=5)</small>
+<small>[Clip it](presserclips://clip?v=JQSTLmACqqM&t=274&q=5) · [Send to Slack](presserclips://clip?v=JQSTLmACqqM&t=274&q=5&slack=1)</small>

@@ -10,7 +10,7 @@ LeBron James: "We are just trying to build. Every day is an opportunity for us t
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=0s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=0s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=0&q=1) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=0&q=1&slack=1)</small>
 
 **2. LeBron James — "I have been able to implement some things with my voice and my command of how I play." — LeBron James on integrating into a new team and city** [00:36](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=36s)
 
@@ -18,7 +18,7 @@ LeBron James: "I am still making my rounds and getting better and better each da
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=36s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=36s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=36&q=2)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=36&q=2) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=36&q=2&slack=1)</small>
 
 **3. LeBron James — "I have the ability to pick up wherever the team may need." — LeBron James on his offensive role within the team** [01:22](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=82s)
 
@@ -26,7 +26,7 @@ LeBron James: "We have not given our roles yet. Coach Nurse and the coaching sta
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=82s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=82s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=82&q=3)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=82&q=3) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=82&q=3&slack=1)</small>
 
 **4. LeBron James — "He definitely feels like he is much older. He definitely feels like he is not in year two." — LeBron James on Tyrese Maxey's leadership and maturity** [02:02](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=122s)
 
@@ -34,7 +34,7 @@ LeBron James: "He is not quiet, and I am saying that in a good way. If there are
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=122s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=122s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=122&q=4)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=122&q=4) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=122&q=4&slack=1)</small>
 
 **5. LeBron James — "I am just trying to fast track everything offensively, everything defensively, the commands, the calls, the reads." — LeBron James on the collaborative process with Nick Nurse** [02:54](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=174s)
 
@@ -42,7 +42,7 @@ LeBron James: "It has been great early on. I am just trying to fast track everyt
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=174s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=174s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=174&q=5)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=174&q=5) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=174&q=5&slack=1)</small>
 
 **6. LeBron James — "It was fun to be able to play in front of some of our Philadelphia faithful." — LeBron James on the atmosphere of the Philadelphia fan base** [03:42](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=222s)
 
@@ -50,7 +50,7 @@ LeBron James: "It was great. It was fun to be able to play in front of some of o
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=222s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=222s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=222&q=6)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=222&q=6) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=222&q=6&slack=1)</small>
 
 **7. LeBron James — "It is important for us to do a little bit of both." — LeBron James on the balance of preseason play and rest** [04:22](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=262s)
 
@@ -58,7 +58,7 @@ LeBron James: "It is important for us to do a little bit of both. We have four p
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=262s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=262s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=262&q=7)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=262&q=7) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=262&q=7&slack=1)</small>
 
 **8. LeBron James — "The difference between 2024 and now is he is just so much more healthier." — LeBron James on Joel Embiid's health and chemistry** [05:02](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=302s)
 
@@ -66,7 +66,7 @@ LeBron James: "The reps are basically just picked up from 2024 during the Olympi
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=302s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=302s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=302&q=8)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=302&q=8) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=302&q=8&slack=1)</small>
 
 **9. LeBron James — "We could be a top 10, if not top 5 defensive team if we commit every night." — LeBron James on the team's defensive potential and rebounding** [05:48](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=348s)
 
@@ -74,4 +74,4 @@ LeBron James: "I think the potential of our team defensively can be very high. I
 
 [https://www.youtube.com/watch?v=v9ZLHEpW_80&t=348s](https://www.youtube.com/watch?v=v9ZLHEpW_80&t=348s)
 
-<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=348&q=9)</small>
+<small>[Clip it](presserclips://clip?v=v9ZLHEpW_80&t=348&q=9) · [Send to Slack](presserclips://clip?v=v9ZLHEpW_80&t=348&q=9&slack=1)</small>

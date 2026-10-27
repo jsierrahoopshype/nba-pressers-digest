@@ -12,7 +12,7 @@ _Speakers identified: Jalen Johnson, Aaron Wiggins_
 
 [https://www.youtube.com/watch?v=1jlz1EPvf24&t=12s](https://www.youtube.com/watch?v=1jlz1EPvf24&t=12s)
 
-<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=12&q=1) · [Send to Slack](presserclips://clip?v=1jlz1EPvf24&t=12&q=1&slack=1)</small>
 
 **2. Jalen Johnson — "we kind of course corrected. We were able to limit their second chance points, get out in transition" — Jalen Johnson on Hawks' fourth-quarter adjustments and team trust** [00:51](https://www.youtube.com/watch?v=1jlz1EPvf24&t=51s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Jalen Johnson, Aaron Wiggins_
 
 [https://www.youtube.com/watch?v=1jlz1EPvf24&t=51s](https://www.youtube.com/watch?v=1jlz1EPvf24&t=51s)
 
-<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=51&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=51&q=2) · [Send to Slack](presserclips://clip?v=1jlz1EPvf24&t=51&q=2&slack=1)</small>
 
 **3. Aaron Wiggins — "the way that our team is going to be good is moving the ball" — Aaron Wiggins on Coach Snyder's system and team ball movement** [01:50](https://www.youtube.com/watch?v=1jlz1EPvf24&t=110s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Jalen Johnson, Aaron Wiggins_
 
 [https://www.youtube.com/watch?v=1jlz1EPvf24&t=110s](https://www.youtube.com/watch?v=1jlz1EPvf24&t=110s)
 
-<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=110&q=3)</small>
+<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=110&q=3) · [Send to Slack](presserclips://clip?v=1jlz1EPvf24&t=110&q=3&slack=1)</small>
 
 **4. Jalen Johnson — "we're not going to overreact to anything. There's a lot of things we don't do well" — Jalen Johnson on team progress and learning from game film** [02:23](https://www.youtube.com/watch?v=1jlz1EPvf24&t=143s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Jalen Johnson, Aaron Wiggins_
 
 [https://www.youtube.com/watch?v=1jlz1EPvf24&t=143s](https://www.youtube.com/watch?v=1jlz1EPvf24&t=143s)
 
-<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=143&q=4)</small>
+<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=143&q=4) · [Send to Slack](presserclips://clip?v=1jlz1EPvf24&t=143&q=4&slack=1)</small>
 
 **5. Jalen Johnson — "we've just got to do a better job between our guys just playing the right way" — Jalen Johnson on the need for better execution and pace** [03:06](https://www.youtube.com/watch?v=1jlz1EPvf24&t=186s)
 
@@ -52,4 +52,4 @@ _Speakers identified: Jalen Johnson, Aaron Wiggins_
 
 [https://www.youtube.com/watch?v=1jlz1EPvf24&t=186s](https://www.youtube.com/watch?v=1jlz1EPvf24&t=186s)
 
-<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=186&q=5)</small>
+<small>[Clip it](presserclips://clip?v=1jlz1EPvf24&t=186&q=5) · [Send to Slack](presserclips://clip?v=1jlz1EPvf24&t=186&q=5&slack=1)</small>

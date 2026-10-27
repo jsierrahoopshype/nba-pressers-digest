@@ -10,7 +10,7 @@ Mikel Brown Jr.: "I really don't look at it as a job, I'm enjoying something tha
 
 [https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=25s](https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=25s)
 
-<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=25&q=1) · [Send to Slack](presserclips://clip?v=tTRsxlLFKqQ&t=25&q=1&slack=1)</small>
 
 **2. Mikel Brown Jr. — "For it to be Barclays, and then Barclays is considered home for me, it's kind of like..." — Mikel Brown Jr. on playing at Barclays Center** [01:30](https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=90s)
 
@@ -18,7 +18,7 @@ Mikel Brown Jr.: "It's kind of a surreal moment just because that was the first 
 
 [https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=90s](https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=90s)
 
-<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=90&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=90&q=2) · [Send to Slack](presserclips://clip?v=tTRsxlLFKqQ&t=90&q=2&slack=1)</small>
 
 **3. Mikel Brown Jr. — "First media day for me and I got many more to come, but I'm just staying in the moment." — Mikel Brown Jr. on staying present during his first media day** [05:04](https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=304s)
 
@@ -26,7 +26,7 @@ Mikel Brown Jr.: "Obviously just enjoying the moment. You know, just staying pre
 
 [https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=304s](https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=304s)
 
-<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=304&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=304&q=3) · [Send to Slack](presserclips://clip?v=tTRsxlLFKqQ&t=304&q=3&slack=1)</small>
 
 **4. Mikel Brown Jr. — "I feel like as a point guard you need to know everything on the floor what's going on." — Mikel Brown Jr. on the importance of film study for rookies** [05:28](https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=328s)
 
@@ -34,4 +34,4 @@ Mikel Brown Jr.: "I feel like as a point guard you need to know everything on th
 
 [https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=328s](https://www.youtube.com/watch?v=tTRsxlLFKqQ&t=328s)
 
-<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=328&q=4)</small>
+<small>[Clip it](presserclips://clip?v=tTRsxlLFKqQ&t=328&q=4) · [Send to Slack](presserclips://clip?v=tTRsxlLFKqQ&t=328&q=4&slack=1)</small>

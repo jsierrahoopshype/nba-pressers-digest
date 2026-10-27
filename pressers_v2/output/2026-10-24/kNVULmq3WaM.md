@@ -10,7 +10,7 @@ Scottie Barnes: "Pretty good team. Just knowing that we got to rebound, so that 
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=13s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=13s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=13&q=1) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=13&q=1&slack=1)</small>
 
 **2. Scottie Barnes — "I think I was being aggressive the whole night." — Scottie Barnes on his aggressive play in the fourth quarter** [01:11](https://www.youtube.com/watch?v=kNVULmq3WaM&t=71s)
 
@@ -18,7 +18,7 @@ Scottie Barnes: "I think I was being aggressive the whole night. They were reall
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=71s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=71s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=71&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=71&q=2) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=71&q=2&slack=1)</small>
 
 **3. Scottie Barnes — "Especially that third quarter, I think he kind of changed the game for us." — Scottie Barnes on Collin's performance and defensive impact** [01:36](https://www.youtube.com/watch?v=kNVULmq3WaM&t=96s)
 
@@ -26,7 +26,7 @@ Scottie Barnes: "**Collin**, he played amazing. Especially that third quarter, I
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=96s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=96s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=96&q=3) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=96&q=3&slack=1)</small>
 
 **4. Scottie Barnes — "They were handsome shots, they were getting to the free throw line, and they were running in transition." — Scottie Barnes on Washington's transition offense and defensive lapses** [02:08](https://www.youtube.com/watch?v=kNVULmq3WaM&t=128s)
 
@@ -34,7 +34,7 @@ Scottie Barnes: "They were handsome shots, they were getting to the free throw l
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=128s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=128s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=128&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=128&q=4) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=128&q=4&slack=1)</small>
 
 **5. Scottie Barnes — "We needed that, for him to be able to get downhill, take over." — Scottie Barnes on RJ Barrett's role as a primary ball-handler** [02:45](https://www.youtube.com/watch?v=kNVULmq3WaM&t=165s)
 
@@ -42,7 +42,7 @@ Scottie Barnes: "We needed that, for him to be able to get downhill, take over, 
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=165s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=165s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=165&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=165&q=5) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=165&q=5&slack=1)</small>
 
 **6. Scottie Barnes — "I think he is pretty solid. Rebounds the ball at an extremely high rate." — Scottie Barnes on Justin Champagnie's development and skill set** [03:32](https://www.youtube.com/watch?v=kNVULmq3WaM&t=212s)
 
@@ -50,7 +50,7 @@ Scottie Barnes: "I think he is pretty solid. Rebounds the ball at an extremely h
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=212s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=212s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=212&q=6)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=212&q=6) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=212&q=6&slack=1)</small>
 
 **7. Scottie Barnes — "We got a lot of guys that can interchange on this team." — Scottie Barnes on the team's defensive versatility and switching** [04:03](https://www.youtube.com/watch?v=kNVULmq3WaM&t=243s)
 
@@ -58,7 +58,7 @@ Scottie Barnes: "We got a lot of guys that can interchange on this team. Primari
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=243s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=243s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=243&q=7)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=243&q=7) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=243&q=7&slack=1)</small>
 
 **8. Scottie Barnes — "They got two very tall guys out there, and then they got a playmaker with Trey Young." — Scottie Barnes on the differences between the Wizards and Raptors** [04:37](https://www.youtube.com/watch?v=kNVULmq3WaM&t=277s)
 
@@ -66,4 +66,4 @@ Scottie Barnes: "I want to say they are kind of identical to us. They play diffe
 
 [https://www.youtube.com/watch?v=kNVULmq3WaM&t=277s](https://www.youtube.com/watch?v=kNVULmq3WaM&t=277s)
 
-<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=277&q=8)</small>
+<small>[Clip it](presserclips://clip?v=kNVULmq3WaM&t=277&q=8) · [Send to Slack](presserclips://clip?v=kNVULmq3WaM&t=277&q=8&slack=1)</small>

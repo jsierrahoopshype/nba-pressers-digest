@@ -10,7 +10,7 @@ Jordan Ott: "It was big chaotic, just the whole end of the game, but we picked u
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=13s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=13s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=13&q=1) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=13&q=1&slack=1)</small>
 
 **2. Jordan Ott — "That was the defensive intensity that we want to bring every night." — Jordan Ott on the defensive intensity of the first half** [00:44](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=44s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "I think the whole second half, two things can be true. First half, 
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=44s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=44s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=44&q=2) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=44&q=2&slack=1)</small>
 
 **3. Jordan Ott — "They forced us into turnovers. It wasn't like we weren't trying." — Jordan Ott on the opponent's defensive pressure and turnovers** [01:11](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=71s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "They forced us into turnovers. It wasn't like we weren't trying. It
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=71s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=71s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=71&q=3) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=71&q=3&slack=1)</small>
 
 **4. Jordan Ott — "He was really good last year. Top 10 defensive center." — Jordan Ott on the decision to start Ighodaro** [01:36](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=96s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "He was really good last year. Top 10 defensive center. We go into a
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=96s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=96s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=96&q=4)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=96&q=4) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=96&q=4&slack=1)</small>
 
 **5. Jordan Ott — "We needed Kennedy. That was one that was kind of off script there in the fourth quarter." — Jordan Ott on the rotation and the need for Kennedy** [02:12](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=132s)
 
@@ -42,7 +42,7 @@ Jordan Ott: "We needed **Kennedy**. That was one that was kind of off script the
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=132s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=132s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=132&q=5)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=132&q=5) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=132&q=5&slack=1)</small>
 
 **6. Jordan Ott — "We'll continue to highlight his strengths." — Jordan Ott on Bridges' playmaking and defensive versatility** [02:43](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=163s)
 
@@ -50,7 +50,7 @@ Jordan Ott: "We'll continue to highlight his strengths. I thought his fitting hi
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=163s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=163s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=163&q=6)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=163&q=6) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=163&q=6&slack=1)</small>
 
 **7. Jordan Ott — "We just want Dylan to be Dylan." — Jordan Ott on Brooks' role and catch-and-shoot opportunities** [03:43](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=223s)
 
@@ -58,7 +58,7 @@ Jordan Ott: "We just want **Dylan** to be **Dylan**. He knows, he's been around 
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=223s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=223s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=223&q=7)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=223&q=7) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=223&q=7&slack=1)</small>
 
 **8. Jordan Ott — "Right now we're just trying to get minutes." — Jordan Ott on the experimental nature of early season rotations** [04:37](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=277s)
 
@@ -66,7 +66,7 @@ Jordan Ott: "There's probably some of that, **Dwayne**, that's scripted on purpo
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=277s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=277s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=277&q=8)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=277&q=8) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=277&q=8&slack=1)</small>
 
 **9. Jordan Ott — "Him and Miles in transition really open things up." — Jordan Ott on Jaylen's athleticism and aggressive downhill play** [05:03](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=303s)
 
@@ -74,4 +74,4 @@ Jordan Ott: "Him and **Miles** in transition really open things up. Their athlet
 
 [https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=303s](https://www.youtube.com/watch?v=UdWN0Y1svdQ&t=303s)
 
-<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=303&q=9)</small>
+<small>[Clip it](presserclips://clip?v=UdWN0Y1svdQ&t=303&q=9) · [Send to Slack](presserclips://clip?v=UdWN0Y1svdQ&t=303&q=9&slack=1)</small>

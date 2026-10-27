@@ -10,7 +10,7 @@ Ja Morant: "Just being ready. You only get one chance at a first impression, and
 
 [https://www.youtube.com/watch?v=s4u3frksBs4&t=25s](https://www.youtube.com/watch?v=s4u3frksBs4&t=25s)
 
-<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=25&q=1) · [Send to Slack](presserclips://clip?v=s4u3frksBs4&t=25&q=1&slack=1)</small>
 
 **2. Ja Morant — "A guy hasn't played in 18 months and he come out and delivered the way he did." — Ja Morant on the impact of Damian Lillard's return** [01:05](https://www.youtube.com/watch?v=s4u3frksBs4&t=65s)
 
@@ -18,7 +18,7 @@ Ja Morant: "I think it's from the start, when he walked out for the little speec
 
 [https://www.youtube.com/watch?v=s4u3frksBs4&t=65s](https://www.youtube.com/watch?v=s4u3frksBs4&t=65s)
 
-<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=65&q=2)</small>
+<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=65&q=2) · [Send to Slack](presserclips://clip?v=s4u3frksBs4&t=65&q=2&slack=1)</small>
 
 **3. Ja Morant — "Knowing that three-point shots lead to long rebounds." — Ja Morant on his rebounding and defensive positioning** [01:50](https://www.youtube.com/watch?v=s4u3frksBs4&t=110s)
 
@@ -26,7 +26,7 @@ Ja Morant: "I feel like a lot goes into it, obviously knowing that three-point s
 
 [https://www.youtube.com/watch?v=s4u3frksBs4&t=110s](https://www.youtube.com/watch?v=s4u3frksBs4&t=110s)
 
-<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=110&q=3)</small>
+<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=110&q=3) · [Send to Slack](presserclips://clip?v=s4u3frksBs4&t=110&q=3&slack=1)</small>
 
 **4. Ja Morant — "Me and Dame been talking and I feel like we got the best sparring partners in the association." — Ja Morant on the team's physical chemistry and sparring** [02:27](https://www.youtube.com/watch?v=s4u3frksBs4&t=147s)
 
@@ -34,7 +34,7 @@ Ja Morant: "It's very important. Obviously I wasn't even surprised about us doin
 
 [https://www.youtube.com/watch?v=s4u3frksBs4&t=147s](https://www.youtube.com/watch?v=s4u3frksBs4&t=147s)
 
-<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=147&q=4) · [Send to Slack](presserclips://clip?v=s4u3frksBs4&t=147&q=4&slack=1)</small>
 
 **5. Ja Morant — "It's a release. Obviously one guard out there, you want him to bring the ball up." — Ja Morant on the team's guard-heavy rotation** [03:41](https://www.youtube.com/watch?v=s4u3frksBs4&t=221s)
 
@@ -42,4 +42,4 @@ Ja Morant: "It's a release. Obviously one guard out there, you want him to bring
 
 [https://www.youtube.com/watch?v=s4u3frksBs4&t=221s](https://www.youtube.com/watch?v=s4u3frksBs4&t=221s)
 
-<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=221&q=5)</small>
+<small>[Clip it](presserclips://clip?v=s4u3frksBs4&t=221&q=5) · [Send to Slack](presserclips://clip?v=s4u3frksBs4&t=221&q=5&slack=1)</small>

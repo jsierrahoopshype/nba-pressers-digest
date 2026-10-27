@@ -10,7 +10,7 @@ Jamahl Mosley: "Selfish play, which led to them running out and get easy transit
 
 [https://www.youtube.com/watch?v=3XcXmsqPDvs&t=423s](https://www.youtube.com/watch?v=3XcXmsqPDvs&t=423s)
 
-<small>[Clip it](presserclips://clip?v=3XcXmsqPDvs&t=423&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3XcXmsqPDvs&t=423&q=1) · [Send to Slack](presserclips://clip?v=3XcXmsqPDvs&t=423&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "Jordan Poole has been working his tail off defensively. He's doing everything that we've asked him to do." — Jamahl Mosley praises Jordan Poole's defensive and offensive growth** [08:45](https://www.youtube.com/watch?v=3XcXmsqPDvs&t=525s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "**Jordan Poole** has been working his tail off defensively. He's
 
 [https://www.youtube.com/watch?v=3XcXmsqPDvs&t=525s](https://www.youtube.com/watch?v=3XcXmsqPDvs&t=525s)
 
-<small>[Clip it](presserclips://clip?v=3XcXmsqPDvs&t=525&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3XcXmsqPDvs&t=525&q=2) · [Send to Slack](presserclips://clip?v=3XcXmsqPDvs&t=525&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "you got to give Miami a ton of credit. The way that they speed you up." — Jamahl Mosley credits the Heat's speed and defensive pressure** [09:34](https://www.youtube.com/watch?v=3XcXmsqPDvs&t=574s)
 
@@ -26,4 +26,4 @@ Jamahl Mosley: "You got to give Miami a ton of credit. The way that they speed y
 
 [https://www.youtube.com/watch?v=3XcXmsqPDvs&t=574s](https://www.youtube.com/watch?v=3XcXmsqPDvs&t=574s)
 
-<small>[Clip it](presserclips://clip?v=3XcXmsqPDvs&t=574&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3XcXmsqPDvs&t=574&q=3) · [Send to Slack](presserclips://clip?v=3XcXmsqPDvs&t=574&q=3&slack=1)</small>

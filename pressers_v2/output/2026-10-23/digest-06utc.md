@@ -14,7 +14,7 @@ Tyler Herro: "It felt great. Obviously, we wanted to get a win, but just coming 
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=16s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=16s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=16&q=1) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=16&q=1&slack=1)</small>
 
 **2. Tyler Herro — "Anytime you get to the free throw line at the end of games, it's a plus for the team." — Tyler Herro on the team's late-game execution and defensive lapses** [01:14](https://www.youtube.com/watch?v=tac_h3VHCFA&t=74s)
 
@@ -22,7 +22,7 @@ Tyler Herro: "It's the moments of truth at the end of the game. We missed a coup
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=74s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=74s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=74&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=74&q=2) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=74&q=2&slack=1)</small>
 
 **3. Tyler Herro — "It's about the little things, the small details that are going to help us squeeze out wins." — Tyler Herro on the importance of small details in close games** [02:05](https://www.youtube.com/watch?v=tac_h3VHCFA&t=125s)
 
@@ -30,7 +30,7 @@ Tyler Herro: "I think we're going to be in a lot of games all season. It's about
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=125s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=125s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=125&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=125&q=3) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=125&q=3&slack=1)</small>
 
 **4. Tyler Herro — "He's a dynamic player. He's able to get downhill, get in the paint for us, create for others." — Tyler Herro on the dynamic impact of his teammate** [02:47](https://www.youtube.com/watch?v=tac_h3VHCFA&t=167s)
 
@@ -38,7 +38,7 @@ Tyler Herro: "He's a dynamic player. He's able to get downhill, get in the paint
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=167s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=167s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=167&q=4)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=167&q=4) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=167&q=4&slack=1)</small>
 
 **5. Tyler Herro — "He's a talent. Young talent. He's going to be very good in this league for sure." — Tyler Herro on the potential of Caleb Wilson** [03:03](https://www.youtube.com/watch?v=tac_h3VHCFA&t=183s)
 
@@ -46,7 +46,7 @@ Tyler Herro: "He's a talent. Young talent. He's going to be very good in this le
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=183s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=183s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=183&q=5)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=183&q=5) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=183&q=5&slack=1)</small>
 
 **6. Tyler Herro — "He's a hard worker at the end of the day, so he wants to learn, he wants to get better." — Tyler Herro on the growth and work ethic of Casper Ware** [03:16](https://www.youtube.com/watch?v=tac_h3VHCFA&t=196s)
 
@@ -54,7 +54,7 @@ Tyler Herro: "He's a hard worker at the end of the day, so he wants to learn, he
 
 [https://www.youtube.com/watch?v=tac_h3VHCFA&t=196s](https://www.youtube.com/watch?v=tac_h3VHCFA&t=196s)
 
-<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=196&q=6)</small>
+<small>[Clip it](presserclips://clip?v=tac_h3VHCFA&t=196&q=6) · [Send to Slack](presserclips://clip?v=tac_h3VHCFA&t=196&q=6&slack=1)</small>
 
 ---
 
@@ -70,7 +70,7 @@ Taylor Jenkins: "Second and third quarter you give up 85 points, transition D, c
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=7s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=7s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=7&q=1) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=7&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "It's not about one individual player, we just got to collectively stop them." — Taylor Jenkins on the defensive strategy against Caleb Wilson** [00:55](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=55s)
 
@@ -78,7 +78,7 @@ Taylor Jenkins: "It's not about one individual player, we just got to collective
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=55s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=55s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=55&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=55&q=2) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=55&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "I've got the ultimate confidence in our guys when they step up there." — Taylor Jenkins on team confidence despite missed free throws** [01:36](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=96s)
 
@@ -86,7 +86,7 @@ Taylor Jenkins: "I've got the ultimate confidence in our guys. I know we missed 
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=96s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=96s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=96&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=96&q=3) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=96&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "Jaime Jaquez Jr. with rebounding, initiating the break for us, Kyle Kuzma attacking in space." — Taylor Jenkins on the performance of Jaime Jaquez Jr., Kyle Kuzma, and Tyler Herro** [02:12](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=132s)
 
@@ -94,7 +94,7 @@ Taylor Jenkins: "**Jaime Jaquez Jr.** with rebounding, initiating the break for 
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=132s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=132s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=132&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=132&q=4) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=132&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "It's the communication, it's the ability to on-ball defense with the shift help and rotating." — Taylor Jenkins on the team's need for better communication and defensive focus** [02:54](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=174s)
 
@@ -102,7 +102,7 @@ Taylor Jenkins: "It's the communication, it's the ability to on-ball defense wit
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=174s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=174s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=174&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=174&q=5) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=174&q=5&slack=1)</small>
 
 **6. Taylor Jenkins — "Just taking care of the ball a little bit, coming up with some loose balls." — Taylor Jenkins on late-game execution and turnovers** [03:42](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=222s)
 
@@ -110,7 +110,7 @@ Taylor Jenkins: "Just taking care of the ball a little bit, coming up with some 
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=222s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=222s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=222&q=6)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=222&q=6) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=222&q=6&slack=1)</small>
 
 **7. Taylor Jenkins — "I think just his on-ball pressure is being great for us, taking tough challenges every single night." — Taylor Jenkins on Ryan's on-ball pressure and shooting development** [04:42](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=282s)
 
@@ -118,7 +118,7 @@ Taylor Jenkins: "I think just his on-ball pressure is being great for us, taking
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=282s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=282s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=282&q=7)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=282&q=7) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=282&q=7&slack=1)</small>
 
 **8. Taylor Jenkins — "Couple of the timely offensive rebounds, Jaylen Smith had some big ones." — Taylor Jenkins on the team's effort and 50/50 ball execution** [05:36](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=336s)
 
@@ -126,7 +126,7 @@ Taylor Jenkins: "Couple of the timely offensive rebounds, **Jaylen Smith** had s
 
 [https://www.youtube.com/watch?v=FMSI6Kgguk0&t=336s](https://www.youtube.com/watch?v=FMSI6Kgguk0&t=336s)
 
-<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=336&q=8)</small>
+<small>[Clip it](presserclips://clip?v=FMSI6Kgguk0&t=336&q=8) · [Send to Slack](presserclips://clip?v=FMSI6Kgguk0&t=336&q=8&slack=1)</small>
 
 ---
 

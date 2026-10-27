@@ -10,7 +10,7 @@ Javonte Green: "It stems from last year as well, just being out of our DBR, like
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=0s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=0s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=0&q=1) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=0&q=1&slack=1)</small>
 
 **2. Javonte Green — "it is a blessing, you know, just getting, you know, just them from growing up, just having the trust" — Javonte Green on the importance of teammate trust** [00:52](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=52s)
 
@@ -18,7 +18,7 @@ Javonte Green: "It is a blessing, you know, it is a blessing, you know, just get
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=52s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=52s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=52&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=52&q=2) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=52&q=2&slack=1)</small>
 
 **3. Javonte Green — "I guess we was lacking energy, you know, we wasn't, you know, playing as hard as we know" — Javonte Green on the Pistons' lack of energy in the third quarter** [01:32](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=92s)
 
@@ -26,7 +26,7 @@ Javonte Green: "I guess we was lacking energy, you know, we wasn't, you know, pl
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=92s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=92s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=92&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=92&q=3) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=92&q=3&slack=1)</small>
 
 **4. Javonte Green — "I want to say any major differences, coming out, obviously we got new faces" — Javonte Green on the team's adjustment to new faces** [02:14](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=134s)
 
@@ -34,7 +34,7 @@ Javonte Green: "I want to say any major differences, coming out, obviously we go
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=134s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=134s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=134&q=4) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=134&q=4&slack=1)</small>
 
 **5. Javonte Green — "just to go out there in front of Detroit, like the fans in Detroit, you know, just bringing here" — Javonte Green on the energy of the Detroit crowd** [02:50](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=170s)
 
@@ -42,7 +42,7 @@ Javonte Green: "I guess it is a blessing, man. I think, you know, just to go out
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=170s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=170s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=170&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=170&q=5) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=170&q=5&slack=1)</small>
 
 **6. Javonte Green — "my role is, you know, tonight, you know, just going out there and changing the energy of the game" — Javonte Green on his role and the origin of his nickname** [03:28](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=208s)
 
@@ -50,4 +50,4 @@ Javonte Green: "I guess, you know, my role is, you know, tonight, you know, just
 
 [https://www.youtube.com/watch?v=Y6ezUALHxTs&t=208s](https://www.youtube.com/watch?v=Y6ezUALHxTs&t=208s)
 
-<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=208&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Y6ezUALHxTs&t=208&q=6) · [Send to Slack](presserclips://clip?v=Y6ezUALHxTs&t=208&q=6&slack=1)</small>

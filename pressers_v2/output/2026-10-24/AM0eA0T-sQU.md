@@ -10,7 +10,7 @@ Jamahl Mosley: "It's a left knee injury right now, so we're going to get a look 
 
 [https://www.youtube.com/watch?v=AM0eA0T-sQU&t=400s](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=400s)
 
-<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=400&q=1)</small>
+<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=400&q=1) · [Send to Slack](presserclips://clip?v=AM0eA0T-sQU&t=400&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "We got to make sure we're cleaning up the glass. Their ability to get second-chance opportunities" — Jamahl Mosley on team's rebounding and second-chance points** [06:57](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=417s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "The effort and the fight. They kicked our tails early on in the 
 
 [https://www.youtube.com/watch?v=AM0eA0T-sQU&t=417s](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=417s)
 
-<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=417&q=2)</small>
+<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=417&q=2) · [Send to Slack](presserclips://clip?v=AM0eA0T-sQU&t=417&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "Their defense was on point, being up at the level of the screen, attacking the basketball" — Jamahl Mosley on Dejounte Murray and Carlo Macovich's defensive impact** [07:27](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=447s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "Their defense was on point, being up at the level of the screen,
 
 [https://www.youtube.com/watch?v=AM0eA0T-sQU&t=447s](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=447s)
 
-<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=447&q=3)</small>
+<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=447&q=3) · [Send to Slack](presserclips://clip?v=AM0eA0T-sQU&t=447&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "Our defense isn't done until you secure the board. And then you're able to get out" — Jamahl Mosley on finishing possessions and transition defense** [08:09](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=489s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "Just make sure we're cleaning up the finishing the possession ou
 
 [https://www.youtube.com/watch?v=AM0eA0T-sQU&t=489s](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=489s)
 
-<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=489&q=4)</small>
+<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=489&q=4) · [Send to Slack](presserclips://clip?v=AM0eA0T-sQU&t=489&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "I didn't want them to set their defense. That was the initial action" — Jamahl Mosley on final possession and Triple-J's defensive play** [08:38](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=518s)
 
@@ -42,7 +42,7 @@ Jamahl Mosley: "I didn't want them to set their defense. That was the initial ac
 
 [https://www.youtube.com/watch?v=AM0eA0T-sQU&t=518s](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=518s)
 
-<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=518&q=5)</small>
+<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=518&q=5) · [Send to Slack](presserclips://clip?v=AM0eA0T-sQU&t=518&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "We've got to bounce right back and take the lessons from this one" — Jamahl Mosley on preparing for the upcoming Denver game** [09:18](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=558s)
 
@@ -50,4 +50,4 @@ Jamahl Mosley: "We've got to bounce right back and take the lessons from this on
 
 [https://www.youtube.com/watch?v=AM0eA0T-sQU&t=558s](https://www.youtube.com/watch?v=AM0eA0T-sQU&t=558s)
 
-<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=558&q=6)</small>
+<small>[Clip it](presserclips://clip?v=AM0eA0T-sQU&t=558&q=6) · [Send to Slack](presserclips://clip?v=AM0eA0T-sQU&t=558&q=6&slack=1)</small>

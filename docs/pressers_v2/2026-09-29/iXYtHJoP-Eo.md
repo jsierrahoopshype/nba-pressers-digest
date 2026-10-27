@@ -10,7 +10,7 @@ Jordan Ott: "Just another young guy that he's played, which helps he's not just 
 
 [https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=48s](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=48s)
 
-<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=48&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=48&q=1) · [Send to Slack](presserclips://clip?v=iXYtHJoP-Eo&t=48&q=1&slack=1)</small>
 
 **2. Jordan Ott — Jordan Ott praises Jaylen Green for his commitment to training at the team facility.** [05:50](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=350s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "We asked and he did it. Credit to him. He was here, I think we had 
 
 [https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=350s](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=350s)
 
-<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=350&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=350&q=2) · [Send to Slack](presserclips://clip?v=iXYtHJoP-Eo&t=350&q=2&slack=1)</small>
 
 **3. Jordan Ott — Jordan Ott explains the evolution of Jaylen Green's role and decision making.** [08:44](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=524s)
 
@@ -26,4 +26,4 @@ Jordan Ott: "He's going to have the ball more. I think we saw that as the season
 
 [https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=524s](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=524s)
 
-<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=524&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=524&q=3) · [Send to Slack](presserclips://clip?v=iXYtHJoP-Eo&t=524&q=3&slack=1)</small>

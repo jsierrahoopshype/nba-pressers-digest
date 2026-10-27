@@ -10,7 +10,7 @@ Harrison Barnes: "Not for us at this preseason point because we're not going to 
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=30s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=30s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=30&q=1)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=30&q=1) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=30&q=1&slack=1)</small>
 
 **2. Harrison Barnes — "He's had a really good summer leading into camp and he's played well in camp." — Harrison Barnes on the development of teammate Charles Bassey** [01:01](https://www.youtube.com/watch?v=O5-oVRkjP84&t=61s)
 
@@ -18,7 +18,7 @@ Harrison Barnes: "I thought he played great. He's actually had a really good sum
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=61s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=61s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=61&q=2)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=61&q=2) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=61&q=2&slack=1)</small>
 
 **3. Harrison Barnes — "He can really shoot it. His confidence has continued to grow and he's really a good player." — Harrison Barnes on the shooting ability of Charles Bassey** [01:28](https://www.youtube.com/watch?v=O5-oVRkjP84&t=88s)
 
@@ -26,7 +26,7 @@ Harrison Barnes: "He can really shoot it. After practice sometimes we always do 
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=88s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=88s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=88&q=3)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=88&q=3) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=88&q=3&slack=1)</small>
 
 **4. Harrison Barnes — "We can't ease our way into games. I think that the start executing the right way." — Harrison Barnes on the Spurs' need for better game execution** [01:57](https://www.youtube.com/watch?v=O5-oVRkjP84&t=117s)
 
@@ -34,7 +34,7 @@ Harrison Barnes: "It all starts with our preparation but also how we start games
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=117s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=117s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=117&q=4)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=117&q=4) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=117&q=4&slack=1)</small>
 
 **5. Harrison Barnes — "I always think that there are indicators early in the season as to what type of team." — Harrison Barnes on preseason indicators for team identity** [03:04](https://www.youtube.com/watch?v=O5-oVRkjP84&t=184s)
 
@@ -42,7 +42,7 @@ Harrison Barnes: "I wouldn't say necessarily in the preseason, but I always thin
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=184s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=184s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=184&q=5)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=184&q=5) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=184&q=5&slack=1)</small>
 
 **6. Harrison Barnes — "You still have to put in the work. You still have to put in the collective time." — Harrison Barnes on the importance of putting in team work** [04:02](https://www.youtube.com/watch?v=O5-oVRkjP84&t=242s)
 
@@ -50,7 +50,7 @@ Harrison Barnes: "I still think you have to put in the work. You still have to p
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=242s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=242s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=242&q=6)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=242&q=6) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=242&q=6&slack=1)</small>
 
 **7. Tarris Reed Jr — "I knew I could have got 20, 25, but I feel like that's part of why I got grow." — Tarris Reed Jr on his rebounding performance and growth** [04:35](https://www.youtube.com/watch?v=O5-oVRkjP84&t=275s)
 
@@ -58,7 +58,7 @@ Tarris Reed Jr: "I knew I could have got 20, 25, but I feel like that's part of 
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=275s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=275s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=275&q=7)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=275&q=7) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=275&q=7&slack=1)</small>
 
 **8. Tarris Reed Jr — "It changed a lot about who I was as a person, who I am as a player." — Tarris Reed Jr on the influence of his time at UConn** [05:14](https://www.youtube.com/watch?v=O5-oVRkjP84&t=314s)
 
@@ -66,7 +66,7 @@ Tarris Reed Jr: "It changed a lot about who I was as a person, who I am as a pla
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=314s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=314s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=314&q=8)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=314&q=8) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=314&q=8&slack=1)</small>
 
 **9. Tarris Reed Jr — "Everybody's good here, so that's been the biggest difference between here and college." — Tarris Reed Jr on the difference in spacing in the NBA** [05:35](https://www.youtube.com/watch?v=O5-oVRkjP84&t=335s)
 
@@ -74,7 +74,7 @@ Tarris Reed Jr: "Everybody's good here, so that's been the biggest difference be
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=335s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=335s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=335&q=9)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=335&q=9) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=335&q=9&slack=1)</small>
 
 **10. Tarris Reed Jr — "These are guys I've watched literally in college and it's crazy just going up against those type." — Tarris Reed Jr on learning from veteran big men** [06:18](https://www.youtube.com/watch?v=O5-oVRkjP84&t=378s)
 
@@ -82,7 +82,7 @@ Tarris Reed Jr: "They have a lot of bigs that I've been growing up watching, you
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=378s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=378s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=378&q=10)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=378&q=10) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=378&q=10&slack=1)</small>
 
 **11. Tarris Reed Jr — "Everything just revolves around him, so he's so impactful on both sides of the court." — Tarris Reed Jr on the challenge of practicing against Victor Wembanyama** [07:13](https://www.youtube.com/watch?v=O5-oVRkjP84&t=433s)
 
@@ -90,7 +90,7 @@ Tarris Reed Jr: "Everything just revolves around him, so he's so impactful on bo
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=433s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=433s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=433&q=11)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=433&q=11) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=433&q=11&slack=1)</small>
 
 **12. Tarris Reed Jr — "Whatever I can do to impact the team, whatever my role needs to be on this team." — Tarris Reed Jr on his role and commitment to the team** [08:43](https://www.youtube.com/watch?v=O5-oVRkjP84&t=523s)
 
@@ -98,4 +98,4 @@ Tarris Reed Jr: "Whatever I can do to impact the team, whatever my role needs to
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=523s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=523s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=523&q=12)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=523&q=12) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=523&q=12&slack=1)</small>

@@ -10,7 +10,7 @@ Dean Wade: "He is so important to our team. Before the season, when everything h
 
 [https://www.youtube.com/watch?v=Op1SVAus7kA&t=6s](https://www.youtube.com/watch?v=Op1SVAus7kA&t=6s)
 
-<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=6&q=1) · [Send to Slack](presserclips://clip?v=Op1SVAus7kA&t=6&q=1&slack=1)</small>
 
 **2. Dean Wade — "me and the training staff have had a few days to get together and grind out" — Dean Wade on his ankle injury and recovery** [01:52](https://www.youtube.com/watch?v=Op1SVAus7kA&t=112s)
 
@@ -18,7 +18,7 @@ Dean Wade: "I am feeling good, a little sore, but feeling good. Me and the train
 
 [https://www.youtube.com/watch?v=Op1SVAus7kA&t=112s](https://www.youtube.com/watch?v=Op1SVAus7kA&t=112s)
 
-<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=112&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=112&q=2) · [Send to Slack](presserclips://clip?v=Op1SVAus7kA&t=112&q=2&slack=1)</small>
 
 **3. Dean Wade — "from the top to the bottom this team is athletic, big, and they know the game" — Dean Wade on the 76ers' athletic and high-IQ roster** [03:08](https://www.youtube.com/watch?v=Op1SVAus7kA&t=188s)
 
@@ -26,7 +26,7 @@ Dean Wade: "From the top to the bottom this team is athletic, big, and they know
 
 [https://www.youtube.com/watch?v=Op1SVAus7kA&t=188s](https://www.youtube.com/watch?v=Op1SVAus7kA&t=188s)
 
-<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=188&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=188&q=3) · [Send to Slack](presserclips://clip?v=Op1SVAus7kA&t=188&q=3&slack=1)</small>
 
 **4. Dean Wade — "playing with Jabari, he makes everyone's life really easy" — Dean Wade on Jabari Smith Jr.'s impact and versatility** [03:55](https://www.youtube.com/watch?v=Op1SVAus7kA&t=235s)
 
@@ -34,7 +34,7 @@ Dean Wade: "Playing with Jabari, he makes everyone's life really easy. He is sup
 
 [https://www.youtube.com/watch?v=Op1SVAus7kA&t=235s](https://www.youtube.com/watch?v=Op1SVAus7kA&t=235s)
 
-<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=235&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=235&q=4) · [Send to Slack](presserclips://clip?v=Op1SVAus7kA&t=235&q=4&slack=1)</small>
 
 **5. Dean Wade — "nobody cares who is scoring, we have so much firepower" — Dean Wade on the team's unselfish culture and character** [05:25](https://www.youtube.com/watch?v=Op1SVAus7kA&t=325s)
 
@@ -42,4 +42,4 @@ Dean Wade: "I think it is the character of the guys we have. There are so many s
 
 [https://www.youtube.com/watch?v=Op1SVAus7kA&t=325s](https://www.youtube.com/watch?v=Op1SVAus7kA&t=325s)
 
-<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=325&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Op1SVAus7kA&t=325&q=5) · [Send to Slack](presserclips://clip?v=Op1SVAus7kA&t=325&q=5&slack=1)</small>

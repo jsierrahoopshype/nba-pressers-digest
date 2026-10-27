@@ -10,7 +10,7 @@ Ryan Kalkbrenner: "Going through the preseason, we had a lot of stuff that we wa
 
 [https://www.youtube.com/watch?v=chvI37ub1t4&t=4s](https://www.youtube.com/watch?v=chvI37ub1t4&t=4s)
 
-<small>[Clip it](presserclips://clip?v=chvI37ub1t4&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=chvI37ub1t4&t=4&q=1) · [Send to Slack](presserclips://clip?v=chvI37ub1t4&t=4&q=1&slack=1)</small>
 
 **2. Ryan Kalkbrenner — "I think that was just our mentality the whole game and I think when you do the right things" — Kalkbrenner on Hornets' fourth quarter execution and hustle** [00:35](https://www.youtube.com/watch?v=chvI37ub1t4&t=35s)
 
@@ -18,7 +18,7 @@ Ryan Kalkbrenner: "I think that was just our mentality the whole game and I thin
 
 [https://www.youtube.com/watch?v=chvI37ub1t4&t=35s](https://www.youtube.com/watch?v=chvI37ub1t4&t=35s)
 
-<small>[Clip it](presserclips://clip?v=chvI37ub1t4&t=35&q=2)</small>
+<small>[Clip it](presserclips://clip?v=chvI37ub1t4&t=35&q=2) · [Send to Slack](presserclips://clip?v=chvI37ub1t4&t=35&q=2&slack=1)</small>
 
 **3. Ryan Kalkbrenner — "he's someone we love having down on the court. He does so many things" — Ryan Kalkbrenner on the impact of Naz Reid** [00:54](https://www.youtube.com/watch?v=chvI37ub1t4&t=54s)
 
@@ -26,4 +26,4 @@ Ryan Kalkbrenner: "He's a great player. He's someone we love having down on the 
 
 [https://www.youtube.com/watch?v=chvI37ub1t4&t=54s](https://www.youtube.com/watch?v=chvI37ub1t4&t=54s)
 
-<small>[Clip it](presserclips://clip?v=chvI37ub1t4&t=54&q=3)</small>
+<small>[Clip it](presserclips://clip?v=chvI37ub1t4&t=54&q=3) · [Send to Slack](presserclips://clip?v=chvI37ub1t4&t=54&q=3&slack=1)</small>

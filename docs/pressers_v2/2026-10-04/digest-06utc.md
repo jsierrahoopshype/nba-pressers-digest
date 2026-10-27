@@ -14,7 +14,7 @@ Darko Rajakovic: "We hit some very interesting lineups tonight out there. Obviou
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=13s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=13s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=13&q=1) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=13&q=1&slack=1)</small>
 
 **2. Darko Rajakovic — "I wish that he played a little bit with more force on offensive end to be honest" — Darko Rajakovic on Scottie Barnes' role and offensive aggression** [01:22](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=82s)
 
@@ -22,7 +22,7 @@ Darko Rajakovic: "That's going to be definitely work in progress. We cannot take
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=82s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=82s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=82&q=2)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=82&q=2) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=82&q=2&slack=1)</small>
 
 **3. Darko Rajakovic — "he played with a lot of force, unfortunately he bumped his knee, so he was a little bit" — Darko Rajakovic on Scottie Barnes' knee injury and performance** [02:06](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=126s)
 
@@ -30,7 +30,7 @@ Darko Rajakovic: "He played with a lot of force, unfortunately he bumped his kne
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=126s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=126s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=126&q=3)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=126&q=3) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=126&q=3&slack=1)</small>
 
 **4. Darko Rajakovic — "our guys are aware of that, that they're not Toronto's team, they're just Toronto and but also belong" — Darko Rajakovic on the team's connection with Canadian fans** [02:37](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=157s)
 
@@ -38,7 +38,7 @@ Darko Rajakovic: "This is such a privilege to be in Quebec City and to play in a
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=157s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=157s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=157&q=4)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=157&q=4) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=157&q=4&slack=1)</small>
 
 **5. Darko Rajakovic — "I really liked the competitiveness that he brought there. There were moments he was guarding their five man" — Darko Rajakovic on Scottie Barnes' three-point shooting and competitiveness** [03:18](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=198s)
 
@@ -46,7 +46,7 @@ Darko Rajakovic: "He was excited to get his first three off and he was pretty ho
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=198s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=198s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=198&q=5)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=198&q=5) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=198&q=5&slack=1)</small>
 
 **6. Kelly Olynyk — "I was pretty happy with where I was at, just body-wise, conditioning-wise and stuff like that" — Kelly Olynyk on preseason conditioning and game rhythm** [05:07](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=307s)
 
@@ -54,7 +54,7 @@ Kelly Olynyk: "It felt good. It's always a little bit different playing a real g
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=307s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=307s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=307&q=6)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=307&q=6) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=307&q=6&slack=1)</small>
 
 **7. Kelly Olynyk — "it was mostly me getting used to playing with Scottie because he's always been good at these passes" — Kelly Olynyk on developing chemistry with Scottie Barnes** [05:36](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=336s)
 
@@ -62,7 +62,7 @@ Kelly Olynyk: "It was mostly me getting used to playing with Scottie because he'
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=336s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=336s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=336&q=7)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=336&q=7) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=336&q=7&slack=1)</small>
 
 **8. RJ Barrett — "today was a little weird, random lineups preseason, you know, just kind of playing" — RJ Barrett on preseason lineup adjustments and team performance** [06:05](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=365s)
 
@@ -70,7 +70,7 @@ RJ Barrett: "Today was a little weird, random lineups preseason, you know, just 
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=365s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=365s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=365&q=8)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=365&q=8) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=365&q=8&slack=1)</small>
 
 **9. RJ Barrett — "it was cool, my first time playing here. I enjoyed it a lot. The fans were here" — RJ Barrett on the experience of playing in Quebec City** [06:55](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=415s)
 
@@ -78,7 +78,7 @@ RJ Barrett: "It was cool, my first time playing here. I enjoyed it a lot. The fa
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=415s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=415s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=415&q=9)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=415&q=9) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=415&q=9&slack=1)</small>
 
 **10. RJ Barrett — "he put on some weight, put on some muscle. He's really been just kind of doing everything" — RJ Barrett on Scottie Barnes' physical development and growth** [07:25](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=445s)
 
@@ -86,7 +86,7 @@ RJ Barrett: "You kind of already know the answer to that. You've seen it through
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=445s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=445s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=445&q=10)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=445&q=10) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=445&q=10&slack=1)</small>
 
 **11. RJ Barrett — "I'm almost like overconfident of a person. So it's like, you know, I'm always like grateful" — RJ Barrett on his own confidence and team system** [08:07](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=487s)
 
@@ -94,7 +94,7 @@ RJ Barrett: "I don't know, it's a weird question because I'm almost like overcon
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=487s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=487s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=487&q=11)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=487&q=11) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=487&q=11&slack=1)</small>
 
 **12. RJ Barrett — "I think we got a lot of steals if I'm not mistaken, so that was a good thing" — RJ Barrett on team takeaways from the preseason game** [09:08](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=548s)
 
@@ -102,7 +102,7 @@ RJ Barrett: "I think we got a lot of steals if I'm not mistaken, so that was a g
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=548s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=548s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=548&q=12)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=548&q=12) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=548&q=12&slack=1)</small>
 
 **13. RJ Barrett — "it was amazing, that had so much more juice not having to play in some my annoying" — RJ Barrett on the benefits of playing without teammates** [09:22](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=562s)
 
@@ -110,7 +110,7 @@ RJ Barrett: "It was amazing, that had so much more juice not having to play in s
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=562s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=562s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=562&q=13)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=562&q=13) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=562&q=13&slack=1)</small>
 
 **14. RJ Barrett — "shout out to Temp and you know, I think I think Mals is going to take that over" — RJ Barrett on the team's preseason culture** [09:41](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=581s)
 
@@ -118,7 +118,7 @@ RJ Barrett: "Yeah man, shout out to Temp and you know, I think I think **Mals** 
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=581s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=581s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=581&q=14)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=581&q=14) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=581&q=14&slack=1)</small>
 
 **15. RJ Barrett — "jouer ici à Québec était très bien, tout le monde était là quand on a parlé de" — RJ Barrett on the atmosphere in Quebec City** [09:55](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=595s)
 
@@ -126,7 +126,7 @@ RJ Barrett: "Le match, c'était, je sais pas, c'était ouais. Mais jouer ici à 
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=595s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=595s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=595&q=15)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=595&q=15) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=595&q=15&slack=1)</small>
 
 **16. RJ Barrett — "tu dois parler à mon père, il est ici, alors tu dois tu dois parler, ouais" — RJ Barrett on his father's involvement with the Canadian team** [10:31](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=631s)
 
@@ -134,7 +134,7 @@ RJ Barrett: "Non, il va il va pas jouer. Non. Tu dois parler à mon père, il es
 
 [https://www.youtube.com/watch?v=v-WoOf2iTn0&t=631s](https://www.youtube.com/watch?v=v-WoOf2iTn0&t=631s)
 
-<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=631&q=16)</small>
+<small>[Clip it](presserclips://clip?v=v-WoOf2iTn0&t=631&q=16) · [Send to Slack](presserclips://clip?v=v-WoOf2iTn0&t=631&q=16&slack=1)</small>
 
 ---
 

@@ -10,7 +10,7 @@ Charles Lee: "I thought that our defensive intensity and connectivity just went 
 
 [https://www.youtube.com/watch?v=L5xnLhCySWU&t=13s](https://www.youtube.com/watch?v=L5xnLhCySWU&t=13s)
 
-<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=13&q=1) · [Send to Slack](presserclips://clip?v=L5xnLhCySWU&t=13&q=1&slack=1)</small>
 
 **2. Charles Lee — "I want to see him just continue to be like an elite two-way player." — Charles Lee on Brandon Miller's development as an elite two-way player** [00:47](https://www.youtube.com/watch?v=L5xnLhCySWU&t=47s)
 
@@ -18,7 +18,7 @@ Charles Lee: "I want to see him just continue to be like an elite two-way player
 
 [https://www.youtube.com/watch?v=L5xnLhCySWU&t=47s](https://www.youtube.com/watch?v=L5xnLhCySWU&t=47s)
 
-<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=47&q=2)</small>
+<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=47&q=2) · [Send to Slack](presserclips://clip?v=L5xnLhCySWU&t=47&q=2&slack=1)</small>
 
 **3. Charles Lee — "We want to be able to leverage the versatility that he has." — Charles Lee on Naz Reid's versatility and offensive impact** [01:38](https://www.youtube.com/watch?v=L5xnLhCySWU&t=98s)
 
@@ -26,7 +26,7 @@ Charles Lee: "Watching him from afar, I think that he hasn't been in a ton of th
 
 [https://www.youtube.com/watch?v=L5xnLhCySWU&t=98s](https://www.youtube.com/watch?v=L5xnLhCySWU&t=98s)
 
-<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=98&q=3)</small>
+<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=98&q=3) · [Send to Slack](presserclips://clip?v=L5xnLhCySWU&t=98&q=3&slack=1)</small>
 
 **4. Charles Lee — "Anytime you challenge Leo, he is going to respond." — Charles Lee on LaMelo Ball's accountability and playmaking improvement** [02:44](https://www.youtube.com/watch?v=L5xnLhCySWU&t=164s)
 
@@ -34,4 +34,4 @@ Charles Lee: "Anytime you challenge **Leo**, he is going to respond. That is wha
 
 [https://www.youtube.com/watch?v=L5xnLhCySWU&t=164s](https://www.youtube.com/watch?v=L5xnLhCySWU&t=164s)
 
-<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=164&q=4)</small>
+<small>[Clip it](presserclips://clip?v=L5xnLhCySWU&t=164&q=4) · [Send to Slack](presserclips://clip?v=L5xnLhCySWU&t=164&q=4&slack=1)</small>

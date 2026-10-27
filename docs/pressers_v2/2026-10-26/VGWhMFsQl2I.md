@@ -10,7 +10,7 @@ Coach Sweeney: "I thought the toughness and the resolve was great. We didn't sta
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=0s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=0s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=0&q=1) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=0&q=1&slack=1)</small>
 
 **2. Coach Sweeney — "I thought he did a great job of really attacking and then making good decisions." — Coach Sweeney on Anthony Black's aggressive play in the fourth quarter** [00:33](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=33s)
 
@@ -18,7 +18,7 @@ Coach Sweeney: "I thought his aggressiveness was great. I thought he did a great
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=33s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=33s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=33&q=2) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=33&q=2&slack=1)</small>
 
 **3. Coach Sweeney — "I thought Anthony definitely brought a spark." — Coach Sweeney on Anthony Black's impact and return to the lineup** [01:02](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=62s)
 
@@ -26,7 +26,7 @@ Coach Sweeney: "I thought Anthony definitely brought a spark. It was good to see
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=62s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=62s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=62&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=62&q=3) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=62&q=3&slack=1)</small>
 
 **4. Anthony Black — "We kept our poise, kept playing, turned our physicality up, our defense, and we were able to make runs." — Anthony Black on the team's comeback after an early deficit** [02:17](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=137s)
 
@@ -34,7 +34,7 @@ Anthony Black: "I would say just the fact that we went down early, I think it wa
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=137s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=137s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=137&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=137&q=4) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=137&q=4&slack=1)</small>
 
 **5. Anthony Black — "He deserves to have that moment, get his first win at MSG against the defending champs." — Anthony Black on the significance of the team's first win** [03:08](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=188s)
 
@@ -42,7 +42,7 @@ Anthony Black: "It means a lot to us. He supported a lot into us since he showed
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=188s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=188s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=188&q=5)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=188&q=5) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=188&q=5&slack=1)</small>
 
 **6. Anthony Black — "Stay with it, stay aggressive, keep trusting yourself and make the right plays." — Anthony Black on the team's message to him during the game** [03:32](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=212s)
 
@@ -50,7 +50,7 @@ Anthony Black: "A good job of sticking with it. You could say the game wasn't re
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=212s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=212s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=212&q=6)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=212&q=6) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=212&q=6&slack=1)</small>
 
 **7. Franz Wagner — "I thought we played the stretches really well together." — Franz Wagner on the team's performance in the closing stretches** [04:14](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=254s)
 
@@ -58,7 +58,7 @@ Franz Wagner: "I thought we played the stretches really well together, kept gett
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=254s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=254s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=254&q=7)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=254&q=7) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=254&q=7&slack=1)</small>
 
 **8. Franz Wagner — "I was pretty aggressive, I was just making bad reads out there first three quarters." — Franz Wagner on his own aggressiveness and team ball movement** [04:41](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=281s)
 
@@ -66,7 +66,7 @@ Franz Wagner: "I was pretty aggressive, I was just making bad reads out there fi
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=281s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=281s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=281&q=8)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=281&q=8) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=281&q=8&slack=1)</small>
 
 **9. Franz Wagner — "We had a tough, tough start to the season, obviously a lot of new things for our team." — Franz Wagner on the importance of the team's first win** [05:26](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=326s)
 
@@ -74,7 +74,7 @@ Franz Wagner: "It's big time for us. We had a tough, tough start to the season, 
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=326s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=326s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=326&q=9)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=326&q=9) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=326&q=9&slack=1)</small>
 
 **10. Franz Wagner — "He was amazing. Obviously shooting, shooting it really well today, that's not easy to come in." — Franz Wagner on the impact of a teammate's return** [06:43](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=403s)
 
@@ -82,4 +82,4 @@ Franz Wagner: "He was amazing. Obviously shooting, shooting it really well today
 
 [https://www.youtube.com/watch?v=VGWhMFsQl2I&t=403s](https://www.youtube.com/watch?v=VGWhMFsQl2I&t=403s)
 
-<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=403&q=10)</small>
+<small>[Clip it](presserclips://clip?v=VGWhMFsQl2I&t=403&q=10) · [Send to Slack](presserclips://clip?v=VGWhMFsQl2I&t=403&q=10&slack=1)</small>

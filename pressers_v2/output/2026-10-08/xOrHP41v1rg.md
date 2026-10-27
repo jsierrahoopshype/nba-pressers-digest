@@ -10,7 +10,7 @@ Micah Nori: "I think Danny did a good job getting himself downhill, but we're to
 
 [https://www.youtube.com/watch?v=xOrHP41v1rg&t=0s](https://www.youtube.com/watch?v=xOrHP41v1rg&t=0s)
 
-<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=0&q=1) · [Send to Slack](presserclips://clip?v=xOrHP41v1rg&t=0&q=1&slack=1)</small>
 
 **2. Micah Nori — "he just looked a little bit rusty" — Micah Nori evaluates Ja Morant's performance and rustiness** [01:01](https://www.youtube.com/watch?v=xOrHP41v1rg&t=61s)
 
@@ -18,7 +18,7 @@ Micah Nori: "I think that he was just sped up. I think he was just sped up and I
 
 [https://www.youtube.com/watch?v=xOrHP41v1rg&t=61s](https://www.youtube.com/watch?v=xOrHP41v1rg&t=61s)
 
-<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=61&q=2)</small>
+<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=61&q=2) · [Send to Slack](presserclips://clip?v=xOrHP41v1rg&t=61&q=2&slack=1)</small>
 
 **3. Micah Nori — "we don't want to deter that mentality" — Micah Nori on Ja Morant's aggressive paint-attacking mentality** [02:00](https://www.youtube.com/watch?v=xOrHP41v1rg&t=120s)
 
@@ -26,7 +26,7 @@ Micah Nori: "The one thing that's great is like he's always looking to throw ahe
 
 [https://www.youtube.com/watch?v=xOrHP41v1rg&t=120s](https://www.youtube.com/watch?v=xOrHP41v1rg&t=120s)
 
-<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=120&q=3)</small>
+<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=120&q=3) · [Send to Slack](presserclips://clip?v=xOrHP41v1rg&t=120&q=3&slack=1)</small>
 
 **4. Micah Nori — "if the five-man gets it, they're looking for Ja" — Micah Nori explains the decision-making process for point guard duties** [04:49](https://www.youtube.com/watch?v=xOrHP41v1rg&t=289s)
 
@@ -34,7 +34,7 @@ Micah Nori: "Some of it depends on if it's off of a rebound. If it's a rebound, 
 
 [https://www.youtube.com/watch?v=xOrHP41v1rg&t=289s](https://www.youtube.com/watch?v=xOrHP41v1rg&t=289s)
 
-<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=289&q=4)</small>
+<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=289&q=4) · [Send to Slack](presserclips://clip?v=xOrHP41v1rg&t=289&q=4&slack=1)</small>
 
 **5. Micah Nori — "he's been phenomenal in camp is playing with the pace" — Micah Nori on Scoot Henderson's transition play and pace** [07:03](https://www.youtube.com/watch?v=xOrHP41v1rg&t=423s)
 
@@ -42,7 +42,7 @@ Micah Nori: "I think Scoot, same way like all of them. It's kind of like you're 
 
 [https://www.youtube.com/watch?v=xOrHP41v1rg&t=423s](https://www.youtube.com/watch?v=xOrHP41v1rg&t=423s)
 
-<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=423&q=5)</small>
+<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=423&q=5) · [Send to Slack](presserclips://clip?v=xOrHP41v1rg&t=423&q=5&slack=1)</small>
 
 **6. Micah Nori — "Hansen came in and did exactly what we need him to do" — Micah Nori praises Hansen's offensive hub role and defensive effort** [08:47](https://www.youtube.com/watch?v=xOrHP41v1rg&t=527s)
 
@@ -50,4 +50,4 @@ Micah Nori: "I think **Hansen** came in and did exactly what we need him to do. 
 
 [https://www.youtube.com/watch?v=xOrHP41v1rg&t=527s](https://www.youtube.com/watch?v=xOrHP41v1rg&t=527s)
 
-<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=527&q=6)</small>
+<small>[Clip it](presserclips://clip?v=xOrHP41v1rg&t=527&q=6) · [Send to Slack](presserclips://clip?v=xOrHP41v1rg&t=527&q=6&slack=1)</small>

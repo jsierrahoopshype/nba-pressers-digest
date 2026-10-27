@@ -1,0 +1,216 @@
+{
+  "video_title": "Brayden Burries Media Availability | 10.27.26",
+  "speakers_seen": [
+    "Brayden Burries"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:14",
+      "summary_phrase": "Brayden Burries on his rookie teammate's early impact in Philadelphia",
+      "names_mentioned": [],
+      "excerpt": "him getting his first points in Philly and then yesterday hitting a big-time three",
+      "quote": "It's pretty cool. My rookie mate, it's the first for everything, but him getting his first points in Philly and then yesterday hitting a big-time three, playing some key defensive possessions and then getting a big-time dunk too, so that was pretty cool.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brayden Burries is impressed by his rookie teammate's early contributions, noting his ability to hit big shots and provide key defensive stops in recent games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brayden Burries discusses the early performance and contributions of a rookie teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:58",
+      "summary_phrase": "Brayden Burries on the impact of playing alongside Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "he makes the game pretty much look easier with his length and size",
+      "quote": "It felt good. We got a good little spark going, some energy. Being out there with him, he makes the game pretty much look easier with his length and size, so it's pretty cool to play alongside Giannis.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brayden Burries says playing alongside Giannis Antetokounmpo makes the game look easier because of his unique length and size.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brayden Burries describes the experience of playing alongside Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brayden Burries",
+      "timestamp": "01:24",
+      "summary_phrase": "Brayden Burries on maintaining mental focus and daily gym work",
+      "names_mentioned": [],
+      "excerpt": "definitely just trying to be mentally focused, be there and continue just being in the gym every day",
+      "quote": "Definitely just trying to be mentally focused, be there and continue just being in the gym every day, and then just take advantage of your opportunity. That's the main thing.",
+      "text_blocks": [],
+      "start_seconds": 84,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brayden Burries on his approach to the season: stay mentally focused, be in the gym every day, and be ready to take advantage of your opportunity.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries talks about his mental approach and daily work ethic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brayden Burries",
+      "timestamp": "01:42",
+      "summary_phrase": "Brayden Burries on his consistent approach to the game",
+      "names_mentioned": [],
+      "excerpt": "work hard, try to be the best version of yourself and live with the results",
+      "quote": "Honestly, I feel like it's the same to me. The way I approach the game, the way I approach each and every day is pretty much the same. Just work hard, try to be the best version of yourself and live with the results.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brayden Burries says his approach to the game remains consistent: work hard, try to be the best version of yourself, and live with the results.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries explains his consistent approach to preparing for games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brayden Burries",
+      "timestamp": "02:05",
+      "summary_phrase": "Brayden Burries on his offensive aggression and shot selection",
+      "names_mentioned": [],
+      "excerpt": "being aggressive, playing off your instincts, that's the best way to play",
+      "quote": "I think just being aggressive, playing off your instincts, that's the best way to play.",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brayden Burries believes the best way to play offensively is to be aggressive and play off your instincts.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries comments on his offensive mindset and playing off instincts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brayden Burries",
+      "timestamp": "03:26",
+      "summary_phrase": "Brayden Burries on the defensive priorities in the current system",
+      "names_mentioned": [],
+      "excerpt": "got to play defense, guard, stop the other team from being in paint, and corner threes",
+      "quote": "Just got to play defense, guard, stop the other team from being in paint, and corner threes, and be pretty good.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brayden Burries outlines the defensive priorities for the team: stop the opponent from getting into the paint and limit corner threes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries outlines the team defensive priorities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Brayden Burries",
+      "timestamp": "04:11",
+      "summary_phrase": "Brayden Burries on defensive rebounding and transition defense",
+      "names_mentioned": [],
+      "excerpt": "stop some from getting transition points and easy points",
+      "quote": "Defense, mainly just got to get the ball. Hold them to one shot, you know, less opportunities. Defense, rebound, I feel like just going to get it, winning it. Offensive rebound, kind of the same. Try to rebound, you don't get it, now you're guarding them. So, stop some from getting transition points and easy points.",
+      "text_blocks": [],
+      "start_seconds": 251,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brayden Burries emphasizes the importance of defensive rebounding to limit opponent opportunities and prevent easy transition points.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses the importance of defensive rebounding and transition defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "7p74kAFLXZI",
+  "url": "https://www.youtube.com/watch?v=7p74kAFLXZI",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T20:43:10Z",
+  "duration_seconds": 279,
+  "processed_at": "2026-10-27T23:46:27Z",
+  "run_id": "2026-10-27T2345Z-20utc",
+  "is_one_off": false
+}

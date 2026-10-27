@@ -10,7 +10,7 @@ Kawhi Leonard: "It just comes on a night-to-night basis, who we are playing agai
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=53s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=53s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=53&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=53&q=1) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=53&q=1&slack=1)</small>
 
 **2. Kawhi Leonard — "they carry themselves like an older team, I would say. Everybody is pretty focused and locked in" — Kawhi Leonard on the maturity of the Raptors' young core** [01:35](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=95s)
 
@@ -18,7 +18,7 @@ Kawhi Leonard: "They carry themselves like an older team, I would say. Everybody
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=95s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=95s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=95&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=95&q=2) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=95&q=2&slack=1)</small>
 
 **3. Scottie Barnes — "just being able to find space, that by our operate is the only thing that we are focused on" — Scottie Barnes on the team's spacing and offensive philosophy** [07:21](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=441s)
 
@@ -26,7 +26,7 @@ Scottie Barnes: "I don't feel like it changes. Just being able to find space, th
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=441s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=441s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=441&q=3)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=441&q=3) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=441&q=3&slack=1)</small>
 
 **4. Scottie Barnes — "it is definitely been beneficial, especially like jumping wise, going for rebounds, dunking, just going for blocks" — Scottie Barnes on his physical improvement during training camp** [08:42](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=522s)
 
@@ -34,7 +34,7 @@ Scottie Barnes: "It is definitely been beneficial, especially like jumping wise,
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=522s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=522s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=522&q=4)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=522&q=4) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=522&q=4&slack=1)</small>
 
 **5. Darko Rajakovic — "from the previous year, obviously the consistency with the guys like Jamison and Bill and Colin and Jamal" — Darko Rajakovic on the team's rotation and second unit development** [13:33](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=813s)
 
@@ -42,7 +42,7 @@ Darko Rajakovic: "From the previous year, obviously the consistency with the guy
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=813s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=813s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=813&q=5)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=813&q=5) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=813&q=5&slack=1)</small>
 
 **6. Darko Rajakovic — "what really makes the difference in this league is when your second unit guys come in" — Darko Rajakovic on the importance of the second unit's impact** [14:38](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=878s)
 
@@ -50,7 +50,7 @@ Darko Rajakovic: "I think what really makes the difference in this league is whe
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=878s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=878s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=878&q=6)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=878&q=6) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=878&q=6&slack=1)</small>
 
 **7. Darko Rajakovic — "Allen Graves who showed us over the whole summer that he can shoot from three-point line" — Darko Rajakovic on the impact of Allen Graves' shooting** [15:53](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=953s)
 
@@ -58,7 +58,7 @@ Darko Rajakovic: "Just **Jamison** and **Bill**, **Kamai**, and also **Allen Gra
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=953s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=953s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=953&q=7)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=953&q=7) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=953&q=7&slack=1)</small>
 
 **8. Darko Rajakovic — "the gravity that he is creating and type of player he is, I think it is going to create" — Darko Rajakovic on the impact of Kawhi Leonard's presence on the floor** [16:18](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=978s)
 
@@ -66,7 +66,7 @@ Darko Rajakovic: "Just the gravity that he is creating and type of player he is,
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=978s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=978s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=978&q=8)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=978&q=8) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=978&q=8&slack=1)</small>
 
 **9. Darko Rajakovic — "Kyle can have a very important role with us this year and in the future" — Darko Rajakovic on Kyle's evolving role and leadership** [19:44](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=1184s)
 
@@ -74,4 +74,4 @@ Darko Rajakovic: "I think **Kyle** can have a very important role with us this y
 
 [https://www.youtube.com/watch?v=jVF7WzC0jHM&t=1184s](https://www.youtube.com/watch?v=jVF7WzC0jHM&t=1184s)
 
-<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=1184&q=9)</small>
+<small>[Clip it](presserclips://clip?v=jVF7WzC0jHM&t=1184&q=9) · [Send to Slack](presserclips://clip?v=jVF7WzC0jHM&t=1184&q=9&slack=1)</small>

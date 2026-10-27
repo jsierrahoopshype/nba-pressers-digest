@@ -10,7 +10,7 @@ Tyronn Lue: "I am very confident. I think his pace and speed and his ability to 
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=17s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=17s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=17&q=1) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=17&q=1&slack=1)</small>
 
 **2. Tyronn Lue — "his athletic ability being able to jump over guys and pursue the basketball" — Tyronn Lue on what makes Isaiah Hartenstein a good rebounder** [00:43](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=43s)
 
@@ -18,7 +18,7 @@ Tyronn Lue: "The combination of his motor, he is always around the ball every si
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=43s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=43s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=43&q=2)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=43&q=2) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=43&q=2&slack=1)</small>
 
 **3. Tyronn Lue — "just tell them what I need from them" — Tyronn Lue on his coaching philosophy regarding player challenges** [01:15](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=75s)
 
@@ -26,7 +26,7 @@ Tyronn Lue: "I just tell them what I need from them. First day of camp, when we 
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=75s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=75s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=75&q=3)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=75&q=3) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=75&q=3&slack=1)</small>
 
 **4. Tyronn Lue — "he is going to have a little bit of both" — Tyronn Lue on the versatility of his point guards** [01:35](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=95s)
 
@@ -34,7 +34,7 @@ Tyronn Lue: "Just seeing how he played in college. He started playing off the ba
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=95s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=95s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=95&q=4)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=95&q=4) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=95&q=4&slack=1)</small>
 
 **5. Tyronn Lue — "we can trust him with the basketball" — Tyronn Lue's confidence in the young point guard's development** [02:27](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=147s)
 
@@ -42,7 +42,7 @@ Tyronn Lue: "We can trust him with the basketball. I know he is young but his co
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=147s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=147s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=147&q=5)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=147&q=5) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=147&q=5&slack=1)</small>
 
 **6. Tyronn Lue — "putting in a lot of stuff early offensively" — Tyronn Lue on implementing new offensive schemes** [02:56](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=176s)
 
@@ -50,7 +50,7 @@ Tyronn Lue: "We are putting in a lot of stuff early offensively, just kind of se
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=176s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=176s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=176&q=6)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=176&q=6) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=176&q=6&slack=1)</small>
 
 **7. Tyronn Lue — "gives the opportunity to have size on the floor to rebound the basketball" — Tyronn Lue on the benefits of playing a bigger lineup** [03:39](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=219s)
 
@@ -58,7 +58,7 @@ Tyronn Lue: "I think just size gives the opportunity to have size on the floor t
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=219s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=219s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=219&q=7)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=219&q=7) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=219&q=7&slack=1)</small>
 
 **8. Tyronn Lue — "he has worked on it and he has been shooting it well" — Tyronn Lue on the team's approach to late-clock three-pointers** [04:06](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=246s)
 
@@ -66,7 +66,7 @@ Tyronn Lue: "He has worked on it and he has been shooting it well. Just not comi
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=246s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=246s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=246&q=8)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=246&q=8) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=246&q=8&slack=1)</small>
 
 **9. Tyronn Lue — "to be able to score three levels" — Tyronn Lue on the keys to efficient scoring** [04:38](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=278s)
 
@@ -74,7 +74,7 @@ Tyronn Lue: "To be able to score three levels. Mid-range is very elite, three-po
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=278s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=278s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=278&q=9)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=278&q=9) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=278&q=9&slack=1)</small>
 
 **10. Tyronn Lue — "just knowing where his spot is and getting to a spot on the floor" — Tyronn Lue on the keys to efficient pull-up shooting** [05:08](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=308s)
 
@@ -82,7 +82,7 @@ Tyronn Lue: "Just getting to his spots. He is 6'8" so he can shoot over top of a
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=308s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=308s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=308&q=10)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=308&q=10) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=308&q=10&slack=1)</small>
 
 **11. Tyronn Lue — "he looked very healthy" — Tyronn Lue on Ben Simmons' return to health** [05:23](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=323s)
 
@@ -90,4 +90,4 @@ Tyronn Lue: "You can see that he put in the work. How he played in transition, h
 
 [https://www.youtube.com/watch?v=vvLXKvR_VL8&t=323s](https://www.youtube.com/watch?v=vvLXKvR_VL8&t=323s)
 
-<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=323&q=11)</small>
+<small>[Clip it](presserclips://clip?v=vvLXKvR_VL8&t=323&q=11) · [Send to Slack](presserclips://clip?v=vvLXKvR_VL8&t=323&q=11&slack=1)</small>

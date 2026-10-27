@@ -10,7 +10,7 @@ Brandon Miller: "I feel like just taking on a more vocal leadership role. I thin
 
 [https://www.youtube.com/watch?v=bfGUYvZnbLA&t=39s](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=39s)
 
-<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=39&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=39&q=1) · [Send to Slack](presserclips://clip?v=bfGUYvZnbLA&t=39&q=1&slack=1)</small>
 
 **2. Brandon Miller — "Naz of course has playoff experience, that's where everyone wants to be." — Brandon Miller praises the veteran experience of Naz, Kobe, and Dennis on the Hornets roster.** [01:10](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=70s)
 
@@ -18,7 +18,7 @@ Brandon Miller: "Just their experience. **Naz** of course has playoff experience
 
 [https://www.youtube.com/watch?v=bfGUYvZnbLA&t=70s](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=70s)
 
-<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=70&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=70&q=2) · [Send to Slack](presserclips://clip?v=bfGUYvZnbLA&t=70&q=2&slack=1)</small>
 
 **3. Brandon Miller — "I think that's going to go a long way with bonds, chemistry." — Brandon Miller credits the team's chemistry to players spending the entire summer working out together.** [02:53](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=173s)
 
@@ -26,4 +26,4 @@ Brandon Miller: "I think it all started before that. In the summer, you don't se
 
 [https://www.youtube.com/watch?v=bfGUYvZnbLA&t=173s](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=173s)
 
-<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=173&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=173&q=3) · [Send to Slack](presserclips://clip?v=bfGUYvZnbLA&t=173&q=3&slack=1)</small>

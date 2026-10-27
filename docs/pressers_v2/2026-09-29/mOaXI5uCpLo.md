@@ -10,7 +10,7 @@ Duncan Robinson: "We got a lot of guys that can shoot, which is really exciting.
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=92s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=92s)
 
-<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=92&q=1)</small>
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=92&q=1) · [Send to Slack](presserclips://clip?v=mOaXI5uCpLo&t=92&q=1&slack=1)</small>
 
 **2. Duncan Robinson — Duncan Robinson praises the energy and charisma John Collins brings to the Detroit Pistons.** [02:06](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s)
 
@@ -18,7 +18,7 @@ Duncan Robinson: "Just his energy, just the way he shows up every single day. Su
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s)
 
-<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=126&q=2)</small>
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=126&q=2) · [Send to Slack](presserclips://clip?v=mOaXI5uCpLo&t=126&q=2&slack=1)</small>
 
 **3. Duncan Robinson — "Despite his size, he's really comfortable getting shots off in and around the paint." — Duncan Robinson praises the skill and rim protection of rookie Corey.** [03:30](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s)
 
@@ -26,4 +26,4 @@ Duncan Robinson: "He's been great to be around. He's super tough, just with how 
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s)
 
-<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=210&q=3)</small>
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=210&q=3) · [Send to Slack](presserclips://clip?v=mOaXI5uCpLo&t=210&q=3&slack=1)</small>

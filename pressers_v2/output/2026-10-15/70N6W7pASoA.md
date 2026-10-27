@@ -10,7 +10,7 @@ Tyrese Maxey: "We're all healthy. A lot of guys are pretty healthy. I think that
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=66s](https://www.youtube.com/watch?v=70N6W7pASoA&t=66s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=66&q=1)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=66&q=1) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=66&q=1&slack=1)</small>
 
 **2. Tyrese Maxey — "He can play with so many different groups, so many different lineups because of the way he shoots." — Tyrese Maxey on the offensive impact of Paul George** [01:31](https://www.youtube.com/watch?v=70N6W7pASoA&t=91s)
 
@@ -18,7 +18,7 @@ Tyrese Maxey: "I'm super excited about **Paul George**. The little bit that we'v
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=91s](https://www.youtube.com/watch?v=70N6W7pASoA&t=91s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=91&q=2)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=91&q=2) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=91&q=2&slack=1)</small>
 
 **3. Tyrese Maxey — "Proper preparation prevents poor performance. So for us, we're trying to prepare the right way." — Tyrese Maxey on how preparation reduces pressure for the 76ers** [02:31](https://www.youtube.com/watch?v=70N6W7pASoA&t=151s)
 
@@ -26,7 +26,7 @@ Tyrese Maxey: "If you prepare, that takes the pressure away. My dad used to tell
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=151s](https://www.youtube.com/watch?v=70N6W7pASoA&t=151s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=151&q=3)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=151&q=3) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=151&q=3&slack=1)</small>
 
 **4. Tyrese Maxey — "Sacrifice doesn't always mean you got to give up something. Sacrifice could mean Joel Embiid working out with LeBron James." — Tyrese Maxey defines sacrifice as building team chemistry** [03:03](https://www.youtube.com/watch?v=70N6W7pASoA&t=183s)
 
@@ -34,7 +34,7 @@ Tyrese Maxey: "Sacrifice doesn't always mean you got to give up something. Sacri
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=183s](https://www.youtube.com/watch?v=70N6W7pASoA&t=183s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=183&q=4)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=183&q=4) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=183&q=4&slack=1)</small>
 
 **5. Tyrese Maxey — "Defending, getting stops. We're getting stops and just the times that we played, we're getting stops." — Tyrese Maxey on the 76ers' defensive focus** [04:04](https://www.youtube.com/watch?v=70N6W7pASoA&t=244s)
 
@@ -42,7 +42,7 @@ Tyrese Maxey: "Defending, getting stops. We're getting stops and just the times 
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=244s](https://www.youtube.com/watch?v=70N6W7pASoA&t=244s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=244&q=5)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=244&q=5) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=244&q=5&slack=1)</small>
 
 **6. Tyrese Maxey — "And now for him to be healthy throughout the entirety, like I said, you can put in more packages." — Tyrese Maxey on the importance of Joel Embiid's health** [04:39](https://www.youtube.com/watch?v=70N6W7pASoA&t=279s)
 
@@ -50,7 +50,7 @@ Tyrese Maxey: "And now for him to be healthy throughout the entirety, like I sai
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=279s](https://www.youtube.com/watch?v=70N6W7pASoA&t=279s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=279&q=6)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=279&q=6) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=279&q=6&slack=1)</small>
 
 **7. Tyrese Maxey — "But they're unselfish turnovers. Those turnovers you can live with." — Tyrese Maxey on the 76ers' unselfish turnover rate** [06:06](https://www.youtube.com/watch?v=70N6W7pASoA&t=366s)
 
@@ -58,7 +58,7 @@ Tyrese Maxey: "The biggest thing that I've seen is guys are unselfish. When we p
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=366s](https://www.youtube.com/watch?v=70N6W7pASoA&t=366s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=366&q=7)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=366&q=7) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=366&q=7&slack=1)</small>
 
 **8. Tyrese Maxey — "Paul George has gotten better every single day. He grows as a player every single day." — Tyrese Maxey on Paul George's growth as a player** [06:26](https://www.youtube.com/watch?v=70N6W7pASoA&t=386s)
 
@@ -66,7 +66,7 @@ Tyrese Maxey: "**Paul George** has gotten better every single day. He grows as a
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=386s](https://www.youtube.com/watch?v=70N6W7pASoA&t=386s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=386&q=8)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=386&q=8) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=386&q=8&slack=1)</small>
 
 **9. Tyrese Maxey — "I think the camaraderie, that's the biggest thing, how fast we clicked." — Tyrese Maxey on the team's chemistry and competitiveness** [07:16](https://www.youtube.com/watch?v=70N6W7pASoA&t=436s)
 
@@ -74,4 +74,4 @@ Tyrese Maxey: "I think the camaraderie, that's the biggest thing, how fast we cl
 
 [https://www.youtube.com/watch?v=70N6W7pASoA&t=436s](https://www.youtube.com/watch?v=70N6W7pASoA&t=436s)
 
-<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=436&q=9)</small>
+<small>[Clip it](presserclips://clip?v=70N6W7pASoA&t=436&q=9) · [Send to Slack](presserclips://clip?v=70N6W7pASoA&t=436&q=9&slack=1)</small>

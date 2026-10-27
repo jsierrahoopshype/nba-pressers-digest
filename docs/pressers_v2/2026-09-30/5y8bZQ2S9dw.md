@@ -10,7 +10,7 @@ Nick Nurse: "I have been super impressed with his vision and his passing and his
 
 [https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=314s](https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=314s)
 
-<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=314&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=314&q=1) · [Send to Slack](presserclips://clip?v=5y8bZQ2S9dw&t=314&q=1&slack=1)</small>
 
 **2. Nick Nurse — "I think now we have got a little bit more depth size athleticism" — Nick Nurse plans to implement more defensive schemes due to increased roster depth and athleticism.** [06:13](https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=373s)
 
@@ -18,4 +18,4 @@ Nick Nurse: "Recently I do not feel like I have been able to get into my bag of 
 
 [https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=373s](https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=373s)
 
-<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=373&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=373&q=2) · [Send to Slack](presserclips://clip?v=5y8bZQ2S9dw&t=373&q=2&slack=1)</small>

@@ -10,7 +10,7 @@ Rick Carlisle: "First of all, our collective prayers go out to **Ortega O'A**. N
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=0s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=0s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=0&q=1) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=0&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "he just came and played his game and he was Tyrese Haliburton" — Rick Carlisle praises Tyrese Haliburton's approach and resilience in his return** [01:35](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=95s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "Just the approach, you know, coming back in here and being reall
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=95s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=95s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=95&q=2)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=95&q=2) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=95&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "his screening is something that's going to be a major plus for us" — Rick Carlisle highlights Avita Zubac's versatility and impact on the team** [01:51](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=111s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "He's got great feel, he's got a lot of skill, he's got power, si
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=111s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=111s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=111&q=3)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=111&q=3) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=111&q=3&slack=1)</small>
 
 **4. Rick Carlisle — "we expected him to get stronger each game" — Rick Carlisle discusses Tyrese Haliburton's physical progression during training camp** [02:59](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=179s)
 
@@ -34,4 +34,4 @@ Rick Carlisle: "If you're looking for a positive progression throughout training
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=179s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=179s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=179&q=4)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=179&q=4) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=179&q=4&slack=1)</small>

@@ -10,7 +10,7 @@ Charles Lee: "I thought we did a much better job of playing with the pass. In th
 
 [https://www.youtube.com/watch?v=MKlPYtWCZrI&t=9s](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=9s)
 
-<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=9&q=1) · [Send to Slack](presserclips://clip?v=MKlPYtWCZrI&t=9&q=1&slack=1)</small>
 
 **2. Charles Lee — "you can feel him in the game, whether he's making shots or missing shots" — Charles Lee evaluates the impact of rookie Tidjane Salaün** [01:02](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=62s)
 
@@ -18,7 +18,7 @@ Charles Lee: "You can feel his impact. You can feel him in the game, whether he'
 
 [https://www.youtube.com/watch?v=MKlPYtWCZrI&t=62s](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=62s)
 
-<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=62&q=2)</small>
+<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=62&q=2) · [Send to Slack](presserclips://clip?v=MKlPYtWCZrI&t=62&q=2&slack=1)</small>
 
 **3. Charles Lee — "the guy just has a knack for getting involved" — Charles Lee praises the versatility and impact of rookie Royce** [02:33](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=153s)
 
@@ -26,7 +26,7 @@ Charles Lee: "The guy just has a knack for getting involved. Love having him aro
 
 [https://www.youtube.com/watch?v=MKlPYtWCZrI&t=153s](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=153s)
 
-<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=153&q=3)</small>
+<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=153&q=3) · [Send to Slack](presserclips://clip?v=MKlPYtWCZrI&t=153&q=3&slack=1)</small>
 
 **4. Charles Lee — "we have a ton of returning guys, we have some new guys coming in" — Charles Lee on team progress and integrating new veteran players** [03:16](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=196s)
 
@@ -34,7 +34,7 @@ Charles Lee: "We've made great progress from game one to game two, from day one 
 
 [https://www.youtube.com/watch?v=MKlPYtWCZrI&t=196s](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=196s)
 
-<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=196&q=4)</small>
+<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=196&q=4) · [Send to Slack](presserclips://clip?v=MKlPYtWCZrI&t=196&q=4&slack=1)</small>
 
 **5. Charles Lee — "his ability to be a little bit more efficient with the dribble last game was really good" — Charles Lee on the efficiency and growth of Tre Mann** [03:58](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=238s)
 
@@ -42,4 +42,4 @@ Charles Lee: "I've loved **Tre Mann**'s, especially last game, I thought that hi
 
 [https://www.youtube.com/watch?v=MKlPYtWCZrI&t=238s](https://www.youtube.com/watch?v=MKlPYtWCZrI&t=238s)
 
-<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=238&q=5)</small>
+<small>[Clip it](presserclips://clip?v=MKlPYtWCZrI&t=238&q=5) · [Send to Slack](presserclips://clip?v=MKlPYtWCZrI&t=238&q=5&slack=1)</small>

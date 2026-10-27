@@ -10,7 +10,7 @@ Ty Jerome: "That's who we are as a group. We're going to play 10 tonight, someti
 
 [https://www.youtube.com/watch?v=mXypHSkNcaM&t=45s](https://www.youtube.com/watch?v=mXypHSkNcaM&t=45s)
 
-<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=45&q=1)</small>
+<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=45&q=1) · [Send to Slack](presserclips://clip?v=mXypHSkNcaM&t=45&q=1&slack=1)</small>
 
 **2. Ty Jerome — "they were playing most of my ball screens like in a drop and weren't really sending extra help" — Ty Jerome on his confidence in shooting against drop coverage** [01:31](https://www.youtube.com/watch?v=mXypHSkNcaM&t=91s)
 
@@ -18,7 +18,7 @@ Ty Jerome: "The game tells you what to do. They were playing most of my ball scr
 
 [https://www.youtube.com/watch?v=mXypHSkNcaM&t=91s](https://www.youtube.com/watch?v=mXypHSkNcaM&t=91s)
 
-<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=91&q=2)</small>
+<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=91&q=2) · [Send to Slack](presserclips://clip?v=mXypHSkNcaM&t=91&q=2&slack=1)</small>
 
 **3. Ty Jerome — "the way we guarded and frustrated them started with J. Wells, Scotty did a really good job" — Ty Jerome on the Grizzlies' defensive effort against the Jazz** [02:13](https://www.youtube.com/watch?v=mXypHSkNcaM&t=133s)
 
@@ -26,7 +26,7 @@ Ty Jerome: "That's a really good offensive team and they scored 103 points. Obvi
 
 [https://www.youtube.com/watch?v=mXypHSkNcaM&t=133s](https://www.youtube.com/watch?v=mXypHSkNcaM&t=133s)
 
-<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=133&q=3)</small>
+<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=133&q=3) · [Send to Slack](presserclips://clip?v=mXypHSkNcaM&t=133&q=3&slack=1)</small>
 
 **4. Ty Jerome — "we stop getting back on defense for a second, stuff like that can't happen" — Ty Jerome on the need to eliminate mental lapses defensively** [03:02](https://www.youtube.com/watch?v=mXypHSkNcaM&t=182s)
 
@@ -34,7 +34,7 @@ Ty Jerome: "Mid to late third quarter, we stop getting back on defense for a sec
 
 [https://www.youtube.com/watch?v=mXypHSkNcaM&t=182s](https://www.youtube.com/watch?v=mXypHSkNcaM&t=182s)
 
-<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=182&q=4)</small>
+<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=182&q=4) · [Send to Slack](presserclips://clip?v=mXypHSkNcaM&t=182&q=4&slack=1)</small>
 
 **5. Ty Jerome — "continue to play with our identity, our pace" — Ty Jerome on maintaining the Grizzlies' identity throughout the season** [05:17](https://www.youtube.com/watch?v=mXypHSkNcaM&t=317s)
 
@@ -42,4 +42,4 @@ Ty Jerome: "Continue to play with our identity, our pace. I don't have to look a
 
 [https://www.youtube.com/watch?v=mXypHSkNcaM&t=317s](https://www.youtube.com/watch?v=mXypHSkNcaM&t=317s)
 
-<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=317&q=5)</small>
+<small>[Clip it](presserclips://clip?v=mXypHSkNcaM&t=317&q=5) · [Send to Slack](presserclips://clip?v=mXypHSkNcaM&t=317&q=5&slack=1)</small>

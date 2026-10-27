@@ -10,7 +10,7 @@ Jaime Jaquez Jr.: "One of the things we've been working on is just getting our c
 
 [https://www.youtube.com/watch?v=SjFkCWoS2R4&t=0s](https://www.youtube.com/watch?v=SjFkCWoS2R4&t=0s)
 
-<small>[Clip it](presserclips://clip?v=SjFkCWoS2R4&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=SjFkCWoS2R4&t=0&q=1) · [Send to Slack](presserclips://clip?v=SjFkCWoS2R4&t=0&q=1&slack=1)</small>
 
 **2. Jaime Jaquez Jr. — "you still got to balance that with knowing that there's 79 more games" — Jaime Jaquez Jr. on learning from early season late-game situations** [00:52](https://www.youtube.com/watch?v=SjFkCWoS2R4&t=52s)
 
@@ -18,4 +18,4 @@ Jaime Jaquez Jr.: "For the most part, you just got to stay the course. It's frus
 
 [https://www.youtube.com/watch?v=SjFkCWoS2R4&t=52s](https://www.youtube.com/watch?v=SjFkCWoS2R4&t=52s)
 
-<small>[Clip it](presserclips://clip?v=SjFkCWoS2R4&t=52&q=2)</small>
+<small>[Clip it](presserclips://clip?v=SjFkCWoS2R4&t=52&q=2) · [Send to Slack](presserclips://clip?v=SjFkCWoS2R4&t=52&q=2&slack=1)</small>

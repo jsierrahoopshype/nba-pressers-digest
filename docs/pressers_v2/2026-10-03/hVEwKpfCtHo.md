@@ -10,7 +10,7 @@ Joel Embiid: "I can do everything on the basketball court, whether I'm at the to
 
 [https://www.youtube.com/watch?v=hVEwKpfCtHo&t=47s](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=47s)
 
-<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=47&q=1)</small>
+<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=47&q=1) · [Send to Slack](presserclips://clip?v=hVEwKpfCtHo&t=47&q=1&slack=1)</small>
 
 **2. Joel Embiid — "if we don't have anything, I'm the trailer guy and some of those times I'm probably going to be" — Joel Embiid on the team's transition offense and his role** [01:22](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=82s)
 
@@ -18,7 +18,7 @@ Joel Embiid: "If we don't have anything, I'm the trailer guy and some of those t
 
 [https://www.youtube.com/watch?v=hVEwKpfCtHo&t=82s](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=82s)
 
-<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=82&q=2)</small>
+<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=82&q=2) · [Send to Slack](presserclips://clip?v=hVEwKpfCtHo&t=82&q=2&slack=1)</small>
 
 **3. Joel Embiid — "Jalen Brunson has been great. Second year, he's around a lot of great players, great people to learn from." — Joel Embiid on Jalen Brunson's leadership and vocal presence** [02:20](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=140s)
 
@@ -26,7 +26,7 @@ Joel Embiid: "**Jalen Brunson** has been great. Second year, he's around a lot o
 
 [https://www.youtube.com/watch?v=hVEwKpfCtHo&t=140s](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=140s)
 
-<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=140&q=3)</small>
+<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=140&q=3) · [Send to Slack](presserclips://clip?v=hVEwKpfCtHo&t=140&q=3&slack=1)</small>
 
 **4. Joel Embiid — "when you put a bunch of players together that have a high basketball IQ, it's going to be easy" — Joel Embiid on chemistry with Jalen Brunson from the Olympics** [02:45](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=165s)
 
@@ -34,7 +34,7 @@ Joel Embiid: "Whether we have played together or not, I don't think it was going
 
 [https://www.youtube.com/watch?v=hVEwKpfCtHo&t=165s](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=165s)
 
-<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=165&q=4)</small>
+<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=165&q=4) · [Send to Slack](presserclips://clip?v=hVEwKpfCtHo&t=165&q=4&slack=1)</small>
 
 **5. Joel Embiid — "Everybody keeps talking about sacrificing, but I don't really see that sacrificing. It's just being the best version" — Joel Embiid on team sacrifice and efficiency** [05:38](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=338s)
 
@@ -42,4 +42,4 @@ Joel Embiid: "Everybody keeps talking about sacrificing, but I don't really see 
 
 [https://www.youtube.com/watch?v=hVEwKpfCtHo&t=338s](https://www.youtube.com/watch?v=hVEwKpfCtHo&t=338s)
 
-<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=338&q=5)</small>
+<small>[Clip it](presserclips://clip?v=hVEwKpfCtHo&t=338&q=5) · [Send to Slack](presserclips://clip?v=hVEwKpfCtHo&t=338&q=5&slack=1)</small>

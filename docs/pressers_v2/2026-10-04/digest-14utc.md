@@ -14,7 +14,7 @@ Kelly Oubre Jr.: "It felt great. Just playing on the game floor, that's the firs
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=5s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=5s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=5&q=1) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=5&q=1&slack=1)</small>
 
 **2. Tyrese Haliburton — "this is the first time I've left fan jam and felt my body's felt good" — Tyrese Haliburton on his physical health after fan jam** [02:02](https://www.youtube.com/watch?v=U9wd80bQbhk&t=122s)
 
@@ -22,7 +22,7 @@ Tyrese Haliburton: "Still defeated. I've never won a fan jam game, but this is t
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=122s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=122s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=122&q=2)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=122&q=2) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=122&q=2&slack=1)</small>
 
 **3. Tyrese Haliburton — "I feel like we have good size in our second group, they can guard multiple positions" — Tyrese Haliburton on the versatility of the second unit** [02:53](https://www.youtube.com/watch?v=U9wd80bQbhk&t=173s)
 
@@ -30,7 +30,7 @@ Tyrese Haliburton: "I feel like we have good size in our second group, they can 
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=173s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=173s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=173&q=3)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=173&q=3) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=173&q=3&slack=1)</small>
 
 **4. Tyrese Haliburton — "such a big guy, poses a lot of different threats offensively and defensively" — Tyrese Haliburton on the immediate impact of Zuse** [03:23](https://www.youtube.com/watch?v=U9wd80bQbhk&t=203s)
 
@@ -38,7 +38,7 @@ Tyrese Haliburton: "Obviously, **Zuse** is such a big guy, poses a lot of differ
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=203s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=203s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=203&q=4)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=203&q=4) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=203&q=4&slack=1)</small>
 
 **5. Tyrese Haliburton — "ever since I've become the MC over the last two years, I like to run a democracy" — Tyrese Haliburton on the rookie song selection process** [03:50](https://www.youtube.com/watch?v=U9wd80bQbhk&t=230s)
 
@@ -46,7 +46,7 @@ Tyrese Haliburton: "Ever since I've become the MC over the last two years, I lik
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=230s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=230s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=230&q=5)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=230&q=5) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=230&q=5&slack=1)</small>
 
 **6. Braden Smith — "we actually played in practice yesterday for the locker rooms, for the home locker room" — Braden Smith on the team's practice performance** [05:05](https://www.youtube.com/watch?v=U9wd80bQbhk&t=305s)
 
@@ -54,7 +54,7 @@ Braden Smith: "We actually played in practice yesterday for the locker rooms, fo
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=305s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=305s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=305&q=6)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=305&q=6) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=305&q=6&slack=1)</small>
 
 **7. Braden Smith — "you got to like just buy into it. I know I'm not a good singer anyways" — Braden Smith on embracing the rookie hazing** [05:24](https://www.youtube.com/watch?v=U9wd80bQbhk&t=324s)
 
@@ -62,7 +62,7 @@ Braden Smith: "You got to like just buy into it. I know I'm not a good singer an
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=324s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=324s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=324&q=7)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=324&q=7) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=324&q=7&slack=1)</small>
 
 **8. Braden Smith — "if we limit them to a couple more rebounds, second chance points, it could be a lot different" — Braden Smith on the blue unit's performance** [06:01](https://www.youtube.com/watch?v=U9wd80bQbhk&t=361s)
 
@@ -70,7 +70,7 @@ Braden Smith: "I thought obviously if we limit them to a couple more rebounds, s
 
 [https://www.youtube.com/watch?v=U9wd80bQbhk&t=361s](https://www.youtube.com/watch?v=U9wd80bQbhk&t=361s)
 
-<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=361&q=8)</small>
+<small>[Clip it](presserclips://clip?v=U9wd80bQbhk&t=361&q=8) · [Send to Slack](presserclips://clip?v=U9wd80bQbhk&t=361&q=8&slack=1)</small>
 
 ---
 
@@ -86,7 +86,7 @@ Jalen Duren: "There has been a lot of talk, speculation, and false narratives ar
 
 [https://www.youtube.com/watch?v=Bfw078wdvUs&t=151s](https://www.youtube.com/watch?v=Bfw078wdvUs&t=151s)
 
-<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=151&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=151&q=1) · [Send to Slack](presserclips://clip?v=Bfw078wdvUs&t=151&q=1&slack=1)</small>
 
 **2. Jalen Duren — "I know everyone here, you, your colleagues and the media have a job to do and I respect that." — Jalen Duren clarifies his time away from the team** [03:36](https://www.youtube.com/watch?v=Bfw078wdvUs&t=216s)
 
@@ -94,7 +94,7 @@ Jalen Duren: "I know everyone here, you, your colleagues and the media have a jo
 
 [https://www.youtube.com/watch?v=Bfw078wdvUs&t=216s](https://www.youtube.com/watch?v=Bfw078wdvUs&t=216s)
 
-<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=216&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=216&q=2) · [Send to Slack](presserclips://clip?v=Bfw078wdvUs&t=216&q=2&slack=1)</small>
 
 **3. Jalen Duren — "I think mentally, I think obviously physically, working on my body, working on my game, staying ready." — Jalen Duren on his mental growth during the offseason** [08:10](https://www.youtube.com/watch?v=Bfw078wdvUs&t=490s)
 
@@ -102,7 +102,7 @@ Jalen Duren: "I think mentally, I think obviously physically, working on my body
 
 [https://www.youtube.com/watch?v=Bfw078wdvUs&t=490s](https://www.youtube.com/watch?v=Bfw078wdvUs&t=490s)
 
-<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=490&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=490&q=3) · [Send to Slack](presserclips://clip?v=Bfw078wdvUs&t=490&q=3&slack=1)</small>
 
 **4. Jalen Duren — "I am a Detroit Piston, I want to be a Detroit Piston for life." — Jalen Duren reaffirms his commitment to the Detroit Pistons** [09:16](https://www.youtube.com/watch?v=Bfw078wdvUs&t=556s)
 
@@ -110,7 +110,7 @@ Jalen Duren: "I am a Detroit Piston, I want to be a Detroit Piston for life. I w
 
 [https://www.youtube.com/watch?v=Bfw078wdvUs&t=556s](https://www.youtube.com/watch?v=Bfw078wdvUs&t=556s)
 
-<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=556&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=556&q=4) · [Send to Slack](presserclips://clip?v=Bfw078wdvUs&t=556&q=4&slack=1)</small>
 
 **5. Jalen Duren — "We got some some great shooting with Toryn Prince, Isaiah Joe, John Collins." — Jalen Duren discusses the new additions to the Pistons roster** [12:44](https://www.youtube.com/watch?v=Bfw078wdvUs&t=764s)
 
@@ -118,7 +118,7 @@ Jalen Duren: "I'm excited, man. I couldn't lie to you. We got some some great sh
 
 [https://www.youtube.com/watch?v=Bfw078wdvUs&t=764s](https://www.youtube.com/watch?v=Bfw078wdvUs&t=764s)
 
-<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=764&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=764&q=5) · [Send to Slack](presserclips://clip?v=Bfw078wdvUs&t=764&q=5&slack=1)</small>
 
 **6. Jalen Duren — "I think just tightening up everything, tightening up shot mechanics, working on my body first and foremost." — Jalen Duren on his offseason training and game development** [13:33](https://www.youtube.com/watch?v=Bfw078wdvUs&t=813s)
 
@@ -126,7 +126,7 @@ Jalen Duren: "I think just tightening up everything, tightening up shot mechanic
 
 [https://www.youtube.com/watch?v=Bfw078wdvUs&t=813s](https://www.youtube.com/watch?v=Bfw078wdvUs&t=813s)
 
-<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=813&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Bfw078wdvUs&t=813&q=6) · [Send to Slack](presserclips://clip?v=Bfw078wdvUs&t=813&q=6&slack=1)</small>
 
 ---
 

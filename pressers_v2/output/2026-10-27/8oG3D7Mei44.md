@@ -10,7 +10,7 @@ Jordan Ott: "Our group, we talk a lot about our defensive intensity, our defensi
 
 [https://www.youtube.com/watch?v=8oG3D7Mei44&t=7s](https://www.youtube.com/watch?v=8oG3D7Mei44&t=7s)
 
-<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=7&q=1) · [Send to Slack](presserclips://clip?v=8oG3D7Mei44&t=7&q=1&slack=1)</small>
 
 **2. Jordan Ott — "they send you multiple bodies, you know, at different times of the game" — Jordan Ott on Devin Booker's performance and defensive attention** [00:57](https://www.youtube.com/watch?v=8oG3D7Mei44&t=57s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "I think we got to see some of that early, and give them credit. Tha
 
 [https://www.youtube.com/watch?v=8oG3D7Mei44&t=57s](https://www.youtube.com/watch?v=8oG3D7Mei44&t=57s)
 
-<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=57&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=57&q=2) · [Send to Slack](presserclips://clip?v=8oG3D7Mei44&t=57&q=2&slack=1)</small>
 
 **3. Jordan Ott — "we got some high-quality looks, so that's what we're always searching" — Jordan Ott on the Suns' offensive intent and shooting strategy** [02:02](https://www.youtube.com/watch?v=8oG3D7Mei44&t=122s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "I thought we got some high-quality looks, so that's what we're alwa
 
 [https://www.youtube.com/watch?v=8oG3D7Mei44&t=122s](https://www.youtube.com/watch?v=8oG3D7Mei44&t=122s)
 
-<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=122&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=122&q=3) · [Send to Slack](presserclips://clip?v=8oG3D7Mei44&t=122&q=3&slack=1)</small>
 
 **4. Jordan Ott — "we need 48 minutes of a great five-man play" — Jordan Ott on the Suns' search for a five-man lineup** [02:46](https://www.youtube.com/watch?v=8oG3D7Mei44&t=166s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "We're searching. We're searching for that. We need 48 minutes of a 
 
 [https://www.youtube.com/watch?v=8oG3D7Mei44&t=166s](https://www.youtube.com/watch?v=8oG3D7Mei44&t=166s)
 
-<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=166&q=4)</small>
+<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=166&q=4) · [Send to Slack](presserclips://clip?v=8oG3D7Mei44&t=166&q=4&slack=1)</small>
 
 **5. Jordan Ott — "he's catching a lot out of him at a time" — Jordan Ott on the development of the team's young players** [03:32](https://www.youtube.com/watch?v=8oG3D7Mei44&t=212s)
 
@@ -42,4 +42,4 @@ Jordan Ott: "I don't think this play is not game-by-game for him. It's a long sc
 
 [https://www.youtube.com/watch?v=8oG3D7Mei44&t=212s](https://www.youtube.com/watch?v=8oG3D7Mei44&t=212s)
 
-<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=212&q=5)</small>
+<small>[Clip it](presserclips://clip?v=8oG3D7Mei44&t=212&q=5) · [Send to Slack](presserclips://clip?v=8oG3D7Mei44&t=212&q=5&slack=1)</small>

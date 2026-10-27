@@ -10,7 +10,7 @@ Labaron Philon Jr.: "I think it's going to be a pretty good game. For me, playin
 
 [https://www.youtube.com/watch?v=FSosh8ffebs&t=3s](https://www.youtube.com/watch?v=FSosh8ffebs&t=3s)
 
-<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=3&q=1) · [Send to Slack](presserclips://clip?v=FSosh8ffebs&t=3&q=1&slack=1)</small>
 
 **2. Labaron Philon Jr. — "I really haven't seen these kind of matchups throughout the NBA like it is this year" — Labaron Philon Jr. on the intensity of early season NBA matchups** [01:15](https://www.youtube.com/watch?v=FSosh8ffebs&t=75s)
 
@@ -18,7 +18,7 @@ Labaron Philon Jr.: "Growing up as a kid, just watching all the first games, and
 
 [https://www.youtube.com/watch?v=FSosh8ffebs&t=75s](https://www.youtube.com/watch?v=FSosh8ffebs&t=75s)
 
-<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=75&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=75&q=2) · [Send to Slack](presserclips://clip?v=FSosh8ffebs&t=75&q=2&slack=1)</small>
 
 **3. Labaron Philon Jr. — "you can't get no better motivation after seeing that and stepping on the floor" — Labaron Philon Jr. on the motivation of playing defending champions** [01:42](https://www.youtube.com/watch?v=FSosh8ffebs&t=102s)
 
@@ -26,7 +26,7 @@ Labaron Philon Jr.: "They are getting their rings. I feel like that's exciting f
 
 [https://www.youtube.com/watch?v=FSosh8ffebs&t=102s](https://www.youtube.com/watch?v=FSosh8ffebs&t=102s)
 
-<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=102&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=102&q=3) · [Send to Slack](presserclips://clip?v=FSosh8ffebs&t=102&q=3&slack=1)</small>
 
 **4. Labaron Philon Jr. — "everybody got different skill levels and we can use it like when it come to late game situations" — Labaron Philon Jr. on team engagement and player readiness** [02:31](https://www.youtube.com/watch?v=FSosh8ffebs&t=151s)
 
@@ -34,7 +34,7 @@ Labaron Philon Jr.: "The coaches for sure, the way they plan things and prep us 
 
 [https://www.youtube.com/watch?v=FSosh8ffebs&t=151s](https://www.youtube.com/watch?v=FSosh8ffebs&t=151s)
 
-<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=151&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=151&q=4) · [Send to Slack](presserclips://clip?v=FSosh8ffebs&t=151&q=4&slack=1)</small>
 
 **5. Labaron Philon Jr. — "all five guys that step on the floor you got to defend" — Labaron Philon Jr. on team defensive focus and rebounding** [03:30](https://www.youtube.com/watch?v=FSosh8ffebs&t=210s)
 
@@ -42,7 +42,7 @@ Labaron Philon Jr.: "I would definitely say on the rebounding level, just everyb
 
 [https://www.youtube.com/watch?v=FSosh8ffebs&t=210s](https://www.youtube.com/watch?v=FSosh8ffebs&t=210s)
 
-<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=210&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=210&q=5) · [Send to Slack](presserclips://clip?v=FSosh8ffebs&t=210&q=5&slack=1)</small>
 
 **6. Labaron Philon Jr. — "I'm a young guy so I got to go ten times harder" — Labaron Philon Jr. on his rookie mentality and work ethic** [04:30](https://www.youtube.com/watch?v=FSosh8ffebs&t=270s)
 
@@ -50,4 +50,4 @@ Labaron Philon Jr.: "For myself, just staying level-headed, staying ready, being
 
 [https://www.youtube.com/watch?v=FSosh8ffebs&t=270s](https://www.youtube.com/watch?v=FSosh8ffebs&t=270s)
 
-<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=270&q=6)</small>
+<small>[Clip it](presserclips://clip?v=FSosh8ffebs&t=270&q=6) · [Send to Slack](presserclips://clip?v=FSosh8ffebs&t=270&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Brayden Burries: "I was just confident. Short-term memory. I wanted to win. My t
 
 [https://www.youtube.com/watch?v=tHa-roCuRSQ&t=7s](https://www.youtube.com/watch?v=tHa-roCuRSQ&t=7s)
 
-<small>[Clip it](presserclips://clip?v=tHa-roCuRSQ&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tHa-roCuRSQ&t=7&q=1) · [Send to Slack](presserclips://clip?v=tHa-roCuRSQ&t=7&q=1&slack=1)</small>
 
 **2. Brayden Burries — "Just continue to find other ways to win, impact the game of winning outside of scoring." — Brayden Burries on impacting the game beyond scoring** [00:33](https://www.youtube.com/watch?v=tHa-roCuRSQ&t=33s)
 
@@ -18,7 +18,7 @@ Brayden Burries: "Just continue to find other ways to win, impact the game of wi
 
 [https://www.youtube.com/watch?v=tHa-roCuRSQ&t=33s](https://www.youtube.com/watch?v=tHa-roCuRSQ&t=33s)
 
-<small>[Clip it](presserclips://clip?v=tHa-roCuRSQ&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tHa-roCuRSQ&t=33&q=2) · [Send to Slack](presserclips://clip?v=tHa-roCuRSQ&t=33&q=2&slack=1)</small>
 
 **3. Brayden Burries — "It is super important for me, for confidence, knowing that I can play at this level." — Brayden Burries on the importance of fourth-quarter confidence** [01:27](https://www.youtube.com/watch?v=tHa-roCuRSQ&t=87s)
 
@@ -26,4 +26,4 @@ Brayden Burries: "It is super important for me, for confidence, knowing that I c
 
 [https://www.youtube.com/watch?v=tHa-roCuRSQ&t=87s](https://www.youtube.com/watch?v=tHa-roCuRSQ&t=87s)
 
-<small>[Clip it](presserclips://clip?v=tHa-roCuRSQ&t=87&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tHa-roCuRSQ&t=87&q=3) · [Send to Slack](presserclips://clip?v=tHa-roCuRSQ&t=87&q=3&slack=1)</small>

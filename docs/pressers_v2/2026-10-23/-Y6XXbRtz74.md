@@ -10,7 +10,7 @@ Jordan Ott: "**Luke** practiced today. It's the same normal path, trending in th
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=9s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=9s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=9&q=1) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=9&q=1&slack=1)</small>
 
 **2. Jordan Ott — "Some of that's their coverage for sure. They dropped the big so far back." — Devin Booker's lack of three-point attempts in recent game** [00:48](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=48s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "Some of that's their coverage for sure. They dropped the big so far
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=48s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=48s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=48&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=48&q=2) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=48&q=2&slack=1)</small>
 
 **3. Jordan Ott — "It's all about finding high-quality looks, no matter who has the ball." — Finding high-quality shots regardless of who has the ball** [01:32](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=92s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "It's all about finding high-quality looks, no matter who has the ba
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=92s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=92s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=92&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=92&q=3) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=92&q=3&slack=1)</small>
 
 **4. Jordan Ott — "We weren't able to turn rebounds or steals into points like we need to against those guys." — Addressing the team's defensive rebounding and transition struggles** [02:48](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=168s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "They're always a good half-court defense. We weren't able to turn r
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=168s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=168s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=168&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=168&q=4) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=168&q=4&slack=1)</small>
 
 **5. Jordan Ott — "To disrupt you need to put your hands on them. We couldn't get our hands on them." — Team's lack of physicality and rebounding opportunities** [03:52](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=232s)
 
@@ -42,7 +42,7 @@ Jordan Ott: "Our standards are different. The physicality they had, we normally 
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=232s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=232s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=232&q=5)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=232&q=5) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=232&q=5&slack=1)</small>
 
 **6. Jordan Ott — "We appreciate the basketball knowledge of this fan base and the city enjoyment of sports." — Appreciation for the Phoenix basketball fan base knowledge** [04:36](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=276s)
 
@@ -50,7 +50,7 @@ Jordan Ott: "We appreciate the basketball knowledge of this fan base and the cit
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=276s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=276s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=276&q=6)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=276&q=6) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=276&q=6&slack=1)</small>
 
 **7. Jordan Ott — "He's going to have a handful of plays he wants back and he could do better." — Assessing Cam's readiness and role in the rotation** [06:14](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=374s)
 
@@ -58,7 +58,7 @@ Jordan Ott: "That's the NBA. We talk about opportunity, being ready for your opp
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=374s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=374s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=374&q=7)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=374&q=7) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=374&q=7&slack=1)</small>
 
 **8. Jordan Ott — "This group wants to be in the gym, so they were obviously in the gym." — Team response to the first game loss** [07:11](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=431s)
 
@@ -66,4 +66,4 @@ Jordan Ott: "This group wants to be in the gym, so they were obviously in the gy
 
 [https://www.youtube.com/watch?v=-Y6XXbRtz74&t=431s](https://www.youtube.com/watch?v=-Y6XXbRtz74&t=431s)
 
-<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=431&q=8)</small>
+<small>[Clip it](presserclips://clip?v=-Y6XXbRtz74&t=431&q=8) · [Send to Slack](presserclips://clip?v=-Y6XXbRtz74&t=431&q=8&slack=1)</small>

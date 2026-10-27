@@ -10,7 +10,7 @@ Micah Nori: "To me, taking care of the basketball is most important and then uns
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=13s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=13s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=13&q=1) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=13&q=1&slack=1)</small>
 
 **2. Micah Nori — "these guys are our primary ball handlers, these guys are our primary scores" — Defining player roles and expectations for scoring and playmaking** [01:11](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=71s)
 
@@ -18,7 +18,7 @@ Micah Nori: "With our roles, we basically say these guys are our primary ball ha
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=71s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=71s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=71&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=71&q=2) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=71&q=2&slack=1)</small>
 
 **3. Micah Nori — "Denny comes over here to Portland and he was in Washington, he didn't have the ball a lot" — Denny's development and growth since joining the team** [01:57](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=117s)
 
@@ -26,7 +26,7 @@ Micah Nori: "Look at **Denny**, for example. In my opinion, **Denny** comes over
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=117s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=117s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=117&q=3)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=117&q=3) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=117&q=3&slack=1)</small>
 
 **4. Micah Nori — "Hansen is a big that we know is a very good passer that you can play through" — Hansen's potential as a playmaker and his role in the rotation** [02:43](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=163s)
 
@@ -34,7 +34,7 @@ Micah Nori: "**Hansen**, for example, **Hansen** is a big that we know is a very
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=163s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=163s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=163&q=4)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=163&q=4) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=163&q=4&slack=1)</small>
 
 **5. Micah Nori — "we have the luxury of because with what we are going to do rotation wise" — The team's luxury of depth and rotation flexibility** [02:57](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=177s)
 
@@ -42,7 +42,7 @@ Micah Nori: "I think that he has done a very good job and his showing has been v
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=177s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=177s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=177&q=5)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=177&q=5) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=177&q=5&slack=1)</small>
 
 **6. Micah Nori — "everybody that is capable of leading you want to lead" — Identifying leadership qualities in players like Tumani** [03:27](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=207s)
 
@@ -50,7 +50,7 @@ Micah Nori: "Everybody that is capable of leading you want to lead. And I think 
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=207s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=207s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=207&q=6)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=207&q=6) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=207&q=6&slack=1)</small>
 
 **7. Micah Nori — "Tumani, you watch the way he goes about his business defensively on the floor" — Tumani's defensive impact and non-verbal leadership** [04:17](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=257s)
 
@@ -58,7 +58,7 @@ Micah Nori: "**Tumani**, you watch the way he goes about his business defensivel
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=257s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=257s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=257&q=7)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=257&q=7) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=257&q=7&slack=1)</small>
 
 **8. Micah Nori — "he was in the 100th percentile of his matchup every single night" — Tumani's defensive analytics and high-level consistency** [05:15](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=315s)
 
@@ -66,4 +66,4 @@ Micah Nori: "He is a guy that you love to have on your team. He doesn't need the
 
 [https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=315s](https://www.youtube.com/watch?v=zj9ZrcoPEGM&t=315s)
 
-<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=315&q=8)</small>
+<small>[Clip it](presserclips://clip?v=zj9ZrcoPEGM&t=315&q=8) · [Send to Slack](presserclips://clip?v=zj9ZrcoPEGM&t=315&q=8&slack=1)</small>

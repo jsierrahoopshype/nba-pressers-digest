@@ -14,7 +14,7 @@ Jalen Williams: "Anytime you can get real game experience and especially crunch 
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=14s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=14s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=14&q=1) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=14&q=1&slack=1)</small>
 
 **2. Jalen Williams — "He is the ultimate pro. He is super mature, influencing the guys with the blue, even me." — Jalen Williams on Zaire Williams' veteran influence on the Thunder** [00:53](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=53s)
 
@@ -22,7 +22,7 @@ Jalen Williams: "The funniest thing about **Zaire Williams**, I think my first c
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=53s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=53s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=53&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=53&q=2) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=53&q=2&slack=1)</small>
 
 **3. Jalen Williams — "Regardless of what it is, he is going to be okay." — Jalen Williams on supporting teammate Ortega through injury setbacks** [01:45](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=105s)
 
@@ -30,7 +30,7 @@ Jalen Williams: "Anytime you see somebody get hurt, whatever it may be, it is ne
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=105s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=105s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=105&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=105&q=3) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=105&q=3&slack=1)</small>
 
 **4. Jalen Williams — "Anytime you are no longer a rookie or first year and you have some experience, you want to do more." — Jalen Williams on stepping up in clutch moments during his second year** [02:15](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=135s)
 
@@ -38,7 +38,7 @@ Jalen Williams: "Anytime you are no longer a rookie or first year and you have s
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=135s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=135s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=135&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=135&q=4) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=135&q=4&slack=1)</small>
 
 **5. Jalen Williams — "I am more confident in shooting the ball, defensively, everywhere, because I have had a whole year." — Jalen Williams on his growth and confidence after his rookie season** [03:08](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=188s)
 
@@ -46,7 +46,7 @@ Jalen Williams: "I just really took this year to assess what I did last year. My
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=188s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=188s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=188&q=5)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=188&q=5) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=188&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "A great example of somebody being professionally ready to go." — Mark Daigneault praises Zaire Williams for his professional readiness** [04:26](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=266s)
 
@@ -54,7 +54,7 @@ Mark Daigneault: "Give him a lot of credit because he did not play in the second
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=266s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=266s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=266&q=6)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=266&q=6) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=266&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "With the way Indiana plays, there is a variance to the game because of the pace." — Mark Daigneault on managing the pace and variance of Indiana's style** [04:56](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=296s)
 
@@ -62,7 +62,7 @@ Mark Daigneault: "With the way Indiana plays, there is a variance to the game be
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=296s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=296s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=296&q=7)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=296&q=7) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=296&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "The rotation is not like a set in stone thing that you like graduate to." — Mark Daigneault on the fluidity of the team's rotation** [05:50](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=350s)
 
@@ -70,7 +70,7 @@ Mark Daigneault: "The rotation is not like a set in stone thing that you like gr
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=350s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=350s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=350&q=8)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=350&q=8) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=350&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "He clearly has a pretty rounded game and does not make a lot of mistakes out there." — Mark Daigneault on Josh Dix's all-around game and development** [06:30](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=390s)
 
@@ -78,7 +78,7 @@ Mark Daigneault: "We gave him first quarter minutes tonight because we wanted to
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=390s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=390s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=390&q=9)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=390&q=9) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=390&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "I thought that was a competitive game all the way throughout, even into the fourth quarter." — Mark Daigneault on the competitive nature of preseason games** [07:32](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=452s)
 
@@ -86,7 +86,7 @@ Mark Daigneault: "I thought that was a competitive game all the way throughout, 
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=452s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=452s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=452&q=10)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=452&q=10) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=452&q=10&slack=1)</small>
 
 **11. Mark Daigneault — "There is an electricity to him when he has got the ball. He is always a threat." — Mark Daigneault on Jared's unique live-dribble threat** [08:16](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=496s)
 
@@ -94,7 +94,7 @@ Mark Daigneault: "There is an electricity to him when he has got the ball. He is
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=496s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=496s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=496&q=11)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=496&q=11) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=496&q=11&slack=1)</small>
 
 **12. Mark Daigneault — "He is like the soul of our team for that reason. He has been for a long time." — Mark Daigneault on James Johnson's role as the team's soul** [09:08](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=548s)
 
@@ -102,7 +102,7 @@ Mark Daigneault: "He is like the soul of our team for that reason. He has been f
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=548s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=548s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=548&q=12)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=548&q=12) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=548&q=12&slack=1)</small>
 
 ---
 
@@ -118,7 +118,7 @@ Gradey Dick: "I just build that confidence to shoot it more. I think that was my
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=17s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=17s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=17&q=1) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=17&q=1&slack=1)</small>
 
 **2. Gradey Dick — "me coming to a new role on this team, still some things I got to learn" — Gradey Dick on learning his new role and team chemistry** [01:13](https://www.youtube.com/watch?v=1N41pfO7Ios&t=73s)
 
@@ -126,7 +126,7 @@ Gradey Dick: "In certain aspects, I'm still getting used to it. Me coming to a n
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=73s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=73s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=73&q=2) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=73&q=2&slack=1)</small>
 
 **3. Gradey Dick — "he's one of the best shot makers, one of the best defenders, one of the best players" — Gradey Dick on the impact of playing with Kawhi Leonard** [01:53](https://www.youtube.com/watch?v=1N41pfO7Ios&t=113s)
 
@@ -134,7 +134,7 @@ Gradey Dick: "It was good. He's one of the best shot makers, one of the best def
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=113s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=113s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=113&q=3)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=113&q=3) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=113&q=3&slack=1)</small>
 
 **4. Gradey Dick — "it's going to be a nightmare for any team if we're all dialed in" — Gradey Dick on the team's defensive potential this season** [03:12](https://www.youtube.com/watch?v=1N41pfO7Ios&t=192s)
 
@@ -142,7 +142,7 @@ Gradey Dick: "I don't think we have a limit to how good we can be. If we're all 
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=192s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=192s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=192&q=4)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=192&q=4) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=192&q=4&slack=1)</small>
 
 **5. Gradey Dick — "me really being who I am and pressure the ball as much as possible" — Gradey Dick on his defensive approach against premier big men** [05:48](https://www.youtube.com/watch?v=1N41pfO7Ios&t=348s)
 
@@ -150,7 +150,7 @@ Gradey Dick: "I just get back to what I am used to. I feel like those first two 
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=348s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=348s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=348&q=5)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=348&q=5) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=348&q=5&slack=1)</small>
 
 **6.** [12:23](https://www.youtube.com/watch?v=1N41pfO7Ios&t=743s)
 
@@ -160,7 +160,7 @@ Gradey Dick: "I just get back to what I am used to. I feel like those first two 
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=743s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=743s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=743&q=6)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=743&q=6) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=743&q=6&slack=1)</small>
 
 **7. Darko Rajaković — "we have our five offensive pillars and we have five defensive pillars" — Darko Rajaković on the team's offensive and defensive pillars** [15:50](https://www.youtube.com/watch?v=1N41pfO7Ios&t=950s)
 
@@ -168,7 +168,7 @@ Darko Rajaković: "We have our five offensive pillars and we have five defensive
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=950s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=950s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=950&q=7)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=950&q=7) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=950&q=7&slack=1)</small>
 
 **8. Darko Rajaković — "we're going to go into the season being flexible as well" — Darko Rajaković on roster flexibility and rotation depth** [16:20](https://www.youtube.com/watch?v=1N41pfO7Ios&t=980s)
 
@@ -176,7 +176,7 @@ Darko Rajaković: "We have two more games, we have a couple more practices under
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=980s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=980s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=980&q=8)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=980&q=8) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=980&q=8&slack=1)</small>
 
 **9. Darko Rajaković — "I promise him this morning, first time when I see him that he does not take open shot" — Darko Rajaković on his expectations for Gradey Dick's shot selection** [17:27](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1047s)
 
@@ -184,7 +184,7 @@ Darko Rajaković: "I don't care if the shot is going to fall or not. He is a gre
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=1047s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1047s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1047&q=9)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1047&q=9) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=1047&q=9&slack=1)</small>
 
 **10. Darko Rajaković — "the better shooting you have, in theory should open up you more space and more paint touches" — Darko Rajaković on the importance of three-point shooting in modern basketball** [18:05](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1085s)
 
@@ -192,7 +192,7 @@ Darko Rajaković: "Any offense, if you're making those three-point shots, it jus
 
 [https://www.youtube.com/watch?v=1N41pfO7Ios&t=1085s](https://www.youtube.com/watch?v=1N41pfO7Ios&t=1085s)
 
-<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1085&q=10)</small>
+<small>[Clip it](presserclips://clip?v=1N41pfO7Ios&t=1085&q=10) · [Send to Slack](presserclips://clip?v=1N41pfO7Ios&t=1085&q=10&slack=1)</small>
 
 ---
 
@@ -208,7 +208,7 @@ Harrison Barnes: "Not for us at this preseason point because we're not going to 
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=30s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=30s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=30&q=1)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=30&q=1) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=30&q=1&slack=1)</small>
 
 **2. Harrison Barnes — "He's had a really good summer leading into camp and he's played well in camp." — Harrison Barnes on the development of teammate Charles Bassey** [01:01](https://www.youtube.com/watch?v=O5-oVRkjP84&t=61s)
 
@@ -216,7 +216,7 @@ Harrison Barnes: "I thought he played great. He's actually had a really good sum
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=61s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=61s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=61&q=2)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=61&q=2) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=61&q=2&slack=1)</small>
 
 **3. Harrison Barnes — "He can really shoot it. His confidence has continued to grow and he's really a good player." — Harrison Barnes on the shooting ability of Charles Bassey** [01:28](https://www.youtube.com/watch?v=O5-oVRkjP84&t=88s)
 
@@ -224,7 +224,7 @@ Harrison Barnes: "He can really shoot it. After practice sometimes we always do 
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=88s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=88s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=88&q=3)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=88&q=3) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=88&q=3&slack=1)</small>
 
 **4. Harrison Barnes — "We can't ease our way into games. I think that the start executing the right way." — Harrison Barnes on the Spurs' need for better game execution** [01:57](https://www.youtube.com/watch?v=O5-oVRkjP84&t=117s)
 
@@ -232,7 +232,7 @@ Harrison Barnes: "It all starts with our preparation but also how we start games
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=117s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=117s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=117&q=4)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=117&q=4) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=117&q=4&slack=1)</small>
 
 **5. Harrison Barnes — "I always think that there are indicators early in the season as to what type of team." — Harrison Barnes on preseason indicators for team identity** [03:04](https://www.youtube.com/watch?v=O5-oVRkjP84&t=184s)
 
@@ -240,7 +240,7 @@ Harrison Barnes: "I wouldn't say necessarily in the preseason, but I always thin
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=184s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=184s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=184&q=5)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=184&q=5) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=184&q=5&slack=1)</small>
 
 **6. Harrison Barnes — "You still have to put in the work. You still have to put in the collective time." — Harrison Barnes on the importance of putting in team work** [04:02](https://www.youtube.com/watch?v=O5-oVRkjP84&t=242s)
 
@@ -248,7 +248,7 @@ Harrison Barnes: "I still think you have to put in the work. You still have to p
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=242s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=242s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=242&q=6)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=242&q=6) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=242&q=6&slack=1)</small>
 
 **7. Tarris Reed Jr — "I knew I could have got 20, 25, but I feel like that's part of why I got grow." — Tarris Reed Jr on his rebounding performance and growth** [04:35](https://www.youtube.com/watch?v=O5-oVRkjP84&t=275s)
 
@@ -256,7 +256,7 @@ Tarris Reed Jr: "I knew I could have got 20, 25, but I feel like that's part of 
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=275s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=275s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=275&q=7)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=275&q=7) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=275&q=7&slack=1)</small>
 
 **8. Tarris Reed Jr — "It changed a lot about who I was as a person, who I am as a player." — Tarris Reed Jr on the influence of his time at UConn** [05:14](https://www.youtube.com/watch?v=O5-oVRkjP84&t=314s)
 
@@ -264,7 +264,7 @@ Tarris Reed Jr: "It changed a lot about who I was as a person, who I am as a pla
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=314s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=314s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=314&q=8)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=314&q=8) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=314&q=8&slack=1)</small>
 
 **9. Tarris Reed Jr — "Everybody's good here, so that's been the biggest difference between here and college." — Tarris Reed Jr on the difference in spacing in the NBA** [05:35](https://www.youtube.com/watch?v=O5-oVRkjP84&t=335s)
 
@@ -272,7 +272,7 @@ Tarris Reed Jr: "Everybody's good here, so that's been the biggest difference be
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=335s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=335s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=335&q=9)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=335&q=9) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=335&q=9&slack=1)</small>
 
 **10. Tarris Reed Jr — "These are guys I've watched literally in college and it's crazy just going up against those type." — Tarris Reed Jr on learning from veteran big men** [06:18](https://www.youtube.com/watch?v=O5-oVRkjP84&t=378s)
 
@@ -280,7 +280,7 @@ Tarris Reed Jr: "They have a lot of bigs that I've been growing up watching, you
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=378s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=378s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=378&q=10)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=378&q=10) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=378&q=10&slack=1)</small>
 
 **11. Tarris Reed Jr — "Everything just revolves around him, so he's so impactful on both sides of the court." — Tarris Reed Jr on the challenge of practicing against Victor Wembanyama** [07:13](https://www.youtube.com/watch?v=O5-oVRkjP84&t=433s)
 
@@ -288,7 +288,7 @@ Tarris Reed Jr: "Everything just revolves around him, so he's so impactful on bo
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=433s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=433s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=433&q=11)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=433&q=11) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=433&q=11&slack=1)</small>
 
 **12. Tarris Reed Jr — "Whatever I can do to impact the team, whatever my role needs to be on this team." — Tarris Reed Jr on his role and commitment to the team** [08:43](https://www.youtube.com/watch?v=O5-oVRkjP84&t=523s)
 
@@ -296,7 +296,7 @@ Tarris Reed Jr: "Whatever I can do to impact the team, whatever my role needs to
 
 [https://www.youtube.com/watch?v=O5-oVRkjP84&t=523s](https://www.youtube.com/watch?v=O5-oVRkjP84&t=523s)
 
-<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=523&q=12)</small>
+<small>[Clip it](presserclips://clip?v=O5-oVRkjP84&t=523&q=12) · [Send to Slack](presserclips://clip?v=O5-oVRkjP84&t=523&q=12&slack=1)</small>
 
 ---
 
@@ -312,7 +312,7 @@ Daron Holmes II: "For the five, on offense you're the vocal point, so you have t
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=16s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=16s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=16&q=1) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=16&q=1&slack=1)</small>
 
 **2. Daron Holmes II — "our job is to get them open, so setting a great hard screen for them" — Daron Holmes II on the importance of screening for guards** [01:18](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=78s)
 
@@ -320,7 +320,7 @@ Daron Holmes II: "We got guards like **Jamal**, we have guys that can score the 
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=78s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=78s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=78&q=2)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=78&q=2) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=78&q=2&slack=1)</small>
 
 **3. Daron Holmes II — "as a big you should love playing with them and Ryan, even Jamal" — Daron Holmes II on playing with Tyus Jones** [02:02](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=122s)
 
@@ -328,7 +328,7 @@ Daron Holmes II: "**Tyus** is very well, especially pass-first. As a big you sho
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=122s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=122s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=122&q=3)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=122&q=3) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=122&q=3&slack=1)</small>
 
 **4. Daron Holmes II — "he took the whole summer to really work on his body" — Daron Holmes II on the conditioning of Aaron Gordon and Christian Braun** [04:37](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=277s)
 
@@ -336,7 +336,7 @@ Daron Holmes II: "I'll start with **AG**. He took the whole summer to really wor
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=277s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=277s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=277&q=4)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=277&q=4) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=277&q=4&slack=1)</small>
 
 **5. Tyus Jones — "plus-minus is a huge indicator of a bench unit and so we want to make sure" — Tyus Jones on the importance of plus-minus for bench units** [06:00](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=360s)
 
@@ -344,7 +344,7 @@ Tyus Jones: "Plus-minus is a huge indicator of a bench unit and so we want to ma
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=360s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=360s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=360&q=5)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=360&q=5) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=360&q=5&slack=1)</small>
 
 **6. Tyus Jones — "it's a blessing every single time. It's something that I don't take for granted" — Tyus Jones on playing against Trey Lyles** [06:40](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=400s)
 
@@ -352,7 +352,7 @@ Tyus Jones: "It's a blessing every single time. It's something that I don't take
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=400s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=400s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=400&q=6)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=400&q=6) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=400&q=6&slack=1)</small>
 
 **7. Tyus Jones — "there's a handful of teams that are more just dribble-drive based where they're just spreading the floor out" — Tyus Jones on team offensive styles** [07:47](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=467s)
 
@@ -360,7 +360,7 @@ Tyus Jones: "There's a handful of teams that are more just dribble-drive based w
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=467s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=467s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=467&q=7)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=467&q=7) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=467&q=7&slack=1)</small>
 
 **8. Coach Adelman — "I don't want to overload a playbook because you want to simplify things for guys" — Coach Adelman on simplifying the playbook for the bench** [12:44](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=764s)
 
@@ -368,7 +368,7 @@ Coach Adelman: "I don't want to overload a playbook because you want to simplify
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=764s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=764s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=764&q=8)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=764&q=8) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=764&q=8&slack=1)</small>
 
 **9. Coach Adelman — "I think he's attempting to do things defensively different. I thought he struggled a little bit" — Coach Adelman on Julian Strawther's growth** [14:25](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=865s)
 
@@ -376,7 +376,7 @@ Coach Adelman: "I think he's attempting to do things defensively different. I th
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=865s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=865s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=865&q=9)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=865&q=9) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=865&q=9&slack=1)</small>
 
 **10. Coach Adelman — "we had to do it in the playoffs a little bit. You're obviously giving up something" — Coach Adelman on playing Tyus Jones and Jamal Murray together** [15:16](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=916s)
 
@@ -384,7 +384,7 @@ Coach Adelman: "We had to do it in the playoffs a little bit. You're obviously g
 
 [https://www.youtube.com/watch?v=a7O5pt06OhQ&t=916s](https://www.youtube.com/watch?v=a7O5pt06OhQ&t=916s)
 
-<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=916&q=10)</small>
+<small>[Clip it](presserclips://clip?v=a7O5pt06OhQ&t=916&q=10) · [Send to Slack](presserclips://clip?v=a7O5pt06OhQ&t=916&q=10&slack=1)</small>
 
 ---
 
@@ -400,7 +400,7 @@ Darko Rajaković: "It was great. First game for him. It was great that he had ch
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=7s](https://www.youtube.com/watch?v=gZughtMzFYM&t=7s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=7&q=1) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=7&q=1&slack=1)</small>
 
 **2. Darko Rajaković — "When Kawhi is on the floor, he attracts so much gravity and opens up a lot of space." — Darko Rajaković on Kawhi Leonard's spacing impact on teammates** [00:46](https://www.youtube.com/watch?v=gZughtMzFYM&t=46s)
 
@@ -408,7 +408,7 @@ Darko Rajaković: "When you have our starters out there, when you have the way J
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=46s](https://www.youtube.com/watch?v=gZughtMzFYM&t=46s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=46&q=2)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=46&q=2) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=46&q=2&slack=1)</small>
 
 **3. Darko Rajaković — "We want to be super aggressive on the ball and if any breakdown happens, you got to know." — Darko Rajaković on defensive accountability and rotation** [01:29](https://www.youtube.com/watch?v=gZughtMzFYM&t=89s)
 
@@ -416,7 +416,7 @@ Darko Rajaković: "We are trying to be aggressive and really to cover for each o
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=89s](https://www.youtube.com/watch?v=gZughtMzFYM&t=89s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=89&q=3)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=89&q=3) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=89&q=3&slack=1)</small>
 
 **4. Darko Rajaković — "We did not force any of those shots. I think they were great looks." — Darko Rajaković on Raptors' improved three-point shooting volume** [01:58](https://www.youtube.com/watch?v=gZughtMzFYM&t=118s)
 
@@ -424,7 +424,7 @@ Darko Rajaković: "I think we did not force any of those shots. I think they wer
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=118s](https://www.youtube.com/watch?v=gZughtMzFYM&t=118s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=118&q=4)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=118&q=4) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=118&q=4&slack=1)</small>
 
 **5. Darko Rajaković — "He was aggressive, he was willing to take open shots." — Darko Rajaković evaluates Kawhi Leonard's debut performance** [03:03](https://www.youtube.com/watch?v=gZughtMzFYM&t=183s)
 
@@ -432,7 +432,7 @@ Darko Rajaković: "I think he was great. He was aggressive, he was willing to ta
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=183s](https://www.youtube.com/watch?v=gZughtMzFYM&t=183s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=183&q=5)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=183&q=5) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=183&q=5&slack=1)</small>
 
 **6. Kawhi Leonard — "Just being able to get out there and play a different opponent was great." — Kawhi Leonard on his Raptors debut and learning the system** [04:06](https://www.youtube.com/watch?v=gZughtMzFYM&t=246s)
 
@@ -440,7 +440,7 @@ Kawhi Leonard: "Feels good. Just being able to get out there and play a differen
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=246s](https://www.youtube.com/watch?v=gZughtMzFYM&t=246s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=246&q=6)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=246&q=6) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=246&q=6&slack=1)</small>
 
 **7. Kawhi Leonard — "We came in and looked like focused on defense and that was my intentions." — Kawhi Leonard emphasizes defensive mindset in Raptors debut** [04:35](https://www.youtube.com/watch?v=gZughtMzFYM&t=275s)
 
@@ -448,7 +448,7 @@ Kawhi Leonard: "We came in and looked like focused on defense and that was my in
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=275s](https://www.youtube.com/watch?v=gZughtMzFYM&t=275s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=275&q=7)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=275&q=7) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=275&q=7&slack=1)</small>
 
 **8. Kawhi Leonard — "It is all about defense and mindset first and sharing the basketball." — Kawhi Leonard on team-first basketball and defensive identity** [05:24](https://www.youtube.com/watch?v=gZughtMzFYM&t=324s)
 
@@ -456,7 +456,7 @@ Kawhi Leonard: "It is all about defense and mindset first and sharing the basket
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=324s](https://www.youtube.com/watch?v=gZughtMzFYM&t=324s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=324&q=8)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=324&q=8) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=324&q=8&slack=1)</small>
 
 **9. Kawhi Leonard — "Running for others first and then yourself." — Kawhi Leonard on his role and team-first mentality** [06:46](https://www.youtube.com/watch?v=gZughtMzFYM&t=406s)
 
@@ -464,7 +464,7 @@ Kawhi Leonard: "Whatever is needed from me, if I am above the ball and I am able
 
 [https://www.youtube.com/watch?v=gZughtMzFYM&t=406s](https://www.youtube.com/watch?v=gZughtMzFYM&t=406s)
 
-<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=406&q=9)</small>
+<small>[Clip it](presserclips://clip?v=gZughtMzFYM&t=406&q=9) · [Send to Slack](presserclips://clip?v=gZughtMzFYM&t=406&q=9&slack=1)</small>
 
 ---
 
@@ -480,7 +480,7 @@ Coach Sweeney: "I love the way the ball moved. I thought we did a really good jo
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=4s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=4s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=4&q=1) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=4&q=1&slack=1)</small>
 
 **2. Coach Sweeney — "I thought their aggressiveness was great. Both those guys have the ability to make plays in different areas" — Coach Sweeney on the aggressive play of Paolo Banchero and Jalen Suggs** [00:36](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=36s)
 
@@ -488,7 +488,7 @@ Coach Sweeney: "I thought their aggressiveness was great. Both those guys have t
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=36s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=36s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=36&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=36&q=2) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=36&q=2&slack=1)</small>
 
 **3. Coach Sweeney — "I thought he was really good in terms of his consistent effort, consistent disposition throughout the game" — Coach Sweeney on Jalen Suggs' impact and consistent effort** [01:02](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=62s)
 
@@ -496,7 +496,7 @@ Coach Sweeney: "I thought he was really good in terms of his consistent effort, 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=62s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=62s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=62&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=62&q=3) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=62&q=3&slack=1)</small>
 
 **4. Coach Sweeney — "We made it a point of emphasis to go to the boards on both ends" — Coach Sweeney on the team's rebounding and second-chance points** [01:32](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=92s)
 
@@ -504,7 +504,7 @@ Coach Sweeney: "We made it a point of emphasis to go to the boards on both ends 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=92s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=92s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=92&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=92&q=4) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=92&q=4&slack=1)</small>
 
 **5. Coach Sweeney — "He's done a really nice job on both ends. Tristan, I think in each of the three preseason games" — Coach Sweeney on Tristan da Silva's development and shooting** [02:05](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=125s)
 
@@ -512,7 +512,7 @@ Coach Sweeney: "He's done a really nice job on both ends. Tristan, I think in ea
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=125s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=125s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=125&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=125&q=5) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=125&q=5&slack=1)</small>
 
 **6. Coach Sweeney — "We're still trying to get that foundation in place and then add layers to it" — Coach Sweeney on the team's ongoing development and foundation** [02:41](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=161s)
 
@@ -520,7 +520,7 @@ Coach Sweeney: "We're still trying to get that foundation in place and then add 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=161s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=161s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=161&q=6)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=161&q=6) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=161&q=6&slack=1)</small>
 
 **7. Coach Sweeney — "What's the most he can take? I mean that to me is a number for him" — Coach Sweeney on Tristan da Silva's shooting volume** [03:05](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=185s)
 
@@ -528,7 +528,7 @@ Coach Sweeney: "What's the most he can take? I mean that to me is a number for h
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=185s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=185s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=185&q=7)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=185&q=7) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=185&q=7&slack=1)</small>
 
 **8. Paolo Banchero — "I thought the ball was moving really well. Thought we played fast and then defensively just contesting" — Paolo Banchero on team ball movement and defensive intensity** [03:48](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=228s)
 
@@ -536,7 +536,7 @@ Paolo Banchero: "I thought the ball was moving really well. Thought we played fa
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=228s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=228s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=228&q=8)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=228&q=8) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=228&q=8&slack=1)</small>
 
 **9. Paolo Banchero — "Thought we were physical both ends of the court and the ball was moving" — Paolo Banchero on the starting unit's chemistry** [04:11](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=251s)
 
@@ -544,7 +544,7 @@ Paolo Banchero: "Thought we were physical both ends of the court and the ball wa
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=251s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=251s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=251&q=9)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=251&q=9) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=251&q=9&slack=1)</small>
 
 **10. Paolo Banchero — "Just being aggressive both of us, looking for each other and trying to lead the way" — Paolo Banchero on setting the tone with Jalen Suggs** [04:36](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=276s)
 
@@ -552,7 +552,7 @@ Paolo Banchero: "Just being aggressive both of us, looking for each other and tr
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=276s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=276s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=276&q=10)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=276&q=10) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=276&q=10&slack=1)</small>
 
 **11. Paolo Banchero — "Everybody's been picking it up pretty well. We've put in a lot of time and just working" — Paolo Banchero on team comfort and execution in the offense** [05:17](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=317s)
 
@@ -560,7 +560,7 @@ Paolo Banchero: "Everybody's been picking it up pretty well. We've put in a lot 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=317s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=317s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=317&q=11)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=317&q=11) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=317&q=11&slack=1)</small>
 
 **12. Paolo Banchero — "He's always been this player in my eyes, so that's what we want him to do" — Paolo Banchero on the consistency and efficiency of Jalen Suggs** [06:03](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=363s)
 
@@ -568,7 +568,7 @@ Paolo Banchero: "Honestly, he's just being himself. He's always been this player
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=363s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=363s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=363&q=12)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=363&q=12) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=363&q=12&slack=1)</small>
 
 **13. Paolo Banchero — "I think coach has done a great job of just using all five guys on the floor" — Paolo Banchero on the team's new system and collective involvement** [06:34](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=394s)
 
@@ -576,7 +576,7 @@ Paolo Banchero: "I think coach has done a great job of just using all five guys 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=394s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=394s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=394&q=13)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=394&q=13) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=394&q=13&slack=1)</small>
 
 **14. Jalen Suggs — "I think we kept it pretty simple. I think that's the beauty about what we're doing" — Jalen Suggs on the team's simple and effective offensive execution** [07:27](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=447s)
 
@@ -584,7 +584,7 @@ Jalen Suggs: "I think we kept it pretty simple. I think that's the beauty about 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=447s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=447s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=447&q=14)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=447&q=14) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=447&q=14&slack=1)</small>
 
 **15. Jalen Suggs — "I was pretty eager to get back out on the court. It was a bit hard" — Jalen Suggs on returning to the court after preseason absence** [08:30](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=510s)
 
@@ -592,7 +592,7 @@ Jalen Suggs: "I was pretty eager to get back out on the court. Like I said, it w
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=510s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=510s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=510&q=15)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=510&q=15) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=510&q=15&slack=1)</small>
 
 **16. Jalen Suggs — "Moving the ball, moving our bodies, sprinting, like I said, pace, sprinting in and out of screens" — Jalen Suggs on the team's offensive flow and ball movement** [09:19](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=559s)
 
@@ -600,7 +600,7 @@ Jalen Suggs: "Moving the ball, moving our bodies, sprinting, like I said, pace, 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=559s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=559s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=559&q=16)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=559&q=16) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=559&q=16&slack=1)</small>
 
 **17. Jalen Suggs — "Paolo is always been high level. He's a smart basketball player. Handles always been really elite" — Jalen Suggs on Paolo Banchero's playmaking and high-level performance** [10:35](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=635s)
 
@@ -608,7 +608,7 @@ Jalen Suggs: "Paolo is always been high level. He's a smart basketball player. H
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=635s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=635s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=635&q=17)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=635&q=17) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=635&q=17&slack=1)</small>
 
 ---
 
@@ -624,7 +624,7 @@ Rick Carlisle: "First of all, our collective prayers go out to **Ortega O'A**. N
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=0s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=0s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=0&q=1) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=0&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "he just came and played his game and he was Tyrese Haliburton" — Rick Carlisle praises Tyrese Haliburton's approach and resilience in his return** [01:35](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=95s)
 
@@ -632,7 +632,7 @@ Rick Carlisle: "Just the approach, you know, coming back in here and being reall
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=95s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=95s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=95&q=2)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=95&q=2) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=95&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "his screening is something that's going to be a major plus for us" — Rick Carlisle highlights Avita Zubac's versatility and impact on the team** [01:51](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=111s)
 
@@ -640,7 +640,7 @@ Rick Carlisle: "He's got great feel, he's got a lot of skill, he's got power, si
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=111s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=111s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=111&q=3)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=111&q=3) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=111&q=3&slack=1)</small>
 
 **4. Rick Carlisle — "we expected him to get stronger each game" — Rick Carlisle discusses Tyrese Haliburton's physical progression during training camp** [02:59](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=179s)
 
@@ -648,7 +648,7 @@ Rick Carlisle: "If you're looking for a positive progression throughout training
 
 [https://www.youtube.com/watch?v=l_cOmOZ9euc&t=179s](https://www.youtube.com/watch?v=l_cOmOZ9euc&t=179s)
 
-<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=179&q=4)</small>
+<small>[Clip it](presserclips://clip?v=l_cOmOZ9euc&t=179&q=4) · [Send to Slack](presserclips://clip?v=l_cOmOZ9euc&t=179&q=4&slack=1)</small>
 
 ---
 
@@ -666,7 +666,7 @@ Jamahl Mosley: "I just think cleaning up our turnovers, continuing the process o
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=27s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=27s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=27&q=1)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=27&q=1) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=27&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "there was 31 different starting lineups last year. And so these guys need to understand" — Mosley plans to experiment with starting lineups** [01:28](https://www.youtube.com/watch?v=uHvY5tQSthM&t=88s)
 
@@ -674,7 +674,7 @@ Jamahl Mosley: "I'm going to change it up tonight. I was thinking about it, ther
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=88s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=88s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=88&q=2)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=88&q=2) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=88&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "he's got a competitive dog to him that I love and that we love" — Mosley praises Benedict Mathurin's competitive edge** [02:08](https://www.youtube.com/watch?v=uHvY5tQSthM&t=128s)
 
@@ -682,7 +682,7 @@ Jamahl Mosley: "He's got a competitive dog to him that I love and that we love a
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=128s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=128s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=128&q=3)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=128&q=3) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=128&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "Kyrie is fantastic for Coop and I think his ability to teach him not just the things" — Kyrie Irving's mentorship role for Cooper** [02:51](https://www.youtube.com/watch?v=uHvY5tQSthM&t=171s)
 
@@ -690,7 +690,7 @@ Jamahl Mosley: "I think Kyrie is fantastic for Coop and I think his ability to t
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=171s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=171s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=171&q=4)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=171&q=4) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=171&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "he was always the first one in the gym, trying to be the last one out" — Mosley's memories of Dwight Powell's work ethic** [03:38](https://www.youtube.com/watch?v=uHvY5tQSthM&t=218s)
 
@@ -698,7 +698,7 @@ Jamahl Mosley: "I just saw him out there going into a shooting slot and he was m
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=218s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=218s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=218&q=5)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=218&q=5) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=218&q=5&slack=1)</small>
 
 ---
 

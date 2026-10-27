@@ -10,7 +10,7 @@ Immanuel Quickley: "Our defense was the main thing. I got to be better on the ba
 
 [https://www.youtube.com/watch?v=Msem7-DfRIw&t=3s](https://www.youtube.com/watch?v=Msem7-DfRIw&t=3s)
 
-<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=3&q=1) · [Send to Slack](presserclips://clip?v=Msem7-DfRIw&t=3&q=1&slack=1)</small>
 
 **2. Immanuel Quickley — "Just the way he's willing to do all the little stuff. Same with Jacobe." — Immanuel Quickley praises the growth of Agbaji and Walter** [00:47](https://www.youtube.com/watch?v=Msem7-DfRIw&t=47s)
 
@@ -18,7 +18,7 @@ Immanuel Quickley: "**Ochai Agbaji**, just the way he's willing to do all the li
 
 [https://www.youtube.com/watch?v=Msem7-DfRIw&t=47s](https://www.youtube.com/watch?v=Msem7-DfRIw&t=47s)
 
-<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=47&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=47&q=2) · [Send to Slack](presserclips://clip?v=Msem7-DfRIw&t=47&q=2&slack=1)</small>
 
 **3. Darko Rajakovic — "It's a great opportunity for everybody else to step up." — Darko Rajakovic on the challenge of playing without Kawhi Leonard** [01:48](https://www.youtube.com/watch?v=Msem7-DfRIw&t=108s)
 
@@ -26,7 +26,7 @@ Darko Rajakovic: "It's part of the game. It's not the first time that happened i
 
 [https://www.youtube.com/watch?v=Msem7-DfRIw&t=108s](https://www.youtube.com/watch?v=Msem7-DfRIw&t=108s)
 
-<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=108&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=108&q=3) · [Send to Slack](presserclips://clip?v=Msem7-DfRIw&t=108&q=3&slack=1)</small>
 
 **4. Darko Rajakovic — "I don't think they did anything to be honest with you that they got him off the game." — Darko Rajakovic dismisses defensive adjustments against Scottie Barnes** [02:26](https://www.youtube.com/watch?v=Msem7-DfRIw&t=146s)
 
@@ -34,7 +34,7 @@ Darko Rajakovic: "I don't think they did anything to be honest with you that the
 
 [https://www.youtube.com/watch?v=Msem7-DfRIw&t=146s](https://www.youtube.com/watch?v=Msem7-DfRIw&t=146s)
 
-<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=146&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=146&q=4) · [Send to Slack](presserclips://clip?v=Msem7-DfRIw&t=146&q=4&slack=1)</small>
 
 **5. Darko Rajakovic — "He was himself, he was aggressive." — Darko Rajakovic evaluates Immanuel Quickley's performance** [02:49](https://www.youtube.com/watch?v=Msem7-DfRIw&t=169s)
 
@@ -42,7 +42,7 @@ Darko Rajakovic: "**Immanuel Quickley** started the game, he missed a couple of 
 
 [https://www.youtube.com/watch?v=Msem7-DfRIw&t=169s](https://www.youtube.com/watch?v=Msem7-DfRIw&t=169s)
 
-<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=169&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=169&q=5) · [Send to Slack](presserclips://clip?v=Msem7-DfRIw&t=169&q=5&slack=1)</small>
 
 **6. Darko Rajakovic — "It's a great opportunity for us to learn to to watch film." — Darko Rajakovic on learning from early season losses** [03:11](https://www.youtube.com/watch?v=Msem7-DfRIw&t=191s)
 
@@ -50,4 +50,4 @@ Darko Rajakovic: "It's a game three of the season. It's a great opportunity for 
 
 [https://www.youtube.com/watch?v=Msem7-DfRIw&t=191s](https://www.youtube.com/watch?v=Msem7-DfRIw&t=191s)
 
-<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=191&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Msem7-DfRIw&t=191&q=6) · [Send to Slack](presserclips://clip?v=Msem7-DfRIw&t=191&q=6&slack=1)</small>

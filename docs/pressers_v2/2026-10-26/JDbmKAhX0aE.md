@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Cade Cunningham_
 
 [https://www.youtube.com/watch?v=JDbmKAhX0aE&t=0s](https://www.youtube.com/watch?v=JDbmKAhX0aE&t=0s)
 
-<small>[Clip it](presserclips://clip?v=JDbmKAhX0aE&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=JDbmKAhX0aE&t=0&q=1) · [Send to Slack](presserclips://clip?v=JDbmKAhX0aE&t=0&q=1&slack=1)</small>
 
 **2. Cade Cunningham — "Everybody had to step up, you know, bring a little extra intensity, a little extra effort." — Cade Cunningham on team depth and stepping up in key moments** [00:21](https://www.youtube.com/watch?v=JDbmKAhX0aE&t=21s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Cade Cunningham_
 
 [https://www.youtube.com/watch?v=JDbmKAhX0aE&t=21s](https://www.youtube.com/watch?v=JDbmKAhX0aE&t=21s)
 
-<small>[Clip it](presserclips://clip?v=JDbmKAhX0aE&t=21&q=2)</small>
+<small>[Clip it](presserclips://clip?v=JDbmKAhX0aE&t=21&q=2) · [Send to Slack](presserclips://clip?v=JDbmKAhX0aE&t=21&q=2&slack=1)</small>
 
 **3. Cade Cunningham — "We're just trying to stack days, getting better and better each day." — Cade Cunningham on maintaining momentum heading into the New York game** [00:38](https://www.youtube.com/watch?v=JDbmKAhX0aE&t=38s)
 
@@ -32,4 +32,4 @@ _Speakers identified: Unidentified speaker, Cade Cunningham_
 
 [https://www.youtube.com/watch?v=JDbmKAhX0aE&t=38s](https://www.youtube.com/watch?v=JDbmKAhX0aE&t=38s)
 
-<small>[Clip it](presserclips://clip?v=JDbmKAhX0aE&t=38&q=3)</small>
+<small>[Clip it](presserclips://clip?v=JDbmKAhX0aE&t=38&q=3) · [Send to Slack](presserclips://clip?v=JDbmKAhX0aE&t=38&q=3&slack=1)</small>

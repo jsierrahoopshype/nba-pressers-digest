@@ -10,7 +10,7 @@ Meleek Thomas: "The biggest adjustment for me from playing in college to now bei
 
 [https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=43s](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=43s)
 
-<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=43&q=1)</small>
+<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=43&q=1) · [Send to Slack](presserclips://clip?v=U4-Wz9FED0Q&t=43&q=1&slack=1)</small>
 
 **2. Meleek Thomas — "I am most excited to impact winning for my team. I am most excited to learn." — Meleek Thomas on his role and impact with the Cleveland Cavaliers** [02:52](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=172s)
 
@@ -18,7 +18,7 @@ Meleek Thomas: "I am most excited to impact winning for my team. I am most excit
 
 [https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=172s](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=172s)
 
-<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=172&q=2)</small>
+<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=172&q=2) · [Send to Slack](presserclips://clip?v=U4-Wz9FED0Q&t=172&q=2&slack=1)</small>
 
 **3. Meleek Thomas — "I feel like that would give players coming out of college different experiences." — Meleek Thomas on the potential benefits of an NBA-backed league in Europe** [04:15](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=255s)
 
@@ -26,7 +26,7 @@ Meleek Thomas: "I feel like that would give players coming out of college differ
 
 [https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=255s](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=255s)
 
-<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=255&q=3)</small>
+<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=255&q=3) · [Send to Slack](presserclips://clip?v=U4-Wz9FED0Q&t=255&q=3&slack=1)</small>
 
 **4. Meleek Thomas — "To be in the same organization as him is pretty special." — Meleek Thomas on his relationship with Jose Calderon** [05:45](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=345s)
 
@@ -34,7 +34,7 @@ Meleek Thomas: "**Jose Calderon**, I was very familiar with his game and now to 
 
 [https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=345s](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=345s)
 
-<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=345&q=4)</small>
+<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=345&q=4) · [Send to Slack](presserclips://clip?v=U4-Wz9FED0Q&t=345&q=4&slack=1)</small>
 
 **5. Meleek Thomas — "Johnny Bryant has been amazing in my development. Omar Cook has been amazing." — Meleek Thomas on his development with Cavs coaching staff** [07:47](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=467s)
 
@@ -42,7 +42,7 @@ Meleek Thomas: "My time in college and who I was working with was **Kenny Payne*
 
 [https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=467s](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=467s)
 
-<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=467&q=5)</small>
+<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=467&q=5) · [Send to Slack](presserclips://clip?v=U4-Wz9FED0Q&t=467&q=5&slack=1)</small>
 
 **6. Meleek Thomas — "He does it like a vet. He does it like he has been doing it for many years." — Meleek Thomas on Jared Allen's veteran presence** [10:28](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=628s)
 
@@ -50,7 +50,7 @@ Meleek Thomas: "He is not flashy. He is not loud. Very quiet, but when it comes 
 
 [https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=628s](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=628s)
 
-<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=628&q=6)</small>
+<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=628&q=6) · [Send to Slack](presserclips://clip?v=U4-Wz9FED0Q&t=628&q=6&slack=1)</small>
 
 **7. Meleek Thomas — "I am learning how to impact defense by getting more deflections, being where I am supposed to be." — Meleek Thomas on learning to impact the game defensively** [13:21](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=801s)
 
@@ -58,4 +58,4 @@ Meleek Thomas: "In this training camp, what I am learning about how to impact th
 
 [https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=801s](https://www.youtube.com/watch?v=U4-Wz9FED0Q&t=801s)
 
-<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=801&q=7)</small>
+<small>[Clip it](presserclips://clip?v=U4-Wz9FED0Q&t=801&q=7) · [Send to Slack](presserclips://clip?v=U4-Wz9FED0Q&t=801&q=7&slack=1)</small>

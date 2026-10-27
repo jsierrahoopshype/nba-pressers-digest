@@ -10,7 +10,7 @@ Jrue Holiday: "We're running them the way that he asks us to. That's probably th
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=7s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=7s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=7&q=1) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=7&q=1&slack=1)</small>
 
 **2. Jrue Holiday — "I think they just have fun with the game, but at the same time very serious." — Jrue Holiday on the team's balance of fun and seriousness** [00:15](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=15s)
 
@@ -18,7 +18,7 @@ Jrue Holiday: "I think they just have fun with the game, but at the same time ve
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=15s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=15s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=15&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=15&q=2) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=15&q=2&slack=1)</small>
 
 **3. Jrue Holiday — "I think it builds trust. I think it builds camaraderie." — Jrue Holiday on the importance of unselfish play** [00:48](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=48s)
 
@@ -26,7 +26,7 @@ Jrue Holiday: "I think it builds trust. I think it builds camaraderie. Everybody
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=48s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=48s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=48&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=48&q=3) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=48&q=3&slack=1)</small>
 
 **4. Jrue Holiday — "I think a lot of it is characteristics too. The type of character and people that we have." — Jrue Holiday on the team's character and trust** [01:25](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=85s)
 
@@ -34,7 +34,7 @@ Jrue Holiday: "I think a lot of it is characteristics too. The type of character
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=85s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=85s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=85&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=85&q=4) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=85&q=4&slack=1)</small>
 
 **5. Jrue Holiday — "I definitely lean on him, especially being on the same team a lot of training camp." — Jrue Holiday on Scoot Henderson's development and contract status** [01:41](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=101s)
 
@@ -42,7 +42,7 @@ Jrue Holiday: "I definitely lean on him, especially being on the same team a lot
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=101s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=101s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=101&q=5)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=101&q=5) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=101&q=5&slack=1)</small>
 
 **6. Jrue Holiday — "I think Scoot knows that he can control what he can control." — Jrue Holiday on Scoot Henderson's contract decision** [02:15](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=135s)
 
@@ -50,7 +50,7 @@ Jrue Holiday: "I think everybody kind of goes through it. If he had questions fo
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=135s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=135s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=135&q=6)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=135&q=6) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=135&q=6&slack=1)</small>
 
 **7. Jrue Holiday — "I think the minutes are split up and you can have maybe shorter bursts where you have a lot more energy." — Jrue Holiday on the benefits of shorter rotation stints** [02:41](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=161s)
 
@@ -58,7 +58,7 @@ Jrue Holiday: "I think the minutes are split up and you can have maybe shorter b
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=161s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=161s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=161&q=7)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=161&q=7) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=161&q=7&slack=1)</small>
 
 **8. Jrue Holiday — "It's been brought up a lot that last year our defensive rebound was terrible, but offensive rebounding was good." — Jrue Holiday on the team's focus on rebounding** [03:19](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=199s)
 
@@ -66,4 +66,4 @@ Jrue Holiday: "It's been brought up a lot that last year our defensive rebound w
 
 [https://www.youtube.com/watch?v=VRYZvUS6A6g&t=199s](https://www.youtube.com/watch?v=VRYZvUS6A6g&t=199s)
 
-<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=199&q=8)</small>
+<small>[Clip it](presserclips://clip?v=VRYZvUS6A6g&t=199&q=8) · [Send to Slack](presserclips://clip?v=VRYZvUS6A6g&t=199&q=8&slack=1)</small>

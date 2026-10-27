@@ -14,7 +14,7 @@ Chet Holmgren: "I think the chemistry is getting better. There's going to be ups
 
 [https://www.youtube.com/watch?v=K5gy0PCVvUc&t=16s](https://www.youtube.com/watch?v=K5gy0PCVvUc&t=16s)
 
-<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=16&q=1) · [Send to Slack](presserclips://clip?v=K5gy0PCVvUc&t=16&q=1&slack=1)</small>
 
 **2. Chet Holmgren — "When I first walked in, I was thinking like, wow, this is crazy and then it's basketball." — Chet Holmgren on facing Houston's rotation players in preseason action** [00:38](https://www.youtube.com/watch?v=K5gy0PCVvUc&t=38s)
 
@@ -22,7 +22,7 @@ Chet Holmgren: "When I first walked in, I was thinking like, wow, this is crazy 
 
 [https://www.youtube.com/watch?v=K5gy0PCVvUc&t=38s](https://www.youtube.com/watch?v=K5gy0PCVvUc&t=38s)
 
-<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=38&q=2)</small>
+<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=38&q=2) · [Send to Slack](presserclips://clip?v=K5gy0PCVvUc&t=38&q=2&slack=1)</small>
 
 **3. Mark Daigneault — "A personal goal for me is to try to learn something new in all the preseason games." — Mark Daigneault on experimenting with new lineups during preseason games** [01:06](https://www.youtube.com/watch?v=K5gy0PCVvUc&t=66s)
 
@@ -30,7 +30,7 @@ Mark Daigneault: "A personal goal for me is to try to learn something new in all
 
 [https://www.youtube.com/watch?v=K5gy0PCVvUc&t=66s](https://www.youtube.com/watch?v=K5gy0PCVvUc&t=66s)
 
-<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=66&q=3)</small>
+<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=66&q=3) · [Send to Slack](presserclips://clip?v=K5gy0PCVvUc&t=66&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "We view the games as just a part of the entire camp. We just want to be better." — Mark Daigneault on team development goals for the preseason period** [01:43](https://www.youtube.com/watch?v=K5gy0PCVvUc&t=103s)
 
@@ -38,7 +38,7 @@ Mark Daigneault: "We view the games as just a part of the entire camp. We just w
 
 [https://www.youtube.com/watch?v=K5gy0PCVvUc&t=103s](https://www.youtube.com/watch?v=K5gy0PCVvUc&t=103s)
 
-<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=103&q=4)</small>
+<small>[Clip it](presserclips://clip?v=K5gy0PCVvUc&t=103&q=4) · [Send to Slack](presserclips://clip?v=K5gy0PCVvUc&t=103&q=4&slack=1)</small>
 
 ---
 

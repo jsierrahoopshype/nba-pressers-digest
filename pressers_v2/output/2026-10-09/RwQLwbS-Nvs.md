@@ -10,7 +10,7 @@ Toumani Camara: "I think the respect from the coach, from my teammates, and they
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=13s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=13s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=13&q=1) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=13&q=1&slack=1)</small>
 
 **2. Toumani Camara — "We got a lot of good guys, man, a lot of guys that respect one another." — Toumani Camara on the mutual respect and accountability among teammates** [00:39](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=39s)
 
@@ -18,7 +18,7 @@ Toumani Camara: "We got a lot of good guys, man, a lot of guys that respect one 
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=39s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=39s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=39&q=2)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=39&q=2) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=39&q=2&slack=1)</small>
 
 **3. Toumani Camara — "He understands players, he understands how the system goes, so everything is calculated." — Toumani Camara on Chauncey Billups' direct and calculated coaching style** [01:11](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=71s)
 
@@ -26,7 +26,7 @@ Toumani Camara: "You can tell he's been around for a long time. He understands p
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=71s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=71s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=71&q=3) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=71&q=3&slack=1)</small>
 
 **4. Toumani Camara — "We need those stopping moments, you know, we're going to have ups and downs." — Toumani Camara on the value of intense practice sessions** [01:50](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=110s)
 
@@ -34,7 +34,7 @@ Toumani Camara: "We need those stopping moments, you know, we're going to have u
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=110s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=110s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=110&q=4)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=110&q=4) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=110&q=4&slack=1)</small>
 
 **5. Toumani Camara — "When it's time to work, it's time to work, you know, he's all about the business." — Toumani Camara on the team's selfless culture and lack of ego** [02:34](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=154s)
 
@@ -42,7 +42,7 @@ Toumani Camara: "When it's time to work, it's time to work, you know, he's all a
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=154s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=154s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=154&q=5)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=154&q=5) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=154&q=5&slack=1)</small>
 
 **6. Toumani Camara — "Everybody is willing to pass it and nobody is going to just go out there and jack up shots." — Toumani Camara on the team's selfless approach to offensive play** [03:02](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=182s)
 
@@ -50,7 +50,7 @@ Toumani Camara: "Probably this one to be honest, just because how much talent we
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=182s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=182s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=182&q=6)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=182&q=6) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=182&q=6&slack=1)</small>
 
 **7. Toumani Camara — "When we all truly appreciate one another, there's no ego off the court." — Toumani Camara on the importance of checking egos for team success** [03:43](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=223s)
 
@@ -58,7 +58,7 @@ Toumani Camara: "I feel like with this team is we all care about one another. I 
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=223s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=223s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=223&q=7)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=223&q=7) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=223&q=7&slack=1)</small>
 
 **8. Toumani Camara — "To me, he put it together. Scoot always been super athletic, super fast, great finisher, great driver." — Toumani Camara on Scoot Henderson's growth and maturity** [04:18](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=258s)
 
@@ -66,4 +66,4 @@ Toumani Camara: "To me, he put it together. **Scoot** always been super athletic
 
 [https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=258s](https://www.youtube.com/watch?v=RwQLwbS-Nvs&t=258s)
 
-<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=258&q=8)</small>
+<small>[Clip it](presserclips://clip?v=RwQLwbS-Nvs&t=258&q=8) · [Send to Slack](presserclips://clip?v=RwQLwbS-Nvs&t=258&q=8&slack=1)</small>

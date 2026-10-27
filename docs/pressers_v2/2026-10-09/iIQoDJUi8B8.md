@@ -10,7 +10,7 @@ Jalen Williams: "Whatever the team needs me to win, I'm going to do. It's easier
 
 [https://www.youtube.com/watch?v=iIQoDJUi8B8&t=56s](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=56s)
 
-<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=56&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=56&q=1) · [Send to Slack](presserclips://clip?v=iIQoDJUi8B8&t=56&q=1&slack=1)</small>
 
 **2. Jalen Williams — "I knew where I wanted guys to be and I can use that with my IQ" — Jalen Williams on applying college experience to his NBA role** [01:15](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=75s)
 
@@ -18,7 +18,7 @@ Jalen Williams: "I think just where to be spot-wise off the ball, because I knew
 
 [https://www.youtube.com/watch?v=iIQoDJUi8B8&t=75s](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=75s)
 
-<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=75&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=75&q=2) · [Send to Slack](presserclips://clip?v=iIQoDJUi8B8&t=75&q=2&slack=1)</small>
 
 **3. Jalen Williams — "he makes the game easier for everyone and yeah he's just a force out there" — Jalen Williams on Jalen Williams's impact on the team** [02:02](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=122s)
 
@@ -26,7 +26,7 @@ Jalen Williams: "It's pretty insane. It's fun watching him out there, fun playin
 
 [https://www.youtube.com/watch?v=iIQoDJUi8B8&t=122s](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=122s)
 
-<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=122&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=122&q=3) · [Send to Slack](presserclips://clip?v=iIQoDJUi8B8&t=122&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "he's got great versatility positionally with playing him a lot at the four sometimes even the five" — Mark Daigneault on Jalen Williams's positional versatility** [05:03](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=303s)
 
@@ -34,7 +34,7 @@ Mark Daigneault: "He's got great versatility positionally with playing him a lot
 
 [https://www.youtube.com/watch?v=iIQoDJUi8B8&t=303s](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=303s)
 
-<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=303&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=303&q=4) · [Send to Slack](presserclips://clip?v=iIQoDJUi8B8&t=303&q=4&slack=1)</small>
 
 **5. Mark Daigneault — "being on a team with veteran players that are doing that makes it a lot easier" — Mark Daigneault on rookies balancing aggression and system play** [06:32](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=392s)
 
@@ -42,7 +42,7 @@ Mark Daigneault: "Being on a team with veteran players that are doing that makes
 
 [https://www.youtube.com/watch?v=iIQoDJUi8B8&t=392s](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=392s)
 
-<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=392&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=392&q=5) · [Send to Slack](presserclips://clip?v=iIQoDJUi8B8&t=392&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "she's got a basketball background she played basketball in college but has been in the NFL since" — Mark Daigneault on the addition of athletic performance director** [07:10](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=430s)
 
@@ -50,4 +50,4 @@ Mark Daigneault: "MJ is really talented. She's got a basketball background she p
 
 [https://www.youtube.com/watch?v=iIQoDJUi8B8&t=430s](https://www.youtube.com/watch?v=iIQoDJUi8B8&t=430s)
 
-<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=430&q=6)</small>
+<small>[Clip it](presserclips://clip?v=iIQoDJUi8B8&t=430&q=6) · [Send to Slack](presserclips://clip?v=iIQoDJUi8B8&t=430&q=6&slack=1)</small>

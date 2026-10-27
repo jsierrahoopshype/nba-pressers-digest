@@ -10,7 +10,7 @@ Labaron Philon Jr.: "I feel very comfortable just being able to get in there and
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=4s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=4s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=4&q=1) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=4&q=1&slack=1)</small>
 
 **2. Labaron Philon Jr. — "Being a crafty guard, being able to have multiple options, that is very important for me." — Labaron Philon Jr. on the importance of extra gym work for guards** [00:55](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=55s)
 
@@ -18,7 +18,7 @@ Labaron Philon Jr.: "Getting in the gym after practice and finding extra time to
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=55s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=55s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=55&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=55&q=2) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=55&q=2&slack=1)</small>
 
 **3. Labaron Philon Jr. — "Being a ball-hawk, impacting the ball, being someone that can put pressure on the wall." — Labaron Philon Jr. on his role as a ball-handling guard** [01:45](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=105s)
 
@@ -26,7 +26,7 @@ Labaron Philon Jr.: "Being a ball-hawk, impacting the ball, being someone that c
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=105s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=105s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=105&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=105&q=3) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=105&q=3&slack=1)</small>
 
 **4. Labaron Philon Jr. — "I think the game really slowed down as I got better and the preseason went on." — Labaron Philon Jr. on the game slowing down during preseason** [02:38](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=158s)
 
@@ -34,7 +34,7 @@ Labaron Philon Jr.: "I watch a little film and talk with my coaches about the ga
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=158s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=158s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=158&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=158&q=4) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=158&q=4&slack=1)</small>
 
 **5. Labaron Philon Jr. — "He is a very confident high-level shot maker." — Labaron Philon Jr. on Anthony's return to practice** [03:12](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=192s)
 
@@ -42,7 +42,7 @@ Labaron Philon Jr.: "He looked great. Coming off screens, shooting the ball, get
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=192s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=192s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=192&q=5)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=192&q=5) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=192&q=5&slack=1)</small>
 
 **6. Labaron Philon Jr. — "It has been a great being on his team just because I ain't got to run around all those screens." — Labaron Philon Jr. on the benefits of playing with Anthony** [04:06](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=246s)
 
@@ -50,7 +50,7 @@ Labaron Philon Jr.: "It has been a great being on his team just because I ain't 
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=246s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=246s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=246&q=6)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=246&q=6) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=246&q=6&slack=1)</small>
 
 **7. Labaron Philon Jr. — "Driving in the lane, everybody is going to collapse. So it makes it easier when you got guys like KCP." — Labaron Philon Jr. on the spacing and offensive flow** [04:44](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=284s)
 
@@ -58,7 +58,7 @@ Labaron Philon Jr.: "Driving in the lane, everybody is going to collapse. So it 
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=284s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=284s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=284&q=7)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=284&q=7) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=284&q=7&slack=1)</small>
 
 **8. Labaron Philon Jr. — "The adjustment has been good just because you got to want to compete to play that side of the floor." — Labaron Philon Jr. on his defensive adjustments to the NBA** [05:34](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=334s)
 
@@ -66,7 +66,7 @@ Labaron Philon Jr.: "The adjustment has been good just because you got to want t
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=334s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=334s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=334&q=8)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=334&q=8) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=334&q=8&slack=1)</small>
 
 **9. Labaron Philon Jr. — "It has been really good just to see him in practice being able to handle the pick and roll well." — Labaron Philon Jr. on Anthony's pick-and-roll development** [06:22](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=382s)
 
@@ -74,7 +74,7 @@ Labaron Philon Jr.: "It has been really good just to see him in practice being a
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=382s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=382s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=382&q=9)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=382&q=9) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=382&q=9&slack=1)</small>
 
 **10. Labaron Philon Jr. — "The spacing is really more space on the court and you got to be able to knock down shots." — Labaron Philon Jr. on the spacing difference between college and NBA** [07:42](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=462s)
 
@@ -82,4 +82,4 @@ Labaron Philon Jr.: "The spacing is really more space on the court and you got t
 
 [https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=462s](https://www.youtube.com/watch?v=0tC1eSB3Hnk&t=462s)
 
-<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=462&q=10)</small>
+<small>[Clip it](presserclips://clip?v=0tC1eSB3Hnk&t=462&q=10) · [Send to Slack](presserclips://clip?v=0tC1eSB3Hnk&t=462&q=10&slack=1)</small>

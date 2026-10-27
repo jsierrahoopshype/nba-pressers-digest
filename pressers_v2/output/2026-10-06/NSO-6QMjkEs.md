@@ -12,7 +12,7 @@ _Speakers identified: Nate Ament, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=NSO-6QMjkEs&t=0s](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=0s)
 
-<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=0&q=1) · [Send to Slack](presserclips://clip?v=NSO-6QMjkEs&t=0&q=1&slack=1)</small>
 
 **2. Nate Ament — "I always try to stay ready when your number is called." — Nate Ament on his mindset coming off the bench** [00:22](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=22s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Nate Ament, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=NSO-6QMjkEs&t=22s](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=22s)
 
-<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=22&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=22&q=2) · [Send to Slack](presserclips://clip?v=NSO-6QMjkEs&t=22&q=2&slack=1)</small>
 
 **3. Nate Ament — "He's been harping, you know, with my length and size, I can be very effective on defense." — Coaching staff focus on Ament's defensive length and effort** [00:45](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=45s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Nate Ament, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=NSO-6QMjkEs&t=45s](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=45s)
 
-<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=45&q=3)</small>
+<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=45&q=3) · [Send to Slack](presserclips://clip?v=NSO-6QMjkEs&t=45&q=3&slack=1)</small>
 
 **4. Nate Ament — "It's easy to get behind a coach who really just preaches competing." — Ament on the team's commitment to the coach's defensive intensity** [01:36](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=96s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Nate Ament, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=NSO-6QMjkEs&t=96s](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=96s)
 
-<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=96&q=4)</small>
+<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=96&q=4) · [Send to Slack](presserclips://clip?v=NSO-6QMjkEs&t=96&q=4&slack=1)</small>
 
 **5. Nate Ament — "Even people like Jaime Jaquez Jr. who is in his second year, he's been doing a great job." — Ament on veteran teammates guiding him through his rookie year** [02:11](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=131s)
 
@@ -52,7 +52,7 @@ _Speakers identified: Nate Ament, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=NSO-6QMjkEs&t=131s](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=131s)
 
-<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=131&q=5)</small>
+<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=131&q=5) · [Send to Slack](presserclips://clip?v=NSO-6QMjkEs&t=131&q=5&slack=1)</small>
 
 **6. Nate Ament — "He's just trying to put us in a chaotic position." — Ament on the value of unique practice drills** [02:52](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=172s)
 
@@ -62,7 +62,7 @@ _Speakers identified: Nate Ament, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=NSO-6QMjkEs&t=172s](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=172s)
 
-<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=172&q=6)</small>
+<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=172&q=6) · [Send to Slack](presserclips://clip?v=NSO-6QMjkEs&t=172&q=6&slack=1)</small>
 
 **7. Nate Ament — "Defensively for sure, these guys in the NBA are the best of the best." — Ament's personal goals for improvement after his debut** [03:59](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=239s)
 
@@ -72,4 +72,4 @@ _Speakers identified: Nate Ament, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=NSO-6QMjkEs&t=239s](https://www.youtube.com/watch?v=NSO-6QMjkEs&t=239s)
 
-<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=239&q=7)</small>
+<small>[Clip it](presserclips://clip?v=NSO-6QMjkEs&t=239&q=7) · [Send to Slack](presserclips://clip?v=NSO-6QMjkEs&t=239&q=7&slack=1)</small>

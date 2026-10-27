@@ -10,7 +10,7 @@ Jalen Suggs: "I think for me, it was important to go through the process of losi
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=10s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=10s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=10&q=1) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=10&q=1&slack=1)</small>
 
 **2. Franz Wagner — "I think we're all frustrated about that result and really eager to turn that page." — Franz Wagner on the team's frustration after their playoff exit** [00:56](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=56s)
 
@@ -18,7 +18,7 @@ Franz Wagner: "I think we're all frustrated about that result and really eager t
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=56s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=56s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=56&q=2) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=56&q=2&slack=1)</small>
 
 **3. Jase Richardson — "Moon surface gravity is 1/6 of Earth's. I mean you can jump six times higher." — Jase Richardson discusses the physics of moon gravity** [02:29](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=149s)
 
@@ -26,7 +26,7 @@ Jase Richardson: "Moon surface gravity is 1/6 of Earth's. I mean you can jump si
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=149s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=149s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=149&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=149&q=3) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=149&q=3&slack=1)</small>
 
 **4. Jalen Suggs — "I think it was time to embrace the baldy." — Jalen Suggs on his decision to embrace a bald look** [03:13](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=193s)
 
@@ -34,7 +34,7 @@ Jalen Suggs: "I think it was time to embrace the baldy. There are so many preval
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=193s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=193s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=193&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=193&q=4) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=193&q=4&slack=1)</small>
 
 **5. Nikola Vučević — "We know what we can do and how far we can go." — Nikola Vučević on the team's mindset during training camp** [06:32](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=392s)
 
@@ -42,7 +42,7 @@ Nikola Vučević: "We know what we can do and how far we can go. So yeah, just t
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=392s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=392s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=392&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=392&q=5) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=392&q=5&slack=1)</small>
 
 **6. Sean Sweeney — "Make sure you do a great job at talking when you play." — Sean Sweeney on the importance of communication during drills** [07:29](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=449s)
 
@@ -50,7 +50,7 @@ Sean Sweeney: "Make sure you do a great job at talking when you play. Six shirts
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=449s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=449s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=449&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=449&q=6) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=449&q=6&slack=1)</small>
 
 **7. Franz Wagner — "We worked pretty hard, very intentional, I would say. Focused more on on the defensive side." — Franz Wagner on the team's focus during training camp** [08:03](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=483s)
 
@@ -58,7 +58,7 @@ Franz Wagner: "We worked pretty hard, very intentional, I would say. Focused mor
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=483s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=483s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=483&q=7)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=483&q=7) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=483&q=7&slack=1)</small>
 
 **8. Sean Sweeney — "The way we're approaching things is what we need to do today, where we're at." — Sean Sweeney on the team's approach to improvement** [08:31](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=511s)
 
@@ -66,7 +66,7 @@ Sean Sweeney: "The way we're approaching things is what we need to do today, whe
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=511s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=511s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=511&q=8)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=511&q=8) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=511&q=8&slack=1)</small>
 
 **9. Tristan da Silva — "It's all like referring back to the end of last season and how much we were lacking." — Tristan da Silva on learning from last season's finish** [09:25](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=565s)
 
@@ -74,7 +74,7 @@ Tristan da Silva: "It's all like referring back to the end of last season and ho
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=565s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=565s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=565&q=9)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=565&q=9) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=565&q=9&slack=1)</small>
 
 **10. Paolo Banchero — "More than anything, challenge myself physically, mentally, put myself in situations where I kind of had to find." — Paolo Banchero on his focus on personal growth** [10:02](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=602s)
 
@@ -82,7 +82,7 @@ Paolo Banchero: "More than anything, challenge myself physically, mentally, put 
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=602s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=602s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=602&q=10)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=602&q=10) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=602&q=10&slack=1)</small>
 
 **11. Jamal Cain — "Trying to win an opportunity battle. I feel like I still have a lot to prove." — Jamal Cain on his mentality regarding roster spots** [10:33](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=633s)
 
@@ -90,7 +90,7 @@ Jamal Cain: "Trying to win an opportunity battle. I feel like I still have a lot
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=633s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=633s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=633&q=11)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=633&q=11) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=633&q=11&slack=1)</small>
 
 **12. Desmond Bane — "They all bring something different, you know, but the nice thing is they all share the same message." — Desmond Bane on the coaching staff's consistent message** [11:21](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=681s)
 
@@ -98,7 +98,7 @@ Desmond Bane: "They all bring something different, you know, but the nice thing 
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=681s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=681s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=681&q=12)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=681&q=12) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=681&q=12&slack=1)</small>
 
 **13. Wendell Carter, Jr. — "I had great conversation with them throughout the summer. I'm excited just to go to war." — Wendell Carter, Jr. on the new coaching staff** [11:59](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=719s)
 
@@ -106,7 +106,7 @@ Wendell Carter, Jr.: "I had great conversation with them throughout the summer. 
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=719s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=719s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=719&q=13)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=719&q=13) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=719&q=13&slack=1)</small>
 
 **14. Chris Algieri — "That was for the WBO Super Lightweight Championship of the world. I was fighting Ruslan Provodnikov." — Chris Algieri on his championship fight against Ruslan Provodnikov** [12:44](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=764s)
 
@@ -114,7 +114,7 @@ Chris Algieri: "That was for the WBO Super Lightweight Championship of the world
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=764s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=764s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=764&q=14)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=764&q=14) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=764&q=14&slack=1)</small>
 
 **15. Nikola Vučević — "Once we took care of the transition defense a little bit, we were able to establish our style." — Nikola Vučević on the team's performance against Miami** [20:31](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1231s)
 
@@ -122,7 +122,7 @@ Nikola Vučević: "Once we took care of the transition defense a little bit, we 
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1231s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1231s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=1231&q=15)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=1231&q=15) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=1231&q=15&slack=1)</small>
 
 **16. Desmond Bane — "I think we have an identity, both on offensive and defensive side of the ball." — Desmond Bane on the team's identity** [21:25](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1285s)
 
@@ -130,7 +130,7 @@ Desmond Bane: "I think we have an identity, both on offensive and defensive side
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1285s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1285s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=1285&q=16)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=1285&q=16) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=1285&q=16&slack=1)</small>
 
 **17. Desmond Bane — "I think our group being together is a benefit for us." — Desmond Bane on the benefits of the team's summer together** [21:45](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1305s)
 
@@ -138,4 +138,4 @@ Desmond Bane: "I think our group being together is a benefit for us. Us having s
 
 [https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1305s](https://www.youtube.com/watch?v=5jz8eHwKlBw&t=1305s)
 
-<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=1305&q=17)</small>
+<small>[Clip it](presserclips://clip?v=5jz8eHwKlBw&t=1305&q=17) · [Send to Slack](presserclips://clip?v=5jz8eHwKlBw&t=1305&q=17&slack=1)</small>

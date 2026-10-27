@@ -10,7 +10,7 @@ Kobe Brown: "To be a guy that everybody could count on. I think the biggest thin
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=39s](https://www.youtube.com/watch?v=_URKHhipaD8&t=39s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=39&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=39&q=1) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=39&q=1&slack=1)</small>
 
 **2. Kobe Brown — "As long as he plays with confidence, we going to live through the growing pains." — Kobe Brown on mentoring a 19-year-old teammate** [01:05](https://www.youtube.com/watch?v=_URKHhipaD8&t=65s)
 
@@ -18,7 +18,7 @@ Kobe Brown: "First, we got to start he is a hell of a player. So just telling hi
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=65s](https://www.youtube.com/watch?v=_URKHhipaD8&t=65s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=65&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=65&q=2) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=65&q=2&slack=1)</small>
 
 **3. Norman Powell — "It was tough to see him go down in training camp when we was doing our drills." — Norman Powell on his recovery from a training camp injury** [04:15](https://www.youtube.com/watch?v=_URKHhipaD8&t=255s)
 
@@ -26,7 +26,7 @@ Norman Powell: "It was tough to see him go down in training camp when we was doi
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=255s](https://www.youtube.com/watch?v=_URKHhipaD8&t=255s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=255&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=255&q=3) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=255&q=3&slack=1)</small>
 
 **4. Norman Powell — "Whatever the game opens up and happens, that is what I am going to take." — Norman Powell on expanding his offensive game to the perimeter** [05:06](https://www.youtube.com/watch?v=_URKHhipaD8&t=306s)
 
@@ -34,7 +34,7 @@ Norman Powell: "Whatever the game opens up and happens, that is what I am going 
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=306s](https://www.youtube.com/watch?v=_URKHhipaD8&t=306s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=306&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=306&q=4) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=306&q=4&slack=1)</small>
 
 **5. Norman Powell — "He can switch one through five and he can run the floor." — Norman Powell on Isaiah Hartenstein as the starting center** [06:17](https://www.youtube.com/watch?v=_URKHhipaD8&t=377s)
 
@@ -42,7 +42,7 @@ Norman Powell: "A lot of versatility. He can switch one through five and he can 
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=377s](https://www.youtube.com/watch?v=_URKHhipaD8&t=377s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=377&q=5)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=377&q=5) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=377&q=5&slack=1)</small>
 
 **6. Norman Powell — "We got to go out there throw the first punch and we can't just allow the teams." — Norman Powell on the need for defensive aggression** [07:04](https://www.youtube.com/watch?v=_URKHhipaD8&t=424s)
 
@@ -50,7 +50,7 @@ Norman Powell: "We got to go out there throw the first punch and we can't just a
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=424s](https://www.youtube.com/watch?v=_URKHhipaD8&t=424s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=424&q=6)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=424&q=6) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=424&q=6&slack=1)</small>
 
 **7. Tyronn Lue — "It is going to be a different look for those guys, a different look for us." — Tyronn Lue on the challenge of playing against a veteran-heavy team** [08:15](https://www.youtube.com/watch?v=_URKHhipaD8&t=495s)
 
@@ -58,7 +58,7 @@ Tyronn Lue: "It is going to be a different look for those guys, a different look
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=495s](https://www.youtube.com/watch?v=_URKHhipaD8&t=495s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=495&q=7)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=495&q=7) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=495&q=7&slack=1)</small>
 
 **8. Tyronn Lue — "It is my job to come in every day, make sure we give our guys confidence." — Tyronn Lue on his coaching philosophy for the season** [08:51](https://www.youtube.com/watch?v=_URKHhipaD8&t=531s)
 
@@ -66,7 +66,7 @@ Tyronn Lue: "It is my job to come in every day, make sure we give our guys confi
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=531s](https://www.youtube.com/watch?v=_URKHhipaD8&t=531s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=531&q=8)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=531&q=8) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=531&q=8&slack=1)</small>
 
 **9. Tyronn Lue — "It helps Domantas Sabonis get downhill, throw the lob, get to his floaters." — Tyronn Lue on Isaiah Hartenstein's role as a rim protector** [09:22](https://www.youtube.com/watch?v=_URKHhipaD8&t=562s)
 
@@ -74,7 +74,7 @@ Tyronn Lue: "It helps **Domantas Sabonis** get downhill, throw the lob, get to h
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=562s](https://www.youtube.com/watch?v=_URKHhipaD8&t=562s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=562&q=9)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=562&q=9) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=562&q=9&slack=1)</small>
 
 **10. Tyronn Lue — "It is actually helped us, I think, because now you get a chance to see different combinations." — Tyronn Lue on the benefits of preseason experimentation** [10:39](https://www.youtube.com/watch?v=_URKHhipaD8&t=639s)
 
@@ -82,7 +82,7 @@ Tyronn Lue: "It is actually helped us, I think, because now you get a chance to 
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=639s](https://www.youtube.com/watch?v=_URKHhipaD8&t=639s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=639&q=10)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=639&q=10) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=639&q=10&slack=1)</small>
 
 **11. Tyronn Lue — "We got to be small, but we got to be tough. We got to try to turn teams over." — Tyronn Lue on the team's defensive identity** [13:20](https://www.youtube.com/watch?v=_URKHhipaD8&t=800s)
 
@@ -90,4 +90,4 @@ Tyronn Lue: "We got to be small, but we got to be tough. We got to try to turn t
 
 [https://www.youtube.com/watch?v=_URKHhipaD8&t=800s](https://www.youtube.com/watch?v=_URKHhipaD8&t=800s)
 
-<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=800&q=11)</small>
+<small>[Clip it](presserclips://clip?v=_URKHhipaD8&t=800&q=11) · [Send to Slack](presserclips://clip?v=_URKHhipaD8&t=800&q=11&slack=1)</small>

@@ -10,7 +10,7 @@ Jamahl Mosley: "I just think cleaning up our turnovers, continuing the process o
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=27s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=27s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=27&q=1)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=27&q=1) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=27&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "there was 31 different starting lineups last year. And so these guys need to understand" — Mosley plans to experiment with starting lineups** [01:28](https://www.youtube.com/watch?v=uHvY5tQSthM&t=88s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "I'm going to change it up tonight. I was thinking about it, ther
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=88s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=88s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=88&q=2)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=88&q=2) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=88&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "he's got a competitive dog to him that I love and that we love" — Mosley praises Benedict Mathurin's competitive edge** [02:08](https://www.youtube.com/watch?v=uHvY5tQSthM&t=128s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "He's got a competitive dog to him that I love and that we love a
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=128s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=128s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=128&q=3)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=128&q=3) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=128&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "Kyrie is fantastic for Coop and I think his ability to teach him not just the things" — Kyrie Irving's mentorship role for Cooper** [02:51](https://www.youtube.com/watch?v=uHvY5tQSthM&t=171s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "I think Kyrie is fantastic for Coop and I think his ability to t
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=171s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=171s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=171&q=4)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=171&q=4) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=171&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "he was always the first one in the gym, trying to be the last one out" — Mosley's memories of Dwight Powell's work ethic** [03:38](https://www.youtube.com/watch?v=uHvY5tQSthM&t=218s)
 
@@ -42,4 +42,4 @@ Jamahl Mosley: "I just saw him out there going into a shooting slot and he was m
 
 [https://www.youtube.com/watch?v=uHvY5tQSthM&t=218s](https://www.youtube.com/watch?v=uHvY5tQSthM&t=218s)
 
-<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=218&q=5)</small>
+<small>[Clip it](presserclips://clip?v=uHvY5tQSthM&t=218&q=5) · [Send to Slack](presserclips://clip?v=uHvY5tQSthM&t=218&q=5&slack=1)</small>

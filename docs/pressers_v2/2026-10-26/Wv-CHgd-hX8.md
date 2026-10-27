@@ -10,7 +10,7 @@ Mark Daigneault: "I think we are planning on coming in tomorrow and I am holding
 
 [https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=43s](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=43s)
 
-<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=43&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=43&q=1) · [Send to Slack](presserclips://clip?v=Wv-CHgd-hX8&t=43&q=1&slack=1)</small>
 
 **2. Shai Gilgeous-Alexander — "you got to play the hands you're dealt in life." — Shai Gilgeous-Alexander on handling adversity and team depth** [03:15](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=195s)
 
@@ -18,7 +18,7 @@ Shai Gilgeous-Alexander: "You got to play the hands you're dealt in life. It is 
 
 [https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=195s](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=195s)
 
-<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=195&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=195&q=2) · [Send to Slack](presserclips://clip?v=Wv-CHgd-hX8&t=195&q=2&slack=1)</small>
 
 **3. Shai Gilgeous-Alexander — "I have no doubt in my mind he'll be back and he'll be better than he was before." — Shai Gilgeous-Alexander on Jalen Williams' resilience and recovery** [04:06](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=246s)
 
@@ -26,7 +26,7 @@ Shai Gilgeous-Alexander: "One of our biggest strengths is us as a unit and us as
 
 [https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=246s](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=246s)
 
-<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=246&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=246&q=3) · [Send to Slack](presserclips://clip?v=Wv-CHgd-hX8&t=246&q=3&slack=1)</small>
 
 **4. Alex Caruso — "it's just about being there for him and then being professional when it comes to playing basketball." — Alex Caruso on supporting teammates through injury adversity** [05:14](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=314s)
 
@@ -34,7 +34,7 @@ Alex Caruso: "There's no getting around feeling bad for Jalen, feeling sorry for
 
 [https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=314s](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=314s)
 
-<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=314&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=314&q=4) · [Send to Slack](presserclips://clip?v=Wv-CHgd-hX8&t=314&q=4&slack=1)</small>
 
 **5. Alex Caruso — "at a certain point, you can't be a victim anymore and you have to take the adversity head on." — Alex Caruso on Jalen Williams' character and resilience** [07:06](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=426s)
 
@@ -42,4 +42,4 @@ Alex Caruso: "Jalen is a resilient human being. He has great parents, comes from
 
 [https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=426s](https://www.youtube.com/watch?v=Wv-CHgd-hX8&t=426s)
 
-<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=426&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Wv-CHgd-hX8&t=426&q=5) · [Send to Slack](presserclips://clip?v=Wv-CHgd-hX8&t=426&q=5&slack=1)</small>

@@ -10,7 +10,7 @@ Chris Finch: "Listen, he barely played. He wasn't in a rhythm and if he was goin
 
 [https://www.youtube.com/watch?v=E-LU2i7VLko&t=32s](https://www.youtube.com/watch?v=E-LU2i7VLko&t=32s)
 
-<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=32&q=1)</small>
+<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=32&q=1) · [Send to Slack](presserclips://clip?v=E-LU2i7VLko&t=32&q=1&slack=1)</small>
 
 **2. Chris Finch — "There's been great growth there. It really has been." — Chris Finch on the defensive growth of Jaden McDaniels** [01:51](https://www.youtube.com/watch?v=E-LU2i7VLko&t=111s)
 
@@ -18,7 +18,7 @@ Chris Finch: "There's been great growth there. It really has been. His contain, 
 
 [https://www.youtube.com/watch?v=E-LU2i7VLko&t=111s](https://www.youtube.com/watch?v=E-LU2i7VLko&t=111s)
 
-<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=111&q=2)</small>
+<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=111&q=2) · [Send to Slack](presserclips://clip?v=E-LU2i7VLko&t=111&q=2&slack=1)</small>
 
 **3. Chris Finch — "We wanted to play quick, just pick a side and go" — Chris Finch on breaking intense ball pressure** [02:18](https://www.youtube.com/watch?v=E-LU2i7VLko&t=138s)
 
@@ -26,7 +26,7 @@ Chris Finch: "We wanted to play quick, just pick a side and go, not try to be to
 
 [https://www.youtube.com/watch?v=E-LU2i7VLko&t=138s](https://www.youtube.com/watch?v=E-LU2i7VLko&t=138s)
 
-<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=138&q=3)</small>
+<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=138&q=3) · [Send to Slack](presserclips://clip?v=E-LU2i7VLko&t=138&q=3&slack=1)</small>
 
 **4. Chris Finch — "He's doing everything we asked him to do" — Chris Finch on Jonathan Kuminga's rapid development** [03:05](https://www.youtube.com/watch?v=E-LU2i7VLko&t=185s)
 
@@ -34,7 +34,7 @@ Chris Finch: "He's doing everything we asked him to do or everything he said he 
 
 [https://www.youtube.com/watch?v=E-LU2i7VLko&t=185s](https://www.youtube.com/watch?v=E-LU2i7VLko&t=185s)
 
-<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=185&q=4)</small>
+<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=185&q=4) · [Send to Slack](presserclips://clip?v=E-LU2i7VLko&t=185&q=4&slack=1)</small>
 
 **5. Chris Finch — "Great defense by all those guys that took the matchup" — Chris Finch on the defensive effort against Scottie Barnes** [03:40](https://www.youtube.com/watch?v=E-LU2i7VLko&t=220s)
 
@@ -42,7 +42,7 @@ Chris Finch: "Obviously great defense by all those guys that took the matchup. H
 
 [https://www.youtube.com/watch?v=E-LU2i7VLko&t=220s](https://www.youtube.com/watch?v=E-LU2i7VLko&t=220s)
 
-<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=220&q=5)</small>
+<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=220&q=5) · [Send to Slack](presserclips://clip?v=E-LU2i7VLko&t=220&q=5&slack=1)</small>
 
 **6. Chris Finch — "I think LaMelo can gel with anybody" — Chris Finch on the quick chemistry of new players** [04:35](https://www.youtube.com/watch?v=E-LU2i7VLko&t=275s)
 
@@ -50,4 +50,4 @@ Chris Finch: "I think **LaMelo** can gel with anybody, he has so much skill and 
 
 [https://www.youtube.com/watch?v=E-LU2i7VLko&t=275s](https://www.youtube.com/watch?v=E-LU2i7VLko&t=275s)
 
-<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=275&q=6)</small>
+<small>[Clip it](presserclips://clip?v=E-LU2i7VLko&t=275&q=6) · [Send to Slack](presserclips://clip?v=E-LU2i7VLko&t=275&q=6&slack=1)</small>

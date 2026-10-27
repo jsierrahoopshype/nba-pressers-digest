@@ -10,7 +10,7 @@ Charles Lee: "Liam has had a really good off-season. He's had a really good trai
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=50s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=50s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=50&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=50&q=1) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=50&q=1&slack=1)</small>
 
 **2. Charles Lee — "That just shows the versatility we have in Naz, the trust that we have in Naz." — Charles Lee on Naz Reid's versatility and playmaking ability** [01:54](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=114s)
 
@@ -18,7 +18,7 @@ Charles Lee: "That just shows the versatility we have in **Naz**, the trust that
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=114s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=114s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=114&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=114&q=2) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=114&q=2&slack=1)</small>
 
 **3. Charles Lee — "We practice it and now you get to be able to come out here to the game and do it." — Charles Lee on using preseason for situational lineup experimentation** [02:42](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=162s)
 
@@ -26,7 +26,7 @@ Charles Lee: "We practice it and now you get to be able to come out here to the 
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=162s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=162s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=162&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=162&q=3) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=162&q=3&slack=1)</small>
 
 **4. Charles Lee — "He's just shown us who he can be, who he is as a defender, guarding multiple positions." — Charles Lee on Michael Ajayi's energetic preseason progress** [03:13](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=193s)
 
@@ -34,7 +34,7 @@ Charles Lee: "Really just excited that he was able to earn an opportunity to pla
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=193s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=193s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=193&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=193&q=4) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=193&q=4&slack=1)</small>
 
 **5. Charles Lee — "These are the cards you're dealt right now with some of the injuries." — Charles Lee on balancing experimentation with player health in preseason** [04:12](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=252s)
 
@@ -42,7 +42,7 @@ Charles Lee: "These are the cards you're dealt right now with some of the injuri
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=252s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=252s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=252&q=5)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=252&q=5) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=252&q=5&slack=1)</small>
 
 **6. Charles Lee — "He takes the coaching so quickly and he picks up things really fast." — Charles Lee on Hannes's rapid learning and defensive potential** [05:04](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=304s)
 
@@ -50,4 +50,4 @@ Charles Lee: "He takes the coaching so quickly and he picks up things really fas
 
 [https://www.youtube.com/watch?v=_iS0rqwMHUw&t=304s](https://www.youtube.com/watch?v=_iS0rqwMHUw&t=304s)
 
-<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=304&q=6)</small>
+<small>[Clip it](presserclips://clip?v=_iS0rqwMHUw&t=304&q=6) · [Send to Slack](presserclips://clip?v=_iS0rqwMHUw&t=304&q=6&slack=1)</small>

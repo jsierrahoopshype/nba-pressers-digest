@@ -10,7 +10,7 @@ Ajay Mitchell: "I think just sticking to our game plan and then just being ourse
 
 [https://www.youtube.com/watch?v=e6FMZbRL6rg&t=13s](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=13s)
 
-<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=13&q=1) · [Send to Slack](presserclips://clip?v=e6FMZbRL6rg&t=13&q=1&slack=1)</small>
 
 **2. Ajay Mitchell — "I keep learning from the guys on the team, watching film too, and just getting stronger, faster." — Ajay Mitchell on his personal defensive growth and learning process** [00:37](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=37s)
 
@@ -18,7 +18,7 @@ Ajay Mitchell: "I felt great. I mean, I keep learning from the guys on the team,
 
 [https://www.youtube.com/watch?v=e6FMZbRL6rg&t=37s](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=37s)
 
-<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=37&q=2)</small>
+<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=37&q=2) · [Send to Slack](presserclips://clip?v=e6FMZbRL6rg&t=37&q=2&slack=1)</small>
 
 **3. Ajay Mitchell — "Our whole team in general, we know we're going to make shots." — Ajay Mitchell on the team's confidence in their shooting process** [01:06](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=66s)
 
@@ -26,7 +26,7 @@ Ajay Mitchell: "I mean, felt great. You know, just like I said, worked on it all
 
 [https://www.youtube.com/watch?v=e6FMZbRL6rg&t=66s](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=66s)
 
-<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=66&q=3)</small>
+<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=66&q=3) · [Send to Slack](presserclips://clip?v=e6FMZbRL6rg&t=66&q=3&slack=1)</small>
 
 **4. Ajay Mitchell — "He's a great shooter. I think his balance, the way he's able to run fast but then be able to get his shot up." — Ajay Mitchell on Jalen Williams' shooting confidence and balance** [01:39](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=99s)
 
@@ -34,7 +34,7 @@ Ajay Mitchell: "He's definitely not. I mean, he's a great shooter. I think his b
 
 [https://www.youtube.com/watch?v=e6FMZbRL6rg&t=99s](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=99s)
 
-<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=99&q=4)</small>
+<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=99&q=4) · [Send to Slack](presserclips://clip?v=e6FMZbRL6rg&t=99&q=4&slack=1)</small>
 
 **5. Ajay Mitchell — "Every guy on our team is confident. They trust their work." — Ajay Mitchell on team-wide confidence and work ethic** [02:09](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=129s)
 
@@ -42,7 +42,7 @@ Ajay Mitchell: "I would say so. I mean, I think every guy on our team is confide
 
 [https://www.youtube.com/watch?v=e6FMZbRL6rg&t=129s](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=129s)
 
-<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=129&q=5)</small>
+<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=129&q=5) · [Send to Slack](presserclips://clip?v=e6FMZbRL6rg&t=129&q=5&slack=1)</small>
 
 **6. Ajay Mitchell — "We really buy into defense and when it comes down to that stretch, we're able to create turnovers." — Ajay Mitchell on the team's defensive mindset and energy** [02:50](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=170s)
 
@@ -50,7 +50,7 @@ Ajay Mitchell: "I think it's the mindset that every guy on our team has. We real
 
 [https://www.youtube.com/watch?v=e6FMZbRL6rg&t=170s](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=170s)
 
-<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=170&q=6)</small>
+<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=170&q=6) · [Send to Slack](presserclips://clip?v=e6FMZbRL6rg&t=170&q=6&slack=1)</small>
 
 **7. Ajay Mitchell — "Those are really, really good players, like great players." — Ajay Mitchell on the excitement of guarding elite players** [03:49](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=229s)
 
@@ -58,4 +58,4 @@ Ajay Mitchell: "Excitement. I mean, those are really, really good players, like 
 
 [https://www.youtube.com/watch?v=e6FMZbRL6rg&t=229s](https://www.youtube.com/watch?v=e6FMZbRL6rg&t=229s)
 
-<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=229&q=7)</small>
+<small>[Clip it](presserclips://clip?v=e6FMZbRL6rg&t=229&q=7) · [Send to Slack](presserclips://clip?v=e6FMZbRL6rg&t=229&q=7&slack=1)</small>

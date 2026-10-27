@@ -10,7 +10,7 @@ Evan Mobley: "I think everything just has to be upped. I don't think we have to 
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=81s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=81s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=81&q=1)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=81&q=1) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=81&q=1&slack=1)</small>
 
 **2. Evan Mobley — "He's definitely his own leader in his own way as well. He's vocal." — Evan Mobley praises Peyton Watson's impact during training camp** [02:42](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=162s)
 
@@ -18,7 +18,7 @@ Evan Mobley: "He's been great. He's definitely his own leader in his own way as 
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=162s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=162s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=162&q=2)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=162&q=2) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=162&q=2&slack=1)</small>
 
 **3. Evan Mobley — "He's a normal dude just like all of us. I feel that's a big factor." — Evan Mobley on James Harden's personality and leadership** [05:00](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=300s)
 
@@ -26,7 +26,7 @@ Evan Mobley: "Like you said, a legend. It's crazy that I get to play with him an
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=300s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=300s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=300&q=3)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=300&q=3) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=300&q=3&slack=1)</small>
 
 **4. Evan Mobley — "I'm definitely going to still maintain my defensive game for the most part." — Evan Mobley's focus on maintaining defensive dominance while improving offensively** [08:22](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=502s)
 
@@ -34,7 +34,7 @@ Evan Mobley: "I'm definitely going to still maintain my defensive game for the m
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=502s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=502s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=502&q=4)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=502&q=4) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=502&q=4&slack=1)</small>
 
 **5. Evan Mobley — "I got to simplify my game just like how I was just talking about with Kevin Garnett." — Evan Mobley's goals for simplifying his offensive game** [13:11](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=791s)
 
@@ -42,7 +42,7 @@ Evan Mobley: "I think offensively, I got to simplify my game just like how I was
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=791s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=791s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=791&q=5)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=791&q=5) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=791&q=5&slack=1)</small>
 
 **6. Evan Mobley — "The most together teams are the ones that are winning the championship recently." — Evan Mobley on the importance of team chemistry for winning championships** [13:58](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=838s)
 
@@ -50,4 +50,4 @@ Evan Mobley: "I think it's both, on-court and off-court. I feel the most togethe
 
 [https://www.youtube.com/watch?v=M5UaiV_JGv0&t=838s](https://www.youtube.com/watch?v=M5UaiV_JGv0&t=838s)
 
-<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=838&q=6)</small>
+<small>[Clip it](presserclips://clip?v=M5UaiV_JGv0&t=838&q=6) · [Send to Slack](presserclips://clip?v=M5UaiV_JGv0&t=838&q=6&slack=1)</small>

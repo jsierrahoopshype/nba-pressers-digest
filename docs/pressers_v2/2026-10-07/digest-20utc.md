@@ -14,7 +14,7 @@ J.B. Bickerstaff: "When you're scrimmaging or playing against each other, it's a
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=7s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=7s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=7&q=1) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=7&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "we're introducing some new things and new concepts, and it's always expected to be that way" — J.B. Bickerstaff on implementing new concepts during training camp** [00:42](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=42s)
 
@@ -22,7 +22,7 @@ J.B. Bickerstaff: "We're introducing some new things and new concepts, and it's 
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=42s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=42s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=42&q=2) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=42&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "he's done a really good job of making small improvements all around" — J.B. Bickerstaff on Jaden Ivey's offseason development** [01:13](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=73s)
 
@@ -30,7 +30,7 @@ J.B. Bickerstaff: "He's done a really good job of making small improvements all 
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=73s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=73s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=73&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=73&q=3) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=73&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "the plan is definitely for him to play in the preseason" — J.B. Bickerstaff confirms Jaden Ivey will play in preseason** [01:45](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=105s)
 
@@ -38,7 +38,7 @@ J.B. Bickerstaff: "The plan is definitely for him to play in the preseason. It's
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=105s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=105s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=105&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=105&q=4) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=105&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "the foundation is the foundation and that always stays the same" — J.B. Bickerstaff on maintaining defensive foundation with roster continuity** [02:21](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=141s)
 
@@ -46,7 +46,7 @@ J.B. Bickerstaff: "The foundation is the foundation and that always stays the sa
 
 [https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=141s](https://www.youtube.com/watch?v=kyn8MAzGoJ4&t=141s)
 
-<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=141&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kyn8MAzGoJ4&t=141&q=5) · [Send to Slack](presserclips://clip?v=kyn8MAzGoJ4&t=141&q=5&slack=1)</small>
 
 ---
 
@@ -62,7 +62,7 @@ Kenny Atkinson: "He leads with actions first of all. He doesn't miss practice, h
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=89s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=89s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=89&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=89&q=1) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=89&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "The goal is always be top 10 in offense and defense that gives you a real chance." — Kenny Atkinson on the team's goal to be a top-five defense** [02:13](https://www.youtube.com/watch?v=NZSlDLmlpno&t=133s)
 
@@ -70,7 +70,7 @@ Kenny Atkinson: "The goal is always be top 10 in offense and defense that gives 
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=133s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=133s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=133&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=133&q=2) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=133&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "He's just like as a player, he's got a great feel. Certain coaches have a feel for the game." — Kenny Atkinson on Omar Cook's value to the coaching staff** [04:39](https://www.youtube.com/watch?v=NZSlDLmlpno&t=279s)
 
@@ -78,7 +78,7 @@ Kenny Atkinson: "He helps me a lot because he's just like as a player, he's got 
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=279s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=279s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=279&q=3)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=279&q=3) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=279&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "A lot of discussion who works best with who, feeling that, collaborating with the players." — Kenny Atkinson on the process of deciding on starting lineups** [05:19](https://www.youtube.com/watch?v=NZSlDLmlpno&t=319s)
 
@@ -86,7 +86,7 @@ Kenny Atkinson: "A lot of discussion who works best with who, feeling that, coll
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=319s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=319s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=319&q=4)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=319&q=4) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=319&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "When Donovan and Evan, they're kind of the backup point guards for each other." — Kenny Atkinson on the team's backup point guard rotation** [07:04](https://www.youtube.com/watch?v=NZSlDLmlpno&t=424s)
 
@@ -94,7 +94,7 @@ Kenny Atkinson: "When **Donovan** and **Evan**, they're kind of the backup point
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=424s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=424s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=424&q=5)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=424&q=5) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=424&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "I don't see any slippage. There's a shift in the NBA, shifting professional sports." — Kenny Atkinson on the longevity of stars like LeBron, Steph, and KD** [08:37](https://www.youtube.com/watch?v=NZSlDLmlpno&t=517s)
 
@@ -102,7 +102,7 @@ Kenny Atkinson: "I don't see any slippage. There's a shift in the NBA, shifting 
 
 [https://www.youtube.com/watch?v=NZSlDLmlpno&t=517s](https://www.youtube.com/watch?v=NZSlDLmlpno&t=517s)
 
-<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=517&q=6)</small>
+<small>[Clip it](presserclips://clip?v=NZSlDLmlpno&t=517&q=6) · [Send to Slack](presserclips://clip?v=NZSlDLmlpno&t=517&q=6&slack=1)</small>
 
 ---
 
@@ -118,7 +118,7 @@ Kelly Olynyk: "It reminds me a lot of my teams in Memphis where we were super cl
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=45s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=45s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=45&q=1)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=45&q=1) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=45&q=1&slack=1)</small>
 
 **2. Kelly Olynyk — "Jamal was one of my favorite players to watch in the league. Every time I would watch" — Kelly Olynyk on Jamal Murray's ability to impact the game** [01:14](https://www.youtube.com/watch?v=16FdYCmQkY0&t=74s)
 
@@ -126,7 +126,7 @@ Kelly Olynyk: "I watched them a lot last year. Honestly, Jamal was one of my fav
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=74s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=74s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=74&q=2)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=74&q=2) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=74&q=2&slack=1)</small>
 
 **3. Kelly Olynyk — "He is so keyed and locked in on the details that it is tough as a player" — Kelly Olynyk praises Darko Rajaković's attention to detail** [02:00](https://www.youtube.com/watch?v=16FdYCmQkY0&t=120s)
 
@@ -134,7 +134,7 @@ Kelly Olynyk: "I think that is just in his nature to help guys get better. He is
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=120s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=120s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=120&q=3)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=120&q=3) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=120&q=3&slack=1)</small>
 
 **4. Kelly Olynyk — "help out the young guys. It is a long season. You do not want to get too high" — Kelly Olynyk on his veteran role with the young Raptors team** [02:33](https://www.youtube.com/watch?v=16FdYCmQkY0&t=153s)
 
@@ -142,7 +142,7 @@ Kelly Olynyk: "I think he wants me to come in here and use my veteran experience
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=153s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=153s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=153&q=4)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=153&q=4) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=153&q=4&slack=1)</small>
 
 **5. Kelly Olynyk — "I spoke to Darko about that. He said I need you to be ready to play the five" — Kelly Olynyk on playing the five position** [05:22](https://www.youtube.com/watch?v=16FdYCmQkY0&t=322s)
 
@@ -150,7 +150,7 @@ Kelly Olynyk: "I spoke to Darko about that. He said I need you to be ready to pl
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=322s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=322s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=322&q=5)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=322&q=5) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=322&q=5&slack=1)</small>
 
 **6. RJ Barrett — "just kind of being all over, whether it is rebounding, defense, just being in the right spots" — RJ Barrett on his versatility and role** [07:23](https://www.youtube.com/watch?v=16FdYCmQkY0&t=443s)
 
@@ -158,7 +158,7 @@ RJ Barrett: "It is just kind of being all over, whether it is rebounding, defens
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=443s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=443s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=443&q=6)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=443&q=6) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=443&q=6&slack=1)</small>
 
 **7. RJ Barrett — "It is cool to have those guys coming in and talk to us a little bit about" — RJ Barrett on learning the team's new points of emphasis** [08:02](https://www.youtube.com/watch?v=16FdYCmQkY0&t=482s)
 
@@ -166,7 +166,7 @@ RJ Barrett: "It is cool to have those guys coming in and talk to us a little bit
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=482s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=482s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=482&q=7)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=482&q=7) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=482&q=7&slack=1)</small>
 
 **8. RJ Barrett — "Some people just have good energy, man. And it is every day. You almost wonder how is he" — RJ Barrett on Immanuel Quickley's positive energy** [08:55](https://www.youtube.com/watch?v=16FdYCmQkY0&t=535s)
 
@@ -174,7 +174,7 @@ RJ Barrett: "Some people just have good energy, man. And it is every day. You al
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=535s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=535s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=535&q=8)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=535&q=8) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=535&q=8&slack=1)</small>
 
 **9. RJ Barrett — "I think when you represent your country, it is a little bit of a different pride" — RJ Barrett on playing for the Canadian national team** [11:15](https://www.youtube.com/watch?v=16FdYCmQkY0&t=675s)
 
@@ -182,7 +182,7 @@ RJ Barrett: "I think when you represent your country, it is a little bit of a di
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=675s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=675s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=675&q=9)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=675&q=9) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=675&q=9&slack=1)</small>
 
 **10. Darko Rajaković — "Kyle is always about the right things. He is a very coachable player" — Darko Rajaković on Kyle Filipowski's leadership and coachability** [13:24](https://www.youtube.com/watch?v=16FdYCmQkY0&t=804s)
 
@@ -190,7 +190,7 @@ Darko Rajaković: "During open gym every time that we played live, he is not shy
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=804s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=804s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=804&q=10)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=804&q=10) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=804&q=10&slack=1)</small>
 
 **11. Darko Rajaković — "I always like loved Kyle. I always like engaging with him" — Darko Rajaković on his relationship with Kyle Filipowski** [14:12](https://www.youtube.com/watch?v=16FdYCmQkY0&t=852s)
 
@@ -198,7 +198,7 @@ Darko Rajaković: "I always like loved Kyle. I always like engaging with him. I 
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=852s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=852s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=852&q=11)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=852&q=11) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=852&q=11&slack=1)</small>
 
 **12. Darko Rajaković — "The way we build teams in Europe, you sign point guard, then two guard, then three guard" — Darko Rajaković on building a team with versatile players** [16:01](https://www.youtube.com/watch?v=16FdYCmQkY0&t=961s)
 
@@ -206,7 +206,7 @@ Darko Rajaković: "The way we build teams in Europe, you sign point guard, then 
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=961s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=961s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=961&q=12)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=961&q=12) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=961&q=12&slack=1)</small>
 
 **13. Darko Rajaković — "I see that a lot with rookies, you know, when they come first time to NBA" — Darko Rajaković on rookie injuries and the learning process** [18:21](https://www.youtube.com/watch?v=16FdYCmQkY0&t=1101s)
 
@@ -214,7 +214,7 @@ Darko Rajaković: "I see that a lot with rookies, you know, when they come first
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=1101s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=1101s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=1101&q=13)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=1101&q=13) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=1101&q=13&slack=1)</small>
 
 **14. Darko Rajaković — "I think he has a lot of intangibles that can help our team right away" — Darko Rajaković on integrating Kyle Filipowski into the rotation** [19:31](https://www.youtube.com/watch?v=16FdYCmQkY0&t=1171s)
 
@@ -222,7 +222,7 @@ Darko Rajaković: "I think he has a lot of intangibles that can help our team ri
 
 [https://www.youtube.com/watch?v=16FdYCmQkY0&t=1171s](https://www.youtube.com/watch?v=16FdYCmQkY0&t=1171s)
 
-<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=1171&q=14)</small>
+<small>[Clip it](presserclips://clip?v=16FdYCmQkY0&t=1171&q=14) · [Send to Slack](presserclips://clip?v=16FdYCmQkY0&t=1171&q=14&slack=1)</small>
 
 ---
 

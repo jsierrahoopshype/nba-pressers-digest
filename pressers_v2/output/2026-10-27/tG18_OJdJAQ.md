@@ -10,7 +10,7 @@ Tyler Herro: "Obviously for us, I think it starts on the defensive end. Being in
 
 [https://www.youtube.com/watch?v=tG18_OJdJAQ&t=16s](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=16s)
 
-<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=16&q=1) · [Send to Slack](presserclips://clip?v=tG18_OJdJAQ&t=16&q=1&slack=1)</small>
 
 **2. Tyler Herro — "I'm obviously a big Brewers fan my entire life." — Tyler Herro on the surreal experience of playing for the Bucks** [00:56](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=56s)
 
@@ -18,7 +18,7 @@ Tyler Herro: "It's surreal. You can't even really put it into words. It's unimag
 
 [https://www.youtube.com/watch?v=tG18_OJdJAQ&t=56s](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=56s)
 
-<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=56&q=2) · [Send to Slack](presserclips://clip?v=tG18_OJdJAQ&t=56&q=2&slack=1)</small>
 
 **3. Tyler Herro — "We don't want to take a step forward and then take two steps back." — Tyler Herro on the team's need to stack wins** [02:27](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=147s)
 
@@ -26,7 +26,7 @@ Tyler Herro: "You know, obviously our approach, we're a young group. I think bei
 
 [https://www.youtube.com/watch?v=tG18_OJdJAQ&t=147s](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=147s)
 
-<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=147&q=3)</small>
+<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=147&q=3) · [Send to Slack](presserclips://clip?v=tG18_OJdJAQ&t=147&q=3&slack=1)</small>
 
 **4. Tyler Herro — "not getting too high, not getting too low. That's what I've learned throughout my career." — Tyler Herro on his personal adjustment to the Bucks** [03:01](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=181s)
 
@@ -34,7 +34,7 @@ Tyler Herro: "Been in the league eight years now. It's crazy to say, but just no
 
 [https://www.youtube.com/watch?v=tG18_OJdJAQ&t=181s](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=181s)
 
-<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=181&q=4)</small>
+<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=181&q=4) · [Send to Slack](presserclips://clip?v=tG18_OJdJAQ&t=181&q=4&slack=1)</small>
 
 **5. Tyler Herro — "Coach wants us pretty much all tagging up, all crashing the glass, being on the top side." — Tyler Herro on adjusting to new defensive responsibilities** [04:04](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=244s)
 
@@ -42,4 +42,4 @@ Tyler Herro: "It's new for me as well. In Miami, I usually was the one getting b
 
 [https://www.youtube.com/watch?v=tG18_OJdJAQ&t=244s](https://www.youtube.com/watch?v=tG18_OJdJAQ&t=244s)
 
-<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=244&q=5)</small>
+<small>[Clip it](presserclips://clip?v=tG18_OJdJAQ&t=244&q=5) · [Send to Slack](presserclips://clip?v=tG18_OJdJAQ&t=244&q=5&slack=1)</small>

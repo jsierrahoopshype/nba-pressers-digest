@@ -10,7 +10,7 @@ Nikola Jokić: "I am going to sign next year if they want me."
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=230s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=230s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=230&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=230&q=1) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=230&q=1&slack=1)</small>
 
 **2. Nikola Jokić — Nikola Jokic praises DeMar DeRozan as an underrated passer and potential fit for the Nuggets.** [12:08](https://www.youtube.com/watch?v=WwTAZQReZ34&t=728s)
 
@@ -18,7 +18,7 @@ Nikola Jokić: "We know he is a top 20, top 25 player. He can score the ball, th
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=728s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=728s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=728&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=728&q=2) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=728&q=2&slack=1)</small>
 
 **3. Nikola Jokić — Nikola Jokic says Aaron Gordon is a unique player when healthy.** [13:51](https://www.youtube.com/watch?v=WwTAZQReZ34&t=831s)
 
@@ -26,7 +26,7 @@ Nikola Jokić: "When he is injured there is no player in the league like him. Th
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=831s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=831s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=831&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=831&q=3) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=831&q=3&slack=1)</small>
 
 **4. Nikola Jokić — Nikola Jokic suggests NBA players should play in Europe to experience the pressure.** [14:35](https://www.youtube.com/watch?v=WwTAZQReZ34&t=875s)
 
@@ -34,4 +34,4 @@ Nikola Jokić: "I wish every player in NBA should go play like six months in Eur
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=875s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=875s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=875&q=4)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=875&q=4) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=875&q=4&slack=1)</small>

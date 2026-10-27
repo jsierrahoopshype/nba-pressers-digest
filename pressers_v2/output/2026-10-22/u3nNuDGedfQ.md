@@ -10,7 +10,7 @@ C.J. Miles: "I bought my first camera while I was playing in Utah, and I was jus
 
 [https://www.youtube.com/watch?v=u3nNuDGedfQ&t=25s](https://www.youtube.com/watch?v=u3nNuDGedfQ&t=25s)
 
-<small>[Clip it](presserclips://clip?v=u3nNuDGedfQ&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=u3nNuDGedfQ&t=25&q=1) · [Send to Slack](presserclips://clip?v=u3nNuDGedfQ&t=25&q=1&slack=1)</small>
 
 **2. C.J. Miles — "It was almost like being drafted again by the Jazz, right?" — C.J. Miles on his return to the Utah Jazz organization** [01:55](https://www.youtube.com/watch?v=u3nNuDGedfQ&t=115s)
 
@@ -18,4 +18,4 @@ C.J. Miles: "After I retired and started doing some other things around basketba
 
 [https://www.youtube.com/watch?v=u3nNuDGedfQ&t=115s](https://www.youtube.com/watch?v=u3nNuDGedfQ&t=115s)
 
-<small>[Clip it](presserclips://clip?v=u3nNuDGedfQ&t=115&q=2)</small>
+<small>[Clip it](presserclips://clip?v=u3nNuDGedfQ&t=115&q=2) · [Send to Slack](presserclips://clip?v=u3nNuDGedfQ&t=115&q=2&slack=1)</small>

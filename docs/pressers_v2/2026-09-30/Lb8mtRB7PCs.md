@@ -10,7 +10,7 @@ Mike Conley: "There was a bunch of reasons, but ultimately I, you know, the cult
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=33s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=33s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=33&q=1) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=33&q=1&slack=1)</small>
 
 **2. Mike Conley — "That fire is never ending, honestly. It's constant." — Mike Conley discusses his motivation to win his first NBA championship.** [04:04](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=244s)
 
@@ -18,7 +18,7 @@ Mike Conley: "That fire is never ending, honestly. It's constant. It's in every 
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=244s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=244s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=244&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=244&q=2) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=244&q=2&slack=1)</small>
 
 **3. Mike Conley — Mike Conley addresses his evolving role and continued impact on the court.** [05:06](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=306s)
 
@@ -26,7 +26,7 @@ Mike Conley: "There's there's most days I wake up and I sit here and I and I am 
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=306s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=306s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=306&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=306&q=3) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=306&q=3&slack=1)</small>
 
 **4. Mike Conley — "Joe's great. He honestly, he just keeps you engaged and on your toes at all times." — Mike Conley praises Joe Mazzulla's coaching style and intensity.** [08:45](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=525s)
 
@@ -34,4 +34,4 @@ Mike Conley: "**Joe**'s great. He honestly, he just keeps you engaged and on you
 
 [https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=525s](https://www.youtube.com/watch?v=Lb8mtRB7PCs&t=525s)
 
-<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=525&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Lb8mtRB7PCs&t=525&q=4) · [Send to Slack](presserclips://clip?v=Lb8mtRB7PCs&t=525&q=4&slack=1)</small>

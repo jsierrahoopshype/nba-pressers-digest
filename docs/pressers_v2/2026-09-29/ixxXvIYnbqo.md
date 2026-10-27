@@ -10,7 +10,7 @@ J.B. Bickerstaff: "The most important thing is that he is healthy. Talent doesn'
 
 [https://www.youtube.com/watch?v=ixxXvIYnbqo&t=391s](https://www.youtube.com/watch?v=ixxXvIYnbqo&t=391s)
 
-<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=391&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=391&q=1) · [Send to Slack](presserclips://clip?v=ixxXvIYnbqo&t=391&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "there are lineups that we can play with him at the five" — J.B. Bickerstaff is exploring small-ball lineups with John Collins at the five.** [07:16](https://www.youtube.com/watch?v=ixxXvIYnbqo&t=436s)
 
@@ -18,4 +18,4 @@ J.B. Bickerstaff: "We will do what the versatility allows us to do and there are
 
 [https://www.youtube.com/watch?v=ixxXvIYnbqo&t=436s](https://www.youtube.com/watch?v=ixxXvIYnbqo&t=436s)
 
-<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=436&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=436&q=2) · [Send to Slack](presserclips://clip?v=ixxXvIYnbqo&t=436&q=2&slack=1)</small>

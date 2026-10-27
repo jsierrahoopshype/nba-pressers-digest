@@ -10,7 +10,7 @@ Grayson Allen: "pretty good job implementing stuff we've been working on in prac
 
 [https://www.youtube.com/watch?v=ei0q7oY8YfY&t=12s](https://www.youtube.com/watch?v=ei0q7oY8YfY&t=12s)
 
-<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=12&q=1) · [Send to Slack](presserclips://clip?v=ei0q7oY8YfY&t=12&q=1&slack=1)</small>
 
 **2. Grayson Allen — "it's good to have that, good to review some film this morning" — Grayson Allen on the value of preseason game film** [00:54](https://www.youtube.com/watch?v=ei0q7oY8YfY&t=54s)
 
@@ -18,7 +18,7 @@ Grayson Allen: "it's good to have that, good to review some film this morning. I
 
 [https://www.youtube.com/watch?v=ei0q7oY8YfY&t=54s](https://www.youtube.com/watch?v=ei0q7oY8YfY&t=54s)
 
-<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=54&q=2) · [Send to Slack](presserclips://clip?v=ei0q7oY8YfY&t=54&q=2&slack=1)</small>
 
 **3. Grayson Allen — "it felt good to put on the Hornets jersey" — Grayson Allen on his Charlotte Hornets debut** [1:33](https://www.youtube.com/watch?v=ei0q7oY8YfY&t=93s)
 
@@ -26,7 +26,7 @@ Grayson Allen: "solid. We have guys out right now, so much different game, but i
 
 [https://www.youtube.com/watch?v=ei0q7oY8YfY&t=93s](https://www.youtube.com/watch?v=ei0q7oY8YfY&t=93s)
 
-<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=93&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=93&q=3) · [Send to Slack](presserclips://clip?v=ei0q7oY8YfY&t=93&q=3&slack=1)</small>
 
 **4. Grayson Allen — "this is an incredibly close team, top to bottom" — Grayson Allen on the chemistry of the Charlotte Hornets roster** [2:25](https://www.youtube.com/watch?v=ei0q7oY8YfY&t=145s)
 
@@ -34,4 +34,4 @@ Grayson Allen: "this is an incredibly close team, top to bottom, which is really
 
 [https://www.youtube.com/watch?v=ei0q7oY8YfY&t=145s](https://www.youtube.com/watch?v=ei0q7oY8YfY&t=145s)
 
-<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=145&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ei0q7oY8YfY&t=145&q=4) · [Send to Slack](presserclips://clip?v=ei0q7oY8YfY&t=145&q=4&slack=1)</small>

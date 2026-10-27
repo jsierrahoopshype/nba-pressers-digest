@@ -10,7 +10,7 @@ Jabari Walker: "It's just creating structure, details, and what we're trying to 
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=16s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=16s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=16&q=1) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=16&q=1&slack=1)</small>
 
 **2. Jabari Walker — "I like when Joel's talking crazy and just being competitive. And that's how you know when Joel feels good." — Jabari Walker on Joel Embiid's competitive nature during practice** [00:50](https://www.youtube.com/watch?v=Bi30cKkhvek&t=50s)
 
@@ -18,7 +18,7 @@ Jabari Walker: "I like when Joel's talking crazy and just being competitive. And
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=50s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=50s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=50&q=2) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=50&q=2&slack=1)</small>
 
 **3. Jabari Walker — "Everybody has the same story of okay, this team was close and that's how we won." — Jabari Walker on the importance of team cohesion and shared sacrifice** [01:11](https://www.youtube.com/watch?v=Bi30cKkhvek&t=71s)
 
@@ -26,7 +26,7 @@ Jabari Walker: "Everybody has the same story of okay, this team was close and th
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=71s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=71s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=71&q=3) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=71&q=3&slack=1)</small>
 
 **4. Jabari Walker — "I have no problem sacrificing and I think we have the same with the characters we have." — Jabari Walker on the team's collective commitment to sacrifice** [01:52](https://www.youtube.com/watch?v=Bi30cKkhvek&t=112s)
 
@@ -34,7 +34,7 @@ Jabari Walker: "I'm comfortable with who I am and my beliefs and I want to win. 
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=112s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=112s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=112&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=112&q=4) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=112&q=4&slack=1)</small>
 
 **5. Jabari Walker — "I feel way better at this point than I did last year." — Jabari Walker on his personal growth and comfort level this season** [02:49](https://www.youtube.com/watch?v=Bi30cKkhvek&t=169s)
 
@@ -42,7 +42,7 @@ Jabari Walker: "I feel way better at this point than I did last year and just th
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=169s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=169s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=169&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=169&q=5) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=169&q=5&slack=1)</small>
 
 **6. Jabari Walker — "They understand what it takes to win and everyone's just looking for this opportunity." — Jabari Walker on the team's willingness to sacrifice for winning** [03:40](https://www.youtube.com/watch?v=Bi30cKkhvek&t=220s)
 
@@ -50,7 +50,7 @@ Jabari Walker: "They understand what it takes to win and everyone's just looking
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=220s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=220s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=220&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=220&q=6) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=220&q=6&slack=1)</small>
 
 **7. Jabari Walker — "This is the most included I've felt in any training camp." — Jabari Walker on the inclusive culture of the 76ers training camp** [04:11](https://www.youtube.com/watch?v=Bi30cKkhvek&t=251s)
 
@@ -58,7 +58,7 @@ Jabari Walker: "This is the most included I've felt in any training camp. So, it
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=251s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=251s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=251&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=251&q=7) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=251&q=7&slack=1)</small>
 
 **8. Jabari Walker — "I've been around to know that the best basketball is later in the season." — Jabari Walker on the team's long-term focus and development** [04:46](https://www.youtube.com/watch?v=Bi30cKkhvek&t=286s)
 
@@ -66,7 +66,7 @@ Jabari Walker: "I've been around to know that the best basketball is later in th
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=286s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=286s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=286&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=286&q=8) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=286&q=8&slack=1)</small>
 
 **9. Jabari Walker — "It's important to see some live reps against another team and to most importantly get film." — Jabari Walker on the value of live reps and film study** [05:33](https://www.youtube.com/watch?v=Bi30cKkhvek&t=333s)
 
@@ -74,7 +74,7 @@ Jabari Walker: "It's important to see some live reps against another team and to
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=333s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=333s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=333&q=9)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=333&q=9) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=333&q=9&slack=1)</small>
 
 **10. Jabari Walker — "Nick is just comfortable with himself and he's done this before." — Jabari Walker on Nick Nurse's coaching style and team communication** [07:20](https://www.youtube.com/watch?v=Bi30cKkhvek&t=440s)
 
@@ -82,4 +82,4 @@ Jabari Walker: "Nick is just comfortable with himself and he's done this before.
 
 [https://www.youtube.com/watch?v=Bi30cKkhvek&t=440s](https://www.youtube.com/watch?v=Bi30cKkhvek&t=440s)
 
-<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=440&q=10)</small>
+<small>[Clip it](presserclips://clip?v=Bi30cKkhvek&t=440&q=10) · [Send to Slack](presserclips://clip?v=Bi30cKkhvek&t=440&q=10&slack=1)</small>

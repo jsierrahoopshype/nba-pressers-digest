@@ -10,7 +10,7 @@ Jordan Goodwin: "I bring energy. I feel like I'm already on edge when I walk int
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=5s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=5s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=5&q=1) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=5&q=1&slack=1)</small>
 
 **2. Jordan Goodwin — "No mask this year for right now, until I get hit." — Jordan Goodwin on the team's lack of masks this season** [00:50](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=50s)
 
@@ -18,7 +18,7 @@ Jordan Goodwin: "No mask this year for right now, until I get hit. It's going to
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=50s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=50s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=50&q=2) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=50&q=2&slack=1)</small>
 
 **3. Jordan Goodwin — "We got a good group of guys, so the spirit is always high in here." — Jordan Goodwin on the positive team culture and energy** [01:15](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=75s)
 
@@ -26,7 +26,7 @@ Jordan Goodwin: "We got a good group of guys, so the spirit is always high in he
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=75s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=75s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=75&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=75&q=3) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=75&q=3&slack=1)</small>
 
 **4. Jordan Goodwin — "I think about my sons and who I do it for for a minute." — Jordan Goodwin on his pre-game routine and motivation** [01:54](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=114s)
 
@@ -34,7 +34,7 @@ Jordan Goodwin: "During that national anthem I pray. I pray during the national 
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=114s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=114s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=114&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=114&q=4) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=114&q=4&slack=1)</small>
 
 **5. Jordan Goodwin — "We can talk to each other, we hold each other accountable, and it's all love." — Jordan Goodwin on the team's chemistry and accountability** [02:17](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=137s)
 
@@ -42,7 +42,7 @@ Jordan Goodwin: "We got a good group of guys. We all vibe, like there's no argum
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=137s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=137s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=137&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=137&q=5) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=137&q=5&slack=1)</small>
 
 **6. Jordan Goodwin — "Luke, the first day, he said, do we have to actually go all the way in there and crash?" — Jordan Goodwin on Luke Kennard's adjustment to the team** [03:27](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=207s)
 
@@ -50,7 +50,7 @@ Jordan Goodwin: "Luke, the first day, he said, do we have to actually go all the
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=207s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=207s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=207&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=207&q=6) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=207&q=6&slack=1)</small>
 
 **7. Jordan Goodwin — "I'm at an all-time high shooting the ball, man." — Jordan Goodwin on his confidence in his shooting ability** [04:02](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=242s)
 
@@ -58,7 +58,7 @@ Jordan Goodwin: "I'm at an all-time high shooting the ball, man. I put the work 
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=242s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=242s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=242&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=242&q=7) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=242&q=7&slack=1)</small>
 
 **8. Jordan Goodwin — "Ryan is making a huge leap right now, especially on the defensive end." — Jordan Goodwin on Ryan Dunn's defensive growth** [04:29](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=269s)
 
@@ -66,7 +66,7 @@ Jordan Goodwin: "Ryan is making a huge leap right now, especially on the defensi
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=269s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=269s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=269&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=269&q=8) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=269&q=8&slack=1)</small>
 
 **9. Jordan Goodwin — "I'm going to see the steals first." — Jordan Goodwin on his personal stat priorities** [04:55](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=295s)
 
@@ -74,7 +74,7 @@ Jordan Goodwin: "I'm going to see the steals first. Then I probably look at rebo
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=295s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=295s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=295&q=9)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=295&q=9) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=295&q=9&slack=1)</small>
 
 **10. Jordan Goodwin — "I'd be Book. He's up there, I think." — Jordan Goodwin on the team's age and veteran presence** [05:39](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=339s)
 
@@ -82,7 +82,7 @@ Jordan Goodwin: "I'd be Book. He's up there, I think. Luke's second oldest. I do
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=339s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=339s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=339&q=10)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=339&q=10) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=339&q=10&slack=1)</small>
 
 **11. Jordan Goodwin — "Luke a shooter, that's a super skill." — Jordan Goodwin on his teammates' unique super skills** [07:32](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=452s)
 
@@ -90,7 +90,7 @@ Jordan Goodwin: "Luke a shooter, that's a super skill. Bouye speed. I want to sa
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=452s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=452s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=452&q=11)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=452&q=11) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=452&q=11&slack=1)</small>
 
 **12. Jordan Goodwin — "That's why I get a rebound, I take it to the corner sometimes and just see." — Jordan Goodwin on the team's offensive rebounding rule** [08:10](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=490s)
 
@@ -98,7 +98,7 @@ Jordan Goodwin: "That's why I get a rebound, I take it to the corner sometimes a
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=490s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=490s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=490&q=12)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=490&q=12) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=490&q=12&slack=1)</small>
 
 **13. Jordan Goodwin — "I feel like when I came in, I was, my OGs was Greg Monroe, Taj Gibson." — Jordan Goodwin on the evolving definition of a veteran** [08:33](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=513s)
 
@@ -106,4 +106,4 @@ Jordan Goodwin: "I feel like when I came in, I was, my OGs was **Greg Monroe**, 
 
 [https://www.youtube.com/watch?v=Vok5VGGT2OA&t=513s](https://www.youtube.com/watch?v=Vok5VGGT2OA&t=513s)
 
-<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=513&q=13)</small>
+<small>[Clip it](presserclips://clip?v=Vok5VGGT2OA&t=513&q=13) · [Send to Slack](presserclips://clip?v=Vok5VGGT2OA&t=513&q=13&slack=1)</small>

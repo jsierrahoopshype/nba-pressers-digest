@@ -10,7 +10,7 @@ Kyle Kuzma: "It's constructive learning and giving us avenues to be creative wit
 
 [https://www.youtube.com/watch?v=dKVUbzhXEm8&t=28s](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=28s)
 
-<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=28&q=1)</small>
+<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=28&q=1) · [Send to Slack](presserclips://clip?v=dKVUbzhXEm8&t=28&q=1&slack=1)</small>
 
 **2. Kyle Kuzma — "It's fun to push your brain and do things that are different." — Kyle Kuzma on the team's open-minded approach to coaching** [01:52](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=112s)
 
@@ -18,7 +18,7 @@ Kyle Kuzma: "It's fun to push your brain and do things that are different. I fee
 
 [https://www.youtube.com/watch?v=dKVUbzhXEm8&t=112s](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=112s)
 
-<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=112&q=2)</small>
+<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=112&q=2) · [Send to Slack](presserclips://clip?v=dKVUbzhXEm8&t=112&q=2&slack=1)</small>
 
 **3. Kyle Kuzma — "We want to have high standards, so we had a lot of possessions where we didn't move." — Kyle Kuzma on the team's need for better movement** [03:11](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=191s)
 
@@ -26,7 +26,7 @@ Kyle Kuzma: "We want to have high standards, so we had a lot of possessions wher
 
 [https://www.youtube.com/watch?v=dKVUbzhXEm8&t=191s](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=191s)
 
-<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=191&q=3)</small>
+<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=191&q=3) · [Send to Slack](presserclips://clip?v=dKVUbzhXEm8&t=191&q=3&slack=1)</small>
 
 **4. Kyle Kuzma — "I can imagine this type of style is going to be pretty good for us in OKC." — Kyle Kuzma on the upcoming test against the Oklahoma City Thunder** [04:00](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=240s)
 
@@ -34,7 +34,7 @@ Kyle Kuzma: "I can imagine this type of style is going to be pretty good for us 
 
 [https://www.youtube.com/watch?v=dKVUbzhXEm8&t=240s](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=240s)
 
-<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=240&q=4)</small>
+<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=240&q=4) · [Send to Slack](presserclips://clip?v=dKVUbzhXEm8&t=240&q=4&slack=1)</small>
 
 **5. Kyle Kuzma — "I've always been somebody that's been super coachable, whatever anybody's ever asked me from any level." — Kyle Kuzma on his role as a coachable leader** [04:50](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=290s)
 
@@ -42,4 +42,4 @@ Kyle Kuzma: "I've always been somebody that's been super coachable, whatever any
 
 [https://www.youtube.com/watch?v=dKVUbzhXEm8&t=290s](https://www.youtube.com/watch?v=dKVUbzhXEm8&t=290s)
 
-<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=290&q=5)</small>
+<small>[Clip it](presserclips://clip?v=dKVUbzhXEm8&t=290&q=5) · [Send to Slack](presserclips://clip?v=dKVUbzhXEm8&t=290&q=5&slack=1)</small>

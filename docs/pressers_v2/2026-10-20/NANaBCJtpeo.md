@@ -10,7 +10,7 @@ Jalen Duren: "That's what makes us a team. Having a deep team, guys who can come
 
 [https://www.youtube.com/watch?v=NANaBCJtpeo&t=17s](https://www.youtube.com/watch?v=NANaBCJtpeo&t=17s)
 
-<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=17&q=1) · [Send to Slack](presserclips://clip?v=NANaBCJtpeo&t=17&q=1&slack=1)</small>
 
 **2. Jalen Duren — "we're a team who is known to be gritty, known to get it out the mud" — Jalen Duren on the team's gritty culture and identity** [00:47](https://www.youtube.com/watch?v=NANaBCJtpeo&t=47s)
 
@@ -18,7 +18,7 @@ Jalen Duren: "I don't like satisfied because we're definitely not satisfied. I t
 
 [https://www.youtube.com/watch?v=NANaBCJtpeo&t=47s](https://www.youtube.com/watch?v=NANaBCJtpeo&t=47s)
 
-<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=47&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=47&q=2) · [Send to Slack](presserclips://clip?v=NANaBCJtpeo&t=47&q=2&slack=1)</small>
 
 **3. Jalen Duren — "Jevon is a pro's pro. Every game, you never know how many minutes he's going to get" — Jalen Duren on Jevon Carter's energy and professionalism** [01:41](https://www.youtube.com/watch?v=NANaBCJtpeo&t=101s)
 
@@ -26,7 +26,7 @@ Jalen Duren: "**Jevon** is a pro's pro. Every game, you never know how many minu
 
 [https://www.youtube.com/watch?v=NANaBCJtpeo&t=101s](https://www.youtube.com/watch?v=NANaBCJtpeo&t=101s)
 
-<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=101&q=3)</small>
+<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=101&q=3) · [Send to Slack](presserclips://clip?v=NANaBCJtpeo&t=101&q=3&slack=1)</small>
 
 **4. Jalen Duren — "Mitchell Robinson has made his name in this league battling on the old boards" — Jalen Duren on defensive rebounding and boxing out Mitchell Robinson** [02:23](https://www.youtube.com/watch?v=NANaBCJtpeo&t=143s)
 
@@ -34,7 +34,7 @@ Jalen Duren: "That was the emphasis, especially for their bigs, not only their b
 
 [https://www.youtube.com/watch?v=NANaBCJtpeo&t=143s](https://www.youtube.com/watch?v=NANaBCJtpeo&t=143s)
 
-<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=143&q=4)</small>
+<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=143&q=4) · [Send to Slack](presserclips://clip?v=NANaBCJtpeo&t=143&q=4&slack=1)</small>
 
 **5. Jalen Duren — "it felt like a playoff game, just with all the t-shirts and just all the energy" — Jalen Duren on the NBA's new opening night atmosphere** [03:00](https://www.youtube.com/watch?v=NANaBCJtpeo&t=180s)
 
@@ -42,7 +42,7 @@ Jalen Duren: "I think it was great. I think it was great, great energy, especial
 
 [https://www.youtube.com/watch?v=NANaBCJtpeo&t=180s](https://www.youtube.com/watch?v=NANaBCJtpeo&t=180s)
 
-<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=180&q=5)</small>
+<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=180&q=5) · [Send to Slack](presserclips://clip?v=NANaBCJtpeo&t=180&q=5&slack=1)</small>
 
 **6. Jalen Duren — "we're not the team to hang our heads. We've seen the bottom" — Jalen Duren on the team's resilience after falling behind** [03:36](https://www.youtube.com/watch?v=NANaBCJtpeo&t=216s)
 
@@ -50,7 +50,7 @@ Jalen Duren: "We're not the team to hang our heads. We've seen the bottom. A lot
 
 [https://www.youtube.com/watch?v=NANaBCJtpeo&t=216s](https://www.youtube.com/watch?v=NANaBCJtpeo&t=216s)
 
-<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=216&q=6)</small>
+<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=216&q=6) · [Send to Slack](presserclips://clip?v=NANaBCJtpeo&t=216&q=6&slack=1)</small>
 
 **7. Jalen Duren — "AT been working his tail off, man. He's a gym rat. He's a guy who just consistently wants" — Jalen Duren on AT's work ethic and growth** [04:55](https://www.youtube.com/watch?v=NANaBCJtpeo&t=295s)
 
@@ -58,4 +58,4 @@ Jalen Duren: "**AT** been working his tail off, man. He's a gym rat. He's a guy 
 
 [https://www.youtube.com/watch?v=NANaBCJtpeo&t=295s](https://www.youtube.com/watch?v=NANaBCJtpeo&t=295s)
 
-<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=295&q=7)</small>
+<small>[Clip it](presserclips://clip?v=NANaBCJtpeo&t=295&q=7) · [Send to Slack](presserclips://clip?v=NANaBCJtpeo&t=295&q=7&slack=1)</small>

@@ -10,7 +10,7 @@ Jeff Weltman: "We have in the last three years been top 10 in the league in regu
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=139s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=139s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=139&q=1)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=139&q=1) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=139&q=1&slack=1)</small>
 
 **2. Franz Wagner — "I love playing with my brother. We shared a lot of cool memories here in Orlando together." — Franz Wagner discusses the transition to playing without his brother Moritz Wagner in Orlando.** [1:00:33](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3633s)
 
@@ -18,7 +18,7 @@ Franz Wagner: "I think it's a work in progress. I spent three weeks now here in 
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3633s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3633s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3633&q=2)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3633&q=2) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=3633&q=2&slack=1)</small>
 
 **3. Jonathan Isaac — "I love this team, I love this city." — Jonathan Isaac expresses his gratitude and commitment to the Orlando Magic organization.** [2:00:22](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7222s)
 
@@ -26,7 +26,7 @@ Jonathan Isaac: "It means everything. I love this team, I love this city. I feel
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7222s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7222s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7222&q=3)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7222&q=3) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7222&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "We want to do a great job of teaching first and foremost and establishing the standards." — Jamahl Mosley emphasizes teaching and establishing high standards as the team prepares for the season.** [32:06](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=1926s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "We want to do a great job of teaching first and foremost and est
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=1926s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=1926s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=1926&q=4)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=1926&q=4) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=1926&q=4&slack=1)</small>
 
 **5. Jalen Suggs — "I'm feeling strong. I'm doing everything in my power to make sure that I'm healthy." — Jalen Suggs reports that he is healthy and feeling strong heading into the season.** [1:10:36](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4236s)
 
@@ -42,7 +42,7 @@ Jalen Suggs: "I feel amazing. I'm very healthy. It's been a great summer. Like I
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4236s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4236s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4236&q=5)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4236&q=5) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=4236&q=5&slack=1)</small>
 
 **6. Nikola Vucevic — "It's been nice to be back." — Nikola Vucevic discusses his return to Orlando and the transition process.** [2:02:06](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7326s)
 
@@ -50,7 +50,7 @@ Nikola Vucevic: "It feels great. I think I'll be more kind of it'll hit me a lit
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7326s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7326s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7326&q=6)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7326&q=6) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7326&q=6&slack=1)</small>
 
 **7. Jalen Suggs — "I don't really have too many individual goals, but just to showcase that all the intangible." — Jalen Suggs aims to bring his G League contributions to the NBA level this season.** [48:43](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=2923s)
 
@@ -58,7 +58,7 @@ Jalen Suggs: "I don't really have too many individual goals, but just to showcas
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=2923s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=2923s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=2923&q=7)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=2923&q=7) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=2923&q=7&slack=1)</small>
 
 **8. Jett Howard — Jett Howard reflects on his early basketball memories and the impact of having women coaches.** [1:15:44](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4544s)
 
@@ -66,7 +66,7 @@ Jett Howard: "I think with my first memory of basketball, I always go back to my
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4544s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=4544s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4544&q=8)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=4544&q=8) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=4544&q=8&slack=1)</small>
 
 **9. Paolo Banchero — "I think last season was disappointing on all aspects" — Paolo Banchero reflects on the disappointing previous season and expresses excitement for the new coaching staff.** [2:02:21](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7341s)
 
@@ -74,7 +74,7 @@ Paolo Banchero: "I think last season was disappointing on all aspects, but you k
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7341s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7341s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7341&q=9)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7341&q=9) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7341&q=9&slack=1)</small>
 
 **10. Paolo Banchero — "I worked a lot on just trying to get stronger." — Paolo Banchero focused on strength and his floor game during the offseason.** [57:14](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3434s)
 
@@ -82,7 +82,7 @@ Paolo Banchero: "This summer, you know, I worked a lot on just trying to get str
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3434s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3434s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3434&q=10)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3434&q=10) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=3434&q=10&slack=1)</small>
 
 **11. Wendell Carter Jr. — "I think first staying injury free." — Wendell Carter Jr. emphasizes the importance of staying healthy for the team's success.** [2:02:43](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7363s)
 
@@ -90,7 +90,7 @@ Wendell Carter Jr.: "I think first staying injury free. I think I don't like to 
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7363s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=7363s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7363&q=11)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=7363&q=11) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=7363&q=11&slack=1)</small>
 
 **12. Franz Wagner — "Just being a connector, offensively and defensively, taking pride in guarding for the full possession." — Franz Wagner defines his role as a connector on both ends of the floor.** [1:03:46](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3826s)
 
@@ -98,4 +98,4 @@ Franz Wagner: "Just being a connector, offensively and defensively, taking pride
 
 [https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3826s](https://www.youtube.com/watch?v=oIxTcZ1T0Es&t=3826s)
 
-<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3826&q=12)</small>
+<small>[Clip it](presserclips://clip?v=oIxTcZ1T0Es&t=3826&q=12) · [Send to Slack](presserclips://clip?v=oIxTcZ1T0Es&t=3826&q=12&slack=1)</small>

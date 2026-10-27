@@ -10,7 +10,7 @@ Quin Snyder: "Some of what we saw, we've learned before. We just have to have th
 
 [https://www.youtube.com/watch?v=-jXX97v-hjw&t=17s](https://www.youtube.com/watch?v=-jXX97v-hjw&t=17s)
 
-<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=17&q=1) · [Send to Slack](presserclips://clip?v=-jXX97v-hjw&t=17&q=1&slack=1)</small>
 
 **2. Quin Snyder — "he was kind of thrown in the fire from this morning when we found out CJ wouldn't be able to play" — Quin Snyder on Kobe Bufkin's performance after being thrown into the fire** [01:51](https://www.youtube.com/watch?v=-jXX97v-hjw&t=111s)
 
@@ -18,7 +18,7 @@ Quin Snyder: "He was kind of thrown in the fire from this morning when we found 
 
 [https://www.youtube.com/watch?v=-jXX97v-hjw&t=111s](https://www.youtube.com/watch?v=-jXX97v-hjw&t=111s)
 
-<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=111&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=111&q=2) · [Send to Slack](presserclips://clip?v=-jXX97v-hjw&t=111&q=2&slack=1)</small>
 
 **3. Quin Snyder — "there's going to be challenges with rotations and coverages, but there's also things like communication" — Quin Snyder on the need for better communication and defensive focus** [03:10](https://www.youtube.com/watch?v=-jXX97v-hjw&t=190s)
 
@@ -26,7 +26,7 @@ Quin Snyder: "Defensively, there's going to be challenges with rotations and cov
 
 [https://www.youtube.com/watch?v=-jXX97v-hjw&t=190s](https://www.youtube.com/watch?v=-jXX97v-hjw&t=190s)
 
-<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=190&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=190&q=3) · [Send to Slack](presserclips://clip?v=-jXX97v-hjw&t=190&q=3&slack=1)</small>
 
 **4. Quin Snyder — "you could feel Onyeka on the glass, there was an energy about how he played" — Quin Snyder on Onyeka Okongwu's energy and impact on the glass** [06:31](https://www.youtube.com/watch?v=-jXX97v-hjw&t=391s)
 
@@ -34,4 +34,4 @@ Quin Snyder: "You could feel Onyeka on the glass, there was an energy about how 
 
 [https://www.youtube.com/watch?v=-jXX97v-hjw&t=391s](https://www.youtube.com/watch?v=-jXX97v-hjw&t=391s)
 
-<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=391&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-jXX97v-hjw&t=391&q=4) · [Send to Slack](presserclips://clip?v=-jXX97v-hjw&t=391&q=4&slack=1)</small>

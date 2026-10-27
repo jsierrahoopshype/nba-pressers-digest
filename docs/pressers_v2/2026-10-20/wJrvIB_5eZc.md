@@ -10,7 +10,7 @@ Kenny Atkinson: "I would say conditioning. How quickly do we get fatigued, how l
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=16s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=16s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=16&q=1) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=16&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "we're a continuous learning organization, who can we learn from" — Kenny Atkinson on the value of a continuous learning organization** [01:46](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=106s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "We're a continuous learning organization, who can we learn from
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=106s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=106s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=106&q=2)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=106&q=2) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=106&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "I had him pegged in as a rotation player" — Kenny Atkinson on the rotation status of a missing player** [03:12](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=192s)
 
@@ -26,7 +26,7 @@ Kenny Atkinson: "I had him pegged in as a rotation player. So he's going to be i
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=192s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=192s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=192&q=3)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=192&q=3) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=192&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "everyone they bring into this program is extremely coachable, high character" — Kenny Atkinson on the importance of character in team building** [04:32](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=272s)
 
@@ -34,7 +34,7 @@ Kenny Atkinson: "Everyone they bring into this program is extremely coachable, h
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=272s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=272s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=272&q=4)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=272&q=4) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=272&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "the belief is we're good enough to take another step" — Kenny Atkinson on the team's internal belief in taking steps** [05:47](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=347s)
 
@@ -42,7 +42,7 @@ Kenny Atkinson: "Internally, that's the belief. The belief is we're good enough 
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=347s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=347s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=347&q=5)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=347&q=5) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=347&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "I think best player, and then we have to work around that" — Kenny Atkinson on replacing injured players in the rotation** [06:36](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=396s)
 
@@ -50,4 +50,4 @@ Kenny Atkinson: "I think best player, and then we have to work around that, kind
 
 [https://www.youtube.com/watch?v=wJrvIB_5eZc&t=396s](https://www.youtube.com/watch?v=wJrvIB_5eZc&t=396s)
 
-<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=396&q=6)</small>
+<small>[Clip it](presserclips://clip?v=wJrvIB_5eZc&t=396&q=6) · [Send to Slack](presserclips://clip?v=wJrvIB_5eZc&t=396&q=6&slack=1)</small>

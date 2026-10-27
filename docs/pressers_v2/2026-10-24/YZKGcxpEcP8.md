@@ -10,7 +10,7 @@ Moussa Diabate: "I think the energy. I think our energy wasn't right from the st
 
 [https://www.youtube.com/watch?v=YZKGcxpEcP8&t=11s](https://www.youtube.com/watch?v=YZKGcxpEcP8&t=11s)
 
-<small>[Clip it](presserclips://clip?v=YZKGcxpEcP8&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=YZKGcxpEcP8&t=11&q=1) · [Send to Slack](presserclips://clip?v=YZKGcxpEcP8&t=11&q=1&slack=1)</small>
 
 **2. Moussa Diabate — "I think at the end of the day, it's a basketball game, it's only the beginning of the season." — Moussa Diabate on maintaining a next-game mindset after a loss** [00:46](https://www.youtube.com/watch?v=YZKGcxpEcP8&t=46s)
 
@@ -18,7 +18,7 @@ Moussa Diabate: "I mean, you know, have a next mindset. I think at the end of th
 
 [https://www.youtube.com/watch?v=YZKGcxpEcP8&t=46s](https://www.youtube.com/watch?v=YZKGcxpEcP8&t=46s)
 
-<small>[Clip it](presserclips://clip?v=YZKGcxpEcP8&t=46&q=2)</small>
+<small>[Clip it](presserclips://clip?v=YZKGcxpEcP8&t=46&q=2) · [Send to Slack](presserclips://clip?v=YZKGcxpEcP8&t=46&q=2&slack=1)</small>
 
 **3. Moussa Diabate — "Especially, you know, home game, we trying to set the tone, right? I think that's the most important part." — Moussa Diabate on the importance of setting the tone at home** [01:38](https://www.youtube.com/watch?v=YZKGcxpEcP8&t=98s)
 
@@ -26,4 +26,4 @@ Moussa Diabate: "I don't feel good, right? I don't think that's something that y
 
 [https://www.youtube.com/watch?v=YZKGcxpEcP8&t=98s](https://www.youtube.com/watch?v=YZKGcxpEcP8&t=98s)
 
-<small>[Clip it](presserclips://clip?v=YZKGcxpEcP8&t=98&q=3)</small>
+<small>[Clip it](presserclips://clip?v=YZKGcxpEcP8&t=98&q=3) · [Send to Slack](presserclips://clip?v=YZKGcxpEcP8&t=98&q=3&slack=1)</small>

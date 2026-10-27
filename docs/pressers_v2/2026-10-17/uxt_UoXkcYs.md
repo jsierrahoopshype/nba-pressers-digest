@@ -10,7 +10,7 @@ LeBron James: "I would say that second quarter was really good. I felt the begin
 
 [https://www.youtube.com/watch?v=uxt_UoXkcYs&t=0s](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=0s)
 
-<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=0&q=1) · [Send to Slack](presserclips://clip?v=uxt_UoXkcYs&t=0&q=1&slack=1)</small>
 
 **2. Unidentified speaker — "Every day is going to give us an opportunity to get better, and we want to continue to do that." — LeBron James on building comfort within the starting unit** [00:20](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=20s)
 
@@ -20,7 +20,7 @@ LeBron James: "I would say that second quarter was really good. I felt the begin
 
 [https://www.youtube.com/watch?v=uxt_UoXkcYs&t=20s](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=20s)
 
-<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=20&q=2)</small>
+<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=20&q=2) · [Send to Slack](presserclips://clip?v=uxt_UoXkcYs&t=20&q=2&slack=1)</small>
 
 **3. Unidentified speaker — "To be able to put the reps in in practice, to rep it, rep it, and then be able to go from a practice court to a main court to the game court is regression." — LeBron James on the pick-and-roll chemistry with Tyrese Maxey** [01:04](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=64s)
 
@@ -30,7 +30,7 @@ LeBron James: "I would say that second quarter was really good. I felt the begin
 
 [https://www.youtube.com/watch?v=uxt_UoXkcYs&t=64s](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=64s)
 
-<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=64&q=3)</small>
+<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=64&q=3) · [Send to Slack](presserclips://clip?v=uxt_UoXkcYs&t=64&q=3&slack=1)</small>
 
 **4. Unidentified speaker — LeBron James on playing without a traditional center** [02:03](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=123s)
 
@@ -40,7 +40,7 @@ LeBron James: "I would say that second quarter was really good. I felt the begin
 
 [https://www.youtube.com/watch?v=uxt_UoXkcYs&t=123s](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=123s)
 
-<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=123&q=4)</small>
+<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=123&q=4) · [Send to Slack](presserclips://clip?v=uxt_UoXkcYs&t=123&q=4&slack=1)</small>
 
 **5. Unidentified speaker — "You got to get bodies on bodies if you're out there with, you know, what a guy that's really great offensive rebounder." — LeBron James on defensive rebounding tactics against small-ball lineups** [02:48](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=168s)
 
@@ -50,7 +50,7 @@ LeBron James: "I would say that second quarter was really good. I felt the begin
 
 [https://www.youtube.com/watch?v=uxt_UoXkcYs&t=168s](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=168s)
 
-<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=168&q=5)</small>
+<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=168&q=5) · [Send to Slack](presserclips://clip?v=uxt_UoXkcYs&t=168&q=5&slack=1)</small>
 
 **6. Unidentified speaker — "He's one of the best players in the world, so I mean, that's, you know, the sky's the limit for him." — LeBron James on Joel Embiid's health and rhythm** [03:20](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=200s)
 
@@ -60,4 +60,4 @@ LeBron James: "I would say that second quarter was really good. I felt the begin
 
 [https://www.youtube.com/watch?v=uxt_UoXkcYs&t=200s](https://www.youtube.com/watch?v=uxt_UoXkcYs&t=200s)
 
-<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=200&q=6)</small>
+<small>[Clip it](presserclips://clip?v=uxt_UoXkcYs&t=200&q=6) · [Send to Slack](presserclips://clip?v=uxt_UoXkcYs&t=200&q=6&slack=1)</small>

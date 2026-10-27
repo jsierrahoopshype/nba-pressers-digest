@@ -14,7 +14,7 @@ PJ Hall: "I would just say being around. When we are playing, I make sure I go i
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=3s](https://www.youtube.com/watch?v=1L7svvpfSko&t=3s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=3&q=1) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=3&q=1&slack=1)</small>
 
 **2. PJ Hall — "My mom grew up here and so I still have family down here as well and so I love Charleston." — PJ Hall on his connection to South Carolina and joining the Hornets** [00:33](https://www.youtube.com/watch?v=1L7svvpfSko&t=33s)
 
@@ -22,7 +22,7 @@ PJ Hall: "A lot of the guys keep on saying, 'Yeah man, we are basically home for
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=33s](https://www.youtube.com/watch?v=1L7svvpfSko&t=33s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=33&q=2) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=33&q=2&slack=1)</small>
 
 **3. PJ Hall — "Just continue to grow my versatility, whether it be offensive or defensive, being able to play multiple positions." — PJ Hall on his goals for versatility and system knowledge** [01:21](https://www.youtube.com/watch?v=1L7svvpfSko&t=81s)
 
@@ -30,7 +30,7 @@ PJ Hall: "Just continue to grow my versatility, whether it be offensive or defen
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=81s](https://www.youtube.com/watch?v=1L7svvpfSko&t=81s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=81&q=3) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=81&q=3&slack=1)</small>
 
 **4. PJ Hall — "I talk to Hunter Tyson a good bit. We talk all the time. We've gone through some similar situations." — PJ Hall on his relationship with coach Brad Brownell and Hunter Tyson** [01:58](https://www.youtube.com/watch?v=1L7svvpfSko&t=118s)
 
@@ -38,7 +38,7 @@ PJ Hall: "I haven't talked to him in a few weeks, but I talk to **Hunter Tyson**
 
 [https://www.youtube.com/watch?v=1L7svvpfSko&t=118s](https://www.youtube.com/watch?v=1L7svvpfSko&t=118s)
 
-<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=118&q=4)</small>
+<small>[Clip it](presserclips://clip?v=1L7svvpfSko&t=118&q=4) · [Send to Slack](presserclips://clip?v=1L7svvpfSko&t=118&q=4&slack=1)</small>
 
 ---
 
@@ -54,7 +54,7 @@ Jalen Brunson: "Obviously, **Mitch** was near and dear to all our hearts. I thin
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=43s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=43s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=43&q=1)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=43&q=1) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=43&q=1&slack=1)</small>
 
 **2. Jalen Brunson — "I didn't do my normal summer stuff and so it wasn't just my normal summer." — Jalen Brunson on his physical condition and summer routine** [01:18](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=78s)
 
@@ -62,7 +62,7 @@ Jalen Brunson: "I didn't do my normal summer stuff and so it wasn't just my norm
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=78s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=78s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=78&q=2)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=78&q=2) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=78&q=2&slack=1)</small>
 
 **3. Jalen Brunson — "I feel like we can do a lot more, do a lot different things." — Jalen Brunson on the team's offensive potential this season** [03:19](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=199s)
 
@@ -70,7 +70,7 @@ Jalen Brunson: "I feel like we can do a lot more, do a lot different things. I t
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=199s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=199s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=199&q=3)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=199&q=3) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=199&q=3&slack=1)</small>
 
 **4. Jalen Brunson — "it exceeded expectations, honestly. I've always been someone who prepared for the worst and played for the best." — Jalen Brunson on his expectations for the season** [04:03](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=243s)
 
@@ -78,7 +78,7 @@ Jalen Brunson: "It exceeded expectations, honestly. I've always been someone who
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=243s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=243s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=243&q=4)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=243&q=4) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=243&q=4&slack=1)</small>
 
 **5. Coach Brown — "his feet are quicker than what you could imagine. He's really light on his feet." — Coach Brown on Andre's physical attributes and veteran presence** [07:12](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=432s)
 
@@ -86,7 +86,7 @@ Coach Brown: "He's a veteran, he's been there, done that with a few different te
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=432s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=432s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=432&q=5)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=432&q=5) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=432&q=5&slack=1)</small>
 
 **6. Coach Brown — "the 82-game season is about trying to find your way." — Coach Brown on the team's approach to the regular season** [09:02](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=542s)
 
@@ -94,7 +94,7 @@ Coach Brown: "We're not playing at that level for 82 games. We played at a prett
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=542s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=542s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=542&q=6)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=542&q=6) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=542&q=6&slack=1)</small>
 
 **7. Coach Brown — "I didn't know if OG could be as effective as he was in the pick-and-roll game." — Coach Brown on integrating players and team versatility** [10:27](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=627s)
 
@@ -102,7 +102,7 @@ Coach Brown: "Obviously, playing with **Cat** a little bit more than we did. Bei
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=627s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=627s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=627&q=7)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=627&q=7) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=627&q=7&slack=1)</small>
 
 **8. Coach Brown — "I didn't put a ton of pressure on them to get back in the gym in August." — Coach Brown on conditioning and team expectations** [12:53](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=773s)
 
@@ -110,7 +110,7 @@ Coach Brown: "I didn't put a ton of pressure on them to get back in the gym in A
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=773s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=773s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=773&q=8)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=773&q=8) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=773&q=8&slack=1)</small>
 
 **9. Coach Brown — "he's a fantastic human being, fantastic young man." — Coach Brown on his relationship with James Wiseman** [14:05](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=845s)
 
@@ -118,7 +118,7 @@ Coach Brown: "We didn't stay in touch where we call each other or anything like 
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=845s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=845s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=845&q=9)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=845&q=9) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=845&q=9&slack=1)</small>
 
 **10. Coach Brown — "we won in 22, nobody did anything extra special. We had a young player and Jordan Poole step up." — Coach Brown on the team's resilience and player development** [16:15](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=975s)
 
@@ -126,7 +126,7 @@ Coach Brown: "I experienced it when I was in Golden State. We won in 17 and 18. 
 
 [https://www.youtube.com/watch?v=hyKzVIVsNkM&t=975s](https://www.youtube.com/watch?v=hyKzVIVsNkM&t=975s)
 
-<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=975&q=10)</small>
+<small>[Clip it](presserclips://clip?v=hyKzVIVsNkM&t=975&q=10) · [Send to Slack](presserclips://clip?v=hyKzVIVsNkM&t=975&q=10&slack=1)</small>
 
 ---
 
@@ -142,7 +142,7 @@ Hannes Steinbach: "It has been really fun. We had a dinner the first night as a 
 
 [https://www.youtube.com/watch?v=6VCWGKD2xks&t=9s](https://www.youtube.com/watch?v=6VCWGKD2xks&t=9s)
 
-<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=9&q=1) · [Send to Slack](presserclips://clip?v=6VCWGKD2xks&t=9&q=1&slack=1)</small>
 
 **2. Hannes Steinbach — "I think physicality and speed, especially playing against a guy like Musa, he is very physical" — Steinbach adjusting to NBA physicality and speed** [00:35](https://www.youtube.com/watch?v=6VCWGKD2xks&t=35s)
 
@@ -150,7 +150,7 @@ Hannes Steinbach: "I think physicality and speed, especially playing against a g
 
 [https://www.youtube.com/watch?v=6VCWGKD2xks&t=35s](https://www.youtube.com/watch?v=6VCWGKD2xks&t=35s)
 
-<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=35&q=2)</small>
+<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=35&q=2) · [Send to Slack](presserclips://clip?v=6VCWGKD2xks&t=35&q=2&slack=1)</small>
 
 **3. Hannes Steinbach — "it is great to have him here, just having somebody to talk German to is nice" — Hannes Steinbach on the addition of Dennis Schroder** [01:12](https://www.youtube.com/watch?v=6VCWGKD2xks&t=72s)
 
@@ -158,7 +158,7 @@ Hannes Steinbach: "It is great to have him here, just having somebody to talk Ge
 
 [https://www.youtube.com/watch?v=6VCWGKD2xks&t=72s](https://www.youtube.com/watch?v=6VCWGKD2xks&t=72s)
 
-<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=72&q=3)</small>
+<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=72&q=3) · [Send to Slack](presserclips://clip?v=6VCWGKD2xks&t=72&q=3&slack=1)</small>
 
 **4. Hannes Steinbach — "playing physical, playing hard, playing the right way, running the floor, making the right plays" — Steinbach's focus on playing physical and earning rotation minutes** [01:44](https://www.youtube.com/watch?v=6VCWGKD2xks&t=104s)
 
@@ -166,7 +166,7 @@ Hannes Steinbach: "I think just playing physical, playing hard, playing the righ
 
 [https://www.youtube.com/watch?v=6VCWGKD2xks&t=104s](https://www.youtube.com/watch?v=6VCWGKD2xks&t=104s)
 
-<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=104&q=4)</small>
+<small>[Clip it](presserclips://clip?v=6VCWGKD2xks&t=104&q=4) · [Send to Slack](presserclips://clip?v=6VCWGKD2xks&t=104&q=4&slack=1)</small>
 
 ---
 
@@ -182,7 +182,7 @@ Kenny Atkinson: "It wasn't fair for the international guys, **Mario** and **Tyre
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=0s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=0s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=0&q=1) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=0&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "I think tonight's the talent show, so the rookies have to, you know, impress me." — Kenny Atkinson on the Cavaliers' rookie talent show** [00:38](https://www.youtube.com/watch?v=N9MPVDqNRas&t=38s)
 
@@ -190,7 +190,7 @@ Kenny Atkinson: "I think tonight's the talent show, so the rookies have to, you 
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=38s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=38s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=38&q=2)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=38&q=2) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=38&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "Some guys have never played pickleball, they don't know that we don't have that sport in the States." — Kenny Atkinson on players learning to play pickleball** [00:44](https://www.youtube.com/watch?v=N9MPVDqNRas&t=44s)
 
@@ -198,7 +198,7 @@ Kenny Atkinson: "Some guys have never played pickleball, they don't know that we
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=44s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=44s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=44&q=3)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=44&q=3) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=44&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "When you change your environment, you have to be able to adapt and change." — Kenny Atkinson on the benefits of training camp in Spain** [01:28](https://www.youtube.com/watch?v=N9MPVDqNRas&t=88s)
 
@@ -206,7 +206,7 @@ Kenny Atkinson: "When you change your environment, you have to be able to adapt 
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=88s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=88s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=88&q=4)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=88&q=4) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=88&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "It's really unique, an incredible, unique environment, obviously in a beautiful area." — Kenny Atkinson on the unique atmosphere of the training facility** [02:14](https://www.youtube.com/watch?v=N9MPVDqNRas&t=134s)
 
@@ -214,7 +214,7 @@ Kenny Atkinson: "It's really unique, an incredible, unique environment, obviousl
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=134s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=134s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=134&q=5)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=134&q=5) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=134&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "The first thing is compete, the competitive spirit, then the second thing is understanding our concepts." — Kenny Atkinson on the competitive nature of training camp** [03:07](https://www.youtube.com/watch?v=N9MPVDqNRas&t=187s)
 
@@ -222,7 +222,7 @@ Kenny Atkinson: "The first thing is compete, the competitive spirit, then the se
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=187s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=187s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=187&q=6)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=187&q=6) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=187&q=6&slack=1)</small>
 
 **7. Kenny Atkinson — "Those guys help us become more versatile." — Kenny Atkinson on the versatility of the Cavaliers' roster** [04:15](https://www.youtube.com/watch?v=N9MPVDqNRas&t=255s)
 
@@ -230,7 +230,7 @@ Kenny Atkinson: "Those guys help us become more versatile. We can only play the 
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=255s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=255s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=255&q=7)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=255&q=7) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=255&q=7&slack=1)</small>
 
 **8. Kenny Atkinson — "It's a journey. We've changed our roster a little and probably raised our ceiling." — Kenny Atkinson on the team's long-term growth and development** [05:23](https://www.youtube.com/watch?v=N9MPVDqNRas&t=323s)
 
@@ -238,7 +238,7 @@ Kenny Atkinson: "It's a journey. We've changed our roster a little and probably 
 
 [https://www.youtube.com/watch?v=N9MPVDqNRas&t=323s](https://www.youtube.com/watch?v=N9MPVDqNRas&t=323s)
 
-<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=323&q=8)</small>
+<small>[Clip it](presserclips://clip?v=N9MPVDqNRas&t=323&q=8) · [Send to Slack](presserclips://clip?v=N9MPVDqNRas&t=323&q=8&slack=1)</small>
 
 ---
 
@@ -254,7 +254,7 @@ Dean Wade: "It is completely different. You know their tendencies playing agains
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=16s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=16s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=16&q=1) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=16&q=1&slack=1)</small>
 
 **2. Dean Wade — "You will never be more open than open, and so you just have to shoot the ball." — Dean Wade on being encouraged to shoot more by his coaches** [01:27](https://www.youtube.com/watch?v=B37EGC4SMTM&t=87s)
 
@@ -262,7 +262,7 @@ Dean Wade: "I have been told that a lot in my career. You will never be more ope
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=87s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=87s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=87&q=2)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=87&q=2) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=87&q=2&slack=1)</small>
 
 **3. Dean Wade — "We have so many versatile defenders, athletes. We have so many good players that can do different things." — Dean Wade on the versatility of the 76ers roster** [02:41](https://www.youtube.com/watch?v=B37EGC4SMTM&t=161s)
 
@@ -270,7 +270,7 @@ Dean Wade: "It is crazy. We have so many vets on this team who have seen so many
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=161s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=161s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=161&q=3)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=161&q=3) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=161&q=3&slack=1)</small>
 
 **4. Dean Wade — "We have so many great players, so many unstoppable people in transition." — Dean Wade on the 76ers' transition offense potential** [04:12](https://www.youtube.com/watch?v=B37EGC4SMTM&t=252s)
 
@@ -278,7 +278,7 @@ Dean Wade: "We have so many great players, so many unstoppable people in transit
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=252s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=252s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=252&q=4)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=252&q=4) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=252&q=4&slack=1)</small>
 
 **5. Dean Wade — "They never make the wrong decision, they are always making the right decision." — Dean Wade on the decision-making of Tyrese Maxey and Jaylen Brown** [05:51](https://www.youtube.com/watch?v=B37EGC4SMTM&t=351s)
 
@@ -286,7 +286,7 @@ Dean Wade: "They are unbelievable. They are so fast and quick. **Tyrese Maxey**,
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=351s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=351s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=351&q=5)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=351&q=5) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=351&q=5&slack=1)</small>
 
 **6. Dean Wade — "He is no different than what he was when I was in Cleveland." — Dean Wade on his relationship with Mike Gansey** [07:06](https://www.youtube.com/watch?v=B37EGC4SMTM&t=426s)
 
@@ -294,7 +294,7 @@ Dean Wade: "I will not lie, it has not really changed our relationship. We still
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=426s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=426s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=426&q=6)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=426&q=6) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=426&q=6&slack=1)</small>
 
 **7. Dean Wade — "The way they think the game is similar to the way I think the game." — Dean Wade on his defensive alignment with Jaylen Brown and Tyrese Maxey** [08:14](https://www.youtube.com/watch?v=B37EGC4SMTM&t=494s)
 
@@ -302,7 +302,7 @@ Dean Wade: "There is a lot. The past few days, especially with **Jaylen Brown** 
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=494s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=494s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=494&q=7)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=494&q=7) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=494&q=7&slack=1)</small>
 
 **8. Dean Wade — "Not every team has a defender. You need to like, move good enough laterally." — Dean Wade on his defensive development and coaching influences** [09:36](https://www.youtube.com/watch?v=B37EGC4SMTM&t=576s)
 
@@ -310,7 +310,7 @@ Dean Wade: "I think a little bit of both. Kansas State when I was there, I think
 
 [https://www.youtube.com/watch?v=B37EGC4SMTM&t=576s](https://www.youtube.com/watch?v=B37EGC4SMTM&t=576s)
 
-<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=576&q=8)</small>
+<small>[Clip it](presserclips://clip?v=B37EGC4SMTM&t=576&q=8) · [Send to Slack](presserclips://clip?v=B37EGC4SMTM&t=576&q=8&slack=1)</small>
 
 ---
 
@@ -326,7 +326,7 @@ Jalen Williams: "The good thing about our rookies this year, and that has been e
 
 [https://www.youtube.com/watch?v=04qUy0z5w18&t=147s](https://www.youtube.com/watch?v=04qUy0z5w18&t=147s)
 
-<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=147&q=1)</small>
+<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=147&q=1) · [Send to Slack](presserclips://clip?v=04qUy0z5w18&t=147&q=1&slack=1)</small>
 
 **2. Jaylin Williams — "I definitely feel more comfortable as I'm getting older. I know what's expected of me" — Jaylin Williams on his growth and comfort as a veteran player** [04:41](https://www.youtube.com/watch?v=04qUy0z5w18&t=281s)
 
@@ -334,7 +334,7 @@ Jaylin Williams: "I definitely feel more comfortable as I'm getting older. I kno
 
 [https://www.youtube.com/watch?v=04qUy0z5w18&t=281s](https://www.youtube.com/watch?v=04qUy0z5w18&t=281s)
 
-<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=281&q=2)</small>
+<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=281&q=2) · [Send to Slack](presserclips://clip?v=04qUy0z5w18&t=281&q=2&slack=1)</small>
 
 **3. Jaylin Williams — "It says Jaylin Williams on the sign, but I hope my family is able to say that's our" — Jaylin Williams on the significance of his street sign in Fort Smith** [05:10](https://www.youtube.com/watch?v=04qUy0z5w18&t=310s)
 
@@ -342,7 +342,7 @@ Jaylin Williams: "It was awesome. The street runs in between the gym that I play
 
 [https://www.youtube.com/watch?v=04qUy0z5w18&t=310s](https://www.youtube.com/watch?v=04qUy0z5w18&t=310s)
 
-<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=310&q=3)</small>
+<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=310&q=3) · [Send to Slack](presserclips://clip?v=04qUy0z5w18&t=310&q=3&slack=1)</small>
 
 **4. Jaylin Williams — "Mark told me that you have to get better at this if you want to get on the court" — Jaylin Williams on his defensive development and earning a starting role** [09:05](https://www.youtube.com/watch?v=04qUy0z5w18&t=545s)
 
@@ -350,7 +350,7 @@ Jaylin Williams: "Honestly, I just wanted to get on the court. Mark told me that
 
 [https://www.youtube.com/watch?v=04qUy0z5w18&t=545s](https://www.youtube.com/watch?v=04qUy0z5w18&t=545s)
 
-<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=545&q=4)</small>
+<small>[Clip it](presserclips://clip?v=04qUy0z5w18&t=545&q=4) · [Send to Slack](presserclips://clip?v=04qUy0z5w18&t=545&q=4&slack=1)</small>
 
 ---
 

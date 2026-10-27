@@ -10,7 +10,7 @@ Jarrett Allen: "It is growing exponentially because Evan keeps on improving. He 
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=13s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=13s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=13&q=1) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=13&q=1&slack=1)</small>
 
 **2. Jarrett Allen — "His switchability and his willing to do the dirty work." — Jarrett Allen on the defensive versatility of James** [00:48](https://www.youtube.com/watch?v=1SEH17pwHGE&t=48s)
 
@@ -18,7 +18,7 @@ Jarrett Allen: "His switchability and his willing to do the dirty work. We were 
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=48s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=48s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=48&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=48&q=2) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=48&q=2&slack=1)</small>
 
 **3. Jarrett Allen — "I feel like Donovan and I have a good pairing. I get him open and he finds me." — Jarrett Allen on his pick-and-roll chemistry with Donovan Mitchell** [01:06](https://www.youtube.com/watch?v=1SEH17pwHGE&t=66s)
 
@@ -26,7 +26,7 @@ Jarrett Allen: "Pair well. At one point when we were together, it was either **K
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=66s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=66s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=66&q=3)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=66&q=3) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=66&q=3&slack=1)</small>
 
 **4. Jarrett Allen — "I think it is a big adjustment for somebody that comes from a different style of basketball." — Jarrett Allen on Mario Hezonja's adjustment to the NBA** [01:45](https://www.youtube.com/watch?v=1SEH17pwHGE&t=105s)
 
@@ -34,7 +34,7 @@ Jarrett Allen: "I think he is doing excellent. I think it is a big adjustment fo
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=105s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=105s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=105&q=4)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=105&q=4) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=105&q=4&slack=1)</small>
 
 **5. Jarrett Allen — "His ability to drive and his gravity when he drives, I think that is one of his best attributes." — Jarrett Allen on Mario Hezonja's offensive strengths** [02:26](https://www.youtube.com/watch?v=1SEH17pwHGE&t=146s)
 
@@ -42,7 +42,7 @@ Jarrett Allen: "His ability to drive and his gravity when he drives, I think tha
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=146s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=146s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=146&q=5)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=146&q=5) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=146&q=5&slack=1)</small>
 
 **6. Jarrett Allen — "Whenever you are able to see a player go into practice and do things that you never seen." — Jarrett Allen on Evan Mobley's continuous improvement** [03:08](https://www.youtube.com/watch?v=1SEH17pwHGE&t=188s)
 
@@ -50,7 +50,7 @@ Jarrett Allen: "Whenever you are able to see a player go into practice and do th
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=188s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=188s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=188&q=6)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=188&q=6) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=188&q=6&slack=1)</small>
 
 **7. Jarrett Allen — "His ball-handling. That has been something he has been working on since his rookie year." — Jarrett Allen on Evan Mobley's ball-handling development** [03:30](https://www.youtube.com/watch?v=1SEH17pwHGE&t=210s)
 
@@ -58,7 +58,7 @@ Jarrett Allen: "His ball-handling. That has been something he has been working o
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=210s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=210s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=210&q=7)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=210&q=7) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=210&q=7&slack=1)</small>
 
 **8. Jarrett Allen — "Accept the fact that there is no running away from it." — Jarrett Allen on managing pressure and expectations** [04:19](https://www.youtube.com/watch?v=1SEH17pwHGE&t=259s)
 
@@ -66,4 +66,4 @@ Jarrett Allen: "I think you look at it, understand that the pressure is there, t
 
 [https://www.youtube.com/watch?v=1SEH17pwHGE&t=259s](https://www.youtube.com/watch?v=1SEH17pwHGE&t=259s)
 
-<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=259&q=8)</small>
+<small>[Clip it](presserclips://clip?v=1SEH17pwHGE&t=259&q=8) · [Send to Slack](presserclips://clip?v=1SEH17pwHGE&t=259&q=8&slack=1)</small>

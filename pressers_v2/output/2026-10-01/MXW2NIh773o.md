@@ -10,7 +10,7 @@ Taylor Jenkins: "I definitely reserve the right to change my mind day-to-day, es
 
 [https://www.youtube.com/watch?v=MXW2NIh773o&t=43s](https://www.youtube.com/watch?v=MXW2NIh773o&t=43s)
 
-<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=43&q=1)</small>
+<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=43&q=1) · [Send to Slack](presserclips://clip?v=MXW2NIh773o&t=43&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "They know they're going to be held very high to a standard on the defensive side." — Taylor Jenkins on rookie development and defensive expectations** [02:17](https://www.youtube.com/watch?v=MXW2NIh773o&t=137s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I think their habits, that's the biggest thing, has been great.
 
 [https://www.youtube.com/watch?v=MXW2NIh773o&t=137s](https://www.youtube.com/watch?v=MXW2NIh773o&t=137s)
 
-<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=137&q=2)</small>
+<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=137&q=2) · [Send to Slack](presserclips://clip?v=MXW2NIh773o&t=137&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "It becomes infectious the rest of the play and then that translates to a little rhythm." — Taylor Jenkins on improving team communication and defensive intensity** [03:18](https://www.youtube.com/watch?v=MXW2NIh773o&t=198s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "I'd say just level of communication is slowly getting a little 
 
 [https://www.youtube.com/watch?v=MXW2NIh773o&t=198s](https://www.youtube.com/watch?v=MXW2NIh773o&t=198s)
 
-<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=198&q=3)</small>
+<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=198&q=3) · [Send to Slack](presserclips://clip?v=MXW2NIh773o&t=198&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "I think the mental is the one thing we're trying to stress a lot." — Taylor Jenkins on the mental challenges of implementing new systems** [04:44](https://www.youtube.com/watch?v=MXW2NIh773o&t=284s)
 
@@ -34,7 +34,7 @@ Taylor Jenkins: "I think the mental is the one thing we're trying to stress a lo
 
 [https://www.youtube.com/watch?v=MXW2NIh773o&t=284s](https://www.youtube.com/watch?v=MXW2NIh773o&t=284s)
 
-<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=284&q=4)</small>
+<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=284&q=4) · [Send to Slack](presserclips://clip?v=MXW2NIh773o&t=284&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "We want to give them what is the intent and what is the why." — Taylor Jenkins on teaching intent and purpose during practice** [05:51](https://www.youtube.com/watch?v=MXW2NIh773o&t=351s)
 
@@ -42,7 +42,7 @@ Taylor Jenkins: "When we set something up, we want to give them what is the inte
 
 [https://www.youtube.com/watch?v=MXW2NIh773o&t=351s](https://www.youtube.com/watch?v=MXW2NIh773o&t=351s)
 
-<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=351&q=5)</small>
+<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=351&q=5) · [Send to Slack](presserclips://clip?v=MXW2NIh773o&t=351&q=5&slack=1)</small>
 
 **6. Taylor Jenkins — "We want to be all out, aggressive for 48, attack mentality." — Taylor Jenkins on the importance of defensive identity and accountability** [07:25](https://www.youtube.com/watch?v=MXW2NIh773o&t=445s)
 
@@ -50,7 +50,7 @@ Taylor Jenkins: "I'm not one to necessarily single out a lot of individual guys.
 
 [https://www.youtube.com/watch?v=MXW2NIh773o&t=445s](https://www.youtube.com/watch?v=MXW2NIh773o&t=445s)
 
-<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=445&q=6)</small>
+<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=445&q=6) · [Send to Slack](presserclips://clip?v=MXW2NIh773o&t=445&q=6&slack=1)</small>
 
 **7. Taylor Jenkins — "It's a 365 model. It's our off-season program, but obviously in-season, how we develop guys." — Taylor Jenkins on the 365 development model and G League integration** [08:48](https://www.youtube.com/watch?v=MXW2NIh773o&t=528s)
 
@@ -58,4 +58,4 @@ Taylor Jenkins: "There was a lot of intentionality to hiring one coach at a time
 
 [https://www.youtube.com/watch?v=MXW2NIh773o&t=528s](https://www.youtube.com/watch?v=MXW2NIh773o&t=528s)
 
-<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=528&q=7)</small>
+<small>[Clip it](presserclips://clip?v=MXW2NIh773o&t=528&q=7) · [Send to Slack](presserclips://clip?v=MXW2NIh773o&t=528&q=7&slack=1)</small>

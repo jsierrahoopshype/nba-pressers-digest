@@ -12,7 +12,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=0s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=0s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=0&q=1) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=0&q=1&slack=1)</small>
 
 **2. Jaden McDaniels — "When he's free and he's flowing down the court, he makes the right read every time" — Jaden McDaniels on the importance of freeing up Anthony Edwards** [00:22](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=22s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=22s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=22s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=22&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=22&q=2) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=22&q=2&slack=1)</small>
 
 **3. Jaden McDaniels — "Just swinging the ball, trusting each other. We all know we can make plays in different ways" — Jaden McDaniels on maintaining ball movement without Anthony Edwards** [00:39](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=39s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=39s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=39s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=39&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=39&q=3) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=39&q=3&slack=1)</small>
 
 **4. Jaden McDaniels — "I know that the weaker defender be on me and I just take advantage when I get the ball" — Jaden McDaniels on exploiting smaller defenders in mismatches** [00:56](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=56s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=56s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=56s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=56&q=4)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=56&q=4) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=56&q=4&slack=1)</small>
 
 **5. Jaden McDaniels — "They can't put them on Anthony Edwards or Jaden McDaniels, so I mean, they can put them on me" — Jaden McDaniels on the Timberwolves' offensive growth and punishing teams** [01:18](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=78s)
 
@@ -52,7 +52,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=78s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=78s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=78&q=5)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=78&q=5) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=78&q=5&slack=1)</small>
 
 **6. Jaden McDaniels — "As long as I touch the ball, I'm cool. I'm not really stressed about nothing" — Jaden McDaniels on his comfort level with his offensive role** [01:38](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=98s)
 
@@ -62,7 +62,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=98s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=98s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=98&q=6)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=98&q=6) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=98&q=6&slack=1)</small>
 
 **7. Jaden McDaniels — "Just passing and trying to play in the next action fast, that's going to go slip a screen" — Jaden McDaniels on maintaining ball movement when the offense gets stagnant** [01:53](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=113s)
 
@@ -72,7 +72,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=113s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=113s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=113&q=7)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=113&q=7) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=113&q=7&slack=1)</small>
 
 **8. Jaden McDaniels — "Dante's my guy. We just can't wait to have him back and we just be messing around" — Jaden McDaniels on his relationship with Dante** [02:17](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=137s)
 
@@ -82,7 +82,7 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=137s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=137s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=137&q=8)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=137&q=8) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=137&q=8&slack=1)</small>
 
 **9. Jaden McDaniels — "Knowing that we got to play fast and like I said, we got a bunch of versatile guys" — Jaden McDaniels on the transition from rebounding to the fast break** [02:38](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=158s)
 
@@ -92,4 +92,4 @@ _Speakers identified: Jaden McDaniels_
 
 [https://www.youtube.com/watch?v=DjxIQEDVwIs&t=158s](https://www.youtube.com/watch?v=DjxIQEDVwIs&t=158s)
 
-<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=158&q=9)</small>
+<small>[Clip it](presserclips://clip?v=DjxIQEDVwIs&t=158&q=9) · [Send to Slack](presserclips://clip?v=DjxIQEDVwIs&t=158&q=9&slack=1)</small>

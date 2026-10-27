@@ -10,7 +10,7 @@ Tim Connelly: "I think we were disappointed we didn't probably weren't the best 
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=318s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=318s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=318&q=1)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=318&q=1) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=318&q=1&slack=1)</small>
 
 **2. Rudy Gobert — "I know that he can really impact winning on on both hands" — Rudy Gobert says the team needs a player to impact winning on both ends of the floor.** [1:00:00](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3600s)
 
@@ -18,7 +18,7 @@ Rudy Gobert: "We going to need him to. I don't want to rush him too much, but we
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=3600s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3600s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3600&q=2)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3600&q=2) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=3600&q=2&slack=1)</small>
 
 **3. Donte DiVincenzo — "I'm probably way more confident than my surgeon, the trainer, the coach, everybody." — Donte DiVincenzo expresses high confidence in his recovery process.** [2:00:27](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7227s)
 
@@ -26,7 +26,7 @@ Donte DiVincenzo: "As vulnerable as I am, I can tell you like I'm as driven and 
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=7227s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7227s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7227&q=3)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7227&q=3) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=7227&q=3&slack=1)</small>
 
 **4. Isaiah Evans — "I just expect to just learn as much as I can, as fast as I can" — Isaiah Evans outlines his primary goal for his rookie season.** [3:05:44](https://www.youtube.com/watch?v=e6rc30xOIvo&t=11144s)
 
@@ -34,7 +34,7 @@ Isaiah Evans: "I just expect to just learn as much as I can, as fast as I can, a
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=11144s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=11144s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=11144&q=4)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=11144&q=4) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=11144&q=4&slack=1)</small>
 
 **5. Tim Connelly — "We're cautious and optimistic that we're going to see Dante this season" — Tim Connelly provides a positive update on Dante's recovery from surgery.** [09:02](https://www.youtube.com/watch?v=e6rc30xOIvo&t=542s)
 
@@ -42,7 +42,7 @@ Tim Connelly: "**Dante** looks great. As you guys all know, **Dante** attacks ev
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=542s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=542s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=542&q=5)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=542&q=5) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=542&q=5&slack=1)</small>
 
 **6. Rudy Gobert — "the business of the NBA forces you to adapt and evolve" — Rudy Gobert discusses the challenges of maintaining a core team in the NBA while adapting to changes.** [1:00:34](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3634s)
 
@@ -50,7 +50,7 @@ Rudy Gobert: "I think the game the business of the NBA forces you to adapt and e
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=3634s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3634s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3634&q=6)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3634&q=6) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=3634&q=6&slack=1)</small>
 
 **7. Bones Hyland — "I see it like as a coming in being a spark bunny, being spark energized bunny." — Bones Hyland describes his role as a spark plug for the team.** [2:06:44](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7604s)
 
@@ -58,7 +58,7 @@ Bones Hyland: "I see it like as a coming in being a spark bunny, being spark ene
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=7604s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7604s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7604&q=7)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7604&q=7) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=7604&q=7&slack=1)</small>
 
 **8. Isaiah Evans — "making open shots and playing defense" — Isaiah Evans identifies his key focus areas for his rookie season.** [3:06:56](https://www.youtube.com/watch?v=e6rc30xOIvo&t=11216s)
 
@@ -66,7 +66,7 @@ Isaiah Evans: "I mean of course, making open shots and playing defense."
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=11216s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=11216s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=11216&q=8)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=11216&q=8) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=11216&q=8&slack=1)</small>
 
 **9. Chris Finch — "We should be faster, a little bit faster, I think just physically faster" — Chris Finch outlines tactical changes for the upcoming season.** [30:30](https://www.youtube.com/watch?v=e6rc30xOIvo&t=1830s)
 
@@ -74,7 +74,7 @@ Chris Finch: "There's certainly things that we can lean into that we haven't nec
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=1830s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=1830s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=1830&q=9)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=1830&q=9) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=1830&q=9&slack=1)</small>
 
 **10. Anthony Edwards — "I'm super happy about the changes in the locker room" — Anthony Edwards expresses excitement about the new locker room dynamics.** [1:02:14](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3734s)
 
@@ -82,7 +82,7 @@ Anthony Edwards: "I'm going to miss **Naz** for sure. That's my brother, but I'm
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=3734s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3734s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3734&q=10)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3734&q=10) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=3734&q=10&slack=1)</small>
 
 **11. Joan Beringer — "The first practice I I had with him, he threw me so many loves." — Joan Beringer praises LaMelo for his passing ability in practice.** [2:07:10](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7630s)
 
@@ -90,7 +90,7 @@ Joan Beringer: "The first practice I I had with him, he threw me so many loves. 
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=7630s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7630s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7630&q=11)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7630&q=11) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=7630&q=11&slack=1)</small>
 
 **12. Isaiah Evans — "I definitely look to prove that I can be as good as a defender" — Isaiah Evans aims to prove his defensive capabilities as a rookie.** [3:09:14](https://www.youtube.com/watch?v=e6rc30xOIvo&t=11354s)
 
@@ -98,7 +98,7 @@ Isaiah Evans: "I definitely look to prove that I can be as good as a defender as
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=11354s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=11354s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=11354&q=12)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=11354&q=12) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=11354&q=12&slack=1)</small>
 
 **13. Jaden McDaniels — "I feel like this year seven, this could be like a MVP season for him" — Jaden McDaniels predicts an MVP-caliber season for his teammate.** [1:17:07](https://www.youtube.com/watch?v=e6rc30xOIvo&t=4627s)
 
@@ -106,7 +106,7 @@ Jaden McDaniels: "Really just three pointers for sure, working on my three point
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=4627s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=4627s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=4627&q=13)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=4627&q=13) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=4627&q=13&slack=1)</small>
 
 **14. Anthony Edwards — "Kuminga brings another defensive minded type of guy to the starting lineup" — Anthony Edwards praises the defensive and offensive contributions of new teammates Lamelo and Kuminga.** [1:03:04](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3784s)
 
@@ -114,7 +114,7 @@ Anthony Edwards: "**Lamelo** obviously, he's a 6'7 point guard, pass first, but 
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=3784s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=3784s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3784&q=14)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=3784&q=14) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=3784&q=14&slack=1)</small>
 
 **15. Terrence Shannon Jr. — "rebounding is a a big key for me this year." — Terrence Shannon Jr. identifies rebounding as a key focus for his game.** [2:11:48](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7908s)
 
@@ -122,4 +122,4 @@ Terrence Shannon Jr.: "Doing a better job of rebounding, um, and just being more
 
 [https://www.youtube.com/watch?v=e6rc30xOIvo&t=7908s](https://www.youtube.com/watch?v=e6rc30xOIvo&t=7908s)
 
-<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7908&q=15)</small>
+<small>[Clip it](presserclips://clip?v=e6rc30xOIvo&t=7908&q=15) · [Send to Slack](presserclips://clip?v=e6rc30xOIvo&t=7908&q=15&slack=1)</small>

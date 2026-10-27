@@ -12,7 +12,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=8s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=8s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=8&q=1) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=8&q=1&slack=1)</small>
 
 **2. Jalen Green — "We are just learning about it right now. Obviously they are looking at a lot more." — Jalen Green on adjusting to new offensive foul calls** [00:33](https://www.youtube.com/watch?v=xUvVEz3mINc&t=33s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=33s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=33s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=33&q=2) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=33&q=2&slack=1)</small>
 
 **3. Jalen Green — "I feel comfortable bringing the ball up, getting guys into sets. I am very comfortable having the ball." — Jalen Green on his comfort level as a playmaker** [01:31](https://www.youtube.com/watch?v=xUvVEz3mINc&t=91s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=91s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=91s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=91&q=3)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=91&q=3) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=91&q=3&slack=1)</small>
 
 **4. Jalen Green — "Book is really good at his communication, communicating what he needs and in what positions." — Jalen Green on Devin Booker's ability to manipulate defenses** [02:50](https://www.youtube.com/watch?v=xUvVEz3mINc&t=170s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=170s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=170s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=170&q=4)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=170&q=4) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=170&q=4&slack=1)</small>
 
 **5. Jalen Green — "You see Book play on the ball, you see Book play off the ball." — Jalen Green on Devin Booker's movement off the ball** [03:45](https://www.youtube.com/watch?v=xUvVEz3mINc&t=225s)
 
@@ -52,7 +52,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=225s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=225s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=225&q=5)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=225&q=5) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=225&q=5&slack=1)</small>
 
 **6. Jalen Green — "I think first game was great against Detroit. I think we came out with a lot of energy." — Jalen Green on the starting unit's defensive chemistry** [04:22](https://www.youtube.com/watch?v=xUvVEz3mINc&t=262s)
 
@@ -62,7 +62,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=262s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=262s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=262&q=6)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=262&q=6) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=262&q=6&slack=1)</small>
 
 **7. Jalen Green — "We got a good, a good group of guys that is going to play hard." — Jalen Green on the team's chemistry and potential** [05:00](https://www.youtube.com/watch?v=xUvVEz3mINc&t=300s)
 
@@ -72,7 +72,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=300s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=300s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=300&q=7)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=300&q=7) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=300&q=7&slack=1)</small>
 
 **8. Jalen Green — "It is my sixth year in the NBA. I have been playing against Book for six years." — Jalen Green on his first time crossing paths with Devin Booker** [06:05](https://www.youtube.com/watch?v=xUvVEz3mINc&t=365s)
 
@@ -82,7 +82,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=365s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=365s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=365&q=8)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=365&q=8) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=365&q=8&slack=1)</small>
 
 **9. Jalen Green — "Book is like the head honcho of Arizona, you know what I am saying?" — Jalen Green on Devin Booker's presence in Phoenix** [06:55](https://www.youtube.com/watch?v=xUvVEz3mINc&t=415s)
 
@@ -92,7 +92,7 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=415s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=415s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=415&q=9)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=415&q=9) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=415&q=9&slack=1)</small>
 
 **10. Jalen Green — "It is amazing to be in one spot for your whole career." — Jalen Green on the team's longevity and veteran presence** [07:49](https://www.youtube.com/watch?v=xUvVEz3mINc&t=469s)
 
@@ -106,4 +106,4 @@ _Speakers identified: Jalen Green, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=xUvVEz3mINc&t=469s](https://www.youtube.com/watch?v=xUvVEz3mINc&t=469s)
 
-<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=469&q=10)</small>
+<small>[Clip it](presserclips://clip?v=xUvVEz3mINc&t=469&q=10) · [Send to Slack](presserclips://clip?v=xUvVEz3mINc&t=469&q=10&slack=1)</small>

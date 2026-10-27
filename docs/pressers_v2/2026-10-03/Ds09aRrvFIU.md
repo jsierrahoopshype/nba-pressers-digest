@@ -10,7 +10,7 @@ Jordan Goodwin: "I touch every position besides the five. Everything else, I hav
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=15s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=15s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=15&q=1) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=15&q=1&slack=1)</small>
 
 **2. Jordan Goodwin — "I am just setting up, just getting other guys going, especially with that second unit." — Jordan Goodwin on his role facilitating the second unit** [00:31](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=31s)
 
@@ -18,7 +18,7 @@ Jordan Goodwin: "I am just setting up, just getting other guys going, especially
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=31s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=31s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=31&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=31&q=2) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=31&q=2&slack=1)</small>
 
 **3. Jordan Goodwin — "Training camp has been really good. I got a good group of guys, all locked in." — Jordan Goodwin on the team's physical training camp intensity** [00:49](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=49s)
 
@@ -26,7 +26,7 @@ Jordan Goodwin: "Training camp has been really good. I got a good group of guys,
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=49s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=49s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=49&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=49&q=3) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=49&q=3&slack=1)</small>
 
 **4. Jordan Goodwin — "That was a big emphasis this summer with the training staff and everybody, just being more locked in." — Jordan Goodwin on the team's focus on injury prevention** [01:21](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=81s)
 
@@ -34,7 +34,7 @@ Jordan Goodwin: "That was a big emphasis this summer with the training staff and
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=81s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=81s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=81&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=81&q=4) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=81&q=4&slack=1)</small>
 
 **5. Jordan Goodwin — "I think adding Miles is going to help us out too down there a little bit more." — Jordan Goodwin on Miles Bridges' impact on rebounding** [02:16](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=136s)
 
@@ -42,7 +42,7 @@ Jordan Goodwin: "I think adding Miles is going to help us out too down there a l
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=136s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=136s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=136&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=136&q=5) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=136&q=5&slack=1)</small>
 
 **6. Jordan Goodwin — "You just don't want to be on the bottom of it. We are showing it in front of everybody." — Jordan Goodwin on the team's internal competition and accountability** [02:39](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=159s)
 
@@ -50,7 +50,7 @@ Jordan Goodwin: "You just don't want to be on the bottom of it. We are showing i
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=159s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=159s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=159&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=159&q=6) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=159&q=6&slack=1)</small>
 
 **7. Jordan Goodwin — "We already know. We know the system, we know what we got to do." — Jordan Goodwin on building continuity within the team system** [03:04](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=184s)
 
@@ -58,7 +58,7 @@ Jordan Goodwin: "We already know. We know the system, we know what we got to do.
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=184s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=184s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=184&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=184&q=7) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=184&q=7&slack=1)</small>
 
 **8. Jordan Goodwin — "Me just being more impactful on the ball defensively, help us out a little bit more." — Jordan Goodwin on his personal defensive impact and versatility** [03:21](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=201s)
 
@@ -66,7 +66,7 @@ Jordan Goodwin: "Me just being more impactful on the ball defensively, help us o
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=201s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=201s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=201&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=201&q=8) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=201&q=8&slack=1)</small>
 
 **9. Jordan Goodwin — "The work I put in the weight room this summer with the training staff is going to take it." — Jordan Goodwin on his personal development and work ethic** [04:23](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=263s)
 
@@ -74,7 +74,7 @@ Jordan Goodwin: "The work I put in the weight room this summer with the training
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=263s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=263s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=263&q=9)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=263&q=9) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=263&q=9&slack=1)</small>
 
 **10. Jordan Goodwin — "Having Miles out there in Dylan's place take a little bit more pressure off we will guard." — Jordan Goodwin on how Miles Bridges helps the team's defense** [04:55](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=295s)
 
@@ -82,7 +82,7 @@ Jordan Goodwin: "Having Miles out there in Dylan's place take a little bit more 
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=295s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=295s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=295&q=10)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=295&q=10) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=295&q=10&slack=1)</small>
 
 **11. Jordan Goodwin — "First of all, his body, man. His body is insane." — Jordan Goodwin on the development of teammate Kamaka Hepa** [05:31](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=331s)
 
@@ -90,7 +90,7 @@ Jordan Goodwin: "First of all, his body, man. His body is insane. It is my hell 
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=331s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=331s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=331&q=11)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=331&q=11) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=331&q=11&slack=1)</small>
 
 **12. Jordan Goodwin — "Sometimes like last scrimmage, he was came and grabbed me, situation where I am guarding Jaylen." — Jordan Goodwin on building chemistry with teammates in practice** [06:07](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=367s)
 
@@ -98,4 +98,4 @@ Jordan Goodwin: "Sometimes like last scrimmage, he was came and grabbed me, situ
 
 [https://www.youtube.com/watch?v=Ds09aRrvFIU&t=367s](https://www.youtube.com/watch?v=Ds09aRrvFIU&t=367s)
 
-<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=367&q=12)</small>
+<small>[Clip it](presserclips://clip?v=Ds09aRrvFIU&t=367&q=12) · [Send to Slack](presserclips://clip?v=Ds09aRrvFIU&t=367&q=12&slack=1)</small>

@@ -10,7 +10,7 @@ Taylor Jenkins: "Competitive tone was the biggest focus. I thought our guys brou
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=4s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=4s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=4&q=1) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=4&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — Taylor Jenkins stresses defensive identity and discipline for the upcoming season** [01:48](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I'm probably defensive minded at heart, so when I get an opport
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=108&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=108&q=2) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=108&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — Taylor Jenkins praises assistant coach for his mentorship and impact** [05:48](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "He's meant so much to me. He's a big brother to me. He's a big 
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=348&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=348&q=3) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=348&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — Taylor Jenkins plans to utilize pick and roll and collective movement as offensive triggers** [07:41](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s)
 
@@ -34,4 +34,4 @@ Taylor Jenkins: "It's definitely going to be a part of it. Our processes, how we
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=461&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=461&q=4) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=461&q=4&slack=1)</small>

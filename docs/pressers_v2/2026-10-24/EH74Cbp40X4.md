@@ -10,7 +10,7 @@ Tuomas Iisalo: "Got to really tip my hat to **Ziaire Williams** in the end who b
 
 [https://www.youtube.com/watch?v=EH74Cbp40X4&t=68s](https://www.youtube.com/watch?v=EH74Cbp40X4&t=68s)
 
-<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=68&q=1)</small>
+<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=68&q=1) · [Send to Slack](presserclips://clip?v=EH74Cbp40X4&t=68&q=1&slack=1)</small>
 
 **2. Tuomas Iisalo — "He was the one right from the get-go. Him not knocking down shots in a couple games" — Tuomas Iisalo discusses Cam Spencer's rookie performance and shooting** [01:29](https://www.youtube.com/watch?v=EH74Cbp40X4&t=89s)
 
@@ -18,7 +18,7 @@ Tuomas Iisalo: "He was the one right from the get-go. Him not knocking down shot
 
 [https://www.youtube.com/watch?v=EH74Cbp40X4&t=89s](https://www.youtube.com/watch?v=EH74Cbp40X4&t=89s)
 
-<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=89&q=2)</small>
+<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=89&q=2) · [Send to Slack](presserclips://clip?v=EH74Cbp40X4&t=89&q=2&slack=1)</small>
 
 **3. Tuomas Iisalo — "no matter which role he's in and in transition and he's relentless, it doesn't really seem like" — Tuomas Iisalo on Cam Spencer's relentless motor and conditioning** [01:48](https://www.youtube.com/watch?v=EH74Cbp40X4&t=108s)
 
@@ -26,7 +26,7 @@ Tuomas Iisalo: "No matter which role he's in and in transition and he's relentle
 
 [https://www.youtube.com/watch?v=EH74Cbp40X4&t=108s](https://www.youtube.com/watch?v=EH74Cbp40X4&t=108s)
 
-<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=108&q=3)</small>
+<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=108&q=3) · [Send to Slack](presserclips://clip?v=EH74Cbp40X4&t=108&q=3&slack=1)</small>
 
 **4. Tuomas Iisalo — "He was able to do it and against very different type of matchups. He was on E.K." — Tuomas Iisalo evaluates Ziaire Williams' defensive versatility against Steph Curry** [02:32](https://www.youtube.com/watch?v=EH74Cbp40X4&t=152s)
 
@@ -34,7 +34,7 @@ Tuomas Iisalo: "He was able to do it and against very different type of matchups
 
 [https://www.youtube.com/watch?v=EH74Cbp40X4&t=152s](https://www.youtube.com/watch?v=EH74Cbp40X4&t=152s)
 
-<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=152&q=4)</small>
+<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=152&q=4) · [Send to Slack](presserclips://clip?v=EH74Cbp40X4&t=152&q=4&slack=1)</small>
 
 **5. Tuomas Iisalo — "He plays as a primary handler for us and as a starting primary, which he has never" — Tuomas Iisalo on Ty Jerome's role as a primary handler** [03:42](https://www.youtube.com/watch?v=EH74Cbp40X4&t=222s)
 
@@ -42,4 +42,4 @@ Tuomas Iisalo: "He plays as a primary handler for us and as a starting primary, 
 
 [https://www.youtube.com/watch?v=EH74Cbp40X4&t=222s](https://www.youtube.com/watch?v=EH74Cbp40X4&t=222s)
 
-<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=222&q=5)</small>
+<small>[Clip it](presserclips://clip?v=EH74Cbp40X4&t=222&q=5) · [Send to Slack](presserclips://clip?v=EH74Cbp40X4&t=222&q=5&slack=1)</small>

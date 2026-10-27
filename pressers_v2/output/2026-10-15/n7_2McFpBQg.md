@@ -10,7 +10,7 @@ Justin Edwards: "It means a lot to me. Even for the teammates that wasn't there,
 
 [https://www.youtube.com/watch?v=n7_2McFpBQg&t=3s](https://www.youtube.com/watch?v=n7_2McFpBQg&t=3s)
 
-<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=3&q=1) · [Send to Slack](presserclips://clip?v=n7_2McFpBQg&t=3&q=1&slack=1)</small>
 
 **2. Justin Edwards — "Just being together more, and also, you know, just had to make sure he was safe." — Justin Edwards on team culture and supporting one another** [00:27](https://www.youtube.com/watch?v=n7_2McFpBQg&t=27s)
 
@@ -18,7 +18,7 @@ Justin Edwards: "That's one of the things we talked about is just being together
 
 [https://www.youtube.com/watch?v=n7_2McFpBQg&t=27s](https://www.youtube.com/watch?v=n7_2McFpBQg&t=27s)
 
-<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=27&q=2)</small>
+<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=27&q=2) · [Send to Slack](presserclips://clip?v=n7_2McFpBQg&t=27&q=2&slack=1)</small>
 
 **3. Justin Edwards — "I didn't think Tyrese Maxey was that funny until I met him. He's actually a pretty funny guy." — Justin Edwards on the personalities of teammates like Tyrese Maxey** [00:49](https://www.youtube.com/watch?v=n7_2McFpBQg&t=49s)
 
@@ -26,7 +26,7 @@ Justin Edwards: "We all act alike in some similar forms. I didn't think **Tyrese
 
 [https://www.youtube.com/watch?v=n7_2McFpBQg&t=49s](https://www.youtube.com/watch?v=n7_2McFpBQg&t=49s)
 
-<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=49&q=3)</small>
+<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=49&q=3) · [Send to Slack](presserclips://clip?v=n7_2McFpBQg&t=49&q=3&slack=1)</small>
 
 **4. Justin Edwards — "Whatever rookie duties you got, make sure you do it, do it on time." — Justin Edwards on his role in mentoring younger players** [01:51](https://www.youtube.com/watch?v=n7_2McFpBQg&t=111s)
 
@@ -34,7 +34,7 @@ Justin Edwards: "Just honestly just tell them to just pay attention to the guy i
 
 [https://www.youtube.com/watch?v=n7_2McFpBQg&t=111s](https://www.youtube.com/watch?v=n7_2McFpBQg&t=111s)
 
-<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=111&q=4)</small>
+<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=111&q=4) · [Send to Slack](presserclips://clip?v=n7_2McFpBQg&t=111&q=4&slack=1)</small>
 
 **5. Justin Edwards — "Stuff that you dream of as a kid. Honestly, I'm going to be super excited." — Justin Edwards on the excitement of playing at MSG** [02:32](https://www.youtube.com/watch?v=n7_2McFpBQg&t=152s)
 
@@ -42,7 +42,7 @@ Justin Edwards: "Stuff that you dream of as a kid. Honestly, I'm going to be sup
 
 [https://www.youtube.com/watch?v=n7_2McFpBQg&t=152s](https://www.youtube.com/watch?v=n7_2McFpBQg&t=152s)
 
-<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=152&q=5)</small>
+<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=152&q=5) · [Send to Slack](presserclips://clip?v=n7_2McFpBQg&t=152&q=5&slack=1)</small>
 
 **6. Justin Edwards — "Seven-foot, big guy around the rim that don't really move. So you just got to try to figure." — Justin Edwards on the challenge of defending Joel Embiid** [02:57](https://www.youtube.com/watch?v=n7_2McFpBQg&t=177s)
 
@@ -50,7 +50,7 @@ Justin Edwards: "Seven-foot, big guy around the rim that don't really move. So y
 
 [https://www.youtube.com/watch?v=n7_2McFpBQg&t=177s](https://www.youtube.com/watch?v=n7_2McFpBQg&t=177s)
 
-<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=177&q=6)</small>
+<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=177&q=6) · [Send to Slack](presserclips://clip?v=n7_2McFpBQg&t=177&q=6&slack=1)</small>
 
 **7. Justin Edwards — "They also tell me what to do and what not to do and stuff." — Justin Edwards on learning from teammates and coaches** [03:52](https://www.youtube.com/watch?v=n7_2McFpBQg&t=232s)
 
@@ -58,4 +58,4 @@ Justin Edwards: "Yes, they also tell me what to do and what not to do and stuff.
 
 [https://www.youtube.com/watch?v=n7_2McFpBQg&t=232s](https://www.youtube.com/watch?v=n7_2McFpBQg&t=232s)
 
-<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=232&q=7)</small>
+<small>[Clip it](presserclips://clip?v=n7_2McFpBQg&t=232&q=7) · [Send to Slack](presserclips://clip?v=n7_2McFpBQg&t=232&q=7&slack=1)</small>

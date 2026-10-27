@@ -10,7 +10,7 @@ J.B. Bickerstaff: "Obviously it's difficult. The most difficult part of our job 
 
 [https://www.youtube.com/watch?v=zJ2pMPdtur4&t=17s](https://www.youtube.com/watch?v=zJ2pMPdtur4&t=17s)
 
-<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=17&q=1) · [Send to Slack](presserclips://clip?v=zJ2pMPdtur4&t=17&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "We got plenty of time before opening night. We'll do what's right by him always." — Bickerstaff on the timeline for Cade Cunningham's return to the court** [01:13](https://www.youtube.com/watch?v=zJ2pMPdtur4&t=73s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "We got plenty of time before opening night. I think we'll do 
 
 [https://www.youtube.com/watch?v=zJ2pMPdtur4&t=73s](https://www.youtube.com/watch?v=zJ2pMPdtur4&t=73s)
 
-<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=73&q=2) · [Send to Slack](presserclips://clip?v=zJ2pMPdtur4&t=73&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "I definitely see his minutes going above 26." — Bickerstaff expects increased minutes for Ausar Thompson this season** [02:25](https://www.youtube.com/watch?v=zJ2pMPdtur4&t=145s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "That's the expectation. Because we ask him to do so much, how
 
 [https://www.youtube.com/watch?v=zJ2pMPdtur4&t=145s](https://www.youtube.com/watch?v=zJ2pMPdtur4&t=145s)
 
-<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=145&q=3)</small>
+<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=145&q=3) · [Send to Slack](presserclips://clip?v=zJ2pMPdtur4&t=145&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "He was a huge part of our development package." — Bickerstaff on the impact of J.D. Dubois's development work** [03:13](https://www.youtube.com/watch?v=zJ2pMPdtur4&t=193s)
 
@@ -34,4 +34,4 @@ J.B. Bickerstaff: "Two years of being with them every day and watching how he wo
 
 [https://www.youtube.com/watch?v=zJ2pMPdtur4&t=193s](https://www.youtube.com/watch?v=zJ2pMPdtur4&t=193s)
 
-<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=193&q=4)</small>
+<small>[Clip it](presserclips://clip?v=zJ2pMPdtur4&t=193&q=4) · [Send to Slack](presserclips://clip?v=zJ2pMPdtur4&t=193&q=4&slack=1)</small>

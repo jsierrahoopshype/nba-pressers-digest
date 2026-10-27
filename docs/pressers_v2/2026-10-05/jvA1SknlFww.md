@@ -10,7 +10,7 @@ Shai Gilgeous-Alexander: "I feel like I'm a better basketball player, more versa
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=15s](https://www.youtube.com/watch?v=jvA1SknlFww&t=15s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=15&q=1) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=15&q=1&slack=1)</small>
 
 **2. Shai Gilgeous-Alexander — "This group especially, we understand what it takes to win. We know what it's going to look like." — Shai Gilgeous-Alexander on the team's focus during training camp** [00:52](https://www.youtube.com/watch?v=jvA1SknlFww&t=52s)
 
@@ -18,7 +18,7 @@ Shai Gilgeous-Alexander: "This group especially, we understand what it takes to 
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=52s](https://www.youtube.com/watch?v=jvA1SknlFww&t=52s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=52&q=2)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=52&q=2) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=52&q=2&slack=1)</small>
 
 **3. Shai Gilgeous-Alexander — "I usually work out post-practice, especially in training camp, just because the games are still a little ways away." — Shai Gilgeous-Alexander on his post-practice workout routine** [02:05](https://www.youtube.com/watch?v=jvA1SknlFww&t=125s)
 
@@ -26,7 +26,7 @@ Shai Gilgeous-Alexander: "I usually work out post-practice, especially in traini
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=125s](https://www.youtube.com/watch?v=jvA1SknlFww&t=125s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=125&q=3)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=125&q=3) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=125&q=3&slack=1)</small>
 
 **4. Shai Gilgeous-Alexander — "It's grown for sure. It's something that I've been intentional with, but also naturally it's just grown because I've grown as a man." — Shai Gilgeous-Alexander on his growth as a leader and father** [03:09](https://www.youtube.com/watch?v=jvA1SknlFww&t=189s)
 
@@ -34,7 +34,7 @@ Shai Gilgeous-Alexander: "It's grown for sure. It's something that I've been int
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=189s](https://www.youtube.com/watch?v=jvA1SknlFww&t=189s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=189&q=4)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=189&q=4) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=189&q=4&slack=1)</small>
 
 **5. Shai Gilgeous-Alexander — "Don't make any excuses and be ready for whatever the cards you get dealt." — Shai Gilgeous-Alexander on learning from last season's playoff injuries** [04:41](https://www.youtube.com/watch?v=jvA1SknlFww&t=281s)
 
@@ -42,7 +42,7 @@ Shai Gilgeous-Alexander: "Obviously the injuries last year were unfortunate and 
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=281s](https://www.youtube.com/watch?v=jvA1SknlFww&t=281s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=281&q=5)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=281&q=5) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=281&q=5&slack=1)</small>
 
 **6. Shai Gilgeous-Alexander — "The foundation for what we stand on now, part of the reason why this city is what it is." — Shai Gilgeous-Alexander on Russell Westbrook's impact on the Thunder** [05:39](https://www.youtube.com/watch?v=jvA1SknlFww&t=339s)
 
@@ -50,7 +50,7 @@ Shai Gilgeous-Alexander: "His dynamic is they come in terms of NBA player, perso
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=339s](https://www.youtube.com/watch?v=jvA1SknlFww&t=339s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=339&q=6)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=339&q=6) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=339&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "He's got kind of an electric athleticism. He's one of those players that kind of makes things happen." — Mark Daigneault on Ousmane Dieng's development and athleticism** [09:19](https://www.youtube.com/watch?v=jvA1SknlFww&t=559s)
 
@@ -58,7 +58,7 @@ Mark Daigneault: "**Ousmane Dieng** has done a good job. He obviously got hurt i
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=559s](https://www.youtube.com/watch?v=jvA1SknlFww&t=559s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=559&q=7)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=559&q=7) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=559&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "We can't win a game right now, we can't make the playoffs right now." — Mark Daigneault on building good habits and avoiding shortcuts** [10:05](https://www.youtube.com/watch?v=jvA1SknlFww&t=605s)
 
@@ -66,7 +66,7 @@ Mark Daigneault: "Some of it is trusting the maturity and competitiveness of the
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=605s](https://www.youtube.com/watch?v=jvA1SknlFww&t=605s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=605&q=8)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=605&q=8) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=605&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "It's important to take the rep in front of you in practice or being in the pick-and-roll coverage." — Mark Daigneault on the importance of veteran leadership in training camp** [11:43](https://www.youtube.com/watch?v=jvA1SknlFww&t=703s)
 
@@ -74,7 +74,7 @@ Mark Daigneault: "Our exhibits have been outstanding. **Alex Caruso** is obvious
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=703s](https://www.youtube.com/watch?v=jvA1SknlFww&t=703s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=703&q=9)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=703&q=9) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=703&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "Summer League is an important data point, but it's also wildly out of context." — Mark Daigneault on the limitations of Summer League data** [15:00](https://www.youtube.com/watch?v=jvA1SknlFww&t=900s)
 
@@ -82,4 +82,4 @@ Mark Daigneault: "It's more of a commentary on not overreacting to Summer League
 
 [https://www.youtube.com/watch?v=jvA1SknlFww&t=900s](https://www.youtube.com/watch?v=jvA1SknlFww&t=900s)
 
-<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=900&q=10)</small>
+<small>[Clip it](presserclips://clip?v=jvA1SknlFww&t=900&q=10) · [Send to Slack](presserclips://clip?v=jvA1SknlFww&t=900&q=10&slack=1)</small>

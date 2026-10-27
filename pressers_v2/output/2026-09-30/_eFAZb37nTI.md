@@ -10,7 +10,7 @@ Tyrese Maxey: "I just wanted to get guys in the gym. I think that's the easiest 
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=113s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=113s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=113&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=113&q=1) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=113&q=1&slack=1)</small>
 
 **2. Tyrese Maxey — "He's been fantastic the past two days, honestly. He's in shape, he's picking up the ball." — Tyrese Maxey praises Kentavious Caldwell-Pope's early training camp performance and his potential impact on Justin Edwards.** [04:09](https://www.youtube.com/watch?v=_eFAZb37nTI&t=249s)
 
@@ -18,7 +18,7 @@ Tyrese Maxey: "He's been fantastic the past two days, honestly. He's in shape, h
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=249s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=249s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=249&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=249&q=2) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=249&q=2&slack=1)</small>
 
 **3. Tyrese Maxey — "I want to be judged by winning. We win, that's what I want to be judged by." — Tyrese Maxey says his primary goal this season is winning rather than individual statistical performance.** [11:20](https://www.youtube.com/watch?v=_eFAZb37nTI&t=680s)
 
@@ -26,7 +26,7 @@ Tyrese Maxey: "I'm at the point now where I showed I can do talent-wise, I think
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=680s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=680s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=680&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=680&q=3) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=680&q=3&slack=1)</small>
 
 **4. Tyrese Maxey — "It unlocks everything. It unlocks like me being a catch and shoot guy." — Tyrese Maxey explains how having multiple ball handlers creates more versatility and scoring opportunities for the team.** [11:17](https://www.youtube.com/watch?v=_eFAZb37nTI&t=677s)
 
@@ -34,4 +34,4 @@ Tyrese Maxey: "It unlocks everything. It unlocks like me being a catch and shoot
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=677s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=677s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=677&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=677&q=4) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=677&q=4&slack=1)</small>

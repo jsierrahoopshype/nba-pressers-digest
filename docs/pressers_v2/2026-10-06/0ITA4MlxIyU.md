@@ -10,7 +10,7 @@ Tyronn Lue: "We have been working on it. I thought in the game, a little bit of 
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=4s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=4s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=4&q=1) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=4&q=1&slack=1)</small>
 
 **2. Tyronn Lue — "a lot of movement, ATOs coming off screens, pin-downs, pick-and-picker, see actions." — Tyronn Lue on the impact of James Harden's departure on team movement** [00:36](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=36s)
 
@@ -18,7 +18,7 @@ Tyronn Lue: "A lot of movement, ATOs coming off screens, pin-downs, pick-and-pic
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=36s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=36s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=36&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=36&q=2) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=36&q=2&slack=1)</small>
 
 **3. Tyronn Lue — "we just talked to Rui about being more assertive, being more aggressive." — Tyronn Lue on increasing Rui Hachimura's role and assertiveness** [01:10](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=70s)
 
@@ -26,7 +26,7 @@ Tyronn Lue: "We just talked to Rui about being more assertive, being more aggres
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=70s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=70s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=70&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=70&q=3) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=70&q=3&slack=1)</small>
 
 **4. Tyronn Lue — "he is picking up all the stuff that Jalen Brunson is doing, and he is understanding it." — Tyronn Lue on Rui Hachimura's defensive versatility and growth** [01:38](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=98s)
 
@@ -34,7 +34,7 @@ Tyronn Lue: "Defense has been great. We were just trying to figure out if we can
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=98s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=98s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=98&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=98&q=4) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=98&q=4&slack=1)</small>
 
 **5. Terance Mann — "we talked about it in the film session, we got to get after it a little bit." — Terance Mann on the team's need for increased intensity** [02:40](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=160s)
 
@@ -42,7 +42,7 @@ Terance Mann: "We talked about it in the film session, we got to get after it a 
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=160s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=160s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=160&q=5)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=160&q=5) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=160&q=5&slack=1)</small>
 
 **6. Terance Mann — "missing make shots is part of the game, but one thing is I know the work." — Terance Mann on his shooting struggles and work ethic** [02:48](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=168s)
 
@@ -50,7 +50,7 @@ Terance Mann: "Missing make shots is part of the game, but one thing is I know t
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=168s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=168s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=168&q=6)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=168&q=6) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=168&q=6&slack=1)</small>
 
 **7. Terance Mann — "there are no cliques, we all are one." — Terance Mann on the team's energy and lack of cliques** [03:36](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=216s)
 
@@ -58,7 +58,7 @@ Terance Mann: "We got a whole lot of energy, a whole lot of goofballs. We all pl
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=216s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=216s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=216&q=7)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=216&q=7) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=216&q=7&slack=1)</small>
 
 **8. Terance Mann — "I don't listen to outside noise, I don't care about what other people say about my team." — Terance Mann on ignoring external criticism of the Clippers** [04:17](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=257s)
 
@@ -66,7 +66,7 @@ Terance Mann: "I don't listen to outside noise, I don't care about what other pe
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=257s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=257s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=257&q=8)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=257&q=8) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=257&q=8&slack=1)</small>
 
 **9. Terance Mann — "just being able to get up and down the floor a whole lot and utilize the athleticism." — Terance Mann on the benefits of the team's youth and athleticism** [04:48](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=288s)
 
@@ -74,7 +74,7 @@ Terance Mann: "Just being able to get up and down the floor a whole lot and util
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=288s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=288s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=288&q=9)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=288&q=9) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=288&q=9&slack=1)</small>
 
 **10. Terance Mann — "always a little bit more responsibility for me on the defensive end, just to be more vocal." — Terance Mann on his increased defensive responsibilities** [05:57](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=357s)
 
@@ -82,7 +82,7 @@ Terance Mann: "Always a little bit more responsibility for me on the defensive e
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=357s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=357s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=357&q=10)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=357&q=10) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=357&q=10&slack=1)</small>
 
 **11. Terance Mann — "that was me and Chris Jobs since we came here." — Terance Mann on his defensive partnership with Chris Jobs** [06:29](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=389s)
 
@@ -90,7 +90,7 @@ Terance Mann: "That was me and **Chris Jobs** since we came here. That is just, 
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=389s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=389s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=389&q=11)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=389&q=11) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=389&q=11&slack=1)</small>
 
 **12. Kobe Brown — "I feel like I'm learning a lot from my teammates, my coaches." — Kobe Brown on learning from teammates and coaches** [06:50](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=410s)
 
@@ -98,7 +98,7 @@ Kobe Brown: "I feel like I'm learning a lot from my teammates, my coaches, just 
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=410s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=410s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=410&q=12)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=410&q=12) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=410&q=12&slack=1)</small>
 
 **13. Kobe Brown — "my body is going to be very important, just being able to hit and play physically." — Kobe Brown on the importance of conditioning and physical play** [07:23](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=443s)
 
@@ -106,7 +106,7 @@ Kobe Brown: "My body is going to be very important, just being able to hit and p
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=443s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=443s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=443&q=13)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=443&q=13) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=443&q=13&slack=1)</small>
 
 **14. Kobe Brown — "I say probably Giannis. Yeah, he's been one of my favorite players to watch growing up." — Kobe Brown on wanting to play against Giannis Antetokounmpo** [07:54](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=474s)
 
@@ -114,7 +114,7 @@ Kobe Brown: "I say probably Giannis. Yeah, he's been one of my favorite players 
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=474s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=474s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=474&q=14)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=474&q=14) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=474&q=14&slack=1)</small>
 
 **15. Kobe Brown — "DJ and BI, they've been very helpful throughout the whole offseason just helping me adapt." — Kobe Brown on the mentorship of DJ and BI** [08:08](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=488s)
 
@@ -122,7 +122,7 @@ Kobe Brown: "I would say probably **DJ** and **BI**, they've been very helpful t
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=488s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=488s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=488&q=15)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=488&q=15) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=488&q=15&slack=1)</small>
 
 **16. Kobe Brown — "just play hard but play confident. Just be yourself, do whatever the coaches ask." — Kobe Brown on playing with confidence** [08:36](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=516s)
 
@@ -130,7 +130,7 @@ Kobe Brown: "I would just say kind of just play hard but play confident. Just be
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=516s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=516s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=516&q=16)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=516&q=16) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=516&q=16&slack=1)</small>
 
 **17. Kobe Brown — "this year playing the five, just kind of using my speed to to my advantage." — Kobe Brown on his role as a five and using his speed** [08:52](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=532s)
 
@@ -138,7 +138,7 @@ Kobe Brown: "I feel like this year playing the five, just kind of using my speed
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=532s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=532s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=532&q=17)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=532&q=17) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=532&q=17&slack=1)</small>
 
 **18. Kobe Brown — "coming in with two rookies with like Nick and Kian has been great." — Kobe Brown on the camaraderie of the young Clippers players** [09:30](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=570s)
 
@@ -146,7 +146,7 @@ Kobe Brown: "It's been really good. I mean obviously coming in with two rookies 
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=570s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=570s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=570&q=18)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=570&q=18) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=570&q=18&slack=1)</small>
 
 **19. Kobe Brown — "he kind of gets players to do whatever they're best at." — Kobe Brown on Tyronn Lue's coaching style** [09:54](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=594s)
 
@@ -154,7 +154,7 @@ Kobe Brown: "I would say he like kind of just like, I mean he's a elite coach ob
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=594s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=594s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=594&q=19)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=594&q=19) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=594&q=19&slack=1)</small>
 
 **20. Kobe Brown — "he is trying to help me, like improve all the areas that I have to improve on." — Kobe Brown on Tyronn Lue's guidance and development** [10:35](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=635s)
 
@@ -162,4 +162,4 @@ Kobe Brown: "I feel like he is trying to help me, like improve all the areas tha
 
 [https://www.youtube.com/watch?v=0ITA4MlxIyU&t=635s](https://www.youtube.com/watch?v=0ITA4MlxIyU&t=635s)
 
-<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=635&q=20)</small>
+<small>[Clip it](presserclips://clip?v=0ITA4MlxIyU&t=635&q=20) · [Send to Slack](presserclips://clip?v=0ITA4MlxIyU&t=635&q=20&slack=1)</small>

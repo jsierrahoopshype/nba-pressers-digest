@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Moussa Diabate_
 
 [https://www.youtube.com/watch?v=76_kdXiwgHM&t=7s](https://www.youtube.com/watch?v=76_kdXiwgHM&t=7s)
 
-<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=7&q=1) · [Send to Slack](presserclips://clip?v=76_kdXiwgHM&t=7&q=1&slack=1)</small>
 
 **2. Moussa Diabate — "we have a group of young guys trying to focus on playing together" — Moussa Diabate on building team chemistry and cohesion** [00:14](https://www.youtube.com/watch?v=76_kdXiwgHM&t=14s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Moussa Diabate_
 
 [https://www.youtube.com/watch?v=76_kdXiwgHM&t=14s](https://www.youtube.com/watch?v=76_kdXiwgHM&t=14s)
 
-<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=14&q=2)</small>
+<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=14&q=2) · [Send to Slack](presserclips://clip?v=76_kdXiwgHM&t=14&q=2&slack=1)</small>
 
 **3. Moussa Diabate — "I'm a firm believer that we're going to do some great things" — Moussa Diabate's outlook on the upcoming Hornets season** [00:48](https://www.youtube.com/watch?v=76_kdXiwgHM&t=48s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Unidentified speaker, Moussa Diabate_
 
 [https://www.youtube.com/watch?v=76_kdXiwgHM&t=48s](https://www.youtube.com/watch?v=76_kdXiwgHM&t=48s)
 
-<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=48&q=3)</small>
+<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=48&q=3) · [Send to Slack](presserclips://clip?v=76_kdXiwgHM&t=48&q=3&slack=1)</small>
 
 **4. Moussa Diabate — "I'm still looking at it the same way I was looking at it when I first came in" — Moussa Diabate on his approach to training camp** [01:09](https://www.youtube.com/watch?v=76_kdXiwgHM&t=69s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Unidentified speaker, Moussa Diabate_
 
 [https://www.youtube.com/watch?v=76_kdXiwgHM&t=69s](https://www.youtube.com/watch?v=76_kdXiwgHM&t=69s)
 
-<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=69&q=4)</small>
+<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=69&q=4) · [Send to Slack](presserclips://clip?v=76_kdXiwgHM&t=69&q=4&slack=1)</small>
 
 **5. Moussa Diabate — "they've been on point, on time, listening, I think that's the most important part" — Moussa Diabate evaluates the performance of Hornets rookies** [01:44](https://www.youtube.com/watch?v=76_kdXiwgHM&t=104s)
 
@@ -52,4 +52,4 @@ _Speakers identified: Unidentified speaker, Moussa Diabate_
 
 [https://www.youtube.com/watch?v=76_kdXiwgHM&t=104s](https://www.youtube.com/watch?v=76_kdXiwgHM&t=104s)
 
-<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=104&q=5)</small>
+<small>[Clip it](presserclips://clip?v=76_kdXiwgHM&t=104&q=5) · [Send to Slack](presserclips://clip?v=76_kdXiwgHM&t=104&q=5&slack=1)</small>

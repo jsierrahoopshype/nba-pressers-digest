@@ -10,7 +10,7 @@ Joan Beringer: "I think just crush every time, as a team, just always go for the
 
 [https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=9s](https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=9s)
 
-<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=9&q=1) · [Send to Slack](presserclips://clip?v=yBbmtpp7C_Q&t=9&q=1&slack=1)</small>
 
 **2. Joan Beringer — "we went very hard against each other, so it's you can see now in the games" — Joan Beringer on the impact of intense training camp scrimmages** [00:26](https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=26s)
 
@@ -18,7 +18,7 @@ Joan Beringer: "We went very hard against each other, so it's you can see now in
 
 [https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=26s](https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=26s)
 
-<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=26&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=26&q=2) · [Send to Slack](presserclips://clip?v=yBbmtpp7C_Q&t=26&q=2&slack=1)</small>
 
 **3. Joan Beringer — "I just try to not be focused in the every game. The past is past" — Joan Beringer on managing personal expectations and maintaining focus** [01:07](https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=67s)
 
@@ -26,7 +26,7 @@ Joan Beringer: "I just try to not be focused in the every game. The past is past
 
 [https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=67s](https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=67s)
 
-<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=67&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=67&q=3) · [Send to Slack](presserclips://clip?v=yBbmtpp7C_Q&t=67&q=3&slack=1)</small>
 
 **4. Joan Beringer — "he's like a big brother for me, you know. He push me every time" — Joan Beringer on his relationship with teammate Joe Ingles** [01:46](https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=106s)
 
@@ -34,4 +34,4 @@ Joan Beringer: "I love playing with **Joe Ingles**, honestly. He's like a big br
 
 [https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=106s](https://www.youtube.com/watch?v=yBbmtpp7C_Q&t=106s)
 
-<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=106&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yBbmtpp7C_Q&t=106&q=4) · [Send to Slack](presserclips://clip?v=yBbmtpp7C_Q&t=106&q=4&slack=1)</small>

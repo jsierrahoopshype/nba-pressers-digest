@@ -10,7 +10,7 @@ Julius Randle: "I think it starts tomorrow with training camp and we just build 
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=129s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=129s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=129&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=129&q=1) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=129&q=1&slack=1)</small>
 
 **2. Mikal Bridges — "I feel like as a point guard you need to know everything on the floor" — Mikal Bridges emphasizes the importance of film study and basketball IQ for his role.** [1:51:50](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6710s)
 
@@ -18,7 +18,7 @@ Mikal Bridges: "I mean just watching film. You know watching constant film on yo
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6710s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6710s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6710&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6710&q=2) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=6710&q=2&slack=1)</small>
 
 **3. Julius Randle — "I feel like mesh with each other very well." — Julius Randle believes his play style will mesh well with his new teammates.** [04:08](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=248s)
 
@@ -26,7 +26,7 @@ Julius Randle: "I think it'll be great just because our play styles I feel like 
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=248s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=248s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=248&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=248&q=3) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=248&q=3&slack=1)</small>
 
 **4. Mikal Bridges — "All the accolades will come behind it as long as you win." — Mikal Bridges prioritizes team success over individual accolades for his rookie season.** [1:52:00](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6720s)
 
@@ -34,7 +34,7 @@ Mikal Bridges: "Man at the end of the day we just trying to win. We just trying 
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6720s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6720s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6720&q=4)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6720&q=4) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=6720&q=4&slack=1)</small>
 
 **5. Julius Randle — "I think just even being back here now, I have a greater appreciation for it." — Julius Randle expresses his happiness and appreciation for returning to New York.** [14:12](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=852s)
 
@@ -42,7 +42,7 @@ Julius Randle: "I think just even being back here now, I have a greater apprecia
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=852s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=852s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=852&q=5)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=852&q=5) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=852&q=5&slack=1)</small>
 
 **6. Mikal Bridges — "as long as you're consistent off the court, you're going to be consistent on the court" — Mikal Bridges credits veteran mentors for teaching him the importance of consistent habits.** [1:51:53](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6713s)
 
@@ -50,7 +50,7 @@ Mikal Bridges: "That's just something that I've been consistently trying to work
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6713s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6713s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6713&q=6)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6713&q=6) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=6713&q=6&slack=1)</small>
 
 **7. Mike — "I think Julius is going to be a huge boost for us." — Mike expects Julius Randle to provide a winning boost to the Nets while highlighting the growth of young players.** [28:23](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=1703s)
 
@@ -58,7 +58,7 @@ Mike: "I'm excited. I think **Julius** is going to be a huge boost for us. You k
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=1703s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=1703s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=1703&q=7)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=1703&q=7) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=1703&q=7&slack=1)</small>
 
 **8. Mikal Bridges — "prioritizing that and and using that time wisely to you know take care of your body" — Mikal Bridges discusses balancing his time and prioritizing body care and film study.** [1:51:59](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6719s)
 
@@ -66,7 +66,7 @@ Mikal Bridges: "I mean just trying to figure out, you know balance the time. You
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6719s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6719s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6719&q=8)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6719&q=8) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=6719&q=8&slack=1)</small>
 
 **9. Mike — "I'm just excited to play with these guys and be in Brooklyn" — Mike expresses his desire to remain in Brooklyn and build the organization.** [30:15](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=1815s)
 
@@ -74,7 +74,7 @@ Mike: "I never was a dude who played basketball for a big contract or for the mo
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=1815s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=1815s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=1815&q=9)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=1815&q=9) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=1815&q=9&slack=1)</small>
 
 **10. Mikal Bridges — "as long as you keep the main thing the main thing and have fun with it" — Mikal Bridges emphasizes having fun and keeping focus as key to navigating NBA life.** [1:51:56](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6716s)
 
@@ -82,7 +82,7 @@ Mikal Bridges: "I feel like that's just the most important part when it comes to
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6716s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6716s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6716&q=10)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6716&q=10) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=6716&q=10&slack=1)</small>
 
 **11. Yegor — "The main priority for the summer, getting stronger" — Yegor focuses on getting stronger and developing all aspects of his game this summer.** [45:30](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=2730s)
 
@@ -90,7 +90,7 @@ Yegor: "The main priority for the summer, getting stronger, living in the liftin
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=2730s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=2730s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=2730&q=11)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=2730&q=11) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=2730&q=11&slack=1)</small>
 
 **12. Cam Thomas — "trying to build towards something too. So um able to to spread my wings a little bit here" — Cam Thomas expresses excitement about joining the Nets and reuniting with a former teammate.** [1:51:57](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6717s)
 
@@ -98,7 +98,7 @@ Cam Thomas: "I think all aspects, you know kind of to be able to join, join back
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6717s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6717s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6717&q=12)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6717&q=12) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=6717&q=12&slack=1)</small>
 
 **13. Yegor — "what I'm emphasizing on is getting to the lane." — Yegor plans to emphasize getting to the lane this season to expand his offensive role.** [48:44](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=2924s)
 
@@ -106,7 +106,7 @@ Yegor: "I think it might be because of, you know, obviously a role on the court.
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=2924s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=2924s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=2924&q=13)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=2924&q=13) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=2924&q=13&slack=1)</small>
 
 **14. Cam Thomas — "our goal is to get 50 wins" — Cam Thomas states the Nets' goal is to reach 50 wins this season.** [1:51:47](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6707s)
 
@@ -114,7 +114,7 @@ Cam Thomas: "Yeah, that's the goal from from day one, you know we said we our go
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6707s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=6707s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6707&q=14)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=6707&q=14) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=6707&q=14&slack=1)</small>
 
 **15. Day'Ron — Day'Ron is focused on playing hard and contributing regardless of his role.** [1:08:32](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=4112s)
 
@@ -122,4 +122,4 @@ Day'Ron: "I feel like I vision my role, you know, just like being a longer tenur
 
 [https://www.youtube.com/watch?v=3uAGh_yRyqg&t=4112s](https://www.youtube.com/watch?v=3uAGh_yRyqg&t=4112s)
 
-<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=4112&q=15)</small>
+<small>[Clip it](presserclips://clip?v=3uAGh_yRyqg&t=4112&q=15) · [Send to Slack](presserclips://clip?v=3uAGh_yRyqg&t=4112&q=15&slack=1)</small>

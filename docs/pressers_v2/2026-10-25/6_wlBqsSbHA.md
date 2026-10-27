@@ -10,7 +10,7 @@ Nate Ament: "They've been frustrating just because it's never good as a basketba
 
 [https://www.youtube.com/watch?v=6_wlBqsSbHA&t=18s](https://www.youtube.com/watch?v=6_wlBqsSbHA&t=18s)
 
-<small>[Clip it](presserclips://clip?v=6_wlBqsSbHA&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=6_wlBqsSbHA&t=18&q=1) · [Send to Slack](presserclips://clip?v=6_wlBqsSbHA&t=18&q=1&slack=1)</small>
 
 **2. Nate Ament — "I wanted to guard Jaylen Brown, I wanted that challenge and he bring it to me" — Nate Ament on the challenge of guarding Jaylen Brown** [01:13](https://www.youtube.com/watch?v=6_wlBqsSbHA&t=73s)
 
@@ -18,4 +18,4 @@ Nate Ament: "I tried to challenge myself on the floor to guard one of their bett
 
 [https://www.youtube.com/watch?v=6_wlBqsSbHA&t=73s](https://www.youtube.com/watch?v=6_wlBqsSbHA&t=73s)
 
-<small>[Clip it](presserclips://clip?v=6_wlBqsSbHA&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=6_wlBqsSbHA&t=73&q=2) · [Send to Slack](presserclips://clip?v=6_wlBqsSbHA&t=73&q=2&slack=1)</small>

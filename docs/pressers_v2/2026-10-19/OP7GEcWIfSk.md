@@ -10,7 +10,7 @@ Jordan Ott: "He did more today for sure, hard practice. This was the test day to
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=9s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=9s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=9&q=1) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=9&q=1&slack=1)</small>
 
 **2. Jordan Ott — "A lot of good players competing for spots. We've got a deep team, so we really like our depth." — Jordan Ott discusses the team's competitive depth and roster competition** [00:30](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=30s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "It's exactly what we said before the camp, a competitive camp. A lo
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=30s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=30s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=30&q=2)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=30&q=2) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=30&q=2&slack=1)</small>
 
 **3. Jordan Ott — "Whoever starts, got to play well, whoever comes off the bench got to play well." — Jordan Ott on center rotation strategy and player development** [00:54](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=54s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "Two guys that we love. We got, we need 48 minutes, great center pla
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=54s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=54s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=54&q=3)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=54&q=3) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=54&q=3&slack=1)</small>
 
 **4. Jordan Ott — "We're not going into the game worried about the opponent as much, we got to play well ourselves." — Jordan Ott on game-to-game adjustments and team performance focus** [02:00](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=120s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "I'm not one to change kind of game to game. Again, we need 48 minut
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=120s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=120s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=120&q=4)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=120&q=4) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=120&q=4&slack=1)</small>
 
 **5. Jordan Ott — "Mark brings size, skill. He's been in those situations, he's a little bit more veteran in some of those situations." — Jordan Ott on Mark's veteran presence and defensive versatility** [02:34](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=154s)
 
@@ -42,7 +42,7 @@ Jordan Ott: "I got to think that's a big piece of what **Mark** brings. **Mark**
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=154s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=154s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=154&q=5)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=154&q=5) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=154&q=5&slack=1)</small>
 
 **6. Jordan Ott — "Lillard's return in Portland is something that I'm sure we'll feel, but that quickly wears off." — Jordan Ott on managing opening night jitters and team challenges** [03:45](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=225s)
 
@@ -50,7 +50,7 @@ Jordan Ott: "Everyone has a different feeling going into opening night. Like the
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=225s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=225s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=225&q=6)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=225&q=6) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=225&q=6&slack=1)</small>
 
 **7. Jordan Ott — "That's how the game is evolving. It's a lot of concepts, it's a lot of spatial awareness." — Jordan Ott on spatial awareness and team offensive evolution** [04:39](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=279s)
 
@@ -58,7 +58,7 @@ Jordan Ott: "That's how the game is evolving. It's a lot of concepts, it's a lot
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=279s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=279s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=279&q=7)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=279&q=7) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=279&q=7&slack=1)</small>
 
 **8. Jordan Ott — "It's the selflessness to run, thinking you can get the ball but you may not." — Jordan Ott on team selflessness and floor spacing** [05:36](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=336s)
 
@@ -66,7 +66,7 @@ Jordan Ott: "I think it's the selflessness first off to run without it. Get your
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=336s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=336s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=336&q=8)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=336&q=8) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=336&q=8&slack=1)</small>
 
 **9. Jordan Ott — "It's not just the shooting piece, it's the decision-making piece, it's the spacing piece that goes along with it." — Jordan Ott on offensive consistency and decision-making** [06:29](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=389s)
 
@@ -74,7 +74,7 @@ Jordan Ott: "It's a constant process. I think it's not just the shooting piece, 
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=389s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=389s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=389&q=9)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=389&q=9) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=389&q=9&slack=1)</small>
 
 **10. Jordan Ott — "We've gotten better as a coaching staff. Hopefully everyone in the building has gotten better." — Jordan Ott on coaching staff evolution and continuous improvement** [07:22](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=442s)
 
@@ -82,7 +82,7 @@ Jordan Ott: "It's never about us as coaches. It's like we all have to get better
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=442s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=442s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=442&q=10)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=442&q=10) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=442&q=10&slack=1)</small>
 
 **11. Jordan Ott — "He just brings a joy. It's similar to Man-Man just in a different kind of way." — Jordan Ott on team culture and player leadership** [08:21](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=501s)
 
@@ -90,7 +90,7 @@ Jordan Ott: "It's him. I think it's him. I think the reputation that he's built 
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=501s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=501s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=501&q=11)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=501&q=11) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=501&q=11&slack=1)</small>
 
 **12. Jordan Ott — "It's always about getting the right guys that enjoy doing something a little bit different." — Jordan Ott on maintaining team standards throughout the season** [09:28](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=568s)
 
@@ -98,7 +98,7 @@ Jordan Ott: "It's always about getting the right guys that enjoy doing something
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=568s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=568s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=568&q=12)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=568&q=12) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=568&q=12&slack=1)</small>
 
 **13. Jordan Ott — "We have to continually get better and prove yourself. That's why it's the most competitive basketball league." — Jordan Ott on assessing his own development as a head coach** [09:56](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=596s)
 
@@ -106,4 +106,4 @@ Jordan Ott: "We'll see. I think a little bit is we'll see, you know, you got to 
 
 [https://www.youtube.com/watch?v=OP7GEcWIfSk&t=596s](https://www.youtube.com/watch?v=OP7GEcWIfSk&t=596s)
 
-<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=596&q=13)</small>
+<small>[Clip it](presserclips://clip?v=OP7GEcWIfSk&t=596&q=13) · [Send to Slack](presserclips://clip?v=OP7GEcWIfSk&t=596&q=13&slack=1)</small>

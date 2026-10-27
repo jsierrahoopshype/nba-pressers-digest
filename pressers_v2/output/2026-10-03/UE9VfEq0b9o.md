@@ -10,7 +10,7 @@ Jaylon Tyson: "I came in with great energy. Obviously making shots helps, and ju
 
 [https://www.youtube.com/watch?v=UE9VfEq0b9o&t=10s](https://www.youtube.com/watch?v=UE9VfEq0b9o&t=10s)
 
-<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=10&q=1) · [Send to Slack](presserclips://clip?v=UE9VfEq0b9o&t=10&q=1&slack=1)</small>
 
 **2. Jaylon Tyson — "I feel stronger, but I also feel like I'm moving better." — Jaylon Tyson on his physical development and diet changes** [00:42](https://www.youtube.com/watch?v=UE9VfEq0b9o&t=42s)
 
@@ -18,7 +18,7 @@ Jaylon Tyson: "I feel stronger, but I also feel like I'm moving better. So it's 
 
 [https://www.youtube.com/watch?v=UE9VfEq0b9o&t=42s](https://www.youtube.com/watch?v=UE9VfEq0b9o&t=42s)
 
-<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=42&q=2) · [Send to Slack](presserclips://clip?v=UE9VfEq0b9o&t=42&q=2&slack=1)</small>
 
 **3. Jaylon Tyson — "The only thing that really changed was eating more vegetables and need more cleaner." — Jaylon Tyson on his dietary adjustments and vegetable intake** [01:52](https://www.youtube.com/watch?v=UE9VfEq0b9o&t=112s)
 
@@ -26,7 +26,7 @@ Jaylon Tyson: "I never had really a bad diet. I'm not really a big fast food guy
 
 [https://www.youtube.com/watch?v=UE9VfEq0b9o&t=112s](https://www.youtube.com/watch?v=UE9VfEq0b9o&t=112s)
 
-<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=112&q=3)</small>
+<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=112&q=3) · [Send to Slack](presserclips://clip?v=UE9VfEq0b9o&t=112&q=3&slack=1)</small>
 
 **4. Jaylon Tyson — "He told me straight up, I had a great year. Obviously playoffs didn't go how I wanted." — Jaylon Tyson on Kenny Atkinson's expectations for his development** [02:28](https://www.youtube.com/watch?v=UE9VfEq0b9o&t=148s)
 
@@ -34,4 +34,4 @@ Jaylon Tyson: "He told me straight up, he told me I had a great year. Obviously 
 
 [https://www.youtube.com/watch?v=UE9VfEq0b9o&t=148s](https://www.youtube.com/watch?v=UE9VfEq0b9o&t=148s)
 
-<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=148&q=4)</small>
+<small>[Clip it](presserclips://clip?v=UE9VfEq0b9o&t=148&q=4) · [Send to Slack](presserclips://clip?v=UE9VfEq0b9o&t=148&q=4&slack=1)</small>

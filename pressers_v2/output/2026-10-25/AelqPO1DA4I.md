@@ -10,7 +10,7 @@ Brandon Miller: "I would say just the fight that we have. Obviously every game i
 
 [https://www.youtube.com/watch?v=AelqPO1DA4I&t=23s](https://www.youtube.com/watch?v=AelqPO1DA4I&t=23s)
 
-<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=23&q=1)</small>
+<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=23&q=1) · [Send to Slack](presserclips://clip?v=AelqPO1DA4I&t=23&q=1&slack=1)</small>
 
 **2. Brandon Miller — "start this half just like how we start the first half" — Brandon Miller on maintaining focus and limiting turnovers** [01:13](https://www.youtube.com/watch?v=AelqPO1DA4I&t=73s)
 
@@ -18,7 +18,7 @@ Brandon Miller: "I think like Naz was saying, it was just 100-100, 0-0. Start th
 
 [https://www.youtube.com/watch?v=AelqPO1DA4I&t=73s](https://www.youtube.com/watch?v=AelqPO1DA4I&t=73s)
 
-<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=73&q=2) · [Send to Slack](presserclips://clip?v=AelqPO1DA4I&t=73&q=2&slack=1)</small>
 
 **3. Brandon Miller — "seeing some easy ones go through the rim first, trying not to force it" — Brandon Miller on his offensive progression and decision making** [01:53](https://www.youtube.com/watch?v=AelqPO1DA4I&t=113s)
 
@@ -26,7 +26,7 @@ Brandon Miller: "I think like you said, just the small things. Seeing some easy 
 
 [https://www.youtube.com/watch?v=AelqPO1DA4I&t=113s](https://www.youtube.com/watch?v=AelqPO1DA4I&t=113s)
 
-<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=113&q=3)</small>
+<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=113&q=3) · [Send to Slack](presserclips://clip?v=AelqPO1DA4I&t=113&q=3&slack=1)</small>
 
 **4. Brandon Miller — "they are a big piece of what we are building here" — Brandon Miller on the leadership of veteran teammates** [02:16](https://www.youtube.com/watch?v=AelqPO1DA4I&t=136s)
 
@@ -34,7 +34,7 @@ Brandon Miller: "I think they are a big piece of what we are building here. Thos
 
 [https://www.youtube.com/watch?v=AelqPO1DA4I&t=136s](https://www.youtube.com/watch?v=AelqPO1DA4I&t=136s)
 
-<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=136&q=4)</small>
+<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=136&q=4) · [Send to Slack](presserclips://clip?v=AelqPO1DA4I&t=136&q=4&slack=1)</small>
 
 **5. Brandon Miller — "I applaud the guys just for bouncing back off a loss like that" — Brandon Miller on the team's response to early season losses** [03:02](https://www.youtube.com/watch?v=AelqPO1DA4I&t=182s)
 
@@ -42,4 +42,4 @@ Brandon Miller: "I think just the response. Obviously yesterday was not our bask
 
 [https://www.youtube.com/watch?v=AelqPO1DA4I&t=182s](https://www.youtube.com/watch?v=AelqPO1DA4I&t=182s)
 
-<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=182&q=5)</small>
+<small>[Clip it](presserclips://clip?v=AelqPO1DA4I&t=182&q=5) · [Send to Slack](presserclips://clip?v=AelqPO1DA4I&t=182&q=5&slack=1)</small>

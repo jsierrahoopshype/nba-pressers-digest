@@ -10,7 +10,7 @@ Coach Sweeney: "I love the way the ball moved. I thought we did a really good jo
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=4s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=4s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=4&q=1) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=4&q=1&slack=1)</small>
 
 **2. Coach Sweeney — "I thought their aggressiveness was great. Both those guys have the ability to make plays in different areas" — Coach Sweeney on the aggressive play of Paolo Banchero and Jalen Suggs** [00:36](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=36s)
 
@@ -18,7 +18,7 @@ Coach Sweeney: "I thought their aggressiveness was great. Both those guys have t
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=36s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=36s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=36&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=36&q=2) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=36&q=2&slack=1)</small>
 
 **3. Coach Sweeney — "I thought he was really good in terms of his consistent effort, consistent disposition throughout the game" — Coach Sweeney on Jalen Suggs' impact and consistent effort** [01:02](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=62s)
 
@@ -26,7 +26,7 @@ Coach Sweeney: "I thought he was really good in terms of his consistent effort, 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=62s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=62s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=62&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=62&q=3) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=62&q=3&slack=1)</small>
 
 **4. Coach Sweeney — "We made it a point of emphasis to go to the boards on both ends" — Coach Sweeney on the team's rebounding and second-chance points** [01:32](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=92s)
 
@@ -34,7 +34,7 @@ Coach Sweeney: "We made it a point of emphasis to go to the boards on both ends 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=92s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=92s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=92&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=92&q=4) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=92&q=4&slack=1)</small>
 
 **5. Coach Sweeney — "He's done a really nice job on both ends. Tristan, I think in each of the three preseason games" — Coach Sweeney on Tristan da Silva's development and shooting** [02:05](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=125s)
 
@@ -42,7 +42,7 @@ Coach Sweeney: "He's done a really nice job on both ends. Tristan, I think in ea
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=125s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=125s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=125&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=125&q=5) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=125&q=5&slack=1)</small>
 
 **6. Coach Sweeney — "We're still trying to get that foundation in place and then add layers to it" — Coach Sweeney on the team's ongoing development and foundation** [02:41](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=161s)
 
@@ -50,7 +50,7 @@ Coach Sweeney: "We're still trying to get that foundation in place and then add 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=161s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=161s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=161&q=6)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=161&q=6) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=161&q=6&slack=1)</small>
 
 **7. Coach Sweeney — "What's the most he can take? I mean that to me is a number for him" — Coach Sweeney on Tristan da Silva's shooting volume** [03:05](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=185s)
 
@@ -58,7 +58,7 @@ Coach Sweeney: "What's the most he can take? I mean that to me is a number for h
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=185s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=185s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=185&q=7)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=185&q=7) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=185&q=7&slack=1)</small>
 
 **8. Paolo Banchero — "I thought the ball was moving really well. Thought we played fast and then defensively just contesting" — Paolo Banchero on team ball movement and defensive intensity** [03:48](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=228s)
 
@@ -66,7 +66,7 @@ Paolo Banchero: "I thought the ball was moving really well. Thought we played fa
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=228s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=228s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=228&q=8)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=228&q=8) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=228&q=8&slack=1)</small>
 
 **9. Paolo Banchero — "Thought we were physical both ends of the court and the ball was moving" — Paolo Banchero on the starting unit's chemistry** [04:11](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=251s)
 
@@ -74,7 +74,7 @@ Paolo Banchero: "Thought we were physical both ends of the court and the ball wa
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=251s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=251s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=251&q=9)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=251&q=9) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=251&q=9&slack=1)</small>
 
 **10. Paolo Banchero — "Just being aggressive both of us, looking for each other and trying to lead the way" — Paolo Banchero on setting the tone with Jalen Suggs** [04:36](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=276s)
 
@@ -82,7 +82,7 @@ Paolo Banchero: "Just being aggressive both of us, looking for each other and tr
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=276s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=276s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=276&q=10)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=276&q=10) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=276&q=10&slack=1)</small>
 
 **11. Paolo Banchero — "Everybody's been picking it up pretty well. We've put in a lot of time and just working" — Paolo Banchero on team comfort and execution in the offense** [05:17](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=317s)
 
@@ -90,7 +90,7 @@ Paolo Banchero: "Everybody's been picking it up pretty well. We've put in a lot 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=317s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=317s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=317&q=11)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=317&q=11) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=317&q=11&slack=1)</small>
 
 **12. Paolo Banchero — "He's always been this player in my eyes, so that's what we want him to do" — Paolo Banchero on the consistency and efficiency of Jalen Suggs** [06:03](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=363s)
 
@@ -98,7 +98,7 @@ Paolo Banchero: "Honestly, he's just being himself. He's always been this player
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=363s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=363s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=363&q=12)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=363&q=12) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=363&q=12&slack=1)</small>
 
 **13. Paolo Banchero — "I think coach has done a great job of just using all five guys on the floor" — Paolo Banchero on the team's new system and collective involvement** [06:34](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=394s)
 
@@ -106,7 +106,7 @@ Paolo Banchero: "I think coach has done a great job of just using all five guys 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=394s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=394s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=394&q=13)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=394&q=13) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=394&q=13&slack=1)</small>
 
 **14. Jalen Suggs — "I think we kept it pretty simple. I think that's the beauty about what we're doing" — Jalen Suggs on the team's simple and effective offensive execution** [07:27](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=447s)
 
@@ -114,7 +114,7 @@ Jalen Suggs: "I think we kept it pretty simple. I think that's the beauty about 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=447s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=447s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=447&q=14)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=447&q=14) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=447&q=14&slack=1)</small>
 
 **15. Jalen Suggs — "I was pretty eager to get back out on the court. It was a bit hard" — Jalen Suggs on returning to the court after preseason absence** [08:30](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=510s)
 
@@ -122,7 +122,7 @@ Jalen Suggs: "I was pretty eager to get back out on the court. Like I said, it w
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=510s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=510s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=510&q=15)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=510&q=15) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=510&q=15&slack=1)</small>
 
 **16. Jalen Suggs — "Moving the ball, moving our bodies, sprinting, like I said, pace, sprinting in and out of screens" — Jalen Suggs on the team's offensive flow and ball movement** [09:19](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=559s)
 
@@ -130,7 +130,7 @@ Jalen Suggs: "Moving the ball, moving our bodies, sprinting, like I said, pace, 
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=559s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=559s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=559&q=16)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=559&q=16) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=559&q=16&slack=1)</small>
 
 **17. Jalen Suggs — "Paolo is always been high level. He's a smart basketball player. Handles always been really elite" — Jalen Suggs on Paolo Banchero's playmaking and high-level performance** [10:35](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=635s)
 
@@ -138,4 +138,4 @@ Jalen Suggs: "Paolo is always been high level. He's a smart basketball player. H
 
 [https://www.youtube.com/watch?v=kmGJKKA0XlY&t=635s](https://www.youtube.com/watch?v=kmGJKKA0XlY&t=635s)
 
-<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=635&q=17)</small>
+<small>[Clip it](presserclips://clip?v=kmGJKKA0XlY&t=635&q=17) · [Send to Slack](presserclips://clip?v=kmGJKKA0XlY&t=635&q=17&slack=1)</small>

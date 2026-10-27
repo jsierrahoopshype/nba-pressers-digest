@@ -10,7 +10,7 @@ Darko Rajakovic: "It's a part of the game. It's not the first time that happened
 
 [https://www.youtube.com/watch?v=quYCMorgMbE&t=9s](https://www.youtube.com/watch?v=quYCMorgMbE&t=9s)
 
-<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=9&q=1) · [Send to Slack](presserclips://clip?v=quYCMorgMbE&t=9&q=1&slack=1)</small>
 
 **2. Darko Rajakovic — "I don't think they did anything to be honest with you that they got him off the game" — Darko Rajakovic on Scotty Barnes' performance against Minnesota** [00:42](https://www.youtube.com/watch?v=quYCMorgMbE&t=42s)
 
@@ -18,7 +18,7 @@ Darko Rajakovic: "I don't think they did anything to be honest with you that the
 
 [https://www.youtube.com/watch?v=quYCMorgMbE&t=42s](https://www.youtube.com/watch?v=quYCMorgMbE&t=42s)
 
-<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=42&q=2) · [Send to Slack](presserclips://clip?v=quYCMorgMbE&t=42&q=2&slack=1)</small>
 
 **3. Darko Rajakovic — "He was himself, he was aggressive, we continued looking for him at the three-point line" — Darko Rajakovic evaluates Jacob's performance and aggression** [01:04](https://www.youtube.com/watch?v=quYCMorgMbE&t=64s)
 
@@ -26,7 +26,7 @@ Darko Rajakovic: "**Jacob**, he started the game, he missed a couple of shots. A
 
 [https://www.youtube.com/watch?v=quYCMorgMbE&t=64s](https://www.youtube.com/watch?v=quYCMorgMbE&t=64s)
 
-<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=64&q=3)</small>
+<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=64&q=3) · [Send to Slack](presserclips://clip?v=quYCMorgMbE&t=64&q=3&slack=1)</small>
 
 **4. Darko Rajakovic — "We did some good stuff, we just did not make shots" — Darko Rajakovic on team growth and shooting struggles** [01:26](https://www.youtube.com/watch?v=quYCMorgMbE&t=86s)
 
@@ -34,7 +34,7 @@ Darko Rajakovic: "It's a game three of the season. It's a great opportunity for 
 
 [https://www.youtube.com/watch?v=quYCMorgMbE&t=86s](https://www.youtube.com/watch?v=quYCMorgMbE&t=86s)
 
-<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=86&q=4)</small>
+<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=86&q=4) · [Send to Slack](presserclips://clip?v=quYCMorgMbE&t=86&q=4&slack=1)</small>
 
 **5. Darko Rajakovic — "He's going to go through further testing tomorrow and we will know more after that" — Darko Rajakovic on Kawhi Leonard's injury status** [02:01](https://www.youtube.com/watch?v=quYCMorgMbE&t=121s)
 
@@ -42,4 +42,4 @@ Darko Rajakovic: "He's going to go through further testing tomorrow and we will 
 
 [https://www.youtube.com/watch?v=quYCMorgMbE&t=121s](https://www.youtube.com/watch?v=quYCMorgMbE&t=121s)
 
-<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=121&q=5)</small>
+<small>[Clip it](presserclips://clip?v=quYCMorgMbE&t=121&q=5) · [Send to Slack](presserclips://clip?v=quYCMorgMbE&t=121&q=5&slack=1)</small>

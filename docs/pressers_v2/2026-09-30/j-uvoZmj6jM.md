@@ -10,7 +10,7 @@ Luguentz Dort: "I don't think I've learned anything different. I feel like for y
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=66s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=66s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=66&q=1)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=66&q=1) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=66&q=1&slack=1)</small>
 
 **2. Mark Daigneault — "he puts the horsepower of the work behind everything he does" — Mark Daigneault praises the work ethic of a player.** [03:04](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=184s)
 
@@ -18,7 +18,7 @@ Mark Daigneault: "Great worker. We have a team full of great workers and he fits
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=184s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=184s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=184&q=2)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=184&q=2) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=184&q=2&slack=1)</small>
 
 **3. Mark Daigneault — "he's to the point now where he's taking on primary matchups for us" — Mark Daigneault says a player is now taking on primary defensive matchups.** [05:35](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=335s)
 
@@ -26,7 +26,7 @@ Mark Daigneault: "We'll see. He's had a great off-season. First of all he had a 
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=335s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=335s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=335&q=3)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=335&q=3) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=335&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "he's obviously one of the giants of the game" — Mark Daigneault congratulates Russell Westbrook on his career.** [10:24](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=624s)
 
@@ -34,4 +34,4 @@ Mark Daigneault: "Congrats to him on an unbelievable first ballot career. He's o
 
 [https://www.youtube.com/watch?v=j-uvoZmj6jM&t=624s](https://www.youtube.com/watch?v=j-uvoZmj6jM&t=624s)
 
-<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=624&q=4)</small>
+<small>[Clip it](presserclips://clip?v=j-uvoZmj6jM&t=624&q=4) · [Send to Slack](presserclips://clip?v=j-uvoZmj6jM&t=624&q=4&slack=1)</small>

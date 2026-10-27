@@ -10,7 +10,7 @@ Donovan Mitchell: "The biggest thing for myself is continue to be a good leader.
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=127s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=127s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=127&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=127&q=1) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=127&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "Mario is strong, very strong, gets downhill, can defend, can hold his own in the paint" — Donovan Mitchell on Mario Hezonja's impact on the Cavaliers** [02:49](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=169s)
 
@@ -18,7 +18,7 @@ Donovan Mitchell: "Mario, I love Mario. He is Croatian and I played with his Cro
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=169s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=169s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=169&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=169&q=2) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=169&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "I think Michael Jordan. I think Michael Jordan for sure." — Donovan Mitchell names Michael Jordan as the greatest player ever** [03:40](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=220s)
 
@@ -26,7 +26,7 @@ Donovan Mitchell: "I think **Michael Jordan**. I think **Michael Jordan** for su
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=220s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=220s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=220&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=220&q=3) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=220&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "adding a guy like Peyton Watson changes us in a major way" — Donovan Mitchell on the defensive potential of the Cavaliers** [05:46](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=346s)
 
@@ -34,7 +34,7 @@ Donovan Mitchell: "I think the biggest thing is our length, our versatility. Add
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=346s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=346s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=346&q=4)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=346&q=4) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=346&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "Na'Qwan and I talked a lot this summer. I have sent him a lot of graphs" — Donovan Mitchell on his mentorship of teammate Na'Qwan Tomlin** [08:56](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=536s)
 
@@ -42,4 +42,4 @@ Donovan Mitchell: "Na'Qwan and I talked a lot this summer. I have sent him a lot
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=536s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=536s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=536&q=5)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=536&q=5) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=536&q=5&slack=1)</small>

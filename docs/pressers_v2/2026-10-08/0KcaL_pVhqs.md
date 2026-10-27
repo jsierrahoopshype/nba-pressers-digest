@@ -10,7 +10,7 @@ Rick Carlisle: "For the record, I was at the game at Purdue last year when Iowa 
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=30s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=30s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=30&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=30&q=1) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=30&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "I thought Tyrese did great. You got to remember, this has been what, 16 months?" — Rick Carlisle evaluates Tyrese Haliburton's return from injury** [01:25](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=85s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "I thought Tyrese did great. You got to remember, this has been w
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=85s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=85s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=85&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=85&q=2) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=85&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "Walker had a very impactful game. He was the biggest plus on the team." — Rick Carlisle praises Jarace Walker's impactful performance** [02:02](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=122s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "Walker had a very impactful game. He was the biggest plus on the
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=122s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=122s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=122&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=122&q=3) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=122&q=3&slack=1)</small>
 
 **4. Rick Carlisle — "I like when he does basic things very well. Rebounding the ball with two hands." — Rick Carlisle on Jarace Walker's fundamental skill development** [02:58](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=178s)
 
@@ -34,7 +34,7 @@ Rick Carlisle: "I like when he does basic things very well. Rebounding the ball 
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=178s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=178s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=178&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=178&q=4) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=178&q=4&slack=1)</small>
 
 **5. Rick Carlisle — "It would be consistency. It is a pretty devastating situation to have it happen the way it did." — Rick Carlisle on Tyrese Haliburton's consistency during recovery** [04:18](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=258s)
 
@@ -42,7 +42,7 @@ Rick Carlisle: "It would be consistency. It is a pretty devastating situation to
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=258s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=258s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=258&q=5)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=258&q=5) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=258&q=5&slack=1)</small>
 
 **6. Tyrese Haliburton — "When you miss some time and you come back, your timing and all those things have to get better." — Tyrese Haliburton on returning to play after injury** [08:34](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=514s)
 
@@ -50,7 +50,7 @@ Tyrese Haliburton: "When you miss some time and you come back, your timing and a
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=514s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=514s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=514&q=6)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=514&q=6) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=514&q=6&slack=1)</small>
 
 **7. Tyrese Haliburton — "My perspective on life, on basketball has changed a lot through this injury." — Tyrese Haliburton on his changed perspective on basketball** [10:17](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=617s)
 
@@ -58,7 +58,7 @@ Tyrese Haliburton: "My perspective on life, on basketball has changed a lot thro
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=617s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=617s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=617&q=7)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=617&q=7) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=617&q=7&slack=1)</small>
 
 **8. Tyrese Haliburton — "I still don't really understand the reason. I am a little dumbfounded." — Tyrese Haliburton reacts to Braden Smith being heckled** [13:00](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=780s)
 
@@ -66,7 +66,7 @@ Tyrese Haliburton: "I still don't really understand the reason. I am a little du
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=780s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=780s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=780&q=8)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=780&q=8) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=780&q=8&slack=1)</small>
 
 **9. Tyrese Haliburton — "I think we all kind of feel like they thought our draft class was going to be terrible." — Tyrese Haliburton on the 2020 NBA Draft class** [14:07](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=847s)
 
@@ -74,4 +74,4 @@ Tyrese Haliburton: "I think we all kind of feel like they thought our draft clas
 
 [https://www.youtube.com/watch?v=0KcaL_pVhqs&t=847s](https://www.youtube.com/watch?v=0KcaL_pVhqs&t=847s)
 
-<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=847&q=9)</small>
+<small>[Clip it](presserclips://clip?v=0KcaL_pVhqs&t=847&q=9) · [Send to Slack](presserclips://clip?v=0KcaL_pVhqs&t=847&q=9&slack=1)</small>

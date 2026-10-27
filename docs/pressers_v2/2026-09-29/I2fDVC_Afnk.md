@@ -10,7 +10,7 @@ Steve Kerr: "Mike called me last night to tell me the news. It was surprising, b
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=104s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=104s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=104&q=1)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=104&q=1) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=104&q=1&slack=1)</small>
 
 **2. Steve Kerr — Steve Kerr says he will wait two weeks before deciding on the starting lineup.** [03:26](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s)
 
@@ -18,7 +18,7 @@ Steve Kerr: "I've got an idea in my head of what we're going to be doing. As I s
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=206&q=2)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=206&q=2) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=206&q=2&slack=1)</small>
 
 **3. Steve Kerr — Steve Kerr plans to use the entire roster and two-way players this season.** [04:56](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s)
 
@@ -26,7 +26,7 @@ Steve Kerr: "We added guys this year who I think are going to give us a lot of d
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=296&q=3)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=296&q=3) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=296&q=3&slack=1)</small>
 
 **4. Steve Kerr — Steve Kerr says the team must improve efficiency and reduce turnovers this season.** [08:35](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s)
 
@@ -34,7 +34,7 @@ Steve Kerr: "We have to reimagine our team this year. We can't be 28th in turnov
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=515&q=4)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=515&q=4) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=515&q=4&slack=1)</small>
 
 **5. Steve Kerr — Steve Kerr calls the addition of Frank Vogel to the coaching staff a coup.** [16:54](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s)
 
@@ -42,7 +42,7 @@ Steve Kerr: "Adding Frank Vogel was a coup for us. He's one of the great defensi
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1014&q=5)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1014&q=5) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1014&q=5&slack=1)</small>
 
 **6. Steve Kerr — Steve Kerr says the team signed Brandon Williams to provide speed and quickness.** [21:38](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s)
 
@@ -50,7 +50,7 @@ Steve Kerr: "One of the reasons frankly we signed Brandon Williams, we felt like
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1298&q=6)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1298&q=6) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1298&q=6&slack=1)</small>
 
 **7. Steve Kerr — Steve Kerr says the team is changing its practice and teaching methods.** [26:33](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s)
 
@@ -58,7 +58,7 @@ Steve Kerr: "I don't think it necessarily means more timeouts. I think it means 
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1593&q=7)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1593&q=7) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1593&q=7&slack=1)</small>
 
 **8. Steve Kerr — Steve Kerr says he allows Steph Curry and Draymond Green six turnovers combined.** [27:53](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s)
 
@@ -66,4 +66,4 @@ Steve Kerr: "My main punishment this year is I've always told Steph and Draymond
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1673&q=8)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1673&q=8) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1673&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ Jarrett Allen: "His passing ability. He's an incredible passer, especially in tr
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=59s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=59s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=59&q=1)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=59&q=1) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=59&q=1&slack=1)</small>
 
 **2. Jarrett Allen — "If he helps up the help, I need to have his back immediately." — Jarrett Allen on team communication and defensive rotations** [01:24](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=84s)
 
@@ -18,7 +18,7 @@ Jarrett Allen: "Just communication, being on the same page. If he helps up the h
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=84s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=84s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=84&q=2)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=84&q=2) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=84&q=2&slack=1)</small>
 
 **3. Jarrett Allen — "They've been incredible in training camp and practice. They're aggressive on the wings." — Jarrett Allen on the impact of Mario Hezonja and Peyton Watson** [01:52](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=112s)
 
@@ -26,7 +26,7 @@ Jarrett Allen: "We added two great wings with **Mario Hezonja** and **Peyton Wat
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=112s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=112s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=112&q=3)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=112&q=3) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=112&q=3&slack=1)</small>
 
 **4. Jarrett Allen — "My job is to make sure people second-guess going to the paint." — Jarrett Allen on his defensive role of deterring shots** [02:49](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=169s)
 
@@ -34,7 +34,7 @@ Jarrett Allen: "Probably just deterring shots and deterring players from driving
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=169s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=169s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=169&q=4)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=169&q=4) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=169&q=4&slack=1)</small>
 
 **5. Jarrett Allen — "I think we have every single ability to be the best team in the Eastern Conference." — Jarrett Allen on the team's potential to be the best in the East** [03:45](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=225s)
 
@@ -42,7 +42,7 @@ Jarrett Allen: "I think we have every single ability to be the best team in the 
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=225s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=225s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=225&q=5)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=225&q=5) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=225&q=5&slack=1)</small>
 
 **6. Jarrett Allen — "You just have to understand their strengths and weaknesses." — Jarrett Allen on preparing for Victor Wembanyama and Nikola Jokic** [04:04](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=244s)
 
@@ -50,7 +50,7 @@ Jarrett Allen: "You just have to understand their strengths and weaknesses. They
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=244s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=244s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=244&q=6)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=244&q=6) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=244&q=6&slack=1)</small>
 
 **7. Jarrett Allen — "I hear the noise, I listen to it, I understand it, but I don't let it impact my life." — Jarrett Allen on ignoring trade rumors and noise** [05:01](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=301s)
 
@@ -58,7 +58,7 @@ Jarrett Allen: "At the end of the day, it's not my choice about where I want to 
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=301s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=301s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=301&q=7)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=301&q=7) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=301&q=7&slack=1)</small>
 
 **8. Jarrett Allen — "My playmaking ability comes when I catch the ball on the roll." — Jarrett Allen on his playmaking role in the offense** [06:01](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=361s)
 
@@ -66,7 +66,7 @@ Jarrett Allen: "My playmaking ability comes when I catch the ball on the roll an
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=361s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=361s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=361&q=8)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=361&q=8) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=361&q=8&slack=1)</small>
 
 **9. Jarrett Allen — "He came in with smiles on his face, ready to work." — Jarrett Allen on his impressions of Khalifa Diop** [06:35](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=395s)
 
@@ -74,7 +74,7 @@ Jarrett Allen: "I got to meet him and he seemed like a great guy. He came in wit
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=395s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=395s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=395&q=9)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=395&q=9) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=395&q=9&slack=1)</small>
 
 **10. Jarrett Allen — "Something that's impressed me is his ability on defense." — Jarrett Allen on Malik Thomas's defensive development** [07:33](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=453s)
 
@@ -82,7 +82,7 @@ Jarrett Allen: "Something that's impressed me is his ability on defense. He's tr
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=453s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=453s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=453&q=10)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=453&q=10) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=453&q=10&slack=1)</small>
 
 **11. Jarrett Allen — "His switchability and keeping a defender in front of him." — Jarrett Allen on Peyton Watson's defensive impact** [08:12](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=492s)
 
@@ -90,7 +90,7 @@ Jarrett Allen: "His switchability and keeping a defender in front of him. There'
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=492s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=492s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=492&q=11)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=492&q=11) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=492&q=11&slack=1)</small>
 
 **12. Jarrett Allen — "We have a lot of guys that are interchangeable." — Jarrett Allen on the team's defensive versatility** [08:53](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=533s)
 
@@ -98,7 +98,7 @@ Jarrett Allen: "We have a lot of guys that are interchangeable. A lot of the tim
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=533s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=533s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=533&q=12)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=533&q=12) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=533&q=12&slack=1)</small>
 
 **13. Jarrett Allen — "He's able to take a bump and still be able to go straight." — Jarrett Allen on Mario Hezonja's physical strength** [09:21](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=561s)
 
@@ -106,7 +106,7 @@ Jarrett Allen: "Very impactful. When he drives to the basket, people are bouncin
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=561s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=561s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=561&q=13)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=561&q=13) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=561&q=13&slack=1)</small>
 
 **14. Jarrett Allen — "It hasn't slowed him down. Even though he's so strong, he's still able to be quick." — Jarrett Allen on Mario Hezonja's physical transformation** [10:20](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=620s)
 
@@ -114,7 +114,7 @@ Jarrett Allen: "It hasn't slowed him down. Even though he's so strong and he has
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=620s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=620s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=620&q=14)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=620&q=14) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=620&q=14&slack=1)</small>
 
 **15. Jarrett Allen — "It just shows how locked in to the team, to the city, to everything he is." — Jarrett Allen on Donovan Mitchell's commitment to the team** [12:04](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=724s)
 
@@ -122,4 +122,4 @@ Jarrett Allen: "It just shows how locked in to the team, to the city, to everyth
 
 [https://www.youtube.com/watch?v=YlzKjyPfTQU&t=724s](https://www.youtube.com/watch?v=YlzKjyPfTQU&t=724s)
 
-<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=724&q=15)</small>
+<small>[Clip it](presserclips://clip?v=YlzKjyPfTQU&t=724&q=15) · [Send to Slack](presserclips://clip?v=YlzKjyPfTQU&t=724&q=15&slack=1)</small>

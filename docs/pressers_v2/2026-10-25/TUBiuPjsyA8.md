@@ -10,7 +10,7 @@ Quin Snyder: "We know how important the defensive boards are for us to get out a
 
 [https://www.youtube.com/watch?v=TUBiuPjsyA8&t=82s](https://www.youtube.com/watch?v=TUBiuPjsyA8&t=82s)
 
-<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=82&q=1)</small>
+<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=82&q=1) · [Send to Slack](presserclips://clip?v=TUBiuPjsyA8&t=82&q=1&slack=1)</small>
 
 **2. Quin Snyder — "Shepherd and Bogie's threes, those were some breakdowns we got to clean up." — Quin Snyder on defensive breakdowns against Jabari Smith Jr. and Dillon Brooks** [02:10](https://www.youtube.com/watch?v=TUBiuPjsyA8&t=130s)
 
@@ -18,7 +18,7 @@ Quin Snyder: "Shepherd and Bogie's threes, those were some breakdowns we got to 
 
 [https://www.youtube.com/watch?v=TUBiuPjsyA8&t=130s](https://www.youtube.com/watch?v=TUBiuPjsyA8&t=130s)
 
-<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=130&q=2)</small>
+<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=130&q=2) · [Send to Slack](presserclips://clip?v=TUBiuPjsyA8&t=130&q=2&slack=1)</small>
 
 **3. Quin Snyder — "He was having a tough shooting night and he stayed with it and eventually shots fall." — Quin Snyder on Aaron Holiday's impact off the bench** [03:06](https://www.youtube.com/watch?v=TUBiuPjsyA8&t=186s)
 
@@ -26,7 +26,7 @@ Quin Snyder: "We knew him as a player, that is one of the reasons that we were p
 
 [https://www.youtube.com/watch?v=TUBiuPjsyA8&t=186s](https://www.youtube.com/watch?v=TUBiuPjsyA8&t=186s)
 
-<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=186&q=3)</small>
+<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=186&q=3) · [Send to Slack](presserclips://clip?v=TUBiuPjsyA8&t=186&q=3&slack=1)</small>
 
 **4. Quin Snyder — "I thought Dyson did a good job. That is always the question, do you have him on the ball?" — Quin Snyder on Dyson Daniels' defensive performance against Kevin Durant** [04:30](https://www.youtube.com/watch?v=TUBiuPjsyA8&t=270s)
 
@@ -34,4 +34,4 @@ Quin Snyder: "I thought Dyson did a good job. That is always the question, do yo
 
 [https://www.youtube.com/watch?v=TUBiuPjsyA8&t=270s](https://www.youtube.com/watch?v=TUBiuPjsyA8&t=270s)
 
-<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=270&q=4)</small>
+<small>[Clip it](presserclips://clip?v=TUBiuPjsyA8&t=270&q=4) · [Send to Slack](presserclips://clip?v=TUBiuPjsyA8&t=270&q=4&slack=1)</small>

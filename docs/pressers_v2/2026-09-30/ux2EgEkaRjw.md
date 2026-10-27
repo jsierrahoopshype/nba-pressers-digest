@@ -10,7 +10,7 @@ Taylor Jenkins: "Right now we are kind of randomizing it. We are mixing it up. W
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=107s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=107s)
 
-<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=107&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=107&q=1) · [Send to Slack](presserclips://clip?v=ux2EgEkaRjw&t=107&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "I want to develop depth early in the season, so I want to play more guys" — Taylor Jenkins intends to utilize a deep rotation of at least 11 players this season.** [05:30](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "Not accounting preseason, probably 11, maybe stuck a 12 in ther
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s)
 
-<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=330&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=330&q=2) · [Send to Slack](presserclips://clip?v=ux2EgEkaRjw&t=330&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "Cormac has been in our system already for a year" — Taylor Jenkins praises the development and potential impact of Cormac and Cam.** [09:02](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s)
 
@@ -26,4 +26,4 @@ Taylor Jenkins: "**Cormac** has been in our system already for a year. Obviously
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s)
 
-<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=542&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=542&q=3) · [Send to Slack](presserclips://clip?v=ux2EgEkaRjw&t=542&q=3&slack=1)</small>

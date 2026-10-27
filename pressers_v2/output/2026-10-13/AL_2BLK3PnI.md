@@ -10,7 +10,7 @@ Zuby Ejiofor: "I think they utilize him a lot more as an offensive hub, you know
 
 [https://www.youtube.com/watch?v=AL_2BLK3PnI&t=15s](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=15s)
 
-<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=15&q=1) · [Send to Slack](presserclips://clip?v=AL_2BLK3PnI&t=15&q=1&slack=1)</small>
 
 **2. Zuby Ejiofor — "the biggest thing for me is learning. It's all a process and the NBA is all new." — Zuby Ejiofor on his transition to the NBA game** [00:55](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=55s)
 
@@ -18,7 +18,7 @@ Zuby Ejiofor: "The biggest thing for me is learning. It's all a process and the 
 
 [https://www.youtube.com/watch?v=AL_2BLK3PnI&t=55s](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=55s)
 
-<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=55&q=2)</small>
+<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=55&q=2) · [Send to Slack](presserclips://clip?v=AL_2BLK3PnI&t=55&q=2&slack=1)</small>
 
 **3. Zuby Ejiofor — "getting stops and getting kills and getting on transition, I think we're a great transition team." — Zuby Ejiofor on the Hawks' defensive identity** [01:42](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=102s)
 
@@ -26,7 +26,7 @@ Zuby Ejiofor: "I think that's the standard we're trying to set each and every ni
 
 [https://www.youtube.com/watch?v=AL_2BLK3PnI&t=102s](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=102s)
 
-<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=102&q=3)</small>
+<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=102&q=3) · [Send to Slack](presserclips://clip?v=AL_2BLK3PnI&t=102&q=3&slack=1)</small>
 
 **4. Zuby Ejiofor — "a great person that I would like to model myself as would be Aaron Gordon or OG Anunoby." — Zuby Ejiofor on modeling his game after Aaron Gordon and OG Anunoby** [02:22](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=142s)
 
@@ -34,7 +34,7 @@ Zuby Ejiofor: "A great person that I would like to model myself as would be **Aa
 
 [https://www.youtube.com/watch?v=AL_2BLK3PnI&t=142s](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=142s)
 
-<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=142&q=4)</small>
+<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=142&q=4) · [Send to Slack](presserclips://clip?v=AL_2BLK3PnI&t=142&q=4&slack=1)</small>
 
 **5. Zuby Ejiofor — "it's a learning process for me, you know, just I think it's important that I learn the game first." — Zuby Ejiofor on learning from teammates** [03:00](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=180s)
 
@@ -42,4 +42,4 @@ Zuby Ejiofor: "It's a learning process for me, you know, just I think it's impor
 
 [https://www.youtube.com/watch?v=AL_2BLK3PnI&t=180s](https://www.youtube.com/watch?v=AL_2BLK3PnI&t=180s)
 
-<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=180&q=5)</small>
+<small>[Clip it](presserclips://clip?v=AL_2BLK3PnI&t=180&q=5) · [Send to Slack](presserclips://clip?v=AL_2BLK3PnI&t=180&q=5&slack=1)</small>

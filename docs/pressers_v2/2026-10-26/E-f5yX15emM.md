@@ -10,7 +10,7 @@ Labaron Philon Jr.: "It felt good just being out there, competing with the guys,
 
 [https://www.youtube.com/watch?v=E-f5yX15emM&t=0s](https://www.youtube.com/watch?v=E-f5yX15emM&t=0s)
 
-<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=0&q=1) · [Send to Slack](presserclips://clip?v=E-f5yX15emM&t=0&q=1&slack=1)</small>
 
 **2. Labaron Philon Jr. — "trying to get up there and pressure, trying to make guys feel ball pressure and stuff like that" — Labaron Philon Jr. on his defensive impact and hustle plays** [00:40](https://www.youtube.com/watch?v=E-f5yX15emM&t=40s)
 
@@ -18,7 +18,7 @@ Labaron Philon Jr.: "I think I played really well. Just trying to get up there a
 
 [https://www.youtube.com/watch?v=E-f5yX15emM&t=40s](https://www.youtube.com/watch?v=E-f5yX15emM&t=40s)
 
-<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=40&q=2)</small>
+<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=40&q=2) · [Send to Slack](presserclips://clip?v=E-f5yX15emM&t=40&q=2&slack=1)</small>
 
 **3. Labaron Philon Jr. — "it is going to be adjustment for sure, but just staying calm and being physical back" — Labaron Philon Jr. on adjusting to the physicality of the Pistons** [01:21](https://www.youtube.com/watch?v=E-f5yX15emM&t=81s)
 
@@ -26,7 +26,7 @@ Labaron Philon Jr.: "They were really physical. I feel like every team we have p
 
 [https://www.youtube.com/watch?v=E-f5yX15emM&t=81s](https://www.youtube.com/watch?v=E-f5yX15emM&t=81s)
 
-<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=81&q=3) · [Send to Slack](presserclips://clip?v=E-f5yX15emM&t=81&q=3&slack=1)</small>
 
 **4. Labaron Philon Jr. — "just the way the days are and the games and stuff like that" — Labaron Philon Jr. on the adjustment from college to the NBA** [02:16](https://www.youtube.com/watch?v=E-f5yX15emM&t=136s)
 
@@ -34,7 +34,7 @@ Labaron Philon Jr.: "I would say just the way the days are and the games and stu
 
 [https://www.youtube.com/watch?v=E-f5yX15emM&t=136s](https://www.youtube.com/watch?v=E-f5yX15emM&t=136s)
 
-<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=136&q=4)</small>
+<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=136&q=4) · [Send to Slack](presserclips://clip?v=E-f5yX15emM&t=136&q=4&slack=1)</small>
 
 **5. Labaron Philon Jr. — "being a young guy for me and being around all these great players is definitely a thing" — Labaron Philon Jr. on learning from veteran teammates** [03:04](https://www.youtube.com/watch?v=E-f5yX15emM&t=184s)
 
@@ -42,7 +42,7 @@ Labaron Philon Jr.: "Being a young guy for me and being around all these great p
 
 [https://www.youtube.com/watch?v=E-f5yX15emM&t=184s](https://www.youtube.com/watch?v=E-f5yX15emM&t=184s)
 
-<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=184&q=5)</small>
+<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=184&q=5) · [Send to Slack](presserclips://clip?v=E-f5yX15emM&t=184&q=5&slack=1)</small>
 
 **6. Labaron Philon Jr. — "we need a lot more guys to come in and help rebounding" — Labaron Philon Jr. on team rebounding and defensive challenges** [04:41](https://www.youtube.com/watch?v=E-f5yX15emM&t=281s)
 
@@ -50,4 +50,4 @@ Labaron Philon Jr.: "My challenge, really just trying to impact the game on the 
 
 [https://www.youtube.com/watch?v=E-f5yX15emM&t=281s](https://www.youtube.com/watch?v=E-f5yX15emM&t=281s)
 
-<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=281&q=6)</small>
+<small>[Clip it](presserclips://clip?v=E-f5yX15emM&t=281&q=6) · [Send to Slack](presserclips://clip?v=E-f5yX15emM&t=281&q=6&slack=1)</small>

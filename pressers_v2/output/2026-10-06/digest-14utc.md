@@ -14,7 +14,7 @@ Chaz Lanier: "Just trying to continue to work on my game in every aspect and do 
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=7s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=7s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=7&q=1) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=7&q=1&slack=1)</small>
 
 **2. Chaz Lanier — "be sharp every play, no plays off, be aggressive" — Chaz Lanier on his defensive mindset and aggressive play** [00:24](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=24s)
 
@@ -22,7 +22,7 @@ Chaz Lanier: "Just be sharp every play, no plays off, be aggressive. Just like y
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=24s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=24s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=24&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=24&q=2) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=24&q=2&slack=1)</small>
 
 **3. Chaz Lanier — "you definitely for sure settle in a little bit more" — Chaz Lanier on the comfort of his second NBA season** [00:45](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=45s)
 
@@ -30,7 +30,7 @@ Chaz Lanier: "You definitely for sure settle in a little bit more. You just have
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=45s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=45s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=45&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=45&q=3) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=45&q=3&slack=1)</small>
 
 **4. Chaz Lanier — "I'm surrounded by a lot of great shooters" — Chaz Lanier on learning from veteran teammates** [01:09](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=69s)
 
@@ -38,7 +38,7 @@ Chaz Lanier: "I'm surrounded by a lot of great shooters. So every day we're shoo
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=69s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=69s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=69&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=69&q=4) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=69&q=4&slack=1)</small>
 
 **5. Chaz Lanier — "you can see, y'all can see, he's a bucket clearly, and he could play" — Chaz Lanier on the potential of teammate Abiola Abiodun** [01:37](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=97s)
 
@@ -46,7 +46,7 @@ Chaz Lanier: "Super impressed. You can see, y'all can see, he's a bucket clearly
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=97s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=97s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=97&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=97&q=5) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=97&q=5&slack=1)</small>
 
 ---
 
@@ -62,7 +62,7 @@ J.B. Bickerstaff: "He's a good player. He's highly intelligent, he understands t
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=14s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=14s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=14&q=1) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=14&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "being able to have multiple ball-handlers on the floor, multiple guys who can play at the point" — Benefits of playing multiple ball-handlers simultaneously** [00:44](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=44s)
 
@@ -70,7 +70,7 @@ J.B. Bickerstaff: "It depends on how teams are playing us, obviously, but being 
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=44s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=44s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=44&q=2) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=44&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "he's done a great job of picking up the things that we've been introducing" — Early training camp assessment of the rookie's development** [01:01](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=61s)
 
@@ -78,7 +78,7 @@ J.B. Bickerstaff: "He's done a great job of picking up the things that we've bee
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=61s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=61s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=61&q=3)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=61&q=3) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=61&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "he's got an opportunity to earn minutes through preseason" — How the rookie can earn rotation minutes in preseason** [01:26](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=86s)
 
@@ -86,7 +86,7 @@ J.B. Bickerstaff: "It's difficult obviously with just the amount of guys we have
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=86s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=86s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=86&q=4)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=86&q=4) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=86&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "the gravity that they have, and then that creates openings for everybody else" — Creating floor spacing through gravity and perimeter threats** [02:08](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=128s)
 
@@ -94,7 +94,7 @@ J.B. Bickerstaff: "It's obviously the gravity that they have, and then that crea
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=128s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=128s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=128&q=5)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=128&q=5) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=128&q=5&slack=1)</small>
 
 **6. J.B. Bickerstaff — "he grabs the young guys all the time, and he's having conversations with the young guys" — Veteran leadership and mentorship of younger players** [02:47](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=167s)
 
@@ -102,7 +102,7 @@ J.B. Bickerstaff: "He's a pro, he's a veteran, he's one of our most vocal guys. 
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=167s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=167s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=167&q=6)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=167&q=6) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=167&q=6&slack=1)</small>
 
 **7. J.B. Bickerstaff — "he's enjoyable to be around all the time. He's got a great positive spirit, great energy" — The importance of a positive veteran presence in the locker room** [03:33](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=213s)
 
@@ -110,7 +110,7 @@ J.B. Bickerstaff: "He is that way. He's enjoyable to be around all the time. He'
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=213s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=213s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=213&q=7)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=213&q=7) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=213&q=7&slack=1)</small>
 
 **8. J.B. Bickerstaff — "people are going to have to make an adjustment on how they defend him" — Adjusting defensive schemes to account for mid-range threats** [04:08](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=248s)
 
@@ -118,7 +118,7 @@ J.B. Bickerstaff: "People are going to have to make an adjustment on how they de
 
 [https://www.youtube.com/watch?v=F4ti6t0eTkI&t=248s](https://www.youtube.com/watch?v=F4ti6t0eTkI&t=248s)
 
-<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=248&q=8)</small>
+<small>[Clip it](presserclips://clip?v=F4ti6t0eTkI&t=248&q=8) · [Send to Slack](presserclips://clip?v=F4ti6t0eTkI&t=248&q=8&slack=1)</small>
 
 ---
 
@@ -136,7 +136,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=0s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=0s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=0&q=1) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=0&q=1&slack=1)</small>
 
 **2. Brandon Miller — "We feel like more teams are playing us more physical. When it comes down to the playoffs" — Brandon Miller on the importance of physicality in the NBA** [00:32](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=32s)
 
@@ -146,7 +146,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=32s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=32s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=32&q=2)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=32&q=2) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=32&q=2&slack=1)</small>
 
 **3. Brandon Miller — "You're playing a whole game physical, your body's not feeling the best. So just having things to lean on" — Brandon Miller on the mental and physical toll of NBA play** [01:18](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=78s)
 
@@ -156,7 +156,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=78s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=78s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=78&q=3)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=78&q=3) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=78&q=3&slack=1)</small>
 
 **4. Brandon Miller — "I don't ever single no one out. I think we do this as a whole. That's why we wear Charlotte Hornets" — Brandon Miller on team-wide contributions and Charlotte Hornets' identity** [01:39](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=99s)
 
@@ -166,7 +166,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=99s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=99s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=99&q=4)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=99&q=4) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=99&q=4&slack=1)</small>
 
 **5. Brandon Miller — "I think just leading more vocally. My voice is being heard around the building here." — Brandon Miller on his growing leadership role with the Hornets** [02:19](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=139s)
 
@@ -176,7 +176,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=139s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=139s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=139&q=5)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=139&q=5) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=139&q=5&slack=1)</small>
 
 ---
 
@@ -192,7 +192,7 @@ Dylan Harper: "Just continuity with the team. Obviously the same team, but diffe
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=4s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=4s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=4&q=1) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=4&q=1&slack=1)</small>
 
 **2. Dylan Harper — "Obviously it's not so you can hide from. People around are going to tell you." — Dylan Harper on handling increased media attention and expectations** [01:07](https://www.youtube.com/watch?v=AzNV6snJyrk&t=67s)
 
@@ -200,7 +200,7 @@ Dylan Harper: "Obviously it's not so you can hide from. People around are going 
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=67s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=67s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=67&q=2)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=67&q=2) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=67&q=2&slack=1)</small>
 
 **3. Dylan Harper — "I'm blessed to be out here and getting in shape really." — Dylan Harper on physical conditioning during training camp** [02:00](https://www.youtube.com/watch?v=AzNV6snJyrk&t=120s)
 
@@ -208,7 +208,7 @@ Dylan Harper: "I couldn't do no live contact training camp one. So I mean traini
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=120s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=120s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=120&q=3)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=120&q=3) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=120&q=3&slack=1)</small>
 
 **4. Dylan Harper — "I think leading up to the NBA Cup, I think our stacking wins obviously we had people out." — Dylan Harper on the team's shift in mindset during the NBA Cup** [02:28](https://www.youtube.com/watch?v=AzNV6snJyrk&t=148s)
 
@@ -216,7 +216,7 @@ Dylan Harper: "I think leading up to the NBA Cup, I think our stacking wins obvi
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=148s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=148s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=148&q=4)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=148&q=4) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=148&q=4&slack=1)</small>
 
 **5. Dylan Harper — "Having a voice, being a leader, that's the biggest thing." — Dylan Harper on his evolving role as a leader** [03:00](https://www.youtube.com/watch?v=AzNV6snJyrk&t=180s)
 
@@ -224,7 +224,7 @@ Dylan Harper: "Having a voice, being a leader, that's the biggest thing. Just ha
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=180s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=180s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=180&q=5)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=180&q=5) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=180&q=5&slack=1)</small>
 
 **6. Dylan Harper — "Julian is great. I feel like he's Swiss Army knife." — Dylan Harper on Julian Champagnie's versatility and value to the team** [03:28](https://www.youtube.com/watch?v=AzNV6snJyrk&t=208s)
 
@@ -232,7 +232,7 @@ Dylan Harper: "**Julian** is great. I feel like he's Swiss Army knife. He gives 
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=208s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=208s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=208&q=6)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=208&q=6) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=208&q=6&slack=1)</small>
 
 **7. Julian Champagnie — "Terrance and Kobe. Kobe was actually singing and I feel like Terrance was the best performer." — Julian Champagnie on the rookie karaoke competition** [05:36](https://www.youtube.com/watch?v=AzNV6snJyrk&t=336s)
 
@@ -240,7 +240,7 @@ Julian Champagnie: "**Terrance** and **Kobe**. **Kobe** was actually singing and
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=336s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=336s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=336&q=7)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=336&q=7) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=336&q=7&slack=1)</small>
 
 **8. Julian Champagnie — "I base a lot of my outside of basketball stuff on is just getting involved." — Julian Champagnie on the importance of fan and community engagement** [06:02](https://www.youtube.com/watch?v=AzNV6snJyrk&t=362s)
 
@@ -248,7 +248,7 @@ Julian Champagnie: "I base a lot of my outside of basketball stuff on is just ge
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=362s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=362s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=362&q=8)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=362&q=8) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=362&q=8&slack=1)</small>
 
 **9. Julian Champagnie — "It's a game, how it goes. Obviously we need him healthy." — Julian Champagnie on Tobias Harris's injury and team adjustments** [06:24](https://www.youtube.com/watch?v=AzNV6snJyrk&t=384s)
 
@@ -256,7 +256,7 @@ Julian Champagnie: "It's a game, how it goes. Obviously we need him healthy. He'
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=384s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=384s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=384&q=9)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=384&q=9) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=384&q=9&slack=1)</small>
 
 **10. Julian Champagnie — "Just build the continuity, continue to, you know, build the team chemistry." — Julian Champagnie on building team chemistry during preseason** [07:38](https://www.youtube.com/watch?v=AzNV6snJyrk&t=458s)
 
@@ -264,7 +264,7 @@ Julian Champagnie: "Just build the continuity, continue to, you know, build the 
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=458s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=458s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=458&q=10)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=458&q=10) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=458&q=10&slack=1)</small>
 
 **11. Julian Champagnie — "I don't think it matters. We could have this thing starting lineup all year." — Julian Champagnie on the irrelevance of preseason starting lineups** [07:53](https://www.youtube.com/watch?v=AzNV6snJyrk&t=473s)
 
@@ -272,7 +272,7 @@ Julian Champagnie: "I don't think it matters. We could have this thing starting 
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=473s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=473s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=473&q=11)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=473&q=11) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=473&q=11&slack=1)</small>
 
 **12. Julian Champagnie — "I think Carter is going to be, you know, better than he was last year." — Julian Champagnie on expectations for the upcoming season** [08:33](https://www.youtube.com/watch?v=AzNV6snJyrk&t=513s)
 
@@ -280,7 +280,7 @@ Julian Champagnie: "I think **Carter** is going to be, you know, better than he 
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=513s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=513s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=513&q=12)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=513&q=12) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=513&q=12&slack=1)</small>
 
 **13. Julian Champagnie — "Dillon is just confident. I think that obviously he came in the league last year." — Julian Champagnie on Dillon's confidence and development** [09:03](https://www.youtube.com/watch?v=AzNV6snJyrk&t=543s)
 
@@ -288,7 +288,7 @@ Julian Champagnie: "**Dillon** is just confident. I think that obviously he came
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=543s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=543s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=543&q=13)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=543&q=13) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=543&q=13&slack=1)</small>
 
 **14. Julian Champagnie — "I feel like we always had the potential to be a team last year." — Julian Champagnie on the team's turnaround last season** [09:37](https://www.youtube.com/watch?v=AzNV6snJyrk&t=577s)
 
@@ -296,7 +296,7 @@ Julian Champagnie: "I feel like we always had the potential to be a team last ye
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=577s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=577s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=577&q=14)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=577&q=14) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=577&q=14&slack=1)</small>
 
 **15. Julian Champagnie — "It changed my warm up and how I stay ready off the bench." — Julian Champagnie on how his role affects his preparation** [10:15](https://www.youtube.com/watch?v=AzNV6snJyrk&t=615s)
 
@@ -304,7 +304,7 @@ Julian Champagnie: "It changed my warm up and how I stay ready off the bench. Bu
 
 [https://www.youtube.com/watch?v=AzNV6snJyrk&t=615s](https://www.youtube.com/watch?v=AzNV6snJyrk&t=615s)
 
-<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=615&q=15)</small>
+<small>[Clip it](presserclips://clip?v=AzNV6snJyrk&t=615&q=15) · [Send to Slack](presserclips://clip?v=AzNV6snJyrk&t=615&q=15&slack=1)</small>
 
 ---
 

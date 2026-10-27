@@ -10,7 +10,7 @@ Jalen Williams: "Anytime you can get real game experience and especially crunch 
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=14s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=14s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=14&q=1) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=14&q=1&slack=1)</small>
 
 **2. Jalen Williams — "He is the ultimate pro. He is super mature, influencing the guys with the blue, even me." — Jalen Williams on Zaire Williams' veteran influence on the Thunder** [00:53](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=53s)
 
@@ -18,7 +18,7 @@ Jalen Williams: "The funniest thing about **Zaire Williams**, I think my first c
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=53s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=53s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=53&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=53&q=2) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=53&q=2&slack=1)</small>
 
 **3. Jalen Williams — "Regardless of what it is, he is going to be okay." — Jalen Williams on supporting teammate Ortega through injury setbacks** [01:45](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=105s)
 
@@ -26,7 +26,7 @@ Jalen Williams: "Anytime you see somebody get hurt, whatever it may be, it is ne
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=105s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=105s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=105&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=105&q=3) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=105&q=3&slack=1)</small>
 
 **4. Jalen Williams — "Anytime you are no longer a rookie or first year and you have some experience, you want to do more." — Jalen Williams on stepping up in clutch moments during his second year** [02:15](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=135s)
 
@@ -34,7 +34,7 @@ Jalen Williams: "Anytime you are no longer a rookie or first year and you have s
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=135s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=135s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=135&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=135&q=4) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=135&q=4&slack=1)</small>
 
 **5. Jalen Williams — "I am more confident in shooting the ball, defensively, everywhere, because I have had a whole year." — Jalen Williams on his growth and confidence after his rookie season** [03:08](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=188s)
 
@@ -42,7 +42,7 @@ Jalen Williams: "I just really took this year to assess what I did last year. My
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=188s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=188s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=188&q=5)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=188&q=5) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=188&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "A great example of somebody being professionally ready to go." — Mark Daigneault praises Zaire Williams for his professional readiness** [04:26](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=266s)
 
@@ -50,7 +50,7 @@ Mark Daigneault: "Give him a lot of credit because he did not play in the second
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=266s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=266s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=266&q=6)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=266&q=6) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=266&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "With the way Indiana plays, there is a variance to the game because of the pace." — Mark Daigneault on managing the pace and variance of Indiana's style** [04:56](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=296s)
 
@@ -58,7 +58,7 @@ Mark Daigneault: "With the way Indiana plays, there is a variance to the game be
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=296s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=296s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=296&q=7)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=296&q=7) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=296&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "The rotation is not like a set in stone thing that you like graduate to." — Mark Daigneault on the fluidity of the team's rotation** [05:50](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=350s)
 
@@ -66,7 +66,7 @@ Mark Daigneault: "The rotation is not like a set in stone thing that you like gr
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=350s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=350s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=350&q=8)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=350&q=8) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=350&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "He clearly has a pretty rounded game and does not make a lot of mistakes out there." — Mark Daigneault on Josh Dix's all-around game and development** [06:30](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=390s)
 
@@ -74,7 +74,7 @@ Mark Daigneault: "We gave him first quarter minutes tonight because we wanted to
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=390s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=390s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=390&q=9)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=390&q=9) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=390&q=9&slack=1)</small>
 
 **10. Mark Daigneault — "I thought that was a competitive game all the way throughout, even into the fourth quarter." — Mark Daigneault on the competitive nature of preseason games** [07:32](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=452s)
 
@@ -82,7 +82,7 @@ Mark Daigneault: "I thought that was a competitive game all the way throughout, 
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=452s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=452s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=452&q=10)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=452&q=10) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=452&q=10&slack=1)</small>
 
 **11. Mark Daigneault — "There is an electricity to him when he has got the ball. He is always a threat." — Mark Daigneault on Jared's unique live-dribble threat** [08:16](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=496s)
 
@@ -90,7 +90,7 @@ Mark Daigneault: "There is an electricity to him when he has got the ball. He is
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=496s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=496s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=496&q=11)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=496&q=11) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=496&q=11&slack=1)</small>
 
 **12. Mark Daigneault — "He is like the soul of our team for that reason. He has been for a long time." — Mark Daigneault on James Johnson's role as the team's soul** [09:08](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=548s)
 
@@ -98,4 +98,4 @@ Mark Daigneault: "He is like the soul of our team for that reason. He has been f
 
 [https://www.youtube.com/watch?v=-cnkgC2VaGw&t=548s](https://www.youtube.com/watch?v=-cnkgC2VaGw&t=548s)
 
-<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=548&q=12)</small>
+<small>[Clip it](presserclips://clip?v=-cnkgC2VaGw&t=548&q=12) · [Send to Slack](presserclips://clip?v=-cnkgC2VaGw&t=548&q=12&slack=1)</small>

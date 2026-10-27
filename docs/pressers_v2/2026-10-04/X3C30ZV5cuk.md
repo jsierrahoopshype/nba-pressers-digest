@@ -10,7 +10,7 @@ AJ: "Definitely feel more comfortable, obviously know how it goes now. Really ex
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=11s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=11s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=11&q=1) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=11&q=1&slack=1)</small>
 
 **2. AJ — "Just being where my feet are, just being focused on the task ahead." — AJ on his focus for the upcoming season** [00:31](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=31s)
 
@@ -18,7 +18,7 @@ AJ: "Just being where my feet are, just being focused on the task ahead. For me 
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=31s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=31s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=31&q=2)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=31&q=2) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=31&q=2&slack=1)</small>
 
 **3. AJ — "Kenrich Williams has been here for a while, he's one of our leaders and every time we play he's competitive." — AJ on Kenrich Williams' competitive nature** [00:58](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=58s)
 
@@ -26,7 +26,7 @@ AJ: "**Kenrich Williams** has been here for a while, he's one of our leaders and
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=58s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=58s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=58&q=3)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=58&q=3) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=58&q=3&slack=1)</small>
 
 **4. AJ — "He's a winner. Every time he's out there he's competing, offense, defense, he's going to give everything." — AJ on Kenrich Williams' winning mentality** [01:16](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=76s)
 
@@ -34,7 +34,7 @@ AJ: "He's a winner. Every time he's out there he's competing, offense, defense, 
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=76s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=76s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=76&q=4)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=76&q=4) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=76&q=4&slack=1)</small>
 
 **5. AJ — "Being part of a team that's so good defensively. We had great guys like Lou, AC, Cason, Dub." — AJ on his defensive development and learning from teammates** [01:38](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=98s)
 
@@ -42,7 +42,7 @@ AJ: "Being part of a team that's so good defensively. We had great guys like **L
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=98s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=98s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=98&q=5)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=98&q=5) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=98&q=5&slack=1)</small>
 
 **6. AJ — "Having a lot of guys that can handle the ball, make decisions, just opens the floor for everyone." — AJ on the impact of having multiple offensive creators** [02:15](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=135s)
 
@@ -50,7 +50,7 @@ AJ: "Having a lot of guys that can handle the ball, make decisions, just opens t
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=135s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=135s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=135&q=6)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=135&q=6) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=135&q=6&slack=1)</small>
 
 **7. Unidentified speaker — "We make our own preseason schedule so the back-to-backs are actually by design." — Coach on the team's approach to the condensed preseason schedule** [02:39](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=159s)
 
@@ -58,7 +58,7 @@ Unidentified speaker: "We make our own preseason schedule so the back-to-backs a
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=159s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=159s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=159&q=7)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=159&q=7) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=159&q=7&slack=1)</small>
 
 **8. Unidentified speaker — "Some people need experience and game time and some people just need a bare minimum." — Coach on balancing player needs for experience and preparation** [03:04](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=184s)
 
@@ -66,7 +66,7 @@ Unidentified speaker: "We're just trying to get everybody what they need. Some p
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=184s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=184s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=184&q=8)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=184&q=8) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=184&q=8&slack=1)</small>
 
 **9. Unidentified speaker — "They need to play five games and they need to deal with the recovery of that." — Coach on the importance of preseason travel for rookies** [03:21](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=201s)
 
@@ -74,7 +74,7 @@ Unidentified speaker: "They need to play five games and they need to deal with t
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=201s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=201s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=201&q=9)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=201&q=9) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=201&q=9&slack=1)</small>
 
 **10. Unidentified speaker — "It professionalizes the segment of practice that they're covering." — Coach on professionalizing practice segments** [03:52](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=232s)
 
@@ -82,7 +82,7 @@ Unidentified speaker: "It professionalizes the segment of practice that they're 
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=232s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=232s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=232&q=10)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=232&q=10) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=232&q=10&slack=1)</small>
 
 **11. Unidentified speaker — "We teach to the fastest learner, not the slowest." — Coach on the team's philosophy of teaching to the fastest learner** [04:34](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=274s)
 
@@ -90,7 +90,7 @@ Unidentified speaker: "We teach to the fastest learner, not the slowest and so w
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=274s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=274s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=274&q=11)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=274&q=11) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=274&q=11&slack=1)</small>
 
 **12. Unidentified speaker — "We're the professional sports team in the state, so we're grateful for our fans." — Coach on the value of playing preseason games in Oklahoma** [05:12](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=312s)
 
@@ -98,7 +98,7 @@ Unidentified speaker: "We understand we're the state of Oklahoma's team and we'r
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=312s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=312s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=312&q=12)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=312&q=12) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=312&q=12&slack=1)</small>
 
 **13. Unidentified speaker — "He's so experienced at this point that he understands what he needs in camp." — Coach on Shai Gilgeous-Alexander's professionalism and experience** [05:42](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=342s)
 
@@ -106,4 +106,4 @@ Unidentified speaker: "He's so experienced at this point that he understands wha
 
 [https://www.youtube.com/watch?v=X3C30ZV5cuk&t=342s](https://www.youtube.com/watch?v=X3C30ZV5cuk&t=342s)
 
-<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=342&q=13)</small>
+<small>[Clip it](presserclips://clip?v=X3C30ZV5cuk&t=342&q=13) · [Send to Slack](presserclips://clip?v=X3C30ZV5cuk&t=342&q=13&slack=1)</small>

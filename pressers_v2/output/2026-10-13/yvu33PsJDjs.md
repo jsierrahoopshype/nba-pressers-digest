@@ -10,7 +10,7 @@ Cason Wallace: "all nine of us just sees the opportunity. You don't get that opp
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=19s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=19s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=19&q=1) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=19&q=1&slack=1)</small>
 
 **2. Cason Wallace — "he's a great screener and roller and obviously he's a threat because he's 7'4" — Cason Wallace on developing chemistry with Chet Holmgren** [00:47](https://www.youtube.com/watch?v=yvu33PsJDjs&t=47s)
 
@@ -18,7 +18,7 @@ Cason Wallace: "the first half was a little rough, we're still getting used to i
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=47s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=47s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=47&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=47&q=2) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=47&q=2&slack=1)</small>
 
 **3. Cason Wallace — "that gave us the best shot to try and win the game" — Cason Wallace on his late-game shot selection** [01:25](https://www.youtube.com/watch?v=yvu33PsJDjs&t=85s)
 
@@ -26,7 +26,7 @@ Cason Wallace: "the shot felt good. I think that gave us the best shot to try an
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=85s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=85s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=85&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=85&q=3) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=85&q=3&slack=1)</small>
 
 **4. Cason Wallace — "he's a great dude off the court, fun to hang out with" — Cason Wallace on building chemistry with Josh Giddey** [02:12](https://www.youtube.com/watch?v=yvu33PsJDjs&t=132s)
 
@@ -34,7 +34,7 @@ Cason Wallace: "he's a great dude off the court, fun to hang out with. My locker
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=132s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=132s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=132&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=132&q=4) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=132&q=4&slack=1)</small>
 
 **5. Mark Daigneault — "we had some breakdowns early that you'd like to be able to fix in game" — Mark Daigneault on correcting early game breakdowns** [02:32](https://www.youtube.com/watch?v=yvu33PsJDjs&t=152s)
 
@@ -42,7 +42,7 @@ Mark Daigneault: "we had some breakdowns early that you'd like to be able to fix
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=152s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=152s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=152&q=5)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=152&q=5) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=152&q=5&slack=1)</small>
 
 **6. Mark Daigneault — "he's done such a good job of handling his business on those priorities" — Mark Daigneault on Ousmane Dieng's development and playmaking** [03:08](https://www.youtube.com/watch?v=yvu33PsJDjs&t=188s)
 
@@ -50,7 +50,7 @@ Mark Daigneault: "Ousmane obviously has the capacity to do that, but that hasn't
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=188s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=188s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=188&q=6)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=188&q=6) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=188&q=6&slack=1)</small>
 
 **7. Mark Daigneault — "he's got great moxie and clearly is used to being with the ball in his hands" — Mark Daigneault on Cason Wallace's composure in pressure situations** [04:02](https://www.youtube.com/watch?v=yvu33PsJDjs&t=242s)
 
@@ -58,7 +58,7 @@ Mark Daigneault: "he's got great moxie and clearly is used to being with the bal
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=242s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=242s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=242&q=7)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=242&q=7) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=242&q=7&slack=1)</small>
 
 **8. Mark Daigneault — "you're going to miss shots, you're going to lose games, you're going to get knocked down" — Mark Daigneault on the importance of confidence for young players** [04:46](https://www.youtube.com/watch?v=yvu33PsJDjs&t=286s)
 
@@ -66,7 +66,7 @@ Mark Daigneault: "in the NBA you're going to miss shots, you're going to lose ga
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=286s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=286s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=286&q=8)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=286&q=8) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=286&q=8&slack=1)</small>
 
 **9. Mark Daigneault — "he's an excellent floor spacer, he's always in the right spots" — Mark Daigneault on Cason Wallace's offensive and defensive versatility** [05:33](https://www.youtube.com/watch?v=yvu33PsJDjs&t=333s)
 
@@ -74,4 +74,4 @@ Mark Daigneault: "the functionality for him is both ends. He can step into shots
 
 [https://www.youtube.com/watch?v=yvu33PsJDjs&t=333s](https://www.youtube.com/watch?v=yvu33PsJDjs&t=333s)
 
-<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=333&q=9)</small>
+<small>[Clip it](presserclips://clip?v=yvu33PsJDjs&t=333&q=9) · [Send to Slack](presserclips://clip?v=yvu33PsJDjs&t=333&q=9&slack=1)</small>

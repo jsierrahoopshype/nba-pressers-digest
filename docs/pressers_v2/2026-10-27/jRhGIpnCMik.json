@@ -1,0 +1,200 @@
+{
+  "video_title": "Taylor Jenkins Media Availability | 10.27.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:33",
+      "summary_phrase": "Taylor Jenkins on the importance of early season wins for team morale",
+      "names_mentioned": [],
+      "excerpt": "it's obviously great for morale when you get your first one.",
+      "quote": "It's obviously great for morale when you get your first one. Obviously we have 78 more games left for sure, but I think it's the way we won too. The resilience, the things that we've been working on, getting better at even from Game 1 to 2, 2 to 3, and then going into the Indiana game. Improvement on our defensive focus and intensity and commitment to protecting the paint, flying around, the way we went about winning the game, even coming back from a deficit and then being able to hold on to a lead when we actually got one in the fourth quarter.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins says the Bucks first win was great for morale but emphasized the team is focused on the defensive intensity and commitment to protecting the paint shown in the early games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the importance of the team's first win of the season and the resilience shown during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:45",
+      "summary_phrase": "Taylor Jenkins explains the decision to play starters longer to secure a win",
+      "names_mentioned": [],
+      "excerpt": "I want to be flexible. I want to be able to get off that card.",
+      "quote": "I want to be flexible. I want to be able to get off that card. The beauty of that dynamic is sometimes I'm going to have the gut feel and sometimes the coaches are going to have the gut feel that I wasn't having and we'll quickly deliberate about it whether I go back to my seat and sit down or they come up and chase me up at half court and put a bug in my ear. Give them a lot of credit. At the same time we were identifying that our starters had come out with a different mentality.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins says he wants to remain flexible with his rotation decisions and credits his coaching staff for their input during games when they identify that the starters have a different mentality.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins explains his flexible approach to managing player rotations and relying on his coaching staff's input during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:11",
+      "summary_phrase": "Taylor Jenkins on Nate's growth and defensive development",
+      "names_mentioned": [
+        "Nate",
+        "Siakam"
+      ],
+      "excerpt": "he understands on-ball defense, he's doing a really good job, where he's got to continue to improve.",
+      "quote": "He watched the film and understood the moments where he could be more aggressive on the offensive side. I think he understands on-ball defense, he's doing a really good job, where he's got to continue to improve physically, defensively off the ball, in rebounding situations or in rotations. But I think just from one game to the next, that kid, he's a learner. He wants to get better. He puts in the work in the film room, the weight room, on the court.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins praised the growth of Nate noting that the player is a learner who puts in the work in the film room and is showing improvement in his on ball defense.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates the growth and defensive development of a player named Nate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "06:00",
+      "summary_phrase": "Taylor Jenkins on the 365-day coaching culture and team chemistry",
+      "names_mentioned": [
+        "Skylar"
+      ],
+      "excerpt": "the message is always been from ownership, front office, myself, medical, all the collaboration we do here.",
+      "quote": "The message is always been from ownership, front office, myself, medical, all the collaboration we do here at the Bucks level. It's going to be the same with the Herd. Same when I was in Memphis with the Grizzlies and the Herd. So it's what it really comes down to is the time spent, regardless of titles, assistant coach, not assistant coach. Skylar or coaches that were with me when I was in Memphis, they were around us 365. So when I got here back in April, May, and we started immediately talking about the G League, before we even talking about need-deep draft stuff and free agency, I was like, all right, let's talk about our G League approach. It's going to be a 365 model.",
+      "text_blocks": [],
+      "start_seconds": 360,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Taylor Jenkins discussed the importance of a 365 day coaching model between the Bucks and the G League to ensure alignment on culture and standards across the organization.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins describes the collaborative 365-day coaching culture established between the Bucks and their G League affiliate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "08:35",
+      "summary_phrase": "Taylor Jenkins on player-led leadership from Cormac, Pete, and Cam",
+      "names_mentioned": [
+        "Cormac",
+        "Pete",
+        "Cam"
+      ],
+      "excerpt": "I don't think that's something that we as coaches are necessarily telling those guys.",
+      "quote": "I don't think that's something that we as coaches are necessarily telling those guys, hey, I need you to take this leadership role. I think they just organically do that. They're already doing that here at the NBA Bucks level, which is a credit to them and what they stand for and why we believe in them and why they're here. It's obviously great in Skylar's position to have guys that have corporate knowledge, that know what our culture is about, you know what our standards are, that are going to be contributors at different pockets throughout the season.",
+      "text_blocks": [],
+      "start_seconds": 515,
+      "end_seconds": 553,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins says leadership from players like Cormac, Pete, and Cam is organic and a credit to their character and understanding of the team culture.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cormac",
+          "Pete",
+          "Cam"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins praises the organic leadership displayed by Cormac, Pete, and Cam within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "10:10",
+      "summary_phrase": "Taylor Jenkins previews the upcoming game against the Houston Rockets",
+      "names_mentioned": [],
+      "excerpt": "we'll get more into the scout with Houston tomorrow, obviously a physical brand of basketball.",
+      "quote": "We'll get more into the scout with Houston tomorrow, obviously a physical brand of basketball, how they guard, defensively, and they switch a lot, that poses a lot of problems. So our ability to get to next actions and know that their one-on-one defense is really good, so that we're going to have our opportunities to break them down one-on-one, but we have to do it collectively. And then offensively, them attacking the paint, they got individual scores that are really great, the offensive rebounding, I know that's always been a problem with Houston the last couple years.",
+      "text_blocks": [],
+      "start_seconds": 610,
+      "end_seconds": 648,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Looking ahead to the Rockets, Taylor Jenkins notes that Houston's switching defense poses problems and the team must focus on collective execution to break them down.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins previews the upcoming game against the Houston Rockets and highlights their defensive switching and offensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jRhGIpnCMik",
+  "url": "https://www.youtube.com/watch?v=jRhGIpnCMik",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T20:27:37Z",
+  "duration_seconds": 673,
+  "processed_at": "2026-10-27T23:46:30Z",
+  "run_id": "2026-10-27T2345Z-20utc",
+  "is_one_off": false
+}

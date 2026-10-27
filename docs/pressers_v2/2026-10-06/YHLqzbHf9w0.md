@@ -10,7 +10,7 @@ Labaron Philon Jr.: "On the ball screens, some of the guys try to get under the 
 
 [https://www.youtube.com/watch?v=YHLqzbHf9w0&t=46s](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=46s)
 
-<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=46&q=1)</small>
+<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=46&q=1) · [Send to Slack](presserclips://clip?v=YHLqzbHf9w0&t=46&q=1&slack=1)</small>
 
 **2. Labaron Philon Jr. — "just to not let him score, I would say, that would be the first thing" — Labaron Philon Jr. on the defensive challenge of guarding Jalen Brunson** [01:37](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=97s)
 
@@ -18,7 +18,7 @@ Labaron Philon Jr.: "Just to not let him score, I would say, that would be the f
 
 [https://www.youtube.com/watch?v=YHLqzbHf9w0&t=97s](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=97s)
 
-<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=97&q=2)</small>
+<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=97&q=2) · [Send to Slack](presserclips://clip?v=YHLqzbHf9w0&t=97&q=2&slack=1)</small>
 
 **3. Labaron Philon Jr. — "learning from the other guys on the team, the other veterans, and it's been going pretty well" — Labaron Philon Jr. on learning from veteran teammates and team culture** [03:24](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=204s)
 
@@ -26,7 +26,7 @@ Labaron Philon Jr.: "Being a great kid, always being on time, always watching th
 
 [https://www.youtube.com/watch?v=YHLqzbHf9w0&t=204s](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=204s)
 
-<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=204&q=3)</small>
+<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=204&q=3) · [Send to Slack](presserclips://clip?v=YHLqzbHf9w0&t=204&q=3&slack=1)</small>
 
 **4. Labaron Philon Jr. — "being able to use your voice and talk to the other guys, telling them what you see" — Labaron Philon Jr. on the value of communication for a young point guard** [04:41](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=281s)
 
@@ -34,7 +34,7 @@ Labaron Philon Jr.: "Those guys are eager to listen and learn, just like I am. N
 
 [https://www.youtube.com/watch?v=YHLqzbHf9w0&t=281s](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=281s)
 
-<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=281&q=4)</small>
+<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=281&q=4) · [Send to Slack](presserclips://clip?v=YHLqzbHf9w0&t=281&q=4&slack=1)</small>
 
 **5. Labaron Philon Jr. — "Tyrese anytime he, you know, try to get me in a one-on-one situation, just talk to me" — Labaron Philon Jr. on the mentorship provided by Tyrese Maxey** [05:22](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=322s)
 
@@ -42,4 +42,4 @@ Labaron Philon Jr.: "Tyrese, anytime he, you know, try to get me in a one-on-one
 
 [https://www.youtube.com/watch?v=YHLqzbHf9w0&t=322s](https://www.youtube.com/watch?v=YHLqzbHf9w0&t=322s)
 
-<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=322&q=5)</small>
+<small>[Clip it](presserclips://clip?v=YHLqzbHf9w0&t=322&q=5) · [Send to Slack](presserclips://clip?v=YHLqzbHf9w0&t=322&q=5&slack=1)</small>

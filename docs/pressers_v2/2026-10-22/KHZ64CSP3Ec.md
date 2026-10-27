@@ -10,7 +10,7 @@ Jamahl Mosley: "It wasn't. That was the fourth, that was the start of it, that's
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=3s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=3s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=3&q=1) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=3&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "Everything that we're talking about him being and doing was exactly what he showed tonight" — Jamahl Mosley praises Eve's defensive impact and versatility** [00:42](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=42s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "I thought **Eve** was incredible. I thought he was absolutely in
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=42s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=42s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=42&q=2) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=42&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "those two guys are guys that can pick up full court, change the dynamic of the game" — Mosley on the rotation and defensive aggression with Fears and Murray** [01:12](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=72s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "I think you have the head of the snake. Those two guys are guys 
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=72s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=72s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=72&q=3)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=72&q=3) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=72&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "Herb came in the game and changed the game with his defensive effort, his defensive energy" — Mosley on Herb's defensive impact and physicality** [02:17](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=137s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "**Herb** came in the game and changed the game with his defensiv
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=137s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=137s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=137&q=4)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=137&q=4) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=137&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "finding the open man, creating the right space necessary when so we have an outlet for them" — Mosley on Zion and Trey's need for better paint spacing** [02:43](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=163s)
 
@@ -42,7 +42,7 @@ Jamahl Mosley: "There are opportunities for us to spray when we get down in the 
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=163s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=163s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=163&q=5)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=163&q=5) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=163&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "the guys are buying into how hard they need to play, how they have to communicate" — Mosley on team defensive communication and accountability** [03:29](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=209s)
 
@@ -50,7 +50,7 @@ Jamahl Mosley: "For the most part, I think we did a pretty good job. For the mos
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=209s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=209s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=209&q=6)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=209&q=6) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=209&q=6&slack=1)</small>
 
 **7. Jamahl Mosley — "I think his confidence level in his shot, but his confidence level in getting to the rim" — Mosley on Zion's confidence and rim attacking** [04:07](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=247s)
 
@@ -58,7 +58,7 @@ Jamahl Mosley: "I thought he was great. I thought he was really good tonight. I 
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=247s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=247s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=247&q=7)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=247&q=7) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=247&q=7&slack=1)</small>
 
 **8. Jamahl Mosley — "our ability to get over or under the screen, you know, at some of those times" — Mosley on defensive adjustments to high pick-and-roll** [04:38](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=278s)
 
@@ -66,7 +66,7 @@ Jamahl Mosley: "I think I go back to the communication. They went to the one-fou
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=278s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=278s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=278&q=8)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=278&q=8) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=278&q=8&slack=1)</small>
 
 **9. Jamahl Mosley — "He's a true leader. He's a born leader" — Mosley on Murray's leadership and protecting teammates** [05:27](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=327s)
 
@@ -74,7 +74,7 @@ Jamahl Mosley: "He's a true leader. He's a born leader, and I think that says a 
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=327s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=327s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=327&q=9)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=327&q=9) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=327&q=9&slack=1)</small>
 
 **10. Jamahl Mosley — "Herb is the ultimate pro, and those conversations that we have understanding that the minutes" — Mosley on Herb Johnson's professionalism and defensive role** [06:00](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=360s)
 
@@ -82,7 +82,7 @@ Jamahl Mosley: "Herb is the ultimate pro, and those conversations that we have u
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=360s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=360s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=360&q=10)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=360&q=10) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=360&q=10&slack=1)</small>
 
 **11. Jamahl Mosley — "we've always talked about it being done by committee" — Mosley on team-first, committee-based offensive approach** [06:48](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=408s)
 
@@ -90,7 +90,7 @@ Jamahl Mosley: "That's a great question. With us, we've always talked about it b
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=408s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=408s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=408&q=11)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=408&q=11) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=408&q=11&slack=1)</small>
 
 **12. Jamahl Mosley — "it's about playing the right way with each other because everybody can have an opportunity" — Mosley on individual player responsibility in the team system** [07:35](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=455s)
 
@@ -98,7 +98,7 @@ Jamahl Mosley: "I think there's an opportunity for each guy to establish how the
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=455s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=455s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=455&q=12)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=455&q=12) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=455&q=12&slack=1)</small>
 
 **13. Jamahl Mosley — "I love how he responded, and I think he did a very good job of just connecting" — Mosley on Deek's response and defensive growth** [08:06](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=486s)
 
@@ -106,4 +106,4 @@ Jamahl Mosley: "I love how he responded, and I think he did a very good job of j
 
 [https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=486s](https://www.youtube.com/watch?v=KHZ64CSP3Ec&t=486s)
 
-<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=486&q=13)</small>
+<small>[Clip it](presserclips://clip?v=KHZ64CSP3Ec&t=486&q=13) · [Send to Slack](presserclips://clip?v=KHZ64CSP3Ec&t=486&q=13&slack=1)</small>

@@ -10,7 +10,7 @@ Bryson Graham: "Internally, we know that it is a season of growth and developmen
 
 [https://www.youtube.com/watch?v=POC_ahnYHUk&t=499s](https://www.youtube.com/watch?v=POC_ahnYHUk&t=499s)
 
-<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=499&q=1)</small>
+<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=499&q=1) · [Send to Slack](presserclips://clip?v=POC_ahnYHUk&t=499&q=1&slack=1)</small>
 
 **2. Tiago Splitter — "every day he is showing us why he is the number four pick" — Tiago Splitter says Caleb Wilson is showing why he was a top four pick.** [09:05](https://www.youtube.com/watch?v=POC_ahnYHUk&t=545s)
 
@@ -18,7 +18,7 @@ Tiago Splitter: "Just like everybody in this room are excited about **Caleb**, w
 
 [https://www.youtube.com/watch?v=POC_ahnYHUk&t=545s](https://www.youtube.com/watch?v=POC_ahnYHUk&t=545s)
 
-<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=545&q=2)</small>
+<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=545&q=2) · [Send to Slack](presserclips://clip?v=POC_ahnYHUk&t=545&q=2&slack=1)</small>
 
 **3. Bryson Graham — "it is better to develop with a more competent roster" — Bryson Graham says the team used cap space to build a more competent roster.** [20:02](https://www.youtube.com/watch?v=POC_ahnYHUk&t=1202s)
 
@@ -26,4 +26,4 @@ Bryson Graham: "We had a lot of cap space. We had to fill that space I think app
 
 [https://www.youtube.com/watch?v=POC_ahnYHUk&t=1202s](https://www.youtube.com/watch?v=POC_ahnYHUk&t=1202s)
 
-<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=1202&q=3)</small>
+<small>[Clip it](presserclips://clip?v=POC_ahnYHUk&t=1202&q=3) · [Send to Slack](presserclips://clip?v=POC_ahnYHUk&t=1202&q=3&slack=1)</small>

@@ -10,7 +10,7 @@ Collin Gillespie: "The shooting stuff is my design. I've done that since I've be
 
 [https://www.youtube.com/watch?v=2825ZGhUTic&t=6s](https://www.youtube.com/watch?v=2825ZGhUTic&t=6s)
 
-<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=6&q=1) · [Send to Slack](presserclips://clip?v=2825ZGhUTic&t=6&q=1&slack=1)</small>
 
 **2. Collin Gillespie — "It's part of our rules with the whole tagging on offensive rebound and stuff like that." — Collin Gillespie on the importance of offensive rebounding and tagging** [02:08](https://www.youtube.com/watch?v=2825ZGhUTic&t=128s)
 
@@ -18,7 +18,7 @@ Collin Gillespie: "It's part of our rules with the whole tagging on offensive re
 
 [https://www.youtube.com/watch?v=2825ZGhUTic&t=128s](https://www.youtube.com/watch?v=2825ZGhUTic&t=128s)
 
-<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=128&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=128&q=2) · [Send to Slack](presserclips://clip?v=2825ZGhUTic&t=128&q=2&slack=1)</small>
 
 **3. Collin Gillespie — "I think they're very different players. I think Bol is more mobile around the perimeter." — Collin Gillespie on his two-man chemistry with Bol Bol** [03:26](https://www.youtube.com/watch?v=2825ZGhUTic&t=206s)
 
@@ -26,7 +26,7 @@ Collin Gillespie: "I think they're very different players. I think Bol is more m
 
 [https://www.youtube.com/watch?v=2825ZGhUTic&t=206s](https://www.youtube.com/watch?v=2825ZGhUTic&t=206s)
 
-<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=206&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=206&q=3) · [Send to Slack](presserclips://clip?v=2825ZGhUTic&t=206&q=3&slack=1)</small>
 
 **4. Collin Gillespie — "Bol is a sponge, obviously. He's a really good young guy that has a lot of potential." — Collin Gillespie on Bol Bol's potential and development** [04:27](https://www.youtube.com/watch?v=2825ZGhUTic&t=267s)
 
@@ -34,7 +34,7 @@ Collin Gillespie: "Bol is a sponge, obviously. He's a really good young guy that
 
 [https://www.youtube.com/watch?v=2825ZGhUTic&t=267s](https://www.youtube.com/watch?v=2825ZGhUTic&t=267s)
 
-<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=267&q=4)</small>
+<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=267&q=4) · [Send to Slack](presserclips://clip?v=2825ZGhUTic&t=267&q=4&slack=1)</small>
 
 **5. Collin Gillespie — "It's like a scab. He just keeps picking at it and then they start bleeding everywhere." — Collin Gillespie on Bol Bol's motivational tactics** [06:17](https://www.youtube.com/watch?v=2825ZGhUTic&t=377s)
 
@@ -42,4 +42,4 @@ Collin Gillespie: "It's like a scab. He just keeps picking at it and then they s
 
 [https://www.youtube.com/watch?v=2825ZGhUTic&t=377s](https://www.youtube.com/watch?v=2825ZGhUTic&t=377s)
 
-<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=377&q=5)</small>
+<small>[Clip it](presserclips://clip?v=2825ZGhUTic&t=377&q=5) · [Send to Slack](presserclips://clip?v=2825ZGhUTic&t=377&q=5&slack=1)</small>

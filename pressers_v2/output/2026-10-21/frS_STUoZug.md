@@ -10,7 +10,7 @@ Jared McCain: "Since I was younger, I've always been able to just find gaps, fin
 
 [https://www.youtube.com/watch?v=frS_STUoZug&t=57s](https://www.youtube.com/watch?v=frS_STUoZug&t=57s)
 
-<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=57&q=1)</small>
+<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=57&q=1) · [Send to Slack](presserclips://clip?v=frS_STUoZug&t=57&q=1&slack=1)</small>
 
 **2. Shai Gilgeous-Alexander — "When he's aggressive, when he's confident, when he's out there playing his game, he makes your basketball team better." — Shai Gilgeous-Alexander on Chet Holmgren's impact and aggressive play** [02:14](https://www.youtube.com/watch?v=frS_STUoZug&t=134s)
 
@@ -18,7 +18,7 @@ Shai Gilgeous-Alexander: "Chet is an All-NBA talent on both ends of the floor, a
 
 [https://www.youtube.com/watch?v=frS_STUoZug&t=134s](https://www.youtube.com/watch?v=frS_STUoZug&t=134s)
 
-<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=134&q=2)</small>
+<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=134&q=2) · [Send to Slack](presserclips://clip?v=frS_STUoZug&t=134&q=2&slack=1)</small>
 
 **3. Jared McCain — "Playing with a back-to-back MVP is something special." — Jared McCain on playing alongside Shai Gilgeous-Alexander** [03:07](https://www.youtube.com/watch?v=frS_STUoZug&t=187s)
 
@@ -26,7 +26,7 @@ Jared McCain: "When I first came, I was a little nervous, I didn't know how he w
 
 [https://www.youtube.com/watch?v=frS_STUoZug&t=187s](https://www.youtube.com/watch?v=frS_STUoZug&t=187s)
 
-<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=187&q=3)</small>
+<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=187&q=3) · [Send to Slack](presserclips://clip?v=frS_STUoZug&t=187&q=3&slack=1)</small>
 
 **4. Shai Gilgeous-Alexander — "I just go out there and trust my work." — Shai Gilgeous-Alexander on his approach to taking tough shots** [04:06](https://www.youtube.com/watch?v=frS_STUoZug&t=246s)
 
@@ -34,7 +34,7 @@ Shai Gilgeous-Alexander: "I just go out there and trust my work. I don't see a t
 
 [https://www.youtube.com/watch?v=frS_STUoZug&t=246s](https://www.youtube.com/watch?v=frS_STUoZug&t=246s)
 
-<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=246&q=4)</small>
+<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=246&q=4) · [Send to Slack](presserclips://clip?v=frS_STUoZug&t=246&q=4&slack=1)</small>
 
 **5. Shai Gilgeous-Alexander — "You can have an awful first game of the season and end your season amazingly." — Shai Gilgeous-Alexander on the importance of the season opener** [05:02](https://www.youtube.com/watch?v=frS_STUoZug&t=302s)
 
@@ -42,7 +42,7 @@ Shai Gilgeous-Alexander: "This game doesn't really mean that much. The first gam
 
 [https://www.youtube.com/watch?v=frS_STUoZug&t=302s](https://www.youtube.com/watch?v=frS_STUoZug&t=302s)
 
-<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=302&q=5)</small>
+<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=302&q=5) · [Send to Slack](presserclips://clip?v=frS_STUoZug&t=302&q=5&slack=1)</small>
 
 **6. Jared McCain — "I've always been good at just kind of finding a window, making sure I'm open." — Jared McCain on his development as a floor spacer** [06:03](https://www.youtube.com/watch?v=frS_STUoZug&t=363s)
 
@@ -50,4 +50,4 @@ Jared McCain: "Since I was younger, I've played up with my brother and a lot of 
 
 [https://www.youtube.com/watch?v=frS_STUoZug&t=363s](https://www.youtube.com/watch?v=frS_STUoZug&t=363s)
 
-<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=363&q=6)</small>
+<small>[Clip it](presserclips://clip?v=frS_STUoZug&t=363&q=6) · [Send to Slack](presserclips://clip?v=frS_STUoZug&t=363&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Taylor Jenkins: "He's just shown an act in the brief time that we've been with h
 
 [https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=69s](https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=69s)
 
-<small>[Clip it](presserclips://clip?v=BnZ4dpFIUE8&t=69&q=1)</small>
+<small>[Clip it](presserclips://clip?v=BnZ4dpFIUE8&t=69&q=1) · [Send to Slack](presserclips://clip?v=BnZ4dpFIUE8&t=69&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "I just wanted to get a different look, seeing those two guys together has been on my mind." — Taylor Jenkins on the benefits of playing two bigs together** [02:02](https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=122s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I just wanted to get a different look, seeing those two guys to
 
 [https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=122s](https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=122s)
 
-<small>[Clip it](presserclips://clip?v=BnZ4dpFIUE8&t=122&q=2)</small>
+<small>[Clip it](presserclips://clip?v=BnZ4dpFIUE8&t=122&q=2) · [Send to Slack](presserclips://clip?v=BnZ4dpFIUE8&t=122&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "I just really liked how he had an intent of getting downhill tonight a little bit more." — Taylor Jenkins evaluates the performance of Jaime and Tyler** [02:55](https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=175s)
 
@@ -26,4 +26,4 @@ Taylor Jenkins: "I'll start with **Jaime** there. I just really liked how he had
 
 [https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=175s](https://www.youtube.com/watch?v=BnZ4dpFIUE8&t=175s)
 
-<small>[Clip it](presserclips://clip?v=BnZ4dpFIUE8&t=175&q=3)</small>
+<small>[Clip it](presserclips://clip?v=BnZ4dpFIUE8&t=175&q=3) · [Send to Slack](presserclips://clip?v=BnZ4dpFIUE8&t=175&q=3&slack=1)</small>

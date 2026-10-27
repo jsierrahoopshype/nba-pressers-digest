@@ -10,7 +10,7 @@ Asa Newell: "Tonight, we learned a lot about ourselves. We can't dig ourselves a
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=25s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=25s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=25&q=1) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=25&q=1&slack=1)</small>
 
 **2. Corey Kispert — "There were just some kind of knocking the rust off errors that we just weren't thinking straight." — Corey Kispert on team errors and defensive focus** [00:42](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=42s)
 
@@ -18,7 +18,7 @@ Corey Kispert: "We gave away too many. Teams are going to make shots, and they'r
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=42s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=42s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=42&q=2) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=42&q=2&slack=1)</small>
 
 **3. Asa Newell — "I get it from my brother, Jalen. He really paved the way for me." — Asa Newell on his offensive rebounding and Jalen's influence** [01:11](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=71s)
 
@@ -26,7 +26,7 @@ Asa Newell: "I just felt like I'm just swimming through my defenders. It's a tra
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=71s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=71s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=71&q=3) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=71&q=3&slack=1)</small>
 
 **4. Corey Kispert — "Those guys coming off the bench and playing in the second half, immediately, their whole goal was to turn that game around." — Corey Kispert on second-half defensive intensity** [01:54](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=114s)
 
@@ -34,7 +34,7 @@ Corey Kispert: "Those guys coming off the bench and playing in the second half, 
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=114s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=114s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=114&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=114&q=4) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=114&q=4&slack=1)</small>
 
 **5. Asa Newell — "Ray-Jay was extremely vocal, telling guys to run, telling guys to get out the way, set a screen." — Asa Newell on team chemistry and player roles** [02:19](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=139s)
 
@@ -42,7 +42,7 @@ Asa Newell: "I've been working out with these guys since the summer started, so 
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=139s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=139s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=139&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=139&q=5) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=139&q=5&slack=1)</small>
 
 **6. Corey Kispert — "The game plan doesn't change. We're trying to play a similar style of basketball." — Corey Kispert on maintaining team identity despite roster changes** [03:04](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=184s)
 
@@ -50,7 +50,7 @@ Corey Kispert: "With this team, the game plan doesn't change. We're trying to pl
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=184s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=184s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=184&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=184&q=6) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=184&q=6&slack=1)</small>
 
 **7. Asa Newell — "We just want to have carryover from last year." — Asa Newell on building team chemistry and carryover** [04:12](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=252s)
 
@@ -58,7 +58,7 @@ Asa Newell: "This being my second year, playoff basketball is all I know. I kind
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=252s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=252s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=252&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=252&q=7) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=252&q=7&slack=1)</small>
 
 **8. Corey Kispert — "I had a really good summer and a lot of work on clearing my head, re-establishing my habits." — Corey Kispert on his offseason preparation and habits** [05:01](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=301s)
 
@@ -66,7 +66,7 @@ Corey Kispert: "I had a really good summer and a lot of work on clearing my head
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=301s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=301s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=301&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=301&q=8) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=301&q=8&slack=1)</small>
 
 **9. Asa Newell — "He was just telling me, I'm playing good, but Coach Q is always telling us to play fast." — Asa Newell on advice from teammate** [06:01](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=361s)
 
@@ -74,7 +74,7 @@ Asa Newell: "He was just telling me, I'm playing good, but **Coach Q** is always
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=361s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=361s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=361&q=9)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=361&q=9) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=361&q=9&slack=1)</small>
 
 **10. Corey Kispert — "People always told me that getting traded was hard and getting traded in the middle of the season's even harder." — Corey Kispert on the benefits of a full training camp** [06:46](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=406s)
 
@@ -82,4 +82,4 @@ Corey Kispert: "People always told me that getting traded was hard and getting t
 
 [https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=406s](https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=406s)
 
-<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=406&q=10)</small>
+<small>[Clip it](presserclips://clip?v=Rro5Bi_W0nI&t=406&q=10) · [Send to Slack](presserclips://clip?v=Rro5Bi_W0nI&t=406&q=10&slack=1)</small>

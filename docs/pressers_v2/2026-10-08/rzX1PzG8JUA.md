@@ -10,7 +10,7 @@ Norman Powell: "We already know what type of talent Rui is. He's a great shooter
 
 [https://www.youtube.com/watch?v=rzX1PzG8JUA&t=0s](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=0s)
 
-<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=0&q=1) · [Send to Slack](presserclips://clip?v=rzX1PzG8JUA&t=0&q=1&slack=1)</small>
 
 **2. Norman Powell — "He has a really bright future. Super scrappy with the ball in his hands." — Norman Powell on Keaton Wallace's potential and work ethic** [00:59](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=59s)
 
@@ -18,7 +18,7 @@ Norman Powell: "He has a really bright future. Super scrappy with the ball in hi
 
 [https://www.youtube.com/watch?v=rzX1PzG8JUA&t=59s](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=59s)
 
-<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=59&q=2)</small>
+<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=59&q=2) · [Send to Slack](presserclips://clip?v=rzX1PzG8JUA&t=59&q=2&slack=1)</small>
 
 **3. Tyronn Lue — "Having a younger team, trying to play a different style of basketball." — Tyronn Lue on the challenges of coaching a younger team** [05:25](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=325s)
 
@@ -26,7 +26,7 @@ Tyronn Lue: "Having a younger team, trying to play a different style of basketba
 
 [https://www.youtube.com/watch?v=rzX1PzG8JUA&t=325s](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=325s)
 
-<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=325&q=3)</small>
+<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=325&q=3) · [Send to Slack](presserclips://clip?v=rzX1PzG8JUA&t=325&q=3&slack=1)</small>
 
 **4. Tyronn Lue — "Not just those two guys, but we got to just do it by committee." — Tyronn Lue on defensive strategy and committee approach** [06:45](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=405s)
 
@@ -34,7 +34,7 @@ Tyronn Lue: "Not just those two guys, but we got to just do it by committee. I t
 
 [https://www.youtube.com/watch?v=rzX1PzG8JUA&t=405s](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=405s)
 
-<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=405&q=4)</small>
+<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=405&q=4) · [Send to Slack](presserclips://clip?v=rzX1PzG8JUA&t=405&q=4&slack=1)</small>
 
 **5. Tyronn Lue — "Him and Kawhi Leonard have done a great job of just giving him confidence." — Tyronn Lue on mentoring and player development** [07:11](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=431s)
 
@@ -42,7 +42,7 @@ Tyronn Lue: "Him and **Kawhi Leonard** have done a great job of just giving him 
 
 [https://www.youtube.com/watch?v=rzX1PzG8JUA&t=431s](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=431s)
 
-<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=431&q=5)</small>
+<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=431&q=5) · [Send to Slack](presserclips://clip?v=rzX1PzG8JUA&t=431&q=5&slack=1)</small>
 
 **6. Keaton Wallace — "Everyone's wanting to get better. Just keep getting better each day has kind of been our goal." — Keaton Wallace on adjusting to the NBA and team goals** [12:26](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=746s)
 
@@ -50,7 +50,7 @@ Keaton Wallace: "Everyone's wanting to get better. Just keep getting better each
 
 [https://www.youtube.com/watch?v=rzX1PzG8JUA&t=746s](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=746s)
 
-<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=746&q=6)</small>
+<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=746&q=6) · [Send to Slack](presserclips://clip?v=rzX1PzG8JUA&t=746&q=6&slack=1)</small>
 
 **7. Keaton Wallace — "Watching him come off ball screens is a lot different than me because how fast he is." — Keaton Wallace on learning from veteran leadership** [14:57](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=897s)
 
@@ -58,4 +58,4 @@ Keaton Wallace: "Watching him come off ball screens is a lot different than me b
 
 [https://www.youtube.com/watch?v=rzX1PzG8JUA&t=897s](https://www.youtube.com/watch?v=rzX1PzG8JUA&t=897s)
 
-<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=897&q=7)</small>
+<small>[Clip it](presserclips://clip?v=rzX1PzG8JUA&t=897&q=7) · [Send to Slack](presserclips://clip?v=rzX1PzG8JUA&t=897&q=7&slack=1)</small>

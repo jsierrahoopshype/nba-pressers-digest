@@ -10,7 +10,7 @@ Micah Nori: "The one thing everybody is going to play. The way I look at it, bec
 
 [https://www.youtube.com/watch?v=E5--hwFAD3U&t=12s](https://www.youtube.com/watch?v=E5--hwFAD3U&t=12s)
 
-<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=12&q=1) · [Send to Slack](presserclips://clip?v=E5--hwFAD3U&t=12&q=1&slack=1)</small>
 
 **2. Micah Nori — "I'm really curious just to see how this group incorporates Ja and Dame." — Micah Nori on integrating Ja Morant and Damian Lillard** [01:36](https://www.youtube.com/watch?v=E5--hwFAD3U&t=96s)
 
@@ -18,7 +18,7 @@ Micah Nori: "I'm really curious just to see how this group that was a playoff te
 
 [https://www.youtube.com/watch?v=E5--hwFAD3U&t=96s](https://www.youtube.com/watch?v=E5--hwFAD3U&t=96s)
 
-<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=96&q=2)</small>
+<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=96&q=2) · [Send to Slack](presserclips://clip?v=E5--hwFAD3U&t=96&q=2&slack=1)</small>
 
 **3. Micah Nori — "You see Ja getting into the paint, you see Dame coming off, you see Donovan protecting the rim." — Micah Nori on team chemistry and player development in training camp** [02:26](https://www.youtube.com/watch?v=E5--hwFAD3U&t=146s)
 
@@ -26,7 +26,7 @@ Micah Nori: "You see Ja getting into the paint, and whether he be finishing or f
 
 [https://www.youtube.com/watch?v=E5--hwFAD3U&t=146s](https://www.youtube.com/watch?v=E5--hwFAD3U&t=146s)
 
-<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=146&q=3)</small>
+<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=146&q=3) · [Send to Slack](presserclips://clip?v=E5--hwFAD3U&t=146&q=3&slack=1)</small>
 
 **4. Micah Nori — "It's been easier and the reason it's been easier is because of the vets in the group." — Micah Nori on the ease of coaching a veteran-led team** [03:18](https://www.youtube.com/watch?v=E5--hwFAD3U&t=198s)
 
@@ -34,4 +34,4 @@ Micah Nori: "It's been easier and the reason it's been easier is because of the 
 
 [https://www.youtube.com/watch?v=E5--hwFAD3U&t=198s](https://www.youtube.com/watch?v=E5--hwFAD3U&t=198s)
 
-<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=198&q=4)</small>
+<small>[Clip it](presserclips://clip?v=E5--hwFAD3U&t=198&q=4) · [Send to Slack](presserclips://clip?v=E5--hwFAD3U&t=198&q=4&slack=1)</small>

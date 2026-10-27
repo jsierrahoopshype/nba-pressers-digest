@@ -10,7 +10,7 @@ Kenny Atkinson: "I think teams have realized that's a competitive advantage. The
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=30s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=30s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=30&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=30&q=1) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=30&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "Boston got 15 more shots up than us, and it's very simple math." — Kenny Atkinson on the impact of shot volume differences** [01:13](https://www.youtube.com/watch?v=kcqKY1YspmI&t=73s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "The example would be the other night when Boston got 15 more sh
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=73s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=73s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=73&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=73&q=2) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=73&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "It's the perimeter crashing. It's literally the sprint from the three-point line into the paint." — Kenny Atkinson on the impact of perimeter crashing** [01:26](https://www.youtube.com/watch?v=kcqKY1YspmI&t=86s)
 
@@ -26,7 +26,7 @@ Kenny Atkinson: "The other thing is the perimeter crashing. It's literally the s
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=86s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=86s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=86&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=86&q=3) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=86&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "We have to go meet them with force, not let force come to us." — Kenny Atkinson on the need to meet opponents with force** [02:11](https://www.youtube.com/watch?v=kcqKY1YspmI&t=131s)
 
@@ -34,7 +34,7 @@ Kenny Atkinson: "We have to go meet them with force, not let force come to us. T
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=131s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=131s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=131&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=131&q=4) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=131&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "With the perimeter box outs, there's more space to go around the box out." — Kenny Atkinson on the difficulty of boxing out in space** [02:35](https://www.youtube.com/watch?v=kcqKY1YspmI&t=155s)
 
@@ -42,7 +42,7 @@ Kenny Atkinson: "With the perimeter box outs, there's more space to go around th
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=155s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=155s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=155&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=155&q=5) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=155&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "I think Mario can be really good at it. I think Peyton can be really good at it." — Kenny Atkinson on the rebounding potential of new players** [03:24](https://www.youtube.com/watch?v=kcqKY1YspmI&t=204s)
 
@@ -50,7 +50,7 @@ Kenny Atkinson: "I think **Mario** can be really good at it. I think **Peyton** 
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=204s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=204s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=204&q=6)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=204&q=6) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=204&q=6&slack=1)</small>
 
 **7. Kenny Atkinson — "I want to strike that balance, because he's a talented offensive player." — Kenny Atkinson on balancing freedom for offensive players** [04:12](https://www.youtube.com/watch?v=kcqKY1YspmI&t=252s)
 
@@ -58,7 +58,7 @@ Kenny Atkinson: "I want to strike that balance, because he's a talented offensiv
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=252s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=252s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=252&q=7)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=252&q=7) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=252&q=7&slack=1)</small>
 
 **8. Kenny Atkinson — "Another piece that's become more important is understanding how the game's being called." — Kenny Atkinson on the importance of understanding officiating** [05:43](https://www.youtube.com/watch?v=kcqKY1YspmI&t=343s)
 
@@ -66,7 +66,7 @@ Kenny Atkinson: "Another piece that's become more important is understanding how
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=343s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=343s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=343&q=8)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=343&q=8) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=343&q=8&slack=1)</small>
 
 **9. Kenny Atkinson — "Jared and Evan, I don't know what they have taken a step up communication wise." — Kenny Atkinson on the communication growth of young players** [06:38](https://www.youtube.com/watch?v=kcqKY1YspmI&t=398s)
 
@@ -74,4 +74,4 @@ Kenny Atkinson: "**Jared** and **Evan**, I don't know what they have taken a ste
 
 [https://www.youtube.com/watch?v=kcqKY1YspmI&t=398s](https://www.youtube.com/watch?v=kcqKY1YspmI&t=398s)
 
-<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=398&q=9)</small>
+<small>[Clip it](presserclips://clip?v=kcqKY1YspmI&t=398&q=9) · [Send to Slack](presserclips://clip?v=kcqKY1YspmI&t=398&q=9&slack=1)</small>

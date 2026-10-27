@@ -10,7 +10,7 @@ RJ Barrett: "It was a nasty one. It was a nasty one. Couldn't make any shots, bu
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=6s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=6s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=6&q=1) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=6&q=1&slack=1)</small>
 
 **2. RJ Barrett — "He's been in the league a while. He's going to get them calls, man." — RJ Barrett on defending Trae Young and drawing fouls** [00:31](https://www.youtube.com/watch?v=XA_lRnYncpo&t=31s)
 
@@ -18,7 +18,7 @@ RJ Barrett: "He's been in the league a while. He's going to get them calls, man.
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=31s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=31s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=31&q=2)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=31&q=2) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=31&q=2&slack=1)</small>
 
 **3. RJ Barrett — "Just really trying to make his catch as tough, be physical." — RJ Barrett on the Raptors' defensive strategy against Anthony Davis** [00:55](https://www.youtube.com/watch?v=XA_lRnYncpo&t=55s)
 
@@ -26,7 +26,7 @@ RJ Barrett: "Scottie started on him, and we got some action. Just really trying 
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=55s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=55s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=55&q=3)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=55&q=3) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=55&q=3&slack=1)</small>
 
 **4. RJ Barrett — "You know me, I'm there when you need me." — RJ Barrett on his willingness to step up when needed** [01:36](https://www.youtube.com/watch?v=XA_lRnYncpo&t=96s)
 
@@ -34,7 +34,7 @@ RJ Barrett: "You know me, I'm there when you need me."
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=96s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=96s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=96&q=4)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=96&q=4) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=96&q=4&slack=1)</small>
 
 **5. RJ Barrett — "My game's not pretty, so you know, I think for us, the game was nasty." — RJ Barrett on embracing the grind of non-pretty wins** [01:49](https://www.youtube.com/watch?v=XA_lRnYncpo&t=109s)
 
@@ -42,7 +42,7 @@ RJ Barrett: "My game's not pretty, so you know, I think for us, the game was nas
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=109s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=109s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=109&q=5)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=109&q=5) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=109&q=5&slack=1)</small>
 
 **6. RJ Barrett — "We're going to play the same way the whole time." — RJ Barrett on maintaining defensive intensity without fouling** [02:34](https://www.youtube.com/watch?v=XA_lRnYncpo&t=154s)
 
@@ -50,7 +50,7 @@ RJ Barrett: "We're going to play the same way the whole time. We're fouling a lo
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=154s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=154s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=154&q=6)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=154&q=6) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=154&q=6&slack=1)</small>
 
 **7. RJ Barrett — "The East is, I think, probably the best I've seen." — RJ Barrett on the high level of competition in the East** [02:53](https://www.youtube.com/watch?v=XA_lRnYncpo&t=173s)
 
@@ -58,7 +58,7 @@ RJ Barrett: "Just about every night. The East is, I think, probably the best I'v
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=173s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=173s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=173&q=7)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=173&q=7) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=173&q=7&slack=1)</small>
 
 **8. RJ Barrett — "It makes it hard on the other team, making it hard on the opponents." — RJ Barrett on the team's defensive identity** [03:12](https://www.youtube.com/watch?v=XA_lRnYncpo&t=192s)
 
@@ -66,7 +66,7 @@ RJ Barrett: "It makes it hard on the other team, making it hard on the opponents
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=192s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=192s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=192&q=8)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=192&q=8) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=192&q=8&slack=1)</small>
 
 **9. RJ Barrett — "He's just active, he's just all over the place offensively, defensively." — RJ Barrett on the impact of Collin Sexton's play** [03:31](https://www.youtube.com/watch?v=XA_lRnYncpo&t=211s)
 
@@ -74,4 +74,4 @@ RJ Barrett: "We had a big stretch where we went on a run and he got like three s
 
 [https://www.youtube.com/watch?v=XA_lRnYncpo&t=211s](https://www.youtube.com/watch?v=XA_lRnYncpo&t=211s)
 
-<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=211&q=9)</small>
+<small>[Clip it](presserclips://clip?v=XA_lRnYncpo&t=211&q=9) · [Send to Slack](presserclips://clip?v=XA_lRnYncpo&t=211&q=9&slack=1)</small>

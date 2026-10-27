@@ -10,7 +10,7 @@ Peyton Watson: "I think we've all been playing basketball for such a long time t
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=7s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=7s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=7&q=1) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=7&q=1&slack=1)</small>
 
 **2. Peyton Watson — "It's more so play with defensive, be alert, communicate out there, rebound, control what you can control." — Peyton Watson on the team's focus on basketball fundamentals** [00:46](https://www.youtube.com/watch?v=np9nAPmu4uk&t=46s)
 
@@ -18,7 +18,7 @@ Peyton Watson: "A lot of what he talks to me about is not get more arc on your j
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=46s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=46s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=46&q=2)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=46&q=2) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=46&q=2&slack=1)</small>
 
 **3. Peyton Watson — "It's a lot different playing from the outside in as opposed to the inside out." — Peyton Watson on adjusting to playing alongside James and Nance** [01:24](https://www.youtube.com/watch?v=np9nAPmu4uk&t=84s)
 
@@ -26,7 +26,7 @@ Peyton Watson: "It's a lot different playing from the outside in as opposed to t
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=84s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=84s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=84&q=3)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=84&q=3) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=84&q=3&slack=1)</small>
 
 **4. Peyton Watson — "Having those two guys in their interior presence just helps us a lot." — Peyton Watson on his defensive role alongside Nance and Jarrett** [02:42](https://www.youtube.com/watch?v=np9nAPmu4uk&t=162s)
 
@@ -34,7 +34,7 @@ Peyton Watson: "Having that back line there that helps me out and kind of deter 
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=162s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=162s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=162&q=4)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=162&q=4) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=162&q=4&slack=1)</small>
 
 **5. Peyton Watson — "I take it upon myself regardless if somebody told me I was responsible or not." — Peyton Watson on his vocal leadership and defensive communication** [03:47](https://www.youtube.com/watch?v=np9nAPmu4uk&t=227s)
 
@@ -42,7 +42,7 @@ Peyton Watson: "I take it upon myself regardless if somebody told me I was respo
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=227s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=227s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=227&q=5)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=227&q=5) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=227&q=5&slack=1)</small>
 
 **6. Peyton Watson — "It's one thing to have goals. It's another thing to put the steps in place." — Peyton Watson on handling the pressure of high expectations** [04:24](https://www.youtube.com/watch?v=np9nAPmu4uk&t=264s)
 
@@ -50,7 +50,7 @@ Peyton Watson: "I think it's just not just talking about it. We got to be about 
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=264s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=264s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=264&q=6)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=264&q=6) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=264&q=6&slack=1)</small>
 
 **7. Peyton Watson — "Go out there with a mean streak. I think go out there and try to kill." — Peyton Watson on the team's mindset heading into the season** [05:40](https://www.youtube.com/watch?v=np9nAPmu4uk&t=340s)
 
@@ -58,7 +58,7 @@ Peyton Watson: "Go out there with a mean streak. I think go out there and try to
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=340s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=340s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=340&q=7)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=340&q=7) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=340&q=7&slack=1)</small>
 
 **8. Peyton Watson — "There are no excuses in this game. We've got to be ready to play every single night." — Peyton Watson on the challenge of maintaining a competitive edge** [06:48](https://www.youtube.com/watch?v=np9nAPmu4uk&t=408s)
 
@@ -66,7 +66,7 @@ Peyton Watson: "It's tricky because you always want to keep a competitive edge, 
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=408s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=408s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=408&q=8)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=408&q=8) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=408&q=8&slack=1)</small>
 
 **9. Peyton Watson — "The overall camaraderie that we have, not only just between us players because we all have great relationships." — Peyton Watson on the commonalities of championship teams** [07:09](https://www.youtube.com/watch?v=np9nAPmu4uk&t=429s)
 
@@ -74,4 +74,4 @@ Peyton Watson: "The overall camaraderie that we have, not only just between us p
 
 [https://www.youtube.com/watch?v=np9nAPmu4uk&t=429s](https://www.youtube.com/watch?v=np9nAPmu4uk&t=429s)
 
-<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=429&q=9)</small>
+<small>[Clip it](presserclips://clip?v=np9nAPmu4uk&t=429&q=9) · [Send to Slack](presserclips://clip?v=np9nAPmu4uk&t=429&q=9&slack=1)</small>

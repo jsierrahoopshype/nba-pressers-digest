@@ -10,7 +10,7 @@ James Harden: "There's so much that goes into being an elite screener. Knowing w
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=18s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=18s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=18&q=1) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=18&q=1&slack=1)</small>
 
 **2. James Harden — "He has the athleticism and the pace to create an advantage or create separation." — James Harden on Evan Mobley's unique athleticism and pace** [01:23](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=83s)
 
@@ -18,7 +18,7 @@ James Harden: "I think just his athleticism, but it's his pace. He has the athle
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=83s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=83s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=83&q=2)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=83&q=2) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=83&q=2&slack=1)</small>
 
 **3. James Harden — "I think just ultimate confidence. He works extremely hard, he's focused, he wants to be great." — James Harden on building Evan Mobley's confidence for the season** [02:46](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=166s)
 
@@ -26,7 +26,7 @@ James Harden: "I think just ultimate confidence. He works extremely hard, he's f
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=166s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=166s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=166&q=3)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=166&q=3) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=166&q=3&slack=1)</small>
 
 **4. James Harden — "I think off the court is the most important. Just hanging out, going to dinners." — James Harden on the importance of off-court chemistry with teammates** [03:24](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=204s)
 
@@ -34,7 +34,7 @@ James Harden: "I think off the court is the most important. Just hanging out, go
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=204s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=204s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=204&q=4)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=204&q=4) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=204&q=4&slack=1)</small>
 
 **5. James Harden — "He has a dynamic that we were missing this last year." — James Harden on helping Evan Mobley find his role** [04:11](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=251s)
 
@@ -42,4 +42,4 @@ James Harden: "I can only imagine how difficult it is for him having this thing 
 
 [https://www.youtube.com/watch?v=rvqmGJkSHYI&t=251s](https://www.youtube.com/watch?v=rvqmGJkSHYI&t=251s)
 
-<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=251&q=5)</small>
+<small>[Clip it](presserclips://clip?v=rvqmGJkSHYI&t=251&q=5) · [Send to Slack](presserclips://clip?v=rvqmGJkSHYI&t=251&q=5&slack=1)</small>

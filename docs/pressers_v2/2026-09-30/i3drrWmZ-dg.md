@@ -10,7 +10,7 @@ Tolu Smith: "We switched it up a little bit so it is a nice thing. It has been w
 
 [https://www.youtube.com/watch?v=i3drrWmZ-dg&t=57s](https://www.youtube.com/watch?v=i3drrWmZ-dg&t=57s)
 
-<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=57&q=1)</small>
+<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=57&q=1) · [Send to Slack](presserclips://clip?v=i3drrWmZ-dg&t=57&q=1&slack=1)</small>
 
 **2. Tolu Smith — "Me and B-Ball we are always in the gym." — Tolu Smith credits Paul Reed for mentoring him during training camp.** [02:00](https://www.youtube.com/watch?v=i3drrWmZ-dg&t=120s)
 
@@ -18,4 +18,4 @@ Tolu Smith: "Me and **B-Ball** we are always in the gym. He is always talking to
 
 [https://www.youtube.com/watch?v=i3drrWmZ-dg&t=120s](https://www.youtube.com/watch?v=i3drrWmZ-dg&t=120s)
 
-<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=120&q=2)</small>
+<small>[Clip it](presserclips://clip?v=i3drrWmZ-dg&t=120&q=2) · [Send to Slack](presserclips://clip?v=i3drrWmZ-dg&t=120&q=2&slack=1)</small>

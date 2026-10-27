@@ -12,7 +12,7 @@ Toumani Camara: "Just be more consistent in everything I do. Be more efficient, 
 
 [https://www.youtube.com/watch?v=omy0wDmrhxg&t=18s](https://www.youtube.com/watch?v=omy0wDmrhxg&t=18s)
 
-<small>[Clip it](presserclips://clip?v=omy0wDmrhxg&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=omy0wDmrhxg&t=18&q=1) · [Send to Slack](presserclips://clip?v=omy0wDmrhxg&t=18&q=1&slack=1)</small>
 
 **2. Toumani Camara (Portland Trail Blazers) — "how much the defense is going to be focused on Dame and Ja" — Toumani Camara expects more open shots due to defensive focus on Damian Lillard and Ja Morant.** [03:29](https://www.youtube.com/watch?v=omy0wDmrhxg&t=209s) (approx.)
 
@@ -20,7 +20,7 @@ Toumani Camara: "More open shots. I feel like last year we had **Danny** that wa
 
 [https://www.youtube.com/watch?v=omy0wDmrhxg&t=209s](https://www.youtube.com/watch?v=omy0wDmrhxg&t=209s)
 
-<small>[Clip it](presserclips://clip?v=omy0wDmrhxg&t=209&q=2)</small>
+<small>[Clip it](presserclips://clip?v=omy0wDmrhxg&t=209&q=2) · [Send to Slack](presserclips://clip?v=omy0wDmrhxg&t=209&q=2&slack=1)</small>
 
 **3. Toumani Camara (Portland Trail Blazers) — "Be a 50 plus win team, make it to the playoffs" — Toumani Camara sets a goal for the Trail Blazers to win 50 games.** [03:58](https://www.youtube.com/watch?v=omy0wDmrhxg&t=238s) (approx.)
 
@@ -28,7 +28,7 @@ Toumani Camara: "Be a 50 plus win team, make it to the playoffs, have home court
 
 [https://www.youtube.com/watch?v=omy0wDmrhxg&t=238s](https://www.youtube.com/watch?v=omy0wDmrhxg&t=238s)
 
-<small>[Clip it](presserclips://clip?v=omy0wDmrhxg&t=238&q=3)</small>
+<small>[Clip it](presserclips://clip?v=omy0wDmrhxg&t=238&q=3) · [Send to Slack](presserclips://clip?v=omy0wDmrhxg&t=238&q=3&slack=1)</small>
 
 ---
 
@@ -44,7 +44,7 @@ Micah Nori: "I think the first thing from a defensive standpoint, we just want t
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=25s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=25s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=25&q=1) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=25&q=1&slack=1)</small>
 
 **2. Micah Nori (Portland Trail Blazers) — Micah Nori expresses concern about the team's defensive size at the point of attack.** [06:11](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=371s) (approx.)
 
@@ -52,7 +52,7 @@ Micah Nori: "I think the one thing that I'm a little bit most nervous about is I
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=371s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=371s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=371&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=371&q=2) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=371&q=2&slack=1)</small>
 
 **3. Micah Nori (Portland Trail Blazers) — "I think we definitely have 10 that you feel very, very comfortable" — Micah Nori expects a rotation of 10 to 11 players this season.** [07:51](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=471s) (approx.)
 
@@ -60,7 +60,7 @@ Micah Nori: "I think right now, I mean we can go I think we definitely have 10 t
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=471s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=471s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=471&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=471&q=3) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=471&q=3&slack=1)</small>
 
 **4. Micah Nori (Portland Trail Blazers) — "the more basketball he plays against NBA caliber players, the better he's going to be" — Micah Nori praises the development of Hanson through increased competition against NBA players.** [08:54](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=534s) (approx.)
 
@@ -68,7 +68,7 @@ Micah Nori: "I think the more thing with **Hanson** is the more basketball he pl
 
 [https://www.youtube.com/watch?v=2AR0VjjaAiI&t=534s](https://www.youtube.com/watch?v=2AR0VjjaAiI&t=534s)
 
-<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=534&q=4)</small>
+<small>[Clip it](presserclips://clip?v=2AR0VjjaAiI&t=534&q=4) · [Send to Slack](presserclips://clip?v=2AR0VjjaAiI&t=534&q=4&slack=1)</small>
 
 ---
 
@@ -84,7 +84,7 @@ Damian Lillard: "When I saw him go down and I saw him walk off the court by hims
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=81s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=81s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=81&q=1)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=81&q=1) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=81&q=1&slack=1)</small>
 
 **2. Damian Lillard (Portland Trail Blazers) — "I made my mind up that I was going to not play last year" — Damian Lillard confirms he sat out last season to ensure a full recovery.** [02:21](https://www.youtube.com/watch?v=PumHkaLDJ60&t=141s) (approx.)
 
@@ -92,7 +92,7 @@ Damian Lillard: "Once I saw that I made my mind up that I was going to not play 
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=141s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=141s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=141&q=2)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=141&q=2) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=141&q=2&slack=1)</small>
 
 **3. Damian Lillard (Portland Trail Blazers) — Damian Lillard details his long absence from the court due to injury and health issues.** [03:12](https://www.youtube.com/watch?v=PumHkaLDJ60&t=192s) (approx.)
 
@@ -100,7 +100,7 @@ Damian Lillard: "For me it's just being patient. You know, I missed two months a
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=192s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=192s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=192&q=3)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=192&q=3) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=192&q=3&slack=1)</small>
 
 **4. Damian Lillard (Portland Trail Blazers) — "As far as I know, like will Ja will start, I'll start" — Damian Lillard expects to start alongside Ja and Danny this season.** [06:01](https://www.youtube.com/watch?v=PumHkaLDJ60&t=361s) (approx.)
 
@@ -108,7 +108,7 @@ Damian Lillard: "We've had the conversation not in depth like oh, you know, Dame
 
 [https://www.youtube.com/watch?v=PumHkaLDJ60&t=361s](https://www.youtube.com/watch?v=PumHkaLDJ60&t=361s)
 
-<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=361&q=4)</small>
+<small>[Clip it](presserclips://clip?v=PumHkaLDJ60&t=361&q=4) · [Send to Slack](presserclips://clip?v=PumHkaLDJ60&t=361&q=4&slack=1)</small>
 
 ---
 
@@ -124,7 +124,7 @@ Charles Lee: "The flexibility comes with, you know, I think this group allows yo
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=66s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=66s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=66&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=66&q=1) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=66&q=1&slack=1)</small>
 
 **2. Charles Lee (Charlotte Hornets) — "he brings a lot of NBA corporate knowledge" — Charles Lee praises Dennis Schroder for his leadership and ability to impact the Hornets' offense.** [01:58](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s) (approx.)
 
@@ -132,7 +132,7 @@ Charles Lee: "I'm so glad to be reunited with Dennis. It's been fun watching his
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=118s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=118&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=118&q=2) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=118&q=2&slack=1)</small>
 
 **3. Charles Lee (Charlotte Hornets) — "most teams like you see a lot of success when that team can learn how to gel" — Charles Lee emphasizes the importance of team chemistry for the Hornets' deep roster.** [03:58](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s) (approx.)
 
@@ -140,7 +140,7 @@ Charles Lee: "I think we have a very deep talented roster, but most teams, like 
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=238s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=238&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=238&q=3) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=238&q=3&slack=1)</small>
 
 **4. Charles Lee (Charlotte Hornets) — "I look forward to him trying to expand his game a little bit, maybe shoot the three" — Charles Lee wants PJ Washington to expand his offensive game by shooting more threes.** [04:17](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s) (approx.)
 
@@ -148,7 +148,7 @@ Charles Lee: "I thought we got to see last year in some of his stints that he ha
 
 [https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s](https://www.youtube.com/watch?v=Z3g5A5wgOIM&t=257s)
 
-<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=257&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Z3g5A5wgOIM&t=257&q=4) · [Send to Slack](presserclips://clip?v=Z3g5A5wgOIM&t=257&q=4&slack=1)</small>
 
 ---
 
@@ -164,7 +164,7 @@ Coby White: "Most of the time when guys come in a situation like this, the coach
 
 [https://www.youtube.com/watch?v=zZ_7BalIBEo&t=86s](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=86s)
 
-<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=86&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=86&q=1) · [Send to Slack](presserclips://clip?v=zZ_7BalIBEo&t=86&q=1&slack=1)</small>
 
 **2. Coby White (Charlotte Hornets) — "all that time invested allow us to kind of transition quickly in the training camp" — Coby White says summer workouts helped the Hornets transition quickly into training camp** [03:16](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s) (approx.)
 
@@ -172,7 +172,7 @@ Coby White: "I think all that time invested allow us to kind of transition quick
 
 [https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s](https://www.youtube.com/watch?v=zZ_7BalIBEo&t=196s)
 
-<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=196&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zZ_7BalIBEo&t=196&q=2) · [Send to Slack](presserclips://clip?v=zZ_7BalIBEo&t=196&q=2&slack=1)</small>
 
 ---
 
@@ -188,7 +188,7 @@ Brandon Miller: "I feel like just taking on a more vocal leadership role. I thin
 
 [https://www.youtube.com/watch?v=bfGUYvZnbLA&t=39s](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=39s)
 
-<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=39&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=39&q=1) · [Send to Slack](presserclips://clip?v=bfGUYvZnbLA&t=39&q=1&slack=1)</small>
 
 **2. Brandon Miller (Charlotte Hornets) — "Naz of course has playoff experience, that's where everyone wants to be." — Brandon Miller praises the veteran experience of Naz, Kobe, and Dennis on the Hornets roster.** [01:10](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=70s) (approx.)
 
@@ -196,7 +196,7 @@ Brandon Miller: "Just their experience. **Naz** of course has playoff experience
 
 [https://www.youtube.com/watch?v=bfGUYvZnbLA&t=70s](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=70s)
 
-<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=70&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=70&q=2) · [Send to Slack](presserclips://clip?v=bfGUYvZnbLA&t=70&q=2&slack=1)</small>
 
 **3. Brandon Miller (Charlotte Hornets) — "I think that's going to go a long way with bonds, chemistry." — Brandon Miller credits the team's chemistry to players spending the entire summer working out together.** [02:53](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=173s) (approx.)
 
@@ -204,7 +204,7 @@ Brandon Miller: "I think it all started before that. In the summer, you don't se
 
 [https://www.youtube.com/watch?v=bfGUYvZnbLA&t=173s](https://www.youtube.com/watch?v=bfGUYvZnbLA&t=173s)
 
-<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=173&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bfGUYvZnbLA&t=173&q=3) · [Send to Slack](presserclips://clip?v=bfGUYvZnbLA&t=173&q=3&slack=1)</small>
 
 ---
 
@@ -220,7 +220,7 @@ John Collins: "One thing that I continually understand more and more is to just 
 
 [https://www.youtube.com/watch?v=4931_wKJt0w&t=89s](https://www.youtube.com/watch?v=4931_wKJt0w&t=89s)
 
-<small>[Clip it](presserclips://clip?v=4931_wKJt0w&t=89&q=1)</small>
+<small>[Clip it](presserclips://clip?v=4931_wKJt0w&t=89&q=1) · [Send to Slack](presserclips://clip?v=4931_wKJt0w&t=89&q=1&slack=1)</small>
 
 **2. John Collins (Detroit Pistons) — "You guys are trying to do something that I agree with in my soul" — John Collins says his move to the Detroit Pistons was a mutual decision.** [03:35](https://www.youtube.com/watch?v=4931_wKJt0w&t=215s) (approx.)
 
@@ -228,7 +228,7 @@ John Collins: "It was mutual. It was definitely a mutual energy coming from both
 
 [https://www.youtube.com/watch?v=4931_wKJt0w&t=215s](https://www.youtube.com/watch?v=4931_wKJt0w&t=215s)
 
-<small>[Clip it](presserclips://clip?v=4931_wKJt0w&t=215&q=2)</small>
+<small>[Clip it](presserclips://clip?v=4931_wKJt0w&t=215&q=2) · [Send to Slack](presserclips://clip?v=4931_wKJt0w&t=215&q=2&slack=1)</small>
 
 **3. John Collins (Detroit Pistons) — "It is probably a toss up between Sheed Wallace or Isaiah Thomas." — John Collins names Rasheed Wallace and Isiah Thomas as his favorite Detroit Pistons players.** [06:06](https://www.youtube.com/watch?v=4931_wKJt0w&t=366s) (approx.)
 
@@ -236,7 +236,7 @@ John Collins: "It is probably a toss up between Sheed Wallace or Isaiah Thomas. 
 
 [https://www.youtube.com/watch?v=4931_wKJt0w&t=366s](https://www.youtube.com/watch?v=4931_wKJt0w&t=366s)
 
-<small>[Clip it](presserclips://clip?v=4931_wKJt0w&t=366&q=3)</small>
+<small>[Clip it](presserclips://clip?v=4931_wKJt0w&t=366&q=3) · [Send to Slack](presserclips://clip?v=4931_wKJt0w&t=366&q=3&slack=1)</small>
 
 ---
 
@@ -252,7 +252,7 @@ Duncan Robinson: "We got a lot of guys that can shoot, which is really exciting.
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=92s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=92s)
 
-<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=92&q=1)</small>
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=92&q=1) · [Send to Slack](presserclips://clip?v=mOaXI5uCpLo&t=92&q=1&slack=1)</small>
 
 **2. Duncan Robinson (Detroit Pistons) — Duncan Robinson praises the energy and charisma John Collins brings to the Detroit Pistons.** [02:06](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s) (approx.)
 
@@ -260,7 +260,7 @@ Duncan Robinson: "Just his energy, just the way he shows up every single day. Su
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=126s)
 
-<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=126&q=2)</small>
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=126&q=2) · [Send to Slack](presserclips://clip?v=mOaXI5uCpLo&t=126&q=2&slack=1)</small>
 
 **3. Duncan Robinson (Detroit Pistons) — "Despite his size, he's really comfortable getting shots off in and around the paint." — Duncan Robinson praises the skill and rim protection of rookie Corey.** [03:30](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s) (approx.)
 
@@ -268,7 +268,7 @@ Duncan Robinson: "He's been great to be around. He's super tough, just with how 
 
 [https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s](https://www.youtube.com/watch?v=mOaXI5uCpLo&t=210s)
 
-<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=210&q=3)</small>
+<small>[Clip it](presserclips://clip?v=mOaXI5uCpLo&t=210&q=3) · [Send to Slack](presserclips://clip?v=mOaXI5uCpLo&t=210&q=3&slack=1)</small>
 
 ---
 
@@ -284,7 +284,7 @@ Brian Keefe: "First of all, **Cody Toppert** joining us. He was obviously our he
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=65s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=65s)
 
-<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=65&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=65&q=1) · [Send to Slack](presserclips://clip?v=ZfMsj6cq92E&t=65&q=1&slack=1)</small>
 
 **2. Brian Keefe (Washington Wizards) — "Patrick Ewing is joining us, bringing over 40 plus years of at the highest level" — Brian Keefe adds Patrick Ewing to the Washington Wizards coaching staff.** [01:18](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=78s) (approx.)
 
@@ -292,7 +292,7 @@ Brian Keefe: "**Patrick Ewing** is joining us, bringing over 40 plus years of at
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=78s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=78s)
 
-<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=78&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=78&q=2) · [Send to Slack](presserclips://clip?v=ZfMsj6cq92E&t=78&q=2&slack=1)</small>
 
 **3. Brian Keefe (Washington Wizards) — "Steve Clifford is joining us as a coaching consultant" — Brian Keefe adds Steve Clifford to the Washington Wizards staff as a coaching consultant.** [01:30](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=90s) (approx.)
 
@@ -300,7 +300,7 @@ Brian Keefe: "Lastly, **Steve Clifford** is joining us as a coaching consultant.
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=90s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=90s)
 
-<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=90&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=90&q=3) · [Send to Slack](presserclips://clip?v=ZfMsj6cq92E&t=90&q=3&slack=1)</small>
 
 **4. Brian Keefe (Washington Wizards) — "Chris Middleton coming back, which was a huge signing for us" — Brian Keefe highlights the additions of Chris Middleton, Deandre Ayton, and Trey Mann.** [03:45](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=225s) (approx.)
 
@@ -308,7 +308,7 @@ Brian Keefe: "I didn't get a chance to talk about **Chris Middleton** coming bac
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=225s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=225s)
 
-<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=225&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=225&q=4) · [Send to Slack](presserclips://clip?v=ZfMsj6cq92E&t=225&q=4&slack=1)</small>
 
 **5. Brian Keefe (Washington Wizards) — "you can't just have one decision maker. You need multiple." — Brian Keefe emphasizes the importance of having multiple playmakers on the floor.** [05:37](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=337s) (approx.)
 
@@ -316,7 +316,7 @@ Brian Keefe: "I think that's how we've always wanted to develop this as an organ
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=337s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=337s)
 
-<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=337&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=337&q=5) · [Send to Slack](presserclips://clip?v=ZfMsj6cq92E&t=337&q=5&slack=1)</small>
 
 **6. Brian Keefe (Washington Wizards) — "building the shared standards for our guys and what we're going to hold ourselves to." — Brian Keefe discusses his philosophy on building shared standards for the team.** [12:07](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=727s) (approx.)
 
@@ -324,7 +324,7 @@ Brian Keefe: "I think what I'm really looking forward to, David, is the is build
 
 [https://www.youtube.com/watch?v=ZfMsj6cq92E&t=727s](https://www.youtube.com/watch?v=ZfMsj6cq92E&t=727s)
 
-<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=727&q=6)</small>
+<small>[Clip it](presserclips://clip?v=ZfMsj6cq92E&t=727&q=6) · [Send to Slack](presserclips://clip?v=ZfMsj6cq92E&t=727&q=6&slack=1)</small>
 
 ---
 
@@ -340,7 +340,7 @@ Khris Middleton: "Defense is always the number one thing that gets the coaches g
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=85s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=85s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=85&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=85&q=1) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=85&q=1&slack=1)</small>
 
 **2. Khris Middleton (Washington Wizards) — "Knowing that you have two seven footers back there just in case" — Khris Middleton highlights the defensive impact of having two seven footers protecting the rim for the Washington Wizards.** [02:45](https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s) (approx.)
 
@@ -348,7 +348,7 @@ Khris Middleton: "Still guard your man and knowing that you have two seven foote
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=165&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=165&q=2) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=165&q=2&slack=1)</small>
 
 **3. Khris Middleton (Washington Wizards) — "I think it is just being myself" — Khris Middleton describes his approach to mentoring younger teammates on the Washington Wizards roster.** [03:12](https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s) (approx.)
 
@@ -356,7 +356,7 @@ Khris Middleton: "I think it is just being myself. I think the guys know behind 
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=192&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=192&q=3) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=192&q=3&slack=1)</small>
 
 **4. Khris Middleton (Washington Wizards) — "It was a lot of the stuff I saw last year" — Khris Middleton explains the factors that influenced his decision to return to the Washington Wizards.** [04:53](https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s) (approx.)
 
@@ -364,7 +364,7 @@ Khris Middleton: "It was a lot of the stuff I saw last year. Just the daily habi
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=293&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=293&q=4) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=293&q=4&slack=1)</small>
 
 ---
 
@@ -380,7 +380,7 @@ Gui Santos: "I was turning the ball over more than I should and this year I am j
 
 [https://www.youtube.com/watch?v=Mx73pr0DVn0&t=144s](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=144s)
 
-<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=144&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=144&q=1) · [Send to Slack](presserclips://clip?v=Mx73pr0DVn0&t=144&q=1&slack=1)</small>
 
 **2. Gui Santos (Golden State Warriors) — "if you help your team to win that's what really matters." — Gui Santos says he is comfortable coming off the bench as long as he helps the team win.** [03:26](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=206s) (approx.)
 
@@ -388,7 +388,7 @@ Gui Santos: "For me, it doesn't really make any difference if you start a game o
 
 [https://www.youtube.com/watch?v=Mx73pr0DVn0&t=206s](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=206s)
 
-<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=206&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=206&q=2) · [Send to Slack](presserclips://clip?v=Mx73pr0DVn0&t=206&q=2&slack=1)</small>
 
 **3. Gui Santos (Golden State Warriors) — "if I play under control, every time I step into the paint, use the two feet" — Gui Santos credits watching Jimmy for his improved focus on playing under control.** [04:31](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=271s) (approx.)
 
@@ -396,7 +396,7 @@ Gui Santos: "I think play more under control. A lot of times I was trying to rus
 
 [https://www.youtube.com/watch?v=Mx73pr0DVn0&t=271s](https://www.youtube.com/watch?v=Mx73pr0DVn0&t=271s)
 
-<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=271&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Mx73pr0DVn0&t=271&q=3) · [Send to Slack](presserclips://clip?v=Mx73pr0DVn0&t=271&q=3&slack=1)</small>
 
 ---
 
@@ -412,7 +412,7 @@ J.B. Bickerstaff: "The most important thing is that he is healthy. Talent doesn'
 
 [https://www.youtube.com/watch?v=ixxXvIYnbqo&t=391s](https://www.youtube.com/watch?v=ixxXvIYnbqo&t=391s)
 
-<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=391&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=391&q=1) · [Send to Slack](presserclips://clip?v=ixxXvIYnbqo&t=391&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff (Detroit Pistons) — "there are lineups that we can play with him at the five" — J.B. Bickerstaff is exploring small-ball lineups with John Collins at the five.** [07:16](https://www.youtube.com/watch?v=ixxXvIYnbqo&t=436s) (approx.)
 
@@ -420,7 +420,7 @@ J.B. Bickerstaff: "We will do what the versatility allows us to do and there are
 
 [https://www.youtube.com/watch?v=ixxXvIYnbqo&t=436s](https://www.youtube.com/watch?v=ixxXvIYnbqo&t=436s)
 
-<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=436&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ixxXvIYnbqo&t=436&q=2) · [Send to Slack](presserclips://clip?v=ixxXvIYnbqo&t=436&q=2&slack=1)</small>
 
 ---
 

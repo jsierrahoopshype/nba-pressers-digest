@@ -16,7 +16,7 @@ _Speakers identified: Caleb Wilson, Matas Buzelis_
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=14s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=14s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=14&q=1) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=14&q=1&slack=1)</small>
 
 **2. Caleb Wilson — "I'm excited to be here and I feel like it's going to be great for me." — Caleb Wilson on his excitement for his rookie season with the Bulls** [00:34](https://www.youtube.com/watch?v=auzyc8y-uNI&t=34s)
 
@@ -24,7 +24,7 @@ Caleb Wilson: "It's been really exciting. Just getting started now, but I'm exci
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=34s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=34s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=34&q=2)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=34&q=2) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=34&q=2&slack=1)</small>
 
 **3. Caleb Wilson — "It kind of feels surreal, but it's here now, so I'm excited for it." — Caleb Wilson on the surreal feeling of starting his NBA career** [01:06](https://www.youtube.com/watch?v=auzyc8y-uNI&t=66s)
 
@@ -32,7 +32,7 @@ Caleb Wilson: "It kind of feels surreal, but it's here now, so I'm excited for i
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=66s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=66s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=66&q=3)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=66&q=3) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=66&q=3&slack=1)</small>
 
 **4. Caleb Wilson — "It's my first time getting in an NBA game and playing in the United Center." — Caleb Wilson on his upcoming NBA debut at the United Center** [02:14](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
 
@@ -40,4 +40,4 @@ Caleb Wilson: "In two weeks, we'll be tipping off and it'll be real. It's my fir
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=134s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=134&q=4) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=134&q=4&slack=1)</small>

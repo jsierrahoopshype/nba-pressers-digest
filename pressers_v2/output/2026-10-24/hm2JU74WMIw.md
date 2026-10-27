@@ -10,7 +10,7 @@ Sion James: "They were being physical, they were being aggressive, and they were
 
 [https://www.youtube.com/watch?v=hm2JU74WMIw&t=12s](https://www.youtube.com/watch?v=hm2JU74WMIw&t=12s)
 
-<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=12&q=1) · [Send to Slack](presserclips://clip?v=hm2JU74WMIw&t=12&q=1&slack=1)</small>
 
 **2. Sion James — "We were just making the wrong decisions with the ball. We were putting ourselves in positions." — Sion James explains the team's poor decision-making and live-ball turnovers** [00:36](https://www.youtube.com/watch?v=hm2JU74WMIw&t=36s)
 
@@ -18,7 +18,7 @@ Sion James: "We were just making the wrong decisions with the ball. We were putt
 
 [https://www.youtube.com/watch?v=hm2JU74WMIw&t=36s](https://www.youtube.com/watch?v=hm2JU74WMIw&t=36s)
 
-<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=36&q=2)</small>
+<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=36&q=2) · [Send to Slack](presserclips://clip?v=hm2JU74WMIw&t=36&q=2&slack=1)</small>
 
 **3. Sion James — "Whether we were by 47 or by one, we lost the game. It's one loss." — Sion James on the team's mindset following a tough loss** [01:22](https://www.youtube.com/watch?v=hm2JU74WMIw&t=82s)
 
@@ -26,7 +26,7 @@ Sion James: "It's a great learning opportunity. Coach is super positive, so I'm 
 
 [https://www.youtube.com/watch?v=hm2JU74WMIw&t=82s](https://www.youtube.com/watch?v=hm2JU74WMIw&t=82s)
 
-<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=82&q=3)</small>
+<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=82&q=3) · [Send to Slack](presserclips://clip?v=hm2JU74WMIw&t=82&q=3&slack=1)</small>
 
 **4. Sion James — "It wasn't really a timeout or no timeout theme, it was just we weren't executing." — Sion James attributes turnovers to poor execution rather than timeouts** [02:14](https://www.youtube.com/watch?v=hm2JU74WMIw&t=134s)
 
@@ -34,4 +34,4 @@ Sion James: "It wasn't really a timeout or no timeout theme, it was just we were
 
 [https://www.youtube.com/watch?v=hm2JU74WMIw&t=134s](https://www.youtube.com/watch?v=hm2JU74WMIw&t=134s)
 
-<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=hm2JU74WMIw&t=134&q=4) · [Send to Slack](presserclips://clip?v=hm2JU74WMIw&t=134&q=4&slack=1)</small>

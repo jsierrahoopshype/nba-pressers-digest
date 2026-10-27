@@ -10,7 +10,7 @@ Brayden Burries: "The best thing is when I'm rebounding. So when I'm trying to r
 
 [https://www.youtube.com/watch?v=o-5JSDD1Euo&t=38s](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=38s)
 
-<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=38&q=1)</small>
+<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=38&q=1) · [Send to Slack](presserclips://clip?v=o-5JSDD1Euo&t=38&q=1&slack=1)</small>
 
 **2. Brayden Burries — "Just trying to get in the paint on offense and then defense help collapsing, kick outs" — Taylor's specific development goals for Brayden Burries** [01:05](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=65s)
 
@@ -18,7 +18,7 @@ Brayden Burries: "Just trying to get in the paint on offense and then defense he
 
 [https://www.youtube.com/watch?v=o-5JSDD1Euo&t=65s](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=65s)
 
-<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=65&q=2)</small>
+<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=65&q=2) · [Send to Slack](presserclips://clip?v=o-5JSDD1Euo&t=65&q=2&slack=1)</small>
 
 **3. Brayden Burries — "I think that's the best thing for me, honestly, just getting thrown in the fire." — Brayden Burries on guarding elite NBA guards** [01:37](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=97s)
 
@@ -26,7 +26,7 @@ Brayden Burries: "I think that's the best thing for me, honestly, just getting t
 
 [https://www.youtube.com/watch?v=o-5JSDD1Euo&t=97s](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=97s)
 
-<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=97&q=3)</small>
+<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=97&q=3) · [Send to Slack](presserclips://clip?v=o-5JSDD1Euo&t=97&q=3&slack=1)</small>
 
 **4. Brayden Burries — "Just playing a lot of doing a lot of scrimmaging, you know, playing a lot of five-on-five" — How scrimmaging translates to NBA game performance** [02:46](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=166s)
 
@@ -34,7 +34,7 @@ Brayden Burries: "Just playing a lot of doing a lot of scrimmaging, you know, pl
 
 [https://www.youtube.com/watch?v=o-5JSDD1Euo&t=166s](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=166s)
 
-<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=166&q=4)</small>
+<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=166&q=4) · [Send to Slack](presserclips://clip?v=o-5JSDD1Euo&t=166&q=4&slack=1)</small>
 
 **5. Brayden Burries — "We have a very unique team. We have a lot of young guys, some older guys" — The unique veteran and youth dynamic on the Bucks** [03:17](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=197s)
 
@@ -42,7 +42,7 @@ Brayden Burries: "We have a very unique team. We have a lot of young guys, some 
 
 [https://www.youtube.com/watch?v=o-5JSDD1Euo&t=197s](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=197s)
 
-<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=197&q=5)</small>
+<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=197&q=5) · [Send to Slack](presserclips://clip?v=o-5JSDD1Euo&t=197&q=5&slack=1)</small>
 
 **6. Brayden Burries — "We just got to get better. That's the main thing. That's always the main thing" — Brayden Burries on his primary postgame takeaway** [04:16](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=256s)
 
@@ -50,4 +50,4 @@ Brayden Burries: "We just got to get better. That's the main thing. That's alway
 
 [https://www.youtube.com/watch?v=o-5JSDD1Euo&t=256s](https://www.youtube.com/watch?v=o-5JSDD1Euo&t=256s)
 
-<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=256&q=6)</small>
+<small>[Clip it](presserclips://clip?v=o-5JSDD1Euo&t=256&q=6) · [Send to Slack](presserclips://clip?v=o-5JSDD1Euo&t=256&q=6&slack=1)</small>

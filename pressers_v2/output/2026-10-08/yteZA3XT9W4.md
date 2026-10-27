@@ -12,7 +12,7 @@ _Speakers identified: Ayo Dosunmu, Terrence Shannon Jr._
 
 [https://www.youtube.com/watch?v=yteZA3XT9W4&t=0s](https://www.youtube.com/watch?v=yteZA3XT9W4&t=0s)
 
-<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=0&q=1) · [Send to Slack](presserclips://clip?v=yteZA3XT9W4&t=0&q=1&slack=1)</small>
 
 **2. Terrence Shannon Jr. — "I feel like I'm physically able to guard a four. I just got to do a better job" — Terrence Shannon Jr. on his ability to guard the four position** [00:34](https://www.youtube.com/watch?v=yteZA3XT9W4&t=34s)
 
@@ -20,7 +20,7 @@ Terrence Shannon Jr.: "I feel like I'm physically able to guard a four. Like you
 
 [https://www.youtube.com/watch?v=yteZA3XT9W4&t=34s](https://www.youtube.com/watch?v=yteZA3XT9W4&t=34s)
 
-<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=34&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=34&q=2) · [Send to Slack](presserclips://clip?v=yteZA3XT9W4&t=34&q=2&slack=1)</small>
 
 **3. Ayo Dosunmu — "I think we did a great job of the initial attack getting downhill and then making" — Ayo Dosunmu on the team's offensive execution and decision-making** [01:13](https://www.youtube.com/watch?v=yteZA3XT9W4&t=73s)
 
@@ -28,7 +28,7 @@ Ayo Dosunmu: "I think we did a great job of the initial attack getting downhill 
 
 [https://www.youtube.com/watch?v=yteZA3XT9W4&t=73s](https://www.youtube.com/watch?v=yteZA3XT9W4&t=73s)
 
-<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=73&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=73&q=3) · [Send to Slack](presserclips://clip?v=yteZA3XT9W4&t=73&q=3&slack=1)</small>
 
 **4. Ayo Dosunmu — "Health is always most important to anybody in the NBA. Always pray for health and safety" — Ayo Dosunmu on Tyrese Maxey's return from injury** [02:03](https://www.youtube.com/watch?v=yteZA3XT9W4&t=123s)
 
@@ -36,4 +36,4 @@ Ayo Dosunmu: "Health is always most important to anybody in the NBA. Always pray
 
 [https://www.youtube.com/watch?v=yteZA3XT9W4&t=123s](https://www.youtube.com/watch?v=yteZA3XT9W4&t=123s)
 
-<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=123&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yteZA3XT9W4&t=123&q=4) · [Send to Slack](presserclips://clip?v=yteZA3XT9W4&t=123&q=4&slack=1)</small>

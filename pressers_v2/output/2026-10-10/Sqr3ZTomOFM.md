@@ -8,7 +8,7 @@ Khaman Maluach: "I think there is a lot of good stuff and there is a lot of stuf
 
 [https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=33s](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=33s)
 
-<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=33&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=33&q=1) · [Send to Slack](presserclips://clip?v=Sqr3ZTomOFM&t=33&q=1&slack=1)</small>
 
 **2. Khaman Maluach — "It is rebounding, I got to do a better job of that, and just really protecting the rim." — Khaman Maluach's personal checklist for improving his rim protection and rebounding** [01:50](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=110s)
 
@@ -16,7 +16,7 @@ Khaman Maluach: "It is rebounding, I got to do a better job of that, and just re
 
 [https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=110s](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=110s)
 
-<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=110&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=110&q=2) · [Send to Slack](presserclips://clip?v=Sqr3ZTomOFM&t=110&q=2&slack=1)</small>
 
 **3. Khaman Maluach — "There is more space in the NBA and the ball can go where you won't be able to get it." — Khaman Maluach on the differences between college and NBA rebounding** [02:30](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=150s)
 
@@ -24,7 +24,7 @@ Khaman Maluach: "There is a lot of differences. Pros crash, but college everybod
 
 [https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=150s](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=150s)
 
-<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=150&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=150&q=3) · [Send to Slack](presserclips://clip?v=Sqr3ZTomOFM&t=150&q=3&slack=1)</small>
 
 **4. Khaman Maluach — "We have the first team, a lot of elite scorers and then we have the second team coming in too." — Khaman Maluach on the Phoenix Suns' ability to score in waves** [03:04](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=184s)
 
@@ -32,7 +32,7 @@ Khaman Maluach: "It is our ability to come in waves. We have the first team, a l
 
 [https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=184s](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=184s)
 
-<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=184&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=184&q=4) · [Send to Slack](presserclips://clip?v=Sqr3ZTomOFM&t=184&q=4&slack=1)</small>
 
 **5. Khaman Maluach — "When Goody comes in, Ryan, Collin, Rashir, when they come in, they just bring that energy." — Khaman Maluach on the defensive energy brought by the Suns' second unit** [03:47](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=227s)
 
@@ -40,4 +40,4 @@ Khaman Maluach: "I feel like it is like that and it is something we all got to w
 
 [https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=227s](https://www.youtube.com/watch?v=Sqr3ZTomOFM&t=227s)
 
-<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=227&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Sqr3ZTomOFM&t=227&q=5) · [Send to Slack](presserclips://clip?v=Sqr3ZTomOFM&t=227&q=5&slack=1)</small>

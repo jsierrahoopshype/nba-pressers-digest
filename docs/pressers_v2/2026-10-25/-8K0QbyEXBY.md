@@ -10,7 +10,7 @@ Jamahl Mosley: "We didn't take care of the basketball. They went on a run, they 
 
 [https://www.youtube.com/watch?v=-8K0QbyEXBY&t=6s](https://www.youtube.com/watch?v=-8K0QbyEXBY&t=6s)
 
-<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=6&q=1) · [Send to Slack](presserclips://clip?v=-8K0QbyEXBY&t=6&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "we were playing excellent basketball. I think we had 22 assists on 29 field goals" — Jamahl Mosley praises team ball movement and Jamal Murray's performance** [00:40](https://www.youtube.com/watch?v=-8K0QbyEXBY&t=40s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "We were playing excellent basketball. I think we had 22 assists 
 
 [https://www.youtube.com/watch?v=-8K0QbyEXBY&t=40s](https://www.youtube.com/watch?v=-8K0QbyEXBY&t=40s)
 
-<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=40&q=2)</small>
+<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=40&q=2) · [Send to Slack](presserclips://clip?v=-8K0QbyEXBY&t=40&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "you can't say enough about that that man. What he means to this team" — Jamahl Mosley praises DeAndre Jordan's impact and leadership** [01:16](https://www.youtube.com/watch?v=-8K0QbyEXBY&t=76s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "You can't say enough about that man. What he means to this team,
 
 [https://www.youtube.com/watch?v=-8K0QbyEXBY&t=76s](https://www.youtube.com/watch?v=-8K0QbyEXBY&t=76s)
 
-<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=76&q=3)</small>
+<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=76&q=3) · [Send to Slack](presserclips://clip?v=-8K0QbyEXBY&t=76&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "you're going to win some games, you're going to lose some games" — Jamahl Mosley on team mental resilience and focus on details** [01:43](https://www.youtube.com/watch?v=-8K0QbyEXBY&t=103s)
 
@@ -34,4 +34,4 @@ Jamahl Mosley: "It's the NBA. You're going to win some games, you're going to lo
 
 [https://www.youtube.com/watch?v=-8K0QbyEXBY&t=103s](https://www.youtube.com/watch?v=-8K0QbyEXBY&t=103s)
 
-<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=103&q=4)</small>
+<small>[Clip it](presserclips://clip?v=-8K0QbyEXBY&t=103&q=4) · [Send to Slack](presserclips://clip?v=-8K0QbyEXBY&t=103&q=4&slack=1)</small>

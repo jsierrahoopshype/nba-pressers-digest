@@ -10,7 +10,7 @@ Jamahl Mosley: "It wasn't. That was the fourth, that was the start of it, that's
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=412s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=412s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=412&q=1)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=412&q=1) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=412&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "I thought Eve was incredible. Everything that we're talking about him being and doing was exactly that." — Jamahl Mosley praises Eve's defensive performance and versatility** [07:24](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=444s)
 
@@ -18,7 +18,7 @@ Jamahl Mosley: "I thought **Eve** was incredible. I thought he was absolutely in
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=444s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=444s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=444&q=2)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=444&q=2) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=444&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "Those two guys are guys that can pick up full court, change the dynamic of the game." — Jamahl Mosley on the defensive challenges of starting Fears and Murray** [07:54](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=474s)
 
@@ -26,7 +26,7 @@ Jamahl Mosley: "I think you have the head of the snake. Those two guys are guys 
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=474s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=474s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=474&q=3)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=474&q=3) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=474&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "It's those small things and then the free throws down the stretch." — Jamahl Mosley on the importance of turnover battle and free throws** [08:18](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=498s)
 
@@ -34,7 +34,7 @@ Jamahl Mosley: "They had nine offensive rebounds for 17 second chance points. We
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=498s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=498s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=498&q=4)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=498&q=4) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=498&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "Herb came in the game and changed the game with his defensive effort, his defensive energy." — Jamahl Mosley credits Herb Jones for his defensive impact** [09:00](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=540s)
 
@@ -42,7 +42,7 @@ Jamahl Mosley: "**Herb** came in the game and changed the game with his defensiv
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=540s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=540s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=540&q=5)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=540&q=5) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=540&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "There are opportunities for us to spray when we get down in the paint." — Jamahl Mosley on Zion and Trey's need for better spacing** [09:25](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=565s)
 
@@ -50,7 +50,7 @@ Jamahl Mosley: "That's the beauty of film. You go back, you watch it, you clean 
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=565s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=565s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=565&q=6)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=565&q=6) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=565&q=6&slack=1)</small>
 
 **7. Jamahl Mosley — "The guys are buying into how hard they need to play, how they have to communicate." — Jamahl Mosley on the team's defensive communication and accountability** [10:11](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=611s)
 
@@ -58,7 +58,7 @@ Jamahl Mosley: "For the most part, I think we did a pretty good job. And then th
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=611s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=611s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=611&q=7)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=611&q=7) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=611&q=7&slack=1)</small>
 
 **8. Jamahl Mosley — "I thought his confidence level in his shot, but his confidence level in getting to the rim." — Jamahl Mosley on Zion's confidence and shot selection** [10:49](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=649s)
 
@@ -66,7 +66,7 @@ Jamahl Mosley: "I thought he was great. I thought he was really good tonight. I 
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=649s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=649s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=649&q=8)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=649&q=8) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=649&q=8&slack=1)</small>
 
 **9. Jamahl Mosley — "He's a true leader. He's a born leader." — Jamahl Mosley on Murray's leadership and toughness** [12:09](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=729s)
 
@@ -74,7 +74,7 @@ Jamahl Mosley: "He's a true leader. He's a born leader. And I think that says a 
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=729s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=729s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=729&q=9)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=729&q=9) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=729&q=9&slack=1)</small>
 
 **10. Jamahl Mosley — "Herb is the ultimate pro." — Jamahl Mosley on Herb Jones' role and professionalism** [12:42](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=762s)
 
@@ -82,7 +82,7 @@ Jamahl Mosley: "**Herb** is the ultimate pro. And those conversations that we ha
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=762s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=762s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=762&q=10)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=762&q=10) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=762&q=10&slack=1)</small>
 
 **11. Jamahl Mosley — "We've always talked about it being done by committee." — Jamahl Mosley on the team's committee-based approach** [13:30](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=810s)
 
@@ -90,7 +90,7 @@ Jamahl Mosley: "That's a great question. That is a really good question. And wit
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=810s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=810s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=810&q=11)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=810&q=11) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=810&q=11&slack=1)</small>
 
 **12. Jamahl Mosley — "It's about playing the right way with each other." — Jamahl Mosley on the team's need to play the right way** [14:17](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=857s)
 
@@ -98,7 +98,7 @@ Jamahl Mosley: "I think there's an opportunity for each guy to establish how the
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=857s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=857s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=857&q=12)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=857&q=12) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=857&q=12&slack=1)</small>
 
 **13. Jamahl Mosley — "I love how he responded. And I think he did a very good job of just connecting the dots." — Jamahl Mosley on D.Q.'s performance and growth** [14:49](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=889s)
 
@@ -106,7 +106,7 @@ Jamahl Mosley: "I love how he responded. And I think he did a very good job of j
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=889s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=889s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=889&q=13)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=889&q=13) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=889&q=13&slack=1)</small>
 
 **14. Zion Williamson — "Just down the line, we didn't execute. The turnovers throughout the game caught up to us." — Zion Williamson on the team's missed execution and turnovers** [19:08](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1148s)
 
@@ -114,7 +114,7 @@ Zion Williamson: "You know, we gave ourselves a chance. We gave ourselves a chan
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1148s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1148s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1148&q=14)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1148&q=14) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=1148&q=14&slack=1)</small>
 
 **15. Zion Williamson — "I spoke on Sham and RG earlier. You know, those guys, even Coach Mos, you know, they trust me." — Zion Williamson on his confidence and team trust** [19:46](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1186s)
 
@@ -122,7 +122,7 @@ Zion Williamson: "I told you it was going to fall. Uh, no, it's a, it was a, it 
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1186s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1186s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1186&q=15)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1186&q=15) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=1186&q=15&slack=1)</small>
 
 **16. Zion Williamson — "It's hard to win in this league, so if we want to win, that's a hurdle we just gotta get over." — Zion Williamson on the team's need to overcome late-game hurdles** [20:33](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1233s)
 
@@ -130,7 +130,7 @@ Zion Williamson: "I feel like we are right there. Like we're going to make that 
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1233s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1233s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1233&q=16)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1233&q=16) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=1233&q=16&slack=1)</small>
 
 **17. Zion Williamson — "As long as I'm out there with you, you good, man. Do whatever, get in people's head." — Zion Williamson on his relationship with Jeremiah and team energy** [21:14](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1274s)
 
@@ -138,7 +138,7 @@ Zion Williamson: "Yeah, he going to hold, he going to stand his ground. And, uh,
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1274s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1274s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1274&q=17)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1274&q=17) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=1274&q=17&slack=1)</small>
 
 **18. Zion Williamson — "I think the mindset we have is more of a, you know, kind of who's night is it?" — Zion Williamson on the team's 'who's night is it' mentality** [22:56](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1376s)
 
@@ -146,7 +146,7 @@ Zion Williamson: "Based off the conversations we've had as a team, um, I think t
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1376s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1376s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1376&q=18)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1376&q=18) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=1376&q=18&slack=1)</small>
 
 **19. Dejounte Murray — "We started off a little slow, uh, then obviously, you know, we picked it up." — Dejounte Murray on the team's defensive identity and growth** [33:18](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1998s)
 
@@ -154,7 +154,7 @@ Dejounte Murray: "I think we started off a little slow, uh, then obviously, you 
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1998s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=1998s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1998&q=19)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=1998&q=19) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=1998&q=19&slack=1)</small>
 
 **20. Dejounte Murray — "We got a lot of great options to go to that we work on, you know, every day." — Dejounte Murray on the team's chemistry and coaching staff** [34:45](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=2085s)
 
@@ -162,4 +162,4 @@ Dejounte Murray: "In camp, uh, really starting in open gym when we all got here,
 
 [https://www.youtube.com/watch?v=F-UNDeIGqEE&t=2085s](https://www.youtube.com/watch?v=F-UNDeIGqEE&t=2085s)
 
-<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=2085&q=20)</small>
+<small>[Clip it](presserclips://clip?v=F-UNDeIGqEE&t=2085&q=20) · [Send to Slack](presserclips://clip?v=F-UNDeIGqEE&t=2085&q=20&slack=1)</small>

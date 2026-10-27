@@ -10,7 +10,7 @@ Coach Adelman: "We are looking at it right now. Marvin was really good today. He
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=54s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=54s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=54&q=1)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=54&q=1) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=54&q=1&slack=1)</small>
 
 **2. Coach Adelman — "I have to figure out through feel in the preseason, who am I taking out of the lineup." — Coach Adelman on managing rotations and player minutes** [02:17](https://www.youtube.com/watch?v=VenZuHngv-Q&t=137s)
 
@@ -18,7 +18,7 @@ Coach Adelman: "I think the three of them play together. I think for me, I have 
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=137s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=137s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=137&q=2)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=137&q=2) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=137&q=2&slack=1)</small>
 
 **3. Coach Adelman — "The perfect world is ten to start, even ten and a half." — Coach Adelman's ideal rotation size for the upcoming season** [03:13](https://www.youtube.com/watch?v=VenZuHngv-Q&t=193s)
 
@@ -26,7 +26,7 @@ Coach Adelman: "The perfect world is ten to start, even ten and a half, which we
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=193s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=193s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=193&q=3)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=193&q=3) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=193&q=3&slack=1)</small>
 
 **4. Tyus Jones — "We are not trying to reinvent the wheel, but we are just trying to build onto our foundation." — Tyus Jones on the team's identity and building on foundations** [07:20](https://www.youtube.com/watch?v=VenZuHngv-Q&t=440s)
 
@@ -34,7 +34,7 @@ Tyus Jones: "I feel like everyone is very locked in, understanding the season di
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=440s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=440s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=440&q=4)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=440&q=4) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=440&q=4&slack=1)</small>
 
 **5. Tyus Jones — "Teams are picking us up full, trying to hound us, trying to not let us get into our sets." — Tyus Jones on the value of competitive training camp practices** [08:01](https://www.youtube.com/watch?v=VenZuHngv-Q&t=481s)
 
@@ -42,7 +42,7 @@ Tyus Jones: "That is what happens in the playoffs when the games matter. Teams a
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=481s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=481s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=481&q=5)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=481&q=5) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=481&q=5&slack=1)</small>
 
 **6. Tyus Jones — "Nikola is obviously an incredible passer, probably the best passer in the league." — Tyus Jones on developing chemistry with Nikola Jokic** [10:06](https://www.youtube.com/watch?v=VenZuHngv-Q&t=606s)
 
@@ -50,7 +50,7 @@ Tyus Jones: "Nikola is obviously an incredible passer, probably the best passer 
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=606s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=606s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=606&q=6)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=606&q=6) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=606&q=6&slack=1)</small>
 
 **7. Christian Braun — "I jump off my left leg my whole life, and it was my left ankle." — Christian Braun on his physical recovery and explosive movement** [14:12](https://www.youtube.com/watch?v=VenZuHngv-Q&t=852s)
 
@@ -58,7 +58,7 @@ Christian Braun: "For me, I jump off my left leg my whole life, and it was my le
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=852s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=852s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=852&q=7)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=852&q=7) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=852&q=7&slack=1)</small>
 
 **8. Christian Braun — "I need to be a guy where Jamal is looking for me to bring it up." — Christian Braun on the team's offensive consistency and growth** [17:52](https://www.youtube.com/watch?v=VenZuHngv-Q&t=1072s)
 
@@ -66,4 +66,4 @@ Christian Braun: "Last year we needed to be better in the playoffs obviously, so
 
 [https://www.youtube.com/watch?v=VenZuHngv-Q&t=1072s](https://www.youtube.com/watch?v=VenZuHngv-Q&t=1072s)
 
-<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=1072&q=8)</small>
+<small>[Clip it](presserclips://clip?v=VenZuHngv-Q&t=1072&q=8) · [Send to Slack](presserclips://clip?v=VenZuHngv-Q&t=1072&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ Brook Lopez: "We are still trying to win, still trying to be competitive. We see
 
 [https://www.youtube.com/watch?v=64amOdXLsAg&t=116s](https://www.youtube.com/watch?v=64amOdXLsAg&t=116s)
 
-<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=116&q=1)</small>
+<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=116&q=1) · [Send to Slack](presserclips://clip?v=64amOdXLsAg&t=116&q=1&slack=1)</small>
 
 **2. Brook Lopez — Brook Lopez plans to play more in the paint this season.** [06:57](https://www.youtube.com/watch?v=64amOdXLsAg&t=417s)
 
@@ -18,7 +18,7 @@ Brook Lopez: "With the way the team is built now, I definitely see myself playin
 
 [https://www.youtube.com/watch?v=64amOdXLsAg&t=417s](https://www.youtube.com/watch?v=64amOdXLsAg&t=417s)
 
-<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=417&q=2)</small>
+<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=417&q=2) · [Send to Slack](presserclips://clip?v=64amOdXLsAg&t=417&q=2&slack=1)</small>
 
 **3. Brook Lopez — Brook Lopez aims to be more dominant in the paint and improve defensively.** [06:49](https://www.youtube.com/watch?v=64amOdXLsAg&t=409s)
 
@@ -26,4 +26,4 @@ Brook Lopez: "I want to be better at everything. I always want to be a better pl
 
 [https://www.youtube.com/watch?v=64amOdXLsAg&t=409s](https://www.youtube.com/watch?v=64amOdXLsAg&t=409s)
 
-<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=409&q=3)</small>
+<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=409&q=3) · [Send to Slack](presserclips://clip?v=64amOdXLsAg&t=409&q=3&slack=1)</small>

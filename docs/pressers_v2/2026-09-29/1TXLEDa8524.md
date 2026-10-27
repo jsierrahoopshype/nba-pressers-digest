@@ -10,7 +10,7 @@ Unidentified speaker: "Good to meet you Cayden, Demetrius. Good to meet you boy.
 
 [https://www.youtube.com/watch?v=1TXLEDa8524&t=15s](https://www.youtube.com/watch?v=1TXLEDa8524&t=15s)
 
-<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=15&q=1) · [Send to Slack](presserclips://clip?v=1TXLEDa8524&t=15&q=1&slack=1)</small>
 
 **2. Unidentified speaker — Unidentified speaker identifies Nae'Qwan Tomlin as the funniest player on the Cleveland Cavaliers roster.** [00:33](https://www.youtube.com/watch?v=1TXLEDa8524&t=33s)
 
@@ -18,4 +18,4 @@ Unidentified speaker: "The funniest guy on my team is Nae'Qwan Tomlin. Where do 
 
 [https://www.youtube.com/watch?v=1TXLEDa8524&t=33s](https://www.youtube.com/watch?v=1TXLEDa8524&t=33s)
 
-<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=33&q=2) · [Send to Slack](presserclips://clip?v=1TXLEDa8524&t=33&q=2&slack=1)</small>

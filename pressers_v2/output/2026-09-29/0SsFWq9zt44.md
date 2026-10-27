@@ -10,7 +10,7 @@ Khris Middleton: "Defense is always the number one thing that gets the coaches g
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=85s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=85s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=85&q=1)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=85&q=1) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=85&q=1&slack=1)</small>
 
 **2. Khris Middleton — "Knowing that you have two seven footers back there just in case" — Khris Middleton highlights the defensive impact of having two seven footers protecting the rim for the Washington Wizards.** [02:45](https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s)
 
@@ -18,7 +18,7 @@ Khris Middleton: "Still guard your man and knowing that you have two seven foote
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=165s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=165&q=2)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=165&q=2) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=165&q=2&slack=1)</small>
 
 **3. Khris Middleton — "I think it is just being myself" — Khris Middleton describes his approach to mentoring younger teammates on the Washington Wizards roster.** [03:12](https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s)
 
@@ -26,7 +26,7 @@ Khris Middleton: "I think it is just being myself. I think the guys know behind 
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=192s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=192&q=3)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=192&q=3) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=192&q=3&slack=1)</small>
 
 **4. Khris Middleton — "It was a lot of the stuff I saw last year" — Khris Middleton explains the factors that influenced his decision to return to the Washington Wizards.** [04:53](https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s)
 
@@ -34,4 +34,4 @@ Khris Middleton: "It was a lot of the stuff I saw last year. Just the daily habi
 
 [https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s](https://www.youtube.com/watch?v=0SsFWq9zt44&t=293s)
 
-<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=293&q=4)</small>
+<small>[Clip it](presserclips://clip?v=0SsFWq9zt44&t=293&q=4) · [Send to Slack](presserclips://clip?v=0SsFWq9zt44&t=293&q=4&slack=1)</small>

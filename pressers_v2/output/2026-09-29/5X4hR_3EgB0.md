@@ -10,7 +10,7 @@ VJ Edgecombe: "That's it. We're in between the lines now, it's my teammate. It's
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=31s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=31s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=31&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=31&q=1) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=31&q=1&slack=1)</small>
 
 **2. VJ Edgecombe — VJ Edgecombe says he holds his teammates accountable and feels no pressure.** [01:51](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=111s)
 
@@ -18,7 +18,7 @@ VJ Edgecombe: "No, I'm myself. I'm myself. I told him I was like, I mean like li
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=111s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=111s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=111&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=111&q=2) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=111&q=2&slack=1)</small>
 
 **3. VJ Edgecombe — VJ Edgecombe says he got faster and stronger to improve his defense.** [07:15](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=435s)
 
@@ -26,7 +26,7 @@ VJ Edgecombe: "It's all those factors. Plus I got faster and stronger too. You k
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=435s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=435s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=435&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=435&q=3) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=435&q=3&slack=1)</small>
 
 **4. VJ Edgecombe — VJ Edgecombe says he has matured significantly since his rookie season.** [09:07](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=547s)
 
@@ -34,7 +34,7 @@ VJ Edgecombe: "From my rookie year to now, I feel like I've I've matured a lot. 
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=547s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=547s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=547&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=547&q=4) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=547&q=4&slack=1)</small>
 
 **5. VJ Edgecombe — VJ Edgecombe says his teammates' support instills confidence in him.** [10:27](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=627s)
 
@@ -42,4 +42,4 @@ VJ Edgecombe: "That that instills that instills confidence in me. Um, that's I m
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=627s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=627s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=627&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=627&q=5) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=627&q=5&slack=1)</small>

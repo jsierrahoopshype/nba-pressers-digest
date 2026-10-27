@@ -10,7 +10,7 @@ Rick Carlisle: "If you look at these stats from the first and second half, someo
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=2s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=2s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=2&q=1)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=2&q=1) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=2&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "They are going harder and we did not execute and have the approach that we needed." — Rick Carlisle on the team's defensive breakdowns and lack of execution** [01:37](https://www.youtube.com/watch?v=QvVhneQWbcE&t=97s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "I watched the first six minutes and they are going harder and we
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=97s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=97s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=97&q=2)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=97&q=2) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=97&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "He's a guy that we really like because of the edge he played with." — Rick Carlisle on Andrew Nembhard's performance and team expectations** [02:37](https://www.youtube.com/watch?v=QvVhneQWbcE&t=157s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "He's a guy that we really like because of the edge he played wit
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=157s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=157s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=157&q=3)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=157&q=3) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=157&q=3&slack=1)</small>
 
 **4. Andrew Nembhard — "I'm just not ready enough, not coming with the right demeanor to compete and be physical." — Andrew Nembhard on the team's lack of defensive readiness** [06:36](https://www.youtube.com/watch?v=QvVhneQWbcE&t=396s)
 
@@ -34,7 +34,7 @@ Andrew Nembhard: "I'm just not ready enough, not coming with the right demeanor 
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=396s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=396s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=396&q=4)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=396&q=4) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=396&q=4&slack=1)</small>
 
 **5. Tyrese Haliburton — "It's definitely not ideal, but that's what the NBA is. It's not all fairy tales and sunshine." — Tyrese Haliburton on the team's poor performance and need for film study** [08:18](https://www.youtube.com/watch?v=QvVhneQWbcE&t=498s)
 
@@ -42,7 +42,7 @@ Tyrese Haliburton: "It's definitely not ideal, but that's what the NBA is. It's 
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=498s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=498s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=498&q=5)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=498&q=5) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=498&q=5&slack=1)</small>
 
 **6. Tyrese Haliburton — "It's hard to run when you're taking the ball out of the net the whole game." — Tyrese Haliburton on the team's struggles in transition and defensive effort** [10:24](https://www.youtube.com/watch?v=QvVhneQWbcE&t=624s)
 
@@ -50,7 +50,7 @@ Tyrese Haliburton: "It's hard to run when you're taking the ball out of the net 
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=624s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=624s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=624&q=6)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=624&q=6) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=624&q=6&slack=1)</small>
 
 **7. Tyrese Haliburton — "For lack of a better term, just dumb shit. Just doing a lot of dumb shit out there." — Tyrese Haliburton on the team's turnovers and need for composure** [11:34](https://www.youtube.com/watch?v=QvVhneQWbcE&t=694s)
 
@@ -58,7 +58,7 @@ Tyrese Haliburton: "For lack of a better term, just dumb shit. Just doing a lot 
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=694s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=694s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=694&q=7)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=694&q=7) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=694&q=7&slack=1)</small>
 
 **8. Tyrese Haliburton — "We in the past and I think currently are such a group that is led player-wise." — Tyrese Haliburton on the team's player-led culture and coaching** [13:04](https://www.youtube.com/watch?v=QvVhneQWbcE&t=784s)
 
@@ -66,7 +66,7 @@ Tyrese Haliburton: "We in the past and I think currently are such a group that i
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=784s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=784s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=784&q=8)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=784&q=8) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=784&q=8&slack=1)</small>
 
 **9. Tyrese Haliburton — "I hope Cooper's okay, first and foremost. I don't think anybody wants to see him hurt." — Tyrese Haliburton on the team's need for aggression and defensive intensity** [14:38](https://www.youtube.com/watch?v=QvVhneQWbcE&t=878s)
 
@@ -74,4 +74,4 @@ Tyrese Haliburton: "I hope Cooper's okay, first and foremost. I don't think anyb
 
 [https://www.youtube.com/watch?v=QvVhneQWbcE&t=878s](https://www.youtube.com/watch?v=QvVhneQWbcE&t=878s)
 
-<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=878&q=9)</small>
+<small>[Clip it](presserclips://clip?v=QvVhneQWbcE&t=878&q=9) · [Send to Slack](presserclips://clip?v=QvVhneQWbcE&t=878&q=9&slack=1)</small>

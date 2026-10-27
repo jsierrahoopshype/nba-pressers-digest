@@ -10,7 +10,7 @@ Christian Anderson Jr.: "I think preparing like practice, trying to practice lik
 
 [https://www.youtube.com/watch?v=GNZbRjePEfQ&t=0s](https://www.youtube.com/watch?v=GNZbRjePEfQ&t=0s)
 
-<small>[Clip it](presserclips://clip?v=GNZbRjePEfQ&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=GNZbRjePEfQ&t=0&q=1) · [Send to Slack](presserclips://clip?v=GNZbRjePEfQ&t=0&q=1&slack=1)</small>
 
 **2. Christian Anderson Jr. — "Just to be a guy who contributes offensively or defensively, trying to play hard every single second." — Christian Anderson Jr. on his goals for his rookie preseason** [00:25](https://www.youtube.com/watch?v=GNZbRjePEfQ&t=25s)
 
@@ -18,7 +18,7 @@ Christian Anderson Jr.: "Just to be a guy who contributes offensively or defensi
 
 [https://www.youtube.com/watch?v=GNZbRjePEfQ&t=25s](https://www.youtube.com/watch?v=GNZbRjePEfQ&t=25s)
 
-<small>[Clip it](presserclips://clip?v=GNZbRjePEfQ&t=25&q=2)</small>
+<small>[Clip it](presserclips://clip?v=GNZbRjePEfQ&t=25&q=2) · [Send to Slack](presserclips://clip?v=GNZbRjePEfQ&t=25&q=2&slack=1)</small>
 
 **3. Christian Anderson Jr. — "Pressuring the ball, being disruptive on defense, not trying to give guys easy looks, communicating." — Christian Anderson Jr. on his specific role and defensive responsibilities** [00:45](https://www.youtube.com/watch?v=GNZbRjePEfQ&t=45s)
 
@@ -26,4 +26,4 @@ Christian Anderson Jr.: "Pressuring the ball, being disruptive on defense, not t
 
 [https://www.youtube.com/watch?v=GNZbRjePEfQ&t=45s](https://www.youtube.com/watch?v=GNZbRjePEfQ&t=45s)
 
-<small>[Clip it](presserclips://clip?v=GNZbRjePEfQ&t=45&q=3)</small>
+<small>[Clip it](presserclips://clip?v=GNZbRjePEfQ&t=45&q=3) · [Send to Slack](presserclips://clip?v=GNZbRjePEfQ&t=45&q=3&slack=1)</small>

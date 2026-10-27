@@ -10,7 +10,7 @@ Chaz Lanier: "Just trying to continue to work on my game in every aspect and do 
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=7s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=7s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=7&q=1) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=7&q=1&slack=1)</small>
 
 **2. Chaz Lanier — "be sharp every play, no plays off, be aggressive" — Chaz Lanier on his defensive mindset and aggressive play** [00:24](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=24s)
 
@@ -18,7 +18,7 @@ Chaz Lanier: "Just be sharp every play, no plays off, be aggressive. Just like y
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=24s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=24s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=24&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=24&q=2) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=24&q=2&slack=1)</small>
 
 **3. Chaz Lanier — "you definitely for sure settle in a little bit more" — Chaz Lanier on the comfort of his second NBA season** [00:45](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=45s)
 
@@ -26,7 +26,7 @@ Chaz Lanier: "You definitely for sure settle in a little bit more. You just have
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=45s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=45s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=45&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=45&q=3) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=45&q=3&slack=1)</small>
 
 **4. Chaz Lanier — "I'm surrounded by a lot of great shooters" — Chaz Lanier on learning from veteran teammates** [01:09](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=69s)
 
@@ -34,7 +34,7 @@ Chaz Lanier: "I'm surrounded by a lot of great shooters. So every day we're shoo
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=69s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=69s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=69&q=4)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=69&q=4) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=69&q=4&slack=1)</small>
 
 **5. Chaz Lanier — "you can see, y'all can see, he's a bucket clearly, and he could play" — Chaz Lanier on the potential of teammate Abiola Abiodun** [01:37](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=97s)
 
@@ -42,4 +42,4 @@ Chaz Lanier: "Super impressed. You can see, y'all can see, he's a bucket clearly
 
 [https://www.youtube.com/watch?v=iQ68lIPGgdA&t=97s](https://www.youtube.com/watch?v=iQ68lIPGgdA&t=97s)
 
-<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=97&q=5)</small>
+<small>[Clip it](presserclips://clip?v=iQ68lIPGgdA&t=97&q=5) · [Send to Slack](presserclips://clip?v=iQ68lIPGgdA&t=97&q=5&slack=1)</small>

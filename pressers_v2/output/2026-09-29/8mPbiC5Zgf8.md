@@ -10,7 +10,7 @@ Jalen Green: "I was shooting with Steve Nash. I guess the beginning of it, me an
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=114s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=114s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=114&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=114&q=1) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=114&q=1&slack=1)</small>
 
 **2. Jalen Green — Jalen Green identifies his basketball superpowers as speed, playmaking, and defense.** [04:09](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=249s)
 
@@ -18,7 +18,7 @@ Jalen Green: "I think my superpower is just being electric, playing fast, gettin
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=249s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=249s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=249&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=249&q=2) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=249&q=2&slack=1)</small>
 
 **3. Jalen Green — Jalen Green expects a significant jump from the young Phoenix Suns players this season.** [06:35](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=395s)
 
@@ -26,7 +26,7 @@ Jalen Green: "I think we are a big step ahead, especially for the young guys who
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=395s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=395s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=395&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=395&q=3) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=395&q=3&slack=1)</small>
 
 **4. Jalen Green — Jalen Green discusses the leadership style of his teammate.** [09:14](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=554s)
 
@@ -34,4 +34,4 @@ Jalen Green: "DB has an interesting way of showing he cares and you know, especi
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=554s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=554s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=554&q=4)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=554&q=4) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=554&q=4&slack=1)</small>

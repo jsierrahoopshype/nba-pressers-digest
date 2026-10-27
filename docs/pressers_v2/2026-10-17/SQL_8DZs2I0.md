@@ -10,7 +10,7 @@ Micah Nori: "For the most part, I wanted to come in and just establish what we w
 
 [https://www.youtube.com/watch?v=SQL_8DZs2I0&t=7s](https://www.youtube.com/watch?v=SQL_8DZs2I0&t=7s)
 
-<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=7&q=1) · [Send to Slack](presserclips://clip?v=SQL_8DZs2I0&t=7&q=1&slack=1)</small>
 
 **2. Micah Nori — "we're getting Ja Morant at the right time" — Micah Nori on Ja Morant's role and fit with the team** [01:23](https://www.youtube.com/watch?v=SQL_8DZs2I0&t=83s)
 
@@ -18,7 +18,7 @@ Micah Nori: "I think that we're getting **Ja Morant** at the right time. And wha
 
 [https://www.youtube.com/watch?v=SQL_8DZs2I0&t=83s](https://www.youtube.com/watch?v=SQL_8DZs2I0&t=83s)
 
-<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=83&q=2)</small>
+<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=83&q=2) · [Send to Slack](presserclips://clip?v=SQL_8DZs2I0&t=83&q=2&slack=1)</small>
 
 **3. Micah Nori — "there's really no loss of his, not to say explosiveness, but his quickness in that" — Micah Nori on Damian Lillard's return and role** [02:28](https://www.youtube.com/watch?v=SQL_8DZs2I0&t=148s)
 
@@ -26,7 +26,7 @@ Micah Nori: "He's getting to the free throw line, so that means he's getting him
 
 [https://www.youtube.com/watch?v=SQL_8DZs2I0&t=148s](https://www.youtube.com/watch?v=SQL_8DZs2I0&t=148s)
 
-<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=148&q=3)</small>
+<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=148&q=3) · [Send to Slack](presserclips://clip?v=SQL_8DZs2I0&t=148&q=3&slack=1)</small>
 
 **4. Micah Nori — "Hansson needs to play high-level basketball" — Micah Nori on Hansson's performance and development** [03:32](https://www.youtube.com/watch?v=SQL_8DZs2I0&t=212s)
 
@@ -34,4 +34,4 @@ Micah Nori: "He goes three for four and he gets himself seven rebounds, three of
 
 [https://www.youtube.com/watch?v=SQL_8DZs2I0&t=212s](https://www.youtube.com/watch?v=SQL_8DZs2I0&t=212s)
 
-<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=212&q=4)</small>
+<small>[Clip it](presserclips://clip?v=SQL_8DZs2I0&t=212&q=4) · [Send to Slack](presserclips://clip?v=SQL_8DZs2I0&t=212&q=4&slack=1)</small>

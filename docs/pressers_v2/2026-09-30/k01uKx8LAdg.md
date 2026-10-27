@@ -10,7 +10,7 @@ Devin Booker: "I think the game is positioning us well and I even talked about w
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=17s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=17s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=17&q=1) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=17&q=1&slack=1)</small>
 
 **2. Devin Booker — "He has all the intangibles of being a star" — Devin Booker praises a young teammate for his maturity and work ethic.** [01:42](https://www.youtube.com/watch?v=k01uKx8LAdg&t=102s)
 
@@ -18,7 +18,7 @@ Devin Booker: "Way ahead of his age. You cannot say enough about a player like t
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=102s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=102s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=102&q=2)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=102&q=2) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=102&q=2&slack=1)</small>
 
 **3. Devin Booker — "It is one of my favorites to date" — Devin Booker discusses the inspiration behind his new Nike shoe design.** [03:10](https://www.youtube.com/watch?v=k01uKx8LAdg&t=190s)
 
@@ -26,7 +26,7 @@ Devin Booker: "I went to his studio probably three or four years ago during fash
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=190s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=190s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=190&q=3)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=190&q=3) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=190&q=3&slack=1)</small>
 
 **4. Devin Booker — "I want to assert myself by scoring the ball more" — Devin Booker says he wants to be more aggressive scoring the ball this season.** [04:35](https://www.youtube.com/watch?v=k01uKx8LAdg&t=275s)
 
@@ -34,7 +34,7 @@ Devin Booker: "It is a balance that changes game to game. I said at media day I 
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=275s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=275s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=275&q=4)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=275&q=4) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=275&q=4&slack=1)</small>
 
 **5. Devin Booker — "It takes five people to have a good defensive possession" — Devin Booker emphasizes the importance of communication and team defense.** [07:17](https://www.youtube.com/watch?v=k01uKx8LAdg&t=437s)
 
@@ -42,4 +42,4 @@ Devin Booker: "Taking pride on that end, especially coming into the league, I ha
 
 [https://www.youtube.com/watch?v=k01uKx8LAdg&t=437s](https://www.youtube.com/watch?v=k01uKx8LAdg&t=437s)
 
-<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=437&q=5)</small>
+<small>[Clip it](presserclips://clip?v=k01uKx8LAdg&t=437&q=5) · [Send to Slack](presserclips://clip?v=k01uKx8LAdg&t=437&q=5&slack=1)</small>

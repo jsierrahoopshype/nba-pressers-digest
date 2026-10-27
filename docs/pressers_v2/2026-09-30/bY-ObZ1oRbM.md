@@ -10,7 +10,7 @@ Micah Nori: "You can do a lot of different things now. What I mean by that is yo
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=101s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=101s)
 
-<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=101&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=101&q=1) · [Send to Slack](presserclips://clip?v=bY-ObZ1oRbM&t=101&q=1&slack=1)</small>
 
 **2. Micah Nori — "getting Rob back was so important to us in my opinion" — Micah Nori emphasizes the importance of Robert Williams III returning to the team's defensive rotation.** [02:47](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s)
 
@@ -18,7 +18,7 @@ Micah Nori: "Yeah, very much so. And I think that is why **Rob**, getting back *
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=167s)
 
-<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=167&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=167&q=2) · [Send to Slack](presserclips://clip?v=bY-ObZ1oRbM&t=167&q=2&slack=1)</small>
 
 **3. Micah Nori — "we can see those combinations" — Micah Nori explains the team's strategy of keeping key players together during training camp scrimmages.** [05:01](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s)
 
@@ -26,4 +26,4 @@ Micah Nori: "We kind of tried to do is keep those eight nine guys on the same te
 
 [https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s](https://www.youtube.com/watch?v=bY-ObZ1oRbM&t=301s)
 
-<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=301&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bY-ObZ1oRbM&t=301&q=3) · [Send to Slack](presserclips://clip?v=bY-ObZ1oRbM&t=301&q=3&slack=1)</small>

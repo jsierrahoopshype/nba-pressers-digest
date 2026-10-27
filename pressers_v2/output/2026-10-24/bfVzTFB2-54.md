@@ -10,7 +10,7 @@ Micah Nori: "To me was the way we came out the second half. I thought the first 
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=4s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=4s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=4&q=1) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=4&q=1&slack=1)</small>
 
 **2. Micah Nori — "I think that his defense obviously late, he goes seven for 12, five for 10, 20 points" — Micah Nori praises Toumani Camara's defensive impact** [01:10](https://www.youtube.com/watch?v=bfVzTFB2-54&t=70s)
 
@@ -18,7 +18,7 @@ Micah Nori: "**Toumani Camara**. I think that his defense obviously late, he goe
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=70s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=70s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=70&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=70&q=2) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=70&q=2&slack=1)</small>
 
 **3. Micah Nori — "we're very comfortable I think with the city and Toumani give you a lot of physicality" — Micah Nori on the physicality of the small-ball lineup** [01:32](https://www.youtube.com/watch?v=bfVzTFB2-54&t=92s)
 
@@ -26,7 +26,7 @@ Micah Nori: "We're very comfortable I think with the city and Toumani give you a
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=92s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=92s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=92&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=92&q=3) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=92&q=3&slack=1)</small>
 
 **4. Micah Nori — "in this league, you have to have depth all the way through" — Micah Nori on the importance of depth for the Trail Blazers** [02:02](https://www.youtube.com/watch?v=bfVzTFB2-54&t=122s)
 
@@ -34,7 +34,7 @@ Micah Nori: "I think it's proven that in this league, you have to have depth all
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=122s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=122s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=122&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=122&q=4) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=122&q=4&slack=1)</small>
 
 **5. Micah Nori — "he always is changing the game, had the one block shot" — Micah Nori evaluates Robert Williams III's vertical threat** [02:47](https://www.youtube.com/watch?v=bfVzTFB2-54&t=167s)
 
@@ -42,7 +42,7 @@ Micah Nori: "He goes six for six, he always is changing the game, had the one bl
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=167s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=167s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=167&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=167&q=5) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=167&q=5&slack=1)</small>
 
 **6. Micah Nori — "that's what you've been talking about, right? Sacrifice and not worry about who's on the floor" — Micah Nori on the team's culture of sacrifice** [03:24](https://www.youtube.com/watch?v=bfVzTFB2-54&t=204s)
 
@@ -50,7 +50,7 @@ Micah Nori: "I think my favorite scene of the night was I think it was like 28 s
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=204s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=204s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=204&q=6)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=204&q=6) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=204&q=6&slack=1)</small>
 
 **7. Micah Nori — "the things that we've been harping on the whole year is take care of the ball and rebound" — Micah Nori on the team's focus on rebounding and turnovers** [04:11](https://www.youtube.com/watch?v=bfVzTFB2-54&t=251s)
 
@@ -58,7 +58,7 @@ Micah Nori: "The things that we've been harping on the whole year is take care o
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=251s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=251s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=251&q=7)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=251&q=7) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=251&q=7&slack=1)</small>
 
 **8. Micah Nori — "Drew felt that he got was getting shoved and not getting any calls" — Micah Nori explains the technical foul situation** [04:39](https://www.youtube.com/watch?v=bfVzTFB2-54&t=279s)
 
@@ -66,4 +66,4 @@ Micah Nori: "There's been some pushing both ways and we're small and **Drew** fe
 
 [https://www.youtube.com/watch?v=bfVzTFB2-54&t=279s](https://www.youtube.com/watch?v=bfVzTFB2-54&t=279s)
 
-<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=279&q=8)</small>
+<small>[Clip it](presserclips://clip?v=bfVzTFB2-54&t=279&q=8) · [Send to Slack](presserclips://clip?v=bfVzTFB2-54&t=279&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ J.B. Bickerstaff: "There is a lot more stuff in coach's offense where we want to
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "This is probably the most time I have spent with my teammates outside of the actual season" — Donovan Mitchell emphasizes the increased team bonding during this offseason.** [40:09](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
@@ -18,7 +18,7 @@ Donovan Mitchell: "This is probably the most time I have spent with my teammates
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=2)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=2) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=2&slack=1)</small>
 
 **3. Jalen Tyson — "I am coming back at 6-9 260. So that definitely adds to the versatility" — Jalen Tyson discusses his physical transformation and increased versatility.** [53:45](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
 
@@ -26,4 +26,4 @@ Jalen Tyson: "The second thing is I was drafted, a man at 6-6 190. You know, I r
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3225&q=3)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3225&q=3) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=3225&q=3&slack=1)</small>

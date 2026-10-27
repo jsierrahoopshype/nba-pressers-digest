@@ -10,7 +10,7 @@ Tidjane Salaün: "The team is getting better since the training camp. Good chemi
 
 [https://www.youtube.com/watch?v=MsObL9KQ-_0&t=13s](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=13s)
 
-<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=13&q=1) · [Send to Slack](presserclips://clip?v=MsObL9KQ-_0&t=13&q=1&slack=1)</small>
 
 **2. Tidjane Salaün — "Defense is the main part, that's with my abilities, that's where I can have the most success." — Tidjane Salaün on his role and defensive responsibilities** [01:14](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=74s)
 
@@ -18,7 +18,7 @@ Tidjane Salaün: "Completely engage on what they ask me to do about, you know, d
 
 [https://www.youtube.com/watch?v=MsObL9KQ-_0&t=74s](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=74s)
 
-<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=74&q=2)</small>
+<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=74&q=2) · [Send to Slack](presserclips://clip?v=MsObL9KQ-_0&t=74&q=2&slack=1)</small>
 
 **3. Tidjane Salaün — "The fact to to see her have success with our team, now to be in final, it's even better." — Tidjane Salaün on his sister's success in the WNBA** [02:42](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=162s)
 
@@ -26,7 +26,7 @@ Tidjane Salaün: "Always great to to see my sister play, even more when she's in
 
 [https://www.youtube.com/watch?v=MsObL9KQ-_0&t=162s](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=162s)
 
-<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=162&q=3)</small>
+<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=162&q=3) · [Send to Slack](presserclips://clip?v=MsObL9KQ-_0&t=162&q=3&slack=1)</small>
 
 **4. Tidjane Salaün — "Take a step, be better defensively, and my team win. All I want is winning." — Tidjane Salaün's personal goals for the upcoming season** [03:36](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=216s)
 
@@ -34,7 +34,7 @@ Tidjane Salaün: "Take a step, be better defensively, and my team win. All I wan
 
 [https://www.youtube.com/watch?v=MsObL9KQ-_0&t=216s](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=216s)
 
-<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=216&q=4)</small>
+<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=216&q=4) · [Send to Slack](presserclips://clip?v=MsObL9KQ-_0&t=216&q=4&slack=1)</small>
 
 **5. Tidjane Salaün — "I know who he is. He's a great player, but he's also angry and he want to prove." — Tidjane Salaün on learning from veteran teammate Naz Reid** [04:16](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=256s)
 
@@ -42,4 +42,4 @@ Tidjane Salaün: "I had a few talk with Naz and that was just cool to to see him
 
 [https://www.youtube.com/watch?v=MsObL9KQ-_0&t=256s](https://www.youtube.com/watch?v=MsObL9KQ-_0&t=256s)
 
-<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=256&q=5)</small>
+<small>[Clip it](presserclips://clip?v=MsObL9KQ-_0&t=256&q=5) · [Send to Slack](presserclips://clip?v=MsObL9KQ-_0&t=256&q=5&slack=1)</small>

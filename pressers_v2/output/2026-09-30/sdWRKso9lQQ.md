@@ -10,4 +10,4 @@ Grayson Allen: "He is great. He is a team guy. His game is trying to make the ot
 
 [https://www.youtube.com/watch?v=sdWRKso9lQQ&t=87s](https://www.youtube.com/watch?v=sdWRKso9lQQ&t=87s)
 
-<small>[Clip it](presserclips://clip?v=sdWRKso9lQQ&t=87&q=1)</small>
+<small>[Clip it](presserclips://clip?v=sdWRKso9lQQ&t=87&q=1) · [Send to Slack](presserclips://clip?v=sdWRKso9lQQ&t=87&q=1&slack=1)</small>

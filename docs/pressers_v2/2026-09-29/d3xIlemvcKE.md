@@ -10,7 +10,7 @@ Unidentified speaker: "I feel back at home. This is not my first time wearing it
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=150s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=150s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=150&q=1)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=150&q=1) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=150&q=1&slack=1)</small>
 
 **2. Unidentified speaker — Unidentified speaker describes his natural competitive alter ego on the basketball court** [1:00:11](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3611s)
 
@@ -18,7 +18,7 @@ Unidentified speaker: "I actually don't know like how that happens, you know. Bu
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3611s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3611s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3611&q=2)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3611&q=2) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3611&q=2&slack=1)</small>
 
 **3. Unidentified speaker — Unidentified speaker discusses his leadership role and team goals for the upcoming season.** [03:48](https://www.youtube.com/watch?v=d3xIlemvcKE&t=228s)
 
@@ -26,7 +26,7 @@ Unidentified speaker: "Just win as many games as possible. That is the state of 
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=228s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=228s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=228&q=3)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=228&q=3) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=228&q=3&slack=1)</small>
 
 **4. Unidentified speaker — Unidentified speaker discusses his approach to leadership and mentoring young players.** [05:14](https://www.youtube.com/watch?v=d3xIlemvcKE&t=314s)
 
@@ -34,7 +34,7 @@ Unidentified speaker: "My whole career I tried to be a sponge and learn from the
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=314s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=314s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=314&q=4)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=314&q=4) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=314&q=4&slack=1)</small>
 
 **5. Unidentified speaker — Unidentified speaker expresses his commitment to the Phoenix Suns after signing a new contract.** [20:15](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1215s)
 
@@ -42,7 +42,7 @@ Unidentified speaker: "It was really important and obviously we all talked about
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=1215s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1215s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1215&q=5)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1215&q=5) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=1215&q=5&slack=1)</small>
 
 **6. Unidentified speaker — Unidentified speaker discusses his role and the team's potential when healthy.** [21:40](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1300s)
 
@@ -50,7 +50,7 @@ Unidentified speaker: "Obviously we are a better basketball team when everybody 
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=1300s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1300s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1300&q=6)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1300&q=6) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=1300&q=6&slack=1)</small>
 
 **7. Unidentified speaker — Unidentified speaker credits his brother Justin Unidentified speaker for influencing his professional approach to basketball.** [33:57](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2037s)
 
@@ -58,7 +58,7 @@ Unidentified speaker: "Someone that I have seen since literally since I was born
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=2037s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2037s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2037&q=7)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2037&q=7) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=2037&q=7&slack=1)</small>
 
 **8. Unidentified speaker — Unidentified speaker highlights the competitive and supportive culture among the team's young players.** [49:15](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2955s)
 
@@ -66,7 +66,7 @@ Unidentified speaker: "I think I can speak for on this as well. Our only focus h
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=2955s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2955s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2955&q=8)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2955&q=8) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=2955&q=8&slack=1)</small>
 
 **9. Unidentified speaker — Unidentified speaker discusses his defensive role and competitive nature in practice.** [58:10](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3490s)
 
@@ -74,7 +74,7 @@ Unidentified speaker: "Honestly, everybody. Like I feel like I have been in situ
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3490s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3490s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3490&q=9)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3490&q=9) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3490&q=9&slack=1)</small>
 
 **10. Unidentified speaker — Unidentified speaker expresses gratitude for being drafted by the Phoenix Suns.** [1:02:40](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3760s)
 
@@ -82,7 +82,7 @@ Unidentified speaker: "I think everything works out and you know, being here at 
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3760s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3760s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3760&q=10)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3760&q=10) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3760&q=10&slack=1)</small>
 
 **11. Unidentified speaker — Unidentified speaker explains his focus on daily improvement to stay consistent.** [1:02:34](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3754s)
 
@@ -90,4 +90,4 @@ Unidentified speaker: "Being able to live in that moment and don't look too much
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3754s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3754s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3754&q=11)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3754&q=11) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3754&q=11&slack=1)</small>

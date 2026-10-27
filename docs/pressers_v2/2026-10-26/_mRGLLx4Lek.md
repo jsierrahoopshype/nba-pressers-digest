@@ -10,7 +10,7 @@ Daniss Jenkins: "He's everything. I always know should they overplay him or if h
 
 [https://www.youtube.com/watch?v=_mRGLLx4Lek&t=13s](https://www.youtube.com/watch?v=_mRGLLx4Lek&t=13s)
 
-<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=13&q=1) · [Send to Slack](presserclips://clip?v=_mRGLLx4Lek&t=13&q=1&slack=1)</small>
 
 **2. Daniss Jenkins — "I hear all the noise. I know I got expectations. I got my own expectations." — Daniss Jenkins on his mentality entering the starting lineup** [00:52](https://www.youtube.com/watch?v=_mRGLLx4Lek&t=52s)
 
@@ -18,7 +18,7 @@ Daniss Jenkins: "For me, I hear all the noise. I know I got expectations. I got 
 
 [https://www.youtube.com/watch?v=_mRGLLx4Lek&t=52s](https://www.youtube.com/watch?v=_mRGLLx4Lek&t=52s)
 
-<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=52&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=52&q=2) · [Send to Slack](presserclips://clip?v=_mRGLLx4Lek&t=52&q=2&slack=1)</small>
 
 **3. Daniss Jenkins — "Big dog, dog status, man. Got a heart of a lion. Put my nose in there." — Daniss Jenkins on his rebounding performance against the 76ers** [01:11](https://www.youtube.com/watch?v=_mRGLLx4Lek&t=71s)
 
@@ -26,7 +26,7 @@ Daniss Jenkins: "Big dog, dog status, man. Got a heart of a lion. Put my nose in
 
 [https://www.youtube.com/watch?v=_mRGLLx4Lek&t=71s](https://www.youtube.com/watch?v=_mRGLLx4Lek&t=71s)
 
-<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=71&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=71&q=3) · [Send to Slack](presserclips://clip?v=_mRGLLx4Lek&t=71&q=3&slack=1)</small>
 
 **4. Daniss Jenkins — "His ability to be so comfortable, the way that he handles the ball, man, it just allows him." — Daniss Jenkins on the potential of teammate Ron Holland** [01:30](https://www.youtube.com/watch?v=_mRGLLx4Lek&t=90s)
 
@@ -34,4 +34,4 @@ Daniss Jenkins: "His ability to be so comfortable, the way that he handles the b
 
 [https://www.youtube.com/watch?v=_mRGLLx4Lek&t=90s](https://www.youtube.com/watch?v=_mRGLLx4Lek&t=90s)
 
-<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=90&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_mRGLLx4Lek&t=90&q=4) · [Send to Slack](presserclips://clip?v=_mRGLLx4Lek&t=90&q=4&slack=1)</small>

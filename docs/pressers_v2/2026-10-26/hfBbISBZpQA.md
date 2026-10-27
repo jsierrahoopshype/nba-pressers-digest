@@ -10,7 +10,7 @@ Charles Lee: "It is funny, especially at the beginning of his rookie season last
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=13s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=13s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=13&q=1) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=13&q=1&slack=1)</small>
 
 **2. Charles Lee — "all three of those guys that you just mentioned have had positive steps in their rehab process" — Update on injured Hornets players' rehabilitation progress** [01:22](https://www.youtube.com/watch?v=hfBbISBZpQA&t=82s)
 
@@ -18,7 +18,7 @@ Charles Lee: "No timeline as far as I know right now. All three of those guys th
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=82s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=82s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=82&q=2)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=82&q=2) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=82&q=2&slack=1)</small>
 
 **3. Charles Lee — "there's no real cliques so it's like everyone tries to take these young guys under their wings" — Mentorship and lack of cliques within the Hornets roster** [02:05](https://www.youtube.com/watch?v=hfBbISBZpQA&t=125s)
 
@@ -26,7 +26,7 @@ Charles Lee: "I have seen the relationships continue to develop, the mentorship.
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=125s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=125s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=125&q=3)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=125&q=3) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=125&q=3&slack=1)</small>
 
 **4. Charles Lee — "mistakes are going to happen, we can coach those mistakes in the timeout" — Coaching Christian and managing early career mistakes** [03:35](https://www.youtube.com/watch?v=hfBbISBZpQA&t=215s)
 
@@ -34,7 +34,7 @@ Charles Lee: "**Christian** has been thrown into the deep end to begin the seaso
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=215s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=215s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=215&q=4)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=215&q=4) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=215&q=4&slack=1)</small>
 
 **5. Charles Lee — "the free throw line, I think that this team, they have great personnel that's able to be crafty" — Hornets' need for free-throw line discipline against Washington** [04:24](https://www.youtube.com/watch?v=hfBbISBZpQA&t=264s)
 
@@ -42,7 +42,7 @@ Charles Lee: "The free throw line. I think that this team, they have great perso
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=264s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=264s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=264&q=5)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=264&q=5) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=264&q=5&slack=1)</small>
 
 **6. Charles Lee — "both players are really going to rely on the team around them" — Team-oriented approach to the Alex Sarr and Moussa Diabate matchup** [05:18](https://www.youtube.com/watch?v=hfBbISBZpQA&t=318s)
 
@@ -50,7 +50,7 @@ Charles Lee: "I think that both players are really going to rely on the team aro
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=318s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=318s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=318&q=6)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=318&q=6) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=318&q=6&slack=1)</small>
 
 **7. Charles Lee — "it helps me for sure get to learn them a little bit more" — Benefits of rotating younger players due to veteran injuries** [05:58](https://www.youtube.com/watch?v=hfBbISBZpQA&t=358s)
 
@@ -58,7 +58,7 @@ Charles Lee: "It helps me for sure get to learn them a little bit more, put them
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=358s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=358s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=358&q=7)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=358&q=7) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=358&q=7&slack=1)</small>
 
 **8. Charles Lee — "our goal is to find the best uncontested shot we can" — Focus on finding the best shot over three-point volume** [07:00](https://www.youtube.com/watch?v=hfBbISBZpQA&t=420s)
 
@@ -66,4 +66,4 @@ Charles Lee: "Good for those guys, I know they work really hard. That is not our
 
 [https://www.youtube.com/watch?v=hfBbISBZpQA&t=420s](https://www.youtube.com/watch?v=hfBbISBZpQA&t=420s)
 
-<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=420&q=8)</small>
+<small>[Clip it](presserclips://clip?v=hfBbISBZpQA&t=420&q=8) · [Send to Slack](presserclips://clip?v=hfBbISBZpQA&t=420&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ Quin Snyder: "We've been in this business and as a player or coach long enough, 
 
 [https://www.youtube.com/watch?v=FHVBZeEDLzs&t=7s](https://www.youtube.com/watch?v=FHVBZeEDLzs&t=7s)
 
-<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=7&q=1) · [Send to Slack](presserclips://clip?v=FHVBZeEDLzs&t=7&q=1&slack=1)</small>
 
 **2. Quin Snyder — "he just finds so many ways to impact the game" — Quin Snyder on the impact of Clint Capela's play** [00:42](https://www.youtube.com/watch?v=FHVBZeEDLzs&t=42s)
 
@@ -18,7 +18,7 @@ Quin Snyder: "He just finds so many ways to impact the game, whether it's on the
 
 [https://www.youtube.com/watch?v=FHVBZeEDLzs&t=42s](https://www.youtube.com/watch?v=FHVBZeEDLzs&t=42s)
 
-<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=42&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=42&q=2) · [Send to Slack](presserclips://clip?v=FHVBZeEDLzs&t=42&q=2&slack=1)</small>
 
 **3. Quin Snyder — "we're trying to develop an identity and that identity is defending, running and sharing the ball" — Quin Snyder on developing the team's core identity** [01:34](https://www.youtube.com/watch?v=FHVBZeEDLzs&t=94s)
 
@@ -26,7 +26,7 @@ Quin Snyder: "We're trying to develop an identity and that identity is defending
 
 [https://www.youtube.com/watch?v=FHVBZeEDLzs&t=94s](https://www.youtube.com/watch?v=FHVBZeEDLzs&t=94s)
 
-<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=94&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=94&q=3) · [Send to Slack](presserclips://clip?v=FHVBZeEDLzs&t=94&q=3&slack=1)</small>
 
 **4. Quin Snyder — "to be an official in the NBA may be the hardest job" — Quin Snyder on the difficulty of officiating in the NBA** [02:22](https://www.youtube.com/watch?v=FHVBZeEDLzs&t=142s)
 
@@ -34,4 +34,4 @@ Quin Snyder: "To be an official in the NBA may be the hardest job. Some people s
 
 [https://www.youtube.com/watch?v=FHVBZeEDLzs&t=142s](https://www.youtube.com/watch?v=FHVBZeEDLzs&t=142s)
 
-<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=142&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FHVBZeEDLzs&t=142&q=4) · [Send to Slack](presserclips://clip?v=FHVBZeEDLzs&t=142&q=4&slack=1)</small>

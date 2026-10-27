@@ -10,7 +10,7 @@ J.B. Bickerstaff: "I think that's where we can create trouble. We have so many p
 
 [https://www.youtube.com/watch?v=3UaDJUOYuLc&t=15s](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=15s)
 
-<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=15&q=1) · [Send to Slack](presserclips://clip?v=3UaDJUOYuLc&t=15&q=1&slack=1)</small>
 
 **2. J.B. Bickerstaff — "that was a point of emphasis over the summer to be able to make some of those decisions" — Pistons' emphasis on three-point shooting and floor spacing** [00:54](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=54s)
 
@@ -18,7 +18,7 @@ J.B. Bickerstaff: "That was a point of emphasis over the summer to be able to ma
 
 [https://www.youtube.com/watch?v=3UaDJUOYuLc&t=54s](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=54s)
 
-<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=54&q=2) · [Send to Slack](presserclips://clip?v=3UaDJUOYuLc&t=54&q=2&slack=1)</small>
 
 **3. J.B. Bickerstaff — "those two guys both got us off to a great start" — Cade Cunningham and Jaden Ivey's leadership and impact** [01:34](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=94s)
 
@@ -26,7 +26,7 @@ J.B. Bickerstaff: "I thought that was really important. It's our start, and thos
 
 [https://www.youtube.com/watch?v=3UaDJUOYuLc&t=94s](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=94s)
 
-<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=94&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=94&q=3) · [Send to Slack](presserclips://clip?v=3UaDJUOYuLc&t=94&q=3&slack=1)</small>
 
 **4. J.B. Bickerstaff — "we believe we're 18 deep and guys who can help us play" — Pistons' 18-man depth and mental engagement** [02:12](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=132s)
 
@@ -34,7 +34,7 @@ J.B. Bickerstaff: "We believe we're 18 deep and guys who can help us play. What'
 
 [https://www.youtube.com/watch?v=3UaDJUOYuLc&t=132s](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=132s)
 
-<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=132&q=4)</small>
+<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=132&q=4) · [Send to Slack](presserclips://clip?v=3UaDJUOYuLc&t=132&q=4&slack=1)</small>
 
 **5. J.B. Bickerstaff — "he's elite when he's active defensively, when he's active offensively crashing the boards, running the floor" — Paul Reed's elite versatility and impact on both ends** [02:46](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=166s)
 
@@ -42,7 +42,7 @@ J.B. Bickerstaff: "That's who **Paul Reed** is. That's where we want him to be. 
 
 [https://www.youtube.com/watch?v=3UaDJUOYuLc&t=166s](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=166s)
 
-<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=166&q=5)</small>
+<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=166&q=5) · [Send to Slack](presserclips://clip?v=3UaDJUOYuLc&t=166&q=5&slack=1)</small>
 
 **6. J.B. Bickerstaff — "there's no person I've ever been around that works harder on his game than Paul Reed" — Paul Reed's unique playstyle and work ethic** [03:16](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=196s)
 
@@ -50,7 +50,7 @@ J.B. Bickerstaff: "He plays like to his own beat, and I think that's hard for op
 
 [https://www.youtube.com/watch?v=3UaDJUOYuLc&t=196s](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=196s)
 
-<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=196&q=6)</small>
+<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=196&q=6) · [Send to Slack](presserclips://clip?v=3UaDJUOYuLc&t=196&q=6&slack=1)</small>
 
 **7. J.B. Bickerstaff — "they are playing fast, make or miss" — Pistons' fast-paced tempo and offensive execution** [03:56](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=236s)
 
@@ -58,4 +58,4 @@ J.B. Bickerstaff: "They are playing fast, make or miss. I think **Davion Mitchel
 
 [https://www.youtube.com/watch?v=3UaDJUOYuLc&t=236s](https://www.youtube.com/watch?v=3UaDJUOYuLc&t=236s)
 
-<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=236&q=7)</small>
+<small>[Clip it](presserclips://clip?v=3UaDJUOYuLc&t=236&q=7) · [Send to Slack](presserclips://clip?v=3UaDJUOYuLc&t=236&q=7&slack=1)</small>

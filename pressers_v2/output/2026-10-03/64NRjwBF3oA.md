@@ -10,7 +10,7 @@ Tyronn Lue: "Max and Rui picked up everything pretty well and pretty easy. I am 
 
 [https://www.youtube.com/watch?v=64NRjwBF3oA&t=10s](https://www.youtube.com/watch?v=64NRjwBF3oA&t=10s)
 
-<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=10&q=1) · [Send to Slack](presserclips://clip?v=64NRjwBF3oA&t=10&q=1&slack=1)</small>
 
 **2. Tyronn Lue — "This summer was huge growth. Seeing him be in all summer working on his body." — Tyronn Lue praises Rui Hachimura's offseason work ethic** [01:32](https://www.youtube.com/watch?v=64NRjwBF3oA&t=92s)
 
@@ -18,7 +18,7 @@ Tyronn Lue: "This summer was huge growth. Seeing him be in all summer working on
 
 [https://www.youtube.com/watch?v=64NRjwBF3oA&t=92s](https://www.youtube.com/watch?v=64NRjwBF3oA&t=92s)
 
-<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=92&q=2)</small>
+<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=92&q=2) · [Send to Slack](presserclips://clip?v=64NRjwBF3oA&t=92&q=2&slack=1)</small>
 
 **3. Tyronn Lue — "I think Isaiah is good, but Anthony right now just to be able to get down hill." — Tyronn Lue on the team's search for a starting center** [02:03](https://www.youtube.com/watch?v=64NRjwBF3oA&t=123s)
 
@@ -26,7 +26,7 @@ Tyronn Lue: "I think Isaiah is good, but Anthony right now just to be able to ge
 
 [https://www.youtube.com/watch?v=64NRjwBF3oA&t=123s](https://www.youtube.com/watch?v=64NRjwBF3oA&t=123s)
 
-<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=123&q=3)</small>
+<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=123&q=3) · [Send to Slack](presserclips://clip?v=64NRjwBF3oA&t=123&q=3&slack=1)</small>
 
 **4. Kawhi Leonard — "Coming off an Achilles injury is tough. I sort of took the year off trying to recover." — Kawhi Leonard on his recovery and returning to high-level play** [03:48](https://www.youtube.com/watch?v=64NRjwBF3oA&t=228s)
 
@@ -34,7 +34,7 @@ Kawhi Leonard: "Coming off an Achilles injury is tough. I sort of took the year 
 
 [https://www.youtube.com/watch?v=64NRjwBF3oA&t=228s](https://www.youtube.com/watch?v=64NRjwBF3oA&t=228s)
 
-<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=228&q=4)</small>
+<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=228&q=4) · [Send to Slack](presserclips://clip?v=64NRjwBF3oA&t=228&q=4&slack=1)</small>
 
 **5. Kawhi Leonard — "I think having a full year to actually get the plays and get the concepts together." — Kawhi Leonard on the importance of a full training camp** [04:25](https://www.youtube.com/watch?v=64NRjwBF3oA&t=265s)
 
@@ -42,7 +42,7 @@ Kawhi Leonard: "I think having a full year to actually get the plays and get the
 
 [https://www.youtube.com/watch?v=64NRjwBF3oA&t=265s](https://www.youtube.com/watch?v=64NRjwBF3oA&t=265s)
 
-<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=265&q=5)</small>
+<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=265&q=5) · [Send to Slack](presserclips://clip?v=64NRjwBF3oA&t=265&q=5&slack=1)</small>
 
 **6. Rui Hachimura — "It is almost like team bonding, you know, the players, a lot of new faces." — Rui Hachimura on team bonding during training camp in Hawaii** [07:10](https://www.youtube.com/watch?v=64NRjwBF3oA&t=430s)
 
@@ -50,7 +50,7 @@ Rui Hachimura: "It is almost like team bonding, you know, the players, a lot of 
 
 [https://www.youtube.com/watch?v=64NRjwBF3oA&t=430s](https://www.youtube.com/watch?v=64NRjwBF3oA&t=430s)
 
-<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=430&q=6)</small>
+<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=430&q=6) · [Send to Slack](presserclips://clip?v=64NRjwBF3oA&t=430&q=6&slack=1)</small>
 
 **7. Rui Hachimura — "We have to start identifying our team as like what's our, you know, our chemistry." — Rui Hachimura on the need to build team chemistry** [07:55](https://www.youtube.com/watch?v=64NRjwBF3oA&t=475s)
 
@@ -58,4 +58,4 @@ Rui Hachimura: "We have to start identifying our team as like what's our, you kn
 
 [https://www.youtube.com/watch?v=64NRjwBF3oA&t=475s](https://www.youtube.com/watch?v=64NRjwBF3oA&t=475s)
 
-<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=475&q=7)</small>
+<small>[Clip it](presserclips://clip?v=64NRjwBF3oA&t=475&q=7) · [Send to Slack](presserclips://clip?v=64NRjwBF3oA&t=475&q=7&slack=1)</small>

@@ -10,7 +10,7 @@ Rick Carlisle: "It is great to win. Our guys did a great job in the second half 
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=0s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=0s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=0&q=1) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=0&q=1&slack=1)</small>
 
 **2. Rick Carlisle — "Tyrese played extremely well. First time he's played over 30 minutes in 16 and a half months." — Rick Carlisle praises Tyrese Haliburton's return and impact on the game** [01:28](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=88s)
 
@@ -18,7 +18,7 @@ Rick Carlisle: "Really happy for our guys. Tyrese played extremely well. First t
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=88s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=88s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=88&q=2)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=88&q=2) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=88&q=2&slack=1)</small>
 
 **3. Rick Carlisle — "That kind of competitive presence, leadership and belief is something that just bleeds out to everyone." — Rick Carlisle on Pascal Siakam's leadership and competitive presence** [02:20](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=140s)
 
@@ -26,7 +26,7 @@ Rick Carlisle: "He made huge plays throughout the game, but particularly down th
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=140s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=140s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=140&q=3)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=140&q=3) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=140&q=3&slack=1)</small>
 
 **4. Rick Carlisle — "It is tricky right now with our rotation because we don't have McConnell, we don't have Nembhard." — Rick Carlisle on the challenges of managing rotations without McConnell and Nembhard** [03:45](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=225s)
 
@@ -34,7 +34,7 @@ Rick Carlisle: "It is tricky right now with our rotation because we don't have M
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=225s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=225s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=225&q=4)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=225&q=4) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=225&q=4&slack=1)</small>
 
 **5. "I didn't think I was going to cry, you know, I I really did it." — Tyrese Haliburton on the emotional significance of his return to play** [05:13](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=313s)
 
@@ -44,7 +44,7 @@ Rick Carlisle: "It is tricky right now with our rotation because we don't have M
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=313s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=313s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=313&q=5)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=313&q=5) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=313&q=5&slack=1)</small>
 
 **6. Tyrese Haliburton — "Perspective is everything and as the game was going on I was struggling a little bit." — Tyrese Haliburton on finding perspective and appreciation during his recovery** [06:13](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=373s)
 
@@ -52,7 +52,7 @@ Tyrese Haliburton: "I think just an appreciation, man. Perspective is everything
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=373s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=373s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=373&q=6)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=373&q=6) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=373&q=6&slack=1)</small>
 
 **7. Tyrese Haliburton — "We got a lot to build on. We got a lot." — Tyrese Haliburton on the team's need for improvement after a sloppy start** [07:18](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=438s)
 
@@ -60,7 +60,7 @@ Tyrese Haliburton: "We got a lot to build on. We got a lot. I thought in the fir
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=438s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=438s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=438&q=7)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=438&q=7) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=438&q=7&slack=1)</small>
 
 **8. Tyrese Haliburton — "The thing that's made me feel most like normal is falling and our whole team not panicking." — Tyrese Haliburton on the importance of team composure and patience** [08:34](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=514s)
 
@@ -68,7 +68,7 @@ Tyrese Haliburton: "The thing that's made me feel most like normal is falling an
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=514s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=514s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=514&q=8)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=514&q=8) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=514&q=8&slack=1)</small>
 
 **9. Tyrese Haliburton — "My goal is to be aggressive for four quarters and play the right way." — Tyrese Haliburton on defining success and his goals for the season** [10:01](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=601s)
 
@@ -76,7 +76,7 @@ Tyrese Haliburton: "My high school coach, Coach **Weber**, texted me tonight and
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=601s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=601s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=601&q=9)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=601&q=9) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=601&q=9&slack=1)</small>
 
 **10. Tyrese Haliburton — "Probably nobody other than I would say the two people that have checked on me the most... Deonte Murray and Triple H." — Tyrese Haliburton on the support from Triple H and Deonte Murray** [10:59](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=659s)
 
@@ -84,4 +84,4 @@ Tyrese Haliburton: "Probably nobody other than I would say the two people that h
 
 [https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=659s](https://www.youtube.com/watch?v=wQ83Tmn0MQE&t=659s)
 
-<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=659&q=10)</small>
+<small>[Clip it](presserclips://clip?v=wQ83Tmn0MQE&t=659&q=10) · [Send to Slack](presserclips://clip?v=wQ83Tmn0MQE&t=659&q=10&slack=1)</small>

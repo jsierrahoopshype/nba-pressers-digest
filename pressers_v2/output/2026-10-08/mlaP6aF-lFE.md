@@ -10,7 +10,7 @@ Tuomas Iisalo: "I didn't think we played very well. I didn't think we played ver
 
 [https://www.youtube.com/watch?v=mlaP6aF-lFE&t=10s](https://www.youtube.com/watch?v=mlaP6aF-lFE&t=10s)
 
-<small>[Clip it](presserclips://clip?v=mlaP6aF-lFE&t=10&q=1)</small>
+<small>[Clip it](presserclips://clip?v=mlaP6aF-lFE&t=10&q=1) · [Send to Slack](presserclips://clip?v=mlaP6aF-lFE&t=10&q=1&slack=1)</small>
 
 **2. Tuomas Iisalo — "Obviously very rusty. You can see that he hasn't played in what are we talking about, nine months." — Tuomas Iisalo on Zach Edey's performance after long layoff** [02:17](https://www.youtube.com/watch?v=mlaP6aF-lFE&t=137s)
 
@@ -18,7 +18,7 @@ Tuomas Iisalo: "Obviously very rusty. You can see that he hasn't played in what 
 
 [https://www.youtube.com/watch?v=mlaP6aF-lFE&t=137s](https://www.youtube.com/watch?v=mlaP6aF-lFE&t=137s)
 
-<small>[Clip it](presserclips://clip?v=mlaP6aF-lFE&t=137&q=2)</small>
+<small>[Clip it](presserclips://clip?v=mlaP6aF-lFE&t=137&q=2) · [Send to Slack](presserclips://clip?v=mlaP6aF-lFE&t=137&q=2&slack=1)</small>
 
 **3. Tuomas Iisalo — "They have two of the best downhill wings, big, big forward wings in Wagner and Banchero." — Tuomas Iisalo on defending perimeter threats like Wendell Carter Jr. and Nikola Vucevic** [05:10](https://www.youtube.com/watch?v=mlaP6aF-lFE&t=310s)
 
@@ -26,4 +26,4 @@ Tuomas Iisalo: "There's a couple different scenarios how that can happen. It can
 
 [https://www.youtube.com/watch?v=mlaP6aF-lFE&t=310s](https://www.youtube.com/watch?v=mlaP6aF-lFE&t=310s)
 
-<small>[Clip it](presserclips://clip?v=mlaP6aF-lFE&t=310&q=3)</small>
+<small>[Clip it](presserclips://clip?v=mlaP6aF-lFE&t=310&q=3) · [Send to Slack](presserclips://clip?v=mlaP6aF-lFE&t=310&q=3&slack=1)</small>

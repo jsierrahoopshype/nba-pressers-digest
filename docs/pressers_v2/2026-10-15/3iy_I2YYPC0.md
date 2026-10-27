@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Kasparas Jakučionis_
 
 [https://www.youtube.com/watch?v=3iy_I2YYPC0&t=0s](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=0s)
 
-<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=0&q=1) · [Send to Slack](presserclips://clip?v=3iy_I2YYPC0&t=0&q=1&slack=1)</small>
 
 **2. Kasparas Jakučionis — "The rhythm was hard to find when you play one minute in first quarter." — Kasparas Jakučionis on the difficulty of finding rhythm in preseason** [00:57](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=57s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Kasparas Jakučionis_
 
 [https://www.youtube.com/watch?v=3iy_I2YYPC0&t=57s](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=57s)
 
-<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=57&q=2)</small>
+<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=57&q=2) · [Send to Slack](presserclips://clip?v=3iy_I2YYPC0&t=57&q=2&slack=1)</small>
 
 **3. Kasparas Jakučionis — "I feel like they like that I'm playing aggressive, trying to be that way." — Kasparas Jakučionis on balancing aggressive play with coaching expectations** [01:37](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=97s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Unidentified speaker, Kasparas Jakučionis_
 
 [https://www.youtube.com/watch?v=3iy_I2YYPC0&t=97s](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=97s)
 
-<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=97&q=3)</small>
+<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=97&q=3) · [Send to Slack](presserclips://clip?v=3iy_I2YYPC0&t=97&q=3&slack=1)</small>
 
 **4. Kasparas Jakučionis — "Every game you trying to do what it gives you. You trying to take." — Kasparas Jakučionis on his aggressive offensive approach and free throws** [02:14](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=134s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Unidentified speaker, Kasparas Jakučionis_
 
 [https://www.youtube.com/watch?v=3iy_I2YYPC0&t=134s](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=134s)
 
-<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=134&q=4)</small>
+<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=134&q=4) · [Send to Slack](presserclips://clip?v=3iy_I2YYPC0&t=134&q=4&slack=1)</small>
 
 **5. Kasparas Jakučionis — "The transition defense was really bad in all the games we played so far." — Kasparas Jakučionis on team transition defense and turnover issues** [02:52](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=172s)
 
@@ -52,4 +52,4 @@ _Speakers identified: Unidentified speaker, Kasparas Jakučionis_
 
 [https://www.youtube.com/watch?v=3iy_I2YYPC0&t=172s](https://www.youtube.com/watch?v=3iy_I2YYPC0&t=172s)
 
-<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=172&q=5)</small>
+<small>[Clip it](presserclips://clip?v=3iy_I2YYPC0&t=172&q=5) · [Send to Slack](presserclips://clip?v=3iy_I2YYPC0&t=172&q=5&slack=1)</small>

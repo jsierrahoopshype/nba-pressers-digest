@@ -10,7 +10,7 @@ Rudy Gobert: "It was very competitive. Iron sharpens iron. We are making each ot
 
 [https://www.youtube.com/watch?v=5iBTWeb_B5o&t=38s](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=38s)
 
-<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=38&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=38&q=1) · [Send to Slack](presserclips://clip?v=5iBTWeb_B5o&t=38&q=1&slack=1)</small>
 
 **2. Rudy Gobert — "We know that's what teams are going to bring to us." — Rudy Gobert on the team's physical defensive identity** [01:14](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=74s)
 
@@ -18,7 +18,7 @@ Rudy Gobert: "We played some teams that were already physical, Indiana and New Y
 
 [https://www.youtube.com/watch?v=5iBTWeb_B5o&t=74s](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=74s)
 
-<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=74&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=74&q=2) · [Send to Slack](presserclips://clip?v=5iBTWeb_B5o&t=74&q=2&slack=1)</small>
 
 **3. Rudy Gobert — "That's the best I've seen him. I understand his role on the court but also off the court." — Rudy Gobert on Anthony Edwards' maturity and growth** [01:49](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=109s)
 
@@ -26,7 +26,7 @@ Rudy Gobert: "Year to year, that's the best I've seen him. I understand his role
 
 [https://www.youtube.com/watch?v=5iBTWeb_B5o&t=109s](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=109s)
 
-<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=109&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=109&q=3) · [Send to Slack](presserclips://clip?v=5iBTWeb_B5o&t=109&q=3&slack=1)</small>
 
 **4. Rudy Gobert — "When you have somebody like him that defends a lot but is also willing to make the simple play." — Rudy Gobert on LaMelo Ball's impact and unselfish play** [02:32](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=152s)
 
@@ -34,7 +34,7 @@ Rudy Gobert: "We thought that was what LaMelo could bring to the table for us an
 
 [https://www.youtube.com/watch?v=5iBTWeb_B5o&t=152s](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=152s)
 
-<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=152&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=152&q=4) · [Send to Slack](presserclips://clip?v=5iBTWeb_B5o&t=152&q=4&slack=1)</small>
 
 **5. Rudy Gobert — "He's been smart. He's been helping me keep his composure." — Rudy Gobert on Jalen McDaniels' defensive versatility** [03:14](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=194s)
 
@@ -42,7 +42,7 @@ Rudy Gobert: "He's been smart. He's been helping me keep his composure and letti
 
 [https://www.youtube.com/watch?v=5iBTWeb_B5o&t=194s](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=194s)
 
-<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=194&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=194&q=5) · [Send to Slack](presserclips://clip?v=5iBTWeb_B5o&t=194&q=5&slack=1)</small>
 
 **6. Rudy Gobert — "You can't be too high or too low. You can't be too happy after a good game." — Rudy Gobert on maintaining emotional balance throughout the season** [04:24](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=264s)
 
@@ -50,7 +50,7 @@ Rudy Gobert: "That's maturity and I keep telling him, you can't be too high or t
 
 [https://www.youtube.com/watch?v=5iBTWeb_B5o&t=264s](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=264s)
 
-<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=264&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=264&q=6) · [Send to Slack](presserclips://clip?v=5iBTWeb_B5o&t=264&q=6&slack=1)</small>
 
 **7. Rudy Gobert — "These are great care factors and we can see it. It's what we need to win." — Rudy Gobert on the team's collective defensive chemistry** [05:11](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=311s)
 
@@ -58,4 +58,4 @@ Rudy Gobert: "These are great care factors and we can see it. It's what we need 
 
 [https://www.youtube.com/watch?v=5iBTWeb_B5o&t=311s](https://www.youtube.com/watch?v=5iBTWeb_B5o&t=311s)
 
-<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=311&q=7)</small>
+<small>[Clip it](presserclips://clip?v=5iBTWeb_B5o&t=311&q=7) · [Send to Slack](presserclips://clip?v=5iBTWeb_B5o&t=311&q=7&slack=1)</small>

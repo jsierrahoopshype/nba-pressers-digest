@@ -10,7 +10,7 @@ Charles Lee: "It got to 100-100 and one of our veterans stood up and said, 'Hey 
 
 [https://www.youtube.com/watch?v=11oGmQ5ACL8&t=51s](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=51s)
 
-<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=51&q=1)</small>
+<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=51&q=1) · [Send to Slack](presserclips://clip?v=11oGmQ5ACL8&t=51&q=1&slack=1)</small>
 
 **2. Charles Lee — "Dennis is his intensity defensively, being able to break the paint, hit a couple threes today." — Dennis Schroder's defensive intensity and impact** [01:33](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=93s)
 
@@ -18,7 +18,7 @@ Charles Lee: "Grayson, Naz, and Dennis came up with big plays. I thought Dennis 
 
 [https://www.youtube.com/watch?v=11oGmQ5ACL8&t=93s](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=93s)
 
-<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=93&q=2)</small>
+<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=93&q=2) · [Send to Slack](presserclips://clip?v=11oGmQ5ACL8&t=93&q=2&slack=1)</small>
 
 **3. Charles Lee — "Grayson, he comes off the bench, stabilizes that second unit group a lot of times." — Grayson Allen's stabilizing role off the bench** [01:54](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=114s)
 
@@ -26,7 +26,7 @@ Charles Lee: "Grayson, he comes off the bench, stabilizes that second unit group
 
 [https://www.youtube.com/watch?v=11oGmQ5ACL8&t=114s](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=114s)
 
-<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=114&q=3)</small>
+<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=114&q=3) · [Send to Slack](presserclips://clip?v=11oGmQ5ACL8&t=114&q=3&slack=1)</small>
 
 **4. Charles Lee — "Naz, he came up with big plays when we needed them. He guarded Bam Adebayo." — Naz Reid's defensive versatility against Bam Adebayo and Josh Richardson** [02:11](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=131s)
 
@@ -34,7 +34,7 @@ Charles Lee: "Naz, he came up with big plays when we needed them. He guarded **B
 
 [https://www.youtube.com/watch?v=11oGmQ5ACL8&t=131s](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=131s)
 
-<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=131&q=4)</small>
+<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=131&q=4) · [Send to Slack](presserclips://clip?v=11oGmQ5ACL8&t=131&q=4&slack=1)</small>
 
 **5. Charles Lee — "though he may be struggling offensively, he creates so many good things for us on the offensive end." — Brandon Miller's leadership and offensive creation** [02:42](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=162s)
 
@@ -42,7 +42,7 @@ Charles Lee: "That's why you never overreact to shooting numbers or shooting slu
 
 [https://www.youtube.com/watch?v=11oGmQ5ACL8&t=162s](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=162s)
 
-<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=162&q=5)</small>
+<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=162&q=5) · [Send to Slack](presserclips://clip?v=11oGmQ5ACL8&t=162&q=5&slack=1)</small>
 
 **6. Charles Lee — "We knew that we were going to need all five guys that were on the court." — Defensive strategy to contain Giannis Antetokounmpo** [03:17](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=197s)
 
@@ -50,7 +50,7 @@ Charles Lee: "Credit to the primary defenders that guarded him, but also credit 
 
 [https://www.youtube.com/watch?v=11oGmQ5ACL8&t=197s](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=197s)
 
-<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=197&q=6)</small>
+<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=197&q=6) · [Send to Slack](presserclips://clip?v=11oGmQ5ACL8&t=197&q=6&slack=1)</small>
 
 **7. Charles Lee — "He's continued to just grow, find his physicality, find his spots on the floor." — Ryan Kalkbrenner's growth and defensive instincts** [04:01](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=241s)
 
@@ -58,4 +58,4 @@ Charles Lee: "He's continued to just grow, find his physicality, find his spots 
 
 [https://www.youtube.com/watch?v=11oGmQ5ACL8&t=241s](https://www.youtube.com/watch?v=11oGmQ5ACL8&t=241s)
 
-<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=241&q=7)</small>
+<small>[Clip it](presserclips://clip?v=11oGmQ5ACL8&t=241&q=7) · [Send to Slack](presserclips://clip?v=11oGmQ5ACL8&t=241&q=7&slack=1)</small>

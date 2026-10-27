@@ -10,7 +10,7 @@ Kenny Atkinson: "**Peyton Watson** is adapting to what we are doing. He is still
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=71s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=71s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=71&q=1)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=71&q=1) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=71&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "He can do much more damage in the paint, whether it's post-ups or drives." — Kenny Atkinson on Lauri Markkanen's physical and skill transformation** [03:15](https://www.youtube.com/watch?v=aTqiOwy-auc&t=195s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "I felt like he was pigeonholed into just being a shooting four-
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=195s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=195s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=195&q=2)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=195&q=2) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=195&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "We've invested heavily into sports science. They lead us." — Kenny Atkinson on the team's emphasis on sports science and conditioning** [06:16](https://www.youtube.com/watch?v=aTqiOwy-auc&t=376s)
 
@@ -26,7 +26,7 @@ Kenny Atkinson: "It's a big part of our strategy for training camp and leading u
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=376s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=376s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=376&q=3)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=376&q=3) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=376&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "He has been one of the better players in camp so far." — Kenny Atkinson on Jalen Tyson's strong start to training camp** [09:04](https://www.youtube.com/watch?v=aTqiOwy-auc&t=544s)
 
@@ -34,7 +34,7 @@ Kenny Atkinson: "**Jalen Tyson** has been one of the better players in camp so f
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=544s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=544s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=544&q=4)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=544&q=4) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=544&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "It was almost by default Evan had to be more of a playmaker." — Kenny Atkinson on Evan Mobley's growth as a playmaker** [15:13](https://www.youtube.com/watch?v=aTqiOwy-auc&t=913s)
 
@@ -42,7 +42,7 @@ Kenny Atkinson: "I think he did take big steps in the playoffs. What happened in
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=913s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=913s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=913&q=5)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=913&q=5) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=913&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "We need more playmakers besides him and Donovan Mitchell." — Kenny Atkinson on the need for more playmakers beyond the stars** [18:25](https://www.youtube.com/watch?v=aTqiOwy-auc&t=1105s)
 
@@ -50,4 +50,4 @@ Kenny Atkinson: "The other thing what I've learned from the playoffs is like we 
 
 [https://www.youtube.com/watch?v=aTqiOwy-auc&t=1105s](https://www.youtube.com/watch?v=aTqiOwy-auc&t=1105s)
 
-<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=1105&q=6)</small>
+<small>[Clip it](presserclips://clip?v=aTqiOwy-auc&t=1105&q=6) · [Send to Slack](presserclips://clip?v=aTqiOwy-auc&t=1105&q=6&slack=1)</small>

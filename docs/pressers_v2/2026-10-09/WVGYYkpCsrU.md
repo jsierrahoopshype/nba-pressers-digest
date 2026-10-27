@@ -10,7 +10,7 @@ Rick Carlisle: "We have some significant new personnel with **Obi Toppin**, **An
 
 [https://www.youtube.com/watch?v=WVGYYkpCsrU&t=45s](https://www.youtube.com/watch?v=WVGYYkpCsrU&t=45s)
 
-<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=45&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=45&q=1) · [Send to Slack](presserclips://clip?v=WVGYYkpCsrU&t=45&q=1&slack=1)</small>
 
 **2. Jarace Walker — "I work on ball-handling drills to passing, like skip passing, behind the back reads, things like that." — Jarace Walker on developing his playmaking and passing skills** [03:44](https://www.youtube.com/watch?v=WVGYYkpCsrU&t=224s)
 
@@ -18,7 +18,7 @@ Jarace Walker: "I work on ball-handling drills to passing, like skip passing, be
 
 [https://www.youtube.com/watch?v=WVGYYkpCsrU&t=224s](https://www.youtube.com/watch?v=WVGYYkpCsrU&t=224s)
 
-<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=224&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=224&q=2) · [Send to Slack](presserclips://clip?v=WVGYYkpCsrU&t=224&q=2&slack=1)</small>
 
 **3. Ivica Zubac — "Just learning a little better what the guys like on the screening, what angles they like." — Ivica Zubac on learning teammate preferences for screens and positioning** [06:06](https://www.youtube.com/watch?v=WVGYYkpCsrU&t=366s)
 
@@ -26,7 +26,7 @@ Ivica Zubac: "Just learning a little better what the guys like on the screening,
 
 [https://www.youtube.com/watch?v=WVGYYkpCsrU&t=366s](https://www.youtube.com/watch?v=WVGYYkpCsrU&t=366s)
 
-<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=366&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=366&q=3) · [Send to Slack](presserclips://clip?v=WVGYYkpCsrU&t=366&q=3&slack=1)</small>
 
 **4. Ivica Zubac — "When I was with the Lakers, we signed Tyson Chandler and he was really good with it." — Ivica Zubac on learning from Tyson Chandler's screen-setting expertise** [09:05](https://www.youtube.com/watch?v=WVGYYkpCsrU&t=545s)
 
@@ -34,4 +34,4 @@ Ivica Zubac: "When I was with the Lakers, we signed **Tyson Chandler** and he wa
 
 [https://www.youtube.com/watch?v=WVGYYkpCsrU&t=545s](https://www.youtube.com/watch?v=WVGYYkpCsrU&t=545s)
 
-<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=545&q=4)</small>
+<small>[Clip it](presserclips://clip?v=WVGYYkpCsrU&t=545&q=4) · [Send to Slack](presserclips://clip?v=WVGYYkpCsrU&t=545&q=4&slack=1)</small>

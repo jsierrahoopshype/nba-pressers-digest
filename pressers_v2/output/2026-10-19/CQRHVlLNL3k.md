@@ -10,7 +10,7 @@ Deni Avdija: "I think obviously we're a new team, new coaching staff and I feel 
 
 [https://www.youtube.com/watch?v=CQRHVlLNL3k&t=14s](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=14s)
 
-<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=14&q=1)</small>
+<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=14&q=1) · [Send to Slack](presserclips://clip?v=CQRHVlLNL3k&t=14&q=1&slack=1)</small>
 
 **2. Deni Avdija — "I think we're very versatile, we have a lot of players that can play multiple positions." — Deni Avdija on the versatility of the Portland Trail Blazers' roster** [00:47](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=47s)
 
@@ -18,7 +18,7 @@ Deni Avdija: "I think we're very versatile, we have a lot of players that can pl
 
 [https://www.youtube.com/watch?v=CQRHVlLNL3k&t=47s](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=47s)
 
-<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=47&q=2)</small>
+<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=47&q=2) · [Send to Slack](presserclips://clip?v=CQRHVlLNL3k&t=47&q=2&slack=1)</small>
 
 **3. Deni Avdija — "My plan is to take another step defensively, especially this year." — Deni Avdija on his goal to improve defensively this season** [01:14](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=74s)
 
@@ -26,7 +26,7 @@ Deni Avdija: "My plan is to take another step defensively, especially this year.
 
 [https://www.youtube.com/watch?v=CQRHVlLNL3k&t=74s](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=74s)
 
-<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=74&q=3)</small>
+<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=74&q=3) · [Send to Slack](presserclips://clip?v=CQRHVlLNL3k&t=74&q=3&slack=1)</small>
 
 **4. Deni Avdija — "He expects the best out of everybody and he want to push us to be the best." — Deni Avdija on the coaching staff's expectations for player development** [01:34](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=94s)
 
@@ -34,7 +34,7 @@ Deni Avdija: "He expects the best out of everybody and he want to push us to be 
 
 [https://www.youtube.com/watch?v=CQRHVlLNL3k&t=94s](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=94s)
 
-<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=94&q=4)</small>
+<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=94&q=4) · [Send to Slack](presserclips://clip?v=CQRHVlLNL3k&t=94&q=4&slack=1)</small>
 
 **5. Deni Avdija — "When you put a lot of talent together, everybody got to sacrifice." — Deni Avdija on the importance of sacrifice for winning teams** [01:52](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=112s)
 
@@ -42,7 +42,7 @@ Deni Avdija: "When you put a lot of talent together, everybody got to sacrifice 
 
 [https://www.youtube.com/watch?v=CQRHVlLNL3k&t=112s](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=112s)
 
-<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=112&q=5)</small>
+<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=112&q=5) · [Send to Slack](presserclips://clip?v=CQRHVlLNL3k&t=112&q=5&slack=1)</small>
 
 **6. Deni Avdija — "We're way smaller, so for sure everybody got to box out." — Deni Avdija on the need for better rebounding and boxing out** [03:03](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=183s)
 
@@ -50,4 +50,4 @@ Deni Avdija: "We're way smaller, so for sure everybody got to box out and as I s
 
 [https://www.youtube.com/watch?v=CQRHVlLNL3k&t=183s](https://www.youtube.com/watch?v=CQRHVlLNL3k&t=183s)
 
-<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=183&q=6)</small>
+<small>[Clip it](presserclips://clip?v=CQRHVlLNL3k&t=183&q=6) · [Send to Slack](presserclips://clip?v=CQRHVlLNL3k&t=183&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Micah Nori: "The one thing that this team we need to do and focus is the defensi
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=44s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=44s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=44&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=44&q=1) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=44&q=1&slack=1)</small>
 
 **2. Micah Nori — "he brings a lot of intensity. I think that he is working on his shooting" — Micah Nori on the intensity and shooting development of Scoot Henderson** [02:22](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=142s)
 
@@ -18,7 +18,7 @@ Micah Nori: "I think he brings a lot of intensity. I think that he is working on
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=142s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=142s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=142&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=142&q=2) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=142&q=2&slack=1)</small>
 
 **3. Micah Nori — "availability, in my opinion, is a skill. Being available to play and playing hard is a skill" — Micah Nori defines availability and playing hard as essential skills** [02:50](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=170s)
 
@@ -26,7 +26,7 @@ Micah Nori: "Availability, in my opinion, is a skill. Being available to play an
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=170s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=170s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=170&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=170&q=3) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=170&q=3&slack=1)</small>
 
 **4. Micah Nori — "he has done nothing in this camp to deter not wanting him on the floor" — Micah Nori on Scoot Henderson's role and performance in training camp** [03:14](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=194s)
 
@@ -34,7 +34,7 @@ Micah Nori: "He has done nothing in this camp to deter not wanting him on the fl
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=194s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=194s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=194&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=194&q=4) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=194&q=4&slack=1)</small>
 
 **5. Micah Nori — "I think he can get better shooting. A lot of his stuff is that he doesn't miss left or right" — Micah Nori on Scoot Henderson's shooting mechanics and consistency** [03:44](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=224s)
 
@@ -42,7 +42,7 @@ Micah Nori: "I think he can get better shooting. A lot of his stuff is that he d
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=224s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=224s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=224&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=224&q=5) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=224&q=5&slack=1)</small>
 
 **6. Micah Nori — "his numbers have gotten drastically better since he stepped foot as a Portland Trail Blazer" — Micah Nori notes Scoot Henderson's improved numbers since joining the Blazers** [04:30](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=270s)
 
@@ -50,7 +50,7 @@ Micah Nori: "His numbers have gotten drastically better since he stepped foot as
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=270s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=270s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=270&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=270&q=6) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=270&q=6&slack=1)</small>
 
 **7. Micah Nori — "can we be better at what we have put a point of emphasis on? Do we take care of the ball better?" — Micah Nori on team focus areas: ball security and defensive rebounding** [05:21](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=321s)
 
@@ -58,7 +58,7 @@ Micah Nori: "Can we be better at what we have put a point of emphasis on? Do we 
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=321s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=321s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=321&q=7)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=321&q=7) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=321&q=7&slack=1)</small>
 
 **8. Micah Nori — "we want to protect the paint, so we want to be physical up the floor" — Micah Nori on defensive principles: protecting the paint and weak-side help** [07:11](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=431s)
 
@@ -66,4 +66,4 @@ Micah Nori: "We want to protect the paint, so we want to be physical up the floo
 
 [https://www.youtube.com/watch?v=HuNo0FUCZ94&t=431s](https://www.youtube.com/watch?v=HuNo0FUCZ94&t=431s)
 
-<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=431&q=8)</small>
+<small>[Clip it](presserclips://clip?v=HuNo0FUCZ94&t=431&q=8) · [Send to Slack](presserclips://clip?v=HuNo0FUCZ94&t=431&q=8&slack=1)</small>

@@ -10,7 +10,7 @@ Micah Nori: "Without two of our better defenders, meaning Drew and Rob, we reall
 
 [https://www.youtube.com/watch?v=NG7RG0a4poI&t=5s](https://www.youtube.com/watch?v=NG7RG0a4poI&t=5s)
 
-<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=5&q=1) · [Send to Slack](presserclips://clip?v=NG7RG0a4poI&t=5&q=1&slack=1)</small>
 
 **2. Micah Nori — "We have four days for it to heal, and so we figured, why risk it?" — Scoot Henderson's injury status and recovery timeline** [01:27](https://www.youtube.com/watch?v=NG7RG0a4poI&t=87s)
 
@@ -18,7 +18,7 @@ Micah Nori: "It was more so just an X-ray and knock on wood, nothing was broke. 
 
 [https://www.youtube.com/watch?v=NG7RG0a4poI&t=87s](https://www.youtube.com/watch?v=NG7RG0a4poI&t=87s)
 
-<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=87&q=2)</small>
+<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=87&q=2) · [Send to Slack](presserclips://clip?v=NG7RG0a4poI&t=87&q=2&slack=1)</small>
 
 **3. Micah Nori — "It gives you a facilitator and Ja for sure that's looking to push pace." — Ja Morant's role as a facilitator and secondary scorer** [02:46](https://www.youtube.com/watch?v=NG7RG0a4poI&t=166s)
 
@@ -26,7 +26,7 @@ Micah Nori: "It gives you a facilitator and Ja for sure that's looking to push p
 
 [https://www.youtube.com/watch?v=NG7RG0a4poI&t=166s](https://www.youtube.com/watch?v=NG7RG0a4poI&t=166s)
 
-<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=166&q=3)</small>
+<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=166&q=3) · [Send to Slack](presserclips://clip?v=NG7RG0a4poI&t=166&q=3&slack=1)</small>
 
 **4. Micah Nori — "When Scoot comes in off of the bench, I think he also is a facilitator." — Scoot Henderson's impact off the bench** [03:06](https://www.youtube.com/watch?v=NG7RG0a4poI&t=186s)
 
@@ -34,7 +34,7 @@ Micah Nori: "When Scoot comes in off of the bench, I think he also is a facilita
 
 [https://www.youtube.com/watch?v=NG7RG0a4poI&t=186s](https://www.youtube.com/watch?v=NG7RG0a4poI&t=186s)
 
-<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=186&q=4)</small>
+<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=186&q=4) · [Send to Slack](presserclips://clip?v=NG7RG0a4poI&t=186&q=4&slack=1)</small>
 
 **5. Micah Nori — "It's just him getting comfortable with his teammates number one." — Ja Morant's growth and comfort with teammates** [03:38](https://www.youtube.com/watch?v=NG7RG0a4poI&t=218s)
 
@@ -42,4 +42,4 @@ Micah Nori: "It's just him getting comfortable with his teammates number one. I 
 
 [https://www.youtube.com/watch?v=NG7RG0a4poI&t=218s](https://www.youtube.com/watch?v=NG7RG0a4poI&t=218s)
 
-<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=218&q=5)</small>
+<small>[Clip it](presserclips://clip?v=NG7RG0a4poI&t=218&q=5) · [Send to Slack](presserclips://clip?v=NG7RG0a4poI&t=218&q=5&slack=1)</small>

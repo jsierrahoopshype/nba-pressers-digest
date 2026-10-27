@@ -10,7 +10,7 @@ Jericho Sims: "That is one thing I can add to the team. The system is a little b
 
 [https://www.youtube.com/watch?v=ubCT8qdPeJs&t=144s](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=144s)
 
-<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=144&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=144&q=1) · [Send to Slack](presserclips://clip?v=ubCT8qdPeJs&t=144&q=1&slack=1)</small>
 
 **2. Jericho Sims — Jericho Sims highlights the creative no-dribble drills implemented by coach Doc Rivers.** [02:37](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=157s)
 
@@ -18,7 +18,7 @@ Jericho Sims: "I think the four and four no dribble, five on five no dribble, wi
 
 [https://www.youtube.com/watch?v=ubCT8qdPeJs&t=157s](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=157s)
 
-<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=157&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=157&q=2) · [Send to Slack](presserclips://clip?v=ubCT8qdPeJs&t=157&q=2&slack=1)</small>
 
 **3. Jericho Sims — Jericho Sims praises the rim protection skills of his new teammate.** [03:21](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=201s)
 
@@ -26,4 +26,4 @@ Jericho Sims: "I think just his activity. He is a mountain of a guy, so it is go
 
 [https://www.youtube.com/watch?v=ubCT8qdPeJs&t=201s](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=201s)
 
-<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=201&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=201&q=3) · [Send to Slack](presserclips://clip?v=ubCT8qdPeJs&t=201&q=3&slack=1)</small>

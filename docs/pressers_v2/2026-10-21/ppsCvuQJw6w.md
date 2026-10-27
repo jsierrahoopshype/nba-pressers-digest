@@ -10,7 +10,7 @@ Jalen Williams: "I thought defensively we were really good. I feel like offense 
 
 [https://www.youtube.com/watch?v=ppsCvuQJw6w&t=11s](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=11s)
 
-<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=11&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=11&q=1) · [Send to Slack](presserclips://clip?v=ppsCvuQJw6w&t=11&q=1&slack=1)</small>
 
 **2. Jalen Williams — "not panicking. They hadn't really shot the ball well" — Jalen Williams on maintaining composure in the fourth quarter** [00:50](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=50s)
 
@@ -18,7 +18,7 @@ Jalen Williams: "Probably just poise, not panicking. They hadn't really shot the
 
 [https://www.youtube.com/watch?v=ppsCvuQJw6w&t=50s](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=50s)
 
-<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=50&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=50&q=2) · [Send to Slack](presserclips://clip?v=ppsCvuQJw6w&t=50&q=2&slack=1)</small>
 
 **3. Jalen Williams — "Just be there for my teammate." — Jalen Williams on the scuffle involving Fox and Chet Holmgren** [01:21](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=81s)
 
@@ -26,7 +26,7 @@ Jalen Williams: "Just be there for my teammate. That's it. I didn't really like 
 
 [https://www.youtube.com/watch?v=ppsCvuQJw6w&t=81s](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=81s)
 
-<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=81&q=3) · [Send to Slack](presserclips://clip?v=ppsCvuQJw6w&t=81&q=3&slack=1)</small>
 
 **4. Jalen Williams — "Our group is pretty battle-tested." — Jalen Williams on the team's collective experience and trust** [02:34](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=154s)
 
@@ -34,7 +34,7 @@ Jalen Williams: "Our group is pretty battle-tested. Obviously we got some new pi
 
 [https://www.youtube.com/watch?v=ppsCvuQJw6w&t=154s](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=154s)
 
-<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=154&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=154&q=4) · [Send to Slack](presserclips://clip?v=ppsCvuQJw6w&t=154&q=4&slack=1)</small>
 
 **5. Jalen Williams — "I think defensively I'm great. That's where I hang my hat on." — Jalen Williams on his defensive focus and offensive adjustment** [03:19](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=199s)
 
@@ -42,4 +42,4 @@ Jalen Williams: "I think defensively I'm great. That's where I hang my hat on. I
 
 [https://www.youtube.com/watch?v=ppsCvuQJw6w&t=199s](https://www.youtube.com/watch?v=ppsCvuQJw6w&t=199s)
 
-<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=199&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ppsCvuQJw6w&t=199&q=5) · [Send to Slack](presserclips://clip?v=ppsCvuQJw6w&t=199&q=5&slack=1)</small>

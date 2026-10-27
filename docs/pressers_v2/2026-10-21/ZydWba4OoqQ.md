@@ -10,7 +10,7 @@ Chet Holmgren: "I feel like the first thing you have to do is remove the emotion
 
 [https://www.youtube.com/watch?v=ZydWba4OoqQ&t=30s](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=30s)
 
-<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=30&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=30&q=1) · [Send to Slack](presserclips://clip?v=ZydWba4OoqQ&t=30&q=1&slack=1)</small>
 
 **2. Chet Holmgren — "you can easily get too emotional with this matchup, but I don't think you've ever gotten too emotional." — Chet Holmgren on maintaining team-first focus during Victor Wembanyama matchup** [01:06](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=66s)
 
@@ -18,7 +18,7 @@ Chet Holmgren: "I feel like there is a balance between letting the game tell you
 
 [https://www.youtube.com/watch?v=ZydWba4OoqQ&t=66s](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=66s)
 
-<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=66&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=66&q=2) · [Send to Slack](presserclips://clip?v=ZydWba4OoqQ&t=66&q=2&slack=1)</small>
 
 **3. Chet Holmgren — "we pride ourselves on playing together and for each other, and I feel like we did a great job." — Chet Holmgren on team defensive effort against Victor Wembanyama** [02:20](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=140s)
 
@@ -26,7 +26,7 @@ Chet Holmgren: "I think we did a great job of keying in on what the coaches gave
 
 [https://www.youtube.com/watch?v=ZydWba4OoqQ&t=140s](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=140s)
 
-<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=140&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=140&q=3) · [Send to Slack](presserclips://clip?v=ZydWba4OoqQ&t=140&q=3&slack=1)</small>
 
 **4. Chet Holmgren — "anything that you're not willing to reciprocate is an advantage for the other team." — Chet Holmgren on team response to physical play and officiating** [03:32](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=212s)
 
@@ -34,7 +34,7 @@ Chet Holmgren: "At the end of the day, I feel like anything that you're not will
 
 [https://www.youtube.com/watch?v=ZydWba4OoqQ&t=212s](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=212s)
 
-<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=212&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=212&q=4) · [Send to Slack](presserclips://clip?v=ZydWba4OoqQ&t=212&q=4&slack=1)</small>
 
 **5. Chet Holmgren — "when I'm at my worst, I'm focused too much on what I've done well and not what I need to improve." — Chet Holmgren on self-evaluation and areas for improvement** [05:32](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=332s)
 
@@ -42,4 +42,4 @@ Chet Holmgren: "I feel like when I'm at my worst, I'm focused too much on what I
 
 [https://www.youtube.com/watch?v=ZydWba4OoqQ&t=332s](https://www.youtube.com/watch?v=ZydWba4OoqQ&t=332s)
 
-<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=332&q=5)</small>
+<small>[Clip it](presserclips://clip?v=ZydWba4OoqQ&t=332&q=5) · [Send to Slack](presserclips://clip?v=ZydWba4OoqQ&t=332&q=5&slack=1)</small>

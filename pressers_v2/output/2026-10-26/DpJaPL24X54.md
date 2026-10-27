@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Tyrese Haliburton_
 
 [https://www.youtube.com/watch?v=DpJaPL24X54&t=0s](https://www.youtube.com/watch?v=DpJaPL24X54&t=0s)
 
-<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=0&q=1) · [Send to Slack](presserclips://clip?v=DpJaPL24X54&t=0&q=1&slack=1)</small>
 
 **2. Tyrese Haliburton — "Sometimes you have to just commit to the bit. I didn't know I was going to do it." — Tyrese Haliburton explains his mindset during his highlight dunk** [00:38](https://www.youtube.com/watch?v=DpJaPL24X54&t=38s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Tyrese Haliburton_
 
 [https://www.youtube.com/watch?v=DpJaPL24X54&t=38s](https://www.youtube.com/watch?v=DpJaPL24X54&t=38s)
 
-<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=38&q=2)</small>
+<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=38&q=2) · [Send to Slack](presserclips://clip?v=DpJaPL24X54&t=38&q=2&slack=1)</small>
 
 **3. Tyrese Haliburton — "Obviously such an elite running mate for me and a guy who has really helped me throughout my career." — Tyrese Haliburton on his chemistry with Pascal Siakam** [01:10](https://www.youtube.com/watch?v=DpJaPL24X54&t=70s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Unidentified speaker, Tyrese Haliburton_
 
 [https://www.youtube.com/watch?v=DpJaPL24X54&t=70s](https://www.youtube.com/watch?v=DpJaPL24X54&t=70s)
 
-<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=70&q=3)</small>
+<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=70&q=3) · [Send to Slack](presserclips://clip?v=DpJaPL24X54&t=70&q=3&slack=1)</small>
 
 **4. Tyrese Haliburton — "I'm going to play. Of course I'm going to play. There's been no conversation about it." — Tyrese Haliburton confirms he will play in back-to-back games** [01:37](https://www.youtube.com/watch?v=DpJaPL24X54&t=97s)
 
@@ -42,4 +42,4 @@ _Speakers identified: Unidentified speaker, Tyrese Haliburton_
 
 [https://www.youtube.com/watch?v=DpJaPL24X54&t=97s](https://www.youtube.com/watch?v=DpJaPL24X54&t=97s)
 
-<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=97&q=4)</small>
+<small>[Clip it](presserclips://clip?v=DpJaPL24X54&t=97&q=4) · [Send to Slack](presserclips://clip?v=DpJaPL24X54&t=97&q=4&slack=1)</small>

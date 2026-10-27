@@ -10,7 +10,7 @@ Mark Daigneault: "For us that was a game plan win in terms of execution. The job
 
 [https://www.youtube.com/watch?v=KCfdn0nsCKE&t=7s](https://www.youtube.com/watch?v=KCfdn0nsCKE&t=7s)
 
-<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=7&q=1)</small>
+<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=7&q=1) · [Send to Slack](presserclips://clip?v=KCfdn0nsCKE&t=7&q=1&slack=1)</small>
 
 **2. Mark Daigneault — "he asked out of the game at the end of the game, and he's got a historic streak going" — Mark Daigneault on Shai Gilgeous-Alexander's leadership and self-awareness** [02:44](https://www.youtube.com/watch?v=KCfdn0nsCKE&t=164s)
 
@@ -18,7 +18,7 @@ Mark Daigneault: "He asked out of the game at the end of the game, and he's got 
 
 [https://www.youtube.com/watch?v=KCfdn0nsCKE&t=164s](https://www.youtube.com/watch?v=KCfdn0nsCKE&t=164s)
 
-<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=164&q=2)</small>
+<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=164&q=2) · [Send to Slack](presserclips://clip?v=KCfdn0nsCKE&t=164&q=2&slack=1)</small>
 
 **3. Mark Daigneault — "he got us to the bonus like three or four minutes into the quarter just on his gravity" — Mark Daigneault on Chet Holmgren's growth and impact as a lob threat** [03:33](https://www.youtube.com/watch?v=KCfdn0nsCKE&t=213s)
 
@@ -26,7 +26,7 @@ Mark Daigneault: "In the second half, we were really looking for him in the four
 
 [https://www.youtube.com/watch?v=KCfdn0nsCKE&t=213s](https://www.youtube.com/watch?v=KCfdn0nsCKE&t=213s)
 
-<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=213&q=3)</small>
+<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=213&q=3) · [Send to Slack](presserclips://clip?v=KCfdn0nsCKE&t=213&q=3&slack=1)</small>
 
 **4. Mark Daigneault — "the block he had, I thought really swung the game. That was a huge momentum play for us" — Mark Daigneault on Chet Holmgren's defensive impact against Victor Wembanyama and Nikola Jokic** [07:10](https://www.youtube.com/watch?v=KCfdn0nsCKE&t=430s)
 
@@ -34,4 +34,4 @@ Mark Daigneault: "He's just such a monster competitor and the block he had, I th
 
 [https://www.youtube.com/watch?v=KCfdn0nsCKE&t=430s](https://www.youtube.com/watch?v=KCfdn0nsCKE&t=430s)
 
-<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=430&q=4)</small>
+<small>[Clip it](presserclips://clip?v=KCfdn0nsCKE&t=430&q=4) · [Send to Slack](presserclips://clip?v=KCfdn0nsCKE&t=430&q=4&slack=1)</small>

@@ -10,7 +10,7 @@ Kenny Atkinson: "Play like it's Game 7 all the time. I think with **Jarrett Alle
 
 [https://www.youtube.com/watch?v=vOgYMifbJy8&t=8s](https://www.youtube.com/watch?v=vOgYMifbJy8&t=8s)
 
-<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=8&q=1) · [Send to Slack](presserclips://clip?v=vOgYMifbJy8&t=8&q=1&slack=1)</small>
 
 **2. Kenny Atkinson — "It's more important for our other players to know how important he is." — Importance of teammates recognizing Jarrett Allen's role** [01:10](https://www.youtube.com/watch?v=vOgYMifbJy8&t=70s)
 
@@ -18,7 +18,7 @@ Kenny Atkinson: "It's more important for our other players to know how important
 
 [https://www.youtube.com/watch?v=vOgYMifbJy8&t=70s](https://www.youtube.com/watch?v=vOgYMifbJy8&t=70s)
 
-<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=70&q=2)</small>
+<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=70&q=2) · [Send to Slack](presserclips://clip?v=vOgYMifbJy8&t=70&q=2&slack=1)</small>
 
 **3. Kenny Atkinson — "I have a good idea in my mind, but we just got to see how it plays out." — Kenny Atkinson on identifying a stable rotation** [02:14](https://www.youtube.com/watch?v=vOgYMifbJy8&t=134s)
 
@@ -26,7 +26,7 @@ Kenny Atkinson: "I have a good idea in my mind, but we just got to see how it pl
 
 [https://www.youtube.com/watch?v=vOgYMifbJy8&t=134s](https://www.youtube.com/watch?v=vOgYMifbJy8&t=134s)
 
-<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=134&q=3)</small>
+<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=134&q=3) · [Send to Slack](presserclips://clip?v=vOgYMifbJy8&t=134&q=3&slack=1)</small>
 
 **4. Kenny Atkinson — "We're doing a lot of things behind the scenes too to push this thing forward." — Kenny Atkinson on the organization's next steps** [02:36](https://www.youtube.com/watch?v=vOgYMifbJy8&t=156s)
 
@@ -34,7 +34,7 @@ Kenny Atkinson: "We're doing a lot of things behind the scenes too to push this 
 
 [https://www.youtube.com/watch?v=vOgYMifbJy8&t=156s](https://www.youtube.com/watch?v=vOgYMifbJy8&t=156s)
 
-<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=156&q=4)</small>
+<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=156&q=4) · [Send to Slack](presserclips://clip?v=vOgYMifbJy8&t=156&q=4&slack=1)</small>
 
 **5. Kenny Atkinson — "Because you truly don't know your team, the more guys you can play, the more feedback you get." — Kenny Atkinson on why 10 players is the right rotation size** [05:03](https://www.youtube.com/watch?v=vOgYMifbJy8&t=303s)
 
@@ -42,7 +42,7 @@ Kenny Atkinson: "Because you truly don't know your team, the more guys you can p
 
 [https://www.youtube.com/watch?v=vOgYMifbJy8&t=303s](https://www.youtube.com/watch?v=vOgYMifbJy8&t=303s)
 
-<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=303&q=5)</small>
+<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=303&q=5) · [Send to Slack](presserclips://clip?v=vOgYMifbJy8&t=303&q=5&slack=1)</small>
 
 **6. Kenny Atkinson — "I'm still in an observation mode because it's a different role." — Kenny Atkinson on acclimating to the new role** [06:08](https://www.youtube.com/watch?v=vOgYMifbJy8&t=368s)
 
@@ -50,7 +50,7 @@ Kenny Atkinson: "I think it's still a work in progress. We are still working wit
 
 [https://www.youtube.com/watch?v=vOgYMifbJy8&t=368s](https://www.youtube.com/watch?v=vOgYMifbJy8&t=368s)
 
-<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=368&q=6)</small>
+<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=368&q=6) · [Send to Slack](presserclips://clip?v=vOgYMifbJy8&t=368&q=6&slack=1)</small>
 
 **7. Kenny Atkinson — "He's fitting great culturally, obviously coming back from a setback, injury setback." — Kenny Atkinson on the transition of overseas players** [07:27](https://www.youtube.com/watch?v=vOgYMifbJy8&t=447s)
 
@@ -58,4 +58,4 @@ Kenny Atkinson: "He's fitting great culturally, obviously coming back from a set
 
 [https://www.youtube.com/watch?v=vOgYMifbJy8&t=447s](https://www.youtube.com/watch?v=vOgYMifbJy8&t=447s)
 
-<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=447&q=7)</small>
+<small>[Clip it](presserclips://clip?v=vOgYMifbJy8&t=447&q=7) · [Send to Slack](presserclips://clip?v=vOgYMifbJy8&t=447&q=7&slack=1)</small>

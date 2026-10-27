@@ -10,7 +10,7 @@ Taylor Jenkins: "Still evaluating. I think in the next day or so, I said 48 hour
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=3s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=3s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=3&q=1) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=3&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "I think probably guys that played in the first two games, I'm probably going to work mostly off of that group." — Taylor Jenkins on the rotation plan for the upcoming games** [00:14](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=14s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I think probably guys that played in the first two games, I'm p
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=14s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=14s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=14&q=2)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=14&q=2) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=14&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "We want to have the appropriate ramp-up period. Obviously we're pressing that through our practices." — Taylor Jenkins on the team's conditioning and preseason ramp-up** [00:34](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=34s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "We want to have the appropriate ramp-up period. Obviously we're
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=34s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=34s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=34&q=3)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=34&q=3) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=34&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "We do need to push the envelope of trying to be the most conditioned team." — Taylor Jenkins on the team's goal to be the most conditioned** [01:12](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=72s)
 
@@ -34,7 +34,7 @@ Taylor Jenkins: "We do need to push the envelope of trying to be the most condit
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=72s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=72s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=72&q=4)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=72&q=4) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=72&q=4&slack=1)</small>
 
 **5. Taylor Jenkins — "Studying him back when he was in college, just a very skilled big. I think he can play multiple positions." — Taylor Jenkins on the skill set of the new player** [02:30](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=150s)
 
@@ -42,7 +42,7 @@ Taylor Jenkins: "Studying him back when he was in college, just a very skilled b
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=150s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=150s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=150&q=5)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=150&q=5) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=150&q=5&slack=1)</small>
 
 **6. Taylor Jenkins — "He's attacking his return to play program with a greater amount of urgency." — Taylor Jenkins on the player's return to play program** [03:18](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=198s)
 
@@ -50,7 +50,7 @@ Taylor Jenkins: "He's attacking his return to play program with a greater amount
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=198s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=198s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=198&q=6)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=198&q=6) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=198&q=6&slack=1)</small>
 
 **7. Taylor Jenkins — "I think Ryan can have a substantial impact for us both sides of the floor." — Taylor Jenkins on the defensive impact of the player** [04:37](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=277s)
 
@@ -58,7 +58,7 @@ Taylor Jenkins: "I think **Ryan** can have a substantial impact for us both side
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=277s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=277s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=277&q=7)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=277&q=7) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=277&q=7&slack=1)</small>
 
 **8. Taylor Jenkins — "Cormac, just his relentless competitiveness. I love that about him." — Taylor Jenkins on the competitiveness of the player** [05:36](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=336s)
 
@@ -66,7 +66,7 @@ Taylor Jenkins: "**Cormac**, just his relentless competitiveness. I love that ab
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=336s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=336s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=336&q=8)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=336&q=8) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=336&q=8&slack=1)</small>
 
 **9. Taylor Jenkins — "We'll get into the weeds tomorrow, probably not full on full on scouting process." — Taylor Jenkins on the team's scouting process** [06:30](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=390s)
 
@@ -74,4 +74,4 @@ Taylor Jenkins: "We'll get into the weeds tomorrow, probably not full on full on
 
 [https://www.youtube.com/watch?v=vfdWgJCkTOc&t=390s](https://www.youtube.com/watch?v=vfdWgJCkTOc&t=390s)
 
-<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=390&q=9)</small>
+<small>[Clip it](presserclips://clip?v=vfdWgJCkTOc&t=390&q=9) · [Send to Slack](presserclips://clip?v=vfdWgJCkTOc&t=390&q=9&slack=1)</small>

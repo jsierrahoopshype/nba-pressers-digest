@@ -10,7 +10,7 @@ Darko Rajakovic: "I thought it was a great win. I thought we had moments of the 
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=6s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=6s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=6&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=6&q=1) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=6&q=1&slack=1)</small>
 
 **2. Darko Rajakovic — "You got to make it really hard from every catch, from every fight for a position." — Defensive strategy for guarding elite offensive players** [00:59](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=59s)
 
@@ -18,7 +18,7 @@ Darko Rajakovic: "Guys like that, you just cannot give him any daylight. You got
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=59s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=59s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=59&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=59&q=2) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=59&q=2&slack=1)</small>
 
 **3. Darko Rajakovic — "We have very versatile wings that are capable to guard multiple positions." — Utilizing the team's versatile wings for defensive matchups** [01:25](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=85s)
 
@@ -26,7 +26,7 @@ Darko Rajakovic: "We got to use what we have and we have very versatile wings th
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=85s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=85s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=85&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=85&q=3) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=85&q=3&slack=1)</small>
 
 **4. Darko Rajakovic — "He has such a good field for the game. He is in the right spot." — Scottie Barnes' development and court vision** [02:03](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=123s)
 
@@ -34,7 +34,7 @@ Darko Rajakovic: "He has such a good field for the game. He is in the right spot
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=123s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=123s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=123&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=123&q=4) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=123&q=4&slack=1)</small>
 
 **5. Darko Rajakovic — "In order to to analyze any kind of numbers, you got to play some 15-20 games." — Evaluating team defensive progress early in the season** [02:35](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=155s)
 
@@ -42,7 +42,7 @@ Darko Rajakovic: "In order to analyze any kind of numbers, you got to play some 
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=155s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=155s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=155&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=155&q=5) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=155&q=5&slack=1)</small>
 
 **6. Darko Rajakovic — "Scottie Barnes is going to be first all-defensive team in the NBA this year." — Defensive accolades for Scottie Barnes, Jakob Poeltl, and Kawhi Leonard** [03:21](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=201s)
 
@@ -50,7 +50,7 @@ Darko Rajakovic: "**Scottie Barnes** is going to be first all-defensive team in 
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=201s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=201s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=201&q=6)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=201&q=6) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=201&q=6&slack=1)</small>
 
 **7. Darko Rajakovic — "We are playing a game against Minnesota and that is the only thing that we are thinking about." — Focusing on the immediate game rather than future playoff goals** [04:02](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=242s)
 
@@ -58,7 +58,7 @@ Darko Rajakovic: "We are playing in 48 hours, we are playing a game against Minn
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=242s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=242s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=242&q=7)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=242&q=7) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=242&q=7&slack=1)</small>
 
 **8. Darko Rajakovic — "I thought that his offensive game tonight was so versatile." — Scottie Barnes' offensive versatility and impact** [04:41](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=281s)
 
@@ -66,4 +66,4 @@ Darko Rajakovic: "He has been so good taking it to the rim, playmaking, ball in 
 
 [https://www.youtube.com/watch?v=FxrnMLkdwo0&t=281s](https://www.youtube.com/watch?v=FxrnMLkdwo0&t=281s)
 
-<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=281&q=8)</small>
+<small>[Clip it](presserclips://clip?v=FxrnMLkdwo0&t=281&q=8) · [Send to Slack](presserclips://clip?v=FxrnMLkdwo0&t=281&q=8&slack=1)</small>

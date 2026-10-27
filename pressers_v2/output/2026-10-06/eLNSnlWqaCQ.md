@@ -12,7 +12,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=0s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=0s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=0&q=1) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=0&q=1&slack=1)</small>
 
 **2. Brandon Miller — "We feel like more teams are playing us more physical. When it comes down to the playoffs" — Brandon Miller on the importance of physicality in the NBA** [00:32](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=32s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=32s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=32s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=32&q=2)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=32&q=2) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=32&q=2&slack=1)</small>
 
 **3. Brandon Miller — "You're playing a whole game physical, your body's not feeling the best. So just having things to lean on" — Brandon Miller on the mental and physical toll of NBA play** [01:18](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=78s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=78s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=78s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=78&q=3)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=78&q=3) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=78&q=3&slack=1)</small>
 
 **4. Brandon Miller — "I don't ever single no one out. I think we do this as a whole. That's why we wear Charlotte Hornets" — Brandon Miller on team-wide contributions and Charlotte Hornets' identity** [01:39](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=99s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=99s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=99s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=99&q=4)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=99&q=4) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=99&q=4&slack=1)</small>
 
 **5. Brandon Miller — "I think just leading more vocally. My voice is being heard around the building here." — Brandon Miller on his growing leadership role with the Hornets** [02:19](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=139s)
 
@@ -52,4 +52,4 @@ _Speakers identified: Unidentified speaker, Brandon Miller_
 
 [https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=139s](https://www.youtube.com/watch?v=eLNSnlWqaCQ&t=139s)
 
-<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=139&q=5)</small>
+<small>[Clip it](presserclips://clip?v=eLNSnlWqaCQ&t=139&q=5) · [Send to Slack](presserclips://clip?v=eLNSnlWqaCQ&t=139&q=5&slack=1)</small>

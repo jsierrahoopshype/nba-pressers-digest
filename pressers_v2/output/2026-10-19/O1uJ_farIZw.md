@@ -10,7 +10,7 @@ Kawhi Leonard: "It's the start of the year, we're not sure what to expect yet. W
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=21s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=21s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=21&q=1)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=21&q=1) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=21&q=1&slack=1)</small>
 
 **2. Kawhi Leonard — "Can't go as hard as you used to obviously, you got to be more smarter about everything." — Kawhi Leonard on managing his body and recovery** [01:31](https://www.youtube.com/watch?v=O1uJ_farIZw&t=91s)
 
@@ -18,7 +18,7 @@ Kawhi Leonard: "Can't go as hard as you used to obviously, you got to be more sm
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=91s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=91s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=91&q=2)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=91&q=2) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=91&q=2&slack=1)</small>
 
 **3. Unidentified speaker — "God bless him, hope he stays strong and just keep grinding." — Kawhi Leonard on the recovery of Kelly Olynyk** [06:11](https://www.youtube.com/watch?v=O1uJ_farIZw&t=371s)
 
@@ -28,7 +28,7 @@ Kawhi Leonard: "Can't go as hard as you used to obviously, you got to be more sm
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=371s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=371s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=371&q=3)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=371&q=3) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=371&q=3&slack=1)</small>
 
 **4. Darko Rajaković — "The moment I start feeling butterflies and excitement, I'm going to stop doing this job." — Darko Rajaković on his excitement for the start of the season** [14:03](https://www.youtube.com/watch?v=O1uJ_farIZw&t=843s)
 
@@ -36,7 +36,7 @@ Darko Rajaković: "The moment I start feeling butterflies and excitement, I'm go
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=843s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=843s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=843&q=4)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=843&q=4) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=843&q=4&slack=1)</small>
 
 **5. Darko Rajaković — "They need to slow down in order to understand what's going on around them." — Darko Rajaković on helping rookies adjust to the game's speed** [15:07](https://www.youtube.com/watch?v=O1uJ_farIZw&t=907s)
 
@@ -44,7 +44,7 @@ Darko Rajaković: "It's always like when players come, the first thing that they
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=907s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=907s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=907&q=5)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=907&q=5) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=907&q=5&slack=1)</small>
 
 **6. Darko Rajaković — "All the drives, all the finishes, going to the rim, getting fouled and ones, that's something that really stood out." — Darko Rajaković on the development of Gradey Dick** [16:34](https://www.youtube.com/watch?v=O1uJ_farIZw&t=994s)
 
@@ -52,7 +52,7 @@ Darko Rajaković: "I thought he did great. He played heavy minutes this last gam
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=994s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=994s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=994&q=6)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=994&q=6) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=994&q=6&slack=1)</small>
 
 **7. Darko Rajaković — "Guys have a lot of respect for him, they they have a great communication, they pick up his brain." — Darko Rajaković on Kawhi Leonard's veteran presence** [18:11](https://www.youtube.com/watch?v=O1uJ_farIZw&t=1091s)
 
@@ -60,7 +60,7 @@ Darko Rajaković: "It's his veteran presence. Guys have a lot of respect for him
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=1091s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=1091s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=1091&q=7)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=1091&q=7) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=1091&q=7&slack=1)</small>
 
 **8. Darko Rajaković — "I think that he elevated his game a lot. I think it's going to help us in our whole team." — Darko Rajaković on Scottie Barnes' scoring development** [20:45](https://www.youtube.com/watch?v=O1uJ_farIZw&t=1245s)
 
@@ -68,4 +68,4 @@ Darko Rajaković: "Scottie, he he's been put a lot of work over the course of su
 
 [https://www.youtube.com/watch?v=O1uJ_farIZw&t=1245s](https://www.youtube.com/watch?v=O1uJ_farIZw&t=1245s)
 
-<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=1245&q=8)</small>
+<small>[Clip it](presserclips://clip?v=O1uJ_farIZw&t=1245&q=8) · [Send to Slack](presserclips://clip?v=O1uJ_farIZw&t=1245&q=8&slack=1)</small>

@@ -16,7 +16,7 @@ _Speakers identified: Dylan, Tobias Harris_
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=0s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=0s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=0&q=1) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=0&q=1&slack=1)</small>
 
 **2. Dylan — "When he was in Detroit, he used to wear a good amount of Kobes." — Dylan reflects on Tobias Harris's sneaker collection from his Detroit days** [00:17](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=17s)
 
@@ -24,7 +24,7 @@ Dylan: "When he was in Detroit, he used to wear a good amount of **Kobe**s. I al
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=17s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=17s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=17&q=2)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=17&q=2) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=17&q=2&slack=1)</small>
 
 **3. Tobias Harris — "This is the first day of school, you put your best outfit out and then you rock it." — Tobias Harris on the tradition of wearing sneakers on media day** [00:27](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=27s)
 
@@ -32,7 +32,7 @@ Tobias Harris: "This is the first day of school, you put your best outfit out an
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=27s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=27s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=27&q=3)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=27&q=3) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=27&q=3&slack=1)</small>
 
 **4. Dylan — "Not a lot of people know his shoes, but when the big media outlets post it." — Dylan on the social media reaction to his sneaker choice** [00:45](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=45s)
 
@@ -40,7 +40,7 @@ Dylan: "Not a lot of people know his shoes, but when the big media outlets post 
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=45s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=45s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=45&q=4)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=45&q=4) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=45&q=4&slack=1)</small>
 
 **5. Tobias Harris — "My PEs, he wear them, it's an honor, you know, like creating something." — Tobias Harris on the honor of teammates wearing his player editions** [00:56](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=56s)
 
@@ -48,7 +48,7 @@ Tobias Harris: "My PEs, he wear them, it's an honor, you know, like creating som
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=56s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=56s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=56&q=5)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=56&q=5) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=56&q=5&slack=1)</small>
 
 **6. Tobias Harris — "I got a few others that I haven't even brought out the storage unit yet." — Tobias Harris hints at more exclusive sneakers in his collection** [01:26](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=86s)
 
@@ -56,7 +56,7 @@ Tobias Harris: "I got a few others that I haven't even brought out the storage u
 
 [https://www.youtube.com/watch?v=YnhrVbA-QIM&t=86s](https://www.youtube.com/watch?v=YnhrVbA-QIM&t=86s)
 
-<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=86&q=6)</small>
+<small>[Clip it](presserclips://clip?v=YnhrVbA-QIM&t=86&q=6) · [Send to Slack](presserclips://clip?v=YnhrVbA-QIM&t=86&q=6&slack=1)</small>
 
 ---
 
@@ -72,7 +72,7 @@ Scoot Henderson: "It feels good. Obviously you look up when I'm younger I'm look
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=16s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=16s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=16&q=1)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=16&q=1) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=16&q=1&slack=1)</small>
 
 **2. Scoot Henderson — "That's just how we should play with all the players that we have, the depth that we have." — Scoot Henderson on the team's emphasis on ball movement** [01:04](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=64s)
 
@@ -80,7 +80,7 @@ Scoot Henderson: "That's just how we should play with all the players that we ha
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=64s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=64s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=64&q=2)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=64&q=2) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=64&q=2&slack=1)</small>
 
 **3. Scoot Henderson — "Chauncey Billups wants me to attack the basket, go to score." — Scoot Henderson on the team's focus on getting everyone involved** [01:50](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=110s)
 
@@ -88,7 +88,7 @@ Scoot Henderson: "It made it easier for me just in a way of not trying to worry 
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=110s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=110s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=110&q=3)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=110&q=3) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=110&q=3&slack=1)</small>
 
 **4. Scoot Henderson — "I've heard a couple times Damian Lillard talk about Shaedon Sharpe, he's seen a lot of joy out of him." — Scoot Henderson on Shaedon Sharpe's positive energy** [02:27](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=147s)
 
@@ -96,7 +96,7 @@ Scoot Henderson: "I've heard a couple times **Damian Lillard** talk about **Shae
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=147s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=147s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=147&q=4)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=147&q=4) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=147&q=4&slack=1)</small>
 
 **5. Scoot Henderson — "Damian Lillard has been a great mentor." — Scoot Henderson on the mentorship from teammates** [03:26](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=206s)
 
@@ -104,7 +104,7 @@ Scoot Henderson: "**Damian Lillard** has been a great mentor just him getting he
 
 [https://www.youtube.com/watch?v=6qQd3b4m8_c&t=206s](https://www.youtube.com/watch?v=6qQd3b4m8_c&t=206s)
 
-<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=206&q=5)</small>
+<small>[Clip it](presserclips://clip?v=6qQd3b4m8_c&t=206&q=5) · [Send to Slack](presserclips://clip?v=6qQd3b4m8_c&t=206&q=5&slack=1)</small>
 
 ---
 
@@ -120,7 +120,7 @@ Micah Nori: "The one thing we talked about today was that you're disappointed. T
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=21s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=21s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=21&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=21&q=1) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=21&q=1&slack=1)</small>
 
 **2. Micah Nori — "We just got to take care of the ball, not playing crowds, all those things" — Micah Nori emphasizes need for ball security and pace control** [00:48](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=48s)
 
@@ -128,7 +128,7 @@ Micah Nori: "We just got to take care of the ball, not playing crowds, all those
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=48s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=48s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=48&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=48&q=2) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=48&q=2&slack=1)</small>
 
 **3. Micah Nori — "Joth throws it ahead to Denny, Denny just bobbles it out of bounds" — Micah Nori critiques specific turnover play involving Joth and Denny** [01:19](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=79s)
 
@@ -136,7 +136,7 @@ Micah Nori: "The ones at the top of the head like we **Joth** throws it ahead to
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=79s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=79s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=79&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=79&q=3) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=79&q=3&slack=1)</small>
 
 **4. Micah Nori — "literally pausing it and saying, hey, you tried to force feed this pass here" — Micah Nori explains the process of cleaning up team mistakes** [01:54](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=114s)
 
@@ -144,7 +144,7 @@ Micah Nori: "Clean up is like just go back through the film, show them the why. 
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=114s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=114s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=114&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=114&q=4) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=114&q=4&slack=1)</small>
 
 **5. Micah Nori — "Joth gets stripped on a three-on-one, which led to a bucket for them" — Micah Nori analyzes the first rotation and defensive lapses** [02:48](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=168s)
 
@@ -152,7 +152,7 @@ Micah Nori: "I think that we're up 12 to 4. **Joth** gets stripped on a three-on
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=168s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=168s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=168&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=168&q=5) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=168&q=5&slack=1)</small>
 
 **6. Micah Nori — "I thought the starters basically just quit at halftime" — Micah Nori reflects on starters' performance and potential lineup changes** [03:32](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=212s)
 
@@ -160,7 +160,7 @@ Micah Nori: "I thought the starters basically just quit at halftime. And not say
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=212s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=212s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=212&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=212&q=6) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=212&q=6&slack=1)</small>
 
 **7. Micah Nori — "I really liked what Micah Potter, Sohan, those guys, it's City, yeah, they really did a good job" — Micah Nori praises Micah Potter, Sohan, and City for their play** [03:59](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=239s)
 
@@ -168,7 +168,7 @@ Micah Nori: "I really liked what **Micah Potter**, we talked about it last night
 
 [https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=239s](https://www.youtube.com/watch?v=Os5zw5fDNXQ&t=239s)
 
-<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=239&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Os5zw5fDNXQ&t=239&q=7) · [Send to Slack](presserclips://clip?v=Os5zw5fDNXQ&t=239&q=7&slack=1)</small>
 
 ---
 
@@ -184,7 +184,7 @@ Ja Morant: "On a scale of 1 to 10, I would say probably a 6.5. Definitely could 
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=5s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=5s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=5&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=5&q=1) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=5&q=1&slack=1)</small>
 
 **2. Ja Morant — "I got so much guys on the floor that can do, yeah, like I feel like now it's not like Ja going to score 30." — Ja Morant on adjusting to playing with new teammates in Portland** [00:44](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=44s)
 
@@ -192,7 +192,7 @@ Ja Morant: "I can say it's both. It's playing with new guys and then I got so mu
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=44s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=44s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=44&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=44&q=2) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=44&q=2&slack=1)</small>
 
 **3. Ja Morant — "I feel like I'm a natural point guard. I'm not selfish at all, so that's a definitely a tough part." — Ja Morant on the challenge of balancing playmaking and scoring** [01:21](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=81s)
 
@@ -200,7 +200,7 @@ Ja Morant: "It's tough because I feel like I'm a natural point guard. I'm not se
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=81s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=81s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=81&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=81&q=3) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=81&q=3&slack=1)</small>
 
 **4. Ja Morant — "I feel like it's just the same joy. I just feel like now being around a new team and these guys, they get to see it." — Ja Morant on bringing joy to his new team environment** [02:10](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=130s)
 
@@ -208,7 +208,7 @@ Ja Morant: "I feel like it's just the same joy. I just feel like now being aroun
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=130s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=130s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=130&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=130&q=4) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=130&q=4&slack=1)</small>
 
 **5. Ja Morant — "Twin, yeah, he ready. He ready for sure. Definitely been opening some eyes and been very impressive since we stepped foot here." — Ja Morant on his impressions of Scoot Henderson's development** [03:22](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=202s)
 
@@ -216,7 +216,7 @@ Ja Morant: "Twin, yeah, he ready. He ready for sure. Definitely been opening som
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=202s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=202s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=202&q=5)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=202&q=5) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=202&q=5&slack=1)</small>
 
 **6. Ja Morant — "We constantly talking, communication. Obviously we've been around, played against each other, so we kind of know each other's tendency." — Ja Morant on the importance of communication with Damian Lillard** [04:16](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=256s)
 
@@ -224,7 +224,7 @@ Ja Morant: "We constantly talking, communication. Obviously we've been around, p
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=256s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=256s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=256&q=6)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=256&q=6) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=256&q=6&slack=1)</small>
 
 **7. Ja Morant — "With Danny, his ability to be able to get down the floor, get downhill and finish through contact or without contact is extreme plus for us." — Ja Morant on Damian Lillard's playmaking and floor spacing** [04:56](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=296s)
 
@@ -232,7 +232,7 @@ Ja Morant: "With **Danny**, his ability to be able to get down the floor, get do
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=296s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=296s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=296&q=7)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=296&q=7) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=296&q=7&slack=1)</small>
 
 **8. Ja Morant — "he has tell me to come get the ball when I'll be trying to give him the ball. Like it's that's crazy for me now." — Ja Morant on the unselfishness of the team's ball handlers** [05:50](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=350s)
 
@@ -240,7 +240,7 @@ Ja Morant: "He's definitely a selfless player. Like even now, like he has tell m
 
 [https://www.youtube.com/watch?v=Mm__6Xru5VI&t=350s](https://www.youtube.com/watch?v=Mm__6Xru5VI&t=350s)
 
-<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=350&q=8)</small>
+<small>[Clip it](presserclips://clip?v=Mm__6Xru5VI&t=350&q=8) · [Send to Slack](presserclips://clip?v=Mm__6Xru5VI&t=350&q=8&slack=1)</small>
 
 ---
 
@@ -258,7 +258,7 @@ Jamahl Mosley: "Before I get started, **Dejounte Murray** will be out tonight, r
 
 [https://www.youtube.com/watch?v=etLm559I2-0&t=263s](https://www.youtube.com/watch?v=etLm559I2-0&t=263s)
 
-<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=263&q=1)</small>
+<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=263&q=1) · [Send to Slack](presserclips://clip?v=etLm559I2-0&t=263&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "The next two or three games will definitely keep experimenting with it, just to see what combinations look like." — Pelicans will continue experimenting with lineups before regular season** [04:49](https://www.youtube.com/watch?v=etLm559I2-0&t=289s)
 
@@ -266,7 +266,7 @@ Jamahl Mosley: "The next two or three games will definitely keep experimenting w
 
 [https://www.youtube.com/watch?v=etLm559I2-0&t=289s](https://www.youtube.com/watch?v=etLm559I2-0&t=289s)
 
-<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=289&q=2)</small>
+<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=289&q=2) · [Send to Slack](presserclips://clip?v=etLm559I2-0&t=289&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "His basketball IQ, his want to continue to get better, pushing himself to that next level." — Zion Williamson's basketball IQ and desire to improve** [05:16](https://www.youtube.com/watch?v=etLm559I2-0&t=316s)
 
@@ -274,7 +274,7 @@ Jamahl Mosley: "Just sitting down with him and watching film, his basketball IQ,
 
 [https://www.youtube.com/watch?v=etLm559I2-0&t=316s](https://www.youtube.com/watch?v=etLm559I2-0&t=316s)
 
-<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=316&q=3)</small>
+<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=316&q=3) · [Send to Slack](presserclips://clip?v=etLm559I2-0&t=316&q=3&slack=1)</small>
 
 **4. Jamahl Mosley — "We have to be an aggressive defensive team, a defensive team first more than anything." — Pelicans prioritizing aggressive defensive identity this season** [05:57](https://www.youtube.com/watch?v=etLm559I2-0&t=357s)
 
@@ -282,7 +282,7 @@ Jamahl Mosley: "We have to be an aggressive defensive team, a defensive team fir
 
 [https://www.youtube.com/watch?v=etLm559I2-0&t=357s](https://www.youtube.com/watch?v=etLm559I2-0&t=357s)
 
-<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=357&q=4)</small>
+<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=357&q=4) · [Send to Slack](presserclips://clip?v=etLm559I2-0&t=357&q=4&slack=1)</small>
 
 **5. Jamahl Mosley — "It was very great to see the bench and the support that they gave those guys." — Bench support and development during training camp** [06:40](https://www.youtube.com/watch?v=etLm559I2-0&t=400s)
 
@@ -290,7 +290,7 @@ Jamahl Mosley: "It was great that those guys came in and they really picked up o
 
 [https://www.youtube.com/watch?v=etLm559I2-0&t=400s](https://www.youtube.com/watch?v=etLm559I2-0&t=400s)
 
-<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=400&q=5)</small>
+<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=400&q=5) · [Send to Slack](presserclips://clip?v=etLm559I2-0&t=400&q=5&slack=1)</small>
 
 **6. Jamahl Mosley — "The talk was physicality. How physical can we be on both ends of the floor?" — Pelicans focusing on physicality on both ends of the floor** [07:18](https://www.youtube.com/watch?v=etLm559I2-0&t=438s)
 
@@ -298,7 +298,7 @@ Jamahl Mosley: "I think we started our film session off with the communication l
 
 [https://www.youtube.com/watch?v=etLm559I2-0&t=438s](https://www.youtube.com/watch?v=etLm559I2-0&t=438s)
 
-<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=438&q=6)</small>
+<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=438&q=6) · [Send to Slack](presserclips://clip?v=etLm559I2-0&t=438&q=6&slack=1)</small>
 
 **7. Jamahl Mosley — "Guys in their first and second years are still continuing to learn the league." — Young players learning from veterans and earning opportunities** [08:07](https://www.youtube.com/watch?v=etLm559I2-0&t=487s)
 
@@ -306,7 +306,7 @@ Jamahl Mosley: "Guys in their first and second years are still continuing to lea
 
 [https://www.youtube.com/watch?v=etLm559I2-0&t=487s](https://www.youtube.com/watch?v=etLm559I2-0&t=487s)
 
-<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=487&q=7)</small>
+<small>[Clip it](presserclips://clip?v=etLm559I2-0&t=487&q=7) · [Send to Slack](presserclips://clip?v=etLm559I2-0&t=487&q=7&slack=1)</small>
 
 ---
 

@@ -10,7 +10,7 @@ Mitch Johnson: "When we had pace and we had kick-aheads and moved the ball, we t
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=17s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=17s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=17&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=17&q=1) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=17&q=1&slack=1)</small>
 
 **2. Mitch Johnson — "He's shown improvement since the start of his rookie year just in terms of the consistency." — Mitch Johnson on Dylan Harper's development and work ethic** [00:57](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=57s)
 
@@ -18,7 +18,7 @@ Mitch Johnson: "He's shown improvement since the start of his rookie year just i
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=57s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=57s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=57&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=57&q=2) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=57&q=2&slack=1)</small>
 
 **3. Mitch Johnson — "He proposes a unique dilemma for a lot of teams when he plays with the ball." — Mitch Johnson on Victor Wembanyama's growth as an initiator** [01:31](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=91s)
 
@@ -26,7 +26,7 @@ Mitch Johnson: "He proposes a unique dilemma for a lot of teams when he plays wi
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=91s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=91s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=91&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=91&q=3) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=91&q=3&slack=1)</small>
 
 **4. Mitch Johnson — "He gets his hand on the basketball quite a bit and somehow seems like he's a magnet." — Mitch Johnson on Terrance Reed's rebounding ability** [02:42](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=162s)
 
@@ -34,7 +34,7 @@ Mitch Johnson: "He gets his hand on the basketball quite a bit and somehow seems
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=162s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=162s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=162&q=4)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=162&q=4) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=162&q=4&slack=1)</small>
 
 **5. Mitch Johnson — "It's a delicate ecosystem. It's the Julians and the Devins and the Harrisons sprinting all the way." — Mitch Johnson on the team's spacing and offensive ecosystem** [03:12](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=192s)
 
@@ -42,7 +42,7 @@ Mitch Johnson: "It's a delicate ecosystem. It's the Julians and the Devins and t
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=192s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=192s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=192&q=5)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=192&q=5) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=192&q=5&slack=1)</small>
 
 **6. Victor Wembanyama — "First thing is shape, conditioning, and game-like conditions or regular season-like conditions." — Victor Wembanyama on team goals for the preseason** [06:06](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=366s)
 
@@ -50,7 +50,7 @@ Victor Wembanyama: "First thing is shape, conditioning, and game-like conditions
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=366s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=366s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=366&q=6)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=366&q=6) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=366&q=6&slack=1)</small>
 
 **7. Victor Wembanyama — "It's not like we hadn't done it before. In practice, of course, we worked on it." — Victor Wembanyama on Dylan Harper in the starting lineup** [06:32](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=392s)
 
@@ -58,7 +58,7 @@ Victor Wembanyama: "It's not like we hadn't done it before. In practice, of cour
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=392s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=392s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=392&q=7)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=392&q=7) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=392&q=7&slack=1)</small>
 
 **8. Victor Wembanyama — "Devin's increasing leadership role coincides with our increased as a contender." — Victor Wembanyama on Devin Vassell's growth as a leader** [07:43](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=463s)
 
@@ -66,7 +66,7 @@ Victor Wembanyama: "Devin's increasing leadership role coincides with our increa
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=463s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=463s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=463&q=8)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=463&q=8) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=463&q=8&slack=1)</small>
 
 **9. Victor Wembanyama — "I've had the chance to escape this system, you know, escape this trouble, but it's a chance." — Victor Wembanyama on supporting student protesters in France** [08:31](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=511s)
 
@@ -74,7 +74,7 @@ Victor Wembanyama: "I've had the chance to escape this system, you know, escape 
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=511s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=511s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=511&q=9)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=511&q=9) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=511&q=9&slack=1)</small>
 
 **10. Victor Wembanyama — "It's a key of our offense. We got so much talent. We need to give the other guys." — Victor Wembanyama on creating space for teammates** [09:10](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=550s)
 
@@ -82,7 +82,7 @@ Victor Wembanyama: "It's a key of our offense. We got so much talent. We need to
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=550s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=550s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=550&q=10)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=550&q=10) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=550&q=10&slack=1)</small>
 
 **11. Dylan Harper — "Touching the paint is a big thing for me and Steph." — Dylan Harper on team chemistry and offensive execution** [11:03](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=663s)
 
@@ -90,7 +90,7 @@ Dylan Harper: "Touching the paint is a big thing for me and Steph. Me and him fe
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=663s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=663s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=663&q=11)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=663&q=11) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=663&q=11&slack=1)</small>
 
 **12. Dylan Harper — "Shooting from the perimeter was a big thing for me and I think just getting more comfortable." — Dylan Harper on his improved shooting** [11:45](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=705s)
 
@@ -98,7 +98,7 @@ Dylan Harper: "Shooting from the perimeter was a big thing for me and I think ju
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=705s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=705s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=705&q=12)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=705&q=12) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=705&q=12&slack=1)</small>
 
 **13. Dylan Harper — "We're going to be really hard to guard." — Dylan Harper on playing with Victor Wembanyama and Steph Castle** [12:06](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=726s)
 
@@ -106,7 +106,7 @@ Dylan Harper: "We're going to be really hard to guard. Like he said, when me and
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=726s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=726s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=726&q=13)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=726&q=13) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=726&q=13&slack=1)</small>
 
 **14. Dylan Harper — "Everything is slowing down more for him year by year." — Dylan Harper on Victor Wembanyama's playmaking** [12:43](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=763s)
 
@@ -114,7 +114,7 @@ Dylan Harper: "Everything is slowing down more for him year by year. And I feel 
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=763s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=763s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=763&q=14)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=763&q=14) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=763&q=14&slack=1)</small>
 
 **15. Dylan Harper — "Rebounding is a big thing just in any lineup." — Dylan Harper on defensive focus for the three-guard lineup** [13:20](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=800s)
 
@@ -122,4 +122,4 @@ Dylan Harper: "Rebounding is a big thing just in any lineup. The only way we can
 
 [https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=800s](https://www.youtube.com/watch?v=2QZeI0Xhwg8&t=800s)
 
-<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=800&q=15)</small>
+<small>[Clip it](presserclips://clip?v=2QZeI0Xhwg8&t=800&q=15) · [Send to Slack](presserclips://clip?v=2QZeI0Xhwg8&t=800&q=15&slack=1)</small>

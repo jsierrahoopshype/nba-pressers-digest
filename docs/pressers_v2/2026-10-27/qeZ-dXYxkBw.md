@@ -10,7 +10,7 @@ Tyler Herro: "I think it starts on the defensive end, being in our shifts, helpi
 
 [https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=15s](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=15s)
 
-<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=15&q=1) · [Send to Slack](presserclips://clip?v=qeZ-dXYxkBw&t=15&q=1&slack=1)</small>
 
 **2. Tyler Herro — "It's surreal. You can't even really put it into words and it's unimaginable, honestly, just being here." — Tyler Herro on the surreal experience of playing for the Bucks** [00:54](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=54s)
 
@@ -18,7 +18,7 @@ Tyler Herro: "It's surreal. You can't even really put it into words and it's uni
 
 [https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=54s](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=54s)
 
-<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=54&q=2)</small>
+<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=54&q=2) · [Send to Slack](presserclips://clip?v=qeZ-dXYxkBw&t=54&q=2&slack=1)</small>
 
 **3. Tyler Herro — "My teams were like Mike Moustakas, T-Plush, Prince Fielder, Ryan Braun, Corey Hart, Rickie Weeks." — Tyler Herro on his childhood memories of watching the Brewers** [01:53](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=113s)
 
@@ -26,7 +26,7 @@ Tyler Herro: "My teams were like **Mike Moustakas**, T-Plush, **Prince Fielder**
 
 [https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=113s](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=113s)
 
-<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=113&q=3)</small>
+<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=113&q=3) · [Send to Slack](presserclips://clip?v=qeZ-dXYxkBw&t=113&q=3&slack=1)</small>
 
 **4. Tyler Herro — "You don't want to take a step forward and then take two steps back." — Tyler Herro on the Bucks' approach to stacking wins** [02:25](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=145s)
 
@@ -34,7 +34,7 @@ Tyler Herro: "You don't want to take a step forward and then take two steps back
 
 [https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=145s](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=145s)
 
-<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=145&q=4)</small>
+<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=145&q=4) · [Send to Slack](presserclips://clip?v=qeZ-dXYxkBw&t=145&q=4&slack=1)</small>
 
 **5. Tyler Herro — "Not getting too high, not getting too low. That's what I've learned throughout my career." — Tyler Herro on his personal adjustment to the new team** [02:54](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=174s)
 
@@ -42,4 +42,4 @@ Tyler Herro: "Not getting too high, not getting too low. That's what I've learne
 
 [https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=174s](https://www.youtube.com/watch?v=qeZ-dXYxkBw&t=174s)
 
-<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=174&q=5)</small>
+<small>[Clip it](presserclips://clip?v=qeZ-dXYxkBw&t=174&q=5) · [Send to Slack](presserclips://clip?v=qeZ-dXYxkBw&t=174&q=5&slack=1)</small>

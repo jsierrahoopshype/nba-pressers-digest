@@ -10,7 +10,7 @@ Coach Nurse: "He's been playing with a little bit more confidence this week. Jus
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=0s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=0s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=0&q=1) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=0&q=1&slack=1)</small>
 
 **2. Coach Nurse — "It's hard to take too much from it when there's several key guys missing." — Coach Nurse on staggering stars and potential rotation lineups** [00:31](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=31s)
 
@@ -18,7 +18,7 @@ Coach Nurse: "It's hard to take too much from it when there's several key guys m
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=31s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=31s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=31&q=2)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=31&q=2) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=31&q=2&slack=1)</small>
 
 **3. Coach Nurse — "I really like his ability to run the team. He's really communicative, he really gets the guys set up." — Coach Nurse evaluates player's ability to run the team** [01:19](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=79s)
 
@@ -26,7 +26,7 @@ Coach Nurse: "I really like his ability to run the team. He's really communicati
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=79s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=79s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=79&q=3)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=79&q=3) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=79&q=3&slack=1)</small>
 
 **4. Coach Nurse — "He's made a step forward. It just feels like he's better than he was a year ago." — Coach Nurse on player's improved handle and aggressive play** [02:01](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=121s)
 
@@ -34,7 +34,7 @@ Coach Nurse: "He's made a step forward. It just feels like he's better than he w
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=121s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=121s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=121&q=4)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=121&q=4) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=121&q=4&slack=1)</small>
 
 **5. Coach Nurse — "I was more impressed with his offensive creation, not only his own shot, but his ability to be in the paint." — Coach Nurse praises player's offensive creation and paint presence** [02:36](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=156s)
 
@@ -42,7 +42,7 @@ Coach Nurse: "I was more impressed with his offensive creation, not only his own
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=156s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=156s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=156&q=5)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=156&q=5) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=156&q=5&slack=1)</small>
 
 **6. Coach Nurse — "I just saw him for a little bit during the game and just gave him a big hug." — Coach Nurse provides update on player's Achilles injury** [03:18](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=198s)
 
@@ -50,7 +50,7 @@ Coach Nurse: "I just saw him for a little bit during the game and just gave him 
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=198s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=198s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=198&q=6)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=198&q=6) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=198&q=6&slack=1)</small>
 
 **7. Coach Nurse — "He's got a lot of areas he can score at, obviously the face-up dribble-drive stuff." — Coach Nurse on player's versatility and scoring areas** [03:41](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=221s)
 
@@ -58,7 +58,7 @@ Coach Nurse: "He's got a lot of areas he can score at, obviously the face-up dri
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=221s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=221s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=221&q=7)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=221&q=7) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=221&q=7&slack=1)</small>
 
 **8. Coach Nurse — "I really thought we did a good job of squaring up and chesting the ball." — Coach Nurse on defensive improvements and physicality** [04:23](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=263s)
 
@@ -66,4 +66,4 @@ Coach Nurse: "I really thought we did a good job of squaring up and chesting the
 
 [https://www.youtube.com/watch?v=yFe1DJqC5FM&t=263s](https://www.youtube.com/watch?v=yFe1DJqC5FM&t=263s)
 
-<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=263&q=8)</small>
+<small>[Clip it](presserclips://clip?v=yFe1DJqC5FM&t=263&q=8) · [Send to Slack](presserclips://clip?v=yFe1DJqC5FM&t=263&q=8&slack=1)</small>

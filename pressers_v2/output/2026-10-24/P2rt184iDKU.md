@@ -10,7 +10,7 @@ Jaime Jaquez Jr.: "I think defensively we got to be a lot better. We are actuall
 
 [https://www.youtube.com/watch?v=P2rt184iDKU&t=15s](https://www.youtube.com/watch?v=P2rt184iDKU&t=15s)
 
-<small>[Clip it](presserclips://clip?v=P2rt184iDKU&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=P2rt184iDKU&t=15&q=1) · [Send to Slack](presserclips://clip?v=P2rt184iDKU&t=15&q=1&slack=1)</small>
 
 **2. Jaime Jaquez Jr. — "he had a great performance, really proud of him" — Jaime Jaquez Jr. praises Nate Ament's performance** [01:27](https://www.youtube.com/watch?v=P2rt184iDKU&t=87s)
 
@@ -18,7 +18,7 @@ Jaime Jaquez Jr.: "**Nate Ament** had a great performance, really proud of him. 
 
 [https://www.youtube.com/watch?v=P2rt184iDKU&t=87s](https://www.youtube.com/watch?v=P2rt184iDKU&t=87s)
 
-<small>[Clip it](presserclips://clip?v=P2rt184iDKU&t=87&q=2)</small>
+<small>[Clip it](presserclips://clip?v=P2rt184iDKU&t=87&q=2) · [Send to Slack](presserclips://clip?v=P2rt184iDKU&t=87&q=2&slack=1)</small>
 
 **3. Jaime Jaquez Jr. — "he's just gotten so much better from year one to year two" — Jaime Jaquez Jr. on Kasparas Jakucionis's development** [01:52](https://www.youtube.com/watch?v=P2rt184iDKU&t=112s)
 
@@ -26,4 +26,4 @@ Jaime Jaquez Jr.: "**Kasparas Jakucionis** has been playing down the stretch. He
 
 [https://www.youtube.com/watch?v=P2rt184iDKU&t=112s](https://www.youtube.com/watch?v=P2rt184iDKU&t=112s)
 
-<small>[Clip it](presserclips://clip?v=P2rt184iDKU&t=112&q=3)</small>
+<small>[Clip it](presserclips://clip?v=P2rt184iDKU&t=112&q=3) · [Send to Slack](presserclips://clip?v=P2rt184iDKU&t=112&q=3&slack=1)</small>

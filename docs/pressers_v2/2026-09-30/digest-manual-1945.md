@@ -12,7 +12,7 @@ Pete Nance: "I have it has been this is my third team, but I would say just like
 
 [https://www.youtube.com/watch?v=FDELf-YtVVE&t=37s](https://www.youtube.com/watch?v=FDELf-YtVVE&t=37s)
 
-<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=37&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=37&q=1) · [Send to Slack](presserclips://clip?v=FDELf-YtVVE&t=37&q=1&slack=1)</small>
 
 **2. Pete Nance (Milwaukee Bucks) — "I think it just helps us think about the game more" — Pete Nance explains how new, constrained practice drills help players think better during games.** [01:55](https://www.youtube.com/watch?v=FDELf-YtVVE&t=115s)
 
@@ -20,7 +20,7 @@ Pete Nance: "Putting us in different situations. A lot of the times we do just, 
 
 [https://www.youtube.com/watch?v=FDELf-YtVVE&t=115s](https://www.youtube.com/watch?v=FDELf-YtVVE&t=115s)
 
-<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=115&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=115&q=2) · [Send to Slack](presserclips://clip?v=FDELf-YtVVE&t=115&q=2&slack=1)</small>
 
 **3. Pete Nance (Milwaukee Bucks) — "I think we have got a young, hungry group" — Pete Nance describes the current Milwaukee Bucks training camp as highly competitive and hungry.** [03:59](https://www.youtube.com/watch?v=FDELf-YtVVE&t=239s)
 
@@ -28,7 +28,7 @@ Pete Nance: "I think just a lot more competitive. You know, I think we have got 
 
 [https://www.youtube.com/watch?v=FDELf-YtVVE&t=239s](https://www.youtube.com/watch?v=FDELf-YtVVE&t=239s)
 
-<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=239&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FDELf-YtVVE&t=239&q=3) · [Send to Slack](presserclips://clip?v=FDELf-YtVVE&t=239&q=3&slack=1)</small>
 
 ---
 
@@ -44,7 +44,7 @@ Taylor Jenkins: "Right now we are kind of randomizing it. We are mixing it up. W
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=107s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=107s)
 
-<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=107&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=107&q=1) · [Send to Slack](presserclips://clip?v=ux2EgEkaRjw&t=107&q=1&slack=1)</small>
 
 **2. Taylor Jenkins (Milwaukee Bucks) — "I want to develop depth early in the season, so I want to play more guys" — Taylor Jenkins intends to utilize a deep rotation of at least 11 players this season.** [05:30](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s)
 
@@ -52,7 +52,7 @@ Taylor Jenkins: "Not accounting preseason, probably 11, maybe stuck a 12 in ther
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=330s)
 
-<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=330&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=330&q=2) · [Send to Slack](presserclips://clip?v=ux2EgEkaRjw&t=330&q=2&slack=1)</small>
 
 **3. Taylor Jenkins (Milwaukee Bucks) — "Cormac has been in our system already for a year" — Taylor Jenkins praises the development and potential impact of Cormac and Cam.** [09:02](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s)
 
@@ -60,7 +60,7 @@ Taylor Jenkins: "**Cormac** has been in our system already for a year. Obviously
 
 [https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s](https://www.youtube.com/watch?v=ux2EgEkaRjw&t=542s)
 
-<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=542&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ux2EgEkaRjw&t=542&q=3) · [Send to Slack](presserclips://clip?v=ux2EgEkaRjw&t=542&q=3&slack=1)</small>
 
 ---
 
@@ -76,7 +76,7 @@ Bogoljub Marković: "Many more people, video guys, coaches, more loud, more talk
 
 [https://www.youtube.com/watch?v=eLZoNxBUWso&t=18s](https://www.youtube.com/watch?v=eLZoNxBUWso&t=18s)
 
-<small>[Clip it](presserclips://clip?v=eLZoNxBUWso&t=18&q=1)</small>
+<small>[Clip it](presserclips://clip?v=eLZoNxBUWso&t=18&q=1) · [Send to Slack](presserclips://clip?v=eLZoNxBUWso&t=18&q=1&slack=1)</small>
 
 **2. Bogoljub Marković (Milwaukee Bucks) — "try to make the practice as hard as possible, so the games are easier" — Bogoljub Marković says the team is focused on making practices harder than games.** [02:56](https://www.youtube.com/watch?v=eLZoNxBUWso&t=176s)
 
@@ -84,7 +84,7 @@ Bogoljub Marković: "The toughness, the energy we have, the most important thing
 
 [https://www.youtube.com/watch?v=eLZoNxBUWso&t=176s](https://www.youtube.com/watch?v=eLZoNxBUWso&t=176s)
 
-<small>[Clip it](presserclips://clip?v=eLZoNxBUWso&t=176&q=2)</small>
+<small>[Clip it](presserclips://clip?v=eLZoNxBUWso&t=176&q=2) · [Send to Slack](presserclips://clip?v=eLZoNxBUWso&t=176&q=2&slack=1)</small>
 
 ---
 
@@ -100,7 +100,7 @@ James Harden: "**Mario** has been looking good for this past few weeks. Today he
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=118s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=118&q=1)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=118&q=1) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=118&q=1&slack=1)</small>
 
 **2. James Harden (Cleveland Cavaliers) — "who he is now as a player fits with the NBA is now" — James Harden praises the growth and versatility of a young teammate.** [04:59](https://www.youtube.com/watch?v=J5unk3vEQmk&t=299s)
 
@@ -108,7 +108,7 @@ James Harden: "I think it is confidence. As a young player he was probably tryin
 
 [https://www.youtube.com/watch?v=J5unk3vEQmk&t=299s](https://www.youtube.com/watch?v=J5unk3vEQmk&t=299s)
 
-<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=299&q=2)</small>
+<small>[Clip it](presserclips://clip?v=J5unk3vEQmk&t=299&q=2) · [Send to Slack](presserclips://clip?v=J5unk3vEQmk&t=299&q=2&slack=1)</small>
 
 ---
 
@@ -124,7 +124,7 @@ Caleb Wilson: "Kind of feels surreal, you know. But it's here now, so I'm excite
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=106s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=106&q=1)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=106&q=1) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=106&q=1&slack=1)</small>
 
 **2. Caleb Wilson (Chicago Bulls) — "It's my first time getting in the NBA game and playing the United Center" — Caleb Wilson discusses his upcoming first NBA game at the United Center.** [02:31](https://www.youtube.com/watch?v=auzyc8y-uNI&t=151s)
 
@@ -132,7 +132,7 @@ Caleb Wilson: "In two weeks, I mean, we'll be tipping off and it'll be real. It'
 
 [https://www.youtube.com/watch?v=auzyc8y-uNI&t=151s](https://www.youtube.com/watch?v=auzyc8y-uNI&t=151s)
 
-<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=151&q=2)</small>
+<small>[Clip it](presserclips://clip?v=auzyc8y-uNI&t=151&q=2) · [Send to Slack](presserclips://clip?v=auzyc8y-uNI&t=151&q=2&slack=1)</small>
 
 ---
 
@@ -148,7 +148,7 @@ J.B. Bickerstaff: "There is a lot more stuff in coach's offense where we want to
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=740s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=740&q=1&slack=1)</small>
 
 **2. Donovan Mitchell (Cleveland Cavaliers) — "This is probably the most time I have spent with my teammates outside of the actual season" — Donovan Mitchell emphasizes the increased team bonding during this offseason.** [40:09](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
@@ -156,7 +156,7 @@ Donovan Mitchell: "This is probably the most time I have spent with my teammates
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=2409s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=2)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=2) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=2409&q=2&slack=1)</small>
 
 **3. Jalen Tyson (Cleveland Cavaliers) — "I am coming back at 6-9 260. So that definitely adds to the versatility" — Jalen Tyson discusses his physical transformation and increased versatility.** [53:45](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
 
@@ -164,7 +164,7 @@ Jalen Tyson: "The second thing is I was drafted, a man at 6-6 190. You know, I r
 
 [https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s](https://www.youtube.com/watch?v=p7o-S3hmoD4&t=3225s)
 
-<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3225&q=3)</small>
+<small>[Clip it](presserclips://clip?v=p7o-S3hmoD4&t=3225&q=3) · [Send to Slack](presserclips://clip?v=p7o-S3hmoD4&t=3225&q=3&slack=1)</small>
 
 ---
 
@@ -180,7 +180,7 @@ Nick Nurse: "I have been super impressed with his vision and his passing and his
 
 [https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=314s](https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=314s)
 
-<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=314&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=314&q=1) · [Send to Slack](presserclips://clip?v=5y8bZQ2S9dw&t=314&q=1&slack=1)</small>
 
 **2. Nick Nurse (Philadelphia 76ers) — "I think now we have got a little bit more depth size athleticism" — Nick Nurse plans to implement more defensive schemes due to increased roster depth and athleticism.** [06:13](https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=373s)
 
@@ -188,7 +188,7 @@ Nick Nurse: "Recently I do not feel like I have been able to get into my bag of 
 
 [https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=373s](https://www.youtube.com/watch?v=5y8bZQ2S9dw&t=373s)
 
-<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=373&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5y8bZQ2S9dw&t=373&q=2) · [Send to Slack](presserclips://clip?v=5y8bZQ2S9dw&t=373&q=2&slack=1)</small>
 
 ---
 
@@ -204,7 +204,7 @@ Kenny Atkinson: "You saw **Mario** today, he was really good. He adds skill, int
 
 [https://www.youtube.com/watch?v=HygtN3BGpow&t=125s](https://www.youtube.com/watch?v=HygtN3BGpow&t=125s)
 
-<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=125&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=125&q=1) · [Send to Slack](presserclips://clip?v=HygtN3BGpow&t=125&q=1&slack=1)</small>
 
 **2. Kenny Atkinson (Cleveland Cavaliers) — "Jose is just like when he was a player, he is a connector of people" — Kenny Atkinson praises Jose for his leadership and ability to connect with the organization.** [04:13](https://www.youtube.com/watch?v=HygtN3BGpow&t=253s)
 
@@ -212,7 +212,7 @@ Kenny Atkinson: "I wish we had **Jose** as our third point guard. You know, **Jo
 
 [https://www.youtube.com/watch?v=HygtN3BGpow&t=253s](https://www.youtube.com/watch?v=HygtN3BGpow&t=253s)
 
-<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=253&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HygtN3BGpow&t=253&q=2) · [Send to Slack](presserclips://clip?v=HygtN3BGpow&t=253&q=2&slack=1)</small>
 
 ---
 
@@ -228,7 +228,7 @@ Donovan Mitchell: "The biggest thing for myself is continue to be a good leader.
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=207s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=207s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=207&q=1)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=207&q=1) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=207&q=1&slack=1)</small>
 
 **2. Donovan Mitchell (Cleveland Cavaliers) — "He is really good and a big piece for us for sure." — Donovan Mitchell praises Mario for his strength and ability to make plays.** [04:10](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=250s)
 
@@ -236,7 +236,7 @@ Donovan Mitchell: "**Mario** is talented. He is strong, very strong, gets downhi
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=250s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=250s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=250&q=2)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=250&q=2) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=250&q=2&slack=1)</small>
 
 **3. Donovan Mitchell (Cleveland Cavaliers) — "Adding a guy like Peyton changes us in a major way." — Donovan Mitchell says adding Peyton and Jaylen Tyson improves the team's defensive versatility.** [09:06](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=546s)
 
@@ -244,7 +244,7 @@ Donovan Mitchell: "I think the biggest thing is our length, our versatility. Add
 
 [https://www.youtube.com/watch?v=2BEq-YZUF8E&t=546s](https://www.youtube.com/watch?v=2BEq-YZUF8E&t=546s)
 
-<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=546&q=3)</small>
+<small>[Clip it](presserclips://clip?v=2BEq-YZUF8E&t=546&q=3) · [Send to Slack](presserclips://clip?v=2BEq-YZUF8E&t=546&q=3&slack=1)</small>
 
 ---
 
@@ -260,7 +260,7 @@ Tyrese Maxey: "I just wanted to get guys in the gym. I think that's the easiest 
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=113s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=113s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=113&q=1)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=113&q=1) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=113&q=1&slack=1)</small>
 
 **2. Tyrese Maxey (Philadelphia 76ers) — "He's been fantastic the past two days, honestly. He's in shape, he's picking up the ball." — Tyrese Maxey praises Kentavious Caldwell-Pope's early training camp performance and his potential impact on Justin Edwards.** [04:09](https://www.youtube.com/watch?v=_eFAZb37nTI&t=249s)
 
@@ -268,7 +268,7 @@ Tyrese Maxey: "He's been fantastic the past two days, honestly. He's in shape, h
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=249s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=249s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=249&q=2)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=249&q=2) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=249&q=2&slack=1)</small>
 
 **3. Tyrese Maxey (Philadelphia 76ers) — "I want to be judged by winning. We win, that's what I want to be judged by." — Tyrese Maxey says his primary goal this season is winning rather than individual statistical performance.** [11:20](https://www.youtube.com/watch?v=_eFAZb37nTI&t=680s)
 
@@ -276,7 +276,7 @@ Tyrese Maxey: "I'm at the point now where I showed I can do talent-wise, I think
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=680s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=680s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=680&q=3)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=680&q=3) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=680&q=3&slack=1)</small>
 
 **4. Tyrese Maxey (Philadelphia 76ers) — "It unlocks everything. It unlocks like me being a catch and shoot guy." — Tyrese Maxey explains how having multiple ball handlers creates more versatility and scoring opportunities for the team.** [11:17](https://www.youtube.com/watch?v=_eFAZb37nTI&t=677s)
 
@@ -284,7 +284,7 @@ Tyrese Maxey: "It unlocks everything. It unlocks like me being a catch and shoot
 
 [https://www.youtube.com/watch?v=_eFAZb37nTI&t=677s](https://www.youtube.com/watch?v=_eFAZb37nTI&t=677s)
 
-<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=677&q=4)</small>
+<small>[Clip it](presserclips://clip?v=_eFAZb37nTI&t=677&q=4) · [Send to Slack](presserclips://clip?v=_eFAZb37nTI&t=677&q=4&slack=1)</small>
 
 ---
 

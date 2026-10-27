@@ -10,7 +10,7 @@ Jordan Ott: "It is good reps. I did not know exactly who they would play, but we
 
 [https://www.youtube.com/watch?v=uPPYR40rG68&t=21s](https://www.youtube.com/watch?v=uPPYR40rG68&t=21s)
 
-<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=21&q=1)</small>
+<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=21&q=1) · [Send to Slack](presserclips://clip?v=uPPYR40rG68&t=21&q=1&slack=1)</small>
 
 **2. Jordan Ott — "Size deters rim shots at that position." — The impact of size on defensive rim protection** [01:37](https://www.youtube.com/watch?v=uPPYR40rG68&t=97s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "Size in general, size deters rim shots at that position. He does a 
 
 [https://www.youtube.com/watch?v=uPPYR40rG68&t=97s](https://www.youtube.com/watch?v=uPPYR40rG68&t=97s)
 
-<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=97&q=2)</small>
+<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=97&q=2) · [Send to Slack](presserclips://clip?v=uPPYR40rG68&t=97&q=2&slack=1)</small>
 
 **3. Jordan Ott — "He has shown playmaking before in his career." — Player development and versatility in playmaking roles** [03:40](https://www.youtube.com/watch?v=uPPYR40rG68&t=220s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "He has so much experience on different defenses. Some nights with t
 
 [https://www.youtube.com/watch?v=uPPYR40rG68&t=220s](https://www.youtube.com/watch?v=uPPYR40rG68&t=220s)
 
-<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=220&q=3)</small>
+<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=220&q=3) · [Send to Slack](presserclips://clip?v=uPPYR40rG68&t=220&q=3&slack=1)</small>
 
 **4. Jordan Ott — "It is going to be more like tonight where it is a mix of guys." — Managing player minutes during the preseason schedule** [06:00](https://www.youtube.com/watch?v=uPPYR40rG68&t=360s)
 
@@ -34,4 +34,4 @@ Jordan Ott: "It is going to be more like tonight where it is a mix of guys and y
 
 [https://www.youtube.com/watch?v=uPPYR40rG68&t=360s](https://www.youtube.com/watch?v=uPPYR40rG68&t=360s)
 
-<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=360&q=4)</small>
+<small>[Clip it](presserclips://clip?v=uPPYR40rG68&t=360&q=4) · [Send to Slack](presserclips://clip?v=uPPYR40rG68&t=360&q=4&slack=1)</small>

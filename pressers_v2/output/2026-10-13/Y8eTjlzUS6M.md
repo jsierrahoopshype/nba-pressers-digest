@@ -10,7 +10,7 @@ Jock Landale: "The chemistry pace has been really good. It's always a process ju
 
 [https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=13s](https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=13s)
 
-<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=13&q=1) · [Send to Slack](presserclips://clip?v=Y8eTjlzUS6M&t=13&q=1&slack=1)</small>
 
 **2. Jock Landale — "naturally that's what I am is someone who will talk a lot" — Jock Landale on his role in improving team communication** [01:26](https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=86s)
 
@@ -18,7 +18,7 @@ Jock Landale: "From day one when I got here midway through last season, they wer
 
 [https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=86s](https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=86s)
 
-<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=86&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=86&q=2) · [Send to Slack](presserclips://clip?v=Y8eTjlzUS6M&t=86&q=2&slack=1)</small>
 
 **3. Jock Landale — "having the confidence to press up on that, knowing that's what they were trying to get to" — Jock Landale on defensive aggressiveness and reading the opponent** [02:37](https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=157s)
 
@@ -26,7 +26,7 @@ Jock Landale: "They continued to run that pitch action to the big in the middle 
 
 [https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=157s](https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=157s)
 
-<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=157&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=157&q=3) · [Send to Slack](presserclips://clip?v=Y8eTjlzUS6M&t=157&q=3&slack=1)</small>
 
 **4. Jock Landale — "we're so versatile in how we can defend teams and we're strong, we're big, we're fast" — Jock Landale on the Hawks' high-octane defensive identity** [04:47](https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=287s)
 
@@ -34,4 +34,4 @@ Jock Landale: "It's a really high-octane up-the-court defense where a lot of tea
 
 [https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=287s](https://www.youtube.com/watch?v=Y8eTjlzUS6M&t=287s)
 
-<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=287&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Y8eTjlzUS6M&t=287&q=4) · [Send to Slack](presserclips://clip?v=Y8eTjlzUS6M&t=287&q=4&slack=1)</small>

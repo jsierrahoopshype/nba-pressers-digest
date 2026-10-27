@@ -10,7 +10,7 @@ Donovan Mitchell: "I would say the second or third practice, just the level of i
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=25s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=25s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=25&q=1)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=25&q=1) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=25&q=1&slack=1)</small>
 
 **2. Donovan Mitchell — "I think there's a leadership component of it. I think there's an experience component of it." — Donovan Mitchell on the leadership and experience added to the roster** [01:32](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=92s)
 
@@ -18,7 +18,7 @@ Donovan Mitchell: "I think there's a leadership component of it. I think there's
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=92s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=92s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=92&q=2)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=92&q=2) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=92&q=2&slack=1)</small>
 
 **3. Donovan Mitchell — "I just truly believe the only reason why he's not talked about in every room is because of championship conversation." — Donovan Mitchell on the championship-level impact of James** [02:45](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=165s)
 
@@ -26,7 +26,7 @@ Donovan Mitchell: "I just truly believe the only reason why he's not talked abou
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=165s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=165s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=165&q=3)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=165&q=3) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=165&q=3&slack=1)</small>
 
 **4. Donovan Mitchell — "There's stages. I felt like early on in my career I'd get anxious if I didn't feel like I was doing well." — Donovan Mitchell on the professional growth and maturity of his teammates** [04:16](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=256s)
 
@@ -34,7 +34,7 @@ Donovan Mitchell: "There's stages. I felt like early on in my career I'd get anx
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=256s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=256s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=256&q=4)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=256&q=4) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=256&q=4&slack=1)</small>
 
 **5. Donovan Mitchell — "I think we could be a top-five defense." — Donovan Mitchell on the Cavaliers' defensive potential this season** [06:45](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=405s)
 
@@ -42,7 +42,7 @@ Donovan Mitchell: "I think we could be a top-five defense. I believe that at our
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=405s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=405s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=405&q=5)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=405&q=5) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=405&q=5&slack=1)</small>
 
 **6. Donovan Mitchell — "I think first and foremost, we can score with the best of them." — Donovan Mitchell on the Cavaliers' offensive identity and defensive focus** [07:32](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=452s)
 
@@ -50,7 +50,7 @@ Donovan Mitchell: "I think first and foremost, we can score with the best of the
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=452s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=452s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=452&q=6)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=452&q=6) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=452&q=6&slack=1)</small>
 
 **7. Donovan Mitchell — "I've known him my whole life, or of him. He's a legend in Omar Cook, I should say." — Donovan Mitchell on the impact of Omar Cook joining the coaching staff** [10:32](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=632s)
 
@@ -58,7 +58,7 @@ Donovan Mitchell: "I've known him my whole life, or of him. He's a legend in **O
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=632s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=632s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=632&q=7)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=632&q=7) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=632&q=7&slack=1)</small>
 
 **8. Donovan Mitchell — "A lot of it is being able for him to drop the knowledge of, he's been in the pick-and-roll defensively." — Donovan Mitchell on the mentorship of younger players by Omar Cook** [11:25](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=685s)
 
@@ -66,4 +66,4 @@ Donovan Mitchell: "A lot of it is being able for him to drop the knowledge of, h
 
 [https://www.youtube.com/watch?v=JMyM_XIhWL0&t=685s](https://www.youtube.com/watch?v=JMyM_XIhWL0&t=685s)
 
-<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=685&q=8)</small>
+<small>[Clip it](presserclips://clip?v=JMyM_XIhWL0&t=685&q=8) · [Send to Slack](presserclips://clip?v=JMyM_XIhWL0&t=685&q=8&slack=1)</small>

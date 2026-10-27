@@ -10,7 +10,7 @@ Taylor Jenkins: "I would say definitely far from where we are going to need to b
 
 [https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=13s](https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=13s)
 
-<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=13&q=1)</small>
+<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=13&q=1) · [Send to Slack](presserclips://clip?v=YxKd4-CDxJ8&t=13&q=1&slack=1)</small>
 
 **2. Taylor Jenkins — "I thought we got great looks. Definitely missed them." — Taylor Jenkins on the team's offensive process and ball movement** [01:07](https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=67s)
 
@@ -18,7 +18,7 @@ Taylor Jenkins: "I would not say it was consistent enough, but as you said, I th
 
 [https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=67s](https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=67s)
 
-<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=67&q=2)</small>
+<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=67&q=2) · [Send to Slack](presserclips://clip?v=YxKd4-CDxJ8&t=67&q=2&slack=1)</small>
 
 **3. Taylor Jenkins — "Braden came in, I thought he played well to start, had some good moments there in the fourth." — Taylor Jenkins on the performance of Braden and Nate** [02:12](https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=132s)
 
@@ -26,7 +26,7 @@ Taylor Jenkins: "**Braden** came in, I thought he played well to start, had some
 
 [https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=132s](https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=132s)
 
-<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=132&q=3)</small>
+<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=132&q=3) · [Send to Slack](presserclips://clip?v=YxKd4-CDxJ8&t=132&q=3&slack=1)</small>
 
 **4. Taylor Jenkins — "I definitely want to see Clell with Miles a little bit more." — Taylor Jenkins on big man rotations and defensive coverage** [03:08](https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=188s)
 
@@ -34,4 +34,4 @@ Taylor Jenkins: "Definitely sore now between those three guys. **Jericho** start
 
 [https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=188s](https://www.youtube.com/watch?v=YxKd4-CDxJ8&t=188s)
 
-<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=188&q=4)</small>
+<small>[Clip it](presserclips://clip?v=YxKd4-CDxJ8&t=188&q=4) · [Send to Slack](presserclips://clip?v=YxKd4-CDxJ8&t=188&q=4&slack=1)</small>

@@ -10,7 +10,7 @@ Jordan Ott: "Miles starts with the defensive rebound. His size, he is a good def
 
 [https://www.youtube.com/watch?v=OtxfbtiJy_g&t=24s](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=24s)
 
-<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=24&q=1)</small>
+<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=24&q=1) · [Send to Slack](presserclips://clip?v=OtxfbtiJy_g&t=24&q=1&slack=1)</small>
 
 **2. Jordan Ott — "The more options you have, the harder it is for the defense just to lock in." — Jordan Ott on the importance of having multiple playmaking threats** [01:24](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=84s)
 
@@ -18,7 +18,7 @@ Jordan Ott: "That is just how the game is going. The more options you have, the 
 
 [https://www.youtube.com/watch?v=OtxfbtiJy_g&t=84s](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=84s)
 
-<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=84&q=2)</small>
+<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=84&q=2) · [Send to Slack](presserclips://clip?v=OtxfbtiJy_g&t=84&q=2&slack=1)</small>
 
 **3. Jordan Ott — "We want to force turnovers without fouling. We understand there is a little risk in it." — Jordan Ott on the team's aggressive defensive philosophy** [02:12](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=132s)
 
@@ -26,7 +26,7 @@ Jordan Ott: "We want to force turnovers without fouling. We understand there is 
 
 [https://www.youtube.com/watch?v=OtxfbtiJy_g&t=132s](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=132s)
 
-<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=132&q=3)</small>
+<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=132&q=3) · [Send to Slack](presserclips://clip?v=OtxfbtiJy_g&t=132&q=3&slack=1)</small>
 
 **4. Jordan Ott — "A lot of our offensive rebounding came because we sent so many bodies." — Jordan Ott on the team's offensive rebounding strategy** [03:27](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=207s)
 
@@ -34,7 +34,7 @@ Jordan Ott: "A lot of our offensive rebounding came because we sent so many bodi
 
 [https://www.youtube.com/watch?v=OtxfbtiJy_g&t=207s](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=207s)
 
-<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=207&q=4)</small>
+<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=207&q=4) · [Send to Slack](presserclips://clip?v=OtxfbtiJy_g&t=207&q=4&slack=1)</small>
 
 **5. Jordan Ott — "We will mess around a little bit in the preseason. We do have two soldiers." — Jordan Ott on the team's approach to the starting center position** [07:00](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=420s)
 
@@ -42,4 +42,4 @@ Jordan Ott: "We will mess around a little bit in the preseason. I do not want to
 
 [https://www.youtube.com/watch?v=OtxfbtiJy_g&t=420s](https://www.youtube.com/watch?v=OtxfbtiJy_g&t=420s)
 
-<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=420&q=5)</small>
+<small>[Clip it](presserclips://clip?v=OtxfbtiJy_g&t=420&q=5) · [Send to Slack](presserclips://clip?v=OtxfbtiJy_g&t=420&q=5&slack=1)</small>

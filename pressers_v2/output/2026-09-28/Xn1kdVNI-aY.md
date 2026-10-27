@@ -10,7 +10,7 @@ VJ Edgecombe: "I have been countless reps shooting the ball. I say that is impor
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=122s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=122s)
 
-<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=122&q=1)</small>
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=122&q=1) · [Send to Slack](presserclips://clip?v=Xn1kdVNI-aY&t=122&q=1&slack=1)</small>
 
 **2. VJ Edgecombe — "I take pride in playing defense. I just find it fun" — VJ Edgecombe says he takes pride in playing defense and finds it fun.** [07:16](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=436s)
 
@@ -18,7 +18,7 @@ VJ Edgecombe: "I take pride in playing defense. I just find it fun when it is ki
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=436s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=436s)
 
-<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=436&q=2)</small>
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=436&q=2) · [Send to Slack](presserclips://clip?v=Xn1kdVNI-aY&t=436&q=2&slack=1)</small>
 
 **3. VJ Edgecombe — "I told Tyrese first, initially, before LeBron got there. I was like, I want to make a group chat" — VJ Edgecombe initiated a group chat with his new teammates but did not have LeBron James' number.** [09:44](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=584s)
 
@@ -26,7 +26,7 @@ VJ Edgecombe: "I told Tyrese first, initially, before LeBron got there. I was li
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=584s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=584s)
 
-<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=584&q=3)</small>
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=584&q=3) · [Send to Slack](presserclips://clip?v=Xn1kdVNI-aY&t=584&q=3&slack=1)</small>
 
 **4. VJ Edgecombe — "First of all, the NBA you get really tired." — VJ Edgecombe admits he was surprised by how tired he was after his rookie season.** [09:59](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=599s)
 
@@ -34,4 +34,4 @@ VJ Edgecombe: "First of all, the NBA you get really tired. So when I was able to
 
 [https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=599s](https://www.youtube.com/watch?v=Xn1kdVNI-aY&t=599s)
 
-<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=599&q=4)</small>
+<small>[Clip it](presserclips://clip?v=Xn1kdVNI-aY&t=599&q=4) · [Send to Slack](presserclips://clip?v=Xn1kdVNI-aY&t=599&q=4&slack=1)</small>

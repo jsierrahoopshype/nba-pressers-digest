@@ -10,7 +10,7 @@ Peyton Watson: "Obviously I would say just the organization and how well-run it 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=37s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=37s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=37&q=1)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=37&q=1) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=37&q=1&slack=1)</small>
 
 **2. Peyton Watson — "I want to be really versatile for this team and provide that punch and that young energy." — Peyton Watson on his defensive role and versatility for the Cavaliers** [01:28](https://www.youtube.com/watch?v=AzHL3xEuInw&t=88s)
 
@@ -18,7 +18,7 @@ Peyton Watson: "I want to be really versatile for this team and provide that pun
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=88s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=88s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=88&q=2)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=88&q=2) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=88&q=2&slack=1)</small>
 
 **3. Peyton Watson — "I think that I really have all the tools to affect the game on both sides." — Peyton Watson on his potential as an elite two-way player** [02:42](https://www.youtube.com/watch?v=AzHL3xEuInw&t=162s)
 
@@ -26,7 +26,7 @@ Peyton Watson: "I think the upside is the greatest, just being an extremely elit
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=162s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=162s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=162&q=3)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=162&q=3) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=162&q=3&slack=1)</small>
 
 **4. Peyton Watson — "It is amazing just knowing in the back of my head that I can play aggressively." — Peyton Watson on the defensive impact of playing with Evan Mobley and Jarrett Allen** [03:33](https://www.youtube.com/watch?v=AzHL3xEuInw&t=213s)
 
@@ -34,7 +34,7 @@ Peyton Watson: "It is amazing just knowing in the back of my head that I can pla
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=213s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=213s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=213&q=4)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=213&q=4) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=213&q=4&slack=1)</small>
 
 **5. Peyton Watson — "I think just to make them uncomfortable as possible, to disrupt a little bit." — Peyton Watson on his defensive approach against elite offensive players** [04:38](https://www.youtube.com/watch?v=AzHL3xEuInw&t=278s)
 
@@ -42,7 +42,7 @@ Peyton Watson: "I think just to make them uncomfortable as possible, to disrupt 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=278s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=278s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=278&q=5)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=278&q=5) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=278&q=5&slack=1)</small>
 
 **6. Peyton Watson — "It just takes a lot of mental toughness. I think it takes a lot of resilience." — Peyton Watson on the mental toughness needed to compete for a championship** [05:50](https://www.youtube.com/watch?v=AzHL3xEuInw&t=350s)
 
@@ -50,7 +50,7 @@ Peyton Watson: "It just takes a lot of mental toughness. I think it takes a lot 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=350s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=350s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=350&q=6)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=350&q=6) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=350&q=6&slack=1)</small>
 
 **7. Peyton Watson — "That is music to my ears when I hear that I am going to be able to." — Peyton Watson on taking the pressure off Donovan Mitchell and Darius Garland** [07:10](https://www.youtube.com/watch?v=AzHL3xEuInw&t=430s)
 
@@ -58,7 +58,7 @@ Peyton Watson: "I think a lot of the pressure is on those guys. They are getting
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=430s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=430s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=430&q=7)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=430&q=7) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=430&q=7&slack=1)</small>
 
 **8. Peyton Watson — "It definitely taught me a lot about my positioning, how to cut, where to be." — Peyton Watson on what he learned playing alongside Nikola Jokic** [08:22](https://www.youtube.com/watch?v=AzHL3xEuInw&t=502s)
 
@@ -66,7 +66,7 @@ Peyton Watson: "It definitely taught me a lot about my positioning, how to cut, 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=502s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=502s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=502&q=8)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=502&q=8) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=502&q=8&slack=1)</small>
 
 **9. Peyton Watson — "I was a restricted free agent and I think a lot of people misconstrue that." — Peyton Watson on the trade rumors involving the Lakers and Clippers** [10:00](https://www.youtube.com/watch?v=AzHL3xEuInw&t=600s)
 
@@ -74,7 +74,7 @@ Peyton Watson: "I mean, I think in general, the Lakers have a big social media f
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=600s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=600s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=600&q=9)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=600&q=9) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=600&q=9&slack=1)</small>
 
 **10. Peyton Watson — "I think it starts on the defensive end. I think that we have guys who can score." — Peyton Watson on why the Cavaliers can reach the top of the East** [11:08](https://www.youtube.com/watch?v=AzHL3xEuInw&t=668s)
 
@@ -82,7 +82,7 @@ Peyton Watson: "I think it starts on the defensive end. I think that we have guy
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=668s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=668s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=668&q=10)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=668&q=10) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=668&q=10&slack=1)</small>
 
 **11. Peyton Watson — "There are a lot of great, great teams in the East and a lot of great talent." — Peyton Watson on the competitive landscape of the Eastern Conference** [11:52](https://www.youtube.com/watch?v=AzHL3xEuInw&t=712s)
 
@@ -90,7 +90,7 @@ Peyton Watson: "It is really hard to say because you never know what the teams e
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=712s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=712s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=712&q=11)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=712&q=11) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=712&q=11&slack=1)</small>
 
 **12. Peyton Watson — "I think definitely just working on continuing to shoot the ball at an elite level." — Peyton Watson on his focus on three-point shooting and physical development** [12:57](https://www.youtube.com/watch?v=AzHL3xEuInw&t=777s)
 
@@ -98,7 +98,7 @@ Peyton Watson: "I think definitely just working on continuing to shoot the ball 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=777s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=777s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=777&q=12)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=777&q=12) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=777&q=12&slack=1)</small>
 
 **13. Peyton Watson — "We got some amazing guys on the team. Every individual presents their own unique personality." — Peyton Watson on the team culture and personality of the Cavaliers** [13:57](https://www.youtube.com/watch?v=AzHL3xEuInw&t=837s)
 
@@ -106,4 +106,4 @@ Peyton Watson: "We got some amazing guys on the team. Every individual presents 
 
 [https://www.youtube.com/watch?v=AzHL3xEuInw&t=837s](https://www.youtube.com/watch?v=AzHL3xEuInw&t=837s)
 
-<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=837&q=13)</small>
+<small>[Clip it](presserclips://clip?v=AzHL3xEuInw&t=837&q=13) · [Send to Slack](presserclips://clip?v=AzHL3xEuInw&t=837&q=13&slack=1)</small>

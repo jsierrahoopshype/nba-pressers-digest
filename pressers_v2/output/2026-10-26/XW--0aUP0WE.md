@@ -10,7 +10,7 @@ Tuomas Iisalo: "Huge, huge. Not just this game, but also Golden State and Utah, 
 
 [https://www.youtube.com/watch?v=XW--0aUP0WE&t=2s](https://www.youtube.com/watch?v=XW--0aUP0WE&t=2s)
 
-<small>[Clip it](presserclips://clip?v=XW--0aUP0WE&t=2&q=1)</small>
+<small>[Clip it](presserclips://clip?v=XW--0aUP0WE&t=2&q=1) · [Send to Slack](presserclips://clip?v=XW--0aUP0WE&t=2&q=1&slack=1)</small>
 
 **2. Tuomas Iisalo — "We talked about it pregame about the turnovers. We had a huge turnover percentage last game" — Tuomas Iisalo on Grizzlies' offensive rebounding and turnover management** [01:22](https://www.youtube.com/watch?v=XW--0aUP0WE&t=82s)
 
@@ -18,7 +18,7 @@ Tuomas Iisalo: "Unbelievable. We talked about it pregame about the turnovers. We
 
 [https://www.youtube.com/watch?v=XW--0aUP0WE&t=82s](https://www.youtube.com/watch?v=XW--0aUP0WE&t=82s)
 
-<small>[Clip it](presserclips://clip?v=XW--0aUP0WE&t=82&q=2)</small>
+<small>[Clip it](presserclips://clip?v=XW--0aUP0WE&t=82&q=2) · [Send to Slack](presserclips://clip?v=XW--0aUP0WE&t=82&q=2&slack=1)</small>
 
 **3. Tuomas Iisalo — "The confidence that he's playing with is incredible. He feels that confidence also from coaching staff" — Tuomas Iisalo on the development and confidence of Scotty Pippen Jr.** [01:56](https://www.youtube.com/watch?v=XW--0aUP0WE&t=116s)
 
@@ -26,4 +26,4 @@ Tuomas Iisalo: "The shape he showed up to camp in, he has put a hell of a lot of
 
 [https://www.youtube.com/watch?v=XW--0aUP0WE&t=116s](https://www.youtube.com/watch?v=XW--0aUP0WE&t=116s)
 
-<small>[Clip it](presserclips://clip?v=XW--0aUP0WE&t=116&q=3)</small>
+<small>[Clip it](presserclips://clip?v=XW--0aUP0WE&t=116&q=3) · [Send to Slack](presserclips://clip?v=XW--0aUP0WE&t=116&q=3&slack=1)</small>

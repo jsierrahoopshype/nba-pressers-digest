@@ -10,7 +10,7 @@ Anthony Davis: "It was fun. But that's a good sign of a good team that no matter
 
 [https://www.youtube.com/watch?v=cdaiCWn4YZk&t=94s](https://www.youtube.com/watch?v=cdaiCWn4YZk&t=94s)
 
-<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=94&q=1)</small>
+<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=94&q=1) · [Send to Slack](presserclips://clip?v=cdaiCWn4YZk&t=94&q=1&slack=1)</small>
 
 **2. Anthony Davis — "as long as we can get it up the floor and get into our offense, doesn't matter." — Anthony Davis on the Wizards' committee approach to ball-handling** [03:57](https://www.youtube.com/watch?v=cdaiCWn4YZk&t=237s)
 
@@ -18,7 +18,7 @@ Anthony Davis: "It doesn't matter. As long as we can get it up the floor and get
 
 [https://www.youtube.com/watch?v=cdaiCWn4YZk&t=237s](https://www.youtube.com/watch?v=cdaiCWn4YZk&t=237s)
 
-<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=237&q=2)</small>
+<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=237&q=2) · [Send to Slack](presserclips://clip?v=cdaiCWn4YZk&t=237&q=2&slack=1)</small>
 
 **3. Anthony Davis — "I'm just happy to be here, happy to be playing basketball again." — Anthony Davis on playing with a chip on his shoulder** [04:51](https://www.youtube.com/watch?v=cdaiCWn4YZk&t=291s)
 
@@ -26,7 +26,7 @@ Anthony Davis: "I'm just happy to be here, happy to be playing basketball again.
 
 [https://www.youtube.com/watch?v=cdaiCWn4YZk&t=291s](https://www.youtube.com/watch?v=cdaiCWn4YZk&t=291s)
 
-<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=291&q=3)</small>
+<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=291&q=3) · [Send to Slack](presserclips://clip?v=cdaiCWn4YZk&t=291&q=3&slack=1)</small>
 
 **4. Anthony Davis — "he draws the crowd. Every play, two on the ball with him, and he was making the right passes." — Anthony Davis on the impact of playing alongside Trey** [07:42](https://www.youtube.com/watch?v=cdaiCWn4YZk&t=462s)
 
@@ -34,4 +34,4 @@ Anthony Davis: "He draws the crowd. Every play, two on the ball with him, and he
 
 [https://www.youtube.com/watch?v=cdaiCWn4YZk&t=462s](https://www.youtube.com/watch?v=cdaiCWn4YZk&t=462s)
 
-<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=462&q=4)</small>
+<small>[Clip it](presserclips://clip?v=cdaiCWn4YZk&t=462&q=4) · [Send to Slack](presserclips://clip?v=cdaiCWn4YZk&t=462&q=4&slack=1)</small>

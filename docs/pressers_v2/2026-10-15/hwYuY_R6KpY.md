@@ -10,7 +10,7 @@ Charles Lee: "That's great effort. I think it's great attention to detail we tal
 
 [https://www.youtube.com/watch?v=hwYuY_R6KpY&t=0s](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=0s)
 
-<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=0&q=1)</small>
+<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=0&q=1) · [Send to Slack](presserclips://clip?v=hwYuY_R6KpY&t=0&q=1&slack=1)</small>
 
 **2. Charles Lee — "When he steps on the court he has a great two-way mindset." — Charles Lee on Brandon Miller's two-way impact** [00:35](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=35s)
 
@@ -18,7 +18,7 @@ Charles Lee: "Brandon's importance, yeah. I think that we get to see when he ste
 
 [https://www.youtube.com/watch?v=hwYuY_R6KpY&t=35s](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=35s)
 
-<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=35&q=2)</small>
+<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=35&q=2) · [Send to Slack](presserclips://clip?v=hwYuY_R6KpY&t=35&q=2&slack=1)</small>
 
 **3. Charles Lee — "I would love to be able to bounce back with a more consistent effort for four quarters." — Charles Lee on the need for consistent effort** [01:05](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=65s)
 
@@ -26,7 +26,7 @@ Charles Lee: "I would love to be able to bounce back with a more consistent effo
 
 [https://www.youtube.com/watch?v=hwYuY_R6KpY&t=65s](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=65s)
 
-<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=65&q=3)</small>
+<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=65&q=3) · [Send to Slack](presserclips://clip?v=hwYuY_R6KpY&t=65&q=3&slack=1)</small>
 
 **4. Charles Lee — "He's really impacting the other team's ability to get into their offense." — Charles Lee on Dennis Smith Jr.'s leadership and impact** [01:39](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=99s)
 
@@ -34,7 +34,7 @@ Charles Lee: "I expect number one, you see how defensively he's picking up guys 
 
 [https://www.youtube.com/watch?v=hwYuY_R6KpY&t=99s](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=99s)
 
-<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=99&q=4)</small>
+<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=99&q=4) · [Send to Slack](presserclips://clip?v=hwYuY_R6KpY&t=99&q=4&slack=1)</small>
 
 **5. Charles Lee — "I just want to see continued growth." — Charles Lee on the continued development of Tidjane Salaün** [02:25](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=145s)
 
@@ -42,7 +42,7 @@ Charles Lee: "I just want to see continued growth. You know, for a young player,
 
 [https://www.youtube.com/watch?v=hwYuY_R6KpY&t=145s](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=145s)
 
-<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=145&q=5)</small>
+<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=145&q=5) · [Send to Slack](presserclips://clip?v=hwYuY_R6KpY&t=145&q=5&slack=1)</small>
 
 **6. Charles Lee — "By having Christian, by having Dennis, by having all those guys in the locker room." — Charles Lee on the veteran presence of Christian Wood and Dennis Smith Jr.** [02:53](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=173s)
 
@@ -50,4 +50,4 @@ Charles Lee: "It's very good for Tidjane. I think that by having Christian, by h
 
 [https://www.youtube.com/watch?v=hwYuY_R6KpY&t=173s](https://www.youtube.com/watch?v=hwYuY_R6KpY&t=173s)
 
-<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=173&q=6)</small>
+<small>[Clip it](presserclips://clip?v=hwYuY_R6KpY&t=173&q=6) · [Send to Slack](presserclips://clip?v=hwYuY_R6KpY&t=173&q=6&slack=1)</small>

@@ -10,7 +10,7 @@ Jordan Ott: "Shane last year just we got to get to translate, you know, it's 27t
 
 [https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=218s](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=218s)
 
-<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=218&q=1)</small>
+<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=218&q=1) · [Send to Slack](presserclips://clip?v=KB7Jy-QZ0Yc&t=218&q=1&slack=1)</small>
 
 **2. Jordan Ott — "He's going to continue to average over 25 points a game like he's done his whole life." — Jordan Ott expects his star player to continue averaging over 25 points per game.** [06:17](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s)
 
@@ -18,4 +18,4 @@ Jordan Ott: "I'm not going to go down that path. The ball is going to be in his 
 
 [https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s](https://www.youtube.com/watch?v=KB7Jy-QZ0Yc&t=377s)
 
-<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=377&q=2)</small>
+<small>[Clip it](presserclips://clip?v=KB7Jy-QZ0Yc&t=377&q=2) · [Send to Slack](presserclips://clip?v=KB7Jy-QZ0Yc&t=377&q=2&slack=1)</small>

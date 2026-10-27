@@ -16,7 +16,7 @@ Social: Jericho Sims says the new system will give him more opportunities to sho
 
 [https://www.youtube.com/watch?v=ubCT8qdPeJs&t=144s](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=144s)
 
-<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=144&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=144&q=1) · [Send to Slack](presserclips://clip?v=ubCT8qdPeJs&t=144&q=1&slack=1)</small>
 
 **2. Jericho Sims (Milwaukee Bucks) — Jericho Sims highlights the creative no-dribble drills implemented by coach Doc Rivers.** [02:37](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=157s)
 
@@ -28,7 +28,7 @@ Social: Jericho Sims says the team has been working on no-dribble drills in prac
 
 [https://www.youtube.com/watch?v=ubCT8qdPeJs&t=157s](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=157s)
 
-<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=157&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=157&q=2) · [Send to Slack](presserclips://clip?v=ubCT8qdPeJs&t=157&q=2&slack=1)</small>
 
 **3. Jericho Sims (Milwaukee Bucks) — Jericho Sims praises the rim protection skills of his new teammate.** [03:21](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=201s)
 
@@ -40,7 +40,7 @@ Social: Jericho Sims is impressed by the rim protection of his new teammate, cal
 
 [https://www.youtube.com/watch?v=ubCT8qdPeJs&t=201s](https://www.youtube.com/watch?v=ubCT8qdPeJs&t=201s)
 
-<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=201&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ubCT8qdPeJs&t=201&q=3) · [Send to Slack](presserclips://clip?v=ubCT8qdPeJs&t=201&q=3&slack=1)</small>
 
 ---
 
@@ -60,7 +60,7 @@ Social: Coach Adelman says the team's back end is more athletic than it has been
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=12s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=12s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=12&q=1)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=12&q=1) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=12&q=1&slack=1)</small>
 
 **2. Coach Adelman (Denver Nuggets) — Coach Adelman welcomes Dave Joerger to the coaching staff, citing his impressive offensive schemes in Memphis.** [02:04](https://www.youtube.com/watch?v=37oxxG7YQBI&t=124s)
 
@@ -72,7 +72,7 @@ Social: Coach Adelman is excited to have Dave Joerger on the coaching staff, not
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=124s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=124s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=124&q=2)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=124&q=2) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=124&q=2&slack=1)</small>
 
 **3. Coach Adelman (Denver Nuggets) — Coach Adelman explains the plan to transition DeRon Holmes II to the power forward position.** [08:42](https://www.youtube.com/watch?v=37oxxG7YQBI&t=522s)
 
@@ -84,7 +84,7 @@ Social: Coach Adelman says the goal for DeRon Holmes II is to transition to the 
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=522s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=522s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=522&q=3)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=522&q=3) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=522&q=3&slack=1)</small>
 
 **4. Aaron Gordon (Denver Nuggets) — Aaron Gordon explains the team's decision to hold training camp in Puerto Rico.** [15:03](https://www.youtube.com/watch?v=37oxxG7YQBI&t=903s)
 
@@ -96,7 +96,7 @@ Social: Aaron Gordon says the team chose to hold training camp in Puerto Rico to
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=903s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=903s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=903&q=4)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=903&q=4) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=903&q=4&slack=1)</small>
 
 **5. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan expects the game to be easier with the Nuggets due to less pressure.** [19:08](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1148s)
 
@@ -108,7 +108,7 @@ Social: DeMar DeRozan says he expects the game to be easier for him this season 
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=1148s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1148s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1148&q=5)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1148&q=5) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=1148&q=5&slack=1)</small>
 
 **6. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan notes Coach Adelman's unexpected intensity during practice.** [19:17](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1157s)
 
@@ -120,7 +120,7 @@ Social: DeMar DeRozan says he was surprised by Coach Adelman's intensity during 
 
 [https://www.youtube.com/watch?v=37oxxG7YQBI&t=1157s](https://www.youtube.com/watch?v=37oxxG7YQBI&t=1157s)
 
-<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1157&q=6)</small>
+<small>[Clip it](presserclips://clip?v=37oxxG7YQBI&t=1157&q=6) · [Send to Slack](presserclips://clip?v=37oxxG7YQBI&t=1157&q=6&slack=1)</small>
 
 ---
 
@@ -140,7 +140,7 @@ Social: Taylor Jenkins says the competitive tone was the biggest focus for the f
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=4s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=4s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=4&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=4&q=1) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=4&q=1&slack=1)</small>
 
 **2. Taylor Jenkins (Milwaukee Bucks) — Taylor Jenkins stresses defensive identity and discipline for the upcoming season** [01:48](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s)
 
@@ -152,7 +152,7 @@ Social: Taylor Jenkins says he is defensive minded at heart and wants the team t
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=108s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=108&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=108&q=2) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=108&q=2&slack=1)</small>
 
 **3. Taylor Jenkins (Milwaukee Bucks) — Taylor Jenkins praises assistant coach for his mentorship and impact** [05:48](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s)
 
@@ -164,7 +164,7 @@ Social: Taylor Jenkins says his assistant coach is like a big brother to him. He
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=348s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=348&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=348&q=3) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=348&q=3&slack=1)</small>
 
 **4. Taylor Jenkins (Milwaukee Bucks) — Taylor Jenkins plans to utilize pick and roll and collective movement as offensive triggers** [07:41](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s)
 
@@ -176,7 +176,7 @@ Social: Taylor Jenkins says the pick and roll will be a main trigger for the off
 
 [https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s](https://www.youtube.com/watch?v=ULbX4Q2C0ks&t=461s)
 
-<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=461&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ULbX4Q2C0ks&t=461&q=4) · [Send to Slack](presserclips://clip?v=ULbX4Q2C0ks&t=461&q=4&slack=1)</small>
 
 ---
 
@@ -196,7 +196,7 @@ Social: Tyronn Lue says Darius Garland is taking his preparation for this season
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=102s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=102s)
 
-<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=102&q=1)</small>
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=102&q=1) · [Send to Slack](presserclips://clip?v=bG-tBlhdex4&t=102&q=1&slack=1)</small>
 
 **2. Tyronn Lue (LA Clippers) — Tyronn Lue sets the goal for the Clippers to make the playoffs this season.** [03:21](https://www.youtube.com/watch?v=bG-tBlhdex4&t=201s)
 
@@ -208,7 +208,7 @@ Social: Tyronn Lue says the Clippers main goal this season is to make the playof
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=201s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=201s)
 
-<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=201&q=2)</small>
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=201&q=2) · [Send to Slack](presserclips://clip?v=bG-tBlhdex4&t=201&q=2&slack=1)</small>
 
 **3. Darius Garland (LA Clippers) — Darius Garland is excited about the new Clippers roster and his own health status.** [13:30](https://www.youtube.com/watch?v=bG-tBlhdex4&t=810s)
 
@@ -220,7 +220,7 @@ Social: Darius Garland says he is excited to be back healthy and to have a full 
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=810s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=810s)
 
-<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=810&q=3)</small>
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=810&q=3) · [Send to Slack](presserclips://clip?v=bG-tBlhdex4&t=810&q=3&slack=1)</small>
 
 **4. Kei (LA Clippers) — Kei expresses confidence in Darius Garland's ability to handle the pressure this season.** [21:45](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1305s)
 
@@ -232,7 +232,7 @@ Social: Kei says the Clippers are ready to support Darius Garland, noting that h
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1305s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1305s)
 
-<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1305&q=4)</small>
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1305&q=4) · [Send to Slack](presserclips://clip?v=bG-tBlhdex4&t=1305&q=4&slack=1)</small>
 
 **5. Kei (LA Clippers) — Kei highlights Darius Garland's leadership and positive growth as a player.** [21:50](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1310s)
 
@@ -244,7 +244,7 @@ Social: Kei says Darius Garland has a natural ability to control the team's ener
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1310s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1310s)
 
-<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1310&q=5)</small>
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1310&q=5) · [Send to Slack](presserclips://clip?v=bG-tBlhdex4&t=1310&q=5&slack=1)</small>
 
 **6. Baba (LA Clippers) — Baba is focused on learning from the veteran point guards on the Clippers roster.** [21:44](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1304s)
 
@@ -256,7 +256,7 @@ Social: Baba says he is focused on learning from the veteran point guards on the
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1304s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1304s)
 
-<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1304&q=6)</small>
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1304&q=6) · [Send to Slack](presserclips://clip?v=bG-tBlhdex4&t=1304&q=6&slack=1)</small>
 
 **7. Baba (LA Clippers) — Baba emphasizes his competitive nature and desire to win.** [21:52](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1312s)
 
@@ -268,7 +268,7 @@ Social: Baba says he is a very competitive player who is solely focused on findi
 
 [https://www.youtube.com/watch?v=bG-tBlhdex4&t=1312s](https://www.youtube.com/watch?v=bG-tBlhdex4&t=1312s)
 
-<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1312&q=7)</small>
+<small>[Clip it](presserclips://clip?v=bG-tBlhdex4&t=1312&q=7) · [Send to Slack](presserclips://clip?v=bG-tBlhdex4&t=1312&q=7&slack=1)</small>
 
 ---
 
@@ -288,7 +288,7 @@ Social: Aaron Gordon says he spent his offseason reading, traveling, and focusin
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=104s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=104s)
 
-<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=104&q=1)</small>
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=104&q=1) · [Send to Slack](presserclips://clip?v=IN9zEU1NPs0&t=104&q=1&slack=1)</small>
 
 **2. Aaron Gordon (Denver Nuggets) — Aaron Gordon praises Jamal Murray as an all-time great bucket getter.** [03:47](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=227s)
 
@@ -300,7 +300,7 @@ Social: Aaron Gordon has been watching Jamal Murray since they were kids and cal
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=227s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=227s)
 
-<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=227&q=2)</small>
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=227&q=2) · [Send to Slack](presserclips://clip?v=IN9zEU1NPs0&t=227&q=2&slack=1)</small>
 
 **3. Jamal Murray (Denver Nuggets) — Jamal Murray expresses gratitude for remaining with the Denver Nuggets for 11 years.** [07:23](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=443s)
 
@@ -312,7 +312,7 @@ Social: Jamal Murray is grateful to be with the team that drafted him for 11 yea
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=443s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=443s)
 
-<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=443&q=3)</small>
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=443&q=3) · [Send to Slack](presserclips://clip?v=IN9zEU1NPs0&t=443&q=3&slack=1)</small>
 
 **4. Aaron Gordon (Denver Nuggets) — Aaron Gordon dismisses trade rumors as noise and focuses on winning.** [08:44](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=524s)
 
@@ -324,7 +324,7 @@ Social: Aaron Gordon says trade rumors are just noise and that the Denver Nugget
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=524s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=524s)
 
-<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=524&q=4)</small>
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=524&q=4) · [Send to Slack](presserclips://clip?v=IN9zEU1NPs0&t=524&q=4&slack=1)</small>
 
 **5. Jamal Murray (Denver Nuggets) — Jamal Murray emphasizes the importance of loving the game and avoiding regrets.** [10:02](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=602s)
 
@@ -336,7 +336,7 @@ Social: Jamal Murray says he loves the game and wants to give 100 percent to avo
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=602s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=602s)
 
-<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=602&q=5)</small>
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=602&q=5) · [Send to Slack](presserclips://clip?v=IN9zEU1NPs0&t=602&q=5&slack=1)</small>
 
 **6. Aaron Gordon (Denver Nuggets) — Aaron Gordon identifies the Denver Nuggets as a team of underdogs and dark horses.** [10:43](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=643s)
 
@@ -348,7 +348,7 @@ Social: Aaron Gordon says the Denver Nuggets are a team of underdogs and dark ho
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=643s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=643s)
 
-<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=643&q=6)</small>
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=643&q=6) · [Send to Slack](presserclips://clip?v=IN9zEU1NPs0&t=643&q=6&slack=1)</small>
 
 **7. Aaron Gordon (Denver Nuggets) — Aaron Gordon adjusts his routine to include more warm-up and cool-down time.** [15:48](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=948s)
 
@@ -360,7 +360,7 @@ Social: Aaron Gordon says he is investing more time in his warm-up and cool-down
 
 [https://www.youtube.com/watch?v=IN9zEU1NPs0&t=948s](https://www.youtube.com/watch?v=IN9zEU1NPs0&t=948s)
 
-<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=948&q=7)</small>
+<small>[Clip it](presserclips://clip?v=IN9zEU1NPs0&t=948&q=7) · [Send to Slack](presserclips://clip?v=IN9zEU1NPs0&t=948&q=7&slack=1)</small>
 
 ---
 
@@ -380,7 +380,7 @@ Social: Chet Holmgren says he feels a responsibility to lead and communicate wit
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=53s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=53s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=53&q=1)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=53&q=1) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=53&q=1&slack=1)</small>
 
 **2. Chet Holmgren (Oklahoma City Thunder) — Chet Holmgren praises Jalen Williams for his work ethic during the offseason.** [05:04](https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s)
 
@@ -392,7 +392,7 @@ Social: Chet Holmgren says Jalen Williams is a grinder who has been very intenti
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=304s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=304&q=2)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=304&q=2) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=304&q=2&slack=1)</small>
 
 **3. Mark Daigneault (Oklahoma City Thunder) — Mark Daigneault says the Thunder players arrived at training camp in great shape.** [10:14](https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s)
 
@@ -404,7 +404,7 @@ Social: Mark Daigneault says the Thunder players arrived at training camp in gre
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=614s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=614&q=3)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=614&q=3) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=614&q=3&slack=1)</small>
 
 **4. Mark Daigneault (Oklahoma City Thunder) — Mark Daigneault emphasizes the importance of processing speed in the modern NBA.** [10:53](https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s)
 
@@ -416,7 +416,7 @@ Social: Mark Daigneault says the game is getting faster and players must be able
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=653s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=653&q=4)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=653&q=4) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=653&q=4&slack=1)</small>
 
 **5. Mark Daigneault (Oklahoma City Thunder) — Mark Daigneault credits Shai Gilgeous-Alexander for his growth as a leader.** [18:10](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s)
 
@@ -428,7 +428,7 @@ Social: Mark Daigneault says Shai Gilgeous-Alexander has evolved into a vocal le
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1090s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1090&q=5)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1090&q=5) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=1090&q=5&slack=1)</small>
 
 **6. Mark Daigneault (Oklahoma City Thunder) — Mark Daigneault confirms several players are limited at the start of training camp.** [18:27](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s)
 
@@ -440,7 +440,7 @@ Social: Mark Daigneault confirms that some players are limited at the start of t
 
 [https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s](https://www.youtube.com/watch?v=C-w8wntXwq8&t=1107s)
 
-<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1107&q=6)</small>
+<small>[Clip it](presserclips://clip?v=C-w8wntXwq8&t=1107&q=6) · [Send to Slack](presserclips://clip?v=C-w8wntXwq8&t=1107&q=6&slack=1)</small>
 
 ---
 
@@ -460,7 +460,7 @@ Social: Jordan Ott says the new addition to the team has good size and will be a
 
 [https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=48s](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=48s)
 
-<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=48&q=1)</small>
+<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=48&q=1) · [Send to Slack](presserclips://clip?v=iXYtHJoP-Eo&t=48&q=1&slack=1)</small>
 
 **2. Jordan Ott (Phoenix Suns) — Jordan Ott praises Jaylen Green for his commitment to training at the team facility.** [05:50](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=350s)
 
@@ -472,7 +472,7 @@ Social: Jordan Ott praises Jaylen Green for his commitment to training at the te
 
 [https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=350s](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=350s)
 
-<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=350&q=2)</small>
+<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=350&q=2) · [Send to Slack](presserclips://clip?v=iXYtHJoP-Eo&t=350&q=2&slack=1)</small>
 
 **3. Jordan Ott (Phoenix Suns) — Jordan Ott explains the evolution of Jaylen Green's role and decision making.** [08:44](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=524s)
 
@@ -484,7 +484,7 @@ Social: Jordan Ott says Jaylen Green will have the ball more this season. He add
 
 [https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=524s](https://www.youtube.com/watch?v=iXYtHJoP-Eo&t=524s)
 
-<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=524&q=3)</small>
+<small>[Clip it](presserclips://clip?v=iXYtHJoP-Eo&t=524&q=3) · [Send to Slack](presserclips://clip?v=iXYtHJoP-Eo&t=524&q=3&slack=1)</small>
 
 ---
 
@@ -504,7 +504,7 @@ Social: Ousmane Dieng says re-signing with the Milwaukee Bucks was the obvious c
 
 [https://www.youtube.com/watch?v=h7jjReBB8gA&t=3s](https://www.youtube.com/watch?v=h7jjReBB8gA&t=3s)
 
-<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=3&q=1)</small>
+<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=3&q=1) · [Send to Slack](presserclips://clip?v=h7jjReBB8gA&t=3&q=1&slack=1)</small>
 
 **2. Ousmane Dieng (Milwaukee Bucks) — Ousmane Dieng shares his advice for younger players on finding their role in the NBA.** [02:09](https://www.youtube.com/watch?v=h7jjReBB8gA&t=129s)
 
@@ -516,7 +516,7 @@ Social: Ousmane Dieng shares his advice for younger players, saying you just hav
 
 [https://www.youtube.com/watch?v=h7jjReBB8gA&t=129s](https://www.youtube.com/watch?v=h7jjReBB8gA&t=129s)
 
-<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=129&q=2)</small>
+<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=129&q=2) · [Send to Slack](presserclips://clip?v=h7jjReBB8gA&t=129&q=2&slack=1)</small>
 
 **3. Ousmane Dieng (Milwaukee Bucks) — Ousmane Dieng highlights Coach Doc Rivers' focus on defense during training camp.** [02:37](https://www.youtube.com/watch?v=h7jjReBB8gA&t=157s)
 
@@ -528,7 +528,7 @@ Social: Ousmane Dieng says Doc Rivers is a really defensive minded coach and tha
 
 [https://www.youtube.com/watch?v=h7jjReBB8gA&t=157s](https://www.youtube.com/watch?v=h7jjReBB8gA&t=157s)
 
-<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=157&q=3)</small>
+<small>[Clip it](presserclips://clip?v=h7jjReBB8gA&t=157&q=3) · [Send to Slack](presserclips://clip?v=h7jjReBB8gA&t=157&q=3&slack=1)</small>
 
 ---
 
@@ -548,7 +548,7 @@ Social: Jalen Green says working with Steve Nash this summer was super helpful f
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=114s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=114s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=114&q=1)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=114&q=1) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=114&q=1&slack=1)</small>
 
 **2. Jalen Green (Phoenix Suns) — Jalen Green identifies his basketball superpowers as speed, playmaking, and defense.** [04:09](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=249s)
 
@@ -560,7 +560,7 @@ Social: Jalen Green says his basketball superpowers are being electric, playing 
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=249s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=249s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=249&q=2)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=249&q=2) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=249&q=2&slack=1)</small>
 
 **3. Jalen Green (Phoenix Suns) — Jalen Green expects a significant jump from the young Phoenix Suns players this season.** [06:35](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=395s)
 
@@ -572,7 +572,7 @@ Social: Jalen Green believes the Phoenix Suns are a big step ahead this year. He
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=395s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=395s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=395&q=3)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=395&q=3) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=395&q=3&slack=1)</small>
 
 **4. Jalen Green (Phoenix Suns) — Jalen Green discusses the leadership style of his teammate.** [09:14](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=554s)
 
@@ -584,7 +584,7 @@ Social: Jalen Green says his teammate has an interesting way of showing he cares
 
 [https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=554s](https://www.youtube.com/watch?v=8mPbiC5Zgf8&t=554s)
 
-<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=554&q=4)</small>
+<small>[Clip it](presserclips://clip?v=8mPbiC5Zgf8&t=554&q=4) · [Send to Slack](presserclips://clip?v=8mPbiC5Zgf8&t=554&q=4&slack=1)</small>
 
 ---
 
@@ -604,7 +604,7 @@ Social: Dillon Brooks wants his teammate to be more aggressive from behind the a
 
 [https://www.youtube.com/watch?v=zG2khU2Btpc&t=215s](https://www.youtube.com/watch?v=zG2khU2Btpc&t=215s)
 
-<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=215&q=1)</small>
+<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=215&q=1) · [Send to Slack](presserclips://clip?v=zG2khU2Btpc&t=215&q=1&slack=1)</small>
 
 **2. Dillon Brooks (Phoenix Suns) — Dillon Brooks says the team is focused on fixing fourth-quarter execution issues from last season.** [08:23](https://www.youtube.com/watch?v=zG2khU2Btpc&t=503s)
 
@@ -616,7 +616,7 @@ Social: Dillon Brooks says the team is focused on fixing fourth-quarter executio
 
 [https://www.youtube.com/watch?v=zG2khU2Btpc&t=503s](https://www.youtube.com/watch?v=zG2khU2Btpc&t=503s)
 
-<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=503&q=2)</small>
+<small>[Clip it](presserclips://clip?v=zG2khU2Btpc&t=503&q=2) · [Send to Slack](presserclips://clip?v=zG2khU2Btpc&t=503&q=2&slack=1)</small>
 
 ---
 
@@ -636,7 +636,7 @@ Social: DeMar DeRozan says he joined the Nuggets because the team made him a pri
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=83s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=83s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=83&q=1)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=83&q=1) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=83&q=1&slack=1)</small>
 
 **2. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan says his only goal with the Nuggets is to win.** [03:50](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s)
 
@@ -648,7 +648,7 @@ Social: DeMar DeRozan says his only goal with the Nuggets is to win. He says he 
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=230s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=230&q=2)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=230&q=2) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=230&q=2&slack=1)</small>
 
 **3. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan says he is ready to serve as a playmaker for the Nuggets.** [05:04](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s)
 
@@ -660,7 +660,7 @@ Social: DeMar DeRozan says he is ready to serve as a playmaker for the Nuggets. 
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=304s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=304&q=3)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=304&q=3) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=304&q=3&slack=1)</small>
 
 **4. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan reflects on entering his 18th NBA season.** [06:45](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s)
 
@@ -672,7 +672,7 @@ Social: DeMar DeRozan reflects on entering his 18th NBA season. He says he never
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=405s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=405&q=4)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=405&q=4) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=405&q=4&slack=1)</small>
 
 **5. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan says he is ready to make any sacrifices needed to help the Nuggets.** [08:21](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s)
 
@@ -684,7 +684,7 @@ Social: DeMar DeRozan says he is ready to make any sacrifices needed to help the
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=501s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=501&q=5)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=501&q=5) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=501&q=5&slack=1)</small>
 
 **6. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan says he wants to make the Nuggets' offense more unstoppable.** [10:32](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s)
 
@@ -696,7 +696,7 @@ Social: DeMar DeRozan says he wants to make the Nuggets' offense more unstoppabl
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=632s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=632&q=6)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=632&q=6) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=632&q=6&slack=1)</small>
 
 **7. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan says he is focused on enjoying the remainder of his NBA career.** [12:21](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s)
 
@@ -708,7 +708,7 @@ Social: DeMar DeRozan says he is focused on enjoying the remainder of his NBA ca
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=741s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=741&q=7)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=741&q=7) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=741&q=7&slack=1)</small>
 
 **8. DeMar DeRozan (Denver Nuggets) — DeMar DeRozan credits his health and discipline for his long NBA career.** [14:09](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s)
 
@@ -720,7 +720,7 @@ Social: DeMar DeRozan credits his health and discipline for his long NBA career.
 
 [https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s](https://www.youtube.com/watch?v=kdrF-ld6xvs&t=849s)
 
-<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=849&q=8)</small>
+<small>[Clip it](presserclips://clip?v=kdrF-ld6xvs&t=849&q=8) · [Send to Slack](presserclips://clip?v=kdrF-ld6xvs&t=849&q=8&slack=1)</small>
 
 ---
 
@@ -740,7 +740,7 @@ Social: Nikola Jokic says he plans to sign an extension with the Denver Nuggets 
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=230s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=230s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=230&q=1)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=230&q=1) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=230&q=1&slack=1)</small>
 
 **2. Nikola Jokić (Denver Nuggets) — Nikola Jokic praises DeMar DeRozan as an underrated passer and potential fit for the Nuggets.** [12:08](https://www.youtube.com/watch?v=WwTAZQReZ34&t=728s)
 
@@ -752,7 +752,7 @@ Social: Nikola Jokic says DeMar DeRozan is an underrated passer and he is lookin
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=728s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=728s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=728&q=2)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=728&q=2) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=728&q=2&slack=1)</small>
 
 **3. Nikola Jokić (Denver Nuggets) — Nikola Jokic says Aaron Gordon is a unique player when healthy.** [13:51](https://www.youtube.com/watch?v=WwTAZQReZ34&t=831s)
 
@@ -764,7 +764,7 @@ Social: Nikola Jokic says there is no player in the league like Aaron Gordon whe
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=831s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=831s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=831&q=3)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=831&q=3) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=831&q=3&slack=1)</small>
 
 **4. Nikola Jokić (Denver Nuggets) — Nikola Jokic suggests NBA players should play in Europe to experience the pressure.** [14:35](https://www.youtube.com/watch?v=WwTAZQReZ34&t=875s)
 
@@ -776,7 +776,7 @@ Social: Nikola Jokic says he wishes every NBA player would play six months in Eu
 
 [https://www.youtube.com/watch?v=WwTAZQReZ34&t=875s](https://www.youtube.com/watch?v=WwTAZQReZ34&t=875s)
 
-<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=875&q=4)</small>
+<small>[Clip it](presserclips://clip?v=WwTAZQReZ34&t=875&q=4) · [Send to Slack](presserclips://clip?v=WwTAZQReZ34&t=875&q=4&slack=1)</small>
 
 ---
 
@@ -796,7 +796,7 @@ Social: Jalen Green says working with a two-time MVP and Hall of Famer this summ
 
 [https://www.youtube.com/watch?v=ISY70X0XESQ&t=107s](https://www.youtube.com/watch?v=ISY70X0XESQ&t=107s)
 
-<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=107&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=107&q=1) · [Send to Slack](presserclips://clip?v=ISY70X0XESQ&t=107&q=1&slack=1)</small>
 
 **2. Jalen Green (Phoenix Suns) — Jalen Green expects his partnership with Devin Booker to create more scoring opportunities.** [03:57](https://www.youtube.com/watch?v=ISY70X0XESQ&t=237s)
 
@@ -808,7 +808,7 @@ Social: Jalen Green believes his partnership with Devin Booker will open up the 
 
 [https://www.youtube.com/watch?v=ISY70X0XESQ&t=237s](https://www.youtube.com/watch?v=ISY70X0XESQ&t=237s)
 
-<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=237&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=237&q=2) · [Send to Slack](presserclips://clip?v=ISY70X0XESQ&t=237&q=2&slack=1)</small>
 
 **3. Jalen Green (Phoenix Suns) — Jalen Green praises his teammate for his work ethic and continued development.** [07:00](https://www.youtube.com/watch?v=ISY70X0XESQ&t=420s)
 
@@ -820,7 +820,7 @@ Social: Jalen Green says his teammate is putting in the work this summer, spendi
 
 [https://www.youtube.com/watch?v=ISY70X0XESQ&t=420s](https://www.youtube.com/watch?v=ISY70X0XESQ&t=420s)
 
-<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=420&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ISY70X0XESQ&t=420&q=3) · [Send to Slack](presserclips://clip?v=ISY70X0XESQ&t=420&q=3&slack=1)</small>
 
 ---
 
@@ -840,7 +840,7 @@ Social: Nick Nurse says he has ideas for player roles but wants to see the group
 
 [https://www.youtube.com/watch?v=7y4NqLYvDog&t=48s](https://www.youtube.com/watch?v=7y4NqLYvDog&t=48s)
 
-<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=48&q=1)</small>
+<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=48&q=1) · [Send to Slack](presserclips://clip?v=7y4NqLYvDog&t=48&q=1&slack=1)</small>
 
 **2. Nick Nurse (Philadelphia 76ers) — Nick Nurse emphasizes winning the possession battle over high-paced play.** [12:57](https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s)
 
@@ -852,7 +852,7 @@ Social: Nick Nurse says the goal is to win the possession battle by crashing the
 
 [https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s](https://www.youtube.com/watch?v=7y4NqLYvDog&t=777s)
 
-<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=777&q=2)</small>
+<small>[Clip it](presserclips://clip?v=7y4NqLYvDog&t=777&q=2) · [Send to Slack](presserclips://clip?v=7y4NqLYvDog&t=777&q=2&slack=1)</small>
 
 ---
 
@@ -872,7 +872,7 @@ Social: Devin Booker explains why he is back to wearing number 15, saying it is 
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=150s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=150s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=150&q=1)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=150&q=1) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=150&q=1&slack=1)</small>
 
 **2. Bol Bol (Phoenix Suns) — Bol Bol describes his natural competitive alter ego on the basketball court** [1:00:11](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3611s)
 
@@ -884,7 +884,7 @@ Social: Bol Bol says he has a natural alter ego when he steps on the court. He s
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3611s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3611s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3611&q=2)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3611&q=2) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3611&q=2&slack=1)</small>
 
 **3. Devin Booker (Phoenix Suns) — Devin Booker discusses his leadership role and team goals for the upcoming season.** [03:48](https://www.youtube.com/watch?v=d3xIlemvcKE&t=228s)
 
@@ -896,7 +896,7 @@ Social: Devin Booker says his main goal is to win as many games as possible and 
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=228s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=228s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=228&q=3)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=228&q=3) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=228&q=3&slack=1)</small>
 
 **4. Devin Booker (Phoenix Suns) — Devin Booker discusses his approach to leadership and mentoring young players.** [05:14](https://www.youtube.com/watch?v=d3xIlemvcKE&t=314s)
 
@@ -908,7 +908,7 @@ Social: Devin Booker says he tries to lead by example and mentor the younger pla
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=314s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=314s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=314&q=4)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=314&q=4) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=314&q=4&slack=1)</small>
 
 **5. Collin Gillespie (Phoenix Suns) — Collin Gillespie expresses his commitment to the Phoenix Suns after signing a new contract.** [20:15](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1215s)
 
@@ -920,7 +920,7 @@ Social: Collin Gillespie says he always wanted to be with the Phoenix Suns and t
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=1215s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1215s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1215&q=5)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1215&q=5) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=1215&q=5&slack=1)</small>
 
 **6. Collin Gillespie (Phoenix Suns) — Collin Gillespie discusses his role and the team's potential when healthy.** [21:40](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1300s)
 
@@ -932,7 +932,7 @@ Social: Collin Gillespie says the Suns are a better team when healthy and he is 
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=1300s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=1300s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1300&q=6)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=1300&q=6) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=1300&q=6&slack=1)</small>
 
 **7. Ryan Dunn (Phoenix Suns) — Ryan Dunn credits his brother Justin Dunn for influencing his professional approach to basketball.** [33:57](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2037s)
 
@@ -944,7 +944,7 @@ Social: Ryan Dunn says his brother Justin Dunn has been a major influence on his
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=2037s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2037s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2037&q=7)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2037&q=7) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=2037&q=7&slack=1)</small>
 
 **8. Oso Ighodaro (Phoenix Suns) — Oso Ighodaro highlights the competitive and supportive culture among the team's young players.** [49:15](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2955s)
 
@@ -956,7 +956,7 @@ Social: Oso Ighodaro says the team's young players are focused on getting better
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=2955s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=2955s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2955&q=8)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=2955&q=8) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=2955&q=8&slack=1)</small>
 
 **9. Rasheer Fleming (Phoenix Suns) — Rasheer Fleming discusses his defensive role and competitive nature in practice.** [58:10](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3490s)
 
@@ -968,7 +968,7 @@ Social: Rasheer Fleming says he enjoys guarding all his teammates in practice be
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3490s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3490s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3490&q=9)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3490&q=9) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3490&q=9&slack=1)</small>
 
 **10. Koa Peat (Phoenix Suns) — Koa Peat expresses gratitude for being drafted by the Phoenix Suns.** [1:02:40](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3760s)
 
@@ -980,7 +980,7 @@ Social: Koa Peat says joining the Phoenix Suns is the best situation he could ha
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3760s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3760s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3760&q=10)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3760&q=10) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3760&q=10&slack=1)</small>
 
 **11. Khaman Maluach (Phoenix Suns) — Khaman Maluach explains his focus on daily improvement to stay consistent.** [1:02:34](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3754s)
 
@@ -992,7 +992,7 @@ Social: Khaman Maluach says his focus is on daily improvement, rather than worry
 
 [https://www.youtube.com/watch?v=d3xIlemvcKE&t=3754s](https://www.youtube.com/watch?v=d3xIlemvcKE&t=3754s)
 
-<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3754&q=11)</small>
+<small>[Clip it](presserclips://clip?v=d3xIlemvcKE&t=3754&q=11) · [Send to Slack](presserclips://clip?v=d3xIlemvcKE&t=3754&q=11&slack=1)</small>
 
 ---
 
@@ -1012,7 +1012,7 @@ Social: VJ Edgecombe on his new teammates, all the star struck, all that's all t
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=31s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=31s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=31&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=31&q=1) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=31&q=1&slack=1)</small>
 
 **2. VJ Edgecombe (Philadelphia 76ers) — VJ Edgecombe says he holds his teammates accountable and feels no pressure.** [01:51](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=111s)
 
@@ -1024,7 +1024,7 @@ Social: VJ Edgecombe on playing with Jalen Brunson, we hold each other accountab
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=111s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=111s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=111&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=111&q=2) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=111&q=2&slack=1)</small>
 
 **3. VJ Edgecombe (Philadelphia 76ers) — VJ Edgecombe says he got faster and stronger to improve his defense.** [07:15](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=435s)
 
@@ -1036,7 +1036,7 @@ Social: VJ Edgecombe on his defensive growth, I got faster and stronger. I was a
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=435s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=435s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=435&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=435&q=3) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=435&q=3&slack=1)</small>
 
 **4. VJ Edgecombe (Philadelphia 76ers) — VJ Edgecombe says he has matured significantly since his rookie season.** [09:07](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=547s)
 
@@ -1048,7 +1048,7 @@ Social: VJ Edgecombe on his maturity, from my rookie year to now, I feel like I'
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=547s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=547s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=547&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=547&q=4) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=547&q=4&slack=1)</small>
 
 **5. VJ Edgecombe (Philadelphia 76ers) — VJ Edgecombe says his teammates' support instills confidence in him.** [10:27](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=627s)
 
@@ -1060,7 +1060,7 @@ Social: VJ Edgecombe on his teammates' support, that instills confidence in me. 
 
 [https://www.youtube.com/watch?v=5X4hR_3EgB0&t=627s](https://www.youtube.com/watch?v=5X4hR_3EgB0&t=627s)
 
-<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=627&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5X4hR_3EgB0&t=627&q=5) · [Send to Slack](presserclips://clip?v=5X4hR_3EgB0&t=627&q=5&slack=1)</small>
 
 ---
 
@@ -1080,7 +1080,7 @@ Social: Peyton Watson is ready to get to work and embrace the city of Cleveland.
 
 [https://www.youtube.com/watch?v=1TXLEDa8524&t=15s](https://www.youtube.com/watch?v=1TXLEDa8524&t=15s)
 
-<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=15&q=1) · [Send to Slack](presserclips://clip?v=1TXLEDa8524&t=15&q=1&slack=1)</small>
 
 **2. Peyton Watson (Cleveland Cavaliers) — Peyton Watson identifies Nae'Qwan Tomlin as the funniest player on the Cleveland Cavaliers roster.** [00:33](https://www.youtube.com/watch?v=1TXLEDa8524&t=33s)
 
@@ -1092,7 +1092,7 @@ Social: Peyton Watson says Nae'Qwan Tomlin is the funniest guy on the Cleveland 
 
 [https://www.youtube.com/watch?v=1TXLEDa8524&t=33s](https://www.youtube.com/watch?v=1TXLEDa8524&t=33s)
 
-<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=33&q=2)</small>
+<small>[Clip it](presserclips://clip?v=1TXLEDa8524&t=33&q=2) · [Send to Slack](presserclips://clip?v=1TXLEDa8524&t=33&q=2&slack=1)</small>
 
 ---
 
@@ -1112,7 +1112,7 @@ Social: Mat Ishbia says the Suns are focused on building a sustainable winning c
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=202s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=202s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=202&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=202&q=1) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=202&q=1&slack=1)</small>
 
 **2. Luke Kennard (Phoenix Suns) — Luke Kennard explains why he wanted to join the Phoenix Suns** [1:00:01](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3601s)
 
@@ -1124,7 +1124,7 @@ Social: Luke Kennard says he wanted to join the Phoenix Suns because he saw how 
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3601s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3601s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3601&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3601&q=2) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3601&q=2&slack=1)</small>
 
 **3. Mat Ishbia (Phoenix Suns) — Mat Ishbia credits the front office and coaching staff for their work in player development and retention.** [05:10](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=310s)
 
@@ -1136,7 +1136,7 @@ Social: Mat Ishbia credits the front office and coaching staff for their work in
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=310s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=310s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=310&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=310&q=3) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=310&q=3&slack=1)</small>
 
 **4. Mat Ishbia (Phoenix Suns) — Mat Ishbia defines the Suns way as a unique set of standards** [1:04:00](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3840s)
 
@@ -1148,7 +1148,7 @@ Social: Mat Ishbia says the Suns way is about doing things differently, holding 
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3840s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3840s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3840&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3840&q=4) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3840&q=4&slack=1)</small>
 
 **5. Jalen Green (Phoenix Suns) — Jalen Green says Steve Nash personally mentored him during his summer workouts.** [36:35](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=2195s)
 
@@ -1160,7 +1160,7 @@ Social: Jalen Green says Steve Nash personally mentored him during his summer wo
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=2195s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=2195s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=2195&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=2195&q=5) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=2195&q=5&slack=1)</small>
 
 **6. Mat Ishbia (Phoenix Suns) — Mat Ishbia explains the team's offseason roster moves** [1:05:11](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3911s)
 
@@ -1172,7 +1172,7 @@ Social: Mat Ishbia says Miles Bridges was added to the roster for his athleticis
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3911s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3911s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3911&q=6)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3911&q=6) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3911&q=6&slack=1)</small>
 
 **7. Miles Bridges (Phoenix Suns) — Miles Bridges says he is adjusting well to life in Phoenix after his trade.** [1:05:02](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3902s)
 
@@ -1184,7 +1184,7 @@ Social: Miles Bridges says he is adjusting well to life in Phoenix after his tra
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3902s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=3902s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3902&q=7)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=3902&q=7) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=3902&q=7&slack=1)</small>
 
 **8. Josh Bartelstein (Phoenix Suns) — Josh Bartelstein emphasizes the importance of depth in the modern NBA** [1:07:29](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4049s)
 
@@ -1196,7 +1196,7 @@ Social: Josh Bartelstein says depth is key in the modern NBA because players get
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4049s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4049s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4049&q=8)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4049&q=8) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4049&q=8&slack=1)</small>
 
 **9. Miles Bridges (Phoenix Suns) — Miles Bridges reflects on his decision to return to Michigan State instead of entering the NBA draft.** [1:08:25](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4105s)
 
@@ -1208,7 +1208,7 @@ Social: Miles Bridges reflects on his decision to return to Michigan State inste
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4105s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4105s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4105&q=9)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4105&q=9) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4105&q=9&slack=1)</small>
 
 **10. Dillon Brooks (Phoenix Suns) — Dillon Brooks believes the new roster additions will fit in well** [1:12:03](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4323s)
 
@@ -1220,7 +1220,7 @@ Social: Dillon Brooks says the team is gelling well and the new additions will p
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4323s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4323s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4323&q=10)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4323&q=10) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4323&q=10&slack=1)</small>
 
 **11. Devin Booker (Phoenix Suns) — Devin Booker says his primary goal is winning as many games as possible.** [1:27:18](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5238s)
 
@@ -1232,7 +1232,7 @@ Social: Devin Booker says his primary goal is winning as many games as possible.
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5238s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5238s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5238&q=11)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5238&q=11) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=5238&q=11&slack=1)</small>
 
 **12. Jordan Ott (Phoenix Suns) — Jordan Ott highlights the team's improved versatility and depth** [1:14:07](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4447s)
 
@@ -1244,7 +1244,7 @@ Social: Jordan Ott says the team has become more versatile and has better depth 
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4447s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=4447s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4447&q=12)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=4447&q=12) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=4447&q=12&slack=1)</small>
 
 **13. Devin Booker (Phoenix Suns) — Devin Booker says he is feeling better than ever heading into training camp.** [1:30:16](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5416s)
 
@@ -1256,7 +1256,7 @@ Social: Devin Booker says he is feeling better than ever heading into training c
 
 [https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5416s](https://www.youtube.com/watch?v=FSYLGh9VIW4&t=5416s)
 
-<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5416&q=13)</small>
+<small>[Clip it](presserclips://clip?v=FSYLGh9VIW4&t=5416&q=13) · [Send to Slack](presserclips://clip?v=FSYLGh9VIW4&t=5416&q=13&slack=1)</small>
 
 ---
 
@@ -1276,7 +1276,7 @@ Social: Brook Lopez says the Clippers are focused on winning a championship this
 
 [https://www.youtube.com/watch?v=64amOdXLsAg&t=116s](https://www.youtube.com/watch?v=64amOdXLsAg&t=116s)
 
-<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=116&q=1)</small>
+<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=116&q=1) · [Send to Slack](presserclips://clip?v=64amOdXLsAg&t=116&q=1&slack=1)</small>
 
 **2. Brook Lopez (LA Clippers) — Brook Lopez plans to play more in the paint this season.** [06:57](https://www.youtube.com/watch?v=64amOdXLsAg&t=417s)
 
@@ -1288,7 +1288,7 @@ Social: Brook Lopez says he plans to play more in the paint and be a low post sc
 
 [https://www.youtube.com/watch?v=64amOdXLsAg&t=417s](https://www.youtube.com/watch?v=64amOdXLsAg&t=417s)
 
-<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=417&q=2)</small>
+<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=417&q=2) · [Send to Slack](presserclips://clip?v=64amOdXLsAg&t=417&q=2&slack=1)</small>
 
 **3. Brook Lopez (LA Clippers) — Brook Lopez aims to be more dominant in the paint and improve defensively.** [06:49](https://www.youtube.com/watch?v=64amOdXLsAg&t=409s)
 
@@ -1300,7 +1300,7 @@ Social: Brook Lopez says he wants to be more dominant in the paint and improve h
 
 [https://www.youtube.com/watch?v=64amOdXLsAg&t=409s](https://www.youtube.com/watch?v=64amOdXLsAg&t=409s)
 
-<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=409&q=3)</small>
+<small>[Clip it](presserclips://clip?v=64amOdXLsAg&t=409&q=3) · [Send to Slack](presserclips://clip?v=64amOdXLsAg&t=409&q=3&slack=1)</small>
 
 ---
 
@@ -1320,7 +1320,7 @@ Social: Anfernee Simons says the team is focusing on their own goals this season
 
 [https://www.youtube.com/watch?v=OWIWxFuMFvk&t=307s](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=307s)
 
-<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=307&q=1)</small>
+<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=307&q=1) · [Send to Slack](presserclips://clip?v=OWIWxFuMFvk&t=307&q=1&slack=1)</small>
 
 **2. Anfernee Simons (Philadelphia 76ers) — Anfernee Simons praises Tyrese Maxey for his athleticism and ability to get downhill.** [06:49](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=409s)
 
@@ -1332,7 +1332,7 @@ Social: Anfernee Simons is impressed by Tyrese Maxey. He says his athleticism an
 
 [https://www.youtube.com/watch?v=OWIWxFuMFvk&t=409s](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=409s)
 
-<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=409&q=2)</small>
+<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=409&q=2) · [Send to Slack](presserclips://clip?v=OWIWxFuMFvk&t=409&q=2&slack=1)</small>
 
 **3. Anfernee Simons (Philadelphia 76ers) — Anfernee Simons highlights the veteran presence and high basketball IQ of a new teammate.** [06:53](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=413s)
 
@@ -1344,7 +1344,7 @@ Social: Anfernee Simons says his new teammate's understanding of the game is imp
 
 [https://www.youtube.com/watch?v=OWIWxFuMFvk&t=413s](https://www.youtube.com/watch?v=OWIWxFuMFvk&t=413s)
 
-<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=413&q=3)</small>
+<small>[Clip it](presserclips://clip?v=OWIWxFuMFvk&t=413&q=3) · [Send to Slack](presserclips://clip?v=OWIWxFuMFvk&t=413&q=3&slack=1)</small>
 
 ---
 
@@ -1364,7 +1364,7 @@ Social: Keaton Wagler says he is prioritizing his defensive growth and adjusting
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=100s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=100s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=100&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=100&q=1) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=100&q=1&slack=1)</small>
 
 **2. Keaton Wagler (LA Clippers) — Keaton Wagler has gained weight and muscle through a dedicated summer lifting program.** [03:58](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=238s)
 
@@ -1376,7 +1376,7 @@ Social: Keaton Wagler says he has been hitting the weight room hard this summer 
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=238s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=238s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=238&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=238&q=2) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=238&q=2&slack=1)</small>
 
 **3. Keaton Wagler (LA Clippers) — Keaton Wagler is focused on maintaining a strong mental approach to handle rookie pressure.** [05:52](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=352s)
 
@@ -1388,7 +1388,7 @@ Social: Keaton Wagler says he is focused on staying mentally locked in and not w
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=352s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=352s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=352&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=352&q=3) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=352&q=3&slack=1)</small>
 
 **4. Keaton Wagler (LA Clippers) — Keaton Wagler expects to play multiple roles and handle the ball alongside teammates.** [07:38](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=458s)
 
@@ -1400,7 +1400,7 @@ Social: Keaton Wagler says he is looking forward to playing multiple roles and l
 
 [https://www.youtube.com/watch?v=ljsXrv4FKf0&t=458s](https://www.youtube.com/watch?v=ljsXrv4FKf0&t=458s)
 
-<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=458&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ljsXrv4FKf0&t=458&q=4) · [Send to Slack](presserclips://clip?v=ljsXrv4FKf0&t=458&q=4&slack=1)</small>
 
 ---
 
@@ -1420,7 +1420,7 @@ Social: Brandon Ingram says he is feeling good in his recovery from surgery on a
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=19s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=19s)
 
-<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=19&q=1)</small>
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=19&q=1) · [Send to Slack](presserclips://clip?v=i7FBmSAOrsc&t=19&q=1&slack=1)</small>
 
 **2. Brandon Ingram (LA Clippers) — Brandon Ingram will have limited participation in training camp while recovering from surgery.** [03:37](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=217s)
 
@@ -1432,7 +1432,7 @@ Social: Brandon Ingram says he will have limited participation in training camp 
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=217s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=217s)
 
-<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=217&q=2)</small>
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=217&q=2) · [Send to Slack](presserclips://clip?v=i7FBmSAOrsc&t=217&q=2&slack=1)</small>
 
 **3. Brandon Ingram (LA Clippers) — Brandon Ingram reflects on the long trade process and his excitement to play for Ty Lue.** [05:31](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=331s)
 
@@ -1444,7 +1444,7 @@ Social: Brandon Ingram says the trade process was the longest in history, but he
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=331s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=331s)
 
-<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=331&q=3)</small>
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=331&q=3) · [Send to Slack](presserclips://clip?v=i7FBmSAOrsc&t=331&q=3&slack=1)</small>
 
 **4. Brandon Ingram (LA Clippers) — Brandon Ingram believes his best years are still ahead of him.** [06:41](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=401s)
 
@@ -1456,7 +1456,7 @@ Social: Brandon Ingram says he believes his best years are ahead of him and he i
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=401s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=401s)
 
-<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=401&q=4)</small>
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=401&q=4) · [Send to Slack](presserclips://clip?v=i7FBmSAOrsc&t=401&q=4&slack=1)</small>
 
 **5. Brandon Ingram (LA Clippers) — Brandon Ingram aims to adapt to Ty Lue's vision and earn a voice in the locker room.** [06:43](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=403s)
 
@@ -1468,7 +1468,7 @@ Social: Brandon Ingram says he wants to adapt to Ty Lue's vision by being versat
 
 [https://www.youtube.com/watch?v=i7FBmSAOrsc&t=403s](https://www.youtube.com/watch?v=i7FBmSAOrsc&t=403s)
 
-<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=403&q=5)</small>
+<small>[Clip it](presserclips://clip?v=i7FBmSAOrsc&t=403&q=5) · [Send to Slack](presserclips://clip?v=i7FBmSAOrsc&t=403&q=5&slack=1)</small>
 
 ---
 
@@ -1488,7 +1488,7 @@ Social: Darius Garland says he is embracing his new role as a mentor for the Cli
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=104s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=104s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=104&q=1)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=104&q=1) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=104&q=1&slack=1)</small>
 
 **2. Darius Garland (Los Angeles Clippers) — Darius Garland is back to 100% health after off-season treatment on his toe.** [03:39](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=219s)
 
@@ -1500,7 +1500,7 @@ Social: Darius Garland says he is back to 100% health after working with the Cli
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=219s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=219s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=219&q=2)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=219&q=2) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=219&q=2&slack=1)</small>
 
 **3. Darius Garland (Los Angeles Clippers) — Darius Garland is excited to reunite with Max Strus on the Clippers.** [10:07](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=607s)
 
@@ -1512,7 +1512,7 @@ Social: Darius Garland is thrilled to reunite with Max Strus, calling him one of
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=607s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=607s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=607&q=3)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=607&q=3) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=607&q=3&slack=1)</small>
 
 **4. Darius Garland (Los Angeles Clippers) — Darius Garland and his family donated to the city of Gary following natural disasters.** [13:22](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=802s)
 
@@ -1524,7 +1524,7 @@ Social: Darius Garland says he and his family have been working to support the c
 
 [https://www.youtube.com/watch?v=ffgGlNY-BKI&t=802s](https://www.youtube.com/watch?v=ffgGlNY-BKI&t=802s)
 
-<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=802&q=4)</small>
+<small>[Clip it](presserclips://clip?v=ffgGlNY-BKI&t=802&q=4) · [Send to Slack](presserclips://clip?v=ffgGlNY-BKI&t=802&q=4&slack=1)</small>
 
 ---
 
@@ -1544,7 +1544,7 @@ Social: Rui Hachimura says he chose to join the LA Clippers because of their rep
 
 [https://www.youtube.com/watch?v=uR-3bIOPxDE&t=15s](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=15s)
 
-<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=15&q=1)</small>
+<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=15&q=1) · [Send to Slack](presserclips://clip?v=uR-3bIOPxDE&t=15&q=1&slack=1)</small>
 
 **2. Rui Hachimura (LA Clippers) — Rui Hachimura plans to bring more physicality and improved shooting to the LA Clippers.** [05:06](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=306s)
 
@@ -1556,7 +1556,7 @@ Social: Rui Hachimura says he plans to bring more physicality to the LA Clippers
 
 [https://www.youtube.com/watch?v=uR-3bIOPxDE&t=306s](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=306s)
 
-<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=306&q=2)</small>
+<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=306&q=2) · [Send to Slack](presserclips://clip?v=uR-3bIOPxDE&t=306&q=2&slack=1)</small>
 
 **3. Rui Hachimura (LA Clippers) — Rui Hachimura emphasizes his physical play and improved shooting as keys for the team.** [07:12](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=432s)
 
@@ -1568,7 +1568,7 @@ Social: Rui Hachimura says his physical play on both ends of the floor and his i
 
 [https://www.youtube.com/watch?v=uR-3bIOPxDE&t=432s](https://www.youtube.com/watch?v=uR-3bIOPxDE&t=432s)
 
-<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=432&q=3)</small>
+<small>[Clip it](presserclips://clip?v=uR-3bIOPxDE&t=432&q=3) · [Send to Slack](presserclips://clip?v=uR-3bIOPxDE&t=432&q=3&slack=1)</small>
 
 ---
 
@@ -1588,7 +1588,7 @@ Social: Will Richard says he has put in the work this summer to get stronger, ad
 
 [https://www.youtube.com/watch?v=rtZ1PQOABcY&t=39s](https://www.youtube.com/watch?v=rtZ1PQOABcY&t=39s)
 
-<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=39&q=1)</small>
+<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=39&q=1) · [Send to Slack](presserclips://clip?v=rtZ1PQOABcY&t=39&q=1&slack=1)</small>
 
 **2. Will Richard (Golden State Warriors) — Will Richard says the team must step up to fill the void left by missing teammates.** [00:58](https://www.youtube.com/watch?v=rtZ1PQOABcY&t=58s)
 
@@ -1600,7 +1600,7 @@ Social: With teammates missing time, Will Richard says the rest of the roster is
 
 [https://www.youtube.com/watch?v=rtZ1PQOABcY&t=58s](https://www.youtube.com/watch?v=rtZ1PQOABcY&t=58s)
 
-<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=58&q=2)</small>
+<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=58&q=2) · [Send to Slack](presserclips://clip?v=rtZ1PQOABcY&t=58&q=2&slack=1)</small>
 
 **3. Will Richard (Golden State Warriors) — Will Richard praises Jimmy for his leadership in bringing the team together.** [02:04](https://www.youtube.com/watch?v=rtZ1PQOABcY&t=124s)
 
@@ -1612,7 +1612,7 @@ Social: Will Richard says it is special to have a teammate like Jimmy who cares 
 
 [https://www.youtube.com/watch?v=rtZ1PQOABcY&t=124s](https://www.youtube.com/watch?v=rtZ1PQOABcY&t=124s)
 
-<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=124&q=3)</small>
+<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=124&q=3) · [Send to Slack](presserclips://clip?v=rtZ1PQOABcY&t=124&q=3&slack=1)</small>
 
 **4. Will Richard (Golden State Warriors) — Will Richard predicts a seven point victory for the Gators over Michigan.** [03:41](https://www.youtube.com/watch?v=rtZ1PQOABcY&t=221s)
 
@@ -1624,7 +1624,7 @@ Social: Will Richard is confident in his team, predicting a seven point win for 
 
 [https://www.youtube.com/watch?v=rtZ1PQOABcY&t=221s](https://www.youtube.com/watch?v=rtZ1PQOABcY&t=221s)
 
-<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=221&q=4)</small>
+<small>[Clip it](presserclips://clip?v=rtZ1PQOABcY&t=221&q=4) · [Send to Slack](presserclips://clip?v=rtZ1PQOABcY&t=221&q=4&slack=1)</small>
 
 ---
 
@@ -1644,7 +1644,7 @@ Social: Steve Kerr says the team does not have a timeline for Kevon Looney, but 
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=104s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=104s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=104&q=1)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=104&q=1) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=104&q=1&slack=1)</small>
 
 **2. Steve Kerr (Golden State Warriors) — Steve Kerr says he will wait two weeks before deciding on the starting lineup.** [03:26](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s)
 
@@ -1656,7 +1656,7 @@ Social: Steve Kerr says he has an idea for the starting lineup, but he will wait
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=206s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=206&q=2)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=206&q=2) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=206&q=2&slack=1)</small>
 
 **3. Steve Kerr (Golden State Warriors) — Steve Kerr plans to use the entire roster and two-way players this season.** [04:56](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s)
 
@@ -1668,7 +1668,7 @@ Social: Steve Kerr says the Warriors will use their entire roster, including two
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=296s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=296&q=3)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=296&q=3) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=296&q=3&slack=1)</small>
 
 **4. Steve Kerr (Golden State Warriors) — Steve Kerr says the team must improve efficiency and reduce turnovers this season.** [08:35](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s)
 
@@ -1680,7 +1680,7 @@ Social: Steve Kerr says the Warriors must be more efficient and cut down on turn
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=515s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=515&q=4)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=515&q=4) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=515&q=4&slack=1)</small>
 
 **5. Steve Kerr (Golden State Warriors) — Steve Kerr calls the addition of Frank Vogel to the coaching staff a coup.** [16:54](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s)
 
@@ -1692,7 +1692,7 @@ Social: Steve Kerr says adding Frank Vogel to the coaching staff was a huge win 
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1014s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1014&q=5)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1014&q=5) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1014&q=5&slack=1)</small>
 
 **6. Steve Kerr (Golden State Warriors) — Steve Kerr says the team signed Brandon Williams to provide speed and quickness.** [21:38](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s)
 
@@ -1704,7 +1704,7 @@ Social: Steve Kerr says the Warriors signed Brandon Williams to add speed and qu
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1298s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1298&q=6)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1298&q=6) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1298&q=6&slack=1)</small>
 
 **7. Steve Kerr (Golden State Warriors) — Steve Kerr says the team is changing its practice and teaching methods.** [26:33](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s)
 
@@ -1716,7 +1716,7 @@ Social: Steve Kerr says the Warriors are changing their practice and teaching me
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1593s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1593&q=7)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1593&q=7) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1593&q=7&slack=1)</small>
 
 **8. Steve Kerr (Golden State Warriors) — Steve Kerr says he allows Steph Curry and Draymond Green six turnovers combined.** [27:53](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s)
 
@@ -1728,7 +1728,7 @@ Social: Steve Kerr says he tells the team that Steph Curry and Draymond Green ar
 
 [https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s](https://www.youtube.com/watch?v=I2fDVC_Afnk&t=1673s)
 
-<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1673&q=8)</small>
+<small>[Clip it](presserclips://clip?v=I2fDVC_Afnk&t=1673&q=8) · [Send to Slack](presserclips://clip?v=I2fDVC_Afnk&t=1673&q=8&slack=1)</small>
 
 ---
 
@@ -1748,7 +1748,7 @@ Social: Wes Edens says the hiring of Taylor Jenkins is the biggest addition of t
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=134s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=134s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=134&q=1)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=134&q=1) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=134&q=1&slack=1)</small>
 
 **2. Miles Turner (Milwaukee Bucks) — Miles Turner discusses his adjustment period after joining the Milwaukee Bucks** [1:04:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s)
 
@@ -1760,7 +1760,7 @@ Social: Miles Turner discusses his adjustment period after joining the Milwaukee
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3844s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3844&q=2)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3844&q=2) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=3844&q=2&slack=1)</small>
 
 **3. Tyler Herro (Milwaukee Bucks) — Tyler Herro says he embraces the pressure of playing for his home state team.** [2:00:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s)
 
@@ -1772,7 +1772,7 @@ Social: Tyler Herro says he is not worried about the added pressure of playing f
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7231s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7231&q=3)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7231&q=3) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7231&q=3&slack=1)</small>
 
 **4. Wes Edens (Milwaukee Bucks) — Wes Edens notes the lack of tanking rules makes this an unusual and competitive NBA season.** [03:30](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s)
 
@@ -1784,7 +1784,7 @@ Social: Wes Edens says this is a unique NBA season because there are no tanking 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=210s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=210&q=4)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=210&q=4) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=210&q=4&slack=1)</small>
 
 **5. Miles Turner (Milwaukee Bucks) — Miles Turner emphasizes that the team is focused on the work required to win** [1:05:30](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s)
 
@@ -1796,7 +1796,7 @@ Social: Miles Turner says the team is focused on the work required to win, stati
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=3930s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3930&q=5)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=3930&q=5) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=3930&q=5&slack=1)</small>
 
 **6. Jaime Jaquez Jr. (Milwaukee Bucks) — Jaime Jaquez Jr. discusses his trade to Milwaukee and his experience acclimating to the city.** [2:02:03](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s)
 
@@ -1808,7 +1808,7 @@ Social: Jaime Jaquez Jr. on his trade to Milwaukee. I was told that you are not 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7323s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7323&q=6)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7323&q=6) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7323&q=6&slack=1)</small>
 
 **7. Wes Edens (Milwaukee Bucks) — Wes Edens reflects on the success of the Giannis Antetokounmpo era and the team's championship history.** [05:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s)
 
@@ -1820,7 +1820,7 @@ Social: Wes Edens says it has been a huge blessing to have Giannis Antetokounmpo
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=331s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=331&q=7)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=331&q=7) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=331&q=7&slack=1)</small>
 
 **8. Ryan Rollins (Milwaukee Bucks) — Ryan Rollins identifies consistency and efficiency as his main goals for the season** [1:12:09](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s)
 
@@ -1832,7 +1832,7 @@ Social: Ryan Rollins says his biggest goal this season is being consistent on bo
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4329s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4329&q=8)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4329&q=8) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=4329&q=8&slack=1)</small>
 
 **9. AJ Green (Milwaukee Bucks) — AJ Green expresses excitement for the upcoming season and the opportunity to establish the team's identity.** [2:03:53](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s)
 
@@ -1844,7 +1844,7 @@ Social: AJ Green is ready to get to work. It is another opportunity for myself a
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7433s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7433&q=9)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7433&q=9) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7433&q=9&slack=1)</small>
 
 **10. John Horst (Milwaukee Bucks) — John Horst praises Gary Trent Jr. as an elite shooter and key playoff contributor.** [20:33](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s)
 
@@ -1856,7 +1856,7 @@ Social: John Horst says Gary Trent Jr. is an elite shooter and was big for the t
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1233s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1233&q=10)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1233&q=10) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=1233&q=10&slack=1)</small>
 
 **11. Kevin Porter Jr. (Milwaukee Bucks) — Kevin Porter Jr. says his knee feels great after dealing with injuries last season** [1:15:31](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s)
 
@@ -1868,7 +1868,7 @@ Social: Kevin Porter Jr. says he is feeling healthy and excited for the upcoming
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4531s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4531&q=11)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4531&q=11) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=4531&q=11&slack=1)</small>
 
 **12. Khris Middleton (Milwaukee Bucks) — Khris Middleton reflects on the departure of a former teammate and looking forward to the new team.** [2:05:21](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s)
 
@@ -1880,7 +1880,7 @@ Social: Khris Middleton on the departure of a former teammate. Obviously a great
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7521s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7521&q=12)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7521&q=12) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7521&q=12&slack=1)</small>
 
 **13. Taylor Jenkins (Milwaukee Bucks) — Taylor Jenkins is described as a teacher who focuses on player development.** [22:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s)
 
@@ -1892,7 +1892,7 @@ Social: Taylor Jenkins is a tremendous teacher who focuses on player improvement
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=1324s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1324&q=13)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=1324&q=13) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=1324&q=13&slack=1)</small>
 
 **14. Kelel Ware (Milwaukee Bucks) — Kelel Ware says he is looking forward to the freedom to hoop with his new team** [1:17:04](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s)
 
@@ -1904,7 +1904,7 @@ Social: Kelel Ware says he is looking forward to the freedom to play with his ne
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=4624s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4624&q=14)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=4624&q=14) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=4624&q=14&slack=1)</small>
 
 **15. Kyle Kuzma (Milwaukee Bucks) — Kyle Kuzma reflects on reaching his 10th season in the NBA.** [2:07:01](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s)
 
@@ -1916,7 +1916,7 @@ Social: Kyle Kuzma on reaching his 10th season in the NBA. This is my 10th year 
 
 [https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s](https://www.youtube.com/watch?v=HJXQJQhTrfI&t=7621s)
 
-<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7621&q=15)</small>
+<small>[Clip it](presserclips://clip?v=HJXQJQhTrfI&t=7621&q=15) · [Send to Slack](presserclips://clip?v=HJXQJQhTrfI&t=7621&q=15&slack=1)</small>
 
 ---
 

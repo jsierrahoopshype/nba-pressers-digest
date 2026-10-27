@@ -12,7 +12,7 @@ _Speakers identified: Oso Ighodaro, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=8s](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=8s)
 
-<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=8&q=1)</small>
+<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=8&q=1) · [Send to Slack](presserclips://clip?v=FLTuE-gLRyQ&t=8&q=1&slack=1)</small>
 
 **2. Oso Ighodaro — "I just believe in the way we're doing things. I love playing for JO." — Oso Ighodaro on his trust in the Suns' current direction** [00:29](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=29s)
 
@@ -22,7 +22,7 @@ _Speakers identified: Oso Ighodaro, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=29s](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=29s)
 
-<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=29&q=2)</small>
+<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=29&q=2) · [Send to Slack](presserclips://clip?v=FLTuE-gLRyQ&t=29&q=2&slack=1)</small>
 
 **3. Oso Ighodaro — "Miles definitely brings a different dynamic with his athleticism and force to the rim." — Oso Ighodaro on the versatility of teammate Bol Bol** [01:26](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=86s)
 
@@ -32,7 +32,7 @@ _Speakers identified: Oso Ighodaro, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=86s](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=86s)
 
-<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=86&q=3)</small>
+<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=86&q=3) · [Send to Slack](presserclips://clip?v=FLTuE-gLRyQ&t=86&q=3&slack=1)</small>
 
 **4. Oso Ighodaro — "Everyone is trying to play faster, everyone is trying to pressure the ball and lengthen possessions." — Oso Ighodaro on the evolution of NBA play styles** [02:19](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=139s)
 
@@ -42,7 +42,7 @@ _Speakers identified: Oso Ighodaro, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=139s](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=139s)
 
-<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=139&q=4)</small>
+<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=139&q=4) · [Send to Slack](presserclips://clip?v=FLTuE-gLRyQ&t=139&q=4&slack=1)</small>
 
 **5. Oso Ighodaro — "If we can force teams into making that move the ball side-to-side, it's an advantage for us." — Oso Ighodaro on the impact of aggressive play on ball movement** [03:03](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=183s)
 
@@ -52,4 +52,4 @@ _Speakers identified: Oso Ighodaro, Unidentified speaker_
 
 [https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=183s](https://www.youtube.com/watch?v=FLTuE-gLRyQ&t=183s)
 
-<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=183&q=5)</small>
+<small>[Clip it](presserclips://clip?v=FLTuE-gLRyQ&t=183&q=5) · [Send to Slack](presserclips://clip?v=FLTuE-gLRyQ&t=183&q=5&slack=1)</small>

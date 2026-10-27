@@ -10,7 +10,7 @@ Myles Turner: "First and foremost, it's good to get that first one out the way. 
 
 [https://www.youtube.com/watch?v=5jdCx7eyYT8&t=9s](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=9s)
 
-<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=9&q=1)</small>
+<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=9&q=1) · [Send to Slack](presserclips://clip?v=5jdCx7eyYT8&t=9&q=1&slack=1)</small>
 
 **2. Myles Turner — "I just want to impact winning, and I think that's been Taylor's message to me" — Myles Turner on his defensive impact and team accountability** [00:56](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=56s)
 
@@ -18,7 +18,7 @@ Myles Turner: "The biggest thing about me is I just want to impact winning, and 
 
 [https://www.youtube.com/watch?v=5jdCx7eyYT8&t=56s](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=56s)
 
-<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=56&q=2)</small>
+<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=56&q=2) · [Send to Slack](presserclips://clip?v=5jdCx7eyYT8&t=56&q=2&slack=1)</small>
 
 **3. Myles Turner — "One thing I like about Nate is the entire time, it's just steady confidence" — Myles Turner on Nate's steady confidence and defensive performance** [02:12](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=132s)
 
@@ -26,7 +26,7 @@ Myles Turner: "**Nate** has had a couple of his moments so far, but it was final
 
 [https://www.youtube.com/watch?v=5jdCx7eyYT8&t=132s](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=132s)
 
-<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=132&q=3)</small>
+<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=132&q=3) · [Send to Slack](presserclips://clip?v=5jdCx7eyYT8&t=132&q=3&slack=1)</small>
 
 **4. Myles Turner — "He holds everybody to the same standard no matter who the player is" — Myles Turner on Taylor Jenkins' coaching and team accountability** [03:09](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=189s)
 
@@ -34,7 +34,7 @@ Myles Turner: "I really rock with **Taylor**, who he is as a person and what he 
 
 [https://www.youtube.com/watch?v=5jdCx7eyYT8&t=189s](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=189s)
 
-<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=189&q=4)</small>
+<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=189&q=4) · [Send to Slack](presserclips://clip?v=5jdCx7eyYT8&t=189&q=4&slack=1)</small>
 
 **5. Myles Turner — "I like to call it youthful exuberance. You got guys that are 20, 22 years old" — Myles Turner on mentoring young players and maintaining energy** [03:54](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=234s)
 
@@ -42,7 +42,7 @@ Myles Turner: "I like to call it youthful exuberance. You got guys that are 20, 
 
 [https://www.youtube.com/watch?v=5jdCx7eyYT8&t=234s](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=234s)
 
-<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=234&q=5)</small>
+<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=234&q=5) · [Send to Slack](presserclips://clip?v=5jdCx7eyYT8&t=234&q=5&slack=1)</small>
 
 **6. Myles Turner — "I can't control the future. I can control what I can do day in and day out" — Myles Turner on focusing on the present over future uncertainty** [04:45](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=285s)
 
@@ -50,4 +50,4 @@ Myles Turner: "I can't control the future. I can control what I can do day in an
 
 [https://www.youtube.com/watch?v=5jdCx7eyYT8&t=285s](https://www.youtube.com/watch?v=5jdCx7eyYT8&t=285s)
 
-<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=285&q=6)</small>
+<small>[Clip it](presserclips://clip?v=5jdCx7eyYT8&t=285&q=6) · [Send to Slack](presserclips://clip?v=5jdCx7eyYT8&t=285&q=6&slack=1)</small>
