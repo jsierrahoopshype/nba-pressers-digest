@@ -7,7 +7,9 @@ Two ways in:
     `make_presser_clips.py --link URL`, which renders that one quote in your
     default formats, shows progress and closes. Every part of the link is
     checked strictly (video id pattern, whole seconds, a quote that exists in
-    the digest data); anything else is refused.
+    the digest data); anything else is refused. The "Send to Slack" link is
+    the same link plus slack=1: it makes the clip the same way (or finds it
+    already made), then sends it to #socialmedia (see send_to_slack).
   * the desktop shortcut: a numbered pick-list of the latest cloud run.
 
 For each quote:
@@ -111,6 +113,10 @@ if hasattr(sys.stdout, "reconfigure"):
 
 REPO_RAW = "https://raw.githubusercontent.com/jsierrahoopshype/nba-pressers-digest/main/pressers_v2"
 MANIFEST_URL = f"{REPO_RAW}/output/latest_clips.json"
+# "Send to Slack": the hh-slack-video-poster Worker (no key; it only accepts
+# digest quotes and only posts to #socialmedia, see its worker/src/sendclip.js)
+SLACK_SEND_URL = "https://hh-slack-video-poster.thejorgesierra.workers.dev/send-clip"
+SLACK_MAX_BYTES = 150 * 1024 * 1024       # the Worker's per-file limit
 SETTINGS_PATH = HERE / "settings.json"
 
 PAD_SECS = 0.5
@@ -1310,6 +1316,7 @@ def make_clip(clip: dict, out_root: Path, formats: list, ffmpeg: str, pad: float
 
 # --------------------------------------------------------------------------- #
 # "Clip it" links: presserclips://clip?v=<video id>&t=<seconds>&q=<quote no.>
+# "Send to Slack" links: the same plus &slack=1
 # --------------------------------------------------------------------------- #
 
 LINK_SCHEME = "presserclips"
@@ -1322,8 +1329,15 @@ class BadLink(ValueError):
 
 
 def parse_clip_link(url) -> tuple:
-    """(video_id, seconds, quote number) from a digest "Clip it" link.
-    Anything but exactly presserclips://clip?v=..&t=..&q=.. is refused:
+    """(video_id, seconds, quote number) from a digest "Clip it" or "Send to
+    Slack" link (see parse_clip_link_opts)."""
+    return parse_clip_link_opts(url)[:3]
+
+
+def parse_clip_link_opts(url) -> tuple:
+    """(video_id, seconds, quote number, send to Slack) from a digest link.
+    Anything but exactly presserclips://clip?v=..&t=..&q=.. (optionally
+    followed by &slack=1, nothing else) is refused:
     other hosts or paths, extra or repeated parameters, fragments, spaces,
     non-ASCII, a video id that isn't 11 [A-Za-z0-9_-], non-integer numbers."""
     if not isinstance(url, str) or not 0 < len(url) <= 200:
@@ -1340,17 +1354,19 @@ def parse_clip_link(url) -> tuple:
     except ValueError:
         raise BadLink("unreadable parameters")
     keys = [k for k, _ in pairs]
-    if sorted(keys) != ["q", "t", "v"]:
+    if sorted(keys) not in (["q", "t", "v"], ["q", "slack", "t", "v"]):
         raise BadLink("the link must have exactly v, t and q")
     values = dict(pairs)
     for key, rule in _LINK_RULES.items():
         if not rule.fullmatch(values[key]):
             raise BadLink(f"bad {key}")
-    return values["v"], int(values["t"]), int(values["q"])
+    if values.get("slack", "1") != "1":
+        raise BadLink("bad slack")
+    return values["v"], int(values["t"]), int(values["q"]), "slack" in values
 
 
-def clip_link(video_id: str, secs: int, rank: int) -> str:
-    return f"{LINK_SCHEME}://clip?v={video_id}&t={int(secs)}&q={int(rank)}"
+def clip_link(video_id: str, secs: int, rank: int, slack: bool = False) -> str:
+    return f"{LINK_SCHEME}://clip?v={video_id}&t={int(secs)}&q={int(rank)}" + ("&slack=1" if slack else "")
 
 
 def find_linked_quote(video_id: str, secs: int, rank: int, clips: list, fetch=fetch_json) -> dict | None:
@@ -1376,15 +1392,88 @@ def find_linked_quote(video_id: str, secs: int, rank: int, clips: list, fetch=fe
     return None
 
 
+# --------------------------------------------------------------------------- #
+# "Send to Slack": the quote's finished clips to #socialmedia
+# --------------------------------------------------------------------------- #
+
+class SlackSendError(Exception):
+    """Why a clip wasn't sent to Slack, in plain English."""
+
+
+def _post_json(url: str, payload: dict, timeout: int = 60) -> dict:
+    req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), method="POST",
+                                 headers={"Content-Type": "application/json",
+                                          "User-Agent": "nba-presser-clips/2.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout, context=_ssl_context()) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        try:
+            why = json.loads(e.read().decode("utf-8")).get("error")
+        except Exception:
+            why = None
+        raise SlackSendError(why or f"the Slack sender answered HTTP {e.code}")
+    except (urllib.error.URLError, OSError, ValueError):
+        raise SlackSendError("couldn't reach the Slack sender. Check the internet connection and try again")
+
+
+def _upload_file(upload_url: str, path: Path, timeout: int = 900) -> None:
+    """The MP4's bytes straight to the one-time Slack upload address the
+    Worker got for it (nothing else goes there)."""
+    parts = urllib.parse.urlsplit(upload_url)
+    if parts.scheme != "https" or not (parts.hostname or "").endswith(".slack.com"):
+        raise SlackSendError("the Slack sender gave an unexpected upload address")
+    size = path.stat().st_size
+    with open(path, "rb") as fh:
+        req = urllib.request.Request(upload_url, data=fh, method="POST",
+                                     headers={"Content-Type": "application/octet-stream",
+                                              "Content-Length": str(size),
+                                              "User-Agent": "nba-presser-clips/2.0"})
+        try:
+            with urllib.request.urlopen(req, timeout=timeout, context=_ssl_context()) as resp:
+                resp.read()
+        except urllib.error.HTTPError as e:
+            raise SlackSendError(f"Slack refused the {path.stem} upload (HTTP {e.code})")
+        except (urllib.error.URLError, OSError):
+            raise SlackSendError(f"the {path.stem} upload to Slack was cut off. Try again")
+
+
+def send_to_slack(clip: dict, out_root: Path, formats: list, video_id: str, secs: int, rank: int,
+                  post=_post_json, upload=_upload_file) -> str:
+    """Send this quote's clips in `formats` (those in its folder) as one
+    #socialmedia message. Returns the channel name; raises SlackSendError."""
+    folder = quote_folder(out_root, clip)
+    files = [(fmt, folder / f"{fmt}.mp4") for fmt in FORMAT_ORDER
+             if fmt in formats and fmt in made_formats(out_root, clip)]
+    if not files:
+        raise SlackSendError("there's no finished clip of this quote to send")
+    for fmt, path in files:
+        if path.stat().st_size > SLACK_MAX_BYTES:
+            raise SlackSendError(f"the {fmt} clip is {human_size(path.stat().st_size)}, over Slack sending's "
+                                 f"{human_size(SLACK_MAX_BYTES)} limit")
+    start = post(f"{SLACK_SEND_URL}/start", {
+        "v": video_id, "t": int(secs), "q": int(rank),
+        "files": [{"format": fmt, "size": path.stat().st_size} for fmt, path in files]})
+    paths = dict(files)
+    uploads = start.get("uploads") or []
+    if not start.get("send_id") or sorted(u.get("format") for u in uploads) != sorted(paths):
+        raise SlackSendError("the Slack sender gave an unexpected answer")
+    for u in uploads:
+        say(f"    uploading {u['format']} ({human_size(paths[u['format']].stat().st_size)})...")
+        upload(u["upload_url"], paths[u["format"]])
+    done = post(f"{SLACK_SEND_URL}/finish", {"send_id": start["send_id"]})
+    return str(done.get("channel") or "#socialmedia")
+
+
 def run_link(url: str) -> int:
-    """What a click on "Clip it" runs: no questions, progress on screen, the
-    window closes by itself."""
+    """What a click on "Clip it" (or "Send to Slack") runs: no questions,
+    progress on screen, the window closes by itself."""
     log_line("link-log.txt", f"link received: {url[:200]!r}")
     say("=" * 60)
     say(f"  {APP_NAME}")
     say("=" * 60)
     try:
-        video_id, secs, rank = parse_clip_link(url)
+        video_id, secs, rank, slack = parse_clip_link_opts(url)
     except BadLink as e:
         log_line("link-log.txt", f"refused: {e}")
         say(f"[X] That isn't a valid clip link ({e}). Nothing was done.")
@@ -1415,6 +1504,16 @@ def run_link(url: str) -> int:
         f"formats: {', '.join(formats)}\n")
     rc = render_all([clip], out_root, formats, ffmpeg, PAD_SECS, False)
     log_line("link-log.txt", f"done rc={rc} {video_id} {secs}s q{rank}")
+    if slack:
+        say("\nSending to Slack...")
+        try:
+            where = send_to_slack(clip, out_root, formats, video_id, secs, rank)
+            say(f"Sent to {where}.")
+            log_line("link-log.txt", f"sent to Slack {video_id} {secs}s q{rank}")
+        except SlackSendError as e:
+            say(f"[X] Not sent to Slack: {str(e).rstrip('.')}.")
+            log_line("link-log.txt", f"Slack send failed {video_id} {secs}s q{rank}: {e}")
+            rc = rc or 1
     return link_close(rc)
 
 
