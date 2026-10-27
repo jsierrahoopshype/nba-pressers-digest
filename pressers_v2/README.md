@@ -2,7 +2,9 @@
 
 The current pipeline. The original `scripts/` folder is kept as is; its workflow (`daily-digest.yml`) has been removed.
 
-Three times a day (06:15, 14:15, 20:15 UTC) GitHub Actions polls the 30 NBA team
+Every hour overnight (01:23-10:23 UTC, the `overnight` slot: one shared
+`digest-overnight.md` and run id per night, no "no new videos" Slack posts) and
+twice in the day (14:15, 20:15 UTC) GitHub Actions polls the 30 NBA team
 YouTube channels, keeps press conferences / postgame / pregame / media
 availability videos published in the last 48h, sends each one to Gemini
 (`gemini-3.1-flash-lite`) and publishes:
