@@ -1,0 +1,444 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Practice | October 27, 2026",
+  "speakers_seen": [
+    "RJ Barrett",
+    "Scottie Barnes",
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:19",
+      "summary_phrase": "RJ Barrett on Kawhi Leonard's injury and team resilience",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Injuries are a part of the game. That's why you have a whole team.",
+      "quote": "Injuries are a part of the game. Obviously we wish everybody could play every game, but injuries are a part of the game. That's why you have a whole team. Obviously, we hope that he recovers and comes back as fast as possible, because as you can see when he's in the lineup, how much it changes our team. But until he gets back, we got to figure it out. We can't just let go of the rope. We can't just have games like we did in Minnesota.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "RJ Barrett on the Raptors adjusting to Kawhi Leonard's absence: Injuries are a part of the game. We hope he recovers as fast as possible, but until he gets back, we got to figure it out. We can't just let go of the rope.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "RJ Barrett discusses the team approach to dealing with Kawhi Leonard's current injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "RJ Barrett",
+      "timestamp": "01:12",
+      "summary_phrase": "RJ Barrett on building team resilience through early season injuries",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "We've built up a resiliency that way, and just also knowing other teams, like we play Orlando",
+      "quote": "We've already even in years past had some injuries that we have to to overcome. I mean we still made the playoffs and stuff. Kawhi was out a lot of games, Jakob was down a lot last year. So we've built up a resiliency that way, and just also knowing other teams, like we play Orlando next two games, they're down two starters right now. So it's not just us, it's happening to other other people. So we got to be ready to give everybody our best shot.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett says the Raptors are leaning on past experience to handle early season injuries: We've built up a resiliency that way. It's not just us, it's happening to other people. So we got to be ready to give everybody our best shot.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard",
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "RJ Barrett reflects on the team's history of overcoming injuries to key players like Kawhi Leonard and Jakob Poeltl.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:36",
+      "summary_phrase": "RJ Barrett on the team's next-man-up mentality",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Immanuel Quickley"
+      ],
+      "excerpt": "It's next man up mentality. He started a lot of games for me last year when I was out.",
+      "quote": "I don't think he need any help. He didn't look like he needed help to me. No, he got it. He got it. He's been, said we've been, we've been through this before. So it's next man up mentality. He started a lot of games for me last year when I was out, like started for Quick in stuff when he was out like, so guys are ready. We're ready for this moment.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett on the next man up mentality for the Raptors: He's been through this before. So it's next man up mentality. Guys are ready. We're ready for this moment.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the team's next-man-up mentality in response to player absences.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "RJ Barrett",
+      "timestamp": "03:05",
+      "summary_phrase": "RJ Barrett on Gradey Dick's development and hard play",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "You can clean up some of those areas just by playing hard.",
+      "quote": "He plays hard. That's one way to, there's certain things as a rookie that you just don't know yet and there's no other way than going out there on the court and getting that experience. But you can clean up some of those areas just by playing hard. Crashing all the time, getting all the rebounds that he's getting, and he played, he got to some stuff offensively as well last game. So just continue to play hard, do all the little effort things, and your game will open up.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett on Gradey Dick's development: There's no other way than going out there on the court and getting that experience. But you can clean up some of those areas just by playing hard. Your game will open up.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett provides an assessment of rookie Gradey Dick's development and his effort on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "RJ Barrett",
+      "timestamp": "03:32",
+      "summary_phrase": "RJ Barrett on the mental challenge of being a young NBA player",
+      "names_mentioned": [],
+      "excerpt": "It's the best players in the world, man. So it's very different. It's a completely different pace.",
+      "quote": "It's the best players in the world, man. So it's very different. It's a completely different pace to the game, better players, bigger, stronger players. So like I said, just playing hard and continuing to watch the film just to figure out where you could be effective on the court, especially specifically with the team you're on and you know how the system goes. But there's no substitute for for hustle. You get a steal, some rebounds, like you get yourself involved in the game that way.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 245,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "RJ Barrett on the transition to the NBA: It's the best players in the world. It's a completely different pace to the game, better players, bigger, stronger players. There's no substitute for hustle.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the challenges young players face when adjusting to the pace and physicality of the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Scottie Barnes",
+      "timestamp": "07:03",
+      "summary_phrase": "Scottie Barnes on maintaining focus during injury absences",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "We got to hold the fort down for my boy when he come back.",
+      "quote": "We got to hold the fort down for my boy when he come back. And so.",
+      "text_blocks": [],
+      "start_seconds": 423,
+      "end_seconds": 429,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on the team's mindset while waiting for Kawhi Leonard to return: We got to hold the fort down for my boy when he come back.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes comments on the team's need to maintain performance while waiting for Kawhi Leonard to return from injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Scottie Barnes",
+      "timestamp": "07:24",
+      "summary_phrase": "Scottie Barnes on learning from tough losses",
+      "names_mentioned": [],
+      "excerpt": "Just look back at it. You still go over the tape, see what you could have did.",
+      "quote": "Just look back at it. You still go over the tape, see what you could have did. Shots wasn't falling for real. It is what it is. Just find that ways how you can impact it. Still feel like I did a great job defensively. Just come out with something positive. Go to the next game, go back home. We got a next game tomorrow. That's all you really got to do.",
+      "text_blocks": [],
+      "start_seconds": 444,
+      "end_seconds": 472,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on bouncing back from a tough shooting night: Shots wasn't falling for real. It is what it is. Just find that ways how you can impact it. Still feel like I did a great job defensively.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses his process for reviewing game film and maintaining a positive mindset after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Scottie Barnes",
+      "timestamp": "07:52",
+      "summary_phrase": "Scottie Barnes on missed opportunities and defensive impact",
+      "names_mentioned": [],
+      "excerpt": "I feel like all the shots obviously I missed a lot of open shots, my threes wide open.",
+      "quote": "I feel like all the shots obviously I missed a lot of open shots, my threes wide open. Of course the helping in threes open. You know, obviously my middies wasn't falling, they had help in the paint. So come really try to get all the way to the rim. Obviously miss some easy ones as well, but on defensive man I feel like I still had a great impact. So like I said, just look for a positive. It is what it is, go to the next game, try to go dominate.",
+      "text_blocks": [],
+      "start_seconds": 472,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on his offensive struggles: I feel like all the shots obviously I missed a lot of open shots. My middies wasn't falling, they had help in the paint. So come really try to get all the way to the rim.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes reflects on his shooting performance and his defensive impact in a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Scottie Barnes",
+      "timestamp": "08:33",
+      "summary_phrase": "Scottie Barnes on maintaining offensive system without Kawhi Leonard",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Nothing really changes. We just play within our system and be aggressive out of it.",
+      "quote": "Nothing really changes. We just play within our system and be aggressive out of it.",
+      "text_blocks": [],
+      "start_seconds": 513,
+      "end_seconds": 519,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes on how the Raptors offense changes without Kawhi Leonard: Nothing really changes. We just play within our system and be aggressive out of it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains that the team's offensive system remains unchanged despite Kawhi Leonard's absence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "10:14",
+      "summary_phrase": "Darko Rajakovic on defensive struggles and first-quarter shooting",
+      "names_mentioned": [],
+      "excerpt": "They made a lot of threes, lot of contested threes in the first quarter.",
+      "quote": "We had a rough start there. They made a lot of threes, lot of contested threes in the first quarter. They were I believe 6-for-8 and in the first quarter we were 1-for-10. I thought that our shots were good, they just did not fall. You know, I always go to who do we have on the floor and how do we maximize those guys. And I thought that there were opportunities for us there that we were trying to find a way.",
+      "text_blocks": [],
+      "start_seconds": 614,
+      "end_seconds": 646,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on the Raptors' rough start against their opponent: We had a rough start there. They made a lot of threes, lot of contested threes in the first quarter. I thought that our shots were good, they just did not fall.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic analyzes the team's poor shooting start and defensive struggles in the first quarter of a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "11:03",
+      "summary_phrase": "Darko Rajakovic on viewing roster adversity as opportunity",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Always when we're looking at everything that's thrown at us, we look at that as opportunity.",
+      "quote": "Always when we're looking at everything that's thrown at us, we look at that as opportunity. I think when Kawhi is not playing, obviously that's missing a very important piece, but that opens up a lot of opportunities for other guys. And it really gives us opportunity to work on our connectivity and our togetherness, and we have enough talent, we have enough on the team that we can overcome that. We just got to be very intentional with the work.",
+      "text_blocks": [],
+      "start_seconds": 663,
+      "end_seconds": 694,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic views Kawhi Leonard's absence as an opportunity for the rest of the roster: That opens up a lot of opportunities for other guys. It really gives us opportunity to work on our connectivity and our togetherness.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic discusses viewing the roster adversity caused by Kawhi Leonard's injury as an opportunity for the rest of the team.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "12:16",
+      "summary_phrase": "Darko Rajakovic on player development and team chemistry",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "We're really focusing on guys that are here and definitely there are a lot of opportunities.",
+      "quote": "We're really focusing on guys that are here and definitely there are a lot of opportunities over here in this situation. We're going to take a look at the film game-to-game. We're going to look for areas that we can improve, and I'm sure that through work of the coaches and players and everybody, I think we're going to find some some good solutions for us.",
+      "text_blocks": [],
+      "start_seconds": 736,
+      "end_seconds": 761,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic on the team's path forward: We're going to take a look at the film game-to-game. We're going to look for areas that we can improve, and I'm sure that through work of the coaches and players, we're going to find some good solutions.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic talks about the team's focus on player development and finding solutions through film study.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "12:59",
+      "summary_phrase": "Darko Rajakovic on Scottie Barnes' three-point shooting improvement",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "I think that he has improved his three ball a lot.",
+      "quote": "I think that when Scottie is shooting threes, that's good for us. I think that he has improved his three ball a lot. We also dealt with a little bit different schemes from teams, especially like Washington that they really allowed him and invited him to shoot a lot of mid-range shots, and he was very efficient shooting those shots. And there is like always like talking about what is that balance, right? So we do need Scottie to to live in the paint and then to score at the rim, and he just needs to to you know, to put that emphasis on that game.",
+      "text_blocks": [],
+      "start_seconds": 779,
+      "end_seconds": 820,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic on Scottie Barnes' development: I think that when Scottie is shooting threes, that's good for us. We do need Scottie to live in the paint and then to score at the rim, and he just needs to put that emphasis on that game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates Scottie Barnes' shooting development and the balance between his perimeter and interior play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "16:04",
+      "summary_phrase": "Darko Rajakovic on second unit defensive identity",
+      "names_mentioned": [],
+      "excerpt": "Our second unit, they they get their identity through defense, first and foremost.",
+      "quote": "I think our second unit, they they get their identity through defense, first and foremost, to be able to create more steals, to be able to to get more energy of us running in transition. And I think in a half court there has to be good balance of us trying to create team offense and him being aggressive to touch the paint. You know, when he's touching the paint, he's very efficient for us. He's elite in finding his teammates and and finding shots for them. He's elite in finding the bigs in the pocket pass. We just need him to be more aggressive and then to to be more himself.",
+      "text_blocks": [],
+      "start_seconds": 964,
+      "end_seconds": 1007,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on the second unit's identity: I think our second unit, they get their identity through defense, first and foremost, to be able to create more steals, to be able to get more energy of us running in transition.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the defensive identity of the second unit and his expectations for Scottie Barnes' aggressiveness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "H-Ova8cEqx4",
+  "url": "https://www.youtube.com/watch?v=H-Ova8cEqx4",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-27T18:57:42Z",
+  "duration_seconds": 1074,
+  "processed_at": "2026-10-27T19:26:04Z",
+  "run_id": "2026-10-27T1925Z-14utc",
+  "is_one_off": false
+}

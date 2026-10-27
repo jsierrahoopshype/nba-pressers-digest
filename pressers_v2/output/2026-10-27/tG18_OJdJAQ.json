@@ -1,0 +1,161 @@
+{
+  "video_title": "Tyler Herro Postgame Media Availability | 10.26.26",
+  "speakers_seen": [
+    "Tyler Herro"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:16",
+      "summary_phrase": "Tyler Herro on the importance of defensive rotation and help",
+      "names_mentioned": [],
+      "excerpt": "one guy goes to help, next guy covers for him, next guy covers for him",
+      "quote": "Obviously for us, I think it starts on the defensive end. Being in our shifts, helping each other, covering for each other. One guy goes to help, next guy covers for him, next guy covers for him and just continuing to rotate. I thought we did that well tonight down the stretch and really throughout the game. I think it started last game in Philly and carried over to tonight, and that's what we're looking for, just continuing to build, continuing to get better every single game, every single practice.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyler Herro says the Bucks defensive improvement starts with being in their shifts and helping each other. He believes the team is finally building the right habits after carrying over their defensive intensity from the Philly game.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses the importance of defensive rotations and team effort following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:56",
+      "summary_phrase": "Tyler Herro on the surreal experience of playing for the Bucks",
+      "names_mentioned": [
+        "Morgan",
+        "Prince Fielder",
+        "Ryan Braun",
+        "Corey Hart",
+        "Ricky Weeks"
+      ],
+      "excerpt": "I'm obviously a big Brewers fan my entire life.",
+      "quote": "It's surreal. You can't even really put it into words. It's unimaginable, honestly, just being able to be here for that. Obviously playing for my hometown is one thing. I'm obviously a big Brewers fan my entire life. I remember being in 2018, I was at Kentucky, they were one or two games away from going to the World Series in 2018. So I've been through it all with them, I feel like, and been there the whole ride, being able to support them. So it's cool to be home and see how successful they are and they're one game away from winning the World Series. Now it's incredible.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyler Herro describes the experience of playing for his hometown team as surreal. He reflects on his lifelong fandom of Milwaukee sports and how special it is to be home during such a successful run for the city.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro describes the experience of playing for his hometown team and his support for the Milwaukee Brewers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyler Herro",
+      "timestamp": "02:27",
+      "summary_phrase": "Tyler Herro on the team's need to stack wins",
+      "names_mentioned": [],
+      "excerpt": "We don't want to take a step forward and then take two steps back.",
+      "quote": "You know, obviously our approach, we're a young group. I think being able to come in and continue to stack days. We don't want to take a step forward and then take two steps back. We're just continuing to grow, continuing to get better. Obviously, our defensive turnover from the last game to tonight was better, and just continuing to grow on that, continuing to be organized on offense, playing with each other, playing the right way, I think is going to go a long way.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyler Herro emphasizes the importance of consistency for this young Bucks group. He says the goal is to stack days and avoid taking steps backward as they continue to get organized on offense and play the right way.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro talks about the young team's approach to consistency and growth throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyler Herro",
+      "timestamp": "03:01",
+      "summary_phrase": "Tyler Herro on his personal adjustment to the Bucks",
+      "names_mentioned": [],
+      "excerpt": "not getting too high, not getting too low. That's what I've learned throughout my career.",
+      "quote": "Been in the league eight years now. It's crazy to say, but just not getting too high, not getting too low. That's what I've learned throughout my career. Some nights will be your nights, some nights are not. Figure out ways to impact winning, and with the young group, just trying to be a good, not really role model, but just set good examples, showing good habits, coming in and working hard every day. I'm still getting comfortable, trying to be more aggressive, continue to set my teammates up, but I'll continue to get better as the season goes on.",
+      "text_blocks": [],
+      "start_seconds": 181,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Entering his eighth season, Tyler Herro says he is focused on not getting too high or too low. He is working to set good examples for his younger teammates while still getting comfortable and finding ways to be more aggressive.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro reflects on his eight-year career and his role as a veteran leader for a young team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyler Herro",
+      "timestamp": "04:04",
+      "summary_phrase": "Tyler Herro on adjusting to new defensive responsibilities",
+      "names_mentioned": [],
+      "excerpt": "Coach wants us pretty much all tagging up, all crashing the glass, being on the top side.",
+      "quote": "It's new for me as well. In Miami, I usually was the one getting back on defense on the shot, and now it's like, coach wants us pretty much all tagging up, all crashing the glass, being on the top side. So it's an adjustment for me, but honestly, we do it every single day. It's a big part of what we do, and it's a cool opportunity to do something new, because I wouldn't do that in Miami. So it's like, I'm doing something new, so I appreciate it.",
+      "text_blocks": [],
+      "start_seconds": 244,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyler Herro notes a major adjustment in his defensive role with the Bucks compared to his time in Miami. He says he is now expected to crash the glass and play top side, calling it a cool opportunity to do something new.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Tyler Herro explains the adjustments he is making to his defensive responsibilities compared to his time in Miami.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "tG18_OJdJAQ",
+  "url": "https://www.youtube.com/watch?v=tG18_OJdJAQ",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T17:19:58Z",
+  "duration_seconds": 317,
+  "processed_at": "2026-10-27T19:25:52Z",
+  "run_id": "2026-10-27T1925Z-14utc",
+  "is_one_off": false
+}
