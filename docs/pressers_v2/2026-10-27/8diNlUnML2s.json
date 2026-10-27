@@ -1,0 +1,172 @@
+{
+  "video_title": "Hornets vs Wizards: Moussa Diabate Postgame Media Availability | 10/26/2026",
+  "speakers_seen": [
+    "Moussa Diabate"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:25",
+      "summary_phrase": "Moussa Diabate on the importance of playing with high energy",
+      "names_mentioned": [],
+      "excerpt": "I am a firm believer that you play with the right way, the right energy, good things is going to happen.",
+      "quote": "I think that is just something I am trying to do every time no matter what. No matter who it is, no matter what it is, trying to play as hard as I can. I really want to emphasize on playing with energy. I am a firm believer that you play with the right way, the right energy, good things is going to happen, whether it is going to show up in the stats or not. For me, that is just what I am trying to do every day, just trying to stay locked in and trying to play with energy.",
+      "verbatim_original_language": "",
+      "start_seconds": 25,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Moussa Diabate says his focus remains on playing with high energy every night regardless of the opponent. He believes that if you play the right way good things are going to happen whether it shows up in the stats or not.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate discusses his personal focus on playing with high energy during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Moussa Diabate",
+      "timestamp": "01:09",
+      "summary_phrase": "Moussa Diabate on earning his rotation spot through rebounding",
+      "names_mentioned": [
+        "Charles Lee"
+      ],
+      "excerpt": "The main way that I got a chance to get in the rotation was because I was rebounding the ball.",
+      "quote": "I think that is just something I kind of figured out as we were playing the first three. The main way that I got a chance to get in the rotation was because I was rebounding the ball, playing hard, and I just stuck with it. When you find your niche, you are trying to stick with it as much as you can. That is really what it was. It was just an understanding and awareness that, okay, cool, you can rebound the ball, let's do it and emphasize on that.",
+      "verbatim_original_language": "",
+      "start_seconds": 69,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Moussa Diabate credits his rebounding and hard play for earning his spot in the Hornets rotation. He says once you find your niche you have to stick with it as much as you can.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate explains how his rebounding ability helped him earn a spot in the team rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Moussa Diabate",
+      "timestamp": "02:39",
+      "summary_phrase": "Moussa Diabate on the team's trust in Brandon Miller",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "We all trust him with the ball. That is the whole reason why he got paid.",
+      "quote": "It is great. I think that we all trust him. We all trust him with the ball. That is the whole reason why he got paid. At the end of the day, there is no second thoughts of who is going to get the ball, whether he makes it or misses it, we are riding with him. So, yeah, that is really what it comes down to. No matter what, I don't know how the teams do it, but for me, at least for my mindset, and the whole entire team, entire organization, we trust him with the ball, no matter what it is.",
+      "verbatim_original_language": "",
+      "start_seconds": 159,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Moussa Diabate says the Hornets have total trust in Brandon Miller with the ball. He notes that there are no second thoughts on the team when it comes to who gets the ball in key moments.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Moussa Diabate expresses the team's collective trust in Brandon Miller during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Moussa Diabate",
+      "timestamp": "03:35",
+      "summary_phrase": "Moussa Diabate on maintaining intensity against star players",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "It is all about the habit. No matter who it is, you got to play with that same intensity.",
+      "quote": "I guess you get this certain excitement of knowing that you are playing against an All-Star, whatever it is. But like I said, at the end of the day, it is all about the habit. No matter who it is, you got to play with that same intensity. Especially for me, I feel like I don't want to lose that. I want to really just approach the game the same exact way every single time, no matter who it is.",
+      "verbatim_original_language": "",
+      "start_seconds": 215,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Moussa Diabate emphasizes the importance of habit and consistency when facing star players. He says he wants to approach the game the same exact way every single time no matter who the opponent is.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate discusses the importance of maintaining consistent intensity regardless of the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Moussa Diabate",
+      "timestamp": "04:06",
+      "summary_phrase": "Moussa Diabate on the development of Tidjane Salaün",
+      "names_mentioned": [
+        "Tidjane Salaün",
+        "Charles Lee"
+      ],
+      "excerpt": "I always tell him, just play with energy. That is the best way to get noticed by the coaches.",
+      "quote": "I always tell him, just play with energy. That is the best way to get noticed by the coaches. I think that is especially as a young guy, sometimes you can get in your head a little bit because you are not playing, sometimes you get limited minutes, you don't get as many opportunities as you feel like you should get. But he has been great, just working on his game, been working very hard on his body as you guys can tell. Everything that is coming for him is the result of his work. I am just right beside him, just telling him, keep on doing what you are doing, because those are the same things that have been told to me.",
+      "verbatim_original_language": "",
+      "start_seconds": 246,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Moussa Diabate is mentoring teammate Tidjane Salaun by telling him to play with energy to get noticed by coaches. He says Salaun has been working hard on his game and his body.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tidjane Salaün"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Moussa Diabate comments on the development and work ethic of his teammate Tidjane Salaün.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "8diNlUnML2s",
+  "url": "https://www.youtube.com/watch?v=8diNlUnML2s",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-27T02:43:11Z",
+  "duration_seconds": 287,
+  "processed_at": "2026-10-27T15:57:52Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

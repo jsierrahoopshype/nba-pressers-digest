@@ -1,0 +1,209 @@
+{
+  "video_title": "\"I'm so proud of the group & the way they fought\" | Will Hardy talks with media postgame",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "00:14",
+      "summary_phrase": "Will Hardy praises Josh Green, Josh Giddey, and Mo Bamba's defensive effort",
+      "names_mentioned": [
+        "Josh Giddey",
+        "Josh Green",
+        "Mo Bamba"
+      ],
+      "excerpt": "their defensive effort tonight really changed the game",
+      "quote": "I got a lift from a bunch of people, in particular the two Joshs and Mo Bamba. Their defensive effort tonight really changed the game.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Will Hardy praised the defensive impact of Josh Green, Josh Giddey, and Mo Bamba tonight, noting that their effort really changed the game.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Josh Green",
+          "Josh Giddey",
+          "Mo Bamba"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Will Hardy discusses the defensive contributions of Josh Green, Josh Giddey, and Mo Bamba following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "01:12",
+      "summary_phrase": "Will Hardy evaluates Mo Bamba's rim protection and offensive contributions",
+      "names_mentioned": [
+        "Mo Bamba"
+      ],
+      "excerpt": "his rim protection was great. I think he had four blocks",
+      "quote": "I thought Mo was terrific. His rim protection was great. I think he had four blocks. Even the play late where he goes to contest and they try to throw a wrap pass and he gets his hand down and deflects it, his presence at the rim was terrific for us tonight. And then offensively, drop-offs and lobs, he was a great screener early in the clock. I thought he handled himself great.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Will Hardy was impressed with Mo Bamba tonight, highlighting his rim protection and offensive contributions as a screener and lob threat.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mo Bamba"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy evaluates the performance of Mo Bamba after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "02:13",
+      "summary_phrase": "Will Hardy discusses encouraging aggressive shooting against drop coverage",
+      "names_mentioned": [],
+      "excerpt": "certainly we were trying to encourage their aggressiveness to to look to shoot, especially playing against drop",
+      "quote": "It's a combination. They're intelligent players and they understand the situation, but certainly we were trying to encourage their aggressiveness to look to shoot, especially playing against drop. I thought they did a great job.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Will Hardy says the team is actively encouraging players to be more aggressive with their shooting when facing drop coverage.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy explains the team's offensive strategy regarding aggressive shooting against drop coverage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "03:29",
+      "summary_phrase": "Will Hardy on the team's improved focus on physical play",
+      "names_mentioned": [
+        "Josh Green",
+        "Ty Jerome"
+      ],
+      "excerpt": "we did a better job connecting to the ball",
+      "quote": "I thought we did a better job connecting to the ball. It was a big point of emphasis, especially after the Lakers game, to use our bodies with some physicality and not so much our hands. It makes you harder to screen and helped us fight back in front. I thought Josh Green was outstanding. I thought that Ace did a pretty good job early in the game as well.",
+      "text_blocks": [],
+      "start_seconds": 209,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Will Hardy says the Jazz made a point of emphasis to play with more physicality and use their bodies rather than their hands on defense.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Josh Green"
+        ],
+        "teams": [
+          "UTA",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses the team's improved physical play and defensive focus following a previous game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Will Hardy",
+      "timestamp": "04:34",
+      "summary_phrase": "Will Hardy's advice to a rookie after missing a clutch shot",
+      "names_mentioned": [
+        "Darren"
+      ],
+      "excerpt": "it won't be the last one you miss",
+      "quote": "It won't be the last one you miss. We want Darren to continue to play his game. Scoring sometimes comes in waves, and Darren probably felt like he's cold right now, and there's plenty of hot nights ahead. We want him to just take each possession one at a time and take what's in front of him. If he does a great job setting his man up and comes off a screen and he's open, we want him to shoot.",
+      "text_blocks": [],
+      "start_seconds": 274,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Will Hardy is keeping the confidence high for his rookie after a missed clutch shot, telling him there are plenty of hot nights ahead.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darren"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy shares his advice for a rookie player after he missed a clutch shot.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Will Hardy",
+      "timestamp": "05:35",
+      "summary_phrase": "Will Hardy on the importance of relentless rebounding",
+      "names_mentioned": [
+        "Ace"
+      ],
+      "excerpt": "number one, his relentlessness and number two, his ability to cover ground",
+      "quote": "Number one, his relentlessness and number two, his ability to cover ground. His length and athleticism, his quick reaction to the ball, it's standing out. Ten tonight, he had 12 last night. Rebounding is an area where we need everybody to take a big step up and Ace has shown early in the season that he's capable. Now we've just got to stay on it.",
+      "text_blocks": [],
+      "start_seconds": 335,
+      "end_seconds": 360,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Will Hardy is looking for a team wide step up in rebounding and says Ace has shown he is capable of providing that energy.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ace"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses the rebounding performance of Ace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "vxAcf2IboJw",
+  "url": "https://www.youtube.com/watch?v=vxAcf2IboJw",
+  "channel_team": "Utah Jazz",
+  "published": "2026-10-27T04:09:35Z",
+  "duration_seconds": 363,
+  "processed_at": "2026-10-27T15:56:46Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

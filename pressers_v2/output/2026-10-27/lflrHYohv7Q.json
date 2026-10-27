@@ -1,0 +1,259 @@
+{
+  "video_title": "Postgame Media Availability with Isaiah Hartenstein | OKC Thunder | October 26, 2026",
+  "speakers_seen": [
+    "Isaiah Hartenstein"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "00:15",
+      "summary_phrase": "Isaiah Hartenstein on the emotional challenge of playing without injured starters",
+      "names_mentioned": [],
+      "excerpt": "it's always hard to see two of those guys be out",
+      "quote": "The reality is you have two of our starters, but then also from a personal standpoint, you're with them probably more than your family, so it's always hard to see two of those guys be out. You kind of saw it all on our face last night, but then reality kicks in that we still have to go out there and play. We still have to figure out how to win games and we're a no-excuse team. Whatever happens, we'll figure it out, we'll go from there, and now guys just have to step up and we trust everyone on the court.",
+      "start_seconds": 15,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein on the Thunder dealing with injuries to key starters: We are a no-excuse team. Whatever happens we will figure it out and go from there.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Isaiah Hartenstein discusses the emotional challenge of playing without injured teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "01:16",
+      "summary_phrase": "Isaiah Hartenstein on his role and defensive versatility",
+      "names_mentioned": [
+        "Cason",
+        "Dub"
+      ],
+      "excerpt": "doing whatever the team needs to win",
+      "quote": "It's just doing whatever the team needs to win and that's sometimes be more aggressive defensively, talking more, rebounding, or whatever the team needs. Or if it's even just on the bench communicating with guys who maybe don't have that much experience in certain situations. For me, it's whatever the team needs and I think we have a team full of guys like that. It's stuff for them how to figure out what lineups to put in, what kind of defenses to put in when you don't have guys like Cason or Dub who are so versatile defensively.",
+      "start_seconds": 76,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein on his role with the Thunder: It is just doing whatever the team needs to win. Sometimes that is being more aggressive defensively or communicating with guys who do not have as much experience.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Isaiah Hartenstein explains his role and the team's defensive adjustments in the absence of Cason Wallace and Jalen Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "02:17",
+      "summary_phrase": "Isaiah Hartenstein on maintaining presence and perspective during injury struggles",
+      "names_mentioned": [],
+      "excerpt": "we just have to go out there and be present",
+      "quote": "We're so close, especially those two guys, and so from a human standpoint, it's definitely hard. But again, we just have to go out there and be present. I think that's always the biggest thing, you just try to be as present as possible and just figure it out, figure out a way. We're humans, but I think we do a good job of putting perspective on everything.",
+      "start_seconds": 137,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Isaiah Hartenstein says the Thunder are doing a good job of keeping perspective while dealing with injuries: We are humans but I think we do a good job of putting perspective on everything.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Isaiah Hartenstein reflects on maintaining perspective while dealing with teammate injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "03:00",
+      "summary_phrase": "Isaiah Hartenstein on trusting Jalen Williams to step up",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "he was in that last year where we were down and he had to take a bigger role",
+      "quote": "The good thing with that is he's been in a situation before. He was in that last year where we were down and he had to take a bigger role and so we have a lot of trust in him. And again, I think it's him just getting his rhythm back. I think he was really good tonight and we're going to keep trusting him.",
+      "start_seconds": 180,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein on Jalen Williams stepping up in the absence of teammates: He has been in this situation before. We have a lot of trust in him and we are going to keep trusting him.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Isaiah Hartenstein expresses confidence in Jalen Williams taking on a larger role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "03:26",
+      "summary_phrase": "Isaiah Hartenstein on the team's collective pride and bond",
+      "names_mentioned": [],
+      "excerpt": "we play for each other every night",
+      "quote": "We play for each other every night, but especially with what happened to those two, I think we have a little bit more pride behind it. They mean so much to us, not just from a player standpoint but from a human standpoint, and so we just want to play for them but then also just be with them off the court. I think that's what makes our team special is that when stuff like this happens, we stick more together instead of going apart.",
+      "start_seconds": 206,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein on the Thunder locker room: What makes our team special is that when stuff like this happens we stick more together instead of going apart.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein discusses how the team is bonding together following the recent injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "04:36",
+      "summary_phrase": "Isaiah Hartenstein on the coaching staff's defensive adjustments",
+      "names_mentioned": [
+        "Devin Booker",
+        "K-Rich"
+      ],
+      "excerpt": "the coaches did a great job tonight from the coaches' standpoint just putting different looks out there",
+      "quote": "It's not just us but also the coaches figuring out. A lot of the times when we had so many good defenders, it was not just go out and play defense but it was kind of just like we go out and play defense. And so I think now, I think they did a great job tonight from the coaches' standpoint just putting different looks out there. We have different lineups that maybe aren't five guys that are just like top defensive players and so I think the coaches did a great job of just putting a great plan out there for us to be able to stop them. I think K-Rich did also a great job on him because he was on him a lot.",
+      "start_seconds": 276,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein credits the Thunder coaching staff for defensive adjustments: They did a great job putting different looks out there to help us stop them.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kenrich Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Isaiah Hartenstein praises the coaching staff for their defensive game plan and Kenrich Williams for his individual effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "05:36",
+      "summary_phrase": "Isaiah Hartenstein on the playmaking growth of his teammates",
+      "names_mentioned": [],
+      "excerpt": "if you come from Europe and you're a big, I feel like you can pass",
+      "quote": "I feel like most if you come from Europe and you're a big, I feel like you can pass. I think the systems that we grow up in, they put you in a lot of different situations where you can pass the ball and I think he again does a great job of also doing that. And I think just game to game he's going to get more comfortable and get better and better and not use his butt to screen all the time. So I talked to him about that, but he's been great.",
+      "start_seconds": 336,
+      "end_seconds": 373,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Isaiah Hartenstein on the passing ability of big men: If you come from Europe and you are a big I feel like you can pass. The systems we grow up in put you in a lot of different situations where you can pass the ball.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein discusses the passing ability of big men who grew up playing in European basketball systems.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "06:24",
+      "summary_phrase": "Isaiah Hartenstein on the development of younger players",
+      "names_mentioned": [
+        "Jared",
+        "Bennett",
+        "Josh"
+      ],
+      "excerpt": "they did a great job today just coming out, playing the right way",
+      "quote": "They did a great job today just coming out, playing the right way. And again, it's going to get better game to game. They're going to get more rhythm, they're going to get more confidence and then it's just for us, especially the older guys, is how can we put them in situation that they can succeed and just talk to them through certain situations. I mean again, it's we're not excited that we have those injuries, but again it helps these guys get a chance a lot earlier and to build off that.",
+      "start_seconds": 384,
+      "end_seconds": 420,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein on the Thunder youth: We are not excited that we have those injuries but it helps these guys get a chance a lot earlier and to build off that.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Isaiah Hartenstein explains how the current injuries provide an opportunity for younger players to gain experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "lflrHYohv7Q",
+  "url": "https://www.youtube.com/watch?v=lflrHYohv7Q",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-27T05:02:03Z",
+  "duration_seconds": 451,
+  "processed_at": "2026-10-27T15:56:01Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

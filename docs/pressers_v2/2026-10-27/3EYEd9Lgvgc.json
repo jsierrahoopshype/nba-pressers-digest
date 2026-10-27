@@ -1,0 +1,190 @@
+{
+  "video_title": "Cavs vs Timberwolves | Kenny Atkinson Post Game | 10.26.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "speakers": [],
+      "timestamp": "00:52",
+      "summary_phrase": "Peyton Watson's defensive impact and energy for the Cavaliers",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "Peyton Watson"
+      ],
+      "excerpt": "Peyton was all over the place, blocks and blocking threes and then he's at the rim.",
+      "quote": "Peyton was all over the place, blocks and blocking threes and then he's at the rim. The guy's ability to sustain energy defensively is the motor he has. It's honestly something we haven't had since I've been here. We are a little clunky offensively right now, especially those starters. If we can get smooth that out, that could really help that first unit.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says Peyton Watson brings a defensive motor the Cavaliers have been missing. He admits the starting unit is still a bit clunky offensively but expects them to smooth it out soon.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses Peyton Watson's defensive energy and impact on the team following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "speakers": [],
+      "timestamp": "01:38",
+      "summary_phrase": "Leadership and composure during the Cavaliers' slow start",
+      "names_mentioned": [
+        "Evan Mobley",
+        "Donovan Mitchell",
+        "Darius Garland"
+      ],
+      "excerpt": "No one panics in there. We look at the film, we make the adjustments, make the corrections.",
+      "quote": "You play that badly and that poorly in front of your home crowd and no one panics in there. We look at the film, we make the adjustments, make the corrections. There's no high emotions or anything and that's Evan, that's Donovan, that's Darius. They just nod their head, they know it wasn't great, and they did a great job turning the switch, leading us to turn the switch.",
+      "verbatim_original_language": "",
+      "start_seconds": 98,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson praised the leadership of Evan Mobley, Donovan Mitchell, and Darius Garland for staying composed and avoiding panic after a poor performance in front of the home crowd.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Evan Mobley",
+          "Donovan Mitchell",
+          "Darius Garland"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the leadership and composure of his star players after a poor performance in front of the home crowd.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "speakers": [],
+      "timestamp": "02:21",
+      "summary_phrase": "Malik Thomas's emergence as a spark plug off the bench",
+      "names_mentioned": [
+        "Malik Thomas"
+      ],
+      "excerpt": "I've been thinking about it since Summer League. It was just a gut feel.",
+      "quote": "I've been thinking about it since Summer League. It's a good question why I didn't play him Game 1. That's very fair. You can say that. I'm a big believer in match-up the first two games, but after watching the Brooklyn game, it was just a gut feel. I just felt like we need this guy in the lineup. We need that third ball-handler to support Donovan and Darius because teams are just going to try to wear those guys down.",
+      "verbatim_original_language": "",
+      "start_seconds": 141,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kenny Atkinson admits he should have played Malik Thomas in the season opener. He says the team needs Thomas as a third ball handler to help wear down the pressure on Donovan Mitchell and Darius Garland.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik Thomas",
+          "Donovan Mitchell",
+          "Darius Garland"
+        ],
+        "teams": [
+          "CLE",
+          "BKN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains his decision to insert Malik Thomas into the rotation to provide support for his starting backcourt.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "speakers": [],
+      "timestamp": "04:02",
+      "summary_phrase": "Malik Thomas's immediate impact and integration into the locker room",
+      "names_mentioned": [
+        "Malik Thomas",
+        "Donovan Mitchell",
+        "Darius Garland"
+      ],
+      "excerpt": "The vets love him because he listens, he's inquisitive. As a rookie, you've got to strike that chord.",
+      "quote": "The vets love him because he listens, he's inquisitive. As a rookie, you've got to strike that chord with the locker room. You've got to fit into the locker room. You can't be too full of yourself, you've got to strike the right balance with those guys. I just love being around this guy. He gets it, he's smart, he's asking questions. Darius said he sends him clips all the time, 'Hey, what should I be doing on this play?' He's rare. I think he's going to be special.",
+      "verbatim_original_language": "",
+      "start_seconds": 242,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson is high on rookie Malik Thomas, calling him rare for his willingness to learn. Atkinson says Thomas is already building strong chemistry with the veterans by asking the right questions.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik Thomas",
+          "Darius Garland"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson highlights Malik Thomas's quick integration into the locker room and his willingness to learn from veteran teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "speakers": [],
+      "timestamp": "06:13",
+      "summary_phrase": "The competitive depth of the Eastern Conference playoff race",
+      "names_mentioned": [],
+      "excerpt": "There's an awareness that the East is really deep, really deep. There's 12 playoff teams.",
+      "quote": "There's an awareness that the East is really deep, really deep. There's 12 playoff teams. Who's going to get in the top four? It's going to be games like this matter. You drop this one today, it could cost you a top seed or a playoff berth.",
+      "verbatim_original_language": "",
+      "start_seconds": 373,
+      "end_seconds": 391,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson is keeping a close eye on the Eastern Conference standings, noting that with the depth of the league this year, every single game matters for playoff seeding.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the competitive nature of the Eastern Conference and the importance of winning individual games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "3EYEd9Lgvgc",
+  "url": "https://www.youtube.com/watch?v=3EYEd9Lgvgc",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-27T02:44:08Z",
+  "duration_seconds": 562,
+  "processed_at": "2026-10-27T15:57:47Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

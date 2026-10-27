@@ -1,0 +1,214 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 10.26.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:13",
+      "summary_phrase": "Taylor Jenkins on the team's fourth-quarter execution and resilience",
+      "names_mentioned": [],
+      "excerpt": "Great execution down the stretch, timely shots, timely blocks, timely rebounds.",
+      "quote": "First off, I want to shout out our group. The work that they have been putting in has been great. We have been close. It has come down to some runs over the course of the game, but especially in that fourth quarter, great execution down the stretch, timely shots, timely blocks, timely rebounds. We had a couple of plays there like, oh darn it, but our guys kept their resolve.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins praised his team's fourth quarter execution and resolve after a hard fought win saying our guys kept their resolve despite some tough plays down the stretch",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's fourth-quarter performance and resilience following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:04",
+      "summary_phrase": "Taylor Jenkins on the team's defensive effort and forcing turnovers",
+      "names_mentioned": [
+        "Tyrese"
+      ],
+      "excerpt": "We did a great job flying around to hold them to only 13 made threes.",
+      "quote": "I know they still ended up with 14 offensive rebounds, but luckily it was only converted at eight second-chance points. We did a great job flying around to hold them to only 13 made threes while packing the paint and trying to frustrate their drives. I thought they were getting downhill a little bit too easily in the first half. We did a much better job keeping them in front. We started switching a little bit more and not letting them just turn the corner on us.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins on the defensive adjustments against the drive saying we started switching a little bit more and not letting them just turn the corner on us",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates the team's defensive effort and adjustments made to limit the opponent's scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:24",
+      "summary_phrase": "Taylor Jenkins on the impact of Jaren Jackson Jr. and Miles Turner",
+      "names_mentioned": [
+        "Jaren Jackson Jr.",
+        "Miles Turner"
+      ],
+      "excerpt": "He got his hands on 50-50 balls, converted it, and he is great on the defensive side.",
+      "quote": "Jaren Jackson Jr. was huge. I love how he was running the floor. We got him in moments where it was pick-and-rolls, great lob threat. He got his hands on 50-50 balls, converted it, and he is great on the defensive side when it comes to rebounding. I think he is just continuing to progress with his defensive activity in the paint. It is tough calling when both those guys are playing well. Miles Turner comes in, hits a big shot for us, but even though if the shot was not falling, his communication was great on defense.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins highlighted Jaren Jackson Jr for his defensive activity and rim protection noting he is just continuing to progress with his defensive activity in the paint",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaren Jackson Jr.",
+          "Miles Turner"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins praises the contributions of Jaren Jackson Jr. and Miles Turner during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:18",
+      "summary_phrase": "Taylor Jenkins on the development of rookies Braden and Nate",
+      "names_mentioned": [
+        "Braden",
+        "Nate"
+      ],
+      "excerpt": "Really good minutes from Braden and Nate. I felt like Nate had a great second half.",
+      "quote": "Really good minutes from Braden and Nate. I felt like Nate had a great second half. His willingness to put his body out there, fighting, post-position on defense, come over, use his length just to alter shots, run the floor, missed the shots in the first half, shot that big one confidently. Kid puts in the work. And then Braden, again, point-of-attack defense, a guy that can drive into space and finish. Think he hit another big shot as well.",
+      "text_blocks": [],
+      "start_seconds": 258,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins gave credit to rookies Braden and Nate for their impact off the bench noting Nate's willingness to put his body out there and Braden's point of attack defense",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Braden",
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins comments on the performance and development of rookies Braden and Nate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "05:06",
+      "summary_phrase": "Taylor Jenkins on Jaren Jackson Jr.'s adjustment to the system",
+      "names_mentioned": [
+        "Jaren Jackson Jr."
+      ],
+      "excerpt": "He is a playmaker for us. I think he is finding his rhythm on the offensive side.",
+      "quote": "He has nine rebounds, three offensive rebounds, four assists, four blocks. He is a playmaker for us. I know he has a couple turnovers sprinkled in there, but he is screening and he is rolling. We are hitting him at the top of the key, guys are cutting off, he is getting a dribble hand-off actions. I think he is finding his rhythm on the offensive side, how he runs the floor, and he can play in different spots on the wings and in the corners, still being an advantage creator in pick-and-roll actions or be a spacer for us.",
+      "text_blocks": [],
+      "start_seconds": 306,
+      "end_seconds": 344,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins says Jaren Jackson Jr is finding his rhythm on offense as a playmaker and advantage creator in pick and roll actions",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaren Jackson Jr."
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins analyzes Jaren Jackson Jr.'s offensive role and his adjustment to the team's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "07:37",
+      "summary_phrase": "Taylor Jenkins on Ryan Rollins' offensive performance and defensive task",
+      "names_mentioned": [
+        "Ryan Rollins",
+        "Haliburton"
+      ],
+      "excerpt": "He has a big tall task every single night guarding point-of-attack defense for us.",
+      "quote": "He has a lot of different ways to impact the game. I felt like in the second half, when he is driving into space and getting downhill, getting fouled, playmaking, four assists, he gets the three threes. I think when he was getting them off the move a little bit more, I think that was to his benefit. But he has a big tall task every single night guarding point-of-attack defense for us and thought the game plan he did a really solid job on Haliburton. He is tough. You are not going to shut Haliburton down with his scoring.",
+      "text_blocks": [],
+      "start_seconds": 457,
+      "end_seconds": 495,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins praised Ryan Rollins for his defensive effort on Tyrese Haliburton noting he has a big tall task every single night guarding point of attack defense for us",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Rollins",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "MIL",
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins discusses Ryan Rollins' offensive impact and his defensive assignment against Tyrese Haliburton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "PyamDCQ6Ap0",
+  "url": "https://www.youtube.com/watch?v=PyamDCQ6Ap0",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T03:20:40Z",
+  "duration_seconds": 527,
+  "processed_at": "2026-10-27T15:57:18Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

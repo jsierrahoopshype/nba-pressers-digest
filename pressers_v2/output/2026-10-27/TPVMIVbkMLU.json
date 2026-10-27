@@ -1,0 +1,366 @@
+{
+  "video_title": "Cavs vs Timberwolves | Meleek Thomas Post Game | 10.26.2026",
+  "speakers_seen": [
+    "Meleek Thomas"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Meleek Thomas",
+      "timestamp": "00:09",
+      "summary_phrase": "Meleek Thomas on his emotional NBA debut",
+      "names_mentioned": [],
+      "excerpt": "I knew my time was going to come eventually and I knew that when it did, I was going to be ready.",
+      "quote": "It was an amazing feeling, a blessing and a dream come true. I give all credit to my Lord and Savior Jesus Christ. I was just so happy to be out there. I knew my time was going to come eventually and I knew that when it did, I was going to be ready.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Meleek Thomas reflects on his NBA debut calling it a dream come true. It was an amazing feeling and a blessing to finally get on the floor for the Cavaliers.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas reflects on his emotions and mindset during his NBA debut with the Cleveland Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Meleek Thomas",
+      "timestamp": "00:34",
+      "summary_phrase": "Meleek Thomas on his preparation for NBA rotation",
+      "names_mentioned": [],
+      "excerpt": "No advanced knowledge, just going on the fly, staying ready, making sure I had the right tools.",
+      "quote": "No advanced knowledge, just going on the fly, staying ready, making sure I had the right tools when it comes to what the other team was doing, knowing their tendencies, their plays, who they go to, what they run. Just knowing as much knowledge as I could know before potentially getting in and it just worked in my favor.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas says his preparation for the rotation was all about knowing opponent tendencies. He focused on learning the playbook and scouting reports to ensure he was ready when his number was called.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas describes how he prepared mentally and studied opponent tendencies before entering his first NBA game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Meleek Thomas",
+      "timestamp": "00:58",
+      "summary_phrase": "Meleek Thomas on his defensive focus in rookie debut",
+      "names_mentioned": [],
+      "excerpt": "I played very hard for myself and my teammates. I wanted to be there for my teammates defensively.",
+      "quote": "I gave it my all. I played very hard for myself and my teammates. I wanted to be there for my teammates defensively. That was my main goal, just go in there and help my teammates defensively. Whatever I could do, because we need stops. We are a very talented offensive team, but if we could go in there and reel in a couple more stops, I felt like that would have been big for us today.",
+      "verbatim_original_language": "",
+      "start_seconds": 58,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Meleek Thomas says his main goal in his debut was providing defensive energy. He believes the Cavaliers are a talented offensive team but need to reel in more stops to be successful.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas explains his focus on providing defensive energy to help his teammates during his debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Meleek Thomas",
+      "timestamp": "01:34",
+      "summary_phrase": "Meleek Thomas on the team's resilience against adversity",
+      "names_mentioned": [],
+      "excerpt": "We were down for a majority of the game but we never really got rattled.",
+      "quote": "We were down for a majority of the game but we never really got rattled. We just kept saying, get more stops, stay together. Everybody kept motivating each other, kept figuring out different ways to become better throughout the game and that stood out because we are going to build off that for the whole season.",
+      "verbatim_original_language": "",
+      "start_seconds": 94,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Meleek Thomas on the Cavaliers resilience against the Timberwolves. He says the team never got rattled while trailing and focused on staying together to build momentum for the season.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas discusses how the team maintained composure and stayed motivated while trailing during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Meleek Thomas",
+      "timestamp": "02:29",
+      "summary_phrase": "Meleek Thomas on the reality of playing against NBA stars",
+      "names_mentioned": [
+        "Donovan Mitchell",
+        "James Harden"
+      ],
+      "excerpt": "Everything that I see off the media or that I hadn't seen, actually by being on the court, it's real.",
+      "quote": "What surprised me a little bit is just everything that I see off the media or that I hadn't seen, actually by being on the court, it's real. The players that do what they do, Donovan Mitchell, James Harden, they got very good players on the other side, but we do as well. The players that really put that work in is real.",
+      "verbatim_original_language": "",
+      "start_seconds": 149,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas admits the reality of playing against stars like Donovan Mitchell and James Harden is different than watching from the outside. He says the work those players put in is real.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell",
+          "James Harden"
+        ],
+        "teams": [
+          "CLE",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas shares his realization about the reality of playing against established NBA stars like Donovan Mitchell and James Harden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Meleek Thomas",
+      "timestamp": "03:05",
+      "summary_phrase": "Meleek Thomas on maintaining faith during bench time",
+      "names_mentioned": [],
+      "excerpt": "Whatever God put you through, if you feel it's bad as a person, then it's for you.",
+      "quote": "Strong in my faith. My motto and my method is, whatever God put you through, if you feel it's bad as a person, then it's for you. So I was just telling myself, me not playing, that's for me. He wants me to persevere and overcome whatever he's going to. If he's not going to have me play for five games, then be ready for the sixth one. Regardless of whatever goes on, practices, games, just stay ready and your moment will come.",
+      "verbatim_original_language": "",
+      "start_seconds": 185,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Meleek Thomas credits his faith for helping him stay ready during his time on the bench. He says he viewed not playing as a test to persevere and overcome.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas talks about relying on his faith to stay ready during periods when he was not receiving playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Meleek Thomas",
+      "timestamp": "03:53",
+      "summary_phrase": "Meleek Thomas on the mentorship from veteran teammates",
+      "names_mentioned": [
+        "James Harden",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "Been with James in different settings, been with Donovan in different settings, been with the team in different settings.",
+      "quote": "Just the preparation that we all had put in through the summer. Been with James in different settings, been with Donovan in different settings, been with the team in different settings. So that confidence was installed due to them to me early and I bring my own set of confidence. So as it all meshes, it's kind of a leeway that they give as vets and I know when and time and place when to do what.",
+      "verbatim_original_language": "",
+      "start_seconds": 233,
+      "end_seconds": 263,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas says the confidence he plays with is bolstered by the mentorship of veterans like Donovan Mitchell and James Harden who have helped him prepare throughout the summer.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas discusses the confidence instilled in him by veteran teammates like Donovan Mitchell during the summer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Meleek Thomas",
+      "timestamp": "04:37",
+      "summary_phrase": "Meleek Thomas on his internal confidence and mindset",
+      "names_mentioned": [],
+      "excerpt": "Confidence really don't come from nobody else. It's either you got it or you don't.",
+      "quote": "Confidence really don't come from nobody else. It's either you got it or you don't. You got heart, you got dog or you don't. And I got everything that I need. It's just a matter of time before everything is shown. So if I'm open, it's going up, it's going in. That's always my mindset.",
+      "verbatim_original_language": "",
+      "start_seconds": 277,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Meleek Thomas on his mindset as a rookie. He says confidence is something you either have or you dont and he is always ready to let it fly if he is open.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas explains his internal approach to confidence and his aggressive mindset when he is on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Meleek Thomas",
+      "timestamp": "05:54",
+      "summary_phrase": "Meleek Thomas on providing defensive energy to the team",
+      "names_mentioned": [],
+      "excerpt": "I just wanted to go in there and produce defensive energy.",
+      "quote": "It only takes one. We came out kind of flat a little bit and my teammates had spoken about that. So like I said, I just wanted to go in there and produce defensive energy and we seen everything else that happened. The ball found me. I was playing hard, I was in gaps, I was talking to my teammates at all times. But me just going in there with the right mindset to help my team led to everything else that we all seen.",
+      "verbatim_original_language": "",
+      "start_seconds": 354,
+      "end_seconds": 387,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas explains how his defensive energy helped spark the team. He says he focused on being in gaps and talking to teammates to help the team get back into the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas describes how his defensive mindset and communication with teammates helped him contribute to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Meleek Thomas",
+      "timestamp": "06:36",
+      "summary_phrase": "Meleek Thomas on the impact of veteran support",
+      "names_mentioned": [
+        "James Harden",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "It means the world to me. I've watched both of their games for so long.",
+      "quote": "It means the world to me. I've watched both of their games for so long before I got to this position. So for them to just take me under their wing and give me all of the game and constantly help me, constantly help me, constantly stay in my ear, it just goes to show that they see how much potential that I see is in myself.",
+      "verbatim_original_language": "",
+      "start_seconds": 396,
+      "end_seconds": 422,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Meleek Thomas says it means the world to have veteran teammates taking him under their wing. He appreciates them constantly staying in his ear to help him reach his potential.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas expresses gratitude for the mentorship and guidance he has received from veteran teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Meleek Thomas",
+      "timestamp": "07:30",
+      "summary_phrase": "Meleek Thomas on the energy of the Cleveland crowd",
+      "names_mentioned": [],
+      "excerpt": "Electric crowd. You just feel the energy. When we were down, I felt the energy.",
+      "quote": "It was everything. Electric crowd. You just feel the energy. When we were down, I felt the energy. When we went up, I felt the energy. It's just an amazing crowd and before I came to Cleveland, I heard about the fan base that's going to show up for basketball, for football, for baseball and now that I'm here, I went to a baseball game, I haven't been to a Browns game, but you can tell the hoop game is real.",
+      "verbatim_original_language": "",
+      "start_seconds": 450,
+      "end_seconds": 481,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Meleek Thomas praises the Cleveland crowd after his debut. He says the energy in the building was electric and he can tell the hoop game is real in this city.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas shares his experience playing in front of the Cleveland crowd and the energy he felt throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Meleek Thomas",
+      "timestamp": "08:17",
+      "summary_phrase": "Meleek Thomas on his expectation for his rookie performance",
+      "names_mentioned": [],
+      "excerpt": "It was on my mind that I was going to be my best version.",
+      "quote": "It was on my mind that I was going to be my best version and that wasn't even my best version. There's a lot more that I haven't shown. It was on my mind that every time I lace my kicks up, I'm always thinking that I'm going to do my best and have a great showing, stand out. I always tell myself when I hoop, I want so many people, if they didn't know my name, to leave the gym knowing my name.",
+      "verbatim_original_language": "",
+      "start_seconds": 497,
+      "end_seconds": 529,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas says his debut performance was not even his best version. He wants to continue to stand out so that if people did not know his name before the game they leave knowing it.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas reflects on his performance and his desire to continue improving and making a name for himself.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "TPVMIVbkMLU",
+  "url": "https://www.youtube.com/watch?v=TPVMIVbkMLU",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-27T03:07:28Z",
+  "duration_seconds": 567,
+  "processed_at": "2026-10-27T15:57:42Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

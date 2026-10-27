@@ -1,0 +1,134 @@
+{
+  "video_title": "Hornets vs Wizards: Brandon Miller Postgame Media Availability | 10/26/2026",
+  "speakers_seen": [
+    "Brandon Miller"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandon Miller",
+      "timestamp": "00:15",
+      "summary_phrase": "Brandon Miller on the Hornets' offensive pace and team identity",
+      "names_mentioned": [],
+      "excerpt": "Obviously we're a team that's going to push the pace.",
+      "quote": "Just playing to our identity. Obviously we're a team that's going to push the pace. I feel like we did a great job with that tonight of just spreading them out on their defensive sides, then just attacking the matchup that we want. I think just hats off to my teammates for putting me in that position just to attack weaker defenders, anybody that's smaller defenders or a mismatch that we think, and just playing to our advantages.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller says the Hornets are focused on pushing the pace and attacking mismatches. He credits his teammates for putting him in positions to succeed by spreading the floor and finding the right defensive matchups.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brandon Miller discusses the Hornets offensive strategy and pace following their game against the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandon Miller",
+      "timestamp": "01:13",
+      "summary_phrase": "Brandon Miller on the trust and chemistry with his teammates",
+      "names_mentioned": [],
+      "excerpt": "Makes me smile every day, man, just to see other NBA guys put all their trust in me.",
+      "quote": "Makes me smile every day, man, just to see other NBA guys put all their trust in me. But at the same time, I have to trust those guys. I think the part that's missing where I have to go to work for those guys every night too, and it's vice versa, they're going to go to work for me. So just being ready when the time comes, I think the preparation that we put in to being ready and staying ready, it goes a long way in our season and games like this.",
+      "verbatim_original_language": "",
+      "start_seconds": 73,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller on the chemistry in Charlotte: It makes me smile to see my teammates put their trust in me. He emphasizes that the trust is mutual and built on the preparation they put in every single day.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Miller reflects on the mutual trust and chemistry he shares with his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brandon Miller",
+      "timestamp": "01:56",
+      "summary_phrase": "Brandon Miller on teammate motivation and building confidence",
+      "names_mentioned": [],
+      "excerpt": "I think my teammates motivate me a lot and it just builds my confidence.",
+      "quote": "I think my teammates motivate me a lot and it just builds my confidence just to go out there and make every winning play that I can. So whatever winning play it is, I'm going to do my best to make it.",
+      "verbatim_original_language": "",
+      "start_seconds": 116,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller says his teammates motivate him to make winning plays. He is committed to doing whatever it takes to help the team win on any given night.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Miller explains how his teammates help build his confidence and motivation on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brandon Miller",
+      "timestamp": "02:13",
+      "summary_phrase": "Brandon Miller on his on-court chemistry with teammate",
+      "names_mentioned": [],
+      "excerpt": "It helps me a lot. A guy like that, your eight, coming into a new program.",
+      "quote": "It helps me a lot. A guy like that, your eight, coming into a new program, not really didn't have the best night tonight, but he still stuck with it. And the confidence level that he plays with, even when nights are not going for him, I think he's still our vet, our leader. Everybody's going to listen to him and what he has to say, and of course he's going to make everybody better.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller praises his veteran teammate for staying confident even on off nights. He says the veteran remains a leader who makes everyone around him better regardless of his own shooting performance.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Miller praises the leadership and resilience of a veteran teammate despite a difficult shooting performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "No6HumbfV2g",
+  "url": "https://www.youtube.com/watch?v=No6HumbfV2g",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-27T02:32:50Z",
+  "duration_seconds": 169,
+  "processed_at": "2026-10-27T15:57:58Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

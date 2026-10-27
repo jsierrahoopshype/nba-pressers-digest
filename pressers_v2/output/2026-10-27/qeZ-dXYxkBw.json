@@ -1,0 +1,161 @@
+{
+  "video_title": "Tyler Herro Postgame Media Availability | 10.26.26",
+  "speakers_seen": [
+    "Tyler Herro"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:15",
+      "summary_phrase": "Tyler Herro on the Bucks' defensive focus and rotation",
+      "names_mentioned": [],
+      "excerpt": "I think it starts on the defensive end, being in our shifts, helping each other, covering for each other.",
+      "quote": "I think it starts on the defensive end, being in our shifts, helping each other, covering for each other. One guy goes to help, next guy covers for him, next guy covers for him and just continuing to rotate. I thought we did that well tonight down the stretch and really throughout the game. It started last game in Philadelphia and carried over to the night, and that's what we're looking for, just continuing to build, continuing to get better every single game, every single practice.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyler Herro says the Bucks defensive focus is on rotation and helping each other. He believes the team is building on the defensive improvements they started in Philadelphia.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses the defensive rotations and team effort during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:54",
+      "summary_phrase": "Tyler Herro on the surreal experience of playing for the Bucks",
+      "names_mentioned": [],
+      "excerpt": "It's surreal. You can't even really put it into words and it's unimaginable, honestly, just being here.",
+      "quote": "It's surreal. You can't even really put it into words and it's unimaginable, honestly, just being here for that. Obviously playing for my hometown is one thing. I'm obviously a big Brewers fan my entire life. I remember being in 2018, I was in Kentucky and they were one or two games away from going to the World Series in 2018. So, I've been through it all with them, I feel like, and been there the whole ride, being able to support them, so it's cool to be home and see how successful they are.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyler Herro describes playing for his hometown Milwaukee team as surreal and says it is unimaginable to be here.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro reflects on the experience of playing for his hometown Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyler Herro",
+      "timestamp": "01:53",
+      "summary_phrase": "Tyler Herro on his childhood memories of watching the Brewers",
+      "names_mentioned": [
+        "Mike Moustakas",
+        "Travis Shaw",
+        "Prince Fielder",
+        "Ryan Braun",
+        "Corey Hart",
+        "Rickie Weeks"
+      ],
+      "excerpt": "My teams were like Mike Moustakas, T-Plush, Prince Fielder, Ryan Braun, Corey Hart, Rickie Weeks.",
+      "quote": "My teams were like Mike Moustakas, T-Plush, Prince Fielder, Ryan Braun, Corey Hart, Rickie Weeks. That was my, that was my team that I really grew up watching. I remember going to a playoff game when I was younger against the Cardinals. I've been a fan the whole way through my whole life, so obviously growing up here, so it's cool.",
+      "verbatim_original_language": "",
+      "start_seconds": 113,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Tyler Herro reflects on his childhood as a Brewers fan, naming players like Prince Fielder and Ryan Braun as the team he grew up watching.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro shares memories of growing up as a fan of the Milwaukee Brewers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyler Herro",
+      "timestamp": "02:25",
+      "summary_phrase": "Tyler Herro on the Bucks' approach to stacking wins",
+      "names_mentioned": [],
+      "excerpt": "You don't want to take a step forward and then take two steps back.",
+      "quote": "You don't want to take a step forward and then take two steps back. Just continuing to grow, continuing to get better. Obviously, our defensive turnover from the last game to tonight was better and just continuing to grow on that, continuing to be organized on offense, playing with each other, playing the right way, I think it's going to go a long way.",
+      "verbatim_original_language": "",
+      "start_seconds": 145,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyler Herro emphasizes the importance of consistency for the Bucks, stating they do not want to take a step forward and then take two steps back.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro explains the importance of consistency and defensive improvement for the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyler Herro",
+      "timestamp": "02:54",
+      "summary_phrase": "Tyler Herro on his personal adjustment to the new team",
+      "names_mentioned": [],
+      "excerpt": "Not getting too high, not getting too low. That's what I've learned throughout my career.",
+      "quote": "Not getting too high, not getting too low. That's what I've learned throughout my career. Some nights will be your nights, some nights are not, and figure out ways to impact winning. With the young group, just trying to be a good, not really role model, but just set good examples, being, showing good habits, coming in and working hard every day. I'm still getting comfortable, more aggressive, continue to set my teammates up, but I'll continue to get better as the season goes on.",
+      "verbatim_original_language": "",
+      "start_seconds": 174,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyler Herro on his adjustment to the Bucks, saying he is focused on showing good habits and finding ways to impact winning even when he is still getting comfortable.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses his personal adjustment process and leadership role with his new teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "qeZ-dXYxkBw",
+  "url": "https://www.youtube.com/watch?v=qeZ-dXYxkBw",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T03:40:54Z",
+  "duration_seconds": 316,
+  "processed_at": "2026-10-27T15:56:48Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

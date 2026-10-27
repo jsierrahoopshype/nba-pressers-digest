@@ -1,0 +1,269 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. GSW 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Jamal Murray",
+    "Bryce Hopkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:08",
+      "summary_phrase": "Coach Adelman on defensive struggles and lack of physicality",
+      "names_mentioned": [],
+      "excerpt": "The physicality, I don't think we took a foul when we were switching up on anybody.",
+      "quote": "Tonight was very different. I just actually thought we handled the big-small pick-and-roll stuff okay. It was the small-small pick-and-roll stuff. The coverage wasn't good enough. We talked about in the locker room after the game, just the physicality. I don't think we took a foul when we were switching up on anybody, and that leads to slipping. It leads to 2-on-1s, 3-on-2s in the backside. So it was a bad night in that way, in every way. I thought they shot the ball really well when we shrunk, but that was the issue. It was all that small-small stuff.",
+      "start_seconds": 8,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman says the Nuggets defensive struggles against the Warriors came down to a lack of physicality. He noted the team failed to take fouls during switches which led to easy looks for Golden State.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses the team's defensive failures and lack of physicality during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:19",
+      "summary_phrase": "Coach Adelman on defensive switching and rotation issues",
+      "names_mentioned": [
+        "TB",
+        "Aaron"
+      ],
+      "excerpt": "If you let guys run untouched, it leads to breakdowns. It leads to people having to be.",
+      "quote": "If you're going to switch 1-through-4, like pretty much every team in our league does, the physicality part of it is huge. If you let guys run untouched, it leads to breakdowns. It leads to people having to be the low man for no reason, and that leads to extra rotations. If I have a lineup out there with TB and Aaron, that's not a lineup that scrambles well. That's not a small lineup. So you put yourself in a really tough spot. You have to win the first battle, and we lost it throughout the night.",
+      "start_seconds": 79,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman explains that the Nuggets defensive lineups with TB and Aaron Gordon struggle to scramble. He emphasized that the team must win the first battle on defense to avoid unnecessary rotations.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Thomas Bryant",
+          "Aaron Gordon"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman explains the defensive difficulties of playing a lineup featuring Thomas Bryant and Aaron Gordon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "03:49",
+      "summary_phrase": "Coach Adelman on Jamal Murray's offensive performance",
+      "names_mentioned": [
+        "Jamal",
+        "Christian"
+      ],
+      "excerpt": "Jamal offensively was great. He got to his spots, he kept us in the game.",
+      "quote": "Jamal offensively was great. We put him in the corner over there, the way they guarded us, he was open. He got to his spots, he kept us in the game, I thought, in the first half, when things started to slip. And you know, it's that's what he's going to do for us, that's what he's always done. And I think Jamal would admit this and everybody, it's the other end. That's the problem. Whether it's him, Jamal, or Christian, anybody, we just have to do a better job as a group.",
+      "start_seconds": 229,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman praised Jamal Murray for keeping the Nuggets in the game offensively but noted that the team needs to do a better job on the other end of the floor.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Adelman praises Jamal Murray's offensive performance while noting the team's collective defensive struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamal Murray",
+      "timestamp": "07:25",
+      "summary_phrase": "Jamal Murray on defensive communication and rotation",
+      "names_mentioned": [],
+      "excerpt": "I think we got to be better on our talk, better on our attack.",
+      "quote": "I think we got to be better on our talk, better on our attack. I think we can do a better job of inverting and having the guards up top so that we can take ourselves out of rotation earlier and we can make some shots. That might help.",
+      "start_seconds": 445,
+      "end_seconds": 464,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Murray says the Nuggets need to improve their communication and defensive positioning to take themselves out of rotation earlier.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray discusses the need for better communication and defensive rotations following the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Murray",
+      "timestamp": "10:18",
+      "summary_phrase": "Jamal Murray on helping Bryce Hopkins adjust to NBA level",
+      "names_mentioned": [
+        "Bryce"
+      ],
+      "excerpt": "We got to help him with that. He's not used to Yoke throwing the ball ahead to pass.",
+      "quote": "We got to help him with that. He's not used to Yoke throwing the ball ahead to pass and trying to tell him like, turning that quickly. Just those little stuff, but we all got to help him. Those guys are rookies and we're not expecting a lot of them to win these games, and they're doing a great job.",
+      "start_seconds": 618,
+      "end_seconds": 641,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Murray says the veterans are focused on helping rookie Bryce Hopkins adjust to the speed of the game and the unique passing style of Nikola Jokic.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bryce Hopkins",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Murray talks about helping rookie Bryce Hopkins adjust to playing with Nikola Jokic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Bryce Hopkins",
+      "timestamp": "15:58",
+      "summary_phrase": "Bryce Hopkins on team's slow start and defensive rotation",
+      "names_mentioned": [],
+      "excerpt": "I feel like we came out flat once again, but I feel like we tried to come out.",
+      "quote": "I feel like we came out flat once again, but I feel like we tried to come out with a little more, you know, aggression in the second half, but you know, they got hot. We were late rotating on defense and stuff like that, but we got to pick it up for sure.",
+      "start_seconds": 958,
+      "end_seconds": 979,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bryce Hopkins admits the Nuggets came out flat against the Warriors and struggled with late defensive rotations throughout the night.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Bryce Hopkins reflects on the team's slow start and defensive lapses against the Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Bryce Hopkins",
+      "timestamp": "16:38",
+      "summary_phrase": "Bryce Hopkins on the difficulty of guarding Steph Curry",
+      "names_mentioned": [
+        "Steph Curry"
+      ],
+      "excerpt": "His name speaks for itself. His resume speaks for itself.",
+      "quote": "I mean, it's Steph Curry. I mean, his name speaks for itself. His resume speaks for itself. I mean, you know, the game plan was to chase him, try to keep him off the three-point line and stuff like that obviously, but you know, when he gets hot and he sees one go in, I mean, it's tough to stop him.",
+      "start_seconds": 998,
+      "end_seconds": 1021,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bryce Hopkins on the challenge of guarding Steph Curry. He noted that once Curry sees one go in it is tough to stop him.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "DEN",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Bryce Hopkins describes the difficulty of defending Stephen Curry during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Bryce Hopkins",
+      "timestamp": "17:04",
+      "summary_phrase": "Bryce Hopkins on chemistry with Jamal Murray and Nikola Jokic",
+      "names_mentioned": [
+        "Jamal",
+        "Nikola",
+        "Coach DA"
+      ],
+      "excerpt": "I feel like it's all has to do with our chemistry. The more games that we play together.",
+      "quote": "I feel like it's all has to do with our chemistry. I feel like the more games that we play together, the more comfortable we're going to get. And I feel like it's just playing off of them. I mean, like Coach DA was saying, they draw so much attention, so you know, just being able to, you know, be ready to take those shots when we're open is going to be big for us.",
+      "start_seconds": 1024,
+      "end_seconds": 1053,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Bryce Hopkins says the Nuggets offense will improve as chemistry grows. He noted that playing off stars like Jamal Murray and Nikola Jokic requires being ready to take open shots.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bryce Hopkins discusses the importance of building chemistry with Jamal Murray and Nikola Jokic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ZHRZpi9Z8Qw",
+  "url": "https://www.youtube.com/watch?v=ZHRZpi9Z8Qw",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-10-27T06:07:49Z",
+  "duration_seconds": 1146,
+  "processed_at": "2026-10-27T15:56:15Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

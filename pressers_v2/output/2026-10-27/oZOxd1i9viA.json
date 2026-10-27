@@ -1,0 +1,303 @@
+{
+  "video_title": "Ime Udoka Postgame Interview vs Hawks",
+  "speakers_seen": [
+    "Ime Udoka"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:04",
+      "summary_phrase": "Ime Udoka on the Rockets' improved team chemistry and depth",
+      "names_mentioned": [],
+      "excerpt": "We have a good complement and good mix of guys that have the experience, guys that have grown.",
+      "quote": "I think they have always done that. It is a matter of personnel and what you can do with certain things. We have a good complement and good mix of guys that have the experience, guys that have grown and learned from the past. You are seeing that come together now. We have emphasized other things and now that we are trying to play faster, we have more guys that can touch the paint, make plays. It is just looking a little bit different.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ime Udoka says the Rockets are playing faster and finding more success because they have a better mix of experienced players and guys who have grown from the past. He believes the team is finally seeing it all come together.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka discusses the team's improved chemistry and depth following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:39",
+      "summary_phrase": "Ime Udoka praises Alperen Sengun's performance against the Hawks",
+      "names_mentioned": [
+        "Alperen Sengun"
+      ],
+      "excerpt": "He carried us through a good stretch of the third, I think really got himself going.",
+      "quote": "He was huge. He carried us through a good stretch of the third, I think really got himself going. He had six steals and he was all over the place. He was a dog down there. We went with the lineup that we saw worked: Fred, Reed, Tari, Jabari, and Alpi. They got something going, got stops, got out and ran, and Alpi was a big part of that.",
+      "verbatim_original_language": "",
+      "start_seconds": 39,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Ime Udoka was impressed by Alperen Sengun against the Hawks. He called him a dog on the floor after Sengun racked up six steals and helped carry the team through a crucial stretch in the third quarter.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alperen Sengun",
+          "Fred VanVleet",
+          "Paul Reed",
+          "Tari Eason",
+          "Jabari Smith Jr."
+        ],
+        "teams": [
+          "HOU",
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ime Udoka praises Alperen Sengun's performance and explains the effectiveness of a specific lineup against the Hawks.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:12",
+      "summary_phrase": "Ime Udoka on Alperen Sengun's improved rim finishing and perimeter defense",
+      "names_mentioned": [
+        "Alperen Sengun"
+      ],
+      "excerpt": "He is not settling for the long floater hook shot as much.",
+      "quote": "He is not settling for the long floater hook shot as much. He is forcing his way down there. I think he has a nice bounce in his step. He looks really fresh and active right now. He is always going to be able to handle and have a cross-match against bigs on the perimeter, but I think the fact that he is shooting the ball a little bit better as well opens up the driving lanes. He has really been a force down there for us, getting to the basket against whoever.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ime Udoka notes that Alperen Sengun is no longer settling for long floaters. He says Sengun is forcing his way to the basket more often and looks fresh, which is making him a force for the Rockets offense.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka analyzes Alperen Sengun's improved offensive aggression and perimeter defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ime Udoka",
+      "timestamp": "02:02",
+      "summary_phrase": "Ime Udoka on the team's positive energy and improved focus",
+      "names_mentioned": [],
+      "excerpt": "The energy is good, the juice is good. It feels good to have some vets back in there.",
+      "quote": "It has been a good vibe since training camp. We had a long extended camp and the preseason as well. I think their buying and carryover has been really good. Things we talked about heading into the season, focal points that we looked at last year on areas to improve, they have really attacked those and taken those to heart. The energy is good, the juice is good. It feels good to have some vets back in there that were missing and you just feel more complete.",
+      "verbatim_original_language": "",
+      "start_seconds": 122,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ime Udoka says the vibe in the Rockets locker room has been good since training camp. He credits the team for taking last year's focal points to heart and notes that having veterans back makes the group feel more complete.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka reflects on the team's positive energy and focus since the start of training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ime Udoka",
+      "timestamp": "02:54",
+      "summary_phrase": "Ime Udoka on how improved ball movement benefits the offense",
+      "names_mentioned": [],
+      "excerpt": "It is opening everything up. It is less stagnant for sure.",
+      "quote": "It is opening everything up. It is less stagnant for sure. We do not have to rely on guys as much as in the past. Even when you do, the off-ball movement has been good. Because we call a play or a shot for somebody specific, they are still looking at all the options. Our off-ball recognition and our off-ball movement has improved throughout the year so far. That just opens everything up. Every time we touch the paint, good things happen.",
+      "verbatim_original_language": "",
+      "start_seconds": 174,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ime Udoka explains that the Rockets offense is less stagnant this year because of improved off-ball movement. He says every time they touch the paint good things happen for the team.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka explains how improved off-ball movement is benefiting the team's offensive efficiency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ime Udoka",
+      "timestamp": "03:43",
+      "summary_phrase": "Ime Udoka on the team's defensive effort and transition struggles",
+      "names_mentioned": [
+        "McCollum"
+      ],
+      "excerpt": "It felt like we were just kind of following them around, not bringing a lot of physicality.",
+      "quote": "It felt like we were just kind of following them around, not bringing a lot of physicality. Not a lot of communication at times, losing McCollum and certain guys in transition, getting wide-open looks. It was a point of emphasis at halftime. Obviously, being on pace for 130 was way too high. We came out with a much more concerted effort in the second half to guard. We felt scoring 63, we should be comfortable at that point if we are guarding anywhere close to our capability.",
+      "verbatim_original_language": "",
+      "start_seconds": 223,
+      "end_seconds": 256,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ime Udoka was unhappy with the defensive effort early against the Hawks. He said the team was just following them around and not bringing enough physicality until a halftime adjustment changed the tone.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "CJ McCollum"
+        ],
+        "teams": [
+          "HOU",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Ime Udoka describes the team's defensive struggles in the first half and the need for better transition communication.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ime Udoka",
+      "timestamp": "04:21",
+      "summary_phrase": "Ime Udoka on the Rockets' improved efficiency in transition",
+      "names_mentioned": [
+        "Kevin",
+        "Amen"
+      ],
+      "excerpt": "That was another emphasis of ours, how we were poor at times in transition in the past.",
+      "quote": "They had a low turnover number, 13, but I think 10 of those were steals. So a lot of ball turnovers were getting out. Even with that, we like to clean up a few of the turnovers we had in transition. Kevin made a pass, Amen made a pass that could have been better and finished. That was another emphasis of ours, how we were poor at times in transition in the past. Cleaning those up is a result of guys being more confident with the handle and the pass.",
+      "verbatim_original_language": "",
+      "start_seconds": 261,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ime Udoka says the Rockets are cleaning up their transition play. He attributes the improvement to players being more confident with their handles and passing compared to last season.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Porter Jr.",
+          "Amen Thompson"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka discusses the team's transition play and the need to reduce turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ime Udoka",
+      "timestamp": "05:22",
+      "summary_phrase": "Ime Udoka on Jabari Smith Jr.'s growth and versatility",
+      "names_mentioned": [
+        "Jabari Smith Jr."
+      ],
+      "excerpt": "He is injecting himself into the game regardless of a made shot or not just relying on jump shots.",
+      "quote": "He is injecting himself into the game regardless of a made shot or not just relying on jump shots. He is obviously one of the best getting out in transition running those wings, hunting the threes early, but he is all over the offensive glass, slashing to the basket. So he is really mixing it up well as well as improved his handling and got to his spots offensively in the one-on-one situations. The numbers and what he has done early in the season is a direct result of the work he has put in.",
+      "verbatim_original_language": "",
+      "start_seconds": 322,
+      "end_seconds": 359,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ime Udoka praises Jabari Smith Jr for evolving his game. He says Smith is no longer just relying on jump shots and is now hunting threes, crashing the offensive glass, and slashing to the basket.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jabari Smith Jr."
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka highlights the growth and versatility Jabari Smith Jr. has shown early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Ime Udoka",
+      "timestamp": "06:21",
+      "summary_phrase": "Ime Udoka on the importance of managing player minutes",
+      "names_mentioned": [
+        "Kevin"
+      ],
+      "excerpt": "It is great when we can have the luxury of a group out there doing what they did.",
+      "quote": "It was good. We built an 11-point lead that got down to six by the end of the quarter and felt good about how we eventually started guarding. We went with the unit, Reed and Fred with Jabari, Tari and Alpi. They extended it, played great defense, got stops, got out and ran, and found shooters on the perimeter. Anytime we can get with that, Kevin was like, 'Let that unit roll and let them do what they are doing.' It is great when we can have the luxury of a group out there doing what they did.",
+      "verbatim_original_language": "",
+      "start_seconds": 381,
+      "end_seconds": 419,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ime Udoka discusses the luxury of having a reliable closing unit. He says it is great when he can let a group like the one featuring Reed and Sengun roll when they are playing great defense and getting stops.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paul Reed",
+          "Fred VanVleet",
+          "Jabari Smith Jr.",
+          "Tari Eason",
+          "Alperen Sengun",
+          "Kevin Porter Jr."
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ime Udoka explains the decision to keep a specific lineup on the floor during a successful run.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "oZOxd1i9viA",
+  "url": "https://www.youtube.com/watch?v=oZOxd1i9viA",
+  "channel_team": "Houston Rockets",
+  "published": "2026-10-27T04:37:17Z",
+  "duration_seconds": 425,
+  "processed_at": "2026-10-27T15:56:33Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

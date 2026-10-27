@@ -1,0 +1,255 @@
+{
+  "video_title": "Kevin Durant Postgame Interview vs Hawks",
+  "speakers_seen": [
+    "Kevin Durant"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kevin Durant",
+      "timestamp": "00:46",
+      "summary_phrase": "Kevin Durant on Grayson Allen's focused start to the season",
+      "names_mentioned": [
+        "Grayson Allen"
+      ],
+      "excerpt": "he just looks focused, locked in on both ends.",
+      "quote": "He just looks focused, locked in on both ends. It helps that we got more spacing around him too, guys that can shoot and catch and shoot, catch and drive. But teams are playing him one-on-one down there in the post at the elbow, thinking that they can stop him. They must have read a lot of bad articles this summer about him, so they feel like they can get a stop on him one-on-one, and we love that matchup every time down, no matter who is on.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kevin Durant says Grayson Allen is playing with a chip on his shoulder this season. Durant noted that teams are still trying to guard him one-on-one, saying they must have read a lot of bad articles this summer because we love that matchup.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Grayson Allen"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kevin Durant discusses Grayson Allen's focused performance and offensive role during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kevin Durant",
+      "timestamp": "01:40",
+      "summary_phrase": "Kevin Durant on the team's established culture of belief",
+      "names_mentioned": [],
+      "excerpt": "every game we walked into we felt like we could win.",
+      "quote": "I was the belief and trust last year. Every game we walked into we felt like we could win. And I just think that's just the culture here, and I think that's been created by Emi, by Raf, the veterans, the young guys too, setting a standard. And I think we always had that standard. Did we reach it every game? Of course not, that's just not normal, but we have a standard that we set, and it's not a surprise to us. We're not too excited about this, but we know we can build on it and keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kevin Durant on the team culture in Houston: We have a standard that we set, and it is not a surprise to us. We are not too excited about this, but we know we can build on it and keep getting better.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kevin Durant reflects on the team culture and standard of belief established by the coaching staff and veterans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kevin Durant",
+      "timestamp": "02:21",
+      "summary_phrase": "Kevin Durant on Reed Sheppard's defensive impact and activity",
+      "names_mentioned": [
+        "Reed Sheppard"
+      ],
+      "excerpt": "he's doing a great job getting hands on basketballs on deflections, standing in front of his man.",
+      "quote": "Reed is standing in front of the ball. Just a steady force on the offensive side of the ball, bringing the ball up, and defenses got to respect him out to the three-point line. But I think he's doing a great job getting hands on basketballs on deflections, standing in front of his man, not fouling. So yeah, Reed is playing great ball and we're going to need that from him going forward.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kevin Durant praised Reed Sheppard for his defensive activity and steady playmaking. Durant says Sheppard is doing a great job getting hands on basketballs on deflections and standing in front of his man without fouling.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Reed Sheppard"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kevin Durant praises Reed Sheppard's defensive activity and offensive contributions during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kevin Durant",
+      "timestamp": "02:52",
+      "summary_phrase": "Kevin Durant on the defensive impact of his length",
+      "names_mentioned": [],
+      "excerpt": "being this size and that can be able to switch one through five, that adds another dimension.",
+      "quote": "Being this size and that can be able to switch one through five, that adds another dimension to a team. And definitely going up there and contesting shots is one of the things that I try to perfect. So yeah, I can definitely add value in different ways outside of just scoring the basketball, and defensively I think I can, you know, be even better. I think I can be in the gaps a little bit more, I think I can contest at the rim more, I can rebound better.",
+      "text_blocks": [],
+      "start_seconds": 172,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kevin Durant says he believes he can be even better defensively. He noted that he wants to be in the gaps more and contest at the rim more to add value outside of just scoring.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kevin Durant explains how his size and defensive versatility add value to the team beyond scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kevin Durant",
+      "timestamp": "03:39",
+      "summary_phrase": "Kevin Durant on the team's off-ball movement and screening",
+      "names_mentioned": [],
+      "excerpt": "we're doing a lot of screening actions, a lot of flaring actions, just playing random ball.",
+      "quote": "When you got guys that out there that can shoot the basketball, the defense is going to be on edge when you set a flare or you set a pin down. They're going to be into the ball because we got guys that can shoot and that can score. So sometimes guys screening is going to be the guy that's open. We're doing a lot of screening actions, a lot of flaring actions, just playing random ball sometimes. And that's always good too, to switch it up and not always running a set, but have a concept that you can play out of.",
+      "text_blocks": [],
+      "start_seconds": 219,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kevin Durant explains the team's offensive philosophy, noting that they are focusing on playing random basketball out of concepts like screens and flare actions rather than just running set plays.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kevin Durant discusses the team's offensive philosophy regarding off-ball movement and screening actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kevin Durant",
+      "timestamp": "04:42",
+      "summary_phrase": "Kevin Durant on the team's transition offense philosophy",
+      "names_mentioned": [],
+      "excerpt": "we know exactly how we're going to guard teams in each possession and then we all go.",
+      "quote": "We got a good philosophy on the defensive side of the ball, whereas we know exactly how we're going to guard teams in each possession and then we all go in there and rebound. It's that simple. And then a lot of teams are also crashing as well. So when an offense crash, I think you get a little bit more opportunity to run out and get layups. So we got great passers, we got good runners, and last game against Atlanta was an emphasis that we didn't run out in transition as much as we could have, and this game we wanted to have a little bit more energy to get out on the break.",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kevin Durant says the team made it an emphasis to get out in transition against the Hawks. He noted that when opponents crash the glass, it creates more opportunities for them to run out and get layups.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Kevin Durant explains the team's transition offense philosophy and their focus on running the floor against Atlanta.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kevin Durant",
+      "timestamp": "05:27",
+      "summary_phrase": "Kevin Durant on balancing set plays with random basketball",
+      "names_mentioned": [],
+      "excerpt": "we don't have to call that play, we just kind of know that all right, if we're sitting.",
+      "quote": "We've been working on this since training camp to the point where it's like we don't have to call that play, we just kind of know that all right, if we're sitting up there and nobody's moving, then flare or pin down or dribble handoff. So instead of sitting around, I think we're just moving around a little bit more and randomly moving around and that's throwing the defense off a bit. I think a lot of times when you call sets and they scout too, they know exactly what we're calling, exactly what these plays do. So when you can play random but also out of a concept of a screen down or pin down or dribble handoff, I think that just makes the game easier for you.",
+      "text_blocks": [],
+      "start_seconds": 327,
+      "end_seconds": 377,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kevin Durant on the team's offensive evolution: When you can play random but also out of a concept of a screen down or pin down, I think that just makes the game easier for you.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kevin Durant describes the team's preference for playing random basketball over running scripted sets to keep defenses off balance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kevin Durant",
+      "timestamp": "06:33",
+      "summary_phrase": "Kevin Durant on the injury to Ja Morant",
+      "names_mentioned": [
+        "Ja Morant"
+      ],
+      "excerpt": "it's a brotherhood, we compete at the highest level against each other.",
+      "quote": "Just feel for him. This is a brotherhood, we compete at the highest level against each other and we keep that on the floor, but to see one of your brothers in this thing go down with such a gruesome injury, especially at this age and having an injury history last year, you know, just thinking about him, thinking about his teammates. That's tough to see, man. Like I said, it's a brotherhood, we want everybody healthy, we want everybody out on the court doing what they love to do. But I know he knows that he has so much support around him, he has so much love around the league and can't wait to see him get back.",
+      "text_blocks": [],
+      "start_seconds": 393,
+      "end_seconds": 439,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Kevin Durant shared his support for Ja Morant following his injury. Durant called it a brotherhood and said it is tough to see a player go down like that, adding that Morant has a lot of love and support around the league.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ja Morant"
+        ],
+        "teams": [
+          "HOU",
+          "MEM"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kevin Durant expresses his sympathy for Ja Morant following a recent injury during a game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "CbYpG0bw38s",
+  "url": "https://www.youtube.com/watch?v=CbYpG0bw38s",
+  "channel_team": "Houston Rockets",
+  "published": "2026-10-27T04:44:34Z",
+  "duration_seconds": 442,
+  "processed_at": "2026-10-27T15:56:29Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

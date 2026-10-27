@@ -1,0 +1,143 @@
+{
+  "video_title": "Nate Ament Postgame Media Availability | 10.26.26",
+  "speakers_seen": [
+    "Nate Ament"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nate Ament",
+      "timestamp": "00:10",
+      "summary_phrase": "Nate Ament on the team's energy and coach Taylor's intensity",
+      "names_mentioned": [
+        "Taylor"
+      ],
+      "excerpt": "you can hear him screaming on the sidelines, screaming out coverages and screaming out screens",
+      "quote": "We definitely been working hard, especially all the energy and care and urgency Coach Taylor brings to it. You can hear him screaming on the sidelines, screaming out coverages and screaming out screens because he just wanted this one so bad and he truly wants to win every game. For our team, we have been working so hard and talking so much about what we can do to get better and improve, and I think we did. Each game we have gotten better and better and we were able to get the end result, but it ultimately is just how can we get better each play.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nate Ament credits the team's recent improvement to the intensity of Coach Taylor, noting that he is always screaming out coverages because he truly wants to win every game.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nate Ament discusses the team's energy and the intensity brought by head coach Taylor following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nate Ament",
+      "timestamp": "01:04",
+      "summary_phrase": "Nate Ament on his personal growth and coaching staff influence",
+      "names_mentioned": [],
+      "excerpt": "the more you are watching the game and the more you feel the game, the more you can adjust",
+      "quote": "The more you are watching the game and the more you feel the game, the more you can adjust and change throughout the game, so I guess that is part of it. Also, there is the work that has been the work. I have been putting a lot of work and our coaching staff and everyone has been harping on me to do the little things and I have been trying to do that. I think that is just a culmination of all the work and then what the coaching staff has taught me.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Nate Ament says his recent growth is a culmination of the work he has put in and the coaching staff harping on him to do the little things.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament reflects on his personal development and the influence of the coaching staff on his performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nate Ament",
+      "timestamp": "01:45",
+      "summary_phrase": "Nate Ament on his chemistry and future with Braden",
+      "names_mentioned": [
+        "Braden"
+      ],
+      "excerpt": "it is great to have some of the backcourt like Braden, and he is a great teammate",
+      "quote": "Me and Braden have talked and we just have big goals and big aspirations for our careers going forward and I think we took a step in the right direction. It is great to have some of the backcourt like Braden, and he is a great teammate to play with and I am excited for our future.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Nate Ament is excited for the future alongside Braden, noting that they have big goals and aspirations for their careers.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Braden"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nate Ament discusses his chemistry and future aspirations with his teammate Braden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nate Ament",
+      "timestamp": "02:16",
+      "summary_phrase": "Nate Ament on the team's resilience in closing out games",
+      "names_mentioned": [
+        "Casas"
+      ],
+      "excerpt": "I think that we just stuck with it for 48 minutes. I think it was less about Xs and Os",
+      "quote": "I think that we just stuck with it for 48 minutes. I think it was less about Xs and Os and more about grit. Even in the fourth quarter, it was not perfect. We had turnovers, they got offensive rebounds on us and stuff, but we just kept playing. They got our offensive rebound, MT came over with the block, we got steals, I got Casas playing great, he is right there, but I think that we just stuck with it and fought.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nate Ament says the team's ability to close out games is less about Xs and Os and more about grit, noting that they just stuck with it and fought for 48 minutes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Casas"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament describes the team's resilience and effort during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "BGGnclh38Yo",
+  "url": "https://www.youtube.com/watch?v=BGGnclh38Yo",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T03:21:35Z",
+  "duration_seconds": 171,
+  "processed_at": "2026-10-27T15:57:10Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

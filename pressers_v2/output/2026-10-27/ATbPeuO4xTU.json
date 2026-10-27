@@ -1,0 +1,46 @@
+{
+  "video_title": "Hawks vs. Rockets Postgame Press Conference: Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:05",
+      "summary_phrase": "Quin Snyder on the importance of team competitiveness and ball movement",
+      "names_mentioned": [],
+      "excerpt": "when we don't change side to side, we don't run, we don't pass the ball, we're just not as good",
+      "quote": "I think two things. One, when we play the way that we are capable of playing and need to play, we're very competitive, meaning on the scoreboard. When we don't change side to side, we don't run, we don't pass the ball, we're just not as good a team. And we just have to stay committed to who we are and who we need to be to be as good as we want to be, to be successful. We'll get back and look at it and be able to drill down and see the situations where we can get better, but we have to stay committed to our way. It's not a right way or a wrong way, it's the way that we need to play. And when we don't do that, we're not as good.",
+      "start_seconds": 5,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder says the Hawks must stay committed to their identity to be successful. He noted that when they do not move the ball or run, they are simply not as good a team as they need to be.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the team's need for consistent ball movement and competitiveness following the game against the Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ATbPeuO4xTU",
+  "url": "https://www.youtube.com/watch?v=ATbPeuO4xTU",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-27T03:18:22Z",
+  "duration_seconds": 64,
+  "processed_at": "2026-10-27T15:57:16Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

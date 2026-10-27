@@ -1,0 +1,390 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe and Trae Young | 10.26.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Trae Young"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on Washington's rebounding issues and second-chance points",
+      "names_mentioned": [],
+      "excerpt": "the rebounding was the the major issue with the game",
+      "quote": "The first thing is too many offensive rebounds, too many second-chance points. I liked our fight there in the second half. We cut it early. They made a run in the third, and then they made a run in the fourth, too, then we cut it at the end. So I loved our fight and our competitiveness to the end, but obviously the rebounding was the major issue with the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe says rebounding was the major issue in the loss to the Wizards, noting that while he liked the team's fight and competitiveness, they simply did not clean up the glass consistently enough.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the team's performance and rebounding issues following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:27",
+      "summary_phrase": "Brian Keefe on the impact of Diabate and defensive rebounding",
+      "names_mentioned": [
+        "Diabate"
+      ],
+      "excerpt": "Diabate obviously was a big factor",
+      "quote": "I think it was multiple things. One guy obviously was a big culprit. Diabate obviously was a big factor, but it was also the loose ones, the long ones. When we made our runs, we were cleaning those up and getting the long rebounds. So we cleaned up some of it, but we just didn't do it enough or consistently enough to get the win.",
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on the defensive rebounding struggles: Diabate was a big factor, but it was also the loose ones and the long ones that hurt the team throughout the game.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Moussa Diabate"
+        ],
+        "teams": [
+          "WAS",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains the defensive rebounding challenges faced by the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:55",
+      "summary_phrase": "Brian Keefe on Justin Champagnie's injury status",
+      "names_mentioned": [
+        "Justin Champagnie"
+      ],
+      "excerpt": "we're just evaluating right now",
+      "quote": "We're just evaluating right now. That's all the update I have.",
+      "verbatim_original_language": "",
+      "start_seconds": 55,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Brian Keefe says the team is still evaluating Justin Champagnie following his injury.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brian Keefe provides a brief update on the injury status of Justin Champagnie.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:04",
+      "summary_phrase": "Brian Keefe on Anthony Davis's hand injury",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "I think he got hit in the hand but no update yet",
+      "quote": "I think he got hit in the hand but no update yet.",
+      "verbatim_original_language": "",
+      "start_seconds": 64,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Brian Keefe provides a brief update on Anthony Davis after he took a hit to the hand, stating there is no update yet.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS",
+          "LAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brian Keefe addresses a hand injury sustained by Anthony Davis during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:49",
+      "summary_phrase": "Brian Keefe on Keyonte George's foul trouble",
+      "names_mentioned": [
+        "Keyonte George"
+      ],
+      "excerpt": "he's just got to work through these things",
+      "quote": "He's just got to work through these things. This is part of the NBA. Adversity is going to hit, how are you going to do it? I thought he dealt with it very well when he got back in the game. You saw the positive changes when he was in the game, but these are growing things our team is going through and he's going through.",
+      "verbatim_original_language": "",
+      "start_seconds": 109,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe on Keyonte George dealing with foul trouble: These are growing things our team is going through and he is going through.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keyonte George"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses how Keyonte George handled foul trouble during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trae Young",
+      "timestamp": "04:13",
+      "summary_phrase": "Trae Young on the frustration of losing and offensive struggles",
+      "names_mentioned": [],
+      "excerpt": "we can't get off to good starts as far as scoring",
+      "quote": "It's frustrating, of course, whenever you're trying to win games and you feel like you had a chance. We're learning. We can't get off to good starts as far as scoring and things like that. We're giving them a 19-point first quarter, that's an unbelievable defensive first quarter, but I don't know how many points we scored, maybe 21, that's not enough. We've got to get better offensively and we'll get better.",
+      "verbatim_original_language": "",
+      "start_seconds": 253,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trae Young admits the team is struggling to find an offensive rhythm: We have got to get better offensively and we will get better.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young expresses frustration regarding the team's offensive struggles and slow starts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Trae Young",
+      "timestamp": "04:52",
+      "summary_phrase": "Trae Young on the team's rebounding struggles",
+      "names_mentioned": [
+        "Diabate"
+      ],
+      "excerpt": "they're rebounding and they have a guy over there who's really good at it in Diabate",
+      "quote": "They're rebounding and they have a guy over there who's really good at it in Diabate, and got a lot of rebounds and that's on all of us and not just our bigs. We've got to help our bigs rebound, but yeah, their rebounding really got them feeling comfortable.",
+      "verbatim_original_language": "",
+      "start_seconds": 292,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young on the team's rebounding issues: It is on all of us and not just our bigs. We have got to help our bigs rebound.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Moussa Diabate"
+        ],
+        "teams": [
+          "WAS",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the team's failure to contain Moussa Diabate on the boards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trae Young",
+      "timestamp": "05:12",
+      "summary_phrase": "Trae Young on the team's need to improve offensively",
+      "names_mentioned": [],
+      "excerpt": "we've got to figure out this offensive stuff",
+      "quote": "At times they're deflating, but you've got to figure out how to get past it. You've got to figure out how to move on and get a bucket and get a score. We haven't done that consistently enough to feel good about ourselves. We have a long season to go, but we've got to figure out this offensive stuff.",
+      "verbatim_original_language": "",
+      "start_seconds": 312,
+      "end_seconds": 335,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young on the team's offensive inconsistency: We have not done that consistently enough to feel good about ourselves. We have a long season to go, but we have got to figure this offensive stuff out.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young talks about the need for the team to find offensive consistency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Trae Young",
+      "timestamp": "05:45",
+      "summary_phrase": "Trae Young on the team's need for better pace and spacing",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "we've got to get to our spots faster",
+      "quote": "We've got to get to our spots faster. We've got to move, play with more pace. We've got to get into our spacing better when Anthony Davis has an ISO. There's a lot of things we can get better at. These guys haven't played with me, we're still trying to figure each other out.",
+      "verbatim_original_language": "",
+      "start_seconds": 345,
+      "end_seconds": 366,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trae Young says the team needs to play with more pace and improve spacing when Anthony Davis is in isolation: These guys have not played with me, we are still trying to figure each other out.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Trae Young highlights the need for better spacing and pace when playing alongside Anthony Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Trae Young",
+      "timestamp": "06:13",
+      "summary_phrase": "Trae Young on the team's shooting confidence and execution",
+      "names_mentioned": [],
+      "excerpt": "I think it's both, having confidence when you get it and just knowing to knock it down",
+      "quote": "I think it's both, having confidence when you get it and just knowing to knock it down, but at the same time, maybe we can make one more pass. I think we're getting good looks to be honest with you. I think we just got to continue to knock them down and keep shooting them. I know once we get it clicking, it'll feel good and it'll look good.",
+      "verbatim_original_language": "",
+      "start_seconds": 373,
+      "end_seconds": 400,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young on the team's shooting: I think we are getting good looks to be honest with you. I think we just have to continue to knock them down and keep shooting them.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the team's shooting confidence and decision-making on offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Trae Young",
+      "timestamp": "06:45",
+      "summary_phrase": "Trae Young on his chemistry with Anthony Davis",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "me and Anthony Davis have a pretty good relationship",
+      "quote": "Me and Anthony Davis have a pretty good relationship and how we play on the court. It's more about there's still five guys on there, the other three guys have to be in their space. If a shooter is in the right space, it could be in the way of Anthony Davis, so it's a team game. We've got to figure out where we all need to be on each and every possession.",
+      "verbatim_original_language": "",
+      "start_seconds": 405,
+      "end_seconds": 433,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young on his chemistry with Anthony Davis: It is a team game. We have got to figure out where we all need to be on each and every possession.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young explains the importance of team spacing when playing with Anthony Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Trae Young",
+      "timestamp": "07:26",
+      "summary_phrase": "Trae Young on supporting his teammate during injury recovery",
+      "names_mentioned": [
+        "Justin Champagnie"
+      ],
+      "excerpt": "that's the worst feeling in the world",
+      "quote": "That's the worst feeling in the world, especially as a point guard and somebody who cares about their teammates, damn near more than himself. That's the worst feeling in the world. I know Justin Champagnie is going to recover and whatever he's going through, we're going to be right there with him, and he's going to be right there with us throughout his recovery.",
+      "verbatim_original_language": "",
+      "start_seconds": 446,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young on Justin Champagnie's injury: That is the worst feeling in the world, especially as a point guard and somebody who cares about their teammates.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Justin Champagnie"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Trae Young shares his support for Justin Champagnie as he recovers from an injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jcZtE5C_c4U",
+  "url": "https://www.youtube.com/watch?v=jcZtE5C_c4U",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-27T02:22:36Z",
+  "duration_seconds": 479,
+  "processed_at": "2026-10-27T15:58:05Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

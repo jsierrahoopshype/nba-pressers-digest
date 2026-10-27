@@ -1,0 +1,196 @@
+{
+  "video_title": "Hornets vs Wizards: Coach Charles Lee Postgame Media Availability | 10/26/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:17",
+      "summary_phrase": "Charles Lee on the Hornets' need for consistent defensive habits",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "I would love to see our habits be sustainable until that last buzzer.",
+      "quote": "I love that the group was able to respond after the Wizards went on a run. It is a really good team, but I think in all games you have to realize the game is far from over. I would love to see our habits be sustainable until that last buzzer. I thought we had a little bit of a lapse in transition defense and not protecting the paint in some key moments. After the timeout, we came out and Brandon Miller gets a big-time block on Anthony Davis's attempt at the rim. I thought our shift activity improved, some of the contests were great, and they banged a couple of threes that were heavily contested. But I thought for the most part, once we locked back in on our habits and our techniques, we got a little bit better.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Charles Lee wants to see more consistency from the Hornets. He says the team needs to maintain their defensive habits until the final buzzer to avoid lapses in transition and paint protection.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "CHA",
+          "WAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Head coach Charles Lee discusses the team's defensive performance and Brandon Miller's block on Anthony Davis during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "01:02",
+      "summary_phrase": "Charles Lee on Brandon Miller's growth and clutch performance",
+      "names_mentioned": [
+        "Brandon Miller",
+        "Anthony Davis"
+      ],
+      "excerpt": "Brandon had a big-time night for us, the thing that was probably most impressive was his wanting of the ball.",
+      "quote": "Brandon had a big-time night for us, the thing that was probably most impressive was his wanting of the ball in a clutch situation and understanding what we needed to get out of some of those looks down the stretch. But then his defensive activity all night, all the deflections and steals and blocked shots in transition, and winning that 50-50 ball on the sideline—those are the things when your best player is being elite on defense and offense, it makes you a really good team.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Charles Lee praised Brandon Miller for his elite two-way performance against the Wizards. He highlighted Miller's defensive activity and his willingness to take charge in clutch situations.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee praises Brandon Miller for his defensive activity and offensive decision-making in clutch situations during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:38",
+      "summary_phrase": "Charles Lee on Brandon Miller's maturity and team support",
+      "names_mentioned": [
+        "Brandon Miller",
+        "Dennis Smith Jr.",
+        "Naz Reid",
+        "Musa",
+        "Grayson Allen",
+        "Kobe"
+      ],
+      "excerpt": "I see Dennis talking to him, I see Naz talking to him, I hear Musa, Grayson, whoever it is.",
+      "quote": "As you get deep into games, you need to know where the ball is going, what your spacing is going to look like. There has got to be some preparation but also a confidence and a willingness to want to be in those moments. I think Brandon and the whole team are prepared for them and they want them. Part of Brandon's maturation is he himself, but then also I see Dennis talking to him, I see Naz talking to him, I hear Musa, Grayson, whoever it is down the line, Khan, Kobe, they are like, 'You are that guy, we believe in you.' And so when we put the ball in your hand, go make a play for yourself or your teammates. I think the fact that not only is Brandon prepared for it, but his teammates want to see him in those moments and they encourage him in those moments is really what is helping him as well.",
+      "text_blocks": [],
+      "start_seconds": 98,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller is growing into a leader. Charles Lee says the entire Hornets roster is encouraging Miller in big moments, telling him you are that guy and trusting him to make plays.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller",
+          "Dennis Schroder",
+          "Naz Reid",
+          "Musa",
+          "Grayson Allen",
+          "Khan",
+          "Kobe"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee discusses Brandon Miller's growth and the support he receives from his teammates during late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "02:35",
+      "summary_phrase": "Charles Lee on Tidjane Salaun's defensive development",
+      "names_mentioned": [
+        "Tidjane Salaun",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "The thing that I have loved about Tidjane is his mindset and his approach coming into the game.",
+      "quote": "The thing that I have loved about Tidjane is his mindset and his approach coming into the game. Most young players when you come in, you think the best way that you can impact the game is by scoring. I think he has realized that the role that we need of him consistently every night is to be defensively focused, understand what the personnel tendencies are. Obviously, he was a young player last year trying to learn a new basketball game and because he works so hard, he cares so much, we knew that he was going to make progress. Glad to see that it is translating to the court because I agree with you, his defensive activity and rebounding has been really good to watch him want the matchups. He is like, 'Coach, put me on Giannis Antetokounmpo or put me on Davis,' and his willingness and readiness to like, if it is one possession, if it is ten possessions, he is down for it.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tidjane Salaun is earning trust through his defense. Charles Lee says the young forward is actively asking for tough assignments against stars like Giannis Antetokounmpo and Anthony Davis.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tidjane Salaun",
+          "Giannis Antetokounmpo",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "CHA",
+          "MIL",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Charles Lee highlights Tidjane Salaun's defensive mindset and his willingness to guard elite players like Giannis Antetokounmpo and Anthony Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "03:49",
+      "summary_phrase": "Charles Lee on Naz Reid's versatility and offensive impact",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "He is another one of our versatile scorers and so when we are able to utilize him in a lot of different ways.",
+      "quote": "He is another one of our versatile scorers and so when we are able to utilize him in a lot of different ways it helps add space to our offense. It gives us another guy that can get himself downhill and to the paint, but I also just want him to realize to let the game come to him at times too. Obviously, he was in and out of the game because of foul trouble today and so it is a good learning experience for him that he can still come back in the game and the flow of our offense, the unselfishness that we have from all of our guys, they are still going to find him for some open catch-and-shoot threes. We are going to run some sets for him and so there is no need to force anything, but again, he was another guy that I thought came up with some big defensive plays as well too.",
+      "text_blocks": [],
+      "start_seconds": 229,
+      "end_seconds": 283,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee wants Naz Reid to let the game come to him. While Reid provides vital spacing and versatility, Lee says he does not need to force his offense even when dealing with foul trouble.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee evaluates Naz Reid's offensive versatility and his ability to contribute despite dealing with foul trouble during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ZcvsJDQEEmw",
+  "url": "https://www.youtube.com/watch?v=ZcvsJDQEEmw",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-27T03:15:23Z",
+  "duration_seconds": 283,
+  "processed_at": "2026-10-27T15:57:32Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

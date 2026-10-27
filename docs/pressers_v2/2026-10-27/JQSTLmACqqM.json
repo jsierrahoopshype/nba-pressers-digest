@@ -1,0 +1,176 @@
+{
+  "video_title": "Postgame Media Availability with Shai Gilgeous-Alexander | OKC Thunder | October 26, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:22",
+      "summary_phrase": "Shai Gilgeous-Alexander on the Thunder's team-wide focus on winning",
+      "names_mentioned": [],
+      "excerpt": "This league is about winning games, and that's all that matters.",
+      "quote": "This league is about winning games, and that's all that matters. Every night before the game, we go over how to win the game. This team has gotten really good at going out there and doing that, no matter who is in the lineup or who is out of the lineup. You saw an example of that tonight. We were just ready to go, guys were ready to go, guys were ready to step up. I'm not surprised by it at all.",
+      "verbatim_original_language": "",
+      "start_seconds": 22,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder's focus remains on winning regardless of who is in the lineup. He is not surprised by the team's ability to step up and perform when needed.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the team's collective focus on winning games regardless of the current lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:04",
+      "summary_phrase": "Shai Gilgeous-Alexander on AJ Mitchell's versatility and impact",
+      "names_mentioned": [
+        "AJ Mitchell",
+        "Jalen Williams",
+        "Cason Wallace"
+      ],
+      "excerpt": "Whatever we need from him, he provides at a high level.",
+      "quote": "AJ Mitchell has proven what he can do in this league. It is hard for a guy like that, he gets swung around in terms of his role just because guys are in and out of the lineup. But it seems like whatever we need from him, he provides at a high level. I expect the same thing from AJ going forward. If guys are out and we need more scoring, he will do so. If we need more defending, he will do so. Whatever it is, he will get it done.",
+      "verbatim_original_language": "",
+      "start_seconds": 64,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander praises AJ Mitchell for his versatility, noting that he provides whatever the team needs at a high level regardless of how his role changes due to injuries.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Mitchell"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander praises AJ Mitchell for his versatility and ability to adapt to different roles within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:51",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's mindset following recent injuries",
+      "names_mentioned": [],
+      "excerpt": "These are the cards we were dealt, and we can either feel bad for ourselves or get better.",
+      "quote": "We had a team meeting this morning, but it wasn't anything special. It wasn't no big rah-rah moment. It was just like, these are the cards we were dealt, and we can either feel bad for ourselves, which nobody does, or we can go out there and get better from this opportunity. We all chose to get better.",
+      "verbatim_original_language": "",
+      "start_seconds": 111,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder's mindset following recent injuries: We were dealt these cards and we chose to get better from the opportunity rather than feel bad for ourselves.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Shai Gilgeous-Alexander describes the team's mindset following recent injuries and a morning meeting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:27",
+      "summary_phrase": "Shai Gilgeous-Alexander on supporting teammate Isaiah Hartenstein",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "He has had a tough year and a half with injuries.",
+      "quote": "It is pretty crazy. Obviously, more than anything, I just feel gutted for the guy. He has had a tough year and a half with injuries, and then he finally seems like he figures it out and then something like this happens. It is crazy. It is hard to even fathom the game, and I know how much he just loves to play basketball and for it to be taken away from him like that time after time after time is unfair. But if anyone can come out stronger than that, it is Isaiah Hartenstein. He will be just fine. He will be a better basketball player than he ever was at the end of this, and I am fully confident in that.",
+      "verbatim_original_language": "",
+      "start_seconds": 147,
+      "end_seconds": 194,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Shai Gilgeous-Alexander says he feels gutted for Isaiah Hartenstein after his latest injury. He remains confident that Hartenstein will come back a better basketball player than he ever was.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander expresses sympathy and support for Isaiah Hartenstein following his latest injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:34",
+      "summary_phrase": "Shai Gilgeous-Alexander on the development of younger Thunder players",
+      "names_mentioned": [
+        "AJ Mitchell",
+        "Ousmane Dieng",
+        "Jared McCain",
+        "Taylor Hendricks"
+      ],
+      "excerpt": "Those guys are going to be thrown into the fire, and ultimately they will get better.",
+      "quote": "We don't really have a choice. Those guys are going to be thrown into the fire, and ultimately they will get better from the experiences, and we will get better as a team from the experiences. Whenever we get whole again, whenever that is, we don't know, we will be a better whole because of that. I firmly believe that. Those guys are going to be thrown into the fire, and I have the utmost confidence that they will be ready and they will take the challenges on, and that is all you can ask for, just go out there and compete.",
+      "verbatim_original_language": "",
+      "start_seconds": 274,
+      "end_seconds": 313,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder's younger players are being thrown into the fire, but he has the utmost confidence they will be ready to compete and help the team improve.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the development of younger players who are receiving increased playing time due to injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "JQSTLmACqqM",
+  "url": "https://www.youtube.com/watch?v=JQSTLmACqqM",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-27T04:51:57Z",
+  "duration_seconds": 315,
+  "processed_at": "2026-10-27T15:56:25Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,166 @@
+{
+  "video_title": "Rick Carlisle Media Availability | October 26, 2026",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:07",
+      "summary_phrase": "Rick Carlisle on Pacers' rebounding and shooting struggles",
+      "names_mentioned": [],
+      "excerpt": "didn't play well enough and didn't get enough rebounds to get anything going",
+      "quote": "Didn't play well enough and didn't get enough rebounds to get anything going. We had some pretty good looks that didn't go down, but it wasn't simply a case of make or miss. We've got to retrieve the ball when it comes off the board.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle says the Pacers struggled to get anything going tonight because they failed to retrieve the ball off the glass. He noted that while they missed some good looks, it was not just a case of make or miss.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the team's poor rebounding and shooting performance following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:30",
+      "summary_phrase": "Rick Carlisle on Aaron Nesmith's 20-minute playing time limit",
+      "names_mentioned": [
+        "Aaron Nesmith"
+      ],
+      "excerpt": "He's got a 20-minute limit. At least as of today, he does.",
+      "quote": "He's got a 20-minute limit. At least as of today, he does.",
+      "text_blocks": [],
+      "start_seconds": 30,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Aaron Nesmith is currently on a 20 minute playing time limit, according to Rick Carlisle.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Nesmith"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle confirms that Aaron Nesmith is currently playing under a 20-minute restriction.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:12",
+      "summary_phrase": "Rick Carlisle on lack of energy and ball movement",
+      "names_mentioned": [],
+      "excerpt": "We needed better energy in the second half. We didn't move it nearly as well.",
+      "quote": "We needed better energy in the second half. We didn't move it nearly as well. I don't know what the assist numbers were first and second half, but they couldn't have been very good in the second half. We didn't move it nearly as well.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle says the Pacers lacked energy and ball movement in the second half of tonight's loss.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle addresses the team's lack of energy and poor ball movement during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:37",
+      "summary_phrase": "Rick Carlisle on turnovers and rebounding disadvantage",
+      "names_mentioned": [],
+      "excerpt": "13 turnovers doesn't seem like that many, but when you get out-rebounded by 13 or 14",
+      "quote": "13 turnovers doesn't seem like that many, but when you get out-rebounded by 13 or 14, that was a big part of it.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle points to the rebounding disparity as a major factor in tonight's loss, noting the team was out-rebounded by 13 or 14.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle explains how the rebounding deficit contributed to the team's struggles despite having a moderate turnover count.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:19",
+      "summary_phrase": "Rick Carlisle on Jarace Walker's performance despite shooting struggles",
+      "names_mentioned": [
+        "Jarace Walker"
+      ],
+      "excerpt": "Jarace played well. He didn't have a great shooting night, but his energy was good.",
+      "quote": "Jarace played well. He didn't have a great shooting night, but his energy was good. He was rebounding the ball and we just needed a little more from everybody.",
+      "text_blocks": [],
+      "start_seconds": 199,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Despite a rough shooting night, Rick Carlisle praised Jarace Walker for his energy and rebounding effort.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jarace Walker"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle evaluates Jarace Walker's performance, noting his positive energy and rebounding despite a difficult shooting night.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "CBGJ7IuhjVA",
+  "url": "https://www.youtube.com/watch?v=CBGJ7IuhjVA",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-27T03:17:14Z",
+  "duration_seconds": 223,
+  "processed_at": "2026-10-27T15:57:22Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,204 @@
+{
+  "video_title": "Myles Turner Postgame Media Availability | 10.26.26",
+  "speakers_seen": [
+    "Myles Turner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Myles Turner",
+      "timestamp": "00:09",
+      "summary_phrase": "Myles Turner on the team's chemistry and Taylor Jenkins' coaching",
+      "names_mentioned": [
+        "Taylor Jenkins"
+      ],
+      "excerpt": "The guys are starting to come together and buying in to who Taylor is",
+      "quote": "First and foremost, it's good to get that first one out the way. We know we were inching closer and closer the first few games of the season. It's really been about the energy and the spirit that we've been building since camp, back in September. The guys are starting to come together and buying in to who Taylor is and what he embodies, and it's starting to show up in here. It's a great first win, especially at home, and getting Taylor his first win as a coach here in Milwaukee was something special.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Myles Turner says the Bucks are buying into Taylor Jenkins and what he embodies as the team secures their first win of the season at home.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor Jenkins"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Myles Turner discusses the team chemistry and the first win for head coach Taylor Jenkins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Myles Turner",
+      "timestamp": "00:56",
+      "summary_phrase": "Myles Turner on his defensive impact and team accountability",
+      "names_mentioned": [],
+      "excerpt": "I just want to impact winning, and I think that's been Taylor's message to me",
+      "quote": "The biggest thing about me is I just want to impact winning, and I think that's been Taylor's message to me since camp. It's just finding ways to be who I am. Obviously, offensively, it's not going the way I want it to go right now, but that's not the only thing I do. I want to energize my team, find ways to cut those margins down, and I was able to come up with some big plays in the end.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Myles Turner on his offensive struggles: My shot is not going the way I want right now, but I want to energize my team and find ways to impact winning.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor Jenkins"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner explains his focus on impacting winning and following the message from Taylor Jenkins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Myles Turner",
+      "timestamp": "02:12",
+      "summary_phrase": "Myles Turner on Nate's steady confidence and defensive performance",
+      "names_mentioned": [
+        "Nate",
+        "Pascal Siakam"
+      ],
+      "excerpt": "One thing I like about Nate is the entire time, it's just steady confidence",
+      "quote": "Nate has had a couple of his moments so far, but it was finally Nate's turn. One thing I like about Nate is the entire time, it's just steady confidence. No matter what happened out there, nothing deterred him. He took great shots, played good defense against Pascal Siakam, and again, I just keep trying to tell him, go in there and impact winning in any way, shape, or form. He's going to get better, the more experience he gets, and I'm glad he gets the trial by fire.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Myles Turner praised Nate for his steady confidence and defensive effort against Pascal Siakam: He is going to get better the more experience he gets.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nate",
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "MIL",
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myles Turner praises his teammate Nate for his steady confidence and defensive effort against Pascal Siakam.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Myles Turner",
+      "timestamp": "03:09",
+      "summary_phrase": "Myles Turner on Taylor Jenkins' coaching and team accountability",
+      "names_mentioned": [
+        "Taylor"
+      ],
+      "excerpt": "He holds everybody to the same standard no matter who the player is",
+      "quote": "I really rock with Taylor, who he is as a person and what he stands for as a coach. The accountability aspects have been unbelievable. He holds everybody to the same standard no matter who the player is, and he just demands our focus and our energy on such a high level every single day. He doesn't stand for any lackadaisical nonsense, and he came in here and has really been a fun drill sergeant to say the least.",
+      "text_blocks": [],
+      "start_seconds": 189,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Myles Turner on Taylor Jenkins: The accountability aspects have been unbelievable. He holds everybody to the same standard and he has really been a fun drill sergeant.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor Jenkins"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Myles Turner discusses the accountability standards set by head coach Taylor Jenkins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Myles Turner",
+      "timestamp": "03:54",
+      "summary_phrase": "Myles Turner on mentoring young players and maintaining energy",
+      "names_mentioned": [],
+      "excerpt": "I like to call it youthful exuberance. You got guys that are 20, 22 years old",
+      "quote": "I like to call it youthful exuberance. You got guys that are 20, 22 years old, it's their first crack at the league, and I personally remember what that felt like. There's times where there's dog days throughout the season. It's hard to get up out the bed in the morning and move, and then you see these guys coming in with so much energy and excitement, and it almost kind of tickles you in a way because it reminds you what this is really about. I like the youthful exuberance and the youth movement we got going now.",
+      "text_blocks": [],
+      "start_seconds": 234,
+      "end_seconds": 272,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Myles Turner says he enjoys the youthful exuberance of the younger players on the Bucks roster: It reminds you what this is really about.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner reflects on the energy brought by the younger players on the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Myles Turner",
+      "timestamp": "04:45",
+      "summary_phrase": "Myles Turner on focusing on the present over future uncertainty",
+      "names_mentioned": [],
+      "excerpt": "I can't control the future. I can control what I can do day in and day out",
+      "quote": "I can't control the future. I can control what I can do day in and day out in the present, and that's where I've just been, is in the present. I think that if you continue to worry about the future, then it kind of knocks you off what our goal is, and that's to build brick by brick every single day. I think that's what we stand for here with the Bucks, is that day-by-day mentality. I think we've gotten so much better since the preseason, and now our job is to continue to keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 285,
+      "end_seconds": 323,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Myles Turner on his mindset: I cannot control the future. I can control what I can do day in and day out in the present. That is where I have been.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner talks about his mindset of focusing on the present rather than future uncertainties.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "5jdCx7eyYT8",
+  "url": "https://www.youtube.com/watch?v=5jdCx7eyYT8",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-27T03:32:45Z",
+  "duration_seconds": 355,
+  "processed_at": "2026-10-27T15:56:59Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

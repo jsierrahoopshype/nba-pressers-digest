@@ -1,0 +1,100 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Jazz",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:00",
+      "summary_phrase": "Tuomas Iisalo on Grizzlies' bench performance and late-game poise",
+      "names_mentioned": [],
+      "excerpt": "very satisfied with our again, the word I keep using is poise, in the fourth quarter",
+      "quote": "I felt that things in the third and the fourth, we had good control of the game. I thought our guys played really well, especially the guys off the bench, the amount of energy they brought and pace on a second night of a back-to-back. We saw two teams that were really struggling to generate something and it came down to big plays down the stretch. But I am very satisfied with our again, the word I keep using is poise, in the fourth quarter of just staying with the program, getting to the situations, working the margins and then coming up with the crucial defensive stops at the right time.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo praised his bench unit for their energy and poise during the Grizzlies win on the second night of a back to back saying the team showed great control in the fourth quarter to secure crucial defensive stops",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the Grizzlies' bench performance and late-game execution following their game against the Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:54",
+      "summary_phrase": "Iisalo on the importance of early-season reps for young Grizzlies",
+      "names_mentioned": [],
+      "excerpt": "to get these reps early in the season, with I think we're the fourth youngest team",
+      "quote": "Every one of these games, as hard as it is for the nerves for everybody watching at home and being in these games, they also are great growth opportunity to get these reps early in the season, with I think we're the fourth youngest team in the league. But to get our young guys also these reps, they're in the end is invaluable, not just for games, next few games, but for the whole season and for the future too.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo says these early season reps are invaluable for the Grizzlies young roster noting that while these close games are hard on the nerves they are a great growth opportunity for the fourth youngest team in the league",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo explains the value of early-season game experience for the young Grizzlies roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:11",
+      "summary_phrase": "Iisalo views roster depth as a necessity for 82-game schedule",
+      "names_mentioned": [],
+      "excerpt": "I personally don't consider it a luxury. I consider it a necessity in this schedule.",
+      "quote": "I personally don't consider it a luxury. I consider it a necessity in this schedule. We have an 82-game schedule. We got to find on a nightly basis, got to find those guys who are able to bring the juice and at the same time bring the necessary focus and be in that attack mode from the first moment on. And I think we definitely have that type of team, and I think we made a huge run in the first half building that lead, especially with our bench guys, and that's great to see.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo says he views roster depth as a necessity rather than a luxury for an 82 game schedule emphasizing the need to find players who can bring the juice and focus on a nightly basis",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo emphasizes the importance of roster depth for the Grizzlies throughout the 82-game season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "j094Tn-TJGM",
+  "url": "https://www.youtube.com/watch?v=j094Tn-TJGM",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-10-27T04:06:12Z",
+  "duration_seconds": 114,
+  "processed_at": "2026-10-27T15:56:38Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

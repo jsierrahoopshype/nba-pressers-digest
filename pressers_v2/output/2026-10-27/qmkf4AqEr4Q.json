@@ -1,0 +1,230 @@
+{
+  "video_title": "Postgame Media Availability with Ajay Mitchell | OKC Thunder | October 26, 2026",
+  "speakers_seen": [
+    "Ajay Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "00:19",
+      "summary_phrase": "Ajay Mitchell on the importance of changing pace in his game",
+      "names_mentioned": [],
+      "excerpt": "being able to change pace, I think it's really important.",
+      "quote": "Being able to change pace, I think it's really important. Ever since I got here, I've just been working on that. Obviously, I get to learn from the best, so it's something that I want to keep working on and keep getting better at, but I'm happy with the win tonight and what we've done, so that's what matters.",
+      "verbatim_original_language": "",
+      "start_seconds": 19,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ajay Mitchell says he has been focusing on his ability to change pace since arriving in Oklahoma City. He credits learning from the best on the Thunder roster for his development in that area.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell discusses his focus on improving his ability to change pace during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "01:02",
+      "summary_phrase": "Ajay Mitchell on the impact of skilled big men on the team",
+      "names_mentioned": [
+        "Adai"
+      ],
+      "excerpt": "It's great to have bigs like that that are able to be tough, rebound, and do all the little things.",
+      "quote": "It's huge. Shout out to them. They've always done a great job at that, and I think also now adding Adai. It's great to have bigs like that that are able to be tough, rebound, and do all the little things that matter and be very talented and skilled with the ball. Being able to make the right play, finding guys open, it really opens it up for all of us.",
+      "verbatim_original_language": "",
+      "start_seconds": 62,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ajay Mitchell praises the Thunder big men for their versatility. He notes that having skilled bigs who can rebound and make the right play really opens up the floor for the rest of the team.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ajay Mitchell praises the team's big men for their rebounding and playmaking abilities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "01:36",
+      "summary_phrase": "Ajay Mitchell on his reaction to scoring a career high",
+      "names_mentioned": [
+        "J-Dub",
+        "K-So",
+        "Ortega"
+      ],
+      "excerpt": "I heard a couple congrats, I was like, oh, that's pretty cool.",
+      "quote": "When I got back to the bench, I heard a couple congrats, I was like, oh, that's pretty cool. But I'm just glad we got the win. Prayers up to J-Dub, K-So, Ortega. It's hard to see guys go down, especially when you know how much they've worked, but we got their back and they're tough. I believe God has a plan for us, and that's all that matters.",
+      "verbatim_original_language": "",
+      "start_seconds": 96,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Ajay Mitchell reacts to his career high performance while addressing the injuries to J-Dub, K-So, and Ortega. He says it is hard to see teammates go down but the team is focused on having their backs.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams",
+          "Kenrich Williams",
+          "Ortega"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ajay Mitchell reacts to his career-high scoring performance and addresses the injuries sustained by his teammates.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "02:24",
+      "summary_phrase": "Ajay Mitchell on the team's mental approach after injuries",
+      "names_mentioned": [],
+      "excerpt": "We kind of felt like we had to do that for them.",
+      "quote": "It's tough for all of us. It just didn't feel real. But I mean, we kind of felt like we had to do that for them. I know how hard those guys want to be out playing, and so the only thing we could do is just go out there, compete at the highest level, and go and get a win for them. That was our mindset, and we know we got to have their backs, and that's what we're focused on.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "After seeing teammates go down with injuries, Ajay Mitchell says the Thunder mindset shifted to competing at the highest level to get a win for them. He says it did not feel real to see them go down.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ajay Mitchell describes the team's mindset following the injuries to several teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "03:33",
+      "summary_phrase": "Ajay Mitchell on his role and team-first mentality",
+      "names_mentioned": [],
+      "excerpt": "I want to do whatever the team needs me to do to win.",
+      "quote": "I always looked at it as I want to do whatever the team needs me to do to win. When we're all healthy, it might be aggressive and do your thing, and that's really all I'm focused about. It's about our team. How can I help this team win? Obviously with those guys out, I knew I probably have to come out and be even more aggressive, but I got to stay myself, no matter what, no matter who's in, who's out, and figure out a way to help the team win.",
+      "verbatim_original_language": "",
+      "start_seconds": 213,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ajay Mitchell on his approach to the rotation: I knew I probably have to come out and be even more aggressive with guys out, but I have to stay myself no matter who is in or out of the lineup.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell explains his approach to maintaining a team-first mentality and aggression amid roster changes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "04:37",
+      "summary_phrase": "Ajay Mitchell on the ease of playing with Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai"
+      ],
+      "excerpt": "Shai is very easy to be on the court with.",
+      "quote": "Shai is very easy to be on the court with and just try to find ways to obviously get him the ball and also find ways to make plays for my teammates and myself. He's a great leader, he's always trying to make the right play, and so I think at the end of the day, we're all just trying to win, and we're just going to do whatever we got to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 277,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ajay Mitchell describes playing alongside Shai Gilgeous-Alexander. He calls Shai a great leader who is always trying to make the right play, making it very easy to share the court with him.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ajay Mitchell discusses the experience of playing alongside Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "05:22",
+      "summary_phrase": "Ajay Mitchell on maintaining aggression despite roster changes",
+      "names_mentioned": [],
+      "excerpt": "I knew I just had to be myself and be aggressive.",
+      "quote": "I knew I just had to be myself and be aggressive. I think we have 18 guys that are great players and that want to compete. So no matter who I'm on the court with, I know we're going to be good, and we're just got to make the right play. Sometimes it's being very aggressive, sometimes it's finding the open man. That's just really the mindset. I believe in every single player on our team, and I think everyone has an impact on winning a game, and we saw it tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 322,
+      "end_seconds": 356,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ajay Mitchell says he believes in every player on the Thunder roster. He notes that with 18 great players, the team is going to be good no matter who is on the court as long as they make the right play.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell reflects on the team's depth and the collective mindset required to win games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "qmkf4AqEr4Q",
+  "url": "https://www.youtube.com/watch?v=qmkf4AqEr4Q",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-27T04:59:52Z",
+  "duration_seconds": 356,
+  "processed_at": "2026-10-27T15:56:06Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}

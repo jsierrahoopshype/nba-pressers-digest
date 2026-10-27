@@ -1,0 +1,235 @@
+{
+  "video_title": "Brandon Miller Breast Cancer Awareness Press Conference | 10/26/2026",
+  "speakers_seen": [
+    "Brandon Miller"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandon Miller",
+      "timestamp": "00:13",
+      "summary_phrase": "Brandon Miller on his mother's battle with cancer",
+      "names_mentioned": [],
+      "excerpt": "I know how strong my mom is. She means the world to me.",
+      "quote": "When I first found out, it was towards the back end of it. I had a lot of different things going on in my life at the time. I believe they kept it away from me just to let me focus on what I need to focus on. But of course, I know how strong my mom is. She means the world to me. Just seeing her progress through that time and mentally be positive about the situation, I think that shows a lot of toughness. Having someone like that around is always great for me just to lean on as a support system.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller reflects on his mother's battle with breast cancer and the toughness she showed throughout the process. He says seeing her progress and stay positive during that time shows a lot of toughness.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller discusses his mother's battle with cancer during a press conference focused on breast cancer awareness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandon Miller",
+      "timestamp": "00:56",
+      "summary_phrase": "Brandon Miller on supporting breast cancer survivors",
+      "names_mentioned": [],
+      "excerpt": "I try to help however I can. Think buying 500 tickets for breast cancer survivors.",
+      "quote": "I try to help however I can. Think buying 500 tickets for breast cancer survivors, I think that goes a long way of this hive organization that we've built. Having them come here support me, my family, my mom, especially just knowing what she's been through, it means the world to us and our family.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brandon Miller is donating 500 tickets to breast cancer survivors. He says having them at the arena to support his family means the world to them.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller explains his decision to purchase 500 tickets for breast cancer survivors to attend a Hornets game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brandon Miller",
+      "timestamp": "01:28",
+      "summary_phrase": "Brandon Miller on bringing positivity to families fighting cancer",
+      "names_mentioned": [],
+      "excerpt": "I always try to bring some kind of positivity. It's never a happy thing.",
+      "quote": "I always try to bring some kind of positivity. It's never a happy thing or anything planned to go through anything like that. So just me trying to bring positivity to anybody's situation or anybody's home would be my job here.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller says his goal is to bring positivity to families going through difficult health situations. He says it is his job to try to bring positivity to anybody's home.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller discusses his desire to bring positivity to families dealing with cancer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brandon Miller",
+      "timestamp": "02:08",
+      "summary_phrase": "Brandon Miller on his commitment to helping families",
+      "names_mentioned": [],
+      "excerpt": "I love to help people. Me and my family love to be involved with other families.",
+      "quote": "I was really going to do more, a lot more than that, just because the type of guy I am. I love to help people. Me and my family love to be involved with other families that go through kind of the similar situations that we've been through. We are always happy to help, always willing to talk to families, reach out to us. We respond with all love and positivity.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller says he and his family are always willing to talk to and help other families going through similar situations to what they have experienced.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller expresses his commitment to helping other families who are going through similar health struggles as his own.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brandon Miller",
+      "timestamp": "02:48",
+      "summary_phrase": "Brandon Miller on building relationships with fans",
+      "names_mentioned": [],
+      "excerpt": "I think it started in my rookie year. I come off the court, I shake everybody's hand.",
+      "quote": "I think it started in my rookie year. I come off the court, I shake everybody's hand, whether it's ball girl, ball boy, fans, security here, whoever the case may be. I'm just trying to build the bond and the relationships early. In case they're always going to go to war for me while I'm on the court playing, so I think it's a must for me to know who's all going to war for me and know who I want to go to war with.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brandon Miller explains why he makes an effort to shake hands with everyone from fans to arena staff. He says it is a must to know who is going to war for him on the court.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller describes his approach to building relationships with fans and arena staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brandon Miller",
+      "timestamp": "03:34",
+      "summary_phrase": "Brandon Miller on his mother's cancer diagnosis",
+      "names_mentioned": [],
+      "excerpt": "It's never anything you want to hear, come out of any of your relative's mouth.",
+      "quote": "It's never anything you want to hear, come out of any of your relative's mouth. I think, like I said, we're always a supporting family. We're going to continue to support each other through whatever. But I think the main thing was just all about positivity. You can't go into this situation all down. I think you just have to pray and stay positive.",
+      "text_blocks": [],
+      "start_seconds": 214,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller on his family's approach to his mother's cancer diagnosis. He says the main thing was just all about positivity and that you cannot go into the situation all down.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller reflects on how his family maintained a positive outlook following his mother's cancer diagnosis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Brandon Miller",
+      "timestamp": "04:25",
+      "summary_phrase": "Brandon Miller on his support system",
+      "names_mentioned": [],
+      "excerpt": "I try to live in today's world instead of the past. Obviously things happen.",
+      "quote": "I try to live in today's world instead of the past. Obviously things happen. I think the way we respond to things that are not perfect, I think we responded in a great way actually and made a great cause out of it. So just having a support system like my family is an advantage for me.",
+      "text_blocks": [],
+      "start_seconds": 265,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller says he tries to live in today's world instead of the past. He credits his family support system as a major advantage for him.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller discusses the importance of his family support system in responding to difficult life events.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Brandon Miller",
+      "timestamp": "04:57",
+      "summary_phrase": "Brandon Miller on celebrating his mother",
+      "names_mentioned": [],
+      "excerpt": "I wanted to go on the other side, or hope they would brought her on the other side.",
+      "quote": "I wanted to go on the other side, or hope they would brought her on the other side closer to me so I can applaud her then. But I was laughing the whole time she's ringing the bell because she wound up breaking the ribbon off the bell. So just seeing her smile like that and enjoying herself, all I could do is just enjoy myself.",
+      "text_blocks": [],
+      "start_seconds": 297,
+      "end_seconds": 322,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Miller shares a lighthearted moment about his mother ringing the bell to celebrate finishing cancer treatment. He says seeing her smile and enjoy herself was all he could do to enjoy himself.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Brandon Miller shares a personal anecdote about watching his mother celebrate finishing her cancer treatment.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "hZFCDhh40cc",
+  "url": "https://www.youtube.com/watch?v=hZFCDhh40cc",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-27T03:01:15Z",
+  "duration_seconds": 333,
+  "processed_at": "2026-10-27T15:57:38Z",
+  "run_id": "2026-10-27-overnight",
+  "is_one_off": false
+}
