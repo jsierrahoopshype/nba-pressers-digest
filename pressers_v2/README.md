@@ -193,7 +193,12 @@ from this repo's published quote data. The Worker refuses quotes that aren't in
 the last 10 days' data, posts only to #socialmedia, caps files at 150 MB, 30
 sends an hour and one send per quote per 12 hours. The window shows "Sent to
 #socialmedia" or the plain-English reason. Older digests get the link on the
-next run (`relink_stored_markdown` upgrades `Clip it`-only lines).
+next run (`relink_stored_markdown` upgrades `Clip it`-only lines). One click is
+always enough: `run_link` updates the app first and, when that changed
+`make_presser_clips.py` (or the link has a well-formed part this version doesn't
+know, `NewerLink`), hands the same link to the new code once
+(`NBA_PRESSER_REEXEC=1` stops a loop). Only installs from before the
+`slack=1` link (27 Oct 2026) refuse it without updating.
 
 **Desktop shortcut** (fallback): the pick-list of the latest run's quotes,
 grouped Press conferences / Podcasts & shows / One-offs; Enter = top 10,
