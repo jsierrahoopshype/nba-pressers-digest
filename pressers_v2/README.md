@@ -189,7 +189,10 @@ folder), then sends the default formats as one message to #socialmedia through
 the hh-slack-video-poster Worker (`/send-clip`, no key): the Worker hands out
 one-time Slack upload addresses, the tool uploads the MP4s straight to Slack
 (`*.slack.com` only), and the Worker shares them with a message it writes itself
-from this repo's published quote data. The Worker refuses quotes that aren't in
+from this repo's published quote data. Slack gets text-free copies: the same cut
+and shapes (vertical/square keep the speaker-following crop) rendered again
+without subtitles in the app's temp folder (`render_raw_clips`), uploaded, then
+deleted; the clips folder keeps its subtitled clips unchanged. The Worker refuses quotes that aren't in
 the last 10 days' data, posts only to #socialmedia, caps files at 150 MB, 30
 sends an hour and one send per quote per 12 hours. The window shows "Sent to
 #socialmedia" or the plain-English reason. Older digests get the link on the
