@@ -1328,6 +1328,11 @@ class BadLink(ValueError):
     """A presserclips link that isn't exactly what the digest writes."""
 
 
+class NewerLink(BadLink):
+    """A well-formed digest link with a part this version doesn't know (made by a
+    newer digest): worth updating the app and trying again with the new code."""
+
+
 def parse_clip_link(url) -> tuple:
     """(video_id, seconds, quote number) from a digest "Clip it" or "Send to
     Slack" link (see parse_clip_link_opts)."""
@@ -1355,6 +1360,11 @@ def parse_clip_link_opts(url) -> tuple:
         raise BadLink("unreadable parameters")
     keys = [k for k, _ in pairs]
     if sorted(keys) not in (["q", "t", "v"], ["q", "slack", "t", "v"]):
+        extra = [(k, v) for k, v in pairs if k not in ("v", "t", "q")]
+        if (sorted(k for k, _ in pairs if k in ("v", "t", "q")) == ["q", "t", "v"] and len(extra) <= 3
+                and len(set(keys)) == len(keys)
+                and all(re.fullmatch(r"[a-z]{1,12}", k) and re.fullmatch(r"[A-Za-z0-9]{1,12}", v) for k, v in extra)):
+            raise NewerLink("the link has a part this version doesn't know")
         raise BadLink("the link must have exactly v, t and q")
     values = dict(pairs)
     for key, rule in _LINK_RULES.items():
@@ -1439,9 +1449,10 @@ def _upload_file(upload_url: str, path: Path, timeout: int = 900) -> None:
 
 
 def send_to_slack(clip: dict, out_root: Path, formats: list, video_id: str, secs: int, rank: int,
-                  post=_post_json, upload=_upload_file) -> str:
+                  post=None, upload=None) -> str:
     """Send this quote's clips in `formats` (those in its folder) as one
     #socialmedia message. Returns the channel name; raises SlackSendError."""
+    post, upload = post or _post_json, upload or _upload_file
     folder = quote_folder(out_root, clip)
     files = [(fmt, folder / f"{fmt}.mp4") for fmt in FORMAT_ORDER
              if fmt in formats and fmt in made_formats(out_root, clip)]
@@ -1465,25 +1476,69 @@ def send_to_slack(clip: dict, out_root: Path, formats: list, video_id: str, secs
     return str(done.get("channel") or "#socialmedia")
 
 
-def run_link(url: str) -> int:
-    """What a click on "Clip it" (or "Send to Slack") runs: no questions,
-    progress on screen, the window closes by itself."""
-    log_line("link-log.txt", f"link received: {url[:200]!r}")
-    say("=" * 60)
-    say(f"  {APP_NAME}")
-    say("=" * 60)
+REEXEC_ENV = "NBA_PRESSER_REEXEC"
+
+
+def _own_code() -> bytes:
     try:
-        video_id, secs, rank, slack = parse_clip_link_opts(url)
-    except BadLink as e:
-        log_line("link-log.txt", f"refused: {e}")
-        say(f"[X] That isn't a valid clip link ({e}). Nothing was done.")
-        return link_close(1)
-    say(f"Quote {rank} of video {video_id} at {secs // 60}:{secs % 60:02d}")
+        return (HERE / "make_presser_clips.py").read_bytes()
+    except OSError:
+        return b""
+
+
+def update_app() -> bool:
+    """Bring the app files up to date. True when this tool's own code changed
+    on disk (so the rest of the click should run with the new code)."""
+    before = _own_code()
     try:
         subprocess.run([sys.executable, str(HERE / "presser_clips_setup.py"), "--update"],
                        timeout=900, stdin=subprocess.DEVNULL)
     except Exception:
         pass                                           # offline: use what's installed
+    after = _own_code()
+    return bool(after) and after != before
+
+
+def rerun_with_new_code(url: str) -> int:
+    """Hand the same link to the freshly updated tool, once, in this window."""
+    log_line("link-log.txt", "updated; running the link with the new version")
+    say("Updated the app; continuing with the new version...\n")
+    env = dict(os.environ, **{REEXEC_ENV: "1"})
+    try:
+        return subprocess.run([sys.executable, str(HERE / "make_presser_clips.py"), "--link", url],
+                              env=env, stdin=subprocess.DEVNULL).returncode
+    except Exception as e:
+        say(f"[X] Couldn't start the updated app ({type(e).__name__}). Click the link again.")
+        return link_close(1)
+
+
+def run_link(url: str) -> int:
+    """What a click on "Clip it" (or "Send to Slack") runs: no questions,
+    progress on screen, the window closes by itself. One click is always
+    enough: the app updates itself first and, when that brought new code (or
+    the link comes from a newer digest), the click carries on with the new
+    version instead of needing a second one."""
+    log_line("link-log.txt", f"link received: {url[:200]!r}")
+    say("=" * 60)
+    say(f"  {APP_NAME}")
+    say("=" * 60)
+    rerun = os.environ.get(REEXEC_ENV) != "1"
+    try:
+        video_id, secs, rank, slack = parse_clip_link_opts(url)
+    except NewerLink as e:
+        if rerun and update_app():
+            return rerun_with_new_code(url)
+        log_line("link-log.txt", f"refused: {e}")
+        say(f"[X] That link needs a newer version of the app ({e}), and updating didn't bring one. "
+            "Run the installer again. Nothing was done.")
+        return link_close(1)
+    except BadLink as e:
+        log_line("link-log.txt", f"refused: {e}")
+        say(f"[X] That isn't a valid clip link ({e}). Nothing was done.")
+        return link_close(1)
+    say(f"Quote {rank} of video {video_id} at {secs // 60}:{secs % 60:02d}")
+    if rerun and update_app():
+        return rerun_with_new_code(url)
     settings = load_settings()
     out_root = Path(os.path.expanduser(settings.get("out_dir") or str(default_out_dir())))
     housekeeping(out_root, keep_days(settings))

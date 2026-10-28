@@ -179,7 +179,49 @@ class LinkTests(unittest.TestCase):
     def test_bad_link_does_nothing(self):
         with mock.patch.object(mc.subprocess, "run", side_effect=AssertionError("no update on a bad link")), \
                 mock.patch.object(mc, "render_all", side_effect=AssertionError("no render")):
-            self.assertEqual(mc.run_link("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&x=1"), 1)
+            for url in ("presserclips://clip?v=J5unk3vEQm!&t=118&q=2", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&out=C:/x",
+                        "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&x=1&x=2", "presserclips://clip?v=J5unk3vEQmk&t=118"):
+                self.assertEqual(mc.run_link(url), 1, url)
+
+    def test_link_from_a_newer_digest_updates_then_runs_with_the_new_code(self):
+        """An install older than the digest: the click updates the app and the
+        same click carries on with the new version (no second click)."""
+        url = "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&caption=1"
+        self.assertRaises(mc.NewerLink, mc.parse_clip_link, url)
+        runs = []
+        code = iter([b"old", b"new"])
+
+        def fake_run(cmd, **kw):
+            runs.append((cmd[1:], kw.get("env", {}).get(mc.REEXEC_ENV)))
+            return mock.Mock(returncode=0)
+        with mock.patch.object(mc.subprocess, "run", side_effect=fake_run), \
+                mock.patch.object(mc, "_own_code", side_effect=lambda: next(code)), \
+                mock.patch.object(mc, "render_all", side_effect=AssertionError("old code must not render")):
+            self.assertEqual(mc.run_link(url), 0)
+        self.assertTrue(runs[0][0][0].endswith("presser_clips_setup.py") and runs[0][0][1] == "--update")
+        self.assertEqual((runs[1][0][1:], runs[1][1]), (["--link", url], "1"))
+        self.assertTrue(runs[1][0][0].endswith("make_presser_clips.py"))
+
+        # nothing new to update to: refused, nothing rendered, no loop
+        with mock.patch.object(mc.subprocess, "run", return_value=mock.Mock(returncode=0)) as run, \
+                mock.patch.object(mc, "_own_code", return_value=b"same"), \
+                mock.patch.object(mc, "render_all", side_effect=AssertionError("no render")):
+            self.assertEqual(mc.run_link(url), 1)
+        self.assertEqual(run.call_count, 1)                       # the update only
+        # already the re-run: never updates or re-runs again
+        with mock.patch.dict(os.environ, {mc.REEXEC_ENV: "1"}), \
+                mock.patch.object(mc.subprocess, "run", side_effect=AssertionError("no second update")):
+            self.assertEqual(mc.run_link(url), 1)
+
+    def test_an_update_with_new_code_finishes_the_click_in_the_new_version(self):
+        url = "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1"
+        code = iter([b"old", b"new"])
+        runs = []
+        with mock.patch.object(mc.subprocess, "run", side_effect=lambda cmd, **kw: runs.append(cmd[1:]) or mock.Mock(returncode=0)), \
+                mock.patch.object(mc, "_own_code", side_effect=lambda: next(code)), \
+                mock.patch.object(mc, "render_all", side_effect=AssertionError("old code must not render")):
+            self.assertEqual(mc.run_link(url), 0)
+        self.assertEqual(runs[1][1:], ["--link", url])
 
     def test_good_link_renders_that_quote_in_default_formats_without_questions(self):
         seen = {}
@@ -256,6 +298,35 @@ class SendToSlackTests(TempDirs):
         for url in ("http://files.slack.com/x", "https://evil.example/x", "https://slack.com.evil.example/x"):
             with self.assertRaisesRegex(mc.SlackSendError, "unexpected upload address"):
                 mc._upload_file(url, folder / "vertical.mp4")
+
+    def test_one_click_on_a_fresh_install_makes_the_clip_then_sends_it(self):
+        """Nobody clicked Clip it before: the clips folder doesn't even exist yet."""
+        settings = {"out_dir": str(self.out), "formats": ["vertical", "youtube", "square"], "keep_days": 7}
+        fake = FakeRender()
+        posts, uploads = [], []
+
+        def post(url, payload):
+            posts.append((url.rsplit("/", 1)[1], payload))
+            if url.endswith("/start"):
+                return {"ok": True, "send_id": "b" * 32,
+                        "uploads": [{"format": f["format"], "upload_url": f"https://files.slack.com/u/{f['format']}"}
+                                    for f in payload["files"]]}
+            return {"ok": True, "channel": "#socialmedia"}
+        self.assertFalse(self.out.exists())
+        with fake.patch(), \
+                mock.patch.object(mc.subprocess, "run", return_value=mock.Mock(returncode=0)), \
+                mock.patch("builtins.input", side_effect=AssertionError("no questions")), \
+                mock.patch.multiple(mc, load_settings=lambda path=None: settings, check_tools=lambda s=None: "ffmpeg",
+                                    load_manifest=lambda src: {"clips": [dict(CLIP)]},
+                                    speech_word_times=lambda clip, loc, ffmpeg: [],
+                                    _post_json=post, _upload_file=lambda u, p: uploads.append((u, p.name))):
+            rc = mc.main(["--link", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1"])
+        self.assertEqual(rc, 0)
+        self.assertEqual(fake.downloads, 1)
+        self.assertEqual(sorted(fake.renders), ["square", "vertical", "youtube"])
+        self.assertEqual([p[0] for p in posts], ["start", "finish"])
+        self.assertEqual([f["format"] for f in posts[0][1]["files"]], ["vertical", "youtube", "square"])
+        self.assertEqual([n for _, n in uploads], ["vertical.mp4", "youtube.mp4", "square.mp4"])
 
     def test_send_to_slack_link_makes_then_sends_and_shows_the_result(self):
         self.make_files("vertical")
