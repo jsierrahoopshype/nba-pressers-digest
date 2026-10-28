@@ -48,8 +48,8 @@ a:hover{text-decoration:underline}
   width:28px;height:28px;vertical-align:middle;font-family:var(--mono);font-weight:600;
   font-size:.6rem;color:var(--text-secondary);letter-spacing:.02em}
 .pic img{width:100%;height:100%;display:block}
-.face{border-radius:50%;background:var(--surface-hover)}
-.face img{object-fit:cover;object-position:center top}
+.face{border-radius:50%;background:#e8e8ed}
+.face img{object-fit:cover}
 .logo{border-radius:6px}
 .logo img{object-fit:contain}
 .logo.ph{background:var(--surface-hover)}

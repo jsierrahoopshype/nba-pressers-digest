@@ -10,8 +10,8 @@ docs/pressers/ and meant to be served at https://hoopsmatic.com/pressers/.
 Every quote shows the speaker, who it's about, topic tags, the date and a
 "Watch" link: a click loads the youtube-nocookie player at the quote's
 second; nothing loads from YouTube before that. Headshots are the
-nba-headshots head-uniform crop, linked from the nba-headshots GitHub
-Pages site (not copied into this repo).
+nba-headshots face-fill crop (the face fills the circle), linked from the
+nba-headshots GitHub Pages site (not copied into this repo).
 
 SEO: canonical, og:url and the sitemap use https://hoopsmatic.com/pressers/...
 Each page has its own title, description and share image (og/<key>.png,
@@ -53,11 +53,11 @@ WEEK_DAYS = 7
 BEST_SHOWN = 24
 LIST_ROWS = 30
 VISIBLE_PER_PRESSER = 3          # quotes shown per presser; the rest sit under "More"
-HEAD_DIR = ("players", "headshots", "head-uniform")
+HEAD_DIR = ("players", "headshots", "face-fill")
 # Faces and logos are not copied into this repo: pages link to the nba-headshots GitHub Pages
 # files (the checkout is only read to know which files exist, and for the share images).
 HEADSHOTS_PAGES = "https://jsierrahoopshype.github.io/nba-headshots/"
-HEAD480_DIR = ("players", "headshots", "head-uniform-480")
+HEAD480_DIR = ("players", "headshots", "face-fill-320")
 ROLE_WORD = {"player": "player", "coach": "coach", "exec": "executive"}
 TOPIC_LABEL = {t: t[0].upper() + t[1:] for t in sq.TOPICS}
 FOOTER = ('<footer data-hm-footer class="foot"><p>Anything wrong? Email us at '
@@ -262,7 +262,8 @@ class Renderer:
         self.used_faces, self.used_logos = {}, {}
 
     def face(self, path: str, name: str, size: str = "md") -> str:
-        f = self.M.media.face(name)
+        # The xl header face is drawn up to 112px, so it takes the 320px file when there is one.
+        f = (size == "xl" and self.M.media.face(name, big=True)) or self.M.media.face(name)
         if f:
             self.used_faces[f.stem] = f
             px = {"md": 44, "xl": 112}.get(size, 28)
@@ -490,7 +491,7 @@ def render_share(spec: dict, media: Media, dest: Path) -> bool:
                 continue
             mask = Image.new("L", (size, size), 0)
             ImageDraw.Draw(mask).ellipse((0, 0, size - 1, size - 1), fill=255)
-            bg = Image.new("RGBA", (size, size), "#f0f0f2")
+            bg = Image.new("RGBA", (size, size), "#e8e8ed")
             bg.alpha_composite(im)
             img.paste(bg.convert("RGB"), (fx, 315 - size // 2), mask)
             fx += size - (40 if len(faces) > 1 else 0)
@@ -600,7 +601,7 @@ def build_site(view: list, season: str, media: Media, out_dir: Path | None = Non
 
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    ap.add_argument("--headshots", help="nba-headshots checkout (metadata, head-uniform images, team logos)")
+    ap.add_argument("--headshots", help="nba-headshots checkout (metadata, face-fill images, team logos)")
     args = ap.parse_args(argv)
     preview = os.getenv("PRESSERS_PREVIEW", "true").strip().lower() not in ("0", "false", "no")
     season = sq.current_season()
