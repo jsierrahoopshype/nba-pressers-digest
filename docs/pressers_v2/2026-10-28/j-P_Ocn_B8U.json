@@ -1,0 +1,158 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Knicks   10.27.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:00",
+      "summary_phrase": "J.B. Bickerstaff on Pistons' poor execution and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "we just didn't play our best basketball. It was simple from an execution standpoint.",
+      "quote": "We just didn't play our best basketball. It was simple from an execution standpoint. Defensively, we did things that were uncharacteristic of our group, and then you top that with struggling to make shots, turning the basketball over, and giving up 19 offensive rebounds. It's going to be hard to overcome, so we'll play better.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff says the Pistons did not play their best basketball against the Knicks, citing poor execution, turnovers, and giving up 19 offensive rebounds as the main reasons for the loss.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff reflects on the Pistons' poor execution and defensive struggles following their loss to the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:30",
+      "summary_phrase": "Bickerstaff addresses officiating concerns and team physicality",
+      "names_mentioned": [],
+      "excerpt": "there is a discrepancy, there's a physicality that we play with and play with every night.",
+      "quote": "It is early in the year. It is extremely frustrating to see it happen the way that it happens. There is a discrepancy, there's a physicality that we play with and play with every night, and the league should be accustomed to it by now. We've been doing it for three years and it's not going to change. We're physical within the rules, have gotten really good at it. We've been one of the top defenses over the past two, three years playing a certain style, and the fans want to see the style that we play.",
+      "verbatim_original_language": "",
+      "start_seconds": 30,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "JB Bickerstaff expressed frustration with officiating, saying there is a discrepancy in how the Pistons are being called. He insists the team plays physical within the rules and that the league should be accustomed to their style by now.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses his frustration with officiating and the team's physical style of play after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:28",
+      "summary_phrase": "Bickerstaff expresses full trust in the current Pistons roster",
+      "names_mentioned": [],
+      "excerpt": "we trust all the guys that are on this roster to be able to help us win.",
+      "quote": "We trust all the guys that are on this roster to be able to help us win basketball games. It's not hard decisions. We're going to play the guys that are here and that are available and that are proven to help us, and there's no lack of trust with anybody on our roster.",
+      "verbatim_original_language": "",
+      "start_seconds": 88,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says there is no lack of trust in the current Pistons roster and that the team will continue to rely on the players who are available and proven to help them win.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff expresses his confidence in the current Pistons roster and their ability to contribute to winning games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:48",
+      "summary_phrase": "Bickerstaff praises player performance despite difficult rotation management",
+      "names_mentioned": [],
+      "excerpt": "I thought he did a great job. I think it's hard because we're monitoring his minutes.",
+      "quote": "I thought he did a great job. I think it's hard because we're monitoring his minutes at the same time, trying to make sure, especially coming into a back-to-back, that we don't do too much too soon. But I thought he did a great job defensively putting pressure on them, and offensively finding his spots, so I think he did a good job.",
+      "verbatim_original_language": "",
+      "start_seconds": 108,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff noted the difficulty of managing player minutes during a back to back but praised the performance of his player, saying he did a great job defensively and finding his spots on offense.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff praises an unnamed player's performance while noting the team is monitoring his minutes during a back-to-back schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:22",
+      "summary_phrase": "Bickerstaff on giving young players development opportunities",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "whenever we can find opportunities to get them on the floor to help them in their development",
+      "quote": "It's a situation where Cade has an attempt to drive, gets fouled, changes what the game could have been. But those guys, they work hard, they deserve to get minutes, and they deserve to get opportunities. Whenever we can find opportunities to get them on the floor to help them in their development, we'll continue to do that.",
+      "verbatim_original_language": "",
+      "start_seconds": 142,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says the Pistons will continue to find opportunities to get young players on the floor to help in their development, noting they work hard and deserve the minutes.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses Cade Cunningham's late-game drive and the team's commitment to developing young players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "j-P_Ocn_B8U",
+  "url": "https://www.youtube.com/watch?v=j-P_Ocn_B8U",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-28T03:19:57Z",
+  "duration_seconds": 173,
+  "processed_at": "2026-10-28T06:54:11Z",
+  "run_id": "2026-10-28-overnight",
+  "is_one_off": false
+}

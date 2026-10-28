@@ -1,0 +1,602 @@
+{
+  "video_title": "Practice Media Availability (10/27/26) | LA Clippers",
+  "speakers_seen": [
+    "Kobe Brown",
+    "Bones Hyland",
+    "Tyronn Lue"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kobe Brown",
+      "timestamp": "00:08",
+      "summary_phrase": "Kobe Brown on playing against Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Jalen Williams",
+        "Wallace"
+      ],
+      "excerpt": "I really like Shai and his game, so being able to go against him",
+      "quote": "It was a cool experience growing up. I really like Shai and his game, so being able to go against him and see someone that I look up to and model my game after a little bit, it was cool to go against him. They are a great team. I want to say, prayers up to Jalen Williams and Wallace for them to both be out for maybe the season. It sucks for them, but it was a good game for us. We fought hard, didn't end up how we wanted to, got to clean up some turnovers, but I think it was a good game for us to learn from.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown on facing Shai Gilgeous-Alexander: It was a cool experience growing up. I really like Shai and his game, so being able to go against him and see someone that I look up to and model my game after a little bit, it was cool to go against him.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "LAC",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown discusses his experience playing against Shai Gilgeous-Alexander and expresses concern regarding injuries to Jalen Williams and Wallace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kobe Brown",
+      "timestamp": "00:58",
+      "summary_phrase": "Kobe Brown on reducing turnovers and playing physically",
+      "names_mentioned": [],
+      "excerpt": "The biggest key for me personally is just being more physical with the ball",
+      "quote": "The biggest key for me personally is just being more physical with the ball and not letting defenders get up in my grill and be aggressive and physical with me and having to push back. But I think just as a team, we just got to be, we just got to make easier plays, try not to make superhero passes, things like that. And I think as a team we know that and we are going to get better as these games go on and we continue to learn and play with each other.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kobe Brown says the Clippers need to cut down on turnovers: We just got to make easier plays, try not to make superhero passes, things like that. And I think as a team we know that and we are going to get better.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown explains the team's need to reduce turnovers and improve physical play against defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kobe Brown",
+      "timestamp": "01:39",
+      "summary_phrase": "Kobe Brown on attacking closeouts and making plays",
+      "names_mentioned": [],
+      "excerpt": "Waiting for swing passes, kickouts to me and obviously being ready to shoot",
+      "quote": "Waiting for swing passes, kickouts to me and obviously being ready to shoot. But when I see a defender closing out hard, being ready to attack them downhill and make a play for myself or my teammates.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown on his offensive approach: When I see a defender closing out hard, being ready to attack them downhill and make a play for myself or my teammates.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown describes his offensive approach when facing aggressive closeouts from defenders.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kobe Brown",
+      "timestamp": "02:27",
+      "summary_phrase": "Kobe Brown on adjusting to the physicality of the NBA",
+      "names_mentioned": [],
+      "excerpt": "Players at this level are the best players and they know how to play defense",
+      "quote": "It is definitely an adjustment. Players at this level are the best players and they know how to play defense. They know good ways to play defense, so just continuing to get used to that and learning how to use that against them will just help me get better.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown on adjusting to NBA physicality: Players at this level are the best players and they know how to play defense. They know good ways to play defense, so just continuing to get used to that.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown reflects on the adjustment process required to handle the high level of defensive play in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kobe Brown",
+      "timestamp": "02:50",
+      "summary_phrase": "Kobe Brown on cleaning up turnovers after the Lakers game",
+      "names_mentioned": [],
+      "excerpt": "Turnovers was definitely a thing where we are averaging like 23 or something turnovers",
+      "quote": "Most importantly, we went over watching film from last game. Turnovers was definitely a thing where we are averaging like 23 or something turnovers, which you can't do that if you want to win games, especially against good teams. And then we went over the Lakers stuff. We got to play them again. We played them already, so we kind of know what we have to do defensively, and then offensively, just got to clean up some stuff, especially turnovers.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kobe Brown notes the Clippers are averaging 23 turnovers per game: You can't do that if you want to win games, especially against good teams.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Kobe Brown discusses reviewing film to address high turnover rates and preparing for a rematch against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kobe Brown",
+      "timestamp": "03:23",
+      "summary_phrase": "Kobe Brown on guarding Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "Luka Doncic is a really good player and I think that we are just going to have to guard",
+      "quote": "Luka Doncic is a really good player and I think that we are just going to have to guard in the way we did last time. Try to make him turn the ball over, not give him anything easy. But knowing, you know, he is a superstar, he is going to make tough shots, so just if he is making tough shots, you got to stick with it, keep playing good defense, can't let that get us down.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kobe Brown on the game plan for Luka Doncic: Try to make him turn the ball over, not give him anything easy. But knowing, you know, he is a superstar, he is going to make tough shots.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAC",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Kobe Brown outlines the defensive strategy the team intends to use against Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kobe Brown",
+      "timestamp": "04:35",
+      "summary_phrase": "Kobe Brown on guarding Kevin Durant",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "I always say KD, but he is probably he is like the best scorer in the game",
+      "quote": "I always say KD, but he is probably he is like the best scorer in the game, so I don't know how much I actually want to go against him, but it would definitely be cool to play against him.",
+      "text_blocks": [],
+      "start_seconds": 275,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown on Kevin Durant: I always say KD, but he is probably the best scorer in the game, so I don't know how much I actually want to go against him, but it would definitely be cool to play against him.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "LAC",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Kobe Brown shares his thoughts on the challenge of playing against Kevin Durant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kobe Brown",
+      "timestamp": "04:51",
+      "summary_phrase": "Kobe Brown on teams pressuring him defensively",
+      "names_mentioned": [],
+      "excerpt": "The pressure and picking me up full trying to use their physicality against me",
+      "quote": "The pressure and picking me up full trying to use their physicality against me. I think that is kind of been the biggest thing and and just playing me tight, not letting me get my shots off and forcing me into the paint.",
+      "text_blocks": [],
+      "start_seconds": 291,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kobe Brown on the defensive pressure he is facing: The pressure and picking me up full trying to use their physicality against me. I think that is kind of been the biggest thing.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown describes how opposing teams are using physical pressure to force him into difficult situations on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kobe Brown",
+      "timestamp": "05:15",
+      "summary_phrase": "Kobe Brown on making crisper passes",
+      "names_mentioned": [],
+      "excerpt": "People try to do that especially against young guards, they are trying to get easy passes in",
+      "quote": "People try to do that especially against young guards, they are trying to get easy passes in. So just being able to read them, seeing if they are going to stay with it and if they do, then just step back to a three or get downhill.",
+      "text_blocks": [],
+      "start_seconds": 315,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown on reading defenses: People try to do that especially against young guards, they are trying to get easy passes in. So just being able to read them, seeing if they are going to stay with it.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown explains how he reads defensive pressure to make better passing and shooting decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Bones Hyland",
+      "timestamp": "05:34",
+      "summary_phrase": "Bones Hyland on his health and role with the team",
+      "names_mentioned": [],
+      "excerpt": "I feel great. This team, they make it easy on me to do that",
+      "quote": "Still trying to, still trying my best every single day, but I feel great. This team, they make it easy on me to do that, just with because them allowing me to play how I want to play in terms of my running ability with just back cuts, playing with energy, spot shooting, stuff like that. And so when I come into a team like that and try to find my role, and I feel like I'm trying to do that every single day.",
+      "text_blocks": [],
+      "start_seconds": 334,
+      "end_seconds": 366,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bones Hyland on his role with the Clippers: This team, they make it easy on me to do that, just with them allowing me to play how I want to play in terms of my running ability with just back cuts, playing with energy, spot shooting.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Bones Hyland discusses his current health and his ongoing efforts to define his role within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Bones Hyland",
+      "timestamp": "06:10",
+      "summary_phrase": "Bones Hyland on using past frustrations as motivation",
+      "names_mentioned": [],
+      "excerpt": "I just use that as my motivation and I feel like that kind of made a fire",
+      "quote": "It is just learning, learning experience. I take every season when it comes to an end and find out what I did well at, find out what I did not do so well at. And yeah, there is also some frustrating times with every single season, but in terms of that, I just use that as my motivation and I feel like that kind of made a fire in me that hasn't really been in me or it is like a new fire in me I guess.",
+      "text_blocks": [],
+      "start_seconds": 370,
+      "end_seconds": 403,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Bones Hyland on using past frustrations as fuel: There is also some frustrating times with every single season, but in terms of that, I just use that as my motivation and I feel like that kind of made a fire in me.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Bones Hyland explains how he uses past season frustrations as motivation to improve his game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Bones Hyland",
+      "timestamp": "06:45",
+      "summary_phrase": "Bones Hyland on his rebounding and effort",
+      "names_mentioned": [
+        "Tyronn Lue"
+      ],
+      "excerpt": "It is also something that coach wants and so especially coming into a new team like this",
+      "quote": "I feel like I've been a player like that for a while now, but it is also something that coach wants and so especially coming into a new team like this, I'm trying to learn what is going to give me on the floor, what is going to keep me on the floor and that is just comes with creating extra possessions. And if I can crash and use my conditioning and all that, my energy to make extra possessions, I got to do that.",
+      "text_blocks": [],
+      "start_seconds": 405,
+      "end_seconds": 438,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bones Hyland on his focus for playing time: I'm trying to learn what is going to give me on the floor, what is going to keep me on the floor and that is just comes with creating extra possessions.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Bones Hyland discusses the importance of rebounding and creating extra possessions to earn playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Bones Hyland",
+      "timestamp": "07:23",
+      "summary_phrase": "Bones Hyland on his love for basketball",
+      "names_mentioned": [],
+      "excerpt": "I feel like in an 82 game season you can somewhat lose that maybe",
+      "quote": "Just my love for for basketball in general. I feel like in an 82 game season you can somewhat lose that maybe. It is easy to kind of get in the go through the motions with different things, but I feel like you just got to snap out of it. You got to learn and I feel like going into my fourth year, I'm starting to learn more and more each year how to deal with the grueling season of 82 games and just finding my love for basketball more and more each year.",
+      "text_blocks": [],
+      "start_seconds": 443,
+      "end_seconds": 479,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Bones Hyland on the 82-game grind: Going into my fourth year, I'm starting to learn more and more each year how to deal with the grueling season of 82 games and just finding my love for basketball more and more each year.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Bones Hyland reflects on maintaining his passion for basketball throughout the long 82-game NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Bones Hyland",
+      "timestamp": "08:14",
+      "summary_phrase": "Bones Hyland on adjusting to life in Los Angeles",
+      "names_mentioned": [],
+      "excerpt": "I'm just going day by day. It has been easy. I mean I think the fans",
+      "quote": "I'm just going day by day. It has been easy. I mean I think the fans and everyone here with this organization has made it so easy for me and my family. And at the end of the day, just got to be prepared for everything with in terms of you know the summer and the trade. I'm just knowing this is kind of how the NBA works, but I mean I think it is a huge blessing that I got to be able to come out here and play for the Clippers.",
+      "text_blocks": [],
+      "start_seconds": 494,
+      "end_seconds": 530,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Bones Hyland on his transition to the Clippers: I think it is a huge blessing that I got to be able to come out here and play for the Clippers.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Bones Hyland discusses his transition to life in Los Angeles following his trade to the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Bones Hyland",
+      "timestamp": "08:46",
+      "summary_phrase": "Bones Hyland on the team's success with the second unit",
+      "names_mentioned": [],
+      "excerpt": "I think a lot of it is just creating energy and extra possessions out of nothing",
+      "quote": "I think a lot of it is just creating energy and extra possessions out of nothing. Like I talked about earlier, if I can go and crash and get offensive rebound, defensive rebound, run in transition, it is creating, you know, possessions and different things like that that can help us win. Any way that can help us win, you know, I'm going to go in there and try to give it 110%.",
+      "text_blocks": [],
+      "start_seconds": 526,
+      "end_seconds": 554,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bones Hyland on the second unit: I think a lot of it is just creating energy and extra possessions out of nothing. If I can go and crash and get offensive rebound, defensive rebound, run in transition, it is creating possessions.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Bones Hyland explains how his energy and effort contribute to the success of the team's second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Tyronn Lue",
+      "timestamp": "11:35",
+      "summary_phrase": "Tyronn Lue on Kawhi Leonard's injury status",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "We will start Kawhi. So Kawhi finally had a couple games under his belt",
+      "quote": "We will start Kawhi. So Kawhi finally had a couple games under his belt. That was kind of like his preseason the first three games because he missed it because he got hurt first day of training camp. And so we will start Kawhi and just, you know, hoping that we have a speedy recovery.",
+      "text_blocks": [],
+      "start_seconds": 695,
+      "end_seconds": 716,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Tyronn Lue confirms Kawhi Leonard will start: Kawhi finally had a couple games under his belt. That was kind of like his preseason the first three games because he missed it because he got hurt first day of training camp.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyronn Lue provides an update on Kawhi Leonard's injury status and his return to the starting lineup.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Tyronn Lue",
+      "timestamp": "12:02",
+      "summary_phrase": "Tyronn Lue on Kawhi Leonard's role",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Like a T-man, kind of like all-around player, you know, kind of wherever we need him to do",
+      "quote": "Like a T-man, kind of like all-around player, you know, kind of wherever we need him to do, bring the ball up the court, guard the five, guard the three, you know. So just, you know, wherever we need him on the floor, he is the basketball player and he fits in really well with any unit.",
+      "text_blocks": [],
+      "start_seconds": 722,
+      "end_seconds": 744,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue on Kawhi Leonard's versatility: Like a T-man, kind of like all-around player, you know, kind of wherever we need him to do, bring the ball up the court, guard the five, guard the three.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue describes the versatile role Kawhi Leonard plays within the team's rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Tyronn Lue",
+      "timestamp": "12:54",
+      "summary_phrase": "Tyronn Lue on the team's high turnover rate",
+      "names_mentioned": [],
+      "excerpt": "It is a lot and it is something we got to get better at",
+      "quote": "It is a lot and it is something we got to get better at, you know. And so we are going to have turnovers because teams are aggressive, they are picking up full court, you know, they are doing some different things. But you know, you got to be able to limit, limit at least, you know, 10 or 12 of those. You can't just have, you know, the careless turnovers, all our layup out of bounds, not making easy pass, dribbling to the paint, there is four or five guys in the way. So things like that we can take away and we can help ourselves with that.",
+      "text_blocks": [],
+      "start_seconds": 774,
+      "end_seconds": 816,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tyronn Lue on the Clippers' turnover issues: We are going to have turnovers because teams are aggressive, but you got to be able to limit at least 10 or 12 of those. You can't just have the careless turnovers.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue addresses the team's high turnover rate and the need to eliminate careless mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Tyronn Lue",
+      "timestamp": "15:46",
+      "summary_phrase": "Tyronn Lue on Nicolas Batum's performance",
+      "names_mentioned": [
+        "Nicolas Batum"
+      ],
+      "excerpt": "Batum has been good. I thought he was one of our best players in training camp",
+      "quote": "Batum has been good. I thought he was one of our best players in training camp and through the preseason and then just the way the rotations have been, you know, him playing the four, I like him more at the five, but he can play three, four and five. But I think defensively some of the things that we are trying to do defensively, we got to get better at with him. But he is going to get opportunities tomorrow and like I say, he is a really good player.",
+      "text_blocks": [],
+      "start_seconds": 946,
+      "end_seconds": 981,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyronn Lue on Nicolas Batum: I thought he was one of our best players in training camp and through the preseason. I like him more at the five, but he can play three, four and five.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nicolas Batum"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue evaluates Nicolas Batum's performance and discusses his versatility across different positions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Tyronn Lue",
+      "timestamp": "16:52",
+      "summary_phrase": "Tyronn Lue on Nicolas Batum's role and energy",
+      "names_mentioned": [
+        "Nicolas Batum"
+      ],
+      "excerpt": "Playing hard, I think running the floor every single time, crashing every single time",
+      "quote": "Playing hard, I think running the floor every single time, crashing every single time, being a great cutter. And if you look at his film, he is doing it every single one of those every single time, you know. And so that is the energy we need from him and he has been great.",
+      "text_blocks": [],
+      "start_seconds": 1012,
+      "end_seconds": 1033,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue on Nicolas Batum's energy: Playing hard, I think running the floor every single time, crashing every single time, being a great cutter. That is the energy we need from him.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nicolas Batum"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue praises the energy and effort Nicolas Batum brings to the team on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "n8pq9J_p_Pk",
+  "url": "https://www.youtube.com/watch?v=n8pq9J_p_Pk",
+  "channel_team": "LA Clippers",
+  "published": "2026-10-28T00:27:14Z",
+  "duration_seconds": 1055,
+  "processed_at": "2026-10-28T06:54:34Z",
+  "run_id": "2026-10-28-overnight",
+  "is_one_off": false
+}

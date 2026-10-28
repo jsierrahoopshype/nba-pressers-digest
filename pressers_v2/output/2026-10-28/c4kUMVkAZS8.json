@@ -1,0 +1,132 @@
+{
+  "video_title": "Ja Morant Postgame Interview | Portland Trail Blazers 136, Lakers 129 | Oct. 27, 2026",
+  "speakers_seen": [
+    "Ashley",
+    "Ja Morant"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja Morant",
+      "speakers": [
+        "Ashley",
+        "Ja Morant"
+      ],
+      "timestamp": "00:12",
+      "summary_phrase": "Ja Morant on the keys to Portland's clutch time victory",
+      "names_mentioned": [],
+      "excerpt": "It came down to stops. I messaged to each other the whole game was the first team",
+      "text_blocks": [
+        {
+          "speaker": "Ashley",
+          "text": "In a game filled with buckets of every variety, what did this win come down to in clutch time?"
+        },
+        {
+          "speaker": "Ja Morant",
+          "text": "It came down to stops. I messaged to each other the whole game was the first team to lock in on defense to win the game. Obviously, coming out of the half down five, not playing how we want to, we had to take a step in that direction. Third quarter wasn't pretty, but we got it done in the fourth and that's all that matters."
+        }
+      ],
+      "start_seconds": 12,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant says the key to the Trail Blazers win over the Lakers was defensive focus in the fourth quarter. He noted that the team messaged each other that the first to lock in on defense would win the game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant explains to a reporter that Portland's victory over the Lakers was secured by their defensive performance in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja Morant",
+      "speakers": [
+        "Ashley",
+        "Ja Morant"
+      ],
+      "timestamp": "00:42",
+      "summary_phrase": "Ja Morant on the chemistry of the Portland roster",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "It's a blessing to be able to play around one of the best shooters of all time",
+      "text_blocks": [
+        {
+          "speaker": "Ashley",
+          "text": "You, Damian, Denny, the list goes on and on. What excites you most about playing with this group?"
+        },
+        {
+          "speaker": "Ja Morant",
+          "text": "It's just so much fun. So much guys that can do a lot. Easier looks, easier coverages for me. It's a blessing to be able to play around one of the best shooters of all time and then the talent like Damian as well, and the rest of the guys. We just got to continue to gel together, keep the chemistry going, and keep going and doing what we're doing."
+        }
+      ],
+      "start_seconds": 42,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant is enjoying the chemistry on the new look Trail Blazers roster. He says it is a blessing to play alongside shooters like Damian and the rest of the talented group as they continue to gel.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard",
+          "Denny"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant discusses the enjoyment of playing alongside teammates like Damian Lillard and Denny while emphasizing the need for continued team chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja Morant",
+      "timestamp": "01:13",
+      "summary_phrase": "Ja Morant attributes Portland's undefeated start to team determination",
+      "names_mentioned": [],
+      "excerpt": "We are a very determined team. We know what we want, we know what we want to accomplish",
+      "quote": "We are a very determined team. We know what we want, we know what we want to accomplish, and I just feel like we won't be satisfied when we're not good enough. Obviously, this game is not as pretty, the last one wasn't as pretty, but we still got the win. That's something to be happy about, but we know we got a lot of stuff to fix.",
+      "verbatim_original_language": "",
+      "start_seconds": 73,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Despite an undefeated start, Ja Morant says the Trail Blazers are not satisfied. He admits the recent wins have not been pretty and the team knows they have a lot of stuff to fix.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant reflects on Portland's undefeated start and the team's determination to improve despite winning games that were not aesthetically pleasing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "c4kUMVkAZS8",
+  "url": "https://www.youtube.com/watch?v=c4kUMVkAZS8",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-28T06:18:50Z",
+  "duration_seconds": 103,
+  "processed_at": "2026-10-28T06:54:09Z",
+  "run_id": "2026-10-28-overnight",
+  "is_one_off": false
+}
