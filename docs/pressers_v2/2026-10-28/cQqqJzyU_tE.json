@@ -1,0 +1,208 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Trail Blazers 136, Lakers 129 | Oct. 27, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:12",
+      "summary_phrase": "Trail Blazers bench depth and collective effort in victory",
+      "names_mentioned": [],
+      "excerpt": "It wasn't pretty by any means, but everybody that went in the game, battled.",
+      "quote": "What a great effort all the way through. It wasn't pretty by any means, but everybody that went in the game, battled, and I think the one thing that we talked about pregame was our depth. You saw with our bench, 48 points from our bench. I think the one difference was neither team could get a stop. We talked about it at halftime, the first team to play defense is going to win the basketball game, but thankfully we only turned it over four times, so we were able to at least get looks at it.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Nori praised the Trail Blazers bench for providing 48 points in the win over the Lakers. Nori noted that while the defense struggled, the team protected the ball well with only four turnovers.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the Trail Blazers' bench performance and overall effort in their victory over the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:47",
+      "summary_phrase": "Why the partnership between Ja Morant and Damian Lillard works",
+      "names_mentioned": [
+        "Ja Morant",
+        "Damian Lillard"
+      ],
+      "excerpt": "They both want to win, number one. They're both very selfless players.",
+      "quote": "They both want to win, number one. They're both very selfless players. They both have been there, done that, and I know Damian Lillard at a much longer time than Ja Morant in the league. However, they really have just, they just want to win basketball. They just want to win. And I think they're both trying to play the right way, they're both playing very selfless, they love to share the ball, and I think that's the reason it's working is because at the end of the day, they want to win basketball games.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori says the partnership between Ja Morant and Damian Lillard is working because both players are selfless and prioritize winning above all else.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ja Morant",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori explains why the partnership between Ja Morant and Damian Lillard is successful.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "01:48",
+      "summary_phrase": "Ja Morant's patience and recovery from injury",
+      "names_mentioned": [
+        "Ja Morant"
+      ],
+      "excerpt": "I thought he got to his spots and I thought when he got there, he was very patient.",
+      "quote": "I thought he got to his spots and I thought when he got there, he was very patient. You can see the game is starting to slow down for him, maybe even from the preseason, just from the layoff that he had from his injury, and I think now everything is kind of in slow motion for him. He gets to his spots, even coming out of the timeouts right there in the paint, little pull-up jump shot. He is just playing very, very within himself and we are getting the best version of Ja Morant.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori believes the game is slowing down for Ja Morant as he recovers from his injury. Nori says Morant is playing very within himself and the team is getting the best version of him.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ja Morant"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori comments on Ja Morant's patience and improved play following his recovery from an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "02:22",
+      "summary_phrase": "Damian Lillard's ability to make clutch plays",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "He's going to make something happen. You don't know, it could be good, it could be bad.",
+      "quote": "I think that's just who he is. Two-time champion, right? And he's back home. That's just what he does. We always joke and laugh, he's going to make something happen. You don't know, it could be good, it could be bad. Most time it's good, but that's just who he is and that's what he does.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Nori on Damian Lillard returning home to Portland: He is going to make something happen. That is just who he is and that is what he does.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori reflects on Damian Lillard's ability to make clutch plays during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "03:37",
+      "summary_phrase": "Micah Nori on the NBA's technical foul officiating",
+      "names_mentioned": [],
+      "excerpt": "There was 27 flops called last year in the NBA in 2,000 basically games, and four of them were called tonight.",
+      "quote": "It was a flop. It was great. There was 27 flops called last year in the NBA in 2,000 basically games, and four of them were called tonight. Good job by the NBA, the point of emphasis, great job.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori praised the NBA for its officiating on flops tonight. Nori noted that while only 27 flops were called in 2,000 games last year, four were called in this single game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori reacts to the increase in technical foul calls for flopping during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "04:14",
+      "summary_phrase": "Improving Damian Lillard's efficiency through pick-and-roll",
+      "names_mentioned": [
+        "Damian Lillard",
+        "Ja Morant"
+      ],
+      "excerpt": "Just try to make him more efficient.",
+      "quote": "Just try to make him more efficient. A lot of that was because of the injuries he had to bring it up and essentially it felt like he was bringing it up 94 feet and then playing pick-and-roll and having to get downhill. With the efficiency of Damian Lillard and the gravity of Damian Lillard and then Ja Morant being that way, we just felt like if those guys attack gaps and kick it to him and he can attack a closeout and get downhill where he can go and catch one-two dribbles as opposed to having to expend however many he had to to bring it up, that was the process behind it.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori explains the strategy to increase Damian Lillard efficiency by reducing his workload bringing the ball up the floor and allowing him to attack closeouts instead.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Ja Morant"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori explains the tactical adjustments made to improve Damian Lillard's efficiency and manage his workload following recent injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "cQqqJzyU_tE",
+  "url": "https://www.youtube.com/watch?v=cQqqJzyU_tE",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-28T07:05:27Z",
+  "duration_seconds": 326,
+  "processed_at": "2026-10-28T14:05:53Z",
+  "run_id": "2026-10-28-overnight",
+  "is_one_off": false
+}
