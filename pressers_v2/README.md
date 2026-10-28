@@ -126,7 +126,7 @@ Slack or the run schedule:
   link; a click loads the youtube-nocookie player at the quote's second
   (`section_assets/watch.js`), nothing loads from YouTube before that.
   Polymarket tracker look (`section_assets/pressers.css`, DM Sans / JetBrains
-  Mono served from the site), nba-headshots head-uniform faces and team logos
+  Mono served from the site), nba-headshots face-fill faces and team logos
   linked from the nba-headshots GitHub Pages site (not copied into this repo). Canonical, `og:url`, share images and the sitemap
   (`docs/pressers/sitemap.xml`) use `https://hoopsmatic.com/pressers/...`.
   Each page has its own title and 1200x630 share image (`og/`, re-rendered

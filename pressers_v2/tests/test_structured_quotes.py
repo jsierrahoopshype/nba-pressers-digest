@@ -368,7 +368,7 @@ class SiteTests(unittest.TestCase):
             self.assertIn("<loc>https://hoopsmatic.com/pressers/players/jane-doe/</loc><lastmod>2026-10-14</lastmod>", sitemap)
             self.assertTrue((out / "assets" / "watch.js").is_file())
             # Faces are linked from nba-headshots' GitHub Pages, never copied.
-            self.assertIn('<img src="https://jsierrahoopshype.github.io/nba-headshots/players/headshots/head-uniform/1-jane-doe.webp"', player)
+            self.assertIn('<img src="https://jsierrahoopshype.github.io/nba-headshots/players/headshots/face-fill/1-jane-doe.webp"', player)
             self.assertFalse((out / "img").exists())
 
     def test_player_pages_need_five_quotes_to_be_eligible(self):
