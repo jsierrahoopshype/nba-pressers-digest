@@ -138,6 +138,52 @@ class RealFilesystemTests(unittest.TestCase):
         self.assertTrue(plan.tracked, plan.note)
         self.assertGreater(plan.xs[-1], plan.xs[0] + 300)                 # the crop followed the face right
 
+    def test_slack_gets_text_free_copies_and_the_folder_keeps_its_subtitles(self):
+        ffmpeg = shutil.which("ffmpeg")
+        need(bool(ffmpeg) and setup_mod.ffmpeg_has_subtitles(ffmpeg), "ffmpeg with libass", self)
+        import importlib.util
+        need(importlib.util.find_spec("cv2") is not None, "OpenCV (face tracking)", self)
+        import cv2
+        src = self._source_video(ffmpeg)
+        words = [(0.4 + i * 0.35, 0.4 + i * 0.35 + 0.3, t) for i, t in enumerate(ca.norm_words(TEXT))]
+        loc = mc.Located(0.4, words[-1][1], "captions", 0.95, words, True)
+
+        def fake_download(clip, a, b, work, ff):
+            out = work / "src.mp4"
+            shutil.copyfile(src, out)
+            return out
+        sent = {}
+
+        def post(url, payload):                              # stand-in Worker: nothing reaches Slack
+            if url.endswith("/start"):
+                return {"send_id": "a" * 32, "uploads": [
+                    {"format": f["format"], "upload_url": f"https://files.slack.com/x/{f['format']}"}
+                    for f in payload["files"]]}
+            return {"channel": "#socialmedia"}
+
+        def upload(url, path):
+            sent[path.stem] = self.base / f"sent_{path.name}"
+            shutil.copyfile(path, sent[path.stem])
+        with mock.patch.multiple(mc, download_section=fake_download, locate_quote=lambda clip, ff: loc):
+            mc.make_clip(dict(CLIP), self.clips, list(mc.FORMAT_ORDER), ffmpeg, pad=0.0)
+            mc.send_to_slack(dict(CLIP), self.clips, list(mc.FORMAT_ORDER), "J5unk3vEQmk", 118, 2,
+                             post=post, upload=upload, ffmpeg=ffmpeg,
+                             render_raw=lambda c, f, ff, w: mc.render_raw_clips(c, f, ff, w, pad=0.0))
+
+        def white_pixels(video):                            # the subtitles are white text
+            png = self.base / "frame.png"
+            subprocess.run([ffmpeg, "-v", "error", "-y", "-ss", "2", "-i", str(video), "-frames:v", "1", str(png)],
+                           check=True, timeout=60)
+            return int((cv2.imread(str(png)).min(axis=2) > 235).sum())
+        self.assertEqual(sorted(sent), ["square", "vertical", "youtube"])
+        for fmt in mc.FORMAT_ORDER:
+            self.assertGreater(white_pixels(self.clips / FOLDER / f"{fmt}.mp4"), 1000, fmt)
+            self.assertEqual(white_pixels(sent[fmt]), 0, fmt)
+        files = sorted(p.relative_to(self.clips).as_posix() for p in self.clips.rglob("*") if p.is_file())
+        self.assertEqual(files, [f"{FOLDER}/quote.txt", f"{FOLDER}/square.mp4",
+                                 f"{FOLDER}/vertical.mp4", f"{FOLDER}/youtube.mp4"])
+        self.assertEqual(list((self.app / "tmp").iterdir()), [])
+
     def test_old_quote_folders_go_as_a_whole(self):
         old = self.clips / "2026-09-01 Joe Mazzulla - on defense"
         new = self.clips / "2026-09-30 James Harden - on the season"

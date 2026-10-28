@@ -61,7 +61,7 @@ class FakeRender:
 
     def __init__(self, fail_formats=(), loc=None):
         self.downloads, self.renders, self.fail = 0, [], set(fail_formats)
-        self.ass, self.crops = {}, {}
+        self.ass, self.crops, self.raw_ass = {}, {}, []
         self.loc = loc or located()
 
     def download(self, clip, a, b, work, ffmpeg):
@@ -72,6 +72,8 @@ class FakeRender:
 
     def render(self, src, fmt, ass_name, out_tmp, work, ffmpeg, crop_chain=None):
         self.renders.append(fmt)
+        if work.name.startswith("slack_"):
+            self.raw_ass.append(ass_name)
         self.ass[fmt] = (work / ass_name).read_text(encoding="utf-8") if ass_name else None
         self.crops[fmt] = crop_chain
         if fmt in self.fail:
@@ -265,24 +267,46 @@ class SendToSlackTests(TempDirs):
             return {"ok": True, "channel": "#socialmedia"}
         return posts, uploads, post, lambda url, path: uploads.append((url, path.name))
 
+    def fake_raw(self, seen=None):
+        """render_raw_clips stand-in: text-free copies in the work folder."""
+        def render_raw(clip, formats, ffmpeg, work):
+            if seen is not None:
+                seen.append((list(formats), work))
+            out = []
+            for fmt in formats:
+                (work / f"{fmt}.mp4").write_bytes(f"raw {fmt}".encode())
+                out.append((fmt, work / f"{fmt}.mp4"))
+            return out
+        return render_raw
+
     def test_sends_the_default_formats_that_were_made_as_one_message(self):
-        self.make_files("vertical", "youtube", "square")
+        folder = self.make_files("vertical", "youtube", "square")
         posts, uploads, post, upload = self.fake_worker()
+        seen = []
         where = mc.send_to_slack(CLIP, self.out, ["vertical", "square"], "J5unk3vEQmk", 118, 2,
-                                 post=post, upload=upload)
+                                 post=post, upload=upload, render_raw=self.fake_raw(seen))
         self.assertEqual(where, "#socialmedia")
+        # the text-free copies are what's sent (sizes of "raw vertical" / "raw square"), not the folder's files
         self.assertEqual(posts[0], (f"{mc.SLACK_SEND_URL}/start", {
             "v": "J5unk3vEQmk", "t": 118, "q": 2,
-            "files": [{"format": "vertical", "size": 14}, {"format": "square", "size": 12}]}))
+            "files": [{"format": "vertical", "size": 12}, {"format": "square", "size": 10}]}))
         self.assertEqual(posts[1], (f"{mc.SLACK_SEND_URL}/finish", {"send_id": "a" * 32}))
         self.assertEqual(uploads, [("https://files.slack.com/up/vertical", "vertical.mp4"),
                                    ("https://files.slack.com/up/square", "square.mp4")])
+        self.assertEqual(seen[0][0], ["vertical", "square"])
+        self.assertNotEqual(seen[0][1].parent, folder)
+        # the clips folder is untouched and the Slack copies are gone afterwards
+        self.assertEqual((folder / "vertical.mp4").read_bytes(), b"video vertical")
+        self.assertEqual(self.files(), [f"{FOLDER}/quote.txt", f"{FOLDER}/square.mp4",
+                                        f"{FOLDER}/vertical.mp4", f"{FOLDER}/youtube.mp4"])
+        self.assertFalse(seen[0][1].exists())
         self.assertEqual(mc.SLACK_SEND_URL, "https://hh-slack-video-poster.thejorgesierra.workers.dev/send-clip")
 
     def test_nothing_made_nothing_sent(self):
         posts, _, post, upload = self.fake_worker()
         with self.assertRaisesRegex(mc.SlackSendError, "no finished clip"):
-            mc.send_to_slack(CLIP, self.out, ["vertical"], "J5unk3vEQmk", 118, 2, post=post, upload=upload)
+            mc.send_to_slack(CLIP, self.out, ["vertical"], "J5unk3vEQmk", 118, 2, post=post, upload=upload,
+                             render_raw=self.fake_raw())
         self.assertEqual(posts, [])
 
     def test_too_big_is_refused_before_contacting_the_worker(self):
@@ -290,7 +314,19 @@ class SendToSlackTests(TempDirs):
         posts, _, post, upload = self.fake_worker()
         with mock.patch.object(mc, "SLACK_MAX_BYTES", 5), \
                 self.assertRaisesRegex(mc.SlackSendError, "over Slack sending"):
-            mc.send_to_slack(CLIP, self.out, ["vertical"], "J5unk3vEQmk", 118, 2, post=post, upload=upload)
+            mc.send_to_slack(CLIP, self.out, ["vertical"], "J5unk3vEQmk", 118, 2, post=post, upload=upload,
+                             render_raw=self.fake_raw())
+        self.assertEqual(posts, [])
+
+    def test_a_slack_copy_that_cant_be_made_is_not_sent(self):
+        self.make_files("vertical")
+        posts, _, post, upload = self.fake_worker()
+
+        def low(clip, formats, ffmpeg, work):
+            raise mc.LowConfidence("no match")
+        with self.assertRaisesRegex(mc.SlackSendError, "couldn't cut the Slack copy"):
+            mc.send_to_slack(CLIP, self.out, ["vertical"], "J5unk3vEQmk", 118, 2, post=post, upload=upload,
+                             render_raw=low)
         self.assertEqual(posts, [])
 
     def test_upload_only_goes_to_slack(self):
@@ -322,8 +358,12 @@ class SendToSlackTests(TempDirs):
                                     _post_json=post, _upload_file=lambda u, p: uploads.append((u, p.name))):
             rc = mc.main(["--link", "presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1"])
         self.assertEqual(rc, 0)
-        self.assertEqual(fake.downloads, 1)
-        self.assertEqual(sorted(fake.renders), ["square", "vertical", "youtube"])
+        # one download + render for the clips folder, one for the text-free Slack copies
+        self.assertEqual(fake.downloads, 2)
+        self.assertEqual(sorted(fake.renders), ["square", "square", "vertical", "vertical", "youtube", "youtube"])
+        self.assertEqual(fake.raw_ass, [None, None, None])
+        self.assertEqual(sorted(p.name for p in (self.out / FOLDER).iterdir()),
+                         ["quote.txt", "square.mp4", "vertical.mp4", "youtube.mp4"])
         self.assertEqual([p[0] for p in posts], ["start", "finish"])
         self.assertEqual([f["format"] for f in posts[0][1]["files"]], ["vertical", "youtube", "square"])
         self.assertEqual([n for _, n in uploads], ["vertical.mp4", "youtube.mp4", "square.mp4"])
@@ -344,14 +384,14 @@ class SendToSlackTests(TempDirs):
                 rc = mc.main(["--link", link])
             return rc, " ".join(str(c.args[0]) for c in say.call_args_list if c.args)
 
-        def ok(clip, out_root, formats, v, t, q):
+        def ok(clip, out_root, formats, v, t, q, ffmpeg=None):
             sent.append((clip["rank"], formats, v, t, q))
             return "#socialmedia"
         rc, shown = run("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1", ok)
         self.assertEqual((rc, sent), (0, [(2, ["vertical"], "J5unk3vEQmk", 118, 2)]))
         self.assertIn("Sent to #socialmedia.", shown)
 
-        def refused(*a):
+        def refused(*a, **kw):
             raise mc.SlackSendError("The limit of 30 clips an hour to Slack has been reached. Try again in 5 minutes.")
         rc, shown = run("presserclips://clip?v=J5unk3vEQmk&t=118&q=2&slack=1", refused)
         self.assertEqual(rc, 1)

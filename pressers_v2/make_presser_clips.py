@@ -9,7 +9,9 @@ Two ways in:
     checked strictly (video id pattern, whole seconds, a quote that exists in
     the digest data); anything else is refused. The "Send to Slack" link is
     the same link plus slack=1: it makes the clip the same way (or finds it
-    already made), then sends it to #socialmedia (see send_to_slack).
+    already made), then sends it to #socialmedia (see send_to_slack). Slack
+    gets its own copies with no text on them (render_raw_clips); the clips
+    folder keeps the subtitled ones.
   * the desktop shortcut: a numbered pick-list of the latest cloud run.
 
 For each quote:
@@ -1448,16 +1450,58 @@ def _upload_file(upload_url: str, path: Path, timeout: int = 900) -> None:
             raise SlackSendError(f"the {path.stem} upload to Slack was cut off. Try again")
 
 
+def render_raw_clips(clip: dict, formats: list, ffmpeg: str, work: Path, pad: float = PAD_SECS) -> list:
+    """The Slack copies: the same cut (locate_quote, same padding) and the
+    same shapes and speaker-following crop as make_clip, but no subtitles or
+    any other text. Rendered into `work` (never the clips folder, whose
+    subtitled clips stay as they are). Returns [(format, path)]."""
+    loc = locate_quote(clip, ffmpeg)
+    dl_start = max(0.0, loc.start - pad)
+    dl_end = loc.end + pad
+    src = download_section(clip, dl_start, dl_end, work, ffmpeg)
+    out = []
+    try:
+        for fmt in formats:
+            w, h = FORMATS[fmt]["size"]
+            crop_chain = None
+            if FORMATS[fmt]["crop"] and reframe is None:
+                crop_chain = centred_crop_chain(fmt)
+            elif FORMATS[fmt]["crop"]:
+                plan = reframe.plan_crop(src, w, h)
+                (work / f"crop_{fmt}.cmd").write_text(plan.sendcmd(), encoding="utf-8")
+                crop_chain = plan.filter(f"crop_{fmt}.cmd", w, h)
+            path = work / f"{fmt}.mp4"
+            render_format(src, fmt, None, path, work, ffmpeg, crop_chain)    # ass_name=None: no text
+            out.append((fmt, path))
+    finally:
+        if reframe is not None:
+            reframe.forget(src)
+    return out
+
+
 def send_to_slack(clip: dict, out_root: Path, formats: list, video_id: str, secs: int, rank: int,
-                  post=None, upload=None) -> str:
+                  post=None, upload=None, render_raw=None, ffmpeg: str | None = None) -> str:
     """Send this quote's clips in `formats` (those in its folder) as one
-    #socialmedia message. Returns the channel name; raises SlackSendError."""
+    #socialmedia message, as text-free copies (render_raw_clips) rather than
+    the subtitled files in the folder. Returns the channel name; raises
+    SlackSendError."""
     post, upload = post or _post_json, upload or _upload_file
-    folder = quote_folder(out_root, clip)
-    files = [(fmt, folder / f"{fmt}.mp4") for fmt in FORMAT_ORDER
-             if fmt in formats and fmt in made_formats(out_root, clip)]
-    if not files:
+    render_raw = render_raw or render_raw_clips
+    made = [fmt for fmt in FORMAT_ORDER if fmt in formats and fmt in made_formats(out_root, clip)]
+    if not made:
         raise SlackSendError("there's no finished clip of this quote to send")
+    with WorkDir("slack_") as work:
+        say("    making the Slack copies (no text on screen)...")
+        try:
+            files = render_raw(clip, made, ffmpeg or find_ffmpeg() or "ffmpeg", work)
+        except LowConfidence as e:
+            raise SlackSendError(f"couldn't cut the Slack copy: {e}")
+        except Exception as e:
+            raise SlackSendError(f"couldn't make the Slack copy: {str(e).rstrip('.')}")
+        return _send_files(files, video_id, secs, rank, post, upload)
+
+
+def _send_files(files: list, video_id: str, secs: int, rank: int, post, upload) -> str:
     for fmt, path in files:
         if path.stat().st_size > SLACK_MAX_BYTES:
             raise SlackSendError(f"the {fmt} clip is {human_size(path.stat().st_size)}, over Slack sending's "
@@ -1562,7 +1606,7 @@ def run_link(url: str) -> int:
     if slack:
         say("\nSending to Slack...")
         try:
-            where = send_to_slack(clip, out_root, formats, video_id, secs, rank)
+            where = send_to_slack(clip, out_root, formats, video_id, secs, rank, ffmpeg=ffmpeg)
             say(f"Sent to {where}.")
             log_line("link-log.txt", f"sent to Slack {video_id} {secs}s q{rank}")
         except SlackSendError as e:
