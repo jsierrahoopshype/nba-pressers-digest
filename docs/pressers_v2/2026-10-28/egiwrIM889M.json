@@ -1,0 +1,222 @@
+{
+  "video_title": "Ja Morant Postgame Interview | Portland Trail Blazers 136, LA Lakers 129 | Oct. 27, 2026",
+  "speakers_seen": [
+    "Ja Morant",
+    "Unidentified reporter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja Morant",
+      "timestamp": "00:04",
+      "summary_phrase": "Ja Morant on the team's unselfish play and lack of ego",
+      "names_mentioned": [],
+      "excerpt": "I don't feel like none of us has an ego.",
+      "quote": "Obviously, very unselfish guys, number one. I don't feel like none of us has an ego. And as far as us and our play on the floor, I don't feel like nothing is forced. It's like you got to go do this or you got to pass to this guy. We just playing good basketball, so I think all that makes it way easier.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant credits the team's success to a lack of ego and unselfish play saying we just playing good basketball",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant discusses the team's unselfish play and lack of ego following the game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja Morant",
+      "timestamp": "00:37",
+      "summary_phrase": "Ja Morant on playing with Damian Lillard and Dennis Schroder",
+      "names_mentioned": [
+        "Damian Lillard",
+        "Dennis Schroder"
+      ],
+      "excerpt": "When you got guys like Dame and Dennis on the team who take the top two defensive matchups",
+      "quote": "When you got guys like Damian Lillard and Dennis Schroder on the team who take the top two defensive matchups, I mean, thank you.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ja Morant appreciates the defensive burden taken on by his teammates noting that having Damian Lillard and Dennis Schroder take the top two defensive matchups makes his job much easier",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard",
+          "Dennis Schroder"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant expresses appreciation for playing alongside teammates Damian Lillard and Dennis Schroder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja Morant",
+      "speakers": [
+        "Ja Morant",
+        "Unidentified reporter"
+      ],
+      "timestamp": "01:16",
+      "summary_phrase": "Ja Morant on his chemistry with Damian Lillard and playing style",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "Me and him constantly talk throughout the game. We try to get each other going.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How does it feel like today, playing with Damian Lillard and the Dame time at the last minute? And what was your mental? And your playing style changed a little bit from Memphis to Rip City now."
+        },
+        {
+          "speaker": "Ja Morant",
+          "text": "Me and him constantly talk throughout the game. We try to get each other going. As far as me being worried about what he's going to do out there, I'm never worried. I'm just waiting for him to get that opportunity to go do it."
+        }
+      ],
+      "start_seconds": 76,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant says he is never worried about what Damian Lillard will do on the floor adding that the two are constantly talking throughout the game to get each other going",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant describes his chemistry with Damian Lillard and how his playing style has evolved since leaving Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ja Morant",
+      "timestamp": "02:42",
+      "summary_phrase": "Ja Morant on the synergy and communication with Damian Lillard",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "Even like timeouts when he going to tell a person something, I'm looking and I pretty much can say the same exact thing.",
+      "quote": "Even like timeouts when he going to tell a person something, I'm looking and I pretty much can say the same exact thing. I feel like that's a plus for us because we see ahead and it allows us as a team to be very organized and know exactly what we want to go to in certain situations.",
+      "text_blocks": [],
+      "start_seconds": 162,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant says he and Damian Lillard are often on the same page during timeouts which helps the team stay organized and know exactly what they want to execute in late game situations",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant explains how his communication and shared vision with Damian Lillard help the team stay organized.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ja Morant",
+      "timestamp": "03:14",
+      "summary_phrase": "Ja Morant on the technical foul for flopping",
+      "names_mentioned": [],
+      "excerpt": "We tried to adjust to just showing our hands and take the bump in the chest to show that they initiating the contact.",
+      "quote": "For mine, I was just trying to get understanding. Y'all was at the game, y'all see how much free throws was shot on both sides of the ball. But most of their free throws came on drives and they going into a bump and we try to bump the brace ourselves for the bump and then they shoot the shot and get the free throws. So we tried to adjust to just showing our hands and take the bump in the chest to show that they initiating the contact and we still was on the short end of the stick.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ja Morant expressed frustration with officiating after a flopping call saying the team tried to adjust by showing their hands to prove they were not initiating contact but still ended up on the short end of the stick",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Ja Morant reacts to a technical foul for flopping and discusses the officiating regarding contact on drives.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ja Morant",
+      "timestamp": "04:12",
+      "summary_phrase": "Ja Morant on playing alongside Damian Lillard in clutch moments",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "Every time he shoots, I think it's good. So I'm pretty much bracing for a celebration every time he shoot.",
+      "quote": "It's good because pretty much every time he shoots, I think it's good. So I'm pretty much bracing for a celebration every time he shoot. But in the fourth quarter, I'm for sure doing it. So being on that side, we actually talked that shootaround earlier because Coach Q actually won a championship here when we was in the bubble and the guy who I lost to in the bubble was Damian Lillard. So it's real good to be on that side now for sure.",
+      "text_blocks": [],
+      "start_seconds": 252,
+      "end_seconds": 285,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant reflects on his transition to playing with Damian Lillard noting that it is real good to be on that side now after losing to him in the bubble",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant reflects on playing with Damian Lillard in clutch moments and their history as former opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "egiwrIM889M",
+  "url": "https://www.youtube.com/watch?v=egiwrIM889M",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-28T14:38:56Z",
+  "duration_seconds": 345,
+  "processed_at": "2026-10-28T19:32:28Z",
+  "run_id": "2026-10-28T1931Z-14utc",
+  "is_one_off": false
+}

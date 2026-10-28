@@ -1,0 +1,279 @@
+{
+  "video_title": "Shootaround Media Availability with Bennett and Josh | October 28, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Chet Holmgren",
+    "Josh Giddey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chet Holmgren",
+      "timestamp": "00:19",
+      "summary_phrase": "Chet Holmgren on the team-oriented defensive approach for the Thunder",
+      "names_mentioned": [],
+      "excerpt": "it's just not on one guy. It's a team game and we're going to rally together",
+      "quote": "It's just not on one guy. It's a team game and we're going to rally together as a team and it's not just on one person if a guy goes off for a lot of points. We're just going to help each other out.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chet Holmgren says the Thunder defensive approach is a collective effort, noting that it is not on one guy to stop an opponent from scoring a lot of points.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren discusses the team defensive approach during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chet Holmgren",
+      "timestamp": "00:44",
+      "summary_phrase": "Chet Holmgren emphasizes communication as the foundation of team defense",
+      "names_mentioned": [],
+      "excerpt": "if a team has good communication, it's pretty good on defense and it starts with that",
+      "quote": "The main thing is communication. If a team has good communication, it's pretty good on defense and it starts with that. But obviously you have to have good execution, so it's a combination of things.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Communication is the foundation of the Thunder defense according to Chet Holmgren, who says it is the main thing required alongside good execution.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren explains the importance of communication for team defensive success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chet Holmgren",
+      "timestamp": "01:17",
+      "summary_phrase": "Chet Holmgren on creating offensive distractions to help Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "we put distraction trying to make the game easier for Shai because he's the plan A guy",
+      "quote": "We put distraction trying to make the game easier for Shai because he's the plan A guy and we want to make the game easier for him. So that's my job coming into it and just releasing pressure. Hopefully we keep doing that.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chet Holmgren says his job is to create distractions and release pressure to make the game easier for Shai Gilgeous-Alexander.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chet Holmgren describes his role in creating offensive opportunities to assist Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chet Holmgren",
+      "timestamp": "01:56",
+      "summary_phrase": "Chet Holmgren on how rim protection eases perimeter defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "it puts less pressure on you, so you can take more risks out there",
+      "quote": "It puts less pressure on you, so you can take more risks out there and play harder, play more aggressive. So I think just having that in the back of your mind that they're down there makes it easier.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chet Holmgren explains that having rim protection allows perimeter defenders to take more risks and play more aggressive defense.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chet Holmgren explains how having rim protection allows perimeter defenders to play more aggressively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chet Holmgren",
+      "timestamp": "02:12",
+      "summary_phrase": "Chet Holmgren on the team's collective response to early season injuries",
+      "names_mentioned": [],
+      "excerpt": "one word is just togetherness. Every team right now, there's lots of injuries in the NBA",
+      "quote": "One word is just togetherness. Every team right now, there's lots of injuries in the NBA, so we're not the only team dealing with it. So we just got to, it sounds bad, just onto the next and just be there for teammates.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chet Holmgren says the Thunder are focused on togetherness while dealing with early season injuries, noting that every team in the league is facing similar challenges.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Chet Holmgren addresses how the team is managing early season injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Josh Giddey",
+      "timestamp": "03:04",
+      "summary_phrase": "Josh Giddey on staying ready despite roster changes and injuries",
+      "names_mentioned": [],
+      "excerpt": "just trying to stay ready through it all. Whether your number is called or not",
+      "quote": "Just trying to stay ready through it all. Whether your number is called or not, with the unfortunate injuries that have happened, I've had to get more playing time and stuff like that that a lot of two-way guys don't see early in the year. So just staying ready, you know, my teammates stay confident in me and the coaches stay confident in me.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Josh Giddey says he is focused on staying ready through roster changes and injuries, noting that he is seeing more playing time than many two-way players typically see early in the year.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Josh Giddey discusses staying prepared for increased playing time due to team injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Josh Giddey",
+      "timestamp": "04:25",
+      "summary_phrase": "Josh Giddey on the necessity of team-wide defensive focus against stars",
+      "names_mentioned": [],
+      "excerpt": "I think as a team we just got to try and stop them and not limit it",
+      "quote": "I think as a team we just got to try and stop them and not limit it to just one person trying to stop them.",
+      "text_blocks": [],
+      "start_seconds": 265,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Josh Giddey emphasizes that the Thunder must rely on a team-wide defensive effort rather than relying on one person to stop opposing stars.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Josh Giddey emphasizes the need for a collective team effort to defend star players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Josh Giddey",
+      "timestamp": "04:56",
+      "summary_phrase": "Josh Giddey on the challenge of executing complex defensive schemes",
+      "names_mentioned": [],
+      "excerpt": "we've definitely ran zone in my life before, but not at this level",
+      "quote": "We've definitely ran zone in my life before, but not at this level, so it's definitely different. And with the spacing and everything, it's different, but we just got to be ready for whatever and we're trying to give teams different looks.",
+      "text_blocks": [],
+      "start_seconds": 296,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Josh Giddey admits that running zone defense at the NBA level is a different challenge due to the spacing, but says the team is working to give opponents different looks.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Josh Giddey talks about the challenges of executing complex defensive schemes like zone at the NBA level.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Josh Giddey",
+      "timestamp": "05:29",
+      "summary_phrase": "Josh Giddey on learning from veteran leader Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "he's been around the block a lot, so he's seen everything",
+      "quote": "He's a true pro. He's been around the block a lot, so he's seen everything. So just trying to learn from him and see how he approaches every day, it's been great.",
+      "text_blocks": [],
+      "start_seconds": 329,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Josh Giddey says he is learning how to be a professional by watching how Shai Gilgeous-Alexander approaches his work every day.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Josh Giddey discusses learning from the professional approach of teammate Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "f2Q2UrE0_Y8",
+  "url": "https://www.youtube.com/watch?v=f2Q2UrE0_Y8",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-28T17:29:16Z",
+  "duration_seconds": 347,
+  "processed_at": "2026-10-28T19:32:16Z",
+  "run_id": "2026-10-28T1931Z-14utc",
+  "is_one_off": false
+}

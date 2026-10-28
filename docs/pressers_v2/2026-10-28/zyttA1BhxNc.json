@@ -1,0 +1,319 @@
+{
+  "video_title": "Jalen Brunson, Karl-Anthony Towns, and Coach Brown Postgame Media | October 27, 2026",
+  "speakers_seen": [
+    "Jalen Brunson",
+    "Karl-Anthony Towns",
+    "Tom Thibodeau"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Brunson",
+      "timestamp": "00:07",
+      "summary_phrase": "Jalen Brunson on the Knicks' second-half comeback and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "just sticking together and just chipping away and making sure we're just continuing to hit singles",
+      "quote": "Just sticking together and just chipping away and making sure we're just continuing to hit singles. Just get on base and hit singles and have everyone chip in and contribute. Just focus on the little things until we get our rhythm, and once we get a rhythm, continue to do the little things. It's a big point of emphasis right now, just our attention to detail.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Brunson on the Knicks finding their rhythm after a slow start: Just focus on the little things until we get our rhythm and once we get a rhythm continue to do the little things.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Brunson discusses the team's approach to overcoming a deficit during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Brunson",
+      "timestamp": "01:31",
+      "summary_phrase": "Jalen Brunson on Josh Hart's unique mentality and preparation",
+      "names_mentioned": [
+        "Josh Hart"
+      ],
+      "excerpt": "popcorn, candy, wine, and caffeine. He's a different person.",
+      "quote": "Popcorn, candy, wine, and caffeine. He's a different person.",
+      "text_blocks": [],
+      "start_seconds": 91,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jalen Brunson on Josh Hart's pregame routine: Popcorn, candy, wine, and caffeine. He is a different person.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Josh Hart"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Brunson describes the unique personality and habits of his teammate Josh Hart.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Karl-Anthony Towns",
+      "timestamp": "03:57",
+      "summary_phrase": "Karl-Anthony Towns on building team consistency throughout the season",
+      "names_mentioned": [],
+      "excerpt": "all year it's going to be us improving and going through the ups and downs",
+      "quote": "All year it's going to be us improving and going through the ups and downs of the season. We just got to stay steady, keep believing in each other, keep pushing each other to another level.",
+      "text_blocks": [],
+      "start_seconds": 237,
+      "end_seconds": 251,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Karl-Anthony Towns on the Knicks' mindset for the long season: We just got to stay steady, keep believing in each other, keep pushing each other to another level.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Karl-Anthony Towns reflects on the team's need for consistency throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Karl-Anthony Towns",
+      "timestamp": "04:20",
+      "summary_phrase": "Karl-Anthony Towns on the team's improved intensity and physicality",
+      "names_mentioned": [],
+      "excerpt": "we do a good job picking up our intensity and our physicality and we just execute",
+      "quote": "We do a good job picking up our intensity and our physicality and we just execute at a high level. I talked before the game in the layup line interview about for us to win this game, we got to be the best version of ourselves. Can't worry about everything else that goes on, we just got to worry about the controllables, which is us playing our best, executing at a high level, and bringing that physicality to the game.",
+      "text_blocks": [],
+      "start_seconds": 260,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Karl-Anthony Towns says the key for the Knicks is focusing on the controllables: We just got to worry about the controllables, which is us playing our best, executing at a high level, and bringing that physicality to the game.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Karl-Anthony Towns explains the importance of maintaining intensity and focusing on controllable factors during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tom Thibodeau",
+      "timestamp": "06:49",
+      "summary_phrase": "Tom Thibodeau on the team's physical play and attention to detail",
+      "names_mentioned": [
+        "Paul Reed",
+        "Cat"
+      ],
+      "excerpt": "we had more good moments in this game in totality than we did in the first three games",
+      "quote": "We had more good moments in this game in totality than we did in the first three games and that's why we got the win. Our physicality on both sides of the ball, offensively, defensively, was really good. We set solid screens offensively, we hit the glass. I mean, we always talk about competing on free throw attempts and OG's offensive rebound on that that led to a three was big. But those little things that may not add up to much in a lot of people's minds, our guys brought to the table tonight. And then Cat, I mean, Paul Reed who's a good player, he had 16 points, I don't know how many rebounds in the first half, and I challenged Cat and Cat had a tremendous second half.",
+      "text_blocks": [],
+      "start_seconds": 409,
+      "end_seconds": 459,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tom Thibodeau praised Karl-Anthony Towns for his second-half response after being challenged: I challenged Cat and Cat had a tremendous second half.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "OG Anunoby",
+          "Karl-Anthony Towns"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tom Thibodeau praises the team's physicality and highlights specific contributions from OG Anunoby and Karl-Anthony Towns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tom Thibodeau",
+      "timestamp": "08:36",
+      "summary_phrase": "Tom Thibodeau on the impact of Orlando's hot shooting",
+      "names_mentioned": [
+        "Bane",
+        "DaSilva",
+        "Duncan Robinson",
+        "Jenkins"
+      ],
+      "excerpt": "against Orlando, their hot players, as I had mentioned this to you guys, Bane and DaSilva",
+      "quote": "Against Orlando, their hot players, as I had mentioned this to you guys, Bane and DaSilva, they were 9 for 18 against us, which had a huge impact on the game. And the guys that we labeled hot tonight, two of the guys were obviously Duncan Robinson and Jenkins, and they were combined 3 for 16. So our awareness, our level of physicality throughout the 48 minutes was a lot better on those two guys than the previous game.",
+      "text_blocks": [],
+      "start_seconds": 516,
+      "end_seconds": 546,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tom Thibodeau on the Knicks' improved defensive focus against shooters: Our awareness, our level of physicality throughout the 48 minutes was a lot better on those two guys than the previous game.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Duncan Robinson",
+          "Jenkins"
+        ],
+        "teams": [
+          "NYK",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tom Thibodeau analyzes the team's defensive success in limiting specific opposing players compared to a previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tom Thibodeau",
+      "timestamp": "10:01",
+      "summary_phrase": "Tom Thibodeau on the importance of dictating play through physicality",
+      "names_mentioned": [],
+      "excerpt": "once our guys realize, no, no, I can't react to them, I got to dictate to them",
+      "quote": "Once our guys realize, no, no, I can't react to them, I got to dictate to them what's going to happen, and they do it with a smart level of physicality, then it the game may be a little harder, but it makes it easier, you know? And again, I take my hat off to all of our guys because they started doing that in that second quarter and third quarter.",
+      "text_blocks": [],
+      "start_seconds": 601,
+      "end_seconds": 628,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tom Thibodeau on the importance of dictating play: Once our guys realize I cannot react to them, I have to dictate to them what is going to happen, and they do it with a smart level of physicality, it makes it easier.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Tom Thibodeau discusses the importance of his players dictating the pace and physicality of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tom Thibodeau",
+      "timestamp": "11:07",
+      "summary_phrase": "Tom Thibodeau on managing a long season and correcting mistakes",
+      "names_mentioned": [],
+      "excerpt": "this is a long season and we can have some hiccups, you know, and that's what the season's for",
+      "quote": "This is a long season and we can have some hiccups, you know, and that's what the season's for, it's trying to correct it so that come playoff time, you're ready to go do what you need to do. So is it fixed? No, it ain't fixed. Nothing's really fixed. What tonight shows us is we're more than capable if we put our minds to it.",
+      "text_blocks": [],
+      "start_seconds": 667,
+      "end_seconds": 692,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tom Thibodeau on the team's progress: Is it fixed? No, it ain't fixed. Nothing's really fixed. What tonight shows us is we're more than capable if we put our minds to it.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Tom Thibodeau shares his perspective on managing the long season and the process of continuous improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tom Thibodeau",
+      "timestamp": "12:00",
+      "summary_phrase": "Tom Thibodeau on the value of winning against tough opponents",
+      "names_mentioned": [],
+      "excerpt": "getting a win against Detroit, getting a win against anybody is what we need",
+      "quote": "Getting a win against Detroit, getting a win against anybody is what we need and it helps because it it it gives you belief when you get the win the right way. It continues to help build that belief when you get the win the right way, and that's what that's what I take away from this game more than anything else.",
+      "text_blocks": [],
+      "start_seconds": 720,
+      "end_seconds": 744,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tom Thibodeau on the value of winning the right way: It continues to help build that belief when you get the win the right way, and that's what I take away from this game more than anything else.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NYK",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Tom Thibodeau comments on the importance of building team belief through winning games against opponents like Detroit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Tom Thibodeau",
+      "timestamp": "13:00",
+      "summary_phrase": "Tom Thibodeau on the need for better playmaking and finishing",
+      "names_mentioned": [],
+      "excerpt": "every cut that you make, you have to finish it like it's a scoring opportunity",
+      "quote": "Cat's got to take care of the ball, okay, a little bit better with his passes, but then there are times too where he makes the right pass and we we we kind of stop trying to cut to score. And every, you know, you have your sets and your actions that you run, but every cut that you make, you have to finish it like it's a scoring opportunity. Even though you might have some quote-unquote false action, false action, then it's for this guy. Well, that first false false action, if it's to the rim or if you're open, you got to be ready to catch and score the ball.",
+      "text_blocks": [],
+      "start_seconds": 780,
+      "end_seconds": 823,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tom Thibodeau on offensive execution: Every cut that you make, you have to finish it like it's a scoring opportunity. Even though you might have some false action, you have to be ready to catch and score the ball.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karl-Anthony Towns"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tom Thibodeau critiques the team's execution, specifically focusing on ball security and finishing plays during offensive sets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "zyttA1BhxNc",
+  "url": "https://www.youtube.com/watch?v=zyttA1BhxNc",
+  "channel_team": "New York Knicks",
+  "published": "2026-10-28T18:11:51Z",
+  "duration_seconds": 890,
+  "processed_at": "2026-10-28T19:32:37Z",
+  "run_id": "2026-10-28T1931Z-14utc",
+  "is_one_off": false
+}
