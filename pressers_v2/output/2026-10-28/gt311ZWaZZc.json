@@ -1,0 +1,224 @@
+{
+  "video_title": "LIVE: Pelicans vs. Nuggets Pregame w/ Jamahl Mosley 10/28/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:41",
+      "summary_phrase": "Jamahl Mosley on the Pelicans' offensive focus and free-throw success",
+      "names_mentioned": [],
+      "excerpt": "obviously knocking our free throws down is a big key",
+      "quote": "I think we've done a very good job of that and obviously knocking our free throws down is a big key. Can we get downhill more? Absolutely. I think the second part of that is when we are getting the stops, and we've talked about this a ton, when you get the stops, can you convert? And I think that's where you are leaving points on the table. And I think we've got to continue to get better there, being able to connect those dots.",
+      "verbatim_original_language": "",
+      "start_seconds": 281,
+      "end_seconds": 314,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says the Pelicans need to improve their transition game after stops, noting that the team is currently leaving points on the table by failing to connect those dots.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the Pelicans offensive execution and free throw shooting before the game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:21",
+      "summary_phrase": "Jamahl Mosley on defending high-level playmakers like Jokic and Murray",
+      "names_mentioned": [
+        "Jokic",
+        "Murray"
+      ],
+      "excerpt": "you have to be very detailed in your game plan, understanding what you're willing to live with",
+      "quote": "You can't walk into a group of guys and say, 'Hey, this is Joker, this is Murray, this is what they do.' So you have to be very detailed in your game plan, understanding what you're willing to live with and not live with. And for these guys, they've done it for so long at such a high level that you have to say, 'Okay, Joker is going to do some things that there's not many people in the NBA can stop. Can you make it more difficult?' Can you limit where Murray gets his shots and can you funnel them to the area that you need to? And then on the back side of that, Joker being such an amazing passer, you've got to be alert for where he's distributing that basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 321,
+      "end_seconds": 372,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on facing the Nuggets: You have to accept that Joker is going to do things few can stop, so the focus is on making it more difficult and limiting where Murray gets his shots.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the defensive game plan for containing Nikola Jokic and Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:25",
+      "summary_phrase": "Jamahl Mosley on the importance of recovery and practice time",
+      "names_mentioned": [],
+      "excerpt": "being able to get the guys the rest, sleeping in your own bed, the recovery we needed",
+      "quote": "In my mind, I thought we did a great job. Now, how we come out tonight is going to be a tell if we use that time and it was valuable. But being able to get the guys the rest, sleeping in your own bed, the recovery we needed in our facility, I think those are all important pieces. Being able to hone in on the game plan of a team that you just played, I think is very important, and that's where you'll be able to see some of the things if we executed right, the way that we need to, if that worked out well.",
+      "verbatim_original_language": "",
+      "start_seconds": 385,
+      "end_seconds": 426,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley emphasizes the importance of recovery and practice time, noting that tonight's game will be a tell on whether the team effectively used their recent rest period.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the importance of recovery and practice time for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:07",
+      "summary_phrase": "Jamahl Mosley on seeing Eve back on the court",
+      "names_mentioned": [
+        "Eve"
+      ],
+      "excerpt": "it's a relief, it says a lot about him and how his body can heal",
+      "quote": "It's a relief. It says a lot about him and how his body can heal as well as our medical staff and what they're putting and the time and attention they're putting in to him to be able to recover and get back on track.",
+      "verbatim_original_language": "",
+      "start_seconds": 427,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley expresses relief at seeing Eve back on the court, crediting both the player's recovery and the work of the Pelicans medical staff.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley expresses relief regarding the return of a player named Eve to the court.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:51",
+      "summary_phrase": "Jamahl Mosley on the team's mindset regarding their 0-3 start",
+      "names_mentioned": [],
+      "excerpt": "there's no one in our building that wants to be 0-3",
+      "quote": "There's no one in our building that wants to be 0-3. I don't want to be 0-3, the players don't want to be 0-3, and you also realize that you're a percentage into the season and that there's 79 more games to go. And so if you look at it from every win, every loss is going to be the high or the low, then you're putting yourself into a situation that you don't want to be in. And our guys know what we're trying to accomplish.",
+      "verbatim_original_language": "",
+      "start_seconds": 471,
+      "end_seconds": 504,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Addressing the Pelicans 0-3 start, Jamahl Mosley says no one in the building is happy with the record but emphasizes that the team is focused on the long season ahead.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley addresses the team's mindset following their 0-3 start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:14",
+      "summary_phrase": "Jamahl Mosley on the team's long-term development process",
+      "names_mentioned": [],
+      "excerpt": "we're establishing something that's long-term versus just, okay, you want a couple games but the process was wrong",
+      "quote": "We're establishing something that's long-term versus just, okay, you want a couple games but the process was wrong. And I will not do that for where we're trying to build and go with this organization.",
+      "verbatim_original_language": "",
+      "start_seconds": 554,
+      "end_seconds": 567,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says he is prioritizing the long-term development of the organization over chasing short-term wins if the process is wrong.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the importance of the long-term development process over short-term results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "10:05",
+      "summary_phrase": "Jamahl Mosley on the league-wide increase in early-season injuries",
+      "names_mentioned": [],
+      "excerpt": "I don't know that you can really explain it. I know that we've talked about the speed",
+      "quote": "I don't know that you can really explain it. I know that we've talked about the speed of the game, the pace of the game, the physicality of each team doing different things. Guys getting faster, quicker, stronger, all those things play a part. Some of them are freak injuries, some probably have something behind it, guys that have been hurt that are re-injuring a similar area on the body. So I'm not a medical expert, but I think that the more we can continue to recover, the more the guys can take care of their bodies, hopefully the better it will be.",
+      "verbatim_original_language": "",
+      "start_seconds": 605,
+      "end_seconds": 645,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley weighs in on the rise in early season injuries, citing the increased speed, pace, and physicality of the modern game as potential factors.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley shares his thoughts on the recent increase in injuries across the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "gt311ZWaZZc",
+  "url": "https://www.youtube.com/watch?v=gt311ZWaZZc",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-28T23:32:53Z",
+  "duration_seconds": 682,
+  "processed_at": "2026-10-29T00:00:23Z",
+  "run_id": "2026-10-28T2359Z-20utc",
+  "is_one_off": false
+}

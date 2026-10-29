@@ -1,0 +1,322 @@
+{
+  "video_title": "Head Coach Jordan Ott Practice Media Availability | 10-28-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:09",
+      "summary_phrase": "Jordan Ott on the team's inconsistent 48-minute performance",
+      "names_mentioned": [],
+      "excerpt": "I just haven't put together a full 48. I think a little bit, we had some spurts.",
+      "quote": "I just haven't put together a full 48. I think a little bit, we had some spurts where it looked really good, and we have those stretches where we just don't put it together enough and then it just kind of snowballs. We got to double digits and then we had a chance to bring it back and containing the basketball of Shay and AJ Mitchell are tough task. We didn't do it well enough.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the Suns are struggling to put together a full 48 minutes of consistent play, noting that stretches where they lose focus cause the game to snowball.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's inability to maintain consistent performance throughout a full 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:35",
+      "summary_phrase": "Jordan Ott on the team's defensive communication and team culture",
+      "names_mentioned": [],
+      "excerpt": "Our group cares, so you're going to continually see conversations happen.",
+      "quote": "I think we try to encourage it. A lot of times it happens in the film room or wherever, but I think those happen all the time. Our group cares, so you're going to continually see conversations happen, and we all know it's coming from a good place, but we're not where we need to be right now.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott on the Suns defensive communication: Our group cares and conversations are happening, but we are not where we need to be right now.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains that the team's defensive communication is a work in progress and emphasizes that the group is well-intentioned.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:09",
+      "summary_phrase": "Jordan Ott on the team's struggles with defensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "Not as much on the defensive glass. Yeah, we're going to have to figure that out.",
+      "quote": "Not as much on the defensive glass. Yeah, we're going to have to figure that out. We know that at times we don't have a true backup center right now. That that's hurting us, but it's also hurting our first unit at times too. So it's part of the possession game. We're not where we need to be for sure on defensive glass, and it felt like daggers, you know, at times. They get the rebound, we played good first-shot defense, they get the rebound, they get a really good look in that second one, and those are just hard to overcome against a really good team on the road.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jordan Ott admits the lack of a true backup center is hurting the Suns on the defensive glass, calling the second-chance points they are giving up daggers.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Ott identifies the lack of a true backup center as a significant factor in the team's struggles with defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:47",
+      "summary_phrase": "Jordan Ott on the team's defensive deflection numbers",
+      "names_mentioned": [],
+      "excerpt": "Those deflections numbers aren't where we were last year.",
+      "quote": "You've probably seen them. They're on NBA.com. I think, you know, those deflections numbers aren't where we were last year. We don't talk as much about deflections, we want the physical ball. So I think we're right outside or right there in the top 10 of forcing turnovers. We know we got to be better than that. We talked a lot of defense today. It's not where we want to be. Pick and roll, drive, defensive rebound, overall defense, slants a little bit on that first game, but even the last two, just defensively we're not quite where we want to be right now.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 147,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the Suns defensive numbers are not where they want them to be, specifically citing issues with pick and roll defense and rebounding.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott reflects on the team's defensive metrics and the need to improve overall defensive execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:28",
+      "summary_phrase": "Jordan Ott on the team's practice schedule and player availability",
+      "names_mentioned": [],
+      "excerpt": "He went through practice today, so we did most of practice.",
+      "quote": "He went through practice today, so we did most of practice. So this was as high as they back. Yeah, I mean it's helpful that we have a couple days, so that that's been good over the last week, but we're going to be smart with him the same, see how he reacts to today's practice, but he definitely went through most of practice.",
+      "text_blocks": [],
+      "start_seconds": 148,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott provides a brief update on a player returning from injury, noting they went through most of practice today and the team will be smart with his recovery.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Ott provides an update on an unnamed player who participated in most of practice and is being monitored for his reaction.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:48",
+      "summary_phrase": "Jordan Ott on the team's defensive focus for upcoming games",
+      "names_mentioned": [],
+      "excerpt": "If you didn't walk away with a defensive message coming out of today, you weren't paying attention.",
+      "quote": "If you didn't walk away with a defensive message coming out of today, I'd say you weren't paying attention. So we we hit the defense pretty hard today. We know that's the type of team we want to be. We got to play much better defense. It starts on that end. It starts with all of us, just setting that tone. I think these couple days of actually practicing in the early part of the season will help us.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the coaching staff hit the team hard on defense during practice today, emphasizing that the team needs to set a better tone on that end of the floor.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott emphasizes that the team's primary focus during recent practices has been on improving defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:19",
+      "summary_phrase": "Jordan Ott on the importance of defensive activity and rebounding",
+      "names_mentioned": [],
+      "excerpt": "We want activity, like our deflection rates got to go up.",
+      "quote": "We want activity, like our deflection rates got to go up, but we also can't gamble to get out of place just for a deflection to give up the paint. We want to force jump shots, we want to force contested jump shots, but we do want possessions, so that's taking the ball from the other team and that's rebounding. The glass is hurting us, and we'll continue to hammer it.",
+      "text_blocks": [],
+      "start_seconds": 199,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott wants more defensive activity from the Suns but warns against gambling for deflections at the expense of protecting the paint.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott outlines the team's defensive goals, specifically focusing on increasing activity and improving rebounding performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:00",
+      "summary_phrase": "Jordan Ott on the team's offensive pace and second unit performance",
+      "names_mentioned": [],
+      "excerpt": "I think most second units around the league play faster for a reason.",
+      "quote": "It's a mix. I mean, I think most second units around the league play faster for a reason. They probably don't need two advantages, they probably need one. Like our first unit needs one advantage, we have such elite offensive talent with that first group. The second, most second units you need to play multiple actions. It starts with the defensive glass. So they all they're all it's all connected. We got to clear the glass to then get into transition, and then the more times we do that, then we can play in space, especially with that first unit. But overall, the first unit is again, it's the defense. It's our defense with our group, we have to get better at.",
+      "text_blocks": [],
+      "start_seconds": 240,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott explains the difference in pace between the first and second units, noting that the second unit needs to play faster to generate advantages.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the relationship between defensive rebounding and the ability of the first and second units to play in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:55",
+      "summary_phrase": "Jordan Ott on the team's communication and player development",
+      "names_mentioned": [],
+      "excerpt": "He's a really good communicator, he just has to know what he's communicating.",
+      "quote": "I don't know about chemistry. It's just communication. I think early early season communication. Man-man, a young 20-year-old center that he's a really good communicator, he just has to know what he's communicating, but he can't be the only guy talking. You know, I think sometimes we take it for granted, we hear man-man, but we really need everyone to talk, and that'll happen. That'll happen over the course of the season to get more connected. But there are some new pieces. Those two guys are new on that first unit. Jay obviously didn't play a ton of games, so we have some of the same players, but there's new pieces in in major spots, and then that second unit where we're not right, like we talked about after the game. We got to figure out 48 minutes of center play, and some of those minutes we got to figure out to be better.",
+      "text_blocks": [],
+      "start_seconds": 295,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the Suns are still working on communication with new pieces in the rotation and need to figure out their center play for the full 48 minutes.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott addresses the need for better communication on the court and the challenge of integrating new players into the rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:44",
+      "summary_phrase": "Jordan Ott on the team's drive generation and Miles' role",
+      "names_mentioned": [],
+      "excerpt": "We're top 10 in drives on the season, so I think overall our picture of trying to get into the paint more has been received.",
+      "quote": "We're top 10 in drives on the season, so I think overall our picture of trying to get into the paint more has been received. We're going to continue to add pieces to Miles for sure. He can help generate some pace early in the possessions, just by who he's matching up with, by his ability to be dynamic as a roller or a popper. So I think we will add layers to him as the season goes on. Some of that's offensive glass, some of that'll be in transition. But yeah, I think we are still learning Miles, but that's one piece for sure in the first unit that we can use a little bit better.",
+      "text_blocks": [],
+      "start_seconds": 344,
+      "end_seconds": 389,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott says the team is still learning how to best utilize Miles in the first unit, noting they plan to add layers to his role as the season progresses.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the team's offensive drive generation and plans to better utilize Miles within the first unit's scheme.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:30",
+      "summary_phrase": "Jordan Ott on the team's defensive focus and consistency",
+      "names_mentioned": [],
+      "excerpt": "We're going to continue to talk about defense, like we don't want to lose focus on anything other than our our defense.",
+      "quote": "We're going to continue to talk about defense, like we don't want to lose focus on anything other than our our defense. It's got to be better. That kind of fuels all of us. We were a top 10 defense last year, we got to get back to that level.",
+      "text_blocks": [],
+      "start_seconds": 390,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jordan Ott says the Suns must get back to being a top 10 defensive team, emphasizing that defense is what fuels their entire group.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott reiterates the team's commitment to returning to the high level of defensive performance they achieved last season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "35Dd7qSI_dQ",
+  "url": "https://www.youtube.com/watch?v=35Dd7qSI_dQ",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-28T20:11:54Z",
+  "duration_seconds": 415,
+  "processed_at": "2026-10-29T00:00:23Z",
+  "run_id": "2026-10-28T2359Z-20utc",
+  "is_one_off": false
+}

@@ -1,0 +1,452 @@
+{
+  "video_title": "Ja Morant Media Availability | Oct. 28, 2026 | Portland Trail Blazers",
+  "speakers_seen": [
+    "Ja Morant"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja Morant",
+      "timestamp": "00:04",
+      "summary_phrase": "Ja Morant on his emotions regarding playing against the Memphis Grizzlies",
+      "names_mentioned": [],
+      "excerpt": "I still have another day to process it, but I don't look at it any different.",
+      "quote": "I don't have any emotions surrounding playing against the Grizzlies. I still have another day to process it, but I don't look at it any different. Obviously, my home is still my home, my last team, but I have other things to focus on now.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant says he has no emotions about playing his former team the Grizzlies. He says he is focused on the current season and looking to stay undefeated with the Trail Blazers.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ja Morant discusses his feelings about playing against his former team, the Memphis Grizzlies, for the first time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja Morant",
+      "timestamp": "00:32",
+      "summary_phrase": "Ja Morant on whether he has hard feelings toward the Memphis Grizzlies organization",
+      "names_mentioned": [],
+      "excerpt": "No, not at all.",
+      "quote": "No, not at all.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ja Morant says he has no hard feelings toward the Memphis Grizzlies organization.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ja Morant is asked if he holds any hard feelings toward the Memphis Grizzlies organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja Morant",
+      "timestamp": "00:44",
+      "summary_phrase": "Ja Morant on his father's comments regarding a 'reckoning' against Memphis",
+      "names_mentioned": [],
+      "excerpt": "That's my pop. That's how he feel.",
+      "quote": "That's my pop. That's how he feel. I'm not of a big grudge guy or anything like that, so no. I still talk to the guys that I'm pretty much cool with. I talked to them yesterday. It's no different for me, just another basketball game on the schedule for us and we're looking to stay undefeated.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant on his father's comments about a reckoning against Memphis: I am not a big grudge guy. It is just another basketball game on the schedule.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ja Morant responds to his father's comments about a reckoning against the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ja Morant",
+      "timestamp": "01:13",
+      "summary_phrase": "Ja Morant on watching Memphis Grizzlies games and keeping up with former teammates",
+      "names_mentioned": [],
+      "excerpt": "I actually watched all their games this year. I told you I still have some homies.",
+      "quote": "I actually watched all their games this year. I told you I still have some homies. I got some homies still there hooping, so yeah.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ja Morant says he still watches all the Memphis Grizzlies games this season because he still has friends on the roster.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant mentions that he still watches Memphis Grizzlies games to support his former teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ja Morant",
+      "timestamp": "01:32",
+      "summary_phrase": "Ja Morant on his career trajectory and finding a new home in Portland",
+      "names_mentioned": [],
+      "excerpt": "I found a new home, found some people that brought me in and took me in.",
+      "quote": "That was pretty much my career so far, obviously ups and downs, but a lot more good than anything. I found a new home, found some people that brought me in and took me in as family like I was actually born from there. It's been a plus, man. I love it. Nothing harsh for me from Memphis.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ja Morant says he has found a new home in Portland and feels like family there. He says he has nothing harsh to say about his time in Memphis.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ja Morant reflects on his career trajectory and his transition to the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ja Morant",
+      "timestamp": "02:04",
+      "summary_phrase": "Ja Morant on his impressions of the current Memphis Grizzlies team",
+      "names_mentioned": [
+        "Todd"
+      ],
+      "excerpt": "I feel like they have a really good team. Obviously, Todd doing his thing right now.",
+      "quote": "I feel like they have a really good team. Obviously, Todd doing his thing right now, leading the charge. But I feel like the setup they got, adding Boos, I feel like was the perfect complementary piece to that team and the offense they're trying to bring. Very unselfish, him alongside big Zach, I think it's just good for Zach as well. They play hard, so it's not going to be an easy game at all for sure, but we still got to go out and handle business.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant praises the Grizzlies current roster, calling the addition of Boos the perfect complementary piece to their offense alongside Zach Edey.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja Morant shares his impressions of the current Memphis Grizzlies roster and their playing style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ja Morant",
+      "timestamp": "02:40",
+      "summary_phrase": "Ja Morant on the lack of rivalry sentiment regarding the upcoming Memphis game",
+      "names_mentioned": [],
+      "excerpt": "I don't look at it as like a big thing or a rivalry thing at all.",
+      "quote": "I don't look at it as like a big thing or a rivalry thing at all. Like it's just my last team I played for, and now it's my first time playing against them.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ja Morant says he does not view the upcoming game against Memphis as a rivalry. It is just his first time playing against his former team.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ja Morant clarifies that he does not view the upcoming game against Memphis as a rivalry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ja Morant",
+      "timestamp": "02:58",
+      "summary_phrase": "Ja Morant on the benefits of a fresh start following his trade",
+      "names_mentioned": [],
+      "excerpt": "Obviously a fresh start is always good like I've been saying.",
+      "quote": "Obviously a fresh start is always good like I've been saying. Obviously, I didn't want to leave, it wasn't up to me, but I'm in a good place now. I'm feeling good, I'm happy. We got things rolling here, great city, great fans. Everything so far here has been good for me and I'm loving it.",
+      "text_blocks": [],
+      "start_seconds": 178,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant on his trade from Memphis: I did not want to leave, it was not up to me, but I am in a good place now. I am feeling good and happy.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Ja Morant discusses the benefits of his fresh start in Portland following his trade from Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Ja Morant",
+      "timestamp": "03:33",
+      "summary_phrase": "Ja Morant on taking responsibility for the events leading to his trade",
+      "names_mentioned": [],
+      "excerpt": "I take responsibility for like the stuff I caused, but it wasn't all me though.",
+      "quote": "Obviously, we was at a great point, and then obviously I got in trouble. Then the dominoes pretty much went from there. Guys started getting traded, new guys coming in, and it came to me. So I take responsibility for like the stuff I caused, but it wasn't all me though. If you know, you know.",
+      "text_blocks": [],
+      "start_seconds": 213,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Ja Morant on his exit from Memphis: I take responsibility for the stuff I caused, but it was not all me though. If you know, you know.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Ja Morant reflects on the events that led to his trade from the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Ja Morant",
+      "timestamp": "05:05",
+      "summary_phrase": "Ja Morant on his personal growth and changing approach to the game",
+      "names_mentioned": [],
+      "excerpt": "Now I don't have to go out and tax my body or do anything too much.",
+      "quote": "It's motivating for sure. I just don't look at it as the way I used to look at things at all. Obviously, it was a lot more pressure on me then than it is now. I was the head of the snake. So now I don't have to go out and tax my body or do anything too much with the guys I got. Playing now, we're playing well, so it's just about me going and just doing my job.",
+      "text_blocks": [],
+      "start_seconds": 305,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ja Morant says there is less pressure on him in Portland than there was in Memphis. He says he does not have to tax his body as much with the current roster.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant discusses his personal growth and his changing approach to his role on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Ja Morant",
+      "timestamp": "05:44",
+      "summary_phrase": "Ja Morant on his current happiness level playing basketball",
+      "names_mentioned": [],
+      "excerpt": "I want to say happiest. I'm happy.",
+      "quote": "I want to say happiest. I'm happy, but my Memphis time was great, man. That's tough to take out of the picture after a couple months. We got to let this season obviously play out first and then go from there, but I don't know if nothing can top me no my time in Memphis at all. Unless I want a chip, and that's the goal this year.",
+      "text_blocks": [],
+      "start_seconds": 344,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant says he is happy in Portland but admits it is tough to top his time in Memphis unless he wins a championship this year.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ja Morant compares his current happiness level to his time playing for the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Ja Morant",
+      "timestamp": "06:30",
+      "summary_phrase": "Ja Morant on his goals for the season and staying healthy",
+      "names_mentioned": [],
+      "excerpt": "Just making sure I go out there and do that and just stay healthy.",
+      "quote": "For me, just continue to just been doing what I'm doing. Obviously, I've got what is wanted for me on this team and just making sure I go out there and do that and just stay healthy. I feel like if I'm available, this is a great season for me, honestly.",
+      "text_blocks": [],
+      "start_seconds": 390,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ja Morant says his goal for the season is to stay healthy and continue doing his job for the Trail Blazers.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ja Morant outlines his goals for the season and emphasizes the importance of staying healthy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Ja Morant",
+      "timestamp": "07:03",
+      "summary_phrase": "Ja Morant on his accountability regarding past incidents",
+      "names_mentioned": [],
+      "excerpt": "I felt like I took accountability when it first happened.",
+      "quote": "I felt like I took accountability when it first happened. Then when the second incident happened, I had to keep doing it. They kept acting like, oh, y'all don't think it was his fault. I mean, if you want to say that, that's cool. I can't do nothing else for nobody else. I take my lick like a man and go about my day.",
+      "text_blocks": [],
+      "start_seconds": 423,
+      "end_seconds": 448,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ja Morant on past incidents: I felt like I took accountability when it first happened. I take my lick like a man and go about my day.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ja Morant addresses his accountability regarding past incidents that occurred during his time in Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Ja Morant",
+      "timestamp": "07:47",
+      "summary_phrase": "Ja Morant on moving forward and focusing on the current season",
+      "names_mentioned": [],
+      "excerpt": "I just got to live with it. I just got to live with what comes after it.",
+      "quote": "I mean, you just live with it. I mean, I dug that hole for myself and I just got to live with, you know, what comes after it. So all I can do is just focus on the main thing and that's playing basketball here and continuing to go out and doing what we doing.",
+      "text_blocks": [],
+      "start_seconds": 467,
+      "end_seconds": 488,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ja Morant on his past: I dug that hole for myself and I just have to live with what comes after it. I am focused on playing basketball here.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Ja Morant discusses moving forward and focusing on his current responsibilities with the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Ja Morant",
+      "timestamp": "08:06",
+      "summary_phrase": "Ja Morant on his relationship with the Portland Trail Blazers coaching staff",
+      "names_mentioned": [
+        "Tomas"
+      ],
+      "excerpt": "I'm cool with everybody over there.",
+      "quote": "I'm cool with everybody over there. I don't got no hard feelings with nobody unless they got it with me.",
+      "text_blocks": [],
+      "start_seconds": 486,
+      "end_seconds": 494,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ja Morant says he is cool with everyone on the Portland coaching staff and has no hard feelings toward anyone.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ja Morant comments on his relationship with the Portland Trail Blazers coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "FGuGrTdeOEU",
+  "url": "https://www.youtube.com/watch?v=FGuGrTdeOEU",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-28T19:38:37Z",
+  "duration_seconds": 495,
+  "processed_at": "2026-10-29T00:00:42Z",
+  "run_id": "2026-10-28T2359Z-20utc",
+  "is_one_off": false
+}

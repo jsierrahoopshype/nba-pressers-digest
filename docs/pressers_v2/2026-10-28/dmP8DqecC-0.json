@@ -1,0 +1,341 @@
+{
+  "video_title": "Dillon Brooks Practice Media Availability | 10-28-26",
+  "speakers_seen": [
+    "Dillon Brooks"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dillon Brooks",
+      "timestamp": "00:35",
+      "summary_phrase": "Dillon Brooks on the need for more aggressive defensive play",
+      "names_mentioned": [],
+      "excerpt": "just gotta be find ways to be more aggressive on our defensive point of attack",
+      "quote": "We got a lot of threes up that game, and I think that's a good thing, just gotta knock them down. A lot of good things from the OKC game. Just gotta be find ways to be more aggressive on our defensive point of attack and be able to rebound out of a small lineup.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks says the team needs to be more aggressive at the defensive point of attack and improve rebounding out of small lineups to build on their recent performance.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks discusses his team's performance and defensive strategy following their recent game against the Oklahoma City Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:05",
+      "summary_phrase": "Dillon Brooks explains his physical play against Lauri Markkanen",
+      "names_mentioned": [
+        "Lauri Markkanen"
+      ],
+      "excerpt": "I used my arm to create contact and he threw his head back, per usual in the NBA",
+      "quote": "I was getting into the ball and I used my arm to create contact and he threw his head back, per usual in the NBA, and it's me, so they gotta call it.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks on his physical play against Lauri Markkanen: I used my arm to create contact and he threw his head back, per usual in the NBA, and it is me, so they have to call it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Lauri Markkanen"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks addresses his physical defensive play and the resulting foul call involving Lauri Markkanen.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:21",
+      "summary_phrase": "Dillon Brooks questions officiating consistency on flagrant fouls",
+      "names_mentioned": [
+        "Jrue Holiday"
+      ],
+      "excerpt": "I don't know if we're just relying on the flagrants, but it's a physical game, man",
+      "quote": "I see another play yesterday when Jrue Holiday went up for a blocked shot against the big man on the Lakers and he went over the top trying to block his shot, and they call it as a flagrant as well. I don't know if we're just relying on the flagrants, but it's a physical game, man. This is basketball.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks is frustrated with officiating consistency regarding flagrant fouls, saying he does not know if the league is just relying on them too much because it is a physical game.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jrue Holiday"
+        ],
+        "teams": [
+          "PHX",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks questions the consistency of officiating regarding flagrant foul calls while referencing a play involving Jrue Holiday.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dillon Brooks",
+      "timestamp": "01:50",
+      "summary_phrase": "Dillon Brooks disputes technical foul call involving Cedi Osman",
+      "names_mentioned": [
+        "Cedi Osman",
+        "Tony Brothers"
+      ],
+      "excerpt": "That was the one call I didn't agree with Tony last game",
+      "quote": "Obviously Cedi Osman came and walked towards me and put his hand on me, and I'm not allowing that to happen, so I pushed him off. That was the one call I didn't agree with Tony last game, giving me a technical and not giving the other player a technical as well.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks disputes a technical foul from the last game, claiming he only pushed Cedi Osman because Osman walked toward him and put his hand on him.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cedi Osman"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks explains his disagreement with a technical foul call during an altercation with Cedi Osman.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dillon Brooks",
+      "timestamp": "02:22",
+      "summary_phrase": "Dillon Brooks on building team chemistry and mentoring young players",
+      "names_mentioned": [],
+      "excerpt": "I gotta bring more energy, bring more knowledge to the young players that are getting into the game",
+      "quote": "We still gotta find the chemistry. I gotta bring more energy, bring more knowledge to the young players that are getting into the game. It's only the beginning of the year. I'd rather have the adversity now and battle through and find our way out of it than January, February where it's crunch time.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks says he wants to deal with team adversity now rather than in the crunch time of January and February as he works to mentor young players and build chemistry.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dillon Brooks discusses the importance of building team chemistry and mentoring younger players early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dillon Brooks",
+      "timestamp": "02:52",
+      "summary_phrase": "Dillon Brooks on addressing team defensive struggles",
+      "names_mentioned": [
+        "Brandon"
+      ],
+      "excerpt": "we're 30th in defense, so that's not great. That's terrible",
+      "quote": "We're talking about our schemes and defense and our offense, talking about a lot of things. We're 30th in defense, so that's not great. That's terrible. And we're figuring out ways to jump-start our defense and jump-start our offense.",
+      "text_blocks": [],
+      "start_seconds": 172,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Dillon Brooks is blunt about the team defensive struggles: We are 30th in defense, so that is not great. That is terrible.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks addresses the team's poor defensive ranking and the need to improve their overall performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Dillon Brooks",
+      "timestamp": "03:40",
+      "summary_phrase": "Dillon Brooks on officiating bias against certain players",
+      "names_mentioned": [
+        "Zaire"
+      ],
+      "excerpt": "I think OKC flops a lot, but they don't get called for it because they got a pedigree",
+      "quote": "They called like two flopping technicals. I think OKC flops a lot, but they don't get called for it because they got a pedigree. But when Zaire gets called for it, he's known as a flopper. It's all pick and choose, and you got to realize that refs are human, they're not robots, so they're going to see what they see and call what they call.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 245,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks claims there is a double standard in officiating, noting that some teams get away with flopping because of their pedigree while others like Zaire are targeted.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ziaire Williams"
+        ],
+        "teams": [
+          "PHX",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks comments on perceived officiating bias regarding flopping calls involving Ziaire Williams and the Oklahoma City Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Dillon Brooks",
+      "timestamp": "04:27",
+      "summary_phrase": "Dillon Brooks on his reputation with referees",
+      "names_mentioned": [],
+      "excerpt": "I should have built it up differently a little bit to begin my career",
+      "quote": "I should have built it up differently a little bit to begin my career, but chips fall where they may. That's all a part of it. It's all getting notoriety, doing it every single year, and that's why you see guys getting the calls that they get called on, or defenders getting away with a little bit more, or teams getting away with a little bit more because of what they showed over the years.",
+      "text_blocks": [],
+      "start_seconds": 267,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks reflects on his reputation with referees, admitting he should have built it differently early in his career but acknowledging that notoriety plays a role in how games are called.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks reflects on his reputation with referees and how his career history influences current officiating decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Dillon Brooks",
+      "timestamp": "05:13",
+      "summary_phrase": "Dillon Brooks on preparing for upcoming game against Denver",
+      "names_mentioned": [],
+      "excerpt": "we're gonna have to figure out how to stop them",
+      "quote": "Getting some game reps, feeling out what we need to do against Denver. It's a good team with two great players, so we're gonna have to figure out how to stop them and learn from other teams and how they beat them at the beginning of this season.",
+      "text_blocks": [],
+      "start_seconds": 313,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dillon Brooks says the team is studying how other squads have beaten Denver to prepare for their upcoming matchup against the Nuggets.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks discusses the team's preparation and defensive focus ahead of their upcoming game against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Dillon Brooks",
+      "timestamp": "05:43",
+      "summary_phrase": "Dillon Brooks on the importance of early season intensity",
+      "names_mentioned": [],
+      "excerpt": "good starts is what keeps you alive during the meat of the season",
+      "quote": "I'm gonna get into more people's shit and make them understand that good starts is what keeps you alive during the meat of the season, which is December and January. That intensity, that energy needs to be every single day because this season is long.",
+      "text_blocks": [],
+      "start_seconds": 343,
+      "end_seconds": 360,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dillon Brooks emphasizes the need for early season intensity: I am going to get into more people's stuff and make them understand that good starts is what keeps you alive during the meat of the season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks emphasizes the need for high intensity and energy during the early stages of the NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Dillon Brooks",
+      "timestamp": "06:24",
+      "summary_phrase": "Dillon Brooks on defensive focus and positioning",
+      "names_mentioned": [],
+      "excerpt": "my main thing is the defense because the offense is gonna take care of itself",
+      "quote": "Just energy, attention to detail, and I guess trying to be not perfect, but being in the right positions on defensive end so we can get deflections and steals and easy baskets. My main thing is the defense because the offense is gonna take care of itself. It's a hit-or-miss league, but the defense is what makes things work.",
+      "text_blocks": [],
+      "start_seconds": 384,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dillon Brooks says his main focus is defense because the offense will take care of itself: It is a hit or miss league, but the defense is what makes things work.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks highlights the importance of defensive attention to detail and positioning as the foundation for team success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "dmP8DqecC-0",
+  "url": "https://www.youtube.com/watch?v=dmP8DqecC-0",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-28T20:09:24Z",
+  "duration_seconds": 451,
+  "processed_at": "2026-10-29T00:00:23Z",
+  "run_id": "2026-10-28T2359Z-20utc",
+  "is_one_off": false
+}
