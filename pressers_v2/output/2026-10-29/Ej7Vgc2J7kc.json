@@ -1,0 +1,606 @@
+{
+  "video_title": "Postgame Interview (10/28/26) | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Kobe Brown",
+    "Darius Garland"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:15",
+      "summary_phrase": "Tyronn Lue on Clippers' early game turnover struggles",
+      "names_mentioned": [],
+      "excerpt": "we had four turnovers in the first four minutes. Just some things we got to clean up.",
+      "quote": "I think it was kind of deflating early on. We had four turnovers in the first four minutes. Just some things we got to clean up. They got to understand that just making a simple play, sometimes you are going to have bad breaks, but we had a lot of unforced turnovers that we can take care of and have control over.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue says the Clippers' early game struggles were deflating, noting they had four turnovers in the first four minutes. He emphasized they have to clean up the unforced errors to take control of games.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the team's early game struggles with unforced turnovers during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:44",
+      "summary_phrase": "Tyronn Lue on creating offense without primary shot creators",
+      "names_mentioned": [],
+      "excerpt": "up tempo, and when we get stops, get out in transition, run, advance, attack early.",
+      "quote": "It is the way we got to play. Up tempo, and when we get stops, get out in transition, run, advance, attack early. But in a half court, we got to play just as fast. Because we are limited offensively, and so when we get in the half court, as much as we talk about running in transition, you got to sprint in the screens, you got to sprint to cuts, you got to do all the different things hard and with pace.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue on the Clippers' offensive identity: We are limited offensively, so we have to play fast. Even in the half court, you have to sprint into screens and cuts to play with pace.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue explains the need for the team to play with pace and intensity in both transition and half-court sets due to offensive limitations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:32",
+      "summary_phrase": "Tyronn Lue on Kobe Brown's defensive positioning",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "he does a good job of standing in front of the basketball. He is not getting blown by.",
+      "quote": "He will be okay. He does a good job of standing in front of the basketball. He is not getting blown by, so that is a good thing right there. Just at the rim, sometimes when guys are trying to bully him at the rim, with the physicality, just understanding how to guard and how to wall up and things like that, which he will get better at.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue on Kobe Brown's defense: He does a good job of standing in front of the basketball and not getting blown by. He just needs to improve his physicality at the rim when guys try to bully him.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue evaluates Kobe Brown's defensive performance, noting his ability to stay in front of players while highlighting the need for better rim physicality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "03:05",
+      "summary_phrase": "Tyronn Lue on Darius Garland's offensive role and pressure",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "he just cannot feel the pressure of having to do it every single time.",
+      "quote": "Just relying on him to make plays, coming down the floor, and being able to score the basketball as well as getting guys involved. We are asking a lot of him with guys being out. He just cannot feel the pressure of having to do it every single time. A lot of times when he gets deep in the paint, there is four or five guys pulling in to help and try to take him out of his pocket floater or pull up.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue admits they are asking a lot of Darius Garland with other players out. He says Garland cannot feel the pressure of having to do it every single time when defenses are loading up on him.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the offensive burden placed on Darius Garland and the defensive attention he faces from opposing teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "04:03",
+      "summary_phrase": "Tyronn Lue on Darius Garland's ability to draw fouls",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "he gets to the free throw line and can shoot the basketball.",
+      "quote": "It is important. I just got to sit down with him and just show him film one-on-one and just talk through different plays and situations. Sometimes getting too deep at times, and that is when it seems he is getting in trouble a little bit when he is turning the ball over. So just seeing it, being able to look at it, and then understanding next game of how teams are going to play you and how to attack.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue plans to sit down with Darius Garland to review film on his decision making. Lue notes that Garland gets into trouble and turns the ball over when he drives too deep into the paint.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue plans to review film with Darius Garland to help him improve his decision-making and reduce turnovers when attacking the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyronn Lue",
+      "timestamp": "05:01",
+      "summary_phrase": "Tyronn Lue on the importance of secondary ball-handling",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "keep Kobe in with the second lineup, so he can do more of the ball handling.",
+      "quote": "That is why it is important to keep Kobe in with the second lineup, so he can do more of the ball handling and Kobe is off the ball, which will help him out a lot. With the start we had, our rotations got tricky and we did not have Kobe or DG in the game with Kobe when he was in there, and they kind of pressured him and sped us up.",
+      "text_blocks": [],
+      "start_seconds": 301,
+      "end_seconds": 329,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue explains the importance of keeping Kobe Brown in the second unit to handle the ball, noting that when rotations get tricky and Brown is off the floor, the team struggles against pressure.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Brown",
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue explains the importance of managing rotations to ensure Kobe Brown and Darius Garland are positioned effectively to handle ball-pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyronn Lue",
+      "timestamp": "06:01",
+      "summary_phrase": "Tyronn Lue on Darius Garland's injury status",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "he is playing through a little something, but he is okay to play.",
+      "quote": "He is playing through a little something, but he is okay to play. He is playing through a little something, which is taking his pop away a little bit, but overall he is good. Just trying to figure out how teams are going to play him, especially with him being the primary ball handler and having to make plays for everybody on the floor and make plays for himself.",
+      "text_blocks": [],
+      "start_seconds": 361,
+      "end_seconds": 388,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Tyronn Lue confirms Darius Garland is playing through a minor injury. He says it is taking his pop away a little bit, but he is okay to play as the primary ball handler.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyronn Lue confirms that Darius Garland is playing through a minor injury that is affecting his explosiveness.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kobe Brown",
+      "timestamp": "07:53",
+      "summary_phrase": "Kobe Brown on the value of drawing fouls",
+      "names_mentioned": [],
+      "excerpt": "especially in these type of games, when they are pressing a lot and you got to get downhill.",
+      "quote": "It is a great skill to have, especially in these type of games, when they are pressing a lot and you got to get downhill in the paint and just being able to stay in control and stride stop and play off two, all those different things is a good skill to have to get fouled and get to the line.",
+      "text_blocks": [],
+      "start_seconds": 473,
+      "end_seconds": 496,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown on his ability to draw fouls: It is a great skill to have, especially in these types of games when they are pressing a lot and you have to get downhill in the paint and stay in control.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown discusses the importance of being able to draw fouls and stay in control when facing high-pressure defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kobe Brown",
+      "timestamp": "08:26",
+      "summary_phrase": "Kobe Brown on his relationship with Tyronn Lue",
+      "names_mentioned": [
+        "Tyronn Lue"
+      ],
+      "excerpt": "when I am working out before practice, he is usually watching me.",
+      "quote": "We built a great relationship. When I am working out before practice, he is usually watching me and just having me work on different things, especially with the ball in my hands and coming off screens. I got to make sure to create separation versus letting the defender stay on me, so that is one thing I have been trying to work on a lot just to be able to handle the pressure throughout the whole game.",
+      "text_blocks": [],
+      "start_seconds": 506,
+      "end_seconds": 536,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown says he has built a great relationship with Tyronn Lue, who works with him before practice on ball handling and creating separation coming off screens.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyronn Lue"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown describes his working relationship with Tyronn Lue and the specific skills they are focusing on during practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kobe Brown",
+      "timestamp": "09:05",
+      "summary_phrase": "Kobe Brown on responding to physical defense",
+      "names_mentioned": [
+        "Tyronn Lue"
+      ],
+      "excerpt": "talking to Coach Lue, he is saying like if they are doing that, just go by them.",
+      "quote": "Talking to Coach Lue, he is saying like if they are doing that, just go by them and that is kind of what I tried to do tonight was just get by my defender and I think I did it pretty well, got to the line multiple times from doing that. So just continuing to read the game that way, if they are trying to be physical, go by them.",
+      "text_blocks": [],
+      "start_seconds": 545,
+      "end_seconds": 572,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kobe Brown says Coach Lue's advice against physical defense is simple: If they are playing you physically, just go by them. Brown says he tried to do that tonight to get to the line.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyronn Lue"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown shares advice received from Tyronn Lue regarding how to handle physical defenders by attacking them off the dribble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Kobe Brown",
+      "timestamp": "09:44",
+      "summary_phrase": "Kobe Brown on improving his post defense",
+      "names_mentioned": [],
+      "excerpt": "I think I definitely got to get better at that. Tonight was not my best defensive night.",
+      "quote": "I think I definitely got to get better at that. Tonight was not my best defensive night and I am just kind of frustrated with myself for that, letting the guards kind of get downhill and get in my body and then not being as physical with them back and then fouling too much. So just got to learn from that, watch film, but post defense, it is kind of really just about holding my ground and making them make a tough shot over me.",
+      "text_blocks": [],
+      "start_seconds": 584,
+      "end_seconds": 617,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kobe Brown was frustrated with his defensive performance tonight. He says he needs to get better at post defense and holding his ground instead of letting guards get into his body and fouling.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown reflects on his defensive performance and his need to improve his physicality and post defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Darius Garland",
+      "timestamp": "10:48",
+      "summary_phrase": "Darius Garland on adjusting to the NBA as a rookie",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "it is a learning curve, everybody is new. It is my first full year.",
+      "quote": "It is a learning curve, everybody is new. It is my first full year, Kobe is out here, he is playing a lot of minutes as a rookie. So they had to adjust to the speed as well. So we got to take care of the ball, try to help our other teammates out as well.",
+      "text_blocks": [],
+      "start_seconds": 648,
+      "end_seconds": 670,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darius Garland on the rookie learning curve: It is a learning curve, everybody is new. Kobe is playing a lot of minutes as a rookie, so we have to adjust to the speed and take care of the ball.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland discusses the adjustment period for himself and rookie teammate Kobe Brown in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Darius Garland",
+      "timestamp": "11:13",
+      "summary_phrase": "Darius Garland on team chemistry and turnovers",
+      "names_mentioned": [],
+      "excerpt": "it is basketball, so we got to figure it out on the fly.",
+      "quote": "It is basketball, so we got to figure it out on the fly. Guys are in and out the lineup. We want him to stay confident, we want him to be shot ready at all times. I am figuring it out as well, especially with these turnovers, got to slow down. Kobe is a rookie, he is going to have a couple bad games, even though he is going to be aggressive a lot of times, he will shoot the ball very well. I mean that is him.",
+      "text_blocks": [],
+      "start_seconds": 673,
+      "end_seconds": 707,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darius Garland on team chemistry: We have to figure it out on the fly. Guys are in and out of the lineup. I am figuring it out as well, especially with these turnovers, we have to slow down.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland talks about maintaining team chemistry and supporting Kobe Brown through his rookie mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Darius Garland",
+      "timestamp": "12:16",
+      "summary_phrase": "Darius Garland on team ball movement and execution",
+      "names_mentioned": [],
+      "excerpt": "I think we are swinging the ball well when we don't give it to the other team.",
+      "quote": "I think we are swinging the ball well when we don't give it to the other team. Getting in the paint for the spray outs, we turned them over a lot tonight. Getting stops, we just got to close the possession, we got to close with 50-50 balls. Play our brand of basketball, man, it is like I keep saying, it is early in the season, trying to figure out everything, but we are going to be good.",
+      "text_blocks": [],
+      "start_seconds": 736,
+      "end_seconds": 766,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darius Garland on the Clippers' early season struggles: We are swinging the ball well when we do not give it to the other team. We have to close possessions and play our brand of basketball.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland emphasizes the need for better execution and ball security to improve the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Darius Garland",
+      "timestamp": "12:44",
+      "summary_phrase": "Darius Garland on fixing turnover issues",
+      "names_mentioned": [],
+      "excerpt": "just keep watching film. We are playing hard, and we are trying to make the right plays.",
+      "quote": "Just keep watching film. We are playing hard, and we are trying to make the right plays. I think we are just playing a little too fast. Once we get to slow down, get a rhythm, get the chemistry down, I think we are going to be a lot better.",
+      "text_blocks": [],
+      "start_seconds": 764,
+      "end_seconds": 783,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darius Garland on fixing turnovers: We are playing hard, but we are playing a little too fast. Once we slow down, get a rhythm, and get the chemistry down, I think we are going to be a lot better.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland suggests that the team needs to slow down and improve their rhythm to address turnover issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Darius Garland",
+      "timestamp": "13:17",
+      "summary_phrase": "Darius Garland on his high usage rate",
+      "names_mentioned": [],
+      "excerpt": "I think it is just more of a rhythm thing. He is a really good player.",
+      "quote": "I think it is just more of a rhythm thing. He is a really good player. Like you said, he is doing a lot for us. You are expanding so much energy each and every night, and you know, on the other side when teams are looking at you, they are putting their best defender on you, you know you got to try to make plays each and every night.",
+      "text_blocks": [],
+      "start_seconds": 797,
+      "end_seconds": 824,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darius Garland on his high usage rate: You are expanding so much energy each and every night, and when teams are looking at you, they are putting their best defender on you.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland discusses the physical toll and defensive pressure associated with his high usage role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Darius Garland",
+      "timestamp": "14:04",
+      "summary_phrase": "Darius Garland on executing in the half court",
+      "names_mentioned": [],
+      "excerpt": "when we are trying to execute, if we can get into our spots a little quicker.",
+      "quote": "I think some of it is just, you know, when we are trying to execute, if we can get into our spots a little quicker, try to be a little bit more crisp. And then, you know, at the same time, even if people are pressuring us, you know, just take your time, you know, understand the reads, you know, when they are pressuring us, we go through them in practice, we just have to, you know, now implement it into the game.",
+      "text_blocks": [],
+      "start_seconds": 844,
+      "end_seconds": 876,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darius Garland on half court execution: We need to get into our spots quicker and be more crisp. Even when teams are pressuring us, we have to take our time and understand the reads.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland talks about the need for more crisp execution and better reading of defenses in half-court sets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Darius Garland",
+      "timestamp": "15:27",
+      "summary_phrase": "Darius Garland on defensive progress",
+      "names_mentioned": [],
+      "excerpt": "defensively, I think we have been doing a lot of good things, we are just giving it back.",
+      "quote": "I think over the four games, defensively, I think we have been doing a lot of good things, we are just giving it back. You know, I think if we can execute when we do cause turnovers or you know, when we are in the half court offense, I think if, you know, we execute, we give ourselves more than a great chance to win these ball games. So, I mean, you have to look at it, you know, as a good thing also, you know, if we can cut down the turnovers, what could a record look like?",
+      "text_blocks": [],
+      "start_seconds": 927,
+      "end_seconds": 965,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darius Garland believes the Clippers have been doing good things defensively over the first four games. He says if they can cut down on turnovers, they give themselves a great chance to win.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland reflects on the team's defensive progress and how reducing turnovers could lead to more wins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Darius Garland",
+      "timestamp": "16:19",
+      "summary_phrase": "Darius Garland on responding to runs as a group",
+      "names_mentioned": [],
+      "excerpt": "we got to come as a group, you know, understand what they are trying to do.",
+      "quote": "We got to come as a group, you know, understand what they are trying to do. But the main thing is just, you know, don't get down on yourself, you know, keep the same energy, keep the same fight. And you know, that is going to happen. I mean, basketball is a game of runs, there is so many games, you know, teams are going to, they are going to hit shots one night and, you know, we can't let that, you know, kind of demoralize us as a group.",
+      "text_blocks": [],
+      "start_seconds": 979,
+      "end_seconds": 1014,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darius Garland on responding to runs: We have to come as a group and keep the same energy and fight. Basketball is a game of runs, and we cannot let that demoralize us.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland discusses the importance of maintaining team morale and fighting through runs during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Darius Garland",
+      "timestamp": "17:01",
+      "summary_phrase": "Darius Garland on Kobe Brown's development",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "he is very young, you know, my the biggest thing is I like that he just keep attacking.",
+      "quote": "He is very young, you know, my the biggest thing is I like that he just keep attacking. He keeps being aggressive. Now, you know, we would like him to protect the ball, just as someone could say to me or, you know, DNG and the rest of the group. We got to watch the tape and we got to execute, we got to come in each and every day, put the work in, practice, come collectively as a group and figure out, you know, what we need to do best to be able to come out with these wins.",
+      "text_blocks": [],
+      "start_seconds": 1021,
+      "end_seconds": 1055,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darius Garland on Kobe Brown's development: I like that he just keeps attacking and being aggressive. We have to watch the tape and come in each day to figure out what we need to do to get wins.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland praises Kobe Brown's aggressiveness while emphasizing the team's collective need to improve execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Ej7Vgc2J7kc",
+  "url": "https://www.youtube.com/watch?v=Ej7Vgc2J7kc",
+  "channel_team": "LA Clippers",
+  "published": "2026-10-29T16:02:19Z",
+  "duration_seconds": 1055,
+  "processed_at": "2026-10-29T19:37:14Z",
+  "run_id": "2026-10-29T1936Z-14utc",
+  "is_one_off": false
+}

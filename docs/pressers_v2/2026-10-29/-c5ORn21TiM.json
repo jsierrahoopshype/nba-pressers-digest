@@ -1,0 +1,282 @@
+{
+  "video_title": "LIVE: Pelicans vs. Nuggets Postgame Interviews 10/28/2026",
+  "speakers_seen": [
+    "Derik Queen",
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Derik Queen",
+      "timestamp": "15:42",
+      "summary_phrase": "Derik Queen on team poise and execution during late-game situations",
+      "names_mentioned": [],
+      "excerpt": "we just got to get a stop right there and just turn it up a notch",
+      "quote": "We just got to stay poised, consistent. They called timeout, ran an action a few times where we made a run. We just got to get a stop right there and just turn it up a notch and just stay together. In those moments, definitely timeouts, that's when we got to lock in even more. I felt like we were lacking that.",
+      "text_blocks": [],
+      "start_seconds": 942,
+      "end_seconds": 966,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen on the Pelicans late game struggles: We just got to stay poised and consistent. In those moments, that is when we got to lock in even more. I felt like we were lacking that.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Derik Queen discusses the need for the team to stay poised and execute better during late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Derik Queen",
+      "timestamp": "16:12",
+      "summary_phrase": "Derik Queen praises teammate Carlos for his versatility and readiness",
+      "names_mentioned": [
+        "Carlos"
+      ],
+      "excerpt": "Carlos is athletic. He bring a lot of different traits to the team",
+      "quote": "Carlos is great. One time Coach Mo said that he's a great teammate, just stay ready. Tonight he was ready. Carlos is athletic. He bring a lot of different traits to the team: spacing, athleticism, rebounding, and defense. I actually wish I was out there more with him. I just love playing with Carlos.",
+      "text_blocks": [],
+      "start_seconds": 972,
+      "end_seconds": 993,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Derik Queen on teammate Carlos: He brings a lot of different traits to the team: spacing, athleticism, rebounding, and defense. I actually wish I was out there more with him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Carlos"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen praises his teammate Carlos for his versatility and readiness during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Derik Queen",
+      "timestamp": "17:15",
+      "summary_phrase": "Derik Queen on the team's mindset and avoiding a losing mentality",
+      "names_mentioned": [
+        "DeAndre",
+        "Ben"
+      ],
+      "excerpt": "we just can't keep having that mindset of to get the next one",
+      "quote": "When Coach Mo first came in, he said we may lose two, three in a row. But DeAndre came back and said that's a losing mindset. So we just can't keep having that mindset of to get the next one. We just got to be in the moment, try to get every game. It's going to happen, but I don't want to think about that. We just got to execute better and get those wins.",
+      "text_blocks": [],
+      "start_seconds": 1035,
+      "end_seconds": 1064,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen on the team mindset: When Coach Mo first came in, he said we may lose two, three in a row. But DeAndre came back and said that is a losing mindset. We just got to be in the moment.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamahl Mosley",
+          "DeAndre"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Derik Queen reflects on the team's mindset regarding losing streaks following comments from coach Jamahl Mosley and teammate DeAndre.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "24:32",
+      "summary_phrase": "Jamahl Mosley on the team's growth and learning to execute",
+      "names_mentioned": [],
+      "excerpt": "understanding what gets you and keeps you in games, and then being able to execute it",
+      "quote": "That's the growth of this team, that's the growth of this group. Understanding what gets you and keeps you in games, and then being able to execute it at the next level. Basketball is a game of mistakes. You're going to turn it over, you're going to foul. Those are moments that are going to happen within a game. Then you got to move on to the next play.",
+      "text_blocks": [],
+      "start_seconds": 1472,
+      "end_seconds": 1499,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on team growth: Basketball is a game of mistakes. You are going to turn it over, you are going to foul. Those are moments that are going to happen within a game. Then you got to move on to the next play.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's growth and the importance of learning to execute despite mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "25:31",
+      "summary_phrase": "Jamahl Mosley on the team's frustration with their 0-4 start",
+      "names_mentioned": [],
+      "excerpt": "nobody wants to be on 1-4. And in that same breath, you understand it's a part of a process",
+      "quote": "Guys aren't happy. I'm not happy. Nobody wants to be on 1-4. And in that same breath, you understand it's a part of a process of growing and getting better. I get it, we all want to be undefeated for an entire NBA season. I would love to go 82-0. But you got to learn the lessons within this.",
+      "text_blocks": [],
+      "start_seconds": 1531,
+      "end_seconds": 1554,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jamahl Mosley on the Pelicans 1-4 start: Guys are not happy. I am not happy. Nobody wants to be on 1-4. You understand it is a part of a process of growing and getting better.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley addresses the team's frustration with their 1-4 start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "26:30",
+      "summary_phrase": "Jamahl Mosley on the importance of playing hard for 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "if you can play that hard and that unselfishly for seven minutes in that quarter",
+      "quote": "The plan was essentially to play as hard as we played for those seven minutes on the back end of the second quarter. That's what it was. If you can play that hard and that unselfishly for seven minutes in that quarter, then you should be able to put that to string that together for 48 minutes.",
+      "text_blocks": [],
+      "start_seconds": 1590,
+      "end_seconds": 1612,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on consistency: If you can play that hard and that unselfishly for seven minutes in that quarter, then you should be able to string that together for 48 minutes.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the need for the team to maintain high intensity and unselfish play for the full 48 minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "26:54",
+      "summary_phrase": "Jamahl Mosley praises Carlos's selfless play and professional attitude",
+      "names_mentioned": [
+        "Carlos"
+      ],
+      "excerpt": "he's about as pure as they come when it comes to what can I do for my teammate",
+      "quote": "Carlos was great. I think you talk about a young man that is about as pure as they come when it comes to what can I do for my teammate. And that's what shows up. The way he plays, the way he cares, whether he's playing 10 minutes, 15 minutes, two minutes, no minutes, he's the same person every single time you see him. And that's exactly why he will have the success he will, because it's about others, not about him.",
+      "text_blocks": [],
+      "start_seconds": 1614,
+      "end_seconds": 1646,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on Carlos: He is about as pure as they come when it comes to what can I do for my teammate. He is the same person every single time you see him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Carlos"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley praises Carlos for his selfless attitude and professional approach regardless of his playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "29:11",
+      "summary_phrase": "Jamahl Mosley on the team's need to improve finishing at the rim",
+      "names_mentioned": [],
+      "excerpt": "if you're not getting there and people are keeping you out of the paint",
+      "quote": "I always have a problem if we're not getting there. If you're not getting there and people are keeping you out of the paint, then okay, we have to find a way to generate something else. But we're getting there. Now there's a two-part deal that needs to happen. I either have to be strong enough, aggressive enough, physical enough to go finish through a body, or I got to come off of it when we're crowded in that lane.",
+      "text_blocks": [],
+      "start_seconds": 1751,
+      "end_seconds": 1782,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on finishing at the rim: I either have to be strong enough, aggressive enough, physical enough to go finish through a body, or I got to come off of it when we are crowded in that lane.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the team's need to improve their finishing at the rim and decision-making in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "31:43",
+      "summary_phrase": "Jamahl Mosley on the team's need to start games with more intensity",
+      "names_mentioned": [],
+      "excerpt": "you have to come out a little bit harder, a little bit stronger, you got to throw that first punch",
+      "quote": "It came down to us not understanding for the moment how they were going to come out. And I think that's a championship team that said, okay, we're going to step on it early. And so for us, we've got to learn how to put 48 minutes together, and how we start games. When you're at home, there's nothing to rest on. You have to come out a little bit harder, a little bit stronger, you got to throw that first punch.",
+      "text_blocks": [],
+      "start_seconds": 1903,
+      "end_seconds": 1935,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on the team start: When you are at home, there is nothing to rest on. You have to come out a little bit harder, a little bit stronger, you got to throw that first punch.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's failure to match the intensity of the Nuggets at the start of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "-c5ORn21TiM",
+  "url": "https://www.youtube.com/watch?v=-c5ORn21TiM",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-29T18:40:12Z",
+  "duration_seconds": 2045,
+  "processed_at": "2026-10-29T19:36:39Z",
+  "run_id": "2026-10-29T1936Z-14utc",
+  "is_one_off": false
+}
