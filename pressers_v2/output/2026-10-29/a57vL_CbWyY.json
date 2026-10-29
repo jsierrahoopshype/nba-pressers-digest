@@ -1,0 +1,280 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. TORONTO RAPTORS | COACH SWEENEY & TRISTAN DA SILVA",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Tristan da Silva"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:06",
+      "summary_phrase": "Coach Sweeney on Orlando Magic's turnover issues against Toronto Raptors",
+      "names_mentioned": [],
+      "excerpt": "I thought the turnovers definitely were a big part of it. Their pressure got to us.",
+      "quote": "I thought the turnovers definitely were a big part of it. Their pressure got to us at times during the game, and we will do a better job of handling that in the next one. Definitely impacted us. The multiple steals in the end of the first half was tough, but we will get it corrected.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney says the Magic's turnover issues were a major factor against Toronto. He noted that the Raptors' pressure got to them and that the team needs to do a better job handling that in the next game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the Orlando Magic's turnover issues during their game against the Toronto Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:29",
+      "summary_phrase": "Coach Sweeney on Jalen Suggs managing foul trouble",
+      "names_mentioned": [
+        "Jalen Suggs"
+      ],
+      "excerpt": "Anytime you have three fouls in the first half it's tough, takes you out of the game.",
+      "quote": "Anytime you have three fouls in the first half it's tough, takes you out of the game, disrupts your rhythm. But in general, I thought he did a better job in the second half with his aggressiveness, being assertive, handling their pressure a little bit better, and now we got to build on it.",
+      "verbatim_original_language": "",
+      "start_seconds": 29,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Suggs struggled with foul trouble early, but Coach Sweeney liked his second half response. He said Suggs did a better job being assertive and handling pressure after the break.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Suggs"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney addresses how Jalen Suggs managed his foul trouble throughout the game against Toronto.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:48",
+      "summary_phrase": "Coach Sweeney on lack of defensive physicality against Toronto Raptors",
+      "names_mentioned": [],
+      "excerpt": "The level of physicality that we had wasn't there at times.",
+      "quote": "The level of physicality that we had wasn't there at times. I thought they did a good job of being aggressive and attacking the paint. I thought our communication at times wasn't where it needed to be, and we will get that cleaned up.",
+      "verbatim_original_language": "",
+      "start_seconds": 48,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney felt the Magic lacked defensive physicality against the Raptors. He pointed to poor communication and the opponent's ability to attack the paint as key areas to clean up.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney evaluates the team's defensive physicality and communication against the Toronto Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:17",
+      "summary_phrase": "Coach Sweeney on Tristan da Silva's aggressive play",
+      "names_mentioned": [
+        "Tristan da Silva"
+      ],
+      "excerpt": "Anytime a guy can be aggressive, play with balance, play to his strengths, that helps the team.",
+      "quote": "Anytime a guy can be aggressive, play with balance, play to his strengths, that helps the team, and I thought he did that.",
+      "verbatim_original_language": "",
+      "start_seconds": 77,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney praised Tristan da Silva for his aggressive play, noting that his ability to play with balance and stick to his strengths is a major help to the team.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tristan da Silva"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises Tristan da Silva for his aggressive play and balance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tristan da Silva",
+      "timestamp": "02:33",
+      "summary_phrase": "Tristan da Silva on prioritizing transition defense and limiting turnovers",
+      "names_mentioned": [],
+      "excerpt": "That was the emphasis, keeping them out of transition, limiting second chance points too.",
+      "quote": "That was the emphasis, keeping them out of transition, limiting second chance points too. I think we did a decent job on the boards defensively at least. I think they had under 10 offensive rebounds with a couple minutes left in the game, so those two areas were kind of the main emphasis and obviously the turnovers hurt us tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 153,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tristan da Silva says the Magic's main emphasis was limiting transition points and second chances, but ultimately the turnovers were what hurt them against Toronto.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva explains the team's defensive emphasis on transition defense and limiting turnovers against Toronto.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tristan da Silva",
+      "timestamp": "03:01",
+      "summary_phrase": "Tristan da Silva on building trust with coaching staff and teammates",
+      "names_mentioned": [],
+      "excerpt": "Just the trust that the coaches have put in me, the trust that I'm getting from my teammates.",
+      "quote": "Just the trust that the coaches have put in me, the trust that I'm getting from my teammates, looking for me, and making sure that I get the looks when I'm open. It's really credit to them for finding me and allowing me to play this role.",
+      "verbatim_original_language": "",
+      "start_seconds": 181,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva credits his recent performance to the trust from his coaches and teammates. He says they are looking for him and making sure he gets open looks.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tristan da Silva discusses the trust he feels from his coaches and teammates in his current role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tristan da Silva",
+      "timestamp": "03:31",
+      "summary_phrase": "Tristan da Silva on Toronto Raptors' defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "They try to play that scrappy game, so I think we just got ourselves in trouble.",
+      "quote": "They try to play that scrappy game, so I think we just got ourselves in trouble a little bit, driving into crowds and playing off of one foot. So that's something we got to clean up before Friday.",
+      "verbatim_original_language": "",
+      "start_seconds": 211,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva says the Magic got in trouble against the Raptors by driving into crowds and playing off one foot. He says it is something they must clean up before Friday.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva reflects on the team's struggles against the Toronto Raptors' defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tristan da Silva",
+      "timestamp": "04:42",
+      "summary_phrase": "Tristan da Silva on playing with confidence and attacking the paint",
+      "names_mentioned": [],
+      "excerpt": "He's playing with great confidence, which I love to see. He's getting really comfortable handling the ball.",
+      "quote": "He's playing with great confidence, which I love to see. He's getting really comfortable handling the ball and attacking the paint. So, I just tell him to keep doing that and whenever they start collapsing, spray it out.",
+      "verbatim_original_language": "",
+      "start_seconds": 282,
+      "end_seconds": 297,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva loves seeing his teammate play with confidence. He says the focus is on attacking the paint and spraying the ball out once the defense collapses.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Suggs"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva comments on Jalen Suggs' confidence and his ability to attack the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tristan da Silva",
+      "timestamp": "05:11",
+      "summary_phrase": "Tristan da Silva on trusting the coaching staff's offensive system",
+      "names_mentioned": [],
+      "excerpt": "It's just the trust that the coaches have put into me and really stressing how important it is.",
+      "quote": "It's just the trust that the coaches have put into me and really stressing how important it is that I do shoot those shots and that it's hurting the team if I turn them down. That's exactly what I'm trying to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 311,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva says the coaching staff is stressing the importance of him taking his shots. He noted that the coaches told him it is actually hurting the team if he turns those looks down.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tristan da Silva discusses the coaching staff's instructions regarding his shooting and offensive role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "a57vL_CbWyY",
+  "url": "https://www.youtube.com/watch?v=a57vL_CbWyY",
+  "channel_team": "Orlando Magic",
+  "published": "2026-10-29T04:32:51Z",
+  "duration_seconds": 329,
+  "processed_at": "2026-10-29T07:12:19Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,201 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 10.28.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:09",
+      "summary_phrase": "Nick Nurse on the Sixers' inconsistent first-half performance",
+      "names_mentioned": [],
+      "excerpt": "I thought the last three minutes of the first half weren't a bunch of great possessions.",
+      "quote": "We did have a 10-point lead at halftime, but I thought the last three minutes of the first half weren't a bunch of great possessions. After we'd strung a bunch up and got a nice lead, I just thought we had three or four in a row that were just not solid enough, and that kind of carried its way into the second half. It gave them a little bit of momentum that they brought out of halftime with.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse says the Sixers lost momentum in the second half because the final three minutes of the first half were not solid enough despite holding a 10 point lead",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's inconsistent performance during the first half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:20",
+      "summary_phrase": "Nick Nurse on Tyrese Maxey's determination and late-game performance",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I don't think he was having much of a game, I don't think he was having much fun.",
+      "quote": "Just sheer determination. I don't think he was having much of a game, I don't think he was having much fun out there. He was getting knocked around a lot. I think he shot one free throw. He just caught fire, obviously. He got down the lane, made a couple, and I think that got him going. And then he got himself open and free for some looks. He didn't get very many good looks until the fourth. They were really picking him up, they were really physical, they were really putting two on him a lot on the screen and rolls and things. So, it was good to see him stay with it because it's not that easy sometimes when you think, well, maybe it just isn't my night, but he hung in there, I think both ends of the floor, and obviously hit some big shots down the stretch.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse praised Tyrese Maxey for his sheer determination after a physical game where he struggled early but stayed with it to hit big shots down the stretch",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse praises Tyrese Maxey for his determination and late-game performance despite a difficult start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:26",
+      "summary_phrase": "Nick Nurse on the importance of perimeter shooting and spacing",
+      "names_mentioned": [],
+      "excerpt": "We certainly need some perimeter shooting.",
+      "quote": "We certainly need some perimeter shooting. We made some nice reads, we found some places to put him that make, when they're going to double team, we found some good windows for him to space the floor and knock those down. But he's a really good shooter. Every time he shoots when you think it's going in, that's always a great thing to have on your team.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse emphasizes the importance of perimeter shooting and finding windows to space the floor when opponents double team his stars",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse explains the importance of perimeter shooting and floor spacing for the team's offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "03:12",
+      "summary_phrase": "Nick Nurse on Joel Embiid's need for spacing to operate",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I think he doesn't need him to be wide, wide open.",
+      "quote": "I think he doesn't need him to be wide, wide open. If there's a sliver of a lane there or an angle to get it at, he can find that, and I think that's obviously huge.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse notes that Joel Embiid does not need to be wide open to be effective as long as there is a sliver of a lane or an angle to get him the ball",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse describes how Joel Embiid operates effectively even with limited space.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:13",
+      "summary_phrase": "Nick Nurse on the impact of missing Paul George",
+      "names_mentioned": [
+        "Paul George"
+      ],
+      "excerpt": "He's one of the league's great players and he's such a big offensive creator.",
+      "quote": "Obviously he's one of the league's great players and he's such a big offensive creator, not only for himself but for his teammates. He's down the lane and he has every pass to open guys and he obviously can step back and hit the three and he's kind of their floor general, too. So, big impact for them.",
+      "text_blocks": [],
+      "start_seconds": 253,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse discusses the impact of missing Paul George calling him a big offensive creator and a floor general for the team",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paul George"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Nick Nurse discusses the impact of Paul George being unavailable to play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Nurse",
+      "timestamp": "05:11",
+      "summary_phrase": "Nick Nurse on the decision to bench D.J. for defensive reasons",
+      "names_mentioned": [
+        "D.J."
+      ],
+      "excerpt": "I just thought we needed the defense and rebounding down the stretch.",
+      "quote": "It got to be a fairly tough decision for me there. I had it going on offense, he had a long run going and I just thought we needed the defense and rebounding down the stretch and we were having a little bit of trouble coming flying in from the outside like D.J. does. So I decided to go that way in the last three minutes, but it was a toss-up. But again, I don't think he had much going in the game, but he still played good. You can have a three for 10 or three for 12 and you can still have a good game, and I think he did.",
+      "text_blocks": [],
+      "start_seconds": 311,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nick Nurse explains his late game decision to bench D.J. for defensive reasons saying he needed the rebounding and defense down the stretch",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "D.J. Wilson"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse explains his decision to bench D.J. Wilson late in the game for defensive purposes.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "KT4XolYi_w0",
+  "url": "https://www.youtube.com/watch?v=KT4XolYi_w0",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-29T04:08:21Z",
+  "duration_seconds": 349,
+  "processed_at": "2026-10-29T07:12:35Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

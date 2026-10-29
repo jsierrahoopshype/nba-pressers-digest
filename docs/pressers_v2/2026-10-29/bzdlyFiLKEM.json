@@ -1,0 +1,296 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, AJ Dybantsa, and Anthony Davis | 10.28.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "AJ Dybantsa",
+    "Anthony Davis"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:53",
+      "summary_phrase": "Brian Keefe praises AJ Dybantsa's impressive debut performance",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "I thought he was terrific. You saw his ability to get to the basket from the opening play.",
+      "quote": "I thought he was terrific. You saw his ability to get to the basket from the opening play, his ability to make the simple reads, great passing from him. I thought his defensive activity was terrific, pretty impressive for a first game.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Wizards coach Brian Keefe was impressed by AJ Dybantsa in his debut saying he thought the rookie was terrific and highlighted his ability to get to the basket and his defensive activity",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe evaluates AJ Dybantsa's performance following his NBA debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:13",
+      "summary_phrase": "Brian Keefe discusses AJ Dybantsa's defensive challenge against James Harden",
+      "names_mentioned": [
+        "AJ Dybantsa",
+        "James Harden"
+      ],
+      "excerpt": "Took the challenge wherever he was playing against and whoever he was matched up to.",
+      "quote": "Took the challenge wherever he was playing against and whoever he was matched up to. He just was totally committed to what he had in front of him. It's pretty impressive.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe praised AJ Dybantsa for his defensive commitment against James Harden noting that he was totally committed to whoever he was matched up against",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa",
+          "James Harden"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses AJ Dybantsa's defensive effort while matched up against James Harden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "03:06",
+      "summary_phrase": "Brian Keefe emphasizes the value of multiple decision-makers on offense",
+      "names_mentioned": [
+        "Keeshon",
+        "AJ Dybantsa",
+        "AJ"
+      ],
+      "excerpt": "It just makes you hard to guard. There's so many versatile defenders in this league now.",
+      "quote": "It just makes you hard to guard. There's so many versatile defenders in this league now. I think you need multiple decision-makers. We have a lot of them. You saw that in the first half, that was evident. The passing, it's hard to guard when you play that way. We have to continue to grow that more consistently, but we're going to put the ball in all our those guys who can make decisions and quick decisions. You saw that with Keeshon tonight, AJ, AJ.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe explains the Wizards offensive philosophy saying it is hard to guard when you have multiple decision makers on the floor and they plan to continue putting the ball in the hands of guys who can make quick decisions",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains the team's offensive philosophy regarding multiple decision-makers on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "05:42",
+      "summary_phrase": "AJ Dybantsa on his aggressive playstyle and first NBA basket",
+      "names_mentioned": [],
+      "excerpt": "Just try to be aggressive from the jump. It's kind of always been my game.",
+      "quote": "Just try to be aggressive from the jump. It's kind of always been my game regardless the level. I wanted my first basket to be a dunk so bad. I was telling my dad that, but I mean it's cool. Got fouled, just trying to assert myself, trying to get in the paint, create opportunities for my team.",
+      "text_blocks": [],
+      "start_seconds": 342,
+      "end_seconds": 364,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "AJ Dybantsa on his NBA debut approach saying he just tried to be aggressive from the jump and wanted to assert himself and create opportunities for his team",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa describes his mindset and aggressive playstyle during his first NBA game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "06:21",
+      "summary_phrase": "AJ Dybantsa on the challenge of guarding James Harden",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "It's a tough cover. That's been one of my favorite players growing up.",
+      "quote": "It's a tough cover. That's been one of my favorite players growing up, obviously growing up in the Rockets era. Just him averaging 50, that's obviously one of the toughest covers. You just got to kind of stay solid. You don't want to put your hand in the cookie jar because he's super elite at drawing fouls.",
+      "text_blocks": [],
+      "start_seconds": 381,
+      "end_seconds": 403,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "AJ Dybantsa calls James Harden a tough cover noting that you have to stay solid and not put your hand in the cookie jar because he is super elite at drawing fouls",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa discusses the difficulty of defending James Harden during his debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "07:50",
+      "summary_phrase": "AJ Dybantsa shares advice from Anthony Davis before his debut",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "AD told me before the game, play free. Don't overthink it, it's your first one.",
+      "quote": "AD told me before the game, play free. Don't overthink it, it's your first one, but you got many more, so don't come out here thinking that. You might play bad, you might play good, but don't overthink it like it's going to be your first of many.",
+      "text_blocks": [],
+      "start_seconds": 470,
+      "end_seconds": 488,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "AJ Dybantsa shares the advice Anthony Davis gave him before his first game telling him to play free and not overthink it because it is just the first of many",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa shares the advice he received from teammate Anthony Davis before his first game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Anthony Davis",
+      "timestamp": "09:31",
+      "summary_phrase": "Anthony Davis on the team's need to improve rebounding",
+      "names_mentioned": [],
+      "excerpt": "Obviously the rebounding has been a thing for us the past couple games.",
+      "quote": "Obviously the rebounding has been a thing for us the past couple games. One thing that we have to get better at, you know, rebounding the basketball. We're really good in the half court, you know, it's the second and third opportunities just kind of killing us and getting us scrambling.",
+      "text_blocks": [],
+      "start_seconds": 571,
+      "end_seconds": 591,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Anthony Davis says rebounding is a major issue for the team right now noting that second and third opportunities for opponents are killing them and getting them scrambling",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis identifies rebounding as a key area for team improvement after recent losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Anthony Davis",
+      "timestamp": "10:57",
+      "summary_phrase": "Anthony Davis evaluates AJ Dybantsa's impressive NBA debut",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "He played phenomenal. I think he came out with great energy.",
+      "quote": "He played phenomenal. I think he came out with great energy, getting to the basket, making his shots, doing the things he do defensively. It would have been good to get a win for him, obviously, but I think he played really well.",
+      "text_blocks": [],
+      "start_seconds": 657,
+      "end_seconds": 674,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Davis says AJ Dybantsa played phenomenal in his debut adding that he came out with great energy and did the things he does defensively",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis provides his assessment of AJ Dybantsa's performance in his debut game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Anthony Davis",
+      "timestamp": "11:27",
+      "summary_phrase": "Anthony Davis on managing nerves in an NBA debut",
+      "names_mentioned": [
+        "Tim Duncan"
+      ],
+      "excerpt": "For me, my first game I was going against Tim Duncan.",
+      "quote": "For me, my first game I was going against Tim Duncan. But also too, my path was different. I didn't play Summer League, I was with the Olympics and stuff like that. So by the time I got into my first game, I played for two months with Hall of Famers, so the nerves weren't there. It felt like I belonged already.",
+      "text_blocks": [],
+      "start_seconds": 687,
+      "end_seconds": 711,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Davis reflects on his own NBA debut against Tim Duncan saying he did not have nerves because he had already spent two months playing with Hall of Famers",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tim Duncan"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis reflects on his own NBA debut and how it compares to AJ Dybantsa's experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "bzdlyFiLKEM",
+  "url": "https://www.youtube.com/watch?v=bzdlyFiLKEM",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-29T02:26:55Z",
+  "duration_seconds": 784,
+  "processed_at": "2026-10-29T07:13:26Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

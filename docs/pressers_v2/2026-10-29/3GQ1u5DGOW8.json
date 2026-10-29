@@ -1,0 +1,412 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. NOP 🎙",
+  "speakers_seen": [
+    "Nikola Jokic",
+    "Coach Adelman",
+    "Aaron Gordon",
+    "Marvin Bagley III"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nikola Jokic",
+      "timestamp": "00:09",
+      "summary_phrase": "Nikola Jokic on Denver's defensive adjustments against New Orleans",
+      "names_mentioned": [],
+      "excerpt": "I think we did a good job opening the game and putting the algorithm and our pace.",
+      "quote": "I think mostly they were the number one in the paint points, so we kind of readjusted a little bit and they were still getting to the paint, but I think we did a good job opening the game and putting the algorithm and our pace. I think we controlled the game the whole time, even in that little stretch that they trailed, I think five, but I think we controlled the game the most of the game.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nikola Jokic on Denver's defensive adjustments against New Orleans: I think we controlled the game the most of the game.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic discusses the team's defensive adjustments against the New Orleans Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nikola Jokic",
+      "timestamp": "00:43",
+      "summary_phrase": "Nikola Jokic on the development of Denver's young players",
+      "names_mentioned": [],
+      "excerpt": "I personally I believe in them and I think they have a lot to offer.",
+      "quote": "To be honest, I personally I believe in them and I think they have a lot to offer. They are in the new position, in the new role, everything is new, so we need to give them a little bit time, but I think the energy is there, the focus is there, they want to do the right thing, I think that's the most important thing.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nikola Jokic on the development of Denver's young players: They are in the new position, in the new role, everything is new, so we need to give them a little bit time.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Jokic shares his belief in the development of Denver's younger players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:37",
+      "summary_phrase": "Coach Adelman on defensive intensity and team reliance",
+      "names_mentioned": [],
+      "excerpt": "If you don't touch anybody until the paint, you're in trouble.",
+      "quote": "I thought our rotations are really good, but I thought the just the intensity to stop the ball earlier. If you don't touch anybody until the paint, you're in trouble. We don't block a lot of shots, our team has to be relying on each other. It was just strides in the right direction, game four, so it was good to see.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman on defensive intensity: If you don't touch anybody until the paint, you're in trouble. We don't block a lot of shots, our team has to be relying on each other.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman reflects on the team's defensive intensity and reliance on each other during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:56",
+      "summary_phrase": "Coach Adelman on the importance of Christian Braun's shooting",
+      "names_mentioned": [
+        "Christian Braun",
+        "Bryce",
+        "TB"
+      ],
+      "excerpt": "If you shoot it and you miss and you're open the next play, shoot it again.",
+      "quote": "Enormous, and he's got to keep shooting it. I've said it after the last game before this game, him, Bryce, TB, if you shoot it and you miss and you're open the next play, shoot it again. We're going to create open shots, that's how we have to play. That allows 27, 15, 32 to play in space. People have to know that those guys are willing to and they're going to knock down shots.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman on the importance of Christian Braun's shooting: He's got to keep shooting it. If you shoot it and you miss and you're open the next play, shoot it again.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman emphasizes the importance of Christian Braun continuing to shoot the ball to create space for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Adelman",
+      "timestamp": "03:37",
+      "summary_phrase": "Coach Adelman on Nikola Jokic's 200th career triple-double",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Russ"
+      ],
+      "excerpt": "It's once in a lifetime kind of stuff.",
+      "quote": "Google it. It's just for fans, especially young fans. I have a son and daughter at home trying to explain to them what they're watching is pretty exceptional. Shout out to Russ, just what these guys have done, my father got to play against Oscar. Some of these players have come through these years in the NBA, it's once in a lifetime kind of stuff. That is two seasons plus an All-Star break of triple-doubles. That is absolutely insane.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Coach Adelman on Nikola Jokic's 200th career triple-double: That is two seasons plus an All-Star break of triple-doubles. That is absolutely insane.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Russell Westbrook"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the significance of Nikola Jokic reaching his 200th career triple-double.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Adelman",
+      "timestamp": "04:13",
+      "summary_phrase": "Coach Adelman on the pairing of Nikola Jokic and Marvin Bagley III",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Marvin Bagley III"
+      ],
+      "excerpt": "Marvin ran the court so well tonight, you forget how athletic Marvin is.",
+      "quote": "I thought they were pretty good. Marvin ran the court so well tonight, you forget how athletic Marvin is, even though he's been in the league for a decade. This guy is spry off two feet, his speed, his strides. If you're the backup center for Nikola Jokic, it can be frustrating. If you're playing well, you're still coming out. We want to try to get him minutes with him, and I know we're only four games in, but we'll try anything right now to try to find some rhythm.",
+      "text_blocks": [],
+      "start_seconds": 253,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman on the pairing of Nikola Jokic and Marvin Bagley III: We'll try anything right now to try to find some rhythm.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Marvin Bagley III"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses the pairing of Nikola Jokic and Marvin Bagley III and the challenges of managing the backup center role.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Aaron Gordon",
+      "timestamp": "05:24",
+      "summary_phrase": "Aaron Gordon on Denver's defensive improvement",
+      "names_mentioned": [],
+      "excerpt": "Urgency, the desire to play defense, want, that's really it.",
+      "quote": "Urgency, the desire to play defense, want, that's really it. I guess executing what our coaching staff wanted from us, that's really it.",
+      "text_blocks": [],
+      "start_seconds": 324,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Aaron Gordon on Denver's defensive improvement: Urgency, the desire to play defense, want, that's really it.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Aaron Gordon explains the improvements in Denver's defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Aaron Gordon",
+      "timestamp": "06:36",
+      "summary_phrase": "Aaron Gordon on the importance of a strong start",
+      "names_mentioned": [],
+      "excerpt": "We were excited to play today, so it's a game that could be replicated.",
+      "quote": "We were excited to play today, so it's a game that could be replicated. We were excited to respond in that loss at home, and now we just can't be playing off of emotions. We got to be able to replicate that, whether we're excited or not. We got to come out and start well and play the way that we know that we can play and start holding ourselves accountable.",
+      "text_blocks": [],
+      "start_seconds": 396,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Aaron Gordon on the importance of a strong start: We just can't be playing off of emotions. We got to be able to replicate that, whether we're excited or not.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Aaron Gordon discusses the need for consistency and accountability after a strong start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Aaron Gordon",
+      "timestamp": "07:30",
+      "summary_phrase": "Aaron Gordon on trusting young players",
+      "names_mentioned": [],
+      "excerpt": "These guys are advanced, they know how to play, and then the intangibles.",
+      "quote": "Everybody makes mistakes, not just rookies. These guys are advanced, they know how to play, and then the intangibles. These guys have intangibles, so whether their shots going or not, they're going to play hard, they're going to defend, they're going to rebound, they're going to block shots, and the effort is there. That can be trusted, defensive tenacity can be trusted.",
+      "text_blocks": [],
+      "start_seconds": 450,
+      "end_seconds": 474,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Aaron Gordon on trusting young players: These guys have intangibles, so whether their shots going or not, they're going to play hard, they're going to defend.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Aaron Gordon expresses trust in the young players on the team despite their mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "08:10",
+      "summary_phrase": "Marvin Bagley III on the challenge of being a backup center",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "Just staying ready, staying mentally, physically engaged in everything that we're doing.",
+      "quote": "Just staying ready, staying mentally, physically engaged in everything that we're doing, even if I'm not in, just watching everything that the first group is doing. Because you never know in this league what can happen, so that's been my mindset is just being ready, staying ready, and when my numbers called go out there and compete, play hard and live with the result.",
+      "text_blocks": [],
+      "start_seconds": 490,
+      "end_seconds": 515,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Marvin Bagley III on the challenge of being a backup center: My mindset is just being ready, staying ready, and when my numbers called go out there and compete.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III describes his mindset as a backup center in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "08:42",
+      "summary_phrase": "Marvin Bagley III on playing alongside Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "It was great, being in the right spots, he was talking to me out there.",
+      "quote": "It was great, being in the right spots, he was talking to me out there. It's definitely something I'm comfortable doing. I'm comfortable dribbling the ball and it's something that I've been working on since I was a kid. Just go out there and playing with no fear, playing with that confidence and just going and having fun.",
+      "text_blocks": [],
+      "start_seconds": 522,
+      "end_seconds": 544,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Marvin Bagley III on playing alongside Nikola Jokic: It was great, being in the right spots, he was talking to me out there.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Marvin Bagley III talks about his experience playing alongside Nikola Jokic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "10:56",
+      "summary_phrase": "Marvin Bagley III on his on-court communication with Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "Just about spacing, just about what he sees and where I should be in certain spots.",
+      "quote": "Just about spacing, just about what he sees and where I should be in certain spots to for him to give me the ball and for him to, you know, go to work or whatever. But it was just conversations like that regarding the game and those are good to have. I like picking his brain, I like to kind of know what he likes, what he doesn't like, and then just try to make it easier for him whenever I'm out there with him.",
+      "text_blocks": [],
+      "start_seconds": 656,
+      "end_seconds": 689,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Marvin Bagley III on his on-court communication with Nikola Jokic: I like picking his brain, I like to kind of know what he likes, what he doesn't like.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Marvin Bagley III explains the communication he has with Nikola Jokic regarding spacing on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "11:30",
+      "summary_phrase": "Marvin Bagley III on his impact and effort",
+      "names_mentioned": [],
+      "excerpt": "The one thing that I know that I can control is my effort.",
+      "quote": "I can defend, score, rebound, I'm very confident in all those things, but the one thing that I know that I can control is my effort and just the energy that I come out with and play with. That's a non-negotiable for me personally, and that's something that I'm not going to have as many rebounds as I would like, points, how many points as I would like, blocks, whatever it is, but the effort is one thing that I know that I can bring.",
+      "text_blocks": [],
+      "start_seconds": 690,
+      "end_seconds": 723,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Marvin Bagley III on his impact and effort: The one thing that I know that I can control is my effort and just the energy that I come out with and play with.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III emphasizes that his effort and energy are the most important things he can control.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "3GQ1u5DGOW8",
+  "url": "https://www.youtube.com/watch?v=3GQ1u5DGOW8",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-10-29T03:56:46Z",
+  "duration_seconds": 750,
+  "processed_at": "2026-10-29T07:12:46Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

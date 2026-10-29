@@ -1,0 +1,295 @@
+{
+  "video_title": "Hawks vs. Heat Postgame Press Conference: Kingston Flemings",
+  "speakers_seen": [
+    "Kingston Flemings",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kingston Flemings",
+      "timestamp": "00:02",
+      "summary_phrase": "Kingston Flemings on his aggressive play style and transition offense",
+      "names_mentioned": [],
+      "excerpt": "We got a lot of rebounds and we were pushing in transition. I mean that's when we're best.",
+      "quote": "Just staying aggressive. We got a lot of rebounds and we were pushing in transition. I mean that's when we're best. So again, just trying to get rebounds, push, and just playing the flow of the offense.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kingston Flemings on his approach to the Hawks offense: Just staying aggressive. We got a lot of rebounds and we were pushing in transition. I mean that is when we are best.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Kingston Flemings discusses his aggressive play style and the team's transition offense following the game against the Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kingston Flemings",
+      "speakers": [
+        "Unidentified speaker",
+        "Kingston Flemings"
+      ],
+      "timestamp": "00:13",
+      "summary_phrase": "Kingston Flemings on his aggressive play against Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "My teammates have been talking about me just being more aggressive, you know, putting the ball on the rim.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Kingston, obviously you had three high numbers there, but what did you feel in that first half when you had that play, you went up against Giannis, one of the best defenders of all time, and you seemed to really make the right read and get that layup to go? Does making a play like that give you that confidence throughout the game knowing that, you know, you can make the right play at the right time?"
+        },
+        {
+          "speaker": "Kingston Flemings",
+          "text": "Driving to the rim, my teammates have been talking about me just being more aggressive, you know, putting the ball on the rim. So that downhill, and he's going off vert, so just trying to put my arm out wide, get a good layup, get the finish. So just playing like that, constantly getting confidence throughout the game."
+        }
+      ],
+      "start_seconds": 13,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kingston Flemings on attacking the rim against Giannis Antetokounmpo: My teammates have been talking about me just being more aggressive, you know, putting the ball on the rim.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "ATL",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kingston Flemings explains his mindset and confidence after successfully driving to the rim against Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kingston Flemings",
+      "speakers": [
+        "Unidentified speaker",
+        "Kingston Flemings"
+      ],
+      "timestamp": "00:51",
+      "summary_phrase": "Kingston Flemings on the speed of the NBA game for a rookie",
+      "names_mentioned": [],
+      "excerpt": "The game is still super fast. I think it's definitely slowing down for me.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Kingston, this might be a little early to ask you, but with only five games into your NBA career, the game slows down for different guys at different times. How much is the game starting to slow down for you as you matriculate through your NBA career, your rookie year?"
+        },
+        {
+          "speaker": "Kingston Flemings",
+          "text": "The game is still super fast. I think it's definitely slowing down for me. For me, it's just being aggressive. I see a lot of the plays throughout the court, nothing really changed. It's just when the defense knows I'm going to pass, my passes aren't going to be there. So coaches talked to me about that, everyone's talking about that. So putting the ball on the rim, I'm going to continue to do that. Just put the ball up, make some shots, and when you play like that, it makes the defense second-guess."
+        }
+      ],
+      "start_seconds": 51,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kingston Flemings on adjusting to the NBA as a rookie: The game is still super fast. I think it is definitely slowing down for me. For me, it is just being aggressive.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Kingston Flemings describes his adjustment to the speed of the NBA game during his rookie season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kingston Flemings",
+      "speakers": [
+        "Unidentified speaker",
+        "Kingston Flemings"
+      ],
+      "timestamp": "01:36",
+      "summary_phrase": "Kingston Flemings on CJ's veteran mentorship and support",
+      "names_mentioned": [
+        "CJ",
+        "Nikhil"
+      ],
+      "excerpt": "Him and Nikhil, I work out with them almost every single day, taking bits and pieces.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Coach mentioned how supportive CJ has been of you in your early career. How important has his veteran presence been to you transitioning to the NBA?"
+        },
+        {
+          "speaker": "Kingston Flemings",
+          "text": "Otherworldly, to be honest. Him and Nikhil, I work out with them almost every single day, taking bits and pieces. For CJ to be playing this long at this high of a level, it's not easy to do. You don't even see a lot of players doing it. But just CJ, the things he's done, he's in my ear all the time. Every timeout when he's on the bench, just telling me what he sees, offense, defense, helping me in those ways. So just invaluable having players like him on the team, I'm grateful for it."
+        }
+      ],
+      "start_seconds": 96,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kingston Flemings on the veteran mentorship of CJ: Otherworldly, to be honest. For CJ to be playing this long at this high of a level, it is not easy to do. He is in my ear all the time.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ",
+          "Nikhil"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kingston Flemings discusses the veteran mentorship and support he receives from teammates CJ and Nikhil.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kingston Flemings",
+      "speakers": [
+        "Unidentified speaker",
+        "Kingston Flemings"
+      ],
+      "timestamp": "02:14",
+      "summary_phrase": "Kingston Flemings on staying in the game despite rotation changes",
+      "names_mentioned": [],
+      "excerpt": "As long as I'm on the court, just do what I do to help the team win.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Was there a moment in the second half where you kind of realized that you weren't coming out and that normal rotation wasn't going to happen and you'd sort of played well enough to stay out there for 19 straight minutes?"
+        },
+        {
+          "speaker": "Kingston Flemings",
+          "text": "To be honest, I don't really try to look too much at the rotation. As long as I'm on the court, just do what I do to help the team win. I think some possessions we kind of messed up on the defensive end, just trying to be more physical. I think we got to definitely do that. I think they were just killing us in the paint. So being more physical, but as long as I stayed in the game, I'm not going to look to the sideline to come out. I'm just going to continue to do what I do and coach makes great decisions, he's a great coach, so I trust what he does."
+        }
+      ],
+      "start_seconds": 134,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kingston Flemings on playing 19 straight minutes: I do not really try to look too much at the rotation. As long as I am on the court, just do what I do to help the team win.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kingston Flemings reacts to playing an extended stretch of minutes and his trust in the coaching staff's rotation decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kingston Flemings",
+      "timestamp": "02:56",
+      "summary_phrase": "Kingston Flemings on the confidence boost from his coaches and teammates",
+      "names_mentioned": [],
+      "excerpt": "It feels great, you know, having coaches back me the whole time.",
+      "quote": "It feels great, you know, having coaches back me the whole time. Coach telling me to be aggressive, everyone on the team telling me to be aggressive. It feels good having that, you know, that confidence behind me so I can just go out and do what I do. And players too, you know, giving me the ball, telling me to push, telling me to continue doing what I'm doing and it means a lot.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kingston Flemings on his teammates and coaches: It feels great, you know, having coaches back me the whole time. Coach telling me to be aggressive, everyone on the team telling me to be aggressive.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kingston Flemings reflects on the confidence he gains from the support of his coaches and teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kingston Flemings",
+      "speakers": [
+        "Unidentified speaker",
+        "Kingston Flemings"
+      ],
+      "timestamp": "03:17",
+      "summary_phrase": "Kingston Flemings on CJ and Nikhil's encouragement during the game",
+      "names_mentioned": [
+        "CJ",
+        "Nikhil"
+      ],
+      "excerpt": "They just came on saying keep going, you know, be aggressive.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You talked a lot about how CJ and Nikhil have, like, you know, expressed a lot of confidence and stuff like that. Did they say anything to you today or give you any, like, words of encouragement while you were kind of on this streak?"
+        },
+        {
+          "speaker": "Kingston Flemings",
+          "text": "Definitely, just keep going. I mean at the end of the day we're in the NBA, so it's not like we're all, we're all helping each other on the court. But they just came on saying keep going, you know, be aggressive, because we were trying to make a run there, get the game, win the game at the end of the day. So they definitely helped me a lot in this game, you know, offense, defense, so try to go out there and get a win tomorrow."
+        }
+      ],
+      "start_seconds": 197,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kingston Flemings on the support from his teammates during the game: They just came on saying keep going, you know, be aggressive, because we were trying to make a run there.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ",
+          "Nikhil"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kingston Flemings shares how CJ and Nikhil encouraged him to remain aggressive during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "o-r0fEUdsIY",
+  "url": "https://www.youtube.com/watch?v=o-r0fEUdsIY",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-29T01:57:30Z",
+  "duration_seconds": 231,
+  "processed_at": "2026-10-29T07:13:38Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

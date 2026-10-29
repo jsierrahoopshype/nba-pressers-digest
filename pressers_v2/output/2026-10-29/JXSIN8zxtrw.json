@@ -1,0 +1,168 @@
+{
+  "video_title": "Jamal Shead | Post Game vs Magic | October 28, 2026",
+  "speakers_seen": [
+    "Jamal Shead"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:11",
+      "summary_phrase": "Jamal Shead on his offensive role and shooting confidence",
+      "names_mentioned": [],
+      "excerpt": "I haven't shot the ball much this season yet, so today was the first day I was looking",
+      "quote": "I haven't shot the ball much this season yet, so today was the first day I was looking for my shot a little more. It felt good for it to go in.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Shead says he was looking for his shot more against the Magic and it felt good to see the ball go in.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead discusses his offensive performance and confidence in his shooting during his post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:23",
+      "summary_phrase": "Jamal Shead on his responsibility to score for the team",
+      "names_mentioned": [],
+      "excerpt": "offensively I'm a liability if I don't look for my shot",
+      "quote": "Offensively I'm a liability if I don't look for my shot. I think that I do a great job of getting guys involved, but if they're just not going to help, I have to go score the ball.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jamal Shead admits he is an offensive liability if he does not look for his own shot. He says he has to score when defenses stop helping off him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead explains his mindset regarding his responsibility to score to prevent being a liability on offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:53",
+      "summary_phrase": "Jamal Shead on the second unit's chemistry and performance",
+      "names_mentioned": [],
+      "excerpt": "we've worked all summer together and we've had a couple of games under our belt now",
+      "quote": "The first unit started off a little slow. I think the second unit we just played to the standard. I wouldn't say that it was different. We've worked all summer together and we've had a couple of games under our belt now, so we're getting used to each other. We just played to our standard, tried to turn them over a little bit more, and we made our shots.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamal Shead credits the Raptors second unit for playing to their standard and finding chemistry after working together all summer.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead reflects on the chemistry and performance of the second unit during the game against the Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:15",
+      "summary_phrase": "Jamal Shead on the potential of playing alongside Kawhi Leonard",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "we kind of have to do that more with Kawhi, and that'll make us better",
+      "quote": "We kind of have to do that more with Kawhi, and that'll make us better. I think once he comes back, and if we're still clicking and playing like this in the second unit, it doesn't do anything but make us better.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamal Shead believes the Raptors will be even better once Kawhi Leonard returns to the lineup.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead discusses how the team will improve once Kawhi Leonard returns to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:47",
+      "summary_phrase": "Jamal Shead on RJ Barrett's paint finishing and craft",
+      "names_mentioned": [
+        "RJ Barrett"
+      ],
+      "excerpt": "his paint finishing and his paint touch and him getting downhill is a real expertise of his craft",
+      "quote": "His paint finishing and his paint touch and him getting downhill is a real expertise of his craft. I think people don't realize how hard it is to stay in front of and until you get out of there and you got to guard him. It's a great outlet for our offense and I think he stepped up big time today.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamal Shead praises RJ Barrett for his ability to get downhill and finish in the paint calling it a real expertise of his craft.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead praises RJ Barrett for his ability to finish in the paint and his impact on the team's offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "JXSIN8zxtrw",
+  "url": "https://www.youtube.com/watch?v=JXSIN8zxtrw",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-29T03:16:51Z",
+  "duration_seconds": 131,
+  "processed_at": "2026-10-29T07:12:57Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

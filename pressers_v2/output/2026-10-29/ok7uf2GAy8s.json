@@ -1,0 +1,207 @@
+{
+  "video_title": "Hawks vs. Heat Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:23",
+      "summary_phrase": "Quin Snyder on the need for better ball movement and offensive flow",
+      "names_mentioned": [],
+      "excerpt": "we've got to move the ball better as much as anything, particularly when teams are aggressive",
+      "quote": "We've got to be better. We've got to move the ball better as much as anything, particularly when teams are aggressive on us on the ball. Sometimes it's not about, we have willing passers, but we have to pass. Sometimes it's about when you pass, and our ability to get off the ball quicker and get more movement, I think will help us offensively.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder says the Hawks need to improve their offensive flow and get off the ball quicker. He noted that while they have willing passers, the team must focus on better ball movement to counter aggressive defensive pressure.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the need for improved ball movement and offensive flow following the game against the Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:08",
+      "summary_phrase": "Quin Snyder on the physical challenge of playing the Miami Heat",
+      "names_mentioned": [
+        "Bam Adebayo",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "he's out there and then Giannis is out there too and Portis is physical",
+      "quote": "Obviously, Giannis and the question before about Bam breaking the rebounding record for the Heat, so he's out there and then Giannis is out there too and Portis is physical. They have size across their front line. We can't accept that those aren't plays and balls that we can come up with. There's another level there and at times we found it.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder addressed the physical challenge of playing against teams with size like Miami. He emphasized that the Hawks need to find another level in their effort to compete for loose balls and rebounds against physical front lines.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "ATL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Quin Snyder addresses the physical challenge posed by the Heat frontcourt and their ability to secure rebounds.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:53",
+      "summary_phrase": "Quin Snyder on Jalen Johnson's development and long-term potential",
+      "names_mentioned": [
+        "Jalen Johnson",
+        "CJ McCollum"
+      ],
+      "excerpt": "this is part of the process for him. This is a long runway as I've said",
+      "quote": "Jalen Johnson did a terrific job. I think this is part of the process for him. This is a long runway as I've said. CJ McCollum's been, it's not about any one player. It's really not. Tonight Jalen gave us a lift. He was pushing the ball and made some good things happen.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder praised Jalen Johnson for providing a lift and pushing the pace. Snyder reiterated that Johnson is on a long runway for development and that his contributions are part of a larger process for the team.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder comments on Jalen Johnson's performance and his ongoing development process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:22",
+      "summary_phrase": "Quin Snyder on the team's trust in CJ McCollum in tough situations",
+      "names_mentioned": [
+        "CJ McCollum"
+      ],
+      "excerpt": "CJ knows how we feel about him. He's crucial to us being who we want to be",
+      "quote": "We talked about it as the coaching staff. CJ knows how we feel about him. He's crucial to us being who we want to be. Jalen's been in the game long enough that it felt like we're throwing CJ in a tough situation, putting him in cold at that point. CJ is all about the team and the team winning.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder spoke on the team's trust in CJ McCollum, noting that he is crucial to the team identity. Snyder acknowledged the difficulty of bringing him into the game cold but highlighted McCollum's team first mentality.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "CJ McCollum",
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder discusses the team's trust in CJ McCollum and his role during a difficult game situation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:03",
+      "summary_phrase": "Quin Snyder on Jalen Johnson's unselfishness and impact in transition",
+      "names_mentioned": [
+        "Jalen Johnson"
+      ],
+      "excerpt": "the impact that he has in the game in transition and his unselfishness, his willingness to pass",
+      "quote": "Jalen Johnson, the impact that he has in the game in transition and his unselfishness, his willingness to pass the ball, playing without the ball is something that our whole team, the more we embrace that, the more difficult we are to defend. And that's everybody.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder highlighted Jalen Johnson's unselfishness and transition impact. Snyder believes the entire team becomes much harder to defend when they embrace playing without the ball and prioritize passing.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder praises Jalen Johnson for his unselfish play and impact in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Quin Snyder",
+      "timestamp": "05:09",
+      "summary_phrase": "Quin Snyder on the team's commitment to spacing and ball movement",
+      "names_mentioned": [],
+      "excerpt": "we were trying to make the scoring pass and they were getting tipped",
+      "quote": "We were trying to make the scoring pass and they were getting tipped. That player will be open if you advance the pass and the next guy makes the pass. And you saw that as the game went on. Often times that player is going to be open, but it's difficult for that pass to get through immediately. And that's kind of what I was talking about as far as when we move the ball. That gets back to just our commitment to spacing so that we can do that and play together.",
+      "text_blocks": [],
+      "start_seconds": 309,
+      "end_seconds": 345,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder discussed the importance of spacing and advancing the pass. He explained that the team struggled early with forcing scoring passes but improved as they committed to playing together and moving the ball to open teammates.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains the importance of spacing and passing to overcome defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ok7uf2GAy8s",
+  "url": "https://www.youtube.com/watch?v=ok7uf2GAy8s",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-29T01:57:33Z",
+  "duration_seconds": 469,
+  "processed_at": "2026-10-29T07:13:26Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

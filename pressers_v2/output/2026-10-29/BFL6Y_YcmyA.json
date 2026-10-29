@@ -1,0 +1,131 @@
+{
+  "video_title": "“We Just Need To Play More As A Team.” | LaMelo Ball Postgame Sound | 10.28.26",
+  "speakers_seen": [
+    "LaMelo Ball"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:05",
+      "summary_phrase": "LaMelo Ball on the need for better team play",
+      "names_mentioned": [],
+      "excerpt": "We just need to play more as a team.",
+      "quote": "We just need to play more as a team. We just go one shot, make one pass, shot, keep it going, but at the end, play as a team and got better.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 17,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball says the team needs to focus on ball movement after tonight's loss. We just need to play more as a team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the team's performance following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:20",
+      "summary_phrase": "LaMelo Ball on adjusting to Anthony Edwards' absence",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "We know what Ant do. So obviously there's a lot of shots not out there no more.",
+      "quote": "I think the normal basketball thing is, you know, we know what Ant do. So obviously there's a lot of shots not out there no more, so people, like I said, we just got to play as a team. Not look at it like, oh, it's a lot of shots out there, but just stay in the flow.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "LaMelo Ball on adjusting to the absence of Anthony Edwards. We just got to play as a team. Not look at it like oh it is a lot of shots out there but just stay in the flow.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains how the team is adjusting to the absence of Anthony Edwards.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:44",
+      "summary_phrase": "LaMelo Ball on reducing turnovers",
+      "names_mentioned": [],
+      "excerpt": "Just be me. That's about it.",
+      "quote": "Just be me. That's about it.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "LaMelo Ball on his approach to reducing turnovers. Just be me. That is about it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball reflects on his personal approach to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:25",
+      "summary_phrase": "LaMelo Ball on the team's lack of pace",
+      "names_mentioned": [],
+      "excerpt": "Yeah, we ain't had no pace tonight.",
+      "quote": "Yeah, we ain't had no pace tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball admits the team struggled to find a rhythm tonight. We ain't had no pace tonight.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball comments on the lack of pace displayed by the team during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "BFL6Y_YcmyA",
+  "url": "https://www.youtube.com/watch?v=BFL6Y_YcmyA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-29T05:03:15Z",
+  "duration_seconds": 100,
+  "processed_at": "2026-10-29T07:12:06Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,174 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs Nuggets Postgame Interview 10/28/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:15",
+      "summary_phrase": "Jamahl Mosley on the team's growth and learning from mistakes",
+      "names_mentioned": [],
+      "excerpt": "Basketball is a game of mistakes. You're going to turn it over, you're going to file.",
+      "quote": "That's the growth of this team. That's the growth of this group, understanding what gets you and keeps you in games and then being able to execute it at the next level. Basketball is a game of mistakes. You're going to turn it over, you're going to file. There are moments that are going to happen within a game, then you got to move on to the next play. And that is the growth of this team to be able to say, okay, it happened, now let me move on and get to this next moment because now that next moment is the biggest moment.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says the growth of this team is about understanding what keeps you in games and moving on to the next play after mistakes happen. He believes the group is learning to execute at the next level.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's development and ability to move past mistakes during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:14",
+      "summary_phrase": "Jamahl Mosley on the team's frustration with their 1-4 start",
+      "names_mentioned": [],
+      "excerpt": "Guys aren't happy. I'm not happy. Nobody wants to be 1-4.",
+      "quote": "Guys aren't happy. I'm not happy. Nobody wants to be 1-4. And in that same breath, you understand it's a part of a process of growing and getting better. I get it. We all want to be undefeated for an entire NBA season. I would love to go 82-0, but you got to learn the lessons within this.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jamahl Mosley admits nobody is happy with the Pelicans 1-4 start. He says the team is focused on the process of growing and learning lessons from these early losses.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley addresses the team's frustration regarding their 1-4 start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:37",
+      "summary_phrase": "Jamahl Mosley praises Carlo's selfless play and team-first attitude",
+      "names_mentioned": [
+        "Carlo"
+      ],
+      "excerpt": "Carlo was absolutely great. I think you talk about a young man that is about as pure",
+      "quote": "Carlo was absolutely great. Carlo was absolutely great. I think you talk about a young man that is about as pure as they come when it comes to what can I do for my teammate. And that's what shows up. The way he plays, the way he cares, whether he's playing 10 minutes, 15 minutes, 2 minutes, no minutes, he's the same person every single time you see him. And that's exactly why he will have the success he will because it's about others, not about him.",
+      "verbatim_original_language": "",
+      "start_seconds": 157,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley praised Carlo for his selfless attitude and team first approach. He says Carlo is as pure as they come and that his focus on others is exactly why he will have success.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Carlo"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley praises Carlo for his selfless attitude and team-first mentality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:55",
+      "summary_phrase": "Jamahl Mosley on Herb's aggression and professional approach",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "I loved his aggression. I loved how he changed the game defensively for us.",
+      "quote": "I loved his aggression. I loved how he changed the game defensively for us. I thought that was big. Herb, I've said it again, he's the ultimate professional and again my task is to keep finding more and more minutes which we are going to find and have for him. I'm that is rest assured.",
+      "verbatim_original_language": "",
+      "start_seconds": 355,
+      "end_seconds": 376,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley says he loved the aggression Herb showed defensively and confirmed he is working to find more minutes for him in the rotation. He called Herb the ultimate professional.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley discusses Herb Jones' defensive aggression and his intention to increase his playing time.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:40",
+      "summary_phrase": "Jamahl Mosley on the versatility of playing two centers",
+      "names_mentioned": [
+        "Carlo",
+        "DQ"
+      ],
+      "excerpt": "I loved the size, I loved the the versatility of both of them.",
+      "quote": "I loved it. I loved the size, I loved the the versatility of both of them. Obviously DQ being a connector, a guy that can make plays, make passes, connect guys, Carlo being able to stretch the floor the way he does, but then there's a sense of physicality, finishing possessions out that you have with two bigs on the floor. And I think that's going to be big and we'll look at it throughout some games because you have again, you have two versatile bigs that can make sure they can make plays for one another, but then they stretch the floor so they give more space to get downhill and attack the basket without a crowd.",
+      "verbatim_original_language": "",
+      "start_seconds": 400,
+      "end_seconds": 445,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley says he liked the versatility of playing two centers. He noted that having two bigs who can stretch the floor and make plays provides more space for the team to attack the basket.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "DQ",
+          "Carlo"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains the tactical benefits of playing two centers simultaneously.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "BzgCVI9Ahgw",
+  "url": "https://www.youtube.com/watch?v=BzgCVI9Ahgw",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-29T03:37:44Z",
+  "duration_seconds": 535,
+  "processed_at": "2026-10-29T07:12:46Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

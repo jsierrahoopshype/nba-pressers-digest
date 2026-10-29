@@ -1,0 +1,149 @@
+{
+  "video_title": "Hornets at Pistons: Coach Charles Lee Postgame Media Availability | 10/28/2026",
+  "speakers_seen": [
+    "Charles Lee",
+    "Shannon"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Shannon",
+        "Charles Lee"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Charles Lee on Pistons' defensive pressure and Hornets' turnovers",
+      "names_mentioned": [],
+      "excerpt": "they ratcheted up their defensive pressure a little bit, their physicality, and unfortunately had too many costly turnovers",
+      "text_blocks": [
+        {
+          "speaker": "Shannon",
+          "text": "Take me back to the start of the second half because that's really when the Pistons took control of this game. Where were some of the breakdowns that you saw?"
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "They ratcheted up their defensive pressure a little bit, their physicality, and unfortunately had too many costly turnovers or slow possessions. But I do love the overall fighting competitiveness of the group. To hold a good team like that to 97 points on the road shows the competitive spirit, the defensive intensity that we had. And then offensively, I thought that we just made one too many mistakes and they punished us for it."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee credited the Hornets defensive intensity for holding the Pistons to 97 points but noted that too many costly turnovers and slow possessions ultimately cost them the game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the Pistons' defensive pressure and the Hornets' turnovers during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Shannon",
+        "Charles Lee"
+      ],
+      "timestamp": "00:34",
+      "summary_phrase": "Charles Lee on benching Naz Reid for the second half",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "Naz didn't meet our standards in the first half and at halftime we made a decision",
+      "text_blocks": [
+        {
+          "speaker": "Shannon",
+          "text": "We didn't see Naz Reid play in the second. Can you tell us what went behind that decision?"
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "Unfortunately, Naz didn't meet our standards in the first half and at halftime we made a decision that he wouldn't play in the second half, but I look forward to him meeting those standards come next game."
+        }
+      ],
+      "start_seconds": 34,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Charles Lee confirmed Naz Reid was benched for the entire second half because he did not meet our standards in the first half.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Lee explains the decision to bench Naz Reid for the entire second half due to failing to meet team standards.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Shannon",
+        "Charles Lee"
+      ],
+      "timestamp": "00:49",
+      "summary_phrase": "Charles Lee on defensive effort against Cade Cunningham",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "the pressure on Cunningham was really good. For us to hold him to 30 points",
+      "text_blocks": [
+        {
+          "speaker": "Shannon",
+          "text": "When you look at it from start to finish, outside of just the fight, what else did you see?"
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "The pressure on Cunningham was really good. For us to hold him to 30 points, I thought that a lot of those buckets he had to work for and he was trying to dribble through our shifts. And then on a couple of those possessions when they were missing, I think that we didn't come up with enough rebounds. But I just love the physical spirit and fight of the group on the road tonight and they banded together even to get it to a six-point game."
+        }
+      ],
+      "start_seconds": 49,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Charles Lee praised his teams defensive pressure on Cade Cunningham noting that the star guard had to work for his 30 points throughout the game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "CHA",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Charles Lee evaluates the team's defensive effort against Cade Cunningham and their performance on the boards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Jb4E_7ranyU",
+  "url": "https://www.youtube.com/watch?v=Jb4E_7ranyU",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-29T02:14:33Z",
+  "duration_seconds": 87,
+  "processed_at": "2026-10-29T07:13:15Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,145 @@
+{
+  "video_title": "we've got to play at a level we've never tapped into before\" | Postgame media with Keyonte",
+  "speakers_seen": [
+    "Keyonte George"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Keyonte George",
+      "timestamp": "00:10",
+      "summary_phrase": "Keyonte George on the Utah Jazz's need for higher intensity",
+      "names_mentioned": [],
+      "excerpt": "we've got to play at a level that we've never tapped into before",
+      "quote": "I think what we learned is we've got to play at a level that we've never tapped into before, just to put ourselves in position to win the ballgame. Obviously there's schematic things that we didn't execute down the stretch, but as far as our competitiveness, our focus, I think it was there. It hurts to lose a game like that, but we're taking the small wins. After the first game in Memphis, I think every game has gotten better in different areas, and I think we just got to put it all together for 48 minutes.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Keyonte George says the Jazz need to reach a new level of intensity to win games. He believes the team is improving in different areas each night but must find a way to put it all together for a full 48 minutes.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Keyonte George discusses the team's need to increase their intensity and execution following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Keyonte George",
+      "timestamp": "01:33",
+      "summary_phrase": "Keyonte George on the Utah Jazz's defensive focus without key players",
+      "names_mentioned": [
+        "Lauri Markkanen",
+        "Jaren Jackson Jr.",
+        "Jusuf Nurkic"
+      ],
+      "excerpt": "we have to hang our hat on the defensive end",
+      "quote": "For us, we have to hang our hat on the defensive end. We have to. With the players that we have right now available, we can play fast, we can play hard, but we have to guard. The offensive side will take care of itself. Will has amazing sets for us to get wide open shots. We know our shot diet, what shots we want to take. So I think for us, we have to hang our hat on the defensive side. We have to play hard, we have to talk, communicate, deflections, defensive rebounding, crashing the glass on the offensive side. The small things we have to do for 48 minutes to put ourselves in the best position possible.",
+      "verbatim_original_language": "",
+      "start_seconds": 93,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Keyonte George emphasizes that the Jazz must hang their hat on the defensive end. He notes that while the offense will take care of itself through Will Hardy's sets, the team must prioritize communication and rebounding to stay competitive.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Will Hardy"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Keyonte George explains that the team must prioritize defensive effort and communication to compensate for their current roster availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Keyonte George",
+      "timestamp": "02:30",
+      "summary_phrase": "Keyonte George on team depth and shared responsibility after injuries",
+      "names_mentioned": [
+        "Lauri Markkanen",
+        "Jaren Jackson Jr.",
+        "Jusuf Nurkic",
+        "Josh",
+        "Bryce"
+      ],
+      "excerpt": "everybody on our team brings a different dynamic",
+      "quote": "I don't think I'm looking at it like that. There's a lot of guys on our team that can make plays. Josh can make shots. When Bryce comes in, he can make shots. Everybody on our team brings a different dynamic. Losing Lauri, Jaren, and Nurk for a little bit, those points or assists, whatever you want to call it, can get spread around with everybody. It's not just one person, it's not just me. Everybody on this team has the ability to raise the floor for our group.",
+      "verbatim_original_language": "",
+      "start_seconds": 150,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "With Lauri Markkanen and others sidelined, Keyonte George says the scoring load will be spread across the roster. He believes every player on the team has the ability to raise the floor for the group while key pieces are out.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Lauri Markkanen",
+          "Jaren Jackson Jr."
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Keyonte George discusses how the team is distributing offensive responsibilities following injuries to key teammates.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Keyonte George",
+      "timestamp": "03:30",
+      "summary_phrase": "Keyonte George on the San Antonio Spurs' physicality in overtime",
+      "names_mentioned": [],
+      "excerpt": "they up the intensity on the defensive side, using their hands, being physical",
+      "quote": "They've been places where we're trying to get to. Obviously, being young is not an excuse, but they up the intensity on the defensive side, using their hands, being physical. So when teams do that, we got to adjust and do the exact same thing to them on the other side of the ball. As long as we put ourselves in those situations, the only thing we're doing is learning. Every game has gotten a lot better. We're going to watch the film, we're going to learn, and we're going to move on.",
+      "verbatim_original_language": "",
+      "start_seconds": 210,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Keyonte George credits the Spurs for their physicality and defensive intensity. He says the young Jazz squad is using these tough matchups as a learning experience to understand how to adjust when opponents turn up the pressure.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Keyonte George reflects on the physical defensive play of the San Antonio Spurs during their recent matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "8vbD5ecmf7Q",
+  "url": "https://www.youtube.com/watch?v=8vbD5ecmf7Q",
+  "channel_team": "Utah Jazz",
+  "published": "2026-10-29T04:30:22Z",
+  "duration_seconds": 294,
+  "processed_at": "2026-10-29T07:12:26Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

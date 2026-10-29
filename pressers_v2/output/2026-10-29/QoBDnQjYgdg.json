@@ -1,0 +1,235 @@
+{
+  "video_title": "Derik Queen | Pelicans vs Nuggets Postgame Interview 10/28/26",
+  "speakers_seen": [
+    "Derik Queen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Derik Queen",
+      "timestamp": "00:37",
+      "summary_phrase": "Derik Queen on Carlo's athletic contributions and team chemistry",
+      "names_mentioned": [
+        "Carlo"
+      ],
+      "excerpt": "Carlo is athletic. He bring a lot of different traits to the team, spacing, athleticism, rebounding and defense.",
+      "quote": "Carlo is great. One time Coach Mo said that he is a great teammate and just stay ready. Tonight he was ready. Carlo is athletic. He bring a lot of different traits to the team, spacing, athleticism, rebounding and defense. I actually wish I was out there more with him. I just love playing with Carlo.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen praises teammate Carlo for his versatility and readiness, saying he brings spacing, rebounding, and defense to the Pelicans rotation.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Carlo"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen discusses the athletic contributions and team chemistry provided by his teammate Carlo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Derik Queen",
+      "timestamp": "01:40",
+      "summary_phrase": "Derik Queen on the team's need to avoid a losing mindset",
+      "names_mentioned": [
+        "Mo",
+        "DJ"
+      ],
+      "excerpt": "We may lose two, three in a row. But DJ came back and said, that's a loser mindset.",
+      "quote": "When Coach Mo first came in, he said we may lose two, three in a row. But DJ came back and said, that's a loser mindset. So we just can't keep having that mindset of to get the next one. We just got to be in the moment, try to get every game. It is going to happen, but I don't want to think about that. We just got to execute better and just get those wins.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Derik Queen says the Pelicans are working to move past a loser mindset, emphasizing that the team needs to focus on executing better to secure wins rather than accepting losing streaks.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Derik Queen reflects on the team's mindset regarding losses and the need for better execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Derik Queen",
+      "timestamp": "02:18",
+      "summary_phrase": "Derik Queen on the defensive value of Herb Jones",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb just makes the game defensively so easier for all of us.",
+      "quote": "Herb just makes the game defensively so easier for all of us because he just throw himself around. He always trying to get a stop. With the second unit, and when we in practice, we always just talking. He always like, I got your help, I got your back, or don't stay too long because I'm going to fight over. I feel like that's what we need. We just need more of that and just more intensity.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen highlights the defensive impact of Herb Jones, noting that his communication and willingness to help make the game much easier for the rest of the team.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen explains how Herb Jones improves the team's defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Derik Queen",
+      "timestamp": "03:02",
+      "summary_phrase": "Derik Queen on Zion Williamson's aggressive play and coaching impact",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "It really start from the coaches. The coaches has been on him since day one.",
+      "quote": "It really start from the coaches. The coaches has been on him since day one. And then him just taking it in and just willing to work and working on his game. He had three, four threes this year. This is a big jump. I don't even think he took three or four threes last year. We just got to keep having him going and he the one that got to pretty much lead the team.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Derik Queen credits the coaching staff for Zion Williamson's aggressive play and improved shooting, noting that Zion has made a big jump in his three-point attempts this season.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Derik Queen discusses Zion Williamson's improved shooting and leadership following coaching guidance.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Derik Queen",
+      "timestamp": "04:05",
+      "summary_phrase": "Derik Queen on the team's struggle to close out games",
+      "names_mentioned": [],
+      "excerpt": "Mainly just closing out games better. I feel like that's what we lacking.",
+      "quote": "Mainly just closing out games better. I feel like that's what we lacking. I can go on and on about us not closing games.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 254,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Derik Queen admits the Pelicans are struggling to close out games, stating that it is something the team is currently lacking.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Derik Queen identifies the team's struggle to close out games as a primary area for improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Derik Queen",
+      "timestamp": "04:32",
+      "summary_phrase": "Derik Queen on the frustration of losing close games",
+      "names_mentioned": [],
+      "excerpt": "It's very important and very frustrating for us because it's just like we put ourselves in these positions.",
+      "quote": "It's very important and very frustrating for us because it's just like we put ourselves in these positions, but we also take ourselves out these positions. Last time we played these guys we was up. Should never have lost the lead. Utah was a back and forth game, we didn't get no stops. And Indiana, we just made a few bad mistakes. We just got to eliminate those and just keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 272,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Derik Queen expresses frustration over the team's inability to hold leads, saying the Pelicans are taking themselves out of winning positions through bad mistakes.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "UTA",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Derik Queen expresses frustration regarding the team's inability to maintain leads in recent losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Derik Queen",
+      "timestamp": "06:50",
+      "summary_phrase": "Derik Queen on the team's identity and trust in closing lineups",
+      "names_mentioned": [
+        "Mike Brown"
+      ],
+      "excerpt": "We know who our closes is, but we just got to execute those plays.",
+      "quote": "It's not really hard to say because when people come in with new coaches, they have their guys. Mike Brown came in, he knew who the best players was and who the closes is. Here I feel like we have that situation, like we know who our closes is, but we just got to execute those plays and just can't make mistakes and just can't keep taking ourselves out these positions. I just say that to compare because I feel like we all know our guys or even if it changed, we all trust each other.",
+      "text_blocks": [],
+      "start_seconds": 410,
+      "end_seconds": 447,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Derik Queen says the Pelicans trust their closing lineups, but the team must stop making mistakes and execute better in crunch time to secure wins.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Derik Queen discusses the team's trust in their closing lineups and the need for execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "QoBDnQjYgdg",
+  "url": "https://www.youtube.com/watch?v=QoBDnQjYgdg",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-29T03:34:54Z",
+  "duration_seconds": 480,
+  "processed_at": "2026-10-29T07:12:47Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

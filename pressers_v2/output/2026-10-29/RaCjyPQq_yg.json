@@ -1,0 +1,425 @@
+{
+  "video_title": "Cavs vs Wizards | Kenny Atkinson Post Game | 10.28.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:10",
+      "summary_phrase": "Evan Mobley's improved jump shot and confidence this season",
+      "names_mentioned": [
+        "Evan Mobley"
+      ],
+      "excerpt": "there's a shift in his demeanor. He wants to play better than he did last year.",
+      "quote": "There is a shift in his demeanor. I think he wants to play better than he did last year, or start the season off better than he did last year, because he finished really well. He has put in the work, and then there is a confidence to him now. It is raised. Playing with James too, James has a way of finding the guys. He is trusting him, trusting the pass. The jumper looks quicker to me too. It is not just that he is making them; last year he would make the threes with time and space. This year, he is getting it off quicker and making them with harder contests. It changes the game for us.",
+      "start_seconds": 10,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kenny Atkinson sees a major shift in Evan Mobley this season. The jumper looks quicker and he is making shots against harder contests. Atkinson says if this shooting is real it changes the game for the Cavs.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Kenny Atkinson discusses Evan Mobley's improved jump shot and increased confidence during his post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:33",
+      "summary_phrase": "Defensive adjustments to stop allowing lobs in the second half",
+      "names_mentioned": [],
+      "excerpt": "we completely flipped the script in the second half and it was basically let's see if they can beat us",
+      "quote": "They had 50 points in the paint, 19 rim attempts in the first half. We completely flipped the script in the second half and it was basically let's see if they can beat us over the top. We packed in the paint, obviously changed our defensive coverages. We switched everything just to keep them out of the paint, and it was a much better job protecting our forward in that second half.",
+      "start_seconds": 93,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "The Cavs completely flipped the script defensively in the second half against Washington. Kenny Atkinson says they packed the paint and switched everything to stop the lobs that plagued them early.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "WAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains the defensive adjustments made at halftime to limit the opponent's scoring in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:12",
+      "summary_phrase": "Peyton Watson's defensive energy and offensive impact",
+      "names_mentioned": [
+        "Peyton Watson"
+      ],
+      "excerpt": "I love the offensive part what he was doing, getting in the pocket, making plays, driving mismatches.",
+      "quote": "I love the offensive part what he was doing, getting in the pocket, making plays, driving mismatches. He goes hard to the rim. He is not a floater guy; he is a guy that is getting to the rim with force. I thought his defensive energy really helped our overall energy tonight.",
+      "start_seconds": 132,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson praised the energy Peyton Watson brought to the floor tonight. He highlighted his ability to drive with force and his defensive impact as a key spark for the team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Peyton Watson for his offensive aggression and defensive energy during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:57",
+      "summary_phrase": "Malik's pace and finishing ability off the bench",
+      "names_mentioned": [
+        "Malik"
+      ],
+      "excerpt": "that tough lefty finish he had in the fourth quarter where he kind of took it coast-to-coast",
+      "quote": "I thought that tough lefty finish he had in the fourth quarter where he kind of took it coast-to-coast, and the physicality that he had, he did not get pushed off his line. He had a couple of steals, I felt like really, really good instinctive plays defensively. We found a guy that can really help us.",
+      "start_seconds": 177,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson likes what he is seeing from Malik off the bench. He pointed to his physicality and instinctive defensive plays as signs that they have found a guy who can really help the team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson highlights the performance of Malik off the bench, specifically noting his finishing and defensive instincts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:34",
+      "summary_phrase": "Mario's contribution off the bench in spot minutes",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "excerpt": "Mario hit that huge three. We are giving him spot minutes and it is tough.",
+      "quote": "I just want to put Mario in there. Mario hit that huge three. We are giving him spot minutes and it is tough. I felt like he was just good, whatever minutes he played, he was really good.",
+      "start_seconds": 214,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kenny Atkinson credited Mario for hitting a huge three in his spot minutes tonight, noting that he was really good in the time he was on the floor.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson comments on Mario's contribution and efficiency during his limited minutes off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:49",
+      "summary_phrase": "Washington's performance as a reflection of league-wide improvement",
+      "names_mentioned": [
+        "Trey",
+        "Anthony Davis",
+        "Sarr"
+      ],
+      "excerpt": "so many teams have gotten better. They have great young talent, of course, and then you had Trey and Anthony Davis",
+      "quote": "So many teams have gotten better. They have great young talent, of course, and then you had Trey and Anthony Davis out there and Sarr. They are going to surprise some people. That is going to be the story every night in this league. We kind of came out like the old Wizards, and before you know it, we could have been down 20 easy. We are lucky to be down 10. I told the guys in the locker room, this is different. This is a very talented team over there. Can't sleep on these guys.",
+      "start_seconds": 229,
+      "end_seconds": 266,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson warns not to sleep on the Wizards. He says so many teams have gotten better and the young talent across the league means every night is a challenge.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey",
+          "Anthony Davis",
+          "Sarr"
+        ],
+        "teams": [
+          "CLE",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the competitiveness of the Wizards and the general improvement of teams across the league.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:53",
+      "summary_phrase": "Sam Merrill's timely scoring and impact on game flow",
+      "names_mentioned": [
+        "Sam Merrill"
+      ],
+      "excerpt": "it reminds me of like two years ago when our bench comes in as like our energy changes",
+      "quote": "It reminds me of like two years ago when our bench comes in as like our energy changes. Obviously we got skill with Sam. Sam knows what the heck we are doing. He has got great corporate knowledge, but he made some big plays. Defensively too, I thought he changed the complexion of the game. I think it is fair to say that. Hit some big threes. Him and Donovan obviously have a synergy, like Donovan finds him, especially in transition.",
+      "start_seconds": 293,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Sam Merrill provided a major energy boost for the Cavs tonight. Kenny Atkinson says Merrill's synergy with Donovan Mitchell and his ability to hit big shots changed the complexion of the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Sam Merrill",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson discusses the impact of Sam Merrill's scoring and his chemistry with Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:43",
+      "summary_phrase": "Jared's defensive impact and rim protection",
+      "names_mentioned": [
+        "Jared"
+      ],
+      "excerpt": "he saved us in the first. That's why we should have been down 20, he saved a bunch",
+      "quote": "He saved us in the first. That's why we should have been down 20, he saved a bunch of plays at the rim. 86 defensive rating for the game, which is, especially when you play defense like we did in the first half, he kind of saved us tonight. Coverage were not great to begin with, but he individually kind of took us on his shoulders, him and Peyton defensively.",
+      "start_seconds": 343,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says Jared saved the Cavs tonight. Despite poor defensive coverage early on, Jared individually took the team on his shoulders to protect the rim and keep them in the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jared",
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson credits Jared and Peyton Watson for their defensive efforts in keeping the team in the game during the first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:20",
+      "summary_phrase": "Evan Mobley's potential as a three-point shooter",
+      "names_mentioned": [
+        "Evan"
+      ],
+      "excerpt": "if this is real, if this is who he is, a three-point shooter, then we're a really hard team",
+      "quote": "If this is real, if this is who he is, a three-point shooter, then we are a really hard team to stop. The thing that goes with that though, right, because you know he is at the five a lot of times when that happens, he has also got to be defensive player of the year. We just can't say, hey, let's put Evan at the five and we are going all offense because he is shooting threes. It is like, Evan, can you do that and still hold the fort defensively for us? That is a huge role, but our ceiling, if he can do that, hit threes and still be the great defender that he is, that could be our next jump.",
+      "start_seconds": 380,
+      "end_seconds": 428,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Kenny Atkinson on Evan Mobley: If he can hit threes and still be the great defender that he is, that could be our next jump. He notes that Mobley has to hold the fort defensively even when playing the five.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the potential impact of Evan Mobley developing into a consistent three-point shooter while maintaining defensive excellence.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "08:00",
+      "summary_phrase": "Flexibility in pick-and-roll coverage and lineup adjustments",
+      "names_mentioned": [],
+      "excerpt": "that is really hard to do with a young team, but when you have a team with the experience",
+      "quote": "That is really hard to do with a young team, but when you have a team with the experience we have, and guys that can make that switch, you don't think twice with these guys about switching coverages. That just happens with smart guys and guys with experience.",
+      "start_seconds": 480,
+      "end_seconds": 498,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson credits the experience of his roster for the team's ability to switch defensive coverages on the fly, noting that it is something you do not have to think twice about with this group.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains how the team's experience allows for flexibility in switching defensive coverages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "08:43",
+      "summary_phrase": "Trust in Malik and his role as a ball-handler",
+      "names_mentioned": [
+        "Malik"
+      ],
+      "excerpt": "you clearly trust him enough to put him in those situations. Oh yeah, you're going to trust him more.",
+      "quote": "You clearly trust him enough to put him in those situations. Oh yeah, you're going to trust him more, you will see him more. He is, I like, it is like, you kind of just know, and you guys feel it I am sure, right? Like this guy, he doesn't turn it over either, right? Like that is important for us, gives us another ball-handler. Wait until he starts to get more comfortable in the league, he is going to be an important part of this.",
+      "start_seconds": 523,
+      "end_seconds": 556,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson says Malik will see more playing time as he gets comfortable. He highlighted Malik's ability to handle the ball without turning it over as a key asset for the team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson expresses trust in Malik's ability to handle the ball and his future role within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "09:18",
+      "summary_phrase": "Synergy between Donovan and Evan in the offense",
+      "names_mentioned": [
+        "Evan",
+        "Donovan"
+      ],
+      "excerpt": "Donovan trusts him and James trusts him too. I just think we have to be a little more intentional.",
+      "quote": "Donovan trusts him and James trusts him too. I just think we have to be a little more intentional. Even just, I go back to that Detroit and Toronto series, just having him lead the break sometimes. Not all the time, we have two great guards, but it is like, can we use his creativity, spray with the inverted pick-and-roll? I think we can have a better balance is all. And it is hard because we have great guards, a great pick-and-roll team, but this guy is pretty good and it is more an awareness of our team to get him more touches in general.",
+      "start_seconds": 558,
+      "end_seconds": 598,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson wants the Cavs to be more intentional about getting Evan Mobley touches. He believes the team can have better balance by using Mobley's creativity as a playmaker.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell",
+          "Evan Mobley",
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson discusses the need for better offensive balance and utilizing Evan Mobley's playmaking alongside Donovan Mitchell and James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "10:22",
+      "summary_phrase": "Defensive versatility of Peyton and Evan",
+      "names_mentioned": [
+        "Peyton",
+        "Evan"
+      ],
+      "excerpt": "Peyton is interesting because he's a rim protector for a wing. That's that's not normal.",
+      "quote": "Peyton is interesting because he is a rim protector for a wing. That is not normal when you got a guy. So you feel a little more comfortable with that, you know, if Evan is on the perimeter, you got a wing that can protect the rim and we can also, you know, with James, because James is so strong, we can put James on the five sometimes. We will do that and Evan and Peyton, like interchanging. So it gives us a lot of option-ality.",
+      "start_seconds": 622,
+      "end_seconds": 655,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson highlights the defensive versatility of his frontcourt, noting that having a wing like Peyton Watson who can protect the rim gives the team a lot of optionality.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson",
+          "Evan Mobley",
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains the defensive versatility provided by the interchangeability of Peyton Watson, Evan Mobley, and James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "RaCjyPQq_yg",
+  "url": "https://www.youtube.com/watch?v=RaCjyPQq_yg",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-29T01:57:21Z",
+  "duration_seconds": 682,
+  "processed_at": "2026-10-29T07:13:46Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

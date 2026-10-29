@@ -1,0 +1,141 @@
+{
+  "video_title": "Jaime Jaquez Jr. Postgame Media Availability | 10.28.26",
+  "speakers_seen": [
+    "Jaime Jaquez Jr.",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaime Jaquez Jr."
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's lack of urgency and preparation",
+      "names_mentioned": [
+        "Jaime Jaquez Jr."
+      ],
+      "excerpt": "we just didn't come with enough urgency and preparation. I mean that's on us.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "I mean this Rockets team did what they do right in terms of the way they attacked defensively, offensively, all last. I know that's what you all are trying to do and establish here. Just I don't know, was it a way to show levels to this to a degree of a team that's been together for four years doing it?"
+        },
+        {
+          "speaker": "Jaime Jaquez Jr.",
+          "text": "Yeah, I mean I think today we just didn't come with enough urgency and preparation. I mean that's on us. We got to be alert and understand these moments that we're in. We had a great win against Indiana, but we got to understand that that's one game. We always got another one coming. So as a team, we just got to be better prepared to go into these moments and understand what we need to do."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaime Jaquez Jr. says the team lacked urgency and preparation against the Rockets. We just did not come with enough urgency and preparation. That is on us.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "HOU",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses the team's lack of urgency and preparation following a loss to the Houston Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaime Jaquez Jr."
+      ],
+      "timestamp": "00:45",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's mental toughness and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "we just got to be stronger mentally as a team, to understand that, you know, even though we're not making shots, we still got to get back and play defense.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "First quarter was pretty much a rock fight defensively. You guys both kind of doing it. What flipped in the second? The math seemed impossible, like I think you guys made one three, but obviously they've got two ends of the court there. So just what changed in that quarter?"
+        },
+        {
+          "speaker": "Jaime Jaquez Jr.",
+          "text": "I would say that, you know, a lot of times as a team, we were just letting some of these missed shots just get to us. We just got to be stronger mentally as a team, to understand that, you know, even though we're not making shots, we still got to get back and play defense. It's one of the areas we got to improve on, and that's something that we're going to continue to work on."
+        }
+      ],
+      "start_seconds": 45,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaime Jaquez Jr. says the team needs to be stronger mentally when shots are not falling. We were letting some of these missed shots get to us. We still have to get back and play defense.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. explains the need for greater mental toughness when the team is struggling to make shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaime Jaquez Jr.",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaime Jaquez Jr."
+      ],
+      "timestamp": "01:34",
+      "summary_phrase": "Jaime Jaquez Jr. on the need for easier offensive buckets",
+      "names_mentioned": [],
+      "excerpt": "we just got to figure out how to generate a lot more easy buckets.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "I was going to ask you the teachable takeaways. Would you say what would you say are those things that you listed there, anything else?"
+        },
+        {
+          "speaker": "Jaime Jaquez Jr.",
+          "text": "I would definitely say that. I think offensively, I thought we played pretty solid defense going into the half. I think just offensively, we just got to figure out how to generate a lot more easy buckets. I thought we did have some great looks with that being said, sometimes they just don't go in. But still, you want to be able to generate easy buckets to try to get that percentage up a lot higher. And then obviously, when we're not making shots, can't let that affect our defense."
+        }
+      ],
+      "start_seconds": 94,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaime Jaquez Jr. identifies the need for easier offensive looks. We have to figure out how to generate a lot more easy buckets to try to get that percentage up a lot higher.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. addresses the team's offensive struggles and the need to generate easier scoring opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "u2bsTFu3SgE",
+  "url": "https://www.youtube.com/watch?v=u2bsTFu3SgE",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-29T04:05:21Z",
+  "duration_seconds": 142,
+  "processed_at": "2026-10-29T07:12:34Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

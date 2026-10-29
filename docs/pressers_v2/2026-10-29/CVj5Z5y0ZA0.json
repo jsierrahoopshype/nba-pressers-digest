@@ -1,0 +1,407 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Magic | October 28, 2026",
+  "speakers_seen": [
+    "Jamal Shead",
+    "Scottie Barnes",
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:22",
+      "summary_phrase": "Jamal Shead on the necessity of looking for his own shot",
+      "names_mentioned": [],
+      "excerpt": "offensively I'm a liability if I don't look for my shot",
+      "quote": "I'd say so. I think that offensively I'm a liability if I don't look for my shot. I think that I do a great job of getting guys involved, but if they're just not going to help, I have to go score the ball.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamal Shead says he has to be more aggressive offensively to help the Raptors. He admits that if he does not look for his own shot, he becomes a liability on the floor.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead discusses his offensive role and the necessity of looking for his own shot.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:16",
+      "summary_phrase": "Jamal Shead on the potential of playing with Kawhi Leonard",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "I think we kind of have to do that more with Kawhi",
+      "quote": "I think we kind of have to do that more with Kawhi. That'll make us better. I think once he comes back and if we're still clicking and playing like this in the second unit, it doesn't do anything but make us better.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamal Shead believes the Raptors will be even better once Kawhi Leonard returns to the lineup and integrates with the current second unit rotation.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead discusses the potential impact of Kawhi Leonard returning to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:48",
+      "summary_phrase": "Jamal Shead on RJ Barrett's paint finishing and craft",
+      "names_mentioned": [
+        "RJ Barrett"
+      ],
+      "excerpt": "his paint finishing and his paint touch and him getting downhill is a real expertise of his craft",
+      "quote": "His paint finishing and his paint touch and him getting downhill is a real expertise of his craft. I think people don't realize how hard it is to stay in front of and until you get out of there and you got to guard him. It's a great outlet for our offense and I think he stepped up big time today.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Shead praises RJ Barrett for his ability to get downhill and finish in the paint, calling it a real expertise of his craft.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead praises RJ Barrett for his paint finishing and craft during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scottie Barnes",
+      "timestamp": "02:24",
+      "summary_phrase": "Scottie Barnes on the team's approach without Kawhi Leonard",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "I think we're just playing our brand of basketball",
+      "quote": "I think we're just playing our brand of basketball. I don't think we're really overthinking it from a team standpoint. We're just playing to our standard, trying to play to our standard, work on what we're practicing, and just keep trying to develop from there.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes says the Raptors are keeping things simple without Kawhi Leonard, focusing on playing to their standard and continuing to develop.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains the team's approach to playing without Kawhi Leonard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "timestamp": "03:02",
+      "summary_phrase": "Scottie Barnes on Jamal Shead's impact in the first half",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "he did a great job of disrupting them and then I think it just elevated everybody else",
+      "quote": "He did a great job of being on ball, was getting steals, being active. People trying to dribble up, I think he did a great job of disrupting them and then I think it just elevated everybody else as well. So everybody was getting more active, guarding the ball, we're talking more on defense, and it definitely gave us that spark that we needed.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes credits Jamal Shead for providing a defensive spark against Orlando, noting that Shead's activity level elevated the entire team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes discusses the defensive spark Jamal Shead provided in the first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Scottie Barnes",
+      "timestamp": "03:28",
+      "summary_phrase": "Scottie Barnes on Gradey Dick's rebounding and passing",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "I think he did a great job rebounding, boxing out, running the floor",
+      "quote": "I think he did a great job rebounding, boxing out, running the floor. I think he's a great passer as well. So when he does get the ball in those like pinch post actions, I think there's a great job of seeing the floor. Being help side, trying to contest shots at the rim, I think he did a good job.",
+      "text_blocks": [],
+      "start_seconds": 208,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes highlights Gradey Dick's contribution against the Magic, specifically pointing to his rebounding, boxing out, and playmaking from the pinch post.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes evaluates Gradey Dick's performance in rebounding and passing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Scottie Barnes",
+      "timestamp": "04:37",
+      "summary_phrase": "Scottie Barnes on defending Franz Wagner",
+      "names_mentioned": [
+        "Franz Wagner"
+      ],
+      "excerpt": "he's good at attacking those angles",
+      "quote": "He's good at attacking those angles. I think they run a lot of good actions to be able to get him downhill while he's manipulating the defense. You got to watch out for him because maybe sometimes he's trying to draw a foul. We just did a good job of just trying to be in front of him and then just figuring out where the help is.",
+      "text_blocks": [],
+      "start_seconds": 277,
+      "end_seconds": 303,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes on defending Franz Wagner: You have to watch out for him because he is good at attacking angles and manipulating the defense to draw fouls.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes describes the defensive strategy used to guard Franz Wagner.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "05:49",
+      "summary_phrase": "Darko Rajakovic on the team's slow start and defensive principles",
+      "names_mentioned": [],
+      "excerpt": "we had a couple of poor possessions of our principles and what we need to do",
+      "quote": "Not the start of the game. We had a couple of poor possessions of our principles and what we need to do and how we need to do it. I thought that once Jamal Shead checked in, he changed the game. He was really following our principles, doing a great job on the ball, and once he started doing that, our whole team picked up from that point.",
+      "text_blocks": [],
+      "start_seconds": 349,
+      "end_seconds": 375,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic says Jamal Shead changed the game against Orlando, noting that the team's defensive intensity picked up as soon as Shead checked in.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains how Jamal Shead changed the game after checking in.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "06:37",
+      "summary_phrase": "Darko Rajakovic on the importance of bench contributions",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Chris Boucher",
+        "Gradey Dick"
+      ],
+      "excerpt": "it is very important especially in a game like this when Jakob gets in foul trouble early",
+      "quote": "It is very important especially in a game like this when Jakob gets in foul trouble early, when Chris gets in foul trouble early. And then I thought it was great that Gradey stayed ready. He did a great job, provided 11 rebounds for us, did good job of connecting and playmaking. I thought that he played really good game for us and for everybody, for all of our guys that they come off the bench and they're ready to go.",
+      "text_blocks": [],
+      "start_seconds": 397,
+      "end_seconds": 428,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic praises the Raptors bench for staying ready, specifically highlighting Gradey Dick's 11 rebounds in a game where the starters faced early foul trouble.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl",
+          "Chris Boucher",
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic discusses the importance of bench contributions when starters get into foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "07:28",
+      "summary_phrase": "Darko Rajakovic on Jamal Shead's energy and confidence",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "once you make shots you get even more confidence you get even more boost of energy",
+      "quote": "The last time I checked he's a lovely human being. All the players, everybody's the same. Once you make shots you get even more confidence you get even more boost of energy. It really helps you on defensive side as well. Anytime when you're making more shots, you're getting even more energy on defensive end, so that's for sure important for him and for everybody on the team.",
+      "text_blocks": [],
+      "start_seconds": 448,
+      "end_seconds": 474,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darko Rajakovic notes that making shots gives players a boost of energy on the defensive end, which has been important for Jamal Shead and the rest of the team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the relationship between shot-making and defensive energy for Jamal Shead.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "08:45",
+      "summary_phrase": "Darko Rajakovic on protecting the paint against Orlando",
+      "names_mentioned": [
+        "Wendell Carter Jr."
+      ],
+      "excerpt": "the moment we got beat off the dribble that was creating problems in the paint",
+      "quote": "What was happening a lot is the moment we got beat off the dribble, that was creating problems in the paint. For us it was very important to protect the paint, to protect it in the right way. And once we did not do it, it was opening up a lot around the rim. And then Wendell is a great player, very capable to stretch the floor as well and to shoot from there. So a couple of closeouts, we need to do better job closing out to him.",
+      "text_blocks": [],
+      "start_seconds": 525,
+      "end_seconds": 559,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic says the Raptors struggled to protect the paint against Orlando because they were getting beat off the dribble too often.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Wendell Carter Jr."
+        ],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic analyzes the team's defensive struggles in the paint against Orlando.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "09:28",
+      "summary_phrase": "Darko Rajakovic on Scottie Barnes' growth as a playmaker",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "he does a great job of attacking the paint and then playmaking from there",
+      "quote": "When he plays with a lot of force, when he goes downhill, he does a great job. He does a great job of attacking the paint and then playmaking from there. He plays off of two feet, he can get his shot, he gets to the free throw line, and he also playmakes from there. That's a testament to his work and how much he's been improving his game all over the game.",
+      "text_blocks": [],
+      "start_seconds": 568,
+      "end_seconds": 596,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic says Scottie Barnes is showing growth as a playmaker by attacking the paint with force and playing off two feet.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates Scottie Barnes' growth as a playmaker and his ability to attack the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "CVj5Z5y0ZA0",
+  "url": "https://www.youtube.com/watch?v=CVj5Z5y0ZA0",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-29T04:22:20Z",
+  "duration_seconds": 672,
+  "processed_at": "2026-10-29T07:12:23Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

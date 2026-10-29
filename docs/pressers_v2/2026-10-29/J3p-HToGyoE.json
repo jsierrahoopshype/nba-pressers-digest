@@ -1,0 +1,320 @@
+{
+  "video_title": "“Everybody’s Gotta Step Up.” | Chris Finch Postgame Sound | 10.28.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:07",
+      "summary_phrase": "Chris Finch on Timberwolves' first-half turnover issues",
+      "names_mentioned": [],
+      "excerpt": "The first half was one pass, one action, one shot, and then when we tried to force ourselves",
+      "quote": "The first half was one pass, one action, one shot, and then when we tried to force ourselves into places that there was nothing there, dribbling into double teams and not leaving ourselves good angles to make passes, and not really when their physicality bothered us, which we've been the more physical team most of the time through this early start of the season.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch on the Timberwolves' early turnover issues: We were dribbling into double teams and not leaving ourselves good angles to make passes.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the Timberwolves' turnover issues and poor offensive execution during the first half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:40",
+      "summary_phrase": "Chris Finch on Timberwolves' defensive struggles and foul trouble",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "We worked harder for our offensive shots, got into them a little bit better defensively, but we fouled",
+      "quote": "We worked harder for our offensive shots, got into them a little bit better defensively, but we fouled way too much, as you can tell by the 16 Stephen Curry free throws.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says the Timberwolves fouled way too much tonight, specifically noting the 16 free throws allowed to Stephen Curry.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "MIN",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Chris Finch addresses the team's defensive struggles and high foul count while mentioning Stephen Curry's free throw attempts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:05",
+      "summary_phrase": "Chris Finch on second-half offensive improvement",
+      "names_mentioned": [],
+      "excerpt": "That second unit shared the ball better, they were able to create some distortion with their body movement",
+      "quote": "First of all, we got stops, we were able to get out, get some stuff in transition. That second unit shared the ball better, they were able to create some distortion with their body movement, find some people, hang together some pass-pass combinations that unlocked some good shots. That's really what it was.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch credits the second unit for the second-half turnaround, noting they shared the ball better and created distortion with their movement.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the improvements in the Timberwolves' offensive performance during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "01:30",
+      "summary_phrase": "Chris Finch on team's flat start and need for internal growth",
+      "names_mentioned": [
+        "Karl-Anthony Towns"
+      ],
+      "excerpt": "It did feel like we started the game flat. We got to be better and we got to",
+      "quote": "It did feel like we started the game flat. We talked about that at halftime, but it's no excuse. We got to be better and we got to figure it out from within. We got plenty of guys to do so, but we got to have guys raise their level a little bit right now.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch on the Timberwolves' flat start: We got to be better and we got to figure it out from within. We got plenty of guys to do so, but we got to have guys raise their level a little bit right now.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch comments on the team's flat start to the game and the need for players to improve their individual performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "01:56",
+      "summary_phrase": "Chris Finch on LaMelo Ball's turnover struggles",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "We got to help him. They're putting two on him, we can't get a clean pocket around him",
+      "quote": "We got to help him. They're putting two on him, we can't get a clean pocket around him, and we got to be able to get him into some actions where we separate people from him a little better.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch on LaMelo Ball facing double teams: We got to help him. We can't get a clean pocket around him and we need to get him into actions where we separate people from him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the need to better support LaMelo Ball when opposing defenses double-team him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "02:32",
+      "summary_phrase": "Chris Finch on the team's scoring void and shot selection",
+      "names_mentioned": [],
+      "excerpt": "The scoring void is one of the easier ones to to fill, as long as you're doing the right",
+      "quote": "I think it's just guys feeling that they've got to step up, and everybody's got to step up and try to fill some void. I've long said this, the scoring void is one of the easier ones to to fill, as long as you're doing the right things and sticking in the flow and people will benefit from it. But we don't have to come out and seek our offense early, and I thought everybody launched a deep three on their first touch and they weren't going in, and that played us right out of any rhythm.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says the Timberwolves' scoring void is easy to fill if players stick to the flow, but noted that everyone launching deep threes early played the team out of rhythm.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch analyzes the team's poor shot selection and the pressure players feel to fill a scoring void.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Chris Finch",
+      "timestamp": "03:09",
+      "summary_phrase": "Chris Finch on TJ's rim pressure and decision making",
+      "names_mentioned": [
+        "TJ"
+      ],
+      "excerpt": "He's doing a good job. His decision making in the paint needs to be a little better at times",
+      "quote": "He's doing a good job. His decision making in the paint needs to be a little better at times, but he's for the most part doing a great job of getting in there, putting a lot of pressure on.",
+      "text_blocks": [],
+      "start_seconds": 189,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Chris Finch on TJ: He is doing a great job of getting into the paint and putting pressure on, though his decision making there needs to be a little better at times.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "TJ"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates the performance of TJ regarding his rim pressure and decision-making in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Chris Finch",
+      "timestamp": "03:34",
+      "summary_phrase": "Chris Finch on Trey's impact and versatility",
+      "names_mentioned": [
+        "Trey"
+      ],
+      "excerpt": "That group gave us a chance to switch everything and just kind of keep a body in front",
+      "quote": "That group gave us a chance to switch everything and just kind of keep a body in front of a body and that was the key there. What I like about Trey is he's a great smart player, he makes things happen out there, he's a real good help defender, offensively not only stretches the floor but he's a good next-action facilitator, really understands how to play basketball, so I thought he was key tonight for us.",
+      "text_blocks": [],
+      "start_seconds": 214,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch praises Trey for his versatility and basketball IQ, calling him a key facilitator and a smart help defender.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises Trey for his defensive versatility and offensive facilitation during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Chris Finch",
+      "timestamp": "04:06",
+      "summary_phrase": "Chris Finch on Rudy's offensive struggles and finishing",
+      "names_mentioned": [
+        "Rudy"
+      ],
+      "excerpt": "We got to find him a little more cleanly. We've not been able to do that. He's got to",
+      "quote": "We got to find him a little more cleanly. We've not been able to do that. He's got to catch and finish better. He had 16 chances in and around the paint in the Cleveland game, didn't finish well. I think he's got to get back to playing with a little bit more force down there and we got to find him a little cleaner at times.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 272,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch on Rudy Gobert: He has got to catch and finish better. He needs to get back to playing with a little bit more force down there.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy"
+        ],
+        "teams": [
+          "MIN",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses Rudy's recent struggles with finishing around the rim and the need for more offensive force.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Chris Finch",
+      "timestamp": "04:40",
+      "summary_phrase": "Chris Finch on energy from Johan and Jaylen",
+      "names_mentioned": [
+        "Johan",
+        "Jaylen"
+      ],
+      "excerpt": "They had energy, they played within the flow of the offense, they made hustle plays, created things with",
+      "quote": "They had energy, they played within the flow of the offense, they made hustle plays, created things with second-chance opportunities. So yeah, it was a game definitely for them to be able to get us back into, that's why I kind of rolled with them to start the fourth.",
+      "text_blocks": [],
+      "start_seconds": 280,
+      "end_seconds": 299,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch explains why he stuck with Johan and Jaylen in the fourth quarter: They had energy, played within the flow, and made hustle plays.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Johan",
+          "Jaylen"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains why he chose to play Johan and Jaylen in the fourth quarter due to their energy and hustle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "J3p-HToGyoE",
+  "url": "https://www.youtube.com/watch?v=J3p-HToGyoE",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-29T05:09:55Z",
+  "duration_seconds": 312,
+  "processed_at": "2026-10-29T07:11:53Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

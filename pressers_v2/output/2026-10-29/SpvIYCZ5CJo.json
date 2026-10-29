@@ -1,0 +1,200 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons vs  Hornets   10.28.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:04",
+      "summary_phrase": "Pistons' defensive intensity in the third quarter",
+      "names_mentioned": [],
+      "excerpt": "defensively I thought we were elite that quarter which translated to some easy opportunities for us",
+      "quote": "We got familiar with ourselves again, I think. Defensively, I thought we were elite that quarter, which translated to some easy opportunities for us on the offensive end. That's where we get our mojo. We get our mojo when it is gritty, when it is nasty. That's where our guys thrive. Early in this season, coming back off all summer vacation, it takes a little bit of time to find that again because things are so nice in the summer. But that was Pistons basketball to me, to be able to win ugly is something that we've been able to do, and tonight that's what it took.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff says the Pistons found their identity in the third quarter against Charlotte. He noted that the team thrives when the game gets gritty and nasty, calling it true Pistons basketball.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the team's defensive performance and identity during his post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:00",
+      "summary_phrase": "Jaden Ivey's fearless approach to competition",
+      "names_mentioned": [
+        "Jaden Ivey"
+      ],
+      "excerpt": "he has never shied away from being who he is and he has no fear",
+      "quote": "He has never shied away from being who he is. It doesn't matter who the competition is, who the opponent is in front of him, Jaden Ivey is going to be Jaden Ivey. He is going to talk, he is going to bump, he is going to grind, he is going to go at you. He is going to compete at a high level, and he has no fear, and that's why he's special and that's why we love him.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff on Jaden Ivey: He has no fear. Ivey is going to compete at a high level regardless of the opponent, and that is why he is special.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden Ivey"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff praises Jaden Ivey for his competitive nature and fearless approach to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:30",
+      "summary_phrase": "Jaden Ivey's defensive growth and playmaking",
+      "names_mentioned": [
+        "Jaden Ivey"
+      ],
+      "excerpt": "he did a really good job of understanding what they were trying to do to him defensively",
+      "quote": "I thought he did a really good job of understanding what they were trying to do to him defensively at different points in time in the game. They tried to put their five on him some, guys went and sat in the paint, but I thought he did a great job of finding the reads and finding the places where he can get the ball and then make the plays from there. He is a high-level playmaker when the ball is in his hands, and to be able to make that adjustment on the fly, that just continues to show his growth.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff praised Jaden Ivey for his growth as a playmaker, noting that Ivey is doing a great job of reading defensive adjustments on the fly.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden Ivey"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff comments on Jaden Ivey's growth as a playmaker and his ability to adjust to defensive schemes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:05",
+      "summary_phrase": "Javonte Green's impact on winning",
+      "names_mentioned": [
+        "Javonte Green"
+      ],
+      "excerpt": "we noticed that he had the ability to impact winning with making plays",
+      "quote": "I can't say it enough, but I'll say it time and time again, that's who he's been since he's been here for us. Since training camp of last year, we noticed that he had the ability to impact winning with making plays that don't always show up in a scouting report. His energy is infectious. He just makes game-altering plays, and whether it's a shot, whether it's a steal, whether it's a stop, a rebound, things that don't go accounted for, he impacts winning, and again, he's done it for us time and time again.",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff continues to praise Javonte Green for his ability to impact winning through energy and plays that do not always show up on the stat sheet.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Javonte Green"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff highlights Javonte Green's energy and his ability to impact winning through hustle plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:48",
+      "summary_phrase": "Pistons' identity despite officiating challenges",
+      "names_mentioned": [],
+      "excerpt": "we can't allow the whistle to dictate who we are and what our identity is",
+      "quote": "We just got to keep being who we are. I know it's not easy, and believe me, I get more frustrated than a lot of people about it, but we can't change. We can't allow the whistle to dictate who we are and what our identity is. Our identity has been too good to us, and we'll overcome all the rest of it because we'll just dive into our identity, and I think that is the difference between us and the reason we've been able to have our success is because we know who we are, and we're not going to let anybody change us.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says the Pistons cannot allow the whistle to dictate their identity. He emphasized that the team will continue to play their gritty style regardless of officiating.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff addresses the team's need to maintain their identity despite frustrations with officiating.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:34",
+      "summary_phrase": "Importance of playing time for development",
+      "names_mentioned": [],
+      "excerpt": "he's got to continue to play and get opportunities, that's the only way you get better",
+      "quote": "He's got to continue to play and get opportunities, that's the only way you get better in this league. We're going to need him. There's going to come a point in time where those little sprinkle of minutes are going to grow, and him getting those experiences and those small minutes, building that confidence, is going to be great for us and great for his development.",
+      "text_blocks": [],
+      "start_seconds": 214,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff on player development: The only way to get better in this league is to play. He expects young players to see their minutes grow as they build confidence through experience.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the importance of giving young players consistent playing time for their development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "SpvIYCZ5CJo",
+  "url": "https://www.youtube.com/watch?v=SpvIYCZ5CJo",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-29T03:12:00Z",
+  "duration_seconds": 251,
+  "processed_at": "2026-10-29T07:12:59Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

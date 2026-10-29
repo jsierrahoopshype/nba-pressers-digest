@@ -1,0 +1,243 @@
+{
+  "video_title": "Scottie Barnes | Post Game vs Magic | October 28, 2026",
+  "speakers_seen": [
+    "Scottie Barnes",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scottie Barnes",
+      "speakers": [
+        "Unidentified speaker",
+        "Scottie Barnes"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Scottie Barnes on team performance without Kawhi Leonard",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "I think we're just playing our brand of basketball. To be honest I don't think we're really overthinking it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Obviously a really solid performance from you and the team with Kawhi out of the lineup. Yesterday, Darko was talking about how everyone had to sort of seize this moment. Does it feel like as a team you guys stepped up with Kawhi unavailable?"
+        },
+        {
+          "speaker": "Scottie Barnes",
+          "text": "I think we're just playing our brand of basketball. To be honest I don't think we're really overthinking it from as a team standpoint. We're just playing to our standard, trying to play to our standard, work on what we're practicing, and just keep trying to develop from there."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes says the Raptors are not overthinking playing without Kawhi Leonard. We are just playing to our standard and trying to develop from there.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kawhi Leonard",
+          "Darko Rajakovic"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses the team performance against the Magic while Kawhi Leonard is out of the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scottie Barnes",
+      "speakers": [
+        "Unidentified speaker",
+        "Scottie Barnes"
+      ],
+      "timestamp": "00:33",
+      "summary_phrase": "Scottie Barnes on Jamal's impact and spark in first half",
+      "names_mentioned": [
+        "Jamal",
+        "Darko"
+      ],
+      "excerpt": "I think he came in that late second quarter and I think the lead went from around 10 to 17.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Darko was also specifically singled out Jamal and how he sort of gave spark to the team in the first half. What did you see from Jamal tonight?"
+        },
+        {
+          "speaker": "Scottie Barnes",
+          "text": "For sure. I think he came in that late second quarter and I think the lead went from around 10 to 17. He did a great job being on ball, was getting steals, being active. People trying to dribble up, I think he did a great job of disrupting them, and then I think it just elevated everybody else as well. So everybody was getting more active, guarding the ball, we're talking more on defense, and it definitely gave us that spark that we needed."
+        }
+      ],
+      "start_seconds": 33,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes credits Jamal for providing a spark against the Magic. He did a great job being on ball and it elevated everybody else as well.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Shead",
+          "Darko Rajakovic"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes reacts to a question about the defensive impact Jamal Shead had during the first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "speakers": [
+        "Unidentified speaker",
+        "Scottie Barnes"
+      ],
+      "timestamp": "01:12",
+      "summary_phrase": "Scottie Barnes on Trey's rebounding and passing performance",
+      "names_mentioned": [
+        "Trey"
+      ],
+      "excerpt": "I think he did a great job rebounding, boxing out, running the floor. I think he's a great passer.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Trey played his most minutes as a Raptor tonight. What did you think of his game and what did it mean to the team for him to step up like that?"
+        },
+        {
+          "speaker": "Scottie Barnes",
+          "text": "I think he did a great job rebounding, boxing out, running the floor. I think he's a great passer as well. So when he does get the ball in those pinch post actions, I think there's a great job of seeing the floor. I think he did a great job out there, being help side, trying to contest shots at the rim. I think he did a good job."
+        }
+      ],
+      "start_seconds": 72,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes praised Trey for his performance in his most minutes as a Raptor. He did a great job rebounding and boxing out and he is a great passer as well.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Jemison"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes evaluates the performance of Trey Jemison after he played his most minutes of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scottie Barnes",
+      "speakers": [
+        "Unidentified speaker",
+        "Scottie Barnes"
+      ],
+      "timestamp": "01:40",
+      "summary_phrase": "Scottie Barnes on team's offensive and defensive consistency",
+      "names_mentioned": [
+        "RJ"
+      ],
+      "excerpt": "I feel like we did a good job defensively. We did a good job scoring in transition.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Does it feel like maybe the most complete game so far in terms of you and RJ really punching the offense and then the bench finding a way to contribute all the way around?"
+        },
+        {
+          "speaker": "Scottie Barnes",
+          "text": "I don't know. It's only what, game three, four? I don't know. I don't know if it was our most complete game, but I feel like we did a good job defensively. We did a good job scoring in transition. I think RJ did a great job of that first half, being able to get to the paint, scoring, getting kickouts, and you know, he was kind of setting the tone on the offensive end for us, while we were active on defense."
+        }
+      ],
+      "start_seconds": 100,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on the Raptors early season performance. I do not know if it was our most complete game but I feel like we did a good job defensively and scoring in transition.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses the team's offensive and defensive consistency and RJ Barrett's role in setting the tone.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "speakers": [
+        "Unidentified speaker",
+        "Scottie Barnes"
+      ],
+      "timestamp": "02:21",
+      "summary_phrase": "Scottie Barnes on defensive strategy against Franz Wagner",
+      "names_mentioned": [
+        "Franz"
+      ],
+      "excerpt": "He's good at attacking those angles. I think they run a lot of good actions to be able to get him downhill.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Franz is a super physical, talented driver, but you guys forced seven turnovers, kept him to 15 points. What was the key to slowing him down?"
+        },
+        {
+          "speaker": "Scottie Barnes",
+          "text": "He's good at attacking those angles. I think they run a lot of good actions to be able to get him downhill while he's manipulating the defense. You got to watch out for him because maybe sometimes he's trying to draw a foul. But, you know, we just did a good job of just trying to be in front of him, and then just figuring out where the help is. That was really our main thing, just trying to stay in front of the ball."
+        }
+      ],
+      "start_seconds": 141,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes on the defensive plan to slow down Franz Wagner. We just did a good job of trying to be in front of him and figuring out where the help is.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains the defensive strategy the team used to limit Franz Wagner during the game against the Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "pomofGrUAAg",
+  "url": "https://www.youtube.com/watch?v=pomofGrUAAg",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-29T03:15:54Z",
+  "duration_seconds": 216,
+  "processed_at": "2026-10-29T07:13:06Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

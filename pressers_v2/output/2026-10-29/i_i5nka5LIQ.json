@@ -1,0 +1,333 @@
+{
+  "video_title": "Rick Carlisle, Andrew Nembhard and Pascal Siakam Media Availability | October 28, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Andrew Nembhard",
+    "Pascal Siakam"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:14",
+      "summary_phrase": "Rick Carlisle on the need for precision against high-level opponents",
+      "names_mentioned": [],
+      "excerpt": "you got to be so precise with everything you're doing with the guys that they have out there",
+      "quote": "You got to be so precise with everything you're doing with the guys that they have out there, or else they take advantage of minute cracks in your defense or the tiniest of mistakes. So, give them credit for putting together a great fourth quarter.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle says the Pacers must be precise against elite opponents because they take advantage of the tiniest of mistakes. He credited the opposition for their strong fourth quarter execution.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the need for defensive precision against high-level opponents after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:23",
+      "summary_phrase": "Rick Carlisle on officiating and late-game execution",
+      "names_mentioned": [
+        "Maxi Kleber"
+      ],
+      "excerpt": "there were some calls and no calls I disagreed with",
+      "quote": "They got to the free throw line a lot. There were some calls and no calls I disagreed with. I was pretty forthright with a couple of the officials about it, but that's part of it. They're trying their best. Maxi just hit some halacious shots, and we had one coverage situation where we made a mistake that led to a three.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle on the officiating and late game execution against the Sixers. He noted he was forthright with officials about his disagreements but acknowledged they are trying their best.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "IND",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle reflects on officiating and a defensive mistake made against Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:15",
+      "summary_phrase": "Rick Carlisle on Andrew Nembhard's versatility as a playmaker",
+      "names_mentioned": [
+        "Andrew Nembhard",
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "he's terrific as an off-guard that can make plays, but he's obviously a natural point guard",
+      "quote": "He's a great player. His versatility is really special. He's terrific as an off-guard that can make plays, but he's obviously a natural point guard. He's had a lot of opportunities to show that, obviously last year with Tyrese being out, and tonight. We got to work at keeping our health as good as we can until we can get a few more guys back.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle praised Andrew Nembhard for his versatility as a playmaker while Tyrese Haliburton is out. He called Nembhard a natural point guard who has shown he can handle the increased responsibility.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Andrew Nembhard",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle praises Andrew Nembhard's versatility while noting the team's need to manage injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "04:47",
+      "summary_phrase": "Rick Carlisle on the development of backup centers",
+      "names_mentioned": [
+        "James Wiseman",
+        "Jalen Smith"
+      ],
+      "excerpt": "our backup centers now are getting a lot of experience",
+      "quote": "Our backup centers now are getting a lot of experience. We're seeing what they can do. James did some very good things, as did Jalen, and we got Slawson out there going hard and doing things as well. We just got to focus in on this group that we have available and do the very best that we can do.",
+      "text_blocks": [],
+      "start_seconds": 287,
+      "end_seconds": 310,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle is looking for consistency from his backup centers as they get more experience. He highlighted the contributions of James, Jalen, and Jaylen Slawson while the team manages injuries.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Wiseman",
+          "Jalen Smith",
+          "Jaylen Slawson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the development and performance of the team's backup centers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rick Carlisle",
+      "timestamp": "06:48",
+      "summary_phrase": "Rick Carlisle on Jaylen Slawson's growth and versatility",
+      "names_mentioned": [
+        "Jaylen Slawson"
+      ],
+      "excerpt": "he's almost always a positive when he goes in the game just because he goes so hard",
+      "quote": "He's almost always a positive when he goes in the game just because he goes so hard. Probably should have played him more in the Milwaukee game. But he's grown, he's gotten better, he's gotten more efficient. There's less high highs and low lows, there's more consistency with how he's playing. You love how he goes after loose balls, how he runs down people in the break.",
+      "text_blocks": [],
+      "start_seconds": 408,
+      "end_seconds": 434,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle says Jaylen Slawson is becoming more consistent and efficient. He noted that Slawson is almost always a positive when he enters the game because of his high motor and effort on loose balls.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Slawson"
+        ],
+        "teams": [
+          "IND",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle evaluates the recent growth and consistency of Jaylen Slawson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Rick Carlisle",
+      "timestamp": "08:16",
+      "summary_phrase": "Rick Carlisle on Ernie Johnson's legacy in the NBA",
+      "names_mentioned": [
+        "Ernie Johnson"
+      ],
+      "excerpt": "he's really one of the all-time greats in the industry",
+      "quote": "He's really one of the all-time greats in the industry, and he's so well thought of in our game, but also worldwide in the world of sports. I've seen some of his speaking stuff that he does, he'll go and talk to teams, and there's some amazing stuff on YouTube where he talks about the human element. He's just one of the most authentic, real people that you're going to find.",
+      "text_blocks": [],
+      "start_seconds": 496,
+      "end_seconds": 523,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Rick Carlisle shared his admiration for Ernie Johnson, calling him one of the all time greats in the industry and an authentic person who understands the human element of sports.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle shares his thoughts on the legacy and character of broadcaster Ernie Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Andrew Nembhard",
+      "timestamp": "09:40",
+      "summary_phrase": "Andrew Nembhard on the team's identity and energy",
+      "names_mentioned": [],
+      "excerpt": "we're known for playing hard, playing together, having that energy on the court",
+      "quote": "Regardless if who's in the game, we have to be like we're known for playing hard, playing together, having that energy on the court. So, that's our recipe for success.",
+      "text_blocks": [],
+      "start_seconds": 580,
+      "end_seconds": 592,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Andrew Nembhard on the Pacers identity during this injury stretch. He says regardless of who is in the game, the recipe for success remains playing hard and playing together.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Andrew Nembhard discusses the team's identity and the importance of maintaining energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Pascal Siakam",
+      "timestamp": "12:06",
+      "summary_phrase": "Pascal Siakam on the team's next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "everyone knows your name can be called, you got to be ready",
+      "quote": "Everyone knows your name can be called, you got to be ready. We got to play together, we got to play hard. It is one thing we got to do is play hard. I think all the guys that are out there, you know, it's just going to have to be about playing hard, giving it your all when your name is called.",
+      "text_blocks": [],
+      "start_seconds": 726,
+      "end_seconds": 750,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Pascal Siakam emphasizes the next man up mentality for the Pacers. He says everyone has to be ready when their name is called and the focus must remain on playing hard.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Pascal Siakam emphasizes the next-man-up mentality required for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Pascal Siakam",
+      "timestamp": "13:47",
+      "summary_phrase": "Pascal Siakam on Kelly Olynyk's growth and role",
+      "names_mentioned": [
+        "Kelly Olynyk"
+      ],
+      "excerpt": "he's going to continue to get better",
+      "quote": "I think he's going to continue to get better. Obviously, I know what it feels like coming into a team like this and you have to figure it out. As long as your heart and everything is in the right place and you play the right way, I think you'll be okay. He's doing a pretty good job. He got to guard some people, he got to continue to play.",
+      "text_blocks": [],
+      "start_seconds": 827,
+      "end_seconds": 854,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Pascal Siakam on Kelly Olynyk adjusting to the team. Siakam says as long as his heart is in the right place and he plays the right way, he will be okay as he continues to figure things out.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kelly Olynyk"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pascal Siakam discusses the adjustment process for Kelly Olynyk as he integrates into the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Pascal Siakam",
+      "timestamp": "15:11",
+      "summary_phrase": "Pascal Siakam on Andrew Nembhard's performance as a point guard",
+      "names_mentioned": [
+        "Andrew Nembhard"
+      ],
+      "excerpt": "he can do it, obviously we've done that in the past",
+      "quote": "I know he can do it. Obviously we've done that in the past. I think just the experience of being in that situation now, obviously with Ty out, just continue to fill those shoes and making plays. I thought he did well. He's got to keep that going and then also he got to guard some people today like Maxey, you know. So he has a lot on him and I think he's handling it well.",
+      "text_blocks": [],
+      "start_seconds": 911,
+      "end_seconds": 940,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Pascal Siakam says Andrew Nembhard is handling the pressure of filling in for Tyrese Haliburton well. He praised Nembhard for his playmaking and his defensive effort against Tyrese Maxey.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Andrew Nembhard",
+          "Tyrese Haliburton",
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "IND",
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pascal Siakam praises Andrew Nembhard for stepping into a larger role while Tyrese Haliburton is injured.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "i_i5nka5LIQ",
+  "url": "https://www.youtube.com/watch?v=i_i5nka5LIQ",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-29T03:03:50Z",
+  "duration_seconds": 1001,
+  "processed_at": "2026-10-29T07:13:17Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}

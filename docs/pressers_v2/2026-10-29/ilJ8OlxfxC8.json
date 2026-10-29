@@ -1,0 +1,224 @@
+{
+  "video_title": "“We’ve Just Got To Do A Better Job.” | Terrence Shannon Jr. Postgame Sound | 10.28.26",
+  "speakers_seen": [
+    "Terrence Shannon Jr.",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Terrence Shannon Jr.",
+      "timestamp": "00:07",
+      "summary_phrase": "Terrence Shannon Jr. on Timberwolves' defensive intensity and rebounding",
+      "names_mentioned": [],
+      "excerpt": "We were just being more aggressive on the ball defensively, rebounding and getting out and running.",
+      "quote": "We were just being more aggressive on the ball defensively, rebounding and getting out and running. I feel like I'm playing with energy.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Terrence Shannon Jr. says the Timberwolves need to focus on defensive intensity and rebounding to get out and run more effectively.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr. discusses the team's defensive approach and his own energy levels following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Terrence Shannon Jr.",
+      "timestamp": "00:22",
+      "summary_phrase": "Terrence Shannon Jr. on Timberwolves' defensive adjustments without Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "I think we need to pick back up our defensive intensity on the ball.",
+      "quote": "Everybody just keep doing their role and do a better job of it. I think we need to pick back up our defensive intensity on the ball, just getting out and running, and playing the way we play.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "With Anthony Edwards out, Terrence Shannon Jr. says the Timberwolves need to focus on everyone doing their role and picking up the defensive intensity.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr. talks about the need for increased defensive intensity while Anthony Edwards is sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Terrence Shannon Jr.",
+      "timestamp": "01:04",
+      "summary_phrase": "Terrence Shannon Jr. on team resilience following a loss",
+      "names_mentioned": [],
+      "excerpt": "We lost this game, we're going to fix it, we'll be better next game.",
+      "quote": "It's just one game. We lost this game, we're going to fix it, we'll be better next game, but it's just one game and we're not going to overreact. Obviously our best player is out, but we just got to play better. We didn't play well at all.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Terrence Shannon Jr. on the Timberwolves loss: It is just one game and we are not going to overreact. We just have to play better.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr. reacts to a team loss and addresses the challenge of playing without Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Terrence Shannon Jr.",
+      "timestamp": "01:34",
+      "summary_phrase": "Terrence Shannon Jr. on filling the void left by Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "In my eyes he's the MVP of the league, so it's not an easy cover to fill in.",
+      "quote": "In my eyes he's the MVP of the league, so it's not an easy cover to fill in. But you know we just got to play our game, everybody chip in, and I feel like we can be anybody with or while Anthony Edwards is out.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Terrence Shannon Jr. calls Anthony Edwards the MVP of the league and says the team must chip in to fill the void while he is out.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr. comments on the difficulty of replacing Anthony Edwards and the team's collective effort.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Terrence Shannon Jr.",
+      "timestamp": "02:03",
+      "summary_phrase": "Terrence Shannon Jr. on the development of teammates",
+      "names_mentioned": [
+        "Yohan",
+        "Jaylen"
+      ],
+      "excerpt": "They play really hard. They're good teammates. I see them working in the gym along with myself.",
+      "quote": "They play really hard. They're good teammates. I see them working in the gym along with myself every day. They put in time, they listen to the game plan, and whenever their name is called, I know they're ready.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Terrence Shannon Jr. praises his teammates for their work ethic and readiness to contribute when their number is called.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Terrence Shannon Jr. praises the work ethic and preparation of his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Terrence Shannon Jr.",
+      "timestamp": "02:29",
+      "summary_phrase": "Terrence Shannon Jr. on his versatility and floor spacing",
+      "names_mentioned": [],
+      "excerpt": "Being able to help my team in different ways in the offense.",
+      "quote": "Being able to help my team in different ways in the offense, whether it's in the corner, on the ball, setting screens, creating advantage for others. I got to do a better job seeing the pass a little bit earlier. I got too deep a little bit today, but you know, just watch the film and it'll be easy fix.",
+      "text_blocks": [],
+      "start_seconds": 149,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Terrence Shannon Jr. says he needs to do a better job seeing the pass earlier when attacking the paint after getting too deep in the defense today.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr. evaluates his own offensive performance and his need to improve his passing decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Terrence Shannon Jr.",
+      "timestamp": "02:56",
+      "summary_phrase": "Terrence Shannon Jr. on his role in transition and attacking the paint",
+      "names_mentioned": [],
+      "excerpt": "I got the green light to go in transition, but I also got to know when it's collapsing.",
+      "quote": "I got the green light to go in transition, but I also got to know when it's collapsing in the paint and I got a lot of defenders in there and I got to hit the kickout.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Terrence Shannon Jr. says he has the green light in transition but needs to recognize when the paint is collapsing to find the kickout pass.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr. discusses his decision-making process when attacking the paint in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ilJ8OlxfxC8",
+  "url": "https://www.youtube.com/watch?v=ilJ8OlxfxC8",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-29T05:04:32Z",
+  "duration_seconds": 197,
+  "processed_at": "2026-10-29T07:12:04Z",
+  "run_id": "2026-10-29-overnight",
+  "is_one_off": false
+}
