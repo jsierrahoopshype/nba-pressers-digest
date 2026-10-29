@@ -1,0 +1,235 @@
+{
+  "video_title": "Khaman Maluach Practice Media Availability | 10-29-26",
+  "speakers_seen": [
+    "Khaman Maluach"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Khaman Maluach",
+      "timestamp": "00:34",
+      "summary_phrase": "Khaman Maluach on his offensive decision-making and shot selection",
+      "names_mentioned": [],
+      "excerpt": "It's not every time I got to go for the home run shots, you know.",
+      "quote": "It's not every time I got to go for the home run shots, you know. But once in a while, I do that if the guy is open. I'm just trying to make the right play out there. I'm just trying to do what's best for my team. If the guy is open, I'll pass him the ball. If it's not, I'll go to the next action.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Khaman Maluach says he is focused on making the right play rather than looking for home run shots. He wants to prioritize team success by passing when teammates are open.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach discusses his offensive decision-making and shot selection during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Khaman Maluach",
+      "timestamp": "01:16",
+      "summary_phrase": "Khaman Maluach on reducing turnovers and improving offensive discipline",
+      "names_mentioned": [],
+      "excerpt": "I got to be smart with that, so that I have less fouls and be able to be on the floor.",
+      "quote": "It's just being comfortable with that. Some of the turnovers, like sometimes, are bad turnovers, whether it's offensive fouls where I'm supposed to space out. I got to be smart with that, so that I have less fouls and be able to be on the floor and help my team. I'm just trying to be smart with the ball, like let us tough getting an offensive rebound and bringing the ball down. I just got to be able to keep it in mind. That's the only way they can stop me by me bringing the ball down and taking the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 76,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Khaman Maluach is working to cut down on turnovers and offensive fouls to stay on the floor. He says he needs to be smarter with the ball after securing rebounds.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach explains his focus on reducing turnovers and improving his offensive discipline to stay on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Khaman Maluach",
+      "timestamp": "02:04",
+      "summary_phrase": "Khaman Maluach on the team's defensive struggles early in the season",
+      "names_mentioned": [],
+      "excerpt": "We haven't played the best defense in the past three games.",
+      "quote": "Obviously we all know we're not at our standard right now. We haven't played the best defense in the past three games. But it's three games into the season, and we got to keep on getting better game by game. We just got to play to our standard, the us we know. We got to play to the Suns way, and we had two good days of practice, so we'll see what happens tomorrow and we get better from game to game.",
+      "verbatim_original_language": "",
+      "start_seconds": 124,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Khaman Maluach admits the Suns are not playing to their defensive standard yet. He says the team is focused on getting better game by game after a tough start to the season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach addresses the team's defensive struggles during the first three games of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Khaman Maluach",
+      "timestamp": "02:36",
+      "summary_phrase": "Khaman Maluach on his progress with screening and footwork",
+      "names_mentioned": [],
+      "excerpt": "I think I've done a better job of not getting illegal screens.",
+      "quote": "I think I've done well with not getting illegal screens. I think I've done a better job of that. And just being able sometimes to really get my feet together in quick moments, especially in transitions. Sometimes I don't get the angle, and I got to work on that in transition, being able to put my feet down at the same time and get a good angle at the same time and at the same time being able to avoid an illegal screen.",
+      "verbatim_original_language": "",
+      "start_seconds": 156,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Khaman Maluach says he is improving at avoiding illegal screens and working on his footwork in transition to ensure he is in the right position.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach reflects on his progress regarding setting legal screens and improving his footwork in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Khaman Maluach",
+      "timestamp": "03:40",
+      "summary_phrase": "Khaman Maluach on reading defenses and making the right play",
+      "names_mentioned": [],
+      "excerpt": "If I don't seal this guy, then it's going to be a two-on-two.",
+      "quote": "It's a read sometimes, especially if they're doubling him. If I don't seal this guy, then it's going to be a two-on-two, they can exit out. But if I seal this guy, it would be a two-on-one on the back end. So sometimes I just seal him. I don't have to really seal him or screen him. I just got to make that exit out for him slower.",
+      "verbatim_original_language": "",
+      "start_seconds": 220,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Khaman Maluach breaks down his approach to reading defenses, specifically focusing on how he seals defenders to create advantages for his teammates.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach describes his process for reading defenses and making the right plays to help his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Khaman Maluach",
+      "timestamp": "04:15",
+      "summary_phrase": "Khaman Maluach on his comfort level with team offensive sets",
+      "names_mentioned": [],
+      "excerpt": "It's just all about reads, making the right reads at the same time.",
+      "quote": "I'm getting comfortable with it. It's just all about reads, making the right reads at the same time. And sometimes just being a basketball player out there. I don't have to do the same thing all the time. I can make different reads and the rest is going to come with experience. As I say last time, it doesn't matter how much work I put in here, it matters, but it's not going to give me experience. So the rest is going to come with me playing.",
+      "verbatim_original_language": "",
+      "start_seconds": 255,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Khaman Maluach says he is getting more comfortable with the Suns offensive sets. He believes experience is the key to making better reads on the floor.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach discusses his growing comfort level with the team's offensive sets and the importance of gaining game experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Khaman Maluach",
+      "timestamp": "04:53",
+      "summary_phrase": "Khaman Maluach on the value of early-season experience",
+      "names_mentioned": [],
+      "excerpt": "It's more experience quicker, because sometimes I embrace it, and I like it.",
+      "quote": "It's more experience quicker, because sometimes I embrace it, and I like it, just being able to be thrown in the fire and just go figure it out. So it's giving me experience and more knowledge about the game of basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 293,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Khaman Maluach says he embraces being thrown into the fire early in his career as it is helping him gain valuable knowledge and experience.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach explains how being thrown into game situations early in the season is helping him gain knowledge.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Khaman Maluach",
+      "timestamp": "05:23",
+      "summary_phrase": "Khaman Maluach on how he creates open space on offense",
+      "names_mentioned": [],
+      "excerpt": "Finding myself open is by setting good screens, you know.",
+      "quote": "Finding myself open is by setting good screens, you know. The better screens I set, the more chances that I have of me getting the ball, whether it's getting points, so opening up space for my teammates.",
+      "verbatim_original_language": "",
+      "start_seconds": 323,
+      "end_seconds": 337,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Khaman Maluach explains that his ability to find open space on offense starts with setting good screens for his teammates.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Khaman Maluach explains how his ability to set effective screens creates scoring opportunities for himself and his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "hoJaWKc4jMg",
+  "url": "https://www.youtube.com/watch?v=hoJaWKc4jMg",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-29T20:44:55Z",
+  "duration_seconds": 341,
+  "processed_at": "2026-10-29T23:56:46Z",
+  "run_id": "2026-10-29T2356Z-20utc",
+  "is_one_off": false
+}

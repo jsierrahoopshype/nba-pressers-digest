@@ -1,0 +1,377 @@
+{
+  "video_title": "Miles Bridges Practice Media Availability | 10-29-26",
+  "speakers_seen": [
+    "Miles Bridges"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:06",
+      "summary_phrase": "Miles Bridges on Phoenix Suns' defensive and rebounding needs",
+      "names_mentioned": [],
+      "excerpt": "Right now it's just giving more effort, getting to the ball more, and finishing possessions with rebounds.",
+      "quote": "It's everything. It's everything. Sometimes we're not in the right spots, but that could be handled with communication. Right now it's just giving more effort, getting to the ball more, and finishing possessions with rebounds.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Miles Bridges says the Suns need to improve their defensive effort and rebounding to finish possessions. He notes that while communication is key, the team is currently focused on getting to the ball more.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses the team's need for better defensive effort and rebounding during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:27",
+      "summary_phrase": "Miles Bridges on improving Phoenix Suns' defensive physicality",
+      "names_mentioned": [],
+      "excerpt": "Our physicality on defense needs to get better, so that's what we've been working on.",
+      "quote": "We've been working on a lot of defensive stuff. Like I said, getting to the ball, finishing the plays with rebounds. Our physicality on defense needs to get better, so that's what we've been working on.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Miles Bridges says the Suns are prioritizing defensive physicality in practice. He points to the need for better rebounding and finishing plays on the defensive end.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges explains that the team is focusing on improving defensive physicality and rebounding in practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:54",
+      "summary_phrase": "Miles Bridges on playing faster with the Suns' second unit",
+      "names_mentioned": [
+        "Ryan Dunn",
+        "Josh Okogie",
+        "Luke Kennard"
+      ],
+      "excerpt": "We've got to play faster when I'm in the five in that group.",
+      "quote": "When we're small, I definitely got to focus on getting the bigs out of the paint and rebounding and protecting the paint more. And then I got to play fast. We got to play faster when I'm in the five in that group. Like when it's me, Ryan, CG, Luke, and whoever else, we got to play faster.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Miles Bridges on playing the five in the Suns' small-ball lineups: I have to focus on getting bigs out of the paint and protecting the rim. He says the group needs to play faster when he is in that role.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses his role as a small-ball center and the need for the second unit to play with more pace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Miles Bridges",
+      "timestamp": "01:27",
+      "summary_phrase": "Miles Bridges on building chemistry with new Phoenix teammates",
+      "names_mentioned": [],
+      "excerpt": "We're just figuring each other out. It's the third game of the season, so we're just figuring each other out.",
+      "quote": "We're just figuring each other out. It's the third game of the season, so we're just figuring each other out. And once we do, I think we're going to be a really good team.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Miles Bridges on the Suns' early season struggles: We are just figuring each other out. It is the third game of the season, and he believes they will be a really good team once they click.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges reflects on the early season process of building chemistry with his new Phoenix teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Miles Bridges",
+      "timestamp": "01:51",
+      "summary_phrase": "Miles Bridges on the importance of playing physical defense",
+      "names_mentioned": [],
+      "excerpt": "Usually the most physical team is. For instance, Oklahoma City last year, the Raptors this year.",
+      "quote": "Usually the most physical team is. For instance, Oklahoma City last year, the Raptors this year. They're speeding teams up, turning teams over. That's what we want to do, and that's what coach is just pushing us to do in practice.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Miles Bridges says the Suns want to emulate the defensive style of teams like Oklahoma City and Toronto. He notes that the coaching staff is pushing the team to speed up opponents and force more turnovers.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "OKC",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Miles Bridges cites the defensive intensity of Oklahoma City and Toronto as a model for the Suns to follow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:25",
+      "summary_phrase": "Miles Bridges on his goal to get to the free-throw line",
+      "names_mentioned": [],
+      "excerpt": "I for sure want to get to the free-throw line more. That's going to help open up the game.",
+      "quote": "I'm starting to learn when to attack, when to pass, but I for sure want to get to the free-throw line more. That's going to help open up the game for everybody else, so that's the focus for me.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Miles Bridges says he is focused on getting to the free-throw line more this season. He believes that attacking the rim will help open up the floor for the rest of his teammates.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges identifies getting to the free-throw line as a personal offensive goal to help the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:44",
+      "summary_phrase": "Miles Bridges on his chemistry with Josh Okogie",
+      "names_mentioned": [
+        "Josh Okogie"
+      ],
+      "excerpt": "Having that chemistry with him is good, and he's a real dynamic player.",
+      "quote": "It's usually smaller guys on CG. So him screening for me or me screening for him, we can cause a switch, or he could just come off and shoot it. So you know, having that chemistry with him is good, and he's a real dynamic player.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Miles Bridges highlights his growing chemistry with Josh Okogie. He notes that their ability to screen for each other creates mismatches and opens up shooting opportunities for the dynamic guard.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Josh Okogie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges discusses the offensive chemistry and screening actions he is developing with teammate Josh Okogie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:05",
+      "summary_phrase": "Miles Bridges on developing offensive chemistry with Booker and Beal",
+      "names_mentioned": [
+        "Devin Booker",
+        "Kevin Durant",
+        "Bradley Beal"
+      ],
+      "excerpt": "Me and JJ, me and Book, even me and DB, we've been talking about that.",
+      "quote": "Me and JJ, me and Book, even me and DB, we've been talking about that in our breakdowns on offense. We've been working on our chemistry just knowing when to get the ball to me, when to get the ball to Book, and all that type of stuff.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Miles Bridges says he is working on offensive chemistry with Devin Booker and Bradley Beal. He notes they are spending time in film sessions learning exactly when to get the ball to each other.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker",
+          "Bradley Beal"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges talks about working on offensive chemistry and ball distribution with Devin Booker and Bradley Beal.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:28",
+      "summary_phrase": "Miles Bridges on the need for transition execution",
+      "names_mentioned": [],
+      "excerpt": "We don't want to be too stagnant and then executing on our fast breaks.",
+      "quote": "Getting more to the second side, we don't want to be too stagnant and then executing on our fast breaks. We don't want to get those possessions away. If we get a stop and get out and run, we want to execute on that, and we haven't been doing a good job of that.",
+      "text_blocks": [],
+      "start_seconds": 208,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Miles Bridges says the Suns need to improve their transition execution. He notes that the team has been too stagnant and needs to do a better job of capitalizing on fast-break opportunities after getting stops.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges explains the need for better execution in transition and avoiding stagnant offensive possessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:48",
+      "summary_phrase": "Miles Bridges on learning his new teammates' preferences",
+      "names_mentioned": [
+        "Kevin Durant",
+        "Bradley Beal",
+        "Devin Booker"
+      ],
+      "excerpt": "I've learned where Book wants it, where DB wants it, JJ, all those guys.",
+      "quote": "I've learned where Book wants it, where DB wants it, JJ, all those guys. Getting used to man-man, so you know, it's the third game in the season, we got a long season to go. I know there's a sense of urgency for us to figure it out right now, but we got to focus on defense first before we can focus on offense.",
+      "text_blocks": [],
+      "start_seconds": 228,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Miles Bridges acknowledges the sense of urgency for the Suns to figure things out early in the season. He emphasizes that the team must prioritize defense before they can focus on their offensive rhythm.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker",
+          "Bradley Beal"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges discusses learning the offensive preferences of his teammates while emphasizing the need to prioritize defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Miles Bridges",
+      "timestamp": "04:24",
+      "summary_phrase": "Miles Bridges on giving back to the community",
+      "names_mentioned": [
+        "Miles Bridges"
+      ],
+      "excerpt": "It was great seeing those kids, feeding those families, and that's what I'm all about.",
+      "quote": "It was great seeing those kids, feeding those families, and that's what I'm all about. Because I've been in that position before, coming where I come from. And guys like Matinee, who coaches us, he was giving back to us in Flint, and for me to be able to do the same thing, that's something big for me.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 286,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Miles Bridges discusses the importance of giving back to the community. He says that because he has been in the position of those he helps, it is something big for him to be able to support families in need.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges reflects on the importance of community service and giving back to his hometown of Flint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Miles Bridges",
+      "timestamp": "04:51",
+      "summary_phrase": "Miles Bridges on the value of extra practice days",
+      "names_mentioned": [],
+      "excerpt": "It's tough sitting on these Ls for a couple days, but it's a lot to learn from that.",
+      "quote": "It's tough sitting on these Ls for a couple days, but it's a lot to learn from that. And that's what we've been doing. We've been watching a lot of film, playing up stuff on offense, defense. That's what practice is all about, so it's good to have two practice days. It's rare in the NBA season.",
+      "text_blocks": [],
+      "start_seconds": 291,
+      "end_seconds": 310,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Miles Bridges says the Suns are using their rare two-day practice window to watch film and address their offensive and defensive issues. He admits it is tough sitting on losses but says there is a lot to learn.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses the value of having multiple practice days to review film and address team struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Tbk1PN_Vf70",
+  "url": "https://www.youtube.com/watch?v=Tbk1PN_Vf70",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-29T20:42:24Z",
+  "duration_seconds": 310,
+  "processed_at": "2026-10-29T23:57:03Z",
+  "run_id": "2026-10-29T2356Z-20utc",
+  "is_one_off": false
+}

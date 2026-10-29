@@ -1,0 +1,389 @@
+{
+  "video_title": "LIVE: Pelicans vs. Kings Pregame w/ Jamahl Mosley 10/29/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "02:47",
+      "summary_phrase": "Dejounte Murray is out to celebrate the birth of his son",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "he's celebrating the birth of his son and he's being there with his family",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We just found out Dejounte Murray scratched for personal reasons. Is there anything you can share?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "He's celebrating the birth of his son and he's being there with his family around his family. It's an exciting time for him and his family. We talk about leaning into having the way we run the organization is like a family and being able to take care of these guys and him being able to stay home and take care of them. It won't be long, but I can imagine he's been up all night right after the game."
+        }
+      ],
+      "start_seconds": 167,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Dejounte Murray is out for tonight's game against the Kings for personal reasons as he celebrates the birth of his son. Jamahl Mosley says the team supports him and it won't be long before he returns.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley announces that Dejounte Murray will miss tonight's game to be with his family for the birth of his son.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "03:27",
+      "summary_phrase": "Jordan Hawkins is out tonight with an ankle injury",
+      "names_mentioned": [
+        "Jordan Hawkins"
+      ],
+      "excerpt": "Jordan will be out tonight. He'll get reevaluated again in the next couple days or so",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Any update on Jordan Hawkins to pull with the ankle?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Jordan will be out tonight. He'll get reevaluated again in the next couple days or so, but he'll be out tonight as well."
+        }
+      ],
+      "start_seconds": 207,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Jordan Hawkins is out for tonight's game with an ankle injury. Jamahl Mosley says he will be reevaluated in the next couple of days.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Hawkins"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley confirms that Jordan Hawkins is unavailable for tonight's game due to an ankle injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "03:39",
+      "summary_phrase": "Keys to tonight's game against the Sacramento Kings",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Domantas Sabonis",
+        "Ayo Dosunmu",
+        "Zach LaVine"
+      ],
+      "excerpt": "understanding the way that Jokic plays versus the way Sabonis plays, they're both used as a hub",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What will be some of the keys tonight?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "There's a lot of similarities, understanding the way that Jokic plays versus the way Sabonis plays. They're both used as a hub and guys play off of him. Just being able to understand the assignments that we have, how we can get over screens, how we got to navigate the screens. His aggression in the pick and roll as well as the dribble handoff, being able to tighten up and shrink the floor the best as we can. Then you got guys in Ayo Dosunmu as well as LaVine who are certified quick scorers. Our ability to keep them under control, finish possessions, but then not get into the rat race game of just going back and forth and being able to play our style of basketball."
+        }
+      ],
+      "start_seconds": 219,
+      "end_seconds": 271,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley breaks down the keys to tonight's game against the Kings, emphasizing the need to navigate screens and shrink the floor against a hub-style offense similar to Jokic.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Domantas Sabonis",
+          "Ayo Dosunmu",
+          "Zach LaVine"
+        ],
+        "teams": [
+          "NOP",
+          "SAC",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the keys to the game against the Sacramento Kings and mentions defensive assignments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "04:31",
+      "summary_phrase": "Expectations for Jeremiah Robinson-Earl as a starting point guard",
+      "names_mentioned": [
+        "Jeremiah Robinson-Earl"
+      ],
+      "excerpt": "I expect him to be a dominant point guard that controls and sets the table for others",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "With no Murray and no pool, what does it just sort of mean for Jeremiah as far as what do you expect from him tonight?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I expect him to be a dominant point guard that controls and sets the table for others. Picks and chooses his moments when he can be aggressive to attack to score, but just being at that facilitator that can one defensively be the head of the snake to guard and pick up full court and then the other side of it is getting distributing and getting us organized on that court."
+        }
+      ],
+      "start_seconds": 271,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "With Dejounte Murray out, Jamahl Mosley expects Jeremiah Robinson-Earl to be a dominant point guard tonight, acting as the facilitator and the head of the snake on defense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley outlines his expectations for Jeremiah Robinson-Earl as he takes on point guard duties for the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "05:00",
+      "summary_phrase": "Evaluating Jeremiah Robinson-Earl's playmaking and distribution",
+      "names_mentioned": [
+        "Jeremiah Robinson-Earl"
+      ],
+      "excerpt": "I think he's done an excellent job of distributing. Obviously there's times that he's going to have the ball",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What have you thought about what you've seen when he has the ball and he's dictating the offense?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I think he's done an excellent job of distributing. Obviously there's times that he's going to have the ball, we're running plays for him and you can find a matchup that works. They usually have size on him, so then pick and rolls with a small or him bringing the ball up and initiating our offense is also going to be key. That's going to be a team job tonight to be able to find and get ourselves settled and understanding exactly when that ball is in your hand you become the facilitator, the playmaker, no matter who it is in these moments."
+        }
+      ],
+      "start_seconds": 300,
+      "end_seconds": 347,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Jeremiah Robinson-Earl's playmaking role: He has done an excellent job of distributing and the team will need to work together to get settled and initiate the offense tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley evaluates Jeremiah Robinson-Earl's performance as a playmaker and facilitator for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "05:38",
+      "summary_phrase": "Managing team body language and morale during a losing streak",
+      "names_mentioned": [],
+      "excerpt": "I don't want nobody sitting around whistling and singing happy songs when you're 0 and 4",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you maybe get ahead of some of the issues body language, things you might see on film to correct address and stay ahead of those problems?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "One is not to overreact. When I talk about body language, nobody's going to be happy to be 0 and 4. I don't want nobody sitting around whistling and singing happy songs when you're 0 and 4. So there's a there's a mood that you can have with not getting the result that you want in those moments. But there's also a way that you bounce out of it and then that becomes the encouragement to your teammate when they check in the game and they check out the game that you now have to fill somebody else up with the encouragement when they step in the game and that's how that energy can transfer over."
+        }
+      ],
+      "start_seconds": 338,
+      "end_seconds": 393,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Addressing the team's 0-4 start, Jamahl Mosley says he does not expect players to be happy, but emphasizes the importance of maintaining positive energy and encouraging teammates to bounce back.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley addresses how the team manages body language and morale during their current losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "06:19",
+      "summary_phrase": "Herb Jones to replace Dejounte Murray in the starting lineup",
+      "names_mentioned": [
+        "Dejounte Murray",
+        "Herb Jones"
+      ],
+      "excerpt": "That'll be Herb Jones",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Who will take Dejounte's spot in the lineup?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "That'll be Herb Jones."
+        }
+      ],
+      "start_seconds": 379,
+      "end_seconds": 384,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Herb Jones will start in place of Dejounte Murray tonight, according to Jamahl Mosley.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones",
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jamahl Mosley announces that Herb Jones will replace Dejounte Murray in the starting lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "06:26",
+      "summary_phrase": "Prioritizing more minutes for Herb Jones",
+      "names_mentioned": [
+        "Herb Jones"
+      ],
+      "excerpt": "I think being able to get Herb more minutes has been a priority for me",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Does that kind of solve your problem about trying to find him more minutes?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "You're absolutely right about that. I think being able to get Herb more minutes has been a priority for me and for us as a unit, as a team."
+        }
+      ],
+      "start_seconds": 386,
+      "end_seconds": 403,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley confirms that getting Herb Jones more minutes has been a priority for the team, and his insertion into the starting lineup tonight is a step toward that goal.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's priority to increase playing time for Herb Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "N_ySYLYuHkQ",
+  "url": "https://www.youtube.com/watch?v=N_ySYLYuHkQ",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-29T22:48:10Z",
+  "duration_seconds": 430,
+  "processed_at": "2026-10-29T23:56:50Z",
+  "run_id": "2026-10-29T2356Z-20utc",
+  "is_one_off": false
+}

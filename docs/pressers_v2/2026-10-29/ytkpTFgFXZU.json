@@ -1,0 +1,310 @@
+{
+  "video_title": "Head Coach Jordan Ott Practice Media Availability | 10-29-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:11",
+      "summary_phrase": "Jordan Ott on defensive struggles against Portland and OKC",
+      "names_mentioned": [],
+      "excerpt": "because it's so small sample size, you're going to really hurt when the teams are elite",
+      "quote": "Because it's so small sample size, you're going to really hurt when the teams are elite at something. Portland for sure was really good at driving the basketball, and OKC was too. So that's part of it right there. Our pick-and-roll drive defense and then the rebounding piece has hurt us specifically in those two games.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the Suns defensive struggles against Portland and OKC come down to pick and roll defense and rebounding. He notes the team is still adjusting to elite guard play and needs to clean up those specific areas.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses defensive struggles against Portland and Oklahoma City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:15",
+      "summary_phrase": "Jordan Ott on maintaining offensive identity despite early struggles",
+      "names_mentioned": [],
+      "excerpt": "we did see success before the regular season started. It just wasn't statted.",
+      "quote": "Overall, we have to stick with some of the things that we've been talking about all camp because we did see success before the regular season started. It just wasn't statted. We have to give this a little bit of grace of a couple more games. In general, both sides of the ball, I think we have higher standards to what we want to do.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott is preaching patience with the Suns offensive identity early in the season. He says the team needs to give things a little bit of grace for a couple more games while they work to meet their higher standards.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses maintaining the team's offensive identity despite early season struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:04",
+      "summary_phrase": "Jordan Ott on the importance of having five aggressive options",
+      "names_mentioned": [],
+      "excerpt": "I think you want five options out on the floor at all times to be aggressive.",
+      "quote": "I think you want five options out on the floor at all times to be aggressive. We talk a lot about super powers, there are super skills. All five guys getting to those super skills as fast as you can with the new group. You have some connectors along the way in those groups that help connect some of the super skills.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jordan Ott wants all five players on the floor to be aggressive at all times. He says the goal is for everyone to reach their super skills as fast as possible to help the new group connect.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott explains the importance of having five aggressive options on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:45",
+      "summary_phrase": "Jordan Ott on the development of Oso Ighodaro",
+      "names_mentioned": [
+        "Oso Ighodaro"
+      ],
+      "excerpt": "I really do think he's trending in the right direction.",
+      "quote": "I really do think he's trending in the right direction. Yesterday was a higher day than today. He was with us the whole practice today. Again, he has to wake up, feel good, no soreness, nothing like that, to be ready to go tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 165,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jordan Ott says Oso Ighodaro is trending in the right direction. He participated in full practice but the team is monitoring him for any soreness before deciding on his status for tomorrow.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jordan Ott provides an update on the health and practice status of Oso Ighodaro.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:24",
+      "summary_phrase": "Jordan Ott on evaluating Oso Ighodaro's screening",
+      "names_mentioned": [
+        "Oso Ighodaro"
+      ],
+      "excerpt": "we put a lot of pressure on him.",
+      "quote": "We put a lot of pressure on him. First night, you have some of the best on-ball defenders in the world. We're trying to tell him to stick it, get those guys downhill. Specifically in OKC, it's a zone-ish, so it's a little bit different type of screen where he's rolling to is a little bit different. He's getting better.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott on the development of Oso Ighodaro. The coach says they are putting a lot of pressure on him to stick screens and get teammates downhill, noting that he is getting better at adjusting to different defensive looks.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott evaluates the progress of Oso Ighodaro's screening ability during recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:12",
+      "summary_phrase": "Jordan Ott on the importance of proper screening angles",
+      "names_mentioned": [],
+      "excerpt": "you get an advantage by forcing a guy over the top.",
+      "quote": "Especially because you want to play so early in transition, a lot of times those drag screens, we don't want it under because you get an advantage by forcing a guy over the top. It depends on the level of the five. If the five is kind of more up, then it's probably trying to get behind X5 a little bit.",
+      "text_blocks": [],
+      "start_seconds": 252,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jordan Ott breaks down the technical side of the Suns offense, emphasizing the importance of proper screening angles to force defenders over the top and maintain an advantage in transition.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott explains the technical importance of proper screening angles in their offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:02",
+      "summary_phrase": "Jordan Ott on improving team defense to fuel the offense",
+      "names_mentioned": [],
+      "excerpt": "our defense last year fueled our offense a lot.",
+      "quote": "Our defense last year fueled our offense a lot. When you physically steal the ball from the other team and now we're so concerned on the glass that now we're coming back to try to get a rebound, and then when you're not defending at a high level, you're taking the ball out of bounds. So, offensively, we want to play as fast as we can, knowing that we have a lot of options offensively.",
+      "text_blocks": [],
+      "start_seconds": 302,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott explains that the Suns offense is currently hindered by defensive struggles. He says when the team is not defending at a high level or securing rebounds, they are forced to take the ball out of bounds instead of playing fast.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses how defensive performance impacts the team's ability to play fast offensively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:06",
+      "summary_phrase": "Jordan Ott on the challenges of early-season adjustments",
+      "names_mentioned": [],
+      "excerpt": "the first night is really tough.",
+      "quote": "The first night is really tough. Small sample size, first game, sticks in all of our heads. As much as we want to try to move on as fast as possible as one of three games, that first start of that game shifts a lot and how they played us. A five-man back that doesn't allow you to have much ball, they play the five-back, stay home for a reason.",
+      "text_blocks": [],
+      "start_seconds": 366,
+      "end_seconds": 393,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott admits the first night of the season is always tough due to small sample sizes and the way opponents choose to play them. He says the team is trying to move on from the early game shifts as quickly as possible.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott reflects on the challenges of making adjustments during the first few games of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jordan Ott",
+      "timestamp": "07:56",
+      "summary_phrase": "Jordan Ott on Ryan Dunn's impact on the offense",
+      "names_mentioned": [
+        "Ryan Dunn"
+      ],
+      "excerpt": "where Ryan comes in is just his speed and force to the rim.",
+      "quote": "Where Ryan comes in is just his speed and force to the rim really puts X5, if X5s are guarding him, in a predicament. And then he has the ability to play out of the short roll. The little floater he has, he's had that since he's come into the league. It is different, and he has some natural tendencies there that we use even when he's on the perimeter.",
+      "text_blocks": [],
+      "start_seconds": 476,
+      "end_seconds": 503,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott highlights Ryan Dunn's impact, noting his speed and force to the rim puts opposing centers in a tough spot. He adds that Dunn's ability to play out of the short roll is a key asset for the offense.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Dunn"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the offensive impact of Ryan Dunn's speed and playmaking ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jordan Ott",
+      "timestamp": "08:43",
+      "summary_phrase": "Jordan Ott on utilizing Miles Bridges in inverted pick-and-rolls",
+      "names_mentioned": [
+        "Miles Bridges"
+      ],
+      "excerpt": "we got to get him to the top of the floor instead of always to the bottom.",
+      "quote": "Miles has shown the ability in other seasons to play with the basketball. We got to get him to the top of the floor instead of always to the bottom of the floor, depending on his matchup. And then some of that came in with the small ball, or what we're hopefully going to get is the blender lineup with non-traditional five.",
+      "text_blocks": [],
+      "start_seconds": 523,
+      "end_seconds": 547,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott wants to utilize Miles Bridges more effectively in inverted pick and rolls. He says the goal is to get Bridges to the top of the floor to exploit matchups and facilitate the offense.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses how to better utilize Miles Bridges in inverted pick-and-roll situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ytkpTFgFXZU",
+  "url": "https://www.youtube.com/watch?v=ytkpTFgFXZU",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-29T20:48:43Z",
+  "duration_seconds": 566,
+  "processed_at": "2026-10-29T23:56:49Z",
+  "run_id": "2026-10-29T2356Z-20utc",
+  "is_one_off": false
+}
