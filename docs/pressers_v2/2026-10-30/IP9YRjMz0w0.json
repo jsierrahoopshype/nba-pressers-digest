@@ -1,0 +1,105 @@
+{
+  "video_title": "Hawks vs. Cavaliers Postgame Press Conference: Aaron Wiggins",
+  "speakers_seen": [
+    "Aaron Wiggins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "00:00",
+      "summary_phrase": "Aaron Wiggins on the Hawks' offensive ball movement and execution",
+      "names_mentioned": [],
+      "excerpt": "it's been pretty easy because I think we're doing a pretty good job of moving the ball",
+      "quote": "It's been pretty easy because I think we're doing a pretty good job of moving the ball and working possessions to get really good shots. It makes it easy because we're getting the defense moved around and creating advantages for guys. We're doing a really good job crashing. Crashing gives us some second chances and opportunities to find open threes and cuts, and that gives a lot more scoring opportunities.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Aaron Wiggins credits the Hawks ball movement and offensive execution for their recent success saying we are doing a pretty good job of moving the ball and working possessions to get really good shots",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins discusses the offensive execution and ball movement of the Atlanta Hawks following the game against the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "00:29",
+      "summary_phrase": "Aaron Wiggins on his increased opportunities with the Atlanta Hawks",
+      "names_mentioned": [],
+      "excerpt": "it's awesome just being able to come in here and have an opportunity to contribute",
+      "quote": "The team I was on last year was a really, really good team, very deep team, so no shots towards those guys over there. But it's awesome just being able to come in here and have an opportunity to contribute in different ways and get different looks. The guys play together and we pass the ball really well, and that makes it easy for a lot of us to have scoring opportunities or chances to impact the game at a high level. I've enjoyed it to this point and I continue to look forward to it.",
+      "text_blocks": [],
+      "start_seconds": 29,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Aaron Wiggins says it is awesome to have an opportunity to contribute in different ways with the Hawks compared to his time on a deeper roster last season",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins reflects on his transition to the Atlanta Hawks and his increased opportunity to contribute compared to his previous team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "01:19",
+      "summary_phrase": "Aaron Wiggins on his offensive role and similarities to playing with Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "I think the style of play speaks for itself, especially with our team",
+      "quote": "I think the style of play speaks for itself, especially with our team and the system that we're in. There's a lot of opportunities to find shots in transition, off dribble handoffs. There's a lot of advantages that we're able to create. I think both me and Shai Gilgeous-Alexander are able to score in a variety of ways, especially with the offense that we have, and that creates a lot of opportunities for both us to score and to just play make. I think that's huge for our team.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Aaron Wiggins discusses his offensive role and notes that both he and Shai Gilgeous-Alexander are able to score in a variety of ways within their respective systems",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "ATL",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins compares the offensive systems he has played in and his scoring style to that of Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "IP9YRjMz0w0",
+  "url": "https://www.youtube.com/watch?v=IP9YRjMz0w0",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-30T03:08:54Z",
+  "duration_seconds": 131,
+  "processed_at": "2026-10-30T07:15:42Z",
+  "run_id": "2026-10-30-overnight",
+  "is_one_off": false
+}

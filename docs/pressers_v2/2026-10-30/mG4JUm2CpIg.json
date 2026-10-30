@@ -1,0 +1,204 @@
+{
+  "video_title": "Deni Avdija Postgame Interview | Portland Trail Blazers 103, Memphis Grizzlies 124 | Oct. 29, 2026",
+  "speakers_seen": [
+    "Deni Avdija"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deni Avdija",
+      "timestamp": "00:02",
+      "summary_phrase": "Deni Avdija on Portland's lack of defensive discipline against Memphis",
+      "names_mentioned": [],
+      "excerpt": "We're just hitting threes. I feel like we weren't as disciplined in defense like we usually are.",
+      "quote": "We're just hitting threes. I feel like we weren't as disciplined in defense like we usually are. We kind of answered, you know, it's tough. They had the confidence, they shot the three well, and we didn't adjust, and I think we'll be better. We're learning from it.",
+      "verbatim_original_language": "",
+      "start_seconds": 2,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Deni Avdija says the Blazers lacked defensive discipline against Memphis, noting that the team failed to adjust to the Grizzlies shooting the three well. He adds that the group is still learning from these moments.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Deni Avdija discusses the team's lack of defensive discipline during their loss to the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Deni Avdija",
+      "timestamp": "00:34",
+      "summary_phrase": "Deni Avdija on how poor shooting affected Portland's offensive rhythm",
+      "names_mentioned": [],
+      "excerpt": "Our threes didn't go as well as we wanted to today, and I think it made us uncomfortable.",
+      "quote": "Our threes didn't go as well as we wanted to today, and I think it made us uncomfortable on offense. I think we weren't as patient, we didn't take our time, and it just made Memphis get on more of a run. But we could have stopped the bleeding, you know what I'm saying? So, it happens. As I said, I think we're learning to be more disciplined. I think you got to be more patient, and we'll get better from it.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Deni Avdija admits that poor shooting rhythm affected Portland against Memphis. He says the team was not patient enough on offense, which allowed the Grizzlies to go on runs.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Deni Avdija explains how poor three-point shooting negatively impacted the team's offensive rhythm against Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Deni Avdija",
+      "timestamp": "01:16",
+      "summary_phrase": "Deni Avdija on Robert Williams III's importance to the team",
+      "names_mentioned": [
+        "Robert Williams III"
+      ],
+      "excerpt": "Rob is a big part of our team, and his presence on the floor, also off the floor, is missed.",
+      "quote": "Rob is a big part of our team, and his presence on the floor, also off the floor, is missed. You can see it in the game. Rob, you know, first and foremost we want him healthy and ready for games, so he got to do what he got to do. But I think, yeah, Rob is a big part of the team, defense, and you can trust him offensively, defensively. He's all over the place.",
+      "verbatim_original_language": "",
+      "start_seconds": 76,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Deni Avdija emphasizes the importance of Robert Williams III to the Blazers, stating that his presence on and off the floor is missed. He says the team wants him healthy and ready for games.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Robert Williams III"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Deni Avdija comments on the importance of Robert Williams III to the team and expresses hope for his health.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Deni Avdija",
+      "timestamp": "02:03",
+      "summary_phrase": "Deni Avdija views the loss as a learning experience for Portland",
+      "names_mentioned": [],
+      "excerpt": "Today wasn't really a loss, it was more of a learning experience for us.",
+      "quote": "Today wasn't really a loss, it was more of a learning experience for us. I think we were very high, we won three great games in a row, and things were clicking. And I think today we had a test of what happens when things are not clicking as much. We didn't make the threes, we were rushing a lot of things, defensively we weren't as disciplined. And I think today was a good day to still in the beginning of the season to learn from it and to move on. You know, that's all you can do is just look at this game, watch film, understand that everybody on the team, including myself, can be better. And you know, it's just one out of 82, and this is the NBA life, you just got to keep going.",
+      "verbatim_original_language": "",
+      "start_seconds": 123,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Deni Avdija views the loss to Memphis as a learning experience for the Blazers. He says the team was rushing things and lacked defensive discipline, but notes it is just one game out of 82.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija reflects on the loss to Memphis as a learning experience for the team early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Deni Avdija",
+      "timestamp": "03:15",
+      "summary_phrase": "Deni Avdija on trusting teammates over taking individual responsibility",
+      "names_mentioned": [
+        "Damian Lillard",
+        "Jrue Holiday"
+      ],
+      "excerpt": "Sometimes it's kind of of your nature to take more responsibility and be more aggressive, but I trust my teammates.",
+      "quote": "Sometimes it's kind of of your nature to take more responsibility and be more aggressive, but you know what, I trust my teammates. I trust my teammates. I'm going to keep kicking it out, I'm going to keep let Dame shoot his shots, I'm going to keep let Jrue attack the rim, Drew, I go on and on. It doesn't matter the score, you know. When we need a bucket or, you know, coach or players could trust in me and I have the ball, sure, I'll be aggressive. But if the right play is to kick it out for Dame for a three, and he didn't have the greatest shooting night tonight, I believe in him that he's going to make the next one. And this, this is my mentality, this is how I'm going to keep playing. The same thing when I'm not going to have a great game, they're going to keep trusting in me. So I think this is the big part of how a team should act, and I trust all the guys to get their heads up, put the work in, and be better next game.",
+      "verbatim_original_language": "",
+      "start_seconds": 195,
+      "end_seconds": 269,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Deni Avdija says he trusts his teammates regardless of the score. He explains his mentality is to keep making the right play, even when shots are not falling, because that is how a team should act.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard",
+          "Jrue Holiday",
+          "Drew Eubanks"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Deni Avdija discusses his philosophy of trusting his teammates rather than forcing individual shots during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Deni Avdija",
+      "timestamp": "04:31",
+      "summary_phrase": "Deni Avdija on team chemistry and talent in Portland",
+      "names_mentioned": [],
+      "excerpt": "I feel like we have a team of a lot of talent. We have a lot of tools in the attack.",
+      "quote": "I feel like we have a team of a lot of talent. We have a lot of tools in the attack. The guys who are playing next to me, they're really doing a great job. And yes, there's a lot less load. I'm happy with the chemistry of the team, and each one of us needs to just play for the team because only that way we can win. It's clear there will be times that I will be a bit aggressive or Jrue or Dame will be more aggressive, but in the end of the day, I enjoy playing together. I enjoy that we are playing together, and that's it. That's what makes me even more fresh for the rest of the season because there's a long season ahead and there will be a lot of ups and downs, but I'm really enjoying that.",
+      "verbatim_original_language": "אני מרגיש שיש לנו קבוצה של המון כישרון. יש לנו הרבה מאוד כלים בהתקפה. החבר'ה שמשחקים לידי באמת עושים עבודה נהדרת. וכן, יש עליי הרבה פחות עומס. אני שמח על הכימיה של הקבוצה, וכל אחד מאיתנו צריך פשוט לשחק בשביל הקבוצה, כי רק ככה אנחנו יכולים לנצח. ברור שיהיו פעמים שאני אהיה קצת אגרסיבי או ג'רו או דמיאן יהיו יותר אגרסיביים, אבל בסופו של דבר, אני נהנה לשחק ביחד, אני נהנה שאנחנו משחקים ביחד, וזהו. זה שומר אותי אפילו יותר פרש לשאר העונה, כי יש עוד עונה מאוד ארוכה ועוד יהיו הרבה עליות וירידות, אבל אני מאוד נהנה מזה.",
+      "start_seconds": 271,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Deni Avdija says he is happy with the chemistry of the Blazers and believes the team has a lot of talent. He emphasizes that playing for the team is the only way they can win.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jrue Holiday",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Deni Avdija expresses his satisfaction with the team's current chemistry and the talent level of his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "mG4JUm2CpIg",
+  "url": "https://www.youtube.com/watch?v=mG4JUm2CpIg",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-30T05:51:13Z",
+  "duration_seconds": 335,
+  "processed_at": "2026-10-30T07:15:34Z",
+  "run_id": "2026-10-30-overnight",
+  "is_one_off": false
+}

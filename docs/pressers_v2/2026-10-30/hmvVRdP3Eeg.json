@@ -1,0 +1,289 @@
+{
+  "video_title": "Jeremiah Fears | Pelicans vs Kings Postgame Interview 10/29/26",
+  "speakers_seen": [
+    "Jeremiah Fears"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "00:07",
+      "summary_phrase": "Jeremiah Fears on being aware of his near triple-double",
+      "names_mentioned": [
+        "DeAndre"
+      ],
+      "excerpt": "I think DeAndre kind of informed me on it late in the third going into the fourth.",
+      "quote": "For sure. I think DeAndre kind of informed me on it late in the third going into the fourth. He just kept telling me, he was like, don't change nothing, but just be aware that you're close. So continue to play your game, and if it happens to get the triple-double, you do, but don't change anything.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jeremiah Fears says DeAndre Liggins kept him aware of his near triple double during the game but told him not to change his approach.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeAndre"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears discusses being informed by his teammate DeAndre that he was close to recording a triple-double during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "00:36",
+      "summary_phrase": "Jeremiah Fears on the team's ball movement and coaching",
+      "names_mentioned": [],
+      "excerpt": "One of the things he was preaching tonight was trying to get 30 assists as a team.",
+      "quote": "It was amazing. Coach came in, filmed today, and before the game we were just talking about how he's looking forward to us just continuing to keep building. We did some pretty good things, but also we had some things we got to improve on. One of the things he was preaching tonight was trying to get 30 assists as a team, and I think we all did a pretty good job of buying into that, and like you said, we ended the night with 32.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jeremiah Fears says the Pelicans were focused on team ball movement tonight, noting that the coaching staff preached a goal of 30 assists and the team finished with 32.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jeremiah Fears explains the team's focus on ball movement and the coaching staff's goal of reaching 30 assists in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "01:06",
+      "summary_phrase": "Jeremiah Fears on the team's reaction to Mosley's first win",
+      "names_mentioned": [
+        "Mosley"
+      ],
+      "excerpt": "The first win, I mean, it means something to us and probably to him as well.",
+      "quote": "We tried. We tried to give him a celebration after the game, but coach was, he a tough guy, and I think he's not satisfied. And obviously he's done so winning around the league. So the first win, I mean, it means something to us and probably to him as well, but we tried to give him a little celebration, he's like, nah, it's okay, get ready for the next one. And that's just the mentality all of us got to have, winning and ready for the next game.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jeremiah Fears says the team tried to celebrate their first win with coach Mosley, but he was not interested, telling the team to get ready for the next one.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mosley"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears describes the team's attempt to celebrate head coach Mosley's first win and the coach's focused reaction.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "01:35",
+      "summary_phrase": "Jeremiah Fears on the impact of the first win",
+      "names_mentioned": [],
+      "excerpt": "Hopefully it just opens up our eyes and our minds to what we can be.",
+      "quote": "Hopefully it just opens up our eyes and our minds to what we can be, and just continue to take steps in the right direction. It's our first one. It's game number five, but it's our first win, and I think getting in that colony and just being focused and prepared for the next game and trying to carry this win from tonight over to Saturday.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jeremiah Fears hopes the team's first win of the season helps them stay focused and continue taking steps in the right direction.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears reflects on the significance of the team securing their first win of the season in their fifth game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "01:56",
+      "summary_phrase": "Jeremiah Fears on the team's defensive aggressiveness",
+      "names_mentioned": [],
+      "excerpt": "Being very physical and handsy. The refs going to make some pretty tough calls.",
+      "quote": "Being very physical and handsy. The refs going to make some pretty tough calls, but they can't make them all. So just that's something that we've been working on, and kind of trying to flip the tone a little bit. Last year, we were okay defensively, but we're trying to move the needle, and I think that's, like you said, taking steps in the right direction with 18 steals, and just continuing to turn them over. The more turnovers they have, the more possessions you guys get.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jeremiah Fears says the Pelicans are trying to flip the tone defensively by being more physical and handsy, a strategy that led to 18 steals tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears discusses the team's defensive strategy of being physical and aggressive to force turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "02:44",
+      "summary_phrase": "Jeremiah Fears on his performance as a shot blocker",
+      "names_mentioned": [],
+      "excerpt": "Usually the guards don't come out on top with the most blocks on a night.",
+      "quote": "Pretty cool. Usually the guards don't come out on top with the most blocks on a night, so that's a pretty cool stat. Something to feel good about myself tonight, for sure.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jeremiah Fears says it is pretty cool to lead the team in blocks as a guard, calling it something to feel good about tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears comments on his personal satisfaction with recording multiple blocks as a guard during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "02:55",
+      "summary_phrase": "Jeremiah Fears on his relationship with Darius",
+      "names_mentioned": [
+        "Darius"
+      ],
+      "excerpt": "We've been playing each other for about 12 to 13 years, so we kind of know each other.",
+      "quote": "Pretty good. We've been playing each other for about 12 to 13 years, so we kind of know each other, and we super close off the court as well. So just going out there competing and the best man win.",
+      "text_blocks": [],
+      "start_seconds": 175,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jeremiah Fears on his matchup with Darius: We have been playing each other for about 12 to 13 years and we are super close off the court.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Darius"
+        ],
+        "teams": [
+          "NOP",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears talks about his long-standing personal relationship and competitive history with Darius.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "03:14",
+      "summary_phrase": "Jeremiah Fears on being inspired by Herb Jones",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb is just a great guy overall off the court.",
+      "quote": "For sure. Herb is just a great guy overall off the court, and then I think that kind of what helps carry over to his play and the way he carries himself off the court and on the court as well. And just trying to learn from somebody like that, never complains, show up, ready to work each and every day. So something that you could pick up on, and maybe you don't tell him, but just continuing to watch and continue to pick up on some of his good habits.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jeremiah Fears says he is trying to learn from Herb Jones, specifically noting how Jones never complains and shows up ready to work every day.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears explains how he learns from the work ethic and habits of his teammate Herb Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "03:48",
+      "summary_phrase": "Jeremiah Fears on Herb Jones's professional approach",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb does a great job each and every day showing up ready to work.",
+      "quote": "Being a professional. I think Herb does a great job each and every day showing up ready to work, no matter the situation, no matter what's going on, and I think that's huge, especially in this league. It could be tough, ups and downs, different situations, different circumstances. So just being able to be ready when your number is called, and I think each and every game he do a great job of that.",
+      "text_blocks": [],
+      "start_seconds": 228,
+      "end_seconds": 256,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jeremiah Fears on the importance of professionalism in the NBA: Herb Jones does a great job showing up ready to work no matter the situation.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears praises the professional approach and consistency that Herb Jones displays every day.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "hmvVRdP3Eeg",
+  "url": "https://www.youtube.com/watch?v=hmvVRdP3Eeg",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-30T03:39:35Z",
+  "duration_seconds": 262,
+  "processed_at": "2026-10-30T07:15:46Z",
+  "run_id": "2026-10-30-overnight",
+  "is_one_off": false
+}

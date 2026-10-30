@@ -1,0 +1,156 @@
+{
+  "video_title": "Hawks vs. Cavaliers Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:01",
+      "summary_phrase": "Quin Snyder on Jalen Johnson's development and comfort on the court",
+      "names_mentioned": [
+        "Jalen Johnson",
+        "James Harden",
+        "Donovan Mitchell",
+        "CJ"
+      ],
+      "excerpt": "Jalen Johnson is becoming more and more comfortable on the court.",
+      "quote": "One of the things, the first time you go through the league, you end up playing James Harden and Donovan Mitchell. Just the way he competes, I think that's something. He's got people around him, his teammates, that support him and have confidence in him, CJ in particular. You see those two talking, and I think Jalen is an intelligent player. He's an intelligent person and he's a really smart player too. So his learning curve, we're just going to keep having these experiences and it's good to see him. He's so fast, sometimes him learning to slow down a little bit because he's got the ability to make all kinds of passes and those reads, I think as he plays more, that's a gradual organic process that occurs.",
+      "text_blocks": [],
+      "start_seconds": 61,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder says Jalen Johnson's development is a gradual organic process as he learns to slow down his game and make better reads on the floor.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson",
+          "James Harden",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "ATL",
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Quin Snyder discusses Jalen Johnson's development and his ability to compete against high-level players like James Harden and Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:15",
+      "summary_phrase": "Quin Snyder on Aaron Holiday's impact and poise off the bench",
+      "names_mentioned": [
+        "Aaron Holiday"
+      ],
+      "excerpt": "He's letting the game come to him.",
+      "quote": "Certainly the productivity that you just mentioned, to me, a lot of it is the way that he's going about it. I think he's letting the game come to him. That doesn't mean don't be aggressive either. He's got a real poise about him on the offensive end and it has a settling effect, I think, on his teammates too. It looks like he's having fun playing the game.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder praises Aaron Holiday for his poise off the bench saying he has a settling effect on his teammates.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Holiday"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder comments on the poise and positive impact Aaron Holiday brings to the team off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:56",
+      "summary_phrase": "Quin Snyder on Onyeka Okongwu's offensive versatility and spacing",
+      "names_mentioned": [
+        "Onyeka Okongwu"
+      ],
+      "excerpt": "We need those guys to keep shooting.",
+      "quote": "It's a big force. The biggest thing, both he and Jalen, but obviously Onyeka, we need those guys to keep shooting. Sometimes you can be discouraged a little bit by a result, particularly if you're a good shooter and you're used to seeing the ball go in, and it affects other parts of your game. We had a few guys tonight I thought that really battled through some of that. It's been a big push to get him to feel comfortable shooting against closeouts, and when he does that, he also has the ability to put the ball on the floor.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder is encouraging Onyeka Okongwu to keep shooting against closeouts even when the results are not immediate.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Onyeka Okongwu",
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains the importance of Onyeka Okongwu and Jalen Johnson maintaining confidence in their shooting and offensive versatility.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:55",
+      "summary_phrase": "Quin Snyder on Aaron Holiday and Onyeka Okongwu's chemistry",
+      "names_mentioned": [
+        "Aaron Holiday",
+        "Onyeka Okongwu"
+      ],
+      "excerpt": "It's good they're in there together, they really feed off each other.",
+      "quote": "They're both capable coming off screening actions, playing off dribble handoffs, playing a little pick and roll, and it's been a real point of emphasis for both those guys when they're able to create advantages to have an awareness about what else is going on on the floor and to make those reads. Both of them tonight did a great job of making good decisions. Sometimes when you're in there, you don't want to be less aggressive. They were trapping Onyeka on handoffs and situations, and that happened the other night in pick and roll and we didn't read it as well as we needed to. To me, that's a big deal for Onyeka to be able to adjust to different coverages, whether they're top-locking a screen, and to your point, Aaron is able to do some of the same things. It's good they're in there together, they really feed off each other.",
+      "text_blocks": [],
+      "start_seconds": 295,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder highlights the chemistry between Aaron Holiday and Onyeka Okongwu noting their ability to read defenses and create advantages together.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Holiday",
+          "Onyeka Okongwu"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the chemistry and decision-making between Aaron Holiday and Onyeka Okongwu during screening actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "cSTjcxvJbdE",
+  "url": "https://www.youtube.com/watch?v=cSTjcxvJbdE",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-10-30T03:08:48Z",
+  "duration_seconds": 389,
+  "processed_at": "2026-10-30T07:15:56Z",
+  "run_id": "2026-10-30-overnight",
+  "is_one_off": false
+}

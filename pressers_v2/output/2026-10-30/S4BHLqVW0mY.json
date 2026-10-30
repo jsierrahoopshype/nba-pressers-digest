@@ -1,0 +1,170 @@
+{
+  "video_title": "Cavs at Hawks | Kenny Atkinson Post Game | 10.29.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:03",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' second quarter struggles against Atlanta",
+      "names_mentioned": [],
+      "excerpt": "I thought the second quarter... we couldn't make a shot and they I think they hit six threes.",
+      "quote": "I thought the second quarter. We couldn't make a shot and they I think they hit six threes. We had I think four clean looks and I thought we had two looks at the rim that we could have converted. That's how this league goes. Outscored them the other three quarters. You have a drought like that on the road, it's you know, and we started out off fantastically. Our defense was really good, really solid. A little bit make or miss there in that second quarter.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson on the Cavs second quarter struggles against the Hawks: We had four clean looks and two looks at the rim that we could have converted. That is how this league goes.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the Cavaliers' second quarter performance during his post-game press conference after the game against the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:34",
+      "summary_phrase": "Kenny Atkinson praises Mario's impact on the Cavaliers' rotation",
+      "names_mentioned": [],
+      "excerpt": "We're searching a little bit trying to find someone on the wing that was going to step up.",
+      "quote": "Really good. We needed him. We're searching a little bit trying to find someone on the wing that was going to step up and he stepped up tonight.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the Cavs were searching for wing production and Mario stepped up tonight: We needed him.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson praises Mario for his performance and impact on the rotation during the post-game media availability.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:22",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' improved interior play and aggressiveness",
+      "names_mentioned": [
+        "Don"
+      ],
+      "excerpt": "They were very aggressive on the ball and Don and James and TP.",
+      "quote": "So much better. That's why I was really happy. They were very aggressive on the ball and Don and James and TP. We get to that ball to those guys in the pocket, good things happen. We get to the free throw line, we get open looks. Unfortunately didn't make them at a high enough rate tonight. I thought most of the threes we had were good.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson on the Cavs interior play: When we get the ball to Don and James and TP in the pocket good things happen. We get to the free throw line and we get open looks.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell",
+          "James",
+          "TP"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson evaluates the Cavaliers' interior play and offensive aggressiveness following the game against the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:02",
+      "summary_phrase": "Kenny Atkinson addresses Peyton Watson's offensive performance and foul trouble",
+      "names_mentioned": [
+        "Peyton Watson"
+      ],
+      "excerpt": "He's been great for us. Tonight the ball wouldn't go in tonight and then he got in foul trouble.",
+      "quote": "Listen, he's been great. He's been great for us. Tonight the ball wouldn't go in tonight and then he got in foul trouble. I think he was frustrated. I was frustrated a little bit, right? Like a couple of those fouls. I don't know. I want to take a look, but he's been really good for us. Just a tough one tonight.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson on Peyton Watson after a tough outing: He has been great for us. Tonight the ball would not go in and then he got in foul trouble. I think he was frustrated.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson addresses Peyton Watson's struggles with shooting and foul trouble during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:44",
+      "summary_phrase": "Kenny Atkinson identifies turnovers as the key to Atlanta's fast-break success",
+      "names_mentioned": [],
+      "excerpt": "I think we had five or six turnovers in that second quarter. That ignites their fast break.",
+      "quote": "That's what they do. That's their strength. I don't wonder how many of them. I think we had five or six turnovers in that second quarter. That ignites their fast break. But we can do a better job. We got to do a better job passing the ball ahead and getting the ball in the front court quicker. No doubt about it.",
+      "text_blocks": [],
+      "start_seconds": 224,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson identifies turnovers as the key to Atlanta fast break success: We had five or six turnovers in that second quarter. That ignites their fast break.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains how turnovers in the second quarter fueled the Hawks' fast-break offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "S4BHLqVW0mY",
+  "url": "https://www.youtube.com/watch?v=S4BHLqVW0mY",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-10-30T02:44:57Z",
+  "duration_seconds": 255,
+  "processed_at": "2026-10-30T07:15:54Z",
+  "run_id": "2026-10-30-overnight",
+  "is_one_off": false
+}

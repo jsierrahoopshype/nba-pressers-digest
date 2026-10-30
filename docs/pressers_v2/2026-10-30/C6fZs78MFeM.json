@@ -1,0 +1,150 @@
+{
+  "video_title": "Jeremiah Fears On-Court Postgame Interview vs. Kings 10/29/26",
+  "speakers_seen": [
+    "Jeremiah Fears",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "00:06",
+      "summary_phrase": "Jeremiah Fears on his offensive approach and playmaking",
+      "names_mentioned": [
+        "DeAndre Jordan"
+      ],
+      "excerpt": "when you get in the paint it's not always for you and look for your teammates",
+      "quote": "Really just being able to get to the paint and create open looks for my teammate. I think that was something we were preaching on to start the game. DeAndre Jordan was telling me as well, when you get in the paint it's not always for you and look for your teammates.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jeremiah Fears on his offensive mindset against the Kings: My focus was getting to the paint to create open looks for teammates. DeAndre Jordan told me when you get in the paint it is not always for you.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeAndre Jordan"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears discusses his offensive approach and the advice he received from DeAndre Jordan regarding playmaking.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "00:27",
+      "summary_phrase": "Jeremiah Fears on DeAndre Jordan's mentorship",
+      "names_mentioned": [
+        "DeAndre Jordan"
+      ],
+      "excerpt": "DeAndre Jordan has been great. Each and every day he come in and he just give me all the knowledge",
+      "quote": "DeAndre Jordan has been great. Each and every day he come in and he just give me all the knowledge that I don't already have. So just being able to learn from him, a little bit asking questions and just continue to build from where I left off.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jeremiah Fears on the mentorship he is receiving from veteran DeAndre Jordan: He comes in every day and gives me all the knowledge that I do not already have.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeAndre Jordan"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears speaks about the mentorship he receives from teammate DeAndre Jordan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "00:43",
+      "summary_phrase": "Jeremiah Fears on Herb Jones' defensive impact",
+      "names_mentioned": [
+        "Herb Jones"
+      ],
+      "excerpt": "Herb Jones did a great job being active on ball, taking all the right shots",
+      "quote": "Herb Jones did a great job being active on ball, taking all the right shots and doing everything the team needed him to do to win.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jeremiah Fears praised Herb Jones for his defensive effort and decision making in the win against the Kings: He did a great job being active on ball and doing everything the team needed him to do.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears praises the defensive performance and contributions of Herb Jones during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "01:03",
+      "summary_phrase": "Jeremiah Fears on his bet with Antonio Daniels",
+      "names_mentioned": [
+        "Antonio Daniels"
+      ],
+      "excerpt": "if you got 10 assists, he had to wear your jersey",
+      "quote": "That was a bet that we had and for sure the next game, which is the 31st, I expect to see him in that zero Fears jersey.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Jeremiah Fears is looking forward to seeing Antonio Daniels wear a zero Fears jersey on the 31st after winning a bet.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Antonio Daniels"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears mentions a personal bet he made with Antonio Daniels regarding a jersey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "C6fZs78MFeM",
+  "url": "https://www.youtube.com/watch?v=C6fZs78MFeM",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-30T02:40:21Z",
+  "duration_seconds": 87,
+  "processed_at": "2026-10-30T07:15:54Z",
+  "run_id": "2026-10-30-overnight",
+  "is_one_off": false
+}
