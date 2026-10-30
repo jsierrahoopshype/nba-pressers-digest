@@ -1,0 +1,160 @@
+{
+  "video_title": "Luke Kennard Shootaround Media Availability | 10-30-26",
+  "speakers_seen": [
+    "Luke Kennard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luke Kennard",
+      "timestamp": "00:05",
+      "summary_phrase": "Luke Kennard on Phoenix Suns' focus on rebounding and communication",
+      "names_mentioned": [],
+      "excerpt": "obviously rebounding is a big thing, possessions, the possession game. We want to control that every night.",
+      "quote": "I think one of the biggest things that we think about is obviously rebounding is a big thing, possessions, the possession game. We want to control that every night. But just a couple miscommunications, slip-ups, I wouldn't necessarily say our game plan execution isn't there, it's just the communication part. We're thinking the right things, but we might be a little late talking to each other. We've had a couple really good days of practice. I'm excited for it to carry over into the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Luke Kennard says the Suns are focused on improving communication on the floor. He noted that while the game plan execution is there, the team needs to be better at talking to each other to avoid slip-ups.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Luke Kennard discusses the importance of rebounding and defensive communication for the Phoenix Suns during a shootaround media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Luke Kennard",
+      "timestamp": "00:53",
+      "summary_phrase": "Luke Kennard on the need for pace when playing small-ball",
+      "names_mentioned": [],
+      "excerpt": "when we play small, it needs to be, we need to play faster.",
+      "quote": "When we play small, it needs to be, we need to play faster. I think we have an opportunity when we do that. Obviously, if we get stops, we get rebounds, we're able to push the pace offensively and just create a lot of different things on the offensive end. So there's a lot of good things that can come out of that, but you got to get stops and you got to rebound. So if we can take care of that, control that, communicate well, it should be fine if we do go small.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Luke Kennard believes the Suns need to play faster when going small-ball. He emphasized that the strategy only works if the team prioritizes getting stops and rebounding first.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Luke Kennard explains the tactical requirements for the team to be successful when playing a small-ball lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Luke Kennard",
+      "timestamp": "01:25",
+      "summary_phrase": "Luke Kennard on improving team communication through repetition",
+      "names_mentioned": [],
+      "excerpt": "exaggerating it even more in practice. Just getting it on our minds, building those habits.",
+      "quote": "A lot of reps, exaggerating it even more in practice. Just getting it on our minds, building those habits. Obviously, since day one in training camp, that's something we talked about. So it's over-exaggerating our talk in practice. I think it's been really good. Practices have been loud and like I said, hopefully we can carry that over into the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "To fix communication issues, Luke Kennard says the Suns are focusing on over-exaggerating their talk during practice to build better habits for game day.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Luke Kennard describes how the team is using practice repetitions to improve their communication habits.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Luke Kennard",
+      "timestamp": "02:39",
+      "summary_phrase": "Luke Kennard on Devin Booker's ability to handle defensive pressure",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "he attracts a lot of attention on the offensive end and he's so skilled, he plays at his own pace.",
+      "quote": "He attracts a lot of attention on the offensive end and he's so skilled, he plays at his own pace. He can get to his spots whenever he wants. But teams, they don't want him to feel comfortable. They want to put pressure on him and throw multiple bodies at him at all times, every second he's in the game. He's going to see a lot of different coverages this year. For us, playing off of him, we got to be in the right spot. He has to trust us to be in the right spot and make the right plays when he finds us if he does get double-teamed.",
+      "verbatim_original_language": "",
+      "start_seconds": 159,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Luke Kennard on Devin Booker facing constant defensive pressure: He is going to see a lot of different coverages this year. We have to be in the right spot and make the right plays when he gets double-teamed.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Luke Kennard discusses how the team must support Devin Booker when opponents use defensive pressure and double-teams against him.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Luke Kennard",
+      "timestamp": "04:25",
+      "summary_phrase": "Luke Kennard on increased physical demands in the modern NBA",
+      "names_mentioned": [],
+      "excerpt": "I do think it's it's a little more than it than it was.",
+      "quote": "I do think it's it's a little more than it than it was. Obviously, it depends on the team, the way they play, the style, the pace, the speed and all that. But yeah, there's a lot of different, you could say they're small things, whether it's like picking up full court, crashing an offensive rebound or just little things that weren't there I guess when I first got into the league. I guess it's more now than it was, but yeah, I mean you're definitely asked to do a little bit more and you know, it is taxing on your body.",
+      "verbatim_original_language": "",
+      "start_seconds": 265,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Luke Kennard notes that the physical demands of the NBA have increased since he entered the league, citing full-court pressure and offensive rebounding as factors that make the game more taxing on the body.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Luke Kennard reflects on how the physical demands and style of play in the NBA have evolved since he entered the league.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "TzB7zxES7TI",
+  "url": "https://www.youtube.com/watch?v=TzB7zxES7TI",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-30T18:59:00Z",
+  "duration_seconds": 349,
+  "processed_at": "2026-10-30T19:18:44Z",
+  "run_id": "2026-10-30T1918Z-14utc",
+  "is_one_off": false
+}

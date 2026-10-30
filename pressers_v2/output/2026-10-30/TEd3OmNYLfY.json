@@ -1,0 +1,263 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | VJ Edgecombe | 10.30.26",
+  "speakers_seen": [
+    "VJ Edgecombe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:14",
+      "summary_phrase": "VJ Edgecombe on playing with LeBron James early in the season",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He's been great. Great leader. He's very vocal. I think that's what helps us a lot.",
+      "quote": "It's so early in the season. We played with three games together I think. But overall he's been great. Great leader. He's very vocal. I think that's what helps us a lot. Obviously that's what helps us a lot. It's kind of what I expected. He obviously leads. You know he's been in the league for a long time and he's been great.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on his early chemistry with LeBron James: He has been great and very vocal, which is exactly what I expected from a leader who has been in the league for a long time.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe discusses his early experience playing alongside LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:49",
+      "summary_phrase": "VJ Edgecombe on the mindset for NBA Cup games",
+      "names_mentioned": [],
+      "excerpt": "At the end of the day, you want to win every regular season game.",
+      "quote": "To be honest, I think it kind of feels like a regular season game. But at the end of the day, you want to win every regular season game. So I think that's obviously a goal of ours, but we just want to go out there, just play hard. If it's a cup game or not, we want to treat it like every other game where we just go out there and be ourselves, play hard and try our best to win.",
+      "text_blocks": [],
+      "start_seconds": 49,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "VJ Edgecombe says the Sixers are treating NBA Cup games like any other regular season matchup: We just want to go out there, play hard, and try our best to win.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains his mindset regarding the intensity of NBA Cup games compared to the regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "01:34",
+      "summary_phrase": "VJ Edgecombe on adjusting to his role with the 76ers",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "I'm not playing with the ball in my hand as much as I did last year.",
+      "quote": "Obviously I'm not playing with the ball in my hand as much as I did last year. But it's all learning experience for me. We're five games in, you know. I ain't going to be perfect. I ain't going to be near perfect. But I just want to make sure I just impact the game. I want to impact the game as much as I can because obviously if I don't have the ball, I got to be able to do something else on the floor. Jalen Brunson kind of praised me for that the other night.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "VJ Edgecombe on adjusting to a new role with the 76ers: I am not playing with the ball in my hand as much as I did last year, but I want to make sure I impact the game in other ways.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses adjusting to an off-ball role and mentions praise received from Jalen Brunson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "02:12",
+      "summary_phrase": "VJ Edgecombe on his defensive development and playing off-ball",
+      "names_mentioned": [],
+      "excerpt": "I think off-ball is something I've been pride myself on just getting better.",
+      "quote": "I think off-ball is something I've been pride myself on just getting better. I just want to make sure I'm better at just playing off the ball. I just want to make sure I don't get lost on defense. Make sure I'm attached to my man as much as possible. Most nights I'm guarding the best player and I just want to make sure that I stay locked in on that. Just try to make it difficult for them.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe is embracing the challenge of guarding the opposing team's best player: I just want to make sure I do not get lost on defense and stay locked in on my man.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe talks about his focus on defensive development and playing off-ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "03:11",
+      "summary_phrase": "VJ Edgecombe on the challenge of the NBA Cup group stage",
+      "names_mentioned": [],
+      "excerpt": "It's a challenge every night. And obviously I think we could get every team's best shot.",
+      "quote": "It's a challenge every night. And obviously I think we could get every team's best shot every night. We just try to make sure that we're connected, so obviously we can continue make strides in the right direction. Forgive me, but I do not know what other teams are in Group B. But it sounds like we got some heavy hitters and at the end of the day, it's just to go out there and make sure we just win.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 222,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "VJ Edgecombe admits he is not focused on the specific teams in their NBA Cup group: It is a challenge every night and we just try to make sure we are connected.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe reflects on the challenge of competing in the NBA Cup group stage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "04:07",
+      "summary_phrase": "VJ Edgecombe on guarding Jalen Brunson",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "He's a great player, really smart, tough shot maker.",
+      "quote": "It does feel like I've played him a lot. Obviously we play in the playoffs. I was just telling one of the coaches, the Knicks is the team I played the most since I get in the NBA. But he's a great player, really smart, tough shot maker. I just try my best just to contain. If we're being realistic, you won't hold anybody to zero points, especially someone of such caliber. I just try my best just to make it difficult.",
+      "text_blocks": [],
+      "start_seconds": 247,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on the difficulty of guarding Jalen Brunson: He is a great player, really smart, and a tough shot maker. I just try my best to make it difficult.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses the difficulty of guarding Jalen Brunson given their frequent matchups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "04:58",
+      "summary_phrase": "VJ Edgecombe on the fundamentals of guarding Jalen Brunson",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "He's very fundamental, and that kind of get lost in today's game.",
+      "quote": "He's very fundamental, and that kind of get lost in today's game. But I say he's a tough cover. He's a tough cover and I just try my best just to make it difficult. He is different from other guards in the NBA. I just try to make sure I'm focused when guarding him because you can get really hot, really fast. He's ahead of the snake for them and I just try to make it difficult.",
+      "text_blocks": [],
+      "start_seconds": 298,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe says Jalen Brunson is different from other guards because he is so fundamental: You have to stay focused when guarding him because he can get really hot, really fast.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe elaborates on the specific challenges of defending Jalen Brunson's fundamental style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "05:48",
+      "summary_phrase": "VJ Edgecombe on Tyrese Maxey's leadership",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I think he's going to be a Hall of Famer also. He works so hard.",
+      "quote": "He's great. I think he's going to be a Hall of Famer also. He works so hard. He works so hard and I say he kind of lead by example. He's vocal, but I think he leads by example better. Every time I talk to him, if I call him and he don't answer, he's in the gym. He's just someone that leads by example, great person on and off the court and I'm happy to be obviously his backcourt mate.",
+      "text_blocks": [],
+      "start_seconds": 348,
+      "end_seconds": 379,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on Tyrese Maxey: I think he is going to be a Hall of Famer. He leads by example and every time I call him and he does not answer, he is in the gym.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe praises the work ethic and leadership style of his teammate Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "TEd3OmNYLfY",
+  "url": "https://www.youtube.com/watch?v=TEd3OmNYLfY",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-30T16:08:34Z",
+  "duration_seconds": 389,
+  "processed_at": "2026-10-30T19:18:57Z",
+  "run_id": "2026-10-30T1918Z-14utc",
+  "is_one_off": false
+}

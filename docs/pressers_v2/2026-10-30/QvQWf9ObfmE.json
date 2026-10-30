@@ -1,0 +1,269 @@
+{
+  "video_title": "Jordan Goodwin Shootaround Media Availability | 10-30-26",
+  "speakers_seen": [
+    "Jordan Goodwin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "00:08",
+      "summary_phrase": "Jordan Goodwin on the Phoenix Suns' early season chemistry",
+      "names_mentioned": [],
+      "excerpt": "It's early. Can't expect to be perfect right now.",
+      "quote": "It's early. Can't expect to be perfect right now. We have an oh-so-kind of changes things up a little bit for us, but we're still figuring it out. We're going to be good. It's what, game four, so we'll be fine.",
+      "start_seconds": 8,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jordan Goodwin says the Suns are still figuring things out early in the season. It is only game four and he believes they will be fine as they adjust to changes.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin discusses the Phoenix Suns' early season chemistry and the process of integrating new players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "00:25",
+      "summary_phrase": "Jordan Goodwin on the impact of returning big men",
+      "names_mentioned": [],
+      "excerpt": "Just another one of our bigs, help us at the rim a little bit, help with the rebounding.",
+      "quote": "Just another one of our bigs, help us at the rim a little bit, help with the rebounding and stuff like that. Not having them out there kind of hurts us a little bit, but we got them back tonight, hopefully. So, it should be a change.",
+      "start_seconds": 25,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Goodwin notes the return of the Suns big men will help the team at the rim and on the glass. He says not having them has hurt the team but their return should spark a change.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Goodwin discusses the impact of returning big men to the lineup after injury absences.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "00:48",
+      "summary_phrase": "Jordan Goodwin on the value of Josh Okogie",
+      "names_mentioned": [
+        "Josh Okogie"
+      ],
+      "excerpt": "Having a player like Josh Okogie, he helps us out tremendously.",
+      "quote": "It's just taking it to a whole other level with Josh Okogie, man. With both units, because he doesn't go out there and play with the first unit as well. But like I said, having a player like Josh Okogie, he helps us out tremendously. Basically being our point guard for that second unit, we play a lot through him. So, love to have him back. Probably open the floor more for Kevin Durant and Luke and probably myself, and some more cuts around as well.",
+      "start_seconds": 48,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Goodwin praises Josh Okogie for his role as the point guard for the second unit. He says having Okogie back helps the team play through him and opens the floor for stars like Kevin Durant.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Josh Okogie",
+          "Kevin Durant"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Goodwin explains the value Josh Okogie brings to the team as a playmaker for the second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "01:16",
+      "summary_phrase": "Jordan Goodwin on the need for better team communication",
+      "names_mentioned": [],
+      "excerpt": "I think we all got to take more accountability of talking a little bit more, communicating.",
+      "quote": "I think we all got to take more accountability of talking a little bit more, communicating. Things are happening out there kind of fast, so I think just understanding personnel, understanding the roles, and who we're guarding will help us out as well. But communication got to get picked up a little bit more as well.",
+      "start_seconds": 76,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Goodwin says the Suns need to improve their defensive communication and accountability. He emphasizes the need for players to better understand personnel and roles on the floor.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin emphasizes the need for better communication and accountability among teammates on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "01:40",
+      "summary_phrase": "Jordan Goodwin on the competitive nature of the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "The money kind of brings more competitive spirits out for everybody.",
+      "quote": "The different court, most of all, is what, 500k for the winner? Yeah, so that's definitely on our minds. I know I need it, so I'm definitely going to play a little extra harder tonight for that. So, I think the money kind of brings more competitive spirits out for everybody.",
+      "start_seconds": 100,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Goodwin admits the 500k prize for the NBA Cup is on the players' minds. He says the money definitely brings more competitive spirits out for everybody.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin shares his thoughts on the competitive incentive provided by the NBA Cup prize money.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "02:08",
+      "summary_phrase": "Jordan Goodwin on the Suns' defensive rebounding struggles",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "The last game we went one through five a little bit, and I got caught on James Harden.",
+      "quote": "The last game we went one through five a little bit, and I got caught on James Harden a couple times, and James Harden not being James Harden, he kind of finished over me. So, just that one through five unit, we got to be a little bit more aggressive, but it's tough. These guys are seven foot, we're going in there six three, so we got to be we got to move them out a little bit more and collectively gain rebound.",
+      "start_seconds": 128,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Goodwin addresses the Suns' rebounding struggles against bigger opponents. He says the team must be more aggressive and collectively gain rebounds when playing smaller lineups.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "PHX",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin reflects on defensive challenges and rebounding struggles against James Harden and the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "02:36",
+      "summary_phrase": "Jordan Goodwin on defensive goals for the team",
+      "names_mentioned": [],
+      "excerpt": "Just like easy transition buckets, more transition. You'll see our half-court numbers go up.",
+      "quote": "Just like easy transition buckets, more transition. You'll see our half-court numbers go up. And I think the biggest thing, the the rebound numbers. I feel we're doing a good job of forcing misses, we just got to come up with the rebound in that possession to help us out.",
+      "start_seconds": 156,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Goodwin says the Suns' focus is on generating more transition buckets and finishing defensive possessions by securing rebounds.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin outlines the team's defensive goals regarding transition play and securing defensive rebounds.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "03:05",
+      "summary_phrase": "Jordan Goodwin on opponents crashing the boards",
+      "names_mentioned": [],
+      "excerpt": "They're definitely boxing me out. They're definitely paying attention to the scout, sending guys.",
+      "quote": "They're definitely boxing me out. They're definitely paying attention to the scout, sending guys. So, like I said, the NBA changed and everybody's going in there, guys crashing four to five guys every possession. So, we just got to keep doing it and just use it to our advantage.",
+      "start_seconds": 185,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jordan Goodwin notes that opponents are actively boxing him out and crashing the boards with four or five guys every possession.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin discusses how opponents are adjusting their rebounding strategy against him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "03:50",
+      "summary_phrase": "Jordan Goodwin on the frequency of player injuries",
+      "names_mentioned": [],
+      "excerpt": "It's crazy, especially in the sport, you hate it when you see guys go down.",
+      "quote": "It's crazy, especially in the sport, you hate it when you see guys go down, especially early in the season with guys put all that work in the summertime. So, I don't know what's the thing about injuries. Really can't say style of play. Don't want to say bad luck, I mean it's part of the game, it just happens. But to all those guys that are hurt right now, I'm praying for them, hoping they get better.",
+      "start_seconds": 230,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Goodwin reflects on the high number of early season injuries across the league. He says it is crazy to see guys go down after all the work they put in during the summer.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Goodwin expresses his thoughts on the prevalence of early-season injuries across the league.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QvQWf9ObfmE",
+  "url": "https://www.youtube.com/watch?v=QvQWf9ObfmE",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-30T18:54:08Z",
+  "duration_seconds": 291,
+  "processed_at": "2026-10-30T19:18:49Z",
+  "run_id": "2026-10-30T1918Z-14utc",
+  "is_one_off": false
+}
