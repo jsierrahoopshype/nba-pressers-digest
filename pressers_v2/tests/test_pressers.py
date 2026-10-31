@@ -330,6 +330,39 @@ class ContentTypeTests(unittest.TestCase):
         self.assertEqual(pe.classify_content_type(t, gemini_value="podcast", config=CONFIG), ("podcast", "gemini"))
         self.assertEqual(pe.classify_content_type(t, config=CONFIG), ("presser", "default"))
 
+    def test_channel_forced_presser_beats_podcast_keyword(self):
+        # HoopsHype uploads are filed as pressers even when the title says "podcast"
+        t = "HoopsHype Podcast: trade deadline reactions"
+        self.assertEqual(pe.classify_content_type(t, config=CONFIG, forced="presser"), ("presser", "channel"))
+        self.assertEqual(pe.classify_content_type(t, is_one_off=True, config=CONFIG, forced="presser")[0], "oneoff")
+
+
+class AllUploadsChannelTests(unittest.TestCase):
+    def _run(self, channel):
+        uploads = [{"video_id": "aaaaaaaaaaa", "title": "Why the Knicks should trade for Giannis",
+                    "published": "2099-01-01T00:00:00Z"},
+                   {"video_id": "bbbbbbbbbbb", "title": "Knicks postgame press conference",
+                    "published": "2099-01-01T00:00:00Z"}]
+        orig = (pe.get_uploads_playlist_id, pe.list_recent_uploads)
+        pe.get_uploads_playlist_id = lambda cid, key: "UU" + cid[2:]
+        pe.list_recent_uploads = lambda pid, key, n: [dict(u) for u in uploads]
+        try:
+            from datetime import datetime, timezone
+            return pe.discover_candidates([channel], CONFIG, "k", datetime(2000, 1, 1, tzinfo=timezone.utc))
+        finally:
+            pe.get_uploads_playlist_id, pe.list_recent_uploads = orig
+
+    def test_team_channel_keeps_title_filter(self):
+        got = self._run({"team": "New York Knicks", "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx"})
+        self.assertEqual([u["video_id"] for _, u in got], ["bbbbbbbbbbb"])
+        self.assertNotIn("force_content_type", got[0][1])
+
+    def test_hoopshype_channel_takes_every_upload_as_presser(self):
+        hh = next(c for c in CONFIG["channels"] if c["team"] == "HoopsHype")
+        got = self._run(hh)
+        self.assertEqual([u["video_id"] for _, u in got], ["aaaaaaaaaaa", "bbbbbbbbbbb"])
+        self.assertTrue(all(u["force_content_type"] == "presser" for _, u in got))
+
 
 class ClipperPickTests(unittest.TestCase):
     CLIPS = [

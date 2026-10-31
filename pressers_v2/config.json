@@ -228,6 +228,17 @@
       "team": "Washington Wizards",
       "channel_id": "UChvzoBPvORuNGtHTMzjUsIQ",
       "active": true
+    },
+    {
+      "team": "HoopsHype",
+      "channel_id": "UCgDspuaEJxeNlfaPKTHCSJA",
+      "active": true,
+      "all_uploads": true,
+      "content_type": "presser",
+      "handle_candidates": [
+        "@hoopshype"
+      ],
+      "_comment": "HoopsHype's own channel: every upload is transcribed (no title keyword filter) and filed under press conferences. Duration, livestream and 48h window checks still apply."
     }
   ]
 }

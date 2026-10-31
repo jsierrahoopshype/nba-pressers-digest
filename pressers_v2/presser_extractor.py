@@ -232,7 +232,7 @@ def title_names_speaker(title: str, name: str) -> bool:
 
 
 def classify_content_type(title: str, is_one_off: bool = False, gemini_value=None,
-                          config: dict | None = None) -> tuple[str, str]:
+                          config: dict | None = None, forced: str = "") -> tuple[str, str]:
     """-> (content_type, source). extra_videos are always "oneoff". Otherwise
     the config's content_type_keywords decide, checked in order (podcast
     first, so "Chase Down Podcast Live: Media Day Reactions" is a podcast);
@@ -240,6 +240,10 @@ def classify_content_type(title: str, is_one_off: bool = False, gemini_value=Non
     "presser"."""
     if is_one_off:
         return "oneoff", "extra_videos"
+    if forced in CONTENT_TYPES:
+        # Channel-level override (config.json "content_type" on the channel),
+        # e.g. every HoopsHype upload is filed as a press conference.
+        return forced, "channel"
     cfg = config if config is not None else _CONFIG
     keywords = cfg.get("content_type_keywords") or DEFAULT_CONTENT_TYPE_KEYWORDS
     low = (title or "").lower()
@@ -823,7 +827,7 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
     is_one_off = bool(video.get("is_one_off"))
     # yt-quotes routes its one-offs to output/oneoffs/; pressers keeps every
     # video in output/<date>/ and marks one-offs with content_type instead.
-    ytq_video = {k: v for k, v in video.items() if k != "is_one_off"}
+    ytq_video = {k: v for k, v in video.items() if k not in ("is_one_off", "force_content_type")}
     _tl.duration = int(video.get("duration") or 0)
     status, data = ytq.process_video(client, ytq_video, team, [], [])
     if status != "ok" or not data:
@@ -833,7 +837,8 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
     apply_clip_fields(data, derived, team, int(video.get("duration") or 0))
     apply_structured_fields(data, derive_structured_fields(client, data, team))
     data["content_type"], data["content_type_source"] = classify_content_type(
-        data.get("video_title") or video.get("title") or "", is_one_off, derived.get("content_type"))
+        data.get("video_title") or video.get("title") or "", is_one_off, derived.get("content_type"),
+        forced=video.get("force_content_type") or "")
     data.update({
         "format": FORMAT_VERSION,
         "video_id": video["video_id"],
@@ -1291,9 +1296,15 @@ def discover_candidates(channels: list, config: dict, yt_key: str, cutoff: datet
             pub = parse_iso(up["published"])
             if pub and pub < cutoff:
                 continue
-            reason = title_filter(up["title"], config)
-            if reason:
-                continue
+            # all_uploads channels (e.g. HoopsHype's own) take every upload;
+            # the duration / livestream / window checks still apply later.
+            if not channel.get("all_uploads"):
+                reason = title_filter(up["title"], config)
+                if reason:
+                    continue
+            forced = channel.get("content_type") or ""
+            if forced:
+                up = dict(up, force_content_type=forced)
             out.append((team, up))
             kept += 1
         log(f"  [{team}] {len(uploads)} recent upload(s), {kept} presser candidate(s) in window")
@@ -1427,6 +1438,8 @@ def main() -> int:
             "published": m["published_at"] or up["published"],
             "live": m.get("live", "none"),
         }
+        if up.get("force_content_type"):
+            video["force_content_type"] = up["force_content_type"]
         if per_channel_count.get(team, 0) >= max_per_channel:
             continue
         reason = filter_video(video, config, cutoff)
