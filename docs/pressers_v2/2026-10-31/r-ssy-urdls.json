@@ -1,0 +1,84 @@
+{
+  "video_title": "Collin Gillespie Postgame Media Availability | 10-30-26",
+  "speakers_seen": [
+    "Collin Gillespie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Collin Gillespie",
+      "timestamp": "02:11",
+      "summary_phrase": "Collin Gillespie on the team's evolving defensive and offensive chemistry",
+      "names_mentioned": [],
+      "excerpt": "this loss feels different than Portland obviously and OKC because it's more of the way that we",
+      "quote": "This loss feels different than Portland obviously and OKC because it's more of the way that we were doing some of the stuff that we pride ourselves on, the stuff that we talk about. It's definitely like there's moving parts. Obviously last year guys were in and out of the lineup so offensively we're still figuring out all being on the floor together. Defensively we added some new guys, Mamadi Diakite didn't really play a ton last year so he's doing a great job. We're going to continue to grow, we're going to continue to learn from the stuff and I said in the locker room the world's not ending.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Collin Gillespie says the Suns are still working on chemistry with new pieces in the rotation. He noted that while the loss is frustrating, the team is focused on growing together and that the world is not ending.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mamadi Diakite"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Gillespie discusses the team's ongoing chemistry development and defensive adjustments following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Collin Gillespie",
+      "timestamp": "06:46",
+      "summary_phrase": "Collin Gillespie on the team's unwavering confidence in Jalen Green",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "everybody has unbelievable confidence in Jalen Green and we support him just tell him to go out there",
+      "quote": "There's 82 games in a season. Sometimes you're going to have quiet nights, sometimes you're going to have off nights. Everybody has unbelievable confidence in Jalen Green and we support him just tell him to go out there, continue to play, continue to take his shots, continue to play hard. His energy is infectious, we can feel it. Obviously when he's going the crowd can feel it, we can pick up off of that. So just trying to tell him to continue to keep going. Obviously when Dillon Brooks went out I was like, yo, this is going to flip for you at some point really soon, continue to put pressure on the defense. And then if your shot's not falling just do other stuff, which he normally does really well.",
+      "text_blocks": [],
+      "start_seconds": 406,
+      "end_seconds": 456,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Collin Gillespie says the team maintains total confidence in Jalen Green despite his recent shooting struggles. He emphasized that Green's energy remains infectious and urged him to keep playing hard and putting pressure on the defense.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Green",
+          "Dillon Brooks"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Gillespie expresses support for Jalen Green following a difficult shooting performance and discusses the impact of Dillon Brooks leaving the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "r-ssy-urdls",
+  "url": "https://www.youtube.com/watch?v=r-ssy-urdls",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-10-31T15:27:10Z",
+  "duration_seconds": 496,
+  "processed_at": "2026-10-31T18:30:53Z",
+  "run_id": "2026-10-31T1830Z-14utc",
+  "is_one_off": false
+}

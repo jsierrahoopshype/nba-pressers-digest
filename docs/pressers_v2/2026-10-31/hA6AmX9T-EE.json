@@ -1,0 +1,442 @@
+{
+  "video_title": "Shootaround Media Availability with JWill and Bennett | October 31, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Jalen Williams",
+    "Cason Wallace",
+    "Nick Gallo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Williams",
+      "speakers": [],
+      "timestamp": "00:04",
+      "summary_phrase": "Jalen Williams on maintaining team competitiveness despite roster changes",
+      "names_mentioned": [],
+      "excerpt": "Regardless of who is on the court you can always compete with five guys",
+      "quote": "It is just about playing together, sticking to what we do. Of course, situations have changed, personnel has changed, but the thing that we have always done good is competing together. Regardless of who is on the court you can always compete with five guys, and I think if we put that foot forward, that is going to give us the best opportunity to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Williams on the Thunder mindset amid roster changes: It is just about playing together and sticking to what we do. Regardless of who is on the court you can always compete with five guys.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams discusses how the team maintains competitiveness and team chemistry despite recent roster changes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Williams",
+      "speakers": [],
+      "timestamp": "00:30",
+      "summary_phrase": "Jalen Williams on Cason Wallace's leadership and confidence",
+      "names_mentioned": [
+        "Cason Wallace"
+      ],
+      "excerpt": "He is the head of the snake of the team",
+      "quote": "Just confidence. He is the head of the snake of the team, and when you are head of the snake, it brings the confidence, the same confidence that we can win. Of course, everybody else is going to have the same confidence. Just the confidence on him, being himself regardless of the situation.",
+      "verbatim_original_language": "",
+      "start_seconds": 30,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Williams calls Cason Wallace the head of the snake for the Thunder: It brings the confidence, the same confidence that we can win. Just the confidence on him, being himself regardless of the situation.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Williams praises Cason Wallace for his leadership and confidence on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Williams",
+      "speakers": [],
+      "timestamp": "01:11",
+      "summary_phrase": "Jalen Williams on supporting teammates during injury absences",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "I was texting Chet last night and he was like I will do whatever I can do",
+      "quote": "I just feel bad for everybody. I understand what it takes in the summer, what it takes throughout the whole year to get ready for the season, the hours, the extra time that you put in, the dedication away from your family, away from your friends, the eating well the whole summer. Those guys put in all that work throughout the summer to be healthy and be here for us and for the team and for the state of Oklahoma. I feel bad for them, but those guys, I was texting Chet last night and he was like I will do whatever I can do for y'all while I am not with the team. Just sticking together as a team, honestly the biggest feeling for me is just feeling bad for those guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jalen Williams shares that Chet Holmgren is staying involved despite his injury: I was texting Chet last night and he was like I will do whatever I can do for y'all while I am not with the team.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Jalen Williams expresses sympathy for injured teammates and mentions a text conversation with Chet Holmgren regarding his absence.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Williams",
+      "speakers": [],
+      "timestamp": "02:10",
+      "summary_phrase": "Jalen Williams on how adversity builds team character",
+      "names_mentioned": [],
+      "excerpt": "Tough times is what builds character",
+      "quote": "I think it just builds our connectedness as a team. You get stronger when you are going through tough times, you get closer when you are going through tough times, you get better when you are going through tough times. I think tough times is what builds character, and for our team, we have had a lot of character moments where we could have folded in those situations, but we continue to get closer and get tighter as a team.",
+      "verbatim_original_language": "",
+      "start_seconds": 130,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Williams on how the Thunder are handling adversity: Tough times is what builds character, and for our team, we have had a lot of character moments where we could have folded in those situations, but we continue to get closer.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams explains how the team uses adversity to build character and connectedness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Williams",
+      "speakers": [],
+      "timestamp": "02:47",
+      "summary_phrase": "Jalen Williams on Cason Wallace's aggressive mindset",
+      "names_mentioned": [
+        "Cason Wallace"
+      ],
+      "excerpt": "I feel like he is going into those games just playing the right brand of basketball",
+      "quote": "Honestly a different mindset. I feel like he is going into those games just playing the right brand of basketball, playing aggressive, going out there and doing what the team needs him to do while not trying to overdo it at the same time. I am happy for him, and I am sad for him the same way he is for his moments. I was super excited to see him play this season for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Williams on Cason Wallace: I feel like he is going into those games just playing the right brand of basketball, playing aggressive, going out there and doing what the team needs him to do while not trying to overdo it.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Williams discusses Cason Wallace's aggressive mindset and his development as a player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jalen Williams",
+      "speakers": [],
+      "timestamp": "03:33",
+      "summary_phrase": "Jalen Williams on his father's influence and staying positive",
+      "names_mentioned": [],
+      "excerpt": "There is always somebody worse, there is always somebody in looking at the bright side of things",
+      "quote": "For me personally, from my dad, my dad has kind of always just been like there is always somebody worse, there is always somebody in looking at the bright side of things, and just trying to stay positive. I was telling everybody after we lost last game, I was like we lost bad, but at least we lost in the NBA. That is kind of the mindset that I try to think is it could always be worse, and trying to stay positive in situations like these.",
+      "verbatim_original_language": "",
+      "start_seconds": 213,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jalen Williams on keeping perspective: I was telling everybody after we lost last game, I was like we lost bad, but at least we lost in the NBA. That is kind of the mindset that I try to think is it could always be worse.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams shares how his father's advice helps him maintain a positive perspective after tough losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Gallo",
+      "speakers": [
+        "Nick Gallo",
+        "Cason Wallace"
+      ],
+      "timestamp": "04:00",
+      "summary_phrase": "Nick Gallo and Cason Wallace on adjusting to NBA arenas",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "There is nothing better than actually being on the floor across somebody to get a familiarity",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "Thunder is here in Houston. This is back where they ended the preseason. I have got Cason Wallace here as they are here in an early regular season clash between these two Western Conference teams. Bennett, what does that do for you as a guy that came down here towards the end of the preseason? You are still getting familiar with the league and there is nothing better than actually being on the floor across somebody to get a familiarity with their game and the personnel on another team."
+        },
+        {
+          "speaker": "Cason Wallace",
+          "text": "It means a lot. Actually, we played March Madness in this arena too, so I am just getting used to all the arenas and I do not know, it is different shooting in NBA arenas with the backdrops and everything. So, still trying to get used to that, but it is great when you have a team like this who you can just lean on."
+        }
+      ],
+      "start_seconds": 240,
+      "end_seconds": 299,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on adjusting to NBA arenas: It is different shooting in NBA arenas with the backdrops and everything. So, still trying to get used to that, but it is great when you have a team like this who you can just lean on.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Cason Wallace discusses the challenges of adjusting to shooting in different NBA arenas compared to college venues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "05:01",
+      "summary_phrase": "Cason Wallace on the team's resilient mentality",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "No one feels sorry for you and you cannot feel sympathy",
+      "quote": "We had a team meeting today and it was just like no one feels sorry for you and you cannot feel sympathy. You just got to stay confident and keep attacking teams and keep attacking the day. So I think if we keep that mentality throughout the season, we will be just fine.",
+      "verbatim_original_language": "",
+      "start_seconds": 301,
+      "end_seconds": 321,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Cason Wallace on the Thunder team meeting: No one feels sorry for you and you cannot feel sympathy. You just got to stay confident and keep attacking teams and keep attacking the day.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Cason Wallace reflects on a team meeting where the players discussed maintaining a resilient mentality throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "05:30",
+      "summary_phrase": "Cason Wallace on how to attack the Houston Rockets",
+      "names_mentioned": [],
+      "excerpt": "You attack them first but I think you do that by just getting on the glass",
+      "quote": "You attack them first, but I think you do that by just getting on the glass, beating closeouts, just doing all the little things that add up to the big things. So I think if we do those little things like rebounding, not turning the ball over, those things add up.",
+      "verbatim_original_language": "",
+      "start_seconds": 330,
+      "end_seconds": 350,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Cason Wallace on the game plan against Houston: You attack them first, but I think you do that by just getting on the glass, beating closeouts, just doing all the little things that add up to the big things.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Cason Wallace explains the team's strategy for attacking the Houston Rockets by focusing on rebounding and limiting turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "06:06",
+      "summary_phrase": "Cason Wallace on making quick decisions against the Rockets",
+      "names_mentioned": [],
+      "excerpt": "I am not the quickest guy out there so I got to make quick decisions",
+      "quote": "I am not the quickest guy out there so I got to make quick decisions, and the Rockets switch like you said, so you just got to have quick decisions and we were working on switch attacks today and being ready to shoot and whatever team needs me to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 366,
+      "end_seconds": 385,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cason Wallace on facing the Rockets defense: I am not the quickest guy out there so I got to make quick decisions, and the Rockets switch like you said, so you just got to have quick decisions.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Cason Wallace discusses the importance of making quick decisions when facing the defensive switching scheme of the Houston Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "06:38",
+      "summary_phrase": "Cason Wallace on the impact of playing with stars",
+      "names_mentioned": [
+        "Jared McCain",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "It is kind of easy when you have MVP out there",
+      "quote": "It is kind of easy when you have MVP out there, it makes the game a lot easier for you and even AJ. You got a lot of guys looking at them when they have the ball and when they get to the paint, it just makes it a lot easier to find open spots.",
+      "verbatim_original_language": "",
+      "start_seconds": 398,
+      "end_seconds": 419,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Cason Wallace on playing alongside stars: It is kind of easy when you have MVP out there, it makes the game a lot easier for you. You got a lot of guys looking at them when they have the ball.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cason Wallace explains how playing alongside star teammates makes the game easier for him by creating open opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "07:08",
+      "summary_phrase": "Cason Wallace on the importance of guards rebounding",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "We got to go in there and do it",
+      "quote": "We got to go in there and do it. We can talk about it all we want, but they have got their hands full down there, Chet, J-Will, J-Will. So we got to go in there and help them because they are not going to be able to do it by themselves, and the guards are really crashing in the NBA, that is what I have learned, so we got to go help them out.",
+      "verbatim_original_language": "",
+      "start_seconds": 428,
+      "end_seconds": 457,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Cason Wallace on the importance of guards rebounding: The guards are really crashing in the NBA, that is what I have learned, so we got to go help them out.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cason Wallace emphasizes the need for guards to assist the big men with rebounding duties during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Cason Wallace",
+      "speakers": [],
+      "timestamp": "07:36",
+      "summary_phrase": "Cason Wallace on his relationship with Mark Daigneault",
+      "names_mentioned": [
+        "Mark Daigneault"
+      ],
+      "excerpt": "He just cares about you off the court and then that just makes you have a better connection",
+      "quote": "I think he just cares about you off the court and then that just makes you have a better connection when you are on the court with them. You trust him, he might invite me over to his house for dinner, so I think it is pretty cool just getting closer with him and knowing that he trusts me and I trust him.",
+      "verbatim_original_language": "",
+      "start_seconds": 456,
+      "end_seconds": 480,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Cason Wallace on his relationship with Mark Daigneault: He might invite me over to his house for dinner, so I think it is pretty cool just getting closer with him and knowing that he trusts me and I trust him.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mark Daigneault"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Cason Wallace describes his personal relationship and trust with head coach Mark Daigneault.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "hA6AmX9T-EE",
+  "url": "https://www.youtube.com/watch?v=hA6AmX9T-EE",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-10-31T17:11:03Z",
+  "duration_seconds": 480,
+  "processed_at": "2026-10-31T18:30:47Z",
+  "run_id": "2026-10-31T1830Z-14utc",
+  "is_one_off": false
+}

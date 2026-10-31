@@ -1,0 +1,103 @@
+{
+  "video_title": "Shaq and Charles Barkley on the Heat",
+  "speakers_seen": [
+    "Shaquille O'Neal",
+    "Charles Barkley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shaquille O'Neal",
+      "timestamp": "00:00",
+      "summary_phrase": "Shaquille O'Neal on Giannis Antetokounmpo needing more selfless play",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "When times get hard they just give the ball to Giannis and everybody just waiting around.",
+      "quote": "When times get hard they just give the ball to Giannis and everybody just waiting around. They have to figure out a way to have continuous ball movement, everybody touching the ball. Giannis is going to have to sometime be a little bit more unselfish.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 17,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Shaquille O'Neal says Giannis Antetokounmpo needs to be more unselfish on offense. Shaq notes that when times get hard the team just waits for Giannis instead of having continuous ball movement.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Shaquille O'Neal discusses the offensive struggles of the Milwaukee Bucks and suggests that Giannis Antetokounmpo needs to prioritize ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Barkley",
+      "speakers": [
+        "Shaquille O'Neal",
+        "Charles Barkley"
+      ],
+      "timestamp": "00:24",
+      "summary_phrase": "Charles Barkley on Giannis Antetokounmpo needing to trust his teammates",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Bam Adebayo",
+        "Davion Mitchell"
+      ],
+      "excerpt": "I'm not going to play like I played in Milwaukee. I'm going to trust Bam.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Shaquille O'Neal",
+          "text": "It has nothing to do with Spo."
+        },
+        {
+          "speaker": "Charles Barkley",
+          "text": "It has nothing to do with the head coach. The coaching matters, but the player has to like accept it like, you know what, I'm not going to play like I played in Milwaukee. I'm going to trust Bam. I'm going to trust Davion. When you're a great player, you have to say I know I can score or get a shot every time, but if I get these other guys involved, that's going to free me up. And Giannis is going to have to do like I told you, I use Pat Riley's word, voluntary cooperation. Coach Spo is a great coach, probably the best coach in NBA today, but Giannis can't be stubborn. He's got to get off the ball."
+        }
+      ],
+      "start_seconds": 24,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Charles Barkley says Giannis Antetokounmpo cannot be stubborn and needs to trust his teammates. Barkley argues that Giannis must get off the ball and involve players like Bam Adebayo to be successful.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Giannis Antetokounmpo",
+          "Bam Adebayo",
+          "Davion Mitchell",
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Barkley discusses how Giannis Antetokounmpo needs to trust his teammates and adapt to Erik Spoelstra's coaching style to improve the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "d0G9_f46X60",
+  "url": "https://www.youtube.com/watch?v=d0G9_f46X60",
+  "channel_team": "HoopsHype",
+  "published": "2026-10-29T20:08:38Z",
+  "duration_seconds": 66,
+  "processed_at": "2026-10-31T18:30:54Z",
+  "run_id": "2026-10-31T1830Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,229 @@
+{
+  "video_title": "Postgame Interview (10/30/26) | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:08",
+      "summary_phrase": "Tyronn Lue on Kawhi Leonard's impact and defensive value",
+      "names_mentioned": [
+        "Kawhi Leonard",
+        "Derrick Jones Jr."
+      ],
+      "excerpt": "when he's on the floor, we're a much better team",
+      "quote": "We took Kawhi Leonard out to try to give him the right stints. When he's on the floor, we're a much better team. Offensively, just being able to handle the pressure, run stuff with Derrick Jones Jr. off the ball, and then defensively what he brings every single night. We were down eight, then it goes to 11, then they make another one to go to 14, and at that point it was over. But I love our fight back to get back in the game.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyronn Lue says the Clippers are a much better team when Kawhi Leonard is on the floor, noting his ability to handle pressure and his defensive impact every night.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard",
+          "Derrick Jones Jr."
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyronn Lue discusses Kawhi Leonard's impact on the team and his offensive chemistry with Derrick Jones Jr. during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:54",
+      "summary_phrase": "Tyronn Lue on defensive breakdowns in pick-and-roll coverage",
+      "names_mentioned": [],
+      "excerpt": "being a little too far back in the pick-and-roll, which allowed their guys to get downhill",
+      "quote": "Being a little too far back in the pick-and-roll, which allowed their guys to get downhill and roll into the basket. There was a lot of pressure, so the bigs were indecisive in between. And then you pull in an extra, and they're skipping it out for threes. They got some threes in transition. We've been great at pick-and-roll defense all year, but tonight they really exploited it.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tyronn Lue admits the Clippers defensive scheme was exploited tonight, specifically citing indecisive pick and roll coverage that allowed opponents to get downhill and find open shooters.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue explains the defensive breakdowns in pick-and-roll coverage that allowed the opponent to score effectively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:23",
+      "summary_phrase": "Tyronn Lue on reducing turnovers and improving offensive execution",
+      "names_mentioned": [],
+      "excerpt": "we still got to get better. At times we did a little too much over-dribbling",
+      "quote": "I thought we did pretty good early on, three or four were offensive fouls, so not a lot of live-ball turnovers, which allowed us to keep the game close. But we still got to get better. At times we did a little too much over-dribbling instead of just getting off of it, getting it back. But for the most part, I thought we had the right intent, we tried to do the right things, and it just didn't go our way tonight.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue says the Clippers need to improve their offensive execution and avoid over dribbling, noting that while the intent was there, the execution did not go their way.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue evaluates his team's offensive execution and turnover management following their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:46",
+      "summary_phrase": "Tyronn Lue praises James Harden's decisive playmaking",
+      "names_mentioned": [
+        "James Harden",
+        "Canaan",
+        "Dunn",
+        "Rudy Gobert"
+      ],
+      "excerpt": "quick to the point, understood where his shots were going to come from",
+      "quote": "James Harden was quick to the point, understood where his shots were going to come from. I thought Canaan and Dunn did a great job just showing how they're going to play defensively, where our shots are going to come from, how Rudy Gobert's going to play the pick-and-rolls. So I thought he was just quick to the point, didn't mess around with the basketball, got right to his spots, and I thought he did a better job tonight.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyronn Lue praised James Harden for being quick to the point and not messing around with the basketball, saying he did a better job tonight of getting to his spots.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden",
+          "Kris Dunn",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "LAC",
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyronn Lue praises James Harden for his decisive playmaking and discusses how his team handled Rudy Gobert's defensive presence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:13",
+      "summary_phrase": "Tyronn Lue on the need for consistent 48-minute performance",
+      "names_mentioned": [],
+      "excerpt": "have a 48-minute game on both sides of the basketball",
+      "quote": "Just a game 48 minutes, both offense and defense. For the season we've been playing like a half a good defense, a half a good offense, not so good offense, but great defensively. So just kind of put it all together and have a 48-minute game on both sides of the basketball.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyronn Lue says the Clippers are still searching for a complete 48 minute performance on both ends of the floor, noting they have been inconsistent throughout the season.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue emphasizes the need for his team to maintain consistent performance on both ends of the floor for a full 48 minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Unidentified speaker",
+      "timestamp": "02:40",
+      "summary_phrase": "Unidentified player on defensive lapses and transition defense",
+      "names_mentioned": [],
+      "excerpt": "we just got to take something away. We can't allow them to take whatever shot they want",
+      "quote": "We couldn't get the ball through the net and that's one of those times we couldn't get a stop. We just got to take something away. We can't allow them to take whatever shot they want, get the shots that they like. We just got to live with some of the shots that they some contested shots, obviously, but a lot of the threes they took was uncontested for a reason. We just got to get a hand up and play with better defense.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 192,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "An unidentified Clippers player says the team must improve their defensive focus, noting that too many of the opponent's threes were uncontested tonight.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "An unidentified Clippers player reflects on defensive lapses and the team's failure to contest shots effectively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Unidentified speaker",
+      "timestamp": "03:33",
+      "summary_phrase": "Unidentified player on reducing turnovers and offensive aggression",
+      "names_mentioned": [],
+      "excerpt": "not making careless passes, just trying to always get a shot on goal",
+      "quote": "Not making careless passes, just trying to always get a shot on goal. I feel like our offense is up there with the best in the league, so we just got to stick with it and keep taking the open shots that we do, just being aggressive.",
+      "text_blocks": [],
+      "start_seconds": 213,
+      "end_seconds": 231,
+      "speaker_confidence": "inferred",
+      "news_score": 3,
+      "social_post": "An unidentified Clippers player emphasizes the need to cut down on careless passes and maintain offensive aggression to keep the team among the best in the league.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "An unidentified Clippers player discusses the importance of reducing careless passes and maintaining offensive aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "JWK2E2Vcey8",
+  "url": "https://www.youtube.com/watch?v=JWK2E2Vcey8",
+  "channel_team": "LA Clippers",
+  "published": "2026-10-31T18:19:15Z",
+  "duration_seconds": 262,
+  "processed_at": "2026-10-31T18:30:42Z",
+  "run_id": "2026-10-31T1830Z-14utc",
+  "is_one_off": false
+}
