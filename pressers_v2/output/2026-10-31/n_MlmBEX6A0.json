@@ -1,0 +1,166 @@
+{
+  "video_title": "Nate Ament Media Availability | 10.30.26",
+  "speakers_seen": [
+    "Nate Ament",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nate Ament",
+      "timestamp": "00:32",
+      "summary_phrase": "Nate Ament on the importance of defensive assignments for rookies",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "Pascal Siakam",
+        "Kevin Durant"
+      ],
+      "excerpt": "as a rookie that's a way to earn minutes. Go out there and make a statement on defense",
+      "quote": "As a rookie that's a way to earn minutes. Go out there and make a statement on defense specifically. Another reason because I grew up watching those players and when I see the hype about them, I want to see if I can match up with them. So that's why I've favored those matchups. That's my mentality. It has always been to compete at the highest level, guard the best player. The game is all about competition at the end of the day. It's a game, so let's have fun with it. Going against those heavy hitters is enjoyable for me.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nate Ament says his path to earning minutes as a rookie is clear. My mentality is to compete at the highest level and guard the best player. The game is all about competition at the end of the day.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament discusses his defensive mentality and the importance of guarding elite players as a rookie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nate Ament",
+      "timestamp": "01:30",
+      "summary_phrase": "Nate Ament on the physical demands of defending in the NBA",
+      "names_mentioned": [],
+      "excerpt": "guys are so much faster laterally and in getting downhill. It's more about lateral quickness",
+      "quote": "The NBA is a very physical league, but guys are so much faster laterally and in getting downhill. It's more about lateral quickness and how fast you can start, stop, and how much you can absorb a blow. That's what I'm learning. Overall strength is going to help me in general. I'm capable now, obviously I can continue to improve, but that's not to say I'm not capable. So just keep on putting on weight and strength and I know I'll be good.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nate Ament on the physical adjustment to the NBA. It is more about lateral quickness and how fast you can start stop and how much you can absorb a blow. I am just going to keep on putting on weight and strength.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament reflects on the physical adjustments required to defend in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nate Ament",
+      "timestamp": "02:26",
+      "summary_phrase": "Nate Ament on the difficulty of guarding elite scorers like Kevin Durant",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "it's public knowledge at this point that Kevin Durant is going to try to get to his",
+      "quote": "It's public knowledge at this point that Kevin Durant is going to try to get to his pull-up. He's going to try to shoot over top of you. As a kid, I remember thinking I just want to guard him. I think I could do a good job on him. Then you get all excited when you get out there, you're jumping at every pump fake, you're trying to push him and shove him. It's got to be super specific because the margin for error, the margin for winning and losing is very thin. It's almost what is this guy like doing versus what he's not like doing and what are you showing him on defense.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nate Ament on the challenge of guarding Kevin Durant. You get all excited when you get out there and you are jumping at every pump fake. The margin for winning and losing is very thin.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "MIL",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Nate Ament explains the tactical challenges of defending Kevin Durant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nate Ament",
+      "timestamp": "03:31",
+      "summary_phrase": "Nate Ament on adjusting to an off-ball role in the NBA",
+      "names_mentioned": [],
+      "excerpt": "it's a different role. It's a role that I've never really played before, playing off the ball",
+      "quote": "When I'm open I got to shoot it. I got to be ready when my shots are there, my opportunities are there. It's a different role. It's a role that I've never really played before, playing off the ball and not being on the ball as much. It can be frustrating at times, but we know that for the success of this team, we got to get better off the ball. We're getting to know each other, but it's one thing to say it in practice, but can we do it in the game?",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nate Ament admits adjusting to an off ball role has been a challenge. It is a role that I have never really played before and it can be frustrating at times but we know for the success of this team we have to get better off the ball.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nate Ament describes the adjustment to playing an off-ball role in the team's offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nate Ament",
+      "timestamp": "05:11",
+      "summary_phrase": "Nate Ament on the team's process and mentality after a blowout loss",
+      "names_mentioned": [],
+      "excerpt": "it goes back down to our process. Are we making the right play?",
+      "quote": "The margins for a 30-point game versus a 5-point game can be very thin at times, even though the score looks different. It goes back down to our process. Are we making the right play? Sometimes we'll make the right play but we just won't make the shot. Can we stick with it, continue with the process of when my teammate's open I got to throw them the ball? We're getting to know each other, but it's one thing to say it in practice. Can we do it in the game? That's what we've been working on with our mentality. Every single rep, every single practice, every single play in the game possession, can we do the right play and make the right play and just continue to grow as a team?",
+      "text_blocks": [],
+      "start_seconds": 311,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nate Ament on the Bucks process after a blowout loss. The margins for a 30 point game versus a 5 point game can be very thin. It goes back down to our process and making the right play.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament discusses the team's need to maintain their process and mentality following a blowout loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "n_MlmBEX6A0",
+  "url": "https://www.youtube.com/watch?v=n_MlmBEX6A0",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-31T00:00:21Z",
+  "duration_seconds": 362,
+  "processed_at": "2026-10-31T07:06:01Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

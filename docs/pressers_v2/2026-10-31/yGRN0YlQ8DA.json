@@ -1,0 +1,295 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 10.30.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:04",
+      "summary_phrase": "Nick Nurse praises Tyrese Maxey's all-around performance against the Knicks",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I thought he was really good all the way through tonight.",
+      "quote": "I thought he was really good all the way through tonight. I thought that he got some downhill stuff, used his size and knocked them around a little bit for some layups. I thought he obviously pushed and organized. I thought he was a little quicker to make some decisions to shoot the three-ball as well, and then obviously make a couple big plays down the stretch. That was really good, best game, just all around. I mean he's been good, but that was his best game for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse says Tyrese Maxey played his best game of the season against the Knicks, noting he was quicker to make decisions and aggressive in getting downhill for layups.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nick Nurse discusses Tyrese Maxey's performance following the 76ers' game against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:54",
+      "summary_phrase": "Nick Nurse on the importance of the 76ers' low-post offense",
+      "names_mentioned": [],
+      "excerpt": "Our play out of the low post has been excellent.",
+      "quote": "I think we needed it. Our play out of the low post has been excellent. It's either been a bucket or a cut for a layup for somebody else or a kick-out three. Again, we need to have some variety of things. I know the low-post game is infrequently used these days, but I think for us with guys spacing and cutting, it's been pretty good to us.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse explains why the 76ers are leaning into low-post offense despite it being infrequently used across the league, citing the team's spacing and cutting ability.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse explains the tactical importance of the 76ers' low-post offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:42",
+      "summary_phrase": "Nick Nurse on the importance of answering the Knicks' late-game runs",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "It was very important that we answered immediately.",
+      "quote": "That's their thing. If you get in a possession game with them late, they've made an art out of pulling those out. So I think it was very important that we answered immediately. It was a pretty good shot and a pretty quick answer to take the lead right back. That's always a huge momentum-wise.",
+      "verbatim_original_language": "",
+      "start_seconds": 102,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on the importance of answering the Knicks late-game runs, saying it was crucial to respond immediately to maintain momentum in a possession-based game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Nick Nurse reflects on the importance of responding to the Knicks' late-game scoring runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:42",
+      "summary_phrase": "Nick Nurse on the impact of the 76ers' bench rotation",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "Dean"
+      ],
+      "excerpt": "With missing one of your impact scorers, it's going to change the rotations a lot.",
+      "quote": "With missing one of your impact scorers, it's going to change the rotations a lot and somebody of the threes is probably going to be out there on their own. That was Tyrese tonight. It was a good thing that was scoring. I thought, you know, obviously had an amazing game. They do play a little smaller, so it gave us a chance to get five on in there with Tyrese and who were both scoring. But that was a good stretch.",
+      "verbatim_original_language": "",
+      "start_seconds": 162,
+      "end_seconds": 194,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse discusses how missing an impact scorer forces rotation changes, noting that Tyrese Maxey stepped up to carry the scoring load during key stretches.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse discusses how the 76ers' bench rotation changed due to an impact scorer being sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "03:48",
+      "summary_phrase": "Nick Nurse on Joel Embiid's ability to make clutch plays",
+      "names_mentioned": [
+        "BJ",
+        "Brunson"
+      ],
+      "excerpt": "He's going to make plays in the crunch time of the game.",
+      "quote": "He just does that. I think we all know it. We even talk about it, that he's going to make plays in the crunch time of the game. Makes a huge three, comes flying in for rebound, maybe blocks a shot like in the past and things like that. He really is a playmaker in crunch time and he did it again tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 228,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse praises Joel Embiid for his clutch performance, calling him a playmaker who consistently makes winning plays in the final minutes of games.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse praises Joel Embiid's ability to execute clutch plays in the final moments of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:26",
+      "summary_phrase": "Nick Nurse on the 76ers' defensive identity and half-court execution",
+      "names_mentioned": [],
+      "excerpt": "The half-court especially has been phenomenal.",
+      "quote": "It's been very, very good. I think that the half-court especially has been phenomenal because our starting and especially ending goes through some moments still. We are getting it back and getting set up. I thought we gave up a few too many second-chance shots, but when it's set, the physicality, the communication, the keeping the ball in front, the really not quitting on plays, not biting on fakes, not giving up angles. We made them take 10 shots where they were just stuck and they had to throw up a turnaround probably with still challenged it. So you have that many good defensive possessions in a game, it's going to take you a long way.",
+      "verbatim_original_language": "",
+      "start_seconds": 266,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse says the 76ers half-court defense has been phenomenal, highlighting the team's physicality and communication in forcing difficult shots.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Nick Nurse evaluates the 76ers' defensive performance and half-court execution against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Nurse",
+      "timestamp": "05:31",
+      "summary_phrase": "Nick Nurse on the team's rapid chemistry and shared intent",
+      "names_mentioned": [],
+      "excerpt": "Their intent, focus and energy from day one of training camp has led them to success.",
+      "quote": "I just keep going back to their intent, focus and energy from day one of training camp has led them to be able to have the success. They've really had good intent with playing hard. They've had good intent with sharing the ball. Doesn't always happen, but they want to do it. They talk about it, they pop it around a lot in practice and in drills and things like that. So again, their intent of playing the right way has been there from the beginning.",
+      "verbatim_original_language": "",
+      "start_seconds": 331,
+      "end_seconds": 364,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse credits the 76ers early success to the team's intent, focus, and energy, noting that they have been committed to sharing the ball since training camp.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse comments on the team's chemistry and shared intent since the start of training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nick Nurse",
+      "timestamp": "06:23",
+      "summary_phrase": "Nick Nurse on Joel Embiid's defensive impact and mobility",
+      "names_mentioned": [
+        "Joel",
+        "Hard",
+        "OG"
+      ],
+      "excerpt": "He's actually, when they find his guy on the perimeter, he's sliding with them.",
+      "quote": "He's gotten out to make a semi-trap, he's gotten up, he's filtered back and then he's actually, when they find his guy on the perimeter, whether it was Hard or OG or whoever, he's sliding with them to keep them in front. He's not getting, he's not staying off to give up a three. He's usually making those guys pass and by then, that's been a pretty long offensive possession. So yeah, he's doing a lot of that stuff really good.",
+      "verbatim_original_language": "",
+      "start_seconds": 383,
+      "end_seconds": 414,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse highlights Joel Embiid's defensive mobility, noting his ability to slide with perimeter players and prevent open threes.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse details the defensive mobility and impact Joel Embiid displayed during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Nick Nurse",
+      "timestamp": "07:13",
+      "summary_phrase": "Nick Nurse on LeBron James' leadership and impact on teammates",
+      "names_mentioned": [
+        "LeBron"
+      ],
+      "excerpt": "Great players make those around them better.",
+      "quote": "I think the biggest thing for us is he gives us tremendous leadership. He really helps with the organization on the floor. I think great players make those around them better and I think he does that. It's in a lot of ways. It's talking, it's passing, it's organization, it's just confidence, all those things and that's probably the biggest thing.",
+      "verbatim_original_language": "",
+      "start_seconds": 433,
+      "end_seconds": 456,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Nick Nurse discusses the leadership impact of a star player, noting that great players make those around them better through communication and organization.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the leadership qualities and impact of LeBron James on his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "yGRN0YlQ8DA",
+  "url": "https://www.youtube.com/watch?v=yGRN0YlQ8DA",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-31T04:46:58Z",
+  "duration_seconds": 489,
+  "processed_at": "2026-10-31T07:04:38Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

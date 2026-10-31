@@ -1,0 +1,140 @@
+{
+  "video_title": "Post Game Press Conference l Duncan Robinson l Pistons at Nets   10.30.26 #NBA",
+  "speakers_seen": [
+    "Duncan Robinson",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Duncan Robinson",
+      "timestamp": "00:10",
+      "summary_phrase": "Duncan Robinson on the Pistons' identity and winning despite poor shooting",
+      "names_mentioned": [],
+      "excerpt": "we can win games in different ways. They're not all going to be ugly, but that's what's required.",
+      "quote": "That's more to our identity. We can win games in different ways. They're not all going to be ugly, but that's what's required. That's what we'll do. We didn't make a lot of shots tonight as a group, but I thought we took the right ones for the most part. We stayed process-driven on it, but we got a lot of stops. Of course, a lot of turnovers, which is great for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Duncan Robinson on the Pistons winning despite a poor shooting night: We can win games in different ways. They are not all going to be ugly, but that is what is required.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Duncan Robinson discusses the team's ability to win despite poor shooting performance during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speakers": [
+        "Unidentified speaker",
+        "Duncan Robinson"
+      ],
+      "timestamp": "01:15",
+      "summary_phrase": "Duncan Robinson on the team's reaction to Ron's performance",
+      "names_mentioned": [
+        "Ron"
+      ],
+      "excerpt": "I think you saw just the reaction from the group on the bench, how much we all love seeing it.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What was it like for you guys just to see the performance that Ron had today, especially knowing how hard he works on his game, especially on offensive end and his shots?"
+        },
+        {
+          "speaker": "Duncan Robinson",
+          "text": "It was awesome. I think you saw just the reaction from the group on the bench, how much we all love seeing it. He deserves it, he earns it. Sometimes in this league, you can do all the right things and it doesn't necessarily mean that it's going to come together, but it's going to come together. He's had some really positive stretches that we've seen, and it came to fruition today. We expect a lot more of that. We all know the player that he is, what he's capable of, and when he plays with confidence, he's a different player."
+        }
+      ],
+      "start_seconds": 75,
+      "end_seconds": 126,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "Duncan Robinson on Ron's breakout performance: He deserves it, he earns it. We all know the player that he is, what he is capable of, and when he plays with confidence, he is a different player.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ron Holland"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Duncan Robinson reacts to a question about Ron Holland's strong performance and his hard work during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speakers": [
+        "Unidentified speaker",
+        "Duncan Robinson"
+      ],
+      "timestamp": "01:55",
+      "summary_phrase": "Duncan Robinson on the team's offensive growth and aggressiveness",
+      "names_mentioned": [
+        "AT"
+      ],
+      "excerpt": "I think it's starting to slow down for him, for sure. I think anytime you start the season, there's all these narratives.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We saw AT was everywhere on both ends, especially in the first half. Just how have you seen him kind of grow into his game and understand how much work that meant to keep you guys on offense with his being aggressive?"
+        },
+        {
+          "speaker": "Duncan Robinson",
+          "text": "I think it's starting to slow down for him, for sure. I think anytime you start the season, there's all these narratives and expectations and what not. Just getting the opportunity to try to settle, a couple games in, we start to get back to our identity as a group. And then for him, I mean, he's so versatile, he's so dynamic. He's just fun to play with. The rim pressure that he's able to provide is really unique. For us, it's really on us to allow him and unlock the best version of himself. Obviously, he's going to will it himself, but it's a group and collective effort."
+        }
+      ],
+      "start_seconds": 115,
+      "end_seconds": 167,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "Duncan Robinson on the growth of AT: I think it is starting to slow down for him. The rim pressure that he is able to provide is really unique. It is on us to allow him and unlock the best version of himself.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ausar Thompson"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Duncan Robinson discusses the growth and offensive impact of Ausar Thompson during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ZO_WAzdMxVU",
+  "url": "https://www.youtube.com/watch?v=ZO_WAzdMxVU",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-31T02:36:43Z",
+  "duration_seconds": 167,
+  "processed_at": "2026-10-31T07:05:53Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

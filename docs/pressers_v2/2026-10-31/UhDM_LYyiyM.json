@@ -1,0 +1,176 @@
+{
+  "video_title": "Taylor Jenkins Media Availability | 10.30.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:27",
+      "summary_phrase": "Taylor Jenkins on team's defensive intensity and offensive rhythm",
+      "names_mentioned": [],
+      "excerpt": "the integrity of our defense fell with our offense. I'm always going to be the first one",
+      "quote": "I think a combination of a couple things. I feel like we didn't have the right morning setting, so that starts with me and the preparedness. When the game got going, the integrity of our defense fell with our offense. I'm always going to be the first one to stand out front and go, how can I help these guys continue to get better offensively, find our rhythm? Certain guys are struggling right now making shots, or we're not touching the paint as frequent as we need to night to night, and that can linger and impact our defensive intensity. So, start with some focus on the defense in the morning that I needed to tighten up a little bit better, knowing that's got to be a calling card for us every single day.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins takes responsibility for the team's slow start, saying he didn't have the right morning setting and that the integrity of their defense is falling when the offense struggles.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins discusses his responsibility for the team's lack of defensive intensity and offensive rhythm during his media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:42",
+      "summary_phrase": "Taylor Jenkins on the potential of the Miles and Kelle frontcourt",
+      "names_mentioned": [
+        "Miles",
+        "Kelle"
+      ],
+      "excerpt": "I've liked what potentially Kelle and Miles can do at the four and the five",
+      "quote": "It's still early to make that real firm going in one direction or the other. I've liked what potentially Kelle and Miles can do at the four and the five. I think Kelle at the five has actually progressed to being something good for us, both offensively and defensively, and there's still even more room for growth there. As you said, with Nate and Nuse, kind of integrating them at the four with Cooz, and sometimes even playing small ball, haven't had a lot of sample size there and maybe sometimes reactionary to what's happening in the game to give us a spark and maybe jolt something on the offensive side that we may need. But that's definitely something I'm keeping in my mind.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins says he is still evaluating the Kelle and Miles frontcourt pairing, noting that Kelle at the five has progressed well but there is still room for growth.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kelle",
+          "Miles",
+          "Nate",
+          "Nuse",
+          "Cooz"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins evaluates the potential of different frontcourt pairings and small-ball lineups early in the season.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:54",
+      "summary_phrase": "Taylor Jenkins on Kelle's defensive impact and role as an anchor",
+      "names_mentioned": [
+        "Kelle"
+      ],
+      "excerpt": "when he's active at that five and he's an anchor and we're in our drop coverages",
+      "quote": "It's both. I think his ability to roll, his ability to stretch the floor, I think he's made more of an impact in his rolling right now. He'll continue to get more comfortable in our system on the perimeter as a five, and that's why I think the growth with the four, his ability to stretch the floor but also be a playmaker in the second side, I think can be something that we want to continue to add to his player development. But on the defensive side, just when he's active at that five and he's an anchor and we're in our drop coverages, I want even more out of that. He's hearing that from me every single day. More activity with that leads to blocks or steals, just what impact he's making at the rim.",
+      "text_blocks": [],
+      "start_seconds": 174,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins wants more defensive activity from Kelle as an anchor in drop coverage, specifically looking for more blocks and steals to make a bigger impact at the rim.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kelle"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the offensive development and defensive expectations for Kelle while playing as a center.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:17",
+      "summary_phrase": "Taylor Jenkins on Kelle's playmaking and decision-making development",
+      "names_mentioned": [
+        "Kelle"
+      ],
+      "excerpt": "his ability to organize, ability to attack space and touch the paint and create kind of a rhythm",
+      "quote": "Finishing games, his ability to organize, ability to attack space and touch the paint and create kind of a rhythm for us offensively is something that I've been really excited about. Obviously, when he gets in traffic, he's had good moments to draw fouls or kick out, and there are other times where it has led to a turnover. But his ability to get in the paint is something that is very exciting for us. His ability to finish, the three-point shots are going to continue to come along as well, but I think with a point of attack offensive player that can get downhill for us, but also organize and play off the ball is something that's intriguing when it comes to him.",
+      "text_blocks": [],
+      "start_seconds": 257,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins is excited about Kelle's ability to organize the offense and get into the paint, noting that his development as a point of attack player is intriguing for the team.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kelle"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins highlights Kelle's progress in organizing the offense and his ability to attack the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "05:44",
+      "summary_phrase": "Taylor Jenkins on team discipline and defensive pressure against Cleveland",
+      "names_mentioned": [],
+      "excerpt": "just our discipline with them, how we're navigating their isos and their pick and rolls",
+      "quote": "Always game-to-game, game plan discipline. Every individual team is going to have their star players that are going to be featured on the offensive side. They've got a lot of collection of great players up and down that lineup. Obviously in their backcourt, just our discipline with them, how we're navigating their isos and their pick and rolls and their ability to create contact and get to the free throw line. We've got to get better in playing aggressive without fouling, but then also we've got to be able to still be relentless with our pressure. So where is our point of attack defense, whether that's one through five? It's a big that's handling as a passer, it's one of our four men guarding in isolation, it's constant pick and rolls and we're switching or not switching, how we're just constantly putting their initial creators under duress as much as possible.",
+      "text_blocks": [],
+      "start_seconds": 344,
+      "end_seconds": 402,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ahead of the matchup with Cleveland, Taylor Jenkins says the team must improve at playing aggressive defense without fouling to handle the Cavs' backcourt and iso threats.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins outlines the defensive game plan and the need for discipline against Cleveland's backcourt.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "UhDM_LYyiyM",
+  "url": "https://www.youtube.com/watch?v=UhDM_LYyiyM",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-31T00:02:28Z",
+  "duration_seconds": 411,
+  "processed_at": "2026-10-31T07:05:56Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

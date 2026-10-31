@@ -1,0 +1,236 @@
+{
+  "video_title": "“We Started The Game Off On The Right Note.” | Jaden Mcdaniels Postgame Sound | 10.30.26",
+  "speakers_seen": [
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:04",
+      "summary_phrase": "Bones Hyland's impact on the Timberwolves' bench energy",
+      "names_mentioned": [
+        "Bones Hyland"
+      ],
+      "excerpt": "Bones brought a bunch of energy off the bench, just being creative, making shots.",
+      "quote": "Bones brought a bunch of energy off the bench, just being creative, making shots, doing what we know Bones can do. So it was just good to see. He had almost 10 assists as well, so that was good to see. We know how Bones is capable of making shots, doing everything, so it was just good to see him go out there and do that.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaden McDaniels praised the energy Bones Hyland brought off the bench tonight, noting his playmaking ability and the impact of his 10 assists on the Timberwolves offense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bones Hyland"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels discusses the energy and playmaking Bones Hyland provided off the bench during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:24",
+      "summary_phrase": "How Bones Hyland's passing creates offensive spacing",
+      "names_mentioned": [
+        "Bones Hyland"
+      ],
+      "excerpt": "When Bones passes, he gets off of it, they still got to respect him.",
+      "quote": "When Bones passes, he gets off of it, they still got to respect him because he shoots from so deep as well. So it just helps us open space for us, and he going to continue to do it. I know he will.",
+      "verbatim_original_language": "",
+      "start_seconds": 24,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaden McDaniels explains how Bones Hyland helps the Timberwolves offense, noting that his deep shooting threat forces defenses to respect him even when he is moving the ball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bones Hyland"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels explains how Bones Hyland creates offensive spacing for the team through his shooting and passing ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:34",
+      "summary_phrase": "LaMelo Ball's versatility as a three-level scorer and passer",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I know LaMelo, he could do three-level score, pass to any kind of pass in the world.",
+      "quote": "I know LaMelo, he could do three-level score, pass to any kind of pass in the world. So that's what I expected, and it's like the LaMelo I remember going up against in Charlotte, so it's good.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaden McDaniels on facing LaMelo Ball, saying he is the same three-level scorer and elite passer he remembers from their time competing against each other in Charlotte.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels reflects on the offensive versatility of LaMelo Ball after playing against him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:21",
+      "summary_phrase": "Jaden McDaniels on his high shooting efficiency this season",
+      "names_mentioned": [],
+      "excerpt": "I just work on my game so much to where I could get 15 points off five shots.",
+      "quote": "I just work on my game so much to where I could get 15 points off five shots. So it's just how the game was to be honest.",
+      "verbatim_original_language": "",
+      "start_seconds": 81,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaden McDaniels on his efficiency this season, saying he works on his game enough that he can get 15 points off just five shots.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels comments on his own high shooting efficiency and work ethic during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:44",
+      "summary_phrase": "McDaniels' approach to playmaking and avoiding forced shots",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "JC"
+      ],
+      "excerpt": "If I see two on the ball, not trying to force things.",
+      "quote": "If I see two on the ball, not trying to force things. I think I found JC for a three one time, that's probably the only assist I remember, but just being unselfish.",
+      "verbatim_original_language": "",
+      "start_seconds": 104,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jaden McDaniels says his focus is on being unselfish and not forcing shots when he sees two defenders on the ball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jordan Clarkson"
+        ],
+        "teams": [
+          "MIN",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels describes his unselfish approach to playmaking when facing double teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:16",
+      "summary_phrase": "Jaden McDaniels' evaluation of Jalen McDaniels' defensive intensity",
+      "names_mentioned": [
+        "Jalen McDaniels"
+      ],
+      "excerpt": "He relentless, he super strong and like you see no matter what, he always pursuing.",
+      "quote": "He relentless, he super strong and like you see no matter what, he always pursuing, like he never gives up. And I mean, I don't like when he guard me, so I know they really hate it.",
+      "verbatim_original_language": "",
+      "start_seconds": 136,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaden McDaniels on the defensive intensity of Jalen McDaniels, saying he is relentless and pursues the ball constantly, adding that he does not like being guarded by him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen McDaniels"
+        ],
+        "teams": [
+          "MIN",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels praises the defensive intensity and relentless effort of Jalen McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:44",
+      "summary_phrase": "Jaden McDaniels' natural shift toward finishing at the rim",
+      "names_mentioned": [],
+      "excerpt": "It's more natural, like it kind of just clicks in the moment.",
+      "quote": "It's more natural, like it kind of just clicks in the moment, like knowing how high I am. I mean, I could probably dunk it every time, but I don't know, I just choose not to.",
+      "verbatim_original_language": "",
+      "start_seconds": 164,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jaden McDaniels says his ability to finish at the rim is becoming more natural, noting that he could probably dunk it every time if he wanted to.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses his natural decision-making process when choosing to finish at the rim.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "U7tIjWfRa9Q",
+  "url": "https://www.youtube.com/watch?v=U7tIjWfRa9Q",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-31T04:34:49Z",
+  "duration_seconds": 197,
+  "processed_at": "2026-10-31T07:04:53Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

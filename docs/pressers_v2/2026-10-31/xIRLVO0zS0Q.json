@@ -1,0 +1,240 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 10.30.26",
+  "speakers_seen": [
+    "VJ Edgecombe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:00",
+      "summary_phrase": "VJ Edgecombe on Jalen Brunson's fundamental skill set",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "He knows how to use the fundamentals of the game really well.",
+      "quote": "He is a really great player. He knows how to use the fundamentals of the game really well. Obviously, he is a tough shot maker, so he is a really great player and I just try my best just to be there, just to make sure I am contesting every shot.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on Jalen Brunson: He knows how to use the fundamentals of the game really well. Obviously he is a tough shot maker so he is a really great player and I just try my best to be there and contest every shot.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses his defensive approach while guarding Jalen Brunson during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:49",
+      "summary_phrase": "VJ Edgecombe on his shooting confidence and shot selection",
+      "names_mentioned": [],
+      "excerpt": "I still get to shoot the ball regardless if it is the right shot.",
+      "quote": "I needed it to happen from the first quarter where I am making shots. Obviously, early I have not been making a lot of threes, but they are going to fall and I will keep shooting the ball. I still get to shoot the ball regardless if it is the right shot. If it is the right shot, I am going to make sure I shoot the ball.",
+      "text_blocks": [],
+      "start_seconds": 49,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on his shooting struggles: Early I have not been making a lot of threes but they are going to fall and I will keep shooting the ball. If it is the right shot I am going to make sure I shoot the ball.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe reflects on his shooting performance and his confidence in his shot selection during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "02:00",
+      "summary_phrase": "VJ Edgecombe on defending elite players and maintaining composure",
+      "names_mentioned": [],
+      "excerpt": "When you guard the best player almost every night, they are going to make tough shots.",
+      "quote": "When you guard the best player almost every night, they are going to make tough shots. They are really great players throughout this league. I cannot hang my head down and get mad because he made a tough shot. He shot it over me, I kind of did my job, but it is going to happen. For me, when guarding players, I just try to make sure every shot is difficult or contested to where if they make a bunch of contested shots, you win the game like that, credit to them.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on defending elite players: I cannot hang my head down and get mad because he made a tough shot. I just try to make sure every shot is difficult or contested to where if they make a bunch of contested shots you win the game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains his mindset when defending elite players and dealing with them making difficult shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "03:28",
+      "summary_phrase": "VJ Edgecombe on pick-and-roll chemistry with Tyrese Maxey",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "Me and Maxey are going to pick and roll when I have obviously a better defender.",
+      "quote": "Me and Maxey are going to pick and roll when I have obviously a better defender. I just try to create a little bit of space for him. All he needs is an advantage and I just gave him that advantage by setting the screen, holding the screen and then they go double. I like my odds with threes with anybody in front of him.",
+      "text_blocks": [],
+      "start_seconds": 208,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "VJ Edgecombe on his pick and roll chemistry with Tyrese Maxey: I just try to create a little bit of space for him. All he needs is an advantage and I just gave him that advantage by setting the screen and holding the screen.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe describes his pick-and-roll chemistry and screen-setting role with teammate Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "04:31",
+      "summary_phrase": "VJ Edgecombe on LeBron James' leadership and vocal presence",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He is composed, he is relaxed, he knows, but he is also just so vocal.",
+      "quote": "He has been in a bunch of different scenarios. He has been in the league 24, 25 years. He is composed, he is relaxed, he knows, but he is also just so vocal. That kind of helps us all the time. Just him being so vocal gives us the confidence to guard, expect certain actions, or he calls out something before it happens.",
+      "text_blocks": [],
+      "start_seconds": 271,
+      "end_seconds": 295,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on LeBron James: He is composed and he is relaxed but he is also just so vocal. That kind of helps us all the time. He calls out something before it happens.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe praises LeBron James for his vocal leadership and ability to help the team defensively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "05:17",
+      "summary_phrase": "VJ Edgecombe on building chemistry with Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I like my odds with him too in any one-on-one.",
+      "quote": "I like my odds with him too in any one-on-one. When they go double him, obviously teams are going to rotate and I just try to find that gap where I can cut or just find a window for him. He is a good passer. He acts like he cannot pass, but he can pass. He does not want to pass, let me say that, but he can pass. I just try to find a window for him, just give him an outlet.",
+      "text_blocks": [],
+      "start_seconds": 317,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "VJ Edgecombe on Joel Embiid: He is a good passer. He acts like he cannot pass but he can pass. He does not want to pass let me say that but he can pass. I just try to find a window for him and give him an outlet.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe discusses his offensive chemistry with Joel Embiid and finding open windows when teams double-team him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "06:18",
+      "summary_phrase": "VJ Edgecombe on the team's collective defensive commitment",
+      "names_mentioned": [
+        "LeBron James",
+        "Tyrese Maxey",
+        "Joel Embiid"
+      ],
+      "excerpt": "We have everyone that is just willing to guard.",
+      "quote": "We have everyone that is just willing to guard. We are all just willing to guard and that is important. We are connected. In training camp, we obviously work on our standard, our principles, and we just execute from there. When you have obviously someone like LeBron, JB, Joel, and Tyrese, everyone is vocal and then you just have me, KCP, and everyone just fighting through screens and just doing our job. We are all just taking the challenge on defending.",
+      "text_blocks": [],
+      "start_seconds": 378,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on the Sixers defensive identity: We have everyone that is just willing to guard. We are all just willing to guard and that is important. We are connected.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Joel Embiid",
+          "Tyrese Maxey",
+          "Kentavious Caldwell-Pope"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe comments on the team's collective defensive commitment and the communication between key players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "xIRLVO0zS0Q",
+  "url": "https://www.youtube.com/watch?v=xIRLVO0zS0Q",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-31T04:49:23Z",
+  "duration_seconds": 422,
+  "processed_at": "2026-10-31T07:04:36Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

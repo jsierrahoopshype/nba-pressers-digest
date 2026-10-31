@@ -1,0 +1,326 @@
+{
+  "video_title": "“The Bench Came In & Gave Us The Boost We Needed.” | Chris Finch Postgame Sound | 10.30.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:00",
+      "summary_phrase": "Jaylen Clark's defensive impact against Darius Garland",
+      "names_mentioned": [
+        "Jaylen Clark",
+        "Darius Garland"
+      ],
+      "excerpt": "Jaylen Clark was a plus 23 in 17 minutes. It seemed like in the second half defensively on Garland",
+      "quote": "Jaylen Clark was a plus 23 in 17 minutes. It seemed like in the second half defensively on Garland, it really changed the game. They tightened the game up in the second quarter when we put him in with five or six minutes left to go. That was the stabilizer there. They were about to make a big run, it felt like, and Jaylen came in and was awesome. It allowed us to get Jaden off of them, give him a break, and just give them a different look. He was really, really good and we have seen him do this before, so it was the perfect time for him.",
+      "start_seconds": 0,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch credited Jaylen Clark for changing the game against Cleveland, noting his defensive impact on Darius Garland was the stabilizer the team needed when they were about to make a run.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Clark",
+          "Darius Garland",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN",
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Chris Finch discusses Jaylen Clark's defensive impact and rotation adjustments during the game against Cleveland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:41",
+      "summary_phrase": "Jaylen Clark's development as a chase defender",
+      "names_mentioned": [
+        "Jaylen Clark"
+      ],
+      "excerpt": "He's good on the ball, he makes plays out of nothing defensively. He's getting way better",
+      "quote": "He's good on the ball, he makes plays out of nothing defensively. He's getting way better as a chase defender.",
+      "start_seconds": 41,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch is seeing growth in Jaylen Clark, specifically highlighting his development as a chase defender who makes plays out of nothing on the ball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Clark"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates the defensive development of Jaylen Clark.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:03",
+      "summary_phrase": "Nickeil Alexander-Walker's aggressive playmaking role",
+      "names_mentioned": [
+        "Nickeil Alexander-Walker"
+      ],
+      "excerpt": "Nickeil is at his best when he's going somewhere with the ball. He's got a lot of wiggle",
+      "quote": "Nickeil is at his best when he's going somewhere with the ball. He's got a lot of wiggle to his game and he's very shifty. Sometimes he doesn't always go somewhere and put pressure on the defense, whether it be to drive or to keep them honest and finish. When he's playing in straight lines, he's really dynamic and opens up everything for him: scoring, passing, and shooting for his teammates.",
+      "start_seconds": 63,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says Nickeil Alexander-Walker is at his best when he plays in straight lines, noting his dynamic ability to open up the offense for himself and teammates when he puts pressure on the defense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nickeil Alexander-Walker"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the optimal way for Nickeil Alexander-Walker to play offensively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "01:46",
+      "summary_phrase": "Rudy Gobert's adjustment to defensive pressure",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "He made all the right plays when the ball came his way. They kept trusting him",
+      "quote": "He made all the right plays when the ball came his way. They kept trusting him and it's part of the process right now. Just keep working on that connection in the different coverages that we see where Rudy is open there. He had a couple of really good kick-outs from the pocket that got us some easy buckets.",
+      "start_seconds": 106,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch says the team is still working on the connection with Rudy Gobert in different coverages, but praised his decision-making and kick-outs from the pocket.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch comments on Rudy Gobert's decision-making and playmaking against defensive coverages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "02:20",
+      "summary_phrase": "Joe Ingles' steady presence and potential for more",
+      "names_mentioned": [
+        "Joe Ingles"
+      ],
+      "excerpt": "He's been steady and he's made some timely plays. I do feel like there's another gear",
+      "quote": "He's been steady and he's made some timely plays. I do feel like there's another gear in him and we got to find that gear.",
+      "start_seconds": 140,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch says Joe Ingles has been steady for the Timberwolves, but believes there is still another gear in him that the team needs to find.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joe Ingles"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the performance and potential of Joe Ingles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "02:49",
+      "summary_phrase": "Importance of bench scoring production",
+      "names_mentioned": [],
+      "excerpt": "Particularly with Naz moving into the starting lineup, you're going to need some punch off the bench",
+      "quote": "Particularly with Naz moving into the starting lineup, you're going to need some punch off the bench. The last couple of games, the second half of the Cleveland game, most of the Golden State game, and then tonight, the bench has been great. They've come in and they've gotten energy, they've gotten easy baskets, they've guarded well for the most part, and picked up the pace a little bit. They're in a good rhythm.",
+      "start_seconds": 169,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "With Naz Reid in the starting lineup, Chris Finch says the bench has been vital, providing the energy and scoring punch the team needs to maintain their rhythm.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "MIN",
+          "CLE",
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch explains the importance of bench production following Naz Reid's move to the starting lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Chris Finch",
+      "timestamp": "03:30",
+      "summary_phrase": "Jaylen Clark's playmaking ability as a secondary creator",
+      "names_mentioned": [
+        "Jaylen Clark"
+      ],
+      "excerpt": "He shines as a scorer and as a playmaker in that role",
+      "quote": "When the ball hits you in some level of randomness, the defense is not able to execute the coverages that they might do if you're put in the action right away. He's got the ability to see and he's got really good feel and touch and passing. He can get to his shot, so just by getting to his shot pretty easily, it puts a lot of pressure on the middle of the defense, which forces people to collapse a little bit. He shines as a scorer and as a playmaker in that role.",
+      "start_seconds": 210,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says Jaylen Clark shines as a secondary creator because his ability to get to his shot easily puts pressure on the middle of the defense and forces them to collapse.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Clark"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch breaks down Jaylen Clark's offensive skill set and playmaking ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Chris Finch",
+      "timestamp": "04:20",
+      "summary_phrase": "Philosophy behind flexible bench rotations",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "We felt that we had license to go anywhere on the bench and even more so now",
+      "quote": "A lot of it is whether it's just feeling our way through the game, trying to get matchups out there, or just reacting to what's going on in the game. We got a lot of guys who can play and we thought, even before the Anthony Edwards injury, that we had license to go anywhere on the bench and even more so now.",
+      "start_seconds": 260,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says the Timberwolves have license to go deep into their bench, noting that their rotation strategy is flexible and reactive to the flow of the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Chris Finch explains his philosophy on bench rotations and how Anthony Edwards' injury impacts his decision-making.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Chris Finch",
+      "timestamp": "05:03",
+      "summary_phrase": "Jaden McDaniels' improved composure and foul management",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He's learning to govern his activity. He always plays hard and goes after everything",
+      "quote": "He's learning to govern his activity. He always plays hard and goes after everything, and that's what we love about him. But sometimes his over-aggressiveness will put him in foul trouble. He's done a better job of just being smart in the things that he pursues. Naturally, the game is going to slow down for him a little bit as the game slows down, then his anticipation picks up and hopefully it will go from better from strength to strength.",
+      "start_seconds": 303,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch says Jaden McDaniels is doing a better job of governing his activity and being smart with his aggression to avoid foul trouble.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses Jaden McDaniels' growth in managing his aggressiveness and foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Chris Finch",
+      "timestamp": "05:42",
+      "summary_phrase": "Attacking zone defense with ball movement",
+      "names_mentioned": [],
+      "excerpt": "I did like our body movement was pretty good against it. We did move the ball well",
+      "quote": "I did like our body movement was pretty good against it. We did move the ball well. We got some decent looks, we just weren't able to convert. We've had a tendency in years gone by to be stagnant against the zone, but our movement off the ball was good.",
+      "start_seconds": 342,
+      "end_seconds": 361,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch was pleased with the team's off-ball movement against the zone, noting that while they struggled to convert, they avoided the stagnation that has plagued them in previous years.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates the team's offensive execution against zone defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "L8vCm69wiuY",
+  "url": "https://www.youtube.com/watch?v=L8vCm69wiuY",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-10-31T03:58:28Z",
+  "duration_seconds": 376,
+  "processed_at": "2026-10-31T07:05:13Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

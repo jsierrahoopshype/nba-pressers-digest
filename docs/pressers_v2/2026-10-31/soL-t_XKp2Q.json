@@ -1,0 +1,131 @@
+{
+  "video_title": "Jakob Poeltl | Post Game vs Orlando Magic | October 30, 2026",
+  "speakers_seen": [
+    "Jakob Poeltl"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "00:10",
+      "summary_phrase": "Jakob Poeltl on finding balance in pick-and-roll situations",
+      "names_mentioned": [],
+      "excerpt": "I just had some more opportunities. We talked about it a little bit in practice to find some more balance",
+      "quote": "I don't think it made that big a difference honestly for me. I just had some more opportunities. We talked about it a little bit in practice to find some more balance there in our pick-and-roll situations for me to get back to being a little bit more aggressive in those situations and that worked out a couple times today.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jakob Poeltl says the Raptors focused on finding more balance in their pick and roll sets to help him be more aggressive offensively",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl discusses his offensive approach and finding balance in pick-and-roll situations during his post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "00:50",
+      "summary_phrase": "Jakob Poeltl dismisses focus on individual box score statistics",
+      "names_mentioned": [],
+      "excerpt": "It doesn't really matter to me if at the end of the game I have 10 points 10 rebounds",
+      "quote": "To be honest, I don't really care about the numbers. With the exception of maybe the Timberwolves game, I think we had great games like the last Magic game. I thought we still performed great as a team and it doesn't really matter to me if at the end of the game I have 10 points 10 rebounds or if I have two points and four rebounds, whatever. As long as we're winning the game.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jakob Poeltl says he does not care about his individual box score numbers as long as the team is winning games",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl explains that he prioritizes team success over his individual box score statistics following the game against the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "01:29",
+      "summary_phrase": "Jakob Poeltl on team defensive struggles and foul trouble",
+      "names_mentioned": [],
+      "excerpt": "We got a lot of fouls early then we tried to pull back a little bit",
+      "quote": "It's hard to tell when you're out there. It's not really our job to worry about that. We have to play our game and adjust to how we feel like the whistle is blowing that particular night. We didn't do a great job with that today. We got a lot of fouls early then we tried to pull back a little bit, but with that we just gave them way too many open lanes. We did it in the wrong way. We stopped our aggressiveness and we just allowed them to play really freely. We got to be better there.",
+      "text_blocks": [],
+      "start_seconds": 89,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jakob Poeltl admits the Raptors struggled to adjust to the whistle tonight and allowed too many open lanes by pulling back their defensive aggression",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl reflects on the team's defensive struggles and issues with foul trouble during their loss to the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "02:16",
+      "summary_phrase": "Jakob Poeltl praises teammate's aggressive performance against Orlando",
+      "names_mentioned": [
+        "Scotty"
+      ],
+      "excerpt": "He looked like a man on a mission. He was really, really aggressive out there",
+      "quote": "He was just, he looked like a man on a mission. He was really, really aggressive out there. They tried to throw everybody at him, it didn't really matter too much. He made some very tough shots. It's just too bad that we couldn't help him enough tonight. Really, I don't even think the offense was that big a problem for us. It was that we allowed way too many points on defense. We got to hold ourselves to a higher standard there.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jakob Poeltl says the Raptors need to hold themselves to a higher defensive standard after allowing too many points against Orlando",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jakob Poeltl praises an unnamed teammate for their aggressive offensive performance despite the team's defensive shortcomings against Orlando.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "soL-t_XKp2Q",
+  "url": "https://www.youtube.com/watch?v=soL-t_XKp2Q",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-31T03:33:30Z",
+  "duration_seconds": 172,
+  "processed_at": "2026-10-31T07:05:34Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

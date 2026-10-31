@@ -1,0 +1,481 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, AJ Dybantsa, and Trae Young | 10.30.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "AJ Dybantsa",
+    "Trae Young"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on the Wizards' defensive effort and team growth",
+      "names_mentioned": [
+        "Keeshon"
+      ],
+      "excerpt": "We brought the physicality early and I thought we consistently brought it throughout the whole game.",
+      "quote": "Obviously terrific defensive effort by us tonight. We brought the physicality early and I thought we consistently brought it throughout the whole game. Obviously a 13-point third quarter for them and then we started making our shots, which I knew we would because we were doing the right thing in the first half, kicking the ball out. Obviously Keeshon hit a couple threes to start, but we had some guys make some huge impacts tonight, a great team win.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe was impressed with the Wizards defensive effort tonight, noting the team brought the physicality early and maintained it throughout the game to secure a win.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the team's defensive performance and overall effort in a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:07",
+      "summary_phrase": "Brian Keefe praises AJ Dybantsa's versatility and defensive impact",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "That's the thing that we love about AJ is that his versatility and the impact he can have.",
+      "quote": "That's the thing that we love about AJ is that his versatility and the impact he can have on both ends. You obviously see his ability to attack the paint and stuff, but his physicality defensively guarding some of their better players and the ability to get traffic rebounds, those 50-50 rebounds that he's in there sky over people, those are huge plays by him tonight and that's why we're lucky to have him.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Brian Keefe is praising AJ Dybantsa for his versatility and defensive impact, specifically highlighting his ability to guard multiple positions and secure traffic rebounds.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe praises the versatility and defensive contributions of rookie AJ Dybantsa following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:23",
+      "summary_phrase": "Brian Keefe on balancing Anthony Davis and Trae Young's roles",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Trae"
+      ],
+      "excerpt": "That's the great thing about having him and Trae on our team is that they're going to put us in spots.",
+      "quote": "I thought we did a good job of that. I thought we balanced those things well. That's the great thing about having him and Trae on our team is that they're going to put us in spots when we need baskets, stop runs. Those guys have the ability to do that, but they also have the ability to draw crowds and a lot of our guys play off them and the gravity they have on the court. We're learning how to play with each other, that's going to constantly be something we're growing.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe on the Wizards offensive balance: having Trae Young and Anthony Davis allows the team to stop runs and draw crowds, creating opportunities for teammates as they continue to grow together.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis",
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains how he manages the offensive roles and gravity of Anthony Davis and Trae Young.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "06:38",
+      "summary_phrase": "Brian Keefe on AJ Dybantsa's defensive versatility",
+      "names_mentioned": [
+        "Schroder",
+        "Miller",
+        "Naz Reid",
+        "AJ"
+      ],
+      "excerpt": "He guarded Schroder, he guarded Miller, he had Naz Reid. I think this is what he is.",
+      "quote": "He guarded Schroder, he guarded Miller, he had Naz Reid. I think this is what he is. He's a two-way impact player. You saw it with the rebounding, saw his ability to get into the paint and draw fouls. This is early in the season, but he's showing the capability of doing a lot. I thought he had a good performance tonight.",
+      "text_blocks": [],
+      "start_seconds": 398,
+      "end_seconds": 422,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Brian Keefe on AJ Dybantsa: he is a two-way impact player who is already showing the capability to guard multiple positions and draw fouls early in his rookie season.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa",
+          "Dennis Schroder",
+          "Brandon Miller",
+          "Naz Reid"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe highlights AJ Dybantsa's defensive assignments and two-way impact during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "07:48",
+      "summary_phrase": "AJ Dybantsa on his rebounding performance and team role",
+      "names_mentioned": [],
+      "excerpt": "I'm just happy my dad's happy I rebounded today.",
+      "quote": "Overall solid night. I'm just happy my dad's happy I rebounded today. I had two the last game, I think I had seven today. So just trying to get in the mix, not leave my bigs down there. But I think overall I played solid.",
+      "text_blocks": [],
+      "start_seconds": 468,
+      "end_seconds": 485,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "AJ Dybantsa says he is happy with his rebounding effort tonight after a focus on getting in the mix and helping his bigs on the glass.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa reflects on his rebounding performance and his role within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "08:17",
+      "summary_phrase": "AJ Dybantsa on his adjustment to the NBA",
+      "names_mentioned": [],
+      "excerpt": "I'm just pretty adaptable. I kind of know what it is going into this league.",
+      "quote": "I'm just pretty adaptable. I kind of know what it is going into this league. You're stepping into a men's league where a lot of guys are already established, so I kind of got to go get it, hack and get it.",
+      "text_blocks": [],
+      "start_seconds": 497,
+      "end_seconds": 513,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "AJ Dybantsa on adjusting to the NBA: you are stepping into a mens league where guys are already established, so you have to go get it.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa discusses his adjustment to the physical nature of the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "11:21",
+      "summary_phrase": "AJ Dybantsa on learning from Anthony Davis",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "I'll see him do something in his routine, I'm asking him why he's doing it.",
+      "quote": "I'll see him do something in his routine, I'm asking him why he's doing it, what he did years, years ago like when he was the number one pick, how he gets to his spots, when he learns how to go, when he learns how to chill. He's just kind of been, you know, just dropping gems so I'm trying to pick his brain.",
+      "text_blocks": [],
+      "start_seconds": 681,
+      "end_seconds": 706,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "AJ Dybantsa is picking Anthony Davis brain on everything from routines to how to get to his spots on the floor, calling the veteran a source of gems.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "AJ Dybantsa describes learning from veteran teammate Anthony Davis by observing his routines and asking questions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trae Young",
+      "timestamp": "13:14",
+      "summary_phrase": "Trae Young on the team's rebounding dominance",
+      "names_mentioned": [],
+      "excerpt": "It's probably what everybody's first thing on everybody's mind is rebounding.",
+      "quote": "It's probably what everybody's first thing on everybody's mind is rebounding. I think we did a great job of that tonight. Obviously our bigs were dominating on the boards and even the guards got in there and helped the bigs and that was important for us this game and we didn't want to let that happen twice.",
+      "text_blocks": [],
+      "start_seconds": 794,
+      "end_seconds": 816,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young says rebounding was the main focus for the Wizards tonight, and he was pleased to see the guards helping the bigs dominate the boards.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young comments on the team's focus on rebounding and their collective effort on the boards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Trae Young",
+      "timestamp": "14:02",
+      "summary_phrase": "Trae Young on team growth and his physical play",
+      "names_mentioned": [
+        "Anthony Davis",
+        "AJ"
+      ],
+      "excerpt": "I know how physical guys like to be with me. I have a hoodie on, but if you see on my arms, I got scratches and bruises all over me.",
+      "quote": "I think our team is still growing. We're still learning so many different things. There's going to be things that, even closer to All-Star break, it may feel easier for guys on the offensive end. For me, I've always been able to get to the line and I know how physical guys like to be with me. I have a hoodie on, but if you see on my arms, I got scratches and bruises all over me. That's just part of it. No matter what I'm shooting, they're going to guard me from one end of the court to the other and that brings a lot of space out there on the court and it allows my athletic wings and scorers and guys a lot of space to go make plays.",
+      "text_blocks": [],
+      "start_seconds": 842,
+      "end_seconds": 892,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trae Young says he is constantly dealing with scratches and bruises due to physical defense, but that attention creates space for his teammates to make plays.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the team's ongoing growth and how his physical play creates space for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Trae Young",
+      "timestamp": "14:54",
+      "summary_phrase": "Trae Young on his chemistry with Anthony Davis",
+      "names_mentioned": [
+        "Anthony Davis",
+        "AJ"
+      ],
+      "excerpt": "I love getting the best shot available. Sometimes it's me scoring, sometimes it's getting AD an iso.",
+      "quote": "I love getting the best shot available. Sometimes it's me scoring, sometimes it's getting AD an iso and him drawing attention and if he's got it going, you want to keep giving it to him. And obviously now you got a guy like AJ who can play pick and roll or draw attention on a post-up when he gets a switch. There's different ways that you can score from me as a point guard. I just want to get the best shot possible and for me, I'm just more frustrated when I turn the ball over.",
+      "text_blocks": [],
+      "start_seconds": 894,
+      "end_seconds": 931,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trae Young on his role as a point guard: I just want to get the best shot possible, whether that is me scoring, getting AD an iso, or utilizing AJ in the pick and roll.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Davis",
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young explains his approach to playmaking and balancing scoring opportunities for himself, Anthony Davis, and AJ Dybantsa.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Trae Young",
+      "timestamp": "15:57",
+      "summary_phrase": "Trae Young on AJ Dybantsa's early performance",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "It's everything that you expected. He came out and obviously his presence was felt.",
+      "quote": "It's everything that you expected. We didn't win the first game, but he came out and obviously his presence was felt and he played aggressive. For me, I saw I wanted him to be is just being himself. Obviously he's told you guys he don't have a lot of pressure on himself and you can see it in the way he plays and I want him to feel that way. He's going to be a superstar in this league. He already is going to have a lot of eyes and attention on him any game he plays.",
+      "text_blocks": [],
+      "start_seconds": 957,
+      "end_seconds": 994,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Trae Young is already sold on his rookie teammate: AJ Dybantsa is going to be a superstar in this league.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young shares his high expectations for AJ Dybantsa and his belief in the rookie's future stardom.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Trae Young",
+      "timestamp": "16:50",
+      "summary_phrase": "Trae Young on AJ Dybantsa's rebounding and defensive effort",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "He's got that in his game. He told on himself. I know coach is going to be expecting that all the time.",
+      "quote": "He's got that in his game. He told on himself. I know coach is going to be expecting that all the time and as his teammates we want that from him. We want him to go get rebounds and push the ball up. He can really play, he can really pass the ball too, so it's not just him getting the ball up and scoring. It's him making the right decisions and he's done that already.",
+      "text_blocks": [],
+      "start_seconds": 1010,
+      "end_seconds": 1039,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trae Young says the team expects AJ Dybantsa to continue his aggressive rebounding and playmaking, noting that the rookie has already shown he can make the right decisions.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young discusses the expectations for AJ Dybantsa to maintain his rebounding and playmaking intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Trae Young",
+      "timestamp": "17:36",
+      "summary_phrase": "Trae Young on AJ Dybantsa's debut experience",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "You remember that feeling walking to your putting that jersey on for the first time.",
+      "quote": "It's really cool. Going through that experience, for me, my first game being in the garden, it was really cool and you remember that feeling walking to your putting that jersey on for the first time. So just seeing his face and everything after he came in from the warmups and obviously all the cameras are on him and just seeing how he acted and reacted to everything and all the love that he got, that's it was very heartwarming.",
+      "text_blocks": [],
+      "start_seconds": 1056,
+      "end_seconds": 1087,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young reflects on watching AJ Dybantsa experience his first NBA game, calling it heartwarming to see the rookie put the jersey on for the first time.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young reflects on witnessing AJ Dybantsa's debut and the experience of playing in his first NBA game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Trae Young",
+      "timestamp": "19:18",
+      "summary_phrase": "Trae Young on building team chemistry",
+      "names_mentioned": [],
+      "excerpt": "The connection is off the court is really there and I think we're starting to really gel.",
+      "quote": "The connection is off the court is really there and I think we're starting to really gel and our offense is starting to pick back up a little bit more now that we're getting some more games under our belt. I think the chemistry is going to continue to grow.",
+      "text_blocks": [],
+      "start_seconds": 1158,
+      "end_seconds": 1177,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young believes the Wizards chemistry is growing as the team gets more games under their belt and continues to gel on and off the court.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young talks about the team's developing chemistry and offensive progress as the season continues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Trae Young",
+      "timestamp": "19:28",
+      "summary_phrase": "Trae Young on building chemistry in the gym",
+      "names_mentioned": [],
+      "excerpt": "First it starts with being in the gym. We're all in the gym and especially the young guys.",
+      "quote": "First it starts with being in the gym. We're all in the gym and especially the young guys. This summertime just being in the gym with these guys a lot, even without the coaches, we were setting it up in different places and different cities. So that was important. When you're around each other and you know personal things about the next person, it allows you to speak truthfully and understand that it's coming from a great place and not a negative place.",
+      "text_blocks": [],
+      "start_seconds": 1168,
+      "end_seconds": 1200,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young credits the teams chemistry to time spent in the gym together over the summer, which allows players to speak truthfully and understand each other.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young explains how spending time together in the gym during the summer helped build the team's off-court connection.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "T6M6EXCgWwU",
+  "url": "https://www.youtube.com/watch?v=T6M6EXCgWwU",
+  "channel_team": "Washington Wizards",
+  "published": "2026-10-31T04:35:44Z",
+  "duration_seconds": 1214,
+  "processed_at": "2026-10-31T07:05:04Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

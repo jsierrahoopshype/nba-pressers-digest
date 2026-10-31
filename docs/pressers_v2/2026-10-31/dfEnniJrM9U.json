@@ -1,0 +1,171 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs Orlando Magic | October 30, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:10",
+      "summary_phrase": "Scottie Barnes' aggressive play and career-best scoring night",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "This was his best scoring night in his career.",
+      "quote": "He was super aggressive. He was going downhill, he was getting to his spots on the floor. This was his best scoring night in his career, and I think we are going to be seeing more of games like this from his part.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic praised Scottie Barnes after his career-high scoring night, saying he was super aggressive and getting to his spots. The Raptors coach expects to see more performances like this from Barnes moving forward.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses Scottie Barnes' aggressive performance and career-high scoring output following the game against the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:12",
+      "summary_phrase": "Scottie Barnes' development as a playmaker and scorer",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "He is one of the best guys in the league of getting to the rim and playmaking.",
+      "quote": "I think he is doing a great job there. At the same time, he is one of the best guys in the league of getting to the rim and playmaking. I thought he did a great job tonight. He had five assists, but also he had several potential assists that we missed the layup or didn't catch the ball.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic highlighted Scottie Barnes' growth as a playmaker, noting that while he finished with five assists, his impact was even greater because of several potential assists that teammates failed to convert.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates Scottie Barnes' playmaking abilities and his performance in the game against the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:46",
+      "summary_phrase": "Critique of free throw disparity and officiating impact",
+      "names_mentioned": [],
+      "excerpt": "They got to the free throw line 29 times, we got to the free throw line 15 times.",
+      "quote": "I thought that they were more desperate team tonight. I think they came out aggressive and swinging. For me, a player that gets three, four shots in a game, who scores 41 points and goes to the free throw line three times, that is BS to be honest with you. They got to the free throw line 29 times, we got to the free throw line 15 times, and I don't think that we were more physical or more aggressive team than them.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Darko Rajakovic did not hold back on the officiating after the loss to Orlando, calling the free throw disparity BS. He pointed out that a player scoring 41 points only getting three free throws is unacceptable.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic expresses frustration regarding the free throw disparity between the Toronto Raptors and the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:25",
+      "summary_phrase": "Jakob Poeltl's strong performance and early foul trouble",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "He was rebounding the ball really well.",
+      "quote": "He had more pop there. He was rebounding the ball really well. He was feeling and looking good on the court there. Unfortunately, he picked up second foul early in the first quarter as well, so we had to protect him and get him on the bench there as well. Jacked up game, very weird game in that sense with rotations, we could not stick with our plan.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic admitted the game against Orlando was weird due to foul trouble, forcing him to pull Jakob Poeltl early. He noted that the team could not stick to their rotation plan because of the early whistles.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on Jakob Poeltl's performance and the impact of early foul trouble on the team's rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:38",
+      "summary_phrase": "Collins' ongoing development and progress this season",
+      "names_mentioned": [
+        "Collins"
+      ],
+      "excerpt": "He is getting better game to game.",
+      "quote": "I think he is really trying. Tonight he ended up with five rebounds and 15 points. He is getting better game to game, and hopefully when he has opportunity to play through fouls and without fouls, I think he is going to continue making good strides.",
+      "text_blocks": [],
+      "start_seconds": 218,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic is pleased with the progress of his young players, noting that they are getting better game to game and will continue to make strides as they gain more consistent playing time.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Collins"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic assesses the ongoing development and progress of Collins after his performance against the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "dfEnniJrM9U",
+  "url": "https://www.youtube.com/watch?v=dfEnniJrM9U",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-31T03:33:41Z",
+  "duration_seconds": 244,
+  "processed_at": "2026-10-31T07:05:26Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

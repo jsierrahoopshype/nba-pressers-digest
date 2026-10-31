@@ -1,0 +1,317 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. PHX 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Christian Braun",
+    "Cam Johnson",
+    "Nikola Jokic",
+    "Jamal Murray"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:03",
+      "summary_phrase": "Coach Adelman on Nuggets' second-half defensive adjustments",
+      "names_mentioned": [],
+      "excerpt": "I thought the second half our pick-and-roll defense was much better, very aggressive, high hands.",
+      "quote": "The shot making is going to happen in the NBA. It was just the little things, miscommunications and switches. I thought the second half our pick-and-roll defense was much better, very aggressive, high hands, at least to deter their ball movement. I thought in the first half they moved the thing side to side, they were really impressive, and they have very impressive offensive players. They really do. So when they get you on the run, it's driving and kicking and all those things, it leads to good looks. So they're a very good offensive team, but I did think we were better in the second half.",
+      "start_seconds": 3,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman on the Nuggets defensive turnaround against Phoenix: I thought in the second half our pick and roll defense was much better, very aggressive, high hands, at least to deter their ball movement.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the defensive adjustments the Nuggets made in the second half to improve against the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:47",
+      "summary_phrase": "Coach Adelman praises Christian Braun's confidence and work ethic",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "There's nights where you watch guys and even if they shoot it, the confidence doesn't feel it.",
+      "quote": "It was great. What I loved about it was there really wasn't any pause. There's nights where you watch guys and even if they shoot it, the confidence doesn't feel it. You don't feel the confidence, but tonight I did. He just let the thing go. In the last game he saw the thing go in, I thought it transferred over on this trip. And you're right, Christian puts in so much work, he's a real pro. What he went through last year with the injury and everything, it's cool to see him bounce back and be the guy that we know he can be.",
+      "start_seconds": 47,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Coach Adelman praises Christian Braun after his performance: What I loved about it was there really wasnt any pause. You dont feel the confidence, but tonight I did. He just let the thing go.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Adelman praises Christian Braun for his increased confidence and work ethic following his recovery from a previous injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:28",
+      "summary_phrase": "Coach Adelman on the importance of shooting in games",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "You can work hard every day and work at this thing, but you have to shoot them in games.",
+      "quote": "I told the whole team that when Christian was out, there's guys spaced to the corner, and if you're open, you have to shoot the ball. That's the NBA. I say that all the time, and we have extreme confidence in all these guys. And the bottom line is, you can work hard every day and work at this thing, but you have to shoot them in games. It's a totally different shot. The adrenaline, getting up and down, all those things, game shots are different than practice. So it was good to see that translate.",
+      "start_seconds": 88,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman on the importance of shooting in games: You can work hard every day and work at this thing, but you have to shoot them in games. Its a totally different shot.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Adelman explains to the team the importance of shooting open shots during games rather than just in practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:16",
+      "summary_phrase": "Coach Adelman on Christian Braun's defensive versatility",
+      "names_mentioned": [
+        "Christian Braun",
+        "Devin Booker"
+      ],
+      "excerpt": "He has some really, really unnatural skills. I mean he can jump off two feet, his length.",
+      "quote": "He is exactly that. He has some really, really unnatural skills. I mean he can jump off two feet, his length. And I thought tonight he was much better in the second half than the first. I thought the first, the game seemed really fast, not just for him but for our whole team. Once we settled down, got in a stance, and I'd say beyond that, I know he only had three rebounds, but go watch them. I mean those rebounds were insane, in traffic. So yeah, he's got a lot of ability. I keep saying you got to be patient with him, there's a lot of things happening out there, I'm playing him at different positions.",
+      "start_seconds": 136,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman on Christian Brauns defensive versatility: He has some really, really unnatural skills. I mean he can jump off two feet, his length.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman highlights Christian Braun's defensive versatility and rebounding ability while noting he is playing him at different positions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Christian Braun",
+      "timestamp": "04:18",
+      "summary_phrase": "Christian Braun on maintaining shooting consistency",
+      "names_mentioned": [],
+      "excerpt": "It's just the process, you know, keep shooting them.",
+      "quote": "I think, I mean, it's just the process, you know, keep shooting them. Obviously I'm open, getting a lot of good looks because of how we're played normally, but it wasn't a result of anything, just staying consistent and continuing to shoot them. So nothing changed, just hit them today.",
+      "start_seconds": 258,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Christian Braun on his shooting performance: Its just the process, you know, keep shooting them. Obviously Im open, getting a lot of good looks because of how were played normally.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun discusses his shooting performance and the importance of maintaining consistency in his process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Christian Braun",
+      "timestamp": "05:07",
+      "summary_phrase": "Christian Braun on Jamal Murray's shooting performance",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "I think Jamal is pretty used to it. I think obviously me hitting seven is a welcome sight.",
+      "quote": "Well, I think Jamal is pretty used to it. I think obviously me hitting seven is a welcome sight, you know, for the offense and those things. So I got to do it more consistently, I got to do it, you know, more, do it better. So obviously today was a good day, but we got to do it again on Monday.",
+      "start_seconds": 307,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Christian Braun on his role alongside Jamal Murray: Me hitting seven is a welcome sight for the offense. I got to do it more consistently, I got to do it, you know, more, do it better.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Christian Braun reflects on his own shooting performance and the need to remain consistent alongside Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nikola Jokic",
+      "timestamp": "08:35",
+      "summary_phrase": "Nikola Jokic on team's transition and growth",
+      "names_mentioned": [],
+      "excerpt": "I think we are winning games, that's important, and I think we are trying to do something differently.",
+      "quote": "I think we are winning games, that's important, and I think we are trying to do something differently, and I think sometimes we do it, sometimes we don't do it. So we are in transition basically, but I think we want to do the right thing, or the new thing. So I think we are going in the right direction.",
+      "start_seconds": 515,
+      "end_seconds": 538,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nikola Jokic on the Nuggets current state: We are in transition basically, but I think we want to do the right thing, or the new thing. So I think we are going in the right direction.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic shares his thoughts on the team's current transition phase and their overall direction.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nikola Jokic",
+      "timestamp": "09:35",
+      "summary_phrase": "Nikola Jokic on team chemistry and playing with bench players",
+      "names_mentioned": [],
+      "excerpt": "I just play, I don't even think about it, you know, I just don't think oh this is the rookie.",
+      "quote": "To me, I just play, I don't even think about it, you know, I just don't think oh this is the rookie or this is a new guy. I just play and then figure it out in the moment, let's say like that. So I don't even really think about it.",
+      "start_seconds": 575,
+      "end_seconds": 595,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nikola Jokic on playing with new teammates: I just play, I dont even think about it. I just dont think oh this is the rookie or this is a new guy. I just play and then figure it out in the moment.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Jokic explains his approach to playing with different teammates regardless of their experience level.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamal Murray",
+      "timestamp": "10:15",
+      "summary_phrase": "Jamal Murray on team performance and consistency",
+      "names_mentioned": [],
+      "excerpt": "I always feel like I could have played better. I feel like we could have played better.",
+      "quote": "I mean, I always feel like I could have played better. I feel like we could have played better, end of the game better. Yeah, I think we just got to be cleaner, you know, just like, you know, we always think we have a chance to come back and win in those situations. You know, we got to make sure we're taking care of the ball when we're up. A lot of those on me, I had the two turnovers, but got to be strong with the ball, meet the ball, stuff like that. So yeah, we'll be better.",
+      "start_seconds": 615,
+      "end_seconds": 653,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamal Murray on the Nuggets late game execution: We just got to be cleaner. We always think we have a chance to come back and win in those situations. We got to make sure were taking care of the ball when were up.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray evaluates the team's performance and his own turnovers during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamal Murray",
+      "timestamp": "11:57",
+      "summary_phrase": "Jamal Murray on Christian Braun's development",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "Just an elite athlete, and knows where he has to be on the floor, knows where to be.",
+      "quote": "Just an elite athlete, and knows where he has to be on the floor, knows where to be on the floor. Defensively, blocking shots, rebounding, rotating. He's just done a great job of just catching on to the defense that we're trying to play. And offensively, just letting it fly. There's no hesitation, we don't have to tell him to shoot, you know, give him confidence to do it, he does it himself. So it's really good to see a rookie coming in the game, start the game sometimes and just be ready to play from the get-go.",
+      "start_seconds": 717,
+      "end_seconds": 755,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamal Murray on Christian Brauns growth: Hes just done a great job of just catching on to the defense that were trying to play. And offensively, just letting it fly. Theres no hesitation.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Murray praises Christian Braun for his athletic development and his readiness to contribute on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "2YWJl7lyZkc",
+  "url": "https://www.youtube.com/watch?v=2YWJl7lyZkc",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-10-31T06:04:39Z",
+  "duration_seconds": 829,
+  "processed_at": "2026-10-31T07:04:43Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

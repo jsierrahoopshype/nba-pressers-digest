@@ -1,0 +1,220 @@
+{
+  "video_title": "Kyle Kuzma Media Availability | 10.30.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Kyle Kuzma"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Kyle Kuzma on the team's recent struggles and process",
+      "names_mentioned": [],
+      "excerpt": "We got flat in our process. Obviously we got flat in the game, but I think we got flat in our process.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How would you characterize a game like Houston, where stuff like that happens, but throughout all of this, you're seeing positives trying to get a result in Indiana? How do you look at a loss like that where all of these things you've been doing and building just stalled out?"
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "We just stalled out and we got flat in our process. Obviously we got flat in the game, but I think we got flat in our process as to how we want to approach games, how we want to move the ball, how we want to be better than we showed defensively. So just about going back to the drawing board and we got another opportunity."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kyle Kuzma says the team got flat in their process during the loss to Houston. He emphasizes that they need to get back to the drawing board and improve their ball movement and defensive approach.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "HOU",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma discusses the team's recent performance and process following a loss to the Houston Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "00:43",
+      "summary_phrase": "Kyle Kuzma on Houston's roster and team identity",
+      "names_mentioned": [],
+      "excerpt": "They got a lot of length, a lot of size. We are like the opposite a little bit.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Are they an example of what you're trying to build to, talking about offensive rebounding and defensive mentality?"
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "No, I don't think so. They're completely different teams. They got a lot of length, a lot of size. We are like the opposite a little bit. We got a lot of guards, they got a lot of bigs, so it's a little bit different teams."
+        }
+      ],
+      "start_seconds": 43,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyle Kuzma does not see the Rockets as a blueprint for his team. He notes that the two rosters are built differently, with Houston relying on size and length while his team is guard heavy.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma explains the differences in roster construction and playing style between his team and the Houston Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "01:20",
+      "summary_phrase": "Kyle Kuzma on the team's coaching staff and turning the page",
+      "names_mentioned": [],
+      "excerpt": "You got to turn the page by watching what you did wrong and apply it to the game.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "As you're going through this with a new coaching staff, do you turn the page on that? Or do you go through film and say, 'No, these are some real specific teaching points'?"
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "That's what turning the page means. You got to turn the page by watching what you did wrong and apply it to the game. You can't apply it two or three weeks from now like most young teams probably would. You got to be able to do it on the fly. Sometimes you got to be able to apply it from the first half to the second half."
+        }
+      ],
+      "start_seconds": 80,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyle Kuzma on the learning curve with a new coaching staff. He says the team needs to stop waiting weeks to apply lessons and start making adjustments on the fly, even from the first half to the second.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kyle Kuzma discusses the importance of film study and immediate adjustments under the new coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "02:11",
+      "summary_phrase": "Kyle Kuzma on the impact of consistent practice",
+      "names_mentioned": [],
+      "excerpt": "Being able to consistently be in games is pretty well, but for us we just got to take the next step.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you feel now that we're five, six games in? You all have practiced quite a bit, relatively speaking. How does that actually translate?"
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "It's helped out a lot, obviously. We started the season 0-3, but we had a chance to win all those games. Now having more victories, but probably a lot of that is practice. Being able to consistently be in games is pretty well, but for us we just got to take the next step and put it piece by piece throughout 48 minutes."
+        }
+      ],
+      "start_seconds": 131,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyle Kuzma credits recent practice time for the team's ability to stay competitive in games. He says the focus now is on taking the next step and maintaining consistency for all 48 minutes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma reflects on how consistent practice sessions have impacted the team's performance early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kyle Kuzma",
+      "speakers": [
+        "Unidentified speaker",
+        "Kyle Kuzma"
+      ],
+      "timestamp": "03:12",
+      "summary_phrase": "Kyle Kuzma on offensive execution and cutting lanes",
+      "names_mentioned": [],
+      "excerpt": "It's all about just following that process and doing it game by game, possession by possession.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "It seems like you all are recognizing some of those driving lanes and cutting lanes. It feels like that's starting to click more often."
+        },
+        {
+          "speaker": "Kyle Kuzma",
+          "text": "It is, but then we have stints where the ball gets flat and then we play one-on-one basketball. It's all about just following that process and doing it game by game, possession by possession and not letting a couple shots not go in to then change how we want to play."
+        }
+      ],
+      "start_seconds": 192,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyle Kuzma says the team is starting to recognize cutting lanes better, but warns against reverting to one on one basketball when shots stop falling. He says they must stick to the process possession by possession.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma addresses the team's offensive execution and the need to maintain ball movement throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "FzvOXlOnoxA",
+  "url": "https://www.youtube.com/watch?v=FzvOXlOnoxA",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-10-31T00:03:11Z",
+  "duration_seconds": 245,
+  "processed_at": "2026-10-31T07:05:50Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

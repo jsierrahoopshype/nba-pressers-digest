@@ -1,0 +1,246 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. TORONTO RAPTORS | COACH SWEENEY, FRANZ WAGNER & DESMOND BANE",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Franz Wagner",
+    "Desmond Bane"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:08",
+      "summary_phrase": "Coach Sweeney praises the team's resilience after a tough loss",
+      "names_mentioned": [],
+      "excerpt": "throughout the course of the game, we stuck together. Even when Toronto went on a run.",
+      "quote": "Really pleased with the way they performed. Throughout the course of the game, we stuck together. Even when Toronto went on a run, I thought we did a great job of holding down the fort. Everybody was ready to play, I thought that was big. Looking at the two games, the previous game we started out pretty strong and then wilted, and this one we didn't back down, we stuck with it the whole way.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney was pleased with the team's resilience against Toronto, noting that even when the Raptors went on a run, the Magic did a great job of holding down the fort.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's resilience and performance following a game against the Toronto Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:30",
+      "summary_phrase": "Coach Sweeney highlights Jace's impact and Scottie Barnes' scoring",
+      "names_mentioned": [
+        "Jace",
+        "Scottie Barnes"
+      ],
+      "excerpt": "Really pleased with Jace, four points but a plus-26 in his 32 minutes, big-time impact.",
+      "quote": "Really pleased with Jace, four points but a plus-26 in his 32 minutes, big-time impact. I thought we did a great job of withstanding Scottie Barnes getting going there. He scored 40 points at the nine-minute mark and he had one the rest of the way, so I thought we really tightened up down the stretch.",
+      "text_blocks": [],
+      "start_seconds": 30,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Coach Sweeney praised Jace for his big-time impact, finishing with a plus-26 in 32 minutes. The team also tightened up defensively, holding Scottie Barnes to just one point after the nine-minute mark.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jace",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "ORL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney evaluates the impact of Jace's play and the team's defensive effort against Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:58",
+      "summary_phrase": "Coach Sweeney credits team leaders for maintaining physical play",
+      "names_mentioned": [
+        "Franz",
+        "Dez",
+        "Wendell",
+        "Vucevic"
+      ],
+      "excerpt": "I thought those guys did a great job. The guys that were the leaders, Franz, Dez, Wendell, Vucevic.",
+      "quote": "I thought those guys did a great job. The guys that were the leaders, Franz, Dez, Wendell, Vucevic, those guys, they all made a commitment to sticking with it and using that appropriate level of physicality throughout the course of the game.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney credited team leaders Franz, Dez, Wendell, and Vucevic for their commitment to maintaining an appropriate level of physicality throughout the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Franz Wagner",
+          "Desmond Bane",
+          "Wendell Carter Jr.",
+          "Nikola Vucevic"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Sweeney credits specific veteran players for maintaining physical play throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Franz Wagner",
+      "timestamp": "03:09",
+      "summary_phrase": "Franz Wagner discusses the team's improved intensity and execution",
+      "names_mentioned": [],
+      "excerpt": "I thought we executed our coverages, our intensity was way better, and we had great energy.",
+      "quote": "I thought we executed our coverages, our intensity was way better, and we had great energy, even through their runs, especially there in the fourth. Showed great poise, I thought, and everybody that played was ready to come in and contribute.",
+      "text_blocks": [],
+      "start_seconds": 189,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Franz Wagner felt the team showed great poise in the fourth quarter, noting that their intensity was way better and everyone who played was ready to contribute.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner reflects on the team's improved intensity and execution during their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Franz Wagner",
+      "timestamp": "03:29",
+      "summary_phrase": "Franz Wagner praises Jace's settling in and impact on the game",
+      "names_mentioned": [
+        "Jace"
+      ],
+      "excerpt": "Obviously he had a great game, plus-26 in his minutes, and that's not easy to do.",
+      "quote": "Obviously he had a great game, plus-26 in his minutes, and that's not easy to do. He hasn't played too many games yet and I think he's finding out how he can impact the game, and we need him to be aggressive out there.",
+      "text_blocks": [],
+      "start_seconds": 209,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Franz Wagner on Jace's performance: He is finding out how he can impact the game and we need him to be aggressive out there.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jace"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Franz Wagner praises Jace for his positive impact and aggressive play during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Desmond Bane",
+      "timestamp": "06:07",
+      "summary_phrase": "Desmond Bane on the team's response to a blowout loss",
+      "names_mentioned": [
+        "Tristan",
+        "Franz"
+      ],
+      "excerpt": "We talked about it at halftime, said that adversity was going to come, and we weathered the storm.",
+      "quote": "We talked about it at halftime, said that adversity was going to come, and we weathered the storm tonight. We did a great job on both ends of the floor being connected, sharing the ball, trusting each other. I'm very pleased with the way we played. We didn't panic, Tristan made big shots, Franz obviously making plays, everybody all the way up and down the roster.",
+      "text_blocks": [],
+      "start_seconds": 367,
+      "end_seconds": 392,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Desmond Bane said the team weathered the storm against Toronto by staying connected and trusting each other, adding that they did not panic when adversity hit.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tristan",
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Desmond Bane discusses how the team responded to adversity and maintained composure during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Desmond Bane",
+      "timestamp": "06:40",
+      "summary_phrase": "Desmond Bane on his growth and role in his second year",
+      "names_mentioned": [],
+      "excerpt": "He's growing, man. He's only in his second year, the kid was in high school three years ago.",
+      "quote": "He's growing, man. He's only in his second year, the kid was in high school three years ago, and he's out here playing big minutes on a team trying to do something special. Hats off to him, he put the work in, man. That's my little brother for sure, and I love him to death and he's doing his thing.",
+      "text_blocks": [],
+      "start_seconds": 400,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Desmond Bane praised the growth of his teammate, noting that he is playing big minutes on a team trying to do something special.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jace"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane speaks about the growth and development of his teammate Jace in his second year.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "jjAE1KsEiYo",
+  "url": "https://www.youtube.com/watch?v=jjAE1KsEiYo",
+  "channel_team": "Orlando Magic",
+  "published": "2026-10-31T03:39:36Z",
+  "duration_seconds": 463,
+  "processed_at": "2026-10-31T07:05:28Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

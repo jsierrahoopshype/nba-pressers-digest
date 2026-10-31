@@ -1,0 +1,99 @@
+{
+  "video_title": "Hornets at Wizards Coach Charles Lee Postgame Media Availability | 10/30/2026",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Unidentified speaker",
+        "Charles Lee"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Charles Lee on Hornets' defensive process and second-half adjustments",
+      "names_mentioned": [],
+      "excerpt": "keep trusting the process. What we went through last night, what we went through today, we got better.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Can you go back to the start of the second half, because that's really when the Wizards started to pull away. What are some things that you can identify and focus on with your players during that time?"
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "Keep trusting the process. What we went through last night, what we went through today, we got better. We just held two really good teams under 100 points. I feel like the competitive spirit, the process defensively, is in a good spot. Tonight we did give up 35 free throws, so we got to be a little bit smarter in how we're executing maybe some of our physicality. But overall, I think that we create some really good looks for ourselves with the pace that we played, and I think the process on both ends of the floor is going to result in something different down the line."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says the Hornets need to be smarter with their physicality after giving up 35 free throws against the Wizards. Despite the loss, he remains encouraged by the team's defensive process and competitive spirit.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the Hornets defensive performance and the need to reduce fouls after the loss to the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Unidentified speaker",
+        "Charles Lee"
+      ],
+      "timestamp": "00:35",
+      "summary_phrase": "Charles Lee on Hornets' turnover reduction and shot opportunity improvements",
+      "names_mentioned": [],
+      "excerpt": "turnovers were down tonight. We got 15 more shot opportunities than they did",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Is there anything else specific that you can take away from this game? I know you're always going to look at some of the things that you can grow on and build from, regardless of what the score is."
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "Definitely. We have to look at some things offensively, but turnovers were down tonight. We got 15 more shot opportunities than they did, even with their 35 free throws. So yes, there will be some things that we can grow from, but overall, I'm actually very encouraged by the last couple nights. I think that it really helped us get better. I felt like we embraced the challenge tonight of not having our best night, but I thought that everyone stayed in the fight, didn't really back down, and tried to give everything they had."
+        }
+      ],
+      "start_seconds": 35,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee noted that the Hornets successfully reduced turnovers and generated 15 more shot opportunities than the Wizards tonight. He says he is encouraged by how the team stayed in the fight despite not having their best night.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Charles Lee reflects on the team's offensive improvements regarding turnovers and shot opportunities despite the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ObuSaRXNpBc",
+  "url": "https://www.youtube.com/watch?v=ObuSaRXNpBc",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-31T01:57:11Z",
+  "duration_seconds": 70,
+  "processed_at": "2026-10-31T07:05:44Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

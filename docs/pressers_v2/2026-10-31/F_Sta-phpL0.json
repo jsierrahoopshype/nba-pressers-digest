@@ -1,0 +1,285 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Anfernee Simons | 10.30.26",
+  "speakers_seen": [
+    "Anfernee Simons"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Anfernee Simons",
+      "timestamp": "00:06",
+      "summary_phrase": "Anfernee Simons on his offensive rhythm and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "Everybody pretty much found me out there on the wing or in the corner.",
+      "quote": "Reading the game, letting the game come to me. Obviously, the first half offensively was slow, but I stuck with it. The guys got going, and I was able to get some good looks. Everybody pretty much found me out there on the wing or in the corner, so I was able to get going through there. It is a carryover for sure. When you play the right way, stuff comes naturally to you, just how the game goes.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anfernee Simons on finding his rhythm after a slow start against the Celtics: Reading the game and letting it come to me. I stuck with it and the guys got going.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anfernee Simons discusses his offensive rhythm and how his teammates helped him get going during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Anfernee Simons",
+      "timestamp": "00:53",
+      "summary_phrase": "Anfernee Simons on defending Jaylen Brown's playmaking",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "He is great at finding angles and exploiting those angles that you try to give him.",
+      "quote": "He is great at finding angles and exploiting those angles that you try to give him on the defensive end, so I try my best just to stay in front of him and not use my hands as much. Make him make a tough shot. He made one in the first half. I think I did a pretty good job of staying in front and being there to contest the shot. I learned from last year; he did the same thing. I got caught and got a couple of early fouls, and I learned that he is looking for the foul, looking for angles to get the advantage.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anfernee Simons on defending Jaylen Brown: I learned from last year that he is looking for the foul and looking for angles to get the advantage. I tried to stay in front and not use my hands as much.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons explains his defensive approach to guarding Jaylen Brown and avoiding foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Anfernee Simons",
+      "timestamp": "01:46",
+      "summary_phrase": "Anfernee Simons on team depth and filling the scoring void",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "We have so many guys that are capable of, if one person is out, somebody else filling the void.",
+      "quote": "We have so many guys that are capable of, if one person is out, somebody else filling the void. It depends on the game-to-game basis. I would not say it is every game. Obviously, I have to go out there and be myself and be aggressive when the time is right. But I think we have a lot of guys that are capable of going and filling the void. It is going to take everybody in those moments when you have a guy as good as Jaylen Brown out in the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 106,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anfernee Simons on the Sixers depth: We have so many guys capable of filling the void if one person is out. It is going to take everybody in those moments.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons discusses the team's depth and ability to fill the scoring void when key players are unavailable.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Anfernee Simons",
+      "timestamp": "02:26",
+      "summary_phrase": "Anfernee Simons on adjusting to the team's faster pace",
+      "names_mentioned": [],
+      "excerpt": "We are playing obviously a little bit faster, and we are just going to take a little bit minute.",
+      "quote": "We have multiple ball handlers out there. Anybody who gets it can go. We are playing obviously a little bit faster, and we are just going to take a little bit minute to adjust and get used to playing with each other. But I think for the most part, we will be fine offensively. It is just defensively, obviously, we are undersized, so we need to be able to come up with some stops, especially with three-guard lineups.",
+      "verbatim_original_language": "",
+      "start_seconds": 146,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Anfernee Simons on the Sixers defensive challenges: We are playing a little bit faster but defensively we are undersized. We need to be able to come up with some stops especially with three guard lineups.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons talks about the team's adjustment to playing at a faster pace with multiple ball handlers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Anfernee Simons",
+      "timestamp": "03:03",
+      "summary_phrase": "Anfernee Simons on adjusting to the arena's lighting",
+      "names_mentioned": [],
+      "excerpt": "It took me a minute to adjust to the new lighting in here.",
+      "quote": "It took me a minute to adjust to the new lighting in here. I am always used to it being a normal brightness. It took me a minute to get used to it at first. It is different from every other arena as well that does the same kind of stage feel, so it took me a minute to get used to it for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 183,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anfernee Simons admits it took him a minute to adjust to the new lighting at the arena: It is different from every other arena that does the same kind of stage feel.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons mentions the difficulty of adjusting to the specific lighting conditions in the arena.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Anfernee Simons",
+      "timestamp": "03:42",
+      "summary_phrase": "Anfernee Simons on his defensive growth and trust",
+      "names_mentioned": [],
+      "excerpt": "For me, it is going to be defensively, just being able to hold my own out there.",
+      "quote": "Making shots is great and being able to space the floor for everybody else, but for me, it is going to be defensively, just being able to hold my own out there. I think I did a good job of that tonight. I just have to keep going and being able to grow in that space as well as obviously being a floor spacer.",
+      "verbatim_original_language": "",
+      "start_seconds": 222,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anfernee Simons on his defensive focus: Making shots is great but for me it is going to be defensively just being able to hold my own out there. I think I did a good job of that tonight.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons reflects on his defensive growth and his goal to be a reliable defender.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Anfernee Simons",
+      "timestamp": "04:14",
+      "summary_phrase": "Anfernee Simons on building team chemistry and ball movement",
+      "names_mentioned": [],
+      "excerpt": "I think it is getting better each and every game.",
+      "quote": "I think it is getting better each and every game. We have our moments where we get stagnant just trying to figure each other out, but I think we always have, it goes from one moment to three or four moments in the game where the ball is really popping. We are gaining trust, we are gaining some familiarity with where everybody wants to be in the spots. I think each and every game is going to get better. It has only been six games, and I fully expect for us to continue to build that chemistry.",
+      "verbatim_original_language": "",
+      "start_seconds": 254,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anfernee Simons on Sixers chemistry: We have our moments where we get stagnant trying to figure each other out but we are gaining trust. It has only been six games and I expect us to continue to build.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anfernee Simons discusses the ongoing process of building team chemistry and improving ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Anfernee Simons",
+      "timestamp": "04:43",
+      "summary_phrase": "Anfernee Simons on maintaining confidence through shooting slumps",
+      "names_mentioned": [],
+      "excerpt": "It comes with just having some confidence in yourself that you can turn it around.",
+      "quote": "Do not get too high, do not get too low. It comes with just having some confidence in yourself that you can turn it around. Obviously, adjusting your daily habits a little bit, especially if you are struggling. Maybe go out there and get some extra shots up, see the ball go through the hoop some more. But overall, I think it just comes to the matter of just having confidence in yourself that you are going to be able to turn it around.",
+      "verbatim_original_language": "",
+      "start_seconds": 283,
+      "end_seconds": 315,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anfernee Simons on staying confident during shooting slumps: Do not get too high and do not get too low. It comes with having confidence in yourself that you can turn it around.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons explains how he maintains confidence and manages his habits during shooting slumps.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Anfernee Simons",
+      "timestamp": "05:25",
+      "summary_phrase": "Anfernee Simons on the team's ability to function without stars",
+      "names_mentioned": [
+        "LeBron James",
+        "Joel Embiid"
+      ],
+      "excerpt": "We have a lot of guys that can do a lot of things and that is what makes this team so special.",
+      "quote": "We have a lot of guys that can do a lot of things and that is what makes this team so special. Obviously, we have a lot more to go, a lot more growing to go, but I think we fully expect for everybody to be themselves and to help us win games. Whether that is LeBron being LeBron, Joel being Joel, no matter if he is having a good game or a bad game, we fully expect for somebody else to come and pick him up. VJ was not shooting the ball that well tonight, and he came in and hit the biggest shot of the game. So, I think everybody has a confidence in themselves and in each other.",
+      "verbatim_original_language": "",
+      "start_seconds": 325,
+      "end_seconds": 372,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anfernee Simons on the team mentality: We fully expect for somebody else to come and pick up the slack. VJ was not shooting well tonight and he came in and hit the biggest shot of the game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anfernee Simons discusses the team's collective confidence and ability to support stars like LeBron James and Joel Embiid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "F_Sta-phpL0",
+  "url": "https://www.youtube.com/watch?v=F_Sta-phpL0",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-10-31T04:18:56Z",
+  "duration_seconds": 398,
+  "processed_at": "2026-10-31T07:04:57Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

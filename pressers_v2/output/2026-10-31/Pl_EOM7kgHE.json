@@ -1,0 +1,172 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Nets   10.30.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:40",
+      "summary_phrase": "J.B. Bickerstaff on the team's defensive system development",
+      "names_mentioned": [],
+      "excerpt": "it takes a little bit of time to get the system down and get everybody back on the same page",
+      "quote": "I think we're figuring it out now. It takes a little bit of time to get the system down and get everybody back on the same page, what everybody's roles or responsibilities are on that end of the floor. But the guys have been committed to it, and they're working at it. We made some mistakes, but we've also made some huge gains, so give the guys credit for their commitment to that end of the floor and understanding that that can make us unique and that can separate us.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff says the Pistons are still figuring out their defensive system but credits the players for their commitment to getting on the same page as they work through early mistakes.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the team's progress in implementing their defensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:14",
+      "summary_phrase": "J.B. Bickerstaff on Ron Holland's growth and two-way play",
+      "names_mentioned": [
+        "Ron Holland"
+      ],
+      "excerpt": "it's the growth that he's shown and his commitment to the work",
+      "quote": "It's the growth that he's shown and his commitment to the work, and to be able to do it on both ends of the floor, to play in a position of confidence, to play in a position of strength. I thought he did a great job with that today, and he's going to keep getting better. More and more opportunities and exposure, you're going to see more of this.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff is encouraged by Ron Holland's recent growth and his ability to play with confidence on both ends of the floor, noting that more opportunities will lead to even better performances.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ron Holland"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff evaluates the growth and two-way performance of Ron Holland following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:16",
+      "summary_phrase": "J.B. Bickerstaff on Ron Holland's shooting and overall impact",
+      "names_mentioned": [
+        "Ron Holland"
+      ],
+      "excerpt": "this game and his game is not about his shots",
+      "quote": "This game and his game is not about his shots. If he's open, I want him to shoot it a hundred times in a row. He's got to have that confidence and that belief and he works on it. With Ron, it's all the other stuff that he does that makes him unique, and that's what we want him to focus on. There's intangibles that he brings to the table that are unique to him and his skill set. He does that more, the confidence comes, the shot goes, and I think that's what's most important.",
+      "verbatim_original_language": "",
+      "start_seconds": 136,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff wants Ron Holland to keep shooting if he is open, but emphasizes that Holland's value comes from his unique intangibles rather than just his shot-making ability.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ron Holland"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains his philosophy on Ron Holland's shot selection and overall impact on the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:56",
+      "summary_phrase": "J.B. Bickerstaff on Jalen Duren's impact while sidelined",
+      "names_mentioned": [
+        "Jalen Duren"
+      ],
+      "excerpt": "he impacts the game in so many ways",
+      "quote": "I think he's done a great job. He impacts the game in so many ways. He's just a spark all the time on both ends of the floor. He's active, he's hard to guard, it's hard to box out. He's great in pick-and-roll coverages, he rebounds the ball. He's given us what he's got, he's playing to his strengths, and it's been a huge part of these early wins is the way that he's been able to play and come in while Jalen's been out.",
+      "verbatim_original_language": "",
+      "start_seconds": 176,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff praises the spark the team has received from their bench play while Jalen Duren has been sidelined, highlighting the team's ability to play to their strengths during this stretch.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Duren"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "J.B. Bickerstaff discusses Jalen Duren's impact and the team's performance while he has been sidelined.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:28",
+      "summary_phrase": "J.B. Bickerstaff on Michael Brown's potential",
+      "names_mentioned": [
+        "Michael Brown"
+      ],
+      "excerpt": "I think he's going to be a good young player in this league",
+      "quote": "I think he's a good player. His ability to get to his spot, that speed that he plays with, the shots that he can create, I think he's going to be a good young player in this league.",
+      "verbatim_original_language": "",
+      "start_seconds": 208,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff sees a bright future for Michael Brown, pointing to his speed and ability to create his own shots as reasons why he will be a good young player in the league.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Michael Brown"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff shares his assessment of Michael Brown's potential as a young player in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "Pl_EOM7kgHE",
+  "url": "https://www.youtube.com/watch?v=Pl_EOM7kgHE",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-10-31T02:40:48Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-10-31T07:05:37Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

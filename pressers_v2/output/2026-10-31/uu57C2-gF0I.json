@@ -1,0 +1,114 @@
+{
+  "video_title": "Lloyd Pierce Postgame Media Availability at Heat | October 30, 2026",
+  "speakers_seen": [
+    "Lloyd Pierce"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Lloyd Pierce",
+      "timestamp": "00:05",
+      "summary_phrase": "Lloyd Pierce on the Pacers' defensive struggles against the Heat",
+      "names_mentioned": [],
+      "excerpt": "that's the separator for that team. They're a team that's going to put a lot of pressure",
+      "quote": "Obviously when you're shooting well, you understand that trying to sustain that level of shooting is going to be tough, so you got to stick to the basics. Can we defend without fouling? Can we come up with some rebounds? They had seven offensive rebounds at the half and 15 free throws, and that's the separator for that team. They're a team that's going to put a lot of pressure on you in the paint, 64 points in the paint. They're a team that's going to put a lot of pressure on your defense if you don't have a tight paint defense. When they can do that, the game slows down for us because we're having to chase and chase and then we've got to take it out.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Lloyd Pierce points to defensive rebounding and fouling as the main issues in the loss to Miami. The Pacers allowed 64 points in the paint and struggled to contain the Heat on the glass.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Lloyd Pierce discusses the defensive challenges the Pacers faced against the Heat during their postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Lloyd Pierce",
+      "timestamp": "00:50",
+      "summary_phrase": "Lloyd Pierce on defending Bam Adebayo and Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Adebayo",
+        "Giannis",
+        "Klay Thompson",
+        "Mitchell"
+      ],
+      "excerpt": "They make it difficult with Adebayo and Giannis, and then that sets up the Klay Thompson, Mitchell",
+      "quote": "They make it difficult with Adebayo and Giannis, and then that sets up the Klay Thompson, Mitchell, doesn't it, with open threes because you've got to pay so much attention to the big guys. That's going to be the strength of their team and that's going to be the challenge we have playing them. If you try and put any of your defenders on an island, one-on-one, obviously they shot it well, they scored it well, and you're going to feel that. You're trying to disrupt it a little bit. We went zone a couple times and then we doubled a couple times and I don't think he felt the double team and that's how some of the spray-out threes happened.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Lloyd Pierce explains the difficulty of defending the Heat bigs, noting that doubling Adebayo and Giannis often led to open looks for shooters like Klay Thompson.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo",
+          "Giannis Antetokounmpo",
+          "Klay Thompson",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "IND",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Lloyd Pierce explains the difficulty of defending the Heat's interior players and how that creates open perimeter shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Lloyd Pierce",
+      "timestamp": "01:36",
+      "summary_phrase": "Lloyd Pierce on the intensity of the In-Season Tournament",
+      "names_mentioned": [],
+      "excerpt": "it's the spirit of competition. We understand the parameters for the Friday night games",
+      "quote": "It's the spirit of competition. We understand the parameters for the Friday night games and you know I probably think they probably kept their guys in a minute or two longer to try and get the score going. You could hear them saying keep scoring, we were saying keep scoring. It's not offensive, that's how it's going to be played out. Our division is tough. I don't know who won the Philly-New York game, but someone lost and so we still have a chance and it's going to come down to the point differential. We understand it, they understand it, and in this game we understand the parameters and the rules. We went over and explained it to our guys yesterday.",
+      "verbatim_original_language": "",
+      "start_seconds": 96,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Lloyd Pierce on the In-Season Tournament point differential strategy. He says the team understands the rules and the need to keep scoring even late in games.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Lloyd Pierce discusses the competitive nature and point differential rules of the In-Season Tournament following the game against the Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "uu57C2-gF0I",
+  "url": "https://www.youtube.com/watch?v=uu57C2-gF0I",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-10-31T03:15:26Z",
+  "duration_seconds": 204,
+  "processed_at": "2026-10-31T07:05:35Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

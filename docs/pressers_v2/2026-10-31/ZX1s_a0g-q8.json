@@ -1,0 +1,101 @@
+{
+  "video_title": "Hornets at Wizards: Moussa Diabate Postgame Media Availability | 10/30/2026",
+  "speakers_seen": [
+    "Moussa Diabate"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:04",
+      "summary_phrase": "Moussa Diabate on Charlotte's offensive struggles and missed shots",
+      "names_mentioned": [],
+      "excerpt": "I think it comes down to not making shots, right. We are getting the shots open.",
+      "quote": "I think it comes down to not making shots, right. We are getting the shots open. We had the opportunities to make it, it just didn't happen for us. I think that was the biggest thing I've seen really. We were aggressive on defense. What was the score? Hold on. What did they finish with? 95 points. I mean, right now it's like we are playing amazing defense, we are just not making shots. I think that's what it really came down to.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Moussa Diabate says the Hornets are playing amazing defense but are struggling to convert on offense. He noted that the team is getting open looks but simply not making shots.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate discusses the Hornets' offensive performance and missed shots following their game against the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:36",
+      "summary_phrase": "Moussa Diabate on Hornets' defensive communication and physicality",
+      "names_mentioned": [],
+      "excerpt": "Our communication, being aggressive on defense, being physical, that's been our bread and butter.",
+      "quote": "Our communication, being aggressive on defense, being physical, that's been our bread and butter. And you know, just limit them to one shot. I think we are trying as much as we can to give them only one opportunity.",
+      "verbatim_original_language": "",
+      "start_seconds": 36,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Moussa Diabate emphasizes that defensive communication and physicality remain the bread and butter for this Hornets team as they look to limit opponents to one shot per possession.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate explains the importance of defensive communication and physicality as the team's core identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:58",
+      "summary_phrase": "Moussa Diabate on moving forward after back-to-back losses",
+      "names_mentioned": [],
+      "excerpt": "Obviously it wasn't our best night, but flush it down. We got one more game tomorrow.",
+      "quote": "Obviously it wasn't our best night, but flush it down. We got one more game tomorrow. That's going to be another great opportunity to come back and get better.",
+      "verbatim_original_language": "",
+      "start_seconds": 58,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "After back to back losses Moussa Diabate says the team is ready to flush it down and focus on the next opportunity to get better in tomorrow night's game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate reflects on the team's mindset following back-to-back losses and looks ahead to the next game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ZX1s_a0g-q8",
+  "url": "https://www.youtube.com/watch?v=ZX1s_a0g-q8",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-10-31T02:02:00Z",
+  "duration_seconds": 71,
+  "processed_at": "2026-10-31T07:05:41Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}

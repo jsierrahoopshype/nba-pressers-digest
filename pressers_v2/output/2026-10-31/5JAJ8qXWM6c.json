@@ -1,0 +1,169 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Orlando Magic | October 30, 2026",
+  "speakers_seen": [
+    "Jakob Poeltl",
+    "Scottie Barnes",
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "00:35",
+      "summary_phrase": "Jakob Poeltl on the team's need for better defensive consistency",
+      "names_mentioned": [],
+      "excerpt": "we got a lot of fouls early then we tried to pull back a little bit",
+      "quote": "It is hard to tell when you are out there. It is not our job to worry about that. We have to play our game, adjust to how we feel like the whistle is blowing that particular night. We did not do a great job with that today. We got a lot of fouls early then we tried to pull back a little bit, but with that we just gave them way too many open lanes. We did it in the wrong way. We stopped our aggressiveness and we just allowed them to play really freely. We have to be better there.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jakob Poeltl says the Raptors struggled to adjust to the officiating tonight, noting that the team stopped their aggressiveness and allowed too many open lanes because of it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl discusses the team's defensive struggles and issues with foul trouble during the post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "02:16",
+      "summary_phrase": "Jakob Poeltl on Scottie Barnes' aggressive performance against Orlando",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "he looked like a man on a mission",
+      "quote": "He looked like a man on a mission. He was really, really aggressive out there. They tried to throw everybody at him. It did not really matter too much. He made some very tough shots. It is just too bad that we could not help him enough tonight. Really, I do not even think the offense was that big of a problem for us. It was that we allowed way too many points on defense. We have to hold ourselves to a higher standard there.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jakob Poeltl on Scottie Barnes tonight: He looked like a man on a mission. Poeltl added that the Raptors failed to help Barnes enough and must hold themselves to a higher standard on defense.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jakob Poeltl praises Scottie Barnes for his aggressive offensive performance despite the team's defensive shortcomings against Orlando.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "03:35",
+      "summary_phrase": "Scottie Barnes on his improved ability to find scoring spots",
+      "names_mentioned": [],
+      "excerpt": "the difference is just being able to get to those spots but also being aggressive",
+      "quote": "I think I have been getting to my spots pretty good. The difference is just being able to get to those spots but also being aggressive going to the rim. Not always settling, but just still trying to be aggressive, go to the rim, go to people's chest, be able to get to a paint touch, draw the defense in. If the shot is there, probably the dunk is there if their whole defense collapses, find the corner, but just trying to mix in both.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes says his focus is on being aggressive and getting to the rim rather than settling for jumpers. He wants to continue drawing the defense in to create opportunities for himself and his teammates.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains his offensive approach and his focus on being aggressive while attacking the rim.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "08:03",
+      "summary_phrase": "Darko Rajakovic praises Scottie Barnes' career-high scoring performance",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "he was super aggressive, he was going downhill, he was getting to his spots",
+      "quote": "He was super aggressive, he was going downhill, he was getting to his spots on the floor. This was his, you know, best scoring night in his career, and I think we are going to be seeing more of games like this from his part.",
+      "text_blocks": [],
+      "start_seconds": 483,
+      "end_seconds": 500,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic on Scottie Barnes after his career high scoring night: He was super aggressive and getting to his spots. Rajakovic believes we are going to be seeing more games like this from him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Head coach Darko Rajakovic comments on Scottie Barnes achieving a career-high scoring performance against the Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "09:48",
+      "summary_phrase": "Darko Rajakovic critiques the officiating and free throw disparity",
+      "names_mentioned": [],
+      "excerpt": "a player that gets three four shots in a game who scores 41 points",
+      "quote": "For me, a player that gets three four shots in a game who scores 41 points and goes to the free throw line three times, that is kind of BS to be honest with you. They got to the free throw line 29 times, we got to the free throw line 15 times, and I do not think that we were more physical or more aggressive team than them. I think that both teams played really aggressive good basketball and I think that both criteria should be same on both ends of the floor.",
+      "text_blocks": [],
+      "start_seconds": 588,
+      "end_seconds": 624,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Darko Rajakovic calls the free throw disparity in tonight's loss BS. He noted that Barnes scored 41 points while only getting to the line three times and argued the officiating criteria was not the same on both ends.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic expresses frustration regarding the officiating and the free throw disparity between the Raptors and the Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "5JAJ8qXWM6c",
+  "url": "https://www.youtube.com/watch?v=5JAJ8qXWM6c",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-10-31T04:01:29Z",
+  "duration_seconds": 717,
+  "processed_at": "2026-10-31T07:05:10Z",
+  "run_id": "2026-10-31-overnight",
+  "is_one_off": false
+}
