@@ -1,0 +1,190 @@
+{
+  "video_title": "LIVE: Pelicans vs. Hawks Pregame w/ Jamahl Mosley 10/31/2026",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "05:55",
+      "summary_phrase": "Jamahl Mosley on Dejounte Murray's status for tonight's game",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "Dejounte is not going to be in tonight, and that's more for similar reasons.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "With Dejounte being back, how do you approach that decision?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Dejounte is not going to be in tonight, and that's more for similar reasons. So we're giving him one more game under the belt there."
+        }
+      ],
+      "start_seconds": 355,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Jamahl Mosley confirms Dejounte Murray will not play tonight. The team is giving him one more game under his belt before returning to action.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley explains that Dejounte Murray will not play in the game against the Hawks.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:18",
+      "summary_phrase": "Jamahl Mosley on the chemistry between Jeremiah and Herb",
+      "names_mentioned": [
+        "Jeremiah",
+        "Herb"
+      ],
+      "excerpt": "There's a pace to the game that Jeremiah plays with. Herb obviously what he's capable of doing defensively.",
+      "quote": "There's a pace to the game that Jeremiah plays with. Herb obviously what he's capable of doing defensively, can play multiple positions, not just the three and the four. He can bring the ball up, orchestrate our offense a little bit. I think those are good pieces of what he's provided and he's got such a high basketball IQ that he can play with pretty much anybody out there on the floor.",
+      "verbatim_original_language": "",
+      "start_seconds": 378,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley praises the versatility of Herb Jones, noting his high basketball IQ allows him to play multiple positions and orchestrate the offense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Robinson-Earl",
+          "Herbert Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley discusses the on-court chemistry and versatility between Jeremiah Robinson-Earl and Herbert Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:56",
+      "summary_phrase": "Jamahl Mosley on defensive adjustments against the Hawks",
+      "names_mentioned": [],
+      "excerpt": "We're going to always have to adjust as games go on. They present a lot of problems.",
+      "quote": "We're going to always have to adjust as games go on. They present a lot of problems because they're willing to move and share the basketball. So it's got to be us moving as the ball moves. You got to close out, know who you're closing out to, so you're not allowing fly-bys and blow-bys. We've got to do a better job protecting the paint, especially for a team that likes to get downhill and can also find the three. So understanding the personnel, how we want to guard, how we want to switch or if we want to stay in coverages, those are going to all be pieces tonight that we'll focus in on.",
+      "verbatim_original_language": "",
+      "start_seconds": 416,
+      "end_seconds": 460,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says the key to slowing down the Hawks tonight is moving as the ball moves and doing a better job protecting the paint.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley describes the defensive strategy and adjustments needed to contain the Hawks' offensive movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:34",
+      "summary_phrase": "Jamahl Mosley on the energy of the second unit",
+      "names_mentioned": [],
+      "excerpt": "They're just a different level of energy. And I think our guys know that when they check in.",
+      "quote": "They're just a different level of energy. And I think our guys know that when they check in the game what they're bringing to the table. They've got to come out, play hard, they've got to share the basketball. There's a resiliency and a toughness to them that you like to see, but again, it's the pace of play that they decide to turn up and I think that's very good for us as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 454,
+      "end_seconds": 483,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley credits the second unit for bringing a different level of energy and toughness to the floor.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the energy and pace provided by the Pelicans' second unit players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "08:03",
+      "summary_phrase": "Jamahl Mosley on CJ McCollum's professionalism and impact",
+      "names_mentioned": [
+        "CJ",
+        "Osborne"
+      ],
+      "excerpt": "He's always done such a great job of being just the ultimate professional.",
+      "quote": "Knowing CJ over time, obviously he's a wine guy, so that's always a good thing. But he was also coached in Portland by Coach Osborne. And so just being around CJ being representing the league, the PA, he's always done such a great job of being just the ultimate professional. How he conducts himself, how he holds himself, how he takes care of those around him, his teammates. Then there's the other side of the on the court. Just the ultimate shot maker, shot creator. I think that what he does there has been special. What he did for there in their run last year I think is big. So again, he's just been overall just the ultimate professional, the ultimate teammate, and a great representative of this league.",
+      "verbatim_original_language": "",
+      "start_seconds": 483,
+      "end_seconds": 533,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley calls CJ McCollum the ultimate professional and teammate, highlighting his impact both on and off the court.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "CJ McCollum"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley reflects on the professionalism and leadership qualities of CJ McCollum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "8zPBDO2czF4",
+  "url": "https://www.youtube.com/watch?v=8zPBDO2czF4",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-10-31T22:43:44Z",
+  "duration_seconds": 561,
+  "processed_at": "2026-10-31T23:23:08Z",
+  "run_id": "2026-10-31T2322Z-20utc",
+  "is_one_off": false
+}

@@ -1,0 +1,364 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Portland Trail Blazers 112, Utah Jazz 90 | Oct. 31, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:00",
+      "summary_phrase": "Micah Nori on restoring the Trail Blazers' defensive identity",
+      "names_mentioned": [],
+      "excerpt": "We were trying to get back our defensive identity after I felt the last two games got away",
+      "quote": "We were trying to get back our defensive identity after I felt the last two games got away for us. We talked about forcing them to miss shots instead of hoping that they miss shots, and that is where we were against Memphis and even against the Lakers for a while. I thought the mindset defensively was on point from the get-go. The physicality that we talked about, I thought we kept them very uncomfortable, forced a lot of turnovers and forced a lot of misses, and then to allow them only seven offensive rebounds, that all goes with the physicality.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori says the Trail Blazers focused on restoring their defensive identity against the Jazz, emphasizing physicality to force misses and limit offensive rebounds after a rough stretch.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori discusses the team's defensive performance and identity following recent games against Memphis and the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:33",
+      "summary_phrase": "Micah Nori on the need to reduce team turnovers",
+      "names_mentioned": [
+        "Ja Morant"
+      ],
+      "excerpt": "The one thing we need to clean up, and that is where we will miss Ja, is the turnovers.",
+      "quote": "The one thing we need to clean up, and that is where we will miss Ja, is the turnovers. We just had 17 of them, took the one shot clock violation at the end. However, we just have to make sure that we make better decisions with the ball. A lot of them were in transition when we had odd-man rushes, which was unfortunate.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori notes the Trail Blazers need to clean up their ball security after committing 17 turnovers against Utah, specifically citing poor decision-making during transition opportunities.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ja Morant"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori addresses the team's high turnover count and the impact of missing Ja.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "00:55",
+      "summary_phrase": "Micah Nori on Scoot Henderson's performance and decision-making",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "I think Scoot was fine. You can't keep him from going to the rim.",
+      "quote": "I think Scoot was fine. I told him during the game, you can't keep him from going to the rim. Instead of settling for the little pull-up, just kick it back out and we can play again and give another look at it, especially earlier in that clock. I thought his defensive intensity, he did have four turnovers, but he also had three steals. I thought he did a good job managing the game late when we were trying to wind it all down.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori is coaching Scoot Henderson to simplify his game by kicking the ball out instead of settling for pull-up jumpers when he gets into the lane.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori evaluates Scoot Henderson's decision-making and performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "01:35",
+      "summary_phrase": "Micah Nori on coaching Scoot Henderson to simplify his game",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "The thing that I try to do with Scoot is just keep things as simple as possible.",
+      "quote": "The thing that I try to do with Scoot is just keep things as simple as possible for him. When Scoot plays where he is getting downhill, if he sees a crowd and gets off of it, I know he is going to guard, I know he is going to compete. You start to learn your players and you learn how to communicate with them. Scoot is already hard enough on himself, and if anything, I have to just keep encouraging him and let him know that not only do we believe, but we trust him.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori on managing Scoot Henderson: The goal is to keep things simple and encourage him, noting that the young guard is already hard enough on himself.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori explains his approach to communicating with and coaching Scoot Henderson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "02:20",
+      "summary_phrase": "Micah Nori on preventing Scoot Henderson from overthinking",
+      "names_mentioned": [
+        "Scoot Henderson",
+        "Damian Lillard",
+        "Drew Eubanks"
+      ],
+      "excerpt": "I just don't overthink. We want him obviously to think and make the right play.",
+      "quote": "I just don't overthink. We want him obviously to think and make the right play, but just keep things simple. I have told him we don't need him to orchestrate everything for everybody else. Just for him to go, and then we will call plays and we will run stuff, but he is out there with Dame, he is out there with Damian, a lot of times it is Drew. Those guys know how to play and we just want to keep things simple, keep him going downhill, and don't necessarily let him be who he is.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori wants Scoot Henderson to stop overthinking on the floor, telling the guard he does not need to orchestrate everything for everyone else.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori discusses his desire for Scoot Henderson to simplify his play style while sharing the court with teammates like Damian Lillard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "02:48",
+      "summary_phrase": "Micah Nori on managing Scoot Henderson's high effort levels",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "It is more so not letting one bad play turn into two, three and four bad plays.",
+      "quote": "I know the amount of effort, work and everything that he puts into it and how hard he is on himself, and sometimes you can't, it is more so not letting one bad play turn into two, three and four bad plays. Just kind of clearing your mind and just going at it. But that is the talks that we are having, and it is not going to change overnight. He is an elite, elite basketball player. He is one of the few guys on our team that can go where he wants to go when he wants to do it to get himself downhill.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Nori on Scoot Henderson: The key for his development is not letting one bad play turn into three or four, a process that will not change overnight.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori talks about managing Scoot Henderson's high effort levels and mental approach to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Nori",
+      "timestamp": "03:38",
+      "summary_phrase": "Micah Nori on Scoot Henderson's defensive impact",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "I think he has been elite. I think that we have just talked about getting into the ball.",
+      "quote": "I think he has been elite. I think that we have just talked about getting into the ball. The other thing that I like that he did, the two offensive rebounds were big. We told him to try to get one and a half, one or two a half and he went and did that. I just thought his on-ball pressure, when we are able to switch and then he can guard even a little bit bigger players and we don't lose anything, I just thought his physicality and them having to run offense from mid-court as opposed to the 27-foot line, it is a big difference.",
+      "text_blocks": [],
+      "start_seconds": 218,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori praises Scoot Henderson for his elite defensive intensity and on-ball pressure, noting his ability to guard bigger players without losing effectiveness.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori praises Scoot Henderson's defensive intensity and rebounding contributions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Micah Nori",
+      "timestamp": "04:10",
+      "summary_phrase": "Micah Nori on the team's collective struggle with turnovers",
+      "names_mentioned": [],
+      "excerpt": "I attribute everybody's struggles to turnovers. I mean, he is elite, he is such a, you know, you just",
+      "quote": "I attribute everybody's struggles to turnovers. I mean, he is elite, he is such a, you know, you just, I mean again, I don't run anything for him and he is four for nine from three, makes his two free throws, goes and gets four defensive rebounds, you know, two steals, only one turnover, and some of the fouls, you know, it is just him being aggressive. But I just, he is a problem every night.",
+      "text_blocks": [],
+      "start_seconds": 250,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori calls Scoot Henderson a problem for opponents every night, highlighting his ability to impact the game with rebounding, steals, and aggressive play.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori discusses team turnover struggles and praises the performance of an unnamed player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Micah Nori",
+      "timestamp": "04:40",
+      "summary_phrase": "Micah Nori on the contributions of Hansel Emmanuel",
+      "names_mentioned": [
+        "Hansel Emmanuel",
+        "Donovan Mitchell",
+        "Rob"
+      ],
+      "excerpt": "I like to shout out Hansel as well. I thought Hansel came in when we got in some foul trouble.",
+      "quote": "I like to shout out Hansel as well. I thought Hansel came in when we got in some foul trouble and even when they were small late in the game, stayed with them, made a couple of big buckets, made some nice passes and he ends up with with five rebounds in 13 minutes, so, you know, just give him credit to him too.",
+      "text_blocks": [],
+      "start_seconds": 280,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori credits Hansel Emmanuel for his contributions off the bench, noting his impact on the glass and playmaking during his 13 minutes of action.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Hansel Emmanuel"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori highlights the contributions of Hansel Emmanuel off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Micah Nori",
+      "timestamp": "05:15",
+      "summary_phrase": "Micah Nori on his regret regarding rotation management",
+      "names_mentioned": [
+        "Donovan Mitchell",
+        "Hansel Emmanuel"
+      ],
+      "excerpt": "I actually kicking myself from the Memphis game, I thought that, you know, probably should have gave Hansel a look.",
+      "quote": "It was Donovan's foul trouble, but I think the one thing we talk about the depth, and I actually kicking myself from the Memphis game, I thought that, you know, probably should have gave Hansel a look, especially when they were big. He has earned that right, he has deserved that right, and that is on me, and I told him that after the game and that was my fault that I didn't get him in the Memphis game. But I thought tonight we stayed with him, even when they went small for a little bit, got his hands on a couple deflections there, again with the five rebounds, had a really nice assist when we needed a bucket.",
+      "text_blocks": [],
+      "start_seconds": 315,
+      "end_seconds": 361,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori admits he made a mistake by not playing Hansel Emmanuel in the previous game against Memphis, saying the young forward has earned his spot in the rotation.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Clingan",
+          "Hansel Emmanuel"
+        ],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Micah Nori admits fault for not playing Hansel Emmanuel in a previous game against Memphis due to rotation management.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Micah Nori",
+      "timestamp": "06:00",
+      "summary_phrase": "Micah Nori on Hansel Emmanuel's development and adjustment to NBA speed",
+      "names_mentioned": [
+        "Hansel Emmanuel"
+      ],
+      "excerpt": "I think the one thing is when they do go small, it is just tough to for him like to navigate all of that.",
+      "quote": "I think the one thing is when they do go small, it is just tough to for him like to navigate all of that, and that will come, but I think the one thing too that he is getting very a lot better at is the speed of the NBA game and a lot of the length and speed that these defenders have now and he is things are starting to slow down for him, so he is he is improving constantly and the one thing is he again is a hard worker and he is a guy that, and his and his communication is getting better.",
+      "text_blocks": [],
+      "start_seconds": 360,
+      "end_seconds": 398,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Nori says Hansel Emmanuel is adjusting well to the speed and length of the NBA game, noting that things are starting to slow down for him as he improves.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Hansel Emmanuel"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Micah Nori discusses Hansel Emmanuel's ongoing development and adjustment to the speed of the NBA game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "yes2qg4J4b0",
+  "url": "https://www.youtube.com/watch?v=yes2qg4J4b0",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-10-31T22:13:42Z",
+  "duration_seconds": 398,
+  "processed_at": "2026-10-31T23:23:10Z",
+  "run_id": "2026-10-31T2322Z-20utc",
+  "is_one_off": false
+}
