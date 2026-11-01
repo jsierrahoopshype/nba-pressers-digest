@@ -1,0 +1,618 @@
+{
+  "video_title": "Denver Nuggets Full Practice Media Availability | 11.1.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Trevon Brazile",
+    "Cam Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Unidentified speaker",
+      "timestamp": "00:26",
+      "summary_phrase": "coaching players he previously scouted as opponents",
+      "names_mentioned": [
+        "Murray",
+        "Jokic"
+      ],
+      "excerpt": "It's always fun coaching guys that you've been coaching against",
+      "quote": "It's always fun coaching guys that you've been coaching against. You're like, man, scouting that play was a problem, and scouting Murray and Jokic in action is a problem. Now you get to see it up close, kind of see how the sausage is made, and I love the art of that stuff. It's been really cool.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 48,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_post": "Nuggets staffer on learning the team playbook: Jokic said today man we ran that seven years ago. I was nowhere to be found at that point. I was seeing it run against me but did not know the names of stuff.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "An unidentified coach discusses the experience of coaching players he previously scouted as opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "timestamp": "00:58",
+      "summary_phrase": "continuity and corporate knowledge of the Nuggets roster",
+      "names_mentioned": [
+        "Jokic"
+      ],
+      "excerpt": "It's really neat to see the continuity that they have, the corporate knowledge",
+      "quote": "It's really neat to see the continuity that they have, the corporate knowledge. I'm still trying to catch on to some of the language that they use. Jokic said today, man, we ran that seven years ago. I was nowhere to be found at that point. I was seeing it run against me but didn't know the names of stuff. The intricacies of why guys go where they go, when the ball is here, there, or the other, is really neat.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 89,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "Nuggets staffer on the second unit: I think our second unit right now is looking for an identity. We can continue to tweak different things.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "An unidentified coach reflects on the continuity and corporate knowledge within the Nuggets roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Unidentified speaker",
+      "timestamp": "01:49",
+      "summary_phrase": "early season defensive transition improvements",
+      "names_mentioned": [],
+      "excerpt": "In general, our transition defense has improved over the course of the first five games",
+      "quote": "I think we're starting to find a rhythm. We still have early season turnovers, and it's difficult to get back on defense on live ball turnovers. In general, our transition defense has improved over the course of the first five games. We're getting back much better, and we can cut down the turnovers a little bit.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 131,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "Nuggets staffer on Jamal Murray: Every time he shoots I feel like it is going in. He comes flying off his hands are so soft and he is at 26 feet.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "An unidentified coach evaluates the team's defensive transition and turnover issues early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Unidentified speaker",
+      "timestamp": "02:50",
+      "summary_phrase": "Trevon Brazile's defensive versatility and growth",
+      "names_mentioned": [
+        "Trevon"
+      ],
+      "excerpt": "His ability to be switchable and guard guys out on the perimeter is terrific",
+      "quote": "It's impressive because you play that position as a big your whole life. Your natural tendencies are to gravitate to the basket defensively and offensively as well. His ability to be switchable and guard guys out on the perimeter is terrific. Every game we have video, and he's learned something. I think he gets better every night at not making the same mistake twice. He's staying out, and knowing when to do this, that, and the other, that only game experience can bring.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 202,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "Nuggets staffer on Aaron Gordon: He is still where he is minutes-wise and being able to carry some of that load with Jamal not on the floor I think it is still coming.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trevon Brazile"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "An unidentified coach praises Trevon Brazile's defensive versatility and his ability to learn from game experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Unidentified speaker",
+      "timestamp": "04:16",
+      "summary_phrase": "second unit searching for a consistent identity",
+      "names_mentioned": [],
+      "excerpt": "I think our second unit right now is looking for an identity",
+      "quote": "I think our second unit right now is looking for an identity. We can continue to tweak different things, and where I can really support that.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 266,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "Trevon Brazile on his increased role: I am probably being asked to do more as far as switching out on the perimeter and rotations. I feel like I can do what I do at a high level every night.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "An unidentified coach discusses the search for a consistent identity for the team's second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Unidentified speaker",
+      "timestamp": "06:20",
+      "summary_phrase": "Jamal Murray's elite offensive skill set",
+      "names_mentioned": [
+        "Jamal",
+        "Jokic"
+      ],
+      "excerpt": "He's one of the guys that, again, like Jokic is always talked about, he's so good",
+      "quote": "He's one of the guys that, again, like Jokic is always talked about, he's so good. Good gracious, he is a really good basketball player. Every time he shoots, I feel like it's going in. He comes flying off, his hands are so soft, and he's at 26 feet. You just every time he shoots, I feel like it's going in.",
+      "text_blocks": [],
+      "start_seconds": 380,
+      "end_seconds": 403,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_post": "Trevon Brazile on learning the dunker spot: Just watching Aaron Gordon and how he navigates that he has been a big help for me and he is always talking me through everything.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "An unidentified coach shares his admiration for Jamal Murray's offensive skill set.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Unidentified speaker",
+      "timestamp": "07:00",
+      "summary_phrase": "Aaron Gordon's role in playmaking duties",
+      "names_mentioned": [
+        "Aaron Gordon",
+        "Jamal"
+      ],
+      "excerpt": "The ball handling has been subsidized in the past a little bit with Aaron Gordon",
+      "quote": "To me, the ball handling has been subsidized in the past a little bit with Aaron Gordon. He's still where he is minutes-wise and being able to carry some of that load with Jamal not on the floor, I think it's still coming.",
+      "text_blocks": [],
+      "start_seconds": 420,
+      "end_seconds": 437,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_post": "Trevon Brazile on his rebounding: I feel like I should be able to go out there and get eight rebounds every game. I can definitely pick it up rebounding more offensively and defensively.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Gordon",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "An unidentified coach discusses Aaron Gordon's role in handling playmaking duties while Jamal Murray is off the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trevon Brazile",
+      "timestamp": "07:26",
+      "summary_phrase": "Brazile's focus on defensive stops and rebounding",
+      "names_mentioned": [],
+      "excerpt": "I think the main thing is obviously getting defensive stops, rebounds",
+      "quote": "I think the main thing is obviously getting defensive stops, rebounds, things like that.",
+      "text_blocks": [],
+      "start_seconds": 446,
+      "end_seconds": 451,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Cam Johnson on Trevon Brazile: The way he gets vertical on rebounds and lobs and stuff like that. He just goes and his arms kind of flail above his head like the inflatables outside of a car dealership.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Trevon Brazile highlights his focus on defensive stops and rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Trevon Brazile",
+      "timestamp": "08:42",
+      "summary_phrase": "defensive adjustments and increased perimeter responsibilities",
+      "names_mentioned": [],
+      "excerpt": "I'm probably being asked to do more as far as switching out on the perimeter",
+      "quote": "I'm probably being asked to do more as far as switching out on the perimeter and rotations, doing certain things. But I feel like offensively it's pretty much the same, catching lobs, cutting, hitting open shots, spacing the floor.",
+      "text_blocks": [],
+      "start_seconds": 522,
+      "end_seconds": 537,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Cam Johnson on Christian Braun: Anytime hitting seven threes is not an easy thing to do in this league so you best believe it is going to be on the scouting report that he will shoot them.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Trevon Brazile explains the defensive adjustments he is making regarding perimeter switching.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Trevon Brazile",
+      "timestamp": "09:04",
+      "summary_phrase": "Brazile's preference for wider lob passes",
+      "names_mentioned": [],
+      "excerpt": "I actually wanted him to throw a little, he threw a high enough, but I want a little wider",
+      "quote": "I actually wanted him to throw a little, he threw a high enough, but I want a little wider, you know, so I can actually throw it something crazy down. They all know I like my passes real high. You can throw it anywhere at the rim, I'm going to get it.",
+      "text_blocks": [],
+      "start_seconds": 544,
+      "end_seconds": 564,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Cam Johnson on Jamal Murray: He has been bringing it. He has some really good possessions where he is being the aggressor on the defensive end and it is really important for us.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Trevon Brazile discusses his preference for the type of lob passes he receives.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Trevon Brazile",
+      "timestamp": "10:49",
+      "summary_phrase": "Brazile's reaction to unexpected early season minutes",
+      "names_mentioned": [],
+      "excerpt": "I had no clue this is how it was going to go",
+      "quote": "I had no clue this is how it was going to go. Going into this season, I didn't know if I was going to play zero minutes, get thrown in in the fourth, or at the last two minutes. Unfortunately, there were some injuries, so I got my turn, and I feel like I can do what I do at a high level every night.",
+      "text_blocks": [],
+      "start_seconds": 649,
+      "end_seconds": 674,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Trevon Brazile reacts to receiving unexpected playing time due to teammate injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Trevon Brazile",
+      "timestamp": "11:28",
+      "summary_phrase": "Brazile's approach to mismatches in Oklahoma City",
+      "names_mentioned": [],
+      "excerpt": "I was just taking advantage of the matchups",
+      "quote": "I wouldn't say I was running on like adrenaline. It was just more I was taking advantage of the matchups. I had the point guard on me, and I knew he couldn't block me out or didn't want to. So, you know, it's just crashing the glass, taking advantage of, you know, my matchup.",
+      "text_blocks": [],
+      "start_seconds": 688,
+      "end_seconds": 709,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Trevon Brazile describes how he exploited matchups during the game against Oklahoma City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Trevon Brazile",
+      "timestamp": "11:56",
+      "summary_phrase": "learning the dunker spot from Aaron Gordon",
+      "names_mentioned": [
+        "Aaron Gordon"
+      ],
+      "excerpt": "Knowing where to be, for example, when the ball is coming at you, spacing away",
+      "quote": "Knowing where to be, for example, when the ball is coming at you, spacing away or going to the other side of the dunker. Just watching him and you know how he navigates that, he's been a big help for me, and you know he's always talking me through, you know, everything.",
+      "text_blocks": [],
+      "start_seconds": 716,
+      "end_seconds": 736,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Aaron Gordon"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trevon Brazile credits Aaron Gordon for helping him learn how to navigate the dunker spot.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Trevon Brazile",
+      "timestamp": "13:29",
+      "summary_phrase": "Brazile's self-critique on rebounding consistency",
+      "names_mentioned": [],
+      "excerpt": "I feel like I should be able to go out there and get eight rebounds every game",
+      "quote": "I would say rebounding. I feel like I should be able to go out there and get eight rebounds every game. Some of it is, you know, ball coming off the rim a certain way, some of it is luck with the rebounding, but I can definitely pick it up, rebounding more offensively and defensively.",
+      "text_blocks": [],
+      "start_seconds": 809,
+      "end_seconds": 830,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Trevon Brazile critiques his own rebounding consistency and sets a goal for his performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Cam Johnson",
+      "timestamp": "14:04",
+      "summary_phrase": "Trevon Brazile's verticality and athleticism",
+      "names_mentioned": [
+        "Trevon"
+      ],
+      "excerpt": "The way he gets vertical on rebounds and lobs and stuff like that",
+      "quote": "The way he gets vertical on rebounds and lobs and stuff like that. He just goes, and his arms kind of flail above his head like the inflatables outside of a car dealership, and he goes and gets the ball.",
+      "text_blocks": [],
+      "start_seconds": 844,
+      "end_seconds": 859,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trevon Brazile"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Johnson describes Trevon Brazile's verticality and athleticism on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Cam Johnson",
+      "timestamp": "14:37",
+      "summary_phrase": "the importance of positive momentum on road trips",
+      "names_mentioned": [],
+      "excerpt": "Positive momentum, that's what it is, positive momentum",
+      "quote": "Positive momentum, that's what it is, positive momentum. Keeping everything rolling and having fun with it.",
+      "text_blocks": [],
+      "start_seconds": 877,
+      "end_seconds": 883,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Cam Johnson emphasizes the importance of maintaining positive momentum during road trips.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Cam Johnson",
+      "timestamp": "14:50",
+      "summary_phrase": "Christian Braun's shooting impact on team spacing",
+      "names_mentioned": [
+        "Christian"
+      ],
+      "excerpt": "It makes us really hard to guard",
+      "quote": "It makes us really hard to guard. There's a lot of guys that can make a lot of shots on a lot of spots on the floor, and it takes pressure off. Anytime hitting seven threes is not an easy thing to do in this league, so you best believe it's going to be on the scouting report one way or another that he will shoot them. And so that just keeps the defense even more honest, even more space out.",
+      "text_blocks": [],
+      "start_seconds": 890,
+      "end_seconds": 921,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Johnson discusses how Christian Braun's shooting ability improves the team's spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Cam Johnson",
+      "timestamp": "15:41",
+      "summary_phrase": "defensive focus on second and third efforts",
+      "names_mentioned": [],
+      "excerpt": "The next layer is kind of how we have the second and third kind of efforts",
+      "quote": "The next layer is kind of how we have the second and third kind of efforts with peels and switches and, you know, coming for each other. Maybe being in the gap to closing out, to taking away certain things, and only leaving certain things on the table for teams instead of having, you know, buffets on defense or, you know, get you in trouble when they got everything, threes, mid-ies, layups, lobs.",
+      "text_blocks": [],
+      "start_seconds": 941,
+      "end_seconds": 969,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Cam Johnson explains the team's defensive focus on second and third efforts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Cam Johnson",
+      "timestamp": "16:32",
+      "summary_phrase": "Jamal Murray's defensive intensity and impact",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "He's been bringing it",
+      "quote": "He's been bringing it. He has some really good possessions in New Orleans, he has some really good possessions in Phoenix, where he is being the aggressor on the defensive end, and it's really important for us.",
+      "text_blocks": [],
+      "start_seconds": 992,
+      "end_seconds": 1006,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Johnson praises Jamal Murray for his recent defensive intensity and aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Cam Johnson",
+      "timestamp": "16:56",
+      "summary_phrase": "Murray's defensive playmaking and steal ability",
+      "names_mentioned": [],
+      "excerpt": "He cut off the drive into a steal",
+      "quote": "He cut off the drive into a steal. Like that's quick easy defense that he was able to provide right there, and he's been doing a really good job. So as everybody buys in on that end of the court, it's going to make us even better.",
+      "text_blocks": [],
+      "start_seconds": 1016,
+      "end_seconds": 1034,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_post": "",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Johnson highlights Jamal Murray's defensive playmaking and ability to generate steals.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QQCuxFsG_AI",
+  "url": "https://www.youtube.com/watch?v=QQCuxFsG_AI",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-01T21:30:11Z",
+  "duration_seconds": 1043,
+  "processed_at": "2026-11-01T23:35:04Z",
+  "run_id": "2026-11-01T2334Z-20utc",
+  "is_one_off": false
+}
