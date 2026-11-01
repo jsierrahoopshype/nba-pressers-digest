@@ -1,0 +1,455 @@
+{
+  "video_title": "LIVE: Pelicans vs. Hawks Postgame Interviews 10/31/2026",
+  "speakers_seen": [
+    "Jamahl Mosley",
+    "Zion Williamson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "14:15",
+      "summary_phrase": "Jamahl Mosley on defensive effort and paint protection",
+      "names_mentioned": [],
+      "excerpt": "the effort and the energy that our guys played with that toughness that we've asked them to play with",
+      "quote": "I think us being able to crawl into the basketball, protect the paint the right way, they still have 52 points in the paint, so can we clean that up a little bit there? Some of that came in transition off the live ball turnovers, but the effort and the energy that our guys played with that toughness that we've asked them to play with, that was closer to 48 of what it needs to look like.",
+      "text_blocks": [],
+      "start_seconds": 855,
+      "end_seconds": 885,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the Pelicans defensive identity: The effort and energy the team played with was closer to 48 minutes of what it needs to look like.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's defensive effort and paint protection following the game against the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "14:48",
+      "summary_phrase": "Jamahl Mosley on the team's starting lineup and bench depth",
+      "names_mentioned": [],
+      "excerpt": "we're bringing up guys off the bench that they're coming in with that same tenacity",
+      "quote": "There's a combination of a few things. It's them starting it a little bit, but then we're bringing up guys off the bench that they're coming in with that same tenacity, that same focus, that same energy, and I think that's got to be a key for what we're going to do.",
+      "text_blocks": [],
+      "start_seconds": 888,
+      "end_seconds": 908,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley emphasizes the importance of bench depth and tenacity: Bringing guys off the bench who come in with the same focus is a key for what we are going to do.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the importance of energy and tenacity from the bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "15:15",
+      "summary_phrase": "Jamahl Mosley on the chemistry between Dyson Daniels and Zion Williamson",
+      "names_mentioned": [
+        "Dyson Daniels",
+        "Zion Williamson",
+        "Jeremiah"
+      ],
+      "excerpt": "teams have a tough time figuring out how they're going to guard Z",
+      "quote": "A lot of it depends on the matchup and the moments. Towards the end of the game, teams have a tough time figuring out how they're going to guard Z. And with Jeremiah's speed and his ability to get downhill, I think that changes how they're going to have to guard Z and him. And so being able to put those two in action, it comes out to our benefit.",
+      "text_blocks": [],
+      "start_seconds": 915,
+      "end_seconds": 942,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the Zion Williamson and Jeremiah action: With his speed and ability to get downhill it changes how teams have to guard Z and him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the tactical benefits of pairing Zion Williamson with another player in late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "16:23",
+      "summary_phrase": "Jamahl Mosley on the team's 'by committee' approach",
+      "names_mentioned": [],
+      "excerpt": "it's going to be by committee on how we're going to get it done",
+      "quote": "Every night is going to be different, and that's what we've said about this team. It's going to be by committee on how we're going to get it done. And guys got to know it might be your night, it might not be your night for those closing moments. And our guys have done a great job of adjusting to that and knowing exactly what we need to see.",
+      "text_blocks": [],
+      "start_seconds": 983,
+      "end_seconds": 1010,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the Pelicans rotation: Every night is going to be different. It is going to be by committee on how we are going to get it done.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley addresses the team's by-committee approach to closing out games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "16:49",
+      "summary_phrase": "Jamahl Mosley on Saddiq Bey's performance",
+      "names_mentioned": [
+        "Saddiq Bey"
+      ],
+      "excerpt": "he hit all the clutch baskets at the right moment",
+      "quote": "It's interesting. I look up and see Saddiq has 25 and I didn't feel that he had 25, and he was just he hit all the clutch baskets at the right moment. He had matchups on him that we could expose. I thought he did a great job of being able to play physical, guarding multiple positions. He was guarding the four, guarding the five at moments with the switch, sitting down and guarding the speed guards. I think he's just the ultimate professional in the way that he approaches the game as well as the game plan.",
+      "text_blocks": [],
+      "start_seconds": 1009,
+      "end_seconds": 1047,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley praises Saddiq Bey after a 25 point performance: I think he is just the ultimate professional in the way that he approaches the game as well as the game plan.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises Saddiq Bey for his versatile defensive performance and professional approach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "17:27",
+      "summary_phrase": "Jamahl Mosley on defensive contest and paint protection",
+      "names_mentioned": [],
+      "excerpt": "our ability to protect the paint first is what we want to talk about",
+      "quote": "Our ability to protect the paint first is what we want to talk about, but then making sure we're flying and contesting and impacting all shots. Guys in this league are too darn good to just have wide open shots, so we want to make sure all of them are impacted. Got to be the second jumper off the ground so they're not fly-bys, but again, getting to guys' bodies and making sure there's a hand in the face, contesting all the shots.",
+      "text_blocks": [],
+      "start_seconds": 1047,
+      "end_seconds": 1079,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on defensive standards: Guys in this league are too darn good to just have wide open shots so we want to make sure all of them are impacted.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the need for consistent defensive pressure and shot contesting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "17:59",
+      "summary_phrase": "Jamahl Mosley on defense creating offense",
+      "names_mentioned": [],
+      "excerpt": "our defense has to create our offense",
+      "quote": "Our defense has to create our offense, and that's what we've told these guys and that's what they're starting to create. We understand that we've had 47 steals in the last couple games, and being able to get out in transition because of our defense. What I saw there was us being able to play the passing lane, get out, sharing the basketball and converting on the other end.",
+      "text_blocks": [],
+      "start_seconds": 1079,
+      "end_seconds": 1106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley credits defensive pressure for offensive success: Our defense has to create our offense and that is what we have told these guys.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley highlights how the team's defensive activity is fueling their transition offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Zion Williamson",
+      "timestamp": "28:26",
+      "summary_phrase": "Zion Williamson on the team's momentum and winning",
+      "names_mentioned": [],
+      "excerpt": "it's hard to win in this league",
+      "quote": "It's a great feeling. It's hard to win in this league, so for us to keep the momentum going after the last win and win tonight, great feeling.",
+      "text_blocks": [],
+      "start_seconds": 1706,
+      "end_seconds": 1717,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Zion Williamson on the team momentum: It is a great feeling. It is hard to win in this league so for us to keep the momentum going after the last win and win tonight is a great feeling.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson reflects on the team's momentum and the difficulty of winning in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Zion Williamson",
+      "timestamp": "29:21",
+      "summary_phrase": "Zion Williamson on coaching staff's defensive expectations",
+      "names_mentioned": [
+        "Jamahl Mosley",
+        "Coach Ize",
+        "RG"
+      ],
+      "excerpt": "they just push me to be great on that end",
+      "quote": "I got to give credit to Coach Mose, Coach Ize, and you know, RG. Speaking on RG a lot. Every game, you know, they tell me like what they kind of expect to see from me defensively and you know, where they want me to be physical at and you know, they just push me to be great on that end, so you know, it doesn't feel like that when I'm out there, but I guess the results are starting to show a little bit.",
+      "text_blocks": [],
+      "start_seconds": 1761,
+      "end_seconds": 1794,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson credits the coaching staff for his defensive growth: They push me to be great on that end so I guess the results are starting to show a little bit.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson credits the coaching staff for pushing him to improve his defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Zion Williamson",
+      "timestamp": "30:14",
+      "summary_phrase": "Zion Williamson on his chemistry with Herb Jones",
+      "names_mentioned": [
+        "Herb Jones"
+      ],
+      "excerpt": "we just kind of have a natural chemistry out there",
+      "quote": "I've known Herb for a few years. We've been in you know, the field together. So we just kind of have a natural chemistry out there defensively because there are times where even if coach is like he wants us to switch, you know, Herb just kind of has that mindset where he's like, let me through the screen, like we're not switching. So when you have somebody like that, a all-world defender, defensively, it's hard to go wrong.",
+      "text_blocks": [],
+      "start_seconds": 1814,
+      "end_seconds": 1844,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Zion Williamson on his defensive chemistry with Herb Jones: When you have somebody like that, an all world defender, defensively it is hard to go wrong.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson discusses his natural defensive chemistry with teammate Herb Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Zion Williamson",
+      "timestamp": "30:52",
+      "summary_phrase": "Zion Williamson on Saddiq Bey's role and professionalism",
+      "names_mentioned": [
+        "Saddiq Bey"
+      ],
+      "excerpt": "he does what's asked to him",
+      "quote": "To be expected. You know, Saddiq's a guy that if he wanted to, he could score 20 every night, but you know, he does what's asked to him. And you know, I know I say this about you know, a few guys, but when I say like I'm you know, I'm glad he's with us, because you know, in this league, a lot of guys wouldn't be comfortable playing that role. And you know, he's a professional, he plays his role, and whenever he has a moment to, you know, get his 20, 30, or show that he can really put the ball in the hoop, he shows out.",
+      "text_blocks": [],
+      "start_seconds": 1852,
+      "end_seconds": 1894,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson on Saddiq Bey: Saddiq is a guy that if he wanted to he could score 20 every night but he does what is asked of him. He is a professional.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson commends Saddiq Bey for his professionalism and willingness to play his role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Zion Williamson",
+      "timestamp": "31:32",
+      "summary_phrase": "Zion Williamson on maintaining focus during runs",
+      "names_mentioned": [],
+      "excerpt": "basketball is a game of runs",
+      "quote": "It feels good to go on those runs, especially early, but in this game, especially NBA, basketball is a game of runs. Like you can be up 20 in the first quarter and lose by 20 at the end of the game. So it's just about, you know, maintaining, understanding that the other team may go on a run, but not to panic in those moments and just stick to what we were doing.",
+      "text_blocks": [],
+      "start_seconds": 1892,
+      "end_seconds": 1920,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson on maintaining focus: NBA basketball is a game of runs. It is just about maintaining, understanding that the other team may go on a run, but not to panic.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson discusses the importance of maintaining focus during the inevitable runs that occur in NBA games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Zion Williamson",
+      "timestamp": "32:10",
+      "summary_phrase": "Zion Williamson on the team's consistency",
+      "names_mentioned": [],
+      "excerpt": "we got to be consistent. We got to be able to do it against every team",
+      "quote": "Definitely a step in the right direction, but you know, if we want to take that next step and you know, keep it up, we just got to be consistent. We got to be able to do it against every team.",
+      "text_blocks": [],
+      "start_seconds": 1930,
+      "end_seconds": 1946,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson on the team progress: Definitely a step in the right direction, but if we want to take that next step we just have to be consistent.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson emphasizes the need for consistency to take the next step as a team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Zion Williamson",
+      "timestamp": "32:42",
+      "summary_phrase": "Zion Williamson on the team's defensive philosophy",
+      "names_mentioned": [],
+      "excerpt": "the defense has to see a body because in the end of the day these are NBA players",
+      "quote": "We were trying to protect the paint and even when you know, somebody kicks it out for a three on the other team, not just letting them tee off open shot, just somebody got to run out there, whether it's a late contest or something, just the defense has to see a body because in the end of the day these are NBA players. You just can't let them tee off open shots.",
+      "text_blocks": [],
+      "start_seconds": 1962,
+      "end_seconds": 1990,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson on defensive philosophy: We were trying to protect the paint and even when somebody kicks it out for a three, just somebody has to run out there.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson explains the team's defensive philosophy regarding paint protection and contesting perimeter shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Zion Williamson",
+      "timestamp": "33:12",
+      "summary_phrase": "Zion Williamson on his relationship with CJ McCollum",
+      "names_mentioned": [
+        "CJ McCollum",
+        "Larry Nance"
+      ],
+      "excerpt": "CJ was a a really great vet for me",
+      "quote": "CJ was a a really great vet for me. From the moment me and him got to sit down, because when he came to the team, I was dealing with my broken foot and I was out that whole year, but and I was in Portland at the time and I was away from the team. But when I came back, you know, him and Larry Nance, you know, they would go out and get food and we would, you know, talk about what it looks like to be a pro, to be one of the greats and stuff like that. And you know, he would always kind of hold me to that standard.",
+      "text_blocks": [],
+      "start_seconds": 1992,
+      "end_seconds": 2036,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson on CJ McCollum: CJ was a really great vet for me. He would always kind of hold me to that standard of what it looks like to be a pro.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ McCollum",
+          "Larry Nance"
+        ],
+        "teams": [
+          "NOP",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Zion Williamson discusses the mentorship he received from CJ McCollum and Larry Nance regarding how to be a professional.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "AcAQz5_MBqY",
+  "url": "https://www.youtube.com/watch?v=AcAQz5_MBqY",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-01T17:25:37Z",
+  "duration_seconds": 2623,
+  "processed_at": "2026-11-01T18:54:39Z",
+  "run_id": "2026-11-01T1853Z-14utc",
+  "is_one_off": false
+}
