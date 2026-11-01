@@ -1,0 +1,176 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 10.31.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:00",
+      "summary_phrase": "Nick Nurse on managing player conditioning and spacing requirements",
+      "names_mentioned": [],
+      "excerpt": "we really need that spacing out there for him",
+      "quote": "He is a great shooter and a great scorer. I think what we mentioned a couple days ago, he literally had one practice going into the opening night and played a lot. It probably took his legs out a little bit, conditioning and all that kind of stuff. But another big night for him. We really need that spacing out there for him.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse says the team is still managing player conditioning early in the season, noting that one player had only one practice before opening night. He emphasized the need for better spacing to help the offense.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses a player's conditioning and the importance of his spacing after a limited practice schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:20",
+      "summary_phrase": "Nick Nurse evaluates Dean Wade's performance and defensive impact",
+      "names_mentioned": [
+        "Dean Wade"
+      ],
+      "excerpt": "Dean Wade had a career high before this was five. He had that drive in the first half",
+      "quote": "Dean Wade had a career high before this was five. He had that drive in the first half, one-on-one, he had a huge block at the end there. What did you see from him tonight? Yeah, excellent. I think again, there's going to be opportunities where they're going to put two on the ball and he did a great job of finding that window and then making the next play. He's got good size, so you can see him in that window too. He also made a really nice inbound pass there late to get the ball in, which is important too.",
+      "text_blocks": [],
+      "start_seconds": 20,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse praised Dean Wade for his poise under pressure, highlighting his ability to find the open man when defenses commit two to the ball. Nurse called his late-game execution excellent.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dean Wade"
+        ],
+        "teams": [
+          "PHI",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Nick Nurse evaluates the performance of Dean Wade following his contributions on offense and defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:04",
+      "summary_phrase": "Nick Nurse on Dean Wade's recovery from injury",
+      "names_mentioned": [
+        "Dean Wade"
+      ],
+      "excerpt": "Dean is still coming out of this injury just a bit, but he knows how to play",
+      "quote": "Again, I think Dean is still coming out of this injury just a bit, but he knows how to play. He's a very good defensive player, but he just knows how to make the right play. Tonight the ball found him a little bit more than normal probably, but he made the right plays with it.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse says Dean Wade is still working his way back from injury but remains a high-IQ player who consistently makes the right decisions on the floor.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dean Wade"
+        ],
+        "teams": [
+          "PHI",
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Nick Nurse provides an update on Dean Wade's recovery from an injury and his ability to make smart plays.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:22",
+      "summary_phrase": "Nick Nurse on the team's resilience in overcoming double-digit deficits",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "we got to raise those levels up to kind of average and we wouldn't see a lot of those double-digit deficits",
+      "quote": "I talked to Tyrese after the game and said, you had another comeback. He said, I don't want to keep doing this. As a coach, it's a double-edged sword, the resiliency of coming back from down, but how do you interpret the ability to come back from double-digit deficits like that? Well, I think there's a little bit going on, lineup changes and all those things. I think it gets a little clunky for us, etc. We just got to keep fighting through it and I think that's all we're really doing. We just continue to keep playing and there are stretches where, I keep talking about the stretches of play, the stretches when it gets kind of bad, we got to raise those levels up to kind of average and we wouldn't see a lot of those double-digit deficits. That's a big thing, but I don't really read that much into it now. I'm just glad we keep competing and find a way.",
+      "text_blocks": [],
+      "start_seconds": 82,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nick Nurse on the Sixers' recurring double-digit deficits: We just have to raise our level of play during those bad stretches. He noted that lineup changes are contributing to the clunky starts but praised the team's ability to keep competing.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's tendency to fall into double-digit deficits and his conversation with Tyrese Maxey about the issue.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:22",
+      "summary_phrase": "Nick Nurse on Jabari's impactful minutes off the bench",
+      "names_mentioned": [
+        "Joel Embiid",
+        "Jabari"
+      ],
+      "excerpt": "he had a very impactful 20 minutes there. Just tough plays, man. Putbacks around the rim",
+      "quote": "Jabari came back and played some really good minutes for you. Just what does he add for you as you try to figure out a backup center behind Joel and maybe some of these lineup combinations? Yeah, he had a very impactful 20 minutes there. Just tough plays, man. Putbacks around the rim, really tough rebounds, a couple offensive rebounds, and then he got to load up a couple threes in a row there and he made the second one. That was great minutes for him. We really needed them tonight because the four-five was a little thin.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse highlighted Jabari's impactful 20 minutes off the bench, noting his tough rebounding and floor spacing were vital while the team was thin at the four and five spots.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jabari Smith Jr.",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse praises the impactful minutes provided by Jabari off the bench while addressing the team's center rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "BrTj4OvrApg",
+  "url": "https://www.youtube.com/watch?v=BrTj4OvrApg",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-01T02:17:27Z",
+  "duration_seconds": 182,
+  "processed_at": "2026-11-01T07:38:55Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

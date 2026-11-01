@@ -1,0 +1,231 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 10.31.26",
+  "speakers_seen": [
+    "VJ Edgecombe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:08",
+      "summary_phrase": "VJ Edgecombe on his recent shooting performance and team accountability",
+      "names_mentioned": [
+        "Tyrese"
+      ],
+      "excerpt": "I owe the team that. I was having a rough game, everything was short, missing a lot.",
+      "quote": "To be honest, I owe the team that. I mean, I was having a rough game, everything was short, missing a lot, getting beat defensively. So I owe the team that. That's why I just try to come down and make a play.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on his shooting struggles during the game: I owe the team that. I was having a rough game, everything was short, missing a lot, getting beat defensively.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe reflects on his poor shooting performance and his defensive struggles during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:27",
+      "summary_phrase": "VJ Edgecombe on the final play and trusting his teammates",
+      "names_mentioned": [
+        "Tyrese"
+      ],
+      "excerpt": "I was trying to get the ball back to Tyrese. I was not making it.",
+      "quote": "I was trying to get the ball back to Tyrese. I was not making it, but I say the team trusts me. They trust me in the clutch and obviously I trust myself. He told me, 'Reese, go.' I looked at Reese and he was like, 'Go.' So I just went.",
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on the final play: I was trying to get the ball back to Tyrese. He told me, Reese, go. I looked at Reese and he was like, Go. So I just went.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe explains the decision-making process during the final play of the game involving Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:44",
+      "summary_phrase": "VJ Edgecombe on the team's steady progression and chemistry",
+      "names_mentioned": [],
+      "excerpt": "It is just steady progression for us. We will go down early, come back, go up.",
+      "quote": "It is just steady progression for us. We will go down early, come back, go up, then give up a lead again. We are just trying our best to put together a consistent, all-together game. I think that is important and that is the next step for us, putting together a complete game, but it takes time.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe says the Sixers are still working on consistency: We are just trying our best to put together a consistent, all-together game. I think that is important and that is the next step for us.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses the team's need for consistency and steady progression throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "01:30",
+      "summary_phrase": "VJ Edgecombe on the team's resilience during double-digit comebacks",
+      "names_mentioned": [],
+      "excerpt": "We always feel like we are in the game, regardless of who we are playing against.",
+      "quote": "We always feel like we are in the game, regardless of who we are playing against. I say we have the talent, obviously our chemistry is still growing. We just feel like we just got to stay together. We just got to lock in, focus. I think focus is the most important thing for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "VJ Edgecombe on the team mindset: We always feel like we are in the game, regardless of who we are playing against. We just got to lock in, focus. I think focus is the most important thing for us.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe talks about the team's resilience and the importance of maintaining focus during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "02:12",
+      "summary_phrase": "VJ Edgecombe on the importance of winning without LeBron James and Joel Embiid",
+      "names_mentioned": [
+        "LeBron James",
+        "Joel Embiid"
+      ],
+      "excerpt": "These games are just to give up, come back and bite you later down the line.",
+      "quote": "These games are just to give up, come back and bite you later down the line. We know our goal, we know what we are chasing and every game matters. Regardless of who is playing, who is not playing, we know they are supporting. If you are not playing, you still obviously got that full support.",
+      "verbatim_original_language": "",
+      "start_seconds": 132,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on winning without stars: These games are just to give up, come back and bite you later down the line. We know our goal, we know what we are chasing and every game matters.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses the importance of winning games despite the absence of key players like LeBron James and Joel Embiid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "03:04",
+      "summary_phrase": "VJ Edgecombe on capitalizing on team runs during close games",
+      "names_mentioned": [],
+      "excerpt": "When we go on these little runs, those are important and we keep capitalizing off those runs.",
+      "quote": "When we go on these little runs, those are important and we keep capitalizing off those runs. That is the most important thing for us. One person gets going, we all get going. We just try to play hard, make sure we are on a string together, defensively, offensively.",
+      "verbatim_original_language": "",
+      "start_seconds": 184,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "VJ Edgecombe on team momentum: When we go on these little runs, those are important and we keep capitalizing off those runs. One person gets going, we all get going.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains the importance of capitalizing on team runs and playing together on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "03:39",
+      "summary_phrase": "VJ Edgecombe on his rebounding ability as a guard",
+      "names_mentioned": [
+        "Westbrook",
+        "Dwyane Wade",
+        "Dennis Rodman"
+      ],
+      "excerpt": "I just think that is something that gets lost in the game of basketball, rebounding.",
+      "quote": "I just think that is something that gets lost in the game of basketball, rebounding. But how I like it, if I rebound, I can start the break. If I rebound, I can pitch ahead or just create an advantage for my teammate. Seeing players like Westbrook, Dwyane Wade, who were great rebounding guards, I think what really got me when I watched The Last Dance, just seeing how Dennis Rodman was so focused on just rebounding.",
+      "verbatim_original_language": "",
+      "start_seconds": 219,
+      "end_seconds": 249,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on his rebounding mentality: If I rebound, I can start the break. If I rebound, I can pitch ahead or just create an advantage for my teammate.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Russell Westbrook",
+          "Dwyane Wade",
+          "Dennis Rodman"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains his philosophy on rebounding as a guard and mentions players he admires for their rebounding ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4y98XHeWSYE",
+  "url": "https://www.youtube.com/watch?v=4y98XHeWSYE",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-01T02:24:54Z",
+  "duration_seconds": 306,
+  "processed_at": "2026-11-01T07:38:52Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

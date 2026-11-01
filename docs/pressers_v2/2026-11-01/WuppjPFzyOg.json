@@ -1,0 +1,208 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Kings",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:10",
+      "summary_phrase": "Tuomas Iisalo on Grizzlies' bench depth and team commitment",
+      "names_mentioned": [
+        "Chris Murray",
+        "GG Jackson"
+      ],
+      "excerpt": "I never have that feeling that anybody is worried about their stats or who is scoring.",
+      "quote": "I think it speaks to the quality of our guys and their commitment to playing together. I never have that feeling that anybody is worried about their stats or who is scoring. They all want the best for the team and that is why we have been performing. Today we had new guys there. I thought Chris Murray did an excellent job defensively, especially in the first half. GG had his breakout game, that was great to see.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo credits the Grizzlies depth and selflessness for their hot start saying I never have that feeling that anybody is worried about their stats or who is scoring",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Murray",
+          "GG Jackson"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Head coach Tuomas Iisalo discusses the team's depth and the individual performances of Chris Murray and GG Jackson following the game against the Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:10",
+      "summary_phrase": "Tuomas Iisalo on Cam Spencer's development as a point guard",
+      "names_mentioned": [
+        "Cam Spencer"
+      ],
+      "excerpt": "We had seen him becoming more of a point guard. We encourage him to take many shots.",
+      "quote": "Cam Spencer tonight, 13 assists, zero turnovers, still got up nine shots as well. Before the season, we had seen him becoming more of a point guard. We encourage him to take many shots and that is really what opens up other opportunities. He played with different lineup composition with different type of guys and there it also changes. There is a different type of balance with the units and I thought he brought a lot of spacing.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Tuomas Iisalo praised Cam Spencer for his 13 assist zero turnover performance noting that the team encourages him to take shots to open up opportunities for others",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Spencer"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo evaluates the performance and development of point guard Cam Spencer after he recorded 13 assists and zero turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:36",
+      "summary_phrase": "Tuomas Iisalo on the importance of the team's undefeated start",
+      "names_mentioned": [],
+      "excerpt": "We made a commitment when the season ended that we are never going to be in that situation.",
+      "quote": "It means everything. You know this, we have talked about it that nobody wants to be in that situation again. It was painful for everybody involved and we made a commitment when the season ended that we are never going to be in that situation. That sparked the guys' great summer of work. It is easy to say things and it is very difficult to do things. It is easy to say, hey, I am a competitor, I do not want to be in that situation, but really it comes down to action.",
+      "text_blocks": [],
+      "start_seconds": 216,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo says the Grizzlies undefeated start is rooted in a commitment made after last season because nobody wants to be in that situation again",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo reflects on the team's undefeated start and the commitment made by the players following a difficult previous season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "05:51",
+      "summary_phrase": "Tuomas Iisalo on the team's chemistry and young player development",
+      "names_mentioned": [
+        "Kareem Lopez",
+        "Cooper Flagg"
+      ],
+      "excerpt": "It was great to see both him and Cooper getting the game ball for first points.",
+      "quote": "It was great to see him and just both him and Cooper getting the game ball for first points in the NBA. That is something really unique. You see the joy in the locker room that other guys have, whether it is Cooper scoring his first basket off a free throw or Kareem scoring off that fast break, or our whole young guy unit that was in in the end. How they play, the type of effort they put in, and then you got the veterans, even though there are some 19-year-olds and 21-year-olds on the bench, their enthusiasm for those guys because they know how hard everybody is working.",
+      "text_blocks": [],
+      "start_seconds": 351,
+      "end_seconds": 393,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tuomas Iisalo highlights the locker room culture after rookies Cooper and Kareem scored their first NBA points saying you see the joy in the locker room that other guys have",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cooper Flagg",
+          "Kareem Abdul-Jabbar"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo highlights the team chemistry and the locker room support shown to young players scoring their first NBA points.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "07:02",
+      "summary_phrase": "Tuomas Iisalo on Chris Murray's impact beyond scoring",
+      "names_mentioned": [
+        "Chris Murray",
+        "Jalen Wilson",
+        "Ayo Dosunmu",
+        "Zach LaVine"
+      ],
+      "excerpt": "He finds ways to impact the game without making shots. It is a very robust way.",
+      "quote": "It is the second time already. I think we had this in the preseason also against Charlotte, similar type of game where he finds ways to impact the game without making shots. It is a very robust way of impacting the game when you know this guy does not need to hit one shot in order to help us win. In this type of situations, we wanted to stagger his minutes along with Jalen's, so we had all the time one taller point of attack defender on the floor, whether on Ayo or LaVine, and he did a great job on both guys.",
+      "text_blocks": [],
+      "start_seconds": 422,
+      "end_seconds": 462,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo praised Chris Murray for his defensive impact against Ayo Dosunmu and Zach LaVine noting he finds ways to impact the game without making shots",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Murray",
+          "Jalen Brunson",
+          "Ayo Dosunmu",
+          "Zach LaVine"
+        ],
+        "teams": [
+          "MEM",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo praises Chris Murray for his defensive impact and versatility in guarding opposing players like Ayo Dosunmu and Zach LaVine.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "08:42",
+      "summary_phrase": "Tuomas Iisalo on maintaining focus despite the 6-0 start",
+      "names_mentioned": [],
+      "excerpt": "We know things can change in a hurry and the only thing we can affect is this moment.",
+      "quote": "We got what is it, 76 games left? So we know things can change in a hurry and the only thing we can affect is this moment. It is a curious balance because at the same time we want to enjoy what we are doing. We have great chemistry I feel like top to bottom with the players and also within the staff and we also want to enjoy it in the moment, but at the same time keep our feet on the floor and make sure that we are fully locked in for each of the games.",
+      "text_blocks": [],
+      "start_seconds": 522,
+      "end_seconds": 560,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Despite a 6-0 start Tuomas Iisalo is keeping the Grizzlies focused on the long road ahead saying we know things can change in a hurry and the only thing we can affect is this moment",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the importance of maintaining focus and staying grounded despite the team's strong 6-0 start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "WuppjPFzyOg",
+  "url": "https://www.youtube.com/watch?v=WuppjPFzyOg",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-01T03:07:11Z",
+  "duration_seconds": 615,
+  "processed_at": "2026-11-01T07:38:29Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,191 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 10.31.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:16",
+      "summary_phrase": "Taylor Jenkins on Milwaukee's second-quarter defensive struggles against Houston",
+      "names_mentioned": [],
+      "excerpt": "we missed open threes, we missed layups, we weren't shooting the ball great and I definitely think that had an impact on our defense",
+      "quote": "Our guys played great I thought in the first quarter. Second quarter got away from us. Their offense was great. We missed open threes, we missed layups, we weren't shooting the ball great and I definitely think that had an impact on our defense. Fought in the second half for sure, but the lead and the hole that we dug ourselves in was a little too deep there.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins says the second quarter was the turning point in tonight's loss. He noted that missing open shots had a direct impact on the team's defensive intensity.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's defensive struggles during the second quarter of the game against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:54",
+      "summary_phrase": "Taylor Jenkins on the need for consistent offensive execution",
+      "names_mentioned": [],
+      "excerpt": "we got to be playing faster, we got to continue to play unselfish and move without the ball",
+      "quote": "At the end of the day, we know what we need to be doing. We got to be playing faster, we got to continue to play unselfish and move without the ball. Sometimes we get stuck in what we call neutral and guys just stay around and we're not getting to our next action and the things that we've been working on in practice, we're making progress, it's just not translating into the game when the shots don't fall.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins on the team's offensive struggles: We get stuck in neutral and are not getting to our next action. He says the team is making progress in practice but it is not translating to games when shots do not fall.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins addresses the need for faster, more unselfish offensive execution to improve team performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:04",
+      "summary_phrase": "Taylor Jenkins on Cleveland's paint dominance and defensive adjustments",
+      "names_mentioned": [],
+      "excerpt": "their bigs really hurt us tonight with those underneath passes",
+      "quote": "Give them credit, I thought they did a good job getting downhill. They got good chemistry with their bigs. Their bigs really hurt us tonight with those underneath passes, guys getting downhill. I thought we had in the first half a couple of pivotal foul moments that I wish we could take back. But give them credit, they were attacking the paint. There were times where our shift was supposed to be there by design and maybe weren't there.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins credits the opponent for their paint dominance tonight. He noted that defensive shifts were not executed as designed and the team struggled to contain downhill drives.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins explains the defensive challenges the team faced against Cleveland's paint attacks and big men.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:00",
+      "summary_phrase": "Taylor Jenkins on Andre Jackson Jr.'s energy and impact",
+      "names_mentioned": [
+        "Andre Jackson Jr."
+      ],
+      "excerpt": "he did a great job running off the ball, cutting, we got better movement off the ball",
+      "quote": "We started putting a few more stops together, they didn't get second-chance opportunities on a couple possessions. Got great outlets to him, he was attacking with the ball. I thought our kick-aheads, we started doing a little bit more of what we've been talking about, just continue to press on even when a team scores. He did a great job running off the ball, cutting, we got better movement off the ball, especially early in transition with a lot of different guys driving from the 45.",
+      "text_blocks": [],
+      "start_seconds": 240,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins praised Andre Jackson Jr. for his energy and transition play. He highlighted the team's improved kick ahead passing and movement off the ball when Jackson is on the floor.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Andre Jackson Jr."
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins highlights the energy and transition play provided by Andre Jackson Jr. during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:56",
+      "summary_phrase": "Taylor Jenkins on Andre Jackson Jr.'s development and role",
+      "names_mentioned": [
+        "Andre Jackson Jr."
+      ],
+      "excerpt": "we got to develop the chemistry with him as a roller and sometimes it's not to score",
+      "quote": "He's still learning our system, a guy when he runs the floor, more consistency there. I think he can be a threat there. His pick-and-roll game, we got to develop the chemistry with him as a roller and sometimes it's not to score, it's just to open up the second-side opportunities on kick-outs for threes or second-side drives. And then defensively, I love how he rebounds. He's long, he's going to continue to even gobble up more rebounds as he continues to add more strength.",
+      "text_blocks": [],
+      "start_seconds": 296,
+      "end_seconds": 329,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins on Andre Jackson Jr.'s development: He is still learning the system but his rebounding and potential as a roller in the pick and roll are key areas the team is looking to build on.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Andre Jackson Jr."
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the ongoing development of Andre Jackson Jr. regarding his role in the pick-and-roll and defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "06:00",
+      "summary_phrase": "Taylor Jenkins on the rookies' no-quit mentality",
+      "names_mentioned": [],
+      "excerpt": "the number one thing those guys can control is their energy",
+      "quote": "The number one thing those guys can control is their energy. Night to night they're playing with different personnel groupings, we haven't found consistency when it comes to who they're playing with. Every time they sub in I'm like just bring great energy, bring great energy. And luckily they're doing that. It's through defensive activity, it's through how they run the floor and they play off the ball. Those guys are inherently very unselfish.",
+      "text_blocks": [],
+      "start_seconds": 360,
+      "end_seconds": 388,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Taylor Jenkins says the rookies are doing a great job controlling their energy despite inconsistent personnel groupings. He noted that their defensive activity and unselfish play have been consistent positives.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins praises the rookies for maintaining high energy and unselfish play despite inconsistent lineup rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "HRs9U_HwxYg",
+  "url": "https://www.youtube.com/watch?v=HRs9U_HwxYg",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-01T02:57:04Z",
+  "duration_seconds": 448,
+  "processed_at": "2026-11-01T07:38:38Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

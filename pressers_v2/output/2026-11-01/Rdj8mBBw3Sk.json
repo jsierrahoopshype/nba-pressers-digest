@@ -1,0 +1,160 @@
+{
+  "video_title": "“We Brought The Right Mindset, Just Didn't Get The W.” | Jonathan Kuminga Postgame Sound | 10.31.26",
+  "speakers_seen": [
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "00:09",
+      "summary_phrase": "Jonathan Kuminga on Timberwolves' physical play and foul trouble",
+      "names_mentioned": [],
+      "excerpt": "We brought the physicality to them. Obviously we got called for a lot of fouls.",
+      "quote": "We brought the physicality to them. Obviously we got called for a lot of fouls, and some of them were fouls and some of them weren't fouls. But that's the game. I think that's the only thing to the game. You just got to keep playing through it. I think we go home, we learn from this. I think the same mindset, same physicality we brought through this game, our mindset of trying to win the game no matter who's out there, who's in the game, who's not in the game, anybody that's stepping in, I think that should be our mindset going forward.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jonathan Kuminga on the officiating in tonight's loss: We brought the physicality to them. Obviously we got called for a lot of fouls, and some of them were fouls and some of them weren't fouls. But that's the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses the team's physical play and foul trouble during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:04",
+      "summary_phrase": "Jonathan Kuminga on team resilience and fighting until the end",
+      "names_mentioned": [],
+      "excerpt": "We have a group of guys that really want it and we ain't no quitters.",
+      "quote": "We have a group of guys that really want it and we ain't no quitters. We ain't going to let up. We ain't going to let up in general. I think that's the type of group of guys we got here, dudes that really want to win and we going to fight till the wheels fall off. Any other game that's coming up, like last week, the game we played against different teams we lost, we just going to keep fighting till the end.",
+      "verbatim_original_language": "",
+      "start_seconds": 64,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jonathan Kuminga says this Timberwolves group is not going to quit: We have a group of guys that really want it and we ain't no quitters. We are going to fight till the wheels fall off.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga comments on the team's resilience and determination to keep fighting after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:36",
+      "summary_phrase": "Jonathan Kuminga on supporting teammate Johannes during the game",
+      "names_mentioned": [
+        "Johannes"
+      ],
+      "excerpt": "He's just so hard on himself and it happens, you know.",
+      "quote": "He's just so hard on himself and it happens, you know. I'm still young, but I got a couple more years over him and I think as a young player you just want to be hard on yourself all the time and that throw you off sometimes. I think he's doing so much good that he's not realizing that he's doing a lot of good stuff. He's just trying to penalize himself on the small stuff that is messing up and we all are not perfect. The more you play, the more those things going to become easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 96,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jonathan Kuminga on supporting teammate Johannes: He is just so hard on himself. I think as a young player you just want to be hard on yourself all the time and that throws you off sometimes.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Johannes"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga offers advice and support to his teammate Johannes regarding the pressure of being a young player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "02:30",
+      "summary_phrase": "Jonathan Kuminga on learning from mistakes in the NBA",
+      "names_mentioned": [],
+      "excerpt": "There is another game in less than 24 or 48 hours.",
+      "quote": "There is another game in less than 24 or 48 hours. Just 30s away, learn from what you did in this game and then you go get ready for another one and keep getting better.",
+      "verbatim_original_language": "",
+      "start_seconds": 150,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Jonathan Kuminga on the quick turnaround: There is another game in less than 24 or 48 hours. Just learn from what you did in this game and then you go get ready for another one.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga speaks about the importance of learning from mistakes quickly with another game approaching soon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "02:47",
+      "summary_phrase": "Jonathan Kuminga on his own growth and avoiding perfectionism",
+      "names_mentioned": [],
+      "excerpt": "I always wanted to be perfect as I was growing up, usually when I got to the league.",
+      "quote": "I always wanted to be perfect as I was growing up, usually when I got to the league. You know, you're in the situation where you don't get too many chances, so like that that that low opportunity you get, you got to make the best out of it. But if you're very hard on yourself, just trying to be perfect, you're going to mess up. Just trust your instinct and go out there and play. You are working every single day. There's going to be different coverages, there's going to be different ways certain teams play, but you learn from that and you move on. You're going to see them again, and just don't be hard on yourselves. Trust all the work you put in every single day.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jonathan Kuminga on his growth in the NBA: I always wanted to be perfect when I got to the league. But if you are very hard on yourself, just trying to be perfect, you are going to mess up. Just trust your instinct and go out there and play.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga reflects on his personal growth and the dangers of striving for perfection as a young player in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Rdj8mBBw3Sk",
+  "url": "https://www.youtube.com/watch?v=Rdj8mBBw3Sk",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-01T05:20:51Z",
+  "duration_seconds": 226,
+  "processed_at": "2026-11-01T07:38:16Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

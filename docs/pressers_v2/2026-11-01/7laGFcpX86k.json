@@ -1,0 +1,161 @@
+{
+  "video_title": "Myles Turner Postgame Media Availability | 10.31.26",
+  "speakers_seen": [
+    "Myles Turner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Myles Turner",
+      "timestamp": "00:02",
+      "summary_phrase": "Myles Turner on the team's mental struggle with shooting slumps",
+      "names_mentioned": [],
+      "excerpt": "The toughest part for all of us is mentally, shots aren't falling, and that in turn affects your defense.",
+      "quote": "The toughest part for all of us is mentally, shots aren't falling, and that in turn affects your defense. Your effort on defense, now you're thinking about the last play, and the maturity of this group has to be getting past that. Sometimes you're not going to hit shots, but if you're able to hang your hat on your defense, it makes our lives a lot easier. Again, it's no knocking our players. I have confidence in our guys hitting shots, but when it's not happening, you can't let it trickle down to our effort on the other end of the floor.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Myles Turner says the Bucks are struggling to keep their defensive effort high when shots are not falling. He notes the maturity of the group must improve so that offensive slumps do not trickle down to the other end of the floor.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner discusses how the team's shooting struggles are impacting their defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Myles Turner",
+      "timestamp": "00:47",
+      "summary_phrase": "Myles Turner on maintaining confidence during shooting slumps",
+      "names_mentioned": [],
+      "excerpt": "You have to trust the process. We've been playing this game our entire lives, it comes to a point where it gets mental.",
+      "quote": "You have to trust the process. We've been playing this game our entire lives, it comes to a point where it gets mental. It's not about ability. You have five, six-year-plus veterans in the league and there are going to be times where you're not hitting shots. It just is what it is, but you can't lose focus, lose confidence in who you are as a player because that's the first thing that happens. I'd like to call it the law of averages. A lot of us in here are 35, 40 percent shooters, so while maybe it's bad now, as the season goes along, you hit your averages. You just got to keep shooting shots.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Myles Turner on the Bucks shooting struggles: You have to trust the process. He believes in the law of averages for the team and says players cannot lose confidence in who they are just because of a cold stretch.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner explains the importance of maintaining confidence and trusting the law of averages during a shooting slump.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Myles Turner",
+      "timestamp": "01:43",
+      "summary_phrase": "Myles Turner on his commitment to keep shooting despite slumps",
+      "names_mentioned": [],
+      "excerpt": "I've been in this league for quite a long time. I've made thousands of three-pointers, I have confidence I'll make a thousand more.",
+      "quote": "I've been in this league for quite a long time. I've made thousands of three-pointers, I have confidence I'll make a thousand more. I'm not going to stop shooting because I miss a couple of shots, and it'd be remiss if I become a shell of myself. The shots have to keep going up.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Myles Turner remains confident in his shooting despite recent misses. He says he is not going to stop shooting because it would be remiss to become a shell of himself.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner reaffirms his commitment to keep shooting despite his recent misses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Myles Turner",
+      "timestamp": "02:03",
+      "summary_phrase": "Myles Turner on the team's need to improve through repetition",
+      "names_mentioned": [],
+      "excerpt": "You can't keep using the excuse that it's early, that we're a new team. This league moves fast.",
+      "quote": "More reps are great. You can't keep using the excuse that it's early, that we're a new team. This league moves fast, and it's easy to be forgotten in this league. No one's going to feel sorry for us, so for us in general, you just got to keep working through the mistakes. It's easy to come up here and keep saying that, keep working, keep working, fans don't want to hear keep working, but that's what this is. You show up day in and day out for a collective goal. It's not just going to happen overnight, so I continue to have faith in the system that we're building and in the people that are in this building with us.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Myles Turner says the Bucks cannot keep using the excuse that it is early in the season. He notes that the league moves fast and no one is going to feel sorry for them as they work through their mistakes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner addresses the need for the team to work through mistakes and improve despite the early season challenges.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Myles Turner",
+      "timestamp": "02:47",
+      "summary_phrase": "Myles Turner on the potential of the team's younger players",
+      "names_mentioned": [
+        "Nate"
+      ],
+      "excerpt": "I love our rookies, man. I love their mentality. I think that the sky's the limit for all of them.",
+      "quote": "I love our rookies, man. I love their mentality. I think that the sky's the limit for all of them. You saw Nate's ability tonight, and obviously, Brady's been playing well. I think these guys have the right mentality. They all come from good families and they came to the league at a perfect time. Me as a young guy, when I got my opportunity, I just never looked back, and they're getting their opportunity very early. That's a rarity in this league, so I see them continuing to grow. They're in here every single day getting their shots, working on their bodies, so that's all I can ask for them to do. I think that they're in great hands with our development staff here.",
+      "text_blocks": [],
+      "start_seconds": 167,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Myles Turner is high on the Bucks rookies, noting that the sky is the limit for them. He praised their mentality and work ethic, adding that they are in great hands with the team development staff.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nate",
+          "Brady"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myles Turner praises the work ethic and potential of the team's rookies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "7laGFcpX86k",
+  "url": "https://www.youtube.com/watch?v=7laGFcpX86k",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-01T03:06:57Z",
+  "duration_seconds": 222,
+  "processed_at": "2026-11-01T07:38:29Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

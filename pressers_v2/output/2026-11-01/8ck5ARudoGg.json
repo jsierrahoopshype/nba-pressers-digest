@@ -1,0 +1,183 @@
+{
+  "video_title": "Damian Lillard Postgame Interview | Portland Trail Blazers 112, Utah Jazz 90 | Oct. 31, 2026",
+  "speakers_seen": [
+    "Damian Lillard",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:03",
+      "summary_phrase": "Damian Lillard on the challenges of finding one's role in the NBA",
+      "names_mentioned": [],
+      "excerpt": "the one thing people don't understand I think is it just takes time to find yourself",
+      "quote": "The one thing people don't understand I think is it just takes time to find yourself. In the NBA you are in a locker room with grown people, some vets, some guys that might have different opportunities than you. You are joining an organization where things are already in place for certain guys. It is expected to be this way and you have to fit into that. Over time, each year that you come back, the game slows down, the whole process slows down. You understand it better, you understand your place in it better, you see where you can improve. We know ourselves better than anybody and over time you are able to see that better.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Damian Lillard on the adjustment period for young players in the NBA: It just takes time to find yourself. You are joining an organization where things are already in place and you have to fit into that.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard discusses the general challenges young players face when adjusting to the NBA and finding their role within an established organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "speakers": [
+        "Damian Lillard",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:58",
+      "summary_phrase": "Damian Lillard on Scoot Henderson's aggressive playstyle and coaching",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "you can see him just trying so hard, you know, like speeding up",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "I can see in these first few games you can see him just trying so hard, you know, like speeding up. And coach tells us, he tells him, quit thinking, quit overthinking. Have you seen that?"
+        },
+        {
+          "speaker": "Damian Lillard",
+          "text": "Yeah, you can tell. But I mean, I don't think that's really a bad thing. I think that's something that shows care. You have some young players that go the opposite way, they get real relaxed and they fall back and they get too cool about it. But I think it's a good thing to want it, to go after it. It's better in the NBA to be aggressive and show care than to go the other way. I think that's what Scoot is doing and eventually he will settle in and the pace will get better. He will see, all right, I need to move past here, I can slow down here, and that's the part that takes time."
+        }
+      ],
+      "start_seconds": 58,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Damian Lillard says Scoot Henderson is overthinking early in the season but prefers that over being too relaxed. It is better to be aggressive and show care than to go the other way.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates",
+          "coaching decisions"
+        ],
+        "context": "Damian Lillard reacts to a question about Scoot Henderson's aggressive playstyle and the coaching staff's advice for him to stop overthinking.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "speakers": [
+        "Damian Lillard",
+        "Unidentified speaker"
+      ],
+      "timestamp": "02:00",
+      "summary_phrase": "Damian Lillard on his expectations for Scoot Henderson's growth",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "just for him to be himself. I'm always telling him, you Scoot Henderson",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Now it's a really important time because the job is obvious. What are you hoping to see from him?"
+        },
+        {
+          "speaker": "Damian Lillard",
+          "text": "Just for him to be himself. I'm always telling him, you Scoot Henderson. And that's enough. He's become a much better shooter. From when he first came in the league to now, he was always strong, but his body just looks better. You can tell his feel for what should be happening out there is getting better, and his talent and his athletic ability is very obvious. The part where you are learning and putting it together, that's a natural process for everybody, but I would like for him to just be himself. He's disruptive on the defensive end, he's similar to me in transition, just in how he can get it done in transition, speed and athleticism, and he just needs to settle into that and I think eventually he will."
+        }
+      ],
+      "start_seconds": 120,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Damian Lillard on Scoot Henderson's development: I am always telling him you are Scoot Henderson and that is enough. You can tell his feel for what should be happening out there is getting better.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard shares his observations on Scoot Henderson's development, physical growth, and his advice for the young guard to just be himself.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Damian Lillard",
+      "speakers": [
+        "Damian Lillard",
+        "Unidentified speaker"
+      ],
+      "timestamp": "03:00",
+      "summary_phrase": "Damian Lillard on his summer interactions with Scoot Henderson",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "I was working out early and he would come in and you know we had our interactions",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Did you have much interaction with him that summer where you guys sort of overlapped? They drafted him and then like you requested a trade but you didn't get traded until that whole and so you guys were both like in the gym that whole summer. Did you have much interaction?"
+        },
+        {
+          "speaker": "Damian Lillard",
+          "text": "Yeah, I was still around a little bit. I would see him in the gym. I was working out early and he would come in and you know we had our interactions. I always liked Scoot. I always liked Scoot and even at that time I made it clear, I never had an issue with the team as far as us not being capable. I was just like, I know we are not going for it all right now, but I still thought the team was talented, I liked the team. But we had some interactions. Obviously I knew I wasn't going to be there, so I wouldn't say it was anything major. But even when we played the Blazers, I would get in his ear a little bit and try to share some encouragement."
+        }
+      ],
+      "start_seconds": 180,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Damian Lillard reflects on his brief overlap with Scoot Henderson in Portland: I always liked Scoot. Even when we played the Blazers I would get in his ear a little bit and try to share some encouragement.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard reflects on his interactions with Scoot Henderson during the summer before Lillard was traded away from the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "8ck5ARudoGg",
+  "url": "https://www.youtube.com/watch?v=8ck5ARudoGg",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-01T00:10:53Z",
+  "duration_seconds": 291,
+  "processed_at": "2026-11-01T07:39:16Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,174 @@
+{
+  "video_title": "Hornets vs 76ers: Grayson Allen Postgame Media Availability | 10/31/2026",
+  "speakers_seen": [
+    "Grayson Allen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Grayson Allen",
+      "timestamp": "00:17",
+      "summary_phrase": "Grayson Allen on the Hornets' recent offensive process",
+      "names_mentioned": [
+        "Charles Lee"
+      ],
+      "excerpt": "Coach Charles Lee has talked about it, like our process last few games has been good.",
+      "quote": "Coach Charles Lee has talked about it, like our process last few games has been good. We've just missed some shots, but we've done a pretty good job of generating good looks and I felt like we stuck to that offensively, didn't give up on it. Generated some open looks at the three-point line, did a good job on the glass early in the game and felt like we took care of the ball well early in the game, but turnovers kind of caught up to us later.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Grayson Allen says the Hornets are focused on sticking to their offensive process despite recent shooting struggles. He noted that while they generated good looks early, turnovers ultimately hurt them against the Sixers.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Charles Lee"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Grayson Allen discusses the team's offensive process and execution following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Grayson Allen",
+      "timestamp": "01:08",
+      "summary_phrase": "Grayson Allen on defensive shifts and guarding Tyrese Maxey and Jalen Brown",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "Jalen Brown",
+        "Anfernee Simons"
+      ],
+      "excerpt": "With Maxey and Jalen Brown, they're really good drivers, but they keep some shooters out there too.",
+      "quote": "With Maxey and Jalen Brown, they're really good drivers, but they keep some shooters out there too. The guys in the shift are other guys one pass away, you're trying to show and discourage the drive and at the same time not give up a three. Sometimes that's poor reads, like I had one when I was guarding Anfernee Simons and gave up a three. It's a little bit of a read, a little bit of a technique and feel that we've been practicing, but you can't give up the three to guys that can knock them down like that.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Grayson Allen breaks down the challenge of guarding dynamic drivers like Tyrese Maxey and Jalen Brown while trying to avoid giving up open threes. He admits that defensive shifts require better reads and technique.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey",
+          "Jalen Brown",
+          "Anfernee Simons"
+        ],
+        "teams": [
+          "CHA",
+          "PHI",
+          "BOS",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Grayson Allen explains the defensive challenges of guarding perimeter players and the team's defensive scheme.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Grayson Allen",
+      "timestamp": "02:13",
+      "summary_phrase": "Grayson Allen on defensive breakdowns and late-game execution",
+      "names_mentioned": [
+        "Simon"
+      ],
+      "excerpt": "Overall we did a pretty good job defensively, but some of the broken plays you just gotta finish.",
+      "quote": "Overall we did a pretty good job defensively, but some of the broken plays you just gotta finish them and come up with a stop. I think we forced them into a bad shot on one of them and they got an offensive rebound and Simon hit another three, which was a big play for them. Overall we did a pretty good job defensively, but some of the broken plays you just gotta finish them and come up with a stop. Unlucky doesn't help, you gotta figure out a way.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Grayson Allen on the Hornets defensive lapses late in the game. He says that even when they force a bad shot, they have to finish the play by securing the rebound and avoiding second chance points.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anfernee Simons"
+        ],
+        "teams": [
+          "CHA",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Grayson Allen reflects on defensive breakdowns and the importance of finishing possessions with a stop.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Grayson Allen",
+      "timestamp": "04:14",
+      "summary_phrase": "Grayson Allen on the Hornets' late-game defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "Down the stretch I really felt like they started like paint first kind of hurt us.",
+      "quote": "Down the stretch I really felt like they started like paint first kind of hurt us, those guys getting into the paint and then late some threes hurt us. So it's probably a combination of doing a little bit of a better job on the ball, doing a little bit better job coming over and helping in the paint.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Grayson Allen identifies paint penetration and late defensive breakdowns as the primary reasons the Hornets struggled down the stretch against the Sixers.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Grayson Allen analyzes the team's defensive struggles in the paint and on the perimeter during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Grayson Allen",
+      "timestamp": "05:02",
+      "summary_phrase": "Grayson Allen on his shooting rhythm and spacing requirements",
+      "names_mentioned": [],
+      "excerpt": "I feel like a lot of times when I have to space off of other guys I need to space high.",
+      "quote": "I feel like a lot of times when I have to space off of other guys I need to space high to give them a passing lane and make that shift tough. So I need to be able to knock it down two, three, four feet behind the line to still be a weapon there. But that particular shot was a little bit of a freebie because we were yelling out two-for-one, so I just knew I could get one off and nobody would say anything.",
+      "text_blocks": [],
+      "start_seconds": 302,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Grayson Allen discusses his role in spacing the floor, noting he needs to be ready to knock down shots from deep to remain a weapon while creating passing lanes for his teammates.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Grayson Allen explains his positioning and decision-making regarding his shooting rhythm during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "l7O9vrZwE2Q",
+  "url": "https://www.youtube.com/watch?v=l7O9vrZwE2Q",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-01T01:33:20Z",
+  "duration_seconds": 331,
+  "processed_at": "2026-11-01T07:39:05Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

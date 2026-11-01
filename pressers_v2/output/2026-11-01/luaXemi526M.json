@@ -1,0 +1,234 @@
+{
+  "video_title": "Cavs at Bucks | Meleek Thomas & Mario Hezonja Post Game | 10.31.2026",
+  "speakers_seen": [
+    "Meleek Thomas",
+    "Mario Hezonja"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Meleek Thomas",
+      "timestamp": "00:06",
+      "summary_phrase": "Meleek Thomas on the team's high-energy, unselfish start to the game",
+      "names_mentioned": [],
+      "excerpt": "We started the game with energy, unselfish to start the game and kind of spiraled from there.",
+      "quote": "I would just say the way that we started the game. We started the game with energy, unselfish to start the game and kind of spiraled from there. Like if you seen in the past that we had slow starts, the assist to made field goals has been down, but we started hot, started fast, started sharing the ball, the ball had life and just got around everybody eventually.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Meleek Thomas credits the Cavs fast start against the Bucks to a shift in team play saying the ball had life and we just got around everybody eventually",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas discusses the team's improved energy and ball movement during their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Meleek Thomas",
+      "timestamp": "00:39",
+      "summary_phrase": "Meleek Thomas on the confidence gained from his role as ball-handler",
+      "names_mentioned": [],
+      "excerpt": "They installed a lot of confidence in me early and we six games in, it's such a long season.",
+      "quote": "It means everything to me. It means it's promising, you know, because they installed a lot of confidence in me early and we six games in, it's such a long season. So to know that the confidence is already built for me this early, goes to show me that I've done a lot with my work and everything that I've done up into this point, but it also, yeah, like me knowing that my teammates trust me like that is just amazing.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas says he feels promising about his early role as a ball handler noting that it means everything to me that his teammates trust him this early in the season",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas reflects on the confidence his coaching staff and teammates have shown in his role as a ball-handler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Meleek Thomas",
+      "timestamp": "01:23",
+      "summary_phrase": "Meleek Thomas on film study and improving his offensive efficiency",
+      "names_mentioned": [],
+      "excerpt": "A lot of it is just film breakdown, very interested in knowing how to be better out there.",
+      "quote": "A lot of it is just film breakdown, very interested in knowing how to be better out there offensively and defensively. I can be better for my teammates offensively by getting off it more. A lot of shots that I take are good to me, but not great for the team. So just me learning that, honing it down, because like I said, when the ball has life then everybody's happy.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas is focused on offensive efficiency through film study admitting that a lot of shots he takes are good to him but not great for the team",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas explains his focus on film study to improve his offensive decision-making and shot selection.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Meleek Thomas",
+      "timestamp": "02:19",
+      "summary_phrase": "Meleek Thomas on his approach to creating space on the court",
+      "names_mentioned": [],
+      "excerpt": "My space creation is just by being physical, getting into the body or just using what the defense gives me.",
+      "quote": "It's just a feel thing out there when you know you got a guy guarding you a certain type of way or playing you more aggressive or playing you more back, then you know how to work off of him more. So I would say my space creation is just by being physical, getting into the body or just using what the defense gives me and counter off of that.",
+      "text_blocks": [],
+      "start_seconds": 139,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Meleek Thomas describes his approach to creating space on the court as a feel thing where he uses physicality and reads how the defense plays him",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas describes his process for creating space on the court by reading defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mario Hezonja",
+      "timestamp": "03:13",
+      "summary_phrase": "Mario Hezonja on the playmaking ability of the team's centers",
+      "names_mentioned": [
+        "Donovan Mitchell",
+        "James",
+        "Meleek Thomas",
+        "Craig"
+      ],
+      "excerpt": "When we find them on these pockets and in the short roll, I think they're two of the best centers.",
+      "quote": "When we find them on these pockets and in the short roll, I think they're two of the best centers in the whole world. And not only they can find something for themselves there, because obviously there's a lot of attention on our guards, but they're super intelligent there in that pocket. So they find shooters outside on the other side and they also feed themselves in between each other. So super happy to see that, definitely something that we can rely on and it definitely also helps guards, Donovan, James, Meleek, Tyrese, Craig, whoever is there, whoever is the ball handler that pick and roll helps them tremendously.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mario Hezonja praises the playmaking ability of the Cavs centers in the short roll calling them two of the best in the world and noting how they help the guards",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell",
+          "James Harden",
+          "Meleek Thomas",
+          "Tyrese Haliburton",
+          "Craig Porter Jr."
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mario Hezonja praises the playmaking intelligence of the team's centers in the short roll.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mario Hezonja",
+      "timestamp": "04:29",
+      "summary_phrase": "Mario Hezonja on the team's commitment to their established identity",
+      "names_mentioned": [
+        "Kenny"
+      ],
+      "excerpt": "We stick to our identity, we stick to what Kenny and the coaching staff want us to do.",
+      "quote": "Nothing different, just we stick to our identity, we stick to what Kenny and the coaching staff want us to do every game, every practice. We try to implement the same stuff, implemented the also some of the new stuff for the new guys. As I said, it's unfortunate but it's very realistic that the more people that you add, the more time that you need, but thankfully we have a great group of guys, great people and the transition is super comfortable, super easy.",
+      "text_blocks": [],
+      "start_seconds": 269,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mario Hezonja says the Cavs are sticking to their identity and the coaching staff plan as they continue to integrate new players into the rotation",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kenny Atkinson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mario Hezonja discusses the team's commitment to the identity established by head coach Kenny Atkinson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Mario Hezonja",
+      "timestamp": "06:08",
+      "summary_phrase": "Mario Hezonja on his veteran experience helping him adjust to the system",
+      "names_mentioned": [
+        "Kenny"
+      ],
+      "excerpt": "I kick in my experience into it and it relaxes me a lot, not doesn't relax me competitively.",
+      "quote": "No, because I kick in my experience into it and it relaxes me a lot, not doesn't relax me competitively on the court, but like mentally. And then again, like I have to keep saying this because it's really the the only truth that we can speak about basketball and how I find ways and there is the the mindset and there is this hunger and I can help in many things, but at the end of the day, my entire NBA career is in Kenny's hands and coaching staff hands and in my teammates' hands.",
+      "text_blocks": [],
+      "start_seconds": 368,
+      "end_seconds": 405,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mario Hezonja says his veteran experience helps him stay mentally relaxed on the court adding that his entire career is in the hands of the coaching staff and his teammates",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kenny Atkinson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja explains how his veteran experience helps him mentally adjust to the team's system under Kenny Atkinson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "luaXemi526M",
+  "url": "https://www.youtube.com/watch?v=luaXemi526M",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-01T05:16:13Z",
+  "duration_seconds": 419,
+  "processed_at": "2026-11-01T07:38:18Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

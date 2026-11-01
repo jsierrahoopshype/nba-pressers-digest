@@ -1,0 +1,140 @@
+{
+  "video_title": "“We Battled, But Were A Bit Too Handsy.” | Chris Finch Postgame Sound | 10.31.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:02",
+      "summary_phrase": "Chris Finch on Timberwolves' fourth-quarter decision-making and turnovers",
+      "names_mentioned": [],
+      "excerpt": "We had chances, we had to be smarter. Didn't like our decision-making and our careless turnovers in the fourth quarter.",
+      "quote": "We had chances, we had to be smarter. Didn't like our decision-making and our careless turnovers in the fourth quarter, particularly.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 10,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch was not happy with the Timberwolves late game execution tonight saying he did not like our decision making and our careless turnovers in the fourth quarter particularly",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the team's poor execution and turnovers during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:18",
+      "summary_phrase": "Chris Finch addresses Karl-Anthony Towns' foul trouble and officiating",
+      "names_mentioned": [
+        "Karl-Anthony Towns"
+      ],
+      "excerpt": "To be fair, they're fouling him all over the floor. They got their hands on him.",
+      "quote": "To be fair, they're fouling him all over the floor. They got their hands on him, they're bumping him, they're holding him, they're riding him off his line. And at the other end of the floor, he's being whistled for a bunch of touch fouls. The way that they allow people to just put their hands on him over the full court, I thought we got rid of that stuff in the 80s, but apparently not.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch voiced frustration with the officiating regarding Karl Anthony Towns saying he thought we got rid of that stuff in the 80s but apparently not",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karl-Anthony Towns"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch criticizes the officiating regarding the physical treatment of Karl-Anthony Towns throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:30",
+      "summary_phrase": "Chris Finch evaluates Jaden McDaniels' performance",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He battled, had his hands full for sure, but he battled and did some good things.",
+      "quote": "He battled, had his hands full for sure, but he battled and did some good things.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch on Jaden McDaniels performance tonight saying he had his hands full for sure but he battled and did some good things",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates the defensive effort and overall performance of Jaden McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "01:41",
+      "summary_phrase": "Chris Finch praises Jonathan Kuminga's physicality and two-way impact",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "He's built for games like this and I thought he played very well.",
+      "quote": "He was doing a lot of good things on both ends and making his guy work. He's built for games like this and I thought he played very well.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch praised Jonathan Kuminga after tonight's game noting he was doing a lot of good things on both ends and he is built for games like this",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises the two-way play and physicality displayed by Jonathan Kuminga.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "b6xiTBTsgEg",
+  "url": "https://www.youtube.com/watch?v=b6xiTBTsgEg",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-01T05:22:17Z",
+  "duration_seconds": 142,
+  "processed_at": "2026-11-01T07:38:05Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

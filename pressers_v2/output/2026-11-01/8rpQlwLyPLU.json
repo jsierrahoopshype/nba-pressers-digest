@@ -1,0 +1,156 @@
+{
+  "video_title": "Zion Williamson | Pelicans vs Hawks Postgame Interview 10/31/26",
+  "speakers_seen": [
+    "Zion Williamson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Zion Williamson",
+      "timestamp": "00:54",
+      "summary_phrase": "Zion Williamson credits coaching staff for his defensive improvement",
+      "names_mentioned": [
+        "Willie Green",
+        "James Borrego",
+        "Herb Jones"
+      ],
+      "excerpt": "They just push me to be great on that end, so it doesn't feel like that.",
+      "quote": "It doesn't even feel like that when I'm out there. I got to give credit to Coach Mose, Coach Eyes, and Herb Jones. We speak on Herb Jones a lot. Every game, they tell me what they kind of expect to see from me defensively and where they want me to be physical at. They just push me to be great on that end, so it doesn't feel like that when I'm out there, but I guess the results are starting to show a little bit.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Zion Williamson credits the Pelicans coaching staff and Herb Jones for his defensive growth, saying the results are finally starting to show on the floor.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Zion Williamson discusses his defensive improvement and the guidance he receives from the coaching staff and Herb Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Zion Williamson",
+      "timestamp": "01:53",
+      "summary_phrase": "Zion Williamson on his defensive chemistry with Herb Jones",
+      "names_mentioned": [
+        "Herb Jones"
+      ],
+      "excerpt": "When you have somebody like that, an all-world defender, defensively it's hard to go wrong.",
+      "quote": "I've known Herb for a few years. We've been in the field together, so we have a natural chemistry out there defensively. There are times where even if the coach wants us to switch, Herb just has that mindset where he's like, 'Let me through the screen, we're not switching.' When you have somebody like that, an all-world defender, defensively it's hard to go wrong.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Zion Williamson says he and Herb Jones have natural chemistry on defense, noting that Jones often refuses to switch screens because he wants to stay with his man.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zion Williamson explains his defensive chemistry with teammate Herb Jones during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Zion Williamson",
+      "timestamp": "02:30",
+      "summary_phrase": "Zion Williamson praises Saddiq Bey's professionalism and versatility",
+      "names_mentioned": [
+        "Saddiq Bey"
+      ],
+      "excerpt": "He's a professional, he plays his role and whenever he has a moment, he shows out.",
+      "quote": "Saddiq is a guy that, if he wanted to, he could score 20 every night, but he does what's asked of him. In this league, a lot of guys wouldn't be comfortable playing that role. He's a professional, he plays his role and whenever he has a moment to get his 25, 30, or show that he can really put the ball in the hoop, he shows out.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson praises Saddiq Bey for his professionalism, saying he is a guy who could score 20 every night but remains comfortable playing his role.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zion Williamson praises the professionalism and versatility of Atlanta Hawks player Saddiq Bey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Zion Williamson",
+      "timestamp": "04:52",
+      "summary_phrase": "Zion Williamson reflects on his relationship with CJ McCollum",
+      "names_mentioned": [
+        "CJ McCollum",
+        "Larry Nance Jr."
+      ],
+      "excerpt": "CJ was a really great vet for me. From the moment me and him got to sit down.",
+      "quote": "CJ was a really great vet for me. From the moment me and him got to sit down, because when he came to the team, I was dealing with my broken foot and I was out that whole year. I was in Portland at the time and I was away from the team, but when I came back, him and Larry Nance, we would go out and get food and we would talk about what it looks like to be a pro, to be one of the greats. He would always kind of hold me to that standard. It was definitely good to see my brother.",
+      "text_blocks": [],
+      "start_seconds": 292,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson reflects on his bond with CJ McCollum, crediting the veteran for helping him understand what it takes to be a pro and hold himself to a higher standard.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ McCollum",
+          "Larry Nance Jr."
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zion Williamson reflects on the mentorship he received from CJ McCollum and Larry Nance Jr. during his recovery from injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "8rpQlwLyPLU",
+  "url": "https://www.youtube.com/watch?v=8rpQlwLyPLU",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-01T02:55:30Z",
+  "duration_seconds": 354,
+  "processed_at": "2026-11-01T07:38:38Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

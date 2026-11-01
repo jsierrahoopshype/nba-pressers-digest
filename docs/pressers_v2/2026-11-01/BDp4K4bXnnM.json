@@ -1,0 +1,106 @@
+{
+  "video_title": "Saddiq Bey On-Court Postgame Interview vs. Hawks 10/31/26",
+  "speakers_seen": [
+    "Saddiq Bey",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Saddiq Bey",
+      "timestamp": "00:00",
+      "summary_phrase": "Saddiq Bey on playing against his former team, the Atlanta Hawks",
+      "names_mentioned": [],
+      "excerpt": "I'm just grateful to God to have the opportunity to have the opportunity, you know what I mean?",
+      "quote": "God is good. God is real all the time. It's a full circle moment. I just try to thank God for every day that allowed me to be able to play and stuff like that. I'm just grateful to God to have the opportunity to have the opportunity, you know what I mean? It means the world to me.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Saddiq Bey reflects on facing his former team in Atlanta, calling the experience a full circle moment and expressing gratitude for the opportunity to play.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey reflects on playing against his former team the Atlanta Hawks after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Saddiq Bey",
+      "timestamp": "00:30",
+      "summary_phrase": "Saddiq Bey on the team's defensive cohesion and shared effort",
+      "names_mentioned": [],
+      "excerpt": "I think on both ends of the floor we share the ball and try to help each other.",
+      "quote": "I think on both ends of the floor we share the ball and try to help each other on the defensive end. I feel like we will be a great cohesive unit. A lot of teams are getting a lot of paint points and we try to take away something and make it tough. Atlanta is a high-power offense, Sacramento is a high-power offense, so just trying to take something away, even though it's tough to do, and we all love each other so we have to take care of each other's back.",
+      "text_blocks": [],
+      "start_seconds": 30,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Saddiq Bey says the Pelicans are focused on defensive cohesion and taking away paint points to slow down high powered offenses like Atlanta and Sacramento.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "ATL",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey discusses the defensive strategy and team cohesion following a game against the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Saddiq Bey",
+      "timestamp": "01:10",
+      "summary_phrase": "Saddiq Bey on the bench unit's depth and collective trust",
+      "names_mentioned": [],
+      "excerpt": "We just trust in each other. We got a lot of talent all the way across the roster.",
+      "quote": "We just trust in each other. We got a lot of talent all the way across the roster. So, trying to find a way to play together and it's a different scenario for a lot of us as far as different rotations, different lineups, but we all trust each other and just try to figure out the best way we can play with each other.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Saddiq Bey on the Pelicans bench unit, noting that despite the adjustment to different rotations and lineups, the roster is leaning on collective trust to find their rhythm.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Saddiq Bey talks about the team's depth and the adjustment to different rotations and lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "BDp4K4bXnnM",
+  "url": "https://www.youtube.com/watch?v=BDp4K4bXnnM",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-01T02:03:39Z",
+  "duration_seconds": 118,
+  "processed_at": "2026-11-01T07:38:54Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

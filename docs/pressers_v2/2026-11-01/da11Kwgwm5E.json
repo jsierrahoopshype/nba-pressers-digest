@@ -1,0 +1,143 @@
+{
+  "video_title": "Saddiq Bey | Pelicans vs Hawks Postgame Interview 10/31/26",
+  "speakers_seen": [
+    "Saddiq Bey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Saddiq Bey",
+      "timestamp": "00:02",
+      "summary_phrase": "Saddiq Bey on his role and team-first mindset",
+      "names_mentioned": [],
+      "excerpt": "whatever the team needs, so I ain't got too much to say about that.",
+      "quote": "God is good. Just to be able to play, the opportunity, I'm just grateful. That's it, whatever the team needs, so I ain't got too much to say about that.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 14,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Saddiq Bey on his role with the Pelicans: I am just grateful for the opportunity and whatever the team needs, I do not have too much to say about that.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey discusses his mindset and gratitude for his role with the Pelicans after the game against the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Saddiq Bey",
+      "timestamp": "00:30",
+      "summary_phrase": "Saddiq Bey praises Zion Williamson's defensive impact",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "he's leading the league in steals now and just what you see from him on that end",
+      "quote": "He's doing a great job, playing with a lot of effort, instincts, IQ both ends of the floor. He's been doing a great job. I've seen this since last year to the summer to now. He's made a lot of great leaps and blessed to be having him as a teammate.",
+      "text_blocks": [],
+      "start_seconds": 30,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Saddiq Bey says Zion Williamson has made great leaps in his game since the summer, praising his effort, instincts, and IQ on both ends of the floor.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Saddiq Bey praises Zion Williamson for his defensive effort and growth during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Saddiq Bey",
+      "timestamp": "00:55",
+      "summary_phrase": "Saddiq Bey on the growth and poise of CJ McCollum",
+      "names_mentioned": [
+        "CJ McCollum"
+      ],
+      "excerpt": "his poise from last year to this year is on another level.",
+      "quote": "The first week I came back from the summer, I told him his poise from last year to this year is on another level. So, he's been doing a great job with the ball in his hands and being a point guard, getting people involved, defending, and sky's the limit for him, man. He's doing a great job.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Saddiq Bey says CJ McCollum's poise is on another level this season, noting his growth as a playmaker and defender.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ McCollum"
+        ],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Saddiq Bey comments on the improved poise and leadership of CJ McCollum during the postgame media session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Saddiq Bey",
+      "timestamp": "01:21",
+      "summary_phrase": "Saddiq Bey on maintaining focus during the regular season",
+      "names_mentioned": [],
+      "excerpt": "82 games long season can't get too high, too low.",
+      "quote": "It feels good. You can't dwell on the past. We got to focus on Memphis next. 82 games long season can't get too high, too low, and just continue to try to hone in on our system and what it takes to win and make that as consistent as possible.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Saddiq Bey on the Pelicans mindset early in the season: You cannot dwell on the past and you cannot get too high or too low during an 82 game season.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey explains the importance of maintaining focus and consistency throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "da11Kwgwm5E",
+  "url": "https://www.youtube.com/watch?v=da11Kwgwm5E",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-01T03:13:23Z",
+  "duration_seconds": 133,
+  "processed_at": "2026-11-01T07:38:15Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

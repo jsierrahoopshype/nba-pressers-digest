@@ -1,0 +1,194 @@
+{
+  "video_title": "Cavs at Bucks | Kenny Atkinson Post Game | 10.31.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:23",
+      "summary_phrase": "Kenny Atkinson on rewarding the bigs with offensive opportunities",
+      "names_mentioned": [],
+      "excerpt": "we were very intentional about getting them the ball",
+      "quote": "That was great. It was part of our film session this morning, so it's nice to see transfer, reward these guys. They're both playing great. 16 shot attempts, we were very intentional about getting them the ball. So, yeah, good job by our perimeters finding those guys in the right spots.",
+      "verbatim_original_language": "",
+      "start_seconds": 23,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the Cavs were very intentional about getting their bigs involved tonight, noting they were rewarded with 16 shot attempts as part of a concerted team effort.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's offensive strategy to involve the big men during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:50",
+      "summary_phrase": "Kenny Atkinson praises team's ability to maintain focus for four quarters",
+      "names_mentioned": [],
+      "excerpt": "probably our first complete game, where we connected four quarters",
+      "quote": "I just like that we stayed with it. It was probably our first complete game, where we connected four quarters. Even at the third quarter we were down five, I said, let's win the quarter. Those guys at the end of the third came back and won the quarter. Having that mentality with a team like that, or the NBA in general now, teams are shooting so many threes, 25-point lead can go like that. So, I'm proud of the guys for keeping the lead, extending the lead when that could easily go the other way.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson calls tonight the first complete game of the season for the Cavs, praising the team for connecting four quarters of play and maintaining focus against a tough opponent.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the team's ability to maintain focus and play a complete four-quarter game against the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:55",
+      "summary_phrase": "Kenny Atkinson on the impact of team principles on player confidence",
+      "names_mentioned": [],
+      "excerpt": "I definitely think it gives you a confidence boost",
+      "quote": "I felt that principles, when the principles start working, even when the young guys are in at the end of the game, when you see what we're trying to do, it's getting us open shots, open looks. And defensively, same thing, scheme-wise. I definitely think it gives you a confidence boost.",
+      "verbatim_original_language": "",
+      "start_seconds": 115,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson believes the team's commitment to core principles is paying off, noting that seeing the scheme work on both ends of the floor provides a significant confidence boost for his players.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains how the team's established principles are boosting player confidence on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:27",
+      "summary_phrase": "Kenny Atkinson highlights Malik's maturity and consistency as a rookie",
+      "names_mentioned": [
+        "Malik"
+      ],
+      "excerpt": "for a young man of 20 years old, he's extremely mature",
+      "quote": "For a young man of 20 years old, he's extremely mature. He's really got his life together, and that's important. So that's where you see the consistency, the stability, mentally very mentally tough and resilient kid.",
+      "verbatim_original_language": "",
+      "start_seconds": 147,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson is impressed by the maturity of his rookie, describing him as a mentally tough and resilient player who brings a level of consistency and stability beyond his 20 years.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the maturity and mental toughness of rookie player Malik.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:00",
+      "summary_phrase": "Kenny Atkinson on Mario's rebounding and physical presence",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "excerpt": "he's 255 pounds, and you know, he hits a body",
+      "quote": "On a night like tonight, where that's really the game, it's threes and rebounds. We just kept hammering that in the timeouts. He's 255 pounds, and you know, he hits a body. We really need his rebounding. He's got to continue to do it on both ends.",
+      "verbatim_original_language": "",
+      "start_seconds": 180,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson emphasizes the importance of physical play, noting that the team needed a strong rebounding presence tonight and praising the impact of having a player who hits a body.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson highlights the importance of Mario's physical presence and rebounding ability in the game against the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:29",
+      "summary_phrase": "Kenny Atkinson praises Donovan Mitchell's playmaking and team ball movement",
+      "names_mentioned": [
+        "Donovan",
+        "James"
+      ],
+      "excerpt": "Donovan was great tonight, just finding guys",
+      "quote": "I thought Donovan was great tonight, just finding guys. James always, and a lot of those passes were to our bigs. They're not necessarily three-point shots, but then I like that second and third group, same thing. We moved the ball really well, played Cavs basketball. Probably first game of the year where we saw consistently throughout the game where we didn't regress back into one-on-one basketball or ISO basketball. That's not our bread and butter.",
+      "verbatim_original_language": "",
+      "start_seconds": 209,
+      "end_seconds": 238,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kenny Atkinson says the Cavs played team basketball tonight, noting it was the first game where they consistently avoided regressing into ISO basketball.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson commends Donovan Mitchell for his playmaking and the team's overall commitment to ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "bNhhML9DzWc",
+  "url": "https://www.youtube.com/watch?v=bNhhML9DzWc",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-01T02:37:22Z",
+  "duration_seconds": 249,
+  "processed_at": "2026-11-01T07:38:47Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

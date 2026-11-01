@@ -1,0 +1,205 @@
+{
+  "video_title": "Brayden Burries Postgame Media Availability | 10.31.26",
+  "speakers_seen": [
+    "Brayden Burries",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:19",
+      "summary_phrase": "Brayden Burries on processing losses and team improvement",
+      "names_mentioned": [],
+      "excerpt": "you can't play to score, you got to take it as an opportunity to get better.",
+      "quote": "You can't play to score, you got to take it as an opportunity to get better. See how you can get that experience and then after the game look back to see what could we have done differently so we don't put ourselves in that position. Maybe we could have done this better or maybe rebound better, so just little things.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brayden Burries on how he processes losses and team improvement: You cannot play to score, you have to take it as an opportunity to get better and look back to see what could have been done differently.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses his approach to processing losses and focusing on team improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brayden Burries",
+      "speakers": [
+        "Unidentified speaker",
+        "Brayden Burries"
+      ],
+      "timestamp": "00:41",
+      "summary_phrase": "Brayden Burries on facing Donovan Mitchell and Jaylen Brown",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "He's one of the best in the league, especially at scoring, so got to be able to",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "When we talked to him about some of his first assignments, whether it be Jaylen Brown or Donovan Mitchell across from you, you get a steal, leads to a three-pointer, and then a little bit later he gets you turned and he hits a three. What are those assignments and being able to go up against guys that you either watched or maybe wanted to be?"
+        },
+        {
+          "speaker": "Brayden Burries",
+          "text": "It's a good challenge for me. You can only get better from here. New to it, so you only can get better and that's the main thing, just trying to get better. He's one of the best in the league, especially at scoring, so got to be able to shut him down."
+        }
+      ],
+      "start_seconds": 41,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brayden Burries on the challenge of guarding stars like Donovan Mitchell and Jaylen Brown: It is a good challenge. You are new to it, so you can only get better from here.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "MIL",
+          "BOS",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Brayden Burries reflects on the challenge of defending elite players like Jaylen Brown and Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brayden Burries",
+      "timestamp": "01:25",
+      "summary_phrase": "Brayden Burries on film study and defensive preparation",
+      "names_mentioned": [],
+      "excerpt": "The coaches do a great job of scout with the scouting report and then my own personal,",
+      "quote": "The coaches do a great job of scout with the scouting report and then my own personal, I just watch them, see which way they like to go, is it right or left. See if can you shoot pretty well, if you can, I can go over, if not, I can go under and stuff. On the offensive side for us and the defensive side for them, how are they guarding us, are they pushing on the sides with icing, going under the screens, over screens. Little stuff like that I try to hold in on and then when we get in the game, try to see how they are doing that too.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brayden Burries details his film study process, noting he focuses on tendencies like which way opponents prefer to drive and how they defend screens to prepare for game action.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Brayden Burries explains his process for studying scouting reports and preparing for defensive assignments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brayden Burries",
+      "timestamp": "02:23",
+      "summary_phrase": "Brayden Burries on his primary focus during games",
+      "names_mentioned": [],
+      "excerpt": "The first thing when I first get in the game, it's just how can I impact the game",
+      "quote": "The first thing when I first get in the game, it's just how can I impact the game on defense, you know, and then trying to rebound. That's how I get going personally, is rebounding.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brayden Burries says his primary focus when entering a game is his defensive impact and rebounding, noting that rebounding is how he personally gets going.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries describes how he focuses on defense and rebounding to get himself going during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brayden Burries",
+      "timestamp": "02:41",
+      "summary_phrase": "Brayden Burries on improving team defensive urgency",
+      "names_mentioned": [],
+      "excerpt": "More reps, honestly, just more reps. You know, you only can get better with time.",
+      "quote": "More reps, honestly, just more reps. You know, you only can get better with time.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "When asked about improving team defensive urgency, Brayden Burries keeps it simple: It just takes more reps and time to get better.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries comments on the need for more practice repetitions to improve the team's defensive urgency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brayden Burries",
+      "timestamp": "02:56",
+      "summary_phrase": "Brayden Burries on building a next-play mentality",
+      "names_mentioned": [],
+      "excerpt": "You kind of got to have a short-term memory. So whether it was a bad play,",
+      "quote": "You kind of got to have a short-term memory. So whether it was a bad play, whether I threw a bad pass or teammate threw a bad pass or got back-doored or something, just got to next play.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brayden Burries on maintaining focus after mistakes: You have to have a short term memory. Whether it is a bad pass or a defensive breakdown, you just have to move on to the next play.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses the importance of maintaining a short-term memory after making mistakes on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QUs8gsCiS9I",
+  "url": "https://www.youtube.com/watch?v=QUs8gsCiS9I",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-01T03:09:16Z",
+  "duration_seconds": 206,
+  "processed_at": "2026-11-01T07:38:27Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

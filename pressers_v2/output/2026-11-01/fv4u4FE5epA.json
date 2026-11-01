@@ -1,0 +1,266 @@
+{
+  "video_title": "Scoot Henderson Postgame Interview | Portland Trail Blazers 112, Utah Jazz 90 | Oct. 31, 2026",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Scoot Henderson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified speaker",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Scoot Henderson on his aggressive play and team contribution",
+      "names_mentioned": [],
+      "excerpt": "trying to be aggressive on both sides of the ball, doing what I need to help the team win",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How'd you think you did tonight?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "I feel like I did all right. Just trying to be aggressive on both sides of the ball, doing what I need to help the team win."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 13,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson on his performance against the Jazz: I feel like I did all right. Just trying to be aggressive on both sides of the ball, doing what I need to help the team win.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson reflects on his performance and aggressive play following the Trail Blazers victory over the Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified speaker",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:11",
+      "summary_phrase": "Scoot Henderson on the team's slow start and his personal challenge",
+      "names_mentioned": [],
+      "excerpt": "I'm not going to back down from the challenge. Just continue to be the best version of myself",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How about this season?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "I feel like a slow start, but I'm not going to back down from the challenge. Just continue to be the best version of myself every night. Shots not falling doesn't mean I stop playing ball."
+        }
+      ],
+      "start_seconds": 11,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scoot Henderson on the Blazers slow start: I feel like a slow start, but I am not going to back down from the challenge. Shots not falling does not mean I stop playing ball.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson discusses his mindset regarding the team's slow start to the season and his personal performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified speaker",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:31",
+      "summary_phrase": "Scoot Henderson on maturing and not overthinking his game",
+      "names_mentioned": [],
+      "excerpt": "I feel like now I've matured enough to tell myself it's not that serious, just continue to play my game",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "In those early games, I could almost just see you wanting it so bad and trying so hard. Do you feel like you were overthinking?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "I feel back to doing that. I feel like I used to do that, and then I feel like now I've matured enough to tell myself it's not that serious, just continue to play my game."
+        }
+      ],
+      "start_seconds": 31,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scoot Henderson says he is maturing and learning to stop overthinking his game: I have matured enough to tell myself it is not that serious, just continue to play my game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson explains his maturation process and his effort to stop overthinking his game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified speaker",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:52",
+      "summary_phrase": "Scoot Henderson on the impact of coach Michael on the team",
+      "names_mentioned": [
+        "Michael"
+      ],
+      "excerpt": "having a coach like Michael is great, man. Just have a confidence in every single one of us",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How about what coach says? He tells you not to overthink sometimes. Does that register with you?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "Oh yeah. Having a coach like Michael is great, man. Just have a confidence in every single one of us, not just me, but every single one of us. Same thing that he's saying to me, same thing he's saying to everybody else."
+        }
+      ],
+      "start_seconds": 52,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scoot Henderson praises coach Michael for his impact on the team: Having a coach like Michael is great. He has confidence in every single one of us.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Michael"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Scoot Henderson discusses the impact of coach Michael on his confidence and the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified speaker",
+        "Scoot Henderson"
+      ],
+      "timestamp": "01:08",
+      "summary_phrase": "Scoot Henderson on his relationship with coach Michael",
+      "names_mentioned": [],
+      "excerpt": "it's almost like a kind of OG, kind of relationship",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How would you describe your two's conversations?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "It's like a, I say, I don't want to say big bro because out of respect for him, but it's almost like a kind of OG, kind of relationship where obviously it's a few months in, but the moment he's came in, he's been on that just, appreciate you, and it's vice versa from me."
+        }
+      ],
+      "start_seconds": 68,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scoot Henderson describes his relationship with coach Michael as an OG kind of relationship where there is mutual appreciation.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Michael"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson describes his relationship with coach Michael as being like an OG mentor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified speaker",
+        "Scoot Henderson"
+      ],
+      "timestamp": "01:33",
+      "summary_phrase": "Scoot Henderson on his opportunity to start while Scoot is out",
+      "names_mentioned": [
+        "Jaz"
+      ],
+      "excerpt": "opportunity for me to be on the floor any given night is a great opportunity",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How big is this opportunity for you to be starting for the next few weeks while Jaz is out?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "It's a great opportunity. Opportunity for me to be on the floor any given night is a great opportunity, whether I'm starting off the bench. I'm not here to kind of fill up somebody's spot, I'm here to be the best version of myself."
+        }
+      ],
+      "start_seconds": 93,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scoot Henderson on his opportunity to start while teammates are out: I am not here to fill up somebody's spot, I am here to be the best version of myself.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaz"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson addresses his opportunity to start while teammate Jaz is sidelined with an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "fv4u4FE5epA",
+  "url": "https://www.youtube.com/watch?v=fv4u4FE5epA",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-01T00:16:05Z",
+  "duration_seconds": 118,
+  "processed_at": "2026-11-01T07:39:09Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

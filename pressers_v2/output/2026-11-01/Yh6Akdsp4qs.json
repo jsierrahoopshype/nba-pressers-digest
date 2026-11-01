@@ -1,0 +1,266 @@
+{
+  "video_title": "“Have To Be Smarter With The Fouling To Not Hurt The Team.” | Lamelo Ball Postgame Sound | 10.31.26",
+  "speakers_seen": [
+    "Lamelo Ball"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Lamelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "Lamelo Ball"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Lamelo Ball on the need to reduce unnecessary fouls",
+      "names_mentioned": [
+        "Wemby"
+      ],
+      "excerpt": "I just got to be smarter though. I know the first one I tried to help Wemby up.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "It just seemed like a frustrating night for you just with the fouls. What do you see in out there in terms of?"
+        },
+        {
+          "speaker": "Lamelo Ball",
+          "text": "You seen all the fouls I had? You think I had six? I would probably say no. That's bottom line. I mean, just got to be smarter though. I know the first one I tried to help Wemby up, foul. Just silly stuff."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Lamelo Ball says he needs to be smarter with his fouling after a frustrating night. He called some of the calls silly stuff including a foul he picked up while trying to help Victor Wembanyama up.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Lamelo Ball discusses his frustration with foul trouble during a game against the San Antonio Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Lamelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "Lamelo Ball"
+      ],
+      "timestamp": "00:18",
+      "summary_phrase": "Lamelo Ball on managing physical defense and foul trouble",
+      "names_mentioned": [],
+      "excerpt": "I honestly I wasn't even trying to foul. It was just happening.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "San Antonio plays really physical defense. Are you just trying to match the physicality there?"
+        },
+        {
+          "speaker": "Lamelo Ball",
+          "text": "Honestly I wasn't even trying to foul. It was just happening."
+        }
+      ],
+      "start_seconds": 18,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Lamelo Ball on dealing with the physical defense from San Antonio. He says he was not trying to foul but it was just happening during the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Lamelo Ball reacts to a question about matching the physical defensive style of the San Antonio Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Lamelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "Lamelo Ball"
+      ],
+      "timestamp": "00:33",
+      "summary_phrase": "Lamelo Ball on maintaining composure during frustrating games",
+      "names_mentioned": [],
+      "excerpt": "Just do the right things, get the ball movement, try to get some easy ones.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you kind of fight through that frustration when it is not going your way?"
+        },
+        {
+          "speaker": "Lamelo Ball",
+          "text": "I mean just do the right things, get the ball movement, try to get some easy ones, get a little floater, run the lane, push the ball, get the team going, a bunch of little other stuff, rebound."
+        }
+      ],
+      "start_seconds": 33,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "How does Lamelo Ball stay composed when things are not going his way. He says he focuses on doing the right things like ball movement and rebounding to get the team going.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Lamelo Ball explains how he maintains composure and contributes to the team when games become frustrating.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Lamelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "Lamelo Ball"
+      ],
+      "timestamp": "00:59",
+      "summary_phrase": "Lamelo Ball on his aggressive play style",
+      "names_mentioned": [],
+      "excerpt": "I always move forward, so I was moving forward and I had to twin the legs.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You had the turnaround half court, it looked like you didn't think you went over the back, right?"
+        },
+        {
+          "speaker": "Lamelo Ball",
+          "text": "I mean I always move forward, so I was moving forward and I had to twin the legs and went forward. He said be on back court, so hey, drop it, move on to the next."
+        }
+      ],
+      "start_seconds": 59,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Lamelo Ball on a controversial over the back call. He says he was moving forward on the play but is ready to move on to the next.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Lamelo Ball addresses a specific foul call during the game and his approach to moving on to the next play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Lamelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "Lamelo Ball"
+      ],
+      "timestamp": "01:16",
+      "summary_phrase": "Lamelo Ball on team resilience despite short-handed roster",
+      "names_mentioned": [],
+      "excerpt": "It's all basketball. I feel like it's all going to help, so we're still in the game.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "In terms of just the group in general, fifth game in seven nights, you guys are playing a little short-handed, but you were in it most of the way. What did you think of the way that you guys battled through most of this?"
+        },
+        {
+          "speaker": "Lamelo Ball",
+          "text": "I mean it's good. Obviously we're going to face adversity, down some players. Like you said, five games, seven nights. I mean it's all basketball. I feel like it's all going to help, so we're still in the game, but we got to just find ways to win."
+        }
+      ],
+      "start_seconds": 76,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Lamelo Ball on the team battling through a tough stretch of five games in seven nights while short handed. He says the adversity will help them but they have to find ways to win.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Lamelo Ball reflects on the team's performance and resilience despite playing short-handed through a busy schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Lamelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "Lamelo Ball"
+      ],
+      "timestamp": "01:41",
+      "summary_phrase": "Lamelo Ball on Johann's potential and development",
+      "names_mentioned": [
+        "Johann",
+        "Wemby"
+      ],
+      "excerpt": "Johann is a monster. I mean Johann definitely got a lot of talent.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you think Johann battled against Wemby?"
+        },
+        {
+          "speaker": "Lamelo Ball",
+          "text": "Yeah Johann, Johann is a monster. I mean Johann definitely got a lot of talent. Little things I feel like I help him with, he'll be so much more better, but Johann, Johann is amazing."
+        }
+      ],
+      "start_seconds": 101,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Lamelo Ball is high on his teammate Johann. He called him a monster and says he is amazing but can get even better with some small adjustments.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Johann",
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "MIN",
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Lamelo Ball praises his teammate Johann for his performance and potential while playing against Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Yh6Akdsp4qs",
+  "url": "https://www.youtube.com/watch?v=Yh6Akdsp4qs",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-01T05:22:33Z",
+  "duration_seconds": 131,
+  "processed_at": "2026-11-01T07:38:07Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

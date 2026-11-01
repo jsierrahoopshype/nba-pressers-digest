@@ -1,0 +1,114 @@
+{
+  "video_title": "“Tonight Was Frustrating, But I'll Learn From It” | Joan Beringer Postgame Sound | 10.31.26",
+  "speakers_seen": [
+    "Joan Beringer"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joan Beringer",
+      "timestamp": "00:00",
+      "summary_phrase": "Joan Beringer on the difficulty of defending Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I couldn't really stop Joel Embiid. I couldn't really stop him and it's just something else.",
+      "quote": "I couldn't really stop Joel Embiid. I couldn't really stop him and it's just something else. I just got to be better, I guess. It's a lot of frustration, but you have to think about next, so yeah.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 15,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Joan Beringer admits she struggled to contain Joel Embiid tonight saying I could not really stop him and it is just something else. She says she has to be better moving forward.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "MIN",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joan Beringer discusses the challenges of defending Joel Embiid following a Timberwolves game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joan Beringer",
+      "timestamp": "00:45",
+      "summary_phrase": "Joan Beringer on Joel Embiid's unique physical challenge",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He's just so long and he's very, he's so tall. He's just something else.",
+      "quote": "He's just so long and he's very, he's so tall. He's just something else. I just got to, but I think you can, you can impact him when, like, just on being physical with him, you know? And play hard, but I think it's one thing I couldn't, couldn't really really do today.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Joan Beringer on the challenge of defending Joel Embiid. She notes that while you can impact him by being physical and playing hard it was something she could not really do today.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "MIN",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joan Beringer explains the physical difficulties of guarding Joel Embiid during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joan Beringer",
+      "timestamp": "01:18",
+      "summary_phrase": "Joan Beringer on the Timberwolves' resilience despite missing key players",
+      "names_mentioned": [
+        "Rudy Gobert",
+        "Anthony Edwards",
+        "Dante"
+      ],
+      "excerpt": "We really have the potential to win every game and we don't have any excuse.",
+      "quote": "We got the same mindset in every game and that's one thing I can do even if, and though they are not here, you know. We really have the potential to win every game and we don't, we don't have any excuse, you know what I mean?",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Joan Beringer says the Timberwolves are not using missing players as an excuse. We really have the potential to win every game and we do not have any excuse.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer comments on the team's mindset and resilience despite having players missing from the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "V57nTEA7QSU",
+  "url": "https://www.youtube.com/watch?v=V57nTEA7QSU",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-01T05:21:54Z",
+  "duration_seconds": 119,
+  "processed_at": "2026-11-01T07:38:04Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}

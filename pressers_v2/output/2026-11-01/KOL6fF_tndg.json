@@ -1,0 +1,384 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs Hawks Postgame Interview 10/31/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:06",
+      "summary_phrase": "Jamahl Mosley on defensive effort and protecting the paint",
+      "names_mentioned": [],
+      "excerpt": "Can we clean that up a little bit there? Some of that came in transition off the live ball turnovers.",
+      "quote": "There was a lot of it there, yes. I think us being able to crawl into the basketball, protect the paint the right way. They still have 52 points in the paint, so can we clean that up a little bit there? Some of that came in transition off the live ball turnovers, but the effort and the energy that our guys played with, that toughness that we've asked them to play with, that was more of closer to 48 of what it needs to look like.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on the team defensive effort: The toughness we have asked them to play with was more of closer to 48 of what it needs to look like.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's defensive effort and paint protection following the game against the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:33",
+      "summary_phrase": "Jamahl Mosley on the team's starting five and bench energy",
+      "names_mentioned": [],
+      "excerpt": "We're bringing guys off the bench that they're coming in with that same tenacity, that same focus.",
+      "quote": "There's a combination of a few things. It's not just them starting it a little bit, but then we're bringing guys off the bench that they're coming in with that same tenacity, that same focus, that same energy, and I think that's got to be a key for what we're going to do.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley emphasizes that bench energy and tenacity are key to the team identity this season.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley comments on the energy and tenacity provided by the bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:00",
+      "summary_phrase": "Jamahl Mosley on the chemistry between Z and Jeremiah",
+      "names_mentioned": [
+        "Jeremiah",
+        "Z"
+      ],
+      "excerpt": "Teams have a tough time figuring out how they're going to guard Z.",
+      "quote": "A lot of it depends on the matchup in the moments. Towards the end of the game, teams have a tough time figuring out how they're going to guard Z. And with Jeremiah's speed and his ability to get downhill, I think that changes how they're going to have to guard Z and him. And so being able to put those two in an action, it comes out to our benefit.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the Z and Jeremiah duo: Being able to put those two in an action comes out to our benefit.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the tactical benefit of pairing Zion Williamson and Jeremiah Robinson-Earl in late-game actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:33",
+      "summary_phrase": "Jamahl Mosley on the trend of stack pick-and-rolls",
+      "names_mentioned": [
+        "Johnson"
+      ],
+      "excerpt": "Atlanta has an ultimate version of it, they put the ball in Johnson's hands.",
+      "quote": "Atlanta has an ultimate version of it, they put the ball in Johnson's hands and then they decide who they're putting up in the middle of the floor just so it creates confusion. And I think a lot of that, if you have guys that can get downhill, that can attack the basket, it creates confusion on who guards what. Are you switching? Are you in coverages? Those things you have to be at a high level communicating in order to guard it. And offensively, you have to be able to make the right reads, and our guys have been making the right reads on how we've been changing it up and doing it.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley breaks down the challenges of guarding stack pick and rolls and the importance of high level communication.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "NOP",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley analyzes the challenges of defending stack pick-and-roll actions utilized by the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:08",
+      "summary_phrase": "Jamahl Mosley on playing by committee and closing lineups",
+      "names_mentioned": [],
+      "excerpt": "Every night is going to be different, and that's what we've said about this team.",
+      "quote": "Every night is going to be different, and that's what we've said about this team. It's going to be by committee on how we're going to get it done, and guys have got to know it might be your night, it might not be your night for those closing moments. And our guys have done a great job of adjusting to that and knowing exactly what we need to see. But in that moment, they were small because their bigs usually play on the perimeter, and so our ability to switch with size was what we wanted to do.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on closing lineups: Every night is going to be different and it is going to be by committee on how we are going to get it done.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley discusses his philosophy of using a committee approach for closing lineups based on matchups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:34",
+      "summary_phrase": "Jamahl Mosley on Saddiq's performance and versatility",
+      "names_mentioned": [
+        "Saddiq"
+      ],
+      "excerpt": "Saddiq has 25 and I didn't feel that he had 25.",
+      "quote": "It's interesting, I look up and see Saddiq has 25 and I didn't feel that he had 25. He hit all the clutch baskets at the right moment. He had matchups on him that we could expose. I thought he did a great job of being able to play physical, guarding multiple positions. He was guarding the four, guarding the five at moments with the switch, sitting down and guarding the speed guards. He's just the ultimate professional in the way that he approaches the game as well as the game plan.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley praises Saddiq for his versatility and professionalism: He is just the ultimate professional in the way that he approaches the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises Saddiq Bey for his versatility and professional approach after a 25-point performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:12",
+      "summary_phrase": "Jamahl Mosley on contesting shots and defensive impact",
+      "names_mentioned": [],
+      "excerpt": "Guys in this league are too darn good to just have wide open shots.",
+      "quote": "Our ability to protect the paint first is what we want to talk about, but then making sure we're flying and contesting and impacting all shots. Guys in this league are too darn good to just have wide open shots, so we want to make sure all of them are impacted. Got to be the second jumper off the ground so they're not fly-bys, but again, getting to guys' bodies and making sure there's a hand in the face, contesting all the shots.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley on defensive standards: Guys in this league are too darn good to just have wide open shots so we want to make sure all of them are impacted.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the importance of contesting shots and maintaining defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:44",
+      "summary_phrase": "Jamahl Mosley on defense creating offense and team chemistry",
+      "names_mentioned": [
+        "Bryce",
+        "Zion"
+      ],
+      "excerpt": "Our defense has to create our offense.",
+      "quote": "Our defense has to create our offense, and that's what we've told these guys and that's what they're starting to create. We understand that we've had 47 steals in the last couple games, being able to get out in transition because of our defense. What I saw there was us being able to play the passing lane, get out, sharing the basketball and converting on the other end. The dust up, that's part of the game. I think Bryce caught an elbow and then he wasn't happy about it, but the thing about it with our team is that we're not leaving anybody alone out there. And so it happened, nothing came about from it, but the ability that we have each other's back in any moment is what's most important about this team.",
+      "text_blocks": [],
+      "start_seconds": 224,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on team chemistry: The ability that we have each other's back in any moment is what's most important about this team.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bryce McGowens"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley discusses the team's defensive identity and reacts to a physical altercation involving Bryce McGowens.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:35",
+      "summary_phrase": "Jamahl Mosley on Jeremiah's growth as a playmaker",
+      "names_mentioned": [
+        "Jeremiah",
+        "Zion"
+      ],
+      "excerpt": "Just making the right play, the making the right read.",
+      "quote": "Just making the right play, the making the right read. And that's one thing we've tasked him with to say, okay, when are your moments of being aggressive? When are your moments of setting the table? And then when are your moments of being a playmaker? Because there's moments in the game that he's got to make sure that he's getting everybody involved, but then there's times where, like you talked about in the pick-and-roll with Zion, when can he be aggressive or does he need to find the open man? And those are continue growth pieces for him to keep getting better at.",
+      "text_blocks": [],
+      "start_seconds": 275,
+      "end_seconds": 315,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on Jeremiah's development: He is learning when to be aggressive and when to set the table as a playmaker.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley outlines the growth areas for Jeremiah Robinson-Earl regarding playmaking and decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:00",
+      "summary_phrase": "Jamahl Mosley on establishing a tough team identity",
+      "names_mentioned": [
+        "Halliburton"
+      ],
+      "excerpt": "We're not backing down from anybody.",
+      "quote": "We're not backing down from anybody. I'm okay with it.",
+      "text_blocks": [],
+      "start_seconds": 300,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley on the team's mindset: We are not backing down from anybody.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley comments on the team's developing tough identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:25",
+      "summary_phrase": "Jamahl Mosley on hustle plays and winning basketball",
+      "names_mentioned": [
+        "Herb",
+        "Trey"
+      ],
+      "excerpt": "Those are winning plays. They're hustle plays, but they're winning plays.",
+      "quote": "I thought it was great. Trey's was pretty impressive from going from one end to the floor to the other end, sprinting to the corner, getting the steal, getting the ball back in play. And those are the things that wins you games. Those are winning plays. They're hustle plays, but they're winning plays. They're gaining you a possession, they're giving effort and energy and your team sees that and that is infectious with the entire team. So that's who we have to be night in, night out, and that's the 48 minutes that you're looking for. Now the only thing I clean up with all of it is the 25 turnovers that we got to make sure we got to take care of this basketball.",
+      "text_blocks": [],
+      "start_seconds": 325,
+      "end_seconds": 373,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley highlights the importance of hustle plays but notes the team must clean up the 25 turnovers.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley highlights Trey Murphy III's hustle play while noting the team's high turnover count.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:14",
+      "summary_phrase": "Jamahl Mosley on Zion's defensive growth and positional versatility",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "What's most impressive about Zion is how he's sitting down and guarding.",
+      "quote": "What's most impressive about Zion is how he's sitting down and guarding. I think leading the league in steals right now, and he's doing it from positional, not gambling, not chasing it, but just being in the right position at the right time. So his aggression defensively is making the offensive side of the ball easier. And what I've said about him from the beginning, just getting to know him and be around him and now coach him, he's willing to do whatever's necessary to help this team win. And that's what you're seeing. He comes up to me in the middle of the game and says, you know, it might be beneficial if I'm a screener more than I'm handling. And that's his IQ of knowing the game, and you can't say enough about a young man that's willing to do whatever's necessary in those moments to figure out a way to get the win.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 421,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on Zion's defensive growth: He is leading the league in steals right now and he is doing it from positional, not gambling, not chasing it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises Zion Williamson for his defensive growth and willingness to adapt his role for the team's success.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "KOL6fF_tndg",
+  "url": "https://www.youtube.com/watch?v=KOL6fF_tndg",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-01T02:49:31Z",
+  "duration_seconds": 421,
+  "processed_at": "2026-11-01T07:38:46Z",
+  "run_id": "2026-11-01-overnight",
+  "is_one_off": false
+}
