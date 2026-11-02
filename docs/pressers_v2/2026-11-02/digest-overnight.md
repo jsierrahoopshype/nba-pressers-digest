@@ -2,6 +2,70 @@
 
 # Press conferences
 
+## Coby White Shootaround Media Availability | 11/2/26 — *Charlotte Hornets*
+
+Source: [https://www.youtube.com/watch?v=-MeXJ1MEVX8](https://www.youtube.com/watch?v=-MeXJ1MEVX8)
+
+_Speakers identified: Coby White_
+
+**1. Coby White — "I think just being myself, my ability to space the floor and also get downhill" — Coby White on his offensive role and spacing the floor** [00:31](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=31s)
+
+Coby White: "I think just being myself, my ability to space the floor and also get downhill and get to the free throw line. I think we are getting a lot of great looks offensively, they just haven't fell consistently throughout the course of the games we played. I like where we are at offensively. Obviously, we are not where we want to be statistically wise, but our process has been really good in terms of creating open looks for each other and getting to our spots. It will turn, the tide will turn and we will start making shots."
+
+[https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=31s](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=31s)
+
+<small>[Clip it](presserclips://clip?v=-MeXJ1MEVX8&t=31&q=1) · [Send to Slack](presserclips://clip?v=-MeXJ1MEVX8&t=31&q=1&slack=1)</small>
+
+**2. Coby White — "I think just being vocal, being very intentional with being at practice to the details" — Coby White on staying engaged with the team while injured** [01:16](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=76s)
+
+Coby White: "I think just being vocal, being very intentional with being at practice to the details, to being vocal in the film room. I think just watching film a lot on my own with the team and telling guys what I see. I mean, just being intentional with everything that I have done, whether it was in practice, whether it was watching film, whether it was team film, and just being engaged."
+
+[https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=76s](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=76s)
+
+<small>[Clip it](presserclips://clip?v=-MeXJ1MEVX8&t=76&q=2) · [Send to Slack](presserclips://clip?v=-MeXJ1MEVX8&t=76&q=2&slack=1)</small>
+
+**3. Coby White — "You always got to stay, you know, like their physicality, on the ball, off the ball" — Coby White on the Pistons' physicality and defensive identity** [01:57](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=117s)
+
+Coby White: "You always got to stay, you know, like their physicality, on the ball, off the ball, and what they do defensively in terms of disruptiveness. They got really good defenders over there. Obviously, they got, you know, obviously one of the best defenders in the league in **Isiah Thomas**. They compete, they are physical, and you can tell that they set a high standard for themselves on the defensive end. It will be a good first game for me, especially a good first test."
+
+[https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=117s](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=117s)
+
+<small>[Clip it](presserclips://clip?v=-MeXJ1MEVX8&t=117&q=3) · [Send to Slack](presserclips://clip?v=-MeXJ1MEVX8&t=117&q=3&slack=1)</small>
+
+**4. Coby White — "I picked up some great film habits, watching film, breaking down the game" — Coby White on his recovery process and film study** [02:42](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=162s)
+
+Coby White: "It has been tough, but I kind of experienced that last year. The thing I wanted to do differently this year was being intentional while I am out with what I am doing, bettering myself, whether it is through basketball or anything else. I really picked up some great film habits, watching film, breaking down the game and how I can help the team, and in what ways I can help the team, instead of just being out and feeling sorry for yourself, trying to use it for my advantage and trying to just gain the advantage for when I do come back."
+
+[https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=162s](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=162s)
+
+<small>[Clip it](presserclips://clip?v=-MeXJ1MEVX8&t=162&q=4) · [Send to Slack](presserclips://clip?v=-MeXJ1MEVX8&t=162&q=4&slack=1)</small>
+
+**5. Coby White — "I think the togetherness, being able to compete at a high level, our defensive ability" — Coby White on the team's togetherness and defensive potential** [03:49](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=229s)
+
+Coby White: "I think the togetherness, being able to compete at a high level, our defensive ability, being together on that end of the floor. Offensively, just the shots haven't fallen consistently, but the tide will turn and we will get back to that. But no, I think we have been playing good basketball. We played against some really good teams early on. We played Detroit already, played Philly, played Miami. So we have been playing against really good teams, and so for us, it is a good test for us, but I think we continue to get better each and every game."
+
+[https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=229s](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=229s)
+
+<small>[Clip it](presserclips://clip?v=-MeXJ1MEVX8&t=229&q=5) · [Send to Slack](presserclips://clip?v=-MeXJ1MEVX8&t=229&q=5&slack=1)</small>
+
+**6. Coby White — "The environment that they have created here, you know, the environment that my teammates have created" — Coby White on the locker room culture and team support** [04:55](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=295s)
+
+Coby White: "It is a blessing. Like I said, the environment that they have created here, you know, the environment that my teammates have created, we all want to see each other win, we all want to see each other succeed, and we are all here for each other. It is a dope moment for me, you know, for everybody to be excited for me to, you know, be back."
+
+[https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=295s](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=295s)
+
+<small>[Clip it](presserclips://clip?v=-MeXJ1MEVX8&t=295&q=6) · [Send to Slack](presserclips://clip?v=-MeXJ1MEVX8&t=295&q=6&slack=1)</small>
+
+**7. Coby White — "He set a standard early on in the season, where before training camp we set a standard" — Coby White on the standard set by the coaching staff** [05:48](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=348s)
+
+Coby White: "He set a standard early on in the season, where before training camp we set a standard of what it should look like and what it is going to look like. Basically, the culture they are creating is either you get with it or you get lost. That is the kind of standard that, you know, coach is setting here, and the front office obviously brought in guys who are all about that."
+
+[https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=348s](https://www.youtube.com/watch?v=-MeXJ1MEVX8&t=348s)
+
+<small>[Clip it](presserclips://clip?v=-MeXJ1MEVX8&t=348&q=7) · [Send to Slack](presserclips://clip?v=-MeXJ1MEVX8&t=348&q=7&slack=1)</small>
+
+---
+
 ## De'Aaron Fox Bounce Back & Tobias Tobias Harris Fit With Spurs | Around The Beat — *HoopsHype*
 
 Source: [https://www.youtube.com/watch?v=6obKdwlG-kQ](https://www.youtube.com/watch?v=6obKdwlG-kQ)
@@ -49,6 +113,86 @@ Unidentified speaker: "It is really smart from the Spurs to get a guy like this,
 [https://www.youtube.com/watch?v=6obKdwlG-kQ&t=422s](https://www.youtube.com/watch?v=6obKdwlG-kQ&t=422s)
 
 <small>[Clip it](presserclips://clip?v=6obKdwlG-kQ&t=422&q=5) · [Send to Slack](presserclips://clip?v=6obKdwlG-kQ&t=422&q=5&slack=1)</small>
+
+---
+
+## Shootaround Media Availability with Hartenstein and Aday | November 2, 2026 | OKC Thunder — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=9IJsaZeSQ_8](https://www.youtube.com/watch?v=9IJsaZeSQ_8)
+
+_Speakers identified: Isaiah Hartenstein, Aday Mara_
+
+**1. Isaiah Hartenstein — "we just have to do a better job this rebounding as a group" — Isaiah Hartenstein on the need for better team rebounding** [00:11](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=11s)
+
+Isaiah Hartenstein: "It is a big front court. I think again we just have to do a better job this rebounding as a group and then kind of just go from there. I think we are at a point where stuff kind of just all sinked in now and so I think we are just ready to move forward, ready to get back to playing the way we want to play and just approach each game like that."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=11s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=11s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=11&q=1) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=11&q=1&slack=1)</small>
+
+**2. Isaiah Hartenstein — "play like a team. I think that is the biggest thing" — Isaiah Hartenstein on the importance of team-oriented defense** [00:44](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=44s)
+
+Isaiah Hartenstein: "Play like a team. I think that is the biggest thing. When you have so many guys down, we just have to trust one another. You have to play as a team. It is not one person to change everything and so I think we are at that point where we just have to come together as a team as a matter of circumstance and just go from there."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=44s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=44s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=44&q=2) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=44&q=2&slack=1)</small>
+
+**3. Isaiah Hartenstein — "there was controllable stuff, there was not making shots" — Isaiah Hartenstein on the team's recent losses in Texas** [01:04](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=64s)
+
+Isaiah Hartenstein: "There was multiple factors. There was controllable stuff, there was not making shots. But again I think just coming to reality where we are. It is never easy when you have three of your starting players and then one of your main bench guys go out and so for us right now it is really just kind of get back to zero, getting back to just doing what we need to do, kind of just leaving that in the past and just really coming to terms where we are right now and getting the best of each situation."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=64s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=64s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=64&q=3) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=64&q=3&slack=1)</small>
+
+**4. Isaiah Hartenstein — "anytime we can get a bigger wing out there I think it is helpful" — Isaiah Hartenstein on the defensive impact of Aday Mara** [02:24](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=144s)
+
+Isaiah Hartenstein: "In general, we would be lost probably some of our biggest defenders, biggest wings. Anytime we can get a bigger wing out there I think it is helpful and so again we just have to help them, especially us older guys, kind of help them get through the process and just go from there."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=144s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=144s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=144&q=4) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=144&q=4&slack=1)</small>
+
+**5. Aday Mara — "being a rookie and being able to play in the first games is always a good thing" — Aday Mara on his development as a rookie** [03:05](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=185s)
+
+Aday Mara: "It has been good obviously. Being a rookie and being able to play in the first games is always a good thing for me, thinking about the process and getting better and better. So I think it is great."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=185s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=185s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=185&q=5) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=185&q=5&slack=1)</small>
+
+**6. Aday Mara — "the team is mentally prepared and the way everyone is as a person that also helps" — Aday Mara on the team's resilience through adversity** [03:42](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=222s)
+
+Aday Mara: "The last couple weeks they were not our best weeks with all that happened, but I think the team is mentally prepared and the way everyone is as a person that also helps to be in being able to fight through all this adversity. So I think the way we are taking it and the way we are doing things is a great way."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=222s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=222s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=222&q=6) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=222&q=6&slack=1)</small>
+
+**7. Aday Mara — "we just got to figure out we are a whole new team" — Aday Mara on adjusting to a new team rotation** [04:35](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=275s)
+
+Aday Mara: "We just got to figure out we are a whole new team, but I think it is going to take a little bit of time to see the new lineups or new way to play with a different team. So I think we are doing a great job with it, but obviously it is going to take a little bit to adjust."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=275s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=275s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=275&q=7) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=275&q=7&slack=1)</small>
+
+**8. Aday Mara — "trying to do my role as best as I can, try to get people open" — Aday Mara on his comfort level in his role** [05:16](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=316s)
+
+Aday Mara: "Right now it is just trying to do my role as best as I can, try to get people open with the screens, moving without the ball, trying to do a better job like rebounding probably. But I feel comfortable just because playing with these guys is much easier. So just being on the court in general doing my role, I feel like pretty comfortable."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=316s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=316s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=316&q=8) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=316&q=8&slack=1)</small>
+
+**9. Aday Mara — "they have really good guards that play really good offense and their bigs are really good" — Aday Mara on the challenge of facing the Cleveland Cavaliers** [05:59](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=359s)
+
+Aday Mara: "They have really good guards that play really good offense and then also their bigs are really good in defense. So we got to adjust in defense and try to help the guards so all the people makes the plays, but at the same time we got to also adjust in defense knowing that their bigs are really good in defense. So I don't know, it is just trying to do the personal basically."
+
+[https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=359s](https://www.youtube.com/watch?v=9IJsaZeSQ_8&t=359s)
+
+<small>[Clip it](presserclips://clip?v=9IJsaZeSQ_8&t=359&q=9) · [Send to Slack](presserclips://clip?v=9IJsaZeSQ_8&t=359&q=9&slack=1)</small>
 
 ---
 
@@ -225,6 +369,134 @@ Quenton Jackson: "Just the comfortability of being out there, having the ball, n
 [https://www.youtube.com/watch?v=IPNxSf2o0Zw&t=525s](https://www.youtube.com/watch?v=IPNxSf2o0Zw&t=525s)
 
 <small>[Clip it](presserclips://clip?v=IPNxSf2o0Zw&t=525&q=14) · [Send to Slack](presserclips://clip?v=IPNxSf2o0Zw&t=525&q=14&slack=1)</small>
+
+---
+
+## Postgame Interview (11/01/26) | LA Clippers — *LA Clippers*
+
+Source: [https://www.youtube.com/watch?v=Jshctpwx2vI](https://www.youtube.com/watch?v=Jshctpwx2vI)
+
+_Speakers identified: Rui Hachimura, Chris Paul, Tyronn Lue_
+
+**1. Rui Hachimura — "I know a lot of stuff like rebounds, defense, everything." — Rui Hachimura on team's need for better rebounding and defense** [00:11](https://www.youtube.com/watch?v=Jshctpwx2vI&t=11s)
+
+Rui Hachimura: "It is not necessarily only scoring, but I know a lot of stuff like rebounds, defense, everything. I think we had a good look, especially in the first half, and they made a run and we just could not hold it, so it was tough for us."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=11s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=11s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=11&q=1) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=11&q=1&slack=1)</small>
+
+**2. Rui Hachimura — "We have three good positions on, we have five bad positions on." — Rui Hachimura on team's need to maintain better positioning** [00:48](https://www.youtube.com/watch?v=Jshctpwx2vI&t=48s)
+
+Rui Hachimura: "We need to continue doing that when we are good. We just have to keep pushing ourselves. We have three good positions on, we have five bad positions on, so we have to continue those. We have to have more of those better positions than the bad ones."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=48s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=48s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=48&q=2) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=48&q=2&slack=1)</small>
+
+**3. Rui Hachimura — "I have a same mentality. Some days you just miss shots and all that." — Rui Hachimura on maintaining an aggressive mentality** [01:12](https://www.youtube.com/watch?v=Jshctpwx2vI&t=72s)
+
+Rui Hachimura: "I have a same mentality. Some days you just miss shots and all that, but I have other jobs too. The rebounds and then all that, I have to be aggressive on the defensive side too. Today I think I was able to do that, so I was able to be in the rhythm. I have to keep doing that."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=72s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=72s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=72&q=3) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=72&q=3&slack=1)</small>
+
+**4. Rui Hachimura — "He is a great player, he is a rookie." — Rui Hachimura on the impact of teammate Axel** [01:39](https://www.youtube.com/watch?v=Jshctpwx2vI&t=99s)
+
+Rui Hachimura: "He is a great player, he is a rookie. He is 25 years old, but he is a rookie and he is from DR. As an international player, it is really hard to come here and getting drafted to one of the biggest organizations in the NBA and play with the staff and all that. It is a lot of pressure, but he has been doing good."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=99s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=99s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=99&q=4) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=99&q=4&slack=1)</small>
+
+**5. Chris Paul — "Just going off of my teammates as a group defensively, and just do what I do." — Chris Paul on team's defensive group effort** [03:22](https://www.youtube.com/watch?v=Jshctpwx2vI&t=202s)
+
+Chris Paul: "Just going off of my teammates as a group defensively, and just do what I do, be aggressive and try to make plays."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=202s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=202s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=202&q=5) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=202&q=5&slack=1)</small>
+
+**6. Chris Paul — "We are down some players and I am doing a little bit more than I usually do." — Chris Paul on handling increased workload due to injuries** [03:42](https://www.youtube.com/watch?v=Jshctpwx2vI&t=222s)
+
+Chris Paul: "We are down some players and I am doing a little bit more than I usually do over the years, but I am not the one to complain about it. I just try to go out there and do what I can for the team and hopefully we can just turn things around and try to get this ball rolling."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=222s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=222s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=222&q=6) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=222&q=6&slack=1)</small>
+
+**7. Chris Paul — "I feel like just getting to a spot, being more aggressive. His shot was falling." — Chris Paul on Rui Hachimura's aggressive play** [04:07](https://www.youtube.com/watch?v=Jshctpwx2vI&t=247s)
+
+Chris Paul: "I feel like just getting to a spot, being more aggressive. His shot was falling on the three-pointer. I think when his shot falling three-pointers, he could definitely get to the rim a little bit more. I just felt like he was just being more aggressive. Seeing the mismatch that he liked, posting guys up, and that is what we are going to need for more here."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=247s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=247s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=247&q=7) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=247&q=7&slack=1)</small>
+
+**8. Chris Paul — "Defensively, we have to come together a little bit better, communicate a little better." — Chris Paul on keys to ending the team's slide** [04:37](https://www.youtube.com/watch?v=Jshctpwx2vI&t=277s)
+
+Chris Paul: "Defensively, we have to come together a little bit better, communicate a little better, and just have a little bit more fighting urgency. Tomorrow, Toronto, they are a scrappy team. We have to make sure we keep our turnovers low and execute when we get stops. I think that is when we play good basketball."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=277s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=277s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=277&q=8) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=277&q=8&slack=1)</small>
+
+**9. Chris Paul — "Everybody cannot be a superstar, right? So there is only a few guys in the league." — Chris Paul on finding a role in the NBA** [05:13](https://www.youtube.com/watch?v=Jshctpwx2vI&t=313s)
+
+Chris Paul: "Everybody cannot be a superstar, right? So there is only a few guys in the league that could do that. And then you have a second option and then after those two guys, you have to try to fit what is best for the team and what can mold around those guys. You just have to find your niche in the league and I think for me, it was defense."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=313s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=313s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=313&q=9) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=313&q=9&slack=1)</small>
+
+**10. Chris Paul — "I think just communicating, everybody being on the same page and then I think our urgency." — Chris Paul on team communication and urgency** [06:05](https://www.youtube.com/watch?v=Jshctpwx2vI&t=365s)
+
+Chris Paul: "I think just communicating, everybody being on the same page and then I think our urgency from the start to finish. I think there is moments where we do well defensively, but then we have lapses and I think the really good teams, they maintain that throughout the whole game."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=365s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=365s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=365&q=10) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=365&q=10&slack=1)</small>
+
+**11. Chris Paul — "It is a long season. I think we played six games, if I am correct." — Chris Paul on staying positive during a long season** [06:23](https://www.youtube.com/watch?v=Jshctpwx2vI&t=383s)
+
+Chris Paul: "It is a long season. I think we played six games, if I am correct. We got so many games left. As you know from last year, we turned it around and we were in a dark spot last year. This group already has positive energy, not that saying that last year did not, but it is early. We just got to figure out what works for us, get some chemistry going and figure out what we can do."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=383s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=383s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=383&q=11) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=383&q=11&slack=1)</small>
+
+**12. Tyronn Lue — "Too many straight line drives, getting blown by, and there is no defense to recover." — Tyronn Lue on defensive breakdowns and transition defense** [06:52](https://www.youtube.com/watch?v=Jshctpwx2vI&t=412s)
+
+Tyronn Lue: "Too many straight line drives, getting blown by, and there is no defense to recover when you get blown by. So they got in the paint, we had to overhelp, spread it out for threes, and they took 49 threes. Just taking a challenge one-on-one to guard my man, stay square in front of the basketball like we preach every day, and then make them play through you."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=412s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=412s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=412&q=12) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=412&q=12&slack=1)</small>
+
+**13. Tyronn Lue — "The way he plays, the style he plays, you cannot be playing him 35, 36 minutes." — Tyronn Lue on managing player minutes** [08:30](https://www.youtube.com/watch?v=Jshctpwx2vI&t=510s)
+
+Tyronn Lue: "The way he plays, the style he plays, you cannot be playing him 35, 36 minutes because he will break down. But that is what we need, with all our other eight, nine guys playing, you got to have that kind of tenacity, you got to have that kind of fight every single possession, every single night, and we just like a little too inconsistent right now with that."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=510s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=510s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=510&q=13) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=510&q=13&slack=1)</small>
+
+**14. Tyronn Lue — "Understands how to play the game. I think he reads the game well." — Tyronn Lue on Chris Paul's impact and understanding of the game** [09:07](https://www.youtube.com/watch?v=Jshctpwx2vI&t=547s)
+
+Tyronn Lue: "Understands how to play the game. I think he reads the game well, not only having 37 points and having six assists, getting into the paint, making plays for his teammates, attacking the switches and smaller guys. But he knows how to play, just really all-around fundamental good player."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=547s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=547s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=547&q=14) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=547&q=14&slack=1)</small>
+
+**15. Tyronn Lue — "We just got to keep building. Offensively, outside of some bad shots, I thought we tried." — Tyronn Lue on building team consistency** [09:53](https://www.youtube.com/watch?v=Jshctpwx2vI&t=593s)
+
+Tyronn Lue: "We just got to keep building. Offensively, outside of some bad shots, I thought we tried to play the right way. I thought we had a focus and an intent to play the right way offensively, getting into the paint, making the right play for our teammates. We took some questionable shots at times, but the first quarter was beautiful, the way we played, the way we moved the basketball, and just had to sustain it for 48 minutes."
+
+[https://www.youtube.com/watch?v=Jshctpwx2vI&t=593s](https://www.youtube.com/watch?v=Jshctpwx2vI&t=593s)
+
+<small>[Clip it](presserclips://clip?v=Jshctpwx2vI&t=593&q=15) · [Send to Slack](presserclips://clip?v=Jshctpwx2vI&t=593&q=15&slack=1)</small>
 
 ---
 
@@ -451,6 +723,126 @@ Jamison Battle: "The biggest thing for me is not trying to shy away from being r
 [https://www.youtube.com/watch?v=Zgt0Ev8hqKk&t=149s](https://www.youtube.com/watch?v=Zgt0Ev8hqKk&t=149s)
 
 <small>[Clip it](presserclips://clip?v=Zgt0Ev8hqKk&t=149&q=5) · [Send to Slack](presserclips://clip?v=Zgt0Ev8hqKk&t=149&q=5&slack=1)</small>
+
+---
+
+## Cavs Shootaround | Evan Mobley & Tyrese Proctor Media Availability | 11.02.2026 — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=mFWCS_CzHwM](https://www.youtube.com/watch?v=mFWCS_CzHwM)
+
+_Speakers identified: Evan Mobley, Tyrese Proctor_
+
+**1. Evan Mobley — "we just got to do a great job team wise defensively being in the gaps" — Evan Mobley on defensive adjustments to team injuries** [00:11](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=11s)
+
+Evan Mobley: "They definitely got a lot of injuries but can't take them lightly. They're still a contender and have great players. So with Shay we just got to do a great job team wise defensively being in the gaps, being over to help, showing a lot of help for him because he's a great scorer. So it's going to be a real team battle."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=11s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=11s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=11&q=1) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=11&q=1&slack=1)</small>
+
+**2. Evan Mobley — "it's a little bit tougher especially for the bigs because he doesn't necessarily get all the way" — Evan Mobley on defending big men who play outside the paint** [00:44](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=44s)
+
+Evan Mobley: "It's a little bit tougher especially for the bigs because he doesn't necessarily get all the way to the paint. So we got to figure out when we're going to help and when we're not going to help. But today we talked about our game plan on when exactly that is and we're going to play it well."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=44s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=44s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=44&q=2) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=44&q=2&slack=1)</small>
+
+**3. Evan Mobley — "he's always just asking questions after the film to whoever's personal coaches" — Evan Mobley on learning from film and personal coaching** [01:12](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=72s)
+
+Evan Mobley: "In film and whenever we're watching something and studying a player or anything, he's always just asking questions after the film to whoever's personal coaches, whether that's us or his personal coach. He's always really trying to learn. The small little details that you're not necessarily getting taught, he's still worried about and trying to figure out. I think that's a great quality for a rookie coming in."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=72s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=72s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=72&q=3) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=72&q=3&slack=1)</small>
+
+**4. Evan Mobley — "we have all the pieces, all the right players and I think we're playing well together" — Evan Mobley on the team's potential this season** [01:46](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=106s)
+
+Evan Mobley: "That we're going to be a great team. I think we have all the pieces, all the right players and I think we're playing well together and we're only going to get better. So I think we're going to be a great team this year."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=106s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=106s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=106&q=4) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=106&q=4&slack=1)</small>
+
+**5. Evan Mobley — "it takes a little time to get fully adjusted but I think we're getting there each game" — Evan Mobley on integrating new players into the team system** [02:11](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=131s)
+
+Evan Mobley: "It takes a little time to get fully adjusted but I think we're getting there each game and he's making better plays and setting us up, bigs and wings, every single time he drives. So we're getting accustomed to how he plays and how he likes to get into the paint and I think that's going to be beneficial for us."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=131s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=131s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=131&q=5) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=131&q=5&slack=1)</small>
+
+**6. Tyrese Proctor — "not skipping steps, not taking days off even if mentally it's tough or physically it's tough" — Tyrese Proctor on learning professional habits from teammates** [03:47](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=227s)
+
+Tyrese Proctor: "Just the details, not skipping steps, not taking days off even if mentally it's tough or physically it's tough. I think that's the biggest thing that I've seen and we do every shootaround we work together. So just getting off the dribble shots, catch and shoot shots, different footwork, because no shot in the game is going to be the same, so just trying to replicate that in practice."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=227s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=227s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=227&q=6) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=227&q=6&slack=1)</small>
+
+**7. Tyrese Proctor — "I feel real comfortable out there obviously with a whole bunch of different lineups" — Tyrese Proctor on his impact and comfort level as a rookie** [04:16](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=256s)
+
+Tyrese Proctor: "It's been good. Trying to come in and impact when I'm on the court. I think that's a big thing. Our starters have been doing a great job getting off to strong starts and it's my job to come in and match that and if not exceed that. So I think I've had a great start to the year. I feel real comfortable out there obviously with a whole bunch of different lineups, so just trying to pick and choose my spots and get everyone involved at the same time."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=256s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=256s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=256&q=7) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=256&q=7&slack=1)</small>
+
+**8. Tyrese Proctor — "keep them hands out on you got them. I think that's the biggest thing" — Tyrese Proctor on defensive discipline and team reliance** [04:42](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=282s)
+
+Tyrese Proctor: "Keep them hands out on you got them. I think that's the biggest thing. I think I had one possession I fouled him. So just staying disciplined and playing my defense what I've been doing all year and relying on the people behind you to have your back and just play team defense. I think that's a big thing that we're going to rely on tonight and moving forward."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=282s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=282s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=282&q=8) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=282&q=8&slack=1)</small>
+
+**9. Tyrese Proctor — "my rebounding specifically it's helped me in that just crushing the glass trying to be a better rebounder" — Tyrese Proctor on how strength training has improved his game** [05:16](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=316s)
+
+Tyrese Proctor: "It's been huge. I think all parts of my game, I think my rebounding specifically it's helped me in that just crushing the glass trying to be a better rebounder and it also allows me to push the ball in transition to keep that pace that we want to play with. **Kenny**'s emphasized that a number of times and I feel like if I'm getting rebounds defensively, I mean and offensively, mainly defensively, can just push the pace in transition, get better shots, get better shots and then I think defensively as well just being able to bully screens, early hits, early bumps and enforcing my will defensively."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=316s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=316s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=316&q=9) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=316&q=9&slack=1)</small>
+
+**10. Tyrese Proctor — "we do a great job of just having next man mentality" — Tyrese Proctor on the team's next-man-up mentality** [05:57](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=357s)
+
+Tyrese Proctor: "I think we got a lot of dogs on the team. I think we do a great job of just having next man mentality. A couple guys out here and there, but I think everyone's on the same page with details, habits, just our overall what we want to do overall offensively and defensively. I think everyone's buying in on that and any given night anyone can go off. We saw it last game with the two bigs in **JA** and **Ev** and I think guys are willing to sacrifice different things for a team win."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=357s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=357s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=357&q=10) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=357&q=10&slack=1)</small>
+
+**11. Tyrese Proctor — "he's a great player he's a facilitator and a scoring point guard" — Tyrese Proctor on working with Omar Cook** [06:27](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=387s)
+
+Tyrese Proctor: "A little bit of everything. Him being a great player, him being a facilitator and a scoring point guard. I think just being able to see the floor, he's on me in the game whatever he sees and we have honest conversations and I think he's been great for me just working with him post practice all the time, watching film all the time, just giving me his takes and relaying messages that might be spoken from the other coaches as well and I think balance, defensive, it's just a little bit of everything."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=387s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=387s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=387&q=11) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=387&q=11&slack=1)</small>
+
+**12. Tyrese Proctor — "he's been through it. I think his assist to turnover ratio was something crazy in Europe as well" — Tyrese Proctor on learning from Omar Cook's career** [07:13](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=433s)
+
+Tyrese Proctor: "He's been through it. I think his assist to turnover ratio was something crazy in Europe as well. So just listening to what he says, taking ownership from that and just learning and just taking everything that he says in and just trying to be a sponge."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=433s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=433s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=433&q=12) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=433&q=12&slack=1)</small>
+
+**13. Tyrese Proctor — "there's no off nights in the NBA so coming in with the same mindset to just kill" — Tyrese Proctor on the team's ability to close games** [07:37](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=457s)
+
+Tyrese Proctor: "They obviously have players out but the league's so good. So like I said with our guys, next man up mentality and I think they do a great job of emphasizing that and there's no off nights in the NBA. So coming in with the same mindset to just kill every time we step on the court and I think just enforcing that will offensively, defensively and overall."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=457s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=457s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=457&q=13) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=457&q=13&slack=1)</small>
+
+**14. Tyrese Proctor — "he's the head of the snake the MVP and we got to do a good job" — Tyrese Proctor on Shai Gilgeous-Alexander's impact** [08:06](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=486s)
+
+Tyrese Proctor: "He's the head of the snake, the MVP and we got to do a good job of shutting that water off early and not letting him get off and all the other players around him as well."
+
+[https://www.youtube.com/watch?v=mFWCS_CzHwM&t=486s](https://www.youtube.com/watch?v=mFWCS_CzHwM&t=486s)
+
+<small>[Clip it](presserclips://clip?v=mFWCS_CzHwM&t=486&q=14) · [Send to Slack](presserclips://clip?v=mFWCS_CzHwM&t=486&q=14&slack=1)</small>
 
 ---
 

@@ -1,0 +1,272 @@
+{
+  "video_title": "Shootaround Media Availability with Hartenstein and Aday | November 2, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Isaiah Hartenstein",
+    "Aday Mara"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "00:11",
+      "summary_phrase": "Isaiah Hartenstein on the need for better team rebounding",
+      "names_mentioned": [],
+      "excerpt": "we just have to do a better job this rebounding as a group",
+      "quote": "It is a big front court. I think again we just have to do a better job this rebounding as a group and then kind of just go from there. I think we are at a point where stuff kind of just all sinked in now and so I think we are just ready to move forward, ready to get back to playing the way we want to play and just approach each game like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein says the Thunder are focused on improving team rebounding as a group as they look to move forward after recent losses.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein discusses the team's need to improve their rebounding performance as a group.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "00:44",
+      "summary_phrase": "Isaiah Hartenstein on the importance of team-oriented defense",
+      "names_mentioned": [],
+      "excerpt": "play like a team. I think that is the biggest thing",
+      "quote": "Play like a team. I think that is the biggest thing. When you have so many guys down, we just have to trust one another. You have to play as a team. It is not one person to change everything and so I think we are at that point where we just have to come together as a team as a matter of circumstance and just go from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein emphasizes the need for collective effort while dealing with injuries saying it is not one person to change everything and they must trust one another.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein emphasizes the importance of playing as a team while dealing with multiple player absences.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "01:04",
+      "summary_phrase": "Isaiah Hartenstein on the team's recent losses in Texas",
+      "names_mentioned": [],
+      "excerpt": "there was controllable stuff, there was not making shots",
+      "quote": "There was multiple factors. There was controllable stuff, there was not making shots. But again I think just coming to reality where we are. It is never easy when you have three of your starting players and then one of your main bench guys go out and so for us right now it is really just kind of get back to zero, getting back to just doing what we need to do, kind of just leaving that in the past and just really coming to terms where we are right now and getting the best of each situation.",
+      "verbatim_original_language": "",
+      "start_seconds": 64,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Isaiah Hartenstein addresses the Thunder injury crisis noting it is never easy when you have three starters and a main bench player out as the team tries to get back to zero.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Isaiah Hartenstein reflects on recent losses and the impact of missing several key starters and bench players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "02:24",
+      "summary_phrase": "Isaiah Hartenstein on the defensive impact of Aday Mara",
+      "names_mentioned": [
+        "Aday Mara"
+      ],
+      "excerpt": "anytime we can get a bigger wing out there I think it is helpful",
+      "quote": "In general, we would be lost probably some of our biggest defenders, biggest wings. Anytime we can get a bigger wing out there I think it is helpful and so again we just have to help them, especially us older guys, kind of help them get through the process and just go from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein notes the importance of getting bigger wings on the floor to help the team defensively while the veterans guide the younger players through the process.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Aday Mara"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein discusses the defensive value of having bigger wings like Aday Mara on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Aday Mara",
+      "timestamp": "03:05",
+      "summary_phrase": "Aday Mara on his development as a rookie",
+      "names_mentioned": [],
+      "excerpt": "being a rookie and being able to play in the first games is always a good thing",
+      "quote": "It has been good obviously. Being a rookie and being able to play in the first games is always a good thing for me, thinking about the process and getting better and better. So I think it is great.",
+      "verbatim_original_language": "",
+      "start_seconds": 185,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Rookie Aday Mara says he is focused on the process and getting better every day as he adjusts to playing in his first NBA games.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aday Mara shares his thoughts on his early development and playing experience as an NBA rookie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Aday Mara",
+      "timestamp": "03:42",
+      "summary_phrase": "Aday Mara on the team's resilience through adversity",
+      "names_mentioned": [],
+      "excerpt": "the team is mentally prepared and the way everyone is as a person that also helps",
+      "quote": "The last couple weeks they were not our best weeks with all that happened, but I think the team is mentally prepared and the way everyone is as a person that also helps to be in being able to fight through all this adversity. So I think the way we are taking it and the way we are doing things is a great way.",
+      "verbatim_original_language": "",
+      "start_seconds": 222,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Aday Mara believes the Thunder are mentally prepared to fight through recent adversity and credits the character of his teammates for keeping the group focused.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aday Mara comments on the team's mental preparation and ability to handle recent adversity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Aday Mara",
+      "timestamp": "04:35",
+      "summary_phrase": "Aday Mara on adjusting to a new team rotation",
+      "names_mentioned": [],
+      "excerpt": "we just got to figure out we are a whole new team",
+      "quote": "We just got to figure out we are a whole new team, but I think it is going to take a little bit of time to see the new lineups or new way to play with a different team. So I think we are doing a great job with it, but obviously it is going to take a little bit to adjust.",
+      "verbatim_original_language": "",
+      "start_seconds": 275,
+      "end_seconds": 299,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Aday Mara acknowledges that the Thunder are essentially a new team right now and it will take time to adjust to the new lineups and rotations.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Aday Mara discusses the time required for the team to adjust to new lineups and rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Aday Mara",
+      "timestamp": "05:16",
+      "summary_phrase": "Aday Mara on his comfort level in his role",
+      "names_mentioned": [],
+      "excerpt": "trying to do my role as best as I can, try to get people open",
+      "quote": "Right now it is just trying to do my role as best as I can, try to get people open with the screens, moving without the ball, trying to do a better job like rebounding probably. But I feel comfortable just because playing with these guys is much easier. So just being on the court in general doing my role, I feel like pretty comfortable.",
+      "verbatim_original_language": "",
+      "start_seconds": 316,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Aday Mara says he feels comfortable in his role as he focuses on setting screens and moving without the ball to help his teammates.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aday Mara describes his comfort level and focus on executing his specific role on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Aday Mara",
+      "timestamp": "05:59",
+      "summary_phrase": "Aday Mara on the challenge of facing the Cleveland Cavaliers",
+      "names_mentioned": [],
+      "excerpt": "they have really good guards that play really good offense and their bigs are really good",
+      "quote": "They have really good guards that play really good offense and then also their bigs are really good in defense. So we got to adjust in defense and try to help the guards so all the people makes the plays, but at the same time we got to also adjust in defense knowing that their bigs are really good in defense. So I don't know, it is just trying to do the personal basically.",
+      "verbatim_original_language": "",
+      "start_seconds": 359,
+      "end_seconds": 387,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Aday Mara previews the matchup against the Cavaliers noting the challenge of facing their strong guard play and defensive frontcourt.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Aday Mara discusses the defensive challenges posed by the Cleveland Cavaliers' guards and big men.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "9IJsaZeSQ_8",
+  "url": "https://www.youtube.com/watch?v=9IJsaZeSQ_8",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-02T17:14:32Z",
+  "duration_seconds": 405,
+  "processed_at": "2026-11-02T18:30:08Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

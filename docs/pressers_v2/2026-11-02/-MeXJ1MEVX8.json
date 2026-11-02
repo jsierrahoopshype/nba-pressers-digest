@@ -1,0 +1,224 @@
+{
+  "video_title": "Coby White Shootaround Media Availability | 11/2/26",
+  "speakers_seen": [
+    "Coby White"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coby White",
+      "timestamp": "00:31",
+      "summary_phrase": "Coby White on his offensive role and spacing the floor",
+      "names_mentioned": [],
+      "excerpt": "I think just being myself, my ability to space the floor and also get downhill",
+      "quote": "I think just being myself, my ability to space the floor and also get downhill and get to the free throw line. I think we are getting a lot of great looks offensively, they just haven't fell consistently throughout the course of the games we played. I like where we are at offensively. Obviously, we are not where we want to be statistically wise, but our process has been really good in terms of creating open looks for each other and getting to our spots. It will turn, the tide will turn and we will start making shots.",
+      "verbatim_original_language": "",
+      "start_seconds": 31,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coby White on the Hornets offense: We are getting great looks, they just have not fallen consistently. I like where we are at offensively and the process has been good. The tide will turn and we will start making shots.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Coby White discusses his offensive role and his expectations for the team to start making shots more consistently.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coby White",
+      "timestamp": "01:16",
+      "summary_phrase": "Coby White on staying engaged with the team while injured",
+      "names_mentioned": [],
+      "excerpt": "I think just being vocal, being very intentional with being at practice to the details",
+      "quote": "I think just being vocal, being very intentional with being at practice to the details, to being vocal in the film room. I think just watching film a lot on my own with the team and telling guys what I see. I mean, just being intentional with everything that I have done, whether it was in practice, whether it was watching film, whether it was team film, and just being engaged.",
+      "verbatim_original_language": "",
+      "start_seconds": 76,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coby White on staying engaged while injured: I think just being vocal, being very intentional with being at practice to the details, to being vocal in the film room. Just watching film a lot on my own with the team and telling guys what I see.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coby White explains how he stays engaged with his teammates and the coaching staff while recovering from an injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coby White",
+      "timestamp": "01:57",
+      "summary_phrase": "Coby White on the Pistons' physicality and defensive identity",
+      "names_mentioned": [
+        "Isiah Thomas"
+      ],
+      "excerpt": "You always got to stay, you know, like their physicality, on the ball, off the ball",
+      "quote": "You always got to stay, you know, like their physicality, on the ball, off the ball, and what they do defensively in terms of disruptiveness. They got really good defenders over there. Obviously, they got, you know, obviously one of the best defenders in the league in Isiah Thomas. They compete, they are physical, and you can tell that they set a high standard for themselves on the defensive end. It will be a good first game for me, especially a good first test.",
+      "verbatim_original_language": "",
+      "start_seconds": 117,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coby White on facing the Pistons: They compete, they are physical, and you can tell that they set a high standard for themselves on the defensive end. It will be a good first game for me, especially a good first test.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isiah Thomas"
+        ],
+        "teams": [
+          "CHO",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Coby White previews the upcoming game against the Pistons and praises the defensive intensity of Isiah Thomas.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coby White",
+      "timestamp": "02:42",
+      "summary_phrase": "Coby White on his recovery process and film study",
+      "names_mentioned": [],
+      "excerpt": "I picked up some great film habits, watching film, breaking down the game",
+      "quote": "It has been tough, but I kind of experienced that last year. The thing I wanted to do differently this year was being intentional while I am out with what I am doing, bettering myself, whether it is through basketball or anything else. I really picked up some great film habits, watching film, breaking down the game and how I can help the team, and in what ways I can help the team, instead of just being out and feeling sorry for yourself, trying to use it for my advantage and trying to just gain the advantage for when I do come back.",
+      "verbatim_original_language": "",
+      "start_seconds": 162,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coby White on his recovery: I really picked up some great film habits, breaking down the game and how I can help the team, instead of just being out and feeling sorry for yourself, trying to use it for my advantage.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coby White describes his mental approach and film study habits during his recovery process from injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coby White",
+      "timestamp": "03:49",
+      "summary_phrase": "Coby White on the team's togetherness and defensive potential",
+      "names_mentioned": [],
+      "excerpt": "I think the togetherness, being able to compete at a high level, our defensive ability",
+      "quote": "I think the togetherness, being able to compete at a high level, our defensive ability, being together on that end of the floor. Offensively, just the shots haven't fallen consistently, but the tide will turn and we will get back to that. But no, I think we have been playing good basketball. We played against some really good teams early on. We played Detroit already, played Philly, played Miami. So we have been playing against really good teams, and so for us, it is a good test for us, but I think we continue to get better each and every game.",
+      "verbatim_original_language": "",
+      "start_seconds": 229,
+      "end_seconds": 268,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coby White on the team's early schedule: We played against some really good teams early on. We played Detroit already, played Philly, played Miami. So we have been playing against really good teams, and we continue to get better each game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "DET",
+          "PHI",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Coby White reflects on the team's defensive potential and their performance against tough opponents early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coby White",
+      "timestamp": "04:55",
+      "summary_phrase": "Coby White on the locker room culture and team support",
+      "names_mentioned": [],
+      "excerpt": "The environment that they have created here, you know, the environment that my teammates have created",
+      "quote": "It is a blessing. Like I said, the environment that they have created here, you know, the environment that my teammates have created, we all want to see each other win, we all want to see each other succeed, and we are all here for each other. It is a dope moment for me, you know, for everybody to be excited for me to, you know, be back.",
+      "verbatim_original_language": "",
+      "start_seconds": 295,
+      "end_seconds": 321,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Coby White on the locker room: The environment that my teammates have created, we all want to see each other win, we all want to see each other succeed, and we are all here for each other.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coby White expresses appreciation for the supportive locker room culture created by his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coby White",
+      "timestamp": "05:48",
+      "summary_phrase": "Coby White on the standard set by the coaching staff",
+      "names_mentioned": [],
+      "excerpt": "He set a standard early on in the season, where before training camp we set a standard",
+      "quote": "He set a standard early on in the season, where before training camp we set a standard of what it should look like and what it is going to look like. Basically, the culture they are creating is either you get with it or you get lost. That is the kind of standard that, you know, coach is setting here, and the front office obviously brought in guys who are all about that.",
+      "verbatim_original_language": "",
+      "start_seconds": 348,
+      "end_seconds": 376,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coby White on the team culture: The culture they are creating is either you get with it or you get lost. That is the kind of standard that coach is setting here, and the front office brought in guys who are all about that.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coby White discusses the high standards for team culture established by the coaching staff and front office.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-MeXJ1MEVX8",
+  "url": "https://www.youtube.com/watch?v=-MeXJ1MEVX8",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-02T16:46:44Z",
+  "duration_seconds": 378,
+  "processed_at": "2026-11-02T18:30:22Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}
