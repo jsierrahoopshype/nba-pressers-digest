@@ -1,0 +1,97 @@
+{
+  "video_title": "Spurs Prediction & NEW Book About Wembanyama | Around The Beat",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Maxime Aubin"
+  ],
+  "quotes": [
+    {
+      "speaker": "Maxime Aubin",
+      "timestamp": "00:38",
+      "summary_phrase": "San Antonio Spurs smart approach to player injury management",
+      "names_mentioned": [
+        "Tobias Harris",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "The Spurs way of doing things is like, bro, you're out for a month, month and a half.",
+      "quote": "From what I see inside the Spurs, I've been following them closely for about three years, it can be always frustrating when they are doing some load management, that makes sense. And I think it just shows that it's pretty smart to do that, it's a great approach they have. Coming back to the Tobias Harris situation, mild calf strain, he could be out for just two weeks and come back. The Spurs way of doing things is like, bro, you're out for a month, month and a half. That was the same for Victor Wembanyama last season, I think it was in November, calf strain, and we know that in NBA, especially the calf strain can turn into something bad if the Achilles and stuff. So, no, I think they're pretty smart about that. And yeah, once again for the fans, for the medias, it can be really frustrating, but I think it's a good way to operate because at least from my perspective, I don't understand how you can play 82 games in six months. It's just crazy, it's insane.",
+      "rank": 1,
+      "start_seconds": 38,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Maxime Aubin defends the Spurs approach to load management noting that while it is frustrating for fans and media it is a smart way to operate to avoid long term injuries like calf strains turning into Achilles issues",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Tobias Harris",
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Maxime Aubin discusses the San Antonio Spurs' cautious approach to managing player injuries like calf strains.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Maxime Aubin",
+      "speakers": [
+        "Unidentified speaker",
+        "Maxime Aubin"
+      ],
+      "timestamp": "05:41",
+      "summary_phrase": "Maxime Aubin's prediction for the Spurs' upcoming season",
+      "names_mentioned": [
+        "Wembanyama"
+      ],
+      "excerpt": "I think playing in simple, the Spurs have to have to win the whole thing this year.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Maxime, so a couple things here as we round out. First off, what's your prediction on the season? Second, tell us a little bit about your book and other projects and works for people who are interested in getting to read and see more of your coverage."
+        },
+        {
+          "speaker": "Maxime Aubin",
+          "text": "I appreciate that. Before talking about the book, well, I think playing in simple, the Spurs have to have to win the whole thing this year. I mean, when you have that young, that talented, when during the last final you lost, you you were winning 72% of the time during the finals, because that's that's what happened before losing every single game at the end, you have to you have to win the whole thing. And Wembanyama has to be the MVP this year. I think they have all the tools, right? So I think it's time for them to win, so I'm going to put put them on top."
+        }
+      ],
+      "start_seconds": 341,
+      "end_seconds": 402,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Maxime Aubin believes the Spurs have all the tools to win the championship this year and expects Victor Wembanyama to win the MVP award",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Maxime Aubin predicts the San Antonio Spurs will win the championship and Victor Wembanyama will win MVP this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "Lq2GCLfg5RQ",
+  "url": "https://www.youtube.com/watch?v=Lq2GCLfg5RQ",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-02T04:41:12Z",
+  "duration_seconds": 608,
+  "processed_at": "2026-11-02T07:45:40Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

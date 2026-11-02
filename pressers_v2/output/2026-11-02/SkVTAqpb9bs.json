@@ -1,0 +1,320 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Los Angeles Lakers | November 01, 2026",
+  "speakers_seen": [
+    "Jameson",
+    "RJ",
+    "Darko"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jameson",
+      "timestamp": "00:26",
+      "summary_phrase": "Jameson on his role and expectations within the Raptors organization",
+      "names_mentioned": [],
+      "excerpt": "everyone in this organization has belief in me, but more importantly I just want to contribute to winning",
+      "quote": "Not necessarily that he's communicated with me, but that's just the expectation anyway. So go out there, play free, just do what you're expected to do and just go out there and play for your teammates. I think everyone in this organization has belief in me, but more importantly I just want to contribute to winning and help the team. I feel like with that, that's what I do. So when times like that happen, you have to translate and be able to do what you just did at the end of the game for a full 48.",
+      "verbatim_original_language": "",
+      "start_seconds": 26,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jameson on his role with the Raptors: I just want to contribute to winning and help the team. I feel like with that, that is what I do.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jameson discusses his role and expectations within the Raptors organization following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "RJ",
+      "timestamp": "03:40",
+      "summary_phrase": "RJ on the need for the Raptors to start games better",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "we definitely do have to start these games better",
+      "quote": "For real though, we definitely do have to start these games better. It's been a couple bad starts for us. So we start these games better and put ourselves in a better position.",
+      "verbatim_original_language": "",
+      "start_seconds": 220,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ says the Raptors need to address their recent struggles: We definitely do have to start these games better. It has been a couple bad starts for us.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ comments on the need for the Raptors to improve their starts to games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "RJ",
+      "timestamp": "04:16",
+      "summary_phrase": "RJ on the value of experimenting with different lineups early season",
+      "names_mentioned": [],
+      "excerpt": "that's why you have a team, different lineups, different times, different games call for different situations",
+      "quote": "It's early in the season and that's why you have a team, different lineups, different times, different games call for different situations. So we have a whole team and the way that we know the way that we need to play, the things that we need to do. So whoever is out there on the floor, we got to make it work.",
+      "verbatim_original_language": "",
+      "start_seconds": 256,
+      "end_seconds": 280,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ on the Raptors early season rotation: It is early in the season and that is why you have a team, different lineups, different times, different games call for different situations.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "RJ discusses the team's approach to experimenting with different lineups early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "RJ",
+      "timestamp": "04:45",
+      "summary_phrase": "RJ on defensive focus and reducing turnovers against the Clippers",
+      "names_mentioned": [],
+      "excerpt": "making sure that we're all of us are locked in from the jump and then at the same time",
+      "quote": "One, defensively just making sure that we're all of us are locked in from the jump and then at the same time we can't turn over the ball. We can't turn over the ball. I think we had nine in the first quarter, that's tough. We had a better, honestly, we had a better second and fourth quarter. Third was okay, but yeah, definitely had a better second and fourth quarter. We turned the ball over I think three times in the second half and you see how much better we played.",
+      "verbatim_original_language": "",
+      "start_seconds": 285,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ on the Raptors turnover issues: We can not turn over the ball. I think we had nine in the first quarter, that is tough.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "RJ reflects on the team's defensive focus and turnover issues during the game against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "RJ",
+      "timestamp": "06:11",
+      "summary_phrase": "RJ on the difficulty of defending Luka when he is hot",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "I've seen him get 60 points before so I mean I don't know, a lot of people try",
+      "quote": "I've seen him get 60 points before so I mean I don't know, a lot of people try. And when he's making those shots, it's tough. Deep step-back threes, that's normally a shot that you want somebody to take. So he made eight threes. Like I said, I think we could have obviously a better job, but at the same time he definitely made some tough ones today.",
+      "verbatim_original_language": "",
+      "start_seconds": 371,
+      "end_seconds": 397,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ on defending Luka: When he is making those shots, it is tough. Deep step-back threes, that is normally a shot that you want somebody to take.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "TOR",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "RJ discusses the difficulty of defending Luka Doncic when he is shooting well.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko",
+      "timestamp": "06:48",
+      "summary_phrase": "Darko on the team's resilience and fighting for 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "we are not the team that quits, we never quit",
+      "quote": "We are not the team that quits, we never quit. We play full 48 minutes and the guys that we got there at the end, they fought. They gave all the fight they had. I thought that they did a great job and they deserve to be on the court there when the game was deciding. I think we came to five point differential there and those guys they deserve the opportunity to finish the game and to get this that experience there.",
+      "verbatim_original_language": "",
+      "start_seconds": 408,
+      "end_seconds": 440,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko on the Raptors late game effort: We are not the team that quits, we never quit. We play full 48 minutes.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko praises the resilience and effort of the players who finished the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko",
+      "timestamp": "08:10",
+      "summary_phrase": "Darko on the team's failure to make simple decisions early",
+      "names_mentioned": [
+        "Gordon"
+      ],
+      "excerpt": "I thought that we were just not making simple decisions",
+      "quote": "To be honest with you, I thought that we were just not making simple decisions. There were a couple of situations that they were taking charges, we had simple pass, Gordon was open. As we were playing with speed and force, we got to be under control as well. I thought that it was just us not really making the decisions. From that point in the game we did not have a problem. In the second half we had only three turnovers. That's something that we can really build on and get better at.",
+      "verbatim_original_language": "",
+      "start_seconds": 490,
+      "end_seconds": 526,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko on the team's early game struggles: I thought that we were just not making simple decisions. In the second half we had only three turnovers. That is something that we can really build on.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko analyzes the team's failure to make simple decisions and manage turnovers early in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko",
+      "timestamp": "08:57",
+      "summary_phrase": "Darko on the team's need to find players who provide energy",
+      "names_mentioned": [
+        "Elijah"
+      ],
+      "excerpt": "we're short on bodies so we really try to scramble and to find somebody who's going to give us",
+      "quote": "Trying to figure out who can help us. We decided to go and switch more with one through five and we're short on bodies so we really try to scramble and to find somebody who's going to give us a juice. I thought that Elijah did a really good job in the first half. His on-ball defense and aggressiveness was really, really good and we were just hoping to get that from all of our guards when we play those three guard lineup.",
+      "verbatim_original_language": "",
+      "start_seconds": 537,
+      "end_seconds": 569,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko on the Raptors defensive adjustments: We decided to go and switch more with one through five and we are short on bodies so we really try to scramble and to find somebody who is going to give us a juice.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Elijah"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko explains the team's need to find players who provide energy and praises Elijah's defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko",
+      "timestamp": "09:31",
+      "summary_phrase": "Darko on Jameson's need to find his level consistently",
+      "names_mentioned": [
+        "Jameson"
+      ],
+      "excerpt": "he needs to find that level every night",
+      "quote": "He needs to find that level every night. The way he was shooting the ball there at the end and confidence that he showed at the end, that needs to build from the jump ball. That needs to build from the start of the game. So that's something for him to work on and improve on. He's constantly showing us the talent and potential. He needs to do that from the jump, from the start of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 571,
+      "end_seconds": 601,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko challenges Jameson: He needs to find that level every night. The confidence that he showed at the end, that needs to build from the jump ball.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jameson"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko challenges Jameson to maintain his high level of play and confidence from the start of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko",
+      "timestamp": "10:17",
+      "summary_phrase": "Darko on Luka's health and unstoppable performance",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "he came back, he's in great shape, he looks healthy and when he's healthy he's just unstoppable",
+      "quote": "I think that this year he came back, he's in great shape, he looks healthy and when he's healthy and when he's ready to go, he's just unstoppable. Tonight he was outstanding shooting. I believe that every three that he took tonight was of the dribble three and at one point he was seven for eight from the three-point line. That's hard to do. There is not a lot of people on this planet that can do that and he's one of those guys. Plus his decision making and understanding the game and court vision, outstanding player.",
+      "verbatim_original_language": "",
+      "start_seconds": 617,
+      "end_seconds": 654,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko on Luka: When he is healthy and when he is ready to go, he is just unstoppable. There is not a lot of people on this planet that can do that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "TOR",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Darko discusses Luka Doncic's physical condition and his outstanding shooting performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "SkVTAqpb9bs",
+  "url": "https://www.youtube.com/watch?v=SkVTAqpb9bs",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-02T06:50:49Z",
+  "duration_seconds": 700,
+  "processed_at": "2026-11-02T07:45:21Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

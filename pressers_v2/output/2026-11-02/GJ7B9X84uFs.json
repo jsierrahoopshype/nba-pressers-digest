@@ -1,0 +1,206 @@
+{
+  "video_title": "RJ Barrett | Post Game vs Los Angeles Lakers | November 01, 2026",
+  "speakers_seen": [
+    "RJ Barrett"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:19",
+      "summary_phrase": "RJ Barrett on the Raptors' slow starts and need for improvement",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "we definitely do have to start these games better. There's been a couple bad starts for us.",
+      "quote": "I think that they normally play good in the first quarter and we knew that. I think we could have done a better job of limiting that, but they did make a lot of shots, especially Luka Doncic made some tough ones. But I think we stuck with it no matter what. And for real though, we definitely do have to start these games better. There's been a couple bad starts for us. So we start these games better and put ourselves in a better position.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett says the Raptors need to address their recurring slow starts to games. We definitely have to start these games better to put ourselves in a better position.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "TOR",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the Raptors' slow start and the difficulty of defending Luka Doncic during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:57",
+      "summary_phrase": "RJ Barrett on the value of early season lineup experimentation",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "That's I think that's why you have a team, different lineups, different times, different games.",
+      "quote": "It's early in the season and that's I think that's why you have a team, different lineups, different times, different games call for different situations. We have a whole team and the way that we know the way that we need to play, the things that we need to do. So whoever is out there on the floor, we got to make it work.",
+      "text_blocks": [],
+      "start_seconds": 57,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett on the team's early season lineup changes. It is early in the season and different games call for different situations. Whoever is out there on the floor we have to make it work.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "RJ Barrett discusses the importance of lineup flexibility and team depth early in the NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "RJ Barrett",
+      "timestamp": "01:36",
+      "summary_phrase": "RJ Barrett on defensive focus and reducing turnovers against the Clippers",
+      "names_mentioned": [],
+      "excerpt": "making sure that we're all of us are locked in from the jump.",
+      "quote": "One, defensively, just making sure that we're all of us are locked in from the jump. And then at the same time, we can't turn over the ball. We had nine in the first quarter, that's tough. We had a better second and fourth quarter. I think third was okay, but we definitely had a better second and fourth quarter. We turned the ball over three times in the second half and you see how much better we played.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett highlights turnovers as a major issue for the Raptors. We had nine in the first quarter and that is tough. You see how much better we played when we protected the ball in the second half.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett explains the need for defensive focus and ball security to improve the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:16",
+      "summary_phrase": "RJ Barrett on simplifying the offense to avoid turnovers",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I think we're trying to start off aggressive, but at the same time, especially beginning of the game.",
+      "quote": "I think we're trying to start off aggressive, but at the same time, especially beginning of the game, the defense is always really loaded up. So just being smart, I ran into Luka Doncic, got two charges. Just stuff like that, being smart. Sharing the ball and just waiting for things to open up so we can attack those gaps and get to what we want to get to.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett on how the Raptors can improve their offensive efficiency. We are trying to start off aggressive but we need to be smart. Sharing the ball and waiting for things to open up is key.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "TOR",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "RJ Barrett explains the need for smarter offensive play and better decision-making against defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:46",
+      "summary_phrase": "RJ Barrett on his long-standing relationship with Sandro Mamukelashvili",
+      "names_mentioned": [
+        "Sandro Mamukelashvili"
+      ],
+      "excerpt": "love Sandro, man. It's a high school teammate of mine, so known him a long time.",
+      "quote": "Love Sandro, man. It's a high school teammate of mine, so known him a long time.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "RJ Barrett reflects on his long history with Sandro Mamukelashvili. Love Sandro man. It is a high school teammate of mine so known him a long time.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Sandro Mamukelashvili"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "RJ Barrett reflects on his long-standing personal relationship with his former high school teammate Sandro Mamukelashvili.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:54",
+      "summary_phrase": "RJ Barrett on the difficulty of containing a hot Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I've seen him get 60 points before, so I mean, I don't know.",
+      "quote": "I've seen him get 60 points before, so I mean, I don't know. A lot of people try and when he's making those shots, it's tough. You know, like deep step-back threes, that's normally a shot that you want somebody to take. So if he made eight threes, like I said, I think we could have done obviously a better job, but at the same time he definitely made some tough ones today.",
+      "text_blocks": [],
+      "start_seconds": 174,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett on the challenge of defending Luka Doncic. When he is making those shots it is tough. Those deep step back threes are normally a shot that you want somebody to take but he made some tough ones today.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "TOR",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "RJ Barrett comments on the challenges of containing Luka Doncic when he is hitting difficult shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "GJ7B9X84uFs",
+  "url": "https://www.youtube.com/watch?v=GJ7B9X84uFs",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-02T06:21:59Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-11-02T07:45:17Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

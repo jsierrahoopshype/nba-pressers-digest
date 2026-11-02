@@ -1,0 +1,196 @@
+{
+  "video_title": "Unfinished Business & Dylan Harper Starting For Spurs | Around The Beat",
+  "speakers_seen": [
+    "Maxime",
+    "Mitch Johnson",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Maxime",
+      "speakers": [],
+      "timestamp": "00:22",
+      "summary_phrase": "Spurs' new three-guard lineup with Dylan Harper",
+      "names_mentioned": [
+        "Dylan Harper",
+        "Mitch Johnson"
+      ],
+      "excerpt": "to start this three-guard lineup with Harper in the starting five",
+      "quote": "I think it's very different. It looks the same because there is only one more player, maybe two of the drafties, but it looks really different because of what they decided to do. So basically, to start this three-guard lineup with Harper in the starting five, I think it's a lot of change. Like we've seen in the couple of first games, it's still a work in progress. They are very confident it's going to work. From what we see, it's a tough one for so many reasons, so we'll see if it works or not.",
+      "verbatim_original_language": "",
+      "start_seconds": 22,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Maxime breaks down the Spurs decision to move Dylan Harper into the starting lineup. It is a major shift for the team and while the staff remains confident, it is clearly a work in progress.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dylan Harper"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Maxime discusses the Spurs' decision to move Dylan Harper into the starting lineup as part of a new three-guard configuration.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Maxime",
+      "speakers": [],
+      "timestamp": "01:00",
+      "summary_phrase": "Spurs' confidence in their new roster construction",
+      "names_mentioned": [],
+      "excerpt": "I'm seeing a lot of confidence. I don't want to say overconfidence",
+      "quote": "I'm seeing a lot of confidence. I don't want to say overconfidence, but I just feel like they are so confident on themselves that they're going to be amazing and that this five-star lineup is going to work together and be amazing. It's still a young team, very young team, young kids. I just think it's a lot to change a bit everything. I think it's very ballsy from Mitch Johnson to try that when you realize last year it was working the way it worked with Harper coming off the bench.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Maxime calls the Spurs decision to change their rotation and start Dylan Harper a ballsy move by Mitch Johnson, especially considering how well the previous bench rotation worked last season.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mitch Johnson",
+          "Dylan Harper"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Maxime comments on the confidence of the young Spurs roster and the bold coaching choice made by Mitch Johnson regarding the starting lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Maxime",
+      "speakers": [],
+      "timestamp": "02:47",
+      "summary_phrase": "Spurs players motivated by unfinished business from last season",
+      "names_mentioned": [
+        "Wemby",
+        "Dylan Harper",
+        "Mitch Johnson",
+        "Devin Vassell",
+        "Stephon Castle"
+      ],
+      "excerpt": "they all said that basically from Wemby to Harper to Mitch Johnson to Devin Vassell to Stephon Castle",
+      "quote": "I remember that for the media day, they all said that basically from Wemby to Harper to Mitch Johnson to Devin Vassell to Stephon Castle, all of them, they have unfinished business. They all said how much it hurts to lose, to lose that finals and the way they lost it. So they are definitely on a mission, I think. That's what I was trying to say when I said they are so confident as well because they are trying to make this pretty bad memory into a good thing.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "The Spurs are playing with a chip on their shoulder this season. Maxime notes that the entire core, including Wemby and Harper, are fueled by the memory of losing the finals and are on a mission to redeem themselves.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama",
+          "Dylan Harper",
+          "Mitch Johnson",
+          "Devin Vassell",
+          "Stephon Castle"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Maxime reflects on the motivation of the Spurs players following their loss in the previous season's finals.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Maxime",
+      "speakers": [],
+      "timestamp": "05:23",
+      "summary_phrase": "Wemby's reaction to being labeled a villain",
+      "names_mentioned": [
+        "Wemby"
+      ],
+      "excerpt": "Wemby said it for himself, like he said, 'Maybe I'm the villain'",
+      "quote": "It's a little crazy to think that he's a villain, to be honest with you. I'm really trying to be objective and I've watched the finals again and again. They all play hard, they all play tough, they're rough sometimes. It went both ways for me with many players and I think Wemby said it for himself, like he said, 'Maybe I'm the villain, but I think it's a pretty good news that means they care about me'.",
+      "verbatim_original_language": "",
+      "start_seconds": 323,
+      "end_seconds": 353,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Wemby is embracing the villain label. Maxime shares that the star center views the negative attention as a positive sign that people care about his game.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Maxime discusses Victor Wembanyama's perspective on being perceived as a villain following the previous season's finals.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Maxime",
+      "speakers": [],
+      "timestamp": "07:32",
+      "summary_phrase": "Spurs' chemistry and team-first culture",
+      "names_mentioned": [
+        "Dylan Harper",
+        "Stephon Castle",
+        "Fox"
+      ],
+      "excerpt": "they are so smart of a team and they genuinely like each other",
+      "quote": "It seems to me like they are so smart of a team and they genuinely like each other and it makes me think it's going to work at some point, this three guys together. But to come back to media day, it didn't say to us basically, but it was funny because coming back to that day, I think September 29th, we all arrived at the Spurs training facility and there is a GQ interview going on and on. And that was Harper and Castle deciding to do something together. And I think it was not the best idea for them to do that because it was just the two of them and the title was something like, 'This is the new generation of the Spurs, this is the two new guards of San Antonio'. Okay, where is Fox in that?",
+      "verbatim_original_language": "",
+      "start_seconds": 452,
+      "end_seconds": 506,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Maxime notes that the Spurs chemistry remains a major strength, though he points out some early friction regarding the team's public messaging about the new generation of guards.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dylan Harper",
+          "Stephon Castle"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Maxime shares an anecdote about a GQ interview featuring Dylan Harper and Stephon Castle during the Spurs' media day.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "pN_70ec0quk",
+  "url": "https://www.youtube.com/watch?v=pN_70ec0quk",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-02T04:41:13Z",
+  "duration_seconds": 577,
+  "processed_at": "2026-11-02T07:45:36Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

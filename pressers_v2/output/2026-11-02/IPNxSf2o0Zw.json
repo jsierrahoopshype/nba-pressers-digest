@@ -1,0 +1,431 @@
+{
+  "video_title": "Rick Carlisle, Andrew Nembhard & Quenton Jackson Postgame Media Availability | November 1, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Andrew Nembhard",
+    "Quenton Jackson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:34",
+      "summary_phrase": "Rick Carlisle on roster challenges due to missing players",
+      "names_mentioned": [],
+      "excerpt": "We're missing a lot of guys. That makes it hard.",
+      "quote": "We're missing a lot of guys. That makes it hard. We'll look at it, there's things we can do better. I thought we had quite a few good looks that just happened to not go down, but from a process standpoint, you just got to keep letting them fly.",
+      "text_blocks": [],
+      "start_seconds": 34,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle says the Pacers are dealing with a lot of roster challenges right now due to missing players. He emphasized that the team needs to keep letting shots fly despite the recent struggles.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle discusses the impact of missing players on the team's performance after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:10",
+      "summary_phrase": "Rick Carlisle on the need to play cleaner without fouling",
+      "names_mentioned": [],
+      "excerpt": "We've got to look at ways to play cleaner and without fouling.",
+      "quote": "The small ball is a big part of that is the fouls. We've got to look at ways to play cleaner and without fouling and to keep our guys in the game. It's just there's a lot of challenges right now, but that's what this whole thing's about.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle notes that foul trouble is a major issue for the Pacers while playing small ball. He says the team needs to find ways to play cleaner to keep their guys on the floor.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle addresses the team's foul trouble and the need to play cleaner basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:11",
+      "summary_phrase": "Rick Carlisle credits Brooklyn's urgency in their win",
+      "names_mentioned": [],
+      "excerpt": "They played like it was Game 7 of a playoff series.",
+      "quote": "Give Brooklyn credit. They had no wins coming in here and they played like it was Game 7 of a playoff series. Their urgency was really there the entire way and I thought ours was too. Neither team scores a hundred. It's teams going hard, but they were healthier than we are, so that makes it tougher.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle credited Brooklyn for their urgency in tonight's win, noting they played like it was a Game 7. He added that the Nets were healthier than the Pacers, which made the matchup tougher.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle reflects on the urgency displayed by Brooklyn during their victory over Indiana.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:40",
+      "summary_phrase": "Rick Carlisle on rebounding and ball security issues",
+      "names_mentioned": [],
+      "excerpt": "We lost the rebounds and we were plus one on turnovers.",
+      "quote": "The thing that we talked about before the game was the rebounds and ball security and we lost the rebounds and we were plus one on turnovers from what I'm seeing here. The margins are slim for everybody, but when you're down guys, they're slimmer. No excuses, this is part of it and we just got to figure out ways to do better.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Rick Carlisle says the margins are slim for everyone, but even slimmer when the team is missing players. He pointed to rebounding and ball security as the key areas where the Pacers need to improve.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle evaluates the team's struggles with rebounding and ball security.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:37",
+      "summary_phrase": "Rick Carlisle praises Kobe Brown and Quenton Jackson's contributions",
+      "names_mentioned": [
+        "Kobe Brown",
+        "Quenton Jackson"
+      ],
+      "excerpt": "Kobe Brown has hardly played. He did some good things in Miami, did some good things tonight.",
+      "quote": "We had some guys step in tonight and do some good things. Kobe Brown has hardly played. He did some good things in Miami, did some good things tonight. Quenton Jackson has been really solid and we need those guys to help us hold the fort.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle praised the contributions of Kobe Brown and Quenton Jackson, saying the Pacers need those guys to help them hold the fort while dealing with injuries.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Brown",
+          "Quenton Jackson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle praises the contributions of Kobe Brown and Quenton Jackson off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Andrew Nembhard",
+      "timestamp": "04:05",
+      "summary_phrase": "Andrew Nembhard on the challenge of playing with limited ball-handlers",
+      "names_mentioned": [],
+      "excerpt": "It's a challenge that we're faced with, but something that we just got to work through.",
+      "quote": "It's a challenge that we're faced with, but something that we just got to work through. Keep the ball moving on that side of the floor and everybody's got to step up.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Andrew Nembhard acknowledges the challenge of playing with limited ball handlers. He says the team has to work through it by keeping the ball moving and having everyone step up.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Andrew Nembhard discusses the difficulty of playing with a limited number of ball-handlers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Andrew Nembhard",
+      "timestamp": "04:52",
+      "summary_phrase": "Andrew Nembhard on shot quality and tough defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "Shot quality is a big thing when it comes to making shots.",
+      "quote": "Shot quality is a big thing when it comes to making shots and sometimes you're forced into tougher shots because of the way the game's playing, the way they're guarding. It wasn't a high-scoring game, so better the shots, the better the fall.",
+      "text_blocks": [],
+      "start_seconds": 292,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Andrew Nembhard discusses shot quality, noting that defensive pressure can force players into tougher looks. He says the team needs better shots to get better results.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Andrew Nembhard explains how defensive pressure impacts shot quality during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Andrew Nembhard",
+      "timestamp": "05:14",
+      "summary_phrase": "Andrew Nembhard on Brooklyn's defensive strategy against Pascal Siakam",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "They got a lot of long athletic defenders, switch one through five, they pack the paint.",
+      "quote": "They got a lot of long athletic defenders, switch one through five, they pack the paint, so it just made it tough on him, coming doubling at certain times.",
+      "text_blocks": [],
+      "start_seconds": 314,
+      "end_seconds": 325,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Andrew Nembhard explains that Brooklyn's defensive strategy against Pascal Siakam involved long, athletic defenders and doubling him to pack the paint.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Andrew Nembhard describes the defensive strategy Brooklyn used to contain Pascal Siakam.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Andrew Nembhard",
+      "timestamp": "05:36",
+      "summary_phrase": "Andrew Nembhard on bench contributions from Kobe Brown and Quenton Jackson",
+      "names_mentioned": [
+        "Kobe Brown",
+        "Quenton Jackson"
+      ],
+      "excerpt": "Kobe Brown and Quenton Jackson came in and gave us some good minutes off the bench.",
+      "quote": "Kobe Brown and Quenton Jackson came in and gave us some good minutes off the bench, playing hard on defense, doing their role in terms of crashing, not crashing. It might not show up on the stat sheet, but I like having them out there.",
+      "text_blocks": [],
+      "start_seconds": 336,
+      "end_seconds": 353,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Andrew Nembhard says he likes having Kobe Brown and Quenton Jackson on the floor. He noted that their hard work on defense and role execution might not show up on the stat sheet but is valuable.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown",
+          "Quenton Jackson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Andrew Nembhard comments on the positive impact of Kobe Brown and Quenton Jackson in their bench roles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Quenton Jackson",
+      "timestamp": "06:42",
+      "summary_phrase": "Quenton Jackson on maintaining a process-oriented mindset",
+      "names_mentioned": [],
+      "excerpt": "Going forward, we just got to stick to the plan, stay process-oriented and keep shooting them.",
+      "quote": "Going forward, we just got to stick to the plan, stay process-oriented and keep shooting them. That's the only way to get them to fall. Slow start, but it's not about how you start, it's about how you finish.",
+      "text_blocks": [],
+      "start_seconds": 402,
+      "end_seconds": 417,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Quenton Jackson says the Pacers need to stay process oriented. He noted that while the team had a slow start, it is not about how you start but how you finish.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Quenton Jackson emphasizes the importance of maintaining a process-oriented mindset after the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Quenton Jackson",
+      "timestamp": "07:05",
+      "summary_phrase": "Quenton Jackson on finding rhythm with a new rotation",
+      "names_mentioned": [],
+      "excerpt": "A lot of these guys you don't really play with, but in this grand scheme of things.",
+      "quote": "A lot of these guys you don't really play with, but in this grand scheme of things, our flow, our pace to our game, we should be able to find something to go out there and execute. I think we just need to stay process-oriented. I think we all need to stay on the same page, I think we need to all keep encouraging each other and just keep looking forward.",
+      "text_blocks": [],
+      "start_seconds": 425,
+      "end_seconds": 452,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Quenton Jackson says the team needs to find a flow despite the new rotation. He emphasized the importance of staying on the same page and encouraging each other.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Quenton Jackson discusses the challenge of finding rhythm and flow within a new rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Quenton Jackson",
+      "timestamp": "07:44",
+      "summary_phrase": "Quenton Jackson on the discomfort of playing in new roles",
+      "names_mentioned": [],
+      "excerpt": "You're putting guys who aren't normally in that position in positions they haven't been in.",
+      "quote": "You're putting guys who aren't normally in that position in positions they haven't been in, so it's a little bit of discomfort in that, but at the end of the day, I think we're all NBA players. I don't think anybody just did terrible today as far as just bringing the ball up or turning the ball over, so stay process-oriented, not getting too high, too low, two and five, I think we'll be all right.",
+      "text_blocks": [],
+      "start_seconds": 464,
+      "end_seconds": 493,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quenton Jackson admits there is some discomfort in playing new roles, but believes the team will be all right. He says they need to avoid getting too high or too low.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Quenton Jackson reflects on the discomfort of players being asked to fill unfamiliar roles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Quenton Jackson",
+      "timestamp": "08:19",
+      "summary_phrase": "Quenton Jackson on opposing defensive schemes against Pascal Siakam",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "Teams have just noticed that Pascal Siakam is pretty much one of our go-to scorers.",
+      "quote": "Over the past two years, teams have just noticed that Pascal Siakam is pretty much one of our go-to scorers, so doubling him, sending all kind of different defensive schemes at him, I think we just got to keep doing better at helping Pascal Siakam out.",
+      "text_blocks": [],
+      "start_seconds": 499,
+      "end_seconds": 517,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quenton Jackson says teams are consistently sending different defensive schemes at Pascal Siakam. He believes the Pacers need to do a better job of helping him out.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quenton Jackson discusses the need for the team to better support Pascal Siakam against double teams.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Quenton Jackson",
+      "timestamp": "08:45",
+      "summary_phrase": "Quenton Jackson on his growth as a point guard",
+      "names_mentioned": [],
+      "excerpt": "Just the comfortability of being out there, having the ball, not being too rushed.",
+      "quote": "Just the comfortability of being out there, having the ball, not being too rushed, just kind of finding my space out there. It's nothing short of a blessing, I'm just happy to be out there and happy to provide for my team in any way that I can.",
+      "text_blocks": [],
+      "start_seconds": 525,
+      "end_seconds": 542,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Quenton Jackson says he is finding more comfort as a point guard. He described the opportunity to contribute to the team as a blessing.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Quenton Jackson shares his thoughts on his personal growth and comfort level playing point guard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "IPNxSf2o0Zw",
+  "url": "https://www.youtube.com/watch?v=IPNxSf2o0Zw",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-02T02:19:13Z",
+  "duration_seconds": 542,
+  "processed_at": "2026-11-02T07:45:58Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

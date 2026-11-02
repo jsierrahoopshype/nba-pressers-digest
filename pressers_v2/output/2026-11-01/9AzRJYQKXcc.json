@@ -1,0 +1,573 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. BOSTON CELTICS | COACH SWEENEY, ANTHONY BLACK & TRISTAN DA SILVA",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Anthony Black",
+    "Tristan da Silva"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:14",
+      "summary_phrase": "Coach Sweeney on Orlando's late-game execution and defensive struggles against Jayson Tatum",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "defensively, they had a couple tough shots made by Tatum. Obviously he had a very nice game.",
+      "quote": "Down the stretch, there were a few times that we attacked and did a good job of getting to the paint and then didn't quite have a couple outcomes that we would have liked to have seen. And then defensively, they had a couple tough shots made by Tatum. Obviously he had a very nice game. He got to the line 17 times, fouled him twice or three times on jump shots, and then a couple offensive rebound threes for them down the stretch. But in general, I love the way that team fought. I love the way we competed. As we did get down, we didn't give in. We got ourselves back into it. We were right there, we just needed a couple more plays to go our way and would have been in great shape.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney on the Magic loss to Boston: We had a few times we attacked and did a good job of getting to the paint but we just did not quite have the outcomes we would have liked to have seen",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "ORL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's defensive performance and the challenge posed by Jayson Tatum during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:52",
+      "summary_phrase": "Coach Sweeney on Orlando's high turnover count and need for better ball security",
+      "names_mentioned": [],
+      "excerpt": "there's a number of times where you have to be really strong with the ball",
+      "quote": "It's definitely a combination of things. I think when you see that crowd, being able to make that right play to your teammate is really important. Credit them, they forced turnovers, they're aggressive to go for steals. There's a number of times where you have to be really strong with the ball and then play through contact when you do get it, and we can do a better job of that. Love the aggressiveness, but both halves I thought we could have been better with the basketball there and taking care of it.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Sweeney on the Magic turnover issues: We have to be really strong with the ball and play through contact when we do get it and we can do a better job of that",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney addresses the team's high turnover count and the need for better ball security.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:27",
+      "summary_phrase": "Coach Sweeney on the importance of rebounding and winning possession battles",
+      "names_mentioned": [
+        "Tristan da Silva"
+      ],
+      "excerpt": "we did a much better job of crashing in the second half.",
+      "quote": "In the first half, we didn't do a great job on the defensive boards and like you said in the second half, really did a nice job. Tristan, I think believe had four offensive rebounds in the first half and in general, that's a big part of the game on both ends. We did a much better job of crashing in the second half. First half, didn't do as good a job there. So if we can sustain on both ends, I think we're in great shape there on the rebounding.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney says rebounding is a big part of the game on both ends and the team did a much better job of crashing the glass in the second half",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tristan da Silva"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney evaluates the team's rebounding performance and highlights Tristan da Silva's contribution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:07",
+      "summary_phrase": "Coach Sweeney on the team's resilience and need to sustain momentum",
+      "names_mentioned": [],
+      "excerpt": "we just need to do a little bit better job of sustaining some things.",
+      "quote": "The game was a five-point game at halftime and then had a couple quick baskets. But at the end of the day, it wasn't like a big deficit. I think we were down 15 at most, which isn't ideal, but in general I thought we did a pretty good job with the ebbs and the flows of the game, continuing to compete, continuing to work. Now we just need to do a little bit better job of sustaining some things. But love the way the guys fought, love the way they competed. I thought the intent was there and this is a very good team that we just needed a couple more plays and we'll get them and go from there.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney on the team's effort: I love the way the guys fought and competed. I thought the intent was there and this is a very good team that we just needed a couple more plays",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney reflects on the team's resilience and their ability to compete throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:51",
+      "summary_phrase": "Coach Sweeney on Anthony Black's playmaking and defensive focus",
+      "names_mentioned": [
+        "Anthony Black"
+      ],
+      "excerpt": "I think we can get him some situations to get him a little bit more space.",
+      "quote": "I think we can get him some situations to get him a little bit more space and then in general tonight, I thought the game dictated him passing. Trusting his teammates, they were really trying to bring a crowd no matter when he had it or where he had it and just in general selling out to try to keep us from getting all the way to the rim. That's why they are I think leading the league in corner threes allowed, so just got to trust that and make the right play.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney on Anthony Black: The game dictated him passing. They were really trying to bring a crowd no matter when he had it and just in general selling out to keep us from getting to the rim",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Black"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Sweeney discusses Anthony Black's playmaking and how the team can create better spacing for him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Sweeney",
+      "timestamp": "03:31",
+      "summary_phrase": "Coach Sweeney on Anthony Black's development and aggressive play",
+      "names_mentioned": [
+        "Anthony Black"
+      ],
+      "excerpt": "love what he's bringing to the team, love his spirit, love his ability to attack on both ends.",
+      "quote": "I think he's done a nice job in some areas and some areas he can improve, but in general love what he's bringing to the team, love his spirit, love his ability to attack on both ends and now we just got to keep building, keep ramping up, keep getting more aggressive and understanding where the opportunities are for him.",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney on Anthony Black: I love what he is bringing to the team, his spirit and his ability to attack on both ends. Now we just have to keep building and keep ramping up",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Black"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney shares his thoughts on Anthony Black's ongoing development and aggressive play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coach Sweeney",
+      "timestamp": "03:51",
+      "summary_phrase": "Coach Sweeney on Tristan da Silva's impact off the bench",
+      "names_mentioned": [
+        "Tristan da Silva"
+      ],
+      "excerpt": "he's been really aggressive, finding good looks. I think he did a good job of attacking tonight.",
+      "quote": "I think he's done a great job on both ends, especially shooting the basketball. He's been really aggressive, finding good looks. I think he did a good job of attacking tonight. Some opportunities in that second half to really give us a boost. I thought he did a great job with that and he's got to keep it up.",
+      "text_blocks": [],
+      "start_seconds": 231,
+      "end_seconds": 254,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney on Tristan da Silva: He has done a great job on both ends, especially shooting the basketball. He has been really aggressive and finding good looks",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tristan da Silva"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises Tristan da Silva for his impact and aggressive play off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Coach Sweeney",
+      "timestamp": "04:14",
+      "summary_phrase": "Coach Sweeney on preparing for back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "when you have a home-home back-to-back, you try to get as much rest as you can tonight.",
+      "quote": "When you have a home-home back-to-back, you try to get as much rest as you can tonight. Meet at the arena tomorrow to go through what the other team's looking to do, how we want to defend it, how we want to attack it, and then based on who we have, we use the best combinations that we can and then look to go get them.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney on the upcoming back-to-back: We try to get as much rest as we can tonight and then meet at the arena tomorrow to go through what the other team is looking to do",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney explains the team's preparation process for an upcoming back-to-back game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Anthony Black",
+      "timestamp": "04:52",
+      "summary_phrase": "Anthony Black on turnovers and free-throw disparity",
+      "names_mentioned": [],
+      "excerpt": "we probably had too many turnovers and we put them on the free throw line a lot.",
+      "quote": "I think the night we probably had too many turnovers and we put them on the free throw line a lot. Yeah, it's just tough to win when you're fouling down the stretch, giving away possessions, and they're a veteran team, so they know how to capitalize off that.",
+      "text_blocks": [],
+      "start_seconds": 292,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Black on the loss: We had too many turnovers and we put them on the free throw line a lot. It is just tough to win when you are fouling down the stretch and giving away possessions",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Anthony Black discusses the team's struggles with turnovers and fouling against a veteran Boston team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Anthony Black",
+      "timestamp": "05:23",
+      "summary_phrase": "Anthony Black on creating better looks for teammates",
+      "names_mentioned": [
+        "Paolo Banchero"
+      ],
+      "excerpt": "we got to do a better job creating easy looks for him.",
+      "quote": "I think we got to do a better job creating easy looks for him, whether that's transition, moving the ball, getting him good open jump shots. I think we need to do a better job giving him space to get downhill, attack his man, and just me ready to play off his passes. I think that's going to make it harder to guard us as a team.",
+      "text_blocks": [],
+      "start_seconds": 323,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Black on the offense: We need to do a better job giving him space to get downhill, attack his man, and just be ready to play off his passes",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Black talks about the need to create better scoring opportunities for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Anthony Black",
+      "timestamp": "05:54",
+      "summary_phrase": "Anthony Black on improving possession battles and rebounding",
+      "names_mentioned": [
+        "Wendell Carter Jr.",
+        "Franz Wagner"
+      ],
+      "excerpt": "the players that are playing got to do a better job of checking our man.",
+      "quote": "Just put more mind into it. We're missing a lot of size, so the players that are playing got to do a better job of checking our man and then crashing in and helping Wendell and Franz and the bigger dudes get the rebounds. So it's probably on the guards, on the wings to get in there and help our bigs battle for the rebounds.",
+      "text_blocks": [],
+      "start_seconds": 354,
+      "end_seconds": 379,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Black on rebounding: We are missing a lot of size, so the players that are playing have to do a better job of checking our man and helping our bigs battle",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Wendell Carter Jr.",
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black emphasizes the need for guards and wings to help Wendell Carter Jr. and Franz Wagner with rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Anthony Black",
+      "timestamp": "06:31",
+      "summary_phrase": "Anthony Black on the importance of free-throw shooting",
+      "names_mentioned": [
+        "Paolo Banchero"
+      ],
+      "excerpt": "free throws is a high percentage shot and our team historically has done a good job.",
+      "quote": "Yeah, I mean free throws is a high percentage shot and our team historically has done a good job getting to the line. So I think for everybody, not just myself, a big emphasis is just catching and being ready to attack and then playing off the two feet and scanning the paint when we get there. I think personally I got to do a better job of seeing the help on our drives. So just being aggressive and you know realizing the help at the same time.",
+      "text_blocks": [],
+      "start_seconds": 391,
+      "end_seconds": 425,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anthony Black on free throws: It is a high percentage shot and our team historically has done a good job getting to the line. A big emphasis is just catching and being ready to attack",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black discusses the importance of free-throw shooting and being aggressive in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Anthony Black",
+      "timestamp": "07:10",
+      "summary_phrase": "Anthony Black on the mindset for the upcoming back-to-back",
+      "names_mentioned": [],
+      "excerpt": "got to win. Can't lose two in a row, especially at home.",
+      "quote": "Got to win. Can't lose two in a row, especially at home. So we know we got to come out, play a better game, clean up the turnovers, clean up the rebounds, and then just continuing to play hard. We know we got to dig in because it's a back-to-back.",
+      "text_blocks": [],
+      "start_seconds": 430,
+      "end_seconds": 449,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Black on the next game: We have to win. Cannot lose two in a row, especially at home. We know we have to come out, play a better game, and clean up the turnovers",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black shares the team's mindset heading into the next game of a back-to-back.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Anthony Black",
+      "timestamp": "07:30",
+      "summary_phrase": "Anthony Black on the team's emphasis on playing off two feet",
+      "names_mentioned": [],
+      "excerpt": "that's one of the most important things in our offense, drawing two people.",
+      "quote": "It's over-emphasized. That's one of the most important things in our offense, drawing two people and being able to pivot and make plays once we get into the paint. So we all got to do a better job playing off of two and yeah, especially me and the other dudes who get downhill. A lot of times we're driving into a crowd, so definitely got to be better there.",
+      "text_blocks": [],
+      "start_seconds": 450,
+      "end_seconds": 477,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anthony Black on the team's offensive philosophy: Playing off two feet is one of the most important things in our offense, drawing two people and being able to pivot and make plays",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black explains the team's offensive emphasis on playing off two feet when driving to the basket.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Tristan da Silva",
+      "timestamp": "08:17",
+      "summary_phrase": "Tristan da Silva on Orlando's late-game execution and fundamentals",
+      "names_mentioned": [],
+      "excerpt": "I think we kind of got in our own way a little bit, not sticking to the fundamentals.",
+      "quote": "I think we kind of got in our own way a little bit, not sticking to the fundamentals that we want to play with and making sure that we get a shot off every possession. I think for the most part when we did touch the paint and played off two feet and kind of trusted the pass, shared the ball, we got good looks and most of the time it was a good result and we just kind of gave too many possessions away I think and Boston did not.",
+      "text_blocks": [],
+      "start_seconds": 497,
+      "end_seconds": 532,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva on the loss: We kind of got in our own way a little bit, not sticking to the fundamentals that we want to play with and making sure that we get a shot off every possession",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva reflects on the team's execution and fundamental errors against Boston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Tristan da Silva",
+      "timestamp": "09:08",
+      "summary_phrase": "Tristan da Silva on the frustration of giving up offensive rebounds",
+      "names_mentioned": [],
+      "excerpt": "I think that's something that coach preaches a lot is the importance of finishing the possession.",
+      "quote": "I think that's something that coach preaches a lot is the importance of finishing the possession and we just got to do a better job helping each other and sometimes it's tough with matchups or switches or pick and roll coverages or scrambles, but we got to figure out a way to to make sure we're in control of that.",
+      "text_blocks": [],
+      "start_seconds": 548,
+      "end_seconds": 571,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva on defensive rebounding: Coach preaches the importance of finishing the possession and we just have to do a better job helping each other",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva discusses the team's challenges with finishing defensive possessions and rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Tristan da Silva",
+      "timestamp": "09:41",
+      "summary_phrase": "Tristan da Silva on the potential for the team to improve",
+      "names_mentioned": [],
+      "excerpt": "I think that's also what gives us a lot of hope is just seeing that.",
+      "quote": "I think that's also what gives us a lot of hope is just seeing that all of these empty possessions that we're having are really self-inflicted and just being able to to actually play it out and take advantage of those possessions is going to help us big time and that's offensive rebounding, that's finishing possessions and taking care of turnovers.",
+      "text_blocks": [],
+      "start_seconds": 581,
+      "end_seconds": 604,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva on the team's outlook: What gives us hope is seeing that all these empty possessions are really self-inflicted and being able to take advantage of those is going to help us big time",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva expresses optimism about the team's potential if they can clean up self-inflicted mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Tristan da Silva",
+      "timestamp": "10:26",
+      "summary_phrase": "Tristan da Silva on the importance of playing off two feet",
+      "names_mentioned": [
+        "Anthony Black"
+      ],
+      "excerpt": "I think that's the biggest thing is being under control, not letting the defense dictate as much.",
+      "quote": "I think that's the biggest thing is being under control, not letting the defense dictate as much as yourself with the ball and that's, you know, I think especially for us, we have a lot of creators that can get downhill, that can draw a crowd and it's just tough playing off of one foot and trying to decide in a split second whether to throw a pass or go for a layup or see if there's anything available at all. So I think that's a that's a really big part of what we have to clean up because that ultimately leads to cleaner decisions and less turnovers.",
+      "text_blocks": [],
+      "start_seconds": 626,
+      "end_seconds": 668,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva on playing off two feet: It is being under control and not letting the defense dictate as much as yourself with the ball. That leads to cleaner decisions and less turnovers",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva explains why playing off two feet is crucial for reducing turnovers and making better decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Tristan da Silva",
+      "timestamp": "11:34",
+      "summary_phrase": "Tristan da Silva on his aggressive three-point shooting",
+      "names_mentioned": [],
+      "excerpt": "that's what I'm out there to do is hunt threes and make sure that I space the floor.",
+      "quote": "I think that's what I'm out there to do is hunt threes and make sure that I space the floor and in some possessions I can already tell the gravity that it has also, you know, opening up the floor for other guys in pick and roll situations and off-ball screen situations, drawing multiple guys and it's important. We got a lot of creators and I feel like sprinkling a little bit of spacing into that is very important.",
+      "text_blocks": [],
+      "start_seconds": 694,
+      "end_seconds": 724,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tristan da Silva on his role: That is what I am out there to do is hunt threes and make sure that I space the floor. I can already tell the gravity that it has opening up the floor for other guys",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva discusses his role as a floor spacer and the importance of his three-point shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "9AzRJYQKXcc",
+  "url": "https://www.youtube.com/watch?v=9AzRJYQKXcc",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-01T23:49:49Z",
+  "duration_seconds": 748,
+  "processed_at": "2026-11-02T07:46:09Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

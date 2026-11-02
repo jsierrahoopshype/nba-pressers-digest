@@ -1,0 +1,216 @@
+{
+  "video_title": "De'Aaron Fox Bounce Back & Tobias Tobias Harris Fit With Spurs | Around The Beat",
+  "speakers_seen": [
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Unidentified speaker",
+      "timestamp": "00:38",
+      "summary_phrase": "De'Aaron Fox's performance and leadership role in the Spurs locker room",
+      "names_mentioned": [
+        "De'Aaron Fox",
+        "Mitch Johnson"
+      ],
+      "excerpt": "This is who De'Aaron Fox is, first of all. He was injured, he had a real ankle issue.",
+      "quote": "We have all been very tough on him. Just to put things in perspective, they went all the way to the finals also because of him, first thing. They lost the finals, he was bad in the finals, this is true. He was injured, he had a real ankle issue. I have seen him in the locker room a couple of times, he was limping and everything. Mitch Johnson said this is one of the guys who, even if he is injured, he is going to play anyway, he does not complain. This is who De'Aaron Fox is, first of all. If you see the first five games of the season right now, I think he is one of the best Spurs players. He is bouncing back crazy.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 87,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "De'Aaron Fox is bouncing back crazy to start the season. Despite the criticism after the finals, he is playing through injury and remains one of the best players on the Spurs roster.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "De'Aaron Fox"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "An analyst discusses De'Aaron Fox's injury history and his strong start to the season for the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "timestamp": "01:50",
+      "summary_phrase": "Spurs front office faces difficult long-term contract decisions for key players",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "De'Aaron Fox",
+        "Keldon Johnson",
+        "Dylan Harper"
+      ],
+      "excerpt": "If you are the Spurs front office, you do not really have a choice right now.",
+      "quote": "If you are the Spurs front office, you do not really have a choice right now. He has a big contract. You have to say that you trust him for now. We will see in the future because I think everybody is asking the same questions and they are right to ask it. How can you keep them long-term? Because one day you are going to have to pay Keldon Johnson, you are going to have to pay Dylan Harper. De'Aaron Fox has already a huge salary, Victor Wembanyama next year is going to have a big one as well. You have to already think two years and three years from now.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 153,
+      "speaker_confidence": "inferred",
+      "news_score": 7,
+      "social_post": "The Spurs front office faces a major long-term cap crunch. With Victor Wembanyama due for a massive extension soon, the team has to figure out how to manage the salaries of Fox, Keldon Johnson, and Dylan Harper.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Keldon Johnson",
+          "Dylan Harper",
+          "De'Aaron Fox",
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "An analyst discusses the long-term salary cap challenges the Spurs face regarding their core players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Unidentified speaker"
+      ],
+      "timestamp": "03:12",
+      "summary_phrase": "Dylan Harper's role in the starting lineup alongside key Spurs players",
+      "names_mentioned": [
+        "Dylan Harper",
+        "Keldon Johnson",
+        "De'Aaron Fox"
+      ],
+      "excerpt": "Do you see that just going through the rest of the season, those three are pretty much going to be locked into a starting lineup?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "There was a lot of talk about is Dylan Harper going to be starting, is he going to come off the bench? Now we see he is starting. It is Dylan now, it is Keldon, it is Fox. Do you see that just going through the rest of the season, those three are pretty much going to be locked into a starting lineup?"
+        },
+        {
+          "speaker": "Unidentified speaker",
+          "text": "It seems to me like they are so smart for a team and they genuinely like each other, and it makes me think it is going to work at some point, these three guys together."
+        }
+      ],
+      "start_seconds": 192,
+      "end_seconds": 230,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "Dylan Harper is officially locked into the starting lineup alongside Keldon Johnson and De'Aaron Fox. The chemistry is there, and the Spurs seem committed to making this trio work for the rest of the season.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Dylan Harper",
+          "Keldon Johnson",
+          "De'Aaron Fox"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "An analyst evaluates the Spurs' decision to lock in Dylan Harper, Keldon Johnson, and De'Aaron Fox as starters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Unidentified speaker",
+      "timestamp": "06:11",
+      "summary_phrase": "Evaluation of Tobias Harris as a necessary floor-spacing addition for the Spurs",
+      "names_mentioned": [
+        "Tobias Harris",
+        "Keldon Johnson",
+        "Carter Bryant"
+      ],
+      "excerpt": "The reason they brought in Tobias was to have a bigger four who can space the floor.",
+      "quote": "Do you think Tobias Harris was the right move? Harrison Barnes got played off the floor in the finals. They are running Carter Bryant at times at the four. Key looks like he is going to be a good pro, but he is still a little bit green behind the ears. The reason they brought in Tobias was to have a bigger four who can space the floor. Obviously, he has not played yet because of injury, but he is a guy that, what do you think? He was the missing piece?",
+      "text_blocks": [],
+      "start_seconds": 371,
+      "end_seconds": 406,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "Was Tobias Harris the right move for the Spurs? The team needed a bigger four who can space the floor after struggling with depth in the finals, but his injury has delayed his debut.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Tobias Harris",
+          "Harrison Barnes",
+          "Carter Bryant"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "An analyst discusses the rationale behind the Spurs signing Tobias Harris to address frontcourt needs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Unidentified speaker",
+      "timestamp": "07:02",
+      "summary_phrase": "Tobias Harris's injury status and expected impact on the Spurs' rotation",
+      "names_mentioned": [
+        "Tobias Harris",
+        "Victor Wembanyama",
+        "Tarris Reed"
+      ],
+      "excerpt": "It is really unfortunate that he was not able to play right away.",
+      "quote": "It is really smart from the Spurs to get a guy like this, definitely. It is really unfortunate that he was not able to play right away. He has nothing big, just a calf strain, but you know the Spurs as well and the way they operate. They shut him down for at least a couple of weeks. When you look at the NBA finals, they were really missing a big, tall guy to put next to Victor Wembanyama. They are missing some rebounds. They are missing as well in offense a post-up player. Tobias Harris, as soon as you want a shot, two points from the post-up, he can do that. He can shoot the ball as well from deep. We can also maybe talk about the rookie Tarris Reed. He has been playing a couple of minutes here and there, and he is bringing a lot of energy, rebounding. The two of them are bringing what the Spurs are missing.",
+      "text_blocks": [],
+      "start_seconds": 422,
+      "end_seconds": 484,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "Tobias Harris is sidelined with a calf strain, but the Spurs are playing it safe. He is expected to provide the rebounding and post-up scoring the team lacked in the finals once he returns.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Tobias Harris",
+          "Victor Wembanyama",
+          "Tarris Reed"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "An analyst provides an update on Tobias Harris's calf injury and his expected role alongside Victor Wembanyama.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "6obKdwlG-kQ",
+  "url": "https://www.youtube.com/watch?v=6obKdwlG-kQ",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-02T04:41:13Z",
+  "duration_seconds": 544,
+  "processed_at": "2026-11-02T07:45:29Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,238 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs Los Angeles Lakers | November 01, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:10",
+      "summary_phrase": "Darko Rajakovic on the team's resilience and fighting spirit",
+      "names_mentioned": [],
+      "excerpt": "We are not a team that quits. We never quit. We play full 48 minutes.",
+      "quote": "We are not a team that quits. We never quit. We play full 48 minutes, and the guys that we got there at the end, they fought. They gave all the fight ahead. I thought that they did a great job, and they deserve to be on the court there when the game was deciding.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darko Rajakovic praised his team's resilience after their loss to the Lakers saying we are not a team that quits and they fought for the full 48 minutes",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's resilience and fighting spirit during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:51",
+      "summary_phrase": "Darko Rajakovic explains his decision to play starters in the fourth",
+      "names_mentioned": [
+        "Scottie"
+      ],
+      "excerpt": "I wanted to to go with some fresh bodies. Decided to go with all five guys.",
+      "quote": "The fourth quarter there, we started with our starters to start the fourth quarter there, and just to try to get that back to 15 and what not, which we did. It would be physically very hard on them for all five of them to finish the quarter like that. So I wanted to go with some fresh bodies. Decided to go with all five guys and they did a great job fighting to the end.",
+      "verbatim_original_language": "",
+      "start_seconds": 51,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic explains his fourth quarter rotation strategy saying it would be physically very hard for the starters to finish the quarter so he opted for fresh bodies",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains his rotation strategy and decision to use fresh bodies in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:23",
+      "summary_phrase": "Darko Rajakovic on the team's early turnover issues",
+      "names_mentioned": [
+        "Gordon"
+      ],
+      "excerpt": "I thought that they were just not making simple decisions.",
+      "quote": "I thought that they were just not making simple decisions. There were a couple of situations that they were taking charges. We had simple pass, Gordon was open. As we are playing with speed and force, we got to be under control as well. I thought that it was just us not really making the decisions. From that point in the game, we did not have problem in the second half. We had only three turnovers. That is something that we can really build on and get better at.",
+      "verbatim_original_language": "",
+      "start_seconds": 83,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic on the team's turnover issues early against the Lakers saying we were not making simple decisions but noted the team only had three turnovers in the second half",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic addresses the team's turnover issues and decision-making during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:06",
+      "summary_phrase": "Darko Rajakovic on experimenting with three-guard lineups",
+      "names_mentioned": [
+        "Shed",
+        "Quickley",
+        "Martin",
+        "Trace",
+        "Elijah"
+      ],
+      "excerpt": "We decided to go and then switch more with one through five and we're short on bodies.",
+      "quote": "Trying to figure out who can help us. We decided to go and then switch more with one through five and we're short on bodies, so we really try to scramble and to find somebody who's going to give us a juice. I thought that Elijah did a really good job in the first half. His on-ball defense and aggressiveness was really, really good, and we were just hoping to get that from all of our guards when we play those three-guard lineup.",
+      "verbatim_original_language": "",
+      "start_seconds": 126,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic says the team is experimenting with three guard lineups to find more juice and praised Elijah for his on ball defense and aggressiveness in the first half",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Elijah Fisher"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic discusses the rationale behind using three-guard lineups and praises Elijah Fisher's defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:46",
+      "summary_phrase": "Darko Rajakovic on Jameson Battle's late-game performance",
+      "names_mentioned": [
+        "Jameson Battle"
+      ],
+      "excerpt": "He needs to find that level every night.",
+      "quote": "He needs to find that level every night. The way he was shooting the ball there at the end and confidence that he showed at the end, that needs to build from the jump ball. That needs to be from the start of the game. So that's something for him to work on and improve on. He's constantly showing us the talent and potential. He needs to do that from the jump, from the start of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 166,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic challenges Jameson Battle to find his shooting confidence from the jump ball saying he needs to show that talent and potential from the start of the game",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jameson Battle"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on Jameson Battle's late-game performance and the need for consistent intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:19",
+      "summary_phrase": "Darko Rajakovic on Luka Doncic's impressive play",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "When he's healthy and when he's ready to go, he's just unstoppable.",
+      "quote": "I think that this year he came back, he's in great shape, he looks healthy, and when he's healthy and when he's ready to go, he's just unstoppable. Tonight he was outstanding shooting. I believe that every three that he took tonight was of the dribble three, and at one point he was seven for eight from the three-point line. That's hard to do. There's not a lot of people on this planet that can do that, and he's one of those guys. Plus his decision-making and understanding the game and court vision, outstanding player.",
+      "verbatim_original_language": "",
+      "start_seconds": 199,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on Luka Doncic after his performance against the Raptors saying he is in great shape and when he is healthy he is just unstoppable",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "TOR",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises Luka Doncic's physical condition and shooting performance following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:25",
+      "summary_phrase": "Darko Rajakovic on the defensive effort against Luka Doncic",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "We were on the body, we had two hands, we had two people on him.",
+      "quote": "We were on the body, we had two hands, we had two people on him. It was we made it as hard as it gets, but he he's so big and he can shoot over over anybody on the court. You know, very, credit to him. I thought that our team did the best we can.",
+      "verbatim_original_language": "",
+      "start_seconds": 265,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic on the defensive game plan against Luka Doncic saying we made it as hard as it gets but he is so big and can shoot over anybody on the court",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "TOR",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the defensive challenges of guarding Luka Doncic during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "TX4DXZPjyo8",
+  "url": "https://www.youtube.com/watch?v=TX4DXZPjyo8",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-02T05:38:57Z",
+  "duration_seconds": 302,
+  "processed_at": "2026-11-02T07:45:26Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}

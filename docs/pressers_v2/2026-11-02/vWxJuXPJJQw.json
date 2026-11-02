@@ -1,0 +1,125 @@
+{
+  "video_title": "Wembys Voice in Frances Protests | Around The Beat",
+  "speakers_seen": [
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Victor Wembanyama's potential future role in French politics",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "Mbappe"
+      ],
+      "excerpt": "I'm sure he will have a voice one day.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you think for an athlete of Victor Wembanyama's magnitude, because if we want to give a parallel, it would probably be Mbappe, who himself is a very outwardly spoken political activist that is a generational talent? Does that weigh more on Wembanyama, I guess this situation, that people would realize, A, because of his culture and because of what's going on in France and also because I guess what he feels is his responsibility as someone who has the platform that he does, which seems to be something that he echoes?"
+        },
+        {
+          "speaker": "Unidentified speaker",
+          "text": "The first thing to understand about him is he feels really close to the young generation in France and especially to the high schoolers who are protesting right now. He said it himself, I was the same kid who went to a public high school in the suburbs of Paris. He said I experienced the same thing that they do. So that's why I guess he feels so into it. He knows that he has a big voice and he has smart things to say about it. I think it's too early for me to have some power in that conversation in France and politics, but one day, I wish I will have this power. So for me, in a couple years, maybe after I retire, could be in politics, could be a prime minister, we'll see. But I'm sure he will have a voice one day."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 92,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "Victor Wembanyama feels a strong connection to the youth in France but believes it is too early for him to have power in political conversations. He noted that one day he wishes to have that influence after he retires.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "An unidentified speaker discusses Victor Wembanyama's potential future role in French politics and his connection to the current generation of French youth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "timestamp": "06:04",
+      "summary_phrase": "Victor Wembanyama's adjustment to FIBA basketball rules",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "Doncic"
+      ],
+      "excerpt": "He is still trying to adjust to the FIBA basketball.",
+      "quote": "He played four games basically this summer. Two were friendly games preparing for the World Cup qualifiers. He is still trying to adjust to the FIBA basketball. There is way less space. It's very interesting for him, especially to prepare him for the NBA season because he gets beat up every time, doesn't have access to the paint at all. Things that he can experience in the NBA. I think it was good for him. He was good, he was okay. On the four games, I would say he was up and down. Not the Wembanyama we see with the Spurs every time, so he is still struggling sometimes. We can just remember people that he is still 22 years old.",
+      "start_seconds": 364,
+      "end_seconds": 411,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "Victor Wembanyama is still adjusting to the physical nature of FIBA basketball. Observers note he is being beat up and denied access to the paint, which serves as a unique learning experience for his development.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "An unidentified speaker evaluates Victor Wembanyama's performance and adjustment to FIBA basketball rules during recent international games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Unidentified speaker",
+      "timestamp": "07:53",
+      "summary_phrase": "Victor Wembanyama's growing popularity and public profile in France",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "Trump"
+      ],
+      "excerpt": "The more we talk about you, the more good it is for you at the end of the day.",
+      "quote": "In the last couple weeks, the whole France has been talking about Wembanyama. So in a way, it's like Trump in the US. The more we talk about you, the more good it is for you at the end of the day. So that's the thing right now, I think. So right now, he is very, very, very popular, I would say, and I'm sure it's going to help him even more in the future, especially next January if the Spurs are coming back to Paris.",
+      "start_seconds": 473,
+      "end_seconds": 506,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_post": "Victor Wembanyama has reached a level of massive popularity in France where the constant media attention is only helping his profile grow ahead of potential future NBA games in Paris.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "An unidentified speaker discusses the rising public profile and popularity of Victor Wembanyama in France.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "vWxJuXPJJQw",
+  "url": "https://www.youtube.com/watch?v=vWxJuXPJJQw",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-02T04:41:12Z",
+  "duration_seconds": 589,
+  "processed_at": "2026-11-02T07:45:50Z",
+  "run_id": "2026-11-02-overnight",
+  "is_one_off": false
+}
