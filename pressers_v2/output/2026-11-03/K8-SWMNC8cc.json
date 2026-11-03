@@ -1,0 +1,187 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Hornets   11.02.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:09",
+      "summary_phrase": "J.B. Bickerstaff on the Pistons' defensive identity and team commitment",
+      "names_mentioned": [],
+      "excerpt": "our guys again have completely bought into what's most important to team, and for us it's our identity",
+      "quote": "When we're defending at the level that we're capable of defending and the shots are going, we're going to be a tough out. Our guys again have completely bought into what's most important to team, and for us it's our identity of being defensive minded, being aggressive, being disruptive. We got guys that can play in the open court which creates a lot of opportunities for us also. But when you add that on top of the shots falling, we're going to be pretty hard to beat.",
+      "start_seconds": 9,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says the Pistons are a tough out when they play with a defensive identity and shots are falling. He credits the team for being completely bought into being aggressive and disruptive.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff discusses the team's defensive identity and commitment following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:51",
+      "summary_phrase": "J.B. Bickerstaff on Cade Cunningham's leadership and aggression",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "he's one of the best leaders I've ever seen, and his ability to choose the moment",
+      "quote": "He set the tone. He picked a spot where it was time to put his foot on the gas and he came out, particularly in that second half, and led the way. And again, he's one of the best leaders I've ever seen, and his ability to choose the moment and then get his teammates to go along with him was just special, and that's why he is who he is.",
+      "start_seconds": 51,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff calls Cade Cunningham one of the best leaders he has ever seen. He praised Cades ability to set the tone and get his teammates to follow his lead during the second half.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach J.B. Bickerstaff praises Cade Cunningham for his leadership and performance in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:33",
+      "summary_phrase": "J.B. Bickerstaff on the team's defensive improvement and commitment",
+      "names_mentioned": [],
+      "excerpt": "it's the makeup of who we are. I do feel like because guys have been around",
+      "quote": "It's the makeup of who we are. I do feel like because guys have been around a little bit longer, they understand what we're doing to a higher level and we can make more tweaks to it to hopefully make us a better defensive team. But again, I just think it's the guys' commitment to it. Obviously every summer we go into it and try to figure how do we get better, but again, if it's not the guys' willingness to do it and want to be great at it, it doesn't get done.",
+      "start_seconds": 93,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff attributes the Pistons defensive improvement to the players commitment and willingness to do the work. He says the guys understand the system at a higher level this year.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff explains the team's defensive improvement and the players' commitment to the system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:14",
+      "summary_phrase": "J.B. Bickerstaff on the Pistons' late-game defensive execution",
+      "names_mentioned": [],
+      "excerpt": "we started to get steals, we started to create turnovers, and from those steals and turnovers",
+      "quote": "We started to get steals, we started to create turnovers, and from those steals and turnovers, we got easy opportunities whether it was all the way to the basket or it was some catch and shoot threes. But I thought that the last four and a half, five minutes like personified what it means to be a Detroit Piston and what Detroit Pistons basketball looks like.",
+      "start_seconds": 134,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff says the final five minutes of the game personified what it means to be a Detroit Piston. The team closed the game by forcing turnovers and creating easy transition opportunities.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff evaluates the team's defensive execution during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:57",
+      "summary_phrase": "J.B. Bickerstaff on the impact of Cade Cunningham's offensive versatility",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "it changes the complete dynamic of our team and the decisions that defensive have to make",
+      "quote": "It changes the complete dynamic of our team and the decisions that defensive have to make. When you have a guy obviously as elite as Cade is at getting to his spot, you got guys like DJ, AT, Ron who can cut and slash the way they can, our bigs who can rim run and put pressure on the paint, and then you have that dynamic weapon of the three-point shot. Cade can shoot it from anywhere and you always have to be alert.",
+      "start_seconds": 177,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff says Cade Cunningham changes the complete dynamic of the Pistons offense. He noted that Cades ability to get to his spots forces defenses to make difficult decisions.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff discusses how Cade Cunningham's offensive versatility impacts the team's dynamic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:52",
+      "summary_phrase": "J.B. Bickerstaff on the team's collective character and lack of individual agendas",
+      "names_mentioned": [],
+      "excerpt": "there is no individual agenda in the Pistons locker room. The only thing that matters is",
+      "quote": "We've been extremely blessed to have the level of character guys that we have on this team and in that locker room and what matters to them. And the only thing that matters to them is the group success, and that's why guys are able to come in in different moments and still be successful here. There is no individual agenda in the Pistons locker room. The only thing that matters is whether or not the team is successful and whether or not your teammates are successful.",
+      "start_seconds": 232,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says there is no individual agenda in the Pistons locker room. He praised the character of his players and their focus on group success over personal stats.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach J.B. Bickerstaff comments on the character of the players and the lack of individual agendas in the locker room.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "K8-SWMNC8cc",
+  "url": "https://www.youtube.com/watch?v=K8-SWMNC8cc",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-03T03:25:47Z",
+  "duration_seconds": 283,
+  "processed_at": "2026-11-03T16:19:46Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

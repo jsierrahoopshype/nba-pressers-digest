@@ -1,0 +1,220 @@
+{
+  "video_title": "Cavs vs Thunder | Meleek Thomas Post Game | 11.02.2026",
+  "speakers_seen": [
+    "Meleek Thomas"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Meleek Thomas",
+      "timestamp": "00:03",
+      "summary_phrase": "Meleek Thomas on the significance of his first NBA start",
+      "names_mentioned": [],
+      "excerpt": "to be able to contribute to winning so early in the season by starting the game",
+      "quote": "It means everything to me. You obviously dream of getting here, but then to be able to contribute to winning so early in the season by starting the game and being able to help you guys out, it just means the world to me. I can't thank my teammates and team enough.",
+      "verbatim_original_language": "",
+      "start_seconds": 3,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Meleek Thomas on his first NBA start: It means everything to me. You dream of getting here, but to be able to contribute to winning so early in the season by starting the game, it just means the world to me.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas discusses his emotions and experience after making his first NBA start for the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Meleek Thomas",
+      "timestamp": "00:29",
+      "summary_phrase": "Meleek Thomas on his defensive approach against Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "with a guy that's so gifted at that scoring, you just try to contain him",
+      "quote": "With a guy that's so gifted at that scoring, you just try to contain him to the best ability that you can. We got our coverages and schemes for it, but if he is getting into that, then it's just mano a mano. Just try to get your best out there, be physical, and force tough shots.",
+      "verbatim_original_language": "",
+      "start_seconds": 29,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Meleek Thomas on defending Shai Gilgeous-Alexander: With a guy that is so gifted at scoring, you just try to contain him to the best ability that you can. If he is getting into that, then it is just mano a mano.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas explains his defensive strategy for guarding Shai Gilgeous-Alexander during the game against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Meleek Thomas",
+      "timestamp": "01:19",
+      "summary_phrase": "Meleek Thomas on adjusting to the flow of the NBA season",
+      "names_mentioned": [],
+      "excerpt": "now we're getting into the flow of the season, so everything's kind of slowing down",
+      "quote": "As I'm anticipating more defensively, offensively, just being myself, everything's flowing. It was just debut, now we're getting into the flow of the season, so everything's kind of slowing down like you said for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 79,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Meleek Thomas says the game is starting to slow down for him as he gets into the flow of the NBA season: As I am anticipating more defensively and offensively, just being myself, everything is flowing.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas reflects on how the game is slowing down for him as he adjusts to the flow of the NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Meleek Thomas",
+      "timestamp": "01:53",
+      "summary_phrase": "Meleek Thomas on his chemistry with James and Donovan Mitchell",
+      "names_mentioned": [
+        "James",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "those are very ball-dominant guys, so you got to work your way to know how they play",
+      "quote": "I would say I've grown a lot. Those are very ball-dominant guys, so you got to work your way to know how they play and what's best off of them and what works best off of them. Just me finding the windows, finding the right space to be in, knowing their tendencies and also knowing mine and how they can mesh at the same time. I feel like I'm doing a very good job, but always room for improvement, so I will get better as the season goes on.",
+      "verbatim_original_language": "",
+      "start_seconds": 113,
+      "end_seconds": 147,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Meleek Thomas on playing with LeBron James and Donovan Mitchell: Those are very ball-dominant guys, so you have to work your way to know how they play. I am finding the windows and finding the right space to be in.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas describes the process of developing chemistry and learning to play alongside ball-dominant teammates like Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Meleek Thomas",
+      "timestamp": "02:32",
+      "summary_phrase": "Meleek Thomas on the spontaneity of his first NBA start",
+      "names_mentioned": [],
+      "excerpt": "it just so spontaneous, it just happened quick and got to be ready for that moment",
+      "quote": "I tried to let it sink in a little bit. It just so spontaneous, it just happened quick and got to be ready for that moment when your name's called. So I try to let it sink in, but as everything's going on, it's just you got to be ready to gear up.",
+      "verbatim_original_language": "",
+      "start_seconds": 152,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Meleek Thomas on his spontaneous first start: It just happened quick and you have to be ready for that moment when your name is called. You just have to be ready to gear up.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas talks about the spontaneous nature of being named a starter and the need to be ready when called upon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Meleek Thomas",
+      "timestamp": "02:56",
+      "summary_phrase": "Meleek Thomas on the importance of precision and effort in the NBA",
+      "names_mentioned": [],
+      "excerpt": "if you're precise and you're punctual, defensively and offensively, then good things are going to happen",
+      "quote": "It's just that if you're precise about everything on the court, if you're precise and you're punctual, defensively and offensively, then good things are going to happen because you're in the right spaces, you're doing the right things. Everything I do is based off of full effort, so if I make the wrong decision or a mistake is made out there, I was trying my hardest. So it's just about being punctual and being precise and you'll get the right results.",
+      "verbatim_original_language": "",
+      "start_seconds": 176,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Meleek Thomas on his philosophy: If you are precise and punctual, defensively and offensively, then good things are going to happen. Everything I do is based off of full effort.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas emphasizes the importance of precision, effort, and being punctual on the court to achieve positive results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Meleek Thomas",
+      "timestamp": "03:40",
+      "summary_phrase": "Meleek Thomas on the trust established with his coaching staff",
+      "names_mentioned": [],
+      "excerpt": "I feel like there's this level of trust between me and my vets that they had with me",
+      "quote": "I feel like there's this level of trust between me and my vets that they had with me, so it's like they expect me to go out there and be that firepower, be that energy guy alongside of them. So there's no hesitation or doubt. So there really wasn't no advice, it's just like kind of expectation.",
+      "verbatim_original_language": "",
+      "start_seconds": 220,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Meleek Thomas on the trust from his veteran teammates: They expect me to go out there and be that firepower, be that energy guy alongside of them. There is no hesitation or doubt.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas discusses the trust and expectations established between him and his veteran teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "sGTBoQfSj6s",
+  "url": "https://www.youtube.com/watch?v=sGTBoQfSj6s",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-03T03:20:43Z",
+  "duration_seconds": 265,
+  "processed_at": "2026-11-03T16:19:46Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

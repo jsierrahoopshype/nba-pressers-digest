@@ -1,0 +1,83 @@
+{
+  "video_title": "Chris Finch on LaMelo Ball getting into foul trouble",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:00",
+      "summary_phrase": "Chris Finch addresses LaMelo Ball's recurring foul trouble and turnovers",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "the turnovers are unnecessary. But to be fair, they're fouling him all over the floor.",
+      "quote": "LaMelo has to figure it out. The turnovers are unnecessary. But to be fair, they're fouling him all over the floor. They got their hands on him, they're bumping him, they're holding him, they're riding him off his line. At the other end of the floor, he's being whistled for a bunch of touch fouls. The way that they allow people to just put their hands on him over the full court, I thought we got rid of that stuff in the 80s, but apparently not.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch is frustrated with the officiating on LaMelo Ball. He says they are letting defenders hold and bump him all over the floor while calling touch fouls on the other end. He added that he thought we got rid of that stuff in the 80s.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses LaMelo Ball's foul trouble and the officiating during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:41",
+      "summary_phrase": "Chris Finch discusses LaMelo Ball's defensive aggression and foul calls",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I thought he just thinking about his fouls. He had the offensive foul, he had a rebound foul.",
+      "quote": "We want him to stay aggressive defensively. I thought he was just thinking about his fouls. He had the offensive foul, he had a rebound foul. He had the little marginal contact on a little baseline out-of-bounds play. He had the transition layup, which again was marginal contact. I don't know.",
+      "text_blocks": [],
+      "start_seconds": 41,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch says he wants LaMelo Ball to stay aggressive defensively despite his foul trouble. He noted that several of the calls against him were marginal contact and expressed confusion over the officiating consistency.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch analyzes specific foul calls against LaMelo Ball and his defensive approach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "ecAd5JzB22A",
+  "url": "https://www.youtube.com/watch?v=ecAd5JzB22A",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-03T03:04:11Z",
+  "duration_seconds": 73,
+  "processed_at": "2026-11-03T16:19:48Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

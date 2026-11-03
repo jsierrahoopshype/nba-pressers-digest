@@ -1,0 +1,178 @@
+{
+  "video_title": "Postgame Media Availability with Coach Daigneault | OKC Thunder | November 2, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:05",
+      "summary_phrase": "Mark Daigneault on OKC's defensive execution and team effort",
+      "names_mentioned": [],
+      "excerpt": "we built on that tonight, weather a really tough storm in the third quarter",
+      "quote": "I thought we got off to a good start. I thought we really executed, which was a build on last game. I thought we executed pretty well last game, especially defensively, didn't show up in the outcome, but we built on that tonight, weather a really tough storm in the third quarter, and then got contributions from everybody that went in the game. Just great competitive effort, great togetherness, hung in there, and some cold-blooded shot-making at the end.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault praised the Thunder for their defensive execution and togetherness in tonight's win, noting that the team weathered a tough third quarter storm to secure the victory.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Head coach Mark Daigneault discusses the team's defensive execution and competitive effort following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:49",
+      "summary_phrase": "Mark Daigneault on Shai Gilgeous-Alexander's offensive performance",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "there's certain nights when you have a player like that where you just unleash them",
+      "quote": "There's certain nights when you have a player like that where you just unleash them and let them go. He had it going and he was able to seemingly get where he needed to go. We were getting good shots, it was putting a ton of pressure on their defense, and he had the look in his eye tonight. We obviously rode him offensively. It's not our identity for 82 games, but there's some nights when you have a player like that that you just got to cut them loose and he delivered in a big way.",
+      "verbatim_original_language": "",
+      "start_seconds": 49,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Mark Daigneault on Shai Gilgeous-Alexander's big night: There are nights where you just have to cut him loose. He had the look in his eye and we rode him offensively, though it is not our identity for all 82 games.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault explains the decision to rely heavily on Shai Gilgeous-Alexander's offensive performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:16",
+      "summary_phrase": "Mark Daigneault on Shai Gilgeous-Alexander's role and team diversity",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Mike Muscala"
+      ],
+      "excerpt": "we're going to need to be more diversified than we were tonight",
+      "quote": "I don't think tonight was representative of who we are. He had it rolling, he was able to get a shot every time down the floor, and so we doubled down on that tonight on the road. We're still working on a lot of things. There's a time we tried to run a set and Mike Muscala is out there out of position. He learned one position on the sets and we're a little disjointed. So we're going to need to be more diversified than we were tonight, probably when we play Cleveland again next game, because I would imagine they're going to go try to take it out of his hands more.",
+      "verbatim_original_language": "",
+      "start_seconds": 136,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mark Daigneault says the Thunder need to be more diversified moving forward. He noted that tonight was not representative of their identity and expects opponents to try to take the ball out of Shai Gilgeous-Alexander's hands.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander",
+          "Mike Muscala"
+        ],
+        "teams": [
+          "OKC",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the need for offensive diversity and mentions Mike Muscala's positioning while looking ahead to a game against Cleveland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:01",
+      "summary_phrase": "Mark Daigneault on Kenrich Williams' defensive impact",
+      "names_mentioned": [
+        "Kenrich Williams",
+        "Aaron Wiggins",
+        "Shai Gilgeous-Alexander",
+        "Jared Butler"
+      ],
+      "excerpt": "he's been such an amazing member of our team for such a long time",
+      "quote": "He's been such an amazing member of our team for such a long time and he's been able to put on so many different masks for us. He played the five a couple years ago quite a bit as a small-ball player, and in the years in between that and now, he played a more limited role but was a staple in our locker room and a huge part of the cohesion of our team. To start the season, he's gotten up to the plate against Durant and these guys tonight, and he's really taken on the challenge. When you have guys step into the competition like that, he's going to get scored on sometimes, but it just sets such a tone for the rest of the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 181,
+      "end_seconds": 230,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault praised Kenrich Williams for his defensive versatility and willingness to take on tough assignments like Kevin Durant, noting that his effort sets a tone for the rest of the team.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kenrich Williams",
+          "Kevin Durant"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault praises Kenrich Williams for his defensive versatility and his performance against Kevin Durant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Daigneault",
+      "timestamp": "04:00",
+      "summary_phrase": "Mark Daigneault on defensive rebounding and team growth",
+      "names_mentioned": [
+        "Aaron Wiggins",
+        "Kenrich Williams",
+        "Shai Gilgeous-Alexander",
+        "Jared Butler"
+      ],
+      "excerpt": "the foundation of our defense was there the other night and tonight we built on it",
+      "quote": "The rebounding was huge tonight, both ends of the floor. The physical presence at the basket is huge. He obviously made great passes in the second quarter when they were really aggressive on the perimeter against our guys running around. The foundation of our defense was there the other night and tonight we built on it. I thought we were exceptional in the second quarter especially, especially the start of the second quarter. We really made them earn everything. Still things we can learn from, but I thought we took a step forward on that end tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 240,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault highlighted the team's rebounding and physical presence at the basket as major factors in tonight's win, stating the team took a step forward defensively.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault evaluates the team's defensive rebounding and overall defensive growth throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "bzsDtldF50U",
+  "url": "https://www.youtube.com/watch?v=bzsDtldF50U",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-03T08:17:42Z",
+  "duration_seconds": 378,
+  "processed_at": "2026-11-03T16:19:17Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

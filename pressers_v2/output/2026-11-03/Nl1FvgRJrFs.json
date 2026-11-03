@@ -1,0 +1,199 @@
+{
+  "video_title": "Postgame Media Availability with Shai Gilgeous-Alexander | OKC Thunder | November 2, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:23",
+      "summary_phrase": "Shai Gilgeous-Alexander on needing better personal energy",
+      "names_mentioned": [],
+      "excerpt": "I needed to have better personal energy.",
+      "quote": "The way the past week has gone, I needed to have better personal energy. It obviously was very emotional and a lot, really fast, but I had to get my mind to what I couldn't control and where we are as a team and where my feet were. My head wasn't in there, my head wasn't where it should have been. I tried to stay in the moment tonight more than anything, and I guess it paid off a little bit.",
+      "verbatim_original_language": "",
+      "start_seconds": 23,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander admits his head was not in the right place over the past week. He says he had to refocus on his personal energy and stay in the moment to help the team get back on track.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses his personal mindset and energy levels following a difficult week for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:08",
+      "summary_phrase": "Shai Gilgeous-Alexander praises teammates' performances",
+      "names_mentioned": [
+        "Ben",
+        "Micah",
+        "Didi",
+        "Dicks"
+      ],
+      "excerpt": "The team was great tonight.",
+      "quote": "The team was great tonight. Ben had some big moments, Micah played a hell of a game, Didi was huge, Dicks went in there and had huge minutes, he was the calming center. I think that fight from us all around was what we needed as a group and what we will continue to need going forward.",
+      "verbatim_original_language": "",
+      "start_seconds": 68,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander credits his teammates for a total team effort tonight, specifically highlighting the contributions of Ben, Micah, Didi, and Dicks in a hard-fought win.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ben",
+          "Micah",
+          "Didi",
+          "Dicks"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander praises the contributions of his teammates after a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:40",
+      "summary_phrase": "Shai Gilgeous-Alexander on learning how to win with current roster",
+      "names_mentioned": [],
+      "excerpt": "Just try to figure out what winning will look like with this team and this group.",
+      "quote": "My head now is just trying to figure out what winning will look like with this team and this group, as myself and the rest of the group have come so accustomed to what winning will look like with the whole group that we've had. So just trying to figure that out, and that's all that matters. Trying to win games and figure out what it looks like in the NBA, that gets to a team full of NBA players. Even when you might not have enough talent on paper what people say you still do, you just have to do it a different way, and we found that way tonight, and that's going to be the challenge going forward for the rest of the season.",
+      "verbatim_original_language": "",
+      "start_seconds": 160,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder adjusting to a new roster dynamic: We are trying to figure out what winning looks like with this group. Even when people say you do not have enough talent on paper, you just have to do it a different way.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander reflects on the challenge of adjusting the team's winning formula with the current roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "03:41",
+      "summary_phrase": "Shai Gilgeous-Alexander on consistent team expectations",
+      "names_mentioned": [],
+      "excerpt": "The path is going to look a little bit different now.",
+      "quote": "For me they don't change. The same expectations we've always had as a group. Now like I said, I think the challenge has just changed and how we're going to be able to get it done is going to be a little bit different. And that's what the hard part in the figuring out is. But yeah, same expectations, it's just the path is going to look a little bit different now, that's all.",
+      "verbatim_original_language": "",
+      "start_seconds": 221,
+      "end_seconds": 249,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander says the team expectations remain the same despite roster changes. He notes that while the path to winning will look a little bit different now, the ultimate goal has not changed.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains that while the team's expectations remain the same, the path to achieving them has changed.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:17",
+      "summary_phrase": "Shai Gilgeous-Alexander on relationship with Mark Daigneault",
+      "names_mentioned": [
+        "Mark"
+      ],
+      "excerpt": "Mark's been great ever since he's got here.",
+      "quote": "It's not always pretty and cute. Sometimes I'm mad at him and sometimes he tells me to shut up. Sometimes he's right, sometimes I'm right, or while I like to think. But I think because of our relationship off the court, we both know where we're coming from, and that's what holds everything together. We both know what our intention is, which is just to win the basketball game, and that's our main goal and we share that common goal and we try to do so every night. Mark's been great ever since he's got here, just being a players' coach and really plugging into each player and coaching everyone different as they need, and that's one of his superpowers.",
+      "verbatim_original_language": "",
+      "start_seconds": 257,
+      "end_seconds": 303,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander opens up about his relationship with Mark Daigneault, saying it is not always pretty but their shared goal to win keeps them together. He calls Daigneault a players coach with a superpower for coaching everyone differently.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mark Daigneault"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Shai Gilgeous-Alexander describes his relationship with head coach Mark Daigneault and his coaching style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "05:27",
+      "summary_phrase": "Shai Gilgeous-Alexander on shot volume and game needs",
+      "names_mentioned": [],
+      "excerpt": "For me it's less with the team needs and more with the game needs.",
+      "quote": "It's going to change every night. We needed to win and score points, especially the game got tight down the stretch. The game always tells you what to do, I'd say. I didn't shoot it great tonight percentage-wise, and if I make more earlier, maybe the lead is bigger and maybe it's less shots. For me it's less with the team needs and more with the game needs. Tonight I just felt like I needed to call my number over and over again regardless of the result.",
+      "verbatim_original_language": "",
+      "start_seconds": 327,
+      "end_seconds": 360,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander on his shot volume: It is less about what the team needs and more about what the game needs. Tonight I just felt like I needed to call my number over and over again regardless of the result.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains his decision-making process regarding shot volume during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Nl1FvgRJrFs",
+  "url": "https://www.youtube.com/watch?v=Nl1FvgRJrFs",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-03T08:17:24Z",
+  "duration_seconds": 366,
+  "processed_at": "2026-11-03T16:19:29Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

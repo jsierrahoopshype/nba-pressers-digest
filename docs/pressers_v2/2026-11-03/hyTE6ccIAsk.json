@@ -1,0 +1,316 @@
+{
+  "video_title": "Cavs vs Thunder | Kenny Atkinson Post Game | 11.02.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:46",
+      "summary_phrase": "Kenny Atkinson on the team's struggle to finish defensive possessions",
+      "names_mentioned": [],
+      "excerpt": "it demoralizes your defense, right? And that's why everybody's doing it, everybody's crashing",
+      "quote": "That's a good question, Danny. We got to figure it out. I think we're 20th in the league, probably worse in the possession game. It's early. Got to be, but like, I don't know where we ended up overall, but like, you got to get more shots than the other team. That's a big part of the NBA now, so rebounding is a big part of it. A good team like that, you give second chance after second chance and it demoralizes your defense, right? And that's why everybody's doing it, everybody's crashing because it does demoralize your defense, but we got to do a better job, better job boxing out.",
+      "start_seconds": 46,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the Cavs need to improve their rebounding and possession game to avoid demoralizing the defense. He noted the team is currently struggling in the possession battle, saying you have to get more shots than the other team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's struggles with defensive rebounding and possession margins after the game against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:38",
+      "summary_phrase": "Kenny Atkinson evaluates the NBA debut of rookie Malik Thomas",
+      "names_mentioned": [
+        "Malik Thomas"
+      ],
+      "excerpt": "for a rookie, guys, he was really good. He's really good",
+      "quote": "I mean for a rookie, guys, he was really good. He's really good. Obviously trust him enough to throw him in at the end of the game too. You know, guy's going to be a heck of a player. Wasn't perfect, made some mistakes, which is normal for a rookie, did some really good things.",
+      "start_seconds": 98,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson praised rookie Malik Thomas after his NBA debut, saying he was really good and that the coaching staff trusts him enough to put him in at the end of a game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik Thomas"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson evaluates the performance of rookie Malik Thomas during his NBA debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:12",
+      "summary_phrase": "Kenny Atkinson on the team's poor free throw shooting performance",
+      "names_mentioned": [],
+      "excerpt": "that's a reason you lose, you know you go 14 for 24",
+      "quote": "Oh, Danny, let's go back. That's a reason you lose, you know you go 14 for 24. Yeah, I don't know. Keep working on your free throws, get extra ones up. We do it during practice, we shoot pressure free throws, it's part of our diet, so you leave 10 points on the board like that, yeah, tough.",
+      "start_seconds": 132,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson pointed to the team's 14 for 24 performance at the free throw line as a primary reason for the loss, calling it tough to leave 10 points on the board.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson addresses the team's poor free throw shooting performance in the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:42",
+      "summary_phrase": "Kenny Atkinson on the decision to close with Mario",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "excerpt": "we went back and forth. You guys can definitely second guess me on that one",
+      "quote": "We went back and forth. You guys can definitely second guess me on that one. I get it. I feel it. It was really a 50-50 proposition.",
+      "start_seconds": 162,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson admitted the decision to close with Mario was a 50-50 proposition and acknowledged that fans and media could second guess the move.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains the decision-making process behind playing Mario in the closing minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:20",
+      "summary_phrase": "Kenny Atkinson praises Mario's skill level and pro mentality",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "excerpt": "his skill level is really high. He's got great skill, he can pass, shoot, pass and dribble",
+      "quote": "His skill level is really high. That's how he's developed. He's got great skill, he can pass, shoot, pass and dribble. I love he was swinging the ball, just touching it to the next guy. I'm just so positive about his trajectory right now. It's going to really going to help us.",
+      "start_seconds": 200,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson is high on the trajectory of Mario, praising his skill level and ability to pass, shoot, and dribble.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the skill set and development of Mario.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:33",
+      "summary_phrase": "Kenny Atkinson on the challenge of playing without key starters",
+      "names_mentioned": [],
+      "excerpt": "they're kind of like the old Spurs teams, it doesn't matter who's out, they can still kick your tail",
+      "quote": "We definitely, even with their absences, we know they're a great player and a great team and a great program. They're kind of like the old Spurs teams, it doesn't matter who's out, they can still kick your tail like they did tonight. They're so deep, they got so many guys. So from our perspective, I don't think we took them lightly. We just didn't play well in the first half.",
+      "start_seconds": 273,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenny Atkinson compared the Thunder to the old Spurs teams, noting their depth and ability to win regardless of who is available in the lineup.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the challenge of playing against a deep Thunder team despite their player absences.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:46",
+      "summary_phrase": "Kenny Atkinson on the difficulty of defending Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "you guys threw everything at him if possible. At what point do you just say, you got to man up",
+      "quote": "We did, we did that. Unfortunately, we torched that too. We have our basic coverage and we'll go in basic for a little and then he hits two pull-ups, you're like, man, if we stay in basic, we're in that drop, like he's just going to kill us from mid-range. So then we're like, well, third possession we decide to blitz or you know, and then we switch there for a while. So we just, I don't think he can give us steady diet of anything.",
+      "start_seconds": 346,
+      "end_seconds": 379,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson discussed the difficulty of defending Shai Gilgeous-Alexander, noting that the team struggled to find a consistent coverage that could stop his mid-range game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains the defensive adjustments made to try and contain Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "07:25",
+      "summary_phrase": "Kenny Atkinson provides an update on Payton Watson's injury status",
+      "names_mentioned": [
+        "Payton Watson"
+      ],
+      "excerpt": "he wasn't able to go and listen, I think these things are this early in the season",
+      "quote": "Yeah, I mean he wasn't able to go and listen, I think these things are this early in the season, we were just being, just being cautious and smart. I think that's the way to play it. I always say I'm like the conservative doctor, you know, and got Mario got more minutes, which is great. In the situation like that, you develop your bench. I'd rather him get fully healthy rather than throwing him out there game six, game seven.",
+      "start_seconds": 445,
+      "end_seconds": 476,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Kenny Atkinson provided an update on Payton Watson, stating the team is being cautious with his injury early in the season. Atkinson said he would rather have Watson get fully healthy than rush him back.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Payton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson provides an update on why Payton Watson was held out of the game due to injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "09:10",
+      "summary_phrase": "Kenny Atkinson reflects on the team's start to the season",
+      "names_mentioned": [],
+      "excerpt": "I like our team. I like our team. Especially that second half",
+      "quote": "I like our team. I like our team. Especially that second half. I thought first half we didn't move it great and then we started to move it, started to get in the paint and kick and play some great basketball. So, you know, we got a good team. I like our team. The NBA is tough. It's like OKC again and then the Knicks, you know, it's every game this year is going to be a battle. I think we should expect more of this, not less.",
+      "start_seconds": 550,
+      "end_seconds": 584,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kenny Atkinson says he likes the team despite the loss, noting that the second half performance showed the potential for the group to play great basketball.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "OKC",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the team's performance and the difficulty of the early season schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "09:50",
+      "summary_phrase": "Kenny Atkinson on Donovan Mitchell's playmaking performance",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "I was so pleased with how he played in that second half. He just made the others better",
+      "quote": "I was so pleased with how he played in that second half. He just made the others better and unfortunately we didn't make as many threes as we needed to, but that second half, how we spread the ball up, that's him particularly was great.",
+      "start_seconds": 590,
+      "end_seconds": 607,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson was pleased with Donovan Mitchell's playmaking in the second half, noting that he did a great job spreading the ball and making his teammates better.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson praises Donovan Mitchell for his playmaking performance during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "hyTE6ccIAsk",
+  "url": "https://www.youtube.com/watch?v=hyTE6ccIAsk",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-03T03:03:49Z",
+  "duration_seconds": 616,
+  "processed_at": "2026-11-03T16:20:13Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

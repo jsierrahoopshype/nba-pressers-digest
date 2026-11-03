@@ -1,0 +1,81 @@
+{
+  "video_title": "L'Equipe journalist Maxime Aubin on Victor Wembanyama dealing with the NBA Finals aftermath",
+  "speakers_seen": [
+    "Maxime Aubin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Maxime Aubin",
+      "timestamp": "00:00",
+      "summary_phrase": "Victor Wembanyama's reaction to the criticism following the NBA Finals",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "This is still something that hurts him, you know, what happened in the finals.",
+      "quote": "After the finals, with all the criticism he had, I was really hopeful I could try to talk to him one-on-one, like a lot of other people. Let's say he was very quiet. So I talked to his people, to his agents, and they said basically he doesn't want to talk about the finals. From what I understand now, this is still something that hurts him, you know, what happened in the finals. He doesn't really want to talk about it yet.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Victor Wembanyama is still processing the aftermath of the NBA Finals. According to Maxime Aubin, Wembanyama is not ready to discuss the series yet because it is still something that hurts him.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Maxime Aubin explains that Victor Wembanyama is avoiding discussion regarding the recent NBA Finals due to lingering disappointment.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Maxime Aubin",
+      "timestamp": "00:34",
+      "summary_phrase": "Wembanyama's desire for a longer summer break after international play",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "He wishes the summer could be longer just to spend more time there.",
+      "quote": "One other thing I think that's happening right now for him is that he had a short summer. The NBA finals went all the way to mid-June, then he played for the French national team this summer. So what he told me recently is that you have the FOMO a little bit of France. He wishes the summer could be longer just to spend more time there, but also to prepare better for the NBA season.",
+      "text_blocks": [],
+      "start_seconds": 34,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Victor Wembanyama admits he is feeling the effects of a short summer. Between the NBA Finals run and playing for the French national team, he says he wishes the summer could be longer to spend time in France and prepare for the season.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Maxime Aubin notes that Victor Wembanyama expressed a desire for a longer summer break following his commitments to the NBA Finals and the French national team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "Wr4wIbIRk8s",
+  "url": "https://www.youtube.com/watch?v=Wr4wIbIRk8s",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-03T02:36:01Z",
+  "duration_seconds": 63,
+  "processed_at": "2026-11-03T16:19:55Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

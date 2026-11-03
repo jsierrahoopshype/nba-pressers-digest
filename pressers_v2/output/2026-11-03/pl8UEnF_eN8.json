@@ -1,0 +1,81 @@
+{
+  "video_title": "L'Equipe journalist Maxime Aubin on Victor Wembanyama simplifying his game",
+  "speakers_seen": [
+    "Maxime Aubin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Maxime Aubin",
+      "timestamp": "00:00",
+      "summary_phrase": "Victor Wembanyama is working to simplify his offensive game",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "he wants to do less and do it better and to repeat the same movements again",
+      "quote": "I was asking Victor Wembanyama about his iso game. He said during media day that he wanted to really improve his iso game. I asked him after five games how he feels about it, if he is improving, and in what area. He was basically trying to say that he is trying to simplify his game. This is still a work in progress, but he is getting better every day and working a lot on this. The whole point was for him to say that he wants to do less and do it better and to repeat the same movements again and again. Once again, he is not there yet.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Victor Wembanyama is focused on simplifying his offensive approach. Maxime Aubin notes that Wembanyama wants to do less and do it better by repeating the same movements, though he admits it is still a work in progress.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Journalist Maxime Aubin discusses his conversation with Victor Wembanyama regarding the player's efforts to simplify his offensive approach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Maxime Aubin",
+      "timestamp": "00:46",
+      "summary_phrase": "Wembanyama's offensive game remains a work in progress",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "he can average 35, 10 rebounds and four blocks and you watch his offensive game",
+      "quote": "I think that is the craziest part about Victor Wembanyama, right? He can average 35, 10 rebounds and four blocks and you watch his offensive game and you are like, it is a mess. We don't understand what is going on. So, he has a lot to improve still, but I think it is heading in the right direction.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Maxime Aubin says that despite Victor Wembanyama putting up massive numbers, his offensive game still looks like a mess at times. He believes the young star has plenty of room to improve but is heading in the right direction.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Maxime Aubin reflects on the contrast between Victor Wembanyama's high statistical production and the current state of his offensive execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "pl8UEnF_eN8",
+  "url": "https://www.youtube.com/watch?v=pl8UEnF_eN8",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-03T02:37:46Z",
+  "duration_seconds": 66,
+  "processed_at": "2026-11-03T16:19:54Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

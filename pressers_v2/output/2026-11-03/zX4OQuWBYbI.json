@@ -1,0 +1,228 @@
+{
+  "video_title": "Cavs vs Thunder | Mario Hezonja Post Game | 11.02.2026",
+  "speakers_seen": [
+    "Mario Hezonja"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mario Hezonja",
+      "timestamp": "00:05",
+      "summary_phrase": "Mario Hezonja on the Thunder's youth and injury challenges",
+      "names_mentioned": [],
+      "excerpt": "they have a lot of injuries. They were a brand new team, you got to spend some time",
+      "quote": "They have a lot of injuries. They were a brand new team, you got to spend some time to figure them on the court, live repetitions. Maybe that started a few confusions for us. We were trying to test them at the rim as well. In the second half, everything started to be more fluid, more open. We played much more in the flow.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mario Hezonja says the Cavs had to adjust to the Thunder's youth and injury situation to find their flow in the second half of tonight's win",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mario Hezonja discusses the Oklahoma City Thunder and the challenges his team faced during their game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mario Hezonja",
+      "timestamp": "00:41",
+      "summary_phrase": "Mario Hezonja praises Tyrese Proctor and Malik for their energy",
+      "names_mentioned": [
+        "Tyrese Proctor",
+        "Malik"
+      ],
+      "excerpt": "being energetic, pushing the pace for us. Both of them, Malik, incredible efficiency from the three",
+      "quote": "Being energetic, pushing the pace for us. Both of them, Malik, incredible efficiency from the three for him for a rookie, which is something that gives us a plus for us. And then Tyrese is just being that spark, constantly pushing, constantly being in a good positioning and playing off the ball as well, understanding the flow of the game, understanding his spot, so that's huge for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 41,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mario Hezonja is impressed by the energy from rookies Malik and Tyrese Proctor, calling Malik's three point efficiency a huge plus for the team",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Proctor",
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mario Hezonja praises the energy and contributions of his teammates Tyrese Proctor and Malik.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mario Hezonja",
+      "timestamp": "01:15",
+      "summary_phrase": "Mario Hezonja on the need to improve offensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "Offensive rebounds, we have to clean up. We will clean them up eventually",
+      "quote": "Offensive rebounds, we have to clean up. We will clean them up eventually the more and more we get used to the five on the court and the positions, the strengths. And then for the free throw lines, just go at people more, just understand our identity, and I think this identity with the free throw line you can establish it with your aggressiveness as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 75,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mario Hezonja says the Cavs need to clean up their offensive rebounding and establish a stronger identity by playing with more aggressiveness at the free throw line",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja explains the need for the team to improve their offensive rebounding and aggressiveness at the free throw line.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mario Hezonja",
+      "timestamp": "01:57",
+      "summary_phrase": "Mario Hezonja on his defensive role guarding top players",
+      "names_mentioned": [
+        "SGA"
+      ],
+      "excerpt": "That's my role. It's extremely important for us. I know that probably everybody knows me for scoring",
+      "quote": "That's my role. It's extremely important for us. I know that probably everybody knows me for scoring, but now it's time to show other things as well, especially on defensive. I'm very curious about how is that defense going to look for me at the end of the season, where is it going to rank me. That's a personal challenge. I even told Mike G and Kenny, just let me guard the best and then it will help us because we can get into more switching.",
+      "verbatim_original_language": "",
+      "start_seconds": 117,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Mario Hezonja is embracing a new defensive challenge this season, telling the coaching staff to let him guard the best players to help the team switch more effectively",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike G",
+          "Kenny"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja discusses his defensive role and his request to the coaching staff to guard the opposing team's best players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mario Hezonja",
+      "timestamp": "03:20",
+      "summary_phrase": "Mario Hezonja on his personal growth and team sacrifice",
+      "names_mentioned": [],
+      "excerpt": "It is a mega sacrifice, it's a totally different story going from being a volume guy",
+      "quote": "It is a mega sacrifice, it's a totally different story going from being a volume guy there and being number one to here. I finished the first half with zero, but I don't care because the points for me, that's what I do. So that comes to me as a product of having great teammates around me, so I have to give them something which is now rebounding, which is defense, which is passing, playing, moving the ball, being smart about it.",
+      "verbatim_original_language": "",
+      "start_seconds": 200,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mario Hezonja on his role change with the Cavs: It is a mega sacrifice going from being a volume scorer to focusing on rebounding, defense, and moving the ball",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mario Hezonja reflects on his personal sacrifice and adapting his game to prioritize team success over individual scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mario Hezonja",
+      "timestamp": "04:14",
+      "summary_phrase": "Mario Hezonja on the team's response to injuries",
+      "names_mentioned": [],
+      "excerpt": "It's a pity to see that our people are missing games, regardless of the situation",
+      "quote": "It's a pity to see that our people are missing games, regardless of the situation of the bigger injury, small injury, protection, or whatever it is. Nobody wants to see that. We want everybody on the court. But for me, just being ready since I came here, since the first day, training or training camp, preseason, or now season, same mentality. Obviously, being every game and every day more and more comfortable being myself.",
+      "verbatim_original_language": "",
+      "start_seconds": 254,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mario Hezonja says he is feeling more comfortable being himself as the season progresses despite the team dealing with various injury absences",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mario Hezonja comments on the impact of teammate injuries and his consistent mentality throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Mario Hezonja",
+      "timestamp": "05:27",
+      "summary_phrase": "Mario Hezonja on the challenges of rebounding in the modern NBA",
+      "names_mentioned": [],
+      "excerpt": "There is also a differentiability of the basketball in NBA because so many threes are being shot",
+      "quote": "There is also a differentiability of the basketball in NBA because so many threes are being shot nowadays. So that ball is going to fly sometimes. You go a couple possessions up and down, obviously your energy tank is at that time not at 100%. So like you kind of find yourself in a bad spot, you're tagging your player that you're guarding, but that ball just goes over you. So the moment those couple of possessions we waste or like the ball goes out of bounds, it's a minus for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 327,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mario Hezonja explains the difficulty of rebounding in the modern NBA, noting that the high volume of three point attempts makes long rebounds unpredictable",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja explains the difficulty of rebounding in the modern NBA due to the high volume of three-point shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "zX4OQuWBYbI",
+  "url": "https://www.youtube.com/watch?v=zX4OQuWBYbI",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-03T14:16:59Z",
+  "duration_seconds": 415,
+  "processed_at": "2026-11-03T16:19:15Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

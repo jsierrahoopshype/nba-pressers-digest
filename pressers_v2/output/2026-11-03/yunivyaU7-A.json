@@ -1,0 +1,239 @@
+{
+  "video_title": "Karlo Matković | Pelicans vs Grizzlies Postgame Interview 11/2/26",
+  "speakers_seen": [
+    "Karlo Matković",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Karlo Matković"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Karlo Matković on his 25-point career night against the Grizzlies",
+      "names_mentioned": [
+        "Karlo Matković"
+      ],
+      "excerpt": "We had a good team basketball. Got a win, that's most important.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "All right Karlo, career night, 25 points, five threes. How'd you feel out there?"
+        },
+        {
+          "speaker": "Karlo Matković",
+          "text": "Felt good. Felt good. We had a good team basketball. Got a win, that's most important. But yeah, felt good."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 13,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_post": "Karlo Matkovic on his 25 point career night against the Grizzlies: It felt good. We had good team basketball. Got a win, that is most important.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Karlo Matković reflects on his career-high 25-point performance in a win against the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Karlo Matković"
+      ],
+      "timestamp": "00:21",
+      "summary_phrase": "Karlo Matković on the trust shown by coach Willie Green",
+      "names_mentioned": [
+        "Willie Green",
+        "Karlo Matković"
+      ],
+      "excerpt": "I'm blessed to be starting at the NBA and on that level.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Look, you've started three games and you've won all three. Just the trust that Coach Willie Green has put in you to start these ball games, and look, you're responding. You had nine points in the first quarter, quick start. But what's it been like for you to start consecutive games?"
+        },
+        {
+          "speaker": "Karlo Matković",
+          "text": "It's an awesome feeling. I'm blessed to be starting at the NBA and on that level. I think it's something to be happy about, cherish it. I enjoy every game, approach every game the same, trying to be ready. And I appreciate the coaches believing in me."
+        }
+      ],
+      "start_seconds": 21,
+      "end_seconds": 59,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "Karlo Matkovic on starting three straight games for the Pelicans: It is an awesome feeling. I am blessed to be starting in the NBA. I appreciate the coaches believing in me.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Willie Green"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Karlo Matković discusses the experience of starting consecutive games and the trust shown in him by head coach Willie Green.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Karlo Matković"
+      ],
+      "timestamp": "00:55",
+      "summary_phrase": "Karlo Matković on the team's belief and long-term outlook",
+      "names_mentioned": [
+        "Karlo Matković"
+      ],
+      "excerpt": "It's a long season. I think we shouldn't be judging off the first five, six, ten games.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "It just seems like the team, look, it was a tough start, now you've won three in a row and it seems to be coming together a little bit. What's the belief factor been like on the bench?"
+        },
+        {
+          "speaker": "Karlo Matković",
+          "text": "It's a long season. It's always a long season. I think we shouldn't be judging off the first five, six, ten games. 82 games in the season, NBA is like that. Sometimes you win, sometimes you lose. We just got to be ready, look at our film, stay ready, be confident in each other, trust each other, play together, do your job, play hard, and it's going to come from there."
+        }
+      ],
+      "start_seconds": 55,
+      "end_seconds": 97,
+      "speaker_confidence": "inferred",
+      "news_score": 3,
+      "social_post": "Karlo Matkovic on the Pelicans turning things around after a tough start: It is a long season. We should not be judging off the first ten games. We just have to be ready, look at our film, and trust each other.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Karlo Matković comments on the team's mindset and the importance of maintaining confidence during the long 82-game NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Karlo Matković"
+      ],
+      "timestamp": "01:30",
+      "summary_phrase": "Karlo Matković on his floor-running and simplified game style",
+      "names_mentioned": [
+        "Karlo Matković",
+        "Zion Williamson"
+      ],
+      "excerpt": "I try to simplify as much as I can. I'm going to run, rim run after rebounds.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Karlo, watched you run the floor pretty well tonight. Got some good put-back dunks, running to the corner, getting the second-chance assists. How has coach helped you do that, being in the right spot?"
+        },
+        {
+          "speaker": "Karlo Matković",
+          "text": "That's part of my game. I try to simplify as much as I can. I'm going to run, rim run after rebounds, try to get stops, block shots, get out there, be the first one in transition. That's how I play. I think that's my style of play and then spread out the court, have more space in the paint for Zion, whoever is going to the rim. Being in the corner, cut, whatever. But simplify as much as I can and then just try to do my job."
+        }
+      ],
+      "start_seconds": 90,
+      "end_seconds": 137,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_post": "Karlo Matkovic on his role in the Pelicans offense: I try to simplify as much as I can. I am going to rim run, try to get stops, and spread out the court to have more space in the paint for Zion.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Karlo Matković explains his playing style and how he tries to create space for teammates like Zion Williamson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Karlo Matković"
+      ],
+      "timestamp": "02:21",
+      "summary_phrase": "Karlo Matković on the defensive impact of Herb Jones",
+      "names_mentioned": [
+        "Karlo Matković",
+        "Herb Jones"
+      ],
+      "excerpt": "Talking with Herb about defense helps a lot. He's a great defender, first team all-defense.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Looking at the plus-minus, you and Herb had the best. What do you see now that you're playing with him more and more often the last week?"
+        },
+        {
+          "speaker": "Karlo Matković",
+          "text": "Talking with Herb about defense helps a lot. He's a great defender, first team all-defense. We love him. I'm glad we have him on the team."
+        }
+      ],
+      "start_seconds": 141,
+      "end_seconds": 161,
+      "speaker_confidence": "inferred",
+      "news_score": 3,
+      "social_post": "Karlo Matkovic on playing alongside Herb Jones: Talking with Herb about defense helps a lot. He is a great defender, first team all defense. We love him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Karlo Matković praises the defensive impact and leadership of his teammate Herb Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "yunivyaU7-A",
+  "url": "https://www.youtube.com/watch?v=yunivyaU7-A",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-03T14:24:15Z",
+  "duration_seconds": 199,
+  "processed_at": "2026-11-03T16:19:13Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

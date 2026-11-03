@@ -1,0 +1,267 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. POR 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Nikola Jokic",
+    "Jamal Murray",
+    "Christian Braun"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:13",
+      "summary_phrase": "Nuggets struggle with defensive rebounding and second-chance points",
+      "names_mentioned": [
+        "Klingan",
+        "Joker"
+      ],
+      "excerpt": "It's one of the ways in the NBA you can lose a game.",
+      "quote": "We gave up 16 on the glass. I also thought there were multiple times where we got our hands on it like they did, and then the 50-50 behind it, which leads to the layers of this. They shoot 15 more shots in this game. It always leads to an advantage for a team. We talked about it in the locker room, not to mention, they don't have a traditional four playing. So this was guards crashing all over the place. Obviously, Klingan does that, but I thought a lot of those were off other people's mistakes, where you don't win your own battle, and Joker is taking on somebody else in the rotation, and he ends up the benefactor of that, especially in the second half. It's one of the ways in the NBA you can lose a game, that you play so well to start and they claw back into it just by doing that.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman says the Nuggets struggled with defensive rebounding and second-chance points against Portland, noting that giving up 16 on the glass and allowing 15 more shots than the opponent is a recipe for losing games.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's defensive rebounding struggles and second-chance points allowed against the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:27",
+      "summary_phrase": "Nuggets need better shot selection and trust in teammates",
+      "names_mentioned": [
+        "CB",
+        "Joker"
+      ],
+      "excerpt": "People have to think that every night is going to be their night like he did.",
+      "quote": "Those two guys tried to make plays that we need other creations for other people. You run something, if the ball finds you, there's a reason. They bring three people to two. I've said this before, have extreme confidence in all these guys. What CB did the other night in Phoenix, people have to think that every night is going to be their night like he did, as opposed to turning things down, driving the ball back into traffic. We ended up with 26 threes, but that's really a lie. I think we were at 14 middle of the fourth. I just thought we just, confidence has to be there. If those guys create it, you have to live off that and live with the result, as opposed to throwing the ball right back to them and now they're up against the clock taking tough shots.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman wants his players to have extreme confidence in their teammates rather than forcing tough shots, saying players need to trust the creation process instead of driving the ball back into traffic.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman explains the need for better shot selection and trusting teammates to create opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:37",
+      "summary_phrase": "Nuggets need to improve interior scoring and three-point shooting",
+      "names_mentioned": [
+        "Joker"
+      ],
+      "excerpt": "We have to get more threes. We have to.",
+      "quote": "We've always been the opposite analytic team. If you're efficient in the paint, you can get away with it. Especially to your point, because this would be a skewed night with the 34 free throws. You make 29, the majority are at the basket. But no, we have to get more threes. We have to. And like I said, if the creation leads to an open man, he has to shoot it. You can't drive it back in there. I thought we had multiple possessions late in the clock where we don't shoot it at seven seconds and you're down to the last three, four seconds. But just being reliance on yourself is really important because we're never going to shoot 50 threes in a game with the team we have. But we can complement the paint points to your point with free throws, and if we get to the mid-30s in threes, I think we're in a good spot.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman says the Nuggets need to increase their three-point volume, noting that while they are efficient in the paint, they need to get to the mid-30s in three-point attempts to be in a good spot.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's offensive strategy regarding paint scoring and three-point shot volume.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nikola Jokic",
+      "timestamp": "10:06",
+      "summary_phrase": "Defensive rebounding and second-quarter scoring cost the Nuggets",
+      "names_mentioned": [],
+      "excerpt": "Of course, offensive rebounds were some big, big issue for us.",
+      "quote": "I don't know, I think it would be like that. Of course, offensive rebounds were some big, big issue for us. 50-50 balls, I feel like we were always like there but not to apply there. The second quarter, they scored almost 40 points, you know, that's really that what really, I think that's how they got, not the momentum, but like feeling back in the game. So, we just couldn't close down, let's say like that.",
+      "text_blocks": [],
+      "start_seconds": 606,
+      "end_seconds": 636,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nikola Jokic points to the second quarter as a turning point against Portland, noting that allowing nearly 40 points in that frame gave the opponent the momentum they needed to get back into the game.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reacts to the team's loss and identifies defensive rebounding and second-quarter defense as key issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nikola Jokic",
+      "timestamp": "13:58",
+      "summary_phrase": "Jokic on improving offensive spacing and shot selection",
+      "names_mentioned": [],
+      "excerpt": "Probably setting screen, creating a better matchup for us.",
+      "quote": "Probably setting screen, creating a better matchup for us, you know, being available, get to the open spot and shoot it when you're open, probably.",
+      "text_blocks": [],
+      "start_seconds": 838,
+      "end_seconds": 848,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nikola Jokic on how the Nuggets can improve their offensive spacing: setting better screens, creating better matchups, and being ready to shoot when open.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic suggests improvements for the team's offensive spacing and shot selection.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Murray",
+      "timestamp": "17:24",
+      "summary_phrase": "Murray on the need for collective effort in rebounding",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "We got to help Nikola Jokic out. I think he's just got to custom to him grabbing so many boards.",
+      "quote": "We got to help Nikola Jokic out. I think he's just got to custom to him grabbing so many boards, against every single matchup, every single night. That when he doesn't get a tip, we have to get it, you know. That takes everybody. And that's just sometimes where you're on the floor, sometimes too tired to crash, maybe you're in the corner, you think you might have the ball, but whatever the thought may be, we got to go in and hit somebody, grab the ball, just make a play. He's just sounds like I was really close to the ball, just thought he might have it and it's two points, so, you know, I think it's just a collective effort to just crash and be in the paint more on shots and we'll fan out, you know, if they get the ball, we'll fan out after that instead of just staying hugged up to our matchups.",
+      "text_blocks": [],
+      "start_seconds": 1044,
+      "end_seconds": 1105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamal Murray says the Nuggets need a collective effort on the glass to help Nikola Jokic, noting that the team cannot rely on him to grab every rebound and must do a better job hitting bodies and crashing the paint.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Murray emphasizes that the team needs to provide more support to Nikola Jokic in rebounding efforts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Christian Braun",
+      "timestamp": "22:24",
+      "summary_phrase": "Braun on Nuggets' rebounding struggles and lack of energy",
+      "names_mentioned": [],
+      "excerpt": "We just didn't do a very good job of getting rebounds.",
+      "quote": "We just didn't do a very good job of getting rebounds. I think that, you know, the defense on the first shot was good and then we just kind of let the 50-50 balls, they beat us to every 50-50 ball. So, that's on me. I got to grab a rebound and, you know, fly around. We just kind of got lazy, I think, in the second half.",
+      "text_blocks": [],
+      "start_seconds": 1344,
+      "end_seconds": 1370,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Christian Braun admits the Nuggets got lazy in the second half against Portland, noting that the team failed to secure 50-50 balls and needs to do a better job flying around to grab rebounds.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun reflects on the team's lack of energy and failure to secure loose balls during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Christian Braun",
+      "timestamp": "23:38",
+      "summary_phrase": "Braun emphasizes trust and consistency in team play",
+      "names_mentioned": [
+        "Jamal",
+        "Yoke"
+      ],
+      "excerpt": "I think we always make the right play. I think that's the biggest part. Guys trust.",
+      "quote": "I think we always make the right play. I think that's the biggest part. Guys trust. Everybody, I mean, you know how good of a scorer Jamal and Yoke and Aaron and those guys are, and they trust the guys, you know, they pass when when those guys are open and when we are open, I should say. And so we just got to continue to trust it, you know, trust our work and the work we put in, but I think all the guys are kind of ready for that moment. I think a lot of things we got to clean up more on the other end and everything, so we'll clean that up and we got to be better at getting those.",
+      "text_blocks": [],
+      "start_seconds": 1418,
+      "end_seconds": 1466,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Christian Braun emphasizes the importance of team trust, noting that even with elite scorers like Jamal Murray and Nikola Jokic, the team must continue to trust their work and make the right play when open.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray",
+          "Nikola Jokic",
+          "Aaron Gordon"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Christian Braun discusses the importance of team trust and consistency in offensive execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "kdW3LWSq7bM",
+  "url": "https://www.youtube.com/watch?v=kdW3LWSq7bM",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-03T07:22:17Z",
+  "duration_seconds": 1606,
+  "processed_at": "2026-11-03T16:19:41Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,237 @@
+{
+  "video_title": "Postgame Media Availability with Isaiah Hartenstein | OKC Thunder | November 2, 2026",
+  "speakers_seen": [
+    "Isaiah Hartenstein"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "00:18",
+      "summary_phrase": "Isaiah Hartenstein on his role and team-first mentality",
+      "names_mentioned": [],
+      "excerpt": "doing whatever the team needs to win",
+      "quote": "For me it's one of my strengths and I think just doing whatever the team needs to win. If you look from top to bottom, how guys came in and impacted the game, especially the young guys, Bennett, Micah, Adai and all those guys, just coming in and being ready, making an impact on court.",
+      "verbatim_original_language": "",
+      "start_seconds": 18,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein on the Thunder depth: It is about doing whatever the team needs to win. He praised the young guys for coming in and being ready to make an impact on the court.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bennett",
+          "Micah",
+          "Adai"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Isaiah Hartenstein discusses his role and praises the impact of young teammates during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "00:45",
+      "summary_phrase": "Isaiah Hartenstein on Jalen Williams' shooting confidence",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "being fearless with his shots",
+      "quote": "Especially Jalen Williams today, just being fearless with his shots. The only time I cuss him out is when he doesn't shoot. Him just shooting the ball, being confident with that, just keep building on the confidence. We know we have to do as a team.",
+      "verbatim_original_language": "",
+      "start_seconds": 45,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Isaiah Hartenstein wants Jalen Williams to stay aggressive: The only time I cuss him out is when he does not shoot. He says the team is focused on building Jalen's confidence.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Isaiah Hartenstein speaks about Jalen Williams' shooting confidence and his encouragement for him to remain aggressive.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "01:56",
+      "summary_phrase": "Isaiah Hartenstein on Cason Wallace's growth and leadership",
+      "names_mentioned": [
+        "Cason Wallace",
+        "Luguentz Dort"
+      ],
+      "excerpt": "he told me in the locker room he's a lot more respectful for Luguentz Dort",
+      "quote": "Now looking at Cason Wallace, the way he's been stepping up, he told me in the locker room he's a lot more respectful for Luguentz Dort because he's been on the plan A guy and done a great job on that every night. Everyone stepping up has been huge for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 116,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein on Cason Wallace stepping up: He has a new appreciation for Luguentz Dort after taking on the challenge of guarding the opponent's best player night in and night out.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace",
+          "Luguentz Dort"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Isaiah Hartenstein discusses Cason Wallace's growth and his appreciation for the defensive efforts of Luguentz Dort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "02:13",
+      "summary_phrase": "Isaiah Hartenstein on team resilience and depth",
+      "names_mentioned": [],
+      "excerpt": "the energy around the team has been better",
+      "quote": "I think the energy around the team has been better. I'm not going to lie, there's a human part to it. When you lose that many guys and not have the depth that we kind of had in those years past, we've lost guys before, but you always had someone to fill in. To be honest, those two games did take a toll a little bit, but we're ready to move on and I'm excited for what we can keep improving on.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein admits recent losses took a toll on the team: The energy around the group is better now and the team is ready to move on and keep improving.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Isaiah Hartenstein reflects on the team's resilience and energy levels following recent injury-related roster challenges.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "02:54",
+      "summary_phrase": "Isaiah Hartenstein on Shai Gilgeous-Alexander's leadership",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "we trust Shai as a leader, we trust him on and off the court",
+      "quote": "I've been here long enough to know you can trust Shai Gilgeous-Alexander. He's one of those guys that doesn't matter what the circumstance is, he's going to keep going. We trust Shai as a leader, we trust him on and off the court, and he came up big for us tonight and made big shots, made big plays on both offensively and defensively.",
+      "verbatim_original_language": "",
+      "start_seconds": 174,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Isaiah Hartenstein on the trust in Shai Gilgeous-Alexander: He is one of those guys that does not matter what the circumstance is, he is going to keep going. We trust Shai as a leader on and off the court.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Isaiah Hartenstein praises Shai Gilgeous-Alexander for his leadership and performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "03:41",
+      "summary_phrase": "Isaiah Hartenstein on the value of back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "it's a good preparation for playoffs",
+      "quote": "Playing the same opponent back-to-back is a good preparation for playoffs. You know a little bit what the opponents are doing, you know what they might do differently. For us it's always something good that we have a new challenge. Cleveland is a really good team and we want to just continue to build on what we have right now.",
+      "verbatim_original_language": "",
+      "start_seconds": 221,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein views back-to-back games against the same opponent as good preparation for the playoffs because it forces the team to adapt to new challenges.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein discusses the benefits of playing the same opponent in back-to-back games as preparation for the playoffs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "04:26",
+      "summary_phrase": "Isaiah Hartenstein on his role in making teammates' lives easier",
+      "names_mentioned": [],
+      "excerpt": "I have my game in the NBA to make people's life easier",
+      "quote": "At the end of the day, I have my game in the NBA to make people's life easier. There will be times in the season where it's not going to click like you want it to. We have 82 games and probably 20 won't be good, 40 will be okay, and you have maybe 10 super games. I'm just trying to get my rhythm back, build my body, and get back to normal.",
+      "verbatim_original_language": "",
+      "start_seconds": 266,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Isaiah Hartenstein on his current status: I am just trying to get my rhythm back, build my body, and get back to normal. He says his goal is to make his teammates' lives easier.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Isaiah Hartenstein discusses his personal rhythm and physical recovery process during the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QlyB-tLmDGU",
+  "url": "https://www.youtube.com/watch?v=QlyB-tLmDGU",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-03T08:17:34Z",
+  "duration_seconds": 327,
+  "processed_at": "2026-11-03T16:19:29Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}
