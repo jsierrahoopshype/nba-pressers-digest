@@ -29,6 +29,7 @@ Usage (from repo root):
 """
 
 import json
+import math
 import os
 import re
 import signal
@@ -964,6 +965,69 @@ def videos_with_run_id(day_dir: Path, run_id: str) -> list:
     return out
 
 
+# "Best of the best": the top ~10% of the digest's quotes, repeated at the
+# top so the HoopsHype-worthy ones are read first. Purely additive: built
+# from the stored .json (news_score + the structured "best" flag), no new
+# Gemini call, and every section below it is unchanged.
+TOP_QUOTES_SHARE = 0.10
+TOP_QUOTES_PER_VIDEO = 2          # one long presser can't fill the whole block
+TOP_QUOTES_HEADER = "# Best of the best"
+
+
+def top_quotes_block(md_paths: list) -> list:
+    """Markdown lines for the "Best of the best" block ([] when nothing is
+    scored). Ranking: news_score, then the structured "best" flag, then the
+    digest's own order. Unidentified speakers (usually reporter questions)
+    and unscored quotes never qualify. Each entry keeps the quote's own
+    "Clip it" / "Send to Slack" link (original video, second and quote
+    number), so the clip tool resolves it exactly like the copy below."""
+    pool, total, order = [], 0, 0
+    for md_path in md_paths:
+        try:
+            data = json.loads(md_path.with_suffix(".json").read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        if not isinstance(data, dict):
+            continue
+        vid = data.get("video_id") or md_path.stem
+        for q in data.get("quotes") or []:
+            total += 1
+            order += 1
+            score = _news_score(q.get("news_score"))
+            if score is None or is_unidentified(q.get("speaker") or ""):
+                continue
+            best = bool((q.get("structured") or {}).get("best"))
+            pool.append((-score, not best, order, vid, data, q))
+    if not pool or not total:
+        return []
+    want = max(1, math.ceil(total * TOP_QUOTES_SHARE - 1e-9))  # 10% of all quotes, rounded up
+    picked, per_video = [], {}
+    for item in sorted(pool, key=lambda t: t[:3]):
+        vid = item[3]
+        if per_video.get(vid, 0) >= TOP_QUOTES_PER_VIDEO:
+            continue
+        per_video[vid] = per_video.get(vid, 0) + 1
+        picked.append(item)
+        if len(picked) >= want:
+            break
+    lines = [TOP_QUOTES_HEADER, ""]
+    for n, (_, _, _, vid, data, q) in enumerate(picked, 1):
+        one = dict(q, rank=n)  # shown as 1..N here; the clip link keeps the original number
+        md = ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=vid), "", pages_safe(
+            {"video_title": data.get("video_title") or "", "quotes": [one]}))
+        body = md.split("\n")
+        start = next(i for i, l in enumerate(body) if l.startswith(f"**{n}."))
+        lines.extend(link_bare_urls("\n".join(body[start:])).rstrip("\n").split("\n"))
+        source = WATCH_URL_TEMPLATE.format(video_id=vid)
+        title = pages_safe(data.get("video_title") or vid)
+        team = pages_safe(data.get("channel_team") or "")
+        lines.extend(["", f"From: [{title}]({source})" + (f" · *{team}*" if team else "")])
+        secs = ytq.timestamp_to_seconds(q.get("timestamp") or "0:00")
+        lines.extend(["", clip_link_line(vid, secs, q.get("rank") or n), ""])
+    lines.extend(["---", ""])
+    return lines
+
+
 def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
     """yt-quotes' digest, grouped into Press conferences / Podcasts & shows /
     One-offs (empty sections skipped). Each video block is the per-video .md
@@ -977,6 +1041,7 @@ def write_digest_file(date_str: str, output_filename: str, video_ids: list | Non
     else:
         md_paths = [day_dir / f"{v}.md" for v in video_ids if (day_dir / f"{v}.md").is_file()]
     sections = {ctype: [] for ctype in CONTENT_TYPES}
+    included = []
     for md_path in md_paths:
         try:
             content = md_path.read_text(encoding="utf-8").strip()
@@ -987,9 +1052,11 @@ def write_digest_file(date_str: str, output_filename: str, video_ids: list | Non
         if content.startswith("# "):
             content = "#" + content  # demote h1 to h2 (as yt-quotes does)
         sections[_video_type_for_md(md_path)].append(content)
+        included.append(md_path)
     if not any(sections.values()):
         return None
     parts = [f"# NBA Pressers — {date_str}", ""]
+    parts.extend(top_quotes_block(included))  # [] when nothing is scored
     first_section = True
     for ctype in CONTENT_TYPES:
         videos = sections[ctype]
