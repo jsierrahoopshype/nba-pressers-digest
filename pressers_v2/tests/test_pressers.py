@@ -293,9 +293,11 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(len(re.findall(r"(?m)^\*\*\d+\.", block)), 1)
         self.assertIn("**1. James Harden", block)
         self.assertNotIn("bench and how deep", block)
-        self.assertIn("From: [James Harden Media Availability](https://www.youtube.com/watch?v=J5unk3vEQmk)", block)
+        # the three test videos hold the same quote, so any one copy may win the tie
+        src = re.search(r"From: \[[^\]]+\]\(https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})\)", block)
+        self.assertIsNotNone(src)
         # clip link keeps the quote's real number and second, so the clip tool finds it
-        self.assertIn(pe.clip_link_line("J5unk3vEQmk", 118, 1), block)
+        self.assertIn(pe.clip_link_line(src.group(1), 118, 1), block)
         # everything below is the same digest as before
         self.assertTrue(digest.rstrip().endswith(ytq.DIGEST_CLOSING_LINE))
 
