@@ -1,0 +1,199 @@
+{
+  "video_title": "Rick Carlisle, Braden Smith & Quenton Jackson Postgame Media Availability | November 2, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Braden Smith",
+    "Quenton Jackson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:00",
+      "summary_phrase": "Rick Carlisle on the team's resilience despite injuries and suspensions",
+      "names_mentioned": [
+        "Grant Hill",
+        "Tracy McGrady"
+      ],
+      "excerpt": "It just illustrates the power of hard play and the power of hard unselfish play.",
+      "quote": "I told the guys after the game that the night after the Palace brawl, there was a game very similar to this where we had six guys available due to suspensions and injuries. We went toe-to-toe with an Orlando team that was rested in this building with Grant Hill, Tracy McGrady, and a lot of other good players. It was a game almost identical to this. I told them that people are still talking about that game, and they will talk about this game for a long time because what those six guys did was very inspirational. It illustrates the power of hard play and the power of hard unselfish play and putting a real competitive spirit on a game.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle compared the Pacers' shorthanded effort tonight to the team's legendary performance following the Palace brawl. He told the locker room that what those six guys did was inspirational and showed the power of hard unselfish play.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "ORL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle reflects on the team's performance while dealing with multiple player absences due to injuries and suspensions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:18",
+      "summary_phrase": "Rick Carlisle praises Braden Smith's performance and competitive nature",
+      "names_mentioned": [
+        "Braden Smith"
+      ],
+      "excerpt": "Braden Smith was tremendous and showed the kind of competitor that he is.",
+      "quote": "Braden Smith was tremendous and showed the kind of competitor that he is and has demonstrated over the past several years at Purdue. He was prepared for this opportunity because of all the work he put in the summer. When we did the beep test before training camp, he got to level 15 when everybody else bowed out at level 12. It just goes to show you that putting in that kind of work will bear fruit. It was inspiring to watch him battle tonight, and I thought defensively he did a great job too.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Rick Carlisle praised Braden Smith for his conditioning and competitive nature, noting that Smith reached level 15 on the beep test before training camp. Carlisle called his performance tonight inspiring.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Braden Smith"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle praises Braden Smith for his preparation and competitive performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Braden Smith",
+      "timestamp": "06:33",
+      "summary_phrase": "Braden Smith on his mindset and performance during the game",
+      "names_mentioned": [],
+      "excerpt": "I'm obviously excited. I mean, obviously we lost and that's my main focus.",
+      "quote": "I'm obviously excited. I mean, obviously we lost and that's my main focus. Obviously we're on a losing streak, so that was my main priority, to try to impact the game in any way to try to help us win. Obviously we were right there and a couple of things didn't go our way and obviously some stuff happens, but overall just excited to be out there and obviously once your number is called, just ready to play.",
+      "text_blocks": [],
+      "start_seconds": 393,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Braden Smith on his mindset during the shorthanded loss: My main priority was to try to impact the game in any way to help us win. I was just ready to play once my number was called.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Braden Smith discusses his mindset and focus on trying to help the team win despite the current losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Braden Smith",
+      "timestamp": "09:33",
+      "summary_phrase": "Braden Smith on his comfort level and learning process",
+      "names_mentioned": [],
+      "excerpt": "You don't go to a job and just you're perfect right away.",
+      "quote": "You don't go to a job and just you're perfect right away, or you get the top job right away. A lot of people think that, and that's just not how the world goes. You're supposed to learn, and honestly I thought that was the best thing for me because I thought in college I was at the top for a very, very long time doing it at a very high level, and honestly I needed that. I needed to get back down here and you got to work your way back up.",
+      "text_blocks": [],
+      "start_seconds": 573,
+      "end_seconds": 609,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Braden Smith on his transition to the professional level: You do not go to a job and get the top job right away. I needed to get back down here and you have to work your way back up.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Braden Smith reflects on his professional development and the necessity of working his way up after his college career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quenton Jackson",
+      "timestamp": "11:32",
+      "summary_phrase": "Quenton Jackson on the team's energy and effort",
+      "names_mentioned": [],
+      "excerpt": "I think what we did tonight was inspirational. I think all the guys who were active came out.",
+      "quote": "I think what we did tonight was inspirational. I think all the guys who were active came out and they did their thing. But obviously, you don't feed a dog for a while, you put food in front of them, they're going to be hungry. So I think we came out with the right energy, the right spirit, and gave the right effort.",
+      "text_blocks": [],
+      "start_seconds": 692,
+      "end_seconds": 716,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quenton Jackson on the Pacers' shorthanded effort: You do not feed a dog for a while, you put food in front of them, they are going to be hungry. We came out with the right energy and the right spirit.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Quenton Jackson comments on the team's energy and effort during the game despite the limited number of active players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Quenton Jackson",
+      "timestamp": "12:12",
+      "summary_phrase": "Quenton Jackson on instilling confidence in Braden Smith",
+      "names_mentioned": [
+        "Braden Smith"
+      ],
+      "excerpt": "I just try to instill confidence in him, you know, six guys, so I tell him, don't be too hard.",
+      "quote": "I just try to instill confidence in him, you know, six guys, so I tell him, don't be too hard on yourself. Mistakes are going to happen, so you know, move on. But like I said, I think he did a good job out there, handling the pressure and all the things that come with being a starting point guard.",
+      "text_blocks": [],
+      "start_seconds": 732,
+      "end_seconds": 755,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quenton Jackson on mentoring Braden Smith: I just try to instill confidence in him. I tell him do not be too hard on yourself. He did a good job handling the pressure of being a starting point guard.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Braden Smith"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quenton Jackson describes his efforts to support and instill confidence in teammate Braden Smith during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "8_rJJTVEf0I",
+  "url": "https://www.youtube.com/watch?v=8_rJJTVEf0I",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-03T03:56:21Z",
+  "duration_seconds": 924,
+  "processed_at": "2026-11-03T08:04:29Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

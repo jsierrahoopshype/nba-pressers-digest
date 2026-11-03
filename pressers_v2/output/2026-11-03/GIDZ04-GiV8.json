@@ -1,0 +1,191 @@
+{
+  "video_title": "Cameron Boozer Press Conference | Grizzlies vs. Pelicans",
+  "speakers_seen": [
+    "Cameron Boozer",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cameron Boozer",
+      "speakers": [
+        "Cameron Boozer",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:12",
+      "summary_phrase": "Cameron Boozer on playing alongside Ty Jerome",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "It's special just what Ty's doing this year and what he's been doing since he's got here.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Maybe I'm wrong, but I'm assuming you've been the best player on your team for most of your life. Have you ever played alongside a late-game player like Ty Jerome and what he was able to do? What is that experience like being on the court with him in those late moments?"
+        },
+        {
+          "speaker": "Cameron Boozer",
+          "text": "I definitely have. I think it's special just what Ty's doing this year and what he's been doing since he's got here. For me, it's definitely different, but it's exciting because he's a great guy to play off of and get a lot of easy looks just because he draws so much attention. It's been great so far."
+        }
+      ],
+      "start_seconds": 12,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Cameron Boozer on playing with Ty Jerome: It is exciting because he is a great guy to play off of and get a lot of easy looks just because he draws so much attention.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cameron Boozer discusses the experience of playing alongside Ty Jerome and his impact on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cameron Boozer",
+      "speakers": [
+        "Cameron Boozer",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:48",
+      "summary_phrase": "Cameron Boozer on defensive breakdowns and rebounding",
+      "names_mentioned": [],
+      "excerpt": "We got to start off stronger. I think we came out with a little bit of a slow start.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Coach talked about it too, there were some late-game defensive breakdowns there as well, and also the rebounding. They had a lot of second-chance points. What can you guys take away from this game to learn and sort of work on to not really be in that position like that again?"
+        },
+        {
+          "speaker": "Cameron Boozer",
+          "text": "I think first of all we got to start off stronger. I think we came out with a little bit of a slow start and let them get comfortable. I don't want any team to get comfortable, they become tough to stop. Like you said, we got to come with more rebounds, more 50-50 balls, and just out-tough the other team."
+        }
+      ],
+      "start_seconds": 48,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Cameron Boozer says the team needs to improve their rebounding and intensity after a slow start against the Pelicans: We have to come with more rebounds and just out tough the other team.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Cameron Boozer reflects on the team's slow start and the need to improve rebounding and defensive intensity after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cameron Boozer",
+      "speakers": [
+        "Cameron Boozer",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:21",
+      "summary_phrase": "Cameron Boozer on defensive matchups against Jaren Jackson Jr., Lauri Markkanen, and Zion Williamson",
+      "names_mentioned": [
+        "Jaren Jackson Jr.",
+        "Lauri Markkanen",
+        "Zion Williamson",
+        "Saddiq Bey"
+      ],
+      "excerpt": "I would say C.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "A few games ago when you had to take on the matchups of Jaren Jackson Jr. and Lauri Markkanen, and tonight you had another matchup in Zion Williamson and Saddiq Bey. You say you take those matchups, Preston. How do you grade yourself on how you guarded those guys tonight?"
+        },
+        {
+          "speaker": "Cameron Boozer",
+          "text": "I would say C."
+        }
+      ],
+      "start_seconds": 81,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Cameron Boozer gives himself a C grade for his defensive performance against Zion Williamson and Saddiq Bey tonight.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson",
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "MEM",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Cameron Boozer grades his own defensive performance against Zion Williamson and Saddiq Bey following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cameron Boozer",
+      "speakers": [
+        "Cameron Boozer",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:43",
+      "summary_phrase": "Cameron Boozer on the team's resilience and fighting spirit",
+      "names_mentioned": [],
+      "excerpt": "We just got a lot of fight. I think for us it came out a little too late.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Didn't go your guys' way tonight, but it feels like you guys have this way of never going away in games, even when it feels like you guys are maybe on the ropes. For such a young team, what do you attribute that to? Why you guys don't have a lot of experience collectively, but yet you seem to really be able to compose yourself and stay in these games, no matter what the circumstances are?"
+        },
+        {
+          "speaker": "Cameron Boozer",
+          "text": "We just got a lot of fight. I think for us it came out a little too late."
+        }
+      ],
+      "start_seconds": 103,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Cameron Boozer on the resilience of this young Grizzlies team: We just have a lot of fight. I think for us it came out a little too late.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Cameron Boozer explains the team's resilience and fighting spirit despite their lack of collective experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "GIDZ04-GiV8",
+  "url": "https://www.youtube.com/watch?v=GIDZ04-GiV8",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-03T04:29:59Z",
+  "duration_seconds": 131,
+  "processed_at": "2026-11-03T08:03:41Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

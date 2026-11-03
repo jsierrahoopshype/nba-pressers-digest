@@ -1,0 +1,142 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs Los Angeles Clippers | November 02, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:40",
+      "summary_phrase": "Darko Rajakovic on the Raptors' offensive stagnation and lack of energy",
+      "names_mentioned": [],
+      "excerpt": "Sometimes we get stagnant offensively, that we don't play with extra pop and energy that we need.",
+      "quote": "Sometimes we get stagnant offensively, that we don't play with extra pop and energy that we need. We need to be the team that's going to be always step faster than the opponents so we can touch the paint, so we can playmake, so we can do all of those things. They did a good job first half, they did not allow us to get in transition. We did not create a lot of steals and turnovers, which is our staple. They did a good job of taking care of the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic says the Raptors struggled with offensive stagnation against the Clippers, noting the team lacked the extra pop and energy needed to consistently touch the paint and create transition opportunities.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the Raptors offensive struggles and lack of energy during his post-game press conference following the loss to the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:30",
+      "summary_phrase": "Darko Rajakovic on Kawhi Leonard's impact and his transition to the Raptors",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "He loves this team, he loves his teammates, he loves to be around them.",
+      "quote": "It's great to get every win for him. He loves this team, he loves his teammates, he loves to be around them, and it means a lot to him when he sees that the guys do well. He's just starting the season with us. There's going to be a period of him getting adjusted to the team and his teammates to him as well, but he's a high-level player that brings a lot of different stuff for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 210,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on the team's new addition, saying it is a period of adjustment but he is a high level player who brings a lot of different stuff to the Raptors.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on a player adjusting to the Raptors team and teammates early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:15",
+      "summary_phrase": "Darko Rajakovic on Immanuel Quickley's fourth quarter performance",
+      "names_mentioned": [
+        "Immanuel Quickley"
+      ],
+      "excerpt": "Immanuel Quickley had a really good fourth quarter offensively, at least got into the paint.",
+      "quote": "Immanuel Quickley had a really good fourth quarter offensively, at least got into the paint, was able to finish some of those shots. As a coach, as a fan, all of us we would like the game always to be perfect, that everything is going our way, that all the guys are constantly contributing. I'm the first one to be, we need every player, we need everybody to play well all the time, but that's not the reality of the game for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 255,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic praised Immanuel Quickley for a strong fourth quarter performance, though he acknowledged that expecting every player to contribute perfectly at all times is not the reality of the game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the fourth quarter performance of Immanuel Quickley during his post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "05:41",
+      "summary_phrase": "Darko Rajakovic on Scottie Barnes' defensive performance against Darius Garland",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Darius Garland",
+        "Jamal"
+      ],
+      "excerpt": "Scottie Barnes loves those challenges. He loves to guard the best players.",
+      "quote": "We did a lot of different stuff there, a lot of different players guarding Darius Garland. He's the head of the snake of their team and we needed to have Jacob and Jamal and Scottie Barnes down the stretch. Scottie Barnes loves those challenges. He loves to guard the best players, he loves to impose his will defensively. I thought that was high-level defensive performance from Scottie Barnes tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 341,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Darko Rajakovic praised Scottie Barnes for his defensive effort against Darius Garland, saying Barnes loves those challenges and loves to impose his will defensively.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises Scottie Barnes for his defensive effort against Darius Garland in the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "pxIno5cFnOc",
+  "url": "https://www.youtube.com/watch?v=pxIno5cFnOc",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-03T07:10:17Z",
+  "duration_seconds": 373,
+  "processed_at": "2026-11-03T08:00:33Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

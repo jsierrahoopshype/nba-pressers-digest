@@ -1,0 +1,238 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Pelicans",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:07",
+      "summary_phrase": "Tuomas Iisalo on Memphis's defensive struggles in transition",
+      "names_mentioned": [],
+      "excerpt": "the big picture for us was we gave up a lot of transition points",
+      "quote": "The big picture for us was we gave up a lot of transition points, especially in the first half. I thought we did a better job with that as the game wore on. Unfortunately, they got 12 more shot attempts, and even though we were getting pretty much everywhere we wanted in the half-court offense, it was difficult for us to overcome 12 more shot attempts.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo says the Grizzlies struggled to overcome the Pelicans due to a 12 shot attempt deficit. He noted that while the half court offense was effective, the transition defense in the first half was a major issue.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the team's defensive performance and transition points allowed in the loss against the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:26",
+      "summary_phrase": "Tuomas Iisalo on Zach Edey's early NBA learning curve",
+      "names_mentioned": [
+        "Zach Edey"
+      ],
+      "excerpt": "he has a lot of unnecessary fouls today and those were avoidable",
+      "quote": "I thought he had a couple of unnecessary fouls today and those were avoidable. A couple of biting on pump fakes and putting himself in a disadvantage there. He is going to clean that up. It is a valuable experience for him. I think he hasn't even played one full season worth of games yet in the NBA, so there is a lot to learn.",
+      "text_blocks": [],
+      "start_seconds": 86,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo on Zach Edey's development: He had some unnecessary fouls today by biting on pump fakes. It is a valuable experience for him as he continues to learn the NBA game.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo evaluates Zach Edey's performance and his learning curve regarding unnecessary fouls during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:21",
+      "summary_phrase": "Tuomas Iisalo on Zach Edey's development in unique matchups",
+      "names_mentioned": [
+        "Zach Edey"
+      ],
+      "excerpt": "this is part of the growth process for everybody for the whole team and for Zach also",
+      "quote": "I think there are advantages and disadvantages, and this is part of the growth process for everybody for the whole team and for Zach also. We are not a fully formed contender. We are in the rebuilding phase and we are off to a great start with that. These are exactly the type of experiences that then unveil the stuff that we still got to get better at and collectively solve.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo emphasizes that the Grizzlies are not a fully formed contender yet. He views the current rebuilding phase as a necessary process to unveil areas where the team needs to improve collectively.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the growth process for the team and Zach Edey during their current rebuilding phase.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "04:08",
+      "summary_phrase": "Tuomas Iisalo on the final play and spacing issues",
+      "names_mentioned": [],
+      "excerpt": "the spacing wasn't exactly like we wanted it",
+      "quote": "We got the ball to tie. I checked that also already from the video. The spacing wasn't exactly like we wanted it. We wanted him to have a little bit more space. If you go back and look at it, there are more or less like three players in too small of a space. He maybe has the opportunity to cut back to his left, but we thought he has plenty of time there with about five, six seconds and got that shot up at two seconds, but couldn't really get to his right hand.",
+      "text_blocks": [],
+      "start_seconds": 248,
+      "end_seconds": 285,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo reviewed the final play and admitted the spacing was not what they wanted. He noted that three players were in too small of a space, preventing the shooter from getting to his right hand.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo analyzes the spacing issues during the final play of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "05:01",
+      "summary_phrase": "Tuomas Iisalo on team physicality and 50-50 balls",
+      "names_mentioned": [
+        "Williams"
+      ],
+      "excerpt": "in the first half there were sequences where we lacked some physicality for sure",
+      "quote": "I thought in the first half there were sequences where we lacked some physicality for sure. We all felt that on the bench. In that last situation, for example, you had three of their guys in prime positioned underneath the rim as really a 50-50 situation. You had Williams taking the shot from about the elbow and then three guys are pretty much pinched. So those are 50-50 balls.",
+      "text_blocks": [],
+      "start_seconds": 301,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tuomas Iisalo says the Grizzlies lacked physicality in the first half against the Pelicans. He pointed to 50-50 balls and positioning under the rim as areas where the team needs to be better.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo addresses the team's lack of physicality and performance on 50-50 balls during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "06:41",
+      "summary_phrase": "Tuomas Iisalo on Zion Williamson's impact and defensive versatility",
+      "names_mentioned": [
+        "Zion Williamson",
+        "Williams"
+      ],
+      "excerpt": "he just tremendous spark again the night hitting three-point shots from the outside",
+      "quote": "He played a lot of minutes today and something we have to be also smart moving forward. But he just tremendous spark again the night, hitting three-point shots from the outside, but also his defensive impact, like you said, at the point of attack against Williams or anchoring our defense when he was off him. He is so mobile that he is able to cover also on the perimeter and still be in that help position.",
+      "text_blocks": [],
+      "start_seconds": 401,
+      "end_seconds": 430,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo praised the defensive versatility of his team, noting that their mobile defenders are able to cover on the perimeter while still anchoring the defense in help positions.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "MEM",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo comments on Zion Williamson's impact, shooting, and defensive versatility during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "07:18",
+      "summary_phrase": "Tuomas Iisalo on balancing perimeter defense and rim protection",
+      "names_mentioned": [
+        "Herb Jones",
+        "Karlo Matkovic"
+      ],
+      "excerpt": "we obviously have our defensive principles that we've tried to design that are as flexible as possible",
+      "quote": "We obviously have our defensive principles that we've tried to design that are as flexible as possible so they can be used in as many situations. And then there is game-to-game adjustments. One of the things Pelicans do really well is they generate paint touches and they generate high-quality rim attempts. And then you have that the balance between how much you want to put resources on that and how much you want to take away the threes and maybe look to stay in front. Today, for example, if you look at Herb Jones as a career shooter, three for seven is maybe a little bit over his career average. Matkovic five for eight, I believe he's been in the last two years more or less like a 38% three-point shooter off the catch and shoot. So the looks were good and you have to make some decisions in the game plan.",
+      "text_blocks": [],
+      "start_seconds": 438,
+      "end_seconds": 496,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo on defensive strategy: The goal is to be as flexible as possible. He noted the challenge of balancing the need to stop paint touches against the need to stay in front of shooters on the perimeter.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones",
+          "Karlo Matkovic"
+        ],
+        "teams": [
+          "MEM",
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo explains the defensive game plan against the Pelicans and the adjustments made regarding specific players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "fRw067fPvTw",
+  "url": "https://www.youtube.com/watch?v=fRw067fPvTw",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-03T04:17:41Z",
+  "duration_seconds": 539,
+  "processed_at": "2026-11-03T08:07:01Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

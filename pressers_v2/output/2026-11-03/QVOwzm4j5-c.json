@@ -1,0 +1,338 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.02.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:35",
+      "summary_phrase": "Nick Nurse on LeBron James's playmaking and court vision",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He's got incredible vision, he's obviously got size to see over people.",
+      "quote": "He's really good. He's got incredible vision, he's obviously got size to see over people. Some of those ones that he's making down the left lane, zip it out to the right corner are big-time passes. I don't know, I just think he's got a good feel and sense of where people are and what the spacing look like and how to make reads, and it's really fun to watch.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse on LeBron James playmaking: He has incredible vision and size to see over people. Some of those passes down the lane are big time. It is really fun to watch.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the playmaking ability and court vision of LeBron James following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:20",
+      "summary_phrase": "Nick Nurse on offensive spacing and finding the open man",
+      "names_mentioned": [],
+      "excerpt": "Offense is a lot about hitting the open man.",
+      "quote": "Getting the ball where it's supposed to go, you hear me talk about that a lot. Offense is a lot about hitting the open man. If you can't guard a guy one-on-one, you got to send help in some form, either a half a man or a full man or some type of rotation, and then it's up to the offense to find the creases in those coverages.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on offensive philosophy: Offense is a lot about hitting the open man. If you cannot guard a guy one on one you have to send help and then it is up to the offense to find the creases in those coverages.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse explains his offensive philosophy regarding spacing and finding the open man.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:37",
+      "summary_phrase": "Nick Nurse on LeBron James's motivation and team focus",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He's a group of guys like I keep saying that have been super focused and intent of playing the right way.",
+      "quote": "This summer, he probably stated publicly that he wanted to go someplace and have some fun playing. He loves the game. 24th year, I think that it's a group of guys like I keep saying that have been super focused and intent of playing the right way, and I think he's a big part of that, but I think it's fun. It's fun to sit here and say 23 out of 25 assists, that's fun basketball. Everybody likes to play that, and I think that just kind of all comes together for that stuff.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse on the team chemistry: It is fun to sit here and say 23 out of 25 assists. That is fun basketball. Everybody likes to play that and I think that just kind of all comes together.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Nick Nurse reflects on LeBron James's motivation and his impact on team focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "03:17",
+      "summary_phrase": "Nick Nurse on Jaylen Brown's fit and toughness",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "The dude is tough and he wins, and I'll take that all day long.",
+      "quote": "He's great, man. I thought he was also having fun tonight, which was good to see. But again, I talked about it pregame. I mean, listen, the dude is tough and he wins, and I'll take that all day long. The degree of difficulty tonight, some of the ones he hit is also, you know, really amazing, and I thought he pounded the glass and got some key rebounds. He makes a lot of winning plays, man. He's a winner.",
+      "text_blocks": [],
+      "start_seconds": 197,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on Jaylen Brown: The dude is tough and he wins and I will take that all day long. He pounded the glass and got some key rebounds. He makes a lot of winning plays. He is a winner.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Nick Nurse praises the toughness and winning plays of Jaylen Brown after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:05",
+      "summary_phrase": "Nick Nurse on the partnership between Joel Embiid and Jaylen Brown",
+      "names_mentioned": [
+        "Joel Embiid",
+        "Jaylen Brown"
+      ],
+      "excerpt": "Jaylen and LeBron are two big bodies coming down the middle of that lane.",
+      "quote": "I feel slightly above average about them. I think that is something we can go to. We got a really big one the other night with Jaylen too, right? It's just a matter, I mean, Jaylen and LeBron are two big bodies coming down the middle of that lane, and if they can get any kind of seal, then we've got to deliver the pass and they're probably scoring or going to the free throw line at the least. I think there's a lot of polish to work on that to get the timing right, the spacing right, the angles of the footwork and the angles of the pass right to make those a little bit smoother.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse on the Embiid and Brown partnership: It is something we can go to. Jaylen and LeBron are two big bodies coming down the middle of that lane and if they can get any kind of seal we have to deliver the pass.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "Jaylen Brown",
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "BOS",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse discusses the need to refine the timing and spacing for the partnership between Joel Embiid, Jaylen Brown, and LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Nurse",
+      "timestamp": "06:15",
+      "summary_phrase": "Nick Nurse on the evolution of Tyrese Maxey's role",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "His role has shifted a little bit for us this year and that one of the things at the top of his priority list is to supply energy.",
+      "quote": "His role has shifted a little bit for us this year and that one of the things at the top of his priority list is to supply energy. He's the youngest of the crew. He's got to have explosive energy at the start of most games. It's a little shift for him because he was playing super huge minutes and super huge ball in his hands, super huge chances last year. So, he doesn't have the ball in his hands as much, so he's got to go get it, he's got to find it, he's got to do all the other things like flying and rebound.",
+      "text_blocks": [],
+      "start_seconds": 375,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nick Nurse on Tyrese Maxey role shift: His role has shifted a little bit. He has to supply energy. He does not have the ball in his hands as much so he has to go get it and do all the other things like flying and rebounding.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse explains how Tyrese Maxey's role has shifted to prioritize energy and rebounding this season.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Nurse",
+      "timestamp": "07:32",
+      "summary_phrase": "Nick Nurse on handling high-pressure games professionally",
+      "names_mentioned": [],
+      "excerpt": "You got some of these nights where you, you know, kind of call them professional wins.",
+      "quote": "You got some of these nights where you, you know, kind of call them professional wins. And these games aren't easy. I know, I know it's you look at the records and all that kind of stuff, but that's they have they have a lot of talent. They play a way that's, you know, a lot of these teams play a way that's a little scary, you know, that's fast and it's furious and lots of threes and, you know, every time you get up four and they bang a couple threes, it's right back down to eight or get up 14 and they bang a couple threes, it's right back down to eight. They're going to keep coming at you, high possession games, all those kind of things. So, they're not they're not easy games, and I'm I'm glad that we handled it professionally tonight.",
+      "text_blocks": [],
+      "start_seconds": 452,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse on handling high pressure games: You have some of these nights where you call them professional wins. These games are not easy. I am glad that we handled it professionally tonight.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse comments on the difficulty of maintaining leads against high-scoring teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nick Nurse",
+      "timestamp": "08:29",
+      "summary_phrase": "Nick Nurse on Tyrese Maxey's growth and confidence",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I just feel like he feels so much more of a confident guy.",
+      "quote": "I think that this year he's again, I'm broken record time, but I just feel like he feels so much more of a confident guy, like that he's going to move the ball, get those things started in the early and throughout the course of the game. It's almost like you almost feel that coming from him right away. I think he comes out and gets the first bucket or two of the fourth and you know it's like here it come here it comes and he just he just started making some great reads, I thought he drove when he should, I thought he got off it when he should. I feel like in an incredibly humble way, he just seems like he knows he's really good, and I don't again, I don't know if I've sensed that until this year.",
+      "text_blocks": [],
+      "start_seconds": 509,
+      "end_seconds": 564,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Nick Nurse on Tyrese Maxey growth: I feel like in an incredibly humble way he just seems like he knows he is really good. I do not know if I have sensed that until this year.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse observes the growth in confidence and decision-making shown by Tyrese Maxey this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Nick Nurse",
+      "timestamp": "09:39",
+      "summary_phrase": "Nick Nurse on the team's 'grab and go' transition strategy",
+      "names_mentioned": [],
+      "excerpt": "We want to play that way. You've seen us play that way quite a bit this year.",
+      "quote": "We want to play that way. You've seen us play that way quite a bit this year. I think that, you know, we kind of call it our grab and go game where whoever gets it needs to get out of there with it and start going and then it's up to everybody else to get ahead of the ball and start running their lanes. We're trying to detract these team from sending so many crashers. You saw a few leak, you know, challenge a arc three and leak out, and you can only do that if you're going to get the ball, the rebounds. Hopefully, it's a weapon that teams are like, we better not send so many crashers.",
+      "text_blocks": [],
+      "start_seconds": 579,
+      "end_seconds": 625,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse on the grab and go transition strategy: Whoever gets it needs to get out of there with it and start going. We are trying to detract teams from sending so many crashers.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nick Nurse describes the team's grab and go transition strategy intended to discourage opponents from crashing the offensive glass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Nick Nurse",
+      "timestamp": "10:33",
+      "summary_phrase": "Nick Nurse on the rarity of long-ball passing skills",
+      "names_mentioned": [
+        "LeBron James",
+        "Nikola Jokic",
+        "Kevin Love"
+      ],
+      "excerpt": "It seems like not a lot of guys in the league do that on a regular basis.",
+      "quote": "It seems like not a lot of guys in the league do that on a regular basis, maybe him and Jokic perhaps. Kevin Love used to be really good at them too. The ability to deliver those really is again, being able to see the whole floor and like you said, there's only a couple guys that do it and both those guys are right up there with the best passers in the league, if not the best passers in the league. We've got some explosion to get down the floor and receive some of those. We've got some finishers that can get on the other end of those.",
+      "text_blocks": [],
+      "start_seconds": 633,
+      "end_seconds": 675,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse on long ball passing: It seems like not a lot of guys in the league do that on a regular basis. Maybe him and Jokic perhaps. Those guys are right up there with the best passers in the league.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Kevin Love"
+        ],
+        "teams": [
+          "PHI",
+          "DEN",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Nick Nurse compares the long-ball passing skills of certain players to those of Nikola Jokic and Kevin Love.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QVOwzm4j5-c",
+  "url": "https://www.youtube.com/watch?v=QVOwzm4j5-c",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-03T05:07:24Z",
+  "duration_seconds": 712,
+  "processed_at": "2026-11-03T08:03:10Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

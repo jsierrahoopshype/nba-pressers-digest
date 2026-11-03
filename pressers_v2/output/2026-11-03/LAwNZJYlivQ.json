@@ -1,0 +1,175 @@
+{
+  "video_title": "Hawks vs. Pacers Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:05",
+      "summary_phrase": "Quin Snyder on the challenges of playing the Pacers",
+      "names_mentioned": [],
+      "excerpt": "we knew we were going to be in a dogfight type game",
+      "quote": "It's a really good win. We knew we were going to be in a dogfight type game. They're tough, they give them size and rim protection. We weren't very good at the rim, and they made plays. When we got a 10-12 point lead at one point, that's when hopefully you can have a chance to break the game open and we were never able to do that.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder on the Hawks win over the Pacers: We knew we were going to be in a dogfight type game. They are tough and they give them size and rim protection.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the challenges of playing against the Pacers following the Hawks' victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:52",
+      "summary_phrase": "Quin Snyder on the Pacers' injury situation",
+      "names_mentioned": [
+        "Jalen",
+        "Jock",
+        "Kingston"
+      ],
+      "excerpt": "hopefully the Pacers can get healthy",
+      "quote": "Hopefully the Pacers can get healthy. I know that's really hard. We had a little bit of that tonight with not having Jalen and Jock and Kingston, but I thought our guys competed. We missed a lot of layups, and some of that was we were playing against a team that had size.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder notes the Hawks were shorthanded against Indiana: We had a little bit of that tonight with not having Jalen and Jock and Kingston but I thought our guys competed.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson",
+          "Jock Landale",
+          "Kingston"
+        ],
+        "teams": [
+          "ATL",
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Quin Snyder comments on the injury situation for both the Pacers and the Hawks after the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:19",
+      "summary_phrase": "Quin Snyder on Onyeka Okongwu's performance",
+      "names_mentioned": [
+        "Onyeka Okongwu",
+        "CJ"
+      ],
+      "excerpt": "the thing about Onyeka is he's still playing on the defensive end too",
+      "quote": "The thing about Onyeka is he's still playing on the defensive end too. He seems to make plays on both ends of the floor and he's playing with so much confidence. I thought CJ did a really good job of finding him late, and I like the shots that CJ was getting too. You just have certain nights that the ball won't cooperate, but as you said, Onyeka hit big shots for us that seemed like the whole game.",
+      "verbatim_original_language": "",
+      "start_seconds": 79,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder praises Onyeka Okongwu for his play against the Pacers: He seems to make plays on both ends of the floor and he is playing with so much confidence.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Onyeka Okongwu",
+          "CJ"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder praises the performance and confidence of Onyeka Okongwu during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:11",
+      "summary_phrase": "Quin Snyder on the importance of every win",
+      "names_mentioned": [],
+      "excerpt": "this league, every win is a good win",
+      "quote": "I think as you know Bob, this league, every win is a good win and people say that because it's true. Tonight was one of those nights and I thought when they did make the late run, we didn't get rattled. We didn't do everything right, Pacers made some plays. We have a stretch where we put them on the foul line and that makes it really hard because we can't get any force offensively or thrust I should say.",
+      "verbatim_original_language": "",
+      "start_seconds": 131,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Quin Snyder on the Hawks composure late in the game: When they did make the late run we did not get rattled.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Quin Snyder reflects on the team's composure during the Pacers' late run in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:57",
+      "summary_phrase": "Quin Snyder on the need to improve paint defense",
+      "names_mentioned": [],
+      "excerpt": "the paint is something that we've got to shore up one way or the other",
+      "quote": "The paint is something that we've got to shore up one way or the other, where you're kind of picking your poison at times, but when there's shooters on the court, that's probably the biggest thing for us right now defensively is just not doing a better job protecting the paint because it's going to be really difficult to win when teams are scoring in the paint like these guys did and some other teams have too.",
+      "verbatim_original_language": "",
+      "start_seconds": 177,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Quin Snyder identifies a major defensive issue for the Hawks: The paint is something that we have to shore up. It is going to be really difficult to win when teams are scoring in the paint like these guys did.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder addresses the need for the Hawks to improve their defensive protection of the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "LAwNZJYlivQ",
+  "url": "https://www.youtube.com/watch?v=LAwNZJYlivQ",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-03T03:29:48Z",
+  "duration_seconds": 206,
+  "processed_at": "2026-11-03T08:05:02Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

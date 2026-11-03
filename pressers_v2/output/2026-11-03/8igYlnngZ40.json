@@ -1,0 +1,334 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. WASHINGTON WIZARDS | COACH SWEENEY, DESMOND BANE & FRANZ WAGNER",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Desmond Bane",
+    "Franz Wagner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:10",
+      "summary_phrase": "Coach Sweeney on team defense and Anthony Davis's impact",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "Anthony Davis is a problem. Showed it tonight, was very, very efficient.",
+      "quote": "They definitely impacted it. Credit to their team defense, they did a good job, especially in that second half, third quarter. I thought we got some good looks from three that we missed. I think we were one for 11 in the third quarter from three. On the other end, Anthony Davis is a problem. Showed it tonight, was very, very efficient. We did a little bit better job in the second half on him, but just throughout the course of the game, he impacted it a lot on both ends.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Sweeney on Anthony Davis after the loss: Anthony Davis is a problem. He showed it tonight and was very efficient. We did a little bit better job in the second half on him but throughout the game he impacted it a lot on both ends.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "ORL",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the impact of Anthony Davis on the game during his postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:03",
+      "summary_phrase": "Coach Sweeney on team resilience despite injuries",
+      "names_mentioned": [],
+      "excerpt": "I thought the guys did a really good job tonight competing.",
+      "quote": "I thought the guys did a really good job tonight competing. I thought they did a great job trying to stick to it throughout the course of the game. We cut the lead in the fourth quarter down to three or four there a couple times, just couldn't quite get over the hump. I thought those guys did a great job of trying to battle through it on a back-to-back, tough schedule type situation against a team that's big and strong and got some good players.",
+      "verbatim_original_language": "",
+      "start_seconds": 63,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney praised the team for competing on a back to back despite the loss: I thought those guys did a great job of trying to battle through it on a back to back tough schedule type situation against a team that is big and strong.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Sweeney comments on his team's effort and resilience while playing through injuries on a back-to-back schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:48",
+      "summary_phrase": "Coach Sweeney on offensive strategy and attacking the rim",
+      "names_mentioned": [
+        "Tristan",
+        "Dez"
+      ],
+      "excerpt": "We always want to attack the rim. They did a good job of trying to cut that off.",
+      "quote": "We always want to attack the rim. They did a good job of trying to cut that off. Davis at the rim and multiple guys trying to be in there. I think a number of the good looks were from a guy like Tristan coming into Davis shooting 50% on seven attempts. A guy that we all know can shoot the basketball, didn't quite have as good a game today, and I thought he got some great looks and he's going to knock them down the next time. Same with Dez. Nothing changes in terms of how we want to play. We want to attack the paint and then look to make the right decision from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 108,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney on the offensive approach: Nothing changes in terms of how we want to play. We want to attack the paint and then look to make the right decision from there.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis",
+          "Tristan",
+          "Desmond Bane"
+        ],
+        "teams": [
+          "ORL",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney explains the team's offensive strategy regarding attacking the rim against Anthony Davis and assesses recent player performances.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:46",
+      "summary_phrase": "Coach Sweeney on Jace Richardson's performance",
+      "names_mentioned": [
+        "Jace Richardson"
+      ],
+      "excerpt": "I thought he did a great job of providing energy throughout the course of the game.",
+      "quote": "I thought he did a great job of providing energy throughout the course of the game. Definitely had great effort and really tried to help connect the group when he was out there and he's going to have to keep building on that.",
+      "verbatim_original_language": "",
+      "start_seconds": 166,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coach Sweeney on Jace Richardson: I thought he did a great job of providing energy throughout the course of the game. Definitely had great effort and really tried to help connect the group when he was out there.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jace Richardson"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises the energy and effort provided by Jace Richardson during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Sweeney",
+      "timestamp": "03:30",
+      "summary_phrase": "Coach Sweeney on team spacing and playmaking",
+      "names_mentioned": [],
+      "excerpt": "We want to do a great job of attacking, try to get to the rim as best we can.",
+      "quote": "Some of it is trying to get that spacing in the right spots and then do a great job with our screening, creating advantages. If a guy has 24 points and six assists and we're saying he struggled on 10 of 18 shooting, that tells you how good a player he is. He did a good job throughout the course of the game a number of times really trying to find his teammates and play the right way. He's going to keep doing that and keep building on it. Yesterday he had a tough night and he had 12 assists. He's doing a good job in a lot of areas and he knows he can get better, we know we can get better, and as a group, we're going to keep working on doing that.",
+      "verbatim_original_language": "",
+      "start_seconds": 210,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coach Sweeney on team playmaking: He is doing a good job in a lot of areas and he knows he can get better, we know we can get better, and as a group, we are going to keep working on doing that.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's offensive spacing and the playmaking performance of a specific player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Desmond Bane",
+      "speakers": [
+        "Desmond Bane",
+        "Franz Wagner"
+      ],
+      "timestamp": "04:08",
+      "summary_phrase": "Desmond Bane and Franz Wagner on offensive execution",
+      "names_mentioned": [],
+      "excerpt": "I think execution offensively. Like you said, we had some opportunities and just weren't crisp.",
+      "text_blocks": [
+        {
+          "speaker": "Desmond Bane",
+          "text": "I think execution offensively. Like you said, we had some opportunities and just weren't crisp with what we were trying to do at times. A couple turnovers, a couple miscommunications, and not being in the right spots at the right time. Things we can clean up, things we got to clean up. But yeah, give them credit, they made the plays down the stretch and we didn't."
+        },
+        {
+          "speaker": "Franz Wagner",
+          "text": "I mean we got a couple guys out. I think we're figuring out how we want to play and obviously playing a new system as well. I think what would help a little bit, playing a little bit faster, getting into our stuff a little quicker. Also I thought we missed a couple good looks there in the third. Yeah, just got to make sure that we keep playing with confidence. It's not going to be a perfect game."
+        }
+      ],
+      "start_seconds": 248,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Desmond Bane on the offensive struggles: We had some opportunities and just were not crisp with what we were trying to do at times. A couple turnovers, a couple miscommunications, and not being in the right spots at the right time.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses the team's offensive execution and the need for improvement while playing with a depleted roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Desmond Bane",
+      "timestamp": "06:45",
+      "summary_phrase": "Desmond Bane on his growth as a playmaker",
+      "names_mentioned": [
+        "Jace"
+      ],
+      "excerpt": "I think Jace has been playing great and we need him to keep being aggressive.",
+      "quote": "I think Jace has been playing great and we need him to keep being aggressive, you know what I mean, especially as a ball handler. Obviously in this situation we got a couple guys out, so I think he can credit a lot of stuff for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 405,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Desmond Bane on Jace Richardson: I think Jace has been playing great and we need him to keep being aggressive, especially as a ball handler. Obviously in this situation we got a couple guys out.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jace Richardson"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane highlights the aggressive play of Jace Richardson while the team is dealing with player absences.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Desmond Bane",
+      "timestamp": "07:14",
+      "summary_phrase": "Desmond Bane on team frustration and patience",
+      "names_mentioned": [
+        "Franz"
+      ],
+      "excerpt": "Can't rush the process, stay with it, trust it, and good things will come.",
+      "quote": "I mean you want to win every game at home, every game on the road, but that's just not how the season goes. There's a lot of ball left and like Franz said, we're going to continue to get better and as we do that, the results will come. So can't rush the process, stay with it, trust it, and good things will come.",
+      "verbatim_original_language": "",
+      "start_seconds": 434,
+      "end_seconds": 459,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Desmond Bane on the team's mindset: You want to win every game at home, every game on the road, but that is just not how the season goes. Can not rush the process, stay with it, trust it, and good things will come.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane reflects on the team's patience and mindset following a loss, referencing comments made by Franz Wagner.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Desmond Bane",
+      "timestamp": "08:03",
+      "summary_phrase": "Desmond Bane on his development as a playmaker",
+      "names_mentioned": [],
+      "excerpt": "He's always been a guy that draws a ton of attention when he has the ball in his hands.",
+      "quote": "I think it's great. He's always been a guy that draws a ton of attention when he has the ball in his hands and when he doesn't have the ball in his hands. And I think with some of the things we're doing offensively, spacing-wise, we're giving him outlets and he knows where a lot of his reads are and where guys are. It's making his life easier as far as making decisions, but he's doing a tremendous job. He's carrying a big burden right now with so many guys out and he's doing a hell of a job.",
+      "verbatim_original_language": "",
+      "start_seconds": 483,
+      "end_seconds": 521,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Desmond Bane on the team's offensive development: He is carrying a big burden right now with so many guys out and he is doing a hell of a job.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses the offensive burden and playmaking responsibilities of a teammate while the team is shorthanded.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Franz Wagner",
+      "timestamp": "09:13",
+      "summary_phrase": "Franz Wagner on his role and team responsibility",
+      "names_mentioned": [],
+      "excerpt": "I think everybody got their job on the team and I think that's my job.",
+      "quote": "I think everybody got their job on the team and I think that's my job, I think it's Dez's job, not to create some advantages for our team. My job is not necessarily more important than the next guy's job, so I just got to do my part and help the team win. I think it's a challenge, but if you want to be a great player in this league, you can't shy away from that type of stuff. We're going to figure this thing out as a group and hopefully figure this thing out on the road here.",
+      "verbatim_original_language": "",
+      "start_seconds": 553,
+      "end_seconds": 591,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Franz Wagner on his role: My job is not necessarily more important than the next guy's job, so I just got to do my part and help the team win. I think it is a challenge, but if you want to be a great player you can not shy away from that.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Desmond Bane"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner discusses his role and the collective responsibility of the team to improve during a challenging stretch.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "8igYlnngZ40",
+  "url": "https://www.youtube.com/watch?v=8igYlnngZ40",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-03T03:31:27Z",
+  "duration_seconds": 597,
+  "processed_at": "2026-11-03T08:05:13Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

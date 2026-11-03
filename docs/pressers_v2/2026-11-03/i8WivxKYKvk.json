@@ -1,0 +1,105 @@
+{
+  "video_title": "Jaylen Wells Press Conference | Grizzlies vs. Pelicans",
+  "speakers_seen": [
+    "Jaylen Wells",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaylen Wells",
+      "timestamp": "00:17",
+      "summary_phrase": "Jaylen Wells on the Grizzlies' identity and rebounding struggles",
+      "names_mentioned": [],
+      "excerpt": "I think we should have never been in that position to to begin with.",
+      "quote": "I think it shows our fight. I think we should have never been in that position to to begin with. A lot of identity things that we just haven't shown through the first five games that should just never happen this game, you know, rebounding, things like that. But obviously, we didn't give up, kept fighting. So, there's a good and the bad with that.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaylen Wells says the Grizzlies need to address their identity issues after a tough loss to the Pelicans. He noted that rebounding and lack of focus are things that should never happen for this team.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Jaylen Wells discusses the team's performance and rebounding struggles following the loss to the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaylen Wells",
+      "timestamp": "01:00",
+      "summary_phrase": "Jaylen Wells on the team's leadership and response to the loss",
+      "names_mentioned": [],
+      "excerpt": "I think he's such a positive and and motivating guy in the locker room.",
+      "quote": "I think we'll respond well. We have really good leaders. Shout out to Stu. I think he's such a positive and and motivating guy in the locker room. So, I think we'll respond well. We'll just go back at the film, go back in the film and we know we weren't going to go 82 and 0 obviously, but this is one of those games you don't want to drop. So, I think the best part and the worst part is that a lot of the things that we could have cleaned up was things that we we usually do and it's part of our identity.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylen Wells credits teammate Stu for being a positive leader in the locker room and expects the Grizzlies to respond well to their recent loss after reviewing the film.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stu"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Wells praises his teammate Stu for his leadership and discusses how the Grizzlies will respond to their recent loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaylen Wells",
+      "timestamp": "02:05",
+      "summary_phrase": "Jaylen Wells identifies rebounding and pace as areas for improvement",
+      "names_mentioned": [],
+      "excerpt": "Rebounding, I think that that really hurt us, especially at the end of the game.",
+      "quote": "First of all, rebounding. Rebounding, I think that that really hurt us, especially at the end of the game. And then with far as our pace, I think it was up and down. You know, we had times where we're running out fast, sometimes we're getting into our actions too slow. So, rebounding, pace, I feel like the first half maybe, and then there was times in the second half where it just felt like they were outworking us, being more physical, and that can't happen.",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylen Wells identifies rebounding and inconsistent pace as the primary reasons for the Grizzlies loss. He admitted that at times it felt like the Pelicans were simply outworking and being more physical than Memphis.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Jaylen Wells identifies rebounding and pace as specific areas where the team needs to improve after the game against the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "i8WivxKYKvk",
+  "url": "https://www.youtube.com/watch?v=i8WivxKYKvk",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-03T04:44:31Z",
+  "duration_seconds": 153,
+  "processed_at": "2026-11-03T08:03:20Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

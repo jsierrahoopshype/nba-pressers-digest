@@ -1,0 +1,201 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, Anthony Davis, and AJ Dybantsa | 11.2.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Anthony Davis",
+    "AJ Dybantsa"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on the team's defensive intensity in the second half",
+      "names_mentioned": [],
+      "excerpt": "it was really the defensive effort in the second half.",
+      "quote": "Obviously terrific second half defense, 39 points in the third quarter. I thought we really upped our physicality, contested shots. You saw us flying around, finishing possessions, and then I thought we really executed well down the stretch, but it was really the defensive effort in the second half.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe credited the Wizards second half turnaround to a massive increase in defensive intensity and physicality saying the team really upped our physicality and contested shots to close out the game",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the team's improved defensive performance during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:33",
+      "summary_phrase": "Brian Keefe on AJ Dybantsa's unique passing and playmaking skills",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "we're definitely going to do that because of his unique skills that he has with his passing.",
+      "quote": "You asked me the question before the game about putting the ball in his hands and we're definitely going to do that because of his unique skills that he has with his passing, his ability to get to certain spots. He bailed us out in some tough situations against the shot clock. There were some big shots, so credit to him, really nice, well done tonight.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brian Keefe says the team will continue to put the ball in AJ Dybantsa hands because of his unique skills with his passing and ability to get to certain spots",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe explains his decision to utilize AJ Dybantsa as a primary playmaker due to his unique passing skills.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Anthony Davis",
+      "timestamp": "04:36",
+      "summary_phrase": "Anthony Davis on the team's need for physical defensive play",
+      "names_mentioned": [],
+      "excerpt": "we wanted to come out in the second half and be a little bit more physical.",
+      "quote": "We know what they like to do, which is to guard hard at strengths, and we wasn't being physical. We were kind of off the ball a little bit. That's how they started off, shooting the ball from three very well. So we wanted to come out in the second half and be a little bit more physical, redirect the screens and then force them to set the screens, which allows us to switch easier.",
+      "text_blocks": [],
+      "start_seconds": 276,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anthony Davis on the defensive adjustment in the second half We wanted to come out and be a little bit more physical redirect the screens and then force them to set the screens",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis explains the team's tactical adjustment to play more physically on defense in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Anthony Davis",
+      "timestamp": "06:26",
+      "summary_phrase": "Anthony Davis on AJ Dybantsa's transition play and finishing ability",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "the way he's able to get downhill, when we get the rebounds we're trying to kick it ahead",
+      "quote": "The way he's able to get downhill, when we get the rebounds we're trying to kick it ahead to him so he can get out in transition and do what he do best. He's finishing, he's getting fouled, and then even when he's in the half court, he's playing phenomenal basketball right now, so we want to continue to feed him and let him do what he do best.",
+      "text_blocks": [],
+      "start_seconds": 386,
+      "end_seconds": 413,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Anthony Davis says the team is prioritizing getting the ball to AJ Dybantsa in transition because he is playing phenomenal basketball right now",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis praises AJ Dybantsa's transition play and finishing ability after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "08:21",
+      "summary_phrase": "AJ Dybantsa on the team's defensive communication and rebounding focus",
+      "names_mentioned": [],
+      "excerpt": "just buying in defensively and just securing rebounds.",
+      "quote": "Just buying in defensively and just securing rebounds. Like we live on the weak side plenty of times, getting the early stick hand, fighting, doing the screening and communicating. Communication with Anthony Davis in the second quarter was really good. Also communicating when to switch and when to stay solid.",
+      "text_blocks": [],
+      "start_seconds": 501,
+      "end_seconds": 520,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "AJ Dybantsa highlights the importance of defensive communication and rebounding noting that his chemistry with Anthony Davis in the second quarter was really good",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa highlights the importance of defensive communication and his collaboration with Anthony Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "11:11",
+      "summary_phrase": "AJ Dybantsa on team accountability and veteran leadership",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Trey Young"
+      ],
+      "excerpt": "Trey Young spoke up like, yo, we need to do this, we need to do that.",
+      "quote": "We came in here, and Trey Young spoke up like, yo, we need to do this, we need to do that. Like we need to shift our focus on Anthony Davis. Like obviously he's one of their best players, we can't just give up wide open threes. They were agreeing, so it's kind of just like, you know, conversation. It doesn't always have to come from the best, most time it is, but us young guys have IQ and we can pitch in too.",
+      "text_blocks": [],
+      "start_seconds": 671,
+      "end_seconds": 700,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "AJ Dybantsa on team accountability and leadership It does not always have to come from the best most time it is but us young guys have IQ and we can pitch in too",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Young",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "AJ Dybantsa describes a locker room conversation where Trey Young emphasized the need to focus defensively on Anthony Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "j_U7jNQBAHQ",
+  "url": "https://www.youtube.com/watch?v=j_U7jNQBAHQ",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-03T04:42:29Z",
+  "duration_seconds": 700,
+  "processed_at": "2026-11-03T08:03:34Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

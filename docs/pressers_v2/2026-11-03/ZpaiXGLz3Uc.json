@@ -1,0 +1,327 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Los Angeles Clippers | November 02, 2026",
+  "speakers_seen": [
+    "Scottie Barnes",
+    "Darko Rajaković"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scottie Barnes",
+      "timestamp": "00:06",
+      "summary_phrase": "Scottie Barnes on his offensive mindset and aggressive play",
+      "names_mentioned": [],
+      "excerpt": "just being aggressive, I think was the main thing",
+      "quote": "I would probably just say my mindset, being in attack mode, trying to get downhill, touch the paint, get to my midrange, find my teammates. Just being aggressive, I think was the main thing.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes on his approach to the game: My mindset is being in attack mode, trying to get downhill, touch the paint, get to my midrange, and find my teammates.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses his offensive mindset and aggressive play during the post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scottie Barnes",
+      "timestamp": "00:23",
+      "summary_phrase": "Scottie Barnes praises defensive efforts of teammates",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Scottie Barnes",
+        "Chris Boucher",
+        "Jamal Murray"
+      ],
+      "excerpt": "defensively they were like really big. Obviously everybody knows that's what they bring to the table",
+      "quote": "I would probably just say our defense. I just want to shout out Jakob Poeltl, Chris Boucher, and Jamal Murray. Defensively they were like really big. Obviously everybody knows that's what they bring to the table, our whole team, but specifically those guys, I want to shout them out. They did a great job. Darius Garland is a tough cover, and they did a really good job making his life a little bit harder.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Scottie Barnes credits Jakob Poeltl, Chris Boucher, and Jamal Murray for their defensive work against Darius Garland: They did a really good job making his life a little bit harder.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl",
+          "Chris Boucher",
+          "Jamal Murray",
+          "Darius Garland"
+        ],
+        "teams": [
+          "TOR",
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes praises the defensive efforts of his teammates and their work against Darius Garland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "01:02",
+      "summary_phrase": "Scottie Barnes on overcoming a difficult game flow",
+      "names_mentioned": [],
+      "excerpt": "sometimes the game is just not going your way and you got to make it go your way",
+      "quote": "Sometimes the game is just not going your way and you got to make it go your way with defense, with stops, with rebounding, taking care of the ball. Sometimes the game is literally just whatever you do, it don't go your way, whether that's missed shots or whatever, but you got to just stick with it. I think sports teaches you that a lot, when it's not going your way, you got to make it go your way.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes on handling tough game flows: Sometimes the game is just not going your way and you got to make it go your way with defense, with stops, with rebounding, taking care of the ball.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains how the team maintains focus when the game flow is not going their way.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scottie Barnes",
+      "timestamp": "01:52",
+      "summary_phrase": "Scottie Barnes on exploiting defensive mismatches",
+      "names_mentioned": [
+        "Chris Boucher"
+      ],
+      "excerpt": "just trying to take advantage of mismatches where we could and just get into the paint",
+      "quote": "Just trying to take advantage of mismatches where we could and just get into the paint. And from there, once you get two on the ball, you can score the ball or make a play for somebody else who is wide open.",
+      "text_blocks": [],
+      "start_seconds": 112,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Scottie Barnes on his offensive strategy: Just trying to take advantage of mismatches where we could and just get into the paint. Once you get two on the ball, you can score or make a play for somebody else.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes describes the team strategy for exploiting defensive mismatches and creating scoring opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "timestamp": "02:37",
+      "summary_phrase": "Scottie Barnes on team resilience during halftime",
+      "names_mentioned": [
+        "Darko Rajaković"
+      ],
+      "excerpt": "it's very easy to fragment as a team when you're losing and the results are not showing",
+      "quote": "At halftime really I was just telling the guys, stay with it. It's very easy to fragment as a team when you're losing and the results are not showing right away. So I was just telling our team, stay with it and in the timeouts we need to keep communicating, finding ways where we can be better. That's pretty much what I was saying, but the whole team really was echoing that and Darko Rajaković, he didn't really show any film during halftime. It was more just our spirit, togetherness.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Scottie Barnes shares what he told the team at halftime: It is very easy to fragment as a team when you are losing and the results are not showing right away. I was just telling our team, stay with it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Darko Rajaković"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes shares his message to teammates at halftime and mentions the approach taken by head coach Darko Rajaković.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajaković",
+      "timestamp": "03:32",
+      "summary_phrase": "Darko Rajaković credits Clippers' speed and offensive execution",
+      "names_mentioned": [],
+      "excerpt": "they were really moving with great speed, it was really hard to catch up with them",
+      "quote": "First part of the game, we got to give credit to the Clippers as well. They did a really good job, they were really moving with great speed, it was really hard to catch up with them. They made a lot of shots, they created a lot of good shots.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darko Rajakovic on the Clippers: They did a really good job, they were really moving with great speed, it was really hard to catch up with them.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Head coach Darko Rajaković credits the Los Angeles Clippers for their speed and offensive execution early in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajaković",
+      "timestamp": "04:55",
+      "summary_phrase": "Darko Rajaković on team stagnation and offensive pace",
+      "names_mentioned": [],
+      "excerpt": "sometimes we get a little bit stagnant offensively that we don't play with extra pop",
+      "quote": "Sometimes we get a little bit stagnant offensively that we don't play with extra pop and energy that we need. We need to be the team that's going to be always step faster than the opponents so we can touch the paint, so we can playmake, so we can do all of those things.",
+      "text_blocks": [],
+      "start_seconds": 295,
+      "end_seconds": 316,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on offensive struggles: Sometimes we get a little bit stagnant offensively that we do not play with extra pop and energy that we need. We need to be the team that is going to be always step faster than the opponents.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajaković addresses the team's offensive stagnation and the need for more energy and pace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajaković",
+      "timestamp": "06:45",
+      "summary_phrase": "Darko Rajaković on Kawhi Leonard's impact and adjustment period",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "he loves this team, he loves his teammates, he loves to be around them",
+      "quote": "It's great to get every win for him. He loves this team, he loves his teammates, he loves to be around them and it means a lot to him and he sees that the guys do well. He's just starting the season with us, there's going to be a period of him getting adjusted to the team and his teammates to him as well, but he's a high-level player that brings a lot of different stuff for us.",
+      "text_blocks": [],
+      "start_seconds": 405,
+      "end_seconds": 435,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic on Kawhi Leonard: He is just starting the season with us, there is going to be a period of him getting adjusted to the team and his teammates to him as well, but he is a high level player.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajaković discusses Kawhi Leonard's integration into the team and his adjustment period at the start of the season.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajaković",
+      "timestamp": "07:46",
+      "summary_phrase": "Darko Rajaković on the reality of team performance",
+      "names_mentioned": [],
+      "excerpt": "as a coach, as a fan, all of us, we would like game always to be perfect",
+      "quote": "As a coach, as a fan, all of us, we would like game always to be perfect, that everything is going our way, that all the guys are constantly contributing. I'm the first one to be, we need every player, we need everybody to play well all the time, but that's not the reality of the game for sure.",
+      "text_blocks": [],
+      "start_seconds": 466,
+      "end_seconds": 489,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Darko Rajakovic on team expectations: As a coach, as a fan, all of us, we would like game always to be perfect, but that is not the reality of the game for sure.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajaković reflects on the reality of team performance and the difficulty of maintaining consistent play from all players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajaković",
+      "timestamp": "08:56",
+      "summary_phrase": "Darko Rajaković on Scottie Barnes' defensive leadership",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Darius Garland",
+        "Jakob Poeltl",
+        "Jamal Murray"
+      ],
+      "excerpt": "Scottie Barnes loves those challenges. He loves to guard the best players",
+      "quote": "We did a lot of different stuff there, a lot of different players guarding Darius Garland. He's the head of the snake of our team and we needed to have Jakob Poeltl and Jamal Murray and Scottie Barnes down the stretch. Scottie Barnes loves those challenges. He loves to guard the best players, he loves to impose his will defensively. I thought that was high-level defensive performance from Scottie Barnes tonight.",
+      "text_blocks": [],
+      "start_seconds": 536,
+      "end_seconds": 563,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic praises Scottie Barnes: Scottie Barnes loves those challenges. He loves to guard the best players, he loves to impose his will defensively. I thought that was high level defensive performance from Scottie Barnes tonight.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland",
+          "Jakob Poeltl",
+          "Jamal Murray",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR",
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajaković praises Scottie Barnes for his defensive leadership and performance against Darius Garland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ZpaiXGLz3Uc",
+  "url": "https://www.youtube.com/watch?v=ZpaiXGLz3Uc",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-03T07:47:27Z",
+  "duration_seconds": 567,
+  "processed_at": "2026-11-03T07:59:59Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

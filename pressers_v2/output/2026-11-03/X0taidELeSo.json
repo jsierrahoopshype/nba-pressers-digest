@@ -1,0 +1,192 @@
+{
+  "video_title": "“I Love The Pace That The Team Was Playing With Tonight.” | LaMelo Ball Postgame Sound | 11.2.26",
+  "speakers_seen": [
+    "LaMelo Ball",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:23",
+      "summary_phrase": "LaMelo Ball on managing foul trouble during games",
+      "names_mentioned": [],
+      "excerpt": "I'm not trying to foul. If you can see a little one, they stop, go, so I'm like, it's just a little game in between the games.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "He's talked to you a little bit about the fouls. How are you working through that?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I mean, yeah, obviously I know, but I'm not trying to foul. If you can see a little one, they stop, go, so I'm like, it's just a little game in between the games, so pretty much just playing both of those and not fouling."
+        }
+      ],
+      "start_seconds": 23,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "LaMelo Ball on managing foul trouble: I am not trying to foul. It is just a little game in between the games, so pretty much just playing both of those and not fouling.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses his approach to avoiding foul trouble during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:44",
+      "summary_phrase": "LaMelo Ball on the impact of Trey Lyles",
+      "names_mentioned": [
+        "Trey Lyles"
+      ],
+      "excerpt": "Whenever you have that on the floor, it just really make it easier.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How big has Trey Lyles been?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Trey, yeah, I love Trey. He know how to play basketball. I tell him every day, you one of them ones who know how to play basketball, so whenever you have that on the floor, it just really make it easier."
+        }
+      ],
+      "start_seconds": 44,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball on Trey Lyles: I love Trey. He knows how to play basketball. I tell him every day, you are one of them ones who know how to play basketball, so whenever you have that on the floor, it just really makes it easier.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Lyles"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball praises Trey Lyles for his basketball IQ and impact on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:57",
+      "summary_phrase": "LaMelo Ball on his chemistry with Ayo Dosunmu",
+      "names_mentioned": [
+        "Ayo Dosunmu"
+      ],
+      "excerpt": "Whenever I see him in an open lane, pretty much I try to get him going.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What's working between the two of you?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Pretty much just chemistry. I like to play fast and he eat faster than no other, so he like a track star out there. So whenever I see him in an open lane, pretty much I try to get him going."
+        }
+      ],
+      "start_seconds": 57,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball on his chemistry with Ayo Dosunmu: I like to play fast and he eats faster than no other, so he is like a track star out there. Whenever I see him in an open lane, I try to get him going.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ayo Dosunmu"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball explains his chemistry with teammate Ayo Dosunmu and their fast-paced play style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:16",
+      "summary_phrase": "LaMelo Ball on Rudy Gobert's behind-the-head pass",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "That's all big Rudy, man. Rudy got his little guard skills, getting into it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Did you know Rudy had that behind the head pass?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "That dime? Yeah, yeah. That was juicy. That was all big Rudy, man. Rudy got his little guard skills, getting into it."
+        }
+      ],
+      "start_seconds": 76,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on Rudy Gobert's behind the head pass: That was juicy. That was all big Rudy. Rudy has his little guard skills, getting into it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball reacts to a behind-the-head pass made by teammate Rudy Gobert during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "X0taidELeSo",
+  "url": "https://www.youtube.com/watch?v=X0taidELeSo",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-03T05:20:11Z",
+  "duration_seconds": 140,
+  "processed_at": "2026-11-03T08:02:21Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

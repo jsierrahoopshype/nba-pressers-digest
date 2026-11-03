@@ -1,0 +1,181 @@
+{
+  "video_title": "Immanuel Quickley | Post Game vs Los Angeles Clippers | November 02, 2026",
+  "speakers_seen": [
+    "Immanuel Quickley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:06",
+      "summary_phrase": "Immanuel Quickley on his aggressive offensive mindset during the game",
+      "names_mentioned": [],
+      "excerpt": "trying to get downhill, touch the paint, get to my midrange, find my teammates, just being aggressive",
+      "quote": "I would probably just say my mindset, being in attack mode, trying to get downhill, touch the paint, get to my midrange, find my teammates, just being aggressive, I think was the main thing.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Immanuel Quickley says his focus against the Clippers was being in attack mode and trying to get downhill to touch the paint and find his teammates.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses his personal offensive approach during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:23",
+      "summary_phrase": "Immanuel Quickley praises Toronto's defensive effort against the Clippers",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Scottie Barnes",
+        "Christian Koloko",
+        "Jamal Murray",
+        "Darius Garland"
+      ],
+      "excerpt": "defensively they were like really big. Obviously everybody knows that's what they bring to the table",
+      "quote": "I would probably just say our defense. Just want to shout out Jakob Poeltl, Scottie Barnes, Christian Koloko, Jamal Murray. Defensively they were like really big. Obviously everybody knows that's what they bring to the table, our whole team, but specifically those guys I want to shout them out. They did a great job. Darius Garland is a tough cover, and they did a really good job making his life a little bit harder.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Immanuel Quickley credits Jakob Poeltl, Scottie Barnes, Christian Koloko, and Jamal Murray for their defensive effort in making life difficult for Darius Garland.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl",
+          "Scottie Barnes",
+          "Christian Koloko",
+          "Jamal Murray",
+          "Darius Garland"
+        ],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley praises his teammates for their defensive effort against the Clippers and Darius Garland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "01:01",
+      "summary_phrase": "Immanuel Quickley on maintaining composure when games don't go as planned",
+      "names_mentioned": [],
+      "excerpt": "sometimes the game is just not going your way and you got to make it go your way",
+      "quote": "Sometimes the game is just not going your way and you got to make it go your way with defense, with stops, with rebounding, taking care of the ball. Sometimes the game is literally just whatever you do, it don't go your way, whether that's missed shots or whatever, but you got to just stick with it. I think sports teaches you that a lot, when it's not going your way you got to make it go your way.",
+      "text_blocks": [],
+      "start_seconds": 61,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "When shots are not falling, Immanuel Quickley says the team has to make the game go their way through defense, stops, and rebounding.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley explains how the team maintains composure when games are not going their way.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "01:51",
+      "summary_phrase": "Immanuel Quickley on exploiting defensive mismatches and attacking the paint",
+      "names_mentioned": [
+        "Chris Dunn"
+      ],
+      "excerpt": "just trying to take advantage of mismatches where we could and just get into the paint",
+      "quote": "Just trying to take advantage of mismatches where we could and just get into the paint. From there, once you get two on the ball, you can score the ball or make a play for somebody else who is wide open. We knew Chris Dunn was a great defender, we tried to stay away from him as much as possible. He was getting steals all over the place, he is really disruptive.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Immanuel Quickley explains the Raptors game plan to avoid Chris Dunn, calling the defender really disruptive and noting he was getting steals all over the place.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Dunn"
+        ],
+        "teams": [
+          "TOR",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley describes the team's strategy to attack the paint while avoiding defensive pressure from Chris Dunn.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "02:37",
+      "summary_phrase": "Immanuel Quickley on the team's mindset shift during halftime",
+      "names_mentioned": [
+        "Darko Rajaković"
+      ],
+      "excerpt": "it's very easy to fragment as a team when you're losing and the results are not showing",
+      "quote": "At halftime really I was just telling the guys stay with it. It's very easy to fragment as a team when you're losing and the results are not showing right away. So I was just telling our team stay with it and in the timeouts we need to keep communicating, finding ways where we can be better. That's pretty much what I was saying. Darko Rajaković, he didn't really show any film during the halftime, it was more just our spirit, togetherness.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Immanuel Quickley shares that at halftime, coach Darko Rajakovic focused on team spirit and togetherness rather than showing film to keep the group from fragmenting.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Darko Rajaković"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Immanuel Quickley describes the halftime message he shared with teammates and the approach taken by coach Darko Rajaković.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "T6znVnBhnJY",
+  "url": "https://www.youtube.com/watch?v=T6znVnBhnJY",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-03T07:24:39Z",
+  "duration_seconds": 200,
+  "processed_at": "2026-11-03T07:59:53Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,224 @@
+{
+  "video_title": "Micah Nori Postgame Interview |  Portland Trail Blazers 118, Denver Nuggets 110 | Nov. 2, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:37",
+      "summary_phrase": "Chris Youngblood's impact off the bench in foul trouble",
+      "names_mentioned": [
+        "Chris Youngblood"
+      ],
+      "excerpt": "Shout out Chris Youngblood to come in off the bench when Vic gets into foul trouble",
+      "quote": "Shout out Chris Youngblood to come in off the bench when Vic gets into foul trouble and ends up a plus 22 in 15 minutes. Got a lot of contributions from a lot of guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 37,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori praised Chris Youngblood for his impact off the bench tonight, noting he was a plus 22 in 15 minutes while filling in for Vic during foul trouble.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Youngblood",
+          "Vic"
+        ],
+        "teams": [
+          "POR",
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori discusses Chris Youngblood's performance off the bench during the postgame interview following the loss to the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:49",
+      "summary_phrase": "Why Chris Youngblood's shooting and defensive physicality are valuable",
+      "names_mentioned": [
+        "Chris Youngblood",
+        "Jamal Murray"
+      ],
+      "excerpt": "I also liked his defensive physicality. He was able to switch onto Jamal",
+      "quote": "I think number one, he shoots it when he's open and that's what he is. But I also liked his defensive physicality. He was able to switch onto Jamal and we didn't lose anything defensively with him. He's a floor spacer and I thought that he just competes. That's what I liked a lot.",
+      "verbatim_original_language": "",
+      "start_seconds": 49,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori highlighted Chris Youngblood's defensive versatility against Jamal Murray, saying he was able to switch and provide floor spacing without the team losing anything defensively.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Youngblood",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "POR",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains why he values Chris Youngblood's shooting and defensive versatility after the game against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "01:12",
+      "summary_phrase": "Utilizing secondary playmakers to attack defensive coverage",
+      "names_mentioned": [
+        "Drew Eubanks",
+        "Damian Lillard",
+        "Scoot Henderson"
+      ],
+      "excerpt": "trying to get it where he was the secondary handler",
+      "quote": "Trying to get it where he was the secondary handler. I think that's one of the luxuries that we have with Drew, with Dame, with Scoot. All those guys can kind of get them into coverage. This is a very good defensive team, especially on the strong side. If you can get it to the second side and take advantage and attack versus closeouts, and Denny did a wonderful job of getting himself downhill and getting into the paint.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori discussed the team's strategy of utilizing secondary playmakers like Drew, Dame, and Scoot to attack defensive coverages and get downhill.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Drew Holiday",
+          "Damian Lillard",
+          "Scoot Henderson",
+          "Denny"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the team's offensive strategy involving secondary playmakers during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "02:09",
+      "summary_phrase": "Scoot Henderson's performance and defensive contributions",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "I thought that he did a good job defensively",
+      "quote": "I thought Scoot was fine. He's a plus four. He shot the open ones. He had just the one turnover. I thought that he did a good job defensively. Got himself an offensive rebound. His threes, his catch and shoots were good. I thought that he was fine in 26 minutes to be a plus four. I don't care how many points he scores, as long as he just continues to play with pace, continues to play defensively and not let the previous play bother him.",
+      "verbatim_original_language": "",
+      "start_seconds": 129,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori on Scoot Henderson's performance: I do not care how many points he scores as long as he continues to play with pace and does not let the previous play bother him.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori evaluates Scoot Henderson's performance and defensive effort following the game against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "03:12",
+      "summary_phrase": "Coaching players to avoid gambling and reaching on defense",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Nikola Jokic"
+      ],
+      "excerpt": "We're not going to steal the ball from Jamal Murray or Nikola Jokic",
+      "quote": "Basically stop gambling, stop reaching. We're not going to steal the ball from Jamal Murray or Nikola Jokic quite honestly. So it's almost just be there, be physical. If you do foul or be physical, be physical before they can get to that in the scoring area where it's one dribble and at the rim. But honestly, it's just continue to talk about moving your feet, catch the drives with your chest, and stop reaching and slapping down. Just don't bail them out.",
+      "verbatim_original_language": "",
+      "start_seconds": 192,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori says the defensive focus against stars like Jamal Murray and Nikola Jokic is to stop gambling and reaching, telling his players to just be physical and move their feet.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "POR",
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori describes the defensive instructions given to his players to avoid gambling against Denver's stars.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "03:45",
+      "summary_phrase": "Damian Lillard's professionalism and offensive-defensive balance",
+      "names_mentioned": [
+        "Damian Lillard",
+        "Drew Holiday"
+      ],
+      "excerpt": "Drew Holiday was about as good as it gets",
+      "quote": "I thought Dame, he played 30 minutes, he was really, really good. He got himself to the free throw line 10 times. Just allowing to play offense-defense there late. And what it allowed us to do is Dame is a fine defender. Dame is not a problem defensively. However, when you can throw a city out there, and that's kind of what they do, especially when you have the luxury of it's a two-possession game. I'd be remiss if I didn't say that Drew Holiday was about as good as it gets.",
+      "verbatim_original_language": "",
+      "start_seconds": 225,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori praised Damian Lillard's professionalism and defensive effort, while also highlighting the impact of Drew Holiday in late-game situations.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Drew Holiday"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori praises the defensive contributions and professionalism of Damian Lillard and Drew Holiday in his postgame comments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "FIBQQWXCkp0",
+  "url": "https://www.youtube.com/watch?v=FIBQQWXCkp0",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-03T05:12:50Z",
+  "duration_seconds": 268,
+  "processed_at": "2026-11-03T08:02:50Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

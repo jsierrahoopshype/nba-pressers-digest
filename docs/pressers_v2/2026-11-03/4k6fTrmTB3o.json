@@ -1,0 +1,261 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 11.02.26",
+  "speakers_seen": [
+    "VJ Edgecombe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:32",
+      "summary_phrase": "VJ Edgecombe on LeBron James' elite playmaking ability",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "If you're open, he's going to pass it. And the main thing just being ready.",
+      "quote": "LeBron James is such an elite playmaker. If you're open, he's going to pass it. And the main thing just being ready. Tonight, I had to run. I had to run and go get him. If you're open and he sees you, he's going to pass the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 32,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "VJ Edgecombe on playing alongside LeBron James: LeBron is such an elite playmaker. If you are open, he is going to pass it. The main thing is just being ready to run.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses LeBron James' playmaking ability and the importance of staying ready to receive passes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "01:28",
+      "summary_phrase": "VJ Edgecombe on his evolving role and scoring expectations",
+      "names_mentioned": [],
+      "excerpt": "I don't get antsy or impatient or anything. We're seven and one, and that's the most important thing.",
+      "quote": "I don't get antsy or impatient or anything. We're seven and one, and that's the most important thing. Tonight, I was able to get going a little bit, but once you just find that joy out there, just playing basketball, I was just kind of hard on myself early because I was missing shots I make, and that's not on nobody else but me. It's fun when you're winning, you know. I don't want to be a cancer because I ain't getting the shots that I want to get, you know. I'm still learning.",
+      "verbatim_original_language": "",
+      "start_seconds": 88,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on his role with the 7-1 Sixers: I do not want to be a cancer because I am not getting the shots that I want to get. I am still learning.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe reflects on his patience and mindset regarding his role and shot attempts during the team's successful start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "02:55",
+      "summary_phrase": "VJ Edgecombe on his relationship with LeBron James",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He's super down to earth human being. Great person to be around, never have bad vibes.",
+      "quote": "LeBron James is my dog. We talk a lot off the court. He's super down to earth human being. Great person to be around, never have bad vibes. It's always positive and that's someone you want to be around. You don't want to be around anyone that's going to make you feel bad or drain your energy.",
+      "verbatim_original_language": "",
+      "start_seconds": 175,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "VJ Edgecombe on his relationship with LeBron James: LeBron is my dog. We talk a lot off the court. He is a super down to earth human being.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "VJ Edgecombe describes his positive off-court relationship and personal connection with teammate LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "03:58",
+      "summary_phrase": "VJ Edgecombe on LeBron James' instruction to keep running in transition",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "He told me don't stop running. He's going to get the pass there.",
+      "quote": "LeBron James told me don't stop running. He's going to get the pass there. In training camp, that was a learning moment for me. You tend to slow down after a while when you don't get it the first two runs. You run hard, damn, I ain't get it. But no, I'm just going to keep running, even if I just create a driving lane for my teammate or something. I'm not per se going to always get the ball if I run, but it might just create an advantage for somebody else.",
+      "verbatim_original_language": "",
+      "start_seconds": 238,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "VJ Edgecombe says LeBron James gave him one key instruction: Do not stop running. Even if I do not get the ball, it creates a driving lane for my teammate.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "VJ Edgecombe explains how LeBron James instructed him to maintain intensity in transition to create offensive advantages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "04:42",
+      "summary_phrase": "VJ Edgecombe on his physical development and becoming a better dunker",
+      "names_mentioned": [],
+      "excerpt": "I think I got a little more on my vert. I got a little faster, a little stronger.",
+      "quote": "I think I got a little more on my vert. I got a little faster, a little stronger. That was my goal going into the off-season, just make sure I come back as explosive as I can be, strong as I can be. Obviously, strength also comes with time. I'm only 21, so that comes with time.",
+      "verbatim_original_language": "",
+      "start_seconds": 282,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "VJ Edgecombe on his physical growth: I think I got a little more on my vert. I got a little faster, a little stronger. That was my goal going into the off-season.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses his physical development and off-season goals regarding his athleticism and strength.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "05:30",
+      "summary_phrase": "VJ Edgecombe on how his role shifts with different teammates",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "Teams are going to guard us differently. That's where I'm looking at how they're guarding.",
+      "quote": "I don't think my role changes with either LeBron James or Jaylen on the floor. Teams are going to guard us differently. That's where I'm looking at how they're guarding. I just try to find windows, little opportunities that a defense might take off. Those little opportunities can be game-changing, and I just try to make sure that I'm affecting the game and impacting the game as much as possible.",
+      "verbatim_original_language": "",
+      "start_seconds": 330,
+      "end_seconds": 357,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on his role: I do not think my role changes with either LeBron or Jaylen on the floor. I just try to find windows and little opportunities that a defense might take off.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI",
+          "LAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains how he adjusts his play style based on defensive coverage when playing alongside LeBron James and Jaylen Brown.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "06:36",
+      "summary_phrase": "VJ Edgecombe on the value of back-door cuts in a high-attention offense",
+      "names_mentioned": [],
+      "excerpt": "All eyes are on them. So that's where I can sneak in a little back door.",
+      "quote": "When you watch hoops, you know someone, they all require so much attention, so all eyes are on them. So that's where I can sneak in a little back door, sneak in a little cut, just because of everyone's focus on them. If that cut, it might not get me the ball, or I might not get the shot, but someone else might get a shot, or it might just open up a lane for somebody else.",
+      "verbatim_original_language": "",
+      "start_seconds": 396,
+      "end_seconds": 426,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "VJ Edgecombe on his cutting game: When you watch hoops, you know they require so much attention, so all eyes are on them. That is where I can sneak in a little back door.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains the tactical value of making back-door cuts to exploit defensive attention on star teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "07:22",
+      "summary_phrase": "VJ Edgecombe on his increased awareness of team spacing",
+      "names_mentioned": [],
+      "excerpt": "I'm more so this year, obviously going into the training camp, where can I be effective on offense.",
+      "quote": "I'm more so this year, obviously going into the training camp, where can I be effective on offense, just because of all eyes going to be on them. And I won't say be pounding the ball the whole time. I won't be up there just dribbling and dribbling, doing what I did last year. So yeah, I think just as soon as we got the additions, I was focused on where can I be effective offensively, and cutting is one of them, and then just running in transition.",
+      "verbatim_original_language": "",
+      "start_seconds": 442,
+      "end_seconds": 476,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "VJ Edgecombe on his offensive adjustment: I will not be up there just dribbling and dribbling, doing what I did last year. I was focused on where I can be effective offensively.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses how he has adjusted his offensive role to be more effective off-ball following team roster additions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4k6fTrmTB3o",
+  "url": "https://www.youtube.com/watch?v=4k6fTrmTB3o",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-03T05:05:15Z",
+  "duration_seconds": 517,
+  "processed_at": "2026-11-03T08:03:17Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

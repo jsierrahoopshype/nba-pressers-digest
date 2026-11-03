@@ -1,0 +1,213 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs Grizzlies Postgame Interview 11/2/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:27",
+      "summary_phrase": "Jamahl Mosley on team resilience and execution in overtime",
+      "names_mentioned": [],
+      "excerpt": "The ability to find a way down the stretch to get the stops that we needed",
+      "quote": "We talk about by committee and it definitely was by committee. These guys did an unbelievable job of finding a way to stay poised. Going into overtime, obviously we had the lead and gave it back to them, but the ability to find a way down the stretch to get the stops that we needed, to execute the things that we needed, that's what I'm most proud of these guys. The learning lessons that they're continuing to show and following the game plan. Our coaches did an unbelievable job of talking about the game plan and what we could give up, what we could take away. Obviously there's always going to be cleanup in these situations, but the resiliency and the toughness and the grit that these guys showed, that's what it's got to look like.",
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley praised his team for their resilience and execution in overtime against the Grizzlies. He noted that the win was a total team effort, saying it was definitely by committee and he is proud of how they stayed poised.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's resilience and execution during the overtime victory against the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:24",
+      "summary_phrase": "Jamahl Mosley on responding to overtime pressure",
+      "names_mentioned": [],
+      "excerpt": "We've been here before. Go take the game.",
+      "quote": "We've been here before. Go take the game. When you go through these experiences in the league, the games that you lose in overtime or up 15 to 20 and you find a way to blow it, now you understand what it looks like in these moments. That's the beauty of the team that they're responding to everything the coaches are asking them to do. The coaches are doing an unbelievable job of telling them what's needed in these games and they responded well. They executed down the stretch and got the big stops when we needed them.",
+      "verbatim_original_language": "",
+      "start_seconds": 84,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says the team is learning from past late-game collapses. He believes the squad now understands what it takes to win in tight moments, noting that the players are responding well to the coaching staff's game plan.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains how previous experiences in close games helped the team handle the pressure of overtime.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:10",
+      "summary_phrase": "Jamahl Mosley on Carlo's team-first mentality",
+      "names_mentioned": [
+        "Carlo"
+      ],
+      "excerpt": "He's one of those special ones that he's about everybody else. He's about the team.",
+      "quote": "I've said this about Carlo before. He's one of those special ones that he's about everybody else. He's about the team. You can see it when he makes a shot or makes a big play, that his teammates celebrate him. That says everything about him as a human being and as a basketball player, that they want to celebrate the work he puts in because he wants none of the light, but he's always willing to give it away. That's why his teammates will celebrate them the way that they do.",
+      "verbatim_original_language": "",
+      "start_seconds": 130,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley praised Carlo for his team-first mentality. He said Carlo is one of those special ones who is about everybody else and wants none of the light, which is why his teammates celebrate him the way they do.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Carlo"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley praises Carlo for his selfless team-first mentality and the way his teammates support him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:49",
+      "summary_phrase": "Jamahl Mosley on Zion's clutch performance and development",
+      "names_mentioned": [
+        "Zion",
+        "Sham"
+      ],
+      "excerpt": "I think that goes to the work that he and Sham have put in.",
+      "quote": "I think that goes to the work that he and Zion have put in. Just for him to have the belief and us having the belief in him that he can knock that shot down. He was comfortable the whole time. There are a few times he felt he needed to turn the corner, but then he registered how the game was being played, put the ball in his hands, and he made the play. But to me, one of the biggest plays of the night was that last stop by Trey Murphy. Him being one of those two-way guys that can give you points but also can sit down and guard the different matchups night in and night out.",
+      "verbatim_original_language": "",
+      "start_seconds": 169,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley highlighted Trey Murphy's late-game defensive stop as one of the biggest plays of the night. He praised Murphy for being a two-way player who can provide points while also locking down different matchups.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Trey Murphy"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley highlights the clutch performance of Zion Williamson and the defensive effort of Trey Murphy in the final moments.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:55",
+      "summary_phrase": "Jamahl Mosley on team depth and shared playmaking responsibilities",
+      "names_mentioned": [
+        "Time Herb",
+        "Sadik",
+        "Benedict",
+        "Trey",
+        "DQ"
+      ],
+      "excerpt": "We have a lot of guys that can initiate the offense.",
+      "quote": "We're going to mix it up. I wish I could sit here and tell you it's going to be like this every night or that every night, but the beauty of this team is that we're deep and we have guys that can all make plays. There's Time Herb brings it up, Sadik brought it up, Benedict brought it up, Trey will bring it up, T-Wat will bring it up, DQ's brought it up. We have a lot of guys that can initiate the offense and with that ball in your hand you have a heck of a responsibility and I'm proud that each one of these guys brought the ball up and that we only had eight turnovers.",
+      "verbatim_original_language": "",
+      "start_seconds": 235,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says the Pelicans will continue to mix up their playmaking duties. With a deep roster, he is proud that multiple players can initiate the offense, noting that the team finished with only eight turnovers.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's depth and the ability of multiple players to initiate the offense effectively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:24",
+      "summary_phrase": "Jamahl Mosley on the team's 'by committee' philosophy",
+      "names_mentioned": [
+        "Herb",
+        "Carlo",
+        "Bryce",
+        "T-Wat"
+      ],
+      "excerpt": "This is a by committee team and every night it's going to be somebody different.",
+      "quote": "That's who Herb is. Herb is a big-time stopper and obviously he hit some big-time shots for us as well, had some great looks. But he just does, and this is what I say about guys like Herb, like Carlo, Bryce, T-Wat, guys that don't get a lot of minutes all the time or have just been bumped in and bumped out, they just do whatever is necessary for this team to win. And I'll say it over and over and over again until I'm probably blue in the face, this is a by committee team and every night it's going to be somebody different. And when that ball is in your hands you've got to make a play for your teammates.",
+      "verbatim_original_language": "",
+      "start_seconds": 324,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley reiterated his by committee philosophy after the win. He praised players like Herb Jones for doing whatever is necessary to win, stating that every night it is going to be somebody different stepping up.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones",
+          "Carlo",
+          "Bryce",
+          "T-Wat"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley reiterates his by committee philosophy while praising the versatility and willingness of his players to contribute.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "UEVWVNpGx7E",
+  "url": "https://www.youtube.com/watch?v=UEVWVNpGx7E",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-03T05:40:55Z",
+  "duration_seconds": 371,
+  "processed_at": "2026-11-03T08:02:08Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

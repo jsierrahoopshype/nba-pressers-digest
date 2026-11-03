@@ -1,0 +1,259 @@
+{
+  "video_title": "“I'm Getting More Comfortable Finding My Spots.” | Trey Lyles Postgame Sound | 11.2.26",
+  "speakers_seen": [
+    "Trey Lyles"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trey Lyles",
+      "timestamp": "00:10",
+      "summary_phrase": "Trey Lyles on the importance of coach's confidence and attention to detail",
+      "names_mentioned": [
+        "Finch"
+      ],
+      "excerpt": "it's always great to have a coach's confidence, no matter what the situation is",
+      "quote": "It's always great to have a coach's confidence, no matter what the situation is. It's good to hear that he's paying attention to the details and the small things that I'm able to help the team with.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trey Lyles says it is great to have the coach's confidence and appreciates that the staff is paying attention to the small details he brings to the team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Trey Lyles discusses the importance of receiving confidence and attention to detail from his head coach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trey Lyles",
+      "timestamp": "00:42",
+      "summary_phrase": "Trey Lyles on finding more opportunities to score and be aggressive",
+      "names_mentioned": [],
+      "excerpt": "I need to be able to go out there and do that",
+      "quote": "It's a big thing for myself to try and find more opportunities. I can shoot the ball and score, so I need to be able to go out there and do that. It helps when the coaches are wanting that from you, but also you need to want it from yourself.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trey Lyles is looking to be more aggressive on the floor, noting that he needs to want to score and find opportunities for himself.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles explains his focus on being more aggressive and finding scoring opportunities on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trey Lyles",
+      "timestamp": "01:25",
+      "summary_phrase": "Trey Lyles on his basketball IQ and ability to make the right play",
+      "names_mentioned": [],
+      "excerpt": "it just goes to show my IQ as a player, my ability to make the right play",
+      "quote": "It just goes to show my IQ as a player, my ability to make the right play and not be a ball-stopper and be somebody that can keep the offense and the flow of the game.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trey Lyles emphasizes his basketball IQ and his focus on not being a ball-stopper to keep the offense flowing.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles reflects on his basketball IQ and his desire to keep the offense flowing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trey Lyles",
+      "timestamp": "01:50",
+      "summary_phrase": "Trey Lyles on the excitement of playing for a championship-contending team",
+      "names_mentioned": [],
+      "excerpt": "it's awesome to be part of a team that is striving to win the championship",
+      "quote": "It's awesome to be part of a team that is striving to win the championship and being a big part of that. Being one of the older guys and talking to guys, it's been cool. I've been enjoying it, and I've said it quite a few times, coming in and being excited about being here, laughing and having a good time with my teammates, that's been fun.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trey Lyles says it is awesome to be part of a team striving for a championship and enjoying the environment with his teammates.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Lyles shares his positive experience playing for a championship-contending team and bonding with his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trey Lyles",
+      "timestamp": "02:25",
+      "summary_phrase": "Trey Lyles on developing on-court chemistry with Kyle Anderson",
+      "names_mentioned": [
+        "Kyle Anderson"
+      ],
+      "excerpt": "I've obviously played against Kyle for the last few years, so I kind of know his game",
+      "quote": "I think just our ability to read one another. I've obviously played against Kyle for the last few years, so I kind of know his game and what he likes to do, and just being in the right positions and being able to help him and myself.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trey Lyles credits his chemistry with Kyle Anderson to having played against him for years and knowing his game well.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyle Anderson"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Lyles discusses developing on-court chemistry with his teammate Kyle Anderson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trey Lyles",
+      "timestamp": "02:48",
+      "summary_phrase": "Trey Lyles on his ability to adapt to different team situations",
+      "names_mentioned": [],
+      "excerpt": "my adaptability, being able to adapt to different situations, has always helped me in my career",
+      "quote": "I don't want to say it's easy, but I think just my adaptability, being able to adapt to different situations, has always helped me in my career. I think this just goes to show another situation where I'm able to do that.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trey Lyles attributes his career longevity to his ability to adapt to different team situations.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles comments on how his ability to adapt to different team situations has aided his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Trey Lyles",
+      "timestamp": "03:22",
+      "summary_phrase": "Trey Lyles on his specific role and niche on the second unit",
+      "names_mentioned": [],
+      "excerpt": "catching and shooting, hitting the glass, and being a vocal guy on the court",
+      "quote": "I think just catching and shooting, hitting the glass, and being a vocal guy on the court, whether it's defense or offense, just helping the guys out and being a little bit of a stabilizer. I'm not going to go out of my area too much, I'm just going to do what I need to do.",
+      "text_blocks": [],
+      "start_seconds": 202,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trey Lyles describes his role on the second unit as a stabilizer who focuses on catching and shooting, hitting the glass, and being vocal.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles describes his specific role and responsibilities as a stabilizer for the second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trey Lyles",
+      "timestamp": "03:45",
+      "summary_phrase": "Trey Lyles on his positive impression of the coaching staff's accountability",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "D'Angelo Russell",
+        "Rudy Gobert",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "he allows us to go out there and play freely and play our game",
+      "quote": "Honestly, it's probably one of the better coaches I've played for as far as players' coach. He allows us to go out there and play freely and play our game, but he holds us accountable. I can really appreciate that when a coach holds everybody on the team accountable, whether it's Anthony, D'Angelo, Rudy, or Jaden, he's calling everybody out the same way.",
+      "text_blocks": [],
+      "start_seconds": 225,
+      "end_seconds": 249,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trey Lyles praises his coach for holding everyone on the team accountable, saying he calls out stars like Anthony, D'Angelo, Rudy, and Jaden the same way.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "D'Angelo Russell",
+          "Rudy Gobert",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Trey Lyles praises the head coach for holding all players, including stars like Anthony Edwards and Rudy Gobert, accountable.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "WOxG6LCvWZ0",
+  "url": "https://www.youtube.com/watch?v=WOxG6LCvWZ0",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-03T05:14:51Z",
+  "duration_seconds": 254,
+  "processed_at": "2026-11-03T08:02:35Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

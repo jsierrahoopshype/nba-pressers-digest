@@ -1,0 +1,183 @@
+{
+  "video_title": "Hornets vs Pistons: Coby White Postgame Media Availability | 11/2/2026",
+  "speakers_seen": [
+    "Coby White"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coby White",
+      "timestamp": "00:22",
+      "summary_phrase": "Coby White on the team's reaction to the loss",
+      "names_mentioned": [],
+      "excerpt": "This isn't the end of the world. It's one game. We got to continue to get better.",
+      "quote": "The main thing we talked amongst ourselves is just making sure we don't get too high, too low. This isn't the end of the world. It's one game. We got to continue to get better, continue to grow, but we got to be honest with ourselves. It was a four-point game with five minutes left in the third and then that four-point game obviously turned into 124 to 91. So, we look at that, see how we can get better, see what we can fix.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coby White says the Hornets are focused on staying level headed after the loss to Detroit. We have to continue to grow and be honest with ourselves about what we can fix.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Coby White discusses the team's mindset following a loss to the Detroit Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coby White",
+      "timestamp": "01:04",
+      "summary_phrase": "Coby White identifies turnovers as a major team problem",
+      "names_mentioned": [],
+      "excerpt": "Obviously turnovers are a big problem, something we have to cut down on.",
+      "quote": "Obviously turnovers are a big problem, something we have to cut down on. We just kind of gave them the ball. I think they had 30-something points off our turnovers, so that's hard to beat a team, especially a Detroit Pistons team who was obviously the number one seed in the East last year, a really good team.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Coby White identifies turnovers as the primary issue for the Hornets after giving up 30 plus points off giveaways against the Pistons. It is hard to beat a good team when you keep giving them the ball.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Coby White addresses the high number of turnovers committed by the Hornets during their game against the Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coby White",
+      "timestamp": "01:23",
+      "summary_phrase": "Coby White on the difficulty of finding offensive rhythm",
+      "names_mentioned": [],
+      "excerpt": "It's hard to get the offense going when you don't even get up shots.",
+      "quote": "It's hard to get the offense going when you don't even get up shots and you keep turning the ball over. It's hard to get the offense going when you have 25 turnovers. That's really tough and really challenging, and you don't necessarily have a flow when you do stuff like that. It'll come. I think we had some solid looks tonight when we didn't turn it over.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coby White notes that the Hornets offense lacks flow due to 25 turnovers. It is hard to get the offense going when you do not even get up shots.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Coby White explains how excessive turnovers have hindered the team's offensive rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coby White",
+      "timestamp": "02:10",
+      "summary_phrase": "Coby White on stopping opponent runs and team communication",
+      "names_mentioned": [],
+      "excerpt": "How do we stop the bleeding? In a game it's going to be turnovers.",
+      "quote": "One turnover leads to two, two turnovers lead to three, one miscommunication defensively leads to another one, then that leads to another one. So, how do we stop the bleeding? In a game it's going to be turnovers, it's going to be miscommunications on both sides of the ball. How do we not let it continue to derail us from what we're trying to do?",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Coby White on the Hornets defensive struggles. One turnover leads to two and one miscommunication leads to another. The team is looking for ways to stop the bleeding during runs.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Coby White discusses the challenges of maintaining focus and stopping momentum shifts during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coby White",
+      "timestamp": "03:15",
+      "summary_phrase": "Coby White on team physicality and smart decision-making",
+      "names_mentioned": [],
+      "excerpt": "I think it's just the physicality but also just us being smarter and making smarter decisions.",
+      "quote": "I think it's just the physicality but also just us being smarter and making smarter decisions. Getting off screens, reading what the defense is doing in terms of are they switching off-ball, are they maintaining? Some teams have certain guys that maintain. Do we want to put those guys in more of the actions so they can't switch? The point of switching off-ball is to take away the actions, and Detroit has a lot of options to where they can switch off-ball and take away the actions.",
+      "text_blocks": [],
+      "start_seconds": 195,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coby White says the Hornets need to be smarter and more physical to counter the Pistons defensive switching. We need to read what the defense is doing and put the right guys in more actions.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Coby White analyzes the defensive adjustments and decision-making required to counter the Pistons' defensive schemes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coby White",
+      "timestamp": "04:45",
+      "summary_phrase": "Coby White on his documentary and being vulnerable",
+      "names_mentioned": [],
+      "excerpt": "My whole thing is to get people hope. Hopefully my story changed a life.",
+      "quote": "My whole thing is to get people hope. Hopefully my story changed a life. Hopefully my story touched someone that was in a down moment, and hopefully my story lets somebody know that they're not alone. I think for me being vulnerable, hopefully it did. I'm hoping that it helps someone and hope it changes a life.",
+      "text_blocks": [],
+      "start_seconds": 285,
+      "end_seconds": 307,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Coby White opens up about his new documentary. My whole thing is to give people hope and hopefully my story touched someone that was in a down moment.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Coby White reflects on the personal motivations behind sharing his story in a documentary.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "iAAKcjbybT0",
+  "url": "https://www.youtube.com/watch?v=iAAKcjbybT0",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-03T03:56:08Z",
+  "duration_seconds": 398,
+  "processed_at": "2026-11-03T08:04:52Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

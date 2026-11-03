@@ -1,0 +1,73 @@
+{
+  "video_title": "Donovan Clingan Postgame Interview | Portland Trail Blazers 118, Denver Nuggets 110 | Nov. 2, 2026",
+  "speakers_seen": [
+    "Donovan Clingan"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Clingan",
+      "timestamp": "00:16",
+      "summary_phrase": "Donovan Clingan on the team's selfless culture and chemistry",
+      "names_mentioned": [],
+      "excerpt": "I feel like it's just play hard, play for one another, and trust the coaching plan.",
+      "quote": "I feel like it's just play hard, play for one another, and trust the coaching plan, trust the game plan. I feel like the coach, we have a great staff. They're putting us in the best positions to succeed at a high level. We have great teammates who are so unselfish and play for one another and aren't just looking for their own stats. We have guys who really care about winning and care about seeing someone else do well. I feel like that is definitely something that helps us win games.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Clingan credits the Blazers recent success to a selfless culture where players are not looking for their own stats and really care about winning.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Donovan Clingan discusses the team's culture and chemistry following the Portland Trail Blazers victory over the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Clingan",
+      "timestamp": "01:08",
+      "summary_phrase": "Donovan Clingan on the team's commitment to selfless basketball",
+      "names_mentioned": [],
+      "excerpt": "Guys are just making that one more, guys are stepping up for others on defense.",
+      "quote": "There's shots, I feel like you can just see when there's guys on the floor that have wide open shots that may have a little close out coming and guys are just making that one more, guys are stepping up for others on defense. I feel like it's just there's so many little things that everyone has each other's back that it's just so unselfish.",
+      "verbatim_original_language": "",
+      "start_seconds": 68,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Clingan highlights the team chemistry in Portland saying guys are making that one more pass and always having each other back on defense.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Donovan Clingan describes the unselfish play and defensive effort displayed by his teammates during the game against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "3NpnLmAeqco",
+  "url": "https://www.youtube.com/watch?v=3NpnLmAeqco",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-03T06:10:07Z",
+  "duration_seconds": 98,
+  "processed_at": "2026-11-03T08:00:40Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

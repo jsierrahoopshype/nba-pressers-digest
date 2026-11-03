@@ -1,0 +1,188 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Jaylen Brown | 11.02.26",
+  "speakers_seen": [
+    "Jaylen Brown"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaylen Brown",
+      "timestamp": "00:34",
+      "summary_phrase": "Jaylen Brown on Tyrese Maxey's strong fourth-quarter performance",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "Maxey's been leading the way, 100%. This is his team.",
+      "quote": "Maxey's been leading the way, 100%. He's been here, this is his team. Him and Joel have been here for a while, so the mindset has been to compliment those guys. I'm finding my footing, but Maxey's been leading the way for sure.",
+      "start_seconds": 34,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylen Brown is clear on who runs the show in Philadelphia. He says of Tyrese Maxey, Maxey has been leading the way, 100 percent. He has been here, this is his team.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Brown discusses the leadership roles of Tyrese Maxey and Joel Embiid on the Philadelphia 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaylen Brown",
+      "timestamp": "01:12",
+      "summary_phrase": "Jaylen Brown on the team's rebounding mentality",
+      "names_mentioned": [],
+      "excerpt": "I try to make an extra contribution and emphasis on the glass.",
+      "quote": "Just a mindset, just trying to create extra opportunities for my team. I know that rebounding, as we are trying to patch together our fives and our front line, I try to make an extra contribution and emphasis on the glass.",
+      "start_seconds": 72,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaylen Brown is taking on a larger role on the glass while the Sixers navigate their frontcourt rotation. He says he is making an extra contribution and emphasis on the glass to create extra opportunities for the team.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown explains his personal focus on rebounding to help the team's frontcourt rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaylen Brown",
+      "timestamp": "02:28",
+      "summary_phrase": "Jaylen Brown on the importance of consistent defensive habits",
+      "names_mentioned": [],
+      "excerpt": "Having a mentality night in and night out, respecting your opponent, respecting the game.",
+      "quote": "That's the part that I care about the most as a group, not individually. Having a mentality night in and night out, respecting your opponent, respecting the game, making sure that we are executing our coverages, we're being clear in our communication, and we're also taking away tendencies on a night-to-night basis. Just those things I just explained are over 50% of the battle. As games go, those things start to slip a little bit, and I try to be vocal, but not annoying, just to make sure that we maintain those consistent habits because those are winning habits. If you let those things slip, that's how you introduce losing.",
+      "start_seconds": 148,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylen Brown is focused on the Sixers maintaining consistent defensive habits. He warns that if you let those things slip, that is how you introduce losing.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown emphasizes the importance of maintaining consistent defensive habits and communication throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaylen Brown",
+      "timestamp": "03:45",
+      "summary_phrase": "Jaylen Brown on the danger of flipping the defensive switch",
+      "names_mentioned": [],
+      "excerpt": "It can't be a switch just because we're playing a lesser opponent.",
+      "quote": "I don't like that we have that, but it's good that we have shown the potential, but we got to keep that switch on. It doesn't work like that where you just flip the switch; it can catch up to us and it can bite us against a better team or on a night that we're not being as crisp on offense. So it can't be a switch just because we're playing a lesser opponent, or whatever the case may be. We got to make sure that that mentality is from the beginning to end, can't skip any steps.",
+      "start_seconds": 225,
+      "end_seconds": 263,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jaylen Brown is wary of the team relying on a defensive switch. He says it does not work like that where you just flip the switch, noting it can bite them against better teams if they are not crisp.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown warns against the team's tendency to rely on flipping a defensive switch rather than playing consistently.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaylen Brown",
+      "timestamp": "04:30",
+      "summary_phrase": "Jaylen Brown on the value of transition play",
+      "names_mentioned": [
+        "Brian"
+      ],
+      "excerpt": "I love it when Brian rebounds because he's like a quarterback.",
+      "quote": "I love it when Brian rebounds because he's like a quarterback. He's either throwing that thing up or we get to push the pace, so just continuing to encourage us to run and get out because that helps our offense a lot when we're able to do that.",
+      "start_seconds": 270,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaylen Brown likes the transition game when the team secures defensive rebounds. He says he loves it when Brian rebounds because he is like a quarterback.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Andre Drummond"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Brown praises Andre Drummond's ability to initiate the transition offense after securing defensive rebounds.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaylen Brown",
+      "timestamp": "05:47",
+      "summary_phrase": "Jaylen Brown on the team's ability to win in the clutch",
+      "names_mentioned": [],
+      "excerpt": "It's a good sign that even in the clutch, we've been able to pull games out.",
+      "quote": "I think all of us really want to win, and I think it's a good sign that even in the clutch, we've been able to pull games out, even being down in a couple of those games. We've been able to kind of turn it on and win, or even as we're figuring it out, as we're putting it together, that in the moments that's needed, we're showing up. Those are all good signs, but we still have a long way to go, still have much to improve at. We're still kind of finding our footing, but to win while you're figuring it out is an awesome sign.",
+      "start_seconds": 347,
+      "end_seconds": 381,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaylen Brown sees the Sixers' ability to win in the clutch as a positive sign. He says to win while you are figuring it out is an awesome sign.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown reflects on the team's ability to win close games while still working to improve their overall performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "iVVB6v5vRnQ",
+  "url": "https://www.youtube.com/watch?v=iVVB6v5vRnQ",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-03T04:55:10Z",
+  "duration_seconds": 381,
+  "processed_at": "2026-11-03T08:03:12Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,192 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.2.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:03",
+      "summary_phrase": "Taylor Jenkins on the decision to change the starting lineup",
+      "names_mentioned": [],
+      "excerpt": "Just wanted to do something different. Was excited about the change.",
+      "quote": "Just wanted to do something different. Was excited about the change. You are one and five, you think about different things. You are thinking about the full 48 minutes, how we help our bench units. It was just a decision I went with.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Taylor Jenkins explains the decision to shake up the starting lineup after a 1-5 start, saying he just wanted to do something different to help the bench units and the full 48 minutes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins explains his decision to change the starting lineup following the team's one and five start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:44",
+      "summary_phrase": "Taylor Jenkins on the team's offensive performance and pace",
+      "names_mentioned": [],
+      "excerpt": "I thought he was playing with great pace. He was moving the ball.",
+      "quote": "I thought he was playing with great pace. He was moving the ball. We could not make any shots. He missed some open ones, I thought he got great looks. He did a great job rebounding. Our first half defense was great. Obviously, they were making some shots and we were making shots, so the lead stayed a little bit bigger, but then we just kept responding.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Taylor Jenkins on the team's offensive struggles despite good looks, noting that while they could not make shots, he was pleased with the pace and ball movement.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's offensive pace and shot quality during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:13",
+      "summary_phrase": "Taylor Jenkins on the development and role of his young players",
+      "names_mentioned": [],
+      "excerpt": "Excited for the opportunities that he is going to have ahead.",
+      "quote": "Excited for the opportunities that he is going to have ahead. Just understand the matchups he is going to have, the discipline it is going to take, and how he can be an engine for us on offense. Ability to get downhill, and when the ball is moving, he is going to get those open shots and just keep letting him fly.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins on the development of his young players, emphasizing the need for discipline and the ability to be an engine on offense by getting downhill.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins comments on the development and offensive role of a young player on the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:50",
+      "summary_phrase": "Taylor Jenkins on the energy and physicality brought by Jaren Jackson Jr.",
+      "names_mentioned": [
+        "Jaren Jackson Jr."
+      ],
+      "excerpt": "He brought great energy, great life. He is constantly staying ready.",
+      "quote": "He brought great energy, great life. He is constantly staying ready. I love how he has been approaching day-to-day, the play groups, the game plan discipline we worked on that this morning. He had a great session this morning. His physicality was a difference maker, his energy was a difference maker. I like how he was switching, controlling the ball. Even though the stat line wasn't scoring, it was all the ancillary things that he was doing that gave us a spark.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins praises Jaren Jackson Jr for his impact beyond the box score, highlighting his physicality, energy, and defensive switching as a difference maker for the team.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaren Jackson Jr."
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins praises the energy and defensive physicality provided by Jaren Jackson Jr. during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:48",
+      "summary_phrase": "Taylor Jenkins on the team's shot quality and defensive sustainability",
+      "names_mentioned": [],
+      "excerpt": "This was one of our better games when shots were not falling.",
+      "quote": "This was one of our better games when shots were not falling. We shot 38 percent, almost shot 53s, and tons of those were wide open. I think third best shot quality from three and they are just not falling. We just kept challenging our guys before the game, throughout the game, and just sustainability, continue to make an impact on the defensive side.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins remains optimistic about the team's shot quality, noting that despite shooting 38 percent, the team generated high quality looks and maintained defensive sustainability.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates the team's offensive shot quality and defensive sustainability despite poor shooting percentages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:56",
+      "summary_phrase": "Taylor Jenkins on the team's ongoing process and adjustments",
+      "names_mentioned": [
+        "AJ",
+        "Ryan"
+      ],
+      "excerpt": "I went off script midway through that first quarter, so we will see how it plays out.",
+      "quote": "I went off script midway through that first quarter, so we will see how it plays out. Thought AJ gave us great life. Ryan, obviously going from starting coming off the bench, he had great looks, great finishes. Again, shots just weren't falling, but I liked his process, defensive activity. Jay-Rock staying ready, wasn't initiating the rotation, comes in. That is what our guys got to do. When your moment is called, know what we are trying to do, what is the defensive requirements, how are we trying to play on offense. So we will continue to evaluate.",
+      "text_blocks": [],
+      "start_seconds": 236,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins says he will continue to evaluate the rotation after going off script, praising the energy from AJ and Ryan while emphasizing that players must be ready when their moment is called.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins discusses the rotation adjustments made during the game and the performance of players coming off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "zMdFFwD4V20",
+  "url": "https://www.youtube.com/watch?v=zMdFFwD4V20",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-03T03:59:24Z",
+  "duration_seconds": 282,
+  "processed_at": "2026-11-03T08:04:13Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

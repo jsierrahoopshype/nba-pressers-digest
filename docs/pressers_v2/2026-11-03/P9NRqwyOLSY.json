@@ -1,0 +1,259 @@
+{
+  "video_title": "Ty Jerome Press Conference | Grizzlies vs. Pelicans",
+  "speakers_seen": [
+    "Ty Jerome"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ty Jerome",
+      "timestamp": "00:20",
+      "summary_phrase": "Ty Jerome on rebounding and turnover issues against the Pelicans",
+      "names_mentioned": [],
+      "excerpt": "we got to rebound the basketball, trim down some turnovers",
+      "quote": "I think just the possession game. We got to rebound the basketball, trim down some turnovers. They got 10 more shots than us and we lose by a possession. So I think that's where we start immediately. We came out sluggish in the first half on the boards and in the gaps, transition defense a little bit. That stuff can't happen.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ty Jerome says the Grizzlies loss to the Pelicans came down to the possession game. He noted the team needs to rebound better and cut down on turnovers after allowing 10 more shots than their opponent.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Ty Jerome discusses the team's rebounding and turnover issues following a loss to the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ty Jerome",
+      "timestamp": "01:25",
+      "summary_phrase": "Ty Jerome on the final possession of overtime",
+      "names_mentioned": [],
+      "excerpt": "I got to get a better move off in the end of the game.",
+      "quote": "Honestly, just a bad move. Foul, not a foul, doesn't really matter. I got to get a better move off in the end of the game. It really comes down to that. Just make a better move and knock down the shot.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ty Jerome took accountability for the final play in overtime against the Pelicans. He said he just needs to make a better move and knock down the shot.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome reflects on his performance and the final play during the overtime loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ty Jerome",
+      "timestamp": "02:00",
+      "summary_phrase": "Ty Jerome on the difference between winning and losing",
+      "names_mentioned": [],
+      "excerpt": "It's a different feeling when you lose.",
+      "quote": "It's funny, right? Because you say you want to learn in wins and losses. It's a different feeling when you lose. Yes, when we won those games in Golden State, those close games that came down to the wire, it could have went either way. You look at the lessons still, but you don't feel it as much. We'll definitely feel this one more, definitely dig deeper more. It's a little bit of a wake-up call.",
+      "verbatim_original_language": "",
+      "start_seconds": 120,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ty Jerome calls this loss a wake up call for the Grizzlies. He noted that while you can learn from wins, you feel the lessons much more deeply after a tough defeat.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Ty Jerome explains the difference in mindset between learning from wins and losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ty Jerome",
+      "timestamp": "03:00",
+      "summary_phrase": "Ty Jerome on his role during crunch time",
+      "names_mentioned": [
+        "Zach"
+      ],
+      "excerpt": "there's a time and a place where like people start looking for you now.",
+      "quote": "There's a time and a place where like people start looking for you now. So like, we get the ball and now like, over the course of the game, I don't want anybody getting the rebound, boo, said, whoever it is, and looking to outlet the ball to me. They push the ball. I think in the last minute and a half, minute, 45 seconds, that's when, if I'm on a heater, that ball's going to come to me. So I think it's more of that.",
+      "verbatim_original_language": "",
+      "start_seconds": 180,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ty Jerome explains his role in crunch time, noting that when he is on a heater, the team looks to get the ball in his hands for the final minute of the game.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome describes his role and decision-making process during the final minutes of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ty Jerome",
+      "timestamp": "03:38",
+      "summary_phrase": "Ty Jerome on Isaiah Stewart's leadership",
+      "names_mentioned": [
+        "Isaiah Stewart"
+      ],
+      "excerpt": "He's our leader, he's a veteran presence.",
+      "quote": "That's who he is, man. He's our leader, he's a veteran presence. He's been playing his ass off. He's an unbelievable pickup for us. When we signed him in the summer, I was super excited, and I think he's exceeded expectations on and off the court for us. So that's who he is, that's who he's going to be all year, and I hope to be on his team for a long time.",
+      "verbatim_original_language": "",
+      "start_seconds": 218,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ty Jerome praised Isaiah Stewart as a veteran leader who has exceeded expectations for the Grizzlies this season. Jerome added he hopes to be on his team for a long time.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Stewart"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ty Jerome praises the leadership and impact of his teammate Isaiah Stewart.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ty Jerome",
+      "timestamp": "04:38",
+      "summary_phrase": "Ty Jerome on offensive spacing and shot selection",
+      "names_mentioned": [
+        "Zach"
+      ],
+      "excerpt": "I hit a few threes, so now the big is like paranoid and running up higher.",
+      "quote": "I hit a few threes, so now the big is like paranoid and running up higher. And that's when you can kind of touch the paint, get downhill for your layup or for kickouts. I thought we did a good job sharing the ball. I don't know what we shot from three, we shot 45%. But yeah, I thought we did a good job. I thought like we even had even more open looks and I'm like, damn, that one didn't drop. You know what I mean? So, I think offense was, I don't want to say great, there's definitely going to be some things we can clean up, but you score 134, you should win the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 278,
+      "end_seconds": 323,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ty Jerome felt the Grizzlies offense was solid despite the loss. He noted that when you score 134 points, you should win the game, even with things to clean up.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome analyzes the team's offensive performance and shot selection against the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ty Jerome",
+      "timestamp": "05:22",
+      "summary_phrase": "Ty Jerome on handling increased defensive attention",
+      "names_mentioned": [
+        "Zach"
+      ],
+      "excerpt": "I see two, I get off of it, and we play.",
+      "quote": "Like I say all the time, it's what the defense gives me. It's a time and a place where you really want to get cooking. Other than that, if I see two on the ball, keep making the right play, keep feeding Zach. Like I told him all game, I trust you, we're with you. And that goes the whole season. I trust my team, they trust me, we trust each other. It goes one through 18. So it's simple, man. I see two, I get off of it, and we play.",
+      "verbatim_original_language": "",
+      "start_seconds": 322,
+      "end_seconds": 357,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ty Jerome on handling defensive pressure, saying he keeps it simple. If he sees two defenders on the ball, he gets off of it and trusts his teammates to make the right play.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ty Jerome discusses how he handles defensive pressure and his trust in teammate Zach Edey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ty Jerome",
+      "timestamp": "06:20",
+      "summary_phrase": "Ty Jerome on the team's maturity and accountability",
+      "names_mentioned": [
+        "Stu",
+        "Jeremy"
+      ],
+      "excerpt": "the good thing about this group, even though they're young, is we got a really mature group.",
+      "quote": "I don't think it needs to be too much of the rah-rah speech stuff. I think the good thing about this group, even though they're young, is we got a really mature group. So, everyone will look in the mirror, starts with myself, Stu, Jeremy, and everyone will look in the mirror and see how we need to improve. And tomorrow we'll all come in the building and see what we need to improve on from the game and we'll get better together.",
+      "verbatim_original_language": "",
+      "start_seconds": 380,
+      "end_seconds": 412,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ty Jerome says the Grizzlies do not need rah rah speeches because they have a mature group that is willing to look in the mirror and improve together.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Stewart",
+          "Jeremy Sochan"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome discusses the maturity of the team and the importance of individual accountability after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "P9NRqwyOLSY",
+  "url": "https://www.youtube.com/watch?v=P9NRqwyOLSY",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-03T04:45:40Z",
+  "duration_seconds": 477,
+  "processed_at": "2026-11-03T08:03:26Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

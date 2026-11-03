@@ -1,0 +1,138 @@
+{
+  "video_title": "Ayo Dosunmu Postgame Interview With Sean Dorcellus | 11.02.26",
+  "speakers_seen": [
+    "Sean Dorcellus",
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Sean Dorcellus",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:06",
+      "summary_phrase": "Ayo Dosunmu on maintaining an aggressive mindset for the Timberwolves",
+      "names_mentioned": [],
+      "excerpt": "I'm just living in the moment trying to take each opportunity, each game for what it's worth",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "19 points, 12 rebounds, 8 assists. What was your mindset coming into this one?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Just being aggressive. I'm trying to get the win. We're short on guys right now, but I'm just living in the moment trying to take each opportunity, each game for what it's worth, and trying to get a win, trying to compete."
+        }
+      ],
+      "start_seconds": 6,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ayo Dosunmu on his aggressive approach while the Timberwolves deal with a shorthanded roster: I am just living in the moment trying to take each opportunity and trying to get a win.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses his aggressive mindset and performance during a postgame interview following a Timberwolves victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Sean Dorcellus",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "Ayo Dosunmu on the importance of defensive consistency",
+      "names_mentioned": [],
+      "excerpt": "We weren't fouling. I think in the first half we had a pretty good job defensively",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "What made the difference in the second half for you guys to be able to pull away here?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "We weren't fouling. I think in the first half we had a pretty good job defensively, I think we only gave up 47 points. So just doing that more in the second half and then just not getting discouraged. Sometimes you look at a team record and the body can naturally just think that you're entitled to a win, but in the NBA, there's great teams, great players, and nothing is easy. So just going out there and just chopping wood each and every possession."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ayo Dosunmu says the key to the Timberwolves second half surge was defensive discipline: We were not fouling and just going out there and chopping wood each and every possession.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains the defensive adjustments made in the second half to secure the win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Sean Dorcellus",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:45",
+      "summary_phrase": "Ayo Dosunmu on taking the season one game at a time",
+      "names_mentioned": [],
+      "excerpt": "Taking it one game at a time. Now we focus on Houston.",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "How do you keep chopping wood the rest of the week and turn this one win into a streak?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Taking it one game at a time. Now we focus on Houston. Enjoy this win, get treatment, get proper rest, and then get ready for Houston, take each game at a time, and just keep getting better."
+        }
+      ],
+      "start_seconds": 45,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ayo Dosunmu on the Timberwolves approach to building momentum: Taking it one game at a time. Now we focus on Houston. Enjoy this win, get treatment, get proper rest, and then get ready for Houston.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu describes the team's approach to maintaining momentum and preparing for their upcoming game against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "P8JQQTSC0oE",
+  "url": "https://www.youtube.com/watch?v=P8JQQTSC0oE",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-03T05:08:02Z",
+  "duration_seconds": 67,
+  "processed_at": "2026-11-03T08:02:47Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

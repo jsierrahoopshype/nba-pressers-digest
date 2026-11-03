@@ -1,0 +1,343 @@
+{
+  "video_title": "Postgame Interview vs Celtics: Marcus Smart",
+  "speakers_seen": [
+    "Marcus Smart",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Marcus Smart",
+      "timestamp": "00:07",
+      "summary_phrase": "Marcus Smart on his motivation playing against his former team",
+      "names_mentioned": [],
+      "excerpt": "you always want to do good against your former team and showing that you still can",
+      "quote": "You know, you always want to do good against your former team and showing that you still can go out there and do what you do, right? So, definitely felt good, energy was there. They know what I can do and reminded them again tonight.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Marcus Smart on facing his former team in Boston: You always want to do good against your former team and show them you can still go out there and do what you do. It felt good.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Marcus Smart discusses his motivation while playing against his former team the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Marcus Smart",
+      "timestamp": "01:04",
+      "summary_phrase": "Marcus Smart on the team's fourth-quarter energy",
+      "names_mentioned": [],
+      "excerpt": "we got a lot of guys that can play on both ends of the floor",
+      "quote": "It was electrifying. The crowd was in it, everybody was in it, everybody was tenacious with it, and then it just trickled down to everybody on the floor and everybody who came in. That's how we got to be. We got a lot of guys that can play on both ends of the floor and we do ourselves a disservice if we don't go out there and leave it all on the floor.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Marcus Smart on the Rockets fourth quarter energy: It was electrifying. The crowd was in it and everybody was tenacious with it.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marcus Smart describes the energy of the team and the crowd during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Marcus Smart",
+      "timestamp": "01:32",
+      "summary_phrase": "Marcus Smart on his role and expectations for the team",
+      "names_mentioned": [],
+      "excerpt": "this is what this team expect from me. They don't expect nothing less",
+      "quote": "Been doing this for 13 years, and that's what I do. That's where I made my name, and that's just what this team expect from me. They don't expect nothing less, and I don't expect anything less for myself.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Marcus Smart on his role after 13 years in the league: That is where I made my name and that is just what this team expects from me. They do not expect nothing less.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marcus Smart reflects on his thirteen-year career and the expectations placed upon him by his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Marcus Smart",
+      "timestamp": "02:02",
+      "summary_phrase": "Marcus Smart on the modern NBA's focus on scoring",
+      "names_mentioned": [],
+      "excerpt": "we got a lot of great players, especially on that offensive end that we kind of lose",
+      "quote": "We in this modern NBA that we got a lot of great players, especially on that offensive end that we kind of lose track of the game of basketball. It's not about just scoring points. There's other aspects of the game that has to be played to make you a basketball player, and I think that kind of gets lost in translation with the talent that we have offensively in this league.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Marcus Smart says the modern NBA focuses too much on scoring: It is not about just scoring points. There are other aspects of the game that have to be played to make you a basketball player.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marcus Smart shares his perspective on the modern NBA's heavy emphasis on offensive scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Marcus Smart",
+      "timestamp": "02:35",
+      "summary_phrase": "Marcus Smart on the team's ability to adapt lineups",
+      "names_mentioned": [],
+      "excerpt": "our ability to adapt lineups. We got different lineups every night",
+      "quote": "Our ability to adapt lineups. We got different lineups every night, certain guys starting, certain guys taking games off for injuries, medical reasons, and it's always the next guy up. That mentality that no matter who comes in, we're going to go out there and do what we're supposed to do, and I think that helps a lot.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Marcus Smart on the Rockets lineup flexibility: We have different lineups every night and it is always the next guy up. That mentality helps a lot.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions",
+          "injuries"
+        ],
+        "context": "Marcus Smart explains how the team adapts its lineup due to injuries and medical reasons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Marcus Smart",
+      "timestamp": "03:06",
+      "summary_phrase": "Marcus Smart on Kevin Porter Jr. as a decoy",
+      "names_mentioned": [
+        "Kevin Porter Jr."
+      ],
+      "excerpt": "it just speaks volumes when teams decide to take him out or try to",
+      "quote": "We all know what Kevin Porter Jr. can do and what he's been doing in this league. It just speaks volumes when teams decide to take him out or try to. But we got so many good players that that's okay. You want to dare us to beat you, we're going to do it. And I think that's just going to help us and help Kevin Porter Jr. because once we start making shots, now you got to pick your poison.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Marcus Smart on teams trying to take Kevin Porter Jr. out of the game: It speaks volumes when teams decide to take him out. But we have so many good players that is okay. You want to dare us to beat you, we are going to do it.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Porter Jr."
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marcus Smart discusses how opposing teams attempt to neutralize Kevin Porter Jr. as a decoy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Marcus Smart",
+      "timestamp": "03:55",
+      "summary_phrase": "Marcus Smart on the team's high confidence level",
+      "names_mentioned": [],
+      "excerpt": "we all want to be better. We all want to prove that we are better",
+      "quote": "Through the roof. We all been working this off-season this summer. We all want to be better. We all want to prove that we are better, we are getting better, and we can do more than what the narrative says about us.",
+      "text_blocks": [],
+      "start_seconds": 235,
+      "end_seconds": 251,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Marcus Smart says the team confidence is through the roof: We all want to prove that we are getting better and we can do more than what the narrative says about us.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marcus Smart describes the high confidence level of the team following their off-season work.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Marcus Smart",
+      "timestamp": "04:19",
+      "summary_phrase": "Marcus Smart on the team's physical training camp",
+      "names_mentioned": [],
+      "excerpt": "the camp for us, it was very physical. We were arguing, we were in each other's faces",
+      "quote": "The camp for us, it was very physical. We were arguing, we were in each other's faces, and we were only making each other better. Iron sharpens iron, right? We got some of the best defenders in the league going up against some of the best offense players in the league, and that's only going to make us better.",
+      "text_blocks": [],
+      "start_seconds": 259,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Marcus Smart on the Rockets training camp: It was very physical. We were arguing and in each other faces, but we were only making each other better. Iron sharpens iron.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marcus Smart reflects on the physical intensity of the team's training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Marcus Smart",
+      "timestamp": "05:08",
+      "summary_phrase": "Marcus Smart on his familiarity with Ime Udoka",
+      "names_mentioned": [
+        "Ime Udoka"
+      ],
+      "excerpt": "this league tries to turn guys into one-dimensional. We got our guys, so we need you not",
+      "quote": "A lot of times you see guys, this league tries to turn guys into one-dimensional. We got our guys, so we need you not to do this when it's like we can do it. And you need us to be able to do it because on nights where your guy, they're taking them out, you need some other way to get some production. So definitely that familiarity with Ime Udoka allows me to go out there and understand that I can play free and play with confidence because I don't have to worry and look over my shoulder every time I do something right or wrong.",
+      "text_blocks": [],
+      "start_seconds": 308,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Marcus Smart on his comfort level with Ime Udoka: That familiarity allows me to go out there and understand that I can play free and play with confidence because I do not have to worry and look over my shoulder.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ime Udoka"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marcus Smart explains how his familiarity with head coach Ime Udoka allows him to play with more confidence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Marcus Smart",
+      "timestamp": "05:45",
+      "summary_phrase": "Marcus Smart on Alperen Sengun's offensive efficiency",
+      "names_mentioned": [
+        "Alperen Sengun"
+      ],
+      "excerpt": "Alperen Sengun is a great player, and I tell him every day, when you put your mind",
+      "quote": "Alperen Sengun is a great player, and I tell him every day, when you put your mind to it and decide to just go and stop trying to do too much, who can stop you, man? You got good footwork, you're crafty, you're a good passer, you can shoot the ball. So he does a lot of great things for us and he's going to have to continue to do that for us, but he definitely helps us tremendously.",
+      "text_blocks": [],
+      "start_seconds": 345,
+      "end_seconds": 375,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Marcus Smart challenges Alperen Sengun: I tell him every day, when you put your mind to it and stop trying to do too much, who can stop you? You have good footwork, you are crafty, you are a good passer.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Marcus Smart praises the offensive skill set and footwork of teammate Alperen Sengun.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Marcus Smart",
+      "timestamp": "06:20",
+      "summary_phrase": "Marcus Smart on Alperen Sengun's defensive impact",
+      "names_mentioned": [
+        "Alperen Sengun",
+        "Jayson Tatum"
+      ],
+      "excerpt": "it allowed us to just keep bodies in front of bodies. Boston does a really good job",
+      "quote": "It allowed us to just keep bodies in front of bodies. Boston does a really good job of exploiting the help and making you pay for it and making you kind of be confused with the actions that they're running off-ball and just opening up lanes. So to be able to keep a body in front of somebody definitely helped stop a lot of things, stop a lot of fires, and having Alperen Sengun be able to do that definitely helps us.",
+      "text_blocks": [],
+      "start_seconds": 380,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Marcus Smart on the defensive effort against Boston: To be able to keep a body in front of somebody definitely helped stop a lot of fires, and having Alperen Sengun be able to do that definitely helps us.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "HOU",
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Marcus Smart discusses how Alperen Sengun helped the team defensively against the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "zcCKv2NftSg",
+  "url": "https://www.youtube.com/watch?v=zcCKv2NftSg",
+  "channel_team": "Houston Rockets",
+  "published": "2026-11-03T05:44:39Z",
+  "duration_seconds": 406,
+  "processed_at": "2026-11-03T08:02:02Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

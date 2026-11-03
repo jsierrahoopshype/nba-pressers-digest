@@ -1,0 +1,250 @@
+{
+  "video_title": "“We Got A Lot Of Good Contribution From Our Group.” | Chris Finch Postgame Sound | 11.2.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:00",
+      "summary_phrase": "Chris Finch on LaMelo Ball finding his offensive rhythm",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "He's got the only guy connecting for us on offense in the first half.",
+      "quote": "LaMelo Ball was obviously all his early threes went in and he's got the only guy connecting for us on offense in the first half. So that was much needed, not just for him but for us overall. What I liked about him, most of it all came in the flow. Even if it was self-generated, it was through a lot of good actions. So, really pleased to see.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch praised LaMelo Ball for his offensive rhythm tonight noting that his production came within the flow of the offense and through good actions. Finch said it was much needed for both Ball and the team overall.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch discusses LaMelo Ball's offensive performance and rhythm during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "01:19",
+      "summary_phrase": "Chris Finch on LaMelo Ball's rebounding ability",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "When he rebounds in the air, he's really good.",
+      "quote": "These aren't really outlier games for LaMelo Ball on the glass. He's had a few like this. What makes him a good rebounder? He can go get the ball in the air. When he rebounds in the air, he's really good. Sometimes he waits for it on the ground and then he's not as good. But yeah, he was really good just going and high-pointing it.",
+      "verbatim_original_language": "",
+      "start_seconds": 79,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch says LaMelo Ball is a high level rebounder when he goes and high points the ball in the air rather than waiting for it on the ground.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates LaMelo Ball's rebounding technique and ability to secure the ball in the air.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:41",
+      "summary_phrase": "Chris Finch on Trey Lyles' impact in the third quarter",
+      "names_mentioned": [
+        "Trey Lyles"
+      ],
+      "excerpt": "He's just such a steady, smart player.",
+      "quote": "Trey Lyles was huge. He just made big shots, got to the hoop, made a little layup over size when he had an advantage there. He's just such a steady, smart player. I feel really confident putting the ball in his hands and getting him involved in the action. You know you're going to get a good shot or he's going to make a good decision. He rebounds well too, so he's another guy that goes and pursues. He pursues outside his area, pursues on the offensive end and the defensive glass.",
+      "verbatim_original_language": "",
+      "start_seconds": 101,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch on Trey Lyles after a strong performance. Finch says he feels very confident putting the ball in Lyles hands because he is a steady and smart player who consistently makes good decisions.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Lyles"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch praises Trey Lyles for his impactful performance and decision-making during the third quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:21",
+      "summary_phrase": "Chris Finch on emphasizing pace without Anthony",
+      "names_mentioned": [
+        "Anthony"
+      ],
+      "excerpt": "We got to continue to find ways to put pace in the game.",
+      "quote": "We've been emphasizing it even more so. We looked at the numbers and sometimes when you look at these pace numbers you don't really have a clear feel for what they're measuring. But we weren't running well off of defensive rebounding. We've been playing good defense and making people miss, and when we've been able to get clean rebounds we just weren't running. So we got to continue to find ways to put pace in the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 141,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch says the team is emphasizing pace more because they were not running well off defensive rebounds. He noted that even when playing good defense and forcing misses they were not pushing the ball in transition.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the team's focus on increasing pace following defensive rebounds in the absence of Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:01",
+      "summary_phrase": "Chris Finch on Jaylen's shot selection and confidence",
+      "names_mentioned": [
+        "Jaylen"
+      ],
+      "excerpt": "The ball's going to come his way and he's got to be ready for it.",
+      "quote": "Jaylen starts out over four from three, but then he hits one from the top of the key. The ball's going to come his way and he's got to be ready for it. I thought the shots he took for the most part were good. Mostly I felt his shots have been in the flow, he's been really shot-ready, and even though he didn't connect on all of them tonight, I thought he made the one that mattered and that means he is staying confident.",
+      "verbatim_original_language": "",
+      "start_seconds": 181,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch on Jaylen staying confident despite a slow shooting start. Finch liked his shot selection and noted that he made the one that mattered most.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "MIN",
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch comments on Jaylen Brown's shot selection and confidence despite a slow start from three-point range.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "03:46",
+      "summary_phrase": "Chris Finch on Kuminga's defensive contributions",
+      "names_mentioned": [
+        "Kuminga"
+      ],
+      "excerpt": "He made it a point to really go hunt the ball.",
+      "quote": "Kuminga had 10 rebounds and four blocks. It seemed like in that third, early fourth, he took it upon himself to get the team going defensively. Yes, and also when we were really struggling to rebound there in the second quarter and put the starters back in, he made it a point to really go hunt the ball and that was big for us. He continues to play the perfect role, making timely shots, and he's really letting things come to him.",
+      "verbatim_original_language": "",
+      "start_seconds": 226,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch credited Kuminga for taking it upon himself to get the team going defensively. Kuminga finished with 10 rebounds and 4 blocks while playing what Finch called the perfect role.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN",
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch highlights Jonathan Kuminga's defensive effort and rebounding contributions during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Chris Finch",
+      "timestamp": "04:36",
+      "summary_phrase": "Chris Finch on Johann's offensive rebounding",
+      "names_mentioned": [
+        "Johann"
+      ],
+      "excerpt": "He goes after every single one.",
+      "quote": "Johann has five of them tonight. What is it about him that makes him such a good offensive rebounder? Well, he goes after every single one. I think it starts there. Whether that's what you have to do, if you want to be a good offensive rebounder you got to go all the time. He's seven foot, he jumps well, he's got long arms, so he can go and get it in a crowd. He's got a good second jump too, so he's got a lot of the DNA that you really need to do it. But the biggest thing is just his mindset to go get them.",
+      "verbatim_original_language": "",
+      "start_seconds": 276,
+      "end_seconds": 318,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Chris Finch says Johann has the right DNA to be a great offensive rebounder but emphasizes that his success comes down to his mindset to go after every single ball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Johann"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch explains the physical attributes and mindset that make Johann an effective offensive rebounder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "fnIVDUrg_0M",
+  "url": "https://www.youtube.com/watch?v=fnIVDUrg_0M",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-03T05:11:09Z",
+  "duration_seconds": 341,
+  "processed_at": "2026-11-03T08:02:55Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}

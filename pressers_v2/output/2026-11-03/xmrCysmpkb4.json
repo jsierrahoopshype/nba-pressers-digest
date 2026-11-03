@@ -1,0 +1,344 @@
+{
+  "video_title": "Zion Williamson | Pelicans vs Grizzlies Postgame Interview 11/2/26",
+  "speakers_seen": [
+    "Zion Williamson",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Zion Williamson",
+      "speakers": [
+        "Unidentified speaker",
+        "Zion Williamson"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Zion Williamson on the Pelicans' late-game execution and trust",
+      "names_mentioned": [
+        "Zion Williamson",
+        "Trey Murphy III",
+        "Saddiq Bey"
+      ],
+      "excerpt": "my teammates was really telling me to go. I got to give a shout to Saddiq",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Just the OT and just being able to take over. What was your mindset and the team's mindset going into that?"
+        },
+        {
+          "speaker": "Zion Williamson",
+          "text": "Coach kind of put us in a set where I'm on the right side of the court. Got Trey, whether they invert. If I come off the screen, I can go straight into a pick and roll with them. But my teammates was really telling me to go. I got to give a shout to Saddiq. That's my brother. When it came time to overtime, he was just like, 'Nope, four or five pick and roll, you go.'"
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson credits his teammates for pushing him to take over in overtime against the Grizzlies. He says his teammates told him to go for it on the four five pick and roll when it mattered most.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zion Williamson explains how his teammates encouraged him to take control during overtime against the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Zion Williamson",
+      "speakers": [
+        "Unidentified speaker",
+        "Zion Williamson"
+      ],
+      "timestamp": "00:41",
+      "summary_phrase": "Zion Williamson on the confidence boost from his teammates",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "That's definitely a huge boost to confidence. Sometimes I can be conservative, but when they tell me to go, I'm going.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What is that like when your teammates are telling you just like, 'No, no, no, it's you, go for it'?"
+        },
+        {
+          "speaker": "Zion Williamson",
+          "text": "That's definitely a huge boost to confidence. Sometimes I can be conservative, but when they tell me to go, I'm going."
+        }
+      ],
+      "start_seconds": 41,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson admits he can sometimes be conservative on the court but says it is a huge confidence boost when his teammates tell him to just go for it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zion Williamson discusses how receiving encouragement from his teammates boosts his confidence during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Zion Williamson",
+      "speakers": [
+        "Unidentified speaker",
+        "Zion Williamson"
+      ],
+      "timestamp": "00:54",
+      "summary_phrase": "Zion Williamson on building chemistry with Trey Murphy III",
+      "names_mentioned": [
+        "Trey Murphy III",
+        "Zion Williamson"
+      ],
+      "excerpt": "In the NBA, you come across different teams, different lineups, different looks, and we just want to be able to attack.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You talk about the four-five at the end of the game, but to start the game, Trey had the ball at the front, making an Iverson cut. You're coming up to do the pick and roll the first two or three plays. Is that something you all are building off of to get to where you do those things?"
+        },
+        {
+          "speaker": "Zion Williamson",
+          "text": "Absolutely, because in the NBA, you come across different teams, different lineups, different looks, and we just want to be able to attack from multiple angles, multiple looks, and multiple different lineups."
+        }
+      ],
+      "start_seconds": 54,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Zion Williamson on the Pelicans offensive versatility. He says the team is focused on being able to attack from multiple angles and lineups to keep defenses guessing.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson describes the team's offensive strategy and building chemistry with Trey Murphy III.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Zion Williamson",
+      "speakers": [
+        "Unidentified speaker",
+        "Zion Williamson"
+      ],
+      "timestamp": "01:29",
+      "summary_phrase": "Zion Williamson on Trey Murphy III's clutch free throws",
+      "names_mentioned": [
+        "Trey Murphy III",
+        "Zion Williamson"
+      ],
+      "excerpt": "Expecting nothing less from him. Honestly, I thought he got the and-one at first, but when he missed the and-one I said, 'He's going to make both of these.'",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What does it mean for, go back to Trey making those three throws, you know, the 20-year-old going in there and just swishing both of those?"
+        },
+        {
+          "speaker": "Zion Williamson",
+          "text": "Expecting nothing less from him. Honestly, I thought he got the and-one at first, but when he missed the and-one I said, 'He's going to make both of these.' You see it from him night in and night out. Zero fears. Went up there and knocked them down."
+        }
+      ],
+      "start_seconds": 89,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson says he expected nothing less than Trey Murphy III knocking down those clutch free throws. He praised Murphy for playing with zero fear night in and night out.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson praises Trey Murphy III for his composure while making clutch free throws.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Zion Williamson",
+      "speakers": [
+        "Unidentified speaker",
+        "Zion Williamson"
+      ],
+      "timestamp": "01:53",
+      "summary_phrase": "Zion Williamson on Jeremiah Robinson-Earl's growth and work ethic",
+      "names_mentioned": [
+        "Jeremiah Robinson-Earl",
+        "Zion Williamson"
+      ],
+      "excerpt": "Every time I'm putting in extra shots, he's in there. His energy he brings every day is the same thing you see on TV.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How much of that is the first game last year? He had to learn a hard lesson here with John and he said, 'Not on my rookie.' He came out here today and that grunts you see from Jeremiah and the excitement that builds."
+        },
+        {
+          "speaker": "Zion Williamson",
+          "text": "Absolutely. Being in the gym with him every day, every time I'm putting in extra shots, he's in there. His energy he brings every day is the same thing you see on TV. Some moments it's funny, some other moments it's like, 'Dude, chill.' But no, he always works on his game and in moments like that, that's why we all have faith in him like, 'No, these two good, let's just get a stop.'"
+        }
+      ],
+      "start_seconds": 113,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson praises Jeremiah Robinson Earl for his work ethic and energy. Zion says he sees the work Robinson Earl puts in the gym every single day.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zion Williamson discusses the work ethic and energy Jeremiah Robinson-Earl brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Zion Williamson",
+      "speakers": [
+        "Unidentified speaker",
+        "Zion Williamson"
+      ],
+      "timestamp": "02:42",
+      "summary_phrase": "Zion Williamson on the final defensive possession",
+      "names_mentioned": [
+        "Ty Jerome",
+        "Zion Williamson"
+      ],
+      "excerpt": "It was just, you know, be physical, but be physical without fouling.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "On the last play for them, were you all keying on Ty Jerome at that point?"
+        },
+        {
+          "speaker": "Zion Williamson",
+          "text": "A little bit, but at the same time, you don't want to overkey on someone because it might lead somebody open and we don't want to give nobody open looks. It was just, you know, be physical, but be physical without fouling."
+        }
+      ],
+      "start_seconds": 162,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Zion Williamson on the Pelicans defensive strategy during the final possession against the Grizzlies. He says the goal was to be physical without fouling while avoiding overcommitting to one player.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "NOP",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Zion Williamson explains the defensive approach the Pelicans took against Ty Jerome on the final play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Zion Williamson",
+      "speakers": [
+        "Unidentified speaker",
+        "Zion Williamson"
+      ],
+      "timestamp": "03:00",
+      "summary_phrase": "Zion Williamson on the impact of extra work with coaches",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "I got to thank Sham and RG for that. Every day, after every practice, with every shooter around, we're always putting in work.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How much of the work that you've been putting in on the shot, but to go to that at that point in the overtime, just how key was that for you to be able to know and trust all that work you've been putting in?"
+        },
+        {
+          "speaker": "Zion Williamson",
+          "text": "I got to thank Sham and RG for that. Every day, after every practice, with every shooter around, we're always putting in work. Those exact situations, like work on taking a dribble, hesitation, pull. And as the game goes on, Sham is always telling me, 'Nah, go ahead and take a few,' so in the fourth quarter come, it already feels good. So I got to definitely thank Sham and RG for that."
+        }
+      ],
+      "start_seconds": 180,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Zion Williamson credits coaches Sham and RG for his late game confidence. He says they work on specific situations like hesitation pulls after every practice so he feels ready when the fourth quarter arrives.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Zion Williamson credits his coaches for the extra work they put in with him to improve his shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "xmrCysmpkb4",
+  "url": "https://www.youtube.com/watch?v=xmrCysmpkb4",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-03T05:40:58Z",
+  "duration_seconds": 217,
+  "processed_at": "2026-11-03T08:01:10Z",
+  "run_id": "2026-11-03-overnight",
+  "is_one_off": false
+}
