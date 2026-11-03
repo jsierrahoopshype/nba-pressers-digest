@@ -1,0 +1,348 @@
+{
+  "video_title": "LIVE: Pelicans vs. Grizzlies Postgame Interviews 11/02/2026",
+  "speakers_seen": [
+    "Jamahl Mosley",
+    "Karlo Matković"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "11:47",
+      "summary_phrase": "Jamahl Mosley on the Pelicans' team-oriented approach to winning",
+      "names_mentioned": [],
+      "excerpt": "These guys did an unbelievable job of finding a way to stay poised going into overtime.",
+      "quote": "We talk about by committee, and it definitely was by committee. These guys did an unbelievable job of finding a way to stay poised going into overtime. Obviously, we had the lead and gave it back to them, but the ability to find a way down the stretch to get the stops that we needed, to execute the things that we needed, that's what I'm most proud of these guys. The learning lessons that they're continuing to show and following the game plan. Our coaches did an unbelievable job of talking about the game plan and what we could give up, what we could take away. Obviously, there's always going to be cleanup in these situations, but the resiliency and the toughness and the grit that these guys showed, that's what it's got to look like.",
+      "text_blocks": [],
+      "start_seconds": 707,
+      "end_seconds": 759,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the Pelicans' overtime win: We talk about by committee and it definitely was by committee. These guys did an unbelievable job of finding a way to stay poised.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley reflects on the team's ability to execute and maintain poise during an overtime victory against the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "12:44",
+      "summary_phrase": "Jamahl Mosley on the team's resilience in overtime situations",
+      "names_mentioned": [],
+      "excerpt": "We've been here before. Go take the game.",
+      "quote": "We've been here before. Go take the game. And when you go through these experiences in the league, the games that you lose in overtime or up 15 to 20 and you find a way to blow it, now you understand what it looks like in these moments. And that's the beauty of the team that they're responding to everything the coaches are asking them to do. The coaches are doing an unbelievable job of telling them what's needed in these games and they responded well. They executed down the stretch and got the big stops when we needed them.",
+      "text_blocks": [],
+      "start_seconds": 764,
+      "end_seconds": 802,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says the Pelicans are learning from past mistakes in close games: When you go through these experiences in the league, now you understand what it looks like in these moments.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses how the team is learning from past experiences in close games and responding to coaching instructions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "13:30",
+      "summary_phrase": "Jamahl Mosley on Karlo Matković's team-first mentality",
+      "names_mentioned": [
+        "Karlo Matković"
+      ],
+      "excerpt": "Karlo is one of those special ones that he's about everybody else. He's about the team.",
+      "quote": "I've said this about Karlo before. He's one of those special ones that he's about everybody else. He's about the team. And you can see it when he makes a shot or makes a big play, that his teammates celebrate him. And that says everything about him as a human being but also as a basketball player that they want to celebrate the work he puts in because he wants none of the light, but he's always willing to give it away. That's why his teammates will celebrate him the way that they do.",
+      "text_blocks": [],
+      "start_seconds": 810,
+      "end_seconds": 846,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on Karlo Matkovic: He is one of those special ones that is about everybody else. He wants none of the light, but he is always willing to give it away.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karlo Matković"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley praises Karlo Matković for his selfless team-first mentality and the positive impact he has on his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "14:08",
+      "summary_phrase": "Jamahl Mosley on the development of Karlo Matković's shooting",
+      "names_mentioned": [
+        "Karlo Matković"
+      ],
+      "excerpt": "I think that goes to the work that he and Sham have put in.",
+      "quote": "I think that goes to the work that he and Sham have put in. Just for him to have the belief and us having the belief in him that he can knock that shot down. He was comfortable the whole time. There are a few times he felt he needed to turn the corner, but then he registered how the game was being played, put the ball in his hands, and he made the play. But to me, one of the biggest plays of the night was that last stop by Trey Murphy. Him being one of those two-way guys that can give you points but also can sit down and guard the different matchups night in and night out.",
+      "text_blocks": [],
+      "start_seconds": 848,
+      "end_seconds": 894,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley highlights Trey Murphy as a key two-way player: One of the biggest plays of the night was that last stop by Trey Murphy. He can give you points but also sit down and guard.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karlo Matković",
+          "Trey Murphy"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the development of Karlo Matković's shooting and highlights a key defensive play made by Trey Murphy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "15:15",
+      "summary_phrase": "Jamahl Mosley on the Pelicans' depth and ball-handling options",
+      "names_mentioned": [
+        "Trey Murphy"
+      ],
+      "excerpt": "The beauty of this team is that we're deep and we have guys that can all make plays.",
+      "quote": "I wish I could sit here and tell you it's going to be like this every night or that every night, but the beauty of this team is that we're deep and we have guys that can all make plays. There's time Herb brings it up, Siddiq brought it up, Benedict brought it up, you know, Trey will bring it up, T-Wat will bring it up, DQ's brought it up. We have a lot of guys that can initiate the offense and with that ball in your hand, you have a heck of a responsibility. And I'm proud that each one of these guys brought the ball up and that we only had eight turnovers.",
+      "text_blocks": [],
+      "start_seconds": 915,
+      "end_seconds": 959,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on the Pelicans' ball-handling depth: We have a lot of guys that can initiate the offense and with that ball in your hand, you have a heck of a responsibility.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley comments on the team's depth and the various players capable of initiating the offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "16:44",
+      "summary_phrase": "Jamahl Mosley on the value of role players like Herb Jones",
+      "names_mentioned": [
+        "Herb Jones",
+        "Karlo Matković",
+        "Bryce McGowens"
+      ],
+      "excerpt": "Herb is a big-time stopper. And obviously, he hits some big-time shots for us as well.",
+      "quote": "Herb is a big-time stopper. And obviously, he hits some big-time shots for us as well, had some great looks. But he just does, and this is what I say about guys like Herb, like Karlo, Bryce, T-Wat, guys that don't get a lot of minutes all the time or have just bumped in and bumped out, they just do whatever is necessary for this team to win. And I'll say it over and over and over again till I'm probably blue in the face. This is a by-committee team, and every night it's going to be somebody different.",
+      "text_blocks": [],
+      "start_seconds": 1004,
+      "end_seconds": 1042,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley praises his role players: Guys that do not get a lot of minutes all the time, they just do whatever is necessary for this team to win. This is a by-committee team.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones",
+          "Karlo Matković"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley highlights the contributions of role players like Herb Jones and their willingness to do whatever is necessary to win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Karlo Matković",
+      "timestamp": "18:45",
+      "summary_phrase": "Karlo Matković on his career-high performance and team win",
+      "names_mentioned": [],
+      "excerpt": "We had a good team basketball. Got a win, that's most important.",
+      "quote": "We had a good team basketball. Got a win, that's most important. But yeah, it felt good.",
+      "text_blocks": [],
+      "start_seconds": 1125,
+      "end_seconds": 1132,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Karlo Matkovic on the team's win: We had good team basketball. Got a win, that is most important.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Karlo Matković briefly expresses satisfaction with the team's performance following the win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Karlo Matković",
+      "timestamp": "19:17",
+      "summary_phrase": "Karlo Matković on the experience of starting in the NBA",
+      "names_mentioned": [],
+      "excerpt": "It's an awesome feeling. I'm blessed to be starting in the NBA and like on that level.",
+      "quote": "It's an awesome feeling. I'm blessed to be starting in the NBA and like on that level. I think it's something to be happy about, cherish it. I enjoy every game. I approach every game the same. Trying to be ready, and I appreciate the coaches believing in me.",
+      "text_blocks": [],
+      "start_seconds": 1157,
+      "end_seconds": 1176,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Karlo Matkovic on his experience starting in the NBA: It is an awesome feeling. I am blessed to be starting in the NBA and I enjoy every game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Karlo Matković shares his feelings on the opportunity to start in an NBA game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Karlo Matković",
+      "timestamp": "19:44",
+      "summary_phrase": "Karlo Matković on maintaining perspective during the long NBA season",
+      "names_mentioned": [],
+      "excerpt": "It's always a long season and I think we shouldn't be like, you know, judging off the first.",
+      "quote": "It's always a long season and I think we shouldn't be like, you know, judging off the first five, six, ten games. It's 82 games in a season, NBA is like that. Sometimes you win, sometimes you lose. But I don't know, like we just got to be ready, look at our film, stay ready, be confident in each other, trust each other, play together, do your job like we say all the time, play hard, and it's going to come from there.",
+      "text_blocks": [],
+      "start_seconds": 1184,
+      "end_seconds": 1216,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Karlo Matkovic on the long NBA season: We should not be judging off the first five, six, ten games. It is 82 games in a season.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Karlo Matković emphasizes the importance of maintaining perspective and trusting the process throughout the long 82-game season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Karlo Matković",
+      "timestamp": "20:25",
+      "summary_phrase": "Karlo Matković on his playing style and role on the team",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "I'm going to run, rim run. After rebounds, try to get stops, block shots, whatever.",
+      "quote": "I'm going to run, rim run. After rebounds, try to get stops, block shots, whatever. Get out there, be the first one in transition. That's how I play. I think that's my style of play and then spread out the court, have more space in the paint for Z, whoever going to the rim. Being in the corner, cut, whatever. But simplify as much as I can and then just try to do my job.",
+      "text_blocks": [],
+      "start_seconds": 1225,
+      "end_seconds": 1254,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Karlo Matkovic on his role: I am going to run, rim run. After rebounds, try to get stops, block shots, whatever. Simplify as much as I can and then just try to do my job.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Karlo Matković explains his personal playing style and his role in supporting teammates like Zion Williamson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Karlo Matković",
+      "timestamp": "21:07",
+      "summary_phrase": "Karlo Matković on the defensive impact of playing with Herb Jones",
+      "names_mentioned": [
+        "Herb Jones"
+      ],
+      "excerpt": "Talking with Herb about defense, I think helps a lot. I think with everybody.",
+      "quote": "Talking with Herb about defense, I think helps a lot. I think with everybody. Super smart, getting some tips helps, especially like in pick and roll stuff. It's great to have him. He goes through those screens, he squeezes through and it's easy to get back to my man. He's a great defender, I mean, first team all defense. We love him, I'm glad we have him on the team.",
+      "text_blocks": [],
+      "start_seconds": 1267,
+      "end_seconds": 1294,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Karlo Matkovic on playing defense with Herb Jones: Talking with Herb about defense helps a lot. He goes through those screens, he squeezes through and it is easy to get back to my man.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Karlo Matković discusses the defensive benefits of playing alongside Herb Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "evHgO-CQ570",
+  "url": "https://www.youtube.com/watch?v=evHgO-CQ570",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-03T19:27:05Z",
+  "duration_seconds": 1402,
+  "processed_at": "2026-11-03T20:30:02Z",
+  "run_id": "2026-11-03T2029Z-14utc",
+  "is_one_off": false
+}

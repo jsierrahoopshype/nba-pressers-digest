@@ -1,0 +1,150 @@
+{
+  "video_title": "LaMelo Ball Makes NBA HISTORY | 1,000 Career Threes | Full UNCUT Postgame | Minnesota Timberwolves",
+  "speakers_seen": [
+    "LaMelo Ball",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:54",
+      "summary_phrase": "LaMelo Ball on his offensive rhythm and pregame preparation",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I pretty much just went out there and played basketball. Had a little pregame nap.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Melo, a season-high 34 for you. What were you feeling offensively? You got yourself into a really great rhythm in that first half."
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Pretty much just went out there and played basketball. Had a little pregame nap, so feeling great. Played with the kid before the game, so yeah, I was feeling amazing."
+        }
+      ],
+      "start_seconds": 54,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "LaMelo Ball says his secret to a season high 34 point performance was simple. He had a pregame nap and played with his kid before tip off. He said he was just out there playing basketball and feeling amazing.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball describes his pregame routine and mindset following a 34-point performance against the Minnesota Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:10",
+      "summary_phrase": "LaMelo Ball on his on-court chemistry with teammate",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I love playing with him. I love playing fast, so he can get out.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What have you been able to feel with the duo of you and playing alongside each other? He had a near triple-double tonight himself along with your 34. What kind of punch do you guys have together?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I mean, he is faster than no other, so I love playing with him. I love playing fast, so he can get out. I always know where he is at, he knows where I am starting to be at, so it is just good chemistry."
+        }
+      ],
+      "start_seconds": 70,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "LaMelo Ball is loving the pace of his current backcourt pairing. He says his teammate is faster than no other and that their chemistry is growing because they both love playing fast and always know where the other is on the floor.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses his on-court chemistry and playing style alongside a teammate after a high-scoring game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:32",
+      "summary_phrase": "LaMelo Ball praises teammate's passing ability",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I loved it. That was a great pass. That was a great pass for sure.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "As great of a passer as you are, what did you think of that touch behind the back from to you?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I loved it. That was a great pass. That was a great pass for sure."
+        }
+      ],
+      "start_seconds": 92,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "LaMelo Ball was clearly impressed by his teammate's vision tonight. When asked about a specific behind the back pass he received, Ball kept it brief and said it was a great pass for sure.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball reacts to a specific behind-the-back pass he received from a teammate during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "5XmgUdGvW4c",
+  "url": "https://www.youtube.com/watch?v=5XmgUdGvW4c",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-03T18:47:13Z",
+  "duration_seconds": 244,
+  "processed_at": "2026-11-03T20:30:06Z",
+  "run_id": "2026-11-03T2029Z-14utc",
+  "is_one_off": false
+}

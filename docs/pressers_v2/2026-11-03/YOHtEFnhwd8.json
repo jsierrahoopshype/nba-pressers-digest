@@ -1,0 +1,198 @@
+{
+  "video_title": "11.03.2026 Practice Media Availability | J.B. Bickerstaff",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:09",
+      "summary_phrase": "J.B. Bickerstaff on cleaning up habits after a long road trip",
+      "names_mentioned": [],
+      "excerpt": "today was a great day to just get on the floor and clean up some things",
+      "quote": "Just cleaning up habits. Yesterday was a game where we were able to balance minutes and guys didn't have to carry a heavy load. So today was a great day to just get on the floor and clean up some things that we've been noticing over the stretch of these first seven games.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says the Pistons are using practice to clean up habits after a long road trip and balancing minutes to keep the team fresh for the upcoming stretch.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff discusses the team's focus on improving habits following a long road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:34",
+      "summary_phrase": "J.B. Bickerstaff on Cade Cunningham's evolution as a complete offensive player",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "he's not just a one-dimensional shooter, he's a complete offensive player",
+      "quote": "Because he shoots it the way that he does, a lot of people overreact to him. Now that gives him an opportunity to put the ball on the floor, get to the paint, and draw contact, which is a great addition to his game. But you've seen it continue; he's not just a one-dimensional shooter, he's a complete offensive player because he can pass from there, he can finish from there, and obviously you get to the paint, you're more likely to draw fouls.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "JB Bickerstaff on Cade Cunningham's evolution: He is not just a one dimensional shooter, he is a complete offensive player who can pass, finish, and draw contact.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains how Cade Cunningham has evolved into a more complete offensive player beyond just shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:14",
+      "summary_phrase": "J.B. Bickerstaff on the team's collective willingness to do hard things",
+      "names_mentioned": [],
+      "excerpt": "our guys are willing to do hard things longer than and more efficient than a lot of other people",
+      "quote": "It always starts with the guys and what they're willing to do. Our guys are willing to do hard things longer than and more efficient than a lot of other people. And that's what it comes down to is it can't be one guy or two guys, it has to be everyone who steps on the floor has a willingness to do that. And our guys have shown they've been willing to do it.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff credits the team's early success to a collective mindset, saying the Pistons are willing to do hard things longer and more efficiently than others.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff praises the collective willingness of his players to perform difficult tasks on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:59",
+      "summary_phrase": "J.B. Bickerstaff on maximizing Cade Cunningham's efficiency with off-ball movement",
+      "names_mentioned": [
+        "Cade Cunningham",
+        "Jalen Duren"
+      ],
+      "excerpt": "being able to create open looks for him where he doesn't have to do it all on his own",
+      "quote": "We're trying to figure out ways to make his job easier and make what he does even more efficient. Being able to create open looks for him where he doesn't have to do it all on his own is going to help our offense be more efficient. Him be more efficient, it's going to change the way teams have to guard what we're doing. So the more of those we can create, the off-ball stuff that we're doing with him, it just makes us a better and more versatile offense.",
+      "verbatim_original_language": "",
+      "start_seconds": 119,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "The Pistons are prioritizing off-ball movement to make Cade Cunningham more efficient. Bickerstaff says creating open looks for him will make the entire offense more versatile.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the team's efforts to increase Cade Cunningham's efficiency through off-ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:36",
+      "summary_phrase": "J.B. Bickerstaff on Cade Cunningham's growth and comfort with the team",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "he's a dynamic basketball player, we just had to figure out how to utilize him best",
+      "quote": "It takes time for people to understand one how they fit, but exactly what the system is and where they fit in the system. Getting him here late last year, dealing with the injuries, but then having him over the summer, training camp has made a huge difference for him because he's a really good basketball player. He's a dynamic basketball player, we just had to figure out how to utilize him best and then him get comfortable with a new team, new players, but we've seen what he's capable of.",
+      "verbatim_original_language": "",
+      "start_seconds": 156,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "JB Bickerstaff says having a full training camp and summer has been a huge difference for Cade Cunningham as he gets comfortable in the system.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff reflects on Cade Cunningham's growth and comfort within the team system after a full training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:22",
+      "summary_phrase": "J.B. Bickerstaff on Cade Cunningham's high-level basketball IQ",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "you realize that he's a brilliant basketball mind, the way he sees the game",
+      "quote": "You talk to him, one you realize that he's a brilliant basketball mind, the way he sees the game, the way he's able to apply the game, and the apply the things that he's seeing in the moment. Not everybody can do that. He can see the first two plays of a game, how you're going to guard him, and then he has a plan to attack that. If you're going to be aggressive versus him early, he knows to get off of it. If you're going to stay home with everybody else and let him get his, he can go be aggressive until you have to make some changes.",
+      "verbatim_original_language": "",
+      "start_seconds": 202,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "JB Bickerstaff calls Cade Cunningham a brilliant basketball mind, noting his ability to read defensive coverages early in games and adjust his approach accordingly.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff highlights Cade Cunningham's high basketball IQ and his ability to read and react to defensive coverages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "YOHtEFnhwd8",
+  "url": "https://www.youtube.com/watch?v=YOHtEFnhwd8",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-03T20:07:24Z",
+  "duration_seconds": 252,
+  "processed_at": "2026-11-03T20:29:54Z",
+  "run_id": "2026-11-03T2029Z-14utc",
+  "is_one_off": false
+}

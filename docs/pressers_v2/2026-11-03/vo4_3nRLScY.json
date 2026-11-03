@@ -1,0 +1,214 @@
+{
+  "video_title": "11.03.2026 Practice Media Availability | Paul Reed",
+  "speakers_seen": [
+    "Paul Reed"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Paul Reed",
+      "timestamp": "00:34",
+      "summary_phrase": "Paul Reed on his preparation and consistency this season",
+      "names_mentioned": [],
+      "excerpt": "I'm just going out there and making sure that I'm doing all the little things.",
+      "quote": "I'm just going out there and making sure that I'm doing all the little things. Recovery, sleep, putting that work in for sure, and just trying to make sure I'm staying consistent with those three things.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Paul Reed says he is focusing on recovery, sleep, and putting in the work to stay consistent this season.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Paul Reed discusses his personal preparation and consistency during practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Paul Reed",
+      "timestamp": "00:56",
+      "summary_phrase": "Paul Reed on improving his rebounding performance",
+      "names_mentioned": [],
+      "excerpt": "I know I'm better than four rebounds. I can be better than that.",
+      "quote": "I know I'm better than four rebounds. I can be better than that, so I just have to go out there and do better. Sometimes it just takes me getting in the weight room, working a little harder, and I'll probably come up with more rebounds.",
+      "verbatim_original_language": "",
+      "start_seconds": 56,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Paul Reed is not satisfied with his rebounding numbers, saying I know I am better than four rebounds and he plans to work harder in the weight room to improve.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Paul Reed reflects on his rebounding performance and his goal to improve his numbers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Paul Reed",
+      "timestamp": "01:31",
+      "summary_phrase": "Paul Reed on his defensive strategy against moving screens",
+      "names_mentioned": [],
+      "excerpt": "I'll be trying to avoid those as much as possible.",
+      "quote": "A lot of times they call it moving screens, so I'll be trying to avoid those as much as possible. But sometimes if it's tight, I don't even want to get a moving screen, I might keep it, let them curl, and see what advantages we can get from that. It's really just a read. I'll just be reading the defense, seeing what the defense gives us.",
+      "verbatim_original_language": "",
+      "start_seconds": 91,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paul Reed explains his defensive approach to moving screens, noting that it is really just a read and he is looking to see what the defense gives him.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Paul Reed explains his defensive approach when dealing with moving screens during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Paul Reed",
+      "timestamp": "01:54",
+      "summary_phrase": "Paul Reed on the importance of his signature fadeaway shot",
+      "names_mentioned": [],
+      "excerpt": "That's just one of them go-to moves that you got to have in the bag.",
+      "quote": "That's just one of them go-to moves that you got to have in the bag. You got to be able to get a bucket sometimes and that's just one of them. You got to be able to get to that move, get to the shot. So it's really before the shot, you got to be able to get to it.",
+      "verbatim_original_language": "",
+      "start_seconds": 114,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Paul Reed on his signature fadeaway, calling it a go-to move you have to have in the bag to get a bucket.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Paul Reed discusses the importance of having a reliable fadeaway shot in his offensive repertoire.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Paul Reed",
+      "timestamp": "02:24",
+      "summary_phrase": "Paul Reed on encouraging teammate's aggressive play",
+      "names_mentioned": [],
+      "excerpt": "I'm probably one of the main guys telling him to go be aggressive.",
+      "quote": "I'm probably one of the main guys telling him to go be aggressive, especially when we have a mismatch on him, take advantage. It's helping the team a lot. You're getting easy buckets in transition, so we're encouraging him to be aggressive.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paul Reed says he is encouraging his teammates to be aggressive when they have a mismatch to help the team get easy buckets in transition.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Paul Reed explains how he encourages his teammates to play aggressively to exploit mismatches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Paul Reed",
+      "timestamp": "02:49",
+      "summary_phrase": "Paul Reed on his teammate's development and impact",
+      "names_mentioned": [],
+      "excerpt": "We all knew that he was a great shooter coming in.",
+      "quote": "We all knew that he was a great shooter coming in, but we didn't know that he could dribble, pass, defend the way he's doing. So, I mean, it's just a huge plus for our offense and our defense. And he's a good culture guy, so this is a great piece.",
+      "verbatim_original_language": "",
+      "start_seconds": 169,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Paul Reed praises a teammate for exceeding expectations, noting that while they knew he could shoot, his ability to dribble, pass, and defend has been a huge plus.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Paul Reed praises a teammate for his unexpected development in dribbling, passing, and defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Paul Reed",
+      "timestamp": "03:13",
+      "summary_phrase": "Paul Reed on his teammate's defensive contributions",
+      "names_mentioned": [],
+      "excerpt": "I'm seeing him get a lot of blocks, a lot of steals.",
+      "quote": "I'm seeing him get a lot of blocks, a lot of steals, and I'm being impressed, making me want to go out there and get some more blocks and steals. So yeah, I like to see that from him.",
+      "verbatim_original_language": "",
+      "start_seconds": 193,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Paul Reed says he is impressed by his teammate's defensive contributions, adding that seeing those blocks and steals makes him want to go out and get more himself.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Paul Reed expresses how his teammate's defensive play motivates him to improve his own defensive stats.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "vo4_3nRLScY",
+  "url": "https://www.youtube.com/watch?v=vo4_3nRLScY",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-03T20:10:54Z",
+  "duration_seconds": 207,
+  "processed_at": "2026-11-03T20:29:54Z",
+  "run_id": "2026-11-03T2029Z-14utc",
+  "is_one_off": false
+}
