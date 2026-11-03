@@ -185,6 +185,11 @@ class FormatParityTests(unittest.TestCase):
         a = ours.split("\n")
         self.assertEqual(a[0], "# NBA Pressers — 2026-09-30")
         a[0] = "# HoopsHype YT Quotes — 2026-09-30"
+        # the "Best of the best" block is ours alone: drop it (header to its closing ---)
+        if pe.TOP_QUOTES_HEADER in a:
+            top = a.index(pe.TOP_QUOTES_HEADER)
+            end = a.index("---", top)
+            del a[top:end + 2]
         kept = []
         for i, line in enumerate(a):
             if line in SECTION_HEADERS:
@@ -273,6 +278,44 @@ class PipelineTests(unittest.TestCase):
         self.assertIn("#" + harden_md, digest)                 # video block = yt-quotes block, h1 -> h2
         self.assertNotIn("(approx.)", digest)
         self.assertTrue(digest.rstrip().endswith(ytq.DIGEST_CLOSING_LINE))
+
+    def test_digest_leads_with_best_of_the_best(self):
+        with TempOutput():
+            for vid, title, one_off in (("J5unk3vEQmk", "James Harden Media Availability", False),
+                                        ("p7o-S3hmoD4", "Chase Down Podcast Live: Media Day Reactions", False),
+                                        ("auzyc8y-uNI", "Caleb Wilson: My First Media Day", True)):
+                pe.process_video(client_for(HARDEN, HARDEN_FIELDS), video(vid, title, one_off), "Cleveland Cavaliers")
+            digest = pe.write_digest_file("2026-09-30", "digest.md").read_text(encoding="utf-8")
+        top = digest.index(pe.TOP_QUOTES_HEADER)
+        self.assertLess(top, digest.index("# Press conferences"))
+        block = digest[top:digest.index("\n---\n", top)]
+        # 6 quotes in the digest -> 10% rounded up = 1; the unidentified reporter question never qualifies
+        self.assertEqual(len(re.findall(r"(?m)^\*\*\d+\.", block)), 1)
+        self.assertIn("**1. James Harden", block)
+        self.assertNotIn("bench and how deep", block)
+        self.assertIn("From: [James Harden Media Availability](https://www.youtube.com/watch?v=J5unk3vEQmk)", block)
+        # clip link keeps the quote's real number and second, so the clip tool finds it
+        self.assertIn(pe.clip_link_line("J5unk3vEQmk", 118, 1), block)
+        # everything below is the same digest as before
+        self.assertTrue(digest.rstrip().endswith(ytq.DIGEST_CLOSING_LINE))
+
+    def test_best_of_the_best_caps_per_video_and_skips_unscored(self):
+        with TempOutput() as out:
+            day = out / "2026-09-30"
+            day.mkdir(parents=True)
+            quotes = [{"rank": r, "speaker": "Coach A", "timestamp": f"00:{r:02d}", "quote": f"q{r}",
+                       "summary_phrase": "", "excerpt": "", "names_mentioned": [], "news_score": 9}
+                      for r in range(1, 21)]
+            quotes.append({"rank": 21, "speaker": "Coach A", "timestamp": "01:00", "quote": "x",
+                           "news_score": None})
+            for vid in ("AAAAAAAAAA1", "AAAAAAAAAA2"):
+                (day / f"{vid}.json").write_text(json.dumps({"video_id": vid, "video_title": vid,
+                                                             "channel_team": "T", "quotes": quotes}))
+                (day / f"{vid}.md").write_text("x")
+            lines = pe.top_quotes_block([day / "AAAAAAAAAA1.md", day / "AAAAAAAAAA2.md"])
+        headers = [l for l in lines if re.match(r"^\*\*\d+\.", l)]
+        self.assertEqual(len(headers), 2 * pe.TOP_QUOTES_PER_VIDEO)   # 10% of 42 = 5, capped at 2 per video
+        self.assertEqual(pe.top_quotes_block([]), [])
 
     def test_legacy_output_migrated_to_ytq_format(self):
         legacy = {"video_id": "AAAAAAAAAA1", "video_title": "Joe Mazzulla Postgame", "channel_team": "Boston Celtics",
