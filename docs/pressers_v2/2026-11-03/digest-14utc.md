@@ -8,6 +8,8 @@ J.B. Bickerstaff: "Because he shoots it the way that he does, a lot of people ov
 
 [https://www.youtube.com/watch?v=YOHtEFnhwd8&t=34s](https://www.youtube.com/watch?v=YOHtEFnhwd8&t=34s)
 
+<small>[Clip it](presserclips://clip?v=YOHtEFnhwd8&t=34&q=1) · [Send to Slack](presserclips://clip?v=YOHtEFnhwd8&t=34&q=1&slack=1)</small>
+
 From: [11.03.2026 Practice Media Availability | J.B. Bickerstaff](https://www.youtube.com/watch?v=YOHtEFnhwd8) · *Detroit Pistons*
 
 <small>[Clip it](presserclips://clip?v=YOHtEFnhwd8&t=34&q=2) · [Send to Slack](presserclips://clip?v=YOHtEFnhwd8&t=34&q=2&slack=1)</small>
@@ -17,6 +19,8 @@ From: [11.03.2026 Practice Media Availability | J.B. Bickerstaff](https://www.yo
 J.B. Bickerstaff: "We're trying to figure out ways to make his job easier and make what he does even more efficient. Being able to create open looks for him where he doesn't have to do it all on his own is going to help our offense be more efficient. Him be more efficient, it's going to change the way teams have to guard what we're doing. So the more of those we can create, the off-ball stuff that we're doing with him, it just makes us a better and more versatile offense."
 
 [https://www.youtube.com/watch?v=YOHtEFnhwd8&t=119s](https://www.youtube.com/watch?v=YOHtEFnhwd8&t=119s)
+
+<small>[Clip it](presserclips://clip?v=YOHtEFnhwd8&t=119&q=2) · [Send to Slack](presserclips://clip?v=YOHtEFnhwd8&t=119&q=2&slack=1)</small>
 
 From: [11.03.2026 Practice Media Availability | J.B. Bickerstaff](https://www.youtube.com/watch?v=YOHtEFnhwd8) · *Detroit Pistons*
 
@@ -28,6 +32,8 @@ Jamahl Mosley: "I think that goes to the work that he and Sham have put in. Just
 
 [https://www.youtube.com/watch?v=evHgO-CQ570&t=848s](https://www.youtube.com/watch?v=evHgO-CQ570&t=848s)
 
+<small>[Clip it](presserclips://clip?v=evHgO-CQ570&t=848&q=3) · [Send to Slack](presserclips://clip?v=evHgO-CQ570&t=848&q=3&slack=1)</small>
+
 From: [LIVE: Pelicans vs. Grizzlies Postgame Interviews 11/02/2026](https://www.youtube.com/watch?v=evHgO-CQ570) · *New Orleans Pelicans*
 
 <small>[Clip it](presserclips://clip?v=evHgO-CQ570&t=848&q=4) · [Send to Slack](presserclips://clip?v=evHgO-CQ570&t=848&q=4&slack=1)</small>
@@ -38,6 +44,8 @@ OG Anunoby: "We had a very short off-season and I mean I think everyone's kind o
 
 [https://www.youtube.com/watch?v=7HcRG7qPhuA&t=474s](https://www.youtube.com/watch?v=7HcRG7qPhuA&t=474s)
 
+<small>[Clip it](presserclips://clip?v=7HcRG7qPhuA&t=474&q=4) · [Send to Slack](presserclips://clip?v=7HcRG7qPhuA&t=474&q=4&slack=1)</small>
+
 From: [Landry Shamet, OG Anunoby and Tyler Kolek Postgame Media | Novemebr 2, 2026](https://www.youtube.com/watch?v=7HcRG7qPhuA) · *New York Knicks*
 
 <small>[Clip it](presserclips://clip?v=7HcRG7qPhuA&t=474&q=9) · [Send to Slack](presserclips://clip?v=7HcRG7qPhuA&t=474&q=9&slack=1)</small>
@@ -47,6 +55,8 @@ From: [Landry Shamet, OG Anunoby and Tyler Kolek Postgame Media | Novemebr 2, 20
 Paul Reed: "I know I'm better than four rebounds. I can be better than that, so I just have to go out there and do better. Sometimes it just takes me getting in the weight room, working a little harder, and I'll probably come up with more rebounds."
 
 [https://www.youtube.com/watch?v=vo4_3nRLScY&t=56s](https://www.youtube.com/watch?v=vo4_3nRLScY&t=56s)
+
+<small>[Clip it](presserclips://clip?v=vo4_3nRLScY&t=56&q=5) · [Send to Slack](presserclips://clip?v=vo4_3nRLScY&t=56&q=5&slack=1)</small>
 
 From: [11.03.2026 Practice Media Availability | Paul Reed](https://www.youtube.com/watch?v=vo4_3nRLScY) · *Detroit Pistons*
 
