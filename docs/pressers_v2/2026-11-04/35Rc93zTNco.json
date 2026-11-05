@@ -1,0 +1,234 @@
+{
+  "video_title": "LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:08",
+      "summary_phrase": "Dejounte Murray returning to the Pelicans starting lineup",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "Dejounte will be back in the starting lineup.",
+      "quote": "Dejounte will be back in the starting lineup.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Dejounte Murray is returning to the Pelicans starting lineup tonight. Jamahl Mosley confirmed the news ahead of the game against the Jazz.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jamahl Mosley announces that Dejounte Murray will return to the starting lineup for the game against the Jazz.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:15",
+      "summary_phrase": "Trey Murphy III injury status is day-to-day",
+      "names_mentioned": [
+        "Trey Murphy III"
+      ],
+      "excerpt": "Trey is more day-to-day. He is going to be okay.",
+      "quote": "Trey is more day-to-day. He is going to be okay. He is just more day-to-day dealing with that and obviously that is going to present some things when he comes back into the lineup.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Trey Murphy III remains day to day with his injury. Jamahl Mosley says he is going to be okay but the team is managing his return to the lineup.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley provides an injury update on Trey Murphy III during his pregame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:24",
+      "summary_phrase": "Prioritizing family time for players during the season",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "Tending to family is the most important thing and that is my decision.",
+      "quote": "Dejounte bumping back in, obviously it is great to have him back in the lineup. It is just being able to take care of all the family business that he had and mind you he wanted to be on the court as much as possible in all these games but we have said it from day one, tending to family is the most important thing and that is my decision to make sure that he, knowing how bad he wants to be out there for his teammates, it is also important that we have said from day one we are building something bigger than basketball and making sure family is the priority.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on Dejounte Murray returning to the lineup after attending to family matters: We are building something bigger than basketball and making sure family is the priority.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses Dejounte Murray returning to the team after taking time off for family matters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:07",
+      "summary_phrase": "Adjustments needed for the Jazz without Lauri Markkanen",
+      "names_mentioned": [
+        "Lauri Markkanen"
+      ],
+      "excerpt": "Them not having Lauri Markkanen changes a lot of things for them.",
+      "quote": "Them not having Lauri Markkanen changes a lot of things for them. They have had some close games and so their ability to play with a big that can roll, dynamic roller with also Lauri being able to space the floor, our ability to guard those situations with the switching that we tend to do, understanding how and where we are going to be on the floor with those guys, so they present a tough matchup in moments because of their ability to space the floor and the guards' aggressiveness getting downhill.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 222,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley notes that Utah not having Lauri Markkanen changes a lot for the Pelicans tonight. He expects a tough matchup due to the Jazz guards' aggressiveness getting downhill.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Lauri Markkanen"
+        ],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley explains how the absence of Lauri Markkanen impacts the Pelicans' defensive strategy against the Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:50",
+      "summary_phrase": "Pelicans' success driven by hard play and ball security",
+      "names_mentioned": [],
+      "excerpt": "It is how hard we are playing, that is a big reason for it.",
+      "quote": "It is how hard we are playing, that is a big reason for it. That makes up for a lot of the mistakes. The last game I think was a big portion of us being able to take care of the basketball, eight turnovers, where the other games we had turned it over quite a bit. I think there is just a rhythm and a groove to where guys are playing and we have pushed the pace a little bit more being able to convert on some of our stops and turning teams over.",
+      "text_blocks": [],
+      "start_seconds": 230,
+      "end_seconds": 266,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Pelicans coach Jamahl Mosley credits the team's recent success to playing hard and taking care of the basketball: The last game was a big portion of us being able to take care of the basketball.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley reflects on the team's recent performance, emphasizing the importance of hard play and ball security.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:30",
+      "summary_phrase": "Pelicans' defensive aggression and team accountability",
+      "names_mentioned": [],
+      "excerpt": "It goes back to that aggression and that hard play.",
+      "quote": "It goes back to that aggression and that hard play. I think guys are finding a way to find themselves in the right spot and not necessarily gambling to go for them, but their ability to know where each other are on the floor each and every moment, knowing the rotations, knowing where to be and I think that helps out a ton because if you missed an assignment, you know who is responsible for it and I think that helps out with these guys being able to know where we can hold each other accountable.",
+      "text_blocks": [],
+      "start_seconds": 270,
+      "end_seconds": 307,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley on the Pelicans defensive improvement: Guys are finding a way to find themselves in the right spot and not necessarily gambling to go for them.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's defensive improvements and the importance of accountability among the players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:04",
+      "summary_phrase": "Lauri Markkanen's impact on floor spacing and defense",
+      "names_mentioned": [
+        "Lauri Markkanen"
+      ],
+      "excerpt": "His ability to stretch the floor, he can knock down shots.",
+      "quote": "His ability to stretch the floor, he can knock down shots, so now that ability to give room and space for guys to attack the baskets which we want to do and then the other side of it is his ability to switch with multiple defenders, being able to protect the rim, I think those are continued keys that we ask of him as he is on the floor.",
+      "text_blocks": [],
+      "start_seconds": 304,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley breaks down the impact of Lauri Markkanen on the floor: His ability to stretch the floor and his ability to switch with multiple defenders are keys.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Lauri Markkanen"
+        ],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley describes the specific skills Lauri Markkanen brings to the floor that make him a difficult matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "35Rc93zTNco",
+  "url": "https://www.youtube.com/watch?v=35Rc93zTNco",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-04T23:20:39Z",
+  "duration_seconds": 371,
+  "processed_at": "2026-11-05T00:53:27Z",
+  "run_id": "2026-11-05T0052Z-20utc",
+  "is_one_off": false
+}

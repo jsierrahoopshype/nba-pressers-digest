@@ -1,0 +1,188 @@
+{
+  "video_title": "Tyler Herro Shootaround Media Availability | 11.04.26",
+  "speakers_seen": [
+    "Tyler Herro",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "speakers": [
+        "Tyler Herro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Tyler Herro on the team's growth and road trip mentality",
+      "names_mentioned": [],
+      "excerpt": "It's a great opportunity for us to come together, break bread, come closer together",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Tyler, I know it was a bit of a whirlwind at the beginning when it came to emotions of being back here, playing for your hometown team. How are you settling in at this point?"
+        },
+        {
+          "speaker": "Tyler Herro",
+          "text": "Good. I feel like the team continues to grow and get better. A one or two-game road trip right now, obviously in Boston, so it's a great opportunity for us to come together, break bread, come closer together as we go through this stretch and continue to try to figure things out."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyler Herro says the upcoming road trip is a great opportunity for the Bucks to come together and continue to figure things out as a group.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses his transition to playing for his hometown team and the upcoming road trip to Boston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "speakers": [
+        "Tyler Herro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:26",
+      "summary_phrase": "Tyler Herro on the team's resilience and competitive mindset",
+      "names_mentioned": [],
+      "excerpt": "We got to be the hardest playing team in the league",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You used the word grow. So what growth are you most encouraged in for this group right now?"
+        },
+        {
+          "speaker": "Tyler Herro",
+          "text": "We are working through some things. I think the disposition we showed in Minnesota, we went down double digits and we continued to fight. That's how we got to come out every single game with that same fight, that same attitude, and be the hardest playing team in the league. Whenever teams play against us, we got to be the hardest playing team in the league."
+        }
+      ],
+      "start_seconds": 26,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tyler Herro says the Bucks need to maintain the same fight they showed in Minnesota and focus on being the hardest playing team in the league every single night.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Tyler Herro reflects on the team's resilience and competitive attitude shown during their recent game in Minnesota.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyler Herro",
+      "speakers": [
+        "Tyler Herro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:50",
+      "summary_phrase": "Tyler Herro on the challenge of playing full 48-minute games",
+      "names_mentioned": [],
+      "excerpt": "You got to continue to find ways to be able to sustain a game for 48 minutes",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Early in the season it was the fourth quarter, then a little stretch it was the second quarter, then it was the fourth quarter the other night in Minnesota. What do you feel is holding this group back from playing that full 48 minutes?"
+        },
+        {
+          "speaker": "Tyler Herro",
+          "text": "I think we got some young guys, a new group. I think you got to continue to find ways to be able to sustain a game for 48 minutes, play winning basketball for 48 minutes. This league is tough, things can change fast, whether it's one quarter, three minutes, a couple possessions can swing a game. So you just got to be able to sustain a winnable game for 48 minutes."
+        }
+      ],
+      "start_seconds": 50,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyler Herro on the team's inconsistency: we have a new group and young guys, but we have to find ways to sustain winning basketball for all 48 minutes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Tyler Herro explains the challenges the team faces in maintaining consistent performance throughout a full 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyler Herro",
+      "speakers": [
+        "Tyler Herro",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:24",
+      "summary_phrase": "Tyler Herro on his shooting inspirations and competitive drive",
+      "names_mentioned": [
+        "Paul George",
+        "Jayson Tatum",
+        "Stephen Curry"
+      ],
+      "excerpt": "I've obviously been fans of like Stephen Curry growing up",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You're one of the best shooters in this league. You're going up against a Boston team that's been long known as a great shooting team with Paul George, Jayson Tatum. Who's a guy in this league that you look up to as a shooter?"
+        },
+        {
+          "speaker": "Tyler Herro",
+          "text": "Right now, no one really. I just try to be able to compete with some of the best, honestly. I've obviously been fans of like Stephen Curry growing up, seeing the way he's changed the game and how he's shot the three and how it's evolutionized the game. He's still doing it at the age he's at. So you get inspiration from guys like him, but at the same time you got to compete against them guys as well."
+        }
+      ],
+      "start_seconds": 84,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tyler Herro says he draws inspiration from Stephen Curry and the way he changed the game, but his focus remains on competing against the best shooters in the league.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Paul George",
+          "Jayson Tatum",
+          "Stephen Curry"
+        ],
+        "teams": [
+          "MIL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses his inspirations as a shooter and his competitive mindset when facing elite players like Stephen Curry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4Fr4DwvdTZA",
+  "url": "https://www.youtube.com/watch?v=4Fr4DwvdTZA",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-04T17:56:39Z",
+  "duration_seconds": 150,
+  "processed_at": "2026-11-05T00:53:32Z",
+  "run_id": "2026-11-05T0052Z-20utc",
+  "is_one_off": false
+}

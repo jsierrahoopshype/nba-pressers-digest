@@ -1,0 +1,144 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | Anfernee Simons | 11.04.26",
+  "speakers_seen": [
+    "Anfernee Simons"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Anfernee Simons",
+      "timestamp": "00:13",
+      "summary_phrase": "Anfernee Simons on the 76ers' competitive standing in the East",
+      "names_mentioned": [],
+      "excerpt": "I think they are a top team in the East right now, we are too.",
+      "quote": "It could be a good measuring stick for sure. I think they are a top team in the East right now, we are too. Obviously, we want to get back on track from the last game. I think that is everybody's motivation for the night, but also just continue to get better each and every game. It is still early in the season. Obviously, we are still competitors and want to get back and beat them for the first time. It is going to be a competitive game. It is always going to be a great game with two great teams.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Anfernee Simons views tonight's matchup against the 76ers as a good measuring stick for where both teams stand in the East. He says the team is motivated to get back on track after their last game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons discusses the upcoming game against a competitive Eastern Conference opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Anfernee Simons",
+      "timestamp": "01:37",
+      "summary_phrase": "Anfernee Simons on JB's adjustment to the 76ers roster",
+      "names_mentioned": [
+        "JB"
+      ],
+      "excerpt": "I think he has fit great. It is going to be an adjustment for everybody.",
+      "quote": "I think he has fit great. I think for everybody, it is going to be an adjustment for everybody. It is going to be an adjustment for JB as well to truly understand where he finds his spots and where he is going to fit in at each and every night. It is going to look different for everybody over the next month or two months. But I think he has fit in great. He is taking the challenge of guarding one of the best players each and every night, which he has done in the past.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anfernee Simons says JB has fit in great with the team. He notes that it is still an adjustment period for everyone to understand their roles and spots, but praises JB for taking on the challenge of guarding the best players nightly.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "JB"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anfernee Simons evaluates how teammate JB is adjusting to his role on the 76ers roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Anfernee Simons",
+      "timestamp": "02:22",
+      "summary_phrase": "Anfernee Simons on VJ's impact and defensive commitment",
+      "names_mentioned": [
+        "VJ"
+      ],
+      "excerpt": "He goes out there and plays his heart out regardless of if he is shooting the ball well.",
+      "quote": "I think he has done great. We ask him to guard the best player each and every night, and he goes out there and plays his heart out regardless of if he is shooting the ball well or not. Some nights he is not shooting the ball well, but he still comes up big for us, still makes plays regardless of how he is technically shooting that night. That is a big step in growth for especially a young player to be able to do that, because that is hard for a lot of players to do.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Anfernee Simons praises VJ for his defensive commitment, noting that he plays his heart out even when his shot is not falling. Simons calls that level of consistency a big step in growth for a young player.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "VJ"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anfernee Simons praises teammate VJ for his defensive effort and growth despite shooting struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Anfernee Simons",
+      "timestamp": "03:30",
+      "summary_phrase": "Anfernee Simons on LeBron James's perspective and enjoyment of the game",
+      "names_mentioned": [
+        "LeBron"
+      ],
+      "excerpt": "He has a different perspective on the game than maybe most of us have.",
+      "quote": "He has a different perspective on the game than maybe most of us have. Being in the game so long, he is just trying to enjoy the moments he does have. Who knows how long he is going to be playing still, but I feel like he is just trying to enjoy these moments of playing basketball and playing at a high level. I think a lot of us should take that from him, just being able to enjoy the matter if you are having a good night or off night, just being able to have that perspective of enjoying the game and enjoying the competition.",
+      "text_blocks": [],
+      "start_seconds": 210,
+      "end_seconds": 251,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Anfernee Simons reflects on LeBron James's perspective, saying he is just trying to enjoy the moments he has left playing at a high level. Simons believes other players should adopt that same mindset.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Anfernee Simons reflects on LeBron James's perspective and his approach to enjoying the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "91tK-9s_vjw",
+  "url": "https://www.youtube.com/watch?v=91tK-9s_vjw",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-04T22:15:31Z",
+  "duration_seconds": 288,
+  "processed_at": "2026-11-05T00:53:19Z",
+  "run_id": "2026-11-05T0052Z-20utc",
+  "is_one_off": false
+}

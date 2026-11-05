@@ -1,0 +1,497 @@
+{
+  "video_title": "Shootaround Media Availability with Micah Peavy | November 4, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Nick Gallo",
+    "Micah Peavy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Micah Peavy on his transition to the OKC Thunder roster",
+      "names_mentioned": [],
+      "excerpt": "I'm constantly in the gym just working and then coaches telling me I'm playing, so I'm going to get out there and play.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "Micah, you are coming in, you are a two-way player, and suddenly you are figuring into massive parts of these games, including the win at Cleveland. Now you turn around and you play them again here at home. What is this like for you and how are you preparing to go after this same team that you just went and got a game from on their home court?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "It is nothing new to me. I am always ready for when my name is called. I am constantly in the gym just working and then coaches telling me I'm playing, so I'm going to get out there and play. And preparing for a team we've just played, we just look at the mistakes we made and we fix those things and we try to come out here and get another win."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Peavy on his quick integration into the Thunder rotation as a two-way player: I am always ready for when my name is called. I am constantly in the gym just working and then coaches telling me I am playing, so I am going to get out there.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy discusses his mindset and preparation when his name is called to play for the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "00:47",
+      "summary_phrase": "Micah Peavy on defensive adjustments against Harden, Mitchell, and Mobley",
+      "names_mentioned": [
+        "James Harden",
+        "Donovan Mitchell",
+        "Evan Mobley"
+      ],
+      "excerpt": "We got to do different defensive schemes to keep going after guys like Harden, Mitchell, Mobley.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "It was an impressive all-around performance. What would you say are some of those things that you guys have tried to focus on in the last 48 hours to be ready for this second challenge tonight?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "Different defensive schemes. We got to do different defensive schemes to keep going after guys like Harden, Mitchell, Mobley, stuff like that. And offensively, just cleaning up a little of the mistakes."
+        }
+      ],
+      "start_seconds": 47,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Peavy says the Thunder are preparing for tonight by implementing different defensive schemes to slow down stars like Harden, Mitchell, and Mobley.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden",
+          "Donovan Mitchell",
+          "Evan Mobley"
+        ],
+        "teams": [
+          "OKC",
+          "CLE",
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Peavy explains the team's defensive focus on specific opponents ahead of their game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "01:08",
+      "summary_phrase": "Micah Peavy on the challenge of guarding diverse offensive players",
+      "names_mentioned": [],
+      "excerpt": "I like to be that guy the coach can call on to guard those guys.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "You got a piece of all of those guys that you just mentioned. Tell me what that is like to have to guard so many different types of players over the course of a game?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "As a defender, as someone who takes pride in that, I ask to be asked to guard those guys. It is a challenge, but that is what I like to do. I like to be that guy the coach can call on to guard those guys."
+        }
+      ],
+      "start_seconds": 68,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Peavy embraces the challenge of being a defensive stopper for OKC: As a defender, as someone who takes pride in that, I ask to be asked to guard those guys. It is a challenge, but that is what I like to do.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy describes his pride in being a versatile defender tasked with guarding top players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "01:29",
+      "summary_phrase": "Micah Peavy on veteran encouragement to shoot the ball",
+      "names_mentioned": [
+        "Isaiah Hartenstein",
+        "Bennet Sturtz"
+      ],
+      "excerpt": "You want the vets to give you confidence to shoot the ball.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "Isaiah Hartenstein was telling us the other night the only time that he yells at a young guy like Bennet Sturtz or you is when you don't shoot the ball. What does that feel like when you come into a new team and you have guys that are like, 'Come on, hoist it up'?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "That is what you want. You want the vets to give you confidence to shoot the ball because coming in on a new team, you don't know exactly where you are going to get your shot. So if you have a guy like that who has been in this winning program, it is easy. You just shoot the ball."
+        }
+      ],
+      "start_seconds": 89,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Peavy says veteran Isaiah Hartenstein is pushing the younger Thunder players to be more aggressive: You want the vets to give you confidence to shoot the ball. If you have a guy like that who has been in this winning program, it is easy.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Hartenstein",
+          "Bennet Sturtz"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Peavy discusses how veteran teammates like Isaiah Hartenstein encourage him to shoot the ball with confidence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "01:59",
+      "summary_phrase": "Micah Peavy on the leadership of Shai Gilgeous-Alexander and Alex Caruso",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Alex Caruso"
+      ],
+      "excerpt": "He stayed even-keeled the whole time. The way he talked to everybody to rally us and win the game.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "You see the leadership, you saw him and Alex Caruso, but also Shai. You got to play a lot alongside Shai. What did you observe in how he handled that game in Cleveland that you know that you guys can rely on?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "I would say his poise, the way he never got rattled. He stayed even-keeled the whole time. The way he talked to everybody to rally us and win the game. It just showed his leadership. You said Caruso, his leadership, even though he didn't play last game, he was in everybody's ear just talking like he always does."
+        }
+      ],
+      "start_seconds": 119,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Peavy on the leadership of Shai Gilgeous-Alexander and Alex Caruso: Shai never got rattled. He stayed even-keeled the whole time. Caruso, even though he did not play last game, he was in everybody's ear just talking like he always does.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander",
+          "Alex Caruso"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Peavy reflects on the leadership qualities shown by Shai Gilgeous-Alexander and Alex Caruso.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "02:36",
+      "summary_phrase": "Micah Peavy on maintaining low turnovers and executing coaching instructions",
+      "names_mentioned": [],
+      "excerpt": "Just execute what the coaches are telling us. That's all it is.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "Offensively in general, what are some keys for you all coming off that game, just making sure that you are low turnover, low mistake again, but still making plays for each other?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "Just execute what the coaches are telling us. That's all it is. They make everything easy for Shai and all the guys who are shooting most of the balls. Just stay space and get easy shots."
+        }
+      ],
+      "start_seconds": 156,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Micah Peavy on the Thunder offensive philosophy: Just execute what the coaches are telling us. They make everything easy for Shai and all the guys who are shooting most of the balls.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Peavy explains the importance of executing coaching instructions to maintain offensive efficiency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "02:58",
+      "summary_phrase": "Micah Peavy on the human side of transitioning to a new team",
+      "names_mentioned": [],
+      "excerpt": "The Thunder staff, everyone around here is so welcoming and they help me every day.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "Take me through maybe the human aspect of this right now and how you are handling all of that and still able to go out and play and perform?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "It is not just myself. The Thunder staff, everyone around here is so welcoming and they help me every day just getting accustomed to living in Oklahoma. Also my team off the court, my family, they help me a lot. It has been an easy transition. I really got to just focus on basketball, which is the main part right now."
+        }
+      ],
+      "start_seconds": 178,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Micah Peavy says the transition to Oklahoma City has been seamless thanks to the support of the Thunder staff and his family.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy describes his transition to living in Oklahoma and joining the Thunder organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "03:47",
+      "summary_phrase": "Micah Peavy on his defensive approach and team-first mentality",
+      "names_mentioned": [
+        "James Harden",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "Defensively, just defending without fouling, making the guys like Harden and Mitchell take tough shots.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "What have you made of the opportunity to come in here and then you are finishing the game on the road the other night in what must have been some pretty wild last few days?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "There is a lot of opportunity there. I am just trying to do whatever it takes to get on the court, whatever it takes to win these games. Just do all the dirty work. Defensively, just defending without fouling, making the guys like Harden and Mitchell take tough shots. That is all you can do with guys like them. And defensively as a team, just playing together and doing whatever the coaches ask us to do."
+        }
+      ],
+      "start_seconds": 227,
+      "end_seconds": 270,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Peavy on his role with the Thunder: I am just trying to do whatever it takes to get on the court, whatever it takes to win these games. Just do all the dirty work.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "OKC",
+          "CLE",
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Peavy discusses his defensive approach and commitment to doing dirty work for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "04:32",
+      "summary_phrase": "Micah Peavy on learning Thunder principles and team culture",
+      "names_mentioned": [],
+      "excerpt": "It is just a lot of basic stuff that you've been doing forever.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "What are you learning about the Thunder's principles and how do they kind of align with the way you also approach the game?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "It is just a lot of basic stuff that you've been doing forever. So it is quite easy to pick up on everything. It is a lot of winning basketball and that is what I am about, so I love it."
+        }
+      ],
+      "start_seconds": 272,
+      "end_seconds": 297,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Micah Peavy on learning the Thunder system: It is a lot of winning basketball and that is what I am about, so I love it.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy shares his thoughts on learning the Thunder's basketball principles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "04:49",
+      "summary_phrase": "Micah Peavy on his connection with Alex Caruso",
+      "names_mentioned": [
+        "Alex Caruso"
+      ],
+      "excerpt": "I've been really talking to Caruso, the way he leads, the way he sees the game on the defensive end.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "With the teammates you sort of connected with in the early go?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "I've been really talking to Caruso, the way he leads, the way he sees the game on the defensive end, the dirty, the plays he makes like getting the extra rebounds, the steals and stuff like that. That is someone I did watch beforehand before getting here and to be able to be on the same team as him, it has helped a lot."
+        }
+      ],
+      "start_seconds": 289,
+      "end_seconds": 318,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Peavy says he is leaning on Alex Caruso to learn the nuances of high-level defensive play: I have been really talking to Caruso, the way he leads, the way he sees the game on the defensive end.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alex Caruso"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Peavy explains how he has been learning from Alex Caruso's defensive leadership.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Nick Gallo",
+        "Micah Peavy"
+      ],
+      "timestamp": "05:24",
+      "summary_phrase": "Micah Peavy on his rapid shooting improvement",
+      "names_mentioned": [],
+      "excerpt": "That's a big part of my game that I needed to improve on and yeah, it's about reps, about confidence.",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "Do you feel like your shooting has taken strides forward in a pretty rapid way over the last maybe eight months or so?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "For sure. That's all I've been working on. That's a big part of my game that I needed to improve on and yeah, it's about reps, about confidence. The coaches are telling me to just shoot the ball when you're open. So yeah, I think that I've improved a lot on that."
+        }
+      ],
+      "start_seconds": 324,
+      "end_seconds": 353,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Peavy credits his rapid shooting improvement to consistent reps and the confidence instilled by the coaching staff: The coaches are telling me to just shoot the ball when you are open.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy discusses the improvement in his shooting ability over the last several months.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "1ZTYQgvToC4",
+  "url": "https://www.youtube.com/watch?v=1ZTYQgvToC4",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-04T19:09:00Z",
+  "duration_seconds": 386,
+  "processed_at": "2026-11-05T00:53:37Z",
+  "run_id": "2026-11-05T0052Z-20utc",
+  "is_one_off": false
+}
