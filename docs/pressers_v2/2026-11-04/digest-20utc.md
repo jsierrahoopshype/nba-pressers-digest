@@ -8,6 +8,8 @@ Jamahl Mosley: "Trey is more day-to-day. He is going to be okay. He is just more
 
 [https://www.youtube.com/watch?v=35Rc93zTNco&t=135s](https://www.youtube.com/watch?v=35Rc93zTNco&t=135s)
 
+<small>[Clip it](presserclips://clip?v=35Rc93zTNco&t=135&q=1) · [Send to Slack](presserclips://clip?v=35Rc93zTNco&t=135&q=1&slack=1)</small>
+
 From: [LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026](https://www.youtube.com/watch?v=35Rc93zTNco) · *New Orleans Pelicans*
 
 <small>[Clip it](presserclips://clip?v=35Rc93zTNco&t=135&q=2) · [Send to Slack](presserclips://clip?v=35Rc93zTNco&t=135&q=2&slack=1)</small>
@@ -17,6 +19,8 @@ From: [LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026](https://www.y
 Jamahl Mosley: "Dejounte will be back in the starting lineup."
 
 [https://www.youtube.com/watch?v=35Rc93zTNco&t=128s](https://www.youtube.com/watch?v=35Rc93zTNco&t=128s)
+
+<small>[Clip it](presserclips://clip?v=35Rc93zTNco&t=128&q=2) · [Send to Slack](presserclips://clip?v=35Rc93zTNco&t=128&q=2&slack=1)</small>
 
 From: [LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026](https://www.youtube.com/watch?v=35Rc93zTNco) · *New Orleans Pelicans*
 
@@ -28,6 +32,8 @@ Oso Ighodaro: "Some turnovers and positioning offensively that weren't great and
 
 [https://www.youtube.com/watch?v=jIfxZieSZ0g&t=19s](https://www.youtube.com/watch?v=jIfxZieSZ0g&t=19s)
 
+<small>[Clip it](presserclips://clip?v=jIfxZieSZ0g&t=19&q=3) · [Send to Slack](presserclips://clip?v=jIfxZieSZ0g&t=19&q=3&slack=1)</small>
+
 From: [Oso Ighodaro Shootaround Media Availability | 11-4-26](https://www.youtube.com/watch?v=jIfxZieSZ0g) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=jIfxZieSZ0g&t=19&q=1) · [Send to Slack](presserclips://clip?v=jIfxZieSZ0g&t=19&q=1&slack=1)</small>
@@ -37,6 +43,8 @@ From: [Oso Ighodaro Shootaround Media Availability | 11-4-26](https://www.youtub
 Oso Ighodaro: "We can be more aggressive making them think. I think last game we weren't aggressive off the pick-and-roll and just kind of played the game a little bit, but that's exactly what they want. We have to be decisive, put pressure on them. And also I think as bigs, me and Kevin Durant can both do a better job sticking screens. They have elite defenders and we got to get those guys off the ball. So we can do better in all those areas."
 
 [https://www.youtube.com/watch?v=jIfxZieSZ0g&t=301s](https://www.youtube.com/watch?v=jIfxZieSZ0g&t=301s)
+
+<small>[Clip it](presserclips://clip?v=jIfxZieSZ0g&t=301&q=4) · [Send to Slack](presserclips://clip?v=jIfxZieSZ0g&t=301&q=4&slack=1)</small>
 
 From: [Oso Ighodaro Shootaround Media Availability | 11-4-26](https://www.youtube.com/watch?v=jIfxZieSZ0g) · *Phoenix Suns*
 
