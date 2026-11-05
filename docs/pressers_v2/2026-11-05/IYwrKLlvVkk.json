@@ -1,0 +1,141 @@
+{
+  "video_title": "Saddiq Bey | Pelicans vs. Jazz Postgame Interview 11/4/26",
+  "speakers_seen": [
+    "Saddiq Bey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Saddiq Bey",
+      "timestamp": "00:00",
+      "summary_phrase": "Saddiq Bey on the team's resilience in close games",
+      "names_mentioned": [],
+      "excerpt": "we've been battle-tested already in eight games and so just down the stretch, learning how to close",
+      "quote": "Sometimes the belief system is when something works, right? You got to see it work to believe sometimes. So we've been battle-tested already in eight games and so just down the stretch, learning how to close on both ends of the floor, rebound, execute on both ends. It's good, man. We got a long way to go, but it just helps keep tapping at the rock.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Saddiq Bey says the Pelicans are learning how to close out games through early season adversity. He notes the team is battle tested and focused on continuing to keep tapping at the rock.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey discusses the team's ability to execute and close out games during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Saddiq Bey",
+      "timestamp": "01:41",
+      "summary_phrase": "Saddiq Bey on Zion Williamson's defensive impact",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "relentless on both ends of the floor, seen all the work since the summertime",
+      "quote": "Relentless on both ends of the floor. Seen all the work since the summertime. He made leaps and bounds on both ends, and I always count on him to be ready for all 48 minutes, and he's been doing a great job being one of the leaders on this team. It's great to see.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Saddiq Bey praises Zion Williamson for his defensive growth this season. Bey says he has seen the work Zion put in since the summer and credits him for being a leader on both ends of the floor.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Saddiq Bey praises Zion Williamson for his defensive effort and leadership during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Saddiq Bey",
+      "timestamp": "02:37",
+      "summary_phrase": "Saddiq Bey on Derek Lively II's late-game performance",
+      "names_mentioned": [
+        "Derek Lively II"
+      ],
+      "excerpt": "he's always ready when his opportunity is called, when his name is called",
+      "quote": "He's always ready when his opportunity is called, when his name is called. He's in the gym every day, working on everything. There's no surprise from us, and sky's the limit for him, already only in his second year, and I'm proud of him.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Saddiq Bey says Derek Lively II being ready when his name is called is no surprise to the team. Bey notes that Lively is in the gym every day and believes the sky is the limit for the second year player.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "NOP",
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Saddiq Bey comments on the performance and work ethic of Dereck Lively II following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Saddiq Bey",
+      "timestamp": "04:48",
+      "summary_phrase": "Saddiq Bey on his confidence and role off the bench",
+      "names_mentioned": [],
+      "excerpt": "God instilled a lot in me, taught me a lot, gave me a lot of wisdom",
+      "quote": "I'm confident in myself. God instilled a lot in me, taught me a lot, gave me a lot of wisdom, a lot of things that to use, and I just feel like whenever my opportunity is called, I just try to be the best version of myself every day and hope that leads to wins.",
+      "text_blocks": [],
+      "start_seconds": 288,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Saddiq Bey on his mindset coming off the bench. He says he stays confident and tries to be the best version of himself whenever his opportunity is called.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey reflects on his personal confidence and his approach to his role off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "IYwrKLlvVkk",
+  "url": "https://www.youtube.com/watch?v=IYwrKLlvVkk",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-05T06:00:22Z",
+  "duration_seconds": 344,
+  "processed_at": "2026-11-05T21:05:18Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,584 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, Trae Young, and Kyshawn George | 11.4.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Trae Young",
+    "Kyshawn George"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on the Wizards' slow start and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "we couldn't overcome our start.",
+      "quote": "I have to give them credit, they came out with great pace to start the game. They obviously made some tough shots, even some contested ones early. The second-chance points and some of the loose ball ones were probably the ones that hurt us more. I thought we tried to make a good run there to start the third, we turned them over, our defense ramped it up, but we couldn't overcome our start.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on the Wizards slow start against the Hawks: I thought we tried to make a good run there to start the third, we turned them over, our defense ramped it up, but we couldn't overcome our start.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the team's slow start and defensive lapses against their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:25",
+      "summary_phrase": "Brian Keefe on the team's rebounding adjustments",
+      "names_mentioned": [],
+      "excerpt": "there were some 50-50 battles that they won early in the game.",
+      "quote": "I thought we had been done the last two games terrific rebounding. You could see the adjustments we made. They were a lot of threes taken by them tonight, there were some 50-50 battles that they won early in the game. I thought we cleaned a little bit up there in the second, third quarter, but like I said, the margin was too much to overcome.",
+      "verbatim_original_language": "",
+      "start_seconds": 25,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on rebounding struggles: They were a lot of threes taken by them tonight, there were some 50-50 battles that they won early in the game. I thought we cleaned a little bit up there in the second, third quarter.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains the adjustments made to improve rebounding performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:49",
+      "summary_phrase": "Brian Keefe on Kyshawn George's impact and spacing",
+      "names_mentioned": [
+        "Kyshawn George"
+      ],
+      "excerpt": "he's been terrific on both ends, not just his scoring.",
+      "quote": "He's been terrific on both ends, not just his scoring. Obviously, we need his scoring punch, but I think his defense has been terrific, his playmaking. He's had a good start to the season.",
+      "verbatim_original_language": "",
+      "start_seconds": 49,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe on Kyshawn George: He's been terrific on both ends, not just his scoring. Obviously, we need his scoring punch, but I think his defense has been terrific, his playmaking.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyshawn George"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe praises the early season impact and versatility of Kyshawn George.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:09",
+      "summary_phrase": "Brian Keefe on defensive rebounding and second-chance points",
+      "names_mentioned": [],
+      "excerpt": "we were the number one defensive rebounding team the last two games.",
+      "quote": "I think we had made a good adjustment. In the last two games, if you've watched us, we were the number one defensive rebounding team the last two games. Give them credit, this is kind of one of the things that they do. We'll take a look at the film and we'll get better tomorrow.",
+      "verbatim_original_language": "",
+      "start_seconds": 69,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on defensive rebounding: In the last two games, if you've watched us, we were the number one defensive rebounding team the last two games. Give them credit, this is kind of one of the things that they do.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe reflects on the team's recent defensive rebounding success and the need to review film.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:38",
+      "summary_phrase": "Brian Keefe on team resilience and discipline",
+      "names_mentioned": [
+        "Will"
+      ],
+      "excerpt": "I like the resilience of our group.",
+      "quote": "I like the resilience of our group first of all. I think Will had an open three in transition that would have cut it to one. He gave us some nice punch tonight too, coming off the bench, and he gave us some really positive energy out there. I like the resiliency, but a lot of times the starts matter. If you give up a lot of points in the first half, that's sometimes tough to overcome.",
+      "verbatim_original_language": "",
+      "start_seconds": 98,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brian Keefe on team resilience: I like the resiliency, but a lot of times the starts matter. If you give up a lot of points in the first half, that's sometimes tough to overcome.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Will"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe highlights the team's resilience and individual contributions from the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:33",
+      "summary_phrase": "Brian Keefe on the bench's contribution and rotation",
+      "names_mentioned": [],
+      "excerpt": "we're playing with different combinations, different groups.",
+      "quote": "Early in the season, we're playing with different combinations, different groups. I have great faith in our guys. We got a lot of guys who can who have contributed to a lot of our wins this year. We've had a lot of different contributions in different lineups and different combinations. Guys have stepped up. So, still early in the season, we're still figuring out our, you know, what lineups work, but I got great confidence in those guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 153,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Brian Keefe on rotation: Early in the season, we're playing with different combinations, different groups. I have great faith in our guys. We've had a lot of different contributions in different lineups.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the ongoing process of experimenting with different lineups and rotations early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Brian Keefe",
+      "timestamp": "03:02",
+      "summary_phrase": "Brian Keefe on opponent three-point shooting",
+      "names_mentioned": [],
+      "excerpt": "I want us taking efficient shots.",
+      "quote": "I think our team is built to be playing the paint and play to our strength, scoring the rim, free throw attempts. I want us taking efficient shots. I think we took efficient shots tonight, we didn't make some of them. But everybody's got a different formula. We're figuring out what works best for us, and we think attacking the rim, getting to the rim, getting to the free throw line, establishing ourselves early, and I know that we're going to open up the court with our shooting, that's going to come.",
+      "verbatim_original_language": "",
+      "start_seconds": 182,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Brian Keefe on offensive philosophy: I think our team is built to be playing the paint and play to our strength, scoring the rim, free throw attempts. I want us taking efficient shots.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe outlines his philosophy on shot selection and the team's offensive identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trae Young",
+      "timestamp": "05:04",
+      "summary_phrase": "Trae Young on offensive struggles and defensive needs",
+      "names_mentioned": [],
+      "excerpt": "our offense has been lacking really to be honest all season.",
+      "quote": "Obviously our offense, our defense wasn't good tonight either, but our offense has been lacking really to be honest all season. Our defense has been what's carried us, and once our offense gets going, I definitely see us being a better team. We definitely have to shoot more threes and get more threes up, but it still has to be quality looks and good looks.",
+      "verbatim_original_language": "",
+      "start_seconds": 304,
+      "end_seconds": 329,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Trae Young on the Wizards offense: Our offense has been lacking really to be honest all season. Our defense has been what's carried us, and once our offense gets going, I definitely see us being a better team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young analyzes the team's offensive struggles and the need for better three-point shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Trae Young",
+      "timestamp": "05:42",
+      "summary_phrase": "Trae Young on rebounding struggles and team effort",
+      "names_mentioned": [
+        "Torian Prince"
+      ],
+      "excerpt": "that's the first thought that came to my mind, just the obvious rebounding.",
+      "quote": "My old teammate was Torian Prince. I know y'all probably seen that meme. That's the first thought that came to my mind, just the obvious rebounding. This is not easy. I mean this team was in the playoffs last year, they came out ready to play, ready to compete, and we didn't answer the way we needed to.",
+      "verbatim_original_language": "",
+      "start_seconds": 342,
+      "end_seconds": 364,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trae Young on the loss to Atlanta: This team was in the playoffs last year, they came out ready to play, ready to compete, and we didn't answer the way we needed to.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taurean Prince"
+        ],
+        "teams": [
+          "WAS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Trae Young references former teammate Taurean Prince while discussing the team's rebounding difficulties against the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Trae Young",
+      "timestamp": "06:31",
+      "summary_phrase": "Trae Young on what is needed to kickstart the offense",
+      "names_mentioned": [],
+      "excerpt": "we got to continue to watch film, get see where we can be better at.",
+      "quote": "We got to continue to watch film, get see where we can be better at. I mean, I'm confident because it's what I do. So, whether I'm scoring or getting everybody involved, tonight is not the norm, so it's game eight, like I said, and we'll be all right.",
+      "verbatim_original_language": "",
+      "start_seconds": 391,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young on his performance: I'm confident because it's what I do. So, whether I'm scoring or getting everybody involved, tonight is not the norm, so it's game eight, like I said, and we'll be all right.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young expresses confidence in his own game and the team's ability to improve through film study.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Trae Young",
+      "timestamp": "07:02",
+      "summary_phrase": "Trae Young on Alex Sarr's return and team depth",
+      "names_mentioned": [
+        "Alex Sarr"
+      ],
+      "excerpt": "there's a lot of talented players on our team.",
+      "quote": "I mean there's a lot of talented players on our team. There's going to be nights that he has 10, 15 shots, you know what I'm saying? And I mean you never know. There may be nights that he has less than seven and we win and everybody's happy. That's the main main goal right now is just finding ways to be competitive in games and finding a way to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 422,
+      "end_seconds": 449,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trae Young on team depth: There's going to be nights that he has 10, 15 shots, you know what I'm saying? And I mean you never know. There may be nights that he has less than seven and we win and everybody's happy.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alex Sarr"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the team's depth and the variable nature of individual shot attempts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Trae Young",
+      "timestamp": "07:45",
+      "summary_phrase": "Trae Young on playing against the Hawks",
+      "names_mentioned": [],
+      "excerpt": "today was a regular day.",
+      "quote": "Today was a regular day. Obviously, it was a little different knowing we're playing them and I'm not at the hotel. That was probably the only difference. Obviously, I played in front of our fans and they really gave us a lot of love to begin the game, and we just didn't give them enough reason to cheer loud the whole game.",
+      "verbatim_original_language": "",
+      "start_seconds": 465,
+      "end_seconds": 489,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trae Young on facing his former team: Today was a regular day. Obviously, it was a little different knowing we're playing them and I'm not at the hotel. That was probably the only difference.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Trae Young describes his experience playing against his former team, the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Trae Young",
+      "timestamp": "08:21",
+      "summary_phrase": "Trae Young on leadership and rebounding responsibilities",
+      "names_mentioned": [],
+      "excerpt": "I need to help my bigs rebound every time.",
+      "quote": "I got to obviously there's times that I need to get down there and get boards and help my bigs rebound every time, especially when teams like we played tonight, they shoot a lot of threes and you shoot threes, they're long rebounds. A lot of those threes they shot tonight were long, they were tip-outs to them back again. So a lot of that is on the guards because the bigs are usually around the rim.",
+      "verbatim_original_language": "",
+      "start_seconds": 501,
+      "end_seconds": 531,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Trae Young on rebounding: I got to obviously there's times that I need to get down there and get boards and help my bigs rebound every time. A lot of that is on the guards because the bigs are usually around the rim.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young emphasizes the responsibility of guards to assist with rebounding long shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Kyshawn George",
+      "timestamp": "09:14",
+      "summary_phrase": "Kyshawn George on his role and team spacing",
+      "names_mentioned": [],
+      "excerpt": "if the primary ball handler is getting all the attention, it gives more space.",
+      "quote": "If the primary ball handler is getting all the attention, it gives more space to other people on the court to just do their thing. So me personally, I just try to make his job easier as best I can and also get my own opportunities.",
+      "verbatim_original_language": "",
+      "start_seconds": 554,
+      "end_seconds": 572,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyshawn George on his role: If the primary ball handler is getting all the attention, it gives more space to other people on the court to just do their thing. So me personally, I just try to make his job easier.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George explains his role in creating space for teammates on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Kyshawn George",
+      "timestamp": "09:40",
+      "summary_phrase": "Kyshawn George on his game's evolution and off-season work",
+      "names_mentioned": [],
+      "excerpt": "I think it's just the natural evolution of my game.",
+      "quote": "I think it's just the natural evolution of my game. Obviously, we're playing more and more competitive games this year, so just trying to be as efficient as possible and still aggressive as possible, but a ton of work in the off-season. Just trying to stay aggressive and do it for the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 580,
+      "end_seconds": 600,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kyshawn George on his development: I think it's just the natural evolution of my game. Obviously, we're playing more and more competitive games this year, so just trying to be as efficient as possible.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George discusses his off-season development and the evolution of his game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Kyshawn George",
+      "timestamp": "10:16",
+      "summary_phrase": "Kyshawn George on supporting teammates after tough games",
+      "names_mentioned": [
+        "AJ",
+        "Will Dawkins"
+      ],
+      "excerpt": "I'm sure he's not really worried about it at all.",
+      "quote": "I'm sure he's not really worried about it at all. I mean, you should all remember when I first got to the league, it took me a couple games before to make a three. So, I mean, nobody's worried about him. He just got to keep his head down and keep going. His confidence is super high, so just making sure he's straight, which I know he is, and he's going to keep rolling.",
+      "verbatim_original_language": "",
+      "start_seconds": 616,
+      "end_seconds": 644,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kyshawn George on teammate confidence: Nobody's worried about him. He just got to keep his head down and keep going. His confidence is super high, so just making sure he's straight.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George offers support to a teammate struggling with their shooting confidence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Kyshawn George",
+      "timestamp": "10:55",
+      "summary_phrase": "Kyshawn George on defensive effort and consistency",
+      "names_mentioned": [],
+      "excerpt": "we just didn't put the ingredients needed to match that level.",
+      "quote": "We just didn't put the ingredients needed to match that level that we had the last couple games. We were aware of that. It's not something that we are, we're not that type of team. So it's up to us to put the ingredients next game on Friday.",
+      "verbatim_original_language": "",
+      "start_seconds": 655,
+      "end_seconds": 673,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyshawn George on defensive consistency: We just didn't put the ingredients needed to match that level that we had the last couple games. It's up to us to put the ingredients next game on Friday.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George reflects on the team's lack of consistency and intensity in their recent performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Kyshawn George",
+      "timestamp": "11:26",
+      "summary_phrase": "Kyshawn George on the importance of rebounding",
+      "names_mentioned": [],
+      "excerpt": "at the end of the day, rebounding, just got to go get the ball.",
+      "quote": "Honestly, he's not wrong. At some point, you just got to go in and go and do it. You could teach, oh, you know, hit with the right arm, reverse pivot, whatever it is. At the end of the day, rebounding, just got to go get the ball. So it's on us to just go out there and do it.",
+      "verbatim_original_language": "",
+      "start_seconds": 686,
+      "end_seconds": 709,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyshawn George on rebounding: At the end of the day, rebounding, just got to go get the ball. So it's on us to just go out there and do it.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George agrees with the need for greater effort and physicality in rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Kyshawn George",
+      "timestamp": "11:54",
+      "summary_phrase": "Kyshawn George on his playmaking and ball security",
+      "names_mentioned": [],
+      "excerpt": "it's all about ball security.",
+      "quote": "I've been playing point guard growing up, so I think I read the game pretty well. It's all about ball security. As long as I keep the ball in my hands and make the right play, I think everything's going to be fine.",
+      "verbatim_original_language": "",
+      "start_seconds": 714,
+      "end_seconds": 731,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Kyshawn George on playmaking: I've been playing point guard growing up, so I think I read the game pretty well. It's all about ball security.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George discusses his background as a point guard and the importance of ball security.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Kyshawn George",
+      "timestamp": "12:17",
+      "summary_phrase": "Kyshawn George on the team's offensive potential",
+      "names_mentioned": [
+        "Trae Young"
+      ],
+      "excerpt": "I think we have a lot, a lot of talent on this team.",
+      "quote": "I think we have a lot, a lot of talent on this team. And it's kind of, you know, a lot of adjustments to it. In the sense that I think we could be really, really great offensively and defensively. And we've showed our really great spurts on defense especially, and our offense to that point is kind of slow, but it's just the adjustments to make. It's the first time everybody's playing together in real games.",
+      "verbatim_original_language": "",
+      "start_seconds": 737,
+      "end_seconds": 767,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kyshawn George on offensive potential: I think we could be really, really great offensively and defensively. It's the first time everybody's playing together in real games.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George shares his perspective on the team's offensive potential as they adjust to playing together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "tw2y0TGl1ac",
+  "url": "https://www.youtube.com/watch?v=tw2y0TGl1ac",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-05T04:46:10Z",
+  "duration_seconds": 847,
+  "processed_at": "2026-11-05T21:06:15Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

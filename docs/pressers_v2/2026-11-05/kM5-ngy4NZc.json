@@ -1,0 +1,180 @@
+{
+  "video_title": "\"I Was Proud Of The Guys, Really All Of Them.\" | Chris Finch Postgame Sound | 11.4.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:09",
+      "summary_phrase": "D'Angelo Russell's chemistry and growth with Anthony Edwards",
+      "names_mentioned": [
+        "D'Angelo Russell",
+        "Anthony Edwards"
+      ],
+      "excerpt": "He and Ant had an unbelievable chemistry like right off the bat.",
+      "quote": "He started the season coming in and just setting everybody up and trying to get a chemistry with everyone and he was great at it. He and Ant had an unbelievable chemistry like right off the bat. He was deferring because he was trying to get everyone in doing normal point guard stuff. Ant goes out, we need him to be more aggressive in all the ways, obviously playmaking but also for himself to score, and he's done that. He's just so talented. You put the ball in his hands down the stretch and he just made the right play after the right play after the right play. Kept trusting his teammates and they kept trusting the next pass.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch on the chemistry between D'Angelo Russell and Anthony Edwards: He and Ant had an unbelievable chemistry right off the bat. He has been great at setting everyone up and making the right play after the right play down the stretch.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "D'Angelo Russell",
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch discusses the chemistry between D'Angelo Russell and Anthony Edwards during his postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "01:03",
+      "summary_phrase": "Jonathan Kuminga's development and role as a versatile contributor",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "We knew we needed to be our dirty work guy like run the floor, get rebounds.",
+      "quote": "When he got here, we knew we needed to be our dirty work guy like run the floor, get rebounds, guard at a high level, just be some connective tissue out there doing all the things that he can do with his physicality, his athleticism. But we also told him to stay really confident in your shot. When you're open, let it fly. We trust your game offensively. He's shooting the lights out for us right now because he's getting good shots in the flow of the offense with his feet set, and they all feel like they're going in.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Chris Finch on Jonathan Kuminga's recent offensive surge: We told him to stay really confident in your shot. When you are open, let it fly. He is shooting the lights out for us right now because he is getting good shots in the flow.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates the development and offensive performance of Jonathan Kuminga following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:52",
+      "summary_phrase": "Defensive adjustments and rebounding to control the game",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "The pin-downs by KD were hurting us for a while and we were able to.",
+      "quote": "We got stops, we turned up the pressure a little bit. I think we were able to, the pin-downs by KD were hurting us for a while and we were able to get into that. They went small, we actually were able to survive that too, and we rebounded at a high level. For the most part we rebounded. There's a very good offensive rebounding team and but as much as anything I thought we controlled the game with our offense with their decision-making.",
+      "text_blocks": [],
+      "start_seconds": 112,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch on the keys to the win: We got stops and turned up the pressure. We were able to survive when they went small and we rebounded at a high level. We controlled the game with our offense and our decision making.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "MIN",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the defensive adjustments made to handle Kevin Durant and the opposing team's offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:22",
+      "summary_phrase": "Defensive strategy against high-powered offenses",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "You just got to try to be really good at the point of attack.",
+      "quote": "They are a really good offense, they got a lot of weapons. You just got to try to be really good at the point of attack. I think that's where we try to start all of our defenses. Then you got to battle KD every single time down. I think it helped us a little bit that he was in foul trouble early and again it's you got to control the glass and we were able to do that. It was a great game, it was not much in it either way, but I was proud of the guys, all of them really guarded.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Chris Finch on defending high powered offenses: You have to be really good at the point of attack and battle KD every single time down. It was a great game and I was proud of the guys, all of them really guarded.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "MIN",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Chris Finch reflects on the defensive strategy used to contain Kevin Durant and the overall team effort in a close game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:00",
+      "summary_phrase": "The significance of regular season wins for playoff positioning",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "The difference between maybe a play-in game and six spot or who could even be fourth.",
+      "quote": "In the West, in the league right now, the difference between maybe a play-in game and six spot or who could even be fourth spot might be a game or two. It's just going to be so close. All these games matter. This is an outstanding team, they've been playing some of the best basketball in the league. We've been trying to reinvent ourselves since Anthony went down and every time you get a win like this it builds confidence in what you're trying to do.",
+      "text_blocks": [],
+      "start_seconds": 180,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Chris Finch on the tight Western Conference standings: The difference between a play in game and a top six spot might be a game or two. All these games matter. Every time you get a win like this it builds confidence in what you are trying to do.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the importance of regular season wins and the team's adjustment process following Anthony Edwards' injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "kM5-ngy4NZc",
+  "url": "https://www.youtube.com/watch?v=kM5-ngy4NZc",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-05T05:10:08Z",
+  "duration_seconds": 215,
+  "processed_at": "2026-11-05T21:05:53Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

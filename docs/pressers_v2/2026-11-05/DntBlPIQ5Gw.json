@@ -1,0 +1,163 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability | 11-4-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:16",
+      "summary_phrase": "Jordan Ott addresses defensive concerns regarding turnovers and rebounding",
+      "names_mentioned": [],
+      "excerpt": "The turnovers are it's always how many steals turn the points.",
+      "quote": "The turnovers are it's always how many steals turn the points and they only have four steals, which I thought at times we took care of some of their pressure. I know we threw the ball out of bounds, but that's still your half-court defense. So, guarding the basketball. Simple as that. One-on-one, guarding the basketball. They put a ton of pressure on you. Again, one of the elite driving teams like we talked about and they have multiple guys who can do it and then fouling. It's finishing possessions, so it's fouling at the end and defensive rebounding, which has been a continuous problem area for us.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott identifies defensive rebounding and guarding the basketball as the primary issues for the Suns after tonight's loss. He says the team needs to focus on finishing possessions and limiting turnovers to improve their half court defense.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's defensive struggles with turnovers and rebounding after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:06",
+      "summary_phrase": "Jordan Ott on unlocking Luka's three-point shooting potential",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "We're encouraging him to shoot every window he has.",
+      "quote": "We're encouraging him to shoot every window he has. I have to take a look to see how many opportunities he really got in the flow of the action, but him along with everyone else, guard the basketball. Guard the basketball, help us rebound. The spirit and the energy of the ball will find you on the offensive end. We've continually talked about that. You could feel again, Jaylen's energy and his spirit was high level tonight and then the ball found him. So, everyone needs to focus on defense, take care of the basketball on offense, do the little things, and then the ball will find you for your shots.",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott says the coaching staff is encouraging Luka to shoot every window he has. He emphasizes that if players focus on defense and energy, the ball will find them on the offensive end.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka",
+          "Jaylen"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains his offensive philosophy and encourages players to focus on defense to generate better scoring opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:35",
+      "summary_phrase": "Jordan Ott clarifies his stance on 'legal guarding position' calls",
+      "names_mentioned": [],
+      "excerpt": "Not sure what legal guarding position it is to get smacked in the face.",
+      "quote": "When a man gets hit in the face airborne, goes down on the ground, you're a superstar player, not sure what legal guarding position it is to get smacked in the face. I'm not sure. So I keep hearing legal guarding position, keep hearing that was not a foul on that specific play. I was told that was not a foul.",
+      "text_blocks": [],
+      "start_seconds": 275,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Jordan Ott expresses frustration with officiating regarding a non-call on a superstar player. He says he was told a play where a player was hit in the face while airborne was not a foul despite his confusion over legal guarding position.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott expresses frustration regarding officiating and the interpretation of legal guarding position after a player was hit in the face.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:36",
+      "summary_phrase": "Jordan Ott evaluates the team's defensive regression since last season",
+      "names_mentioned": [],
+      "excerpt": "I think we started off not great last year defensively a little bit.",
+      "quote": "I think we started off not great last year defensively a little bit. I think we're missing Mark. I think that's a piece of it. Mark's overall size deters rim attempts, his IQ and ability to communicate on the floor. I think we knew when the injury happened that that would hurt us. We just thought we had three really good bigs that we can mix and match. So, defense is a lot predicated on the five-man. Look at those guys, how they play defense. So a lot of that is predicated on your five-man and then now we're scrambling. So now we're switching, now we're a little bit more aggressive to where our base isn't probably as convicted in our base right now defensively.",
+      "text_blocks": [],
+      "start_seconds": 396,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Jordan Ott admits that missing Mark is hurting the Suns defense. He notes that Mark's size and communication were key, and without him, the team is scrambling and struggling to maintain a convicted defensive base.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mark"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Ott explains the team's defensive regression and attributes part of the struggle to the absence of an injured player.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "07:59",
+      "summary_phrase": "Jordan Ott emphasizes defensive rebounding as the key to consistency",
+      "names_mentioned": [],
+      "excerpt": "The one constant right now is what I'll continue to say is the defensive rebounding piece.",
+      "quote": "The one constant right now is what I'll continue to say is the defensive rebounding piece. You got to get it right, especially with the way the league is crashing right now. It feels like everyone is moving more bodies in there. We understand that we're undersized. We understand it, but it's that gets compounded then when you start switching to slow down your drive and help your drive defense. So then you start switching, putting your fives on the perimeter and then your size is away from the rim. So those are the two areas we got to get right first before we start mixing and matching anything else.",
+      "text_blocks": [],
+      "start_seconds": 479,
+      "end_seconds": 521,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the Suns must fix their defensive rebounding issues before making any other adjustments. He notes that being undersized makes it difficult when the team switches to help on drive defense.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott identifies defensive rebounding as the primary area the team must improve to achieve consistency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "DntBlPIQ5Gw",
+  "url": "https://www.youtube.com/watch?v=DntBlPIQ5Gw",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-05T06:13:30Z",
+  "duration_seconds": 534,
+  "processed_at": "2026-11-05T21:04:53Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

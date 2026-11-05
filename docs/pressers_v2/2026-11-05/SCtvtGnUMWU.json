@@ -1,0 +1,158 @@
+{
+  "video_title": "\"I Make An Impact By Doing The Dirty Work.\" | Jonathan Kuminga Postgame Sound | 11.4.26",
+  "speakers_seen": [
+    "Jonathan Kuminga",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Jonathan Kuminga",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jonathan Kuminga on his role and comfort level with the Timberwolves",
+      "names_mentioned": [],
+      "excerpt": "I'm just out there to accomplish to be around those guys and make their life easier.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "It's been great so far. Just being around great guys, I think that kind of helped me feel more comfortable. As long as I'm more comfortable around the guys, I think the rest of the basketball handles itself."
+        },
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Chris talked about you being the dirty guy in terms of doing the dirty work. Obviously in the fourth quarter, you get very aggressive, very physical. How important is it to you to maintain that composure and be a physical defender in the closing time?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "We have so many people that can put the ball in the hoop. The rest of the job is rebounding, playing hard, defending. It's right there, why not do it? I'm just out there to accomplish to be around those guys and make their life easier."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jonathan Kuminga says his role with the Timberwolves is to focus on the dirty work like rebounding and defense to make life easier for his teammates. He notes that as long as he is comfortable, the rest of the basketball handles itself.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga discusses his comfort level with his new teammates and his role as a physical defender for the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Jonathan Kuminga",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:57",
+      "summary_phrase": "Jonathan Kuminga on Anthony Edwards' leadership and impact",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "He just come out here and do his thing and help us win every single day.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Obviously the loss of Ant is a big one, but how have you seen him help out as a leader and a voice for you guys as an assistant coach?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "That's who he is, man. He just come out here and do his thing and help us win every single day. That's how he's been in that way since he got drafted, since he was a little kid. Those moments like that, they're nothing to him, he's used to them."
+        }
+      ],
+      "start_seconds": 57,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jonathan Kuminga on Anthony Edwards stepping into a vocal leadership role while sidelined. Kuminga says Edwards has been helping the team win every single day and that these moments are nothing new for him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga reflects on the leadership qualities of Anthony Edwards during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Jonathan Kuminga",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:20",
+      "summary_phrase": "Jonathan Kuminga on team collective effort and bench contributions",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "We all come out here collectively and try to win the game.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How important is it for everyone else to kind of pick up the slack that Ant leaves? How important is it for you guys to keep that?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "Jaden McDaniels too. We all come out here collectively and try to win the game. I think we all got the same purpose, is to win as many games as we can. Everybody that come off the bench contribute as much as they can, and just keep giving us wins every single day."
+        }
+      ],
+      "start_seconds": 80,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jonathan Kuminga emphasizes the collective effort of the Timberwolves roster in the absence of Anthony Edwards. He says everyone on the team shares the same purpose to win as many games as possible.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga speaks about the collective effort required from the team and bench players to win games in the absence of Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "SCtvtGnUMWU",
+  "url": "https://www.youtube.com/watch?v=SCtvtGnUMWU",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-05T06:08:47Z",
+  "duration_seconds": 116,
+  "processed_at": "2026-11-05T21:05:03Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,107 @@
+{
+  "video_title": "Ayo Dosunmu Postgame On Court Interview After Big Win Vs The Rockets | 11.4.26",
+  "speakers_seen": [
+    "Meghan McPeak",
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Meghan McPeak",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Ayo Dosunmu on the Bulls' mindset during the final minutes",
+      "names_mentioned": [
+        "Ayo Dosunmu"
+      ],
+      "excerpt": "We want to just put ourselves in a position to win. I think we did that.",
+      "text_blocks": [
+        {
+          "speaker": "Meghan McPeak",
+          "text": "Down the stretch in the final five minutes, in some capacity, every play on both ends of the floor included you, Melo, and JK. What was your mindset to finish this one out?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "We want to just put ourselves in a position to win. I think we did that. It's hard to win this league, so anytime you have a chance to win down the stretch, I try to just preach to the guys that keep going. We don't want to have no regrets. We don't want to after the game be thinking like what we could have done. So it was all about us giving our all."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ayo Dosunmu on the Bulls mindset in the final minutes of their win over the Rockets: We want to just put ourselves in a position to win and we do not want to have any regrets after the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Melo",
+          "JK"
+        ],
+        "teams": [
+          "CHI",
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu discusses his mindset and the team's effort during the final minutes of a game against the Houston Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Meghan McPeak",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:29",
+      "summary_phrase": "Ayo Dosunmu on the Bulls' defensive strategy against the Rockets",
+      "names_mentioned": [],
+      "excerpt": "It was very important that we limit them to one shot. They're a great offensive rebounding team.",
+      "text_blocks": [
+        {
+          "speaker": "Meghan McPeak",
+          "text": "They are a very high-powered offensive team. What did it take on the defensive end in the final three minutes to try to slow them down and wear them out and really just get the stops necessary?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "It was very important that we limit them to one shot. They're a great offensive rebounding team, one of the best in the league, if not the best. So we just wanted to limit them to one shot, make it hard for them, make their catches hard. We were able to do that, we were able to get good stops, and we came out with the win."
+        }
+      ],
+      "start_seconds": 29,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ayo Dosunmu says the key to slowing down the Rockets offense was limiting them to one shot per possession. He noted that because they are such a great offensive rebounding team, making their catches hard was the priority.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHI",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains the defensive strategy used to stop the Houston Rockets' offense in the final three minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "NR1zZkMF3W0",
+  "url": "https://www.youtube.com/watch?v=NR1zZkMF3W0",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-05T05:53:51Z",
+  "duration_seconds": 60,
+  "processed_at": "2026-11-05T21:05:17Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

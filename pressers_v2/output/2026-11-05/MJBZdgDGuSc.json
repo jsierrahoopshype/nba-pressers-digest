@@ -1,0 +1,190 @@
+{
+  "video_title": "Postgame Media Availability with Shai Gilgeous-Alexander | OKC Thunder | November 4, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:00",
+      "summary_phrase": "Shai Gilgeous-Alexander on the Thunder's team identity and fast play",
+      "names_mentioned": [],
+      "excerpt": "Play to our identity, play together, play fast, most importantly, and yeah, just be who we are.",
+      "quote": "Play to our identity, play together, play fast, most importantly, and yeah, just be who we are.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 7,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder's focus remains on their core identity: play together, play fast, and just be who we are.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the team's identity and playing style after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:40",
+      "summary_phrase": "Shai Gilgeous-Alexander on the rapid improvement of young Thunder players",
+      "names_mentioned": [],
+      "excerpt": "They're getting better with every experience, and that's what the whole 82-game season is about.",
+      "quote": "They're getting better with every experience, and that's what the whole 82-game season is about. No matter what circumstances you're thrown in, the ability to use the circumstance you're in and get better and improve from it is all you can ask for as a competitor. Those guys have had a great mindset and they've done so, and they're showing their improvement pretty fastly. It's impressive.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander is impressed by the rapid development of his younger teammates, noting they are showing improvement pretty fastly.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander comments on the rapid development and improvement of his younger teammates throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:35",
+      "summary_phrase": "Shai Gilgeous-Alexander praises the maturity of rookie teammate",
+      "names_mentioned": [
+        "Ben"
+      ],
+      "excerpt": "Ben has a really good head on his shoulders and feels like he's almost my age.",
+      "quote": "He's very mature. Ben has a really good head on his shoulders and feels like he's almost my age out there and off the court as well. He's pretty mature for his age, smart kid, and not surprised by his ability to adapt and play in the circumstances. He knows what it takes, he's just been the work in and he's reaping the rewards.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Shai Gilgeous-Alexander praises rookie teammate Ben for his maturity, saying he has a good head on his shoulders and is not surprised by his ability to adapt.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ben"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander praises the maturity and work ethic of his rookie teammate Ben.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:27",
+      "summary_phrase": "Shai Gilgeous-Alexander on finding his shot against the Cavaliers",
+      "names_mentioned": [],
+      "excerpt": "I've just been able to find shots and shots that I like.",
+      "quote": "I've just been able to find shots and shots that I like. Whether they go in or out, I'm going to take them when I find shots that I like. In the past two games, I've just happened to find more than usual.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander on his recent shooting rhythm: I have just been able to find shots that I like and I am going to take them.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains his recent success in finding and taking shots during the game against the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "03:07",
+      "summary_phrase": "Shai Gilgeous-Alexander on the difficulty of winning in the NBA",
+      "names_mentioned": [],
+      "excerpt": "Regardless, winning an NBA is very hard.",
+      "quote": "Regardless, winning an NBA is very hard. It's been a different challenge to go win the games, but this group over the past years, no matter who's out there, has found a way to go do that no matter what, and we've been able to do so the last two nights.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Shai Gilgeous-Alexander emphasizes that winning in the NBA is very hard but credits the group for finding a way to win regardless of who is on the floor.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander reflects on the difficulty of winning in the NBA and the team's ability to adapt.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:33",
+      "summary_phrase": "Shai Gilgeous-Alexander on tactical adjustments and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "A certain style offensively that's had to change a little bit, different plays.",
+      "quote": "A certain style offensively that's had to change a little bit, different plays. And then defensively, I think guys are figuring out rotations and spots to be in, and also just like playing off each other's personnel on both ends of the floor. Those type of things only come with repetition and experiences, and it feels like we're getting better at that out there.",
+      "text_blocks": [],
+      "start_seconds": 273,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Shai Gilgeous-Alexander says the Thunder are improving their defensive rotations and offensive chemistry through repetition and experience.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Shai Gilgeous-Alexander discusses the team's tactical adjustments on offense and defense and the importance of repetition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "MJBZdgDGuSc",
+  "url": "https://www.youtube.com/watch?v=MJBZdgDGuSc",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-05T05:20:05Z",
+  "duration_seconds": 304,
+  "processed_at": "2026-11-05T21:05:39Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

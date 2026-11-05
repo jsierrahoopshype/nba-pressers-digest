@@ -1,0 +1,134 @@
+{
+  "video_title": "Deni Avdija Postgame Interview | Portland Trail Blazers 132, Phoenix Suns 119 | Nov. 4, 2026",
+  "speakers_seen": [
+    "Deni Avdija",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deni Avdija",
+      "timestamp": "00:07",
+      "summary_phrase": "Deni Avdija on the importance of focusing on small details",
+      "names_mentioned": [],
+      "excerpt": "the will to be great is very important, especially for a coach, especially for our leader",
+      "quote": "I think the will to be great is very important, especially for a coach, especially for our leader. Just being focused with the little details, making sure we are doing, because in the end of the day, the great teams, they do the little details very, very good. I think he puts a lot of emphasis on it and I think that's a big step up for us.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Deni Avdija says the Blazers are focused on the little details to reach the next level. He notes that the will to be great is a big step up for the team right now.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija discusses the importance of focusing on small details to become a great team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Deni Avdija",
+      "speakers": [
+        "Deni Avdija",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:45",
+      "summary_phrase": "Deni Avdija on team performance and missing key players",
+      "names_mentioned": [],
+      "excerpt": "everybody ate today, everybody came to play. Obviously we're missing some key players",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Deni Avdija",
+          "text": "We played together, we shared the ball, everybody ate today, everybody came to play. Obviously we're missing some key players that we do miss, but everybody's stepping up and doing their job."
+        },
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What do you lose when they're not out there?"
+        },
+        {
+          "speaker": "Deni Avdija",
+          "text": "Shooting, energy, just making the right play. He's always on the court, he's making the right play, he's been great on defense this year and he's been great off the bench for us. We'll wait for him to get healthy and come back."
+        }
+      ],
+      "start_seconds": 45,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Deni Avdija on the Blazers playing through injuries. He says that while they miss key players, everybody is stepping up and doing their job to share the ball and play together.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Deni Avdija explains how the team is managing the absence of injured players by having others step up.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Deni Avdija",
+      "speakers": [
+        "Deni Avdija",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:41",
+      "summary_phrase": "Deni Avdija on team depth and stepping up in absence of teammates",
+      "names_mentioned": [],
+      "excerpt": "we have a lot of talent in this room and some people who needs to take bigger roles",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How do you account for the loss of those guys and just kind of next man up?"
+        },
+        {
+          "speaker": "Deni Avdija",
+          "text": "As I said, I feel like everybody, we have a lot of talent in this room and some people who needs to take bigger roles, they're trying to fill in their shoes and play together and play extended minutes, take care of our body and be ready to play. Everybody's doing it pretty right, so just keep doing that."
+        }
+      ],
+      "start_seconds": 101,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Deni Avdija emphasizes the next man up mentality for the Blazers. He says there is a lot of talent in the locker room and players are ready to fill bigger roles and play extended minutes.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija describes the next man up mentality and the team's collective effort to fill roles while teammates are sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "8PHAsq6h9cE",
+  "url": "https://www.youtube.com/watch?v=8PHAsq6h9cE",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-05T06:02:24Z",
+  "duration_seconds": 135,
+  "processed_at": "2026-11-05T21:05:11Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

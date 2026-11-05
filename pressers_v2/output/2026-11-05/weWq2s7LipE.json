@@ -1,0 +1,166 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Portland Trail Blazers 132, Phoenix Suns 119 | Nov. 4, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "01:08",
+      "summary_phrase": "Vlatko Cancar suffers a fractured leg injury",
+      "names_mentioned": [
+        "Vlatko Cancar"
+      ],
+      "excerpt": "Vlatko Cancar fractured his leg. It is an awful break for him, for us.",
+      "quote": "Vlatko Cancar fractured his leg. It is an awful break for him, for us, because we need him. But we will support him, and he will be back. Just like we have done, it has been tough, but even with Ja and all that, these guys are resilient. It is just one more, you face adversity, but you just keep going.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 10,
+      "social_post": "Micah Nori confirms Vlatko Cancar has suffered a fractured leg. Nori called it an awful break for the team but emphasized that the group remains resilient in the face of adversity.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Vlatko Cancar"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Micah Nori announces that Vlatko Cancar has suffered a fractured leg injury during the postgame press conference.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "02:34",
+      "summary_phrase": "Rotation adjustments following Vlatko Cancar's injury",
+      "names_mentioned": [
+        "Christian Youngblood",
+        "Tanjir Khan"
+      ],
+      "excerpt": "I think we will probably still have Christian Youngblood step into those minutes.",
+      "quote": "I think we will probably still have Christian Youngblood step into those minutes, and then we will probably either bring up Tanjir Khan. I will talk to Joe and see what he wants to do there, and then we will go from there. I do feel comfortable with the depth that we have that allows us to do that.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Following the injury to Vlatko Cancar, Micah Nori says Christian Youngblood will step into those rotation minutes and the team may look to call up Tanjir Khan to provide additional depth.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Youngblood",
+          "Tanjir Khan",
+          "Joe"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori discusses potential roster adjustments and rotation changes following the injury to Vlatko Cancar.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "03:35",
+      "summary_phrase": "Team chemistry and the impact of new roster additions",
+      "names_mentioned": [
+        "Donovan Mitchell",
+        "Rob",
+        "Scoot",
+        "Denny",
+        "Drew Holidays",
+        "City",
+        "Tumani"
+      ],
+      "excerpt": "I think it is a really good combination of we do have selfless guys.",
+      "quote": "I think it is a really good combination of we do have selfless guys. But we also have guys that their skill sets match. It is not like we have three or four of the same. The gravity that Dame forces, we have really good guys that can screen, meaning Donovan and Rob that put pressure on the rim. You have Scoot who can get downhill. Obviously Denny can get downhill. Drew Holidays is like a Swiss Army knife, he can do everything. And City and Tumani, I feel bad, I apologize to Tumani, because quite honestly, he goes out and guards everybody every single night. I tell him I am going to run a play for him and I did not even run one. Then I said, hey, I am going to run the first play second half for you and he goes down and gets fouled and makes two free throws. We have a lot of really good offensive players, we have a lot of really good defensive players, and I am getting way too much credit for putting really good players in good positions.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori praised the chemistry of his roster, highlighting the diverse skill sets of players like Dame, Scoot, and Tumani. Nori noted that he is getting too much credit for simply putting talented players in good positions.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Donovan",
+          "Rob",
+          "Scoot Henderson",
+          "Denny",
+          "Drew Holiday",
+          "Tumani"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori evaluates the team chemistry and the complementary skill sets of his players after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "04:34",
+      "summary_phrase": "Addressing the team's high volume of missed free throws",
+      "names_mentioned": [
+        "Dame",
+        "Tumani",
+        "Denny"
+      ],
+      "excerpt": "I think when you get worried about it is when Denny and Tumani or whoever it is misses multiple.",
+      "quote": "I think it is different. The other night it was Dame that missed the free throws. Now Dame goes five for five. Now Tumani has missed four, Denny has missed three tonight. So I think when you get worried about it is when Denny and Tumani or whoever it is misses multiple in multiple games in a row. Does that make sense? Because I was really frustrated when I looked 30 for 41. I am like, damn we missed 11, but Tumani missed four and Denny missed three. That is seven of the 11. I know the one thing about Denny, when you look down at the end of the year, he is going to be over 80. But Tumani, that is probably on me as well, because I did not get him, he did not feel the ball, he did not get any touches, so then all of a sudden you get fouled and you go to the free throw line, it is tough.",
+      "text_blocks": [],
+      "start_seconds": 274,
+      "end_seconds": 337,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Micah Nori addressed the team's struggles at the free throw line after a 30 for 41 performance. Nori said he is not overly concerned yet, noting that he expects Denny to shoot over 80 percent by the end of the season.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Tumani",
+          "Denny"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori addresses the team's struggles with free throw shooting during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "weWq2s7LipE",
+  "url": "https://www.youtube.com/watch?v=weWq2s7LipE",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-05T06:13:16Z",
+  "duration_seconds": 364,
+  "processed_at": "2026-11-05T21:04:53Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

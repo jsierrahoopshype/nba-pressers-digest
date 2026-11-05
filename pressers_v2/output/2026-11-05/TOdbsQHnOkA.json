@@ -1,0 +1,149 @@
+{
+  "video_title": "\"I Just Took Advantage Of What The Game Gave Me.\" | LaMelo Ball Postgame Sound | 11.4.26",
+  "speakers_seen": [
+    "LaMelo Ball",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "LaMelo Ball on his fourth quarter decision-making and performance",
+      "names_mentioned": [],
+      "excerpt": "I just see the game from the side and I'm like when I get back in I know what I can do.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "There's so many times in the fourth quarter where you've been able to take control. In terms of everything you're seeing in the fourth quarter, how was that tonight?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Pretty much just letting the game come to me. It felt good starting off and I just felt myself. I just see the game from the side and I'm like when I get back in I know what I can do."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on his fourth quarter approach tonight: I just took advantage of what the game gave me. I just see the game from the side and when I get back in I know what I can do.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses his performance and decision-making during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "LaMelo Ball on building chemistry with Chris Finch and teammates",
+      "names_mentioned": [
+        "Chris Finch"
+      ],
+      "excerpt": "It's been great. Just talking to him every day, talking to the guys, all the other coaches.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "In terms of the connection with Chris Finch and the coaching staff, and you talking about setting the offense, especially now with that group, how has that process been so far for you?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "It's been great. Just talking to him every day, talking to the guys, all the other coaches, and pretty much just learning and them learning me, everybody learning each other, just improving every day."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "LaMelo Ball says his chemistry with Chris Finch and the coaching staff is improving daily as they continue learning each other.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Finch"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "LaMelo Ball describes the process of building chemistry with head coach Chris Finch and his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:38",
+      "summary_phrase": "LaMelo Ball on finding offensive gaps against aggressive defenses",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "It's getting easier and easier. I know what I'm trying to do, I know what he's trying to do now.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Obviously the markets are a very aggressive, high-level defense. How were you able to find gaps and seams in those screens to use you and Rudy Gobert to find angles?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Like I pretty much said, we all just working with each other day by day, so it's getting easier and easier. I know what I'm trying to do, I know what he's trying to do now, so it just makes it easier."
+        }
+      ],
+      "start_seconds": 38,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "LaMelo Ball on finding offensive rhythm with Rudy Gobert: We are all working with each other day by day. I know what I am trying to do and I know what he is trying to do now so it just makes it easier.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball explains how he and Rudy Gobert are finding offensive chemistry against aggressive defenses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "TOdbsQHnOkA",
+  "url": "https://www.youtube.com/watch?v=TOdbsQHnOkA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-05T05:50:08Z",
+  "duration_seconds": 62,
+  "processed_at": "2026-11-05T21:05:25Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

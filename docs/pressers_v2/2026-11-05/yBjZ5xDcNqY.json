@@ -1,0 +1,350 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.04.26",
+  "speakers_seen": [
+    "Coach Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "00:04",
+      "summary_phrase": "Tyrese Maxey's late-game performance and development",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "Jaylen obviously had a good game, made another play as we were just trying to finish the game.",
+      "quote": "Jaylen obviously had a good game, made another play as we were just trying to finish the game, and we needed to keep making a few more plays down the stretch there and that was certainly a huge one.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse on the late game execution against the opponent. He noted that while they needed to make plays down the stretch, they were able to get the job done.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse discusses a key play made by Jaylen Brown during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "00:28",
+      "summary_phrase": "Tyrese Maxey's comfort level and playmaking ability",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "He had a seven-assist, one-turnover game. They are obviously scheming for him and I thought he played pretty comfortable.",
+      "quote": "I like the way he played. He had a seven-assist, one-turnover game. They are obviously scheming for him and I thought he played pretty comfortable, to be honest, and I like that more than anything.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse was impressed with the playmaking from Tyrese Maxey tonight. He noted that Maxey played comfortable and finished with seven assists and only one turnover.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse evaluates Tyrese Maxey's playmaking performance and comfort level on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "00:55",
+      "summary_phrase": "Managing team rotation and player matchups",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "Joel Embiid"
+      ],
+      "excerpt": "I think it's going to matter on the night, matchups, what's going on. I don't think it's going to be the same recipe every night.",
+      "quote": "I think it's going to matter on the night, matchups, what's going on. I don't think it's going to be the same recipe every night, which I think is huge. I think that's alluding to your question that it can go other places and just needs to go to the right place on any given night.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse says the Sixers rotation will remain fluid based on matchups. He does not think there will be the same recipe every night as they continue to figure out the best positions for players.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Nick Nurse explains his approach to managing team rotations and matchups on a game-by-game basis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "01:25",
+      "summary_phrase": "Evaluating Joel Embiid's performance and defensive impact",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I thought he was under control, powerful, again, degree of difficulty. He's making them pretty consistently.",
+      "quote": "I thought he was under control, powerful, again, degree of difficulty. He's making them pretty consistently, and he had to do some work at the other end too. We had to switch the matchups around with some of the backcourt foul trouble, so he had to do some different stuff defensively, which I thought he excelled at too.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse praised Joel Embiid for his defensive versatility tonight. Embiid had to adjust his role due to foul trouble in the backcourt and Nurse thought he excelled in those different spots.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse praises Joel Embiid for his defensive versatility and performance under pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "02:17",
+      "summary_phrase": "Developing team chemistry and player roles",
+      "names_mentioned": [],
+      "excerpt": "I'm still every day trying to figure out how to put these guys in their best positions to succeed.",
+      "quote": "I'm still every day trying to figure out how to put these guys in their best positions to succeed and stuff. So I just think it's part of early season, new team, all that kind of stuff. I think I still got a lot to learn about a lot of these guys before we can get to understanding where exactly we can use them in any given night.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse admits he is still learning his roster in the early stages of the season. He says he is trying to figure out how to put guys in their best positions to succeed.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse discusses the ongoing process of learning his roster and determining optimal player roles early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "03:05",
+      "summary_phrase": "Bench energy and defensive contributions",
+      "names_mentioned": [
+        "Mo Bamba",
+        "Nicolas Batum"
+      ],
+      "excerpt": "That's what we need, we need the energy off the bench and we need a boost at the defensive end.",
+      "quote": "That's what we need, we need the energy off the bench and we need a boost at the defensive end and I think all those guys can give that. Mo Bamba had a good game tonight, man. Like he was really effective I thought, and Batum, a little tough night with some foul trouble, but we know Batum can play D.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse highlighted the bench production tonight. He specifically mentioned Mo Bamba was really effective and provided the defensive boost the team needed.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mo Bamba",
+          "Nicolas Batum"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse evaluates the contributions and defensive energy provided by bench players Mo Bamba and Nicolas Batum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "04:05",
+      "summary_phrase": "Focusing on game-by-game execution",
+      "names_mentioned": [],
+      "excerpt": "The games in front of you, you got to play to win it. I wouldn't read any super long-term stuff.",
+      "quote": "The games in front of you, you got to play to win it. I wouldn't read any super long-term stuff into anything because guys are, it's early, playing without guys, you're playing without guys. I mean there's a lot of stuff going on, so you just try to win the game in front of you.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 266,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse is keeping his focus on the short term. He says he would not read any super long term stuff into anything right now and is just trying to win the game in front of them.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse emphasizes the importance of focusing on immediate game execution rather than long-term trends.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "04:28",
+      "summary_phrase": "Improving team consistency and minute management",
+      "names_mentioned": [],
+      "excerpt": "The stretch of good minutes continues to rise by two or three minutes here as of late.",
+      "quote": "The stretch of good minutes continues to rise by two or three minutes here as of late. We're still a long ways away from playing a 48-minute game. If we just take care of it consistently and get shots consistently and stay solid consistently, then we can get to 48 eventually.",
+      "text_blocks": [],
+      "start_seconds": 268,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse says the Sixers are still a long ways away from playing a full 48 minute game. He wants to see more consistency in taking care of the ball and getting quality shots.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse discusses the team's progress toward playing a consistent 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "05:14",
+      "summary_phrase": "Joel Embiid's improved conditioning and determination",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He's just feeling better, moving better. And a lot of determination. He's going to get a lot of those rebounds.",
+      "quote": "He's just feeling better, moving better. And a lot of determination. He's going to get a lot of those rebounds, like they aren't just falling to him. He's got to go get them, he's got to snap them down, and he's got to hang on to them because they're coming from behind and all that stuff.",
+      "text_blocks": [],
+      "start_seconds": 314,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Nick Nurse says Joel Embiid is moving better and showing a lot of determination on the glass. He noted that Embiid is working hard to snap down rebounds rather than letting them fall to him.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse comments on Joel Embiid's improved conditioning and physical effort in securing rebounds.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "05:45",
+      "summary_phrase": "Joel Embiid's neck injury status",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He got hit in the neck soreness. Obviously took a shot there and I was really low on timeouts.",
+      "quote": "He got hit in the neck soreness. Obviously took a shot there and I was really low on timeouts, so I was trying to get through it. Finally had to get him out of there, they're checking him now. I think it's a neck issue, but I just saw him on the way here, looks to be okay, but nothing official on that.",
+      "text_blocks": [],
+      "start_seconds": 345,
+      "end_seconds": 369,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Nick Nurse provided an update on Joel Embiid after he left the game with neck soreness. Nurse said he saw him on the way to the podium and he looks to be okay but there is nothing official yet.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Nick Nurse provides an update on Joel Embiid's status after he sustained a neck injury during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Coach Nick Nurse",
+      "timestamp": "06:28",
+      "summary_phrase": "Evaluating player shooting and movement",
+      "names_mentioned": [],
+      "excerpt": "He can really shoot the ball. He's got to be in tremendous shape, he comes off sometimes like six screens.",
+      "quote": "He can really shoot the ball. He's got to be in tremendous shape, he comes off sometimes like six screens in one possession and he never stops. He doesn't need much space, he's got great size. Even if you're kind of glued to his side sometimes, he's still going to shoot them.",
+      "text_blocks": [],
+      "start_seconds": 388,
+      "end_seconds": 408,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nick Nurse on the conditioning required for his shooters. He noted that some players have to run through multiple screens per possession and never stop moving to create space.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse describes the movement and shooting ability of an opposing player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "yBjZ5xDcNqY",
+  "url": "https://www.youtube.com/watch?v=yBjZ5xDcNqY",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-05T17:09:56Z",
+  "duration_seconds": 460,
+  "processed_at": "2026-11-05T21:04:32Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

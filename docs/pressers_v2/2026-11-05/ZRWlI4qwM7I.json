@@ -1,0 +1,165 @@
+{
+  "video_title": "Post Game Press Conference l Ausar Thompson l Pistons at Hornets   11.04.26 #NBA",
+  "speakers_seen": [
+    "Ausar Thompson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ausar Thompson",
+      "timestamp": "00:04",
+      "summary_phrase": "Ausar Thompson on Pistons' slow start and second-half progress",
+      "names_mentioned": [],
+      "excerpt": "in the second half we started doing that and we saw progress",
+      "quote": "We were playing slow to start. We were not playing together. We were not moving it too much and in the second half we started doing that and we saw progress.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ausar Thompson says the Pistons were playing slow and not moving the ball early against the Hornets, but he saw progress in the second half when they started playing together.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Ausar Thompson discusses the Pistons' slow start and their improved ball movement in the second half of the game against the Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ausar Thompson",
+      "timestamp": "00:28",
+      "summary_phrase": "Ausar Thompson on team's offensive struggles and maintaining pressure",
+      "names_mentioned": [],
+      "excerpt": "just being able to get to the next action even when the shots aren't falling",
+      "quote": "We are still figuring those things out, just being able to get to the next action even when the shots aren't falling and keep putting pressure on the other team.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ausar Thompson on the Pistons offensive struggles: We are still figuring those things out and just need to get to the next action even when the shots are not falling.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Ausar Thompson explains the team's need to maintain offensive pressure even when shots are not falling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ausar Thompson",
+      "timestamp": "01:17",
+      "summary_phrase": "Ausar Thompson on John Collins' versatility and offensive impact",
+      "names_mentioned": [
+        "John Collins"
+      ],
+      "excerpt": "he's able to spread the court, hit threes, catch lobs, set screens, roll and in the post",
+      "quote": "He's able to spread the court, hit threes, catch lobs, set screens, roll and in the post, he's able to get his own bucket. So, he's super dynamic and I feel I'm going to try to do a better job of feeding him.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ausar Thompson calls John Collins a super dynamic player who can spread the court and get his own bucket, adding that he needs to do a better job of feeding him the ball.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "John Collins"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ausar Thompson praises teammate John Collins for his dynamic offensive versatility and ability to score in multiple ways.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ausar Thompson",
+      "timestamp": "01:35",
+      "summary_phrase": "Ausar Thompson on playing against elite rim protectors like Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "how high I jump, how athletic I am, how I could get to the cup shouldn't affect",
+      "quote": "It really shouldn't. I feel like how high I jump, how athletic I am, how I could get to the cup shouldn't affect what I do. Obviously he's a good defender, but I trust myself up there.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ausar Thompson says playing against elite rim protectors should not change his game: I trust myself up there.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Ausar Thompson reflects on his confidence in attacking the rim despite facing elite defenders like Joel Embiid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ausar Thompson",
+      "timestamp": "02:13",
+      "summary_phrase": "Ausar Thompson on increasing aggression and pushing the pace",
+      "names_mentioned": [],
+      "excerpt": "I definitely could do that a little bit more, just to push our pace especially when",
+      "quote": "I definitely could do that a little bit more, just to push our pace especially when we don't have anything going. But first I got to grab rebounds and push them. I need to make sure they don't get offensive rebounds and if they crash, they send four to the glass, that means we have a lot of numbers going on the other end.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ausar Thompson says he needs to focus on grabbing rebounds to help push the pace for the Pistons: I definitely could do that a little bit more.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Ausar Thompson discusses his personal goal to increase aggression and push the pace by securing defensive rebounds to create transition opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ZRWlI4qwM7I",
+  "url": "https://www.youtube.com/watch?v=ZRWlI4qwM7I",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-05T03:51:42Z",
+  "duration_seconds": 160,
+  "processed_at": "2026-11-05T21:06:30Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

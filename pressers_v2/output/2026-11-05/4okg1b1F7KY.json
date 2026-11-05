@@ -1,0 +1,235 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Pacers",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:32",
+      "summary_phrase": "Tuomas Iisalo explains the late-game strategy against the Pacers",
+      "names_mentioned": [
+        "Aaron Nesmith"
+      ],
+      "excerpt": "We were out of timeouts in that situation. Three possible scenarios there: we can foul, put them on the free throw line.",
+      "quote": "The possession started with four-second differential. We were out of timeouts in that situation. Three possible scenarios there: we can foul, put them on the free throw line. We can let them bleed out the clock, which means if they put the shot up with let's say five seconds, we have to get the ball up in three seconds. Or we could try to get them to take an early shot by trapping the ball, which they did. Unfortunately, they made the shot.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo explains the late game decision to trap the ball against the Pacers, noting that while they forced an early shot, the opponent unfortunately made it.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo explains the tactical decision-making process during the final possession of the game against the Pacers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:11",
+      "summary_phrase": "Tuomas Iisalo on the team's high turnover rate",
+      "names_mentioned": [],
+      "excerpt": "Some of our passes were late and that allowed their pressure defense then to put two on the ball.",
+      "quote": "Some of our passes were late and that allowed their pressure defense then to put two on the ball, but cut off the passing lanes. Some of them were those. Others were directly off the dribble that we didn't handle their ball pressure that well, and we certainly didn't use it against them well enough. You can see that from our offensive rating that there's always a give and take when you put some pressure on the ball or you put two on the ball, like in the ball screen situations against Ty and Cam.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo points to late passes and poor ball handling under pressure as the primary reasons for the team's 19 turnovers against the Pacers.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty",
+          "Cam"
+        ],
+        "teams": [
+          "MEM",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the team's high turnover rate and struggles against the Pacers' ball pressure defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:02",
+      "summary_phrase": "Tuomas Iisalo on the team's offensive struggles and turnovers",
+      "names_mentioned": [
+        "Ty",
+        "Cam"
+      ],
+      "excerpt": "We had 19 turnovers today. They scored 24 points off of those, 33 points according to our in transition.",
+      "quote": "We had 19 turnovers today. They scored 24 points off of those, 33 points according to our in transition. A lot of them were also, or at least a few were, we had a chance to capitalize on the other end and then it turned into a fast break to the other direction. In that way, not so kind reminder on the New Orleans game when we were in overtime. We had two fast breaks with two against one and five against three that we couldn't convert. So we got to be better. That's part of the learning process for us.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo says the team must improve their transition execution, noting they failed to convert on multiple fast break opportunities against the Pacers.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo reflects on the team's 19 turnovers and inability to convert transition opportunities compared to a previous game against New Orleans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:13",
+      "summary_phrase": "Tuomas Iisalo on the team's long-term development",
+      "names_mentioned": [],
+      "excerpt": "We are drawing the best shot from the opponents right now because of our start to the season.",
+      "quote": "We are drawing the best shot from the opponents right now because of our start to the season. That's great for us in the long term because that allows us to develop and see what are some of the things that have maybe hurt us and then improve those. But overall, I thought both teams had a very low offensive rating today and some very sturdy half-court defense and sometimes even difficulties to get into that half-court offense.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tuomas Iisalo believes the team's strong start to the season is forcing opponents to play their best, which he views as a valuable long term development tool.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the team's long-term development and the defensive nature of the game against the Pacers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "04:03",
+      "summary_phrase": "Tuomas Iisalo on the team's ball movement and spacing",
+      "names_mentioned": [
+        "Ty",
+        "Cam"
+      ],
+      "excerpt": "They put two on the ball and then they have the low man slide over, take the roll man.",
+      "quote": "Anytime we move the ball, they were very aggressive in their protection. So they put two on the ball and then they have the low man slide over, take the roll man, which basically leaves one player, call him X, out for the two players on the weak side. I didn't think we moved the ball quite fast enough to those guys. And then when we did, we did get quality looks, whether from the three or from closeouts. And those are the team reactions we keep talking about.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo says the team failed to move the ball fast enough to punish the Pacers for their aggressive defensive rotations.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo analyzes the team's ball movement and spacing issues against the Pacers' defensive coverage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "06:27",
+      "summary_phrase": "Tuomas Iisalo on Ty's role in the offense",
+      "names_mentioned": [
+        "Ty"
+      ],
+      "excerpt": "We know that Ty is in there to generate those pick and rolls for us.",
+      "quote": "We know that Ty is in there to generate those pick and rolls for us. He's in some of the highest percentiles in the whole league when he gets those and he's very efficient with them. So we just got to figure that out and that's why we watch the tape and then draw the conclusions and try and small amount of time that we have to practice, we try to work on those.",
+      "text_blocks": [],
+      "start_seconds": 387,
+      "end_seconds": 415,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo emphasizes the importance of Ty in the offense, noting he is in the highest percentiles in the league at generating efficient pick and roll opportunities.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo explains the offensive role of Ty in generating pick and roll opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "08:10",
+      "summary_phrase": "Tuomas Iisalo on Omax's energy and defensive intensity",
+      "names_mentioned": [
+        "Omax"
+      ],
+      "excerpt": "Omax is an excellent example of that type of player who's always ready and always ready to bring energy.",
+      "quote": "Mostly energy, mostly energy and defensive intensity. We never want to be the team that's outcompeted and we've had now in a couple of games those stretches in the middle of first and beginning of second and beginning of fourth where we don't quite have it. And we thought Omax is an excellent example of that type of player who's always ready and always ready to bring energy and I thought he sparked us a little bit there. He had that fast break dunk that got the crowd into it and overall always plays with extremely high effort.",
+      "text_blocks": [],
+      "start_seconds": 490,
+      "end_seconds": 528,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tuomas Iisalo praises Omax for his energy and defensive intensity, noting that his effort helped spark the team during the game.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Omax"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo praises Omax for the energy and defensive intensity he brought to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "4okg1b1F7KY",
+  "url": "https://www.youtube.com/watch?v=4okg1b1F7KY",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-05T04:09:59Z",
+  "duration_seconds": 535,
+  "processed_at": "2026-11-05T21:06:21Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

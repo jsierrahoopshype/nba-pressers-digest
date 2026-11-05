@@ -1,0 +1,164 @@
+{
+  "video_title": "Jalen Brunson and Dalton Knecht Postgame Media | November 4, 2026",
+  "speakers_seen": [
+    "Jalen Brunson",
+    "Dalton Knecht"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Brunson",
+      "timestamp": "00:02",
+      "summary_phrase": "Jalen Brunson on his early scoring and defensive focus",
+      "names_mentioned": [],
+      "excerpt": "I feel like it really started on the defensive side of the ball and we were able to get stops.",
+      "quote": "I guess after the first couple makes. It is part of the game. Obviously when you have it going, it feels good. Just trying to play off that and use your gravity to make plays. I feel like it really started on the defensive side of the ball and we were able to get stops and get on transition, create a comfortable lead. I think we played well with the lead for the most part. Just start with our defense.",
+      "verbatim_original_language": "",
+      "start_seconds": 2,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jalen Brunson says the Knicks success starts on the defensive side of the ball. He noted that getting stops and creating a comfortable lead was the key to their performance.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Brunson discusses his offensive rhythm and the importance of defensive stops in the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Brunson",
+      "timestamp": "01:00",
+      "summary_phrase": "Jalen Brunson on his 22-point first quarter performance",
+      "names_mentioned": [],
+      "excerpt": "Is there ever a point where it's just roll into that degree where you would ever ask a coach to let you keep going?",
+      "quote": "Is there ever a point where it's just roll into that degree where you would ever ask a coach to let you keep going? Maybe. I don't want to say no, because you never know when you're in this situation. But I mean, just want to respect the game as much as possible.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jalen Brunson on whether he asks to stay in during a hot shooting streak. He says he does not want to say no but wants to respect the game as much as possible.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Brunson is asked if he would ever ask his coach to let him keep playing during a high-scoring performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Brunson",
+      "timestamp": "01:40",
+      "summary_phrase": "Jalen Brunson on Dalton Knecht's impact and aggressive play",
+      "names_mentioned": [
+        "Dalton Knecht"
+      ],
+      "excerpt": "I told him to be aggressive no matter what the situation is, whether you're a new player or not.",
+      "quote": "He played great. I think the way he was rebounding, getting on transition, and just telling him to be aggressive no matter what the situation is, whether you're a new player or not, being aggressive is important. I said aggressive mistakes are fine, so just stay aggressive. He had a big shot in the second quarter and he's going to be comfortable, and once he is, he's going to play even better.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jalen Brunson praised Dalton Knecht for his aggressive play. Brunson told the rookie that aggressive mistakes are fine and that he will play even better once he gets comfortable.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dalton Knecht"
+        ],
+        "teams": [
+          "NYK",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Brunson praises Dalton Knecht for his aggressive play and rebounding during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dalton Knecht",
+      "timestamp": "02:47",
+      "summary_phrase": "Dalton Knecht on his readiness and team communication",
+      "names_mentioned": [],
+      "excerpt": "I was just came in ready to go. The coach said, you're at this, so that just means to be ready.",
+      "quote": "I wasn't surprised. I just came in ready to go. The coach said, you're at this, so that just means to be ready. Just staying ready, sitting on the bench, and talking to my teammates, so it was really helpful and it was easy to get in there and play confident. All the guys out there gave me good looks.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dalton Knecht says he was not surprised by his performance. He credited staying ready on the bench and communicating with his teammates for helping him play with confidence.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Dalton Knecht explains how he stayed ready to contribute off the bench for his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dalton Knecht",
+      "timestamp": "03:24",
+      "summary_phrase": "Dalton Knecht on evolving his game beyond shooting",
+      "names_mentioned": [],
+      "excerpt": "I just want to show on the other side of the ball, getting in the ball pressure.",
+      "quote": "I think I'm a three-level scorer. I think I just go out there and can impact the game at all three levels. And you know, I just want to show on the other side of the ball, getting in the ball pressure and stuff like that and going in and grabbing defensive rebounds.",
+      "verbatim_original_language": "",
+      "start_seconds": 204,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dalton Knecht says he is a three level scorer who wants to impact the game beyond shooting. He is focused on showing he can provide ball pressure and grab defensive rebounds.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Dalton Knecht describes his ability to score at all three levels and his focus on defensive contributions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "cUaZfvIBnzU",
+  "url": "https://www.youtube.com/watch?v=cUaZfvIBnzU",
+  "channel_team": "New York Knicks",
+  "published": "2026-11-05T05:25:11Z",
+  "duration_seconds": 229,
+  "processed_at": "2026-11-05T21:05:36Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

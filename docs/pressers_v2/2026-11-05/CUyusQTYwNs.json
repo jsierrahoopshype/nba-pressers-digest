@@ -1,0 +1,219 @@
+{
+  "video_title": "Donovan Clingan Postgame Interview | Portland Trail Blazers 132, Phoenix Suns  119 | Nov. 4, 2026",
+  "speakers_seen": [
+    "Donovan Clingan",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Clingan",
+      "speakers": [
+        "Donovan Clingan",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Donovan Clingan on the impact of a teammate's absence",
+      "names_mentioned": [],
+      "excerpt": "he's still going to be a good teammate, he's still going to be a great guy",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Can you describe what you guys lose when he's out?"
+        },
+        {
+          "speaker": "Donovan Clingan",
+          "text": "Shooting. He's been guarding the ball at a high level, team player. But he's still going to be a good teammate, he's still going to be a great guy and he's going to be there for us. I know that, and I know he's going to be good, he'll be ready to come back soon."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Clingan on a teammate's absence: He provides shooting and high level defense, but he is still going to be a great guy and he will be ready to come back soon.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Clingan discusses the impact of an injured teammate's absence on the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Clingan",
+      "speakers": [
+        "Donovan Clingan",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:23",
+      "summary_phrase": "Donovan Clingan on his recent performance and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "I feel like my teammates and my coaches really put me in good positions to succeed",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Something light a fire in you the last couple games?"
+        },
+        {
+          "speaker": "Donovan Clingan",
+          "text": "I don't know, I wasn't pleased with my performance the first couple games. I realized I had to turn it up a notch. I feel like my teammates and my coaches really put me in good positions to succeed. In the ball screen game, I crash the glass, and I feel like the team is playing so well that everyone is finding their way out there."
+        }
+      ],
+      "start_seconds": 23,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Donovan Clingan says he was not pleased with his performance in the first couple games of the season and realized he had to turn it up a notch to help the team.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Donovan Clingan reflects on his recent improved performance and the team chemistry of the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Clingan",
+      "speakers": [
+        "Donovan Clingan",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:49",
+      "summary_phrase": "Donovan Clingan on his early season struggles and adjustments",
+      "names_mentioned": [],
+      "excerpt": "I was a little slow, a little step behind. I wasn't as aggressive on boards offensively",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What were you not happy about with your first couple games?"
+        },
+        {
+          "speaker": "Donovan Clingan",
+          "text": "I felt like I was a little slow, a little step behind. I wasn't as aggressive on boards, offensively. I just wasn't me and I found myself."
+        }
+      ],
+      "start_seconds": 49,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Clingan admits he felt a step behind early in the season. He says he was not aggressive enough on the boards and just was not himself, but he feels he has found his rhythm.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Donovan Clingan explains his personal adjustments after being dissatisfied with his play in the first few games of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Donovan Clingan",
+      "speakers": [
+        "Donovan Clingan",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:05",
+      "summary_phrase": "Donovan Clingan on team execution against the Phoenix Suns",
+      "names_mentioned": [],
+      "excerpt": "I feel like it's just the game plan. We all work together, we all stick together",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You had some pretty big games against these guys. What do you think is key to your success against Phoenix?"
+        },
+        {
+          "speaker": "Donovan Clingan",
+          "text": "I feel like it's just the game plan. We all work together, we all stick together. Teammates find me when I'm open and I find my teammates when they're open. It's just a team game, we're all playing together and it's really going well out there."
+        }
+      ],
+      "start_seconds": 65,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Donovan Clingan credits the team game plan and unselfish play for the success against Phoenix. He says it is all about sticking together and finding open teammates.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Donovan Clingan describes the importance of team execution and game planning in the victory against the Phoenix Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Clingan",
+      "speakers": [
+        "Donovan Clingan",
+        "Unidentified speaker"
+      ],
+      "timestamp": "01:29",
+      "summary_phrase": "Donovan Clingan on the challenges posed by the Phoenix Suns",
+      "names_mentioned": [],
+      "excerpt": "shooting, transition, they're an offensive class. They're a good team. They got a lot of talent",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What were some of the challenges you faced when you were facing them?"
+        },
+        {
+          "speaker": "Donovan Clingan",
+          "text": "Shooting, transition, they're an offensive class. They're a good team. They got a lot of talent and it was a tough game out there."
+        }
+      ],
+      "start_seconds": 89,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Donovan Clingan on the challenge of facing the Suns: They are an offensive class with a lot of talent, making it a tough game out there.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Donovan Clingan discusses the offensive challenges posed by the Phoenix Suns during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "CUyusQTYwNs",
+  "url": "https://www.youtube.com/watch?v=CUyusQTYwNs",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-05T05:52:33Z",
+  "duration_seconds": 106,
+  "processed_at": "2026-11-05T21:05:25Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

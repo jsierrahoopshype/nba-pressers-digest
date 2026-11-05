@@ -1,0 +1,192 @@
+{
+  "video_title": "Constantly competing 💪 KRich checks in with Nick Gallo postgame 🤝 #okcthunder #nba",
+  "speakers_seen": [
+    "Nick Gallo",
+    "Kenrich Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Gallo",
+      "speakers": [
+        "Nick Gallo",
+        "Kenrich Williams"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Kenrich Williams on the Thunder's early execution and rhythm",
+      "names_mentioned": [
+        "Kenrich Williams"
+      ],
+      "excerpt": "You guys got in rhythm right away. How was it you were able to do that here tonight?",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "Matt, you just mentioned throwing an early punch. Kenrich was right in the middle of that. You guys got in rhythm right away. How was it you were able to do that here tonight?"
+        },
+        {
+          "speaker": "Kenrich Williams",
+          "text": "Just playing together, competing from the jump, and just trusting the game plan."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Kenrich Williams credits the Thunder's early success to playing together and competing from the jump. He says the key is simply trusting the game plan.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams explains to Nick Gallo how the Thunder were able to establish an early rhythm in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Gallo",
+      "speakers": [
+        "Nick Gallo",
+        "Kenrich Williams"
+      ],
+      "timestamp": "00:16",
+      "summary_phrase": "Kenrich Williams on the development of the Thunder's young roster",
+      "names_mentioned": [],
+      "excerpt": "How have you gotten these guys up to speed on the fundamentals so early?",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "You got so many young guys out there right now, and it seems like they're executing on the fundamentals—the box outs, calling out coverages, doing all the little things. How have you gotten these guys up to speed on the fundamentals so early?"
+        },
+        {
+          "speaker": "Kenrich Williams",
+          "text": "They're good. They have experience and they have high IQ, so it's easy for them to feel right in and just come in and execute the game plan. As long as you're playing hard and just giving it your all, that's all that matters."
+        }
+      ],
+      "start_seconds": 16,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenrich Williams says the Thunder's young roster has high IQ and experience, making it easy for them to execute fundamentals like box outs and defensive coverages.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenrich Williams discusses how the young players on the Thunder roster have adapted to the team's fundamentals and game plan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Gallo",
+      "speakers": [
+        "Nick Gallo",
+        "Kenrich Williams"
+      ],
+      "timestamp": "00:45",
+      "summary_phrase": "Kenrich Williams on the team's leadership and Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "I know Shai is somebody who's going to show up every night",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "You're taking on those plan A matchups right now. Shai seems to just be letting the game tell him what to do. How are you guys trying to lead this team right now as the longest-tenured guys here?"
+        },
+        {
+          "speaker": "Kenrich Williams",
+          "text": "Just trying to compete. Go out there and fall in love with competing. That's what this game is about. We love to hoop. I know Shai is somebody who's going to show up every night, so everybody else has to follow along as well."
+        }
+      ],
+      "start_seconds": 45,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenrich Williams on the Thunder's leadership approach: You have to go out there and fall in love with competing. He notes that Shai Gilgeous-Alexander shows up every night and the rest of the team follows his lead.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenrich Williams discusses his role as a veteran leader and praises the consistency of teammate Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Gallo",
+      "speakers": [
+        "Nick Gallo",
+        "Kenrich Williams"
+      ],
+      "timestamp": "01:10",
+      "summary_phrase": "Kenrich Williams on the challenge of winning a mini-series",
+      "names_mentioned": [
+        "Donovan Mitchell",
+        "James Harden"
+      ],
+      "excerpt": "They got some really good guards over here with Donovan Mitchell and James Harden",
+      "text_blocks": [
+        {
+          "speaker": "Nick Gallo",
+          "text": "What does it take and how much of a challenge is it to win a mini-series like this in 48 hours?"
+        },
+        {
+          "speaker": "Kenrich Williams",
+          "text": "It's tough. They got some really good guards over here with Donovan Mitchell and James Harden, so it's tough. But the coach set us up with a good game plan and we execute."
+        }
+      ],
+      "start_seconds": 70,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenrich Williams calls winning a mini-series tough, specifically noting the challenge of defending high-level guards like Donovan Mitchell and James Harden.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell",
+          "James Harden"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams discusses the difficulty of playing a mini-series against opponents like Donovan Mitchell and James Harden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "2_DhS5tSR58",
+  "url": "https://www.youtube.com/watch?v=2_DhS5tSR58",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-05T03:55:11Z",
+  "duration_seconds": 91,
+  "processed_at": "2026-11-05T21:06:25Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

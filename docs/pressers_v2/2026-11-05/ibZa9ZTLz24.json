@@ -1,0 +1,328 @@
+{
+  "video_title": "Derik Queen | Pelicans vs. Jazz Postgame Interview 11/4/26",
+  "speakers_seen": [
+    "Derik Queen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Derik Queen",
+      "timestamp": "00:08",
+      "summary_phrase": "Derik Queen on his second-half performance against the Jazz",
+      "names_mentioned": [],
+      "excerpt": "I told the coach that I got a small on me and then we ran the play and I scored.",
+      "quote": "First I had a small on me and I just asked for it. I told the coach that I got a small on me and then we ran the play and I scored. And then it just kept going with it, but I probably shouldn't have. I went 8 for 21. It's not that good.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen on his 8 for 21 shooting night against the Jazz: I probably shouldn't have kept shooting. It is not that good.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Derik Queen discusses his individual performance and shot selection during the game against the Utah Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Derik Queen",
+      "timestamp": "00:26",
+      "summary_phrase": "Derik Queen on the team's resilience in overtime games",
+      "names_mentioned": [],
+      "excerpt": "Just got a lot of fight. Just can't keep putting ourselves in those positions.",
+      "quote": "Just got a lot of fight. Just can't keep putting ourselves in those positions. But we just can't keep putting ourselves in these positions. Just close out better, defend, and just keep trusting each other.",
+      "verbatim_original_language": "",
+      "start_seconds": 26,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen says the Pelicans need to stop putting themselves in overtime positions: We just cannot keep putting ourselves in these positions. Just close out better, defend, and just keep trusting each other.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Derik Queen reflects on the team's resilience and the need to improve closing out games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Derik Queen",
+      "timestamp": "00:49",
+      "summary_phrase": "Derik Queen on his playmaking and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "I just catch the ball at the top and just look at my teammates' cuts.",
+      "quote": "I just catch the ball at the top and just look at my teammates' cuts, set screens for each other and just me trying to make the right plays.",
+      "verbatim_original_language": "",
+      "start_seconds": 49,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Derik Queen on his playmaking approach: I just catch the ball at the top and just look at my teammates' cuts, set screens for each other and just me trying to make the right plays.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen describes his playmaking approach and how he looks to facilitate for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Derik Queen",
+      "timestamp": "01:14",
+      "summary_phrase": "Derik Queen on his chemistry with teammate Vanni",
+      "names_mentioned": [
+        "Vanni"
+      ],
+      "excerpt": "It's really like a chemistry thing. Me and him just always hanging with each other off the court.",
+      "quote": "It's really like a chemistry thing. I don't think we played with each other much in training camp and stuff, but me and him just always hanging with each other off the court and just us talking basketball. And finally when we both got the opportunity to play with each other, it clicked immediately.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen on his instant chemistry with Vanni: We did not play with each other much in training camp, but we always hanging with each other off the court. When we got the opportunity to play, it clicked immediately.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Vanni"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen explains the natural on-court chemistry he developed with teammate Vanni.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Derik Queen",
+      "timestamp": "01:38",
+      "summary_phrase": "Derik Queen on teammate Siddiq's performance in overtime",
+      "names_mentioned": [
+        "Siddiq",
+        "Z"
+      ],
+      "excerpt": "The ball should either go to him or Z every play. First, second, third, fourth, fifth.",
+      "quote": "Siddiq nice, y'all. I don't know. He just me personally, the ball should either go to him or Z every play. First, second, third, fourth, fifth. Ball should go to them every play.",
+      "verbatim_original_language": "",
+      "start_seconds": 98,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Derik Queen believes the Pelicans offense should run through Siddiq and Zion every single possession: The ball should either go to him or Z every play. First, second, third, fourth, fifth.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Siddiq",
+          "Z"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen praises teammate Siddiq and suggests he and Z should be the primary options on offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Derik Queen",
+      "timestamp": "02:06",
+      "summary_phrase": "Derik Queen on Siddiq's quiet demeanor in the locker room",
+      "names_mentioned": [
+        "Siddiq"
+      ],
+      "excerpt": "Siddiq is quiet. And the only time something is actually funny is when Siddiq laugh.",
+      "quote": "Siddiq is quiet. And the only time something is actually funny is when Siddiq laugh. He don't like make no facial expressions like he don't do nothing. He don't smirk. He come in, say what's up to everybody. He don't dap nobody up individually. In the locker room he don't say nothing. But when it's time to go on the court, he be doing push-ups.",
+      "verbatim_original_language": "",
+      "start_seconds": 126,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Derik Queen describes Siddiq's intense pregame routine: He does not say nothing in the locker room. But when it is time to go on the court, he be doing push-ups.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Siddiq"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen shares observations about Siddiq's quiet personality and pre-game routine in the locker room.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Derik Queen",
+      "timestamp": "02:40",
+      "summary_phrase": "Derik Queen on Julian Reese's role on the team",
+      "names_mentioned": [
+        "Julian Reese"
+      ],
+      "excerpt": "Me and him grew up with each other so he better support me.",
+      "quote": "Me and him grew up with each other so he better support me. But yeah, it's just like a chemistry thing. I feel like we all like each other. I mean, of course some people may be closer to whoever, whatever the case may be, but we all cool and we just all happy for each other.",
+      "verbatim_original_language": "",
+      "start_seconds": 160,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Derik Queen on the team's locker room dynamic: I feel like we all like each other. Of course some people may be closer to whoever, but we all cool and we just all happy for each other.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Julian Reese"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derik Queen discusses his long-standing relationship with Julian Reese and the overall team chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Derik Queen",
+      "timestamp": "03:16",
+      "summary_phrase": "Derik Queen on the team's morale and building momentum",
+      "names_mentioned": [],
+      "excerpt": "Just got to keep building. Of course we happy right now.",
+      "quote": "Just got to keep building. Of course we happy right now. One of the messages before the game was to get back to 500. Well, we wasn't ever 500, but get to 500. So we did that and stuff. But yeah, I just feel like we just going to keep building. We all trust each other.",
+      "verbatim_original_language": "",
+      "start_seconds": 196,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Derik Queen on the Pelicans reaching .500: One of the messages before the game was to get back to .500. We did that. I just feel like we just going to keep building.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Derik Queen talks about the team's goal of reaching a .500 record and the importance of continued growth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Derik Queen",
+      "timestamp": "04:04",
+      "summary_phrase": "Derik Queen on Zion Williamson's defensive improvement",
+      "names_mentioned": [
+        "Zion",
+        "Keyonte"
+      ],
+      "excerpt": "The coaches just keep being on his back just keep telling him like go out there and get a stop.",
+      "quote": "I feel like he was capable of it, but just the coaches just keep being on his back just keep telling him like go out there and get a stop, just go out there and be our best player. But yeah, I mean he definitely stepped up and did it.",
+      "verbatim_original_language": "",
+      "start_seconds": 244,
+      "end_seconds": 263,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Derik Queen on Zion Williamson's defensive effort: I feel like he was capable of it, but the coaches just keep being on his back. He definitely stepped up and did it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Derik Queen credits the coaching staff for pushing Zion Williamson to improve his defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Derik Queen",
+      "timestamp": "04:35",
+      "summary_phrase": "Derik Queen on the team's growth compared to last season",
+      "names_mentioned": [],
+      "excerpt": "We just getting closer and closer every day.",
+      "quote": "I know we ain't OKC, but they pretty much had the same team when they won the championship then the next year after that. But I mean it's just a chemistry thing. Like we just getting closer and closer every day. Maybe some changes when trade deadline come, maybe not. But I feel like that's a advantage because we've been playing with each other for two years and stuff. So kind of already know and just we just don't want to go back to last year.",
+      "verbatim_original_language": "",
+      "start_seconds": 275,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Derik Queen on the Pelicans' chemistry: We have been playing with each other for two years. We just do not want to go back to last year.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Derik Queen discusses team continuity and the potential for roster changes as the trade deadline approaches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ibZa9ZTLz24",
+  "url": "https://www.youtube.com/watch?v=ibZa9ZTLz24",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-05T05:38:59Z",
+  "duration_seconds": 328,
+  "processed_at": "2026-11-05T21:05:33Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

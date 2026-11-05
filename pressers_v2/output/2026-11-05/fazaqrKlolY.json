@@ -1,0 +1,221 @@
+{
+  "video_title": "Postgame Interview (11/04/26) | LA Clippers",
+  "speakers_seen": [
+    "Rui Hachimura",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rui Hachimura",
+      "timestamp": "00:19",
+      "summary_phrase": "Rui Hachimura on Giannis Antetokounmpo's game-saving block in overtime",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "I thought I had it, but he recovered quick, so it was a hard one.",
+      "quote": "They said it was a clean block, so I thought I had it. I made a strong play, but he recovered quick, so it was a hard one.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rui Hachimura on the game-saving block by Giannis Antetokounmpo: They said it was a clean block, so I thought I had it. I made a strong play, but he recovered quick, so it was a hard one.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "LAC",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Rui Hachimura discusses the game-saving block he faced from Giannis Antetokounmpo during overtime.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rui Hachimura",
+      "timestamp": "00:39",
+      "summary_phrase": "Rui Hachimura on the team's aggressive fast-break transition strategy",
+      "names_mentioned": [],
+      "excerpt": "We are trying to be aggressive, especially in fast break when they have no set defense.",
+      "quote": "We are trying to be aggressive, especially in fast break when they have no set defense. They don't really get back on defense, so that's what we are trying to attack. That's what we did a good job today. We are sharing the ball, passing to each other, so it was more natural to me.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rui Hachimura says the Clippers are focusing on aggressive transition play: We are trying to be aggressive, especially in fast break when they have no set defense. They do not really get back on defense, so that is what we are trying to attack.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Rui Hachimura explains the team's strategy of pushing the pace in transition to exploit the opponent's defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rui Hachimura",
+      "timestamp": "01:12",
+      "summary_phrase": "Rui Hachimura on the team's need to maintain consistency",
+      "names_mentioned": [],
+      "excerpt": "We have to keep doing what we are supposed to do.",
+      "quote": "We have to keep doing what we are supposed to do. We were up by 20 or something in the first half, and coming out in the second half, we couldn't hold them. They came back, and from there it was a tough game for us. We had a lot of chances, but we couldn't finish it.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rui Hachimura on the Clippers blowing a 20-point lead: We were up by 20 or something in the first half, and coming out in the second half, we could not hold them. We had a lot of chances, but we could not finish it.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Rui Hachimura reflects on the team's inability to maintain a large lead and finish the game against their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Unidentified speaker",
+      "timestamp": "02:56",
+      "summary_phrase": "Unidentified speaker on the team's turnover issues and late-game pressure",
+      "names_mentioned": [],
+      "excerpt": "We collectively let the pressure get to us. We've made a lot of turnovers.",
+      "quote": "We've been great for pretty much 42 minutes, something like that, two games now. And then we collectively let the pressure get to us. We've made a lot of turnovers, and it's led to a lot of easy baskets for the teams, and we obviously have to be better.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 195,
+      "speaker_confidence": "inferred",
+      "news_score": 7,
+      "social_post": "On the team's late-game struggles: We have been great for pretty much 42 minutes, and then we collectively let the pressure get to us. We have made a lot of turnovers, and it has led to a lot of easy baskets for the teams.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "An unidentified player discusses the team's struggle with turnovers and handling late-game pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Unidentified speaker",
+      "timestamp": "03:29",
+      "summary_phrase": "Unidentified speaker on his role and the team's need for wins",
+      "names_mentioned": [],
+      "excerpt": "Whatever my team needs me to do, I'm going to do it to the best of my ability.",
+      "quote": "Whatever my team needs me to do, I'm going to do it to the best of my ability. Obviously, the important thing is finding ways to finish these games. I feel like we've gotten a lot better, we're continuing to improve. We just need to start getting some wins and stringing them together, one game at a time.",
+      "text_blocks": [],
+      "start_seconds": 209,
+      "end_seconds": 231,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_post": "On the team's need to close out games: Whatever my team needs me to do, I am going to do it to the best of my ability. The important thing is finding ways to finish these games. We just need to start getting some wins.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "An unidentified player speaks about his commitment to his role and the team's urgent need to start winning games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Unidentified speaker",
+      "timestamp": "04:40",
+      "summary_phrase": "Unidentified speaker on the development of his relationship with Keyonte George",
+      "names_mentioned": [
+        "Keyonte George"
+      ],
+      "excerpt": "He's such a talented, intelligent player, and he's shown what he's capable of in multiple games.",
+      "quote": "He's such a talented, intelligent player, and he's shown what he's capable of in multiple games already in this young season. He has room to continue to grow, and he's receptive to those moments. He's always willing to learn, and as a point guard, it's great for me to see that he's like that. That's so important, especially in the pick-and-roll, guarding the pick-and-roll, and all those situations. Having that relationship, that connectivity, it's crucial.",
+      "text_blocks": [],
+      "start_seconds": 280,
+      "end_seconds": 309,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "On the development of Keyonte George: He is such a talented, intelligent player. He is always willing to learn, and as a point guard, it is great for me to see that he is like that. That connectivity is crucial.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keyonte George"
+        ],
+        "teams": [
+          "LAC",
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "An unidentified player praises the growth and basketball intelligence of his teammate Keyonte George.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Unidentified speaker",
+      "timestamp": "05:30",
+      "summary_phrase": "Unidentified speaker on the team's need to improve interior presence",
+      "names_mentioned": [],
+      "excerpt": "Collectively as a unit, we have to do a better job just getting opportunities.",
+      "quote": "Collectively as a unit, we have to do a better job just getting opportunities. Be that me running the floor, or finding ways to take care of the ball and just get good looks. All season, it's been about turnovers. Earlier, it was a lot more of the entire game; now it's more towards the end. So we are improving, we are progressing, but we just need to continue to cut down on those turnovers and just get good looks at the rim.",
+      "text_blocks": [],
+      "start_seconds": 330,
+      "end_seconds": 362,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_post": "On the team's ongoing turnover issues: All season, it has been about turnovers. Earlier, it was a lot more of the entire game; now it is more towards the end. We are progressing, but we need to continue to cut down on those turnovers.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "An unidentified player addresses the team's ongoing need to reduce turnovers and improve shot selection.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "fazaqrKlolY",
+  "url": "https://www.youtube.com/watch?v=fazaqrKlolY",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-05T20:55:13Z",
+  "duration_seconds": 414,
+  "processed_at": "2026-11-05T21:04:27Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

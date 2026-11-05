@@ -1,0 +1,131 @@
+{
+  "video_title": "\"We Wanted To Come In Tonight And Prove We Can Compete.\" | Ayo Dosunmu Postgame Sound | 11.4.26",
+  "speakers_seen": [
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "00:08",
+      "summary_phrase": "Ayo Dosunmu on the importance of competing every game",
+      "names_mentioned": [],
+      "excerpt": "I understand that every game is very important for us and the aspirations and goals that we have.",
+      "quote": "I just try to give my all for real. That's just what I'm trying to do. I understand that every game is very important for us and the aspirations and goals that we have. We understand that each game is going to be important, so we wanted to go out there and compete and give ourselves a chance to win and take it from there.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ayo Dosunmu on the team mindset after the win: I just try to give my all for real. I understand that every game is very important for us and the aspirations and goals that we have.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the team's mindset regarding the importance of competing in every game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "00:29",
+      "summary_phrase": "Ayo Dosunmu on the difficulty of the Western Conference",
+      "names_mentioned": [],
+      "excerpt": "Western Conference is very tough, top to bottom, very elite teams.",
+      "quote": "Western Conference is very tough, top to bottom, very elite teams. Each and every time that we can get a win, it's very important. I guarantee you that towards the end of the year, the seeding is going to be close and you're going to look back at it between the tiebreaker and we could have got this win or that win. So, this was very important for us knowing that Houston has a chance to compete for a title and also make the playoffs, so we understand how big this game is.",
+      "text_blocks": [],
+      "start_seconds": 29,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ayo Dosunmu knows the Western Conference race will be tight: I guarantee you that towards the end of the year, the seeding is going to be close and you are going to look back at it between the tiebreaker.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu reflects on the competitiveness of the Western Conference and the significance of the win against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "01:13",
+      "summary_phrase": "Ayo Dosunmu on team bonding and chemistry",
+      "names_mentioned": [],
+      "excerpt": "The bonding of the team is that's how you go out there and the camaraderie.",
+      "quote": "The bonding of the team is that's how you go out there and the camaraderie. Building a relationship, getting to know each other outside of basketball, hanging around each other, I think that goes a long way for us to go out there and compete as a team. Dinner was great, we had a great dinner, a great vibe, and it really showed tonight.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ayo Dosunmu credits team chemistry for the recent performance: Building a relationship, getting to know each other outside of basketball, hanging around each other, I think that goes a long way for us to go out there and compete as a team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu explains how team bonding and building relationships off the court contribute to their performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "01:33",
+      "summary_phrase": "Ayo Dosunmu on maintaining momentum for the road trip",
+      "names_mentioned": [],
+      "excerpt": "Just having the next game mentality, understand this was a great win and a huge win.",
+      "quote": "Just having the next game mentality, understand this was a great win and a huge win. But at the same time, now we are on to the next one. That's the NBA. So, enjoy this win, get some good dinner, get some good night's rest, and then just get ready for the next game. You know, New Orleans, they've been playing some good basketball. That's also a cup game, so we want to go this road trip 2-0 and then we go home. We got a long stretch at home, so it's all about taking care of the next one.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ayo Dosunmu is already focused on the next challenge: Just having the next game mentality, understand this was a great win and a huge win. But at the same time, now we are on to the next one.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses maintaining a next game mentality as the team prepares for their upcoming road game against New Orleans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "adCrcn6k30E",
+  "url": "https://www.youtube.com/watch?v=adCrcn6k30E",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-05T06:11:16Z",
+  "duration_seconds": 125,
+  "processed_at": "2026-11-05T21:05:02Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,238 @@
+{
+  "video_title": "Postgame Media Availability with Coach Daigneault | OKC Thunder | November 4, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:31",
+      "summary_phrase": "Mark Daigneault on the benefits of the double-big lineup",
+      "names_mentioned": [
+        "Allen"
+      ],
+      "excerpt": "I was encouraged by the double-big lineup. It gives us another option.",
+      "quote": "I was encouraged by the double-big lineup. That was a mess in the preseason when we tried it, and we have tightened the screws on it a little bit and it gives us another option. Allen went out, so the need to go to it throughout the game wasn't there, but that was another encouraging data point.",
+      "text_blocks": [],
+      "start_seconds": 31,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mark Daigneault says the Thunder double-big lineup looked much better than it did in the preseason. He noted they have tightened the screws on the look and it gives the team another viable option moving forward.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault discusses the effectiveness of the double-big lineup during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:10",
+      "summary_phrase": "Mark Daigneault on team commitment to fundamental development",
+      "names_mentioned": [],
+      "excerpt": "It takes incredible work and commitment for them to do that.",
+      "quote": "It takes incredible work and commitment for them to do that. We just try to direct their attention onto the things that help the team win. We prioritize fundamentals with everybody from our veteran guys to the new guys, and if you are fundamentally sound, you can go in the game. That is where we start with them, and to their credit, they are competitors and they are team guys and they are committed to those things.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault credits the Thunder roster for their commitment to fundamentals. He says the team prioritizes those basics for everyone from veterans to new players to ensure they can contribute to winning.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault explains the team's commitment to fundamental development for all players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:24",
+      "summary_phrase": "Mark Daigneault on the development of Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Mitchell",
+        "McCain"
+      ],
+      "excerpt": "He is learning how to move aggressively off the ball, the way McCain does.",
+      "quote": "He is learning how to move aggressively off the ball, the way McCain does. Those guys that shoot with that gravity, they can really hunt shots and with the attention that our guards draw, specifically Shai Gilgeous-Alexander, but Mitchell as well, the defense collapses on those guys and they get lost on those players and you can get cracks on the perimeter on this team.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault is seeing growth in how his players move off the ball. He noted that Shai Gilgeous-Alexander and others are drawing enough defensive attention to create open looks for teammates on the perimeter.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mark Daigneault describes how Shai Gilgeous-Alexander draws defensive attention and creates opportunities for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "05:04",
+      "summary_phrase": "Mark Daigneault on the growth of Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Jared"
+      ],
+      "excerpt": "The really, really good players learn that there is going to be ups and downs.",
+      "quote": "The really, really good players learn that there is going to be ups and downs in a 48-minute game. There is going to be ups and downs in a season, and you just continue to bet on your work, you continue to bet on your game, you continue to bet on your talent. Even Jared working through the shooting thing, I liked the shots he took tonight. He didn't force, but he didn't hide. You just have to keep betting on it and let your talent rise to the surface.",
+      "text_blocks": [],
+      "start_seconds": 304,
+      "end_seconds": 339,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault on the mindset of his stars: The really good players learn that there are going to be ups and downs in a game and a season, and you just continue to bet on your work and your talent.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the mental growth and resilience of Shai Gilgeous-Alexander during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Daigneault",
+      "timestamp": "07:06",
+      "summary_phrase": "Mark Daigneault on the development of young players",
+      "names_mentioned": [
+        "Josh Giddey"
+      ],
+      "excerpt": "An emphasis on fundamentals and those guys compete and they play inside the team.",
+      "quote": "An emphasis on fundamentals and those guys compete and they play inside the team, and then their fundamentals are improving right now. It allows them to exist out there on the floor and get positive stuff into the game. Those guys have done an unbelievable job dating back to before training camp and when our team was whole. Those guys did a lot of invisible work to get themselves caught up to speed with a high-functioning team.",
+      "text_blocks": [],
+      "start_seconds": 426,
+      "end_seconds": 456,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mark Daigneault praised the invisible work put in by the younger players on the roster to get up to speed with the team system before training camp even began.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault praises the young players for their work ethic and improvement in fundamentals.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mark Daigneault",
+      "timestamp": "08:00",
+      "summary_phrase": "Mark Daigneault on the unique role of Chet Holmgren",
+      "names_mentioned": [
+        "Chet Holmgren",
+        "Mitchell"
+      ],
+      "excerpt": "He is huge and he has got great hands and he has got great ball control.",
+      "quote": "He is huge and he has got great hands and he has got great ball control up there. You can throw it up to him. I think we have learned that. I think defensively we have learned how to play with him a little bit because he is just a really unique player. The guys are learning how to empower him and he is learning. These were tough covers. He is up in coverage tonight on Mitchell and for a guy that moves, the guy is 7'3\", that is tough to do.",
+      "text_blocks": [],
+      "start_seconds": 480,
+      "end_seconds": 515,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Mark Daigneault on Chet Holmgren: He is a really unique player. The coach highlighted Holmgren's ability to handle tough defensive assignments like Mitchell while utilizing his 7'3 frame on the other end.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault explains the unique defensive and offensive role of Chet Holmgren.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Mark Daigneault",
+      "timestamp": "10:17",
+      "summary_phrase": "Mark Daigneault on the organizational culture of the Thunder",
+      "names_mentioned": [
+        "Sam Presti",
+        "Clay Bennett",
+        "Michael"
+      ],
+      "excerpt": "It is a pretty holistic program. There is a lot of people that touch that.",
+      "quote": "It is a pretty holistic program. There is a lot of people that touch that directly and indirectly. Sam and his group do a great job of identifying people that are going to align and identify with the things that we emphasize. It starts with Clay with the resourcing and then Sam with his vision and the operation that he has built, and then a lot of really talented people that will just do anything for our players. Michael is a great example.",
+      "text_blocks": [],
+      "start_seconds": 617,
+      "end_seconds": 649,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mark Daigneault describes the Thunder as a holistic program, crediting Sam Presti and the front office for identifying players who align with the team culture and emphasis on development.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the organizational culture and the roles of Sam Presti and Clay Bennett.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "47VMxsvZR0I",
+  "url": "https://www.youtube.com/watch?v=47VMxsvZR0I",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-05T05:14:12Z",
+  "duration_seconds": 665,
+  "processed_at": "2026-11-05T21:06:03Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

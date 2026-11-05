@@ -1,0 +1,356 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. TOR 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Nikola Jokic",
+    "Cam Johnson",
+    "Tyus Jones"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:00",
+      "summary_phrase": "Coach Adelman on managing Jamal Murray and Aaron Gordon's minutes",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Aaron Gordon"
+      ],
+      "excerpt": "This is a team, and the team has to help each other out with the minutes.",
+      "quote": "To accomplish that, other people have to play well. I thought the second unit was great. The best thing about it was the continuation of the momentum of the guys that came in. There wasn't really a step back, they just kept coming. The activity remained the same. This is a team, and the team has to help each other out with the minutes. It's not just me just guessing if we can win a game. Jamal plays 28, 29, so it came at the right time. Jamal's played a lot. Obviously, Aaron, we'd like to keep him at a threshold, but I was proud of the energy in the second half.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman on managing Jamal Murray and Aaron Gordon minutes: It is not just me guessing if we can win a game. Jamal plays 28, 29, so it came at the right time. Jamal has played a lot.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Aaron Gordon"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses his strategy for managing the minutes of Jamal Murray and Aaron Gordon during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:06",
+      "summary_phrase": "Coach Adelman on Christian Braun's development and earned trust",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "The nights that Christian Braun has not played, there's been no lack of trust.",
+      "quote": "The nights that Christian Braun has not played, there's been no lack of trust. He's earned this in the preseason, but it's just the steadiness every day. That's in player development, that's when he watches film with his coach, the guys that we assign to these players. That's the feeling you get from a player every day. When somebody is a consistent person on top of the fact that they know who they are and they're on the court, that goes a long way where I don't really skip a beat. Jamal's out, okay, let's, it's Christian, let's give him a chance.",
+      "verbatim_original_language": "",
+      "start_seconds": 66,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Adelman on Christian Braun: The nights that Christian Braun has not played, there has been no lack of trust. He has earned this in the preseason, but it is just the steadiness every day.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman explains how Christian Braun has earned his trust through consistent development and preparation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:10",
+      "summary_phrase": "Coach Adelman compares Christian Braun's playstyle to a running back",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "He looks for contact, doesn't dance, just goes straight ahead.",
+      "quote": "He reminds me of a north-south running back. He looks for contact, doesn't dance, just goes straight ahead. It's like knowing your own game. He made the first three to start, which I think loosened him up a little bit. My favorite play from Christian the whole night, the outlet pass, he dropped. A lot of times, you finally get to play, you make a three, you're feeling momentum, then you drop the ball out of bounds. I didn't see a reaction to that. He just kept playing.",
+      "verbatim_original_language": "",
+      "start_seconds": 130,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Coach Adelman on Christian Braun: He reminds me of a north-south running back. He looks for contact, does not dance, just goes straight ahead.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman describes Christian Braun's aggressive playstyle by comparing him to a north-south running back.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nikola Jokic",
+      "timestamp": "08:33",
+      "summary_phrase": "Nikola Jokic on his aggressive start to the game",
+      "names_mentioned": [],
+      "excerpt": "I never played the game in future, I always play in the present.",
+      "quote": "It just happened, you know, I didn't mean to do, I mean, it just happens for me, you know. I never played the game in future, I always play in the present, and if something happens, I'm going to try to take advantage or if I have, if I'm open, I'm going to try to shoot it, and it was a good night for me.",
+      "verbatim_original_language": "",
+      "start_seconds": 513,
+      "end_seconds": 538,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Nikola Jokic on his aggressive start: I never played the game in future, I always play in the present, and if something happens, I am going to try to take advantage.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reflects on his aggressive scoring performance during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nikola Jokic",
+      "timestamp": "11:57",
+      "summary_phrase": "Nikola Jokic on the lack of size advantage in today's NBA",
+      "names_mentioned": [],
+      "excerpt": "In today's NBA, I think there is no size advantage.",
+      "quote": "In today's NBA, I think there is no size advantage just because in the low post, I think we have a lot of defenders or player on the post and defensive side can do much more, pushing, grabbing, whatever, than if you're playing outside. I think that's why players are not willing to play in the low post anymore, you know, it's just because you're going to get a foul and it's never going to get called and you're getting tired after possession. I think that's why the low post is kind of in the hand zone, like I think probably next 5-10 years, low post is not going to even be up there, so that's why the people are trying to put smaller.",
+      "verbatim_original_language": "",
+      "start_seconds": 717,
+      "end_seconds": 765,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Nikola Jokic on the state of the low post: I think probably next 5-10 years, low post is not going to even be up there, so that is why the people are trying to put smaller.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic shares his perspective on why the low post position is becoming less common in the modern NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Cam Johnson",
+      "timestamp": "16:45",
+      "summary_phrase": "Cam Johnson on the team's emphasis on rebounding",
+      "names_mentioned": [],
+      "excerpt": "It was big for us because they're a good offensive rebounding team.",
+      "quote": "It was big for us because they're a good offensive rebounding team, and setting the tone from that, we did a good job today.",
+      "verbatim_original_language": "",
+      "start_seconds": 1005,
+      "end_seconds": 1014,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Cam Johnson on the team rebounding: It was big for us because they are a good offensive rebounding team, and setting the tone from that, we did a good job today.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Cam Johnson discusses the importance of the team's rebounding effort against the Toronto Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Cam Johnson",
+      "timestamp": "17:12",
+      "summary_phrase": "Cam Johnson on his late scratch from the previous game",
+      "names_mentioned": [
+        "DA"
+      ],
+      "excerpt": "I figured it was a cramp, but it hit me just to take up.",
+      "quote": "I figured it was a cramp, but it hit me just to take up. That's why I didn't, you know, I just kind of stood on the sideline the rest of the game. But you just want to make sure in those situations, you know, hamstrings, they get a little tricky sometimes, and I'm fine. I figured I'd be fine and just, you know, didn't want to speak on it at the time because, you know, I didn't want to jinx anything.",
+      "verbatim_original_language": "",
+      "start_seconds": 1032,
+      "end_seconds": 1064,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Cam Johnson on his recent injury scare: I figured it was a cramp, but it hit me just to take up. You want to make sure in those situations, hamstrings, they get a little tricky sometimes, and I am fine.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Cam Johnson provides an update on his health following a late scratch in the previous game due to a hamstring issue.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Cam Johnson",
+      "timestamp": "18:17",
+      "summary_phrase": "Cam Johnson on the team's depth with Christian Braun and Julian Strawther",
+      "names_mentioned": [
+        "Christian Braun",
+        "Julian Strawther"
+      ],
+      "excerpt": "Very lucky. Older rookies ready to play off rip.",
+      "quote": "Very lucky. Older rookies ready to play off rip. Played high-level basketball for a long time now and, you know, just coming in and doing their thing. So, you know, they did a great job. TB's doing a great job, Bryce stepped in and did a great job today. But they bring a spark, they bring energy. You know, TB's like a little bit of a rim presence at offensively and defensively, which is huge for us, and Bryce is super active, too.",
+      "verbatim_original_language": "",
+      "start_seconds": 1097,
+      "end_seconds": 1129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Cam Johnson on the Nuggets depth: Very lucky. Older rookies ready to play off rip. Played high-level basketball for a long time now and just coming in and doing their thing.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Christian Braun",
+          "Julian Strawther"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Johnson praises the energy and contributions of younger teammates like Christian Braun and Julian Strawther.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tyus Jones",
+      "timestamp": "27:57",
+      "summary_phrase": "Tyus Jones on his role as a point guard with the second unit",
+      "names_mentioned": [
+        "Demar"
+      ],
+      "excerpt": "Just communicating, being ready to go individually, making sure our unit is ready to go.",
+      "quote": "Just communicating, being ready to go individually, making sure our unit is ready to go. Bryce stepped up, he was ready to play, but yeah, with a couple of rookies out there, just making sure we're over-communicating on the same page and just trying to bring some energy to the game when we get in there.",
+      "verbatim_original_language": "",
+      "start_seconds": 1677,
+      "end_seconds": 1699,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tyus Jones on his role: Just communicating, being ready to go individually, making sure our unit is ready to go. With a couple of rookies out there, just making sure we are over-communicating.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Tyus Jones describes his leadership responsibilities as a point guard when playing with the second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Tyus Jones",
+      "timestamp": "28:32",
+      "summary_phrase": "Tyus Jones on Christian Braun's confidence and impact",
+      "names_mentioned": [
+        "Bryce"
+      ],
+      "excerpt": "I think this is the confidence that he played with. He came in and made an impact.",
+      "quote": "I think this is the confidence that he played with. He came in and made an impact right away. He didn't wait or try to feel the game out, and that's just a testament to his work that he's been putting in, staying ready.",
+      "verbatim_original_language": "",
+      "start_seconds": 1712,
+      "end_seconds": 1729,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyus Jones on Christian Braun: He came in and made an impact right away. He did not wait or try to feel the game out, and that is just a testament to his work that he has been putting in.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyus Jones comments on the confidence and immediate impact Christian Braun brings to the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Tyus Jones",
+      "timestamp": "28:49",
+      "summary_phrase": "Tyus Jones on gauging his impact on the game",
+      "names_mentioned": [],
+      "excerpt": "First thing for me typically is plus-minus. I want our unit to be at least even.",
+      "quote": "First thing for me typically is plus-minus. I want our unit to be at least even. You know, that's something that I've learned early in my career, especially you know coming off the bench is you want to try as best as you can to be, you know, plus, if not even. You know, and obviously the game is up and downs, there's a game of runs, you can't control substitution patterns and things like that. So sometimes it's out of your control, but that's the first thing. Then for me, assist to turnover is huge, taking care of the ball. Our minutes are lower, so you got to be more efficient, you know, with with, you know, less less possession, less minutes.",
+      "verbatim_original_language": "",
+      "start_seconds": 1729,
+      "end_seconds": 1776,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tyus Jones on his metrics: First thing for me typically is plus-minus. I want our unit to be at least even. Then for me, assist to turnover is huge, taking care of the ball.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Tyus Jones explains the metrics he uses to evaluate his own performance as a reserve player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "CokXDvIWwnQ",
+  "url": "https://www.youtube.com/watch?v=CokXDvIWwnQ",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-05T06:25:48Z",
+  "duration_seconds": 2086,
+  "processed_at": "2026-11-05T21:05:06Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

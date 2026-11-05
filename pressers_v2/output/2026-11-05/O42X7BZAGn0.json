@@ -1,0 +1,147 @@
+{
+  "video_title": "Rick Carlisle and Braden Smith Postgame Media Availability | November 4, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Braden Smith"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:07",
+      "summary_phrase": "Rick Carlisle on the Pacers' need for greater intensity and collective will",
+      "names_mentioned": [],
+      "excerpt": "We have not been playing up to a consistent level of intensity, force, collective will.",
+      "quote": "We have had to do some soul searching headed into this game. We have not been playing up to a consistent level of intensity, force, collective will. The group that played in the Atlanta game gave us a spark and it was meaningful. Tonight we just drew a line in the sand and decided we were not going to go away.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Rick Carlisle says the Pacers did some soul searching after inconsistent play and finally drew a line in the sand tonight to find the intensity they were missing.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the team's need for improved intensity and collective effort following recent performances.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:54",
+      "summary_phrase": "Rick Carlisle praises Jerome's unique skill set and high-level play",
+      "names_mentioned": [
+        "Nee Smith",
+        "Larry Nance",
+        "Jerome"
+      ],
+      "excerpt": "He's a very unique player and he's playing at an extremely high level.",
+      "quote": "Nee Smith and Larry Nance were defending. What Jerome is doing right now from 35 feet away from the basket and all the awkward wrong-foot shots, he's a very unique player and he's playing at an extremely high level. We held him to 22 points and he's been averaging 28, and we won by four. There you go, there's the difference in the game.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Rick Carlisle on defending a unique player like Jerome who is hitting shots from 35 feet away and playing at an extremely high level.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "IND",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle praises the unique offensive skill set and high-level play of Ty Jerome after the Pacers' win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:35",
+      "summary_phrase": "Rick Carlisle highlights Walker's impactful fourth-quarter performance",
+      "names_mentioned": [
+        "Walker",
+        "Quinton Jackson",
+        "Brain Smith",
+        "Pascal"
+      ],
+      "excerpt": "Walker played a great fourth quarter. He came up with some rebounds in traffic.",
+      "quote": "Walker played a great fourth quarter. He came up with some rebounds in traffic. He was in the right place at the right time, had a big finish on the break, and did a lot of good things. Quinton Jackson played with a lot of courage out there. Brain Smith gave us good minutes again and gave us another playmaker. And then Pascal really helped us finish the game.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Rick Carlisle highlights the contributions of Walker and Quinton Jackson in the fourth quarter to help the Pacers close out the game.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jarace Walker",
+          "Quinton Jackson",
+          "Braden Smith",
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle highlights the impactful contributions of several players during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Braden Smith",
+      "timestamp": "04:50",
+      "summary_phrase": "Braden Smith on the importance of the Pacers' hard-fought win",
+      "names_mentioned": [],
+      "excerpt": "Being able to try to fight and figure out a way to finally pull one away.",
+      "quote": "Obviously we haven't gone or had a win in a while, so being able to try to fight and figure out a way to finally pull one away, I think it's huge. Going into an opposing team's building who are obviously a great team and had a great year so far, so for us to come in and respond in that way, it's what you want.",
+      "text_blocks": [],
+      "start_seconds": 290,
+      "end_seconds": 315,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Braden Smith says it is huge for the Pacers to finally pull out a win in a tough road environment after a difficult stretch of games.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Braden Smith reflects on the importance of the team securing a hard-fought road victory after a recent losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "O42X7BZAGn0",
+  "url": "https://www.youtube.com/watch?v=O42X7BZAGn0",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-05T04:36:04Z",
+  "duration_seconds": 351,
+  "processed_at": "2026-11-05T21:06:05Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

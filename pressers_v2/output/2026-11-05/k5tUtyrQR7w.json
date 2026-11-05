@@ -1,0 +1,108 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at Denver Nuggets | November 04, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:04",
+      "summary_phrase": "Darko Rajakovic on Toronto's third-quarter struggles against Denver",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "we missed four or five straight shots and on the other side they just score right after",
+      "quote": "Third quarter, we missed four or five straight shots and on the other side they just score right after, one position after the other. They had a great run over there. Jokic with his post-ups, they came with a different mindset in the second half. They were more aggressive, they did better job on the close-outs, and we didn't take care of the ball in that third quarter. We had seven turnovers that led to easy points. They scored 76 points in the paint and that's unacceptable. We got to be much better defensively there.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic calls the Raptors allowing 76 points in the paint unacceptable. He pointed to seven third quarter turnovers and a lack of defensive intensity as the primary reasons for the loss to Denver.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the Raptors' poor performance and defensive struggles during the third quarter of their game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:58",
+      "summary_phrase": "Darko Rajakovic on the difficulty of defending Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "he did a masterclass offensively there in that third quarter of playmaking and scoring",
+      "quote": "He was efficient in the paint scoring and we ended up in a couple of situations that we ended up late switching and some of the guards ended up on him. That's very hard. If he's going to score one-on-one against smaller guards or if you put two on the ball, he's going to find open men. I thought that he did a masterclass offensively there in that third quarter of playmaking and scoring.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic on trying to contain Nikola Jokic: If you put two on the ball he finds the open man, and if you switch he scores on smaller guards. He called the performance a masterclass in playmaking and scoring.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "TOR",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the tactical difficulty of defending Nikola Jokic when he is operating in the paint and playmaking for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:33",
+      "summary_phrase": "Darko Rajakovic on Toronto's inconsistency throughout the game",
+      "names_mentioned": [],
+      "excerpt": "we had stretches that especially offensively I thought that the first half we played really really good",
+      "quote": "We had stretches that especially offensively I thought that the first half we played really really good. We were also making shots. Second half, we started getting wide-open shots, same looks, the ball did not go through the net. That's something we got to continue working on and improving on. I saw a lot of positives in this game. I thought that we managed ball movement was much better, we had 20 assists in the first half. We just got to make sure that we can sustain that.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Despite the loss, Darko Rajakovic saw positives in the Raptors ball movement. He noted the team had 20 assists in the first half and emphasized that the focus is now on sustaining that offensive rhythm for four quarters.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the inconsistency of the Raptors' offensive execution and ball movement throughout the game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "k5tUtyrQR7w",
+  "url": "https://www.youtube.com/watch?v=k5tUtyrQR7w",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-05T06:00:45Z",
+  "duration_seconds": 147,
+  "processed_at": "2026-11-05T21:05:12Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

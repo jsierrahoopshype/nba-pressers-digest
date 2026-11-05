@@ -1,0 +1,179 @@
+{
+  "video_title": "Hornets at Nets: Coach Charles Lee and Sion James Postgame Media Availability | 11/4/2026",
+  "speakers_seen": [
+    "Charles Lee",
+    "Sion James"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Charles Lee"
+      ],
+      "timestamp": "00:11",
+      "summary_phrase": "Charles Lee on Charlotte Hornets' physical play and ball security",
+      "names_mentioned": [],
+      "excerpt": "I thought the competitive spirit and the physicality of the group was there all night.",
+      "quote": "I thought they handled the physicality pretty well. I think there was a couple stretches throughout the game where we were able to impose our will and you know we're playing with pace and they feel us defensively, they feel us offensively. We created some really good looks for each other. I thought that our screeners were a little bit more dynamic tonight, we were able to get a piece of the paint and then there was a couple stretches where we were careless with the ball and lapses on defense, but overall I thought the competitive spirit and the physicality of the group was there all night.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Charles Lee liked the physicality and pace the Hornets played with tonight, noting that the team was able to impose their will despite some careless stretches with the ball.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Head coach Charles Lee discusses the team's overall physical play and ball security following the game against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Charles Lee"
+      ],
+      "timestamp": "00:41",
+      "summary_phrase": "Charles Lee praises Brandon Miller's focus despite offensive struggles",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "not surprised that he wasn't going to let his offensive struggles dictate how he was going to respond",
+      "quote": "That's part of the game. That's part of who Brandon Miller is as well. So not surprised that he wasn't going to let his offensive struggles dictate how he was going to respond and act and with his actions and competitiveness defensively. So that doesn't surprise me, that's how the whole group is. Now we just got to find a way to kind of just keep going, keep building because there's a ton of really good moments in there.",
+      "verbatim_original_language": "",
+      "start_seconds": 41,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says he is not surprised that Brandon Miller did not let his offensive struggles affect his defensive effort, adding that Miller's resilience is representative of the whole group.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Head coach Charles Lee praises Brandon Miller for maintaining his defensive focus despite struggling offensively during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Sion James",
+      "speakers": [
+        "Sion James"
+      ],
+      "timestamp": "01:08",
+      "summary_phrase": "Sion James identifies key lapses in Hornets' loss to Nets",
+      "names_mentioned": [
+        "Porter Jr."
+      ],
+      "excerpt": "Our pace slowed down, we started having careless turnovers and Porter Jr. got hot",
+      "quote": "We just got away from doing the things that worked well for us. Our pace slowed down, we started having careless turnovers and Porter Jr. got hot and we didn't make the adjustments in real time like we were supposed to.",
+      "verbatim_original_language": "",
+      "start_seconds": 68,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Sion James says the Hornets lost their way against the Nets because their pace slowed down and they failed to make real time adjustments when Porter Jr got hot.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Porter Jr."
+        ],
+        "teams": [
+          "CHA",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Sion James explains the specific lapses in pace and turnovers that allowed the Brooklyn Nets to take control of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Sion James",
+      "speakers": [
+        "Sion James"
+      ],
+      "timestamp": "01:29",
+      "summary_phrase": "Sion James on Hornets' need for greater consistency",
+      "names_mentioned": [],
+      "excerpt": "We showed flashes of the way we're supposed to play, so for us it's just about being more consistent",
+      "quote": "We beat ourselves, so that never feels good. We got away from doing things we were supposed to be doing like I said. We showed flashes of the way we're supposed to play, so for us it's just about being more consistent with that.",
+      "verbatim_original_language": "",
+      "start_seconds": 89,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sion James says the Hornets beat themselves in the loss to the Nets and the team needs to focus on being more consistent with the style of play they showed in flashes.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Sion James reflects on the team's performance and the need for greater consistency after the loss to the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Sion James",
+      "speakers": [
+        "Sion James"
+      ],
+      "timestamp": "01:46",
+      "summary_phrase": "Sion James explains Hornets' offensive execution and ball movement",
+      "names_mentioned": [],
+      "excerpt": "The ball's popping around, moving quickly, guys are making quick decisions, that's what it looks like when it's going well.",
+      "quote": "The ball's popping around, moving quickly, guys are making quick decisions, that's what it looks like when it's going well. Whether shots going or not, sometimes in the first half we were getting great looks, they just weren't going. It's part of the game, but things start to slow down, we just slow down too much on offense, we start turning the ball over in ways we're not supposed to and it's just hard to play that way.",
+      "verbatim_original_language": "",
+      "start_seconds": 106,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Sion James explains that when the Hornets offense is working, the ball is popping around and guys are making quick decisions, but they struggle when they start turning the ball over.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Sion James describes the team's offensive execution and the impact of ball movement on their performance throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "AN1Z9M_be6U",
+  "url": "https://www.youtube.com/watch?v=AN1Z9M_be6U",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-05T03:48:16Z",
+  "duration_seconds": 128,
+  "processed_at": "2026-11-05T21:06:33Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

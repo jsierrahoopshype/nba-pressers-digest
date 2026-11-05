@@ -1,0 +1,106 @@
+{
+  "video_title": "Postgame Media Availability with Ajay Mitchell After Tonight's Win | OKC Thunder | November 4, 2026",
+  "speakers_seen": [
+    "Ajay Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "01:23",
+      "summary_phrase": "Ajay Mitchell on the versatility and leadership of Cason Wallace",
+      "names_mentioned": [
+        "Cason Wallace"
+      ],
+      "excerpt": "Cason Wallace is a hooper. He's a competitor on both ends and he just wants to win.",
+      "quote": "Cason Wallace is a hooper. He's a competitor on both ends and he just wants to win. It's great to have him on the team and he's one of our leaders. He's one of the oldest guys on the team and he goes out there every night and he's ready to compete and that's what makes him special.",
+      "verbatim_original_language": "",
+      "start_seconds": 83,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Ajay Mitchell praises Cason Wallace for his leadership and competitive nature, calling him a hooper who is ready to compete every single night.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ajay Mitchell discusses the leadership and competitive nature of his teammate Cason Wallace following a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "01:50",
+      "summary_phrase": "How college experience helps players adapt to the NBA quickly",
+      "names_mentioned": [],
+      "excerpt": "Once you get to the league, you feel like you're ready to play.",
+      "quote": "I think college experience, you just play more basketball. You get to learn a lot and once you get to the league, you feel like you're ready to play. I think that's really it. That's just getting more reps and then you get to work on your body as much. It's just that.",
+      "verbatim_original_language": "",
+      "start_seconds": 110,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ajay Mitchell credits his college experience for helping him adapt to the NBA, noting that the extra reps and time to work on his body made him feel ready to play at this level.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell explains how his college basketball experience helped him prepare for the transition to the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "03:23",
+      "summary_phrase": "Ajay Mitchell on his defensive mindset and his father's influence",
+      "names_mentioned": [],
+      "excerpt": "My dad was a big-time defender and so every game, no matter what, it always came back to defense.",
+      "quote": "I love it. I was never known for my defense in college, but my dad was a big-time defender and so every game, no matter what, no matter how many points I scored, it always came back to defense. If I had a great game offensively but didn't play good defense, I'll never hear the end of it. So I think that fueled me growing up and I feel like every time I'm on the court I want to compete on both ends.",
+      "verbatim_original_language": "",
+      "start_seconds": 203,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ajay Mitchell says his defensive mindset is fueled by his father, who would hold him accountable for his defensive effort regardless of how many points he scored in a game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell describes how his father influenced his defensive mindset and approach to playing on both ends of the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "1BZVTz59Ahw",
+  "url": "https://www.youtube.com/watch?v=1BZVTz59Ahw",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-05T05:18:26Z",
+  "duration_seconds": 246,
+  "processed_at": "2026-11-05T21:05:42Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

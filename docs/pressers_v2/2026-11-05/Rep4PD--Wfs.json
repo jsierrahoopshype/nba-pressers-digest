@@ -1,0 +1,197 @@
+{
+  "video_title": "Cavs at Thunder | Sam Merrill Post Game | 11.04.2026",
+  "speakers_seen": [
+    "Sam Merrill"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sam Merrill",
+      "timestamp": "00:08",
+      "summary_phrase": "Sam Merrill on the Cavaliers' struggles against the Thunder's blitzing defense",
+      "names_mentioned": [],
+      "excerpt": "they've kind of blitzed us in the first quarter and we turned the ball over",
+      "quote": "I think that's three years now where they've kind of blitzed us in the first quarter and we turned the ball over and they hit quite a few threes in that first quarter. Then we settled in and we talked about a bunch of stuff after the last game and felt like we did a much better job of applying that from the end of the first quarter on and playing better basketball. But a big lead like that in the first quarter, it's going to be tough to win.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Sam Merrill says the Cavs have struggled with the Thunder blitzing them in the first quarter for three years now. He noted that while they settled in after the opening frame, falling into a big early hole makes it tough to win.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Sam Merrill discusses the Cavaliers' struggles against the Thunder's defensive pressure in the first quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sam Merrill",
+      "timestamp": "00:47",
+      "summary_phrase": "Sam Merrill on the Cavaliers' long-term goal of developing consistent habits",
+      "names_mentioned": [],
+      "excerpt": "our entire goal is just develop great consistent habits of trying to play good basketball",
+      "quote": "I think we've talked about this multiple times. Our entire goal over this next whatever, however long it takes, whatever the record looks like, is just develop great consistent habits of trying to play good basketball, trying to play the right way with a ton of energy sustained for 48 minutes. We've had some moments, but we got to keep working on that.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sam Merrill says the Cavaliers' main goal right now is to develop consistent habits and play the right way with sustained energy for 48 minutes regardless of what the record looks like.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill explains the team's focus on developing consistent habits and playing the right way throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Sam Merrill",
+      "timestamp": "01:37",
+      "summary_phrase": "Sam Merrill on the importance of stopping opponent momentum and creating shots",
+      "names_mentioned": [],
+      "excerpt": "you got to find a way to find some momentum and stop the other team's momentum",
+      "quote": "You got to find a way to find some momentum and stop the other team's momentum. A lot of times that's one, you got to get stops obviously, and we did a much better job of that over the course of the last three quarters after the first quarter. But then you also got to find a way to create good shots, especially when teams are really good defensively and good at the point of attack and trying to slow things down on us. So we're watching film and trying to figure out what kind of that looks like, and we're just working to get better at it.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sam Merrill on how the Cavs are trying to counter elite defensive teams: We are watching film and trying to figure out how to create good shots when teams are really good at the point of attack and trying to slow things down.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill talks about the need to stop opponent momentum and generate quality shots against strong defensive teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Sam Merrill",
+      "timestamp": "02:16",
+      "summary_phrase": "Sam Merrill on Tyrese Haliburton's growth and competitive nature this season",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "Tyrese is super competitive and puts in the work",
+      "quote": "Tyrese is super competitive and puts in the work. His defensively been good and he really fights through screens and he communicates, which is really important for us. Him just continuing to be super confident as a jump shooter and letting that thing go and we know we can do with the ball in his hands. Hopefully whatever happened to him isn't too bad because we're going to need him.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Sam Merrill praised Tyrese Haliburton for his competitive nature and defensive effort. He added that the team is hoping his recent injury is not too bad because they are going to need him.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Sam Merrill praises Tyrese Haliburton's competitiveness and expresses concern regarding his health status.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Sam Merrill",
+      "timestamp": "02:54",
+      "summary_phrase": "Sam Merrill on the Thunder's defensive style and transition scoring",
+      "names_mentioned": [
+        "Mitchell",
+        "Shai Gilgeous-Alexander",
+        "Caruso"
+      ],
+      "excerpt": "turning the ball over they get out in transition they get open threes",
+      "quote": "I bet if you went through these last three seasons, the first quarter we're probably averaging at least six turnovers. That's their style. Even with some of their guys hurt, you still got Mitchell and Shai and Caruso coming in and kind of reeking havoc on some of our other guys. So that's probably the biggest thing is turning the ball over. They get out in transition, they get open threes and then before you know it, you're down 15 to 20.",
+      "text_blocks": [],
+      "start_seconds": 174,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Sam Merrill says the Thunder's defensive pressure from Mitchell, Shai, and Caruso consistently forces turnovers that lead to transition threes, putting the Cavs in a 15 to 20 point hole early.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell",
+          "Shai Gilgeous-Alexander",
+          "Alex Caruso"
+        ],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Sam Merrill analyzes how the Thunder's defensive style and transition scoring create early deficits for the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Sam Merrill",
+      "timestamp": "03:32",
+      "summary_phrase": "Sam Merrill on the Cavaliers' resilience and need for better starts",
+      "names_mentioned": [],
+      "excerpt": "we're a group that battles and when we get down we don't quit",
+      "quote": "I mean this group, we're a group that battles and when we get down we don't quit and I thought we did a good job of that. But in this league, what we do, you got to find a way to get off to a better start. You can look at what we did do well over the last three quarters and also look at what we didn't do well in the first quarter. So you got to look at it all, take the good and the bad and just keep trying to get better.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 249,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Sam Merrill says the Cavaliers are a group that battles and does not quit when down, but emphasized that they must find a way to get off to better starts to compete in this league.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill reflects on the Cavaliers' resilience and the necessity of improving their game starts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "Rep4PD--Wfs",
+  "url": "https://www.youtube.com/watch?v=Rep4PD--Wfs",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-05T04:00:04Z",
+  "duration_seconds": 260,
+  "processed_at": "2026-11-05T21:06:19Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

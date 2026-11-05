@@ -1,0 +1,129 @@
+{
+  "video_title": "Postgame Media Availability with Bennett Stirtz | OKC Thunder | November 4, 2026",
+  "speakers_seen": [
+    "Bennett Stirtz"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "00:18",
+      "summary_phrase": "Bennett Stirtz on OKC's internal focus during back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "more of the focus at shootaround today and during the game was what can we do better",
+      "quote": "They switched a little bit of the things up that they were doing the last game, so I think more of the focus at shootaround today and during the game was what can we do better. We weren't focused about them as much as what can we do better in different coverages and defense and offense.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bennett Stirtz says the Thunder focused on internal improvements rather than the opponent during their recent back to back games. He noted the team prioritized what can we do better in different coverages on both ends of the floor.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz discusses the team's internal focus on improving their own execution rather than focusing on the opponent during a back-to-back set.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "00:55",
+      "summary_phrase": "Bennett Stirtz credits veteran leadership for young players' rapid development",
+      "names_mentioned": [],
+      "excerpt": "it's credit to all the players who have been here, all the vets, and they're just telling us",
+      "quote": "It's just taking a lot of reps and that's credit to all the players who have been here, all the vets, and they're just telling us what to do. I think we're getting better each game, but it's credit to all the other guys on the team and the coaching.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Bennett Stirtz credits the veteran leadership on the Thunder roster for the rapid development of the team young players. He says the vets are constantly telling us what to do to help the group get better each game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bennett Stirtz credits the veteran players and coaching staff for helping the younger players develop through consistent repetition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "01:18",
+      "summary_phrase": "Bennett Stirtz on the team's progress early in the season",
+      "names_mentioned": [],
+      "excerpt": "all the young guys are getting more and more comfortable, so we're still trying to get there",
+      "quote": "I think all the young guys are getting more and more comfortable, so we're still trying to get there. It's early on in the season, we got a long way to go, but it's a step in the right direction.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Bennett Stirtz believes the Thunder young core is getting more comfortable as the season progresses. He says while they have a long way to go it is a step in the right direction.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz reflects on the early season progress and the increasing comfort level of the younger players on the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "01:45",
+      "summary_phrase": "Bennett Stirtz on maintaining a next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "just next man up mentality, had no idea this was going to happen to start the season",
+      "quote": "Just next man up mentality, had no idea this was going to happen to start the season, so just ready when my name's called. It's pretty much it.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Bennett Stirtz on his mindset as a young player in the rotation. He says he had no idea this was going to happen to start the season but he is maintaining a next man up mentality and staying ready when my name is called.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz explains his mindset regarding being prepared to play whenever his number is called by the coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "dgZbTPlALhs",
+  "url": "https://www.youtube.com/watch?v=dgZbTPlALhs",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-05T05:16:01Z",
+  "duration_seconds": 114,
+  "processed_at": "2026-11-05T21:05:45Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,108 @@
+{
+  "video_title": "RJ Barrett | Post Game at Denver Nuggets | November 04, 2026",
+  "speakers_seen": [
+    "RJ Barrett"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:23",
+      "summary_phrase": "RJ Barrett on the Raptors' struggles against the Nuggets",
+      "names_mentioned": [
+        "Jokic"
+      ],
+      "excerpt": "we started good today, which was a positive. I think we won every quarter except the third",
+      "quote": "Nuggets have been here. We generally played good against this team. Somehow, they figure it out every time, but we started good today, which was a positive. I think we won every quarter except the third, but then obviously the third was horrible. So, it is like, forget anything that they did, obviously give them credit, but for us, having that one bad quarter, we got to eliminate that.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "RJ Barrett says the Raptors need to eliminate the bad quarters that cost them against Denver. He noted the team played good basketball for three quarters but the third was horrible.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "RJ Barrett reflects on the Raptors' performance and their inability to maintain consistency against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:46",
+      "summary_phrase": "RJ Barrett on the need to eliminate bad quarters",
+      "names_mentioned": [],
+      "excerpt": "having that one bad quarter, we got to eliminate that. There is going to be stretches",
+      "quote": "Having that one bad quarter, we got to eliminate that. There is going to be stretches throughout every game where we probably don't play as well or the other team goes on a run, but we got to figure out how to eliminate those and just get back to what we're doing.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "RJ Barrett on the Raptors' consistency issues: There are going to be stretches where we do not play as well, but we have to figure out how to eliminate those bad runs and get back to what we are doing.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the team's need to avoid prolonged poor stretches during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:09",
+      "summary_phrase": "RJ Barrett on Nikola Jokic's performance and the team's challenge",
+      "names_mentioned": [
+        "Jokic"
+      ],
+      "excerpt": "you have to go up against a challenge like that tonight. At the end of the day",
+      "quote": "Every game is different. Today, they just went on a crazy run. Obviously, you have players like Jokic over there. I think there was a stat like it was his 90th triple-double game before the fourth quarter. So, you have to go up against a challenge like that tonight. At the end of the day, three out of four quarters we played good basketball, so we just got to continue to bring that trend into the next game.",
+      "text_blocks": [],
+      "start_seconds": 129,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "RJ Barrett on facing Nikola Jokic: You have to go up against a challenge like that. He noted that Jokic had a triple-double before the fourth quarter even started.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "TOR",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "RJ Barrett comments on the challenge of playing against Nikola Jokic and the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "1lcH1CVTfS8",
+  "url": "https://www.youtube.com/watch?v=1lcH1CVTfS8",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-05T06:28:12Z",
+  "duration_seconds": 173,
+  "processed_at": "2026-11-05T21:04:40Z",
+  "run_id": "2026-11-05T2104Z-14utc",
+  "is_one_off": false
+}
