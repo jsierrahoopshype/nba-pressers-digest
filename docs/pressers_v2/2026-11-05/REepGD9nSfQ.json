@@ -1,0 +1,209 @@
+{
+  "video_title": "Cavs at Thunder | Kenny Atkinson Post Game | 11.04.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:12",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' poor start and turnovers against Oklahoma City",
+      "names_mentioned": [],
+      "excerpt": "you can't come in on the road, especially against a really good team, and five turnovers",
+      "quote": "You can't come in on the road, especially against a really good team, and five turnovers, I think. I think four of them were live ball. And then I think we were two for nine from three in the first quarter, they go six for ten. So the combination of turnovers, make or miss league, that's how the big separation happened. Give the guys a lot of credit for fighting back, keeping our composure. You're in a situation like that, especially on the road, you could fold.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson points to early turnovers and poor shooting as the reason for the Cavaliers falling behind against the Thunder. He credited the team for keeping their composure to fight back after a rough first quarter.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the Cavaliers' poor start and high turnover rate during their road loss to the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:06",
+      "summary_phrase": "Atkinson emphasizes ball security to maintain consistency throughout games",
+      "names_mentioned": [],
+      "excerpt": "we got to do better, got to do better taking care of the ball, executing better",
+      "quote": "The turnovers are the ones. To me, that's what gets, I think Atlanta, same similar thing happened, that gets, you know, and then they get out in transition, they get easy ones. So, we got to do better, got to do better taking care of the ball, executing better.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson says the Cavaliers must do better taking care of the ball to prevent transition opportunities for opponents. He noted that live ball turnovers have been a recurring issue recently.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains the team's need to improve ball security to prevent opponents from scoring in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:29",
+      "summary_phrase": "Kenny Atkinson provides update on Ty Jerome's injury status",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "hopefully it's not too bad. Came down and there was a pretty good twist though",
+      "quote": "He's man, he's, hopefully it's not too bad. Came down and there was a pretty good twist though, pretty good. But he was good, just what we expected, solid defensively, makes the right plays off, play offensively. You know, when you go through some stuff like this and little hard times, guys are out, you discover things. You always discover more about your team, because you have different guys get more minutes. So, that's always the silver lining. He's definitely taking advantage of his minutes so far.",
+      "text_blocks": [],
+      "start_seconds": 89,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Kenny Atkinson says Ty Jerome suffered a pretty good twist to his ankle. He praised Jerome for his defensive play and for taking advantage of his minutes while other players are out.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson provides an update on Ty Jerome after he suffered a twisted ankle during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:16",
+      "summary_phrase": "Kenny Atkinson explains the decision to start Ty Jerome over Malik Beasley",
+      "names_mentioned": [
+        "Malik Beasley",
+        "Ty Jerome",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "just a feel, a gut. I definitely wanted to get a different guy on Shai",
+      "quote": "Just a feel, a gut. I definitely wanted to get a different guy on Shai, and Ty Jerome has been really good defensively for us, so that was the thinking. But it really didn't, Malik was played well in the starting lineup, but just a gut feel.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson explains that starting Ty Jerome over Malik Beasley was a gut feel to get a different defender on Shai Gilgeous Alexander. He emphasized that Beasley has played well in the starting lineup.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome",
+          "Malik Beasley",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains his decision to start Ty Jerome over Malik Beasley to improve the defensive matchup against Shai Gilgeous-Alexander.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:54",
+      "summary_phrase": "Atkinson reflects on the team's resilience despite the loss",
+      "names_mentioned": [
+        "Chris"
+      ],
+      "excerpt": "I was really pleased with how we respond, especially with this crowd",
+      "quote": "I mean disappointing, like I said, disappointed in our first quarter. Three quarters, really solid, solid play and you have one quarter where you're not up to par. And I think, like I said, the turnovers, the live ball turnovers, they just get the other team going and kind of snowballs there. And then, you know, we obviously need to make shots, but Chris, I was really pleased with how we respond, especially with this crowd. You can go the other way, you can take one on the chin, lose by 40 here. So, I'm going to take the positives, you know, kept our composure, you know, made a comeback there, you know, so some some good things out there.",
+      "text_blocks": [],
+      "start_seconds": 174,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Despite the loss, Kenny Atkinson says he was pleased with how the Cavaliers responded to the crowd and the deficit. He noted that the team could have folded but instead kept their composure for three quarters.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the team's resilience and ability to maintain composure despite a disappointing first quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:06",
+      "summary_phrase": "Kenny Atkinson addresses the injury status of Jarrett Allen",
+      "names_mentioned": [
+        "Jarrett Allen",
+        "Chris"
+      ],
+      "excerpt": "I don't know yet, Chris, too early to determine",
+      "quote": "I don't know yet, Chris, too early to determine. You know, so the wrap, you know, he gets wrapped and I think they collided knees, so, you know, get looked at tomorrow, see what it looks like.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Kenny Atkinson says it is too early to determine the status of Jarrett Allen after he collided knees with another player. The team will evaluate him tomorrow.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jarrett Allen"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson addresses the injury status of Jarrett Allen after he collided knees with another player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "REepGD9nSfQ",
+  "url": "https://www.youtube.com/watch?v=REepGD9nSfQ",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-05T03:47:39Z",
+  "duration_seconds": 267,
+  "processed_at": "2026-11-06T00:58:06Z",
+  "run_id": "2026-11-06T0057Z-20utc",
+  "is_one_off": false
+}

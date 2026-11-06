@@ -1,0 +1,188 @@
+{
+  "video_title": "Giannis Antetokounmpo Postgame Interview | 27 points, 14 rebounds, 6 assists vs Clippers",
+  "speakers_seen": [
+    "Giannis Antetokounmpo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "00:25",
+      "summary_phrase": "Giannis Antetokounmpo on the team's physical and mental approach",
+      "names_mentioned": [],
+      "excerpt": "We got to step up our game and got to be more physical, more aggressive.",
+      "quote": "We got to step up our game and got to be more physical, more aggressive. I think that's the only way to play. I'm going to do that as much as I can for the rest of the season, try to give them that as much as we should.",
+      "verbatim_original_language": "",
+      "start_seconds": 25,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Giannis Antetokounmpo says the Bucks need to change their approach to close out the season. We got to step up our game and be more physical and aggressive. I think that is the only way to play.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo discusses the team's need for increased physicality and aggression following a game against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "01:30",
+      "summary_phrase": "Giannis Antetokounmpo on the team's trust and ball movement",
+      "names_mentioned": [],
+      "excerpt": "They were playing their game, and I'm not going to force anything.",
+      "quote": "They were playing their game, and I'm not going to force anything. We came here, I think at halftime, we talked about it, and we came out for the third quarter and the fourth quarter with trust. We were moving the ball, we were getting guys that are rewarded, and that's the only way to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Giannis Antetokounmpo on the key to the second half comeback against the Clippers. We came out for the third and fourth quarter with trust. We were moving the ball and getting guys rewarded and that is the only way to win.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo reflects on the team's improved ball movement and trust during the second half of the game against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "02:13",
+      "summary_phrase": "Giannis Antetokounmpo on the team's collective energy and effort",
+      "names_mentioned": [],
+      "excerpt": "It takes a lot of energy, but the start is something that's worth something.",
+      "quote": "It takes a lot of energy, but the start is something that's worth something. Something that I want to maintain, because I know that to win, it's going to be hard, it's going to be easy, and all this my whole career, so I expect hard, and I know that my body can move with it, so it's okay. I don't power.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Giannis Antetokounmpo on maintaining his energy levels. I know that to win it is going to be hard and I expect hard and I know that my body can move with it.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo discusses the physical demands of maintaining high energy throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "03:19",
+      "summary_phrase": "Giannis Antetokounmpo on the team's defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "We fought all the way, not guarding 23 minutes.",
+      "quote": "We fought all the way, not guarding 23 minutes. So for me, it is that if you're not believing, you're not going to win. So that's my mindset, and for me, I need to get back to the game, and that's what I did.",
+      "verbatim_original_language": "",
+      "start_seconds": 199,
+      "end_seconds": 216,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Giannis Antetokounmpo emphasizes the importance of belief in the team defensive effort. If you are not believing you are not going to win. That is my mindset.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo emphasizes the importance of belief and defensive intensity in winning games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "04:03",
+      "summary_phrase": "Giannis Antetokounmpo on his personal mindset and leadership",
+      "names_mentioned": [],
+      "excerpt": "This is the only way I know. This is the only way I know how to play.",
+      "quote": "This is the only way I know. This is the only way I know how to play. I feel like, yes, I have been challenged, challenged by the team, challenged by myself, and I'm challenging myself, and obviously, the team needs me to do well, and I got to respond. I think that the team, they're playing for us, and it's my job to be there, and I'm always part of the team, so the ball is always there.",
+      "verbatim_original_language": "",
+      "start_seconds": 243,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Giannis Antetokounmpo on his leadership role. I have been challenged by the team and challenged by myself and I am challenging myself. The team needs me to do well and I have to respond.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo talks about his personal mindset and his responsibility to lead the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "05:40",
+      "summary_phrase": "Giannis Antetokounmpo on James Harden's performance",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "James Harden, second of all time in threes, yeah.",
+      "quote": "James Harden, second of all time in threes, yeah. He's a great shooter, he's a great player, he's a great teammate, and he's been doing this for a long time. He's a Hall of Famer, and he's going to be in the Hall of Fame, so he's always going to be a threat.",
+      "verbatim_original_language": "",
+      "start_seconds": 340,
+      "end_seconds": 360,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Giannis Antetokounmpo shares his respect for James Harden. He is a great shooter and a great player and he is going to be in the Hall of Fame so he is always going to be a threat.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "MIL",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo praises James Harden's career achievements and status as a threat on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "irnr0f42XYo",
+  "url": "https://www.youtube.com/watch?v=irnr0f42XYo",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-05T22:49:35Z",
+  "duration_seconds": 422,
+  "processed_at": "2026-11-06T00:58:07Z",
+  "run_id": "2026-11-06T0057Z-20utc",
+  "is_one_off": false
+}

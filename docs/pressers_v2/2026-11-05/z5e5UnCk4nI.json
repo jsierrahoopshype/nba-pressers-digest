@@ -1,0 +1,264 @@
+{
+  "video_title": "Klay Thompson Postgame Interview | Game Winning Three vs Clippers",
+  "speakers_seen": [
+    "Klay Thompson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Klay Thompson",
+      "timestamp": "00:14",
+      "summary_phrase": "Klay Thompson on his physical progress and conditioning",
+      "names_mentioned": [],
+      "excerpt": "I'm seeing the most progress from myself in being patient and staying in the moment.",
+      "quote": "I'm seeing the most progress from myself in being patient and staying in the moment. I thought I took good looks. I might have had two or three bad ones, but I'm not forcing anything. I'm getting clean looks and started the game, it was a great rhythm for us. I think we've seen it a couple of times, those clean looks in that same corner, and it's just something about that.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Klay Thompson says he is focusing on patience and staying in the moment to find his rhythm. He notes he is not forcing shots and is getting clean looks in the corner.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Klay Thompson discusses his personal progress and shooting rhythm after a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Klay Thompson",
+      "timestamp": "00:56",
+      "summary_phrase": "Klay Thompson on Bam Adebayo's screen setting",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "Bam Adebayo set the best screen I've ever set.",
+      "quote": "Bam Adebayo set the best screen I've ever set. I felt like I had so much space. It's not an easy shot for me, but I've been taking so many without a doubt, and for me, for a right-handed shooter, it's a very easy shot from the corner on the floor for a righty. It was so fun. I just got my feet set, feet down, and I took it with confidence. It just felt really good to get off the deck.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Klay Thompson credits Bam Adebayo for setting the best screen he has ever received. Klay says he took the game winning shot with confidence and it felt good to get off the deck.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "DAL",
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Klay Thompson praises Bam Adebayo for setting a screen that helped him hit a game-winning shot.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Klay Thompson",
+      "timestamp": "01:36",
+      "summary_phrase": "Klay Thompson on the team's need for a win",
+      "names_mentioned": [],
+      "excerpt": "We needed it for morale and momentum's sake.",
+      "quote": "We needed it for morale and momentum's sake. Now that we've won three of our last four, we can really build off something. The Warriors are playing real well, so it's going to be a really good challenge tomorrow night. It's always going to be awesome seeing all the guys I grew up with, and it's just going to be a special night.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Klay Thompson says the team needed this win for morale and momentum. He is looking forward to the challenge of facing the Warriors tomorrow night.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Klay Thompson reflects on the importance of the recent win and looks ahead to playing against his former team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Klay Thompson",
+      "timestamp": "02:14",
+      "summary_phrase": "Klay Thompson on his physical health and team accountability",
+      "names_mentioned": [],
+      "excerpt": "I feel amazing. I haven't felt this good in a long time.",
+      "quote": "I feel amazing. I haven't felt this good in a long time. No pain in my lower limbs, and I'm so grateful to be here. They hold me accountable, the training staff and coaching staff, and I feel amazing. I haven't felt this good to start the season in years, so I'm just really inspired by not only my performance tonight, but our team's.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Klay Thompson says he feels amazing and has no pain in his lower limbs. He credits the training and coaching staff for holding him accountable and helping him feel better than he has in years.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Klay Thompson describes his current physical health and his appreciation for the team training staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Klay Thompson",
+      "timestamp": "02:44",
+      "summary_phrase": "Klay Thompson on scoring 30 points and confidence",
+      "names_mentioned": [],
+      "excerpt": "It's the first time I've scored 30 in years, so it gives me so much confidence.",
+      "quote": "It's the first time I've scored 30 in years, so it gives me so much confidence to keep going. It's really showing that you can still have those nights like this. I enjoy having big nights, but I don't go into the game with the mindset like I have to prove myself. I'm not on a state of flow. As long as I stay consistent with my training and conditioning, I'm going to have plenty of nights like this throughout the season.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Klay Thompson says his 30 point performance gives him confidence. He notes he is not trying to prove himself but is focused on staying consistent with his training and conditioning.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Klay Thompson discusses his confidence after scoring 30 points in a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Klay Thompson",
+      "timestamp": "03:23",
+      "summary_phrase": "Klay Thompson on the team's defensive effort in the second half",
+      "names_mentioned": [
+        "Bam Adebayo",
+        "Ryan",
+        "Brogdon"
+      ],
+      "excerpt": "The ball pressure we had on the court with Bam Adebayo, and you know, on the perimeter with Ryan and Brogdon.",
+      "quote": "The ball pressure we had on the court with Bam Adebayo, and you know, on the perimeter with Ryan and Brogdon was just a game changer. We only scored 40 points in that second half, I know right there, so that was really huge for those four guys to really anchor our defense, and when we do that, we get easier looks at the rim.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Klay Thompson highlights the defensive effort from Bam Adebayo, Ryan, and Brogdon as a game changer. He says their ability to anchor the defense led to easier looks at the rim.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bam Adebayo",
+          "Ryan",
+          "Malcolm Brogdon"
+        ],
+        "teams": [
+          "DAL",
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Klay Thompson credits his teammates for their defensive effort in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Klay Thompson",
+      "timestamp": "04:44",
+      "summary_phrase": "Klay Thompson on the importance of staying in shape",
+      "names_mentioned": [],
+      "excerpt": "How important is it just playing and staying in shape during a time where a lot of people don't really play anymore.",
+      "quote": "I have 19 threes over these last three games. That's a testament to you a lot every summer. You play against any player that doesn't in the gym, whether it's non-NBA guys or anybody. How important is it just playing and staying in shape during a time where a lot of people don't really play anymore? I just love the game so much, and I remember when I was a young player and I would play against all the pros in Southern California, whether guys played in the NBA, the CBA, or the EuroLeague. It didn't matter, it was just pure professional respect.",
+      "text_blocks": [],
+      "start_seconds": 284,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Klay Thompson attributes his recent shooting success to his summer work. He emphasizes the importance of playing against pros during the offseason to stay in shape.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Klay Thompson explains the importance of staying in shape during the offseason by playing against other professionals.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Klay Thompson",
+      "timestamp": "05:42",
+      "summary_phrase": "Klay Thompson on the team's coaching and staff",
+      "names_mentioned": [
+        "Steve"
+      ],
+      "excerpt": "Steve is great, and he's got a great staff.",
+      "quote": "No, because he looks like he's great at the NBA size, and I know he's a great coach here. And Steve is great, and he's got a great staff. I'd be surprised if he's got a good team in three months, though. It's probably going to go back and forth with the best of the Michigan rivalry, but it's a great, great team for young players. So, I'm not surprised.",
+      "text_blocks": [],
+      "start_seconds": 342,
+      "end_seconds": 369,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Klay Thompson praises the coaching staff and the development of young players on the team.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "DAL",
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Klay Thompson comments on Steve Kerr and the coaching staff of his former team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "z5e5UnCk4nI",
+  "url": "https://www.youtube.com/watch?v=z5e5UnCk4nI",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-05T22:19:35Z",
+  "duration_seconds": 386,
+  "processed_at": "2026-11-06T00:58:02Z",
+  "run_id": "2026-11-06T0057Z-20utc",
+  "is_one_off": false
+}

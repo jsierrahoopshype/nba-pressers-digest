@@ -8,6 +8,8 @@ Micah Nori: "**Vlatko Cancar** fractured his leg. It is an awful break for him, 
 
 [https://www.youtube.com/watch?v=weWq2s7LipE&t=68s](https://www.youtube.com/watch?v=weWq2s7LipE&t=68s)
 
+<small>[Clip it](presserclips://clip?v=weWq2s7LipE&t=68&q=1) · [Send to Slack](presserclips://clip?v=weWq2s7LipE&t=68&q=1&slack=1)</small>
+
 From: [Micah Nori Postgame Interview | Portland Trail Blazers 132, Phoenix Suns 119 | Nov. 4, 2026](https://www.youtube.com/watch?v=weWq2s7LipE) · *Portland Trail Blazers*
 
 <small>[Clip it](presserclips://clip?v=weWq2s7LipE&t=68&q=1) · [Send to Slack](presserclips://clip?v=weWq2s7LipE&t=68&q=1&slack=1)</small>
@@ -17,6 +19,8 @@ From: [Micah Nori Postgame Interview | Portland Trail Blazers 132, Phoenix Suns 
 Coach Nick Nurse: "He got hit in the neck soreness. Obviously took a shot there and I was really low on timeouts, so I was trying to get through it. Finally had to get him out of there, they're checking him now. I think it's a neck issue, but I just saw him on the way here, looks to be okay, but nothing official on that."
 
 [https://www.youtube.com/watch?v=yBjZ5xDcNqY&t=345s](https://www.youtube.com/watch?v=yBjZ5xDcNqY&t=345s)
+
+<small>[Clip it](presserclips://clip?v=yBjZ5xDcNqY&t=345&q=2) · [Send to Slack](presserclips://clip?v=yBjZ5xDcNqY&t=345&q=2&slack=1)</small>
 
 From: [Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.04.26](https://www.youtube.com/watch?v=yBjZ5xDcNqY) · *Philadelphia 76ers*
 
@@ -28,6 +32,8 @@ Jordan Ott: "I think we started off not great last year defensively a little bit
 
 [https://www.youtube.com/watch?v=DntBlPIQ5Gw&t=396s](https://www.youtube.com/watch?v=DntBlPIQ5Gw&t=396s)
 
+<small>[Clip it](presserclips://clip?v=DntBlPIQ5Gw&t=396&q=3) · [Send to Slack](presserclips://clip?v=DntBlPIQ5Gw&t=396&q=3&slack=1)</small>
+
 From: [Head Coach Jordan Ott Postgame Media Availability | 11-4-26](https://www.youtube.com/watch?v=DntBlPIQ5Gw) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=DntBlPIQ5Gw&t=396&q=4) · [Send to Slack](presserclips://clip?v=DntBlPIQ5Gw&t=396&q=4&slack=1)</small>
@@ -37,6 +43,8 @@ From: [Head Coach Jordan Ott Postgame Media Availability | 11-4-26](https://www.
 Sam Merrill: "Tyrese is super competitive and puts in the work. His defensively been good and he really fights through screens and he communicates, which is really important for us. Him just continuing to be super confident as a jump shooter and letting that thing go and we know we can do with the ball in his hands. Hopefully whatever happened to him isn't too bad because we're going to need him."
 
 [https://www.youtube.com/watch?v=Rep4PD--Wfs&t=136s](https://www.youtube.com/watch?v=Rep4PD--Wfs&t=136s)
+
+<small>[Clip it](presserclips://clip?v=Rep4PD--Wfs&t=136&q=4) · [Send to Slack](presserclips://clip?v=Rep4PD--Wfs&t=136&q=4&slack=1)</small>
 
 From: [Cavs at Thunder | Sam Merrill Post Game | 11.04.2026](https://www.youtube.com/watch?v=Rep4PD--Wfs) · *Cleveland Cavaliers*
 
@@ -48,6 +56,8 @@ Darko Rajakovic: "Third quarter, we missed, I believe, four or five straight sho
 
 [https://www.youtube.com/watch?v=LzWfo98mPMY&t=171s](https://www.youtube.com/watch?v=LzWfo98mPMY&t=171s)
 
+<small>[Clip it](presserclips://clip?v=LzWfo98mPMY&t=171&q=5) · [Send to Slack](presserclips://clip?v=LzWfo98mPMY&t=171&q=5&slack=1)</small>
+
 From: [Toronto Raptors Full Media Availability | Post Game at Denver Nuggets | November 04, 2026](https://www.youtube.com/watch?v=LzWfo98mPMY) · *Toronto Raptors*
 
 <small>[Clip it](presserclips://clip?v=LzWfo98mPMY&t=171&q=3) · [Send to Slack](presserclips://clip?v=LzWfo98mPMY&t=171&q=3&slack=1)</small>
@@ -57,6 +67,8 @@ From: [Toronto Raptors Full Media Availability | Post Game at Denver Nuggets | N
 Micah Nori: "I think we will probably still have **Christian Youngblood** step into those minutes, and then we will probably either bring up **Tanjir Khan**. I will talk to Joe and see what he wants to do there, and then we will go from there. I do feel comfortable with the depth that we have that allows us to do that."
 
 [https://www.youtube.com/watch?v=weWq2s7LipE&t=154s](https://www.youtube.com/watch?v=weWq2s7LipE&t=154s)
+
+<small>[Clip it](presserclips://clip?v=weWq2s7LipE&t=154&q=6) · [Send to Slack](presserclips://clip?v=weWq2s7LipE&t=154&q=6&slack=1)</small>
 
 From: [Micah Nori Postgame Interview | Portland Trail Blazers 132, Phoenix Suns 119 | Nov. 4, 2026](https://www.youtube.com/watch?v=weWq2s7LipE) · *Portland Trail Blazers*
 
@@ -68,6 +80,8 @@ Jordan Ott: "When a man gets hit in the face airborne, goes down on the ground, 
 
 [https://www.youtube.com/watch?v=DntBlPIQ5Gw&t=275s](https://www.youtube.com/watch?v=DntBlPIQ5Gw&t=275s)
 
+<small>[Clip it](presserclips://clip?v=DntBlPIQ5Gw&t=275&q=7) · [Send to Slack](presserclips://clip?v=DntBlPIQ5Gw&t=275&q=7&slack=1)</small>
+
 From: [Head Coach Jordan Ott Postgame Media Availability | 11-4-26](https://www.youtube.com/watch?v=DntBlPIQ5Gw) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=DntBlPIQ5Gw&t=275&q=3) · [Send to Slack](presserclips://clip?v=DntBlPIQ5Gw&t=275&q=3&slack=1)</small>
@@ -77,6 +91,8 @@ From: [Head Coach Jordan Ott Postgame Media Availability | 11-4-26](https://www.
 Nikola Jokic: "In today's NBA, I think there is no size advantage just because in the low post, I think we have a lot of defenders or player on the post and defensive side can do much more, pushing, grabbing, whatever, than if you're playing outside. I think that's why players are not willing to play in the low post anymore, you know, it's just because you're going to get a foul and it's never going to get called and you're getting tired after possession. I think that's why the low post is kind of in the hand zone, like I think probably next 5-10 years, low post is not going to even be up there, so that's why the people are trying to put smaller."
 
 [https://www.youtube.com/watch?v=CokXDvIWwnQ&t=717s](https://www.youtube.com/watch?v=CokXDvIWwnQ&t=717s)
+
+<small>[Clip it](presserclips://clip?v=CokXDvIWwnQ&t=717&q=8) · [Send to Slack](presserclips://clip?v=CokXDvIWwnQ&t=717&q=8&slack=1)</small>
 
 From: [Full Denver Nuggets Postgame Media Availability vs. TOR 🎙](https://www.youtube.com/watch?v=CokXDvIWwnQ) · *Denver Nuggets*
 
@@ -88,6 +104,8 @@ Chris Finch: "When he got here, we knew we needed to be our dirty work guy like 
 
 [https://www.youtube.com/watch?v=kM5-ngy4NZc&t=63s](https://www.youtube.com/watch?v=kM5-ngy4NZc&t=63s)
 
+<small>[Clip it](presserclips://clip?v=kM5-ngy4NZc&t=63&q=9) · [Send to Slack](presserclips://clip?v=kM5-ngy4NZc&t=63&q=9&slack=1)</small>
+
 From: ["I Was Proud Of The Guys, Really All Of Them." | Chris Finch Postgame Sound | 11.4.26](https://www.youtube.com/watch?v=kM5-ngy4NZc) · *Minnesota Timberwolves*
 
 <small>[Clip it](presserclips://clip?v=kM5-ngy4NZc&t=63&q=2) · [Send to Slack](presserclips://clip?v=kM5-ngy4NZc&t=63&q=2&slack=1)</small>
@@ -97,6 +115,8 @@ From: ["I Was Proud Of The Guys, Really All Of Them." | Chris Finch Postgame Sou
 Rick Carlisle: "**Nee Smith** and **Larry Nance** were defending. What **Jerome** is doing right now from 35 feet away from the basket and all the awkward wrong-foot shots, he's a very unique player and he's playing at an extremely high level. We held him to 22 points and he's been averaging 28, and we won by four. There you go, there's the difference in the game."
 
 [https://www.youtube.com/watch?v=O42X7BZAGn0&t=114s](https://www.youtube.com/watch?v=O42X7BZAGn0&t=114s)
+
+<small>[Clip it](presserclips://clip?v=O42X7BZAGn0&t=114&q=10) · [Send to Slack](presserclips://clip?v=O42X7BZAGn0&t=114&q=10&slack=1)</small>
 
 From: [Rick Carlisle and Braden Smith Postgame Media Availability | November 4, 2026](https://www.youtube.com/watch?v=O42X7BZAGn0) · *Indiana Pacers*
 
@@ -108,6 +128,8 @@ Trae Young: "Obviously our offense, our defense wasn't good tonight either, but 
 
 [https://www.youtube.com/watch?v=tw2y0TGl1ac&t=304s](https://www.youtube.com/watch?v=tw2y0TGl1ac&t=304s)
 
+<small>[Clip it](presserclips://clip?v=tw2y0TGl1ac&t=304&q=11) · [Send to Slack](presserclips://clip?v=tw2y0TGl1ac&t=304&q=11&slack=1)</small>
+
 From: [Media Availability: Head Coach Brian Keefe, Trae Young, and Kyshawn George | 11.4.26](https://www.youtube.com/watch?v=tw2y0TGl1ac) · *Washington Wizards*
 
 <small>[Clip it](presserclips://clip?v=tw2y0TGl1ac&t=304&q=8) · [Send to Slack](presserclips://clip?v=tw2y0TGl1ac&t=304&q=8&slack=1)</small>
@@ -117,6 +139,8 @@ From: [Media Availability: Head Coach Brian Keefe, Trae Young, and Kyshawn Georg
 Rui Hachimura: "We are trying to be aggressive, especially in fast break when they have no set defense. They don't really get back on defense, so that's what we are trying to attack. That's what we did a good job today. We are sharing the ball, passing to each other, so it was more natural to me."
 
 [https://www.youtube.com/watch?v=fazaqrKlolY&t=39s](https://www.youtube.com/watch?v=fazaqrKlolY&t=39s)
+
+<small>[Clip it](presserclips://clip?v=fazaqrKlolY&t=39&q=12) · [Send to Slack](presserclips://clip?v=fazaqrKlolY&t=39&q=12&slack=1)</small>
 
 From: [Postgame Interview (11/04/26) | LA Clippers](https://www.youtube.com/watch?v=fazaqrKlolY) · *LA Clippers*
 
@@ -128,6 +152,8 @@ Rui Hachimura: "We have to keep doing what we are supposed to do. We were up by 
 
 [https://www.youtube.com/watch?v=fazaqrKlolY&t=72s](https://www.youtube.com/watch?v=fazaqrKlolY&t=72s)
 
+<small>[Clip it](presserclips://clip?v=fazaqrKlolY&t=72&q=13) · [Send to Slack](presserclips://clip?v=fazaqrKlolY&t=72&q=13&slack=1)</small>
+
 From: [Postgame Interview (11/04/26) | LA Clippers](https://www.youtube.com/watch?v=fazaqrKlolY) · *LA Clippers*
 
 <small>[Clip it](presserclips://clip?v=fazaqrKlolY&t=72&q=3) · [Send to Slack](presserclips://clip?v=fazaqrKlolY&t=72&q=3&slack=1)</small>
@@ -137,6 +163,8 @@ From: [Postgame Interview (11/04/26) | LA Clippers](https://www.youtube.com/watc
 Jamahl Mosley: "We screwed up the switches and that was one of the things that we talked about in the huddle before going into overtime. They put **George** in it, then they put **Markkanen** in it, slip-outs, not setting the screen. We miscommunicated a couple and we've been burned on those before. That's also the great part about being in and experiencing it before in other teams. You can talk about what you need to clean up, but we've got to get better at that because they are a tremendous slip-out team."
 
 [https://www.youtube.com/watch?v=9R_CTumrn88&t=906s](https://www.youtube.com/watch?v=9R_CTumrn88&t=906s)
+
+<small>[Clip it](presserclips://clip?v=9R_CTumrn88&t=906&q=14) · [Send to Slack](presserclips://clip?v=9R_CTumrn88&t=906&q=14&slack=1)</small>
 
 From: [LIVE: Pelicans vs. Jazz Postgame Interviews 11/4/2026](https://www.youtube.com/watch?v=9R_CTumrn88) · *New Orleans Pelicans*
 
@@ -148,6 +176,8 @@ Jamahl Mosley: "That's the challenge for him. That's what we've tasked him to do
 
 [https://www.youtube.com/watch?v=9R_CTumrn88&t=1008s](https://www.youtube.com/watch?v=9R_CTumrn88&t=1008s)
 
+<small>[Clip it](presserclips://clip?v=9R_CTumrn88&t=1008&q=15) · [Send to Slack](presserclips://clip?v=9R_CTumrn88&t=1008&q=15&slack=1)</small>
+
 From: [LIVE: Pelicans vs. Jazz Postgame Interviews 11/4/2026](https://www.youtube.com/watch?v=9R_CTumrn88) · *New Orleans Pelicans*
 
 <small>[Clip it](presserclips://clip?v=9R_CTumrn88&t=1008&q=4) · [Send to Slack](presserclips://clip?v=9R_CTumrn88&t=1008&q=4&slack=1)</small>
@@ -158,6 +188,8 @@ Darko Rajakovic: "He was efficient in the paint scoring, and we ended up in a co
 
 [https://www.youtube.com/watch?v=LzWfo98mPMY&t=226s](https://www.youtube.com/watch?v=LzWfo98mPMY&t=226s)
 
+<small>[Clip it](presserclips://clip?v=LzWfo98mPMY&t=226&q=16) · [Send to Slack](presserclips://clip?v=LzWfo98mPMY&t=226&q=16&slack=1)</small>
+
 From: [Toronto Raptors Full Media Availability | Post Game at Denver Nuggets | November 04, 2026](https://www.youtube.com/watch?v=LzWfo98mPMY) · *Toronto Raptors*
 
 <small>[Clip it](presserclips://clip?v=LzWfo98mPMY&t=226&q=4) · [Send to Slack](presserclips://clip?v=LzWfo98mPMY&t=226&q=4&slack=1)</small>
@@ -167,6 +199,8 @@ From: [Toronto Raptors Full Media Availability | Post Game at Denver Nuggets | N
 RJ Barrett: "Every game is different. Today, they just went on a crazy run. Obviously, you have players like **Jokic** over there. I think there was a stat like it was his 90th triple-double game before the fourth quarter. So, you have to go up against a challenge like that tonight. At the end of the day, three out of four quarters we played good basketball, so we just got to continue to bring that trend into the next game."
 
 [https://www.youtube.com/watch?v=1lcH1CVTfS8&t=129s](https://www.youtube.com/watch?v=1lcH1CVTfS8&t=129s)
+
+<small>[Clip it](presserclips://clip?v=1lcH1CVTfS8&t=129&q=17) · [Send to Slack](presserclips://clip?v=1lcH1CVTfS8&t=129&q=17&slack=1)</small>
 
 From: [RJ Barrett | Post Game at Denver Nuggets | November 04, 2026](https://www.youtube.com/watch?v=1lcH1CVTfS8) · *Toronto Raptors*
 
@@ -181,6 +215,8 @@ From: [RJ Barrett | Post Game at Denver Nuggets | November 04, 2026](https://www
 **Jonathan Kuminga:** "We have so many people that can put the ball in the hoop. The rest of the job is rebounding, playing hard, defending. It's right there, why not do it? I'm just out there to accomplish to be around those guys and make their life easier."
 
 [https://www.youtube.com/watch?v=SCtvtGnUMWU&t=0s](https://www.youtube.com/watch?v=SCtvtGnUMWU&t=0s)
+
+<small>[Clip it](presserclips://clip?v=SCtvtGnUMWU&t=0&q=18) · [Send to Slack](presserclips://clip?v=SCtvtGnUMWU&t=0&q=18&slack=1)</small>
 
 From: ["I Make An Impact By Doing The Dirty Work." | Jonathan Kuminga Postgame Sound | 11.4.26](https://www.youtube.com/watch?v=SCtvtGnUMWU) · *Minnesota Timberwolves*
 

@@ -1,0 +1,101 @@
+{
+  "video_title": "Bam Adebayo Postgame Interview | 35 points, 10 rebounds vs Clippers",
+  "speakers_seen": [
+    "Bam Adebayo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bam Adebayo",
+      "timestamp": "00:05",
+      "summary_phrase": "Bam Adebayo on the importance of the final play execution",
+      "names_mentioned": [],
+      "excerpt": "I just had to make sure I got an off-hand, and I was pretty sure it was good.",
+      "quote": "I just had to make sure I got an off-hand, and I was pretty sure it was good. I mean, it's back-to-back, so it's tough, but I think we stayed with it. I don't know.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bam Adebayo on the Heat closing out a tough back to back game I just had to make sure I got an off hand and I was pretty sure it was good",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo discusses the execution of the final play during his postgame interview after a win against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bam Adebayo",
+      "timestamp": "00:39",
+      "summary_phrase": "Bam Adebayo on the team's resilience in finding a way to win",
+      "names_mentioned": [],
+      "excerpt": "It's important to find a way no matter what to get a dub.",
+      "quote": "It's important to find a way no matter what to get a dub. I mean, we're in a stretch of three in five, we just need something. I think it's the right mindset.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Bam Adebayo says the Heat are focused on grinding out wins during this busy stretch of three games in five nights It is important to find a way no matter what to get a dub",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo reflects on the importance of securing a victory during a difficult stretch of the schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bam Adebayo",
+      "timestamp": "01:55",
+      "summary_phrase": "Bam Adebayo on the team's collective mental toughness",
+      "names_mentioned": [],
+      "excerpt": "It's a testament to the team, and it's a testament to the mental toughness.",
+      "quote": "It's a testament to the team, and it's a testament to the mental toughness. It's not easy to do, but we find a way. We just buy into it, and we share the game. We're playing for each other, so that's what it takes.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Bam Adebayo credits the team collective mental toughness for their recent success We just buy into it and we share the game",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo praises his team's collective mental toughness and willingness to share the ball after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "2XmcEynQJhc",
+  "url": "https://www.youtube.com/watch?v=2XmcEynQJhc",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-05T22:35:14Z",
+  "duration_seconds": 194,
+  "processed_at": "2026-11-06T00:57:54Z",
+  "run_id": "2026-11-06T0057Z-20utc",
+  "is_one_off": false
+}

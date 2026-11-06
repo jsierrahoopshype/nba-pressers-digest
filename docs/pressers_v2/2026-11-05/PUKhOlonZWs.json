@@ -1,0 +1,160 @@
+{
+  "video_title": "Jaime Jaquez Jr Postgame Media Availability | 11.4.26",
+  "speakers_seen": [
+    "Jaime Jaquez Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:12",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's shift in mentality and intensity",
+      "names_mentioned": [],
+      "excerpt": "we just came out with a different mentality, a different fire.",
+      "quote": "We just came out with a different mentality, a different fire. A lot of us were just sick and tired of being sick and tired, and we just came out with a tenacity, a ferociousness that was really great to see. We just got to figure out how to keep that for a full 48. It doesn't have to be perfect, but it's just got to be enough to keep us sustained in the games. If we had that intensity at the beginning, maybe we're still down, but at least we have a quarter half like that. Maybe we win the game, but you can't live in what-ifs.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jaime Jaquez Jr. says the Bucks played with a different fire tonight but emphasizes the team needs to sustain that intensity for a full 48 minutes instead of just flashes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses the team's shift in mentality and intensity following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:06",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's improved intentionality and ball movement",
+      "names_mentioned": [],
+      "excerpt": "I think we were just a lot more intentional, intentional coming out of the half.",
+      "quote": "I think we were just a lot more intentional, intentional coming out of the half. Their defense was messing with us a little bit. We just had to stay true to what we know and what we've been working on, and once we were able to do that and commit, we get good things. We're still trying to figure out a way, we're going to keep competing, keep trying to muscle through.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaime Jaquez Jr. credits a more intentional approach coming out of halftime for the team's improved ball movement against a tough defense.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. explains the team's improved intentionality and ball movement during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:39",
+      "summary_phrase": "Jaime Jaquez Jr. on the importance of building team chemistry",
+      "names_mentioned": [],
+      "excerpt": "It's important to grow as a group.",
+      "quote": "It's important to grow as a group. I'm not one for all moral victories, we want to win the game at the end of the day, but at some point we got to lay the brick down. Every single game we're going to take some positives, take some negatives and continue to grow and get better every single day.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaime Jaquez Jr. on the team's growth process: We are not looking for moral victories, but we have to lay the brick down and continue to grow every single day.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. reflects on the importance of team growth despite the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "02:06",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's belief in their own capabilities",
+      "names_mentioned": [
+        "Miles"
+      ],
+      "excerpt": "we're telling on ourselves. We can do it.",
+      "quote": "We're capable. Miles said it best, he's like we're telling on ourselves. We can do it. We're very capable, we just got to trust and believe in one another and continue to study the film and understand what works and just commit to our game plan. It's things that are a lot easier said than done, but we proved that we can do it, so that's a great sign for us.",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaime Jaquez Jr. says the team is proving they are capable of executing their game plan but must continue to trust one another and commit to the process.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Bridges"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaime Jaquez Jr. discusses the team's belief in their capabilities and references a comment made by teammate Miles Bridges.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "02:46",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's focus on ball security",
+      "names_mentioned": [],
+      "excerpt": "taking care of the ball has been a big emphasis for us in pretty much all the games.",
+      "quote": "Taking care of the ball has been a big emphasis for us in pretty much all the games, not even down the stretch, but just in general. They hit some tough ones, and I thought down the stretch, our offensive rebounding was a little bit of what hurt us in that fourth quarter. But again, we're just going to continue to work and get better.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jaime Jaquez Jr. identifies offensive rebounding as a key issue in the fourth quarter and reiterates that ball security remains a major point of emphasis for the team.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. addresses the team's ongoing focus on ball security and rebounding issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "PUKhOlonZWs",
+  "url": "https://www.youtube.com/watch?v=PUKhOlonZWs",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-05T03:43:35Z",
+  "duration_seconds": 212,
+  "processed_at": "2026-11-06T00:58:13Z",
+  "run_id": "2026-11-06T0057Z-20utc",
+  "is_one_off": false
+}

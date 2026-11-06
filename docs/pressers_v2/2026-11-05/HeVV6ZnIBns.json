@@ -1,0 +1,184 @@
+{
+  "video_title": "Hawks vs. Wizards Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:07",
+      "summary_phrase": "Quin Snyder on Dyson Daniels' defensive impact and rebounding",
+      "names_mentioned": [
+        "Dyson Daniels"
+      ],
+      "excerpt": "he finds so many ways to impact the game and we've seen that with his defense",
+      "quote": "He finds so many ways to impact the game and we've seen that with his defense. We've seen it with rebounding. Tonight, I thought the boards were something that was crucial for our team, and to get that money, you've got to work hard. I think that's the thin red line that runs through everything with that is his competitiveness.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder praised Dyson Daniels for his defensive impact and rebounding against the Wizards saying he finds so many ways to impact the game and that his competitiveness is the thin red line that runs through everything.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dyson Daniels"
+        ],
+        "teams": [
+          "ATL",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Quin Snyder discusses Dyson Daniels' defensive contributions and rebounding efforts following the game against the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:38",
+      "summary_phrase": "Quin Snyder on Dyson Daniels' poise in his first start",
+      "names_mentioned": [
+        "Dyson Daniels"
+      ],
+      "excerpt": "in spite of his age, I thought there was he was poised",
+      "quote": "Sometimes the moment feels heavy or bigger and in spite of his age, I thought there was he was poised and kind of let the game come to him and that was good to see.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder was impressed by the poise Dyson Daniels showed in his first start noting that in spite of his age he let the game come to him even when the moment felt heavy.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dyson Daniels"
+        ],
+        "teams": [
+          "ATL",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Quin Snyder comments on the poise shown by Dyson Daniels during his first start for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:17",
+      "summary_phrase": "Quin Snyder on Trae Young's pick-and-roll play",
+      "names_mentioned": [
+        "Trae Young"
+      ],
+      "excerpt": "Trae is one of the very best pick-and-roll players in the league",
+      "quote": "Trae is one of the very best pick-and-roll players in the league and there are a handful in those situations and we're going to have to be even better when they come to Atlanta next week. Anytime you guard a great player, it takes five guys and so I thought the importance of our rotations and being able to rebound out of rotations, we need everybody to be locked in.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder on preparing to face Trae Young again next week saying he is one of the very best pick and roll players in the league and it will take five guys to guard him.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the challenge of defending Trae Young in pick-and-roll situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:22",
+      "summary_phrase": "Quin Snyder on the impact of CJ McCollum and Corey Kispert",
+      "names_mentioned": [
+        "CJ McCollum",
+        "Corey Kispert"
+      ],
+      "excerpt": "CJ being able to come in and give us another a different spark",
+      "quote": "CJ, part of the reason that Kingston was relaxed and poised, it was because this morning of the way that CJ approached last night as well. When you see those two guys after shootaround working together like always, and then CJ being able to come in and give us another a different spark, but another spark, he's done that for a long time and I thought he let the game come to him. And in Corey's case, I could wax on about Corey. I hope everybody writes this because in today's NBA, there are very few players that are able to play well and then potentially not play and then being asked to play again and it takes an incredible amount of mental toughness and the care factor for his teammates is high.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder praised Corey Kispert for his mental toughness saying in today's NBA there are very few players able to play well and then potentially not play and then be asked to play again.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "CJ McCollum",
+          "Corey Kispert"
+        ],
+        "teams": [
+          "ATL",
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder praises the mental toughness and preparation of CJ McCollum and Corey Kispert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:06",
+      "summary_phrase": "Quin Snyder on Zaccharie Risacher's defensive performance against Anthony Davis",
+      "names_mentioned": [
+        "Zaccharie Risacher",
+        "Anthony Davis"
+      ],
+      "excerpt": "we're trying to forge an identity and the way that Zubi plays fits that identity",
+      "quote": "We're a young team and we're a new team and Zubi is one of those guys. So, we're trying to forge an identity and the way that Zubi plays fits that identity that we're working towards. And when I say that, the competitiveness, the toughness, the focus defensively, and for a coach, anytime you have a player that you can put out on the defensive end, it makes you comfortable. He was able to do that. He did it without fouling. He ran the court like all the plays that require energy and just playing hard, he provides that.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder says Zaccharie Risacher is helping the Hawks forge their identity noting that for a coach anytime you have a player you can put out on the defensive end it makes you comfortable.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zaccharie Risacher",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "ATL",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder evaluates Zaccharie Risacher's defensive performance and his role in building the team's identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "HeVV6ZnIBns",
+  "url": "https://www.youtube.com/watch?v=HeVV6ZnIBns",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-05T02:56:25Z",
+  "duration_seconds": 391,
+  "processed_at": "2026-11-06T00:58:19Z",
+  "run_id": "2026-11-06T0057Z-20utc",
+  "is_one_off": false
+}
