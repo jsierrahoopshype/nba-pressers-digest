@@ -1,0 +1,148 @@
+{
+  "video_title": "Devin Booker Postgame On-Court Interview after Suns win against Orlando Magic | 11-5-26",
+  "speakers_seen": [
+    "Devin Booker",
+    "Unidentified speaker",
+    "Miles Bridges"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Devin Booker",
+      "speakers": [
+        "Devin Booker",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Devin Booker on the Suns' recent performance and team mindset",
+      "names_mentioned": [],
+      "excerpt": "We came in with the right mindset. We've been turning in the right way.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Back-to-back 30 pieces for you. You have the hot hand against tonight's win in the first half. How were you able to get it going early?"
+        },
+        {
+          "speaker": "Devin Booker",
+          "text": "Just feeding off the energy from yesterday, trying to get a much-needed win. We came in with the right mindset. We've been turning in the right way. They haven't converted into wins yet, but getting a win today was special."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker says the Suns are feeding off the energy from yesterday to get a much needed win. He notes the team is turning in the right direction despite the recent struggles to convert efforts into wins.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Devin Booker discusses the team mindset and their recent win against the Orlando Magic during an on-court postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Devin Booker",
+      "speakers": [
+        "Devin Booker",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:24",
+      "summary_phrase": "Devin Booker on the Suns' progress toward a complete game",
+      "names_mentioned": [],
+      "excerpt": "I think this is the closest to a complete game that we played.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You also mentioned this team needing to put together a full 48. You guys have done it in spurts, not yet, but how close do you feel you were to that tonight?"
+        },
+        {
+          "speaker": "Devin Booker",
+          "text": "I think this is the closest to a complete game that we played. We've had bright spots in the last game, we just want to keep it for a whole entire game. So something to build on, still a lot of work to do. We have a homestand right now that we're trying to take advantage of."
+        }
+      ],
+      "start_seconds": 24,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker believes tonight was the closest the Suns have come to playing a complete 48 minute game. He says the team has bright spots to build on during their current homestand.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker reflects on the team's progress toward playing a complete 48-minute game following their victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Devin Booker",
+      "speakers": [
+        "Devin Booker",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:48",
+      "summary_phrase": "Devin Booker praises Miles Bridges' versatility and rebounding",
+      "names_mentioned": [
+        "Miles Bridges",
+        "Garland Franz"
+      ],
+      "excerpt": "Taking on the challenge of guarding Franz, hitting stepback threes, getting boards.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Speaking of bright spots, the bench was great for you guys, 37 points, but this guy right here, Miles Bridges, what was he able to give you?"
+        },
+        {
+          "speaker": "Devin Booker",
+          "text": "I mean, just the versatility. Taking on the challenge of guarding Franz, hitting stepback threes, getting boards. He got like 11, 12 boards today, so obviously a department that we've been lacking in and we've been needing it."
+        }
+      ],
+      "start_seconds": 48,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Devin Booker praised Miles Bridges for his versatility against Orlando. Booker highlighted Bridges' ability to guard Franz Wagner and his impact on the glass, noting that rebounding is a department the team has been lacking in.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Bridges",
+          "Franz Wagner"
+        ],
+        "teams": [
+          "PHX",
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Booker praises Miles Bridges for his versatile performance and rebounding effort in the win against the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Z5ZOeML7ylg",
+  "url": "https://www.youtube.com/watch?v=Z5ZOeML7ylg",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-06T05:04:31Z",
+  "duration_seconds": 76,
+  "processed_at": "2026-11-06T07:59:27Z",
+  "run_id": "2026-11-06-overnight",
+  "is_one_off": false
+}

@@ -8,6 +8,8 @@ Kenny Atkinson: "I don't know yet, **Chris**, too early to determine. You know, 
 
 [https://www.youtube.com/watch?v=REepGD9nSfQ&t=246s](https://www.youtube.com/watch?v=REepGD9nSfQ&t=246s)
 
+<small>[Clip it](presserclips://clip?v=REepGD9nSfQ&t=246&q=1) · [Send to Slack](presserclips://clip?v=REepGD9nSfQ&t=246&q=1&slack=1)</small>
+
 From: [Cavs at Thunder | Kenny Atkinson Post Game | 11.04.2026](https://www.youtube.com/watch?v=REepGD9nSfQ) · *Cleveland Cavaliers*
 
 <small>[Clip it](presserclips://clip?v=REepGD9nSfQ&t=246&q=6) · [Send to Slack](presserclips://clip?v=REepGD9nSfQ&t=246&q=6&slack=1)</small>
@@ -17,6 +19,8 @@ From: [Cavs at Thunder | Kenny Atkinson Post Game | 11.04.2026](https://www.yout
 Kenny Atkinson: "He's man, he's, hopefully it's not too bad. Came down and there was a pretty good twist though, pretty good. But he was good, just what we expected, solid defensively, makes the right plays off, play offensively. You know, when you go through some stuff like this and little hard times, guys are out, you discover things. You always discover more about your team, because you have different guys get more minutes. So, that's always the silver lining. He's definitely taking advantage of his minutes so far."
 
 [https://www.youtube.com/watch?v=REepGD9nSfQ&t=89s](https://www.youtube.com/watch?v=REepGD9nSfQ&t=89s)
+
+<small>[Clip it](presserclips://clip?v=REepGD9nSfQ&t=89&q=2) · [Send to Slack](presserclips://clip?v=REepGD9nSfQ&t=89&q=2&slack=1)</small>
 
 From: [Cavs at Thunder | Kenny Atkinson Post Game | 11.04.2026](https://www.youtube.com/watch?v=REepGD9nSfQ) · *Cleveland Cavaliers*
 
@@ -28,6 +32,8 @@ Klay Thompson: "I feel amazing. I haven't felt this good in a long time. No pain
 
 [https://www.youtube.com/watch?v=z5e5UnCk4nI&t=134s](https://www.youtube.com/watch?v=z5e5UnCk4nI&t=134s)
 
+<small>[Clip it](presserclips://clip?v=z5e5UnCk4nI&t=134&q=3) · [Send to Slack](presserclips://clip?v=z5e5UnCk4nI&t=134&q=3&slack=1)</small>
+
 From: [Klay Thompson Postgame Interview | Game Winning Three vs Clippers](https://www.youtube.com/watch?v=z5e5UnCk4nI) · *HoopsHype*
 
 <small>[Clip it](presserclips://clip?v=z5e5UnCk4nI&t=134&q=4) · [Send to Slack](presserclips://clip?v=z5e5UnCk4nI&t=134&q=4&slack=1)</small>
@@ -37,6 +43,8 @@ From: [Klay Thompson Postgame Interview | Game Winning Three vs Clippers](https:
 Klay Thompson: "We needed it for morale and momentum's sake. Now that we've won three of our last four, we can really build off something. The Warriors are playing real well, so it's going to be a really good challenge tomorrow night. It's always going to be awesome seeing all the guys I grew up with, and it's just going to be a special night."
 
 [https://www.youtube.com/watch?v=z5e5UnCk4nI&t=96s](https://www.youtube.com/watch?v=z5e5UnCk4nI&t=96s)
+
+<small>[Clip it](presserclips://clip?v=z5e5UnCk4nI&t=96&q=4) · [Send to Slack](presserclips://clip?v=z5e5UnCk4nI&t=96&q=4&slack=1)</small>
 
 From: [Klay Thompson Postgame Interview | Game Winning Three vs Clippers](https://www.youtube.com/watch?v=z5e5UnCk4nI) · *HoopsHype*
 

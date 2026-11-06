@@ -1,0 +1,307 @@
+{
+  "video_title": "Devin Booker Postgame Media Availability | Phoenix Suns | 11-5-26",
+  "speakers_seen": [
+    "Devin Booker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Devin Booker",
+      "timestamp": "00:21",
+      "summary_phrase": "Devin Booker on the impact of the starting lineup's play",
+      "names_mentioned": [],
+      "excerpt": "it keeps the flow of the offense definitely going, the ability to switch on the defense end",
+      "quote": "It helps a lot. It keeps the flow of the offense definitely going, the ability to switch on the defense end. Obviously we are giving up some size, so we all got to do a little bit more and help them rebound. But overall, it's a different pace. I'm not saying one's better than the other, but it's definitely different. You can feel it when you're out there.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker on the Suns new look starting lineup: It keeps the flow of the offense going and the ability to switch on the defensive end. It is a different pace.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Devin Booker discusses the impact of the starting lineup's play on the team's offensive flow and defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Devin Booker",
+      "timestamp": "00:56",
+      "summary_phrase": "Devin Booker on the team's ability to find open shots",
+      "names_mentioned": [],
+      "excerpt": "the ability to find people on the backside and get open threes in that way",
+      "quote": "Great screening angles, forcing the team to go over. I got two early threes to start, and then that just opens everything up the rest of the way. The ability to find people on the backside and get open threes in that way. It's trying to take what the defense gives you, and when you're being guarded like I do, actions have to be quick, they have to be on point.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker says when he is being guarded aggressively, actions have to be quick and on point to find open teammates.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker explains how his early three-pointers and screening angles help create open shots for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Devin Booker",
+      "timestamp": "01:40",
+      "summary_phrase": "Devin Booker on the team's effort to put together a full game",
+      "names_mentioned": [],
+      "excerpt": "tonight was the closest I'd say we put a full 48 minutes together",
+      "quote": "Our whole thing is putting a full game together. I feel like we've lost every way possible so far, from being blown out to giving up an early lead to some late-game problems. Tonight was the closest I'd say we put a full 48 minutes together, so something to build on, something to learn from. There's obviously a lot of season left, so keeping the morale high, keeping the belief high, and continue to get better.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Devin Booker says tonight was the closest the Suns have come to putting a full 48 minutes together after a rough start to the season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker reflects on the team's effort to maintain consistency and play a complete 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Devin Booker",
+      "timestamp": "02:29",
+      "summary_phrase": "Devin Booker on the importance of focus and attention to detail",
+      "names_mentioned": [],
+      "excerpt": "the work that you put in, the focus, the details matter",
+      "quote": "It shows that the work that you put in, the focus, the details matter. Any type of slippage can compound or domino effect into something worse and we've seen that. It's not going to be a perfect game every time, but the quicker we can get out of our little funk, whether it's offensive, defensively, and they go together, they affect each other, the quicker we can get out those funks and move on to the next play and clean stuff up, the better.",
+      "text_blocks": [],
+      "start_seconds": 149,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker on the Suns early season struggles: Any type of slippage can compound or domino effect into something worse.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker emphasizes the importance of focus and attention to detail to avoid negative momentum during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Devin Booker",
+      "timestamp": "03:13",
+      "summary_phrase": "Devin Booker on his aggressive play and finding teammates",
+      "names_mentioned": [],
+      "excerpt": "the more aggressive I am, the easier the reads are on the backside",
+      "quote": "It's been a pretty good flow. Still just trying to remain aggressive, still that balance of scoring the ball and getting other people involved. I feel like I've learned that the more aggressive I am, the easier the reads are on the backside and applying that pressure to the defense is forcing them to switch or forcing them to double, opens up easier shots for the rest of the team.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker on his playmaking approach: The more aggressive I am, the easier the reads are on the backside and it opens up easier shots for the rest of the team.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker describes his approach to balancing aggressive scoring with playmaking to create opportunities for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Devin Booker",
+      "timestamp": "03:53",
+      "summary_phrase": "Devin Booker on Orlando's defensive strategy",
+      "names_mentioned": [
+        "Dylan",
+        "Miles"
+      ],
+      "excerpt": "their defense was up like a corral blitz, like a stab",
+      "quote": "They had a few miscommunications early for me to get those first two off, but overall their defense was up like a corral blitz, like a stab, which allowed I think Dylan and Miles to get some threes early with their low man pulled in early and also rolling. Every night is going to be different, so the quicker I can recognize it and still remain aggressive, I think the better.",
+      "text_blocks": [],
+      "start_seconds": 233,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker breaks down the Orlando defense: They had a few miscommunications early and their defensive pressure allowed teammates to get open threes.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dylan Windler",
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Devin Booker analyzes the defensive strategy used by the Orlando Magic and how it created opportunities for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Devin Booker",
+      "timestamp": "04:43",
+      "summary_phrase": "Devin Booker on his role as a playmaker",
+      "names_mentioned": [
+        "Miles"
+      ],
+      "excerpt": "I'm fine with being the hockey assist too, the goal is just to get the best available shot",
+      "quote": "I think the really good defensive teams, it might be the extra pass, it might be to Miles and then they rotate and then he makes it one more. I'm fine with being the hockey assist too, the goal is just to get the best available shot down, and sometimes that's applying the pressure and maybe taking a tough one. Sometimes I might miss that, but it keeps my rhythm going when I haven't touched the ball in a minute.",
+      "text_blocks": [],
+      "start_seconds": 283,
+      "end_seconds": 314,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Devin Booker is embracing his role as a playmaker: I am fine with being the hockey assist too, the goal is just to get the best available shot down.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker discusses his willingness to act as a secondary playmaker to ensure the team gets the best available shot.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Devin Booker",
+      "timestamp": "05:47",
+      "summary_phrase": "Devin Booker on the team's defensive identity",
+      "names_mentioned": [],
+      "excerpt": "turn teams over, pick up the intensity defensively",
+      "quote": "That's kind of was our motto last year is turn teams over, pick up the intensity defensively, and we created a reputation and we haven't had that early on in the season. Coach has been preaching that to us. We've definitely upped the pressure and we've turned teams over and tonight we were able to get out in transition and get easy ones.",
+      "text_blocks": [],
+      "start_seconds": 347,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Devin Booker says the Suns are trying to reclaim their defensive identity: We have definitely upped the pressure and we have turned teams over.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker explains the team's renewed focus on defensive intensity and transition play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Devin Booker",
+      "timestamp": "06:27",
+      "summary_phrase": "Devin Booker on the leadership of his teammates",
+      "names_mentioned": [],
+      "excerpt": "he's a general out there, he demands respect, he demands attention",
+      "quote": "He's a champ for a reason. He's a general out there, he demands respect, he demands attention. If teams let him loose, they know what he can do to them. And defensively, he ups the pressure and he always makes the right plays and has a great feel for the game. So I love being out there with him.",
+      "text_blocks": [],
+      "start_seconds": 387,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Devin Booker praises his teammate: He is a champ for a reason. He is a general out there, he demands respect, he demands attention.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bradley Beal"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Booker praises the leadership and basketball IQ of his teammate Bradley Beal.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Devin Booker",
+      "timestamp": "07:23",
+      "summary_phrase": "Devin Booker on the challenge of playing in a tough conference",
+      "names_mentioned": [],
+      "excerpt": "it's a tough conference, it's always been since I've been in the league",
+      "quote": "Every night's different. I know Oklahoma City, for example, any ball-dominant guard, they do a good job of limiting the third touches and force you to throw it to your teammates and they might give them wide-open shots sometimes and they're fine with living with that. It's a tough conference, it's always been since I've been in the league and you got to love it and embrace the journey.",
+      "text_blocks": [],
+      "start_seconds": 443,
+      "end_seconds": 470,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Devin Booker on the competitive nature of the Western Conference: It is a tough conference, it has always been since I have been in the league and you got to love it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Devin Booker comments on the difficulty of playing against teams like Oklahoma City in a competitive conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "7Zzx4SV_hXI",
+  "url": "https://www.youtube.com/watch?v=7Zzx4SV_hXI",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-06T05:43:34Z",
+  "duration_seconds": 507,
+  "processed_at": "2026-11-06T07:59:24Z",
+  "run_id": "2026-11-06-overnight",
+  "is_one_off": false
+}

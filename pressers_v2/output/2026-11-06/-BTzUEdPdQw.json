@@ -1,0 +1,162 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. PHOENIX SUNS | COACH SWEENEY & WENDELL CARTER JR.",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Wendell Carter Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:00",
+      "summary_phrase": "Coach Sweeney on Orlando's high turnover count against Phoenix",
+      "names_mentioned": [],
+      "excerpt": "Anytime you have 25 turnovers, it's not just one thing per se, but a number of them.",
+      "quote": "We had them in a lot of different ways. I think the illegal screening, I think we had four illegal screens. Some decisions were a little bit careless with the basketball. Some plays I thought we tried to make the right play just didn't connect the dots. So a number of them in a number of different areas. Anytime you have 25 turnovers, it's not just one thing per se, but a number of them.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Sweeney on the Magic's 25 turnovers against Phoenix: We had some illegal screens and some decisions were a little bit careless with the basketball. Anytime you have 25 turnovers it is not just one thing per se.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the high number of turnovers committed by the Orlando Magic during their game against the Phoenix Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:45",
+      "summary_phrase": "Coach Sweeney on Devin Booker's impact and Phoenix's shooting",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "Devin Booker had it going early especially at 23 in the first half.",
+      "quote": "Devin Booker had it going early especially at 23 in the first half. We did a much better job with him in the second half and I think it showed in the fourth quarter more than anything. But he got it going early and then they shot the ball pretty well just in general. Anytime you're going 50 from three, it makes it tough.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Coach Sweeney on Devin Booker and the Suns shooting 50 percent from three: We did a much better job with him in the second half. Anytime you are going 50 from three it makes it tough.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "ORL",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney analyzes the defensive effort against Devin Booker and the Phoenix Suns' overall shooting performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Wendell Carter Jr.",
+      "timestamp": "02:03",
+      "summary_phrase": "Wendell Carter Jr. on the team's poor decision-making and turnovers",
+      "names_mentioned": [],
+      "excerpt": "I think it's just decision-making. I think we have to do a better job of when we get in certain positions on the court.",
+      "quote": "I think it's just decision-making. I think we have to do a better job of when we get in certain positions on the court, making better decisions. And the guy receiving the ball has to be in a better spot. It's a two-fold thing. It's a connection thing. Something that we just have to be better at top to bottom.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Wendell Carter Jr. says the Magic's turnover issues come down to decision making and connection: It is a two fold thing. It is a connection thing. Something that we just have to be better at top to bottom.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Wendell Carter Jr. reflects on the team's poor decision-making and lack of connection leading to turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Wendell Carter Jr.",
+      "timestamp": "02:34",
+      "summary_phrase": "Wendell Carter Jr. on the importance of team communication",
+      "names_mentioned": [],
+      "excerpt": "It's a five-man sport, five guys are out there, and when you're not connected, it's very glaring.",
+      "quote": "It's super important. It's a five-man sport, five guys are out there, and when you're not connected, it's very glaring. We have to do a better job and I pride myself on a lot of it. But as a whole, we just got to do a better job of communicating early and receiving that. It's a two-sided thing, not just talking but also receiving information and making sure you're in the right spots.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Wendell Carter Jr. emphasizes the need for better communication on the floor: It is a five man sport and when you are not connected it is very glaring. We have to do a better job of communicating early and receiving that.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Wendell Carter Jr. emphasizes the necessity of better communication and connectivity among the five players on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Wendell Carter Jr.",
+      "timestamp": "03:25",
+      "summary_phrase": "Wendell Carter Jr. on why Phoenix was difficult to stop",
+      "names_mentioned": [],
+      "excerpt": "When you get the ball up 25 times, anybody has a chance to beat you.",
+      "quote": "Honestly, we gave them the ball. I don't necessarily think they did anything insane, anything crazy that was hard to guard. I think when you get the ball up 25 times, anybody has a chance to beat you. I think we had to do a better job of that. We missed a lot of free throws also, which goes into that. But when you turn the ball over that many times, it's just hard to win.",
+      "text_blocks": [],
+      "start_seconds": 205,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Wendell Carter Jr. on the loss to Phoenix: I do not think they did anything insane that was hard to guard. When you give the ball up 25 times anybody has a chance to beat you.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Wendell Carter Jr. explains that the team's turnovers and missed free throws were the primary reasons for the loss to Phoenix.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "-BTzUEdPdQw",
+  "url": "https://www.youtube.com/watch?v=-BTzUEdPdQw",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-06T05:29:29Z",
+  "duration_seconds": 301,
+  "processed_at": "2026-11-06T07:59:20Z",
+  "run_id": "2026-11-06-overnight",
+  "is_one_off": false
+}

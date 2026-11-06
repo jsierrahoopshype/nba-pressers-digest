@@ -1,0 +1,243 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability | Phoenix Suns | 11-5-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:18",
+      "summary_phrase": "Jordan Ott on the decision to start a new lineup",
+      "names_mentioned": [],
+      "excerpt": "I think a little bit of a change up. We need 48 minutes of great center play.",
+      "quote": "I think a little bit of a change up. We need 48 minutes of great center play. I thought moving man-man back, maybe more in his comfort zone. He is getting to see a lot of Jokic, Sengun, Steph, and then last night Danny and Dame. So it is a lot going on with those first units. Just making an adjustment, just to change things up, just to try to figure out how we get 48 minutes of great center play.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the Suns are adjusting their starting lineup to find more consistency at the center position. The goal is to get 48 minutes of great play from the spot to help manage the tough matchups they have been facing.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jordan Ott explains the decision to adjust the starting lineup to improve center play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:07",
+      "summary_phrase": "Jordan Ott on the offensive value of his starting center",
+      "names_mentioned": [],
+      "excerpt": "That is his offensive superpower, his ability to connect pieces.",
+      "quote": "That is his offensive superpower, his ability to connect pieces. You can always throw it to him as an outlet, great passer, always wants to do what is best for the team. And again, he is an elite defender, and that is what we are going to keep trying to drag out of him.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott describes his starting center as an elite defender and a connector on offense. He says the team is focused on continuing to drag that high level of play out of him consistently.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the offensive and defensive strengths of his starting center.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:35",
+      "summary_phrase": "Jordan Ott on the rhythm and resilience of his player",
+      "names_mentioned": [],
+      "excerpt": "I think he is in a great rhythm. Credit to him for playing tonight.",
+      "quote": "I think he is in a great rhythm. I think credit to him for playing tonight. I think after that hard fall last night, I was surprised he was even seeing in the timeout in that fourth quarter last night. Then for him to come back, it is hard enough on back-to-backs. We all know your body does not feel perfect after a fall like that, but we go as he goes. He is in a great place right now. We have to keep him there and we know how important that is for all of us.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott was surprised his player was even available tonight after a hard fall last night. He praised the players resilience, noting that we go as he goes and he is in a great place right now.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jordan Ott praises a player for playing through a hard fall sustained in the previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:17",
+      "summary_phrase": "Jordan Ott on defensive improvements and limiting opponent drives",
+      "names_mentioned": [],
+      "excerpt": "Our activity was in a good place. 14 steals.",
+      "quote": "Our activity was in a good place. 14 steals. It always comes down to how you guard their drives. This is an elite driving team. It just looks a little different than last night. I thought we were able to contain the ball much better and then keep them out of our paint, which then keeps you out of closeouts, which then hopefully puts you in a better spot to defense a rebound. Obviously we did not do that in the first half as well. There will be some things that definitely clean up, but that was a step in the right direction.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jordan Ott says the Suns defensive activity was a step in the right direction tonight. He emphasized that containing the ball and keeping opponents out of the paint is the key to their defensive success.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott evaluates the team's defensive performance and their ability to limit opponent drives.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:06",
+      "summary_phrase": "Jordan Ott on the importance of process and results",
+      "names_mentioned": [],
+      "excerpt": "You can talk process, process, process and we do believe in there are steps to take.",
+      "quote": "You can talk process, process, process and we do believe in there are steps to take, so it feels right and looks right both. But you do want a result. The goal is to win the game. We feel steadily improving. Even tonight, it was not a full 48, but we are getting closer. Defensively is where we got to hang our hat. We know it helped us last year. This is a defense-minded group. We have to continue to hammer some of those things that we know we don't have size across the board. So we know we got to guard the ball and we have to rebound. That is going to be two things that we are going to harp on all season.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott says the Suns are a defense minded group that needs to hang their hat on that end of the floor. He noted that because they lack size across the board, rebounding and guarding the ball will be their season long focus.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the team's defensive identity and the importance of rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:52",
+      "summary_phrase": "Jordan Ott on ball movement and transition offense",
+      "names_mentioned": [],
+      "excerpt": "The ball moves easier when you get play out of transition or playing off a defensive rebound.",
+      "quote": "The ball moves easier when you get play out of transition or playing off a defensive rebound. We know that. But overall, even though our defense has struggled, our offense has been in a pretty good place. It will only get better when we get stops.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott believes the Suns offense will only get better once they start getting more stops. He noted that the ball moves much easier when the team is playing out of transition.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains how defensive stops help improve the team's transition offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:39",
+      "summary_phrase": "Jordan Ott on Miles' rebounding and physicality",
+      "names_mentioned": [],
+      "excerpt": "We are going to need every ounce of that defensive rebounding.",
+      "quote": "We are going to need every ounce of that defensive rebounding. He does have great size. He has a physicality he brings. He is a fearlessness up in the air to go grab it with two hands. I think that is at times an underrated skill to go up and get it with two hands and really reckless abandon with your body. And then the way everyone is crashing right now, everyone, it is one-on-one a lot of times. Then you have to not only hit then to go get it above the rim. We are going to need every piece of everyone to rebound. And love it when he gets the rebound because it does start our break a little bit different.",
+      "text_blocks": [],
+      "start_seconds": 279,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jordan Ott is calling for a total team effort on the glass. He praised the physicality and fearlessness of his players when going up to grab rebounds with two hands.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott highlights the rebounding skills and physicality brought by Miles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:38",
+      "summary_phrase": "Jordan Ott on team spirit and communication",
+      "names_mentioned": [],
+      "excerpt": "I think our spirit was really good tonight.",
+      "quote": "I think our spirit was really good tonight. It is obviously easier when you are doing it from ahead. We have to do it for 48 minutes. There is going to be ups and downs of a season and ups and downs of a game, ups and downs of a quarter. We understand that. This, you know, we have a lot of new players, but it is a new season. So relationships have to continue to get better. Our communication has to continue to get better. We can't take anything for granted that we played on the same team last year. Your communication can always get better because roles slightly change, little nuances, contracts change. There is always some new piece to it all.",
+      "text_blocks": [],
+      "start_seconds": 338,
+      "end_seconds": 386,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jordan Ott says the Suns are still working on building team chemistry. He noted that even with returning players, communication must improve because roles and nuances change every season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Jordan Ott emphasizes the need for better communication and team chemistry throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "B3fN-KjbM0c",
+  "url": "https://www.youtube.com/watch?v=B3fN-KjbM0c",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-06T05:45:45Z",
+  "duration_seconds": 403,
+  "processed_at": "2026-11-06T07:59:25Z",
+  "run_id": "2026-11-06-overnight",
+  "is_one_off": false
+}
