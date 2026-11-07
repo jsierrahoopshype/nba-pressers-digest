@@ -319,6 +319,35 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(len(headers), 2 * pe.TOP_QUOTES_PER_VIDEO)   # 10% of 42 = 5, capped at 2 per video
         self.assertEqual(pe.top_quotes_block([]), [])
 
+    def test_best_of_the_best_puts_players_first(self):
+        def q(rank, speaker, news, social=None, role=None):
+            d = {"rank": rank, "speaker": speaker, "timestamp": f"00:{rank:02d}", "quote": f"q{rank}",
+                 "summary_phrase": "", "excerpt": "", "names_mentioned": [], "news_score": news}
+            if social is not None:
+                d["social_score"] = social
+            if role:
+                d["structured"] = {"speaker_role": role}
+            return d
+        vids = {
+            "AAAAAAAAAA1": [q(1, "Kenny Atkinson", 7), q(2, "Kenny Atkinson", 6)],          # coach tactics: out
+            "AAAAAAAAAA2": [q(1, "Charles Lee", 9, role="coach")],                         # coach injury news: in
+            "AAAAAAAAAA3": [q(1, "Alijah Martin", 3, social=9, role="player")],            # fun player line: in
+            "AAAAAAAAAA4": [q(1, "Christian Braun", 2, social=8)],
+            "AAAAAAAAAA5": [q(r, "Player B", 4) for r in range(1, 21)],
+        }
+        with TempOutput() as out:
+            day = out / "2026-11-07"
+            day.mkdir(parents=True)
+            for vid, quotes in vids.items():
+                (day / f"{vid}.json").write_text(json.dumps({"video_id": vid, "video_title": vid,
+                                                             "channel_team": "T", "quotes": quotes}))
+                (day / f"{vid}.md").write_text("x")
+            block = "\n".join(pe.top_quotes_block([day / f"{v}.md" for v in vids]))
+        self.assertNotIn("Kenny Atkinson", block)
+        self.assertIn("Charles Lee", block)
+        self.assertLess(block.index("Alijah Martin"), block.index("Charles Lee"))
+        self.assertIn("Christian Braun", block)
+
     def test_legacy_output_migrated_to_ytq_format(self):
         legacy = {"video_id": "AAAAAAAAAA1", "video_title": "Joe Mazzulla Postgame", "channel_team": "Boston Celtics",
                   "published": "2026-09-30T10:00:00Z", "speakers_seen": ["Joe Mazzulla"],

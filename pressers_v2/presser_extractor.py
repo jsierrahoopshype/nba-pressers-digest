@@ -609,11 +609,12 @@ CLIP_FIELDS_PROMPT = """You are given quotes already extracted from an NBA video
 - "rank": the same rank you were given.
 - "speaker_confidence": "named" only if the speaker was identified by name in the video or in the video title (the extractor only names speakers it saw identified; "speakers_seen" lists them). "inferred" if the speaker is "Unidentified speaker", empty, or the name looks like a guess.
 - "news_score": integer 1-10 for how newsworthy the quote is for an NBA news site. 9-10: injury news, trade or contract news, a public complaint or major admission. 6-8: specific role, rotation or strategy news, a strong opinion on a named player or team. 3-5: interesting but soft. 1-2: generic. Be strict; most quotes are 3-6.
+- "social_score": integer 1-10 for how much NBA fans would enjoy, share or react to the quote on social media, separate from news value. 9-10: funny, candid or personal moments (a player opening up about family, a self-deprecating joke, a surprising admission, a memorable one-liner, trash talk, an unusual story). 6-8: a vivid player opinion on a teammate or rival, a revealing behind-the-scenes detail. 3-5: ordinary but pleasant. 1-2: X's and O's, tactics, rotation talk, rebounding/turnover math, cliches ("one game at a time", "credit to them"). Be strict: most coach tactics answers are 1-3.
 - "social_post": a draft post for X / Bluesky, at most 240 characters. ONE idea; lead with the news, punchy and conversational; may include a short verbatim phrase in quotation marks. NO hashtags, NO emojis, NO em-dashes or en-dashes, no "BREAKING", nothing the speaker did not say.
 
 Also return the video's "content_type": "presser" for a press conference, media availability, media day session, pregame/postgame or shootaround interview; "podcast" for a podcast, talk show, reaction show or hosted livestream/broadcast.
 
-Return ONLY JSON: {"content_type": "presser", "quotes": [{"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_post": "..."}]}"""
+Return ONLY JSON: {"content_type": "presser", "quotes": [{"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_score": 4, "social_post": "..."}]}"""
 
 
 def derive_clip_fields(client, data: dict, team: str) -> dict:
@@ -813,6 +814,7 @@ def apply_clip_fields(data: dict, derived: dict, team: str, duration_secs: int) 
             "end_seconds": end,
             "speaker_confidence": conf,
             "news_score": _news_score(d.get("news_score")),
+            "social_score": _news_score(d.get("social_score")),
             "social_post": clean_social_post(" ".join(str(d.get("social_post") or "").split())),
             "team": team,
         })
@@ -972,6 +974,32 @@ def videos_with_run_id(day_dir: Path, run_id: str) -> list:
 TOP_QUOTES_SHARE = 0.10
 TOP_QUOTES_PER_VIDEO = 2          # one long presser can't fill the whole block
 TOP_QUOTES_HEADER = "# Best of the best"
+# Jorge, Nov 7 2026: players first. A coach or exec only makes the block with
+# real news (injury, trade, contract: news_score >= 8), and never fills more
+# than a quarter of it. Fun player moments rank by social_score.
+TOP_COACH_MIN_NEWS = 8
+TOP_COACH_MAX_SHARE = 0.25
+_HEAD_COACHES = None
+
+
+def _head_coaches() -> set:
+    """Head coach names from teams_2026_27.json (fallback when a quote has
+    no structured speaker_role)."""
+    global _HEAD_COACHES
+    if _HEAD_COACHES is None:
+        try:
+            teams = json.loads((Path(__file__).resolve().parent / "teams_2026_27.json").read_text(encoding="utf-8"))["teams"]
+            _HEAD_COACHES = {" ".join(_name_tokens(t.get("head_coach") or "")) for t in teams.values()} - {""}
+        except (OSError, ValueError, KeyError, AttributeError):
+            _HEAD_COACHES = set()
+    return _HEAD_COACHES
+
+
+def _is_coach_or_exec(q: dict) -> bool:
+    role = (q.get("structured") or {}).get("speaker_role") or ""
+    if role:
+        return role in ("coach", "exec")
+    return " ".join(_name_tokens(q.get("speaker") or "")) in _head_coaches()
 
 
 def top_quotes_block(md_paths: list) -> list:
@@ -993,25 +1021,34 @@ def top_quotes_block(md_paths: list) -> list:
         for q in data.get("quotes") or []:
             total += 1
             order += 1
-            score = _news_score(q.get("news_score"))
-            if score is None or is_unidentified(q.get("speaker") or ""):
+            news = _news_score(q.get("news_score"))
+            if news is None or is_unidentified(q.get("speaker") or ""):
                 continue
+            coach = _is_coach_or_exec(q)
+            if coach and news < TOP_COACH_MIN_NEWS:
+                continue
+            social = _news_score(q.get("social_score")) or 0   # older videos have none
+            score = max(news, social)
             best = bool((q.get("structured") or {}).get("best"))
-            pool.append((-score, not best, order, vid, data, q))
+            pool.append((-score, coach, not best, order, vid, data, q))
     if not pool or not total:
         return []
     want = max(1, math.ceil(total * TOP_QUOTES_SHARE - 1e-9))  # 10% of all quotes, rounded up
-    picked, per_video = [], {}
-    for item in sorted(pool, key=lambda t: t[:3]):
-        vid = item[3]
+    max_coach = max(1, math.floor(want * TOP_COACH_MAX_SHARE))
+    picked, per_video, coaches = [], {}, 0
+    for item in sorted(pool, key=lambda t: t[:4]):
+        vid, coach = item[4], item[1]
         if per_video.get(vid, 0) >= TOP_QUOTES_PER_VIDEO:
             continue
+        if coach and coaches >= max_coach:
+            continue
         per_video[vid] = per_video.get(vid, 0) + 1
+        coaches += coach
         picked.append(item)
         if len(picked) >= want:
             break
     lines = [TOP_QUOTES_HEADER, ""]
-    for n, (_, _, _, vid, data, q) in enumerate(picked, 1):
+    for n, (_, _, _, _, vid, data, q) in enumerate(picked, 1):
         one = dict(q, rank=n)  # shown as 1..N here; the clip link keeps the original number
         md = ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=vid), "", pages_safe(
             {"video_title": data.get("video_title") or "", "quotes": [one]}))
@@ -1112,7 +1149,7 @@ def _legacy_to_ytq(q: dict) -> dict:
         out["quote"] = ""
         out["text_blocks"] = blocks
         out["speakers"] = [b["speaker"] for b in blocks]
-    for key in ("start_seconds", "end_seconds", "speaker_confidence", "news_score", "social_post", "team"):
+    for key in ("start_seconds", "end_seconds", "speaker_confidence", "news_score", "social_score", "social_post", "team"):
         if key in q:
             out[key] = q[key]
     return out
