@@ -1002,7 +1002,29 @@ def _is_coach_or_exec(q: dict) -> bool:
     return " ".join(_name_tokens(q.get("speaker") or "")) in _head_coaches()
 
 
-def top_quotes_block(md_paths: list) -> list:
+TOP_SECTION_HEADERS = {"presser": TOP_QUOTES_HEADER,
+                       "podcast": "# Best of the best: podcasts & shows",
+                       "oneoff": "# Best of the best: one-offs"}
+TOP_SECTION_MIN = {"presser": 1, "podcast": 2, "oneoff": 2}
+
+
+def top_quotes_blocks(md_paths: list) -> list:
+    """One "Best of the best" block per section, in section order: press
+    conferences (players first, as before), then podcasts & shows, then the
+    ad hoc one-offs. A section with no scored quotes gets no block."""
+    by_type = {ctype: [] for ctype in CONTENT_TYPES}
+    for md_path in md_paths:
+        by_type[_video_type_for_md(md_path)].append(md_path)
+    lines = []
+    for ctype in CONTENT_TYPES:
+        if by_type[ctype]:
+            lines.extend(top_quotes_block(by_type[ctype], header=TOP_SECTION_HEADERS[ctype],
+                                          coach_rule=(ctype == "presser"), min_quotes=TOP_SECTION_MIN[ctype]))
+    return lines
+
+
+def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule: bool = True,
+                     min_quotes: int = 1) -> list:
     """Markdown lines for the "Best of the best" block ([] when nothing is
     scored). Ranking: news_score, then the structured "best" flag, then the
     digest's own order. Unidentified speakers (usually reporter questions)
@@ -1025,7 +1047,7 @@ def top_quotes_block(md_paths: list) -> list:
             if news is None or is_unidentified(q.get("speaker") or ""):
                 continue
             coach = _is_coach_or_exec(q)
-            if coach and news < TOP_COACH_MIN_NEWS:
+            if coach_rule and coach and news < TOP_COACH_MIN_NEWS:
                 continue
             social = _news_score(q.get("social_score")) or 0   # older videos have none
             score = max(news, social)
@@ -1033,8 +1055,8 @@ def top_quotes_block(md_paths: list) -> list:
             pool.append((-score, coach, not best, order, vid, data, q))
     if not pool or not total:
         return []
-    want = max(1, math.ceil(total * TOP_QUOTES_SHARE - 1e-9))  # 10% of all quotes, rounded up
-    max_coach = max(1, math.floor(want * TOP_COACH_MAX_SHARE))
+    want = max(min_quotes, math.ceil(total * TOP_QUOTES_SHARE - 1e-9))  # 10% of all quotes, rounded up
+    max_coach = max(1, math.floor(want * TOP_COACH_MAX_SHARE)) if coach_rule else want
     picked, per_video, coaches = [], {}, 0
     for item in sorted(pool, key=lambda t: t[:4]):
         vid, coach = item[4], item[1]
@@ -1047,7 +1069,7 @@ def top_quotes_block(md_paths: list) -> list:
         picked.append(item)
         if len(picked) >= want:
             break
-    lines = [TOP_QUOTES_HEADER, ""]
+    lines = [header, ""]
     for n, (_, _, _, _, vid, data, q) in enumerate(picked, 1):
         one = dict(q, rank=n)  # shown as 1..N here; the clip link keeps the original number
         md = ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=vid), "", pages_safe(
@@ -1063,6 +1085,105 @@ def top_quotes_block(md_paths: list) -> list:
         lines.extend(["", clip_link_line(vid, secs, q.get("rank") or n), ""])
     lines.extend(["---", ""])
     return lines
+
+
+# --------------------------------------------------------------------------- #
+# Full sessions vs single-player videos (Jorge, Nov 7 2026)
+# --------------------------------------------------------------------------- #
+# Teams often post a "Full Media Availability" plus one video per speaker.
+# The full session's title names nobody, so Gemini guesses names there and can
+# get them wrong (Nov 6: Alijah Martin's answers labeled "Davion Mitchell").
+# The single-player video's title names its speaker, so when the same answer
+# shows up in both, the single-player video's name wins.
+SPLIT_SPEAKER_MIN_WORDS = 8
+SPLIT_SPEAKER_MIN_SIMILARITY = 0.6
+
+
+def _quote_words(q: dict) -> list:
+    return _name_tokens(ytq._canonical_quote_text(q))
+
+
+def _single_speaker(data: dict) -> str:
+    """The one speaker a video's title names ('' when it names none or
+    several, or its quotes come from more than that one person)."""
+    title = data.get("video_title") or ""
+    names = {q.get("speaker") or "" for q in data.get("quotes") or []} | set(data.get("speakers_seen") or [])
+    named = {n for n in names if n and not is_unidentified(n) and title_names_speaker(title, n)}
+    if len(named) != 1:
+        return ""
+    name = next(iter(named))
+    spoken = {q.get("speaker") for q in data.get("quotes") or [] if not is_unidentified(q.get("speaker") or "")}
+    return name if spoken <= {name} else ""
+
+
+def reconcile_split_speakers(dates: list) -> list:
+    """Fix speakers in full-session videos from the same team's
+    single-player videos (same day or the day either side). Rewrites the
+    changed videos' .json/.md and returns the dates it touched."""
+    import difflib
+    days = set()
+    for d in dates:
+        try:
+            base = datetime.strptime(d, "%Y-%m-%d")
+        except ValueError:
+            continue
+        days.update((base + timedelta(days=k)).strftime("%Y-%m-%d") for k in (-1, 0, 1))
+    videos = []   # (path, data)
+    for d in sorted(days):
+        day_dir = OUTPUT_DIR / d
+        if not day_dir.is_dir():
+            continue
+        for js in sorted(day_dir.glob("*.json")):
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            if isinstance(data, dict) and data.get("quotes"):
+                videos.append((js, data))
+    singles = []  # (team, speaker, video_id, quote words)
+    for js, data in videos:
+        who = _single_speaker(data)
+        if who:
+            for q in data["quotes"]:
+                words = _quote_words(q)
+                if len(words) >= SPLIT_SPEAKER_MIN_WORDS:
+                    singles.append((data.get("channel_team") or "", who, js.stem, words))
+    touched = set()
+    for js, data in videos:
+        team, title, changed = data.get("channel_team") or "", data.get("video_title") or "", False
+        for q in data["quotes"]:
+            old = q.get("speaker") or ""
+            if old and not is_unidentified(old) and title_names_speaker(title, old):
+                continue   # this video's own title names the speaker: trust it
+            words = _quote_words(q)
+            if len(words) < SPLIT_SPEAKER_MIN_WORDS:
+                continue
+            best, best_ratio = "", SPLIT_SPEAKER_MIN_SIMILARITY
+            for s_team, who, vid, s_words in singles:
+                if s_team != team or vid == js.stem or who == old:
+                    continue
+                ratio = difflib.SequenceMatcher(None, words, s_words, autojunk=False).ratio()
+                if ratio >= best_ratio:
+                    best, best_ratio = who, ratio
+            if not best:
+                continue
+            q["speaker"] = best
+            if old:
+                q["summary_phrase"] = (q.get("summary_phrase") or "").replace(old, best)
+                if isinstance(q.get("speakers"), list):
+                    q["speakers"] = [best if x == old else x for x in q["speakers"]]
+            q["speaker_confidence"] = "named"
+            q["speaker_source"] = "single-speaker video"
+            changed = True
+            log(f"  [speakers] {js.stem} quote {q.get('rank')}: {old or '?'} -> {best} (matched single-speaker video)")
+        if changed:
+            used = {q.get("speaker") for q in data["quotes"]}
+            seen = [n for n in (data.get("speakers_seen") or []) if n in used]
+            data["speakers_seen"] = seen + sorted(n for n in used if n and n not in seen and not is_unidentified(n))
+            atomic_write(js, json.dumps(data, ensure_ascii=False, indent=2))
+            atomic_write(js.with_suffix(".md"), render_markdown(js.stem, team, data))
+            touched.add(js.parent.name)
+    return sorted(touched)
 
 
 def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
@@ -1093,7 +1214,7 @@ def write_digest_file(date_str: str, output_filename: str, video_ids: list | Non
     if not any(sections.values()):
         return None
     parts = [f"# NBA Pressers — {date_str}", ""]
-    parts.extend(top_quotes_block(included))  # [] when nothing is scored
+    parts.extend(top_quotes_blocks(included))  # one block per section; [] when nothing is scored
     first_section = True
     for ctype in CONTENT_TYPES:
         videos = sections[ctype]
@@ -1590,6 +1711,15 @@ def main() -> int:
         f"{_stats['text_calls']} text-only (quote splitter + clip fields)")
 
     # Step 5: digests, index, clip manifest.
+    run_dates = sorted({it["date"] for it in processed_items if it.get("date")})
+    try:
+        fixed_dates = reconcile_split_speakers(run_dates)
+    except Exception as e:   # never let the speaker check block the digest
+        log(f"  [speakers] reconcile failed ({type(e).__name__}: {e}); digests use the stored names")
+        fixed_dates = []
+    for d in fixed_dates:
+        if d not in run_dates:
+            write_digest_file(d, "digest.md", video_ids=None)
     per_run_filename = f"digest-{run_slot}.md"
     digest_dates = []
     for pd in sorted({it["date"] for it in processed_items if it.get("date")}):
