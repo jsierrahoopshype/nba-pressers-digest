@@ -8,6 +8,8 @@ Charles Lee: "I saw him start to limp a couple plays and he was good, and then h
 
 [https://www.youtube.com/watch?v=5Z2Cg_NcwFM&t=52s](https://www.youtube.com/watch?v=5Z2Cg_NcwFM&t=52s)
 
+<small>[Clip it](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=1) · [Send to Slack](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=1&slack=1)</small>
+
 From: [Hornets vs Celtics: Coach Charles Lee Postgame Media Availability | 11/6/2026](https://www.youtube.com/watch?v=5Z2Cg_NcwFM) · *Charlotte Hornets*
 
 <small>[Clip it](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=2) · [Send to Slack](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=2&slack=1)</small>
@@ -17,6 +19,8 @@ From: [Hornets vs Celtics: Coach Charles Lee Postgame Media Availability | 11/6/
 Kenny Atkinson: "It's bothering him. We'll see what that looks like tomorrow. Hopefully he's okay. We got off to that great start, he's in the starting lineup, it gives us IQ, connection, all that stuff."
 
 [https://www.youtube.com/watch?v=mGzYJnnyrY4&t=101s](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=101s)
+
+<small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=101&q=2) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=101&q=2&slack=1)</small>
 
 From: [Cavs vs 76ers | Kenny Atkinson Post Game | 11.06.2026](https://www.youtube.com/watch?v=mGzYJnnyrY4) · *Cleveland Cavaliers*
 
@@ -28,6 +32,8 @@ Kenny Atkinson: "Defense. **Peyton Watson**, big difference. I thought the job h
 
 [https://www.youtube.com/watch?v=mGzYJnnyrY4&t=0s](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=0s)
 
+<small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=0&q=3) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=0&q=3&slack=1)</small>
+
 From: [Cavs vs 76ers | Kenny Atkinson Post Game | 11.06.2026](https://www.youtube.com/watch?v=mGzYJnnyrY4) · *Cleveland Cavaliers*
 
 <small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=0&q=1) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=0&q=1&slack=1)</small>
@@ -37,6 +43,8 @@ From: [Cavs vs 76ers | Kenny Atkinson Post Game | 11.06.2026](https://www.youtub
 Tyler Herro: "It's a process. We've been saying this since the trade, this isn't a thing that happens overnight. We've been in a lot of these games, and I think we've played eight to nine games, we should have won five of them. The other two or three we were obviously got blown out, but five of the eight I feel like we were in position to win all of them. Continuing to just go to that process, we'll start winning games, so I'm not worried."
 
 [https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s](https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s)
+
+<small>[Clip it](presserclips://clip?v=t5TK4iL0H24&t=141&q=4) · [Send to Slack](presserclips://clip?v=t5TK4iL0H24&t=141&q=4&slack=1)</small>
 
 From: [Tyler Herro Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=t5TK4iL0H24) · *Milwaukee Bucks*
 
@@ -50,6 +58,8 @@ From: [Tyler Herro Postgame Media Availability | 11.6.26](https://www.youtube.co
 
 [https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s](https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s)
 
+<small>[Clip it](presserclips://clip?v=6J54qK7Anlw&t=104&q=5) · [Send to Slack](presserclips://clip?v=6J54qK7Anlw&t=104&q=5&slack=1)</small>
+
 From: [Hawks vs. Wizards Postgame Press Conference: Luguentz Dor](https://www.youtube.com/watch?v=6J54qK7Anlw) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=6J54qK7Anlw&t=104&q=3) · [Send to Slack](presserclips://clip?v=6J54qK7Anlw&t=104&q=3&slack=1)</small>
@@ -62,6 +72,8 @@ From: [Hawks vs. Wizards Postgame Press Conference: Luguentz Dor](https://www.yo
 
 [https://www.youtube.com/watch?v=VpnLiomjjZc&t=76s](https://www.youtube.com/watch?v=VpnLiomjjZc&t=76s)
 
+<small>[Clip it](presserclips://clip?v=VpnLiomjjZc&t=76&q=6) · [Send to Slack](presserclips://clip?v=VpnLiomjjZc&t=76&q=6&slack=1)</small>
+
 From: [Taylor Jenkins Postgame Press Conference | 11.6.26](https://www.youtube.com/watch?v=VpnLiomjjZc) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=VpnLiomjjZc&t=76&q=3) · [Send to Slack](presserclips://clip?v=VpnLiomjjZc&t=76&q=3&slack=1)</small>
@@ -72,6 +84,8 @@ Evan Mobley: "I got to play an even bigger role, not having my fellow big man ou
 
 [https://www.youtube.com/watch?v=udYCFQER0i4&t=495s](https://www.youtube.com/watch?v=udYCFQER0i4&t=495s)
 
+<small>[Clip it](presserclips://clip?v=udYCFQER0i4&t=495&q=7) · [Send to Slack](presserclips://clip?v=udYCFQER0i4&t=495&q=7&slack=1)</small>
+
 From: [Cavs vs 76ers | Donovan Mitchell & Evan Mobley Post Game | 11.06.2026](https://www.youtube.com/watch?v=udYCFQER0i4) · *Cleveland Cavaliers*
 
 <small>[Clip it](presserclips://clip?v=udYCFQER0i4&t=495&q=10) · [Send to Slack](presserclips://clip?v=udYCFQER0i4&t=495&q=10&slack=1)</small>
@@ -81,6 +95,8 @@ From: [Cavs vs 76ers | Donovan Mitchell & Evan Mobley Post Game | 11.06.2026](ht
 Darko Rajakovic: "To be honest with you tonight, I think this was an inspirational win for us, just because not in a way that we missed players and the other guys stepped up, but the fight that our guys had tonight. When things were not going our way, they were getting 11 offensive rebounds to start the game, we never stop fighting. It was very inspirational to see how the guys stayed together, they continued talking, they continued preaching the right stuff. It was a huge culture win for us, I would say."
 
 [https://www.youtube.com/watch?v=0dOKAc33VTQ&t=26s](https://www.youtube.com/watch?v=0dOKAc33VTQ&t=26s)
+
+<small>[Clip it](presserclips://clip?v=0dOKAc33VTQ&t=26&q=8) · [Send to Slack](presserclips://clip?v=0dOKAc33VTQ&t=26&q=8&slack=1)</small>
 
 From: [Darko Rajakovic | Post Game at Milwaukee Bucks | November 06, 2026](https://www.youtube.com/watch?v=0dOKAc33VTQ) · *Toronto Raptors*
 
@@ -94,6 +110,8 @@ From: [Darko Rajakovic | Post Game at Milwaukee Bucks | November 06, 2026](https
 
 [https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s)
 
+<small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=9) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=9&slack=1)</small>
+
 From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=Cg-GTNEoXOM) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=1) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=1&slack=1)</small>
@@ -106,6 +124,8 @@ From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtub
 
 [https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s)
 
+<small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=10) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=10&slack=1)</small>
+
 From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=Cg-GTNEoXOM) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5&slack=1)</small>
@@ -115,6 +135,8 @@ From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtub
 Micah Nori: "It becomes simple math at the end of the day. We had 24 turnovers and we allowed 17 offensive rebounds. That adds up to 41 extra possessions for them and we only got 19 because we forced 11 and got 8. By my count, I understand, but that is 22 extra looks that the combination and that was essentially the ball game."
 
 [https://www.youtube.com/watch?v=HNc7N4PQiBI&t=3s](https://www.youtube.com/watch?v=HNc7N4PQiBI&t=3s)
+
+<small>[Clip it](presserclips://clip?v=HNc7N4PQiBI&t=3&q=11) · [Send to Slack](presserclips://clip?v=HNc7N4PQiBI&t=3&q=11&slack=1)</small>
 
 From: [Micah Nori Postgame Interview | Portland Trail Blazers 118, LA Lakers 124 | Nov. 6, 2026](https://www.youtube.com/watch?v=HNc7N4PQiBI) · *Portland Trail Blazers*
 
@@ -126,6 +148,8 @@ Micah Nori: "He has gotten really good at the step-back to the left hand. That i
 
 [https://www.youtube.com/watch?v=HNc7N4PQiBI&t=143s](https://www.youtube.com/watch?v=HNc7N4PQiBI&t=143s)
 
+<small>[Clip it](presserclips://clip?v=HNc7N4PQiBI&t=143&q=12) · [Send to Slack](presserclips://clip?v=HNc7N4PQiBI&t=143&q=12&slack=1)</small>
+
 From: [Micah Nori Postgame Interview | Portland Trail Blazers 118, LA Lakers 124 | Nov. 6, 2026](https://www.youtube.com/watch?v=HNc7N4PQiBI) · *Portland Trail Blazers*
 
 <small>[Clip it](presserclips://clip?v=HNc7N4PQiBI&t=143&q=4) · [Send to Slack](presserclips://clip?v=HNc7N4PQiBI&t=143&q=4&slack=1)</small>
@@ -136,6 +160,8 @@ Jared McCain: "Whoever we were trying to attack, just trying to set early ones f
 
 [https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s](https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s)
 
+<small>[Clip it](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=13) · [Send to Slack](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=13&slack=1)</small>
+
 From: [Jared McCain on Team's Playmaking in Memphis | Postgame Media | November 6, 2026](https://www.youtube.com/watch?v=Iy78j9q2xoQ) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=2) · [Send to Slack](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=2&slack=1)</small>
@@ -145,6 +171,8 @@ From: [Jared McCain on Team's Playmaking in Memphis | Postgame Media | November 
 Dyson Daniels: "It's different playing against Trae. Obviously, super talented guy. He's a really good player, gets his teammates involved. Our game plan was making him force him left, channel the ball screens and stuff, and keep him contained that way. Trae is a good player, he's going to make some shots, but I thought as a team we did a pretty good job in just containing him and making him take tough shots."
 
 [https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s](https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s)
+
+<small>[Clip it](presserclips://clip?v=NYxPxPKUNSI&t=56&q=14) · [Send to Slack](presserclips://clip?v=NYxPxPKUNSI&t=56&q=14&slack=1)</small>
 
 From: [Hawks vs. Wizards Postgame Press Conference: Onyeka Okongwu and Dyson Daniels](https://www.youtube.com/watch?v=NYxPxPKUNSI) · *Atlanta Hawks*
 
@@ -157,6 +185,8 @@ From: [Hawks vs. Wizards Postgame Press Conference: Onyeka Okongwu and Dyson Dan
 **Taylor Jenkins:** "Yeah, he played great. He earned it. I thought his playmaking, his ability to get downhill, he did a great job offensive rebounding, defensive rebounding, was making some shots, getting to the free-throw line. I thought he did a solid job on defense. There's some things he can do better, but he was playing great tonight. I mean **Tyler** had a great night, **Braden** had a great night. They were kind of our best at getting into the paint throughout the game, so reward the kid, he earned it."
 
 [https://www.youtube.com/watch?v=VpnLiomjjZc&t=101s](https://www.youtube.com/watch?v=VpnLiomjjZc&t=101s)
+
+<small>[Clip it](presserclips://clip?v=VpnLiomjjZc&t=101&q=15) · [Send to Slack](presserclips://clip?v=VpnLiomjjZc&t=101&q=15&slack=1)</small>
 
 From: [Taylor Jenkins Postgame Press Conference | 11.6.26](https://www.youtube.com/watch?v=VpnLiomjjZc) · *Milwaukee Bucks*
 
