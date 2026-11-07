@@ -1,0 +1,370 @@
+{
+  "video_title": "Cavs vs 76ers | Kenny Atkinson Post Game | 11.06.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:00",
+      "summary_phrase": "Kenny Atkinson on the defensive impact of Peyton Watson",
+      "names_mentioned": [
+        "Peyton Watson",
+        "Maxey",
+        "Embiid"
+      ],
+      "excerpt": "Peyton Watson, big difference. I thought the job he did on Maxey was excellent.",
+      "quote": "Defense. Peyton Watson, big difference. I thought the job he did on Maxey was excellent. I think Maxey is playing as well as anybody in the league. So, it was great having him back and just a better job protecting the paint, limited their rim attempts, did a good job on Embiid.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Kenny Atkinson credited Peyton Watson for his defensive impact against Tyrese Maxey, noting that having him back was a big difference in protecting the paint and limiting rim attempts.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson",
+          "Tyrese Maxey",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the defensive impact of Peyton Watson against the 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:35",
+      "summary_phrase": "Kenny Atkinson praises Donovan Mitchell's aggression and decision-making",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "He feels the moment, he knows we needed this win. He's got a great sense of the moment.",
+      "quote": "He feels the moment, he knows we needed this win. He's got a great sense of the moment when he's got to turn it up and made some great passes too. He was very aggressive tonight.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson praised Donovan Mitchell for his aggression and his ability to sense the moment when the team needed to turn it up during tonight's win.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Donovan Mitchell for his aggression and decision-making during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:02",
+      "summary_phrase": "Kenny Atkinson on the team's ability to shift gears",
+      "names_mentioned": [],
+      "excerpt": "You reach utopia as a basketball team if you can play at all three speeds.",
+      "quote": "You reach utopia as a basketball team if you can play at all three speeds. I liked our shifting of gears tonight. They had a few leak-outs, they contest and they leak out and they're great at that, but I liked how we controlled the game from a tempo point of view.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the team is reaching a new level of play by controlling the game from a tempo point of view, noting that you reach utopia as a basketball team if you can play at all three speeds.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains his philosophy on team tempo and shifting gears during play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:41",
+      "summary_phrase": "Kenny Atkinson on Sam's elbow injury and rotation impact",
+      "names_mentioned": [
+        "Sam"
+      ],
+      "excerpt": "It's bothering him. We'll see what that looks like tomorrow.",
+      "quote": "It's bothering him. We'll see what that looks like tomorrow. Hopefully he's okay. We got off to that great start, he's in the starting lineup, it gives us IQ, connection, all that stuff.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Kenny Atkinson says Sam is dealing with an elbow injury that is bothering him. The team will evaluate his status tomorrow after he started tonight's game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Sam"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson provides an update on Sam's elbow injury and its impact on the starting lineup.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:09",
+      "summary_phrase": "Kenny Atkinson on Mario's rebounding and finding his niche",
+      "names_mentioned": [
+        "Mario",
+        "JAB"
+      ],
+      "excerpt": "I love that he had 10 rebounds, that's where his 250 pounds come in.",
+      "quote": "I love that he had 10 rebounds, that's where his 250 pounds come in and his nose for the ball, so that's number one. Just finding his niche, what that looks like with each lineup he's in. Do I need to be a connector with this lineup? Do I need to be a scorer? We're still trying to figure those things out with him, but the talent is obvious.",
+      "text_blocks": [],
+      "start_seconds": 129,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson is pleased with Mario's 10-rebound performance, noting that the team is still figuring out his specific role and niche within different lineups.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses Mario's rebounding performance and his developing role within different lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:53",
+      "summary_phrase": "Kenny Atkinson on the team's approach to point differential",
+      "names_mentioned": [
+        "Donovan"
+      ],
+      "excerpt": "We told the guys to keep going. It's always a weird thing, those last possessions.",
+      "quote": "We told the guys to keep going. It's always a weird thing, those last possessions, especially those last possessions, you sometimes you hold it in respect for the other team, but now you got to go. And then we fouled to get Donovan out of the game and there was some discrepancy amongst the coaches if we should have done that or not, but I thought it was more important getting Donovan out of the game than losing a point for the cup.",
+      "text_blocks": [],
+      "start_seconds": 173,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson explained the late-game decision to foul to get Donovan Mitchell out of the game, prioritizing his rest over the point differential for the cup.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains the coaching decision to pull Donovan Mitchell from the game late in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:30",
+      "summary_phrase": "Kenny Atkinson on Evan Mobley's performance against Embiid",
+      "names_mentioned": [
+        "Evan",
+        "Embiid"
+      ],
+      "excerpt": "He's really playing great basketball. When he hits those threes, we were struggling a little.",
+      "quote": "He's really playing great basketball. When he hits those threes, we were struggling a little, hits that first three. I just feel like he's playing great basketball all around. The Embiid matchup was obviously a good challenge for him, but he played great tonight. He's playing great overall.",
+      "text_blocks": [],
+      "start_seconds": 210,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says Evan Mobley is playing great basketball all around, specifically highlighting his performance in the challenging matchup against Joel Embiid.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Evan Mobley",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on Evan Mobley's performance and his defensive matchup against Joel Embiid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:07",
+      "summary_phrase": "Kenny Atkinson on the team's mentality regarding leads",
+      "names_mentioned": [
+        "James"
+      ],
+      "excerpt": "We have to continue to be aggressive with these leads. That's our new mentality.",
+      "quote": "Well, it's good we're aware of that because the whole bench was saying don't let up. Even Don, he was out, I don't know, six minutes left, somewhere up 20 and he's saying keep pushing. Then James took that 35-footer when we're up 22 and the old school would be like, man, don't take that shot. I'm like, no, that was a good shot. I love that he's being aggressive. We have to continue to be aggressive with these leads. That's our new mentality and it was great the whole team was aware of it.",
+      "text_blocks": [],
+      "start_seconds": 247,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson says the team's new mentality is to keep pushing even with big leads, noting that he encouraged James to take an aggressive 35-footer while up 22 points.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell",
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's new mentality regarding maintaining aggression while holding large leads.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:54",
+      "summary_phrase": "Kenny Atkinson on Malik's ability to step up",
+      "names_mentioned": [
+        "Malik"
+      ],
+      "excerpt": "He just keeps seeming to step up to the moment every time there's more put on his plate.",
+      "quote": "He just keeps seeming to step up to the moment every time there's more put on his plate. He's talented, man. He's just talented. Even that pass he threw, he's just got something different. I felt like his early threes gave us a real boost. The crowd, you can feel, there's certain guys the crowd are attracted to the style of play, so he's that type of guy.",
+      "text_blocks": [],
+      "start_seconds": 294,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson praised Malik for his ability to step up whenever more is put on his plate, noting that his early threes provided a real boost for the team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Malik for his ability to step up and impact the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:26",
+      "summary_phrase": "Kenny Atkinson on the team's youth and speed",
+      "names_mentioned": [
+        "Malik",
+        "Tyrese",
+        "Peyton"
+      ],
+      "excerpt": "When you have Malik and Tyrese and Peyton, just a ton of youth.",
+      "quote": "When you have Malik and Tyrese and Peyton, just a ton of youth. It looked like you guys were just running track meet there in the third quarter. A big part of that was Peyton starting and we got to make sure we're empowering him to bring the ball up, especially if they're going to put their five on him or a lesser defender. He's got to be in attack mode and I thought that was part of it. Then you got Malik and Tyrese running the wings, it's a great observation up our speed level.",
+      "text_blocks": [],
+      "start_seconds": 326,
+      "end_seconds": 363,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Kenny Atkinson highlighted the team's youth and speed, noting that having Malik, Tyrese, and Peyton on the floor together turned the third quarter into a track meet.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik",
+          "Tyrese",
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's increased speed and youth movement on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:17",
+      "summary_phrase": "Kenny Atkinson on the team's start compared to Wednesday",
+      "names_mentioned": [],
+      "excerpt": "We're obviously throwing a lot of things at the wall right now trying to figure out.",
+      "quote": "We're obviously throwing a lot of things at the wall right now trying to figure out. We're kind of obviously forced into the same thing tonight. I love them off the bench, you guys know that, but tonight it was like we needed them out there to stabilize us and connect us.",
+      "text_blocks": [],
+      "start_seconds": 377,
+      "end_seconds": 397,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Kenny Atkinson says the coaching staff is still experimenting with lineups to stabilize the team, noting that they needed certain players to start tonight to provide connection.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains his rotation strategy and the need to stabilize the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "mGzYJnnyrY4",
+  "url": "https://www.youtube.com/watch?v=mGzYJnnyrY4",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-07T03:39:31Z",
+  "duration_seconds": 416,
+  "processed_at": "2026-11-07T07:18:17Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

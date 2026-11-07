@@ -1,0 +1,166 @@
+{
+  "video_title": "Alijah Martin | Post Game at Milwaukee Bucks | November 06, 2026",
+  "speakers_seen": [
+    "Alijah Martin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Alijah Martin",
+      "timestamp": "00:03",
+      "summary_phrase": "Alijah Martin on the pressure of playing in front of family",
+      "names_mentioned": [],
+      "excerpt": "I knew I was going to have to play hard because my mom was coming.",
+      "quote": "Honestly, I didn't know. It's being honest. But I knew I was going to have to play hard because my mom was coming.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 12,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Alijah Martin says he was motivated to play hard against the Bucks because his mom was in the building. He admits he did not know she was coming until he saw her.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Alijah Martin discusses the experience of playing in front of his mother during the game against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Alijah Martin",
+      "timestamp": "00:33",
+      "summary_phrase": "Alijah Martin on Jamal's impact on his teammates",
+      "names_mentioned": [
+        "Jamal"
+      ],
+      "excerpt": "Jamal is special. He does that with a bunch of guys on the team.",
+      "quote": "Jamal is special. He does that with a bunch of guys on the team. When he just gets going, he is just a battering in somebody's back. So I wouldn't say that was the plays, but he played a big part in those, for sure.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Alijah Martin praises Jamal for his impact on the Raptors, calling him a special player who is a battering in somebody's back when he gets going.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Alijah Martin comments on the impact his teammate Jamal has on the team during gameplay.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Alijah Martin",
+      "timestamp": "01:04",
+      "summary_phrase": "Alijah Martin on staying humble after recent struggles",
+      "names_mentioned": [],
+      "excerpt": "When you love the game and it just gets stripped away from you from some things you can't control.",
+      "quote": "When you love the game and it just gets stripped away from you from some things you can't control, you hit rock bottom. So I'm just grateful, honestly. I'm just going to keep my head down, stay humble, and just keep pushing.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "After dealing with recent struggles, Alijah Martin says he is just grateful to be back on the floor. He plans to keep his head down and stay humble as he continues to push forward.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Alijah Martin reflects on his personal mindset and gratitude after overcoming recent struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Alijah Martin",
+      "timestamp": "02:13",
+      "summary_phrase": "Alijah Martin on his mindset of staying ready",
+      "names_mentioned": [],
+      "excerpt": "Just stay present. I always just try to be with my feet are.",
+      "quote": "Just stay present. I always just try to be with my feet are. I have big dreams and aspirations for myself, but you know, you just got to stay ready, stay present, clock in, clock out, and God willingly, you have nights like these.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Alijah Martin on his mindset during his recent performance: You just have to stay ready, stay present, clock in, clock out, and God willingly, you have nights like these.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Alijah Martin explains his professional approach of staying present and ready to contribute.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Alijah Martin",
+      "timestamp": "02:41",
+      "summary_phrase": "Alijah Martin on Jamal's two-way play and team value",
+      "names_mentioned": [
+        "Jamal"
+      ],
+      "excerpt": "Jamal is a special guy. He brings so much for this team.",
+      "quote": "Jamal is a special guy. He brings so much for this team. He's a two-way player. He is a BMF on the ball. He is just so much for our team, so I just can't really pluck one thing. I just got to give him all his flowers.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Alijah Martin gives Jamal his flowers for his two-way play, describing him as a special guy who brings so much value to the Raptors roster.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Alijah Martin praises Jamal for his contributions as a two-way player for the Toronto Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "xQXyoSTmdEI",
+  "url": "https://www.youtube.com/watch?v=xQXyoSTmdEI",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-07T04:47:34Z",
+  "duration_seconds": 188,
+  "processed_at": "2026-11-07T07:17:44Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

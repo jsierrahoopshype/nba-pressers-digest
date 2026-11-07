@@ -1,0 +1,338 @@
+{
+  "video_title": "Denver Nuggets Full Practice Media Availability Before Mexico City Game | 11.6.26",
+  "speakers_seen": [
+    "Christian Braun",
+    "Ryan Nembhard",
+    "Daron Holmes II",
+    "Bryce Hopkins",
+    "Alpha Diallo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Christian Braun",
+      "timestamp": "00:00",
+      "summary_phrase": "Christian Braun on the challenge of learning Spanish for media",
+      "names_mentioned": [],
+      "excerpt": "I can't speak any language other than the one I speak now and I don't speak that very well.",
+      "quote": "They asked me to repeat Spanish words. I didn't know what they meant. I can't speak any language other than the one I speak now and I don't speak that very well. I was struggling over there. It's probably going to be an embarrassing clip, but it is what it is.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Christian Braun admits he struggled during his attempts to speak Spanish for media in Mexico City. He joked that the resulting clip will probably be embarrassing.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun discusses his experience attempting to speak Spanish during media availability in Mexico City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Christian Braun",
+      "timestamp": "00:33",
+      "summary_phrase": "Christian Braun on the excitement of playing in Mexico City",
+      "names_mentioned": [],
+      "excerpt": "I'm really excited for tomorrow and the energy. I think the energy of the crowd will be cool.",
+      "quote": "Just got here yesterday, so I haven't explored much. Today is probably going to be the coolest part, and then tomorrow obviously being in front of the fans will be fun. The food is great. I'm really excited for tomorrow and the energy. I think the energy of the crowd will be cool, and obviously it's a fun matchup.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Christian Braun is looking forward to the energy of the crowd in Mexico City. He says the team is excited for the matchup and the atmosphere.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun shares his excitement about playing in Mexico City and the atmosphere of the upcoming game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Christian Braun",
+      "timestamp": "01:06",
+      "summary_phrase": "Christian Braun's scouting report on the Indiana Pacers",
+      "names_mentioned": [],
+      "excerpt": "They get up and down, they share the ball. They're a good team.",
+      "quote": "They get up and down, they share the ball. They're a good team. It's going to be a fun style that they play. They have a ton of players, they play a lot of guys right now, so it's hard to know what to expect. But when they're at full strength, obviously they were in the finals last time they were at full strength. Good team, but a fun matchup between us and them.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Christian Braun on facing the Pacers. He notes their fast pace and depth make them a difficult team to prepare for, but expects a fun matchup.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Christian Braun provides a scouting report on the Indiana Pacers ahead of their matchup in Mexico City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Christian Braun",
+      "timestamp": "01:33",
+      "summary_phrase": "Christian Braun on Nikola Jokic's impact on international fans",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "I think maybe I realize it more than he realizes it sometimes.",
+      "quote": "I don't get surprised. I think maybe I realize it more than he realizes it sometimes. I think he probably gets caught off guard more than I do. My family looks at him in the same way as everybody else does, so I understand how those kids feel. I see it from my family and my friends all the time, so I think Nikola is caught off guard more than I am.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Christian Braun says he is not surprised by the massive international attention Nikola Jokic receives, noting that Jokic is often the one caught off guard by the scale of his own fame.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Christian Braun reflects on how fans perceive Nikola Jokic and how the star player reacts to the attention.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ryan Nembhard",
+      "timestamp": "02:01",
+      "summary_phrase": "Ryan Nembhard on the experience of playing in Mexico City",
+      "names_mentioned": [],
+      "excerpt": "It's been a nice experience. I was able to come out here last year with the Mavs.",
+      "quote": "It's been a nice experience. I was able to come out here last year with the Mavs and kind of experience it for the first time, so it's nice to be back out here. A lot of love from everybody, great atmosphere during the game, so I'm excited.",
+      "text_blocks": [],
+      "start_seconds": 121,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ryan Nembhard is enjoying his return to Mexico City. He says the atmosphere during the game is great and he is excited to be back.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Ryan Nembhard discusses his previous experience visiting Mexico City with the Dallas Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ryan Nembhard",
+      "timestamp": "02:13",
+      "summary_phrase": "Ryan Nembhard on playing against the Indiana Pacers",
+      "names_mentioned": [],
+      "excerpt": "Obviously a goal of ours to be in this league and play together, play against each other.",
+      "quote": "It's going to be cool. Pops is going to come down and watch, and it'll just be fun to see him out here. Obviously a goal of ours to be in this league and play together, play against each other, so it'll be fun.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ryan Nembhard is looking forward to playing against the Pacers, noting that his father will be in attendance to watch the game.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Ryan Nembhard expresses excitement about playing against the Indiana Pacers with his father in attendance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ryan Nembhard",
+      "timestamp": "02:30",
+      "summary_phrase": "Ryan Nembhard on the media attention surrounding Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamal Murray"
+      ],
+      "excerpt": "I think it shows how much they are excited to have everyone here.",
+      "quote": "I think it's cool. I think it shows how much they are excited to have everyone here and are excited to host this event. It's great for the city and it's great for the NBA, so I'm excited.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Ryan Nembhard says the media attention surrounding Nikola Jokic in Mexico City is great for the city and the NBA.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Ryan Nembhard comments on the fan excitement and media attention surrounding the NBA event in Mexico City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Daron Holmes II",
+      "timestamp": "02:56",
+      "summary_phrase": "Daron Holmes II on the atmosphere in Mexico City",
+      "names_mentioned": [],
+      "excerpt": "It's beautiful out here. And then the court's amazing, the people, the kids, the support.",
+      "quote": "It's beautiful out here. And then the court's amazing, the people, the kids, the support, all that's pretty cool.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Daron Holmes II is enjoying the atmosphere in Mexico City, calling the court and the fan support amazing.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Daron Holmes II shares his positive impressions of the atmosphere and support in Mexico City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Bryce Hopkins",
+      "timestamp": "03:07",
+      "summary_phrase": "Bryce Hopkins on the media coverage of Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "I think it speaks for itself. I think, you know, Nikola being the player that he is.",
+      "quote": "It's crazy. I think it speaks for itself. I think, you know, Nikola being the player that he is speaks for itself and, you know, he's put himself on the stage to, you know, showcase his talents day in and day out, so I mean, it speaks for itself like I said.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Bryce Hopkins says the massive media attention surrounding Nikola Jokic speaks for itself, noting that Jokic has earned his spot on the global stage.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Bryce Hopkins discusses the massive media attention surrounding Nikola Jokic during the team's trip to Mexico City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Alpha Diallo",
+      "timestamp": "03:27",
+      "summary_phrase": "Alpha Diallo on the importance of international basketball growth",
+      "names_mentioned": [],
+      "excerpt": "It's good to see the different cultures and how they interacted with the NBA.",
+      "quote": "It's going to be amazing. It's my first time here, so just trying to soak it all in. And it's good to see the different cultures and how they interacted with the NBA.",
+      "text_blocks": [],
+      "start_seconds": 207,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_post": "Alpha Diallo is soaking in his first experience in Mexico City and says it is good to see how different cultures interact with the NBA.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Alpha Diallo shares his experience visiting Mexico City for the first time and observing the local culture.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Alpha Diallo",
+      "timestamp": "03:42",
+      "summary_phrase": "Alpha Diallo on the global growth of the NBA",
+      "names_mentioned": [],
+      "excerpt": "The game is growing all around the continent, so it's something fun.",
+      "quote": "It's good, you know, the game is growing all around the continent, so it's something fun and it's something to bring a different fan base.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Alpha Diallo says the growth of basketball across the continent is a positive development for the league and helps bring in a new fan base.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Alpha Diallo comments on the global growth of the NBA and the importance of reaching new fan bases.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "kcl4C6tWn3Y",
+  "url": "https://www.youtube.com/watch?v=kcl4C6tWn3Y",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-07T01:14:27Z",
+  "duration_seconds": 266,
+  "processed_at": "2026-11-07T07:18:43Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

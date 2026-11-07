@@ -1,0 +1,146 @@
+{
+  "video_title": "Jamal Shead | Post Game at Milwaukee Bucks | November 06, 2026",
+  "speakers_seen": [
+    "Jamal Shead"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:13",
+      "summary_phrase": "Jamal Shead on Elijah Fisher's resilience and breakout performance",
+      "names_mentioned": [
+        "Elijah Fisher"
+      ],
+      "excerpt": "when guys are ready for their moment, they pop and he popped tonight",
+      "quote": "It is awesome because Elijah Fisher has been through a small injury this summer, fell off of the two-way, and just been there, just waiting, waiting, waiting. Tonight was awesome because when guys are ready for their moment, they pop and he popped tonight. It was awesome. He got a little hype, he was trying to say feed me, feed me, feed me. It was cool to see him get his shine and really help us win tonight.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamal Shead praised Elijah Fisher for staying ready after a tough summer saying it was awesome to see him get his shine and help the team win tonight.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Elijah Fisher"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Jamal Shead discusses Elijah Fisher's performance and resilience after returning from an injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamal Shead",
+      "timestamp": "02:01",
+      "summary_phrase": "Jamal Shead on team chemistry and trusting each other",
+      "names_mentioned": [],
+      "excerpt": "us having each other's back, still playing from down tens, not starting the best we could",
+      "quote": "I think we had a really big eye-opener tonight. I think we were living off of a lot of last year and we figured it out a little bit towards the end of last year, but this year is a whole new year. Us having each other's back, still playing from down tens, not starting the best we could, but not getting down on each other, not yelling, not arguing, not putting our heads down, but staying with it and just trusting each other. There were a lot of extra passes tonight, a lot of extra movement, cuts to get other guys open. Having each other's back like that just builds confidence throughout the team.",
+      "text_blocks": [],
+      "start_seconds": 121,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamal Shead says the Raptors had a big eye opener tonight noting that the team is focusing on trusting each other and staying positive even when they fall behind early.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead reflects on the team's chemistry and ability to maintain composure during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamal Shead",
+      "timestamp": "02:42",
+      "summary_phrase": "Jamal Shead on improving ball movement to avoid offensive droughts",
+      "names_mentioned": [],
+      "excerpt": "our biggest thing this year has been our offense has been stagnant sometimes",
+      "quote": "Our biggest thing this year has been our offense has been stagnant sometimes and we will go with droughts and stuff. We had a lot of movement tonight that really helped us get open shots, even if we missed them, just staying with each other and staying into that mindset so that we can get open shots. It is just being a team more so.",
+      "text_blocks": [],
+      "start_seconds": 162,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamal Shead says the Raptors are working to fix offensive droughts by prioritizing ball movement and staying in the right mindset to generate open shots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead explains the importance of improved ball movement to avoid offensive droughts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamal Shead",
+      "timestamp": "03:36",
+      "summary_phrase": "Jamal Shead on his connection with teammates and team confidence",
+      "names_mentioned": [
+        "Jock Landale",
+        "Kyle Lowry",
+        "RJ Barrett"
+      ],
+      "excerpt": "I had a really good connection with Jock Landale. We talked a lot before the game",
+      "quote": "I had a really good connection with Jock Landale. We talked a lot before the game and all the things we talked about came to fruition. Kyle Lowry was awesome, RJ Barrett was awesome. Everybody that was moving off the ball and really helping me and giving me angles and talking to me when we was coming to the bench, just breeding confidence into each other. Today was really easy because we all were trying to move off of each other.",
+      "text_blocks": [],
+      "start_seconds": 216,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Shead credited his teammates for their off ball movement tonight saying guys like Jock Landale and Kyle Lowry helped make things easy on the floor.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jock Landale",
+          "Kyle Lowry",
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead highlights the contributions of his teammates and their collective effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "_uupgzUP4ak",
+  "url": "https://www.youtube.com/watch?v=_uupgzUP4ak",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-07T04:46:38Z",
+  "duration_seconds": 246,
+  "processed_at": "2026-11-07T07:17:49Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

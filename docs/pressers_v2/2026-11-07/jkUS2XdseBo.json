@@ -1,0 +1,172 @@
+{
+  "video_title": "Coach Daigneault on Team's Tenacity and Energy | Postgame Media | November 6, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:02",
+      "summary_phrase": "Thunder's defensive rhythm and paint protection improvements",
+      "names_mentioned": [],
+      "excerpt": "we really married the two critical aspects of your defense, the paint protection and the disruption",
+      "quote": "I thought we had a pretty good understanding of how we needed to defend them tonight. Obviously, they didn't make shots tonight, so the variance contributes to the final score, but I thought we did a good job protecting the paint. To your point, we filed too much, which I think the aggression and the disruption, that's a fine line to walk, but we had way too many plays that we made it easy on the officials to put them on the line. So those defensive free throws are on us. We need to improve those fundamentals, but in general, I thought the execution of the plan and the fundamentals otherwise were really good.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault says the Thunder need to improve their defensive fundamentals to avoid giving up easy free throws. He noted that while the team executed their plan well, they must walk the fine line between aggression and fouling.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the team's defensive performance and paint protection following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:00",
+      "summary_phrase": "Execution and movement at the point of attack",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "we wanted to move the floor with cutters and that sort of thing just to offset their help defense",
+      "quote": "We wanted to get that going against this team, against this defense, and we wanted to move the floor with cutters and that sort of thing just to offset their help defense. So I thought the guys on both ends of the floor really executed the plan today, and then we had great energy on both ends. We competed hard, and obviously had a good shooting night, and they had a bad shooting night, so that's part of it, but I also I like how we played.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mark Daigneault credited the team for their energy and movement against the defense tonight. He emphasized that the Thunder successfully used cutters to offset the opponent help defense.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault reflects on the team's offensive execution and energy during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:47",
+      "summary_phrase": "McCain's rhythm and shooting consistency",
+      "names_mentioned": [
+        "McCain",
+        "AJ"
+      ],
+      "excerpt": "the shots obviously fell, that's kind of inevitable with a guy like him that's as accurate of a shooter",
+      "quote": "He was good. I thought the shots obviously fell, that's kind of inevitable with a guy like him that's as accurate of a shooter. It's also inevitable that you go through some tough stretches, so we didn't overreact to that. He had a good floor game again tonight, which is how you can ride with those guys through a tough shooting stretch. He plays the right way, he brings great energy to the floor, he's playing defense, and so it's just a matter of time before the shots start to fall and they did for him and AJ from the perimeter tonight.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Mark Daigneault on the team patience with McCain during his shooting slump. He noted that because McCain plays the right way and brings defensive energy, it was only a matter of time before his shots started to fall.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jared McCain",
+          "AJ"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault comments on the shooting performance and overall play of Jared McCain and AJ.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:32",
+      "summary_phrase": "Rookie development and competitive energy",
+      "names_mentioned": [],
+      "excerpt": "these guys love to compete, they play with incredible enjoyment",
+      "quote": "I think that's one of the best qualities of the team collectively. These guys love to compete, they play with incredible enjoyment, they enjoy competing together, and they get lost in the competition and we want them to do that, whether they're a veteran or a rookie. And so it's more fun when you're good, and you're good when your fundamentals are good. So we certainly focus on that stuff, but we also want them to go out there and get lost in it.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Mark Daigneault says the best quality of this Thunder team is that they love to compete. He wants his players to get lost in the competition regardless of whether they are a veteran or a rookie.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the competitive nature and team chemistry of his roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:45",
+      "summary_phrase": "Terry and PV's valuable contributions",
+      "names_mentioned": [
+        "Terry",
+        "PV",
+        "Josh Dicks",
+        "Mike",
+        "Dalen"
+      ],
+      "excerpt": "Mike has been really good, he's really self-aware, that's his best quality in my opinion",
+      "quote": "We're going to need everybody in our current situation. Josh Dicks played really good minutes, he gave us a lift in both halves, certainly the first half. Mike has been really good, he's really self-aware, that's his best quality in my opinion. He really knows who he is, he knows what the team needs, and he stays in character on that. It doesn't impact his aggression, but he's great there. Dalen, it's good to see him in the uniform and see him out there, and I agree with you, we're going to need him at some point.",
+      "text_blocks": [],
+      "start_seconds": 225,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Mark Daigneault praised Mike for his self awareness and ability to stay in character for what the team needs. He also noted that the Thunder will need everyone on the roster given their current situation.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Josh Dicks",
+          "Mike",
+          "Dalen"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault evaluates the contributions and roles of specific players on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "jkUS2XdseBo",
+  "url": "https://www.youtube.com/watch?v=jkUS2XdseBo",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-07T05:38:45Z",
+  "duration_seconds": 300,
+  "processed_at": "2026-11-07T07:17:25Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,172 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at Milwaukee Bucks | November 06, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:01",
+      "summary_phrase": "Elijah Fisher's recovery from knee surgery and strong performance",
+      "names_mentioned": [
+        "Elijah Fisher"
+      ],
+      "excerpt": "Elijah hit a huge game. I'm really happy for him.",
+      "quote": "Elijah hit a huge game. I'm really happy for him. He had a rough summer dealing with recovery from his knee surgery. He was putting a lot of work in there and trying to get healthy for the start of the training camp, and it is amazing. It's a great feeling to see him how he contributed on both ends of the floor.",
+      "text_blocks": [],
+      "start_seconds": 1,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic praised Elijah Fisher for his performance after a difficult summer recovering from knee surgery. It is a great feeling to see him contribute on both ends of the floor.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Elijah Fisher"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic discusses Elijah Fisher's recovery from knee surgery and his performance in the game against the Milwaukee Bucks.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:26",
+      "summary_phrase": "Raptors' resilience and fighting spirit during the game",
+      "names_mentioned": [],
+      "excerpt": "We never stop fighting. It was very inspirational to see how the guys stayed together.",
+      "quote": "To be honest with you tonight, I think this was an inspirational win for us, just because not in a way that we missed players and the other guys stepped up, but the fight that our guys had tonight. When things were not going our way, they were getting 11 offensive rebounds to start the game, we never stop fighting. It was very inspirational to see how the guys stayed together, they continued talking, they continued preaching the right stuff. It was a huge culture win for us, I would say.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Darko Rajakovic called the win against the Bucks an inspirational culture win for the Raptors. He highlighted the team's ability to keep fighting and stay together even when things were not going their way early on.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the Raptors' resilience and team culture during their win against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:09",
+      "summary_phrase": "Raptors' ability to adjust and find defensive matchups",
+      "names_mentioned": [],
+      "excerpt": "We were figuring out what they're doing, how they're attacking us and we were trying to adjust.",
+      "quote": "There were some plays that went our way that could easily end up being theirs. I mean rebounding, a couple of 50-50 balls that we came up with that we were able to score out of. I think that that game was such that we were figuring out what they're doing, how they're attacking us and we were trying to adjust on the fly. For guys to be able to do that and to adjust and to find the right matchups defensively was very important for us. I think that was the deciding factor in the game.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic credited the Raptors' ability to adjust on the fly and find the right defensive matchups as the deciding factor in their win over Milwaukee.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains how the Raptors adjusted their defensive matchups during the game against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:46",
+      "summary_phrase": "Jamal's growth as a point guard and team leader",
+      "names_mentioned": [
+        "Jamal"
+      ],
+      "excerpt": "He was talking to the team much more. He was able to go past team mistake.",
+      "quote": "He had a little bit of a slow start for his standards to start of the year, but that happens to anybody. I think that he's never changing. He puts every single day he puts great work, great preparation, he brings a lot of spirit. What I really noticed tonight with Jamal, he was talking to the team much more. He was able to go past team mistake or his mistake and just to continue to competing. That was a huge win for him tonight and the way how he was running the team and sharing the ball and making sure that everybody is in the right spots, like he did a job of point guard that was amazing.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic praised Jamal for his leadership and point guard play tonight. He noted that Jamal did an amazing job running the team and making sure everyone was in the right spots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises the leadership and point guard play of Jamal following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:56",
+      "summary_phrase": "Jakob Poeltl's value as a winner and defensive anchor",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "Jak is a winner and when he's healthy, when he's right, he really contributes our team.",
+      "quote": "Jak is a winner and when he's healthy, when he's right, he really contributes our team in so many ways. You're going to look at his stat line, you're going to see 19 points and 11 rebounds, but there is also so many things that he does that he covers for us defensively on defensive end especially that are super important for us. I think that Jak is outstanding player and when he plays with this pop and this energy, it's awesome.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on Jakob Poeltl: Jak is a winner. Beyond the 19 points and 11 rebounds, he provides essential defensive coverage and brings a level of energy that is awesome for the team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic highlights the defensive contributions and impact of Jakob Poeltl on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "0dOKAc33VTQ",
+  "url": "https://www.youtube.com/watch?v=0dOKAc33VTQ",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-07T04:30:45Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-11-07T07:18:00Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

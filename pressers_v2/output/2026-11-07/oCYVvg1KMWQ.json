@@ -1,0 +1,173 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Timberwolves Postgame Interview 11/6/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:16",
+      "summary_phrase": "Jamahl Mosley on the team's frustration with free throw disparity",
+      "names_mentioned": [],
+      "excerpt": "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration.",
+      "quote": "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration. Part of it is that, it's a close game going into the fourth. Our ability to get downhill, we attacked the basket, a couple times it didn't get the call. Not the reason, but again, big fellas going down there trying to attack the basket the right way, he's got to get the same kind of bumps that we're giving away on the other end. We've got to be better at finishing and making sure we punish them at the rim and not look for the bailout.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley expressed frustration over the free throw disparity in the loss to Minnesota noting that his players need to finish better at the rim instead of looking for the bailout",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses his team's frustration regarding the free throw disparity and officiating during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:39",
+      "summary_phrase": "Jamahl Mosley on defensive screening and officiating challenges",
+      "names_mentioned": [],
+      "excerpt": "the frustration level is some of the screening angles, trying to get over screens, you're getting hit.",
+      "quote": "We were in the bonus with probably nine minutes to go in the quarter. The frustration level is some of the screening angles, trying to get over screens, you're getting hit. But again, that's where we've got to take matters in our own hands and be able to say, okay, how do we combat this? Attacking downhill, communicating on the screens, getting over the screens, and from there you just got to continue to fight.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley says the team needs to take matters into their own hands regarding defensive screening and officiating challenges after getting into the bonus early in the fourth quarter",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains how his team needs to adjust to physical screening and officiating challenges during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:22",
+      "summary_phrase": "Jamahl Mosley explains the defensive rotation involving Rudy Gobert and Karl-Anthony Towns",
+      "names_mentioned": [
+        "Rudy Gobert",
+        "Karl-Anthony Towns",
+        "Trey"
+      ],
+      "excerpt": "Rudy was guarding Carlo and Carlo was getting all the shots. So that's part of it.",
+      "quote": "Part of that first half or that first quarter, when he was in there, Rudy was guarding Carlo and Carlo was getting all the shots. So that's part of it. If you force-feed it, there's a way you can do it, but Carlo got hot, he kept us in that first quarter. And then as he moved into the second, Z gets in a little bit later, you go to him and he gets some shots there. But again, that's part of the downhill attacking and then getting bumped, getting hit, not necessarily being able to get the call there.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley breaks down the offensive adjustments involving Karl Anthony Towns and Rudy Gobert calling the tactical shifts a chess match within the game",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert",
+          "Karl-Anthony Towns"
+        ],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley breaks down the defensive rotation and offensive strategy involving Rudy Gobert and Karl-Anthony Towns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:04",
+      "summary_phrase": "Jamahl Mosley on Karl-Anthony Towns' energy and impact",
+      "names_mentioned": [
+        "Karl-Anthony Towns"
+      ],
+      "excerpt": "I thought he was great in the first half. I thought he was really good.",
+      "quote": "I thought he was great in the first half. I thought he was really good and then picking up in the second half, got a couple rim runs, got downhill a little bit. I think just continue to keep that same energy is big. Him being able to stretch the floor with Rudy being out there, I thought that was good for us. Obviously, they made the adjustment to get him out of there as fast as they can going against Carlo and then bringing him back when we made our adjustment. So I think those are all just the chess match within a game, but just continuing to keep Carlo going because he brings the right energy, the right spirit to the game.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley praised the energy and spirit Karl Anthony Towns brought to the floor against Minnesota noting his ability to stretch the floor while Rudy Gobert was in the game",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karl-Anthony Towns",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates Karl-Anthony Towns' performance and energy while playing alongside Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:01",
+      "summary_phrase": "Jamahl Mosley defends Herb Jones' physical play and frustration",
+      "names_mentioned": [
+        "Herb Jones"
+      ],
+      "excerpt": "Herb is one of our best defenders, and his frustration level came because he's a dog fighter over screens.",
+      "quote": "Herb is one of our best defenders, and his frustration level came because he's a dog fighter over screens. And if I'm outside of my body and outside of my base and I'm trying to get over that screen and I get clipped in my knee and I get clipped in my back and I've got my elbows out and I get hit, I would be frustrated just the same. So that's part of what came from where Herb was in that moment and so we'll have to look at it, we'll have to talk about it, and then we go from there.",
+      "text_blocks": [],
+      "start_seconds": 241,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley defended Herb Jones after his visible frustration on the court saying he would be just as upset if he were getting clipped in the knee and back while fighting over screens",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley defends Herb Jones' physical play and explains the source of his frustration regarding contact over screens.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "oCYVvg1KMWQ",
+  "url": "https://www.youtube.com/watch?v=oCYVvg1KMWQ",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-07T05:46:41Z",
+  "duration_seconds": 305,
+  "processed_at": "2026-11-07T07:17:14Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,242 @@
+{
+  "video_title": "Jared McCain on Team's Playmaking in Memphis | Postgame Media | November 6, 2026",
+  "speakers_seen": [
+    "Jared McCain"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jared McCain",
+      "timestamp": "00:23",
+      "summary_phrase": "Jared McCain on defensive adjustments and rookie contributions",
+      "names_mentioned": [],
+      "excerpt": "the rookies have done an amazing job of adapting to what we're doing",
+      "quote": "Especially when we have smaller guards out there, being early to the spot. We talk about that a lot. Since we're going to be smaller out there, not letting them get too deep into the paint. But just playing together, I feel like we're moving on a string on defense and that translates to good offense. The rookies have done an amazing job of adapting to what we're doing and I'm learning and I'm getting better on the defensive side too. So all that together is helping us on the defensive end.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jared McCain says the Thunder are focusing on defensive discipline to compensate for their size: We are not letting them get too deep into the paint and we are moving on a string on defense.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain discusses defensive adjustments and the team's ability to play together on defense after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jared McCain",
+      "timestamp": "01:06",
+      "summary_phrase": "Jared McCain on offensive game plan and spacing",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Jalen Williams"
+      ],
+      "excerpt": "just trying to set early ones for Shai, for Jalen, for them to get downhill",
+      "quote": "Whoever we were trying to attack, just trying to set early ones for Shai, for Jalen, for them to get downhill. They usually come back and double Shai, so being able to pull over. That was the game plan, just make sure we get defenders that we want on the ball, make them tired, make them try and chase Shai or Jalen around. Being able to pull over and obviously when we got it and making shots like that, it's pretty fun to watch.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jared McCain breaks down the Thunder offensive strategy: The game plan is to make defenders chase Shai and Jalen around to tire them out and create opportunities when teams double Shai.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain explains the offensive game plan of attacking specific defenders and creating opportunities for Shai Gilgeous-Alexander and Jalen Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jared McCain",
+      "timestamp": "02:10",
+      "summary_phrase": "Jared McCain on utilizing back-door cuts",
+      "names_mentioned": [
+        "Chet Holmgren",
+        "Jalen Williams"
+      ],
+      "excerpt": "when the shot's not falling, just being able to work those cuts",
+      "quote": "When the shot's not falling, just being able to work those cuts. I've done it since I was a kid. So Chet throws amazing passes, Jalen, they all throw great passes in the lane like that. Being able to, if they're overplaying, just back door and make sure just can catch the ball and finish for a layup.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jared McCain on his approach when shots are not falling: I have done it since I was a kid. If they are overplaying, just back door and make sure I can catch the ball and finish for a layup.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain describes the team's ability to execute back-door cuts and receive passes from teammates like Chet Holmgren and Jalen Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jared McCain",
+      "timestamp": "02:34",
+      "summary_phrase": "Jared McCain on teammate's emotional play style",
+      "names_mentioned": [
+        "Ousmane Dieng"
+      ],
+      "excerpt": "I love when he shows emotion like that",
+      "quote": "I love when he shows emotion like that. He's such a good dude and so whenever he gets in that mode, it's pretty cool to watch. These rookies have done such an amazing job and they've adapted super quickly, quicker than I did as well. So it's pretty cool to watch them just play free.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jared McCain praises the Thunder rookies for their quick adjustment to the NBA level: They have done such an amazing job and they have adapted super quickly, quicker than I did as well.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jared McCain praises the emotional play style and quick adaptation of the team's rookies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jared McCain",
+      "timestamp": "03:27",
+      "summary_phrase": "Jared McCain on transition offense and team maturity",
+      "names_mentioned": [
+        "Jalen Williams",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "when we're able to push it in transition, obviously it starts on the defensive end",
+      "quote": "When we're able to push it in transition, obviously it starts on the defensive end. Getting those transition shots where either you got to guard Jalen, you got to guard me or Shai. Them driving to the basket is awesome for us. They make great decisions and so for us we just continue that and in halftime we just said kept our foot on the pedal.",
+      "text_blocks": [],
+      "start_seconds": 207,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jared McCain on the Thunder transition game: When we are able to push it in transition, it starts on the defensive end. Them driving to the basket is awesome for us.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Williams",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain discusses the importance of transition offense and maintaining intensity throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jared McCain",
+      "timestamp": "04:12",
+      "summary_phrase": "Jared McCain on team chemistry and rebounding",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "rebounding has been key for us",
+      "quote": "I think we're just playing together on a string. Defensively, we know what each other brings. Before in the season, obviously when people got hurt, we had to figure it out. But now we know each other, we know certain things we like to do on the defensive end and obviously rebounding has been key for us. So being able to when someone's got a block out, Isaiah or someone like that, being able to go over the top and get the rebound for us to push us in transition has helped us a lot.",
+      "text_blocks": [],
+      "start_seconds": 252,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jared McCain credits team chemistry and rebounding for the recent success: We know what each other brings. Rebounding has been key for us, being able to go over the top and get the rebound to push us in transition.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain explains how improved team chemistry and rebounding efforts, specifically mentioning Isaiah Hartenstein, have helped the team's transition game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jared McCain",
+      "timestamp": "04:53",
+      "summary_phrase": "Jared McCain on team maturity and maintaining leads",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Jalen Williams",
+        "Chet Holmgren"
+      ],
+      "excerpt": "that speaks to just the maturity of this group",
+      "quote": "That speaks to just the maturity of this group. Shai, Jalen, Chet, they all talk about it a lot. We can't let up, you can't take your foot off the gas. It starts on the defensive end for us. We know we're going to get good shots offensively and those are going to go down, but it starts with stops. Especially on an away game, they can get the crowd going, so being able to come out in the third quarter, the first four minutes, first five minutes are huge for us to make them call the first timeout.",
+      "text_blocks": [],
+      "start_seconds": 293,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jared McCain on maintaining leads: That speaks to the maturity of this group. We cannot let up, you cannot take your foot off the gas. It starts on the defensive end for us.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander",
+          "Jalen Williams",
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain highlights the maturity of the team's core players in maintaining defensive intensity during road games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Iy78j9q2xoQ",
+  "url": "https://www.youtube.com/watch?v=Iy78j9q2xoQ",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-07T05:15:19Z",
+  "duration_seconds": 326,
+  "processed_at": "2026-11-07T07:17:27Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

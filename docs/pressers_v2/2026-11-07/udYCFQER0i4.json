@@ -1,0 +1,400 @@
+{
+  "video_title": "Cavs vs 76ers | Donovan Mitchell & Evan Mobley Post Game | 11.06.2026",
+  "speakers_seen": [
+    "Evan Mobley",
+    "Donovan Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "00:16",
+      "summary_phrase": "Donovan Mitchell on the need for aggressive play against OKC",
+      "names_mentioned": [],
+      "excerpt": "My biggest thing was just trying to be aggressive, set the tone.",
+      "quote": "The response to the past two games, if we could have that first quarter in OKC, we'd all want that. We played three quarters of solid basketball. My biggest thing was just trying to be aggressive, set the tone. It's a balance, because not every game calls for that, but it's just finding those moments. It's not just scoring. Tonight happened to be the first three buckets, but after that, it was trying to find ways to get guys involved and just be a playmaker, whatever comes with that.",
+      "start_seconds": 16,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Mitchell on his approach to being aggressive: It is a balance because not every game calls for that but it is just finding those moments. It is not just scoring. It is trying to find ways to get guys involved and be a playmaker.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell discusses the team's need for aggressive play and playmaking following recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "00:49",
+      "summary_phrase": "Donovan Mitchell on the defensive impact of Caris LeVert",
+      "names_mentioned": [
+        "Caris LeVert",
+        "Evan Mobley"
+      ],
+      "excerpt": "It was big time to have him back, especially considering Jarrett Allen was out.",
+      "quote": "It was big time to have him back, especially considering Jarrett Allen was out. Having him in there, having Evan Mobley who has his length, and then Caris LeVert who is disrupting the ball. When Evan is on the perimeter, you got a guy like Caris down there challenging guys at the rim, making it tough on guys on ball. It was big time to have him back, especially considering Jarrett Allen was out. You look at what he's done on the defensive end and then offensively, six of 14, plus 22, nine boards, doing it all.",
+      "start_seconds": 49,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Donovan Mitchell on the return of Caris LeVert: It was big time to have him back. You look at what he has done on the defensive end and then offensively, six of 14, plus 22, nine boards, doing it all.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jarrett Allen",
+          "Evan Mobley",
+          "Caris LeVert"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Donovan Mitchell praises the defensive impact of Caris LeVert and Evan Mobley while Jarrett Allen is sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "01:34",
+      "summary_phrase": "Donovan Mitchell on the team's defensive focus on Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "We made a big emphasis on protecting the paint and I think we did a pretty good job.",
+      "quote": "We made a big emphasis on protecting the paint and I think we did a pretty good job this game of doing that. That was the main focus throughout these past few games. The past two games were not the best, but I think this game we locked in and focused on what we needed to focus on. Joel Embiid was a big point of emphasis and I think we did a good job on him.",
+      "start_seconds": 94,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Donovan Mitchell on the defensive game plan against Joel Embiid: We made a big emphasis on protecting the paint and I think we did a pretty good job this game of doing that. Joel Embiid was a big point of emphasis.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell explains the team's defensive focus on protecting the paint against Joel Embiid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "02:30",
+      "summary_phrase": "Donovan Mitchell on the defensive strategy against LeBron James",
+      "names_mentioned": [
+        "LeBron James",
+        "Evan Mobley"
+      ],
+      "excerpt": "The biggest thing is just making it tough. He's a hell of a player.",
+      "quote": "The biggest thing is just making it tough. He's a hell of a player, but like Evan Mobley said, just trying to pack the paint and knowing that he's trying to drive to also kick. He had six turnovers and you give credit where it's due to our defense as a whole. From there, we were able to get out and get going.",
+      "start_seconds": 150,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Donovan Mitchell on the defensive effort against LeBron James: The biggest thing is just making it tough. He had six turnovers and you give credit where it is due to our defense as a whole.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell describes the defensive strategy used to contain LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "03:02",
+      "summary_phrase": "Donovan Mitchell on the importance of rebounding to push the pace",
+      "names_mentioned": [
+        "Sam Merrill",
+        "Malik Beasley"
+      ],
+      "excerpt": "The biggest thing was we were able to get boards, and then that led to us pushing the pace.",
+      "quote": "The biggest thing was we were able to get boards, and then that led to us pushing the pace. Sam Merrill coming out and Malik Beasley coming in and being that firecracker, full of energy, which we love. Especially when teams are going to try to make myself or Darius Garland have to work to bring the ball up. When you have a guy that can bring it up, Evan Mobley as well, we just continue to get out and get easy ones. But you got to get stops in order to do that.",
+      "start_seconds": 182,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Mitchell on the Cavs transition game: The biggest thing was we were able to get boards, and then that led to us pushing the pace. You have to get stops in order to do that.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Sam Merrill",
+          "Malik Beasley",
+          "Darius Garland",
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell highlights the importance of rebounding and pace provided by teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "03:58",
+      "summary_phrase": "Donovan Mitchell on learning from recent losses",
+      "names_mentioned": [
+        "Evan Mobley"
+      ],
+      "excerpt": "It's great to have a lesson within the past eight games. You make a mistake and figure it out.",
+      "quote": "It's great to have a lesson within the past eight games. You make a mistake and figure it out. I told this to Evan Mobley the other day, OKC was up against us, and then we cut it to five, and then they responded out of a timeout. Sometimes you learn through a loss, you learn watching another team do that. We messed up on a few coverages, we called timeout, we pushed right back. Tonight was good, we may run into that tomorrow and how are we going to do it tomorrow? Just continue to go from there.",
+      "start_seconds": 238,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Donovan Mitchell on learning from recent losses: Sometimes you learn through a loss, you learn watching another team do that. We messed up on a few coverages, we called timeout, we pushed right back.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell discusses learning from recent losses and game management.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Evan Mobley",
+      "timestamp": "04:44",
+      "summary_phrase": "Evan Mobley on Donovan Mitchell's ability to get to the rim",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "Donovan Mitchell did a great job today getting to the paint and making the reads from there.",
+      "quote": "Donovan Mitchell did a great job today getting to the paint and making the reads from there. Sometimes you draw fouls, get all the way to the rim and score, sometimes he's kicking it out to the three or passing it to me. When he's able to get down two feet in the paint and make those decisions, we're the best playing like that. We just got to keep doing that every single game.",
+      "start_seconds": 284,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Evan Mobley on the offense when Mitchell gets into the paint: When he is able to get down two feet in the paint and make those decisions, we are the best playing like that. We just have to keep doing that every single game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Evan Mobley praises Donovan Mitchell for his ability to penetrate the paint and make reads.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "05:33",
+      "summary_phrase": "Donovan Mitchell on the spacing created by Evan Mobley",
+      "names_mentioned": [
+        "Evan Mobley",
+        "Joel Embiid"
+      ],
+      "excerpt": "It creates indecision. You got to give Evan Mobley a lot of credit. It's the right ones.",
+      "quote": "It creates indecision. You got to give Evan Mobley a lot of credit. It's the right ones. He could obviously say I've hit two and settle and take a bunch. Same thing with any guard, myself. You could hit a few and be like, I'm going to continue to shoot and not put any pressure on the rim. But then, you see his roles, I'm getting doubled in a pick and roll and now he's right there for getting into the paint or a lob or whatever. Credit to him for obviously mixing up and doing both.",
+      "start_seconds": 333,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Donovan Mitchell on Evan Mobley's impact: It creates indecision. You have to give Evan Mobley a lot of credit. I am getting doubled in a pick and roll and now he is right there for getting into the paint or a lob.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell credits Evan Mobley for creating spacing and pressure on the rim.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "07:08",
+      "summary_phrase": "Donovan Mitchell on playing against LeBron James",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "At this point, it's become normal. We're playing the Sixers, to be honest.",
+      "quote": "At this point, it's become normal. My first year here, it was like, okay, you see it, and now it's just, we're playing the Sixers, to be honest. I obviously understand that the fan stands is going to be packed and obviously cheer for him, rightfully so. He's a champion, he won for us from here. He deserves all that and more for what he's done for the city. But at this point, I feel like it's just regular and we're just out here trying to compete.",
+      "start_seconds": 428,
+      "end_seconds": 461,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Donovan Mitchell on playing against LeBron James: At this point, it has become normal. We are playing the Sixers, to be honest. I feel like it is just regular and we are just out here trying to compete.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "CLE",
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell reflects on the experience of playing against LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Evan Mobley",
+      "timestamp": "08:15",
+      "summary_phrase": "Evan Mobley on his role when Jarrett Allen is out",
+      "names_mentioned": [
+        "Jarrett Allen"
+      ],
+      "excerpt": "I got to play an even bigger role, not having my fellow big man out there.",
+      "quote": "I got to play an even bigger role, not having my fellow big man out there. He does a lot on the floor, protects the paint, and then offensively as well. So I got to do a better job of protecting that paint and I think tonight I did a good job of that, just covering up all the gaps and little nuances that the Sixers run, and just protecting the paint as best as possible.",
+      "start_seconds": 495,
+      "end_seconds": 524,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Evan Mobley on stepping up with Jarrett Allen out: I have to play an even bigger role, not having my fellow big man out there. I have to do a better job of protecting that paint and I think tonight I did a good job of that.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jarrett Allen"
+        ],
+        "teams": [
+          "CLE",
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Evan Mobley discusses his increased defensive responsibilities while Jarrett Allen is out.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "08:55",
+      "summary_phrase": "Donovan Mitchell on the team's focus during the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "I was screaming at the bench for trying to take the foul, for trying to take me out.",
+      "quote": "I was screaming at the bench for trying to take the foul, for trying to take me out because I didn't want to give them free points. You want to play for a championship, no matter if it's in December or whenever it is or in June. We were very cognizant of that, we all were speaking about it. I think teams are now understanding that when we're scoring that the end of the clock, they get it. You understand what this is, so as a whole, we were definitely all locked in on that for sure.",
+      "start_seconds": 535,
+      "end_seconds": 572,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Donovan Mitchell on the team's late-game focus: You want to play for a championship, no matter if it is in December or whenever it is or in June. We were very cognizant of that, we all were speaking about it.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell describes the team's focus on defensive intensity during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Evan Mobley",
+      "timestamp": "09:48",
+      "summary_phrase": "Evan Mobley on Caris LeVert's athleticism and recovery",
+      "names_mentioned": [
+        "Caris LeVert"
+      ],
+      "excerpt": "I think just his athleticism and then also his ability to recover.",
+      "quote": "I think just his athleticism and then also his ability to recover. A lot of times you'll see him all the way in the paint helping on somebody and then they kick it out, you think it's going to be a wide open three and he's out there and gets a contest or they pump fake, one dribble, he's still getting a contest. He can fly around the court and just create havoc on the defensive end. And then offensively, his ability to get downhill and draw so many people in the paint, I think that's also very beneficial for us as well.",
+      "start_seconds": 588,
+      "end_seconds": 628,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Evan Mobley on Caris LeVert: He can fly around the court and just create havoc on the defensive end. And then offensively, his ability to get downhill and draw so many people in the paint is very beneficial for us.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Caris LeVert"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Evan Mobley analyzes the defensive versatility and offensive impact of Caris LeVert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "udYCFQER0i4",
+  "url": "https://www.youtube.com/watch?v=udYCFQER0i4",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-07T04:00:10Z",
+  "duration_seconds": 632,
+  "processed_at": "2026-11-07T07:18:14Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,171 @@
+{
+  "video_title": "Trendon Watford | Pelicans vs. Timberwolves Postgame Interview 11/6/26",
+  "speakers_seen": [
+    "Trendon Watford"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trendon Watford",
+      "timestamp": "00:04",
+      "summary_phrase": "Trendon Watford on providing a spark off the bench",
+      "names_mentioned": [],
+      "excerpt": "I just wanted to play with some energy, use my speed, and just try to make something happen.",
+      "quote": "I thought we just needed a spark. I think our energy was a little down coming out of the half. I was subbed in at the five and I just wanted to play with some energy, use my speed, and just try to make something happen. I think I did that, but unfortunately we came up short.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trendon Watford on his role off the bench tonight: I thought we just needed a spark. I was subbed in at the five and I just wanted to play with some energy, use my speed, and just try to make something happen.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trendon Watford discusses his role coming off the bench during the postgame interview following the loss to the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trendon Watford",
+      "timestamp": "00:27",
+      "summary_phrase": "Trendon Watford praises Carlos's recent performance",
+      "names_mentioned": [
+        "Carlos"
+      ],
+      "excerpt": "Carlos has been great. He's been out of rotation early in the first couple of games.",
+      "quote": "Carlos has been great. He's been out of rotation early in the first couple of games and right to start. Obviously we know Carlos will shoot the hell out of the ball, so I think he's been great. He's been great and I know he's going to continue to do what he does.",
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trendon Watford on Carlos: He has been great. He was out of the rotation early in the first couple of games, but we know Carlos will shoot the hell out of the ball.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Carlos"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trendon Watford praises his teammate Carlos for his performance and shooting ability after being out of the rotation earlier in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trendon Watford",
+      "timestamp": "00:54",
+      "summary_phrase": "Trendon Watford on encouraging teammates to shoot with confidence",
+      "names_mentioned": [
+        "Z"
+      ],
+      "excerpt": "Once you got the locker room encouraging you to shoot, you feel even better about it.",
+      "quote": "I think we encourage him too. It's a little bit of both, him obviously putting the work in and feeling comfortable to do it. But once you got the locker room encouraging you to shoot, you feel even better about it. I think that's the biggest thing with him, just continue to take them and stretch the floor out. I think him playing with Z allows space and allows space for Z to do what he does.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Trendon Watford on the team spacing: Once you have the locker room encouraging you to shoot, you feel even better about it. Him playing with Z allows space and allows space for Z to do what he does.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Carlos",
+          "Z"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trendon Watford explains how the team encourages Carlos to shoot to create floor spacing for Z.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trendon Watford",
+      "timestamp": "01:17",
+      "summary_phrase": "Trendon Watford on defending against physical screens",
+      "names_mentioned": [
+        "Coming"
+      ],
+      "excerpt": "I think we allow contact sometimes with the man coming to set the screen.",
+      "quote": "I think we allow contact sometimes with the man coming to set the screen and I think they were able to get in the pocket a lot and then now you got them right in the middle and now they're spreading and everything. I think we were behind the play a little bit sometimes, but that's what film's for and clean it up.",
+      "verbatim_original_language": "",
+      "start_seconds": 77,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Trendon Watford on the defensive struggles against screens: I think we allow contact sometimes with the man coming to set the screen. We were behind the play a little bit sometimes, but that is what film is for.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trendon Watford analyzes the defensive struggles the team faced against the Timberwolves' screens.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trendon Watford",
+      "timestamp": "01:41",
+      "summary_phrase": "Trendon Watford on the high intensity of early season games",
+      "names_mentioned": [],
+      "excerpt": "I just think this is the energy in the building. Obviously we're on a winning streak.",
+      "quote": "I just think this is the energy in the building. Obviously we're on a winning streak, but I think that's the energy and the vibe we want in here in the building and in the Smoothie King. We don't want it to feel like a regular game. With wins, it comes more fans and obviously the city cares about it.",
+      "verbatim_original_language": "",
+      "start_seconds": 101,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Trendon Watford on the atmosphere in New Orleans: We do not want it to feel like a regular game. With wins, it comes more fans and obviously the city cares about it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trendon Watford comments on the home crowd energy and atmosphere at the Smoothie King Center.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "0nLDQHgTD7E",
+  "url": "https://www.youtube.com/watch?v=0nLDQHgTD7E",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-07T05:46:41Z",
+  "duration_seconds": 134,
+  "processed_at": "2026-11-07T07:17:13Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

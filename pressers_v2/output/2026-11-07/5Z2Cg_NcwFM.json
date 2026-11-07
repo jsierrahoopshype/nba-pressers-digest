@@ -1,0 +1,206 @@
+{
+  "video_title": "Hornets vs Celtics: Coach Charles Lee Postgame Media Availability | 11/6/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:08",
+      "summary_phrase": "Charles Lee on Charlotte's lack of sharpness against Boston",
+      "names_mentioned": [],
+      "excerpt": "I just thought that we weren't as sharp as we should have been",
+      "quote": "I just thought that we weren't as sharp as we should have been. That might be on us, but just some plays I thought that characterized how that beginning of the game went. We turn it over or we miss a shot, ball's out of bounds and they are racing it down the other way and trying to get to an offensive possession, it ends up in a three. I thought a bunch of competitive effort things that we are usually pretty tight with, they were offensive rebounding, and so I thought our defensive rebounding allowed them to gain a little bit of momentum.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Charles Lee says the Hornets were not as sharp as they should have been against Boston, noting that defensive rebounding issues allowed the Celtics to gain momentum early in the game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the team's lack of sharpness and defensive rebounding issues during the loss to the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "00:52",
+      "summary_phrase": "Charles Lee on Brandon Miller's second-quarter injury",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "I saw him start to limp a couple plays and he was good",
+      "quote": "I saw him start to limp a couple plays and he was good, and then he asked for a sub. I think that we will evaluate him over the weekend and then we will have more information I think on Monday.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_post": "Brandon Miller will be evaluated over the weekend after limping during the second quarter. Charles Lee says the team expects to have more information on his status by Monday.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Charles Lee provides an update on Brandon Miller after he left the game with an injury in the second quarter.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:10",
+      "summary_phrase": "Charles Lee on maintaining team morale despite injuries",
+      "names_mentioned": [],
+      "excerpt": "we had to commit to everything that was going to go on and embrace every day",
+      "quote": "We said coming into the year it was going to be by committee and we had to commit to everything that was going to go on and embrace every day of our journey. This is part of it. Right now you are in a little bit of a storm and we got to band together even more. We got to continue to work at an even higher rate, but in these moments you grow even stronger, you learn about yourself, the resilience of this group and how hard they want to work. I know that we will be able to get through this thing but we definitely got to make sure that we are staying together and focused on just the daily approach.",
+      "verbatim_original_language": "",
+      "start_seconds": 70,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Facing a storm of injuries, Charles Lee is calling on the Hornets to band together and embrace the journey. He says the team needs to work at an even higher rate to grow stronger through this adversity.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee addresses the team's mindset and resilience while dealing with multiple injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "02:00",
+      "summary_phrase": "Charles Lee's halftime message to the Hornets",
+      "names_mentioned": [
+        "Royce O'Neale",
+        "Naz Reid",
+        "Christian Wood"
+      ],
+      "excerpt": "one possession at a time",
+      "quote": "One possession at a time. There is a lot of game left. We said that our standard, no matter what the final score was, we wanted to make sure that there is still a mark of competitiveness and physicality that was going to be given, playing the right way offensively. I thought the group continued to do that to see the level at which they continued to play. The group at the end I thought really fought and competed and picked up full court and got some deflections and made some things happen. And then the communication, to see Royce O'Neale out there at the end of the game, to see Naz talking to Christian Wood, we got to keep at it and we will fall back on our habits.",
+      "verbatim_original_language": "",
+      "start_seconds": 120,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Charles Lee says his halftime message to the Hornets was to focus on one possession at a time and maintain a standard of competitiveness and physicality regardless of the score.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Royce O'Neale",
+          "Naz Reid",
+          "Christian Wood"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee describes the halftime message he gave to the team regarding competitiveness and team communication.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "02:46",
+      "summary_phrase": "Charles Lee on veteran leadership from Naz, Royce, and Grayson",
+      "names_mentioned": [
+        "Naz",
+        "Royce",
+        "Grayson"
+      ],
+      "excerpt": "a lot of us have gotten here through some type of adversity",
+      "quote": "They talk amongst each other, so their exact words, I am not going to put words in their mouth, but I just think as a group they know. A lot of us have gotten here through some type of adversity and so we know how to get through it and the work doesn't just stop, it doesn't change.",
+      "verbatim_original_language": "",
+      "start_seconds": 166,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Charles Lee credits the veteran leadership of Naz Reid, Royce O'Neale, and Grayson Allen for keeping the team focused, noting that many of them have navigated adversity before.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid",
+          "Royce O'Neale",
+          "Grayson Allen"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee discusses the veteran leadership provided by specific players during a period of adversity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Charles Lee",
+      "timestamp": "03:17",
+      "summary_phrase": "Charles Lee on Charlotte's shooting struggles",
+      "names_mentioned": [],
+      "excerpt": "the mindset is still to find the best uncontested shot we can get",
+      "quote": "The mindset is still to find the best uncontested shot we can get. We got some layups and we got to make sure we make our layups and we are getting to the free throw line at a decent clip, but the goal is to try to create advantages and look for the best uncontested shot we can get.",
+      "verbatim_original_language": "",
+      "start_seconds": 197,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Addressing shooting struggles, Charles Lee says the Hornets mindset remains focused on creating advantages to find the best uncontested shot possible.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee explains the team's offensive mindset regarding shot selection and finishing at the rim.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "5Z2Cg_NcwFM",
+  "url": "https://www.youtube.com/watch?v=5Z2Cg_NcwFM",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-07T03:10:25Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-11-07T07:18:31Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,193 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Thunder",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:14",
+      "summary_phrase": "Tuomas Iisalo on Grizzlies' lack of energy and offensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "the energy levels in the team were lower today",
+      "quote": "In the first half, they had zero offensive rebounds. We just couldn't buy a bucket, and they shot really well. Overall, if I talk about that, the energy levels in the team were lower today. We could talk about many reasons for that. We got a tomorrow lockout day, I think it's very well deserved for the guys, they've been working their butts off, and then we have a practice before the Toronto game. I wouldn't draw too many conclusions about the effort of the guys. I didn't think that was the issue.",
+      "verbatim_original_language": "",
+      "start_seconds": 14,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Tuomas Iisalo says he is not concerned about the effort level of his team despite the loss, noting the players have been working their butts off and deserve a break.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the team's energy levels and performance following a loss to the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:53",
+      "summary_phrase": "Tuomas Iisalo critiques defensive execution and applying friction",
+      "names_mentioned": [],
+      "excerpt": "we can do a better job defensively applying friction",
+      "quote": "I do think we can do a better job defensively applying friction. I thought they got to their spots a little bit too easily today, especially the key guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo says the Grizzlies need to do a better job defensively applying friction, noting that the Thunder were able to get to their spots too easily.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo evaluates the team's defensive execution against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:19",
+      "summary_phrase": "Tuomas Iisalo on evaluating team performance over a stretch",
+      "names_mentioned": [],
+      "excerpt": "you are always looking at like a rolling average of the games",
+      "quote": "Sure, you are always looking at like a rolling average of the games and also not to put too much stock into one game. Two of these three games, I thought we had a good chance today. Played 48 minutes, tried to compete, just wasn't clear that it wasn't our day. What we got to do is make sure even in those games we keep competing, and I thought we did then.",
+      "verbatim_original_language": "",
+      "start_seconds": 79,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Tuomas Iisalo on evaluating the team performance: You are always looking at a rolling average of games and trying not to put too much stock into one result.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo explains his approach to evaluating team performance over a stretch of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:59",
+      "summary_phrase": "Tuomas Iisalo explains why the Thunder are difficult to game plan",
+      "names_mentioned": [],
+      "excerpt": "they are good. They do the basics at a very high level",
+      "quote": "It's not that they're hard to game plan against, it's like they are good. They do the basics at a very high level. They are very well coached, they have clear role definition. They have guys who can draw double teams and are willing passers out of those. Today they also knocked down their shots at 46% clip for 16 threes, and yeah, there's really no secrets with that team. They just play very good basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 119,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo on the Thunder: There are no secrets with that team. They just play very good basketball and do the basics at a very high level.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo describes the challenges of playing against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:08",
+      "summary_phrase": "Tuomas Iisalo on developing rookie Cam Boozer",
+      "names_mentioned": [
+        "Cam Boozer"
+      ],
+      "excerpt": "the idea is to put the players in a position to succeed",
+      "quote": "The idea is to put the players in a position to succeed. It's not like we have a bag of tricks here that's 17 more things that we want to do. He's a 19-year-old rookie that's working extremely hard and absorbing a lot of those things. A lot of it comes down to the matchups, who does he have, does he have the advantage on the outside or on the inside without stewing the lineup. He plays a lot at the five, they play the five against him, that five sometimes is waiting at the free throw line. There are different ways and we'll keep adding those, but yeah, we are featuring him in a lot of different sets.",
+      "verbatim_original_language": "",
+      "start_seconds": 188,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Tuomas Iisalo on rookie Cam Boozer: We are featuring him in a lot of different sets and will keep adding ways to put him in a position to succeed.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Boozer"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the development and usage of rookie Cam Boozer within the team's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:56",
+      "summary_phrase": "Tuomas Iisalo on rotation patterns and bench usage",
+      "names_mentioned": [
+        "GG Jackson"
+      ],
+      "excerpt": "we've tried to figure out the rotation pattern for our second units",
+      "quote": "Overall, we've tried to figure out the rotation pattern for our second units. I think we talked about it here after last game, the periods in the first, in the middle of the first, and beginning of second, and we felt like with Jevon Small, having a second ball handler there on the court or somebody, a second guard, I think those units have been pretty good for us. Didn't have a big impact today on the overall score. We saw some bursts there, but overall, that was the idea behind it.",
+      "verbatim_original_language": "",
+      "start_seconds": 236,
+      "end_seconds": 271,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Tuomas Iisalo explains the Grizzlies rotation strategy, noting that adding Jevon Small as a second ball handler has been a focus for their second units.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jevon Small"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo explains the reasoning behind recent rotation patterns and the use of Jevon Small.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ypqKNoyzqDs",
+  "url": "https://www.youtube.com/watch?v=ypqKNoyzqDs",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-07T03:56:33Z",
+  "duration_seconds": 290,
+  "processed_at": "2026-11-07T07:18:09Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

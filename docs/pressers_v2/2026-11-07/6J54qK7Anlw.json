@@ -1,0 +1,198 @@
+{
+  "video_title": "Hawks vs. Wizards Postgame Press Conference: Luguentz Dor",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Luguentz Dort"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luguentz Dort",
+      "speakers": [
+        "Unidentified speaker",
+        "Luguentz Dort"
+      ],
+      "timestamp": "00:06",
+      "summary_phrase": "Luguentz Dort on the development of Cason Wallace and Jalen Williams",
+      "names_mentioned": [
+        "Cason Wallace",
+        "Jalen Williams"
+      ],
+      "excerpt": "It is big when rookies come in and are ready to go right away.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Luguentz, you had a front-row seat to it for several years in Oklahoma City. A lot of young guys getting drafted and developing there, yourself, Jalen Williams, Cason Wallace in recent years. What have you seen from this rookie class in Cason and Jalen specifically and their ability to contribute at this rate this early on in the season?"
+        },
+        {
+          "speaker": "Luguentz Dort",
+          "text": "Really talented, obviously. It did not take too long for them to get going. These are two guys that are really confident. It is big when rookies come in and are ready to go right away. I give a lot of respect to Cason and Jalen, just the way that they want to learn and also whenever they have an opportunity to go out there, they really show what they are capable of. I am glad to see how hard they work."
+        }
+      ],
+      "start_seconds": 6,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Luguentz Dort praises the early impact of rookies Cason Wallace and Jalen Williams saying it is big when rookies come in and are ready to go right away.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "ATL",
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Luguentz Dort discusses the rapid development and confidence of rookies Cason Wallace and Jalen Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Luguentz Dort",
+      "speakers": [
+        "Unidentified speaker",
+        "Luguentz Dort"
+      ],
+      "timestamp": "00:58",
+      "summary_phrase": "Luguentz Dort on hitting clutch shots and team ball movement",
+      "names_mentioned": [],
+      "excerpt": "I was the one that was open to make those shots.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Luguentz, you hit a couple of big buckets down the stretch, that three and then the mid-range jumper. When you guys are in those close game situations, how does maybe the net open up a little bit more for you in terms of being able to hit those big shots to meet the moment?"
+        },
+        {
+          "speaker": "Luguentz Dort",
+          "text": "I think as a team, we are just trying our best to find the right shots in those situations. When the game comes down to that, you have to try your best to get stops and take the right shots. Obviously, we just had to read the game. We got the ball moving a little bit and I was the one that was open to make those shots. But as a team, whenever we get to that type of stretch, we just have to keep playing together and turn the ball."
+        }
+      ],
+      "start_seconds": 58,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Luguentz Dort on closing out tight games: We are just trying our best to find the right shots and keep playing together.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Luguentz Dort explains his approach to hitting clutch shots and the importance of team ball movement in close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Luguentz Dort",
+      "speakers": [
+        "Unidentified speaker",
+        "Luguentz Dort"
+      ],
+      "timestamp": "01:44",
+      "summary_phrase": "Luguentz Dort on his role change and off-season preparation",
+      "names_mentioned": [
+        "Jock Landale"
+      ],
+      "excerpt": "I worked on my whole game in general.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Luguentz, you have seen a pretty drastic change in your role from what you did in OKC. Career-high driving frequency, you are playing power forward at the highest rate of your career, and some of that is because Jock Landale is hurt, but I think you have done a fantastic job. I am curious, when you were coming into this season for Atlanta, was there anything in particular you worked on in terms of your on-ball game or your driving game?"
+        },
+        {
+          "speaker": "Luguentz Dort",
+          "text": "I would say in the off-season, I worked on my whole game in general. It is not really something that I was doing specific. Obviously, I had a conversation with coach about position-wise and situation as well and everything. I am just adjusting, getting used to everything, trying my best to fit in. I love the group of guys that we have, so the way that coach wants to use me, I will be ready to go."
+        }
+      ],
+      "start_seconds": 104,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Luguentz Dort on his evolving role in Atlanta: I had a conversation with coach about position and situation and I am just adjusting and trying my best to fit in.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jock Landale"
+        ],
+        "teams": [
+          "ATL",
+          "OKC"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Luguentz Dort discusses his role change and off-season preparation following an injury to teammate Jock Landale.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Luguentz Dort",
+      "speakers": [
+        "Unidentified speaker",
+        "Luguentz Dort"
+      ],
+      "timestamp": "02:38",
+      "summary_phrase": "Luguentz Dort on Andrew Wiggins' consistency and confidence",
+      "names_mentioned": [
+        "Andrew Wiggins"
+      ],
+      "excerpt": "It does not matter what time or if he just checked in, he will be ready.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Luguentz, I am curious, because you know Andrew Wiggins a lot better than we do from all the time you spent with him in OKC. Have you seen something different from him since he got here, or is this just the same thing he was always doing in OKC and there are just more guys there?"
+        },
+        {
+          "speaker": "Luguentz Dort",
+          "text": "To me, I would say it is the same thing. Obviously, the opportunity here is different, but the type of player he is, how confident he is out there, it does not matter what time or if he just checked in, he will be ready to go right away and that is big about Wiggins. Off the court, he is just a great guy as well. I think Wiggins has been like that for a long time and now the opportunity is just in front of him and he gets to show it."
+        }
+      ],
+      "start_seconds": 158,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Luguentz Dort on Andrew Wiggins: It is the same player he was in OKC. The opportunity here is different but he is always ready to go right away.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Andrew Wiggins"
+        ],
+        "teams": [
+          "ATL",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Luguentz Dort reflects on the consistency and confidence of Andrew Wiggins based on their shared history.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "6J54qK7Anlw",
+  "url": "https://www.youtube.com/watch?v=6J54qK7Anlw",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-07T03:15:43Z",
+  "duration_seconds": 209,
+  "processed_at": "2026-11-07T07:18:28Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

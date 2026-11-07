@@ -1,0 +1,140 @@
+{
+  "video_title": "Hawks vs. Wizards Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:59",
+      "summary_phrase": "Quin Snyder on the early impact of rookies Kobe Bufkin and Mouhamed Gueye",
+      "names_mentioned": [
+        "Kobe Bufkin",
+        "Mouhamed Gueye"
+      ],
+      "excerpt": "to be able to come into the game and play with that competitive fire",
+      "quote": "I have said from the beginning of the year, those guys and like our team, because we have got a fair amount of new players and some really young players and some players that are young, not really young. Those two guys are rookies. So, to be able to come into the game and play with that competitive fire that they have and just really impact the game in tangible ways, I think that is as much as anything a lift that they give the other guys.",
+      "text_blocks": [],
+      "start_seconds": 179,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder praised rookies Kobe Bufkin and Mouhamed Gueye for their competitive fire, noting that their ability to impact the game provides a lift to the rest of the Hawks roster.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Bufkin",
+          "Mouhamed Gueye"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Quin Snyder discusses the early impact and competitive energy of rookies Kobe Bufkin and Mouhamed Gueye during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:11",
+      "summary_phrase": "Quin Snyder on trusting Dejounte Murray's decision-making in clutch situations",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "a player of his caliber, you don't judge them based on a hot or cold night",
+      "quote": "I don't think those decisions, we have seen Dejounte finish for us since the Knicks series when he hit a couple game-winners. A player of his caliber, you don't judge them based on a hot or cold night. I am more focused on how we are guarding collectively.",
+      "text_blocks": [],
+      "start_seconds": 251,
+      "end_seconds": 269,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Quin Snyder is sticking by Dejounte Murray despite recent shooting struggles. Snyder says you do not judge a player of his caliber based on a hot or cold night.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "ATL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains his trust in Dejounte Murray's decision-making ability in clutch situations following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "06:01",
+      "summary_phrase": "Quin Snyder on the Hawks' ball movement and unselfish team play",
+      "names_mentioned": [],
+      "excerpt": "it says that in the way guys are scoring, moving the ball collectively",
+      "quote": "It says that in the way guys are scoring, moving the ball collectively, that when we change sides of the floor and are able to drive, I thought we did a much better job of not attacking their rim protectors. But those are to John's point, those are going to be the things as a team that we grow, where maybe a different guy on different nights, and our ability to execute in those different situations is important.",
+      "text_blocks": [],
+      "start_seconds": 361,
+      "end_seconds": 391,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Quin Snyder on the Hawks offensive growth: The team is doing a better job of moving the ball and avoiding rim protectors, but execution in different situations remains a work in progress.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder comments on the team's offensive ball movement and the importance of collective execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "07:55",
+      "summary_phrase": "Quin Snyder on using motion to attack defensive mismatches",
+      "names_mentioned": [],
+      "excerpt": "we talked about finding a mismatch versus targeting a mismatch",
+      "quote": "We talked about finding a mismatch versus targeting a mismatch, and it takes recognition during after timeout dead ball situations. I think those are times you can target, whether it is a back screen or pick and roll situations where you force a switch and then have an additional action. But it is something for us, we will play pick and roll, certainly within what we do as well, but being able to cut and attack closeouts and gain advantages that way, your style of play in my mind is a path to gaining advantages offensively.",
+      "text_blocks": [],
+      "start_seconds": 475,
+      "end_seconds": 512,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Quin Snyder explains the Hawks offensive philosophy, emphasizing the difference between finding a mismatch and targeting one through motion, cuts, and attacking closeouts.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains the team's offensive philosophy regarding attacking defensive mismatches and utilizing motion.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "bi9Vo4OTgvw",
+  "url": "https://www.youtube.com/watch?v=bi9Vo4OTgvw",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-07T03:07:09Z",
+  "duration_seconds": 613,
+  "processed_at": "2026-11-07T07:18:40Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

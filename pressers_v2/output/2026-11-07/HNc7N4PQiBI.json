@@ -1,0 +1,176 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Portland Trail Blazers 118, LA Lakers 124 | Nov. 6, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:03",
+      "summary_phrase": "Micah Nori on the impact of turnovers and offensive rebounds",
+      "names_mentioned": [],
+      "excerpt": "It becomes simple math at the end of the day. We had 24 turnovers and we allowed 17 offensive rebounds.",
+      "quote": "It becomes simple math at the end of the day. We had 24 turnovers and we allowed 17 offensive rebounds. That adds up to 41 extra possessions for them and we only got 19 because we forced 11 and got 8. By my count, I understand, but that is 22 extra looks that the combination and that was essentially the ball game.",
+      "verbatim_original_language": "",
+      "start_seconds": 3,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori says the math was simple in tonight's loss to the Lakers. Between 24 turnovers and 17 offensive rebounds allowed, the Blazers gave up 22 extra possessions which was essentially the ball game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains how turnovers and offensive rebounds contributed to the loss against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:27",
+      "summary_phrase": "Micah Nori analyzes the turning point of the game against the Lakers",
+      "names_mentioned": [
+        "Denny",
+        "Luka"
+      ],
+      "excerpt": "I think that the game turned when we were up 13 with about 40 seconds to go in the half.",
+      "quote": "I think that the game turned when we were up 13 with about 40 seconds to go in the half and Denny got a break and leads to a charge. They go down, they hit a three in the corner which cuts it to 10 and then we take an ill-advised shot. We had the last shot and we took it a little bit early and then Luka throws in a 70-footer and now we gave them a little bit of life.",
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori points to a specific sequence late in the first half as the turning point against the Lakers, noting that an ill-advised shot and a deep buzzer-beater gave the opponent life.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "POR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Micah Nori identifies the sequence of plays before halftime as the turning point of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "01:25",
+      "summary_phrase": "Micah Nori on the value of having high turnover games on film",
+      "names_mentioned": [
+        "Ja"
+      ],
+      "excerpt": "We have too many good ball-handlers, too many good decision-makers even with Ja out to have this many turnovers.",
+      "quote": "We have too many good ball-handlers, too many good decision-makers even with Ja out to have this many turnovers. Some of them are just the interior passing and some of them are just the carelessness against a team that yes, they apply pretty good pressure, but you can use their pressure against them. What I mean by that is you just throw it to the pocket, you turn, you are usually playing with a man advantage on the backside and it just they sped us up.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Micah Nori says the team has too many good decision-makers to be turning the ball over at this rate. He noted that while the Lakers applied pressure, the Blazers were often sped up and careless with interior passing.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ja Morant"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the team's high turnover count despite having capable ball-handlers in the absence of Ja Morant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "02:23",
+      "summary_phrase": "Micah Nori on the defensive strategy for guarding Luka Doncic",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "He has gotten really good at the step-back to the left hand.",
+      "quote": "He has gotten really good at the step-back to the left hand. That is why the first game we started off kind of just more sending him left and then you are at the mercy of a step-back which is his go-to favorite shot. Tonight we tried to send him to his right and got what we wanted quite honestly early. They started off, they could not make a three so we made him a little bit more of a passer, but the problem was one was the rebounding and then when you turn it over, we were only up nine at the end of the first quarter and they had not made a three.",
+      "verbatim_original_language": "",
+      "start_seconds": 143,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Micah Nori explains the defensive strategy against Luka Doncic, noting they tried to force him to his right tonight to avoid his step-back to the left. He says they got what they wanted early but struggled with rebounding.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "POR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains the defensive strategy used to limit Luka Doncic during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "03:32",
+      "summary_phrase": "Micah Nori explains the team's process for choosing inbounders",
+      "names_mentioned": [
+        "Donovan",
+        "Tumani"
+      ],
+      "excerpt": "Donovan took the ball out in college a little bit, he has good size.",
+      "quote": "Donovan took the ball out in college a little bit, he has good size and Tumani is obviously another one that has inbounded for this team last year and trust him a little bit. I do like the fact that Donovan has size and that is kind of how, but that is how we do it.",
+      "verbatim_original_language": "",
+      "start_seconds": 212,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Micah Nori explains the team's process for choosing inbounders, noting he prefers Donovan for his size and trusts Tumani based on his experience with the team last season.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell",
+          "Tumani Camara"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains the reasoning behind selecting specific players to handle inbound passes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "HNc7N4PQiBI",
+  "url": "https://www.youtube.com/watch?v=HNc7N4PQiBI",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-07T06:42:04Z",
+  "duration_seconds": 247,
+  "processed_at": "2026-11-07T07:17:14Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

@@ -8,6 +8,8 @@ Rick Carlisle: "Tyrese will be back, hopefully before too long. Unfortunately he
 
 [https://www.youtube.com/watch?v=nGL9QJFNd2c&t=1362s](https://www.youtube.com/watch?v=nGL9QJFNd2c&t=1362s)
 
+<small>[Clip it](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=1) · [Send to Slack](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=1&slack=1)</small>
+
 From: [Indiana Pacers Mexico City Practice Media Availability | November 6, 2026](https://www.youtube.com/watch?v=nGL9QJFNd2c) · *Indiana Pacers*
 
 <small>[Clip it](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=9) · [Send to Slack](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=9&slack=1)</small>
@@ -17,6 +19,8 @@ From: [Indiana Pacers Mexico City Practice Media Availability | November 6, 2026
 Brandon Ingram: "It actually happened, the doctor figured it out during surgery. Initially supposed to remove a bone out of my heel, and then they found that while they were doing the surgery, they suspected something else."
 
 [https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=9s](https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=9s)
+
+<small>[Clip it](presserclips://clip?v=Xgr2uxqu_R0&t=9&q=2) · [Send to Slack](presserclips://clip?v=Xgr2uxqu_R0&t=9&q=2&slack=1)</small>
 
 From: [Brandon Ingram - Media Availability (11/6/26) | LA Clippers](https://www.youtube.com/watch?v=Xgr2uxqu_R0) · *LA Clippers*
 
@@ -28,6 +32,8 @@ Brandon Ingram: "I feel good. I have been on the floor with the rest of the guys
 
 [https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=40s](https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=40s)
 
+<small>[Clip it](presserclips://clip?v=Xgr2uxqu_R0&t=40&q=3) · [Send to Slack](presserclips://clip?v=Xgr2uxqu_R0&t=40&q=3&slack=1)</small>
+
 From: [Brandon Ingram - Media Availability (11/6/26) | LA Clippers](https://www.youtube.com/watch?v=Xgr2uxqu_R0) · *LA Clippers*
 
 <small>[Clip it](presserclips://clip?v=Xgr2uxqu_R0&t=40&q=2) · [Send to Slack](presserclips://clip?v=Xgr2uxqu_R0&t=40&q=2&slack=1)</small>
@@ -37,6 +43,8 @@ From: [Brandon Ingram - Media Availability (11/6/26) | LA Clippers](https://www.
 Aaron Nesmith: "We've been here before. He missed the entirety of last season. We started last season hurt amongst ourselves. On top of that, this year we started hurt. So, we've been here before. We know what we need to do to get up out of this. We know we got to lean on one another, play hard, and try and stay afloat as long as we can until we can get our leader back."
 
 [https://www.youtube.com/watch?v=nGL9QJFNd2c&t=58s](https://www.youtube.com/watch?v=nGL9QJFNd2c&t=58s)
+
+<small>[Clip it](presserclips://clip?v=nGL9QJFNd2c&t=58&q=4) · [Send to Slack](presserclips://clip?v=nGL9QJFNd2c&t=58&q=4&slack=1)</small>
 
 From: [Indiana Pacers Mexico City Practice Media Availability | November 6, 2026](https://www.youtube.com/watch?v=nGL9QJFNd2c) · *Indiana Pacers*
 
@@ -48,6 +56,8 @@ Coach Sweeney: "We had them in a lot of different ways. I think the illegal scre
 
 [https://www.youtube.com/watch?v=-BTzUEdPdQw&t=0s](https://www.youtube.com/watch?v=-BTzUEdPdQw&t=0s)
 
+<small>[Clip it](presserclips://clip?v=-BTzUEdPdQw&t=0&q=5) · [Send to Slack](presserclips://clip?v=-BTzUEdPdQw&t=0&q=5&slack=1)</small>
+
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. PHOENIX SUNS | COACH SWEENEY & WENDELL CARTER JR.](https://www.youtube.com/watch?v=-BTzUEdPdQw) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=-BTzUEdPdQw&t=0&q=1) · [Send to Slack](presserclips://clip?v=-BTzUEdPdQw&t=0&q=1&slack=1)</small>
@@ -57,6 +67,8 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. PHOENIX SUNS | COACH SWEENEY & WENDELL 
 Coach Sweeney: "**Devin Booker** had it going early especially at 23 in the first half. We did a much better job with him in the second half and I think it showed in the fourth quarter more than anything. But he got it going early and then they shot the ball pretty well just in general. Anytime you're going 50 from three, it makes it tough."
 
 [https://www.youtube.com/watch?v=-BTzUEdPdQw&t=45s](https://www.youtube.com/watch?v=-BTzUEdPdQw&t=45s)
+
+<small>[Clip it](presserclips://clip?v=-BTzUEdPdQw&t=45&q=6) · [Send to Slack](presserclips://clip?v=-BTzUEdPdQw&t=45&q=6&slack=1)</small>
 
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. PHOENIX SUNS | COACH SWEENEY & WENDELL CARTER JR.](https://www.youtube.com/watch?v=-BTzUEdPdQw) · *Orlando Magic*
 

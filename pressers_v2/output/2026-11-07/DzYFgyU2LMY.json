@@ -1,0 +1,105 @@
+{
+  "video_title": "Ayo Dosunmu Postgame Interview After Cup Win Vs The New Orleans Pelicans | 11.6.26",
+  "speakers_seen": [
+    "Ayo Dosunmu",
+    "Meghan McPeak"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Meghan McPeak",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Ayo Dosunmu on the Bulls' emphasis on paint scoring",
+      "names_mentioned": [],
+      "excerpt": "We want to do whatever it takes to win a game.",
+      "text_blocks": [
+        {
+          "speaker": "Meghan McPeak",
+          "text": "The threes weren't falling as a team tonight. What was the emphasis to get into the paint to try to give you guys some kickout opportunities?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "We want to do whatever it takes to win a game. I got me harping on all season, each and every game is a tough game and that's a damn good basketball team. They won four straight. This is a cup game, everything is on the line and we want to give it our all. We threw punches, they threw punches, and it was all about who can withstand the punch."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Ayo Dosunmu on the Bulls mindset during their win over the Pelicans: We threw punches, they threw punches, and it was all about who can withstand the punch.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHI",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the team's offensive strategy and intensity during their NBA Cup victory against the New Orleans Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Meghan McPeak",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:31",
+      "summary_phrase": "Ayo Dosunmu praises Trey Lyles' performance after injury",
+      "names_mentioned": [
+        "Trey Lyles"
+      ],
+      "excerpt": "He didn't get it going early, he battled through adversity.",
+      "text_blocks": [
+        {
+          "speaker": "Meghan McPeak",
+          "text": "Trey Lyles comes in, steps up. What did he mean? He may not have hit big shots, but..."
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "He played a hell of a game, man. He didn't get it going early, he battled through adversity. I was telling him like, 'Hey man, don't worry about the shots falling. Each and every possession we going to need you.' He got a big tip dunk and then he got another big dunk, so he played great down the stretch and we won the game, so nothing else matters."
+        }
+      ],
+      "start_seconds": 31,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Ayo Dosunmu praised Trey Lyles for his impact down the stretch against New Orleans: He played a hell of a game, man. He battled through adversity.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Lyles"
+        ],
+        "teams": [
+          "CHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu praises teammate Trey Lyles for his contributions and resilience during the game against the New Orleans Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "DzYFgyU2LMY",
+  "url": "https://www.youtube.com/watch?v=DzYFgyU2LMY",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-07T04:09:56Z",
+  "duration_seconds": 60,
+  "processed_at": "2026-11-07T07:17:58Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,142 @@
+{
+  "video_title": "Hornets vs Celtics: Hannes Steinbach Postgame Media Availability | 11/6/2026",
+  "speakers_seen": [
+    "Hannes Steinbach"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "00:14",
+      "summary_phrase": "Hannes Steinbach on adjusting to NBA physicality against elite teams",
+      "names_mentioned": [],
+      "excerpt": "It was definitely tough to begin, I think I got used to it a little better throughout the game.",
+      "quote": "It was good to get in the game, the NBA game, just to figure out how to play physically against those guys that really play. It was definitely tough to begin, I think I got used to it a little better throughout the game, but yeah, as you said, the result as a team wasn't what we wanted.",
+      "verbatim_original_language": "",
+      "start_seconds": 14,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Hannes Steinbach reflects on his physical adjustment to the NBA level against the Celtics saying it was tough to begin but he got used to it throughout the game",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Hannes Steinbach discusses his experience adjusting to the physicality of the NBA game during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "00:42",
+      "summary_phrase": "Steinbach on the value of practicing against elite Hornets teammates",
+      "names_mentioned": [
+        "Ryan",
+        "Musa",
+        "Naz Reid"
+      ],
+      "excerpt": "It definitely helps going against those guys, they are all great players.",
+      "quote": "It definitely helps going against those guys, they are all great players, especially Ryan and Musa, always battling against them on the boards, so it's always a good practice for me, so it helps me a lot for the real games.",
+      "verbatim_original_language": "",
+      "start_seconds": 42,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Hannes Steinbach credits battling teammates Ryan and Musa in practice for helping him prepare for the physicality of real NBA games",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ryan",
+          "Musa"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Hannes Steinbach explains how practicing against his teammates helps him prepare for the intensity of real NBA games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "01:07",
+      "summary_phrase": "Steinbach on maintaining team positivity amid injury challenges",
+      "names_mentioned": [
+        "Musa",
+        "Dennis"
+      ],
+      "excerpt": "We just try to stay together and stay positive through the rough.",
+      "quote": "I think we just try to stay together. I think unfortunately part of the game, injuries, we've been pretty unlucky the last few games, so we just try to stay together and stay positive through the rough.",
+      "verbatim_original_language": "",
+      "start_seconds": 67,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Hannes Steinbach says the Hornets are trying to stay together and positive while dealing with a string of recent injuries",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Hannes Steinbach addresses how the team is managing the recent string of injuries and maintaining a positive mindset.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Hannes Steinbach",
+      "timestamp": "01:25",
+      "summary_phrase": "Steinbach on team mindset during difficult game situations",
+      "names_mentioned": [],
+      "excerpt": "We just got to stick to our habits, play to our identity and do the right things.",
+      "quote": "I think just continue to play like we are as a group when we are in the game, and even though we don't play, we just got to stick to our habits, play to our identity and do the right things. Those are important reps for us, the guys that don't play too much normally, so just take it serious and try to do the best of it.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Hannes Steinbach emphasizes the importance of sticking to team habits and identity even for players who are not seeing significant rotation minutes",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Hannes Steinbach describes the team's approach to maintaining habits and identity during difficult game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-EEgyeocL8g",
+  "url": "https://www.youtube.com/watch?v=-EEgyeocL8g",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-07T03:15:59Z",
+  "duration_seconds": 107,
+  "processed_at": "2026-11-07T07:18:20Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

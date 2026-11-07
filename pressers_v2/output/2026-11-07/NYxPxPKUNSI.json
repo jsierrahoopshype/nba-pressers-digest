@@ -1,0 +1,248 @@
+{
+  "video_title": "Hawks vs. Wizards Postgame Press Conference: Onyeka Okongwu and Dyson Daniels",
+  "speakers_seen": [
+    "Onyeka Okongwu",
+    "Dyson Daniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dyson Daniels",
+      "speakers": [],
+      "timestamp": "00:17",
+      "summary_phrase": "Dyson Daniels on his rebounding focus and team defensive strategy",
+      "names_mentioned": [],
+      "excerpt": "my natural instincts throughout the game always is to go rebound",
+      "quote": "The bench definitely was telling me about the stats. The bench was definitely in my ear about it. Obviously the win is the most important thing, but I think my natural instincts throughout the game always is to go rebound, so that's kind of what I do. I try to help big go out, especially when we're small out there on the floor, so rebounding is a big thing that I've been trying to do.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dyson Daniels credits his rebounding success to natural instincts and the bench keeping him aware of his stats during the game. He says my natural instincts throughout the game always is to go rebound.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels discusses his personal rebounding performance and team strategy after the game against the Washington Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dyson Daniels",
+      "speakers": [],
+      "timestamp": "00:56",
+      "summary_phrase": "Dyson Daniels on the defensive game plan against Trae Young",
+      "names_mentioned": [
+        "Trae Young"
+      ],
+      "excerpt": "our game plan was making him force him left, channel the ball screens",
+      "quote": "It's different playing against Trae. Obviously, super talented guy. He's a really good player, gets his teammates involved. Our game plan was making him force him left, channel the ball screens and stuff, and keep him contained that way. Trae is a good player, he's going to make some shots, but I thought as a team we did a pretty good job in just containing him and making him take tough shots.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Dyson Daniels explains the defensive game plan against Trae Young was to force him left and keep him contained. He says as a team we did a pretty good job in just containing him and making him take tough shots.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "ATL",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels explains the defensive game plan the Hawks used to contain Trae Young during their matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Onyeka Okongwu",
+      "speakers": [],
+      "timestamp": "02:03",
+      "summary_phrase": "Onyeka Okongwu on finding his offensive rhythm and aggressiveness",
+      "names_mentioned": [],
+      "excerpt": "I'm just trying to find my groove offensively. I'm just trying to get my slow offensive game more",
+      "quote": "I'm just trying to find my groove offensively. I'm just trying to get my slow offensive game more, earlier in the game, be more aggressive. Obviously my teammates give me a lot of confidence to obviously take my shots and be aggressive out there.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Onyeka Okongwu is focused on finding his offensive rhythm early in games. He says I am just trying to get my slow offensive game more, earlier in the game, be more aggressive.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Onyeka Okongwu describes his efforts to improve his offensive rhythm and aggressiveness on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dyson Daniels",
+      "speakers": [],
+      "timestamp": "03:18",
+      "summary_phrase": "Dyson Daniels on Onyeka Okongwu's defensive playmaking and reading passes",
+      "names_mentioned": [
+        "Onyeka Okongwu"
+      ],
+      "excerpt": "he's been really good at reading the passes and especially in this game",
+      "quote": "I haven't given any pointers, but I did notice that. I think he's been really good at reading the passes and especially in this game with being up in channel and then getting back to take away those lobs and stuff like that. I felt like it was really good. He's on his feet, he's moving out there, he looks good.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 198,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dyson Daniels praises Onyeka Okongwu for his defensive playmaking. He says he has been really good at reading the passes and especially in this game with being up in channel and then getting back to take away those lobs.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Onyeka Okongwu"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dyson Daniels praises Onyeka Okongwu for his defensive awareness and ability to disrupt passing lanes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dyson Daniels",
+      "speakers": [],
+      "timestamp": "05:38",
+      "summary_phrase": "Dyson Daniels on the Hawks' ball movement and offensive system",
+      "names_mentioned": [],
+      "excerpt": "the offense that Quin's built into us is we move the ball side to side",
+      "quote": "The offense that Quin's built into us is we move the ball side to side. Everyone gets touches, and when you play that way you're going to get assists. We want to get out and run. We're undersized as a team, so when we play a team like Washington who's really big, we want to run up and down as much as we can. Our offense is just moving the ball side to side, breaking the paint, eyes out. Playing that way is going to get you a lot of assists and everyone gets touches.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 338,
+      "end_seconds": 375,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dyson Daniels breaks down the Hawks offensive system under Quin Snyder. He says the offense is just moving the ball side to side, breaking the paint, eyes out. Playing that way is going to get you a lot of assists.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels explains the offensive system implemented by head coach Quin Snyder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dyson Daniels",
+      "speakers": [],
+      "timestamp": "06:22",
+      "summary_phrase": "Dyson Daniels on Jalen Johnson's speed and athleticism",
+      "names_mentioned": [
+        "Jalen Johnson"
+      ],
+      "excerpt": "he's probably the fastest guy we've ever seen. When he takes off, he's hard to keep in front",
+      "quote": "He's been really great. Me and O were actually talking after our last game, he's probably the fastest guy we've ever seen. When he takes off, he's hard to keep in front. I had to deal with that in training camp a lot and he gets downhill, he gets two feet in the paint, and when he's doing that he's making other guys' jobs a lot easier. He's very athletic as well, so he can go and finish at the rim. He's been a really big plus for us.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 382,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Dyson Daniels calls Jalen Johnson the fastest player he has ever seen. He says when he takes off, he is hard to keep in front. He gets downhill, he gets two feet in the paint, and he is making other guys jobs a lot easier.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dyson Daniels discusses the speed and athleticism that Jalen Johnson brings to the Hawks offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Dyson Daniels",
+      "speakers": [],
+      "timestamp": "07:08",
+      "summary_phrase": "Dyson Daniels on competing with Jalen Johnson in practice",
+      "names_mentioned": [
+        "Jalen Johnson"
+      ],
+      "excerpt": "testing the rookie, especially during training camp, I think that's how we can make each other better",
+      "quote": "Just testing the rookie, especially during training camp, I think that's how we can make each other better, especially on the defensive end, just putting pressure on him, trying to turn him, trying to do what I do out there and get deflections and stuff like that. He's 19 years old, but he doesn't play like that, he's really poised. He's a really good fit for us, he's been really good in helping us win games.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 428,
+      "end_seconds": 457,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Dyson Daniels reflects on competing against Jalen Johnson in training camp. He says he is 19 years old, but he does not play like that, he is really poised. He is a really good fit for us.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dyson Daniels reflects on competing against Jalen Johnson during training camp to improve their defensive skills.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "NYxPxPKUNSI",
+  "url": "https://www.youtube.com/watch?v=NYxPxPKUNSI",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-07T03:18:05Z",
+  "duration_seconds": 461,
+  "processed_at": "2026-11-07T07:18:24Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

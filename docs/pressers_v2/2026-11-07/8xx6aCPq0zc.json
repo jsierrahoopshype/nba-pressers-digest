@@ -1,0 +1,365 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game at Milwaukee Bucks | November 06, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "Jamal Shead",
+    "Davion Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:02",
+      "summary_phrase": "Elijah Fisher's recovery from knee surgery and impact on the game",
+      "names_mentioned": [
+        "Elijah Fisher"
+      ],
+      "excerpt": "Elijah hit a huge game. I'm really happy for him.",
+      "quote": "Elijah hit a huge game. I'm really happy for him. He had a rough summer dealing with recovery from his knee surgery. He was putting a lot of work in there and trying to get healthy for the start of the training camp. It is amazing. It's a great feeling to see him how he contributed on both ends of the floor.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic praised Elijah Fisher for his performance tonight after a tough summer of recovery from knee surgery. It is a great feeling to see him contribute on both ends of the floor.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Elijah Fisher"
+        ],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Darko Rajakovic discusses Elijah Fisher's performance following his recovery from knee surgery.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:26",
+      "summary_phrase": "Raptors' resilience and fighting spirit during the game",
+      "names_mentioned": [],
+      "excerpt": "This was inspirational a win for us just because the fight that our guys had tonight.",
+      "quote": "This was inspirational a win for us just because the fight that our guys had tonight. When things were not going our way, they were getting 11 offensive rebounds to start the game, we never stopped fighting. It was very inspirational to see how the guys stayed together, they continued talking, they continued preaching the right stuff. It was a huge culture win for us, I would say.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic called the win over Milwaukee a huge culture win for the Raptors. He highlighted the teams resilience and ability to keep fighting despite a slow start on the boards.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises the team's resilience and fighting spirit during their win against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:09",
+      "summary_phrase": "Raptors' ability to adjust and find winning plays",
+      "names_mentioned": [],
+      "excerpt": "There were some plays that went our way that could easily end up being theirs.",
+      "quote": "There were some plays that went our way that could easily end up being theirs. I mean rebounding, a couple of 50-50 balls that we came up with that we were able to score out of. That game was such that we were figuring out what they are doing, how they are attacking us and we were trying to adjust on the fly. For guys to be able to do that and to adjust and to find the right matchups defensively was very important for us. I think that was a deciding factor in the game.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Darko Rajakovic credited the Raptors ability to adjust on the fly and find the right defensive matchups as the deciding factor in their win against the Bucks.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains how the team adjusted defensively during the game against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:52",
+      "summary_phrase": "Jamal Shead's growth and leadership as a point guard",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "What I really noticed tonight with Jamal, he was talking to the team much more.",
+      "quote": "He had a little bit of a slow start for his standards to start of the year, but that happens to anybody. I think that he is never changing. He puts every single day, he puts great work, great preparation, he brings a lot of spirit. What I really noticed tonight with Jamal, he was talking to the team much more. He was able to go past team mistake or his mistake and just continue to competing. That was a huge win for him tonight and the way how he was running the team and sharing the ball and making sure that everybody is in the right spots, like he did a job of a point guard that was amazing.",
+      "text_blocks": [],
+      "start_seconds": 112,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic on Jamal Shead after tonight's win. He noted that Shead did a job of a point guard that was amazing and showed significant growth in his leadership and communication on the floor.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic evaluates the growth and leadership Jamal Shead displayed as a point guard during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:08",
+      "summary_phrase": "Davion Mitchell's value as a winner and defensive contributor",
+      "names_mentioned": [
+        "Davion Mitchell"
+      ],
+      "excerpt": "Davion is a winner and when he's healthy, when he's right, he really contributes our team.",
+      "quote": "Davion is a winner and when he's healthy, when he's right, he really contributes our team in so many ways. You are going to look at his stat line, you are going to see 19 points and 11 rebounds, but there is also so many things that he does that he covers for us defensively on defensive end especially that are super important for us. I think that Davion is outstanding player and when he plays with this pop and this energy, it's awesome.",
+      "text_blocks": [],
+      "start_seconds": 188,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Darko Rajakovic praised Davion Mitchell for his 19 point and 11 rebound performance. He emphasized that beyond the stats, Mitchell is a winner who provides crucial defensive coverage for the team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Davion Mitchell"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic highlights the defensive contributions and energy Davion Mitchell brought to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Shead",
+      "speakers": [
+        "Jamal Shead",
+        "Unidentified speaker"
+      ],
+      "timestamp": "04:16",
+      "summary_phrase": "Jamal Shead on Elijah Fisher's breakout performance",
+      "names_mentioned": [
+        "Elijah Fisher"
+      ],
+      "excerpt": "When guys are ready for their moment, they pop and he popped tonight.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What was it like seeing Elijah get a crack and then take full advantage of the way he did tonight?"
+        },
+        {
+          "speaker": "Jamal Shead",
+          "text": "It's awesome because Elijah has been through a small injury this summer, fought off of the two-way, and just been there, just waiting, waiting, waiting. And tonight was awesome because when guys are ready for their moment, they pop and he popped tonight. So it was awesome. He got a little hype, he was trying to say 'feed me, feed me, feed me'. But it was cool to see him get his shine and really help us win tonight."
+        }
+      ],
+      "start_seconds": 256,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Shead on Elijah Fisher's breakout night. He said it was awesome to see him get his shine after waiting for his moment and that when guys are ready, they pop.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Elijah Fisher"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamal Shead reacts to Elijah Fisher's breakout performance after returning from a summer injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamal Shead",
+      "timestamp": "05:36",
+      "summary_phrase": "Raptors' team resilience and trusting each other",
+      "names_mentioned": [],
+      "excerpt": "Us having each other's back, still playing from down 10, not starting the best we could.",
+      "quote": "I think we had a really big eye opener tonight. I think we were living off of a lot of last year and we figured it out a little bit towards the end of last year, but this year is a whole new year. So I think us having each other's back, still playing from down 10, not starting the best we could, but not getting down on each other, not yelling, not arguing, not putting our heads down, but staying with it and just trusting each other. There's a lot of extra passes tonight, a lot of extra movement, cuts to get other guys open. So I think just having each other's back like that just builds confidence throughout the team.",
+      "text_blocks": [],
+      "start_seconds": 336,
+      "end_seconds": 383,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamal Shead says the Raptors had a big eye opener tonight regarding team chemistry. He noted that staying together and trusting each other while playing from behind was a major confidence builder.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead reflects on the importance of team chemistry and resilience in overcoming a slow start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamal Shead",
+      "timestamp": "06:17",
+      "summary_phrase": "Importance of ball movement in breaking offensive droughts",
+      "names_mentioned": [],
+      "excerpt": "Our biggest thing this year has been our offense has just been stagnant sometimes.",
+      "quote": "Just moving it, just moving the ball. I think our biggest thing this year has been our offense has just been stagnant sometimes and we'll go with droughts and stuff. We got a lot of movement tonight that really helped us get open shots, even if we missed them. Just staying with each other and staying into that mindset so that we can get open shots and stuff like that. So just being a team more so.",
+      "text_blocks": [],
+      "start_seconds": 377,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamal Shead says the key to breaking offensive droughts for the Raptors is simple ball movement. He noted that getting more movement tonight really helped the team generate open shots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead discusses the importance of ball movement in avoiding offensive droughts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Davion Mitchell",
+      "timestamp": "07:38",
+      "summary_phrase": "Davion Mitchell on his motivation to play hard",
+      "names_mentioned": [],
+      "excerpt": "I knew I was going to have to play hard because my mom was coming.",
+      "quote": "Honestly I didn't know it was being honest, but I knew I was going to have to play hard because my mom was coming.",
+      "text_blocks": [],
+      "start_seconds": 458,
+      "end_seconds": 467,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Davion Mitchell on his motivation for tonight's big performance. He joked that he knew he had to play hard because his mom was coming to the game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Davion Mitchell jokes about his motivation to play hard because his mother was attending the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Davion Mitchell",
+      "timestamp": "08:08",
+      "summary_phrase": "Jamal Shead's impact as a teammate and leader",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "Jamal is special. He does that with a bunch of guys on the team.",
+      "quote": "Jamal is special. He does that with a bunch of guys on the team. Like when he just get going, he's just a battery in somebody's back. So I wouldn't say though it was the plays, but he played a big part in that for sure.",
+      "text_blocks": [],
+      "start_seconds": 488,
+      "end_seconds": 506,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Davion Mitchell on his teammate Jamal Shead. He described Shead as special and said he acts like a battery in somebody's back for the rest of the team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Davion Mitchell comments on the leadership and energy Jamal Shead brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Davion Mitchell",
+      "timestamp": "09:49",
+      "summary_phrase": "Davion Mitchell's mindset on staying ready and present",
+      "names_mentioned": [],
+      "excerpt": "Just staying present. I always just try to be with my feet are.",
+      "quote": "Just staying present. I always just try to be with my feet are. I have big dreams and aspirations for myself, but you know you just got to stay stay ready, stay present, clock in, clock out, stuff like that. So God willing you have nights like these.",
+      "text_blocks": [],
+      "start_seconds": 589,
+      "end_seconds": 607,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Davion Mitchell on his mindset after a big game. He says he stays present and focuses on the work, noting that you just have to clock in and clock out to have nights like these.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Davion Mitchell shares his personal mindset regarding staying present and ready for game opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "8xx6aCPq0zc",
+  "url": "https://www.youtube.com/watch?v=8xx6aCPq0zc",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-07T05:01:51Z",
+  "duration_seconds": 644,
+  "processed_at": "2026-11-07T07:17:34Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}

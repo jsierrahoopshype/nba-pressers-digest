@@ -1,0 +1,193 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.6.26",
+  "speakers_seen": [
+    "Taylor Jenkins",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "speakers": [
+        "Unidentified speaker",
+        "Taylor Jenkins"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Taylor Jenkins on the team's rebounding issues against the Raptors",
+      "names_mentioned": [],
+      "excerpt": "They got more rebounds than us. It was a point of emphasis. We need to get the rebound.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "They had nine in the first quarter, and it seems like they were able to seal from there. I don't know if that was a Raptors thing or do you think just longer rebounds kind of angle variance there with some of the threes kind of limited that?"
+        },
+        {
+          "speaker": "Taylor Jenkins",
+          "text": "They played great. So angle variance or not, they got more rebounds than us. It was a point of emphasis. We need to get the rebound."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins addresses the rebounding struggles against the Raptors. He admits the opponent simply outworked them on the glass saying they got more rebounds than us and it was a point of emphasis that they need to improve.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's rebounding struggles during the postgame press conference following a loss to the Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "speakers": [
+        "Unidentified speaker",
+        "Taylor Jenkins"
+      ],
+      "timestamp": "00:28",
+      "summary_phrase": "Taylor Jenkins on the team's offensive struggles and missed shots",
+      "names_mentioned": [],
+      "excerpt": "We made them shoot threes, they missed them. We didn't get hits. We did a great job.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Well, I guess as the game went on, on offense, beyond just second chances, in terms of execution and getting looks, you were trying to create points out of sets or within the flow of offense. What were you seeing there that maybe did not click as what you would have liked?"
+        },
+        {
+          "speaker": "Taylor Jenkins",
+          "text": "We were getting stops in the first half, we were playing fast, we didn't have to call sets. But then we just gave up second-chance opportunity, fouled them way too much, and they're taking the ball out of the net so we couldn't really play as fast as we needed to. So then I'm calling sets to try to get them open and all that stuff, create advantages against a physical defense, and then we didn't tag up. We didn't stick to what we do."
+        }
+      ],
+      "start_seconds": 28,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Taylor Jenkins explains the offensive stall against the Raptors. He notes that giving up second chance points and fouling too much prevented them from playing with the pace they needed to create advantages.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins explains the team's offensive execution issues and the impact of second-chance points allowed to the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "speakers": [
+        "Unidentified speaker",
+        "Taylor Jenkins"
+      ],
+      "timestamp": "01:16",
+      "summary_phrase": "Taylor Jenkins on Miles Turner's shooting struggles and coaching philosophy",
+      "names_mentioned": [
+        "Miles Turner"
+      ],
+      "excerpt": "You should never defer. Should be assertive when you're open, let it fly.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "When someone as important as Miles Turner goes over for seven, do you want him to keep shooting through that? What's your coaching advice to him, or are you okay with like deferring and letting him figure it out?"
+        },
+        {
+          "speaker": "Taylor Jenkins",
+          "text": "You should never defer. Should be assertive when you're open, let it fly. He owned it after the game, he told his teammates I didn't have it. It was a rough night for me. I got to continue to be better and still impact the game on the defensive side, but I'm never going to tell a guy when you're missing shots to not shoot it."
+        }
+      ],
+      "start_seconds": 76,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins on Miles Turner shooting 0 for 7. He says he will never tell a player to stop shooting when they are missing shots and wants Turner to remain assertive when open.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles Turner"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins addresses Miles Turner's shooting struggles and his coaching philosophy regarding players continuing to shoot through a slump.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "speakers": [
+        "Unidentified speaker",
+        "Taylor Jenkins"
+      ],
+      "timestamp": "01:41",
+      "summary_phrase": "Taylor Jenkins on the performance of the rookies",
+      "names_mentioned": [
+        "Tyler",
+        "Braden"
+      ],
+      "excerpt": "He earned it. I thought his playmaking, his ability to get downhill, he did a great job.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Braden also has 38 minutes. How do you feel about that? Rookies are getting minutes in the 30s in the NBA right now. It's hard to sit a guy like that who's playing well."
+        },
+        {
+          "speaker": "Taylor Jenkins",
+          "text": "Yeah, he played great. He earned it. I thought his playmaking, his ability to get downhill, he did a great job offensive rebounding, defensive rebounding, was making some shots, getting to the free-throw line. I thought he did a solid job on defense. There's some things he can do better, but he was playing great tonight. I mean Tyler had a great night, Braden had a great night. They were kind of our best at getting into the paint throughout the game, so reward the kid, he earned it."
+        }
+      ],
+      "start_seconds": 101,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Taylor Jenkins praises his rookies for earning heavy minutes. He says it is hard to sit a guy like Braden who is playing well and notes that both Braden and Tyler were the best at getting into the paint tonight.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Braden",
+          "Tyler"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins praises the performance of rookies Braden and Tyler after they received significant playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "VpnLiomjjZc",
+  "url": "https://www.youtube.com/watch?v=VpnLiomjjZc",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-07T04:32:58Z",
+  "duration_seconds": 138,
+  "processed_at": "2026-11-07T07:17:53Z",
+  "run_id": "2026-11-07-overnight",
+  "is_one_off": false
+}
