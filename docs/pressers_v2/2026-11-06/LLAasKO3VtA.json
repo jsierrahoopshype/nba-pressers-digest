@@ -1,0 +1,380 @@
+{
+  "video_title": "LIVE: Pelicans vs. Timberwolves Pregame w/ Jamahl Mosley 11/6/2026",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "04:14",
+      "summary_phrase": "Jamahl Mosley on managing the starting lineup with Trey Murphy III",
+      "names_mentioned": [
+        "Trey Murphy III"
+      ],
+      "excerpt": "I'll let you know right before the game gets going.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "So with Trey available tonight, how do you plan once again to manage your starting lineup?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I'll let you know right before the game gets going."
+        }
+      ],
+      "start_seconds": 254,
+      "end_seconds": 264,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley says he will wait until right before tipoff to announce his starting lineup decisions regarding Trey Murphy III for tonight's game against the Timberwolves.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Jamahl Mosley is asked about his plans for managing the starting lineup now that Trey Murphy III is available to play.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "04:31",
+      "summary_phrase": "Jamahl Mosley on the challenge of facing the Timberwolves",
+      "names_mentioned": [
+        "Chris Finch",
+        "LaMelo Ball"
+      ],
+      "excerpt": "Finch does a great job of adjusting to whatever is on his plate.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Initial thoughts on the Timberwolves, now that you've looked at their film plenty, and minus a superstar, what makes them such a challenge?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Well one, Finch is a heck of a coach. That's first thing. He does a great job of adjusting to whatever is on his plate. The next piece behind that is that LaMelo Ball is incredible, and you got different guys just stepping up in his absence. Playing faster, crashing the glass, shooting a lot of threes, attacking the basket, just opening the floor up so much. They present a lot of problems for us and it's a great challenge to have."
+        }
+      ],
+      "start_seconds": 271,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on facing the Timberwolves without their superstar: They are playing faster, crashing the glass, and shooting a lot of threes. They present a lot of problems for us and it is a great challenge to have.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Finch",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley discusses the challenges of facing the Timberwolves and praises the coaching of Chris Finch and the play of LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "05:10",
+      "summary_phrase": "Jamahl Mosley on defensive strategy against LaMelo Ball",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "Great players make you do different things, and so you can't give them the same dose.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Following up with LaMelo, basically when he crosses half court, he's in range. Defensively, do you give him any space or do you have to get up in him?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Great players make you do different things, and so you can't give them the same dose of all night long. So there'll be some pickups, there'll be some dropbacks, there'll be some different coverages that you have to have him see, but you can't give him the same thing over and over and over again. Changing matchups, changing style, changing defenses, that's a lot of things when guys that can shoot like that and attack the basket and play make for so many others, you have to be able to adjust what you do to guys like that."
+        }
+      ],
+      "start_seconds": 310,
+      "end_seconds": 359,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Defending LaMelo Ball requires variety according to Jamahl Mosley. You cannot give him the same look all night, so the team plans to mix up pickups, dropbacks, and different coverages to keep him off balance.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley explains the defensive strategy required to contain LaMelo Ball during the upcoming game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "05:51",
+      "summary_phrase": "Jamahl Mosley on the defensive challenges presented by Rudy Gobert",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "He does an unbelievable job protecting the rim, finishing possessions.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Rudy Gobert, just what kind of challenges does he present?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Same. Same as, you know, as a big that he does an unbelievable job protecting the rim, finishing possessions defensively, and then offensively obviously crashing the glass, giving them extra possessions offensively. They do a great job of crashing the glass as a team, so we've got to make sure that we're boxing out in order to finish out possessions ourselves. But Rudy is a problem down there and he does a great job for them in his minutes."
+        }
+      ],
+      "start_seconds": 351,
+      "end_seconds": 385,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_post": "Jamahl Mosley on the challenge of facing Rudy Gobert: He does an unbelievable job protecting the rim and finishing possessions defensively. We have to make sure we are boxing out to finish possessions ourselves.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "NOP",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley identifies the defensive and rebounding challenges presented by Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "06:19",
+      "summary_phrase": "Jamahl Mosley on treating the NBA Cup as a regular game",
+      "names_mentioned": [],
+      "excerpt": "Take care of home is always the priority.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Is it a kind of different message to your team with it being a Cup game or y'all try to treat it just like a regular game?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "A little bit of both. You know, I think take care of home is always the priority. I think that's one thing, but then the Cup game, you obviously know the things behind it. Our guys understand that, there's the extra level of intensity, the bragging rights, the Cup purse that you get. I think these guys all see that, they feel that, so I don't think there needs a lot of talk to it, they recognize it already."
+        }
+      ],
+      "start_seconds": 379,
+      "end_seconds": 420,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley says his team recognizes the extra intensity and stakes of the NBA Cup, noting that the players feel the competitive edge and the value of the bragging rights involved.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley explains how the team approaches NBA Cup games compared to regular season games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "06:46",
+      "summary_phrase": "Jamahl Mosley on the impact of the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "I think it adds to the competitive edge of the guys early on in the season.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Pick you back on that with the NBA Cup now that it's been adapted, had a few years to be implemented, just how do you feel the league has accepted it as a, you know, an actual trophy you want to go win?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Yeah, I think it's great. I think it adds to the competitive edge of the guys early on in the season. I think it gives these guys an opportunity to have bragging rights throughout the year. I think that goes a long way with a group of young men throughout the league that are always communicating with one another that you see post-game, pre-game. These guys, you have bragging rights, and I think that's a big thing for the league, it's a big thing for our guys, as well as for the fans to be able to see where the Cup is going to be."
+        }
+      ],
+      "start_seconds": 406,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_post": "Jamahl Mosley believes the NBA Cup is a positive addition to the league, noting that it adds to the competitive edge early in the season and provides players with meaningful bragging rights.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley shares his thoughts on the impact of the NBA Cup on player competitiveness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "07:25",
+      "summary_phrase": "Jamahl Mosley on the historic nature of the Hinkle Fieldhouse",
+      "names_mentioned": [],
+      "excerpt": "The league does a great job of finding ways to promote the history of the game.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Looking at the championship, I know that's a little bit further out of the way, but at Hinkle Fieldhouse, being at a historic venue, do you think that's something that the league can do to just do more for the history and promote it better?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Yeah, I mean I think the league does a great job of finding ways to promote the history of the game and to keep showing the importance of having the love for the game and what it's brought so many people to and through and how it continues to bring people together. And that's one of the situations that we're looking at right now."
+        }
+      ],
+      "start_seconds": 445,
+      "end_seconds": 487,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Jamahl Mosley praises the NBA for its efforts to promote the history of the game, specifically regarding the league's focus on historic venues like Hinkle Fieldhouse.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley comments on the league's efforts to promote the history of the game at venues like Hinkle Fieldhouse.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "07:56",
+      "summary_phrase": "Jamahl Mosley on the balance of team-oriented offense",
+      "names_mentioned": [
+        "Saddiq Bey",
+        "Jerami Grant",
+        "Zion Williamson",
+        "Dejounte Murray"
+      ],
+      "excerpt": "To have a one initiator is hard to say in this moment right now.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We've heard you say winning by committee, it's important having different guys step up has been amazing for this group so far. Do you feel like there's a balance to though in kind of being able to ignite or start an offense through someone or somebody on this team that you want the offense running through?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "That's a really good question. It's a really good question. I, you know, you balance that. I think it's it's a tricky balance and like the other night, just for instance, Saddiq had it going late, so you go through there and the guys celebrate that, that's what we know we have going. There's been moments where Jerami Grant starts the offense, him and the pick and roll with Z, that tends to be something that we can go to. Dejounte has the moments when he gets downhill and he's attacking and he's finding and spraying for guys. So to have a one initiator is hard to say in this moment right now. As we continue to go through the season and we're eight games in, we'll be able to dissect a little bit more of what we can see from different guys and who handles those moments well."
+        }
+      ],
+      "start_seconds": 476,
+      "end_seconds": 555,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Jamahl Mosley on his team's offensive identity: It is a tricky balance. We do not have one single initiator right now, but we are learning who handles those late game moments well as the season progresses.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Saddiq Bey",
+          "Jerami Grant",
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley discusses the balance of his team's offense and the roles of various players as initiators.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "LLAasKO3VtA",
+  "url": "https://www.youtube.com/watch?v=LLAasKO3VtA",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-06T23:24:50Z",
+  "duration_seconds": 578,
+  "processed_at": "2026-11-07T00:06:59Z",
+  "run_id": "2026-11-07T0006Z-20utc",
+  "is_one_off": false
+}

@@ -1,0 +1,178 @@
+{
+  "video_title": "Brandon Ingram - Media Availability (11/6/26) | LA Clippers",
+  "speakers_seen": [
+    "Brandon Ingram"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandon Ingram",
+      "timestamp": "00:09",
+      "summary_phrase": "Brandon Ingram on the unexpected nature of his recent surgery",
+      "names_mentioned": [],
+      "excerpt": "the doctor figured it out during surgery. Initially supposed to remove a bone out of my heel.",
+      "quote": "It actually happened, the doctor figured it out during surgery. Initially supposed to remove a bone out of my heel, and then they found that while they were doing the surgery, they suspected something else.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_post": "Brandon Ingram reveals his recent heel surgery was more complicated than expected after doctors discovered an additional issue while performing the procedure.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brandon Ingram explains that doctors discovered an additional issue during his recent heel surgery.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandon Ingram",
+      "timestamp": "00:40",
+      "summary_phrase": "Brandon Ingram on his physical recovery and return to the court",
+      "names_mentioned": [],
+      "excerpt": "my body is feeling good, my heel is feeling better, so we are getting closer.",
+      "quote": "I feel good. I have been on the floor with the rest of the guys, doing some three-on-three and five-on-five a little bit. So, my body is feeling good, my heel is feeling better, so we are getting closer.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_post": "Brandon Ingram says he is feeling good and has progressed to participating in three on three and five on five work as he nears a return to the court.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brandon Ingram provides an update on his physical recovery and his progress in returning to team practices.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brandon Ingram",
+      "timestamp": "02:07",
+      "summary_phrase": "Brandon Ingram on the impact of Max Christie and Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Max Christie",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "Max Christie coming back had a big impact on the team. He's made the team better.",
+      "quote": "Max Christie coming back had a big impact on the team. He's made the team better. Giannis Antetokounmpo is coming back soon, we have some guys coming back soon, so as a full team, I think we will mesh well and be a little better than we have been.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brandon Ingram believes the Clippers will mesh well once the team is fully healthy, noting the impact of Max Christie and the upcoming return of Giannis Antetokounmpo.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Max Christie",
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Ingram discusses the positive impact of returning teammates on the team's chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brandon Ingram",
+      "timestamp": "03:31",
+      "summary_phrase": "Brandon Ingram on learning from the coaching staff's experience",
+      "names_mentioned": [
+        "Jeff Van Gundy",
+        "Tyronn Lue"
+      ],
+      "excerpt": "It's good to learn from each one of those guys.",
+      "quote": "I have had a chance to actually watch them on TV. Every time I hear Jeff Van Gundy's voice, I think about ESPN. And watching Tyronn Lue in his finals games. It's good to learn from each one of those guys. Definitely have things for you to get better, defensively and offensively.",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_post": "Brandon Ingram discusses learning from the coaching staff, noting the experience Tyronn Lue and Jeff Van Gundy bring to the team.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeff Van Gundy",
+          "Tyronn Lue"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Brandon Ingram reflects on learning from the experience of coaching staff members Jeff Van Gundy and Tyronn Lue.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brandon Ingram",
+      "timestamp": "04:45",
+      "summary_phrase": "Brandon Ingram on Tyronn Lue's expectations for his role",
+      "names_mentioned": [],
+      "excerpt": "He expects me to score, he expects me to be a leader, to playmake for the guys.",
+      "quote": "He expects me to score, he expects me to be a leader, to playmake for the guys, and to defend, and to know when to play.",
+      "text_blocks": [],
+      "start_seconds": 285,
+      "end_seconds": 295,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_post": "Brandon Ingram outlines his role under Tyronn Lue, stating the coach expects him to score, lead, playmake, and defend.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyronn Lue"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Brandon Ingram describes the expectations head coach Tyronn Lue has for his role on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Xgr2uxqu_R0",
+  "url": "https://www.youtube.com/watch?v=Xgr2uxqu_R0",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-06T22:52:40Z",
+  "duration_seconds": 441,
+  "processed_at": "2026-11-07T00:06:55Z",
+  "run_id": "2026-11-07T0006Z-20utc",
+  "is_one_off": false
+}
