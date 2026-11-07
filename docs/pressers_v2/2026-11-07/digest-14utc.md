@@ -8,6 +8,8 @@ Trae Young: "Yeah, I didn't get to really get to say goodbye, obviously whenever
 
 [https://www.youtube.com/watch?v=QSvQdMSqP5A&t=565s](https://www.youtube.com/watch?v=QSvQdMSqP5A&t=565s)
 
+<small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=565&q=1) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=565&q=1&slack=1)</small>
+
 From: [Media Availability: Brian Keefe and Trae Young | 11.6.26](https://www.youtube.com/watch?v=QSvQdMSqP5A) · *Washington Wizards*
 
 <small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=565&q=5) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=565&q=5&slack=1)</small>
@@ -22,6 +24,8 @@ Jamahl Mosley: "I think what went into that decision, it was because the ability
 
 [https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s)
 
+<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=1) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=1&slack=1)</small>
+
 From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://www.youtube.com/watch?v=rbSz1cPZ_Bw) · *New Orleans Pelicans*
 
 <small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8&slack=1)</small>
@@ -31,6 +35,8 @@ From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://ww
 Jamahl Mosley: "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration. Part of it is that. It's a close game going into the fourth. Our ability to get downhill, we attacked the basket a couple times, it didn't get the call. Not the reason, but again, big fellas going down there trying to attack the basket the right way, he's got to get the same kind of bumps that we're giving away on the other end."
 
 [https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s)
+
+<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2&slack=1)</small>
 
 From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://www.youtube.com/watch?v=rbSz1cPZ_Bw) · *New Orleans Pelicans*
 

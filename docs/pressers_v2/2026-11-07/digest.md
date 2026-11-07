@@ -88,7 +88,27 @@ From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtub
 
 <small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5&slack=1)</small>
 
-**9. Jared McCain — "just trying to set early ones for Shai, for Jalen, for them to get downhill" — Jared McCain on offensive game plan and spacing** [01:06](https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s)
+**9. Miles Bridges — "He was just telling me to play bigger than what I am." — Miles Bridges on advice from Shaquille O'Neal to play bigger** [01:46](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
+
+Miles Bridges: "I did get to talk to **Shaquille O'Neal** a couple weeks ago when he was here. He was just telling me to play bigger than what I am. Just grab every rebound, push in transition, and offensive rebound, and I have been taking his word and doing that ever since."
+
+[https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
+
+From: [Miles Bridges Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=GrLef5VJSMw) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=106&q=1) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=106&q=1&slack=1)</small>
+
+**10. Miles Bridges — "The only thing with us is we have got to do a better job of rebounding." — Miles Bridges on the need for better rebounding from the team** [02:24](https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s)
+
+Miles Bridges: "The only thing with us is we have got to do a better job of rebounding. Stop giving teams second chances, because I feel like our half-court defense is pretty good. It is just when teams get rebounds and kick-outs, that is when we get in trouble. So, once we start rebounding, I think our defense will pick up."
+
+[https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s)
+
+From: [Miles Bridges Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=GrLef5VJSMw) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=144&q=2) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=144&q=2&slack=1)</small>
+
+**11. Jared McCain — "just trying to set early ones for Shai, for Jalen, for them to get downhill" — Jared McCain on offensive game plan and spacing** [01:06](https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s)
 
 Jared McCain: "Whoever we were trying to attack, just trying to set early ones for Shai, for Jalen, for them to get downhill. They usually come back and double Shai, so being able to pull over. That was the game plan, just make sure we get defenders that we want on the ball, make them tired, make them try and chase Shai or Jalen around. Being able to pull over and obviously when we got it and making shots like that, it's pretty fun to watch."
 
@@ -98,7 +118,7 @@ From: [Jared McCain on Team's Playmaking in Memphis | Postgame Media | November 
 
 <small>[Clip it](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=2) · [Send to Slack](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=2&slack=1)</small>
 
-**10. Dyson Daniels — "our game plan was making him force him left, channel the ball screens" — Dyson Daniels on the defensive game plan against Trae Young** [00:56](https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s)
+**12. Dyson Daniels — "our game plan was making him force him left, channel the ball screens" — Dyson Daniels on the defensive game plan against Trae Young** [00:56](https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s)
 
 Dyson Daniels: "It's different playing against Trae. Obviously, super talented guy. He's a really good player, gets his teammates involved. Our game plan was making him force him left, channel the ball screens and stuff, and keep him contained that way. Trae is a good player, he's going to make some shots, but I thought as a team we did a pretty good job in just containing him and making him take tough shots."
 
@@ -108,7 +128,7 @@ From: [Hawks vs. Wizards Postgame Press Conference: Onyeka Okongwu and Dyson Dan
 
 <small>[Clip it](presserclips://clip?v=NYxPxPKUNSI&t=56&q=2) · [Send to Slack](presserclips://clip?v=NYxPxPKUNSI&t=56&q=2&slack=1)</small>
 
-**11. Trae Young — "AJ is a future star. Obviously today didn't have a shot going, but he's going to have really good nights." — Trae Young on the development of AJ Griffin as a future star** [07:11](https://www.youtube.com/watch?v=QSvQdMSqP5A&t=431s)
+**13. Trae Young — "AJ is a future star. Obviously today didn't have a shot going, but he's going to have really good nights." — Trae Young on the development of AJ Griffin as a future star** [07:11](https://www.youtube.com/watch?v=QSvQdMSqP5A&t=431s)
 
 Trae Young: "AJ is a future star. Obviously today didn't have a shot going, but he's going to have really good nights and he's going to have some bad nights and that's part of being a rookie. You see around the league with other rookies that don't have veterans around them that can help get them some wins, you're out there by yourself sometimes. So there's going to be nights that he's not going to have it like tonight and he may have it tomorrow."
 
@@ -118,7 +138,7 @@ From: [Media Availability: Brian Keefe and Trae Young | 11.6.26](https://www.you
 
 <small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=431&q=4) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=431&q=4&slack=1)</small>
 
-**12. Jamal Shead — "when guys are ready for their moment, they pop and he popped tonight" — Jamal Shead on Elijah Fisher's resilience and breakout performance** [00:13](https://www.youtube.com/watch?v=_uupgzUP4ak&t=13s)
+**14. Jamal Shead — "when guys are ready for their moment, they pop and he popped tonight" — Jamal Shead on Elijah Fisher's resilience and breakout performance** [00:13](https://www.youtube.com/watch?v=_uupgzUP4ak&t=13s)
 
 Jamal Shead: "It is awesome because **Elijah Fisher** has been through a small injury this summer, fell off of the two-way, and just been there, just waiting, waiting, waiting. Tonight was awesome because when guys are ready for their moment, they pop and he popped tonight. It was awesome. He got a little hype, he was trying to say feed me, feed me, feed me. It was cool to see him get his shine and really help us win tonight."
 
@@ -128,35 +148,25 @@ From: [Jamal Shead | Post Game at Milwaukee Bucks | November 06, 2026](https://w
 
 <small>[Clip it](presserclips://clip?v=_uupgzUP4ak&t=13&q=1) · [Send to Slack](presserclips://clip?v=_uupgzUP4ak&t=13&q=1&slack=1)</small>
 
-**13. Tyler Herro — "we're trying to sustain our game for 48 minutes. We've seen it in pockets" — Tyler Herro on the team's inability to sustain defensive intensity** [00:00](https://www.youtube.com/watch?v=t5TK4iL0H24&t=0s)
+**15. Luke Kennard — "It has to be my job to stay aggressive and find a way no matter what." — Luke Kennard on his need to stay aggressive offensively** [00:41](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s)
 
-Tyler Herro: "We're trying to sustain our game for 48 minutes. We've seen it in pockets, but in the second half, we didn't really crash the glass much, and that was part of why they were able to get out in transition. We got to lose, I think, 16 less possessions than them. It's tough to beat anyone with 16 less possessions."
+Luke Kennard: "It comes down to the flow of the game, opportunity. I didn't want to force anything. The way the game was being played, sometimes that might happen. Obviously, I don't want that to happen. Nobody wants that to happen, to get no shots up, no threes up, especially. It has to be my job to stay aggressive and find a way no matter what. I wasn't at my best that night, obviously, and it's something that can't happen again, and I'll definitely try to make sure it doesn't."
 
-[https://www.youtube.com/watch?v=t5TK4iL0H24&t=0s](https://www.youtube.com/watch?v=t5TK4iL0H24&t=0s)
+[https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s)
 
-From: [Tyler Herro Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=t5TK4iL0H24) · *Milwaukee Bucks*
+From: [Luke Kennard Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=aWddSSnx4Ho) · *Phoenix Suns*
 
-<small>[Clip it](presserclips://clip?v=t5TK4iL0H24&t=0&q=1) · [Send to Slack](presserclips://clip?v=t5TK4iL0H24&t=0&q=1&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=41&q=1) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=41&q=1&slack=1)</small>
 
-**14. Donovan Mitchell — "It was big time to have him back, especially considering Jarrett Allen was out." — Donovan Mitchell on the defensive impact of Caris LeVert** [00:49](https://www.youtube.com/watch?v=udYCFQER0i4&t=49s)
+**16. Luke Kennard — "Colin telling me before the season started he wants me to take like 10 a game." — Luke Kennard on his role and shooting expectations from coaching staff** [02:25](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s)
 
-Donovan Mitchell: "It was big time to have him back, especially considering Jarrett Allen was out. Having him in there, having **Evan Mobley** who has his length, and then **Caris LeVert** who is disrupting the ball. When Evan is on the perimeter, you got a guy like Caris down there challenging guys at the rim, making it tough on guys on ball. It was big time to have him back, especially considering Jarrett Allen was out. You look at what he's done on the defensive end and then offensively, six of 14, plus 22, nine boards, doing it all."
+Luke Kennard: "Since I got here, everybody wants me to shoot, they want me to be aggressive, get a lot of shots up, a lot of threes up. I remember **Colin** telling me before the season started he wants me to take like 10 a game. Obviously, it comes down to situations, minutes, all the things like that, but it's definitely on my mind to get more up, more threes up. I think last game I did a better job of that."
 
-[https://www.youtube.com/watch?v=udYCFQER0i4&t=49s](https://www.youtube.com/watch?v=udYCFQER0i4&t=49s)
+[https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s)
 
-From: [Cavs vs 76ers | Donovan Mitchell & Evan Mobley Post Game | 11.06.2026](https://www.youtube.com/watch?v=udYCFQER0i4) · *Cleveland Cavaliers*
+From: [Luke Kennard Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=aWddSSnx4Ho) · *Phoenix Suns*
 
-<small>[Clip it](presserclips://clip?v=udYCFQER0i4&t=49&q=2) · [Send to Slack](presserclips://clip?v=udYCFQER0i4&t=49&q=2&slack=1)</small>
-
-**15. Hannes Steinbach — "We just try to stay together and stay positive through the rough." — Steinbach on maintaining team positivity amid injury challenges** [01:07](https://www.youtube.com/watch?v=-EEgyeocL8g&t=67s)
-
-Hannes Steinbach: "I think we just try to stay together. I think unfortunately part of the game, injuries, we've been pretty unlucky the last few games, so we just try to stay together and stay positive through the rough."
-
-[https://www.youtube.com/watch?v=-EEgyeocL8g&t=67s](https://www.youtube.com/watch?v=-EEgyeocL8g&t=67s)
-
-From: [Hornets vs Celtics: Hannes Steinbach Postgame Media Availability | 11/6/2026](https://www.youtube.com/watch?v=-EEgyeocL8g) · *Charlotte Hornets*
-
-<small>[Clip it](presserclips://clip?v=-EEgyeocL8g&t=67&q=3) · [Send to Slack](presserclips://clip?v=-EEgyeocL8g&t=67&q=3&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=145&q=2) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=145&q=2&slack=1)</small>
 
 ---
 
@@ -684,6 +694,54 @@ _Speakers identified: Ayo Dosunmu, Meghan McPeak_
 
 ---
 
+## Miles Bridges Shootaround Media Availability | 11-7-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=GrLef5VJSMw](https://www.youtube.com/watch?v=GrLef5VJSMw)
+
+_Speakers identified: Miles Bridges_
+
+**1. Miles Bridges — "He was just telling me to play bigger than what I am." — Miles Bridges on advice from Shaquille O'Neal to play bigger** [01:46](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
+
+Miles Bridges: "I did get to talk to **Shaquille O'Neal** a couple weeks ago when he was here. He was just telling me to play bigger than what I am. Just grab every rebound, push in transition, and offensive rebound, and I have been taking his word and doing that ever since."
+
+[https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=106&q=1) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=106&q=1&slack=1)</small>
+
+**2. Miles Bridges — "The only thing with us is we have got to do a better job of rebounding." — Miles Bridges on the need for better rebounding from the team** [02:24](https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s)
+
+Miles Bridges: "The only thing with us is we have got to do a better job of rebounding. Stop giving teams second chances, because I feel like our half-court defense is pretty good. It is just when teams get rebounds and kick-outs, that is when we get in trouble. So, once we start rebounding, I think our defense will pick up."
+
+[https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s)
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=144&q=2) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=144&q=2&slack=1)</small>
+
+**3. Miles Bridges — "Here at Phoenix, we want to turn the ball over." — Miles Bridges on adjusting to the Phoenix Suns' defensive system** [02:54](https://www.youtube.com/watch?v=GrLef5VJSMw&t=174s)
+
+Miles Bridges: "Just getting used to the system. Like I said before, with Charlotte, we were playing defense where we would not want a team to get downhill or get a good shot up. Here at Phoenix, we want to turn the ball over. So, you know, I have been more aggressive with that and trying to just get steals and get blocks."
+
+[https://www.youtube.com/watch?v=GrLef5VJSMw&t=174s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=174s)
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=174&q=3) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=174&q=3&slack=1)</small>
+
+**4. Miles Bridges — "Being able to shoot with one of the best three-point shooters in the league is helping me." — Miles Bridges on building chemistry with Kevin Durant and the team** [03:17](https://www.youtube.com/watch?v=GrLef5VJSMw&t=197s)
+
+Miles Bridges: "Just need shooting with **Kevin Durant**. Being able to shoot with one of the best three-point shooters in the league is definitely been helping me in my confidence. My teammates have confidence in me shooting the ball. Every time I pass it for a shot, they tell me to shoot it. So, credit to my teammates and my coaches."
+
+[https://www.youtube.com/watch?v=GrLef5VJSMw&t=197s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=197s)
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=197&q=4) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=197&q=4&slack=1)</small>
+
+**5. Miles Bridges — "The best players are the ones that move around all the time." — Miles Bridges on the importance of off-ball movement** [05:25](https://www.youtube.com/watch?v=GrLef5VJSMw&t=325s)
+
+Miles Bridges: "The best players are the ones that move around all the time. There is only a few players that just iso their whole career, **James Harden**, **Luka Doncic**, those type of guys. You have to have a special talent for that. For me, I have to get mine off the rebound, cut to the basket, transition, and get stops. So, that is just my game."
+
+[https://www.youtube.com/watch?v=GrLef5VJSMw&t=325s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=325s)
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=325&q=5) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=325&q=5&slack=1)</small>
+
+---
+
 ## Micah Nori Postgame Interview | Portland Trail Blazers 118, LA Lakers 124 | Nov. 6, 2026 — *Portland Trail Blazers*
 
 Source: [https://www.youtube.com/watch?v=HNc7N4PQiBI](https://www.youtube.com/watch?v=HNc7N4PQiBI)
@@ -993,6 +1051,54 @@ Jamal Shead: "I had a really good connection with **Jock Landale**. We talked a 
 [https://www.youtube.com/watch?v=_uupgzUP4ak&t=216s](https://www.youtube.com/watch?v=_uupgzUP4ak&t=216s)
 
 <small>[Clip it](presserclips://clip?v=_uupgzUP4ak&t=216&q=4) · [Send to Slack](presserclips://clip?v=_uupgzUP4ak&t=216&q=4&slack=1)</small>
+
+---
+
+## Luke Kennard Shootaround Media Availability | 11-7-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=aWddSSnx4Ho](https://www.youtube.com/watch?v=aWddSSnx4Ho)
+
+_Speakers identified: Luke Kennard_
+
+**1. Luke Kennard — "It has to be my job to stay aggressive and find a way no matter what." — Luke Kennard on his need to stay aggressive offensively** [00:41](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s)
+
+Luke Kennard: "It comes down to the flow of the game, opportunity. I didn't want to force anything. The way the game was being played, sometimes that might happen. Obviously, I don't want that to happen. Nobody wants that to happen, to get no shots up, no threes up, especially. It has to be my job to stay aggressive and find a way no matter what. I wasn't at my best that night, obviously, and it's something that can't happen again, and I'll definitely try to make sure it doesn't."
+
+[https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s)
+
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=41&q=1) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=41&q=1&slack=1)</small>
+
+**2. Luke Kennard — "Colin telling me before the season started he wants me to take like 10 a game." — Luke Kennard on his role and shooting expectations from coaching staff** [02:25](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s)
+
+Luke Kennard: "Since I got here, everybody wants me to shoot, they want me to be aggressive, get a lot of shots up, a lot of threes up. I remember **Colin** telling me before the season started he wants me to take like 10 a game. Obviously, it comes down to situations, minutes, all the things like that, but it's definitely on my mind to get more up, more threes up. I think last game I did a better job of that."
+
+[https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s)
+
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=145&q=2) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=145&q=2&slack=1)</small>
+
+**3. Luke Kennard — "Rebounding has been a big thing for us." — Luke Kennard on team's growth and rebounding focus** [03:17](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=197s)
+
+Luke Kennard: "I really feel like we've gotten better each and every day, every game. Obviously, there's some things we have to clean up that teams take advantage of, especially against a team like Houston, rebounding. Rebounding has been a big thing for us. There's a care factor within this group of wanting to get better. We talk about things with coaches, we're always talking to each other, communicating, and we know we want to be better, we want to win more games. When we start to clean up some of those smaller things, I think we'll have a lot of success."
+
+[https://www.youtube.com/watch?v=aWddSSnx4Ho&t=197s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=197s)
+
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=197&q=3) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=197&q=3&slack=1)</small>
+
+**4. Luke Kennard — "No matter what, make or miss, they still want you to shoot them." — Luke Kennard on the confidence boost from teammates and coaching staff** [04:14](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=254s)
+
+Luke Kennard: "It gives you confidence every time you step on the floor because no matter what, make or miss, they still want you to shoot them. There was a timeout last game, I just missed a three in the second half. I only took I think two shots in the second half, two threes maybe. After the second one I missed, there was a timeout, and we were coming back on the floor and coach told me I just passed up a shot. He's like, 'I don't care if it's three, four possessions in a row, if you're open, shoot it.' Everybody feels that way, everybody continues to say that to me, and it builds confidence going into each game."
+
+[https://www.youtube.com/watch?v=aWddSSnx4Ho&t=254s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=254s)
+
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=254&q=4) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=254&q=4&slack=1)</small>
+
+**5. Luke Kennard — "I take a lot of pride in just like my IQ." — Luke Kennard on his basketball IQ and adapting to different systems** [06:20](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=380s)
+
+Luke Kennard: "I take a lot of pride in just like my IQ. I've played for a long time, I've been in a lot of different situations, I've experienced a lot of stuff. The game has changed even since I've been in the league, but you got to find ways to adapt. The way the game is playing, the way guys are being guarded, the way offenses are running different systems and situations. For me, it's watching film, again, playing within the flow of the game, and I take pride in that IQ that I have playing the game of basketball."
+
+[https://www.youtube.com/watch?v=aWddSSnx4Ho&t=380s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=380s)
+
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=380&q=5) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=380&q=5&slack=1)</small>
 
 ---
 

@@ -1,0 +1,169 @@
+{
+  "video_title": "Luke Kennard Shootaround Media Availability | 11-7-26",
+  "speakers_seen": [
+    "Luke Kennard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luke Kennard",
+      "timestamp": "00:41",
+      "summary_phrase": "Luke Kennard on his need to stay aggressive offensively",
+      "names_mentioned": [],
+      "excerpt": "It has to be my job to stay aggressive and find a way no matter what.",
+      "quote": "It comes down to the flow of the game, opportunity. I didn't want to force anything. The way the game was being played, sometimes that might happen. Obviously, I don't want that to happen. Nobody wants that to happen, to get no shots up, no threes up, especially. It has to be my job to stay aggressive and find a way no matter what. I wasn't at my best that night, obviously, and it's something that can't happen again, and I'll definitely try to make sure it doesn't.",
+      "text_blocks": [],
+      "start_seconds": 41,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Luke Kennard says he needs to be more aggressive offensively after a low volume night. He admits he was not at his best and says it is his job to find a way to get shots up no matter what.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Luke Kennard discusses his need to remain aggressive on offense after failing to attempt many shots in a previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Luke Kennard",
+      "timestamp": "02:25",
+      "summary_phrase": "Luke Kennard on his role and shooting expectations from coaching staff",
+      "names_mentioned": [
+        "Colin"
+      ],
+      "excerpt": "Colin telling me before the season started he wants me to take like 10 a game.",
+      "quote": "Since I got here, everybody wants me to shoot, they want me to be aggressive, get a lot of shots up, a lot of threes up. I remember Colin telling me before the season started he wants me to take like 10 a game. Obviously, it comes down to situations, minutes, all the things like that, but it's definitely on my mind to get more up, more threes up. I think last game I did a better job of that.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Luke Kennard says the coaching staff wants him to be aggressive and take more threes. He noted that Colin told him before the season he wants him to take about 10 threes per game.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Colin"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Luke Kennard explains that the coaching staff wants him to increase his volume of three-point attempts per game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Luke Kennard",
+      "timestamp": "03:17",
+      "summary_phrase": "Luke Kennard on team's growth and rebounding focus",
+      "names_mentioned": [],
+      "excerpt": "Rebounding has been a big thing for us.",
+      "quote": "I really feel like we've gotten better each and every day, every game. Obviously, there's some things we have to clean up that teams take advantage of, especially against a team like Houston, rebounding. Rebounding has been a big thing for us. There's a care factor within this group of wanting to get better. We talk about things with coaches, we're always talking to each other, communicating, and we know we want to be better, we want to win more games. When we start to clean up some of those smaller things, I think we'll have a lot of success.",
+      "text_blocks": [],
+      "start_seconds": 197,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Luke Kennard says the Suns are focused on cleaning up their rebounding after recent struggles. He believes the team is getting better every day and has the right mindset to improve.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Luke Kennard reflects on the team's growth and the need to improve rebounding following a game against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Luke Kennard",
+      "timestamp": "04:14",
+      "summary_phrase": "Luke Kennard on the confidence boost from teammates and coaching staff",
+      "names_mentioned": [],
+      "excerpt": "No matter what, make or miss, they still want you to shoot them.",
+      "quote": "It gives you confidence every time you step on the floor because no matter what, make or miss, they still want you to shoot them. There was a timeout last game, I just missed a three in the second half. I only took I think two shots in the second half, two threes maybe. After the second one I missed, there was a timeout, and we were coming back on the floor and coach told me I just passed up a shot. He's like, 'I don't care if it's three, four possessions in a row, if you're open, shoot it.' Everybody feels that way, everybody continues to say that to me, and it builds confidence going into each game.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Luke Kennard says his coaches and teammates keep his confidence high. He shared that his coach told him during a timeout I do not care if it is three or four possessions in a row if you are open shoot it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates",
+          "coaching decisions"
+        ],
+        "context": "Luke Kennard describes how his teammates and coaches encourage him to keep shooting even after misses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Luke Kennard",
+      "timestamp": "06:20",
+      "summary_phrase": "Luke Kennard on his basketball IQ and adapting to different systems",
+      "names_mentioned": [],
+      "excerpt": "I take a lot of pride in just like my IQ.",
+      "quote": "I take a lot of pride in just like my IQ. I've played for a long time, I've been in a lot of different situations, I've experienced a lot of stuff. The game has changed even since I've been in the league, but you got to find ways to adapt. The way the game is playing, the way guys are being guarded, the way offenses are running different systems and situations. For me, it's watching film, again, playing within the flow of the game, and I take pride in that IQ that I have playing the game of basketball.",
+      "text_blocks": [],
+      "start_seconds": 380,
+      "end_seconds": 418,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Luke Kennard says he takes a lot of pride in his basketball IQ. He noted that he has had to adapt to how the game has changed and how offenses are run since he entered the league.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Luke Kennard discusses his basketball IQ and his ability to adapt to different offensive systems throughout his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "aWddSSnx4Ho",
+  "url": "https://www.youtube.com/watch?v=aWddSSnx4Ho",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-07T19:10:44Z",
+  "duration_seconds": 430,
+  "processed_at": "2026-11-07T23:38:34Z",
+  "run_id": "2026-11-07T2338Z-20utc",
+  "is_one_off": false
+}

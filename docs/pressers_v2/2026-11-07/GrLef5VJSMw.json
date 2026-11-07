@@ -1,0 +1,178 @@
+{
+  "video_title": "Miles Bridges Shootaround Media Availability | 11-7-26",
+  "speakers_seen": [
+    "Miles Bridges"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Miles Bridges",
+      "timestamp": "01:46",
+      "summary_phrase": "Miles Bridges on advice from Shaquille O'Neal to play bigger",
+      "names_mentioned": [
+        "Shaquille O'Neal"
+      ],
+      "excerpt": "He was just telling me to play bigger than what I am.",
+      "quote": "I did get to talk to Shaquille O'Neal a couple weeks ago when he was here. He was just telling me to play bigger than what I am. Just grab every rebound, push in transition, and offensive rebound, and I have been taking his word and doing that ever since.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Miles Bridges says he has been playing with more intensity after receiving advice from Shaquille O Neal to play bigger and focus on grabbing every rebound",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shaquille O'Neal"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses advice he received from Shaquille O'Neal regarding his playstyle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:24",
+      "summary_phrase": "Miles Bridges on the need for better rebounding from the team",
+      "names_mentioned": [],
+      "excerpt": "The only thing with us is we have got to do a better job of rebounding.",
+      "quote": "The only thing with us is we have got to do a better job of rebounding. Stop giving teams second chances, because I feel like our half-court defense is pretty good. It is just when teams get rebounds and kick-outs, that is when we get in trouble. So, once we start rebounding, I think our defense will pick up.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Miles Bridges identifies rebounding as the primary issue for the Suns defense saying that stopping second chance opportunities is the key to their success",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges explains the team's need to improve rebounding to strengthen their defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:54",
+      "summary_phrase": "Miles Bridges on adjusting to the Phoenix Suns' defensive system",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "Here at Phoenix, we want to turn the ball over.",
+      "quote": "Just getting used to the system. Like I said before, with Charlotte, we were playing defense where we would not want a team to get downhill or get a good shot up. Here at Phoenix, we want to turn the ball over. So, you know, I have been more aggressive with that and trying to just get steals and get blocks.",
+      "text_blocks": [],
+      "start_seconds": 174,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Miles Bridges explains his defensive adjustment in Phoenix noting that the team prioritizes forcing turnovers compared to his previous role in Charlotte",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Miles Bridges describes the differences between the defensive systems in Phoenix and Charlotte.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:17",
+      "summary_phrase": "Miles Bridges on building chemistry with Kevin Durant and the team",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "Being able to shoot with one of the best three-point shooters in the league is helping me.",
+      "quote": "Just need shooting with Kevin Durant. Being able to shoot with one of the best three-point shooters in the league is definitely been helping me in my confidence. My teammates have confidence in me shooting the ball. Every time I pass it for a shot, they tell me to shoot it. So, credit to my teammates and my coaches.",
+      "text_blocks": [],
+      "start_seconds": 197,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Miles Bridges credits his teammates and Kevin Durant for boosting his confidence as a shooter saying they encourage him to take his shots whenever he is open",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges discusses his confidence and chemistry while playing alongside Kevin Durant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Miles Bridges",
+      "timestamp": "05:25",
+      "summary_phrase": "Miles Bridges on the importance of off-ball movement",
+      "names_mentioned": [
+        "James Harden",
+        "Luka Doncic"
+      ],
+      "excerpt": "The best players are the ones that move around all the time.",
+      "quote": "The best players are the ones that move around all the time. There is only a few players that just iso their whole career, James Harden, Luka Doncic, those type of guys. You have to have a special talent for that. For me, I have to get mine off the rebound, cut to the basket, transition, and get stops. So, that is just my game.",
+      "text_blocks": [],
+      "start_seconds": 325,
+      "end_seconds": 350,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Miles Bridges says he is not a pure isolation scorer like James Harden or Luka Doncic and instead focuses on cutting and transition play to be effective",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges explains his personal approach to off-ball movement compared to isolation-heavy players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "GrLef5VJSMw",
+  "url": "https://www.youtube.com/watch?v=GrLef5VJSMw",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-07T19:12:41Z",
+  "duration_seconds": 361,
+  "processed_at": "2026-11-07T23:38:33Z",
+  "run_id": "2026-11-07T2338Z-20utc",
+  "is_one_off": false
+}
