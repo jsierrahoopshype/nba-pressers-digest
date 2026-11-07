@@ -1,0 +1,185 @@
+{
+  "video_title": "Media Availability: Brian Keefe and Trae Young | 11.6.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Trae Young"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:46",
+      "summary_phrase": "Brian Keefe on the continued evolution of Keyonte George",
+      "names_mentioned": [
+        "Keyonte George"
+      ],
+      "excerpt": "I think it's a continued evolution of his game. The amount of work that he does.",
+      "quote": "I think it's a continued evolution of his game. The amount of work that he does and the time he puts into his body, I think you're just seeing a transformation in him. The way he can initiate and make plays for himself or others, obviously he had a big fourth that kind of got us back in the game, but not surprised by the work he's putting in.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe says the transformation in Keyonte George is a result of the work he puts into his body and his game. He says he is not surprised by the production.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keyonte George"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the ongoing development and work ethic of Keyonte George during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:12",
+      "summary_phrase": "Brian Keefe on the leadership of Trae Young and Anthony Davis",
+      "names_mentioned": [
+        "Trae Young",
+        "Anthony Davis"
+      ],
+      "excerpt": "They're here to put themselves, put our team to position in being these games.",
+      "quote": "They're here to put themselves, put our team to position in being these games. You can see how Trae obviously controls the game, how he can manage the game, and how he can put our guys in position. I thought he did that well. He's done that all season for us and obviously Anthony Davis has been the same thing.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe praises the leadership of Trae Young and Anthony Davis, noting how they have consistently put the team in a position to win games all season.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe praises the leadership and game management skills of Trae Young and Anthony Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trae Young",
+      "timestamp": "05:40",
+      "summary_phrase": "Trae Young on the team's need to improve in all areas",
+      "names_mentioned": [],
+      "excerpt": "Every area, even the good areas that we've been doing as far as just spreading the ball.",
+      "quote": "Every area, even the good areas that we've been doing as far as just spreading the ball, being unselfish. I think we can continue to do that, spread the ball and get, I mean, AJ didn't start the year playing, how he's playing and trying to get his rhythm and then obviously Alex and what he went through the summer and his injury and not really practicing and working out, guys are still trying to figure it out.",
+      "text_blocks": [],
+      "start_seconds": 340,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Trae Young says the team needs to improve in every area, even the ones they are currently doing well in, as players continue to find their rhythm and work through injuries.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Griffin",
+          "Alex Sarr"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Trae Young discusses the team's need for improvement and the process of integrating players like AJ Griffin and Alex Sarr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trae Young",
+      "timestamp": "07:11",
+      "summary_phrase": "Trae Young on the development of AJ Griffin as a future star",
+      "names_mentioned": [
+        "AJ Griffin"
+      ],
+      "excerpt": "AJ is a future star. Obviously today didn't have a shot going, but he's going to have really good nights.",
+      "quote": "AJ is a future star. Obviously today didn't have a shot going, but he's going to have really good nights and he's going to have some bad nights and that's part of being a rookie. You see around the league with other rookies that don't have veterans around them that can help get them some wins, you're out there by yourself sometimes. So there's going to be nights that he's not going to have it like tonight and he may have it tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 431,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Trae Young calls AJ Griffin a future star. He says Griffin will have good nights and bad nights as part of being a rookie, but he is learning to navigate the league.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Griffin"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young shares his perspective on the development of rookie teammate AJ Griffin following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trae Young",
+      "timestamp": "09:25",
+      "summary_phrase": "Trae Young on reuniting with former teammates after being traded",
+      "names_mentioned": [
+        "Tony",
+        "Jamie",
+        "Nick"
+      ],
+      "excerpt": "That family is meant a lot to me and also talking to Quinn.",
+      "quote": "Yeah, I didn't get to really get to say goodbye, obviously whenever I left and got traded and things like that and you don't really get to see and talk to everybody for a long time. So the night being able to come back and see everybody and talk to everybody even after the game like you said, Tony, Jamie, Nick, that family is meant a lot to me and also talking to Quinn. Those group of people, they mean a lot to me.",
+      "text_blocks": [],
+      "start_seconds": 565,
+      "end_seconds": 597,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 7,
+      "social_post": "Trae Young reflects on his trade and reuniting with former teammates, saying that group of people means a lot to him after not getting a chance to say goodbye when he left.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Trae Young reflects on reuniting with former teammates and staff members after being traded.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QSvQdMSqP5A",
+  "url": "https://www.youtube.com/watch?v=QSvQdMSqP5A",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-07T17:40:03Z",
+  "duration_seconds": 632,
+  "processed_at": "2026-11-07T18:44:37Z",
+  "run_id": "2026-11-07T1844Z-14utc",
+  "is_one_off": false
+}

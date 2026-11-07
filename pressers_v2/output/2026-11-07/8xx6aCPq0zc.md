@@ -2,7 +2,7 @@
 
 Source: [https://www.youtube.com/watch?v=8xx6aCPq0zc](https://www.youtube.com/watch?v=8xx6aCPq0zc)
 
-_Speakers identified: Darko Rajakovic, Jamal Shead, Davion Mitchell_
+_Speakers identified: Darko Rajakovic, Jamal Shead, Alijah Martin_
 
 **1. Darko Rajakovic — "Elijah hit a huge game. I'm really happy for him." — Elijah Fisher's recovery from knee surgery and impact on the game** [00:02](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=2s)
 
@@ -70,25 +70,25 @@ Jamal Shead: "Just moving it, just moving the ball. I think our biggest thing th
 
 <small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=377&q=8) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=377&q=8&slack=1)</small>
 
-**9. Davion Mitchell — "I knew I was going to have to play hard because my mom was coming." — Davion Mitchell on his motivation to play hard** [07:38](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=458s)
+**9. Alijah Martin — "I knew I was going to have to play hard because my mom was coming." — Alijah Martin on his motivation to play hard** [07:38](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=458s)
 
-Davion Mitchell: "Honestly I didn't know it was being honest, but I knew I was going to have to play hard because my mom was coming."
+Alijah Martin: "Honestly I didn't know it was being honest, but I knew I was going to have to play hard because my mom was coming."
 
 [https://www.youtube.com/watch?v=8xx6aCPq0zc&t=458s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=458s)
 
 <small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=458&q=9) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=458&q=9&slack=1)</small>
 
-**10. Davion Mitchell — "Jamal is special. He does that with a bunch of guys on the team." — Jamal Shead's impact as a teammate and leader** [08:08](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=488s)
+**10. Alijah Martin — "Jamal is special. He does that with a bunch of guys on the team." — Jamal Shead's impact as a teammate and leader** [08:08](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=488s)
 
-Davion Mitchell: "Jamal is special. He does that with a bunch of guys on the team. Like when he just get going, he's just a battery in somebody's back. So I wouldn't say though it was the plays, but he played a big part in that for sure."
+Alijah Martin: "Jamal is special. He does that with a bunch of guys on the team. Like when he just get going, he's just a battery in somebody's back. So I wouldn't say though it was the plays, but he played a big part in that for sure."
 
 [https://www.youtube.com/watch?v=8xx6aCPq0zc&t=488s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=488s)
 
 <small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=488&q=10) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=488&q=10&slack=1)</small>
 
-**11. Davion Mitchell — "Just staying present. I always just try to be with my feet are." — Davion Mitchell's mindset on staying ready and present** [09:49](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=589s)
+**11. Alijah Martin — "Just staying present. I always just try to be with my feet are." — Alijah Martin's mindset on staying ready and present** [09:49](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=589s)
 
-Davion Mitchell: "Just staying present. I always just try to be with my feet are. I have big dreams and aspirations for myself, but you know you just got to stay stay ready, stay present, clock in, clock out, stuff like that. So God willing you have nights like these."
+Alijah Martin: "Just staying present. I always just try to be with my feet are. I have big dreams and aspirations for myself, but you know you just got to stay stay ready, stay present, clock in, clock out, stuff like that. So God willing you have nights like these."
 
 [https://www.youtube.com/watch?v=8xx6aCPq0zc&t=589s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=589s)
 

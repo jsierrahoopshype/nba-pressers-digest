@@ -3,7 +3,7 @@
   "speakers_seen": [
     "Darko Rajakovic",
     "Jamal Shead",
-    "Davion Mitchell"
+    "Alijah Martin"
   ],
   "quotes": [
     {
@@ -265,9 +265,9 @@
     },
     {
       "rank": 9,
-      "speaker": "Davion Mitchell",
+      "speaker": "Alijah Martin",
       "timestamp": "07:38",
-      "summary_phrase": "Davion Mitchell on his motivation to play hard",
+      "summary_phrase": "Alijah Martin on his motivation to play hard",
       "names_mentioned": [],
       "excerpt": "I knew I was going to have to play hard because my mom was coming.",
       "quote": "Honestly I didn't know it was being honest, but I knew I was going to have to play hard because my mom was coming.",
@@ -288,11 +288,12 @@
         "context": "Davion Mitchell jokes about his motivation to play hard because his mother was attending the game.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speaker_source": "single-speaker video"
     },
     {
       "rank": 10,
-      "speaker": "Davion Mitchell",
+      "speaker": "Alijah Martin",
       "timestamp": "08:08",
       "summary_phrase": "Jamal Shead's impact as a teammate and leader",
       "names_mentioned": [
@@ -321,13 +322,14 @@
         "context": "Davion Mitchell comments on the leadership and energy Jamal Shead brings to the team.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speaker_source": "single-speaker video"
     },
     {
       "rank": 11,
-      "speaker": "Davion Mitchell",
+      "speaker": "Alijah Martin",
       "timestamp": "09:49",
-      "summary_phrase": "Davion Mitchell's mindset on staying ready and present",
+      "summary_phrase": "Alijah Martin's mindset on staying ready and present",
       "names_mentioned": [],
       "excerpt": "Just staying present. I always just try to be with my feet are.",
       "quote": "Just staying present. I always just try to be with my feet are. I have big dreams and aspirations for myself, but you know you just got to stay stay ready, stay present, clock in, clock out, stuff like that. So God willing you have nights like these.",
@@ -348,7 +350,8 @@
         "context": "Davion Mitchell shares his personal mindset regarding staying present and ready for game opportunities.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speaker_source": "single-speaker video"
     }
   ],
   "content_type": "presser",
