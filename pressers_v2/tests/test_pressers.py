@@ -185,11 +185,12 @@ class FormatParityTests(unittest.TestCase):
         a = ours.split("\n")
         self.assertEqual(a[0], "# NBA Pressers — 2026-09-30")
         a[0] = "# HoopsHype YT Quotes — 2026-09-30"
-        # the "Best of the best" block is ours alone: drop it (header to its closing ---)
-        if pe.TOP_QUOTES_HEADER in a:
-            top = a.index(pe.TOP_QUOTES_HEADER)
-            end = a.index("---", top)
-            del a[top:end + 2]
+        # the "Best of the best" blocks (one per section) are ours alone: drop each (header to its closing ---)
+        for header in pe.TOP_SECTION_HEADERS.values():
+            if header in a:
+                top = a.index(header)
+                end = a.index("---", top)
+                del a[top:end + 2]
         kept = []
         for i, line in enumerate(a):
             if line in SECTION_HEADERS:
@@ -347,6 +348,58 @@ class PipelineTests(unittest.TestCase):
         self.assertIn("Charles Lee", block)
         self.assertLess(block.index("Alijah Martin"), block.index("Charles Lee"))
         self.assertIn("Christian Braun", block)
+
+    def test_best_of_the_best_per_section(self):
+        def video(vid, ctype, speaker, title):
+            quotes = [{"rank": r, "speaker": speaker, "timestamp": f"00:{r:02d}", "quote": f"{vid} q{r}",
+                       "summary_phrase": "", "excerpt": "", "names_mentioned": [], "news_score": 5}
+                      for r in range(1, 6)]
+            return {"video_id": vid, "video_title": title, "channel_team": "T", "content_type": ctype,
+                    "quotes": quotes}
+        vids = [video("AAAAAAAAAA1", "presser", "Player A", "Player A Postgame"),
+                video("AAAAAAAAAA2", "podcast", "Host B", "Some Podcast"),
+                video("AAAAAAAAAA3", "oneoff", "Coach C", "Coach C on the trade")]
+        with TempOutput() as out:
+            day = out / "2026-11-07"
+            day.mkdir(parents=True)
+            for v in vids:
+                (day / f"{v['video_id']}.json").write_text(json.dumps(v))
+                (day / f"{v['video_id']}.md").write_text("x")
+            lines = pe.top_quotes_blocks([day / f"{v['video_id']}.md" for v in vids])
+        heads = [l for l in lines if l.startswith("# Best of the best")]
+        self.assertEqual(heads, [pe.TOP_SECTION_HEADERS[c] for c in ("presser", "podcast", "oneoff")])
+        block = "\n".join(lines)
+        oneoff = block[block.index(pe.TOP_SECTION_HEADERS["oneoff"]):]
+        self.assertIn("Coach C", oneoff)            # an ad hoc coach video still gets its block
+        self.assertEqual(len([l for l in oneoff.split("\n") if re.match(r"^\*\*\d+\.", l)]), 2)
+
+    def test_split_speakers_use_single_speaker_video(self):
+        answer = "Honestly I did not know it but I knew I was going to have to play hard because my mom was coming"
+        full = {"video_id": "AAAAAAAAAA1", "video_title": "Raptors Full Media Availability | Post Game",
+                "channel_team": "Toronto Raptors", "speakers_seen": ["Jamal Shead", "Davion Mitchell"],
+                "quotes": [{"rank": 1, "speaker": "Davion Mitchell", "timestamp": "07:38", "quote": answer,
+                            "summary_phrase": "Davion Mitchell on his mom"},
+                           {"rank": 2, "speaker": "Jamal Shead", "timestamp": "04:16",
+                            "quote": "When guys are ready for their moment they pop and he popped tonight for us"}]}
+        single = {"video_id": "AAAAAAAAAA2", "video_title": "Alijah Martin | Post Game",
+                  "channel_team": "Toronto Raptors", "speakers_seen": ["Alijah Martin"],
+                  "quotes": [{"rank": 1, "speaker": "Alijah Martin", "timestamp": "00:03",
+                              "quote": "Honestly, I didn't know. It's being honest. " + answer[25:]}]}
+        other_team = dict(single, video_id="AAAAAAAAAA3", channel_team="Milwaukee Bucks",
+                          video_title="Bobby Smith | Post Game", speakers_seen=["Bobby Smith"],
+                          quotes=[dict(single["quotes"][0], speaker="Bobby Smith")])
+        with TempOutput() as out:
+            day = out / "2026-11-07"
+            day.mkdir(parents=True)
+            for v in (full, single, other_team):
+                (day / f"{v['video_id']}.json").write_text(json.dumps(v))
+            self.assertEqual(pe.reconcile_split_speakers(["2026-11-07"]), ["2026-11-07"])
+            fixed = json.loads((day / "AAAAAAAAAA1.json").read_text())
+            self.assertTrue((day / "AAAAAAAAAA1.md").is_file())
+        self.assertEqual(fixed["quotes"][0]["speaker"], "Alijah Martin")
+        self.assertEqual(fixed["quotes"][0]["summary_phrase"], "Alijah Martin on his mom")
+        self.assertEqual(fixed["quotes"][1]["speaker"], "Jamal Shead")      # no single video: untouched
+        self.assertEqual(fixed["speakers_seen"], ["Jamal Shead", "Alijah Martin"])
 
     def test_legacy_output_migrated_to_ytq_format(self):
         legacy = {"video_id": "AAAAAAAAAA1", "video_title": "Joe Mazzulla Postgame", "channel_team": "Boston Celtics",
