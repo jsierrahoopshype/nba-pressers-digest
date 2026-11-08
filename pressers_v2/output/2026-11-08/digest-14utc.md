@@ -8,6 +8,8 @@ Trae Young: "I mean, I think you can probably tell I'm still getting teams' best
 
 [https://www.youtube.com/watch?v=jbvH4tNsuy8&t=311s](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=311s)
 
+<small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=311&q=1) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=311&q=1&slack=1)</small>
+
 From: [Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa | 11.7.26](https://www.youtube.com/watch?v=jbvH4tNsuy8) · *Washington Wizards*
 
 <small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=311&q=5) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=311&q=5&slack=1)</small>
