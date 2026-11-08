@@ -1,0 +1,257 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability Mexico City vs. IND 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Nikola Jokic",
+    "Jamal Murray"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:12",
+      "summary_phrase": "Coach Adelman on Spencer Jones's role and impact off the bench",
+      "names_mentioned": [
+        "Spencer Jones",
+        "Bryce",
+        "Cam"
+      ],
+      "excerpt": "Spencer Jones is the ultimate role player. He makes threes, he blocks a shot, he screens in rotations.",
+      "quote": "It wasn't the plan to go 11, but in the back of my mind, if I could find the opportunity that made sense, get Bryce in, I was going to do it. I thought Cam's runs in the first half were not the minutes, but I thought the pace he was playing at, give him a little bit of a rest. I got him back in for an offensive situation, but if we can get the 11 in, I will. And Spencer Jones, I mean, he's the ultimate role player. He makes threes, he blocks a shot, he screens in rotations, he communicates. He's just things that you have to teach players these days, he just does them. And there is a real thing to being a real professional basketball player and he is one.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Adelman on Spencer Jones: He is the ultimate role player. He makes threes, he blocks a shot, he screens in rotations, he communicates. He is just things that you have to teach players these days, he just does them.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Spencer Jones",
+          "Bryce",
+          "Cam"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman explains his rotation strategy and praises Spencer Jones for his professional contributions during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:37",
+      "summary_phrase": "Coach Adelman on Nikola Jokic's efficiency and playmaking impact",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Cam"
+      ],
+      "excerpt": "If he's got it going and you bring a second defender, he's done this over the years.",
+      "quote": "I thought he made a couple plays where he really drew their defense to him and found Nikola Jokic that led to secondary action. But yeah, if he's got it going and you bring a second defender, he's done this over the years. The play where he took them down, they felt like they had to bring closest man and Cam got the three, is a great example of that. His efficiency, it always will make the other team have to make a decision. Are you going to let him be crazy efficient from two, or are you going to bring a secondary defender?",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman on the defensive challenge of guarding Nikola Jokic: Are you going to let him be crazy efficient from two, or are you going to bring a secondary defender?",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Cam"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses how Nikola Jokic forces opposing defenses to make difficult decisions due to his efficiency and playmaking ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nikola Jokic",
+      "timestamp": "03:36",
+      "summary_phrase": "Nikola Jokic on his performance and the team's victory",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "No, I didn't focus, I was just happy that we won the game.",
+      "quote": "No, I didn't focus, I was just happy that we won the game.",
+      "text_blocks": [],
+      "start_seconds": 216,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Nikola Jokic on his performance: I did not focus, I was just happy that we won the game.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reacts to a question about his individual performance during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nikola Jokic",
+      "timestamp": "06:04",
+      "summary_phrase": "Nikola Jokic on Spencer Jones's return and defensive impact",
+      "names_mentioned": [
+        "Spencer Jones"
+      ],
+      "excerpt": "His defense was really aggressive and physical and that's what we need from him.",
+      "quote": "He was okay shooting, the shooting was he was really good shooting the ball. I think he had a couple big rebounds, but his defense was really aggressive and physical and that's what we need from him. Happy for him that he's back and hopefully we can stay healthy.",
+      "text_blocks": [],
+      "start_seconds": 364,
+      "end_seconds": 383,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nikola Jokic on Spencer Jones returning to the lineup: His defense was really aggressive and physical and that is what we need from him.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Spencer Jones"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Nikola Jokic comments on Spencer Jones returning to the lineup and his defensive impact in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Murray",
+      "timestamp": "09:07",
+      "summary_phrase": "Jamal Murray on team chemistry and bench scoring contributions",
+      "names_mentioned": [],
+      "excerpt": "Just as a group we've been getting better, getting into more rhythm as a group, as a team.",
+      "quote": "Just as a group we've been getting better, getting into more rhythm as a group, as a team. Guys finding the way, finding the spacing, playing with different lineups, getting used to playing with each other, so I think it's great. Guys coming in scoring and taking the load off and making plays and having more confidence from themselves, so building a scouting report for themselves, so I think it's huge.",
+      "text_blocks": [],
+      "start_seconds": 547,
+      "end_seconds": 574,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Murray on the Nuggets bench: It is two nights in a row where our bench has come in and done the scoring load.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Murray discusses the team's improving chemistry and the contributions of the bench players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Murray",
+      "timestamp": "09:43",
+      "summary_phrase": "Jamal Murray on Nikola Jokic's unique skill set and impact",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "His touch, his vision, his feel for the game, his IQ, those are just a few.",
+      "quote": "His touch, his vision, his feel for the game, his IQ, those are just a few. He does a great job of controlling the game and getting to his spots and dealing with different kinds of defenses, different kind of looks, so I think, and on top of that playing defense. I think there's a lot of things that make him special and everything combined makes a pretty unique player.",
+      "text_blocks": [],
+      "start_seconds": 583,
+      "end_seconds": 610,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamal Murray on what makes Nikola Jokic special: His touch, his vision, his feel for the game, his IQ, those are just a few. Everything combined makes a pretty unique player.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray describes the unique skills and high basketball IQ that make Nikola Jokic a special player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamal Murray",
+      "timestamp": "11:45",
+      "summary_phrase": "Jamal Murray on Spencer Jones's return and bench production",
+      "names_mentioned": [
+        "Spencer Jones",
+        "Bryce",
+        "Travon"
+      ],
+      "excerpt": "It's just huge for the rhythm. Spencer hasn't played all year so him finding his rhythm that quick.",
+      "quote": "It's just huge for the rhythm. Spencer hasn't played all year so him finding his rhythm that quick was really good for him. Bryce coming in the game, Travon, everybody just kind of like I said building a scouting report for themselves and finding where they can the holes in the defense where they can attack and where the passes are going to come from. So I just think the more we played together, more guys are healthy, the better we're going to get and I think that's two nights in a row where our bench has come in and done the scoring load.",
+      "text_blocks": [],
+      "start_seconds": 705,
+      "end_seconds": 745,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Murray on Spencer Jones returning to the court: Spencer has not played all year so him finding his rhythm that quick was really good for him.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Spencer Jones",
+          "Bryce",
+          "Travon"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Murray highlights the importance of the bench players finding their rhythm and contributing to the team's scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "vbSsgjlH9_s",
+  "url": "https://www.youtube.com/watch?v=vbSsgjlH9_s",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-08T02:40:02Z",
+  "duration_seconds": 938,
+  "processed_at": "2026-11-08T07:28:39Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

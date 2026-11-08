@@ -1,0 +1,229 @@
+{
+  "video_title": "Hawks vs. Nets Postgame Press Conference: Aaron Wiggins",
+  "speakers_seen": [
+    "Aaron Wiggins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "00:20",
+      "summary_phrase": "Aaron Wiggins on his career-high six assists against the Nets",
+      "names_mentioned": [],
+      "excerpt": "I made a couple shots and it opened up opportunities for other guys when I would touch the ball.",
+      "quote": "I made a couple shots and it opened up opportunities for other guys when I would touch the ball. Still being aggressive looking for those shots, but I was able to get their defense to overreact sometimes so I could find other guys. Also, some of that is just quick passes to get off the ball and guys making plays that are available to them. It goes to my teammates finding guys.",
+      "text_blocks": [],
+      "start_seconds": 20,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aaron Wiggins on his career-high six assists: I was able to get their defense to overreact sometimes so I could find other guys. It goes to my teammates finding guys.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins discusses his performance and career-high six assists during the postgame press conference following the win against the Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "01:04",
+      "summary_phrase": "Aaron Wiggins on his mindset coming off the bench",
+      "names_mentioned": [],
+      "excerpt": "Off the bench you don't want to have a drop off in production.",
+      "quote": "Just being aggressive. Coming in and trying to provide any bit of energy or spark that I can for the team. Off the bench you don't want to have a drop off in production, so I am trying to go in there and make sure that I am contributing in a positive way and also being aggressive to help the team.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Aaron Wiggins on his bench role: Coming in and trying to provide any bit of energy or spark that I can for the team. Off the bench you do not want to have a drop off in production.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins explains his mindset and approach to providing energy while coming off the bench for the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "01:35",
+      "summary_phrase": "Aaron Wiggins on the crowd's energy during the win",
+      "names_mentioned": [],
+      "excerpt": "Their support, their energy, how loud they were was big time for us.",
+      "quote": "They were awesome. Their energy, even in the first half when we couldn't hit a shot, couldn't really get going, they stuck with us and kept the energy. They had the atmosphere electric. In the second half when we were able to get going a little bit, make a little bit of a run, they took us to another level. Their support, their energy, how loud they were was big time for us.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Aaron Wiggins credits the Hawks crowd for the win: They were awesome. Their energy, even in the first half when we could not hit a shot, they stuck with us and kept the energy.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins reacts to the atmosphere and energy provided by the home crowd during the Hawks' victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "02:07",
+      "summary_phrase": "Aaron Wiggins on the value of winning close games",
+      "names_mentioned": [],
+      "excerpt": "There is a lot of scheming and strategic things that go into execution out there on the court.",
+      "quote": "There is a lot that you can take from close games, especially end of game situations. There is a lot of scheming and strategic things that go into execution out there on the court, and both for us as players and for our coaches to be in those situations and come out with a win is huge. You get to see different things from our team and I think there is a lot that you can learn about the team in close games.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aaron Wiggins on the value of winning close games: There is a lot of scheming and strategic things that go into execution out there on the court, and to be in those situations and come out with a win is huge.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins discusses the importance of learning from close game situations and execution down the stretch.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "03:06",
+      "summary_phrase": "Aaron Wiggins on team depth and filling in for injured players",
+      "names_mentioned": [
+        "Jaylen Johnson"
+      ],
+      "excerpt": "Understanding as a team the ways that we can help each other when we're missing pieces.",
+      "quote": "Understanding as a team the ways that we can help each other when we're missing pieces, whether it's Jaylen Johnson in scoring and playmaking, whether it's rebounding and just opportunities to create as a connector on the team. Understanding individually how you can contribute and then as a team our strengths. I think we do a good job moving the ball, passing the ball, creating for each other, playing without the ball. Those things require more attention when you're missing some of our bigs, and obviously rebounding as a team is bigger. I think guys understand that when we're missing pieces like that, we have to fill in as a team and it has to be as a collective.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Aaron Wiggins on how the Hawks are handling injuries: Understanding individually how you can contribute and then as a team our strengths. We have to fill in as a team and it has to be as a collective.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Aaron Wiggins explains how the team adjusts collectively to fill the void left by injured teammates like Jaylen Johnson.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "04:21",
+      "summary_phrase": "Aaron Wiggins on Quinn Snyder's trust in the rotation",
+      "names_mentioned": [
+        "Quinn Snyder"
+      ],
+      "excerpt": "Quinn trusts guys and he is able to make those subs that he thinks is best.",
+      "quote": "It is huge. Obviously a little offensive-defensive scheme in there, but Quinn trusts guys and he is able to make those subs that he thinks is best to close out close games like that and we were able to get the win. So obviously we trust him and you can see that he trusts us.",
+      "text_blocks": [],
+      "start_seconds": 261,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aaron Wiggins on the trust between the team and Quin Snyder: Quinn trusts guys and he is able to make those subs that he thinks is best to close out close games. We trust him and you can see that he trusts us.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Quin Snyder"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Aaron Wiggins discusses the mutual trust between the players and head coach Quin Snyder regarding rotation and closing lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Aaron Wiggins",
+      "timestamp": "04:54",
+      "summary_phrase": "Aaron Wiggins on the team's defensive response after high-scoring games",
+      "names_mentioned": [],
+      "excerpt": "It speaks to our mental toughness and our understanding of how we can win.",
+      "quote": "The team did a good job just being able to push through what seemed like a slow start for us. Going into halftime, cutting that lead to four points and then in the second half being able to overcome that hump and obviously get the win. It did a good job. It speaks to our mental toughness and our understanding of how we can win, even if it's an ugly win and how we can win when things aren't going our way. Second night of a back-to-back there are a lot of excuses that we could have had, and as a group we did a good job just pushing through that and weathering the storm.",
+      "text_blocks": [],
+      "start_seconds": 294,
+      "end_seconds": 338,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aaron Wiggins on the Hawks mental toughness: It speaks to our mental toughness and our understanding of how we can win, even if it is an ugly win and how we can win when things are not going our way.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Aaron Wiggins reflects on the team's mental toughness and ability to overcome a slow start during the second night of a back-to-back.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ePrfZObKTXY",
+  "url": "https://www.youtube.com/watch?v=ePrfZObKTXY",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-08T04:20:26Z",
+  "duration_seconds": 376,
+  "processed_at": "2026-11-08T07:28:11Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,361 @@
+{
+  "video_title": "7 NBA Players Had Their Options Declined: What Happens Next?",
+  "speakers_seen": [
+    "Cyro Asseo",
+    "Sam Yip"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sam Yip",
+      "speakers": [
+        "Cyro Asseo",
+        "Sam Yip"
+      ],
+      "timestamp": "01:11",
+      "summary_phrase": "Declining a rookie option serves as a warning to front offices",
+      "names_mentioned": [],
+      "excerpt": "This is not a release, it's a warning and it puts a real deadline on proving value.",
+      "text_blocks": [
+        {
+          "speaker": "Sam Yip",
+          "text": "This is not a release, it's a warning and it puts a real deadline on proving value."
+        },
+        {
+          "speaker": "Cyro Asseo",
+          "text": "Teams pass on options for a few reasons. The first is money. A few million dollars can mean the difference between keeping a player and fitting in a veteran on the market."
+        }
+      ],
+      "start_seconds": 71,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Sam Yip explains that declining a rookie option is not a release but a warning. It puts a real deadline on a player to prove their value to the front office.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [],
+        "teams": [],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Sam Yip discusses the general implications of NBA teams declining rookie scale contract options for their players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sam Yip",
+      "speakers": [
+        "Cyro Asseo",
+        "Sam Yip"
+      ],
+      "timestamp": "01:40",
+      "summary_phrase": "Declined options signal a lack of long-term team confidence",
+      "names_mentioned": [],
+      "excerpt": "A declined option tells every other front office that your own team doesn't see a future.",
+      "text_blocks": [
+        {
+          "speaker": "Sam Yip",
+          "text": "A declined option tells every other front office that your own team doesn't see a future that they hoped for in you. Agents notice that, future suitors notice that, it changes the market."
+        },
+        {
+          "speaker": "Cyro Asseo",
+          "text": "It's a bad precedent. But bad precedent and a dead career are two different things."
+        }
+      ],
+      "start_seconds": 100,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "A declined option signals a lack of long term confidence. Sam Yip notes that it changes the market for a player because it tells every other front office that your own team does not see the future they hoped for in you.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [],
+        "teams": [],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Sam Yip explains how a declined team option affects a player's market value and perception among other front offices.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cyro Asseo",
+      "speakers": [],
+      "timestamp": "02:21",
+      "summary_phrase": "New York Knicks' strategy for Pacôme Dadiet's rookie option",
+      "names_mentioned": [
+        "Pacôme Dadiet"
+      ],
+      "excerpt": "The question is whether New York saw a role it can be replaced or a player it can find cheaper.",
+      "quote": "The question is whether New York saw a role it can be replaced or a player it can find cheaper. It was never that Pacôme Dadiet was going to be a guy that they thought was going to be a part of the future. I think they always drafted him with him being a potential trade chip that had untapped potential.",
+      "start_seconds": 141,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Cyro Asseo suggests the Knicks never viewed Pacome Dadiet as a long term piece, drafting him instead as a potential trade chip with untapped potential.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Pacôme Dadiet"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "contracts",
+          "trades"
+        ],
+        "context": "Cyro Asseo analyzes the New York Knicks' decision regarding Pacôme Dadiet and his future as a potential trade asset.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cyro Asseo",
+      "speakers": [],
+      "timestamp": "03:04",
+      "summary_phrase": "Charlotte Hornets' decision to decline Tidjane Salaün's option",
+      "names_mentioned": [
+        "Tidjane Salaün"
+      ],
+      "excerpt": "The Hornets are telling the market that his role has to become clearer.",
+      "quote": "A sixth pick being declined at 10.4 million is a bigger statement than the others. The Hornets are telling the market that his role has to become clearer. And he just has to figure out, can he become the 3-and-D combo big that his skill set is suited for? If not, he'll probably have a good career overseas.",
+      "start_seconds": 184,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 4,
+      "social_post": "Declining a sixth pick is a major statement. Cyro Asseo says the Hornets are telling the market that Tidjane Salaun needs to prove he can be a 3 and D combo big or he might be looking at a career overseas.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Tidjane Salaün"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Cyro Asseo discusses the Charlotte Hornets' decision to decline the rookie option for Tidjane Salaün.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Sam Yip",
+      "speakers": [],
+      "timestamp": "03:44",
+      "summary_phrase": "Cody Williams' need for ball efficiency to remain productive",
+      "names_mentioned": [
+        "Cody Williams"
+      ],
+      "excerpt": "He's a guy that really needs the ball to be productive, but the real issue with him is efficiency.",
+      "quote": "He's a guy that really needs the ball to be productive, but the real issue with him is efficiency with the ball.",
+      "start_seconds": 224,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Sam Yip breaks down the development of Cody Williams, noting that while he needs the ball to be productive, his real issue remains efficiency.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Cody Williams"
+        ],
+        "teams": [],
+        "topics": [],
+        "context": "Sam Yip evaluates the playing style and efficiency concerns regarding Cody Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Cyro Asseo",
+      "speakers": [],
+      "timestamp": "04:26",
+      "summary_phrase": "Oklahoma City Thunder's luxury tax concerns regarding Nikola Topic",
+      "names_mentioned": [
+        "Nikola Topic"
+      ],
+      "excerpt": "Passing up on the 7.5 million dollar option is more so that they don't have time anymore.",
+      "quote": "Passing up on the 7.5 million dollar option is more so that they don't have time anymore to be paying the luxury tax.",
+      "start_seconds": 266,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Cyro Asseo notes that the Thunder passing on Nikola Topic's 7.5 million dollar option is largely driven by the team's desire to avoid luxury tax concerns.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Nikola Topic"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Cyro Asseo explains that the Oklahoma City Thunder declined Nikola Topic's option primarily due to luxury tax considerations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Sam Yip",
+      "speakers": [],
+      "timestamp": "05:32",
+      "summary_phrase": "AJ Johnson's multiple team changes early in his career",
+      "names_mentioned": [
+        "AJ Johnson"
+      ],
+      "excerpt": "If you're a young player and you get traded multiple times within your first couple years in the league, that's usually not a good sign.",
+      "quote": "If you're a young player and you get traded multiple times within your first couple years in the league, that's usually not a good sign.",
+      "start_seconds": 332,
+      "end_seconds": 342,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Sam Yip warns that for a young player, getting traded multiple times within the first couple years of a career is usually not a good sign.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "AJ Johnson"
+        ],
+        "teams": [],
+        "topics": [],
+        "context": "Sam Yip comments on the career implications for young players like AJ Johnson who are traded multiple times early on.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Cyro Asseo",
+      "speakers": [],
+      "timestamp": "07:17",
+      "summary_phrase": "Jalen Smith's development as a floor-spacing big man",
+      "names_mentioned": [
+        "Jalen Smith"
+      ],
+      "excerpt": "He actually started to show how well of a player he could be in the right system.",
+      "quote": "He actually started to show how well of a player he could be in the right system where he showcased himself as a floor-spacing, shot-blocking big man.",
+      "start_seconds": 437,
+      "end_seconds": 447,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Cyro Asseo highlights Jalen Smith as an example of a player who found success by showcasing himself as a floor spacing and shot blocking big man in the right system.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Jalen Smith"
+        ],
+        "teams": [],
+        "topics": [],
+        "context": "Cyro Asseo reflects on Jalen Smith's development as a floor-spacing and shot-blocking big man.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Cyro Asseo",
+      "speakers": [],
+      "timestamp": "07:53",
+      "summary_phrase": "The pattern of success for players with a clear role",
+      "names_mentioned": [],
+      "excerpt": "The guys who were able to establish a clear role, a skill that translate, and found a team that needed that, were able to keep their careers going.",
+      "quote": "The guys who were able to establish a clear role, a skill that translate, and found a team that needed that, were able to keep their careers going.",
+      "start_seconds": 473,
+      "end_seconds": 484,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cyro Asseo notes that players who establish a clear role and a translatable skill set are the ones who manage to keep their careers going.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [],
+        "teams": [],
+        "topics": [],
+        "context": "Cyro Asseo describes the common factors that allow players to sustain their careers in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Sam Yip",
+      "speakers": [
+        "Cyro Asseo",
+        "Sam Yip"
+      ],
+      "timestamp": "08:41",
+      "summary_phrase": "Isaiah Collier as the best bet among declined players",
+      "names_mentioned": [
+        "Isaiah Collier"
+      ],
+      "excerpt": "I think Collier is probably the best bet of them just because he's probably done the most.",
+      "text_blocks": [
+        {
+          "speaker": "Sam Yip",
+          "text": "I think Collier is probably the best bet of them just because he's probably done the most in terms of what he's done already in the league. But he can't shoot, right? That's his big thing. I would put my money on him even though he's not really a shooter."
+        },
+        {
+          "speaker": "Cyro Asseo",
+          "text": "I agree. I think Collier is the best bet. We know what he needs to do, which really is just shoot the ball."
+        }
+      ],
+      "start_seconds": 521,
+      "end_seconds": 549,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Sam Yip identifies Isaiah Collier as the best bet among players with declined options, though he notes the obvious hurdle: he still needs to shoot the ball.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Isaiah Collier"
+        ],
+        "teams": [],
+        "topics": [],
+        "context": "Sam Yip and Cyro Asseo discuss why Isaiah Collier is considered the most promising player among those who had their options declined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "b_OewP0nLYo",
+  "url": "https://www.youtube.com/watch?v=b_OewP0nLYo",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-08T04:01:55Z",
+  "duration_seconds": 648,
+  "processed_at": "2026-11-08T07:28:20Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

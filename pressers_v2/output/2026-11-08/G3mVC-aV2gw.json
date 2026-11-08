@@ -1,0 +1,178 @@
+{
+  "video_title": "Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026",
+  "speakers_seen": [
+    "Kenrich Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenrich Williams",
+      "timestamp": "00:18",
+      "summary_phrase": "Kenrich Williams on the team's defensive improvement and effort",
+      "names_mentioned": [],
+      "excerpt": "we got to hang our hats on that side of the ball",
+      "quote": "I think just effort, kind of keying in on a game plan. You know, just locking in on that side of the ball, knowing that when nights when the ball doesn't go in the basket, we got to hang our hats on that side of the ball. And also just getting AC back helps our defense, it does help our defense a lot.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kenrich Williams says the Thunder are focusing on defensive effort on nights when shots are not falling. He also noted that getting Alex Caruso back has been a major boost for their defensive identity.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams discusses the team's defensive focus and the return of Alex Caruso following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenrich Williams",
+      "timestamp": "00:47",
+      "summary_phrase": "Kenrich Williams on his role as a starter and defensive assignments",
+      "names_mentioned": [],
+      "excerpt": "the competitive side in you is always leaning in towards those challenges",
+      "quote": "It's been fun. It's been fun. You know, as an NBA player, the competitive side in you is always leaning in towards those challenges. So I'm grateful for the opportunity.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Kenrich Williams on his recent role as a starter: It has been fun. As an NBA player the competitive side in you is always leaning in towards those challenges and I am grateful for the opportunity.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Kenrich Williams describes his mindset regarding his role as a starter and accepting defensive challenges.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenrich Williams",
+      "timestamp": "01:12",
+      "summary_phrase": "Kenrich Williams on the growth and impact of Ousmane Dieng",
+      "names_mentioned": [
+        "Ousmane Dieng"
+      ],
+      "excerpt": "he's evolving in front of our eyes and he's a special player",
+      "quote": "He's been huge. Just evolving in front of our eyes and he's a special player. He's going to be a special player in this league. He's going to keep getting better. There's still areas where he can grow, but I'm just super proud of his growth so far. And the three-pointer was kind of icing on the cake.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Kenrich Williams is high on Ousmane Diengs development saying he is evolving in front of our eyes and is going to be a special player in this league.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ousmane Dieng"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenrich Williams praises the development and growth of his teammate Ousmane Dieng.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenrich Williams",
+      "timestamp": "01:49",
+      "summary_phrase": "Kenrich Williams on Ousmane Dieng's offensive skill set",
+      "names_mentioned": [
+        "Ousmane Dieng"
+      ],
+      "excerpt": "he can impact the game on both sides of the ball",
+      "quote": "Super skilled. He has a really good feel for the game. He can pass. He has a lot of skill, man. He has a lot of touch around the rim. He's 7'3\" too. He can impact the game on both sides of the ball. And that's something that was surprising to me, not surprising, but you don't see it as much in a college game, and it's translating over to the NBA well for him on both sides of the ball.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Kenrich Williams praises Ousmane Diengs versatility noting that his skill set and feel for the game are translating well to the NBA level.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ousmane Dieng"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenrich Williams highlights the specific offensive skills and physical attributes of Ousmane Dieng.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenrich Williams",
+      "timestamp": "02:52",
+      "summary_phrase": "Kenrich Williams on Shai Gilgeous-Alexander's defensive improvement",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Trae Young"
+      ],
+      "excerpt": "he gives 100% on that side of the ball",
+      "quote": "He's just his effort. His effort night in and night out, he gives 100% on that side of the ball, knowing that he has more responsibility on the offensive end. He still shows up and gives that effort on the defensive end and you just got to tip your hat to AJ and how he's improving over the last couple years, and it's huge for us. We're going to need it down the stretch.",
+      "text_blocks": [],
+      "start_seconds": 172,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Kenrich Williams credits Shai Gilgeous Alexander for his defensive effort despite his heavy offensive workload saying it is huge for the team as they look toward the stretch run.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenrich Williams commends Shai Gilgeous-Alexander for his defensive effort despite his heavy offensive workload.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "G3mVC-aV2gw",
+  "url": "https://www.youtube.com/watch?v=G3mVC-aV2gw",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-08T04:31:45Z",
+  "duration_seconds": 223,
+  "processed_at": "2026-11-08T07:28:05Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

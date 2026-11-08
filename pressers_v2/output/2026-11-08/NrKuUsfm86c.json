@@ -1,0 +1,277 @@
+{
+  "video_title": "Cavs vs Knicks | Kenny Atkinson Post Game | 11.07.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:03",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' rebounding struggles against the Knicks",
+      "names_mentioned": [],
+      "excerpt": "you can't give them 10 more shots",
+      "quote": "Rebounding. I think we were minus 10 in the possession game. You can't give them 10 more shots. They're too good to give them extra possessions. That's their strength, they're one of the top possession teams in the league. We didn't handle it well tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 3,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson points to rebounding as the key factor in the loss to the Knicks. He noted the Cavs were minus 10 in the possession game and said you cannot give a team like New York 10 extra shots.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the Cavaliers' struggles with rebounding against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:52",
+      "summary_phrase": "Kenny Atkinson praises Donovan Mitchell's physical performance in back-to-back games",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "he was competing at a high level on the defensive end too",
+      "quote": "It's brilliant, physically. To be able to go on a back-to-back, to go out at it like that. I thought it was both ends. I thought he was competing at a high level on the defensive end too. He kept at it, didn't quit, kept after it. Impressive second-half performance from him.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson praised Donovan Mitchell for his physical performance on a back to back. He highlighted Mitchell's effort on both ends of the floor and his ability to keep competing throughout the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Donovan Mitchell's physical performance and defensive effort during a back-to-back game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:33",
+      "summary_phrase": "Kenny Atkinson on Jalen Brunson's impact and the Knicks' rebounding",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "I think two of them were off offensive rebounds, kick outs",
+      "quote": "I think two of them were off offensive rebounds, kick outs. Listen, great player. You start trapping him or hitting on him, he'll find the right solution too. Give the Knicks credit, they're in a space where they find the right solution. If they do miss, they're getting the offensive rebounding because they're rebounding prowess. It's a reason they're champion.",
+      "verbatim_original_language": "",
+      "start_seconds": 93,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on defending Jalen Brunson and the Knicks. He noted that even when you trap Brunson he finds the right solution and credited the Knicks for their rebounding prowess.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "CLE",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson analyzes the impact of Jalen Brunson and the Knicks' offensive rebounding ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:09",
+      "summary_phrase": "Kenny Atkinson explains why the Knicks are a difficult matchup",
+      "names_mentioned": [],
+      "excerpt": "they really have solutions, their continuity is maybe",
+      "quote": "I think they really have solutions. I think their continuity is maybe—you get those four guys that played in college together. They have this great, great chemistry. They're on a string on both ends. Whatever you throw at them, they find a solution both ends. And then the rebounding thing really gives them—it seems like the last three, four games we played against them, you go toe-to-toe and they end up beating you on the boards.",
+      "verbatim_original_language": "",
+      "start_seconds": 189,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson says the Knicks are a difficult matchup because of their chemistry and continuity. He noted that their ability to find solutions on both ends and dominate the boards makes them a tough team to beat.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains why the Knicks are a difficult matchup due to their chemistry and rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:40",
+      "summary_phrase": "Kenny Atkinson on the competitive nature of the NBA this season",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Trae Young"
+      ],
+      "excerpt": "it's going to be a dog fight, a blood bath to get into those top six",
+      "quote": "I keep saying it just seems like this year in the NBA it's a gauntlet. Even Washington, you got the Anthony Davis and Trae Young. It's going to be a dog fight to get into those top six. There's going to be a dog fight, a blood bath to get into those top six. There's so much talent up and down.",
+      "verbatim_original_language": "",
+      "start_seconds": 280,
+      "end_seconds": 303,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson describes the current NBA landscape as a gauntlet. He expects a blood bath to get into the top six this season because of the amount of talent across the league.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis",
+          "Trae Young"
+        ],
+        "teams": [
+          "CLE",
+          "WAS",
+          "LAL",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson comments on the high level of competition across the NBA this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:45",
+      "summary_phrase": "Kenny Atkinson on Taurean Prince's integration with the team",
+      "names_mentioned": [
+        "Taurean Prince",
+        "James Harden",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "he's doing what we asked him to do",
+      "quote": "Good. It's still early, still trying to figure some things out. Obviously he was out for a little. We need more sample size, but he's doing what we asked him to do. He does need more reps with those guys. Having not had enough reps, those guys talk to him constantly to get on the same page, but definitely need more reps, more games.",
+      "verbatim_original_language": "",
+      "start_seconds": 345,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says Taurean Prince needs more reps to fully integrate with the team. He noted that while Prince is doing what is asked of him, the team needs a larger sample size to get on the same page.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Taurean Prince"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the integration of Taurean Prince into the team rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:25",
+      "summary_phrase": "Kenny Atkinson on Malik Thomas's composure in big games",
+      "names_mentioned": [
+        "Malik Thomas"
+      ],
+      "excerpt": "I love his confidence, doesn't miss a beat, not overwhelmed by the moment",
+      "quote": "I think he's fine. I love his confidence, doesn't miss a beat, not overwhelmed by the moment. Some guys, you can see guys that are overwhelmed and guys that are not. He's not overwhelmed.",
+      "verbatim_original_language": "",
+      "start_seconds": 385,
+      "end_seconds": 398,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson likes the composure Malik Thomas has shown in big moments. He noted that Thomas is not overwhelmed by the moment and plays with great confidence.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Malik Thomas"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson comments on Malik Thomas's composure and confidence during high-pressure moments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:47",
+      "summary_phrase": "Kenny Atkinson on James's performance and his recent play",
+      "names_mentioned": [
+        "James"
+      ],
+      "excerpt": "I felt like James lately has had his pop back",
+      "quote": "I felt like James lately has had his pop back. Tonight probably wasn't there. He always plays the right way. There's never with James, it's never like, oh man, he's not making the right pass or not right play. He always makes the right play.",
+      "verbatim_original_language": "",
+      "start_seconds": 407,
+      "end_seconds": 424,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says James always plays the right way. While he felt James lacked his usual pop tonight, he praised him for consistently making the right pass and the right play.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson evaluates James's recent play and his ability to consistently make the right decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "NrKuUsfm86c",
+  "url": "https://www.youtube.com/watch?v=NrKuUsfm86c",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-08T03:45:30Z",
+  "duration_seconds": 452,
+  "processed_at": "2026-11-08T07:28:25Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

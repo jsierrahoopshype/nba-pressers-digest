@@ -1,0 +1,172 @@
+{
+  "video_title": "Pascal Siakam & Larry Nance Jr. Postgame Media Availability vs. Nuggets | November 7, 2026",
+  "speakers_seen": [
+    "Larry Nance Jr.",
+    "Pascal Siakam"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Pascal Siakam",
+      "speakers": [],
+      "timestamp": "00:04",
+      "summary_phrase": "Pascal Siakam on the challenges of playing in high altitude",
+      "names_mentioned": [],
+      "excerpt": "tough environment, if you're not used to the altitude and everything, it's just kind of hard to get going",
+      "quote": "Obviously, tough environment. If you're not used to the altitude and everything, it's just kind of hard to get going. The first half was pretty tough for us. Obviously, I thought we had some good shots, we didn't make them, which doesn't help. But I thought our force and energy was way better in the second half, and that's the way we got to start the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Pascal Siakam on the Pacers struggles in Denver: It is a tough environment. If you are not used to the altitude and everything, it is just kind of hard to get going.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Pascal Siakam discusses the difficulties of playing in the high altitude of Denver during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Larry Nance Jr.",
+      "speakers": [],
+      "timestamp": "00:43",
+      "summary_phrase": "Larry Nance Jr. on the importance of attacking the paint",
+      "names_mentioned": [],
+      "excerpt": "it all starts with attacking the paint. The problem down in the paint, they got to double down",
+      "quote": "It all starts with attacking the paint. The problem down in the paint, they got to double down, and all I did was make open shots. So it's those guys creating the looks for me, and they made it easy.",
+      "verbatim_original_language": "",
+      "start_seconds": 43,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Larry Nance Jr. on the Pacers offensive approach: It all starts with attacking the paint. The problem down in the paint, they got to double down, and all I did was make open shots.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Larry Nance Jr. explains the importance of attacking the paint to create open shots for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Pascal Siakam",
+      "speakers": [],
+      "timestamp": "01:26",
+      "summary_phrase": "Pascal Siakam on the team's positive experience in Mexico City",
+      "names_mentioned": [],
+      "excerpt": "it's a good atmosphere, we had a good time out here, people welcomed us with open arms",
+      "quote": "The support was great. We felt the energy towards the end. It's on us to create that energy with good plays, which the first half wasn't really that. In the second half, the fans got involved, it was great to see. It's a good atmosphere, we had a good time out here, people welcomed us with open arms from the hotel to everyone here. It's been great, so we love that experience here.",
+      "verbatim_original_language": "",
+      "start_seconds": 86,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Pascal Siakam on the experience in Mexico City: The support was great. We felt the energy towards the end. It is a good atmosphere, we had a good time out here, people welcomed us with open arms.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Pascal Siakam shares his thoughts on the atmosphere and fan support during the team's game in Mexico City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Larry Nance Jr.",
+      "speakers": [],
+      "timestamp": "02:20",
+      "summary_phrase": "Larry Nance Jr. on the privilege of playing in Mexico City",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "it's a privilege to be down here. This is a massive arena, this is a big stadium",
+      "quote": "It's a privilege to be down here. This is a massive arena, this is a big stadium, and the fans filled it. They were loud all game. I thought both sides, Denver and Indiana, did a good job of having the mascots, having the halftime entertainment, and doing a good job of getting everybody involved and entertained. This is a special place, such a massive city and a culture that does love basketball. Basketball is universal, it's appreciated throughout, and we felt that tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 140,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Larry Nance Jr. on playing in Mexico City: It is a privilege to be down here. This is a massive arena, this is a big stadium, and the fans filled it. They were loud all game.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Larry Nance Jr. reflects on the privilege of playing in Mexico City and the energy provided by the local fans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Pascal Siakam",
+      "speakers": [],
+      "timestamp": "04:13",
+      "summary_phrase": "Pascal Siakam's advice for young players in Mexico City",
+      "names_mentioned": [
+        "Caruso"
+      ],
+      "excerpt": "my advice would be to believe in yourself. I know what it feels like to come from a place",
+      "quote": "My advice would be to believe in yourself. I know what it feels like to come from a place where basketball is not really the first thing, so I understand the difficulties that comes with that. For me, what helped me out is just believing in myself, putting the work in, and then also just having passion for the game. If you love it, just give everything you have to the game and it's going to get back to you. So that's the way I see it, so just keep going, believe in yourself, and go for your dreams.",
+      "verbatim_original_language": "",
+      "start_seconds": 253,
+      "end_seconds": 283,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Pascal Siakam shares his advice for young players: Believe in yourself. I know what it feels like to come from a place where basketball is not really the first thing. Just keep going, believe in yourself, and go for your dreams.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Pascal Siakam offers advice to young basketball players in Mexico City about believing in themselves and working hard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Vp9hzrmvKyI",
+  "url": "https://www.youtube.com/watch?v=Vp9hzrmvKyI",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-08T01:49:25Z",
+  "duration_seconds": 283,
+  "processed_at": "2026-11-08T07:28:36Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

@@ -8,6 +8,8 @@ Miles Bridges: "I did get to talk to **Shaquille O'Neal** a couple weeks ago whe
 
 [https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
 
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=106&q=1) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=106&q=1&slack=1)</small>
+
 From: [Miles Bridges Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=GrLef5VJSMw) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=106&q=1) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=106&q=1&slack=1)</small>

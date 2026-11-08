@@ -1,0 +1,154 @@
+{
+  "video_title": "Jared McCain on Teammates and Enjoying the Work | Postgame Media | November 7, 2026",
+  "speakers_seen": [
+    "Jared McCain"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jared McCain",
+      "timestamp": "00:26",
+      "summary_phrase": "Jared McCain on his teammate's improved offensive versatility and work ethic",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "It is super impressive to see. He worked on a lot of the new stuff.",
+      "quote": "It is super impressive to see. When I went out there and was working out with him, we worked on a lot of the new stuff that I did not expect. I thought we would be doing more of the mid-range stuff and stuff that he did last year. To see it now, shooting more threes and catch-and-shoot and backdoors, it is pretty cool to see that translate. It just speaks to his work and how he is able to use exactly what he works on and put it right into the game.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jared McCain is impressed by his teammate expanding his offensive game beyond the mid-range. He says it is cool to see the work translate to more catch and shoot opportunities and backdoors in games.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jared McCain discusses the offensive versatility and work ethic of an unnamed teammate during a postgame media session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jared McCain",
+      "timestamp": "01:27",
+      "summary_mentioned": [
+        "Jared McCain on his teammate's unique ability to impact the game",
+        "Grant Williams"
+      ],
+      "names_mentioned": [
+        "Grant Williams"
+      ],
+      "excerpt": "He can contest a mid-range shot and then he gets the rebound. Certain things you cannot teach.",
+      "quote": "He is awesome, he is super awesome. I was watching a clip with Grant Williams before the game and he can contest a mid-range shot and then he gets the rebound. Certain things that you just cannot teach. I could not do that on my most athletic day ever. So the stuff like that, when he does, even when he does not score anything, just him affecting the game in those ways, and then when you add him being a lob threat and being able to finish, has nice touch. He shot like a step-back middy too, that was tough. So when he combines all that, there is not a lot of people that can stop him.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jared McCain is high on his teammate's impact beyond scoring. He says there are certain things you just cannot teach and that when his teammate combines his defensive effort with his offensive touch there are not many people who can stop him.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Grant Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jared McCain praises the defensive impact and versatility of his teammate Grant Williams after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jared McCain",
+      "timestamp": "01:59",
+      "summary_phrase": "Jared McCain on learning to stay confident through shooting slumps",
+      "names_mentioned": [
+        "Isaiah Joe"
+      ],
+      "excerpt": "There is going to be times where you miss shots. It is something that you have to work through.",
+      "quote": "Isaiah Joe helped me a lot. Any questions I had defensively, offensively, we talked a lot about just being a shooter and how that works in this league. There is going to be times where you miss shots. It happens, it might happen again. It is something that you have to work through and I think staying confident is huge. Being able to affect the game defensively, rebounding, something, you have to find something to affect the game and that usually gets yourself going on the other end anyways. For me, I just try to rebound and play super hard on defense and now I can continue that and use both.",
+      "text_blocks": [],
+      "start_seconds": 119,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jared McCain credits Isaiah Joe for helping him navigate shooting slumps. He says the key is staying confident and finding ways to affect the game through defense and rebounding when your shot is not falling.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Joe"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jared McCain explains how Isaiah Joe helped him maintain confidence during shooting slumps by focusing on defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jared McCain",
+      "timestamp": "02:56",
+      "summary_phrase": "Jared McCain on the development and shooting touch of his teammate",
+      "names_mentioned": [
+        "Cason Wallace"
+      ],
+      "excerpt": "He has this touch, it just looks pretty. Everything just looks pretty about it.",
+      "quote": "He has this touch, it just looks pretty. It is pretty when he lets it go and it is nice and the follow-through, everything just looks pretty about it. It is awesome, he is super eager to learn, asks a lot of questions, he is understanding, he is a smart kid. He is just awesome to be around and to match that with the energy he brings and the shooting gravity he brings on the floor and just being a point guard out there for us, it is a great ball handler to have out there with us.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jared McCain praises his teammate's shooting mechanics and basketball IQ. He says it is awesome to have a teammate who brings that kind of energy and shooting gravity while also acting as a point guard on the floor.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jared McCain describes the shooting mechanics and basketball intelligence of a teammate during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "WbK5x3Wn_h4",
+  "url": "https://www.youtube.com/watch?v=WbK5x3Wn_h4",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-08T04:35:06Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-11-08T07:27:58Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

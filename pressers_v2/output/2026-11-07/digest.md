@@ -8,6 +8,8 @@ Charles Lee: "I saw him start to limp a couple plays and he was good, and then h
 
 [https://www.youtube.com/watch?v=5Z2Cg_NcwFM&t=52s](https://www.youtube.com/watch?v=5Z2Cg_NcwFM&t=52s)
 
+<small>[Clip it](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=1) · [Send to Slack](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=1&slack=1)</small>
+
 From: [Hornets vs Celtics: Coach Charles Lee Postgame Media Availability | 11/6/2026](https://www.youtube.com/watch?v=5Z2Cg_NcwFM) · *Charlotte Hornets*
 
 <small>[Clip it](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=2) · [Send to Slack](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=2&slack=1)</small>
@@ -17,6 +19,8 @@ From: [Hornets vs Celtics: Coach Charles Lee Postgame Media Availability | 11/6/
 Kenny Atkinson: "It's bothering him. We'll see what that looks like tomorrow. Hopefully he's okay. We got off to that great start, he's in the starting lineup, it gives us IQ, connection, all that stuff."
 
 [https://www.youtube.com/watch?v=mGzYJnnyrY4&t=101s](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=101s)
+
+<small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=101&q=2) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=101&q=2&slack=1)</small>
 
 From: [Cavs vs 76ers | Kenny Atkinson Post Game | 11.06.2026](https://www.youtube.com/watch?v=mGzYJnnyrY4) · *Cleveland Cavaliers*
 
@@ -28,6 +32,8 @@ Trae Young: "Yeah, I didn't get to really get to say goodbye, obviously whenever
 
 [https://www.youtube.com/watch?v=QSvQdMSqP5A&t=565s](https://www.youtube.com/watch?v=QSvQdMSqP5A&t=565s)
 
+<small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=565&q=3) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=565&q=3&slack=1)</small>
+
 From: [Media Availability: Brian Keefe and Trae Young | 11.6.26](https://www.youtube.com/watch?v=QSvQdMSqP5A) · *Washington Wizards*
 
 <small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=565&q=5) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=565&q=5&slack=1)</small>
@@ -37,6 +43,8 @@ From: [Media Availability: Brian Keefe and Trae Young | 11.6.26](https://www.you
 Tyler Herro: "It's a process. We've been saying this since the trade, this isn't a thing that happens overnight. We've been in a lot of these games, and I think we've played eight to nine games, we should have won five of them. The other two or three we were obviously got blown out, but five of the eight I feel like we were in position to win all of them. Continuing to just go to that process, we'll start winning games, so I'm not worried."
 
 [https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s](https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s)
+
+<small>[Clip it](presserclips://clip?v=t5TK4iL0H24&t=141&q=4) · [Send to Slack](presserclips://clip?v=t5TK4iL0H24&t=141&q=4&slack=1)</small>
 
 From: [Tyler Herro Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=t5TK4iL0H24) · *Milwaukee Bucks*
 
@@ -50,6 +58,8 @@ From: [Tyler Herro Postgame Media Availability | 11.6.26](https://www.youtube.co
 
 [https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s](https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s)
 
+<small>[Clip it](presserclips://clip?v=6J54qK7Anlw&t=104&q=5) · [Send to Slack](presserclips://clip?v=6J54qK7Anlw&t=104&q=5&slack=1)</small>
+
 From: [Hawks vs. Wizards Postgame Press Conference: Luguentz Dor](https://www.youtube.com/watch?v=6J54qK7Anlw) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=6J54qK7Anlw&t=104&q=3) · [Send to Slack](presserclips://clip?v=6J54qK7Anlw&t=104&q=3&slack=1)</small>
@@ -59,6 +69,8 @@ From: [Hawks vs. Wizards Postgame Press Conference: Luguentz Dor](https://www.yo
 Evan Mobley: "I got to play an even bigger role, not having my fellow big man out there. He does a lot on the floor, protects the paint, and then offensively as well. So I got to do a better job of protecting that paint and I think tonight I did a good job of that, just covering up all the gaps and little nuances that the Sixers run, and just protecting the paint as best as possible."
 
 [https://www.youtube.com/watch?v=udYCFQER0i4&t=495s](https://www.youtube.com/watch?v=udYCFQER0i4&t=495s)
+
+<small>[Clip it](presserclips://clip?v=udYCFQER0i4&t=495&q=6) · [Send to Slack](presserclips://clip?v=udYCFQER0i4&t=495&q=6&slack=1)</small>
 
 From: [Cavs vs 76ers | Donovan Mitchell & Evan Mobley Post Game | 11.06.2026](https://www.youtube.com/watch?v=udYCFQER0i4) · *Cleveland Cavaliers*
 
@@ -72,6 +84,8 @@ From: [Cavs vs 76ers | Donovan Mitchell & Evan Mobley Post Game | 11.06.2026](ht
 
 [https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s)
 
+<small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=7) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=7&slack=1)</small>
+
 From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=Cg-GTNEoXOM) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=1) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=1&slack=1)</small>
@@ -84,6 +98,8 @@ From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtub
 
 [https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s)
 
+<small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=8) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=8&slack=1)</small>
+
 From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=Cg-GTNEoXOM) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5&slack=1)</small>
@@ -93,6 +109,8 @@ From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtub
 Miles Bridges: "I did get to talk to **Shaquille O'Neal** a couple weeks ago when he was here. He was just telling me to play bigger than what I am. Just grab every rebound, push in transition, and offensive rebound, and I have been taking his word and doing that ever since."
 
 [https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
+
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=106&q=9) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=106&q=9&slack=1)</small>
 
 From: [Miles Bridges Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=GrLef5VJSMw) · *Phoenix Suns*
 
@@ -104,6 +122,8 @@ Miles Bridges: "The only thing with us is we have got to do a better job of rebo
 
 [https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=144s)
 
+<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=144&q=10) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=144&q=10&slack=1)</small>
+
 From: [Miles Bridges Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=GrLef5VJSMw) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=144&q=2) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=144&q=2&slack=1)</small>
@@ -113,6 +133,8 @@ From: [Miles Bridges Shootaround Media Availability | 11-7-26](https://www.youtu
 Jared McCain: "Whoever we were trying to attack, just trying to set early ones for Shai, for Jalen, for them to get downhill. They usually come back and double Shai, so being able to pull over. That was the game plan, just make sure we get defenders that we want on the ball, make them tired, make them try and chase Shai or Jalen around. Being able to pull over and obviously when we got it and making shots like that, it's pretty fun to watch."
 
 [https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s](https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s)
+
+<small>[Clip it](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=11) · [Send to Slack](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=11&slack=1)</small>
 
 From: [Jared McCain on Team's Playmaking in Memphis | Postgame Media | November 6, 2026](https://www.youtube.com/watch?v=Iy78j9q2xoQ) · *Oklahoma City Thunder*
 
@@ -124,6 +146,8 @@ Dyson Daniels: "It's different playing against Trae. Obviously, super talented g
 
 [https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s](https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s)
 
+<small>[Clip it](presserclips://clip?v=NYxPxPKUNSI&t=56&q=12) · [Send to Slack](presserclips://clip?v=NYxPxPKUNSI&t=56&q=12&slack=1)</small>
+
 From: [Hawks vs. Wizards Postgame Press Conference: Onyeka Okongwu and Dyson Daniels](https://www.youtube.com/watch?v=NYxPxPKUNSI) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=NYxPxPKUNSI&t=56&q=2) · [Send to Slack](presserclips://clip?v=NYxPxPKUNSI&t=56&q=2&slack=1)</small>
@@ -133,6 +157,8 @@ From: [Hawks vs. Wizards Postgame Press Conference: Onyeka Okongwu and Dyson Dan
 Trae Young: "AJ is a future star. Obviously today didn't have a shot going, but he's going to have really good nights and he's going to have some bad nights and that's part of being a rookie. You see around the league with other rookies that don't have veterans around them that can help get them some wins, you're out there by yourself sometimes. So there's going to be nights that he's not going to have it like tonight and he may have it tomorrow."
 
 [https://www.youtube.com/watch?v=QSvQdMSqP5A&t=431s](https://www.youtube.com/watch?v=QSvQdMSqP5A&t=431s)
+
+<small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=431&q=13) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=431&q=13&slack=1)</small>
 
 From: [Media Availability: Brian Keefe and Trae Young | 11.6.26](https://www.youtube.com/watch?v=QSvQdMSqP5A) · *Washington Wizards*
 
@@ -144,6 +170,8 @@ Jamal Shead: "It is awesome because **Elijah Fisher** has been through a small i
 
 [https://www.youtube.com/watch?v=_uupgzUP4ak&t=13s](https://www.youtube.com/watch?v=_uupgzUP4ak&t=13s)
 
+<small>[Clip it](presserclips://clip?v=_uupgzUP4ak&t=13&q=14) · [Send to Slack](presserclips://clip?v=_uupgzUP4ak&t=13&q=14&slack=1)</small>
+
 From: [Jamal Shead | Post Game at Milwaukee Bucks | November 06, 2026](https://www.youtube.com/watch?v=_uupgzUP4ak) · *Toronto Raptors*
 
 <small>[Clip it](presserclips://clip?v=_uupgzUP4ak&t=13&q=1) · [Send to Slack](presserclips://clip?v=_uupgzUP4ak&t=13&q=1&slack=1)</small>
@@ -154,6 +182,8 @@ Luke Kennard: "It comes down to the flow of the game, opportunity. I didn't want
 
 [https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=41s)
 
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=41&q=15) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=41&q=15&slack=1)</small>
+
 From: [Luke Kennard Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=aWddSSnx4Ho) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=41&q=1) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=41&q=1&slack=1)</small>
@@ -163,6 +193,8 @@ From: [Luke Kennard Shootaround Media Availability | 11-7-26](https://www.youtub
 Luke Kennard: "Since I got here, everybody wants me to shoot, they want me to be aggressive, get a lot of shots up, a lot of threes up. I remember **Colin** telling me before the season started he wants me to take like 10 a game. Obviously, it comes down to situations, minutes, all the things like that, but it's definitely on my mind to get more up, more threes up. I think last game I did a better job of that."
 
 [https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=145s)
+
+<small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=145&q=16) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=145&q=16&slack=1)</small>
 
 From: [Luke Kennard Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=aWddSSnx4Ho) · *Phoenix Suns*
 
@@ -178,6 +210,8 @@ Jamahl Mosley: "I think what went into that decision, it was because the ability
 
 [https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s)
 
+<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=1) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=1&slack=1)</small>
+
 From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://www.youtube.com/watch?v=rbSz1cPZ_Bw) · *New Orleans Pelicans*
 
 <small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8&slack=1)</small>
@@ -187,6 +221,8 @@ From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://ww
 Jamahl Mosley: "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration. Part of it is that. It's a close game going into the fourth. Our ability to get downhill, we attacked the basket a couple times, it didn't get the call. Not the reason, but again, big fellas going down there trying to attack the basket the right way, he's got to get the same kind of bumps that we're giving away on the other end."
 
 [https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s)
+
+<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2&slack=1)</small>
 
 From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://www.youtube.com/watch?v=rbSz1cPZ_Bw) · *New Orleans Pelicans*
 

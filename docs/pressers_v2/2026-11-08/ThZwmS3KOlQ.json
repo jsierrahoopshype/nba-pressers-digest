@@ -1,0 +1,152 @@
+{
+  "video_title": "Jalen Green Postgame On-Court Interview after Suns win against Houston Rockets | 11-7-26",
+  "speakers_seen": [
+    "Jalen Green",
+    "Amanda"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Green",
+      "speakers": [
+        "Jalen Green",
+        "Amanda"
+      ],
+      "timestamp": "00:03",
+      "summary_phrase": "Jalen Green on facing his former Houston Rockets teammates",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "I was just happy to see them. Glad we got the dub, really wanted that one.",
+      "text_blocks": [
+        {
+          "speaker": "Amanda",
+          "text": "Jalen Green, catching up with your former teammates. What were you saying to them postgame?"
+        },
+        {
+          "speaker": "Jalen Green",
+          "text": "I was just happy to see them. Glad we got the dub, really wanted that one. It's always good to see those guys. I've been with them for four, even more years, so it's always good to see them."
+        }
+      ],
+      "start_seconds": 3,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jalen Green on catching up with his former Rockets teammates after the win: It is always good to see those guys. I have been with them for four years so it is always good to see them.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Green discusses his postgame interaction with his former Houston Rockets teammates after the Phoenix Suns victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Green",
+      "speakers": [
+        "Jalen Green",
+        "Amanda"
+      ],
+      "timestamp": "00:34",
+      "summary_phrase": "Jalen Green on the emotional significance of playing Houston",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "I grew up there in Houston, learned a lot there in Houston, so that was very emotional.",
+      "text_blocks": [
+        {
+          "speaker": "Amanda",
+          "text": "How much was tonight an emotionally charged game for you and Dylan?"
+        },
+        {
+          "speaker": "Jalen Green",
+          "text": "The majority of it was. That's where I spent most of my years there. I grew up there in Houston, learned a lot there in Houston, so that was very emotional game for me, much win for me. I'm glad we got it as the Phoenix Suns."
+        }
+      ],
+      "start_seconds": 34,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Jalen Green admits facing his former team in Houston was an emotional experience: That is where I spent most of my years. I grew up there in Houston, learned a lot there in Houston, so that was a very emotional game for me.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dylan Windler"
+        ],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jalen Green describes the emotional significance of playing against his former team in Houston alongside teammate Dylan Windler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Green",
+      "speakers": [
+        "Jalen Green",
+        "Amanda"
+      ],
+      "timestamp": "00:57",
+      "summary_phrase": "Jalen Green on setting the offensive tone for Phoenix",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "Just being aggressive, playing defense. That's really the main priority right now, just being myself.",
+      "text_blocks": [
+        {
+          "speaker": "Amanda",
+          "text": "You got it going, eight points in that first quarter, 16 on the night. How are you able to set the tone for your teammates offensively?"
+        },
+        {
+          "speaker": "Jalen Green",
+          "text": "Just being aggressive, playing defense. That's really the main priority right now, just being myself."
+        }
+      ],
+      "start_seconds": 57,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Green on his offensive performance for the Suns: Just being aggressive, playing defense. That is really the main priority right now, just being myself.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jalen Green explains his approach to setting the offensive tone for the Phoenix Suns by focusing on aggression and defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ThZwmS3KOlQ",
+  "url": "https://www.youtube.com/watch?v=ThZwmS3KOlQ",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-08T05:41:17Z",
+  "duration_seconds": 82,
+  "processed_at": "2026-11-08T07:27:49Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

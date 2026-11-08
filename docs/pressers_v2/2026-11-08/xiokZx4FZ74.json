@@ -1,0 +1,207 @@
+{
+  "video_title": "Hawks vs. Nets Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:23",
+      "summary_phrase": "Onyeka Okongwu's injury and the team's adjustment period",
+      "names_mentioned": [
+        "Onyeka Okongwu"
+      ],
+      "excerpt": "Onyeka has to leave the game, obviously there is a little bit of an adjustment period.",
+      "quote": "More than those two things, it was Brooklyn. Onyeka has to leave the game, obviously there is a little bit of an adjustment period, not wanting to if you are going to have him, talking about what our rotation is going to look like, who is going to play and when. And then, we knew we would be a little fatigued. I thought our guys pushed through that, and in some respects, they shot the ball incredibly well early, so it was hard to feel like we were defending when the ball keeps going in the basket. So, that was a big part of the game to me, that we just hung in there.",
+      "verbatim_original_language": "",
+      "start_seconds": 23,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Quin Snyder says Onyeka Okongwu leaving the game forced an adjustment period for the Hawks rotation against the Nets. He noted the team had to battle through fatigue while Brooklyn was hitting shots early.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Onyeka Okongwu"
+        ],
+        "teams": [
+          "ATL",
+          "BKN"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Head coach Quin Snyder discusses the impact of Onyeka Okongwu leaving the game due to injury and the resulting rotation adjustments.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:25",
+      "summary_phrase": "Defining the team's identity through defensive and offensive principles",
+      "names_mentioned": [],
+      "excerpt": "The umbrella for us is defend, run, and share the ball.",
+      "quote": "I hope that there is some commonality. We have tried to handle the past in the right way, meaning there are some things that we did at the end of last year that were really good that we want to take with us. There was some adversity prior to that and also at the end of that that hopefully we can also bring with us to understand how we need to be better. I think the overarching, the umbrella for us is defend, run, and share the ball. So, whatever that manifests itself and what the team looks like, I think those are the things that we want the substance of that identity to be.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Quin Snyder on the Hawks identity this season: The overarching umbrella for us is defend, run, and share the ball.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains the core principles of the team's identity following the game against Brooklyn.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:30",
+      "summary_phrase": "Importance of offensive rebounding and paint scoring despite three-point shooting",
+      "names_mentioned": [],
+      "excerpt": "We still took our shots, which I think is important.",
+      "quote": "We still took our shots, which I think is important. And it did not feel like we were going to stop shooting. Because of that, the offensive glass, I do not know how many offensive rebounds we had, we were going to be able to rebound some of those misses. And then I thought our guys also did a good job getting out in transition. Some of those paint points took place in the open court where we attack the rim. We have not finished as well as we want to, so it was good to see that happen tonight.",
+      "verbatim_mentioned": [],
+      "verbatim_original_language": "",
+      "start_seconds": 150,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Quin Snyder liked the Hawks commitment to the offensive glass and transition play against Brooklyn, noting that the team needs to continue attacking the rim even when shots are not falling.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder comments on the team's offensive performance, specifically highlighting rebounding and transition scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "03:13",
+      "summary_phrase": "Jalen Johnson's active play and development without the ball",
+      "names_mentioned": [
+        "Jalen Johnson"
+      ],
+      "excerpt": "When you can learn to play without the ball, it takes your game to another level.",
+      "quote": "The way that he started the game, he was really running. He was active without the ball. When you can learn to play without the ball, it takes your game to another level. There are other things that are going on in the game, crashing the offensive glass, some of those things, he was really committed to. And then at certain times, he was able to have the ball, and we want him to have the ball and really make good reads, which I thought was important. So, just being able to feel when is the time to make a pass and when is the time to attack the rim.",
+      "verbatim_original_language": "",
+      "start_seconds": 193,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Quin Snyder on Jalen Johnson: When you can learn to play without the ball, it takes your game to another level. He praised Johnson for his activity and commitment to crashing the offensive glass.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder praises Jalen Johnson for his active play and development in moving without the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quin Snyder",
+      "timestamp": "05:01",
+      "summary_phrase": "Defensive foundation as the key to team success",
+      "names_mentioned": [],
+      "excerpt": "Defending, that's the foundation.",
+      "quote": "We have talked a lot about our identity offensively, where we can run and move the ball, but defending, that's the foundation. And when we do that, it gives us an opportunity to do those other things. Really across the board, I thought we gave up a lot. Last night was not our best defensive effort, and we talked about that a little before the game. I did not think we started out at the level we wanted to. Just said some of that was Brooklyn making shots, but as the game progressed, I thought we got better and better defensively.",
+      "verbatim_original_language": "",
+      "start_seconds": 301,
+      "end_seconds": 340,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Quin Snyder emphasizes that while the Hawks want to run and move the ball, defending is the foundation of their success. He noted the team improved defensively as the game against Brooklyn progressed.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Quin Snyder emphasizes the importance of defensive effort as the foundation for the team's success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Quin Snyder",
+      "timestamp": "07:07",
+      "summary_phrase": "Trusting AJ Griffin's poise and decision-making in high-stakes situations",
+      "names_mentioned": [
+        "AJ Griffin"
+      ],
+      "excerpt": "I have a lot of confidence in AJ Griffin, who is got great poise.",
+      "quote": "The one thing we know is the players are usually wrong because the emotion in the game, and I am probably the same. So, we have a ton of confidence in AJ Griffin, who is got great poise. And in those situations, I trust him. He said he used that too soon, and you are not right, it hurts you later. So, try to be really disciplined about when we challenge, that we are taking points off the board or it is there is a whole metric to that that we look at, but more than anything, I think AJ's poise and his understanding of strategy involved in it.",
+      "verbatim_original_language": "",
+      "start_seconds": 427,
+      "end_seconds": 469,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Quin Snyder discusses the challenge process and trusting AJ Griffin: We have a ton of confidence in AJ Griffin, who has got great poise. He noted the importance of being disciplined with challenges to avoid hurting the team later.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Griffin"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Quin Snyder discusses his trust in AJ Griffin's decision-making and poise regarding game challenges.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "xiokZx4FZ74",
+  "url": "https://www.youtube.com/watch?v=xiokZx4FZ74",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-08T03:59:04Z",
+  "duration_seconds": 595,
+  "processed_at": "2026-11-08T07:28:24Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

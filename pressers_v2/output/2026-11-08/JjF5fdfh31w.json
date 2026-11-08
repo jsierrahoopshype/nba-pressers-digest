@@ -1,0 +1,122 @@
+{
+  "video_title": "Coach Daigneault on Full Team Effort | Postgame Media | November 7, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:50",
+      "summary_phrase": "Mark Daigneault on the development of Ousmane Dieng and Cason Wallace",
+      "names_mentioned": [
+        "Cason Wallace",
+        "Ousmane Dieng"
+      ],
+      "excerpt": "He's played impactful minutes every single night, which is hard to do for a rookie player.",
+      "quote": "Ousmane Dieng has done a great job. Like we said last night, he's been really consistent. He's played impactful minutes every single night, which is hard to do for a rookie player, especially at that position. It's a hard position. And then Cason Wallace, I'm happy for him because he had the shooting stretch the last few games leading into last night that he had to work himself through. And it's if you think about his career track so far, it's the first time he's had to work through something like that in sustained minutes for a good team. And so he's growing. He's a young player. This is a new experience for him. I don't want to speak for him, but that's my impression. And I thought he did a great job of playing himself through that. He stayed inside the team, he stayed in character, he stayed aggressive, and he stayed balanced as a player. It didn't become all about trying to find a shot, and then the thing turned for him because he's a great shooter.",
+      "start_seconds": 50,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Mark Daigneault praises Cason Wallace for his growth, noting that the young guard stayed aggressive and balanced while working through a recent shooting slump.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ousmane Dieng",
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Mark Daigneault discusses the development and recent performance of Ousmane Dieng and Cason Wallace during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:17",
+      "summary_phrase": "Mark Daigneault on Jalen Williams' impact beyond three-point shooting",
+      "names_mentioned": [
+        "Jalen Williams",
+        "Alex Caruso",
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "It's like what's your identity without the shooting off the table, what are you left with?",
+      "quote": "It's the same thing I've said with him. I think a lot of it is like what's your identity without the shooting off the table, what are you left with as a player? And I think we've got a lot of guys on the team that model that well. I think Alex Caruso is obviously in the Hall of Fame for that. But you think about Isaiah Hartenstein the last two nights, he's scored four points in two games. He had two points last night, two points tonight. Last night we won his minutes by 31 points. Tonight he had 14 rebounds, we won his minutes by 25. And that's a great example of an impactful winning player that can do it in all the other ways outside of the counting stats with points. And Jalen Williams, younger player, new to the program, relatively new, you got guys like them, Alex Caruso, these guys that just do all the invisible stuff. It's very contagious and it brings value to those things and a guy like Jalen Williams has done a great job, despite the fact that he is a great scorer and a great shooter, of focusing on those things.",
+      "start_seconds": 197,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Mark Daigneault highlights the impact of Isaiah Hartenstein, noting that the big man has been highly effective in winning minutes despite scoring only four points over the last two games.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alex Caruso",
+          "Isaiah Hartenstein",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Mark Daigneault explains the importance of impactful play beyond scoring while praising Jalen Williams, Alex Caruso, and Isaiah Hartenstein.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "04:45",
+      "summary_phrase": "Mark Daigneault on Shai Gilgeous-Alexander's defensive growth",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "The foundation of all that that he's always had is just great effort and compete level.",
+      "quote": "I think the experience helps. You learn the pictures and you learn the league and you get a feel for playing against these really high-level guys. Obviously started on Shai Gilgeous-Alexander tonight in both halves and did a really nice job on him. But the foundation of all that that he's always had is just great effort and compete level. It's like all these great defenders that we've had come through here, they get smarter, they learn the tricks, they learn the fundamentals, they learn the techniques, they learn the league, but at the base of all of it is just effort and competing. And that's what he's got. He does that every single night, even as his offense has continued to grow, he still brings that every single night. It's impressive.",
+      "start_seconds": 285,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Mark Daigneault says defensive growth comes down to effort and competing, noting that players get smarter and learn the league tricks as they gain experience.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Coach Mark Daigneault comments on the defensive growth and consistent effort of a player while discussing the challenge of guarding Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "JjF5fdfh31w",
+  "url": "https://www.youtube.com/watch?v=JjF5fdfh31w",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-08T04:28:32Z",
+  "duration_seconds": 342,
+  "processed_at": "2026-11-08T07:28:07Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}
