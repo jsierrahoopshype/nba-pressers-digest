@@ -8,6 +8,8 @@ Cyro Asseo: "A sixth pick being declined at 10.4 million is a bigger statement t
 
 [https://www.youtube.com/watch?v=b_OewP0nLYo&t=184s](https://www.youtube.com/watch?v=b_OewP0nLYo&t=184s)
 
+<small>[Clip it](presserclips://clip?v=b_OewP0nLYo&t=184&q=1) · [Send to Slack](presserclips://clip?v=b_OewP0nLYo&t=184&q=1&slack=1)</small>
+
 From: [7 NBA Players Had Their Options Declined: What Happens Next?](https://www.youtube.com/watch?v=b_OewP0nLYo) · *HoopsHype*
 
 <small>[Clip it](presserclips://clip?v=b_OewP0nLYo&t=184&q=4) · [Send to Slack](presserclips://clip?v=b_OewP0nLYo&t=184&q=4&slack=1)</small>
@@ -17,6 +19,8 @@ From: [7 NBA Players Had Their Options Declined: What Happens Next?](https://www
 Jalen Johnson: "Those two work extremely hard for being rookies and I think that is a very underrated thing. As a rookie sometimes you just get lost in the moment, and those guys come out there and give us sparks that we need. **Zaccharie Risacher** last night when he dove on the loose ball and got the offensive rebound, then got rewarded with the back scratch, I damn near got chills just watching that."
 
 [https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s)
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=152&q=2) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=152&q=2&slack=1)</small>
 
 From: [Hawks vs. Nets Postgame Press Conference: Jalen Johnson](https://www.youtube.com/watch?v=A-hTZAnBVrk) · *Atlanta Hawks*
 
@@ -28,6 +32,8 @@ Jared McCain: "He is awesome, he is super awesome. I was watching a clip with **
 
 [https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=87s](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=87s)
 
+<small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=3) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=3&slack=1)</small>
+
 From: [Jared McCain on Teammates and Enjoying the Work | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=WbK5x3Wn_h4) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=2) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=2&slack=1)</small>
@@ -37,6 +43,8 @@ From: [Jared McCain on Teammates and Enjoying the Work | Postgame Media | Novemb
 Jamal Cain: "It's extremely important because we have three of our most important guys down right now, so we know guys got to step up. And I just wanted to bring an edge and a spark off the bench, you know, trying to help us get some life."
 
 [https://www.youtube.com/watch?v=4O6QSwTPG4g&t=205s](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=205s)
+
+<small>[Clip it](presserclips://clip?v=4O6QSwTPG4g&t=205&q=4) · [Send to Slack](presserclips://clip?v=4O6QSwTPG4g&t=205&q=4&slack=1)</small>
 
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS | COACH SWEENEY, CAIN & WAGNER](https://www.youtube.com/watch?v=4O6QSwTPG4g) · *Orlando Magic*
 
@@ -48,6 +56,8 @@ Jalen Johnson: "**Julius Randle** is one of them for sure. Definitely at the fou
 
 [https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s)
 
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5&slack=1)</small>
+
 From: [Hawks vs. Nets Postgame Press Conference: Jalen Johnson](https://www.youtube.com/watch?v=A-hTZAnBVrk) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5&slack=1)</small>
@@ -57,6 +67,8 @@ From: [Hawks vs. Nets Postgame Press Conference: Jalen Johnson](https://www.yout
 Kenrich Williams: "I think just effort, kind of keying in on a game plan. You know, just locking in on that side of the ball, knowing that when nights when the ball doesn't go in the basket, we got to hang our hats on that side of the ball. And also just getting AC back helps our defense, it does help our defense a lot."
 
 [https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s)
+
+<small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=18&q=6) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=18&q=6&slack=1)</small>
 
 From: [Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=G3mVC-aV2gw) · *Oklahoma City Thunder*
 
@@ -68,6 +80,8 @@ Kenrich Williams: "He's just his effort. His effort night in and night out, he g
 
 [https://www.youtube.com/watch?v=G3mVC-aV2gw&t=172s](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=172s)
 
+<small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=172&q=7) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=172&q=7&slack=1)</small>
+
 From: [Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=G3mVC-aV2gw) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=172&q=5) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=172&q=5&slack=1)</small>
@@ -77,6 +91,8 @@ From: [Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026](h
 Jared McCain: "It is super impressive to see. When I went out there and was working out with him, we worked on a lot of the new stuff that I did not expect. I thought we would be doing more of the mid-range stuff and stuff that he did last year. To see it now, shooting more threes and catch-and-shoot and backdoors, it is pretty cool to see that translate. It just speaks to his work and how he is able to use exactly what he works on and put it right into the game."
 
 [https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=26s](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=26s)
+
+<small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=8) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=8&slack=1)</small>
 
 From: [Jared McCain on Teammates and Enjoying the Work | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=WbK5x3Wn_h4) · *Oklahoma City Thunder*
 
@@ -88,6 +104,8 @@ Jalen Green: "He took over when we needed him and that's what he does, so it's e
 
 [https://www.youtube.com/watch?v=nkcouRENq9c&t=56s](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
 
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=56&q=9) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=56&q=9&slack=1)</small>
+
 From: [Jalen Green Postgame Media Availability | Phoenix Suns | 11-7-26](https://www.youtube.com/watch?v=nkcouRENq9c) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=56&q=2) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=56&q=2&slack=1)</small>
@@ -97,6 +115,8 @@ From: [Jalen Green Postgame Media Availability | Phoenix Suns | 11-7-26](https:/
 Aaron Wiggins: "Understanding as a team the ways that we can help each other when we're missing pieces, whether it's **Jaylen Johnson** in scoring and playmaking, whether it's rebounding and just opportunities to create as a connector on the team. Understanding individually how you can contribute and then as a team our strengths. I think we do a good job moving the ball, passing the ball, creating for each other, playing without the ball. Those things require more attention when you're missing some of our bigs, and obviously rebounding as a team is bigger. I think guys understand that when we're missing pieces like that, we have to fill in as a team and it has to be as a collective."
 
 [https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s](https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s)
+
+<small>[Clip it](presserclips://clip?v=ePrfZObKTXY&t=186&q=10) · [Send to Slack](presserclips://clip?v=ePrfZObKTXY&t=186&q=10&slack=1)</small>
 
 From: [Hawks vs. Nets Postgame Press Conference: Aaron Wiggins](https://www.youtube.com/watch?v=ePrfZObKTXY) · *Atlanta Hawks*
 

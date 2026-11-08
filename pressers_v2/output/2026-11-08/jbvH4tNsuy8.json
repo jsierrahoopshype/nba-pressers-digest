@@ -1,0 +1,239 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa | 11.7.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Trae Young",
+    "AJ Dybantsa"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on the team's offensive struggles and shot selection",
+      "names_mentioned": [],
+      "excerpt": "Sometimes you're going to have nights like that you don't shoot the ball well.",
+      "quote": "I liked how we came out in the first quarter. I liked our defensive focus and I thought we got great looks. The game was pretty even there until about the four-minute mark and obviously they started off the second quarter, they got going and we unfortunately missed some shots, but we had some open ones that I liked. We were getting in the paint. I think we had 10 corner threes in the first half. We just didn't make any of them to be honest. Sometimes you're going to have nights like that you don't shoot the ball well and that was probably the story of the game.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the Wizards offensive struggles tonight: We had 10 corner threes in the first half and just did not make any of them. Sometimes you are going to have nights like that where you do not shoot the ball well.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the team's offensive performance and shooting struggles during a post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:19",
+      "summary_phrase": "Brian Keefe praises Trae Young's unselfish play against defensive pressure",
+      "names_mentioned": [
+        "Trae Young"
+      ],
+      "excerpt": "He wasn't trying to force it. They put two on him, he was getting our guys great looks.",
+      "quote": "They're obviously a great, one of the best defensive teams in the league. They were putting two on the ball. He kept making the right play though and that's what I like about Trae. He wasn't trying to force it. They put two on him, he was getting our guys great looks. Sometimes that was a pass from himself, sometimes that was the hockey assist, and he was playing an unselfish game. Sometimes the game calls for you to get off the ball because they were putting so much of a crowd and focus on him and that led to us getting some good looks, we just didn't knock them down.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Brian Keefe on Trae Young dealing with double teams: He was playing an unselfish game. Sometimes the game calls for you to get off the ball because they were putting so much of a crowd and focus on him.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brian Keefe praises Trae Young for his unselfish playmaking despite facing heavy defensive pressure from the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:57",
+      "summary_phrase": "Brian Keefe evaluates the defensive development of AJ Dybantsa",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "He's really worked on his strength, his physical size. He's gotten stronger.",
+      "quote": "You can see the ball pressure. He's really worked on his strength, his physical size. He's gotten stronger. He's been able to reroute ball handlers, pick people up full court, and then he's a shot maker. He can do two things for us: he can play off the ball and he can initiate offense. That's a great skill for us to have, but the defense has gotten better for sure.",
+      "text_blocks": [],
+      "start_seconds": 117,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Brian Keefe on AJ Dybantsa: He has really worked on his strength and physical size. He has been able to reroute ball handlers and pick people up full court. The defense has gotten better for sure.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe evaluates the defensive development and physical growth of rookie AJ Dybantsa.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trae Young",
+      "timestamp": "04:43",
+      "summary_phrase": "Trae Young on his shooting struggles and team's offensive execution",
+      "names_mentioned": [],
+      "excerpt": "I just missed a lot of shots tonight and that's going to happen some of those nights.",
+      "quote": "Obviously I missed a lot of shots. I mean, we had some really good looks and missed a lot of easy ones in bunnies and that can sometimes get in your head and miss more shots throughout the game. I just missed a lot of shots tonight and that's going to happen some of those nights and tonight was one of them for us.",
+      "text_blocks": [],
+      "start_seconds": 283,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trae Young on his shooting performance: I missed a lot of shots tonight and that is going to happen some of those nights. We had some really good looks and missed a lot of easy ones.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young reflects on his personal shooting struggles and the team's missed opportunities during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trae Young",
+      "timestamp": "05:11",
+      "summary_phrase": "Trae Young on adjusting to defensive attention and team playmaking",
+      "names_mentioned": [],
+      "excerpt": "I'm still getting teams' best defender on me. I think we're just trying to work on how to play other actions.",
+      "quote": "I mean, I think you can probably tell I'm still getting teams' best defender on me. I think we're just trying to work on how to play other actions, you know what I'm saying? I'm not trying to have the ball as much as I'm used to in previous years, so I'm trying to let other guys handle and playmaking do other things. So we're just trying to figure out and it's obviously frustrating we don't have it clicked right away, but we got some time.",
+      "text_blocks": [],
+      "start_seconds": 311,
+      "end_seconds": 344,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Trae Young on his role change: I am not trying to have the ball as much as I am used to in previous years. I am trying to let other guys handle and playmaking do other things. It is frustrating we do not have it clicked right away.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses his adjustment to new offensive roles and managing defensive attention from opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "07:57",
+      "summary_phrase": "AJ Dybantsa on his rookie learning curve and team's road trip",
+      "names_mentioned": [
+        "Trae Young",
+        "DeAndre Hunter"
+      ],
+      "excerpt": "Me being a rookie, just finding my way. There's going to be a lot of ups and downs.",
+      "quote": "I just watched the film. It feels not going to lie. Obviously we have an off day tomorrow, just reset your mind, watch the film. We just got to do better. Obviously we got two more games on this road trip. Try to be 50/50 with it. Me being a rookie, just finding my way. There's going to be a lot of ups and downs and I'm ready for it. But like you said, I'm just finding my way. Obviously we have guys like AD, Trae, K-Mid, DeAndre that's kind of leading the way. I just got to fall in line and, you know, I'm going to do it.",
+      "text_blocks": [],
+      "start_seconds": 477,
+      "end_seconds": 519,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa on his rookie season: Me being a rookie, just finding my way. There is going to be a lot of ups and downs and I am ready for it. I just have to fall in line.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rookie AJ Dybantsa discusses his learning curve and the leadership provided by his veteran teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "08:40",
+      "summary_phrase": "AJ Dybantsa on studying Shai Gilgeous-Alexander's game and playing against him",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "King of manipulating the game, gets to his middy, knows his spots, gets his teammates involved.",
+      "quote": "It's kind of everything I study. Just king of manipulating the game, gets to his middy, knows his spots, gets his teammates involved. Great leader, but this is someone I've been studying for the past three, four years. Obviously one of my favorite players. I've mentioned that in plenty of media outlets, but it was cool obviously playing against him, but obviously want a different result, but good thing we play them again.",
+      "text_blocks": [],
+      "start_seconds": 520,
+      "end_seconds": 548,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "AJ Dybantsa on studying Shai Gilgeous-Alexander: He is someone I have been studying for the past three, four years. Obviously one of my favorite players. It was cool playing against him, but obviously want a different result.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "WAS",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa talks about studying Shai Gilgeous-Alexander's game and the experience of playing against him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jbvH4tNsuy8",
+  "url": "https://www.youtube.com/watch?v=jbvH4tNsuy8",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-08T15:52:00Z",
+  "duration_seconds": 587,
+  "processed_at": "2026-11-08T18:49:50Z",
+  "run_id": "2026-11-08T1849Z-14utc",
+  "is_one_off": false
+}
