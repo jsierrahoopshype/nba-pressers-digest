@@ -1,0 +1,228 @@
+{
+  "video_title": "Jalen Green Postgame Media Availability | Phoenix Suns | 11-7-26",
+  "speakers_seen": [
+    "Jalen Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Green",
+      "timestamp": "00:15",
+      "summary_phrase": "Jalen Green on the impact of the recent trade",
+      "names_mentioned": [],
+      "excerpt": "It felt great. It felt really good. We lost last year and I only got to play the one game.",
+      "quote": "It felt great. It felt really good. We lost last year and I only got to play the one game, so I'm glad we got the dub.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jalen Green on the win against Houston: It felt great. We lost last year and I only got to play the one game, so I am glad we got the dub.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jalen Green reflects on the team's victory following a recent trade.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Green",
+      "timestamp": "00:56",
+      "summary_phrase": "Jalen Green on Devin Booker's takeover performance",
+      "names_mentioned": [
+        "Devin"
+      ],
+      "excerpt": "He took over when we needed him and that's what he does, so it's exciting.",
+      "quote": "He took over when we needed him and that's what he does, so it's exciting.",
+      "verbatim_original_language": "",
+      "start_seconds": 56,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jalen Green on Devin Booker: He took over when we needed him and that is what he does, so it is exciting.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Green praises Devin Booker for his performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Green",
+      "timestamp": "01:44",
+      "summary_phrase": "Jalen Green on the team's offensive process",
+      "names_mentioned": [],
+      "excerpt": "It was just really slowing down, getting into the right offense and figuring out what was working.",
+      "quote": "It was just really slowing down, getting into the right offense and figuring out what was working as the quarter was going down. There was no rush to it. Just had to take our time and get the matchups we wanted, get the spacing we needed, and the rest took care of itself.",
+      "verbatim_original_language": "",
+      "start_seconds": 104,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Green on the offensive process: There was no rush to it. Just had to take our time and get the matchups we wanted, get the spacing we needed, and the rest took care of itself.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jalen Green explains the team's offensive approach and patience during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Green",
+      "timestamp": "02:22",
+      "summary_phrase": "Jalen Green on the team's defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "The more we get stops and feed off the defensive energy, the better we're going to be.",
+      "quote": "The more we get stops and feed off the defensive energy, the better we're going to be.",
+      "verbatim_original_language": "",
+      "start_seconds": 142,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Green on defensive intensity: The more we get stops and feed off the defensive energy, the better we are going to be.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jalen Green discusses the importance of defensive energy for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Green",
+      "timestamp": "03:50",
+      "summary_phrase": "Jalen Green on responding to Houston's run",
+      "names_mentioned": [],
+      "excerpt": "It's a game of runs at the end of the day. They're going to make their run.",
+      "quote": "It's a game of runs at the end of the day. They're going to make their run. They're a really good team and it's all about responses and how we're going to answer back, and I think we did a good job.",
+      "verbatim_original_language": "",
+      "start_seconds": 230,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jalen Green on responding to runs: It is a game of runs at the end of the day. They are a really good team and it is all about responses and how we are going to answer back.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jalen Green comments on how the team responded to a scoring run by Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jalen Green",
+      "timestamp": "04:36",
+      "summary_phrase": "Jalen Green on the defensive effort against Alperen Sengun",
+      "names_mentioned": [
+        "Alperen Sengun"
+      ],
+      "excerpt": "Alperen Sengun is a tough matchup. I've seen it through my whole career and they came out.",
+      "quote": "Alperen Sengun is a tough matchup. I've seen it through my whole career and they came out and they knew what they wanted to do. They guarded their yard and you can't ask for nothing more, so big credit to them.",
+      "verbatim_original_language": "",
+      "start_seconds": 276,
+      "end_seconds": 292,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jalen Green on defending Alperen Sengun: He is a tough matchup. I have seen it through my whole career and they came out and they knew what they wanted to do.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jalen Green discusses the defensive challenge posed by Alperen Sengun.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jalen Green",
+      "timestamp": "05:18",
+      "summary_phrase": "Jalen Green on his motivation to win",
+      "names_mentioned": [],
+      "excerpt": "I was just trying to win. Obviously there's emotion there, but that was two years ago.",
+      "quote": "I was just trying to win. Obviously there's emotion there, but that was two years ago, so the dub is louder than anything else.",
+      "verbatim_original_language": "",
+      "start_seconds": 318,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Jalen Green on his motivation to win: I was just trying to win. Obviously there is emotion there, but that was two years ago, so the dub is louder than anything else.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jalen Green describes his mindset regarding the win and past matchups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "nkcouRENq9c",
+  "url": "https://www.youtube.com/watch?v=nkcouRENq9c",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-08T07:44:18Z",
+  "duration_seconds": 379,
+  "processed_at": "2026-11-08T15:20:15Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

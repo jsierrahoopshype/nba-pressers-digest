@@ -12,7 +12,17 @@ From: [7 NBA Players Had Their Options Declined: What Happens Next?](https://www
 
 <small>[Clip it](presserclips://clip?v=b_OewP0nLYo&t=184&q=4) · [Send to Slack](presserclips://clip?v=b_OewP0nLYo&t=184&q=4&slack=1)</small>
 
-**2. Jared McCain — "He can contest a mid-range shot and then he gets the rebound. Certain things you cannot teach."** [01:27](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=87s)
+**2. Jalen Johnson — "those guys come out there and give us sparks that we need" — Jalen Johnson on the impact of rookie Zaccharie Risacher** [02:32](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s)
+
+Jalen Johnson: "Those two work extremely hard for being rookies and I think that is a very underrated thing. As a rookie sometimes you just get lost in the moment, and those guys come out there and give us sparks that we need. **Zaccharie Risacher** last night when he dove on the loose ball and got the offensive rebound, then got rewarded with the back scratch, I damn near got chills just watching that."
+
+[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s)
+
+From: [Hawks vs. Nets Postgame Press Conference: Jalen Johnson](https://www.youtube.com/watch?v=A-hTZAnBVrk) · *Atlanta Hawks*
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=152&q=3) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=152&q=3&slack=1)</small>
+
+**3. Jared McCain — "He can contest a mid-range shot and then he gets the rebound. Certain things you cannot teach."** [01:27](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=87s)
 
 Jared McCain: "He is awesome, he is super awesome. I was watching a clip with **Grant Williams** before the game and he can contest a mid-range shot and then he gets the rebound. Certain things that you just cannot teach. I could not do that on my most athletic day ever. So the stuff like that, when he does, even when he does not score anything, just him affecting the game in those ways, and then when you add him being a lob threat and being able to finish, has nice touch. He shot like a step-back middy too, that was tough. So when he combines all that, there is not a lot of people that can stop him."
 
@@ -22,7 +32,7 @@ From: [Jared McCain on Teammates and Enjoying the Work | Postgame Media | Novemb
 
 <small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=2) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=2&slack=1)</small>
 
-**3. Jamal Cain — "I just wanted to bring an edge and a spark off the bench." — Jamal Cain on providing a spark off the bench** [03:25](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=205s)
+**4. Jamal Cain — "I just wanted to bring an edge and a spark off the bench." — Jamal Cain on providing a spark off the bench** [03:25](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=205s)
 
 Jamal Cain: "It's extremely important because we have three of our most important guys down right now, so we know guys got to step up. And I just wanted to bring an edge and a spark off the bench, you know, trying to help us get some life."
 
@@ -32,7 +42,17 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS | COACH SWEENEY, 
 
 <small>[Clip it](presserclips://clip?v=4O6QSwTPG4g&t=205&q=7) · [Send to Slack](presserclips://clip?v=4O6QSwTPG4g&t=205&q=7&slack=1)</small>
 
-**4. Kenrich Williams — "we got to hang our hats on that side of the ball" — Kenrich Williams on the team's defensive improvement and effort** [00:18](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s)
+**5. Jalen Johnson — "he imposes his will a lot. He's strong. He's a strong guy" — Jalen Johnson on the physicality of Julius Randle** [04:44](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s)
+
+Jalen Johnson: "**Julius Randle** is one of them for sure. Definitely at the four position, I think he imposes his will a lot. He's strong. He's a strong guy."
+
+[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s)
+
+From: [Hawks vs. Nets Postgame Press Conference: Jalen Johnson](https://www.youtube.com/watch?v=A-hTZAnBVrk) · *Atlanta Hawks*
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5&slack=1)</small>
+
+**6. Kenrich Williams — "we got to hang our hats on that side of the ball" — Kenrich Williams on the team's defensive improvement and effort** [00:18](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s)
 
 Kenrich Williams: "I think just effort, kind of keying in on a game plan. You know, just locking in on that side of the ball, knowing that when nights when the ball doesn't go in the basket, we got to hang our hats on that side of the ball. And also just getting AC back helps our defense, it does help our defense a lot."
 
@@ -42,7 +62,7 @@ From: [Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026](h
 
 <small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=18&q=1) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=18&q=1&slack=1)</small>
 
-**5. Kenrich Williams — "he gives 100% on that side of the ball" — Kenrich Williams on Shai Gilgeous-Alexander's defensive improvement** [02:52](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=172s)
+**7. Kenrich Williams — "he gives 100% on that side of the ball" — Kenrich Williams on Shai Gilgeous-Alexander's defensive improvement** [02:52](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=172s)
 
 Kenrich Williams: "He's just his effort. His effort night in and night out, he gives 100% on that side of the ball, knowing that he has more responsibility on the offensive end. He still shows up and gives that effort on the defensive end and you just got to tip your hat to AJ and how he's improving over the last couple years, and it's huge for us. We're going to need it down the stretch."
 
@@ -52,7 +72,7 @@ From: [Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026](h
 
 <small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=172&q=5) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=172&q=5&slack=1)</small>
 
-**6. Jared McCain — "It is super impressive to see. He worked on a lot of the new stuff." — Jared McCain on his teammate's improved offensive versatility and work ethic** [00:26](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=26s)
+**8. Jared McCain — "It is super impressive to see. He worked on a lot of the new stuff." — Jared McCain on his teammate's improved offensive versatility and work ethic** [00:26](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=26s)
 
 Jared McCain: "It is super impressive to see. When I went out there and was working out with him, we worked on a lot of the new stuff that I did not expect. I thought we would be doing more of the mid-range stuff and stuff that he did last year. To see it now, shooting more threes and catch-and-shoot and backdoors, it is pretty cool to see that translate. It just speaks to his work and how he is able to use exactly what he works on and put it right into the game."
 
@@ -62,7 +82,17 @@ From: [Jared McCain on Teammates and Enjoying the Work | Postgame Media | Novemb
 
 <small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=1) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=1&slack=1)</small>
 
-**7. Aaron Wiggins — "Understanding as a team the ways that we can help each other when we're missing pieces." — Aaron Wiggins on team depth and filling in for injured players** [03:06](https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s)
+**9. Jalen Green — "He took over when we needed him and that's what he does, so it's exciting." — Jalen Green on Devin Booker's takeover performance** [00:56](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
+
+Jalen Green: "He took over when we needed him and that's what he does, so it's exciting."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=56s](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
+
+From: [Jalen Green Postgame Media Availability | Phoenix Suns | 11-7-26](https://www.youtube.com/watch?v=nkcouRENq9c) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=56&q=2) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=56&q=2&slack=1)</small>
+
+**10. Aaron Wiggins — "Understanding as a team the ways that we can help each other when we're missing pieces." — Aaron Wiggins on team depth and filling in for injured players** [03:06](https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s)
 
 Aaron Wiggins: "Understanding as a team the ways that we can help each other when we're missing pieces, whether it's **Jaylen Johnson** in scoring and playmaking, whether it's rebounding and just opportunities to create as a connector on the team. Understanding individually how you can contribute and then as a team our strengths. I think we do a good job moving the ball, passing the ball, creating for each other, playing without the ball. Those things require more attention when you're missing some of our bigs, and obviously rebounding as a team is bigger. I think guys understand that when we're missing pieces like that, we have to fill in as a team and it has to be as a collective."
 
@@ -71,16 +101,6 @@ Aaron Wiggins: "Understanding as a team the ways that we can help each other whe
 From: [Hawks vs. Nets Postgame Press Conference: Aaron Wiggins](https://www.youtube.com/watch?v=ePrfZObKTXY) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=ePrfZObKTXY&t=186&q=5) · [Send to Slack](presserclips://clip?v=ePrfZObKTXY&t=186&q=5&slack=1)</small>
-
-**8. Jamal Cain — "They had one of the best players in the world on their team, he capitalized." — Jamal Cain on Stephen Curry's impact in crunch time** [02:48](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=168s)
-
-Jamal Cain: "They had one of the best players in the world on their team, he capitalized in the crunch time. But I'm happy with how we competed though. I think we competed the whole game and we gave ourselves a chance to win, but they got 30 on the other side, so."
-
-[https://www.youtube.com/watch?v=4O6QSwTPG4g&t=168s](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=168s)
-
-From: [POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS | COACH SWEENEY, CAIN & WAGNER](https://www.youtube.com/watch?v=4O6QSwTPG4g) · *Orlando Magic*
-
-<small>[Clip it](presserclips://clip?v=4O6QSwTPG4g&t=168&q=6) · [Send to Slack](presserclips://clip?v=4O6QSwTPG4g&t=168&q=6&slack=1)</small>
 
 ---
 
@@ -187,6 +207,126 @@ Franz Wagner: "I thought Jamal played great, like I said, really aggressive and 
 [https://www.youtube.com/watch?v=4O6QSwTPG4g&t=444s](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=444s)
 
 <small>[Clip it](presserclips://clip?v=4O6QSwTPG4g&t=444&q=12) · [Send to Slack](presserclips://clip?v=4O6QSwTPG4g&t=444&q=12&slack=1)</small>
+
+---
+
+## Head Coach Jordan Ott Postgame Media Availability | Phoenix Suns | 11-7-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=7PAii_VzQec](https://www.youtube.com/watch?v=7PAii_VzQec)
+
+_Speakers identified: Jordan Ott_
+
+**1. Jordan Ott — "We wanted him to close it. Those last couple looked like they were dead on." — Devin Booker's instrumental role in crunch time and defensive effort** [00:09](https://www.youtube.com/watch?v=7PAii_VzQec&t=9s)
+
+Jordan Ott: "I thought those last couple were in. We wanted him to close it. We wanted him to close it. Those last couple looked like they were dead on, so yeah, but this is a defensive night. Hard to heart. Even his defense, you know, it's like we go as he goes both ends. The amount of pressure that they put on you on their defensive side, we had to find some solutions there on the fly and he obviously leads us on both ends."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=9s](https://www.youtube.com/watch?v=7PAii_VzQec&t=9s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=9&q=1) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=9&q=1&slack=1)</small>
+
+**2. Jordan Ott — "That's the game of basketball, especially in today's basketball." — Maintaining defensive intensity despite second-quarter struggles** [01:32](https://www.youtube.com/watch?v=7PAii_VzQec&t=92s)
+
+Jordan Ott: "Those are tough. Even early in the season, we've been up in first quarters and then something happens in the second quarter. That's the game of basketball, especially in today's basketball. I thought our defense kept us in it in that second quarter where we held them to 24 instead of the gap being even bigger than where you go in the halftime trailing. But we didn't crack. That's what we talked about at halftime. That's how this team plays, the Rockets play, that's how we play. It's going to be a rock fight, that's what it takes, so we got to outlast them."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=92s](https://www.youtube.com/watch?v=7PAii_VzQec&t=92s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=92&q=2) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=92&q=2&slack=1)</small>
+
+**3. Jordan Ott — "Ryan again, feels like every night Ryan brings the energy, brings an edge." — Ryan and Man-Man's growth and energy impact** [02:30](https://www.youtube.com/watch?v=7PAii_VzQec&t=150s)
+
+Jordan Ott: "**Ryan** again, feels like every night **Ryan** brings the energy, brings an edge. He's definitely taking a step and **Man-Man** grew up tonight. I think that's again a hard team to play against. He was gassed there in the fourth, probably couldn't get him out quick enough. One or two possessions I could tell he was tired, but yeah, just back-to-back good games by **Man-Man**."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=150s](https://www.youtube.com/watch?v=7PAii_VzQec&t=150s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=150&q=3) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=150&q=3&slack=1)</small>
+
+**4. Jordan Ott — "They're an elite defensive team. How can we make his job easier without having him to go ISO?" — Managing elite defensive pressure on Devin Booker** [03:23](https://www.youtube.com/watch?v=7PAii_VzQec&t=203s)
+
+Jordan Ott: "Every night it's a little bit different, but it's kind of in that same mold where they're an elite defensive team. How can we make his job easier without having him to go ISO every night? So we're finding some stuff. It's easy to play through the five, screen before he gets the ball to try to change the matchup. Him be a screener then maybe get a different matchup, but **Thompson**'s as good as they get. It's hard sometimes to find a guy you want to attack on that team, but we were able to kind of mix it up."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=203s](https://www.youtube.com/watch?v=7PAii_VzQec&t=203s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=203&q=4) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=203&q=4&slack=1)</small>
+
+**5. Jordan Ott — "We understand that we're a little undersized. We have to shift and then get to the ball." — Evolving defensive process and need for size adjustments** [04:31](https://www.youtube.com/watch?v=7PAii_VzQec&t=271s)
+
+Jordan Ott: "We're obviously not where we want to be defensively to start the season. I think the last two nights we took some steps, but it's going to be an ever-evolving process. We have to shift. We understand that we're a little undersized. We have to shift and then get to the ball and then rebound. At stretches, I thought that was some of our best defense of the year."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=271s](https://www.youtube.com/watch?v=7PAii_VzQec&t=271s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=271&q=5) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=271&q=5&slack=1)</small>
+
+**6. Jordan Ott — "That helps move the five-man around a little bit because we can playmake." — Impact of veteran playmaking on team dynamics** [06:41](https://www.youtube.com/watch?v=7PAii_VzQec&t=401s)
+
+Jordan Ott: "That helps move the five-man around a little bit because we can playmake. Even there at the end, **Book** on the fly gets him involved in it and **Book**'s able to get a layup because he sees the defensive matchup. Just a veteran player that's a really good basketball player that wants to win above everything else."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=401s](https://www.youtube.com/watch?v=7PAii_VzQec&t=401s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=401&q=6) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=401&q=6&slack=1)</small>
+
+**7. Jordan Ott — "You got to make them play both ends. Try best you can to change up the post defense." — Defensive strategy against elite centers** [07:14](https://www.youtube.com/watch?v=7PAii_VzQec&t=434s)
+
+Jordan Ott: "You got to make them play both ends. Try best you can to change up the post defense, which we did. He's great at getting his own miss, great at playing in the pocket, so when bigs can hurt you at that many different levels, you just try to make them tough. Make the shots as tough as possible. Like I said, I think **Man-Man** took a step tonight. **Oso**, who came back in the game in that fourth quarter, I thought that was a big lift for us to help us down the stretch."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=434s](https://www.youtube.com/watch?v=7PAii_VzQec&t=434s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=434&q=7) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=434&q=7&slack=1)</small>
+
+**8. Jordan Ott — "Dylan had one of those nights where he impacted the game for 48 minutes." — Dylan's defensive impact and intensity** [08:09](https://www.youtube.com/watch?v=7PAii_VzQec&t=489s)
+
+Jordan Ott: "You know at some point a run's coming. Those elite scorers, it's really hard. Try to keep them off the free throw line the best you can. At times we get into his space and got him to the free throw line. But I thought **Dylan**, you know, it was **Dylan**, **Ryan**, a lot of it was **Dylan**. **Dylan** had one of those nights where he impacted the game for 48 minutes. Both sides of the basketball, his intensity, his intent was right the whole night. He made the right play offensively and defensively he was elite."
+
+[https://www.youtube.com/watch?v=7PAii_VzQec&t=489s](https://www.youtube.com/watch?v=7PAii_VzQec&t=489s)
+
+<small>[Clip it](presserclips://clip?v=7PAii_VzQec&t=489&q=8) · [Send to Slack](presserclips://clip?v=7PAii_VzQec&t=489&q=8&slack=1)</small>
+
+---
+
+## Hawks vs. Nets Postgame Press Conference: Jalen Johnson — *Atlanta Hawks*
+
+Source: [https://www.youtube.com/watch?v=A-hTZAnBVrk](https://www.youtube.com/watch?v=A-hTZAnBVrk)
+
+_Speakers identified: Jalen Johnson_
+
+**1. Jalen Johnson — "we knew we needed to up our sense of urgency and we did it when it mattered most" — Jalen Johnson on the team's sense of urgency in the fourth quarter** [00:17](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=17s)
+
+Jalen Johnson: "Obviously when they got out to that early lead in the beginning, we knew we needed to up our sense of urgency and we did it when it mattered most, and that was the fourth quarter."
+
+[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=17s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=17s)
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=17&q=1) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=17&q=1&slack=1)</small>
+
+**2. Jalen Johnson — "I'm excited to continue to build that chemistry with him, continue to work together" — Jalen Johnson on building chemistry with rookie Kobe Bufkin** [01:46](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=106s)
+
+Jalen Johnson: "**Kobe Bufkin** has been off to a great start for his rookie season. It's exciting to see how much he's grown already since training camp. I'm excited to continue to build that chemistry with him, continue to work together, and continue to build our relationship on the court and off the court."
+
+[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=106s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=106s)
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=106&q=2) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=106&q=2&slack=1)</small>
+
+**3. Jalen Johnson — "those guys come out there and give us sparks that we need" — Jalen Johnson on the impact of rookie Zaccharie Risacher** [02:32](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s)
+
+Jalen Johnson: "Those two work extremely hard for being rookies and I think that is a very underrated thing. As a rookie sometimes you just get lost in the moment, and those guys come out there and give us sparks that we need. **Zaccharie Risacher** last night when he dove on the loose ball and got the offensive rebound, then got rewarded with the back scratch, I damn near got chills just watching that."
+
+[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s)
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=152&q=3) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=152&q=3&slack=1)</small>
+
+**4. Jalen Johnson — "I take a lot of pride in it. At the end of the day I just want to help my team win" — Jalen Johnson on taking pride in being a primary playmaker** [04:02](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=242s)
+
+Jalen Johnson: "I take a lot of pride in it. At the end of the day I just want to help my team win. Whatever that looks like, obviously we're a special group of guys. We have a bunch of guys who can get it going, so continue to trust my teammates down the stretch. Not everything has to be done by yourself."
+
+[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=242s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=242s)
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=242&q=4) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=242&q=4&slack=1)</small>
+
+**5. Jalen Johnson — "he imposes his will a lot. He's strong. He's a strong guy" — Jalen Johnson on the physicality of Julius Randle** [04:44](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s)
+
+Jalen Johnson: "**Julius Randle** is one of them for sure. Definitely at the four position, I think he imposes his will a lot. He's strong. He's a strong guy."
+
+[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s)
+
+<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5&slack=1)</small>
 
 ---
 
@@ -687,6 +827,70 @@ Aaron Wiggins: "The team did a good job just being able to push through what see
 [https://www.youtube.com/watch?v=ePrfZObKTXY&t=294s](https://www.youtube.com/watch?v=ePrfZObKTXY&t=294s)
 
 <small>[Clip it](presserclips://clip?v=ePrfZObKTXY&t=294&q=7) · [Send to Slack](presserclips://clip?v=ePrfZObKTXY&t=294&q=7&slack=1)</small>
+
+---
+
+## Jalen Green Postgame Media Availability | Phoenix Suns | 11-7-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=nkcouRENq9c](https://www.youtube.com/watch?v=nkcouRENq9c)
+
+_Speakers identified: Jalen Green_
+
+**1. Jalen Green — "It felt great. It felt really good. We lost last year and I only got to play the one game." — Jalen Green on the impact of the recent trade** [00:15](https://www.youtube.com/watch?v=nkcouRENq9c&t=15s)
+
+Jalen Green: "It felt great. It felt really good. We lost last year and I only got to play the one game, so I'm glad we got the dub."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=15s](https://www.youtube.com/watch?v=nkcouRENq9c&t=15s)
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=15&q=1) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=15&q=1&slack=1)</small>
+
+**2. Jalen Green — "He took over when we needed him and that's what he does, so it's exciting." — Jalen Green on Devin Booker's takeover performance** [00:56](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
+
+Jalen Green: "He took over when we needed him and that's what he does, so it's exciting."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=56s](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=56&q=2) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=56&q=2&slack=1)</small>
+
+**3. Jalen Green — "It was just really slowing down, getting into the right offense and figuring out what was working." — Jalen Green on the team's offensive process** [01:44](https://www.youtube.com/watch?v=nkcouRENq9c&t=104s)
+
+Jalen Green: "It was just really slowing down, getting into the right offense and figuring out what was working as the quarter was going down. There was no rush to it. Just had to take our time and get the matchups we wanted, get the spacing we needed, and the rest took care of itself."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=104s](https://www.youtube.com/watch?v=nkcouRENq9c&t=104s)
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=104&q=3) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=104&q=3&slack=1)</small>
+
+**4. Jalen Green — "The more we get stops and feed off the defensive energy, the better we're going to be." — Jalen Green on the team's defensive intensity** [02:22](https://www.youtube.com/watch?v=nkcouRENq9c&t=142s)
+
+Jalen Green: "The more we get stops and feed off the defensive energy, the better we're going to be."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=142s](https://www.youtube.com/watch?v=nkcouRENq9c&t=142s)
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=142&q=4) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=142&q=4&slack=1)</small>
+
+**5. Jalen Green — "It's a game of runs at the end of the day. They're going to make their run." — Jalen Green on responding to Houston's run** [03:50](https://www.youtube.com/watch?v=nkcouRENq9c&t=230s)
+
+Jalen Green: "It's a game of runs at the end of the day. They're going to make their run. They're a really good team and it's all about responses and how we're going to answer back, and I think we did a good job."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=230s](https://www.youtube.com/watch?v=nkcouRENq9c&t=230s)
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=230&q=5) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=230&q=5&slack=1)</small>
+
+**6. Jalen Green — "Alperen Sengun is a tough matchup. I've seen it through my whole career and they came out." — Jalen Green on the defensive effort against Alperen Sengun** [04:36](https://www.youtube.com/watch?v=nkcouRENq9c&t=276s)
+
+Jalen Green: "**Alperen Sengun** is a tough matchup. I've seen it through my whole career and they came out and they knew what they wanted to do. They guarded their yard and you can't ask for nothing more, so big credit to them."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=276s](https://www.youtube.com/watch?v=nkcouRENq9c&t=276s)
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=276&q=6) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=276&q=6&slack=1)</small>
+
+**7. Jalen Green — "I was just trying to win. Obviously there's emotion there, but that was two years ago." — Jalen Green on his motivation to win** [05:18](https://www.youtube.com/watch?v=nkcouRENq9c&t=318s)
+
+Jalen Green: "I was just trying to win. Obviously there's emotion there, but that was two years ago, so the dub is louder than anything else."
+
+[https://www.youtube.com/watch?v=nkcouRENq9c&t=318s](https://www.youtube.com/watch?v=nkcouRENq9c&t=318s)
+
+<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=318&q=7) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=318&q=7&slack=1)</small>
 
 ---
 

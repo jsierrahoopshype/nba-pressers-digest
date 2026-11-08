@@ -1,0 +1,285 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability | Phoenix Suns | 11-7-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:09",
+      "summary_phrase": "Devin Booker's instrumental role in crunch time and defensive effort",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "We wanted him to close it. Those last couple looked like they were dead on.",
+      "quote": "I thought those last couple were in. We wanted him to close it. We wanted him to close it. Those last couple looked like they were dead on, so yeah, but this is a defensive night. Hard to heart. Even his defense, you know, it's like we go as he goes both ends. The amount of pressure that they put on you on their defensive side, we had to find some solutions there on the fly and he obviously leads us on both ends.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott on Devin Booker: We go as he goes on both ends. The amount of pressure they put on you defensively means we have to find solutions on the fly and he leads us.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses Devin Booker's performance and his importance to the team's success on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:32",
+      "summary_phrase": "Maintaining defensive intensity despite second-quarter struggles",
+      "names_mentioned": [],
+      "excerpt": "That's the game of basketball, especially in today's basketball.",
+      "quote": "Those are tough. Even early in the season, we've been up in first quarters and then something happens in the second quarter. That's the game of basketball, especially in today's basketball. I thought our defense kept us in it in that second quarter where we held them to 24 instead of the gap being even bigger than where you go in the halftime trailing. But we didn't crack. That's what we talked about at halftime. That's how this team plays, the Rockets play, that's how we play. It's going to be a rock fight, that's what it takes, so we got to outlast them.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the Suns second quarter struggles: We did not crack. We talked about it at halftime. It is going to be a rock fight and that is what it takes to outlast them.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jordan Ott reflects on the team's defensive effort during the second quarter against the Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:30",
+      "summary_phrase": "Ryan and Man-Man's growth and energy impact",
+      "names_mentioned": [
+        "Ryan",
+        "Man-Man"
+      ],
+      "excerpt": "Ryan again, feels like every night Ryan brings the energy, brings an edge.",
+      "quote": "Ryan again, feels like every night Ryan brings the energy, brings an edge. He's definitely taking a step and Man-Man grew up tonight. I think that's again a hard team to play against. He was gassed there in the fourth, probably couldn't get him out quick enough. One or two possessions I could tell he was tired, but yeah, just back-to-back good games by Man-Man.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jordan Ott praises the growth of his young players: Ryan brings the energy and edge every night, and Man-Man really grew up tonight. Back to back good games for him.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Dunn",
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Ott praises the energy and growth displayed by Ryan Dunn and Oso Ighodaro during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:23",
+      "summary_phrase": "Managing elite defensive pressure on Devin Booker",
+      "names_mentioned": [
+        "Devin Booker",
+        "Thompson"
+      ],
+      "excerpt": "They're an elite defensive team. How can we make his job easier without having him to go ISO?",
+      "quote": "Every night it's a little bit different, but it's kind of in that same mold where they're an elite defensive team. How can we make his job easier without having him to go ISO every night? So we're finding some stuff. It's easy to play through the five, screen before he gets the ball to try to change the matchup. Him be a screener then maybe get a different matchup, but Thompson's as good as they get. It's hard sometimes to find a guy you want to attack on that team, but we were able to kind of mix it up.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the offensive strategy for Devin Booker: We are trying to figure out how to make his job easier without him having to go ISO every night. We are finding some stuff to mix it up.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker",
+          "Amen Thompson"
+        ],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jordan Ott explains the tactical challenges of managing defensive pressure against Devin Booker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:31",
+      "summary_phrase": "Evolving defensive process and need for size adjustments",
+      "names_mentioned": [],
+      "excerpt": "We understand that we're a little undersized. We have to shift and then get to the ball.",
+      "quote": "We're obviously not where we want to be defensively to start the season. I think the last two nights we took some steps, but it's going to be an ever-evolving process. We have to shift. We understand that we're a little undersized. We have to shift and then get to the ball and then rebound. At stretches, I thought that was some of our best defense of the year.",
+      "text_blocks": [],
+      "start_seconds": 271,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the Suns defensive identity: We are not where we want to be yet. We understand we are a little undersized so we have to shift and get to the ball and rebound.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the team's ongoing defensive development and the need to adjust for their lack of size.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:41",
+      "summary_phrase": "Impact of veteran playmaking on team dynamics",
+      "names_mentioned": [
+        "Book"
+      ],
+      "excerpt": "That helps move the five-man around a little bit because we can playmake.",
+      "quote": "That helps move the five-man around a little bit because we can playmake. Even there at the end, Book on the fly gets him involved in it and Book's able to get a layup because he sees the defensive matchup. Just a veteran player that's a really good basketball player that wants to win above everything else.",
+      "text_blocks": [],
+      "start_seconds": 401,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Ott on Devin Booker: He is a veteran player that is a really good basketball player that wants to win above everything else.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott highlights how Devin Booker's veteran playmaking ability helps the team execute late-game plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "07:14",
+      "summary_phrase": "Defensive strategy against elite centers",
+      "names_mentioned": [
+        "Shangun",
+        "Oso",
+        "Man-Man"
+      ],
+      "excerpt": "You got to make them play both ends. Try best you can to change up the post defense.",
+      "quote": "You got to make them play both ends. Try best you can to change up the post defense, which we did. He's great at getting his own miss, great at playing in the pocket, so when bigs can hurt you at that many different levels, you just try to make them tough. Make the shots as tough as possible. Like I said, I think Man-Man took a step tonight. Oso, who came back in the game in that fourth quarter, I thought that was a big lift for us to help us down the stretch.",
+      "text_blocks": [],
+      "start_seconds": 434,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on defending elite centers: You have to make them play both ends. We tried to change up the post defense and make their shots as tough as possible.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jordan Ott details the defensive strategy used against opposing centers and credits Oso Ighodaro for his contribution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "08:09",
+      "summary_phrase": "Dylan's defensive impact and intensity",
+      "names_mentioned": [
+        "Dylan",
+        "Ryan"
+      ],
+      "excerpt": "Dylan had one of those nights where he impacted the game for 48 minutes.",
+      "quote": "You know at some point a run's coming. Those elite scorers, it's really hard. Try to keep them off the free throw line the best you can. At times we get into his space and got him to the free throw line. But I thought Dylan, you know, it was Dylan, Ryan, a lot of it was Dylan. Dylan had one of those nights where he impacted the game for 48 minutes. Both sides of the basketball, his intensity, his intent was right the whole night. He made the right play offensively and defensively he was elite.",
+      "text_blocks": [],
+      "start_seconds": 489,
+      "end_seconds": 526,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott on Dylan: He had one of those nights where he impacted the game for 48 minutes. Both sides of the basketball, his intensity and his intent was right the whole night.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Windler",
+          "Ryan Dunn"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Ott commends the defensive intensity and overall impact of Dylan Windler and Ryan Dunn throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "7PAii_VzQec",
+  "url": "https://www.youtube.com/watch?v=7PAii_VzQec",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-08T08:20:54Z",
+  "duration_seconds": 567,
+  "processed_at": "2026-11-08T15:20:15Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}

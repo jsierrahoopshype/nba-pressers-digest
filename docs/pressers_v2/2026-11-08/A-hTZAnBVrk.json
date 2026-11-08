@@ -1,0 +1,177 @@
+{
+  "video_title": "Hawks vs. Nets Postgame Press Conference: Jalen Johnson",
+  "speakers_seen": [
+    "Jalen Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Johnson",
+      "timestamp": "00:17",
+      "summary_phrase": "Jalen Johnson on the team's sense of urgency in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "we knew we needed to up our sense of urgency and we did it when it mattered most",
+      "quote": "Obviously when they got out to that early lead in the beginning, we knew we needed to up our sense of urgency and we did it when it mattered most, and that was the fourth quarter.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Johnson on the Hawks fourth quarter comeback against the Nets: We knew we needed to up our sense of urgency and we did it when it mattered most.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson discusses the team's increased sense of urgency during the fourth quarter of the game against the Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Johnson",
+      "timestamp": "01:46",
+      "summary_phrase": "Jalen Johnson on building chemistry with rookie Kobe Bufkin",
+      "names_mentioned": [
+        "Kobe Bufkin"
+      ],
+      "excerpt": "I'm excited to continue to build that chemistry with him, continue to work together",
+      "quote": "Kobe Bufkin has been off to a great start for his rookie season. It's exciting to see how much he's grown already since training camp. I'm excited to continue to build that chemistry with him, continue to work together, and continue to build our relationship on the court and off the court.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jalen Johnson is impressed with Kobe Bufkin early in his rookie season: It is exciting to see how much he has grown already since training camp.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Bufkin"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Johnson talks about the development and chemistry he is building with rookie teammate Kobe Bufkin.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Johnson",
+      "timestamp": "02:32",
+      "summary_phrase": "Jalen Johnson on the impact of rookie Zaccharie Risacher",
+      "names_mentioned": [
+        "Zaccharie Risacher"
+      ],
+      "excerpt": "those guys come out there and give us sparks that we need",
+      "quote": "Those two work extremely hard for being rookies and I think that is a very underrated thing. As a rookie sometimes you just get lost in the moment, and those guys come out there and give us sparks that we need. Zaccharie Risacher last night when he dove on the loose ball and got the offensive rebound, then got rewarded with the back scratch, I damn near got chills just watching that.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Jalen Johnson on Zaccharie Risacher diving for a loose ball: I damn near got chills just watching that. He says the rookies are bringing the spark the team needs.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zaccharie Risacher"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Johnson praises the work ethic and impact of rookie teammate Zaccharie Risacher.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Johnson",
+      "timestamp": "04:02",
+      "summary_phrase": "Jalen Johnson on taking pride in being a primary playmaker",
+      "names_mentioned": [],
+      "excerpt": "I take a lot of pride in it. At the end of the day I just want to help my team win",
+      "quote": "I take a lot of pride in it. At the end of the day I just want to help my team win. Whatever that looks like, obviously we're a special group of guys. We have a bunch of guys who can get it going, so continue to trust my teammates down the stretch. Not everything has to be done by yourself.",
+      "text_blocks": [],
+      "start_seconds": 242,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jalen Johnson on his role as a primary playmaker: I take a lot of pride in it. At the end of the day I just want to help my team win.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson explains his approach to being a primary playmaker and trusting his teammates to win games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Johnson",
+      "timestamp": "04:44",
+      "summary_phrase": "Jalen Johnson on the physicality of Julius Randle",
+      "names_mentioned": [
+        "Julius Randle"
+      ],
+      "excerpt": "he imposes his will a lot. He's strong. He's a strong guy",
+      "quote": "Julius Randle is one of them for sure. Definitely at the four position, I think he imposes his will a lot. He's strong. He's a strong guy.",
+      "text_blocks": [],
+      "start_seconds": 284,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jalen Johnson on the physicality of Julius Randle: He is one of them for sure. He imposes his will a lot. He is a strong guy.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Julius Randle"
+        ],
+        "teams": [
+          "ATL",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson comments on the physical playing style of Julius Randle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "A-hTZAnBVrk",
+  "url": "https://www.youtube.com/watch?v=A-hTZAnBVrk",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-08T07:27:50Z",
+  "duration_seconds": 316,
+  "processed_at": "2026-11-08T15:20:11Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": false
+}
