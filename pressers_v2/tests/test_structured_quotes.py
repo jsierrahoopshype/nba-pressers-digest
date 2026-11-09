@@ -63,9 +63,11 @@ class RoutedModels:
             title = contents[1].split("\n", 1)[0].replace("YouTube title: ", "")
             return pytypes.SimpleNamespace(text=json.dumps(dict(self.extraction, video_title=title)), usage_metadata=None)
         self.prompts.append(first)
-        kind = "structured" if first == pe.STRUCTURED_FIELDS_PROMPT else "clip"
+        kind = ("structured" if first == pe.STRUCTURED_FIELDS_PROMPT else
+                "question" if first == pe.QUESTION_CHECK_PROMPT else "clip")
         self.calls.append(kind)
-        body = self.structured if kind == "structured" else self.clip_fields
+        body = (self.structured if kind == "structured" else {"quotes": []} if kind == "question"
+                else self.clip_fields)
         if body is None:
             raise RuntimeError("400 bad request")
         return pytypes.SimpleNamespace(text=json.dumps(body), usage_metadata=None)
@@ -95,8 +97,9 @@ class ExtractionTests(unittest.TestCase):
 
     def test_third_call_separate_from_clip_fields(self):
         models, data = self.run_video(STRUCTURED_ONLY)
-        self.assertEqual(models.calls, ["video", "clip", "structured"])
-        self.assertEqual(models.prompts[0], pe.CLIP_FIELDS_PROMPT)        # call 2 sends its prompt unchanged
+        # extraction, the reporter-question check, clip fields, structured fields
+        self.assertEqual(models.calls, ["video", "question", "clip", "structured"])
+        self.assertEqual(models.prompts[1], pe.CLIP_FIELDS_PROMPT)        # the clip-fields call sends its prompt unchanged
         self.assertNotIn("speaker_role", pe.CLIP_FIELDS_PROMPT)
         q1, q2 = data["quotes"]
         self.assertEqual(q1["structured"], {"speaker_role": "player", "subjects": ["Mario Hezonja"], "teams": ["CLE", "NYK"],

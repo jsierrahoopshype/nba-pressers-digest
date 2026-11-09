@@ -533,6 +533,8 @@ def records_for_video(data: dict, players: Players, transcripts: Transcripts | N
     words = None
     out = []
     for q in data.get("quotes") or []:
+        if q.get("duplicate_of"):
+            continue   # the same answer is recorded from the single-speaker video
         raw_speaker = " ".join((q.get("speaker") or "").split())
         if q.get("speaker_confidence") != "named" or pe.is_unidentified(raw_speaker):
             counts["unnamed"] = counts.get("unnamed", 0) + 1

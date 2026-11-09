@@ -11,8 +11,8 @@ availability videos published in the last 48h, sends each one to Gemini
 
 | Output | Where |
 |---|---|
-| Per-run digest (markdown, yt-quotes format) | `pressers_v2/output/<date>/digest-<slot>.md` |
-| Aggregate digest for the day | `pressers_v2/output/<date>/digest.md` |
+| Per-run pages (markdown, yt-quotes format) | `pressers_v2/output/<date>/digest-<slot>.md` (press conferences), `podcasts-<slot>.md`, `oneoffs-<slot>.md` |
+| The day's pages | `pressers_v2/output/<date>/digest.md`, `podcasts.md`, `oneoffs.md` |
 | Rolling 48h clip manifest | `pressers_v2/output/latest_clips.json` |
 | Dated copy of the manifest | `pressers_v2/output/clips/<date>.json` |
 | GitHub Pages mirror | `docs/pressers_v2/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/ |
@@ -27,17 +27,38 @@ is named only if the video or its title identifies them; otherwise
 "Unidentified speaker". To pick up a newer yt-quotes version, run
 `python pressers_v2/tools/vendor_ytq.py <path to hoopshype-yt-quotes>`.
 
-**Digest.** Titled "NBA Pressers — <date>", split into **Press conferences**,
-**Podcasts & shows** and **One-offs** (empty sections skipped). Inside each
-section every video and quote block is exactly yt-quotes' output.
+**Pages (Nov 9 2026).** Three separate pages per run slot: `digest-<slot>`
+"NBA Pressers — <date>" (press conferences, the URL people already use),
+`podcasts-<slot>` "NBA Podcasts & Shows — <date>" and `oneoffs-<slot>`
+"NBA One-offs — <date>"; plus the day's `digest` / `podcasts` / `oneoffs`.
+Each page starts with plain links to the slot's other pages that exist, then
+its own **Best of the best** (about 10% of that page's quotes, at most one per
+speaker, players first: a coach or exec only with real news such as an injury
+update; never a reporter question or a quote that is mostly one), then the
+videos, each exactly yt-quotes' output. A type with nothing to show gets no
+page. Only the podcasts page ends with the CHECK OTHER YOUTUBE PODCASTS HERE
+link. The index lists every page. `workflow_dispatch` with `rebuild_dates`
+rebuilds those days' pages from the stored videos instead of a normal run.
 
-**Content types.** `presser` (press conferences, availabilities, media day,
-pre/postgame, shootaround), `podcast` (podcasts, shows, livestreams, reaction
-shows) or `oneoff` (anything passed in `extra_videos`, whatever its content).
-Title keywords in `config.json` (`content_type_keywords`, podcast checked
-first) decide; when none matches, the clip-field call's `content_type` is used.
-The same three groups drive the digest, the Slack post, the clip folders and
-the clipper's pick-list.
+**Content types.** `presser` (every team-channel upload, including "LIVE: ...
+Postgame Interviews" streams, unless its title says "podcast"), `podcast` (the
+podcast rotation, see below) or `oneoff` (anything passed in `extra_videos`,
+whatever its content). The same three groups drive the pages, the Slack post,
+the clip folders and the clipper's pick-list.
+
+**Podcasts & shows.** The podcast channels are hoopshype-yt-quotes' rotation
+(its `channels.json`); they are transcribed there, not here. Each run checks
+out yt-quotes' last three days of output (public repo, no token) and copies in
+each video not stored yet as a podcast, with one text-only clip-fields call for
+its scores. Nothing is sent to Gemini as video a second time.
+
+**Reporter questions.** A small text-only call per press conference says how
+many leading words of each quote are a reporter's question. A quote that is
+only a question becomes "Unidentified reporter" and is left off the pages; a
+question glued to an answer becomes its own "Unidentified reporter" block.
+When that call fails, conservative rules decide. **Full sessions:** when a team
+posts a full media session plus single-speaker cuts, an answer found in both
+is kept only in the single-speaker video (`duplicate_of` on the other copy).
 
 **Clip fields.** One text-only Gemini call per video (no video input) reads
 the extracted quotes and returns speaker_confidence, news_score (1-10), a
