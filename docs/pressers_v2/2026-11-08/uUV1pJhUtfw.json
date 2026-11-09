@@ -1,0 +1,121 @@
+{
+  "video_title": "Nikola Jokic Still Trying to Find His Footing After Knee Injury | Chris Mannix & Evan Turner",
+  "speakers_seen": [
+    "Chris Mannix",
+    "Evan Turner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Mannix",
+      "speakers": [
+        "Chris Mannix",
+        "Evan Turner"
+      ],
+      "timestamp": "01:17",
+      "summary_phrase": "Nikola Jokic's recent performance dip and its impact on the Nuggets",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Bill Simmons"
+      ],
+      "excerpt": "the numbers for Jokic have ticked down this season",
+      "text_blocks": [
+        {
+          "speaker": "Chris Mannix",
+          "text": "This has short and long-term ramifications for the Denver Nuggets. When you watch Jokic, do you see a diminished player? Do you think that we may have seen the end of the best years of Nikola Jokic, who is still just 31 years old?"
+        },
+        {
+          "speaker": "Evan Turner",
+          "text": "I don't want to say that we've seen the end of Jokic. There's only been eight games. But I am wondering, has that knee gotten better? Because last year he was balling out of control. It was a knee hyperextension."
+        }
+      ],
+      "start_seconds": 77,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Chris Mannix questions if we have seen the best of Nikola Jokic after a slow start to the season. He wonders if the lingering effects of a knee injury are impacting his play early on.",
+      "team": "Sports Illustrated"
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Mannix",
+      "speakers": [
+        "Chris Mannix",
+        "Evan Turner"
+      ],
+      "timestamp": "08:01",
+      "summary_phrase": "Denver's defensive struggles and the impact of roster changes",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Caldwell-Pope",
+        "Bruce Brown",
+        "Peyton Watson",
+        "Tim Hardaway Jr."
+      ],
+      "excerpt": "they are 24th in the league in defensive rating. That is very bad",
+      "text_blocks": [
+        {
+          "speaker": "Chris Mannix",
+          "text": "Let's talk about the Nuggets. They have the sixth-best offensive rating in the NBA, that's good. But they are 24th in the league in defensive rating. That is very bad. They have been peeling off layers of their success. It began with Caldwell-Pope and Bruce Brown, it continued over the years, Peyton Watson is the most recent loss, Tim Hardaway Jr., which has cost their bench."
+        },
+        {
+          "speaker": "Evan Turner",
+          "text": "Even the year they won that championship, they were rated 18th or 19th best defense. That's not a recipe for winning. Defensively they're a liability. You can't win championships when you're playing four on five on one end."
+        }
+      ],
+      "start_seconds": 481,
+      "end_seconds": 521,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Mannix breaks down the Nuggets defensive struggles, noting they rank 24th in the league. He argues that losing key role players over the years has left the team as a defensive liability.",
+      "team": "Sports Illustrated"
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Mannix",
+      "speakers": [
+        "Chris Mannix",
+        "Evan Turner"
+      ],
+      "timestamp": "11:15",
+      "summary_phrase": "Concerns regarding Michael Malone's job security in Denver",
+      "names_mentioned": [
+        "David Adelman",
+        "Dave Joerger",
+        "Michael Malone"
+      ],
+      "excerpt": "when you struggle, generally the coach is the first one that gets scapegoated",
+      "text_blocks": [
+        {
+          "speaker": "Chris Mannix",
+          "text": "Already there is chatter about David Adelman in the league. You got Dave Joerger sitting on that bench in Denver. Adelman has earned every opportunity to help dig this team out of it, but when you struggle, generally the coach is the first one that gets scapegoated in these situations."
+        },
+        {
+          "speaker": "Evan Turner",
+          "text": "It wasn't an easy job to take over. They just won a championship 18 months prior. Michael Malone got canned at the end of the season. Anything you do looks crazy."
+        }
+      ],
+      "start_seconds": 675,
+      "end_seconds": 706,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Chris Mannix notes that chatter is already circulating about Michael Malone's job security in Denver, with David Adelman being mentioned as a potential successor if the team continues to struggle.",
+      "team": "Sports Illustrated"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "yt-quotes rotation",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "uUV1pJhUtfw",
+  "url": "https://www.youtube.com/watch?v=uUV1pJhUtfw",
+  "channel_team": "Sports Illustrated",
+  "published": "2026-11-08T15:30:26Z",
+  "duration_seconds": 772,
+  "processed_at": "2026-11-09T22:40:26Z",
+  "run_id": "2026-11-08T1849Z-14utc",
+  "is_one_off": false
+}

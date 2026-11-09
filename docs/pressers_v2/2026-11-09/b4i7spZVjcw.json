@@ -221,8 +221,8 @@
       }
     }
   ],
-  "content_type": "podcast",
-  "content_type_source": "keyword: live",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
   "format": "ytq-1",
   "video_id": "b4i7spZVjcw",
   "url": "https://www.youtube.com/watch?v=b4i7spZVjcw",
@@ -231,5 +231,7 @@
   "duration_seconds": 337,
   "processed_at": "2026-11-09T08:05:17Z",
   "run_id": "2026-11-09-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

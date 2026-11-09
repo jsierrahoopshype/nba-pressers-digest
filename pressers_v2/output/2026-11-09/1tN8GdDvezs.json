@@ -71,9 +71,18 @@
       "timestamp": "01:50",
       "summary_phrase": "Brayden Burries on maintaining confidence during shooting slumps",
       "names_mentioned": [],
-      "excerpt": "So as you lose confidence, it's over with pretty much, so you got to be out there with confidence.",
-      "quote": "When things are frustrating, not going your way, how do you prevent that from shaking your confidence or your decision-making ability? That's one thing you can't do. You can't really lose confidence. So as you lose confidence, it's over with pretty much, so you got to be out there with confidence and just be strong-minded. Let's say that, because if you do that, you can be guarding somebody to hit a tough shot, our next play, let's come down, maybe get a foul or get in the paint, get a good look and then next play just try to make it hard for them over the course of the full 48.",
-      "text_blocks": [],
+      "excerpt": "That's one thing you can't do.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When things are frustrating, not going your way, how do you prevent that from shaking your confidence or your decision-making ability?"
+        },
+        {
+          "speaker": "Brayden Burries",
+          "text": "That's one thing you can't do. You can't really lose confidence. So as you lose confidence, it's over with pretty much, so you got to be out there with confidence and just be strong-minded. Let's say that, because if you do that, you can be guarding somebody to hit a tough shot, our next play, let's come down, maybe get a foul or get in the paint, get a good look and then next play just try to make it hard for them over the course of the full 48."
+        }
+      ],
       "start_seconds": 110,
       "end_seconds": 153,
       "speaker_confidence": "named",
@@ -91,7 +100,12 @@
         "context": "Brayden Burries discusses the necessity of maintaining confidence and a strong mindset during frustrating shooting slumps.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speakers": [
+        "Unidentified reporter",
+        "Brayden Burries"
+      ],
+      "reporter_split": true
     },
     {
       "rank": 4,
@@ -136,9 +150,18 @@
       "timestamp": "03:35",
       "summary_phrase": "Brayden Burries on his responsibility to help the team win",
       "names_mentioned": [],
-      "excerpt": "I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to.",
-      "quote": "What does do better mean? That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better. Defending, rebounding. I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to, you expect, like, at least to be winning. So we not winning is like, I feel like a lot of this is on me. And even though I'm young, but still like, I got to do extra stuff to try to help the team win, whether that's cheering, you know, being a great teammate, or like defending, talking, you know, try to find different ways to help us win.",
-      "text_blocks": [],
+      "excerpt": "That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What does do better mean?"
+        },
+        {
+          "speaker": "Brayden Burries",
+          "text": "That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better. Defending, rebounding. I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to, you expect, like, at least to be winning. So we not winning is like, I feel like a lot of this is on me. And even though I'm young, but still like, I got to do extra stuff to try to help the team win, whether that's cheering, you know, being a great teammate, or like defending, talking, you know, try to find different ways to help us win."
+        }
+      ],
       "start_seconds": 215,
       "end_seconds": 259,
       "speaker_confidence": "named",
@@ -156,7 +179,12 @@
         "context": "Brayden Burries discusses his responsibility as a high draft pick to contribute more to winning efforts.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speakers": [
+        "Unidentified reporter",
+        "Brayden Burries"
+      ],
+      "reporter_split": true
     }
   ],
   "content_type": "presser",
@@ -169,5 +197,7 @@
   "duration_seconds": 320,
   "processed_at": "2026-11-09T08:04:53Z",
   "run_id": "2026-11-09-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

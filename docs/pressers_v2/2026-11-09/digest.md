@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-09
 
+[Podcasts & shows](podcasts.md)
+
 # Best of the best
 
 **1. Bones Hyland — "we call him Batman. Play Batman." — Bones Hyland on Jalen Clark's mask** [04:16](https://www.youtube.com/watch?v=il5n8LgO95Q&t=256s)
@@ -8,7 +10,7 @@ Bones Hyland: "We call him Batman. Play Batman. It was a funny story, we was in 
 
 [https://www.youtube.com/watch?v=il5n8LgO95Q&t=256s](https://www.youtube.com/watch?v=il5n8LgO95Q&t=256s)
 
-From: ["The Fans Gave Us Juice We Needed To Get The Win." | Bones Hyland Postgame Sound | 11.8.26](https://www.youtube.com/watch?v=il5n8LgO95Q) · *Minnesota Timberwolves*
+From: ["The Fans Gave Us Juice We Needed To Get The Win." \| Bones Hyland Postgame Sound \| 11.8.26](https://www.youtube.com/watch?v=il5n8LgO95Q) · *Minnesota Timberwolves*
 
 <small>[Clip it](presserclips://clip?v=il5n8LgO95Q&t=256&q=8) · [Send to Slack](presserclips://clip?v=il5n8LgO95Q&t=256&q=8&slack=1)</small>
 
@@ -18,7 +20,7 @@ Taylor Jenkins: "He is feeling fine right now. We will continue to evaluate. Obv
 
 [https://www.youtube.com/watch?v=O8ANYWvNn1A&t=146s](https://www.youtube.com/watch?v=O8ANYWvNn1A&t=146s)
 
-From: [Taylor Jenkins Postgame Press Conference | 11.8.26](https://www.youtube.com/watch?v=O8ANYWvNn1A) · *Milwaukee Bucks*
+From: [Taylor Jenkins Postgame Press Conference \| 11.8.26](https://www.youtube.com/watch?v=O8ANYWvNn1A) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=O8ANYWvNn1A&t=146&q=3) · [Send to Slack](presserclips://clip?v=O8ANYWvNn1A&t=146&q=3&slack=1)</small>
 
@@ -28,7 +30,7 @@ Brayden Burries: "Even like tonight, **Tatum**, he did, well he shot like six fo
 
 [https://www.youtube.com/watch?v=1tN8GdDvezs&t=193s](https://www.youtube.com/watch?v=1tN8GdDvezs&t=193s)
 
-From: [Brayden Burries Postgame Media Availability | 11.08.26](https://www.youtube.com/watch?v=1tN8GdDvezs) · *Milwaukee Bucks*
+From: [Brayden Burries Postgame Media Availability \| 11.08.26](https://www.youtube.com/watch?v=1tN8GdDvezs) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=1tN8GdDvezs&t=193&q=4) · [Send to Slack](presserclips://clip?v=1tN8GdDvezs&t=193&q=4&slack=1)</small>
 
@@ -38,7 +40,7 @@ Jamahl Mosley: "You saw a team that played desperate, like they lost that many i
 
 [https://www.youtube.com/watch?v=2iJQSJ8w88Q&t=13s](https://www.youtube.com/watch?v=2iJQSJ8w88Q&t=13s)
 
-From: [Jamahl Mosley | Pelicans vs. Clippers Postgame Interview 11/8/26](https://www.youtube.com/watch?v=2iJQSJ8w88Q) · *New Orleans Pelicans*
+From: [Jamahl Mosley \| Pelicans vs. Clippers Postgame Interview 11/8/26](https://www.youtube.com/watch?v=2iJQSJ8w88Q) · *New Orleans Pelicans*
 
 <small>[Clip it](presserclips://clip?v=2iJQSJ8w88Q&t=13&q=1) · [Send to Slack](presserclips://clip?v=2iJQSJ8w88Q&t=13&q=1&slack=1)</small>
 
@@ -48,21 +50,11 @@ Darius Garland: "When BI and Yanni get back, I don't think I'll be getting doubl
 
 [https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s)
 
-From: [Clippers vs. Pelicans | Postgame Interviews | Nov. 8, 2026 | LA Clippers](https://www.youtube.com/watch?v=0bg0sW1ve8s) · *LA Clippers*
+From: [Clippers vs. Pelicans \| Postgame Interviews \| Nov. 8, 2026 \| LA Clippers](https://www.youtube.com/watch?v=0bg0sW1ve8s) · *LA Clippers*
 
 <small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=616&q=18) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=616&q=18&slack=1)</small>
 
-**6. Brayden Burries — "I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to." — Brayden Burries on his responsibility to help the team win** [03:35](https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s)
-
-Brayden Burries: "What does do better mean? That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better. Defending, rebounding. I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to, you expect, like, at least to be winning. So we not winning is like, I feel like a lot of this is on me. And even though I'm young, but still like, I got to do extra stuff to try to help the team win, whether that's cheering, you know, being a great teammate, or like defending, talking, you know, try to find different ways to help us win."
-
-[https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s](https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s)
-
-From: [Brayden Burries Postgame Media Availability | 11.08.26](https://www.youtube.com/watch?v=1tN8GdDvezs) · *Milwaukee Bucks*
-
-<small>[Clip it](presserclips://clip?v=1tN8GdDvezs&t=215&q=5) · [Send to Slack](presserclips://clip?v=1tN8GdDvezs&t=215&q=5&slack=1)</small>
-
-**7. LaMelo Ball — "When Lonzo is rolling, it's definitely easier. I mean, it's another point guard just getting to it." — LaMelo Ball on Lonzo Ball's impact on team energy** [00:57](https://www.youtube.com/watch?v=IEgTJ8FdnJU&t=57s)
+**6. LaMelo Ball — "When Lonzo is rolling, it's definitely easier. I mean, it's another point guard just getting to it." — LaMelo Ball on Lonzo Ball's impact on team energy** [00:57](https://www.youtube.com/watch?v=IEgTJ8FdnJU&t=57s)
 
 **Unidentified reporter:** "When Lonzo has it rolling like this, does it get everyone some extra energy and juice to see him do that?"
 
@@ -70,67 +62,51 @@ From: [Brayden Burries Postgame Media Availability | 11.08.26](https://www.youtu
 
 [https://www.youtube.com/watch?v=IEgTJ8FdnJU&t=57s](https://www.youtube.com/watch?v=IEgTJ8FdnJU&t=57s)
 
-From: ["We Have A Great Group Of Guys, I Love Playing With Them." | LaMelo Ball Postgame Sound | 11.8.26](https://www.youtube.com/watch?v=IEgTJ8FdnJU) · *Minnesota Timberwolves*
+From: ["We Have A Great Group Of Guys, I Love Playing With Them." \| LaMelo Ball Postgame Sound \| 11.8.26](https://www.youtube.com/watch?v=IEgTJ8FdnJU) · *Minnesota Timberwolves*
 
 <small>[Clip it](presserclips://clip?v=IEgTJ8FdnJU&t=57&q=4) · [Send to Slack](presserclips://clip?v=IEgTJ8FdnJU&t=57&q=4&slack=1)</small>
 
-**8. Kyle Kuzma — "at this stage, we just don't have a margin for error" — Kyle Kuzma on the team's lack of margin for error** [01:55](https://www.youtube.com/watch?v=_hTSSBAiKXU&t=115s)
+**7. Kyle Kuzma — "at this stage, we just don't have a margin for error" — Kyle Kuzma on the team's lack of margin for error** [01:55](https://www.youtube.com/watch?v=_hTSSBAiKXU&t=115s)
 
 Kyle Kuzma: "It's got to be transparent and blunt, because at this stage, we just don't have a margin for error. So, you know, we have to have a certain sense of urgency and sometimes it's not pretty, because we just don't have that margin for error. We have to figure it out on the fly, quick. We can't just come in and practice and say the same things over and over. Eventually we're going to have to be in the game and get it done, get it done quicker. Don't let, just for example, **PG** hit two three-pointers, like after that first one, maybe that second one, like you can't get no more. We have to just find that sense of maturity, collectively."
 
 [https://www.youtube.com/watch?v=_hTSSBAiKXU&t=115s](https://www.youtube.com/watch?v=_hTSSBAiKXU&t=115s)
 
-From: [Kyle Kuzma Postgame Media Availability | 11.08.26](https://www.youtube.com/watch?v=_hTSSBAiKXU) · *Milwaukee Bucks*
+From: [Kyle Kuzma Postgame Media Availability \| 11.08.26](https://www.youtube.com/watch?v=_hTSSBAiKXU) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=_hTSSBAiKXU&t=115&q=3) · [Send to Slack](presserclips://clip?v=_hTSSBAiKXU&t=115&q=3&slack=1)</small>
 
-**9. Bones Hyland — "I'm always being guarded by the best defender when I check in." — Bones Hyland on being guarded by elite defenders** [01:30](https://www.youtube.com/watch?v=il5n8LgO95Q&t=90s)
+**8. Rudy Gobert — "I feel like we're a great defensive team, and that's personally that's as a player" — Rudy Gobert on the Timberwolves' defensive success this season** [01:12](https://www.youtube.com/watch?v=7hMvECwzy4Q&t=72s)
 
-Bones Hyland: "I just said that to someone the other day too. I'm always being guarded by the best defender when I check in. But I thrive in it, I love it. That's a sign of respect. It doesn't really bother me at all. When I check into the game, I'm already prepared for it, so I've been guarded by the best defenders my whole life, so they don't bother me."
+Rudy Gobert: "I feel like we're a great defensive team, and that's personally that's as a player, I want my team to be a top defensive team in this league. Now, it's great that we're second, but I feel like we still have a lot of room to room, still have a lot of things to improve, so just focus on that. One thing I'm really proud of is our rebounding. I think we, you know, we really taking that serious. We understand that if you want to be a championship team and if you want to be a great defensive team, we have to rebound, and we have to rebound as a unit."
 
-[https://www.youtube.com/watch?v=il5n8LgO95Q&t=90s](https://www.youtube.com/watch?v=il5n8LgO95Q&t=90s)
+[https://www.youtube.com/watch?v=7hMvECwzy4Q&t=72s](https://www.youtube.com/watch?v=7hMvECwzy4Q&t=72s)
 
-From: ["The Fans Gave Us Juice We Needed To Get The Win." | Bones Hyland Postgame Sound | 11.8.26](https://www.youtube.com/watch?v=il5n8LgO95Q) · *Minnesota Timberwolves*
+From: ["We Know What It Takes To Win." \| Rudy Gobert Postgame Sound \| 11.8.26](https://www.youtube.com/watch?v=7hMvECwzy4Q) · *Minnesota Timberwolves*
 
-<small>[Clip it](presserclips://clip?v=il5n8LgO95Q&t=90&q=3) · [Send to Slack](presserclips://clip?v=il5n8LgO95Q&t=90&q=3&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=7hMvECwzy4Q&t=72&q=1) · [Send to Slack](presserclips://clip?v=7hMvECwzy4Q&t=72&q=1&slack=1)</small>
 
-**10. Darius Garland — "we were desperate, trying to get some momentum this weekend, trying to play in the right way" — Darius Garland on the team's desperate need for a win** [05:40](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s)
+**9. Daniss Jenkins — "I just tried to move and play within the flow of the game" — Daniss Jenkins on his career-high 31-point performance** [00:28](https://www.youtube.com/watch?v=CFkA_HYzFDM&t=28s)
 
-Darius Garland: "Yeah, we were desperate, trying to get some momentum this weekend, trying to play in the right way, trying to play Clippers basketball, so yeah, we were desperate tonight for sure."
+Daniss Jenkins: "Like I said, when you try to jump the defense, jump the game up like that, there is a lot of open shots out there. I just tried to move and play within the flow of the game and it just so happened tonight that they were threes. I just tried to keep moving and my teammates was finding me. I was open and I was just stepping into it with some confidence, trying to let it fly."
 
-[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s)
+[https://www.youtube.com/watch?v=CFkA_HYzFDM&t=28s](https://www.youtube.com/watch?v=CFkA_HYzFDM&t=28s)
 
-From: [Clippers vs. Pelicans | Postgame Interviews | Nov. 8, 2026 | LA Clippers](https://www.youtube.com/watch?v=0bg0sW1ve8s) · *LA Clippers*
+From: [Post Game Press Conference l Daniss Jenkins l Pistons at Lakers   11.08.26 #NBA](https://www.youtube.com/watch?v=CFkA_HYzFDM) · *Detroit Pistons*
 
-<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=340&q=10) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=340&q=10&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=CFkA_HYzFDM&t=28&q=2) · [Send to Slack](presserclips://clip?v=CFkA_HYzFDM&t=28&q=2&slack=1)</small>
 
----
+**10. Trey Murphy III — "CJ McCollum and Garrett Temple, they were two of my former vets and they were both on the board." — Trey Murphy III on his role as NBPA Vice President** [02:04](https://www.youtube.com/watch?v=OvydRh0OZGQ&t=124s)
 
-# Best of the best: podcasts & shows
+Trey Murphy III: "It's been very interesting. I will say that **CJ McCollum** and **Garrett Temple**, they were two of my former vets and they were both on the board and they were always like, 'One day you're going to do this, one day you're going to do this.' I always felt like I had some responsibility to do it because they saw that in me. I feel like I have to make them proud, especially two of my vets that I really look up to. The biggest thing is just using my voice, being somebody that can speak from different perspectives because I've played every role on a team and I've also probably had different paths than a lot of other people."
 
-**1. Jamahl Mosley — "He's been taking on the challenge night in and night out." — Mosley on Zion Williamson's defensive challenges and growth** [21:47](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
+[https://www.youtube.com/watch?v=OvydRh0OZGQ&t=124s](https://www.youtube.com/watch?v=OvydRh0OZGQ&t=124s)
 
-Jamahl Mosley: "He's been taking on the challenge night in and night out. And because he's got so much he's carrying so much weight offensively as well, teams are trying to target him to go at him to wear him down. But he's taking on those challenges and that's what we're going to continue to ask him to do."
+From: [Trey Murphy III \| Pelicans vs. Clippers Postgame Interview 11/8/26](https://www.youtube.com/watch?v=OvydRh0OZGQ) · *New Orleans Pelicans*
 
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
-
-From: [LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026](https://www.youtube.com/watch?v=aJSJd1S8y_0) · *New Orleans Pelicans*
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8&slack=1)</small>
-
-**2. Jamahl Mosley — "You saw a team that played desperate. Like they'd lost that many in a row." — Jamahl Mosley on the team's inability to stop the Clippers** [14:30](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
-
-Jamahl Mosley: "You saw a team that played desperate. Like they'd lost that many in a row and that they wanted to come out and take care of home, and that's exactly what they did. Now we didn't help that cause, obviously giving up 39 points, 35 points, 37 points and then ultimately 139 points. That is unacceptable. It's unacceptable."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
-
-From: [LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026](https://www.youtube.com/watch?v=aJSJd1S8y_0) · *New Orleans Pelicans*
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=OvydRh0OZGQ&t=124&q=4) · [Send to Slack](presserclips://clip?v=OvydRh0OZGQ&t=124&q=4&slack=1)</small>
 
 ---
-
-# Press conferences
 
 ## Clippers vs. Pelicans | Postgame Interviews | Nov. 8, 2026 | LA Clippers — *LA Clippers*
 
@@ -322,9 +298,11 @@ Brayden Burries: "Before the game **Taylor** said look, shots in, out, that's go
 
 <small>[Clip it](presserclips://clip?v=1tN8GdDvezs&t=50&q=2) · [Send to Slack](presserclips://clip?v=1tN8GdDvezs&t=50&q=2&slack=1)</small>
 
-**3. Brayden Burries — "So as you lose confidence, it's over with pretty much, so you got to be out there with confidence." — Brayden Burries on maintaining confidence during shooting slumps** [01:50](https://www.youtube.com/watch?v=1tN8GdDvezs&t=110s)
+**3. Brayden Burries — "That's one thing you can't do." — Brayden Burries on maintaining confidence during shooting slumps** [01:50](https://www.youtube.com/watch?v=1tN8GdDvezs&t=110s)
 
-Brayden Burries: "When things are frustrating, not going your way, how do you prevent that from shaking your confidence or your decision-making ability? That's one thing you can't do. You can't really lose confidence. So as you lose confidence, it's over with pretty much, so you got to be out there with confidence and just be strong-minded. Let's say that, because if you do that, you can be guarding somebody to hit a tough shot, our next play, let's come down, maybe get a foul or get in the paint, get a good look and then next play just try to make it hard for them over the course of the full 48."
+**Unidentified reporter:** "When things are frustrating, not going your way, how do you prevent that from shaking your confidence or your decision-making ability?"
+
+**Brayden Burries:** "That's one thing you can't do. You can't really lose confidence. So as you lose confidence, it's over with pretty much, so you got to be out there with confidence and just be strong-minded. Let's say that, because if you do that, you can be guarding somebody to hit a tough shot, our next play, let's come down, maybe get a foul or get in the paint, get a good look and then next play just try to make it hard for them over the course of the full 48."
 
 [https://www.youtube.com/watch?v=1tN8GdDvezs&t=110s](https://www.youtube.com/watch?v=1tN8GdDvezs&t=110s)
 
@@ -338,9 +316,11 @@ Brayden Burries: "Even like tonight, **Tatum**, he did, well he shot like six fo
 
 <small>[Clip it](presserclips://clip?v=1tN8GdDvezs&t=193&q=4) · [Send to Slack](presserclips://clip?v=1tN8GdDvezs&t=193&q=4&slack=1)</small>
 
-**5. Brayden Burries — "I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to." — Brayden Burries on his responsibility to help the team win** [03:35](https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s)
+**5. Brayden Burries — "That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better." — Brayden Burries on his responsibility to help the team win** [03:35](https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s)
 
-Brayden Burries: "What does do better mean? That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better. Defending, rebounding. I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to, you expect, like, at least to be winning. So we not winning is like, I feel like a lot of this is on me. And even though I'm young, but still like, I got to do extra stuff to try to help the team win, whether that's cheering, you know, being a great teammate, or like defending, talking, you know, try to find different ways to help us win."
+**Unidentified reporter:** "What does do better mean?"
+
+**Brayden Burries:** "That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better. Defending, rebounding. I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to, you expect, like, at least to be winning. So we not winning is like, I feel like a lot of this is on me. And even though I'm young, but still like, I got to do extra stuff to try to help the team win, whether that's cheering, you know, being a great teammate, or like defending, talking, you know, try to find different ways to help us win."
 
 [https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s](https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s)
 
@@ -898,6 +878,64 @@ Kyle Kuzma: "I just think we're consistently inconsistent in how we approach the
 
 ---
 
+## LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/8/2026 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=b4i7spZVjcw](https://www.youtube.com/watch?v=b4i7spZVjcw)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "getting in the paint, being able to attack the basket the right way, but making the right decisions" — Pelicans' emphasis on paint scoring and decision-making against Clippers** [1:26](https://www.youtube.com/watch?v=b4i7spZVjcw&t=86s)
+
+**Unidentified speaker:** "You have certainly discussed the strength of your team being one getting into the paint, scoring. When it comes to a team that over here is still trying to figure out in the Clippers how to guard in that area, how big of a factor could that be tonight?"
+
+**Jamahl Mosley:** "That's a huge factor. That was a point of emphasis today in our film session for helping these guys understand exactly what we're capable of doing. But also, getting in the paint, being able to attack the basket the right way, but making the right decisions when you get in there."
+
+[https://www.youtube.com/watch?v=b4i7spZVjcw&t=86s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=86s)
+
+<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=86&q=1) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=86&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication" — Improving defensive communication against high pick-and-roll sets** [2:00](https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s)
+
+**Unidentified speaker:** "We've been seeing a lot of high pick-and-rolls against your team. So just talk about the structure defensively on how is the best way to defend that?"
+
+**Jamahl Mosley:** "That's something we've definitely got to clean up. There are different combinations. The league, sometimes they'll set guards in it, sometimes they'll have the big in it. So our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication up to another level just in order to know we're going to see a ton of these, especially with a guard like **Garland** tonight. He has a lot of combinations he can go to, so we've got to be very on point with our communication and our coverage calls."
+
+[https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s)
+
+<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=120&q=2) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=120&q=2&slack=1)</small>
+
+**3. Jamahl Mosley — "he's got a fiery edge to him, and I think that's what I've seen over the years" — Jamahl Mosley on the competitive edge of Benedict Mathurin** [2:43](https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s)
+
+**Unidentified speaker:** "With **Benedict Mathurin** on your team, he was a restricted free agent here. Were you surprised that he was made available to y'all and what kind of player did you expect to get and what kind of player has he been for you?"
+
+**Jamahl Mosley:** "Just watching Ben over the years, you talk about his competitive edge, his toughness, his grit. That's how he plays the game. He's got a fiery edge to him, and I think that's what I've seen over the years with him, whether he was in Indiana or here with the Clippers. I think he has that edge and that fire to him to be able to score in different directions but also to be able to sit down and guard at a different level at times."
+
+[https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s)
+
+<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=163&q=3) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=163&q=3&slack=1)</small>
+
+**4. Jamahl Mosley — "the league does a great job of trying to figure out whatever is best for the players" — Mosley's perspective on potential 40-minute games to address injuries** [3:26](https://www.youtube.com/watch?v=b4i7spZVjcw&t=206s)
+
+**Unidentified speaker:** "**Adam Silver** has suggested in the past that going to 40-minute games would be something that he kind of likes. What do you think of that idea, maybe as a way to address some of the injuries we're seeing in this league?"
+
+**Jamahl Mosley:** "I think the league does a great job of trying to figure out whatever is best for the players, whatever is best for the league, the fans, and the competitive edge of the game. I think that's something that's big and they'll continue to look at different variations, different versions of what that looks like. Obviously they'll find some trials in different arenas, different games of the G League stuff, but I think at the end of the day, they're going to continue to exhaust all options to try to figure out what's best for these players and the league and the fans."
+
+[https://www.youtube.com/watch?v=b4i7spZVjcw&t=206s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=206s)
+
+<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=206&q=4) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=206&q=4&slack=1)</small>
+
+**5. Jamahl Mosley — "it's been one or two possessions that changes the factor of the game" — Identifying trends in Pelicans' wins and losses** [4:11](https://www.youtube.com/watch?v=b4i7spZVjcw&t=251s)
+
+**Unidentified speaker:** "In your wins versus losses, are there trends of certain things that are happening in wins that you can point to that you say these are things that have to carry over in other games?"
+
+**Jamahl Mosley:** "It's been tricky because of those close games. We touch the paint at a high rate, we get to the free throw line at a certain level, keeping teams out of the paint has been a key. But in some of the closest games, it's been one or two possessions that changes the factor of the game. So trying to find the trend within it is tough. I know in some of the losses, it's been our lines of communication down the stretch, the point of the high pick-and-roll, being able to get that cleaned up the right way, I think has been big in some of those games."
+
+[https://www.youtube.com/watch?v=b4i7spZVjcw&t=251s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=251s)
+
+<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=251&q=5) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=251&q=5&slack=1)</small>
+
+---
+
 ## "The Fans Gave Us Juice We Needed To Get The Win." | Bones Hyland Postgame Sound | 11.8.26 — *Minnesota Timberwolves*
 
 Source: [https://www.youtube.com/watch?v=il5n8LgO95Q](https://www.youtube.com/watch?v=il5n8LgO95Q)
@@ -967,147 +1005,3 @@ Bones Hyland: "We call him Batman. Play Batman. It was a funny story, we was in 
 [https://www.youtube.com/watch?v=il5n8LgO95Q&t=256s](https://www.youtube.com/watch?v=il5n8LgO95Q&t=256s)
 
 <small>[Clip it](presserclips://clip?v=il5n8LgO95Q&t=256&q=8) · [Send to Slack](presserclips://clip?v=il5n8LgO95Q&t=256&q=8&slack=1)</small>
-
----
-
-# Podcasts & shows
-
-## LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026 — *New Orleans Pelicans*
-
-Source: [https://www.youtube.com/watch?v=aJSJd1S8y_0](https://www.youtube.com/watch?v=aJSJd1S8y_0)
-
-_Speakers identified: Jamahl Mosley_
-
-**1. Jamahl Mosley — "You saw a team that played desperate. Like they'd lost that many in a row." — Jamahl Mosley on the team's inability to stop the Clippers** [14:30](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
-
-Jamahl Mosley: "You saw a team that played desperate. Like they'd lost that many in a row and that they wanted to come out and take care of home, and that's exactly what they did. Now we didn't help that cause, obviously giving up 39 points, 35 points, 37 points and then ultimately 139 points. That is unacceptable. It's unacceptable."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1&slack=1)</small>
-
-**2. Jamahl Mosley — "You've got to sit down and guard, you've got to cover for one another." — Mosley emphasizes defensive commitment and covering for teammates** [15:10](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=910s)
-
-Jamahl Mosley: "Not worried about what the offense does, but you've got to sit down and guard, you've got to cover for one another, and we've got to continue to continue to fight, no matter what's happening within the game."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=910s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=910s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=910&q=2) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=910&q=2&slack=1)</small>
-
-**3. Jamahl Mosley — "The more desperate team, the more the hungrier team, the home team, they came out with a level" — Mosley credits the Clippers' effort and intensity** [15:40](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=940s)
-
-Jamahl Mosley: "The more desperate team, the more the hungrier team, the home team, they came out with a level of dog fight to them that that we did not match. And again, that's the NBA. You know, we've got to take this, we've got to learn from it and understand how desperate we need to play nightly in order to get the job done."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=940s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=940s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=940&q=3) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=940&q=3&slack=1)</small>
-
-**4. Jamahl Mosley — "He's an ultimate competitor. He is just he's a kid that just wants to grow." — Mosley on the competitive nature and growth of his player** [17:18](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1038s)
-
-Jamahl Mosley: "He's an ultimate competitor. He is just he's a kid that just wants to grow, wants to get better, try to figure it out, works his tail off, trying to figure it out on both ends of the floor, and I just love the way he, you know, he played within himself in so many ways. It allowed the game to come to him, his aggression, his speed."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1038s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1038s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1038&q=4) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1038&q=4&slack=1)</small>
-
-**5. Jamahl Mosley — "He's an extreme worker. He's a student of the game. He wants to get better." — Mosley on the work ethic and development of his player** [18:03](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1083s)
-
-Jamahl Mosley: "He's an extreme worker. He's a student of the game. He wants to get better, he's pushing himself to get better every single day, whether that's watching film with the coaches, studying the game, getting in the gym, working on his game, whatever little small nuances he can have he does. And I think that's what's going to, you know, continue to separate him from a second-year guy."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1083s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1083s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1083&q=5) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1083&q=5&slack=1)</small>
-
-**6. Jamahl Mosley — "Defensively. You defensively, I get it. There's guys with double figures and that's that's good." — Mosley identifies defensive improvement as the key priority** [20:17](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1217s)
-
-Jamahl Mosley: "Defensively. You defensively, I get it. There's guys with double figures and that's that's good, you know, for the most part, but again, we've got to sit down and guard for the on the defensive side of the floor. We've got to take pride in that, take away something and tonight we didn't take away either."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1217s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1217s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1217&q=6) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1217&q=6&slack=1)</small>
-
-**7. Jamahl Mosley — "With so much offensive talent and so much depth on a team, that's where it's going to be" — Mosley on balancing offensive depth and sacrifice** [21:06](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1266s)
-
-Jamahl Mosley: "With so much offensive talent and so much depth on a team, that's where it's going to be different people, different nights, and being able to understand that and sacrifice for the team is a big key. And that's the talent that we have is a is a great thing and the depth is a great thing that we have."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1266s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1266s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1266&q=7) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1266&q=7&slack=1)</small>
-
-**8. Jamahl Mosley — "He's been taking on the challenge night in and night out." — Mosley on Zion Williamson's defensive challenges and growth** [21:47](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
-
-Jamahl Mosley: "He's been taking on the challenge night in and night out. And because he's got so much he's carrying so much weight offensively as well, teams are trying to target him to go at him to wear him down. But he's taking on those challenges and that's what we're going to continue to ask him to do."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8&slack=1)</small>
-
-**9. Jamahl Mosley — "This is it's always going to be a process as you continue to grow." — Mosley views defensive development as an ongoing process** [23:27](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1407s)
-
-Jamahl Mosley: "This is it's always going to be a process as you continue to grow and you as you continue to get better. And as a new system coming in, it's going to take a moment for guys to really understand exactly how you can do things, but that has to be our identity and it will continue to be our identity."
-
-[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1407s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1407s)
-
-<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1407&q=9) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1407&q=9&slack=1)</small>
-
----
-
-## LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/8/2026 — *New Orleans Pelicans*
-
-Source: [https://www.youtube.com/watch?v=b4i7spZVjcw](https://www.youtube.com/watch?v=b4i7spZVjcw)
-
-_Speakers identified: Jamahl Mosley_
-
-**1. Jamahl Mosley — "getting in the paint, being able to attack the basket the right way, but making the right decisions" — Pelicans' emphasis on paint scoring and decision-making against Clippers** [1:26](https://www.youtube.com/watch?v=b4i7spZVjcw&t=86s)
-
-**Unidentified speaker:** "You have certainly discussed the strength of your team being one getting into the paint, scoring. When it comes to a team that over here is still trying to figure out in the Clippers how to guard in that area, how big of a factor could that be tonight?"
-
-**Jamahl Mosley:** "That's a huge factor. That was a point of emphasis today in our film session for helping these guys understand exactly what we're capable of doing. But also, getting in the paint, being able to attack the basket the right way, but making the right decisions when you get in there."
-
-[https://www.youtube.com/watch?v=b4i7spZVjcw&t=86s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=86s)
-
-<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=86&q=1) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=86&q=1&slack=1)</small>
-
-**2. Jamahl Mosley — "our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication" — Improving defensive communication against high pick-and-roll sets** [2:00](https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s)
-
-**Unidentified speaker:** "We've been seeing a lot of high pick-and-rolls against your team. So just talk about the structure defensively on how is the best way to defend that?"
-
-**Jamahl Mosley:** "That's something we've definitely got to clean up. There are different combinations. The league, sometimes they'll set guards in it, sometimes they'll have the big in it. So our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication up to another level just in order to know we're going to see a ton of these, especially with a guard like **Garland** tonight. He has a lot of combinations he can go to, so we've got to be very on point with our communication and our coverage calls."
-
-[https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s)
-
-<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=120&q=2) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=120&q=2&slack=1)</small>
-
-**3. Jamahl Mosley — "he's got a fiery edge to him, and I think that's what I've seen over the years" — Jamahl Mosley on the competitive edge of Benedict Mathurin** [2:43](https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s)
-
-**Unidentified speaker:** "With **Benedict Mathurin** on your team, he was a restricted free agent here. Were you surprised that he was made available to y'all and what kind of player did you expect to get and what kind of player has he been for you?"
-
-**Jamahl Mosley:** "Just watching Ben over the years, you talk about his competitive edge, his toughness, his grit. That's how he plays the game. He's got a fiery edge to him, and I think that's what I've seen over the years with him, whether he was in Indiana or here with the Clippers. I think he has that edge and that fire to him to be able to score in different directions but also to be able to sit down and guard at a different level at times."
-
-[https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s)
-
-<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=163&q=3) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=163&q=3&slack=1)</small>
-
-**4. Jamahl Mosley — "the league does a great job of trying to figure out whatever is best for the players" — Mosley's perspective on potential 40-minute games to address injuries** [3:26](https://www.youtube.com/watch?v=b4i7spZVjcw&t=206s)
-
-**Unidentified speaker:** "**Adam Silver** has suggested in the past that going to 40-minute games would be something that he kind of likes. What do you think of that idea, maybe as a way to address some of the injuries we're seeing in this league?"
-
-**Jamahl Mosley:** "I think the league does a great job of trying to figure out whatever is best for the players, whatever is best for the league, the fans, and the competitive edge of the game. I think that's something that's big and they'll continue to look at different variations, different versions of what that looks like. Obviously they'll find some trials in different arenas, different games of the G League stuff, but I think at the end of the day, they're going to continue to exhaust all options to try to figure out what's best for these players and the league and the fans."
-
-[https://www.youtube.com/watch?v=b4i7spZVjcw&t=206s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=206s)
-
-<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=206&q=4) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=206&q=4&slack=1)</small>
-
-**5. Jamahl Mosley — "it's been one or two possessions that changes the factor of the game" — Identifying trends in Pelicans' wins and losses** [4:11](https://www.youtube.com/watch?v=b4i7spZVjcw&t=251s)
-
-**Unidentified speaker:** "In your wins versus losses, are there trends of certain things that are happening in wins that you can point to that you say these are things that have to carry over in other games?"
-
-**Jamahl Mosley:** "It's been tricky because of those close games. We touch the paint at a high rate, we get to the free throw line at a certain level, keeping teams out of the paint has been a key. But in some of the closest games, it's been one or two possessions that changes the factor of the game. So trying to find the trend within it is tough. I know in some of the losses, it's been our lines of communication down the stretch, the point of the high pick-and-roll, being able to get that cleaned up the right way, I think has been big in some of those games."
-
-[https://www.youtube.com/watch?v=b4i7spZVjcw&t=251s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=251s)
-
-<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=251&q=5) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=251&q=5&slack=1)</small>
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

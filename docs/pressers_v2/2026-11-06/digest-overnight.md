@@ -8,8 +8,6 @@ Coach Sweeney: "We had them in a lot of different ways. I think the illegal scre
 
 [https://www.youtube.com/watch?v=-BTzUEdPdQw&t=0s](https://www.youtube.com/watch?v=-BTzUEdPdQw&t=0s)
 
-<small>[Clip it](presserclips://clip?v=-BTzUEdPdQw&t=0&q=1) · [Send to Slack](presserclips://clip?v=-BTzUEdPdQw&t=0&q=1&slack=1)</small>
-
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. PHOENIX SUNS | COACH SWEENEY & WENDELL CARTER JR.](https://www.youtube.com/watch?v=-BTzUEdPdQw) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=-BTzUEdPdQw&t=0&q=1) · [Send to Slack](presserclips://clip?v=-BTzUEdPdQw&t=0&q=1&slack=1)</small>
@@ -20,8 +18,6 @@ Coach Sweeney: "**Devin Booker** had it going early especially at 23 in the firs
 
 [https://www.youtube.com/watch?v=-BTzUEdPdQw&t=45s](https://www.youtube.com/watch?v=-BTzUEdPdQw&t=45s)
 
-<small>[Clip it](presserclips://clip?v=-BTzUEdPdQw&t=45&q=2) · [Send to Slack](presserclips://clip?v=-BTzUEdPdQw&t=45&q=2&slack=1)</small>
-
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. PHOENIX SUNS | COACH SWEENEY & WENDELL CARTER JR.](https://www.youtube.com/watch?v=-BTzUEdPdQw) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=-BTzUEdPdQw&t=45&q=2) · [Send to Slack](presserclips://clip?v=-BTzUEdPdQw&t=45&q=2&slack=1)</small>
@@ -31,8 +27,6 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. PHOENIX SUNS | COACH SWEENEY & WENDELL 
 Devin Booker: "Our whole thing is putting a full game together. I feel like we've lost every way possible so far, from being blown out to giving up an early lead to some late-game problems. Tonight was the closest I'd say we put a full 48 minutes together, so something to build on, something to learn from. There's obviously a lot of season left, so keeping the morale high, keeping the belief high, and continue to get better."
 
 [https://www.youtube.com/watch?v=7Zzx4SV_hXI&t=100s](https://www.youtube.com/watch?v=7Zzx4SV_hXI&t=100s)
-
-<small>[Clip it](presserclips://clip?v=7Zzx4SV_hXI&t=100&q=3) · [Send to Slack](presserclips://clip?v=7Zzx4SV_hXI&t=100&q=3&slack=1)</small>
 
 From: [Devin Booker Postgame Media Availability | Phoenix Suns | 11-5-26](https://www.youtube.com/watch?v=7Zzx4SV_hXI) · *Phoenix Suns*
 

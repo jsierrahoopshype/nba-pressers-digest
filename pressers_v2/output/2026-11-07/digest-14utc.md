@@ -8,43 +8,11 @@ Trae Young: "Yeah, I didn't get to really get to say goodbye, obviously whenever
 
 [https://www.youtube.com/watch?v=QSvQdMSqP5A&t=565s](https://www.youtube.com/watch?v=QSvQdMSqP5A&t=565s)
 
-<small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=565&q=1) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=565&q=1&slack=1)</small>
-
-From: [Media Availability: Brian Keefe and Trae Young | 11.6.26](https://www.youtube.com/watch?v=QSvQdMSqP5A) · *Washington Wizards*
+From: [Media Availability: Brian Keefe and Trae Young \| 11.6.26](https://www.youtube.com/watch?v=QSvQdMSqP5A) · *Washington Wizards*
 
 <small>[Clip it](presserclips://clip?v=QSvQdMSqP5A&t=565&q=5) · [Send to Slack](presserclips://clip?v=QSvQdMSqP5A&t=565&q=5&slack=1)</small>
 
 ---
-
-# Best of the best: podcasts & shows
-
-**1. Jamahl Mosley — "the ability for Carlo in that moment was to space the floor" — Jamahl Mosley on the decision to bench Herb Jones** [22:47](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s)
-
-Jamahl Mosley: "I think what went into that decision, it was because the ability for Carlo in that moment was to space the floor. And that's what was part of the the the Rudy Gobert scenario and that's you saw what happened with Carlo being able to knock shots down to stretch the floor in that scenario."
-
-[https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s)
-
-<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=1) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=1&slack=1)</small>
-
-From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://www.youtube.com/watch?v=rbSz1cPZ_Bw) · *New Orleans Pelicans*
-
-<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8&slack=1)</small>
-
-**2. Jamahl Mosley — "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration" — Jamahl Mosley on the impact of free throws and rebounding** [18:26](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s)
-
-Jamahl Mosley: "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration. Part of it is that. It's a close game going into the fourth. Our ability to get downhill, we attacked the basket a couple times, it didn't get the call. Not the reason, but again, big fellas going down there trying to attack the basket the right way, he's got to get the same kind of bumps that we're giving away on the other end."
-
-[https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s)
-
-<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2&slack=1)</small>
-
-From: [LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026](https://www.youtube.com/watch?v=rbSz1cPZ_Bw) · *New Orleans Pelicans*
-
-<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2&slack=1)</small>
-
----
-
-# Press conferences
 
 ## Media Availability: Brian Keefe and Trae Young | 11.6.26 — *Washington Wizards*
 
@@ -94,8 +62,6 @@ Trae Young: "Yeah, I didn't get to really get to say goodbye, obviously whenever
 
 ---
 
-# Podcasts & shows
-
 ## LIVE: Pelicans vs. Timberwolves Postgame Interviews 11/6/2026 — *New Orleans Pelicans*
 
 Source: [https://www.youtube.com/watch?v=rbSz1cPZ_Bw](https://www.youtube.com/watch?v=rbSz1cPZ_Bw)
@@ -109,14 +75,6 @@ Jamahl Mosley: "Anybody's game going to the fourth quarter just seemed like was 
 [https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1091s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1091s)
 
 <small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1091&q=1) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1091&q=1&slack=1)</small>
-
-**2. Jamahl Mosley — "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration" — Jamahl Mosley on the impact of free throws and rebounding** [18:26](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s)
-
-Jamahl Mosley: "17 offensive rebounds, 37 free throws. That's enough for a little bit of frustration. Part of it is that. It's a close game going into the fourth. Our ability to get downhill, we attacked the basket a couple times, it didn't get the call. Not the reason, but again, big fellas going down there trying to attack the basket the right way, he's got to get the same kind of bumps that we're giving away on the other end."
-
-[https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1106s)
-
-<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1106&q=2&slack=1)</small>
 
 **3. Jamahl Mosley — "we've got to be better at finishing and making sure we punish them at the rim" — Jamahl Mosley on the need for better finishing at the rim** [18:56](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1136s)
 
@@ -142,22 +100,6 @@ Jamahl Mosley: "The ability to finish in those moments is is is huge. I think th
 
 <small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1164&q=5) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1164&q=5&slack=1)</small>
 
-**6. Jamahl Mosley — "Rudy was guarding Carlo and Carlo was getting all the shots" — Jamahl Mosley on Rudy Gobert's defensive impact** [20:33](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1233s)
-
-Jamahl Mosley: "Part of that first half or that first quarter when he was in there, Rudy was guarding Carlo and Carlo was getting all the shots. So that's part of it. If you force-feed it, yeah, there's a way there's ways you can do it, but Carlo got hot, he kept us in that first quarter."
-
-[https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1233s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1233s)
-
-<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1233&q=6) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1233&q=6&slack=1)</small>
-
-**7. Jamahl Mosley — "Herb is one of our best defenders and his frustration level came because he's a dog fighter" — Jamahl Mosley on Herb Jones's defensive frustration** [22:12](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1332s)
-
-Jamahl Mosley: "Herb is one of our best defenders and his frustration level came because he's a dog fighter over screens. And if I'm outside of my body and outside of my base and I'm trying to get over that screen and I get clipped in my knee and I get clipped in my back and I've got my elbows out and I get hit, I would be frustrated just the same."
-
-[https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1332s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1332s)
-
-<small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1332&q=7) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1332&q=7&slack=1)</small>
-
 **8. Jamahl Mosley — "the ability for Carlo in that moment was to space the floor" — Jamahl Mosley on the decision to bench Herb Jones** [22:47](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s)
 
 Jamahl Mosley: "I think what went into that decision, it was because the ability for Carlo in that moment was to space the floor. And that's what was part of the the the Rudy Gobert scenario and that's you saw what happened with Carlo being able to knock shots down to stretch the floor in that scenario."
@@ -165,7 +107,3 @@ Jamahl Mosley: "I think what went into that decision, it was because the ability
 [https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s](https://www.youtube.com/watch?v=rbSz1cPZ_Bw&t=1367s)
 
 <small>[Clip it](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8) · [Send to Slack](presserclips://clip?v=rbSz1cPZ_Bw&t=1367&q=8&slack=1)</small>
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

@@ -39,9 +39,18 @@
       "names_mentioned": [
         "Tyler Herro"
       ],
-      "excerpt": "I would say Boston is probably the first crunch time to clutch minutes",
-      "quote": "I would say Boston is probably the first crunch time to clutch minutes, however you want to look at a late type fourth quarter for you guys tonight. Kind of the early fourth before it stretched out you guys kind of had more chances. What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to your stuff if there isn't a second chance or if there isn't a layup? I think defensively, in the first half again we were getting stops. Second half they were comfortable, they were able to score, so now we're taking it out every single time and now we're playing against a set defense. I think the more we get stops and get in transition we can run. They're a really good defensive team, they're long, they play physical, so we get stops, we can run in transition and then we're able to not go against a set defense every time.",
-      "text_blocks": [],
+      "excerpt": "What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "I would say Boston is probably the first crunch time to clutch minutes, however you want to look at a late type fourth quarter for you guys tonight. Kind of the early fourth before it stretched out you guys kind of had more chances."
+        },
+        {
+          "speaker": "Tyler Herro",
+          "text": "What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to your stuff if there isn't a second chance or if there isn't a layup? I think defensively, in the first half again we were getting stops. Second half they were comfortable, they were able to score, so now we're taking it out every single time and now we're playing against a set defense. I think the more we get stops and get in transition we can run. They're a really good defensive team, they're long, they play physical, so we get stops, we can run in transition and then we're able to not go against a set defense every time."
+        }
+      ],
       "start_seconds": 23,
       "end_seconds": 86,
       "speaker_confidence": "named",
@@ -59,7 +68,12 @@
         "context": "Tyler Herro explains the team's difficulty in executing against Boston's set defense when failing to generate transition opportunities.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speakers": [
+        "Unidentified reporter",
+        "Tyler Herro"
+      ],
+      "reporter_split": true
     },
     {
       "rank": 3,
@@ -161,5 +175,7 @@
   "duration_seconds": 230,
   "processed_at": "2026-11-07T07:17:52Z",
   "run_id": "2026-11-07-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

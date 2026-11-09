@@ -12,9 +12,11 @@ Tyler Herro: "We're trying to sustain our game for 48 minutes. We've seen it in 
 
 <small>[Clip it](presserclips://clip?v=t5TK4iL0H24&t=0&q=1) · [Send to Slack](presserclips://clip?v=t5TK4iL0H24&t=0&q=1&slack=1)</small>
 
-**2. Tyler Herro — "I would say Boston is probably the first crunch time to clutch minutes" — Tyler Herro on the team's late-game execution and defensive struggles** [00:23](https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s)
+**2. Tyler Herro — "What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to" — Tyler Herro on the team's late-game execution and defensive struggles** [00:23](https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s)
 
-Tyler Herro: "I would say Boston is probably the first crunch time to clutch minutes, however you want to look at a late type fourth quarter for you guys tonight. Kind of the early fourth before it stretched out you guys kind of had more chances. What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to your stuff if there isn't a second chance or if there isn't a layup? I think defensively, in the first half again we were getting stops. Second half they were comfortable, they were able to score, so now we're taking it out every single time and now we're playing against a set defense. I think the more we get stops and get in transition we can run. They're a really good defensive team, they're long, they play physical, so we get stops, we can run in transition and then we're able to not go against a set defense every time."
+**Unidentified reporter:** "I would say Boston is probably the first crunch time to clutch minutes, however you want to look at a late type fourth quarter for you guys tonight. Kind of the early fourth before it stretched out you guys kind of had more chances."
+
+**Tyler Herro:** "What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to your stuff if there isn't a second chance or if there isn't a layup? I think defensively, in the first half again we were getting stops. Second half they were comfortable, they were able to score, so now we're taking it out every single time and now we're playing against a set defense. I think the more we get stops and get in transition we can run. They're a really good defensive team, they're long, they play physical, so we get stops, we can run in transition and then we're able to not go against a set defense every time."
 
 [https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s](https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s)
 

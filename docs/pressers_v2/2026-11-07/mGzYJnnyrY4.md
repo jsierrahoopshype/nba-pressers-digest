@@ -76,9 +76,11 @@ Kenny Atkinson: "He just keeps seeming to step up to the moment every time there
 
 <small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=294&q=9) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=294&q=9&slack=1)</small>
 
-**10. Kenny Atkinson — "When you have Malik and Tyrese and Peyton, just a ton of youth." — Kenny Atkinson on the team's youth and speed** [05:26](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s)
+**10. Kenny Atkinson — "It looked like you guys were just running track meet there in the third quarter." — Kenny Atkinson on the team's youth and speed** [05:26](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s)
 
-Kenny Atkinson: "When you have **Malik** and **Tyrese** and **Peyton**, just a ton of youth. It looked like you guys were just running track meet there in the third quarter. A big part of that was **Peyton** starting and we got to make sure we're empowering him to bring the ball up, especially if they're going to put their five on him or a lesser defender. He's got to be in attack mode and I thought that was part of it. Then you got **Malik** and **Tyrese** running the wings, it's a great observation up our speed level."
+**Unidentified reporter:** "When you have **Malik** and **Tyrese** and **Peyton**, just a ton of youth."
+
+**Kenny Atkinson:** "It looked like you guys were just running track meet there in the third quarter. A big part of that was **Peyton** starting and we got to make sure we're empowering him to bring the ball up, especially if they're going to put their five on him or a lesser defender. He's got to be in attack mode and I thought that was part of it. Then you got **Malik** and **Tyrese** running the wings, it's a great observation up our speed level."
 
 [https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s)
 

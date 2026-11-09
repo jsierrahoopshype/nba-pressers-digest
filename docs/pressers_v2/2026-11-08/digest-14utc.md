@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-08
 
+[Podcasts & shows](podcasts-14utc.md)
+
 # Best of the best
 
 **1. Trae Young — "I'm still getting teams' best defender on me. I think we're just trying to work on how to play other actions." — Trae Young on adjusting to defensive attention and team playmaking** [05:11](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=311s)
@@ -8,15 +10,11 @@ Trae Young: "I mean, I think you can probably tell I'm still getting teams' best
 
 [https://www.youtube.com/watch?v=jbvH4tNsuy8&t=311s](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=311s)
 
-<small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=311&q=1) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=311&q=1&slack=1)</small>
-
-From: [Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa | 11.7.26](https://www.youtube.com/watch?v=jbvH4tNsuy8) · *Washington Wizards*
+From: [Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa \| 11.7.26](https://www.youtube.com/watch?v=jbvH4tNsuy8) · *Washington Wizards*
 
 <small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=311&q=5) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=311&q=5&slack=1)</small>
 
 ---
-
-# Press conferences
 
 ## Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa | 11.7.26 — *Washington Wizards*
 
@@ -79,7 +77,3 @@ AJ Dybantsa: "It's kind of everything I study. Just king of manipulating the gam
 [https://www.youtube.com/watch?v=jbvH4tNsuy8&t=520s](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=520s)
 
 <small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=520&q=7) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=520&q=7&slack=1)</small>
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

@@ -1,0 +1,110 @@
+{
+  "video_title": "Vince & T-Mac On Jaylen Brown & Jayson Tatum Facing Off in Anticipated Celtics vs. 76ers Matchup",
+  "speakers_seen": [
+    "Tracy McGrady",
+    "Vince Carter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tracy McGrady",
+      "speakers": [
+        "Tracy McGrady",
+        "Vince Carter"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Tracy McGrady and Vince Carter on the Jaylen Brown and Jayson Tatum matchup",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "Jayson Tatum"
+      ],
+      "excerpt": "It's so interesting because we know what we hear, but we also know what we see.",
+      "text_blocks": [
+        {
+          "speaker": "Tracy McGrady",
+          "text": "The Jaylen Brown, Jayson Tatum, JB, JT, so Jaylen Brown, Jayson Tatum, is interesting. You've even been etched in it at one point. But it's so interesting because we know what we hear, but we also know what we see."
+        },
+        {
+          "speaker": "Vince Carter",
+          "text": "How you feel about it? Where you at with it?"
+        },
+        {
+          "speaker": "Tracy McGrady",
+          "text": "I'm looking forward to that matchup."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tracy McGrady on the Jaylen Brown and Jayson Tatum dynamic: It is interesting because we know what we hear, but we also know what we see. I am looking forward to that matchup.",
+      "team": "Cousins with Vince Carter & Tracy McGrady"
+    },
+    {
+      "rank": 2,
+      "speaker": "Tracy McGrady",
+      "timestamp": "02:23",
+      "summary_phrase": "Tracy McGrady on the speculation surrounding the Celtics' stars",
+      "names_mentioned": [],
+      "excerpt": "I'm not going to speculate because when I speak on it, it catches headlines.",
+      "quote": "Regardless of what's going on between these two guys, we all don't know. It's a lot of speculation, so I'm not going to speculate because when I speak on it, it catches headlines. But I'm just speaking on solely on the matchup, and all the things that these guys have gone through in their careers together. They accomplished a lot together, and it's unfortunate that it ended up this way, but shit, we're here. It is what it is, this is where we are.",
+      "verbatim_original_language": "",
+      "start_seconds": 143,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Tracy McGrady on the speculation surrounding the Celtics stars: They accomplished a lot together, and it is unfortunate that it ended up this way, but we are here. It is what it is.",
+      "team": "Cousins with Vince Carter & Tracy McGrady"
+    },
+    {
+      "rank": 3,
+      "speaker": "Tracy McGrady",
+      "timestamp": "03:43",
+      "summary_phrase": "Tracy McGrady compares the current Celtics situation to Shaquille O'Neal leaving Orlando",
+      "names_mentioned": [
+        "Shaquille O'Neal"
+      ],
+      "excerpt": "It reminds me of that anticipation when Shaq left Orlando and that first game.",
+      "quote": "It reminds me of that anticipation when Shaq left Orlando and that first game. That first game, you were just like, that anticipation, you were just looking forward to it. It started from the handshake, that's what I was going to. I was going to that. I was like, man, let me see if they are going to interact with each other at jump ball. Nah, let me see. Yeah, they didn't look at each other. So, I'm looking for all that.",
+      "verbatim_original_language": "",
+      "start_seconds": 223,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Tracy McGrady compares the current Celtics situation to Shaq leaving Orlando: I am looking to see if they interact at the jump ball. I remember when Shaq left, I was looking for that handshake.",
+      "team": "Cousins with Vince Carter & Tracy McGrady"
+    },
+    {
+      "rank": 4,
+      "speaker": "Tracy McGrady",
+      "timestamp": "09:45",
+      "summary_phrase": "Tracy McGrady on the importance of veterans in resolving player conflict",
+      "names_mentioned": [],
+      "excerpt": "We had veterans around us that were like, hold on man, nah, y'all need to get on the phone.",
+      "quote": "We had veterans around us that were like, hold on man, nah, y'all need to get on the phone. And I just wonder if they have that type of connection to where it could be a mediator and get these guys on the phone. Because I mean, they were fun to watch man, and they did some great things for the time that they were teammates. And you just wish one of these days that they are shake hands, get over that shit, and be able to tell a story.",
+      "verbatim_original_language": "",
+      "start_seconds": 585,
+      "end_seconds": 620,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Tracy McGrady on the Celtics stars: We had veterans who would tell us to get on the phone and work it out. I wonder if they have a mediator to get these guys to shake hands, get over that shit, and be able to tell a story.",
+      "team": "Cousins with Vince Carter & Tracy McGrady"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "yt-quotes rotation",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "3LtAIT-z_P0",
+  "url": "https://www.youtube.com/watch?v=3LtAIT-z_P0",
+  "channel_team": "Cousins with Vince Carter & Tracy McGrady",
+  "published": "2026-11-09T00:00:12Z",
+  "duration_seconds": 633,
+  "processed_at": "2026-11-09T22:39:59Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

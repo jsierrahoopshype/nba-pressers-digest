@@ -31,6 +31,10 @@
         "context": "Head coach Jamahl Mosley reacts to the Pelicans defensive performance in a loss against the Clippers.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 1
       }
     },
     {
@@ -59,6 +63,10 @@
         "context": "Jamahl Mosley discusses the need for better defensive effort and team cohesion.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 1
       }
     },
     {
@@ -88,6 +96,10 @@
         "context": "Jamahl Mosley credits the Clippers for playing with more intensity and hunger than his team.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 2
       }
     },
     {
@@ -116,6 +128,10 @@
         "context": "Jamahl Mosley praises the competitive nature and work ethic of an unnamed player.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 3
       }
     },
     {
@@ -144,6 +160,10 @@
         "context": "Jamahl Mosley discusses the work ethic and development of a second-year player.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 4
       }
     },
     {
@@ -172,6 +192,10 @@
         "context": "Jamahl Mosley emphasizes the need for his team to prioritize defensive pride.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 5
       }
     },
     {
@@ -200,6 +224,10 @@
         "context": "Jamahl Mosley discusses the importance of sacrifice within a deep and talented offensive roster.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 6
       }
     },
     {
@@ -232,6 +260,10 @@
         "context": "Jamahl Mosley discusses how opponents are targeting Zion Williamson defensively to wear him down.",
         "best": true,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 7
       }
     },
     {
@@ -260,11 +292,15 @@
         "context": "Jamahl Mosley explains that establishing a defensive identity is a process for his team.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "2iJQSJ8w88Q",
+        "rank": 9
       }
     }
   ],
-  "content_type": "podcast",
-  "content_type_source": "keyword: live",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
   "format": "ytq-1",
   "video_id": "aJSJd1S8y_0",
   "url": "https://www.youtube.com/watch?v=aJSJd1S8y_0",
@@ -273,5 +309,7 @@
   "duration_seconds": 1520,
   "processed_at": "2026-11-09T18:53:45Z",
   "run_id": "2026-11-09-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

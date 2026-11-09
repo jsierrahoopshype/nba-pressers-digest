@@ -60,6 +60,10 @@
         "context": "Jamahl Mosley addresses the impact of free throws and rebounding disparities in the game against Minnesota.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oCYVvg1KMWQ",
+        "rank": 1
       }
     },
     {
@@ -177,6 +181,10 @@
         "context": "Jamahl Mosley discusses how Rudy Gobert's defensive presence influenced the team's offensive strategy.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oCYVvg1KMWQ",
+        "rank": 3
       }
     },
     {
@@ -209,6 +217,10 @@
         "context": "Jamahl Mosley explains the source of Herb Jones's frustration regarding physical play over screens.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oCYVvg1KMWQ",
+        "rank": 5
       }
     },
     {
@@ -247,8 +259,8 @@
       }
     }
   ],
-  "content_type": "podcast",
-  "content_type_source": "keyword: live",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
   "format": "ytq-1",
   "video_id": "rbSz1cPZ_Bw",
   "url": "https://www.youtube.com/watch?v=rbSz1cPZ_Bw",
@@ -257,5 +269,7 @@
   "duration_seconds": 1418,
   "processed_at": "2026-11-07T18:44:39Z",
   "run_id": "2026-11-07T1844Z-14utc",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

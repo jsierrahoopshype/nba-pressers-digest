@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-07
 
+[Podcasts & shows](podcasts-20utc.md)
+
 # Best of the best
 
 **1. Miles Bridges — "He was just telling me to play bigger than what I am." — Miles Bridges on advice from Shaquille O'Neal to play bigger** [01:46](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
@@ -8,15 +10,11 @@ Miles Bridges: "I did get to talk to **Shaquille O'Neal** a couple weeks ago whe
 
 [https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s](https://www.youtube.com/watch?v=GrLef5VJSMw&t=106s)
 
-<small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=106&q=1) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=106&q=1&slack=1)</small>
-
-From: [Miles Bridges Shootaround Media Availability | 11-7-26](https://www.youtube.com/watch?v=GrLef5VJSMw) · *Phoenix Suns*
+From: [Miles Bridges Shootaround Media Availability \| 11-7-26](https://www.youtube.com/watch?v=GrLef5VJSMw) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=GrLef5VJSMw&t=106&q=1) · [Send to Slack](presserclips://clip?v=GrLef5VJSMw&t=106&q=1&slack=1)</small>
 
 ---
-
-# Press conferences
 
 ## Miles Bridges Shootaround Media Availability | 11-7-26 — *Phoenix Suns*
 
@@ -111,7 +109,3 @@ Luke Kennard: "I take a lot of pride in just like my IQ. I've played for a long 
 [https://www.youtube.com/watch?v=aWddSSnx4Ho&t=380s](https://www.youtube.com/watch?v=aWddSSnx4Ho&t=380s)
 
 <small>[Clip it](presserclips://clip?v=aWddSSnx4Ho&t=380&q=5) · [Send to Slack](presserclips://clip?v=aWddSSnx4Ho&t=380&q=5&slack=1)</small>
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

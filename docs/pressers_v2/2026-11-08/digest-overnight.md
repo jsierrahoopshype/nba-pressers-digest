@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-08
 
+[Podcasts & shows](podcasts-overnight.md)
+
 # Best of the best
 
 **1. Cyro Asseo — "The Hornets are telling the market that his role has to become clearer." — Charlotte Hornets' decision to decline Tidjane Salaün's option** [03:04](https://www.youtube.com/watch?v=b_OewP0nLYo&t=184s)
@@ -7,8 +9,6 @@
 Cyro Asseo: "A sixth pick being declined at 10.4 million is a bigger statement than the others. The Hornets are telling the market that his role has to become clearer. And he just has to figure out, can he become the 3-and-D combo big that his skill set is suited for? If not, he'll probably have a good career overseas."
 
 [https://www.youtube.com/watch?v=b_OewP0nLYo&t=184s](https://www.youtube.com/watch?v=b_OewP0nLYo&t=184s)
-
-<small>[Clip it](presserclips://clip?v=b_OewP0nLYo&t=184&q=1) · [Send to Slack](presserclips://clip?v=b_OewP0nLYo&t=184&q=1&slack=1)</small>
 
 From: [7 NBA Players Had Their Options Declined: What Happens Next?](https://www.youtube.com/watch?v=b_OewP0nLYo) · *HoopsHype*
 
@@ -20,8 +20,6 @@ Jalen Johnson: "Those two work extremely hard for being rookies and I think that
 
 [https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=152s)
 
-<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=152&q=2) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=152&q=2&slack=1)</small>
-
 From: [Hawks vs. Nets Postgame Press Conference: Jalen Johnson](https://www.youtube.com/watch?v=A-hTZAnBVrk) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=152&q=3) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=152&q=3&slack=1)</small>
@@ -32,9 +30,7 @@ Jared McCain: "He is awesome, he is super awesome. I was watching a clip with **
 
 [https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=87s](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=87s)
 
-<small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=3) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=3&slack=1)</small>
-
-From: [Jared McCain on Teammates and Enjoying the Work | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=WbK5x3Wn_h4) · *Oklahoma City Thunder*
+From: [Jared McCain on Teammates and Enjoying the Work \| Postgame Media \| November 7, 2026](https://www.youtube.com/watch?v=WbK5x3Wn_h4) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=2) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=87&q=2&slack=1)</small>
 
@@ -44,87 +40,71 @@ Jamal Cain: "It's extremely important because we have three of our most importan
 
 [https://www.youtube.com/watch?v=4O6QSwTPG4g&t=205s](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=205s)
 
-<small>[Clip it](presserclips://clip?v=4O6QSwTPG4g&t=205&q=4) · [Send to Slack](presserclips://clip?v=4O6QSwTPG4g&t=205&q=4&slack=1)</small>
-
-From: [POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS | COACH SWEENEY, CAIN & WAGNER](https://www.youtube.com/watch?v=4O6QSwTPG4g) · *Orlando Magic*
+From: [POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS \| COACH SWEENEY, CAIN & WAGNER](https://www.youtube.com/watch?v=4O6QSwTPG4g) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=4O6QSwTPG4g&t=205&q=7) · [Send to Slack](presserclips://clip?v=4O6QSwTPG4g&t=205&q=7&slack=1)</small>
 
-**5. Jalen Johnson — "he imposes his will a lot. He's strong. He's a strong guy" — Jalen Johnson on the physicality of Julius Randle** [04:44](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s)
-
-Jalen Johnson: "**Julius Randle** is one of them for sure. Definitely at the four position, I think he imposes his will a lot. He's strong. He's a strong guy."
-
-[https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s](https://www.youtube.com/watch?v=A-hTZAnBVrk&t=284s)
-
-<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5&slack=1)</small>
-
-From: [Hawks vs. Nets Postgame Press Conference: Jalen Johnson](https://www.youtube.com/watch?v=A-hTZAnBVrk) · *Atlanta Hawks*
-
-<small>[Clip it](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5) · [Send to Slack](presserclips://clip?v=A-hTZAnBVrk&t=284&q=5&slack=1)</small>
-
-**6. Kenrich Williams — "we got to hang our hats on that side of the ball" — Kenrich Williams on the team's defensive improvement and effort** [00:18](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s)
+**5. Kenrich Williams — "we got to hang our hats on that side of the ball" — Kenrich Williams on the team's defensive improvement and effort** [00:18](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s)
 
 Kenrich Williams: "I think just effort, kind of keying in on a game plan. You know, just locking in on that side of the ball, knowing that when nights when the ball doesn't go in the basket, we got to hang our hats on that side of the ball. And also just getting AC back helps our defense, it does help our defense a lot."
 
 [https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=18s)
 
-<small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=18&q=6) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=18&q=6&slack=1)</small>
-
-From: [Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=G3mVC-aV2gw) · *Oklahoma City Thunder*
+From: [Kenrich Williams on Winning Effort \| Postgame Media \| November 7, 2026](https://www.youtube.com/watch?v=G3mVC-aV2gw) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=18&q=1) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=18&q=1&slack=1)</small>
 
-**7. Kenrich Williams — "he gives 100% on that side of the ball" — Kenrich Williams on Shai Gilgeous-Alexander's defensive improvement** [02:52](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=172s)
-
-Kenrich Williams: "He's just his effort. His effort night in and night out, he gives 100% on that side of the ball, knowing that he has more responsibility on the offensive end. He still shows up and gives that effort on the defensive end and you just got to tip your hat to AJ and how he's improving over the last couple years, and it's huge for us. We're going to need it down the stretch."
-
-[https://www.youtube.com/watch?v=G3mVC-aV2gw&t=172s](https://www.youtube.com/watch?v=G3mVC-aV2gw&t=172s)
-
-<small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=172&q=7) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=172&q=7&slack=1)</small>
-
-From: [Kenrich Williams on Winning Effort | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=G3mVC-aV2gw) · *Oklahoma City Thunder*
-
-<small>[Clip it](presserclips://clip?v=G3mVC-aV2gw&t=172&q=5) · [Send to Slack](presserclips://clip?v=G3mVC-aV2gw&t=172&q=5&slack=1)</small>
-
-**8. Jared McCain — "It is super impressive to see. He worked on a lot of the new stuff." — Jared McCain on his teammate's improved offensive versatility and work ethic** [00:26](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=26s)
-
-Jared McCain: "It is super impressive to see. When I went out there and was working out with him, we worked on a lot of the new stuff that I did not expect. I thought we would be doing more of the mid-range stuff and stuff that he did last year. To see it now, shooting more threes and catch-and-shoot and backdoors, it is pretty cool to see that translate. It just speaks to his work and how he is able to use exactly what he works on and put it right into the game."
-
-[https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=26s](https://www.youtube.com/watch?v=WbK5x3Wn_h4&t=26s)
-
-<small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=8) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=8&slack=1)</small>
-
-From: [Jared McCain on Teammates and Enjoying the Work | Postgame Media | November 7, 2026](https://www.youtube.com/watch?v=WbK5x3Wn_h4) · *Oklahoma City Thunder*
-
-<small>[Clip it](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=1) · [Send to Slack](presserclips://clip?v=WbK5x3Wn_h4&t=26&q=1&slack=1)</small>
-
-**9. Jalen Green — "He took over when we needed him and that's what he does, so it's exciting." — Jalen Green on Devin Booker's takeover performance** [00:56](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
+**6. Jalen Green — "He took over when we needed him and that's what he does, so it's exciting." — Jalen Green on Devin Booker's takeover performance** [00:56](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
 
 Jalen Green: "He took over when we needed him and that's what he does, so it's exciting."
 
 [https://www.youtube.com/watch?v=nkcouRENq9c&t=56s](https://www.youtube.com/watch?v=nkcouRENq9c&t=56s)
 
-<small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=56&q=9) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=56&q=9&slack=1)</small>
-
-From: [Jalen Green Postgame Media Availability | Phoenix Suns | 11-7-26](https://www.youtube.com/watch?v=nkcouRENq9c) · *Phoenix Suns*
+From: [Jalen Green Postgame Media Availability \| Phoenix Suns \| 11-7-26](https://www.youtube.com/watch?v=nkcouRENq9c) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=nkcouRENq9c&t=56&q=2) · [Send to Slack](presserclips://clip?v=nkcouRENq9c&t=56&q=2&slack=1)</small>
 
-**10. Aaron Wiggins — "Understanding as a team the ways that we can help each other when we're missing pieces." — Aaron Wiggins on team depth and filling in for injured players** [03:06](https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s)
+**7. Aaron Wiggins — "Understanding as a team the ways that we can help each other when we're missing pieces." — Aaron Wiggins on team depth and filling in for injured players** [03:06](https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s)
 
 Aaron Wiggins: "Understanding as a team the ways that we can help each other when we're missing pieces, whether it's **Jaylen Johnson** in scoring and playmaking, whether it's rebounding and just opportunities to create as a connector on the team. Understanding individually how you can contribute and then as a team our strengths. I think we do a good job moving the ball, passing the ball, creating for each other, playing without the ball. Those things require more attention when you're missing some of our bigs, and obviously rebounding as a team is bigger. I think guys understand that when we're missing pieces like that, we have to fill in as a team and it has to be as a collective."
 
 [https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s](https://www.youtube.com/watch?v=ePrfZObKTXY&t=186s)
 
-<small>[Clip it](presserclips://clip?v=ePrfZObKTXY&t=186&q=10) · [Send to Slack](presserclips://clip?v=ePrfZObKTXY&t=186&q=10&slack=1)</small>
-
 From: [Hawks vs. Nets Postgame Press Conference: Aaron Wiggins](https://www.youtube.com/watch?v=ePrfZObKTXY) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=ePrfZObKTXY&t=186&q=5) · [Send to Slack](presserclips://clip?v=ePrfZObKTXY&t=186&q=5&slack=1)</small>
 
----
+**8. Franz Wagner — "I don't think we were able to get as many stops as we needed obviously." — Franz Wagner on the team's inability to get defensive stops** [04:46](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=286s)
 
-# Press conferences
+Franz Wagner: "I don't think we were able to get as many stops as we needed obviously. It's fair to say they got one of the best players in the league on the team and I think I think we weren't able in those critical moments to get two stops and no couple scores in a row and."
+
+[https://www.youtube.com/watch?v=4O6QSwTPG4g&t=286s](https://www.youtube.com/watch?v=4O6QSwTPG4g&t=286s)
+
+From: [POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS \| COACH SWEENEY, CAIN & WAGNER](https://www.youtube.com/watch?v=4O6QSwTPG4g) · *Orlando Magic*
+
+<small>[Clip it](presserclips://clip?v=4O6QSwTPG4g&t=286&q=9) · [Send to Slack](presserclips://clip?v=4O6QSwTPG4g&t=286&q=9&slack=1)</small>
+
+**9. Larry Nance Jr. — "it all starts with attacking the paint. The problem down in the paint, they got to double down" — Larry Nance Jr. on the importance of attacking the paint** [00:43](https://www.youtube.com/watch?v=Vp9hzrmvKyI&t=43s)
+
+Larry Nance Jr.: "It all starts with attacking the paint. The problem down in the paint, they got to double down, and all I did was make open shots. So it's those guys creating the looks for me, and they made it easy."
+
+[https://www.youtube.com/watch?v=Vp9hzrmvKyI&t=43s](https://www.youtube.com/watch?v=Vp9hzrmvKyI&t=43s)
+
+From: [Pascal Siakam & Larry Nance Jr. Postgame Media Availability vs. Nuggets \| November 7, 2026](https://www.youtube.com/watch?v=Vp9hzrmvKyI) · *Indiana Pacers*
+
+<small>[Clip it](presserclips://clip?v=Vp9hzrmvKyI&t=43&q=2) · [Send to Slack](presserclips://clip?v=Vp9hzrmvKyI&t=43&q=2&slack=1)</small>
+
+**10. Pascal Siakam — "tough environment, if you're not used to the altitude and everything, it's just kind of hard to get going" — Pascal Siakam on the challenges of playing in high altitude** [00:04](https://www.youtube.com/watch?v=Vp9hzrmvKyI&t=4s)
+
+Pascal Siakam: "Obviously, tough environment. If you're not used to the altitude and everything, it's just kind of hard to get going. The first half was pretty tough for us. Obviously, I thought we had some good shots, we didn't make them, which doesn't help. But I thought our force and energy was way better in the second half, and that's the way we got to start the game."
+
+[https://www.youtube.com/watch?v=Vp9hzrmvKyI&t=4s](https://www.youtube.com/watch?v=Vp9hzrmvKyI&t=4s)
+
+From: [Pascal Siakam & Larry Nance Jr. Postgame Media Availability vs. Nuggets \| November 7, 2026](https://www.youtube.com/watch?v=Vp9hzrmvKyI) · *Indiana Pacers*
+
+<small>[Clip it](presserclips://clip?v=Vp9hzrmvKyI&t=4&q=1) · [Send to Slack](presserclips://clip?v=Vp9hzrmvKyI&t=4&q=1&slack=1)</small>
+
+---
 
 ## POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS | COACH SWEENEY, CAIN & WAGNER — *Orlando Magic*
 
@@ -1031,7 +1011,3 @@ Quin Snyder: "The one thing we know is the players are usually wrong because the
 [https://www.youtube.com/watch?v=xiokZx4FZ74&t=427s](https://www.youtube.com/watch?v=xiokZx4FZ74&t=427s)
 
 <small>[Clip it](presserclips://clip?v=xiokZx4FZ74&t=427&q=6) · [Send to Slack](presserclips://clip?v=xiokZx4FZ74&t=427&q=6&slack=1)</small>
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

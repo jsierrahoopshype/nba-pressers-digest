@@ -8,8 +8,6 @@ Jamahl Mosley: "Trey is more day-to-day. He is going to be okay. He is just more
 
 [https://www.youtube.com/watch?v=35Rc93zTNco&t=135s](https://www.youtube.com/watch?v=35Rc93zTNco&t=135s)
 
-<small>[Clip it](presserclips://clip?v=35Rc93zTNco&t=135&q=1) · [Send to Slack](presserclips://clip?v=35Rc93zTNco&t=135&q=1&slack=1)</small>
-
 From: [LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026](https://www.youtube.com/watch?v=35Rc93zTNco) · *New Orleans Pelicans*
 
 <small>[Clip it](presserclips://clip?v=35Rc93zTNco&t=135&q=2) · [Send to Slack](presserclips://clip?v=35Rc93zTNco&t=135&q=2&slack=1)</small>
@@ -19,8 +17,6 @@ From: [LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026](https://www.y
 Jamahl Mosley: "Dejounte will be back in the starting lineup."
 
 [https://www.youtube.com/watch?v=35Rc93zTNco&t=128s](https://www.youtube.com/watch?v=35Rc93zTNco&t=128s)
-
-<small>[Clip it](presserclips://clip?v=35Rc93zTNco&t=128&q=2) · [Send to Slack](presserclips://clip?v=35Rc93zTNco&t=128&q=2&slack=1)</small>
 
 From: [LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026](https://www.youtube.com/watch?v=35Rc93zTNco) · *New Orleans Pelicans*
 
@@ -34,8 +30,6 @@ From: [LIVE: Pelicans vs. Jazz Pregame w/ Jamahl Mosley 11/4/2026](https://www.y
 
 [https://www.youtube.com/watch?v=1ZTYQgvToC4&t=89s](https://www.youtube.com/watch?v=1ZTYQgvToC4&t=89s)
 
-<small>[Clip it](presserclips://clip?v=1ZTYQgvToC4&t=89&q=3) · [Send to Slack](presserclips://clip?v=1ZTYQgvToC4&t=89&q=3&slack=1)</small>
-
 From: [Shootaround Media Availability with Micah Peavy | November 4, 2026 | OKC Thunder](https://www.youtube.com/watch?v=1ZTYQgvToC4) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=1ZTYQgvToC4&t=89&q=4) · [Send to Slack](presserclips://clip?v=1ZTYQgvToC4&t=89&q=4&slack=1)</small>
@@ -47,8 +41,6 @@ From: [Shootaround Media Availability with Micah Peavy | November 4, 2026 | OKC 
 **Tyler Herro:** "We are working through some things. I think the disposition we showed in Minnesota, we went down double digits and we continued to fight. That's how we got to come out every single game with that same fight, that same attitude, and be the hardest playing team in the league. Whenever teams play against us, we got to be the hardest playing team in the league."
 
 [https://www.youtube.com/watch?v=4Fr4DwvdTZA&t=26s](https://www.youtube.com/watch?v=4Fr4DwvdTZA&t=26s)
-
-<small>[Clip it](presserclips://clip?v=4Fr4DwvdTZA&t=26&q=4) · [Send to Slack](presserclips://clip?v=4Fr4DwvdTZA&t=26&q=4&slack=1)</small>
 
 From: [Tyler Herro Shootaround Media Availability | 11.04.26](https://www.youtube.com/watch?v=4Fr4DwvdTZA) · *Milwaukee Bucks*
 

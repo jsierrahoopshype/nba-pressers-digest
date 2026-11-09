@@ -8,8 +8,6 @@ AJ Green: "I think our defensive impact in the second half really got us going, 
 
 [https://www.youtube.com/watch?v=3kDMmqDIoLQ&t=24s](https://www.youtube.com/watch?v=3kDMmqDIoLQ&t=24s)
 
-<small>[Clip it](presserclips://clip?v=3kDMmqDIoLQ&t=24&q=1) · [Send to Slack](presserclips://clip?v=3kDMmqDIoLQ&t=24&q=1&slack=1)</small>
-
 From: [AJ Green Shootaround Media Availability | 11.6.26](https://www.youtube.com/watch?v=3kDMmqDIoLQ) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=3kDMmqDIoLQ&t=24&q=1) · [Send to Slack](presserclips://clip?v=3kDMmqDIoLQ&t=24&q=1&slack=1)</small>

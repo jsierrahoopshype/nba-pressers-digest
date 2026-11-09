@@ -8,8 +8,6 @@ Rick Carlisle: "Tyrese will be back, hopefully before too long. Unfortunately he
 
 [https://www.youtube.com/watch?v=nGL9QJFNd2c&t=1362s](https://www.youtube.com/watch?v=nGL9QJFNd2c&t=1362s)
 
-<small>[Clip it](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=1) · [Send to Slack](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=1&slack=1)</small>
-
 From: [Indiana Pacers Mexico City Practice Media Availability | November 6, 2026](https://www.youtube.com/watch?v=nGL9QJFNd2c) · *Indiana Pacers*
 
 <small>[Clip it](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=9) · [Send to Slack](presserclips://clip?v=nGL9QJFNd2c&t=1362&q=9&slack=1)</small>
@@ -20,8 +18,6 @@ Brandon Ingram: "It actually happened, the doctor figured it out during surgery.
 
 [https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=9s](https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=9s)
 
-<small>[Clip it](presserclips://clip?v=Xgr2uxqu_R0&t=9&q=2) · [Send to Slack](presserclips://clip?v=Xgr2uxqu_R0&t=9&q=2&slack=1)</small>
-
 From: [Brandon Ingram - Media Availability (11/6/26) | LA Clippers](https://www.youtube.com/watch?v=Xgr2uxqu_R0) · *LA Clippers*
 
 <small>[Clip it](presserclips://clip?v=Xgr2uxqu_R0&t=9&q=1) · [Send to Slack](presserclips://clip?v=Xgr2uxqu_R0&t=9&q=1&slack=1)</small>
@@ -31,8 +27,6 @@ From: [Brandon Ingram - Media Availability (11/6/26) | LA Clippers](https://www.
 Brandon Ingram: "I feel good. I have been on the floor with the rest of the guys, doing some three-on-three and five-on-five a little bit. So, my body is feeling good, my heel is feeling better, so we are getting closer."
 
 [https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=40s](https://www.youtube.com/watch?v=Xgr2uxqu_R0&t=40s)
-
-<small>[Clip it](presserclips://clip?v=Xgr2uxqu_R0&t=40&q=3) · [Send to Slack](presserclips://clip?v=Xgr2uxqu_R0&t=40&q=3&slack=1)</small>
 
 From: [Brandon Ingram - Media Availability (11/6/26) | LA Clippers](https://www.youtube.com/watch?v=Xgr2uxqu_R0) · *LA Clippers*
 

@@ -8,9 +8,7 @@ Charles Lee: "I saw him start to limp a couple plays and he was good, and then h
 
 [https://www.youtube.com/watch?v=5Z2Cg_NcwFM&t=52s](https://www.youtube.com/watch?v=5Z2Cg_NcwFM&t=52s)
 
-<small>[Clip it](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=1) · [Send to Slack](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=1&slack=1)</small>
-
-From: [Hornets vs Celtics: Coach Charles Lee Postgame Media Availability | 11/6/2026](https://www.youtube.com/watch?v=5Z2Cg_NcwFM) · *Charlotte Hornets*
+From: [Hornets vs Celtics: Coach Charles Lee Postgame Media Availability \| 11/6/2026](https://www.youtube.com/watch?v=5Z2Cg_NcwFM) · *Charlotte Hornets*
 
 <small>[Clip it](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=2) · [Send to Slack](presserclips://clip?v=5Z2Cg_NcwFM&t=52&q=2&slack=1)</small>
 
@@ -20,37 +18,21 @@ Kenny Atkinson: "It's bothering him. We'll see what that looks like tomorrow. Ho
 
 [https://www.youtube.com/watch?v=mGzYJnnyrY4&t=101s](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=101s)
 
-<small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=101&q=2) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=101&q=2&slack=1)</small>
-
-From: [Cavs vs 76ers | Kenny Atkinson Post Game | 11.06.2026](https://www.youtube.com/watch?v=mGzYJnnyrY4) · *Cleveland Cavaliers*
+From: [Cavs vs 76ers \| Kenny Atkinson Post Game \| 11.06.2026](https://www.youtube.com/watch?v=mGzYJnnyrY4) · *Cleveland Cavaliers*
 
 <small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=101&q=4) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=101&q=4&slack=1)</small>
 
-**3. Kenny Atkinson — "Peyton Watson, big difference. I thought the job he did on Maxey was excellent." — Kenny Atkinson on the defensive impact of Peyton Watson** [00:00](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=0s)
-
-Kenny Atkinson: "Defense. **Peyton Watson**, big difference. I thought the job he did on **Maxey** was excellent. I think **Maxey** is playing as well as anybody in the league. So, it was great having him back and just a better job protecting the paint, limited their rim attempts, did a good job on **Embiid**."
-
-[https://www.youtube.com/watch?v=mGzYJnnyrY4&t=0s](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=0s)
-
-<small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=0&q=3) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=0&q=3&slack=1)</small>
-
-From: [Cavs vs 76ers | Kenny Atkinson Post Game | 11.06.2026](https://www.youtube.com/watch?v=mGzYJnnyrY4) · *Cleveland Cavaliers*
-
-<small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=0&q=1) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=0&q=1&slack=1)</small>
-
-**4. Tyler Herro — "it's a process. We've been saying this since the trade, this isn't a thing that happens overnight" — Tyler Herro on the team's patience during a difficult start** [02:21](https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s)
+**3. Tyler Herro — "it's a process. We've been saying this since the trade, this isn't a thing that happens overnight" — Tyler Herro on the team's patience during a difficult start** [02:21](https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s)
 
 Tyler Herro: "It's a process. We've been saying this since the trade, this isn't a thing that happens overnight. We've been in a lot of these games, and I think we've played eight to nine games, we should have won five of them. The other two or three we were obviously got blown out, but five of the eight I feel like we were in position to win all of them. Continuing to just go to that process, we'll start winning games, so I'm not worried."
 
 [https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s](https://www.youtube.com/watch?v=t5TK4iL0H24&t=141s)
 
-<small>[Clip it](presserclips://clip?v=t5TK4iL0H24&t=141&q=4) · [Send to Slack](presserclips://clip?v=t5TK4iL0H24&t=141&q=4&slack=1)</small>
-
-From: [Tyler Herro Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=t5TK4iL0H24) · *Milwaukee Bucks*
+From: [Tyler Herro Postgame Media Availability \| 11.6.26](https://www.youtube.com/watch?v=t5TK4iL0H24) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=t5TK4iL0H24&t=141&q=4) · [Send to Slack](presserclips://clip?v=t5TK4iL0H24&t=141&q=4&slack=1)</small>
 
-**5. Luguentz Dort — "I worked on my whole game in general." — Luguentz Dort on his role change and off-season preparation** [01:44](https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s)
+**4. Luguentz Dort — "I worked on my whole game in general." — Luguentz Dort on his role change and off-season preparation** [01:44](https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s)
 
 **Unidentified speaker:** "Luguentz, you have seen a pretty drastic change in your role from what you did in OKC. Career-high driving frequency, you are playing power forward at the highest rate of your career, and some of that is because **Jock Landale** is hurt, but I think you have done a fantastic job. I am curious, when you were coming into this season for Atlanta, was there anything in particular you worked on in terms of your on-ball game or your driving game?"
 
@@ -58,51 +40,21 @@ From: [Tyler Herro Postgame Media Availability | 11.6.26](https://www.youtube.co
 
 [https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s](https://www.youtube.com/watch?v=6J54qK7Anlw&t=104s)
 
-<small>[Clip it](presserclips://clip?v=6J54qK7Anlw&t=104&q=5) · [Send to Slack](presserclips://clip?v=6J54qK7Anlw&t=104&q=5&slack=1)</small>
-
 From: [Hawks vs. Wizards Postgame Press Conference: Luguentz Dor](https://www.youtube.com/watch?v=6J54qK7Anlw) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=6J54qK7Anlw&t=104&q=3) · [Send to Slack](presserclips://clip?v=6J54qK7Anlw&t=104&q=3&slack=1)</small>
 
-**6. Taylor Jenkins — "You should never defer. Should be assertive when you're open, let it fly." — Taylor Jenkins on Miles Turner's shooting struggles and coaching philosophy** [01:16](https://www.youtube.com/watch?v=VpnLiomjjZc&t=76s)
-
-**Unidentified speaker:** "When someone as important as **Miles Turner** goes over for seven, do you want him to keep shooting through that? What's your coaching advice to him, or are you okay with like deferring and letting him figure it out?"
-
-**Taylor Jenkins:** "You should never defer. Should be assertive when you're open, let it fly. He owned it after the game, he told his teammates I didn't have it. It was a rough night for me. I got to continue to be better and still impact the game on the defensive side, but I'm never going to tell a guy when you're missing shots to not shoot it."
-
-[https://www.youtube.com/watch?v=VpnLiomjjZc&t=76s](https://www.youtube.com/watch?v=VpnLiomjjZc&t=76s)
-
-<small>[Clip it](presserclips://clip?v=VpnLiomjjZc&t=76&q=6) · [Send to Slack](presserclips://clip?v=VpnLiomjjZc&t=76&q=6&slack=1)</small>
-
-From: [Taylor Jenkins Postgame Press Conference | 11.6.26](https://www.youtube.com/watch?v=VpnLiomjjZc) · *Milwaukee Bucks*
-
-<small>[Clip it](presserclips://clip?v=VpnLiomjjZc&t=76&q=3) · [Send to Slack](presserclips://clip?v=VpnLiomjjZc&t=76&q=3&slack=1)</small>
-
-**7. Evan Mobley — "I got to play an even bigger role, not having my fellow big man out there." — Evan Mobley on his role when Jarrett Allen is out** [08:15](https://www.youtube.com/watch?v=udYCFQER0i4&t=495s)
+**5. Evan Mobley — "I got to play an even bigger role, not having my fellow big man out there." — Evan Mobley on his role when Jarrett Allen is out** [08:15](https://www.youtube.com/watch?v=udYCFQER0i4&t=495s)
 
 Evan Mobley: "I got to play an even bigger role, not having my fellow big man out there. He does a lot on the floor, protects the paint, and then offensively as well. So I got to do a better job of protecting that paint and I think tonight I did a good job of that, just covering up all the gaps and little nuances that the Sixers run, and just protecting the paint as best as possible."
 
 [https://www.youtube.com/watch?v=udYCFQER0i4&t=495s](https://www.youtube.com/watch?v=udYCFQER0i4&t=495s)
 
-<small>[Clip it](presserclips://clip?v=udYCFQER0i4&t=495&q=7) · [Send to Slack](presserclips://clip?v=udYCFQER0i4&t=495&q=7&slack=1)</small>
-
-From: [Cavs vs 76ers | Donovan Mitchell & Evan Mobley Post Game | 11.06.2026](https://www.youtube.com/watch?v=udYCFQER0i4) · *Cleveland Cavaliers*
+From: [Cavs vs 76ers \| Donovan Mitchell & Evan Mobley Post Game \| 11.06.2026](https://www.youtube.com/watch?v=udYCFQER0i4) · *Cleveland Cavaliers*
 
 <small>[Clip it](presserclips://clip?v=udYCFQER0i4&t=495&q=10) · [Send to Slack](presserclips://clip?v=udYCFQER0i4&t=495&q=10&slack=1)</small>
 
-**8. Darko Rajakovic — "We never stop fighting. It was very inspirational to see how the guys stayed together." — Raptors' resilience and fighting spirit during the game** [00:26](https://www.youtube.com/watch?v=0dOKAc33VTQ&t=26s)
-
-Darko Rajakovic: "To be honest with you tonight, I think this was an inspirational win for us, just because not in a way that we missed players and the other guys stepped up, but the fight that our guys had tonight. When things were not going our way, they were getting 11 offensive rebounds to start the game, we never stop fighting. It was very inspirational to see how the guys stayed together, they continued talking, they continued preaching the right stuff. It was a huge culture win for us, I would say."
-
-[https://www.youtube.com/watch?v=0dOKAc33VTQ&t=26s](https://www.youtube.com/watch?v=0dOKAc33VTQ&t=26s)
-
-<small>[Clip it](presserclips://clip?v=0dOKAc33VTQ&t=26&q=8) · [Send to Slack](presserclips://clip?v=0dOKAc33VTQ&t=26&q=8&slack=1)</small>
-
-From: [Darko Rajakovic | Post Game at Milwaukee Bucks | November 06, 2026](https://www.youtube.com/watch?v=0dOKAc33VTQ) · *Toronto Raptors*
-
-<small>[Clip it](presserclips://clip?v=0dOKAc33VTQ&t=26&q=2) · [Send to Slack](presserclips://clip?v=0dOKAc33VTQ&t=26&q=2&slack=1)</small>
-
-**9. Brayden Burries — "we let our offense dictate our defense that second half" — Brayden Burries on Milwaukee's second-half defensive struggles** [00:05](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s)
+**6. Brayden Burries — "we let our offense dictate our defense that second half" — Brayden Burries on Milwaukee's second-half defensive struggles** [00:05](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s)
 
 **Unidentified speaker:** "As you guys are trying to find offense late, try to get stops late, what were they able to do to kind of prevent you guys from getting those extra stops or getting those couple buckets to get you over the top?"
 
@@ -110,91 +62,81 @@ From: [Darko Rajakovic | Post Game at Milwaukee Bucks | November 06, 2026](https
 
 [https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s)
 
-<small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=9) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=9&slack=1)</small>
-
-From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=Cg-GTNEoXOM) · *Milwaukee Bucks*
+From: [Brayden Burries Postgame Media Availability \| 11.6.26](https://www.youtube.com/watch?v=Cg-GTNEoXOM) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=1) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=5&q=1&slack=1)</small>
 
-**10. Brayden Burries — "it's going to be hard to win a game if they have 16 more times to shoot" — Brayden Burries on the importance of limiting opponent extra possessions** [03:32](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s)
-
-**Unidentified speaker:** "Is that a rookie learning curve type thing, but it's obviously you're noticing a trend, so is that something that's more of a conscious thought then?"
-
-**Brayden Burries:** "I'm just, I really just got to look at the film. But it really is just effort, just wanting to do it, wanting to go. And that's extra possessions, you know, they had like 16 extra possessions than us today, and it's going to be hard to win a game if they have 16 more times to shoot the ball than you."
-
-[https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s)
-
-<small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=10) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=10&slack=1)</small>
-
-From: [Brayden Burries Postgame Media Availability | 11.6.26](https://www.youtube.com/watch?v=Cg-GTNEoXOM) · *Milwaukee Bucks*
-
-<small>[Clip it](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5) · [Send to Slack](presserclips://clip?v=Cg-GTNEoXOM&t=212&q=5&slack=1)</small>
-
-**11. Micah Nori — "It becomes simple math at the end of the day. We had 24 turnovers and we allowed 17 offensive rebounds." — Micah Nori on the impact of turnovers and offensive rebounds** [00:03](https://www.youtube.com/watch?v=HNc7N4PQiBI&t=3s)
-
-Micah Nori: "It becomes simple math at the end of the day. We had 24 turnovers and we allowed 17 offensive rebounds. That adds up to 41 extra possessions for them and we only got 19 because we forced 11 and got 8. By my count, I understand, but that is 22 extra looks that the combination and that was essentially the ball game."
-
-[https://www.youtube.com/watch?v=HNc7N4PQiBI&t=3s](https://www.youtube.com/watch?v=HNc7N4PQiBI&t=3s)
-
-<small>[Clip it](presserclips://clip?v=HNc7N4PQiBI&t=3&q=11) · [Send to Slack](presserclips://clip?v=HNc7N4PQiBI&t=3&q=11&slack=1)</small>
-
-From: [Micah Nori Postgame Interview | Portland Trail Blazers 118, LA Lakers 124 | Nov. 6, 2026](https://www.youtube.com/watch?v=HNc7N4PQiBI) · *Portland Trail Blazers*
-
-<small>[Clip it](presserclips://clip?v=HNc7N4PQiBI&t=3&q=1) · [Send to Slack](presserclips://clip?v=HNc7N4PQiBI&t=3&q=1&slack=1)</small>
-
-**12. Micah Nori — "He has gotten really good at the step-back to the left hand." — Micah Nori on the defensive strategy for guarding Luka Doncic** [02:23](https://www.youtube.com/watch?v=HNc7N4PQiBI&t=143s)
-
-Micah Nori: "He has gotten really good at the step-back to the left hand. That is why the first game we started off kind of just more sending him left and then you are at the mercy of a step-back which is his go-to favorite shot. Tonight we tried to send him to his right and got what we wanted quite honestly early. They started off, they could not make a three so we made him a little bit more of a passer, but the problem was one was the rebounding and then when you turn it over, we were only up nine at the end of the first quarter and they had not made a three."
-
-[https://www.youtube.com/watch?v=HNc7N4PQiBI&t=143s](https://www.youtube.com/watch?v=HNc7N4PQiBI&t=143s)
-
-<small>[Clip it](presserclips://clip?v=HNc7N4PQiBI&t=143&q=12) · [Send to Slack](presserclips://clip?v=HNc7N4PQiBI&t=143&q=12&slack=1)</small>
-
-From: [Micah Nori Postgame Interview | Portland Trail Blazers 118, LA Lakers 124 | Nov. 6, 2026](https://www.youtube.com/watch?v=HNc7N4PQiBI) · *Portland Trail Blazers*
-
-<small>[Clip it](presserclips://clip?v=HNc7N4PQiBI&t=143&q=4) · [Send to Slack](presserclips://clip?v=HNc7N4PQiBI&t=143&q=4&slack=1)</small>
-
-**13. Jared McCain — "just trying to set early ones for Shai, for Jalen, for them to get downhill" — Jared McCain on offensive game plan and spacing** [01:06](https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s)
+**7. Jared McCain — "just trying to set early ones for Shai, for Jalen, for them to get downhill" — Jared McCain on offensive game plan and spacing** [01:06](https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s)
 
 Jared McCain: "Whoever we were trying to attack, just trying to set early ones for Shai, for Jalen, for them to get downhill. They usually come back and double Shai, so being able to pull over. That was the game plan, just make sure we get defenders that we want on the ball, make them tired, make them try and chase Shai or Jalen around. Being able to pull over and obviously when we got it and making shots like that, it's pretty fun to watch."
 
 [https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s](https://www.youtube.com/watch?v=Iy78j9q2xoQ&t=66s)
 
-<small>[Clip it](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=13) · [Send to Slack](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=13&slack=1)</small>
-
-From: [Jared McCain on Team's Playmaking in Memphis | Postgame Media | November 6, 2026](https://www.youtube.com/watch?v=Iy78j9q2xoQ) · *Oklahoma City Thunder*
+From: [Jared McCain on Team's Playmaking in Memphis \| Postgame Media \| November 6, 2026](https://www.youtube.com/watch?v=Iy78j9q2xoQ) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=2) · [Send to Slack](presserclips://clip?v=Iy78j9q2xoQ&t=66&q=2&slack=1)</small>
 
-**14. Dyson Daniels — "our game plan was making him force him left, channel the ball screens" — Dyson Daniels on the defensive game plan against Trae Young** [00:56](https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s)
+**8. Dyson Daniels — "our game plan was making him force him left, channel the ball screens" — Dyson Daniels on the defensive game plan against Trae Young** [00:56](https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s)
 
 Dyson Daniels: "It's different playing against Trae. Obviously, super talented guy. He's a really good player, gets his teammates involved. Our game plan was making him force him left, channel the ball screens and stuff, and keep him contained that way. Trae is a good player, he's going to make some shots, but I thought as a team we did a pretty good job in just containing him and making him take tough shots."
 
 [https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s](https://www.youtube.com/watch?v=NYxPxPKUNSI&t=56s)
 
-<small>[Clip it](presserclips://clip?v=NYxPxPKUNSI&t=56&q=14) · [Send to Slack](presserclips://clip?v=NYxPxPKUNSI&t=56&q=14&slack=1)</small>
-
 From: [Hawks vs. Wizards Postgame Press Conference: Onyeka Okongwu and Dyson Daniels](https://www.youtube.com/watch?v=NYxPxPKUNSI) · *Atlanta Hawks*
 
 <small>[Clip it](presserclips://clip?v=NYxPxPKUNSI&t=56&q=2) · [Send to Slack](presserclips://clip?v=NYxPxPKUNSI&t=56&q=2&slack=1)</small>
 
-**15. Taylor Jenkins — "He earned it. I thought his playmaking, his ability to get downhill, he did a great job." — Taylor Jenkins on the performance of the rookies** [01:41](https://www.youtube.com/watch?v=VpnLiomjjZc&t=101s)
+**9. Jamal Shead — "when guys are ready for their moment, they pop and he popped tonight" — Jamal Shead on Elijah Fisher's resilience and breakout performance** [00:13](https://www.youtube.com/watch?v=_uupgzUP4ak&t=13s)
 
-**Unidentified speaker:** "**Braden** also has 38 minutes. How do you feel about that? Rookies are getting minutes in the 30s in the NBA right now. It's hard to sit a guy like that who's playing well."
+Jamal Shead: "It is awesome because **Elijah Fisher** has been through a small injury this summer, fell off of the two-way, and just been there, just waiting, waiting, waiting. Tonight was awesome because when guys are ready for their moment, they pop and he popped tonight. It was awesome. He got a little hype, he was trying to say feed me, feed me, feed me. It was cool to see him get his shine and really help us win tonight."
 
-**Taylor Jenkins:** "Yeah, he played great. He earned it. I thought his playmaking, his ability to get downhill, he did a great job offensive rebounding, defensive rebounding, was making some shots, getting to the free-throw line. I thought he did a solid job on defense. There's some things he can do better, but he was playing great tonight. I mean **Tyler** had a great night, **Braden** had a great night. They were kind of our best at getting into the paint throughout the game, so reward the kid, he earned it."
+[https://www.youtube.com/watch?v=_uupgzUP4ak&t=13s](https://www.youtube.com/watch?v=_uupgzUP4ak&t=13s)
 
-[https://www.youtube.com/watch?v=VpnLiomjjZc&t=101s](https://www.youtube.com/watch?v=VpnLiomjjZc&t=101s)
+From: [Jamal Shead \| Post Game at Milwaukee Bucks \| November 06, 2026](https://www.youtube.com/watch?v=_uupgzUP4ak) · *Toronto Raptors*
 
-<small>[Clip it](presserclips://clip?v=VpnLiomjjZc&t=101&q=15) · [Send to Slack](presserclips://clip?v=VpnLiomjjZc&t=101&q=15&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=_uupgzUP4ak&t=13&q=1) · [Send to Slack](presserclips://clip?v=_uupgzUP4ak&t=13&q=1&slack=1)</small>
 
-From: [Taylor Jenkins Postgame Press Conference | 11.6.26](https://www.youtube.com/watch?v=VpnLiomjjZc) · *Milwaukee Bucks*
+**10. Donovan Mitchell — "It was big time to have him back, especially considering Jarrett Allen was out." — Donovan Mitchell on the defensive impact of Caris LeVert** [00:49](https://www.youtube.com/watch?v=udYCFQER0i4&t=49s)
 
-<small>[Clip it](presserclips://clip?v=VpnLiomjjZc&t=101&q=4) · [Send to Slack](presserclips://clip?v=VpnLiomjjZc&t=101&q=4&slack=1)</small>
+Donovan Mitchell: "It was big time to have him back, especially considering Jarrett Allen was out. Having him in there, having **Evan Mobley** who has his length, and then **Caris LeVert** who is disrupting the ball. When Evan is on the perimeter, you got a guy like Caris down there challenging guys at the rim, making it tough on guys on ball. It was big time to have him back, especially considering Jarrett Allen was out. You look at what he's done on the defensive end and then offensively, six of 14, plus 22, nine boards, doing it all."
+
+[https://www.youtube.com/watch?v=udYCFQER0i4&t=49s](https://www.youtube.com/watch?v=udYCFQER0i4&t=49s)
+
+From: [Cavs vs 76ers \| Donovan Mitchell & Evan Mobley Post Game \| 11.06.2026](https://www.youtube.com/watch?v=udYCFQER0i4) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=udYCFQER0i4&t=49&q=2) · [Send to Slack](presserclips://clip?v=udYCFQER0i4&t=49&q=2&slack=1)</small>
+
+**11. Hannes Steinbach — "We just try to stay together and stay positive through the rough." — Steinbach on maintaining team positivity amid injury challenges** [01:07](https://www.youtube.com/watch?v=-EEgyeocL8g&t=67s)
+
+Hannes Steinbach: "I think we just try to stay together. I think unfortunately part of the game, injuries, we've been pretty unlucky the last few games, so we just try to stay together and stay positive through the rough."
+
+[https://www.youtube.com/watch?v=-EEgyeocL8g&t=67s](https://www.youtube.com/watch?v=-EEgyeocL8g&t=67s)
+
+From: [Hornets vs Celtics: Hannes Steinbach Postgame Media Availability \| 11/6/2026](https://www.youtube.com/watch?v=-EEgyeocL8g) · *Charlotte Hornets*
+
+<small>[Clip it](presserclips://clip?v=-EEgyeocL8g&t=67&q=3) · [Send to Slack](presserclips://clip?v=-EEgyeocL8g&t=67&q=3&slack=1)</small>
+
+**12. Trendon Watford — "Carlos has been great. He's been out of rotation early in the first couple of games." — Trendon Watford praises Carlos's recent performance** [00:27](https://www.youtube.com/watch?v=0nLDQHgTD7E&t=27s)
+
+Trendon Watford: "**Carlos** has been great. He's been out of rotation early in the first couple of games and right to start. Obviously we know **Carlos** will shoot the hell out of the ball, so I think he's been great. He's been great and I know he's going to continue to do what he does."
+
+[https://www.youtube.com/watch?v=0nLDQHgTD7E&t=27s](https://www.youtube.com/watch?v=0nLDQHgTD7E&t=27s)
+
+From: [Trendon Watford \| Pelicans vs. Timberwolves Postgame Interview 11/6/26](https://www.youtube.com/watch?v=0nLDQHgTD7E) · *New Orleans Pelicans*
+
+<small>[Clip it](presserclips://clip?v=0nLDQHgTD7E&t=27&q=2) · [Send to Slack](presserclips://clip?v=0nLDQHgTD7E&t=27&q=2&slack=1)</small>
+
+**13. Ajay Mitchell — "We wanted to be aggressive from the jump, be physical, and just be ourselves." — Ajay Mitchell on the team's defensive intensity and identity** [00:33](https://www.youtube.com/watch?v=CqXfvEA1sNk&t=33s)
+
+Ajay Mitchell: "We wanted to be aggressive from the jump, be physical, and just be ourselves. I think our defense gives us so much energy, and we know on the road we're going to need that. So, going into every game, really that's our mindset is just setting the tone defensively, being aggressive, being physical, and that's our strength."
+
+[https://www.youtube.com/watch?v=CqXfvEA1sNk&t=33s](https://www.youtube.com/watch?v=CqXfvEA1sNk&t=33s)
+
+From: [Ajay Mitchell on Playing to the Team's Identity \| Postgame Media \| November 6, 2026](https://www.youtube.com/watch?v=CqXfvEA1sNk) · *Oklahoma City Thunder*
+
+<small>[Clip it](presserclips://clip?v=CqXfvEA1sNk&t=33&q=2) · [Send to Slack](presserclips://clip?v=CqXfvEA1sNk&t=33&q=2&slack=1)</small>
 
 ---
-
-# Press conferences
 
 ## Hornets vs Celtics: Hannes Steinbach Postgame Media Availability | 11/6/2026 — *Charlotte Hornets*
 
@@ -433,104 +375,6 @@ _Speakers identified: Unidentified speaker, Luguentz Dort_
 [https://www.youtube.com/watch?v=6J54qK7Anlw&t=158s](https://www.youtube.com/watch?v=6J54qK7Anlw&t=158s)
 
 <small>[Clip it](presserclips://clip?v=6J54qK7Anlw&t=158&q=4) · [Send to Slack](presserclips://clip?v=6J54qK7Anlw&t=158&q=4&slack=1)</small>
-
----
-
-## Toronto Raptors Full Media Availability | Post Game at Milwaukee Bucks | November 06, 2026 — *Toronto Raptors*
-
-Source: [https://www.youtube.com/watch?v=8xx6aCPq0zc](https://www.youtube.com/watch?v=8xx6aCPq0zc)
-
-_Speakers identified: Darko Rajakovic, Jamal Shead, Davion Mitchell_
-
-**1. Darko Rajakovic — "Elijah hit a huge game. I'm really happy for him." — Elijah Fisher's recovery from knee surgery and impact on the game** [00:02](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=2s)
-
-Darko Rajakovic: "Elijah hit a huge game. I'm really happy for him. He had a rough summer dealing with recovery from his knee surgery. He was putting a lot of work in there and trying to get healthy for the start of the training camp. It is amazing. It's a great feeling to see him how he contributed on both ends of the floor."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=2s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=2s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=2&q=1) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=2&q=1&slack=1)</small>
-
-**2. Darko Rajakovic — "This was inspirational a win for us just because the fight that our guys had tonight." — Raptors' resilience and fighting spirit during the game** [00:26](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=26s)
-
-Darko Rajakovic: "This was inspirational a win for us just because the fight that our guys had tonight. When things were not going our way, they were getting 11 offensive rebounds to start the game, we never stopped fighting. It was very inspirational to see how the guys stayed together, they continued talking, they continued preaching the right stuff. It was a huge culture win for us, I would say."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=26s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=26s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=26&q=2) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=26&q=2&slack=1)</small>
-
-**3. Darko Rajakovic — "There were some plays that went our way that could easily end up being theirs." — Raptors' ability to adjust and find winning plays** [01:09](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=69s)
-
-Darko Rajakovic: "There were some plays that went our way that could easily end up being theirs. I mean rebounding, a couple of 50-50 balls that we came up with that we were able to score out of. That game was such that we were figuring out what they are doing, how they are attacking us and we were trying to adjust on the fly. For guys to be able to do that and to adjust and to find the right matchups defensively was very important for us. I think that was a deciding factor in the game."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=69s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=69s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=69&q=3) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=69&q=3&slack=1)</small>
-
-**4. Darko Rajakovic — "What I really noticed tonight with Jamal, he was talking to the team much more." — Jamal Shead's growth and leadership as a point guard** [01:52](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=112s)
-
-Darko Rajakovic: "He had a little bit of a slow start for his standards to start of the year, but that happens to anybody. I think that he is never changing. He puts every single day, he puts great work, great preparation, he brings a lot of spirit. What I really noticed tonight with Jamal, he was talking to the team much more. He was able to go past team mistake or his mistake and just continue to competing. That was a huge win for him tonight and the way how he was running the team and sharing the ball and making sure that everybody is in the right spots, like he did a job of a point guard that was amazing."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=112s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=112s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=112&q=4) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=112&q=4&slack=1)</small>
-
-**5. Darko Rajakovic — "Davion is a winner and when he's healthy, when he's right, he really contributes our team." — Davion Mitchell's value as a winner and defensive contributor** [03:08](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=188s)
-
-Darko Rajakovic: "Davion is a winner and when he's healthy, when he's right, he really contributes our team in so many ways. You are going to look at his stat line, you are going to see 19 points and 11 rebounds, but there is also so many things that he does that he covers for us defensively on defensive end especially that are super important for us. I think that Davion is outstanding player and when he plays with this pop and this energy, it's awesome."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=188s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=188s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=188&q=5) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=188&q=5&slack=1)</small>
-
-**6. Jamal Shead — "When guys are ready for their moment, they pop and he popped tonight." — Jamal Shead on Elijah Fisher's breakout performance** [04:16](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=256s)
-
-**Unidentified speaker:** "What was it like seeing Elijah get a crack and then take full advantage of the way he did tonight?"
-
-**Jamal Shead:** "It's awesome because Elijah has been through a small injury this summer, fought off of the two-way, and just been there, just waiting, waiting, waiting. And tonight was awesome because when guys are ready for their moment, they pop and he popped tonight. So it was awesome. He got a little hype, he was trying to say 'feed me, feed me, feed me'. But it was cool to see him get his shine and really help us win tonight."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=256s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=256s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=256&q=6) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=256&q=6&slack=1)</small>
-
-**7. Jamal Shead — "Us having each other's back, still playing from down 10, not starting the best we could." — Raptors' team resilience and trusting each other** [05:36](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=336s)
-
-Jamal Shead: "I think we had a really big eye opener tonight. I think we were living off of a lot of last year and we figured it out a little bit towards the end of last year, but this year is a whole new year. So I think us having each other's back, still playing from down 10, not starting the best we could, but not getting down on each other, not yelling, not arguing, not putting our heads down, but staying with it and just trusting each other. There's a lot of extra passes tonight, a lot of extra movement, cuts to get other guys open. So I think just having each other's back like that just builds confidence throughout the team."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=336s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=336s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=336&q=7) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=336&q=7&slack=1)</small>
-
-**8. Jamal Shead — "Our biggest thing this year has been our offense has just been stagnant sometimes." — Importance of ball movement in breaking offensive droughts** [06:17](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=377s)
-
-Jamal Shead: "Just moving it, just moving the ball. I think our biggest thing this year has been our offense has just been stagnant sometimes and we'll go with droughts and stuff. We got a lot of movement tonight that really helped us get open shots, even if we missed them. Just staying with each other and staying into that mindset so that we can get open shots and stuff like that. So just being a team more so."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=377s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=377s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=377&q=8) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=377&q=8&slack=1)</small>
-
-**9. Davion Mitchell — "I knew I was going to have to play hard because my mom was coming." — Davion Mitchell on his motivation to play hard** [07:38](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=458s)
-
-Davion Mitchell: "Honestly I didn't know it was being honest, but I knew I was going to have to play hard because my mom was coming."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=458s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=458s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=458&q=9) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=458&q=9&slack=1)</small>
-
-**10. Davion Mitchell — "Jamal is special. He does that with a bunch of guys on the team." — Jamal Shead's impact as a teammate and leader** [08:08](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=488s)
-
-Davion Mitchell: "Jamal is special. He does that with a bunch of guys on the team. Like when he just get going, he's just a battery in somebody's back. So I wouldn't say though it was the plays, but he played a big part in that for sure."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=488s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=488s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=488&q=10) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=488&q=10&slack=1)</small>
-
-**11. Davion Mitchell — "Just staying present. I always just try to be with my feet are." — Davion Mitchell's mindset on staying ready and present** [09:49](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=589s)
-
-Davion Mitchell: "Just staying present. I always just try to be with my feet are. I have big dreams and aspirations for myself, but you know you just got to stay stay ready, stay present, clock in, clock out, stuff like that. So God willing you have nights like these."
-
-[https://www.youtube.com/watch?v=8xx6aCPq0zc&t=589s](https://www.youtube.com/watch?v=8xx6aCPq0zc&t=589s)
-
-<small>[Clip it](presserclips://clip?v=8xx6aCPq0zc&t=589&q=11) · [Send to Slack](presserclips://clip?v=8xx6aCPq0zc&t=589&q=11&slack=1)</small>
 
 ---
 
@@ -1220,9 +1064,11 @@ Kenny Atkinson: "He just keeps seeming to step up to the moment every time there
 
 <small>[Clip it](presserclips://clip?v=mGzYJnnyrY4&t=294&q=9) · [Send to Slack](presserclips://clip?v=mGzYJnnyrY4&t=294&q=9&slack=1)</small>
 
-**10. Kenny Atkinson — "When you have Malik and Tyrese and Peyton, just a ton of youth." — Kenny Atkinson on the team's youth and speed** [05:26](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s)
+**10. Kenny Atkinson — "It looked like you guys were just running track meet there in the third quarter." — Kenny Atkinson on the team's youth and speed** [05:26](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s)
 
-Kenny Atkinson: "When you have **Malik** and **Tyrese** and **Peyton**, just a ton of youth. It looked like you guys were just running track meet there in the third quarter. A big part of that was **Peyton** starting and we got to make sure we're empowering him to bring the ball up, especially if they're going to put their five on him or a lesser defender. He's got to be in attack mode and I thought that was part of it. Then you got **Malik** and **Tyrese** running the wings, it's a great observation up our speed level."
+**Unidentified reporter:** "When you have **Malik** and **Tyrese** and **Peyton**, just a ton of youth."
+
+**Kenny Atkinson:** "It looked like you guys were just running track meet there in the third quarter. A big part of that was **Peyton** starting and we got to make sure we're empowering him to bring the ball up, especially if they're going to put their five on him or a lesser defender. He's got to be in attack mode and I thought that was part of it. Then you got **Malik** and **Tyrese** running the wings, it's a great observation up our speed level."
 
 [https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s](https://www.youtube.com/watch?v=mGzYJnnyrY4&t=326s)
 
@@ -1300,9 +1146,11 @@ Tyler Herro: "We're trying to sustain our game for 48 minutes. We've seen it in 
 
 <small>[Clip it](presserclips://clip?v=t5TK4iL0H24&t=0&q=1) · [Send to Slack](presserclips://clip?v=t5TK4iL0H24&t=0&q=1&slack=1)</small>
 
-**2. Tyler Herro — "I would say Boston is probably the first crunch time to clutch minutes" — Tyler Herro on the team's late-game execution and defensive struggles** [00:23](https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s)
+**2. Tyler Herro — "What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to" — Tyler Herro on the team's late-game execution and defensive struggles** [00:23](https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s)
 
-Tyler Herro: "I would say Boston is probably the first crunch time to clutch minutes, however you want to look at a late type fourth quarter for you guys tonight. Kind of the early fourth before it stretched out you guys kind of had more chances. What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to your stuff if there isn't a second chance or if there isn't a layup? I think defensively, in the first half again we were getting stops. Second half they were comfortable, they were able to score, so now we're taking it out every single time and now we're playing against a set defense. I think the more we get stops and get in transition we can run. They're a really good defensive team, they're long, they play physical, so we get stops, we can run in transition and then we're able to not go against a set defense every time."
+**Unidentified reporter:** "I would say Boston is probably the first crunch time to clutch minutes, however you want to look at a late type fourth quarter for you guys tonight. Kind of the early fourth before it stretched out you guys kind of had more chances."
+
+**Tyler Herro:** "What have you seen these last couple of games, last couple minutes execution-wise which is just trying to get to your stuff if there isn't a second chance or if there isn't a layup? I think defensively, in the first half again we were getting stops. Second half they were comfortable, they were able to score, so now we're taking it out every single time and now we're playing against a set defense. I think the more we get stops and get in transition we can run. They're a really good defensive team, they're long, they play physical, so we get stops, we can run in transition and then we're able to not go against a set defense every time."
 
 [https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s](https://www.youtube.com/watch?v=t5TK4iL0H24&t=23s)
 
@@ -1539,7 +1387,3 @@ Tuomas Iisalo: "Overall, we've tried to figure out the rotation pattern for our 
 [https://www.youtube.com/watch?v=ypqKNoyzqDs&t=236s](https://www.youtube.com/watch?v=ypqKNoyzqDs&t=236s)
 
 <small>[Clip it](presserclips://clip?v=ypqKNoyzqDs&t=236&q=6) · [Send to Slack](presserclips://clip?v=ypqKNoyzqDs&t=236&q=6&slack=1)</small>
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

@@ -38,6 +38,10 @@
         "context": "Head coach Darko Rajakovic discusses Elijah Fisher's performance following his recovery from knee surgery.",
         "best": true,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "0dOKAc33VTQ",
+        "rank": 1
       }
     },
     {
@@ -66,6 +70,10 @@
         "context": "Darko Rajakovic praises the team's resilience and fighting spirit during their win against the Milwaukee Bucks.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "0dOKAc33VTQ",
+        "rank": 2
       }
     },
     {
@@ -96,6 +104,10 @@
         "context": "Darko Rajakovic explains how the team adjusted defensively during the game against the Milwaukee Bucks.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "0dOKAc33VTQ",
+        "rank": 3
       }
     },
     {
@@ -129,6 +141,10 @@
         "context": "Darko Rajakovic evaluates the growth and leadership Jamal Shead displayed as a point guard during the game.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "0dOKAc33VTQ",
+        "rank": 4
       }
     },
     {
@@ -160,6 +176,10 @@
         "context": "Darko Rajakovic highlights the defensive contributions and energy Davion Mitchell brought to the team.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "0dOKAc33VTQ",
+        "rank": 5
       }
     },
     {
@@ -205,6 +225,10 @@
         "context": "Jamal Shead reacts to Elijah Fisher's breakout performance after returning from a summer injury.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_uupgzUP4ak",
+        "rank": 1
       }
     },
     {
@@ -234,6 +258,10 @@
         "context": "Jamal Shead reflects on the importance of team chemistry and resilience in overcoming a slow start.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_uupgzUP4ak",
+        "rank": 2
       }
     },
     {
@@ -261,6 +289,10 @@
         "context": "Jamal Shead discusses the importance of ball movement in avoiding offensive droughts.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_uupgzUP4ak",
+        "rank": 3
       }
     },
     {
@@ -289,7 +321,11 @@
         "best": false,
         "prompt": "47544341"
       },
-      "speaker_source": "single-speaker video"
+      "speaker_source": "single-speaker video",
+      "duplicate_of": {
+        "video_id": "xQXyoSTmdEI",
+        "rank": 1
+      }
     },
     {
       "rank": 10,
@@ -323,7 +359,11 @@
         "best": false,
         "prompt": "47544341"
       },
-      "speaker_source": "single-speaker video"
+      "speaker_source": "single-speaker video",
+      "duplicate_of": {
+        "video_id": "xQXyoSTmdEI",
+        "rank": 2
+      }
     },
     {
       "rank": 11,
@@ -351,7 +391,11 @@
         "best": false,
         "prompt": "47544341"
       },
-      "speaker_source": "single-speaker video"
+      "speaker_source": "single-speaker video",
+      "duplicate_of": {
+        "video_id": "xQXyoSTmdEI",
+        "rank": 4
+      }
     }
   ],
   "content_type": "presser",
@@ -364,5 +408,7 @@
   "duration_seconds": 644,
   "processed_at": "2026-11-07T07:17:34Z",
   "run_id": "2026-11-07-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

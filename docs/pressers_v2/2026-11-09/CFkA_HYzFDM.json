@@ -162,5 +162,7 @@
   "duration_seconds": 173,
   "processed_at": "2026-11-09T08:05:03Z",
   "run_id": "2026-11-09-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

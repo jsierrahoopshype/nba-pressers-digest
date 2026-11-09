@@ -301,9 +301,18 @@
         "Tyrese",
         "Peyton"
       ],
-      "excerpt": "When you have Malik and Tyrese and Peyton, just a ton of youth.",
-      "quote": "When you have Malik and Tyrese and Peyton, just a ton of youth. It looked like you guys were just running track meet there in the third quarter. A big part of that was Peyton starting and we got to make sure we're empowering him to bring the ball up, especially if they're going to put their five on him or a lesser defender. He's got to be in attack mode and I thought that was part of it. Then you got Malik and Tyrese running the wings, it's a great observation up our speed level.",
-      "text_blocks": [],
+      "excerpt": "It looked like you guys were just running track meet there in the third quarter.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When you have Malik and Tyrese and Peyton, just a ton of youth."
+        },
+        {
+          "speaker": "Kenny Atkinson",
+          "text": "It looked like you guys were just running track meet there in the third quarter. A big part of that was Peyton starting and we got to make sure we're empowering him to bring the ball up, especially if they're going to put their five on him or a lesser defender. He's got to be in attack mode and I thought that was part of it. Then you got Malik and Tyrese running the wings, it's a great observation up our speed level."
+        }
+      ],
       "start_seconds": 326,
       "end_seconds": 363,
       "speaker_confidence": "named",
@@ -324,7 +333,12 @@
         "context": "Kenny Atkinson discusses the team's increased speed and youth movement on the floor.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speakers": [
+        "Unidentified reporter",
+        "Kenny Atkinson"
+      ],
+      "reporter_split": true
     },
     {
       "rank": 11,
@@ -366,5 +380,7 @@
   "duration_seconds": 416,
   "processed_at": "2026-11-07T07:18:17Z",
   "run_id": "2026-11-07-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

@@ -118,5 +118,7 @@
   "duration_seconds": 342,
   "processed_at": "2026-11-08T07:28:07Z",
   "run_id": "2026-11-08-overnight",
-  "is_one_off": false
+  "is_one_off": false,
+  "reporter_check": 1,
+  "reporter_check_source": "gemini"
 }

@@ -8,8 +8,6 @@ Kenny Atkinson: "Yeah, I mean he wasn't able to go and listen, I think these thi
 
 [https://www.youtube.com/watch?v=hyTE6ccIAsk&t=445s](https://www.youtube.com/watch?v=hyTE6ccIAsk&t=445s)
 
-<small>[Clip it](presserclips://clip?v=hyTE6ccIAsk&t=445&q=1) · [Send to Slack](presserclips://clip?v=hyTE6ccIAsk&t=445&q=1&slack=1)</small>
-
 From: [Cavs vs Thunder | Kenny Atkinson Post Game | 11.02.2026](https://www.youtube.com/watch?v=hyTE6ccIAsk) · *Cleveland Cavaliers*
 
 <small>[Clip it](presserclips://clip?v=hyTE6ccIAsk&t=445&q=8) · [Send to Slack](presserclips://clip?v=hyTE6ccIAsk&t=445&q=8&slack=1)</small>
@@ -19,8 +17,6 @@ From: [Cavs vs Thunder | Kenny Atkinson Post Game | 11.02.2026](https://www.yout
 Jordan Ott: "I am not sure exactly. I think it was opposite of our bench, whether he was going towards the rim for some reason, whether he was tagging or whatever, but yeah, it is just his right calf."
 
 [https://www.youtube.com/watch?v=3khZ-SuiYpQ&t=23s](https://www.youtube.com/watch?v=3khZ-SuiYpQ&t=23s)
-
-<small>[Clip it](presserclips://clip?v=3khZ-SuiYpQ&t=23&q=2) · [Send to Slack](presserclips://clip?v=3khZ-SuiYpQ&t=23&q=2&slack=1)</small>
 
 From: [Head Coach Jordan Ott Postgame Media Availability | 11-2-26](https://www.youtube.com/watch?v=3khZ-SuiYpQ) · *Phoenix Suns*
 
@@ -32,8 +28,6 @@ Nick Nurse: "His role has shifted a little bit for us this year and that one of 
 
 [https://www.youtube.com/watch?v=QVOwzm4j5-c&t=375s](https://www.youtube.com/watch?v=QVOwzm4j5-c&t=375s)
 
-<small>[Clip it](presserclips://clip?v=QVOwzm4j5-c&t=375&q=3) · [Send to Slack](presserclips://clip?v=QVOwzm4j5-c&t=375&q=3&slack=1)</small>
-
 From: [Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.02.26](https://www.youtube.com/watch?v=QVOwzm4j5-c) · *Philadelphia 76ers*
 
 <small>[Clip it](presserclips://clip?v=QVOwzm4j5-c&t=375&q=6) · [Send to Slack](presserclips://clip?v=QVOwzm4j5-c&t=375&q=6&slack=1)</small>
@@ -43,8 +37,6 @@ From: [Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11
 Jordan Ott: "It is just frustrating with the contact of a bump on a cross screen versus driving downhill appears to be different disruption. When you are just going to take a cut to get a catch versus downhill, we are top ten in drives, we are bottom five in free throws. So some of that, we definitely have to clean up, fouling the jump shooters, but trying to figure out what exactly pressure you can apply and which pressure puts you in a spot to where free throws are rewarded."
 
 [https://www.youtube.com/watch?v=3khZ-SuiYpQ&t=140s](https://www.youtube.com/watch?v=3khZ-SuiYpQ&t=140s)
-
-<small>[Clip it](presserclips://clip?v=3khZ-SuiYpQ&t=140&q=4) · [Send to Slack](presserclips://clip?v=3khZ-SuiYpQ&t=140&q=4&slack=1)</small>
 
 From: [Head Coach Jordan Ott Postgame Media Availability | 11-2-26](https://www.youtube.com/watch?v=3khZ-SuiYpQ) · *Phoenix Suns*
 
@@ -56,8 +48,6 @@ Rick Carlisle: "**Braden Smith** was tremendous and showed the kind of competito
 
 [https://www.youtube.com/watch?v=8_rJJTVEf0I&t=78s](https://www.youtube.com/watch?v=8_rJJTVEf0I&t=78s)
 
-<small>[Clip it](presserclips://clip?v=8_rJJTVEf0I&t=78&q=5) · [Send to Slack](presserclips://clip?v=8_rJJTVEf0I&t=78&q=5&slack=1)</small>
-
 From: [Rick Carlisle, Braden Smith & Quenton Jackson Postgame Media Availability | November 2, 2026](https://www.youtube.com/watch?v=8_rJJTVEf0I) · *Indiana Pacers*
 
 <small>[Clip it](presserclips://clip?v=8_rJJTVEf0I&t=78&q=2) · [Send to Slack](presserclips://clip?v=8_rJJTVEf0I&t=78&q=2&slack=1)</small>
@@ -67,8 +57,6 @@ From: [Rick Carlisle, Braden Smith & Quenton Jackson Postgame Media Availability
 Quin Snyder: "The paint is something that we've got to shore up one way or the other, where you're kind of picking your poison at times, but when there's shooters on the court, that's probably the biggest thing for us right now defensively is just not doing a better job protecting the paint because it's going to be really difficult to win when teams are scoring in the paint like these guys did and some other teams have too."
 
 [https://www.youtube.com/watch?v=LAwNZJYlivQ&t=177s](https://www.youtube.com/watch?v=LAwNZJYlivQ&t=177s)
-
-<small>[Clip it](presserclips://clip?v=LAwNZJYlivQ&t=177&q=6) · [Send to Slack](presserclips://clip?v=LAwNZJYlivQ&t=177&q=6&slack=1)</small>
 
 From: [Hawks vs. Pacers Postgame Press Conference: Head Coach Quin Snyder](https://www.youtube.com/watch?v=LAwNZJYlivQ) · *Atlanta Hawks*
 
@@ -80,8 +68,6 @@ Shai Gilgeous-Alexander: "My head now is just trying to figure out what winning 
 
 [https://www.youtube.com/watch?v=Nl1FvgRJrFs&t=160s](https://www.youtube.com/watch?v=Nl1FvgRJrFs&t=160s)
 
-<small>[Clip it](presserclips://clip?v=Nl1FvgRJrFs&t=160&q=7) · [Send to Slack](presserclips://clip?v=Nl1FvgRJrFs&t=160&q=7&slack=1)</small>
-
 From: [Postgame Media Availability with Shai Gilgeous-Alexander | OKC Thunder | November 2, 2026](https://www.youtube.com/watch?v=Nl1FvgRJrFs) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=Nl1FvgRJrFs&t=160&q=3) · [Send to Slack](presserclips://clip?v=Nl1FvgRJrFs&t=160&q=3&slack=1)</small>
@@ -91,8 +77,6 @@ From: [Postgame Media Availability with Shai Gilgeous-Alexander | OKC Thunder | 
 Maxime Aubin: "After the finals, with all the criticism he had, I was really hopeful I could try to talk to him one-on-one, like a lot of other people. Let's say he was very quiet. So I talked to his people, to his agents, and they said basically he doesn't want to talk about the finals. From what I understand now, this is still something that hurts him, you know, what happened in the finals. He doesn't really want to talk about it yet."
 
 [https://www.youtube.com/watch?v=Wr4wIbIRk8s&t=0s](https://www.youtube.com/watch?v=Wr4wIbIRk8s&t=0s)
-
-<small>[Clip it](presserclips://clip?v=Wr4wIbIRk8s&t=0&q=8) · [Send to Slack](presserclips://clip?v=Wr4wIbIRk8s&t=0&q=8&slack=1)</small>
 
 From: [L'Equipe journalist Maxime Aubin on Victor Wembanyama dealing with the NBA Finals aftermath](https://www.youtube.com/watch?v=Wr4wIbIRk8s) · *HoopsHype*
 
@@ -104,8 +88,6 @@ Mark Daigneault: "There's certain nights when you have a player like that where 
 
 [https://www.youtube.com/watch?v=bzsDtldF50U&t=49s](https://www.youtube.com/watch?v=bzsDtldF50U&t=49s)
 
-<small>[Clip it](presserclips://clip?v=bzsDtldF50U&t=49&q=9) · [Send to Slack](presserclips://clip?v=bzsDtldF50U&t=49&q=9&slack=1)</small>
-
 From: [Postgame Media Availability with Coach Daigneault | OKC Thunder | November 2, 2026](https://www.youtube.com/watch?v=bzsDtldF50U) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=bzsDtldF50U&t=49&q=2) · [Send to Slack](presserclips://clip?v=bzsDtldF50U&t=49&q=2&slack=1)</small>
@@ -115,8 +97,6 @@ From: [Postgame Media Availability with Coach Daigneault | OKC Thunder | Novembe
 Chris Finch: "LaMelo has to figure it out. The turnovers are unnecessary. But to be fair, they're fouling him all over the floor. They got their hands on him, they're bumping him, they're holding him, they're riding him off his line. At the other end of the floor, he's being whistled for a bunch of touch fouls. The way that they allow people to just put their hands on him over the full court, I thought we got rid of that stuff in the 80s, but apparently not."
 
 [https://www.youtube.com/watch?v=ecAd5JzB22A&t=0s](https://www.youtube.com/watch?v=ecAd5JzB22A&t=0s)
-
-<small>[Clip it](presserclips://clip?v=ecAd5JzB22A&t=0&q=10) · [Send to Slack](presserclips://clip?v=ecAd5JzB22A&t=0&q=10&slack=1)</small>
 
 From: [Chris Finch on LaMelo Ball getting into foul trouble](https://www.youtube.com/watch?v=ecAd5JzB22A) · *HoopsHype*
 
@@ -128,8 +108,6 @@ Coby White: "Obviously turnovers are a big problem, something we have to cut dow
 
 [https://www.youtube.com/watch?v=iAAKcjbybT0&t=64s](https://www.youtube.com/watch?v=iAAKcjbybT0&t=64s)
 
-<small>[Clip it](presserclips://clip?v=iAAKcjbybT0&t=64&q=11) · [Send to Slack](presserclips://clip?v=iAAKcjbybT0&t=64&q=11&slack=1)</small>
-
 From: [Hornets vs Pistons: Coby White Postgame Media Availability | 11/2/2026](https://www.youtube.com/watch?v=iAAKcjbybT0) · *Charlotte Hornets*
 
 <small>[Clip it](presserclips://clip?v=iAAKcjbybT0&t=64&q=2) · [Send to Slack](presserclips://clip?v=iAAKcjbybT0&t=64&q=2&slack=1)</small>
@@ -139,8 +117,6 @@ From: [Hornets vs Pistons: Coby White Postgame Media Availability | 11/2/2026](h
 Darko Rajakovic: "We did a lot of different stuff there, a lot of different players guarding **Darius Garland**. He's the head of the snake of their team and we needed to have Jacob and **Jamal** and **Scottie Barnes** down the stretch. **Scottie Barnes** loves those challenges. He loves to guard the best players, he loves to impose his will defensively. I thought that was high-level defensive performance from **Scottie Barnes** tonight."
 
 [https://www.youtube.com/watch?v=pxIno5cFnOc&t=341s](https://www.youtube.com/watch?v=pxIno5cFnOc&t=341s)
-
-<small>[Clip it](presserclips://clip?v=pxIno5cFnOc&t=341&q=12) · [Send to Slack](presserclips://clip?v=pxIno5cFnOc&t=341&q=12&slack=1)</small>
 
 From: [Darko Rajakovic | Post Game vs Los Angeles Clippers | November 02, 2026](https://www.youtube.com/watch?v=pxIno5cFnOc) · *Toronto Raptors*
 
@@ -152,8 +128,6 @@ Taylor Jenkins: "Just wanted to do something different. Was excited about the ch
 
 [https://www.youtube.com/watch?v=zMdFFwD4V20&t=3s](https://www.youtube.com/watch?v=zMdFFwD4V20&t=3s)
 
-<small>[Clip it](presserclips://clip?v=zMdFFwD4V20&t=3&q=13) · [Send to Slack](presserclips://clip?v=zMdFFwD4V20&t=3&q=13&slack=1)</small>
-
 From: [Taylor Jenkins Postgame Press Conference | 11.2.26](https://www.youtube.com/watch?v=zMdFFwD4V20) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=zMdFFwD4V20&t=3&q=1) · [Send to Slack](presserclips://clip?v=zMdFFwD4V20&t=3&q=1&slack=1)</small>
@@ -163,8 +137,6 @@ From: [Taylor Jenkins Postgame Press Conference | 11.2.26](https://www.youtube.c
 Mario Hezonja: "That's my role. It's extremely important for us. I know that probably everybody knows me for scoring, but now it's time to show other things as well, especially on defensive. I'm very curious about how is that defense going to look for me at the end of the season, where is it going to rank me. That's a personal challenge. I even told Mike G and Kenny, just let me guard the best and then it will help us because we can get into more switching."
 
 [https://www.youtube.com/watch?v=zX4OQuWBYbI&t=117s](https://www.youtube.com/watch?v=zX4OQuWBYbI&t=117s)
-
-<small>[Clip it](presserclips://clip?v=zX4OQuWBYbI&t=117&q=14) · [Send to Slack](presserclips://clip?v=zX4OQuWBYbI&t=117&q=14&slack=1)</small>
 
 From: [Cavs vs Thunder | Mario Hezonja Post Game | 11.02.2026](https://www.youtube.com/watch?v=zX4OQuWBYbI) · *Cleveland Cavaliers*
 
@@ -176,8 +148,6 @@ Ty Jerome: "That's who he is, man. He's our leader, he's a veteran presence. He'
 
 [https://www.youtube.com/watch?v=P9NRqwyOLSY&t=218s](https://www.youtube.com/watch?v=P9NRqwyOLSY&t=218s)
 
-<small>[Clip it](presserclips://clip?v=P9NRqwyOLSY&t=218&q=15) · [Send to Slack](presserclips://clip?v=P9NRqwyOLSY&t=218&q=15&slack=1)</small>
-
 From: [Ty Jerome Press Conference | Grizzlies vs. Pelicans](https://www.youtube.com/watch?v=P9NRqwyOLSY) · *Memphis Grizzlies*
 
 <small>[Clip it](presserclips://clip?v=P9NRqwyOLSY&t=218&q=5) · [Send to Slack](presserclips://clip?v=P9NRqwyOLSY&t=218&q=5&slack=1)</small>
@@ -187,8 +157,6 @@ From: [Ty Jerome Press Conference | Grizzlies vs. Pelicans](https://www.youtube.
 Jamahl Mosley: "I think that goes to the work that he and **Zion** have put in. Just for him to have the belief and us having the belief in him that he can knock that shot down. He was comfortable the whole time. There are a few times he felt he needed to turn the corner, but then he registered how the game was being played, put the ball in his hands, and he made the play. But to me, one of the biggest plays of the night was that last stop by Trey Murphy. Him being one of those two-way guys that can give you points but also can sit down and guard the different matchups night in and night out."
 
 [https://www.youtube.com/watch?v=UEVWVNpGx7E&t=169s](https://www.youtube.com/watch?v=UEVWVNpGx7E&t=169s)
-
-<small>[Clip it](presserclips://clip?v=UEVWVNpGx7E&t=169&q=16) · [Send to Slack](presserclips://clip?v=UEVWVNpGx7E&t=169&q=16&slack=1)</small>
 
 From: [Jamahl Mosley | Pelicans vs Grizzlies Postgame Interview 11/2/26](https://www.youtube.com/watch?v=UEVWVNpGx7E) · *New Orleans Pelicans*
 
@@ -200,8 +168,6 @@ Trey Lyles: "Honestly, it's probably one of the better coaches I've played for a
 
 [https://www.youtube.com/watch?v=WOxG6LCvWZ0&t=225s](https://www.youtube.com/watch?v=WOxG6LCvWZ0&t=225s)
 
-<small>[Clip it](presserclips://clip?v=WOxG6LCvWZ0&t=225&q=17) · [Send to Slack](presserclips://clip?v=WOxG6LCvWZ0&t=225&q=17&slack=1)</small>
-
 From: [“I'm Getting More Comfortable Finding My Spots.” | Trey Lyles Postgame Sound | 11.2.26](https://www.youtube.com/watch?v=WOxG6LCvWZ0) · *Minnesota Timberwolves*
 
 <small>[Clip it](presserclips://clip?v=WOxG6LCvWZ0&t=225&q=8) · [Send to Slack](presserclips://clip?v=WOxG6LCvWZ0&t=225&q=8&slack=1)</small>
@@ -211,8 +177,6 @@ From: [“I'm Getting More Comfortable Finding My Spots.” | Trey Lyles Postgam
 Darko Rajaković: "It's great to get every win for him. He loves this team, he loves his teammates, he loves to be around them and it means a lot to him and he sees that the guys do well. He's just starting the season with us, there's going to be a period of him getting adjusted to the team and his teammates to him as well, but he's a high-level player that brings a lot of different stuff for us."
 
 [https://www.youtube.com/watch?v=ZpaiXGLz3Uc&t=405s](https://www.youtube.com/watch?v=ZpaiXGLz3Uc&t=405s)
-
-<small>[Clip it](presserclips://clip?v=ZpaiXGLz3Uc&t=405&q=18) · [Send to Slack](presserclips://clip?v=ZpaiXGLz3Uc&t=405&q=18&slack=1)</small>
 
 From: [Toronto Raptors Full Media Availability | Post Game vs Los Angeles Clippers | November 02, 2026](https://www.youtube.com/watch?v=ZpaiXGLz3Uc) · *Toronto Raptors*
 
@@ -224,8 +188,6 @@ VJ Edgecombe: "**LeBron James** is such an elite playmaker. If you're open, he's
 
 [https://www.youtube.com/watch?v=4k6fTrmTB3o&t=32s](https://www.youtube.com/watch?v=4k6fTrmTB3o&t=32s)
 
-<small>[Clip it](presserclips://clip?v=4k6fTrmTB3o&t=32&q=19) · [Send to Slack](presserclips://clip?v=4k6fTrmTB3o&t=32&q=19&slack=1)</small>
-
 From: [Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 11.02.26](https://www.youtube.com/watch?v=4k6fTrmTB3o) · *Philadelphia 76ers*
 
 <small>[Clip it](presserclips://clip?v=4k6fTrmTB3o&t=32&q=1) · [Send to Slack](presserclips://clip?v=4k6fTrmTB3o&t=32&q=1&slack=1)</small>
@@ -235,8 +197,6 @@ From: [Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 1
 VJ Edgecombe: "**LeBron James** told me don't stop running. He's going to get the pass there. In training camp, that was a learning moment for me. You tend to slow down after a while when you don't get it the first two runs. You run hard, damn, I ain't get it. But no, I'm just going to keep running, even if I just create a driving lane for my teammate or something. I'm not per se going to always get the ball if I run, but it might just create an advantage for somebody else."
 
 [https://www.youtube.com/watch?v=4k6fTrmTB3o&t=238s](https://www.youtube.com/watch?v=4k6fTrmTB3o&t=238s)
-
-<small>[Clip it](presserclips://clip?v=4k6fTrmTB3o&t=238&q=20) · [Send to Slack](presserclips://clip?v=4k6fTrmTB3o&t=238&q=20&slack=1)</small>
 
 From: [Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 11.02.26](https://www.youtube.com/watch?v=4k6fTrmTB3o) · *Philadelphia 76ers*
 
@@ -248,8 +208,6 @@ Rick Carlisle: "I told the guys after the game that the night after the Palace b
 
 [https://www.youtube.com/watch?v=8_rJJTVEf0I&t=0s](https://www.youtube.com/watch?v=8_rJJTVEf0I&t=0s)
 
-<small>[Clip it](presserclips://clip?v=8_rJJTVEf0I&t=0&q=21) · [Send to Slack](presserclips://clip?v=8_rJJTVEf0I&t=0&q=21&slack=1)</small>
-
 From: [Rick Carlisle, Braden Smith & Quenton Jackson Postgame Media Availability | November 2, 2026](https://www.youtube.com/watch?v=8_rJJTVEf0I) · *Indiana Pacers*
 
 <small>[Clip it](presserclips://clip?v=8_rJJTVEf0I&t=0&q=1) · [Send to Slack](presserclips://clip?v=8_rJJTVEf0I&t=0&q=1&slack=1)</small>
@@ -259,8 +217,6 @@ From: [Rick Carlisle, Braden Smith & Quenton Jackson Postgame Media Availability
 Coach Sweeney: "They definitely impacted it. Credit to their team defense, they did a good job, especially in that second half, third quarter. I thought we got some good looks from three that we missed. I think we were one for 11 in the third quarter from three. On the other end, **Anthony Davis** is a problem. Showed it tonight, was very, very efficient. We did a little bit better job in the second half on him, but just throughout the course of the game, he impacted it a lot on both ends."
 
 [https://www.youtube.com/watch?v=8igYlnngZ40&t=10s](https://www.youtube.com/watch?v=8igYlnngZ40&t=10s)
-
-<small>[Clip it](presserclips://clip?v=8igYlnngZ40&t=10&q=22) · [Send to Slack](presserclips://clip?v=8igYlnngZ40&t=10&q=22&slack=1)</small>
 
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. WASHINGTON WIZARDS | COACH SWEENEY, DESMOND BANE & FRANZ WAGNER](https://www.youtube.com/watch?v=8igYlnngZ40) · *Orlando Magic*
 
@@ -272,8 +228,6 @@ Micah Nori: "Shout out **Chris Youngblood** to come in off the bench when Vic ge
 
 [https://www.youtube.com/watch?v=FIBQQWXCkp0&t=37s](https://www.youtube.com/watch?v=FIBQQWXCkp0&t=37s)
 
-<small>[Clip it](presserclips://clip?v=FIBQQWXCkp0&t=37&q=23) · [Send to Slack](presserclips://clip?v=FIBQQWXCkp0&t=37&q=23&slack=1)</small>
-
 From: [Micah Nori Postgame Interview |  Portland Trail Blazers 118, Denver Nuggets 110 | Nov. 2, 2026](https://www.youtube.com/watch?v=FIBQQWXCkp0) · *Portland Trail Blazers*
 
 <small>[Clip it](presserclips://clip?v=FIBQQWXCkp0&t=37&q=1) · [Send to Slack](presserclips://clip?v=FIBQQWXCkp0&t=37&q=1&slack=1)</small>
@@ -283,8 +237,6 @@ From: [Micah Nori Postgame Interview |  Portland Trail Blazers 118, Denver Nugge
 Micah Nori: "I think number one, he shoots it when he's open and that's what he is. But I also liked his defensive physicality. He was able to switch onto Jamal and we didn't lose anything defensively with him. He's a floor spacer and I thought that he just competes. That's what I liked a lot."
 
 [https://www.youtube.com/watch?v=FIBQQWXCkp0&t=49s](https://www.youtube.com/watch?v=FIBQQWXCkp0&t=49s)
-
-<small>[Clip it](presserclips://clip?v=FIBQQWXCkp0&t=49&q=24) · [Send to Slack](presserclips://clip?v=FIBQQWXCkp0&t=49&q=24&slack=1)</small>
 
 From: [Micah Nori Postgame Interview |  Portland Trail Blazers 118, Denver Nuggets 110 | Nov. 2, 2026](https://www.youtube.com/watch?v=FIBQQWXCkp0) · *Portland Trail Blazers*
 
@@ -297,8 +249,6 @@ From: [Micah Nori Postgame Interview |  Portland Trail Blazers 118, Denver Nugge
 **Cameron Boozer:** "I would say C."
 
 [https://www.youtube.com/watch?v=GIDZ04-GiV8&t=81s](https://www.youtube.com/watch?v=GIDZ04-GiV8&t=81s)
-
-<small>[Clip it](presserclips://clip?v=GIDZ04-GiV8&t=81&q=25) · [Send to Slack](presserclips://clip?v=GIDZ04-GiV8&t=81&q=25&slack=1)</small>
 
 From: [Cameron Boozer Press Conference | Grizzlies vs. Pelicans](https://www.youtube.com/watch?v=GIDZ04-GiV8) · *Memphis Grizzlies*
 
