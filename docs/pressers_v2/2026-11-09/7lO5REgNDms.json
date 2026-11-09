@@ -1,0 +1,279 @@
+{
+  "video_title": "\"Everyone's Contributing To Our High Quality Basketball.\" | Chris Finch Postgame Sound | 11.8.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:00",
+      "summary_phrase": "Bench players providing energy and rhythm for the Timberwolves",
+      "names_mentioned": [
+        "Jalen Clark",
+        "Trey Lyles",
+        "Yohan"
+      ],
+      "excerpt": "I thought everyone gave us a bunch of juice coming off the bench.",
+      "quote": "Great energy. Those guys really came in, gave us energy off the bench was really good. And Jalen Clark and Trey Lyles in particular, you know, Yohan as well. I thought everyone gave us a bunch of juice coming off the bench. Starters looked a little sluggish at times, and then we got to some lineups where we found some guys who could string together some rhythm.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch praised the energy from the Timberwolves bench tonight, specifically highlighting the contributions of Jalen Clark, Trey Lyles, and Yohan to help the team find a rhythm.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Clark",
+          "Trey Lyles",
+          "Yohan Traore"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch discusses the impact of bench players on the team's energy during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:35",
+      "summary_phrase": "Defensive identity and Yohan's role as an X-factor",
+      "names_mentioned": [
+        "Yohan"
+      ],
+      "excerpt": "Yohan continues to be an X-factor for us.",
+      "quote": "It has to be defensive led, it has to be energy plays. Yohan continues to be an X-factor for us. We need his punch. When he's playing downhill and turning corners and stuff like that like he was in the first, all throughout the game, he's really a difference maker for us.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch calls Yohan an X-factor for the Timberwolves, noting that when he is playing downhill and turning corners, he is a real difference maker for the team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Yohan Traore"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the importance of Yohan Traore's defensive energy and offensive playstyle to the team's success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:04",
+      "summary_phrase": "Team contributions and high-quality shot generation",
+      "names_mentioned": [],
+      "excerpt": "The shots that we've been able to generate for the most part late in the game have been high quality.",
+      "quote": "We've been getting contributions from everybody up and down the roster at times. The way we've been able to come together in the fourth and play our best basketball when it mattered the most, to execute, find great shots. The shots that we've been able to generate for the most part late in the game have been high quality.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch says the Timberwolves are generating high quality shots late in games and credits the full roster for contributing to their recent fourth quarter execution.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch comments on the team's ability to generate high-quality shots and execute during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "01:41",
+      "summary_phrase": "Managing rotation and lineup combinations with TJ's return",
+      "names_mentioned": [
+        "TJ"
+      ],
+      "excerpt": "It's feasible for sure, as long as everyone's earning those minutes.",
+      "quote": "It's feasible for sure, as long as everyone's earning those minutes. But we're just going to have to continue to play with the lineup combinations and see. Obviously, game to game, it's going to be a little different.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Chris Finch says rotation changes remain on the table as the Timberwolves look to integrate players, noting that lineup combinations will continue to be evaluated on a game to game basis.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch addresses how he manages rotation and lineup combinations following the return of a player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "02:08",
+      "summary_phrase": "LaMelo and Ayo's backcourt chemistry",
+      "names_mentioned": [
+        "LaMelo",
+        "Ayo"
+      ],
+      "excerpt": "They both can really score at all different levels.",
+      "quote": "They both can really score at all different levels. Ayo's downhill speed, LaMelo's ability to get downhill, those two guys open up a lot of things for everybody. They're both really good shooters at the top of the floor.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch on the LaMelo and Ayo backcourt duo: They both can score at all levels and their downhill speed opens up a lot of things for the rest of the team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball",
+          "Ayo Dosunmu"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch evaluates the scoring abilities and backcourt chemistry between LaMelo Ball and Ayo Dosunmu.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "02:30",
+      "summary_phrase": "Defensive success through team buy-in",
+      "names_mentioned": [
+        "Yohan",
+        "Bones"
+      ],
+      "excerpt": "We're getting really good defensive efforts from Yohan, we're getting great defensive efforts from Bones.",
+      "quote": "Not if we all bought in. We're getting really good defensive efforts from Yohan, we're getting great defensive efforts from Bones and some of these guys that we're challenging them every day to play better defense. Those guys have really responded.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Chris Finch credits Yohan and Bones for responding to the coaching staff's challenge to improve their defensive efforts.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Yohan Traore",
+          "Bones Hyland"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises the defensive buy-in and effort shown by Yohan Traore and Bones Hyland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Chris Finch",
+      "timestamp": "02:59",
+      "summary_phrase": "Evaluating Ivan's scoring efficiency and volume",
+      "names_mentioned": [
+        "Ivan"
+      ],
+      "excerpt": "I think it's always been in there.",
+      "quote": "I think it's always been in there. It's not like he's necessarily had to go and search for something to up his production. I think a lot of it is also related to just the shots that we've been able to generate. They're pretty high quality, so he's making a lot of big shots, big timely shots, and they feel open and in the rhythm of the offense.",
+      "text_blocks": [],
+      "start_seconds": 179,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch says Ivan is hitting big timely shots because the offense is generating high quality looks that allow him to stay in a rhythm.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ivan"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the scoring efficiency and shot quality of a player named Ivan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Chris Finch",
+      "timestamp": "03:44",
+      "summary_phrase": "Developing mental fortitude to close out games",
+      "names_mentioned": [],
+      "excerpt": "Once you play to a certain level and you show it to yourself they're capable of it.",
+      "quote": "You got to try to play to a standard that you lay down in the beginning of the season every night. Once you play to a certain level and you show it to yourself they're capable of it, then the challenge is to measure up every single night. I didn't think we were our sharpest tonight. We had a chance to take control of the game several times. I thought we got a little sloppy, whether it be turnovers or some ill-advised shots.",
+      "text_blocks": [],
+      "start_seconds": 224,
+      "end_seconds": 256,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch was not satisfied with the Timberwolves performance tonight despite the win, saying the team was sloppy and failed to take control of the game when they had the chance.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch reflects on the team's need to maintain a consistent standard of play and avoid sloppy mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "7lO5REgNDms",
+  "url": "https://www.youtube.com/watch?v=7lO5REgNDms",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-09T05:05:55Z",
+  "duration_seconds": 296,
+  "processed_at": "2026-11-09T08:04:48Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

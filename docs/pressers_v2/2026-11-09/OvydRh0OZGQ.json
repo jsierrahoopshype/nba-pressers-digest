@@ -1,0 +1,196 @@
+{
+  "video_title": "Trey Murphy III | Pelicans vs. Clippers Postgame Interview 11/8/26",
+  "speakers_seen": [
+    "Trey Murphy III"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trey Murphy III",
+      "timestamp": "00:07",
+      "summary_phrase": "Trey Murphy III on the Pelicans' defensive struggles against the Clippers",
+      "names_mentioned": [],
+      "excerpt": "I think that's what the ball's down to. We just really couldn't get stops.",
+      "quote": "I think that's what the ball's down to. We just really couldn't get stops and they hit a lot of threes and extended the game a little bit.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Murphy III says the Pelicans defensive struggles against the Clippers came down to failing to get stops and allowing too many threes.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III discusses the Pelicans' defensive performance and inability to stop the Clippers from shooting three-pointers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trey Murphy III",
+      "timestamp": "00:56",
+      "summary_phrase": "Trey Murphy III on his aggressive offensive approach and team spacing",
+      "names_mentioned": [],
+      "excerpt": "I think the biggest thing is just trying to play aggressive, understanding that teams don't want me to shoot.",
+      "quote": "I think the biggest thing is just trying to play aggressive, understanding that teams don't want me to shoot the ball, understanding that teams are focusing on trying to stop me from shooting the ball and putting the ball in the basket. Also playing off my gravity. Some nights there's going to be times where teams are super focused on them and I'm going to get other people shots, and there's some nights where they're trying to focus on Z or we have a lot of weapons, so they can't take away all of them.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Trey Murphy III on his offensive approach and gravity: I am just trying to play aggressive and understand that teams are focusing on trying to stop me from shooting the ball.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III explains his offensive approach and how he utilizes his gravity to create opportunities for teammates like Zion Williamson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trey Murphy III",
+      "timestamp": "01:28",
+      "summary_phrase": "Trey Murphy III on the frustration of losing despite a good performance",
+      "names_mentioned": [],
+      "excerpt": "It doesn't matter. We still lost, so all that matters really is a win.",
+      "quote": "It doesn't matter. We still lost, so all that matters really is a win. Doesn't matter if I play well, doesn't matter if I play, and I don't even think I played well, but we lost, so that's really all it was.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Trey Murphy III on his performance in the loss to the Clippers: It does not matter if I play well. We still lost, so all that matters really is a win.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III expresses frustration regarding the team's loss despite his individual performance in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trey Murphy III",
+      "timestamp": "02:04",
+      "summary_phrase": "Trey Murphy III on his role as NBPA Vice President",
+      "names_mentioned": [
+        "CJ McCollum",
+        "Garrett Temple"
+      ],
+      "excerpt": "CJ McCollum and Garrett Temple, they were two of my former vets and they were both on the board.",
+      "quote": "It's been very interesting. I will say that CJ McCollum and Garrett Temple, they were two of my former vets and they were both on the board and they were always like, 'One day you're going to do this, one day you're going to do this.' I always felt like I had some responsibility to do it because they saw that in me. I feel like I have to make them proud, especially two of my vets that I really look up to. The biggest thing is just using my voice, being somebody that can speak from different perspectives because I've played every role on a team and I've also probably had different paths than a lot of other people.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Trey Murphy III discusses his role as NBPA Vice President, crediting former teammates CJ McCollum and Garrett Temple for pushing him to take on the responsibility.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ McCollum",
+          "Garrett Temple"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III reflects on his new role as NBPA Vice President and the influence of his former teammates CJ McCollum and Garrett Temple.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trey Murphy III",
+      "timestamp": "02:59",
+      "summary_phrase": "Trey Murphy III on the benefits of the Players United facility",
+      "names_mentioned": [],
+      "excerpt": "Having a place in LA that has weight room and two courts like that's not really common.",
+      "quote": "Having a place in LA that has weight room and two courts like that's not really common. And not two full courts as well. So I'm very grateful for that. Plus, I get to stay on the West side, so it's a lot nicer over there than in the hot valley or West Hollywood. So I'm really thankful that we're able to get that done.",
+      "text_blocks": [],
+      "start_seconds": 179,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Trey Murphy III expresses gratitude for the new Players United facility in LA, noting that having two full courts and a weight room is not common.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III expresses gratitude for the quality of the Players United training facility in Los Angeles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trey Murphy III",
+      "timestamp": "03:47",
+      "summary_phrase": "Trey Murphy III on using his draft position as motivation",
+      "names_mentioned": [],
+      "excerpt": "I just use that as motivation because some people can write you off.",
+      "quote": "I just use that as motivation because some people can write you off, but really it's just on myself to put in the work, put in the time, and have that utmost confidence in myself to do what I can do. My first few years, I was really trying to master the role that I had and stay within the confines of my role. Once I do that, then you're able to do more on the court because your coach gives you a lot more freedom once you master what you're doing in your own role.",
+      "text_blocks": [],
+      "start_seconds": 227,
+      "end_seconds": 264,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Trey Murphy III on his development: I just use my draft position as motivation. Once you master your role, your coach gives you a lot more freedom to do more on the court.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III discusses using his draft position as motivation and the importance of mastering his role to earn more freedom from his coach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "OvydRh0OZGQ",
+  "url": "https://www.youtube.com/watch?v=OvydRh0OZGQ",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-09T06:25:16Z",
+  "duration_seconds": 269,
+  "processed_at": "2026-11-09T08:04:29Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

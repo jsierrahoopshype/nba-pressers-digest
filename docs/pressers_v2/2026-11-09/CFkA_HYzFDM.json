@@ -1,0 +1,166 @@
+{
+  "video_title": "Post Game Press Conference l Daniss Jenkins l Pistons at Lakers   11.08.26 #NBA",
+  "speakers_seen": [
+    "Daniss Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "00:05",
+      "summary_phrase": "Daniss Jenkins on the Pistons' slow start against the Lakers",
+      "names_mentioned": [],
+      "excerpt": "they load on the strong side early. So you just try to do a good job",
+      "quote": "I think just finding our spacing. When teams are trying to do different things, they mucked the game up. They load on the strong side early. So you just try to do a good job of making you see bodies and making you make the right play every single time. It slows you down, just seeing bodies in the paint.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Daniss Jenkins on the Pistons slow start against the Lakers: When teams load on the strong side early it mucks the game up and slows you down. You just have to make the right play every time.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins discusses the Pistons' offensive struggles and spacing issues during their game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "00:28",
+      "summary_phrase": "Daniss Jenkins on his career-high 31-point performance",
+      "names_mentioned": [],
+      "excerpt": "I just tried to move and play within the flow of the game",
+      "quote": "Like I said, when you try to jump the defense, jump the game up like that, there is a lot of open shots out there. I just tried to move and play within the flow of the game and it just so happened tonight that they were threes. I just tried to keep moving and my teammates was finding me. I was open and I was just stepping into it with some confidence, trying to let it fly.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Daniss Jenkins on his 31 point night: I just tried to move and play within the flow of the game and it just so happened tonight that they were threes. I was open and I was just stepping into it with some confidence.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins reflects on his career-high 31-point performance and his ability to find open shots within the flow of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "01:06",
+      "summary_phrase": "Daniss Jenkins on the second unit's role and energy",
+      "names_mentioned": [],
+      "excerpt": "your job is to come in and either take that up to another level",
+      "quote": "We got a tough job when you are coming off the bench. Whether they are doing good or not, your job is to come in and either take that up to another level or bring a spark like we did. We just take pride in doing our job when we come off that bench, providing the team for whatever we may need. At that time, it was a big spark. We needed to come back, we were down, and we just tried to bring some energy, bring some life and bring some juice into the game.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Daniss Jenkins on the Pistons second unit: We take pride in doing our job when we come off that bench. We needed to come back and we just tried to bring some energy and bring some juice into the game.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins explains the importance of the second unit's role in providing energy and a spark when coming off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "01:45",
+      "summary_phrase": "Daniss Jenkins on the Pistons' mindset for the next game",
+      "names_mentioned": [],
+      "excerpt": "it is just get off to a good start",
+      "quote": "It is just get off to a good start. I think it is tough when you don't give yourself a chance like that, you give yourself a big deficit in the first quarter. We fought, that is all you can ask for, but it would have been good if we didn't get off to that slow start and that big deficit. So it is great that you can come back within 24 hours and try to get a job done.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Daniss Jenkins on the Pistons mindset: It is just get off to a good start. It is tough when you give yourself a big deficit in the first quarter. We fought but it would have been good if we did not get off to that slow start.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins discusses the Pistons' need for a better start in their next game after falling into a large deficit against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "02:07",
+      "summary_phrase": "Daniss Jenkins on Kevin's development and defensive impact",
+      "names_mentioned": [
+        "Kevin"
+      ],
+      "excerpt": "offensively we are involving him more. We are doing a lot of away actions and screens for him",
+      "quote": "Offensively we are involving him more. We are doing a lot of away actions and screens for him and just getting him to his spots that he is good at. He attracts a lot of attention on the defensive end because there is so much that he can do. So we just try to get him the ball in the spots that he is good at. And then defensively, he is just savvy. He has got a little grit to him and he just competes.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Daniss Jenkins on Kevin: Offensively we are involving him more and getting him to his spots. Defensively he is just savvy. He has got a little grit to him and he just competes.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Daniss Jenkins describes his teammate Kevin's offensive development and his impact on the defensive end of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "CFkA_HYzFDM",
+  "url": "https://www.youtube.com/watch?v=CFkA_HYzFDM",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-09T02:05:19Z",
+  "duration_seconds": 173,
+  "processed_at": "2026-11-09T08:05:03Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

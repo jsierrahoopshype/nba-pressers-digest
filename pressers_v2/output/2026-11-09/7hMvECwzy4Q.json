@@ -1,0 +1,234 @@
+{
+  "video_title": "\"We Know What It Takes To Win.\" | Rudy Gobert Postgame Sound | 11.8.26",
+  "speakers_seen": [
+    "Rudy Gobert"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rudy Gobert",
+      "timestamp": "01:12",
+      "summary_phrase": "Rudy Gobert on the Timberwolves' defensive success this season",
+      "names_mentioned": [],
+      "excerpt": "I feel like we're a great defensive team, and that's personally that's as a player",
+      "quote": "I feel like we're a great defensive team, and that's personally that's as a player, I want my team to be a top defensive team in this league. Now, it's great that we're second, but I feel like we still have a lot of room to room, still have a lot of things to improve, so just focus on that. One thing I'm really proud of is our rebounding. I think we, you know, we really taking that serious. We understand that if you want to be a championship team and if you want to be a great defensive team, we have to rebound, and we have to rebound as a unit.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Rudy Gobert says the Timberwolves are taking rebounding seriously as a unit, calling it the foundation of their identity as a championship-level defensive team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses the Minnesota Timberwolves' defensive identity and their focus on rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rudy Gobert",
+      "timestamp": "02:28",
+      "summary_phrase": "Rudy Gobert on the team's winning culture and mindset",
+      "names_mentioned": [],
+      "excerpt": "I think we have a group that wants to win, that understand what it takes to win",
+      "quote": "I think we have a group that wants to win, that understand what it takes to win, and even on some nights when it might be a little harder than others, we know that if we want to give ourselves a chance, we have to rebound. And I love it, you know, I think that's that's our foundation. That's the foundation that we build every single night, and then everything that we add on top of that is is important, but it's not as important.",
+      "text_blocks": [],
+      "start_seconds": 148,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rudy Gobert on the Timberwolves mindset: We have a group that understands what it takes to win and we rely on our rebounding as the foundation every single night.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert explains the team's mindset and the importance of rebounding as a foundation for winning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rudy Gobert",
+      "timestamp": "03:11",
+      "summary_phrase": "Rudy Gobert on the team's aggressive defensive strategy",
+      "names_mentioned": [],
+      "excerpt": "We don't want the team to be comfortable, so when you have someone putting more pressure",
+      "quote": "That's what we want. We don't want the team to be comfortable, so when you have someone putting more pressure, it's harder for you to run your offense and then forcing them into drive, and then on there most of the time. So, it's a team effort, you know, team effort and I try to give these guys confidence, know that they can be aggressive, even if they foul sometimes, it's okay, you know, just be aggressive on the ball, make them comfortable and force them into tough decisions.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 225,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Rudy Gobert wants his teammates to play with aggressive defensive pressure: I tell them it is okay to foul sometimes, just be aggressive on the ball and make the opponent uncomfortable.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert describes the team's defensive strategy of applying pressure to make opponents uncomfortable.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rudy Gobert",
+      "timestamp": "04:03",
+      "summary_phrase": "Rudy Gobert on the impact of Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "It's been having an impact for one of the best teams in the NBA right away",
+      "quote": "It's been looking great, you know, it was great in preseason and it's been having an impact for one of the best teams in the NBA right away, so it's good to see. It's good to see young players, especially coming from Europe, doing great things, so I think he has a bright future ahead of him.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Rudy Gobert on Victor Wembanyama: It is great to see young players coming from Europe doing great things in the NBA right away. He has a bright future ahead of him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "MIN",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert praises the early impact and future potential of Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rudy Gobert",
+      "timestamp": "04:31",
+      "summary_phrase": "Rudy Gobert on the winning culture of Spanish basketball",
+      "names_mentioned": [],
+      "excerpt": "Spain got a lot of a great winning mindset, you know, winning culture",
+      "quote": "Spain got a lot of a great winning mindset, you know, winning culture, and they've brought us so many great players in this league that some of them that I looked up to myself, so it's great, great for him and great for Spain.",
+      "text_blocks": [],
+      "start_seconds": 271,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Rudy Gobert praises the winning culture of Spanish basketball, noting that many players from Spain have been influential in the NBA.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert reflects on the winning culture of Spanish basketball and its influence on the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Rudy Gobert",
+      "timestamp": "04:58",
+      "summary_phrase": "Rudy Gobert on Trey Burke's contributions off the bench",
+      "names_mentioned": [
+        "Trey Burke"
+      ],
+      "excerpt": "He's just been really solid, being really sound, making the right play",
+      "quote": "I think he's just been really solid, being really sound, making the right play and it's been great. You know, he knows how to play basketball, he knows how to play winning basketball and he doesn't need to do too much. He's taking his shots, when they take away his shot he's driving, making the right play, and then one thing I really love is that he's been really aggressive on the offensive rebound and that's huge. We need that.",
+      "text_blocks": [],
+      "start_seconds": 298,
+      "end_seconds": 329,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rudy Gobert praises Trey Burke for playing winning basketball off the bench, specifically highlighting his aggression on the offensive glass.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Burke"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert evaluates the contributions of teammate Trey Burke off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Rudy Gobert",
+      "timestamp": "06:18",
+      "summary_phrase": "Rudy Gobert on the chemistry between LaMelo Ball and Jalen Williams",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Jalen Williams"
+      ],
+      "excerpt": "Two different players, but they put a lot of pressure on the defense in a lot",
+      "quote": "I think they're very dynamic. Two different players, but they put a lot of pressure on the defense in a lot of different ways and they can both shoot the three, they can both play in transition, and they can both find their teammates, so it's great. It gives us a lot of options, a lot of things we can do to be a really dangerous team.",
+      "text_blocks": [],
+      "start_seconds": 378,
+      "end_seconds": 404,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rudy Gobert describes the dynamic duo of LaMelo Ball and Jalen Williams as a dangerous combination that puts pressure on defenses in multiple ways.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "MIN",
+          "CHA",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses the dynamic playmaking abilities of LaMelo Ball and Jalen Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "7hMvECwzy4Q",
+  "url": "https://www.youtube.com/watch?v=7hMvECwzy4Q",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-09T05:06:28Z",
+  "duration_seconds": 405,
+  "processed_at": "2026-11-09T08:04:49Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

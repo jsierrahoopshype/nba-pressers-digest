@@ -1,0 +1,173 @@
+{
+  "video_title": "Brayden Burries Postgame Media Availability | 11.08.26",
+  "speakers_seen": [
+    "Brayden Burries"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:00",
+      "summary_phrase": "Brayden Burries on Milwaukee's inability to sustain defensive intensity",
+      "names_mentioned": [
+        "Jayson Tatum",
+        "George"
+      ],
+      "excerpt": "I know that's kind of been the theme unfortunately, but I guess tonight, what did you see?",
+      "quote": "You get nine and a half minutes of really good basketball on both ends and didn't quite sustain. I know that's kind of been the theme unfortunately, but I guess tonight, what did you see maybe flip? I know Jayson Tatum and George combined for 18 straight points, but obviously that means you guys aren't getting anything on the other end. What did you see change there in the first and into the second quarter?",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brayden Burries says the team is struggling to sustain defensive intensity for a full game, noting the recurring theme of failing to maintain momentum after strong starts.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses the team's struggle to maintain defensive intensity throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:50",
+      "summary_phrase": "Brayden Burries on prioritizing defensive mindset to maintain leads",
+      "names_mentioned": [
+        "Taylor"
+      ],
+      "excerpt": "Before the game Taylor said look, shots in, out, that's going to happen, but it has to be defense.",
+      "quote": "Before the game Taylor said look, shots in, out, that's going to happen, but it has to be defense for us. So what are you learning now that you're playing more minutes, you're in that starting groups and quarters? What are you learning about coming out with that intensity and starting with some of that defensive mindset to try to keep it, and then trying to keep it? The defensive mindset is just really the first, even the way you start a game and then that halftime, the first three minutes, I feel is very important. Set the tone for the rest of the half and that's the main thing. So if we can get stops early, then now we start hitting shots, now we're flowing.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brayden Burries emphasizes the importance of the first three minutes of each half, stating that getting stops early is the key to setting the tone and finding an offensive flow.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries explains the importance of starting halves with a strong defensive mindset to generate offensive flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brayden Burries",
+      "timestamp": "01:50",
+      "summary_phrase": "Brayden Burries on maintaining confidence during shooting slumps",
+      "names_mentioned": [],
+      "excerpt": "So as you lose confidence, it's over with pretty much, so you got to be out there with confidence.",
+      "quote": "When things are frustrating, not going your way, how do you prevent that from shaking your confidence or your decision-making ability? That's one thing you can't do. You can't really lose confidence. So as you lose confidence, it's over with pretty much, so you got to be out there with confidence and just be strong-minded. Let's say that, because if you do that, you can be guarding somebody to hit a tough shot, our next play, let's come down, maybe get a foul or get in the paint, get a good look and then next play just try to make it hard for them over the course of the full 48.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Brayden Burries on staying mentally tough during shooting slumps: You cannot lose confidence because once you do it is over with. You have to stay strong minded.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses the necessity of maintaining confidence and a strong mindset during frustrating shooting slumps.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brayden Burries",
+      "timestamp": "03:13",
+      "summary_phrase": "Brayden Burries on Tatum and George's impact and personal accountability",
+      "names_mentioned": [
+        "Tatum",
+        "George",
+        "Pritchard"
+      ],
+      "excerpt": "Tatum, he did, well he shot like six for 19, but George went on, Pritchard hits some crucial threes.",
+      "quote": "Even like tonight, Tatum, he did, well he shot like six for 19, but George went on, Pritchard hits some crucial threes, got some big-time rebounds. So yeah, I got to do better though too. I feel like not really doing my part. Like they drafted me, they brought me here to win, but we're not winning. So I got to do better on that.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 6,
+      "social_post": "Brayden Burries takes personal accountability for the Bucks recent struggles, saying he has to do better because they brought him here to win and they are not winning.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum",
+          "Paul George",
+          "Payton Pritchard"
+        ],
+        "teams": [
+          "MIL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Brayden Burries reflects on the impact of opposing players and expresses personal accountability for the team's losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brayden Burries",
+      "timestamp": "03:35",
+      "summary_phrase": "Brayden Burries on his responsibility to help the team win",
+      "names_mentioned": [],
+      "excerpt": "I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to.",
+      "quote": "What does do better mean? That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better. Defending, rebounding. I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to, you expect, like, at least to be winning. So we not winning is like, I feel like a lot of this is on me. And even though I'm young, but still like, I got to do extra stuff to try to help the team win, whether that's cheering, you know, being a great teammate, or like defending, talking, you know, try to find different ways to help us win.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Brayden Burries says he feels a lot of the responsibility for the team not winning falls on him, adding that he needs to find different ways to help the team win beyond just his individual play.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses his responsibility as a high draft pick to contribute more to winning efforts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "1tN8GdDvezs",
+  "url": "https://www.youtube.com/watch?v=1tN8GdDvezs",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-09T04:07:05Z",
+  "duration_seconds": 320,
+  "processed_at": "2026-11-09T08:04:53Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

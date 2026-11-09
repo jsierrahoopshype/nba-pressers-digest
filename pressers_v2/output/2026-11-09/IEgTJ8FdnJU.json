@@ -1,0 +1,316 @@
+{
+  "video_title": "\"We Have A Great Group Of Guys, I Love Playing With Them.\" | LaMelo Ball Postgame Sound | 11.8.26",
+  "speakers_seen": [
+    "LaMelo Ball",
+    "Unidentified reporter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified reporter"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "LaMelo Ball on the impact of playing with Ayo Dosunmu",
+      "names_mentioned": [
+        "Ayo Dosunmu"
+      ],
+      "excerpt": "Ayo is a track star. I mean, which I call him the jet. He definitely get out and run.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "LaMelo, what is it about playing with Ayo that seems so simple for you?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Ayo is a track star. I mean, which I call him the jet. He definitely get out and run, and I love people who get out and run for sure. I mean, it's easy to play with."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "LaMelo Ball says playing with Ayo Dosunmu is easy because of his speed. He calls him the jet and says he loves teammates who get out and run.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ayo Dosunmu"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses the ease of playing with teammate Ayo Dosunmu during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified reporter"
+      ],
+      "timestamp": "00:23",
+      "summary_phrase": "LaMelo Ball on his defensive growth and coaching instructions",
+      "names_mentioned": [],
+      "excerpt": "It's pretty much just listening to the coaches, doing the best I could.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "LaMelo, you made a lot more plays with your defense again tonight. How much pride are you taking in being a defensive maker on that end?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "It's pretty much just listening to the coaches, doing the best I could."
+        }
+      ],
+      "start_seconds": 23,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his defensive effort tonight: It is pretty much just listening to the coaches and doing the best I can.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "LaMelo Ball explains his defensive performance as a result of following instructions from the coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified reporter"
+      ],
+      "timestamp": "00:46",
+      "summary_phrase": "LaMelo Ball on the bench's contribution to the win",
+      "names_mentioned": [],
+      "excerpt": "We was lacking and then they came in and pushed it up, so yeah, they been giving us some good start.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What has your bench given you night in and night out?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Tonight definitely a good start for sure. We was lacking and then they came in and pushed it up, so yeah, they been giving us some good start."
+        }
+      ],
+      "start_seconds": 46,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "LaMelo Ball credits the bench for providing a spark tonight when the starters were lacking.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball comments on the energy and impact provided by the bench players during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified reporter"
+      ],
+      "timestamp": "00:57",
+      "summary_phrase": "LaMelo Ball on Lonzo Ball's impact on team energy",
+      "names_mentioned": [
+        "Lonzo Ball"
+      ],
+      "excerpt": "When Lonzo is rolling, it's definitely easier. I mean, it's another point guard just getting to it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When Lonzo has it rolling like this, does it get everyone some extra energy and juice to see him do that?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Definitely for sure. I mean when Lonzo is rolling, it's definitely easier. I mean, it's another point guard just getting to it, so it just opens the whole floor up and makes it that much easier."
+        }
+      ],
+      "start_seconds": 57,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "LaMelo Ball says having Lonzo Ball rolling makes the game much easier for everyone because it opens up the whole floor.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Lonzo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball describes how Lonzo Ball's performance helps the team's overall energy and floor spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified reporter"
+      ],
+      "timestamp": "01:25",
+      "summary_phrase": "LaMelo Ball on the importance of grinding out wins",
+      "names_mentioned": [],
+      "excerpt": "I think every game is important. I mean just winning and just trying to build something for the end.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Are these games just kind of important when you don't have your best stuff as a group early, just to kind of grind it out and find a win?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I think every game is important. I mean just winning and just trying to build something for the end, you know what I'm saying? You want to set yourself up for the middle of the season, the end of the season, so obviously every game count."
+        }
+      ],
+      "start_seconds": 85,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on the importance of grinding out wins: Every game counts when you are trying to build something for the end of the season.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball reflects on the importance of grinding out wins throughout the regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified reporter"
+      ],
+      "timestamp": "01:43",
+      "summary_phrase": "LaMelo Ball on the necessity of a deep bench",
+      "names_mentioned": [],
+      "excerpt": "I feel like you always need your whole team. I mean, you know, that's why you got a bench.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Is it the kind of night when you see like the importance of the bench, because it's going to be hard for the starters to come out of the gates hot every night?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I feel like you always need your whole team. I mean, you know, that's why you got a bench. That's why you have all these players and everything. It's basketball."
+        }
+      ],
+      "start_seconds": 103,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on the importance of a deep bench: You always need your whole team because that is why you have a bench.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the necessity of having a deep bench in the context of a long basketball season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "LaMelo Ball",
+        "Unidentified reporter"
+      ],
+      "timestamp": "01:59",
+      "summary_phrase": "LaMelo Ball on the team's ability to make in-game adjustments",
+      "names_mentioned": [],
+      "excerpt": "Just figuring it out on the fly, that's big and just basketball period.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What does it say about the mentality of this team figuring it out on the fly rather than just relying on the staff?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Pretty much what you just said, just figuring it out on the fly, that's big and just basketball period. If you could do that, that's great for your team, so we been trying to do it on the fly."
+        }
+      ],
+      "start_seconds": 119,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "LaMelo Ball says the ability to figure things out on the fly is a major key for this team.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball talks about the team's ability to make adjustments on the fly during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "IEgTJ8FdnJU",
+  "url": "https://www.youtube.com/watch?v=IEgTJ8FdnJU",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-09T05:10:44Z",
+  "duration_seconds": 164,
+  "processed_at": "2026-11-09T08:04:40Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

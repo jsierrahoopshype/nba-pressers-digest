@@ -1,0 +1,269 @@
+{
+  "video_title": "\"The Fans Gave Us Juice We Needed To Get The Win.\" | Bones Hyland Postgame Sound | 11.8.26",
+  "speakers_seen": [
+    "Bones Hyland"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bones Hyland",
+      "timestamp": "00:00",
+      "summary_phrase": "Bones Hyland on the team's chemistry and ball movement",
+      "names_mentioned": [],
+      "excerpt": "everyone is sharing the ball, moving the ball, playing for one another.",
+      "quote": "Everyone is sharing the ball, moving the ball, playing for one another. Just going out there and playing Wolves basketball. I think that's the beauty of us right now. We have to keep it going, keep it rolling. The juices in the locker room are very high, so I think that translates to the court.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Bones Hyland says the Timberwolves are playing with high energy and great chemistry right now, noting that the juices in the locker room are very high and that translates to the court.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bones Hyland discusses the team chemistry and ball movement following a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bones Hyland",
+      "timestamp": "00:53",
+      "summary_phrase": "Bones Hyland on his aggressive approach to getting downhill",
+      "names_mentioned": [],
+      "excerpt": "putting the ball in my hands more, to get downhill more, create for myself, create for teammates.",
+      "quote": "Putting the ball in my hands more, to get downhill more, create for myself, create for teammates. I think it opens up the floor, not only for myself, but for my teammates as well too. I'm very dynamic, I can do everything on the offensive end, so I feel like the more opportunities with that, it's the best for our team.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bones Hyland on his role: Putting the ball in my hands more to get downhill and create for myself and teammates opens up the floor for everyone. I am very dynamic and can do everything on the offensive end.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland explains his offensive approach and his role in creating opportunities for himself and his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bones Hyland",
+      "timestamp": "01:30",
+      "summary_phrase": "Bones Hyland on being guarded by elite defenders",
+      "names_mentioned": [
+        "Jalen Clark"
+      ],
+      "excerpt": "I'm always being guarded by the best defender when I check in.",
+      "quote": "I just said that to someone the other day too. I'm always being guarded by the best defender when I check in. But I thrive in it, I love it. That's a sign of respect. It doesn't really bother me at all. When I check into the game, I'm already prepared for it, so I've been guarded by the best defenders my whole life, so they don't bother me.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Bones Hyland says he thrives on being guarded by the opposing team's best defender. I have been guarded by the best defenders my whole life, so they do not bother me at all.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland reacts to being guarded by elite defenders during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Bones Hyland",
+      "timestamp": "02:02",
+      "summary_phrase": "Bones Hyland on Jalen Clark's impact on the game",
+      "names_mentioned": [
+        "Jalen Clark"
+      ],
+      "excerpt": "soon as he check in, he changes the flow of their offense.",
+      "quote": "We love Jalen Clark, bro. Soon as he check in, he changes the flow of their offense. He disrupts the passing lanes, the ball handler timing. He does a lot for us, man. We are thankful to have Jalen Clark on our side.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Bones Hyland praises Jalen Clark for his defensive impact: As soon as he checks in, he changes the flow of the offense. He disrupts passing lanes and ball handler timing.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Clark"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bones Hyland praises Jalen Clark for his defensive impact and energy off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Bones Hyland",
+      "timestamp": "02:51",
+      "summary_phrase": "Bones Hyland on the development of Jalen Clark and LaMelo Ball",
+      "names_mentioned": [
+        "Jalen Clark",
+        "LaMelo Ball"
+      ],
+      "excerpt": "I told Jalen Clark before the game, lead us out there.",
+      "quote": "I told Jalen Clark before the game, lead us out there. I think he's taking in that role, he's thriving in it. And obviously LaMelo Ball, just being LaMelo Ball, I think it's a beauty for us, man. Creating for himself, creating for others, it's a beauty.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Bones Hyland on his teammates: I told Jalen Clark before the game to lead us out there. And obviously LaMelo Ball is just being LaMelo Ball, creating for himself and others. It is a beauty.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Clark",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bones Hyland discusses the leadership and playmaking contributions of Jalen Clark and LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Bones Hyland",
+      "timestamp": "03:06",
+      "summary_phrase": "Bones Hyland on the versatility of the team's bench",
+      "names_mentioned": [],
+      "excerpt": "we just got a versatile unit. A lot of guys can check in, change the flow of the game.",
+      "quote": "We just got a versatile unit. A lot of guys can check in, change the flow of the game, change the game. We still got guys that are injured too, so I think it's, I don't know, I just think we're really good, man. The bench, the first unit, we got a lot of guys that can come in and change the game.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bones Hyland believes the Timberwolves have a deep and versatile unit, noting that even with guys injured, they have a lot of players who can come in and change the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Bones Hyland highlights the depth and versatility of the Timberwolves roster despite current injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Bones Hyland",
+      "timestamp": "03:31",
+      "summary_phrase": "Bones Hyland on the team's defensive identity",
+      "names_mentioned": [],
+      "excerpt": "coming into the season a lot of people thought we were probably going to be small.",
+      "quote": "Coming into the season a lot of people thought we were probably going to be small, which I think pretty, we may be on paper, but I don't think we are when we check into the game. We like to muck up the game, we like to get into our offensive players, and we just try to help the bigs out on the rebounds too, but I think we just pass, you know what I'm saying? On the floor, we're just trying to be pass as best as we can.",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bones Hyland on the Timberwolves defensive identity: We like to muck up the game and get into our offensive players. We try to help the bigs out on the rebounds too.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland describes the team's defensive identity and their effort to overcome size concerns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Bones Hyland",
+      "timestamp": "04:16",
+      "summary_phrase": "Bones Hyland on Jalen Clark's mask",
+      "names_mentioned": [
+        "Jalen Clark"
+      ],
+      "excerpt": "we call him Batman. Play Batman.",
+      "quote": "We call him Batman. Play Batman. It was a funny story, we was in the locker room and he had that mask, they told him he was going to wear it, he didn't take it off in the locker room. I said, Jalen Clark, you ain't even on the court right now, you can take your mask off. But that's the first time he's wearing his mask, broken nose, but he a warrior, bro.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 9,
+      "social_post": "Bones Hyland reveals the team calls Jalen Clark Batman because of his protective mask. I told him you are not even on the court right now, you can take your mask off, but he is a warrior.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Clark"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Bones Hyland shares a story about Jalen Clark wearing a protective mask due to a broken nose.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "il5n8LgO95Q",
+  "url": "https://www.youtube.com/watch?v=il5n8LgO95Q",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-09T05:12:48Z",
+  "duration_seconds": 313,
+  "processed_at": "2026-11-09T08:04:35Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

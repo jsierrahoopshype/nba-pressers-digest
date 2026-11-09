@@ -1,0 +1,139 @@
+{
+  "video_title": "Kyle Kuzma Postgame Media Availability | 11.08.26",
+  "speakers_seen": [
+    "Kyle Kuzma"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "00:23",
+      "summary_phrase": "Kyle Kuzma on the team's lack of sustained defensive effort",
+      "names_mentioned": [],
+      "excerpt": "we just got to be better collectively as a team, first and second unit",
+      "quote": "We were moving the ball pretty well. We definitely got some stops, but didn't sustain it when the second quarter came around. We just got to be better collectively as a team, first and second unit, and having that sense of urgency, especially against a good team like that down 20 to 6.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kyle Kuzma says the team failed to sustain defensive effort in the second quarter and needs a better sense of urgency collectively",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma discusses the team's inability to maintain defensive intensity throughout the entire game after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "01:21",
+      "summary_phrase": "Kyle Kuzma on the need for better defensive attention to detail",
+      "names_mentioned": [
+        "PG"
+      ],
+      "excerpt": "we got to do a little bit better, attention to detail, certain things, PG coming off",
+      "quote": "We just didn't do a good enough job. Obviously they're great players, they've hit millions of shots since being in the league, but we got to do a little bit better, attention to detail, certain things, PG coming off, coming off pick and rolls and shooting it. Nobody necessarily there to contest, you're going to live and die by that. Especially if he's hitting, then probably going to die, so.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kyle Kuzma on defensive lapses against Paul George: You have to do a better job with attention to detail on pick and rolls or you are going to live and die by that",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Paul George"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma explains the defensive lapses against Paul George during pick and roll situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "01:55",
+      "summary_phrase": "Kyle Kuzma on the team's lack of margin for error",
+      "names_mentioned": [
+        "PG"
+      ],
+      "excerpt": "at this stage, we just don't have a margin for error",
+      "quote": "It's got to be transparent and blunt, because at this stage, we just don't have a margin for error. So, you know, we have to have a certain sense of urgency and sometimes it's not pretty, because we just don't have that margin for error. We have to figure it out on the fly, quick. We can't just come in and practice and say the same things over and over. Eventually we're going to have to be in the game and get it done, get it done quicker. Don't let, just for example, PG hit two three-pointers, like after that first one, maybe that second one, like you can't get no more. We have to just find that sense of maturity, collectively.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Kyle Kuzma says the team has to be transparent and blunt because they currently have no margin for error",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Paul George"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma emphasizes the team's lack of margin for error and the need for greater maturity when defending players like Paul George.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "03:00",
+      "summary_phrase": "Kyle Kuzma on the team's inconsistent approach to games",
+      "names_mentioned": [],
+      "excerpt": "we're consistently inconsistent in how we approach the game right now",
+      "quote": "I just think we're consistently inconsistent in how we approach the game right now. But there are some bright spots when we do it well. It's just not consistent throughout 48 minutes. Sometimes we might have a good first, I think the third and the fourth was kind of good basketball, but they're a great team, they're going to hit threes, that's what they do, that's what they want to do. And we just need to kind of weather that storm right now. It's not going to get easier.",
+      "text_blocks": [],
+      "start_seconds": 180,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kyle Kuzma admits the team is consistently inconsistent in their approach to games and needs to find maturity to weather the storm",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma reflects on the team's inconsistent approach to games and the difficulty of maintaining focus for 48 minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "_hTSSBAiKXU",
+  "url": "https://www.youtube.com/watch?v=_hTSSBAiKXU",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-09T03:55:17Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-11-09T08:04:58Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

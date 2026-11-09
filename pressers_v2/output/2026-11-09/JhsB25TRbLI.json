@@ -1,0 +1,234 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons vs  Lakers   11.08.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:03",
+      "summary_phrase": "J.B. Bickerstaff on early turnovers against the Lakers",
+      "names_mentioned": [],
+      "excerpt": "we had seven turnovers early. They're one of the best in the league at creating points off turnovers.",
+      "quote": "We had seven turnovers early. They're one of the best in the league at creating points off turnovers, so it definitely didn't get us off to the start we would have liked.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 15,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "JB Bickerstaff says the Pistons seven early turnovers against the Lakers were the main reason they failed to get off to the start they wanted.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the team's early turnover issues during the post-game press conference following the loss to the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:25",
+      "summary_phrase": "J.B. Bickerstaff praises bench unit's energy and rhythm",
+      "names_mentioned": [
+        "Kevin Huerter",
+        "Danas Jenkins"
+      ],
+      "excerpt": "they brought us the energy, lift, and spirit that we needed when we were down.",
+      "quote": "I thought they were awesome. They brought us the energy, lift, and spirit that we needed when we were down. We just couldn't find that rhythm, and they just kept making play after play to help us find our rhythm.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff praised his bench unit for providing the energy and spirit the team needed to stay in the game after a slow start.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff praises the energy and impact of the bench unit during the game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:47",
+      "summary_phrase": "J.B. Bickerstaff on Kevin Huerter's all-around performance",
+      "names_mentioned": [
+        "Kevin Huerter"
+      ],
+      "excerpt": "he's an all-around complete basketball player. It's great for him that he's getting comfortable.",
+      "quote": "He's an all-around complete basketball player. I think it's great for him that he's getting comfortable, understanding his spots, where he fits here, being aggressive to make those plays, but I thought he did a great job tonight.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "JB Bickerstaff calls Kevin Huerter an all around complete basketball player and says he is finally getting comfortable and understanding his role with the team.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Huerter"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff evaluates Kevin Huerter's performance and his growing comfort level within the team's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:12",
+      "summary_phrase": "J.B. Bickerstaff on addressing the team's poor starts",
+      "names_mentioned": [],
+      "excerpt": "there was a time where our starts were really, really good, so we need to go back.",
+      "quote": "I have to go back, take a look at it, and see what the cause of it is. There was a time where our starts were really, really good, so we need to go back, compare the two, and see what we're doing to get better at those starts.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says he needs to review film to figure out why the team has struggled with poor starts recently after previously being strong in that area.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff addresses the team's recent struggles with poor starts and his plan to analyze the issue.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:39",
+      "summary_phrase": "J.B. Bickerstaff on Lakers' defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "they did a really good job of just crowding them and not letting them get the space.",
+      "quote": "They did a really good job of just crowding them and not letting them get the space that they need. Every time they were attacking, there was two or three bodies there in their space and in their area, so my responsibility to help them more, so I've got to do a better job of that.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff took responsibility for the Lakers defensive pressure, stating he needs to do a better job of helping his players find space when they are being crowded.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff comments on the defensive pressure applied by the Lakers and takes responsibility for failing to prepare his players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:05",
+      "summary_phrase": "J.B. Bickerstaff on Danas Jenkins' competitive spirit",
+      "names_mentioned": [
+        "Danas Jenkins"
+      ],
+      "excerpt": "it's his spirit and his competitiveness. Very easily, being down like we were, the group could have called it a night.",
+      "quote": "It's his spirit and his competitiveness. Very easily, being down like we were, the group could have called it a night, but I thought he led the charge in the energy and the competitiveness that we needed to get ourselves back in the game.",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "JB Bickerstaff credited Danas Jenkins for leading the charge and keeping the team competitive when they were down against the Lakers.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Danas Jenkins"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff highlights the competitive spirit and leadership displayed by Danas Jenkins during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:31",
+      "summary_phrase": "J.B. Bickerstaff on rebounding and physical play",
+      "names_mentioned": [
+        "JD"
+      ],
+      "excerpt": "the physicality has to start earlier. I thought there was some where we allowed them to root us.",
+      "quote": "The physicality has to start earlier. I thought there was some where we allowed them to root us under the basket and we couldn't get the position that we liked, so I think that's where it starts. It's not just a one-man job, it's everybody's got to do a better job being physical early and creating that space so we can rebound the ball.",
+      "text_blocks": [],
+      "start_seconds": 151,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "JB Bickerstaff says the Pistons need to be more physical early to secure rebounds and prevent opponents from rooting them under the basket.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains the need for better physical play and team rebounding efforts following the loss to the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "JhsB25TRbLI",
+  "url": "https://www.youtube.com/watch?v=JhsB25TRbLI",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-09T01:55:53Z",
+  "duration_seconds": 175,
+  "processed_at": "2026-11-09T08:05:14Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

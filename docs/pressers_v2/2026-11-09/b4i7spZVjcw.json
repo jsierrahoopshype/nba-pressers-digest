@@ -1,0 +1,235 @@
+{
+  "video_title": "LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/8/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "1:26",
+      "summary_phrase": "Pelicans' emphasis on paint scoring and decision-making against Clippers",
+      "names_mentioned": [],
+      "excerpt": "getting in the paint, being able to attack the basket the right way, but making the right decisions",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You have certainly discussed the strength of your team being one getting into the paint, scoring. When it comes to a team that over here is still trying to figure out in the Clippers how to guard in that area, how big of a factor could that be tonight?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "That's a huge factor. That was a point of emphasis today in our film session for helping these guys understand exactly what we're capable of doing. But also, getting in the paint, being able to attack the basket the right way, but making the right decisions when you get in there."
+        }
+      ],
+      "start_seconds": 86,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans are emphasizing paint attacks and decision making against the Clippers tonight. He notes it was a major point of focus in their film session.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Pelicans head coach Jamahl Mosley discusses the team's offensive strategy of attacking the paint against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "2:00",
+      "summary_phrase": "Improving defensive communication against high pick-and-roll sets",
+      "names_mentioned": [
+        "Garland"
+      ],
+      "excerpt": "our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We've been seeing a lot of high pick-and-rolls against your team. So just talk about the structure defensively on how is the best way to defend that?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "That's something we've definitely got to clean up. There are different combinations. The league, sometimes they'll set guards in it, sometimes they'll have the big in it. So our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication up to another level just in order to know we're going to see a ton of these, especially with a guard like Garland tonight. He has a lot of combinations he can go to, so we've got to be very on point with our communication and our coverage calls."
+        }
+      ],
+      "start_seconds": 120,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley admits the Pelicans need to clean up their defensive communication against high pick and rolls. He says the team must be on point tonight to handle the variety of looks they will see.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "NOP",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the need for improved defensive communication to handle high pick-and-roll plays, specifically mentioning Darius Garland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "2:43",
+      "summary_phrase": "Jamahl Mosley on the competitive edge of Benedict Mathurin",
+      "names_mentioned": [
+        "Benedict Mathurin"
+      ],
+      "excerpt": "he's got a fiery edge to him, and I think that's what I've seen over the years",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "With Benedict Mathurin on your team, he was a restricted free agent here. Were you surprised that he was made available to y'all and what kind of player did you expect to get and what kind of player has he been for you?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Just watching Ben over the years, you talk about his competitive edge, his toughness, his grit. That's how he plays the game. He's got a fiery edge to him, and I think that's what I've seen over the years with him, whether he was in Indiana or here with the Clippers. I think he has that edge and that fire to him to be able to score in different directions but also to be able to sit down and guard at a different level at times."
+        }
+      ],
+      "start_seconds": 163,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley praises Benedict Mathurin for his competitive edge and grit. He says he has seen that fiery intensity from Mathurin for years, noting his ability to score and defend at a high level.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bennedict Mathurin"
+        ],
+        "teams": [
+          "NOP",
+          "IND",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the competitive nature and defensive intensity of Bennedict Mathurin.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "3:26",
+      "summary_phrase": "Mosley's perspective on potential 40-minute games to address injuries",
+      "names_mentioned": [
+        "Adam Silver"
+      ],
+      "excerpt": "the league does a great job of trying to figure out whatever is best for the players",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Adam Silver has suggested in the past that going to 40-minute games would be something that he kind of likes. What do you think of that idea, maybe as a way to address some of the injuries we're seeing in this league?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I think the league does a great job of trying to figure out whatever is best for the players, whatever is best for the league, the fans, and the competitive edge of the game. I think that's something that's big and they'll continue to look at different variations, different versions of what that looks like. Obviously they'll find some trials in different arenas, different games of the G League stuff, but I think at the end of the day, they're going to continue to exhaust all options to try to figure out what's best for these players and the league and the fans."
+        }
+      ],
+      "start_seconds": 206,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley weighs in on the idea of 40 minute games to help with player injuries. He says he trusts the league to exhaust all options to find what is best for the players and the fans.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley shares his thoughts on Adam Silver's suggestion of 40-minute games as a potential solution for player injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "4:11",
+      "summary_phrase": "Identifying trends in Pelicans' wins and losses",
+      "names_mentioned": [],
+      "excerpt": "it's been one or two possessions that changes the factor of the game",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "In your wins versus losses, are there trends of certain things that are happening in wins that you can point to that you say these are things that have to carry over in other games?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "It's been tricky because of those close games. We touch the paint at a high rate, we get to the free throw line at a certain level, keeping teams out of the paint has been a key. But in some of the closest games, it's been one or two possessions that changes the factor of the game. So trying to find the trend within it is tough. I know in some of the losses, it's been our lines of communication down the stretch, the point of the high pick-and-roll, being able to get that cleaned up the right way, I think has been big in some of those games."
+        }
+      ],
+      "start_seconds": 251,
+      "end_seconds": 306,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the difference between Pelicans wins and losses has been razor thin. He points to communication breakdowns in high pick and roll situations as a key factor in their recent losses.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on the trends and defensive communication issues observed during the Pelicans' recent wins and losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "b4i7spZVjcw",
+  "url": "https://www.youtube.com/watch?v=b4i7spZVjcw",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-09T00:36:17Z",
+  "duration_seconds": 337,
+  "processed_at": "2026-11-09T08:05:17Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}
