@@ -130,9 +130,9 @@ class BestOfTheBestTests(unittest.TestCase):
                                       "confidence? Yes.", news=10),
                    q(2, "Kyle Kuzma", "We just don't have a margin for error at this stage of the season", news=4)]
                   + [q(r, f"Player {r}", f"filler answer {r} with enough words to count", news=2) for r in range(3, 20)])
-            data = json.loads((day / "AAAAAAAAAA2.json").read_text())
+            data = json.loads((day / "AAAAAAAAAA2.json").read_text(encoding="utf-8"))
             data["quotes"][0].update(reporter_question=True, speaker=pe.REPORTER)
-            (day / "AAAAAAAAAA2.json").write_text(json.dumps(data))
+            (day / "AAAAAAAAAA2.json").write_text(json.dumps(data), encoding="utf-8")
             lines = pe.top_quotes_block([day / "AAAAAAAAAA1.md", day / "AAAAAAAAAA2.md"])
         block = "\n".join(lines)
         self.assertEqual(len(re.findall(r"(?m)^\*\*\d+\. Bones Hyland", block)), 1)
@@ -188,9 +188,9 @@ class DuplicateSessionTests(unittest.TestCase):
             store(day, "AAAAAAAAAA2", "Jamahl Mosley | Pelicans vs. Clippers Postgame Interview 11/8/26",
                   [q(1, "Jamahl Mosley", answer + ". Now we didn't help that cause.")], team="New Orleans Pelicans")
             self.assertEqual(pe.reconcile_split_speakers(["2026-11-09"]), ["2026-11-09"])
-            stream = json.loads((day / "AAAAAAAAAA1.json").read_text())
-            md = (day / "AAAAAAAAAA1.md").read_text()
-            single = json.loads((day / "AAAAAAAAAA2.json").read_text())
+            stream = json.loads((day / "AAAAAAAAAA1.json").read_text(encoding="utf-8"))
+            md = (day / "AAAAAAAAAA1.md").read_text(encoding="utf-8")
+            single = json.loads((day / "AAAAAAAAAA2.json").read_text(encoding="utf-8"))
             manifest = pe.build_clip_manifest("t", 100000)
         self.assertEqual(stream["quotes"][0]["duplicate_of"], {"video_id": "AAAAAAAAAA2", "rank": 1})
         self.assertNotIn("duplicate_of", stream["quotes"][1])
@@ -210,14 +210,14 @@ class PagesAndIndexTests(unittest.TestCase):
                   team="New Orleans Pelicans", ctype="podcast", content_type_source="keyword: live")
             store(day, "0TJRHXX9moo", "Steph Revives the Warriors", [q(1, "Host", "Steph is back")],
                   team="No Fouls Given", ctype="podcast", source=pe.YTQ_SOURCE)
-            (day / "podcasts-overnight.md").write_text("stale")
+            (day / "podcasts-overnight.md").write_text("stale", encoding="utf-8")
             pe.apply_page_rules([day])
             written = sorted(p.name for p in pe.rebuild_day("2026-11-09"))
-            stream = json.loads((day / "aJSJd1S8y_0.json").read_text())
-            pod = (day / "podcasts-overnight.md").read_text()
-            digest = (day / "digest-overnight.md").read_text()
+            stream = json.loads((day / "aJSJd1S8y_0.json").read_text(encoding="utf-8"))
+            pod = (day / "podcasts-overnight.md").read_text(encoding="utf-8")
+            digest = (day / "digest-overnight.md").read_text(encoding="utf-8")
             pe.regenerate_index()
-            index = (out / "index.md").read_text()
+            index = (out / "index.md").read_text(encoding="utf-8")
         self.assertEqual(stream["content_type"], "presser")
         self.assertEqual(written, ["digest-overnight.md", "digest.md", "podcasts-overnight.md", "podcasts.md"])
         self.assertIn("Mosley", digest)
@@ -241,9 +241,9 @@ class YtqImportTests(unittest.TestCase):
                     "quotes": [{"rank": 1, "speaker": "Host A", "timestamp": "01:00", "summary_phrase": "s",
                                 "names_mentioned": [], "excerpt": "e", "quote": "Steph is back and the Warriors "
                                                                                "are a real threat in the West"}]}
-            (src / "0TJRHXX9moo.json").write_text(json.dumps(data))
-            (src / "0TJRHXX9moo.md").write_text("# Steph Revives the Warriors — *No Fouls Given*\n\nSource: x\n")
-            (src / "787oKBEJOg0.SKIPPED-reporter-gate").write_text("")
+            (src / "0TJRHXX9moo.json").write_text(json.dumps(data), encoding="utf-8")
+            (src / "0TJRHXX9moo.md").write_text("# Steph Revives the Warriors — *No Fouls Given*\n\nSource: x\n", encoding="utf-8")
+            (src / "787oKBEJOg0.SKIPPED-reporter-gate").write_text("", encoding="utf-8")
 
             class Models:
                 def generate_content(self, model, contents, config):
@@ -254,8 +254,8 @@ class YtqImportTests(unittest.TestCase):
             cutoff = datetime(2026, 11, 7, tzinfo=timezone.utc)
             items = pe.import_ytq_podcasts(client, "", out / "ytq", cutoff, run_id="2026-11-09-overnight")
             again = pe.import_ytq_podcasts(client, "", out / "ytq", cutoff, run_id="2026-11-09-overnight")
-            stored = json.loads((out / "2026-11-09" / "0TJRHXX9moo.json").read_text())
-            page = pe.write_pages("2026-11-09", "overnight")["podcast"].read_text()
+            stored = json.loads((out / "2026-11-09" / "0TJRHXX9moo.json").read_text(encoding="utf-8"))
+            page = pe.write_pages("2026-11-09", "overnight")["podcast"].read_text(encoding="utf-8")
         self.assertEqual([it["content_type"] for it in items], ["podcast"])
         self.assertEqual(again, [])                                   # already stored: not imported twice
         self.assertEqual((stored["content_type"], stored["channel_team"], stored["source"]),

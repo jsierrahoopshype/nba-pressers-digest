@@ -374,7 +374,7 @@ class PipelineTests(unittest.TestCase):
             day.mkdir(parents=True)
             for v in vids:
                 (day / f"{v['video_id']}.json").write_text(json.dumps(v))
-                (day / f"{v['video_id']}.md").write_text(pe.render_markdown(v["video_id"], "T", v))
+                (day / f"{v['video_id']}.md").write_text(pe.render_markdown(v["video_id"], "T", v), encoding="utf-8")
             pages = {c: p.read_text(encoding="utf-8") for c, p in pe.write_pages("2026-11-07", "14utc").items()}
         for ctype, page in pages.items():
             self.assertEqual(page.count("# Best of the best"), 1, ctype)
