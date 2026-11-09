@@ -186,8 +186,8 @@
       "rank": 6,
       "speaker": "Jamal Shead",
       "speakers": [
-        "Jamal Shead",
-        "Unidentified speaker"
+        "Unidentified reporter",
+        "Jamal Shead"
       ],
       "timestamp": "04:16",
       "summary_phrase": "Jamal Shead on Elijah Fisher's breakout performance",
@@ -197,7 +197,7 @@
       "excerpt": "When guys are ready for their moment, they pop and he popped tonight.",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "What was it like seeing Elijah get a crack and then take full advantage of the way he did tonight?"
         },
         {
@@ -409,6 +409,6 @@
   "processed_at": "2026-11-07T07:17:34Z",
   "run_id": "2026-11-07-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

@@ -57,7 +57,7 @@
       "rank": 2,
       "speaker": "Luguentz Dort",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Luguentz Dort"
       ],
       "timestamp": "00:58",
@@ -66,7 +66,7 @@
       "excerpt": "I was the one that was open to make those shots.",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "Luguentz, you hit a couple of big buckets down the stretch, that three and then the mid-range jumper. When you guys are in those close game situations, how does maybe the net open up a little bit more for you in terms of being able to hit those big shots to meet the moment?"
         },
         {
@@ -195,6 +195,6 @@
   "processed_at": "2026-11-07T07:18:28Z",
   "run_id": "2026-11-07-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

@@ -26,7 +26,7 @@ _Speakers identified: Taylor Jenkins, Unidentified speaker_
 
 **3. Taylor Jenkins — "You should never defer. Should be assertive when you're open, let it fly." — Taylor Jenkins on Miles Turner's shooting struggles and coaching philosophy** [01:16](https://www.youtube.com/watch?v=VpnLiomjjZc&t=76s)
 
-**Unidentified speaker:** "When someone as important as **Miles Turner** goes over for seven, do you want him to keep shooting through that? What's your coaching advice to him, or are you okay with like deferring and letting him figure it out?"
+**Unidentified reporter:** "When someone as important as **Miles Turner** goes over for seven, do you want him to keep shooting through that? What's your coaching advice to him, or are you okay with like deferring and letting him figure it out?"
 
 **Taylor Jenkins:** "You should never defer. Should be assertive when you're open, let it fly. He owned it after the game, he told his teammates I didn't have it. It was a rough night for me. I got to continue to be better and still impact the game on the defensive side, but I'm never going to tell a guy when you're missing shots to not shoot it."
 

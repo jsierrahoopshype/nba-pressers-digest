@@ -9,7 +9,7 @@
       "rank": 1,
       "speaker": "Brayden Burries",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Brayden Burries"
       ],
       "timestamp": "00:05",
@@ -18,7 +18,7 @@
       "excerpt": "we let our offense dictate our defense that second half",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "As you guys are trying to find offense late, try to get stops late, what were they able to do to kind of prevent you guys from getting those extra stops or getting those couple buckets to get you over the top?"
         },
         {
@@ -87,7 +87,7 @@
       "rank": 3,
       "speaker": "Brayden Burries",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Brayden Burries"
       ],
       "timestamp": "01:42",
@@ -96,7 +96,7 @@
       "excerpt": "I feel like off the court, the main thing is just to continue to take care of my body",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "38 minutes, that's a lot. If you have to do that more often than not, what do you think the key will be for you to maintain that kind of pace, like rest, nutrition, talking to your coach, how are you feeling?"
         },
         {
@@ -126,7 +126,7 @@
       "rank": 4,
       "speaker": "Brayden Burries",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Brayden Burries"
       ],
       "timestamp": "02:37",
@@ -135,7 +135,7 @@
       "excerpt": "even if I don't get it now I'm ready to play defense, ready to pick up",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "You mentioned the rebounding, you had six in the first quarter, four offensive boards. When you almost get it more than halfway there in one quarter, is that kind of what you're talking about where you're just aggressive?"
         },
         {
@@ -166,7 +166,7 @@
       "rank": 5,
       "speaker": "Brayden Burries",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Brayden Burries"
       ],
       "timestamp": "03:32",
@@ -175,7 +175,7 @@
       "excerpt": "it's going to be hard to win a game if they have 16 more times to shoot",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "Is that a rookie learning curve type thing, but it's obviously you're noticing a trend, so is that something that's more of a conscious thought then?"
         },
         {
@@ -205,7 +205,7 @@
       "rank": 6,
       "speaker": "Brayden Burries",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Brayden Burries"
       ],
       "timestamp": "04:02",
@@ -214,7 +214,7 @@
       "excerpt": "big thing for me right now is trying to be more vocal",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "What do you feel like you're making the biggest strides when it comes to understanding how you can impact the team?"
         },
         {
@@ -252,6 +252,6 @@
   "processed_at": "2026-11-07T07:17:39Z",
   "run_id": "2026-11-07-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

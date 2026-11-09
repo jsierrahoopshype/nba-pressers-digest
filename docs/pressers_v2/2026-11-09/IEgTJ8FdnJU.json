@@ -9,8 +9,8 @@
       "rank": 1,
       "speaker": "LaMelo Ball",
       "speakers": [
-        "LaMelo Ball",
-        "Unidentified reporter"
+        "Unidentified reporter",
+        "LaMelo Ball"
       ],
       "timestamp": "00:00",
       "summary_phrase": "LaMelo Ball on the impact of playing with Ayo Dosunmu",
@@ -55,8 +55,8 @@
       "rank": 2,
       "speaker": "LaMelo Ball",
       "speakers": [
-        "LaMelo Ball",
-        "Unidentified reporter"
+        "Unidentified reporter",
+        "LaMelo Ball"
       ],
       "timestamp": "00:23",
       "summary_phrase": "LaMelo Ball on his defensive growth and coaching instructions",
@@ -97,8 +97,8 @@
       "rank": 3,
       "speaker": "LaMelo Ball",
       "speakers": [
-        "LaMelo Ball",
-        "Unidentified reporter"
+        "Unidentified reporter",
+        "LaMelo Ball"
       ],
       "timestamp": "00:46",
       "summary_phrase": "LaMelo Ball on the bench's contribution to the win",
@@ -139,8 +139,8 @@
       "rank": 4,
       "speaker": "LaMelo Ball",
       "speakers": [
-        "LaMelo Ball",
-        "Unidentified reporter"
+        "Unidentified reporter",
+        "LaMelo Ball"
       ],
       "timestamp": "00:57",
       "summary_phrase": "LaMelo Ball on Lonzo Ball's impact on team energy",
@@ -185,8 +185,8 @@
       "rank": 5,
       "speaker": "LaMelo Ball",
       "speakers": [
-        "LaMelo Ball",
-        "Unidentified reporter"
+        "Unidentified reporter",
+        "LaMelo Ball"
       ],
       "timestamp": "01:25",
       "summary_phrase": "LaMelo Ball on the importance of grinding out wins",
@@ -225,8 +225,8 @@
       "rank": 6,
       "speaker": "LaMelo Ball",
       "speakers": [
-        "LaMelo Ball",
-        "Unidentified reporter"
+        "Unidentified reporter",
+        "LaMelo Ball"
       ],
       "timestamp": "01:43",
       "summary_phrase": "LaMelo Ball on the necessity of a deep bench",
@@ -265,8 +265,8 @@
       "rank": 7,
       "speaker": "LaMelo Ball",
       "speakers": [
-        "LaMelo Ball",
-        "Unidentified reporter"
+        "Unidentified reporter",
+        "LaMelo Ball"
       ],
       "timestamp": "01:59",
       "summary_phrase": "LaMelo Ball on the team's ability to make in-game adjustments",
@@ -313,6 +313,6 @@
   "processed_at": "2026-11-09T08:04:40Z",
   "run_id": "2026-11-09-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

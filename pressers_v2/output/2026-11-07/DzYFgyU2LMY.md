@@ -6,7 +6,7 @@ _Speakers identified: Ayo Dosunmu, Meghan McPeak_
 
 **1. Ayo Dosunmu — "We want to do whatever it takes to win a game." — Ayo Dosunmu on the Bulls' emphasis on paint scoring** [00:00](https://www.youtube.com/watch?v=DzYFgyU2LMY&t=0s)
 
-**Meghan McPeak:** "The threes weren't falling as a team tonight. What was the emphasis to get into the paint to try to give you guys some kickout opportunities?"
+**Unidentified reporter:** "The threes weren't falling as a team tonight. What was the emphasis to get into the paint to try to give you guys some kickout opportunities?"
 
 **Ayo Dosunmu:** "We want to do whatever it takes to win a game. I got me harping on all season, each and every game is a tough game and that's a damn good basketball team. They won four straight. This is a cup game, everything is on the line and we want to give it our all. We threw punches, they threw punches, and it was all about who can withstand the punch."
 

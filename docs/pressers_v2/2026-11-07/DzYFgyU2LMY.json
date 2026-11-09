@@ -9,7 +9,7 @@
       "rank": 1,
       "speaker": "Ayo Dosunmu",
       "speakers": [
-        "Meghan McPeak",
+        "Unidentified reporter",
         "Ayo Dosunmu"
       ],
       "timestamp": "00:00",
@@ -18,7 +18,7 @@
       "excerpt": "We want to do whatever it takes to win a game.",
       "text_blocks": [
         {
-          "speaker": "Meghan McPeak",
+          "speaker": "Unidentified reporter",
           "text": "The threes weren't falling as a team tonight. What was the emphasis to get into the paint to try to give you guys some kickout opportunities?"
         },
         {
@@ -102,6 +102,6 @@
   "processed_at": "2026-11-07T07:17:58Z",
   "run_id": "2026-11-07-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

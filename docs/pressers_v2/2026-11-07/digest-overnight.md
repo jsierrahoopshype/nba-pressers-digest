@@ -56,7 +56,7 @@ From: [Cavs vs 76ers \| Donovan Mitchell & Evan Mobley Post Game \| 11.06.2026](
 
 **6. Brayden Burries — "we let our offense dictate our defense that second half" — Brayden Burries on Milwaukee's second-half defensive struggles** [00:05](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s)
 
-**Unidentified speaker:** "As you guys are trying to find offense late, try to get stops late, what were they able to do to kind of prevent you guys from getting those extra stops or getting those couple buckets to get you over the top?"
+**Unidentified reporter:** "As you guys are trying to find offense late, try to get stops late, what were they able to do to kind of prevent you guys from getting those extra stops or getting those couple buckets to get you over the top?"
 
 **Brayden Burries:** "I think we were getting good looks, we just were hitting them and we let that affect us on the defensive end and they started getting in the paint way more than the first half. So, yeah, we let our offense dictate our defense that second half."
 
@@ -348,7 +348,7 @@ _Speakers identified: Unidentified speaker, Luguentz Dort_
 
 **2. Luguentz Dort — "I was the one that was open to make those shots." — Luguentz Dort on hitting clutch shots and team ball movement** [00:58](https://www.youtube.com/watch?v=6J54qK7Anlw&t=58s)
 
-**Unidentified speaker:** "Luguentz, you hit a couple of big buckets down the stretch, that three and then the mid-range jumper. When you guys are in those close game situations, how does maybe the net open up a little bit more for you in terms of being able to hit those big shots to meet the moment?"
+**Unidentified reporter:** "Luguentz, you hit a couple of big buckets down the stretch, that three and then the mid-range jumper. When you guys are in those close game situations, how does maybe the net open up a little bit more for you in terms of being able to hit those big shots to meet the moment?"
 
 **Luguentz Dort:** "I think as a team, we are just trying our best to find the right shots in those situations. When the game comes down to that, you have to try your best to get stops and take the right shots. Obviously, we just had to read the game. We got the ball moving a little bit and I was the one that was open to make those shots. But as a team, whenever we get to that type of stretch, we just have to keep playing together and turn the ball."
 
@@ -386,7 +386,7 @@ _Speakers identified: Brayden Burries, Unidentified speaker_
 
 **1. Brayden Burries — "we let our offense dictate our defense that second half" — Brayden Burries on Milwaukee's second-half defensive struggles** [00:05](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=5s)
 
-**Unidentified speaker:** "As you guys are trying to find offense late, try to get stops late, what were they able to do to kind of prevent you guys from getting those extra stops or getting those couple buckets to get you over the top?"
+**Unidentified reporter:** "As you guys are trying to find offense late, try to get stops late, what were they able to do to kind of prevent you guys from getting those extra stops or getting those couple buckets to get you over the top?"
 
 **Brayden Burries:** "I think we were getting good looks, we just were hitting them and we let that affect us on the defensive end and they started getting in the paint way more than the first half. So, yeah, we let our offense dictate our defense that second half."
 
@@ -406,7 +406,7 @@ _Speakers identified: Brayden Burries, Unidentified speaker_
 
 **3. Brayden Burries — "I feel like off the court, the main thing is just to continue to take care of my body" — Brayden Burries on maintaining conditioning and physical recovery** [01:42](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=102s)
 
-**Unidentified speaker:** "38 minutes, that's a lot. If you have to do that more often than not, what do you think the key will be for you to maintain that kind of pace, like rest, nutrition, talking to your coach, how are you feeling?"
+**Unidentified reporter:** "38 minutes, that's a lot. If you have to do that more often than not, what do you think the key will be for you to maintain that kind of pace, like rest, nutrition, talking to your coach, how are you feeling?"
 
 **Brayden Burries:** "I'm just ready for any given opportunity. Just make the best of my opportunity. I feel like off the court, the main thing is just to continue to take care of my body, continue to stay in the gym, and get those reps, and then also, like you said, sleep."
 
@@ -416,7 +416,7 @@ _Speakers identified: Brayden Burries, Unidentified speaker_
 
 **4. Brayden Burries — "even if I don't get it now I'm ready to play defense, ready to pick up" — Brayden Burries on his rebounding focus and defensive accountability** [02:37](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=157s)
 
-**Unidentified speaker:** "You mentioned the rebounding, you had six in the first quarter, four offensive boards. When you almost get it more than halfway there in one quarter, is that kind of what you're talking about where you're just aggressive?"
+**Unidentified reporter:** "You mentioned the rebounding, you had six in the first quarter, four offensive boards. When you almost get it more than halfway there in one quarter, is that kind of what you're talking about where you're just aggressive?"
 
 **Brayden Burries:** "I kind of, I've been getting a good amount of rebounds, but then second half I don't get as much. So I need to like get more, or like at least like go. I feel like me not going is, because if even if I don't get it now I'm ready to play defense, ready to pick up. So, even like Minnesota I had nine, but I think I had like six or seven in the first half. So like, and then last game, trying to get them out in the first half. So that second half I got to keep rebounding. That's the main thing."
 
@@ -426,7 +426,7 @@ _Speakers identified: Brayden Burries, Unidentified speaker_
 
 **5. Brayden Burries — "it's going to be hard to win a game if they have 16 more times to shoot" — Brayden Burries on the importance of limiting opponent extra possessions** [03:32](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=212s)
 
-**Unidentified speaker:** "Is that a rookie learning curve type thing, but it's obviously you're noticing a trend, so is that something that's more of a conscious thought then?"
+**Unidentified reporter:** "Is that a rookie learning curve type thing, but it's obviously you're noticing a trend, so is that something that's more of a conscious thought then?"
 
 **Brayden Burries:** "I'm just, I really just got to look at the film. But it really is just effort, just wanting to do it, wanting to go. And that's extra possessions, you know, they had like 16 extra possessions than us today, and it's going to be hard to win a game if they have 16 more times to shoot the ball than you."
 
@@ -436,7 +436,7 @@ _Speakers identified: Brayden Burries, Unidentified speaker_
 
 **6. Brayden Burries — "big thing for me right now is trying to be more vocal" — Brayden Burries on his growth as a vocal leader** [04:02](https://www.youtube.com/watch?v=Cg-GTNEoXOM&t=242s)
 
-**Unidentified speaker:** "What do you feel like you're making the biggest strides when it comes to understanding how you can impact the team?"
+**Unidentified reporter:** "What do you feel like you're making the biggest strides when it comes to understanding how you can impact the team?"
 
 **Brayden Burries:** "I think just getting into, offensively getting into the paint, creating for others, drawing other guys to me and then just making the easy play. And then defensively, which I'm getting better at is picking up and then rebounding. And just talking, being more vocal. You know, that's the big thing for me right now is trying to be more vocal. Because I'm a, I talk like when needed, but I don't really talk too much. So, but yeah, I just got to be more vocal, be that lead guard."
 
@@ -518,7 +518,7 @@ _Speakers identified: Ayo Dosunmu, Meghan McPeak_
 
 **1. Ayo Dosunmu — "We want to do whatever it takes to win a game." — Ayo Dosunmu on the Bulls' emphasis on paint scoring** [00:00](https://www.youtube.com/watch?v=DzYFgyU2LMY&t=0s)
 
-**Meghan McPeak:** "The threes weren't falling as a team tonight. What was the emphasis to get into the paint to try to give you guys some kickout opportunities?"
+**Unidentified reporter:** "The threes weren't falling as a team tonight. What was the emphasis to get into the paint to try to give you guys some kickout opportunities?"
 
 **Ayo Dosunmu:** "We want to do whatever it takes to win a game. I got me harping on all season, each and every game is a tough game and that's a damn good basketball team. They won four straight. This is a cup game, everything is on the line and we want to give it our all. We threw punches, they threw punches, and it was all about who can withstand the punch."
 
@@ -742,7 +742,7 @@ _Speakers identified: Taylor Jenkins, Unidentified speaker_
 
 **3. Taylor Jenkins — "You should never defer. Should be assertive when you're open, let it fly." — Taylor Jenkins on Miles Turner's shooting struggles and coaching philosophy** [01:16](https://www.youtube.com/watch?v=VpnLiomjjZc&t=76s)
 
-**Unidentified speaker:** "When someone as important as **Miles Turner** goes over for seven, do you want him to keep shooting through that? What's your coaching advice to him, or are you okay with like deferring and letting him figure it out?"
+**Unidentified reporter:** "When someone as important as **Miles Turner** goes over for seven, do you want him to keep shooting through that? What's your coaching advice to him, or are you okay with like deferring and letting him figure it out?"
 
 **Taylor Jenkins:** "You should never defer. Should be assertive when you're open, let it fly. He owned it after the game, he told his teammates I didn't have it. It was a rough night for me. I got to continue to be better and still impact the game on the defensive side, but I'm never going to tell a guy when you're missing shots to not shoot it."
 

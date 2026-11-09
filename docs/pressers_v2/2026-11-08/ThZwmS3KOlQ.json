@@ -9,8 +9,8 @@
       "rank": 1,
       "speaker": "Jalen Green",
       "speakers": [
-        "Jalen Green",
-        "Amanda"
+        "Unidentified reporter",
+        "Jalen Green"
       ],
       "timestamp": "00:03",
       "summary_phrase": "Jalen Green on facing his former Houston Rockets teammates",
@@ -20,7 +20,7 @@
       "excerpt": "I was just happy to see them. Glad we got the dub, really wanted that one.",
       "text_blocks": [
         {
-          "speaker": "Amanda",
+          "speaker": "Unidentified reporter",
           "text": "Jalen Green, catching up with your former teammates. What were you saying to them postgame?"
         },
         {
@@ -54,8 +54,8 @@
       "rank": 2,
       "speaker": "Jalen Green",
       "speakers": [
-        "Jalen Green",
-        "Amanda"
+        "Unidentified reporter",
+        "Jalen Green"
       ],
       "timestamp": "00:34",
       "summary_phrase": "Jalen Green on the emotional significance of playing Houston",
@@ -65,7 +65,7 @@
       "excerpt": "I grew up there in Houston, learned a lot there in Houston, so that was very emotional.",
       "text_blocks": [
         {
-          "speaker": "Amanda",
+          "speaker": "Unidentified reporter",
           "text": "How much was tonight an emotionally charged game for you and Dylan?"
         },
         {
@@ -99,8 +99,8 @@
       "rank": 3,
       "speaker": "Jalen Green",
       "speakers": [
-        "Jalen Green",
-        "Amanda"
+        "Unidentified reporter",
+        "Jalen Green"
       ],
       "timestamp": "00:57",
       "summary_phrase": "Jalen Green on setting the offensive tone for Phoenix",
@@ -110,7 +110,7 @@
       "excerpt": "Just being aggressive, playing defense. That's really the main priority right now, just being myself.",
       "text_blocks": [
         {
-          "speaker": "Amanda",
+          "speaker": "Unidentified reporter",
           "text": "You got it going, eight points in that first quarter, 16 on the night. How are you able to set the tone for your teammates offensively?"
         },
         {
@@ -149,6 +149,6 @@
   "processed_at": "2026-11-08T07:27:49Z",
   "run_id": "2026-11-08-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

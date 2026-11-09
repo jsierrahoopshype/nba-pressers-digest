@@ -6,7 +6,7 @@
   "quotes": [
     {
       "rank": 1,
-      "speaker": "Brayden Burries",
+      "speaker": "Unidentified reporter",
       "timestamp": "00:00",
       "summary_phrase": "Brayden Burries on Milwaukee's inability to sustain defensive intensity",
       "names_mentioned": [
@@ -18,7 +18,7 @@
       "text_blocks": [],
       "start_seconds": 0,
       "end_seconds": 29,
-      "speaker_confidence": "named",
+      "speaker_confidence": "inferred",
       "news_score": 5,
       "social_score": 2,
       "social_post": "Brayden Burries says the team is struggling to sustain defensive intensity for a full game, noting the recurring theme of failing to maintain momentum after strong starts.",
@@ -33,7 +33,8 @@
         "context": "Brayden Burries discusses the team's struggle to maintain defensive intensity throughout the game.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "reporter_question": true
     },
     {
       "rank": 2,
@@ -43,9 +44,18 @@
       "names_mentioned": [
         "Taylor"
       ],
-      "excerpt": "Before the game Taylor said look, shots in, out, that's going to happen, but it has to be defense.",
-      "quote": "Before the game Taylor said look, shots in, out, that's going to happen, but it has to be defense for us. So what are you learning now that you're playing more minutes, you're in that starting groups and quarters? What are you learning about coming out with that intensity and starting with some of that defensive mindset to try to keep it, and then trying to keep it? The defensive mindset is just really the first, even the way you start a game and then that halftime, the first three minutes, I feel is very important. Set the tone for the rest of the half and that's the main thing. So if we can get stops early, then now we start hitting shots, now we're flowing.",
-      "text_blocks": [],
+      "excerpt": "The defensive mindset is just really the first, even the way you start a game and then that halftime, the",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Before the game Taylor said look, shots in, out, that's going to happen, but it has to be defense for us. So what are you learning now that you're playing more minutes, you're in that starting groups and quarters? What are you learning about coming out with that intensity and starting with some of that defensive mindset to try to keep it, and then trying to keep it?"
+        },
+        {
+          "speaker": "Brayden Burries",
+          "text": "The defensive mindset is just really the first, even the way you start a game and then that halftime, the first three minutes, I feel is very important. Set the tone for the rest of the half and that's the main thing. So if we can get stops early, then now we start hitting shots, now we're flowing."
+        }
+      ],
       "start_seconds": 50,
       "end_seconds": 98,
       "speaker_confidence": "named",
@@ -63,7 +73,12 @@
         "context": "Brayden Burries explains the importance of starting halves with a strong defensive mindset to generate offensive flow.",
         "best": false,
         "prompt": "47544341"
-      }
+      },
+      "speakers": [
+        "Unidentified reporter",
+        "Brayden Burries"
+      ],
+      "reporter_split": true
     },
     {
       "rank": 3,
@@ -198,6 +213,6 @@
   "processed_at": "2026-11-09T08:04:53Z",
   "run_id": "2026-11-09-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

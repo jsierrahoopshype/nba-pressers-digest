@@ -9,8 +9,8 @@
       "rank": 1,
       "speaker": "Sam Yip",
       "speakers": [
-        "Cyro Asseo",
-        "Sam Yip"
+        "Sam Yip",
+        "Cyro Asseo"
       ],
       "timestamp": "01:11",
       "summary_phrase": "Declining a rookie option serves as a warning to front offices",
@@ -49,8 +49,8 @@
       "rank": 2,
       "speaker": "Sam Yip",
       "speakers": [
-        "Cyro Asseo",
-        "Sam Yip"
+        "Sam Yip",
+        "Cyro Asseo"
       ],
       "timestamp": "01:40",
       "summary_phrase": "Declined options signal a lack of long-term team confidence",
@@ -308,8 +308,8 @@
       "rank": 10,
       "speaker": "Sam Yip",
       "speakers": [
-        "Cyro Asseo",
-        "Sam Yip"
+        "Sam Yip",
+        "Cyro Asseo"
       ],
       "timestamp": "08:41",
       "summary_phrase": "Isaiah Collier as the best bet among declined players",
@@ -358,6 +358,6 @@
   "processed_at": "2026-11-08T07:28:20Z",
   "run_id": "2026-11-08-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

@@ -90,7 +90,7 @@
       "rank": 3,
       "speaker": "Taylor Jenkins",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Taylor Jenkins"
       ],
       "timestamp": "01:16",
@@ -102,7 +102,7 @@
       "quote": "",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "When someone as important as Miles Turner goes over for seven, do you want him to keep shooting through that? What's your coaching advice to him, or are you okay with like deferring and letting him figure it out?"
         },
         {
@@ -190,6 +190,6 @@
   "processed_at": "2026-11-07T07:17:53Z",
   "run_id": "2026-11-07-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

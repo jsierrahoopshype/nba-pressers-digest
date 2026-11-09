@@ -16,7 +16,7 @@ _Speakers identified: Unidentified speaker, Luguentz Dort_
 
 **2. Luguentz Dort — "I was the one that was open to make those shots." — Luguentz Dort on hitting clutch shots and team ball movement** [00:58](https://www.youtube.com/watch?v=6J54qK7Anlw&t=58s)
 
-**Unidentified speaker:** "Luguentz, you hit a couple of big buckets down the stretch, that three and then the mid-range jumper. When you guys are in those close game situations, how does maybe the net open up a little bit more for you in terms of being able to hit those big shots to meet the moment?"
+**Unidentified reporter:** "Luguentz, you hit a couple of big buckets down the stretch, that three and then the mid-range jumper. When you guys are in those close game situations, how does maybe the net open up a little bit more for you in terms of being able to hit those big shots to meet the moment?"
 
 **Luguentz Dort:** "I think as a team, we are just trying our best to find the right shots in those situations. When the game comes down to that, you have to try your best to get stops and take the right shots. Obviously, we just had to read the game. We got the ball moving a little bit and I was the one that was open to make those shots. But as a team, whenever we get to that type of stretch, we just have to keep playing together and turn the ball."
 

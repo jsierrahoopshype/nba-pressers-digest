@@ -4,17 +4,11 @@ Source: [https://www.youtube.com/watch?v=1tN8GdDvezs](https://www.youtube.com/wa
 
 _Speakers identified: Brayden Burries_
 
-**1. Brayden Burries — "I know that's kind of been the theme unfortunately, but I guess tonight, what did you see?" — Brayden Burries on Milwaukee's inability to sustain defensive intensity** [00:00](https://www.youtube.com/watch?v=1tN8GdDvezs&t=0s)
+**2. Brayden Burries — "The defensive mindset is just really the first, even the way you start a game and then that halftime, the" — Brayden Burries on prioritizing defensive mindset to maintain leads** [00:50](https://www.youtube.com/watch?v=1tN8GdDvezs&t=50s)
 
-Brayden Burries: "You get nine and a half minutes of really good basketball on both ends and didn't quite sustain. I know that's kind of been the theme unfortunately, but I guess tonight, what did you see maybe flip? I know **Jayson Tatum** and **George** combined for 18 straight points, but obviously that means you guys aren't getting anything on the other end. What did you see change there in the first and into the second quarter?"
+**Unidentified reporter:** "Before the game **Taylor** said look, shots in, out, that's going to happen, but it has to be defense for us. So what are you learning now that you're playing more minutes, you're in that starting groups and quarters? What are you learning about coming out with that intensity and starting with some of that defensive mindset to try to keep it, and then trying to keep it?"
 
-[https://www.youtube.com/watch?v=1tN8GdDvezs&t=0s](https://www.youtube.com/watch?v=1tN8GdDvezs&t=0s)
-
-<small>[Clip it](presserclips://clip?v=1tN8GdDvezs&t=0&q=1) · [Send to Slack](presserclips://clip?v=1tN8GdDvezs&t=0&q=1&slack=1)</small>
-
-**2. Brayden Burries — "Before the game Taylor said look, shots in, out, that's going to happen, but it has to be defense." — Brayden Burries on prioritizing defensive mindset to maintain leads** [00:50](https://www.youtube.com/watch?v=1tN8GdDvezs&t=50s)
-
-Brayden Burries: "Before the game **Taylor** said look, shots in, out, that's going to happen, but it has to be defense for us. So what are you learning now that you're playing more minutes, you're in that starting groups and quarters? What are you learning about coming out with that intensity and starting with some of that defensive mindset to try to keep it, and then trying to keep it? The defensive mindset is just really the first, even the way you start a game and then that halftime, the first three minutes, I feel is very important. Set the tone for the rest of the half and that's the main thing. So if we can get stops early, then now we start hitting shots, now we're flowing."
+**Brayden Burries:** "The defensive mindset is just really the first, even the way you start a game and then that halftime, the first three minutes, I feel is very important. Set the tone for the rest of the half and that's the main thing. So if we can get stops early, then now we start hitting shots, now we're flowing."
 
 [https://www.youtube.com/watch?v=1tN8GdDvezs&t=50s](https://www.youtube.com/watch?v=1tN8GdDvezs&t=50s)
 

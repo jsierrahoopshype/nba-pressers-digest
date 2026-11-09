@@ -8,7 +8,7 @@
       "rank": 1,
       "speaker": "Jamahl Mosley",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Jamahl Mosley"
       ],
       "timestamp": "1:26",
@@ -17,7 +17,7 @@
       "excerpt": "getting in the paint, being able to attack the basket the right way, but making the right decisions",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "You have certainly discussed the strength of your team being one getting into the paint, scoring. When it comes to a team that over here is still trying to figure out in the Clippers how to guard in that area, how big of a factor could that be tonight?"
         },
         {
@@ -94,7 +94,7 @@
       "rank": 3,
       "speaker": "Jamahl Mosley",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Jamahl Mosley"
       ],
       "timestamp": "2:43",
@@ -105,7 +105,7 @@
       "excerpt": "he's got a fiery edge to him, and I think that's what I've seen over the years",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "With Benedict Mathurin on your team, he was a restricted free agent here. Were you surprised that he was made available to y'all and what kind of player did you expect to get and what kind of player has he been for you?"
         },
         {
@@ -184,7 +184,7 @@
       "rank": 5,
       "speaker": "Jamahl Mosley",
       "speakers": [
-        "Unidentified speaker",
+        "Unidentified reporter",
         "Jamahl Mosley"
       ],
       "timestamp": "4:11",
@@ -193,7 +193,7 @@
       "excerpt": "it's been one or two possessions that changes the factor of the game",
       "text_blocks": [
         {
-          "speaker": "Unidentified speaker",
+          "speaker": "Unidentified reporter",
           "text": "In your wins versus losses, are there trends of certain things that are happening in wins that you can point to that you say these are things that have to carry over in other games?"
         },
         {
@@ -232,6 +232,6 @@
   "processed_at": "2026-11-09T08:05:17Z",
   "run_id": "2026-11-09-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

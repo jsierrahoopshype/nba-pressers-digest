@@ -231,6 +231,6 @@
   "processed_at": "2026-11-09T08:05:14Z",
   "run_id": "2026-11-09-overnight",
   "is_one_off": false,
-  "reporter_check": 1,
+  "reporter_check": 2,
   "reporter_check_source": "gemini"
 }

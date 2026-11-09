@@ -6,7 +6,7 @@ _Speakers identified: Jamahl Mosley_
 
 **1. Jamahl Mosley — "getting in the paint, being able to attack the basket the right way, but making the right decisions" — Pelicans' emphasis on paint scoring and decision-making against Clippers** [1:26](https://www.youtube.com/watch?v=b4i7spZVjcw&t=86s)
 
-**Unidentified speaker:** "You have certainly discussed the strength of your team being one getting into the paint, scoring. When it comes to a team that over here is still trying to figure out in the Clippers how to guard in that area, how big of a factor could that be tonight?"
+**Unidentified reporter:** "You have certainly discussed the strength of your team being one getting into the paint, scoring. When it comes to a team that over here is still trying to figure out in the Clippers how to guard in that area, how big of a factor could that be tonight?"
 
 **Jamahl Mosley:** "That's a huge factor. That was a point of emphasis today in our film session for helping these guys understand exactly what we're capable of doing. But also, getting in the paint, being able to attack the basket the right way, but making the right decisions when you get in there."
 
@@ -26,7 +26,7 @@ _Speakers identified: Jamahl Mosley_
 
 **3. Jamahl Mosley — "he's got a fiery edge to him, and I think that's what I've seen over the years" — Jamahl Mosley on the competitive edge of Benedict Mathurin** [2:43](https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s)
 
-**Unidentified speaker:** "With **Benedict Mathurin** on your team, he was a restricted free agent here. Were you surprised that he was made available to y'all and what kind of player did you expect to get and what kind of player has he been for you?"
+**Unidentified reporter:** "With **Benedict Mathurin** on your team, he was a restricted free agent here. Were you surprised that he was made available to y'all and what kind of player did you expect to get and what kind of player has he been for you?"
 
 **Jamahl Mosley:** "Just watching Ben over the years, you talk about his competitive edge, his toughness, his grit. That's how he plays the game. He's got a fiery edge to him, and I think that's what I've seen over the years with him, whether he was in Indiana or here with the Clippers. I think he has that edge and that fire to him to be able to score in different directions but also to be able to sit down and guard at a different level at times."
 
@@ -46,7 +46,7 @@ _Speakers identified: Jamahl Mosley_
 
 **5. Jamahl Mosley — "it's been one or two possessions that changes the factor of the game" — Identifying trends in Pelicans' wins and losses** [4:11](https://www.youtube.com/watch?v=b4i7spZVjcw&t=251s)
 
-**Unidentified speaker:** "In your wins versus losses, are there trends of certain things that are happening in wins that you can point to that you say these are things that have to carry over in other games?"
+**Unidentified reporter:** "In your wins versus losses, are there trends of certain things that are happening in wins that you can point to that you say these are things that have to carry over in other games?"
 
 **Jamahl Mosley:** "It's been tricky because of those close games. We touch the paint at a high rate, we get to the free throw line at a certain level, keeping teams out of the paint has been a key. But in some of the closest games, it's been one or two possessions that changes the factor of the game. So trying to find the trend within it is tough. I know in some of the losses, it's been our lines of communication down the stretch, the point of the high pick-and-roll, being able to get that cleaned up the right way, I think has been big in some of those games."
 
