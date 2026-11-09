@@ -498,9 +498,10 @@ def split_leading_question(text: str) -> tuple[str, str] | None:
 
 
 def quote_visible(q: dict) -> bool:
-    """Shown on the pages: not a bare reporter question, and not an answer
-    that a single-speaker video of the same session already carries."""
-    return not q.get("reporter_question") and not q.get("duplicate_of")
+    """Shown on the pages: not a bare reporter question, not an answer
+    that a single-speaker video of the same session already carries, and
+    (podcasts) not a quote about another sport."""
+    return not q.get("reporter_question") and not q.get("duplicate_of") and not q.get("non_nba")
 
 
 def speaker_own_text(q: dict) -> str:
@@ -883,7 +884,40 @@ Also return the video's "content_type": "presser" for a press conference, media 
 Return ONLY JSON: {"content_type": "presser", "quotes": [{"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_score": 4, "social_post": "..."}]}"""
 
 
-def derive_clip_fields(client, data: dict, team: str) -> dict:
+# Podcast imports only (Jorge, Nov 10 2026): the same clip-fields call also
+# says, per quote, whether it is about the NBA. The yt-quotes rotation has
+# shows that cover other sports; their non-NBA quotes are kept in the .json
+# (non_nba) but left off the podcasts pages and the clip list. A mixed show
+# keeps its NBA quotes. Press conferences send CLIP_FIELDS_PROMPT unchanged.
+PODCAST_NBA_RULE = """
+
+This is a podcast or show that may cover other sports. For each quote ALSO return "nba": true when the quote is about NBA basketball (NBA players, coaches, teams, games, trades, the league, or an NBA player's life and career, past or present), false when it is about another sport or league (NFL, MLB, college football, golf, soccer, WNBA...) or about nothing basketball-related. A quote that mentions an NBA player only in passing while being about another sport is false.
+
+Each quote object then looks like: {"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_score": 4, "social_post": "...", "nba": true}"""
+
+
+def _is_nba(value) -> bool:
+    """Gemini's "nba" flag; anything but an explicit false keeps the quote."""
+    if isinstance(value, str):
+        return value.strip().lower() != "false"
+    return value is not False
+
+
+def apply_nba_flags(data: dict, derived: dict) -> int:
+    """Mark the quotes the clip-fields answer called non-NBA. Returns how many."""
+    by_rank = derived.get("by_rank") or {}
+    n = 0
+    for q in data.get("quotes") or []:
+        d = by_rank.get(q.get("rank"))
+        if d is not None and not _is_nba(d.get("nba", True)):
+            q["non_nba"] = True
+            n += 1
+        else:
+            q.pop("non_nba", None)
+    return n
+
+
+def derive_clip_fields(client, data: dict, team: str, extra_rules: str = "") -> dict:
     """One text-only call over the extracted quotes. Returns
     {"content_type": ..., "by_rank": {rank: {...}}}; {} on any failure
     (the video keeps its quotes; clip fields fall back to defaults)."""
@@ -902,7 +936,7 @@ def derive_clip_fields(client, data: dict, team: str) -> dict:
     try:
         response = with_retry(lambda: client.models.generate_content(
             model=MODEL,
-            contents=[CLIP_FIELDS_PROMPT, json.dumps(payload, ensure_ascii=False)],
+            contents=[CLIP_FIELDS_PROMPT + extra_rules, json.dumps(payload, ensure_ascii=False)],
             config=types.GenerateContentConfig(response_mime_type="application/json", temperature=0.3),
         ), "clip-fields")
         parsed = json.loads(response.text or "")
@@ -1926,8 +1960,12 @@ def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, ru
             continue
         channel = _ytq_channel_name(js.with_suffix(".md")) or m.get("channel_title") or "Podcast"
         duration = int(m.get("duration") or 0)
-        derived = derive_clip_fields(client, data, channel) if client is not None else {}
+        derived = derive_clip_fields(client, data, channel, PODCAST_NBA_RULE) if client is not None else {}
         apply_clip_fields(data, derived, channel, duration)
+        dropped = apply_nba_flags(data, derived)
+        if dropped:
+            log(f"  [podcasts] {vid}: {dropped} of {len(data.get('quotes') or [])} quote(s) not about the NBA; "
+                "left off the pages")
         rid = run_id or rebuild_run_id(published, runs)
         data.update({
             "content_type": "podcast",
@@ -1950,6 +1988,8 @@ def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, ru
         quotes = data.get("quotes") or []
         top = quotes[0] if quotes else {}
         log(f"  [podcasts] {vid} ({channel}): {len(quotes)} quote(s) from yt-quotes -> {day_dir.name}")
+        if not any(quote_visible(x) for x in quotes):
+            continue   # stored (so it isn't imported again) but nothing NBA to show or post
         items.append({
             "video_id": vid,
             "title": data.get("video_title") or vid,

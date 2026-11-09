@@ -50,7 +50,21 @@ the clip folders and the clipper's pick-list.
 (its `channels.json`); they are transcribed there, not here. Each run checks
 out yt-quotes' last three days of output (public repo, no token) and copies in
 each video not stored yet as a podcast, with one text-only clip-fields call for
-its scores. Nothing is sent to Gemini as video a second time.
+its scores. Nothing is sent to Gemini as video a second time. That same call
+also says per quote whether it is about the NBA: quotes about other sports are
+kept in the .json (`non_nba`) but left off the podcasts pages and the clip
+list, so a mixed show keeps only its NBA quotes and an all-NFL show disappears.
+
+**Overnight chain (Nov 10 2026).** GitHub fires only a few of the hourly
+overnight crons (usually the first at 07-08 UTC). So every scheduled run that
+ends between 00:00 and ~09:10 UTC, and every chain run, starts the next run
+through the workflow_dispatch API with the built-in `GITHUB_TOKEN` (no secret,
+`tools/overnight_chain.py`). The new run waits ~50 minutes in its `gate` job,
+then extracts as the `overnight` slot. It never extracts at or after 10:00 UTC,
+only one chain exists at a time (no run is started while another chain run is
+queued or running; the `extract` job's concurrency group queues any overlap),
+and two failed runs in a row stop it. `workflow_dispatch` with
+`chain_check: true` only proves the token may start the workflow (starts nothing).
 
 **Reporter questions.** A small text-only call per press conference says how
 many leading words of each quote are a reporter's question. A quote that is
