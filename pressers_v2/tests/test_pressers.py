@@ -178,6 +178,7 @@ class FormatParityTests(unittest.TestCase):
                 (ref_root / "2026-09-30").mkdir(parents=True)
                 for (vid, _, _), ctype in zip(vids, pe.CONTENT_TYPES):
                     stored = json.loads((out / "2026-09-30" / f"{vid}.json").read_text(encoding="utf-8"))
+                    stored["quotes"] = [x for x in stored["quotes"] if pe.quote_visible(x)]
                     (ref_root / "2026-09-30" / f"{vid}.md").write_text(
                         ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored), encoding="utf-8")
                     theirs[ctype] = ytq.write_digest_file("2026-09-30", "rotation", f"{ctype}.md",
@@ -227,7 +228,11 @@ class PipelineTests(unittest.TestCase):
             md = (out / "2026-09-30" / "J5unk3vEQmk.md").read_text(encoding="utf-8")
             # the .md is exactly what yt-quotes' renderer makes from the same quotes
             stored = json.loads((out / "2026-09-30" / "J5unk3vEQmk.json").read_text(encoding="utf-8"))
-            assert_only_link_wrappers_differ(self, md, ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored))
+            # (minus the reporter's question, which is labeled and left off the page)
+            visible = dict(stored, quotes=[x for x in stored["quotes"] if pe.quote_visible(x)])
+            assert_only_link_wrappers_differ(self, md, ytq.to_markdown(stored["url"], "Cleveland Cavaliers", visible))
+            self.assertTrue(stored["quotes"][1]["reporter_question"])
+            self.assertEqual(stored["quotes"][1]["speaker"], pe.REPORTER)
             manifest = pe.build_clip_manifest("t", 100000)
         # extraction, reporter-question check, clip fields, structured fields
         self.assertEqual(client.models.calls, ["video", "text", "text", "text"])
