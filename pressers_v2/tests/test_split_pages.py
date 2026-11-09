@@ -107,6 +107,12 @@ class ReporterQuestionTests(unittest.TestCase):
         self.assertTrue(q3["reporter_question"])
         self.assertEqual(data["reporter_check_source"], "gemini")
 
+    def test_rules_still_catch_what_gemini_missed(self):
+        data = {"quotes": [q(1, "Brayden Burries", BURRIES_Q1), q(2, "Mark Daigneault", DAIGNEAULT)]}
+        pe.mark_reporter_questions(data, {1: 0, 2: 0})          # Gemini saw no question (Nov 9)
+        self.assertTrue(data["quotes"][0]["reporter_question"])
+        self.assertNotIn("reporter_question", data["quotes"][1])
+
     def test_question_check_call(self):
         class Models:
             def generate_content(self, model, contents, config):

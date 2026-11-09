@@ -448,7 +448,7 @@ def from_line_title(title: str) -> str:
 # quote alone.
 # --------------------------------------------------------------------------- #
 
-REPORTER_CHECK_VERSION = 1
+REPORTER_CHECK_VERSION = 2   # 2: Gemini and the rules together (Gemini alone missed Burries 1-2)
 _Q_WORDS = r"(?:what|how|why|when|where|which|who|did|do|does|can|could|would|will|is|are|was|were|have|has)"
 _ASKS_YOU_RE = re.compile(rf"(?i)\b{_Q_WORDS}\b[^?]*\byou(?:r|rs|rself|'re|'ve|'ll)?\b")
 _STARTS_WITH_Q_RE = re.compile(rf"(?i)^\W*(?:and |so |but |okay,? |ok,? |well,? )?{_Q_WORDS}\b")
@@ -590,9 +590,9 @@ def _split_quote(q: dict, question: str, answer: str) -> None:
 
 
 def mark_reporter_questions(data: dict, question_words: dict | None = None) -> bool:
-    """Label reporter questions (see above). question_words (from
-    derive_question_words) decides when given; otherwise the rules
-    (is_reporter_question / split_leading_question). Idempotent
+    """Label reporter questions (see above): a quote is labeled when
+    question_words (from derive_question_words) or the rules
+    (is_reporter_question / split_leading_question) find one. Idempotent
     (data["reporter_check"]); returns True when anything changed."""
     if data.get("reporter_check") == REPORTER_CHECK_VERSION:
         return False
@@ -600,17 +600,18 @@ def mark_reporter_questions(data: dict, question_words: dict | None = None) -> b
         blocks = q.get("text_blocks") or []
         text = ytq._canonical_quote_text(q)
         total = ytq._word_count(text)
-        if question_words is not None:
-            n = question_words.get(q.get("rank"), 0)
-            if n <= 0:
-                continue
+        if question_words is not None and question_words.get(q.get("rank"), 0) > 0:
+            n = question_words[q.get("rank")]
             if total - n < REPORTER_MIN_ANSWER_WORDS // 2 + 1:
                 q.update(reporter_question=True, speaker=REPORTER, speaker_confidence="inferred")
-            elif not blocks and n >= 4:
+                continue
+            if not blocks and n >= 4:
                 parts = _cut_after_words(text, n)
                 if parts and ytq._word_count(parts[1]) >= REPORTER_MIN_ANSWER_WORDS // 2 + 1:
                     _split_quote(q, *parts)
-            continue
+                    continue
+        # Gemini said no question (or wasn't asked): the conservative rules
+        # still catch the clear cases (on Nov 9 it missed Burries 1 and 2).
         if blocks:
             for b in blocks:
                 if isinstance(b, dict) and (b.get("speaker") or "") != REPORTER and is_reporter_question(b.get("text") or ""):
