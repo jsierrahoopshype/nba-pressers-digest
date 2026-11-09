@@ -1,4 +1,6 @@
 name: Pressers v2 (quotes + clips)
+# Run titles let the overnight chain tell overnight runs apart (tools/overnight_chain.py).
+run-name: ${{ inputs.chain == 'true' && 'Pressers v2 overnight chain' || (inputs.chain_check == 'true' && 'Pressers v2 chain permission check') || (github.event_name == 'schedule' && format('Pressers v2 schedule {0}', github.event.schedule)) || 'Pressers v2 (quotes + clips)' }}
 
 # The current pipeline (the original scripts/ pipeline's workflow has been removed).
 on:
@@ -29,16 +31,58 @@ on:
         description: "Optional: rebuild these days' pages instead of a normal run (e.g. 2026-11-09). No video is sent to Gemini."
         required: false
         type: string
-
-# Serialize every run (cron + manual) so two runs never race on the same
-# per-video files. A newer trigger queues behind the current run.
-concurrency:
-  group: pressers-v2
-  cancel-in-progress: false
+      chain:
+        description: "Internal: set by the overnight chain (a run started by the previous overnight run)"
+        required: false
+        type: string
+        default: ""
+      chain_failures:
+        description: "Internal: failed overnight runs in a row so far"
+        required: false
+        type: string
+        default: "0"
+      chain_check:
+        description: "Only check that the built-in token may start the next overnight run (starts nothing)"
+        required: false
+        type: string
+        default: ""
 
 jobs:
-  extract:
+  # Every run passes here. A run the overnight chain started first waits
+  # ~50 min, then extracts only before 10:00 UTC; a permission check
+  # extracts nothing.
+  gate:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    outputs:
+      go: ${{ steps.plain.outputs.go || steps.chain.outputs.go }}
+    steps:
+      - id: plain
+        if: inputs.chain != 'true'
+        run: echo "go=${{ inputs.chain_check == 'true' && 'false' || 'true' }}" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v5
+        if: inputs.chain == 'true'
+        with:
+          sparse-checkout: pressers_v2/tools
+      - id: chain
+        if: inputs.chain == 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 pressers_v2/tools/overnight_chain.py --gate
+
+  extract:
+    needs: gate
+    if: needs.gate.outputs.go == 'true'
+    runs-on: ubuntu-latest
+    # Serialize every extract (cron + manual + chain) so two runs never race
+    # on the same per-video files. A newer trigger queues behind the current
+    # run. Job-level (it used to be the whole workflow) so the chain job's
+    # wait below never holds up the next run.
+    concurrency:
+      group: pressers-v2
+      cancel-in-progress: false
     # 50 min outer cap = 35 min in-script SIGALRM budget + setup + push + Slack.
     timeout-minutes: 50
     permissions:
@@ -82,7 +126,7 @@ jobs:
           # Names the slot for the hourly overnight triggers (the hour field
           # "1-10" is a range, so the HHutc naming can't apply). Empty for
           # the two daytime crons and manual runs, which keep their old names.
-          PRESSERS_RUN_SLOT: ${{ github.event.schedule == '23 1-10 * * *' && 'overnight' || '' }}
+          PRESSERS_RUN_SLOT: ${{ (github.event.schedule == '23 1-10 * * *' || inputs.chain == 'true') && 'overnight' || '' }}
         run: python pressers_v2/presser_extractor.py
 
       - name: Mirror output into docs/ for GitHub Pages
@@ -135,3 +179,30 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python pressers_v2/slack_notify.py pressers_v2/.slack_payload.json
+
+  # Overnight self-retrigger (GitHub fires only a few of the hourly overnight
+  # crons, the first one usually at 07-08 UTC): any scheduled run that ends
+  # between 00:00 and 09:10 UTC (often the late 20:15 cron) and every chain
+  # run end by starting the next one with the built-in token (that run waits
+  # ~50 min in its gate). Stops when the next run
+  # would extract at or after 10:00 UTC, when another chain run is already
+  # queued or running, or after two failed runs in a row.
+  chain:
+    needs: [gate, extract]
+    if: always() && (inputs.chain_check == 'true' || ((github.event_name == 'schedule' || inputs.chain == 'true') && needs.gate.outputs.go == 'true'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          sparse-checkout: pressers_v2/tools
+      - name: Start the next overnight run
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          EXTRACT_RESULT: ${{ needs.extract.result }}
+          CHAIN_FAILURES: ${{ inputs.chain_failures || '0' }}
+          CHAIN_REF: ${{ github.ref_name }}
+        run: python3 pressers_v2/tools/overnight_chain.py ${{ inputs.chain_check == 'true' && '--check' || '' }}
