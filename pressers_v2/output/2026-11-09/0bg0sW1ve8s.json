@@ -1,0 +1,644 @@
+{
+  "video_title": "Clippers vs. Pelicans | Postgame Interviews | Nov. 8, 2026 | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Darius Garland",
+    "Kobe Brown",
+    "Bones Hyland"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:11",
+      "summary_phrase": "Tyronn Lue on the energy and versatility of Bones Hyland",
+      "names_mentioned": [
+        "Bones Hyland",
+        "Brook Lopez",
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "his ability to make plays off the dribble of getting to the basket, getting to the paint",
+      "quote": "I think his energy, his ability to make plays off the dribble of getting to the basket, getting to the paint, and then defensively just being able to switch some, be in a drop, blitz, and he is all-purpose, be able to do a little bit of everything. With Brook having some fouls and Isaiah being out, he played a lot of minutes and just learned the lessons for him throughout the course of the season, but I thought he did a good job.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on Bones Hyland: He is all-purpose, be able to do a little bit of everything. With guys out, he played a lot of minutes and just learned the lessons for him throughout the course of the season.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bones Hyland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the versatility and performance of Bones Hyland during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:46",
+      "summary_phrase": "Tyronn Lue on the team's focus on reducing turnovers",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "that's been hurting us, the difference in a few wins by just turning the basketball over",
+      "quote": "I think understanding that that's been hurting us, the difference in a few wins by just turning the basketball over. Just keep talking to the guys, keep showing them. I thought Darius did a great job of just making the simple pass, then getting it back, then attacking so the defense wouldn't be set and locked in on him. We just played team basketball the whole game for 48 minutes and having 34 assists tonight, just sharing the basketball, attacking and making the right play.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on the team's focus on reducing turnovers: Understanding that that has been hurting us. We just played team basketball the whole game for 48 minutes and having 34 assists tonight.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue explains the team's focus on ball security and praises Darius Garland for his decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:28",
+      "summary_phrase": "Tyronn Lue on maintaining composure during opponent runs",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "just keep our composure and challenge the guys in the timeout, just to stay with it",
+      "quote": "Just keeping our composure and challenge the guys in the timeout, just to stay with it. They are going to make a run, it's a game of runs. They were way bigger than us in every position, so just stay with it, continue to the process, playing the same way, playing through the game. I thought our guys did a good job of just trusting that and playing for 48 minutes.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Tyronn Lue on maintaining composure: Just keeping our composure and challenge the guys in the timeout, just to stay with it. They are going to make a run, it is a game of runs.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue reflects on the team maintaining composure during the opponent's scoring runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:47",
+      "summary_phrase": "Tyronn Lue on Darius Garland's composed performance",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "was tonight probably like the most composed and even-keeled you've seen him through four quarters?",
+      "quote": "I think so. And I think just trusting, I think trusting, making the simple pass, you know, getting it back, attacking, more movement when we when teams switch, we have more movement, more actions to try to keep them off balance and I thought he did a great job of attacking and then knowing when to make the right pass and right play. Having 10 assists was huge for us too.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on Darius Garland: I think just trusting, making the simple pass, you know, getting it back, attacking. Having 10 assists was huge for us too.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue analyzes Darius Garland's performance and his ability to facilitate the offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:17",
+      "summary_phrase": "Tyronn Lue on the impact of Kobe Brown off the bench",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "he's a lottery pick, so we knew he was talented",
+      "quote": "I mean he's a lottery pick, so we knew he was talented. And sometimes it's about the right fit, sometimes it's about opportunity, sometimes it's about rotation. You never know. He's definitely come in and played really well. I think playing confident, playing free, he gives us speed, athleticism, you know, just being able to steal the ball, get out in transition, you know, a few dunks, attacking the basket, a great cutter, and he's making his three-point shot as well. So just just staying confident.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyronn Lue on Kobe Brown: He is definitely come in and played really well. I think playing confident, playing free, he gives us speed, athleticism, you know, just being able to steal the ball, get out in transition.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the impact and development of Kobe Brown off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyronn Lue",
+      "timestamp": "03:02",
+      "summary_phrase": "Tyronn Lue on overcoming the mental hurdle of fourth-quarter collapses",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "got our composure back and got tougher, instead of going the other way thinking oh here we go again",
+      "quote": "It was good for us. It was good for us to see and like Darius said, they came back, took the lead, we we got our composure back and got tougher, instead of going the other way thinking oh here we go again. I thought our guys really refocused in that timeout, came out and had the right intent and we got our our mojo back.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Tyronn Lue on overcoming fourth quarter collapses: It was good for us to see and like Darius said, they came back, took the lead, we got our composure back and got tougher, instead of going the other way thinking oh here we go again.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the team's mental resilience in the fourth quarter following a timeout.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyronn Lue",
+      "timestamp": "03:44",
+      "summary_phrase": "Tyronn Lue on the professionalism of Brook Lopez",
+      "names_mentioned": [
+        "Kevin Durant",
+        "Brook Lopez"
+      ],
+      "excerpt": "every day he's in here working, no matter if it's an off day or not",
+      "quote": "Just, you know, him being a professional. Every day he's in here working, no matter if it's an off day or not, blackout day or not, he's in here working every single day. No matter if we ask him to come off the bench, if we ask him to start, you know, whatever it may be, he's always ready to play and I think being positive to the young guys, showing those guys how to be professional, he's been great for us.",
+      "text_blocks": [],
+      "start_seconds": 224,
+      "end_seconds": 256,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tyronn Lue on Brook Lopez: No matter if we ask him to come off the bench, if we ask him to start, you know, whatever it may be, he is always ready to play and I think being positive to the young guys.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brook Lopez"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue praises the professional attitude and work ethic of Brook Lopez.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyronn Lue",
+      "timestamp": "04:30",
+      "summary_phrase": "Tyronn Lue on the team's commitment to sharing the basketball",
+      "names_mentioned": [],
+      "excerpt": "our whole model and theme all year has been making a play for your teammate",
+      "quote": "Just taking care of the basketball was huge for us, only having 11 turnovers. And like I said, a couple of them down the stretch, you know, when the game was out of hand. But just taking care of the basketball, making the simple plays, and our whole model and theme all year has been making a play for your teammate and I thought they did a good job with that tonight.",
+      "text_blocks": [],
+      "start_seconds": 270,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on sharing the ball: Just taking care of the basketball was huge for us, only having 11 turnovers. Our whole model and theme all year has been making a play for your teammate.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue emphasizes the team's commitment to sharing the basketball and limiting turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tyronn Lue",
+      "timestamp": "05:01",
+      "summary_phrase": "Tyronn Lue on the floor game of Bones Hyland",
+      "names_mentioned": [
+        "Bones Hyland"
+      ],
+      "excerpt": "he was going to blitz, they were going to be up on the pick and rolls",
+      "quote": "I thought he did a good job. We talked about how they were going to play us yesterday, you know, he was going to blitz, they were going to be up on the pick and rolls and I thought he did a good job of handling those blitzes and making the right pass and right play. And then off the ball, just, you know, making his open threes and catch and shoot shots. So, he's been good. Just, you know, it's going to be some ups and downs, he's 19 years old, but we have a lot of confidence in him, he has a lot of confidence in himself.",
+      "text_blocks": [],
+      "start_seconds": 301,
+      "end_seconds": 343,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on Bones Hyland: He is 19 years old, but we have a lot of confidence in him, he has a lot of confidence in himself.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bones Hyland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue evaluates how Bones Hyland handled defensive pressure and blitzes during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darius Garland",
+      "timestamp": "05:40",
+      "summary_phrase": "Darius Garland on the team's desperate need for a win",
+      "names_mentioned": [],
+      "excerpt": "we were desperate, trying to get some momentum this weekend, trying to play in the right way",
+      "quote": "Yeah, we were desperate, trying to get some momentum this weekend, trying to play in the right way, trying to play Clippers basketball, so yeah, we were desperate tonight for sure.",
+      "text_blocks": [],
+      "start_seconds": 340,
+      "end_seconds": 352,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Darius Garland on the team's mindset: Yeah, we were desperate, trying to get some momentum this weekend, trying to play in the right way, trying to play Clippers basketball, so yeah, we were desperate tonight for sure.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland describes the team's mindset and desperation to secure a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Darius Garland",
+      "timestamp": "06:02",
+      "summary_phrase": "Darius Garland on overcoming the mental hurdle of recent losses",
+      "names_mentioned": [],
+      "excerpt": "it was good to get over that hump, get that monkey off our back",
+      "quote": "It was good to get over that hump, get that monkey off our back, and get the win column.",
+      "text_blocks": [],
+      "start_seconds": 362,
+      "end_seconds": 369,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Darius Garland on the win: It was good to get over that hump, get that monkey off our back, and get the win column.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland expresses relief at overcoming the team's recent losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Darius Garland",
+      "timestamp": "06:19",
+      "summary_phrase": "Darius Garland on the team's collective energy and joy",
+      "names_mentioned": [
+        "Kobe Bryant",
+        "Brook Lopez",
+        "Kobe Brown",
+        "Max Christie"
+      ],
+      "excerpt": "it was a lot of fun out there seeing Kobe get going, Bob having a great spurt",
+      "quote": "It was a lot of fun out there seeing Kobe get going, Bob having a great spurt, energy him and Grady, bringing a lot of energy off the bench, even Max bringing in some energy, so it was good, it was a great all-around team effort.",
+      "text_blocks": [],
+      "start_seconds": 379,
+      "end_seconds": 397,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Darius Garland: It was a lot of fun out there seeing Kobe get going, Bob having a great spurt, energy him and Grady, bringing a lot of energy off the bench, even Max bringing in some energy.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland highlights the energy provided by the bench unit during the victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Darius Garland",
+      "timestamp": "07:07",
+      "summary_phrase": "Darius Garland on the second unit's role in the comeback",
+      "names_mentioned": [
+        "Kobe Bryant",
+        "Kobe Brown",
+        "Brook Lopez",
+        "Max Christie"
+      ],
+      "excerpt": "the second unit bringing in a lot of energy, that said Kobe, Kobe, Bob, Grady, Max",
+      "quote": "It was the second unit bringing in a lot of energy, that said Kobe, Kobe, Bob, Grady, Max, coming with a lot of energy, getting stops, getting on transition, running, get some easy threes, get some easy layups and that just opened up the lead.",
+      "text_blocks": [],
+      "start_seconds": 427,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darius Garland on the second unit: It was the second unit bringing in a lot of energy, getting stops, getting on transition, running, get some easy threes, get some easy layups and that just opened up the lead.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland credits the second unit for their energy and transition play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Darius Garland",
+      "timestamp": "07:33",
+      "summary_phrase": "Darius Garland on the impact of the bench players",
+      "names_mentioned": [],
+      "excerpt": "just bringing a lot of energy, switching a lot, getting a lot of stops on the defensive end",
+      "quote": "Just bringing a lot of energy, switching a lot, getting a lot of stops on the defensive end and then getting on transition. That's Clippers basketball, trying to get as many stops and get some easy ones on the offensive end.",
+      "text_blocks": [],
+      "start_seconds": 453,
+      "end_seconds": 469,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darius Garland: Just bringing a lot of energy, switching a lot, getting a lot of stops on the defensive end and then getting on transition. That is Clippers basketball.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland explains the defensive focus and transition goals that define the team's style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Darius Garland",
+      "timestamp": "08:33",
+      "summary_phrase": "Darius Garland on the growth of Kobe Brown",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "just seeing his growth and his confidence just growing throughout the first couple games",
+      "quote": "Just seeing his growth and his confidence just growing throughout the first couple games is super good to see.",
+      "text_blocks": [],
+      "start_seconds": 513,
+      "end_seconds": 520,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Darius Garland on Kobe Brown: Just seeing his growth and his confidence just growing throughout the first couple games is super good to see.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland comments on the noticeable growth and confidence of Kobe Brown.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Darius Garland",
+      "timestamp": "09:11",
+      "summary_phrase": "Darius Garland on Kobe Brown's deep three-point shooting",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "I tell him to shoot it, regardless, it doesn't matter, he's too good of a shooter",
+      "quote": "I tell him to shoot it, regardless, it doesn't matter, he's too good of a shooter, so I tell him somebody had their hand down, he should shoot it with confidence. That's probably going to be the best shot that we'll get that possession anyway, so I'm fine with him shooting some deep threes.",
+      "text_blocks": [],
+      "start_seconds": 551,
+      "end_seconds": 572,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Darius Garland on Kobe Brown: I tell him to shoot it, regardless, it does not matter, he is too good of a shooter. I am fine with him shooting some deep threes.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland encourages Kobe Brown to shoot with confidence regardless of the situation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Darius Garland",
+      "timestamp": "09:40",
+      "summary_phrase": "Darius Garland on the team's resilience and confidence",
+      "names_mentioned": [],
+      "excerpt": "this group is super confident in themselves and us period",
+      "quote": "We going to be all right. This group is super confident in themselves and us period. We got a lot of ways to go, still waiting on some more soldiers to come back, but we're good with the guys that we have in this locker room for sure.",
+      "text_blocks": [],
+      "start_seconds": 580,
+      "end_seconds": 598,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Darius Garland: We going to be all right. This group is super confident in themselves and us period. We got a lot of ways to go, still waiting on some more soldiers to come back.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland expresses confidence in the current roster while waiting for injured players to return.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Darius Garland",
+      "timestamp": "10:16",
+      "summary_phrase": "Darius Garland on how roster returns will change defensive coverage",
+      "names_mentioned": [
+        "Bones Hyland",
+        "Kobe Brown",
+        "Brook Lopez",
+        "Max Christie"
+      ],
+      "excerpt": "when BI and Yanni get back, I don't think I'll be getting doubled as much",
+      "quote": "When BI and Yanni get back, I don't think I'll be getting doubled as much. Maybe I think that's a respect thing, but yeah, probably won't get doubled as much. Can't really pinch in on the rollers as much either, because I got big Yanni and I got Brook, Max, BI on the backside, so can't really help too much on a roller. Yeah, just freelance basketball, bro. It's a lot of hoopers out there on the floor, so when we get everybody back together, we'll be out there hooping.",
+      "text_blocks": [],
+      "start_seconds": 616,
+      "end_seconds": 651,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Darius Garland on the roster: When BI and Yanni get back, I do not think I will be getting doubled as much. It is a lot of hoopers out there on the floor, so when we get everybody back together, we will be out there hooping.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brook Lopez"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland discusses how the return of injured teammates will change the team's offensive spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Kobe Brown",
+      "timestamp": "10:51",
+      "summary_phrase": "Kobe Brown on the team's unselfish play and transition offense",
+      "names_mentioned": [],
+      "excerpt": "I think it's just the unselfish basketball that we play",
+      "quote": "I think it's just the unselfish basketball that we play. As a bench unit, you want to be able to continue what the starting unit does and just bring a lot of energy and don't let it be a fall from the starters to the bench. We wanted to go out there and take pride on both ends of the floor, want to get stops and I think we played really good in transition and got a lot of deflections and steals and we rebounded well to get the ball out in transition. I think that's what helped us a lot.",
+      "text_blocks": [],
+      "start_seconds": 651,
+      "end_seconds": 690,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kobe Brown: I think it is just the unselfish basketball that we play. As a bench unit, you want to be able to continue what the starting unit does and just bring a lot of energy.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown explains the importance of unselfish play and energy from the bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Kobe Brown",
+      "timestamp": "11:20",
+      "summary_phrase": "Kobe Brown on the team's resilience in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "it felt really good just building that lead up and then just keeping it",
+      "quote": "It felt really good just building that lead up and then just keeping it and not letting the team get back in the fight and just kind of just giving them no room to have the belief that they can come back and win. I think everyone did a really good job and I think it just started with our defense, making them make tough shots like we did all game and then finishing the possessions with rebounds and then going and getting good shots on the offensive end.",
+      "text_blocks": [],
+      "start_seconds": 680,
+      "end_seconds": 714,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kobe Brown: It felt really good just building that lead up and then just keeping it and not letting the team get back in the fight and just kind of just giving them no room to have the belief that they can come back and win.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown discusses the team's defensive focus in maintaining their lead during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "0bg0sW1ve8s",
+  "url": "https://www.youtube.com/watch?v=0bg0sW1ve8s",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-09T11:05:45Z",
+  "duration_seconds": 1141,
+  "processed_at": "2026-11-09T18:54:00Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}

@@ -42,7 +42,17 @@ From: [Jamahl Mosley | Pelicans vs. Clippers Postgame Interview 11/8/26](https:/
 
 <small>[Clip it](presserclips://clip?v=2iJQSJ8w88Q&t=13&q=1) · [Send to Slack](presserclips://clip?v=2iJQSJ8w88Q&t=13&q=1&slack=1)</small>
 
-**5. Brayden Burries — "I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to." — Brayden Burries on his responsibility to help the team win** [03:35](https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s)
+**5. Darius Garland — "when BI and Yanni get back, I don't think I'll be getting doubled as much" — Darius Garland on how roster returns will change defensive coverage** [10:16](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s)
+
+Darius Garland: "When BI and Yanni get back, I don't think I'll be getting doubled as much. Maybe I think that's a respect thing, but yeah, probably won't get doubled as much. Can't really pinch in on the rollers as much either, because I got big Yanni and I got Brook, Max, BI on the backside, so can't really help too much on a roller. Yeah, just freelance basketball, bro. It's a lot of hoopers out there on the floor, so when we get everybody back together, we'll be out there hooping."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s)
+
+From: [Clippers vs. Pelicans | Postgame Interviews | Nov. 8, 2026 | LA Clippers](https://www.youtube.com/watch?v=0bg0sW1ve8s) · *LA Clippers*
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=616&q=18) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=616&q=18&slack=1)</small>
+
+**6. Brayden Burries — "I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to." — Brayden Burries on his responsibility to help the team win** [03:35](https://www.youtube.com/watch?v=1tN8GdDvezs&t=215s)
 
 Brayden Burries: "What does do better mean? That's a pretty broad statement. Just overall, like, just looking in the mirror and see how I can get better. Defending, rebounding. I feel like even outside looking in, if you draft somebody, you know, a high pick, you want to, you expect, like, at least to be winning. So we not winning is like, I feel like a lot of this is on me. And even though I'm young, but still like, I got to do extra stuff to try to help the team win, whether that's cheering, you know, being a great teammate, or like defending, talking, you know, try to find different ways to help us win."
 
@@ -52,7 +62,7 @@ From: [Brayden Burries Postgame Media Availability | 11.08.26](https://www.youtu
 
 <small>[Clip it](presserclips://clip?v=1tN8GdDvezs&t=215&q=5) · [Send to Slack](presserclips://clip?v=1tN8GdDvezs&t=215&q=5&slack=1)</small>
 
-**6. LaMelo Ball — "When Lonzo is rolling, it's definitely easier. I mean, it's another point guard just getting to it." — LaMelo Ball on Lonzo Ball's impact on team energy** [00:57](https://www.youtube.com/watch?v=IEgTJ8FdnJU&t=57s)
+**7. LaMelo Ball — "When Lonzo is rolling, it's definitely easier. I mean, it's another point guard just getting to it." — LaMelo Ball on Lonzo Ball's impact on team energy** [00:57](https://www.youtube.com/watch?v=IEgTJ8FdnJU&t=57s)
 
 **Unidentified reporter:** "When Lonzo has it rolling like this, does it get everyone some extra energy and juice to see him do that?"
 
@@ -64,7 +74,7 @@ From: ["We Have A Great Group Of Guys, I Love Playing With Them." | LaMelo Ball 
 
 <small>[Clip it](presserclips://clip?v=IEgTJ8FdnJU&t=57&q=4) · [Send to Slack](presserclips://clip?v=IEgTJ8FdnJU&t=57&q=4&slack=1)</small>
 
-**7. Kyle Kuzma — "at this stage, we just don't have a margin for error" — Kyle Kuzma on the team's lack of margin for error** [01:55](https://www.youtube.com/watch?v=_hTSSBAiKXU&t=115s)
+**8. Kyle Kuzma — "at this stage, we just don't have a margin for error" — Kyle Kuzma on the team's lack of margin for error** [01:55](https://www.youtube.com/watch?v=_hTSSBAiKXU&t=115s)
 
 Kyle Kuzma: "It's got to be transparent and blunt, because at this stage, we just don't have a margin for error. So, you know, we have to have a certain sense of urgency and sometimes it's not pretty, because we just don't have that margin for error. We have to figure it out on the fly, quick. We can't just come in and practice and say the same things over and over. Eventually we're going to have to be in the game and get it done, get it done quicker. Don't let, just for example, **PG** hit two three-pointers, like after that first one, maybe that second one, like you can't get no more. We have to just find that sense of maturity, collectively."
 
@@ -74,7 +84,7 @@ From: [Kyle Kuzma Postgame Media Availability | 11.08.26](https://www.youtube.co
 
 <small>[Clip it](presserclips://clip?v=_hTSSBAiKXU&t=115&q=3) · [Send to Slack](presserclips://clip?v=_hTSSBAiKXU&t=115&q=3&slack=1)</small>
 
-**8. Bones Hyland — "I'm always being guarded by the best defender when I check in." — Bones Hyland on being guarded by elite defenders** [01:30](https://www.youtube.com/watch?v=il5n8LgO95Q&t=90s)
+**9. Bones Hyland — "I'm always being guarded by the best defender when I check in." — Bones Hyland on being guarded by elite defenders** [01:30](https://www.youtube.com/watch?v=il5n8LgO95Q&t=90s)
 
 Bones Hyland: "I just said that to someone the other day too. I'm always being guarded by the best defender when I check in. But I thrive in it, I love it. That's a sign of respect. It doesn't really bother me at all. When I check into the game, I'm already prepared for it, so I've been guarded by the best defenders my whole life, so they don't bother me."
 
@@ -84,37 +94,211 @@ From: ["The Fans Gave Us Juice We Needed To Get The Win." | Bones Hyland Postgam
 
 <small>[Clip it](presserclips://clip?v=il5n8LgO95Q&t=90&q=3) · [Send to Slack](presserclips://clip?v=il5n8LgO95Q&t=90&q=3&slack=1)</small>
 
+**10. Darius Garland — "we were desperate, trying to get some momentum this weekend, trying to play in the right way" — Darius Garland on the team's desperate need for a win** [05:40](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s)
+
+Darius Garland: "Yeah, we were desperate, trying to get some momentum this weekend, trying to play in the right way, trying to play Clippers basketball, so yeah, we were desperate tonight for sure."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s)
+
+From: [Clippers vs. Pelicans | Postgame Interviews | Nov. 8, 2026 | LA Clippers](https://www.youtube.com/watch?v=0bg0sW1ve8s) · *LA Clippers*
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=340&q=10) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=340&q=10&slack=1)</small>
+
 ---
 
 # Best of the best: podcasts & shows
 
-**1. Jamahl Mosley — "he's got a fiery edge to him, and I think that's what I've seen over the years" — Jamahl Mosley on the competitive edge of Benedict Mathurin** [2:43](https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s)
+**1. Jamahl Mosley — "He's been taking on the challenge night in and night out." — Mosley on Zion Williamson's defensive challenges and growth** [21:47](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
 
-**Unidentified speaker:** "With **Benedict Mathurin** on your team, he was a restricted free agent here. Were you surprised that he was made available to y'all and what kind of player did you expect to get and what kind of player has he been for you?"
+Jamahl Mosley: "He's been taking on the challenge night in and night out. And because he's got so much he's carrying so much weight offensively as well, teams are trying to target him to go at him to wear him down. But he's taking on those challenges and that's what we're going to continue to ask him to do."
 
-**Jamahl Mosley:** "Just watching Ben over the years, you talk about his competitive edge, his toughness, his grit. That's how he plays the game. He's got a fiery edge to him, and I think that's what I've seen over the years with him, whether he was in Indiana or here with the Clippers. I think he has that edge and that fire to him to be able to score in different directions but also to be able to sit down and guard at a different level at times."
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
 
-[https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=163s)
+From: [LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026](https://www.youtube.com/watch?v=aJSJd1S8y_0) · *New Orleans Pelicans*
 
-From: [LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/8/2026](https://www.youtube.com/watch?v=b4i7spZVjcw) · *New Orleans Pelicans*
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8&slack=1)</small>
 
-<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=163&q=3) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=163&q=3&slack=1)</small>
+**2. Jamahl Mosley — "You saw a team that played desperate. Like they'd lost that many in a row." — Jamahl Mosley on the team's inability to stop the Clippers** [14:30](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
 
-**2. Jamahl Mosley — "our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication" — Improving defensive communication against high pick-and-roll sets** [2:00](https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s)
+Jamahl Mosley: "You saw a team that played desperate. Like they'd lost that many in a row and that they wanted to come out and take care of home, and that's exactly what they did. Now we didn't help that cause, obviously giving up 39 points, 35 points, 37 points and then ultimately 139 points. That is unacceptable. It's unacceptable."
 
-**Unidentified speaker:** "We've been seeing a lot of high pick-and-rolls against your team. So just talk about the structure defensively on how is the best way to defend that?"
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
 
-**Jamahl Mosley:** "That's something we've definitely got to clean up. There are different combinations. The league, sometimes they'll set guards in it, sometimes they'll have the big in it. So our ability to navigate those screens, understand the coverages we're in, we've got to turn our level of communication up to another level just in order to know we're going to see a ton of these, especially with a guard like **Garland** tonight. He has a lot of combinations he can go to, so we've got to be very on point with our communication and our coverage calls."
+From: [LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026](https://www.youtube.com/watch?v=aJSJd1S8y_0) · *New Orleans Pelicans*
 
-[https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s](https://www.youtube.com/watch?v=b4i7spZVjcw&t=120s)
-
-From: [LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/8/2026](https://www.youtube.com/watch?v=b4i7spZVjcw) · *New Orleans Pelicans*
-
-<small>[Clip it](presserclips://clip?v=b4i7spZVjcw&t=120&q=2) · [Send to Slack](presserclips://clip?v=b4i7spZVjcw&t=120&q=2&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1&slack=1)</small>
 
 ---
 
 # Press conferences
+
+## Clippers vs. Pelicans | Postgame Interviews | Nov. 8, 2026 | LA Clippers — *LA Clippers*
+
+Source: [https://www.youtube.com/watch?v=0bg0sW1ve8s](https://www.youtube.com/watch?v=0bg0sW1ve8s)
+
+_Speakers identified: Tyronn Lue, Darius Garland, Kobe Brown, Bones Hyland_
+
+**1. Tyronn Lue — "his ability to make plays off the dribble of getting to the basket, getting to the paint" — Tyronn Lue on the energy and versatility of Bones Hyland** [00:11](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=11s)
+
+Tyronn Lue: "I think his energy, his ability to make plays off the dribble of getting to the basket, getting to the paint, and then defensively just being able to switch some, be in a drop, blitz, and he is all-purpose, be able to do a little bit of everything. With Brook having some fouls and Isaiah being out, he played a lot of minutes and just learned the lessons for him throughout the course of the season, but I thought he did a good job."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=11s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=11s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=11&q=1) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=11&q=1&slack=1)</small>
+
+**2. Tyronn Lue — "that's been hurting us, the difference in a few wins by just turning the basketball over" — Tyronn Lue on the team's focus on reducing turnovers** [00:46](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=46s)
+
+Tyronn Lue: "I think understanding that that's been hurting us, the difference in a few wins by just turning the basketball over. Just keep talking to the guys, keep showing them. I thought Darius did a great job of just making the simple pass, then getting it back, then attacking so the defense wouldn't be set and locked in on him. We just played team basketball the whole game for 48 minutes and having 34 assists tonight, just sharing the basketball, attacking and making the right play."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=46s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=46s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=46&q=2) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=46&q=2&slack=1)</small>
+
+**3. Tyronn Lue — "just keep our composure and challenge the guys in the timeout, just to stay with it" — Tyronn Lue on maintaining composure during opponent runs** [01:28](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=88s)
+
+Tyronn Lue: "Just keeping our composure and challenge the guys in the timeout, just to stay with it. They are going to make a run, it's a game of runs. They were way bigger than us in every position, so just stay with it, continue to the process, playing the same way, playing through the game. I thought our guys did a good job of just trusting that and playing for 48 minutes."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=88s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=88s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=88&q=3) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=88&q=3&slack=1)</small>
+
+**4. Tyronn Lue — "was tonight probably like the most composed and even-keeled you've seen him through four quarters?" — Tyronn Lue on Darius Garland's composed performance** [01:47](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=107s)
+
+Tyronn Lue: "I think so. And I think just trusting, I think trusting, making the simple pass, you know, getting it back, attacking, more movement when we when teams switch, we have more movement, more actions to try to keep them off balance and I thought he did a great job of attacking and then knowing when to make the right pass and right play. Having 10 assists was huge for us too."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=107s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=107s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=107&q=4) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=107&q=4&slack=1)</small>
+
+**5. Tyronn Lue — "he's a lottery pick, so we knew he was talented" — Tyronn Lue on the impact of Kobe Brown off the bench** [02:17](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=137s)
+
+Tyronn Lue: "I mean he's a lottery pick, so we knew he was talented. And sometimes it's about the right fit, sometimes it's about opportunity, sometimes it's about rotation. You never know. He's definitely come in and played really well. I think playing confident, playing free, he gives us speed, athleticism, you know, just being able to steal the ball, get out in transition, you know, a few dunks, attacking the basket, a great cutter, and he's making his three-point shot as well. So just just staying confident."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=137s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=137s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=137&q=5) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=137&q=5&slack=1)</small>
+
+**6. Tyronn Lue — "got our composure back and got tougher, instead of going the other way thinking oh here we go again" — Tyronn Lue on overcoming the mental hurdle of fourth-quarter collapses** [03:02](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=182s)
+
+Tyronn Lue: "It was good for us. It was good for us to see and like Darius said, they came back, took the lead, we we got our composure back and got tougher, instead of going the other way thinking oh here we go again. I thought our guys really refocused in that timeout, came out and had the right intent and we got our our mojo back."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=182s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=182s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=182&q=6) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=182&q=6&slack=1)</small>
+
+**7. Tyronn Lue — "every day he's in here working, no matter if it's an off day or not" — Tyronn Lue on the professionalism of Brook Lopez** [03:44](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=224s)
+
+Tyronn Lue: "Just, you know, him being a professional. Every day he's in here working, no matter if it's an off day or not, blackout day or not, he's in here working every single day. No matter if we ask him to come off the bench, if we ask him to start, you know, whatever it may be, he's always ready to play and I think being positive to the young guys, showing those guys how to be professional, he's been great for us."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=224s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=224s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=224&q=7) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=224&q=7&slack=1)</small>
+
+**8. Tyronn Lue — "our whole model and theme all year has been making a play for your teammate" — Tyronn Lue on the team's commitment to sharing the basketball** [04:30](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=270s)
+
+Tyronn Lue: "Just taking care of the basketball was huge for us, only having 11 turnovers. And like I said, a couple of them down the stretch, you know, when the game was out of hand. But just taking care of the basketball, making the simple plays, and our whole model and theme all year has been making a play for your teammate and I thought they did a good job with that tonight."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=270s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=270s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=270&q=8) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=270&q=8&slack=1)</small>
+
+**9. Tyronn Lue — "he was going to blitz, they were going to be up on the pick and rolls" — Tyronn Lue on the floor game of Bones Hyland** [05:01](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=301s)
+
+Tyronn Lue: "I thought he did a good job. We talked about how they were going to play us yesterday, you know, he was going to blitz, they were going to be up on the pick and rolls and I thought he did a good job of handling those blitzes and making the right pass and right play. And then off the ball, just, you know, making his open threes and catch and shoot shots. So, he's been good. Just, you know, it's going to be some ups and downs, he's 19 years old, but we have a lot of confidence in him, he has a lot of confidence in himself."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=301s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=301s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=301&q=9) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=301&q=9&slack=1)</small>
+
+**10. Darius Garland — "we were desperate, trying to get some momentum this weekend, trying to play in the right way" — Darius Garland on the team's desperate need for a win** [05:40](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s)
+
+Darius Garland: "Yeah, we were desperate, trying to get some momentum this weekend, trying to play in the right way, trying to play Clippers basketball, so yeah, we were desperate tonight for sure."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=340s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=340&q=10) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=340&q=10&slack=1)</small>
+
+**11. Darius Garland — "it was good to get over that hump, get that monkey off our back" — Darius Garland on overcoming the mental hurdle of recent losses** [06:02](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=362s)
+
+Darius Garland: "It was good to get over that hump, get that monkey off our back, and get the win column."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=362s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=362s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=362&q=11) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=362&q=11&slack=1)</small>
+
+**12. Darius Garland — "it was a lot of fun out there seeing Kobe get going, Bob having a great spurt" — Darius Garland on the team's collective energy and joy** [06:19](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=379s)
+
+Darius Garland: "It was a lot of fun out there seeing Kobe get going, Bob having a great spurt, energy him and Grady, bringing a lot of energy off the bench, even Max bringing in some energy, so it was good, it was a great all-around team effort."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=379s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=379s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=379&q=12) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=379&q=12&slack=1)</small>
+
+**13. Darius Garland — "the second unit bringing in a lot of energy, that said Kobe, Kobe, Bob, Grady, Max" — Darius Garland on the second unit's role in the comeback** [07:07](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=427s)
+
+Darius Garland: "It was the second unit bringing in a lot of energy, that said Kobe, Kobe, Bob, Grady, Max, coming with a lot of energy, getting stops, getting on transition, running, get some easy threes, get some easy layups and that just opened up the lead."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=427s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=427s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=427&q=13) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=427&q=13&slack=1)</small>
+
+**14. Darius Garland — "just bringing a lot of energy, switching a lot, getting a lot of stops on the defensive end" — Darius Garland on the impact of the bench players** [07:33](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=453s)
+
+Darius Garland: "Just bringing a lot of energy, switching a lot, getting a lot of stops on the defensive end and then getting on transition. That's Clippers basketball, trying to get as many stops and get some easy ones on the offensive end."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=453s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=453s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=453&q=14) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=453&q=14&slack=1)</small>
+
+**15. Darius Garland — "just seeing his growth and his confidence just growing throughout the first couple games" — Darius Garland on the growth of Kobe Brown** [08:33](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=513s)
+
+Darius Garland: "Just seeing his growth and his confidence just growing throughout the first couple games is super good to see."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=513s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=513s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=513&q=15) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=513&q=15&slack=1)</small>
+
+**16. Darius Garland — "I tell him to shoot it, regardless, it doesn't matter, he's too good of a shooter" — Darius Garland on Kobe Brown's deep three-point shooting** [09:11](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=551s)
+
+Darius Garland: "I tell him to shoot it, regardless, it doesn't matter, he's too good of a shooter, so I tell him somebody had their hand down, he should shoot it with confidence. That's probably going to be the best shot that we'll get that possession anyway, so I'm fine with him shooting some deep threes."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=551s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=551s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=551&q=16) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=551&q=16&slack=1)</small>
+
+**17. Darius Garland — "this group is super confident in themselves and us period" — Darius Garland on the team's resilience and confidence** [09:40](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=580s)
+
+Darius Garland: "We going to be all right. This group is super confident in themselves and us period. We got a lot of ways to go, still waiting on some more soldiers to come back, but we're good with the guys that we have in this locker room for sure."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=580s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=580s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=580&q=17) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=580&q=17&slack=1)</small>
+
+**18. Darius Garland — "when BI and Yanni get back, I don't think I'll be getting doubled as much" — Darius Garland on how roster returns will change defensive coverage** [10:16](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s)
+
+Darius Garland: "When BI and Yanni get back, I don't think I'll be getting doubled as much. Maybe I think that's a respect thing, but yeah, probably won't get doubled as much. Can't really pinch in on the rollers as much either, because I got big Yanni and I got Brook, Max, BI on the backside, so can't really help too much on a roller. Yeah, just freelance basketball, bro. It's a lot of hoopers out there on the floor, so when we get everybody back together, we'll be out there hooping."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=616s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=616&q=18) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=616&q=18&slack=1)</small>
+
+**19. Kobe Brown — "I think it's just the unselfish basketball that we play" — Kobe Brown on the team's unselfish play and transition offense** [10:51](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=651s)
+
+Kobe Brown: "I think it's just the unselfish basketball that we play. As a bench unit, you want to be able to continue what the starting unit does and just bring a lot of energy and don't let it be a fall from the starters to the bench. We wanted to go out there and take pride on both ends of the floor, want to get stops and I think we played really good in transition and got a lot of deflections and steals and we rebounded well to get the ball out in transition. I think that's what helped us a lot."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=651s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=651s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=651&q=19) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=651&q=19&slack=1)</small>
+
+**20. Kobe Brown — "it felt really good just building that lead up and then just keeping it" — Kobe Brown on the team's resilience in the fourth quarter** [11:20](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=680s)
+
+Kobe Brown: "It felt really good just building that lead up and then just keeping it and not letting the team get back in the fight and just kind of just giving them no room to have the belief that they can come back and win. I think everyone did a really good job and I think it just started with our defense, making them make tough shots like we did all game and then finishing the possessions with rebounds and then going and getting good shots on the offensive end."
+
+[https://www.youtube.com/watch?v=0bg0sW1ve8s&t=680s](https://www.youtube.com/watch?v=0bg0sW1ve8s&t=680s)
+
+<small>[Clip it](presserclips://clip?v=0bg0sW1ve8s&t=680&q=20) · [Send to Slack](presserclips://clip?v=0bg0sW1ve8s&t=680&q=20&slack=1)</small>
+
+---
 
 ## Brayden Burries Postgame Media Availability | 11.08.26 — *Milwaukee Bucks*
 
@@ -787,6 +971,86 @@ Bones Hyland: "We call him Batman. Play Batman. It was a funny story, we was in 
 ---
 
 # Podcasts & shows
+
+## LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=aJSJd1S8y_0](https://www.youtube.com/watch?v=aJSJd1S8y_0)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "You saw a team that played desperate. Like they'd lost that many in a row." — Jamahl Mosley on the team's inability to stop the Clippers** [14:30](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
+
+Jamahl Mosley: "You saw a team that played desperate. Like they'd lost that many in a row and that they wanted to come out and take care of home, and that's exactly what they did. Now we didn't help that cause, obviously giving up 39 points, 35 points, 37 points and then ultimately 139 points. That is unacceptable. It's unacceptable."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=870s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=870&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "You've got to sit down and guard, you've got to cover for one another." — Mosley emphasizes defensive commitment and covering for teammates** [15:10](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=910s)
+
+Jamahl Mosley: "Not worried about what the offense does, but you've got to sit down and guard, you've got to cover for one another, and we've got to continue to continue to fight, no matter what's happening within the game."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=910s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=910s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=910&q=2) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=910&q=2&slack=1)</small>
+
+**3. Jamahl Mosley — "The more desperate team, the more the hungrier team, the home team, they came out with a level" — Mosley credits the Clippers' effort and intensity** [15:40](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=940s)
+
+Jamahl Mosley: "The more desperate team, the more the hungrier team, the home team, they came out with a level of dog fight to them that that we did not match. And again, that's the NBA. You know, we've got to take this, we've got to learn from it and understand how desperate we need to play nightly in order to get the job done."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=940s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=940s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=940&q=3) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=940&q=3&slack=1)</small>
+
+**4. Jamahl Mosley — "He's an ultimate competitor. He is just he's a kid that just wants to grow." — Mosley on the competitive nature and growth of his player** [17:18](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1038s)
+
+Jamahl Mosley: "He's an ultimate competitor. He is just he's a kid that just wants to grow, wants to get better, try to figure it out, works his tail off, trying to figure it out on both ends of the floor, and I just love the way he, you know, he played within himself in so many ways. It allowed the game to come to him, his aggression, his speed."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1038s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1038s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1038&q=4) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1038&q=4&slack=1)</small>
+
+**5. Jamahl Mosley — "He's an extreme worker. He's a student of the game. He wants to get better." — Mosley on the work ethic and development of his player** [18:03](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1083s)
+
+Jamahl Mosley: "He's an extreme worker. He's a student of the game. He wants to get better, he's pushing himself to get better every single day, whether that's watching film with the coaches, studying the game, getting in the gym, working on his game, whatever little small nuances he can have he does. And I think that's what's going to, you know, continue to separate him from a second-year guy."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1083s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1083s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1083&q=5) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1083&q=5&slack=1)</small>
+
+**6. Jamahl Mosley — "Defensively. You defensively, I get it. There's guys with double figures and that's that's good." — Mosley identifies defensive improvement as the key priority** [20:17](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1217s)
+
+Jamahl Mosley: "Defensively. You defensively, I get it. There's guys with double figures and that's that's good, you know, for the most part, but again, we've got to sit down and guard for the on the defensive side of the floor. We've got to take pride in that, take away something and tonight we didn't take away either."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1217s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1217s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1217&q=6) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1217&q=6&slack=1)</small>
+
+**7. Jamahl Mosley — "With so much offensive talent and so much depth on a team, that's where it's going to be" — Mosley on balancing offensive depth and sacrifice** [21:06](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1266s)
+
+Jamahl Mosley: "With so much offensive talent and so much depth on a team, that's where it's going to be different people, different nights, and being able to understand that and sacrifice for the team is a big key. And that's the talent that we have is a is a great thing and the depth is a great thing that we have."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1266s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1266s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1266&q=7) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1266&q=7&slack=1)</small>
+
+**8. Jamahl Mosley — "He's been taking on the challenge night in and night out." — Mosley on Zion Williamson's defensive challenges and growth** [21:47](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
+
+Jamahl Mosley: "He's been taking on the challenge night in and night out. And because he's got so much he's carrying so much weight offensively as well, teams are trying to target him to go at him to wear him down. But he's taking on those challenges and that's what we're going to continue to ask him to do."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1307s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1307&q=8&slack=1)</small>
+
+**9. Jamahl Mosley — "This is it's always going to be a process as you continue to grow." — Mosley views defensive development as an ongoing process** [23:27](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1407s)
+
+Jamahl Mosley: "This is it's always going to be a process as you continue to grow and you as you continue to get better. And as a new system coming in, it's going to take a moment for guys to really understand exactly how you can do things, but that has to be our identity and it will continue to be our identity."
+
+[https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1407s](https://www.youtube.com/watch?v=aJSJd1S8y_0&t=1407s)
+
+<small>[Clip it](presserclips://clip?v=aJSJd1S8y_0&t=1407&q=9) · [Send to Slack](presserclips://clip?v=aJSJd1S8y_0&t=1407&q=9&slack=1)</small>
+
+---
 
 ## LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/8/2026 — *New Orleans Pelicans*
 

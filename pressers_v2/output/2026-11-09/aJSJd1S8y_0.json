@@ -1,0 +1,277 @@
+{
+  "video_title": "LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "14:30",
+      "summary_phrase": "Jamahl Mosley on the team's inability to stop the Clippers",
+      "names_mentioned": [],
+      "excerpt": "You saw a team that played desperate. Like they'd lost that many in a row.",
+      "quote": "You saw a team that played desperate. Like they'd lost that many in a row and that they wanted to come out and take care of home, and that's exactly what they did. Now we didn't help that cause, obviously giving up 39 points, 35 points, 37 points and then ultimately 139 points. That is unacceptable. It's unacceptable.",
+      "text_blocks": [],
+      "start_seconds": 870,
+      "end_seconds": 892,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley calls giving up 139 points to the Clippers unacceptable. He says the Pelicans failed to match the desperation and intensity of a team that had lost several games in a row.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley reacts to the Pelicans defensive performance in a loss against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "15:10",
+      "summary_phrase": "Mosley emphasizes defensive commitment and covering for teammates",
+      "names_mentioned": [],
+      "excerpt": "You've got to sit down and guard, you've got to cover for one another.",
+      "quote": "Not worried about what the offense does, but you've got to sit down and guard, you've got to cover for one another, and we've got to continue to continue to fight, no matter what's happening within the game.",
+      "text_blocks": [],
+      "start_seconds": 910,
+      "end_seconds": 925,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the focus for the Pelicans is simple right now. You have to sit down and guard and cover for one another regardless of what is happening on the offensive end.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the need for better defensive effort and team cohesion.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "15:40",
+      "summary_phrase": "Mosley credits the Clippers' effort and intensity",
+      "names_mentioned": [],
+      "excerpt": "The more desperate team, the more the hungrier team, the home team, they came out with a level",
+      "quote": "The more desperate team, the more the hungrier team, the home team, they came out with a level of dog fight to them that that we did not match. And again, that's the NBA. You know, we've got to take this, we've got to learn from it and understand how desperate we need to play nightly in order to get the job done.",
+      "text_blocks": [],
+      "start_seconds": 940,
+      "end_seconds": 964,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the loss to the Clippers. He says the opponent came out with a level of dog fight that his team did not match and they have to learn how to play with that same desperation nightly.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley credits the Clippers for playing with more intensity and hunger than his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "17:18",
+      "summary_phrase": "Mosley on the competitive nature and growth of his player",
+      "names_mentioned": [],
+      "excerpt": "He's an ultimate competitor. He is just he's a kid that just wants to grow.",
+      "quote": "He's an ultimate competitor. He is just he's a kid that just wants to grow, wants to get better, try to figure it out, works his tail off, trying to figure it out on both ends of the floor, and I just love the way he, you know, he played within himself in so many ways. It allowed the game to come to him, his aggression, his speed.",
+      "text_blocks": [],
+      "start_seconds": 1038,
+      "end_seconds": 1064,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley praises his player as an ultimate competitor who just wants to grow. He says he loves the way he played within himself and allowed the game to come to him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the competitive nature and work ethic of an unnamed player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "18:03",
+      "summary_phrase": "Mosley on the work ethic and development of his player",
+      "names_mentioned": [],
+      "excerpt": "He's an extreme worker. He's a student of the game. He wants to get better.",
+      "quote": "He's an extreme worker. He's a student of the game. He wants to get better, he's pushing himself to get better every single day, whether that's watching film with the coaches, studying the game, getting in the gym, working on his game, whatever little small nuances he can have he does. And I think that's what's going to, you know, continue to separate him from a second-year guy.",
+      "text_blocks": [],
+      "start_seconds": 1083,
+      "end_seconds": 1109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley highlights the work ethic of his young player. He says the constant film study and gym work is what will continue to separate him from other second year guys.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the work ethic and development of a second-year player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "20:17",
+      "summary_phrase": "Mosley identifies defensive improvement as the key priority",
+      "names_mentioned": [],
+      "excerpt": "Defensively. You defensively, I get it. There's guys with double figures and that's that's good.",
+      "quote": "Defensively. You defensively, I get it. There's guys with double figures and that's that's good, you know, for the most part, but again, we've got to sit down and guard for the on the defensive side of the floor. We've got to take pride in that, take away something and tonight we didn't take away either.",
+      "text_blocks": [],
+      "start_seconds": 1217,
+      "end_seconds": 1239,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans have to take more pride in their defense. He notes that while individual scoring is fine, the team failed to take anything away from the Clippers tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the need for his team to prioritize defensive pride.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "21:06",
+      "summary_phrase": "Mosley on balancing offensive depth and sacrifice",
+      "names_mentioned": [],
+      "excerpt": "With so much offensive talent and so much depth on a team, that's where it's going to be",
+      "quote": "With so much offensive talent and so much depth on a team, that's where it's going to be different people, different nights, and being able to understand that and sacrifice for the team is a big key. And that's the talent that we have is a is a great thing and the depth is a great thing that we have.",
+      "text_blocks": [],
+      "start_seconds": 1266,
+      "end_seconds": 1289,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on managing a deep roster. He says with so much offensive talent, the key for the team is understanding that it will be different people on different nights and being willing to sacrifice.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the importance of sacrifice within a deep and talented offensive roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "21:47",
+      "summary_phrase": "Mosley on Zion Williamson's defensive challenges and growth",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "He's been taking on the challenge night in and night out.",
+      "quote": "He's been taking on the challenge night in and night out. And because he's got so much he's carrying so much weight offensively as well, teams are trying to target him to go at him to wear him down. But he's taking on those challenges and that's what we're going to continue to ask him to do.",
+      "text_blocks": [],
+      "start_seconds": 1307,
+      "end_seconds": 1329,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley says teams are actively targeting Zion Williamson on defense to wear him down because of his offensive load. He says the team will continue to ask him to take on those challenges.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses how opponents are targeting Zion Williamson defensively to wear him down.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "23:27",
+      "summary_phrase": "Mosley views defensive development as an ongoing process",
+      "names_mentioned": [],
+      "excerpt": "This is it's always going to be a process as you continue to grow.",
+      "quote": "This is it's always going to be a process as you continue to grow and you as you continue to get better. And as a new system coming in, it's going to take a moment for guys to really understand exactly how you can do things, but that has to be our identity and it will continue to be our identity.",
+      "text_blocks": [],
+      "start_seconds": 1407,
+      "end_seconds": 1430,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley admits that adjusting to a new system is a process. He maintains that defense will continue to be the identity of the team as they grow.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains that establishing a defensive identity is a process for his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "keyword: live",
+  "format": "ytq-1",
+  "video_id": "aJSJd1S8y_0",
+  "url": "https://www.youtube.com/watch?v=aJSJd1S8y_0",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-09T17:23:31Z",
+  "duration_seconds": 1520,
+  "processed_at": "2026-11-09T18:53:45Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": false
+}
