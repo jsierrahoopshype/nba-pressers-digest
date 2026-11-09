@@ -1,0 +1,311 @@
+{
+  "video_title": "PRACTICE SOUND: COACH SWEENEY & DESMOND BANE BY SAS",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Desmond Bane"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:12",
+      "summary_phrase": "Coach Sweeney on team rebounding and defensive activity against Sacramento",
+      "names_mentioned": [],
+      "excerpt": "I thought we did a great job on both ends with the rebounding. That was phenomenal.",
+      "quote": "I thought we did a great job on both ends with the rebounding. That was phenomenal. I thought our activity on defense, forcing turnovers was great. Offensively, I thought we did a much better job of taking care of the basketball. We need to keep that up. And then from there, if we can continue to improve on our paint decisions and defensively continue to improve on how we contest shots, I think those are some things that we can carry forward and keep doing and then improve upon.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney says the team is focusing on improving paint decisions and defensive shot contests after a solid performance on the glass and in turnover reduction against Sacramento.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's rebounding performance and defensive activity in a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:48",
+      "summary_phrase": "Coach Sweeney on maintaining team identity during adverse situations",
+      "names_mentioned": [],
+      "excerpt": "Anytime there is an adverse situation, we want to play to our identity.",
+      "quote": "Anytime there is an adverse situation, we want to play to our identity. I think you always want to anchor back to who you are and what you want to be. So I think in this situation, or any situation where you have something that's not ideal, it's get back to who we are and how we want to do things.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Coach Sweeney on how the team handles adversity: Anytime things are not ideal we want to anchor back to who we are and how we want to do things.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney explains the importance of maintaining team identity during adverse situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:05",
+      "summary_phrase": "Coach Sweeney on offensive rebounding and turnover reduction",
+      "names_mentioned": [],
+      "excerpt": "I thought the effort first of all on offense was great to go get extra possessions.",
+      "quote": "I thought the effort first of all on offense was great to go get extra possessions. Saw it from numerous guys in numerous situations. It's the second game in a row where we've done a pretty good job of that. We need to keep that up. And I thought the turnover decision making improved. Our screening was how we wanted it to be, and now we just got to keep building on it.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Coach Sweeney notes the team has improved their offensive rebounding and turnover decision making over the last two games.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney comments on the team's offensive rebounding effort and improvements in turnover decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:30",
+      "summary_phrase": "Coach Sweeney on injury updates for Desmond Bane and Anthony Black",
+      "names_mentioned": [
+        "Desmond Bane",
+        "Anthony Black"
+      ],
+      "excerpt": "Desmond Bane is doing pretty good. He is out here moving around a little bit today.",
+      "quote": "Desmond Bane is doing pretty good. He is out here moving around a little bit today, so feeling better and progress as we see fit. Anthony Black is doing good. I think he felt pretty good coming out of the game with the cramps, and so we'll just play it day by day.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Injury update: Coach Sweeney says Desmond Bane is moving around and feeling better while Anthony Black is day to day after dealing with cramps.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Desmond Bane",
+          "Anthony Black"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Sweeney provides injury updates on Desmond Bane and Anthony Black during a media availability.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:50",
+      "summary_phrase": "Coach Sweeney on maintaining shooting confidence when shots aren't falling",
+      "names_mentioned": [],
+      "excerpt": "The biggest thing when you're shooting the basketball is you want to be great in our shot prep.",
+      "quote": "The biggest thing when you're shooting the basketball is you want to be great in our shot prep. So hands out, knees bent, feet set. And if you're taking the right looks, you got to keep continuing to take them. You got to keep working on your game. But at the end of the day, if you've got good looks, you got to be ready to shoot them and knock them down.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Coach Sweeney on shooting slumps: The biggest thing is being great in your shot prep. If you are taking the right looks you have to keep continuing to take them.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney offers advice on maintaining shooting confidence and proper shot preparation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Desmond Bane",
+      "timestamp": "02:14",
+      "summary_phrase": "Desmond Bane on returning to practice and team energy",
+      "names_mentioned": [],
+      "excerpt": "It's great to be back. A lot of the guys, when they saw me, they were like, wow.",
+      "quote": "It's great to be back. A lot of the guys, when they saw me, they were like, wow. Feel like it's been forever since they heard my voice or seen me. That's how I felt too. I don't like being away from the team, being hunkered up in my room, bunker down in my room. But I'm feeling better, trying to get my energy back, but got to be back.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Desmond Bane is back at practice and says it feels like it has been forever since he was with the team. He is working on getting his energy back.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane describes his feelings about returning to practice after being away from the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Desmond Bane",
+      "timestamp": "02:44",
+      "summary_phrase": "Desmond Bane on team's resilience against Golden State",
+      "names_mentioned": [],
+      "excerpt": "First half wasn't going our way, but we chose not to lay down.",
+      "quote": "First half wasn't going our way, but we chose not to lay down and came out in the third quarter and really responded. Gave our chance to win a game on the road. Didn't go our way, but like you said, I was proud of the way we fought and some of the things we were able to do on the glass.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Desmond Bane says he was proud of the way the team fought against Golden State despite the loss: We chose not to lay down and came out in the third quarter and really responded.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Desmond Bane reflects on the team's resilience and effort during a road game against Golden State.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Desmond Bane",
+      "timestamp": "03:22",
+      "summary_phrase": "Desmond Bane on maintaining offensive rhythm and playing with force",
+      "names_mentioned": [],
+      "excerpt": "Continue to play with force, share the ball, patience when we do get into the paint.",
+      "quote": "Continue to play with force, share the ball, patience when we do get into the paint, and being confidence to let it fly. Play free. I think we'll be in a good spot.",
+      "text_blocks": [],
+      "start_seconds": 202,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Desmond Bane on the keys to the offense: Continue to play with force share the ball and have patience when we get into the paint.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses the keys to maintaining offensive rhythm and playing with force.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Desmond Bane",
+      "timestamp": "03:45",
+      "summary_phrase": "Desmond Bane on maintaining team confidence during shooting slumps",
+      "names_mentioned": [],
+      "excerpt": "Trust what we're doing right now. We come in here and we put the work in.",
+      "quote": "Trust what we're doing right now. We come in here and we put the work in very consistently, and you just got to trust that. You're going to go through periods of the season where you're playing extremely well and periods of the season when things might not be going your way. So, growing into being comfortable with that and knowing that this is what you fall back on right here.",
+      "text_blocks": [],
+      "start_seconds": 225,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Desmond Bane on navigating the season: You are going to go through periods where you are playing well and periods when things might not be going your way. You just have to trust what we are doing.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane talks about trusting the team's process and work ethic during difficult periods of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Desmond Bane",
+      "timestamp": "04:18",
+      "summary_phrase": "Desmond Bane on the importance of a long NBA season",
+      "names_mentioned": [],
+      "excerpt": "We got many more months left to this thing, and a lot of room and a lot of time.",
+      "quote": "We got many more months left to this thing, and a lot of room and a lot of time to improve, and we will.",
+      "text_blocks": [],
+      "start_seconds": 258,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 1,
+      "social_post": "Desmond Bane remains optimistic about the remainder of the season: We have many more months left to this thing and a lot of room and time to improve.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane emphasizes that there is still plenty of time left in the season for the team to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "Wxz5POC3-J0",
+  "url": "https://www.youtube.com/watch?v=Wxz5POC3-J0",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-09T21:00:13Z",
+  "duration_seconds": 277,
+  "processed_at": "2026-11-09T23:26:09Z",
+  "run_id": "2026-11-09T2325Z-14utc",
+  "is_one_off": false
+}

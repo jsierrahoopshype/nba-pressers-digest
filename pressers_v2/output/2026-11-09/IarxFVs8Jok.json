@@ -1,0 +1,349 @@
+{
+  "video_title": "Ryan Dunn Shootaround Media Availability | 11-9-26",
+  "speakers_seen": [
+    "Ryan Dunn"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ryan Dunn",
+      "timestamp": "00:08",
+      "summary_phrase": "Ryan Dunn on team chemistry and offensive movement",
+      "names_mentioned": [],
+      "excerpt": "Just mix up the game. In that unit we all have our strengths and weaknesses.",
+      "quote": "Just mix up the game. In that unit we all have our strengths and weaknesses that we are trying to pose on each other and pose on defense. Offensively, just keep moving it, keep moving off the ball, cutting, and offensive rebounding. Defensively, if we are going small, just trying to use our speed and athleticism against the bigs. And then if we are going with O-So in the back up, just trying to be physical as a guard and then just making stuff happen on the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Dunn on the Suns small-ball strategy: We are just trying to use our speed and athleticism against the bigs and keep moving off the ball to create opportunities.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn discusses the team's offensive movement and defensive strategies during a shootaround media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ryan Dunn",
+      "timestamp": "00:40",
+      "summary_phrase": "Ryan Dunn on his development since college",
+      "names_mentioned": [
+        "O-So"
+      ],
+      "excerpt": "It is cool because I feel I can go back to that and just know what I did.",
+      "quote": "Since college, since at Virginia. I bet myself doing jump balls and tips and everything like that. It is cool because I feel I can go back to that and just know what I did out there. Trying to apply it here and just learn. We have a league-great bigs here, so I am learning from O-So as well. We kind of have the same physical attributes, our speed and our athleticism, so trying to figure out what he does to get us involved and then just taking my time when I get the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ryan Dunn says he is leaning on his experience from Virginia to adjust to the NBA game: I bet myself doing jump balls and tips and everything like that. It is cool because I feel I can go back to that.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Dunn explains how he is applying his college experience and learning from teammate Oso Ighodaro.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ryan Dunn",
+      "timestamp": "01:10",
+      "summary_phrase": "Ryan Dunn on his instinct for hustle plays",
+      "names_mentioned": [],
+      "excerpt": "It is just instinct. It is something that I always feel like I need to do.",
+      "quote": "It is just instinct. It is something that I always feel like I need to do, through the little things for this team, go ahead and impact the game. That is all I want to do, so no matter what, I am just going to try to get the ball as much as I can.",
+      "verbatim_original_language": "",
+      "start_seconds": 70,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Ryan Dunn on his hustle-first mentality: It is just instinct. It is something that I always feel like I need to do, through the little things for this team, go ahead and impact the game.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn describes his instinctual approach to making hustle plays to impact the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ryan Dunn",
+      "timestamp": "01:35",
+      "summary_phrase": "Ryan Dunn on his early season progress",
+      "names_mentioned": [
+        "Amanda"
+      ],
+      "excerpt": "It is a process. I am obviously happy with what is going on, but I cannot be satisfied.",
+      "quote": "It is seven games in. It is a process. I am obviously happy with what is going on, but I cannot be satisfied. Like I told Amanda the other day, when we played, I forgot who we played, but I do not feel like I was super aggressive and did not trust what I was doing. I put in a lot of work, so right now it is just me going out and competing and coming back in here and just trusting the process and working on what is going on.",
+      "verbatim_original_language": "",
+      "start_seconds": 95,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Seven games into his rookie season, Ryan Dunn says he is focused on trusting his work: I am obviously happy with what is going on, but I cannot be satisfied.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn reflects on his early season progress and the importance of trusting his work.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ryan Dunn",
+      "timestamp": "02:04",
+      "summary_phrase": "Ryan Dunn on the team's defensive grit",
+      "names_mentioned": [],
+      "excerpt": "I think just our grit, our toughness for all 48 minutes.",
+      "quote": "I think just our grit, our toughness for all 48 minutes. We had I think one back quarter where we had a bad spurt where it was just a lack of on us, like turnovers and offensive rebounding for them. That is a great team, they have great caliber players, so for us to hold them under 100 points, that is big for us, and shows that we can do it.",
+      "verbatim_original_language": "",
+      "start_seconds": 124,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ryan Dunn credits the Suns defensive grit for holding opponents under 100 points: That is big for us, and shows that we can do it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn praises the team's defensive grit and toughness throughout recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ryan Dunn",
+      "timestamp": "02:27",
+      "summary_phrase": "Ryan Dunn on his role and impact",
+      "names_mentioned": [],
+      "excerpt": "I think just trying to impact winning as much as I can.",
+      "quote": "I think just trying to impact winning as much as I can. When I get on the floor, that is what I want to do, and regardless of what I have to do to do that, whether it is scoring, offensive rebounding, diving on the floor, I am going to do it. So it is just trying to be the best player I can be.",
+      "verbatim_original_language": "",
+      "start_seconds": 147,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Dunn on his role with the Suns: Whether it is scoring, offensive rebounding, diving on the floor, I am going to do it. It is just trying to be the best player I can be.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn discusses his commitment to impacting winning through various hustle plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ryan Dunn",
+      "timestamp": "02:39",
+      "summary_phrase": "Ryan Dunn on learning from O-So",
+      "names_mentioned": [
+        "O-So"
+      ],
+      "excerpt": "It is crazy though, you know, we talk to each other and that is someone I can always look up to.",
+      "quote": "No, but I mean you know, it is what it is, the NBA. It is what everyone here expects. But it is crazy though, you know, we talk to each other and that is someone I can always look up to as a brother, so I am glad I got drafted with him too.",
+      "verbatim_original_language": "",
+      "start_seconds": 159,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Ryan Dunn on his bond with teammate Oso Ighodaro: That is someone I can always look up to as a brother, so I am glad I got drafted with him too.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Oso Ighodaro"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Dunn talks about his close relationship with teammate Oso Ighodaro since being drafted together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ryan Dunn",
+      "timestamp": "03:07",
+      "summary_phrase": "Ryan Dunn on the college football playoff expansion",
+      "names_mentioned": [],
+      "excerpt": "I think that is good for the teams that maybe have three wins.",
+      "quote": "I think that is good for the teams that maybe have three wins, because you know, back in the days when you had one win, you could not even make the college playoffs. So we see it go from that to this, it is going to be interesting, it should be fun. I hope some teams surprise people in college football players.",
+      "verbatim_original_language": "",
+      "start_seconds": 187,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 3,
+      "social_post": "Ryan Dunn shares his thoughts on the college football playoff expansion: It is going to be interesting, it should be fun. I hope some teams surprise people.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn shares his thoughts on the expansion of the college football playoff system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Ryan Dunn",
+      "timestamp": "03:22",
+      "summary_phrase": "Ryan Dunn on the current Suns team",
+      "names_mentioned": [],
+      "excerpt": "Yeah, I mean they have the same pieces, they have the exact same team.",
+      "quote": "Yeah, I mean they have the same pieces, they have the exact same team. They have a great coach, they have a great system, they have a great culture. So you know, it is a good test for us tonight. We just got off a good team against Houston that made it to the playoffs and got deep in the playoffs, and now we got a finals contender, a finals team going against, so it is good to see how we are going to go up against them.",
+      "verbatim_original_language": "",
+      "start_seconds": 202,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ryan Dunn on facing a finals contender: We just got off a good team against Houston and now we got a finals team going against, so it is good to see how we are going to go up against them.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn discusses the challenge of facing a high-caliber opponent after playing against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Ryan Dunn",
+      "timestamp": "03:58",
+      "summary_phrase": "Ryan Dunn on defending Victor Wembanyama",
+      "names_mentioned": [
+        "Wemby"
+      ],
+      "excerpt": "It is tough because like you said, he is a giant and he is special and he is gifted.",
+      "quote": "It is tough because like you said, he is a giant and he is special and he is gifted and he is a one-of-one player. So the biggest thing like we can do is just make it tough on him as much as I can. Make him feel us throughout the whole game, you know, try to limit his touches and just make it make it crowded when he gets it, you know. We cannot stop, we are not going to hold him to zero points as Wemby, like as long as we can make it tough on him through the whole night and have a chance with that, I think we have a good shot.",
+      "verbatim_original_language": "",
+      "start_seconds": 238,
+      "end_seconds": 283,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Ryan Dunn on the challenge of defending Victor Wembanyama: He is a giant and he is special and he is a one-of-one player. The biggest thing we can do is just make it tough on him as much as I can.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn explains the defensive strategy for making things difficult for Victor Wembanyama.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Ryan Dunn",
+      "timestamp": "04:32",
+      "summary_phrase": "Ryan Dunn on finding rhythm in the second season",
+      "names_mentioned": [],
+      "excerpt": "Yeah, I think it is just, you know, we find our ways to craft, we find our ways to get extra possessions.",
+      "quote": "Yeah, I think it is just, you know, we find our ways to craft, we find our ways to get extra possessions. And for us to be able to find our spots, and for me, if I am crashing at the corner, am I going to crash high side or low side, depending on where where the defense is at, and trying to get extra possession against the great thing for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 272,
+      "end_seconds": 295,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ryan Dunn on finding rhythm in his second season: We find our ways to craft, we find our ways to get extra possessions.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn discusses finding rhythm and securing extra possessions through team execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "IarxFVs8Jok",
+  "url": "https://www.youtube.com/watch?v=IarxFVs8Jok",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-09T19:11:30Z",
+  "duration_seconds": 295,
+  "processed_at": "2026-11-09T23:26:27Z",
+  "run_id": "2026-11-09T2325Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,243 @@
+{
+  "video_title": "Micah Nori Media Availability | Nov. 9, 2026 | Portland Trail Blazers",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:11",
+      "summary_phrase": "Micah Nori on team's defensive physicality and effort",
+      "names_mentioned": [],
+      "excerpt": "I wouldn't say there's slippage, but just the physicality and imposing our will a little bit more.",
+      "quote": "We had a lengthy film session with the guys today, which was the first one we've been able to have since getting back home and being able to have a practice, which is nice. We are getting back to being who we need to be, especially at the defensive end, just with the physicality and imposing our will a little bit more and showing that. When we don't do that, we don't do that. So, we had a lot of good film to look at, both good and bad.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori says the Blazers are focusing on defensive physicality after a lengthy film session following their recent road trip",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the team's focus on defensive physicality following a film session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "01:12",
+      "summary_phrase": "Micah Nori on team's mental approach to long road stretches",
+      "names_mentioned": [],
+      "excerpt": "These conversations are much better to have when you're six and three as opposed to being three and six.",
+      "quote": "I told them, these conversations are much better to have when you're six and three as opposed to being three and six and pushing the panic button. So, to their credit, they found a way to win six of the first nine and just make sure we are getting ready to play these two at home and then we got another heck of a road trip coming up and just want to make sure that we're fully prepared and fully locked in for what's to come, starting with tomorrow night.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori on the Blazers 6-3 start: These conversations are much better to have when you are 6-3 as opposed to being 3-6 and pushing the panic button",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori reflects on the team's mental approach and their six and three start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "01:42",
+      "summary_phrase": "Micah Nori on the mental demands of NBA road travel",
+      "names_mentioned": [
+        "Ask",
+        "Maggie"
+      ],
+      "excerpt": "It is a mental thing. The physical part, you're pretty much taking care of.",
+      "quote": "It is a mental thing. The physical part, you're pretty much taking care of. You have everything you need as far as from an H&P standpoint. The rest, the way you travel with the planes, everything, it's much more than that. It's just being locked in mentally. Ask why and Maggie, I bet you they love the road. But it is a mental thing. The physical part, you're pretty much taking care of. We don't go commercial anymore, so it's much more than that. It's just being locked in mentally.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Micah Nori says the biggest challenge of NBA road travel is the mental aspect of staying locked in",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains the mental challenges of NBA travel and maintaining focus on the road.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "02:30",
+      "summary_phrase": "Micah Nori on Oklahoma City Thunder's system and depth",
+      "names_mentioned": [
+        "Jalen Williams",
+        "Holmgren",
+        "AJ Mitchell",
+        "Mark Daigneault",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "They've got a great system in place and a lot of good players.",
+      "quote": "They've got a great system in place and a lot of good players and it's kind of, they're used to playing without Jalen Williams because he missed so much time last year. Holmgren's been in and out, obviously he missed, knock on wood for him, he missed almost a year with the foot stuff and all that. But I think it's almost like just next man mentality. AJ Mitchell steps right in where those guys have left off and it's just the way they play, the way they have integrated their system. Mark Daigneault does a great job and Presti's put good players in place. As long as Shai is running around for the Oklahoma City Thunder, they're always going to be pretty good.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Micah Nori on the Thunder: As long as Shai is running around for the Oklahoma City Thunder they are always going to be pretty good",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Williams",
+          "Chet Holmgren",
+          "AJ Mitchell",
+          "Mark Daigneault",
+          "Sam Presti",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori analyzes the Oklahoma City Thunder's system and their ability to maintain performance despite injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "03:26",
+      "summary_phrase": "Micah Nori on team depth during injury-plagued stretches",
+      "names_mentioned": [
+        "Ja",
+        "Shade",
+        "Rob",
+        "Hansen"
+      ],
+      "excerpt": "We feel very comfortable. As you've seen, Youngblood has filled in very well.",
+      "quote": "I think we do have that. I just think the one thing that at some point, kind of like Oklahoma City, they're no different. They've got three big ones out right now, but when you start taking more hits and more hits, it gets a little bit tougher just from a sheer numbers standpoint. But we feel very comfortable. As you've seen, Youngblood has filled in very well. I think Hansen has shown himself to be good on nights when Rob's been out. So, I would say we're awfully close to them. The difference is that our system has not been in place nearly as long.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori says the Blazers are close to the Thunder in terms of depth but notes the difference is that their system has not been in place nearly as long",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori discusses the impact of injuries on team depth and compares their situation to Oklahoma City.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "04:16",
+      "summary_phrase": "Micah Nori on the timeline for implementing a new system",
+      "names_mentioned": [],
+      "excerpt": "The difference is the continuity of next year, the camp, come all back together.",
+      "quote": "I don't think that, you know, I think it gets into place pretty quickly. We've got guys that can grasp it. So, I mean, it's pretty much in place now. The difference is the continuity of next year, the camp, come all back together and these guys all playing together within that system. Then you don't have to necessarily start at letter A and work your way through the whole alphabet like we have to do this year. You can kind of touch on A, say everybody's good there, and then kind of move on.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori says the Blazers system is already in place but continuity next season will allow them to skip the basics and move faster",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains the timeline for implementing a new coaching system and the importance of continuity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Nori",
+      "timestamp": "05:12",
+      "summary_phrase": "Micah Nori on the benefits of back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "I like anything different for these guys. I think over the course of 82, it gets a little monotonous.",
+      "quote": "I like anything different for these guys. I think over the course of 82, it gets a little monotonous. That's why I like the in-season tournament and I think the back-to-back is kind of a cool thing. I really do. I think that where it gets tough is, you look at both these teams tomorrow, a little bit depleted, so it could quite honestly be an advantage. If we play Oklahoma City twice and we're fully healthy and they're missing three of their top five guys essentially, then that's the only thing that you could say like it's a little bit of a disadvantage.",
+      "text_blocks": [],
+      "start_seconds": 312,
+      "end_seconds": 352,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori says he likes the back to back game format because it breaks up the monotony of the 82 game season",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori shares his perspective on the benefits of back-to-back games and the impact of injuries on competitive balance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-BSN5vAaKVA",
+  "url": "https://www.youtube.com/watch?v=-BSN5vAaKVA",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-09T23:02:05Z",
+  "duration_seconds": 401,
+  "processed_at": "2026-11-09T23:26:10Z",
+  "run_id": "2026-11-09T2325Z-14utc",
+  "is_one_off": false
+}

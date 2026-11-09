@@ -1,0 +1,170 @@
+{
+  "video_title": "Damian Lillard Media Availability | Nov. 9, 2026 | Portland Trail Blazers",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "01:13",
+      "summary_phrase": "Damian Lillard on the team's defensive and rebounding struggles",
+      "names_mentioned": [],
+      "excerpt": "when we have those stale moments where the ball isn't moving as much, we're not in the gaps",
+      "quote": "When we have those stale moments where the ball isn't moving as much, we're not in the gaps defensively, we're not helping each other out, we're not limiting teams to one shot, they're getting two and three offensive rebounds. We've got to not allow those types of things to linger. The team that we want to be, we want to major in those types of things, limit those second and third opportunities for teams, continue to move the ball, and you don't want those types of stretches to last very long.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Damian Lillard says the Blazers need to stop letting defensive lapses and rebounding struggles linger. He emphasizes that to be the team they want to be they must limit second chances and keep the ball moving.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard discusses the team's recent defensive lapses and rebounding struggles during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "02:10",
+      "summary_phrase": "Damian Lillard on the importance of coaching and film study",
+      "names_mentioned": [],
+      "excerpt": "it starts with having a great coaching staff, a direct head coach. We started our day with film",
+      "quote": "It starts with having a great coaching staff, a direct head coach. We started our day with film and the film doesn't lie. You have two games like we've had with the Lakers and the Spurs and you've got to correct yourself. You've got to watch the film and you've got to see what mistakes we made to just see what the truth is. We addressed it, we got on the court and made our corrections.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Damian Lillard on the team recent film sessions after losses to the Lakers and Spurs. He says the film does not lie and the team has been focused on making corrections to see what the truth is.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "LAL",
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Damian Lillard explains the importance of film study and coaching corrections following recent games against the Lakers and Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "timestamp": "03:02",
+      "summary_phrase": "Damian Lillard's assessment of the Oklahoma City Thunder",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "I would just describe them as a championship team. They've won it, they continue to show",
+      "quote": "I would just describe them as a championship team. They've won it, they continue to show that that's who they are with adversity and coming up short regardless. They're a well-coached team, a tough team, experienced. With Shai out front, you know they're going to be a contending team regardless. They have some injuries and have a couple tough nights and then they just come back out looking like Oklahoma City, winning games and getting it done.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Damian Lillard calls the Oklahoma City Thunder a championship team. He says with Shai Gilgeous Alexander out front they are a tough and experienced group that will be a contender regardless of injuries.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Damian Lillard shares his assessment of the Oklahoma City Thunder and their star player Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Damian Lillard",
+      "timestamp": "03:54",
+      "summary_phrase": "Damian Lillard on the challenge of back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "I'm not a big fan of it, just because I know how hard it is to win",
+      "quote": "I'm not a big fan of it, just because I know how hard it is to win those games. It's tough, it's possible, I've done it, so I'm not a big fan of it, but I do like the fact that it challenges you in that way. To be able to do it two times in a row, especially on back-to-back days, those are the types of things that you've got to condition your mind and your habits and your behavior to be able to handle and to be able to fight through.",
+      "text_blocks": [],
+      "start_seconds": 234,
+      "end_seconds": 270,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Damian Lillard admits he is not a big fan of back to back games because of how hard they are to win. He says you have to condition your mind and habits to fight through the challenge.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard expresses his thoughts on the difficulty of playing back-to-back games in the NBA schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Damian Lillard",
+      "timestamp": "04:37",
+      "summary_phrase": "Damian Lillard on the team's turnover and rebounding issues",
+      "names_mentioned": [],
+      "excerpt": "watching it I would say just us taking care of the ball and we got so many",
+      "quote": "Watching it I would say just us taking care of the ball and we got so many, it was so many possessions that we let get away where we're a team that we need to get shots up. You don't want to have possessions where you got the ball and you don't get a shot up, live ball turnovers leading to points for the other team. So we had a lot of that over the last couple games, just the turnovers, just not valuing each possession, and then our rebounding, not just defensively where teams are getting more opportunities, but us also not getting as many extra opportunities as we typically do.",
+      "text_blocks": [],
+      "start_seconds": 277,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Damian Lillard identifies turnovers and rebounding as the primary issues for the Blazers. He says the team is not valuing each possession and is giving away too many opportunities to opponents.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard analyzes the team's recent issues with turnovers and rebounding performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "6lZohNGKAMQ",
+  "url": "https://www.youtube.com/watch?v=6lZohNGKAMQ",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-09T22:40:49Z",
+  "duration_seconds": 378,
+  "processed_at": "2026-11-09T23:26:07Z",
+  "run_id": "2026-11-09T2325Z-14utc",
+  "is_one_off": false
+}

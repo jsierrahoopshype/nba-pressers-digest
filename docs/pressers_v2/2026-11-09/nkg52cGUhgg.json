@@ -1,0 +1,257 @@
+{
+  "video_title": "Collin Gillespie Shootaround Media Availability | 11-9-26",
+  "speakers_seen": [
+    "Collin Gillespie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Collin Gillespie",
+      "timestamp": "00:51",
+      "summary_phrase": "Collin Gillespie on the Suns' second unit ball movement and energy",
+      "names_mentioned": [
+        "Ryan"
+      ],
+      "excerpt": "We all played pretty freely, movement wise. We try to keep the ball moving.",
+      "quote": "I think we just share the ball. We all played pretty freely, movement wise. We try to keep the ball moving, try to put pressure on the defense the best we can, drive, kicks. Defensively, trying to create havoc, cause turnovers the best we can. And then honestly, Ryan is doing a really good job of just coming in, impacting games, changing the pace of games with his energy and with his effort.",
+      "verbatim_original_language": "",
+      "start_seconds": 51,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Collin Gillespie on the Suns second unit approach: We try to keep the ball moving and put pressure on the defense. Defensively we are just trying to create havoc and cause turnovers.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ryan Dunn"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Gillespie discusses the impact and energy that Ryan Dunn brings to the Suns' second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Collin Gillespie",
+      "timestamp": "01:31",
+      "summary_phrase": "Collin Gillespie on the challenge of defending the Spurs' guards",
+      "names_mentioned": [
+        "Harper",
+        "Hassel",
+        "Fox",
+        "Wemby",
+        "Sell",
+        "Champagnie"
+      ],
+      "excerpt": "They're tough guards, obviously. They have really good guard play, and then add Wemby into that.",
+      "quote": "They're tough guards, obviously. They have really good guard play, and then add Wemby into that and it makes it that much more difficult. Just the amount of pressure that he puts on the rim, they can kind of throw it anywhere to him and he also has guard skills. But their guards make it really difficult, they put a ton of pressure on the rim. Harper, Hassel, Fox, and then they have really good shooting and depth around those guys. Sell is really good, been in the league for a long time, Champagnie as well, shoots at a high clip. They're well balanced and they're tough to guard for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 91,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Collin Gillespie on the challenge of facing the Spurs: They have really good guard play and then you add Wemby into that and it makes it that much more difficult.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Collin Gillespie describes the challenge of defending the Spurs' guards and Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Collin Gillespie",
+      "timestamp": "02:16",
+      "summary_phrase": "Collin Gillespie on Victor Wembanyama's impressive stat line",
+      "names_mentioned": [
+        "Wemby"
+      ],
+      "excerpt": "He's a really good player. Got a ton of respect for them, their organization.",
+      "quote": "Yeah, I mean, stuff like that doesn't happen all the time and obviously he's a really good player. Got a ton of respect for them, their organization. I guess it's just special when you see guys put up stat lines like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 136,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Collin Gillespie on Victor Wembanyama: Stuff like that does not happen all the time and obviously he is a really good player. It is just special when you see guys put up stat lines like that.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Collin Gillespie shares his respect for Victor Wembanyama after a high-scoring performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Collin Gillespie",
+      "timestamp": "02:38",
+      "summary_phrase": "Collin Gillespie on defensive strategy against Victor Wembanyama",
+      "names_mentioned": [],
+      "excerpt": "Be physical, try to limit his catches, just make it tough on him as best you can.",
+      "quote": "Be physical, try to limit his catches, just make it tough on him as best you can. And I think that's really it, just try to make it as tough as you can for him to catch the ball in the areas that he likes. Try to take away the lobs, keep him off the free throw line as best you can, try to force him into some tougher, longer twos.",
+      "verbatim_original_language": "",
+      "start_seconds": 158,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Collin Gillespie on the defensive plan for Wembanyama: Be physical, try to limit his catches, take away the lobs, keep him off the free throw line and try to force him into some tougher longer twos.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Collin Gillespie explains the defensive strategy the Suns use to limit Victor Wembanyama's effectiveness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Collin Gillespie",
+      "timestamp": "03:15",
+      "summary_phrase": "Collin Gillespie on Ryan's confidence and role off the bench",
+      "names_mentioned": [
+        "Goody",
+        "Ryan"
+      ],
+      "excerpt": "Ryan's coming in and he's taking advantage of his opportunity and he's playing with a ton of confidence.",
+      "quote": "I don't even think he was in his head. I think there's just more opportunity there now. Obviously Goody went down, so we needed somebody to fill those minutes and Ryan's coming in and he's taking advantage of his opportunity and he's playing with a ton of confidence. I think it always starts with everybody. If you just focus on like little things, defense, rebounding, energy, it can kind of carry over into everything else. So, I think he has the right mindset, he's in a good head space right now and he's playing really well for us and we need him too.",
+      "verbatim_original_language": "",
+      "start_seconds": 195,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Collin Gillespie on the bench rotation: With Goody down we needed someone to fill those minutes and Ryan is coming in and taking advantage of his opportunity and playing with a ton of confidence.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ryan Dunn"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Gillespie discusses Ryan Dunn's increased role and confidence following an injury to a teammate.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Collin Gillespie",
+      "timestamp": "04:09",
+      "summary_phrase": "Collin Gillespie on the importance of tagging and rebounding",
+      "names_mentioned": [],
+      "excerpt": "You want to be next to your guy. If they get the rebound then you can pick up full.",
+      "quote": "I think it's something that we definitely have talked about. That's the whole principle or the rules of tagging. For us, it's like you want to be next to your guy. If they get the rebound then you can pick up full, you could pressure. We do have to be smart about just running in aimlessly and letting teams get leak outs. I think Portland got a bunch of them in that game where we kind of found ourselves in no man's land and they just got a bunch of leak out layups, easy transition points. I think you kind of have to just read it and be smart about how you do it, but it's definitely impactful when you can get it right and you tag and if there's a miss you're there and able to pick up full, put pressure on them, not just let them be comfortable bringing the ball back up the floor.",
+      "verbatim_original_language": "",
+      "start_seconds": 249,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Collin Gillespie on transition defense: We have to be smart about not running in aimlessly and letting teams get leak outs. It is definitely impactful when you can get it right and tag.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Collin Gillespie explains the team's defensive principles regarding tagging and rebounding to prevent transition points.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Collin Gillespie",
+      "timestamp": "05:09",
+      "summary_phrase": "Collin Gillespie on Miles Bridges' impact and gravity",
+      "names_mentioned": [
+        "Miles",
+        "Book"
+      ],
+      "excerpt": "He can impact the game for us. Smaller guards take advantage of it.",
+      "quote": "I'm not surprised, but yeah, I was on the bench for Miles when he scored seven straight. But that's just who he is and how he can impact the game for us. Smaller guards take advantage of it. We try to stay on him about not settling and putting pressure on the rim and using force to get to the rim. And he did a really good job of that. We were big seven points when we needed them. And then obviously you put the ball in Book's hands, he's going to, he has a ton of gravity, so he's just going to make the right play. He made a really tough shot and then I think he made the right play other times, just getting off it when guys come and put two on the ball. He's really unselfish like that where he just wants to make the right play and get the best shot for the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 309,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Collin Gillespie on Devin Booker: You put the ball in Books hands and he has a ton of gravity. He is really unselfish and just wants to make the right play and get the best shot for the team.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Bridges",
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Gillespie praises the contributions of Miles Bridges and Devin Booker during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "nkg52cGUhgg",
+  "url": "https://www.youtube.com/watch?v=nkg52cGUhgg",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-09T19:13:59Z",
+  "duration_seconds": 384,
+  "processed_at": "2026-11-09T23:28:34Z",
+  "run_id": "2026-11-09T2325Z-14utc",
+  "is_one_off": false
+}

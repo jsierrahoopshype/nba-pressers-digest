@@ -1,0 +1,166 @@
+{
+  "video_title": "Will hardy talks Darryn Peterson's continued growth, Kyle Filipowski's contributions vs Minnesota",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "01:00",
+      "summary_phrase": "Darryn Peterson's impressive professional development and performance",
+      "names_mentioned": [
+        "Darryn Peterson"
+      ],
+      "excerpt": "Darryn turned in his best game as a pro.",
+      "quote": "There are so many bright spots in the game. I thought Darryn turned in his best game as a pro. It was good to see Flip back out there, I thought he had some nice minutes. Jax continues to be pretty solid in the middle for us. He's doing a lot of the dirty work, wrestling with the bigs and screening and rolling. I think he's helping us. I think Josh Green's energy is infectious when he's on the court. His defense was terrific tonight. He and Josh Okogie continue to bring a lot to our team in terms of their physicality and toughness on the perimeter.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Will Hardy praised Darryn Peterson after his best game as a pro, noting his growth against elite perimeter defenders and the impact of Josh Green and Josh Okogie on the defensive end.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darryn Peterson",
+          "Kyle Filipowski",
+          "Jaxson Hayes",
+          "Josh Green",
+          "Josh Okogie"
+        ],
+        "teams": [
+          "UTA",
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Will Hardy discusses the performance of several players following a game against Minnesota.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "02:12",
+      "summary_phrase": "Darryn Peterson's shot selection and offensive versatility",
+      "names_mentioned": [
+        "Darryn Peterson",
+        "Jaden McDaniels",
+        "Jaylen Clark",
+        "Josh Okogie",
+        "Josh Okogie",
+        "Rudy Gobert"
+      ],
+      "excerpt": "There's a variety of ways to attack.",
+      "quote": "There's a variety of ways to attack. I thought he did a great job handling some really good perimeter defenders tonight. Jaden McDaniels is elite. When Jaylen Clark comes in, his ball pressure always changes the game. You've got guys like Josh Okogie and Josh Okogie on the perimeter as well with their physicality, and Rudy Gobert's behind them. There's a lot to take away from how Darryn handled not only the ball pressure but an elite big like Rudy at the rim. He did a good job of mixing in his three-ball off the dribble and then had to make a lot of plays in that mid-range area because of their coverage.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Will Hardy on Darryn Peterson handling elite defensive pressure from Jaden McDaniels and Rudy Gobert: He did a good job of mixing in his three ball off the dribble and making plays in the mid range area.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darryn Peterson",
+          "Jaden McDaniels",
+          "Jaylen Clark",
+          "Josh Okogie",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "UTA",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Will Hardy analyzes how Darryn Peterson handled defensive pressure from Minnesota players including Jaden McDaniels and Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "03:18",
+      "summary_phrase": "Darryn Peterson's emotional maturity and focus",
+      "names_mentioned": [
+        "Darryn Peterson"
+      ],
+      "excerpt": "His engagement throughout 48 minutes has been pretty special for a young player.",
+      "quote": "It takes a big emotional battery to get through these games, and I think Darryn is showing that he has that. He doesn't always make the perfect play; there's plenty of things that he's continuing to see and improve on and work on every day. But his engagement throughout 48 minutes has been pretty special for a young player. He stays focused, he's really easy to communicate with in a game because he stays in the moment.",
+      "text_blocks": [],
+      "start_seconds": 198,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Will Hardy on the maturity of rookie Darryn Peterson: His engagement throughout 48 minutes has been pretty special for a young player. He stays focused and is really easy to communicate with in a game.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darryn Peterson"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy comments on the emotional maturity and focus shown by Darryn Peterson during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "04:11",
+      "summary_phrase": "Kyle Filipowski's physical contribution and skill set",
+      "names_mentioned": [
+        "Kyle Filipowski"
+      ],
+      "excerpt": "Kyle gave us a little bit of physicality on the interior.",
+      "quote": "Kyle gave us a little bit of physicality on the interior. It was nice to see him knock down that first catch-and-shoot three. He's a very skilled player; our fans know Kyle pretty well. He can do a little bit of everything and is a good ball mover and a good screener. I thought that Kyle played like Kyle.",
+      "text_blocks": [],
+      "start_seconds": 251,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy on Kyle Filipowski returning to the rotation: He gave us a little bit of physicality on the interior. He is a very skilled player who can do a little bit of everything. I thought that Kyle played like Kyle.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyle Filipowski"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy evaluates the physical contributions and skill set of Kyle Filipowski in his return to the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "3Zwd7XRWZwM",
+  "url": "https://www.youtube.com/watch?v=3Zwd7XRWZwM",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-09T03:46:59Z",
+  "duration_seconds": 284,
+  "processed_at": "2026-11-09T23:26:21Z",
+  "run_id": "2026-11-09T2325Z-14utc",
+  "is_one_off": false
+}
