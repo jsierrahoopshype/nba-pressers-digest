@@ -157,10 +157,12 @@ class FormatParityTests(unittest.TestCase):
         self.assertIn("\nSource: [https://www.youtube.com/watch?v=6sbyI-n2yh0]"
                       "(https://www.youtube.com/watch?v=6sbyI-n2yh0)\n", ours)
 
-    def test_digest_differs_from_ytquotes_only_in_title_sections_and_links(self):
-        """Our digest vs yt-quotes' own write_digest_file over yt-quotes'
-        own per-video .md: only the page title, the section headers and the
-        link wrappers may differ."""
+    def test_pages_differ_from_ytquotes_only_in_title_links_and_best(self):
+        """Each of our three pages vs yt-quotes' own write_digest_file over
+        yt-quotes' own per-video .md of the same videos: only the page title,
+        the links to the other pages, the Best of the best block and the
+        link wrappers may differ (and only the podcasts page keeps the
+        closing CHECK OTHER YOUTUBE PODCASTS HERE link)."""
         vids = (("J5unk3vEQmk", "James Harden Media Availability", False),
                 ("p7o-S3hmoD4", "Chase Down Podcast Live: Media Day Reactions", False),
                 ("auzyc8y-uNI", "Caleb Wilson: My First Media Day", True))
@@ -168,39 +170,38 @@ class FormatParityTests(unittest.TestCase):
             for vid, title, one_off in vids:
                 pe.process_video(client_for(HARDEN, HARDEN_FIELDS), video(vid, title, one_off),
                                  "Cleveland Cavaliers")
-            ours = pe.write_digest_file("2026-09-30", "digest.md").read_text(encoding="utf-8")
-            # yt-quotes' side: its to_markdown per video, its write_digest_file
+            pages = {c: p.read_text(encoding="utf-8") for c, p in pe.write_pages("2026-09-30", None).items()}
             ref_root = out / "ytq"
             ytq.OUTPUT_DIR = ref_root
+            theirs = {}
             try:
                 (ref_root / "2026-09-30").mkdir(parents=True)
-                for vid, _, _ in vids:
+                for (vid, _, _), ctype in zip(vids, pe.CONTENT_TYPES):
                     stored = json.loads((out / "2026-09-30" / f"{vid}.json").read_text(encoding="utf-8"))
                     (ref_root / "2026-09-30" / f"{vid}.md").write_text(
                         ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored), encoding="utf-8")
-                theirs = ytq.write_digest_file("2026-09-30", "rotation", "digest.md",
-                                               [v for v, _, _ in vids]).read_text(encoding="utf-8")
+                    theirs[ctype] = ytq.write_digest_file("2026-09-30", "rotation", f"{ctype}.md",
+                                                          [vid]).read_text(encoding="utf-8")
             finally:
                 ytq.OUTPUT_DIR = out
-        a = ours.split("\n")
-        self.assertEqual(a[0], "# NBA Pressers — 2026-09-30")
-        a[0] = "# HoopsHype YT Quotes — 2026-09-30"
-        # the "Best of the best" blocks (one per section) are ours alone: drop each (header to its closing ---)
-        for header in pe.TOP_SECTION_HEADERS.values():
-            if header in a:
-                top = a.index(header)
+        self.assertEqual(set(pages), set(pe.CONTENT_TYPES))
+        for ctype, ours in pages.items():
+            a = ours.split("\n")
+            self.assertEqual(a[0], f"# {pe.PAGE_TITLES[ctype]} — 2026-09-30")
+            others = [f"[{pe.CONTENT_TYPE_LABELS[o]}]({pe.page_filename(o, None)})" for o in pe.CONTENT_TYPES if o != ctype]
+            self.assertEqual(a[2], " · ".join(others))          # plain links to the other two pages
+            self.assertNotIn("# Press conferences", a)            # one type per page, no section headers
+            a = ["# HoopsHype YT Quotes — 2026-09-30", ""] + a[4:]
+            if pe.TOP_QUOTES_HEADER in a:
+                top = a.index(pe.TOP_QUOTES_HEADER)
                 end = a.index("---", top)
                 del a[top:end + 2]
-        kept = []
-        for i, line in enumerate(a):
-            if line in SECTION_HEADERS:
-                self.assertEqual(a[i + 1], "")
-                continue
-            if i and a[i - 1] in SECTION_HEADERS:
-                continue      # the blank line after a section header
-            kept.append(line)
-        self.assertEqual(sum(1 for line in a if line in SECTION_HEADERS), 3)
-        assert_only_link_wrappers_differ(self, "\n".join(kept), theirs)
+            if ctype == "podcast":
+                self.assertTrue(ours.rstrip().endswith(ytq.DIGEST_CLOSING_LINE))
+            else:
+                self.assertNotIn("CHECK OTHER YOUTUBE PODCASTS HERE", ours)
+                a = a + ["---", "", ytq.DIGEST_CLOSING_LINE, ""]
+            assert_only_link_wrappers_differ(self, "\n".join(a), theirs[ctype])
 
     def test_prompt_is_ytquotes_plus_speaker_rule(self):
         self.assertIn('"Unidentified speaker"', ytq.PROMPT[-400:])
@@ -228,7 +229,8 @@ class PipelineTests(unittest.TestCase):
             stored = json.loads((out / "2026-09-30" / "J5unk3vEQmk.json").read_text(encoding="utf-8"))
             assert_only_link_wrappers_differ(self, md, ytq.to_markdown(stored["url"], "Cleveland Cavaliers", stored))
             manifest = pe.build_clip_manifest("t", 100000)
-        self.assertEqual(client.models.calls, ["video", "text", "text"])   # extraction, clip fields, structured fields
+        # extraction, reporter-question check, clip fields, structured fields
+        self.assertEqual(client.models.calls, ["video", "text", "text", "text"])
         self.assertEqual(data["content_type"], "presser")
         q1, q2 = data["quotes"]
         self.assertEqual((q1["start_seconds"], q1["speaker_confidence"], q1["news_score"]), (118, "named", 6))
@@ -265,48 +267,56 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(data["quotes"][0]["speaker_confidence"], "named")    # title names him
         self.assertIsNone(data["quotes"][0]["news_score"])
 
-    def test_digest_sections(self):
+    def test_three_pages_per_slot(self):
         with TempOutput() as out:
             for vid, title, one_off in (("J5unk3vEQmk", "James Harden Media Availability", False),
                                         ("p7o-S3hmoD4", "Chase Down Podcast Live: Media Day Reactions", False),
                                         ("auzyc8y-uNI", "Caleb Wilson: My First Media Day", True)):
                 pe.process_video(client_for(HARDEN, HARDEN_FIELDS), video(vid, title, one_off), "Cleveland Cavaliers")
-            digest = pe.write_digest_file("2026-09-30", "digest.md").read_text(encoding="utf-8")
+            written = pe.write_pages("2026-09-30", "overnight", ["J5unk3vEQmk", "p7o-S3hmoD4", "auzyc8y-uNI"])
+            names = {c: p.name for c, p in written.items()}
+            presser = written["presser"].read_text(encoding="utf-8")
             harden_md = (out / "2026-09-30" / "J5unk3vEQmk.md").read_text(encoding="utf-8").strip()
-        self.assertTrue(digest.startswith("# NBA Pressers — 2026-09-30\n"))
-        order = [digest.index(h) for h in ("# Press conferences", "# Podcasts & shows", "# One-offs")]
-        self.assertEqual(order, sorted(order))
-        self.assertIn("#" + harden_md, digest)                 # video block = yt-quotes block, h1 -> h2
-        self.assertNotIn("(approx.)", digest)
-        self.assertTrue(digest.rstrip().endswith(ytq.DIGEST_CLOSING_LINE))
+            # a slot with only press conferences: one page, no links, and the
+            # podcasts / one-offs pages of that name are removed, not left empty
+            only = pe.write_pages("2026-09-30", "overnight", ["J5unk3vEQmk"])
+            left = sorted(p.name for p in (out / "2026-09-30").glob("*-overnight.md"))
+            single = only["presser"].read_text(encoding="utf-8")
+        self.assertEqual(names, {"presser": "digest-overnight.md", "podcast": "podcasts-overnight.md",
+                                 "oneoff": "oneoffs-overnight.md"})
+        self.assertTrue(presser.startswith("# NBA Pressers — 2026-09-30\n\n"
+                                           "[Podcasts & shows](podcasts-overnight.md) · [One-offs](oneoffs-overnight.md)\n"))
+        self.assertIn("#" + harden_md, presser)                 # video block = yt-quotes block, h1 -> h2
+        self.assertNotIn("Chase Down", presser)                 # the podcast is on its own page now
+        self.assertNotIn("Podcasts & shows\n", presser)
+        self.assertEqual(left, ["digest-overnight.md"])
+        self.assertTrue(single.startswith("# NBA Pressers — 2026-09-30\n\n# Best of the best\n"))
 
-    def test_digest_leads_with_best_of_the_best(self):
+    def test_page_leads_with_best_of_the_best(self):
         with TempOutput():
-            for vid, title, one_off in (("J5unk3vEQmk", "James Harden Media Availability", False),
-                                        ("p7o-S3hmoD4", "Chase Down Podcast Live: Media Day Reactions", False),
-                                        ("auzyc8y-uNI", "Caleb Wilson: My First Media Day", True)):
-                pe.process_video(client_for(HARDEN, HARDEN_FIELDS), video(vid, title, one_off), "Cleveland Cavaliers")
+            for vid, title in (("J5unk3vEQmk", "James Harden Media Availability"),
+                               ("J5unk3vEQmA", "James Harden Postgame Media Availability")):
+                pe.process_video(client_for(HARDEN, HARDEN_FIELDS), video(vid, title), "Cleveland Cavaliers")
             digest = pe.write_digest_file("2026-09-30", "digest.md").read_text(encoding="utf-8")
         top = digest.index(pe.TOP_QUOTES_HEADER)
-        self.assertLess(top, digest.index("# Press conferences"))
+        self.assertLess(top, digest.index("\n## "))
         block = digest[top:digest.index("\n---\n", top)]
-        # 6 quotes in the digest -> 10% rounded up = 1; the unidentified reporter question never qualifies
+        # 4 quotes -> 10% rounded up = 1; the unidentified reporter question never qualifies
         self.assertEqual(len(re.findall(r"(?m)^\*\*\d+\.", block)), 1)
         self.assertIn("**1. James Harden", block)
         self.assertNotIn("bench and how deep", block)
-        # the three test videos hold the same quote, so any one copy may win the tie
         src = re.search(r"From: \[[^\]]+\]\(https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})\)", block)
         self.assertIsNotNone(src)
-        # clip link keeps the quote's real number and second, so the clip tool finds it
+        # one clip pair per entry, with the quote's real number and second
+        self.assertEqual(block.count("[Clip it]"), 1)
         self.assertIn(pe.clip_link_line(src.group(1), 118, 1), block)
-        # everything below is the same digest as before
-        self.assertTrue(digest.rstrip().endswith(ytq.DIGEST_CLOSING_LINE))
+        self.assertNotIn("CHECK OTHER YOUTUBE PODCASTS HERE", digest)
 
     def test_best_of_the_best_caps_per_video_and_skips_unscored(self):
         with TempOutput() as out:
             day = out / "2026-09-30"
             day.mkdir(parents=True)
-            quotes = [{"rank": r, "speaker": "Coach A", "timestamp": f"00:{r:02d}", "quote": f"q{r}",
+            quotes = [{"rank": r, "speaker": f"Player {chr(64 + r)}", "timestamp": f"00:{r:02d}", "quote": f"q{r}",
                        "summary_phrase": "", "excerpt": "", "names_mentioned": [], "news_score": 9}
                       for r in range(1, 21)]
             quotes.append({"rank": 21, "speaker": "Coach A", "timestamp": "01:00", "quote": "x",
@@ -349,29 +359,30 @@ class PipelineTests(unittest.TestCase):
         self.assertLess(block.index("Alijah Martin"), block.index("Charles Lee"))
         self.assertIn("Christian Braun", block)
 
-    def test_best_of_the_best_per_section(self):
+    def test_each_page_has_its_own_best_of_the_best(self):
         def video(vid, ctype, speaker, title):
-            quotes = [{"rank": r, "speaker": speaker, "timestamp": f"00:{r:02d}", "quote": f"{vid} q{r}",
+            quotes = [{"rank": r, "speaker": f"{speaker} {r}", "timestamp": f"00:{r:02d}", "quote": f"{vid} q{r}",
                        "summary_phrase": "", "excerpt": "", "names_mentioned": [], "news_score": 5}
                       for r in range(1, 6)]
             return {"video_id": vid, "video_title": title, "channel_team": "T", "content_type": ctype,
                     "quotes": quotes}
-        vids = [video("AAAAAAAAAA1", "presser", "Player A", "Player A Postgame"),
-                video("AAAAAAAAAA2", "podcast", "Host B", "Some Podcast"),
-                video("AAAAAAAAAA3", "oneoff", "Coach C", "Coach C on the trade")]
+        vids = [video("AAAAAAAAAA1", "presser", "Player", "Player A Postgame"),
+                video("AAAAAAAAAA2", "podcast", "Host", "Some Podcast"),
+                video("AAAAAAAAAA3", "oneoff", "Guest", "Guest C on the trade")]
         with TempOutput() as out:
             day = out / "2026-11-07"
             day.mkdir(parents=True)
             for v in vids:
                 (day / f"{v['video_id']}.json").write_text(json.dumps(v))
-                (day / f"{v['video_id']}.md").write_text("x")
-            lines = pe.top_quotes_blocks([day / f"{v['video_id']}.md" for v in vids])
-        heads = [l for l in lines if l.startswith("# Best of the best")]
-        self.assertEqual(heads, [pe.TOP_SECTION_HEADERS[c] for c in ("presser", "podcast", "oneoff")])
-        block = "\n".join(lines)
-        oneoff = block[block.index(pe.TOP_SECTION_HEADERS["oneoff"]):]
-        self.assertIn("Coach C", oneoff)            # an ad hoc coach video still gets its block
-        self.assertEqual(len([l for l in oneoff.split("\n") if re.match(r"^\*\*\d+\.", l)]), 2)
+                (day / f"{v['video_id']}.md").write_text(pe.render_markdown(v["video_id"], "T", v))
+            pages = {c: p.read_text(encoding="utf-8") for c, p in pe.write_pages("2026-11-07", "14utc").items()}
+        for ctype, page in pages.items():
+            self.assertEqual(page.count("# Best of the best"), 1, ctype)
+            block = page[page.index("# Best of the best"):page.index("\n---\n")]
+            self.assertEqual(len(re.findall(r"(?m)^\*\*\d+\.", block)), pe.TOP_SECTION_MIN[ctype])
+            self.assertNotIn("Best of the best: ", page)
+        self.assertIn("Guest", pages["oneoff"])
+        self.assertNotIn("Host", pages["presser"])
 
     def test_split_speakers_use_single_speaker_video(self):
         answer = "Honestly I did not know it but I knew I was going to have to play hard because my mom was coming"
@@ -452,10 +463,20 @@ class ContentTypeTests(unittest.TestCase):
         self.assertEqual(pe.classify_content_type("James Harden Media Availability", is_one_off=True,
                                                   config=CONFIG), ("oneoff", "extra_videos"))
 
-    def test_gemini_fallback_and_default(self):
+    def test_team_channel_is_never_a_podcast_by_guess(self):
+        # Nov 9 2026: Gemini's "podcast" no longer files a team-channel upload as a podcast
         t = "Luka, Austin and the Squad Discuss the Season"
-        self.assertEqual(pe.classify_content_type(t, gemini_value="podcast", config=CONFIG), ("podcast", "gemini"))
+        self.assertEqual(pe.classify_content_type(t, gemini_value="podcast", config=CONFIG), ("presser", "default"))
+        self.assertEqual(pe.classify_content_type(t, gemini_value="presser", config=CONFIG), ("presser", "gemini"))
         self.assertEqual(pe.classify_content_type(t, config=CONFIG), ("presser", "default"))
+
+    def test_team_live_streams_are_pressers(self):
+        for t in ("LIVE: Pelicans vs. Clippers Postgame Interviews 11/8/2026",
+                  "LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/8/2026",
+                  "POSTGAME SOUND: ORLANDO MAGIC VS. GOLDEN STATE WARRIORS | COACH SWEENEY",
+                  "Media Availability: Brian Keefe and Trae Young | 11.6.26",
+                  "Bucks Live Postgame Show"):
+            self.assertEqual(pe.classify_content_type(t, config=CONFIG)[0], "presser", t)
 
     def test_channel_forced_presser_beats_podcast_keyword(self):
         # HoopsHype uploads are filed as pressers even when the title says "podcast"

@@ -25,6 +25,10 @@ on:
         required: false
         type: boolean
         default: false
+      rebuild_dates:
+        description: "Optional: rebuild these days' pages instead of a normal run (e.g. 2026-11-09). No video is sent to Gemini."
+        required: false
+        type: string
 
 # Serialize every run (cron + manual) so two runs never race on the same
 # per-video files. A newer trigger queues behind the current run.
@@ -53,12 +57,27 @@ jobs:
       - name: Install dependencies
         run: pip install -r pressers_v2/requirements.txt
 
+      # Podcasts & shows come from hoopshype-yt-quotes' podcast rotation
+      # (public repo, no token): only its last three days of output are
+      # checked out. A failure here only means no podcasts this run.
+      - name: Fetch the podcast rotation's quotes (hoopshype-yt-quotes)
+        continue-on-error: true
+        run: |
+          dirs=""
+          for d in 0 1 2; do dirs="$dirs output/$(date -u -d "-$d day" +%F)"; done
+          git clone --depth 1 --filter=blob:none --sparse --quiet \
+            https://github.com/jsierrahoopshype/hoopshype-yt-quotes.git "$RUNNER_TEMP/ytq"
+          git -C "$RUNNER_TEMP/ytq" sparse-checkout set $dirs
+          ls "$RUNNER_TEMP/ytq/output" || true
+
       - name: Run presser extractor
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           EXTRA_VIDEOS: ${{ inputs.extra_videos }}
           FORCE_REPROCESS: ${{ inputs.force }}
+          REBUILD_DATES: ${{ inputs.rebuild_dates }}
+          YTQ_PODCAST_DIR: ${{ runner.temp }}/ytq/output
           GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
           # Names the slot for the hourly overnight triggers (the hour field
           # "1-10" is a range, so the HHutc naming can't apply). Empty for

@@ -19,9 +19,9 @@ structured_quotes.py. A failed call leaves the video without it.
 
 Outputs (pressers_v2/output/):
   <publish-date>/<video_id>.md / .json   yt-quotes format (+ clip fields in the JSON)
-  <publish-date>/digest.md, digest-<slot>.md
-                                         sections: Press conferences /
-                                         Podcasts & shows / One-offs
+  <publish-date>/digest-<slot>.md, podcasts-<slot>.md, oneoffs-<slot>.md
+                                         one page per type and run slot (+ the
+                                         day's digest.md / podcasts.md / oneoffs.md)
   latest_clips.json, clips/<date>.json   clip manifest (named speakers only)
 
 Usage (from repo root):
@@ -91,13 +91,19 @@ UNIDENTIFIED_SPEAKER = "Unidentified speaker"
 CONTENT_TYPES = ("presser", "podcast", "oneoff")
 CONTENT_TYPE_LABELS = {"presser": "Press conferences", "podcast": "Podcasts & shows", "oneoff": "One-offs"}
 DEFAULT_CONTENT_TYPE_KEYWORDS = {
-    "podcast": ["podcast", "show", "livestream", "live stream", "broadcast", "reaction", "reactions",
-                "roundup", "live"],
+    "podcast": ["podcast"],
     "presser": ["press conference", "presser", "media availability", "availability", "media day",
                 "postgame", "post-game", "post game", "pregame", "pre-game", "pre game", "shootaround",
                 "practice", "interview", "speaks", "talks", "previews", "introductory"],
 }
 _CONFIG: dict = {}   # set in main(); classification reads its keyword lists
+
+# Podcasts & shows come from hoopshype-yt-quotes' podcast rotation (its own
+# channels.json): the workflow checks out its output for the last few days
+# and imports the videos it already transcribed (no new video call here).
+YTQ_SOURCE = "hoopshype-yt-quotes"
+YTQ_IMPORT_MAX_PER_RUN = 25
+REPORTER = "Unidentified reporter"
 
 
 # --------------------------------------------------------------------------- #
@@ -254,10 +260,41 @@ def classify_content_type(title: str, is_one_off: bool = False, gemini_value=Non
         for kw in words:
             if re.search(rf"(?<![a-z0-9]){re.escape(kw.lower())}(?![a-z0-9])", low):
                 return ctype, f"keyword: {kw}"
+    # Jorge, Nov 9 2026: a team-channel upload is a press conference unless
+    # its title says "podcast". Gemini's guess no longer files team videos as
+    # podcasts, and neither do "live" / "show" (the Pelicans' "LIVE: ...
+    # Postgame Interviews" streams). Real podcasts come from the yt-quotes rotation.
     g = str(gemini_value or "").strip().lower()
-    if g in ("presser", "podcast"):
+    if g == "presser":
         return g, "gemini"
     return "presser", "default"
+
+
+def reclassify_stored(day_dirs: list) -> int:
+    """Re-run classify_content_type on stored team-channel videos (not
+    one-offs, channel overrides or imported podcasts) so the old "live" /
+    Gemini podcast guesses become press conferences. Returns how many
+    changed; their .json is rewritten (the .md does not depend on it)."""
+    changed = 0
+    for day_dir in day_dirs:
+        for js in sorted(Path(day_dir).glob("*.json")):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            if not isinstance(data, dict) or data.get("is_one_off") or data.get("source") == YTQ_SOURCE:
+                continue
+            if data.get("content_type_source") in ("channel", "extra_videos"):
+                continue
+            new = classify_content_type(data.get("video_title") or "")
+            if data.get("content_type") != new[0]:
+                log(f"  [types] {js.stem}: {data.get('content_type')} -> {new[0]} ({new[1]})")
+                data["content_type"], data["content_type_source"] = new
+                atomic_write(js, json.dumps(data, ensure_ascii=False, indent=2))
+                changed += 1
+    return changed
 
 
 def video_content_type(data: dict) -> str:
@@ -363,18 +400,246 @@ def add_clip_links(md: str) -> str:
         t = _TS_LINK_LINE_RE.match(line)
         if t and rank is not None:
             has_one = i + 2 < len(lines) and lines[i + 1] == "" and CLIP_LINK_LINE_RE.match(lines[i + 2])
+            # A "Best of the best" entry carries its own link (the quote's real
+            # number) after its "From:" line; adding one here put a second
+            # pair with the block's display number (Nov 7: q=1 next to q=5).
+            has_one = has_one or (i + 4 < len(lines) and lines[i + 1] == "" and lines[i + 2].startswith("From: ")
+                                  and lines[i + 3] == "" and CLIP_LINK_LINE_RE.match(lines[i + 4]))
             if not has_one:
                 out.extend(["", clip_link_line(t.group(1), int(t.group(2)), rank)])
             rank = None
     return "\n".join(out)
 
 
+def drop_extra_best_clip_links(md: str) -> str:
+    """Older digests: remove the wrong clip pair that add_clip_links put
+    between a Best-of-the-best entry's timestamp link and its "From:" line
+    (that entry's own pair, after "From:", is the right one)."""
+    lines = md.split("\n")
+    out, i = [], 0
+    while i < len(lines):
+        if (CLIP_LINK_LINE_RE.match(lines[i]) and out and out[-1] == "" and len(out) >= 2
+                and _TS_LINK_LINE_RE.match(out[-2]) and i + 4 < len(lines) and lines[i + 1] == ""
+                and lines[i + 2].startswith("From: ") and lines[i + 3] == ""
+                and CLIP_LINK_LINE_RE.match(lines[i + 4])):
+            out.pop()          # the blank line before the wrong pair
+            i += 1             # the wrong pair itself
+            continue
+        out.append(lines[i])
+        i += 1
+    return "\n".join(out)
+
+
+def from_line_title(title: str) -> str:
+    """Video title for a "From:" line: a bare "|" made kramdown render the
+    line as a table, so pipes are escaped (shown as plain "|")."""
+    return (title or "").replace("|", "\\|")
+
+
+# --------------------------------------------------------------------------- #
+# Reporter questions (Jorge, Nov 9 2026): Gemini sometimes credits a
+# reporter's question to the player ("Brayden Burries" quotes 1-2 on Nov 9).
+# A quote that is only a question is relabeled "Unidentified reporter" and
+# left off the pages; a question glued to the start of an answer becomes its
+# own "Unidentified reporter" block, so the player is credited only with his
+# answer. Applied to press conferences only (podcast hosts ask on purpose).
+# A small text-only Gemini call (derive_question_words) decides; the rules
+# below are the fallback when that call fails, and lean towards leaving a
+# quote alone.
+# --------------------------------------------------------------------------- #
+
+REPORTER_CHECK_VERSION = 1
+_Q_WORDS = r"(?:what|how|why|when|where|which|who|did|do|does|can|could|would|will|is|are|was|were|have|has)"
+_ASKS_YOU_RE = re.compile(rf"(?i)\b{_Q_WORDS}\b[^?]*\byou(?:r|rs|rself|'re|'ve|'ll)?\b")
+_STARTS_WITH_Q_RE = re.compile(rf"(?i)^\W*(?:and |so |but |okay,? |ok,? |well,? )?{_Q_WORDS}\b")
+_FIRST_PERSON_RE = re.compile(r"(?i)\b(?:i|i'm|i've|i'll|i'd|me|my|myself|we|we're|we've|us|our|ours)\b")
+_FILLER_Q_RE = re.compile(r"(?i)(?:you know what i mean|you know|right|know what i'm saying|know what i'm talking about"
+                          r"|you feel me|feel me|you see|isn't it|ain't it)\s*\?\s*$")
+_ADDRESS_RE = re.compile(r"(?i)\b(?:you guys|y'all|you all|your team|for you)\b")
+REPORTER_MIN_ANSWER_WORDS = 8
+REPORTER_MAX_PLAIN_WORDS = 45
+
+
+def is_reporter_question(seg: str) -> bool:
+    """True for text that reads as a question put to the speaker: it ends
+    with "?" and either asks "you" something or opens with a question word
+    and never speaks in the first person ("What does do better mean?")."""
+    s = " ".join((seg or "").split())
+    if len(s.split()) < 4 or not s.endswith("?") or _FILLER_Q_RE.search(s):
+        return False
+    # Judge the closing sentence, the question itself: an answer that ends in
+    # "..., you know what I'm saying?" or a rhetorical "why not us?" is not one.
+    last = re.split(r"(?<=[.!?])\s+", s)[-1]
+    if len(last.split()) < 4 or _FIRST_PERSON_RE.search(last):
+        return False
+    if len(s.split()) > REPORTER_MAX_PLAIN_WORDS and not _ADDRESS_RE.search(s):
+        return False   # a long stretch with no "you guys" is more likely the speaker's own answer
+    return bool(_ASKS_YOU_RE.search(last) or _STARTS_WITH_Q_RE.match(last))
+
+
+def split_leading_question(text: str) -> tuple[str, str] | None:
+    """(question, answer) when text opens with a reporter question followed
+    by an answer of REPORTER_MIN_ANSWER_WORDS+ words; ("" , text) never."""
+    s = (text or "").strip()
+    found, prev = None, 0
+    for m in re.finditer(r"\?", s):
+        head, tail = s[:m.end()].strip(), s[m.end():].strip(" \"'")
+        if len(tail.split()) < REPORTER_MIN_ANSWER_WORDS:
+            break
+        if found is None:
+            if is_reporter_question(head):
+                found = (head, tail)
+        elif is_reporter_question(s[prev:m.end()]):
+            found = (head, tail)    # a follow-up question right after the first one
+        else:
+            break
+        prev = m.end()
+    return found
+
+
+def quote_visible(q: dict) -> bool:
+    """Shown on the pages: not a bare reporter question, and not an answer
+    that a single-speaker video of the same session already carries."""
+    return not q.get("reporter_question") and not q.get("duplicate_of")
+
+
+def speaker_own_text(q: dict) -> str:
+    """The speaker's own words: the reporter block of a split quote left out."""
+    blocks = q.get("text_blocks") or []
+    if blocks and any((b.get("speaker") or "") == REPORTER for b in blocks if isinstance(b, dict)):
+        return " ".join((b.get("text") or "").strip() for b in blocks
+                        if isinstance(b, dict) and (b.get("speaker") or "") != REPORTER).strip()
+    return ytq._canonical_quote_text(q)
+
+
+def reporter_share(q: dict) -> float:
+    """Share of the quote's words that belong to a reporter question."""
+    if q.get("reporter_question"):
+        return 1.0
+    total = ytq._word_count(ytq._canonical_quote_text(q))
+    return 1 - ytq._word_count(speaker_own_text(q)) / total if total else 0.0
+
+
+QUESTION_CHECK_PROMPT = """You are given quotes already extracted from an NBA press conference or media availability video (text only). The extractor sometimes glued a reporter's question onto the start of the speaker's answer, or returned a reporter's question on its own as if the speaker said it.
+
+For each quote, return "question_words": how many words at the START of its text are a question (with any lead-in) asked BY A REPORTER or interviewer TO the speaker. 0 when the text starts with the speaker's own words. The whole word count when the entire text is the reporter's question. The speaker's own rhetorical questions ("what are you left with as a player?", "are you going to let him score?") are part of the answer: count them as 0.
+
+Return ONLY JSON: {"quotes": [{"rank": 1, "question_words": 0}]}"""
+
+
+def derive_question_words(client, data: dict) -> dict | None:
+    """One text-only call: {rank: words of a leading reporter question}.
+    None when there is no client or the call fails (the rules then decide)."""
+    quotes = data.get("quotes") or []
+    if client is None or not quotes:
+        return None
+    payload = {"video_title": data.get("video_title") or "",
+               "quotes": [{"rank": q.get("rank"), "speaker": q.get("speaker") or "",
+                           "words": ytq._word_count(ytq._canonical_quote_text(q)),
+                           "text": ytq._canonical_quote_text(q)} for q in quotes]}
+    try:
+        response = with_retry(lambda: client.models.generate_content(
+            model=MODEL,
+            contents=[QUESTION_CHECK_PROMPT, json.dumps(payload, ensure_ascii=False)],
+            config=types.GenerateContentConfig(response_mime_type="application/json", temperature=0.1),
+        ), "question-check")
+        parsed = json.loads(response.text or "")
+    except ytq.SpendingCapExhausted as e:
+        _spending_cap_hit.set()
+        log(f"  [question-check] [SPENDING CAP] {e}; using the rules")
+        return None
+    except Exception as e:
+        log(f"  [question-check] failed ({type(e).__name__}: {str(e)[:150]}); using the rules")
+        return None
+    out = {}
+    for item in (parsed.get("quotes") if isinstance(parsed, dict) else None) or []:
+        if isinstance(item, dict) and item.get("rank") is not None:
+            try:
+                out[item["rank"]] = max(0, int(item.get("question_words") or 0))
+            except (TypeError, ValueError):
+                continue
+    return out
+
+
+def _cut_after_words(text: str, n: int) -> tuple[str, str] | None:
+    """Split text after its first n words, snapped to the nearest sentence
+    end ("?" preferred) within a few words. None when no clean cut exists."""
+    ends = [m.end() for m in re.finditer(r"[?.!](?=\s|$)", text)]
+    best = None
+    for pos in ends:
+        k = len(text[:pos].split())
+        score = abs(k - n) - (2 if text[pos - 1] == "?" else 0)
+        if abs(k - n) <= 6 and (best is None or score < best[0]):
+            best = (score, pos)
+    if best is None:
+        return None
+    head, tail = text[:best[1]].strip(), text[best[1]:].strip(" \"'")
+    return (head, tail) if head and tail else None
+
+
+def _split_quote(q: dict, question: str, answer: str) -> None:
+    speaker = q.get("speaker") or ""
+    q["text_blocks"] = [{"speaker": REPORTER, "text": question}, {"speaker": speaker, "text": answer}]
+    q["speakers"] = [REPORTER, speaker]
+    q["quote"] = ""
+    q["reporter_split"] = True
+    if (q.get("excerpt") or "") and (q.get("excerpt") or "") not in answer:
+        words = answer.split()
+        first = re.split(r"(?<=[.!?])\s+", answer, maxsplit=1)[0].split()
+        q["excerpt"] = " ".join((first if 6 <= len(first) <= 25 else words[:20]))
+
+
+def mark_reporter_questions(data: dict, question_words: dict | None = None) -> bool:
+    """Label reporter questions (see above). question_words (from
+    derive_question_words) decides when given; otherwise the rules
+    (is_reporter_question / split_leading_question). Idempotent
+    (data["reporter_check"]); returns True when anything changed."""
+    if data.get("reporter_check") == REPORTER_CHECK_VERSION:
+        return False
+    for q in data.get("quotes") or []:
+        blocks = q.get("text_blocks") or []
+        text = ytq._canonical_quote_text(q)
+        total = ytq._word_count(text)
+        if question_words is not None:
+            n = question_words.get(q.get("rank"), 0)
+            if n <= 0:
+                continue
+            if total - n < REPORTER_MIN_ANSWER_WORDS // 2 + 1:
+                q.update(reporter_question=True, speaker=REPORTER, speaker_confidence="inferred")
+            elif not blocks and n >= 4:
+                parts = _cut_after_words(text, n)
+                if parts and ytq._word_count(parts[1]) >= REPORTER_MIN_ANSWER_WORDS // 2 + 1:
+                    _split_quote(q, *parts)
+            continue
+        if blocks:
+            for b in blocks:
+                if isinstance(b, dict) and (b.get("speaker") or "") != REPORTER and is_reporter_question(b.get("text") or ""):
+                    b["speaker"] = REPORTER
+            if all(isinstance(b, dict) and b.get("speaker") == REPORTER for b in blocks):
+                q.update(reporter_question=True, speaker=REPORTER, speaker_confidence="inferred")
+            elif isinstance(q.get("speakers"), list):
+                q["speakers"] = [b.get("speaker") or "" for b in blocks if isinstance(b, dict)]
+            continue
+        if is_reporter_question(text):
+            q.update(reporter_question=True, speaker=REPORTER, speaker_confidence="inferred")
+            continue
+        parts = split_leading_question(text)
+        if parts:
+            _split_quote(q, *parts)
+    data["reporter_check"] = REPORTER_CHECK_VERSION
+    data["reporter_check_source"] = "gemini" if question_words is not None else "rules"
+    return True
+
+
 def render_markdown(video_id: str, channel_name: str, data: dict) -> str:
     """yt-quotes' to_markdown, unchanged, on a Pages-safe copy of the data,
     with its bare YouTube URLs turned into links (see link_bare_urls) and a
-    "Clip it" link after each quote block (see add_clip_links)."""
+    "Clip it" link after each quote block (see add_clip_links). Bare
+    reporter questions and answers duplicated from a single-speaker video
+    are left out (quote_visible); the others keep their own numbers."""
+    shown = dict(data, quotes=[q for q in data.get("quotes") or [] if quote_visible(q)])
     return add_clip_links(link_bare_urls(
-        ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=video_id), channel_name, pages_safe(data))))
+        ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=video_id), channel_name, pages_safe(shown))))
 
 
 # --------------------------------------------------------------------------- #
@@ -836,6 +1101,10 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
     if status != "ok" or not data:
         return status, data
 
+    if classify_content_type(data.get("video_title") or video.get("title") or "", is_one_off,
+                             forced=video.get("force_content_type") or "")[0] == "presser":
+        # before scoring, so a bare question is scored as the reporter's
+        mark_reporter_questions(data, derive_question_words(client, data))
     derived = derive_clip_fields(client, data, team)
     apply_clip_fields(data, derived, team, int(video.get("duration") or 0))
     apply_structured_fields(data, derive_structured_fields(client, data, team))
@@ -1003,15 +1272,15 @@ def _is_coach_or_exec(q: dict) -> bool:
 
 
 TOP_SECTION_HEADERS = {"presser": TOP_QUOTES_HEADER,
-                       "podcast": "# Best of the best: podcasts & shows",
-                       "oneoff": "# Best of the best: one-offs"}
+                       "podcast": TOP_QUOTES_HEADER,
+                       "oneoff": TOP_QUOTES_HEADER}   # each type has its own page now (Nov 9 2026)
 TOP_SECTION_MIN = {"presser": 1, "podcast": 2, "oneoff": 2}
+TOP_MAX_REPORTER_SHARE = 0.5      # a quote that is mostly a reporter question never qualifies
 
 
 def top_quotes_blocks(md_paths: list) -> list:
-    """One "Best of the best" block per section, in section order: press
-    conferences (players first, as before), then podcasts & shows, then the
-    ad hoc one-offs. A section with no scored quotes gets no block."""
+    """One "Best of the best" block per content type, in type order (kept for
+    callers that still build one block per type; the pages use one each)."""
     by_type = {ctype: [] for ctype in CONTENT_TYPES}
     for md_path in md_paths:
         by_type[_video_type_for_md(md_path)].append(md_path)
@@ -1019,18 +1288,20 @@ def top_quotes_blocks(md_paths: list) -> list:
     for ctype in CONTENT_TYPES:
         if by_type[ctype]:
             lines.extend(top_quotes_block(by_type[ctype], header=TOP_SECTION_HEADERS[ctype],
-                                          coach_rule=(ctype == "presser"), min_quotes=TOP_SECTION_MIN[ctype]))
+                                          min_quotes=TOP_SECTION_MIN[ctype]))
     return lines
 
 
 def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule: bool = True,
                      min_quotes: int = 1) -> list:
     """Markdown lines for the "Best of the best" block ([] when nothing is
-    scored). Ranking: news_score, then the structured "best" flag, then the
-    digest's own order. Unidentified speakers (usually reporter questions)
-    and unscored quotes never qualify. Each entry keeps the quote's own
-    "Clip it" / "Send to Slack" link (original video, second and quote
-    number), so the clip tool resolves it exactly like the copy below."""
+    scored). Ranking: news_score / social_score, then the structured "best"
+    flag, then the page's own order. Unidentified speakers, reporter
+    questions (or quotes that are mostly one), hidden duplicates and
+    unscored quotes never qualify; at most one quote per speaker
+    (Jorge, Nov 9 2026). Each entry keeps the quote's own "Clip it" /
+    "Send to Slack" link (original video, second and quote number), so the
+    clip tool resolves it exactly like the copy below."""
     pool, total, order = [], 0, 0
     for md_path in md_paths:
         try:
@@ -1041,10 +1312,14 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
             continue
         vid = data.get("video_id") or md_path.stem
         for q in data.get("quotes") or []:
+            if not quote_visible(q):
+                continue
             total += 1
             order += 1
             news = _news_score(q.get("news_score"))
             if news is None or is_unidentified(q.get("speaker") or ""):
+                continue
+            if reporter_share(q) > TOP_MAX_REPORTER_SHARE:
                 continue
             coach = _is_coach_or_exec(q)
             if coach_rule and coach and news < TOP_COACH_MIN_NEWS:
@@ -1057,15 +1332,19 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
         return []
     want = max(min_quotes, math.ceil(total * TOP_QUOTES_SHARE - 1e-9))  # 10% of all quotes, rounded up
     max_coach = max(1, math.floor(want * TOP_COACH_MAX_SHARE)) if coach_rule else want
-    picked, per_video, coaches = [], {}, 0
+    picked, per_video, coaches, speakers = [], {}, 0, set()
     for item in sorted(pool, key=lambda t: t[:4]):
         vid, coach = item[4], item[1]
+        who = " ".join(_name_tokens(item[6].get("speaker") or ""))
+        if who in speakers:
+            continue
         if per_video.get(vid, 0) >= TOP_QUOTES_PER_VIDEO:
             continue
         if coach and coaches >= max_coach:
             continue
         per_video[vid] = per_video.get(vid, 0) + 1
         coaches += coach
+        speakers.add(who)
         picked.append(item)
         if len(picked) >= want:
             break
@@ -1078,8 +1357,8 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
         start = next(i for i, l in enumerate(body) if l.startswith(f"**{n}."))
         lines.extend(link_bare_urls("\n".join(body[start:])).rstrip("\n").split("\n"))
         source = WATCH_URL_TEMPLATE.format(video_id=vid)
-        title = pages_safe(data.get("video_title") or vid)
-        team = pages_safe(data.get("channel_team") or "")
+        title = from_line_title(pages_safe(data.get("video_title") or vid))
+        team = from_line_title(pages_safe(data.get("channel_team") or ""))
         lines.extend(["", f"From: [{title}]({source})" + (f" · *{team}*" if team else "")])
         secs = ytq.timestamp_to_seconds(q.get("timestamp") or "0:00")
         lines.extend(["", clip_link_line(vid, secs, q.get("rank") or n), ""])
@@ -1095,12 +1374,18 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
 # get them wrong (Nov 6: Alijah Martin's answers labeled "Davion Mitchell").
 # The single-player video's title names its speaker, so when the same answer
 # shows up in both, the single-player video's name wins.
+# Nov 9 2026: the answer is also kept only once, in the single-player video;
+# the full session's copy is marked duplicate_of and left off the pages
+# (the Pelicans' "LIVE: ... Postgame Interviews" stream next to its
+# Mosley / Murphy cuts).
 SPLIT_SPEAKER_MIN_WORDS = 8
 SPLIT_SPEAKER_MIN_SIMILARITY = 0.6
+SPLIT_SPEAKER_MIN_CONTAINED = 0.85       # share of the shorter copy found in the longer one
+SPLIT_SPEAKER_MIN_CONTAINED_WORDS = 15
 
 
 def _quote_words(q: dict) -> list:
-    return _name_tokens(ytq._canonical_quote_text(q))
+    return _name_tokens(speaker_own_text(q))
 
 
 def _single_speaker(data: dict) -> str:
@@ -1118,7 +1403,8 @@ def _single_speaker(data: dict) -> str:
 
 def reconcile_split_speakers(dates: list) -> list:
     """Fix speakers in full-session videos from the same team's
-    single-player videos (same day or the day either side). Rewrites the
+    single-player videos (same day or the day either side), and mark the
+    full session's copy of each matched answer as a duplicate. Rewrites the
     changed videos' .json/.md and returns the dates it touched."""
     import difflib
     days = set()
@@ -1140,42 +1426,67 @@ def reconcile_split_speakers(dates: list) -> list:
                 continue
             if isinstance(data, dict) and data.get("quotes"):
                 videos.append((js, data))
-    singles = []  # (team, speaker, video_id, quote words)
+    singles = []  # (team, speaker, video_id, rank, quote words)
+    single_ids = set()
     for js, data in videos:
+        if data.get("source") == YTQ_SOURCE:
+            continue
         who = _single_speaker(data)
         if who:
+            single_ids.add(js.stem)
             for q in data["quotes"]:
+                if not quote_visible(q):
+                    continue
                 words = _quote_words(q)
                 if len(words) >= SPLIT_SPEAKER_MIN_WORDS:
-                    singles.append((data.get("channel_team") or "", who, js.stem, words))
+                    singles.append((data.get("channel_team") or "", who, js.stem, q.get("rank"), words))
     touched = set()
     for js, data in videos:
+        if js.stem in single_ids or data.get("source") == YTQ_SOURCE:
+            continue
         team, title, changed = data.get("channel_team") or "", data.get("video_title") or "", False
         for q in data["quotes"]:
+            if q.get("reporter_question"):
+                continue
             old = q.get("speaker") or ""
-            if old and not is_unidentified(old) and title_names_speaker(title, old):
-                continue   # this video's own title names the speaker: trust it
             words = _quote_words(q)
             if len(words) < SPLIT_SPEAKER_MIN_WORDS:
                 continue
-            best, best_ratio = "", SPLIT_SPEAKER_MIN_SIMILARITY
-            for s_team, who, vid, s_words in singles:
-                if s_team != team or vid == js.stem or who == old:
+            best, best_ratio = None, SPLIT_SPEAKER_MIN_SIMILARITY
+            for s_team, who, vid, s_rank, s_words in singles:
+                if s_team != team or vid == js.stem:
                     continue
-                ratio = difflib.SequenceMatcher(None, words, s_words, autojunk=False).ratio()
+                sm = difflib.SequenceMatcher(None, words, s_words, autojunk=False)
+                ratio = sm.ratio()
+                short = min(len(words), len(s_words))
+                if short >= SPLIT_SPEAKER_MIN_CONTAINED_WORDS:
+                    # one copy is a cut-down part of the other (the stream's
+                    # quote is the tail of the single video's answer)
+                    covered = sum(b.size for b in sm.get_matching_blocks()) / short
+                    if covered >= SPLIT_SPEAKER_MIN_CONTAINED:
+                        ratio = max(ratio, covered)
                 if ratio >= best_ratio:
-                    best, best_ratio = who, ratio
+                    best, best_ratio = (who, vid, s_rank), ratio
             if not best:
                 continue
-            q["speaker"] = best
+            who, vid, s_rank = best
+            dup = {"video_id": vid, "rank": s_rank}
+            if q.get("duplicate_of") != dup:
+                q["duplicate_of"] = dup
+                changed = True
+                log(f"  [dedupe] {js.stem} quote {q.get('rank')}: same answer as {vid} quote {s_rank}; kept there only")
+            title_named = old and not is_unidentified(old) and title_names_speaker(title, old)
+            if who == old or title_named:
+                continue   # same name already, or this video's own title names the speaker: trust it
+            q["speaker"] = who
             if old:
-                q["summary_phrase"] = (q.get("summary_phrase") or "").replace(old, best)
+                q["summary_phrase"] = (q.get("summary_phrase") or "").replace(old, who)
                 if isinstance(q.get("speakers"), list):
-                    q["speakers"] = [best if x == old else x for x in q["speakers"]]
+                    q["speakers"] = [who if x == old else x for x in q["speakers"]]
             q["speaker_confidence"] = "named"
             q["speaker_source"] = "single-speaker video"
             changed = True
-            log(f"  [speakers] {js.stem} quote {q.get('rank')}: {old or '?'} -> {best} (matched single-speaker video)")
+            log(f"  [speakers] {js.stem} quote {q.get('rank')}: {old or '?'} -> {who} (matched single-speaker video)")
         if changed:
             used = {q.get("speaker") for q in data["quotes"]}
             seen = [n for n in (data.get("speakers_seen") or []) if n in used]
@@ -1186,20 +1497,44 @@ def reconcile_split_speakers(dates: list) -> list:
     return sorted(touched)
 
 
-def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
-    """yt-quotes' digest, grouped into Press conferences / Podcasts & shows /
-    One-offs (empty sections skipped). Each video block is the per-video .md
-    exactly as yt-quotes' write_digest_file includes it (h1 demoted to h2,
-    "---" between videos, closing link at the end)."""
+# --------------------------------------------------------------------------- #
+# Pages: three separate digests per run slot (Jorge, Nov 9 2026)
+#   digest-<slot>.md    press conferences (the URL people already use)
+#   podcasts-<slot>.md  podcasts & shows (the yt-quotes rotation)
+#   oneoffs-<slot>.md   ad hoc extra_videos
+# plus the day's aggregates digest.md / podcasts.md / oneoffs.md. Each page
+# leads with its own "Best of the best" and links to the other pages of the
+# same slot that exist; a type with nothing to show gets no page.
+# --------------------------------------------------------------------------- #
+
+PAGE_BASENAMES = {"presser": "digest", "podcast": "podcasts", "oneoff": "oneoffs"}
+PAGE_TITLES = {"presser": "NBA Pressers", "podcast": "NBA Podcasts & Shows", "oneoff": "NBA One-offs"}
+_PAGE_NAME_RE = re.compile(r"^(digest|podcasts|oneoffs)(?:-([A-Za-z0-9_-]+))?\.md$")
+
+
+def page_filename(ctype: str, slot: str | None) -> str:
+    base = PAGE_BASENAMES[ctype]
+    return f"{base}-{slot}.md" if slot else f"{base}.md"
+
+
+def _is_page_name(name: str) -> bool:
+    return bool(_PAGE_NAME_RE.match(name))
+
+
+def write_pages(date_str: str, slot: str | None, video_ids: list | None = None) -> dict:
+    """Write the slot's (or, slot None, the day's) three pages from these
+    videos (None = every video of the day). Returns {content_type: path} for
+    the pages written; a type with no quotes to show gets no page, and an
+    older page of that name is removed so no stale or empty page is left."""
     day_dir = OUTPUT_DIR / date_str
     if not day_dir.is_dir():
-        return None
+        return {}
     if video_ids is None:
-        md_paths = sorted(p for p in day_dir.glob("*.md") if p.is_file() and not p.name.startswith("digest"))
+        md_paths = sorted(p for p in day_dir.glob("*.md") if p.is_file() and not _is_page_name(p.name)
+                          and VIDEO_ID_RE.match(p.stem))
     else:
         md_paths = [day_dir / f"{v}.md" for v in video_ids if (day_dir / f"{v}.md").is_file()]
-    sections = {ctype: [] for ctype in CONTENT_TYPES}
-    included = []
+    blocks = {ctype: [] for ctype in CONTENT_TYPES}   # ctype -> [(content, md_path)]
     for md_path in md_paths:
         try:
             content = md_path.read_text(encoding="utf-8").strip()
@@ -1209,46 +1544,101 @@ def write_digest_file(date_str: str, output_filename: str, video_ids: list | Non
             continue
         if content.startswith("# "):
             content = "#" + content  # demote h1 to h2 (as yt-quotes does)
-        sections[_video_type_for_md(md_path)].append(content)
-        included.append(md_path)
-    if not any(sections.values()):
-        return None
-    parts = [f"# NBA Pressers — {date_str}", ""]
-    parts.extend(top_quotes_blocks(included))  # one block per section; [] when nothing is scored
-    first_section = True
+        blocks[_video_type_for_md(md_path)].append((content, md_path))
+    present = [c for c in CONTENT_TYPES if blocks[c]]
+    written = {}
     for ctype in CONTENT_TYPES:
-        videos = sections[ctype]
-        if not videos:
+        path = day_dir / page_filename(ctype, slot)
+        if ctype not in present:
+            if path.is_file():
+                path.unlink()
+                log(f"  [pages] removed {date_str}/{path.name} (nothing to show)")
             continue
-        if not first_section:
-            parts.extend(["---", ""])
-        first_section = False
-        parts.extend([f"# {CONTENT_TYPE_LABELS[ctype]}", ""])
-        for i, content in enumerate(videos):
+        parts = [f"# {PAGE_TITLES[ctype]} — {date_str}", ""]
+        others = [f"[{CONTENT_TYPE_LABELS[o]}]({page_filename(o, slot)})" for o in present if o != ctype]
+        if others:
+            parts.extend([" · ".join(others), ""])
+        parts.extend(top_quotes_block([p for _, p in blocks[ctype]], header=TOP_QUOTES_HEADER,
+                                      min_quotes=TOP_SECTION_MIN[ctype]))
+        for i, (content, _) in enumerate(blocks[ctype]):
             if i:
                 parts.extend(["---", ""])
             parts.extend([content, ""])
-    parts.extend(["---", "", ytq.DIGEST_CLOSING_LINE, ""])
-    digest_path = day_dir / output_filename
-    atomic_write(digest_path, "\n".join(parts))
-    return digest_path
+        if ctype == "podcast":
+            parts.extend(["---", "", ytq.DIGEST_CLOSING_LINE, ""])
+        atomic_write(path, "\n".join(parts))
+        written[ctype] = path
+    return written
+
+
+def write_digest_file(date_str: str, output_filename: str, video_ids: list | None = None) -> Path | None:
+    """Older entry point: "digest.md" -> the day's pages, "digest-<slot>.md"
+    -> that slot's pages. Returns the press-conference page, else the first
+    page written, else None."""
+    m = _PAGE_NAME_RE.match(output_filename)
+    slot = m.group(2) if m else None
+    written = write_pages(date_str, slot, video_ids)
+    return written.get("presser") or next(iter(written.values()), None)
+
+
+def run_slot_of(run_id: str) -> str:
+    """'2026-11-09-overnight' -> 'overnight', '2026-11-07T1844Z-14utc' -> '14utc'."""
+    m = re.match(r"^\d{4}-\d{2}-\d{2}(?:T\d{4}Z)?-(.+)$", run_id or "")
+    return m.group(1) if m else ""
+
+
+def rebuild_day(date_str: str) -> list:
+    """Every slot's pages and the day's pages for one day folder, from the
+    stored videos (no Gemini call). Returns the page paths written."""
+    day_dir = OUTPUT_DIR / date_str
+    if not day_dir.is_dir():
+        return []
+    by_slot = {}
+    for js in sorted(day_dir.glob("*.json")):
+        if not VIDEO_ID_RE.match(js.stem):
+            continue
+        try:
+            data = json.loads(js.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        slot = run_slot_of(data.get("run_id") or "")
+        if slot:
+            by_slot.setdefault(slot, []).append(js.stem)
+    written = []
+    for slot, ids in sorted(by_slot.items()):
+        written.extend(write_pages(date_str, slot, ids).values())
+    written.extend(write_pages(date_str, None, None).values())
+    return written
 
 
 def regenerate_index() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    rows = []
-    for day_dir in iter_day_dirs():
-        digest = day_dir / "digest.md"
-        try:
-            if digest.is_file() and digest.stat().st_size > 0:
-                rows.append(day_dir.name)
-        except OSError:
-            pass
+    slot_order = {"overnight": 0, "14utc": 1, "20utc": 2}
     lines = ["# NBA Pressers — index", "", "Clip manifest: [latest_clips.json](latest_clips.json)", ""]
-    if not rows:
+    any_rows = False
+    for day_dir in iter_day_dirs():
+        pages = {}
+        try:
+            for p in day_dir.glob("*.md"):
+                m = _PAGE_NAME_RE.match(p.name)
+                if m and p.stat().st_size > 0:
+                    ctype = next(c for c, b in PAGE_BASENAMES.items() if b == m.group(1))
+                    pages.setdefault(m.group(2) or "", {})[ctype] = p.name
+        except OSError:
+            continue
+        day = pages.pop("", {})
+        if not day and not pages:
+            continue
+        any_rows = True
+        d = day_dir.name
+
+        def links(found: dict) -> str:
+            return " · ".join(f"[{CONTENT_TYPE_LABELS[c]}]({d}/{found[c]})" for c in CONTENT_TYPES if c in found)
+        lines.append(f"- {d}: {links(day)}" if day else f"- {d}")
+        for slot in sorted(pages, key=lambda s: (slot_order.get(s, 9), s)):
+            lines.append(f"  - {slot}: {links(pages[slot])}")
+    if not any_rows:
         lines.append("_No videos processed yet._")
-    else:
-        lines.extend(f"- [{d}]({d}/digest.md)" for d in rows)
     (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -1320,8 +1710,9 @@ def migrate_legacy_outputs() -> None:
 
 def relink_stored_markdown() -> None:
     """Apply link_bare_urls and add_clip_links to every stored per-video .md
-    and digest (written before those links existed). Text-only and
-    idempotent; no Gemini calls."""
+    and digest (written before those links existed), and drop the extra
+    clip pair older Best-of-the-best entries got (drop_extra_best_clip_links).
+    Text-only and idempotent; no Gemini calls."""
     changed = 0
     for day_dir in iter_day_dirs():
         for md in day_dir.glob("*.md"):
@@ -1329,7 +1720,7 @@ def relink_stored_markdown() -> None:
                 text = md.read_text(encoding="utf-8")
             except OSError:
                 continue
-            linked = add_clip_links(link_bare_urls(text))
+            linked = add_clip_links(link_bare_urls(drop_extra_best_clip_links(text)))
             if linked != text:
                 atomic_write(md, linked)
                 changed += 1
@@ -1360,6 +1751,8 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
                 continue
             vid = js.stem
             for q in data.get("quotes") or []:
+                if not quote_visible(q):
+                    continue   # bare reporter question, or kept in the single-speaker video
                 speaker = q.get("speaker") or ""
                 if q.get("speaker_confidence") != "named" or is_unidentified(speaker):
                     skipped_unnamed += 1
@@ -1378,7 +1771,7 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
                     "duration_seconds": end - start,
                     "speaker": speaker,
                     "team": q.get("team") or data.get("channel_team") or "",
-                    "text": ytq._canonical_quote_text(q),
+                    "text": speaker_own_text(q),
                     "news_angle": q.get("summary_phrase") or "",
                     "social_post": q.get("social_post") or "",
                     "rank": q.get("rank"),
@@ -1416,6 +1809,226 @@ def write_clip_manifest(manifest: dict) -> None:
     atomic_write(LATEST_CLIPS_PATH, content)
     atomic_write(CLIPS_ARCHIVE_DIR / f"{manifest['generated_at'][:10]}.json", content)
     log(f"[clips] wrote {manifest['count']} clip(s) to latest_clips.json")
+
+
+# --------------------------------------------------------------------------- #
+# Podcasts & shows: hoopshype-yt-quotes' podcast rotation (Jorge, Nov 9 2026)
+# --------------------------------------------------------------------------- #
+# This pipeline only ever polled the 30 team channels (+ HoopsHype); the
+# podcast channels live in hoopshype-yt-quotes' channels.json and are
+# transcribed there. Rather than send those videos to Gemini a second time,
+# the workflow checks out yt-quotes' output for the last few days
+# (YTQ_PODCAST_DIR) and each new video is copied in as a podcast: same
+# yt-quotes JSON, plus one text-only clip-fields call for the scores the
+# Best of the best needs, and the publish time from the YouTube Data API.
+
+_YTQ_MD_HEADER_RE = re.compile(r"^# .* — \*(.+)\*\s*$")
+
+
+def _ytq_channel_name(md_path: Path) -> str:
+    try:
+        first = md_path.read_text(encoding="utf-8").split("\n", 1)[0]
+    except OSError:
+        return ""
+    m = _YTQ_MD_HEADER_RE.match(first)
+    return m.group(1).strip() if m else ""
+
+
+def slot_for_time(published: str) -> tuple[str, str]:
+    """(run_id, slot) of the scheduled run that would first see a video
+    published at this time: before 10:23 UTC -> that day's overnight, before
+    14:15 -> 14utc, before 20:15 -> 20utc, later -> next day's overnight."""
+    t = parse_iso(published) or datetime.now(timezone.utc)
+    hm = t.hour * 60 + t.minute
+    if hm < 10 * 60 + 23:
+        return f"{t:%Y-%m-%d}-overnight", "overnight"
+    if hm < 14 * 60 + 15:
+        return f"{t:%Y-%m-%d}T1415Z-14utc", "14utc"
+    if hm < 20 * 60 + 15:
+        return f"{t:%Y-%m-%d}T2015Z-20utc", "20utc"
+    nxt = t + timedelta(days=1)
+    return f"{nxt:%Y-%m-%d}-overnight", "overnight"
+
+
+def stored_runs(days: int = 4) -> list:
+    """[(processed_at, run_id)] of the real runs that stored team-channel
+    videos in the last few day folders, oldest first (one entry per run_id
+    and hour: the overnight run_id is shared by several runs)."""
+    first = {}
+    for day_dir in sorted(iter_day_dirs(), key=lambda p: p.name)[-days:]:
+        for js in day_dir.glob("*.json"):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            rid, at = data.get("run_id") or "", parse_iso(data.get("processed_at") or "")
+            if not isinstance(data, dict) or data.get("source") == YTQ_SOURCE or not rid or not at:
+                continue
+            first.setdefault((at.strftime("%Y-%m-%dT%H"), rid), at)
+            first[(at.strftime("%Y-%m-%dT%H"), rid)] = min(first[(at.strftime("%Y-%m-%dT%H"), rid)], at)
+    return sorted((at, rid) for (_, rid), at in first.items())
+
+
+def rebuild_run_id(published: str, runs: list) -> str:
+    """The run that would have imported a video published then: the first
+    stored run after it (GitHub fires the crons hours late, so the slot is
+    the real run's, not the clock's); slot_for_time when none ran since."""
+    pub = parse_iso(published)
+    for at, rid in runs:
+        if pub and at >= pub:
+            return rid
+    return slot_for_time(published)[0]
+
+
+def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, run_id: str = "",
+                        max_items: int = YTQ_IMPORT_MAX_PER_RUN) -> list:
+    """Copy yt-quotes' rotation videos (src_dir/<date>/<id>.json + .md) that
+    aren't stored here yet. run_id "" = assign each video the run that would
+    first have seen it (rebuilds, see rebuild_run_id); otherwise this run's id. Returns
+    processed_items entries."""
+    src_dir = Path(src_dir)
+    if not src_dir.is_dir():
+        log(f"[podcasts] yt-quotes output not found at {src_dir}; no podcasts imported")
+        return []
+    found = []
+    for day in sorted((d for d in src_dir.iterdir() if d.is_dir() and DAY_DIR_RE.match(d.name)), reverse=True):
+        for js in sorted(day.glob("*.json")):
+            if not VIDEO_ID_RE.match(js.stem) or find_existing_artifact(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            if isinstance(data, dict) and data.get("quotes"):
+                found.append((js, data))
+    if not found:
+        log("[podcasts] no new yt-quotes rotation videos")
+        return []
+    meta = {}
+    if yt_key:
+        try:
+            meta = hydrate_video_metadata([js.stem for js, _ in found], yt_key)
+        except Exception as e:   # the import never blocks the run
+            log(f"[podcasts] metadata fetch failed ({type(e).__name__}); using folder dates")
+    items = []
+    runs = stored_runs() if not run_id else []
+    for js, data in found:
+        if len(items) >= max_items or _spending_cap_hit.is_set():
+            break
+        vid = js.stem
+        m = meta.get(vid) or {}
+        published = m.get("published_at") or f"{js.parent.name}T12:00:00Z"
+        pub = parse_iso(published)
+        if pub and pub < cutoff:
+            continue
+        channel = _ytq_channel_name(js.with_suffix(".md")) or m.get("channel_title") or "Podcast"
+        duration = int(m.get("duration") or 0)
+        derived = derive_clip_fields(client, data, channel) if client is not None else {}
+        apply_clip_fields(data, derived, channel, duration)
+        rid = run_id or rebuild_run_id(published, runs)
+        data.update({
+            "content_type": "podcast",
+            "content_type_source": "yt-quotes rotation",
+            "source": YTQ_SOURCE,
+            "format": FORMAT_VERSION,
+            "video_id": vid,
+            "url": WATCH_URL_TEMPLATE.format(video_id=vid),
+            "channel_team": channel,
+            "published": published,
+            "duration_seconds": duration,
+            "processed_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "run_id": rid,
+            "is_one_off": False,
+        })
+        video = {"video_id": vid, "published": published}
+        day_dir = video_day_dir(video)
+        atomic_write(day_dir / f"{vid}.json", json.dumps(data, ensure_ascii=False, indent=2))
+        atomic_write(day_dir / f"{vid}.md", render_markdown(vid, channel, data))
+        quotes = data.get("quotes") or []
+        top = quotes[0] if quotes else {}
+        log(f"  [podcasts] {vid} ({channel}): {len(quotes)} quote(s) from yt-quotes -> {day_dir.name}")
+        items.append({
+            "video_id": vid,
+            "title": data.get("video_title") or vid,
+            "channel": channel,
+            "top_quote": ytq._canonical_quote_text(top) if top else "",
+            "speaker": "" if is_unidentified(top.get("speaker") or "") else top.get("speaker", ""),
+            "social_post": top.get("social_post", ""),
+            "clip_count": len(quotes),
+            "date": publish_date(video),
+            "is_one_off": False,
+            "content_type": "podcast",
+            "run_id": rid,
+        })
+    log(f"[podcasts] imported {len(items)} video(s) from the yt-quotes podcast rotation")
+    return items
+
+
+def apply_page_rules(day_dirs: list, client=None) -> list:
+    """Reclassify team-channel videos and apply the reporter-question rules
+    to stored press conferences in these folders, re-rendering each changed
+    video's .md. Returns the dates touched. No Gemini call."""
+    touched = set()
+    if reclassify_stored(day_dirs):
+        touched.update(Path(d).name for d in day_dirs)
+    for day_dir in day_dirs:
+        for js in sorted(Path(day_dir).glob("*.json")):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            if not isinstance(data, dict) or video_content_type(data) != "presser":
+                continue
+            if data.get("reporter_check") == REPORTER_CHECK_VERSION:
+                continue
+            if mark_reporter_questions(data, derive_question_words(client, data)):
+                atomic_write(js, json.dumps(data, ensure_ascii=False, indent=2))
+                atomic_write(js.with_suffix(".md"), render_markdown(js.stem, data.get("channel_team") or "", data))
+                touched.add(Path(day_dir).name)
+    return sorted(touched)
+
+
+def rebuild_main(dates: list) -> int:
+    """REBUILD_DATES mode (workflow_dispatch input): import the yt-quotes
+    podcasts still inside the window, apply the classification, reporter
+    and duplicate rules to the stored videos of these days, and rewrite
+    every page of those days, the index and the clip manifest. No video is
+    sent to Gemini; the import's clip-fields call runs only with a key."""
+    dates = sorted({d for d in dates if DAY_DIR_RE.match(d)})
+    log(f"Rebuild: {', '.join(dates) or '(no valid dates)'}")
+    config = load_config()
+    _CONFIG.clear()
+    _CONFIG.update(config)
+    migrate_legacy_outputs()
+    relink_stored_markdown()
+    gemini_key, yt_key = os.getenv("GEMINI_API_KEY"), os.getenv("YOUTUBE_API_KEY") or ""
+    client = genai.Client(api_key=gemini_key) if gemini_key else None
+    if client is not None:
+        _count_gemini_calls(client)
+    src = os.getenv("YTQ_PODCAST_DIR") or ""
+    if src:
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=int(config.get("window_hours", 48)))
+        for it in import_ytq_podcasts(client, yt_key, Path(src), cutoff, run_id=""):
+            if it["date"] not in dates:
+                dates.append(it["date"])
+    dates = sorted(set(dates))
+    apply_page_rules([OUTPUT_DIR / d for d in dates if (OUTPUT_DIR / d).is_dir()], client)
+    try:
+        reconcile_split_speakers(dates)
+    except Exception as e:
+        log(f"  [speakers] reconcile failed ({type(e).__name__}: {e})")
+    for d in dates:
+        for p in rebuild_day(d):
+            log(f"  [pages] wrote {d}/{p.name}")
+    regenerate_index()
+    write_clip_manifest(build_clip_manifest(determine_run_slot(), int(config.get("window_hours", 48))))
+    _outputs_written.set()
+    log("Rebuild done.")
+    return 0
 
 
 # --------------------------------------------------------------------------- #
@@ -1538,6 +2151,9 @@ def discover_candidates(channels: list, config: dict, yt_key: str, cutoff: datet
 
 def main() -> int:
     install_script_timeout()
+    rebuild_dates = [d for d in re.split(r"[\s,]+", os.getenv("REBUILD_DATES") or "") if d]
+    if rebuild_dates:
+        return rebuild_main(rebuild_dates)
     gemini_key = os.getenv("GEMINI_API_KEY")
     yt_key = os.getenv("YOUTUBE_API_KEY")
     missing = [n for n, v in (("GEMINI_API_KEY", gemini_key), ("YOUTUBE_API_KEY", yt_key)) if not v]
@@ -1678,7 +2294,19 @@ def main() -> int:
     # (it's still inside the 48h window and not yet on disk).
     rotation_queue.sort(key=lambda tv: tv[1].get("published") or "", reverse=True)
     queued = extra_queue + rotation_queue
-    if not queued:
+
+    # Step 3b: podcasts & shows from the yt-quotes rotation (already
+    # transcribed there; one text-only clip-fields call each here).
+    client = genai.Client(api_key=gemini_key)
+    _count_gemini_calls(client)
+    imported: list = []
+    ytq_dir = os.getenv("YTQ_PODCAST_DIR") or ""
+    if ytq_dir:
+        try:
+            imported = import_ytq_podcasts(client, yt_key, Path(ytq_dir), cutoff, run_id=RUN_ID)
+        except Exception as e:   # never let the podcast import block the pressers
+            log(f"[podcasts] import failed ({type(e).__name__}: {e})")
+    if not queued and not imported:
         log("Nothing new to process.")
         return finish_without_videos()
     if len(queued) > max_total:
@@ -1686,13 +2314,11 @@ def main() -> int:
         queued = queued[:max_total]
 
     # Step 4: Gemini, VIDEO_WORKERS in parallel on one shared client.
-    client = genai.Client(api_key=gemini_key)
     log(f"Processing {len(queued)} video(s) with {MODEL} (up to {VIDEO_WORKERS} in parallel)...")
     summary = {k: 0 for k in ("ok", "too-long", "failed-hallucination", "failed-timeout",
                               "failed-other", "aborted-spending-cap", "deferred-transient")}
-    processed_items: list = []
+    processed_items: list = list(imported)
     results: list = []
-    _count_gemini_calls(client)
     state_lock = threading.Lock()
     # Not a `with` block: its exit would wait for any hung call.
     ex = ThreadPoolExecutor(max_workers=VIDEO_WORKERS)
@@ -1719,19 +2345,22 @@ def main() -> int:
         fixed_dates = []
     for d in fixed_dates:
         if d not in run_dates:
-            write_digest_file(d, "digest.md", video_ids=None)
-    per_run_filename = f"digest-{run_slot}.md"
-    digest_dates = []
+            write_pages(d, None, None)
+    digest_dates, pages = [], []
     for pd in sorted({it["date"] for it in processed_items if it.get("date")}):
         run_ids = [it["video_id"] for it in processed_items if it.get("date") == pd]
         if run_slot == OVERNIGHT_SLOT:
             # digest-overnight.md accumulates: every video stored tonight
             # (same shared run_id), not just this hourly batch.
             run_ids = videos_with_run_id(OUTPUT_DIR / pd, RUN_ID) or run_ids
-        run_path = write_digest_file(pd, per_run_filename, video_ids=run_ids)
-        write_digest_file(pd, "digest.md", video_ids=None)
-        if run_path is not None:
+        written = write_pages(pd, run_slot, video_ids=run_ids)
+        write_pages(pd, None, None)
+        if written:
             digest_dates.append(pd)
+        for ctype in CONTENT_TYPES:
+            if ctype in written:
+                pages.append({"date": pd, "file": written[ctype].with_suffix(".html").name,
+                              "label": CONTENT_TYPE_LABELS[ctype]})
     regenerate_index()
     manifest = build_clip_manifest(run_slot, window_hours)
     write_clip_manifest(manifest)
@@ -1745,6 +2374,7 @@ def main() -> int:
             "run_slot": run_slot,
             "items": processed_items,
             "digest_dates": digest_dates,
+            "pages": pages,
             "clip_count": manifest["count"],
             "one_off_count": sum(1 for it in processed_items if it.get("is_one_off")),
             "aborted_count": aborted_count,

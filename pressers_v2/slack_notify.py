@@ -111,8 +111,14 @@ def post_digest(payload: dict) -> bool:
     if one_off_count:
         summary += f" ({n - one_off_count} from team channels, {one_off_count} one-off)"
     lines.append(summary + f". {clip_count} clip(s) in the 48h manifest.")
-    for d in payload.get("digest_dates") or []:
-        lines.append(digest_link(d, run_slot))
+    pages = [pg for pg in (payload.get("pages") or []) if pg.get("date") and pg.get("file")]
+    if pages:
+        # One link per page this run wrote: pressers, podcasts & shows, one-offs.
+        for pg in pages:
+            lines.append(f"{slack_escape(pg.get('label') or '')}: {pages_base()}/{pg['date']}/{pg['file']}")
+    else:
+        for d in payload.get("digest_dates") or []:
+            lines.append(digest_link(d, run_slot))
     lines.append(f"Clip manifest: {manifest_raw_url()}")
 
     # Same grouping and order as the digest; empty groups are skipped.
