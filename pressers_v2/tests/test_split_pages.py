@@ -163,9 +163,12 @@ class BestOfTheBestTests(unittest.TestCase):
             relinked = pe.add_clip_links(pe.link_bare_urls(pe.drop_extra_best_clip_links(page)))
         best = page[page.index("# Best of the best"):page.index("\n---\n")]
         self.assertIn("From: [Media Availability: Brian Keefe and Trae Young \\| 11.6.26]", best)
-        self.assertEqual(best.count("[Clip it]"), 1)
-        self.assertIn("&q=5)", best)                                  # the quote's own number, not the block's 1
-        self.assertNotIn("&q=1)", best)
+        entries = re.findall(r"(?m)^\*\*\d+\. ", best)
+        self.assertEqual(len(entries), 3)                             # one speaker: repeated to reach 3
+        self.assertEqual(best.count("[Clip it]"), len(entries))       # one pair per entry
+        first = best[:best.index("**2. ")]
+        self.assertIn("&q=5)", first)                                 # the quote's own number, not the block's 1
+        self.assertNotIn("&q=1)", first)
         self.assertEqual(relinked, page)                              # a later relink adds no second pair
 
     def test_old_digest_loses_the_wrong_pair(self):

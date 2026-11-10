@@ -171,8 +171,42 @@ def publish_date(video: dict) -> str:
     return ytq._publish_date(video)
 
 
+# Jorge, Nov 10 2026: a daytime run (14utc / 20utc) belongs to the day it
+# was scheduled for, however late GitHub starts it. The Nov 9 20:15 run
+# started at 02:43 UTC on Nov 10, and its videos (published after midnight
+# UTC) made Nov 10 "20utc" pages before that slot had run. SLOT_DATE is the
+# scheduled day of this run; a video published after it is filed there.
+SLOT_DATE = ""
+_HOURLY_SLOT_RE = re.compile(r"^(\d{2})utc$")
+
+
+def scheduled_date(run_id: str) -> str:
+    """The day a run was scheduled for. '2026-11-10T0243Z-20utc' (the 20:15
+    cron starting 02:43 the next day) -> '2026-11-09'; '2026-11-08T1849Z-14utc'
+    -> '2026-11-08'. Overnight and manual runs: the day they started. ''
+    when the run id can't be read."""
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})(?:T(\d{2})(\d{2})Z)?-(.+)$", run_id or "")
+    if not m:
+        return ""
+    day, hh, slot = m.group(1), m.group(2), m.group(4)
+    h = _HOURLY_SLOT_RE.match(slot)
+    if h and hh is not None and int(hh) < int(h.group(1)):
+        # started earlier in the day than its slot: the previous day's run, delayed
+        return (datetime.strptime(day, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d")
+    return day
+
+
+def filed_date(date_str: str, run_id: str = "") -> str:
+    """The day folder a video goes in: its publish date, or the run's
+    scheduled date when it was published after that day (a late daytime run)."""
+    sd = scheduled_date(run_id) if run_id else SLOT_DATE
+    if sd and _HOURLY_SLOT_RE.match(run_slot_of(run_id) if run_id else run_slot_of(RUN_ID)) and date_str > sd:
+        return sd
+    return date_str
+
+
 def video_day_dir(video: dict) -> Path:
-    return OUTPUT_DIR / publish_date(video)
+    return OUTPUT_DIR / filed_date(publish_date(video))
 
 
 OVERNIGHT_SLOT = "overnight"   # the hourly overnight triggers all share this slot
@@ -1131,6 +1165,9 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
     # yt-quotes routes its one-offs to output/oneoffs/; pressers keeps every
     # video in output/<date>/ and marks one-offs with content_type instead.
     ytq_video = {k: v for k, v in video.items() if k not in ("is_one_off", "force_content_type")}
+    if filed_date(publish_date(video)) != publish_date(video):
+        # yt-quotes' own writer files by publish date; send it to the scheduled day
+        ytq_video["published"] = f"{filed_date(publish_date(video))}T23:59:59Z"
     _tl.duration = int(video.get("duration") or 0)
     status, data = ytq.process_video(client, ytq_video, team, [], [])
     if status != "ok" or not data:
@@ -1234,7 +1271,7 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
                 "speaker": "" if is_unidentified(top.get("speaker") or "") else top.get("speaker", ""),
                 "social_post": top.get("social_post", ""),
                 "clip_count": len(quotes),
-                "date": publish_date(video),
+                "date": video_day_dir(video).name,
                 "is_one_off": bool(video.get("is_one_off")),
                 "content_type": data.get("content_type") or "presser",
             })
@@ -1310,7 +1347,8 @@ TOP_SECTION_HEADERS = {"presser": TOP_QUOTES_HEADER,
                        "podcast": TOP_QUOTES_HEADER,
                        "oneoff": TOP_QUOTES_HEADER}   # each type has its own page now (Nov 9 2026)
 # Jorge, Nov 10 2026: every page with a quote leads with the block, at least
-# 3 picks (fewer only when the page has fewer than 3 speakers who qualify).
+# 3 picks (or every quote that qualifies when there are fewer than 3); a page
+# with fewer than 3 speakers repeats a speaker to get there.
 TOP_MIN_PICKS = 3
 TOP_SECTION_MIN = {"presser": TOP_MIN_PICKS, "podcast": TOP_MIN_PICKS, "oneoff": TOP_MIN_PICKS}
 TOP_MAX_REPORTER_SHARE = 0.5      # a quote that is mostly a reporter question never qualifies
@@ -1375,18 +1413,20 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
     # coaches capped). Pass 2, only to reach the minimum on a small page:
     # any remaining quote by a speaker not yet picked, best first. One quote
     # per speaker always; unidentified speakers and reporter questions never.
-    for relaxed in (False, True):
+    # Pass 3 (Jorge, Nov 10 2026), only when the page has fewer than 3
+    # speakers who qualify: repeat a speaker to reach 3 (or all its quotes).
+    for relaxed, repeat in ((False, False), (True, False), (True, True)):
         if relaxed and len(picked) >= min(want, min_quotes):
             break
         target = want if not relaxed else min_quotes
         for item in ranked:
             if len(picked) >= target:
                 break
-            if item in picked:
+            if any(item is p for p in picked):
                 continue
             loose, vid, coach = item[0], item[5], item[2]
             who = " ".join(_name_tokens(item[7].get("speaker") or ""))
-            if who in speakers:
+            if who in speakers and not repeat:
                 continue
             if not relaxed and (loose or per_video.get(vid, 0) >= TOP_QUOTES_PER_VIDEO
                                 or (coach and coaches >= max_coach)):
@@ -1634,9 +1674,37 @@ def run_slot_of(run_id: str) -> str:
     return m.group(1) if m else ""
 
 
+def refile_late_runs(dates: list) -> list:
+    """Move stored videos of late daytime runs to the day the run was
+    scheduled for (filed_date). Returns the dates touched (both ends)."""
+    touched = set()
+    for d in dates:
+        day_dir = OUTPUT_DIR / d
+        if not day_dir.is_dir():
+            continue
+        for js in sorted(day_dir.glob("*.json")):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            target = filed_date(d, data.get("run_id") or "")
+            if target == d:
+                continue
+            dest = OUTPUT_DIR / target
+            dest.mkdir(parents=True, exist_ok=True)
+            for f in sorted(day_dir.glob(f"{js.stem}.*")):
+                f.replace(dest / f.name)
+            log(f"  [late run] {js.stem}: {d} -> {target} (run {data.get('run_id')} was scheduled for {target})")
+            touched.update((d, target))
+    return sorted(touched)
+
+
 def rebuild_day(date_str: str) -> list:
     """Every slot's pages and the day's pages for one day folder, from the
-    stored videos (no Gemini call). Returns the page paths written."""
+    stored videos (no Gemini call). Slot pages whose slot has no video left
+    in the folder are removed. Returns the page paths written."""
     day_dir = OUTPUT_DIR / date_str
     if not day_dir.is_dir():
         return []
@@ -1651,6 +1719,11 @@ def rebuild_day(date_str: str) -> list:
         slot = run_slot_of(data.get("run_id") or "")
         if slot:
             by_slot.setdefault(slot, []).append(js.stem)
+    for page in sorted(day_dir.glob("*.md")):
+        m = _PAGE_NAME_RE.match(page.name)
+        if m and m.group(2) and m.group(2) not in by_slot:
+            page.unlink()
+            log(f"  [pages] removed {date_str}/{page.name} (no video of that slot left here)")
     written = []
     for slot, ids in sorted(by_slot.items()):
         written.extend(write_pages(date_str, slot, ids).values())
@@ -2046,7 +2119,7 @@ def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, ru
             video = {"video_id": vid, "published": f"{js.parent.name}T12:00:00Z"}
         else:
             video = {"video_id": vid, "published": published}
-        day_dir = video_day_dir(video)
+        day_dir = OUTPUT_DIR / filed_date(publish_date(video), rid)
         atomic_write(day_dir / f"{vid}.json", json.dumps(data, ensure_ascii=False, indent=2))
         atomic_write(day_dir / f"{vid}.md", render_markdown(vid, channel, data))
         imported += 1
@@ -2122,7 +2195,7 @@ def rebuild_main(dates: list) -> int:
         for it in import_ytq_podcasts(client, yt_key, Path(src), cutoff, run_id=""):
             if it["date"] not in dates:
                 dates.append(it["date"])
-    dates = sorted(set(dates))
+    dates = sorted(set(dates) | set(refile_late_runs(sorted(set(dates)))))
     apply_page_rules([OUTPUT_DIR / d for d in dates if (OUTPUT_DIR / d).is_dir()], client)
     try:
         reconcile_split_speakers(dates)
@@ -2268,7 +2341,7 @@ def main() -> int:
         log(f"ERROR: missing env vars: {', '.join(missing)}")
         return 1
 
-    global RUN_ID
+    global RUN_ID, SLOT_DATE
     started = datetime.now(timezone.utc)
     today = started.strftime("%Y-%m-%d")
     run_slot = determine_run_slot()
@@ -2279,6 +2352,11 @@ def main() -> int:
         RUN_ID = f"{started:%Y-%m-%d}-{run_slot}"
     else:
         RUN_ID = f"{started:%Y-%m-%dT%H%MZ}-{run_slot}"
+    SLOT_DATE = scheduled_date(RUN_ID)
+    if SLOT_DATE and SLOT_DATE != today:
+        log(f"Late run: scheduled for {SLOT_DATE}, started {started:%Y-%m-%d %H:%M} UTC; "
+            f"videos published after {SLOT_DATE} are filed under {SLOT_DATE}")
+        today = SLOT_DATE   # the Slack post's date, too
     log(f"Run slot: {run_slot} (run_id {RUN_ID})")
 
     config = load_config()
