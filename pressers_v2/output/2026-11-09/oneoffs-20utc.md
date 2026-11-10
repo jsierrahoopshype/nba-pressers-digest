@@ -1,4 +1,4 @@
-# NBA One-offs — 2026-11-10
+# NBA One-offs — 2026-11-09
 
 [Press conferences](digest-20utc.md) · [Podcasts & shows](podcasts-20utc.md)
 
@@ -25,6 +25,16 @@ From: [Bobby Marks Breaks Down Kings’ Surprising Nique Clifford Trade](https:/
 From: [Bobby Marks Breaks Down Kings’ Surprising Nique Clifford Trade](https://www.youtube.com/watch?v=T7yt6ZuTz28) · *Sactown Sports 1140*
 
 <small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=116&q=2) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=116&q=2&slack=1)</small>
+
+**3. Bobby Marks — "when you're trading a $49 million contract, there is some challenges, certainly, as you guys know with these rules" — Challenges of trading Zach LaVine's contract** [04:23](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=263s)
+
+Bobby Marks: "I just think Zach's number is so big. You know, I think certainly when you're trading a $49 million contract, there is some challenges, certainly, as you guys know with these rules, the inability to take back more money. I think he would be more of a guy that, you know, Kings fans don't want to hear this, that he would be more of a buyout guy when you get to February here. But I think, of course, you want to, you know, you're not going to trade him to the Knicks and you're not going to trade him to the Warriors."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=263s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=263s)
+
+From: [Bobby Marks Breaks Down Kings’ Surprising Nique Clifford Trade](https://www.youtube.com/watch?v=T7yt6ZuTz28) · *Sactown Sports 1140*
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=263&q=4) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=263&q=4&slack=1)</small>
 
 ---
 

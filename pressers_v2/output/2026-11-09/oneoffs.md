@@ -4,7 +4,17 @@
 
 # Best of the best
 
-**1. Sam Quinn — "For the Nuggets to be worse on offense with Nikola Jokic on the floor is one of the most absurd statistical things I have maybe ever seen" — Nikola Jokic's unprecedented offensive on-off splits for the Denver Nuggets** [44:48](https://www.youtube.com/watch?v=xykAYwZOzLM&t=2688s)
+**1. Bobby Marks — "Milwaukee is really in there because of the Gary Trent situation where they're being investigated for salary cap circumvention" — Salary cap circumvention investigations for Bucks and Clippers** [11:05](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=665s)
+
+Bobby Marks: "There's a couple teams in there. OKC, New York and we actually put Milwaukee in there. And Milwaukee is really in there because of the **Gary Trent** situation where they're being investigated for salary cap circumvention. And if there's a ruling on that, that they've violated the cap, they're going to get penalties similar to the Clippers, but they're going to be significant. And that's certainly not what you want when you're a rebuilding team post-Shai. I think with OKC, based on where their payroll is going to be next year with Shai's supermax hitting, fortunately for them they've got 13, 14 guys under contract and they have three first-round picks upcoming. They have the ability to swap first with the Clippers here. They're still in somewhat of a good situation, but their payroll is going to get significantly higher. And of course, New York, you're going to have to figure out the town situation, who's eligible for an extension, the same with **Josh Hart**."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=665s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=665s)
+
+From: [Bobby Marks Breaks Down Kings’ Surprising Nique Clifford Trade](https://www.youtube.com/watch?v=T7yt6ZuTz28) · *Sactown Sports 1140*
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=665&q=7) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=665&q=7&slack=1)</small>
+
+**2. Sam Quinn — "For the Nuggets to be worse on offense with Nikola Jokic on the floor is one of the most absurd statistical things I have maybe ever seen" — Nikola Jokic's unprecedented offensive on-off splits for the Denver Nuggets** [44:48](https://www.youtube.com/watch?v=xykAYwZOzLM&t=2688s)
 
 Sam Quinn: "The big one, their offense with **Nikola Jokic** on the floor is worse than their offense with **Nikola Jokic** off of the floor. That is like, if you would have told me to predict the five least likely things to happen this NBA season, that would have been on that list. These are the on-off splits rounded over the last six seasons for **Nikola Jokic**: plus 13, plus 21, plus 18, plus 21, plus 12, plus 17. That's just offense, that's not factoring in defense. For the Nuggets to be worse on offense with **Nikola Jokic** on the floor is one of the most absurd statistical things I have maybe ever seen in my entire time covering the NBA. It's only been a couple weeks, maybe that changes, but there are a lot of concerns here."
 
@@ -14,7 +24,7 @@ From: [Nique Clifford Trade, Luka Raising the Lakers, Celtics Check, & Nuggets C
 
 <small>[Clip it](presserclips://clip?v=xykAYwZOzLM&t=2688&q=6) · [Send to Slack](presserclips://clip?v=xykAYwZOzLM&t=2688&q=6&slack=1)</small>
 
-**2. DeMar DeRozan — "my 17 years in the NBA, I only missed one nap" — DeMar DeRozan on his strict pre-game nap routine** [28:33](https://www.youtube.com/watch?v=zZ9Zpez0STw&t=1713s)
+**3. DeMar DeRozan — "my 17 years in the NBA, I only missed one nap" — DeMar DeRozan on his strict pre-game nap routine** [28:33](https://www.youtube.com/watch?v=zZ9Zpez0STw&t=1713s)
 
 **DeMar DeRozan:** "Before noon, no matter what, I have to be asleep. I have to be asleep. My 17 years in the NBA, I only missed one nap. My whole entire career, I missed one nap. So, I have to nap. I'm so superstitious when it comes to naps, so I have to nap."
 
@@ -26,7 +36,7 @@ From: [Dinners With DeMar - Ep. 8: Kendall Ellis](https://www.youtube.com/watch?
 
 <small>[Clip it](presserclips://clip?v=zZ9Zpez0STw&t=1713&q=5) · [Send to Slack](presserclips://clip?v=zZ9Zpez0STw&t=1713&q=5&slack=1)</small>
 
-**3. Giannis Antetokounmpo — "The people like sitting right of you, look, Clay Thompson" — Giannis Antetokounmpo on the championship potential of the current roster** [02:25](https://www.youtube.com/watch?v=uoBJTMkzAEQ&t=145s)
+**4. Giannis Antetokounmpo — "The people like sitting right of you, look, Clay Thompson" — Giannis Antetokounmpo on the championship potential of the current roster** [02:25](https://www.youtube.com/watch?v=uoBJTMkzAEQ&t=145s)
 
 Giannis Antetokounmpo: "The people like sitting right of you, look, **Clay Thompson**. You know, it is weird because I grew up watching him play when I was 19, 18, 20 years old, playing in the NBA Finals. It kind of shaped our young adulthood. So, being in the same locker room with him is kind of weird. At the same time, being in the same locker room with Bam that we have had so many battles, that is also weird. Seeing Coach Spo that he was creating all these defenses to guard me and face me in the playoffs and now we are on the same side, that is also weird. There is a lot of weird feelings, but I am going to get used to it."
 
@@ -36,7 +46,7 @@ From: [Yianni Kourakis goes one-on-one with Miami Heat star Giannis Antetokounmp
 
 <small>[Clip it](presserclips://clip?v=uoBJTMkzAEQ&t=145&q=3) · [Send to Slack](presserclips://clip?v=uoBJTMkzAEQ&t=145&q=3&slack=1)</small>
 
-**4. Patrick Beverley — "Doc is historically a really good coach. He's coached the best of the best." — Patrick Beverley defends Doc Rivers' perspective on Giannis Antetokounmpo** [00:05](https://www.youtube.com/watch?v=-CeCavZxex4&t=5s)
+**5. Patrick Beverley — "Doc is historically a really good coach. He's coached the best of the best." — Patrick Beverley defends Doc Rivers' perspective on Giannis Antetokounmpo** [00:05](https://www.youtube.com/watch?v=-CeCavZxex4&t=5s)
 
 Patrick Beverley: "Obviously when you are not a basketball player, not played the sport, not been in a locker room, you see it and it jumps off the page at you. I understand Doc in this situation. Obviously, Doc is historically a really good coach. He's put on an orange jacket in the Hall of Fame. He's coached the best of the best, he's won against the best of the best, he's played at this level. It's just his perspective. Even Coach Spo went on record and said yesterday that it's something that no one knows how to coach really because he demands so much attention when it comes to playing basketball. I understand it. Do I agree with it? Not all of it, but as a coach, you see weaknesses in your players throughout the whole roster."
 
@@ -46,7 +56,19 @@ From: [Doc Rivers Disses Giannis? Pat Bev Weighs In On LeBron, Giannis, Harden &
 
 <small>[Clip it](presserclips://clip?v=-CeCavZxex4&t=5&q=1) · [Send to Slack](presserclips://clip?v=-CeCavZxex4&t=5&q=1&slack=1)</small>
 
-**5. Tacko Fall — "Jaylen Brown is like family, so just talk about life, we joke around each other." — Tacko Fall on his close friendship with Jaylen Brown** [01:06](https://www.youtube.com/watch?v=Pqmxak8tDBs&t=66s)
+**6. Allen Stiles — "that was the 2027 first from the Spurs and that was straight up the Kings' pick" — Kings' trade acquisition of Nique Clifford from the Spurs** [01:56](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=116s)
+
+**Allen Stiles:** "We were double checking how the Kings acquired **Nique Clifford**. That was the 2027 first from the Spurs and that was straight up the Kings' pick, right? And then they added those protections to give it to OKC. And it probably is going to go to OKC. That's a pretty big commitment for one Nique, isn't it, Bobby?"
+
+**Bobby Marks:** "It was actually the Spurs' first. It was the San Antonio first that you got. They traded it, they got in the Fox deal and then they traded it originally. They traded it to Oklahoma City to get the draft rights of Nique in the draft in 2025. So yeah, the optics aren't great when you look at basically Oklahoma City gets the player, they the draft rights of the player they traded, but now in a trade a year later, and also have that Spurs pick because it will likely fall between 17 and 30."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=116s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=116s)
+
+From: [Bobby Marks Breaks Down Kings’ Surprising Nique Clifford Trade](https://www.youtube.com/watch?v=T7yt6ZuTz28) · *Sactown Sports 1140*
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=116&q=2) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=116&q=2&slack=1)</small>
+
+**7. Tacko Fall — "Jaylen Brown is like family, so just talk about life, we joke around each other." — Tacko Fall on his close friendship with Jaylen Brown** [01:06](https://www.youtube.com/watch?v=Pqmxak8tDBs&t=66s)
 
 Tacko Fall: "We were together in Morocco literally right before he got traded, but when we are together we do not really talk about basketball. **Jaylen Brown** is like family, so just talk about life, we joke around each other. I get on him, he gets on me, but that is really it."
 
@@ -56,7 +78,7 @@ From: [Tacko Fall on Reuniting with Jaylen Brown and Return to NBA \| Exclusive 
 
 <small>[Clip it](presserclips://clip?v=Pqmxak8tDBs&t=66&q=2) · [Send to Slack](presserclips://clip?v=Pqmxak8tDBs&t=66&q=2&slack=1)</small>
 
-**6. Mike Conley — "We have conversations. It's not like the respect. It's a mutual respect. They know not to call" — Mike Conley on the mutual respect between players and referees** [04:19](https://www.youtube.com/watch?v=a_n1fYIF6hU&t=259s)
+**8. Mike Conley — "We have conversations. It's not like the respect. It's a mutual respect. They know not to call" — Mike Conley on the mutual respect between players and referees** [04:19](https://www.youtube.com/watch?v=a_n1fYIF6hU&t=259s)
 
 Mike Conley: "We have conversations. It's not like the respect. It's a mutual respect. They know not to call a tech on me. They know that for sure. It was **Mani Mahloushi**, I remember him forever, and he comes up to me anytime he sees me, he's like, 'Man, once again, I'm sorry about that. I didn't mean to, that was just frustrated and took it out on you,' but it got rescinded, so it doesn't count then."
 
@@ -66,7 +88,7 @@ From: [Mike Conley Talks 20 Years in the NBA, Leadership & Life as a Veteran](ht
 
 <small>[Clip it](presserclips://clip?v=a_n1fYIF6hU&t=259&q=2) · [Send to Slack](presserclips://clip?v=a_n1fYIF6hU&t=259&q=2&slack=1)</small>
 
-**7. Jayson Tatum — "It's a learning curve, new system and teammates, taking more ownership" — Jayson Tatum on Jrue Holiday's integration into the Celtics system** [00:15](https://www.youtube.com/watch?v=d54O5dWbnBQ&t=15s)
+**9. Jayson Tatum — "It's a learning curve, new system and teammates, taking more ownership" — Jayson Tatum on Jrue Holiday's integration into the Celtics system** [00:15](https://www.youtube.com/watch?v=d54O5dWbnBQ&t=15s)
 
 Jayson Tatum: "It's a learning curve, new system and teammates, taking more ownership, just understanding that we really want him involved in things we're doing, especially on the offensive end, so just getting comfortable in that role."
 
@@ -76,7 +98,7 @@ From: [Jayson Tatum Responds to Jaylen Brown \| Celtics Postgame Interview](http
 
 <small>[Clip it](presserclips://clip?v=d54O5dWbnBQ&t=15&q=1) · [Send to Slack](presserclips://clip?v=d54O5dWbnBQ&t=15&q=1&slack=1)</small>
 
-**8. Yossi Gozlan — "I am just really concerned with the way Aaron Gordon is moving." — Aaron Gordon's evolving role and performance concerns** [1:01:26](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3686s)
+**10. Yossi Gozlan — "I am just really concerned with the way Aaron Gordon is moving." — Aaron Gordon's evolving role and performance concerns** [1:01:26](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3686s)
 
 Yossi Gozlan: "It feels like **Aaron Gordon** is trying to evolve his game to be something a little more slower, efficient. In a way it feels like they are outsourcing that energy that Gordon used to have to some of these bench pieces. I am just really concerned with the way **Aaron Gordon** is moving. Everyone else I am generally okay with. **Jamal Murray** is still holding up, give or take from the performance from last year. **Cam Johnson**, I don't have too many complaints about him. **Christian Braun** is a little bit better. But I am concerned with the way **Aaron Gordon** is moving."
 
@@ -85,18 +107,6 @@ Yossi Gozlan: "It feels like **Aaron Gordon** is trying to evolve his game to be
 From: [Nique Clifford Trade, Luka Raising the Lakers, Celtics Check, & Nuggets Convo \| Third Apron Podcast](https://www.youtube.com/watch?v=xykAYwZOzLM) · *Yossi Gozlan*
 
 <small>[Clip it](presserclips://clip?v=xykAYwZOzLM&t=3686&q=9) · [Send to Slack](presserclips://clip?v=xykAYwZOzLM&t=3686&q=9&slack=1)</small>
-
-**9. Kendall Ellis — "basketball always gave me self-confidence, especially when I felt like I could be good" — DeMar DeRozan on the self-confidence basketball gave him as a child** [04:10](https://www.youtube.com/watch?v=zZ9Zpez0STw&t=250s)
-
-**DeMar DeRozan:** "You getting in track at a very young age. I know for me, basketball always gave me self-confidence, especially when I felt like I could be good. It gave me imagination to be my favorite players."
-
-**Kendall Ellis:** "I don't even think I realized it. I think I was just a six-year-old, seven-year-old having fun, doing like, I want to play tag at recess, and it's cool that like I win."
-
-[https://www.youtube.com/watch?v=zZ9Zpez0STw&t=250s](https://www.youtube.com/watch?v=zZ9Zpez0STw&t=250s)
-
-From: [Dinners With DeMar - Ep. 8: Kendall Ellis](https://www.youtube.com/watch?v=zZ9Zpez0STw) · *DeMar DeRozan*
-
-<small>[Clip it](presserclips://clip?v=zZ9Zpez0STw&t=250&q=2) · [Send to Slack](presserclips://clip?v=zZ9Zpez0STw&t=250&q=2&slack=1)</small>
 
 ---
 
@@ -297,6 +307,96 @@ Tacko Fall: "We are very much alike in a lot of ways. He is a deep thinker, I am
 [https://www.youtube.com/watch?v=Pqmxak8tDBs&t=282s](https://www.youtube.com/watch?v=Pqmxak8tDBs&t=282s)
 
 <small>[Clip it](presserclips://clip?v=Pqmxak8tDBs&t=282&q=5) · [Send to Slack](presserclips://clip?v=Pqmxak8tDBs&t=282&q=5&slack=1)</small>
+
+---
+
+## Bobby Marks Breaks Down Kings’ Surprising Nique Clifford Trade — *Sactown Sports 1140*
+
+Source: [https://www.youtube.com/watch?v=T7yt6ZuTz28](https://www.youtube.com/watch?v=T7yt6ZuTz28)
+
+_Speakers identified: Kevin Gleason, Allen Stiles, Bobby Marks_
+
+**1. Bobby Marks — "they've got to sign a player within two weeks here. So we'll see what the direction there" — Kings' roster flexibility after waiving Nique Clifford** [00:54](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=54s)
+
+Bobby Marks: "Now they've got two roster spots open. They've got to sign a player within two weeks here. So we'll see what the direction there. Certainly, I think you're probably looking at guard help as far as with that. And it gives you some flexibility, financial flexibility, and as you pick up a couple future seconds in 2028 and 2030 and everything like that. So I think there's probably a short-term play and certainly a long-term play."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=54s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=54s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=54&q=1) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=54&q=1&slack=1)</small>
+
+**2. Allen Stiles — "that was the 2027 first from the Spurs and that was straight up the Kings' pick" — Kings' trade acquisition of Nique Clifford from the Spurs** [01:56](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=116s)
+
+**Allen Stiles:** "We were double checking how the Kings acquired **Nique Clifford**. That was the 2027 first from the Spurs and that was straight up the Kings' pick, right? And then they added those protections to give it to OKC. And it probably is going to go to OKC. That's a pretty big commitment for one Nique, isn't it, Bobby?"
+
+**Bobby Marks:** "It was actually the Spurs' first. It was the San Antonio first that you got. They traded it, they got in the Fox deal and then they traded it originally. They traded it to Oklahoma City to get the draft rights of Nique in the draft in 2025. So yeah, the optics aren't great when you look at basically Oklahoma City gets the player, they the draft rights of the player they traded, but now in a trade a year later, and also have that Spurs pick because it will likely fall between 17 and 30."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=116s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=116s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=116&q=2) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=116&q=2&slack=1)</small>
+
+**3. Bobby Marks — "if Sam Presti wants a guy, then I don't want to I don't want to maybe you shouldn't get rid of him" — Risk of trading players Sam Presti wants** [03:16](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=196s)
+
+Bobby Marks: "I think you're where Oklahoma City is and where Sacramento is. I think they're in two different levels here as far as for where they're building the roster and everything. It blew up in Philadelphia's face last year when they traded **Jared McCain** to the Thunder and I know they picked up a first-round pick that turned into **LeBaron Philon** here. But yeah, I mean I think if you, you know, listen, if **Sam Presti** wants a guy, then I don't want to I don't want to maybe you shouldn't get rid of him. There's nothing like it. So definitely."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=196s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=196s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=196&q=3) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=196&q=3&slack=1)</small>
+
+**4. Bobby Marks — "when you're trading a $49 million contract, there is some challenges, certainly, as you guys know with these rules" — Challenges of trading Zach LaVine's contract** [04:23](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=263s)
+
+Bobby Marks: "I just think Zach's number is so big. You know, I think certainly when you're trading a $49 million contract, there is some challenges, certainly, as you guys know with these rules, the inability to take back more money. I think he would be more of a guy that, you know, Kings fans don't want to hear this, that he would be more of a buyout guy when you get to February here. But I think, of course, you want to, you know, you're not going to trade him to the Knicks and you're not going to trade him to the Warriors."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=263s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=263s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=263&q=4) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=263&q=4&slack=1)</small>
+
+**5. Bobby Marks — "really the only long-term commitment, big money-wise is Keegan, that stretches out a bunch of years" — Kings' salary cap outlook and long-term commitments** [06:00](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=360s)
+
+Bobby Marks: "It's clean. When you look at kind of where the money they've got committed to, Zach's number will come off the books this year. **DeAndre**'s number, he's on an expiring $25 million contract. Really the only long-term commitment, big money-wise is Keegan, that stretches out a bunch of years here. And then you've got a bunch of guys making between $2 million to $8 million here. So yeah, they're in really good shape. I think they have to figure out does it make sense to prioritize they've got potential to have cap space this summer."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=360s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=360s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=360&q=5) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=360&q=5&slack=1)</small>
+
+**6. Bobby Marks — "I think the lottery reform is an unknown. I mean if you've you would wake up this morning" — Uncertainty of NBA lottery reform for teams** [08:37](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=517s)
+
+Bobby Marks: "I think the lottery reform is an unknown. I mean if you've you would wake up this morning and be like, wow, Sacramento's got a really good chance of getting the number one pick. And you're and then you say, no, you don't want to be picking you don't want to go into the lottery with you know, being in the top three just based on relegation as far as the ability to probably more likely to pick in the 8, 9, 10 range here. So yeah, there is an unknown there because there's not an incentive there's not an incentive to lose, which we would have seen in the past."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=517s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=517s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=517&q=6) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=517&q=6&slack=1)</small>
+
+**7. Bobby Marks — "Milwaukee is really in there because of the Gary Trent situation where they're being investigated for salary cap circumvention" — Salary cap circumvention investigations for Bucks and Clippers** [11:05](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=665s)
+
+Bobby Marks: "There's a couple teams in there. OKC, New York and we actually put Milwaukee in there. And Milwaukee is really in there because of the **Gary Trent** situation where they're being investigated for salary cap circumvention. And if there's a ruling on that, that they've violated the cap, they're going to get penalties similar to the Clippers, but they're going to be significant. And that's certainly not what you want when you're a rebuilding team post-Shai. I think with OKC, based on where their payroll is going to be next year with Shai's supermax hitting, fortunately for them they've got 13, 14 guys under contract and they have three first-round picks upcoming. They have the ability to swap first with the Clippers here. They're still in somewhat of a good situation, but their payroll is going to get significantly higher. And of course, New York, you're going to have to figure out the town situation, who's eligible for an extension, the same with **Josh Hart**."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=665s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=665s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=665&q=7) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=665&q=7&slack=1)</small>
+
+**8. Bobby Marks — "I think this is going to be a big learning curve for him, playing 82 games" — Darius Ainge's development and learning curve** [12:30](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=750s)
+
+Bobby Marks: "I love him. I thought, listen, this is going to be a big learning curve for him, playing 82 games and the travel component, the losing component, a lot of that here. But I think for him, it's just kind of getting better each day. It's he's seeing a lot of different he's seeing all these it's like going through the batting order for the first time, all these different teams that he's seeing here. But I think he's a fearless player. I think he will make his teammates better. I know his attempts are a little bit high, probably not where you want them, but I think he's certainly aggressive and I think the one thing you don't want him is to lose the confidence that he has right now."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=750s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=750s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=750&q=8) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=750&q=8&slack=1)</small>
+
+**9. Bobby Marks — "We haven't seen a November trade since James Harden in 2024" — Rarity of November NBA trades** [13:47](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=827s)
+
+Bobby Marks: "We haven't seen a November trade since **James Harden** in 2024 and that was certainly a different circumstance because Harden had asked out. So yeah, it's it's usually I always say like you probably have a good idea identity about your team like 20 games in. And then when we get to December 15th, because that's when most restrictions are lifted for guys who sign free agent contracts, gives teams more flexibility, you see a little bit more movement. But yeah, November trades are a rare commodity."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=827s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=827s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=827&q=9) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=827&q=9&slack=1)</small>
+
+**10. Bobby Marks — "they got a bunch of injuries, they need a guy right now, they're running out of bodies" — Reasons for early-season trades and roster adjustments** [14:52](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=892s)
+
+Bobby Marks: "Every trade is done, you know, like in Oklahoma City, like, hey, there's they got a bunch of injuries, they need a guy right now, they're running out of bodies. They want to preserve some of these players. They're going to be a little more aggressive in November than maybe some other teams are. I think with a guy like **DeAndre**, it's basically, you know, you got an expiring contract. Where are we? Do we need depth on our wings as you got it, we want to resign. I think those probably take a little bit longer. That's probably when you get into like, you know, January, unless there's a pressing need."
+
+[https://www.youtube.com/watch?v=T7yt6ZuTz28&t=892s](https://www.youtube.com/watch?v=T7yt6ZuTz28&t=892s)
+
+<small>[Clip it](presserclips://clip?v=T7yt6ZuTz28&t=892&q=10) · [Send to Slack](presserclips://clip?v=T7yt6ZuTz28&t=892&q=10&slack=1)</small>
 
 ---
 

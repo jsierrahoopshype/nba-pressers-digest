@@ -1,4 +1,4 @@
-# NBA Pressers — 2026-11-10
+# NBA Pressers — 2026-11-09
 
 [Podcasts & shows](podcasts-20utc.md) · [One-offs](oneoffs-20utc.md)
 
@@ -25,6 +25,18 @@ Kenny Atkinson: "I want to stay with start with the positive and that's that las
 From: [Cavs at Hornets \| Kenny Atkinson Post Game \| 11.09.2026](https://www.youtube.com/watch?v=er-0X-yJBEE) · *Cleveland Cavaliers*
 
 <small>[Clip it](presserclips://clip?v=er-0X-yJBEE&t=2&q=1) · [Send to Slack](presserclips://clip?v=er-0X-yJBEE&t=2&q=1&slack=1)</small>
+
+**3. Jamahl Mosley — "we had a couple missed assignments, understanding personnel, game plan situations" — Jamahl Mosley on defensive adjustments and team accountability** [12:43](https://www.youtube.com/watch?v=2ywtsVHfdgc&t=763s)
+
+**Unidentified reporter:** "Last night after the game when you spoke about the defense, you very strongly said unacceptable. Tonight in this situation, where would you like to see that energy and the adjustments shown to you?"
+
+**Jamahl Mosley:** "Just tied together. I think that's the biggest thing. We had a couple missed assignments, understanding personnel, game plan situations, those were some things that we fell into last night. And so this is a team that's going to test that tonight, all of it. And I think our ability to stay connected in those areas, they're going to hit some halacious shots and that's what they do and you're not going to try to deny that. But we cannot react to that. We have to stick to our game plan and know what we're willing to take away, but also what we're willing to give up."
+
+[https://www.youtube.com/watch?v=2ywtsVHfdgc&t=763s](https://www.youtube.com/watch?v=2ywtsVHfdgc&t=763s)
+
+From: [LIVE: Pelicans vs. Warriors Pregame w/ Jamahl Mosley 11/9/2026](https://www.youtube.com/watch?v=2ywtsVHfdgc) · *New Orleans Pelicans*
+
+<small>[Clip it](presserclips://clip?v=2ywtsVHfdgc&t=763&q=2) · [Send to Slack](presserclips://clip?v=2ywtsVHfdgc&t=763&q=2&slack=1)</small>
 
 ---
 
