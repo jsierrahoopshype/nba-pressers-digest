@@ -14,6 +14,26 @@ From: [Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa \
 
 <small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=311&q=5) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=311&q=5&slack=1)</small>
 
+**2. AJ Dybantsa — "King of manipulating the game, gets to his middy, knows his spots, gets his teammates involved." — AJ Dybantsa on studying Shai Gilgeous-Alexander's game and playing against him** [08:40](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=520s)
+
+AJ Dybantsa: "It's kind of everything I study. Just king of manipulating the game, gets to his middy, knows his spots, gets his teammates involved. Great leader, but this is someone I've been studying for the past three, four years. Obviously one of my favorite players. I've mentioned that in plenty of media outlets, but it was cool obviously playing against him, but obviously want a different result, but good thing we play them again."
+
+[https://www.youtube.com/watch?v=jbvH4tNsuy8&t=520s](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=520s)
+
+From: [Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa \| 11.7.26](https://www.youtube.com/watch?v=jbvH4tNsuy8) · *Washington Wizards*
+
+<small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=520&q=7) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=520&q=7&slack=1)</small>
+
+**3. Brian Keefe — "He's really worked on his strength, his physical size. He's gotten stronger." — Brian Keefe evaluates the defensive development of AJ Dybantsa** [01:57](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=117s)
+
+Brian Keefe: "You can see the ball pressure. He's really worked on his strength, his physical size. He's gotten stronger. He's been able to reroute ball handlers, pick people up full court, and then he's a shot maker. He can do two things for us: he can play off the ball and he can initiate offense. That's a great skill for us to have, but the defense has gotten better for sure."
+
+[https://www.youtube.com/watch?v=jbvH4tNsuy8&t=117s](https://www.youtube.com/watch?v=jbvH4tNsuy8&t=117s)
+
+From: [Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa \| 11.7.26](https://www.youtube.com/watch?v=jbvH4tNsuy8) · *Washington Wizards*
+
+<small>[Clip it](presserclips://clip?v=jbvH4tNsuy8&t=117&q=3) · [Send to Slack](presserclips://clip?v=jbvH4tNsuy8&t=117&q=3&slack=1)</small>
+
 ---
 
 ## Media Availability: Head Coach Brian Keefe, Trae Young, and AJ Dybantsa | 11.7.26 — *Washington Wizards*

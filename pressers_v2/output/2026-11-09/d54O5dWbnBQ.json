@@ -1,0 +1,96 @@
+{
+  "video_title": "Jayson Tatum Responds to Jaylen Brown | Celtics Postgame Interview",
+  "speakers_seen": [
+    "Jayson Tatum"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:15",
+      "summary_phrase": "Jayson Tatum on Jrue Holiday's integration into the Celtics system",
+      "names_mentioned": [
+        "Jrue Holiday"
+      ],
+      "excerpt": "It's a learning curve, new system and teammates, taking more ownership",
+      "quote": "It's a learning curve, new system and teammates, taking more ownership, just understanding that we really want him involved in things we're doing, especially on the offensive end, so just getting comfortable in that role.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on Jrue Holiday integrating into the Celtics offense: It is a learning curve and we are focused on getting him involved in everything we are doing on that end of the floor.",
+      "team": "Celtics Press Conferences on CLNS"
+    },
+    {
+      "rank": 2,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:45",
+      "summary_phrase": "Jayson Tatum praises Jrue Holiday's defensive impact and basketball IQ",
+      "names_mentioned": [
+        "Jrue Holiday"
+      ],
+      "excerpt": "Super high IQ guy, obviously super talented, incredible defensive instincts",
+      "quote": "Super high IQ guy, obviously super talented, incredible defensive instincts, and I mean just a great overall player and a great teammate.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jayson Tatum on Jrue Holiday: He is a super high IQ guy with incredible defensive instincts and he has been a great teammate for us.",
+      "team": "Celtics Press Conferences on CLNS"
+    },
+    {
+      "rank": 3,
+      "speaker": "Jayson Tatum",
+      "timestamp": "01:34",
+      "summary_phrase": "Jayson Tatum on upcoming Celtics game against Jaylen Brown and the 76ers",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "It's another game on the schedule and it's the Celtics versus the Sixers",
+      "quote": "It's another game on the schedule and it's the Celtics versus the Sixers. And you know, always saying the words of Brad Stevens, they all count as one, right? So this one counted as one, we go get ready for Tuesday.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on the upcoming matchup against the Sixers: It is just another game on the schedule and as Brad Stevens always says they all count as one.",
+      "team": "Celtics Press Conferences on CLNS"
+    },
+    {
+      "rank": 4,
+      "speaker": "Jayson Tatum",
+      "timestamp": "02:53",
+      "summary_phrase": "Jayson Tatum reflects on Kristaps Porzingis's impact during his time with the Celtics",
+      "names_mentioned": [
+        "Kristaps Porzingis"
+      ],
+      "excerpt": "Two years that he was with us were nothing short of incredible",
+      "quote": "Two years that he was with us were nothing short of incredible. Again, another guy I won a championship with and how important and vital he was to that team, and what he means to this organization and what he helped us accomplish, will never be forgotten. I got nothing but love for him and just hope he's doing well.",
+      "text_blocks": [],
+      "start_seconds": 173,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jayson Tatum on Kristaps Porzingis: The two years he was with us were nothing short of incredible and what he helped us accomplish will never be forgotten.",
+      "team": "Celtics Press Conferences on CLNS"
+    }
+  ],
+  "content_type": "oneoff",
+  "content_type_source": "yt-quotes one-off",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "d54O5dWbnBQ",
+  "url": "https://www.youtube.com/watch?v=d54O5dWbnBQ",
+  "channel_team": "Celtics Press Conferences on CLNS",
+  "published": "2026-11-09T04:31:36Z",
+  "duration_seconds": 222,
+  "processed_at": "2026-11-10T10:26:44Z",
+  "run_id": "2026-11-09-overnight",
+  "is_one_off": true
+}

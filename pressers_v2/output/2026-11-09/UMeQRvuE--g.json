@@ -23,8 +23,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Chantelle Anderson reflects on her 13-year journey of abstinence and faith.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 2,
@@ -43,8 +42,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Chantelle Anderson discusses her perspective on mental illness and spiritual warfare.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 3,
@@ -65,8 +63,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Chantelle Anderson explains the biblical context of the thorn in the flesh.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 4,
@@ -85,8 +82,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Chantelle Anderson shares her experience finding identity in God.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 5,
@@ -107,8 +103,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Chantelle Anderson discusses the intersection of faith and lifestyle choices.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 6,
@@ -127,8 +122,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Chantelle Anderson on the role of sports in building genuine relationships.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 7,
@@ -149,8 +143,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Chantelle Anderson emphasizes following Jesus over worldly opinions.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 8,
@@ -182,8 +175,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie discusses the process of building a relationship with Jesus.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 9,
@@ -200,8 +192,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie on the importance of living a sacrificial life.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 10,
@@ -221,8 +212,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie explains the role of grace for those who fall short.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 11,
@@ -241,8 +231,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie encourages getting to know God through a personal relationship.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 12,
@@ -263,8 +252,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie shares her perspective on why she chose Christianity.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 13,
@@ -281,8 +269,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie discusses the difference between being a Christian and a disciple.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 14,
@@ -301,8 +288,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie defines repentance as a change of mind leading to action.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 15,
@@ -319,8 +305,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie shares her views on same-sex attraction and faith.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 16,
@@ -337,8 +322,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie distinguishes between same-sex attraction and acting on it.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 17,
@@ -368,8 +352,7 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie on the church's role in calling for repentance.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     },
     {
       "rank": 18,
@@ -386,12 +369,11 @@
       "news_score": 1,
       "social_score": 1,
       "social_post": "Stephanie discusses maintaining friendships while holding firm to her faith.",
-      "team": "Curious Mike",
-      "non_nba": true
+      "team": "Curious Mike"
     }
   ],
-  "content_type": "podcast",
-  "content_type_source": "yt-quotes rotation",
+  "content_type": "oneoff",
+  "content_type_source": "yt-quotes one-off",
   "source": "hoopshype-yt-quotes",
   "format": "ytq-1",
   "video_id": "UMeQRvuE--g",
@@ -401,5 +383,5 @@
   "duration_seconds": 5298,
   "processed_at": "2026-11-09T23:25:42Z",
   "run_id": "2026-11-09T2325Z-14utc",
-  "is_one_off": false
+  "is_one_off": true
 }

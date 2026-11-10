@@ -1,0 +1,210 @@
+{
+  "video_title": "How Sports Betting Cost an N.B.A. Player His Career | The New Yorker",
+  "speakers_seen": [
+    "Nick Berardini",
+    "Jontay Porter",
+    "Jason Robins",
+    "Amy Howe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Berardini",
+      "timestamp": "00:22",
+      "summary_phrase": "Jontay Porter's gambling scandal and potential prison sentence",
+      "names_mentioned": [
+        "Jontay Porter"
+      ],
+      "excerpt": "the canary in the coal mine for all this is a former professional basketball player named Jontay Porter",
+      "quote": "The canary in the coal mine for all this is a former professional basketball player named Jontay Porter, who may go to prison. So let's look back and see how we got here.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 5,
+      "social_post": "Jontay Porter may face prison time following the gambling scandal that ended his NBA career. A look back at how the former player reached this point.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Berardini",
+      "timestamp": "08:23",
+      "summary_phrase": "Jontay Porter's undrafted status and injury history",
+      "names_mentioned": [
+        "Jontay Porter"
+      ],
+      "excerpt": "Jontay goes undrafted after having been projected to be a top pick in the NBA draft",
+      "quote": "Jontay goes undrafted after having been projected to be a top pick in the NBA draft because of his injuries. He finally trusted basketball, and then basketball had betrayed him.",
+      "text_blocks": [],
+      "start_seconds": 503,
+      "end_seconds": 515,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jontay Porter went undrafted after injury concerns derailed his path to being a top pick. He felt basketball had betrayed him.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Berardini",
+      "timestamp": "08:52",
+      "summary_phrase": "Jontay Porter's desire for financial independence",
+      "names_mentioned": [
+        "Jontay Porter"
+      ],
+      "excerpt": "He wants to make what he called NBA FU money without relying on basketball",
+      "quote": "He wants to make what he called NBA FU money without relying on basketball. So he gets into day trading, and he starts playing on some illegal online casinos. He just didn't like the way that might look if that got out.",
+      "text_blocks": [],
+      "start_seconds": 532,
+      "end_seconds": 548,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jontay Porter wanted to make what he called NBA FU money without relying on basketball, leading him to day trading and illegal online casinos.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Berardini",
+      "timestamp": "10:06",
+      "speakers": [
+        "Nick Berardini",
+        "Jontay Porter"
+      ],
+      "summary_phrase": "Jontay Porter on his first major gambling loss",
+      "names_mentioned": [
+        "Jontay Porter"
+      ],
+      "excerpt": "That was my first big loss that just wrecked me",
+      "text_blocks": [
+        {
+          "speaker": "Jontay Porter",
+          "text": "That was my first big loss that just wrecked me. And then I deleted the app, suspended my account that night. And then the next morning I was mad, and I came back for a vengeance."
+        },
+        {
+          "speaker": "Nick Berardini",
+          "text": "At that point, he didn't really understand it, but he was already addicted."
+        }
+      ],
+      "start_seconds": 606,
+      "end_seconds": 625,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "After his first big loss, Jontay Porter deleted his betting app, only to return the next morning for a vengeance. He did not realize he was already addicted.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 5,
+      "speaker": "Jontay Porter",
+      "timestamp": "10:49",
+      "summary_phrase": "Jontay Porter on the thrill of gambling",
+      "names_mentioned": [
+        "Jontay Porter"
+      ],
+      "excerpt": "I think you're addicted to the thrill of the in-between when you don't know if it's going to win",
+      "quote": "I think you're addicted to the thrill of the in-between when you don't know if it's going to win or lose. Just that suspension where your whole outcome is in question, eyes bloodshot, staring at a screen, your head's about to explode. And you win, and it's like, great, I can keep going now. And it feels really good for a second, but you want that feeling again.",
+      "text_blocks": [],
+      "start_seconds": 649,
+      "end_seconds": 675,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 9,
+      "social_post": "Jontay Porter describes the addiction to the thrill of gambling: You are staring at a screen with eyes bloodshot, your head about to explode, just waiting for the outcome.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Berardini",
+      "timestamp": "11:35",
+      "summary_phrase": "Jontay Porter's financial desperation and gambling cycle",
+      "names_mentioned": [
+        "Jontay Porter"
+      ],
+      "excerpt": "He panicked and realizes he needs a plan",
+      "quote": "He panicked and realizes he needs a plan. That's what kicks off him starting to play ping-pong for about three days straight where he wins over a million dollars the same week that Jontay's brother Michael announced that he signed a 200 million dollar contract with the Denver Nuggets.",
+      "text_blocks": [],
+      "start_seconds": 695,
+      "end_seconds": 714,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 6,
+      "social_post": "Jontay Porter won over a million dollars playing ping pong the same week his brother Michael signed a 200 million dollar contract with the Nuggets.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Berardini",
+      "timestamp": "15:13",
+      "summary_phrase": "Jontay Porter's manipulation of prop bets",
+      "names_mentioned": [
+        "Jontay Porter",
+        "Ammar Awawdeh"
+      ],
+      "excerpt": "The plan is that they are going to manipulate the prop bets against Jontay's stats",
+      "quote": "The pressure is mounting on Jontay. He's getting all kinds of threats. And that's when he comes up with a plan with this bookie that he's close to, Ammar Awawdeh. The plan is that they are going to manipulate the prop bets against Jontay's stats so that these people who he owes money to can place different bets across different sportsbooks to not trigger the betting monitors.",
+      "text_blocks": [],
+      "start_seconds": 913,
+      "end_seconds": 939,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 7,
+      "social_post": "Facing mounting pressure and threats, Jontay Porter devised a plan to manipulate prop bets to help pay off his debts without triggering betting monitors.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 8,
+      "speaker": "Jontay Porter",
+      "timestamp": "20:35",
+      "summary_phrase": "Jontay Porter on the consequences of his gambling",
+      "names_mentioned": [
+        "Jontay Porter"
+      ],
+      "excerpt": "I'm glad all that stuff happened with the NBA and getting banned",
+      "quote": "It's going to sound weird to say, but I'm glad all that stuff happened with the NBA and getting banned and the public shame and all my dirty laundry out there on the table, because my onion layers were so thick. If I didn't lose my NBA job, I would have lost my wife, and I would have lost my family support. I might have even lost my life.",
+      "text_blocks": [],
+      "start_seconds": 1235,
+      "end_seconds": 1262,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 10,
+      "social_post": "Jontay Porter says he is glad he was banned from the NBA: If I did not lose my job, I would have lost my wife, my family support, and I might have even lost my life.",
+      "team": "The New Yorker"
+    },
+    {
+      "rank": 9,
+      "speaker": "Nick Berardini",
+      "timestamp": "20:19",
+      "summary_phrase": "The broader NBA gambling conspiracy involving other players and coaches",
+      "names_mentioned": [
+        "Jontay Porter",
+        "Chauncey Billups",
+        "Damon Jones",
+        "Terry Rozier"
+      ],
+      "excerpt": "It turns out he was part of a much larger gambling conspiracy inside the NBA",
+      "quote": "It turns out he was part of a much larger gambling conspiracy inside the NBA that had roped in Portland Trail Blazers head coach and NBA Hall of Famer Chauncey Billups, a former player and assistant coach named Damon Jones, and another active NBA player, a starting guard named Terry Rozier.",
+      "text_blocks": [],
+      "start_seconds": 1219,
+      "end_seconds": 1239,
+      "speaker_confidence": "named",
+      "news_score": 10,
+      "social_score": 9,
+      "social_post": "A new report alleges Jontay Porter was part of a larger gambling conspiracy involving Chauncey Billups, Damon Jones, and Terry Rozier.",
+      "team": "The New Yorker"
+    }
+  ],
+  "content_type": "oneoff",
+  "content_type_source": "yt-quotes one-off",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "6Jf7ANORZqg",
+  "url": "https://www.youtube.com/watch?v=6Jf7ANORZqg",
+  "channel_team": "The New Yorker",
+  "published": "2026-11-08T14:04:02Z",
+  "duration_seconds": 1474,
+  "processed_at": "2026-11-10T10:26:58Z",
+  "run_id": "2026-11-08-overnight",
+  "is_one_off": true
+}
