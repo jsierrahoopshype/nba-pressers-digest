@@ -1,0 +1,245 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Wizards  l 11.09.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:05",
+      "summary_phrase": "J.B. Bickerstaff on Jaden Ivey's impact off the bench",
+      "names_mentioned": [
+        "Jaden Ivey"
+      ],
+      "excerpt": "DJ's earned more with the way that he's sparked us coming off the bench.",
+      "quote": "DJ's earned more with the way that he's sparked us coming off the bench. We talked about our starts and how we thought we could improve those starts. Matchups dictated some of that also. Being able to have him go up against Trae Young and then put AT on AJ, I thought that matchup would be good for us as well. Again, trying to find a spark to start, but again the matchups played a part of it also.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says Jaden Ivey has earned more minutes off the bench and the team is adjusting rotation matchups to improve their starts.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden Ivey",
+          "Trae Young"
+        ],
+        "teams": [
+          "DET",
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach J.B. Bickerstaff explains his reasoning for adjusting the starting lineup and defensive matchups against the Hawks.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:36",
+      "summary_phrase": "J.B. Bickerstaff on John Collins' versatility and involvement",
+      "names_mentioned": [
+        "John Collins"
+      ],
+      "excerpt": "He was involved, and I think that's the most important thing for him.",
+      "quote": "He was involved, and I think that's the most important thing for him. That's what we're trying to find, that balance when he's at the four versus the five. How we still get him involved in some of the actions. Throughout his career, when he's been in the pick-and-roll situation, he's really good at playing in that pocket and finishing. He has the capability of knocking down shots. We're learning, and we'll figure it out eventually, but just trying to find out how we use guys best.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff on John Collins: We are still learning and trying to find the right balance for him at the four and the five to keep him involved in the offense.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "John Collins"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses how the team is working to integrate John Collins into the offense while playing him at different positions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:11",
+      "summary_phrase": "J.B. Bickerstaff on the decision to play smaller lineups",
+      "names_mentioned": [
+        "John Collins",
+        "Jarrett Allen"
+      ],
+      "excerpt": "We wanted to try to find ways to get him involved because of what he's done in the past.",
+      "quote": "We wanted to try to find ways to get him involved because of what he's done in the past. The decision to split those guys up, go smaller, maybe be a little bit faster, get in transition a little bit more, we thought would give us a little bit of an advantage just to be able to play with a little more tempo, a little bit more pace.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bickerstaff says the decision to go smaller was about playing with more tempo and pace to gain a transition advantage.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "J.B. Bickerstaff explains the strategic decision to utilize smaller, faster lineups to increase the team's pace and transition opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:53",
+      "summary_phrase": "J.B. Bickerstaff on the team's identity and consistency",
+      "names_mentioned": [],
+      "excerpt": "Having a clear picture of what Pistons basketball is every single night.",
+      "quote": "The consistency of who we are, being able to stick to our identity, having a clear picture of what Pistons basketball is every single night, trying to be the most selfless team and the most competitive team on the floor. We live there. We have our moments over 82 games where things can get a little lopsided, but for the most part, we live in our identity of Pistons basketball and that's what gives us the foundation.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff on the Pistons identity: We want to be the most selfless and competitive team on the floor every single night.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff reflects on the importance of maintaining a consistent team identity throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:42",
+      "summary_phrase": "J.B. Bickerstaff on the team's improved start and defensive activity",
+      "names_mentioned": [],
+      "excerpt": "That group is an active group, a group that can defend, get deflections, get out in transition.",
+      "quote": "That's what we were aiming for, was a better start. That group is an active group, a group that can defend, get deflections, get out in transition, force turnovers, create easy opportunities for us. That's what we were looking for, and we'll continue to take a look at it and try to find the best matchups, best lineups that we can throughout the year.",
+      "text_blocks": [],
+      "start_seconds": 162,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bickerstaff says the goal for the starting lineup change was to be more active defensively, force turnovers, and create easy transition opportunities.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "J.B. Bickerstaff evaluates the effectiveness of the team's defensive activity and starting lineup adjustments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:14",
+      "summary_phrase": "J.B. Bickerstaff on containing Anthony Davis and team defense",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "He's a Hall of Fame type player, you give him credit, but I thought we did a good job.",
+      "quote": "He's Anthony Davis for a reason. He's got the ability to score in so many ways, whether it's jump shots, post-ups, free throws. He has the ability to do that and impact a game in a major way. He's a Hall of Fame type player, you give him credit, but I thought we did a good job of making everybody else have to work for it. If you have one guy that's going off, you can do a better job on everybody else, it's going to be hard for one guy to beat you.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 230,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on defending Anthony Davis: He is a Hall of Fame type player, but we did a good job making everyone else work for it. It is hard for one guy to beat you.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "DET",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the defensive game plan used to contain Anthony Davis and limit the impact of the rest of the opposing team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:59",
+      "summary_phrase": "J.B. Bickerstaff on team basketball and overcoming adversity",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "We're playing team basketball, not relying on just one guy.",
+      "quote": "We're playing team basketball, not relying on just one guy, although we know how important Cade is to us. We move the ball, we share the ball. We got guys that are capable of making plays, so that's how we're going to stay through the ups and downs of a season, is we're going to always do it together. With this group, the team comes first, and 30 assists on 43 made field goals says that's what you're doing, you're playing team basketball.",
+      "text_blocks": [],
+      "start_seconds": 239,
+      "end_seconds": 271,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff credits the team for playing selfless basketball, noting 30 assists on 43 made field goals as proof of their commitment to moving the ball.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff praises the team's commitment to ball movement and collective play despite the reliance on Cade Cunningham.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "t4Cf5zYZp7w",
+  "url": "https://www.youtube.com/watch?v=t4Cf5zYZp7w",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-10T03:22:36Z",
+  "duration_seconds": 285,
+  "processed_at": "2026-11-10T03:35:54Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}
