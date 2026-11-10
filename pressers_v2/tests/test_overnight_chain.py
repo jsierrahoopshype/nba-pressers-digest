@@ -163,3 +163,114 @@ class NbaFilterTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class BestMinimumAndOneoffTests(unittest.TestCase):
+    """Nov 10 2026: every page leads with at least 3 picks (fewer only when
+    fewer than 3 speakers qualify); yt-quotes ad hoc videos are one-offs."""
+
+    def _store(self, day, vid, ctype, quotes):
+        data = {"video_id": vid, "video_title": f"{vid} title", "channel_team": "Show", "content_type": ctype,
+                "run_id": "2026-11-10-overnight", "quotes": quotes,
+                "published": "2026-11-10T04:00:00Z", "processed_at": "2026-11-10T08:00:00Z"}
+        day.mkdir(parents=True, exist_ok=True)
+        (day / f"{vid}.json").write_text(json.dumps(data), encoding="utf-8")
+        (day / f"{vid}.md").write_text(pe.render_markdown(vid, "Show", data), encoding="utf-8")
+
+    @staticmethod
+    def quote(rank, speaker, news=None, **kw):
+        q = {"rank": rank, "speaker": speaker, "timestamp": f"0{rank}:00", "quote": f"{speaker} line {rank} here",
+             "summary_phrase": "", "excerpt": "", "names_mentioned": []}
+        if news is not None:
+            q["news_score"] = news
+        q.update(kw)
+        return q
+
+    def picks(self, page):
+        block = page[page.index("# Best of the best"):page.index("\n---\n")]
+        return len([l for l in block.split("\n") if l.startswith("**") and l[2:3].isdigit()])
+
+    def test_small_page_gets_three_picks_even_unscored(self):
+        with TempOutput() as out:
+            day = out / "2026-11-10"
+            # an unscored one-off: 4 quotes, 3 speakers, a coach without news
+            self._store(day, "AAAAAAAAAA1", "oneoff", [
+                self.quote(1, "Mike Conley"), self.quote(2, "Mike Conley"),
+                self.quote(3, "Host A"), self.quote(4, "Chris Finch", news=3, structured={"speaker_role": "coach"})])
+            page = pe.write_pages("2026-11-10", "overnight")["oneoff"].read_text(encoding="utf-8")
+        self.assertEqual(self.picks(page), 3)
+        self.assertEqual(page[:page.index("\n---\n")].count("Mike Conley:"), 1)   # one per speaker
+
+    def test_one_speaker_page_and_tiny_page(self):
+        with TempOutput() as out:
+            day = out / "2026-11-09"
+            self._store(day, "AAAAAAAAAA2", "podcast", [self.quote(r, "Theo Pinson", news=5) for r in range(1, 8)])
+            one = pe.write_pages("2026-11-09", "20utc")["podcast"].read_text(encoding="utf-8")
+            day2 = out / "2026-11-08"
+            self._store(day2, "AAAAAAAAAA3", "presser", [self.quote(1, "Player A", news=2),
+                                                         self.quote(2, "Player B", news=2)])
+            two = pe.write_pages("2026-11-08", None)["presser"].read_text(encoding="utf-8")
+        self.assertEqual(self.picks(one), 1)        # one speaker on the page: one pick
+        self.assertEqual(self.picks(two), 2)        # fewer than 3 quotes: all of them
+
+    def test_big_page_keeps_ten_percent_and_rules(self):
+        with TempOutput() as out:
+            day = out / "2026-11-10"
+            quotes = [self.quote(r, f"Player {chr(64 + r)}", news=5) for r in range(1, 26)]
+            quotes += [self.quote(26 + r, f"Player {chr(64 + r)}", news=9) for r in range(1, 26)]
+            self._store(day, "AAAAAAAAAA4", "presser", quotes[:25])
+            self._store(day, "AAAAAAAAAA5", "presser", quotes[25:])
+            page = pe.write_pages("2026-11-10", None)["presser"].read_text(encoding="utf-8")
+        self.assertEqual(self.picks(page), 4)        # 10% of 50 = 5, but still at most 2 per video
+
+    def test_ytq_oneoffs_imported_as_oneoffs_with_one_call(self):
+        with TempOutput() as out:
+            rot = out / "ytq" / "2026-11-09"
+            adhoc = out / "ytq" / "oneoffs" / "2026-11-09"
+            for d in (rot, adhoc):
+                d.mkdir(parents=True)
+            wnba = {"video_title": "Former WNBA Star Gets REAL", "speakers_seen": ["Guest"],
+                    "quotes": [{"rank": 1, "speaker": "Guest", "timestamp": "01:00", "summary_phrase": "s",
+                                "names_mentioned": [], "excerpt": "", "quote": "Leaving the league was hard"}]}
+            conley = dict(wnba, video_title="Mike Conley Talks 20 Years in the NBA")
+            for d, vid, v in ((rot, "UMeQRvuE--g", wnba), (adhoc, "UMeQRvuE--g", wnba), (adhoc, "a_n1fYIF6hU", conley)):
+                (d / f"{vid}.json").write_text(json.dumps(v), encoding="utf-8")
+                (d / f"{vid}.md").write_text(f"# {v['video_title']} — *Show*\n", encoding="utf-8")
+            prompts = []
+
+            class Models:
+                def generate_content(self, model, contents, config):
+                    prompts.append(contents[0])
+                    return pytypes.SimpleNamespace(text=json.dumps({"quotes": [
+                        {"rank": 1, "speaker_confidence": "named", "news_score": 6, "social_score": 7,
+                         "social_post": "x", "nba": False}]}), usage_metadata=None)
+            client = pytypes.SimpleNamespace(models=Models())
+            items = pe.import_ytq_podcasts(client, "", out / "ytq", datetime(2026, 11, 9, tzinfo=timezone.utc),
+                                           run_id="2026-11-10-overnight")
+            stored = json.loads((out / "2026-11-09" / "UMeQRvuE--g.json").read_text(encoding="utf-8"))
+            pages = pe.write_pages("2026-11-09", "overnight")
+            oneoff_page = pages["oneoff"].read_text(encoding="utf-8")
+        self.assertEqual(len(prompts), 2)                                  # one call per video, no more
+        self.assertTrue(all(p == pe.CLIP_FIELDS_PROMPT for p in prompts))  # one-offs: no NBA filter
+        self.assertEqual(sorted(it["content_type"] for it in items), ["oneoff", "oneoff"])
+        self.assertEqual((stored["content_type"], stored["is_one_off"]), ("oneoff", True))
+        self.assertNotIn("non_nba", stored["quotes"][0])
+        self.assertEqual(stored["quotes"][0]["news_score"], 6)
+        self.assertEqual(sorted(pages), ["oneoff"])                        # nothing on the podcasts page
+        self.assertEqual(self.picks(oneoff_page), 1)                       # one speaker
+
+    def test_podcast_copy_of_an_adhoc_video_is_refiled(self):
+        with TempOutput() as out:
+            day = out / "2026-11-09"
+            self._store(day, "UMeQRvuE--g", "podcast", [self.quote(1, "Guest", news=5, non_nba=True)])
+            js = day / "UMeQRvuE--g.json"
+            d = json.loads(js.read_text(encoding="utf-8"))
+            d["source"] = pe.YTQ_SOURCE
+            js.write_text(json.dumps(d), encoding="utf-8")
+            changed = pe.refile_ytq_oneoffs({"UMeQRvuE--g"})
+            again = pe.refile_ytq_oneoffs({"UMeQRvuE--g"})
+            d = json.loads(js.read_text(encoding="utf-8"))
+        self.assertEqual([c["video_id"] for c in changed], ["UMeQRvuE--g"])
+        self.assertEqual(again, [])
+        self.assertEqual(d["content_type"], "oneoff")
+        self.assertNotIn("non_nba", d["quotes"][0])

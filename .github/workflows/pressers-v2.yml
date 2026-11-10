@@ -101,14 +101,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r pressers_v2/requirements.txt
 
-      # Podcasts & shows come from hoopshype-yt-quotes' podcast rotation
-      # (public repo, no token): only its last three days of output are
-      # checked out. A failure here only means no podcasts this run.
+      # Podcasts & shows come from hoopshype-yt-quotes' podcast rotation, and
+      # its ad hoc submissions become one-offs (public repo, no token): only
+      # its last three days of output are checked out. A failure here only
+      # means no podcasts or yt-quotes one-offs this run.
       - name: Fetch the podcast rotation's quotes (hoopshype-yt-quotes)
         continue-on-error: true
         run: |
           dirs=""
-          for d in 0 1 2; do dirs="$dirs output/$(date -u -d "-$d day" +%F)"; done
+          # its rotation (output/<date>) and the videos submitted ad hoc to it (output/oneoffs/<date>)
+          for d in 0 1 2; do
+            day=$(date -u -d "-$d day" +%F)
+            dirs="$dirs output/$day output/oneoffs/$day"
+          done
           git clone --depth 1 --filter=blob:none --sparse --quiet \
             https://github.com/jsierrahoopshype/hoopshype-yt-quotes.git "$RUNNER_TEMP/ytq"
           git -C "$RUNNER_TEMP/ytq" sparse-checkout set $dirs
