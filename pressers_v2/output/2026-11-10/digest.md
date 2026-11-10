@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-10
 
+[Podcasts & shows](podcasts.md)
+
 # Best of the best
 
 **1. Charles Lee — "I don't think this is going to be something that takes a while" — Brandon Miller's injury status and recovery progress** [02:12](https://www.youtube.com/watch?v=Zam8Hpx3QP0&t=132s)
@@ -12,7 +14,17 @@ From: [Hornets vs Cavaliers: Coach Charles Lee Postgame Media Availability \| 11
 
 <small>[Clip it](presserclips://clip?v=Zam8Hpx3QP0&t=132&q=3) · [Send to Slack](presserclips://clip?v=Zam8Hpx3QP0&t=132&q=3&slack=1)</small>
 
-**2. Naz Reid — "Stuff happens, it is basketball, any sport. When you are super competitive that type of stuff happens." — Naz Reid on maintaining accountability after on-court incidents** [02:18](https://www.youtube.com/watch?v=4KumCesEkmM&t=138s)
+**2. Rick Carlisle — "It is a football caliber collision and it is clearly a foul." — Rick Carlisle criticizes officiating on the final Pacers-Mavericks play** [00:03](https://www.youtube.com/watch?v=AAMkFsfZWFM&t=3s)
+
+Rick Carlisle: "It is a football caliber collision and it is clearly a foul. We would have been shooting two free throws with three and a half seconds left. I am at a loss for what was being looked at. And then you ask and the response is shocking. This team fought their hearts out in this game. They deserved an opportunity to win the game. We hurt ourselves with some mistakes, but there is no questioning the intensity, the effort, or any of that stuff."
+
+[https://www.youtube.com/watch?v=AAMkFsfZWFM&t=3s](https://www.youtube.com/watch?v=AAMkFsfZWFM&t=3s)
+
+From: [Rick Carlisle on the Pacers final play vs Mavericks](https://www.youtube.com/watch?v=AAMkFsfZWFM) · *HoopsHype*
+
+<small>[Clip it](presserclips://clip?v=AAMkFsfZWFM&t=3&q=1) · [Send to Slack](presserclips://clip?v=AAMkFsfZWFM&t=3&q=1&slack=1)</small>
+
+**3. Naz Reid — "Stuff happens, it is basketball, any sport. When you are super competitive that type of stuff happens." — Naz Reid on maintaining accountability after on-court incidents** [02:18](https://www.youtube.com/watch?v=4KumCesEkmM&t=138s)
 
 Naz Reid: "Stuff happens, it is basketball, any sport. When you are super competitive that type of stuff happens. Me being able to be the person I am, take accountability and be able to direct traffic for the team and understand that look, stuff like that happens, but it is how you respond. We have to be able to take those moments and be accountable so we can move on to the next situation. Me and coach have been fine since then. We are able to communicate like nothing happened. It is what it is at that moment, but I am not really too worried about that."
 
@@ -22,7 +34,7 @@ From: [Hornets vs Cavaliers: Naz Reid Postgame Media Availability \| 11/9/2026](
 
 <small>[Clip it](presserclips://clip?v=4KumCesEkmM&t=138&q=3) · [Send to Slack](presserclips://clip?v=4KumCesEkmM&t=138&q=3&slack=1)</small>
 
-**3. Nikola Jokic — "he's a pure scorer, you know. He's definitely playing on a high high level right now." — Nikola Jokic on Jamal Murray's high-level performance** [08:02](https://www.youtube.com/watch?v=GzMddriBv2A&t=482s)
+**4. Nikola Jokic — "he's a pure scorer, you know. He's definitely playing on a high high level right now." — Nikola Jokic on Jamal Murray's high-level performance** [08:02](https://www.youtube.com/watch?v=GzMddriBv2A&t=482s)
 
 Nikola Jokic: "He's amazing. I think the shots are making shot making. He's a pure scorer, you know. He's definitely playing on a high high level right now and we need to follow him. You know, he's definitely our leader right now and we need to everybody needs to step up and follow him."
 
@@ -32,7 +44,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. HOU 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=482&q=7) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=482&q=7&slack=1)</small>
 
-**4. AJ Dybantsa — "I've been telling the coach I want to take that challenge. I want to guard the best player." — AJ Dybantsa discusses his goal to guard the best player on other teams** [04:23](https://www.youtube.com/watch?v=moLcB7Qj_MY&t=263s)
+**5. AJ Dybantsa — "I've been telling the coach I want to take that challenge. I want to guard the best player." — AJ Dybantsa discusses his goal to guard the best player on other teams** [04:23](https://www.youtube.com/watch?v=moLcB7Qj_MY&t=263s)
 
 AJ Dybantsa: "It's been great. I've been telling the coach I want to take that challenge. I want to guard the best player on the other team. I think I got the length for it, I think I got the size for it, I think I got the quickness for it. So since I'm taking that challenge, that's what the NBA is about. I mean you want to go compete against the best. I want to prove I'm a good defender in this league, so the only way to do it is to go, you know, guard the best player on another team."
 
@@ -42,7 +54,7 @@ From: [Media Availability: Head Coach Brian Keefe and AJ Dybantsa \| 11.9.26](ht
 
 <small>[Clip it](presserclips://clip?v=moLcB7Qj_MY&t=263&q=10) · [Send to Slack](presserclips://clip?v=moLcB7Qj_MY&t=263&q=10&slack=1)</small>
 
-**5. Jamal Murray — "I've been trying to bring more and be more physical, just like how they're playing me physically." — Jamal Murray on his defensive intensity this season** [11:27](https://www.youtube.com/watch?v=GzMddriBv2A&t=687s)
+**6. Jamal Murray — "I've been trying to bring more and be more physical, just like how they're playing me physically." — Jamal Murray on his defensive intensity this season** [11:27](https://www.youtube.com/watch?v=GzMddriBv2A&t=687s)
 
 Jamal Murray: "I've been trying to bring more and be more physical, just like how they're playing me physically and letting things go. I'm able to I know personnel, I know guys a lot better just being in the league more, so maybe that plays a part. But yeah, I'm just bringing it and I think the defense gets my energy going and then offensively I'll find it."
 
@@ -52,7 +64,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. HOU 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=687&q=9) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=687&q=9&slack=1)</small>
 
-**6. Dyson Daniels — "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass." — Dyson Daniels on the challenge of guarding Luka Doncic** [00:00](https://www.youtube.com/watch?v=u4MkNuF6xy4&t=0s)
+**7. Dyson Daniels — "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass." — Dyson Daniels on the challenge of guarding Luka Doncic** [00:00](https://www.youtube.com/watch?v=u4MkNuF6xy4&t=0s)
 
 Dyson Daniels: "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass. **Sandro** made some big shots, **Sexton** made big shots, **Lauri Markkanen** made big shots. I feel like if that's the game plan they're trying to give that up, then they did a good job of executing out of our blitzes and stuff like that. I mean, I think we hurt ourselves a little bit too tonight."
 
@@ -62,7 +74,7 @@ From: [Hawks vs. Lakers Postgame Press Conference: Dyson Daniels](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=u4MkNuF6xy4&t=0&q=1) · [Send to Slack](presserclips://clip?v=u4MkNuF6xy4&t=0&q=1&slack=1)</small>
 
-**7. Jamal Shead — "Obviously Scottie is a DPOY candidate any night that he's on the floor. Colin is a really good defender." — Jamal Shead on compensating for missing key defensive players** [00:33](https://www.youtube.com/watch?v=9bx8mdfvsHk&t=33s)
+**8. Jamal Shead — "Obviously Scottie is a DPOY candidate any night that he's on the floor. Colin is a really good defender." — Jamal Shead on compensating for missing key defensive players** [00:33](https://www.youtube.com/watch?v=9bx8mdfvsHk&t=33s)
 
 Jamal Shead: "Obviously Scottie is a DPOY candidate any night that he's on the floor. **Colin** is a really good defender. **Kawhi** is a really good defender. And then quick shooting and his spacing and his ability to playmake, the things that those guys bring, obviously we miss them, but we try to compensate and make up for it by moving the ball or just playing harder, just getting after it a little bit more."
 
@@ -72,7 +84,7 @@ From: [Jamal Shead \| Post Game at  Memphis Grizzlies \| November 09, 2026](http
 
 <small>[Clip it](presserclips://clip?v=9bx8mdfvsHk&t=33&q=2) · [Send to Slack](presserclips://clip?v=9bx8mdfvsHk&t=33&q=2&slack=1)</small>
 
-**8. Tidjane Salaün — "Since the first game we got to have the same spirit every day, every day." — Tidjane Salaün on team togetherness and consistency** [03:04](https://www.youtube.com/watch?v=j0jITf8AGRs&t=184s)
+**9. Tidjane Salaün — "Since the first game we got to have the same spirit every day, every day." — Tidjane Salaün on team togetherness and consistency** [03:04](https://www.youtube.com/watch?v=j0jITf8AGRs&t=184s)
 
 Tidjane Salaün: "That was better. The togetherness was clearly different. But like you say, **Dennis**, since the first game we got to have the same spirit every day, every day. So, I talk about practice, game day, like we got to have this type of spirit, like being together, have energy. Because when we are losing, of course we are going to be upset, but we got to be together. Because like they did, the Cavs, at the end they came back. And just because of that we still have some work to do. But we show a great example of what the Hornets can be when the shots fall for sure. We have some good, great shooter, just got to make them."
 
@@ -82,7 +94,7 @@ From: [Hornets vs Cavaliers: Tidjane Salaün Postgame Media Availability \| 11/9
 
 <small>[Clip it](presserclips://clip?v=j0jITf8AGRs&t=184&q=4) · [Send to Slack](presserclips://clip?v=j0jITf8AGRs&t=184&q=4&slack=1)</small>
 
-**9. Jakob Poeltl — "the way he plays, that fast downhill style, just opens up the defense" — Jakob Poeltl on his developing on-court chemistry with Jamal Shead** [00:36](https://www.youtube.com/watch?v=sb1F3GVweTw&t=36s)
+**10. Jakob Poeltl — "the way he plays, that fast downhill style, just opens up the defense" — Jakob Poeltl on his developing on-court chemistry with Jamal Shead** [00:36](https://www.youtube.com/watch?v=sb1F3GVweTw&t=36s)
 
 Jakob Poeltl: "We have had a couple conversations, especially this season, about what works for us and what doesn't work for us. Generally, I'd say it comes pretty natural, at least from my side. The way he plays, that fast downhill style, just opens up the defense and gives me the opportunity, because the pass comes quick, it gives me the opportunity for quick finishes and floaters and stuff like that. I think a lot of it is honestly just natural, good matchup for us."
 
@@ -219,6 +231,30 @@ Jamal Shead: "The more minutes I've been playing, I've kind of took off the gas 
 [https://www.youtube.com/watch?v=9bx8mdfvsHk&t=263s](https://www.youtube.com/watch?v=9bx8mdfvsHk&t=263s)
 
 <small>[Clip it](presserclips://clip?v=9bx8mdfvsHk&t=263&q=8) · [Send to Slack](presserclips://clip?v=9bx8mdfvsHk&t=263&q=8&slack=1)</small>
+
+---
+
+## Rick Carlisle on the Pacers final play vs Mavericks — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=AAMkFsfZWFM](https://www.youtube.com/watch?v=AAMkFsfZWFM)
+
+_Speakers identified: Rick Carlisle_
+
+**1. Rick Carlisle — "It is a football caliber collision and it is clearly a foul." — Rick Carlisle criticizes officiating on the final Pacers-Mavericks play** [00:03](https://www.youtube.com/watch?v=AAMkFsfZWFM&t=3s)
+
+Rick Carlisle: "It is a football caliber collision and it is clearly a foul. We would have been shooting two free throws with three and a half seconds left. I am at a loss for what was being looked at. And then you ask and the response is shocking. This team fought their hearts out in this game. They deserved an opportunity to win the game. We hurt ourselves with some mistakes, but there is no questioning the intensity, the effort, or any of that stuff."
+
+[https://www.youtube.com/watch?v=AAMkFsfZWFM&t=3s](https://www.youtube.com/watch?v=AAMkFsfZWFM&t=3s)
+
+<small>[Clip it](presserclips://clip?v=AAMkFsfZWFM&t=3&q=1) · [Send to Slack](presserclips://clip?v=AAMkFsfZWFM&t=3&q=1&slack=1)</small>
+
+**2. Rick Carlisle — "It almost looks like targeting a defenseless player in a football game." — Rick Carlisle compares final play collision to targeting a defenseless player** [01:03](https://www.youtube.com/watch?v=AAMkFsfZWFM&t=63s)
+
+Rick Carlisle: "That whistle needs to blow. It almost looks like targeting a defenseless player in a football game. So I am shocked, but I am not going to get it. That one to me happened right in front of me and the official. They may have been intentionally fouling. It looked like that may have been a possibility. I do not know for sure, but guys played really hard. Proud of them."
+
+[https://www.youtube.com/watch?v=AAMkFsfZWFM&t=63s](https://www.youtube.com/watch?v=AAMkFsfZWFM&t=63s)
+
+<small>[Clip it](presserclips://clip?v=AAMkFsfZWFM&t=63&q=2) · [Send to Slack](presserclips://clip?v=AAMkFsfZWFM&t=63&q=2&slack=1)</small>
 
 ---
 
@@ -491,6 +527,54 @@ Charles Lee: "Added confidence to know that we have a guy that again, impacts th
 [https://www.youtube.com/watch?v=Zam8Hpx3QP0&t=222s](https://www.youtube.com/watch?v=Zam8Hpx3QP0&t=222s)
 
 <small>[Clip it](presserclips://clip?v=Zam8Hpx3QP0&t=222&q=5) · [Send to Slack](presserclips://clip?v=Zam8Hpx3QP0&t=222&q=5&slack=1)</small>
+
+---
+
+## Tuomas Iisalo Press Conference | Grizzlies vs. Raptors — *Memphis Grizzlies*
+
+Source: [https://www.youtube.com/watch?v=hUinEotYZ-M](https://www.youtube.com/watch?v=hUinEotYZ-M)
+
+_Speakers identified: Tuomas Iisalo_
+
+**1. Tuomas Iisalo — "Guys really locked in defensively. You could see the defensive pressure from the first moment on." — Tuomas Iisalo praises team's defensive intensity and fighting attitude** [00:06](https://www.youtube.com/watch?v=hUinEotYZ-M&t=6s)
+
+Tuomas Iisalo: "I was very satisfied just from the first moment on, those things that we talked about that we wanted to fix. Guys really locked in defensively. You could see the defensive pressure from the first moment on. It's not perfect and it's not supposed to be perfect. There are still a lot of mistakes on several possessions, but that's what basketball is. It's a game of mistakes and those happen and little by little, hopefully we can reduce the amount of those mistakes. What we got to maintain is that fighting attitude and atmosphere in the team."
+
+[https://www.youtube.com/watch?v=hUinEotYZ-M&t=6s](https://www.youtube.com/watch?v=hUinEotYZ-M&t=6s)
+
+<small>[Clip it](presserclips://clip?v=hUinEotYZ-M&t=6&q=1) · [Send to Slack](presserclips://clip?v=hUinEotYZ-M&t=6&q=1&slack=1)</small>
+
+**2. Tuomas Iisalo — "Jeremy Grant was very steadying for us, especially in that fourth quarter when they were making the push." — Tuomas Iisalo on Jeremy Grant's veteran leadership and impact** [01:16](https://www.youtube.com/watch?v=hUinEotYZ-M&t=76s)
+
+Tuomas Iisalo: "**Jeremy Grant** was very steadying for us, especially in that fourth quarter when they were making the push. He had a couple of corner threes from the skip passes to the left corner, knocked those down, but he also scored out of transition, got to the free throw line, made some defensive plays. He is just a guy that's seen a lot and to have his veteran presence in our team where we have a lot of young guys, not just the locker room presence, but also on the court to help them and to understand the level of detail that's necessary, it's very good for us."
+
+[https://www.youtube.com/watch?v=hUinEotYZ-M&t=76s](https://www.youtube.com/watch?v=hUinEotYZ-M&t=76s)
+
+<small>[Clip it](presserclips://clip?v=hUinEotYZ-M&t=76&q=2) · [Send to Slack](presserclips://clip?v=hUinEotYZ-M&t=76&q=2&slack=1)</small>
+
+**3. Tuomas Iisalo — "Zach always does great. It doesn't always show up on the box score, but his impact is felt." — Tuomas Iisalo on Zach's unique player profile and defensive impact** [02:13](https://www.youtube.com/watch?v=hUinEotYZ-M&t=133s)
+
+Tuomas Iisalo: "**Zach** always does great. It doesn't always show up on the box score, but his impact is felt every night, whether it's in the possession game, rebounding the ball, or defensively protecting the rim, or just engaging the other guys. We talk a lot about the offensive performances of our guards, but if you look at the tape, it's also because the opponent is paranoid about **Zach** getting open looks. So his defender tends to instead of protecting the rim, tends to gravitate back towards **Zach**, which opens up then lanes for our guys."
+
+[https://www.youtube.com/watch?v=hUinEotYZ-M&t=133s](https://www.youtube.com/watch?v=hUinEotYZ-M&t=133s)
+
+<small>[Clip it](presserclips://clip?v=hUinEotYZ-M&t=133&q=3) · [Send to Slack](presserclips://clip?v=hUinEotYZ-M&t=133&q=3&slack=1)</small>
+
+**4. Tuomas Iisalo — "He had a good selection of shots or passes. He made several, I mean, he was eight assists." — Tuomas Iisalo on Zach's growth and decision-making in the paint** [03:53](https://www.youtube.com/watch?v=hUinEotYZ-M&t=233s)
+
+Tuomas Iisalo: "He put a lot of downhill pressure once he got there. He had a good selection of shots or passes. He made several, I mean, he was eight assists, eight rebounds, 22 points. That's the type of player that I think he can grow into, that he just makes good reads once he gets into the paint, has that touch over there. This didn't even come with three-point shots, he was zero for five from the three-point land, and that's something where he also has an advantage there. He's not afraid of looking bad. He's willing to put himself out there, give everything he has, and then improve from that."
+
+[https://www.youtube.com/watch?v=hUinEotYZ-M&t=233s](https://www.youtube.com/watch?v=hUinEotYZ-M&t=233s)
+
+<small>[Clip it](presserclips://clip?v=hUinEotYZ-M&t=233&q=4) · [Send to Slack](presserclips://clip?v=hUinEotYZ-M&t=233&q=4&slack=1)</small>
+
+**5. Tuomas Iisalo — "The two-guard lineups, I thought they brought a balance to our offense where now it's harder for opponents." — Tuomas Iisalo on the benefits of two-guard lineups** [05:05](https://www.youtube.com/watch?v=hUinEotYZ-M&t=305s)
+
+Tuomas Iisalo: "The two-guard lineups, I thought they brought a balance to our offense where now it's harder for opponents to pressure us. We get to our spots a little bit faster and then we don't need to force-feed the ball to one handler only. Without seeing the game on film, we now done it in two games in a row and my first feelings are positive about that."
+
+[https://www.youtube.com/watch?v=hUinEotYZ-M&t=305s](https://www.youtube.com/watch?v=hUinEotYZ-M&t=305s)
+
+<small>[Clip it](presserclips://clip?v=hUinEotYZ-M&t=305&q=5) · [Send to Slack](presserclips://clip?v=hUinEotYZ-M&t=305&q=5&slack=1)</small>
 
 ---
 

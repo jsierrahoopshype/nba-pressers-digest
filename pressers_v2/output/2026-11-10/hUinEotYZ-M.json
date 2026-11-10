@@ -1,0 +1,180 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Raptors",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:06",
+      "summary_phrase": "Tuomas Iisalo praises team's defensive intensity and fighting attitude",
+      "names_mentioned": [],
+      "excerpt": "Guys really locked in defensively. You could see the defensive pressure from the first moment on.",
+      "quote": "I was very satisfied just from the first moment on, those things that we talked about that we wanted to fix. Guys really locked in defensively. You could see the defensive pressure from the first moment on. It's not perfect and it's not supposed to be perfect. There are still a lot of mistakes on several possessions, but that's what basketball is. It's a game of mistakes and those happen and little by little, hopefully we can reduce the amount of those mistakes. What we got to maintain is that fighting attitude and atmosphere in the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo was pleased with the defensive intensity against the Raptors, noting that while the team is still making mistakes, the fighting attitude and atmosphere remain the focus.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Head coach Tuomas Iisalo discusses the team's defensive performance and overall effort following the game against the Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:16",
+      "summary_phrase": "Tuomas Iisalo on Jeremy Grant's veteran leadership and impact",
+      "names_mentioned": [
+        "Jeremy Grant"
+      ],
+      "excerpt": "Jeremy Grant was very steadying for us, especially in that fourth quarter when they were making the push.",
+      "quote": "Jeremy Grant was very steadying for us, especially in that fourth quarter when they were making the push. He had a couple of corner threes from the skip passes to the left corner, knocked those down, but he also scored out of transition, got to the free throw line, made some defensive plays. He is just a guy that's seen a lot and to have his veteran presence in our team where we have a lot of young guys, not just the locker room presence, but also on the court to help them and to understand the level of detail that's necessary, it's very good for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 76,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo praised Jeremy Grant for his steadying veteran presence, highlighting his ability to help young players understand the level of detail necessary on the court.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremy Grant"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tuomas Iisalo praises Jeremy Grant for his veteran leadership and steadying influence on the younger players during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:13",
+      "summary_phrase": "Tuomas Iisalo on Zach's unique player profile and defensive impact",
+      "names_mentioned": [
+        "Zach"
+      ],
+      "excerpt": "Zach always does great. It doesn't always show up on the box score, but his impact is felt.",
+      "quote": "Zach always does great. It doesn't always show up on the box score, but his impact is felt every night, whether it's in the possession game, rebounding the ball, or defensively protecting the rim, or just engaging the other guys. We talk a lot about the offensive performances of our guards, but if you look at the tape, it's also because the opponent is paranoid about Zach getting open looks. So his defender tends to instead of protecting the rim, tends to gravitate back towards Zach, which opens up then lanes for our guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo explains that Zach's impact goes beyond the box score, noting that opponents are so paranoid about his presence that it opens up lanes for the rest of the team.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tuomas Iisalo explains the impact Zach Edey has on the game beyond the box score and how he creates space for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:53",
+      "summary_phrase": "Tuomas Iisalo on Zach's growth and decision-making in the paint",
+      "names_mentioned": [
+        "Zach"
+      ],
+      "excerpt": "He had a good selection of shots or passes. He made several, I mean, he was eight assists.",
+      "quote": "He put a lot of downhill pressure once he got there. He had a good selection of shots or passes. He made several, I mean, he was eight assists, eight rebounds, 22 points. That's the type of player that I think he can grow into, that he just makes good reads once he gets into the paint, has that touch over there. This didn't even come with three-point shots, he was zero for five from the three-point land, and that's something where he also has an advantage there. He's not afraid of looking bad. He's willing to put himself out there, give everything he has, and then improve from that.",
+      "verbatim_original_language": "",
+      "start_seconds": 233,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo says Zach is growing into a player who makes good reads in the paint, noting his willingness to put himself out there and improve even when his shot is not falling.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo evaluates Zach Edey's performance and his potential for growth as a playmaker in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "05:05",
+      "summary_phrase": "Tuomas Iisalo on the benefits of two-guard lineups",
+      "names_mentioned": [],
+      "excerpt": "The two-guard lineups, I thought they brought a balance to our offense where now it's harder for opponents.",
+      "quote": "The two-guard lineups, I thought they brought a balance to our offense where now it's harder for opponents to pressure us. We get to our spots a little bit faster and then we don't need to force-feed the ball to one handler only. Without seeing the game on film, we now done it in two games in a row and my first feelings are positive about that.",
+      "verbatim_original_language": "",
+      "start_seconds": 305,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo says the two-guard lineups have brought better balance to the offense, making it harder for opponents to pressure the ball and allowing the team to get to their spots faster.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo discusses the tactical benefits of utilizing two-guard lineups to improve offensive flow and ball handling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "hUinEotYZ-M",
+  "url": "https://www.youtube.com/watch?v=hUinEotYZ-M",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-10T11:10:10Z",
+  "duration_seconds": 366,
+  "processed_at": "2026-11-10T17:07:51Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

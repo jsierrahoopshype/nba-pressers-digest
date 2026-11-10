@@ -1,0 +1,79 @@
+{
+  "video_title": "Rick Carlisle on the Pacers final play vs Mavericks",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:03",
+      "summary_phrase": "Rick Carlisle criticizes officiating on the final Pacers-Mavericks play",
+      "names_mentioned": [],
+      "excerpt": "It is a football caliber collision and it is clearly a foul.",
+      "quote": "It is a football caliber collision and it is clearly a foul. We would have been shooting two free throws with three and a half seconds left. I am at a loss for what was being looked at. And then you ask and the response is shocking. This team fought their hearts out in this game. They deserved an opportunity to win the game. We hurt ourselves with some mistakes, but there is no questioning the intensity, the effort, or any of that stuff.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Rick Carlisle is frustrated with the no-call on the final play against the Mavericks, calling it a football caliber collision and saying his team deserved an opportunity to win the game at the free throw line.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle addresses the media regarding a controversial non-call on the final play of the game between the Pacers and the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:03",
+      "summary_phrase": "Rick Carlisle compares final play collision to targeting a defenseless player",
+      "names_mentioned": [],
+      "excerpt": "It almost looks like targeting a defenseless player in a football game.",
+      "quote": "That whistle needs to blow. It almost looks like targeting a defenseless player in a football game. So I am shocked, but I am not going to get it. That one to me happened right in front of me and the official. They may have been intentionally fouling. It looked like that may have been a possibility. I do not know for sure, but guys played really hard. Proud of them.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Rick Carlisle on the final play collision: It almost looks like targeting a defenseless player in a football game. He expressed shock that no whistle was blown on the play.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle continues to express his frustration with the officiating during the final play of the Pacers and Mavericks game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "AAMkFsfZWFM",
+  "url": "https://www.youtube.com/watch?v=AAMkFsfZWFM",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-10T15:14:47Z",
+  "duration_seconds": 113,
+  "processed_at": "2026-11-10T17:07:53Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}
