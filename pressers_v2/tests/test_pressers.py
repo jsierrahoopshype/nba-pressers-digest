@@ -306,14 +306,14 @@ class PipelineTests(unittest.TestCase):
         top = digest.index(pe.TOP_QUOTES_HEADER)
         self.assertLess(top, digest.index("\n## "))
         block = digest[top:digest.index("\n---\n", top)]
-        # 4 quotes -> 10% rounded up = 1; the unidentified reporter question never qualifies
-        self.assertEqual(len(re.findall(r"(?m)^\*\*\d+\.", block)), 1)
+        # 2 quotes left once the reporter's questions are off the page: both, though one speaker
+        self.assertEqual(len(re.findall(r"(?m)^\*\*\d+\.", block)), 2)
         self.assertIn("**1. James Harden", block)
         self.assertNotIn("bench and how deep", block)
         src = re.search(r"From: \[[^\]]+\]\(https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})\)", block)
         self.assertIsNotNone(src)
         # one clip pair per entry, with the quote's real number and second
-        self.assertEqual(block.count("[Clip it]"), 1)
+        self.assertEqual(block.count("[Clip it]"), 2)
         self.assertIn(pe.clip_link_line(src.group(1), 118, 1), block)
         self.assertNotIn("CHECK OTHER YOUTUBE PODCASTS HERE", digest)
 

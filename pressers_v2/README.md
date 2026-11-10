@@ -35,12 +35,19 @@ Each page starts with plain links to the slot's other pages that exist, then
 its own **Best of the best** (about 10% of that page's quotes, at least 3, at
 most one per speaker, players first: a coach or exec only with real news such
 as an injury update; never a reporter question or a quote that is mostly one.
-A small page is filled up to 3 with its other speakers' best quotes, so it has
-fewer only when fewer than 3 speakers qualify), then the
+A small page is filled up to 3 with its other speakers' best quotes, repeating
+a speaker when it has fewer than 3; a page with fewer than 3 quotes shows them
+all), then the
 videos, each exactly yt-quotes' output. A type with nothing to show gets no
 page. Only the podcasts page ends with the CHECK OTHER YOUTUBE PODCASTS HERE
 link. The index lists every page. `workflow_dispatch` with `rebuild_dates`
 rebuilds those days' pages from the stored videos instead of a normal run.
+
+**Late runs (Nov 10 2026).** A daytime run belongs to the day it was
+scheduled for: the 20:15 cron that GitHub starts at 02:43 the next morning
+files the videos published after midnight under the scheduled day (its
+`20utc` pages, the day's pages and the Slack post's date and links), not under
+the next day. A rebuild moves stored videos of such runs the same way.
 
 **Content types.** `presser` (every team-channel upload, including "LIVE: ...
 Postgame Interviews" streams, unless its title says "podcast"), `podcast` (the

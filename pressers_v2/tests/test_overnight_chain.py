@@ -210,7 +210,7 @@ class BestMinimumAndOneoffTests(unittest.TestCase):
             self._store(day2, "AAAAAAAAAA3", "presser", [self.quote(1, "Player A", news=2),
                                                          self.quote(2, "Player B", news=2)])
             two = pe.write_pages("2026-11-08", None)["presser"].read_text(encoding="utf-8")
-        self.assertEqual(self.picks(one), 1)        # one speaker on the page: one pick
+        self.assertEqual(self.picks(one), 3)        # one speaker on the page: repeated to reach 3
         self.assertEqual(self.picks(two), 2)        # fewer than 3 quotes: all of them
 
     def test_big_page_keeps_ten_percent_and_rules(self):
@@ -257,7 +257,7 @@ class BestMinimumAndOneoffTests(unittest.TestCase):
         self.assertNotIn("non_nba", stored["quotes"][0])
         self.assertEqual(stored["quotes"][0]["news_score"], 6)
         self.assertEqual(sorted(pages), ["oneoff"])                        # nothing on the podcasts page
-        self.assertEqual(self.picks(oneoff_page), 1)                       # one speaker
+        self.assertEqual(self.picks(oneoff_page), 2)                       # 2 quotes in all: both, same speaker
 
     def test_podcast_copy_of_an_adhoc_video_is_refiled(self):
         with TempOutput() as out:
@@ -274,3 +274,53 @@ class BestMinimumAndOneoffTests(unittest.TestCase):
         self.assertEqual(again, [])
         self.assertEqual(d["content_type"], "oneoff")
         self.assertNotIn("non_nba", d["quotes"][0])
+
+
+class LateRunFilingTests(unittest.TestCase):
+    """Nov 10 2026: a late daytime run is filed under the day it was scheduled for."""
+
+    def test_scheduled_date(self):
+        self.assertEqual(pe.scheduled_date("2026-11-10T0243Z-20utc"), "2026-11-09")   # 20:15 cron at 02:43 next day
+        self.assertEqual(pe.scheduled_date("2026-11-09T2341Z-20utc"), "2026-11-09")   # late, same day
+        self.assertEqual(pe.scheduled_date("2026-11-08T1849Z-14utc"), "2026-11-08")
+        self.assertEqual(pe.scheduled_date("2026-11-10-overnight"), "2026-11-10")
+        self.assertEqual(pe.scheduled_date("2026-11-10T1118Z-manual-1118"), "2026-11-10")
+        self.assertEqual(pe.filed_date("2026-11-10", "2026-11-10T0243Z-20utc"), "2026-11-09")
+        self.assertEqual(pe.filed_date("2026-11-08", "2026-11-10T0243Z-20utc"), "2026-11-08")  # older video: own day
+        self.assertEqual(pe.filed_date("2026-11-10", "2026-11-10-overnight"), "2026-11-10")
+
+    def test_live_run_files_videos_under_the_scheduled_day(self):
+        old = (pe.RUN_ID, pe.SLOT_DATE)
+        try:
+            pe.RUN_ID, pe.SLOT_DATE = "2026-11-10T0243Z-20utc", "2026-11-09"
+            self.assertEqual(pe.video_day_dir({"published": "2026-11-10T01:42:31Z"}).name, "2026-11-09")
+            self.assertEqual(pe.video_day_dir({"published": "2026-11-09T19:00:00Z"}).name, "2026-11-09")
+        finally:
+            pe.RUN_ID, pe.SLOT_DATE = old
+
+    def test_rebuild_moves_late_run_videos_and_drops_stale_pages(self):
+        with TempOutput() as out:
+            d9, d10 = out / "2026-11-09", out / "2026-11-10"
+            for day, vid, rid in ((d10, "2ywtsVHfdgc", "2026-11-10T0243Z-20utc"),
+                                  (d10, "Zam8Hpx3QP0", "2026-11-10-overnight"),
+                                  (d9, "AAAAAAAAAA1", "2026-11-09T1849Z-14utc")):
+                data = {"video_id": vid, "video_title": f"{vid} Postgame", "channel_team": "T",
+                        "content_type": "presser", "run_id": rid, "published": "2026-11-10T01:00:00Z",
+                        "quotes": [{"rank": 1, "speaker": f"Player {vid[:3]}", "timestamp": "00:10",
+                                    "quote": "x y z", "news_score": 5}]}
+                day.mkdir(parents=True, exist_ok=True)
+                (day / f"{vid}.json").write_text(json.dumps(data), encoding="utf-8")
+                (day / f"{vid}.md").write_text(pe.render_markdown(vid, "T", data), encoding="utf-8")
+            pe.write_pages("2026-11-10", "20utc", ["2ywtsVHfdgc"])          # the misfiled page, as on Nov 10
+            touched = pe.refile_late_runs(["2026-11-09", "2026-11-10"])
+            for d in touched:
+                pe.rebuild_day(d)
+            left10 = sorted(p.name for p in d10.iterdir())
+            has9 = sorted(p.name for p in d9.iterdir())
+        self.assertEqual(touched, ["2026-11-09", "2026-11-10"])
+        self.assertNotIn("digest-20utc.md", left10)
+        self.assertNotIn("2ywtsVHfdgc.json", left10)
+        self.assertIn("digest-overnight.md", left10)
+        self.assertIn("2ywtsVHfdgc.json", has9)
+        self.assertIn("digest-20utc.md", has9)
+        self.assertIn("digest-14utc.md", has9)
