@@ -1,0 +1,277 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability | Phoenix Suns | 11-9-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:14",
+      "summary_phrase": "Jordan Ott on the Suns' inability to overcome the deficit",
+      "names_mentioned": [
+        "Dylan Harper"
+      ],
+      "excerpt": "Against this team you're probably not getting to the rim, so the ability to hit some of those shots.",
+      "quote": "It felt, you know, we got back, climbed back into the game. I think we might have had a shot or two to even cut it to single digits. Against this team you're probably not getting to the rim, so the ability to hit some of those shots at timely manners and timely places really will help you. We could just never get over that hump and then Dylan Harper had it going there in the third.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott says the Suns struggled to overcome the deficit against the Spurs because they could not get over the hump and Dylan Harper took over in the third quarter.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Harper"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's inability to overcome a deficit during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:49",
+      "summary_phrase": "Jordan Ott on Victor Wembanyama's impact on the game",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Anytime he has a switch on, they just literally throw the ball to the top of the backboard.",
+      "quote": "I thought right off the bat the free throws put us in a bad spot. We were in the penalty where he at least got there early. I think three trips, the last one for sure was a foul, but he was in the mid-range shooting a mid-range shot. He just does it from all three levels right now. And then anytime he has a switch on, they just literally throw the ball to the top of the backboard. When that starts to go, it's just so deflating and it's really hard to overcome, but he does it to everyone.",
+      "text_blocks": [],
+      "start_seconds": 49,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Jordan Ott on the difficulty of guarding Victor Wembanyama: When they throw the ball to the top of the backboard and he goes up to get it, it is just so deflating and it is really hard to overcome.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the defensive challenges posed by Victor Wembanyama throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:43",
+      "summary_phrase": "Jordan Ott on the Spurs' late shot clock execution",
+      "names_mentioned": [],
+      "excerpt": "They do a great job of doing the whole 24-second shot clock. They maximize their possession.",
+      "quote": "I think that's some of their experience. You play deep into the playoffs, you understand where to find your high-quality looks, and they do a great job of doing the whole 24-second shot clock. They maximize their possession. They have multiple elite scorers out there on the floor at one time and they understand that if they feel crowds or they feel multiple bodies that they're able to spray it to someone on the perimeter and they really hurt us on some of those late shot clock shots.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott credits the Spurs' experience and execution for their ability to maximize possessions and find high quality looks late in the shot clock.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan Ott comments on the San Antonio Spurs' late shot clock execution and offensive experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:22",
+      "summary_phrase": "Jordan Ott on the Suns' struggles with mid-range shooting",
+      "names_mentioned": [],
+      "excerpt": "We got to eat off the dribble threes. We got 26 overall, that's not going to be enough.",
+      "quote": "We got to eat off the dribble threes. We got 26 overall, that's not going to be enough against a team like this. You're going to have to shoot it over top of them because you really can't get into the lane. They do a great job of taking away the threes, I think they're the best in the league taking away the three-point line. And we do make mid-range shots most nights. Tonight we didn't and I think that was some of those gaps where we were able to close it down and then missed a couple mid-range, and that would have got us right back into that game.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott says the Suns need to shoot more than 26 threes against a team like the Spurs because they are the best in the league at taking away the three point line.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan Ott analyzes the Suns' struggles with mid-range shooting and perimeter defense against the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:00",
+      "summary_phrase": "Jordan Ott on the difficulty of guarding Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "They just force your mental stamina to stay with it, knowing that it's going to feel a little different.",
+      "quote": "They just force your mental stamina to stay with it, knowing that it's going to feel a little different than most nights. You would love to get some times where you collapse the D, attack, but they're able to stay home. He just sits in the rim. They have elite on-ball guys, so we tried to get that elite ball guy off of there every once in a while. But then once you get in the paint, they fan out. So they do a great job of putting that guy or both bigs really protecting the rim, and then stealing out or staying home off the ball.",
+      "text_blocks": [],
+      "start_seconds": 180,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott explains the challenge of attacking the Spurs defense: You want to collapse the defense but they stay home and Wembanyama just sits at the rim.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan Ott describes the difficulty of attacking the paint against the Spurs' defensive scheme centered on Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:48",
+      "summary_phrase": "Jordan Ott on the need for more shot attempts",
+      "names_mentioned": [],
+      "excerpt": "This is a team that you have to have more shot attempts at it.",
+      "quote": "We talked about it at halftime. We were down in the possession game. This is a team that you have to have more shot attempts at it, and that was both our offensive rebounding and we weren't forcing turnovers. So they're tough because if you go over-extend, that's where at times it looks like a Nerf hoop. They just throw it up to him, and then they're such elite drivers that they can drive you. So we tried to pack it in a little bit more there to start.",
+      "text_blocks": [],
+      "start_seconds": 228,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott says the Suns lost the possession battle against the Spurs because they failed to generate offensive rebounds or force turnovers.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the importance of the possession battle and the impact of Victor Wembanyama on the Suns' offensive strategy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:26",
+      "summary_phrase": "Jordan Ott on the balance of attacking Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "You want to have an approach and attack mindset, no matter who's out there.",
+      "quote": "You want to have an approach and attack mindset, no matter who's out there. OSO's worked so hard on driving the basketball, getting into the paint when they give you that space. He definitely was talked to right before that possession and then Wembanyama gets him. So you got to just continue to do it to try to move X5 out of the way. And then we weren't able to pitch to our guys, get a hit, you know, and really shoot those. It's not off the dribble, but you're kind of in movement.",
+      "text_blocks": [],
+      "start_seconds": 266,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott says the Suns must maintain an attack mindset against Wembanyama to try to move him out of the way even when the shots are not falling.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Oso Ighodaro",
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan Ott reflects on the team's approach to attacking the paint and the specific matchup between Oso Ighodaro and Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:23",
+      "summary_phrase": "Jordan Ott on the second unit's struggles without Devin Booker",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "We're still trying to find a little rhythm with that second unit.",
+      "quote": "It's a challenge. I know we played 39 minutes the other night. We're in a back-to-back, we're in three and four, we're in four and six, but we're going to need others to come help. And the first stint without him wasn't great. We felt it. And then that's why we were trying to close the gap there in the third before we got him out, and then that's when Harper took off. So we're still trying to find a little rhythm with that second unit.",
+      "text_blocks": [],
+      "start_seconds": 323,
+      "end_seconds": 356,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott admits the Suns are still trying to find rhythm with the second unit while Devin Booker is out of the lineup.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker",
+          "Dylan Harper"
+        ],
+        "teams": [
+          "PHX",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan Ott addresses the struggles of the second unit while Devin Booker is off the floor.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "BZkSD9me9fo",
+  "url": "https://www.youtube.com/watch?v=BZkSD9me9fo",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-10T05:13:24Z",
+  "duration_seconds": 372,
+  "processed_at": "2026-11-10T05:19:01Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

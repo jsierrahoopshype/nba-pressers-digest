@@ -1,0 +1,154 @@
+{
+  "video_title": "Rick Carlisle Postgame Media Availability at Dallas Mavericks | November 9, 2026",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:06",
+      "summary_phrase": "Rick Carlisle on the Pacers' unnecessary fouling issues",
+      "names_mentioned": [],
+      "excerpt": "The biggest issue in terms of the entire game was the unnecessary fouling.",
+      "quote": "The biggest issue in terms of the entire game was the unnecessary fouling, and we marched a lot of their guys to the free throw line unnecessarily when we had ourselves in a pretty good position defensively. So, we got to look at that, we got to be more disciplined.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Rick Carlisle says the Pacers main issue tonight was unnecessary fouling. We marched them to the free throw line when we were in good defensive position and we have to be more disciplined.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the team's defensive discipline and excessive fouling during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:14",
+      "summary_phrase": "Rick Carlisle praises Pascal Siakam and Aaron Nesmith",
+      "names_mentioned": [
+        "Pascal Siakam",
+        "Aaron Nesmith"
+      ],
+      "excerpt": "Pascal had a great game, Aaron hit a couple big shots at the end.",
+      "quote": "Our main guys here played their hearts out. Pascal had a great game, Aaron hit a couple big shots at the end, and he always plays hard. Nemhard was great.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Rick Carlisle praised his core players after tonight's game noting that Pascal Siakam had a great game and Aaron Nesmith hit some big shots down the stretch.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam",
+          "Aaron Nesmith",
+          "Andrew Nembhard"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle praises the individual performances of Pascal Siakam, Aaron Nesmith, and Andrew Nembhard following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:27",
+      "summary_phrase": "Rick Carlisle on Ivica Zubac's performance as a pacer",
+      "names_mentioned": [
+        "Ivica Zubac"
+      ],
+      "excerpt": "Zubac had one of his best games as a Pacer.",
+      "quote": "Zubac had one of his best games as a Pacer, and we are getting a better feel for him and vice versa, and those were all good signs.",
+      "verbatim_original_language": "",
+      "start_seconds": 87,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle says Ivica Zubac had one of his best games as a Pacer and the team is starting to get a better feel for how he plays.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle comments on Ivica Zubac's performance and the team's ongoing adjustment to integrating him into the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:47",
+      "summary_phrase": "Rick Carlisle on developing Pascal Siakam's role",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "We are involving him in his positions of strength.",
+      "quote": "We are involving him in his positions of strength, and he is learning how to play a faster style and still be able to play his game. So, there is some good signs, but this is going to be our entire team. There is going to be a lot of adjusting and calibrating and we got to figure things out.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the team's ongoing development: We are involving Pascal Siakam in his positions of strength but there is going to be a lot of adjusting and calibrating as we figure things out.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle explains the process of adjusting Pascal Siakam's role to fit the team's faster style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "VW3u2tQw9cg",
+  "url": "https://www.youtube.com/watch?v=VW3u2tQw9cg",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-10T04:46:26Z",
+  "duration_seconds": 229,
+  "processed_at": "2026-11-10T05:18:55Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}
