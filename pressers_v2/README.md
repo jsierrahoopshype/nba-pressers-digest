@@ -32,9 +32,11 @@ is named only if the video or its title identifies them; otherwise
 `podcasts-<slot>` "NBA Podcasts & Shows — <date>" and `oneoffs-<slot>`
 "NBA One-offs — <date>"; plus the day's `digest` / `podcasts` / `oneoffs`.
 Each page starts with plain links to the slot's other pages that exist, then
-its own **Best of the best** (about 10% of that page's quotes, at most one per
-speaker, players first: a coach or exec only with real news such as an injury
-update; never a reporter question or a quote that is mostly one), then the
+its own **Best of the best** (about 10% of that page's quotes, at least 3, at
+most one per speaker, players first: a coach or exec only with real news such
+as an injury update; never a reporter question or a quote that is mostly one.
+A small page is filled up to 3 with its other speakers' best quotes, so it has
+fewer only when fewer than 3 speakers qualify), then the
 videos, each exactly yt-quotes' output. A type with nothing to show gets no
 page. Only the podcasts page ends with the CHECK OTHER YOUTUBE PODCASTS HERE
 link. The index lists every page. `workflow_dispatch` with `rebuild_dates`
@@ -45,6 +47,11 @@ Postgame Interviews" streams, unless its title says "podcast"), `podcast` (the
 podcast rotation, see below) or `oneoff` (anything passed in `extra_videos`,
 whatever its content). The same three groups drive the pages, the Slack post,
 the clip folders and the clipper's pick-list.
+
+**yt-quotes one-offs (Nov 10 2026).** Videos submitted ad hoc to
+hoopshype-yt-quotes (its `output/oneoffs/<date>/`) are imported as one-offs,
+with the same single clip-fields call (no NBA filter) and no 48h limit; a video
+in both of its folders is a one-off.
 
 **Podcasts & shows.** The podcast channels are hoopshype-yt-quotes' rotation
 (its `channels.json`); they are transcribed there, not here. Each run checks

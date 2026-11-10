@@ -1309,7 +1309,10 @@ def _is_coach_or_exec(q: dict) -> bool:
 TOP_SECTION_HEADERS = {"presser": TOP_QUOTES_HEADER,
                        "podcast": TOP_QUOTES_HEADER,
                        "oneoff": TOP_QUOTES_HEADER}   # each type has its own page now (Nov 9 2026)
-TOP_SECTION_MIN = {"presser": 1, "podcast": 2, "oneoff": 2}
+# Jorge, Nov 10 2026: every page with a quote leads with the block, at least
+# 3 picks (fewer only when the page has fewer than 3 speakers who qualify).
+TOP_MIN_PICKS = 3
+TOP_SECTION_MIN = {"presser": TOP_MIN_PICKS, "podcast": TOP_MIN_PICKS, "oneoff": TOP_MIN_PICKS}
 TOP_MAX_REPORTER_SHARE = 0.5      # a quote that is mostly a reporter question never qualifies
 
 
@@ -1351,40 +1354,49 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
                 continue
             total += 1
             order += 1
+            if is_unidentified(q.get("speaker") or "") or reporter_share(q) > TOP_MAX_REPORTER_SHARE:
+                continue
             news = _news_score(q.get("news_score"))
-            if news is None or is_unidentified(q.get("speaker") or ""):
-                continue
-            if reporter_share(q) > TOP_MAX_REPORTER_SHARE:
-                continue
-            coach = _is_coach_or_exec(q)
-            if coach_rule and coach and news < TOP_COACH_MIN_NEWS:
-                continue
             social = _news_score(q.get("social_score")) or 0   # older videos have none
-            score = max(news, social)
+            coach = _is_coach_or_exec(q)
+            # strict: scored, and a coach / exec only with real news; the
+            # rest only fills the block up to its minimum (see below)
+            strict = news is not None and not (coach_rule and coach and news < TOP_COACH_MIN_NEWS)
+            score = max(news or 0, social)
             best = bool((q.get("structured") or {}).get("best"))
-            pool.append((-score, coach, not best, order, vid, data, q))
+            pool.append((not strict, -score, coach, not best, order, vid, data, q))
     if not pool or not total:
         return []
     want = max(min_quotes, math.ceil(total * TOP_QUOTES_SHARE - 1e-9))  # 10% of all quotes, rounded up
     max_coach = max(1, math.floor(want * TOP_COACH_MAX_SHARE)) if coach_rule else want
     picked, per_video, coaches, speakers = [], {}, 0, set()
-    for item in sorted(pool, key=lambda t: t[:4]):
-        vid, coach = item[4], item[1]
-        who = " ".join(_name_tokens(item[6].get("speaker") or ""))
-        if who in speakers:
-            continue
-        if per_video.get(vid, 0) >= TOP_QUOTES_PER_VIDEO:
-            continue
-        if coach and coaches >= max_coach:
-            continue
-        per_video[vid] = per_video.get(vid, 0) + 1
-        coaches += coach
-        speakers.add(who)
-        picked.append(item)
-        if len(picked) >= want:
+    ranked = sorted(pool, key=lambda t: t[:5])
+    # Pass 1: the usual rules (scored, players first, at most 2 per video,
+    # coaches capped). Pass 2, only to reach the minimum on a small page:
+    # any remaining quote by a speaker not yet picked, best first. One quote
+    # per speaker always; unidentified speakers and reporter questions never.
+    for relaxed in (False, True):
+        if relaxed and len(picked) >= min(want, min_quotes):
             break
+        target = want if not relaxed else min_quotes
+        for item in ranked:
+            if len(picked) >= target:
+                break
+            if item in picked:
+                continue
+            loose, vid, coach = item[0], item[5], item[2]
+            who = " ".join(_name_tokens(item[7].get("speaker") or ""))
+            if who in speakers:
+                continue
+            if not relaxed and (loose or per_video.get(vid, 0) >= TOP_QUOTES_PER_VIDEO
+                                or (coach and coaches >= max_coach)):
+                continue
+            per_video[vid] = per_video.get(vid, 0) + 1
+            coaches += coach
+            speakers.add(who)
+            picked.append(item)
     lines = [header, ""]
-    for n, (_, _, _, _, vid, data, q) in enumerate(picked, 1):
+    for n, (_, _, _, _, _, vid, data, q) in enumerate(picked, 1):
         one = dict(q, rank=n)  # shown as 1..N here; the clip link keeps the original number
         md = ytq.to_markdown(WATCH_URL_TEMPLATE.format(video_id=vid), "", pages_safe(
             {"video_title": data.get("video_title") or "", "quotes": [one]}))
@@ -1917,59 +1929,107 @@ def rebuild_run_id(published: str, runs: list) -> str:
     return slot_for_time(published)[0]
 
 
-def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, run_id: str = "",
-                        max_items: int = YTQ_IMPORT_MAX_PER_RUN) -> list:
-    """Copy yt-quotes' rotation videos (src_dir/<date>/<id>.json + .md) that
-    aren't stored here yet. run_id "" = assign each video the run that would
-    first have seen it (rebuilds, see rebuild_run_id); otherwise this run's id. Returns
-    processed_items entries."""
-    src_dir = Path(src_dir)
-    if not src_dir.is_dir():
-        log(f"[podcasts] yt-quotes output not found at {src_dir}; no podcasts imported")
-        return []
-    found = []
-    for day in sorted((d for d in src_dir.iterdir() if d.is_dir() and DAY_DIR_RE.match(d.name)), reverse=True):
+def _ytq_videos(root: Path) -> list:
+    """[(json path, data)] of yt-quotes per-video files under root/<date>/."""
+    out = []
+    if not root.is_dir():
+        return out
+    for day in sorted((d for d in root.iterdir() if d.is_dir() and DAY_DIR_RE.match(d.name)), reverse=True):
         for js in sorted(day.glob("*.json")):
-            if not VIDEO_ID_RE.match(js.stem) or find_existing_artifact(js.stem):
+            if not VIDEO_ID_RE.match(js.stem):
                 continue
             try:
                 data = json.loads(js.read_text(encoding="utf-8"))
             except (OSError, ValueError):
                 continue
             if isinstance(data, dict) and data.get("quotes"):
-                found.append((js, data))
-    if not found:
-        log("[podcasts] no new yt-quotes rotation videos")
+                out.append((js, data))
+    return out
+
+
+def refile_ytq_oneoffs(oneoff_ids: set) -> list:
+    """A video Jorge submitted ad hoc to yt-quotes that was also imported from
+    its rotation folder as a podcast becomes a one-off here (no NBA filter:
+    he picked it). Its stored scores are kept (no new call). Returns the
+    processed_items-style entries of the videos changed."""
+    changed = []
+    for day_dir in sorted(iter_day_dirs(), key=lambda p: p.name)[-4:]:
+        for js in sorted(day_dir.glob("*.json")):
+            if js.stem not in oneoff_ids:
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            if data.get("source") != YTQ_SOURCE or data.get("content_type") == "oneoff":
+                continue
+            for q in data.get("quotes") or []:
+                q.pop("non_nba", None)
+            data.update(content_type="oneoff", content_type_source="yt-quotes one-off", is_one_off=True)
+            atomic_write(js, json.dumps(data, ensure_ascii=False, indent=2))
+            atomic_write(js.with_suffix(".md"), render_markdown(js.stem, data.get("channel_team") or "", data))
+            log(f"  [one-offs] {js.stem}: filed as a one-off (it was submitted ad hoc to yt-quotes)")
+            changed.append({"video_id": js.stem, "date": day_dir.name, "content_type": "oneoff",
+                            "run_id": data.get("run_id") or "", "refiled": True})
+    return changed
+
+
+def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, run_id: str = "",
+                        max_items: int = YTQ_IMPORT_MAX_PER_RUN) -> list:
+    """Copy yt-quotes' videos that aren't stored here yet: its rotation
+    (src_dir/<date>/) as podcasts, and the videos Jorge submits ad hoc to
+    yt-quotes (src_dir/oneoffs/<date>/) as one-offs (Nov 10 2026). Each gets
+    the same single clip-fields call (podcasts with the NBA rule). A video in
+    both folders is a one-off. run_id "" = assign each video the run that
+    would first have seen it (rebuilds, see rebuild_run_id); otherwise this
+    run's id. Returns processed_items entries."""
+    src_dir = Path(src_dir)
+    if not src_dir.is_dir():
+        log(f"[podcasts] yt-quotes output not found at {src_dir}; no podcasts imported")
         return []
+    oneoffs = _ytq_videos(src_dir / "oneoffs")
+    oneoff_ids = {js.stem for js, _ in oneoffs}
+    items = refile_ytq_oneoffs(oneoff_ids)
+    # one-offs first: they are ad hoc requests, and they bypass the 48h window
+    found = [(js, data, "oneoff") for js, data in oneoffs if not find_existing_artifact(js.stem)]
+    found += [(js, data, "podcast") for js, data in _ytq_videos(src_dir)
+              if js.stem not in oneoff_ids and not find_existing_artifact(js.stem)]
+    if not found:
+        log("[podcasts] no new yt-quotes rotation videos or one-offs")
+        return items
     meta = {}
     if yt_key:
         try:
-            meta = hydrate_video_metadata([js.stem for js, _ in found], yt_key)
+            meta = hydrate_video_metadata([js.stem for js, _, _ in found], yt_key)
         except Exception as e:   # the import never blocks the run
             log(f"[podcasts] metadata fetch failed ({type(e).__name__}); using folder dates")
-    items = []
     runs = stored_runs() if not run_id else []
-    for js, data in found:
-        if len(items) >= max_items or _spending_cap_hit.is_set():
+    imported = 0
+    for js, data, kind in found:
+        if imported >= max_items or _spending_cap_hit.is_set():
             break
         vid = js.stem
         m = meta.get(vid) or {}
         published = m.get("published_at") or f"{js.parent.name}T12:00:00Z"
         pub = parse_iso(published)
-        if pub and pub < cutoff:
+        if kind == "podcast" and pub and pub < cutoff:
             continue
         channel = _ytq_channel_name(js.with_suffix(".md")) or m.get("channel_title") or "Podcast"
         duration = int(m.get("duration") or 0)
-        derived = derive_clip_fields(client, data, channel, PODCAST_NBA_RULE) if client is not None else {}
+        if client is not None:
+            derived = derive_clip_fields(client, data, channel, PODCAST_NBA_RULE if kind == "podcast" else "")
+        else:
+            derived = {}
         apply_clip_fields(data, derived, channel, duration)
-        dropped = apply_nba_flags(data, derived)
-        if dropped:
-            log(f"  [podcasts] {vid}: {dropped} of {len(data.get('quotes') or [])} quote(s) not about the NBA; "
-                "left off the pages")
+        if kind == "podcast":
+            dropped = apply_nba_flags(data, derived)
+            if dropped:
+                log(f"  [podcasts] {vid}: {dropped} of {len(data.get('quotes') or [])} quote(s) not about the NBA; "
+                    "left off the pages")
         rid = run_id or rebuild_run_id(published, runs)
         data.update({
-            "content_type": "podcast",
-            "content_type_source": "yt-quotes rotation",
+            "content_type": kind,
+            "content_type_source": "yt-quotes rotation" if kind == "podcast" else "yt-quotes one-off",
             "source": YTQ_SOURCE,
             "format": FORMAT_VERSION,
             "video_id": vid,
@@ -1979,15 +2039,21 @@ def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, ru
             "duration_seconds": duration,
             "processed_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "run_id": rid,
-            "is_one_off": False,
+            "is_one_off": kind == "oneoff",
         })
-        video = {"video_id": vid, "published": published}
+        if kind == "oneoff":
+            # the folder yt-quotes filed it under (its publish date), whatever the API says
+            video = {"video_id": vid, "published": f"{js.parent.name}T12:00:00Z"}
+        else:
+            video = {"video_id": vid, "published": published}
         day_dir = video_day_dir(video)
         atomic_write(day_dir / f"{vid}.json", json.dumps(data, ensure_ascii=False, indent=2))
         atomic_write(day_dir / f"{vid}.md", render_markdown(vid, channel, data))
+        imported += 1
         quotes = data.get("quotes") or []
         top = quotes[0] if quotes else {}
-        log(f"  [podcasts] {vid} ({channel}): {len(quotes)} quote(s) from yt-quotes -> {day_dir.name}")
+        log(f"  [{'one-offs' if kind == 'oneoff' else 'podcasts'}] {vid} ({channel}): {len(quotes)} quote(s) "
+            f"from yt-quotes -> {day_dir.name}")
         if not any(quote_visible(x) for x in quotes):
             continue   # stored (so it isn't imported again) but nothing NBA to show or post
         items.append({
@@ -1998,12 +2064,12 @@ def import_ytq_podcasts(client, yt_key: str, src_dir: Path, cutoff: datetime, ru
             "speaker": "" if is_unidentified(top.get("speaker") or "") else top.get("speaker", ""),
             "social_post": top.get("social_post", ""),
             "clip_count": len(quotes),
-            "date": publish_date(video),
-            "is_one_off": False,
-            "content_type": "podcast",
+            "date": day_dir.name,
+            "is_one_off": kind == "oneoff",
+            "content_type": kind,
             "run_id": rid,
         })
-    log(f"[podcasts] imported {len(items)} video(s) from the yt-quotes podcast rotation")
+    log(f"[podcasts] imported {imported} video(s) from yt-quotes (rotation + one-offs)")
     return items
 
 
@@ -2344,7 +2410,9 @@ def main() -> int:
     ytq_dir = os.getenv("YTQ_PODCAST_DIR") or ""
     if ytq_dir:
         try:
-            imported = import_ytq_podcasts(client, yt_key, Path(ytq_dir), cutoff, run_id=RUN_ID)
+            # re-filed videos (already posted earlier) are not news for this run's pages or Slack
+            imported = [it for it in import_ytq_podcasts(client, yt_key, Path(ytq_dir), cutoff, run_id=RUN_ID)
+                        if not it.get("refiled")]
         except Exception as e:   # never let the podcast import block the pressers
             log(f"[podcasts] import failed ({type(e).__name__}: {e})")
     if not queued and not imported:
