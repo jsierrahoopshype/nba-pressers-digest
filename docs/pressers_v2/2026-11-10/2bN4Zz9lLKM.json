@@ -1,0 +1,305 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | Jabari Walker | 11.10.26",
+  "speakers_seen": [
+    "Jabari Walker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jabari Walker",
+      "timestamp": "00:24",
+      "summary_phrase": "Jabari Walker on the excitement of playing against Paul George",
+      "names_mentioned": [
+        "Paul George"
+      ],
+      "excerpt": "It's like a bittersweet, you know, playing against him. I don't want him to have the best game.",
+      "quote": "It's like a bittersweet, you know, playing against him. I don't want him to have the best game against us, but besides that, I'm watching and I'm rooting for him. He's a great guy, so he has a great energy to have around. To see him on the opposite side is going to be a little interesting, even going through scout. It's like, dang, we're really playing against Paul George now, so it'll be fun. I can't wait to be honest.",
+      "text_blocks": [],
+      "start_seconds": 24,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Jabari Walker admits it will be interesting facing Paul George tonight: It is bittersweet because I am rooting for him but I do not want him to have the best game against us.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Paul George"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jabari Walker discusses his feelings about playing against Paul George in an upcoming game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jabari Walker",
+      "timestamp": "01:34",
+      "summary_phrase": "Jabari Walker on Paul George's professional routine and calm demeanor",
+      "names_mentioned": [
+        "Paul George"
+      ],
+      "excerpt": "He just stayed with his routine and even when there was times he got hot, he didn't force.",
+      "quote": "Honestly, it's just his routine. Being a star guy and having so many years in the league and having a name, but not needing to overdo it or overcompensate. He just stayed with his routine and even when there was times he got hot, he didn't really force anything. His game is just so smooth and I think that compliments to how he is as a person, just not forcing anything and just a calm energy.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Jabari Walker on what he has learned from Paul George: He does not need to overdo it or overcompensate. His game is just so smooth and that compliments his calm energy.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Paul George"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jabari Walker describes the professional routine and calm demeanor of Paul George.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jabari Walker",
+      "timestamp": "02:12",
+      "summary_phrase": "Jabari Walker on his brotherhood with teammate Jaylen Brown",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "I just feel like a brother, brotherhood. I met him before this, so that helps.",
+      "quote": "I just feel like a brother, brotherhood. I met him before this, so that helps. To have him here now, it's like we kind of had a little bit of a relationship before this and now it's just continuing. He's a great guy off the court, you know, that's how you know you got a real good teammate when you enjoy talking to him off the court more than even being on the court. So, somebody I can go to, trust criticism from him, always wants the best and he's just super competitive, so somebody I love going to battle with.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Jabari Walker on his bond with Jaylen Brown: You know you have a real good teammate when you enjoy talking to him off the court more than even being on the court.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jabari Walker discusses his close relationship and brotherhood with teammate Jaylen Brown.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jabari Walker",
+      "timestamp": "02:46",
+      "summary_phrase": "Jabari Walker reflects on playing with Damian Lillard in Portland",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "That felt like a playoff game to be honest. It felt like the fans were on the court.",
+      "quote": "Wow, you know, that brings back memories. That was a good game and I think I started that game actually. I remember being so nervous for that, the energy was crazy. That felt like a playoff game to be honest. It felt like the fans were on the court. So when you put that into perspective, it could be really crazy tonight because that was definitely a crazy experience. But you know, Portland loves Damian Lillard, so it was a crazy experience.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Jabari Walker recalls the intensity of playing with Damian Lillard in Portland: That felt like a playoff game to be honest. It felt like the fans were on the court.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "PHI",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Jabari Walker reflects on his past experience playing against Damian Lillard while in Portland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jabari Walker",
+      "timestamp": "03:47",
+      "summary_phrase": "Jabari Walker on Mitchell Robinson's skill as an offensive rebounder",
+      "names_mentioned": [
+        "Mitchell Robinson"
+      ],
+      "excerpt": "Just a big body first off and just strong. He's like maybe 300 pounds or something.",
+      "quote": "Just a big body first off and just strong. He's like maybe 300 pounds or something, feels like. Similar to Taco, honestly, boxing him out in practice, but just somebody you got to keep off the glass. It's a skill set, so it's definitely something you pay attention to and it's on the scout report.",
+      "text_blocks": [],
+      "start_seconds": 227,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jabari Walker on the challenge of facing Mitchell Robinson: He is a big body and just strong. He is like maybe 300 pounds or something. It is definitely something you pay attention to on the scout report.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mitchell Robinson"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jabari Walker discusses the physical challenge of boxing out Mitchell Robinson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jabari Walker",
+      "timestamp": "04:21",
+      "summary_phrase": "Jabari Walker on his career-high rebounding performances",
+      "names_mentioned": [],
+      "excerpt": "I think I've had some days in Portland that get a little overlooked because of the time.",
+      "quote": "It's definitely up there. I think I've had some days in Portland that get a little overlooked because of the time and just being in a market like that. But I don't think people realize I've had like 23, 25 rebounds in a game. That's my career high. So I've had some games if you go back, maybe 10 offensive rebounds in one game. So that's been me, but of course it's excel now. I'm stronger, more developed, smarter, so yeah.",
+      "text_blocks": [],
+      "start_seconds": 261,
+      "end_seconds": 292,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Jabari Walker says his rebounding numbers are sometimes overlooked: I do not think people realize I have had like 23, 25 rebounds in a game. That is my career high.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Jabari Walker reflects on his previous career-high rebounding performances during his time in Portland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jabari Walker",
+      "timestamp": "04:50",
+      "summary_phrase": "Jabari Walker on his mindset for crashing the offensive glass",
+      "names_mentioned": [],
+      "excerpt": "When your body is in shape and prepared for it, it doesn't matter. No one can stop you.",
+      "quote": "Just having the motivation to go and crash. I think I've always been good at it, but when your body is in shape and prepared for it, it doesn't matter. It just feels like no one can stop you and it's a mindset. It's not something that people want to deal with all game and understand that. People make little slick comments like, man, stop crashing, or man, I can't box you out. And I'm like, yeah, that's my job. So that's a respect thing and people remember that, so that's what I like to keep doing.",
+      "text_blocks": [],
+      "start_seconds": 290,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 7,
+      "social_post": "Jabari Walker on his rebounding mindset: People make little slick comments like man stop crashing or man I cannot box you out. And I am like yeah that is my job.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jabari Walker explains his aggressive mindset regarding crashing the offensive glass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jabari Walker",
+      "timestamp": "05:30",
+      "summary_phrase": "Jabari Walker on the impact of Mitchell Robinson on the Knicks",
+      "names_mentioned": [
+        "Mitchell Robinson"
+      ],
+      "excerpt": "We understand how impactful that is, especially me being an offensive rebounder.",
+      "quote": "We understand how impactful that is, especially me being an offensive rebounder and knowing that to give a great team like that extra possessions, it means a lot. So, trying to limit him as much as possible is the goal and not to be discouraged if he gets a couple or whatever because he's a big guy, but to make it extremely hard, tire him out and try to stick to the game plan.",
+      "text_blocks": [],
+      "start_seconds": 330,
+      "end_seconds": 358,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jabari Walker on the game plan for Mitchell Robinson: Trying to limit him as much as possible is the goal and not to be discouraged if he gets a couple because he is a big guy.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mitchell Robinson"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jabari Walker discusses the team's defensive strategy to limit Mitchell Robinson's impact on the boards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jabari Walker",
+      "timestamp": "06:44",
+      "summary_phrase": "Jabari Walker on the team's chemistry and lack of egos",
+      "names_mentioned": [],
+      "excerpt": "I don't think it would be possible without the personalities we have in the locker room.",
+      "quote": "I don't think it would be possible without the personalities we have in the locker room. If we had egos, it would be really hard, but these guys, credit to them, they just want to win. And a lot of people say that, but for it to align like it's doing, these guys stand on what they say and they mean it. As you can tell, we're all trying to figure out how to get people involved and who to play through, and guys are just bought in. They're just at a point in their career where they just understand that it takes a village.",
+      "text_blocks": [],
+      "start_seconds": 404,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jabari Walker on the 76ers chemistry: If we had egos it would be really hard but these guys just want to win. They are at a point in their career where they understand that it takes a village.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jabari Walker discusses the team's chemistry and the lack of egos in the locker room.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "2bN4Zz9lLKM",
+  "url": "https://www.youtube.com/watch?v=2bN4Zz9lLKM",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-10T17:11:47Z",
+  "duration_seconds": 472,
+  "processed_at": "2026-11-10T20:48:38Z",
+  "run_id": "2026-11-10T2047Z-14utc",
+  "is_one_off": false
+}

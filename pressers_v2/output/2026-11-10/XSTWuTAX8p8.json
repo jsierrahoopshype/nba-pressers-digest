@@ -1,0 +1,208 @@
+{
+  "video_title": "“We Got A Big Goal To Win The Championship” | Jaden McDaniels Practice Sound | 11.10.26",
+  "speakers_seen": [
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:05",
+      "summary_phrase": "Jaden McDaniels on the Timberwolves' defensive identity and communication",
+      "names_mentioned": [],
+      "excerpt": "we're contesting every shot so no one's getting an open shot",
+      "quote": "I'd say our fly around, we're flying around. Even if one of us makes a mistake, we got each other's back. And I'd say we're contesting every shot so no one's getting an open shot. And even if they do, we're running out there and trying to make them miss. We're just contesting everything. Our communication is at a real high level in terms of being able to help for each other.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels says the Timberwolves defensive identity is built on communication and flying around to contest every single shot.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses the defensive identity and communication of the Minnesota Timberwolves during practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:45",
+      "summary_phrase": "Jaden McDaniels on the key to improved ball movement",
+      "names_mentioned": [],
+      "excerpt": "don't matter who brings it up, who rebound, we could all push",
+      "quote": "Just sharing the ball. Don't matter who brings it up, who rebound, we could all push. And then just running into screens, pass-pass combinations, drive, driving kick, and just being not really tripping who gets the ball, who scores right now.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the Wolves offensive approach: it does not matter who brings the ball up or who scores as long as they keep sharing it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains the team's offensive philosophy regarding ball movement and selfless play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:17",
+      "summary_phrase": "Jaden McDaniels on his and Jaden McDaniels' defensive roles",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "it gives him more opportunities to show how good he is at defense",
+      "quote": "For Jaden McDaniels as well, just to give him more opportunities to show how good he is at defense. And then for me, I'm able to help rebound and just talk to them while I'm down the floor. If there's a screen coming, be able to yell it out for them. If they don't hear, we're just being like a quarterback out there.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels describes his role on defense as being like a quarterback for the team, calling out screens and helping his teammates stay organized.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels discusses his defensive role and coordination with his teammate Jaden McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:23",
+      "summary_phrase": "Jaden McDaniels on Jaden McDaniels' defensive growth",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "I haven't even known he could play defense like this",
+      "quote": "I've been impressed with Jaden McDaniels. Before, I haven't even known he could play defense like this, not like saying credit, but because he was always scoring on us and stuff. So I mean, it's good to see. It's another person where I don't got to guard like the Giannis's the whole game and stuff, like he has my back as well. So I've just been impressed and like he can continue to do well, so I'm happy for him too.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Jaden McDaniels admits he is impressed by his own defensive growth and says it is a relief to not have to guard players like Giannis for the entire game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIN",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels praises the defensive growth of his teammate Jaden McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:53",
+      "summary_phrase": "Jaden McDaniels on the team's championship goal",
+      "names_mentioned": [],
+      "excerpt": "we got a big goal to win the championship",
+      "quote": "We all want to win. We got a big goal to win the championship, so it's starting the habits early. And then through the middle of the year, playoffs, I feel like we'll be real in sync and just playing great basketball.",
+      "text_blocks": [],
+      "start_seconds": 173,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels says the Timberwolves are focused on building championship habits early in the season to ensure they are in sync by the playoffs.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels speaks about the team's collective goal to win an NBA championship this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "05:00",
+      "summary_phrase": "Jaden McDaniels on Trey Lyles' offensive impact",
+      "names_mentioned": [
+        "Trey Lyles"
+      ],
+      "excerpt": "Trey used to cook us the whole time",
+      "quote": "Trey used to cook us the whole time. Always hitting the clutch shots and stuff. So I already knew how Trey could be, so I'm impressed.",
+      "text_blocks": [],
+      "start_seconds": 300,
+      "end_seconds": 310,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Jaden McDaniels says he is not surprised by Trey Lyles offensive impact because Trey used to cook them all the time.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Lyles"
+        ],
+        "teams": [
+          "MIN",
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels shares his impressions of Trey Lyles' offensive capabilities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "XSTWuTAX8p8",
+  "url": "https://www.youtube.com/watch?v=XSTWuTAX8p8",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-10T20:10:16Z",
+  "duration_seconds": 450,
+  "processed_at": "2026-11-10T20:48:12Z",
+  "run_id": "2026-11-10T2047Z-14utc",
+  "is_one_off": false
+}

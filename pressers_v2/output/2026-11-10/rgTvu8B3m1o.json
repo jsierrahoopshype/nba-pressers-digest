@@ -1,0 +1,250 @@
+{
+  "video_title": "“[Trey] Is A Smart Guy” | Pablo Prigioni Practice Sound | 11.10.26",
+  "speakers_seen": [
+    "Pablo Prigioni"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "00:25",
+      "summary_phrase": "Pablo Prigioni on the Timberwolves' offensive evolution without Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "It's been super fun for me watching those clips because sometimes you go, we should make the right play",
+      "quote": "It's fun because I was telling the team this morning, and I actually shared with the players, I do the post-game offensively, and it's been super fun for me watching those clips because sometimes you go, we should make the right play here or there. I really like the way we're playing. The next action, the pace, the small-small, roll, small-small, peels, the way we are pushing in transition. There's a lot of things that we imagined that we can be doing early in the season, but actually it's happening. I think it's fun for the guys too. They realize that playing that way is fun.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni says the Timberwolves offensive evolution is fun to watch because the team is finally executing the complex actions they imagined early in the season.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Assistant coach Pablo Prigioni discusses the Timberwolves offensive evolution and playing style during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "01:08",
+      "summary_phrase": "Pablo Prigioni on the collective effort behind the Timberwolves' offensive success",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "When a team is playing well, it's not just for one guy. It's more a collective effort",
+      "quote": "When a team is playing well, it's not just for one guy. I think it's more a collective effort where it's running to the corner, if it's a pass back into a next action, if it's a swing-swing, it's getting in the paint and seeing the kick-outs. Obviously, Rudy Gobert is a big part because his passing ability, his pace, and the way he shares the ball with everybody.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni credits the Timberwolves offensive success to a collective effort and highlights Rudy Gobert as a key playmaker who shares the ball well.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni explains the collective nature of the Timberwolves offense and highlights the passing contributions of Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "02:01",
+      "summary_phrase": "Pablo Prigioni on developing the pick-and-roll chemistry between Rudy Gobert and LaMelo Ball",
+      "names_mentioned": [
+        "Rudy Gobert",
+        "LaMelo Ball"
+      ],
+      "excerpt": "We are working on that combo, pick-and-roll. We have some dynamic warm-up drills that we put them together",
+      "quote": "We are working on that combo, pick-and-roll. We have some dynamic warm-up drills that we put them together to get that chemistry. LaMelo Ball learned where Rudy Gobert goes, how he sets the screens, the angle of the screens, where it's easier to find Rudy. Sometimes you throw an early pocket to Rudy and you put him in a tough spot, so where is the perfect spot to find him? Obviously, the lobs. I think the lobs are going to be there. It's going to take a little time, but a lot of highway screens, highway seals, things that we can get a lot more out of those two playing pick-and-roll.",
+      "text_blocks": [],
+      "start_seconds": 121,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "The Timberwolves are using specific warm up drills to build pick and roll chemistry between LaMelo Ball and Rudy Gobert according to Pablo Prigioni.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni details the specific drills and coaching focus used to develop pick-and-roll chemistry between LaMelo Ball and Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "03:40",
+      "summary_phrase": "Pablo Prigioni on LaMelo Ball's aggressive decision-making and perimeter play",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "Every time LaMelo gets the ball early in the possession, I just hope that he goes",
+      "quote": "Every time LaMelo Ball gets the ball early in the possession, I just hope that he goes. It's pretty impressive how he speeds up, race people, and punch open gaps, and the ability to finish with that speed. That's not very common. When he's trying and he doesn't see any gap, he was able to just dribble back or dribble outside, pass the ball, and we get into the offense.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni on LaMelo Ball: It is pretty impressive how he speeds up and punches open gaps. His ability to finish with that speed is not very common.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni evaluates LaMelo Ball's decision-making and ability to attack gaps in the defense during early possessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "04:35",
+      "summary_phrase": "Pablo Prigioni on Trey's impact and his previous success against the Timberwolves",
+      "names_mentioned": [
+        "Trey"
+      ],
+      "excerpt": "I'm not very surprised because I have all these memories when he was in SAC",
+      "quote": "I'm not very surprised because I have all these memories when he was in SAC. He always played well against us. He always scored, he always gave us trouble. Last year, he was playing in Real Madrid. I'm a big European basketball fan, and actually I have a couple guys from the national team playing with Trey there, so I was able to watch a lot of his games. I'm glad that we have him. He's a smart guy, he knows how to play, he's going to the offensive glass pretty much every single time, getting those rebounds multiple times.",
+      "text_blocks": [],
+      "start_seconds": 275,
+      "end_seconds": 313,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Pablo Prigioni says he is not surprised by Trey's impact on the Timberwolves because he watched him play in Europe and remembers him giving them trouble when he was in Sacramento. He is a smart guy.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey"
+        ],
+        "teams": [
+          "MIN",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni shares his impressions of Trey's basketball IQ and rebounding ability based on his previous experience playing against him.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "05:32",
+      "summary_phrase": "Pablo Prigioni on the chemistry between LaMelo Ball and Rudy Gobert",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Rudy Gobert"
+      ],
+      "excerpt": "They complement each other pretty well. As a point guard, if I have a guy like LaMelo",
+      "quote": "They complement each other pretty well. As a point guard, especially me as a former point guard, if I have a guy like LaMelo Ball that you can advance the ball and he's going to go, it's a pleasure to play with those types of guys. Nobody is forcing and fighting the offense right now, which is a plus for the team. We are playing easy, we are making the play that is right in front of us, and LaMelo and Rudy Gobert are a big part of that.",
+      "text_blocks": [],
+      "start_seconds": 332,
+      "end_seconds": 366,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni says it is a pleasure to watch LaMelo Ball and Rudy Gobert play together because nobody is forcing the offense and they are making the right plays.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni discusses how LaMelo Ball and Rudy Gobert complement each other within the team's current offensive flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "06:27",
+      "summary_phrase": "Pablo Prigioni on the Timberwolves' defensive identity and collective effort",
+      "names_mentioned": [
+        "Rudy Gobert",
+        "Melo"
+      ],
+      "excerpt": "We have been a defensive team for many years right now and I think everybody bought in",
+      "quote": "We have been a defensive team for many years right now and I think everybody bought in on that. I think obviously Rudy Gobert is a big part, but we have multiple guys that are willing to sit down and guard and compete defensively. Melo is doing a lot of good things defensively where he's a low man and reads situation and help, or try to navigate screen, pursue guys, rearview contest, box out. It's a collective effort. Everybody is helping on that end and hopefully we can just keep building on that.",
+      "text_blocks": [],
+      "start_seconds": 387,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni praises the Timberwolves defensive identity and notes that LaMelo Ball is doing a lot of good things on that end of the floor.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert",
+          "Melo"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni reflects on the Timberwolves defensive identity and the individual contributions of Rudy Gobert and Melo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "rgTvu8B3m1o",
+  "url": "https://www.youtube.com/watch?v=rgTvu8B3m1o",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-10T20:10:50Z",
+  "duration_seconds": 444,
+  "processed_at": "2026-11-10T20:48:18Z",
+  "run_id": "2026-11-10T2047Z-14utc",
+  "is_one_off": false
+}

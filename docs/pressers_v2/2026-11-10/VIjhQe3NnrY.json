@@ -1,0 +1,66 @@
+{
+  "video_title": "Brayden Burries and Nate Ament Shootaround Media Availability | 11.10.26",
+  "speakers_seen": [
+    "Brayden Burries",
+    "Nate Ament"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brayden Burries",
+      "speakers": [
+        "Brayden Burries",
+        "Nate Ament"
+      ],
+      "timestamp": "01:13",
+      "summary_phrase": "Brayden Burries and Nate Ament on playing together as rookies",
+      "names_mentioned": [],
+      "excerpt": "going into something new with somebody that's around the same, that's gone through what you, it's pretty cool.",
+      "text_blocks": [
+        {
+          "speaker": "Brayden Burries",
+          "text": "I always say going into something new with somebody that's around the same, that's gone through what you, it's pretty cool. We're both coming from college, both pretty young, so for us to come into rookie year together is pretty cool."
+        },
+        {
+          "speaker": "Nate Ament",
+          "text": "Yeah, see, you get to learn from each other's mistakes and celebrate with each other, just enjoy our process together. It's just good to have another rookie with you."
+        }
+      ],
+      "start_seconds": 73,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Brayden Burries on the rookie experience with Nate Ament: It is pretty cool to come into the league together and learn from each other's mistakes while enjoying the process.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nate Ament"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brayden Burries discusses the experience of navigating his rookie season alongside fellow teammate Nate Ament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "VIjhQe3NnrY",
+  "url": "https://www.youtube.com/watch?v=VIjhQe3NnrY",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-10T18:42:34Z",
+  "duration_seconds": 121,
+  "processed_at": "2026-11-10T20:48:19Z",
+  "run_id": "2026-11-10T2047Z-14utc",
+  "is_one_off": false
+}
