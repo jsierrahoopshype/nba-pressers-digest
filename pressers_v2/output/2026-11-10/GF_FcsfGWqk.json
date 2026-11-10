@@ -1,0 +1,648 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Memphis Grizzlies | November 09, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "Jakob Poeltl",
+    "Jamal Shead"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:11",
+      "summary_phrase": "Darko Rajakovic on the team's transition scoring and offensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "I think it was a little bit more than four box score, I don't know if I really always trust",
+      "quote": "I think it was a little bit more than four box score, I don't know if I really always trust the box score. I'm not joking, I'm serious about this because a lot of times when you look at the box score it's 16 or 18 points, but the way we look in house and how transition is creating, I think it was a little bit more than that but definitely not as much as we used to get in transition. I think our big emphasis tonight, because they're the number one crashing team in the league, big emphasis was we have to finish possessions, which is not easy. They got 13 offensive rebounds, we did get 15 against them, so that might be the reason why we're not running even more.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors transition struggles against Memphis: I do not always trust the box score, but our transition scoring is definitely not where it used to be.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's transition scoring and offensive rebounding performance against the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:54",
+      "summary_phrase": "Darko Rajakovic on missing Scottie Barnes and Immanuel Quickley",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Immanuel Quickley"
+      ],
+      "excerpt": "when you miss couple of guys, like Scottie who is one man offense in transition and Quickley",
+      "quote": "When you miss couple of guys, like Scottie who is one man offense in transition and Quickley who is scoring a lot in transition, we did miss couple of guys tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic acknowledges the impact of missing key players: When you miss guys like Scottie Barnes and Immanuel Quickley, who are both one man offenses in transition, you definitely feel it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic explains how the absence of Scottie Barnes and Immanuel Quickley impacted the team's transition offense.",
+        "best": true,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:21",
+      "summary_phrase": "Darko Rajakovic on RJ Barrett's playmaking and handling defensive attention",
+      "names_mentioned": [
+        "RJ Barrett"
+      ],
+      "excerpt": "whatever defense throws at him, he's always trying to find the best options, best solutions",
+      "quote": "Whatever defense throws at him, he's always trying to find the best options, best solutions. I thought tonight that his playmaking was really good as well, that he was finding his teammates. Some of those shots we did not knock down, but I think it's good for him. I think it's good for him that anytime when he has more attention and better defensive players, or like tonight, blitzing him in some pick and rolls, I think that's great for him and his development for our team development.",
+      "verbatim_original_language": "",
+      "start_seconds": 81,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on RJ Barrett handling defensive pressure: I think it is great for his development that he is seeing more attention and teams blitzing him in pick and rolls.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic praises RJ Barrett for his playmaking and ability to handle defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:07",
+      "summary_phrase": "Darko Rajakovic on the team's resilience and lack of excuses",
+      "names_mentioned": [],
+      "excerpt": "I'm learning that this group is never looking for excuses, doesn't matter who's playing or not playing",
+      "quote": "I'm learning that this group is never looking for excuses, doesn't matter who's playing or not playing for us. None of us are looking for the excuses, we are always looking for what's ahead of us and we accept the challenge and they're looking forward for that challenge.",
+      "verbatim_original_language": "",
+      "start_seconds": 127,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors mentality: I am learning that this group is never looking for excuses. It does not matter who is playing or not playing for us.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on the team's resilience and refusal to use injuries as an excuse.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:42",
+      "summary_phrase": "Darko Rajakovic on Jamal Shead's conditioning and role",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "Jamal Shead playing 35 minutes a night, that's going to help his conditioning",
+      "quote": "Jamal Shead playing 35 minutes a night, that's going to help his conditioning, that's going to help him when he is in his role and coming off the bench that he is going to handle those 20 or 25 minutes in a high, high level.",
+      "verbatim_original_language": "",
+      "start_seconds": 162,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on Jamal Shead playing 35 minutes: That is going to help his conditioning and prepare him to handle his role at a high level when he comes off the bench.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses how increased minutes are helping Jamal Shead's conditioning and development.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:34",
+      "summary_phrase": "Darko Rajakovic on Jamal Shead's progress this season",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "he started the season a little bit slow, but I think like anybody else on our team",
+      "quote": "He started the season a little bit slow, but I think like anybody else on our team, finding the rhythm, finding the role, finding the edge, how he can help the team and now he's doing that. I think those couple of games, last couple of games when he had a little bit more extended minutes and bigger role on the team, he's really shining in those moments.",
+      "verbatim_original_language": "",
+      "start_seconds": 214,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on Jamal Shead: He started the season a little bit slow, but he is finding his rhythm and his edge. He is really shining in these moments.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on Jamal Shead's progress and increased role throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:19",
+      "summary_phrase": "Darko Rajakovic on Jakob Poeltl's health and rhythm",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "I think it's simple as that that he's healthier and that he's finding more rhythm",
+      "quote": "I think it's simple as that that he's healthier and that he's finding more rhythm and more groove through those games. I think he was very positive tonight, he had that pop and I think when he plays more and more of those games that his game is just going to continue to rise.",
+      "verbatim_original_language": "",
+      "start_seconds": 259,
+      "end_seconds": 280,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on Jakob Poeltl: He is healthier and finding more rhythm. He had that pop tonight and I think his game is just going to continue to rise.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic attributes Jakob Poeltl's improved performance to better health and rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:46",
+      "summary_phrase": "Darko Rajakovic on managing Jakob Poeltl's minutes",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "because he's so important for us, we decide to keep him on the floor even when he's tired",
+      "quote": "Because he's so important for us, we decide to keep him on the floor even when he's tired. Naturally that sub is going to come and he's playing through fatigue a lot. I don't see that defense is doing anything different or better. He's going to miss layup or shot, I think all of that is part of just in those moments him being tired.",
+      "verbatim_original_language": "",
+      "start_seconds": 286,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on managing Jakob Poeltl: He is so important for us that we keep him on the floor even when he is tired. He is playing through fatigue a lot.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the decision to keep Jakob Poeltl on the floor despite fatigue.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "06:08",
+      "summary_phrase": "Darko Rajakovic on Gradey Dick's performance as a rookie",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "for a rookie to step on the floor and to play those minutes I think it's super important",
+      "quote": "For a rookie to step on the floor and to play those minutes I think it's super important. Anytime when a rookie can get on the court and get those important minutes, I think it helps to get more video, to get more evidence, more areas for us to focus and to work on.",
+      "verbatim_original_language": "",
+      "start_seconds": 368,
+      "end_seconds": 389,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on Gradey Dick: For a rookie to step on the floor and play these minutes is super important. It gives us more evidence and areas to focus on.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the importance of playing time for rookie Gradey Dick's development.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "z2ZESUNQwF4",
+        "rank": 10
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamal Shead",
+      "timestamp": "07:19",
+      "summary_phrase": "Jamal Shead on the team's next-man-up mentality",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "obviously those are really important pieces for us and really important guys to our team",
+      "quote": "Obviously those are really important pieces for us and really important guys to our team, but when they're out, you know we just next man up. So a lot of opportunity and we get excited for it.",
+      "verbatim_original_language": "",
+      "start_seconds": 439,
+      "end_seconds": 453,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the Raptors injury situation: Those are important pieces for us, but when they are out, it is next man up. We get excited for the opportunity.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the team's next-man-up mentality while dealing with player absences.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "9bx8mdfvsHk",
+        "rank": 1
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamal Shead",
+      "timestamp": "07:46",
+      "summary_phrase": "Jamal Shead on developing chemistry with Jakob Poeltl",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "we watch film, if he sees anything and he's watching film, he brings it to me",
+      "quote": "We watch film, if he sees anything and he's watching film, he brings it to me on on the plane, hotel, whatever. I do the same to him. We had a lot of great conversation during the game just about where he's going to be, especially when I take off. Just just communication.",
+      "verbatim_original_language": "",
+      "start_seconds": 466,
+      "end_seconds": 486,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on his chemistry with Jakob Poeltl: We watch film together on the plane or at the hotel. We have great conversations during the game about where he is going to be.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley describes how he and Jakob Poeltl build chemistry by watching film together.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "9bx8mdfvsHk",
+        "rank": 3
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 12,
+      "speaker": "Jamal Shead",
+      "timestamp": "08:37",
+      "summary_phrase": "Jamal Shead on building confidence",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "RJ Barrett"
+      ],
+      "excerpt": "building confidence, I think it's helped my confidence these past two games for sure",
+      "quote": "Building confidence, I think it's helped my confidence these past two games for sure. Just going out there knowing I'm going to play a lot, knowing I have to produce, knowing that these guys are depending on me so it makes me go a little harder, play a little harder. Building confidence for Jakob, for RJ. I think RJ's been playing really big minutes and he's been doing pretty well.",
+      "verbatim_original_language": "",
+      "start_seconds": 517,
+      "end_seconds": 544,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on his recent play: It has helped my confidence knowing I am going to play a lot and that these guys are depending on me. It makes me go a little harder.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl",
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley discusses how increased responsibility is building his confidence and impacting his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "9bx8mdfvsHk",
+        "rank": 4
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 13,
+      "speaker": "Jamal Shead",
+      "timestamp": "10:01",
+      "summary_phrase": "Jamal Shead on his playmaking and creating for others",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "once I do get downhill, I'm trying to create for others. So if say Gradey's with that",
+      "quote": "Once I do get downhill, I'm trying to create for others. So if say Gradey's with that, rescreen, rescreen, rescreen, I get off the ball and Gradey's the next guy that I'm throwing it to and he get to make a play. I think that's just going to add fuel to us. Me being aggressive is going to add fuel to us, they won't be able to just load up on Scottie, load up on Kawhi, load up on IQ.",
+      "verbatim_original_language": "",
+      "start_seconds": 601,
+      "end_seconds": 632,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on his playmaking: Once I get downhill, I am trying to create for others. Me being aggressive is going to add fuel to us.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick",
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley explains his approach to playmaking and creating opportunities for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "9bx8mdfvsHk",
+        "rank": 6
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 14,
+      "speaker": "Jamal Shead",
+      "timestamp": "10:41",
+      "summary_phrase": "Jamal Shead on receiving feedback from teammates",
+      "names_mentioned": [
+        "Gradey Dick",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "Gradey talks the whole game, Gradey's basically another coach out there and standing up and yelling",
+      "quote": "Gradey talks the whole game, Gradey's basically another coach out there and standing up and yelling the whole game. Quick will give me a insider too, Kawhi's been very vocal, so I think those guys really want to be out there and that's a really big key for us, but they're really engaged with us regardless of if they're out there or not and that's really helpful.",
+      "verbatim_original_language": "",
+      "start_seconds": 641,
+      "end_seconds": 667,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Immanuel Quickley on sideline leadership: Gradey Dick is basically another coach out there yelling the whole game. It is really helpful that the guys who are out are still so engaged.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley highlights the vocal support and engagement of injured teammates.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "9bx8mdfvsHk",
+        "rank": 7
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 15,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "11:46",
+      "summary_phrase": "Jakob Poeltl on the benefits of playing different roles",
+      "names_mentioned": [],
+      "excerpt": "I think just for for some of the guys to be out there and take on some different roles",
+      "quote": "I think just for for some of the guys to be out there and take on some different roles, learning how to deal with with these type of situations like really like developing through through those experiences can definitely help you.",
+      "verbatim_original_language": "",
+      "start_seconds": 706,
+      "end_seconds": 722,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jakob Poeltl on the team dealing with injuries: For some of the guys to be out there and take on different roles, developing through those experiences can definitely help you.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl discusses the benefits of players stepping into different roles due to injuries.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "sb1F3GVweTw",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "12:24",
+      "summary_phrase": "Jakob Poeltl on his chemistry with Jamal Shead",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "we've had a couple conversations especially like honestly this season about like what works for us",
+      "quote": "We've had a couple conversations especially like honestly this season about like what works for us and what what doesn't work for us. Generally I'd say like it's pretty it comes pretty naturally at least from my side. Like the way he plays like that like fast downhill style like just opens up the defense and gives me the opportunity like because the pass comes quick it like gives me the opportunity for quick finishes and floaters and stuff like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 744,
+      "end_seconds": 775,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jakob Poeltl on his chemistry with Jamal Shead: The way he plays that fast downhill style opens up the defense and gives me the opportunity for quick finishes.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jakob Poeltl explains the natural chemistry he has developed with Jamal Shead on the court.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "sb1F3GVweTw",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "13:15",
+      "summary_phrase": "Jakob Poeltl on his offensive role during short-handed games",
+      "names_mentioned": [],
+      "excerpt": "I feel like it's it's just depends like on on who's who's out there for us",
+      "quote": "I feel like it's it's just depends like on on who's who's out there for us, like what our offensive game plan looks like. In some of these games lately, especially like the last one and this one, we just don't have as many like creators out there. So I feel like I have to do a little bit more. In other games we have a lot of guys out there that can make stuff happen and and I feel like I take more of a passive role. So it's really like it depends on on the kind of lineups we have and like the our like general strategy we have for the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 795,
+      "end_seconds": 839,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jakob Poeltl on his role: In games where we do not have as many creators, I feel like I have to do a little bit more. It really depends on the lineups we have.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl discusses how his offensive role changes based on the available lineup and strategy.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "sb1F3GVweTw",
+        "rank": 3
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "GF_FcsfGWqk",
+  "url": "https://www.youtube.com/watch?v=GF_FcsfGWqk",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-10T04:22:46Z",
+  "duration_seconds": 928,
+  "processed_at": "2026-11-10T04:27:22Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

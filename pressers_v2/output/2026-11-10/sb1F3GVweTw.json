@@ -1,0 +1,128 @@
+{
+  "video_title": "Jakob Poeltl | Post Game at  Memphis Grizzlies | November 09, 2026",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jakob Poeltl"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "00:00",
+      "summary_phrase": "Jakob Poeltl on the benefits of playing different rotations and roles",
+      "names_mentioned": [],
+      "excerpt": "Obviously. I think just for some of the guys to be out there and take on some different roles, learning",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Having to play with different rotations, different players, different teams, can it help you in the long term?"
+        },
+        {
+          "speaker": "Jakob Poeltl",
+          "text": "Obviously. I think just for some of the guys to be out there and take on some different roles, learning how to deal with these type of situations, really developing through those experiences can definitely help you."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jakob Poeltl"
+      ],
+      "reporter_split": true,
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jakob Poeltl says playing through different rotations and roles is a learning experience that will help the younger Raptors develop in the long term.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl discusses the long-term benefits of playing with different rotations and roles during a post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "00:36",
+      "summary_phrase": "Jakob Poeltl on his developing on-court chemistry with Jamal Shead",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "the way he plays, that fast downhill style, just opens up the defense",
+      "quote": "We have had a couple conversations, especially this season, about what works for us and what doesn't work for us. Generally, I'd say it comes pretty natural, at least from my side. The way he plays, that fast downhill style, just opens up the defense and gives me the opportunity, because the pass comes quick, it gives me the opportunity for quick finishes and floaters and stuff like that. I think a lot of it is honestly just natural, good matchup for us.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jakob Poeltl says his chemistry with Jamal Shead comes naturally because Shead's fast downhill style creates quick finishing opportunities for him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jakob Poeltl explains how his on-court chemistry with teammate Jamal Shead develops naturally during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "01:31",
+      "summary_phrase": "Jakob Poeltl on his offensive rhythm while playing short-handed",
+      "names_mentioned": [],
+      "excerpt": "I feel like it just depends on who is out there for us, what our offensive game plan looks like",
+      "quote": "I feel like it just depends on who is out there for us, what our offensive game plan looks like. In some of these games lately, especially the last one and this one, we just don't have as many creators out there, so I feel like I have to do a little bit more. In other games, we have a lot of guys out there that can make stuff happen and I feel like I take more of a passive role. So it's really just depends on the kind of lineups we have and the general strategy we have for the game.",
+      "text_blocks": [],
+      "start_seconds": 91,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jakob Poeltl explains that his offensive role changes based on the lineup, noting he has to do more when the team is short on creators.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jakob Poeltl explains how his offensive role changes based on the available lineup and the team's game plan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "sb1F3GVweTw",
+  "url": "https://www.youtube.com/watch?v=sb1F3GVweTw",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-10T04:11:13Z",
+  "duration_seconds": 240,
+  "processed_at": "2026-11-10T04:27:16Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

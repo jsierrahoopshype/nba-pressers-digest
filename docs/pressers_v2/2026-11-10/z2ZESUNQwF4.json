@@ -1,0 +1,348 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at  Memphis Grizzlies | November 09, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:10",
+      "summary_phrase": "Darko Rajakovic on the team's transition scoring and box score reliability",
+      "names_mentioned": [],
+      "excerpt": "I don't know if I really always trust the box score.",
+      "quote": "If it was a little bit more than four, box score, I don't know if I really always trust the box score. I'm not joking, I'm serious about this because a lot of times when you look at the box score, it's 16 or 18 points, but the way we look in house and what transition is creating, so I think it was a little bit more than that, but definitely not as much as we used to get in transition.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic admits he does not always trust the box score when evaluating his team's transition performance, saying the eye test often reveals more than the numbers suggest.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Head coach Darko Rajakovic discusses the team's transition scoring and his skepticism regarding box score statistics after the game against the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:35",
+      "summary_phrase": "Darko Rajakovic on the team's rebounding and finishing possessions",
+      "names_mentioned": [
+        "Scotty"
+      ],
+      "excerpt": "Our big emphasis tonight because they're the number one crashing team in the league.",
+      "quote": "Our big emphasis tonight because they're the number one crashing team in the league, big emphasis was like we have to finish possessions and which is not easy. They got 13 offensive rebounds, we did get 15 against them, so that might be the reason why we're not running even more. Plus, when you miss a couple of guys like Scotty who is one man offense in transition and Quickley who is scoring a lot in transition, we have been missing a couple of guys tonight.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic notes the Raptors are missing key transition threats like Scottie Barnes and Immanuel Quickley, which has impacted the team's ability to run the floor effectively.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR",
+          "MEM"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic explains how missing Scottie Barnes and Immanuel Quickley impacted the team's transition offense and rebounding efforts against the Memphis Grizzlies.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:21",
+      "summary_phrase": "Darko Rajakovic on RJ Barrett's playmaking and defensive attention",
+      "names_mentioned": [
+        "RJ"
+      ],
+      "excerpt": "Whatever defense throws at him, he's always trying to find the best options, best solutions.",
+      "quote": "We absolutely know what RJ can bring to the table every single night and he's doing that. Whatever defense throws at him, he's always trying to find the best options, best solutions. I thought tonight that his playmaking was really good as well, that he was finding his teammates. Some of those shots we did not knock down, but I think it's good for him. I think it's good for him that anytime when he has more attention and better defensive players or like tonight, blitzing him in some pick and rolls, I think that's great for him and his development for our team development.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic praises RJ Barrett for his playmaking under pressure, noting that the extra defensive attention and blitzing Barrett faces is great for his long term development.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic praises RJ Barrett's playmaking ability and his response to increased defensive attention during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:07",
+      "summary_phrase": "Darko Rajakovic on the team's resilience and lack of excuses",
+      "names_mentioned": [],
+      "excerpt": "I'm learning that this group is never looking for excuses.",
+      "quote": "I'm learning that this group is never looking for excuses. Doesn't matter who's playing or not playing for us, none of us are looking for excuses. We are always looking for what's ahead of us and we accept the challenge and they're looking forward for that challenge. Tonight, I thought that our team, our guys gave it all. They really fought during the 48 minutes against good opponent, good team. I'm really happy how those guys step on the floor and cover for each other and help each other and play hard for each other.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says he is proud of his team's resilience, stating that this group is never looking for excuses regardless of who is available to play.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on the team's resilience and refusal to use injuries as an excuse for their performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:42",
+      "summary_phrase": "Darko Rajakovic on managing player load and conditioning during injuries",
+      "names_mentioned": [
+        "Jamal Shead",
+        "Kyle Anderson",
+        "Elijah"
+      ],
+      "excerpt": "Jamal Shead playing 35 minutes a night, that's going to help his conditioning.",
+      "quote": "Anytime when the team goes through stretch when you have guys that are injured, there is more load, more minutes, more everything for other guys. Jamal Shead playing 35 minutes a night, that's going to help his conditioning. That's going to help him when he is in his role and coming off the bench that he's going to handle those 20 or 25 minutes in a high, high level. We are learning how other guys can help. I thought that Kyle Anderson had good minutes there on the court for us. Elijah, let's find continuity. He had a great game last game, let's find it continuity now, bounce back and be able and consistent.",
+      "text_blocks": [],
+      "start_seconds": 162,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic believes the heavy minutes Jamal Shead is playing due to injuries will pay off for his conditioning and development once the rotation returns to full strength.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Shead",
+          "Kyle Anderson",
+          "Elijah"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic discusses managing player load and conditioning for Jamal Shead, Kyle Anderson, and Elijah due to the team's current injury situation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:30",
+      "summary_phrase": "Darko Rajakovic on Jamal Shead's performance and development",
+      "names_mentioned": [
+        "Jamal Shead"
+      ],
+      "excerpt": "He started the season a little bit slow, but I think like anybody else on our team.",
+      "quote": "He started the season a little bit slow, but I think like anybody else on our team, finding the rhythm, finding the role, finding the edge, how he can help the team and now he's doing that. I think those couple of games, last couple of games when he had a little bit more extended minutes and bigger role on the team, he's really shining in those moments. He embraces the moment, he embraces the challenge that's ahead of him and he's doing a great job.",
+      "text_blocks": [],
+      "start_seconds": 210,
+      "end_seconds": 243,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic says Jamal Shead is really shining in his expanded role, noting that the rookie has embraced the challenge and is finding his rhythm on the floor.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates Jamal Shead's growth and performance after the rookie took on a larger role in recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:06",
+      "summary_phrase": "Darko Rajakovic on Jakob Poeltl's defensive activity and health",
+      "names_mentioned": [
+        "Jakob"
+      ],
+      "excerpt": "I think it's simple as that that he's healthier and that he's finding more rhythm.",
+      "quote": "I think it's simple as that that he's healthier and that he's finding more rhythm and more groove through those games. So I think he was very positive tonight, he had that pop and I think when he plays more and more of those games that his game is just going to continue to rise.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says Jakob Poeltl is looking healthier and finding more rhythm, expecting his game to continue to rise as he logs more minutes.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic notes that Jakob Poeltl is playing better as he recovers his health and finds his rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:37",
+      "summary_phrase": "Darko Rajakovic on Jakob Poeltl's heavy minutes and fatigue",
+      "names_mentioned": [
+        "Jakob"
+      ],
+      "excerpt": "He's playing a lot of minutes and a lot of times, because he's so important for us.",
+      "quote": "He's playing a lot of minutes and a lot of times, because he's so important for us, we decide to keep him on the floor even when he's getting a little bit tired. Naturally, that sub is going to come and he's playing through fatigue a lot. I don't see that defense is doing anything different or better. He's going to miss a layup or shot, I think all of that is part of just in those moments him being tired. We see his productivity when he starts the game and his productivity when he's subbing back in a game, he's much productive in those minutes, but when we are undermanned, we got to run him more through this and I think his conditioning and preparation is just getting better.",
+      "text_blocks": [],
+      "start_seconds": 277,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic explains that Jakob Poeltl is playing through fatigue due to the team being undermanned, which is impacting his efficiency at the rim.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains that Jakob Poeltl's late-game struggles are due to fatigue from playing heavy minutes while the team is shorthanded.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "05:34",
+      "summary_phrase": "Darko Rajakovic on Jakob Poeltl's screen setting and playmaking",
+      "names_mentioned": [
+        "Jakob"
+      ],
+      "excerpt": "Not necessarily tonight, the team was setting to the screen everything.",
+      "quote": "Not necessarily tonight, the team was setting to the screen everything, and also when he goes to his right hand, that allows him to snake back and go to back to his left hand. Plus, so far this year, he's pretty efficient going to the right hand and playmaking and from from there.",
+      "text_blocks": [],
+      "start_seconds": 334,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Darko Rajakovic breaks down Jakob Poeltl's playmaking, noting his efficiency when attacking to his right hand and his ability to snake back to his left.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses Jakob Poeltl's technical improvements in screen setting and his efficiency when attacking with his right hand.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "05:59",
+      "summary_phrase": "Darko Rajakovic on rookie Jaden Bradley's performance",
+      "names_mentioned": [
+        "Jaden Bradley"
+      ],
+      "excerpt": "For a rookie to step on the floor and to play those minutes, I think it's super important.",
+      "quote": "For a rookie to step on the floor and to play those minutes, I think it's super important. Anytime when a rookie can get on the court and get those important minutes, I think it helps to to get more video, to get more evidence, more areas for us to focus and to work on. I thought that he played with a lot of energy, I think that he was trying to to touch the paint and the playmake from there. I told him in the game there like he's got to just have a good balance when to playmake because he's attacking with a lot of force and when defense is collapsing to him, he needs to make some of those earlier passes instead of like stopping in the paint and allowing the size over there to play a factor against him.",
+      "text_blocks": [],
+      "start_seconds": 359,
+      "end_seconds": 413,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says rookie Jaden Bradley is gaining valuable experience, but needs to work on his balance between attacking the paint and making earlier passes to avoid defensive pressure.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden Bradley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the importance of rookie Jaden Bradley receiving significant playing time for his development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "z2ZESUNQwF4",
+  "url": "https://www.youtube.com/watch?v=z2ZESUNQwF4",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-10T04:02:15Z",
+  "duration_seconds": 413,
+  "processed_at": "2026-11-10T04:27:52Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

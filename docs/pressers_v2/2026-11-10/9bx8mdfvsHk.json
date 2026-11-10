@@ -1,0 +1,284 @@
+{
+  "video_title": "Jamal Shead | Post Game at  Memphis Grizzlies | November 09, 2026",
+  "speakers_seen": [
+    "Jamal Shead"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:09",
+      "summary_phrase": "Jamal Shead on the opportunity created by teammates' absences",
+      "names_mentioned": [],
+      "excerpt": "When they're out, it's just next man up. So a lot of opportunity and we get excited for it.",
+      "quote": "It's exciting. I think it's a lot of opportunity. I think a lot of guys wait for those opportunities and are just ready to play. Obviously, those are really important pieces for us and really important guys to our team, but when they're out, it's just next man up. So a lot of opportunity and we get excited for it.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the Raptors dealing with injuries: It is a lot of opportunity. A lot of guys wait for those opportunities and are just ready to play. It is just next man up.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead discusses how the team is adjusting to the absence of key players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:33",
+      "summary_phrase": "Jamal Shead on compensating for missing key defensive players",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Colin",
+        "Kawhi"
+      ],
+      "excerpt": "Obviously Scottie is a DPOY candidate any night that he's on the floor. Colin is a really good defender.",
+      "quote": "Obviously Scottie is a DPOY candidate any night that he's on the floor. Colin is a really good defender. Kawhi is a really good defender. And then quick shooting and his spacing and his ability to playmake, the things that those guys bring, obviously we miss them, but we try to compensate and make up for it by moving the ball or just playing harder, just getting after it a little bit more.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Shead on missing key defenders like Scottie Barnes and Kawhi Leonard: We try to compensate and make up for it by moving the ball or just playing harder, just getting after it a little bit more.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Colin",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Jamal Shead explains how the team is compensating for the defensive absences of Scottie Barnes, Colin, and Kawhi Leonard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:13",
+      "summary_phrase": "Jamal Shead on developing chemistry with big men",
+      "names_mentioned": [],
+      "excerpt": "We had a lot of great conversation during the game just about where he's going to be.",
+      "quote": "Just talking it out. We watch film. If he sees anything and he's watching film, he brings it to me on the plane, hotel, whatever. I do the same to him. We had a lot of great conversation during the game just about where he's going to be, especially when I take off. Just communication. And then obviously, he's very mobile and he can kind of handle the ball. He's really smart, his IQ is there, so when I move, he usually moves. So it's pretty easy playing with him.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamal Shead on building chemistry with his big men: We watch film. If he sees anything, he brings it to me on the plane, hotel, whatever. I do the same to him. Just communication.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead describes how he develops chemistry and communication with his teammates on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:47",
+      "summary_phrase": "Jamal Shead on building confidence through increased playing time",
+      "names_mentioned": [
+        "Jacobe",
+        "Allen"
+      ],
+      "excerpt": "It's helped my confidence these past two games for sure. Just going out there, knowing I'm going to play.",
+      "quote": "It's helped my confidence these past two games for sure. Just going out there, knowing I'm going to play a lot, knowing I have to produce, knowing that these guys are depending on me, so it makes me go a little harder, play a little harder. Building the confidence for Jacobe, for Allen. I think Allen's been playing really big minutes and he's been doing pretty well, just going out there and battling. I think we had a really good team night because we didn't give up.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead on his recent uptick in minutes: It has helped my confidence these past two games for sure. Knowing I am going to play a lot, knowing I have to produce, knowing that these guys are depending on me makes me go a little harder.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jacobe",
+          "Allen"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead reflects on how increased playing time has boosted his confidence and that of his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Shead",
+      "timestamp": "02:41",
+      "summary_phrase": "Jamal Shead on finding his rhythm and shooting confidence",
+      "names_mentioned": [],
+      "excerpt": "Once you get into a feel and you start to get into a rhythm, basketball is just basketball.",
+      "quote": "Once you get into a feel and you start to get into a rhythm, basketball is just basketball. I think that I'm pretty much out of my head and I'm looking forward to the next game and seeing what we can build off of this.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamal Shead on finding his rhythm: Once you get into a feel and you start to get into a rhythm, basketball is just basketball. I am pretty much out of my head and looking forward to the next game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead discusses finding his rhythm and mindset after recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Shead",
+      "timestamp": "03:11",
+      "summary_phrase": "Jamal Shead on creating for others while playing downhill",
+      "names_mentioned": [
+        "Scottie"
+      ],
+      "excerpt": "Once I do get downhill, I'm trying to create for others. So if Scottie's with that, rescreen, rescreen.",
+      "quote": "The biggest thing is just understanding that when I do have those and they're under, under, under, once I do get downhill, I'm trying to create for others. So if Scottie's with that, rescreen, rescreen, rescreen, I get off the ball and Scottie is the next guy that I'm throwing it to and he get to make a play. I think that's just going to add fuel to us. Me being aggressive is going to add fuel to us. They won't be able to just load up on Scottie, load up on Kawhi, load up on IQ.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Shead on his role as a playmaker: The biggest thing is understanding that when I do get downhill, I am trying to create for others. Me being aggressive is going to add fuel to us.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead explains his strategy for playing downhill and creating opportunities for teammates like Scottie Barnes and Kawhi Leonard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamal Shead",
+      "timestamp": "03:48",
+      "summary_phrase": "Jamal Shead on receiving vocal feedback from teammates",
+      "names_mentioned": [
+        "Scottie",
+        "Quick",
+        "Kawhi"
+      ],
+      "excerpt": "Scottie talks the whole game. Scottie's basically another coach out there.",
+      "quote": "Scottie talks the whole game. Scottie's basically another coach out there standing up and yelling the whole game. Quick will give me an insider too. Kawhi's been very vocal. I think those guys really want to be out there and that's a really big key for us, but they're really engaged with us regardless of if they're out there or not and that's really helpful.",
+      "text_blocks": [],
+      "start_seconds": 228,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jamal Shead on the leadership of his sidelined teammates: Scottie is basically another coach out there standing up and yelling the whole game. They are really engaged with us regardless of if they are out there or not.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead describes the vocal leadership and engagement provided by injured teammates during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamal Shead",
+      "timestamp": "04:23",
+      "summary_phrase": "Jamal Shead on how increased minutes impact his defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "The more minutes I've been playing, I've kind of took off the gas a little bit on the defensive side.",
+      "quote": "The more minutes I've been playing, I've kind of took off the gas a little bit on the defensive side because I got to do a little bit more on offense. I think once those guys come back, I get to do what I do best and go guard the ball, go get after it.",
+      "text_blocks": [],
+      "start_seconds": 263,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamal Shead admits he has had to pace himself defensively while carrying a heavier offensive load: The more minutes I have been playing, I have kind of took off the gas a little bit on the defensive side.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead discusses how his increased offensive workload has impacted his defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "9bx8mdfvsHk",
+  "url": "https://www.youtube.com/watch?v=9bx8mdfvsHk",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-10T04:12:18Z",
+  "duration_seconds": 282,
+  "processed_at": "2026-11-10T04:27:10Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

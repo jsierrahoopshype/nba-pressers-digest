@@ -1,0 +1,177 @@
+{
+  "video_title": "Hawks vs. Lakers Postgame Press Conference: Dyson Daniels",
+  "speakers_seen": [
+    "Dyson Daniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dyson Daniels",
+      "timestamp": "00:00",
+      "summary_phrase": "Dyson Daniels on the challenge of guarding Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic",
+        "William",
+        "Sandro",
+        "Sexton",
+        "Lauri Markkanen"
+      ],
+      "excerpt": "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass.",
+      "quote": "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass. Sandro made some big shots, Sexton made big shots, Lauri Markkanen made big shots. I feel like if that's the game plan they're trying to give that up, then they did a good job of executing out of our blitzes and stuff like that. I mean, I think we hurt ourselves a little bit too tonight.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dyson Daniels on the challenge of defending Luka Doncic: Luka is probably the best guy in the NBA right now and he is willing to pass. We hurt ourselves tonight by giving up big shots to his teammates out of our blitzes.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic",
+          "Sandro Mamukelashvili",
+          "Collin Sexton",
+          "Lauri Markkanen"
+        ],
+        "teams": [
+          "ATL",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels discusses the defensive challenges posed by Luka Doncic and the contributions of other Utah Jazz players during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dyson Daniels",
+      "timestamp": "00:45",
+      "summary_phrase": "Dyson Daniels on the team's late-game defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "We started playing slow. And they're very good at loading up on drives and being in the passing lanes.",
+      "quote": "We started playing slow. And they're very good at loading up on drives and being in the passing lanes and they made us take tough shots. And then down the other end, we couldn't get stops. That's a big thing. We need to get stops to get out and run. But I think we just slowed down our pace in that last couple of minutes when the game was on the line and gave up too much easy stuff on the other end.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dyson Daniels says the team struggled late because they started playing slow. We need to get stops to get out and run but we slowed down our pace when the game was on the line and gave up too much easy stuff.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels reflects on the team's offensive pace and defensive failures during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dyson Daniels",
+      "timestamp": "01:15",
+      "summary_phrase": "Dyson Daniels on the team's collective effort to guard Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "Luka is, you can't guard him with one guy. He's going to get to his step-back.",
+      "quote": "Luka is, you can't guard him with one guy. He's going to get to his step-back, which he's shooting 40-something percent on this year, and he's really good at getting in the lane to get fouls. So it's a team effort. We got to be there for each other. I thought we did a pretty good job on him tonight, but there was other guys that really hurt us with those big shots that they made.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "You cannot guard Luka Doncic with one guy. Dyson Daniels explains that the defensive plan was a team effort to limit his step-back and ability to draw fouls, even though other players hurt them with big shots.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels explains the team's defensive strategy for containing Luka Doncic and acknowledges the impact of his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dyson Daniels",
+      "timestamp": "02:17",
+      "summary_phrase": "Dyson Daniels on his increased defensive aggression this season",
+      "names_mentioned": [],
+      "excerpt": "I just think I've been more aggressive on the defensive end. Last year I was a little bit more passive.",
+      "quote": "I just think I've been more aggressive on the defensive end. Last year I was a little bit more passive. This year I'm trying to be more aggressive on the ball, picking up, trying to turn people, trying to create turnovers and stuff like that. So I think it's just more of an aggressive thing on defense that has picked up.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dyson Daniels on his defensive growth: Last year I was a little bit more passive. This year I am trying to be more aggressive on the ball, picking up, trying to turn people and trying to create turnovers.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels describes his personal growth and increased defensive aggression compared to the previous season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dyson Daniels",
+      "timestamp": "02:36",
+      "summary_phrase": "Dyson Daniels on the team's defensive scheme and philosophy",
+      "names_mentioned": [],
+      "excerpt": "We have really good defenders on this team and for us, we want to turn people over.",
+      "quote": "It's definitely a scheme thing. We have really good defenders on this team and for us, we want to turn people over. We want to make people work. We want to pick up full court. So it's definitely a scheme thing, and I'm just trying to do my best at putting pressure on whoever I'm guarding each night.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dyson Daniels says the Hawks defensive identity is built on scheme. We want to turn people over, we want to make people work and we want to pick up full court.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels explains the defensive philosophy and scheme implemented by the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "u4MkNuF6xy4",
+  "url": "https://www.youtube.com/watch?v=u4MkNuF6xy4",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-10T03:50:20Z",
+  "duration_seconds": 183,
+  "processed_at": "2026-11-10T04:27:46Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

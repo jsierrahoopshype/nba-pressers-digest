@@ -1,0 +1,482 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe and AJ Dybantsa | 11.9.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "AJ Dybantsa"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on team's early turnover struggles and lack of ball security",
+      "names_mentioned": [],
+      "excerpt": "We just didn't value the ball that led them to get out and get easy baskets in transition.",
+      "quote": "We didn't value the basketball as much as we well played one. The last two games we played basically the top two defensive teams in the league. You saw us to start the game, I think we had six turnovers pretty early in the game. We just didn't value the ball that led them to get out and get easy baskets in transition. We did make some improvement throughout the game, but not consistent enough to get it done.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the Wizards turnover issues: We did not value the basketball. We had six turnovers early in the game and it led to easy transition baskets for them.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the team's struggles with turnovers and ball security during a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:27",
+      "summary_phrase": "Brian Keefe on Anthony Davis's impact and the team's defensive adjustments",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "The return of AD and his points helped us solidify us a little bit.",
+      "quote": "AJ gave us a great push there in the second half and obviously the return of AD and his points helped us solidify us a little bit. But too tough to overcome the ball security and the transition that they were able to get.",
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the loss: AJ gave us a great push in the second half and the return of AD helped us solidify, but it was too tough to overcome the ball security issues.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS",
+          "LAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brian Keefe comments on the impact of Anthony Davis returning to the lineup during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:36",
+      "summary_phrase": "Brian Keefe on team's growth and learning process as a new group",
+      "names_mentioned": [],
+      "excerpt": "We're a new team. We're growing and learning. We have to take all this evidence that we have.",
+      "quote": "We're a new team. We're growing and learning. We have to take all this evidence that we have, use it, look at it, teach, coach. Those are the things we're doing. Just got to build it more consistent, but too many times playing into crowds tonight. I like some of our threes, I got great confidence in our shooters, we want them to continue to shoot that. You have to do that versus good defensive teams, but the turnovers were too much.",
+      "verbatim_original_language": "",
+      "start_seconds": 96,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the team's development: We are a new team. We are growing and learning. We have to take all this evidence that we have, use it, look at it, teach, and coach.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe reflects on the growth and learning process of the team as a new group.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:13",
+      "summary_phrase": "Brian Keefe maintains faith in team's shooting despite recent struggles",
+      "names_mentioned": [],
+      "excerpt": "I got faith in our shooters, those things will turn.",
+      "quote": "We got guys who can make them. I got faith in our shooters, those things will turn. This is we're in a tough stretch shooting wise, but these things will average out for our best. Just got to continue to do the right things, put ourselves in the position to make those shots and I got faith in our guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the team's shooting slump: I have faith in our shooters. We are in a tough stretch right now, but these things will average out for our best.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe expresses confidence in his players' shooting ability despite a recent cold stretch.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:34",
+      "summary_phrase": "Brian Keefe on Anthony Davis's ability to stabilize the offense",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "He just is one of those guys who can make the game more solid for us.",
+      "quote": "He just can settle us down. He gets shots around the rim, he started a lot. We were really good on the offensive boards tonight. That was some of the improvement with our when we cleaned up our offense. We were get good spacing, we were able to get to the rim, that allowed us to get offensive rebounds. Obviously he made some threes and some and shots in mid-range shots, but I think he didn't in the first half I think he had missed one shot. He just is one of those guys who can make the game more solid for us and obviously it was nice to have him back tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 154,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Brian Keefe on Anthony Davis: He just can settle us down. He is one of those guys who can make the game more solid for us and obviously it was nice to have him back tonight.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains how Anthony Davis helps stabilize the offense and improve spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brian Keefe",
+      "timestamp": "03:02",
+      "summary_phrase": "Brian Keefe expresses confidence in Trey Johnson's shooting potential",
+      "names_mentioned": [
+        "Trey Johnson"
+      ],
+      "excerpt": "This is what this guy does. I got great faith in him.",
+      "quote": "I think obviously he had a great game in the Atlanta the other night. This is what this guy does. I got great faith in him. He's going to he got some good looks tonight. He's going to knock those down. We saw what he did last year and the percentage he shot, that will turn. He puts all the work in and I got great faith in him.",
+      "verbatim_original_language": "",
+      "start_seconds": 182,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe on Trey Johnson: I have great faith in him. He got some good looks tonight. He is going to knock those down. We saw what he did last year, that will turn.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Johnson"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe expresses confidence in Trey Johnson's shooting potential despite recent misses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "03:23",
+      "summary_phrase": "AJ Dybantsa on the Pistons' physical defensive identity",
+      "names_mentioned": [],
+      "excerpt": "I think they're super physical. I think that's their identity, just being super physical, pushing guys around.",
+      "quote": "I think they're super physical. I think that's their identity, just being super physical, pushing guys around, setting the tone defensively. I think if we matched their physicality, you know, it might have been a different outcome.",
+      "verbatim_original_language": "",
+      "start_seconds": 203,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "AJ Dybantsa on the Pistons: They are super physical. That is their identity, just being super physical, pushing guys around, setting the tone defensively.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS",
+          "DET"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa describes the physical defensive identity of the Detroit Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "03:38",
+      "summary_phrase": "AJ Dybantsa attributes turnovers to lazy passing and lack of focus",
+      "names_mentioned": [],
+      "excerpt": "Just lazy passes, just being sloppy with the ball.",
+      "quote": "Just lazy passes, just being sloppy with the ball. We know going in like they're going to be super hands, they're going to be jumping for passes, trying to get deflections and we just kind of lackadaisically just throwing the ball up.",
+      "verbatim_original_language": "",
+      "start_seconds": 218,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "AJ Dybantsa on the team's turnovers: Just lazy passes, just being sloppy with the ball. We knew they were going to be super handsy and jumping for passes.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa attributes the team's high turnover count to lazy passing and a lack of focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "03:48",
+      "summary_phrase": "AJ Dybantsa on the Pistons' defensive personnel and team continuity",
+      "names_mentioned": [
+        "Ron Holland",
+        "Jenkins"
+      ],
+      "excerpt": "They have guys like Jenkins and Ron Holland coming into the game, just super physical.",
+      "quote": "I mean obviously they have great individual defenders like Asar is probably one of the best defenders in the league if not one if if not the best defender in the league perimeter wise. And then they have guys like Jenkins and Ron Holland coming into the game, just super physical. They make us tough up. They get individual defense but also like they have people in the gaps, they have people in help side, so it's just a continuity that's good for them.",
+      "verbatim_original_language": "",
+      "start_seconds": 228,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "AJ Dybantsa on the Pistons defense: Asar is probably one of the best defenders in the league. They have great individual defenders and they have people in the gaps, it is just a continuity that is good for them.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ausar Thompson",
+          "Jenkins",
+          "Ron Holland"
+        ],
+        "teams": [
+          "WAS",
+          "DET"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa discusses the defensive personnel and continuity of the Detroit Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "04:23",
+      "summary_phrase": "AJ Dybantsa discusses his goal to guard the best player on other teams",
+      "names_mentioned": [],
+      "excerpt": "I've been telling the coach I want to take that challenge. I want to guard the best player.",
+      "quote": "It's been great. I've been telling the coach I want to take that challenge. I want to guard the best player on the other team. I think I got the length for it, I think I got the size for it, I think I got the quickness for it. So since I'm taking that challenge, that's what the NBA is about. I mean you want to go compete against the best. I want to prove I'm a good defender in this league, so the only way to do it is to go, you know, guard the best player on another team.",
+      "verbatim_original_language": "",
+      "start_seconds": 263,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 7,
+      "social_post": "AJ Dybantsa wants the challenge: I have been telling the coach I want to guard the best player on the other team. I want to prove I am a good defender in this league.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa explains his desire to take on the challenge of guarding the opponent's best player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "04:59",
+      "summary_phrase": "AJ Dybantsa reflects on the defensive mindset of Team USA",
+      "names_mentioned": [],
+      "excerpt": "Team USA, back when I was playing, it was 12 NBA players on the team.",
+      "quote": "Team USA, back when I was playing, it was 12 NBA players on the team before we were all in the NBA. So it was kind of just like, you know, we all got to sacrifice something. And I want to take upon myself like I want to be the best defender of this group. I'm going to be flying around, I'm going to be at the top of the press, getting deflections, getting blocks, getting steals, running in transition, and it worked out for us. We got three gold medals out of it.",
+      "verbatim_original_language": "",
+      "start_seconds": 299,
+      "end_seconds": 335,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa on his Team USA experience: I wanted to take upon myself to be the best defender of that group. I was flying around, getting deflections, getting blocks, getting steals.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa reflects on the defensive mindset he developed while playing for Team USA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "05:31",
+      "summary_phrase": "AJ Dybantsa on learning to defend players like Anthony Davis",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Chris"
+      ],
+      "excerpt": "The first half he was kind of just walk me down to my spot. I wasn't pushing back.",
+      "quote": "The first half he was kind of just walk me down to my spot. I wasn't pushing back at all. I talked to Chris and AD at halftime telling me to give me to give him like more of a push, push at his catch. Obviously he wants to get to that middle fade or middle post hook which is really good at, he has great touch. So I mean try to catch the spin, try to be physical with him like if he gets to a spot, I mean he's way too good and you're not really going to stop him.",
+      "verbatim_original_language": "",
+      "start_seconds": 331,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa on guarding Anthony Davis: The first half he was just walking me down to my spot. I talked to Chris and AD at halftime telling me to give him more of a push at his catch.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa discusses the difficulty of defending Anthony Davis and the adjustments he made at halftime.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "06:03",
+      "summary_phrase": "AJ Dybantsa on managing physical wear and tear in the NBA",
+      "names_mentioned": [],
+      "excerpt": "I mean that's what the NBA is about. I mean you got to get treatment.",
+      "quote": "I mean that's what the NBA is about. I mean you got to get treatment, might have to get some chew right now, got to get massages, hydrate and then get back at it again in two days. Playing against Indy, so I mean it's what it's about. Can't complain, can't sit back and complain because your body hurts. You got to go get it done.",
+      "verbatim_original_language": "",
+      "start_seconds": 363,
+      "end_seconds": 388,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa on NBA recovery: You have to get treatment, get massages, hydrate and then get back at it again. Can't complain because your body hurts. You have to go get it done.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS",
+          "IND"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa talks about the importance of physical recovery and treatment during the NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "06:25",
+      "summary_phrase": "AJ Dybantsa on his commitment to becoming an elite defender",
+      "names_mentioned": [
+        "Trey",
+        "AD",
+        "Bala"
+      ],
+      "excerpt": "Coming in if I wasn't on Trey's team or if I wasn't on AD's team, I'll go up.",
+      "quote": "Coming in if I wasn't on Trey's team or if I wasn't on AD's team, I'll go up and just guard him like on the other side of the court. And now that Bala is out, I mean Bala is probably like the best defender. You should see Bala in practice like he crazy. But if Bala is not guarding like the shades of the world, I'm I want to go to. I want to show my length and I just try to be like Bala a lot.",
+      "verbatim_original_language": "",
+      "start_seconds": 385,
+      "end_seconds": 419,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa on his defensive role models: If Bala is not guarding the best players, I want to. I want to show my length and I just try to be like Bala a lot.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Johnson",
+          "Anthony Davis",
+          "Bala"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa discusses his commitment to becoming an elite defender and learning from teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "07:03",
+      "summary_phrase": "AJ Dybantsa maintains confidence in team's shooting despite slump",
+      "names_mentioned": [],
+      "excerpt": "We might be in a shooting slump right now, but keep shooting.",
+      "quote": "Keep shooting. I mean we're NBA players, we're going to knock shots down. I mean we might be in a shooting slump right now, but keep shooting. I mean we are NBA players, we can knock down open threes, it's going to come.",
+      "verbatim_original_language": "",
+      "start_seconds": 423,
+      "end_seconds": 431,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "AJ Dybantsa on the shooting slump: Keep shooting. We are NBA players, we are going to knock shots down. It is going to come.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa encourages his teammates to keep shooting despite the current team shooting slump.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "moLcB7Qj_MY",
+  "url": "https://www.youtube.com/watch?v=moLcB7Qj_MY",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-10T04:09:38Z",
+  "duration_seconds": 431,
+  "processed_at": "2026-11-10T04:27:34Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

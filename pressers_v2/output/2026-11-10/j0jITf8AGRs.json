@@ -1,0 +1,136 @@
+{
+  "video_title": "Hornets vs Cavaliers: Tidjane Salaün Postgame Media Availability | 11/9/2026",
+  "speakers_seen": [
+    "Tidjane Salaün"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tidjane Salaün",
+      "timestamp": "00:21",
+      "summary_phrase": "Tidjane Salaün on his focus and team mentality",
+      "names_mentioned": [],
+      "excerpt": "My goal is to be the best player I can be and to have my teammate win.",
+      "quote": "I always got the same focus, same energy. I am trying to give everything I got on the court. My goal is to be the best player I can be and to have my teammate win. And today, you know, we have a lot of young guys, so next man mentality. And for the rest, it was just because of the process, all the work I did this summer. It is all about the good work, my mentor, my body, everything. So, that was the truth today, that is it.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Tidjane Salaun on his approach to the game: I always got the same focus, same energy. I am trying to give everything I got on the court.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Tidjane Salaun discusses his personal focus and the team's next man mentality following the game against the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tidjane Salaün",
+      "timestamp": "01:19",
+      "summary_phrase": "Tidjane Salaün on his second quarter performance",
+      "names_mentioned": [],
+      "excerpt": "I am not happy from the end of the game, so if we talk about the whole game.",
+      "quote": "That was good, but I am not happy from the end of the game. So, if we talk about the whole game, that was cool, but the game is not only one quarter, it is four quarters.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tidjane Salaun on his performance against the Cavs: That was good, but I am not happy from the end of the game. The game is not only one quarter, it is four quarters.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Tidjane Salaun reflects on his performance during the second quarter and the importance of playing a full four-quarter game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tidjane Salaün",
+      "timestamp": "02:10",
+      "summary_phrase": "Tidjane Salaün on his off-season work and team energy",
+      "names_mentioned": [],
+      "excerpt": "I am happy to feel good on the court, bring this energy and feel the crowd.",
+      "quote": "I am happy to feel good on the court, bring this energy and feel the crowd. I don't know how much game we lost this last couple weeks, but that was much needed, you know. So, I am of course happy for the fans, for us, and we just got to keep going. That is only the beginning and we got to sustain this energy, this spirit together. And like I said on the first question, next man mentality, that is it.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Tidjane Salaun says the Hornets win was much needed: I am happy to feel good on the court, bring this energy and feel the crowd. That is only the beginning and we got to sustain this energy.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Tidjane Salaun expresses satisfaction with the team's energy and the importance of maintaining that spirit moving forward.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tidjane Salaün",
+      "timestamp": "03:04",
+      "summary_phrase": "Tidjane Salaün on team togetherness and consistency",
+      "names_mentioned": [
+        "Dennis"
+      ],
+      "excerpt": "Since the first game we got to have the same spirit every day, every day.",
+      "quote": "That was better. The togetherness was clearly different. But like you say, Dennis, since the first game we got to have the same spirit every day, every day. So, I talk about practice, game day, like we got to have this type of spirit, like being together, have energy. Because when we are losing, of course we are going to be upset, but we got to be together. Because like they did, the Cavs, at the end they came back. And just because of that we still have some work to do. But we show a great example of what the Hornets can be when the shots fall for sure. We have some good, great shooter, just got to make them.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tidjane Salaun on the Hornets needing more consistency: We show a great example of what the Hornets can be when the shots fall for sure. We have some good, great shooter, just got to make them.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Tidjane Salaun discusses the need for consistent team spirit and togetherness after the loss to the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "j0jITf8AGRs",
+  "url": "https://www.youtube.com/watch?v=j0jITf8AGRs",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-10T04:12:57Z",
+  "duration_seconds": 245,
+  "processed_at": "2026-11-10T04:27:05Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

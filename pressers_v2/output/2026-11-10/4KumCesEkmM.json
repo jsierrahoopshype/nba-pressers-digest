@@ -1,0 +1,200 @@
+{
+  "video_title": "Hornets vs Cavaliers: Naz Reid Postgame Media Availability | 11/9/2026",
+  "speakers_seen": [
+    "Naz Reid"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Naz Reid",
+      "timestamp": "00:17",
+      "summary_phrase": "Naz Reid on the Hornets' team-wide commitment to starting strong",
+      "names_mentioned": [
+        "See",
+        "Christian",
+        "Tee",
+        "Ryan"
+      ],
+      "excerpt": "I think the younger guys stepped up with the next man up mentality.",
+      "quote": "Starting strong was the main thing. Making sure we take care of the ball, less careless mistakes defensively and offensively. I think some of the younger guys stepped up with the next man up mentality. See was really good, Christian was good, Tee was good, and Ryan came to play. I think that is the mentality we have to have moving forward. We have this type of mindset and sky is the limit for us. We have to be able to have that mindset consistently and be able to draw down and do what we do.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Naz Reid on the Hornets' win: Starting strong was the main thing. Making sure we take care of the ball, less careless mistakes defensively and offensively. I think some of the younger guys stepped up with the next man up mentality.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Naz Reid discusses the Hornets' team-wide commitment to starting strong and the contributions of younger teammates following a game against the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Naz Reid",
+      "timestamp": "01:01",
+      "summary_phrase": "Naz Reid on his transition to the Charlotte Hornets' system",
+      "names_mentioned": [],
+      "excerpt": "This is a new system for me, new team, new everything.",
+      "quote": "This is a new system for me, new team, new everything. I know these guys are welcoming me with open arms, but the type of person I am, I try to ease my way into it. I do not want to just come in and be that guy. That is not really me or my personality. In due time, you know me, you know what I bring to the table. I go into the situation looking to do what I do best and become the person I am, but at first I am trying to see where I fit in.",
+      "text_blocks": [],
+      "start_seconds": 61,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Naz Reid on adjusting to his new team: I do not want to just come in and be that guy. That is not really me or my personality. In due time, you know me, you know what I bring to the table. I go into the situation looking to see where I fit in.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid reflects on his transition to the Charlotte Hornets' system and his approach to integrating into a new team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Naz Reid",
+      "timestamp": "02:18",
+      "summary_phrase": "Naz Reid on maintaining accountability after on-court incidents",
+      "names_mentioned": [],
+      "excerpt": "Stuff happens, it is basketball, any sport. When you are super competitive that type of stuff happens.",
+      "quote": "Stuff happens, it is basketball, any sport. When you are super competitive that type of stuff happens. Me being able to be the person I am, take accountability and be able to direct traffic for the team and understand that look, stuff like that happens, but it is how you respond. We have to be able to take those moments and be accountable so we can move on to the next situation. Me and coach have been fine since then. We are able to communicate like nothing happened. It is what it is at that moment, but I am not really too worried about that.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Naz Reid on his recent sideline interaction with his coach: Me and coach have been fine since then. We are able to communicate like nothing happened. It is what it is at that moment, but I am not really too worried about that.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid addresses the importance of accountability and his relationship with the head coach following on-court incidents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Naz Reid",
+      "timestamp": "03:13",
+      "summary_phrase": "Naz Reid on the importance of film study with Coach Buck",
+      "names_mentioned": [
+        "Buck"
+      ],
+      "excerpt": "That is what has helped me figure out situations and helped me where I belong on the floor.",
+      "quote": "It is huge. That is what has helped me figure out situations and helped me where I belong on the floor and helped me designate my position. Being able to lock in on those things are key. You hear some of the greats talk about film and all that good stuff. Being able to watch the mistakes and the good things, so you can go out on the floor and either capitalize on what you have done before or make up for the mistakes that you have. Film is huge.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Naz Reid on the importance of film study: It is huge. That is what has helped me figure out situations and helped me where I belong on the floor. Being able to watch the mistakes and the good things is key.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid explains how film study with the coaching staff has helped him understand his role and positioning on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Naz Reid",
+      "timestamp": "04:33",
+      "summary_phrase": "Naz Reid on the Hornets' potential following a big win",
+      "names_mentioned": [],
+      "excerpt": "It shows the talent and potential we have.",
+      "quote": "It feels good. You want to be able to capitalize on these type of wins. It shows the talent and potential we have. Everybody comes out with that same energy and effort. Sky is the limit. Being able to compete at this level is huge. That is a good team too. Being able to go do that, I would not even say undermanned, I said next man up. Having the guys and having the mentality that they had tonight, we have to bring that every night.",
+      "text_blocks": [],
+      "start_seconds": 273,
+      "end_seconds": 306,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Naz Reid on the Hornets' potential: It shows the talent and potential we have. Everybody comes out with that same energy and effort. Sky is the limit. Being able to compete at this level is huge.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Naz Reid discusses the Hornets' potential and the importance of maintaining energy after a win against the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Naz Reid",
+      "timestamp": "05:24",
+      "summary_phrase": "Naz Reid on the 'next man up' mentality during injury-plagued season",
+      "names_mentioned": [],
+      "excerpt": "That is how I made my mark in the league. Cagoes down, next man up.",
+      "quote": "We have to play every other day. It is tough, that is why we are in the NBA or any professional sport. Having that mentality to next man up is how I made my mark in the league. Cagoes down, next man up, and that is history to where I got to the moment I am in right now. Having that mentality to go out there and compete at the highest level and doing what we do best, putting our head down and saying, whatever happened, you have to go out there and put everything on the floor.",
+      "text_blocks": [],
+      "start_seconds": 324,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Naz Reid on the next man up mentality: That is how I made my mark in the league. Having that mentality to go out there and compete at the highest level and doing what we do best, putting our head down and saying, you have to go out there.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Naz Reid shares his perspective on the next man up mentality required to succeed in the NBA during a season impacted by injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4KumCesEkmM",
+  "url": "https://www.youtube.com/watch?v=4KumCesEkmM",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-10T04:07:56Z",
+  "duration_seconds": 365,
+  "processed_at": "2026-11-10T04:27:32Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

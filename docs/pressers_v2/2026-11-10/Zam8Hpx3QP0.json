@@ -1,0 +1,192 @@
+{
+  "video_title": "Hornets vs Cavaliers: Coach Charles Lee Postgame Media Availability | 11/9/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:43",
+      "summary_phrase": "Brandon Miller's development and comfort in the Hornets' offense",
+      "names_mentioned": [
+        "Brandon Miller",
+        "James Borrego"
+      ],
+      "excerpt": "I think he's just getting a better feel for the pace that we want to play with",
+      "quote": "I think he's just getting a better feel for the pace that we want to play with early in the clock. Once the initial thrust doesn't get us an advantage that we want, I think he's finally slowing down in the half court and realizing, hey, if I get a chase pick and roll here, I can go play clear corner with a small and have a potential post up. When guys are reading him or in center field, he understands the difference between playing in the seams and popping. I just think overall, he's finding another level of comfort with how we play early in the clock and then the middle and end of the clock as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 43,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Charles Lee says Brandon Miller is finding a new level of comfort in the Hornets offense, specifically noting his improved decision making in the half court and his ability to read defensive coverages.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Head coach Charles Lee discusses Brandon Miller's improved decision-making and pace within the team's offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "01:29",
+      "summary_phrase": "Brandon Miller's adjustment to the Hornets' system and daily process",
+      "names_mentioned": [
+        "Brandon Miller",
+        "Mike Budenholzer"
+      ],
+      "excerpt": "the daily process from where he just came from is different",
+      "quote": "It's a lot for anybody. Not that we're reinventing the wheel here, but I think just how the daily process goes from where he just came from is different. Terminology, play style, a little bit different where he's going to get his shots. Because he cares so much, there's obviously a lot of film work that goes into it with himself and with Coach Bud. Also, I think just trying to communicate with his teammates in certain situations to say, hey, defensively, where could I have done better? Where do you need me? Offensively, same type of things. I see his communication level growing with his teammates, building those relationships, and just trusting everything. It's really cool to see him becoming an elite two-way player and giving it to us on both ends of the floor.",
+      "verbatim_original_language": "",
+      "start_seconds": 89,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Lee on Brandon Miller's development: It is a lot for anybody to adjust to a new system, but Miller's communication and film work are helping him grow into an elite two-way player.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee explains the adjustments Brandon Miller is making to the team's terminology and communication style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "02:12",
+      "summary_phrase": "Brandon Miller's injury status and recovery progress",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "I don't think this is going to be something that takes a while",
+      "quote": "I don't think this is going to be something that takes a while. He's already shown some progress since what was that Friday night's game that it happened. I don't want to say day-to-day, that's going too far, but I don't think it's going to be a long-term thing. We'll keep evaluating him and like I said, every day he's feeling a little bit better.",
+      "verbatim_original_language": "",
+      "start_seconds": 132,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Hornets coach Charles Lee provided an update on Brandon Miller's injury, stating he does not expect it to be a long-term issue and that the team is seeing daily progress.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Charles Lee provides an update on Brandon Miller's injury status following the game against the Cavaliers.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "02:45",
+      "summary_phrase": "Ryan Cook-Brenner's impact and hustle on the floor",
+      "names_mentioned": [
+        "Ryan Cook-Brenner",
+        "Naz Reid"
+      ],
+      "excerpt": "whenever someone gives their body up for the team, it shows that extra commitment",
+      "quote": "It brings your group energy, and that type of competitive spirit becomes contagious throughout your whole group. All those offensive rebounds that he had today, the defensive block shots and verticalities, whenever someone gives their body up for the team, it shows that extra commitment to try to give anything to impact winning.",
+      "verbatim_original_language": "",
+      "start_seconds": 165,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Charles Lee praised Ryan Cook-Brenner for his energy and competitive spirit, noting that his hustle plays like offensive rebounds and defensive blocks are becoming contagious for the rest of the Hornets roster.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Cook-Brenner"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee praises the energy and competitive spirit Ryan Cook-Brenner brought to the team during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "03:42",
+      "summary_phrase": "Ryan Cook-Brenner's role in controlling the paint for Charlotte",
+      "names_mentioned": [
+        "Ryan Cook-Brenner",
+        "Kobe Bufkin",
+        "Peyton Watson"
+      ],
+      "excerpt": "he's helping us control the paint, dominating the paint with his defensive activity",
+      "quote": "Added confidence to know that we have a guy that again, impacts the game in a lot of different ways. He's helping us control the paint, dominating the paint with his defensive activity. That block shot that he had at the rim, and then all of a sudden it turns into great offense for us. You watch that and then Kobe's picking up at half court and then they have an after timeout play and we're getting deflections, and then Peyton Watson can't get it to the guy he wants to, so he drives and he misses a layup. It just becomes contagious, man. I love what Ryan's giving us on that end and then the offensive side of the floor. Without him, it's like Ryan was like, I'm going to be the seven-foot Moosa tonight, and he did that in a major way.",
+      "verbatim_original_language": "",
+      "start_seconds": 222,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Charles Lee on Ryan Cook-Brenner's performance: He was dominating the paint and impacting the game in a major way on both ends of the floor.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Cook-Brenner",
+          "Kobe Bufkin",
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses Ryan Cook-Brenner's defensive impact and paint protection during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Zam8Hpx3QP0",
+  "url": "https://www.youtube.com/watch?v=Zam8Hpx3QP0",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-10T04:03:07Z",
+  "duration_seconds": 321,
+  "processed_at": "2026-11-10T04:27:35Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}
