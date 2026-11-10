@@ -1,0 +1,176 @@
+{
+  "video_title": "Cavs at Hornets | Kenny Atkinson Post Game | 11.09.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:02",
+      "summary_phrase": "Kenny Atkinson on the bench's energy and passion",
+      "names_mentioned": [],
+      "excerpt": "I want to stay with start with the positive and that's that last group that came in.",
+      "quote": "I want to stay with start with the positive and that's that last group that came in and played with the right energy, passion, toughness. It was really indicative of the contrast between that group and the energy that our main group had. They didn't come out with the right energy and they came out blazing. Obviously, their shooting from the three-point line was impressive. They shot 50% and they didn't come down in the second half, they matched it.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson was not happy with his starters tonight, saying the bench played with the right energy and passion while the main group did not come out with the right energy.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the energy disparity between his starting lineup and the bench during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:43",
+      "summary_phrase": "Kenny Atkinson on the need to improve rebounding",
+      "names_mentioned": [],
+      "excerpt": "Got to clean up the rebounding. We just got to go back to the basics.",
+      "quote": "Got to clean up the rebounding. We just got to go back to the basics. Got to do a better job because when they did miss, they were getting all those offensive rebound kickouts and those are usually open threes.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Kenny Atkinson says the Cavs need to get back to the basics on the glass after allowing too many offensive rebound kickouts tonight.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson identifies rebounding as a primary area for improvement following the loss to the Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:10",
+      "summary_phrase": "Kenny Atkinson on the energy disparity between the two groups",
+      "names_mentioned": [],
+      "excerpt": "I just felt like their energy level was at a 10 and we were at a five.",
+      "quote": "I just felt like their energy level was at a 10 and we were at a five. They were flying around, they were active. They're a more aggressive team. The difference in energy level was stark. They were faster than us, quicker to the ball, quicker to rebounds, obviously, more physical.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson did not mince words on the energy disparity tonight, saying the Hornets were at a 10 while his team was at a five.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson compares the energy levels of the Cavaliers and the Hornets throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:00",
+      "summary_phrase": "Kenny Atkinson on the bench's contribution and development",
+      "names_mentioned": [
+        "CP",
+        "Malik"
+      ],
+      "excerpt": "Those are gains for our bench, gains for our stay ready guys.",
+      "quote": "There's always a silver lining. You got to stay ready group that comes in and plays their tails off and gives us a little hope and showed us pride and competitiveness and energy and it was great to watch. It seems like a lost game, but when you look at it, those are gains for our bench, gains for our stay ready guys. I thought CP was really, really good. Malik obviously got to run the point there, so there's always a silver lining.",
+      "text_blocks": [],
+      "start_seconds": 180,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Despite the loss, Kenny Atkinson found a silver lining in the performance of his bench players, specifically highlighting the play of CP and Malik.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Craig Porter Jr.",
+          "Malik Monk"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson highlights the positive contributions and development of bench players like Craig Porter Jr. and Malik Monk.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:56",
+      "summary_phrase": "Kenny Atkinson on the physical play of Norchad Omier",
+      "names_mentioned": [
+        "Norchad"
+      ],
+      "excerpt": "Norchad was, man, we're having issues rebounding the ball, he'll go and get a rebound.",
+      "quote": "Norchad was, man, we're having issues rebounding the ball, he'll go and get a rebound and physicality. He's got speed at his size. Discovering these guys, CP like I said was really good. Tyrese, we put him in there for a little, he was good. Unfortunately, we did not match that, we only did it one quarter, they did it for three quarters.",
+      "text_blocks": [],
+      "start_seconds": 236,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson praised the physicality and speed of Norchad Omier, noting that he is still discovering what his bench guys can bring to the rotation.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Norchad Omier",
+          "Craig Porter Jr.",
+          "Tyrese Martin"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the physical play and rebounding efforts of Norchad Omier and other bench players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "er-0X-yJBEE",
+  "url": "https://www.youtube.com/watch?v=er-0X-yJBEE",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-10T02:38:54Z",
+  "duration_seconds": 295,
+  "processed_at": "2026-11-10T02:44:37Z",
+  "run_id": "2026-11-10T0243Z-20utc",
+  "is_one_off": false
+}
