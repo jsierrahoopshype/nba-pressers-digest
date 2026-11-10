@@ -22,7 +22,17 @@ From: [Hornets vs Cavaliers: Naz Reid Postgame Media Availability \| 11/9/2026](
 
 <small>[Clip it](presserclips://clip?v=4KumCesEkmM&t=138&q=3) · [Send to Slack](presserclips://clip?v=4KumCesEkmM&t=138&q=3&slack=1)</small>
 
-**3. AJ Dybantsa — "I've been telling the coach I want to take that challenge. I want to guard the best player." — AJ Dybantsa discusses his goal to guard the best player on other teams** [04:23](https://www.youtube.com/watch?v=moLcB7Qj_MY&t=263s)
+**3. Nikola Jokic — "he's a pure scorer, you know. He's definitely playing on a high high level right now." — Nikola Jokic on Jamal Murray's high-level performance** [08:02](https://www.youtube.com/watch?v=GzMddriBv2A&t=482s)
+
+Nikola Jokic: "He's amazing. I think the shots are making shot making. He's a pure scorer, you know. He's definitely playing on a high high level right now and we need to follow him. You know, he's definitely our leader right now and we need to everybody needs to step up and follow him."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=482s](https://www.youtube.com/watch?v=GzMddriBv2A&t=482s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. HOU 🎙](https://www.youtube.com/watch?v=GzMddriBv2A) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=482&q=7) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=482&q=7&slack=1)</small>
+
+**4. AJ Dybantsa — "I've been telling the coach I want to take that challenge. I want to guard the best player." — AJ Dybantsa discusses his goal to guard the best player on other teams** [04:23](https://www.youtube.com/watch?v=moLcB7Qj_MY&t=263s)
 
 AJ Dybantsa: "It's been great. I've been telling the coach I want to take that challenge. I want to guard the best player on the other team. I think I got the length for it, I think I got the size for it, I think I got the quickness for it. So since I'm taking that challenge, that's what the NBA is about. I mean you want to go compete against the best. I want to prove I'm a good defender in this league, so the only way to do it is to go, you know, guard the best player on another team."
 
@@ -32,7 +42,17 @@ From: [Media Availability: Head Coach Brian Keefe and AJ Dybantsa \| 11.9.26](ht
 
 <small>[Clip it](presserclips://clip?v=moLcB7Qj_MY&t=263&q=10) · [Send to Slack](presserclips://clip?v=moLcB7Qj_MY&t=263&q=10&slack=1)</small>
 
-**4. Dyson Daniels — "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass." — Dyson Daniels on the challenge of guarding Luka Doncic** [00:00](https://www.youtube.com/watch?v=u4MkNuF6xy4&t=0s)
+**5. Jamal Murray — "I've been trying to bring more and be more physical, just like how they're playing me physically." — Jamal Murray on his defensive intensity this season** [11:27](https://www.youtube.com/watch?v=GzMddriBv2A&t=687s)
+
+Jamal Murray: "I've been trying to bring more and be more physical, just like how they're playing me physically and letting things go. I'm able to I know personnel, I know guys a lot better just being in the league more, so maybe that plays a part. But yeah, I'm just bringing it and I think the defense gets my energy going and then offensively I'll find it."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=687s](https://www.youtube.com/watch?v=GzMddriBv2A&t=687s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. HOU 🎙](https://www.youtube.com/watch?v=GzMddriBv2A) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=687&q=9) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=687&q=9&slack=1)</small>
+
+**6. Dyson Daniels — "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass." — Dyson Daniels on the challenge of guarding Luka Doncic** [00:00](https://www.youtube.com/watch?v=u4MkNuF6xy4&t=0s)
 
 Dyson Daniels: "Luka is, obviously, probably the best guy in the NBA right now. And then he's also willing to pass. **Sandro** made some big shots, **Sexton** made big shots, **Lauri Markkanen** made big shots. I feel like if that's the game plan they're trying to give that up, then they did a good job of executing out of our blitzes and stuff like that. I mean, I think we hurt ourselves a little bit too tonight."
 
@@ -42,7 +62,7 @@ From: [Hawks vs. Lakers Postgame Press Conference: Dyson Daniels](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=u4MkNuF6xy4&t=0&q=1) · [Send to Slack](presserclips://clip?v=u4MkNuF6xy4&t=0&q=1&slack=1)</small>
 
-**5. Jamal Shead — "Obviously Scottie is a DPOY candidate any night that he's on the floor. Colin is a really good defender." — Jamal Shead on compensating for missing key defensive players** [00:33](https://www.youtube.com/watch?v=9bx8mdfvsHk&t=33s)
+**7. Jamal Shead — "Obviously Scottie is a DPOY candidate any night that he's on the floor. Colin is a really good defender." — Jamal Shead on compensating for missing key defensive players** [00:33](https://www.youtube.com/watch?v=9bx8mdfvsHk&t=33s)
 
 Jamal Shead: "Obviously Scottie is a DPOY candidate any night that he's on the floor. **Colin** is a really good defender. **Kawhi** is a really good defender. And then quick shooting and his spacing and his ability to playmake, the things that those guys bring, obviously we miss them, but we try to compensate and make up for it by moving the ball or just playing harder, just getting after it a little bit more."
 
@@ -52,7 +72,7 @@ From: [Jamal Shead \| Post Game at  Memphis Grizzlies \| November 09, 2026](http
 
 <small>[Clip it](presserclips://clip?v=9bx8mdfvsHk&t=33&q=2) · [Send to Slack](presserclips://clip?v=9bx8mdfvsHk&t=33&q=2&slack=1)</small>
 
-**6. Tidjane Salaün — "Since the first game we got to have the same spirit every day, every day." — Tidjane Salaün on team togetherness and consistency** [03:04](https://www.youtube.com/watch?v=j0jITf8AGRs&t=184s)
+**8. Tidjane Salaün — "Since the first game we got to have the same spirit every day, every day." — Tidjane Salaün on team togetherness and consistency** [03:04](https://www.youtube.com/watch?v=j0jITf8AGRs&t=184s)
 
 Tidjane Salaün: "That was better. The togetherness was clearly different. But like you say, **Dennis**, since the first game we got to have the same spirit every day, every day. So, I talk about practice, game day, like we got to have this type of spirit, like being together, have energy. Because when we are losing, of course we are going to be upset, but we got to be together. Because like they did, the Cavs, at the end they came back. And just because of that we still have some work to do. But we show a great example of what the Hornets can be when the shots fall for sure. We have some good, great shooter, just got to make them."
 
@@ -62,7 +82,7 @@ From: [Hornets vs Cavaliers: Tidjane Salaün Postgame Media Availability \| 11/9
 
 <small>[Clip it](presserclips://clip?v=j0jITf8AGRs&t=184&q=4) · [Send to Slack](presserclips://clip?v=j0jITf8AGRs&t=184&q=4&slack=1)</small>
 
-**7. Jakob Poeltl — "the way he plays, that fast downhill style, just opens up the defense" — Jakob Poeltl on his developing on-court chemistry with Jamal Shead** [00:36](https://www.youtube.com/watch?v=sb1F3GVweTw&t=36s)
+**9. Jakob Poeltl — "the way he plays, that fast downhill style, just opens up the defense" — Jakob Poeltl on his developing on-court chemistry with Jamal Shead** [00:36](https://www.youtube.com/watch?v=sb1F3GVweTw&t=36s)
 
 Jakob Poeltl: "We have had a couple conversations, especially this season, about what works for us and what doesn't work for us. Generally, I'd say it comes pretty natural, at least from my side. The way he plays, that fast downhill style, just opens up the defense and gives me the opportunity, because the pass comes quick, it gives me the opportunity for quick finishes and floaters and stuff like that. I think a lot of it is honestly just natural, good matchup for us."
 
@@ -271,6 +291,118 @@ Jordan Ott: "It's a challenge. I know we played 39 minutes the other night. We'r
 [https://www.youtube.com/watch?v=BZkSD9me9fo&t=323s](https://www.youtube.com/watch?v=BZkSD9me9fo&t=323s)
 
 <small>[Clip it](presserclips://clip?v=BZkSD9me9fo&t=323&q=8) · [Send to Slack](presserclips://clip?v=BZkSD9me9fo&t=323&q=8&slack=1)</small>
+
+---
+
+## Full Denver Nuggets Postgame Media Availability vs. HOU 🎙 — *Denver Nuggets*
+
+Source: [https://www.youtube.com/watch?v=GzMddriBv2A](https://www.youtube.com/watch?v=GzMddriBv2A)
+
+_Speakers identified: Coach Adelman, Nikola Jokic, Jamal Murray_
+
+**1. Coach Adelman — "we had 12 turnovers for the game. We made some mistakes in a row." — Coach Adelman on Nuggets' mental lapses and turnovers against Houston** [00:16](https://www.youtube.com/watch?v=GzMddriBv2A&t=16s)
+
+Coach Adelman: "We had 12 turnovers for the game. We made some mistakes in a row, but I would say to get back to 60-60, our intensity on our side of the ball was pretty damn good too. I just felt like mentally we weren't good enough tonight. We gave effort, but mentally I just didn't feel like we were there consistently throughout the night."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=16s](https://www.youtube.com/watch?v=GzMddriBv2A&t=16s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=16&q=1) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=16&q=1&slack=1)</small>
+
+**2. Coach Adelman — "our two guys having to do the majority of the scoring is not going to win" — Coach Adelman on the team's reliance on two star players** [00:38](https://www.youtube.com/watch?v=GzMddriBv2A&t=38s)
+
+Coach Adelman: "Our two guys having to do the majority of the scoring is not going to win a game. I thought their other people made some big threes in key moments. Obviously their turnovers were timely, but it's only nine points off our mistakes. I thought it was the mental part and I thought the offensive rebounding kicked our ass."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=38s](https://www.youtube.com/watch?v=GzMddriBv2A&t=38s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=38&q=2) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=38&q=2&slack=1)</small>
+
+**3. Coach Adelman — "you're not coming out of the game for shooting open shots. That's how you play basketball." — Coach Adelman on the need for aggressive play from starters** [02:12](https://www.youtube.com/watch?v=GzMddriBv2A&t=132s)
+
+Coach Adelman: "The guys have to believe it. You're not coming out of the game for shooting open shots. That's how you play basketball, that's how we play. They have to keep firing. Even **Nikola Jokic** struggled early, got going late, 11 for 21. I just think they have to put the onus on themselves to have confidence that that's not why you're coming out."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=132s](https://www.youtube.com/watch?v=GzMddriBv2A&t=132s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=132&q=3) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=132&q=3&slack=1)</small>
+
+**4. Coach Adelman — "their small-ball lineup is not small. It's a big lineup with athletes that crash." — Coach Adelman on Houston's effective small-ball rebounding** [03:07](https://www.youtube.com/watch?v=GzMddriBv2A&t=187s)
+
+Coach Adelman: "That's what they've done over the years. And even without **Steven Adams** out there, their small-ball lineup is not small. It's a big lineup with athletes that crash. I just think when you don't have a man to take on, you have to help your teammate and double-team people because there's a lot of people to assign yourself to with their team."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=187s](https://www.youtube.com/watch?v=GzMddriBv2A&t=187s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=187&q=4) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=187&q=4&slack=1)</small>
+
+**5. Coach Adelman — "him driving to the basket, he's a threat. That's a big wing going to the basket." — Coach Adelman on Jamal Murray's off-ball movement** [04:33](https://www.youtube.com/watch?v=GzMddriBv2A&t=273s)
+
+Coach Adelman: "I thought a few times **Jamal Murray** can catch and go from the corner. And I think the big thing is the guys relocating on the weak side for him. If he's not going to shoot a corner three, him driving to the basket, he's a threat. That's a big wing going to the basket, either get fouled or if there's relocation properly, he can kick to find somebody else to shoot a three."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=273s](https://www.youtube.com/watch?v=GzMddriBv2A&t=273s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=273&q=5) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=273&q=5&slack=1)</small>
+
+**6. Nikola Jokic — "we had a couple turnovers in a row and they had like easy easy easy layups." — Nikola Jokic on the team's momentum and turnovers** [06:51](https://www.youtube.com/watch?v=GzMddriBv2A&t=411s)
+
+Nikola Jokic: "We came back and I think it was 60-60 and they had a we had a couple turnovers in a row and they had like easy easy easy layups basically. One and zero, two and one, fast break points and I think they they got the momentum back in that moment. And we were fighting, we were fighting, but they they had a couple offensive rebounds when they shouldn't."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=411s](https://www.youtube.com/watch?v=GzMddriBv2A&t=411s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=411&q=6) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=411&q=6&slack=1)</small>
+
+**7. Nikola Jokic — "he's a pure scorer, you know. He's definitely playing on a high high level right now." — Nikola Jokic on Jamal Murray's high-level performance** [08:02](https://www.youtube.com/watch?v=GzMddriBv2A&t=482s)
+
+Nikola Jokic: "He's amazing. I think the shots are making shot making. He's a pure scorer, you know. He's definitely playing on a high high level right now and we need to follow him. You know, he's definitely our leader right now and we need to everybody needs to step up and follow him."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=482s](https://www.youtube.com/watch?v=GzMddriBv2A&t=482s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=482&q=7) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=482&q=7&slack=1)</small>
+
+**8. Jamal Murray — "I think we just have to have a better start, you know. Our effort is great." — Jamal Murray on the importance of a better start** [09:22](https://www.youtube.com/watch?v=GzMddriBv2A&t=562s)
+
+Jamal Murray: "I think we just have to have a better start, you know. Our effort is great. We have to come back. I just feel like when we're zero-zero, we have a real chance to take a lead. So being down, I think it was 10 or 15, that to me is the game. So if we can just have a better start, I think we win that game."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=562s](https://www.youtube.com/watch?v=GzMddriBv2A&t=562s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=562&q=8) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=562&q=8&slack=1)</small>
+
+**9. Jamal Murray — "I've been trying to bring more and be more physical, just like how they're playing me physically." — Jamal Murray on his defensive intensity this season** [11:27](https://www.youtube.com/watch?v=GzMddriBv2A&t=687s)
+
+Jamal Murray: "I've been trying to bring more and be more physical, just like how they're playing me physically and letting things go. I'm able to I know personnel, I know guys a lot better just being in the league more, so maybe that plays a part. But yeah, I'm just bringing it and I think the defense gets my energy going and then offensively I'll find it."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=687s](https://www.youtube.com/watch?v=GzMddriBv2A&t=687s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=687&q=9) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=687&q=9&slack=1)</small>
+
+**10. Jamal Murray — "it takes a collective effort to go and hit somebody. And they're a team that has people." — Jamal Murray on the impact of offensive rebounds** [12:14](https://www.youtube.com/watch?v=GzMddriBv2A&t=734s)
+
+Jamal Murray: "It takes a collective effort to go and hit somebody. And they're a team that has people in the paint like **Thompson** and he's a hell of an athlete, you know, **Sengun**, you got K-Du who's still 6'10, you got Steven Adams, I don't even play, but damn, Steven Adams is like they have a big team, you know, so **Jabari Smith**. So we just got to make a collective effort to rebound."
+
+[https://www.youtube.com/watch?v=GzMddriBv2A&t=734s](https://www.youtube.com/watch?v=GzMddriBv2A&t=734s)
+
+<small>[Clip it](presserclips://clip?v=GzMddriBv2A&t=734&q=10) · [Send to Slack](presserclips://clip?v=GzMddriBv2A&t=734&q=10&slack=1)</small>
+
+---
+
+## Jamahl Mosley | Pelicans vs. Warriors Postgame Interview 11/9/26 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=RO4mB3hbFP0](https://www.youtube.com/watch?v=RO4mB3hbFP0)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "They came in, punched us in the mouth, we didn't respond the right way." — Jamahl Mosley on the team's poor defensive response** [00:14](https://www.youtube.com/watch?v=RO4mB3hbFP0&t=14s)
+
+Jamahl Mosley: "No, it's not a flush it. It's not. We got our kicked. No other way to put it. They came in, punched us in the mouth, we didn't respond the right way. It's two nights in a row we've allowed our offense to dictate our defense. 139 last night, 138 tonight. To understand how we want to play, sometimes you got to get hit in the dang mouth, and we got hit in the mouth twice."
+
+[https://www.youtube.com/watch?v=RO4mB3hbFP0&t=14s](https://www.youtube.com/watch?v=RO4mB3hbFP0&t=14s)
+
+<small>[Clip it](presserclips://clip?v=RO4mB3hbFP0&t=14&q=1) · [Send to Slack](presserclips://clip?v=RO4mB3hbFP0&t=14&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "It's a fighting group. You have a lot of guys with a competitive edge and dog to them." — Jamahl Mosley expresses confidence in his team's competitive nature** [00:56](https://www.youtube.com/watch?v=RO4mB3hbFP0&t=56s)
+
+Jamahl Mosley: "I'm confident in this group. It's a fighting group. You have a lot of guys with a competitive edge and dog to them. Just got to continue to bring it out together. I think that's the big key for us as we continue to move forward and not allow offense to dictate, you know, what our defense does. You score 120 something last night, you get 87 tonight, but you give up 138, 139. It's not good enough. And who we're going to become and who we're building into and who we're going to be, it has to be the defensive end."
+
+[https://www.youtube.com/watch?v=RO4mB3hbFP0&t=56s](https://www.youtube.com/watch?v=RO4mB3hbFP0&t=56s)
+
+<small>[Clip it](presserclips://clip?v=RO4mB3hbFP0&t=56&q=2) · [Send to Slack](presserclips://clip?v=RO4mB3hbFP0&t=56&q=2&slack=1)</small>
 
 ---
 

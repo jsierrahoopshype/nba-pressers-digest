@@ -1,0 +1,78 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Warriors Postgame Interview 11/9/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:14",
+      "summary_phrase": "Jamahl Mosley on the team's poor defensive response",
+      "names_mentioned": [],
+      "excerpt": "They came in, punched us in the mouth, we didn't respond the right way.",
+      "quote": "No, it's not a flush it. It's not. We got our kicked. No other way to put it. They came in, punched us in the mouth, we didn't respond the right way. It's two nights in a row we've allowed our offense to dictate our defense. 139 last night, 138 tonight. To understand how we want to play, sometimes you got to get hit in the dang mouth, and we got hit in the mouth twice.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley did not mince words after back to back defensive collapses. We got our kicked. They came in punched us in the mouth and we did not respond the right way. It is two nights in a row we have allowed our offense to dictate our defense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley addresses the media following the Pelicans' loss to the Warriors regarding the team's poor defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:56",
+      "summary_phrase": "Jamahl Mosley expresses confidence in his team's competitive nature",
+      "names_mentioned": [],
+      "excerpt": "It's a fighting group. You have a lot of guys with a competitive edge and dog to them.",
+      "quote": "I'm confident in this group. It's a fighting group. You have a lot of guys with a competitive edge and dog to them. Just got to continue to bring it out together. I think that's the big key for us as we continue to move forward and not allow offense to dictate, you know, what our defense does. You score 120 something last night, you get 87 tonight, but you give up 138, 139. It's not good enough. And who we're going to become and who we're building into and who we're going to be, it has to be the defensive end.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley remains confident in his group despite the defensive struggles. It is a fighting group with a competitive edge but he admits giving up 138 and 139 points is simply not good enough for the team they are trying to become.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses his confidence in the team's competitive nature and the need for defensive improvement after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "RO4mB3hbFP0",
+  "url": "https://www.youtube.com/watch?v=RO4mB3hbFP0",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-10T06:06:17Z",
+  "duration_seconds": 106,
+  "processed_at": "2026-11-10T06:10:00Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}

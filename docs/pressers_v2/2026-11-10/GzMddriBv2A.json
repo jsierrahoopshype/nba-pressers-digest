@@ -1,0 +1,336 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. HOU 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Nikola Jokic",
+    "Jamal Murray"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:16",
+      "summary_phrase": "Coach Adelman on Nuggets' mental lapses and turnovers against Houston",
+      "names_mentioned": [],
+      "excerpt": "we had 12 turnovers for the game. We made some mistakes in a row.",
+      "quote": "We had 12 turnovers for the game. We made some mistakes in a row, but I would say to get back to 60-60, our intensity on our side of the ball was pretty damn good too. I just felt like mentally we weren't good enough tonight. We gave effort, but mentally I just didn't feel like we were there consistently throughout the night.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Adelman says the Nuggets lacked mental consistency in their loss to Houston. He noted that while the effort was there, the team struggled with turnovers and defensive rebounding throughout the night.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's mental lapses and turnovers during their postgame media availability following the loss to Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:38",
+      "summary_phrase": "Coach Adelman on the team's reliance on two star players",
+      "names_mentioned": [],
+      "excerpt": "our two guys having to do the majority of the scoring is not going to win",
+      "quote": "Our two guys having to do the majority of the scoring is not going to win a game. I thought their other people made some big threes in key moments. Obviously their turnovers were timely, but it's only nine points off our mistakes. I thought it was the mental part and I thought the offensive rebounding kicked our ass.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Coach Adelman on the Nuggets offensive struggles: Our two guys having to do the majority of the scoring is not going to win a game. He emphasized that the team needs more production from the supporting cast.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Coach Adelman addresses the team's over-reliance on two star players and the impact of Houston's offensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:12",
+      "summary_phrase": "Coach Adelman on the need for aggressive play from starters",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamal Murray"
+      ],
+      "excerpt": "you're not coming out of the game for shooting open shots. That's how you play basketball.",
+      "quote": "The guys have to believe it. You're not coming out of the game for shooting open shots. That's how you play basketball, that's how we play. They have to keep firing. Even Nikola Jokic struggled early, got going late, 11 for 21. I just think they have to put the onus on themselves to have confidence that that's not why you're coming out.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Adelman is encouraging his players to keep shooting despite early struggles. He says the team needs to have the confidence to keep firing and not worry about being pulled for missing open shots.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman encourages his players to maintain confidence and keep shooting despite early struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "03:07",
+      "summary_phrase": "Coach Adelman on Houston's effective small-ball rebounding",
+      "names_mentioned": [
+        "Steven Adams"
+      ],
+      "excerpt": "their small-ball lineup is not small. It's a big lineup with athletes that crash.",
+      "quote": "That's what they've done over the years. And even without Steven Adams out there, their small-ball lineup is not small. It's a big lineup with athletes that crash. I just think when you don't have a man to take on, you have to help your teammate and double-team people because there's a lot of people to assign yourself to with their team.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman breaks down the challenge of defending Houston, noting that their small ball lineup is actually quite big and athletic, making it difficult to assign individual defenders without help.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Steven Adams"
+        ],
+        "teams": [
+          "DEN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Coach Adelman explains the challenges of defending Houston's physical and athletic small-ball lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Adelman",
+      "timestamp": "04:33",
+      "summary_phrase": "Coach Adelman on Jamal Murray's off-ball movement",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "him driving to the basket, he's a threat. That's a big wing going to the basket.",
+      "quote": "I thought a few times Jamal Murray can catch and go from the corner. And I think the big thing is the guys relocating on the weak side for him. If he's not going to shoot a corner three, him driving to the basket, he's a threat. That's a big wing going to the basket, either get fouled or if there's relocation properly, he can kick to find somebody else to shoot a three.",
+      "text_blocks": [],
+      "start_seconds": 273,
+      "end_seconds": 301,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman discusses Jamal Murray's role, highlighting the importance of teammates relocating on the weak side to give Murray space to drive or kick the ball out for open shots.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman analyzes Jamal Murray's off-ball movement and the importance of weak-side relocation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nikola Jokic",
+      "timestamp": "06:51",
+      "summary_phrase": "Nikola Jokic on the team's momentum and turnovers",
+      "names_mentioned": [],
+      "excerpt": "we had a couple turnovers in a row and they had like easy easy easy layups.",
+      "quote": "We came back and I think it was 60-60 and they had a we had a couple turnovers in a row and they had like easy easy easy layups basically. One and zero, two and one, fast break points and I think they they got the momentum back in that moment. And we were fighting, we were fighting, but they they had a couple offensive rebounds when they shouldn't.",
+      "text_blocks": [],
+      "start_seconds": 411,
+      "end_seconds": 438,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nikola Jokic says the game turned on a few key turnovers that allowed Houston to get easy transition points and regain momentum after Denver had fought back to tie the score.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reflects on the momentum shift caused by turnovers and offensive rebounds during the game against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nikola Jokic",
+      "timestamp": "08:02",
+      "summary_phrase": "Nikola Jokic on Jamal Murray's high-level performance",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "he's a pure scorer, you know. He's definitely playing on a high high level right now.",
+      "quote": "He's amazing. I think the shots are making shot making. He's a pure scorer, you know. He's definitely playing on a high high level right now and we need to follow him. You know, he's definitely our leader right now and we need to everybody needs to step up and follow him.",
+      "text_blocks": [],
+      "start_seconds": 482,
+      "end_seconds": 502,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Nikola Jokic is giving Jamal Murray his flowers: He is definitely our leader right now and we need to everybody needs to step up and follow him.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Jokic praises Jamal Murray's scoring ability and leadership during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamal Murray",
+      "timestamp": "09:22",
+      "summary_phrase": "Jamal Murray on the importance of a better start",
+      "names_mentioned": [],
+      "excerpt": "I think we just have to have a better start, you know. Our effort is great.",
+      "quote": "I think we just have to have a better start, you know. Our effort is great. We have to come back. I just feel like when we're zero-zero, we have a real chance to take a lead. So being down, I think it was 10 or 15, that to me is the game. So if we can just have a better start, I think we win that game.",
+      "text_blocks": [],
+      "start_seconds": 562,
+      "end_seconds": 588,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Murray believes the Nuggets loss to Houston came down to the start of the game. He says if they can avoid falling into early double-digit deficits, they have a much better chance to win.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray emphasizes the need for the team to improve their start to games to avoid playing from behind.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamal Murray",
+      "timestamp": "11:27",
+      "summary_phrase": "Jamal Murray on his defensive intensity this season",
+      "names_mentioned": [],
+      "excerpt": "I've been trying to bring more and be more physical, just like how they're playing me physically.",
+      "quote": "I've been trying to bring more and be more physical, just like how they're playing me physically and letting things go. I'm able to I know personnel, I know guys a lot better just being in the league more, so maybe that plays a part. But yeah, I'm just bringing it and I think the defense gets my energy going and then offensively I'll find it.",
+      "text_blocks": [],
+      "start_seconds": 687,
+      "end_seconds": 712,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jamal Murray says he is making a conscious effort to be more physical on defense this season. He noted that bringing defensive energy helps him find his rhythm on the offensive end.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray discusses his increased focus on physical defense and how it fuels his offensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamal Murray",
+      "timestamp": "12:14",
+      "summary_phrase": "Jamal Murray on the impact of offensive rebounds",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Thompson",
+        "Sengun",
+        "Jabari Smith"
+      ],
+      "excerpt": "it takes a collective effort to go and hit somebody. And they're a team that has people.",
+      "quote": "It takes a collective effort to go and hit somebody. And they're a team that has people in the paint like Thompson and he's a hell of an athlete, you know, Sengun, you got K-Du who's still 6'10, you got Steven Adams, I don't even play, but damn, Steven Adams is like they have a big team, you know, so Jabari Smith. So we just got to make a collective effort to rebound.",
+      "text_blocks": [],
+      "start_seconds": 734,
+      "end_seconds": 762,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Murray on the rebounding battle against Houston: It takes a collective effort to go and hit somebody. He acknowledged that the Rockets size and athleticism made them a tough matchup on the glass.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alperen Sengun",
+          "Jabari Smith Jr.",
+          "Steven Adams"
+        ],
+        "teams": [
+          "DEN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jamal Murray highlights the collective effort required to rebound against Houston's large frontcourt players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "GzMddriBv2A",
+  "url": "https://www.youtube.com/watch?v=GzMddriBv2A",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-10T05:43:28Z",
+  "duration_seconds": 840,
+  "processed_at": "2026-11-10T06:10:18Z",
+  "run_id": "2026-11-10-overnight",
+  "is_one_off": false
+}
