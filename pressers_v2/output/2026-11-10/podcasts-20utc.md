@@ -1,0 +1,985 @@
+# NBA Podcasts & Shows — 2026-11-10
+
+# Best of the best
+
+**1. Marc J. Spears — "I was told that he actually that day of the trade called Jaylen Brown." — Jayson Tatum called Jaylen Brown after the trade and was ignored** [05:57](https://www.youtube.com/watch?v=AiJzi11F6TU&t=357s)
+
+Marc J. Spears: "I was told that Jayson was in Vegas at the time he found out about the trade and he got some sage advice like, 'Yo, get ahead of this. Get in front of this. You're everybody's looking at you and your reaction now.' So I was told that he actually that day of the trade called **Jaylen Brown** to discuss what happened and, you know, offer him support and talk about their time together and then the phone call didn't get picked up and hasn't been returned."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=357s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=357s)
+
+From: [PLENTY OF BEEF AND LAMB CHOMPS 🥩 Previewing Jayson Tatum vs. Jaylen Brown \| NBA Today](https://www.youtube.com/watch?v=AiJzi11F6TU) · *NBA on ESPN*
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=357&q=4) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=357&q=4&slack=1)</small>
+
+**2. Gilbert Arenas — "I was the first NBA player to get served child support on the court." — Gilbert Arenas on being the first NBA player served child support on court** [04:26](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=266s)
+
+Gilbert Arenas: "I got served on the in on national TV. I was the first NBA player to get served child support on the court. Walking at halftime. Missed arenas, what up, man? You think it is the reporter. Nigga, this is a server. I'm thinking I'm about to sign some autograph. I've been served. You like, what the fuck? Nigga, stop the game. I look at my phone, man, they were like, 'Did you just get served child support papers on the court?' I was like, yep."
+
+[https://www.youtube.com/watch?v=TDPJDGm3mFE&t=266s](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=266s)
+
+From: [Gilbert Arenas says he REALLY wanted the SMOKE with John Wall](https://www.youtube.com/watch?v=TDPJDGm3mFE) · *Out The Mud*
+
+<small>[Clip it](presserclips://clip?v=TDPJDGm3mFE&t=266&q=5) · [Send to Slack](presserclips://clip?v=TDPJDGm3mFE&t=266&q=5&slack=1)</small>
+
+**3. Jon Krawczynski — "The Timberwolves now are clearly in a period of transition." — The Timberwolves' roster transition and future outlook** [20:16](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1216s)
+
+Jon Krawczynski: "The Timberwolves now are clearly in a period of transition, and they decided that **Anthony Edwards** was not going to be a part of the team that they believe can eventually get to real contender status. They made a decision with that core group that they were not good enough as constructed and so they had to take a step back, amass some assets and go forward. And what that also means is that, A, the fans are going to be upset because they finally had a fun season last year and now it is going sideways again, but B, the possibilities of **Anthony Edwards** getting traded again are very high."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1216s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1216s)
+
+From: [Wolves' joyfulness \| The Jon Krawczynski Show](https://www.youtube.com/watch?v=8z28ZR3aCis) · *The Jon Krawczynski Show*
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1216&q=10) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1216&q=10&slack=1)</small>
+
+**4. Shams Charania — "Both of these guys who have been together for about a decade together, they have not spoken." — Jaylen Brown and Jayson Tatum have not spoken since the trade** [02:12](https://www.youtube.com/watch?v=AiJzi11F6TU&t=132s)
+
+Shams Charania: "Both of these guys who have been together for about a decade together, they have not spoken since that trade. Whatever had to be hashed out was hashed out before the trade occurred in person between these two sides. And at the crux of this is **Jayson Tatum** believing, **Jaylen Brown** believing, what **Jayson Tatum** knew or didn't know in the lead up to his trade."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=132s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=132s)
+
+From: [PLENTY OF BEEF AND LAMB CHOMPS 🥩 Previewing Jayson Tatum vs. Jaylen Brown \| NBA Today](https://www.youtube.com/watch?v=AiJzi11F6TU) · *NBA on ESPN*
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=132&q=2) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=132&q=2&slack=1)</small>
+
+**5. Draymond Green — "If we lose and I put on that Wolverine stuff, my skin would melt." — Draymond Green refuses to wear Michigan Wolverines gear for a bet** [21:14](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1274s)
+
+Draymond Green: "I would never make that bet. Because if we lose and I put on that Wolverine stuff, my skin would melt. Like, you literally see me just sit here and wither on away, just melt right away. I can't put that on. That's like acid, pouring acid on my skin. Putting a scum bum Wolverine shirt, hoodie, jersey, yuck. Yuck. Why would I do that? So, no, I'm not making that bet because when you make a bet, there's a 50/50 chance that you're going to lose. And that's too high of a percentage for me to possibly have to put on some scum bum gear."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1274s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1274s)
+
+From: [Draymond Green on Warriors 8-Game Win Streak, Jordan Poole's Return Comments & Doc Rivers vs Giannis](https://www.youtube.com/watch?v=KEXtvvKYtbw) · *The Draymond Green Show*
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1274&q=10) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1274&q=10&slack=1)</small>
+
+**6. Theo Pinson — "Rudy Gobert was questionable for a bee sting, and I was acting like bees were in the gym." — Theo Pinson's best locker room prank story** [2:04:49](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7489s)
+
+Theo Pinson: "There was one year we were in the playoffs, we played the Utah Jazz. It was **Rudy Gobert** was questionable for a bee sting, and I was acting like bees were in the gym when he was shooting a free throw. He missed it."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7489s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7489s)
+
+From: [Jayson Tatum vs Jaylen Brown GO AT IT TONIGHT, Luka is AHEAD of DURANT ? and the CAVS STINK](https://www.youtube.com/watch?v=pZguGwHkA9w) · *To The Baha*
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7489&q=19) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7489&q=19&slack=1)</small>
+
+**7. Steve Terry — "I woke up the morning of the Naz trade. It was the Naz trade to me." — Steve Terry's initial reaction to the Naz Reid trade** [04:07](https://www.youtube.com/watch?v=8z28ZR3aCis&t=247s)
+
+Steve Terry: "I woke up the morning of the Naz trade. It was the Naz trade to me for obvious reasons. I was like, holy, what happened? And they traded Naz, and I am like, it is a kick in the stomach. I am like, okay, well, obviously business-wise, Naz is a great dude. I was just like, and then he was ready to start. The whole thing, and I was, and then I go, what did they trade him for? And John, I think you might have been the first person I called because I am like, what the, you know, not a fan. Was not a fan."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=247s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=247s)
+
+From: [Wolves' joyfulness \| The Jon Krawczynski Show](https://www.youtube.com/watch?v=8z28ZR3aCis) · *The Jon Krawczynski Show*
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=247&q=4) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=247&q=4&slack=1)</small>
+
+**8. Chandler Parsons — "If we're talking about contenders to win an NBA championship this year, no chance." — Chandler Parsons on whether the Memphis Grizzlies are true contenders** [00:10](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=10s)
+
+**Michelle Beadle:** "Before we do this, this means an actual contender like to win the championship?"
+
+**Chandler Parsons:** "It is going to be relative. If we're talking about contenders to win an NBA championship this year, no chance. I don't even want to call it fool's gold. I think they got off to a hot start. I think they found something offensively and they are riding a heater. But as a contending team, the league is too deep, it's too talented, and this team is nowhere near that."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=10s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=10s)
+
+From: [Boogie & Lou - “The Grizzlies Are PRETENDERS!"](https://www.youtube.com/watch?v=gxwF0t3_QCs) · *Run It Back*
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=10&q=1) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=10&q=1&slack=1)</small>
+
+**9. DeMarcus Cousins — "If you allow a team that's in the process of a full rebuild right now to make the playoffs, that's crazy." — DeMarcus Cousins on why the Memphis Grizzlies won't make the playoffs** [03:16](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=196s)
+
+DeMarcus Cousins: "If Memphis is making the playoffs in the West this year, it's going to be some coaches and players getting fired. There's going to be some open positions. Yeah, because there's no way. If you allow a team that's in the process of a full rebuild right now to make the playoffs, that's crazy. I'm going to go on a limb, I don't think they are, and it's no knock to them. I think they got off to an incredible start, a hot start. Obviously, **Tyreke Evans** played a huge part in that, but it's not enough."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=196s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=196s)
+
+From: [Boogie & Lou - “The Grizzlies Are PRETENDERS!"](https://www.youtube.com/watch?v=gxwF0t3_QCs) · *Run It Back*
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=196&q=3) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=196&q=3&slack=1)</small>
+
+**10. Charlie Villanueva — "Wembanyama is averaging 30 and 12 and five blocks. That's insane." — Victor Wembanyama's statistical dominance and MVP case** [1:01:25](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3685s)
+
+**Charlie Villanueva:** "Wembanyama is averaging 30 and 12 and five blocks. That's insane. With a healthy, good fucking team. If Shay takes this team to a top three in the West, which he probably will, he's MVP for the third time."
+
+**Theo Pinson:** "If he does, he's MVP. No, he won't. He won't. He won't. If he do, he's MVP."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=3685s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3685s)
+
+From: [Jayson Tatum vs Jaylen Brown GO AT IT TONIGHT, Luka is AHEAD of DURANT ? and the CAVS STINK](https://www.youtube.com/watch?v=pZguGwHkA9w) · *To The Baha*
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=3685&q=13) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=3685&q=13&slack=1)</small>
+
+---
+
+## Gilbert Arenas gets opens up on he RUINED his ENTIRE career because he was ignorant 👀 — *Out The Mud*
+
+Source: [https://www.youtube.com/watch?v=866UO4-KPkY](https://www.youtube.com/watch?v=866UO4-KPkY)
+
+_Speakers identified: Gilbert Arenas, Zach Randolph, Tony Allen_
+
+**1. Gilbert Arenas — "I didn't know like how serious a knee injury was" — Gilbert Arenas on his lack of understanding regarding serious knee injuries** [00:35](https://www.youtube.com/watch?v=866UO4-KPkY&t=35s)
+
+**Gilbert Arenas:** "I didn't know like how serious a knee injury was. I broke my hand, cut the cast off, let's go play. I can use the other one. Knee hurt? I can just jump off the other one, not realizing it's stop-go."
+
+**Zach Randolph:** "Tell us about your out the mud experience with coming and messing with that knee injury, man. Talk to me about it."
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=35s](https://www.youtube.com/watch?v=866UO4-KPkY&t=35s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=35&q=1) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=35&q=1&slack=1)</small>
+
+**2. Gilbert Arenas — "they're telling me, 'Yo, you got to be out six, eight months.' Two months, I'm like, 'Nigga, I'm ready.'" — Gilbert Arenas on his rushed recovery process after knee injury** [00:54](https://www.youtube.com/watch?v=866UO4-KPkY&t=54s)
+
+Gilbert Arenas: "They're telling me, 'Yo, you got to be out six, eight months.' Two months, I'm like, 'Nigga, I'm ready. When the season starts, let's go.' So I'm still doing the stairs, I'm doing everything, and then realize that I'm not—you ain't rehabbing right. You're not sleeping right, you're not eating right, you're not rehabbing, you're not doing all the little things. This shit boring. Let's get to the hooping, let's play these ones. I need to get back, I'm a three-time All-Star, I got to make this fourth one."
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=54s](https://www.youtube.com/watch?v=866UO4-KPkY&t=54s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=54&q=2) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=54&q=2&slack=1)</small>
+
+**3. Gilbert Arenas — "I wasn't serious about that part of the process." — Gilbert Arenas on ignoring the rehabilitation process for his knee** [01:34](https://www.youtube.com/watch?v=866UO4-KPkY&t=94s)
+
+Gilbert Arenas: "I wasn't serious about that part of the process. Those were the RDLs, the band work, backs were walking. I love that type of shit. I didn't understand the process."
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=94s](https://www.youtube.com/watch?v=866UO4-KPkY&t=94s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=94&q=3) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=94&q=3&slack=1)</small>
+
+**4. Gilbert Arenas — "Why in the hell am I doing the TKE knee stretch?" — Gilbert Arenas questioning the necessity of specific knee rehabilitation exercises** [02:25](https://www.youtube.com/watch?v=866UO4-KPkY&t=145s)
+
+Gilbert Arenas: "I used to ask them questions, 'Why in the hell am I doing the TKE knee stretch?' They're like, 'This is going to fire your quad, you got to have all these things firing.' So why am I doing it? I'm asking these questions just as much as you ask questions on the court, but I'm like, 'Man, I need to know this about my body.'"
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=145s](https://www.youtube.com/watch?v=866UO4-KPkY&t=145s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=145&q=4) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=145&q=4&slack=1)</small>
+
+**5. Gilbert Arenas — "Memphis looking for a guard... Can you go workout? I talked myself out of it." — Gilbert Arenas on his decision to skip a workout for the Memphis Grizzlies** [03:03](https://www.youtube.com/watch?v=866UO4-KPkY&t=183s)
+
+Gilbert Arenas: "Memphis looking for a guard, any backup guard, veteran guard, that, you know, just in case something happened in the playoffs. Can you go workout? I talked myself out of it. I was like, 'Ah man, you don't need a nigga like me, man. You need somebody in shape. I'm still going to need about 30 days.' I just got my money, so I don't want to work for it. I'm getting it for free, so I don't want to work for the second one."
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=183s](https://www.youtube.com/watch?v=866UO4-KPkY&t=183s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=183&q=5) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=183&q=5&slack=1)</small>
+
+**6. Gilbert Arenas — "I made the team. So I ain't coming back." — Gilbert Arenas on his eventual decision to sign with the Memphis Grizzlies** [03:42](https://www.youtube.com/watch?v=866UO4-KPkY&t=222s)
+
+Gilbert Arenas: "Memphis is looking for a guard. I made the team. So I ain't coming back. Click. Go to Portland, had to go to the mall, met you guys, and then that was that."
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=222s](https://www.youtube.com/watch?v=866UO4-KPkY&t=222s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=222&q=6) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=222&q=6&slack=1)</small>
+
+**7. Gilbert Arenas — "I had to sleep in that. See, I never really was going up and down" — Gilbert Arenas on managing bone spurs and pain during his career** [05:03](https://www.youtube.com/watch?v=866UO4-KPkY&t=303s)
+
+Gilbert Arenas: "End up having bone spurs started creeping in. So at night I had to wear the high-rise sleeve. I had to sleep in that. See, I never really was going up and down so I never really felt the pain like that. So once I started playing, it was just throbbing. I had to sleep with like so every 90 minutes I had to just push on, so that cool air kind of like stop it from throbbing. I was struggling that year."
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=303s](https://www.youtube.com/watch?v=866UO4-KPkY&t=303s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=303&q=7) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=303&q=7&slack=1)</small>
+
+**8. Gilbert Arenas — "The reason I retired is because Josh Shelby... and Genaro... Jeremy." — Gilbert Arenas on the reasons behind his retirement** [05:40](https://www.youtube.com/watch?v=866UO4-KPkY&t=340s)
+
+Gilbert Arenas: "The reason I retired is because **Josh Shelby**... and Genaro... **Jeremy**. Because I was across the street, they'll call me, 'Hey, can you workout with us, show us this, show us that?' And you know, you got little fiery motherfuckers like, 'Let's play the ones, let's play the ones.' Book my ass in the ones, boy. They was telling, they was telling my ass to play the ones. But just, you know how you see I seen the rookie and sophomore year me. Seeing the passion, right? They ready. I mean that motherfucker like, 'Ah shit, coach, hey, Gill, son.' You see them niggas like, 'Ah man.'"
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=340s](https://www.youtube.com/watch?v=866UO4-KPkY&t=340s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=340&q=8) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=340&q=8&slack=1)</small>
+
+**9. Gilbert Arenas — "I don't have it here no more. As long as I want a team for the price, they're going to always pick me up." — Gilbert Arenas on his realization that he no longer had it** [07:13](https://www.youtube.com/watch?v=866UO4-KPkY&t=433s)
+
+Gilbert Arenas: "I don't have it here no more. As long as I want a team for the price, they're going to always pick me up. If I'm a veteran man, they're like, 'Shit, if he come out, give us 10, 8, that's better than, you know, playing one of the young.' And I'm like, 'Man, as long as I want a team, they're going to keep, they're going to keep shelving them.' I'm going to go ahead, let's young fellas, y'all have this man. I already, I already lived it, I did it, man. I fucked it off. I still got the money, so I'm going to let y'all live this dream, man, while y'all still like got it in y'all."
+
+[https://www.youtube.com/watch?v=866UO4-KPkY&t=433s](https://www.youtube.com/watch?v=866UO4-KPkY&t=433s)
+
+<small>[Clip it](presserclips://clip?v=866UO4-KPkY&t=433&q=9) · [Send to Slack](presserclips://clip?v=866UO4-KPkY&t=433&q=9&slack=1)</small>
+
+---
+
+## Wolves' joyfulness | The Jon Krawczynski Show — *The Jon Krawczynski Show*
+
+Source: [https://www.youtube.com/watch?v=8z28ZR3aCis](https://www.youtube.com/watch?v=8z28ZR3aCis)
+
+_Speakers identified: Jon Krawczynski, Jim Souhan, Steve Terry_
+
+**2. Jon Krawczynski — "Not only are they surviving the Anthony Edwards injury to date, the vibe, the attitude is better." — Anthony Edwards' injury and the Timberwolves' improved team culture** [02:05](https://www.youtube.com/watch?v=8z28ZR3aCis&t=125s)
+
+Jon Krawczynski: "Not only are they surviving the **Anthony Edwards** injury to date, the vibe, the attitude, the fun level around this team is 90% better than it was a year ago, and it has been so fun for me just to watch **Anthony Edwards** care so much and play so hard and be so invested in his teammates and his team."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=125s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=125s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=125&q=2) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=125&q=2&slack=1)</small>
+
+**3. Jon Krawczynski — "Defensively, he is battling. He is creating turnovers. He is getting out and running." — Anthony Edwards' defensive impact and growth this season** [02:16](https://www.youtube.com/watch?v=8z28ZR3aCis&t=136s)
+
+Jon Krawczynski: "Since he has arrived here, from the moment he set foot here, it has been a positive impact every single day. The most encouraging thing for the Timberwolves right now is that **Anthony Edwards** is starting to find his groove in terms of aggressiveness offensively, but defensively, he is battling. He is creating turnovers. He is getting out and running. He is not fouling as much the last couple of games, and I just really think that what you are seeing is a player who understands what his team needs right now and then he is providing that."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=136s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=136s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=136&q=3) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=136&q=3&slack=1)</small>
+
+**4. Steve Terry — "I woke up the morning of the Naz trade. It was the Naz trade to me." — Steve Terry's initial reaction to the Naz Reid trade** [04:07](https://www.youtube.com/watch?v=8z28ZR3aCis&t=247s)
+
+Steve Terry: "I woke up the morning of the Naz trade. It was the Naz trade to me for obvious reasons. I was like, holy, what happened? And they traded Naz, and I am like, it is a kick in the stomach. I am like, okay, well, obviously business-wise, Naz is a great dude. I was just like, and then he was ready to start. The whole thing, and I was, and then I go, what did they trade him for? And John, I think you might have been the first person I called because I am like, what the, you know, not a fan. Was not a fan."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=247s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=247s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=247&q=4) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=247&q=4&slack=1)</small>
+
+**5. Steve Terry — "He was an unserious player, and I do not think that is debatable." — Steve Terry's evolving perspective on Naz Reid's maturity** [05:07](https://www.youtube.com/watch?v=8z28ZR3aCis&t=307s)
+
+Steve Terry: "He was an unserious player, and I do not think that is debatable. He was not serious. The whole father, brother, it is just a circus. And if you go back and you look at YouTube videos of him literally peeling out of the parking lot and running red lights, I mean, that is, I guess, good for business in a negative way if he moved here, but that is not what serious humans do, if we are just being honest. So that is my perception, that we got a clown show coming here, and I am just and it could not be any further from the truth."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=307s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=307s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=307&q=5) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=307&q=5&slack=1)</small>
+
+**6. Jon Krawczynski — "It is possible to be an immature human being and a mature athlete." — Anthony Edwards' maturity as a leader and teammate** [07:17](https://www.youtube.com/watch?v=8z28ZR3aCis&t=437s)
+
+Jon Krawczynski: "It is possible to be an immature human being and a mature athlete. **Anthony Edwards**, in terms of work ethic, being a good person in the locker room, being a good person in the organization, being coachable, has been incredibly mature. And guess what? Every once in a while, he will do something in an interview or off the court where you go, that was dumb. And I think the same thing about **Anthony Edwards**. He might do something goofy off the court. It does not mean he cannot be a mature basketball player."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=437s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=437s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=437&q=6) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=437&q=6&slack=1)</small>
+
+**7. Jon Krawczynski — "I am certainly seeing parallels with Karl-Anthony Towns." — Comparing Anthony Edwards' development to Karl-Anthony Towns** [08:36](https://www.youtube.com/watch?v=8z28ZR3aCis&t=516s)
+
+Jon Krawczynski: "I am certainly seeing parallels with **Karl-Anthony Towns**. I think both players arrived in the league very young, on teams that had very little veteran leadership around them, that had changes in front office, in coaches, that had a revolving door of teammates, that had just instability and a lack of talent around them, and but because both of them were sort of the one player or the constant that stayed the same as these teams changed, you started to look at it and say, well, it must be this guy's fault or he must be the immature one."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=516s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=516s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=516&q=7) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=516&q=7&slack=1)</small>
+
+**8. Jon Krawczynski — "Finch has kind of embraced Anthony Edwards in terms of because personalities, the two of them could not be more different." — Chris Finch's coaching philosophy and team culture** [12:45](https://www.youtube.com/watch?v=8z28ZR3aCis&t=765s)
+
+Jon Krawczynski: "It has been fun watching **Chris Finch** kind of embrace Anthony Edwards in terms of because personalities, the two of them could not be more different. And generally speaking over the years, we have seen Finch gravitate to the **Kyle Anderson**s, the **Mike Conley**s, the deliberate, ultra-mature, veteran guys that maybe have a few limitations in their game at the points that he connected with them, but certainly just play smart brand of basketball. Anthony Edwards is certainly a more creative, free-flowing guy. I think that he will turn the ball over a little bit more, he will take some shots that you wonder about, but I really do believe that Anthony Edwards is the kind of point guard that **Chris Finch** has been waiting for his whole time here in terms of the style of play, in terms of the way they want to just play basketball."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=765s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=765s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=765&q=8) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=765&q=8&slack=1)</small>
+
+**9. Jon Krawczynski — "He finally had a really good game, 25 points, 13 rebounds, but yeah, it has been ugly early." — Naz Reid's recent performance and injury struggles** [16:33](https://www.youtube.com/watch?v=8z28ZR3aCis&t=993s)
+
+Jon Krawczynski: "He finally had a really good game, 25 points, 13 rebounds, but yeah, it has been ugly early with the whole team now. They have had a ton of injuries, **Rudy Gobert** has been hurt, **Naz Reid** has been hurt, so they are short-handed going in, but I think it has been some real growing pains with Naz. There was a point where he was benched for the second half of a game because of some disagreements with **Charles Lee**, and it has been a rocky introduction."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=993s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=993s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=993&q=9) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=993&q=9&slack=1)</small>
+
+**10. Jon Krawczynski — "The Timberwolves now are clearly in a period of transition." — The Timberwolves' roster transition and future outlook** [20:16](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1216s)
+
+Jon Krawczynski: "The Timberwolves now are clearly in a period of transition, and they decided that **Anthony Edwards** was not going to be a part of the team that they believe can eventually get to real contender status. They made a decision with that core group that they were not good enough as constructed and so they had to take a step back, amass some assets and go forward. And what that also means is that, A, the fans are going to be upset because they finally had a fun season last year and now it is going sideways again, but B, the possibilities of **Anthony Edwards** getting traded again are very high."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1216s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1216s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1216&q=10) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1216&q=10&slack=1)</small>
+
+**12. Steve Terry — "I think that certain Timberwolves players should have their replay voting rights revoked." — Steve Terry's perspective on team management and coaching** [22:33](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1353s)
+
+Steve Terry: "I think that certain Timberwolves players should have their replay voting rights revoked. Like, what the, you know, some of these guys are so adamant, and we are looking at the screen, and I am like, what are we, this is not even close. And I do not know the dude's name, I am sure you know, but he sits behind coach and he is on the video the whole time, and his whole, yeah, what's his name? Jeff Newton. Okay, so Jeff, listen, bro, stop it, okay? Look at your own eyes and then tell coach, because they get sucked into this, and then it is like we lose, we are losing all our timeouts, and I am just like, what the hell are we doing? These aren't even close."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1353s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1353s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1353&q=12) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1353&q=12&slack=1)</small>
+
+**13. Steve Terry — "I think it starts from the top and works its way down." — The impact of team leadership and coaching changes** [23:56](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1436s)
+
+Steve Terry: "I think it starts from the top and works its way down. I have sat through Rambis and just, you know, just the most ridiculous of coaches and GMs, and you know, GM clipping his toenails during tryouts. I mean, it just don't even get me started with just the crazy I've seen in my life. But the fact that you have the head coach who doesn't really, outwardly, you know, except for the **Kyle Anderson**s and the **Mike Conley**s, loves him, just says he's a joy, he's just, you know, and they are giddy, and that's what, you know, when Jim was earlier just saying this is a fun team to watch."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1436s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1436s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1436&q=13) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1436&q=13&slack=1)</small>
+
+**14. Jon Krawczynski — "The depth of talent in this league is insane right now." — The Timberwolves' roster depth and player development** [25:29](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1529s)
+
+Jon Krawczynski: "The depth of talent in this league is insane right now. And I do think right now it is **Anthony Edwards**, **Jaden McDaniels**, **Naz Reid** at the top, but yeah, like, I mean, **Jaden McDaniels** is coming, **Naz Reid** will come back, like, there is so many great players. It is just unbelievable, but yeah, like I I mean, it is incredible what Oklahoma City continues to do even with all of these guys out. They just keep winning and **Anthony Edwards** is the guy that just stirs that drink."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1529s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1529s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1529&q=14) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1529&q=14&slack=1)</small>
+
+**15. Jon Krawczynski — "They have had a ton of injuries, Kobe White has been hurt, so they are short-handed." — The Timberwolves' roster management and player injuries** [26:33](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1593s)
+
+Jon Krawczynski: "They have had a ton of injuries, **Kobe White** has been hurt, so they are short-handed going in, but I think it has been some real growing pains with **Anthony Edwards**. There was a point where he was benched for the second half of a game because of some disagreements with **Charles Lee**, and it has been a rocky introduction."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1593s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1593s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1593&q=15) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1593&q=15&slack=1)</small>
+
+**16. Jon Krawczynski — "I think he will be fine. I think it will all work out in the long run." — Anthony Edwards' adjustment to his new role** [27:06](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1626s)
+
+Jon Krawczynski: "I think he will be fine. I think it will all work out in the long run, but, um, yeah, this this has been a real tough introduction for the Hornets in general and for **Anthony Edwards** in particular to a new role, to a new team, and he is just walking in footsteps that were created by Jaden McDaniels and it is it has been hard on him, I think."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1626s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1626s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1626&q=16) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1626&q=16&slack=1)</small>
+
+**17. Steve Terry — "Even if he was never traded, he was going to become a starter." — Steve Terry's perspective on team management and player trades** [28:13](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1693s)
+
+Steve Terry: "Even if he was never traded, he was going to become a starter. That is a big change to be six-man to go to a starter, and to then get traded after you get that promotion, we will call it. And if you ever follow any of the Hornets feed, they are pissed. I mean, they are like, who is this guy? Like, you know, they do not understand the value that he brings. So not only is it does he not have that Minnesota love surrounding him anymore, which you cannot recreate, like there is never going to be towels in Charlotte. It just that is a one-time, you know, no one is getting tattoos in Charlotte. It just we have to, you know, to know that."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1693s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1693s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1693&q=17) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1693&q=17&slack=1)</small>
+
+**18. Steve Terry — "The fact that you have the head coach who doesn't really, outwardly, loves him." — The impact of team leadership and coaching on player performance** [29:05](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1745s)
+
+Steve Terry: "The fact that you have the head coach who doesn't really, outwardly, you know, except for the Kyle Andersons and the Mike Conleys, loves him, just says he's a joy, he's just, you know, and they are giddy, and that's what, you know, when Jim was earlier just saying this is a fun team to watch. This is not the Jimmy Butler when we made the playoffs and it sucked, worst year ever. This is not Julius Randle who, you know, I personally, I think like him maybe more than most, you know, now that he's gone everyone jumps on him, but I mean, you know, he brought something to the team, but you know what he didn't bring was joy on the court."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1745s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1745s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1745&q=18) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1745&q=18&slack=1)</small>
+
+**19. Jon Krawczynski — "I would be surprised if she comes back at this point, Jim." — The potential departure of a key Timberwolves player** [33:04](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1984s)
+
+Jon Krawczynski: "I would be surprised if she comes back at this point, Jim. You heard Cheryl Reeve's comments at the end of the season, and it all of it seems to be laying the groundwork for **Nafisa**'s exit. Now, thank the Lord for the Lynx that they have Olivia Miles still here, um, to kind of rebuild around, and and and I think that her presence alone should have everyone believing that if **Nafisa** leaves, they will still be okay."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=1984s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=1984s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=1984&q=19) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=1984&q=19&slack=1)</small>
+
+**20. Steve Terry — "I would make the case that Finch before the season was talking about he wanted a more mature team." — The Timberwolves' roster management and team culture** [34:38](https://www.youtube.com/watch?v=8z28ZR3aCis&t=2078s)
+
+Steve Terry: "I would make the case that Finch before the season was talking about he wanted a more mature team, and that it was time, I think he might have said take off the diapers for, you know, the Ants and the Jadens, you know, they've been here six, seven years. And you know, I've heard this before. I would make the case that it actually has happened. This is a much more serious Timberwolves team. You look at teams last year who they lost to, and you add up those losses, it's the biggest difference between being home in the playoffs and starting on the road. It ended up not mattering, but it just this is a much more serious team."
+
+[https://www.youtube.com/watch?v=8z28ZR3aCis&t=2078s](https://www.youtube.com/watch?v=8z28ZR3aCis&t=2078s)
+
+<small>[Clip it](presserclips://clip?v=8z28ZR3aCis&t=2078&q=20) · [Send to Slack](presserclips://clip?v=8z28ZR3aCis&t=2078&q=20&slack=1)</small>
+
+---
+
+## PLENTY OF BEEF AND LAMB CHOMPS 🥩 Previewing Jayson Tatum vs. Jaylen Brown | NBA Today — *NBA on ESPN*
+
+Source: [https://www.youtube.com/watch?v=AiJzi11F6TU](https://www.youtube.com/watch?v=AiJzi11F6TU)
+
+_Speakers identified: Malika Andrews, Shams Charania, Chiney Ogwumike, Marc J. Spears, Bobby Marks, Paul George, Kris Rhim_
+
+**1. Shams Charania — "Jaylen Brown and Jayson Tatum last actually spoke in person, face-to-face, in France in late June." — Jaylen Brown and Jayson Tatum last spoke in person in France last June** [01:21](https://www.youtube.com/watch?v=AiJzi11F6TU&t=81s)
+
+**Malika Andrews:** "Given that back and forth that we just heard, when actually was the last time that these two players talked to each other?"
+
+**Shams Charania:** "**Jaylen Brown** and **Jayson Tatum** last actually spoke in person, face-to-face, in France in late June. This was just right after the **Giannis Antetokounmpo** trade to the Miami Heat where the Celtics offered **Jaylen Brown**, but they missed out on it. And this was also just days before **Jaylen Brown**'s eventual trade to the 76ers."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=81s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=81s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=81&q=1) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=81&q=1&slack=1)</small>
+
+**2. Shams Charania — "Both of these guys who have been together for about a decade together, they have not spoken." — Jaylen Brown and Jayson Tatum have not spoken since the trade** [02:12](https://www.youtube.com/watch?v=AiJzi11F6TU&t=132s)
+
+Shams Charania: "Both of these guys who have been together for about a decade together, they have not spoken since that trade. Whatever had to be hashed out was hashed out before the trade occurred in person between these two sides. And at the crux of this is **Jayson Tatum** believing, **Jaylen Brown** believing, what **Jayson Tatum** knew or didn't know in the lead up to his trade."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=132s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=132s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=132&q=2) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=132&q=2&slack=1)</small>
+
+**3. Chiney Ogwumike — "He's been the guy that they wanted him to be as the solo act." — Jayson Tatum is being used as a solo act this season** [04:46](https://www.youtube.com/watch?v=AiJzi11F6TU&t=286s)
+
+Chiney Ogwumike: "Even if they want to be friends and the conversations had or they weren't had, the fact of the matter is this was the game that I circled first on the NBA calendar. He has a career-high 33% in usage. He's been the guy that they wanted him to be as the solo act. So if he goes into Philly and does his thing with everyone trying to slow him down and have the other guys back, **Jaylen Brown**, I think it's going to be fascinating."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=286s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=286s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=286&q=3) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=286&q=3&slack=1)</small>
+
+**4. Marc J. Spears — "I was told that he actually that day of the trade called Jaylen Brown." — Jayson Tatum called Jaylen Brown after the trade and was ignored** [05:57](https://www.youtube.com/watch?v=AiJzi11F6TU&t=357s)
+
+Marc J. Spears: "I was told that Jayson was in Vegas at the time he found out about the trade and he got some sage advice like, 'Yo, get ahead of this. Get in front of this. You're everybody's looking at you and your reaction now.' So I was told that he actually that day of the trade called **Jaylen Brown** to discuss what happened and, you know, offer him support and talk about their time together and then the phone call didn't get picked up and hasn't been returned."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=357s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=357s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=357&q=4) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=357&q=4&slack=1)</small>
+
+**5. Bobby Marks — "Here's a player with Jayson Tatum out last year was in consideration for MVP." — Celtics chose Jayson Tatum over Jaylen Brown for MVP consideration** [07:00](https://www.youtube.com/watch?v=AiJzi11F6TU&t=420s)
+
+Bobby Marks: "Here's a player with **Jayson Tatum** out last year was in consideration for MVP, and at the end of the day they picked **Jayson Tatum** over **Jaylen Brown**. I mean, let's just face it as as it is right now. And then you have the team matchup, and no offense to the New York Knicks, the defending champions, you have the two best teams after 10 games squaring off against each other here on a Tuesday night."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=420s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=420s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=420&q=5) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=420&q=5&slack=1)</small>
+
+**6. Paul George — "Jayson Tatum is locked in, he's as professional as they come of preparing for a game." — Paul George says Jayson Tatum is locked in and playing at an MVP level** [07:55](https://www.youtube.com/watch?v=AiJzi11F6TU&t=475s)
+
+Paul George: "**Jayson Tatum** is locked in, he's as professional as they come of preparing for a game. He's been playing at an MVP level, and I think he's looking at it as, you know, another game on the schedule. Obviously there's a lot of noise surrounding it that hopefully he's not lost in, but it's our job to support him and help him through it and make sure his focus is where it needs to be for us to come out here and have a chance to play against a really good team."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=475s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=475s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=475&q=6) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=475&q=6&slack=1)</small>
+
+**7. Chiney Ogwumike — "I heard from Scotty Pippen because I still was in my feelings after this happened." — If fans boo, it shows they care about the players** [09:15](https://www.youtube.com/watch?v=AiJzi11F6TU&t=555s)
+
+Chiney Ogwumike: "I heard from **Scotty Pippen** because I still was in my feelings after this happened. He said, 'If they boo, it shows they care.' And people are going to care about not only these two teams, but also these two players because of the drama surrounding it. And so I'm not like, you know, it's going to be interesting. Philly also, respectfully, is a very petty fan base. And so I think they're going to try to insert themselves to help their squad get this win."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=555s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=555s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=555&q=7) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=555&q=7&slack=1)</small>
+
+**8. Chiney Ogwumike — "I believe that the Philadelphia 76ers consider that they they wanted to defend home court." — Celtics will send the cavalry at Jayson Tatum** [14:32](https://www.youtube.com/watch?v=AiJzi11F6TU&t=872s)
+
+Chiney Ogwumike: "I believe that the Philadelphia 76ers consider that they they wanted to defend home court. They're going to send the cavalry at him. This has been a great year for him as a playmaker. And so with them sending multiple bodies, he's just going to flex this muscle instead. I know he's number six in the NBA currently in scoring, but if he can create for others because they're going to send everyone towards him, this will be great for Boston."
+
+[https://www.youtube.com/watch?v=AiJzi11F6TU&t=872s](https://www.youtube.com/watch?v=AiJzi11F6TU&t=872s)
+
+<small>[Clip it](presserclips://clip?v=AiJzi11F6TU&t=872&q=8) · [Send to Slack](presserclips://clip?v=AiJzi11F6TU&t=872&q=8&slack=1)</small>
+
+---
+
+## Draymond Green on Warriors 8-Game Win Streak, Jordan Poole's Return Comments & Doc Rivers vs Giannis — *The Draymond Green Show*
+
+Source: [https://www.youtube.com/watch?v=KEXtvvKYtbw](https://www.youtube.com/watch?v=KEXtvvKYtbw)
+
+_Speakers identified: Draymond Green_
+
+**1. Draymond Green — "The win that I'll point the most to throughout this eight-game streak is the Lakers." — Draymond Green on the significance of the Lakers win** [01:09](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=69s)
+
+Draymond Green: "The win that I'll point the most to throughout this eight-game streak is the Lakers. I think it was really big for us to get that win. Obviously, it was an NBA Cup game, which is always a little more exciting. But even aside from it being an NBA Cup game, that's a team that we played the first game of the season, and we did not look very good. So to come back and play them in game six of the season, after we've kind of gotten our foot in a little bit, that's the win I would point at the most because we were down big in that game. We were down 40 to 15, 25 points at the top of the second quarter, and by halftime, we were tied up 53 to 53. So I would say that right there was the point where we dug in, we started getting stops on the defensive end, and to outscore a team, especially a great offensive team like the Lakers, 40 to 13 for the rest of the second quarter says a lot."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=69s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=69s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=69&q=1) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=69&q=1&slack=1)</small>
+
+**2. Draymond Green — "I still don't think 11 games into the season you're like, 'Oh man, we have our identity.'" — Draymond Green on the Warriors building their identity** [03:03](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=183s)
+
+Draymond Green: "I still don't think 11 games into the season you're like, 'Oh man, we have our identity.' You're still growing that, but I would say that is the first game where it's like, 'Yo, we really started to build an identity,' including being down and having the ability to come back. I think three of the next four games we were down 15-plus points and came back and won those games. So, the team started to build an identity in that game, and I think it's been full steam ahead for us since."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=183s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=183s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=183&q=2) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=183&q=2&slack=1)</small>
+
+**3. Draymond Green — "When you get a slew of injuries like we've got in the NBA over the past few weeks, teams are able to gain confidence." — Draymond Green on how injuries affect team confidence** [04:24](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=264s)
+
+Draymond Green: "Around the league, when you get a slew of injuries like we've got in the NBA over the past few weeks, teams are able to gain confidence because you look up and you're like, 'Man, it's wide open.' And when that happens, it's just a different mental switch that flips. So, the last three weeks has been great to the Dubs, and we've got to keep it going."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=264s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=264s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=264&q=3) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=264&q=3&slack=1)</small>
+
+**4. Draymond Green — "Fred VanVleet is the quarterback of that team. He is the floor general that team." — Draymond Green on Fred VanVleet's impact on the Rockets** [06:02](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=362s)
+
+Draymond Green: "**Fred VanVleet** is the quarterback of that team. He is the floor general that team, and he is the head of the snake. And when he went down last year, that Houston team was never the same. And they were never going to be the same. You take the quarterback off of an NFL team, and they're never the same. And so Fred being back, fully healthy, and it's showing in Houston's game. **Marcus Smart** has been a big addition for this Houston Rockets team. They're playing really good basketball."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=362s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=362s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=362&q=4) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=362&q=4&slack=1)</small>
+
+**5. Draymond Green — "I saw Yaxel had compared the Dubs to the Bad Boys Pistons and I would warn Yaxel." — Draymond Green on Yaxel's 'Bad Boys' comparison** [08:28](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=508s)
+
+Draymond Green: "I saw **Yaxel** had compared the Dubs to the Bad Boys Pistons and I would warn **Yaxel** he should go watch those Bad Boys Pistons. I don't think we're quite close to who those Bad Boys Pistons were. But, you know, I think any team that's going to have any shot at being a good team has to have an edge. And I think last year we didn't have much of an edge at all. We were a pretty shit team. This year, I think we have a lot more of an edge than we've had. And by the way, don't think that that does not aid in winning. That definitely aids in winning."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=508s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=508s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=508&q=5) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=508&q=5&slack=1)</small>
+
+**6. Draymond Green — "I love the edge that Georges, you know, has not only brought to our second unit." — Draymond Green on Georges Niang's competitive edge** [10:45](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=645s)
+
+Draymond Green: "I love the edge that Georges, you know, has not only brought to our second unit, but that he's brought to the team. Just that fierce competitiveness that he's brought to the team, never backing down, meeting force with force, getting in a few mix-ups. I've always told y'all things like that can jolt a team. And Georges, the role that he's been playing, not being afraid to mix it up, but also the way he's shooting the basketball, scoring the basketball in different ways, he's been a big, big addition. In the press conference the other night, I compared it to **Otto Porter** and the reality is I compared it to **Otto Porter** and to **Nemanja Bjelica**. Those two guys in 2022 were so vital to the team that we became, and neither one of those guys were signed as where people were riding home like, 'Man, the Warriors added those guys, they're going to make a difference in a championship.' Neither one of those guys, anyone said that about. Yet, I can sit here and tell you for certain, those two guys made so much of a difference in us winning a championship in 2022."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=645s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=645s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=645&q=6) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=645&q=6&slack=1)</small>
+
+**7. Draymond Green — "I was asked some questions last night about Jordan Poole's post-game comments where he spoke about returning." — Draymond Green on Jordan Poole's comments about returning to the Warriors** [14:28](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=868s)
+
+Draymond Green: "I was asked some questions last night about **Jordan Poole**'s post-game comments where he spoke about returning to the Dubs and said this place feels like home. And I understand that. Team he was drafted to, the team he's had the most success with, has not quite had a good go at it since leaving here. I completely understand that. I saw on Instagram my clip was, 'I have no issue with that.' I love how all the clickbait media publications try to clip one little piece of what you say and then try to use it to stir up controversy. And all the dummies that then read that one little clip of what you're saying and have this huge reaction, and a lot of the dummies' reactions be, 'You're so dumb and you're an idiot.' And it always baffles me when I sit and read the dummy say, 'You're a dummy, you're an idiot,' when they're clearly dumb because they read five sentences of a two-paragraph excerpt and said, 'You're stupid.' And I can't help for the life of me understand how they don't understand how stupid they are."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=868s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=868s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=868&q=7) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=868&q=7&slack=1)</small>
+
+**8. Draymond Green — "I don't make decisions here. I'm a basketball player. I don't decide my own future here." — Draymond Green on his relationship with Jordan Poole** [16:07](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=967s)
+
+Draymond Green: "I don't make decisions here. I'm a basketball player. I don't decide my own future here, let alone someone else's. That's the number one. Number two, what I said was also, I'm an adult. So if you're asking me as if that's going to be a problem for me, that's no problem for me. Number one, I'm not someone who walks around with a grudge, and to be honest with you, why would I even walk around with a grudge? That's not really even for me. And so, and that that's what I shared. You know, I like that that don't matter to me. Like that that don't affect me one way or another. I'm not someone that walks around with a grudge. I'm an adult. He's an adult. We will figure it out how adults figure it out. And man, it's become a relationship that I actually cherish. I cherish my relationship with CP. But my point when, and I told Mike then, I said, 'Mike, listen, me and **Chris Paul** have not seen eye to eye. It's my brother now, but we've not seen eye to eye in our career.' Can't say that I'm very fond of him at all. What I can tell you is that will not be an issue. I'm an adult, he's an adult. We will figure it out how adults figure it out."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=967s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=967s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=967&q=8) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=967&q=8&slack=1)</small>
+
+**9. Draymond Green — "Jimmy Butler worked out in his full Warriors uniform on Saturday. Jimmy Butler also worked out." — Draymond Green on Jimmy Butler working out in uniform** [17:06](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1026s)
+
+Draymond Green: "**Jimmy Butler** worked out in his full Warriors uniform on Saturday. **Jimmy Butler** also worked out in his full Warriors uniform on Monday. It's crazy because this isn't the first time I've seen like guys get in their full game uniform and workout. When Klay was rehabbing from his ACL or was it the Achilles? The Achilles, I want to say. Either the one, he would be in there in his full uniform during his workout. And I don't know what it is. I'm grateful that I haven't had to experience that, but I think, you know, it just kind of gives those guys like, rehab can be very tedious, and I have been through a lengthy rehab, not the length of that, but I have been through a lengthy rehab and it gets very tedious, mundane, same thing over and over and over again. And I think for those guys, they just want to feel the game. They want to feel the uniform, they want to feel a little different than what they felt throughout this entire rehab process. Jimmy's been on this rehab journey now since February. It's November. Right? So, I think guys kind of get that sense and want to feel that uniform again and wants to feel like, you know, things are getting closer to getting real again."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1026s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1026s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1026&q=9) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1026&q=9&slack=1)</small>
+
+**10. Draymond Green — "If we lose and I put on that Wolverine stuff, my skin would melt." — Draymond Green refuses to wear Michigan Wolverines gear for a bet** [21:14](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1274s)
+
+Draymond Green: "I would never make that bet. Because if we lose and I put on that Wolverine stuff, my skin would melt. Like, you literally see me just sit here and wither on away, just melt right away. I can't put that on. That's like acid, pouring acid on my skin. Putting a scum bum Wolverine shirt, hoodie, jersey, yuck. Yuck. Why would I do that? So, no, I'm not making that bet because when you make a bet, there's a 50/50 chance that you're going to lose. And that's too high of a percentage for me to possibly have to put on some scum bum gear."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1274s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1274s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1274&q=10) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1274&q=10&slack=1)</small>
+
+**11. Draymond Green — "You can make the point that you're trying to make without saying he doesn't have a high IQ." — Draymond Green on Doc Rivers' comments regarding Giannis Antetokounmpo's basketball IQ** [23:29](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s)
+
+Draymond Green: "When Doc says this, it's similar to Mark Jackson saying that, except when you start saying he doesn't have a super high IQ and he doesn't understand execution, those then come off and allow people to take them as personal shots. You can make the point that you're trying to make without saying he doesn't have a high IQ, without saying he needs to learn how to execute better. You can still make your point and not make it come off as a direct shot at Giannis. But I'll be honest, I don't think Doc was really taking a shot at him. I think Doc was kind of just sharing his truth and what he saw."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1409&q=11) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1409&q=11&slack=1)</small>
+
+**12. Draymond Green — "Mark Jackson has had never been more right about anything in his life when he said that." — Draymond Green compares Doc Rivers' comments to Mark Jackson's Steph Curry remarks** [23:29](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s)
+
+Draymond Green: "We learned this when **Mark Jackson** said **Steph Curry** ruined the game. When he said it, I remember everybody, including us, like, 'Damn, why would he say that?' But the reality is, **Mark Jackson** has had never been more right about anything in his life when he said that. He wasn't saying he ruined the game in a negative way. He was saying he ruined the game like, 'Now you got people who can't shoot threes casting a bunch of threes' because they see him do it and he makes it look so effortless."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1409&q=12) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1409&q=12&slack=1)</small>
+
+**13. Draymond Green — "He is a top 20, top 30 player in NBA history." — Draymond Green defends Giannis Antetokounmpo's status as an all-time great player** [23:29](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s)
+
+Draymond Green: "Be very careful with all the Giannis dialogue. Number one, he is a top 20, top 30 player in NBA history. Whether he got a high IQ, whether he execute well, whether he go too fast and crazy downhill, he top 20. So whatever the hell he doing wrong, cool. Maybe it would have took him from top 20 to eight. But top 20 ain't that bad. The **Doc Christy** one was crazy to me. Like that's wild. Some things, as a wise man once told me, some things are better left unsaid."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1409s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1409&q=13) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1409&q=13&slack=1)</small>
+
+**14. Draymond Green — "I think the low post is becoming an endangered part of our game" — Nikola Jokic believes the low post will soon become extinct** [32:15](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1935s)
+
+Draymond Green: "**Nikola Jokic** predicts that the low post would be completely gone from the NBA within five to ten years. He said the low post defenders are allowed to do much more. They can push, grab, and be more physical than they can when defending on the perimeter. And I think that's why players are no longer willing to play in the low post as much. You get fouled, but it's not called. You keep getting tired after every possession. That's why I think the low post is becoming an endangered part of our game and probably five to ten years, it might not even be there anymore. And I would tell Joker, I agree. I think the low post will continue to become more and more extinct."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1935s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1935s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1935&q=14) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1935&q=14&slack=1)</small>
+
+**15. Draymond Green — "It is 1,000% refereed differently in them trenches." — NBA officiating is inconsistent between the perimeter and the post** [32:15](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1935s)
+
+Draymond Green: "When I first came in the league 14 years ago, you had two bigs in the low post getting the ball thrown into them and them trying to get a bucket. Everything has changed. We spoke about **Stephen Curry** earlier, that's a part of the reasoning it changed. Analytics, how much more a three-point shot is worth than a two-point shot. All of these things. I agree with Joker. Also, I agree with them in if you jump in the middle of the lane off a jump hook and you shoot a jump hook and you land on somebody's foot, they ain't calling the flagrant foul. You shoot a jump shot outside of the three and you land on somebody's foot, they're calling the flagrant foul. It is 1,000% refereed differently in them trenches."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1935s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=1935s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=1935&q=15) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=1935&q=15&slack=1)</small>
+
+**16. Draymond Green — "The Lakers are currently number one in the West and Luka Doncic is averaging 40." — Draymond Green on the Lakers' performance and Luka Doncic** [35:13](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=2113s)
+
+Draymond Green: "The Lakers are currently number one in the West and **Luka Doncic** is averaging 40. He had a very pedestrian 32, 8 and 10 last night versus the Pistons. Very, very pedestrian game, Luka, 32, 8 and 10. Uh, but **Luka Doncic** is playing at an MVP level right now, uh, with the Lakers number one in the West. Uh, you know, I said this from the very beginning, I think these Lakers teams are going to win a lot of regular season games. When you got guy like **Luka Doncic** who can control the possession of every game, you going to win a lot. Once they get to the playoffs, uh, they'll have to figure some things out, especially on the defensive end in order to keep that going. Uh, and and, you know, but they are off to a great start. They got guys playing their role. Walker Kessler has been really good lob threat. He has great hands, uh, defensive anchor, presence at the rim. Uh, this team has been really good. You know, to see Austin go off versus the Pistons like that with Luka sitting, Luka then come back to next night versus the Hawks. Like, they got a good thing going. And so I would say, you know, are you buying into the hype of the Lakers? You better. Uh, at least for this regular season. And, you know, again, the playoffs pose a different challenge. I'm not saying they can't win in the playoffs, but the playoffs pose a different challenge and we'll have to wait and see. But they're going to be good all year, buying they stay healthy."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=2113s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=2113s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=2113&q=16) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=2113&q=16&slack=1)</small>
+
+**17. Draymond Green — "Darius Acuff has been on a tear and I know a lot of people is complaining about all." — Draymond Green on Darius Acuff's development** [36:35](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=2195s)
+
+Draymond Green: "**Darius Acuff** has been on a tear and I know a lot of people is complaining about all he's taking this many shots, he's doing that. Uh, and it just seems to me that he's starting to figure it out. Uh, he's playing really well, he's shooting the ball a lot better. Uh, obviously, it hasn't equated to many wins for the Sacramento Kings, but that ain't really on **Darius Acuff**. Uh, but he he's starting to put it together. Uh, he's definitely going to be right up there at the top of uh the rookie of the year race uh with Yaxel, with **Cam Boozer**. Uh, he's going to be right up there in that race. **AJ Dybantsa** since being healthy, uh has been playing well. Great rookie class, Acuff getting to it. I told y'all I think Acuff can be a special player in this league. He can really score that basketball and I think he's starting to figure it out."
+
+[https://www.youtube.com/watch?v=KEXtvvKYtbw&t=2195s](https://www.youtube.com/watch?v=KEXtvvKYtbw&t=2195s)
+
+<small>[Clip it](presserclips://clip?v=KEXtvvKYtbw&t=2195&q=17) · [Send to Slack](presserclips://clip?v=KEXtvvKYtbw&t=2195&q=17&slack=1)</small>
+
+---
+
+## Gilbert Arenas says he REALLY wanted the SMOKE with John Wall — *Out The Mud*
+
+Source: [https://www.youtube.com/watch?v=TDPJDGm3mFE](https://www.youtube.com/watch?v=TDPJDGm3mFE)
+
+_Speakers identified: Gilbert Arenas, Zach Randolph, Tony Allen_
+
+**1. Gilbert Arenas — "I'm neutralizing in Orlando. So when I get back to DC, I'm on demon time." — Gilbert Arenas on his competitive mindset while playing in Orlando** [00:14](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=14s)
+
+**Zach Randolph:** "Your shin was hurting in Orlando too? Your shin was aching you in Orlando? Because I've seen the few games you got busy in Orlando."
+
+**Gilbert Arenas:** "No, it was more so much stuff was happening. Just got off the gun thing. You see me in Chicago, right? So what happened is I'm neutralizing in Orlando. So when I get back to DC, I'm on demon time. Grew the hair. **John Wall**, check that stuff up. He getting mopped."
+
+[https://www.youtube.com/watch?v=TDPJDGm3mFE&t=14s](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=14s)
+
+<small>[Clip it](presserclips://clip?v=TDPJDGm3mFE&t=14&q=1) · [Send to Slack](presserclips://clip?v=TDPJDGm3mFE&t=14&q=1&slack=1)</small>
+
+**2. Gilbert Arenas — "He's a right-handed that want to go left. So he jump off his right foot." — Gilbert Arenas explains his tactical approach to playing against John Wall** [00:52](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=52s)
+
+Gilbert Arenas: "That number one pick, I mean, I mopped him. I watched film on him. I'm like, he's a right-handed that want to go left. So he jump off his right foot, and two-foot jumps off his left with the lean, so he don't have the same power as a righty. I'm like, I'm going to just push him towards his right. People going to think I'm stupid. So I already got this guy down. Meet this guy for the first time, I said, 'Oh, Gil, what's up, OG?' I threw your whole shit off, man. I'm a big fan, dog. I can't wait to play with you, OG."
+
+[https://www.youtube.com/watch?v=TDPJDGm3mFE&t=52s](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=52s)
+
+<small>[Clip it](presserclips://clip?v=TDPJDGm3mFE&t=52&q=2) · [Send to Slack](presserclips://clip?v=TDPJDGm3mFE&t=52&q=2&slack=1)</small>
+
+**3. Gilbert Arenas — "I'm on demon time, man. I'm mad at the whole situation, mad at the organization." — Gilbert Arenas on his frustration with the Washington Wizards organization** [01:48](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=108s)
+
+Gilbert Arenas: "I'm on demon time, man. I'm mad at the whole situation, mad at the organization, man. I'm making everybody pay. And then the dude that's replacing me is like, 'Man, the NBA, man, what's up, man?' I'm like, this is you, dog. This is you. Whatever you need, boss hog, I'm good, man. You don't have to worry about like, I'm adapting to you. How you play the game, where you want me at, that's where it's at, man. This ain't my shit, this is you. It's all you. I'm not even going to be in your way, big dog. And that's how I went into it. But when I got to Orlando, it was more like, it ain't my place. Like this the white place. Like I can't come in and, 'Hey man, hey coach, man, get the fuck out my way, man. What's up?' Like so every time he was forced to play me, like so like J. Rich is out, J.J. Redick out, I'm not, it's just me and Duhan, and he got to play us. Like see, popping my shit."
+
+[https://www.youtube.com/watch?v=TDPJDGm3mFE&t=108s](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=108s)
+
+<small>[Clip it](presserclips://clip?v=TDPJDGm3mFE&t=108&q=3) · [Send to Slack](presserclips://clip?v=TDPJDGm3mFE&t=108&q=3&slack=1)</small>
+
+**4. Gilbert Arenas — "Jameer Nelson was this guy. That man Jameer sacrificed. He done went through the mud with you." — Gilbert Arenas on Jameer Nelson's role in Orlando** [03:24](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=204s)
+
+Gilbert Arenas: "**Jameer Nelson** was this guy. That man Jameer sacrificed. He done went through the mud with you, everything. You can't just say and just come in, I'm going to just play. No. I even told Jameer, like you know how you see like that that unsettling like, 'Ah man, like this kind of shit looking a little stressful out there in the shot,' like, 'Hey, hey, hey, bro. I'm coming off the bench, man. I work the second unit. This is your team.' Because if we got him as the leading point guard, like thinking about like getting yanked out the lineup because the papers writing it, like no, like our unit, you got that unit, J. Rich and them, is me, **J.J. Redick**, **Ryan Nelson**, like we good over here. Don't worry about it. I'm not coming for your position. I'm cool with where I'm at."
+
+[https://www.youtube.com/watch?v=TDPJDGm3mFE&t=204s](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=204s)
+
+<small>[Clip it](presserclips://clip?v=TDPJDGm3mFE&t=204&q=4) · [Send to Slack](presserclips://clip?v=TDPJDGm3mFE&t=204&q=4&slack=1)</small>
+
+**5. Gilbert Arenas — "I was the first NBA player to get served child support on the court." — Gilbert Arenas on being the first NBA player served child support on court** [04:26](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=266s)
+
+Gilbert Arenas: "I got served on the in on national TV. I was the first NBA player to get served child support on the court. Walking at halftime. Missed arenas, what up, man? You think it is the reporter. Nigga, this is a server. I'm thinking I'm about to sign some autograph. I've been served. You like, what the fuck? Nigga, stop the game. I look at my phone, man, they were like, 'Did you just get served child support papers on the court?' I was like, yep."
+
+[https://www.youtube.com/watch?v=TDPJDGm3mFE&t=266s](https://www.youtube.com/watch?v=TDPJDGm3mFE&t=266s)
+
+<small>[Clip it](presserclips://clip?v=TDPJDGm3mFE&t=266&q=5) · [Send to Slack](presserclips://clip?v=TDPJDGm3mFE&t=266&q=5&slack=1)</small>
+
+---
+
+## Boogie & Lou - “The Grizzlies Are PRETENDERS!" — *Run It Back*
+
+Source: [https://www.youtube.com/watch?v=gxwF0t3_QCs](https://www.youtube.com/watch?v=gxwF0t3_QCs)
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, DeMarcus Cousins_
+
+**1. Chandler Parsons — "If we're talking about contenders to win an NBA championship this year, no chance." — Chandler Parsons on whether the Memphis Grizzlies are true contenders** [00:10](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=10s)
+
+**Michelle Beadle:** "Before we do this, this means an actual contender like to win the championship?"
+
+**Chandler Parsons:** "It is going to be relative. If we're talking about contenders to win an NBA championship this year, no chance. I don't even want to call it fool's gold. I think they got off to a hot start. I think they found something offensively and they are riding a heater. But as a contending team, the league is too deep, it's too talented, and this team is nowhere near that."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=10s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=10s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=10&q=1) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=10&q=1&slack=1)</small>
+
+**2. Chandler Parsons — "I think they have the potential to make the play-in, and I do." — Chandler Parsons on the Memphis Grizzlies' potential to make the play-in** [00:47](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=47s)
+
+Chandler Parsons: "I think they have the potential to make the play-in, and I do. I think they have **Tyreke Evans** who is playing out of his mind. They have guys like **GG Jackson**, **Jalen Wells**, and **Cam Spencer** who I still think is the most solid, consistent rookie in this unbelievable draft class. I think they might have enough to get into that play-in and then we know anything can happen once we're there."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=47s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=47s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=47&q=2) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=47&q=2&slack=1)</small>
+
+**3. DeMarcus Cousins — "If you allow a team that's in the process of a full rebuild right now to make the playoffs, that's crazy." — DeMarcus Cousins on why the Memphis Grizzlies won't make the playoffs** [03:16](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=196s)
+
+DeMarcus Cousins: "If Memphis is making the playoffs in the West this year, it's going to be some coaches and players getting fired. There's going to be some open positions. Yeah, because there's no way. If you allow a team that's in the process of a full rebuild right now to make the playoffs, that's crazy. I'm going to go on a limb, I don't think they are, and it's no knock to them. I think they got off to an incredible start, a hot start. Obviously, **Tyreke Evans** played a huge part in that, but it's not enough."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=196s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=196s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=196&q=3) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=196&q=3&slack=1)</small>
+
+**4. Lou Williams — "They are a bottom five team defensively and I just saw Coach Spo talking about it." — Lou Williams on the Miami Heat's defensive struggles** [05:30](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=330s)
+
+Lou Williams: "When you look at this team on paper, it's hard to just say I don't think it's going to work out because a lot of these guys have championship pedigree where they can figure things out and they can rig the deck for their liking. But one thing that we talked about for this team early on was how special they were going to be on the defensive end because of all the length and the size that they had on that team. That group hasn't showed up yet. They are a bottom five team defensively and I just saw Coach Spo talking about it. They haven't reached their potential on the defensive end. Until that clicks in, they are going to be the team that they are right now."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=330s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=330s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=330&q=4) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=330&q=4&slack=1)</small>
+
+**5. DeMarcus Cousins — "The biggest one is the defensive end." — DeMarcus Cousins on the Miami Heat's defensive issues** [07:08](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=428s)
+
+DeMarcus Cousins: "It's a lot of issues in hand for this Heat group and I think the biggest one is the defensive end. You look at this group on paper, you would think they would be a top five, top three defense from day one. It's just not clicking. Offensively, guys have gotten better. I can give them that. I think Bam is playing at a higher level offensively. Clay is playing unbelievable right now and I want to give a shout out to him because there was a lot of dirt thrown on his name, so I'm glad to see Clay back in a good place and playing at a high level. But their problems stem on defense."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=428s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=428s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=428&q=5) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=428&q=5&slack=1)</small>
+
+**6. Chandler Parsons — "I thought Andrew Wiggins would kind of step up better and he's playing 26, 27 minutes a game." — Chandler Parsons on the underperformance of Andrew Wiggins and Tim Hardaway Jr.** [08:27](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=507s)
+
+Chandler Parsons: "They have all the capabilities, starting with their point guard **Davion Mitchell**, to Giannis, to Bam, to **Andrew Wiggins** who I thought would kind of step up better and he's playing 26, 27 minutes a game, averaging eight points a game. That's not enough for a guy as talented as **Andrew Wiggins**. I thought **Tim Hardaway Jr.** would have more of an impact immediately with the way he can shoot the basketball. He hasn't really got his footing yet. So again, if we're talking contender to win a championship, no. Contender to get in the play-in and anything can happen and surprise the Knicks in a first round matchup, who knows what will get there, but a contender, not right now, not even close."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=507s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=507s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=507&q=6) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=507&q=6&slack=1)</small>
+
+**7. DeMarcus Cousins — "Got to respect the champs, you have to." — DeMarcus Cousins on the New York Knicks' championship potential** [11:18](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=678s)
+
+DeMarcus Cousins: "Got to respect the champs, you have to. They've kind of shown a history of being this team, kind of struggled throughout certain parts of the year and then the next thing you know they are running off 10, 12 straight. So you got to you got to put respect on the champs name. They're not playing their best basketball right now. I think KAT is playing at an extremely high level. I also think Brunson is playing at a high level. But when you think about the guys surrounding them like the **Mitchell Robinson** who's been struggling, you know, they're still figuring it out, which is kind of crazy to say."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=678s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=678s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=678&q=7) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=678&q=7&slack=1)</small>
+
+**8. DeMarcus Cousins — "I think because they don't want to discuss it right now, they're going to keep their cards close." — DeMarcus Cousins on the New York Knicks' contract situation** [13:49](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=829s)
+
+DeMarcus Cousins: "I think because they don't want to discuss it right now, they're going to keep their cards close to their chest and they'll make those decisions based on performance. But listen, them some big, them some big price tags out there. And so if you already got a championship out of it, the question is how serious are you in wanting to stay in that conversation of competing for championships and what are you willing to do to stay there and how much is it going to cost you? So with that, I think they're just trying to play the field and see what kind of team they are."
+
+[https://www.youtube.com/watch?v=gxwF0t3_QCs&t=829s](https://www.youtube.com/watch?v=gxwF0t3_QCs&t=829s)
+
+<small>[Clip it](presserclips://clip?v=gxwF0t3_QCs&t=829&q=8) · [Send to Slack](presserclips://clip?v=gxwF0t3_QCs&t=829&q=8&slack=1)</small>
+
+---
+
+## Jayson Tatum vs Jaylen Brown GO AT IT TONIGHT, Luka is AHEAD of DURANT ? and the CAVS STINK — *To The Baha*
+
+Source: [https://www.youtube.com/watch?v=pZguGwHkA9w](https://www.youtube.com/watch?v=pZguGwHkA9w)
+
+_Speakers identified: Theo Pinson, Raymond Felton, Charlie Villanueva, Thaddeus Young_
+
+**1. Charlie Villanueva — "Michael Jordan would be my GOAT to the day I go in the grave" — Charlie Villanueva on his respect for Michael Jordan as the GOAT** [06:47](https://www.youtube.com/watch?v=pZguGwHkA9w&t=407s)
+
+**Charlie Villanueva:** "**Michael Jordan** would be my GOAT to the day I go in the grave, niggas."
+
+**Raymond Felton:** "We all had a childhood inside of us, right?"
+
+**Theo Pinson:** "And when we beat their ass, we going to give them all a Baha blast."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=407s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=407s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=407&q=1) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=407&q=1&slack=1)</small>
+
+**2. Theo Pinson — "Who is the better player in the jersey number two at OKC?" — Theo Pinson and Raymond Felton debate who is the better player at OKC** [08:24](https://www.youtube.com/watch?v=pZguGwHkA9w&t=504s)
+
+**Theo Pinson:** "Ray, who is the better player in the jersey number two at OKC? You or **Shai Gilgeous-Alexander**?"
+
+**Raymond Felton:** "I'm going to say this nigga better than me. I did put you on the spot there, I'm sorry."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=504s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=504s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=504&q=2) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=504&q=2&slack=1)</small>
+
+**3. Theo Pinson — "Better number 21, you or Joel Embiid?" — Theo Pinson and Thaddeus Young discuss their time playing for the Philadelphia 76ers** [09:23](https://www.youtube.com/watch?v=pZguGwHkA9w&t=563s)
+
+**Theo Pinson:** "Better number 21, you or **Joel Embiid**?"
+
+**Thaddeus Young:** "Both played for Philly. That is a tough question, man. Why you ask me that?"
+
+**Theo Pinson:** "Thad, I don't know how tough it is, brother. We got an MVP."
+
+**Thaddeus Young:** "I played more games. I might have more points, though."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=563s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=563s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=563&q=3) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=563&q=3&slack=1)</small>
+
+**4. Charlie Villanueva — "You know Michael Jordan is number one. You know who is number two? Luka Doncic." — Charlie Villanueva ranks Luka Doncic as the second-best playoff scorer behind Michael Jordan** [13:36](https://www.youtube.com/watch?v=pZguGwHkA9w&t=816s)
+
+**Charlie Villanueva:** "You know **Michael Jordan** is number one. You know who is number two? **Luka Doncic**. Luka averages 30 in the playoffs."
+
+**Raymond Felton:** "He is a bad boy, man."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=816s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=816s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=816&q=4) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=816&q=4&slack=1)</small>
+
+**5. Theo Pinson — "There is one thing you can't do is deny that he is one of the baddest dudes." — Theo Pinson discusses the impact of Luka Doncic's performance on the Dallas Mavericks** [14:39](https://www.youtube.com/watch?v=pZguGwHkA9w&t=879s)
+
+**Theo Pinson:** "There is one thing you can't do is deny that he is one of the baddest dudes in the NBA right now."
+
+**Charlie Villanueva:** "He is the best scorer in the NBA. Let's get that clear."
+
+**Thaddeus Young:** "Yeah, for sure."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=879s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=879s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=879&q=5) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=879&q=5&slack=1)</small>
+
+**6. Theo Pinson — "Of course we are going to be talking about Jaylen Brown and Jayson Tatum tonight." — Theo Pinson previews the upcoming Celtics vs. Mavericks game** [15:57](https://www.youtube.com/watch?v=pZguGwHkA9w&t=957s)
+
+Theo Pinson: "Of course we are going to be talking about **Jaylen Brown** and **Jayson Tatum** tonight. It is going to be absolutely just absolute cinema. I can't wait to see it."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=957s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=957s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=957&q=6) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=957&q=6&slack=1)</small>
+
+**7. Theo Pinson — "Jontay Porter estimated that he wagered at least $500 million in his life." — Theo Pinson and Raymond Felton discuss Jontay Porter's betting scandal** [17:16](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1036s)
+
+**Theo Pinson:** "**Jontay Porter** estimated that he wagered at least $500 million in his life and is in regular therapy for his addiction."
+
+**Raymond Felton:** "Where did he get $500 million?"
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=1036s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1036s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=1036&q=7) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=1036&q=7&slack=1)</small>
+
+**8. Theo Pinson — "Jaylen Brown is 1000% guarding Jayson Tatum tonight." — Theo Pinson and Raymond Felton debate the defensive matchup between Jaylen Brown and Jayson Tatum** [18:20](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1100s)
+
+**Theo Pinson:** "**Jaylen Brown** is 1000% guarding **Jayson Tatum** tonight."
+
+**Thaddeus Young:** "He is already in the shootaround."
+
+**Charlie Villanueva:** "The magic and bird guard each other."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=1100s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1100s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=1100&q=8) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=1100&q=8&slack=1)</small>
+
+**9. Theo Pinson — "For me, I look at how many ways can you score the basketball? Kevin Durant checks all the boxes." — Theo Pinson argues that Kevin Durant is a better scorer than Luka Doncic** [19:48](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1188s)
+
+**Theo Pinson:** "For me, I look at how many ways can you score the basketball? **Kevin Durant** checks all the boxes. Getting to the rim, finishing above the rim, Luka doesn't have that."
+
+**Charlie Villanueva:** "No, he can't. He is not athletic, bro."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=1188s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1188s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=1188&q=9) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=1188&q=9&slack=1)</small>
+
+**10. Raymond Felton — "Kevin Durant is a better player. I said this already because on the other end, he is a better defender." — Raymond Felton argues that Kevin Durant is a better player than Luka Doncic due to his defense** [21:40](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1300s)
+
+**Raymond Felton:** "**Kevin Durant** is a better player. I said this already because on the other end, he is a better defender."
+
+**Theo Pinson:** "So **Kevin Durant** is the better player, so I'm not saying Luka is better than **Kevin Durant**."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=1300s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=1300s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=1300&q=10) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=1300&q=10&slack=1)</small>
+
+**11. Charlie Villanueva — "Luka is number one in scoring, top six in assists, top ten in rebounds." — Luka Doncic's MVP candidacy and defensive impact** [1:00:36](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3636s)
+
+**Charlie Villanueva:** "Luka is number one in scoring, top six in assists, top ten in rebounds. He is number one in point guards in rebound. A star Thompson is one. Okay, number two to me, I'm just fucking with you."
+
+**Theo Pinson:** "I don't understand what you're saying. There's one, two, three, and then everybody else down here who's honorable mention is down here. But, Shay is up there with them guys. He may not win it, he's up there with them."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=3636s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3636s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=3636&q=11) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=3636&q=11&slack=1)</small>
+
+**12. Charlie Villanueva — "Wembanyama is doing stuff on both ends of the basketball court. I value that more." — Victor Wembanyama's dominance on both ends of the floor** [1:01:03](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3663s)
+
+**Charlie Villanueva:** "I'm not going to do that though. If he's in the conversation still, no he's not. Bro, it's not he's not in the conversation. That's crazy. Not with those two dudes. Those two dudes are in a different league, fam, right now, right now."
+
+**Theo Pinson:** "Wembanyama is doing stuff on both ends of the basketball court. I value that more. For sure. No, I I value that way more. But that's not what I that's not what our MVP has been predicated off."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=3663s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3663s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=3663&q=12) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=3663&q=12&slack=1)</small>
+
+**13. Charlie Villanueva — "Wembanyama is averaging 30 and 12 and five blocks. That's insane." — Victor Wembanyama's statistical dominance and MVP case** [1:01:25](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3685s)
+
+**Charlie Villanueva:** "Wembanyama is averaging 30 and 12 and five blocks. That's insane. With a healthy, good fucking team. If Shay takes this team to a top three in the West, which he probably will, he's MVP for the third time."
+
+**Theo Pinson:** "If he does, he's MVP. No, he won't. He won't. He won't. If he do, he's MVP."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=3685s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=3685s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=3685&q=13) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=3685&q=13&slack=1)</small>
+
+**14. Theo Pinson — "Asur Thompson has become a liability on offense. Is Detroit better if Jenkins starts?" — Asur Thompson's offensive struggles and the Pistons' rotation** [2:01:17](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7277s)
+
+Theo Pinson: "Yo Ray and CV, why some players never improve their game offensively? **Asur Thompson** has become a liability on offense. Is Detroit better if **Jenkins** starts?"
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7277s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7277s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7277&q=14) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7277&q=14&slack=1)</small>
+
+**15. Raymond Felton — "We penalize Luka for not playing defense. It looks like he's playing with kids." — Luka Doncic's defensive effort and the team's reliance on him** [2:01:37](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7297s)
+
+Raymond Felton: "You know what I hate? We penalize Luka for not playing defense. It looks like he's playing with kids. But then a guy like **Ben Wallace**, we glorify him. **Ben Wallace** is elite, but we don't talk about **Ben Wallace** on the offensive end. Why? We never talk about **Ben Wallace** as the MVP in the league. We never talk about **Ben Wallace** as the MVP of the basketball. But that's what I'm saying, he's a Hall of Famer because he was an elite defender. He's doing it offensively and defensively. That was my take. He's a Hall of Famer because he was an elite defender."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7297s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7297s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7297&q=15) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7297&q=15&slack=1)</small>
+
+**16. Theo Pinson — "Asur has to improve. He has to improve offensively or the Detroit offense is going to be where they are last year." — The Pistons' need for more offensive firepower** [2:02:32](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7352s)
+
+Theo Pinson: "But yeah, Asur has to improve. He has to improve offensively or the Detroit offense is going to be where they are last year. I think they just need another offensive weapon. You paid them $166 million. They need another offensive weapon, that's it."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7352s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7352s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7352&q=16) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7352&q=16&slack=1)</small>
+
+**17. Theo Pinson — "I definitely thought about playing, just didn't work out. I wanted to continue this path and this journey." — Theo Pinson's thoughts on playing in the EuroLeague** [2:03:13](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7393s)
+
+Theo Pinson: "I definitely thought about playing, just didn't work out. I wanted to continue this path and this journey. But shout out to Truth Hurts, whatever. We'll see what they do."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7393s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7393s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7393&q=17) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7393&q=17&slack=1)</small>
+
+**19. Theo Pinson — "Rudy Gobert was questionable for a bee sting, and I was acting like bees were in the gym." — Theo Pinson's best locker room prank story** [2:04:49](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7489s)
+
+Theo Pinson: "There was one year we were in the playoffs, we played the Utah Jazz. It was **Rudy Gobert** was questionable for a bee sting, and I was acting like bees were in the gym when he was shooting a free throw. He missed it."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7489s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7489s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7489&q=19) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7489&q=19&slack=1)</small>
+
+**20. Raymond Felton — "I went to Jay-Z's restaurant, 40/40. Had a birthday party the night before, and the next night I got drafted." — Raymond Felton's NBA draft night and birthday celebration** [2:05:35](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7535s)
+
+Raymond Felton: "I went to **Jay-Z**'s restaurant, 40/40. Had a birthday party the night before, and the next night I got drafted and became a millionaire. So, fuck, it was a hell of a birthday."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7535s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7535s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7535&q=20) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7535&q=20&slack=1)</small>
+
+**21. Theo Pinson — "No matter what Luka does, Wembanyama keeps doing this on both ends of the floor will be MVP." — Luka Doncic's MVP case compared to Victor Wembanyama** [2:06:27](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7587s)
+
+Theo Pinson: "No matter what Luka does, Wembanyama keeps doing this on both ends of the floor will be MVP."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7587s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7587s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7587&q=21) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7587&q=21&slack=1)</small>
+
+**22. Theo Pinson — "Kevin Durant and Kyrie Irving couldn't make it out the East. They were hurt." — Kevin Durant and Kyrie Irving's time in Brooklyn** [2:06:38](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7598s)
+
+Theo Pinson: "**Kevin Durant** and **Kyrie Irving** couldn't make it out the East. They were hurt. So, they did get their ass whooped by Boston."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7598s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7598s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7598&q=22) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7598&q=22&slack=1)</small>
+
+**23. Raymond Felton — "Kevin Durant is the second leading scorer in NBA history." — Kevin Durant's efficiency and MVP standing** [2:07:01](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7621s)
+
+Raymond Felton: "There's a reason why that man is the second leading scorer in NBA history, averages."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7621s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7621s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7621&q=23) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7621&q=23&slack=1)</small>
+
+**24. Theo Pinson — "We never give LeBron the nod over Kobe for scoring efficiently. How does that work for Kevin Durant over Luka?" — Comparing Kevin Durant and LeBron James' scoring efficiency** [2:08:12](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7692s)
+
+Theo Pinson: "We never give LeBron the nod over Kobe for scoring efficiently. How does that work for **Kevin Durant** over Luka? The object of the game is to put the ball in the basket. LeBron does it more efficiently, Ray. If he does it at a higher clip than the other person, how can you say that? Like, you can shoot the ball all the fucking time."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7692s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7692s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7692&q=24) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7692&q=24&slack=1)</small>
+
+**25. Theo Pinson — "Luka has four first All-NBA teams before they switched it to position-less in 2023-24." — Luka Doncic's All-NBA team selections** [2:10:07](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7807s)
+
+Theo Pinson: "Luka has four first All-NBA teams before they switched it to position-less in 2023-24."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7807s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7807s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7807&q=25) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7807&q=25&slack=1)</small>
+
+**26. Theo Pinson — "If he had to go against them killers, that's a tough ass era." — The difficulty of the era of point guards** [2:11:04](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7864s)
+
+Theo Pinson: "If he had to go against them killers, that's a tough ass era. Trust me, I know."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7864s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7864s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7864&q=26) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7864&q=26&slack=1)</small>
+
+**27. Theo Pinson — "Shai Gilgeous-Alexander has a historical efficiency rating ever." — Shai Gilgeous-Alexander's efficiency and value to the Thunder** [2:12:35](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7955s)
+
+Theo Pinson: "**Shai Gilgeous-Alexander** has a historical efficiency rating ever."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7955s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7955s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7955&q=27) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7955&q=27&slack=1)</small>
+
+**28. Theo Pinson — "In my opinion, I got Charles Barkley over Steve Nash. He got his MVP over Michael Jordan." — Charles Barkley as the greatest Phoenix Sun of all time** [2:13:09](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7989s)
+
+Theo Pinson: "In my opinion, I got **Charles Barkley** over **Steve Nash**. He got his MVP over **Michael Jordan** and got them to the finals."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=7989s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=7989s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=7989&q=28) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=7989&q=28&slack=1)</small>
+
+**29. Theo Pinson — "Elgin unfortunately only played 48 games though." — Elgin Baylor's limited games played** [2:13:36](https://www.youtube.com/watch?v=pZguGwHkA9w&t=8016s)
+
+Theo Pinson: "Elgin unfortunately only played 48 games though."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=8016s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=8016s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=8016&q=29) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=8016&q=29&slack=1)</small>
+
+**30. Theo Pinson — "Like James Harden but can't post up or catch off a screen." — Comparing James Harden's playstyle to Luka Doncic** [2:14:00](https://www.youtube.com/watch?v=pZguGwHkA9w&t=8040s)
+
+Theo Pinson: "Like **James Harden** but can't post up or catch off a screen. Yeah, he didn't post like Luka does. But I don't think I don't know. Kyrie's post game is elite, man."
+
+[https://www.youtube.com/watch?v=pZguGwHkA9w&t=8040s](https://www.youtube.com/watch?v=pZguGwHkA9w&t=8040s)
+
+<small>[Clip it](presserclips://clip?v=pZguGwHkA9w&t=8040&q=30) · [Send to Slack](presserclips://clip?v=pZguGwHkA9w&t=8040&q=30&slack=1)</small>
+
+---
+
+## Could LeBron Play Tight End? Road Trippin’ DEBATES Zack Martin & Tyler Eifert — *Road Trippin*
+
+Source: [https://www.youtube.com/watch?v=uEkVcuCO_es](https://www.youtube.com/watch?v=uEkVcuCO_es)
+
+_Speakers identified: Kendrick Perkins, Channing Frye, Richard Jefferson, Allie Clifton, Tyler Eifert, Zack Martin_
+
+**1. Tyler Eifert — "If you can't play basketball, you play football. That's the only thing I'm saying." — Tyler Eifert on the transition from basketball to football** [00:00](https://www.youtube.com/watch?v=uEkVcuCO_es&t=0s)
+
+Tyler Eifert: "We're just better athletes. So, if you can't play basketball, you play football. That's the only thing I'm saying. LeBron, he can jump and he can catch it, but if he was just going to block, he'd go, 'No!'"
+
+[https://www.youtube.com/watch?v=uEkVcuCO_es&t=0s](https://www.youtube.com/watch?v=uEkVcuCO_es&t=0s)
+
+<small>[Clip it](presserclips://clip?v=uEkVcuCO_es&t=0&q=1) · [Send to Slack](presserclips://clip?v=uEkVcuCO_es&t=0&q=1&slack=1)</small>
+
+**5. Channing Frye — "I lifted weights because I had to guard Shaq. And that workout for me, there's no weights you can lift for that." — Channing Frye on the physical toll of professional sports** [11:48](https://www.youtube.com/watch?v=uEkVcuCO_es&t=708s)
+
+Channing Frye: "I think there's sections of it. Like if you were a guy that lifted weights every single day and that was your jam, that's going to be your jam for your life. I lifted weights because I had to guard **Shaq**. And that workout for me, there's no weights you can lift for that. There's no weights you can lift for that. He's lying. He was never known for guarding anybody."
+
+[https://www.youtube.com/watch?v=uEkVcuCO_es&t=708s](https://www.youtube.com/watch?v=uEkVcuCO_es&t=708s)
+
+<small>[Clip it](presserclips://clip?v=uEkVcuCO_es&t=708&q=5) · [Send to Slack](presserclips://clip?v=uEkVcuCO_es&t=708&q=5&slack=1)</small>
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
