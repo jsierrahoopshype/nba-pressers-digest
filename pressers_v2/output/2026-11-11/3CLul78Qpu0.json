@@ -1,0 +1,143 @@
+{
+  "video_title": "Postgame Media Availability with Coach Daigneault, JMac, and Shai | OKC Thunder | November 10, 2026",
+  "speakers_seen": [
+    "Mark Daigneault",
+    "Jalen Williams",
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:32",
+      "summary_phrase": "Mark Daigneault on Nikola Topic's debut and development",
+      "names_mentioned": [
+        "Nikola Topic"
+      ],
+      "excerpt": "He doesn't know anything. He just got here yesterday, so it's a hard position to put him in.",
+      "quote": "He doesn't know anything. He just got here yesterday, so it's a hard position to put him in. He doesn't know the playbook, he's learning everybody's name. He's calling me coach, I think it's because he doesn't know my name is Mark yet, but he'll get there. I thought he played good minutes, he was functional out there. We were positive in his minutes in the first half, so that's our philosophy. If there's an opportunity, get him out there and let him get started, and I thought it was good for him to even get the minutes down the stretch tonight.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Mark Daigneault on Nikola Topic's debut: He does not know the playbook and is still learning everyone's names, but he was functional out there and the team was positive in his minutes. A solid start for the rookie.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Topic"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses Nikola Topic's performance and integration into the team following his debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Williams",
+      "timestamp": "06:36",
+      "summary_phrase": "Jalen Williams on the impact of playing with a big man",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "I wouldn't be the player I am right now on this team without him.",
+      "quote": "It's amazing. It's one of those things that I wouldn't be the player I am right now on this team without him, and I credit him a lot for my success. He's such a great person to play with and he's always asking me, how could I do better and just trying to improve, and it's like he's doing amazing. I'm like, you're good, you're good. It's really cool to have a big that plays like that and is willing to learn, especially in his older years, not older years, but older than me years.",
+      "text_blocks": [],
+      "start_seconds": 396,
+      "end_seconds": 433,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Jalen Williams credits his success to his teammate: It is amazing to have a big man who is always asking how he can do better and is willing to learn. It is really cool to have a big that plays like that.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Williams discusses the benefits of playing alongside a veteran big man on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "07:32",
+      "summary_phrase": "Shai Gilgeous-Alexander on his offensive performance and team defense",
+      "names_mentioned": [],
+      "excerpt": "I mainly have to be better offensively, especially in the third, to give our defense a chance.",
+      "quote": "I mainly have to be better offensively, especially in the third, to give our defense a chance to get back and set. That always helps. I thought other than the third, we did a pretty good job tonight. It's just a game of small margins.",
+      "text_blocks": [],
+      "start_seconds": 452,
+      "end_seconds": 469,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder's performance: I have to be better offensively, especially in the third, to give our defense a chance to get back and set. It is just a game of small margins.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander evaluates his own offensive performance and the team's defensive effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "09:48",
+      "summary_phrase": "Shai Gilgeous-Alexander on his recent shooting slump",
+      "names_mentioned": [],
+      "excerpt": "He's too good of a shooter for the balls to never go in again.",
+      "quote": "Nothing that I... he hasn't surprised me or anything. I knew he'd keep shooting and he's too good of a shooter for the balls to never go in again. He's done exactly what I've expected him to.",
+      "text_blocks": [],
+      "start_seconds": 588,
+      "end_seconds": 598,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Shai Gilgeous-Alexander is not worried about his teammate's shooting slump: He is too good of a shooter for the balls to never go in again. He has done exactly what I have expected him to.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander comments on a teammate's shooting performance and his confidence in their ability to score.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "3CLul78Qpu0",
+  "url": "https://www.youtube.com/watch?v=3CLul78Qpu0",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-11T08:07:39Z",
+  "duration_seconds": 598,
+  "processed_at": "2026-11-11T08:19:19Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}

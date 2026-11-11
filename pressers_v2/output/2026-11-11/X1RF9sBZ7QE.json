@@ -1,0 +1,153 @@
+{
+  "video_title": "Damian Lillard Postgame Interview | Portland Trail Blazers 123, OKC Thunder 103 | Nov. 10, 2026",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:08",
+      "summary_phrase": "Damian Lillard on City's unique impact and aggressive playstyle",
+      "names_mentioned": [
+        "City"
+      ],
+      "excerpt": "He's the most unique player on our team to me, just that combination of size and aggressiveness.",
+      "quote": "I thought City was City. He's the most unique player on our team to me, just that combination of size and aggressiveness, and almost recklessness a little bit. But he impacts the game in so many ways. He's chasing guys around defensively, he's offensive rebounding and defensive rebounding, diving for loose balls. Sometimes that emotion that you got to put into the game that might get you a tech or might get you a flagrant foul, every team needs that. And he brings that, even in practice, that type of emotion and that type of care.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Damian Lillard praises his teammate City for his unique impact, calling his style of play almost reckless but noting that every team needs that kind of emotion and care to win games.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "City"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard discusses the unique playing style and emotional impact of his teammate City during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "01:34",
+      "summary_phrase": "Damian Lillard on mentoring teammates from the bench",
+      "names_mentioned": [
+        "DC"
+      ],
+      "excerpt": "I was always kind of talking him down about keeping his composure and understanding.",
+      "quote": "Because there were so many moments last year where he might have a few bad calls go against him, or he blocks a shot and it's his fourth foul and we don't challenge it because we want to save our challenge probably to late in the game. So he got to come out and he's coming out the game super mad. I wasn't emotionally connected to the game because I wasn't playing in it. He was sitting next to me and I would always be kind of talking him down about keeping his composure and understanding like, at some point we're going to need you to go back in the game and your mind got to be right. You can't get too emotional.",
+      "verbatim_original_language": "",
+      "start_seconds": 94,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Damian Lillard discusses his role as a mentor on the bench, explaining how he helps teammates manage their emotions and keep their composure after bad calls to ensure they are ready to return to the game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard explains how he mentored a teammate on maintaining composure while sitting on the bench during the previous season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "timestamp": "03:14",
+      "summary_phrase": "Damian Lillard on the benefits of shorter rotation stints",
+      "names_mentioned": [
+        "Mikael"
+      ],
+      "excerpt": "I felt super fresh with those short stints and I think this change was good.",
+      "quote": "I think before the stretches were pretty quick and sometimes it can be difficult to get in a real rhythm when you are in and out the game so fast. But I felt super fresh with those short stints and I think this change was good because I'm able to rest for a decent period throughout the game, but I'm playing longer stretches so it allows me to kind of set up the game the way that I typically do, you know, with patience and getting off the ball and moving and picking my spots a little bit better.",
+      "verbatim_original_language": "",
+      "start_seconds": 194,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Damian Lillard says the shift to longer rotation stints has helped him feel fresher and allows him to set up the game with more patience compared to the quick in and out stretches he played before.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Damian Lillard discusses the benefits of the team's new rotation strategy regarding his playing stints.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Damian Lillard",
+      "timestamp": "06:04",
+      "summary_phrase": "Damian Lillard on developing chemistry with Denny",
+      "names_mentioned": [
+        "Denny"
+      ],
+      "excerpt": "I think with Denny, our games just complement each other so well.",
+      "quote": "I think with Denny, our games just complement each other so well. He wants the space to get into the paint and my ability to shoot and the attention that I'm going to get from guys allows him to have that space. And me being a shooter, I know that guys are going to have to sometimes collapse and when they do that, he's a good playmaker, he's a good passer, so I'll get opportunities from that. A lot of times when I'm maybe attacking on one side of the floor and I notice that there's not a lot of space or they're in the gaps, I'm always aware that if they're in the gaps and I advance this ball to Denny, they're going to be playing catch-up.",
+      "verbatim_original_language": "",
+      "start_seconds": 364,
+      "end_seconds": 413,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Damian Lillard breaks down his chemistry with Denny, noting that his own gravity as a shooter creates the necessary space for Denny to operate as a playmaker in the paint.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Denny"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard explains how his playing style complements teammate Denny on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "X1RF9sBZ7QE",
+  "url": "https://www.youtube.com/watch?v=X1RF9sBZ7QE",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-11T07:58:22Z",
+  "duration_seconds": 549,
+  "processed_at": "2026-11-11T08:19:17Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}
