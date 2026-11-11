@@ -1,0 +1,281 @@
+{
+  "video_title": "Alvan Adams Media Availability | Phoenix Suns | 11-10-26",
+  "speakers_seen": [
+    "Alvan Adams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Alvan Adams",
+      "timestamp": "00:23",
+      "summary_phrase": "Alvan Adams on the Suns' team dinner and celebrating the 1976 team",
+      "names_mentioned": [
+        "Curtis Perry",
+        "Phil Lumpkin",
+        "Nate Hawthorne",
+        "Paul Westphal",
+        "Dick Van Arsdale",
+        "John MacLeod",
+        "Al Bianchi",
+        "Al McCoy"
+      ],
+      "excerpt": "Curtis Perry started us off with a toast to the seven who are gone.",
+      "quote": "We started last night. We had a great team dinner. Six of us were there and Curtis Perry started us off with a toast to the seven who are gone. The four players, Phil Lumpkin, Nate Hawthorne, Paul Westphal, Dick Van Arsdale, the two coaches, John MacLeod and Al Bianchi, and of course the voice of the Suns, Al McCoy. We were there three hours, 6 to 9 o'clock. We had wives and daughters and grandsons, and we talked about everything from Ricky Sobers, the Enforcer, in all three rounds of the playoffs, to Richie Powers not calling a timeout on Paul Silas in Boston.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Alvan Adams reflects on a special Suns team dinner honoring the 1976 squad and the lasting bond between those players and coaches.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Curtis Perry",
+          "Phil Lumpkin",
+          "Nate Hawthorne",
+          "Paul Westphal",
+          "Dick Van Arsdale",
+          "John MacLeod",
+          "Al Bianchi",
+          "Al McCoy",
+          "Ricky Sobers",
+          "Paul Silas"
+        ],
+        "teams": [
+          "PHX",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Alvan Adams recounts a team dinner held to honor members of the 1976 Phoenix Suns team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Alvan Adams",
+      "timestamp": "02:07",
+      "summary_phrase": "Alvan Adams on the camaraderie and trust of the 1976 Suns team",
+      "names_mentioned": [
+        "Ricky Sobers",
+        "John Wetzel",
+        "Gar Heard",
+        "Curtis Perry"
+      ],
+      "excerpt": "There was nothing like the camaraderie and the togetherness and the trust that we had.",
+      "quote": "I came in as a rookie, as did Ricky Sobers, but listening to John Wetzel and Gar Heard and Curtis Perry talk about it, they were on one or two or three other teams before they came here and they go, there was nothing like the camaraderie and the togetherness and the trust that we had at the end of that season.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Alvan Adams on the unique chemistry of the 1976 Suns: there was nothing like the camaraderie and the togetherness and the trust that we had at the end of that season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Ricky Sobers",
+          "John Wetzel",
+          "Gar Heard",
+          "Curtis Perry"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Alvan Adams reflects on the unique camaraderie and trust shared by the 1976 Phoenix Suns roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Alvan Adams",
+      "timestamp": "03:26",
+      "summary_phrase": "Alvan Adams on why Game 5 of the 1976 Finals remains the greatest game",
+      "names_mentioned": [
+        "Gar Heard",
+        "Paul Westphal"
+      ],
+      "excerpt": "It was one great play after another. It wasn't missed shots. It wasn't turnovers.",
+      "quote": "It was one great play after another. It wasn't missed shots. It wasn't turnovers. It was how Alvan Adams doing this, Westphal doing that, Gar Heard hitting that shot. And I had the best seat too, because I fouled out right at the end of regulation. I had the seat right there on the bench, got to see the whole thing.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Alvan Adams calls Game 5 of the 1976 Finals the greatest game he ever saw, noting he had the best seat in the house on the bench after fouling out.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Paul Westphal",
+          "Gar Heard"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Alvan Adams describes his perspective watching the 1976 NBA Finals Game 5 from the bench after fouling out.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Alvan Adams",
+      "timestamp": "05:10",
+      "summary_phrase": "Alvan Adams on his 50-year tenure with the Phoenix Suns organization",
+      "names_mentioned": [],
+      "excerpt": "I worked here from 75 to 2025 in one capacity or another.",
+      "quote": "I consider it luck and I worked at it too, but I got to work here for 50 years. I worked here from 75 to 2025 in one capacity or another. And so I got to see, I didn't see the first six or seven years that the Suns existed. I know they made the playoffs once against the mighty Lakers, I think it went to seven games. I didn't see any of that, but we came to this team by the time the playoffs hit in 76.",
+      "text_blocks": [],
+      "start_seconds": 310,
+      "end_seconds": 344,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 3,
+      "social_post": "Alvan Adams reflects on his incredible 50 year tenure with the Phoenix Suns organization from 1975 to 2025.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Alvan Adams reflects on his 50-year career with the Phoenix Suns organization starting in 1975.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Alvan Adams",
+      "timestamp": "07:31",
+      "summary_phrase": "Alvan Adams on the 1976 Suns playing the defending champion Warriors",
+      "names_mentioned": [
+        "Bill Russell",
+        "Al Attles"
+      ],
+      "excerpt": "They were the defending champions. They had won 59 games, we won 42, were 17 games behind them.",
+      "quote": "They were the defending champions. They had won 59 games, we won 42, were 17 games behind them. So we came in third, I think we were a game behind Seattle. We beat Seattle first. And as I was reading these articles the last couple days, I was reading Bill Russell, the Sonics head coach's comments. He goes, after we won games, I think two, five and six, we beat them in six, he goes, they're just better than us. They're playing better than us. That's what Al Attles of the Warriors said after we beat them. He goes, they're just playing better than us.",
+      "text_blocks": [],
+      "start_seconds": 451,
+      "end_seconds": 491,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Alvan Adams recalls the 1976 playoff run, sharing how opposing coaches Bill Russell and Al Attles admitted the Suns were simply playing better basketball.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Bill Russell",
+          "Al Attles"
+        ],
+        "teams": [
+          "PHX",
+          "SEA",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Alvan Adams discusses the 1976 playoff series against the Seattle SuperSonics and Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "speaker": "Alvan Adams",
+      "timestamp": "08:40",
+      "summary_phrase": "Alvan Adams on selecting new basketball standards for the arena",
+      "names_mentioned": [
+        "Jerry",
+        "Dick Van Arsdale",
+        "Wilton Chamberlain",
+        "Will",
+        "Mark West"
+      ],
+      "excerpt": "These new units sat about two feet further back. So I figured it was a safer distance.",
+      "quote": "One of my jobs was to be the purchasing agent for all FF&E, all furnishings, fixtures and equipment. One of the things I investigated real closely were basketball standards. There was a company out of Oregon and they had a new goal that they were selling in Europe and the Blazers used at their training camp. In the old days, the support, because I was watching some old video of Dick Van Arsdale getting smashed by Wilton Chamberlain into the old support of just some metal poles crisscrossed and it's only four feet beyond the end the baseline. These new units sat about two feet further back. So I figured it was a safer distance. But I was worried about the longer lever arm. So when Will goes up and dunks it or Mark West goes up and dunks it, how long does it do that before it restores to its quiet position? I decided to go ahead and buy those.",
+      "rank": 6,
+      "start_seconds": 520,
+      "end_seconds": 582,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 2,
+      "social_post": "Alvan Adams shares the technical story behind choosing new basketball standards for the arena to improve player safety.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Dick Van Arsdale",
+          "Wilt Chamberlain",
+          "Mark West"
+        ],
+        "teams": [
+          "PHX",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Alvan Adams explains his role in selecting safer basketball hoop standards for the arena during his executive tenure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "speaker": "Alvan Adams",
+      "timestamp": "08:40",
+      "summary_phrase": "Shaquille O'Neal breaks the basketball goal during a televised game",
+      "names_mentioned": [
+        "Shaquille O'Neal",
+        "Darryl Dawkins"
+      ],
+      "excerpt": "Our first nationally televised game in this building, us playing Orlando and this new big Shaquille O'Neal.",
+      "quote": "Our first nationally televised game in this building, us playing Orlando and this new big Shaquille O'Neal, and he didn't even swing on or do a chin up. It was late in the second quarter, he grabbed it and let go and the whole thing quietly went back to its restored position. The NBA people were here, the commissioner was here, the guy I called about the goals, I saw him at halftime. He looked at me and he goes, Alvan, I said, I'm fired. I'm fired. Luckily, at the time the league only required you have a spare backboard because of Darryl Dawkins and those guys used to shout about. We had luckily the old two units from the Coliseum. So we were able to get them out, wipe them down with some paper towels and get it out there and finish the game.",
+      "rank": 7,
+      "start_seconds": 520,
+      "end_seconds": 576,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 9,
+      "social_post": "Alvan Adams recalls the moment Shaquille O'Neal broke the goal in the first nationally televised game at the arena: I looked at the supplier and said I am fired.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Shaquille O'Neal",
+          "Darryl Dawkins"
+        ],
+        "teams": [
+          "PHX",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Alvan Adams recalls the incident where Shaquille O'Neal broke a basketball goal during a nationally televised game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "tRYzxN4-XT0",
+  "url": "https://www.youtube.com/watch?v=tRYzxN4-XT0",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-11T03:19:48Z",
+  "duration_seconds": 727,
+  "processed_at": "2026-11-11T04:04:27Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}

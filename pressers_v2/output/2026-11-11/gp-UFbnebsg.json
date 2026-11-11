@@ -1,0 +1,149 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.10.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:16",
+      "summary_phrase": "Taylor Jenkins addresses the team's struggles with rebounding and foul disparity",
+      "names_mentioned": [],
+      "excerpt": "we've had this struggle the last couple of games. It's really hurt us, 11 second-chance points.",
+      "quote": "There's a lot of factors involved in that. Give them a lot of credit. They've got a lot of elite offensive rebounders, bigs, guards, wings. We just got to do better. We've had this struggle the last couple of games. It's really hurt us, 11 second-chance points, but it just beats you down and you can't play your style of basketball on the offensive side. It leads to fouls and foul disparity too, which are concerning. So, an area we got to get a lot better in.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says the team is struggling with rebounding and foul disparity, noting that the issues are hurting their ability to play their style of basketball. He admits the current trend is concerning and needs to be addressed.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's recent struggles with rebounding and foul disparity following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:56",
+      "summary_phrase": "Taylor Jenkins praises Calel Ware's impact and chemistry in the third quarter",
+      "names_mentioned": [
+        "Calel Ware",
+        "Cas",
+        "Jaime"
+      ],
+      "excerpt": "I felt like we found some chemistry there, especially in that third quarter.",
+      "quote": "I thought he had a good impact on the game, coming over trying to be active on the defensive side. I felt like we found some chemistry there, especially in that third quarter, things that we've been talking about the last couple of days, me and him individually. I thought he was applying it. I thought he got a little rhythm there in the third quarter. I think playing with Cas and Jaime that helped him. So, really liked what he was doing in our screen setting, next action, trying to be a facilitator for us on the offensive side. This was a good game by him, but we got to continue to build.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins liked the impact Calel Ware had in the third quarter, specifically praising his screen setting and facilitation. Jenkins says they need to continue to build on the chemistry Ware showed with Cas and Jaime.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Calel Ware",
+          "Cas",
+          "Jaime"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins evaluates the performance and chemistry of Calel Ware during the third quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:32",
+      "summary_phrase": "Taylor Jenkins on the challenge of developing chemistry with a diverse roster",
+      "names_mentioned": [],
+      "excerpt": "it's our opportunity. Not going to call it a challenge, it's an opportunity.",
+      "quote": "It's part of our journey, it's our opportunity. Not going to call it a challenge, it's an opportunity. I think we got a lot of guys that have got to continue trying different things. What we're doing right now is not working. I got to find something that's going to build consistency for us, starters, off the bench, sub patterns, reading the game. We got to continue to establish what we identify as our pillars offensively and defensively and get the group that's going to do that more often than not and not put us in holes and be able to sustain runs by the other team. It's a great opportunity for us.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins admits what the team is doing right now is not working. He says he needs to find a rotation and strategy that builds consistency, noting that they must stop putting themselves in holes early in games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins addresses the need to establish consistent offensive and defensive pillars to improve team performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:24",
+      "summary_phrase": "Taylor Jenkins explains his guidance for Bogie during the game",
+      "names_mentioned": [
+        "Bogie"
+      ],
+      "excerpt": "just continue to give him the guidance on what to do defensively, points of emphasis on the offensive side.",
+      "quote": "Obviously, he's sitting there, has a feel for the game. Obviously, a lot of conversations with his teammates and timeouts. Just continue to give him the guidance on what to do defensively, points of emphasis on the offensive side, running the floor, obviously, playmaking, playing to his strengths. Just kind of giving him some structure on what to do on the offensive side. But really defensively, just keep him in the loop on what we're doing, what his priorities are going to be, his assignments were going to be on the defensive side, that he stayed ready. Small sample size, but continues something to build off of.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says he is focused on giving Bogie structure and guidance on both ends of the floor. He emphasized keeping him in the loop on defensive priorities and playing to his strengths.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bogie"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins explains the guidance and structure he provided to Bogie during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "gp-UFbnebsg",
+  "url": "https://www.youtube.com/watch?v=gp-UFbnebsg",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-11T03:33:34Z",
+  "duration_seconds": 218,
+  "processed_at": "2026-11-11T04:04:17Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}
