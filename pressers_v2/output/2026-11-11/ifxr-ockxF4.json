@@ -1,0 +1,317 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Trail Blazers 123, Oklahoma City Thunder 103 | Nov. 10, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "00:14",
+      "summary_phrase": "Micah Nori on the keys to victory against Oklahoma City",
+      "names_mentioned": [],
+      "excerpt": "at the end of the day you got to take care of the basketball.",
+      "quote": "Like we talked about at the very beginning of the night, against these guys, I've seen enough, not my first rodeo. At the end of the day you got to take care of the basketball. We only had nine turnovers, they had 12, and the offensive rebounds were the same. The other reason we won is because we were 24 for 26 from the free throw line.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori credits the win over OKC to taking care of the basketball and hitting free throws, noting the team only had nine turnovers.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the keys to the Trail Blazers victory over the Oklahoma City Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "01:27",
+      "summary_phrase": "Micah Nori on adjusting to Damian Lillard's scoring outbursts",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "it's a lot more fun on this side of it.",
+      "quote": "Basically the Phoenix game was the first time I saw it, and it's a lot more fun on this side of it. We took control of the game, but I think that last two little flurries, the Denny three at the end of the third and obviously Damian's to extend it a little bit, put it away if you will. We were able to withstand the lead to that right around that 17 points where they weren't able to close the lead enough where they came back in the basketball game.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori on Damian Lillard's late game impact: It is a lot more fun being on this side of it when he is hitting those shots to put the game away.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Micah Nori reflects on how the team managed to maintain their lead against scoring runs from Damian Lillard and other players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "02:09",
+      "summary_phrase": "Micah Nori praises Chris Youngblood's composure and impact",
+      "names_mentioned": [
+        "Chris Youngblood"
+      ],
+      "excerpt": "the moment's not too big for him.",
+      "quote": "He's been phenomenal. I think the one thing that I like about Chris Youngblood is that the moment's not too big for him. I didn't even really plan on him playing in the Denver game until V got the three fouls, and he just came off the bench and he was a plus-15 in that half. Not afraid of the moment, he competes, he defends, and he can make a shot.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 129,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Micah Nori is impressed with Chris Youngblood's composure: The moment is not too big for him. He competes, he defends, and he can make a shot.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Youngblood"
+        ],
+        "teams": [
+          "POR",
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori praises the composure and performance of Chris Youngblood off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "02:41",
+      "summary_phrase": "Micah Nori explains the decision to change the starting lineup",
+      "names_mentioned": [
+        "Scoot Henderson",
+        "Damian Lillard",
+        "Denny"
+      ],
+      "excerpt": "I wanted to get Scoot with the second unit again.",
+      "quote": "I wanted to get Scoot with the second unit again because I just felt like with Denny and with Damian with that first group, those guys were taking the majority of the handling of the basketball. I wanted to get Scoot with that second unit. It also allowed me to clean up where I got Damian back to playing what he's used to his whole career, which is two stints and a half instead of three. I don't look at it all in silos, I look at it as how one move affects the other.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Micah Nori explains the decision to move Scoot Henderson to the second unit to help him initiate more and get Damian Lillard back to his traditional rotation.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori explains his reasoning for moving Scoot Henderson to the second unit to optimize ball handling and rotation patterns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "03:48",
+      "summary_phrase": "Micah Nori on defensive effort and rebounding against OKC",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Tumani"
+      ],
+      "excerpt": "Tumani just really competed with him.",
+      "quote": "It was very good. One thing that Oklahoma City does is they take a lot of mid-range shots. It's funny because you don't want to give up rim and you don't want to give up threes, but then Shai comes in and he probably shoots the mid-range 52, 54 percent. It feels like a death by a thousand cuts when he's making them. Tumani just really competed with him, and I was very happy with the defense. The big thing was the rebounding advantage, we lose it by one, but I look at the offensive rebounds and they were tied.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 228,
+      "end_seconds": 266,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori on defending Shai Gilgeous-Alexander: It feels like death by a thousand cuts when he is hitting those mid-range shots.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander",
+          "Tumani Camara"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori evaluates the team's defensive effort against Shai Gilgeous-Alexander and the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "04:56",
+      "summary_phrase": "Micah Nori on Scoot Henderson's role and team fit",
+      "names_mentioned": [
+        "Scoot Henderson",
+        "Damian Lillard",
+        "Denny"
+      ],
+      "excerpt": "I honestly believe that he is better for us with that second unit.",
+      "quote": "I honestly believe that he is better for us with that second unit when we can have him initiate and do some things there. I feel like he just gets lost a little bit with that first group, and with Damian and Denny having the ball so much, it works out perfectly to have another defender out there with a little more size. It also lets him run a little more consistent minutes.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 296,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori believes Scoot Henderson is better suited for the second unit where he can initiate the offense and get more consistent minutes.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori elaborates on why Scoot Henderson is more effective as a primary initiator with the second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "05:58",
+      "summary_phrase": "Micah Nori provides update on Chris Youngblood's foot injury",
+      "names_mentioned": [
+        "Chris Youngblood"
+      ],
+      "excerpt": "I noticed him limping after the breakaway.",
+      "quote": "When he got the steal, and it looked like when he went to go finish, he stepped awkwardly. So they're going to check him out and see what's happened. I noticed him limping after the breakaway and then on the one finish, it looked like he just either stepped awkwardly or what not. Hopefully he'll be okay.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 358,
+      "end_seconds": 380,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Injury update: Micah Nori says Chris Youngblood is being evaluated for a foot injury after stepping awkwardly during a breakaway finish.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Youngblood"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori provides an update on Chris Youngblood after he appeared to suffer a foot injury during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Micah Nori",
+      "speakers": [],
+      "timestamp": "06:33",
+      "summary_phrase": "Micah Nori on the impact of Donovan and Brandon Carlson",
+      "names_mentioned": [
+        "Donovan",
+        "Brandon Carlson",
+        "Michael Porter",
+        "Hansen",
+        "Chris Youngblood"
+      ],
+      "excerpt": "there's something about playing against your old team.",
+      "quote": "When Donovan picked up his third foul in the first half, I could have gone back, but there's something about playing against your old team. Brandon Carlson being a former Thunder and went in, got a big putback and ends up with five rebounds in almost eight minutes and blocks two shots. It was really cool to see him. What's great about this team is you've seen Michael Porter do that in moments, you've seen Hansen do that, you've seen Brandon, we already spoke about Chris Youngblood. When your heart is pure, your heart's in the right place, it's funny how good things happen for you.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 393,
+      "end_seconds": 434,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori praises Brandon Carlson for his impact against his former team: When your heart is pure and in the right place, it is funny how good things happen for you.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Carlson",
+          "Chris Youngblood"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori discusses the contributions of Brandon Carlson and other bench players in the win against his former team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ifxr-ockxF4",
+  "url": "https://www.youtube.com/watch?v=ifxr-ockxF4",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-11T07:40:01Z",
+  "duration_seconds": 487,
+  "processed_at": "2026-11-11T07:47:50Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}
