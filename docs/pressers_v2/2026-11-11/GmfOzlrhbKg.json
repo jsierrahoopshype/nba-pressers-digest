@@ -1,0 +1,221 @@
+{
+  "video_title": "“If He Calls My Name, I Go” | Jaylen Clark Practice Sound | 11.11.26",
+  "speakers_seen": [
+    "Jaylen Clark"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaylen Clark",
+      "timestamp": "00:52",
+      "summary_phrase": "Jaylen Clark on his defensive role and Jaden McDaniels' offensive freedom",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I think he's better when he can go score and everything as well and like roam around block shots",
+      "quote": "It's energy. Pick the game up, guard people full court, and show them a different look and give Jaden McDaniels a break. I think he's better when he can go score and everything as well and like roam around block shots. Because having to guard the best player and asking him to get 20 has a tough job on anybody.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jaylen Clark says his job is to pick up the energy and guard full court to give Jaden McDaniels a break so he can focus on scoring and roaming for blocks",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Clark discusses his defensive role and how it allows Jaden McDaniels to focus more on offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaylen Clark",
+      "timestamp": "01:19",
+      "summary_phrase": "Jaylen Clark on his defensive chemistry with Jaden McDaniels and Rudy Gobert",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Rudy Gobert"
+      ],
+      "excerpt": "I think Jaden McDaniels can cover up for a lot of people's mistakes",
+      "quote": "I think we just compliment each other. I think Jaden McDaniels can cover up for a lot of people's mistakes. He's 6'9, 6'10, rangy. Me and him have to switch, he can definitely guard the ball at an elite rate. And then Rudy Gobert, he speaks for himself with stuff he's able to do and how he sees the game and calls he's calling. I just got to go out there and listen.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jaylen Clark on the defensive chemistry with Jaden McDaniels and Rudy Gobert saying he just has to listen to the calls Rudy makes",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Clark describes the defensive chemistry and communication he shares with teammates Jaden McDaniels and Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaylen Clark",
+      "timestamp": "01:53",
+      "summary_phrase": "Jaylen Clark on the offensive impact of playing with Mike Conley",
+      "names_mentioned": [
+        "Mike Conley"
+      ],
+      "excerpt": "Playing with Mike Conley too, it's simple. Especially when he runs around and does his little loop thing",
+      "quote": "Playing with Mike Conley too, it's simple. Especially when he runs around and does his little loop thing. I know if the guy helps, he's going to fire the ball. With him, you always know if you're open, he's somehow going to get it to you. And then when you make shots, your teammates also expect you to shoot it.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaylen Clark on playing with Mike Conley saying you always know if you are open he is going to find you",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike Conley"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Clark explains the ease of playing offensively alongside veteran guard Mike Conley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaylen Clark",
+      "timestamp": "02:22",
+      "summary_phrase": "Jaylen Clark on Mike Conley's elite passing ability",
+      "names_mentioned": [
+        "Mike Conley"
+      ],
+      "excerpt": "Melo's going to hit you right where in your little shooter pocket",
+      "quote": "He hits you in the pocket too. It's not like you got to reach at your feet or something to get the ball to shoot it. Mike Conley is going to hit you right where in your little shooter pocket. And that's an elite skill that people don't even give guys credit for.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaylen Clark praises Mike Conley for his passing accuracy saying he hits you right in the shooter pocket every time",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike Conley"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Clark praises the specific passing accuracy and skill set of Mike Conley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaylen Clark",
+      "timestamp": "03:38",
+      "summary_phrase": "Jaylen Clark on his role and shooting confidence",
+      "names_mentioned": [],
+      "excerpt": "I know if I shot the ball, I'll be able to stay out there longer",
+      "quote": "I don't really know. It just feels like we're just out there playing. I know if I shot the ball, I'll be able to stay out there longer than what I was previously. And if I hit shots and I shoot above 36, 37%, whatever it is that they need, then I'll be able to play.",
+      "text_blocks": [],
+      "start_seconds": 218,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jaylen Clark knows the rotation math for his minutes saying if I shoot above 36 or 37 percent then I will be able to play",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaylen Clark discusses his personal shooting goals and how they relate to his playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaylen Clark",
+      "timestamp": "05:23",
+      "summary_phrase": "Jaylen Clark on Anthony Edwards' leadership and communication",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "Even if he's not here, he's here. Like in the group chat, he texts messages before games",
+      "quote": "He really ain't been over late. Even if he's not here, he's here. Like in the group chat, he texts messages before games or like his own little scouting report. He's over here sending messages after the games, always rules, roles, we got to have intensity. Little messages always. So even if he's not physically here, he's always around.",
+      "text_blocks": [],
+      "start_seconds": 323,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jaylen Clark says Anthony Edwards is a leader even when he is not in the building sending scouting reports and intensity reminders to the team group chat",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Clark explains how Anthony Edwards maintains his leadership presence and communication with the team even when he is not physically present.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "GmfOzlrhbKg",
+  "url": "https://www.youtube.com/watch?v=GmfOzlrhbKg",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-11T20:16:54Z",
+  "duration_seconds": 436,
+  "processed_at": "2026-11-11T21:23:58Z",
+  "run_id": "2026-11-11T2122Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,181 @@
+{
+  "video_title": "“We Really Took Advantage Of These Two Days” | Pablo Prigioni Practice Sound | 11.11.26",
+  "speakers_seen": [
+    "Pablo Prigioni"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "00:16",
+      "summary_phrase": "adjusting team rotations while Karl-Anthony Towns is sidelined",
+      "names_mentioned": [],
+      "excerpt": "when you lose a player like him, it always takes a little time to find his new reality",
+      "quote": "When you lose a player like him, it always takes a little time to find his new reality, especially with so many shots in there that are going to be left for other guys to step in and take those. It is normal that I think it took us a couple games to just figure it out, right? Rotation-wise, there is a lot of things that are in there, not only for the players, also for us, for the staff. But I think overall we managed that pretty well.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni says it took the Timberwolves a couple of games to adjust their rotation and shot distribution after losing Karl-Anthony Towns to injury.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karl-Anthony Towns"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Assistant coach Pablo Prigioni discusses the team adjusting their rotation and offensive flow following the absence of Karl-Anthony Towns.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "01:08",
+      "summary_phrase": "utilizing practice time to implement new offensive and defensive concepts",
+      "names_mentioned": [],
+      "excerpt": "we always have a list of concepts that you save it for, okay, when we have time",
+      "quote": "We always have a list of concepts that you save it for, okay, when we have time to practice, we have to go through these concepts. Basically, we just went through that list and tried to hit those concepts. We saved some for today and then probably tomorrow is going to be obviously a little more oriented to Dallas. But those things that we feel that we need to work, I mean our schedule has been brutal, so we didn't have time to practice. I felt that we really took advantage of these two days.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni says the Timberwolves finally had a chance to work on team concepts during their two-day practice break after a brutal early season schedule.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni explains how the coaching staff utilized two days of practice to implement new concepts before their upcoming game against Dallas.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "02:36",
+      "summary_phrase": "Rudy Gobert's consistency and leadership impact on the team",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "having Rudy next to him, that's huge because I see them talking in practice",
+      "quote": "With him, just the consistency. The things that he is doing well, keep doing it, even better. And the things that he needs to learn, just also put the focus there. I think having Rudy next to him, that's huge because I see them talking in practice, or sometimes Rudy in the game is yelling in French. Nobody knows what he is saying, but he is yelling and teaching and coaching from the side. So, I mean, he is super young, there is a lot of things he needs to get better, but I mean his activity and his impact on the game has been huge for us so far.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Pablo Prigioni on Rudy Gobert's leadership: He is constantly teaching and coaching from the side, even if he is yelling in French and nobody knows what he is saying.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pablo Prigioni praises Rudy Gobert for his leadership, consistency, and active communication with younger teammates during practice and games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "03:26",
+      "summary_phrase": "Rudy Gobert's defensive presence and communication with teammates",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "just by him being there, that's a lot of players that they just don't want to go",
+      "quote": "His presence, just by him being there, that's a lot of players that they just don't want to go. And then when they do go, he has to change shots, he creates doubts. I am going, I am not, I kick it out. Basically, it is also yelling the teammates, hey, sending this way, sending the other way, I am here. Guys see that, rotate out of them. So I think basically it is that and being Rudy, right?",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Pablo Prigioni breaks down the defensive impact of Rudy Gobert, noting how his presence alone creates doubt for opposing players and forces them to change their shots.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni describes the defensive impact Rudy Gobert has on opponents and his role in organizing the team's defensive rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Pablo Prigioni",
+      "timestamp": "06:37",
+      "summary_phrase": "Pablo Prigioni's reaction to Mike Conley's coaching role in Portland",
+      "names_mentioned": [
+        "Mike Conley"
+      ],
+      "excerpt": "I am extremely happy for him. I have seen him multiple years having interviews",
+      "quote": "I am extremely happy for him. I have seen him multiple years having interviews and we thought, oh, Mike got it. He is going to leave, everybody was excited for him, and then end up not going, which it was good for us. Being a little selfish, it was good for us to keep enjoying him and having a part of our staff. But particularly in this year, I think first of all, he is doing a hell of a job with the team. They have a really good start. He is very smart, he is very friendly, funny, so it is going to be a pleasure to see him back.",
+      "text_blocks": [],
+      "start_seconds": 397,
+      "end_seconds": 440,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Pablo Prigioni says he is happy for Mike Conley's transition into coaching, admitting the team was selfishly glad he stayed on the staff for as long as he did.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mike Conley"
+        ],
+        "teams": [
+          "MIN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Pablo Prigioni expresses his happiness for Mike Conley's success in his coaching role with the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "8hTGLeWtd_g",
+  "url": "https://www.youtube.com/watch?v=8hTGLeWtd_g",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-11T20:16:27Z",
+  "duration_seconds": 549,
+  "processed_at": "2026-11-11T21:24:00Z",
+  "run_id": "2026-11-11T2122Z-14utc",
+  "is_one_off": false
+}

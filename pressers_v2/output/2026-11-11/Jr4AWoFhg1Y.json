@@ -1,0 +1,225 @@
+{
+  "video_title": "“That’s Why [Rudy’s] One Of The Best Defenders Ever” | Trey Lyles Practice Sound | 11.11.26",
+  "speakers_seen": [
+    "Trey Lyles"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trey Lyles",
+      "timestamp": "00:06",
+      "summary_phrase": "Trey Lyles on the importance of defensive-minded team culture",
+      "names_mentioned": [],
+      "excerpt": "I played with a lot of different defensive-minded coaches and I think our roster build up is what's really helped us",
+      "quote": "Of course it's important. I played with a lot of different defensive-minded coaches and I think our roster build up is what's really helped us in that area. We have guys that can defend and can defend individually as well as as a unit. A couple weeks of us being together and really communicating and talking with one another and establishing that reliance on one another has helped us out a lot up to this point.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Trey Lyles credits the Timberwolves roster construction and improved communication for the team defensive success early this season.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles discusses the importance of defensive culture and team communication during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trey Lyles",
+      "timestamp": "00:36",
+      "summary_phrase": "Trey Lyles on Rudy Gobert's impact as a rim protector",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "you can funnel things to the rim because he's going to change shots and make people not want to shoot",
+      "quote": "It's a lot different. You can funnel things to the rim because he's going to change shots and make people not want to shoot closer to the rim and he's done that for years. That's why he's one of the best defenders ever. It's ideal to have somebody like that in our background closer to the rim and it just helps guys out mentally to know that okay, if I'm going to step behind, I know Rudy is there.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Trey Lyles says having Rudy Gobert behind him changes the defensive approach because he is one of the best defenders ever and it gives the rest of the team peace of mind.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles explains the defensive impact of having Rudy Gobert as a rim protector.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trey Lyles",
+      "timestamp": "01:34",
+      "summary_phrase": "Trey Lyles on Rudy Gobert's growth and defensive knowledge",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "he's able to pick his spots where he wants to impact on defense a lot better than at the beginning",
+      "quote": "I think he's a little bit more knowledgeable or a lot more knowledgeable and just he's able to pick his spots where he wants to impact on defense a lot better than at the beginning. He's just more seasoned, obviously. It's going to be that way after 10 years. It's nice to see his growth as a player and as a person.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Trey Lyles on Rudy Gobert after a decade in the league: He is a lot more knowledgeable and able to pick his spots on defense better than when he started.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles reflects on the growth and defensive knowledge Rudy Gobert has developed over his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trey Lyles",
+      "timestamp": "02:00",
+      "summary_phrase": "Trey Lyles on the importance of ball movement in the offense",
+      "names_mentioned": [],
+      "excerpt": "it's all about sharing the ball and continuous movement",
+      "quote": "It's very free-flowing. Guys are able to play their game. Guys are able to take their shots, get to their spots and it's all about sharing the ball and continuous movement. I think we struggle when we get stagnant and coaches have been on us about that. Guys are really taking it to heart, just moving the ball, moving their bodies and it just gets guys open shots.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Lyles says the Timberwolves offense is at its best when it is free flowing and moving, noting that the team struggles when they get stagnant.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles describes the team's offensive philosophy regarding ball movement and avoiding stagnation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trey Lyles",
+      "timestamp": "03:12",
+      "summary_phrase": "Trey Lyles on his decision to return to the NBA from Europe",
+      "names_mentioned": [],
+      "excerpt": "I went to Europe with the mindset of being able to play and play on one of the best teams",
+      "quote": "I went to Europe with the mindset of being able to play and play on one of the best teams in the world. And that's what I did. After probably a month or two I was like, okay, I don't belong over here. I need to be back in the NBA. So that was my goal after that.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Trey Lyles reflects on his time playing in Europe: After a couple of months I realized I did not belong over there and I needed to be back in the NBA.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles explains his motivation for returning to the NBA after playing in Europe.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trey Lyles",
+      "timestamp": "04:29",
+      "summary_phrase": "Trey Lyles on his evolution into a small-ball five",
+      "names_mentioned": [],
+      "excerpt": "my adaptability helps out a lot, so with small-ball five or four, whatever they need me to do",
+      "quote": "I think it's evolved over time. I think it's something that they knew I was capable of. I've been doing it the last few years, so it's something that I'm comfortable with as well individually. My adaptability helps out a lot, so with small-ball five or four, whatever they need me to do, I'm pretty much able to do it.",
+      "text_blocks": [],
+      "start_seconds": 269,
+      "end_seconds": 292,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Lyles says his adaptability allows him to play the small ball five or four depending on what the team needs.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles discusses his comfort and adaptability playing as a small-ball five.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Trey Lyles",
+      "timestamp": "04:52",
+      "summary_phrase": "Trey Lyles on his need to improve rebounding as a small-ball five",
+      "names_mentioned": [],
+      "excerpt": "I don't really think I need to change anything besides maybe rebound a little bit more",
+      "quote": "I don't really think I need to change anything besides maybe rebound a little bit more just because we don't have a bigger guy out there. But other than that, it's pretty quick adjustment for me to go to the five.",
+      "text_blocks": [],
+      "start_seconds": 292,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Lyles says the main adjustment for him when playing the small ball five is focusing on rebounding more since there is no traditional big man on the floor.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles identifies rebounding as the primary area for improvement when playing the small-ball five position.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "Jr4AWoFhg1Y",
+  "url": "https://www.youtube.com/watch?v=Jr4AWoFhg1Y",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-11T20:16:47Z",
+  "duration_seconds": 321,
+  "processed_at": "2026-11-11T21:23:56Z",
+  "run_id": "2026-11-11T2122Z-14utc",
+  "is_one_off": false
+}

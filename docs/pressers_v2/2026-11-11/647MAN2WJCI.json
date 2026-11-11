@@ -1,0 +1,156 @@
+{
+  "video_title": "Jordan Clarkson Postgame Media | November 10, 2026",
+  "speakers_seen": [
+    "Jordan Clarkson",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Clarkson",
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan Clarkson"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jordan Clarkson on the team's bench production and collective mindset",
+      "names_mentioned": [],
+      "excerpt": "everybody ready. I ready come out there, compete. I think a lot of us focusing on the small things",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Jordan, 10 games in, I think one of the strengths of this team that we have noticed is the production and the play of the bench. What have you noticed with this group to start the season with the bench group?"
+        },
+        {
+          "speaker": "Jordan Clarkson",
+          "text": "Just everybody ready. I ready come out there, compete. I think a lot of us focusing on the small things and you know, just trying to compete and win, and that's it. You know, we have a really together group. You know, we try to pick each other up if somebody is down all through the line, so 1 through 15, we always ready."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Clarkson says the key to the bench unit success early this season is simple: everyone is ready to compete and pick each other up 1 through 15.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Clarkson discusses the team's bench production and collective mindset during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Clarkson",
+      "speakers": [
+        "Unidentified speaker",
+        "Jordan Clarkson"
+      ],
+      "timestamp": "00:36",
+      "summary_phrase": "Jordan Clarkson on his focus on defensive details and rebounding",
+      "names_mentioned": [],
+      "excerpt": "those are the things that we concentrate on. And we know those small plays and details can win us games",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You've talked about the little things. It's something you said when you got here, that you don't know if it's changed your game or added to your game, whatever it is. You've always been known as a bucket getter, a scorer. But it does seem like you do a lot of the little things. You take pride in things like getting a rebound or even knocking a ball loose, that kind of stuff, defense as well?"
+        },
+        {
+          "speaker": "Jordan Clarkson",
+          "text": "Yeah, that's something new. I feel like that has became part of my game here. But like I said, it's 1 through 15 here. Those are the things that we concentrate on. And we know those small plays and details can win us games. And you know, if that's getting us an extra possession, hustling for a loose ball, things like that can change the game and different momentum shifts. So a lot of us concentrating on those things and you know, the offensive stuff like that is going to come. I always, you know, been able to score and do that, that's a natural thing that comes for me. So just focusing on those things, those nuances of the game, just keep continuing to do that."
+        }
+      ],
+      "start_seconds": 36,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Clarkson says focusing on the small things like rebounding and loose balls has become a new part of his game in New York. He notes that scoring is natural but these nuances are what win games.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jordan Clarkson explains his focus on defensive details and rebounding as part of his role with the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Clarkson",
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan Clarkson"
+      ],
+      "timestamp": "01:36",
+      "summary_phrase": "Jordan Clarkson credits team culture and coaching for his defensive focus",
+      "names_mentioned": [
+        "Mike"
+      ],
+      "excerpt": "That's just our culture here. No matter if it's one minute, 30 seconds, 30 minutes during the game",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What led to that? Did someone talk to you? Did you come to a realization what led to you like thinking about the little things, the small things to help the team?"
+        },
+        {
+          "speaker": "Jordan Clarkson",
+          "text": "That's just our culture here. No matter if it's one minute, 30 seconds, 30 minutes during the game, that's what we focus on. That's what Mike has preached to us since he's got here. And that's just a big thing all of us hold our hat on."
+        }
+      ],
+      "start_seconds": 96,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Clarkson credits the team culture and coach Mike for his shift in focus toward defensive details and hustle plays regardless of his minutes on the floor.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jordan Clarkson credits the team culture and head coach Mike for his increased focus on small details during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "647MAN2WJCI",
+  "url": "https://www.youtube.com/watch?v=647MAN2WJCI",
+  "channel_team": "New York Knicks",
+  "published": "2026-11-11T17:13:23Z",
+  "duration_seconds": 127,
+  "processed_at": "2026-11-11T21:24:07Z",
+  "run_id": "2026-11-11T2122Z-14utc",
+  "is_one_off": false
+}

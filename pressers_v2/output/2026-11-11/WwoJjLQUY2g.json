@@ -1,0 +1,148 @@
+{
+  "video_title": "Time For The Warriors To Go All-In?",
+  "speakers_seen": [
+    "Brian Windhorst",
+    "Bobby Marks",
+    "Tim Bontemps"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bobby Marks",
+      "speakers": [
+        "Brian Windhorst",
+        "Bobby Marks"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "How Jonathan Kuminga's non-guaranteed contract affects potential trade value",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "whenever you have a non-guaranteed contract, you basically count as zero because there's nothing guaranteed",
+      "text_blocks": [
+        {
+          "speaker": "Brian Windhorst",
+          "text": "They have this interesting hand with Jonathan Kuminga. As you understand it, how is his contract going to be treated in trade, considering they are not paying him right now?"
+        },
+        {
+          "speaker": "Bobby Marks",
+          "text": "It's interesting because whenever you have a non-guaranteed contract, you basically count as zero because there's nothing guaranteed. In this case, you can treat it as the full amount, which is $20 million, but you're not paying him at all. You've been withholding his salary, which is roughly $220,000 per game."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Bobby Marks explains the trade mechanics of Jonathan Kuminga's non-guaranteed contract and how the Warriors can leverage his 20 million dollar salary figure in potential deals.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 2,
+      "speaker": "Bobby Marks",
+      "timestamp": "00:50",
+      "summary_phrase": "Golden State's ideal trade target salary range",
+      "names_mentioned": [],
+      "excerpt": "you are canvassing players between $11 and $20 million, right? Like that is your sweet spot",
+      "quote": "If you are Golden State out there, you are canvassing players between $11 and $20 million, right? Like that is your sweet spot as far as your group, unless of course you're going to add more salary if you're looking for something bigger out there here. But they've got now until February 11th deadline to get something done. I think they will.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Bobby Marks says the Warriors are likely canvassing for players in the 11 to 20 million dollar range as they approach the February 11 trade deadline.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 3,
+      "speaker": "Tim Bontemps",
+      "timestamp": "02:45",
+      "summary_phrase": "Warriors should consider a major swing move",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Jonathan Kuminga",
+        "Draymond Green"
+      ],
+      "excerpt": "I'm wondering if it might be Jonathan Kuminga plus and they take a big swing",
+      "quote": "As well as they're playing, Steph is scoring more than a point per minute, Kuminga is one of the best rookies in the class and an immediate impact player. They are a fun team. They're going to probably get Draymond back and see what that looks like. I'm wondering if it might be Jonathan Kuminga plus and they take a big swing to really try to move the needle. This is just spitballing, but for example, there was stuff about Anthony Davis this summer. Do you stack some stuff on top of Jonathan Kuminga and try to make that kind of swing?",
+      "verbatim_original_language": "",
+      "start_seconds": 165,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 5,
+      "social_post": "Tim Bontemps suggests the Warriors should consider a major swing move by packaging Jonathan Kuminga to land a star player like Anthony Davis to truly move the needle.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 4,
+      "speaker": "Bobby Marks",
+      "timestamp": "03:40",
+      "summary_phrase": "Washington Wizards' inevitable decision on trading players",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "there's going to come a point sooner than later with the Wizards where it's pay them or trade them",
+      "quote": "If he keeps putting up numbers, there's going to come a point sooner than later with the Wizards where it's pay them or trade them. And if this team struggles here, that would, I would think, the contract talks are on hold as far as with him. That's a team that we've got to watch.",
+      "verbatim_original_language": "",
+      "start_seconds": 220,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Bobby Marks notes the Wizards are approaching a crossroads where they must decide whether to pay or trade their core players if the team continues to struggle.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 5,
+      "speaker": "Bobby Marks",
+      "timestamp": "03:55",
+      "summary_phrase": "Washington Wizards' historic losing streak",
+      "names_mentioned": [],
+      "excerpt": "the Wizards have not won three games in a row since February of 2025",
+      "quote": "I've been sitting on this sweet for about a year, that you know that the Wizards have not won three games in a row since February of 2025.",
+      "verbatim_original_language": "",
+      "start_seconds": 235,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Bobby Marks highlights the struggles of the Washington Wizards noting the team has not won three games in a row since February 2025.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 6,
+      "speaker": "Tim Bontemps",
+      "timestamp": "04:43",
+      "summary_phrase": "Pressure on the Warriors front office to produce",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Trae Young",
+        "AJ Dybantsa"
+      ],
+      "excerpt": "I think there's some real pressure there and again, just the Anthony Davis situation",
+      "quote": "They go out and trade for Anthony Davis and Trae Young last year, as Windy said, it was about the flip and it was about a fast-forward flip. Because they're, I think there was some natural pressure, particularly on that front office to produce a winning product right now after a long, painful rebuild finally paid off. They got AJ Dybantsa. I think there's some real pressure there and again, just the Anthony Davis situation. When you gave Trae Young four years, $213 million, it becomes real hard, I think, to look Anthony Davis in the eyes, especially if Anthony Davis keeps putting up these kind of numbers and saying, 'Eh, let's wait and see.'",
+      "verbatim_original_language": "",
+      "start_seconds": 283,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Tim Bontemps discusses the pressure on the front office to produce a winning product and the difficulty of asking players to wait on contract extensions when they are performing at a high level.",
+      "team": "NBA on ESPN"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "yt-quotes rotation",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "WwoJjLQUY2g",
+  "url": "https://www.youtube.com/watch?v=WwoJjLQUY2g",
+  "channel_team": "NBA on ESPN",
+  "published": "2026-11-11T17:30:10Z",
+  "duration_seconds": 387,
+  "processed_at": "2026-11-11T21:23:23Z",
+  "run_id": "2026-11-11T2122Z-14utc",
+  "is_one_off": false
+}

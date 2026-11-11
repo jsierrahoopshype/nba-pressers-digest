@@ -1,0 +1,196 @@
+{
+  "video_title": "Clippers vs. Suns | Postgame Interviews | Nov. 8, 2026 | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Kobe Brown",
+    "Ivica Zubac"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:05",
+      "summary_phrase": "Tyronn Lue on the Clippers' lack of defensive toughness",
+      "names_mentioned": [],
+      "excerpt": "we got to bring that competitive fight every single night. And tonight just thought we didn't have that",
+      "quote": "Defensive toughness, defensive physicality. They got whatever they wanted tonight. We didn't do a good job of just taking care of the defensive end. We know at times it's going to be hard for us to score the basketball, but we got to bring that competitive fight every single night. And tonight just thought we didn't have that. We looked tired and exhausted, maybe because of their pace too, and we're not used to that. I don't know what it was, but we just didn't have that defensive mindset to start the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyronn Lue says the Clippers lacked defensive toughness and physicality against the Suns. Lue noted the team looked tired and failed to bring the necessary competitive fight to the game.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the Clippers' defensive struggles and lack of intensity during the postgame press conference following a loss to the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:47",
+      "summary_phrase": "Tyronn Lue on the team's failure to execute defensive schemes",
+      "names_mentioned": [],
+      "excerpt": "we didn't have that defensive mindset tonight to be physical, get to guys, get back in transition",
+      "quote": "I'm not saying toughness as far as individually, I'm just saying we didn't have that defensive mindset, defensive toughness tonight to be physical, get to guys, get back in transition, understand where shooters were at. A lot of times we didn't even get matched up. That's who we have to be, and if we can't be that, then we can't play. We have to be able to at least be in the fight every single night.",
+      "verbatim_original_language": "",
+      "start_seconds": 47,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on the Clippers defensive failures: We did not have the mindset to be physical or get back in transition. If we cannot be that team, then we cannot play.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue elaborates on the team's failure to execute defensive schemes and maintain physical intensity against the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kobe Brown",
+      "timestamp": "02:27",
+      "summary_phrase": "Kobe Brown on the Clippers' defensive struggles against the Suns",
+      "names_mentioned": [],
+      "excerpt": "defensively we just weren't good tonight and we gave them a lot of points in transition",
+      "quote": "I think it started with our defense. Defensively we just weren't good tonight and we gave them a lot of points in transition and a lot of threes. They made a lot of threes tonight, so we just got to adjust in that way and not give them so many open looks.",
+      "verbatim_original_language": "",
+      "start_seconds": 147,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kobe Brown says the Clippers defensive struggles against the Suns started with giving up too many points in transition and open threes.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Kobe Brown reflects on the Clippers' defensive lapses and transition struggles during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kobe Brown",
+      "timestamp": "03:00",
+      "summary_phrase": "Kobe Brown on the team's lack of communication",
+      "names_mentioned": [
+        "Jordan Goodwin"
+      ],
+      "excerpt": "the communication wasn't there and we were kind of hugged in even after he made a couple",
+      "quote": "Like you said, the communication wasn't there and we were kind of hugged in even after he made a couple. After a guy makes two, you know they're feeling it, you got to get to them and make them have a different way of scoring. We just can't let him keep getting open looks, so yeah, there has to be better communication from the jump.",
+      "verbatim_original_language": "",
+      "start_seconds": 180,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kobe Brown says the Clippers lacked communication against the Suns and failed to adjust when shooters got hot. We just cannot let them keep getting open looks.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown addresses the lack of communication on the floor that led to open shots for the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ivica Zubac",
+      "timestamp": "05:34",
+      "summary_phrase": "Ivica Zubac on the Clippers' poor performance against the Suns",
+      "names_mentioned": [],
+      "excerpt": "they wanted it more than us. They played harder, they played better. They beat us in every",
+      "quote": "They wanted it more than us. They played harder, they played better. They beat us in every facet of the game and it wasn't our night. We got to try to flush it and move on.",
+      "verbatim_original_language": "",
+      "start_seconds": 334,
+      "end_seconds": 348,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ivica Zubac on the Clippers loss to the Suns: They wanted it more than us. They played harder and better. They beat us in every facet of the game.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ivica Zubac evaluates the team's poor performance and admits the Suns outplayed them in every aspect of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ivica Zubac",
+      "timestamp": "07:44",
+      "summary_phrase": "Ivica Zubac on the need to improve offensive shot creation",
+      "names_mentioned": [],
+      "excerpt": "we need to do a better job of getting in the paint and forcing closeouts on teams",
+      "quote": "We do want to get them up, but it's about how you create them too. I think we need to do a better job of getting in the paint and forcing closeouts on teams, making the ball move and trusting the pass more. We've shown glimpses of it, we've had good games, we've had good passes, we've had good quarters, just try to find a way to stick it all together and have a complete game with it.",
+      "verbatim_original_language": "",
+      "start_seconds": 464,
+      "end_seconds": 494,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ivica Zubac says the Clippers need to improve their offensive shot creation by getting into the paint and trusting the pass more to force defensive closeouts.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Ivica Zubac discusses the need for the Clippers to improve their offensive execution and ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "vWv4Y-M964I",
+  "url": "https://www.youtube.com/watch?v=vWv4Y-M964I",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-11T19:40:15Z",
+  "duration_seconds": 537,
+  "processed_at": "2026-11-11T21:24:12Z",
+  "run_id": "2026-11-11T2122Z-14utc",
+  "is_one_off": false
+}
