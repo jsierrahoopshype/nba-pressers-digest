@@ -1,0 +1,218 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-10-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:13",
+      "summary_phrase": "Jordan Goodwin's energy and improved shooting off the bench",
+      "names_mentioned": [
+        "Jordan Goodwin"
+      ],
+      "excerpt": "He's definitely improved in that area. Feels like every time it leaves his hands it's going in.",
+      "quote": "It's him every night. We talk about just his energy and his general enthusiasm for life and basketball is always at a high level. And tonight, on top of it, he made shots. So, he's definitely improved in that area. Feels like every time it leaves his hands it's going in.",
+      "verbatim_original_language": "",
+      "start_seconds": 13,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott on Jordan Goodwin: His energy and enthusiasm for basketball is always at a high level. Tonight he made shots and it feels like every time it leaves his hands it is going in.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Goodwin"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Jordan Ott praises Jordan Goodwin for his energy and improved shooting performance off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:32",
+      "summary_phrase": "No update on Jaylen's injury status after the game",
+      "names_mentioned": [
+        "Jaylen"
+      ],
+      "excerpt": "I didn't hear anything, any update there after the game.",
+      "quote": "I didn't hear anything, any update there after the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 32,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 2,
+      "social_post": "Coach Jordan Ott says he has no update on Jaylen's injury status following tonight's game.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Jordan Ott states he has no update on the injury status of Jaylen following the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:55",
+      "summary_phrase": "Coach Ott on the necessity of using the team's depth",
+      "names_mentioned": [],
+      "excerpt": "When we have depth we got to use it. This is as deep as it gets.",
+      "quote": "When we have depth we got to use it. This is as deep as it gets in our schedule. We got to continue to use it, and we'll find some things. I thought even tonight, early end of first quarter into the second, that unit really found some rhythm, their ball movement, their pace, and then of course just their defensive activity really helps.",
+      "verbatim_original_language": "",
+      "start_seconds": 55,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the Suns rotation: When we have depth we have to use it. This is as deep as it gets in our schedule and we have to continue to use it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Jordan Ott discusses the importance of utilizing the team's depth during a busy stretch of the schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:27",
+      "summary_phrase": "Evaluating the team's defensive performance in pick-and-roll situations",
+      "names_mentioned": [
+        "Brook",
+        "Darius",
+        "DG"
+      ],
+      "excerpt": "I thought we handled the pops overall pretty well, just our communication.",
+      "quote": "I thought we handled the pops overall pretty well, just our communication. They definitely hit one right over our hands. We were there. They did a good job communicating. It was more about the pick-up point, how high can we pick up Darius, and then DG's ability to get downhill. Even they played some Spain pick-and-roll, we kind of messed up the one time they got to the rim, so we were able to spray out. We'll continue to take a look. We know where we got to get better at, pick-and-roll drive.",
+      "verbatim_original_language": "",
+      "start_seconds": 87,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jordan Ott on the defensive pick and roll: We handled the pops pretty well but we know where we have to get better at pick and roll drive.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "PHX",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Coach Jordan Ott evaluates the team's defensive execution against pick-and-roll situations involving Darius Garland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:14",
+      "summary_phrase": "Addressing the team's three-point shooting and shot selection",
+      "names_mentioned": [
+        "Luke",
+        "Collin"
+      ],
+      "excerpt": "We're bottom 10 in three-point rate, I don't think that's where we want to live.",
+      "quote": "We got 43 of them up tonight, I think it was 26 last night. We're bottom 10 in three-point rate, I don't think that's where we want to live. I think we want to live a little bit above that, taking high-quality shots. Part of that's catch-and-shoot, but those guys have the ability to shoot off the dribble, especially in drop coverage once we get a good screen, let it go. I thought Luke took a couple good ones last night too, when he had a small window he was able to let it go, and keep encouraging them to let it go. And then obviously, Collin took the message well, and he's know anytime we get him up there 8, 9, 10 threes, we feel really good about it.",
+      "verbatim_original_language": "",
+      "start_seconds": 134,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordan Ott wants the Suns to increase their three point volume: We are bottom 10 in three point rate and I do not think that is where we want to live. We want to take high quality shots.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luke Kennard",
+          "Collin Sexton"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Jordan Ott discusses the team's strategy regarding three-point shot selection and encouraging players like Luke Kennard and Collin Sexton to shoot.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:06",
+      "summary_phrase": "Focusing on defensive rebounding as a key team priority",
+      "names_mentioned": [
+        "Man-Man"
+      ],
+      "excerpt": "Defensive rebounding is going to be a key to our group, especially without Man-Man on the floor.",
+      "quote": "Defensive rebounding is going to be a key to our group, especially without Man-Man on the floor. We understand we're a little undersized, so all five guys are going to have to do it. We're going to have to keep having to take steps because people are going to keep coming.",
+      "verbatim_original_language": "",
+      "start_seconds": 186,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Jordan Ott says defensive rebounding is a key priority for this group: We are a little undersized so all five guys are going to have to do it.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Man-Man"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Jordan Ott emphasizes the need for collective defensive rebounding efforts while playing without Man-Man.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "_Ido9ON_VC0",
+  "url": "https://www.youtube.com/watch?v=_Ido9ON_VC0",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-11T06:50:31Z",
+  "duration_seconds": 221,
+  "processed_at": "2026-11-11T07:28:14Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}

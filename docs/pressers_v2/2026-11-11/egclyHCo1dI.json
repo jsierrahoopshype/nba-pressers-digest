@@ -1,0 +1,372 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. SACRAMENTO KINGS | COACH SWEENEY, FRANZ WAGNER & ANTHONY BLACK",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Franz Wagner",
+    "Anthony Black"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:15",
+      "summary_phrase": "Coach Sweeney praises team effort and paint protection against Sacramento",
+      "names_mentioned": [
+        "Vucevic",
+        "Wendell",
+        "Goga"
+      ],
+      "excerpt": "numerous times we had multiple bigs in the game, Vucevic and Wendell and Goga, all three of those guys",
+      "quote": "I think the points in the paint speak for themselves from that standpoint, but I thought numerous times we had multiple bigs in the game, Vucevic and Wendell and Goga, all three of those guys did a really good job of protecting the paint. And then from the rebounding standpoint, I thought we saw a number of guys really contribute on the boards. A lot of guys going and attacking the basketball, got to keep that up.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney credits the Magic frontcourt for their paint protection against Sacramento, noting that Vucevic, Wendell, and Goga all contributed to a strong defensive effort on the interior.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Vucevic",
+          "Wendell Carter Jr.",
+          "Goga Bitadze"
+        ],
+        "teams": [
+          "ORL",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's defensive performance and paint protection against the Sacramento Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:48",
+      "summary_phrase": "Coach Sweeney evaluates Anthony Black's aggressive play and composure",
+      "names_mentioned": [
+        "AB"
+      ],
+      "excerpt": "throughout, he did a great job of attacking the paint, excellent job of being composed when he had",
+      "quote": "I thought he did a great job. There were times in the game where I thought he could have even been more aggressive, but I thought just throughout, he did a great job of attacking the paint, excellent job of being composed when he had the basketball. But overall, aggressive with balance was really putting pressure on their defense and making good decisions throughout.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Coach Sweeney says Anthony Black did a great job attacking the paint and maintaining composure, though he wants to see even more aggression from the young guard moving forward.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Black"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney evaluates Anthony Black's performance and decision-making during the game against the Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:11",
+      "summary_phrase": "Coach Sweeney discusses Alex Morales' career-high performance",
+      "names_mentioned": [
+        "Alex Morales"
+      ],
+      "excerpt": "he does a great job of giving effort on both ends, regardless of whether it's the offensive boards",
+      "quote": "I think he does a great job of giving effort on both ends, regardless of whether it's the offensive boards or defensive boards, on the basketball. Does a great job of setting screens, all the little things that you need to win, he does. Did that in the G for Osceola and has done it throughout his time, whether it's in practice or in the games with us. And so I thought he did an excellent job there. Him making a three, that's great, but it's all the other things that he does that really impact winning he did a great job of.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney praises Alex Morales for his effort and role-player contributions, highlighting that his impact goes beyond the box score and is essential to winning basketball.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alex Morales"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises Alex Morales for his effort and contributions to winning basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Franz Wagner",
+      "timestamp": "02:37",
+      "summary_phrase": "Franz Wagner on team defensive resilience and fighting through adversity",
+      "names_mentioned": [],
+      "excerpt": "we were locked in, we had a lot of good players on our end, even when we were late",
+      "quote": "I thought we were locked in, we had a lot of good players on our end, even when we were late on some plays, you know we kept fighting and we need to keep playing like that.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Franz Wagner says the Magic stayed locked in and kept fighting through adversity, emphasizing that the team needs to maintain that level of intensity.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner reflects on the team's defensive resilience during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Franz Wagner",
+      "timestamp": "03:12",
+      "summary_phrase": "Franz Wagner praises Anthony Black's aggressive play",
+      "names_mentioned": [
+        "AB"
+      ],
+      "excerpt": "AB played great, we need to keep being aggressive and make plays going downhill",
+      "quote": "AB played great, we need to keep being aggressive and make plays going downhill.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Franz Wagner on Anthony Black's performance: AB played great, and the team needs to keep being aggressive and making plays going downhill.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Black"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner comments on Anthony Black's aggressive play style during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Franz Wagner",
+      "timestamp": "03:24",
+      "summary_phrase": "Franz Wagner on Alex Morales' impactful energy and readiness",
+      "names_mentioned": [
+        "Alex Morales",
+        "Amol"
+      ],
+      "excerpt": "it's not easy when you don't know how much you're going to play and come in, play 29 minutes",
+      "quote": "I think Amol, that's not easy when you don't know how much you're going to play and come in, play 29 minutes and be ready like that. A lot of big energy plays and it's important, especially when we got guys out, that guys are ready to go.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 222,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Franz Wagner praises Alex Morales for staying ready, noting that it is not easy to come in and play 29 minutes of high-energy basketball when you do not know your rotation status.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alex Morales"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner discusses Alex Morales' ability to contribute energy despite limited playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Anthony Black",
+      "timestamp": "04:31",
+      "summary_phrase": "Anthony Black on team defensive execution and personnel adjustments",
+      "names_mentioned": [
+        "Levine"
+      ],
+      "excerpt": "there was a couple of times we didn't follow the game plan for personnel and Levine was able",
+      "quote": "I think we did a good job. There was a couple of times we didn't follow the game plan for personnel and Levine was able to get some threes up. Nine threes, him getting those up is too many because he's a great shooter. But other than that, you know, we played hard, we had each other's back, gave up 22 free throws, so you know we did a solid job playing defense contesting shots.",
+      "text_blocks": [],
+      "start_seconds": 271,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Anthony Black admits the Magic failed to follow the game plan on personnel, allowing too many threes, but says the team played hard and had each other's back defensively.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zach LaVine"
+        ],
+        "teams": [
+          "ORL",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Anthony Black discusses the team's defensive execution and the challenge of guarding Zach LaVine.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Anthony Black",
+      "timestamp": "05:06",
+      "summary_phrase": "Anthony Black assesses his own performance and areas for improvement",
+      "names_mentioned": [],
+      "excerpt": "little careless with the ball though, got to be better, you know, playing in the pick and roll",
+      "quote": "You know, solid. Little careless with the ball though, got to be better, you know, playing in the pick and roll, just keeping my dribble, being more aggressive. I think a couple of times, you know, I'm coming off passive, just turning it over, so just being aggressive every rep, I think I could take a step there, but just happy with the way I'm rebounding, playing defense and passing the ball too.",
+      "text_blocks": [],
+      "start_seconds": 306,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Anthony Black assesses his own play as solid but admits he was a little careless with the ball, noting he needs to be more aggressive and cut down on turnovers.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black assesses his own performance, highlighting areas for improvement in ball handling and aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Anthony Black",
+      "timestamp": "05:43",
+      "summary_phrase": "Anthony Black on developing his aggressive paint play",
+      "names_mentioned": [],
+      "excerpt": "being more aggressive, getting to the paint, playing off of two feet is something that the coaches have emphasized",
+      "quote": "Being more aggressive, getting to the paint, playing off of two feet is something that the coaches have emphasized to me and the rest of my teammates. And I think, you know, when I do that, I just have a better time making plays, scoring the ball. So I think just playing with a little bit more patience, using my size and playing off of two is helping me out a lot.",
+      "text_blocks": [],
+      "start_seconds": 343,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Anthony Black says he is focusing on playing off two feet and using his size to be more patient and aggressive when attacking the paint.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black explains how he is working on his paint play and patience based on coaching feedback.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Anthony Black",
+      "timestamp": "06:14",
+      "summary_phrase": "Anthony Black on the team's rebounding and turnover management",
+      "names_mentioned": [
+        "P5",
+        "J"
+      ],
+      "excerpt": "when we're not shooting the ball well, just gives us extra possessions, and then it's demoralizing as the defense",
+      "quote": "You know, that's something we've been doing a good job of lately, is winning the opportunity battle, limiting our turnovers, up in our offensive rebounds and, you know, limiting theirs. So it's just a good job, you know, when we're not shooting the ball well, just gives us extra possessions, and then it's demoralizing as the defense giving up offensive rebounds. And just playing defense, you know, 24 more seconds, 14 more seconds, so I think that's got to be a part of who we are going forward, and you know, I think it's leading to extra possessions that's helping us.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 413,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Anthony Black says winning the opportunity battle by limiting turnovers and crashing the offensive glass must be part of the Magic's identity moving forward.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Anthony Black discusses the team's focus on winning the rebounding battle and managing turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Anthony Black",
+      "timestamp": "06:53",
+      "summary_phrase": "Anthony Black on his playmaking role and team chemistry",
+      "names_mentioned": [
+        "P5",
+        "J"
+      ],
+      "excerpt": "just his ability to make his teammates better, you know he's probably averaging a lot of assists lately",
+      "quote": "Just his ability to make his teammates better, you know he's probably averaging a lot of assists lately. You know, I think he's probably top five in the league, so yeah, he's just taking on a lot of the playmaking load. Obviously with P5 and J out, so a lot of just advantage creation and, you know, he's doing a really good job getting to the paint, finding his teammates and being aggressive first, because that's when he's at his best getting downhill, getting to the rim. So, he's playing great basketball and, you know, he's building his team to victory on both sides of the ball.",
+      "text_blocks": [],
+      "start_seconds": 413,
+      "end_seconds": 454,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Anthony Black praises his teammate's playmaking load, noting that with key players out, he is doing a great job creating advantages and getting to the rim.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Anthony Black praises Franz Wagner's playmaking ability and leadership in the absence of other teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "egclyHCo1dI",
+  "url": "https://www.youtube.com/watch?v=egclyHCo1dI",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-11T06:43:15Z",
+  "duration_seconds": 587,
+  "processed_at": "2026-11-11T07:28:24Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}

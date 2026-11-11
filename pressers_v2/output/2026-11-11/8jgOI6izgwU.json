@@ -1,0 +1,117 @@
+{
+  "video_title": "Jordan Goodwin Postgame Media Availability  | 11-10-26",
+  "speakers_seen": [
+    "Jordan Goodwin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "01:11",
+      "summary_phrase": "Jordan Goodwin on his shooting confidence and development",
+      "names_mentioned": [],
+      "excerpt": "that mindset of feeling like it's going in every time it leaves your hands",
+      "quote": "That mindset of feeling like it's going in every time it leaves your hands started feeling a little bit last year. During the summer, that's all we did was just shoot the ball again. I know that's a key role that I need to do with this team, especially losing the shooters that we lost. I just want to take that next step, but all summer it's just been getting threes up everywhere on the court, off the dribble, catch and shoot, no matter what.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Goodwin says his shooting confidence has grown after a summer of constant work. He knows he needs to step up as a shooter for the Suns this season: That mindset of feeling like it is going in every time it leaves your hands started last year.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin discusses his personal shooting development and his focus on improving his three-point shooting during the offseason.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "01:48",
+      "summary_phrase": "Jordan Goodwin on Ryan Dunn's development this season",
+      "names_mentioned": [
+        "Ryan Dunn"
+      ],
+      "excerpt": "he's doing a great job. We all be on him pretty hard, but the way he responded",
+      "quote": "He's doing a great job. We all be on him pretty hard, but the way he responded this year, he had a good summer too, but the way he's responding is very impressive. I know me and him, we kind of do a lot of the same things, and us being out there together and us being on the same page together is getting kind of scary. We did our handshake and it was like, okay, me and you up here picking up full court. I love where his head is at right now.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jordan Goodwin is impressed by Ryan Dunn's growth this season. Goodwin says their chemistry is building quickly: Us being out there together and us being on the same page together is getting kind of scary.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ryan Dunn"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Goodwin praises teammate Ryan Dunn for his impressive development and their chemistry on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "03:13",
+      "summary_phrase": "Jordan Goodwin on playing alongside Devin Booker",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "the best thing with playing with somebody like Book that can go get his own but so unselfish",
+      "quote": "That's the best thing with playing with somebody like Book that can go get his own but so unselfish. Also, like today, there was one play he told me go to the right corner, and before I knew it, the ball was right in my hands and I'm getting the shot. Just little things like that, he knows the game so well, and he's Devin Booker.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jordan Goodwin praises Devin Booker for his unselfish playmaking. Goodwin says Booker knows the game so well and is always looking to set his teammates up for open shots.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Goodwin describes the experience of playing alongside Devin Booker and highlights his teammate's unselfish playmaking abilities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "8jgOI6izgwU",
+  "url": "https://www.youtube.com/watch?v=8jgOI6izgwU",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-11T06:48:45Z",
+  "duration_seconds": 233,
+  "processed_at": "2026-11-11T07:28:10Z",
+  "run_id": "2026-11-11-overnight",
+  "is_one_off": false
+}
