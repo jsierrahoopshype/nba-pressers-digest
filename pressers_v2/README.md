@@ -3,7 +3,7 @@
 The current pipeline. The original `scripts/` folder is kept as is; its workflow (`daily-digest.yml`) has been removed.
 
 Every hour overnight (01:23-10:23 UTC, the `overnight` slot: one shared
-`digest-overnight.md` and run id per night, no "no new videos" Slack posts) and
+`digest-overnight.md` and run id per night, one Slack post per night) and
 twice in the day (14:15, 20:15 UTC) GitHub Actions polls the 30 NBA team
 YouTube channels, keeps press conferences / postgame / pregame / media
 availability videos published in the last 48h, sends each one to Gemini
@@ -16,7 +16,8 @@ availability videos published in the last 48h, sends each one to Gemini
 | Rolling 48h clip manifest | `pressers_v2/output/latest_clips.json` |
 | Dated copy of the manifest | `pressers_v2/output/clips/<date>.json` |
 | GitHub Pages mirror | `docs/pressers_v2/` → https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/ |
-| Slack post | after each run, via `SLACK_WEBHOOK_URL` |
+| Slack post | after each daytime run, once per night for the overnight slot, via `SLACK_WEBHOOK_URL` (see "Slack alerts") |
+| Slack alert state | `pressers_v2/output/slack_alerted.json` (committed, not mirrored to Pages) |
 | Structured quote history (presser quotes only) | `data/history/<season>.jsonl` (separate workflow, see below) |
 
 **Same extraction and format as hoopshype-yt-quotes.** Quotes are extracted
@@ -48,6 +49,26 @@ scheduled for: the 20:15 cron that GitHub starts at 02:43 the next morning
 files the videos published after midnight under the scheduled day (its
 `20utc` pages, the day's pages and the Slack post's date and links), not under
 the next day. A rebuild moves stored videos of such runs the same way.
+
+**Slack alerts (Nov 12 2026).** `slack_state.py` keeps
+`output/slack_alerted.json`: videos waiting to be posted (`pending`) and video
+ids already posted (`alerted`, pruned after 14 days). The hourly overnight runs
+still update `digest-overnight.html` every hour but post nothing; the first
+run that starts at or after 10:00 UTC posts one message with every overnight
+video not yet alerted. If that run fails or never fires, the next run of any
+slot posts them (catch-up). A video id is never posted twice (ids move to
+`alerted` only after a successful post, in a commit right after it).
+Podcasts & shows are not listed in Slack (hoopshype-yt-quotes alerts them);
+the podcasts page link stays. A video whose top quote is ~85%+ the same text
+(first 200 chars, case and punctuation ignored) as one already shown in that
+message or posted for the same day is left out, keeping a single-speaker
+video over a full media session; the pages drop such repeated quotes from the
+later copy too (press conference and one-off pages; the podcasts page is
+unchanged). Each Slack item is the title (team), clip count and top quote
+(the draft post stays on the pages). The header names the slot, e.g.
+`2026-11-12 overnight` or `2026-11-11 20 UTC run, posted late` for a run
+posting after midnight UTC for a previous day's slot. On the first run the
+file is created with every video stored in the last 14 days marked as alerted.
 
 **Content types.** `presser` (every team-channel upload, including "LIVE: ...
 Postgame Interviews" streams, unless its title says "podcast"), `podcast` (the

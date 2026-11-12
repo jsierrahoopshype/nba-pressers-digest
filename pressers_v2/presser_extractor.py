@@ -47,6 +47,7 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
+import slack_state
 import ytq_vendor as ytq
 
 load_dotenv()
@@ -58,6 +59,7 @@ CONFIG_PATH = ROOT / "config.json"
 LATEST_CLIPS_PATH = OUTPUT_DIR / "latest_clips.json"
 CLIPS_ARCHIVE_DIR = OUTPUT_DIR / "clips"
 SLACK_PAYLOAD_PATH = ROOT / ".slack_payload.json"
+SLACK_STATE_PATH = OUTPUT_DIR / "slack_alerted.json"   # committed: pending + alerted video ids
 WATCH_URL_TEMPLATE = "https://www.youtube.com/watch?v={video_id}"
 YT_API_BASE = "https://www.googleapis.com/youtube/v3"
 FORMAT_VERSION = "ytq-1"
@@ -115,10 +117,11 @@ log = ytq.log
 
 def set_output_dir(path: Path) -> None:
     """Point both this module and the vendored yt-quotes code at one folder."""
-    global OUTPUT_DIR, LATEST_CLIPS_PATH, CLIPS_ARCHIVE_DIR
+    global OUTPUT_DIR, LATEST_CLIPS_PATH, CLIPS_ARCHIVE_DIR, SLACK_STATE_PATH
     OUTPUT_DIR = ytq.OUTPUT_DIR = Path(path)
     LATEST_CLIPS_PATH = OUTPUT_DIR / "latest_clips.json"
     CLIPS_ARCHIVE_DIR = OUTPUT_DIR / "clips"
+    SLACK_STATE_PATH = OUTPUT_DIR / "slack_alerted.json"
 
 
 def video_id_from_url(url: str) -> str:
@@ -1274,6 +1277,8 @@ def process_one_video(client, team: str, video: dict, lock, summary, processed_i
                 "date": video_day_dir(video).name,
                 "is_one_off": bool(video.get("is_one_off")),
                 "content_type": data.get("content_type") or "presser",
+                # Slack quote dedupe keeps a single-speaker video over a full media session
+                "single_speaker": bool(_single_speaker(data)),
             })
         elif status == "deferred-transient":
             _deferred_items.append(deferred_record)
@@ -1369,7 +1374,7 @@ def top_quotes_blocks(md_paths: list) -> list:
 
 
 def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule: bool = True,
-                     min_quotes: int = 1) -> list:
+                     min_quotes: int = 1, hidden: dict | None = None) -> list:
     """Markdown lines for the "Best of the best" block ([] when nothing is
     scored). Ranking: news_score / social_score, then the structured "best"
     flag, then the page's own order. Unidentified speakers, reporter
@@ -1387,8 +1392,9 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
         if not isinstance(data, dict):
             continue
         vid = data.get("video_id") or md_path.stem
+        skip = (hidden or {}).get(vid) or set()
         for q in data.get("quotes") or []:
-            if not quote_visible(q):
+            if not quote_visible(q) or q.get("rank") in skip:
                 continue
             total += 1
             order += 1
@@ -1608,6 +1614,55 @@ def _is_page_name(name: str) -> bool:
     return bool(_PAGE_NAME_RE.match(name))
 
 
+def dedupe_page_blocks(blocks: list) -> tuple[list, dict]:
+    """Drop repeated quotes from one page's video blocks: a quote whose
+    normalized text (first ~200 chars) is ~85%+ the same as one already on
+    the page is left out of the later copy. Single-speaker videos claim their
+    quotes first, so a full media session loses the copy, not the player's
+    own video; a block with nothing left is dropped. Blocks with no repeat
+    are kept byte for byte. Returns (blocks, {video_id: ranks hidden})."""
+    loaded = []
+    for i, (content, md_path) in enumerate(blocks):
+        try:
+            data = json.loads(md_path.with_suffix(".json").read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            data = None
+        loaded.append((i, content, md_path, data if isinstance(data, dict) else None))
+    order = sorted(loaded, key=lambda t: (not (t[3] and _single_speaker(t[3])), t[0]))
+    seen, hide = [], {}   # seen: (normalized quote, block index); only other videos' copies count
+    for i, _, md_path, data in order:
+        if not data:
+            continue
+        mine = []
+        for q in data.get("quotes") or []:
+            if not quote_visible(q):
+                continue
+            norm = slack_state.normalize_quote(speaker_own_text(q))
+            if any(j != i and slack_state.same_quote(norm, s) for s, j in seen):
+                hide.setdefault(i, set()).add(q.get("rank"))
+            elif norm:
+                mine.append((norm, i))
+        seen.extend(mine)
+    out, hidden = [], {}
+    for i, content, md_path, data in loaded:
+        if i not in hide:
+            out.append((content, md_path))
+            continue
+        vid = data.get("video_id") or md_path.stem
+        hidden[vid] = hide[i]
+        shown = dict(data, quotes=[q if q.get("rank") not in hide[i] else dict(q, duplicate_of={"page": True})
+                                   for q in data.get("quotes") or []])
+        if not any(quote_visible(q) for q in shown["quotes"]):
+            log(f"  [pages] {vid}: every quote already on the page; block left out")
+            continue
+        md = render_markdown(vid, data.get("channel_team") or "", shown).strip()
+        if md.startswith("# "):
+            md = "#" + md
+        log(f"  [pages] {vid}: {len(hide[i])} quote(s) already on the page left out")
+        out.append((md, md_path))
+    return out, hidden
+
+
 def write_pages(date_str: str, slot: str | None, video_ids: list | None = None) -> dict:
     """Write the slot's (or, slot None, the day's) three pages from these
     videos (None = every video of the day). Returns {content_type: path} for
@@ -1632,6 +1687,13 @@ def write_pages(date_str: str, slot: str | None, video_ids: list | None = None) 
         if content.startswith("# "):
             content = "#" + content  # demote h1 to h2 (as yt-quotes does)
         blocks[_video_type_for_md(md_path)].append((content, md_path))
+    # The same answer never shows twice on a page (Jorge, Nov 12 2026). The
+    # podcasts page is left exactly as it was.
+    hidden = {}
+    for ctype in ("presser", "oneoff"):
+        if blocks[ctype]:
+            blocks[ctype], h = dedupe_page_blocks(blocks[ctype])
+            hidden.update(h)
     present = [c for c in CONTENT_TYPES if blocks[c]]
     written = {}
     for ctype in CONTENT_TYPES:
@@ -1646,7 +1708,7 @@ def write_pages(date_str: str, slot: str | None, video_ids: list | None = None) 
         if others:
             parts.extend([" · ".join(others), ""])
         parts.extend(top_quotes_block([p for _, p in blocks[ctype]], header=TOP_QUOTES_HEADER,
-                                      min_quotes=TOP_SECTION_MIN[ctype]))
+                                      min_quotes=TOP_SECTION_MIN[ctype], hidden=hidden))
         for i, (content, _) in enumerate(blocks[ctype]):
             if i:
                 parts.extend(["---", ""])
@@ -2282,6 +2344,95 @@ def queue_slack_payload(payload: dict) -> None:
         log(f"[slack] failed to write payload: {e}")
 
 
+def load_slack_state(now: datetime) -> dict:
+    """slack_alerted.json, pruned. Created on its first run from the videos
+    already stored (the old per-run alerts posted all of them)."""
+    state = slack_state.load(SLACK_STATE_PATH)
+    if state is None:
+        state = slack_state.seed_from_outputs(OUTPUT_DIR, now)
+        log(f"[slack] {SLACK_STATE_PATH.name} created: {len(state['alerted'])} stored video(s) recorded as alerted")
+    slack_state.prune(state, now)
+    return state
+
+
+def slot_pages(group: dict, run_slot: str, today: str, pages: list) -> list:
+    """Page links for one slot of the Slack post: that slot's pages (press
+    conferences, podcasts & shows, one-offs) on every day its videos are
+    filed under, plus the pages this run wrote for its own slot."""
+    dates = {it.get("date") for it in group["items"] if it.get("date")}
+    if group["run_slot"] == run_slot and group["slot_date"] == today:
+        dates |= {pg["date"] for pg in pages if pg.get("date")}
+    out = []
+    for d in sorted(dates):
+        for ctype in CONTENT_TYPES:
+            md = OUTPUT_DIR / d / page_filename(ctype, group["run_slot"])
+            if md.is_file():
+                out.append({"date": d, "file": md.with_suffix(".html").name, "label": CONTENT_TYPE_LABELS[ctype]})
+    return out
+
+
+def queue_slack(run_slot: str, today: str, now: datetime, processed_items: list, pages: list,
+                clip_count: int, aborted_count: int = 0, deferred_count: int = 0,
+                deferred_videos: list | None = None) -> dict | None:
+    """Decide this run's Slack post (Jorge, Nov 12 2026) and queue it for the
+    workflow's post-push step. Returns the payload queued (None: no post).
+
+    - Podcasts & shows never go to Slack (hoopshype-yt-quotes alerts them);
+      their page link stays in the post.
+    - Overnight runs post nothing until the night is over (10:00 UTC); the
+      first run from then on (any slot) posts every pending overnight video.
+    - A video id already alerted is never posted again; a video whose top
+      quote repeats one already shown is dropped (single-speaker wins).
+    slack_alerted.json is saved here (pending) and by slack_notify.py after
+    a successful post (alerted)."""
+    try:
+        state = load_slack_state(now)
+        queued = slack_state.add_pending(state, processed_items, RUN_ID, run_slot, today, now)
+        due = slack_state.due_items(state, now)
+        kept, dropped = slack_state.dedupe(due, state, now)
+        records = slack_state.alert_records(due, dropped, now)
+        for vid, dup in dropped.items():
+            log(f"[slack] {vid}: top quote repeats {dup}; left out of Slack")
+        held = len(state["pending"]) - len(due)
+        if queued or held:
+            log(f"[slack] queued {len(queued)} new video(s); {len(due)} due now, {held} held for later")
+        if not kept and dropped:
+            # nothing left to post: the duplicates are settled now
+            slack_state.mark_alerted(state, records)
+        slack_state.save(state, SLACK_STATE_PATH)
+    except Exception as e:   # never let the Slack bookkeeping block the run's outputs
+        log(f"[slack] state failed ({type(e).__name__}: {e}); no Slack post this run")
+        return None
+    # An overnight run before 10:00 UTC is one of the hourly drip runs: it
+    # only posts when an older slot's items are due (catch-up).
+    final_run = run_slot != OVERNIGHT_SLOT or now.hour >= slack_state.OVERNIGHT_LAST_HOUR
+    groups = slack_state.group_by_slot(kept)
+    for g in groups:
+        g["pages"] = slot_pages(g, run_slot, today, pages)
+    if kept or (final_run and (aborted_count or deferred_count)):
+        payload = {
+            "kind": "digest",
+            "date_str": today,
+            "run_slot": run_slot,
+            "groups": groups,
+            "pages": pages,
+            "clip_count": clip_count,
+            "aborted_count": aborted_count,
+            "deferred_count": deferred_count,
+            "deferred_videos": deferred_videos or [],
+            "alert_records": records if kept else {},
+        }
+    elif run_slot != OVERNIGHT_SLOT:
+        # daytime / manual run with nothing new (the overnight slot never
+        # posted these); a podcasts-only run still links its pages
+        payload = {"kind": "no_new_videos", "date_str": today, "run_slot": run_slot, "pages": pages}
+    else:
+        log("[slack] overnight run: nothing to post")
+        return None
+    queue_slack_payload(payload)
+    return payload
+
+
 def discover_candidates(channels: list, config: dict, yt_key: str, cutoff: datetime) -> list:
     """Return [(team, {video_id, title, published})] whose title passes the
     presser filter and whose publish time is inside the window."""
@@ -2372,18 +2523,12 @@ def main() -> int:
     migrate_legacy_outputs()
     relink_stored_markdown()
 
-    def queue_no_new_videos() -> None:
-        # The overnight drip runs ten times a night; most of those find
-        # nothing new, and ten "No new press conferences" posts are noise.
-        if run_slot == OVERNIGHT_SLOT:
-            log("Overnight slot: nothing new, skipping the Slack post.")
-            return
-        queue_slack_payload({"kind": "no_new_videos", "date_str": today})
-
     def finish_without_videos() -> int:
         regenerate_index()
-        write_clip_manifest(build_clip_manifest(run_slot, window_hours))
-        queue_no_new_videos()
+        manifest = build_clip_manifest(run_slot, window_hours)
+        write_clip_manifest(manifest)
+        # still posts any pending items that are due (overnight catch-up)
+        queue_slack(run_slot, today, datetime.now(timezone.utc), [], [], manifest["count"])
         _outputs_written.set()
         return 0
 
@@ -2552,24 +2697,10 @@ def main() -> int:
     manifest = build_clip_manifest(run_slot, window_hours)
     write_clip_manifest(manifest)
 
-    aborted_count = summary.get("aborted-spending-cap", 0)
-    deferred_count = summary.get("deferred-transient", 0)
-    if processed_items or aborted_count or deferred_count:
-        queue_slack_payload({
-            "kind": "digest",
-            "date_str": today,
-            "run_slot": run_slot,
-            "items": processed_items,
-            "digest_dates": digest_dates,
-            "pages": pages,
-            "clip_count": manifest["count"],
-            "one_off_count": sum(1 for it in processed_items if it.get("is_one_off")),
-            "aborted_count": aborted_count,
-            "deferred_count": deferred_count,
-            "deferred_videos": list(_deferred_items),
-        })
-    else:
-        queue_no_new_videos()
+    queue_slack(run_slot, today, datetime.now(timezone.utc), processed_items, pages, manifest["count"],
+                aborted_count=summary.get("aborted-spending-cap", 0),
+                deferred_count=summary.get("deferred-transient", 0),
+                deferred_videos=list(_deferred_items))
     _outputs_written.set()
 
     log(f"Done. {summary}")

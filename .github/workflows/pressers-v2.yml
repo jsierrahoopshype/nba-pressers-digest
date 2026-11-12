@@ -12,7 +12,8 @@ on:
     # time. Ten triggers give a steady stream of runs through the night; each
     # one only processes videos not yet on disk, so Gemini spend is unchanged.
     # All of them share the "overnight" slot (one digest-overnight.md, one
-    # run_id per night, no "no new videos" Slack posts).
+    # run_id per night). Slack: one post per night, from the first run that
+    # starts at or after 10:00 UTC (any slot; see pressers_v2/slack_state.py).
     - cron: '23 1-10 * * *'
     - cron: '15 14 * * *'  # 14:15 UTC: morning shootaround / practice availabilities
     - cron: '15 20 * * *'  # 20:15 UTC: afternoon availabilities + early pregame
@@ -139,7 +140,8 @@ jobs:
         run: |
           mkdir -p docs/pressers_v2
           if [ -d pressers_v2/output ]; then
-            rsync -a --delete pressers_v2/output/ docs/pressers_v2/
+            # slack_alerted.json is the Slack bookkeeping, not a page
+            rsync -a --delete --exclude slack_alerted.json pressers_v2/output/ docs/pressers_v2/
           fi
           if [ ! -f docs/index.md ]; then
             printf '# NBA pressers digest\n\nSee the [pressers v2 archive](pressers_v2/) of processed press conferences.\n' > docs/index.md
@@ -184,6 +186,31 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python pressers_v2/slack_notify.py pressers_v2/.slack_payload.json
+
+      # The post above moves the posted video ids from "pending" to "alerted"
+      # in slack_alerted.json; save that so no later run posts them again.
+      - name: Commit Slack alert state
+        if: always() && hashFiles('pressers_v2/.slack_payload.json') != ''
+        run: |
+          git add pressers_v2/output/slack_alerted.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Slack state unchanged."
+            exit 0
+          fi
+          git commit -m "Pressers v2 Slack state: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          attempt=0
+          until git push origin "HEAD:${GITHUB_REF_NAME}"; do
+            attempt=$((attempt + 1))
+            if [ "$attempt" -gt 4 ]; then
+              echo "::error::Slack state push failed; the next run may repeat this post."
+              exit 1
+            fi
+            sleep $((attempt * 5))
+            if ! git pull --rebase -X theirs origin "${GITHUB_REF_NAME}"; then
+              git rebase --abort || true
+            fi
+          done
+          echo "Pushed Slack state."
 
   # Overnight self-retrigger (GitHub fires only a few of the hourly overnight
   # crons, the first one usually at 07-08 UTC): any scheduled run that ends
