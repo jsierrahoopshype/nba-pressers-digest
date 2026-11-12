@@ -1,0 +1,304 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Trail Blazers 118, Oklahoma City Thunder 108 | Nov. 11, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:08",
+      "summary_phrase": "Micah Nori on the Trail Blazers' fourth-quarter defensive turnaround",
+      "names_mentioned": [
+        "Dame",
+        "Drew",
+        "Tumani"
+      ],
+      "excerpt": "the last two games, the fourth quarter, our defense is, we found our defense back.",
+      "quote": "The way we finished. I didn't like the first half at all. Just the turnovers, and you know what you're going into. It's not going to be easy. It's like the calm before the storm. You know what's coming, you know exactly what they're going to do and we fell into their tonight at the beginning of the game. They were a little bit more physical and they sped us up and we turned the ball over way too much. In the fourth quarter, and obviously the closing of games, and that's what this team struggled with last year, but that's where the effect of Dame coming back, the effect of the calming of and Danny getting better in those situations and the calming of Drew and obviously Tumani's defense. But that's what I liked. I like that the last two games, the fourth quarter, our defense is, we found our defense back.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Micah Nori credits the Trail Blazers fourth quarter defensive turnaround to the calming presence of veteran leaders like Dame and Danny after a sloppy first half against OKC.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Danny Green",
+          "Drew Eubanks",
+          "Toumani Camara"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori discusses the Trail Blazers' fourth-quarter defensive improvement and the impact of key players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "01:28",
+      "summary_phrase": "Micah Nori on Dame's impact despite poor shooting performance",
+      "names_mentioned": [
+        "Dame",
+        "Hartenstein",
+        "Danny"
+      ],
+      "excerpt": "when you put Dame in that slot, there's no help when Danny comes over the top.",
+      "quote": "Tonight they were essentially face-guarding him. So when they're face-guarding him and then they're trying to go big, obviously maybe out of limited resources that they have, they do obviously have some players out, so they had Hartenstein on Danny. But then when you put Dame in that slot, there's no help when Danny comes over the top. So then they're trying to go under and Danny was able to find his shot. He goes four for 13, but they were some very, very timely threes. We still get to almost 40%, but Danny made some big threes, obviously, Dame makes another big three and then the finishes that Dame had down the stretch were huge.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Micah Nori explains how the Blazers utilized Dame and Danny to exploit the Thunder defense despite OKC face guarding Dame throughout the night.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Danny Green",
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains how the Trail Blazers managed offensive spacing against the Thunder's defensive coverage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "02:12",
+      "summary_phrase": "Micah Nori praises Donovan's rebounding and rim protection",
+      "names_mentioned": [
+        "Donovan",
+        "Tumani"
+      ],
+      "excerpt": "you love guys that take literally four shots. And Tumani found a way to get 10.",
+      "quote": "You love guys that take literally four shots. And Tumani found a way to get 10, but those two guys essentially, they do a lot for us, they cover up a lot for us. Obviously, Donovan protecting the rim, but those four offensive rebounds that he got were absolutely huge in what was going on and then the three block shots as well. He has really, really, I wasn't here last year, we played him, obviously, but my thing is he is phenomenal as a rim protector and really establishing himself as a force down there.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori praises Donovan for his rim protection and offensive rebounding impact, calling him a force down low for the Blazers.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Clingan",
+          "Toumani Camara"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori praises the defensive contributions and rebounding efforts of Donovan Clingan and Toumani Camara.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "03:05",
+      "summary_phrase": "Micah Nori on Shai Gilgeous-Alexander's mid-range and isolation scoring",
+      "names_mentioned": [
+        "Shai"
+      ],
+      "excerpt": "we know he's probably the best mid-range player, one of the best if not the best.",
+      "quote": "Tonight, especially the first half, Shai had, I think he had six in the first half and he's a problem. We know he's probably the best mid-range player, one of the best if not the best ISO player in the league and you try not to foul him. He found a way to get 14 free throws, but the big thing was he was over seven from the three. So the idea is to make him make tough twos, which he did, which he does, and then but not foul him.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori on the defensive game plan against Shai Gilgeous Alexander: The goal was to make him take tough twos and avoid fouling him at all costs.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori describes the defensive strategy used to contain Shai Gilgeous-Alexander during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "04:02",
+      "summary_phrase": "Micah Nori on the effectiveness of the double-big lineup",
+      "names_mentioned": [
+        "Brandon",
+        "Carlson"
+      ],
+      "excerpt": "we just wanted to give a look because they were going double-big and just felt that.",
+      "quote": "We just wanted to give a look because they were going double-big and just felt that we could see if matching up with them. We had some foul trouble as well, so it was hard to go, trying to keep our guys out of foul trouble. I didn't want to go into the second half with anybody with four fouls. So and I thought that Brandon both nights is just giving us some good minutes. He gets a couple of rebounds and the open three that he took in the corner, I thought it looked good, had no problem with that.",
+      "text_blocks": [],
+      "start_seconds": 242,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Micah Nori discusses the decision to use a double big lineup against the Thunder to manage foul trouble and match up with their size.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Clarke"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori explains the rotation adjustments and the decision to use a double-big lineup against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "04:42",
+      "summary_phrase": "Micah Nori on the simplification of Shai Gilgeous-Alexander's game",
+      "names_mentioned": [
+        "Shai",
+        "Danny",
+        "Dame",
+        "Donovan",
+        "Tumani"
+      ],
+      "excerpt": "he's really simplified his game. He's shooting open catch and shoots, he's not taking anything off the dribble.",
+      "quote": "What he's doing though, he's really simplified his game. He's shooting open catch and shoots, he's not taking anything off the dribble. He's getting it and taking one to two dribbles and he's either looking to finish or kick out. So the thing that he's doing is he has simplified his game and when you're out there with a Danny, when you're out there with a Dame, Donovan rolling and then Tumani the way that he's been shooting, you're going to have opportunities and it's great to see him capitalize on those for sure.",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 318,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Micah Nori credits a teammate for simplifying his game by focusing on catch and shoot opportunities rather than taking shots off the dribble.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Danny Green",
+          "Damian Lillard",
+          "Donovan Clingan",
+          "Toumani Camara"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori analyzes how a specific player has simplified his offensive game to benefit the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Nori",
+      "timestamp": "06:02",
+      "summary_phrase": "Micah Nori on the importance of bench depth",
+      "names_mentioned": [
+        "Shai"
+      ],
+      "excerpt": "even with the injuries, our strength is our bench.",
+      "quote": "I think it's more our depth. And what I mean by that is, not taking anything away from OKC and their talent, but Shai pretty much plays the whole quarter. A lot of these teams, like the Lucas, they play the whole quarter and when people have to go to their bench, I really truly believe that even with the injuries, our strength is our bench. And I think that's where you were able to get some separation and we don't have a lot of drop-off across the board and when we're fully healthy, we'll have almost no drop-offs.",
+      "text_blocks": [],
+      "start_seconds": 362,
+      "end_seconds": 400,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori believes the Blazers depth is their biggest advantage, noting that the team sees very little drop off in performance when rotating players compared to opponents who rely on heavy minutes from stars.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori attributes the team's success to their bench depth compared to the Thunder's reliance on starters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Micah Nori",
+      "timestamp": "06:53",
+      "summary_phrase": "Micah Nori on the team's mindset regarding the season series",
+      "names_mentioned": [
+        "Oklahoma City"
+      ],
+      "excerpt": "anytime you can beat a team the caliber of Oklahoma City, regardless of who they have.",
+      "quote": "At the end of the year, they don't ever go back and look and say who played this game or who played that game or who was healthy and all that. So, anytime you can beat a team the caliber of Oklahoma City, regardless of who they have, again, it's like a well-oiled machine, quite honestly. And as long as number two is out there running around, they're always going to have a fighter's chance.",
+      "text_blocks": [],
+      "start_seconds": 413,
+      "end_seconds": 442,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori on the importance of beating a team like OKC: At the end of the year nobody looks at who was injured, they just look at the win.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "POR",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Nori reflects on the significance of beating a high-caliber team like the Thunder despite injury absences.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "fhWjUcb8Cc4",
+  "url": "https://www.youtube.com/watch?v=fhWjUcb8Cc4",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-12T06:34:24Z",
+  "duration_seconds": 557,
+  "processed_at": "2026-11-12T07:02:44Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}
