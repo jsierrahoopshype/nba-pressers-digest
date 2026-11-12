@@ -1,0 +1,203 @@
+{
+  "video_title": "Tyler Herro Postgame Media Availability | 11.11.26",
+  "speakers_seen": [
+    "Tyler Herro"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:16",
+      "summary_phrase": "Tyler Herro on his knee injury and recovery process",
+      "names_mentioned": [],
+      "excerpt": "My main goal is to be out there every single night and play as many games as possible.",
+      "quote": "It was a scary fall. I was thinking scared more than anything. I think it was a bone contusion, but I took a day off yesterday, did around the clock treatment, and got right. My main goal is to be out there every single night and play as many games as possible. So it was important for me to come back tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 5,
+      "social_post": "Tyler Herro says his recent fall was a scary moment but he is focused on his goal to play every single night. He confirmed it was a bone contusion and he is back in the lineup.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyler Herro discusses his recent knee injury and his recovery process after returning to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "timestamp": "01:02",
+      "summary_phrase": "Tyler Herro on the development of rookies Nate and Jaime",
+      "names_mentioned": [
+        "Nate",
+        "Jaime"
+      ],
+      "excerpt": "It's not an easy task, especially going up against the other starting units from other teams.",
+      "quote": "I think the balance is nice. Obviously Nate and Jaime as rookies starting in the league is never an easy task, especially going up against the other starting units from other teams. But I think it's going to help them learn, help them continue to get better as I've always said they will, but fast-track it a little bit. And then it also gives us balance to the lineup.",
+      "verbatim_original_language": "",
+      "start_seconds": 62,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyler Herro believes starting rookies Nate and Jaime is a challenge but thinks the experience will fast track their development and provide better balance to the lineup.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nate",
+          "Jaime"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyler Herro shares his thoughts on the development of rookies Nate and Jaime while they start in the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyler Herro",
+      "timestamp": "01:53",
+      "summary_phrase": "Tyler Herro on the value of losing early in the season",
+      "names_mentioned": [],
+      "excerpt": "To feel it, you'll never take winning for granted again.",
+      "quote": "This is an experience for them. It's a learning curve, seeing what really impacts winning, also feeling what it feels like to lose in this league. Obviously, this is the most I've ever lost in my life, but to feel it, you'll never take winning for granted again. This is a hard league and being able to understand there's highs and lows, and with this group here we're continuing to grow, continuing to get better. It's a process, and it's a process-oriented right now. We just got to continue to build.",
+      "verbatim_original_language": "",
+      "start_seconds": 113,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Tyler Herro on the current losing streak: This is the most I have ever lost in my life, but to feel it, you will never take winning for granted again.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro reflects on the learning experience of losing early in the NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyler Herro",
+      "timestamp": "02:32",
+      "summary_phrase": "Tyler Herro on maintaining positivity during a losing streak",
+      "names_mentioned": [],
+      "excerpt": "You just got to be able to trust the process and understand this is a process.",
+      "quote": "I think just stay positive. It's early in a long season. Guys can get sideways. You just got to be able to trust the process and understand this is a process, and understand we're not far off. We're competing, we're out there together getting better, and that's all you can ask for right now.",
+      "verbatim_original_language": "",
+      "start_seconds": 152,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyler Herro says the team needs to stay positive and trust the process despite the early season struggles, noting that they are not far off from where they need to be.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro explains the importance of staying positive and trusting the process during a losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyler Herro",
+      "timestamp": "03:18",
+      "summary_phrase": "Tyler Herro on team connectivity and urgency to win",
+      "names_mentioned": [],
+      "excerpt": "We can't just be smiling and thinking this is okay. The goal here is to win.",
+      "quote": "We got to stay connected. It's a long season. Things change fast in this league, and like I said, we're not far off. We got to continue to build. We got guys in this locker room that want to get better, continue to listen to what coach is saying. He's a great leader and he's going to put us in a position to continue to get better. We still got to be urgent. We can't just be smiling and thinking this is okay. The goal here is to win. That's why we get paid to win games. So it's cool to have handshakes and stuff like that and smile, but we're here to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 198,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Tyler Herro on the team mindset: We cannot just be smiling and thinking this is okay. The goal here is to win. That is why we get paid to win games.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro emphasizes the need for team connectivity and urgency to win games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyler Herro",
+      "timestamp": "04:38",
+      "summary_phrase": "Tyler Herro on Coach Jenkins' leadership style",
+      "names_mentioned": [
+        "Jenkins"
+      ],
+      "excerpt": "He's getting directly to the point, which as a veteran guy in the league you can appreciate.",
+      "quote": "I think just not beating around the bush. There's certain things that we have to work on as a unit, and he's getting directly to the point, which as a veteran guy in the league you can appreciate.",
+      "verbatim_original_language": "",
+      "start_seconds": 278,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tyler Herro appreciates Coach Jenkins' direct leadership style, noting that as a veteran he values that the coach does not beat around the bush when addressing team issues.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyler Herro comments on the direct leadership style of Coach Jenkins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "vZXq7Q0-Eyo",
+  "url": "https://www.youtube.com/watch?v=vZXq7Q0-Eyo",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-12T04:43:04Z",
+  "duration_seconds": 308,
+  "processed_at": "2026-11-12T05:19:58Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

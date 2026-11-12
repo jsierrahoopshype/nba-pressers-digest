@@ -12,7 +12,17 @@ From: [Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards \| P
 
 <small>[Clip it](presserclips://clip?v=WmNyF19XK3M&t=33&q=1) · [Send to Slack](presserclips://clip?v=WmNyF19XK3M&t=33&q=1&slack=1)</small>
 
-**2. Ja'Kobe Walter — "we had a lead, we was up what, 20? We had a good lead and we blew the lead." — Ja'Kobe Walter on the frustration of blowing a 20-point lead** [02:52](https://www.youtube.com/watch?v=6r-OQrgNbDM&t=172s)
+**2. Tyler Herro — "My main goal is to be out there every single night and play as many games as possible." — Tyler Herro on his knee injury and recovery process** [00:16](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
+
+Tyler Herro: "It was a scary fall. I was thinking scared more than anything. I think it was a bone contusion, but I took a day off yesterday, did around the clock treatment, and got right. My main goal is to be out there every single night and play as many games as possible. So it was important for me to come back tonight."
+
+[https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
+
+From: [Tyler Herro Postgame Media Availability \| 11.11.26](https://www.youtube.com/watch?v=vZXq7Q0-Eyo) · *Milwaukee Bucks*
+
+<small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1&slack=1)</small>
+
+**3. Ja'Kobe Walter — "we had a lead, we was up what, 20? We had a good lead and we blew the lead." — Ja'Kobe Walter on the frustration of blowing a 20-point lead** [02:52](https://www.youtube.com/watch?v=6r-OQrgNbDM&t=172s)
 
 Ja'Kobe Walter: "It's definitely the tough ones where you feel like you beat yourself. We don't want to not give them credit, they were hitting shots, they were playing hard as well, but we had a lead, we was up what, 20? We had a good lead and we blew the lead. We can't do that. It's tough to, we need to figure out how to play with a lead, we can't stop playing the way that we were just because we're up. It's definitely tough to know that we kind of beat ourselves on this one, but we just got to learn from it."
 
@@ -22,7 +32,7 @@ From: [Ja'Kobe Walter \| Post Game vs  Boston Celtics \| November 11, 2026](http
 
 <small>[Clip it](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6) · [Send to Slack](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6&slack=1)</small>
 
-**3. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
+**4. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
 
 Jaime Jaquez Jr.: "I just try to do what I can to help this team in any way possible, whether that's starting, coming off the bench, just trying to jumpstart something for this team. Coach told me he felt like we needed some help on the bench and he thought I could fit there, so that's what we did tonight."
 
@@ -32,7 +42,7 @@ From: [Jaime Jaquez Jr. Postgame Media Availability \| 11.11.26](https://www.you
 
 <small>[Clip it](presserclips://clip?v=0idft1CR3wc&t=6&q=1) · [Send to Slack](presserclips://clip?v=0idft1CR3wc&t=6&q=1&slack=1)</small>
 
-**4. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
+**5. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
 
 Nate Ament: "I wasn't expecting it to be honest. During pregame film they were switching it up and I was in the starting lineup, so it was good, exciting. Obviously didn't get the outcome we wanted, but I think our team is taking steps in the right direction. We're improving game by game and we've had a tough schedule. Not to make any excuses, but it's going to be ebbs and flows and we've just got to stay together throughout it all."
 
@@ -42,7 +52,7 @@ From: [Nate Ament Postgame Media Availability \| 11.11.26](https://www.youtube.c
 
 <small>[Clip it](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1) · [Send to Slack](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1&slack=1)</small>
 
-**5. Ivica Zubac — "starting off the season with an injury and guys get used to playing without you." — Ivica Zubac's ongoing recovery and adjustment to the team's system** [10:32](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
+**6. Ivica Zubac — "starting off the season with an injury and guys get used to playing without you." — Ivica Zubac's ongoing recovery and adjustment to the team's system** [10:32](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
 
 Ivica Zubac: "Starting off the season with an injury and guys get used to playing without you, so you got to slowly get back into it and figure out the way how you can complement everyone on the floor without disrupting too much. It's a work in progress and we're missing **Tyrese Haliburton**, who is one of the best offensive engines in the league, so it takes a lot of adjusting when he's not out there."
 
@@ -52,7 +62,7 @@ From: [Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards \| P
 
 <small>[Clip it](presserclips://clip?v=WmNyF19XK3M&t=632&q=7) · [Send to Slack](presserclips://clip?v=WmNyF19XK3M&t=632&q=7&slack=1)</small>
 
-**6. Allen Graves — "My mindset is not going to change as far as my aggressiveness on defense." — Allen Graves on maintaining defensive intensity despite foul trouble** [00:51](https://www.youtube.com/watch?v=uhSpF8iK8gU&t=51s)
+**7. Allen Graves — "My mindset is not going to change as far as my aggressiveness on defense." — Allen Graves on maintaining defensive intensity despite foul trouble** [00:51](https://www.youtube.com/watch?v=uhSpF8iK8gU&t=51s)
 
 Allen Graves: "I just want to make sure that I'm playing the same no matter what, no matter what anybody is doing. I want to make sure that I'm having the same game. My mindset is not going to change as far as my aggressiveness on defense because that's our Raptors, that's what we build our culture on, is on the defensive side of the ball. So making sure that I'm upholding that culture and doing my best, whether I'm fouling or whether I'm not, I mean, I'm going to play my game."
 
@@ -639,3 +649,59 @@ Darko Rajakovic: "He just goes after every rebound and he has a really good feel
 [https://www.youtube.com/watch?v=vGFSmIMxCMA&t=429s](https://www.youtube.com/watch?v=vGFSmIMxCMA&t=429s)
 
 <small>[Clip it](presserclips://clip?v=vGFSmIMxCMA&t=429&q=7) · [Send to Slack](presserclips://clip?v=vGFSmIMxCMA&t=429&q=7&slack=1)</small>
+
+---
+
+## Tyler Herro Postgame Media Availability | 11.11.26 — *Milwaukee Bucks*
+
+Source: [https://www.youtube.com/watch?v=vZXq7Q0-Eyo](https://www.youtube.com/watch?v=vZXq7Q0-Eyo)
+
+_Speakers identified: Tyler Herro_
+
+**1. Tyler Herro — "My main goal is to be out there every single night and play as many games as possible." — Tyler Herro on his knee injury and recovery process** [00:16](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
+
+Tyler Herro: "It was a scary fall. I was thinking scared more than anything. I think it was a bone contusion, but I took a day off yesterday, did around the clock treatment, and got right. My main goal is to be out there every single night and play as many games as possible. So it was important for me to come back tonight."
+
+[https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
+
+<small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1&slack=1)</small>
+
+**2. Tyler Herro — "It's not an easy task, especially going up against the other starting units from other teams." — Tyler Herro on the development of rookies Nate and Jaime** [01:02](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=62s)
+
+Tyler Herro: "I think the balance is nice. Obviously **Nate** and **Jaime** as rookies starting in the league is never an easy task, especially going up against the other starting units from other teams. But I think it's going to help them learn, help them continue to get better as I've always said they will, but fast-track it a little bit. And then it also gives us balance to the lineup."
+
+[https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=62s](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=62s)
+
+<small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=62&q=2) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=62&q=2&slack=1)</small>
+
+**3. Tyler Herro — "To feel it, you'll never take winning for granted again." — Tyler Herro on the value of losing early in the season** [01:53](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=113s)
+
+Tyler Herro: "This is an experience for them. It's a learning curve, seeing what really impacts winning, also feeling what it feels like to lose in this league. Obviously, this is the most I've ever lost in my life, but to feel it, you'll never take winning for granted again. This is a hard league and being able to understand there's highs and lows, and with this group here we're continuing to grow, continuing to get better. It's a process, and it's a process-oriented right now. We just got to continue to build."
+
+[https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=113s](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=113s)
+
+<small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=113&q=3) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=113&q=3&slack=1)</small>
+
+**4. Tyler Herro — "You just got to be able to trust the process and understand this is a process." — Tyler Herro on maintaining positivity during a losing streak** [02:32](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=152s)
+
+Tyler Herro: "I think just stay positive. It's early in a long season. Guys can get sideways. You just got to be able to trust the process and understand this is a process, and understand we're not far off. We're competing, we're out there together getting better, and that's all you can ask for right now."
+
+[https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=152s](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=152s)
+
+<small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=152&q=4) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=152&q=4&slack=1)</small>
+
+**5. Tyler Herro — "We can't just be smiling and thinking this is okay. The goal here is to win." — Tyler Herro on team connectivity and urgency to win** [03:18](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=198s)
+
+Tyler Herro: "We got to stay connected. It's a long season. Things change fast in this league, and like I said, we're not far off. We got to continue to build. We got guys in this locker room that want to get better, continue to listen to what coach is saying. He's a great leader and he's going to put us in a position to continue to get better. We still got to be urgent. We can't just be smiling and thinking this is okay. The goal here is to win. That's why we get paid to win games. So it's cool to have handshakes and stuff like that and smile, but we're here to win."
+
+[https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=198s](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=198s)
+
+<small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=198&q=5) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=198&q=5&slack=1)</small>
+
+**6. Tyler Herro — "He's getting directly to the point, which as a veteran guy in the league you can appreciate." — Tyler Herro on Coach Jenkins' leadership style** [04:38](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=278s)
+
+Tyler Herro: "I think just not beating around the bush. There's certain things that we have to work on as a unit, and he's getting directly to the point, which as a veteran guy in the league you can appreciate."
+
+[https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=278s](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=278s)
+
+<small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=278&q=6) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=278&q=6&slack=1)</small>
