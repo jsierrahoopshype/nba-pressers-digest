@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-12
 
+[Podcasts & shows](podcasts.md) · [One-offs](oneoffs.md)
+
 # Best of the best
 
 **1. Rick Carlisle — "the hope is that it's minor. It's likely he'll be listed day-to-day." — Aaron Nesmith's injury status following the game against the Wizards** [00:33](https://www.youtube.com/watch?v=WmNyF19XK3M&t=33s)
