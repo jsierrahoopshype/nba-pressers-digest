@@ -1,0 +1,202 @@
+{
+  "video_title": "Postgame Media Availability with Coach Daigneault, Hart, and Shai | OKC Thunder | November 11, 2026",
+  "speakers_seen": [
+    "Mark Daigneault",
+    "Isaiah Hartenstein",
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:53",
+      "summary_phrase": "Mark Daigneault on Isaiah Hartenstein's defensive versatility guarding perimeter players",
+      "names_mentioned": [
+        "Isaiah Hartenstein",
+        "Giannis Antetokounmpo",
+        "Zion Williamson",
+        "Shai Gilgeous-Alexander",
+        "Chet Holmgren",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "if you have smaller guys on him, he just runs you over",
+      "quote": "Isaiah Hartenstein is a downhill player, and we've used Isaiah at times on guys like Giannis Antetokounmpo, guys like Zion Williamson. And Isaiah from a game standpoint is similar to those guys where if you have smaller guys on him, he just runs you over, and it's free throws, it's layups. We wanted to take a look at that given Shai Gilgeous-Alexander being out, and I thought it graded out pretty well. We forced them into a lot of jump shots, he didn't shoot it overly efficiently. He made a big one late, that's a huge shot, but I thought it had the desired effect and the execution of the plan was really good.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on using Isaiah Hartenstein defensively against perimeter threats like Giannis and Zion: We wanted to take a look at that and I thought it graded out pretty well. We forced them into a lot of jump shots.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Isaiah Hartenstein",
+          "Giannis Antetokounmpo",
+          "Zion Williamson",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault discusses the defensive strategy of using Isaiah Hartenstein against specific opponents while Shai Gilgeous-Alexander is sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:50",
+      "summary_phrase": "Mark Daigneault on Shai Gilgeous-Alexander's elite third-quarter scoring ability",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "he's so good now at understanding how he's going to get played and what teams are trying",
+      "quote": "He's just seen the same pitching throughout the course of the game and he's so good now at understanding how he's going to get played and what teams are trying to do to him that he can calibrate to the game, calibrate to the defender, calibrate to the schemes, and find his cracks and he really got a good rhythm going there in the third.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on Shai Gilgeous-Alexander finding his rhythm in the third quarter: He is so good now at understanding how he is going to be played and what teams are trying to do to him that he can calibrate to the game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault explains how Shai Gilgeous-Alexander adjusts his scoring approach throughout the game based on defensive schemes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:27",
+      "summary_phrase": "Mark Daigneault on the sustainability of playing Chet Holmgren and Isaiah Hartenstein together",
+      "names_mentioned": [
+        "Chet Holmgren",
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "it's probably not best, especially in our circumstance right now for them to split 48 minutes every night",
+      "quote": "We're looking for opportunities to do that because they're two of our best players. They're two high-impact players and it's probably not best, especially in our circumstance right now for them to split 48 minutes every night. Now they played a lot of minutes tonight, that's probably not sustainable either, but it was good. Isaiah continues to calibrate to different things we put him in. Chet did a great job guarding the perimeter, obviously did a great job on offense tonight as well, so those guys are both really good.",
+      "text_blocks": [],
+      "start_seconds": 207,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Mark Daigneault says playing Chet Holmgren and Isaiah Hartenstein together is a priority because they are two of the best players on the team, though he admits playing them both heavy minutes is likely not sustainable long term.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chet Holmgren",
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault evaluates the sustainability of playing Chet Holmgren and Isaiah Hartenstein together in the same lineup.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Isaiah Hartenstein",
+      "timestamp": "06:27",
+      "summary_phrase": "Isaiah Hartenstein on the rarity of playing two seven-footers in modern NBA lineups",
+      "names_mentioned": [
+        "Chet Holmgren"
+      ],
+      "excerpt": "there's not many teams in the last 15 years really that have played two seven-footers at the same time",
+      "quote": "There's not many teams in the last 15 years really that have played two seven-footers at the same time. Probably maybe when your dad was playing there was more of those types of things. We're kind of just figuring out through the process. With the NBA season and with how many guys we have out, it's hard to practice, it's hard to get those reps in what you need. And then even looking back when me and Chet first went on the court, I think I told the story before, the first four games I was like there's no way this is going to work and it became one of our best lineups.",
+      "text_blocks": [],
+      "start_seconds": 387,
+      "end_seconds": 430,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Isaiah Hartenstein on playing alongside Chet Holmgren: The first four games I was like there is no way this is going to work and it became one of our best lineups.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Isaiah Hartenstein discusses the challenges and evolution of playing alongside Chet Holmgren in a two-seven-footer lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "08:50",
+      "summary_phrase": "Shai Gilgeous-Alexander on Isaiah Hartenstein's defensive versatility guarding perimeter players",
+      "names_mentioned": [
+        "Isaiah Hartenstein",
+        "Giannis Antetokounmpo",
+        "Chet Holmgren",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "it just speaks to Isaiah's defensive versatility. That's who he is, that's who he's been for us",
+      "quote": "It just speaks to Isaiah's defensive versatility. That's who he is, that's who he's been for us. He can guard multiple positions. It's easy to take it for granted, but it's one of the things that makes him a really good NBA player and he had it on display tonight.",
+      "text_blocks": [],
+      "start_seconds": 530,
+      "end_seconds": 549,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on Isaiah Hartenstein: It is easy to take it for granted, but his defensive versatility is one of the things that makes him a really good NBA player.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander praises Isaiah Hartenstein for his defensive versatility after a recent game performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jo90ITNj0sk",
+  "url": "https://www.youtube.com/watch?v=jo90ITNj0sk",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-12T07:34:23Z",
+  "duration_seconds": 698,
+  "processed_at": "2026-11-12T07:53:46Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

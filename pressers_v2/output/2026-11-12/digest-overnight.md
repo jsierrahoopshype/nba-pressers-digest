@@ -42,7 +42,17 @@ From: [Ja'Kobe Walter \| Post Game vs  Boston Celtics \| November 11, 2026](http
 
 <small>[Clip it](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6) · [Send to Slack](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6&slack=1)</small>
 
-**5. Desmond Bane — "He's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard." — Desmond Bane on the growth and confidence of Franz Wagner** [05:06](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
+**5. Isaiah Hartenstein — "there's not many teams in the last 15 years really that have played two seven-footers at the same time" — Isaiah Hartenstein on the rarity of playing two seven-footers in modern NBA lineups** [06:27](https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s)
+
+Isaiah Hartenstein: "There's not many teams in the last 15 years really that have played two seven-footers at the same time. Probably maybe when your dad was playing there was more of those types of things. We're kind of just figuring out through the process. With the NBA season and with how many guys we have out, it's hard to practice, it's hard to get those reps in what you need. And then even looking back when me and Chet first went on the court, I think I told the story before, the first four games I was like there's no way this is going to work and it became one of our best lineups."
+
+[https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s](https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s)
+
+From: [Postgame Media Availability with Coach Daigneault, Hart, and Shai \| OKC Thunder \| November 11, 2026](https://www.youtube.com/watch?v=jo90ITNj0sk) · *Oklahoma City Thunder*
+
+<small>[Clip it](presserclips://clip?v=jo90ITNj0sk&t=387&q=4) · [Send to Slack](presserclips://clip?v=jo90ITNj0sk&t=387&q=4&slack=1)</small>
+
+**6. Desmond Bane — "He's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard." — Desmond Bane on the growth and confidence of Franz Wagner** [05:06](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
 
 Desmond Bane: "Exactly who he's been. I mean he's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard. He's grown so much. You know I've only been here two years, but or a year and however long it's been, but he consistently is getting better and you can see his confidence growing in a lot of different areas. So he's playing he's playing extremely well for us."
 
@@ -52,7 +62,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. UTAH JAZZ \| COACH SWEENEY, FRANZ WAGNE
 
 <small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=306&q=7) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=306&q=7&slack=1)</small>
 
-**6. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
+**7. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
 
 Jaime Jaquez Jr.: "I just try to do what I can to help this team in any way possible, whether that's starting, coming off the bench, just trying to jumpstart something for this team. Coach told me he felt like we needed some help on the bench and he thought I could fit there, so that's what we did tonight."
 
@@ -62,7 +72,7 @@ From: [Jaime Jaquez Jr. Postgame Media Availability \| 11.11.26](https://www.you
 
 <small>[Clip it](presserclips://clip?v=0idft1CR3wc&t=6&q=1) · [Send to Slack](presserclips://clip?v=0idft1CR3wc&t=6&q=1&slack=1)</small>
 
-**7. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
+**8. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
 
 Nate Ament: "I wasn't expecting it to be honest. During pregame film they were switching it up and I was in the starting lineup, so it was good, exciting. Obviously didn't get the outcome we wanted, but I think our team is taking steps in the right direction. We're improving game by game and we've had a tough schedule. Not to make any excuses, but it's going to be ebbs and flows and we've just got to stay together throughout it all."
 
@@ -72,7 +82,7 @@ From: [Nate Ament Postgame Media Availability \| 11.11.26](https://www.youtube.c
 
 <small>[Clip it](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1) · [Send to Slack](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1&slack=1)</small>
 
-**8. Brice Sensabaugh — "I've always been a microwave guy." — Brice Sensabaugh on his mindset when coming off the bench to shoot** [04:48](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
+**9. Brice Sensabaugh — "I've always been a microwave guy." — Brice Sensabaugh on his mindset when coming off the bench to shoot** [04:48](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
 
 Brice Sensabaugh: "For me, my mentality, I've always been a microwave guy. The pressure you put on yourself on the first one or the second one, especially if the first one doesn't go in, that usually makes it a little difficult. But you just got to let go. Whatever happens as a shooter, make sure your discipline is right and just put it up in the air and make sure it's not short and you just got to live with the results. I'm developing the ability to still impact the game if I'm not shooting the ball, and that's been my main focus this year."
 
@@ -82,7 +92,7 @@ From: [Brice Sensabaugh talks about good team chemistry, self-discipline, impact
 
 <small>[Clip it](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3) · [Send to Slack](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3&slack=1)</small>
 
-**9. Ivica Zubac — "starting off the season with an injury and guys get used to playing without you." — Ivica Zubac's ongoing recovery and adjustment to the team's system** [10:32](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
+**10. Ivica Zubac — "starting off the season with an injury and guys get used to playing without you." — Ivica Zubac's ongoing recovery and adjustment to the team's system** [10:32](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
 
 Ivica Zubac: "Starting off the season with an injury and guys get used to playing without you, so you got to slowly get back into it and figure out the way how you can complement everyone on the floor without disrupting too much. It's a work in progress and we're missing **Tyrese Haliburton**, who is one of the best offensive engines in the league, so it takes a lot of adjusting when he's not out there."
 
@@ -92,7 +102,7 @@ From: [Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards \| P
 
 <small>[Clip it](presserclips://clip?v=WmNyF19XK3M&t=632&q=7) · [Send to Slack](presserclips://clip?v=WmNyF19XK3M&t=632&q=7&slack=1)</small>
 
-**10. Nikola Jokic — "He's playing really good since the beginning of the season and we just need to follow." — Nikola Jokic on Jamal Murray's strong play this season** [06:22](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
+**11. Nikola Jokic — "He's playing really good since the beginning of the season and we just need to follow." — Nikola Jokic on Jamal Murray's strong play this season** [06:22](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
 
 Nikola Jokic: "He's playing really good since the beginning of the season and we just need to follow. He's really good for us. I think he's creating looks for everybody else and we just need to step up and follow him."
 
@@ -101,16 +111,6 @@ Nikola Jokic: "He's playing really good since the beginning of the season and we
 From: [Full Denver Nuggets Postgame Media Availability vs. MEM 🎙](https://www.youtube.com/watch?v=_-ABczOtRHo) · *Denver Nuggets*
 
 <small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=382&q=5) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=382&q=5&slack=1)</small>
-
-**11. Jamal Murray — "Christian Braun, I think he was just a really good job just in the ball, constantly chasing him." — Jamal Murray on Christian Braun's defensive impact** [10:42](https://www.youtube.com/watch?v=_-ABczOtRHo&t=642s)
-
-Jamal Murray: "**Christian Braun**, I think he was just a really good job just in the ball, constantly chasing him, bothering him, picking him up. **Christian Braun** is a hard guy to lose. I think he was the point of emphasis for us and he did a great job following him into the bigs and keeping him out of the paint. Even when he made tough shots, he played good defense."
-
-[https://www.youtube.com/watch?v=_-ABczOtRHo&t=642s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=642s)
-
-From: [Full Denver Nuggets Postgame Media Availability vs. MEM 🎙](https://www.youtube.com/watch?v=_-ABczOtRHo) · *Denver Nuggets*
-
-<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=642&q=8) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=642&q=8&slack=1)</small>
 
 ---
 
@@ -859,6 +859,54 @@ Desmond Bane: "Exactly who he's been. I mean he's getting downhill, he's distrib
 [https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
 
 <small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=306&q=7) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=306&q=7&slack=1)</small>
+
+---
+
+## Postgame Media Availability with Coach Daigneault, Hart, and Shai | OKC Thunder | November 11, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=jo90ITNj0sk](https://www.youtube.com/watch?v=jo90ITNj0sk)
+
+_Speakers identified: Mark Daigneault, Isaiah Hartenstein, Shai Gilgeous-Alexander_
+
+**1. Mark Daigneault — "if you have smaller guys on him, he just runs you over" — Mark Daigneault on Isaiah Hartenstein's defensive versatility guarding perimeter players** [00:53](https://www.youtube.com/watch?v=jo90ITNj0sk&t=53s)
+
+Mark Daigneault: "**Isaiah Hartenstein** is a downhill player, and we've used Isaiah at times on guys like **Giannis Antetokounmpo**, guys like **Zion Williamson**. And Isaiah from a game standpoint is similar to those guys where if you have smaller guys on him, he just runs you over, and it's free throws, it's layups. We wanted to take a look at that given **Shai Gilgeous-Alexander** being out, and I thought it graded out pretty well. We forced them into a lot of jump shots, he didn't shoot it overly efficiently. He made a big one late, that's a huge shot, but I thought it had the desired effect and the execution of the plan was really good."
+
+[https://www.youtube.com/watch?v=jo90ITNj0sk&t=53s](https://www.youtube.com/watch?v=jo90ITNj0sk&t=53s)
+
+<small>[Clip it](presserclips://clip?v=jo90ITNj0sk&t=53&q=1) · [Send to Slack](presserclips://clip?v=jo90ITNj0sk&t=53&q=1&slack=1)</small>
+
+**2. Mark Daigneault — "he's so good now at understanding how he's going to get played and what teams are trying" — Mark Daigneault on Shai Gilgeous-Alexander's elite third-quarter scoring ability** [01:50](https://www.youtube.com/watch?v=jo90ITNj0sk&t=110s)
+
+Mark Daigneault: "He's just seen the same pitching throughout the course of the game and he's so good now at understanding how he's going to get played and what teams are trying to do to him that he can calibrate to the game, calibrate to the defender, calibrate to the schemes, and find his cracks and he really got a good rhythm going there in the third."
+
+[https://www.youtube.com/watch?v=jo90ITNj0sk&t=110s](https://www.youtube.com/watch?v=jo90ITNj0sk&t=110s)
+
+<small>[Clip it](presserclips://clip?v=jo90ITNj0sk&t=110&q=2) · [Send to Slack](presserclips://clip?v=jo90ITNj0sk&t=110&q=2&slack=1)</small>
+
+**3. Mark Daigneault — "it's probably not best, especially in our circumstance right now for them to split 48 minutes every night" — Mark Daigneault on the sustainability of playing Chet Holmgren and Isaiah Hartenstein together** [03:27](https://www.youtube.com/watch?v=jo90ITNj0sk&t=207s)
+
+Mark Daigneault: "We're looking for opportunities to do that because they're two of our best players. They're two high-impact players and it's probably not best, especially in our circumstance right now for them to split 48 minutes every night. Now they played a lot of minutes tonight, that's probably not sustainable either, but it was good. Isaiah continues to calibrate to different things we put him in. Chet did a great job guarding the perimeter, obviously did a great job on offense tonight as well, so those guys are both really good."
+
+[https://www.youtube.com/watch?v=jo90ITNj0sk&t=207s](https://www.youtube.com/watch?v=jo90ITNj0sk&t=207s)
+
+<small>[Clip it](presserclips://clip?v=jo90ITNj0sk&t=207&q=3) · [Send to Slack](presserclips://clip?v=jo90ITNj0sk&t=207&q=3&slack=1)</small>
+
+**4. Isaiah Hartenstein — "there's not many teams in the last 15 years really that have played two seven-footers at the same time" — Isaiah Hartenstein on the rarity of playing two seven-footers in modern NBA lineups** [06:27](https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s)
+
+Isaiah Hartenstein: "There's not many teams in the last 15 years really that have played two seven-footers at the same time. Probably maybe when your dad was playing there was more of those types of things. We're kind of just figuring out through the process. With the NBA season and with how many guys we have out, it's hard to practice, it's hard to get those reps in what you need. And then even looking back when me and Chet first went on the court, I think I told the story before, the first four games I was like there's no way this is going to work and it became one of our best lineups."
+
+[https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s](https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s)
+
+<small>[Clip it](presserclips://clip?v=jo90ITNj0sk&t=387&q=4) · [Send to Slack](presserclips://clip?v=jo90ITNj0sk&t=387&q=4&slack=1)</small>
+
+**5. Shai Gilgeous-Alexander — "it just speaks to Isaiah's defensive versatility. That's who he is, that's who he's been for us" — Shai Gilgeous-Alexander on Isaiah Hartenstein's defensive versatility guarding perimeter players** [08:50](https://www.youtube.com/watch?v=jo90ITNj0sk&t=530s)
+
+Shai Gilgeous-Alexander: "It just speaks to Isaiah's defensive versatility. That's who he is, that's who he's been for us. He can guard multiple positions. It's easy to take it for granted, but it's one of the things that makes him a really good NBA player and he had it on display tonight."
+
+[https://www.youtube.com/watch?v=jo90ITNj0sk&t=530s](https://www.youtube.com/watch?v=jo90ITNj0sk&t=530s)
+
+<small>[Clip it](presserclips://clip?v=jo90ITNj0sk&t=530&q=5) · [Send to Slack](presserclips://clip?v=jo90ITNj0sk&t=530&q=5&slack=1)</small>
 
 ---
 
