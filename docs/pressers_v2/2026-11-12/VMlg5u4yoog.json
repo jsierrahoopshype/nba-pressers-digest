@@ -1,0 +1,117 @@
+{
+  "video_title": "Charles Bassey on Marcus Smart throwing a punch at him",
+  "speakers_seen": [
+    "Charles Bassey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Bassey",
+      "timestamp": "00:00",
+      "summary_phrase": "Charles Bassey accuses Marcus Smart of playing dirty",
+      "names_mentioned": [
+        "Marcus Smart"
+      ],
+      "excerpt": "He's been playing dirty the whole game man.",
+      "quote": "He's been playing dirty the whole game man. I remember in the first half I was trying to set a screen roll and he grabbed my knees. He was playing dirty. I think I was trying to get a rebound and he was grabbing my hand and I was trying to run back on defense then he was sitting down so I just like, you know. And then he got up on me and just swung and obviously that was weak.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "Charles Bassey did not hold back on Marcus Smart after their altercation, calling his behavior dirty and saying the punch was weak. Bassey claims Smart was grabbing his knees and hands throughout the game.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Marcus Smart"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Charles Bassey discusses his physical altercation with Marcus Smart during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Bassey",
+      "timestamp": "00:31",
+      "summary_phrase": "Charles Bassey calls Marcus Smart's actions fake toughness",
+      "names_mentioned": [
+        "Marcus Smart"
+      ],
+      "excerpt": "I think he was trying to get himself out of the game. That was fake toughness.",
+      "quote": "It didn't surprise me. I knew he was going to do something. I bet it for him to do something because I knew he was going to do something. I don't think he was trying to play. I think he was trying to get himself out of the game. He wasn't trying to play because he was trying to play, he wasn't going to do that. I think he was trying to chill. He wasn't trying to hoop but I said man that was fake fake toughness.",
+      "text_blocks": [],
+      "start_seconds": 31,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 9,
+      "social_post": "Charles Bassey says he was not surprised by Marcus Smart's actions, calling it fake toughness. Bassey believes Smart was not trying to play basketball and was just looking for a way to get out of the game.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Marcus Smart"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Charles Bassey shares his perspective on Marcus Smart's behavior and perceived lack of competitiveness during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Bassey",
+      "timestamp": "00:49",
+      "summary_phrase": "Charles Bassey recounts exchange with Marcus Smart",
+      "names_mentioned": [
+        "Marcus Smart"
+      ],
+      "excerpt": "He said something like don't do that. I'm like do what? Like it's a grown man's league.",
+      "quote": "He said something to me. He said hey, he said something like don't do that. I'm like do what? Like it's a grown man's league, you know. But like I said man, he was having, he was trying to you know chill tonight.",
+      "text_blocks": [],
+      "start_seconds": 49,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Charles Bassey on his exchange with Marcus Smart: It is a grown man's league.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Marcus Smart"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Charles Bassey recalls a verbal exchange he had with Marcus Smart on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "VMlg5u4yoog",
+  "url": "https://www.youtube.com/watch?v=VMlg5u4yoog",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-12T18:55:22Z",
+  "duration_seconds": 65,
+  "processed_at": "2026-11-12T21:28:24Z",
+  "run_id": "2026-11-12T2127Z-14utc",
+  "is_one_off": false
+}

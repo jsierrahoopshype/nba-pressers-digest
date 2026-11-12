@@ -1,0 +1,60 @@
+{
+  "video_title": "Charles Barkley on point guards being important for teams like Houston Rockets",
+  "speakers_seen": [
+    "Charles Barkley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Barkley",
+      "timestamp": "00:00",
+      "summary_phrase": "Charles Barkley on the importance of point guards for team success",
+      "names_mentioned": [
+        "Kevin Porter Jr.",
+        "Alperen Sengun",
+        "Jerry Rice",
+        "Justin Jefferson",
+        "Emmitt Smith",
+        "Barret Robbins"
+      ],
+      "excerpt": "the point guard, even if you be not the best player on the team, you're the most important player",
+      "quote": "When you watch the Rockets play last year, they would just get the ball to Kevin and Sengun and they would go one on one. Kenny knows this. The point guard, even if you be not the best player on the team, you're the most important player on the team by who you give the ball to and who you don't give the ball to. A great quarterback can have a great arm, he can have great legs, but his job really is to get the ball to Jerry Rice, Chase, Justin Jefferson, or hand the ball to Emmitt or Barret Sanders. He has the ball most of the time, and people don't understand how important the point guard is. Kenny talks about this all the time. He says I know who to give it to, but you know what's even more important? Not who to give it to. All players are kind of dumb. Every player thinks they're a superstar. They're like, just give it to me. I'm like, no, you can't dribble. I'm going to give it to you to finish. That is so important. That's one thing I always admired about Kenny, his brain. He's like, yeah, telling guys no. He said I had to tell guys no.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Charles Barkley explains why the point guard is the most important player on the court. He says the job is about more than just passing, it is about having the brain to tell teammates no when they should not be taking the shot.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Porter Jr.",
+          "Alperen Sengun",
+          "Kenny Smith"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Charles Barkley discusses the importance of the point guard position while referencing the Houston Rockets and his former teammate Kenny Smith.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "8eOjkf0zaxc",
+  "url": "https://www.youtube.com/watch?v=8eOjkf0zaxc",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-12T18:52:03Z",
+  "duration_seconds": 89,
+  "processed_at": "2026-11-12T21:28:30Z",
+  "run_id": "2026-11-12T2127Z-14utc",
+  "is_one_off": false
+}

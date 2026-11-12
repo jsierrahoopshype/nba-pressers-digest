@@ -1,0 +1,316 @@
+{
+  "video_title": "Miles Bridges Shootaround Media Availability | 11-12-26",
+  "speakers_seen": [
+    "Miles Bridges"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:09",
+      "summary_phrase": "Miles Bridges on his return to the Phoenix Suns",
+      "names_mentioned": [],
+      "excerpt": "I spent eight years with these guys, nine years. So, you know, I'm definitely excited.",
+      "quote": "It feels good, you know. I mean, it's just another game, but I spent eight years with these guys, nine years. So, you know, I'm definitely excited, but getting the W is the most important thing.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Miles Bridges on returning to face his former team: It feels good. It is just another game, but I spent eight or nine years with those guys. I am definitely excited, but getting the win is the most important thing.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses his feelings returning to play against his former team, the Charlotte Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:23",
+      "summary_phrase": "Miles Bridges maintaining relationships with former teammates",
+      "names_mentioned": [
+        "Conley",
+        "Melo",
+        "Brandon",
+        "Grant",
+        "Musa"
+      ],
+      "excerpt": "Conley texts me a few days ago. I know Melo and I are on the team.",
+      "quote": "Yeah, really everybody. Conley texts me a few days ago. I know Melo and I are on the team, but Melo, I talked to Brandon, I talked to Grant Musa. So, still cool with those guys.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Miles Bridges says he still keeps in touch with his former Charlotte teammates, noting he still talks to Conley, Melo, Brandon, and Grant Musa.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike Conley",
+          "Carmelo Anthony",
+          "Brandon Miller",
+          "Grant Williams",
+          "Dzanan Musa"
+        ],
+        "teams": [
+          "PHX",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges mentions maintaining friendships with several former Charlotte teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:52",
+      "summary_phrase": "Miles Bridges on the difficulty of winning in the NBA",
+      "names_mentioned": [],
+      "excerpt": "It really taught me how hard it is to win in the NBA.",
+      "quote": "It was a grind. It really taught me how hard it is to win in the NBA. I thought we had a pretty solid team to make the playoffs and we didn't a couple years. But you know, I had a great time there. They treated me like family. Charlotte will always be family to me, but they really taught me about how hard it is to win in the NBA.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Miles Bridges reflects on his time in Charlotte: It really taught me how hard it is to win in the NBA. They treated me like family, and Charlotte will always be family to me.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Miles Bridges reflects on his time with the Charlotte organization and the difficulty of winning in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Miles Bridges",
+      "timestamp": "01:20",
+      "summary_phrase": "Miles Bridges on the Suns' defensive focus",
+      "names_mentioned": [],
+      "excerpt": "We're trying to get better defensively, and that comes with talking and giving extra effort.",
+      "quote": "We're trying to get better defensively, and that comes with talking and giving extra effort. We've been hitting hard on that lately. And then trying to get more rebounds. We got to get more rebounds, get out in transition, and go because that's when we're at our best.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Miles Bridges on the Suns defensive focus: We are trying to get better defensively, and that comes with talking and giving extra effort. We have been hitting hard on that lately.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges explains the Phoenix Suns' current focus on defensive improvement and rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Miles Bridges",
+      "timestamp": "01:58",
+      "summary_phrase": "Miles Bridges on his need to improve post play",
+      "names_mentioned": [
+        "DB"
+      ],
+      "excerpt": "I got to start converting more in the post, you know. I'm not doing a good job.",
+      "quote": "I got to start converting more in the post, you know. I'm not doing a good job. I don't think of taking advantage of mismatches. DB has been good all year with that type of stuff. I need to learn a few things from him, but you know, I'm going to get better as the season goes on.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Miles Bridges admits he needs to improve his post play: I do not think I am doing a good job of taking advantage of mismatches. DB has been good all year with that, and I need to learn a few things from him.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges discusses his need to improve his post play and learn from teammate Devin Booker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:13",
+      "summary_phrase": "Miles Bridges on the Suns' ball movement and spacing",
+      "names_mentioned": [
+        "Book"
+      ],
+      "excerpt": "We're moving it around, trying to get to the second side more. Book had it going.",
+      "quote": "We're moving it around, trying to get to the second side more. Book had it going the last few games, so you know, try to get it to him, but at the same time try to keep it moving.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Miles Bridges on the Suns offensive approach: We are moving it around, trying to get to the second side more. Book had it going the last few games, so try to get it to him, but keep it moving.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges talks about the Phoenix Suns' offensive strategy regarding ball movement and getting the ball to Devin Booker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:40",
+      "summary_phrase": "Miles Bridges on his favorite memory in Charlotte",
+      "names_mentioned": [],
+      "excerpt": "Probably us winning the play-in game last year.",
+      "quote": "Probably us winning the play-in game last year. I know we make the playoffs, but it was really big for the city of Charlotte just to win some type of playoff atmosphere. So yeah, that game.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Miles Bridges identifies his favorite memory in Charlotte: Probably us winning the play-in game last year. It was really big for the city just to win in that type of playoff atmosphere.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Miles Bridges identifies his favorite memory from his time playing for the Charlotte Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:00",
+      "summary_phrase": "Miles Bridges on the challenge of playing against Charlotte",
+      "names_mentioned": [
+        "Naz Reid",
+        "Kobe",
+        "Grayson"
+      ],
+      "excerpt": "They got a lot of people that can score the ball, you know. Naz Reid can score.",
+      "quote": "Nah, because they got a lot of people that can score the ball, you know. Naz Reid can score 30 at any moment, Kobe, Grayson. You know, you've seen Grayson play. So, you know, this is not a team you can just relax on, you know. They're figuring things out, but at the same time they have a lot of weapons.",
+      "text_blocks": [],
+      "start_seconds": 180,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Miles Bridges warns against underestimating Charlotte: They have a lot of people that can score the ball. Naz Reid can score 30 at any moment. This is not a team you can just relax on.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naz Reid",
+          "Kobe Bufkin",
+          "Grayson Allen"
+        ],
+        "teams": [
+          "PHX",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses the offensive threats on the Charlotte Hornets roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:26",
+      "summary_phrase": "Miles Bridges on the keys to beating Charlotte",
+      "names_mentioned": [
+        "Musa"
+      ],
+      "excerpt": "Try to turn them over and keep them off the offensive glass.",
+      "quote": "I'd say moving in second, third side, attacking closeouts, taking advantage of mismatches. That's basically it, you know. We got four guys that scored 20 plus in their career multiple times. So, you know, just finding the mismatches and seeing if we could exploit it. Try to turn them over and keep them off the offensive glass. Musa is a monster down there. I feel like as long as we don't turn the ball over, we make them turn the ball over, and we rebound the ball, we'll be good.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Miles Bridges on the keys to beating Charlotte: Just finding the mismatches and seeing if we could exploit it. We need to turn them over and keep them off the offensive glass.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dzanan Musa"
+        ],
+        "teams": [
+          "PHX",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Miles Bridges outlines the keys to victory for the Phoenix Suns against the Charlotte Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "VdaIORdZf0c",
+  "url": "https://www.youtube.com/watch?v=VdaIORdZf0c",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-12T18:54:31Z",
+  "duration_seconds": 245,
+  "processed_at": "2026-11-12T21:28:32Z",
+  "run_id": "2026-11-12T2127Z-14utc",
+  "is_one_off": false
+}

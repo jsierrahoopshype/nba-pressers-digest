@@ -4,7 +4,17 @@
 
 # Best of the best
 
-**1. Rick Carlisle — "the hope is that it's minor. It's likely he'll be listed day-to-day." — Aaron Nesmith's injury status following the game against the Wizards** [00:33](https://www.youtube.com/watch?v=WmNyF19XK3M&t=33s)
+**1. Charles Bassey — "I think he was trying to get himself out of the game. That was fake toughness." — Charles Bassey calls Marcus Smart's actions fake toughness** [00:31](https://www.youtube.com/watch?v=VMlg5u4yoog&t=31s)
+
+Charles Bassey: "It didn't surprise me. I knew he was going to do something. I bet it for him to do something because I knew he was going to do something. I don't think he was trying to play. I think he was trying to get himself out of the game. He wasn't trying to play because he was trying to play, he wasn't going to do that. I think he was trying to chill. He wasn't trying to hoop but I said man that was fake fake toughness."
+
+[https://www.youtube.com/watch?v=VMlg5u4yoog&t=31s](https://www.youtube.com/watch?v=VMlg5u4yoog&t=31s)
+
+From: [Charles Bassey on Marcus Smart throwing a punch at him](https://www.youtube.com/watch?v=VMlg5u4yoog) · *HoopsHype*
+
+<small>[Clip it](presserclips://clip?v=VMlg5u4yoog&t=31&q=2) · [Send to Slack](presserclips://clip?v=VMlg5u4yoog&t=31&q=2&slack=1)</small>
+
+**2. Rick Carlisle — "the hope is that it's minor. It's likely he'll be listed day-to-day." — Aaron Nesmith's injury status following the game against the Wizards** [00:33](https://www.youtube.com/watch?v=WmNyF19XK3M&t=33s)
 
 Rick Carlisle: "**Aaron Nesmith** went out of the game, he had some tightness in the back of his knee. The hope is that it's minor. It's likely he'll be listed day-to-day, so we'll see."
 
@@ -14,7 +24,7 @@ From: [Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards \| P
 
 <small>[Clip it](presserclips://clip?v=WmNyF19XK3M&t=33&q=1) · [Send to Slack](presserclips://clip?v=WmNyF19XK3M&t=33&q=1&slack=1)</small>
 
-**2. Taylor Jenkins — "Ryan had a good cut, got stitches, doesn't seem like there's any symptoms" — Taylor Jenkins on Ryan's eye injury status** [02:35](https://www.youtube.com/watch?v=N1IAL8jT8OI&t=155s)
+**3. Taylor Jenkins — "Ryan had a good cut, got stitches, doesn't seem like there's any symptoms" — Taylor Jenkins on Ryan's eye injury status** [02:35](https://www.youtube.com/watch?v=N1IAL8jT8OI&t=155s)
 
 Taylor Jenkins: "**Ryan** had a good cut, got stitches, doesn't seem like there's any symptoms. We'll see how he wakes up. Obviously monitor, anytime there's a head-to-head, medical team's on top of it, but he said he was fine after the game."
 
@@ -24,7 +34,7 @@ From: [Taylor Jenkins Postgame Press Conference \| 11.11.26](https://www.youtube
 
 <small>[Clip it](presserclips://clip?v=N1IAL8jT8OI&t=155&q=3) · [Send to Slack](presserclips://clip?v=N1IAL8jT8OI&t=155&q=3&slack=1)</small>
 
-**3. Tyler Herro — "My main goal is to be out there every single night and play as many games as possible." — Tyler Herro on his knee injury and recovery process** [00:16](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
+**4. Tyler Herro — "My main goal is to be out there every single night and play as many games as possible." — Tyler Herro on his knee injury and recovery process** [00:16](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
 
 Tyler Herro: "It was a scary fall. I was thinking scared more than anything. I think it was a bone contusion, but I took a day off yesterday, did around the clock treatment, and got right. My main goal is to be out there every single night and play as many games as possible. So it was important for me to come back tonight."
 
@@ -34,7 +44,17 @@ From: [Tyler Herro Postgame Media Availability \| 11.11.26](https://www.youtube.
 
 <small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1&slack=1)</small>
 
-**4. Ja'Kobe Walter — "we had a lead, we was up what, 20? We had a good lead and we blew the lead." — Ja'Kobe Walter on the frustration of blowing a 20-point lead** [02:52](https://www.youtube.com/watch?v=6r-OQrgNbDM&t=172s)
+**5. Kenny Atkinson — "Him and Evan dominated the paint." — Kenny Atkinson on the impact of Jared and Evan** [03:16](https://www.youtube.com/watch?v=YjPP72DCFRk&t=196s)
+
+Kenny Atkinson: "Him and **Evan** dominated the paint. And then, they started blitzing at the end and you got to make those plays in the pocket, and JA made the right decision. Had some big blocks at the rim. It's nice to have him back. He was out a little bit and a healthy JA changes everything for us."
+
+[https://www.youtube.com/watch?v=YjPP72DCFRk&t=196s](https://www.youtube.com/watch?v=YjPP72DCFRk&t=196s)
+
+From: [Cavs at Knicks \| Kenny Atkinson Post Game \| 11.11.2026](https://www.youtube.com/watch?v=YjPP72DCFRk) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=YjPP72DCFRk&t=196&q=6) · [Send to Slack](presserclips://clip?v=YjPP72DCFRk&t=196&q=6&slack=1)</small>
+
+**6. Ja'Kobe Walter — "we had a lead, we was up what, 20? We had a good lead and we blew the lead." — Ja'Kobe Walter on the frustration of blowing a 20-point lead** [02:52](https://www.youtube.com/watch?v=6r-OQrgNbDM&t=172s)
 
 Ja'Kobe Walter: "It's definitely the tough ones where you feel like you beat yourself. We don't want to not give them credit, they were hitting shots, they were playing hard as well, but we had a lead, we was up what, 20? We had a good lead and we blew the lead. We can't do that. It's tough to, we need to figure out how to play with a lead, we can't stop playing the way that we were just because we're up. It's definitely tough to know that we kind of beat ourselves on this one, but we just got to learn from it."
 
@@ -44,7 +64,7 @@ From: [Ja'Kobe Walter \| Post Game vs  Boston Celtics \| November 11, 2026](http
 
 <small>[Clip it](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6) · [Send to Slack](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6&slack=1)</small>
 
-**5. Isaiah Hartenstein — "there's not many teams in the last 15 years really that have played two seven-footers at the same time" — Isaiah Hartenstein on the rarity of playing two seven-footers in modern NBA lineups** [06:27](https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s)
+**7. Isaiah Hartenstein — "there's not many teams in the last 15 years really that have played two seven-footers at the same time" — Isaiah Hartenstein on the rarity of playing two seven-footers in modern NBA lineups** [06:27](https://www.youtube.com/watch?v=jo90ITNj0sk&t=387s)
 
 Isaiah Hartenstein: "There's not many teams in the last 15 years really that have played two seven-footers at the same time. Probably maybe when your dad was playing there was more of those types of things. We're kind of just figuring out through the process. With the NBA season and with how many guys we have out, it's hard to practice, it's hard to get those reps in what you need. And then even looking back when me and Chet first went on the court, I think I told the story before, the first four games I was like there's no way this is going to work and it became one of our best lineups."
 
@@ -54,7 +74,7 @@ From: [Postgame Media Availability with Coach Daigneault, Hart, and Shai \| OKC 
 
 <small>[Clip it](presserclips://clip?v=jo90ITNj0sk&t=387&q=4) · [Send to Slack](presserclips://clip?v=jo90ITNj0sk&t=387&q=4&slack=1)</small>
 
-**6. Desmond Bane — "He's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard." — Desmond Bane on the growth and confidence of Franz Wagner** [05:06](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
+**8. Desmond Bane — "He's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard." — Desmond Bane on the growth and confidence of Franz Wagner** [05:06](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
 
 Desmond Bane: "Exactly who he's been. I mean he's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard. He's grown so much. You know I've only been here two years, but or a year and however long it's been, but he consistently is getting better and you can see his confidence growing in a lot of different areas. So he's playing he's playing extremely well for us."
 
@@ -64,7 +84,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. UTAH JAZZ \| COACH SWEENEY, FRANZ WAGNE
 
 <small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=306&q=7) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=306&q=7&slack=1)</small>
 
-**7. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
+**9. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
 
 Jaime Jaquez Jr.: "I just try to do what I can to help this team in any way possible, whether that's starting, coming off the bench, just trying to jumpstart something for this team. Coach told me he felt like we needed some help on the bench and he thought I could fit there, so that's what we did tonight."
 
@@ -74,7 +94,7 @@ From: [Jaime Jaquez Jr. Postgame Media Availability \| 11.11.26](https://www.you
 
 <small>[Clip it](presserclips://clip?v=0idft1CR3wc&t=6&q=1) · [Send to Slack](presserclips://clip?v=0idft1CR3wc&t=6&q=1&slack=1)</small>
 
-**8. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
+**10. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
 
 Nate Ament: "I wasn't expecting it to be honest. During pregame film they were switching it up and I was in the starting lineup, so it was good, exciting. Obviously didn't get the outcome we wanted, but I think our team is taking steps in the right direction. We're improving game by game and we've had a tough schedule. Not to make any excuses, but it's going to be ebbs and flows and we've just got to stay together throughout it all."
 
@@ -84,7 +104,27 @@ From: [Nate Ament Postgame Media Availability \| 11.11.26](https://www.youtube.c
 
 <small>[Clip it](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1) · [Send to Slack](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1&slack=1)</small>
 
-**9. Brice Sensabaugh — "I've always been a microwave guy." — Brice Sensabaugh on his mindset when coming off the bench to shoot** [04:48](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
+**11. Charles Barkley — "the point guard, even if you be not the best player on the team, you're the most important player" — Charles Barkley on the importance of point guards for team success** [00:00](https://www.youtube.com/watch?v=8eOjkf0zaxc&t=0s)
+
+Charles Barkley: "When you watch the Rockets play last year, they would just get the ball to Kevin and Sengun and they would go one on one. Kenny knows this. The point guard, even if you be not the best player on the team, you're the most important player on the team by who you give the ball to and who you don't give the ball to. A great quarterback can have a great arm, he can have great legs, but his job really is to get the ball to **Jerry Rice**, Chase, **Justin Jefferson**, or hand the ball to Emmitt or Barret Sanders. He has the ball most of the time, and people don't understand how important the point guard is. Kenny talks about this all the time. He says I know who to give it to, but you know what's even more important? Not who to give it to. All players are kind of dumb. Every player thinks they're a superstar. They're like, just give it to me. I'm like, no, you can't dribble. I'm going to give it to you to finish. That is so important. That's one thing I always admired about Kenny, his brain. He's like, yeah, telling guys no. He said I had to tell guys no."
+
+[https://www.youtube.com/watch?v=8eOjkf0zaxc&t=0s](https://www.youtube.com/watch?v=8eOjkf0zaxc&t=0s)
+
+From: [Charles Barkley on point guards being important for teams like Houston Rockets](https://www.youtube.com/watch?v=8eOjkf0zaxc) · *HoopsHype*
+
+<small>[Clip it](presserclips://clip?v=8eOjkf0zaxc&t=0&q=1) · [Send to Slack](presserclips://clip?v=8eOjkf0zaxc&t=0&q=1&slack=1)</small>
+
+**12. Damian Lillard — "We got a long way to go. I think the fact that we've been able to compete." — Damian Lillard on the team's potential and areas for improvement** [00:37](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=37s)
+
+Damian Lillard: "We got a long way to go. I think the fact that we've been able to compete at the level that we have and win some of the games that we have, I think it shows the potential that we have as a group. We got to keep addressing the things that we struggling at, the rebounding, the turnovers, being able to execute when teams apply pressure to us. The better we get at that, we'll be able to sustain it against any team on any night and that's our goal. We just got to keep going and understand the foundation that we've laid has been great, but it's not the end."
+
+[https://www.youtube.com/watch?v=Rd8MByYvhMg&t=37s](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=37s)
+
+From: [Damian Lillard on post-game interview after back to back wins against Oklahoma City Thunder](https://www.youtube.com/watch?v=Rd8MByYvhMg) · *HoopsHype*
+
+<small>[Clip it](presserclips://clip?v=Rd8MByYvhMg&t=37&q=3) · [Send to Slack](presserclips://clip?v=Rd8MByYvhMg&t=37&q=3&slack=1)</small>
+
+**13. Brice Sensabaugh — "I've always been a microwave guy." — Brice Sensabaugh on his mindset when coming off the bench to shoot** [04:48](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
 
 Brice Sensabaugh: "For me, my mentality, I've always been a microwave guy. The pressure you put on yourself on the first one or the second one, especially if the first one doesn't go in, that usually makes it a little difficult. But you just got to let go. Whatever happens as a shooter, make sure your discipline is right and just put it up in the air and make sure it's not short and you just got to live with the results. I'm developing the ability to still impact the game if I'm not shooting the ball, and that's been my main focus this year."
 
@@ -93,26 +133,6 @@ Brice Sensabaugh: "For me, my mentality, I've always been a microwave guy. The p
 From: [Brice Sensabaugh talks about good team chemistry, self-discipline, impact on the game vs. Orlando](https://www.youtube.com/watch?v=KE8GHwjtdwc) · *Utah Jazz*
 
 <small>[Clip it](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3) · [Send to Slack](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3&slack=1)</small>
-
-**10. Ivica Zubac — "starting off the season with an injury and guys get used to playing without you." — Ivica Zubac's ongoing recovery and adjustment to the team's system** [10:32](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
-
-Ivica Zubac: "Starting off the season with an injury and guys get used to playing without you, so you got to slowly get back into it and figure out the way how you can complement everyone on the floor without disrupting too much. It's a work in progress and we're missing **Tyrese Haliburton**, who is one of the best offensive engines in the league, so it takes a lot of adjusting when he's not out there."
-
-[https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
-
-From: [Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards \| Postgame Media Availability](https://www.youtube.com/watch?v=WmNyF19XK3M) · *Indiana Pacers*
-
-<small>[Clip it](presserclips://clip?v=WmNyF19XK3M&t=632&q=7) · [Send to Slack](presserclips://clip?v=WmNyF19XK3M&t=632&q=7&slack=1)</small>
-
-**11. Nikola Jokic — "He's playing really good since the beginning of the season and we just need to follow." — Nikola Jokic on Jamal Murray's strong play this season** [06:22](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
-
-Nikola Jokic: "He's playing really good since the beginning of the season and we just need to follow. He's really good for us. I think he's creating looks for everybody else and we just need to step up and follow him."
-
-[https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
-
-From: [Full Denver Nuggets Postgame Media Availability vs. MEM 🎙](https://www.youtube.com/watch?v=_-ABczOtRHo) · *Denver Nuggets*
-
-<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=382&q=5) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=382&q=5&slack=1)</small>
 
 ---
 
@@ -268,6 +288,22 @@ Ja'Kobe Walter: "It's definitely the tough ones where you feel like you beat you
 
 ---
 
+## Charles Barkley on point guards being important for teams like Houston Rockets — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=8eOjkf0zaxc](https://www.youtube.com/watch?v=8eOjkf0zaxc)
+
+_Speakers identified: Charles Barkley_
+
+**1. Charles Barkley — "the point guard, even if you be not the best player on the team, you're the most important player" — Charles Barkley on the importance of point guards for team success** [00:00](https://www.youtube.com/watch?v=8eOjkf0zaxc&t=0s)
+
+Charles Barkley: "When you watch the Rockets play last year, they would just get the ball to Kevin and Sengun and they would go one on one. Kenny knows this. The point guard, even if you be not the best player on the team, you're the most important player on the team by who you give the ball to and who you don't give the ball to. A great quarterback can have a great arm, he can have great legs, but his job really is to get the ball to **Jerry Rice**, Chase, **Justin Jefferson**, or hand the ball to Emmitt or Barret Sanders. He has the ball most of the time, and people don't understand how important the point guard is. Kenny talks about this all the time. He says I know who to give it to, but you know what's even more important? Not who to give it to. All players are kind of dumb. Every player thinks they're a superstar. They're like, just give it to me. I'm like, no, you can't dribble. I'm going to give it to you to finish. That is so important. That's one thing I always admired about Kenny, his brain. He's like, yeah, telling guys no. He said I had to tell guys no."
+
+[https://www.youtube.com/watch?v=8eOjkf0zaxc&t=0s](https://www.youtube.com/watch?v=8eOjkf0zaxc&t=0s)
+
+<small>[Clip it](presserclips://clip?v=8eOjkf0zaxc&t=0&q=1) · [Send to Slack](presserclips://clip?v=8eOjkf0zaxc&t=0&q=1&slack=1)</small>
+
+---
+
 ## Brice Sensabaugh talks about good team chemistry, self-discipline, impact on the game vs. Orlando — *Utah Jazz*
 
 Source: [https://www.youtube.com/watch?v=KE8GHwjtdwc](https://www.youtube.com/watch?v=KE8GHwjtdwc)
@@ -358,6 +394,38 @@ Taylor Jenkins: "The immediate fix is just a willingness to go hit more. I think
 
 ---
 
+## Damian Lillard on post-game interview after back to back wins against Oklahoma City Thunder — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=Rd8MByYvhMg](https://www.youtube.com/watch?v=Rd8MByYvhMg)
+
+_Speakers identified: Damian Lillard_
+
+**1. Damian Lillard — "Anytime you play a team two times in a row it's going to be tough." — Damian Lillard on the difficulty of playing the same team twice** [00:00](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=0s)
+
+Damian Lillard: "We knew it was going to be a harder game tonight. Anytime you play a team two times in a row it's going to be tough, especially a championship team. It came down to who was going to get stops and who was going to execute at the end. I just wanted to be a little more assertive on both sides of the ball, get into the ball and down here attack the paint. I knew they would be playing the three-pointers and that was what I did. I thought our team just executed, we got timely stops and was able to get another one."
+
+[https://www.youtube.com/watch?v=Rd8MByYvhMg&t=0s](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=0s)
+
+<small>[Clip it](presserclips://clip?v=Rd8MByYvhMg&t=0&q=1) · [Send to Slack](presserclips://clip?v=Rd8MByYvhMg&t=0&q=1&slack=1)</small>
+
+**2. Damian Lillard — "It's just the energy in the fight. We need that from him and he brought it again tonight." — Damian Lillard on the team's defensive energy and effort** [00:21](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=21s)
+
+Damian Lillard: "Just the energy. A guy like that, sometimes he might have a foul here, like he did at the end. Guys chase him down, he going to grab a guy before he let him get the ball. It's just the energy in the fight. We need that from him and he brought it again tonight."
+
+[https://www.youtube.com/watch?v=Rd8MByYvhMg&t=21s](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=21s)
+
+<small>[Clip it](presserclips://clip?v=Rd8MByYvhMg&t=21&q=2) · [Send to Slack](presserclips://clip?v=Rd8MByYvhMg&t=21&q=2&slack=1)</small>
+
+**3. Damian Lillard — "We got a long way to go. I think the fact that we've been able to compete." — Damian Lillard on the team's potential and areas for improvement** [00:37](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=37s)
+
+Damian Lillard: "We got a long way to go. I think the fact that we've been able to compete at the level that we have and win some of the games that we have, I think it shows the potential that we have as a group. We got to keep addressing the things that we struggling at, the rebounding, the turnovers, being able to execute when teams apply pressure to us. The better we get at that, we'll be able to sustain it against any team on any night and that's our goal. We just got to keep going and understand the foundation that we've laid has been great, but it's not the end."
+
+[https://www.youtube.com/watch?v=Rd8MByYvhMg&t=37s](https://www.youtube.com/watch?v=Rd8MByYvhMg&t=37s)
+
+<small>[Clip it](presserclips://clip?v=Rd8MByYvhMg&t=37&q=3) · [Send to Slack](presserclips://clip?v=Rd8MByYvhMg&t=37&q=3&slack=1)</small>
+
+---
+
 ## YouTube title: Will Hardy talks about continuing to fight to focus, building a good foundation vs Orlando — *Utah Jazz*
 
 Source: [https://www.youtube.com/watch?v=TC1xcBcDb50](https://www.youtube.com/watch?v=TC1xcBcDb50)
@@ -443,6 +511,118 @@ Will Hardy: "The end of the game is really hard to manage with one timeout. In t
 [https://www.youtube.com/watch?v=TC1xcBcDb50&t=506s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=506s)
 
 <small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=506&q=10) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=506&q=10&slack=1)</small>
+
+---
+
+## Charles Bassey on Marcus Smart throwing a punch at him — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=VMlg5u4yoog](https://www.youtube.com/watch?v=VMlg5u4yoog)
+
+_Speakers identified: Charles Bassey_
+
+**1. Charles Bassey — "He's been playing dirty the whole game man." — Charles Bassey accuses Marcus Smart of playing dirty** [00:00](https://www.youtube.com/watch?v=VMlg5u4yoog&t=0s)
+
+Charles Bassey: "He's been playing dirty the whole game man. I remember in the first half I was trying to set a screen roll and he grabbed my knees. He was playing dirty. I think I was trying to get a rebound and he was grabbing my hand and I was trying to run back on defense then he was sitting down so I just like, you know. And then he got up on me and just swung and obviously that was weak."
+
+[https://www.youtube.com/watch?v=VMlg5u4yoog&t=0s](https://www.youtube.com/watch?v=VMlg5u4yoog&t=0s)
+
+<small>[Clip it](presserclips://clip?v=VMlg5u4yoog&t=0&q=1) · [Send to Slack](presserclips://clip?v=VMlg5u4yoog&t=0&q=1&slack=1)</small>
+
+**2. Charles Bassey — "I think he was trying to get himself out of the game. That was fake toughness." — Charles Bassey calls Marcus Smart's actions fake toughness** [00:31](https://www.youtube.com/watch?v=VMlg5u4yoog&t=31s)
+
+Charles Bassey: "It didn't surprise me. I knew he was going to do something. I bet it for him to do something because I knew he was going to do something. I don't think he was trying to play. I think he was trying to get himself out of the game. He wasn't trying to play because he was trying to play, he wasn't going to do that. I think he was trying to chill. He wasn't trying to hoop but I said man that was fake fake toughness."
+
+[https://www.youtube.com/watch?v=VMlg5u4yoog&t=31s](https://www.youtube.com/watch?v=VMlg5u4yoog&t=31s)
+
+<small>[Clip it](presserclips://clip?v=VMlg5u4yoog&t=31&q=2) · [Send to Slack](presserclips://clip?v=VMlg5u4yoog&t=31&q=2&slack=1)</small>
+
+**3. Charles Bassey — "He said something like don't do that. I'm like do what? Like it's a grown man's league." — Charles Bassey recounts exchange with Marcus Smart** [00:49](https://www.youtube.com/watch?v=VMlg5u4yoog&t=49s)
+
+Charles Bassey: "He said something to me. He said hey, he said something like don't do that. I'm like do what? Like it's a grown man's league, you know. But like I said man, he was having, he was trying to you know chill tonight."
+
+[https://www.youtube.com/watch?v=VMlg5u4yoog&t=49s](https://www.youtube.com/watch?v=VMlg5u4yoog&t=49s)
+
+<small>[Clip it](presserclips://clip?v=VMlg5u4yoog&t=49&q=3) · [Send to Slack](presserclips://clip?v=VMlg5u4yoog&t=49&q=3&slack=1)</small>
+
+---
+
+## Miles Bridges Shootaround Media Availability | 11-12-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=VdaIORdZf0c](https://www.youtube.com/watch?v=VdaIORdZf0c)
+
+_Speakers identified: Miles Bridges_
+
+**1. Miles Bridges — "I spent eight years with these guys, nine years. So, you know, I'm definitely excited." — Miles Bridges on his return to the Phoenix Suns** [00:09](https://www.youtube.com/watch?v=VdaIORdZf0c&t=9s)
+
+Miles Bridges: "It feels good, you know. I mean, it's just another game, but I spent eight years with these guys, nine years. So, you know, I'm definitely excited, but getting the W is the most important thing."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=9s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=9s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=9&q=1) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=9&q=1&slack=1)</small>
+
+**2. Miles Bridges — "Conley texts me a few days ago. I know Melo and I are on the team." — Miles Bridges maintaining relationships with former teammates** [00:23](https://www.youtube.com/watch?v=VdaIORdZf0c&t=23s)
+
+Miles Bridges: "Yeah, really everybody. **Conley** texts me a few days ago. I know **Melo** and I are on the team, but **Melo**, I talked to **Brandon**, I talked to **Grant** **Musa**. So, still cool with those guys."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=23s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=23s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=23&q=2) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=23&q=2&slack=1)</small>
+
+**3. Miles Bridges — "It really taught me how hard it is to win in the NBA." — Miles Bridges on the difficulty of winning in the NBA** [00:52](https://www.youtube.com/watch?v=VdaIORdZf0c&t=52s)
+
+Miles Bridges: "It was a grind. It really taught me how hard it is to win in the NBA. I thought we had a pretty solid team to make the playoffs and we didn't a couple years. But you know, I had a great time there. They treated me like family. Charlotte will always be family to me, but they really taught me about how hard it is to win in the NBA."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=52s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=52s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=52&q=3) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=52&q=3&slack=1)</small>
+
+**4. Miles Bridges — "We're trying to get better defensively, and that comes with talking and giving extra effort." — Miles Bridges on the Suns' defensive focus** [01:20](https://www.youtube.com/watch?v=VdaIORdZf0c&t=80s)
+
+Miles Bridges: "We're trying to get better defensively, and that comes with talking and giving extra effort. We've been hitting hard on that lately. And then trying to get more rebounds. We got to get more rebounds, get out in transition, and go because that's when we're at our best."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=80s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=80s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=80&q=4) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=80&q=4&slack=1)</small>
+
+**5. Miles Bridges — "I got to start converting more in the post, you know. I'm not doing a good job." — Miles Bridges on his need to improve post play** [01:58](https://www.youtube.com/watch?v=VdaIORdZf0c&t=118s)
+
+Miles Bridges: "I got to start converting more in the post, you know. I'm not doing a good job. I don't think of taking advantage of mismatches. **DB** has been good all year with that type of stuff. I need to learn a few things from him, but you know, I'm going to get better as the season goes on."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=118s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=118s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=118&q=5) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=118&q=5&slack=1)</small>
+
+**6. Miles Bridges — "We're moving it around, trying to get to the second side more. Book had it going." — Miles Bridges on the Suns' ball movement and spacing** [02:13](https://www.youtube.com/watch?v=VdaIORdZf0c&t=133s)
+
+Miles Bridges: "We're moving it around, trying to get to the second side more. **Book** had it going the last few games, so you know, try to get it to him, but at the same time try to keep it moving."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=133s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=133s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=133&q=6) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=133&q=6&slack=1)</small>
+
+**7. Miles Bridges — "Probably us winning the play-in game last year." — Miles Bridges on his favorite memory in Charlotte** [02:40](https://www.youtube.com/watch?v=VdaIORdZf0c&t=160s)
+
+Miles Bridges: "Probably us winning the play-in game last year. I know we make the playoffs, but it was really big for the city of Charlotte just to win some type of playoff atmosphere. So yeah, that game."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=160s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=160s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=160&q=7) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=160&q=7&slack=1)</small>
+
+**8. Miles Bridges — "They got a lot of people that can score the ball, you know. Naz Reid can score." — Miles Bridges on the challenge of playing against Charlotte** [03:00](https://www.youtube.com/watch?v=VdaIORdZf0c&t=180s)
+
+Miles Bridges: "Nah, because they got a lot of people that can score the ball, you know. **Naz Reid** can score 30 at any moment, **Kobe**, **Grayson**. You know, you've seen **Grayson** play. So, you know, this is not a team you can just relax on, you know. They're figuring things out, but at the same time they have a lot of weapons."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=180s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=180s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=180&q=8) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=180&q=8&slack=1)</small>
+
+**9. Miles Bridges — "Try to turn them over and keep them off the offensive glass." — Miles Bridges on the keys to beating Charlotte** [03:26](https://www.youtube.com/watch?v=VdaIORdZf0c&t=206s)
+
+Miles Bridges: "I'd say moving in second, third side, attacking closeouts, taking advantage of mismatches. That's basically it, you know. We got four guys that scored 20 plus in their career multiple times. So, you know, just finding the mismatches and seeing if we could exploit it. Try to turn them over and keep them off the offensive glass. **Musa** is a monster down there. I feel like as long as we don't turn the ball over, we make them turn the ball over, and we rebound the ball, we'll be good."
+
+[https://www.youtube.com/watch?v=VdaIORdZf0c&t=206s](https://www.youtube.com/watch?v=VdaIORdZf0c&t=206s)
+
+<small>[Clip it](presserclips://clip?v=VdaIORdZf0c&t=206&q=9) · [Send to Slack](presserclips://clip?v=VdaIORdZf0c&t=206&q=9&slack=1)</small>
 
 ---
 

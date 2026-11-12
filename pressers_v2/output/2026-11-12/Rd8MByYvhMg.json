@@ -1,0 +1,108 @@
+{
+  "video_title": "Damian Lillard on post-game interview after back to back wins against Oklahoma City Thunder",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:00",
+      "summary_phrase": "Damian Lillard on the difficulty of playing the same team twice",
+      "names_mentioned": [],
+      "excerpt": "Anytime you play a team two times in a row it's going to be tough.",
+      "quote": "We knew it was going to be a harder game tonight. Anytime you play a team two times in a row it's going to be tough, especially a championship team. It came down to who was going to get stops and who was going to execute at the end. I just wanted to be a little more assertive on both sides of the ball, get into the ball and down here attack the paint. I knew they would be playing the three-pointers and that was what I did. I thought our team just executed, we got timely stops and was able to get another one.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Damian Lillard on the challenge of playing the same team twice: Anytime you play a team two times in a row it is going to be tough. It came down to who was going to get stops and who was going to execute at the end.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Damian Lillard discusses the challenges of playing the same opponent in consecutive games after a win against the Oklahoma City Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:21",
+      "summary_phrase": "Damian Lillard on the team's defensive energy and effort",
+      "names_mentioned": [],
+      "excerpt": "It's just the energy in the fight. We need that from him and he brought it again tonight.",
+      "quote": "Just the energy. A guy like that, sometimes he might have a foul here, like he did at the end. Guys chase him down, he going to grab a guy before he let him get the ball. It's just the energy in the fight. We need that from him and he brought it again tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 21,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Damian Lillard praises the defensive effort of his teammates: It is just the energy in the fight. We need that from him and he brought it again tonight.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard praises a teammate for their defensive energy and effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:37",
+      "summary_phrase": "Damian Lillard on the team's potential and areas for improvement",
+      "names_mentioned": [],
+      "excerpt": "We got a long way to go. I think the fact that we've been able to compete.",
+      "quote": "We got a long way to go. I think the fact that we've been able to compete at the level that we have and win some of the games that we have, I think it shows the potential that we have as a group. We got to keep addressing the things that we struggling at, the rebounding, the turnovers, being able to execute when teams apply pressure to us. The better we get at that, we'll be able to sustain it against any team on any night and that's our goal. We just got to keep going and understand the foundation that we've laid has been great, but it's not the end.",
+      "verbatim_original_language": "",
+      "start_seconds": 37,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Damian Lillard says the team still has a long way to go: We got to keep addressing the things that we are struggling at, the rebounding, the turnovers, being able to execute when teams apply pressure to us.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Damian Lillard reflects on the team's current performance and areas they need to improve to reach their full potential.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "Rd8MByYvhMg",
+  "url": "https://www.youtube.com/watch?v=Rd8MByYvhMg",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-12T18:55:42Z",
+  "duration_seconds": 65,
+  "processed_at": "2026-11-12T21:28:24Z",
+  "run_id": "2026-11-12T2127Z-14utc",
+  "is_one_off": false
+}

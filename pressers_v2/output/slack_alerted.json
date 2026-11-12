@@ -42,13 +42,6 @@
    "seeded": true,
    "slot_date": "2026-11-11"
   },
-  "-c5ORn21TiM": {
-   "at": "2026-10-29T19:36:39Z",
-   "quote": "we just got to stay poised consistent they called timeout ran an action a few times where we made a run we just got to get a stop right there and just turn it up a notch and just stay together in thos",
-   "run_id": "2026-10-29T1936Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-10-29"
-  },
   "0TJRHXX9moo": {
    "at": "2026-11-09T22:39:58Z",
    "quote": "we re going to get into a new yorker piece that just dropped about the jontae porter case fbi probe his lifetime ban from the nba for gambling on the sport the circumstances that led to it we didn t k",
@@ -727,13 +720,6 @@
    "run_id": "2026-11-07-overnight",
    "seeded": true,
    "slot_date": "2026-11-07"
-  },
-  "Ej7Vgc2J7kc": {
-   "at": "2026-10-29T19:37:14Z",
-   "quote": "i think it was kind of deflating early on we had four turnovers in the first four minutes just some things we got to clean up they got to understand that just making a simple play sometimes you are go",
-   "run_id": "2026-10-29T1936Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-10-29"
   },
   "FIBQQWXCkp0": {
    "at": "2026-11-03T08:02:50Z",
@@ -1518,13 +1504,6 @@
    "run_id": "2026-11-11-overnight",
    "seeded": true,
    "slot_date": "2026-11-11"
-  },
-  "XBlo-1iOXqY": {
-   "at": "2026-10-29T19:36:35Z",
-   "quote": "i just wanted to play basketball and just so happened that folks had their own belief of what a person should look like and how they should be to pursue that game basketball with which folks think tha",
-   "run_id": "2026-10-29T1936Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-10-29"
   },
   "XCKwI9HLSTU": {
    "at": "2026-11-11T21:23:24Z",
@@ -2787,5 +2766,70 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {}
+ "pending": {
+  "8eOjkf0zaxc": {
+   "channel": "HoopsHype",
+   "clip_count": 1,
+   "content_type": "presser",
+   "date": "2026-11-12",
+   "is_one_off": false,
+   "queued_at": "2026-11-12T21:28:34Z",
+   "run_id": "2026-11-12T2127Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-12",
+   "speaker": "Charles Barkley",
+   "title": "Charles Barkley on point guards being important for teams like Houston Rockets",
+   "top_quote": "When you watch the Rockets play last year, they would just get the ball to Kevin and Sengun and they would go one on one. Kenny knows this. The point guard, even if you be not the best player on the team, you're the most important player on the team by who you give the ball to and who you don't give the ball to. A great quarterback can have a great arm, he can have great legs, but his job really is to get the ball to Jerry Rice, Chase, Justin Jefferson, or hand the ball to Emmitt or Barret Sanders. He has the ball most of the time, and people don't understand how important the point guard is. Kenny talks about this all the time. He says I know who to give it to, but you know what's even more important? Not who to give it to. All players are kind of dumb. Every player thinks they're a superstar. They're like, just give it to me. I'm like, no, you can't dribble. I'm going to give it to you to finish. That is so important. That's one thing I always admired about Kenny, his brain. He's like, yeah, telling guys no. He said I had to tell guys no.",
+   "video_id": "8eOjkf0zaxc"
+  },
+  "Rd8MByYvhMg": {
+   "channel": "HoopsHype",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-12",
+   "is_one_off": false,
+   "queued_at": "2026-11-12T21:28:34Z",
+   "run_id": "2026-11-12T2127Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-12",
+   "speaker": "Damian Lillard",
+   "title": "Damian Lillard on post-game interview after back to back wins against Oklahoma City Thunder",
+   "top_quote": "We knew it was going to be a harder game tonight. Anytime you play a team two times in a row it's going to be tough, especially a championship team. It came down to who was going to get stops and who was going to execute at the end. I just wanted to be a little more assertive on both sides of the ball, get into the ball and down here attack the paint. I knew they would be playing the three-pointers and that was what I did. I thought our team just executed, we got timely stops and was able to get another one.",
+   "video_id": "Rd8MByYvhMg"
+  },
+  "VMlg5u4yoog": {
+   "channel": "HoopsHype",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-12",
+   "is_one_off": false,
+   "queued_at": "2026-11-12T21:28:34Z",
+   "run_id": "2026-11-12T2127Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-12",
+   "speaker": "Charles Bassey",
+   "title": "Charles Bassey on Marcus Smart throwing a punch at him",
+   "top_quote": "He's been playing dirty the whole game man. I remember in the first half I was trying to set a screen roll and he grabbed my knees. He was playing dirty. I think I was trying to get a rebound and he was grabbing my hand and I was trying to run back on defense then he was sitting down so I just like, you know. And then he got up on me and just swung and obviously that was weak.",
+   "video_id": "VMlg5u4yoog"
+  },
+  "VdaIORdZf0c": {
+   "channel": "Phoenix Suns",
+   "clip_count": 9,
+   "content_type": "presser",
+   "date": "2026-11-12",
+   "is_one_off": false,
+   "queued_at": "2026-11-12T21:28:34Z",
+   "run_id": "2026-11-12T2127Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-12",
+   "speaker": "Miles Bridges",
+   "title": "Miles Bridges Shootaround Media Availability | 11-12-26",
+   "top_quote": "It feels good, you know. I mean, it's just another game, but I spent eight years with these guys, nine years. So, you know, I'm definitely excited, but getting the W is the most important thing.",
+   "video_id": "VdaIORdZf0c"
+  }
+ }
 }
