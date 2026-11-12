@@ -1,0 +1,162 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Nuggets",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:15",
+      "summary_phrase": "Tuomas Iisalo on the final play and Cam Boozer's rebound",
+      "names_mentioned": [
+        "Cam Boozer",
+        "Ty Jerome"
+      ],
+      "excerpt": "if we get that rebound we're going and then not allow them to set their half court defense",
+      "quote": "He got the rebound. We talked about it with Ty Jerome that if we get that rebound we're going and then not allow them to set their half court defense. Against Golden State was a very good opportunity for us. We had our two best ball handlers and good rebounding position underneath inside with the bigs, and Boozer felt the hand of the defender inside the cookie jar and tried to I like the decision there to try to go for the three free throws, but obviously didn't go our way and love the fact that Boozer in that situation looked to push and try to create that open shot right there.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo on the final play decision by Cam Boozer to hunt for free throws rather than a set shot. He liked the aggression to push the pace and try to create an open look in transition.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Boozer",
+          "Ty Jerome"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the final play and Cam Boozer's decision to push for a shot after a rebound.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:07",
+      "summary_phrase": "Tuomas Iisalo on Cam Boozer's final shot decision",
+      "names_mentioned": [
+        "Cam Boozer"
+      ],
+      "excerpt": "the hands were on the body he was a little late to go up with the",
+      "quote": "The hands were on the body he was a little late to go up with the. They switched in that situation and the hands were in the body and he went like this, defender got.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo breaks down the late game contact on Cam Boozer, noting the defender was a little late to react to the switch.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Boozer"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo explains the officiating and defensive contact on Cam Boozer's final shot attempt.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:30",
+      "summary_phrase": "Tuomas Iisalo on team defensive execution and turnovers",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamal Murray"
+      ],
+      "excerpt": "we were not able to disrupt them in a way that we wanted",
+      "quote": "There are other things in my opinion that are more important from this game. For example, we were not able to disrupt them in a way that we wanted. They only had six total turnovers and had a very efficient half court offense through both Nikola Jokic and Jamal Murray and I think we can take some lessons there what we can do better.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo says the Grizzlies failed to disrupt the Nuggets offense, pointing to the lack of turnovers forced against Nikola Jokic and Jamal Murray as a key area for improvement.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "MEM",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo reflects on the team's defensive struggles against the Nuggets' offense and their low turnover count.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:40",
+      "summary_phrase": "Tuomas Iisalo on late-game lineup strategy and rebounding",
+      "names_mentioned": [
+        "Cedric",
+        "Zach",
+        "Isaiah"
+      ],
+      "excerpt": "when you're down I would say the better option is to take the shot earlier",
+      "quote": "We had our two best ball handlers up top to bring the ball up. That was Ty and Boozer in that situation and when you're down I would say the better option is to take the shot earlier so you have a chance to rebound. We also had very strong rebounders on the court, our three best rebounders with Cedric and Zach and Isaiah.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo explains the late game strategy of keeping the best ball handlers and rebounders on the floor to maximize transition opportunities.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ty Jerome",
+          "Cam Boozer",
+          "Cedric",
+          "Zach",
+          "Isaiah"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo explains his late-game lineup strategy regarding ball handlers and rebounding personnel.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "rX4kxemINOA",
+  "url": "https://www.youtube.com/watch?v=rX4kxemINOA",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-12T03:54:19Z",
+  "duration_seconds": 210,
+  "processed_at": "2026-11-12T04:28:12Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

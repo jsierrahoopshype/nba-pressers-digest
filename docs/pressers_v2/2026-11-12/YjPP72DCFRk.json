@@ -1,0 +1,364 @@
+{
+  "video_title": "Cavs at Knicks | Kenny Atkinson Post Game | 11.11.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:23",
+      "summary_phrase": "Kenny Atkinson on the team's need to prove themselves",
+      "names_mentioned": [],
+      "excerpt": "Joe, we got a lot more proving to do.",
+      "quote": "Joe, we got a lot more proving to do. It's a step. Like you said, a lot of great individual performances, but I think it was the grit and the extra effort and the multiple effort plays. JA and Evan kind of dominated in the inside, and then Peyton Watson was, I mean, three blocks, I think, block three jumpers, I think. Then he had that chase down at the end.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on the Cavs win at MSG: We got a lot more proving to do. It is a step. I think it was the grit and the extra effort and the multiple effort plays.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jarrett Allen",
+          "Evan Mobley",
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson discusses the team's effort and individual performances following a win against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:55",
+      "summary_phrase": "Kenny Atkinson on Donovan Mitchell's performance against the blitz",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "Donovan made the right play every time.",
+      "quote": "I felt like Don made the right play. They were blitzing him and he just made the right play every time. Obviously, James was stellar tonight. Our two young guys, I mean, Malik, I think it's his first ever time in the Garden, I think. I'm not sure he's played here. I think it's his first time, so great. And Tyrese was really good.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on Donovan Mitchell handling the blitz: I felt like Don made the right play. They were blitzing him and he just made the right play every time.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell",
+          "Malik",
+          "Tyrese"
+        ],
+        "teams": [
+          "CLE",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Donovan Mitchell's decision-making against defensive pressure and comments on the performances of younger players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:19",
+      "summary_phrase": "Kenny Atkinson on responding to a tough loss",
+      "names_mentioned": [],
+      "excerpt": "And really like our spirit and our fight, our competitiveness tonight.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Listen Joe, you got to respond, right? You have a stinker, how do you respond?"
+        },
+        {
+          "speaker": "Kenny Atkinson",
+          "text": "And really like our spirit and our fight, our competitiveness tonight."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Kenny Atkinson"
+      ],
+      "reporter_split": true,
+      "start_seconds": 79,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson on bouncing back after a loss: You got to respond, right? You have a stinker, how do you respond? I really like our spirit and our fight and our competitiveness tonight.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the team's need to respond with competitiveness after a previous poor performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:49",
+      "summary_phrase": "Kenny Atkinson on James' return to form",
+      "names_mentioned": [
+        "James"
+      ],
+      "excerpt": "It's the James we knew last year, right? That's how we played.",
+      "quote": "It's the James we knew last year, right? That's how we played. So, like I said, I think it's very early in the season. Extremely early. I'll even use the word extremely early. So, I think guys take different amounts of time to get into rhythm sometimes, and I saw flashes of that with James in the previous three, four games. It's getting back to his level, getting back into top form, so it's nice to see it confirmed tonight.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on James getting back to form: It is the James we knew last year. I saw flashes of that in the previous three, four games. It is getting back to his level, getting back into top form.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses James returning to his previous form and finding his rhythm early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:35",
+      "summary_phrase": "Kenny Atkinson on the team's tactical approach with James",
+      "names_mentioned": [
+        "James",
+        "Joe"
+      ],
+      "excerpt": "There was nothing we did tactically or changed anything.",
+      "quote": "There was nothing we did tactically or changed anything. Joe said he loves the moment. He's a superstar, global superstar. They love playing in the Garden and all that. I think that helped. That helps your mojo, your joy for the game.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson on why James plays so well at MSG: He is a superstar, global superstar. They love playing in the Garden and all that. I think that helped. That helps your mojo, your joy for the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James"
+        ],
+        "teams": [
+          "CLE",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains that there were no tactical changes and attributes the player's success to the environment at Madison Square Garden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:16",
+      "summary_phrase": "Kenny Atkinson on the impact of Jared and Evan",
+      "names_mentioned": [
+        "Jared",
+        "Evan"
+      ],
+      "excerpt": "Him and Evan dominated the paint.",
+      "quote": "Him and Evan dominated the paint. And then, they started blitzing at the end and you got to make those plays in the pocket, and JA made the right decision. Had some big blocks at the rim. It's nice to have him back. He was out a little bit and a healthy JA changes everything for us.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on Jarrett Allen: He and Evan dominated the paint. A healthy JA changes everything for us.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jarrett Allen",
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson highlights the importance of having a healthy Jarrett Allen back in the lineup for the team's interior presence.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:44",
+      "summary_phrase": "Kenny Atkinson on the need for a third ball-handler",
+      "names_mentioned": [
+        "Don",
+        "James",
+        "Dennis"
+      ],
+      "excerpt": "We need a third ball-handler.",
+      "quote": "We need a third ball-handler. I think we had it last year with Dennis when they really start taking away Don and James. And just him making four or five plays in the pick and roll, we almost need a reliever. That third ball-handler is a reliever. I think his jump is going to be, as he gets to know the league better, just the defensive stuff, all the nuance. We love him defensively, but there's some nuance that he's got to get up to speed with defensively.",
+      "text_blocks": [],
+      "start_seconds": 284,
+      "end_seconds": 318,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says the Cavs need a third ball-handler: We almost need a reliever. That third ball-handler is a reliever.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson identifies the need for a third ball-handler to support the team's offensive rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:28",
+      "summary_phrase": "Kenny Atkinson on Peyton Watson's defensive impact",
+      "names_mentioned": [
+        "Peyton"
+      ],
+      "excerpt": "He led with his defensive energy.",
+      "quote": "Maybe first team I've been on where I've had a guy block three jump shots. He led with his defensive energy. We're still clunky offensively and it's not we're still not on the same page. That's just going to take time. There are just a couple of mishaps and that's just having new players in the lineup and new rotations, so it doesn't look pretty all the time, but his role is defense, guard the best guy and be a defensive disruptor. That's what he did tonight.",
+      "text_blocks": [],
+      "start_seconds": 328,
+      "end_seconds": 361,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson on Peyton Watson: Maybe first team I have been on where I have had a guy block three jump shots. He led with his defensive energy.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses Peyton Watson's defensive impact and the ongoing process of integrating new players into the rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:19",
+      "summary_phrase": "Kenny Atkinson on James' consistency",
+      "names_mentioned": [
+        "James",
+        "Joe"
+      ],
+      "excerpt": "Joe has the best theory. He plays great in the Garden.",
+      "quote": "I don't know. Joe has the best theory. He plays great in the Garden. I mean, I don't know, it's what we saw last year. He'd have games like this all the time. I saw signs of him catching his rhythm and getting his burst back. Like I said, I think the extra motivation of playing in the Garden always helps.",
+      "text_blocks": [],
+      "start_seconds": 379,
+      "end_seconds": 402,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on James: I saw signs of him catching his rhythm and getting his burst back. I think the extra motivation of playing in the Garden always helps.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James"
+        ],
+        "teams": [
+          "CLE",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson comments on James' consistency and his tendency to perform well when playing at Madison Square Garden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "07:00",
+      "summary_phrase": "Kenny Atkinson on James' role as an IQ genius",
+      "names_mentioned": [
+        "James"
+      ],
+      "excerpt": "He's our super IQ genius that knows how to make the right play over and over.",
+      "quote": "He's our super IQ genius that knows how to make the right play over and over. So, it's not Houston James where we need that every night. We got enough other weapons.",
+      "text_blocks": [],
+      "start_seconds": 420,
+      "end_seconds": 432,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on James: He is our super IQ genius that knows how to make the right play over and over. It is not Houston James where we need that every night. We got enough other weapons.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises James' high basketball IQ and his ability to make the right plays within the team's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "YjPP72DCFRk",
+  "url": "https://www.youtube.com/watch?v=YjPP72DCFRk",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-12T04:06:57Z",
+  "duration_seconds": 451,
+  "processed_at": "2026-11-12T04:28:17Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

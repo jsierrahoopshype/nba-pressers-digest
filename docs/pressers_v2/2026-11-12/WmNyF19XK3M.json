@@ -1,0 +1,352 @@
+{
+  "video_title": "Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards | Postgame Media Availability",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Ivica Zubac",
+    "Pascal Siakam"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:33",
+      "summary_phrase": "Aaron Nesmith's injury status following the game against the Wizards",
+      "names_mentioned": [
+        "Aaron Nesmith"
+      ],
+      "excerpt": "the hope is that it's minor. It's likely he'll be listed day-to-day.",
+      "quote": "Aaron Nesmith went out of the game, he had some tightness in the back of his knee. The hope is that it's minor. It's likely he'll be listed day-to-day, so we'll see.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 2,
+      "social_post": "Rick Carlisle says Aaron Nesmith is day-to-day after exiting tonight's game with tightness in the back of his knee. The team hopes the injury is minor.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Nesmith"
+        ],
+        "teams": [
+          "IND",
+          "WAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle provides an update on Aaron Nesmith after he left the game against the Wizards with knee tightness.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:01",
+      "summary_phrase": "Pascal Siakam's impactful performance in the win over the Wizards",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "this was certainly Pascal Siakam's best game. He just showed the kind of value he can bring.",
+      "quote": "This was certainly Pascal Siakam's best game. He just showed the kind of value that he can bring to this team. His intensity was terrific. Defensively, he was solid. The steals that he got were born of being in the correct position in our system, and he did a lot of great things and had some great loose ball plays.",
+      "text_blocks": [],
+      "start_seconds": 61,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rick Carlisle praised Pascal Siakam after tonight's win calling it his best game yet. Carlisle noted Siakam's defensive intensity and ability to be in the correct position within the system.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle evaluates Pascal Siakam's performance following the team's victory over the Washington Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:12",
+      "summary_phrase": "Ivica Zubac's development and role as a force in the paint",
+      "names_mentioned": [
+        "Ivica Zubac"
+      ],
+      "excerpt": "we need him to be a force in the restricted area.",
+      "quote": "Ivica Zubac is showing a will, he's imposing a will on the game. We've been showing him things, Jim works with the big guys, Jim's been working with him on some footwork stuff. We need him to be a force in the restricted area, and not just catching the ball and finishing, but also on the boards, second chance opportunities, all that stuff.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 216,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on Ivica Zubac: We need him to be a force in the restricted area, not just catching and finishing, but also on the boards and second chance opportunities.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the development of Ivica Zubac and the specific areas of his game the coaching staff is focusing on.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ivica Zubac",
+      "timestamp": "08:05",
+      "summary_phrase": "Impact of depth and contributions from players like Jalen Smith and Aaron Nesmith",
+      "names_mentioned": [
+        "Jalen Smith",
+        "Aaron Nesmith"
+      ],
+      "excerpt": "that everyone can play. Everyone deserves to play. Sometimes it's hard to get everyone on the court.",
+      "quote": "That everyone can play. Everyone deserves to play. Sometimes it's hard to get everyone on the court, but this team, coach will play a lot of guys during the game, so you always got to be ready.",
+      "text_blocks": [],
+      "start_seconds": 485,
+      "end_seconds": 499,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ivica Zubac on the Pacers rotation: Everyone can play. Everyone deserves to play. Sometimes it is hard to get everyone on the court, but you always have to be ready.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Smith",
+          "Aaron Nesmith"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Ivica Zubac discusses the depth of the roster and the importance of being ready to play under coach Rick Carlisle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ivica Zubac",
+      "timestamp": "08:30",
+      "summary_phrase": "Ivica Zubac's offensive strategy and focus on being aggressive",
+      "names_mentioned": [
+        "Ivica Zubac"
+      ],
+      "excerpt": "just kind of being big. We've been emphasizing about me ducking in and rolling all the way.",
+      "quote": "Just kind of being big. We've been emphasizing about me ducking in and rolling all the way, that how that pulls in a lot of guys. Tonight it worked out. I was on the offensive glass, I was being big, I was trying to be aggressive, so it worked out well.",
+      "text_blocks": [],
+      "start_seconds": 510,
+      "end_seconds": 530,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ivica Zubac on his offensive approach: We have been emphasizing me ducking in and rolling all the way to pull in defenders. Tonight it worked out.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Ivica Zubac explains his offensive strategy and focus on being aggressive in the paint during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ivica Zubac",
+      "timestamp": "09:28",
+      "summary_phrase": "Ivica Zubac's perspective on Rick Carlisle's coaching style and adjustments",
+      "names_mentioned": [
+        "Rick Carlisle"
+      ],
+      "excerpt": "the way he adjusts from game to game. Every game he sees something new.",
+      "quote": "The way he adjusts from game to game. Every game he sees something new and before the next game he's going to put in a bunch of new concepts that will make us better. So every game is a learning experience and we just got to stick with it.",
+      "text_blocks": [],
+      "start_seconds": 568,
+      "end_seconds": 587,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ivica Zubac on Rick Carlisle: Every game he sees something new and before the next game he is going to put in a bunch of new concepts that will make us better.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rick Carlisle"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ivica Zubac shares his perspective on how Rick Carlisle adjusts his coaching and game plans from one game to the next.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ivica Zubac",
+      "timestamp": "10:32",
+      "summary_phrase": "Ivica Zubac's ongoing recovery and adjustment to the team's system",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "starting off the season with an injury and guys get used to playing without you.",
+      "quote": "Starting off the season with an injury and guys get used to playing without you, so you got to slowly get back into it and figure out the way how you can complement everyone on the floor without disrupting too much. It's a work in progress and we're missing Tyrese Haliburton, who is one of the best offensive engines in the league, so it takes a lot of adjusting when he's not out there.",
+      "text_blocks": [],
+      "start_seconds": 632,
+      "end_seconds": 660,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ivica Zubac on adjusting to the lineup: It is a work in progress and we are missing Tyrese Haliburton, who is one of the best offensive engines in the league, so it takes a lot of adjusting when he is not out there.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ivica Zubac discusses his recovery from an early-season injury and the adjustments needed while Tyrese Haliburton is sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Pascal Siakam",
+      "timestamp": "16:56",
+      "summary_phrase": "Pascal Siakam's focus on consistency and routine with free throws",
+      "names_mentioned": [],
+      "excerpt": "it's all about the routine of everything and making sure that you consistent with that.",
+      "quote": "It's all about the routine of everything and making sure that you consistent with that and live with the results.",
+      "text_blocks": [],
+      "start_seconds": 1016,
+      "end_seconds": 1024,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Pascal Siakam on his free throw shooting: It is all about the routine of everything and making sure that you are consistent with that and live with the results.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Pascal Siakam explains his approach to maintaining consistency with his free throw routine.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Pascal Siakam",
+      "timestamp": "17:17",
+      "summary_phrase": "Integrating Ivica Zubac into the team's offensive flow",
+      "names_mentioned": [
+        "Ivica Zubac",
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "as a guy like him that's such a force and is dominant in the paint.",
+      "quote": "As a guy like him that's such a force and is dominant in the paint, sometimes we can neglect how dominant he is. I think that the past couple of games we put a lot of emphasis on just knowing how to use his presence and making sure that we use him properly. And as a guy that's coming in in a new team trying to figure it out, I was in that position and trying to figure out my game.",
+      "text_blocks": [],
+      "start_seconds": 1037,
+      "end_seconds": 1068,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Pascal Siakam on integrating Ivica Zubac: As a guy that is such a force and is dominant in the paint, sometimes we can neglect how dominant he is. We put a lot of emphasis on knowing how to use his presence.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pascal Siakam discusses the team's effort to better utilize Ivica Zubac's dominant presence in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Pascal Siakam",
+      "timestamp": "18:24",
+      "summary_phrase": "Pascal Siakam on the benefits of running pick-and-roll with Ivica Zubac",
+      "names_mentioned": [
+        "Ivica Zubac"
+      ],
+      "excerpt": "I believe that I'm dynamic in terms of what I can do out there.",
+      "quote": "I believe that I'm dynamic in terms of what I can do out there, and obviously the switch, his advantage in the paint is always important. So I think we can, we have a good thing going and we got to continue to exploit that. I'm learning to play with him and he's such a different player and to me I love the challenge of just trying to figure out how we can all like make each other better.",
+      "text_blocks": [],
+      "start_seconds": 1104,
+      "end_seconds": 1134,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Pascal Siakam on his chemistry with Ivica Zubac: I believe that I am dynamic and his advantage in the paint is always important. I love the challenge of trying to figure out how we can all make each other better.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pascal Siakam describes the process of learning to play with Ivica Zubac and exploiting their pick-and-roll chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "WmNyF19XK3M",
+  "url": "https://www.youtube.com/watch?v=WmNyF19XK3M",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-12T03:44:11Z",
+  "duration_seconds": 1251,
+  "processed_at": "2026-11-12T04:28:37Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,211 @@
+{
+  "video_title": "Nate Ament Postgame Media Availability | 11.11.26",
+  "speakers_seen": [
+    "Nate Ament"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nate Ament",
+      "timestamp": "00:16",
+      "summary_phrase": "Nate Ament on his reaction to his first career start",
+      "names_mentioned": [],
+      "excerpt": "I wasn't expecting it to be honest. During pregame film they were switching it up.",
+      "quote": "I wasn't expecting it to be honest. During pregame film they were switching it up and I was in the starting lineup, so it was good, exciting. Obviously didn't get the outcome we wanted, but I think our team is taking steps in the right direction. We're improving game by game and we've had a tough schedule. Not to make any excuses, but it's going to be ebbs and flows and we've just got to stay together throughout it all.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Nate Ament says he was not expecting to get his first career start until he saw the pregame film. He added that despite the loss, he believes the team is taking steps in the right direction.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament discusses his reaction to learning he would be in the starting lineup for the first time during pregame film.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nate Ament",
+      "timestamp": "01:10",
+      "summary_phrase": "Nate Ament on his defensive focus and physical development",
+      "names_mentioned": [
+        "Coach Taylor"
+      ],
+      "excerpt": "Me and Coach Taylor are on the same boat trying to make it tough for me.",
+      "quote": "Me and Coach Taylor are on the same boat trying to make it tough for me, trying to guard the better players with my length and athleticism. There's no reason I shouldn't. I think it's just going to be beneficial for my career, for the team, and where we're heading in the future.",
+      "verbatim_original_language": "",
+      "start_seconds": 70,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Nate Ament says he and Coach Taylor are working on using his length and athleticism to guard the league's better players. He believes the defensive challenge will be beneficial for his career and the team future.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament explains his defensive development and working with his coach on guarding better players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nate Ament",
+      "timestamp": "01:50",
+      "summary_phrase": "Nate Ament on the marginal nature of winning in the NBA",
+      "names_mentioned": [],
+      "excerpt": "It's really hard to win in the NBA. Teams and players are so good.",
+      "quote": "It's really hard to win in the NBA. Teams and players are so good and it's really very, very marginal. The little things are going to get us to win: how fast you're moving the ball, your box outs, stuff like that. Because we are giving our effort and it's never about that, but it's very marginal to get wins in this league.",
+      "verbatim_original_language": "",
+      "start_seconds": 110,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nate Ament on the difficulty of winning in the NBA: It is really hard to win. The league is very marginal and it comes down to the little things like how fast you move the ball and your box outs.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament reflects on the difficulty of winning in the NBA and the importance of focusing on small details.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nate Ament",
+      "timestamp": "02:29",
+      "summary_phrase": "Nate Ament on his preparation for guarding Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Taylor"
+      ],
+      "excerpt": "I try to be as prepared as I can. You don't really get it until you're on the court.",
+      "quote": "I try to be as prepared as I can. You don't really get it until you're on the court, but I try to watch as much film as I can. Obviously they send us edits and our video guys send us tendencies and stuff like that, but I try to be as locked into that as I can just so that when I get on the court, there's not really as many surprises.",
+      "verbatim_original_language": "",
+      "start_seconds": 149,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nate Ament discusses his preparation for guarding Luka Doncic, noting that he tries to watch as much film as possible to ensure there are not many surprises when he gets on the court.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "MIL",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Nate Ament describes his preparation process for guarding Luka Doncic through film study and scouting reports.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nate Ament",
+      "timestamp": "03:03",
+      "summary_phrase": "Nate Ament on the team's process-oriented approach despite losses",
+      "names_mentioned": [
+        "Taylor"
+      ],
+      "excerpt": "For us, it's just staying process-oriented. Coach Taylor talks about it a lot.",
+      "quote": "For us, it's just staying process-oriented. Coach Taylor talks about it a lot, not focusing on the score or the outcome, but each possession and our process to achieving what we want to achieve on offense, on defense, and how seriously we take each possession.",
+      "verbatim_original_language": "",
+      "start_seconds": 183,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nate Ament says the Bucks are staying process oriented under Coach Taylor, focusing on each possession rather than the final score or outcome.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament explains the team's focus on a process-oriented approach as emphasized by his coach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nate Ament",
+      "timestamp": "03:36",
+      "summary_phrase": "Nate Ament on learning from guarding elite offensive players",
+      "names_mentioned": [
+        "Jalen Brunson",
+        "KD"
+      ],
+      "excerpt": "I've seen a bunch of different players from Jalen Brunson to KD.",
+      "quote": "I've seen a bunch of different players from Jalen Brunson to KD. I think what's synonymous and similar with all of them is just the force they play with, the strength they play with on offense, so I've been trying to come with that same force and physicality. Also just their decision-making, how quick they make decisions, how well they know themselves, their team, and what they're trying to accomplish. I've been in enough games where I know where we're trying to accomplish as a team and where my shots are going to come from, so just those quick decisions. I'm still learning, I'm still trying to figure it out as well, where I can be more aggressive and where I need to make the right play.",
+      "verbatim_original_language": "",
+      "start_seconds": 216,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Nate Ament on guarding stars like KD and Jalen Brunson: The thing synonymous with all of them is the force and strength they play with. He says he is trying to bring that same physicality to his own game.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson",
+          "Kevin Durant"
+        ],
+        "teams": [
+          "MIL",
+          "NYK",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Nate Ament discusses what he has learned about physicality and decision-making from guarding elite players like Jalen Brunson and Kevin Durant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4-YZQDn8Wx0",
+  "url": "https://www.youtube.com/watch?v=4-YZQDn8Wx0",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-12T04:17:29Z",
+  "duration_seconds": 261,
+  "processed_at": "2026-11-12T04:28:00Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

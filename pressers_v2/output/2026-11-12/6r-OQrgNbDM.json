@@ -1,0 +1,196 @@
+{
+  "video_title": "Ja'Kobe Walter | Post Game vs  Boston Celtics | November 11, 2026",
+  "speakers_seen": [
+    "Ja'Kobe Walter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "00:09",
+      "summary_phrase": "Ja'Kobe Walter on his aggressive three-point shooting approach",
+      "names_mentioned": [],
+      "excerpt": "just shooting it with confidence, knowing that every shot I shoot I'm trying to make it.",
+      "quote": "Just shooting it with confidence, knowing that every shot I shoot I'm trying to make it. My teammates were finding me, they were telling me to shoot it, make sure I don't pass up no shots, so that definitely gives you confidence when you're shooting it.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ja Kobe Walter says his teammates are encouraging him to stay aggressive and keep shooting with confidence. He says they are telling him to make sure he does not pass up any shots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ja'Kobe Walter discusses his mindset regarding his three-point shooting performance during the post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "00:30",
+      "summary_phrase": "Ja'Kobe Walter explains the Raptors' second-half offensive struggles",
+      "names_mentioned": [],
+      "excerpt": "we just didn't start at that same note. We definitely could have done a better job.",
+      "quote": "First quarter we was definitely getting the ball moving more in transition, we was getting stops and getting out. We came out second half, we just didn't start at that same note. We definitely could have done a better job of getting the ball around, continue to play hard. It started on defense for us too. Defense for us is a lot, when we get stops, we want to be the top teams out and getting transition, so we stopped doing that and that kind of affected the way we was playing.",
+      "verbatim_original_language": "",
+      "start_seconds": 30,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ja Kobe Walter says the Raptors struggled in the second half because they stopped getting stops on defense and failed to push the pace in transition like they did early on.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter explains the factors behind the Raptors' offensive struggles in the second half against the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "01:12",
+      "summary_phrase": "Ja'Kobe Walter on the final inbound play execution",
+      "names_mentioned": [],
+      "excerpt": "we were just trying to get a shot. Trying to get an open shot.",
+      "quote": "We were just trying to get a shot. Trying to get an open shot. We still have 15 seconds, we were trying to find Quick on the flare right there. It's a tough pass, tough play to make, trying to find it all the way across the court. I don't think there was no real miscommunication, I just think it's a tough pass, tough play to make, and we just got to work on our end-of-game situations.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ja Kobe Walter on the final inbound play that went wrong. He says it was just a tough pass to make and not a result of miscommunication.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ja'Kobe Walter breaks down the execution of the final inbound play and the attempt to get the ball to Immanuel Quickley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "01:48",
+      "summary_phrase": "Ja'Kobe Walter on maintaining focus after a tough loss",
+      "names_mentioned": [],
+      "excerpt": "the blessing about the NBA is you always got another game.",
+      "quote": "The blessing about the NBA is you always got another game, the next day or the day after that. You can't really dwell on any games, just watch the film quickly, but at the end of the day we got to move on. We know we got a tough task ahead of us, so we're just trying to focus on them, lock in on the scout, lock in on the film, and just forget about this game after the film.",
+      "verbatim_original_language": "",
+      "start_seconds": 108,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ja Kobe Walter says the blessing of the NBA schedule is that you always have another game coming up quickly so you cannot dwell on a tough loss.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter discusses the team's approach to moving past a difficult loss and preparing for the next opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "02:21",
+      "summary_phrase": "Ja'Kobe Walter on managing fatigue while playing short-handed",
+      "names_mentioned": [],
+      "excerpt": "up in minutes for anybody is definitely going to be tougher trying to adapt to that.",
+      "quote": "Up in minutes for anybody is definitely going to be tougher trying to adapt to that, especially the way that we play. We play offense defensively, we try to play with pace, play hard, so it definitely is something that you got to play through. I think our bodies are adapting pretty well, we're just getting to recovery and getting ready for that next game.",
+      "verbatim_original_language": "",
+      "start_seconds": 141,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ja Kobe Walter says playing heavy minutes while short handed is tough but he believes the team is adapting well to the physical demands.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter addresses how the team is managing increased minutes and fatigue while playing with a short-handed roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "02:52",
+      "summary_phrase": "Ja'Kobe Walter on the frustration of blowing a 20-point lead",
+      "names_mentioned": [],
+      "excerpt": "we had a lead, we was up what, 20? We had a good lead and we blew the lead.",
+      "quote": "It's definitely the tough ones where you feel like you beat yourself. We don't want to not give them credit, they were hitting shots, they were playing hard as well, but we had a lead, we was up what, 20? We had a good lead and we blew the lead. We can't do that. It's tough to, we need to figure out how to play with a lead, we can't stop playing the way that we were just because we're up. It's definitely tough to know that we kind of beat ourselves on this one, but we just got to learn from it.",
+      "verbatim_original_language": "",
+      "start_seconds": 172,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Ja Kobe Walter admits the Raptors beat themselves after blowing a 20 point lead against Boston. He says the team needs to figure out how to keep playing the right way even when they are ahead.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter reflects on the frustration of losing a 20-point lead in the game against the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "6r-OQrgNbDM",
+  "url": "https://www.youtube.com/watch?v=6r-OQrgNbDM",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-12T03:42:54Z",
+  "duration_seconds": 208,
+  "processed_at": "2026-11-12T04:28:46Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

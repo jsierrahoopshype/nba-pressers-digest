@@ -1,0 +1,135 @@
+{
+  "video_title": "Jaime Jaquez Jr. Postgame Media Availability | 11.11.26",
+  "speakers_seen": [
+    "Jaime Jaquez Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:06",
+      "summary_phrase": "Jaime Jaquez Jr. on his role coming off the bench",
+      "names_mentioned": [],
+      "excerpt": "I just try to do what I can to help this team in any way possible",
+      "quote": "I just try to do what I can to help this team in any way possible, whether that's starting, coming off the bench, just trying to jumpstart something for this team. Coach told me he felt like we needed some help on the bench and he thought I could fit there, so that's what we did tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jaime Jaquez Jr. says he is embracing his new role coming off the bench to help jumpstart the team after a conversation with his coach.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jaime Jaquez Jr. explains his transition to a bench role following a conversation with his head coach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:35",
+      "summary_phrase": "Jaime Jaquez Jr. on maintaining team chemistry during losing streak",
+      "names_mentioned": [],
+      "excerpt": "Teams are going to hit turmoil throughout the season. It's just going to happen",
+      "quote": "For us, it's just understanding that these tough times is the most important. Teams are going to hit turmoil throughout the season. It's just going to happen. For us, it's starting early. We got to understand that the season is very long, we got a lot more games to play, and there's good things happening. As much as we want to focus on the wins and losses, we think we got to start focusing on the details and the process of each game.",
+      "verbatim_original_language": "",
+      "start_seconds": 35,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaime Jaquez Jr. on the team navigating their current losing streak: We have to stop focusing on the wins and losses and start focusing on the details and the process of each game.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses how the team is handling their current losing streak and maintaining focus on the season process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:53",
+      "summary_phrase": "Jaime Jaquez Jr. on improving team rebounding and second-chance points",
+      "names_mentioned": [],
+      "excerpt": "Just be better rebounding. I think just got to hit guys earlier, just grab the ball",
+      "quote": "Just be better rebounding. I think just got to hit guys earlier, just grab the ball and don't fumble it.",
+      "verbatim_original_language": "",
+      "start_seconds": 113,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jaime Jaquez Jr. on the team's rebounding struggles: We just have to be better. We have to hit guys earlier and grab the ball.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. identifies areas for improvement regarding the team's rebounding performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "02:12",
+      "summary_phrase": "Jaime Jaquez Jr. on the value of playing time for rookies",
+      "names_mentioned": [],
+      "excerpt": "For them to get this experience early on is definitely going to be beneficial",
+      "quote": "I think it's great for them to get in this action early. We've been playing a lot of really good teams as well, tough opponents. For them to get this experience early on is definitely going to be beneficial when we get down the road into February, March, and April.",
+      "verbatim_original_language": "",
+      "start_seconds": 132,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaime Jaquez Jr. believes the early experience the rookies are getting against tough opponents will be beneficial for the team down the road in March and April.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. comments on the importance of early playing time for the team's rookie players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "0idft1CR3wc",
+  "url": "https://www.youtube.com/watch?v=0idft1CR3wc",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-12T04:18:46Z",
+  "duration_seconds": 161,
+  "processed_at": "2026-11-12T04:27:57Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

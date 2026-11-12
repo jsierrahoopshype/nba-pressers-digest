@@ -1,0 +1,138 @@
+{
+  "video_title": "Allen Graves | Post Game vs  Boston Celtics | November 11, 2026",
+  "speakers_seen": [
+    "Allen Graves"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Allen Graves",
+      "timestamp": "00:10",
+      "summary_phrase": "Allen Graves on his aggressive mindset for offensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "I feel like offensive rebounding is just you wanting to do it. I feel like that's the biggest part.",
+      "quote": "I've always said it, I feel like offensive rebounding is just you wanting to do it. I feel like that's the biggest part about it, is your mindset about it. And I feel like for me, my mindset is go get every offensive rebound I can. So, whether that's being physical, trying to get around the guy, whatever it may be, whatever the defense is giving me, just try to make sure that I impact the ball, get a hand on it, do something to where we have an extra chance or an extra possession in that case to try to score.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Allen Graves says offensive rebounding is all about mindset. He says his goal is to go get every board he can to give the Raptors extra possessions.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Allen Graves discusses his personal approach and mindset regarding offensive rebounding after a game against the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Allen Graves",
+      "timestamp": "00:51",
+      "summary_phrase": "Allen Graves on maintaining defensive intensity despite foul trouble",
+      "names_mentioned": [],
+      "excerpt": "My mindset is not going to change as far as my aggressiveness on defense.",
+      "quote": "I just want to make sure that I'm playing the same no matter what, no matter what anybody is doing. I want to make sure that I'm having the same game. My mindset is not going to change as far as my aggressiveness on defense because that's our Raptors, that's what we build our culture on, is on the defensive side of the ball. So making sure that I'm upholding that culture and doing my best, whether I'm fouling or whether I'm not, I mean, I'm going to play my game.",
+      "text_blocks": [],
+      "start_seconds": 51,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Allen Graves says he refuses to change his aggressive defensive style despite foul trouble. He wants to keep upholding the Raptors culture on the defensive end.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Allen Graves explains his commitment to maintaining defensive intensity despite dealing with foul trouble during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Allen Graves",
+      "timestamp": "01:21",
+      "summary_phrase": "Allen Graves on adjusting to officiating and defensive assignments",
+      "names_mentioned": [
+        "Jason Tatum"
+      ],
+      "excerpt": "I'm figuring it all out, when I'm on Jason Tatum or when I'm on somebody else.",
+      "quote": "In a way, this rookie season I'm figuring it all out, when I'm on Jason Tatum or when I'm on somebody else, just figuring out who gets what calls. Just trying to figure it out.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Raptors rookie Allen Graves says he is still figuring out officiating tendencies while guarding stars like Jayson Tatum.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "TOR",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Allen Graves discusses the challenges of adjusting to officiating and defensive assignments against players like Jayson Tatum during his rookie season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Allen Graves",
+      "timestamp": "01:45",
+      "summary_phrase": "Allen Graves on the Raptors organization building his shooting confidence",
+      "names_mentioned": [],
+      "excerpt": "This whole organization, they've just built my confidence game by game and just continuing to trust in me.",
+      "quote": "Obviously, coming into this game, I wasn't shooting the best percentages as far as on the three-point line. And that's what I credit the Raptors too. I mean, this whole organization, they've just built my confidence game by game and just continuing to trust in me. And I feel like that belief is what fuels me day in and day out. It's their belief in me, just knowing that I want to go out there and play as hard as I can. That's why, back to that question, just playing aggressive throughout the whole process is just because they believe in me, and because they've instilled the confidence in me to where, if I miss a shot, I know I'm going to shoot the next one.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Allen Graves credits the Raptors organization for building his shooting confidence. He says their belief in him allows him to keep shooting even after a miss.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Allen Graves credits the Raptors organization for building his confidence and supporting his shooting development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "uhSpF8iK8gU",
+  "url": "https://www.youtube.com/watch?v=uhSpF8iK8gU",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-12T03:43:04Z",
+  "duration_seconds": 149,
+  "processed_at": "2026-11-12T04:28:36Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

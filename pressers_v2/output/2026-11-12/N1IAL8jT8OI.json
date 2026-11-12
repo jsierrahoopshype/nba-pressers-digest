@@ -1,0 +1,227 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.11.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:09",
+      "summary_phrase": "Taylor Jenkins on inserting Jaime into the bench unit",
+      "names_mentioned": [
+        "Jaime"
+      ],
+      "excerpt": "the biggest one was inserting Jaime into the bench unit, that's been a struggle for us",
+      "quote": "The biggest one was inserting Jaime into the bench unit, that's been a struggle for us, second quarters. Obviously didn't get off to the best start, but I knew it was 48 minutes. I was hopeful that he was going to give us some pop, some stabilization there. Obviously had a really good night tonight scoring.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says he inserted Jaime into the bench unit to provide some pop and stabilization to the second quarter rotation.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaime"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins explains his decision to move Jaime into the bench unit to provide stabilization and scoring.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:12",
+      "summary_phrase": "Taylor Jenkins on team consistency and togetherness",
+      "names_mentioned": [
+        "Coo"
+      ],
+      "excerpt": "for this team to establish consistency there has to be that commitment to one another",
+      "quote": "Something Coo said the other night, he just emphasized that for this team to establish consistency there has to be that commitment to one another on both ends. We are definitely a work in progress when it comes to developing our identity and the togetherness and all that. But our guys have been engaged even through the rough moments the last couple of games despite the results.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says the team is still a work in progress as they look to develop their identity and togetherness.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's ongoing effort to build consistency and togetherness following recent game results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:35",
+      "summary_phrase": "Taylor Jenkins on Ryan's eye injury status",
+      "names_mentioned": [
+        "Ryan"
+      ],
+      "excerpt": "Ryan had a good cut, got stitches, doesn't seem like there's any symptoms",
+      "quote": "Ryan had a good cut, got stitches, doesn't seem like there's any symptoms. We'll see how he wakes up. Obviously monitor, anytime there's a head-to-head, medical team's on top of it, but he said he was fine after the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 155,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins says Ryan is being monitored for a head injury after receiving stitches for a cut tonight.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Taylor Jenkins provides an update on Ryan's status after he sustained a cut requiring stitches during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:52",
+      "summary_phrase": "Taylor Jenkins on Nate's defensive impact as a starter",
+      "names_mentioned": [
+        "Jaime",
+        "Nate",
+        "Reeves"
+      ],
+      "excerpt": "wanted to play a little bit bigger, I know I've got a couple of options",
+      "quote": "Wanted to play a little bit bigger, I know I've got a couple of options to do that. This is his first start to get this type of matchup. He was on Reeves to start. I think he's going to build on this for sure. He's resilient, he's steady. He's been playing the right way on offense, been playing with force, been shooting the ball well. He just didn't get enough of the shots. Defensively, it's going to be a great challenge every single night.",
+      "verbatim_original_language": "",
+      "start_seconds": 172,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins on Nate starting tonight: He is resilient and steady and will continue to build on this defensive challenge.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nate",
+          "Reeves"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins discusses Nate's performance and defensive assignment against Reeves in his first start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:11",
+      "summary_phrase": "Taylor Jenkins on managing Usman's rotation minutes",
+      "names_mentioned": [
+        "Usman",
+        "J-Rock",
+        "Gary"
+      ],
+      "excerpt": "Usman's approach, he's been in our play groups out of the rotation",
+      "quote": "Usman's approach, he's been in our play groups out of the rotation. I've challenged that group, or coaches have challenged those guys to stay ready. I think he's doing well, J-Rock's doing well, Gary's doing well. I'm sorting through all these things right now. He was doing some things defensively, some forceful plays on the offensive side, trying to find another guy that's got size that can maybe playmake so we're not always having our guards having to face all that pressure all the time.",
+      "verbatim_original_language": "",
+      "start_seconds": 251,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says he is still sorting through rotation minutes to find more size and playmaking on the floor.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Usman",
+          "J-Rock",
+          "Gary"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins addresses the rotation status of Usman and other players while looking for additional size and playmaking.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "05:40",
+      "summary_phrase": "Taylor Jenkins on addressing second-chance points",
+      "names_mentioned": [
+        "Jake LaRavia"
+      ],
+      "excerpt": "the immediate fix is just a willingness to go hit more",
+      "quote": "The immediate fix is just a willingness to go hit more. I think size is playing a role there for sure. Guys aren't always just coming down with it. I felt like in the New York game their bigs were coming down with a lot of them. Tonight there was more even tap-outs. We've got Jake LaRavia to his credit crashing, getting seven offensive rebounds, that's going to hurt you. We dive into the personnel, we show them the film, we just got a better commitment there. We got to be the first team to hit.",
+      "verbatim_original_language": "",
+      "start_seconds": 340,
+      "end_seconds": 377,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says the fix for second chance points is a better commitment to hitting the glass and being the first team to hit.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jake LaRavia"
+        ],
+        "teams": [
+          "MIL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's need to improve rebounding and defensive commitment after facing New York.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "N1IAL8jT8OI",
+  "url": "https://www.youtube.com/watch?v=N1IAL8jT8OI",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-12T04:08:05Z",
+  "duration_seconds": 440,
+  "processed_at": "2026-11-12T04:28:00Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}
