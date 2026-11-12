@@ -12,7 +12,17 @@ From: [Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards \| P
 
 <small>[Clip it](presserclips://clip?v=WmNyF19XK3M&t=33&q=1) · [Send to Slack](presserclips://clip?v=WmNyF19XK3M&t=33&q=1&slack=1)</small>
 
-**2. Tyler Herro — "My main goal is to be out there every single night and play as many games as possible." — Tyler Herro on his knee injury and recovery process** [00:16](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
+**2. Taylor Jenkins — "Ryan had a good cut, got stitches, doesn't seem like there's any symptoms" — Taylor Jenkins on Ryan's eye injury status** [02:35](https://www.youtube.com/watch?v=N1IAL8jT8OI&t=155s)
+
+Taylor Jenkins: "**Ryan** had a good cut, got stitches, doesn't seem like there's any symptoms. We'll see how he wakes up. Obviously monitor, anytime there's a head-to-head, medical team's on top of it, but he said he was fine after the game."
+
+[https://www.youtube.com/watch?v=N1IAL8jT8OI&t=155s](https://www.youtube.com/watch?v=N1IAL8jT8OI&t=155s)
+
+From: [Taylor Jenkins Postgame Press Conference \| 11.11.26](https://www.youtube.com/watch?v=N1IAL8jT8OI) · *Milwaukee Bucks*
+
+<small>[Clip it](presserclips://clip?v=N1IAL8jT8OI&t=155&q=3) · [Send to Slack](presserclips://clip?v=N1IAL8jT8OI&t=155&q=3&slack=1)</small>
+
+**3. Tyler Herro — "My main goal is to be out there every single night and play as many games as possible." — Tyler Herro on his knee injury and recovery process** [00:16](https://www.youtube.com/watch?v=vZXq7Q0-Eyo&t=16s)
 
 Tyler Herro: "It was a scary fall. I was thinking scared more than anything. I think it was a bone contusion, but I took a day off yesterday, did around the clock treatment, and got right. My main goal is to be out there every single night and play as many games as possible. So it was important for me to come back tonight."
 
@@ -22,7 +32,7 @@ From: [Tyler Herro Postgame Media Availability \| 11.11.26](https://www.youtube.
 
 <small>[Clip it](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1) · [Send to Slack](presserclips://clip?v=vZXq7Q0-Eyo&t=16&q=1&slack=1)</small>
 
-**3. Ja'Kobe Walter — "we had a lead, we was up what, 20? We had a good lead and we blew the lead." — Ja'Kobe Walter on the frustration of blowing a 20-point lead** [02:52](https://www.youtube.com/watch?v=6r-OQrgNbDM&t=172s)
+**4. Ja'Kobe Walter — "we had a lead, we was up what, 20? We had a good lead and we blew the lead." — Ja'Kobe Walter on the frustration of blowing a 20-point lead** [02:52](https://www.youtube.com/watch?v=6r-OQrgNbDM&t=172s)
 
 Ja'Kobe Walter: "It's definitely the tough ones where you feel like you beat yourself. We don't want to not give them credit, they were hitting shots, they were playing hard as well, but we had a lead, we was up what, 20? We had a good lead and we blew the lead. We can't do that. It's tough to, we need to figure out how to play with a lead, we can't stop playing the way that we were just because we're up. It's definitely tough to know that we kind of beat ourselves on this one, but we just got to learn from it."
 
@@ -32,7 +42,17 @@ From: [Ja'Kobe Walter \| Post Game vs  Boston Celtics \| November 11, 2026](http
 
 <small>[Clip it](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6) · [Send to Slack](presserclips://clip?v=6r-OQrgNbDM&t=172&q=6&slack=1)</small>
 
-**4. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
+**5. Desmond Bane — "He's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard." — Desmond Bane on the growth and confidence of Franz Wagner** [05:06](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
+
+Desmond Bane: "Exactly who he's been. I mean he's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard. He's grown so much. You know I've only been here two years, but or a year and however long it's been, but he consistently is getting better and you can see his confidence growing in a lot of different areas. So he's playing he's playing extremely well for us."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
+
+From: [POSTGAME SOUND: ORLANDO MAGIC VS. UTAH JAZZ \| COACH SWEENEY, FRANZ WAGNER & DESMOND BANE](https://www.youtube.com/watch?v=i73TM-TqFO8) · *Orlando Magic*
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=306&q=7) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=306&q=7&slack=1)</small>
+
+**6. Jaime Jaquez Jr. — "I just try to do what I can to help this team in any way possible" — Jaime Jaquez Jr. on his role coming off the bench** [00:06](https://www.youtube.com/watch?v=0idft1CR3wc&t=6s)
 
 Jaime Jaquez Jr.: "I just try to do what I can to help this team in any way possible, whether that's starting, coming off the bench, just trying to jumpstart something for this team. Coach told me he felt like we needed some help on the bench and he thought I could fit there, so that's what we did tonight."
 
@@ -42,7 +62,7 @@ From: [Jaime Jaquez Jr. Postgame Media Availability \| 11.11.26](https://www.you
 
 <small>[Clip it](presserclips://clip?v=0idft1CR3wc&t=6&q=1) · [Send to Slack](presserclips://clip?v=0idft1CR3wc&t=6&q=1&slack=1)</small>
 
-**5. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
+**7. Nate Ament — "I wasn't expecting it to be honest. During pregame film they were switching it up." — Nate Ament on his reaction to his first career start** [00:16](https://www.youtube.com/watch?v=4-YZQDn8Wx0&t=16s)
 
 Nate Ament: "I wasn't expecting it to be honest. During pregame film they were switching it up and I was in the starting lineup, so it was good, exciting. Obviously didn't get the outcome we wanted, but I think our team is taking steps in the right direction. We're improving game by game and we've had a tough schedule. Not to make any excuses, but it's going to be ebbs and flows and we've just got to stay together throughout it all."
 
@@ -52,7 +72,17 @@ From: [Nate Ament Postgame Media Availability \| 11.11.26](https://www.youtube.c
 
 <small>[Clip it](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1) · [Send to Slack](presserclips://clip?v=4-YZQDn8Wx0&t=16&q=1&slack=1)</small>
 
-**6. Ivica Zubac — "starting off the season with an injury and guys get used to playing without you." — Ivica Zubac's ongoing recovery and adjustment to the team's system** [10:32](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
+**8. Brice Sensabaugh — "I've always been a microwave guy." — Brice Sensabaugh on his mindset when coming off the bench to shoot** [04:48](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
+
+Brice Sensabaugh: "For me, my mentality, I've always been a microwave guy. The pressure you put on yourself on the first one or the second one, especially if the first one doesn't go in, that usually makes it a little difficult. But you just got to let go. Whatever happens as a shooter, make sure your discipline is right and just put it up in the air and make sure it's not short and you just got to live with the results. I'm developing the ability to still impact the game if I'm not shooting the ball, and that's been my main focus this year."
+
+[https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
+
+From: [Brice Sensabaugh talks about good team chemistry, self-discipline, impact on the game vs. Orlando](https://www.youtube.com/watch?v=KE8GHwjtdwc) · *Utah Jazz*
+
+<small>[Clip it](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3) · [Send to Slack](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3&slack=1)</small>
+
+**9. Ivica Zubac — "starting off the season with an injury and guys get used to playing without you." — Ivica Zubac's ongoing recovery and adjustment to the team's system** [10:32](https://www.youtube.com/watch?v=WmNyF19XK3M&t=632s)
 
 Ivica Zubac: "Starting off the season with an injury and guys get used to playing without you, so you got to slowly get back into it and figure out the way how you can complement everyone on the floor without disrupting too much. It's a work in progress and we're missing **Tyrese Haliburton**, who is one of the best offensive engines in the league, so it takes a lot of adjusting when he's not out there."
 
@@ -62,15 +92,15 @@ From: [Rick Carlisle, Ivica Zubac & Pascal Siakam React to Win Over Wizards \| P
 
 <small>[Clip it](presserclips://clip?v=WmNyF19XK3M&t=632&q=7) · [Send to Slack](presserclips://clip?v=WmNyF19XK3M&t=632&q=7&slack=1)</small>
 
-**7. Allen Graves — "My mindset is not going to change as far as my aggressiveness on defense." — Allen Graves on maintaining defensive intensity despite foul trouble** [00:51](https://www.youtube.com/watch?v=uhSpF8iK8gU&t=51s)
+**10. Nikola Jokic — "He's playing really good since the beginning of the season and we just need to follow." — Nikola Jokic on Jamal Murray's strong play this season** [06:22](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
 
-Allen Graves: "I just want to make sure that I'm playing the same no matter what, no matter what anybody is doing. I want to make sure that I'm having the same game. My mindset is not going to change as far as my aggressiveness on defense because that's our Raptors, that's what we build our culture on, is on the defensive side of the ball. So making sure that I'm upholding that culture and doing my best, whether I'm fouling or whether I'm not, I mean, I'm going to play my game."
+Nikola Jokic: "He's playing really good since the beginning of the season and we just need to follow. He's really good for us. I think he's creating looks for everybody else and we just need to step up and follow him."
 
-[https://www.youtube.com/watch?v=uhSpF8iK8gU&t=51s](https://www.youtube.com/watch?v=uhSpF8iK8gU&t=51s)
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
 
-From: [Allen Graves \| Post Game vs  Boston Celtics \| November 11, 2026](https://www.youtube.com/watch?v=uhSpF8iK8gU) · *Toronto Raptors*
+From: [Full Denver Nuggets Postgame Media Availability vs. MEM 🎙](https://www.youtube.com/watch?v=_-ABczOtRHo) · *Denver Nuggets*
 
-<small>[Clip it](presserclips://clip?v=uhSpF8iK8gU&t=51&q=2) · [Send to Slack](presserclips://clip?v=uhSpF8iK8gU&t=51&q=2&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=382&q=5) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=382&q=5&slack=1)</small>
 
 ---
 
@@ -226,6 +256,40 @@ Ja'Kobe Walter: "It's definitely the tough ones where you feel like you beat you
 
 ---
 
+## Brice Sensabaugh talks about good team chemistry, self-discipline, impact on the game vs. Orlando — *Utah Jazz*
+
+Source: [https://www.youtube.com/watch?v=KE8GHwjtdwc](https://www.youtube.com/watch?v=KE8GHwjtdwc)
+
+_Speakers identified: Brice Sensabaugh_
+
+**1. Brice Sensabaugh — "We've been in good spirits. It's tough just because we're in a lot of these games." — Brice Sensabaugh on maintaining team chemistry despite recent close losses** [00:54](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=54s)
+
+Brice Sensabaugh: "We've been in good spirits. It's tough just because we're in a lot of these games, especially we've had some very good first halves, we've had some good fourth quarters, and I think we're in a spot where we just got to put it together. We got to figure out how to get 48 good minutes, and a lot of the times we're in these games, it just starts slipping away from us. We've had a pretty tough schedule with some teams with some playoff experience, and a lot of the times late in the game, the margin for error is very, very small."
+
+[https://www.youtube.com/watch?v=KE8GHwjtdwc&t=54s](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=54s)
+
+<small>[Clip it](presserclips://clip?v=KE8GHwjtdwc&t=54&q=1) · [Send to Slack](presserclips://clip?v=KE8GHwjtdwc&t=54&q=1&slack=1)</small>
+
+**2. Brice Sensabaugh — "The game of basketball is kind of like a big snowball effect." — Brice Sensabaugh on the team's fourth-quarter energy and momentum issues** [02:24](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=144s)
+
+**Unidentified reporter:** "**Wilson** said he felt that you guys had three quarters of good basketball and then he said that the energy dipped in the fourth."
+
+**Brice Sensabaugh:** "The game of basketball is kind of like a big snowball effect. If you get the ball moving on offense, your offense is going to be good. You hit shots, you get momentum, it's a snowball. Defense, if you give up a back cut, now you're in rotation, now they swing the ball a few times, now it's a snowball effect. So yeah, I think we just got to figure out a way to minimize our mistakes."
+
+[https://www.youtube.com/watch?v=KE8GHwjtdwc&t=144s](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=144s)
+
+<small>[Clip it](presserclips://clip?v=KE8GHwjtdwc&t=144&q=2) · [Send to Slack](presserclips://clip?v=KE8GHwjtdwc&t=144&q=2&slack=1)</small>
+
+**3. Brice Sensabaugh — "I've always been a microwave guy." — Brice Sensabaugh on his mindset when coming off the bench to shoot** [04:48](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
+
+Brice Sensabaugh: "For me, my mentality, I've always been a microwave guy. The pressure you put on yourself on the first one or the second one, especially if the first one doesn't go in, that usually makes it a little difficult. But you just got to let go. Whatever happens as a shooter, make sure your discipline is right and just put it up in the air and make sure it's not short and you just got to live with the results. I'm developing the ability to still impact the game if I'm not shooting the ball, and that's been my main focus this year."
+
+[https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s](https://www.youtube.com/watch?v=KE8GHwjtdwc&t=288s)
+
+<small>[Clip it](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3) · [Send to Slack](presserclips://clip?v=KE8GHwjtdwc&t=288&q=3&slack=1)</small>
+
+---
+
 ## Taylor Jenkins Postgame Press Conference | 11.11.26 — *Milwaukee Bucks*
 
 Source: [https://www.youtube.com/watch?v=N1IAL8jT8OI](https://www.youtube.com/watch?v=N1IAL8jT8OI)
@@ -279,6 +343,94 @@ Taylor Jenkins: "The immediate fix is just a willingness to go hit more. I think
 [https://www.youtube.com/watch?v=N1IAL8jT8OI&t=340s](https://www.youtube.com/watch?v=N1IAL8jT8OI&t=340s)
 
 <small>[Clip it](presserclips://clip?v=N1IAL8jT8OI&t=340&q=6) · [Send to Slack](presserclips://clip?v=N1IAL8jT8OI&t=340&q=6&slack=1)</small>
+
+---
+
+## YouTube title: Will Hardy talks about continuing to fight to focus, building a good foundation vs Orlando — *Utah Jazz*
+
+Source: [https://www.youtube.com/watch?v=TC1xcBcDb50](https://www.youtube.com/watch?v=TC1xcBcDb50)
+
+_Speakers identified: Will Hardy_
+
+**1. Will Hardy — "We've got to keep fighting for our focus to to try to maintain it." — Will Hardy on the team's need to maintain focus and energy** [00:00](https://www.youtube.com/watch?v=TC1xcBcDb50&t=0s)
+
+Will Hardy: "There's a lot of good basketball being played. We've got to keep fighting for our focus to try to maintain it. I thought the fourth quarter our energy dipped a little bit and you have six turnovers in the quarter and they had 10 second chance points in the quarter after playing a pretty sound game up to that point without shooting the ball well."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=0s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=0s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=0&q=1) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=0&q=1&slack=1)</small>
+
+**2. Will Hardy — "I think we're seeing the blueprint for how our team needs to play." — Will Hardy on the team's blueprint for success and effort** [00:34](https://www.youtube.com/watch?v=TC1xcBcDb50&t=34s)
+
+Will Hardy: "I think we're seeing the blueprint for how our team needs to play. I think the guys are recognizing it. I really do think that they're they're giving a ton of effort to that. I thought the volume of threes and the volume of catch and shoots that we shot were the level that we wanted at tonight."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=34s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=34s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=34&q=2) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=34&q=2&slack=1)</small>
+
+**3. Will Hardy — "We're fighting every day to to build that that foundation of habits." — Will Hardy on building a foundation of winning habits** [01:26](https://www.youtube.com/watch?v=TC1xcBcDb50&t=86s)
+
+Will Hardy: "We're fighting every day to build that foundation of habits. We're we're trying to win every night. That's the goal and the guys want it bad. They're they're really bought in and giving everything they have to the team. Our goal is to win games and we're not getting those results right now. We've got to we've got to fight to extend the habits."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=86s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=86s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=86&q=3) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=86&q=3&slack=1)</small>
+
+**4. Will Hardy — "I think the turnovers we just we got a little sloppy." — Will Hardy on the team's sloppy fourth quarter turnovers** [02:29](https://www.youtube.com/watch?v=TC1xcBcDb50&t=149s)
+
+Will Hardy: "I think the turnovers we just we got a little sloppy. It's you know like we've talked about before, turnovers are hard to diagnose. They usually aren't one thing, but we've got to value the ball and I thought up to the fourth quarter we had done a really good job of that."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=149s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=149s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=149&q=4) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=149&q=4&slack=1)</small>
+
+**5. Will Hardy — "It's about how we're functioning on both sides of the ball." — Will Hardy on the importance of functioning on both ends** [03:08](https://www.youtube.com/watch?v=TC1xcBcDb50&t=188s)
+
+Will Hardy: "It's about how we're functioning on both sides of the ball. You can play a really good defensive possession in the NBA and somebody makes a great shot. Conversely, you can play a great offensive possession and miss. We need to know and continue to recognize, take the result out of the possession. That's a good possession for us. That's a good possession offensively for us. This is a good possession for us defensively based on the shot that our opponent has to shoot."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=188s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=188s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=188&q=5) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=188&q=5&slack=1)</small>
+
+**6. Will Hardy — "I think in general, it's the execution slips on both sides of the ball." — Will Hardy on the team's execution slips and defensive disadvantages** [04:08](https://www.youtube.com/watch?v=TC1xcBcDb50&t=248s)
+
+Will Hardy: "I think in general, it's the execution slips on both sides of the ball. We get a little bit sloppy with the ball offensively usually. There have been some moments where we just haven't made a shot and that's part of life, but I think in general our execution slips on the offensive side and it puts us at a disadvantage for our defense. As much as coaches would like for defense and offense to be separate things, they're not. If your offense is poor and you're having to face an opponent that is going to be rushing the ball at you over and over again because we're either turning it over or not making shots, it's harder."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=248s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=248s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=248&q=6) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=248&q=6&slack=1)</small>
+
+**7. Will Hardy — "We need to continue to play quick decision team basketball." — Will Hardy on the team's focus on quick decision basketball** [05:24](https://www.youtube.com/watch?v=TC1xcBcDb50&t=324s)
+
+Will Hardy: "We need to continue to play quick decision team basketball and everybody's a part of the game. We have primary ball handlers, you have primary decision makers depending on what action you're running and then from there it's everyone's responsibility to make a quick decision."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=324s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=324s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=324&q=7) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=324&q=7&slack=1)</small>
+
+**8. Will Hardy — "I believe in in showing the team pictures and film of what doing it right looks like." — Will Hardy on showing the team examples of doing it right** [06:31](https://www.youtube.com/watch?v=TC1xcBcDb50&t=391s)
+
+Will Hardy: "I believe in showing the team pictures and film of what doing it right looks like. You obviously have to hold everybody accountable and you have to examine things that go wrong, but we need to give tangible examples of of what we want it to look like."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=391s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=391s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=391&q=8) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=391&q=8&slack=1)</small>
+
+**9. Will Hardy — "Franz is a big physical player and does a good job of of using his body." — Will Hardy on Franz Wagner's physical play and defensive struggles** [07:15](https://www.youtube.com/watch?v=TC1xcBcDb50&t=435s)
+
+Will Hardy: "Franz is a big physical player and does a good job of using his body when he gets an angle on you. I thought the Magic did a good job with their screening angles. That being said, I actually thought that we we gave tremendous effort on Franz. I'm more concerned about **Desmond Bane** getting 11 threes off and some of the some of the errors that allowed that to happen."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=435s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=435s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=435&q=9) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=435&q=9&slack=1)</small>
+
+**10. Will Hardy — "The end of the game is really hard to manage with one timeout." — Will Hardy on the difficulty of managing the end of games** [08:26](https://www.youtube.com/watch?v=TC1xcBcDb50&t=506s)
+
+Will Hardy: "The end of the game is really hard to manage with one timeout. In those moments, you know we we can't take a timeout every time the other team makes a a six point run because we won't end up with any at the end. I was anticipating our offense executing a little bit better so that we could keep the game close and then you have the two timeouts at the end. Going six minutes in a game with one timeout is really hard to do."
+
+[https://www.youtube.com/watch?v=TC1xcBcDb50&t=506s](https://www.youtube.com/watch?v=TC1xcBcDb50&t=506s)
+
+<small>[Clip it](presserclips://clip?v=TC1xcBcDb50&t=506&q=10) · [Send to Slack](presserclips://clip?v=TC1xcBcDb50&t=506&q=10&slack=1)</small>
 
 ---
 
@@ -473,6 +625,158 @@ Kenny Atkinson: "He's our super IQ genius that knows how to make the right play 
 [https://www.youtube.com/watch?v=YjPP72DCFRk&t=420s](https://www.youtube.com/watch?v=YjPP72DCFRk&t=420s)
 
 <small>[Clip it](presserclips://clip?v=YjPP72DCFRk&t=420&q=10) · [Send to Slack](presserclips://clip?v=YjPP72DCFRk&t=420&q=10&slack=1)</small>
+
+---
+
+## Full Denver Nuggets Postgame Media Availability vs. MEM 🎙 — *Denver Nuggets*
+
+Source: [https://www.youtube.com/watch?v=_-ABczOtRHo](https://www.youtube.com/watch?v=_-ABczOtRHo)
+
+_Speakers identified: Coach Adelman, Nikola Jokic, Jamal Murray, Cam Johnson_
+
+**1. Coach Adelman — "he's been one of the best players in the NBA, period. And the efficiency was outrageous." — Nikola Jokic's consistent efficiency and leadership for the Nuggets** [00:05](https://www.youtube.com/watch?v=_-ABczOtRHo&t=5s)
+
+Coach Adelman: "It's what he's been doing the whole start of the season. He's been one of the best players in the NBA, period. And the efficiency was outrageous. We went to him in a lot of different ways and different spots. He's an All-Star, he's an all-time player. So I just thought he put it on his shoulders. And again, the efficiency, eight assists again with only one turnover with all the pressure to score for us, but also to facilitate. The guy's just been incredible for the first 10 games."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=5s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=5s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=5&q=1) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=5&q=1&slack=1)</small>
+
+**2. Coach Adelman — "It's not been schematics, it's been the plays where people break down one-on-one." — Defensive breakdowns and the need for better individual accountability** [00:39](https://www.youtube.com/watch?v=_-ABczOtRHo&t=39s)
+
+Coach Adelman: "He's sitting down and guarding. He made a play in the first half, we showed it at halftime, where **Jeremy** attacked his body, took the hit. I thought that's been our biggest issue as a team. It's not been schematics, it's been the plays where people break down one-on-one. You have to guard your own man. There were so many times in that third quarter, it was just straight-line drives and now you're rotating. And now they're shooting threes, now they're driving again. We have to shore that up. It's gotten better since the first week, but it's not good enough."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=39s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=39s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=39&q=2) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=39&q=2&slack=1)</small>
+
+**3. Coach Adelman — "He's got to let it go. It's got to be when he doesn't shoot it well." — Cam Johnson's aggressive shot-taking and role on the team** [01:26](https://www.youtube.com/watch?v=_-ABczOtRHo&t=86s)
+
+Coach Adelman: "I just thought he let it go early too. And I think for Cam, he's nine for 15 tonight. I believe in Mexico he shot it well. It's got to be when he doesn't shoot it well, he's just to shoot 15 times. That's the thing that we need. Nine for 15 tonight, I'll take six for 15. He's got to let it go. He hit the big three there to kind of close it out. And we had about five opportunities to close that thing out. Guys had wide-open shots. So, I love seeing Cam's aggressiveness. 15 shots in 29, 30 minutes basically, that's what we need from him."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=86s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=86s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=86&q=3) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=86&q=3&slack=1)</small>
+
+**4. Nikola Jokic — "The turnover was a really big factor for us, we didn't turn the ball over a lot." — Nikola Jokic on the team's defensive effort and ball security** [05:18](https://www.youtube.com/watch?v=_-ABczOtRHo&t=318s)
+
+Nikola Jokic: "I think the first half was really good for us. I think we controlled the game. They had a nice run, but our defense was not really good in the third quarter. They got back to the game in the fourth quarter, but I think we were getting open looks. We didn't make, then we made, and I think we ended the game. We had a couple stops in a row and a couple big rebounds. The turnover was a really big factor for us, we didn't turn the ball over a lot, so that was basically it."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=318s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=318s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=318&q=4) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=318&q=4&slack=1)</small>
+
+**5. Nikola Jokic — "He's playing really good since the beginning of the season and we just need to follow." — Nikola Jokic on Jamal Murray's strong play this season** [06:22](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
+
+Nikola Jokic: "He's playing really good since the beginning of the season and we just need to follow. He's really good for us. I think he's creating looks for everybody else and we just need to step up and follow him."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=382s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=382&q=5) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=382&q=5&slack=1)</small>
+
+**6. Jamal Murray — "I'm just playing basketball, shots dropped. I was happy about our defense." — Jamal Murray's perspective on his fourth-quarter performance** [09:34](https://www.youtube.com/watch?v=_-ABczOtRHo&t=574s)
+
+Jamal Murray: "I'm just playing basketball, shots dropped. I was happy about our defense and the way we were able to stifle the runs or put a stop to the run leading the game. So that's where we won the game."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=574s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=574s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=574&q=6) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=574&q=6&slack=1)</small>
+
+**7. Jamal Murray — "The communication has been better each game. Everybody getting used to the coverages that we're trying to play." — Jamal Murray on the evolution of the team's defensive communication** [10:03](https://www.youtube.com/watch?v=_-ABczOtRHo&t=603s)
+
+Jamal Murray: "The communication has been better each game. Everybody getting used to the coverages that we're trying to play. Game to game, coverages may change depending on personnel. So it's good to see the evolution of the team just growing. And even in a loss, we can take good things away from it. And today was a win. Stuff that we can work on, so we just need more of the energy and effort late in the game."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=603s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=603s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=603&q=7) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=603&q=7&slack=1)</small>
+
+**8. Jamal Murray — "Christian Braun, I think he was just a really good job just in the ball, constantly chasing him." — Jamal Murray on Christian Braun's defensive impact** [10:42](https://www.youtube.com/watch?v=_-ABczOtRHo&t=642s)
+
+Jamal Murray: "**Christian Braun**, I think he was just a really good job just in the ball, constantly chasing him, bothering him, picking him up. **Christian Braun** is a hard guy to lose. I think he was the point of emphasis for us and he did a great job following him into the bigs and keeping him out of the paint. Even when he made tough shots, he played good defense."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=642s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=642s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=642&q=8) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=642&q=8&slack=1)</small>
+
+**9. Cam Johnson — "When you have guys like Nikola Jokic and Jamal Murray who teams really have the game plan against." — Cam Johnson on team ball movement and capitalizing on opportunities** [13:17](https://www.youtube.com/watch?v=_-ABczOtRHo&t=797s)
+
+Cam Johnson: "When you have guys like **Nikola Jokic** and **Jamal Murray** who teams really have the game plan against, and you can figure out how they're doing that, then you can capitalize on it easily. And that was the case tonight and they answered a lot of the times, but we stuck with it and saw it through."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=797s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=797s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=797&q=9) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=797&q=9&slack=1)</small>
+
+**10. Cam Johnson — "He's one of the best three-level scorers in a game in terms of the consistency." — Cam Johnson on Nikola Jokic's unique playmaking ability** [13:55](https://www.youtube.com/watch?v=_-ABczOtRHo&t=835s)
+
+Cam Johnson: "He's pretty cool. He's pretty cool. He's one of the best three-level scorers in a game in terms of the consistency and which he can do it and the difficult shot-making. And he put it on full display there in the second half."
+
+[https://www.youtube.com/watch?v=_-ABczOtRHo&t=835s](https://www.youtube.com/watch?v=_-ABczOtRHo&t=835s)
+
+<small>[Clip it](presserclips://clip?v=_-ABczOtRHo&t=835&q=10) · [Send to Slack](presserclips://clip?v=_-ABczOtRHo&t=835&q=10&slack=1)</small>
+
+---
+
+## POSTGAME SOUND: ORLANDO MAGIC VS. UTAH JAZZ | COACH SWEENEY, FRANZ WAGNER & DESMOND BANE — *Orlando Magic*
+
+Source: [https://www.youtube.com/watch?v=i73TM-TqFO8](https://www.youtube.com/watch?v=i73TM-TqFO8)
+
+_Speakers identified: Coach Sweeney, Desmond Bane, Franz Wagner_
+
+**1. Coach Sweeney — "I thought we did a really good job of controlling the possession battle." — Coach Sweeney on the Magic's fourth quarter execution and resilience** [00:08](https://www.youtube.com/watch?v=i73TM-TqFO8&t=8s)
+
+Coach Sweeney: "Aside from the shot making and some of the great decision making that we had, Desmond obviously got it going there in the fourth, did a great job getting himself going, knocking down some threes, playing off of two feet in the paint. I thought we did a really good job of controlling the possession battle. I think going into the fourth quarter, it was even in terms of number of shots and then we really sat down, did a great job of crashing, did a great job of defensive rebounding, forced a couple turnovers to win that possession battle."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=8s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=8s)
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=8&q=1) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=8&q=1&slack=1)</small>
+
+**2. Coach Sweeney — "I thought he was relentless in his attack." — Coach Sweeney praises Desmond Bane's aggressive, physical, and relentless play** [00:46](https://www.youtube.com/watch?v=i73TM-TqFO8&t=46s)
+
+Coach Sweeney: "I thought he was great. He did a great job there really trying to be aggressive with him, trying to be physical, trying to keep him out of the paint and I thought he was relentless in his attack. He did a great job of really trying to make the right play when it presented itself. We talk about making decisions with conviction. I thought he did a great job of that and just throughout the course of the game stuck with it, really did a great job of leading throughout the game, great in the huddles, all around, exceptional."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=46s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=46s)
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=46&q=2) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=46&q=2&slack=1)</small>
+
+**3. Coach Sweeney — "I thought those two guys were exceptional. They did a great job of providing us with good energy." — Coach Sweeney on the impact of Goga Bitadze and Franz Wagner** [02:07](https://www.youtube.com/watch?v=i73TM-TqFO8&t=127s)
+
+Coach Sweeney: "I thought they did a great job. With the situation we're in with the number of bodies, the opportunity made change for certain guys, but the responsibility doesn't. I thought those two guys were exceptional. They did a great job of providing us with good energy. They did a great job on the boards on both ends and then they did a great job of helping us be organized offensively so we could function there. So, great job by both those guys and Goga to close the game did a great job finishing it out when we took Wendell out."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=127s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=127s)
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=127&q=3) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=127&q=3&slack=1)</small>
+
+**4. Desmond Bane — "Javon came in and gave us a spark, made some big shots." — Desmond Bane on the team's resilience and execution in the fourth** [03:08](https://www.youtube.com/watch?v=i73TM-TqFO8&t=188s)
+
+Desmond Bane: "I thought we had good poise and resilience, coming to the fourth, we were down one or close game. Didn't have the third quarter that we wanted, but fourth quarter we stayed with it, was able to execute. Javon came in and gave us a spark, made some big shots. Boogie controlling the pace of the game, a couple big offensive rebounds from the group, it was a great fourth quarter."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=188s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=188s)
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=188&q=4) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=188&q=4&slack=1)</small>
+
+**5. Franz Wagner — "I think just the way that we were playing the pick-and-roll, we got into the paint." — Franz Wagner on the team's pick-and-roll execution and paint scoring** [03:42](https://www.youtube.com/watch?v=i73TM-TqFO8&t=222s)
+
+Franz Wagner: "I think just the way that we were playing the pick-and-roll, we got into the paint I thought a bunch of times and from there just tried to make the right play."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=222s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=222s)
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=222&q=5) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=222&q=5&slack=1)</small>
+
+**6. Desmond Bane — "I think we're definitely improving. I mean that's been the big thing that Sweeney's talked about." — Desmond Bane on the team's process and improvement under Coach Sweeney** [04:43](https://www.youtube.com/watch?v=i73TM-TqFO8&t=283s)
+
+Desmond Bane: "I think we're definitely improving. I mean that's been the big thing that Sweeney's talked about, you know really since he's got here is just our process and improving. And yeah, I think that that we're doing that. Now we got to go take care of home."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=283s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=283s)
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=283&q=6) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=283&q=6&slack=1)</small>
+
+**7. Desmond Bane — "He's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard." — Desmond Bane on the growth and confidence of Franz Wagner** [05:06](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
+
+Desmond Bane: "Exactly who he's been. I mean he's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard. He's grown so much. You know I've only been here two years, but or a year and however long it's been, but he consistently is getting better and you can see his confidence growing in a lot of different areas. So he's playing he's playing extremely well for us."
+
+[https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s](https://www.youtube.com/watch?v=i73TM-TqFO8&t=306s)
+
+<small>[Clip it](presserclips://clip?v=i73TM-TqFO8&t=306&q=7) · [Send to Slack](presserclips://clip?v=i73TM-TqFO8&t=306&q=7&slack=1)</small>
 
 ---
 

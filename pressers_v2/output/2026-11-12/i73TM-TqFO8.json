@@ -1,0 +1,249 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. UTAH JAZZ | COACH SWEENEY, FRANZ WAGNER & DESMOND BANE",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Desmond Bane",
+    "Franz Wagner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:08",
+      "summary_phrase": "Coach Sweeney on the Magic's fourth quarter execution and resilience",
+      "names_mentioned": [
+        "Desmond Bane"
+      ],
+      "excerpt": "I thought we did a really good job of controlling the possession battle.",
+      "quote": "Aside from the shot making and some of the great decision making that we had, Desmond obviously got it going there in the fourth, did a great job getting himself going, knocking down some threes, playing off of two feet in the paint. I thought we did a really good job of controlling the possession battle. I think going into the fourth quarter, it was even in terms of number of shots and then we really sat down, did a great job of crashing, did a great job of defensive rebounding, forced a couple turnovers to win that possession battle.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney credits the Magic's win over the Jazz to a strong fourth quarter effort, specifically highlighting the team's success in winning the possession battle through rebounding and forced turnovers.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's fourth quarter execution and rebounding performance following the game against Utah.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:46",
+      "summary_phrase": "Coach Sweeney praises Desmond Bane's aggressive, physical, and relentless play",
+      "names_mentioned": [
+        "Desmond Bane"
+      ],
+      "excerpt": "I thought he was relentless in his attack.",
+      "quote": "I thought he was great. He did a great job there really trying to be aggressive with him, trying to be physical, trying to keep him out of the paint and I thought he was relentless in his attack. He did a great job of really trying to make the right play when it presented itself. We talk about making decisions with conviction. I thought he did a great job of that and just throughout the course of the game stuck with it, really did a great job of leading throughout the game, great in the huddles, all around, exceptional.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Coach Sweeney praises Desmond Bane for his relentless attack and leadership, noting that Bane did a great job of making decisions with conviction throughout the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Desmond Bane"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises Desmond Bane for his aggressive play and leadership during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:07",
+      "summary_phrase": "Coach Sweeney on the impact of Goga Bitadze and Franz Wagner",
+      "names_mentioned": [
+        "Goga Bitadze",
+        "Franz Wagner",
+        "Wendell Carter Jr."
+      ],
+      "excerpt": "I thought those two guys were exceptional. They did a great job of providing us with good energy.",
+      "quote": "I thought they did a great job. With the situation we're in with the number of bodies, the opportunity made change for certain guys, but the responsibility doesn't. I thought those two guys were exceptional. They did a great job of providing us with good energy. They did a great job on the boards on both ends and then they did a great job of helping us be organized offensively so we could function there. So, great job by both those guys and Goga to close the game did a great job finishing it out when we took Wendell out.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney highlights the impact of Goga Bitadze and Franz Wagner, noting that despite the team's injury situation, both players provided great energy and helped keep the team organized offensively.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Goga Bitadze",
+          "Franz Wagner",
+          "Wendell Carter Jr."
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney highlights the contributions of Goga Bitadze and Franz Wagner in the absence of other players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Desmond Bane",
+      "timestamp": "03:08",
+      "summary_phrase": "Desmond Bane on the team's resilience and execution in the fourth",
+      "names_mentioned": [
+        "Javon Freeman-Liberty",
+        "Desmond Bane"
+      ],
+      "excerpt": "Javon came in and gave us a spark, made some big shots.",
+      "quote": "I thought we had good poise and resilience, coming to the fourth, we were down one or close game. Didn't have the third quarter that we wanted, but fourth quarter we stayed with it, was able to execute. Javon came in and gave us a spark, made some big shots. Boogie controlling the pace of the game, a couple big offensive rebounds from the group, it was a great fourth quarter.",
+      "text_blocks": [],
+      "start_seconds": 188,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Desmond Bane says the Magic showed good poise and resilience in the fourth quarter to overcome a tough third quarter, crediting Javon and Boogie for providing a spark to close out the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Javon Freeman-Liberty"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane reflects on the team's fourth quarter resilience and the impact of his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Franz Wagner",
+      "timestamp": "03:42",
+      "summary_phrase": "Franz Wagner on the team's pick-and-roll execution and paint scoring",
+      "names_mentioned": [],
+      "excerpt": "I think just the way that we were playing the pick-and-roll, we got into the paint.",
+      "quote": "I think just the way that we were playing the pick-and-roll, we got into the paint I thought a bunch of times and from there just tried to make the right play.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Franz Wagner on the Magic's offensive approach against the Jazz: We were playing the pick and roll well, getting into the paint, and trying to make the right play.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner explains the team's offensive approach regarding pick-and-roll execution and paint scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Desmond Bane",
+      "timestamp": "04:43",
+      "summary_phrase": "Desmond Bane on the team's process and improvement under Coach Sweeney",
+      "names_mentioned": [
+        "Coach Sweeney"
+      ],
+      "excerpt": "I think we're definitely improving. I mean that's been the big thing that Sweeney's talked about.",
+      "quote": "I think we're definitely improving. I mean that's been the big thing that Sweeney's talked about, you know really since he's got here is just our process and improving. And yeah, I think that that we're doing that. Now we got to go take care of home.",
+      "text_blocks": [],
+      "start_seconds": 283,
+      "end_seconds": 301,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Desmond Bane says the team is definitely improving under Coach Sweeney, emphasizing that the focus has been on the process since the coaching change.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Coach Sweeney"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses the team's ongoing improvement and focus on process under Coach Sweeney.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Desmond Bane",
+      "timestamp": "05:06",
+      "summary_phrase": "Desmond Bane on the growth and confidence of Franz Wagner",
+      "names_mentioned": [
+        "Franz Wagner"
+      ],
+      "excerpt": "He's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard.",
+      "quote": "Exactly who he's been. I mean he's getting downhill, he's distributing the ball, he's taking on the challenge of guarding other teams' best guard. He's grown so much. You know I've only been here two years, but or a year and however long it's been, but he consistently is getting better and you can see his confidence growing in a lot of different areas. So he's playing he's playing extremely well for us.",
+      "text_blocks": [],
+      "start_seconds": 306,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 6,
+      "social_post": "Desmond Bane on the growth of Franz Wagner: He is getting downhill, distributing the ball, and taking on the challenge of guarding the other team's best guard. You can see his confidence growing in a lot of different areas.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Desmond Bane comments on the growth and increasing confidence of his teammate Franz Wagner.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "i73TM-TqFO8",
+  "url": "https://www.youtube.com/watch?v=i73TM-TqFO8",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-12T05:37:47Z",
+  "duration_seconds": 360,
+  "processed_at": "2026-11-12T06:11:16Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

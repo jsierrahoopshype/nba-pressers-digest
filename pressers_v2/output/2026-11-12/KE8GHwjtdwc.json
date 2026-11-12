@@ -1,0 +1,124 @@
+{
+  "video_title": "Brice Sensabaugh talks about good team chemistry, self-discipline, impact on the game vs. Orlando",
+  "speakers_seen": [
+    "Brice Sensabaugh"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brice Sensabaugh",
+      "timestamp": "00:54",
+      "summary_phrase": "Brice Sensabaugh on maintaining team chemistry despite recent close losses",
+      "names_mentioned": [],
+      "excerpt": "We've been in good spirits. It's tough just because we're in a lot of these games.",
+      "quote": "We've been in good spirits. It's tough just because we're in a lot of these games, especially we've had some very good first halves, we've had some good fourth quarters, and I think we're in a spot where we just got to put it together. We got to figure out how to get 48 good minutes, and a lot of the times we're in these games, it just starts slipping away from us. We've had a pretty tough schedule with some teams with some playoff experience, and a lot of the times late in the game, the margin for error is very, very small.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brice Sensabaugh says the Jazz are struggling to put together 48 full minutes of basketball and notes that the margin for error against playoff teams is very small.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Brice Sensabaugh discusses the team's difficulty in maintaining consistent performance throughout entire games during a recent media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brice Sensabaugh",
+      "timestamp": "02:24",
+      "summary_phrase": "Brice Sensabaugh on the team's fourth-quarter energy and momentum issues",
+      "names_mentioned": [
+        "Wilson"
+      ],
+      "excerpt": "The game of basketball is kind of like a big snowball effect.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Wilson said he felt that you guys had three quarters of good basketball and then he said that the energy dipped in the fourth."
+        },
+        {
+          "speaker": "Brice Sensabaugh",
+          "text": "The game of basketball is kind of like a big snowball effect. If you get the ball moving on offense, your offense is going to be good. You hit shots, you get momentum, it's a snowball. Defense, if you give up a back cut, now you're in rotation, now they swing the ball a few times, now it's a snowball effect. So yeah, I think we just got to figure out a way to minimize our mistakes."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Brice Sensabaugh"
+      ],
+      "reporter_split": true,
+      "start_seconds": 144,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brice Sensabaugh explains the snowball effect in basketball saying that if you give up a back cut and get stuck in rotations it creates a negative momentum shift for the team.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Brice Sensabaugh reacts to comments from a teammate regarding the team's energy levels and momentum shifts during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brice Sensabaugh",
+      "timestamp": "04:48",
+      "summary_phrase": "Brice Sensabaugh on his mindset when coming off the bench to shoot",
+      "names_mentioned": [
+        "Will"
+      ],
+      "excerpt": "I've always been a microwave guy.",
+      "quote": "For me, my mentality, I've always been a microwave guy. The pressure you put on yourself on the first one or the second one, especially if the first one doesn't go in, that usually makes it a little difficult. But you just got to let go. Whatever happens as a shooter, make sure your discipline is right and just put it up in the air and make sure it's not short and you just got to live with the results. I'm developing the ability to still impact the game if I'm not shooting the ball, and that's been my main focus this year.",
+      "verbatim_original_language": "",
+      "start_seconds": 288,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Brice Sensabaugh describes his mentality as a microwave guy and says his main focus this year is developing the ability to impact the game even when his shot is not falling.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Brice Sensabaugh explains his personal mindset and approach to shooting when coming off the bench for the Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "KE8GHwjtdwc",
+  "url": "https://www.youtube.com/watch?v=KE8GHwjtdwc",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-12T05:34:07Z",
+  "duration_seconds": 401,
+  "processed_at": "2026-11-12T06:11:09Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

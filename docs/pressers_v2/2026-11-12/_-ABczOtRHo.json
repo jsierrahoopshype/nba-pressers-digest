@@ -1,0 +1,338 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. MEM 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Nikola Jokic",
+    "Jamal Murray",
+    "Cam Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:05",
+      "summary_phrase": "Nikola Jokic's consistent efficiency and leadership for the Nuggets",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "he's been one of the best players in the NBA, period. And the efficiency was outrageous.",
+      "quote": "It's what he's been doing the whole start of the season. He's been one of the best players in the NBA, period. And the efficiency was outrageous. We went to him in a lot of different ways and different spots. He's an All-Star, he's an all-time player. So I just thought he put it on his shoulders. And again, the efficiency, eight assists again with only one turnover with all the pressure to score for us, but also to facilitate. The guy's just been incredible for the first 10 games.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Adelman on Nikola Jokic: He has been one of the best players in the NBA period and the efficiency was outrageous. He put it on his shoulders.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman praises Nikola Jokic for his efficiency and leadership during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:39",
+      "summary_phrase": "Defensive breakdowns and the need for better individual accountability",
+      "names_mentioned": [
+        "Jeremy"
+      ],
+      "excerpt": "It's not been schematics, it's been the plays where people break down one-on-one.",
+      "quote": "He's sitting down and guarding. He made a play in the first half, we showed it at halftime, where Jeremy attacked his body, took the hit. I thought that's been our biggest issue as a team. It's not been schematics, it's been the plays where people break down one-on-one. You have to guard your own man. There were so many times in that third quarter, it was just straight-line drives and now you're rotating. And now they're shooting threes, now they're driving again. We have to shore that up. It's gotten better since the first week, but it's not good enough.",
+      "verbatim_original_language": "",
+      "start_seconds": 39,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Coach Adelman says the biggest issue for the Nuggets is not schematics but individual accountability: You have to guard your own man.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's defensive struggles and the need for better individual accountability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:26",
+      "summary_phrase": "Cam Johnson's aggressive shot-taking and role on the team",
+      "names_mentioned": [
+        "Cam Johnson"
+      ],
+      "excerpt": "He's got to let it go. It's got to be when he doesn't shoot it well.",
+      "quote": "I just thought he let it go early too. And I think for Cam, he's nine for 15 tonight. I believe in Mexico he shot it well. It's got to be when he doesn't shoot it well, he's just to shoot 15 times. That's the thing that we need. Nine for 15 tonight, I'll take six for 15. He's got to let it go. He hit the big three there to kind of close it out. And we had about five opportunities to close that thing out. Guys had wide-open shots. So, I love seeing Cam's aggressiveness. 15 shots in 29, 30 minutes basically, that's what we need from him.",
+      "verbatim_original_language": "",
+      "start_seconds": 86,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Adelman wants more aggression from Cam Johnson: I will take six for 15. He has got to let it go. That is what we need from him.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Johnson"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman encourages Cam Johnson to maintain his aggressive shot-taking approach regardless of his shooting percentage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nikola Jokic",
+      "timestamp": "05:18",
+      "summary_phrase": "Nikola Jokic on the team's defensive effort and ball security",
+      "names_mentioned": [],
+      "excerpt": "The turnover was a really big factor for us, we didn't turn the ball over a lot.",
+      "quote": "I think the first half was really good for us. I think we controlled the game. They had a nice run, but our defense was not really good in the third quarter. They got back to the game in the fourth quarter, but I think we were getting open looks. We didn't make, then we made, and I think we ended the game. We had a couple stops in a row and a couple big rebounds. The turnover was a really big factor for us, we didn't turn the ball over a lot, so that was basically it.",
+      "verbatim_original_language": "",
+      "start_seconds": 318,
+      "end_seconds": 356,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nikola Jokic on the win: The turnover was a really big factor for us. We did not turn the ball over a lot so that was basically it.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reflects on the team's defensive performance and ball security after the game against Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nikola Jokic",
+      "timestamp": "06:22",
+      "summary_phrase": "Nikola Jokic on Jamal Murray's strong play this season",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "He's playing really good since the beginning of the season and we just need to follow.",
+      "quote": "He's playing really good since the beginning of the season and we just need to follow. He's really good for us. I think he's creating looks for everybody else and we just need to step up and follow him.",
+      "verbatim_original_language": "",
+      "start_seconds": 382,
+      "end_seconds": 397,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Nikola Jokic on Jamal Murray: He is playing really good since the beginning of the season and we just need to follow.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Jokic comments on Jamal Murray's strong play and leadership throughout the start of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Murray",
+      "timestamp": "09:34",
+      "summary_phrase": "Jamal Murray's perspective on his fourth-quarter performance",
+      "names_mentioned": [],
+      "excerpt": "I'm just playing basketball, shots dropped. I was happy about our defense.",
+      "quote": "I'm just playing basketball, shots dropped. I was happy about our defense and the way we were able to stifle the runs or put a stop to the run leading the game. So that's where we won the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 574,
+      "end_seconds": 589,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamal Murray on his fourth quarter performance: I am just playing basketball, shots dropped.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray discusses his fourth-quarter performance and the team's defensive effort in the win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamal Murray",
+      "timestamp": "10:03",
+      "summary_phrase": "Jamal Murray on the evolution of the team's defensive communication",
+      "names_mentioned": [],
+      "excerpt": "The communication has been better each game. Everybody getting used to the coverages that we're trying to play.",
+      "quote": "The communication has been better each game. Everybody getting used to the coverages that we're trying to play. Game to game, coverages may change depending on personnel. So it's good to see the evolution of the team just growing. And even in a loss, we can take good things away from it. And today was a win. Stuff that we can work on, so we just need more of the energy and effort late in the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 603,
+      "end_seconds": 633,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Murray on the team's defensive growth: The communication has been better each game. It is good to see the evolution of the team just growing.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray talks about the evolution of the team's defensive communication and growth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamal Murray",
+      "timestamp": "10:42",
+      "summary_phrase": "Jamal Murray on Christian Braun's defensive impact",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "Christian Braun, I think he was just a really good job just in the ball, constantly chasing him.",
+      "quote": "Christian Braun, I think he was just a really good job just in the ball, constantly chasing him, bothering him, picking him up. Christian Braun is a hard guy to lose. I think he was the point of emphasis for us and he did a great job following him into the bigs and keeping him out of the paint. Even when he made tough shots, he played good defense.",
+      "verbatim_original_language": "",
+      "start_seconds": 642,
+      "end_seconds": 669,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamal Murray praises Christian Braun: He did a great job following him into the bigs and keeping him out of the paint. Even when he made tough shots he played good defense.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Murray praises Christian Braun for his defensive impact and effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Cam Johnson",
+      "timestamp": "13:17",
+      "summary_phrase": "Cam Johnson on team ball movement and capitalizing on opportunities",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamal Murray"
+      ],
+      "excerpt": "When you have guys like Nikola Jokic and Jamal Murray who teams really have the game plan against.",
+      "quote": "When you have guys like Nikola Jokic and Jamal Murray who teams really have the game plan against, and you can figure out how they're doing that, then you can capitalize on it easily. And that was the case tonight and they answered a lot of the times, but we stuck with it and saw it through.",
+      "verbatim_original_language": "",
+      "start_seconds": 797,
+      "end_seconds": 819,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cam Johnson on playing with Jokic and Murray: When you have guys like that who teams really have to game plan against you can figure out how they are doing that and capitalize on it easily.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Johnson explains how the team capitalizes on opportunities created by Nikola Jokic and Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Cam Johnson",
+      "timestamp": "13:55",
+      "summary_phrase": "Cam Johnson on Nikola Jokic's unique playmaking ability",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "He's one of the best three-level scorers in a game in terms of the consistency.",
+      "quote": "He's pretty cool. He's pretty cool. He's one of the best three-level scorers in a game in terms of the consistency and which he can do it and the difficult shot-making. And he put it on full display there in the second half.",
+      "verbatim_original_language": "",
+      "start_seconds": 835,
+      "end_seconds": 852,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Cam Johnson on Nikola Jokic: He is pretty cool. He is one of the best three level scorers in a game in terms of the consistency and which he can do it.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Cam Johnson shares his perspective on Nikola Jokic's unique playmaking and scoring ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "_-ABczOtRHo",
+  "url": "https://www.youtube.com/watch?v=_-ABczOtRHo",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-12T05:34:23Z",
+  "duration_seconds": 1049,
+  "processed_at": "2026-11-12T06:11:22Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}

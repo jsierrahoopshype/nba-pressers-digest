@@ -1,0 +1,312 @@
+{
+  "video_title": "YouTube title: Will Hardy talks about continuing to fight to focus, building a good foundation vs Orlando",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "00:00",
+      "summary_phrase": "Will Hardy on the team's need to maintain focus and energy",
+      "names_mentioned": [],
+      "excerpt": "We've got to keep fighting for our focus to to try to maintain it.",
+      "quote": "There's a lot of good basketball being played. We've got to keep fighting for our focus to try to maintain it. I thought the fourth quarter our energy dipped a little bit and you have six turnovers in the quarter and they had 10 second chance points in the quarter after playing a pretty sound game up to that point without shooting the ball well.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy says the Jazz need to fight to maintain focus after a fourth quarter energy dip led to six turnovers and 10 second chance points for Orlando.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses the team's loss to Orlando and the need to maintain focus and energy throughout the entire game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "00:34",
+      "summary_phrase": "Will Hardy on the team's blueprint for success and effort",
+      "names_mentioned": [],
+      "excerpt": "I think we're seeing the blueprint for how our team needs to play.",
+      "quote": "I think we're seeing the blueprint for how our team needs to play. I think the guys are recognizing it. I really do think that they're they're giving a ton of effort to that. I thought the volume of threes and the volume of catch and shoots that we shot were the level that we wanted at tonight.",
+      "text_blocks": [],
+      "start_seconds": 34,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Will Hardy believes the Jazz are seeing the blueprint for how they need to play and praised the team for the volume of catch and shoot threes they generated tonight.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy reflects on the team's offensive performance and the effort shown by his players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "01:26",
+      "summary_phrase": "Will Hardy on building a foundation of winning habits",
+      "names_mentioned": [],
+      "excerpt": "We're fighting every day to to build that that foundation of habits.",
+      "quote": "We're fighting every day to build that foundation of habits. We're we're trying to win every night. That's the goal and the guys want it bad. They're they're really bought in and giving everything they have to the team. Our goal is to win games and we're not getting those results right now. We've got to we've got to fight to extend the habits.",
+      "text_blocks": [],
+      "start_seconds": 86,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy on the Jazz building a foundation of habits: We are fighting every day to build that foundation and the guys are really bought in despite the current results.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy speaks about the ongoing process of building winning habits and the team's commitment to the goal.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "02:29",
+      "summary_phrase": "Will Hardy on the team's sloppy fourth quarter turnovers",
+      "names_mentioned": [],
+      "excerpt": "I think the turnovers we just we got a little sloppy.",
+      "quote": "I think the turnovers we just we got a little sloppy. It's you know like we've talked about before, turnovers are hard to diagnose. They usually aren't one thing, but we've got to value the ball and I thought up to the fourth quarter we had done a really good job of that.",
+      "text_blocks": [],
+      "start_seconds": 149,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy says the Jazz turnovers were a result of getting sloppy in the fourth quarter and emphasized the need to value the ball more consistently.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy addresses the team's turnover issues during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Will Hardy",
+      "timestamp": "03:08",
+      "summary_phrase": "Will Hardy on the importance of functioning on both ends",
+      "names_mentioned": [],
+      "excerpt": "It's about how we're functioning on both sides of the ball.",
+      "quote": "It's about how we're functioning on both sides of the ball. You can play a really good defensive possession in the NBA and somebody makes a great shot. Conversely, you can play a great offensive possession and miss. We need to know and continue to recognize, take the result out of the possession. That's a good possession for us. That's a good possession offensively for us. This is a good possession for us defensively based on the shot that our opponent has to shoot.",
+      "text_blocks": [],
+      "start_seconds": 188,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Will Hardy wants his players to focus on the quality of their possessions rather than the result: You can play a great offensive possession and miss, or a good defensive one and give up a shot.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy explains the importance of evaluating possessions based on quality rather than just the final result.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Will Hardy",
+      "timestamp": "04:08",
+      "summary_phrase": "Will Hardy on the team's execution slips and defensive disadvantages",
+      "names_mentioned": [],
+      "excerpt": "I think in general, it's the execution slips on both sides of the ball.",
+      "quote": "I think in general, it's the execution slips on both sides of the ball. We get a little bit sloppy with the ball offensively usually. There have been some moments where we just haven't made a shot and that's part of life, but I think in general our execution slips on the offensive side and it puts us at a disadvantage for our defense. As much as coaches would like for defense and offense to be separate things, they're not. If your offense is poor and you're having to face an opponent that is going to be rushing the ball at you over and over again because we're either turning it over or not making shots, it's harder.",
+      "text_blocks": [],
+      "start_seconds": 248,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy explains the link between offense and defense: When execution slips on the offensive end, it puts the defense at a disadvantage because the opponent is constantly rushing the ball at you.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses how offensive execution errors negatively impact the team's defensive transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Will Hardy",
+      "timestamp": "05:24",
+      "summary_phrase": "Will Hardy on the team's focus on quick decision basketball",
+      "names_mentioned": [],
+      "excerpt": "We need to continue to play quick decision team basketball.",
+      "quote": "We need to continue to play quick decision team basketball and everybody's a part of the game. We have primary ball handlers, you have primary decision makers depending on what action you're running and then from there it's everyone's responsibility to make a quick decision.",
+      "text_blocks": [],
+      "start_seconds": 324,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Will Hardy says the Jazz need to continue playing quick decision team basketball where every player is responsible for making the right read.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy emphasizes the need for all players to make quick decisions within the team's offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Will Hardy",
+      "timestamp": "06:31",
+      "summary_phrase": "Will Hardy on showing the team examples of doing it right",
+      "names_mentioned": [],
+      "excerpt": "I believe in in showing the team pictures and film of what doing it right looks like.",
+      "quote": "I believe in showing the team pictures and film of what doing it right looks like. You obviously have to hold everybody accountable and you have to examine things that go wrong, but we need to give tangible examples of of what we want it to look like.",
+      "text_blocks": [],
+      "start_seconds": 391,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Will Hardy on his coaching philosophy: I believe in showing the team pictures and film of what doing it right looks like to give them tangible examples of our goals.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy explains his coaching philosophy of using film to show players positive examples of correct execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Will Hardy",
+      "timestamp": "07:15",
+      "summary_phrase": "Will Hardy on Franz Wagner's physical play and defensive struggles",
+      "names_mentioned": [
+        "Franz Wagner",
+        "Desmond Bane"
+      ],
+      "excerpt": "Franz is a big physical player and does a good job of of using his body.",
+      "quote": "Franz is a big physical player and does a good job of using his body when he gets an angle on you. I thought the Magic did a good job with their screening angles. That being said, I actually thought that we we gave tremendous effort on Franz. I'm more concerned about Desmond Bane getting 11 threes off and some of the some of the errors that allowed that to happen.",
+      "text_blocks": [],
+      "start_seconds": 435,
+      "end_seconds": 462,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Will Hardy praised the effort against Franz Wagner but expressed concern over defensive errors that allowed Desmond Bane to get 11 three point attempts off.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Franz Wagner",
+          "Desmond Bane"
+        ],
+        "teams": [
+          "UTA",
+          "ORL",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Will Hardy evaluates the defensive effort against Franz Wagner and expresses concern regarding defensive errors against Desmond Bane.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Will Hardy",
+      "timestamp": "08:26",
+      "summary_phrase": "Will Hardy on the difficulty of managing the end of games",
+      "names_mentioned": [],
+      "excerpt": "The end of the game is really hard to manage with one timeout.",
+      "quote": "The end of the game is really hard to manage with one timeout. In those moments, you know we we can't take a timeout every time the other team makes a a six point run because we won't end up with any at the end. I was anticipating our offense executing a little bit better so that we could keep the game close and then you have the two timeouts at the end. Going six minutes in a game with one timeout is really hard to do.",
+      "text_blocks": [],
+      "start_seconds": 506,
+      "end_seconds": 539,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Will Hardy admits managing the end of games with only one timeout is really hard: I was anticipating our offense executing better so we could keep the game close and have two timeouts for the finish.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Will Hardy explains the difficulty of managing timeouts during the final minutes of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "TC1xcBcDb50",
+  "url": "https://www.youtube.com/watch?v=TC1xcBcDb50",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-12T05:24:04Z",
+  "duration_seconds": 591,
+  "processed_at": "2026-11-12T06:11:33Z",
+  "run_id": "2026-11-12-overnight",
+  "is_one_off": false
+}
