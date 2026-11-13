@@ -1,0 +1,287 @@
+{
+  "video_title": "Devin Booker Postgame Media Availability  | 11-12-26",
+  "speakers_seen": [
+    "Devin Booker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Devin Booker",
+      "timestamp": "00:04",
+      "summary_phrase": "Devin Booker on the Suns' offensive execution against defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "the quicker we can recognize that they're running and hitting and we can get to our space",
+      "quote": "The quicker we can recognize that they're running and hitting and we can get to our space, I think the better look that we get.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 14,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Devin Booker on the Suns offense: The quicker we can recognize how teams are defending us and get to our space, the better looks we get.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker discusses the Suns offensive execution against defensive pressure during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Devin Booker",
+      "timestamp": "01:06",
+      "summary_phrase": "Devin Booker on the team's ongoing search for offensive flow",
+      "names_mentioned": [],
+      "excerpt": "we're still searching, we're still finding. We've had parts of the game where we look really good",
+      "quote": "To be transparent, we're still searching, we're still finding. We've had parts of the game where we look really good with certain lineups and certain lineups we come in, we just can't find that flow. We get a sample size. I always say it feels better in a win, but we definitely have some things to clean up.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Devin Booker admits the Suns are still searching for offensive flow: We have lineups that look good and lineups where we just cannot find that rhythm.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker explains that the team is still searching for consistent offensive flow and lineup chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Devin Booker",
+      "timestamp": "01:51",
+      "summary_phrase": "Devin Booker on the importance of aggressive shot-making and spacing",
+      "names_mentioned": [
+        "Trey"
+      ],
+      "excerpt": "I think the pull-up Trey opens up everything. Even when you're not making it, it makes the defense come out",
+      "quote": "I think the pull-up Trey opens up everything. Even when you're not making it, it makes the defense come out and make sure to make you a threat. So I'm going to keep letting them go when I get some space, to hopefully stress their defense out and open up other opportunities for my teammates.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Devin Booker on his shot selection: I am going to keep letting the pull up three go to stress the defense out and open up opportunities for my teammates.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker describes how his aggressive perimeter shooting helps create spacing and opportunities for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Devin Booker",
+      "timestamp": "02:24",
+      "summary_phrase": "Devin Booker on the team's focus on low turnover numbers",
+      "names_mentioned": [],
+      "excerpt": "it's a possession game at the end of the day. We've been preaching that from the beginning",
+      "quote": "It's important. It's a possession game at the end of the day. We've been preaching that from the beginning. We usually think about it as us getting extra possessions on the offense end, but getting a shot on goal every time down is important, too. We're at our best when we're getting a shot and we're giving an opportunity to at least get offensive rebound versus throwing the other team the ball and having to guard in transition.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Devin Booker emphasizes the importance of limiting turnovers: It is a possession game at the end of the day. We are at our best when we get a shot up every time down.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker emphasizes the importance of valuing possessions and limiting turnovers to avoid transition defensive situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Devin Booker",
+      "timestamp": "03:09",
+      "summary_phrase": "Devin Booker on the necessity of lineup versatility and consistency",
+      "names_mentioned": [],
+      "excerpt": "we have a deep roster, we have a bunch of talent on the team, so it's our job",
+      "quote": "It's important for flow, supporting the feel, seeing what lineups mesh well with each other and which ones don't. Every night it could be different. We have a deep roster, we have a bunch of talent on the team, so it's our job to make it a plug-and-play. We still need to keep our standards and what we do the same no matter who's on the court.",
+      "text_blocks": [],
+      "start_seconds": 189,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Devin Booker on the Suns rotation: We have a deep roster and a bunch of talent, so it is our job to make it plug and play regardless of who is on the court.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker discusses the need for the team to maintain high standards regardless of the specific lineup combinations used.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Devin Booker",
+      "timestamp": "03:57",
+      "summary_phrase": "Devin Booker on Jordan Goodwin's impact off the bench",
+      "names_mentioned": [
+        "Jordan Goodwin"
+      ],
+      "excerpt": "when Jordan Goodwin gets in the game, you can almost feel the arena start getting ready for something",
+      "quote": "When Jordan Goodwin gets in the game, you can almost feel the arena start getting ready for something. You can feel the energy in the gym and I always say he has a knack for the ball that I haven't seen from anybody through my career. I used to think he would just be lucky he'd be in the right spot at the right time, but that's taking away from his skill of reading the game, reading offensive rebounds, knowing who he's guarding, knowing their tendencies.",
+      "text_blocks": [],
+      "start_seconds": 237,
+      "end_seconds": 270,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Devin Booker on Jordan Goodwin: You can feel the energy in the gym when he checks in. He has a knack for the ball that I have not seen from anybody in my career.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jordan Goodwin"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Booker praises Jordan Goodwin for his unique energy and high basketball IQ in reading the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Devin Booker",
+      "timestamp": "04:40",
+      "summary_phrase": "Devin Booker on the spacing benefits of Eric Gordon's shooting",
+      "names_mentioned": [
+        "Eric Gordon"
+      ],
+      "excerpt": "him and Eric Gordon have this two-man game that they've been exhausting for a couple years now",
+      "quote": "Him and Eric Gordon have this two-man game that they've been exhausting for a couple years now. I've talked about it having to guard it in training camp, it's not easy. It's not Stephen Curry-like, but you definitely can't lose them. And he's hitting Eric Gordon, Eric Gordon's dropping it behind his back, and if it's not the first one, he might hit Eric Gordon and get it back again. So you have to be conditioned to guard them and you have to stay locked in.",
+      "text_blocks": [],
+      "start_seconds": 280,
+      "end_seconds": 313,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Devin Booker on the Eric Gordon two man game: You have to be conditioned to guard them and you have to stay locked in because you definitely cannot lose them.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Eric Gordon"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Booker discusses the difficulty of defending the two-man game involving Eric Gordon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Devin Booker",
+      "timestamp": "05:32",
+      "summary_phrase": "Devin Booker on the team's commitment to the process",
+      "names_mentioned": [],
+      "excerpt": "we started off one and five, we've ran off a few now, but still learning",
+      "quote": "We started off one and five, we've ran off a few now, but still learning. Coming in with the same mindset tomorrow as if we lost the game. We still have things to clean up. We're building for something bigger than the first 10 games of the season.",
+      "text_blocks": [],
+      "start_seconds": 332,
+      "end_seconds": 350,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Devin Booker on the Suns mindset: We started one and five but we are still learning. We are coming in with the same mindset tomorrow as if we lost the game.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker reflects on the team's early season progress and their commitment to long-term improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Devin Booker",
+      "timestamp": "06:19",
+      "summary_phrase": "Devin Booker on the need for consistent team chemistry",
+      "names_mentioned": [],
+      "excerpt": "get everybody on the same page. There should be no fall-off, no matter who's on the court",
+      "quote": "Just get everybody on the same page. There should be no fall-off, no matter who's on the court. There's obviously going to be ups and downs throughout the games, but the downs can't be as bad as they've been.",
+      "text_blocks": [],
+      "start_seconds": 379,
+      "end_seconds": 394,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Devin Booker on team consistency: There should be no fall off no matter who is on the court. The downs cannot be as bad as they have been.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Devin Booker stresses the need for consistent team chemistry to avoid significant performance drops during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "IQ1QPUBOHH8",
+  "url": "https://www.youtube.com/watch?v=IQ1QPUBOHH8",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-13T06:47:31Z",
+  "duration_seconds": 415,
+  "processed_at": "2026-11-13T07:02:37Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

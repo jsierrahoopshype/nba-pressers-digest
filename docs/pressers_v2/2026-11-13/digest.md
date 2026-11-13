@@ -36,7 +36,17 @@ From: [Hornets at Suns: Coach Charles Lee Postgame Media Availability \| 11/12/2
 
 <small>[Clip it](presserclips://clip?v=ssZzwatsnPw&t=20&q=2) · [Send to Slack](presserclips://clip?v=ssZzwatsnPw&t=20&q=2&slack=1)</small>
 
-**4. Jonathan Kuminga — "He's one of the best players in this league and he's all about winning." — Jonathan Kuminga on LaMelo Ball's competitive nature** [03:23](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s)
+**4. Devin Booker — "when Jordan Goodwin gets in the game, you can almost feel the arena start getting ready for something" — Devin Booker on Jordan Goodwin's impact off the bench** [03:57](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=237s)
+
+Devin Booker: "When **Jordan Goodwin** gets in the game, you can almost feel the arena start getting ready for something. You can feel the energy in the gym and I always say he has a knack for the ball that I haven't seen from anybody through my career. I used to think he would just be lucky he'd be in the right spot at the right time, but that's taking away from his skill of reading the game, reading offensive rebounds, knowing who he's guarding, knowing their tendencies."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=237s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=237s)
+
+From: [Devin Booker Postgame Media Availability  \| 11-12-26](https://www.youtube.com/watch?v=IQ1QPUBOHH8) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=237&q=6) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=237&q=6&slack=1)</small>
+
+**5. Jonathan Kuminga — "He's one of the best players in this league and he's all about winning." — Jonathan Kuminga on LaMelo Ball's competitive nature** [03:23](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s)
 
 Jonathan Kuminga: "I just knew he was one of the best players in this league and he's all about winning. And as he's been providing, we see he's all about winning and I think that's pretty much all I knew about. And I knew he was a little little crazy, but in a good way."
 
@@ -46,7 +56,7 @@ From: ["We Have A Lot Of Fun Playing Defense." \| Jonathan Kuminga Postgame Soun
 
 <small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5&slack=1)</small>
 
-**5. Jaylen Brown — "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends." — Jaylen Brown praises Tyrese Maxey's aggressive play on both ends** [00:26](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
+**6. Jaylen Brown — "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends." — Jaylen Brown praises Tyrese Maxey's aggressive play on both ends** [00:26](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
 
 Jaylen Brown: "**Tyrese Maxey** is a dog. He was aggressive tonight, he looked good tonight on both ends, on offense and defense. You know, Tyrese is just going to continue to accelerate his game and it's a joy to watch."
 
@@ -56,7 +66,7 @@ From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Jaylen Brown \|
 
 <small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2&slack=1)</small>
 
-**6. Grant Williams — "Our team is doing everything possible that takes to win." — Grant Williams on team competitiveness and reducing turnovers** [00:34](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
+**7. Grant Williams — "Our team is doing everything possible that takes to win." — Grant Williams on team competitiveness and reducing turnovers** [00:34](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
 
 Grant Williams: "Our team is doing everything possible that takes to win. You hold a team like that, to off wings offense to under 100 points, it's one of those where you're competing to the maximum. We just got to tighten up on things that we can control. The turnovers, 27 turnovers, it's something that you're hard to come back from when they get 20 more shots than you do. Just making sure that we're prioritizing the right things when it comes to free throws and coming in matchups and just being more truly focused in on the things that we can control."
 
@@ -66,7 +76,7 @@ From: [Hornets at Suns: Grant Williams Postgame Media Availability \| 11/12/2026
 
 <small>[Clip it](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2) · [Send to Slack](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2&slack=1)</small>
 
-**7. Bones Hyland — "I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room." — The team's collective joy in playing high-energy defense** [02:22](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s)
+**8. Bones Hyland — "I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room." — The team's collective joy in playing high-energy defense** [02:22](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s)
 
 **Unidentified reporter:** "It looks like you guys have a lot of fun playing defense, which is not something that you say a lot, right? Why what is it about this team that makes it fun to play defense?"
 
@@ -78,7 +88,7 @@ From: ["We're Building A Brotherhood That Translates To Winning." \| Bones Hylan
 
 <small>[Clip it](presserclips://clip?v=Cv9AcdMd_c4&t=142&q=3) · [Send to Slack](presserclips://clip?v=Cv9AcdMd_c4&t=142&q=3&slack=1)</small>
 
-**8. LaMelo Ball — "Rudy is center and the point guard, so just that combination right there got to be real strong" — LaMelo Ball on his connection with Rudy Gobert** [02:16](https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s)
+**9. LaMelo Ball — "Rudy is center and the point guard, so just that combination right there got to be real strong" — LaMelo Ball on his connection with Rudy Gobert** [02:16](https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s)
 
 LaMelo Ball: "**Rudy** is center and the point guard, so just that combination right there got to be real strong, got to work. So definitely just talk to **Rudy** a lot, ask what he see, I let him know what I see, and try to put our minds together and just go from there."
 
@@ -88,7 +98,7 @@ From: ["We Want To Continue To Build Winning Habits." \| LaMelo Ball Postgame So
 
 <small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=136&q=5) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=136&q=5&slack=1)</small>
 
-**9. Terance Mann — "Just come out with more urgency, more energy, more fight." — Terance Mann on the need for more urgency and effort** [04:28](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=268s)
+**10. Terance Mann — "Just come out with more urgency, more energy, more fight." — Terance Mann on the need for more urgency and effort** [04:28](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=268s)
 
 Terance Mann: "Just come out with more urgency, more energy, more fight. You know the coaches, they do a good job with the game plans. Yeah, we have to execute the game plan, but it also comes with effort, and I think we just lacked effort last game."
 
@@ -97,6 +107,16 @@ Terance Mann: "Just come out with more urgency, more energy, more fight. You kno
 From: [Media Availability (11/12/26) \| LA Clippers](https://www.youtube.com/watch?v=NP9hYeq4kMw) · *LA Clippers*
 
 <small>[Clip it](presserclips://clip?v=NP9hYeq4kMw&t=268&q=6) · [Send to Slack](presserclips://clip?v=NP9hYeq4kMw&t=268&q=6&slack=1)</small>
+
+**11. Immanuel Quickley — "it's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back" — Immanuel Quickley on the need for team-wide effort without Scottie Barnes and Kawhi Leonard** [00:50](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
+
+Immanuel Quickley: "Not right now, we need more. It's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back, we got to do it as a team. You can't win as individuals. It's not an individual sport. It's not swimming, not boxing, so you need everybody."
+
+[https://www.youtube.com/watch?v=lNJBW32daqs&t=50s](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
+
+From: [Immanuel Quickley \| Post Game at Philadelphia 76ers \| November 12, 2026](https://www.youtube.com/watch?v=lNJBW32daqs) · *Toronto Raptors*
+
+<small>[Clip it](presserclips://clip?v=lNJBW32daqs&t=50&q=3) · [Send to Slack](presserclips://clip?v=lNJBW32daqs&t=50&q=3&slack=1)</small>
 
 ---
 
@@ -360,6 +380,86 @@ _Speakers identified: Bones Hyland_
 
 ---
 
+## Devin Booker Postgame Media Availability  | 11-12-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=IQ1QPUBOHH8](https://www.youtube.com/watch?v=IQ1QPUBOHH8)
+
+_Speakers identified: Devin Booker_
+
+**1. Devin Booker — "the quicker we can recognize that they're running and hitting and we can get to our space" — Devin Booker on the Suns' offensive execution against defensive pressure** [00:04](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=4s)
+
+Devin Booker: "The quicker we can recognize that they're running and hitting and we can get to our space, I think the better look that we get."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=4s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=4s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=4&q=1) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=4&q=1&slack=1)</small>
+
+**2. Devin Booker — "we're still searching, we're still finding. We've had parts of the game where we look really good" — Devin Booker on the team's ongoing search for offensive flow** [01:06](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=66s)
+
+Devin Booker: "To be transparent, we're still searching, we're still finding. We've had parts of the game where we look really good with certain lineups and certain lineups we come in, we just can't find that flow. We get a sample size. I always say it feels better in a win, but we definitely have some things to clean up."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=66s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=66s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=66&q=2) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=66&q=2&slack=1)</small>
+
+**3. Devin Booker — "I think the pull-up Trey opens up everything. Even when you're not making it, it makes the defense come out" — Devin Booker on the importance of aggressive shot-making and spacing** [01:51](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=111s)
+
+Devin Booker: "I think the pull-up **Trey** opens up everything. Even when you're not making it, it makes the defense come out and make sure to make you a threat. So I'm going to keep letting them go when I get some space, to hopefully stress their defense out and open up other opportunities for my teammates."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=111s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=111s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=111&q=3) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=111&q=3&slack=1)</small>
+
+**4. Devin Booker — "it's a possession game at the end of the day. We've been preaching that from the beginning" — Devin Booker on the team's focus on low turnover numbers** [02:24](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=144s)
+
+Devin Booker: "It's important. It's a possession game at the end of the day. We've been preaching that from the beginning. We usually think about it as us getting extra possessions on the offense end, but getting a shot on goal every time down is important, too. We're at our best when we're getting a shot and we're giving an opportunity to at least get offensive rebound versus throwing the other team the ball and having to guard in transition."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=144s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=144s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=144&q=4) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=144&q=4&slack=1)</small>
+
+**5. Devin Booker — "we have a deep roster, we have a bunch of talent on the team, so it's our job" — Devin Booker on the necessity of lineup versatility and consistency** [03:09](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=189s)
+
+Devin Booker: "It's important for flow, supporting the feel, seeing what lineups mesh well with each other and which ones don't. Every night it could be different. We have a deep roster, we have a bunch of talent on the team, so it's our job to make it a plug-and-play. We still need to keep our standards and what we do the same no matter who's on the court."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=189s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=189s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=189&q=5) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=189&q=5&slack=1)</small>
+
+**6. Devin Booker — "when Jordan Goodwin gets in the game, you can almost feel the arena start getting ready for something" — Devin Booker on Jordan Goodwin's impact off the bench** [03:57](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=237s)
+
+Devin Booker: "When **Jordan Goodwin** gets in the game, you can almost feel the arena start getting ready for something. You can feel the energy in the gym and I always say he has a knack for the ball that I haven't seen from anybody through my career. I used to think he would just be lucky he'd be in the right spot at the right time, but that's taking away from his skill of reading the game, reading offensive rebounds, knowing who he's guarding, knowing their tendencies."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=237s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=237s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=237&q=6) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=237&q=6&slack=1)</small>
+
+**7. Devin Booker — "him and Eric Gordon have this two-man game that they've been exhausting for a couple years now" — Devin Booker on the spacing benefits of Eric Gordon's shooting** [04:40](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=280s)
+
+Devin Booker: "Him and **Eric Gordon** have this two-man game that they've been exhausting for a couple years now. I've talked about it having to guard it in training camp, it's not easy. It's not Stephen Curry-like, but you definitely can't lose them. And he's hitting **Eric Gordon**, **Eric Gordon**'s dropping it behind his back, and if it's not the first one, he might hit **Eric Gordon** and get it back again. So you have to be conditioned to guard them and you have to stay locked in."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=280s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=280s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=280&q=7) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=280&q=7&slack=1)</small>
+
+**8. Devin Booker — "we started off one and five, we've ran off a few now, but still learning" — Devin Booker on the team's commitment to the process** [05:32](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=332s)
+
+Devin Booker: "We started off one and five, we've ran off a few now, but still learning. Coming in with the same mindset tomorrow as if we lost the game. We still have things to clean up. We're building for something bigger than the first 10 games of the season."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=332s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=332s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=332&q=8) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=332&q=8&slack=1)</small>
+
+**9. Devin Booker — "get everybody on the same page. There should be no fall-off, no matter who's on the court" — Devin Booker on the need for consistent team chemistry** [06:19](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=379s)
+
+Devin Booker: "Just get everybody on the same page. There should be no fall-off, no matter who's on the court. There's obviously going to be ups and downs throughout the games, but the downs can't be as bad as they've been."
+
+[https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=379s](https://www.youtube.com/watch?v=IQ1QPUBOHH8&t=379s)
+
+<small>[Clip it](presserclips://clip?v=IQ1QPUBOHH8&t=379&q=9) · [Send to Slack](presserclips://clip?v=IQ1QPUBOHH8&t=379&q=9&slack=1)</small>
+
+---
+
 ## Bones Hyland Postgame On Court Interview Vs The Dallas Mavericks | 11.12.26 — *Minnesota Timberwolves*
 
 Source: [https://www.youtube.com/watch?v=LV1SmElzhD4](https://www.youtube.com/watch?v=LV1SmElzhD4)
@@ -547,6 +647,78 @@ Jonathan Kuminga: "I just knew he was one of the best players in this league and
 [https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s)
 
 <small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5&slack=1)</small>
+
+---
+
+## Head Coach Jordan Ott Postgame Media Availability  | 11-12-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=VDRqzf4j3IM](https://www.youtube.com/watch?v=VDRqzf4j3IM)
+
+_Speakers identified: Jordan Ott_
+
+**1. Jordan Ott — "the value and energy that those live ball turnovers create for our group" — Jordan Ott on the importance of defensive disruption and live-ball turnovers** [00:07](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=7s)
+
+Jordan Ott: "We talked about it pregame, just our heat and disruption, getting back to that, and just the value and energy that those live ball turnovers create for our group. Last couple games we didn't do that as well and we wanted to get back to it. Knowing that they're down a couple people and they've been turning it over at a high rate, so that was just one of the keys to the game and we definitely pushed it to the limit, especially in the first half. I thought our heat and our activity was really good."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=7s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=7s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=7&q=1) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=7&q=1&slack=1)</small>
+
+**2. Jordan Ott — "he impacted the game even though he didn't make a three" — Jordan Ott praises Luke Kennard's impact in the fourth quarter** [00:34](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=34s)
+
+Jordan Ott: "He impacted the game even though he didn't make a three, and that's what it takes, especially the way the league is moving. Defense is valued, playmaking, ball movement is valued, and he did all of it. He did all of it, and I thought his looks were great. So yeah, big, big minutes out of Luke."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=34s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=34s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=34&q=2) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=34&q=2&slack=1)</small>
+
+**3. Jordan Ott — "we knew that they were switching more, so we knew we needed to play Oso more" — Jordan Ott explains the decision to bench Jalen in the fourth quarter** [01:00](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=60s)
+
+Jordan Ott: "I knew that would come up. You're in the heat of the battle and I thought that group, not only in the second half, the first half, had it going. The Goody, **Luke**, **Colin**, and Mix. We knew we needed to play Oso more because they were switching more. So when you play those guys and we knew **Book** and **Dylan** were coming back, so we had to manage that. And then on top of it, we had to try to find a way to rebound against these guys. So I think it was a combination of all of it. We'll continue to look at it and try to get the best groups out there at the best time."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=60s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=60s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=60&q=3) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=60&q=3&slack=1)</small>
+
+**4. Jordan Ott — "we're finding different ways to create offense then get to book then have an advantage" — Jordan Ott on the team's focus on defensive rebounding and ball security** [02:08](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=128s)
+
+Jordan Ott: "That's how we want the possession game today. It wasn't again our defensive rebounding. They're one of the best in the league at doing it on their offensive glass, so we knew we had to take care of it. We're finding different ways to create offense then get to book then have an advantage. **Oso** definitely helps some of that. At times, even it felt like we were without a point guard there with **Jaylen**, **Colin** both out. **Luke** was able to help us, Goody was able to help us, and then **Book** has to do some of that. So again, that's something that we're stressing, our fourth quarter execution."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=128s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=128s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=128&q=4) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=128&q=4&slack=1)</small>
+
+**5. Jordan Ott — "every game it's a moving target" — Jordan Ott on the challenges of defending an elite on-ball threat** [02:49](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=169s)
+
+Jordan Ott: "It's tough. Every game it's a moving target. With their five being an elite on-ball defender, you're trying to get to ways where he wasn't involved as much. Knowing that there in the second quarter they switched a lot, so we were trying to move him around a little bit, trying to attack in different ways. But right now it's not one action. It feels like you need multiple actions in every possession because defense is being celebrated, the rules have shifted that way. So we're really just trying to create one domino to create the next."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=169s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=169s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=169&q=5) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=169&q=5&slack=1)</small>
+
+**6. Jordan Ott — "two good defensive teams that switch a lot" — Jordan Ott on the team's growth during the 'figuring it out' stage** [03:52](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=232s)
+
+Jordan Ott: "Two good defensive teams that switch a lot, and that we know we got to find solutions against the switch. We love to create an advantage with our five when they have really good on-ball defenders. We have to find a different solution than just target or just ISO. It was really from the bench, it was like the bench, the players trying to find new ways on the fly. Again, when **Book** is out there communicating to the group, that makes it a lot easier for all of us and that's healthy. That's all healthy. That's part of that figuring it out stage that we're currently in."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=232s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=232s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=232&q=6) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=232&q=6&slack=1)</small>
+
+**7. Jordan Ott — "he's such a winner and wants to do everything in the perfect way" — Jordan Ott on Colin's gravity as a shooter and playmaker** [04:42](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=282s)
+
+Jordan Ott: "He's such a winner and wants to do everything in the perfect way. You have a 24-second shot clock against a good defense, it may not always feel perfect. So just encouraging him to shoot some of those tougher threes that will open up our rolls, that will open up his paint attacks. I thought he got downhill and got to some type of mid-range jump shot. That's what we felt last year. We got to keep encouraging him because he'll take even more steps. He's added to his game this summer, and every possession he's on the floor you just feel that he's going to try to do whatever it takes to win."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=282s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=282s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=282&q=7) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=282&q=7&slack=1)</small>
+
+**8. Jordan Ott — "he just wants to do whatever's right and he's learning as we go" — Jordan Ott on Miles's physical defensive development** [05:33](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=333s)
+
+Jordan Ott: "He just wants to do whatever's right and he's learning as we go. We're learning him just as well. He knows he has great size. I thought tonight he really drove the basketball, it's just we have to find a new solution to finish it out. So I thought he was taking the extra dribble, the extra drive, that's what we need with our group. We're a jump shooting team, we need some type of paint pressure that he provides, and then the physicality defensively. I thought he really took his matchup. A lot of times it just comes down to a one-on-one and when he's on the ball we feel good about it and then he helps us rebounding wise."
+
+[https://www.youtube.com/watch?v=VDRqzf4j3IM&t=333s](https://www.youtube.com/watch?v=VDRqzf4j3IM&t=333s)
+
+<small>[Clip it](presserclips://clip?v=VDRqzf4j3IM&t=333&q=8) · [Send to Slack](presserclips://clip?v=VDRqzf4j3IM&t=333&q=8&slack=1)</small>
 
 ---
 

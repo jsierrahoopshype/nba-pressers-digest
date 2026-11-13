@@ -1,0 +1,276 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-12-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:07",
+      "summary_phrase": "Jordan Ott on the importance of defensive disruption and live-ball turnovers",
+      "names_mentioned": [],
+      "excerpt": "the value and energy that those live ball turnovers create for our group",
+      "quote": "We talked about it pregame, just our heat and disruption, getting back to that, and just the value and energy that those live ball turnovers create for our group. Last couple games we didn't do that as well and we wanted to get back to it. Knowing that they're down a couple people and they've been turning it over at a high rate, so that was just one of the keys to the game and we definitely pushed it to the limit, especially in the first half. I thought our heat and our activity was really good.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott says the Suns focused on defensive heat and forcing live ball turnovers to capitalize on the opponent being shorthanded tonight.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's defensive strategy and the importance of generating live-ball turnovers during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:34",
+      "summary_phrase": "Jordan Ott praises Luke Kennard's impact in the fourth quarter",
+      "names_mentioned": [
+        "Luke Kennard"
+      ],
+      "excerpt": "he impacted the game even though he didn't make a three",
+      "quote": "He impacted the game even though he didn't make a three, and that's what it takes, especially the way the league is moving. Defense is valued, playmaking, ball movement is valued, and he did all of it. He did all of it, and I thought his looks were great. So yeah, big, big minutes out of Luke.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Ott praised Luke Kennard for his impact in the fourth quarter despite not hitting a three, highlighting his value in defense, playmaking, and ball movement.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luke Kennard"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott praises Luke Kennard for his defensive effort and playmaking contributions during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:00",
+      "summary_phrase": "Jordan Ott explains the decision to bench Jalen in the fourth quarter",
+      "names_mentioned": [
+        "Jordan",
+        "Luke",
+        "Colin",
+        "Jalen",
+        "Book",
+        "Dylan"
+      ],
+      "excerpt": "we knew that they were switching more, so we knew we needed to play Oso more",
+      "quote": "I knew that would come up. You're in the heat of the battle and I thought that group, not only in the second half, the first half, had it going. The Goody, Luke, Colin, and Mix. We knew we needed to play Oso more because they were switching more. So when you play those guys and we knew Book and Dylan were coming back, so we had to manage that. And then on top of it, we had to try to find a way to rebound against these guys. So I think it was a combination of all of it. We'll continue to look at it and try to get the best groups out there at the best time.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott addressed the decision to bench Jalen in the fourth quarter, citing the need to manage lineups, defensive switching, and rebounding requirements.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jordan Ott explains the rotation decisions and the reasoning behind benching Jalen in the fourth quarter.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:08",
+      "summary_phrase": "Jordan Ott on the team's focus on defensive rebounding and ball security",
+      "names_mentioned": [
+        "Jaylen",
+        "Colin",
+        "Luke",
+        "Book",
+        "Oso"
+      ],
+      "excerpt": "we're finding different ways to create offense then get to book then have an advantage",
+      "quote": "That's how we want the possession game today. It wasn't again our defensive rebounding. They're one of the best in the league at doing it on their offensive glass, so we knew we had to take care of it. We're finding different ways to create offense then get to book then have an advantage. Oso definitely helps some of that. At times, even it felt like we were without a point guard there with Jaylen, Colin both out. Luke was able to help us, Goody was able to help us, and then Book has to do some of that. So again, that's something that we're stressing, our fourth quarter execution.",
+      "verbatim_original_language": "",
+      "start_seconds": 128,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the Suns fourth quarter execution and the need to manage ball handling duties with key players out.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's focus on defensive rebounding and managing ball security in the absence of primary point guards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:49",
+      "summary_phrase": "Jordan Ott on the challenges of defending an elite on-ball threat",
+      "names_mentioned": [],
+      "excerpt": "every game it's a moving target",
+      "quote": "It's tough. Every game it's a moving target. With their five being an elite on-ball defender, you're trying to get to ways where he wasn't involved as much. Knowing that there in the second quarter they switched a lot, so we were trying to move him around a little bit, trying to attack in different ways. But right now it's not one action. It feels like you need multiple actions in every possession because defense is being celebrated, the rules have shifted that way. So we're really just trying to create one domino to create the next.",
+      "verbatim_original_language": "",
+      "start_seconds": 169,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott explains the difficulty of attacking elite on-ball defenders, noting that the team needs multiple actions per possession to create advantages.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott explains the difficulty of attacking an elite on-ball defender and the need for multiple offensive actions per possession.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:52",
+      "summary_phrase": "Jordan Ott on the team's growth during the 'figuring it out' stage",
+      "names_mentioned": [
+        "Book"
+      ],
+      "excerpt": "two good defensive teams that switch a lot",
+      "quote": "Two good defensive teams that switch a lot, and that we know we got to find solutions against the switch. We love to create an advantage with our five when they have really good on-ball defenders. We have to find a different solution than just target or just ISO. It was really from the bench, it was like the bench, the players trying to find new ways on the fly. Again, when Book is out there communicating to the group, that makes it a lot easier for all of us and that's healthy. That's all healthy. That's part of that figuring it out stage that we're currently in.",
+      "verbatim_original_language": "",
+      "start_seconds": 232,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Ott says the Suns are in a figuring it out stage, emphasizing the importance of players communicating and finding solutions on the fly against switching defenses.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's ongoing process of learning how to counter defensive switching.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:42",
+      "summary_phrase": "Jordan Ott on Colin's gravity as a shooter and playmaker",
+      "names_mentioned": [
+        "Colin"
+      ],
+      "excerpt": "he's such a winner and wants to do everything in the perfect way",
+      "quote": "He's such a winner and wants to do everything in the perfect way. You have a 24-second shot clock against a good defense, it may not always feel perfect. So just encouraging him to shoot some of those tougher threes that will open up our rolls, that will open up his paint attacks. I thought he got downhill and got to some type of mid-range jump shot. That's what we felt last year. We got to keep encouraging him because he'll take even more steps. He's added to his game this summer, and every possession he's on the floor you just feel that he's going to try to do whatever it takes to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 282,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jordan Ott is encouraging Colin to take tougher shots to open up the floor, calling him a winner who is constantly trying to add to his game.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Colin"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses encouraging Colin to be more aggressive as a shooter and playmaker to help the team's offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:33",
+      "summary_phrase": "Jordan Ott on Miles's physical defensive development",
+      "names_mentioned": [
+        "Miles"
+      ],
+      "excerpt": "he just wants to do whatever's right and he's learning as we go",
+      "quote": "He just wants to do whatever's right and he's learning as we go. We're learning him just as well. He knows he has great size. I thought tonight he really drove the basketball, it's just we have to find a new solution to finish it out. So I thought he was taking the extra dribble, the extra drive, that's what we need with our group. We're a jump shooting team, we need some type of paint pressure that he provides, and then the physicality defensively. I thought he really took his matchup. A lot of times it just comes down to a one-on-one and when he's on the ball we feel good about it and then he helps us rebounding wise.",
+      "verbatim_original_language": "",
+      "start_seconds": 333,
+      "end_seconds": 380,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on Miles's development, noting the team needs the paint pressure he provides and his physicality on the defensive end.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott evaluates the development of Miles, specifically highlighting his defensive physicality and ability to provide paint pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "VDRqzf4j3IM",
+  "url": "https://www.youtube.com/watch?v=VDRqzf4j3IM",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-13T06:52:21Z",
+  "duration_seconds": 391,
+  "processed_at": "2026-11-13T07:02:37Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}
